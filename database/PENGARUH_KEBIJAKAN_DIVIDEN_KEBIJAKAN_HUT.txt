@@ -1,0 +1,1710 @@
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+PENGARUH KEBIJAKAN DIVIDEN, KEBIJAKAN HUTANG, DAN
+PROFITABILITAS TERHADAP NILAI PERUSAHAAN
+(Studi Pada Perusahaan Pertambangan yang terdaftar di BEI Periode 2009-2013)
+
+Ika Sasti Ferina, SE, MSi, Ak, CA; Hj Rina Tjandrakirana DP, SE, MM, Ak, CA;
+Ilham Ismail
+Jurusan Akuntansi Universitas Sriwijaya
+Abstrak
+Tujuan utama dari penelitian ini adalah untuk menguji pengaruh kebijakan dividen,
+kebijakan hutang, dan profitabilitas terhadap nilai perusahaan. Data yang digunakan
+dalam penelitian ini merupakan data sekunder, yaitu laporan keuangan perusahaan
+pertambangan go publik selama 5 tahun periode 2009-2013, khususnya yang terdaftar
+dalam bursa efek indonesia. Metode sampling yang digunakan dalam penelitian ini adalah
+metode purposive. Sampel yang memenuhi kriteria dalam penelitian ini sebanyak 8
+perusahaan pertambangan. Metode pengolahan data yang digunakan adalah analisis
+deskriptif, uji asumsi klasik, analisis regresi berganda, uji koefisien determinasi, uji F, dan
+uji t. Hasil penelitian menunjukan bahwa kebijakan dividen dan profitabilitas berpengaruh
+positif dan signifikan terhadap nilai perusahaan. Sedangkan untuk kebijakan utang tidak
+memiliki pengaruh yang signifikan terhadap nilai perusahaan. Secara simultan, variabel
+DPR, DER, dan ROE berpengaruh signifikan terhadap PBV. Untuk menguji koefisien
+determinasi, nilai adjusted R2 adalah 0,710, yang berarti bahwa kombinasi variabel
+independen mampu menjelaskan variabel dependen sebesar 71%. Sementara 29% sisanya
+dijelakan oleh faktor-faktor lain di luar model penelitian.
+Kata kunci: Teori Signal, Kebijakan Dividen, Kebijakan Hutang, Profitabilitas, dan Nilai
+Perusahaan.
+
+THE INFLUENCE OF DIVIDENE POLICY, DEBT POLICY, AND
+PROFITABILITY ON THE FIRM VALUE
+(Study on the Mining Company Listed on the Indonesia Stock Exchange Period 2009-2013)
+
+Abstrack
+The main purposes of this research is to test the influence of dividend policy, debt
+policy and profitability on the firm value.The data used in this study is a secondary data,
+namely mining gopublic company's annual report in 2009 - 2013, especially listed in the
+Indonesia Stock Exchange (www.idx.co.id), The sampling method used in this study is
+purposive sampling method. Samples that passed the criteria in this study were 8 mining
+company. Data processing method used is descriptive analysis, the classical assumption
+test, multiple regression analysis, the coefficient of determination test, F test and t test.The
+results showed that the dividend policy and profitability and a significant positive effect on
+firm value. As for the debt policy has no significant effect on firm value. Simultaneously,
+the House variable, DER, and ROE significant effect on PBV.To test the coefficient of
+determination, the value of adjusted R2was 0,710, which means that the combination of the
+independent variables are able to explain the dependent variable by 71%. While the
+remaining 29% dijelakan by other factors outside of our model.
+Keywords: Signalling Theory, Dividend Policy, Debt Policy, Profitability, and Firm Value.
+52
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+1 PENDAHULUAN
+1.1 Latar Belakang
+Perusahaan adalah setiap bentuk
+badan usaha yang merupakan tempat
+berkumpulnya tenaga kerja, modal, sumber
+daya alam, dan kewirausahaan yang
+bertujuan untuk memperoleh keuntungan
+atau laba yang sebesar-besarnya. Dengan
+memperoleh laba yang maksimal. Maka
+perusahaan
+dapat
+mempertahankan
+kelangsungan hidupnya dan dapat terus
+berkembang
+serta
+memberikan
+pengembalian yang menguntungkan bagi
+para
+pemiliknya
+dalam
+rangka
+memakmurkan pemilik perusahaan. Dalam
+era globalisasi yang semakin kompetitif
+sekarang
+ini
+perusahaan
+harus
+meningkatkan daya saing baik di pasar
+domestik maupun di pasar internasional
+untuk mencapai tujuan perusahaan tersebut.
+Terutama perusahaan yang telah go public.
+sehingga perusahaan tersebut sudah harus
+memberikan perhatian penuh terhadap
+kegiatan
+operasional
+dan
+finansial
+perusahaan dengan cara mempekerjakan
+tenaga ahli atau profesional untuk
+diposisikan sebagai manajer maupun
+komisaris untuk mengelola perusahaan.
+Dengan di tempatkannya pengelola tenaga
+ahli dan profesional maka diharapkan
+kinerja perusahaan akan menjadi lebih
+terjamin dan dapat bertahan serta bersaing
+di pasar domestik maupun pasar
+internasional.
+Nilai perusahaan dapat didefinisikan
+sebagai cerminan nilai aset yang dimiliki
+perusahaan ketika akan dijual. Menurut
+Sartono (2008), nilai perusahaan diartikan
+sebagai harga yang bersedia dibayar oleh
+calon investor seandainya suatu perusahaan
+akan dijual. Dalam Maurice dikutip dalam
+Rustendi & Jimmi (2008), nilai perusahaan
+adalah sebagai berikut: “Value of the firm is
+the price for which the firm can be sold,
+which equals the present value of future
+profits”.
+Dengan kata lain bagi perusahaan
+yang telah menerbitkan saham di pasar
+modal, harga saham yang diperjual belikan
+di bursa merupakan indikator nilai. Tinggi
+
+rendahnya harga saham yang dikeluarkan
+banyak dipengaruhi oleh kondisi emiten
+Sehingga dengan memaksimumkan nilai
+pasar
+perusahaan
+sama
+dengan
+memaksimumkan harga pasar saham.
+Faktor
+pertama yang dapat
+dihubungkan dengan nilai perusahaan atau
+harga saham perusahaan adalah kebijakan
+dividen. Menurut Weston dan Brigham
+(2005), kebijakan dividen yang optimal
+adalah kebijakan dividen yang menciptakan
+keseimbangan di antara dividen saat ini dan
+pertumbuhan di masa mendatang sehingga
+memaksimumkan harga saham perusahaan.
+Investor memiliki tujuan utama untuk
+meningkatkan
+kesejahteraan
+dengan
+mengharapkan pengembalian dalam bentuk
+dividen maupun capital gains. Sedangkan
+perusahaan mengharapkan pertumbuhan
+secara
+terus
+menerus
+untuk
+mempertahankan kelangsungan hidupnya
+dan sekaligus memberikan kesejahteraan
+bagi pemegang sahamnya.
+Faktor kedua yang mempengaruhi
+nilai perusahaan adalah kebijakan hutang,
+Menurut Mogdiliani dan Miller dalam
+Brigham dan Gapensky (1999), nilai
+perusahaan ditentukan oleh struktur modal.
+Kebijakan utang sangat sensitifterhadap
+perubahan nilai perusahaan. Semakin tinggi
+proporsi utang makasemakin tinggi harga
+saham, namun pada titik tertentu
+peningkatan utang akanmenurunkan nilai
+perusahaan karena manfaat yang diperoleh
+dari penggunaanutang lebih kecil daripada
+biaya yang ditimbulkannya.
+Faktor
+ke
+tiga
+yang
+dapat
+mempengaruhi nilai perusahaan adalah
+besar kecilnya profitabilitas yang dihasilkan
+oleh prusahaan. Profitabilitas merupakan
+tingkat keuntungan bersih yang mampu
+diraih oleh perusahaan pada saat
+menjalankan operasinya. Keuntungan yang
+layak dibagikan oleh perusahaan kepada
+pemegang saham adalah keuntungan setelah
+bunga dan pajak. Semakin besar
+keuntungan yang diperoleh maka semakin
+besar pula kemampuan perusahaan unuk
+membayar dividennya.
+53
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+Adapun alasan pemilihan perusahaan
+pertambangan sebagai objek penelitian ini
+karena Undang-Undang Nomor 4 Tahun
+2009 tentang Pertambangan Mineral dan
+Batubara (Minerba) yang akan mulai di
+berlakukan pada 12 januari 2014. Tujuan
+diterbitkannya undang-undang tersebut
+adalah untuk meningkatkan nilai tambah
+mineral melalui kegiatan pengolahan dan
+pemurnian mineral denganmembangun
+pabrik pengolahan dan pemurnian mineral
+(smelter) di dalam negeri.
+Berdasarkan latar belakang tersebut,
+peneliti tertarik untuk meneliti perusahaan
+pertambangan untuk melihat bagaimana
+posisi kebijakan dividen, kebijakan hutang,
+profitabilitas perusahaan serta nilai
+perusahaan Pertambangan tersebut di Bursa
+Efek Indonesia.
+1.2 Perumusan Masalah
+Berdasarkan uraian diatas maka yang
+menjadi permasalahan dalam penelitian ini
+adalah sebagai berikut:
+1. Bagaimana pengaruh kebijakan dividen,
+kebijakan hutang, dan profitabilitas
+terhadap nilai perusahaan secara parsial
+pada perusahaan pertambangan di BEI
+Periode 2009-2013?
+2. Bagaimana pengaruh kebijakan dividen,
+kebijakan hutang, dan profitabilitas
+terhadap nilai perusahaan secara
+simultan pada perusahaan pertambangan
+di BEI tahun 2009-2013?
+1.3 Tujuan Penelitian
+Sesuai dengan perumusan masalah,
+penelitian ini bertujuan untuk
+1. Untuk mengetahui pengaruh kebijakan
+dividen,
+kebijakan
+hutang,
+dan
+profitabilitas terhadap nilai perusahaan
+secara
+parsial
+pada
+perusahaan
+pertambangan di BEI periode 20092013.
+2. Untuk mengetahui pengaruh kebijakan
+dividen,
+kebijakan
+hutang,
+dan
+profitabilitas terhadap nilai perusahaan
+secara simultan pada perusahaan
+pertambangan di BEI tahun 2009-2013?
+1.4 Manfaat Penelitian
+Hasil penelitian ini diharapkan dapat
+memberikan manfaaat, yaitu:
+
+1. Manfaat akademis, yaitu sebagai
+referensi bagi pihak-pihak yang ingin
+melakukan penelitian sejenis maupun
+memperdalam penelitian ini.
+2. Manfaat praktis, yaitu sebagai bahan
+pertimbangan bagi pihak manajerial
+perusahaan dalam menentukan kebijakan
+untuk meningkatkan nilai perusahaan.
+2. TINJAUAN PUSTAKA
+2.1 Landasan Teori
+Teori signalling mengemukakan
+tentang bagaimana seharusnya sebuah
+perusahaan memberikan sinyal kepada
+pengguna laporan keuangan. Brigham dan
+Houston (2001), menyatakan bahwa sinyal
+adalah suatu tindakan yang diambil oleh
+manajemen perusahaan yang memberikan
+petunjuk bagi investor tentang bagaimana
+manajemen
+memandang
+prospek
+perusahaan.
+Jika
+manajer
+memiliki
+keyakinan bahwa prospek perusahaan baik,
+dan karenanya ingin agar harga saham
+meningkat, manajer tersebut tentunya ingin
+mengkomunikasikan hal tersebut kepada
+para investor.
+2.1.2 Kebijakan Dividen
+Ikatan Akuntan Indonesia (2004),
+dalam PSAK No. 23, merumuskan dividen
+sebagai distribusi laba kepada pemegang
+saham sesuai dengan proporsi mereka dari
+jenis modal tertentu. Laba bersih
+perusahaan akan berdampak berupa
+peningkatan saldo laba (retained earnings)
+perusahaan.
+Apabila
+saldo
+laba
+didistribusikan kepada pemegang saham
+maka saldo laba akan berkurang sebesar
+nilai yang didistribusikan tersebut.
+Teori Kebijakan Dividen yaitu:
+1) TheoryBird-in-the hand
+Menurut Gordon dan Lintner dikutip
+dalam Jusriani (2013), menyatakan
+bahwa
+nilai
+perusahaan
+akan
+dimaksimumkan oleh rasio pembayaran
+dividen yang tinggi, karena investor
+menganggap bahwa resiko dividen tidak
+sebesar kenaikan biaya modal, sehingga
+investor lebih menyukai keuntungan
+dalam
+bentuk
+dividen
+daripada
+54
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+keuntungan yang diharapkan dari
+kenaikan nilai modal.
+2) Tax Preference theory
+Tax Preference Theory adalah suatu teori
+yang menyatakan bahwa karena adanya
+pajak terhadap keuntungan dividen dan
+capital gains maka para investor lebih
+menyukai capital gains karena dapat
+menunda pembayaran pajak.
+3) Clientele effect
+Menurut Weston dan Brigham (2005),
+Clientele effect adalah kecenderungan
+perusahaan untuk menarik jenis investor
+yang menyukai kebijakan dividennya.
+Argumen Miller dan Modligiani
+menyatakan bahwa suatu perusahaan
+menetapkan
+kebijakan
+pembagian
+dividen khusus, yang selanjutnya
+menarik sekumpulan peminat atau
+clientele yang terdiri dari para investor
+yang menyukai kebijakan dividen
+khusus tersebut.
+2.1.3 Kebijakan Hutang
+Pengertian utang menurut FASB
+dalam SFAC no. 6 yang di alih bahasakan
+oleh Chariri dan Ghozali (2007), utang di
+definisikan sebagai berikut: Utang adalah
+pengorbanan manfaat ekonomi masa
+mendatang yang mungkin timbul karena
+kewajiban sekarang suatu entitas untuk
+menyerahkan aktiva atau memberikan jasa
+kepada entitas lain dimasa mendatang
+sebagai akibat transaksi masa lalu.
+Teori Kebijakan Hutang yaitu:
+1) Tradeoff theory
+Teori
+ini
+menganggap
+bahwa
+penggunaan hutang 100 persen sulit
+dijumpai. Kenyataannya semakin banyak
+hutang, maka semakin tinggi beban yang
+harus ditanggung. Satu hal yang penting
+bahwa dengan meningkatknya hutang,
+maka semakin tinggi probabilitas
+kebangkrutan. Beban yang harus
+ditanggung saat menggunakan hutang
+yang lebih besar adalah biaya
+kebangkrutan, biaya keagenan, beban
+
+bunga yang semakin besar dan
+sebagainya
+2) Pecking Order theory
+Menurut Mamduh (2004) Teori pecking
+order
+menetapkan
+suatu
+urutan
+keputusan pendanaan dimana para
+manajer pertama kali akan memilih
+untuk menggunakan laba ditahan, hutang
+dan penerbitan saham sebagai pilihan
+terakhir. Penggunaan hutang lebih
+disukai karena biaya yang dikeluarkan
+untuk hutang lebih murah dibandingkan
+dengan biaya penerbitan saham.
+2.1.4 Profitabilitas
+Menurut Brigham dan Houston
+(2006), Profitabilitas adalah hasil akhir dari
+sejumlah
+kebijakan
+dan
+keputusan
+manajemen perusahaan. dapat dikatakan
+profitabilitas
+perusahaan
+merupakan
+kemampuan
+perusahaan
+dalam
+menghasilkan laba bersih dari aktivitas
+yang dilakukan pada periode akuntansi.
+2.1.5 Nilai Perusahaan
+Nilai perusahaan adalah harga sebuah
+saham yang telah beredar di pasarsaham
+yang harus dibayar oleh investor untuk
+dapat memiliki sebuah perusahaanGo
+Public memungkinkan masyarakat maupun
+manajemen mengetahui nilaiperusahaan,
+nilai perusahaan tercermin pada kekuatan
+tawar-menawar saham,apabila perusahaan
+diperkirakan sebagai perusahaan yang
+mempunyai prospekyang bagus dimasa
+yang akan datang, nilai saham akan menjadi
+semakin
+tinggi.Sebaliknya,
+apabila
+perusahaan dinilai kurang mempunyai
+prospek maka harga saham menjadi lemah.
+2.1.6 Price to Book Value (PBV)
+Nilai perusahaan dalam penelitian ini
+diukur dengan price to book value (PBV)
+ratio. Price to book value (PBV) ratio
+adalah suatu rasio yang sering digunakan
+untuk menentuka nilai perusahaan dan
+mengambil keputusan investasi dengan cara
+membandingkan harga pasar per saham
+dengan nilai buku perusahaan.
+
+55
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+2.2 Kerangka Pemikiran
+Kebijakan
+Dividen
+(DPR)
+
+Parsial
+H1
+
+Kebijakan
+Hutang
+(DER)
+
+Nilai
+Perusahaan
+(PBV)
+(Y)
+
+H2
+
+H3
+Profitabilitas
+(ROE)
+(X )
+
+Simultan
+H4
+
+2.3 Hipotesis
+1. Pengaruh Kebijakan Dividen Terhadap Nilai Perusahaan
+H1 : Kebijakan dividen berpengaruh positif terhadap nilai perusahaan.
+2. Pengaruh Kebijakan Hutang Terhadap Nilai Perusahaan
+H2 : Kebijakan hutang berpengaruh positif terhadap nilai perusahaan.
+3. Pengaruh Profitabilitas Terhadap Nilai Perusahaan
+H3 : Profitabilitas berpengaruh positif dan signifikan terhadap nilai perusahaan.
+3. METODE PENELITIAN
+3.1 Populasi dan Sampel
+Menurut Indrianto dan Supomo
+(2002), Populasi (population) yaitu
+sekelompok orang, kejadian atau segala
+sesuatu yang mempunyai karakteristik
+tertentu. Adapun populasi dalam penelitian
+adalah perusahaan pertambangan yang
+terdaftar di Bursa Efek Indonesia
+Menurut Sugiyono (2013), Sampel
+adalah bagian dari jumlah dan karakteristik
+yang dimiliki oleh populasi. Pada umumnya
+terdapat dua teknik dalam pengambilan
+sample, yaitu Probability Sampling dan
+NonprobabilitySampling. Pada penelitian
+ini teknik sampling yang digunakan adalah
+Nonprobability sampling dengan teknik
+Sampling Purposive.
+Menurut Sugiyono (2013), Sampling
+Purposivemerupakan teknik penentuan
+sample dengan pertimbangan tertentu. Pada
+tabel 3.2 akan terlihat penerapan Sampling
+Purposivedalam penelitian ini. Berikut ini
+
+adalah Karakteristik sampel yang diambil
+adalah sebagai berikut :
+1. Perusahaan Pertambangan yang telah
+mendaftarkan sahamnya pada Bursa
+Efek Indonesia mulai tahun 2009
+kebawah.
+2. Perusahaan
+Pertambangan
+yang
+membagikan dividen selama tahun 2009
+sampai tahun 2013
+3. Perusahaan
+Pertambangan
+tidak
+mengalami kerugian selama tahun 2009
+sampai tahun 2013 untuk menghindari
+terjadinya anomali dalam analisis.
+4. Data yang tersedia lengkap (data secara
+keseluruhan tersedia pada publikasi
+periode 2009 - 2013), baik data yang
+diperlukan untuk menghitung DPR,
+DER, ROE dan PBV.
+3.2 Metode Pengumpulan Data
+1) Teknik Pengumpulan Data
+Pengumpulan data dapat dilakukan
+dalam berbagai setting. Berbagai
+sumber, dan berbagai cara. Bila dilihat
+dari sumber datanya, maka pengumpulan
+56
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+data dapat menggunakan sumber primer
+dan sekunder. Menurut Sugiyono (2013),
+sumber primer adalah sumber data yang
+langsung memberikan data kepada
+pengumpul data, dan sumber sekunder
+merupakan pengumpulan data dimana
+sumber tidak langsung memberikan data
+kepada pengumpul data, misalnya lewar
+orang lain atau dokumen.
+Pada penelitian ini, teknik pegumpulan
+data yang digunakan adalah berdasarkan
+sumbernya, yakni sumber sekunder.
+Penelitian mengumpulkan data berupa
+laporan
+keuangan
+perusahaan
+pertambangan yang terdaftar di Bursa
+Efek Indonesia Periode 2009-2013
+melalui media online yang merupakan
+situs
+web
+resmi
+BEI,
+yaitu
+www.idx.co.id.
+2) Jenis dan Sumber Data
+Data adalah sesuatu yang belum
+mempunyai arti bagi penerimannya dan
+masih memerlukan adanya suatu
+pengolahan. Data bisa berwujud suatu
+keadaan, gambar, suara, huruf, angka,
+matematika, bahasa ataupun simbolsimbol lainnya yang bisa kita gunakan
+sebagai bahan untuk melihat lingkungan,
+obyek, kejadian ataupun sutau konsep.
+Data didapatkan dengan mengukur nilai
+satu atau lebih variabel dalam sampel
+(atau populasi). Semua data yang ada
+pada hakikatnya merupakan cerminan
+suatu variabel yang diukur menurut
+klasifikasinya. Dengan demikian, data
+dapat
+diklasifikasikan
+berdasarkan
+berbagai kriteria, misalnya berdasarkan
+jenisnya,
+sumbernya,
+cara
+memperolehnya
+dan
+waktu
+pengumpulannya.
+3.3 Identifikasi dan Definisi Operasional
+Variabel
+Penelitian ini menggunakan dua
+macam variabel, yaitu variabel independen,
+merupakan variabel yang mempengaruhi
+variabel dependen dan disimbolkan dengan
+X. Variabel ini terdiri dari :
+1) X1 : Variabel Kebijakan Dividen
+2) X2 : Variabel Kebijakan Hutang
+3) X3 : Variabel Profitabilitas
+
+Variabel
+dependen,
+merupakan
+Variabel yang dipengaruhi oleh variabel
+independen dan disimbolkan dengan Y.
+Variabel ini berupa Nilai Perusahaan.
+3.4 Definisi Operasional Variabel
+1. Variabel Independen (X)
+Menurut Sarwono (2010), Variabel
+independen adalah Variabel bebas yang
+merupakan variabel stimulus atau variabel
+yang mempengaruhi variabel lain. Pada
+penelitian ini, variabel independen yang
+digunakan adalah kebijakan dividen,
+kebijakan hutang, dan profitabilitas.
+a. Kebijakan Dividen (X1)
+Proxy dari kebijakan dividen yang
+dipilih untuk penelitian ini adalah
+Dividend Payout Ratio (DPR), dengan
+alasan bahwa, DPR lebih dapat
+menggambarkan perilaku oportunistik
+manajerial yaitu dengan melihat berapa
+besar keuntungan yang dibagikan kepada
+shareholders sebagai dividen dan berapa
+yang disimpan di perusahaan. Rumus
+dividend payout ratio adalah sebagai
+berikut:
+=
+b. Kebijakan Hutang (X2)
+Proxy dari kebijakan hutang pada
+penelitian ini adalah Debt to Equity
+Ratio (DER). Tujuan dari rasio ini
+adalah untuk mengukur kemampuan
+perusahaan dalam membayar hutanghutang yang dimilikinya dengan modal
+atau ekuitas yang ada. Rumus debt to
+equity ratio adalah sebagai berikut:
+=
+c. Profitabilitas (X3)
+Rasio
+profitabilitas
+menghitung
+kemampuan
+perusahaan
+dalam
+mendapatkan
+keuntungan.
+Dalam
+penelitian ini digunakan proxy Return on
+Equity
+(ROE)
+untuk
+mengukur
+profitabilitas perusahaan. Rasio ROE
+adalah rasio laba bersih terhadap ekuitas
+saham biasa, yang mengukur tingkat
+pengembalian atas investasi dari
+pemegang saham biasa. Rumus ROE
+dapat dihitung sebagai berikut:
+57
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+=
+2. Variabel Terikat (Y)
+Variabel terikat adalah variabel yang
+variabelitasnya diamati dan diukur untuk
+menentukan pengaruh yang disebabkan
+oleh variabel bebas. Dalam penelitian ini
+variabel dependen yang digunakan
+adalah nilai perusahaan.
+
+a. Nilai Perusahaan (Y)
+Nilai perusahaan publik ditentukan oleh
+pasar saham. Nilai perusahaan yang
+sahamnya tidak diperdagangkan kepada
+publik juga sangat dipengaruhi oleh
+pasar yang sama. Nilai perusahaan pada
+penelitian
+ini
+diukur
+dengan
+menggunakan rasio Price to Book Value
+(PBV). Rasio PBV dapat dihitung
+dengan rumus:
+
+=
+=
+3.5 Metode Analisis Data
+Analisis Deskriptif
+a. Analisis Data
+Sugiyono (2013), berpendapat bahwa
+analisis data adalah kegiatan yang
+mencangkup penggelompokan data
+berdasarkan variabel, tabulasi data
+berdasarkan variabel dari penelitian,
+serta penyajian tiap data variabel yang
+diteliti.
+b. Analisis Statistik Deskriptif
+Statistik deskriptif menurut Sugiyono
+(2013),
+dapat
+dilakukan
+untuk
+mendiskripsikan data sampel, dan tidak
+membuat kesimpulan yang berlaku
+untuk populasi di mana sampel itu
+diambil. Statistik deskriptif pada
+penelitian
+ini
+digunakan
+untuk
+memberikan
+gambaran
+umum
+(deskriptif) mengeai data variabel yang
+digunakan pada penelitian ini, seperti
+nilai minimum, nilai maksimum, nilai
+rata-rata, dan standar devisiasi.
+
+4. HASIL
+PENELITIAN
+DAN
+PEMBAHASAN
+4.1 Uji Normalitas
+Normalitas
+pada
+penelitian
+ini
+bertujuan untuk menguji data yang
+merupakan tahap awal untuk setiap
+analisis baik untuk variabel dependen
+(PBV) maupun variabel independen
+(DPR, DER, ROE). Pada penelitian ini
+pengujian
+normalitas data dapat
+menggunakan analisis statistik nonparametik, yaitu dengan melihat nilai
+parametik Kolmogrov-Smirnov (KS).Selain analisis tersebut terdapat
+analisis grafik, yang merupakan salah
+satu cara termudah untuk melihat
+normalitas. Dapat dilakukan dengan
+cara melihat grafik normal probability
+plot yang membandingkan distributsi
+kumulatif dari distributsi normal.
+Distributsi yang
+normal akan
+membentuk satu garis lurus diagonal,
+dan ploting data residual akan
+dibandingkan dengan garis diagonal.
+
+58
+
+Jurnal Akuntanika, No. 1 , Vol. 2,, Jul
+Juli- Desember 2015
+Tabel 4.1
+Output Uji Normalitas Data
+One-Sample Kolmogorov-Smirnov Test
+DPR
+DER
+ROE
+40
+40
+40
+ean
+n
+,569000
+1,075750
+,212500
+00
+a,b
+ormal Parameters
+Std. De
+Deviation
+,5313833
+,9757571
+,1640786
+86
+Absolu
+lute
+,189
+,209
+,142
+42
+ost Extreme Differences
+Positive
+tive
+,189
+,209
+,142
+42
+egativ
+ative
+-,159
+-,187
+-,120
+20
+Kolmogorov-Smirnov Z
+1,197
+1,319
+,901
+01
+Asymp. Sig. (2-tailed)
+,114
+,062
+,391
+91
+a. Test distribution is Normal
+al.
+b. Calculated from data.
+
+PBV
+40
+2,863000
+2,3169190
+,195
+,195
+-,158
+1,235
+,095
+
+Sumber: Data Diolah,
+h, 20
+2014
+PBV sebesar 0,095, DPR sebesar
+sar 0,062, serta ROE
+0,114, DER sebesar
+sebesar 0,391 . Sehingga dapat
+hwa
+data
+pada
+disimpulkan
+bahw
+berdistributsi normal.
+penelitian ini berdi
+an grafik normal PBerikut merupakan
+Plot pada penelitiann iini.
+
+Berdasarkan tabel 4.1 di atas, terlihat
+bahwa darihasil uji K-S untuk variabel
+dependen (PBV) da
+dan independen
+(DPR, DER, ROE) dike
+diketahui memiliki
+distribusi normal dika
+dikarenakan nilai
+normalitas untuk var
+variabel dependen
+maupun independen di atas 0,05, yaitu
+
+Sum
+Sumber: Data Diolah, 2014
+Ga
+Gambar 4.1 Grafik Regresi NormalP-Plot
+Selanjutnya grafik norm
+normal P-Plot pada
+gambar 4.1 menujukan
+an bahwa titik-titik
+mengikuti garis diag
+diagonal. Hal ini
+berarti data padaa penelitian ini
+memiliki distributsi nor
+normal.
+
+4.2 Uji Asumsi Klasik
+tas
+1. Uji Multikolinearitas
+terhadap
+nilai
+Pendekteksian
+te
+pat dilakukan dengan
+multikolinearitas dapa
+melihat nilai VIF ddari hasil analisis
+regresi. Apabila nilai VIF > 10 maka
+ultikolinearitas yang
+terdapat gejala mult
+dari
+uji
+tinggi.
+Berikut
+hhasil
+da penelitian ini.
+multikolinearitas pada
+59
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+Tabel 4.2 Output Uji Multikolinearitas
+a
+
+Coefficients
+Collinearity Statistics
+
+Model
+
+Tolerance
+
+VIF
+
+(Constant)
+DPR
+DER
+ROE
+a.Dependent Variable: HARGA SAHAM
+
+,919
+,824
+,773
+
+1,088
+1,214
+1,294
+
+Sumber: Data Diolah, 2014
+Dari tabel 4.2 di atas terlihat bahwa
+nilai VIF untuk masing-masing variabel
+adalah X1 sebesar 1,088, X2 sebesar 1,214
+dan X3 sebesar 1,294. Artinya semua
+variabel independen < 10. Dengan
+demikian dapat disimpulkan bahwa tidak
+terdapat multikoliniearitas antar variabel
+independen dalam persamaan regresi.
+
+2. Uji Autokorelasi
+Gejala autokorelasi dapat dideteksi
+dengan melakukan uji Durbin-Watson
+(d). dengan membandingkan nilai dtabel
+pada
+= 0,05. Tabel d memiliki dua
+nilai, yaitu nilai batas atas (dU) dan nilai
+batas bawah (dL). Berikut dapat dilihat
+pada tabel 4.11.
+
+Tabel 4.3 OutputUji Autokorelasi
+b
+
+Model Summary
+Model
+R
+R Square Adjusted R Square Std. Error of the Durbin-Watson
+Estimate
+a
+,856
+,732
+,710
+1,2474586
+2,031
+a. Predictors: (Constant), ROE, DPR, DER
+b. Dependent Variable: PBV
+
+Sumber: Data Diolah, 2014
+Dari tabel 4.3, diketahui bahwa
+berdasarkan = 5%; k = 3, dan n = 40
+didapat nilai dL = 1,34; dU = 1,66. Hal ini
+berarti 1,66 < 2,031 < 4 - 1,66 atau 1,66
+< 2,031 < 2,34. Artinya tidak terjadi
+autokorelasi di dalam penelitian ini.
+3. Uji Heteroskedastisitas
+Gejala heteroskedastisitas dilakukan
+dengan uji grafik. Hal ini dapat dilihat
+dari grafik scatterplot yaitu melihat titiktitik penyebaran pada grafik apabila
+tidak ada pola yang jelas, serta
+penyebaran titik-titik tersebar di atas dan
+di bawah angak 0 pada sumbu Y, maka
+tidak terjadi heterokedastisitas.
+
+Sumber: Data Diolah, 2014
+Gambar 4.3 Grafik Scatterplot
+Berdasarkan gambar 4.3 di atas,
+terlihat bahwa titik-titik menyebar kesemua
+area, baik di atas maupun di bawah angka 0
+pada sumbu Y yang merupakan variabel
+PBV. Hal ini berarti tidak terjadi
+heteroskedastisitas pada persamaan regresi
+sehingga persamaan regresi ini layak
+digunakan untuk analisis berikutnya.
+4. Uji Normalitas Model
+Menurut Ghozali (2009), Uji normalitas
+pada bagian ini bertujuan untuk menguji
+apakah dalam model regresi variabel
+60
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+pengganggu atau residual memiliki
+distribusi normal. Seperti diketahui
+bahwa uji t dan F mengasumsikan bahwa
+nilai residual mengikuti distribusi
+normal. Apabila dilanggar maka uji
+
+statistik menjadi tidak valid untuk
+jumlah sample kecil. Untuk mendeteksi
+apakah residual berdistribusi normal atau
+tidak yaitu dengan analisis uji statistik
+Kolmogrov-Smirnov (K-S).
+
+Tabel 4.4
+Output Uji Normalitas Model
+One-Sample Kolmogorov-Smirnov Test
+Unstandardized Residual
+N
+Mean
+a,b
+Normal Parameters
+Std. Deviation
+Absolute
+Most Extreme Differences
+Positive
+Negative
+Kolmogorov-Smirnov Z
+Asymp. Sig. (2-tailed)
+a.
+b.
+
+40
+0E-7
+1,19851948
+,104
+,104
+-,064
+,660
+,776
+
+Test distribution is Normal.
+Calculated from data.
+
+Sumber: Data Diolah, 2014
+Berdasarkan tabel 4.4 di atas, terlihat
+bahwa darihasil uji K-S untuk model
+regresi diketahui memiliki distribusi
+normal dikarenakan nilai normalitas
+model regresi di atas 0,05, yaitu sebesar
+0,776, Sehingga dapat diasumsikan
+bahwa model regresi valid.
+4.3 Uji Regresi Berganda
+Regresi berganda pada dasarnya
+merupakan perluasan dari regresi linier
+
+sederhana, yaitu menambah jumlah variabel
+bebas yang sebelumnya hanya 1 menjadi 2
+atau lebih variabel bebas. Penggunaan
+analisis regresi berganda pada penelitian ini
+berfungsi untuk menunjukan hubungan
+kausalitas antara dua variabel. Serta untuk
+menilai naik turunya variabel dependen
+terhadap keadaan variabel independen.
+Tabel 4.5 di bawah ini merupakan hasil
+analisis regresi berganda yang dilakukan.
+
+Tabel 4.5
+Output Uji Regresi Berganda
+a
+
+Coefficients
+Unstandardized Coefficients
+Standardized
+Coefficients
+
+odel
+
+B
+onstant)
+
+a.
+
+Std. Error
+,200
+
+PR
+,795
+ER
+-,274
+OE
+11,789
+Dependent Variable: HARGA SAHAM
+
+t
+
+Sig.
+
+Beta
+,567
+
+,392
+,226
+1,385
+
+,182
+-,115
+,835
+
+,354
+
+,726
+
+2,028
+-1,216
+8,513
+
+,050
+,232
+,000
+
+Sumber: Data Diolah, 2014
+Berdasarkan tabel 4.5 di atas diketahui bahwa nilai konstanta untuk persamaan
+regresi berganda pada penelitian ini sebesar 0,200 dan nilai koefisien variabel X, yaitu
+DPR sebesar 0,182, DER sebesar -0,115, serta ROE sebesar 0,835. Sehingga bentuk
+persamaan regresi berganda pada penelitian ini adalah sebagai berikut:
+Y = 0,200 + 0,182DPR - 0,115DER + 0,835ROE + e
+61
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+Dari persamaan di atas dapat disimpulkan bahwa apabila nilai DPR, DER, dan ROE
+adalah
+nol, maka nilai PBV sebesar 0,200. 0,115%. Sebaliknya apabila penurunan 1%
+Selanjutnya diketahui bahwa setiap DER, maka PBV akan mengalami kenaikan
+penambahan 1% nilai DPR, maka PBV sebesar 0,115%. Serta setiap penambahan
+akan mengalami kenaikan sebesar 0,182% 1% nilai ROE, maka akan mengalami
+dan juga setiap penurunan 1% nilai DPR, kenaikan sebesar 0,835%. Hal ini
+maka PBV akan mengalami penurunan menandakan bahwa penurunan 1% nilai
+sebesar
+0,182%.
+Kemudian
+setiap ROE akan mengakibatkan penurunan nilai
+sebesar
+0,835%.
+penambahan 1% nilai DER, maka PBV PBV
+akan mengalami penurunan sebesar
+4.4 Uji Hipotesis
+1. Uji Parameter Individual (Uji t)
+Tabel 4.6
+Output Uji t
+a
+
+Coefficients
+Unstandardized Coefficients
+
+Model
+
+B
+
+T
+
+Sig.
+
+Std. Error
+
+(Constant)
+
+,200
+
+,567
+
+,354
+
+,726
+
+DPR
+DER
+ROE
+
+,795
+-,274
+11,789
+
+,392
+,226
+1,385
+
+2,028
+-1,216
+8,513
+
+,050
+,232
+,000
+
+Sumber: Data Diolah, 2014
+Uji parameter individual (uji-t) pada
+penelitian ini akan membandingkan nilai
+thitung terhadap ttabel, serta koefisien
+penelitian ini signifikan pada α = 0,05.
+Nilai ttabelpada penelitian ini dicari dengan
+mengetahui nilai df pada tabel t satu arah
+(one tailed) di mana nilai df diperoleh dari
+n - (k + 1). Dari rumus tersebut, maka
+diketahui n (40), k (4). Hal ini berarti nilai
+df = 1,689 Berdasarkan penjelasan
+sebelumnya, maka dari tabel 4.15 diperoleh
+nilai thitungDPR sebesar 2,028 yang artinya
+2,028 > 1,689 atau nilai probabilitas (Sig.)
+0,05. Artinya DPR memiliki
+0,050
+
+pengaruh terhadap PBV, maka (Ha
+diterima). Selanjutnya diketahui bahwa
+nilai thitungDER sebesar 1,216 (tanda
+negatif) yang artinya 1,216 < 1,689 atau
+0,05.
+nilai probabilitas (Sig.) 0,232
+Artinya DER tidak memiliki pengaruh
+terhadap PBV, maka (Ho diterima).
+Kemudian diperoleh nilai thitungROE sebesar
+8,513 yang artinya 8,513> 1,689 atau nilai
+0,05. Artinya
+probabilitas (Sig.) 0,000
+ROE memiliki pengaruh terhadap PBV,
+maka (Ha diterima).
+
+2. Uji Signifikan Simultan (Uji F)
+Tabel 4.7
+Output Uji F
+a
+
+odel
+egression
+esidual
+tal
+
+Sum of Squares
+153,335
+
+Df
+
+ANOVA
+Mean Square
+3
+51,112
+
+56,022
+
+36
+
+209,356
+
+39
+
+1,556
+
+Sumber: Data Diolah, 2014
+62
+
+F
+
+Sig.
+32,845
+
+,000
+
+b
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+Berdasarkan tabel 4.7 diketahui
+bahwa nilai Fhitung sebesar 32,845 dengan
+probabilitas dengan 0,000. Dibandingkan
+denga Ftabel .
+Uji signifikan simultan (uji-F) pada
+penelitian ini akan membandingkan nilai
+Fhitung terhadap Ftabel, serta koefisien
+penelitian ini signifikan pada α = 0,05; k =
+3, n = 40. Sehingga
+nilai Ftabelpada
+penelitian ini dapat dicari dengan
+mengetahui nilai df1 dan df2 yaitu df1 = 3
+
+dan df2 = 37. Hal ini menunjukan bahwa
+Fhitung> Ftabel(32,845 > 2,86). Atau nilai
+probabilitas (Sig.) 0,000 < 0,05. Dengan
+demikian (Ha diterima). Artinya DPR,
+DER, dan ROE berpengaruh secara
+bersama-sama terhadap PBV.
+3. Uji Koefisien Determinasi (R2)
+Uji koefisien determinasi (R-Square)
+digunakan untuk mengetahui nilai korelasi
+antara variabel dependen dan independen.
+Berikut ini hasil uji R-Square.
+
+Tabel 4.8
+Output Uji R-Square
+Model Summary
+Model R
+R Square
+Adjusted R Square
+a
+1 ,856
+,732
+,710
+a. Predictors: (Constant), ROE, DPR, DER
+b. Dependent Variable: PBV
+
+b
+
+Std. Error of the Estimate Durbin-Watson
+1,2474586
+2,031
+
+Sumber: Data Diolah, 2014
+Berdasarkan tabel 4.8 di atas
+diketahui nilai adjusted R Squaresebesar
+0,710 atau 71%. Di mana hal ini
+menunjukan bahwa kombinasi variabel
+independen, yaitu DPR, DER, dan ROE
+mampu menjelaskan variabel dependen
+(PBV) sebesar 71%, sisanya 29% dijelaskan
+oleh variabel lain di luar penelitian.
+5. KESIMPULAN DAN SARAN
+5.1 Kesimpulan
+Berdasarkan analisis hasil penelitian
+dan pembahasan yang telah dijelaskan
+sebelumnya, maka kesimpulan dari
+penelitian ini adalah sebagai berikut:
+1. Kebijakan dividen yang diukur dengan
+variabel Dividend Payout Ratio (DPR)
+secara parsial memiliki pengaruh positif
+dan signifikan terhadap nilai perusahaan
+pertambangan yang terdaftar di Bursa
+Efek Indonesia periode 2009-2013 yang
+diukur dengan variabel Price to Book
+Value (PBV).
+2. Kebijakan hutang yang diukur dengan
+variabel Debt to Equity Ration (DER)
+secara parsial tidak memiliki pengaruh
+dan tidak signifikan terhadap nilai
+perusahaan perusahaan pertambangan
+yang terdaftar di Bursa Efek Indonesia
+
+periode 2009-2013 yang diukur dengan
+variabel Price to Book Value (PBV).
+3. Profitabilitas yang diukur dengan
+variabel Return on Equity(ROE) secara
+parsial memiliki pengaruh yang positif
+dan signifikan terhadap nilai perusahaan
+pertambangan yang terdaftar di Bursa
+Efek Indonesia periode 2009-2013 yang
+diukur dengan variabel Price to Book
+Value (PBV).
+Variabel Kebijakan Dividen (DPR),
+Kebijakan
+Hutang
+(DER),
+dan
+Profitabilitas (ROE) secara bersamasama berpengaruh signifikan terhadap
+nilai perusahaan pada perusahaan
+pertambangan yang terdaftar di Bursa
+Efek Indonesia periode 2009-2013 yang
+diukur dengan variabel Price to Book
+Value (PBV).
+5.2 Saran
+Berdasarkan kesimpulan yang ada
+pada penelitian ini, maka terdapat beberapa
+saran sebagai berikut:
+1. Melalui Koefisien Determinasi (R2)
+diketahui nilai nilai adjusted R
+Squaresebesar 0,710 atau 71%. Di mana
+hal ini menunjukan bahwa kombinasi
+variabel independen, yaitu DPR, DER,
+dan ROE mampu menjelaskan variabel
+dependen (PBV) sebesar 71%, sisanya
+63
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+29% dijelaskan oleh variabel lain di luar
+penelitian. Oleh karena itu untuk
+penelitian yang akan datang disarankan
+untuk meneliti proksi lainnya pada
+variabel profitabilitas yaitu return on
+asset (ROA) serta menambahkan
+Variabel-variabel lain seperti ukuran
+perusahaan,
+struktur
+kepemilikan,
+struktur asset, kepemilikan manajerial
+dan beberapa variabel
+pengukur
+lainnnya.
+2. Bagi perusahaan:
+a. Kebijakan dividen berefek langsung
+terhadap nilai perusahaan yang dapat
+dilakukan
+dengan
+pengumuman
+dividen tunai dibanding dengan jenis
+dividen lainnya seperti dividen saham
+dan dividen khusus lainnya. Sejalan
+dengan Theory Bird in the hand yang
+menyatakan
+investor
+menyukai
+dividen yang tinggi karena dividen
+yang diterima seperti burung ditangan
+yang risikonya lebih kecil atau
+mengurangi
+ketidakpastian
+dibandingkan dengan dividen yang
+tidak dibagikan. Dengan kebijakan
+tersebut memberikan sinyal kepada
+investor tentang keuntungan terhadap
+kepemilikan saham perusahaan dan
+diharapkan mampu meningkatkan
+nilai pasar perusahaan.
+b. Profitabilitas adalah kemampuan
+perusahaan dalam memperoleh laba
+dan salah satu cara mengukur secara
+tepat
+sejauh
+mana
+tingakt
+pengembalian yang akan didapat dari
+aktivitas investasi. Berdasarkan hasil
+penelitian Variabel ROE berpengaruh
+langsung terhadap nilai perusahaan,
+maka perusahaan disarankan untuk
+meningkatkan rasio ROE karena
+semakin tinggi ROE menunjukan
+semakin
+efisien
+perusahaan
+menggunakan modal sendiri untuk
+menghasilkan laba atau keuntungan
+bersih.
+
+DAFTAR PUSTAKA
+Andinata,
+Wawan
+(2010).
+Analisis
+Pengaruh
+Profitabilitas
+Dan
+Kebijakan Dividen Terhadap Nilai
+Perusahaan Manufaktur. Universitas
+Dian. Semarang.
+Bangun, Nurainun dan Sinta Wati. 2007.
+Analisis Pengaruh Profitabilitas dan
+Kebijakan Dividen terhadap Nilai
+Perusahaan Perdagangan, Jasa dan
+Investasi yang Terdaftar di Bursa
+Efek Jakarta. Jurnal Akuntansi/Tahun
+XI, No 2, p 107-120.
+Bank Indonesia. 2014. Kurs Tengah USDIDR. www.bi.go.id
+Bhattacharya, Sudipto, 1979, Imperfect
+information, dividend policy, and
+‘The bird in the hand’ fallacy, Bell
+Journal of Economics 10, 259-270.
+Black, F., dan Scholes, M. 1974. “The
+Effects on Dividend Yield and
+Dividend Policy on Common Stock
+Prices and Returns”. Journal of
+Financial Economics.
+Brigham dan Gapensky. 1999. Intermediate
+Financial
+Management.
+Sixth
+Edition. The Dryden Press Hancort
+Brace College Publisher.
+Brigham, Eugene F dan Joel F Houston.
+2001. Manajemen Keuangan II.
+Jakarta: Salemba Empat.
+Brigham, Eugene F dan Joel F Houston.
+2003. Fundamentals of Financial
+Management:
+Dasar-Dasar
+Manajemen Keuangan. Buku Satu
+Edisi Kesepuluh. Jakarta: Salemba
+Empat.
+Brigham, Eugene F and Joel F.Houston,
+2006.
+Dasar-Dasar
+Manajemen
+Keuangan, alih bahasa Ali Akbar
+Yulianto, Buku satu, Edisi sepuluh,
+PT. Salemba Empat, Jakarta.
+Brigham,Eugene F and Joel F.Houston,
+2007. Essentials of Financial
+Management. Singapore: Cengage
+Learning Asia, Ltd.
+Bursa Efek Indonesia. 2014. Laporan
+Keuangan dan Tahunan, dan
+64
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+Ringkasan
+Kinerja
+Keuangan
+Tercatat. www.idx.co.id
+Chariri dan Imam Ghozali. 2000. Teori
+Akuntansi. Semarang: UNDIP.
+Christiawan, Yulius Jogi dan Tarigan Josua.
+2007. Kepemilikan Manajeral :
+Kebijakan Hutang, Kinerja dan Nilai
+Perusahaan.Jurnal Akuntansi dan
+Keuangan, Vol. 1, Mei 2007, Hal : 18.
+Dunia Investasi. 2014. Data Bursa Efek
+Indonesia-Stock
+Price.
+www.duniainvestasi.com
+Ghozali, Imam. 2009. Aplikasi Analisis
+Multivariate Dengan Program SPSS.
+Edisi
+Keempat.
+Semarang:
+Universitas Dipenegoro.
+Gordon. M.J.1962. “The Shavings.
+Investment and Valuation of a
+Corporation”. Review of Economics
+and Statistics. (February).
+Hardiyanti, Nia. 2012. Analisis pengaruh
+Insider
+Ownership,
+Leverage,
+Profitabilitas, Firm Size dan Dividen
+Payout Ratio. Disertasi, Universitas
+Dipenegoro, Semarang (dipublikasi).
+Herawati, Titin. 2012. “Pengaruh kebijakan,
+kebijakan hutang dan profitabilitas
+terhadap nilai perusahaan”. Artikel
+Universitas Negeri padang. Padang.
+Ikatan Akuntan Indonesia. 2004. Standar
+Akuntansi Keuangan. Per 1 Oktober
+2004. Salemba Empat, Jakarta.
+Indrianto, dan Bambang supomo. 2002.
+Metodologi
+Penelitian
+Bisnis.
+Yogyakarta : BPFE.
+Indonesia,
+Undang-Undang
+Tentang
+Pertambangan
+Mineral
+dan
+Batubara, Undang-Undang No. 4
+tahun 2009 TLN No. 4959.
+Juhandi, et al., 2013, The Effects of Internal
+Factors and Stock Ownership
+Structure on Dividend Policy on
+Company’s Value. International
+Journal of Business and Management
+Invention. Vol. 2 p 06-18.
+Junaidi. Titik Persentase Distribusi t, F,
+dan
+Durbin-Watson.
+Sumber
+elektronik
+diakses
+dari:
+
+http://junaididichaniago.wordpress.co
+m/2010. Diakses 01 Mei 2014.
+Jusriani. Ika F., 2013. Analisis Pengaruh
+Profitabilitas, Kebijakan Dividen,
+Kebijakan Utang, Dan Kepemilikan
+Manajerial
+Terhadap
+Nilai
+Perusahaan. Universitas Dipenegoro,
+Semarang.
+Kaaro, Hermeindito. 2001. “Analisis
+Leverage dan Dividen Dalam
+Lingkungan
+Ketidakpastian
+:
+Pendekatan Pecking Order Theory
+dan Balancing Theory”.Simposium
+Nasional Akuntansi IV.
+Khasanah , Alfa. 2011. “Pengaruh
+Kebijakan
+Leverage,
+Kebijakan
+Dividen
+dan
+SkalaPerusahaan
+terhadap Nilai Perusahaan pada
+Perusahaan
+Manufaktur
+yang
+Terdaftardi
+BEI.
+Undergraduate
+Thesis.
+Universitas
+Stikubank.
+Semarang. (dipublikasi).
+Kostyuk, Dmitriy. 2006. Dividend Payout,
+It’s Impact On Firm Value. Disertasi,
+National University “Kyiv-Mohylan
+Academy”, Ukraine (dipublikasi).
+Mamduh. 2004. “Manajemen Keuangan
+Edisi 1”. BPFE : Yogyakarta.
+Mutamimah. 2003. “Analisis Struktur
+Modal Pada Perusahaan-Perusahaan
+Non Finansial Yang Go Public Di
+Pasar Modal Indonesia”. Jurnal Bisnis
+Strategi. Vol. 11 Juli. Pp 71-60.
+Myers, Stewart C dan Richard A. Brealy,
+1991. Principle of Corporate
+Finance, Fourth Edition , Mc. GrawHill International Edition.
+Ningsih, Putri Prihati dan Iin Indarti (2012).
+“Pengaruh Keputusan Investasi,
+Keputusan Pendanaan dan Kebijakan
+Dividen
+Terhadap
+Nilai
+Perusahaan”.Jurnal kajian akuntansi
+dan bisnis STIE Widya Manggala
+Vol. 1 No.1.
+Prapaska, Johan Ruth. 2012. Analisis
+Pengaruh Tingkat Profitabilitas,
+Keputusan
+Investasi, Keputusan
+Pendanaan, dan Kebijakan Dividen
+terhadap Nilai Perusahaan pada
+Perusahaan Manufaktur di BEI
+65
+
+Jurnal Akuntanika, No. 1 , Vol. 2, Juli- Desember 2015
+Tahun 2009-2010. Skripsi.Fakultas
+Ekonomi dan Bisnis, Universitas
+Dipenogoro : Semarang.
+Riyanto, Bambang 2008. Dasar-dasar
+Pembelanjaan Perusahaan. Edisi 4.
+BPFE: Yogyakarta.
+Ross, S.A. 1977. “The determination
+offinancial structure: The incentive
+Signaling approach”. Bell Journal of
+Economics. Vol. 8 hal 23-40.
+Rustendi, Tedi & Farid Jimmi. 2008.
+“Pengaruh
+Hutang
+dan
+Kepemimpinan Manajerial Terhadap
+Nilai Perusahaan Pada Perusahaan
+manufaktur”. Jurnal akuntansi FE
+Unsil, Vol. 3 No.1. hal: 412-423.
+Saidi.
+2004.
+“Faktor-faktor
+yang
+Mempengaruhi Struktur Modal pada
+Perusahaan Manufaktur Go Public di
+BEJ Tahun 1997-2002”. Jurnal Bisnis
+dan Ekonomi. Vol.11,No.1,Maret
+2004, Hal: 44-58.
+Sanusi,
+Anwar.
+2013.
+Metodelogi
+Penelitian Bisnis. Jakarta: Salemba
+Empat.
+Sartono,
+Agus.
+2001.
+Manajemen
+Keuangan Teori dan Aplikasi.
+Yogyakarta:BPEF-YOGYAKARTA.
+_____, 2008. Manajemen Keuangan Teori
+dan Aplikasi. Edisi Keempat.
+Yogyakarta: BPFE.
+Sarwono, Jonathan. 2010. PASW Statistics
+18: Belajar Statistik Menjadi Mudah
+dan Cepat. Yogyakarta: CV Andi
+Offset.
+Sofyaningsih,
+Sri
+dan
+Pancawati
+Hardinigsih.
+2011.
+“Struktur
+Kepemilikan, Kebijakan Dividen,
+Kebijakan
+Utang
+dan
+Nilai
+Perusahaan”. Jurnal Akuntansi FE
+Universitas Stikubank, Vol. 3 No.1.
+Hal: 68-87.
+Soliha, Euis; Taswan. 2002. “Pengaruh
+Kebijakan Hutang Terhadap Nilai
+Perusahaan Serta Beberapa Faktor
+yang Mempengaruhinya, Jurnal
+Bisnis
+dan
+Ekonomi”,
+STIE
+Stikubank Semarang.
+
+Sugiyono, 2013. Metode Penelitian
+Kuantitatif, Kualitatif, dan R&D.
+Bandung: Alfabeta.
+Sukhyar, 17 maret 2014, “Belum ada
+perusahaan tambang setor komitmen
+smelter”, Kompas. Diambil tanggal
+20
+April
+dari
+http://bisniskeuangan.kompas.com/re
+ad/2014/03/17/0757437/Belum.Ada.P
+erusahaan.Tambang.Setor.Komitmen.
+Smelter.
+Sumarto. 2007. “Anteseden dan Dampak
+dari Kebijakan Dividen”. UPN
+Veteran Jawa Timur.
+Suwaldiman dan Ahmad Aziz. 2006.
+“Pengaruh Insider Ownership dan
+Risiko Pasar Terhadap Kebijakan
+Dividen”, Jurnal Kajian Bisnis dan
+Manajemen.
+Stice, E.K., Stice, J.D., dan Skounsen, K.F.
+2005. Intermediate Accounting, 15th
+Edition, South-Western Publising Co.
+Cincinati. Ohio.
+Taswan. 2003. “Analisis Integrasi Strategi
+Dilik dan Kebijakan Dividen terhadap
+Nilai Perusahaan dan Faktor-Faktor
+Yang Mempengaruhinya”. Jurnal
+Bisnis dan Ekonomi. September.
+P:17-28.
+Usunariyah. 2003. Pengantar Pasar Modal.
+Yogyakarta: UPP MPP YKPN.
+Weston, Fred J dan Eugene F Brigham.
+2005.
+Dasar-Dasar
+Manajemen
+Keuangan Jilid 2 9th ed. Jakarta:
+Erlangga.
+Wijaya, Lihan Rini Puspo dan Wibawa,
+Bandi Anas. 2010. “Pengaruh
+keputusan
+investasi,
+keputusan
+pendanaan, dan kebijakan dividen
+terhadap
+nilai
+perusahaan”.Simposium
+Nasional
+Akuntansi XIII. Purwokerto.
+Wolk, Harry l., Michael G. Tearney, dan
+James L Dodd. 2008. Accounting Theory:
+A Conceptual and Institutional Approach.
+South-Western
+College
+Publishi
+
+66
+
+

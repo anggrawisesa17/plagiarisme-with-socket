@@ -1,0 +1,1724 @@
+JURNAL INFORMATIKA, Vol.5 No.1 September 2018, pp. 211~220
+ISSN: 2355-6579
+E-ISSN: 2528-2247
+
+211
+
+Penerapan Metode Moving Average dan Exponential
+Smoothing pada Peramalan Produksi
+Industri Garment
+Rizal Rachman
+STMIK Nusa Mandiri Jakarta
+e-mail: rizalkhaizuran@gmail.com
+Abstrak
+Permasalahan yang umum dihadapi oleh perusahaan adalah bagaimana meramalkan produksi
+barang di masa mendatang berdasarkan data yang telah direkam sebelumnya. perusahaan
+tersebut hanya memproduksi sesuai dengan pesanan, sehingga perusahaan hanya melakukan
+proses produksi sesuai jumlah yang diminta oleh para konsumen, jika terjadi kelebihan dalam
+produksi maka kelebihannya itu akan disimpan dalam stock, hal ini bertujuan untuk memenuhi
+permintaan konsumen yang sifatnya mendadak. Peramalan tersebut sangat berpengaruh pada
+keputusan manajemen untuk menentukan jumlah produksi barang yang harus disediakan oleh
+perusahaan, kondisi umum bisnis dan ekonomi, reaksi dan tindakan pesaing, tindakan
+pemerintah, kecenderungan pasar, siklus hidup produk, gaya dan mode, perubahan permintaan
+dan konsumen inovasi tekhnologi. Adapun tujuan dari penelitian ini yaitu untuk mengidentifikasi
+dan menganalisis hasil peramalan produksi garment dengan menggunakan metode peramalan
+Moving Average dan Exponential Smoothing. Untuk melakukan peramalan, semakin banyak
+data yang digunakan untuk peramalan maka semakin akurat pula hasil dari peramalan yang
+dilakukan. Hasil penelitian ini telah berhasil membuat sistem peramalan produksi garment.
+Sehingga lebih mudah dalam menentukan jumlah produksi garment pada periode tahun-tahun
+berikutnya.
+Kata kunci: Peramalan, Moving Average, Exponential Smoothing.
+
+Abstract
+The common problem faced by the company is how to forecast the production of goods in the
+future based on previously recorded data. the company only produces in accordance with the
+order, so the company only make the production process according to the amount demanded
+by the consumer, if there is excess in production then the excess will be stored in stock, it aims
+to meet consumer demand that is sudden. Forecasting is very influential on management
+decisions to determine the amount of production of goods that must be provided by the
+company, general business and economic conditions, the reaction and action of competitors,
+government action, market trends, product life cycle, style and fashion, changes in demand and
+consumer technological innovation. The purpose of this study is to identify and analyze the
+results of forecasting garment production by using the method of forecasting Moving Average
+and Exponential Smoothing. To do the forecasting, the more data used for forecasting the more
+accurate the results of the forecasting. The result of this research has succeeded in making
+garment production forecasting system. So it is easier to determine the amount of garment
+production in the period of the following years.
+Keywords: Forecasting, Moving Average, Exponential Smoothing.
+
+Diterima Maret 21, 2018; Revisi April 14, 2018; Disetujui September 15, 2018
+
+212
+1. Pendahuluan
+Salah
+satu
+aspek
+strategis
+perusahaan agar dapat bersaing dalam
+dunia
+bisnis
+adalah
+perencanaan
+tersedianya
+produk
+barang
+untuk
+memenuhi tuntutan pasar. Oleh karena itu
+peran seorang manajer untuk memahami
+dan kemampuan dalam meramalkan
+keadaan bisnis di masa depan sangat
+dibutuhkan. Permasalahan yang umum
+dihadapi oleh para manajer adalah
+bagaimana meramalkan penjualan baranag
+di masa mendatang berdasarkan data yang
+telah direkam sebelumnya. Peramalan
+tersebut
+sangat
+berpengaruh
+pada
+keputusan manajer untuk menentukan
+jumlah produksi barang yang harus
+disediakan oleh perusahaan (Setyowati,
+2017).
+Peramalan adalah seni atau ilmu
+untuk memperkirakan kejadian di masa
+depan. Hal ini dapat dilakukan dengan
+melibatkan pengambilan data historis dan
+memproyeksikannya ke masa mendatang
+dengan suatu bentuk model sistematis.
+Atau bisa juga dengan menggunakan
+kombinasi
+model
+matematis
+yang
+disesuaikan dengan pertimbangan yang
+baik dari seorang manajer (Render &
+Heizer, 2009).
+Peramalan
+biasanya
+diklasifikasikan berdasarkan horizon waktu
+masa depan yang dilingkupinya. Peramalan
+biasanya
+diklarifikasikan
+berdasarkan
+horizon
+waktu
+masa
+depan
+yang
+dilingkupinya. Horizon waktu terbagi
+menjadi beberapa kategori: 1. Peramalan
+Jangka Pendek Peramalan ini meliputi
+jangka waktu hingga satu tahun, tetapi
+umumnya
+kurang
+dari
+tiga
+bulan.
+Peramalan
+ini
+digunakan
+untuk
+merencanakan pembelian, penjadwalan
+kerja, jumlah tenaga kerja, penugasan
+kerja, dan tingkat produksi. 2. Peramalan
+Jangka Menengah Peramalan jangka
+menengah atau intermediate umumnya
+mencakup hitungan bulan hingga tiga
+tahun. Peramalan ini bermanfaat untuk 15
+merencanakan penjualan, perencanaan
+dan anggaran produksi, anggaran kas,
+serta
+menganalisis
+bermacam-macam
+rencana operasi. 3. Peramalan Jangka
+Panjang Umumnya untuk perencanaan
+masa tiga tahun atau lebih. Peramalan
+jangka
+panjang
+digunakan
+untuk
+merencanakan produk baru, pembelanjaan
+modal, lokasi atau pengembangan fasilitas,
+
+serta penelitian dan pengembangan
+(litbang). (Taylor, 2009).
+Peramalan diperlukan perhitungan
+yang akurat sehingga diperlukan peramalan
+yang tepat. Pada dasarnya terdapat dua
+pendekatan umum untuk mengatasi semua
+model keputusan untuk meramal (Nasution,
+2008): 1. Peramalan Kualitatif Yaitu
+peramalan yang menggabungkan faktorfaktor
+seperti
+intuisi
+pengambilan
+keputusan, emosi, pengalaman pribadi, dan
+system nilai
+2. Peramalan Kuantitatif Yaitu peramalan
+yang menggunakan satu atau lebih model
+matematis dengan data masa lalu dan
+variabel sebab akibat untuk meramalkan
+permintaan. Ada lima metode peramalan
+kuantitatif, yaitu metode pendekatan naif,
+metode
+rata-rata
+bergerak,
+metode
+penghalusan eksponential, penghalusan
+tren, dan regresi linear.
+Sudah banyak penelitian yang dilakukan
+untuk mencari penyelesaian Forecasting
+dengan tujuan meramalkan proses produksi
+yang akan datang. Hasil penelitian oleh
+(Prasetio, 2014) menunjukkan bahwa
+metode terbaik untuk menentukan tingkat
+permintaan terhadap produk adalah metode
+Linear Regression karena memiliki nilai
+MAD dan MSE paling rendah diantara
+metode peramalan lainnya dan untuk
+membeli bahan baku utama yaitu PVC.
+PVC harus dibeli dalam jumlah yang tepat
+agar proses produksi dapat berjalan
+dengan baik dan efisien.. Penelitian lain
+yang dilakukan oleh (Wardah, 2016)
+menunjukkan
+pengumpulan
+dan
+pengolahan data serta analisa yang sudah
+dilakukan maka dapat kita bandingkan
+bahwa dari segi tingkat kesalahan serta
+perangkingan trend analysis mempunyai
+tingkat kesalahan yang lebih kecil
+dibandingkan dengan metode lainnya.
+Metode trend analysis mempunyai nilai
+MAD sebesar 161,3539, MSE sebesar
+55744,16, dan standar error sebesar
+242,947, maka dapat disimpulkan bahwa
+metode terpilih adalah metode Trend
+Analysis. Berdasarkan analisa penetuan
+peramalan jumlah penjualan produk kripik
+pisang kemasan bungkus adalah sebanyak
+1121,424 atau 1122 bungkus/bulan agar
+tidak
+mengalami
+kekurangan
+atau
+kelebihan persediaan produk kripik pisang
+untuk kemasan bungkus. Selanjutnya
+Penelitian (Andini, 2016) menghasilkan
+perbandingan hasil peramalan dengan data
+aktual penjualan di tahun 2015 pada
+
+JURNAL INFORMATIKA Vol.5 No.2, September 2018: 211-220
+
+213
+pengujian mempunyai nilai presentase
+kesalahan (percentage error) dibawah 20%
+disetiap
+bulanya.
+Dikarenakan
+hasil
+peramalan menggunakan metode double
+exponential smoothing mendekati data
+aktual penjualan di tahun 2015. Analisa
+data aktual penjualan ATK tahun 2015
+mempunyai pola data yang berunsur trend,
+maka
+metode
+yang
+cocok
+untuk
+meramalkan pola data yang berunsur trend
+adalah
+metode
+double
+exponential
+smoothing.
+2. Metode Penelitian
+Metode yang digunakan untuk
+menghitung peramalan produksi garment
+menggunakan jenis peramalan kuantitatif
+yaitu metode moving average dan metode
+exponential smhooting.
+Moving Average
+Rata-rata bergerak (Moving Average)
+adalah
+suatu metode peramalan yang dilakukan
+dengan mengambil sekelompok nilai
+pengamatan, mencari
+nilai rata-rata
+tersebut sebagai ramalan untuk periode
+yang akan dating (Subagyo, 2008).
+Metode Moving
+Average mempunyai
+karakteristik khusus yaitu ;
+ untuk menentukan ramalan pada
+periode
+yang
+akan
+datang
+memerlukan data historis selama
+jangka waktu tertentu. Misalnya,
+dengan 3 bulan moving average,
+maka ramalan bulan ke 5 baru
+dibuat
+setelah
+bulan
+ke
+4
+selesai/berakhir. Jika bulan moving
+averages bulan ke 7 baru bisa dibuat
+setelah bulan ke 6 berakhir.
+ Semakin
+panjang
+jangka
+waktu moving
+average,
+efek
+pelicinan semakin terlihat dalam
+ramalan atau menghasilakan moving
+average yang semakin halus.
+Persamaan matematis single
+averages adalah sebagai berikut:
+
+moving
+
+𝑴𝒕 = 𝑭𝒕 + 𝟏
+
+=
+
+(1)
+
+𝒀𝒕 + 𝒀𝒕−𝟏 + 𝒀𝒕−𝟐 + ...+ 𝒀𝒕−𝒏+𝟏
+𝒏
+
+Keterangan:
+Mt = Moving Average untuk periode t
+Ft+1 = Ramalan Untuk Periode t + 1
+Yt = Nilai Riil periode ke t
+
+(2)
+
+n
+
+= Jumlah batas dalam moving average
+
+Exponentials Smoothing
+Metode ini digunakan untu peramalan
+jangka pendek. Model mengasumsikan
+bahwa data berfluktuasi di sekitar nilai
+mean yang tetap, tanpa trend atau pola
+pertumbuhan
+konsisten.
+Tidak
+seperti Moving
+Average,
+Exponential
+Smoothing memberikan penekanan yang
+lebih besar kepada time series saat ini
+melalui penggunaan sebuah konstanta
+smoothing
+(penghalus).
+Konstanta
+smoothing mungkin berkisar dari 0 ke 1.
+Nilai yang dekat dengan 1 memberikan
+penekanan terbesar pada nilai saat ini
+sedangkan nilai yang dekat dengan 0
+memberi penekanan pada titik data
+sebelumnya (Herjanto, 2009).
+𝑺𝒕 = 𝜶 ∗ 𝑿𝒕 + (𝟏 – 𝜶) ∗ 𝑺𝒕 − 𝟏
+
+(3)
+
+Rumus untuk Simple exponential
+smoothing adalah sebagai berikut:
+Dimana:
+St =
+peramalan
+untuk
+periode
+t.
+Xt + (1-α) = Nilai aktual time series
+Ft-1 = peramalan pada waktu t-1 (waktu
+sebelumnya)
+α = konstanta perataan antara 0 dan 1
+Kesalahan Peramalan
+Tingkat
+kesalahan
+ramalan
+memberikan ukuran ketepatan dan ukuran
+untuk membandingkan metode-metode
+alternatif yang mungkin digunakan. Tingkat
+kesalahan peramalan bisa dihitung dengan
+Mean absolute Deviation dan Mean
+Squared Error (Yamit, 2008).
+Mean absolute Deviation (MAD) adalah
+rata-rata nilai absolut dari kesalahan
+meramal, dengan tidak menghiraukan
+tanda positif serta negatifnya.
+𝑴𝑨𝑫 = ∑ | 𝑨𝒕 – 𝑭𝒕 |
+Keterangan :
+∑
+= Jumlah
+At
+= Data pengamatan periode t
+Ft
+= Ramalan periode t
+
+(4)
+
+Sedangkan Mean Squared Error (
+MSE) adalah rata-rata perbedaan kuadrat
+antara nilai-nilai yang diramalkan dan nilai
+yang diamati MSE memberikan hukuman
+bagi kesalahan yang lebih besar, atau
+memperkuat
+pengaruh
+angka-angka
+kesalahan besar tetapi memperkecil angka.
+
+JURNAL INFORMATIKA Vol.5 No.2, September 2018: 211-220
+
+214
+Kesalahan prakiraan yang lebih kecil dari
+suatu unit.
+𝑴𝑺𝑬 = ∑ ( 𝑨𝒕 – 𝑭𝒕 ) 𝟐
+(5)
+Keterangan :
+∑
+= Jumlah
+At
+= Data pengamatan periode t
+Ft
+= Ramalan periode t
+3. Hasil dan Pembahasan
+Pengumpulan data permintaan
+yang actual di peroleh dari perusahaan
+dengan mengacuh pada order yang
+diterima dari konsumen mulai dari bulan
+Januari 2017 – Desember 2017. Adapun
+data permintaan tersebut dapat dilihat
+pada tabel berikut ini :
+
+No
+
+Tabel 1
+Data Permintaan Konsumen
+Tahun 2017
+Bulan
+Permintaan
+Konsumen
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Januari
+108.216
+Februari
+99.155
+Maret
+90.700
+April
+123.586
+Mei
+91.761
+Juni
+110.646
+Juli
+135.077
+Agustus
+61.545
+September
+60.153
+Oktober
+75.651
+November
+77.060
+Desember
+78.267
+Jumlah
+1.111.817
+Sumber : Data Perusahaan
+Berdasarkan
+data
+permintaan
+konsumen secara actual pada tahun 2017,
+maka dari data tersebut bisa dibuatkan
+Grafik sebagai berikut :
+
+Jumlah Produksi
+
+Data permintaan konsumen sangat
+fluktuatif pada tahun 2017. Untuk
+selanjutnya data akan diramalkan dengan
+dua metode peramalan yang mungkin bisa
+digunakan dalam menganalisis data. Dua
+metode tersebut adalah : Moving average
+dan exponential Smoothing. Adapun
+Moving Avarege menggunakan 3 bulanan
+dan 5 bulanan, Exponential Smoothing
+dengan α = 0,1; α = 0,5; dan α = 0,9.
+Peramalan dengan motode Moving
+Average 3 bulanan
+Metode ini dihitung dengan cara:
+setiap diperoleh data aktual baru, maka
+rata-rata yang baru dapat dihitung dengan
+mengeluarkan data periode yang lama dan
+memasukkan data periode yang terbaru.
+Rata-rata yang baru digunakan sebagai
+prakiraan untuk periode yang akan datang.
+∑𝑡−𝑁+1
+𝑋𝑖
+𝑖=𝑡
+𝐹𝑡+1 =
+𝑁
+𝑋𝑡 + 𝑋𝑡−1 + … + 𝑋𝑡−𝑁+1
+𝑁
+Keterangan :
+X1 = data pengamatan periode t
+N = jumlah deret waktu yang digunakan (
+3 bulan )
+Ft+1 = nilai prakiraan periode t+1(
+berikutnya)
+Ramalan permintaan
+untuk januari 2018
+𝐹𝑗𝑎𝑛𝑢𝑎𝑟𝑖 2018
+
+𝐹𝑡+1 =
+
+konsumen
+
+75.651+77.060+78.267
+3
+
+=
+
+230.978
+3
+
+= 76.992,66
+
+Hasil peramalan Moving Average 3 bulanan
+sebagai berikut :
+
+150.000
+100.000
+50.000
+JAN
+FEB
+MAR
+APR
+MEI
+JUN
+JUL
+AGU
+SEP
+OKT
+NOV
+DES
+
+-
+
+Gambar 1
+Grafik Permintaan Konsumen
+Tahun 2017
+
+JURNAL INFORMATIKA Vol.5 No.2, September 2018: 211-220
+
+215
+Tabel 2
+Hasil Peramalan Permintaan Konsumen
+Moving Average 3 bulanan
+
+Ft+1 = nilai
+berikutnya)
+
+prakiraan
+
+periode
+
+t+1(
+
+Bulan
+
+Permintaan
+Konsumen
+
+Januari
+
+108.216
+
+Februari
+
+99.155
+
+Tabel 3
+Hasil Peramalan Permintaan Konsumen
+Moving Average 5 bulanan
+
+Maret
+
+90.700
+
+Bulan
+
+Permintaan
+Konsumen
+
+April
+
+123.586
+
+Januari
+
+108.216
+
+Mei
+
+91.761
+
+104.480,33
+
+Juni
+
+110.646
+
+Februari
+
+99.155
+
+102.015,67
+
+Juli
+
+135.077
+
+108.664,33
+
+Maret
+
+90.700
+
+Agustus
+
+61.545
+
+112.494,67
+
+April
+
+123.586
+
+September
+
+60.153
+
+102.422,67
+
+Mei
+
+91.761
+
+Oktober
+
+75.651
+
+85.591,67
+
+Juni
+
+110.646
+
+102.683,60
+
+November
+
+77.060
+
+Juli
+
+135.077
+
+65.783,00
+
+103.169,60
+
+Desember
+
+78.267
+
+70.954,67
+
+Agustus
+
+61.545
+
+110.354,00
+
+September
+
+60.153
+
+104.523,00
+
+Oktober
+
+75.651
+
+91.836,40
+
+November
+
+77.060
+
+88.614,40
+
+Desember
+
+78.267
+
+81.897,20
+
+Forecasting
+
+99.357,00
+
+76.992,67
+Jadi
+ramalan
+permintaan
+konsumen untuk bulan januari 2018 dengan
+metode Moving Average 3 Bulanan adalah
+76.992,67 pcs.
+Peramalan dengan motode Moving
+Average 5 bulanan
+Ramalan permintaan konsumen
+untuk januari 2018.
+𝐹𝑗𝑎𝑛𝑢𝑎𝑟𝑖 2018
+𝐹𝑡+1 =
+=
+
+61.545+60.153+75.651+77.060+78.267
+5
+
+352.676
+5
+
+= 70.535,20
+∑𝑡−𝑁+1
+𝑋𝑖
+𝑖=𝑡
+𝐹𝑡+1 =
+𝑁
+𝑋𝑡 + 𝑋𝑡−1 + … + 𝑋𝑡−𝑁+1
+=
+𝑁
+Keterangan :
+X1 = data pengamatan periode t
+N = jumlah deret waktu yang digunakan (
+5 bulan )
+
+Hasil peramalan Moving Average 5 bulanan
+sebagai berikut :
+
+Forecasting
+
+70.535,20
+Jadi
+ramalan
+permintaan
+konsumen untuk bulan januari 2018 dengan
+metode Moving Average 5 Bulanan adalah
+70.535,20 pcs.
+Peramalan dengan motode Eksponential
+Smoothing.
+Adapun alasan menggunaan α
+tersebut karena daerah α adalah antara 0
+s/d 1, α = 0,1 mewakili awal data, α = 0,5
+mewakili rata-rata, α = 0,9 mewakili data
+akhir.
+𝐹_(𝑡 + 1) = 𝛼 ∗ 𝑋𝑡 + ( 1 – 𝛼 ) ∗ 𝐹𝑡
+Keterangan :
+Xt = data pengamatan periode t
+Ft+1 = nilai prakiraan periode t
+α = konstanta penghalusan
+
+JURNAL INFORMATIKA Vol.5 No.2, September 2018: 211-220
+
+216
+α = 0,1
+Forecastnya, Fmaret 2017
+= 0,1 * 99.155 + ( 1- 0,1 ) * 108.216
+= 9.915,50 + ( 0, 90 ) * 108.216
+= 9.915,50 + 97.394,40
+= 107.309,90
+Fjanuari 2018
+= 0,1 * 78.267+ ( 1- 0,1 ) * 77.060
+= 7.826,70 + ( 0, 90 ) * 77.060
+= 7.826,70 + 69.354
+= 77.180,70
+Tabel 4
+Hasil Peramalan Permintaan Konsumen
+Eksponential Smoothing α = 0,1
+Bulan
+Januari
+Februari
+
+Permintaan
+Konsumen
+108.216
+99.155
+
+Forecasting
+
+107.309,90
+
+= 39.133,50 + 38.530
+= 77.663,50
+Tabel 5
+Hasil Peramalan Permintaan Konsumen
+Eksponential Smoothing α = 0,5
+Bulan
+
+Permintaan
+Konsumen
+
+Januari
+
+108.216
+
+Februari
+
+99.155
+
+Maret
+
+90.700
+
+April
+
+123.586
+
+Mei
+
+91.761
+
+Juni
+
+110.646
+
+Juli
+
+135.077
+
+122.861,50
+
+Agustus
+
+61.545
+
+98.311,00
+
+September
+
+60.153
+
+60.849,00
+
+Oktober
+
+75.651
+
+67.902,00
+
+November
+
+77.060
+
+76.355,50
+
+Desember
+
+78.267
+
+77.663,50
+
+98.309,50
+
+Maret
+
+90.700
+
+April
+
+123.586
+
+Mei
+
+91.761
+
+120.403,50
+
+Juni
+
+110.646
+
+93.649,50
+
+Juli
+
+135.077
+
+113.089,10
+
+Agustus
+
+61.545
+
+127.723,80
+
+September
+
+60.153
+
+61.405,80
+
+Oktober
+
+75.651
+
+61.702,80
+
+November
+
+77.060
+
+75.791,90
+
+Desember
+
+78.267
+
+77.180,70
+
+93.988,60
+
+Jadi
+ramalan
+permintaan
+konsumen untuk bulan januari 2018 dengan
+metode Eksponential Smoothing α = 0,1
+adalah 77.180,70 pcs.
+α = 0,5
+Forecastnya, Fmaret 2017
+= 0,5 * 99.155 + ( 1- 0,5 ) * 108.216
+= 49.577,50 + ( 0, 50 ) * 108.216
+= 49.577,50 + 54.108
+= 103.685,50
+
+Forecasting
+103.685,50
+94.927,50
+107.143,00
+107.673,50
+101.203,50
+
+Jadi
+ramalan
+permintaan
+konsumen untuk bulan januari 2018 dengan
+metode Eksponential Smoothing α = 0,5
+adalah 77.663,50 pcs.
+α = 0,9
+Forecastnya, Fmaret 2017
+= 0,9 * 99.155 + ( 1- 0,9 ) * 108.216
+= 89.239,50 + ( 0, 10 ) * 108.216
+= 89.239,50 + 10.821,60
+= 100.061,10
+Fjanuari 2018
+= 0,9 * 78.267+ ( 1- 0,9 ) * 77.060
+= 70.440,30 + ( 0, 10 ) * 77.060
+= 70.440,30 + 7.706
+= 78.146,30
+
+Fjanuari 2018
+= 0,5 * 78.267+ ( 1- 0,5 ) * 77.060
+= 39.133,50 + ( 0, 50 ) * 77.060
+
+JURNAL INFORMATIKA Vol.5 No.2, September 2018: 211-220
+
+217
+Tabel 6
+Hasil Peramalan Permintaan Konsumen
+Eksponential Smoothing α = 0,9
+Bulan
+
+Permintaan
+Konsumen
+
+Januari
+
+108.216
+
+Februari
+
+99.155
+
+Maret
+April
+Mei
+
+90.700
+123.586
+91.761
+
+Forecasting
+
+100.061,10
+91.545,50
+120.297,40
+
+Tabel 7
+Kesalahan peramalan metode Moving
+Averages 3 bulanan
+Error 2
+( At – Ft ) 2
+
+Bul
+
+Dev. Abslut
+| At – Ft |
+
+Jan
+
+-
+
+Feb
+
+-
+
+Mar
+
+-
+
+-
+
+24.229,00
+
+587.044.441,00
+
+Apr
+
+-
+
+94.943,50
+
+Mei
+
+12.719,33
+
+161.781.440,44
+
+108.757,50
+
+Jun
+
+8.630,33
+
+74.482.653,44
+
+Juni
+
+110.646
+
+Juli
+
+135.077
+
+132.633,90
+
+Jul
+
+26.412,67
+
+697.628.960,44
+
+Agustus
+
+61.545
+
+68.898,20
+
+Ags
+
+50.949,67
+
+2.595.868.533,44
+
+September
+
+60.153
+
+60.292,20
+
+Sep
+
+42.269,67
+
+1.786.724.720,11
+
+Oktober
+
+75.651
+
+74.101,20
+
+Okt
+
+9.940,67
+
+98.816.853,78
+
+November
+
+77.060
+
+76.919,10
+
+Nov
+
+11.277,00
+
+127.170.729,00
+
+Desember
+
+78.267
+
+78.146,30
+
+Des
+
+7.312,33
+
+53.470.218,78
+
+∑
+
+193.740,67
+
+6.182.988.550,44
+
+MAD
+dan
+MSE
+
+21.526,74
+
+686.998.727,83
+
+Jadi
+ramalan
+permintaan
+konsumen untuk bulan januari 2018 dengan
+metode Eksponential Smoothing α = 0,9
+adalah 78.146,30 pcs.
+Kesalahan Peramalan
+MAD yang diukur hanyalah besar
+kesalahan absolut. Biasanya efek dalam
+operasi yang kesalahannya sedikit tidaklah
+serius
+dan
+akan
+dihaluskan
+oleh
+permintaan atau kerja lembur. Kesalahan
+besar akan menjadi sulit, sedikit kesalahan
+besar sama jumlahnya dengan kesalahan
+kecil yang banyak. Akibatnya, metode
+pengukuran kesalhan yang menghukumi
+kesalahan besar perlu diperhitungkan. MSE
+merupakan tipe pengukuran kesalahan
+dengan
+mengalihkan
+masing-masing
+kesalahan peramalan dengan kuadratnya.
+Jadi
+dengan
+adanya
+penguadratan,
+kesalahan akan lebih mudah diketahui.
+
+Tabel 8
+Kesalahan peramalan metode Moving
+Averages 5 bulanan
+Error 2
+( At – Ft ) 2
+
+Bul
+
+Dev. Abslut
+| At – Ft |
+
+Jan
+
+-
+
+Feb
+
+-
+
+Mar
+
+-
+
+Apr
+
+-
+
+Mei
+
+-
+
+-
+
+Jun
+
+7962,4
+
+63.399.813,76
+
+Jul
+
+31907,4
+
+1.018.082.174,76
+
+Ags
+
+48.809,00
+
+2.382.318.481,00
+
+Sep
+
+44.370,00
+
+1.968.696.900,00
+
+JURNAL INFORMATIKA Vol.5 No.2, September 2018: 211-220
+
+-
+
+218
+Okt
+
+16.185,40
+
+261.967.173,16
+
+Mar
+
+Nov
+
+11.554,40
+
+133.504.159,36
+
+Apr
+
+Des
+
+3.630,20
+
+13.178.352,04
+
+∑
+
+164.418,80
+
+5.841.147.054,08
+
+MAD
+dan
+MSE
+
+23.488,40
+
+834.449.579,15
+
+Tabel 9
+Kesalahan peramalan metode Eksponential
+Smoothing α = 0,1
+Bul
+
+Dev. Abslut
+| At – Ft |
+
+Jan
+
+-
+
+Feb
+
+Error
+( At – Ft ) 2
+66.502.394,01
+
+Mar
+
+7.609,50
+
+57.904.490,25
+
+Apr
+
+29597,4
+
+876.006.086,76
+
+Mei
+
+28.642,50
+
+820.392.806,25
+
+Jun
+
+16996,5
+
+288.881.012,25
+
+Jul
+
+21987,9
+
+483.467.746,41
+
+Ags
+
+66.178,80
+
+4.379.633.569,44
+
+Sep
+
+1.252,80
+
+1.569.507,84
+
+Okt
+
+13948,2
+
+194.552.283,24
+
+Nov
+
+1268,1
+
+Des
+∑
+
+Jan
+Feb
+
+16443
+
+270.372.249,00
+
+Mei
+
+15.912,50
+
+253.207.656,25
+
+Jun
+
+9442,5
+
+89.160.806,25
+
+Jul
+
+12215,5
+
+149.218.440,25
+
+Ags
+
+36.766,00
+
+1.351.738.756,00
+
+Sep
+
+696,00
+
+484.416,00
+
+Okt
+
+7749
+
+60.047.001,00
+
+Nov
+
+704,5
+
+496.320,25
+
+Des
+
+603,5
+
+364.212,25
+
+∑
+
+68.177,00
+
+1.651.509.952,00
+
+MAD
+dan
+MSE
+
+6.197,91
+
+150.137.268,36
+
+Tabel 11
+Kesalahan peramalan metode Eksponential
+Smoothing α = 0,9
+Bul
+
+Dev. Abslut
+| At – Ft |
+
+Jan
+
+-
+
+Feb
+
+Error 2
+( At – Ft ) 2
+-
+
+906,10
+
+821.017,21
+
+Mar
+
+845,50
+
+714.870,25
+
+1.608.077,61
+
+Apr
+
+3288,6
+
+10.814.889,96
+
+1086,3
+
+1.180.047,69
+
+Mei
+
+3.182,50
+
+10.128.306,25
+
+122.718,60
+
+5.350.892.244,48
+
+Jun
+
+1888,5
+
+3.566.432,25
+
+Jul
+
+2443,1
+
+5.968.737,61
+
+Ags
+
+7.353,20
+
+54.069.550,24
+
+Sep
+
+139,20
+
+19.376,64
+
+Okt
+
+1549,8
+
+2.401.880,04
+
+Nov
+
+140,9
+
+19.852,81
+
+Des
+
+120,7
+
+14.568,49
+
+∑
+
+13.635,40
+
+66.060.398,08
+
+MAD
+dan
+MSE
+
+1.239,58
+
+6.005.490,73
+
+11.156,24
+
+486.444.749,50
+
+Tabel 10
+Kesalahan peramalan metode Eksponential
+Smoothing α = 0,5
+Bul
+
+17.871.756,25
+
+2
+
+8.154,90
+
+MAD
+dan
+MSE
+
+4.227,50
+
+Dev. Abslut
+| At – Ft |
+-
+
+4.530,50
+
+Error 2
+( At – Ft ) 2
+20.525.430,25
+
+JURNAL INFORMATIKA Vol.5 No.2, September 2018: 211-220
+
+219
+Metode Peramalan yang tepat
+Untuk
+mengetahui
+metode
+peramalan yang paling tepat adalah
+dengan cara membandingkan kesalahan
+peramalan dari masing masing metode
+peramalan.
+Tabel 12
+Perbandingan kesalahan peramalan
+Metode
+MAD
+MSE
+Moving
+Average
+3 bulanan
+Moving
+Average
+5 bulanan
+Eksponen
+tial
+Smoothin
+g α = 0,1
+Eksponen
+tial
+Smoothin
+g α = 0,5
+Eksponen
+tial
+Smoothin
+g α = 0,9
+
+21.526,74
+
+686.998.727,83
+
+23.488,40
+
+834.449.579,15
+
+11.156,24
+
+486.444.749,50
+
+6.197,91
+
+150.137.268,36
+
+1.239,58
+
+6.005.490,73
+
+4. Kesimpulan
+Hasil peramalan dengan 2 metode
+alternatif
+dan
+ditambah
+perhitungan
+kesalahan
+peramalan
+dapat
+diambil
+kesimpulan bahwa peramalan permintaan
+konsumen dengan menggunakan metode
+Eksponential
+Smoothing
+α
+=
+0,9
+dikarenakan
+hasil
+perkiraan
+untuk
+permintaan konsumen periode januari
+sebesar 78.146,30 pcs lebih besar dari
+metode yang lainya. dan tingkat kesalahan
+peramalan MAD = 1.239,58 dan MSE =
+6.005.490,73 lebih kecil dari metode yang
+lainya.
+Saran untuk penelitian selanjutnya
+sebelum melakukan peramalan harus
+diketahui terlebih dahulu apa sebenarnya
+persoalan dalam pengambilan keputusan
+agar dapat mengetahui definisi tujuan dari
+peramalan tersebut dapat dilihat dengan
+waktu: yaitu: jangka pendek (Short Term),
+jangka Menengah (Medium Term) dan
+Jangka Panjang (Long Term).
+Referensi
+Andini. (2016). Peramalan Jumlah Stok Alat
+Tulis Kantor di UD Achmad Jaya
+menggunakan
+Metode
+Double
+Exponential Smoothing. Jurnal
+
+Ilmiah Teknologi dan Informatika
+Asia (JITIKA). Vol. 10, No. 1, ISSN
+: 0852-730X. Februari 2016.
+Herjanto. (2009). Manajemen Produksi dan
+Operasi. Jakarta: PT. Gramedia
+Widiasarana Indonesia.
+Nasution.
+(2008).
+Perencanaan
+dan
+Pengendalian
+Produksi.
+Yogyakarta: Graha Ilmu.
+Prasetio. (2014). Inventory Control Using
+Statistics
+Forecasting
+On
+Manufacture
+Company.
+Jurnal
+Informatika.
+Vol. II
+No.
+2,
+September 2014.
+Render, & Heizer. (2009). Manajemen
+Operasi. Jakarta: Salemba Empat
+(PT. Salemba Emban Patria).
+Setyowati. (2017). Penerapan Metode
+Single Exponential Smoothing dan
+Double Exponential Smoothing
+pada
+Peramalan
+Penjualan
+Pakaian. Artikel Skripsi. Universitas
+Nusantara PGRI Kediri, Januari
+2017.
+Siregar, A. (2009). Analisa Perbandingan
+Kinerja antara Algoritma Heuristic
+Pour
+dan
+Algoritma
+Nawaz,
+Enscore dan Ham (NEH) dalam
+menyelesaikan
+Penjadwalan
+Flowshop pada PT. Cakra Compact
+Aluminium
+Industries
+Medan.
+Teknik Industri.
+Subagyo. (2008). Forecasting Konsep dan
+Aplikasi. Yogyakarta: BPFE.
+Sulaksmi. (2014). Penjadwalan Produksi
+Dengan Algoritma Heuristic Pour (
+Studi Kasus : Konveksi One Way Malang ). Jurnal INDD, Vol.15 No.
+1 Februari 2014.
+Taylor. (2009). Sains Manajemen 8th ed.
+Surabaya: Salemba Empat.
+Wardah. (2016). Analisis Peramalan
+Penjualan Produk Keripik Pisang
+Kemasan Bungkus ( Studi Kasus :
+Home Industry Arwana Food
+Tembilahan).
+Jurnal
+Teknik
+Industri. Vol. XI No. 3, September
+2016.
+
+JURNAL INFORMATIKA Vol.5 No.2, September 2018: 211-220
+
+220
+
+Widodo. (2014). Pendekatan Algoritma
+Cross Entropy-Genetic Algorithm
+untuk menurunkan Makespan pada
+Penjadwalan FlowSHop. Jurnal
+Jemis, Universitas Brawijaya, Vol.
+2, No. 1, Tahun 2014.
+Yamit. (2008). Manajemen Produksi dan
+Operasi. Yogyakarta: Ekonesia
+Fakultas Ekonomi UII.
+
+JURNAL INFORMATIKA Vol.5 No.2, September 2018: 211-220
+
+

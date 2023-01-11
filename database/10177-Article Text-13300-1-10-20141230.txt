@@ -1,0 +1,1822 @@
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+PENGARUH KEBIJAKAN HUTANG TERHADAP NILAI PERUSAHAAN
+DENGAN KEBIJAKAN DIVIDEN SEBAGAI VARIABEL MODERASI
+SUBARAMAN DESMON ASA NAINGGOLAN
+AGUNG LISTIADI
+Jurusan Manajemen, Fakultas Ekonomi, Universitas Negeri Surabaya,
+Kampus Ketintang, Surabaya 60231
+Email: dsubaraman@gmail.com
+Abstract : The purpose is to describe the effect of debt policy to firm
+value with dividend policy as a moderating variable. The first
+hypothesis is the positive effect of debt policy towards firm value,
+second the effect of dividend policy on a relationship between debt
+policy and firm value. The data used are secondary data obtained
+from the annual reports and financial statements published by each
+company. Methods used in determining the amount of the sample
+using purposive sampling method, and then performed classical
+assumption on the data using Moderated Regression Analysis (MRA)
+as an analytical instrument. The result showed that debt policy had a
+negative effect the firm value, but dividend policy can not moderate
+the relationship between debt policy of firm value.
+Keywords: debt policy, dividend policy, and firm value.
+memakmurkan investornya. Investor
+PENDAHULUAN
+menginvestasikan dana bertujuan
+Pada dasarnya perusahaan
+memaksimumkan kekayaan yang
+memiliki
+suatu
+tujuan
+yaitu
+didapat dari dividen atau capital gain,
+memaksimalkan
+kesejahteraan
+sedangkan manajemen berusaha
+pemilik
+saham
+perusahaan.
+memaksimumkan
+kesejahteraan
+Kesejahteraan pemegang saham
+investor dengan membuat keputusan
+yang maksimal tersebut dapat
+yang baik berupa kebijakan dividen
+terwujud apabila nilai perusahaan
+dan pendanaan. Dalam membuat
+dimaksimalkan.
+Harga
+saham
+keputusan sumber pendanaan yang
+merupakan pencerminan dari nilai
+tepat,
+manajemen
+harus
+perusahaan.
+Dengan
+demikian
+memperhatikan manfaat dan biaya
+pemegang saham menginginkan
+yang
+ditimbulkan,
+apakah
+manajer membuat keputusan yang
+menggunakan pendanaan internal
+dapat meningkatkan harga saham.
+(retained earnings atau depresiasi)
+Untuk
+memaksimalkan
+nilai
+atau eksternal (utang dan ekuitas)
+perusahaan dapat dicapai melalui
+atau kedua-duanya. Karena setiap
+pelaksanaan
+fungsi
+manajemen
+sumber
+dana
+mempunyai
+keuangan, dimana satu kebijakan
+konsekuensi
+dan
+karakteristik
+atau keputusan keuangan yang
+finansial yang berbeda (Meythi,
+diambil
+akan
+mempengaruhi
+2012).
+keputusan keuangan lainnya dan
+Kebijakan
+hutang
+adalah
+berdampak pada nilai perusahaan
+kebijakan yang dilakukan perusahaan
+(Sukirni, 2012). Kebijakan keuangan
+untuk mendanai operasinya dengan
+itu
+yakni
+kebijakan
+investasi,
+menggunakan hutang keuangan atau
+kebijakan hutang atau keputusan
+yang biasa disebut dengan financial
+pendanaan dan kebijakan dividen.
+leverage atau leverage keuangan.
+Setiap emiten akan berusaha
+Leverage keuangan adalah praktik
+untuk
+memaksimumkan
+nilai
+pendanaan
+sebagian
+aktiva
+perusahaan
+agar
+dapat
+perusahaan dengan sekuritas yang
+
+868
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+menanggung beban pengembalian
+tetap
+dengan
+harapan
+bisa
+meningkatkan pengembalian akhir
+bagi pemegang saham (Keown et al.,
+2010:121).
+Dalam beberapa tahun ini
+properti dan real estate tumbuh
+dengan pesat. Hal ini terbuktikan
+dengan adanya laporan peringatan
+dari Bank Dunia. Bank Dunia belum
+lama
+ini
+memberi
+peringatan
+terhadap
+pertumbuhan
+sektor
+properti Indonesia, khususnya di
+Jakarta. Dalam laporannya berjudul
+“Perkembangan
+Triwulanan
+Perekonomian
+Indonesia”
+pada
+pertengahan Maret 2013, Bank Dunia
+memberikan peringatan bahwa sektor
+properti Indonesia dikhawatirkan
+akan berisiko mengalami estate
+bubble.
+Perkembangan
+sektor
+property, real estate & building
+construction merupakan salah satu
+indikator dari pertumbuhan ekonomi
+suatu negara. Investasi di properti
+merupakan
+investasi
+yang
+menjanjikan di masa yang akan
+datang dan hampir menjadi pilihan
+investasi yang aman bagi setiap
+investor. Dari data rata-rata indeks
+harga sektoral berbagai sektor di BEI
+tahun
+2009-2012
+menunjukkan
+bahwa sektor sektor property, real
+estate dan building constructions
+memiliki rata-rata indeks yang
+terendah. Kondisi ini tidak sesuai
+dengan kenyataan yang ada bahwa
+seharusnya perkembangan sektor
+properti
+sewajarnya
+diimbangi
+dengan harga saham yang tinggi juga
+pada sektor tersebut.
+Penelitian terdahulu yang
+yang dilakukan oleh Sukirni (2012)
+menyatakan
+kebijakan
+hutang
+berpengaruh positif terhadap nilai
+perusahaan.
+Hal
+ini
+juga
+membenarkan penelitian dari Cheng
+dan Tzeng (2009), Wijaya (2010),
+Rustendi dan Jimmi (2008), Ansori
+dan Denica (2010), dan Solikahan
+(2013) yang menyatakan hal yang
+sama. Sedangkan penelitian yang
+869
+
+dilakukan oleh Setiawan (2009),
+Sudiyatno dan Puspitasari (2010) dan
+Sari (2014) menyatakan kebijakan
+hutang berpengaruh negatif terhadap
+nilai
+perusahaan.
+Sebaliknya,
+penelitian yang dilakukan oleh
+Hidayat
+(2012),
+Sari
+(2012),
+Mahendra (2011) dan Majunantha
+(2013) menyatakan kebijakan hutang
+tidak berpengaruh terhadap nilai
+perusahaan.
+Kebijakan
+dividen
+menyangkut
+tentang
+masalah
+penggunaan laba yang menjadi hak
+para pemegang saham. Pada
+dasarnya, laba tersebut bisa dibagi
+sebagai dividen atau ditahan untuk
+diinvestasikan kembali (Husnan,
+2010:381). Jadi, setiap perubahan
+dalam kebijakan pembagian akan
+mempunyai pengaruh yang saling
+bertentangan. Dengan demikian,
+kebijakan dividen yang optimal akan
+menciptakan keseimbangan di antara
+dividen saat ini dan pertumbuhan di
+masa
+mendatang
+yang
+memaksimumkan
+harga
+saham
+(Brigham dan Houston, 2001:66).
+Kebijakan dividen menarik
+digunakan sebagai variabel moderasi
+antara kebijakan hutang dan nilai
+perusahaan dalam penelitian ini,
+karena kebijakan dividen merupakan
+bagian yang menyatu dengan
+keputusan pendanaan perusahaan
+atau kebijakan hutang perusahaan
+yang menyangkut pembelanjaan
+internal perusahaan sehingga dapat
+diketahui pengaruhnya terhadap nilai
+perusahaan atau harga saham
+perusahaan. Kebijakan dividen ini
+juga menjadi pusat perhatian banyak
+pihak sebagai pemegang saham,
+kreditor, maupun pihak eksternal lain
+yang memiliki kepentingan dari
+informasi yang dikeluarkan oleh
+perusahaan.
+Dividen
+memiliki
+informasi sebagai syarat prospek
+perusahaan. Semakin besar dividen
+yang dibagikan kepada pemegang
+saham, maka kinerja perusahaan
+akan dianggap baik, dan pada
+akhirnya
+penilaian
+terhadap
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+perusahaan yang tercermin melalui
+harga saham akan semakin baik
+pula. Hasil penelitian mengenai
+kebijakan
+dividen
+sebagai
+pemoderasi antara kinerja keuangan
+dan nilai perusahaan sebelumnya
+yang dilakukan oleh Erlangga (2009)
+pada perusahaan manufakur yang
+menemukan
+kebijakan
+dividen
+mampu
+memoderasi
+kinerja
+keuangan dan nilai perusahaan.
+Berbeda dengan Mahendra (2011)
+dan Meythi (2012) yang menemukan
+kebijakan dividen tidak mampu
+memoderasi pengaruh terhadap nilai
+perusahaan.
+Dari latar belakang yang telah
+diuraikan, maka penting untuk
+meneliti apakah kebijakan dividen
+berpengaruh positif terhadap nilai
+perusahaan dan apakah kebijakan
+dividen
+memperkuat
+kebijakan
+hutang terhadap nilai perusahaan.
+KAJIAN PUSTAKA
+Kebijakan Hutang
+Kebijakan
+hutang
+adalah
+kebijakan yang dilakukan perusahaan
+untuk mendanai operasinya dengan
+menggunakan hutang keuangan atau
+yang biasa disebut dengan financial
+leverage. Leverage keuangan adalah
+praktik pendanaan sebagian aktiva
+perusahaan dengan sekuritas yang
+menanggung beban pengembalian
+tetap
+dengan
+harapan
+bisa
+meningkatkan pengembalian akhir
+bagi pemegang saham (Keown et al.,
+2010:121).
+Teori
+yang
+menjelaskan
+mengenai
+kebijakan
+hutang
+diantaranya yaitu Trade Off Theory
+dan Pecking Order Theory. Trade Off
+Theory menggambarkan tentang
+keputusan kontroversi utang-ekuitas
+perusahaan antara perlindungan
+pajak bunga dan biaya masalah
+keuangan. Nilai perusahaan dengan
+utang akan semakin meningkat
+dengan meningkatnya hutang, tetapi
+pada titik tertentu nilai tersebut akan
+870
+
+turun. Gabungan teori antara teori
+struktur
+modal
+MM
+dengan
+memasukkan biaya kebangkrutan
+dan biaya keagenan mengindikasikan
+adanya
+trade-off
+antara
+penghematan pajak dan utang
+dengan biaya keuangan. Jadi,
+diperlukan tingkat utang yang optimal
+pada titik tertentu agar nilai
+perusahaan naik dan tidak timbul
+biaya
+kebangkrutan
+(Hanafi,
+2010:309).
+Pecking Order menetapkan
+suatu urutan keputusan pendanaan
+dimana para manajer pertama kali
+akan memilih untuk menggunakan
+laba ditahan, hutang dan penerbitan
+saham sebagai pilihan terakhir
+(Hanafi, 2004:313). Penggunaan
+hutang lebih disukai karena biaya
+yang dikeluarkan untuk hutang lebih
+murah dibandingkan dengan biaya
+penerbitan saham. Menurut Brealey
+et al., (2008:25), urutan pendanaan
+menurut teori pecking order adalah
+Perusahaan
+lebih
+menyukai
+pendanaan internal, karena dana ini
+terkumpul tanpa mengirimkan sinyal
+sebaliknya yang dapat menurunkan
+harga saham. Jika dana eksternal
+dibutuhkan, perusahaan menerbitkan
+utang lebih dahulu dan hanya
+menerbitkan ekuitas sebagai pilihan
+terakhir. Pecking order ini muncul
+karena penerbitan utang tidak terlalu
+diterjemahkan sebagai
+pertanda
+buruk oleh investor bila dibandingkan
+dengan penerbitan ekuitas.
+Kebijakan Dividen
+Kebijakan
+dividen
+menyangkut
+tentang
+masalah
+penggunaan laba yang menjadi hak
+para pemegang saham. Pada
+dasarnya, laba tersebut bisa dibagi
+sebagai dividen atau ditahan untuk
+diinvestasikan kembali (Husnan,
+2010:381).
+Sutrisno (2001) dalam Rosdini
+(2009) mendefinisikan kebijakan
+dividen adalah
+kebijakan yang
+berhubungan dengan pembayaran
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+dividen oleh pihak perusahaan,
+berupa penentuan besarnya dividen
+yang akan dibagikan dan besarnya
+saldo laba yang ditahan untuk
+kepentingan perusahaan. Secara
+umum suatu perusahaan harus
+menetapkan kebijakan dividen yang
+nantinya
+dapat
+memaksimalkan
+kemakmuran para pemegang saham.
+Menurut Sjahrial (2007:311)
+menyatakan bahwa beberapa teori
+tentang kebijakan dividen, yaitu:
+Dividend Irrelevance Theory (Teori
+ketidakrelevanan
+dividen)
+menyatakan bahwa kebijakan dividen
+tidak mempunyai pengaruh terhadap
+nilai perusahaan maupun biaya
+modal. Modigliani dan Miller (1961)
+menyatakan bahwa nilai perusahaan
+hanya ditentukan oleh pendapatan
+yang dihasilan oleh aktivanya,
+dengan demikian nilai perusahaan
+ditentukan
+oleh
+keputusan
+investasinya jadi menurut Modigliani
+dan Miller dividen tidak relevan.
+Ketidakrelevanan
+dividen
+menyatakan bahwa nilai sekarang
+dividen di masa mendatang tidak
+berubah sekalipun kebijakan dividen
+berubah
+baik
+waktu
+maupun
+besarnya
+dividen
+sehingga
+perusahaan
+tidak
+mampu
+menciptakan nilai dengan merubah
+kombinasi dividen maupun laba yang
+ditahan.
+The Bird in The Hand Theory
+menyatakan bahwa biaya modal
+perusahaan sendiri akan naik jika
+dividend payout ratio (DPR) rendah
+karena investor lebih suka menerima
+dividen dibanding capital gain dimana
+divien mempunyai risiko yang lebih
+kecil dibanding capital gain. Dengan
+dilakukannya pembayaran dividen
+maka dapat mengurangi ketidak
+pastian yang selanjutnya dapat
+mengurangi risiko sehingga pada
+akhirnya
+mengurangi
+tingkat
+keuntungan yang disyaratkan oleh
+pemegang saham.
+Tax
+Preference
+Theory
+menyatakan karena adanya pajak
+terhadap dividen dan capital gain.
+871
+
+Para investor lebih menyukai capital
+gain hal ini dikarenakan dapat
+menunda pembayaran pajak dalam
+capital gain. Oleh sebab itu investor
+mensyaratkan
+suatu
+tingkat
+keuntungan yang lebih tinggi pada
+saham yang memberikan dividend
+yield tinggi dan capital gain rendah
+daripada dividen yield rendah dan
+capital gain tinggi.
+Signalling Hypotesis Theory
+menyebutan bahwa jika ada kenaikan
+dividen maka sering diikuti dengan
+kenaikna harga saham, demikian
+sebaliknya. Menurut Modigliani dan
+Miller kenaikan dividen biasanya
+merupakan suatu sinyal atau tanda
+kepada
+para
+investor
+bahwa
+manajemen perusahaan meramalkan
+satu penghasilan yang baik dimasa
+mendatang, dan sebaliknya.
+Clientele
+Effect
+Theory
+berpendapat bahwa terdapat dua
+kelompok yang memiliki kepentingan
+berbeda, yaitu kelompok pemegang
+saham yang berbeda akan memiliki
+preferensi yang berbeda terhadap
+kebijakan
+dividen
+perusahaan.
+Kelompok pemegang saham yang
+membutuhkan penghasilan pada saat
+ini lebih menyukai suatu dividend
+payout ratio (DPR) yang tinggi, begitu
+sebaliknya.
+Nilai Perusahaan
+Nilai perusahaan merupakan
+persepsi
+investor
+terhadap
+perusahaan yang sering dikaitkan
+dengan harga saham. Harga saham
+merupakan
+pencerminan
+nilai
+perusahaan.
+Pada
+dasarnya
+perusahaan memiliki suatu tujuan
+yaitu memaksimalkan kesejahteraan
+pemilik
+saham
+perusahaan.
+Kesejahteraan pemegang saham
+yang maksimal tersebut dapat
+terwujud apabila nilai perusahaan
+dimaksimalkan.
+Tujuan
+memaksimumkan
+kemakmuran
+pemegang saham dapat ditempuh
+dengan
+memaksimumkan
+nilai
+sekarang atau present value semua
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+keuntungan pemegang saham yang
+diharapkan akan diperoleh di masa
+datang (Sartono, 2010:9).
+Nilai perusahaan merupakan
+persepsi investor terhadap tingkat
+keberhasilan perusahaan yang sering
+dikaitkan dengan harga saham.
+Harga saham yang tinggi membuat
+nilai perusahaan juga tinggi. Nilai
+perusahaan
+yang
+tinggi
+akan
+membuat pasar percaya tidak hanya
+pada kinerja perusahaan saat ini
+namun
+juga
+pada
+prospek
+perusahaan di masa depan.
+Dalam penelitian ini Nilai
+Perusahaan menggunakan rasio
+Tobin’s Q (Tobin’s Q ratio). Rasio ini
+mirip dengan rasio nilai pasar
+terhadap nilai buku. Tobin’s Q adalah
+nilai pasar dari aset perusahaan
+dibagi dengan biaya penggantinya.
+Menurut konsepnya, Tobin’s Q lebih
+unggul daripada rasio nilai pasar
+terhadap nilai buku karena rasio ini
+berfokus
+pada
+berapa
+nilai
+perusahaan saat ini secara relatif
+terhadap
+berapa
+biaya
+yang
+dibutuhkan untuk menggantinya saat
+ini. Perusahaan dengan rasio Q yang
+tinggi
+adalah
+perusahaanperusahaan yang cenderung memiliki
+peluang investasi yang lebih menarik
+atau keunggulan kompetitif yang
+signifikan
+(atau
+kedua-duanya).
+Sebaliknya, rasio nilai pasar terhadap
+nilai buku berfokus pada biaya
+historis
+yang
+kurang
+relevan
+(Margaretha, 2011).
+Analisis Tobin’s Q dapat
+diketahui jika Q > 1, menunjukkan
+nilai pasar perusahaan lebih tinggi
+dibandingkan nilai buku asetnya,
+sehingga nilai saham tersebut
+overvalued. Nilai saham yang tinggi
+maka nilai perusahaan juga tinggi.
+Sebaliknya jika rasio Tobin’s Q
+menghasilkan nilai Q < 1, maka
+menunjukkan bahwa nilai buku aset
+perusahaan lebih besar dari nilai
+saham
+perusahaan,
+sehingga
+menunjukkan nilai saham tersebut
+dihargai
+rendah
+(undervalued)
+
+872
+
+sehingga
+rendah.
+
+nilai
+
+perusahaan
+
+juga
+
+Kinerja Keuangan, Pengungkapan
+DPR dan Nilai Perusahaan
+Hutang merupakan instrumen
+yang sangat sensitif terhadap nilai
+perusahaan. Modigliani dan Miller
+(1958) dalam Husnan (2010:331)
+menunjukkan
+bahwa
+sejauh
+pembayaran
+bunga
+bisa
+dipergunakan untuk mengurangi
+pajak, maka penggunaan hutang
+memberikan manfaat bagi pemilik
+perusahaan. Sebaliknya, pada titik
+tertentu penggunaan hutang tidak
+menguntungkan
+bila
+terjadi
+kebangkrutan
+dan
+perbedaan
+personal tax antar income dari
+ekuitas
+dan
+hutang
+(Husnan,
+2010:331).
+Kebijakan hutang berkaitan
+dengan struktur modal karena hutang
+merupakan salah satu komposisi
+dalam struktur modal. Perusahaan
+dinilai berisiko apabila memiliki porsi
+hutang yang besar dalam struktur
+modalnya. Namun apabila hutang
+tersebut
+dapat
+menghasilkan
+keuntungan, maka hutang akan
+dapat meningkatkan nilai perusahaan
+(Hidayat, 2013).
+Adanya penggunaan hutang
+juga dapat mempengaruhi harga
+saham perusahaan. Perusahaan
+dengan penggunaan tingkat hutang
+yang lebih tinggi akan meningkatkan
+laba per lembar sahamnya yang
+akhirnya akan meningkatkan harga
+saham perusahaan yang berarti
+meningkatkan
+nilai
+perusahaan.
+Sebaliknya, penggunaan hutang
+yang terlampau tinggi juga akan
+meningkatkan risiko perusahaan,
+dimana biaya ekuitas akan meningkat
+yang selanjutnya akan menurunkan
+harga
+saham,
+yang
+berarti
+menurunkan
+nilai
+perusahaan,
+dengan demikian peningkatan hutang
+akan meningkatkan nilai perusahaan,
+namun pada titik tertentu akan dapat
+menurunkan nilai perusahaan.
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+Sukirni (2012) menyatakan
+kebijakan hutang berpengaruh positif
+terhadap nilai perusahaan. Hal ini
+juga didukung oleh Cheng dan Tzeng
+(2009), Wijaya (2010), Rustendi dan
+Jimmi (2008), Ansori dan Denica
+(2010), dan Solikahan (2013) yang
+menyatakan hal yang sama bahwa
+dengan adanya hutang, perusahaan
+dapat
+meningkatkan
+nilai
+perusahaannya.
+Kebijakan
+dividen
+mempengaruhi pendapatan yang
+diharapkan,
+karena
+dividen
+merupakan bagian dari keputusan
+pendanaan, yaitu pendanaan internal
+berupa laba ditahan. Semakin besar
+laba bersih yang dibayarkan sebagai
+dividen semakin kecil laba ditahan,
+dan sebaliknya. Hal ini akan
+berdampak
+pada
+penggunaan
+sumber dana eksternal seperti utang
+dan
+penerbitan
+saham
+baru.
+Perusahaan yang dibelanjai dengan
+hutang seluruhnya, atau kombinasi
+hutang dengan modal sendiri, akan
+menghasilkan laba bersih yang
+berbeda-beda. Hal ini menunjukan
+bahwa keputusan pendanaan dan
+dividen mempengaruhi pendapatan
+yang diharapkan (Sudana, 2009:9).
+Menurut teori signalling, ada
+kecenderungan harga saham akan
+naik jika ada pengumuman kenaikan
+dividen, dan harga saham akan
+menurun jika ada pengumuman
+penurunan dividen. Artinya dividen
+dipakai
+sebagai
+sinyal
+oleh
+perusahaan.
+Jika
+perusahaan
+merasa bahwa prospek dimasa yang
+akan mendatang baik, pendapatan,
+aliran kas diharapkan meningkat atau
+diperoleh pada tingkat dimana
+dividen yang meningkat tersebut
+dibayarkan, maka perusahaan akan
+meningkatkan dividen. Pasar akan
+merespon positif kenaikan dividen
+tersebut. Hal ini sebaliknya terjadi,
+jika perusahaan merasa prospek di
+masa
+mendatang
+menurun,
+perusahaan
+akan
+menurunkan
+pembayaran dividennya. Pasar akan
+merespon
+negatif
+pengumuman
+873
+
+tersebut. Menurut teori tersebut,
+dividen
+mempunyai
+kandungan
+informasi, yaitu prospek perusahaan
+di
+masa
+mendatang
+(Hanafi,
+2004:371).
+Erlangga (2009) menyatakan
+bahwa kebijakan dividen mampu
+memoderasi
+atau
+memperkuat
+variabel kinerja keuangan terhadap
+nilai perusahaan. Dengan adanya
+kebijakan dividen, kebijakan dividen
+diharapkan mampu turut serta
+bersama-sama menambah pengaruh
+positif kebijakan hutang terhadap nilai
+perusahaan.
+Berdasarkan
+rumusan
+masalah, tujuan, teori, penelitian
+terdahulu, hubungan antar variabel,
+dan
+kerangka
+berpikir,
+maka
+hipotesis dalam penelitian ini adalah:
+H1: Kebijakan hutang berpengaruh
+positif terhadap nilai perusahaan.
+H2:. Kebijakan dividen mampu dalam
+memoderasi pengaruh kebijakan
+hutang
+terhadap
+nilai
+perusahaan.
+METODE
+Jenis
+penelitian
+yang
+digunakan dalam penelitian ini adalah
+kausal, yaitu untuk mendapatkan
+bukti
+hubungan
+sebab
+akibat
+(hubungan kausal). Data yang
+digunakan dalam penelitian ini yaitu
+data sekunder dan sumber data
+diperoleh dari Bursa Efek Indonesia
+(BEI).
+Populasi dalam penelitian ini
+adalah perusahaan property, real
+estate dan building construction yang
+terdaftar di BEI selama periode 20092012.
+Pengambilan
+sampel
+menggunakan
+teknik
+purposive
+sampling, kriteria pemilihan sampel
+dalam
+penelitian
+ini
+adalah
+perusahaan property, real estate dan
+building construction yang listing di
+BEI dan membagikan dividennya
+berturut-turut selama periode 20092012. Dari kriteria sampel yang telah
+ditentukan didapatkan 48 sampel.
+Sampel tersebut didapatkan dari
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+jumlah perusahaan property, real
+estate dan building construction yang
+terdaftar di BEI periode 2009-2012
+sebanyak 57 perusahaan, kemudian
+perusahaan yang tidak delisting di
+BEI periode 2009-2012 berjumlah 54
+perusahaan, serta perusahaan yang
+tidak membagikan dividen secara
+berturut-turut selama periode 20092012 ada 32 perusahaan, sehingga
+tersisa 12 perusahaan yang sesuai
+dengan kriteria. Dari 12 perusahaan
+tersebut dikalikan dengan 4 periode,
+sehingga didapatkan 48 sampel
+penelitian.
+Variabel
+penelitian
+ini
+dikelompokkan menjadi tiga yaitu
+variabel
+independen,
+variabel
+moderasi, dan variabel dependen.
+Variabel independen dalam penelitian
+ini yaitu kebijakan hutang. Variabel
+moderasi yang digunakan yaitu
+kebijakan
+dividen.
+Sedangkan
+variabel dependen yang digunakan
+yaitu nilai perusahaan.
+Kebijakan
+hutang
+ialah
+kebijakan
+perusahaan
+untuk
+mendanai segala bentuk operasinya
+dengan
+menggunakan
+hutang
+keuangan. Hutang keuangan ini
+dilakukan dengan tujuan membiayai
+aktivitas-aktivitas perusahaan baik
+dalam
+hal
+pengoperasian
+perusahaan maupun untuk investasi
+Dalam pengukuran kebijakan hutang
+dipenelitian ini diproksikan dengan
+DER. Menurut Sukirni (2012) rasio ini
+diukur dengan rumus sebagai berikut:
+DER =
+Kebijakan
+dividen
+ialah
+kebijakan yang berhubungan dengan
+pembayaran dividen oleh pihak
+perusahaan,
+berupa
+penentuan
+besarnya
+dividen
+yang
+akan
+dibagikan dan besarnya saldo laba
+yang ditahan untuk kepentingan
+perusahaan (Rosdini, 2009). Dalam
+pengukuran kebijakan dividen ini
+dapat
+diproksikan
+dengan
+menggunakan DPR. Menurut Wild
+(1995) dalam Hidayat (2013) rasio ini
+diukur dengan rumus sebagai berikut:
+
+874
+
+DPR =
+Nilai perusahaan merupakan
+pencerminan dari harga saham. Nilai
+perusahaan
+dapat
+memberikan
+kemakmuran
+untuk
+pemegang
+saham secara maksimal apabila
+harga saham perusahaan meningkat.
+Semakin tinggi harga saham, maka
+semakin tinggi kemakmuran para
+pemegang saham. Dalam variabel ini
+pengukurannya menggunakan rasio
+Tobin’s Q. Menurut Meythi (2012)
+rasio ini diukur dengan rumus
+sebagai berikut:
+Tobin’s Q =
+
+Teknik pengumpulan data
+yang digunakan dalam penelitian ini
+adalah teknik dokumentasi. Data
+sekunder yang digunakan berupa
+annual report perusahaan property,
+real estate dan building construction
+yang terdaftar di BEI tahun 20092012.
+Teknik analisis data dalam
+penelitian ini menggunakan uji
+moderasi MRA. Model regresi yang
+baik diharuskan memenuhi beberapa
+asumsi yang disebut sebagai asumsi
+klasik, jadi sebelum dilakukan uji
+MRA dilakukan uji asumsi klasik
+terlebih dahulu. Uji asumsi klasik
+yang digunakan yaitu uji normalitas,
+uji
+multikolinearitas,
+uji
+heteroskedastisitas,
+dan
+uji
+autokorelasi (Ghozali, 2012). Setelah
+pengujian asumsi klasik dan uji MRA,
+variabel
+moderasi
+tersebut
+digolongkan sesuai dengan jenisnya.
+Tabel 1 Jenis Variabel Moderai
+
+Tidak
+berinteraksi
+dengan
+predictor
+Berinteraksi
+dengan
+predictor
+
+Berhubungan
+dengan
+criterion
+dan
+atau predictor
+
+Tidak
+berhubungan
+dengan
+criterion
+dan
+predictor
+
+1
+Intervening,
+Exogen,
+Antesdent,
+Predictor
+3
+Quasi
+Moderator
+
+2
+Homologizer
+Moderator
+
+4
+Pure
+Moderator
+
+Sumber: Ghozali (2012:224)
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+HASIL
+Berdasarkan
+hasil
+uji
+normalitas
+menggunakan
+uji
+Kolmogorov-Smirnov menunjukkan
+tingkat signifikansi sebesar 0,981
+nilainya > 0,05, sehingga disimpulkan
+bahwa data berdistribusi secara
+normal. Hasil uji multikolinearitas
+menunjukkan nilai tolerance 0,974
+yaitu > 0,10 dan nilai VIF sebesar
+1,027 yaitu < 10, sehingga model
+regresi tidak terjadi multikolinieritas.
+Hasil uji heterokedastisitas dengan
+melihat grafik plot. Dari grafik
+tersebut diketahui titik-titik menyebar
+secara acak tersebar diatas dan
+dibawah atau disekitar angka 0 pada
+sumbu Y, sehingga dinyatakan tidak
+terjadi heteroskedastisitas. Hasil uji
+autokorelasi
+dengan
+run
+test
+menunjukkan nilai test adalah 0,00021
+dengan
+probabilitas
+signifikansi
+0,307
+yaitu
+nilai
+signifikansi > 0,05, maka model
+regresi terbebas dari autokorelasi.
+Setelah memenuhi uji asumsi
+klasik, kemudian dilakukan uji
+moderasi dengan menggunakan uji
+MRA. Dalam uji MRA terdapat tiga
+tahapan. Berikut tabel 2 ringkasan
+regresi uji MRA:
+Tabel 1 Ringkasan hasil uji MRA
+Persamaan
+
+Model
+
+I
+
+(constant)
+DER
+(constant)
+DER
+DPR
+(constant)
+DER
+DPR
+DER*DPR
+
+II
+
+III
+
+Unst.
+Coeff B
+1,816
+-,125
+1,733
+-,116
+,167
+1,884
+-,302
+-,489
+,756
+
+T
+
+Sig.
+
+16,841
+-2,964
+14,214
+-2,729
+1,399
+13,484
+-2,979
+-1,412
+2,010
+
+,000
+,005
+,002
+,009
+,169
+,000
+,005
+,165
+,051
+
+Sumber: diolah penulis (2014)
+Pada tabel 2 menunjukkan
+hasil ketiga tahapan regresi uji MRA.
+Pada persamaan I uji MRA
+menjelaskan bagaimana pengaruh
+kinerja keuangan terhadap nilai
+perusahaan. Berdasarkan tabel 2 uji
+moderasi persamaan I diketahui
+bahwa nilai t hitung sebesar -2,964
+dengan
+probabilitas
+signifikansi
+sebesar 0,005 yaitu signifikansinya
+dibawah 0,05, dengan demikian
+875
+
+dapat disimpulkan bahwa H1 dalam
+penelitian ini ditolak yaitu kebijakan
+hutang (DER) berpengaruh negatif
+terhadap nilai perusahaan (Tobin’s
+Q).
+Pada persamaan II uji MRA
+menjelaskan bagaimana variabel
+moderasi yaitu DPR dalam hubungan
+antara kinerja keuangan terhadap
+nilai perusahaan. Berdasarkan tabel
+2 hasil uji moderasi persamaan II
+diketahui bahwa hasil nilai t hitung
+sebesar 1,399 dengan probabilitas
+signifikansi sebesar 0,169 yaitu nilai
+signifikansinya
+diatas
+0,05,
+disimpulkan bahwa DPR tidak
+mempengaruhi nilai perusahaan.
+Dengan
+demikian
+H2
+dalam
+penelitian ini ditolak karena DPR
+tidak dapat mempengaruhi nilai
+perusahaan.
+Pada persamaan III uji MRA
+menjelaskan
+apakah
+DPR
+merupakan variabel moderasi atau
+semi moderasi. Berdasarkan tabel 2
+hasil uji moderasi tahap III nilai t
+hitung DPR sebesar -1,412 dengan
+probabilitas
+signifikansi
+sebesar
+0,165 diatas 0,05 dan nilai t hitung
+DER*DPR sebesar 0,165 dengan
+probabilitas
+signifikansi
+sebesar
+0,051 diatas 0,05. Dengan demikian
+dapat disimpulkan bahwa variabel Z
+atau DPR bukan merupakan variabel
+moderasi, tetapi termasuk variabel
+homologizer. Variabel homologizer
+adalah variabel yang mempengaruhi
+kekuatan hubungan, tetapi tidak
+berhubungan
+dengan
+variabel
+independen
+dan
+juga
+tidak
+berhubungan
+dengan
+variabel
+independen dan dependen.
+PEMBAHASAN
+Pengaruh
+Kebijakan
+Hutang
+Terhadap Nilai Perusahaan
+Kebijakan
+hutang
+adalah
+kebijakan yang dilakukan perusahaan
+untuk mendanai operasinya dengan
+menggunakan
+hutang.
+Hutang
+merupakan instrumen yang sangat
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+sensitif terhadap nilai perusahaan.
+Sejauh pembayaran bunga bisa
+dipergunakan untuk mengurangi
+pajak, maka penggunaan hutang
+memberikan manfaat bagi pemilik
+perusahaan. Sebaliknya, pada titik
+tertentu penggunaan hutang tidak
+menguntungkan dan mengalami
+kebangkrutan bila terjadi gagal bayar.
+Pemilihan
+penggunaan
+hutang dari pada penerbitan ekuitas
+sebagai
+sumber
+pendanaan
+tergantung keputusan masing-masing
+perusahaan.
+Tingkat
+hutang
+perusahaan akan mempengaruhi
+kegiatan operasi yang dijalankan
+perusahaan.
+Kebijakan
+hutang
+dengan Debt to Equity Ratio (DER)
+menunjukkan semakin rendah DER
+perusahaan maka perusahaan dapat
+mengalokasikan laba yang didapat
+dengan menggunakannya sebagai
+dana untuk operasional perusahaan
+atau membagikan dividen kepada
+pemegang saham, dan sebaliknya.
+Adanya penggunaan hutang
+juga dapat mempengaruhi harga
+saham perusahaan. Perusahaan
+dengan penggunaan tingkat hutang
+yang lebih tinggi akan meningkatkan
+laba per lembar sahamnya yang
+akhirnya akan meningkatkan harga
+saham perusahaan yang berarti
+meningkatkan
+nilai
+perusahaan.
+Sebaliknya, penggunaan hutang
+yang terlampau tinggi juga akan
+meningkatkan risiko perusahaan,
+dimana biaya ekuitas akan meningkat
+yang selanjutnya akan menurunkan
+harga
+saham,
+yang
+berarti
+menurunkan
+nilai
+perusahaan,
+dengan demikian peningkatan hutang
+akan meningkatkan nilai perusahaan,
+namun pada titik tertentu akan dapat
+menurunkan nilai perusahaan.
+Berdasarkan hasil penelitian
+diperoleh nilai t hitung pada interaksi
+Tobin’s Q sebesar -2,964 dengan
+probabilitas
+signifikansi
+sebesar
+0,005 dibawah 0,05. Sehingga hasil
+penelitian ini menunjukkan bahwa
+kebijakan
+hutang
+berpengaruh
+terhadap nilai perusahaan. Hasil
+876
+
+negatif
+signifikan
+mendukung
+penelitian Setiawan (2009), Sari
+(2014) dan Sudiyatno dan Puspitasari
+(2010) yang menyatakan Kebijakan
+hutang (DER) memiliki pengaruh
+negatif terhadap nilai perusahaan.
+Hal ini disebabkan karena hutang
+merupakan salah satu sumber
+pembiayaan yang memiliki tingkat
+risiko yang tinggi. Risiko tersebut
+berhubungan
+dengan
+risiko
+pembayaran bunga yang umumnya
+tidak dapat ditutupi perusahaan.
+Berdasarkan teori trade off,
+dengan asumsi titik target struktur
+modal
+optimal
+tercapai
+maka
+penggunaan hutang menurunkan
+nilai perusahaan. Hutang akan
+menambah beban tetap tanpa
+memperdulikan
+besarnya
+pendapatan. Semakin besar hutang
+semakin tinggi tingkat probabilitas
+kebangkrutan karena perusahaan
+tidak dapat membayar bunga dan
+pokoknya. Pihak manajemen harus
+memperhatikan penggunaan hutang,
+karena banyaknya hutang bisa
+menurunkan
+nilai
+perusahaan.
+Dengan tingginya rasio leverage
+menunjukkan rasio tidak solvable, ini
+menunjukkan
+respon
+negatif
+terhadap
+investor
+maka
+nilai
+perusahaan menurun (Sari, 2014).
+Besar kecilnya hutang yang dimiliki
+perusahaan masih diperhatikan oleh
+investor, karena investor lebih
+melihat bagaimana pihak manajemen
+perusahaan
+mengunakan
+dana
+tersebut dengan efektif dan efisien
+untuk mencapai nilai tambah bagi
+nilai perusahaan. Hasil penelitian ini
+didukung
+oleh
+Sudiyatno
+dan
+Puspitasari (2010).
+Pengaruh
+Kebijakan
+Dividen
+Dalam Mempengaruhi Hubungan
+Kebijakan Hutang Terhadap Nilai
+Perusahaan
+Kebijakan
+dividen
+menyangkut
+tentang
+masalah
+penggunaan laba yang menjadi hak
+para pemegang saham. Kebijakan
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+yang
+berhubungan
+dengan
+pembayaran dividen oleh pihak
+perusahaan,
+berupa
+penentuan
+besarnya
+dividen
+yang
+akan
+dibagikan dan besarnya saldo laba
+yang ditahan untuk kepentingan
+perusahaan Laba tersebut bisa dibagi
+sebagai dividen atau ditahan untuk
+diinvestasikan kembali. Penentuan
+berapa besar bagian laba bersih
+perusahaan yang akan dibagikan
+sebagai
+dividen,
+merupakan
+kebijakan manajemen perusahaan,
+dan akan mempengaruhi nilai
+perusahaan dan harga pasar saham.
+Kebijakan dividen dengan dividend
+payout ratio (DPR) menunjukkan
+semakin
+besar
+dividen
+yang
+dibayarkan
+berarti
+perusahaan
+memutuskan untuk menahan laba
+dalam jumlah yang sedikit yang
+menyebabkan semakin sedikit dana
+yang tersedia bagi perusahaan untuk
+melakukan investasi tingkat nilai yang
+diharapkan di masa mendatang
+menjadi semakin rendah dan hal
+tersebut bisa memberi tekanan pada
+harga saham, begitupula sebaliknya.
+Dalam penelitian ini DPR tidak
+memoderasi
+atau
+memperkuat
+hubungan antara kebijakan hutang
+terhadap nilai perusahaan yaitu
+terbukti dari hasil nilai t hitung
+sebesar 1,399 dengan probabilitas
+signifikansi sebesar 0,169 diatas
+0,05. Jadi investor tidak akan melihat
+suatu perusahaan dari pembayaran
+dividen perusahaan tersebut. Hal ini
+sesuai dengan irrelevant theory yang
+dikemukakan oleh Modligani dan
+Miller
+(1961)
+dalam
+Husnan
+(2010:331) yang berpendapat bahwa
+kebijakan dividen perusahaan tidak
+memiliki pengaruh terhadap nilai
+perusahaan maupun biaya modal,
+namun nilai perusahaan tergantung
+pada
+kebijakan
+nilai
+investasi
+asetnya.
+Berdasarkan hasil uji, nilai t
+hitung DPR sebesar -,1412 dengan
+probabilitas signifikansi 0,165 diatas
+0,05 dan nilai t hitung DPR*DER
+sebesar 2,010 dengan probabilitas
+877
+
+signifikansi sebesar 0,51 diatas 0,50.
+Dengan demikian dapat disimpulkan
+bahwa variabel Z atau DPR bukan
+merupakan
+variabel
+moderasi.
+Sehingga pada penelitian ini DPR
+berada pada posisi kuadran 2 yaitu
+bukan merupakan bukan moderasi
+karena tidak berinteraksi dengan
+variabel
+independen
+tetapi
+merupakan variabel homologizer.
+Berdasarkan hasil penelitian,
+dapat diketahui bahwa kebijakan
+dividen tidak berpengaruh terhadap
+nilai perusahaan. Dimana tinggi
+rendahnya dividen yang dibayarkan
+kepada pemegang saham, tidak
+berkaitan dengan tinggi rendahnya
+nilai perusahaan. Kebijakan deviden
+merupakan hak pemegang saham
+untuk mendapatkan sebagian dari
+keuntungan
+perusahaan.
+Pembayaran dividen juga akan dapat
+mengurangi peluang investasi, dan
+kenyataannya
+investor
+lebih
+menyukai capital gain daripada
+dividen karena pajak capital gain
+lebih kecil daripada pajak dividen.
+Penelitian ini didukung oleh
+Meythi (2012) dan Mahendra (2011)
+bahwa DPR tidak dapat memoderasi
+hubungan antara kebijakan hutang
+dan nilai perusahaan. Masuknya
+kebijakan dividen tidak mampu
+secara
+signifikan
+memoderasi
+pengaruh hutang terhadap nilai
+perusahaan. Kebijakan dividen tidak
+mampu
+meningkatkan
+nilai
+perusahaan pada saat hutang rendah
+dan kebijakan dividen tidak dapat
+menurunkan nilai perusahaan pada
+saat hutang tinggi.
+KESIMPULAN
+Berdasarkan hasil penelitian
+dan pembahasan, dapat diambil
+simpulan sebagai berikut:
+Kebijakan
+hutang
+(DER)
+berpengaruh negatif dengan nilai
+perusahaan. Hasil ini menunjukkan
+bahwa semakin tinggi hutang maka
+nilai perusahaan rendah dan semakin
+rendah
+hutang
+maka
+nilai
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+perusahaan
+tinggi.
+Penggunaan
+hutang harus hati-hati oleh pihak
+manajemen, karena semakin besar
+hutang akan menurunkan nilai
+perusahaan. Besar kecilnya hutang
+yang dimiliki perusahaan masih
+diperhatikan oleh investor, karena
+investor lebih melihat bagaimana
+pihak
+manajemen
+perusahaan
+mengunakan dana tersebut dengan
+efektif dan efisien untuk mencapai
+nilai tambah bagi nilai perusahaan.
+Variabel kebijakan dividen
+sebagai variabel moderating tidak
+dapat
+mempengaruhi
+hubungan
+antara kebijakan hutang dan nilai
+perusahaan. Hasil ini menunjukkan
+bahwa kegiatan kebijakan hutang
+tidak dapat meningkatkan nilai
+perusahaan
+pada
+saat
+DPR
+perusahaan tinggi, dan sebaliknya
+kebijakan
+hutang
+tidak
+dapat
+menurunkan nilai perusahaan pada
+saat DPR perusahaan rendah. Hal
+tersebut
+dikarenakan
+kebijakan
+deviden tidak berpengaruh terhadap
+nilai perusahaan. Dimana tinggi
+rendahnya dividen yang dibayarkan
+kepada pemegang saham, tidak
+berkaitan dengan tinggi rendahnya
+nilai perusahaan. Kebijakan deviden
+merupakan hak pemegang saham
+untuk mendapatkan sebagian dari
+keuntungan
+perusahaan.
+Pembayaran dividen juga akan dapat
+mengurangi peluang investasi, dan
+kenyataannya
+investor
+lebih
+menyukai capital gain daripada
+dividen karena pajak capital gain
+lebih kecil daripada pajak dividen.
+DAFTAR PUSTAKA
+Ansori, Mokhamat dan Denica H. N.
+2010.
+Jurnal
+Analisis
+Manajemen 4 (2): 153-175.
+Astuti,
+Dewi. 2004.
+Manajemen
+Keuangan
+Perusahaan.
+Jakarta: Ghalia.
+Brealey., Myers, dan Marcus. 2008.
+Dasar-dasar
+Manajemen
+Keuangan Perusahaan Jilid 2.
+Jakarta: Erlangga.
+
+878
+
+Brigham, Eugene F. dan Joel F.
+Houston. 2001. Manajemen
+Keuangan Buku 2. Jakarta:
+Salemba Empat.
+Cheng, Ming-Chang dan ZuweiChing Tzeng. 2009. The effect
+of leverage on firm value and
+how the firm financial quality
+influence
+on
+this
+effect.
+International Research Journal
+of Finance and Economics 4
+(7): 89-104.
+Erlangga, Enggar. 2009. Pengaruh
+Kinerja Keuangan terhadap
+Nilai
+perusahaan
+dengan
+pengungkapan CSR, Good
+Corporate Governance, dan
+Kebijakan Dividen sebagai
+Variabel Pemoderasi. Jurnal
+Akuntansi & Investasi 10 (1):
+57-70.
+Ghozali, Imam. 2012. Aplikasi
+Analisis Multivariate Dengan
+Program SPSS . Semarang:
+Badan Penerbit Universitas
+Diponegoro.
+Hanafi,
+Mamduh
+M. 2004.
+Manajemen Keuangan Edisi 1.
+Yogyakarta: BPFE.
+Hidayat, Azhari. 2013. Pengaruh
+kebijakan hutang dan kebijakan
+dividen
+terhadap
+nilai
+perusahaan. Jurnal Akutansi 1
+(3): 1-27.
+Husnan, Suad. 2010. Manajemen
+Keuangan
+Teori
+dan
+Penerapan (Keputusan Jangka
+Panjang) Buku 1. Yogyakarta:
+BPFE.
+Keown, Arthur J., John D. Martin, J.
+William Petty dan David F.
+Scott, JR. 2010. Manajemen
+Keuangan:
+Prinsip
+dan
+Penerapan Jilid 2. Jakarta:
+Indeks.
+Mahendra, Alfredo. 2011. Pengaruh
+Kinerja Keuangan terhadap
+Nilai
+Perusahaan
+pada
+Perusahaan Manufaktur di BEI.
+Jurnal Manajemen, Strategi
+Bisnis, dan Kewirausahaan 6
+(2): 130-138.
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Subaraman Desmon Asa Nainggolan dan Agung Listiadi; Pengaruh Kebijakan Hutang ...
+
+Manjunatha. 2013. Impact of debtequity and dividend payout ratio
+on the value of the firm. Global
+Journal of
+Commerce &
+Management Perspective 2 (2):
+18-27.
+Margaretha,
+Farah.
+2011.
+Manajemen Keuangan untuk
+Manajer
+Nonkeuangan.
+Jakarta: Erlangga.
+Meythi. 2012. Dampak interaksi
+antara kebijakan hutang dan
+kebijakan dividen dalam menilai
+perusahaan. Jurnal Keuangan
+dan Perbankan 16 (3): 407-414.
+Rosdini, Dini. 2009. Pengaruh Free
+Cash Flow Terhadap Dividend
+Payout Ratio. Jurnal Akutansi
+dan Keuangan 3 (2): 14-26.
+Sari,
+Indah
+Purnama.
+2014.
+Pengaruh
+pertumbuhan
+perusahaan
+dan
+leverage
+terhadap profitabilitas dan nilai
+perusahaan.
+Jurnal
+Manajemen, Strategi Bisnis,
+dan Kewirausahaan 3 (5): 1-15.
+Sari, Oktavina Tiara. 2013. Pengaruh
+keputusan investasi, keputusan
+pendanaan
+dan
+kebijakan
+dividen
+terhadap
+nilai
+perusahaan.
+Management
+Analysis Journal. 2 (2): 1-7.
+Sartono, Agus. 2010. Manajemen
+Keuangan Teori dan Aplikasi.
+Yogyakarta: BPFE.
+Setiawan, Stevanus Adree Cipto.
+2009. Pengaruh keputusan
+keuangan
+terhadap
+nilai
+perusahaan.
+Jurnal
+Ilmiah
+Manajemen Bisnis 9 (1): 39-54
+Sjahrial,
+Dermawan.
+2007.
+Manajemen Keuangan. Jakarta:
+Mitra Wacana Media.
+Solikhan, Eka Zahra. 2013. Pengaruh
+leverage dan investasi terhadap
+nilai
+perusahaan.
+Jurnal
+Aplikasi Manajemen 11 (3):
+427-433.
+Sudana, I Made. 2009. Manajemen
+Keuangan:
+Teori
+dan
+Praktik. Surabaya:
+Airlangga
+University Press.
+
+879
+
+Sudiyatno, Bambang dan Elen
+Puspitasari. 2010. Pengaruh
+kebijakan perusahaan terhadap
+nilai perusahaan dengan kinerja
+perusahaan sebagai variabel
+intervening. Jurnal Dinamika
+Keuangan dan Perbankan 2
+(1): 1-22.
+Sukirni, Dwi. 2012. Kepemilikan
+Manajerial,
+Kepemilikan
+Institusional, Kebijakan Dividen
+dan Kebijakan Hutang Analisis
+terhadap Nilai Perusahaan.
+Accounting Analysis Journal 1
+(2): 1-12.
+Rustendi, Tedi dan Farid Jimmi.
+2008. Pengaruh hutang dan
+kepemilikan
+manajerial
+terhadap nilai perusahaan pada
+sektor
+manufaktur.
+Jurnal
+Akuntansi 3 (1): 411-422.
+The
+World
+Bank.
+2013.
+Perkembangan
+Triwulanan
+Perekonomian Indonesia.
+Wijaya, Lihan R. P. 2010. Pengaruh
+Pengaruh keputusan investasi,
+keputusan pendanaan, dan
+kebijakan dividen terhadap nilai
+perusahaan.
+Simposium
+Nasional
+Akutansi
+26
+Purwokerto: 1-25.
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+

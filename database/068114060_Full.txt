@@ -1,0 +1,3933 @@
+VALIDASI METODE DAN PENETAPAN KADAR PARASETAMOL
+DALAM JELLY SECARA HIGH PERFORMANCE LIQUID
+CHROMATHOGRAPHY (HPLC) FASE TERBALIK
+MENGGUNAKAN TEKNIK PREPARASI PEMANASAN
+SKRIPSI
+Diajukan untuk Memenuhi Salah Satu Syarat
+Memperoleh Gelar Sarjana Farmasi (S. Farm.)
+Program Studi Ilmu Farmasi
+
+Oleh :
+Kristian Bayu Kuncoro
+NIM : 068114060
+
+FAKULTAS FARMASI
+UNIVERSITAS SANATA DHARMA
+YOGYAKARTA
+2010
+
+i
+
+VALIDASI METODE DAN PENETAPAN KADAR PARASETAMOL
+DALAM JELLY SECARA HIGH PERFORMANCE LIQUID
+CHROMATHOGRAPHY (HPLC) FASE TERBALIK
+MENGGUNAKAN TEKNIK PREPARASI PEMANASAN
+SKRIPSI
+Diajukan untuk Memenuhi Salah Satu Syarat
+Memperoleh Gelar Sarjana Farmasi (S. Farm.)
+Program Studi Ilmu Farmasi
+
+Oleh :
+Kristian Bayu Kuncoro
+NIM : 068114060
+
+FAKULTAS FARMASI
+UNIVERSITAS SANATA DHARMA
+YOGYAKARTA
+2010
+
+i
+
+ii
+
+VALIDASI METODE DAN PENETAPAN KADAR PARASETAMOL
+DALAM JELLY SECARA HIGH PERFORMANCE LIQUID
+CHROMATHOGRAPHY (HPLC) FASE TERBALIK
+MENGGUNAKAN TEKNIK PREPARASI PEMANASAN
+SKRIPSI
+Diajukan untuk Memenuhi Salah Satu Syarat
+Memperoleh Gelar Sarjana Farmasi (S. Farm.)
+Program Studi Ilmu Farmasi
+
+Oleh :
+Kristian Bayu Kuncoro
+NIM : 068114060
+
+FAKULTAS FARMASI
+UNIVERSITAS SANATA DHARMA
+YOGYAKARTA
+2010
+
+ii
+
+iii
+
+iii
+
+iv
+
+iv
+
+v
+
+SKRIPSI INI KUPERSEMBAHKAN UNTUK
+MAMAH PAPAH TERCINTA,
+
+yang sangat menyayangiku
+KAKAKKU,
+
+yang kuat dan bersemangat
+YASHINTA WIDYANIGTYAS,
+
+aku bersyukur bisa mengenalmu lebih
+DUNIA KESEHATAN INDONESIA,
+
+ayo bangkit.....!
+
+v
+
+vi
+
+vi
+
+vii
+
+PRAKATA
+
+Puji dan syukur penulis haturkan kepada Tuhan Yang Maha Kasih atas
+segala berkat dan karunia-Nya sehingga penulis dapat menyelesaikan skripsi yang
+berjudul “Validasi Metode dan Penetapan Kadar Parasetamol Dalam Jelly Secara
+High
+
+Performance
+
+Liquid
+
+Chromathography
+
+(HPLC)
+
+Fase
+
+Terbalik
+
+Menggunakan Teknik Preparasi Pemanasan” yang disusun sebagai salah satu
+syarat untuk mencapai gelar Sarjana Farmasi di Universitas Sanata Dharma
+Yogyakarta.
+Dalam penulisan skripsi ini, penulis mendapatkan bantuan dari banyak
+pihak. Pada kesempatan ini penulis ingin menyampaikan penghargaan dan ucapan
+terima kasih kepada :
+1.
+
+Rita Suhadi, M.Si., Apt. selaku Dekan Fakultas Farmasi Universitas Sanata
+Dharma atas ide awal penelitian yang berawal dari PKM, atas bimbingannya
+selama penulis melakukan proses pembelajaran di Fakultas Farmasi
+Universitas Sanata Dharma.
+
+2.
+
+Christine Patramurti, M.Si., Apt. selaku dosen pembimbing atas ide luar
+biasa mengenai penelitian, atas perhatian, dukungan, arahan, serta semangat
+yang diberikan kepada penulis baik selama penelitian maupun penyusunan
+skripsi ini.
+
+3.
+
+Rini Dwiastuti, M.Sc., Apt. selaku dosen penguji atas segala arahan,
+masukan, kritik, diskusi dan semangat yang diberikan kepada penulis.
+
+vii
+
+viii
+
+4.
+
+Dra. M. M. Yetty Tjandrawati, M.Si. selaku dosen penguji atas segala
+arahan, masukan, kritik, diskusi dan semangat yang diberikan kepada
+penulis.
+
+5.
+
+Mas Bimo, Pak Parlan, Mas Kunto, dan Pak Otok atas bantuannya selama
+peneliti bekerja di laboratorium Kimia Analisis Instrumental.
+
+6.
+
+Segenap dosen pengajar, staf sekretariatan serta laboran Fakultas Farmasi
+Universitas Sanata Dharma atas dukungan dan bantuannya dalam
+menyelesaikan skripsi ini.
+
+7.
+
+Kho Jimmy Iwan Tamara, selaku rekan kerja penulis sebelum penelitian,
+selama penelitian, dan penyusunan naskah skripsi atas kebersamaannya di
+saat susah dan gembira, kita jalani bersama.
+
+8.
+
+Seluruh staf dan karyawan Perpustakaan Universitas Sanata Dharma
+Yogyakarta (Kampus III Paingan) khususnya pak Totok yang sangat
+membantu penulis selama berada di perpustakaan. Dan terima kasih atas
+pelayanan serta fasilitas terbaik yang di berikan.
+
+9.
+
+Om Sigit, atas berbagi pengalaman berharganya selama bekerja di Industri
+Farmasi yang dapat memberikan semangat untuk menyelesaikan skripsi dan
+semangat untuk mencintai pekerjaan.
+
+10.
+
+Sahabat-sahabatku, Bernardus Tatag, Felicia Satya C, Lulu Lunggati atas
+proses pendewasaan, semangat, kasih sayang dan dukungan serta
+kebersamaan yang telah dilalui dalam suka dan duka bersama penulis.
+
+11.
+
+Teman-temanku, Aan, Dian, dan semua teman yang telah memberi semangat
+dan bantuan pada penulis.
+
+viii
+
+ix
+
+ix
+
+x
+
+x
+
+xi
+
+INTISARI
+
+Telah dilakukan validasi metode dan penetapan kadar parasetamol dalam
+jelly secara HPLC fase terbalik menggunakan teknik preparasi pemanasan dengan
+tujuan untuk mengetahui akurasi, presisi, spesifisitas, dan linearitas dari metode
+HPLC sehingga dapat digunakan untuk menetapkan kadar parasetamol dalam
+jelly.
+Penelitian ini merupakan penelitian non eksperimental dekriptif. Tahap
+pendahuluan dalam penelitian ini adalah pembuatan jelly parasetamol kemudian
+mengubah sistem jelly yang semi padat dan sangat viskos menjadi cair dengan
+menggunakan teknik pemanasan pada suhu 50ºC selama 30 menit. Selanjutnya,
+parasetamol di analisis secara kuantitatif dengan menggunkan metode HPLC fase
+terbalik dengan fase diam kolom packing Kromasil 100-5 C18 panjang kolom 25
+cm, internal diameter 4,6 mm, perbandingan fase gerak metanol:aquabides
+(90:10), kecepatan alir 1 ml/menit, dan detektor UV pada λ pengamatan 247,4 nm
+yang telah tervalidasi.
+Hasil penelitian menunjukkan nilai rata-rata % recovery 100,3991%, CV
+0,6654%, dan koefisien korelasi (r) 0,99905. Rata-rata kadar parasetamol dalam
+10 sampel adalah 111,1855 mg. Sehingga metode penetapan kadar parasetamol
+dalam jelly secara High Performance Liquid Chromatography (HPLC) fase
+terbalik menggunakan teknik preparasi pemanasan memiliki validitas yang baik
+dengan kadar parasetamol yang sesuai dengan persyaratan.
+Kata kunci : parasetamol, jelly, HPLC fase terbalik, pemanasan, parameter
+validitas
+
+xi
+
+xii
+
+ABSTRACT
+Has been perform validation method and determining the concentration
+of paracetamol in jelly by reversed phase HPLC uses heating preparation
+technique with aim to knowing the accuracy, precision, specificity, and linearity
+from HPLC method, finally can be used to determination the concentration of
+paracetamol in jelly
+This research is descriptive non experimental research. The preliminary
+stage in this research was making paracetamol jelly, and then change jelly system
+that semi solid and very viskos to be liquid with uses heating technique at 50ºC
+temperature during 30 minutes. Next, paracetamol be analyzed by quantitatife
+with uses reversed phase HPLC with stationery phase column packing Kromasil
+100-5 column’s length 25 cm, internal diameter 4,6 mm, the mobile phase
+comparison metanol:aquabidest (90:10), flow rate 1 ml/minute, and UV detector
+UV at λ observation 247,4 nm has been validated
+Result of research indicate % recovery average value 100,3991%, CV
+0,6654%, and coefficient of corelation (r) 0,99905. The average of paracetamol
+concentration in 10 sampels is 111,1855 mg. So, method of determining the
+concentration of paracetamol in jelly by High Performance Liquid
+Chromatography (HPLC) reversed phase fase uses heating preparation technique
+have good validity with parasetamol concentration that suitable with requirement.
+Keywords : paracetamol, jelly, reversed phase HPLC, heating, validation
+parameters
+
+xii
+
+xiii
+
+DAFTAR ISI
+
+HALAMAN SAMPUL .........................................................................................i
+HALAMAN JUDUL.............................................................................................ii
+HALAMAN PERSETUJUAN PEMBIMBING ...................................................iii
+HALAMAN PENGESAHAN...............................................................................iv
+HALAMAN PERSEMBAHAN ...........................................................................v
+HALAMAN PERSETUJUAN PUBLIKASI........................................................vi
+PRAKATA............................................................................................................vii
+PERNYATAAN KEASLIAN KARYA ...............................................................x
+INTISARI..............................................................................................................xi
+ABSTRAK ............................................................................................................xii
+DAFTAR ISI ........................................................................................................xiii
+DAFTAR TABEL ................................................................................................xix
+DAFTAR GAMBAR ............................................................................................xx
+DAFTAR LAMPIRAN....................................................................................... xxii
+BAB I. PENDAHULUAN ....................................................................................1
+A. Latar Belakang...............................................................................................1
+1. Perumusan Masalah ..................................................................................3
+2. Keaslian Penelitian....................................................................................3
+3. Manfaat Penelitian ....................................................................................3
+B. Tujuan Penelitian...........................................................................................4
+BAB II. TINJAUAN PUSTAKA..........................................................................5
+
+xiii
+
+xiv
+
+A. Parasetamol....................................................................................................5
+1. Stabilitas Suhu Parasetamol .....................................................................7
+2. Stabilitas pH Parasetamol ........................................................................7
+B. Bentuk Sediaan Gel………….. .....................................................................8
+1. Definisi dan Klasifikasi Gel .....................................................................8
+2. Mekanisme Pembentukan Gel secara umum ...........................................9
+3. Analisis Sediaan Gel dan Perusakan Sistem Gel .....................................10
+C. Jelly................................................................................................................10
+D. Senyawa Eksipien Penyusun Jelly.................................................................11
+E. Karagenin.......................................................................................................11
+1. Definisi dan sifat dasar karagenin ............................................................11
+2. Pembentukan gel dengan gelling agent karagenin...................................12
+3. Kelarutan ..................................................................................................14
+4. Stabilitas pH .............................................................................................15
+F. Bubuk Konnyaku...........................................................................................16
+G. Asam sitrat.....................................................................................................16
+H. Frukto oligosakarida ......................................................................................17
+I. Vitamin D ......................................................................................................18
+J. Kalsium..........................................................................................................18
+K. Pewarna makanan karmoisin CI 14720 .........................................................19
+L. Spektrofotometri Ultraviolet..........................................................................19
+M. High Performance Liquid Chromatography................................................22
+1. Kelebihan HPLC............. .........................................................................22
+
+xiv
+
+xv
+
+2. Komponen-komponen HPLC...................................................................23
+a. Pompa (Pump).......................................................................................23
+b. Injektor (Injector)..................................................................................23
+c. Kolom (Column) ...................................................................................24
+d. Detektor (Detector) ...............................................................................25
+3. Kromatografi Partisi Fase Balik...............................................................25
+a. Kolom....................................................................................................26
+b. Fase gerak .............................................................................................26
+4. Injeksi sampel...........................................................................................27
+5. Waktu retensi ...........................................................................................27
+6. Profil puncak dan Pelebaran puncak ........................................................28
+a. Penyebab pertama : Difusi Eddy...........................................................28
+b. Penyebab kedua : Distribusi aliran........................................................29
+c. Penyebab ketiga : Difusi molekul sampel dalam fase gerak.................30
+d. Penyebab keempat :Perpindahan massa antara fase gerak, fase gerak
+yang stagnan, dan fase diam ..................................................................31
+7. Persamaan Van Deemter ..........................................................................32
+8. Faktor-faktor yang digunakan untuk evaluasi kinerja kolom ..................34
+a. Efisiensi kolom .....................................................................................34
+b. Faktor asimetri (faktor pengekoran)......................................................36
+N. Validitas Metode Analisis Instrumental.......................................................37
+1. Akurasi .....................................................................................................37
+2. Presisi .......................................................................................................38
+
+xv
+
+xvi
+
+3. Linieritas dan rentang...............................................................................39
+4. Spesifisitas ...............................................................................................39
+O. Landasan Teori.............................................................................................41
+P. Hipotesis.......................................................................................................42
+BAB III. METODE PENELITIAN ......................................................................43
+A. Jenis dan Rancangan Penelitian.....................................................................43
+B. Variabel dan Definisi Operasional ................................................................43
+1. Klasifikasi Variabel..................................................................................43
+2. Definisi Operasional ................................................................................43
+C. Bahan Penelitian ............................................................................................44
+D. Alat Penelitian ...............................................................................................44
+E. Tata Cara Penelitian.......................................................................................45
+1. Pembuatan fase gerak...............................................................................45
+2. Pembuatan larutan baku parasetamol.......................................................45
+3. Penetapan λ maksimum parasetamol .......................................................45
+4. Pembuatan kurva baku dan penentuan waktu retensi parasetamol ..........46
+5. Validasi metode analisis...........................................................................46
+6. Penetapan kadar sampel ...........................................................................47
+a. Pembuatan larutan jelly tanpa parasetamol...........................................47
+b. Pembuatan dan penyiapan sampel jelly parasetamol ............................47
+c. Destruksi jelly .......................................................................................48
+F. Analisis hasil..................................................................................................49
+1. Validasi metode........................................................................................49
+
+xvi
+
+xvii
+
+a. Akurasi ..................................................................................................49
+b. Presisi ....................................................................................................49
+c. Linearitas ...............................................................................................49
+d. Spesifisitas ............................................................................................49
+2. Analisis kuantitatif ......................................................................................50
+BAB IV. HASIL DAN PEMBAHASAN .............................................................51
+A. Penyiapan Fase Gerak ...................................................................................51
+B. Optimasi Metode HPLC ................................................................................53
+1. Penentuan panjang gelombang serapan maksimum menggunakan
+spektrofotometer ultraviolet ......................................................................53
+2. Pengamatan waktu retensi dan pembuatan kurva baku parasetamol..........57
+C. Analisis Validasi Metode...............................................................................63
+1. Akurasi ......................................................................................................65
+2. Presisi ........................................................................................................66
+3. Spesifisitas ................................................................................................67
+4. Linieritas ...................................................................................................71
+5. Range ........................................................................................................71
+D. Penetapan Kadar Parasetamol dalam Campuran ...........................................72
+1. Pembuatan jelly parasetamol.....................................................................72
+2. Penyiapan Sampel .....................................................................................72
+3. Destruksi sampel dan isolasi analit dari sampel........................................73
+BAB V. KESIMPULAN DAN SARAN...............................................................78
+A. Kesimpulan....................................................................................................78
+
+xvii
+
+xviii
+
+B. Saran ..............................................................................................................78
+DAFTAR PUSTAKA ...........................................................................................79
+LAMPIRAN..........................................................................................................83
+BIOGRAFI PENULIS ........................................................................................ 121
+
+xviii
+
+xix
+
+DAFTAR TABEL
+
+Tabel I. Senyawa eksipien penyusun jelly ............................................................11
+Tabel II. Daya kelarutan karaginan pada berbagai media pelarut.........................15
+Tabel III. Stabilitas karaginan dalam berbagai media pelarut...............................16
+Tabel IV. Kriteria rentang recovery yang dapat diterima (Harmita, 2004) ..........38
+Tabel V. Kriteria KV yang dapat diterima ...........................................................38
+Tabel VI. Parameter analitik .................................................................................40
+Tabel VII. Data Kurva Baku Parasetamol.............................................................62
+Tabel VIII. Data Validasi Metode Analisis...........................................................65
+Tabel IX. Data % recovery....................................................................................66
+Tabel X. Data CV..................................................................................................67
+Tabel XI. Perbandingan pengamatan waktu retensi seri larutan baku parasetamol
+dengan sampel........................................................................................68
+Tabel XII. Hasil pengukuran kadar parasetamol...................................................76
+
+xix
+
+xx
+
+DAFTAR GAMBAR
+
+Gambar 1. Struktur kimia parasetamol .................................................................5
+Gambar 2. Reaksi hidrolisis parasetamol..............................................................7
+Gambar 3. Struktur kimia kappa karaginan .........................................................12
+Gambar 4. Mekanisme pembentukan gel karaginan .............................................13
+Gambar 5. Struktur kimia asam sitrat ...................................................................17
+Gambar 6. Struktur kimia vitamin D.....................................................................18
+Gambar 7. Struktur kimia karmoisin.....................................................................19
+Gambar 8. Diagram blok HPLC............................................................................23
+Gambar 9. Difusi Eddy dalam kromatografi kolom..............................................29
+Gambar 10. Difusi distribusi aliran dalam kromatografi ......................................30
+Gambar 11. Pelebaran pita oleh difusi longitudinal..............................................30
+Gambar 12. Struktur pori molekul fase diam........................................................31
+Gambar 13. Perpindahan massa antara fase diam dan fase gerak.........................32
+Gambar 14. Kurva Van Deemter ..........................................................................32
+Gambar 15. Cara mengukur tR, σt, Wh/2, Wb suatu puncak kromatogram...............35
+Gambar 16. Menghitung besarnya TF pada kromatogram ...................................36
+Gambar 17. Gugus kromofor parasetamol ............................................................54
+Gambar 18. Gugus auksokrom parasetamol .........................................................54
+Gambar 19. Spektrum serapan parasetamol (λmaks = 247,2 nm) pada konsentrasi
+5,0 ppm replikasi 1..............................................................................55
+
+xx
+
+xxi
+
+Gambar 20. Spektrum serapan parasetamol (λmaks = 247,2 nm) pada konsentrasi
+5,0 ppm replikasi 2..............................................................................55
+Gambar 21. Kromatogram tR larutan baku parasetamol 5,0 ppm .........................58
+Gambar 22. Gugus non polar pada parasetamol ...................................................59
+Gambar 23. Interaksi antara gugus non polar dari parasetamol (benzen) dengan
+fase diam Oktadekil (C18)....................................................................59
+Gambar 24. Interaksi antara gugus parasetamol dengan fase gerak campuran
+metanol:air (90:10) .............................................................................60
+Gambar 25. Kurva Baku Parasetamol C vs AUC .................................................63
+Gambar 26. tR seri baku parasetamol konsentrasi 8,0 ppm = 2,525 menit ...........69
+Gambar 27. tR sampel replikasi 6 dengan konsetrasi 7,4587 ppm = 2,542
+menit....................................................................................................69
+Gambar 28. Kromatogram sampel replikasi 6 dengan konsetrasi 7,4587 ppm ....70
+Gambar 29. Kromatogram sampel tanpa analit parasetamol ................................70
+Gambar 30. Mekanisme destruksi gelling agent dengan pemanasan....................75
+
+xxi
+
+xxii
+
+DAFTAR LAMPIRAN
+
+Lampiran 1. Sertifikat Analisis Parasetamol.........................................................84
+Lampiran 2. Kemasan jelly (Nutrijel) ...................................................................85
+Lampiran 3. Data Penimbangan Baku Parasetamol..............................................86
+Lampiran 4. Skema Pembuatan larutan baku Parasetamol dan contoh perhitungan
+kadar larutan baku yang digunakan..................................................87
+Lampiran 5. Kromatogram Larutan Baku Parasetamol ........................................89
+Lampiran 6. Data Penentuan Kurva Baku Parasetamol ........................................95
+Lampiran 7. Data Validasi Metode .......................................................................96
+Lampiran 8. Kromatogram Validasi Metode ........................................................97
+Lampiran 9. Data Penimbangan Sampel Parasetamol ........................................ 106
+Lampiran 10. Skema Pembuatan sampel dan contoh perhitungan kadar
+parasetamol .................................................................................... 107
+Lampiran 11. Data AUC, Kadar parasetamol, % recover, dan CV sampel........ 110
+Lampiran 12. Kromatogram sampel ................................................................... 111
+
+xxii
+
+1
+
+BAB I
+PENDAHULUAN
+
+A. Latar Belakang
+Penelitian ini merupakan satu rangkaian pengembangan penelitian dari
+Widyaningtyas dkk (2008) mengenai “Formulasi dan Penetapan Kadar Sediaan
+Parasetamol Dalam Bentuk Jelly untuk meningkatkan Kepatuhan Anak Minum
+Obat”. Dalam penelitian ini penulis lebih menekankan pada validasi metode dan
+penetapkan kadar parasetamol tiap kemasan jellynya.
+Farmasis sebagai bagian health care team harus selalu meningkatkan
+kemampuannya tidak hanya dalam hal menjamin penyediaan dan pemberian
+informasi obat yang berkualitas, tetapi juga berupaya untuk menginovasi bentuk
+sediaan obat yang praktis, nyaman, manjur dan aman sehingga sediaan obat dapat
+diterima oleh pasien, khususnya anak-anak dengan rasa dan bau yang lebih sedap,
+bentuk yang lebih menarik, maupun bentuk sediaan yang dapat dikombinasikan
+dengan makanan dapat digunakan untuk mengurangi kejadian ”gagal menerima
+obat oleh pasien atau yang disebut failure to receive drug”. Salah satu bentuk
+sediaan obat semi solid yaitu jelly dapat dikembangkan sebagai obat analgesik
+antipiretik dengan parasetamol sebagai zat aktif di dalamnya (Handajani, 2006).
+Jelly merupakan sistem semipadat terdiri dari suspensi yang dibuat dari
+partikel anorganik yang kecil atau molekul organik yang besar terpenetrasi oleh
+suatu cairan (Anonim, 1995).
+
+1
+
+2
+
+Pada proses pembuatan jelly dan pencampuran obat ke dalam jelly
+dengan proses pemanasan di khawatirkan dapat mengakibatkan perubahan sifat
+fisika, kimia, dan klinis dari zat aktifnya, yaitu parasetamol. Sifat fisika yang
+dapat berubah yaitu stabilitas sediaan, sedangkan perubahan sifat kimia dapat
+diketahui dengan melakukan pengujian kadar zat aktif yang terdapat dalam
+sediaan racikan tersebut. Dari penelitian Novianti P (2004) dan Arisandi W.S.,
+(2008) mengenai pengaruh suhu dan pH terhadap kadar parasetamol dalam
+sediaan yang mengandung parasetamol, mengemukakan bahwa suhu dan pH
+mempengaruhi kadar parasetamol meskipun tidak berbeda secara signifikan.
+Karena adanya pengaruh suhu yang tinggi yaitu 60ºC, di khawatirkan dapat
+mendegradasi zat aktif sehingga kadar parasetamol yang ada di dalam sediaan
+dapat berkurang.
+Perlu dilakukan validasi metode dan penetapan kadar parasetamol di
+dalam jelly dengan tujuan untuk mengetahui apakah metode penetapan kadar
+parasetamol memiliki validitas yang baik, serta untuk menentukan kadar
+parasetamol dalam jelly menggunakan metode HPLC fase terbalik dengan teknik
+preparasi pemanasan yang mempunyai sensitifitas yang tinggi dan untuk
+menjamin keseragaman dosis, serta sebagai upaya pengawasan kualitas dan mutu
+terhadap sediaan jelly yang diuji sehubungan dengan keamanan dan khasiatnya
+(Tanu, 1985).
+
+3
+
+1. Perumusan Masalah :
+Berdasarkan latar belakang di atas, maka dapat disusun permasalahan
+sebagai berikut:
+a. Apakah metode HPLC fase terbalik menggunakan teknik preparasi pemanasan
+mempunyai validitas yang baik untuk menetapkan kadar parasetamol dalam
+jelly yang didasarkan pada parameter akurasi, presisi, sensitivitas, dan
+linearitas?
+b. Berapakah kadar parasetamol dalam jelly, dan apakah kadar parasetamol
+tersebut sesuai dengan kadar penggunaan untuk anak yaitu 120mg/kemasan
+jelly?
+
+2. Keaslian Penelitian
+Sejauh penelusuran pustaka penulis, penelitian tentang validasi
+penetapan kadar parasetamol menggunakan metode HPLC fase terbalik telah
+banyak dilakukan. Tetapi validasi metode dan penetapan kadar parasetamol dalam
+jelly secara High Performance Liquid Chromatograph (HPLC) dengan
+menggunakan teknik preparasi pemanasan belum pernah dilakukan sebelumnya.
+
+3. Manfaat Penelitian
+Hasil Penelitian ini nantinya diharapkan mempunyai manfaat sebagai
+berikut :
+
+4
+
+a. Manfaat Teoritis
+Penelitian
+
+ini
+
+diharapkan
+
+dapat
+
+memberikan
+
+informasi
+
+bahwa
+
+parasetamol dapat di campurkan dalam jelly sebagai alternatif bentuk sediaan
+yang sesuai dan nyaman bagi anak, dan untuk membuktikan bahwa kadar
+parasetamol tidak mengalami perubahan selama berada dalam jelly.
+b. Manfaat Metodologis.
+Penelitian ini diharapkan dapat memberikan informasi bahwa metode
+HPLC fase terbalik dengan teknik preparasi pemanasan dapat digunakan untuk
+menetapkan kadar parasetamol dalam jelly dengan validitas yang memenuhi
+persyaratan.
+c. Manfaat Praktis.
+Penelitian ini diharapkan dapat memberikan informasi mengenai kualitas
+jelly parasetamol dan perkembangan bentuk sediaan lain yang cocok dan nyaman
+bagi anak-anak.
+
+B. Tujuan Penelitian
+1. Untuk memberikan informasi bahwa metode HPLC fase terbalik dengan teknik
+preparasi pemanasan dapat digunakan untuk penetapan kadar parasetamol
+dalam jelly dengan validitas metode yang baik
+2. Untuk mengetahui secara kuantitatif kadar parasetamol dalam jelly
+
+5
+
+BAB II
+TINJAUAN PUSTAKA
+
+A. Parasetamol
+Parasetamol atau 4’-hidroksiasetanilida dengan bobot molekul 151,16
+mengandung tidak kurang dari 98,0 % dan tidak lebih dari 101,0 % C8H9NO2,
+dihitung terhadap zat anhidrat. Pemerian serbuk hablur putih, tidak berbau, rasa
+sedikit pahit, kelarutan : larut dalam air mendidih dan dalam natrium hidroksida 1
+N, mudah larut dalam etanol (Anonim, 1995). Struktur kimia dari parasetamol
+dapat dilihat pada gambar 1.
+
+Gambar 1. Struktur kimia parasetamol
+
+Parasetamol memiliki jarak lebur 169oC-172oC. Kelarutannya adalah 1
+gram dapat larut kira-kira 70 ml air pada suhu 25oC, 1 g larut dalam 20 ml air
+mendidih, dalam 70 ml alkohol, dalam 13 ml aseton, dalam 50 ml kloroform,
+dalam 40 ml gliserin dan dalam 9 ml propilenglikol. Tidak larut dalam benzen dan
+eter dan larut dalam alkali hidroksida. Larutan jenuh mempunyai pH kira-kira 6
+dan pKa 9,51 (Connors,et al.,1986).
+Serapan maksimum parasetamol pada daerah ultraviolet di larutan asam
+adalah 254 nm (A 1%, 1cm = 668) dan dalam larutan basa adalah 257 nm (A 1%,
+1cm = 715) (Clarke, 1986). A 1%, 1cm atau serapan jenis adalah serapan dari
+
+5
+
+6
+
+larutan 1 % zat terlarut dalam sel dengan ketebalan 1 cm (Anonim, 1995). Serapan
+parasetamol pada panjang gelombang maksimum lebih kurang 244 nm, terhadap
+air sebagai blangko (Anonim, 1995).
+Parasetamol merupakan metabolit fenasetin dengan efek antipiretik yang
+telah digunakan sejak tahun 1893. Efek antipiretik ditimbulkan oleh gugus
+aminobenzen. Parasetamol juga digunakan sebagai analgesik. Namun penggunaan
+parasetamol untuk meredakan demam (antipiretik) tidak seluas penggunaannya
+sebagai analgesik. Efek analgesik dari parasetamol yaitu meredakan rasa nyeri
+ringan hingga sedang (Wilmana, 1995).
+Dosis untuk nyeri dan demam oral 2-3 dd 0,5-1 g, maksimal 4 g/hari,
+pada penggunaan kronis maksimal 2,5 g/hari. Anak-anak: 4-6 dd 10 mg/kg, yakni
+rata-rata usia 3-12 bulan 60 mg, 1-4 tahun 120-180 mg, 4-6 tahun 180 mg, 7-12
+tahun 240-360 mg, 4-6 kali sehari. Dosis rektal 20mg/ kg setiap kali, dewasa 4 dd
+0,5-1 g, anak-anak usia 3-12 bulan 2-3 dd 120 mg, 1-4 tahun 2-3 dd 240 mg, 4-6
+tahun 4 dd 240 mg dan 7-12 tahun 2-3 dd 0,5 g (Rahardja, 2007).
+Senyawa yang mengandung gugus amida dapat mengalami hidrolisis
+dengan cara yang serupa dengan senyawa jenis ester. Pengganti asam dan alkohol
+yang terbentuk pada hidrolisis ester, pemecahan hidrolisis amida menghasilkan
+asam dan amida. Langkah penentu laju reaksi pada reaksi yang terkatalisis ion
+hidroksida adalah serangan nukleofilik oleh ion hidroksida. Mekanisme hidrolisis
+asam pada amida memerlukan substituen yang efek polarnya lemah, tetapi efek
+steriknya kuat jika letaknya sesuai (Lachman,et al., 1986).
+
+7
+
+Jalur utama degradasi yang menyebabkan asetaminofen tidak stabil
+adalah peristiwa hidrolisis yang memecah parasetamol menjadi p-aminofenol dan
+asam asetat (Connors,et al.,1986). Reaksi hidrolisis parasetamol dapat dilihat pada
+gambar 2.
+
+Gambar 2. Reaksi hidrolisis parasetamol
+
+1. Stabilitas Suhu Parasetamol
+Stabilitas suatu obat perlu di uji untuk mengetahui apakah suatu obat
+masih layak untuk dikonsumsi atau tidak. Stabilitas obat tergantung dari beberapa
+faktor, antara lain temperatur. Semua obat pada dasarnya akan rusak apabila
+disimpan dalam temperatur yang tinggi. Semakin naik suhu penyimpanan maka
+waktu paruh (t1/2) dan waktu kadaluwarsa (t90) semakin kecil. Dengan demikian
+menyatakan bahwa dengan semakin naiknya suhu penyimpanan, parasetamol akan
+mengalamani degradasi sehingga kadarnya berkurang (Novianti, 2004).
+2. Stabilitas pH Parasetamol
+Parasetamol merupakan obat golongan analgetik antipiretik yang saat ini
+banyak digunakan sehingga perlu dibuat suatu formula yang stabil untuk sediaan
+sirup yang mendekati pH optimumnya. Parasetamol dalam bentuk cair dapat
+
+8
+
+terdegradasi melalui peristiwa hidrolisis, sehingga perlu dirancang suatu sediaan
+parasetamol agar mendekati pH optimumnya (Arisandi, 2008).
+
+B. Bentuk Sediaan Gel
+1. Definisi dan klasifikasi Gel
+Gel merupakan sistem semipadat terdiri dari suspensi yang dibuat dari
+partikel anorganik yang kecil atau molekul organik yang besar terpenetrasi oleh
+suatu cairan (Anonim, 1995). Barry (1983) mendefinisikan gel sebagai sistem dua
+komponen dari sediaan semipadat yang kaya akan cairan. Pada gel yang polar,
+polimer alam atau sintetik yang digunakan pada konsentrasi rendah (biasanya di
+bawah 10%) membentuk matriks tiga dimensi melalui cairan hidrofilik. Sistem
+yang terbentuk mungkin jernih ataupun keruh, karena gelling agent yang
+digunakan tidak terlarut sempurna atau terbentuknya agregat (Barry, 1983).
+Secara umum, ada dua sistem klasifikasi gel. Klasifikasi pertama
+membagi gel berdasarkan gelling agent-nya, yaitu (i) inorganik yang merupakan
+sistem dua fase, (ii) organik yang merupakan sistem satu fase. Klasifikasi kedua
+membagi gel berdasarkan solvennya yaitu (i) hidrogel (inorganik, gum alam dan
+sintetik, serta organik), (ii) organogel (tipe hidrokarbon, lemak minyak atau
+hewan, organogel hidrofilik) ( Allen, 2002 ).
+Hidrogel dideskripsikan sebagai sistem dua komponen yaitu (i) substansi
+polimer hidrofilik tetapi tidak larut air, merupakan polimer jaringan 3 dimensi,
+dan (ii) air (Zatz dan Kushla,1996). Menurut Buchmann (2001), hidrogel adalah
+sistem hidrofilik yang utamanya terdiri dari 85-95% air atau campuran aqueous-
+
+9
+
+alcoholic dan gelling agent. Polimer organik yang biasa digunakan adalah asam
+poliakrilat (carbopol), natrium karboksimetilselulosa, atau selulosa non ionik
+lainnya.
+Hidrogel akan memberikan efek mendinginkan karena evaporasi pelarut.
+Hidrogel mudah diaplikasikan dan memberi kelembaban secara instan tetapi pada
+penggunaan jangka panjang akan membuat kulit kering. Dengan demikian,
+diperlukan humectant seperti gliserol (Buchmann, 2001). Salah satu alasan
+penggunaan hidrogel adalah pelarut yang digunakan dalam pembuatan obat
+mempunyai kompatibilitas yang baik terhadap jaringan biologis tubuh (Zatz dan
+Kushla, 1996).
+Dispersi hidrolipid merupakan tipe khusus dari emulsi yang merupakan
+sistem dispersi dari fase dispers lipofilik medium dispers hidrofilik. Konsentrasi
+lipid berkisar antara 2-20%. Pada prinsipnya, dispersi hidrolipid merupakan
+sistem termodinamik yang tidak stabil sehingga dibutuhkan polimer yang dapat
+menstabilkan koloid liofilik dalam medium berair. Ukuran droplet minyak yang
+terdispersi berkisar antara 20-50 µm (Buchmann, 2001).
+2. Mekanisme Pembentukan Gel secara umum
+Konsistensi gel disebabkan oleh gelling agent, biasanya polimer dengan
+membentuk matriks tiga dimensi. Gaya intermolekuler akan mengikat molekul
+solven pada matriks polimer sehingga mobilitas solven berkurang yang
+menghasilkan sistem tertentu dengan peningkatan viskositas (Buchmann, 2001).
+
+10
+
+3. Analisis Sediaan Gel dan Perusakan Sistem Gel
+Gel tersusun atas sejumlah kecil komponen padatan yang terdispersi
+dalam sejumlah besar cairan. Komponen padat dari gel membentuk jaringan tiga
+dimensi yang membentuk rigiditas gel. Oleh sebab itu, meskipun sebagian besar
+komponennya berupa cairan, gel memiliki kemampuan untuk mempertahankan
+bentuknya dengan pemberian sedikit tekanan. Padatan yang lazim digunakan
+dalam gel adalah polimer meskipun beberapa gel tersusun atas padatan inorganik.
+Contoh polimer yang biasa digunakan sebagai gelling agent antara lain carbomer,
+poloxamer, CMC-Na. Hidroxy Propyl Methyl Cellulose (HPMC), dan karaginan
+(Swarbick and Boylan, 1992).
+Untuk memperoleh analit, yang merupakan komponen gel, system
+disperse dari gel perlu dipisahkan terlebih dahulu. Salah satu cara untuk merusak
+sistem gel adalah dengan cara pendidihan. Kenaikan suhu pada sistem
+menyebabkan jumlah tumbukan antara partikel-partikel solid dengan molekulmolekul air bertambah banyak. Menyebabkan lepasnya elekrolit yang teradsorpsi
+pada permukaan koloid (Sugianto, 2006).
+
+C. Jelly
+Jelly merupakan bahan pangan setengah padat yang terdiri dari suspensi
+yang dibuat dari partikel anorganik yang kecil atau molekul organik yang besar
+terpenetrasi oleh suatu cairan di aplikasikan secara oral dimana jelly mempunyai
+tekstur kenyal, bentuk menarik dan beraneka ragam, warnanya mencolok, serta
+
+11
+
+beraroma buah-buahan. Sifat dasar dari makanan ini rendah lemak dan tinggi serat
+(Kusumawardini, 2006).
+
+D. Senyawa Eksipien Penyusun Jelly
+Tabel I. Senyawa Eksipien Penyusun Jelly
+Karagenin
+Bubuk konnyaku
+Asam sitrat
+Frukto oligosakarida
+Vitamin D
+Kalsium
+Pewarna makanan karmoisin CI 14720
+E. Karagenin
+1. Definisi dan sifat dasar karagenin
+Karagenin atau disebut juga karagenan merupakan suatu istilah untuk
+polisakarida yang diperoleh melalui ekstraksi alkali (dan modifikasi) dari alga
+merah (Rhodophyceae) kebanyakan berasal dari genus Chondrus, Euchema,
+Gigartina, dan Iridaea. Rumput laut yang berbeda menghasilkan karagenan yang
+berbeda pula (Chaplin, 2007).
+Karagenan dibuat dari rumput laut yang dikeringkan, rumput laut diayak
+untuk menghilangkan kotoran-kotoran seperti pasir dan kemudian dicuci. Setelah
+melalui perlakuan dengan larutan basa panas (contohnya 5-8% kalium
+hidroksida), selulosanya dihilangkan dari karagenan dengan menggunakan proses
+sentrifugasi dan filtrasi. Larutan karagenan yang didapat dipekatkan melalui
+evaporasi, kemudian dikeringkan dan dipisahkan lagi menurut spesifikasinya
+(Raton and Smooley, 1993).
+
+12
+
+Karagenan dijual dalam bentuk bubuk, warnanya bervariasi dari putih
+sampai kecoklatan bergantung dari bahan mentah dan proses yang digunakan.
+Ukuran karagenan umumnya sebesar 60 mesh. Karagenan tidak dapat larut dalam
+pelarut organik seperti alkohol, eter dan minyak. Kelarutan dalam air bergantung
+pada struktur karagenan, media, dan suhu. Umumya, gel karagenan harus
+dipanaskan sementara non-gel karagenan dapat larut dalam air dingin (Kelco,
+2007).
+Sifat dasar karaginan terdiri dari tiga tipe karaginan yaitu kappa, iota dan
+lambda karaginan. Tipe karaginan yang paling banyak dalam aplikasi pangan
+adalah kappa karaginan. Sifat-sifat karaginan meliputi kelarutan, viskositas,
+pembentukan gel dan stabilitas pH (Towle, 1973). Berikut struktur kimia kappa
+karaginan dapat dilihat pada Gambar 3
+
+Gambar 3. Struktur kimia kappa karaginan
+
+2. Pembentukan gel dengan gelling agent karagenin
+Menurut Fardiaz (1989), pembentukan gel adalah suatu fenomena
+penggabungan atau pengikatan silang rantai-rantai polimer sehingga terbentuk
+suatu jala tiga dimensi bersambungan. Selanjutnya jala ini menangkap atau
+mengimobilisasikan air di dalamnya dan membentuk struktur yang kuat dan kaku.
+
+13
+
+Sifat pembentukan gel ini beragam dari satu jenis hidrokoloid ke jenis lain,
+tergantung pada jenisnya. Gel mempunyai sifat seperti padatan, khususnya sifat
+elastis dan kekakuan.
+Kappa-karaginan dan iota-karaginan merupakan fraksi yang mampu
+membentuk gel dalam air dan bersifat reversible yaitu meleleh jika dipanaskan
+dan membentuk gel kembali jika di dinginkan. Proses pemanasan dengan suhu
+yang lebih tinggi dari suhu pembentukan gel akan mengakibatkan polimer
+karaginan dalam larutan menjadi random coil (acak). Bila suhu diturunkan, maka
+polimer akan membentuk struktur double helix (pilinan ganda) dan apabila
+penurunan suhu terus dilanjutkan polimer-polimer ini akan terikat silang secara
+kuat dan dengan makin bertambahnya bentuk heliks akan terbentuk agregat yang
+bertanggung jawab terhadap terbentuknya gel yang kuat (Glicksman, 1969). Jika
+diteruskan, ada kemungkinan proses pembentukan agregat terus terjadi dan gel
+akan mengerut sambil melepaskan air. Proses terakhir ini disebut sineresis
+(Fardiaz 1989). Mekanisme pembentukan gel karaginan dapat dilihat pada
+Gambar 4.
+
+Gambar 4. Mekanisme pembentukan gel karaginan
+
+14
+
+Kemampuan pembentukan gel pada kappa dan iota karaginan terjadi
+pada saat larutan panas yang dibiarkan menjadi dingin karena mengandung gugus
+3,6-anhidrogalaktosa. Adanya perbedaan jumlah, tipe dan posisi gugus sulfat akan
+mempengaruhi proses pembentukan gel. Kappa karaginan dan iota karaginan akan
+membentuk gel hanya dengan adanya kation-kation tertentu seperti K+, Rb+ dan
+Cs+. Kappa karaginan sensitif terhadap ion kalium dan membentuk gel kuat
+dengan adanya garam kalium, sedangkan iota karaginan akan membentuk gel
+yang kuat dan stabil bila ada ion Ca2+, akan tetapi lambda karaginan tidak dapat
+membentuk gel (Glicksman, 1983). Potensi membentuk gel dan viskositas larutan
+karaginan akan menurun dengan menurunnya pH, karena ion H+ membantu proses
+hidrolisis ikatan glikosidik pada molekul karaginan (Angka dan Suhartono, 2000).
+3. Kelarutan
+
+Kelarutan karaginan dalam air dipengaruhi oleh beberapa faktor di
+antaranya tipe karaginan, temperatur, pH, kehadiran jenis ion tandingan dan zatzat terlarut lainnya. Gugus hidroksil dan sulfat pada karaginan bersifat hidrofilik
+sedangkan gugus 3,6-anhidro-D-galaktosa lebih hidrofobik. Lambda karaginan
+mudah larut pada semua kondisi karena tanpa unit 3,6-anhidro-D-galaktosa dan
+mengandung gugus sulfat yang tinggi. Karaginan jenis iota bersifat lebih
+hidrofilik karena adanya gugus 2-sulfat dapat menetralkan 3,6-anhidro-Dgalaktosa yang kurang hidrofilik. Karaginan jenis kappa kurang hidrofilik karena
+lebih banyak memiliki gugus 3,6-anhidro-D-galaktosa (Towle 1983; cPKelco ApS
+2004). Daya kelarutan karaginan pada berbagai media dapat dilihat pada Tabel II.
+
+15
+
+Tabel II. Daya Kelarutan karaginan pada berbagai media pelarut
+Sifat-sifat
+
+Kappa
+
+Iota
+
+Lambda
+
+Air panas
+
+Larut suhu > 60ºC
+
+Larut suhu > 60ºC
+
+Larut
+
+Air dingin
+
+Larut Na
+
+Larut Na
+
+Larut garam
+
+Susu panas
+
+Larut
+
+Larut
+
+Larut
+
+Susu dingin
+
+Kental
+
+Kental
+
+Lebih Kental
+
+Larutan gula
+
+Larut
+
+Susah larut
+
+Larut (panas)
+
+Larutan garam
+
+Tidak larut
+
+Tidak larut
+
+Larut (panas)
+
+Larutan organic
+
+Tidak larut
+
+Tidak larut
+
+Tidak larut
+
+4. Stabilitas pH
+Karaginan dalam larutan memiliki stabilitas maksimum pada pH 9 dan
+akan terhidrolisis pada pH dibawah 3,5. Pada pH 6 atau lebih umumnya larutan
+karaginan dapat mempertahankan kondisi proses produksi karaginan (cPKelco
+ApS, 2004). Hidrolisis asam akan terjadi jika karaginan berada dalam bentuk
+larutan, hidrolisis akan meningkat sesuai dengan peningkatan suhu. Larutan
+karaginan akan menurun viskositasnya jika pHnya diturunkan dibawah 4,3
+(Imeson, 2003).
+Kappa dan iota karaginan dapat digunakan sebagai pembentuk gel pada
+pH rendah, tetapi tidak mudah terhidrolisis sehingga tidak dapat digunakan dalam
+pengolahan pangan. Penurunan pH menyebabkan terjadinya hidrolisis dari ikatan
+glikosidik yang mengakibatkan kehilangan viskositas. Hidrolisis dipengaruhi oleh
+pH, temperatur dan waktu. Hidrolisis dipercepat oleh panas pada pH rendah
+(Moirano 1977). Stabilitas karaginan dalam berbagai media pelarut dapat dilihat
+pada Tabel III.
+
+16
+
+Tabel III. Stabilitas karaginan dalam berbagai media pelarut
+Stabilitas
+
+Kappa
+
+Iota
+
+Lamda
+
+pH netral
+dan alkali
+
+Stabil
+
+Stabil
+
+Stabil
+
+Terhidrolisis jika
+dipanaskan. Stabil
+dalam bentuk gel
+
+Terhidrolisis
+
+Ph asam
+
+Terhidrolisis jika
+dipanaskan. Stabil
+dalam bentuk gel
+
+(Glicksman, 1983)
+F. Bubuk konnyaku
+Konnyaku berbahan dasar alami dari umbi tanaman konjac yaitu konyaku
+potato dan calcium hydroxide atau oxide calcium yang diekstrak dari kulit telur
+(Evimeinar, 2006). Konnyaku merupakan makanan alami yang terdiri dari 97%
+air dan 3% glukomanan, yaitu serat makanan. Konnyaku juga kaya akan mineral
+dan rendah kalori serta tidak mengandung lemak. Konnyaku tidak dapat tercerna
+oleh sistem pencernaan (Anonim, 2009).
+
+G. Asam sitrat
+Merupakan senyawa intermedier dari asam organik yang berbentuk
+kristal atau serbuk putih. Asam sitrat ini mudah larut dalam air, spriritus, dan
+etanol, tidak berbau, rasanya sangat asam, serta jika dipanaskan akan meleleh,
+kemudian terurai yang selanjutnya terbakar sampai menjadi arang. Asam sitrat
+juga terdapat dalam sari buah-buahan seperti nanas, jeruk, lemon, markisa. Asam
+ini dipakai untuk meningkatkan rasa asam (mengatur tingkat keasaman) pada
+berbagai pengolahan minum, produk air susu, selai, jeli, dan lain-lain. Asam sitrat
+berfungsi sebagai pengawet pada keju dan sirup, digunakan untuk mencegah
+
+17
+
+proses kristalisasi dalam madu, gula-gula (termasuk fondant), dan juga untuk
+mencegah pemucatan berbagai makanan, misalnya buah-buahan kaleng dan ikan.
+Larutan asam sitrat yang encer dapat digunakan untuk mencegah pembentukan
+bintik-bintik hitam pada udang. Penggunaan maksimum dalam minuman adalah
+sebesar 3 gram/liter sari buah (Anonim, 2007).
+Pemerian : hablur bening, tidak berwarna atau serbuk hablur granul
+sampai halus, putih tidak berbau, rasa sangat asam. Bentuk hidrat mekar dalam
+udara kering.
+Kelarutan : sangat mudah larut dalam air, mudah larut dalam etanol, agak
+sukar larut dalam eter (Anonim,1995). Struktur kimia dari asam sitrat dapat dilihat
+pada gambar 5.
+
+Gambar 5. Struktur kimia asam sitrat
+
+H. Frukto oligosakarida
+Fruktooligosakarida (FOS) merupakan prebiotik yang banyak digunakan
+saat ini. Prebiotik merupakan istilah yang dikaitkan dengan kesehatan saluran
+cerna. Prebiotik sendiri didefinisikan sebagai komponen bahan makanan yang
+tidak dicerna oleh sistem pencernaan, namun bila dikonsumsi oleh manusia
+mampu menstimula pertumbuhan dan aktifitas mikroflora (bakteri) di dalam
+
+18
+
+saluran cerna secara selektif, dan yang terpenting harus memperlihatkan efek
+positif terhadap kesehatan (Anonim, 2007).
+
+I. Vitamin D
+Vitamin D yang juga sering disebut ergocalciferolum atau ergocalciferol
+merupakan sumber vitamin D pada sediaan jelly. Vitamin D merupakan serbuk
+hablur putih, tidak berbau, dapat terpengaruh oleh cahaya dan udara. Kelarutan:
+tidak larut dalam air, larut dalam etanol, dalam kloroform, dan dalam minyak
+lemak. Titik didih antara 115ºC dan 117ºC (Anonim,1995). Struktur kimia dari
+vitamin D dapat dilihat pada gambar 6.
+
+Gambar 6. Struktur kimia vitamin D
+
+J. Kalsium
+Kalsium adalah mineral yang amat penting bagi manusia, antara lain bagi
+metabolisme tubuh, penghubung antar syaraf, kerja jantung, dan pergerakan otot.
+Beberapa manfaat lain dari kalsium bagi manusia diantaranya adalah
+mengaktifkan
+
+saraf,
+
+melancarkan
+
+peredaran
+
+darah,
+
+melenturkan
+
+otot,
+
+menormalkan tekanan darah, menyeimbangkan tingkat keasaman darah, menjaga
+
+19
+
+keseimbangan cairan tubuh, mencegah osteoporosis (keropos tulang), mencegah
+penyakit jantung, menurunkan resiko kanker usus (Anonim, 2006).
+
+K. Pewarna makanan karmoisin CI 14720
+Zat pewarna sintetis, secara umum dapat dibagi ke dalam dua golongan,
+yaitu zat pewarna asam dan zat pewarna dasar. Contoh pewarna dari jenis asam
+adalah amaranth dan karmoisin. Karmoisine yang disebut juga azorubine, atau CI
+14.720 adalah zat pewarna sintetis berwarna merah yang digunakan untuk
+pewarna makanan atau sediaan obat-obatan dan termasuk pewarna azo. Biasanya
+berbentuk garam dinatrium dari asam sulfat (Anonim, 2009). Struktur kimia dari
+karmoisin CI 14720 dapat dilihat pada gambar 7.
+
+Gambar 7. Struktur kimia karmoisin
+
+L. Spektrofotometri Ultraviolet
+Spektrofotometri adalah salah satu teknik analisis fisiko-kimia yang
+mengamati tentang interaksi atom atau molekul dengan radiasi elektromagnetik
+(REM) (Mulja dan Suharman, 1995).
+
+20
+
+Serapan cahaya molekul dalam daerah spektrum ultraviolet dan visibel
+tergantung pada struktur elektronik dari molekul. Spektrofotometri ultraviolet dan
+visibel dari senyawa-senyawa organik berkaitan erat dengan transisi-transisi
+diantara tingkatan-tingkatan tenaga elektronik. Disebabkan karena hal ini, maka
+serapan radiasi ultraviolet dan visibel sering dikenal sebagai spektroskopi
+elektronik. Transisi-transisi tersebut biasanya antara orbital ikatan atau orbital
+pasangan elektron bebas dan orbital non ikatan tak jenuh atau orbital non ikatan.
+Panjang gelombang serapan merupakan ukuran dari pemisahan tingkatantingkatan tenaga dari orbital yang bersangkutan. Dalam praktek, spektrofotometri
+ultraviolet digunakan terbatas pada sistem-sistem terkonjugasi. Meskipun
+demikian terdapat keuntungan yang selektif dari serapan ultraviolet, yaitu gugusgugus karakteristik dapat dikenal dalam molekul yang sangat kompleks
+(Sastrohamidjojo, 2002).
+Molekul selalu mengabsorbsi cahaya elektromagnetik jika frekuensi
+cahaya ini sama dengan getaran molekul tersebut. Elektron terikat dan elektron
+yang tidak terikat akan tereksitasi pada suatu daerah frekuensi yang sesuai dengan
+cahaya ultraviolet dan cahaya tampak. Spektrum absorbsi daerah ini adalah sekitar
+220-800 nm dan dinyatakan dengan spektrum elektron. Suatu spektrum ultraviolet
+meliputi daerah bagian ultraviolet, spektrum visibel bagian daerah sinar tampak
+(Roth dan Blaschke, 1994).
+Metode analisis spektrofotometri ultraviolet didasarkan pada pengukuran
+serapan cahaya oleh substitusi pada daerah panjang gelombang (λ) sekitar 190380 nm. Serapan pada daerah tersebut cukup kuat sehingga memungkinkan
+
+21
+
+berbagai senyawa diukur sampai kadar dibawah 1 ppm (Silverstein, 1981).
+Sensitifitas yang bagus, hasil yang cukup akurat, serta pengerjaan yang relatif
+sederhana menjadikan spektrofotometri ultraviolet sebagai metode analisis yang
+digunakan secara luas (Schinner, 1982).
+Absorbansi cahaya ultraviolet mengakibatkan transisi elektronik, yaitu
+promosi elektron dari orbital keadaan dasar yang berenergi rendah ke orbital
+keadaan tereksitasi berenergi lebih tinggi. Panjang gelombang ultraviolet
+bergantung pada mudahnya promosi elektron. Molekul-molekul yang memerlukan
+banyak energi untuk promosi elektron akan menyerap pada panjang gelombang
+yang lebih pendek. Molekul yang memerlukan energi lebih sedikit akan menyerap
+pada panjang gelombang yang lebih panjang (Fessenden dan Fessenden, 1997).
+Untuk penentuan kadar spektrofotometri, yang ditentukan adalah
+absorbsi maksimum kurva absorbsi. Jika absorbsi ini untuk penentuan kadar
+adalah sangat rendah atau senyawa mula-mula mengabsorbsi dibawah 220 nm,
+maka seringkali senyawa diubah menjadi suatu zat warna melalui reaksi kimia dan
+absorbsi
+
+ditentukan
+
+dalam
+
+daerah
+
+sinar
+
+tampak
+
+dapat
+
+diukur
+
+serapannya
+
+(visibel)
+
+(Roth
+
+dan
+
+Blaschke.,1994).
+Parasetamol
+
+dengan
+
+spektrofotometri
+
+ultraviolet, panjang gelombang (λ) yang digunakan dalam pengukuran adalah
+dalam rentang 180-380 nm, dimana sampel tidak berwarna. Semakin banyak
+gugus kromofor, maka akan dapat menggeser pada panjang gelombang yang lebih
+tinggi atau dapat menyerap radiasi pada panjang gelombang yang lebih tinggi.
+
+22
+
+M. High Performance Liquid Chromatography
+HPLC merupakan kondisi kromatografi yang fase geraknya dialirkan
+menuju kolom secara cepat dengan bantuan tekanan dari pompa dan hasilnya
+dapat dideteksi dengan detektor (Hendayana, 2006). Tujuan dari HPLC adalah
+memperoleh hasil pemisahan yang baik dalam waktu relatif singkat (Mulja dan
+Suharman, 1995).
+1. Kelebihan HPLC
+High Performance Liquid Chromatography (HPLC) atau High Pressure
+Liquid Chromatography (HPLC) merupakan salah satu metode kimia dan
+fisikokimia. HPLC termasuk metode analisis terbaru yaitu suatu teknik
+kromatografi dengan fasa gerak cairan dan fasa diam cairan atau padat. Banyak
+kelebihan metode ini jika dibandingkan dengan metode lainnya (Done dkk, 1974;
+Snyder dan Kirkland, 1979; Hamilton dan Sewell, 1982; Johnson dan Stevenson,
+1978). Metode HPLC memiliki kelebihan yaitu kolom HPLC dapat dipakai
+berkali-kali, resolusi yang didapatkan jauh lebih tinggi daripada metode lain
+(KLT, spektrofotometer), teknik yang dipakai tidak terlalu tergantung pada
+kemampuan operator dan derajat keterulangan yang didapatkan sesuai dengan
+kriteria USP, waktu analisisnya secara umum lebih singkat, dan preparasi dengan
+HPLC dapat dilakukan pada skala besar (Hamilton & Sewell, 1978). Selain itu
+HPLC juga dapat menganalisis senyawa yang tidak mudah menguap dan
+termolabil (Synder & Kirkland, 1979).
+
+23
+
+2. Komponen-komponen HPLC
+HPLC merupakan teknis analisis yang paling sering digunakan dalam
+analisis farmasi untuk pemisahan, identifikasi, dan determinasi dalam campuran
+yang kompleks. Komponen-komponen penting dari HPLC dapat dilihat pada
+Gambar 8 Diagram Blok HPLC berikut ini :
+
+Gambar 8. Diagram blok HPLC
+
+a. Pompa (Pump). Fase gerak dalam HPLC adalah suatu cairan yang
+bergerak melalui kolom. Ada dua tipe pompa yang digunakan, yaitu kinerja
+konstan (constant pressure) dan pemindahan konstan (constant displacement).
+Pemindahan konstan dapat dibagi menjadi dua, yaitu: pompa reciprocating dan
+pompa syringe. Pompa reciprocating menghasilkan suatu aliran yang berdenyut
+teratur (pulsating), oleh karena itu membutuhkan peredam pulsa atau peredam
+elektronik untuk menghasilkan garis dasar (base line) detektor yang stabil, bila
+detektor sensitif terhadapan aliran. Keuntungan utamanya ialah ukuran reservoir
+tidak terbatas. Pompa syringe memberikan aliran yang tidak berdenyut, tetapi
+reservoirnya terbatas (Putra, 2004).
+b. Injektor (injector). Sampel yang akan dimasukkan ke bagian ujung
+kolom, harus dengan disturbansi yang minimum dari material kolom. Ada dua
+
+24
+
+model umum yaitu stopped flow dan solvent flowing. Ada tiga tipe dasar injektor
+yang dapat digunakan pertama stop-flow (aliran dihentikan) injeksi dilakukan
+pada kinerja atmosfir, sistem tertutup, dan aliran dilanjutkan lagi. Teknik ini bisa
+digunakan karena difusi di dalam cairan kecil dan resolusi tidak dipengaruhi.
+Kedua adalah septum dimana septum yang digunakan pada HPLC sama dengan
+yang digunakan pada Kromtografi Gas. Injektor ini dapat digunakan pada kinerja
+sampai 60-70 atmosfir. Tetapi septum ini tidak tahan dengan semua pelarutpelarut kromatografi cair. Partikel kecil dari septum yang terkoyak (akibat jarum
+injektor) dapat menyebabkan penyumbatan. Dan yang ketiga adalah loop valve
+dimana tipe injektor ini umumnya digunakan untuk menginjeksi volume lebih
+besar dari 10 μl dan dilakukan dengan cara otomatis (dengan menggunakan
+adaptor yang sesuai, volume yang lebih kecil dapat diinjeksikan secara manual).
+Pada posisi LOAD, sampel di isi kedalam loop pada kinerja atmosfir, bila
+VALVE difungsikan, maka sampel akan masuk ke dalam kolom (Putra, 2004).
+c. Kolom (Column). Kolom adalah jantung kromatografi. Berhasil atau
+gagalnya suatu analisis tergantung pada pemilihan kolom dan kondisi percobaan
+yang sesuai. Kolom dapat dibagi menjadi dua kelompok yaitu kolom analitik
+dengan diameter dalam 2-6 mm. Panjang kolom tergantung pada jenis material
+pengisi kolom. Untuk kemasan pellicular, panjang yang digunakan adalah 50-100
+cm. Untuk kemasan poros mikropartikulat, 10-30 cm. Dewasa ini ada yang 5 cm.
+Dan kolom preparatif yang umum memiliki diameter 6 mm atau lebih besar dan
+panjang kolom 25-100 cm.
+
+25
+
+Kolom umumnya dibuat dari stainless steel dan biasanya di operasikan
+pada temperatur kamar, tetapi bisa juga digunakan temperatur lebih tinggi,
+terutama untuk kromatografi penukar ion dan kromatografi eksklusi. Pengepakan
+kolom
+
+tergantung
+
+pada
+
+model
+
+HPLC
+
+yang
+
+digunakan
+
+(Liquid
+
+Solid
+
+Chromatography, LSC; Liquid Liquid Chromatography, LLC; Ion Exchange
+Chromatography, IEC, Exclution Chromatography, EC).
+d. Detektor (Detector). Suatu detektor dibutuhkan untuk mendeteksi
+adanya komponen sampel di dalam kolom (analisis kualitatif) dan menghitung
+kadarnya (analisis kuantitatif). Detektor yang baik memiliki sensitifitas yang
+tinggi, gangguan (noise) yang rendah, kisar respons linier yang luas, dan memberi
+respons untuk semua tipe senyawa. Suatu kepekaan yang rendah terhadap aliran
+dan fluktuasi temperatur sangat diinginkan, tetapi tidak selalu dapat diperoleh.
+Detektor HPLC yang umum digunakan adalah detektor UV 254 nm.
+Variabel panjang gelombang dapat digunakan untuk mendeteksi banyak senyawa
+dengan range yang lebih luas. Detektor indeks refraksi juga digunakan secara luas,
+terutama pada kromatografi eksklusi, tetapi umumnya kurang sensitif jika
+dibandingkan dengan detektor UV. Detektor-detektor lainnya antara lain detektor
+Fluorometer-Detektor Spektrofotometer Massa, detektor lonisasi nyala-Detektor
+Refraksi lndeks, detektor Elektrokimia-Detektor Reaksi Kimia.
+3. Kromatografi Partisi Fase Balik
+Menurut Gritter et al. (1991), konsep pada pengembangan kromatografi
+cair partisi yaitu perlakuan sampel dalam kondisi cair-cair tergantung pada
+kelarutannya di dalam kedua cairan yang terlibat. Jika solut ditambahkan ke
+
+26
+
+dalam kondisi yang terdiri atas dua pelarut yang tidak bercampur dan keseluruhan
+kondisi di biarkan seimbang, solut akan tersebar antara kedua fase itu menurut
+persamaan :
+
+K adalah koefesien distribusi, Cs adalah konsentrasi solut dalam fase
+diam dan Cm adalah konsentrasi solut dalam fase gerak (Skoog et al.,1994). Halhal yang harus diperhatikan dalam pemilihan metode kromatografi partisi fase
+balik adalah :
+a. Kolom. Kolom yang digunakan pada jenis kromatografi ini ialah
+kemasan fase terikat. Fase diam yang biasa digunakan pada kromatografi partisi
+fase balik adalah oktadesilsilan (ODS). Selain ODS, dikenal pula silika dengan
+substitusi oktil (C8) (Munson,1991).
+b. Fase gerak. Fase gerak pada HPLC sangat berpengaruh pada tambatan
+sampel dan pemisahan komponen dalam campuran. Pada fase balik, kandungan
+utama fase geraknya adalah air. Pelarut yang dapat campur dengan air seperti
+metanol, etanol, asetonitril, dan tetrahidrofuran ditambahkan untuk mengatur
+kepolaran fase gerak pada fase balik HPLC.
+Dalam kasus ini, ukuran kolom sama, tetapi silika di modifikasi menjadi
+non
+
+polar
+
+melalui
+
+pelekatan
+
+rantai-rantai
+
+hidrokarbon
+
+panjang
+
+pada
+
+permukaannya secara sederhana baik berupa atom karbon 8 atau 18. Sebagai
+contoh, pelarut polar digunakan berupa campuran air dan alkohol seperti metanol.
+Dalam kasus ini, akan terdapat atraksi yang kuat antara pelarut polar dan molekul
+
+27
+
+polar dalam campuran yang melalui kolom. Atraksi yang terjadi tidak akan sekuat
+atraksi antara rantai-rantai hidrokarbon yang berlekatan pada silika (fase diam)
+dan molekul-molekul polar dalam larutan. Oleh karena itu, molekul-molekul polar
+dalam campuran akan menghabiskan waktunya untuk bergerak bersama dengan
+pelarut. Senyawa-senyawa non polar dalam campuran akan cenderung
+membentuk atraksi dengan gugus hidrokarbon karena adanya dispersi gaya van
+der Waals. Senyawa-senyawa ini juga akan kurang larut dalam pelarut karena
+membutuhkan pemutusan ikatan hidrogen sebagaimana halnya senyawa-senyawa
+tersebut berada dalam molekul-molekul air atau metanol misalnya. Oleh
+karenanya, senyawa-senyawa ini akan menghabiskan waktu dalam larutan dan
+akan bergerak lambat dalam kolom. Ini berarti bahwa molekul-molekul polar akan
+bergerak lebih cepat melalui kolom. Fase balik HPLC adalah bentuk yang biasa
+digunakan dalam HPLC (Rod McIlwrick, 2007).
+4. Injeksi sampel
+Injeksi sampel seluruhnya otomatis, tidak akan dapat mengetahui apa
+yang terjadi pada tingkat dasar. Karena proses ini meliputi tekanan, tidak sama
+halnya dengan kromatografi gas (Rod McIlwrick, 2007).
+5. Waktu retensi
+Waktu yang dibutuhkan oleh senyawa untuk bergerak melalui kolom
+menuju detektor disebut sebagai waktu retensi. Waktu retensi diukur berdasarkan
+waktu dimana sampel diinjeksikan sampai sampel menunjukkan ketinggian
+puncak yang maksimum dari senyawa itu. Senyawa-senyawa yang berbeda
+memiliki waktu retensi yang berbeda. Untuk beberapa senyawa, waktu retensi
+akan sangat bervariasi dan bergantung pada tekanan yang digunakan (karena itu
+
+28
+
+akan berpengaruh pada laju alir dari pelarut), kondisi dari fase diam (tidak hanya
+terbuat dari material apa, tetapi juga pada ukuran partikel), komposisi yang tepat
+dari pelarut, dan temperatur pada kolom. Itu berarti bahwa kondisi harus dikontrol
+secara hati-hati jika menggunakan waktu retensi sebagai sarana untuk
+mengidentifikasi senyawa-senyawa (Rod McIlwrick, 2007).
+6. Profil puncak dan pelebaran puncak
+Selama
+
+pemisahan
+
+kromatografi,
+
+solut
+
+secara
+
+individual
+
+akan
+
+membentuk profil konsentrasi yang simetri atau dikenal juga dengan profil
+Gaussian dalam arah aliran fase gerak. Profil, dikenal juga dengan puncak atau
+pita, secara perlahan-lahan akan melebar dan sering juga membentuk profil yang
+asimetrik karena solut-solut melanjutkan migrasinya ke fase diam. Penyebab
+terjadinya pelebaran puncak kromatografi, yaitu :
+a. Penyebab pertama : Difusi Eddy. Kolom biasanya dikemas dengan
+partikel fase diam yang kecil. Fase gerak lalu melewatinya dan membawa
+molekul-molekul sampel yang ada di dalamnya. Beberapa molekul meninggalkan
+kolom terlebih dahulu dibanding molekul yang lainnya. Beberapa molekul ada
+yang meninggalkan kolom belakangan disebabkan karena mengalami beberapa
+pengalihan (diversi) selama perjalanannya. Keadaan ini dikenal dengan difusi
+Eddy (Rohman, 2009). Mekanisme difusi Eddy dapat dilihat pada gambar 9.
+
+29
+
+Gambar 9. Difusi Eddy dalam kromatografi kolom
+
+b. Penyebab kedua : Distribusi aliran. Fase gerak mengalir di antara
+partikel fase diam dalam suatu gerakan laminer (Gambar 10). Kecepatan alir fase
+gerak lebih cepat jika melalui pusat saluran (ditengah-tengah) daripada jika fase
+gerak melalui daerah di dekat partikel fase diam. Anak panah dalam gambar 10
+menggambarkan vektor-vektor kecepatan fase gerak (semakin panjang anak
+panah, maka kecepatan alir lokal semakin besar). Difusi Eddy dan distribusi alir
+dapat dikurangi dengan mengemas kolom menggunakan partikel fase diam
+berukuran rata. Suatu kolom dikatakan bagus apabila kolom tersebut tersusun dari
+partikel-partikel fase diam dengan distribusi ukuran sesempit mungkin. Rasio
+antara diameter partikel terkecil dan yang terbesar tidak melebihi 2. Jika partikel
+terkecilnya berdiameter 1,5 μm dan yang paling besar 7,5 μm maka rasionya
+adalah 5. Berikut gambar distribusi aliran dalam kromatografi (Rohman, 2009).
+
+30
+
+Gambar 10. Difusi distribusi aliran dalam kromatografi
+
+c. Penyebab ketiga : Difusi molekul sampel dalam fase gerak. Molekulmolekul sampel menyebar di dalam pelarut tanpa adanya pengaruh luar apapun
+(perhatikan bagaimana suatu gula melarut dalam air secara perlahan-lahan bahkan
+tanpa diaduk). Hal ini merupakan difusi longitudinal (gambar 11). Difusi ini
+mempunyai pengaruh yang tidak menguntungkan pada tinggi puncak jika partikelpartikel fase diamnya kecil, kecepatan alir fase gerak terlalu rendah (dihubungkan
+dengan diameter partikel), koefisien difusi sampel relatif besar.
+Kecepatan alir fase gerak harus dipilih sedemikian rupa sehingga difusi
+longitudinal tidak mempunyai efek yang merugikan. Pada gambar 11, pelebaran
+pita oleh difusi longitudinal. Kiri : daerah sampel sesaat setelah diinjeksikan.
+Sampel akan menyebar dalam ruangan ke 3 arah (arah anak panah). Kanan :
+daerah sampel setelah beberapa saat. Daerah sampel saat ini lebih luas disebabkan
+oleh difusi. Sampel ini juga akan pindah oleh aliran fase gerak (Rohman, 2009).
+
+Gambar 11. Pelebaran pita oleh difusi longitudinal
+
+31
+
+d.Penyebab keempat : perpindahan massa antara fase gerak, fase gerak
+yang stagnan, dan fase diam. Gambar 12 menunjukkan struktur partikel fase diam.
+Salurannya ada yang sempit dan ada yang luas. Pori-pori itu terisi oleh fase gerak
+yang tidak bergerak (stagnan). Suatu molekul sampel yang masuk ke dalam pori
+akan berhenti untuk dipindahkan dengan aliran fase gerak dan posisinya berubah
+hanya dengan difusi. Meskipun demikian, ada dua kemungkinan yang terjadi yang
+pertama molekul sampel berdifusi balik ke aliran fase gerak. Keadaan ini, yang
+mana molekul sampel keluar bersama aliran fase gerak, membutuhkan waktu.
+Yang kedua molekul berinteraksi dengan fase diam dan akan teradsorbsi. Untuk
+sementara waktu, molekul sampel tetap menempel pada fase diam. Sekali lagi,
+perpindahan massa ini membutuhkan waktu yang cukup lama (gambar 13). Fase
+diam mempunyai pusat adsorbsi C (dalam kerapatan yang luas) yang akan
+menarik molekul-molekul di sekitarnya.
+Dalam kedua kasus di atas, pelebaran puncak meningkat seiring dengan
+meningkatnya kecepatan alir fase gerak (Rohman, 2009).
+
+Gambar 12. Struktur pori molekul fase diam
+
+32
+
+Gambar 13. Perpindahan massa antara fase diam dan fase gerak
+7. Persamaan Van Deemter
+
+Tinggi lempeng teoritis (H), yang merupakan ukuran efisiensi kolom,
+dapat diekspresikan sebagai fungsi kecepatan alir fase gerak u (Gambar.14).
+Kurva H/u juga disebut dengan kurva Van Deemter. Kecepatan alir optimum
+(Uopt) tergantung pada sifat-sifat analit. Dalam kurva Van Deemter no.1 adalah
+difusi Eddy, no.2 adalah difusi longitudinal, no.3 komponen perpindahan massa,
+no.4 resultan atau hasil kurva Van Deemter (Rohman, 2009).
+
+Gambar 14. Kurva Van Deemter
+
+Persamaan yang terkait dengan kurva di atas disebut dengan persamaan
+Van Deemter. Dalam kromatografi cair, persamaan Van Deemter dirumuskan
+sebagai berikut :
+
+33
+
+Di mana :
+H
+
+adalah ukuran efisiensi kolom; semakin kecil nilai H, maka kolom
+akan semakin efisien.
+
+u
+
+merupakan kecepatan alir fase gerak
+
+A adalah difusi Eddy
+B
+
+adalah difusi longitudinal. Dalam kromatografi cair, difusi
+longitudinal ini kontribusinya sangat kecil. Sumbangan difusi
+longitudinal ini dalam pelebaran pita akan menurun. Jika kecepatan
+alir meningkat, dan hanya akan bermakna jika kecepatan alir fase
+gerak sangat rendah.
+
+Cs merupakan resistensi terhadap perpindahan atau transfer massa
+molekul dalam fase diam, dan nilainya tergantung pada koefisien
+difusinya (Ds) dalam fase diam dan tergantung pula pada ketebalan
+fase diam (d)
+
+Cs =
+Cm merupakan resistensi terhadap transfer massa yang disebabkan oleh
+diameter dan bentuk partikel fase diam (d) dan kecepatan difusi
+molekul dalam fase gerak.
+
+Cm =
+
+34
+
+Semakin teratur partikel-partikel fase diam, maka kontribusinya terhadap
+pelebaran pita semakin kecil (Rohman, 2009).
+7. Faktor-faktor yang digunakan untuk evaluasi kinerja kolom
+Kualitas pemisahan dengan kromatografi kolom dapat dikontrol dengan
+melakukan serangkaian uji kesesuaian sistem di antaranya adalah efisiensi kolom
+dan simetrisitas puncak.
+a. Efisiensi kolom. Salah satu karakteristik sistem kromatografi yang
+paling penting adalah efisiensi atau jumlah lempeng teoritis (N). Ukuran efisiensi
+kolom adalah jumlah lempeng (plate number, N) yang didasarkan pada konsep
+lempeng teoritis pada distilasi. Jumlah lempeng (N) dihitung dengan :
+
+Nilai N juga dapat dihitung dengan :
+
+Yang mana :
+tR
+
+= waktu retensi solut
+
+σt
+
+= simpangan baku lebar puncak
+
+Wh/2 = lebar setengah tinggi puncak
+Wb
+
+= lebar dasar puncak
+
+Gambar 15 menjelaskan bagaimana cara menghitung tR, σt, Wh/2, Wb suatu
+puncak kromatogram.
+
+35
+
+Gambar 15. Cara mengukur tR, σt, Wh/2, Wb suatu puncak kromatogram.
+
+Persamaan berikut digunakan untuk menggambarkan hubungan antara
+panjang kolom (L) dengan efisiensi kolom (H):
+
+Bilangan lempeng (N) yang tinggi disyaratkan untuk pemisahan yang
+baik yang nilainya sebanding dengan semakin panjangnya kolom (L) dan semakin
+kecilnya nilai (H). Istilah H merupakan tinggi ekivalen lempeng teoritis atau
+HETP (High Eqivalent Theoritical Plate), yang mana merupakan panjang kolom
+yang dibutuhkan untuk menghasilkan satu lempeng teoritis. Kolom yang baik
+akan mempunyai bilangan lempeng yang tinggi dan karenannya kolom yang baik
+mempunyai nilai H yang rendah. Semakin kecil ukuran partikel, maka semakin
+tinggi bilangan lempeng teoritis. Kondisi optimum diperoleh dengan melihat
+hubungan antara tinggi lempeng teoritis dan kecepatan alir (kurva Van Deemter).
+dalam sistem kromatografi, diharapkan untuk mempunyai bilangan lempeng (N)
+yang tinggi. Bilangan lempeng (N) akan meningkat dengan adanya beberapa
+faktor yaitu : kolom yang dikemas dengan baik, kolom yang lebih panjang,
+partikel fase diam yang lebih kecil, viskositas fase gerak yang lebih rendah dan
+
+36
+
+suhu yang lebih tinggi, molekul-molekul sampel yang lebih kecil, pengaruh di
+luar kolom yang minimal (Rohman, 2009).
+b. Faktor asimetri (Faktor pengekoran). Suatu situasi yang menunjukkan
+kinerja kromatografi yang kurang baik adalah ketika ditemukan suatu puncak
+yang mengalami pengekoran (tailing) sehingga menyebabkan puncak tidak
+simetri. Jika puncak yang akan dikuantifikasi adalah asimetri, maka suatu
+perhitungan asimetrisitas merupakan cara yang paling berguna untuk mengontrol
+atau mengkarakterisasi sistem kromatografi. Puncak asimetri muncul karena
+bebagai faktor. Peningkatan puncak yang asimetri akan menyebabkan penurunan
+resolusi, batas deteksi, dan presisi. Gambar 16 menunjukkan bagaimana
+menghitung nilai faktor pengekoran (tailing factor, TF). Kromatogram yang
+memberikan harga TF=1 menunjukkan bahwa kromatogram tersebut bersifat
+setangkup atau simetris. Harga TF >1 menunjukkan bahwa kromatogram
+mengalami pengekoran (tailing). Semakin besar harga TF maka kolom yang
+dipakai semakin kurang efisien. Dengan demikian harga TF dapat digunakan
+untuk melihat efisiensi kolom kromatogram (Rohman, 2009).
+
+Gambar 16. Menghitung besarnya TF pada kromatogram
+
+37
+
+N. Validitas Metode Analisis Instrumental
+Validasi metode analisis adalah suatu tindakan penilaian terhadap
+parameter tertentu, berdasarkan percobaan laboratorium, untuk membuktikan
+bahwa parameter tersebut memenuhi persyaratan untuk penggunaannya (Harmita,
+2004). Validasi metode analisis diartikan sebagai suatu prosedur yang digunakan
+untuk membuktikan bahwa metode analisis tersebut dapat memberikan hasil
+seperti yang diharapkan dengan kecermatan dan ketelitian yang memadai. Metode
+analisis instrumen merupakan metode yang terpilih dan memadai untuk
+mengantisipasi persoalan analisis yaitu sangat kecilnya kadar senyawa yang
+dianalisis dan kompleksnya matriks sampel yang dianalisis (Mulja dan Suharman,
+1995). Untuk itu diperlukan suatu pedoman mengenai kesahihan metode analisis
+yang didukung oleh parameter-parameter dibawah ini:
+1. Akurasi
+Akurasi atau kecermatan adalah ukuran yang menunjukkan derajat
+kedekatan hasil analis dengan kadar analit yang sebenarnya. Akurasi dinyatakan
+sebagai persen perolehan kembali (recovery) analit yang ditambahkan (Harmita,
+2004). Kriteria rentang recovery yang dapat diterima dapat dilihat pada tabel IV.
+
+38
+
+Tabel IV. Kriteria rentang recovery yang dapat diterima (Harmita, 2004)
+
+Analit pada
+matriks sampel
+(%)
+100
+> 10
+>1
+> 0,1
+0,01
+0,001
+0,0001 (1 ppm)
+0,00001 (100 ppb)
+0,000001 (10 ppb)
+0,0000001 (1 ppb)
+
+Rentang recovery
+yang diperoleh
+98-102 %
+98-102 %
+97-103 %
+95-105 %
+90-107 %
+90-107 %
+80-110 %
+80-110 %
+60-115 %
+40-120 %
+
+2. Presisi
+Presisi atau keseksamaan adalah ukuran yang menunjukkan derajat
+kesesuaian antara hasil uji individual, diukur melalui penyebaran hasil individual
+dari rata-rata jika prosedur diterapkan secara berulang pada sampel-sampel yang
+diambil dari campuran yang homogen (Harmita, 2004). Presisi biasanya
+dinyatakan dalam koefisien variasi (KV). Suatu metode dapat dinyatakan
+memiliki presisi yang baik apabila memiliki KV < 2 % tetapi kriteria ini fleksibel
+tergantung dari kondisi analit yang diperiksa, jumlah sampel dan kondisi
+laboratorium. Berikut ketentuan nilai KV yang dapat diterima (Harmita, 2004) :
+Tabel V. Kriteria KV yang dapat diterima
+
+Kadar Analit
+≥1%
+
+KV
+(%)
+2,5
+
+0,1 %
+
+5
+
+1 ppm
+
+16
+
+1 ppb
+
+32
+
+39
+
+3. Linieritas dan rentang
+Linieritas merupakan kemampuan suatu metode (pada rentang tertentu)
+untuk mendapatkan hasil uji yang secara langsung proporsional dengan
+konsentrasi (jumlah) analit di dalam sampel. Rentang adalah jarak antara level
+terbawah dan teratas dari metode analisis yang telah dipakai untuk mendapatkan
+presisi, linieritas dan akurasi yang bisa diterima (Anonim, 2007). Persyaratan data
+linearitas yang bisa diterima jika memenuhi nilai koefisien korelasi (r) > 0,99 atau
+r2 ≥ 0,997 (Anonim, 2004; Chan et al, 2004).
+4. Spesifisitas
+Spesifisitas suatu metode adalah kemampuannya yang hanya mengukur
+zat tertentu saja secara cermat dan seksama dengan adanya komponen lain yang
+mungkin ada dalam matriks sampel. Selektivitas metode ditentukan dengan
+membandingkan hasil analisis sampel yang mengandung cemaran, hasil urai,
+senyawa sejenis, senyawa asing lainnya atau pembawa plasebo dengan hasil
+analisis sampel tanpa penambahan bahan-bahan tadi. Penyimpangan hasil
+merupakan selisih dari hasil uji keduanya (Harmita, 2004).
+USP 28 mencantumkan beberapa kategori uji umum yang harus
+memenuhi validitas data, yaitu :
+a. Kategori I. Metode analitik yang digunakan untuk mengukur secara
+kuantitatif sejumlah besar komponen dari serbuk obat atau senyawa aktif
+(termasuk preservarif).
+b. Kategori II. Metode analitik yang digunakan untuk penentuan
+kemurnian dalam serbuk obat atau penentuan senyawa degradasi.
+
+40
+
+c. Kategori III. Metode analitik yang digunakan untuk penentuan sifatsifat khusus seperti kecepatan disolusi dan pelepasan obat.
+d. Kategori IV. Metode analitik yang digunakan untuk mengidentifikasi
+sediaan farmasi.
+Tabel VI. Parameter Analitik
+
+Analitycal
+Perforamance
+Characteristics
+Accuracy
+
+Category
+1
+
+Category II
+Qualitative Quantitative
+
+Category
+III
+
+Category
+IV
+
+Yes
+
+*
+
+Yes
+
+*
+
+No
+
+Precision
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+No
+
+Spesificity
+
+Yes
+
+Yes
+
+Yes
+
+*
+
+Yes
+
+LOD
+
+No
+
+Yes
+
+No
+
+*
+
+No
+
+LOQ
+
+No
+
+No
+
+Yes
+
+*
+
+No
+
+Linierity
+
+Yes
+
+No
+
+Yes
+
+*
+
+No
+
+Range
+
+Yes
+
+*
+
+yes
+
+*
+
+No
+
+*Mungkin diperlukan, tergantung sifat uji spesifik yang dilakukan
+
+41
+
+O. Landasan Teori
+
+Gel merupakan sediaan setengah padat yang terdiri dari suspensi yang
+dibuat dari partikel anorganik yang kecil atau molekul organik yang besar
+terpenetrasi oleh suatu cairan. Dalam sediaan gel terdapat gelling agent yang
+merupakan senyawa pembentuk gel yaitu karaginan.
+Karaginan dapat membentuk gel secara reversibel artinya dapat
+membentuk gel pada saat pendinginan dan kembali cair pada saat dipanaskan serta
+akan larut di air panas pada suhu > 60ºC.
+Pemanasan menyebabkan rusak atau terbongkarnya ikatan silang (cross
+link) antar rantai polimer gelling agent karagenin sehingga akan mengakibatkan
+polimer karaginan dalam larutan menjadi random coil (acak) dengan lepasnya
+ikatan glikosidik α-1,3 dan β-1,4 menyebabkan susunan molekul polimer
+mengalami perubahan dan bahkan rusak menjadi unit-unit monomer D-galaktosa
+4-sulfat dan 3,6-anhidro-D-galaktosa. Rusaknya sistem gel menyebabkan bahan
+tambahan dalam jelly mudah untuk diisolasi dari sediaan termasuk senyawa
+parasetamol di dalamnya.
+Suhu dan pH lingkungan mempengaruhi kadar parasetamol dalam
+sediaan. Karena adanya pengaruh suhu yang tinggi yaitu 60ºC, dikhawatirkan
+dapat mendegradasi zat aktif sehingga kadar parasetamol yang ada didalam
+sediaan dapat berkurang.
+Kadar parasetamol di uji menggunakan sistem HPLC yang merupakan
+suatu sistem kromatografi yang fase geraknya dialirkan dengan cepat dengan
+
+42
+
+bantuan pompa bertekanan dan hasilnya dideteksi dengan detektor. Analisis
+dengan HPLC mempunyai sensitivitas yang tinggi dan diharapkan didapatkan
+pemisahan yang baik dalam waktu yang relatif singkat.
+Sebelumnya, metode penetapan kadar parasetamol dalam jelly dengan
+menggunakan teknik preparasi pemanasan perlu di validasi terlebih dahulu untuk
+membuktikan bahwa metode yang digunakan memberikan hasil seperti yang
+diharapkan berdasarkan parameter akurasi, presisi, spesifisitas, dan linearitas yang
+memadai.
+
+P. Hipotesis
+1. Metode HPLC fase terbalik mempunyai validitas yang baik untuk menetapkan
+kadar parasetamol dalam jelly parasetamol yang didasarkan pada parameter
+validitas akurasi, presisi, sensitivitas , dan linearitas.
+2. Kadar parasetamol dalam jelly tetap ketika dicampurkan bersama-sama dengan
+jelly dalam proses pembuatannya, yaitu ± 120 mg/kemasan.
+
+43
+
+BAB III
+METODE PENELITIAN
+
+A. Jenis dan Rancangan Penelitian
+Penelitian ini merupakan jenis penelitian non eksperimental dengan
+rancangan penelitian deskriptif, karena dalam penelitian ini tidak dilakukan
+manipulasi terhadap subjek uji, yaitu jelly parasetamol. Penelitian ini hanya
+mendeskripsikan keadaan yang ada.
+B. Variabel dan Definisi Operasional
+1. Klasifikasi Variabel
+a. Variabel Bebas
+Suhu dan waktu pemanasan untuk memecah sistem jelly.
+b. Variabel Tergantung
+Kadar parasetamol dalam jelly.
+c. Variabel Pengacau Terkendali
+Kualitas dari bahan yang digunakan, ataupun pelarut.
+2. Definisi Operasional
+a. Jelly merupakan sistem semipadat terdiri dari suspensi yang dibuat dari
+partikel anorganik yang kecil atau molekul organik yang besar terpenetrasi
+oleh suatu cairan.
+b. High Performance Liquid Chromatography (HPLC) fase terbalik yang
+digunakan adalah seperangkat alat HPLC dengan fase diam kolom
+
+43
+
+44
+
+reserved phase C18 dan fase gerak campuran metanol dan aquabides
+(90:10).
+c.
+
+Kadar parasetamol dalam jelly di tetapkan dengan satuan mg/kemasan.
+
+d. Parameter validasi metode yang digunakan adalah akurasi, presisi,
+sensitivitas, dan linearitas.
+C. Bahan Penelitian
+Bahan-bahan yang digunakan dalam penelitian ini meliputi “Jelly”
+(Nutrijel), baku parasetamol kualitas working standard (ANQUI LU’AN
+PHARMACEUTICAL CO., LTD), Metanol p.a. (E. Merck), Aquabidestilata
+(Ikapharmindo Pharmaceutical).
+D. Alat Penelitian
+Alat-alat yang digunakan dalam penelitian ini meliputi: Spektrofotometer
+UV/Vis merk Perkin-Elmer Lambda 20, Kuvet, Sistem HPLC yang terdiri dari :
+pompa merk Shimadzu model LC-10 AD No. C20293309457 J2, detector UVVIS merk Shimadzu, model SPD-10 AV No. C20343502697 KG, seperangkat
+computer merk Compaq, printer Hewlett Packard Deskjet 670 C, injector jenis
+katup suntik model 77251, kolom C18 Merek KNAUER dengan packing Kromasil
+100-5, panjang kolom 25 cm, internal diameter 4,6mm, syringe merk Hamilton
+Pat No. 2933087, degassing ultrasonicator merk Retsch tipe T460 no
+V935922013 EY, vaccum merk Gast model DOA-P104-BN, organic solvent
+membrane filter merk Whatman ukuran pori (0,5 µm ; diameter 47 mm),
+penyaring miliphore ukuran pori 0,45 µm, neraca analitik Scaltec SBC 22 max
+60/210 g; d = 0,01/0,1 mg; e = 1 mg, seperangkat alat-alat gelas: pipet ukur, pipet
+
+45
+
+volume, beker glass, labu takar, gelas ukur, buret 10,0 ml, kompor listrik beserta
+magnetic stirrer.
+
+E. Tata Cara Penelitian
+1. Pembuatan fase gerak
+Fase gerak dibuat dalam campuran metanol : aquabides (90:10) sebanyak
+500,0 ml, campuran tersebut digojog dan disaring dengan kertas Whatman
+organik dengan bantuan pompa vakum dan di degassing selama 15 menit.
+2. Pembuatan larutan baku parasetamol
+Lebih kurang 10 mg parasetamol ditimbang seksama, dilarutkan dengan
+fase gerak kemudian dimasukkan ke dalam labu takar 10 ml dan diencerkan
+dengan fase gerak sampai volumenya tepat 10,0 ml (larutan stok). Larutan ini
+kemudian dipipet 0,5 ml lalu dimasukkan dalam labu takar 50 ml dan diencerkan
+dengan fase gerak hingga volumenya tepat 50,0 ml (larutan intermediet). Dari
+larutan intermediet ini kemudian dibuat larutan baru dengan konsentrasi 3,0 ; 4,0
+5,0 ; 6,0 ; 7,0 ; 8,0 ppm. Masing-masing seri larutan baku disaring dengan
+miliphore dengan ukuran diameter 0,45 μm dan di degassing selama 15 menit.
+3. Penetapan λ maksimum parasetamol
+Pada penetapan λ maksimum parasetamol dilakukan pada konsentrasi 5,0
+ppm dan di replikasi 2 kali. Sebanyak 5,0 ml larutan intermediet diencerkan
+dengan fase gerak dalam labu takar 10 ml sampai tanda. Larutan ini dibaca
+absorbansinya pada panjang gelombang 200-300 nm dengan spektrofotometer
+
+46
+
+UV. Kemudian diperoleh kurva hubungan panjang gelombang dan absorbansi
+parasetamol.
+4. Pembuatan kurva baku dan penentuan waktu retensi parasetamol
+Masing-masing seri konsentrasi larutan baku parasetamol yang telah
+dibuat pada point 2 disuntikkan dalam injector port pada sistem HPLC
+menggunakan instrumen Shimadzu LC-10 AD, kolom C18 Merek KNAUER
+dengan packing Kromasil 100-5 panjang kolom 25 cm, internal diameter 4,6mm,
+fase gerak campuran metanol:aquabides (90:10), flow rate 1 ml/menit,
+AUFs/Attenuation 0,01/7, detektor UV pada 247,4 nm, dengan volume injeksi 20
+µl (Rheodyne Loop Injection). Kemudian diamati puncak kromatogram yang
+muncul dan nilai AUC dari masing-masing puncak. Dengan metode regresi linier,
+memplotkan konsentrasi (ppm) terhadap nilai AUC dari masing-masing seri
+larutan baku sehingga didapat persamaan y = bx + a (y = nilai respon, x =
+konsentrasi senyawa baku, a = intersept, b = slope). Pembuatan kurva baku di
+replikasi 3x dan di ambil kurva baku terbaik dengan nilai r > 0,999. Selain itu,
+dilihat pula waktu retensi dari masing-masing seri larutan baku parasetamol.
+5. Validasi metode analisis
+Lebih kurang 10,0 mg parasetamol ditimbang seksama, dilarutkan
+dengan fase gerak kemudian dimasukkan ke dalam labu takar 10 ml dan
+diencerkan dengan fase gerak sampai volumenya tepat 10,0 ml (larutan stok).
+Larutan ini kemudian dipipet 0,5 ml lalu dimasukkan dalam labu takar 50 ml dan
+diencerkan dengan fase gerak hingga volumenya tepat 50,0 ml (larutan
+intermediet). Dari larutan intermediet ini kemudian dibuat larutan baru dengan
+
+47
+
+konsentrasi 3,0 ; 5,0 ; 8,0 ppm. Masing-masing seri larutan baku direplikasi 3 kali
+lalu disaring dengan miliphore dengan ukuran diameter 0,45 μm dan di degassing
+selama 15 menit. Larutan disuntikkan kedalam sistem HPLC.
+6. Penetapan kadar sampel
+a. Pembuatan larutan jelly tanpa parasetamol. Lebih kurang 6,4286 g
+serbuk jelly ditimbang, dilarutkan dengan 300 ml aquabides dalam beaker glass
+500 ml dan dipanaskan sampai mendidih pada suhu 100ºC selama kurang lebih 5
+menit sambil diaduk sampai semua serbuk larut merata dan homogen. Dinginkan
+hingga memadat. Selanjutnya larutan dimasukkan dalam 20 cetakan masingmasing cetakan berisi 15 ml jelly, diamkan selama beberapa saat hingga semua
+jelly memadat.
+Salah 1 jelly kemudian dipanaskan pada suhu 50ºC selama 30 menit
+bersama 100 ml aquabidest hingga jelly mencair. Pipet larutan jelly sebanyak 0,5
+ml dan encerkan dengan fase gerak ad 50,0 ml. Ambil 6,6 ml larutan intermediet
+dengan menggunakan buret 10,0 ml dan encerkan dengan fase gerak ad 10,0 ml
+(larutan blanko). Kemudian larutan blanko disaring dengan miliphore ukuran pori
+diameter 0,45 μm dan di degassing selama 15 menit. Larutan disuntikkan kedalam
+sistem HPLC
+b. Pembuatan dan penyiapan sampel jelly parasetamol. Lebih kurang
+6,4286 g serbuk jelly ditimbang, dilarutkan dengan 285 ml aquabides lalu diaduk
+hingga homogen. Selanjutnya di panaskan sampai mendidih pada suhu 100ºC
+selama kurang lebih 5 menit sampai semua serbuk larut merata. Setelah itu larutan
+dimasukkan dalam 20 cetakan yang didalamnya sudah berisi 1,0 ml larutan
+
+48
+
+parasetamol hingga volumenya tepat 15,0 ml. Suhu saat pencampuran antara jelly
+dan parasetamol di atur dan di kontrol pada suhu < 50ºC diamkan selama
+beberapa saat hingga semua jelly memadat. Kemudian mengambil secara acak
+sebanyak 10 buah jelly (prinsip pengambilan sampel secara random/cuplikan
+random/cuplikan acak). 10 sampel jelly ini yang nantinya digunakan untuk
+penetapan kadar.
+c. Destruksi jelly. Masing-masing jelly dipanaskan pada suhu 50ºC
+selama 30 menit dalam 100 ml aquabidest hingga jelly mencair dan di bantu
+dengan magnetic stirrer pada kecepatan 500 rpm. Pipet larutan sebanyak 0,5 ml
+dan di encerkan dengan fase gerak ad 50,0 ml. Ambil 6,6 ml larutan ini dengan
+menggunakan buret 10,0 ml dan encerkan dengan fase gerak ad 10,0 ml. Larutan
+kemudian disaring dengan miliphore ukuran pori diameter 0,45 μm dan di
+degassing selama 15 menit.
+Hasil yang diperoleh berupa luas area kromatogram dari berbagai variasi
+konsentrasi zat baku dan sampel. Kurva baku dipersiapkan yang menyatakan
+hubungan antara kadar vs luas area dapat dihasilkan. Kadar parasetamol dalam
+sampel dihitung dengan menggunakan persamaan kurva baku y = bx + a
+
+49
+
+F. Analisis Hasil
+1. Validasi metode
+a. Akurasi
+Dinyatakan dalam persen perolehan kembali ( % recovery )
+% recovery =
+Metode ini dikatakan memiliki akurasi yang baik jika nilai % recovery berada
+pada rentang 98-102 % untuk analit pada matriks sampel 100% (Harmita,
+2004).
+d. Presisi
+Presisi biasanya dinyatakan dengan coefficient of variation (CV)
+x 100%
+Suatu metode dapat dinyatakan memiliki presisi yang baik apabila memiliki
+CV < 2 % (Harmita, 2004).
+e. Linearitas
+Dinyatakan dalam koefisien korelasi (r)
+y = bx + a
+Linieritas yang baik ialah nilai r yang lebih besar dari 0,999 untuk minimal 6
+seri konsentrasi (Anonim, 2008).
+d. Spesifisitas
+Spesifisitas metode ditentukan dengan membandingkan tR sampel dengan tR
+baku serta membandingkan hasil analisis (kromatogram) sampel dengan analit
+parasetamol dan sampel tanpa penambahan analit parasetamol.
+
+50
+
+2. Analisis Kuantitatif
+Analisis kuantitatif yang dilakukan adalah penetapan kadar parasetamol
+dalam jelly berdasarkan analisi data AUC sampel dan kurva baku parasetamol.
+Satuan untuk menetapka kadar parasetamol dalam jelly adalah mg/kemasan. Data
+kemudian ditampilkan dalam bentuk % recovery. Rumus % recovery sebagai
+berikut :
+% recovery =
+
+51
+
+BAB IV
+HASIL DAN PEMBAHASAN
+
+A. Penyiapan Fase Gerak
+Fase gerak yang digunakan dalam penelitian adalah campuran antara
+metanol : aquabides dengan perbandingan (90:10). Campuran fase gerak ini
+bersifat polar. Pemilihan fase gerak sangat penting karena hal ini dapat
+mempengaruhi waktu retensi dan pemisahan dari komponen-komponen dalam
+sampel yang akan dianalisis. Fase diam yang digunakan adalah kolom C18 yang
+bersifat non polar sehingga sistem kromatografi yang digunakan adalah sistem
+kromatografi partisi fase terbalik. Pemilihan sistem kromatografi yang tepat dan
+sesuai dengan sampel yang dipisahkan, akan menghasilkan pemisahan yang baik.
+Berdasarkan bagan pendekatan umum dalam memilih jenis HPLC Johnson
+Stevenson (1978), dimana parasetamol memiliki BM < 2000 (yaitu 151,16), tidak
+larut dalam air, homolog, maka dipilih kromatografi partisi dengan fase diam non
+polar dan fase gerak bersifat polar. Selain itu pemilihan kondisi kromatografi juga
+didasarkan pada penuntun pemilihan kolom dan sistem HPLC menurut Gritter
+(1991) dimana kelarutan cuplikan (parasetamol) dalam pelarut organik dengan
+kepolaran yang tinggi maka dipilih kolom Oktadekil (C18) dengan sistem fase
+terbalik.
+Harapan dari pemilihan kondisi kromatografi fase terbalik ini adalah
+dapat memisahkan analit dari sampel dengan waktu analisis yang cepat (waktu
+
+51
+
+52
+
+retensi analit yang singkat) karena analit bersifat polar akan terelusi lebih cepat
+dengan fase gerak yang juga bersifat polar.
+Fase gerak dalam penelitian didasarkan pada kelarutan parasetamol yang
+besar pada etanol. Pada penelitian ini menggunakan pelarut metanol tidak etanol
+karena metanol juga dapat melarutkan parasetamol dengan baik dan metanol juga
+memiliki viskositas yang lebih rendah yaitu 0,59 cP pada suhu analisis 20ºC
+daripada etanol yaitu 1,22 cP pada suhu analisis 20ºC sehingga dengan viskositas
+yang lebih rendah dari metanol dapat mengurangi tekanan pada kolom dan pada
+akhirnya dapat meningkatkan efisiensi kolom serta mampu memisahkan
+komponen campuran dalam sampel dengan baik. Fase gerak sebelum digunakan
+harus disaring dengan penyaring Whatman ukuran pori 0,5 µm untuk
+menghilangkan partikel asing yang dapat menyebabkan penyumbatan kolom dan
+untuk menghindari adanya endapan dalam campuran sehingga kerusakan pompa
+dan kolom dapat dihindari serta kondisi injector port tetap dalam keadaan
+optimal. Setelah disaring, fase gerak di degassing selama 15 menit untuk
+menghilangkan gas-gas yang terlarut dalam fase gerak. Adanya gelembung gas ini
+akan mempengaruhi kerja dari detektor karena akan menghasilkan sinyal
+palsu/bias bahkan dengan banyaknya gelembung gas yang berukuran besar dapat
+meningkatkan tekanan kolom akibatnya efisiensi kolom dapat berkurang.
+
+53
+
+B. Optimasi Metode HPLC
+1. Penentuan panjang gelombang serapan maksimum menggunakan
+spektrofotometer ultraviolet
+Penentuan panjang gelombang serapan maksimum ini bertujuan untuk
+mendapatkan panjang gelombang serapan maksimum dari parasetamol. Analisis
+senyawa menggunakan HPLC memerlukan panjang gelombang dimana suatu
+senyawa memberikan absorbansi maksimum untuk dibaca pada detektor UV pada
+alat HPLC dimana dengan panjang gelombang maksimum parasetamol
+diharapkan semua kadar/konsentrasi parasetamol dalam sampel dapat terdeteksi
+oleh detektor UV
+Penentuan panjang gelombang serapan maksimum ini dilakukan dengan
+menggunakan konsentrasi larutan baku dengan konsentrasi 5,0 ppm dan dilakukan
+dua kali pengamatan. Perbandingan dua spektrum serapan maksimum parasetamol
+pada konsentrasi yang sama ini perlu dilakukan karena senyawa baku parasetamol
+yang dipakai adalah parasetamol kualitas working standard dimana perlu di uji
+dan di pastikan bahwa senyawa baku yang digunakan adalah benar-benar
+parasetamol dan dapat memberikan spektrum serapan maksimum yang sama pada
+konsentrasi yang ditetapkan.
+Penentuan panjang gelombang pengamatan ini dilakukan dengan
+mengukur absorbansi dari parasetamol pada panjang gelombang UV yaitu antara
+panjang gelombang 200nm-300nm. Suatu senyawa untuk dapat ditetapkan
+kadarnya secara spektrofotometri ultraviolet harus memiliki gugus kromofor dan
+auksokrom dimana kedua gugus ini yang bertanggung jawab dalam penyerapan
+
+54
+
+radiasi ultraviolet pada sampel yaitu parasetamol. Parasetamol dalam strukturnya
+memiliki gugus kromofor yang merupakan ikatan rangkap yang memiliki elektron
+π dimana elektron π ini jika dikenai sinar radiasi elektromagnetik akan mudah
+tereksitasi ke tingkat yang lebih tinggi yaitu menuju ke orbital π*. Gugus
+kromofor dari senyawa parasetamol dapat dilihat pada gambar dibawah ini
+
+Gambar 17. Gugus Kromofor Parasetamol
+Keterangan :
+
+= kromofor
+
+Selain gugus kromofor, parasetamol memiliki gugus auksokrom yang
+terikat langsung pada gugus kromofor. Gugus auksokrom memiliki pasangan
+elektron bebas pada elektron n yang dapat berinteraksi dengan elekron π pada
+kromofor.
+
+Dengan
+
+demikian,
+
+gugus
+
+auksokrom
+
+berperan
+
+dalam
+
+pengubahan/pergeseran panjang gelombang maksimum dan intensitas serapan
+maksimum dari parasetamol. Gugus auksokrom dari senyawa parasetamol dapat
+dilihat pada gambar dibawah ini :
+
+Gambar 18. Gugus Auksokrom Parasetamol
+Keterangan :
+
+=
+
+auksokrom
+
+55
+
+Dalam Farmakope Indonesia Edisi IV (1995) disebutkan bahwa
+pengujian panjang gelombang serapan maksimum mempunyai makna jika serapan
+maksimum tersebut tepat atau dalam batas 2 nm dari panjang gelombang yang
+ditentukan. Spektrum serapan yang dihasilkan oleh senyawa parasetamol dapat
+dilihat pada gambar berikut :
+
+Gambar 19. Spektrum serapan
+parasetamol (λmaks = 247,2 nm) pada
+konsentrasi 5,0 ppm replikasi 1
+
+Gambar 20. Spektrum serapan
+parasetamol (λmaks = 247,4 nm) pada
+konsentrasi 5,0 ppm replikasi 2
+
+Pelarut yang digunakan dalam seri larutan baku adalah campuran antara
+metanol : aquabides dengan perbandingan 90:10. Dalam proses scanning panjang
+gelombang parasetamol ini, pelarut baik metanol maupun aquabides tidak
+mempengaruhi hasil dari pengamatan karena panjang gelombang (λ) dari metanol
+205 nm dan aquabides 180 nm tidak berdekatan atau bertumpukan dengan
+
+56
+
+panjang gelombang maksimum teoritis dari parasetamol dengan campuran pelarut
+metanol dan aquabides yaitu 244 nm.
+Berdasarkan hasil penentuan panjang gelombang serapan maksimum
+menggunakan spektrofotometer ultraviolet dapat dilihat bahwa pada konsentrasi
+5,0 ppm replikasi 1 spektrum serapan maksimum parasetamol adalah 247,2 nm
+dan pada replikasi 2 spektrum serapan maksimum parasetamol adalah 247,4 nm.
+Pola absorbansi dari spektrum serapan yang dihasilkan dari dua kali pengamatan
+pada konsentrasi 5,0 ppm ini sama. Maka dapat di pastikan analit yang digunakan
+adalah parasetamol
+Menurut Farmakope Indonesia Edisi IV (1995), parasetamol dalam
+campuran pelarut metanol dan air memiliki serapan maksimum pada 244 nm. Dan
+pada penentuan panjang gelombang serapan parasetamol ini terdapat pergeseran
+panjang gelombang. Pergeseran ini disebabkan oleh perbandingan jumlah air dan
+metanol yang digunakan dimana dalam Farmakope Indonesia Edisis IV, jumlah
+air yang digunakan lebih banyak daripada metanol. Namun dalam penelitian,
+jumlah metanol yang digunakan lebih banyak daripada air. Selain itu
+instrumentasi yang digunakan berbeda, kualitas baku parasetamol yang
+digunakanpun juga berbeda dengan yang digunakan berdasarkan farmankope.
+Pada pergeseran λmaks parasetamol, perbandingan jumlah pelarut metanol dengan
+λ 205 nm yang lebih banyak daripada air akan menggeser λmaks teoritis dari
+parasetamol ke arah yang lebih panjang yaitu 247,4 nm.
+
+57
+
+2. Pengamatan waktu retensi dan pembutan kurva baku parasetamol
+Pada pengamatan waktu retensi dan pembutan kurva baku parasetamol,
+larutan baku parasetamol diinjeksikan pada HPLC dengan kondisi sebagai berikut:
+Instrumen
+
+: Shimadzu LC-10 AD
+
+Kolom
+
+: C18 Merek KNAUER dengan packing Kromasil 100-5
+C18 panjang kolom 25 cm, diameter internal 4,6 mm
+
+Fase gerak
+
+: metanol:aquabides (90:10)
+
+Flow rate
+
+: 1 ml/menit
+
+AUFs/Attenuation
+
+: 0,01/7
+
+Detektor
+
+: UV pada 247,4 nm
+Tujuan dari pengamatan waktu retensi (tR) dari parasetamol adalah untuk
+
+mengetahui waktu yang dibutuhkan parasetamol saat di injeksikan pada port
+injector sampai keluar dari kolom dan sinyalnya ditangkap oleh detektor. Selain
+itu pengamatan tR juga digunakan sebagai analisis kualitatif yang nantinya untuk
+mendeteksi ada tidaknya senyawa parasetamol dalam sampel.
+Dengan menggunakan sistem kromatografi di atas, pengamatan waktu
+retensi memakai seri larutan baku parasetamol dengan konsentrasi tengah yaitu
+5,0 ppm. Dipilih konsentrasi tengah karena untuk mewakili seri konsentrasi
+rendah dan tinggi dan pemilihan seri konsentrasi tengah ini hanya semata-mata
+untuk melihat tR dari parasetamol sehingga nantinya dapat digunakan untuk
+setting system pada alat HPLC yaitu stop time. Dan tR yang dihasilkan adalah
+2,5280 menit. Berikut kromatogram yang dihasilkan :
+
+58
+
+Gambar 21. Kromatogram tR larutan baku parasetamol 5,0 ppm
+
+Waktu retensi dari parasetamol dipengaruhi oleh interaksi parasetamol
+dengan fase diam dan fase geraknya atau dengan kata lain dipengaruhi oleh
+koefisien partisi dari parasetamol terhadap fase diam dan fase geraknya.
+Parasetamol memiliki sisi polar dan non polar pada strukturnya. Pada penelitian
+ini sistem kromatografi yang digunakan adalah kromatografi partisi fase terbalik
+dimana fase diam yang digunakan bersifat non polar dan fase geraknya bersifat
+polar. Oleh karena itu, senyawa yang cenderung bersifat non polar atau senyawa
+yang mempunyai banyak gugus non polar pada suatu senyawa menyebabkan
+senyawa akan lebih lama keluar dari kolom sehingga waktu retensinyapun akan
+lebih besar. Interaksi parasetamol dengan fase diam terjadi pada bagian non polar
+senyawa yaitu pada benzen. Gugus non polar parasetamol adalah sebagai berikut :
+
+59
+
+Gambar 22. Gugus non polar pada parasetamol
+
+Keterangan :
+
+= gugus non polar
+
+Parasetamol memiliki gugus non polar yaitu benzen, namun proses elusi
+juga dipengaruhi interaksi dengan fase gerak yang digunakan. Hal ini sesuai
+dengan teori koefisien partisi di mana senyawa dengan koefisien partisi kecil akan
+lebih cepat keluar dari kolom karena konsentrasi linarut dalam fase gerak lebih
+besar sehingga akan lebih cepat terelusi. Berikut kemungkinan interaksi antara
+parasetamol dengan dengan fase diam Oktadekil (C18) dan fase gerak metanol:air
+(90:10) :
+
+Interaksi Van der Waals
+
+Gambar 23. Interaksi antara gugus non polar dari parasetamol (benzen)
+dengan fase diam Oktadekil (C18)
+
+60
+
+Gambar 24. Interaksi antara gugus parasetamol dengan fase gerak campuran
+metanol:air (90:10)
+Keterangan : -------- = ikatan hidrogen
+
+Pemisahan komponen senyawa pada HPLC dipengaruhi oleh interaksi
+antara analit dengan fase diam dan fase gerak yang digunakan. Semakin
+banyaknya gugus non polar pada suatu senyawa maka senyawa tersebut terikat
+lebih kuat dengan fase diamnya yang bersifat non polar dan mengakibatkan waktu
+retensinya juga lebih panjang. Dalam penelitian ini, parasetamol lebih sedikit
+memiliki gugus non polar daripada gugus polarnya sehingga waktu retensinya
+juga lebih singkat. Interaksi parasetamol dengan fase diam merupakan ikatan van
+der Waals antara gugus non polar parasetamol yaitu benzen dengan fase diamnya
+yaitu ODS (C18).
+Hal tersebut sesuai dengan teori tentang perbandingan distribusi dimana
+kecepatan perpindahan analit melalui fase diam ditentukan oleh perbandingan
+distribusi dan besarnya distribusi ditentukan oleh afinitas pada fase diam dan fase
+geraknya. Parasetamol yang bersifat polar mempunyai perbandingan konsentrasi
+
+61
+
+yang besar terhadap fase geraknya dibandingkan dengan fase diam yang terlihat
+dengan banyaknya interaksi parasetamol dengan fase geraknya (dapat dilihat pada
+gambar 24). Sehingga dengan semakin besarnya konsentrasi solut pada fase gerak
+mengakibatkan nilai koefisien distribusi kecil, kecepatan solut semakin meningkat
+dan akibatnya waktu retensi parasetamol menjadi lebih singkat. Selain itu, waktu
+retensi parasetamol yang singkat ini juga dipengaruhi oleh kecepatan alir fase
+gerak yang cukup besar yaitu 1 ml/menit dimana dengan meningkatnya kecepatan
+alir fase gerak maka tekanan fase gerak pada kolom akan meningkat akibatnya
+waktu retensi suatu senyawa menjadi lebih singkat.
+Kurva baku parasetamol yang digunakan dalam penelitian terdiri dari 6
+seri konsentrasi yaitu 3,0 ppm; 4,0 ppm; 5,0 ppm; 6,0 ppm; 7,0 ppm; dan 8,0 ppm.
+Tiap seri konsentrasi baku parasetamol di injeksikan pada injector port di alat
+HPLC dengan sistem seperti penjelasan sebelumnya. Penggunaan pelarut fase
+gerak yang terdiri dari campuran metanol:aquabides (90:10) untuk pelarut seri
+larutan baku di dasarkan atas kelarutan parasetamol, karena salah satu syarat yang
+harus dipenuhi dalam sistem HPLC adalah pelarut dengan kemurnian yang tinggi
+yang dapat bercampur dengan sampel dan fase gerak, serta dapat melarutkan
+sampel dan mudah terelusi.
+Penentuan persamaan kura baku parasetamol dilakukan 3 kali replikasi
+dengan tujuan untuk mendapatkan persamaan kurva baku yang paling optimal.
+Persamaan kurva baku menyatakan hubungan linier antara konsentrasi dengan
+AUC dimana dengan meningkatnya konsentrasi maka akan meningkat pula AUC
+yang dihasilkan. Sebagai parameter linearitas yang menunjukkan korelasi antara
+
+62
+
+konsentrasi dengan AUC adalah koefisien korelasi (r). Ada beberapa
+pertimbangan yang diperhatikan dalam pemilihan data persamaan kurva baku
+yaitu didasarkan pada nilai r terhitung, nilai A (intersept), nilai B (slope), dan SE
+(standard error). Dalam penelitian ini, parameter utama yang dipilih adalah
+berdasarkan nilai r terhitung yang didapatkan yaitu 0,9990 dimana r yang
+didapatkan lebih besar dari nilai r linearitas analisis yaitu > 0,999 untuk minimal 6
+seri konsentrasi (APVMA, 2004). Dimana r semakin mendekati 1 menujukkan
+semakin baik linearitas persamaan yang didapat. Sehingga semakin baik
+hubungan antara peningkatan konsentrasi dengan peningkatan respon yaitu AUC.
+Berikut tabel data hasil kurva baku parasetamol dari 3x replikasi.
+Tabel VII. Data Kurva Baku Parasetamol
+
+KURVA BAKU PARASETAMOL
+Penentuan Kurva Baku 1 Penentuan Kurva Baku 2 Penentuan Kurva Baku 3
+C (ppm)
+AUC
+C (ppm)
+AUC
+C (ppm)
+AUC
+3,0720
+161038
+3,0720
+162409
+2,9730
+161024
+4,0960
+206160
+4,0960
+224116
+3,9640
+216159
+5,1200
+269864
+5,1200
+281794
+4,9550
+269657
+6,1440
+312799
+6,1440
+326443
+5,9460
+327764
+7,1680
+365354
+7,1680
+393486
+6,9370
+372567
+8,1920
+448277
+8,1920
+443562
+7,9280
+445252
+A = -13567,9800
+A = -2466,3900
+A = -7451,1133
+B = 54595,7500
+B = 54646,3200
+B = 56176,1857
+r = 0,9952
+r = 0,9990
+r = 0,9986
+Keterangan :
+
+= merupakan data kurva baku yang digunakan
+untuk menghitung kadar
+
+Dari data yang didapatkan, dapat dilihat bahwa nilai r yang diperoleh dari
+ketiga replikasi memiliki nilai koefisien korelasi (r) yang baik. Namun
+berdasarkan persyaratan koefisien korelasi (r) analisis yang dipersyaratkan yaitu
+apabila nilai r
+
+> 0,999 untuk minimal 6 seri konsentrasi (APVMA, 2004).
+
+63
+
+Sehingga persamaan kurva baku yang digunakan adalah penentuan kurva baku
+pada replikasi dua dengan persamaan kurva baku y = 54646,3200x - 2466,3900
+dengan nilai r = 0,9990
+Hal ini menunjukkan persamaan kurva baku tersebut mempunyai korelasi
+yang baik sehingga dapat digunakan untuk perhitungan kadar parasetamol.
+Berikut grafik kurva baku yang dihasilkan :
+
+Gambar 25. Kurva Baku Parasetamol C vs AUC
+
+C. Analisis Validasi Metode
+Tujuan dari validasi metode penetapan kadar parasetamol dalam jelly
+secara High Performance Liquid Chromatography (HPLC) fase terbalik
+menggunakan teknik preparasi pemanasan ini adalah untuk melihat validitas dari
+metode penetapan kadar parasetamol dalam “Jelly parasetamol” hasil formulasi.
+Validasi yang dilakukan pada penelitian ini termasuk dalam kategori I
+menurut USP 28 karena penelitian yang dilakukan merupakan metode analisis
+
+64
+
+kuantitatif yang digunakan untuk mengukur secara kuantitatif sejumlah besar
+komponen dari serbuk obat atau senyawa aktif (termasuk preservarif) dalam
+sediaan obat jadi. Jumlah parasetamol sebagai zat aktif dalam sediaan obat jadi
+cukup besar yaitu 120 mg per satuan jelly. Jadi dapat disimpulkan bahwa validasi
+yang dilakukan pada penelitian ini termasuk dalam kategori I menurut USP 28.
+Validitas metode yang digunakan pada penelitian ini ditentukan berdasarkan
+parameter akurasi, presisi, spesifikasi, linearitas, dan range.
+Menurut USP XXVIII validasi metode dilakukan minimum 9 kali
+penentuan mencakup range tertentu, misal 3 macam konsentrasi dan setiap
+konsentrasi direplikasi 3 kali (Anonim, 2000). Dalam penelitian ini digunakan 3
+macam konsentrasi yaitu konsentrasi rendah 3,0 ppm ; konsentrasi tengah 5,0 ppm
+; dan konsentrasi tinggi 8,0 ppm dan masing-masing konsentrasi di replikasi
+sebanyak 3 kali. Pemilihan konsentrasi rendah, tengah, tinggi ini adalah untuk
+mewakili keseluruhan konsentrasi yang di buat yaitu antara konsentrasi 3,0 ppm
+sampai 8,0 ppm. Berikut tabel hasil validasi metode analisis :
+
+65
+
+Tabel VIII. Data Validasi Metode Analisis
+
+Konsentrasi
+(ppm)
+
+AUC
+
+Kadar
+
+Kadar
+
+Terukur
+
+Sebenarnya
+
+(ppm)
+
+(ppm)
+
+%
+Recovery
+
+3,0 replikasi 1
+
+161038
+
+2,9920
+
+3,0720
+
+97,3958
+
+3,0 replikasi 2
+
+162409
+
+3,0171
+
+3,0720
+
+98,2129
+
+3,0 replikasi 3
+
+168561
+
+3,1297
+
+2,9730
+
+105,2708
+
+5,0 replikasi 1
+
+269864
+
+4,9835
+
+5,1200
+
+97,3340
+
+5,0 replikasi 2
+
+281794
+
+5,2018
+
+5,1200
+
+101,5977
+
+5,0 replikasi 3
+
+284849
+
+5,2577
+
+4,9550
+
+106,1090
+
+8,0 replikasi 1
+
+448277
+
+8,2484
+
+8,1920
+
+100,6885
+
+8,0 replikasi 2
+
+443562
+
+8,1621
+
+8,1920
+
+99,6350
+
+8,0 replikasi 3
+
+434112
+
+7,9892
+
+7,9280
+
+100,8737
+
+rata-rata
+Recovery
+(%)
+
+CV
+(%)
+
+100,2932
+
+4,3174
+
+101,6802
+
+4,3156
+
+100,3991
+
+0,6654
+
+1. Akurasi
+Akurasi menyatakan ukuran kedekatan nilai hasil percobaan dengan nilai
+yang sesungguhnya. Akurasi suatu metode dalam penelitian ini dinyatakan dengan
+persen recovery (% recovery)/persen perolehan kembali. Metode penentuan
+recovery yang digunakan pada penelitian ini adalah metode simulasi (spikedplacebo recovery) memberikan batasan % recovery yang diterima untuk analit
+pada matriks sampel sebesar 100% biasanya disepakati 98-102% (Harmita, 2004).
+Berikut hasil pengukuran % recovery pada 3 konsentrasi yang berbeda :
+
+66
+
+Tabel IX. Data % recovery
+
+Konsentrasi
+(ppm)
+3,0
+
+Rata-rata recovery
+(%)
+100,2932
+
+5,0
+
+101,6802
+
+8,0
+
+100,3991
+
+Hasil perhitungan data menunjukkan bahwa nilai rata-rata % recovery
+pada tiap level konsentrasi yang berbeda berada pada rentang nilai % recovery
+yang disepakati untuk analit pada matriks sampel sebesar 100% yaitu 98-102%.
+Hal ini berarti menunjukkan bahwa metode penetapan kadar parasetamol
+dalam jelly secara High Performance Liquid Chromatography (HPLC) fase
+terbalik menggunakan teknik preparasi pemanasan memiliki akurasi yang baik
+sesuai dengan yang dipersyaratkan.
+2. Presisi
+Presisi adalah suatu ukuran kedekatan nilai data satu dengan data lainnya
+dalam suatu pengukuran pada kondisi analisis yang sama. Presisi seringkali
+diukur sebagai persen Relative Standard Deviation (RSD) atau Coefficient of
+Variation (CV) untuk sejumlah sampel yang berbeda bermakna secara statistik.
+Kriteria presisi diberikan jika metode memberikan nilai CV 2% atau kurang.
+(Harmita ,2004). Berikut hasil pengukuran CV pada 3 konsentrasi yang berbeda :
+
+67
+
+Tabel X. Data CV
+
+Konsentrasi
+(ppm)
+3,0
+
+CV
+(%)
+4,3174
+
+5,0
+
+4,3156
+
+8,0
+
+0,6654
+
+Dari data dan perhitungan yang telah dilakukan, diperoleh nilai CV yang
+berbeda tiap level konsentrasinya. Nilai CV dari level konsentrasi tinggi
+merupakan nilai CV yang baik dan sudah sesuai dengan nilai CV yang
+dipersyaratkan yaitu 2% atau kurang. Namun pada level konsentrasi rendah (3,0
+ppm) dan level konsentrasi tengah (5,0 ppm) CV yang didapatkan sebesar
+4,3174% dan 4,3156% dan tidak memenuhi persyaratan yang berlaku.
+Sehingga bisa disimpulkan bahwa hanya pada level konsentrasi tinggi
+(8,0 ppm), metode penetapan kadar parasetamol memiliki presisi/keterulangan
+data yang baik.
+3. Spesifisitas
+Spesifitas menyatakan kemampuan metode penetapan kadar parasetamol
+dalam jelly menggunakan metode preparasi pemanasan untuk mengukur dengan
+akurat respon analit parasetamol di antara seluruh komponen sampel yang ada
+dalam campuran sampel. Cara menganalisis hasil dari parameter spesifisitas pada
+metode validasi penetapan kadar parasetamol menggunakan metode HPLC fase
+terbalik dalam penelitian ini adalah dengan membandingkan data tR dari baku dan
+data tR dari sampel dalam campuran pada kondisi sistem HPLC yang sama.
+Perbandingan pengamatan waktu retensi seri larutan baku parasetamol dengan
+sampel dapat dilihat pada tabel XI.
+
+68
+
+Tabel XI.
+
+Perbandingan pengamatan waktu retensi seri larutan baku parasetamol
+dengan sampel
+
+Seri larutan
+baku
+parasetamol
+1.
+2.
+3.
+4.
+5.
+6.
+
+Konsentrasi
+seri larutan
+baku
+parasetamol
+(ppm)
+3,0720
+4,0960
+5,1200
+6,1440
+7,1680
+8,1920
+Rata-rata tR
+baku
+Rata-rata tR
+sampel
+
+tR
+seri larutan
+baku
+parasetamol
+(menit)
+2,5320
+2,5330
+2,5280
+2,5250
+2,5250
+2,5250
+2,528
+2,543
+
+Sampel
+
+tR
+sampel
+(menit)
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+2,5470
+2,5450
+2,5480
+2,5420
+2,5430
+2,5420
+2,5420
+2,5390
+2,5380
+2,5390
+
+. Dari data yang didapat bahwa rata-rata tR dari 6 konsentrasi larutan
+baku parasetamol adalah 2,528 menit, sedangkan rata-rata tR dari 10 sampel
+adalah 2,543 menit. tR dapat digunakan sebagai parameter penentuan spesifisitas
+karena tR merupakan parameter analisis kualitatif suatu senyawa dalam campuran
+sampel pada metode HPLC. Analisis kualitatif ini juga dapat digunakan pula
+sebagai salah satu cara untuk menganalisis parameter validitas yaitu spesifisitas.
+Berikut penjelasan mengenai perbandingan tR antara larutan seri baku
+parasetamol konsentrasi 8,0 ppm dan sampel pada replikasi 6 dengan konsentrasi
+7,4587 ppm adalah sebagai berikut :
+
+69
+
+Gambar 26. tR seri baku parasetamol konsentrasi 8,0 ppm = 2, 525 menit
+
+Gambar 27. tR sampel replikasi 6 dengan konsentrasi 7,4587 ppm = 2, 542 menit
+
+Dari dua perbandingan antara larutan seri baku 8,1920 ppm tR = 2,525
+menit dan sampel replikasi 6 dengan konsentrasi 7,4587 ppm tR = 2,542 menit
+ternyata memberikan hasil tR yang relatif sama. Selain membandingkan tR antara
+sampel dengan baku, untuk mengetahui spesifisitas dari metode juga dapat
+membandingkan antara kromatogram sampel tanpa analit dengan kromatogram
+sampel dengan analit yang dapat dilihat pada gambar 28 dan 29.
+
+70
+
+Gambar 28. Kromatogram sampel replikasi 6 dengan konsentrasi 7,4587 ppm
+
+Gambar 29. Kromatogram sampel tanpa analit parasetamol
+
+Dari Gambar 28 dapat dijelaskan bahwa dengan adanya analit dalam
+sampel maka akan terdeteksi pula adanya peak dari analit parasetamol. Berbeda
+dengan Gambar 29 dimana dengan tidak adanya analit dalam sampel maka tidak
+akan terdeteksi pula adanya peak dari analit parasetamol
+Sehingga dari data ini dapat di simpulkan bahwa metode penetapan kadar
+parasetamol dalam jelly menggunakan teknik preparasi pemanasan dapat dengan
+
+71
+
+akurat, cermat dan seksama mengukur respon analit parasetamol dalam campuran
+senyawa pada sampel.
+4. Linearitas
+Linearitas
+
+suatu
+
+metode
+
+analitik
+
+adalah
+
+kemampuannya
+
+untuk
+
+memperoleh hasil uji yang proporsional dengan konsentrasi analit pada sampel
+yang dinyatakan dengan koefisien korelasi (r). Linearitas yang baik ialah nilai r
+yang lebih besar dari 0,999 untuk minimal 6 seri konsentrasi (Anonim, 2008).
+Dari data yang didapatkan, dapat dilihat bahwa nilai r yang diperoleh dari
+kurva baku pada replikasi kedua memiliki nilai koefisien korelasi (r) yang baik.
+berdasarkan persyaratan koefisien korelasi (r) untuk analisis yang di persyaratkan
+untuk minimal 6 seri konsentrasi) yaitu 0,99905. Sehingga dapat disimpulkan
+bahwa terdapat hubungan linier antara konsentrasi dengan AUC dimana dengan
+meningkatnya konsentrasi maka akan meningkat pula respon dalam bentuk AUC
+yang dihasilkan.
+5. Range
+Untuk parameter range tidak dapat dilakukan karena membutuhkan studi
+interlaboratorium yang tidak mungkin dilakukan dalam penelitian.
+Nilai dari parameter-parameter validasi yang telah dihasilkan dalam
+penelitian ini sangat ditentukan oleh beberapa hal diantaranya adalah preparasi
+sampel dan kondisi instrumen yang digunakan. Tahap preparasi sampel menjadi
+tahap yang penting karena tahap preparasi yang cukup panjang akan berpotensi
+menurunkan kualitas parameter validasi khususnya akurasi dan presisi. Apalagi
+preparasi sampel pada penelitian ini menggunakan pemanasan yang berpotensi
+
+72
+
+menyebabkan degradasi dari senyawa uji yaitu parasetamol. Untuk kondisi
+instrumen juga menentukan hasil dari nilai parameter validasi dimana instrumen
+yang dipakai harus terkalibrasi dengan pedoman standar yang berlaku dan
+dilakukan uji secara berkala. Sehingga secara keseluruhan, metode penetapan
+kadar parasetamol menggunakan sistem HPLC fase terbalik yang digunakan
+mempunyai validitas yang baik.
+
+D. Penetapan Kadar Parasetamol dalam Jelly
+Berdasarkan hasil validasi metode penetapan kadar parasetamol,
+pengukuran konsentrasi sampel dibuat pada kadar tinggi yaitu 8,0 ppm yang
+menghasilkan % recovery rata-rata 100,3991% dan CV 0,6654% dimana dalam
+konsentrasi tinggi 8,0 ppm ini dapat meminimalkan pengenceran dan
+meminimalkan hilangnya analit selama preparasi sampel yang cukup panjang
+sehingga sensitivitas pengukuran tetap dapat terjaga dengan baik.
+1. Pembuatan jelly parasetamol
+Dalam pembuatan jelly, terdapat pencampuran antara jelly dengan
+parasetamol. Suhu pencampuran di kontrol yaitu <50°C karena berdasarkan
+penelitian Novianti (2004) penurunan kadar parasetamol terbesar terjadi pada
+suhu diatas 60 oC. Sampel yang telah dibuat segera dianalisis.
+2. Penyiapan Sampel
+Pada penelitian ini sampel yang digunakan merupakan bentuk sediaan gel
+parasetamol oral (jelly). Prinsip pengambilan sampel yang dipilih adalah secara
+random (cuplikan random, cuplikan acak) dimana cara pengambilan sampel ini
+
+73
+
+harus terlebih dulu digerus secara homogen terlebih dahulu (untuk tablet), baru
+dilakukan pengambilan sampel satu per satu secara random (Rohman, 2009).
+Dipilih prinsip pengambilan sampel secara random agar jumlah analit yaitu
+parasetamol bisa diketahui secara pasti tiap kemasannya (tiap cup jelly) dan untuk
+melihat nilai % recovery tiap kemasannya. Sampel yang diambil sebanyak 10
+karena disesuaikan dengan jumlah sampel minimal untuk analisis yaitu minimal 3
+replikasi. Tujuan lain dipilihnya jumlah sampel 10 adalah untuk menjamin
+repeatability
+
+(keterulangan),
+
+representatif,
+
+dan
+
+kehomogenan
+
+sampel.
+
+Representatif berarti pengambilan 10 sampel mewakili populasi sampel yang ada,
+dan persyaratan homogen dalam sampling ini terletak pada proses penimbangan
+sampel satu per satu yang dilakukan di timbangan analitik, serta jelly dibuat dalam
+sekali jadi.
+3. Destruksi sampel dan Isolasi analit dari sampel
+Karagenin dapat larut dalam air karena adanya ikatan hidrogen. Setelah
+terbentuk gel dimana air terjebak di dalam struktur karagenin membentuk struktur
+house of card, sifat karagenin yang terbentuk menjadi agregat-agregat double
+helix (pilinan ganda) yang tidak larut air karena sistem gel yang sudah memadat
+dan bobot molekulnya yang tinggi.
+Gelling agent yaitu kappa-karaginan merupakan fraksi yang mampu
+membentuk gel dalam air (hidrogel) dan bersifat reversibel yaitu meleleh jika
+dipanaskan dan membentuk gel kembali jika didinginkan (Thomas, 1992).
+Pemanasan digunakan untuk memberikan energi tambahan karena
+dengan meningkatnya suhu pada sistem menyebabkan jumlah tumbukan antara
+
+74
+
+partikel-partikel
+
+solid
+
+dengan
+
+molekul-molekul
+
+air
+
+bertambah
+
+banyak,
+
+menyebabkan lepasnya polimer menjadi monomer-monomer pada permukaan
+koloid (Sugianto, 2006). Sehingga teknik preparasi sampel yang digunakan adalah
+suhu terkontrol 50ºC selama 30 menit dengan pengadukan menggunakan stirer
+pada kecepatan 500 rpm. Pemilihan suhu terkontrol 50ºC selama 30 menit ini
+didasarkan dari penelitian Tamara K.I., (2009) mengenai Optimasi suhu dan
+waktu pemanasan pada proses preparasi jelly dengan aplikasi design faktorial.
+Dalam preparasi sampel, destruksi gelling agent perlu dilakukan karena bentuk
+sediaan berupa sediaan semi padat yang harus diubah wujudnya menjadi larutan
+jernih yang nanti siap untuk diinjeksikan, karena salah satu persyaratan analit
+yang dapat diinjeksikan ke dalam port injector dan dianalisis menggunakan HPLC
+adalah analit berupa cairan yang jernih dan terbebas dari endapan dan partikel
+besar.
+Pemanasan menyebabkan rusak atau terbongkarnya ikatan silang (cross
+link) antar rantai polimer gelling agent karagenin sehingga akan mengakibatkan
+polimer karaginan dalam larutan menjadi random coil (acak) dengan lepasnya
+ikatan glikosidik α-1,3 dan β-1,4 secara bergantian (FMC Corp 1977)
+menyebabkan susunan molekul polimer mengalami perubahan dan bahkan rusak
+menjadi unit-unit monomer D-galaktosa 4-sulfat dan 3,6-anhidro-D-galaktosa.
+Sehingga dengan penambahan air dalam preparasi sampel menyebabkan
+parasetamol dalam media air dalam matrix tiga dimensi keluar dan ikut terlarut
+bersama media air. Suhu pemanasan yang terkontrol ini diharapkan tidak
+
+75
+
+menyebabkan penurunan kadar parasetamol. Berikut perkiraan mekanisme
+destruksi gelling agent dengan pemanasan :
+
+Gambar 30. Mekanisme destruksi gelling agent dengan pemanasan
+Keterangan : -------- = ikatan hidrogen
+..........x = gugus yang berinteraksi dengan
+gugus polar pada molekul air
+
+Untuk meratakan pemanasan dan destruksi gelling agent agar lebih
+homogen maka pada proses pemanasan ini juga dilakukan agitasi/pengadukan
+pada sistem menggunakan magnetic stirrer pada kecepatan 500 rpm. Kecepatan
+pengadukan menggunakan kecepatan 500 rpm didapat dari hasil optimasi
+pengadukan dimana dengan mengatur pada kecepatan pengadukan 500 rpm dapat
+membantu proses homogenisasi panas sehingga menyebabkan perusakan matrix
+gel yang lebih merata. Dalam penetapan kadar, karagenin tidak terdeteksi oleh
+detektor UV pada sistem HPLC karena monomer dari karagenin yaitu D-galaktosa
+4-sulfat dan 3,6-anhidro-D-galaktosa merupakan karbohidrat yang tidak
+mempunyai gugus kromofor dan auksokrom pada strukturnya sehingga
+karbohidrat tidak menyerap sinar UV.
+Analit berupa larutan yang telah diubah konsitensinya tersebut
+selanjutnya di injeksikan dalam HPLC yang digunakan untuk menetapkan kadar
+
+76
+
+parasetamol menggunakan metode HPLC fase terbalik. Berdasarkan pengukuran
+dan perhitungan maka diperoleh kadar rata-rata dari 10 sampel yang dianalisis
+adalah 111,1855 mg dengan range % recovery sampel 92,3998-97,1164%.
+Akurasi untuk kadar obat yang lebih besar biasanya disepakati 95-105% (Mulja
+dan Hanwar, 2003). Hanya terdapat lima sampel yang memenuhi parameter
+akurasi yang disepakati, yaitu sampel replikasi 1, 2, 7, 8, dan 10. Data pengukuran
+dan perhitungan kadar parasetamol disajikan dalam tabel XII.
+Tabel XII. Hasil pengukuran kadar parasetamol
+
+Sampel
+replikasi
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Kadar sampel
+terukur
+(mg)
+116,3455
+108,6091
+115,3910
+106,6561
+113,0955
+104,4106
+108,3555
+113,2177
+115,3273
+110,4470
+SD
+X
+CV
+
+Recovery
+sampel
+(%)
+97,1164
+96,1142
+94,9720
+94,8897
+93,6996
+92,3998
+95,8050
+95,9472
+94,5306
+95,2130
+
+= 4,0940
+= 111,1855 mg
+= 3,6821%
+
+Kemungkinan penyimpangan hasil % recovery dari beberapa sampel
+yang di uji ini dapat disebabkan oleh proses preparasi yang cukup panjang
+sehingga menyebabkan kadar parasetamol dalam sampel dapat berkurang.
+Hal-hal yang perlu diperhatikan yang dapat menjadi faktor penting dalam
+validasi metode analisis dan penetapkan kadar parasetamol dalam jelly adalah
+
+77
+
+proses penimbangan tiap-tiap analit yang akan dicampurkan ke dalam sediaan
+menggunakan timbangan yang sesuai dan terkalibrasi, ketepatan pemilihan
+instrumen analitik dan juga ketelitian dalam menggunakan instrumen analitik
+tersebut, serta mengontrol dengan cermat dan teliti suhu pemanasan untuk
+mendestruksi jelly dan putaran magnetic stirrer yang digunakan.
+
+78
+
+BAB V
+KESIMPULAN DAN SARAN
+
+A. Kesimpulan
+1. Penetapan kadar parasetamol dalam jelly secara High Performance Liquid
+Chromatography (HPLC) fase terbalik menggunakan teknik preparasi
+pemanasan memiliki akurasi, presisi, spesifisitas, dan linearitas yang baik
+sesuai dengan yang dipersyaratkan.
+2. Rata-rata kadar parasetamol dalam jelly adalah 111,1855 mg
+
+B. Saran
+1. Penelitian ini perlu dilanjutkan dengan uji stabilitas sediaan jelly parasetamol
+menggunakan metode High Performance Liquid Chromatography (HPLC)
+fase terbalik menggunakan teknik preparasi pemanasan
+2. Penelitian ini juga perlu dilanjutkan dengan uji disolusi bentuk sediaan jelly
+yang mengandung zat aktif parasetamol untuk melihat profil kelarutan obat
+dalam cairan fisiologis.
+
+78
+
+79
+
+DAFTAR PUSTAKA
+
+Allen, L.V., 2002, The Art, Science, and Technology of Pharmaceutical
+Compounding, 2nd ed, 301-303, American Pharmaceutical Association,
+Washington, D.C.
+Angka SL, Suhartono TS. 2000. Bioteknologi Hasil Laut. Bogor: Pusat Kajian
+Sumber Daya Pesisir dan Lautan. Institut Pertanian Bogor, 49-56
+Anonim, 1990, The HPLC Applications Book Volume I, 3-6, Hewlett Packard,
+California USA
+Anonim, 1995, Farmakope Indonesia, Edisi. IV, 50, 649-650, Departemen
+Kesehatan Indonesia, Jakarta
+Anonim, 2005, The United States Pharmacopeia 28th edition, 2748-2751, United
+States Pharmacopeial Convention, Inc., Rockville
+Anonim, 2009 a, Azoubine, www.Wikipedia.com, diakses tanggal 29 Agustus
+2009
+Anonim, 2009 b, Konnyaku, Makanan Kaya Serat, http: // berani.co.id /
+Artikel_Detail. Aspx, di akses tanggal 27 Oktober 2009
+APVMA, 2004, Guidelines for The Validation of Analytical Methods for Active
+Constituent, Agricultural, and Veterinary Chemical Products, APVMA,
+http://www.apvma.gov.au, diakses tanggal 5 Juni 2009
+Arisandi, W.S, 2008, Pengaruh pH Terhadap Stabilitas Sirup Parasetamol,
+Skripsi, xiv, Universitas Islam Indonesia, Yogyakarta
+Barry, B. W., 1983, Dermatological Formulation, 300-304, Marcel Dekker Inc.,
+New York
+Buchmann, S., in Barel, O.A., Paye, and M., Maibach H. I., 2001, Handbook of
+Cosmetic Science and Technology, 156, Marcel Dekker inc., United Stated
+of America.
+Clarke, E.G.C., 1986, Isolation and Identification of Drugs, 2nd edition, 234, 465,
+538, The Pharmaceutical Press, London
+Connors, K.A., Amidon, G.L. and Stella, V.J., 1986, Chemical Stability of
+Pharmaceutical, John Willey and Sons, New York, 3-26, 163-168.
+
+80
+
+cP Kelco Aps. 2007, Carrageenan. Denmark. http://www.cPKelco.com, di akses
+tanggal 15 Agustus 2009
+Evimeinar, 2006, Konyaku a.k.a Iles-iles, www.multiply.com, di akses tanggal 27
+Oktober 2009
+Fardiaz D. 1989. Hidrokoloid. Buku dan Monograf. Laboratorium Kimia dan
+Biokimia Pangan. Bogor: Pusat Antar Universitas Pangan dan Gizi Institut
+Pertanian Bogor. hlm 13-175.
+Fessenden dan Fessenden, 1997, Kimia Organik, edisi IV, jilid 2, Diterjemahkan
+oleh Aloysus Hadyana Pudjaatmaka, 436-443, Penerbit Erlangga, Jakarta
+Glicksman M. 1969. Gum Technology in the Food Industr, 214- 224, New
+York:.Academic Press
+Gritter,R.J,dkk,1991, Pengantar Kromatografi diterjemahkan oleh Kosasih
+Padmawinata, edisi II, 192, 200, 205-206, ITB, Bandung
+Handajani D., Kusumawardini W., Suryanto B., 2006, Jeli Mengkonsumsi Jelly,
+http://www.ayahbunda.com, diakses tanggal 7 Februari 2009
+Harmita, 2004, Petunjuk Pelaksanaan Validasi Metode dan
+Perhitungannya, 5-25, Departemen Farmasi FMIPA UI, Depok
+
+Cara
+
+Hendayana, S., 2006, Kimia Pemisahan Metode Kromatografi dan Elektroforesis
+Modern, 21-25, PT Remaja Rosdakarya, Bandung
+Imeson A. 2000. Carrageenan. Di dalam: Phililps GO, Williams PA (editors). Handbook
+of Hydrocolloids. 87 – 102, Wood head Publishing. England
+
+Johnson, E.L., dan Stevenson, R., 1978, Basic Liquid Chromatography,
+diterjemahkan oleh Kosasih Padmawinata, 6, 9, 22, ITB, Bandung
+Kastanya, Y, 2009, Jelly, http://www. WordPress.com, diakses tanggal 7 Februari
+2009
+Lachman, L., Lieberman, H. A., Kanig, J. L., 1986, Teori dan Praktek Farmasi
+Industri, Edisi ketiga, diterjemahkan oleh: Suyatmi, S., 760-779, 1514 –
+1587, Penerbit Universitas Indonesia, Jakarta
+Moirano AL. 1977. Sulphated Seaweed Polysaccharides In Food Colloids.
+Graham MD (editor), 347 – 381, The AVI Publishing Company Inc.
+Westpoint Connecticut.
+
+81
+
+Mulja,M. dan Hanwar, D., 2003, Prinsip-Prinsip Cara Berlaboratorim yang Baik
+(Good Laboratory Practise), Majalah Farmasi Indonesi Airlangga, Vol.III,
+No.2, 71-76, Universitas Airlangga Press, Surabaya
+Mulja,M. dan Suharman, 1995, Analisis Instrumental, 6-11,26,31,34 Universitas
+Airlangga, Surabaya
+Novianti, P, 2004, Pengaruh Suhu Terhadap Stabilitas Sirup Parasetamol Paten,
+Fakultas Farmasi Universitas Muhamadiyah Surakarta, Surakarta
+Putra, E.D.L., 2004, Kromatografi Cair Kinerja Tinggi Dalam Bidang Farmasi,
+Fakultas Farmasi Universitas Sumatra Utara, 2, 5-8
+Rahardja, Drs. K., 2007, Obat-Obat Penting, edisi IV, 318, PT Elex Media
+Komputindo, Jakarta
+Rohman, A., 2009, Kromatografi Untuk Analisis Obat, 5-15, Graha Ilmu,
+Yogyakarta
+Roth, J.H., Blaschke, G.,1994, Analisis Farmasi, Cetakan kedua, Diterjemahkan
+oleh Sarjono Kisman dan Slamet Ibrahim, 367,374, Gadjahmada
+University Press, Yogyakarta
+Sastrohamidjojo, 2002, Kromatografi, edisi kedua, 71, Liberty, Yogyakarta
+Schinner,R.E.,1982, Modern Methods of Pharmaceutical of Analysis, 1st edition,
+56-58., CRC Press Inc, Florida
+Snyder, I.R., dkk, 1997, Practical HPLC Method Development, 2nd ed., 208-209,
+252, 695-697, John Willey & Sons Inc., New York
+Sugianto, N, 2006, Pengertian dan Jenis-jenis Koloid, http://www.bloggs.com,
+diakses tanggal 7 Februari 2009
+Swarbick, J., and Boylan, J.C., 1992, Encyclopedia of Pharmaceutical
+Technology, jilid 15, 415, Marcel-Dekker Inc., New York
+Tanu,
+
+Ian.dkk, 1985,
+Gramedia,Jakarta
+
+Farmakologi
+
+dan
+
+Terapi
+
+edisi
+
+IV,
+
+488-489,
+
+Towle GA. 1973. Carrageenan. Di dalam: Whistler RL (editor), 83 – 114,
+Industrial Gums. Second Edition. New York: Academik Press
+Wilmana, P.F., 1995, Analgesik-Antipiretik Analgesik Anti-Inflamasi Nonsteroid
+dan Obat Pirai, dalam Ganiswara, E., (ed), Farmakologi dan Terapi, Edisi
+
+82
+
+4, 213-215, Bagian Farmakologi Fakultas Kedokteran Universitas
+Indonesia, Jakarta
+Widyaningtyas Y., Kuncoro K.B., Rahayu V.D., Octa F.D.R., Ramdani E.D.,
+Formulasi dan Penetapan Kadar Sediaan Parasetamol Dalam Bentuk
+Jelly untuk meningkatkan Kepatuhan Anak Minum Obat, Fakultas Farmasi
+Universitas Sanata Dharma, Yogyakarta
+Zatz, J,L., and Kushla, G.P., 1996, Gels, in Lieberman, H.A., Rieger, M.M., and
+Banker, G.S., Pharmaceutical Dosage Forms Disperse Systems, Volume
+2, 2nd edition, Marcel Dekker, Inc., USA
+
+83
+
+84
+
+Lampiran 1. Sertifikat Analisis Parasetamol
+
+85
+
+Lampiran 2. Kemasan jelly (Nutrijel)
+
+86
+
+Lampiran 3. Data Penimbangan Baku Parasetamol
+Berat (gram)
+Replikasi
+Kertas kosong
+
+Kertas + zat
+
+Kertas + sisa
+
+zat
+
+1.
+
+0,3399
+
+0,35014
+
+0,3399
+
+0,01024
+
+2.
+
+0,3340
+
+0,34444
+
+0,3442
+
+0,01024
+
+3.
+
+0,23911
+
+0,24916
+
+0,23925
+
+0,00991
+
+87
+
+Lampiran 4.
+
+Skema pembuatan larutan baku parasetamol dan contoh
+perhitungan kadar larutan baku yang digunakan
+
+a. Skema pembuatan
+Timbang kurang lebih seksama 10 mg parasetamol
+Larutkan dalam fase gerak metanol : aquabides (90 : 10) ad 10,0 ml (larutan stok)
+Pipet larutan stok sebanyak 0,5 ml dan encerkan dengan fase gerak hingga
+volumenya tepat 50,0 ml (larutan intermediet)
+Pipet larutan intermediet sebanyak 3,0 ml, 4,0 ml, 5,0 ml, 6,0 ml , 7,0 ml, 8,0 ml
+Encerkan dengan fase gerak ad 10,0 ml
+b. Perhitungan seri baku parasetamol (hasil dari penentuan kurva baku ke-2)
+Bobot parasetamol hasil penimbangan = 0,01024 g = 10,2400 mg
+Kadar parasetamol dalam larutan stok = 10,2400 mg/10ml = 1024 ppm
+Kadar parasetamol dalam larutan Æ
+intermediet
+
+V1 x C1 = V2 x C2
+0,5ml x 1024 ppm = 50 ml x C2
+C2 = 10,2400 ppm
+(LarutanA)
+
+88
+
+Seri larutan baku parasetamol
+
+Seri
+
+Volume
+
+Kadar
+
+pemipetan
+(ml)
+
+1
+
+3,0
+
+2
+
+4,0
+
+3
+
+5,0
+
+4
+
+6,0
+
+5
+
+7,0
+
+6
+
+8,0
+
+Perhitungan kadar parasetamol
+
+89
+
+Lampiran 5. Kromatogram Larutan Baku Parasetamol
+Instrumen
+Kolom
+Fase gerak
+Flow rate
+AUFs/Attenuation
+Detektor
+
+: Shimadzu LC-10 AD
+: C18 Merek KNAUER dengan packing Kromasil 100-5
+C18 panjang kolom 25 cm, diameter internal 4,6 mm
+: metanol:aquabides (90:10)
+: 1 ml/menit
+: 0,01/7
+: UV pada 247,4 nm
+
+1. Kromatogam Larutan Baku parasetamol 3,0 ppm
+
+90
+
+2. Kromatogam Larutan Baku parasetamol 4,0 ppm
+
+91
+
+3. Kromatogam Larutan Baku parasetamol 5,0 ppm
+
+92
+
+4. Kromatogam Larutan Baku parasetamol 6,0 ppm
+
+93
+
+5. Kromatogam Larutan Baku parasetamol 7,0 ppm
+
+94
+
+6. Kromatogam Larutan Baku parasetamol 8,0 ppm
+
+95
+
+Lampiran 6. Data Penentuan Kurva Baku Parasetamol
+KURVA BAKU PARASETAMOL
+Penentuan Kurva Baku 1
+C
+
+AUC
+
+(ppm)
+
+Penentuan Kurva Baku 2
+C
+
+AUC
+
+(ppm)
+
+Penentuan Kurva Baku 3
+C
+
+AUC
+
+(ppm)
+
+3,0720
+
+161038
+
+3,0720
+
+162409
+
+2,9730
+
+161024
+
+4,0960
+
+206160
+
+4,0960
+
+224116
+
+3,9640
+
+216159
+
+5,1200
+
+269864
+
+5,1200
+
+281794
+
+4,9550
+
+269657
+
+6,1440
+
+312799
+
+6,1440
+
+326443
+
+5,9460
+
+327764
+
+7,1680
+
+365354
+
+7,1680
+
+393486
+
+6,9370
+
+372567
+
+8,1920
+
+448277
+
+8,1920
+
+443562
+
+7,9280
+
+445252
+
+A = -13567,9800
+
+A = -2466,3900
+
+A = -7451,1133
+
+B = 54595,7500
+
+B = 54646,3200
+
+B = 56176,1857
+
+r = 0,9990
+
+r = 0,9986
+
+r = 0,9952
+
+96
+
+Lampiran 7. Data Validasi Metode
+
+Konsentrasi
+(ppm)
+
+AUC
+
+Kadar
+
+Kadar
+
+Terukur
+
+Sebenarnya
+
+(ppm)
+
+(ppm)
+
+%
+Recovery
+
+3,0 replikasi 1
+
+161038
+
+2,9920
+
+3,0720
+
+97,3958
+
+3,0 replikasi 2
+
+162409
+
+3,0171
+
+3,0720
+
+98,2129
+
+3,0 replikasi 3
+
+168561
+
+3,1297
+
+2,9730
+
+105,2708
+
+5,0 replikasi 1
+
+269864
+
+4,9835
+
+5,1200
+
+97,3340
+
+5,0 replikasi 2
+
+281794
+
+5,2018
+
+5,1200
+
+101,5977
+
+5,0 replikasi 3
+
+284849
+
+5,2577
+
+4,9550
+
+106,1090
+
+8,0 replikasi 1
+
+448277
+
+8,2484
+
+8,1920
+
+100,6885
+
+8,0 replikasi 2
+
+443562
+
+8,1621
+
+8,1920
+
+99,6350
+
+8,0 replikasi 3
+
+434112
+
+7,9892
+
+7,9280
+
+100,8737
+
+rata-rata
+Recovery
+(%)
+
+CV
+(%)
+
+100,2932
+
+4,3174
+
+101,6802
+
+4,3156
+
+100,3991
+
+0,6654
+
+97
+
+Lampiran 8. Kromatogram Validasi Metode
+Instrumen
+Kolom
+Fase gerak
+Flow rate
+AUFs/Attenuation
+Detektor
+
+: Shimadzu LC-10 AD
+: C18 Merek KNAUER dengan packing Kromasil 100-5
+C18 panjang kolom 25 cm, diameter internal 4,6 mm
+: metanol:aquabides (90:10)
+: 1 ml/menit
+: 0,01/7
+: UV pada 247,4 nm
+
+1. Kromatogram Validasi Metode Larutan Parasetamol 3,0 ppm replikasi 1
+
+98
+
+2. Kromatogram Validasi Metode Larutan Parasetamol 3,0 ppm replikasi 2
+
+99
+
+3. Kromatogram Validasi Metode Larutan Parasetamol 3,0 ppm replikasi 3
+
+100
+
+4. Kromatogram Validasi Metode Larutan Parasetamol 5,0 ppm replikasi 1
+
+101
+
+5. Kromatogram Validasi Metode Larutan Parasetamol 5,0 ppm replikasi 2
+
+102
+
+6. Kromatogram Validasi Metode Larutan Parasetamol 5,0 ppm replikasi 3
+
+103
+
+7. Kromatogram Validasi Metode Larutan Parasetamol 8,0 ppm replikasi 1
+
+104
+
+8. Kromatogram Validasi Metode Larutan Parasetamol 8,0 ppm replikasi 2
+
+105
+
+9. Kromatogram Validasi Metode Larutan Parasetamol 8,0 ppm replikasi 3
+
+106
+
+Lampiran 9. Data Penimbangan Sampel Parasetamol
+Sampel
+
+Berat (gram)
+Kertas kosong
+
+Kertas + zat
+
+Kertas + sisa
+
+zat
+
+1.
+
+0,1843
+
+0,3043
+
+0,1845
+
+0,1198
+
+2.
+
+0,1833
+
+0,2970
+
+0,1840
+
+0,1130
+
+3.
+
+0,1875
+
+0,3094
+
+0,1879
+
+0,1215
+
+4.
+
+0,1858
+
+0,2985
+
+0,1861
+
+0,1124
+
+5.
+
+0,1853
+
+0,3063
+
+0,1856
+
+0,1207
+
+6.
+
+0,1899
+
+0,3032
+
+0,1902
+
+0,1130
+
+7.
+
+0,1894
+
+0,3028
+
+0,1897
+
+0,1131
+
+8.
+
+0,1869
+
+0,3051
+
+0,1871
+
+0,1180
+
+9.
+
+0,1833
+
+0,3055
+
+0,1835
+
+0,1220
+
+10.
+
+0,1902
+
+0,3064
+
+0,1904
+
+0,1160
+
+107
+
+Lampiran 10. Skema pembuatan sampel dan contoh perhitungan kadar
+Parasetamol
+a. Skema pembuatan
+Larutkan sampel (jelly parasetamol) ke dalam beaker glass berisi 100 ml
+aquabides panas pada suhu 50ºC
+Destruksi sistem gel dilakukan pada suhu terkontrol 50ºC selama 30 menit, di
+lakukan di atas heater listrik, dan di bantu dengan pengadukan menggunakan
+magnetic stirrer dengan kecepatan 500 rpm
+(Larutan induk sampel)
+Pipet larutan induk sampel sebanyak 0,5 ml
+Encerkan dengan fase gerak ad 50,0 ml (Larutan intermediet sampel)
+Ambil 6,6 ml larutan intermediet sampel dengan menggunakan buret 10 ml
+Encerkan dengan fase gerak ad 10,0 ml (Analit)
+Saring analit dengan miliphore ukuran pori 0,45 μm
+Analit yang sudah di saring, di degassing menggunakan ultrasonikator selama 15
+menit
+Injeksikan pada HPLC
+
+108
+
+b. Contoh perhitungan kadar parasetamol dalam simulasi sampel
+1. Kadar sebenarnya/teoritis parasetamol dalam simulasi sampel (di simulasikan
+sampel 1)
+Berat penimbangan parasetamol = 0,1198 gram = 119,8 mg
+Di larutkan dalam 100,0 ml aquabides (Larutan induk sampel).
+kadar parasetamol dalam Larutan induk sampel :
+
+Memipet 0,5 ml Larutan induk sampel di encerkan dalam 50,0 ml fase gerak ad
+hingga batas (Larutan intermediet sampel) dan Ambil 6,6 ml larutan intermediet
+sampel menggunakan buret 10 ml, encerkan dengan fase gerak ad 10,0 ml
+(Analit).
+kadar parasetamol dalam analit :
+
+2. Kadar parasetamol terukur dalam jelly hasil penelitian pada simulasi sampel (di
+simulasikan sampel 1)
+Nilai AUC dari masing-masing larutan sampel hasil penelitian di
+masukkan ke dalam persamaan kurva baku parasetamol yang diperoleh dengan
+nilai koefisien korelasi (r) terbaik yaitu pada penentuan kurva baku ke dua dengan
+persamaan kurva baku parasetamol y = 54646,32x – 2466,39
+
+109
+
+Contoh :
+Nilai AUC sampel 1 adalah 417154
+Persamaan kurva baku parasetamol {AUC vs Konsentrasi (ppm)} adalah y =
+54646,32x – 2466,39. Untuk perhitungan kadar parasetamol dalam sampel adalah
+:
+y = 417154
+y = 54646,32x – 2466,39
+417154 = 54646,32x – 2466,39
+X = 7,6788 ppm
+Kadar parasetamol dalam jelly
+1163,4545 ppm
+
+Kadar parasetamol teoritis hasil penimbangan = 0,1198 gram = 119,8 mg
+% Recovery sampel :
+
+110
+
+Lampiran 11. Data AUC, Kadar parasetamol, % recovery, dan CV sampel
+Jumlah parasetamol
+tiap kemasannya
+(mg)
+116,3455
+
+Recovery sampel
+(%)
+
+417154
+
+Berat parasetamol
+hasil penimbangan
+(mg)
+119,8000
+
+2
+
+389251
+
+113,0000
+
+108,6091
+
+96,1142
+
+3
+
+413710
+
+121,5000
+
+115,3910
+
+94,9720
+
+4
+
+382203
+
+112,4000
+
+106,6561
+
+94,8897
+
+5
+
+405430
+
+120,7000
+
+113,0955
+
+93,6996
+
+6
+
+374108
+
+113,0000
+
+104,4106
+
+92,3998
+
+7
+
+388331
+
+113,1000
+
+108,3555
+
+95,8050
+
+8
+
+405867
+
+118,0000
+
+113,2177
+
+95,9472
+
+9
+
+413480
+
+122,0000
+
+115,3273
+
+94,5306
+
+10
+
+395878
+
+116,0000
+
+110,4470
+
+95,2130
+
+Sampel
+
+AUC
+
+1
+
+SD = 4,0940
+X
+= 111,1855 mg
+CV = 3,6821%
+
+97,1164
+
+111
+
+Lampiran 12. Kromatogram Sampel
+Instrumen
+Kolom
+Fase gerak
+Flow rate
+AUFs/Attenuation
+Detektor
+Sampel 1
+
+: Shimadzu LC-10 AD
+: C18 Merek KNAUER dengan packing Kromasil 100-5
+C18 panjang kolom 25 cm, diameter internal 4,6mm
+: metanol:aquabides (90:10)
+: 1 ml/menit
+: 0,01/7
+: UV pada 247,4 nm
+
+112
+
+Sampel 2
+
+113
+
+Sampel 3
+
+114
+
+Sampel 4
+
+115
+
+Sampel 5
+
+116
+
+Sampel. 6
+
+117
+
+Sampel 7
+
+118
+
+Sampel 8
+
+119
+
+Sampel 9
+
+120
+
+Sampel 10
+
+121
+
+BIOGRAFI PENULIS
+
+Penulis yang bernama lengkap Kristian Bayu Kuncoro,
+lahir di Ambarawa pada tanggal 13 Januari 1988 adalah
+anak kedua dari dua bersaudara pasangan Bapak Thomas
+Utomo dan Ibu Cornelia Endang Wahyuni. Penulis
+menyelesaikan pendidikan taman kanak-kanak di TK
+Virgo Maria I Ambarawa pada tahun 1993-1994, SD
+Virgo Maria I Ambarawa tahun 1994-2000, SLTP
+Pangudi Luhur Ambarawa pada tahun 2000-2003, SMA
+Negeri 1 Ambarawa pada tahun 2003-2006. Selepas SMA, penulis melanjutkan
+studi ke Fakultas Farmasi Universitas Sanata Dharma Yogyakarta dan
+menyelesaikan studinya sampai tahun 2010. Selama aktif kuliah, penulis pernah
+menjadi Asisten Dosen Praktikum Kimia Analisis dan Koordinator Asisten
+Praktikum Kromatografi. Penulis juga aktif di berbagai kepanitiaan seperti Inisiasi
+Fakultas Farmasi TITRASI 2007 (Bidang Keamanan), Inisiasi Fakultas Farmasi
+TITRASI 2008 (Sebagai Ketua Umum), Seminar Ilmiah POKJANAS TOI
+XXXVIII 2009 (Bidang Ilmiah), dan juga aktif mengikuti perlombaan paduan
+suara, mengisi acara pelepasan wisuda, dan sumpahan apoteker lewat Paduan
+Suara Fakultas “Veronica” dari tahun 2006-2009. Selain itu, pada tahun 2009
+penulis juga pernah mengikuti penelitian yang dinamakan Program Kreativitas
+Mahasiswa (PKM) yang berjudul “Optimasi & Penetapan Kadar Parasetamol
+Dalam Jelly Untuk Meningkatkan Kepatuhan Anak Minum Obat” dimana
+penelitian ini di adakan oleh DIKTI.
+
+

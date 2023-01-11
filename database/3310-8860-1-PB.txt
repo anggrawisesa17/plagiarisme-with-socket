@@ -1,0 +1,884 @@
+JURNAL SWABUMI, Vol.6 No.1 Maret 2018, pp. 1~7
+ISSN: 2355-990X
+E-ISSN: 2549-5178
+
+1
+
+USABILITY TESTING DENGAN USE QUESTIONNAIRE
+PADA APLIKASI SIPOLIN PROVINSI JAWA BARAT
+Ricky Firmansyah
+AMIK BSI Bandung
+Jl. Sekolah Internasional No. 1-6 Antapani Bandung
+ricky.rym@bsi.ac.id
+
+Abstrak
+Salah satu sumber pendapatan provinsi berasal dari pajak kendaraan yang disebut PKB.
+Pemprov Jabar sendiri menyebutkan jumlah kendaraan di Jawa Barat pada bulan September
+2016 mencapai 15.750.624 unit. Sebanyak 13.447.117 unit atau 85,38 persen sepeda motor.
+Pemprov Jabar dan Pemprov Jabar meluncurkan aplikasi Sistem Informasi Pajak Online yang
+disebut SIPOLIN pada 21 Mei 2017. Aplikasi tersebut diperkenalkan kepada masyarakat terkait
+kemudahan pembayaran pajak kendaraan secara online. Aplikasi ini bisa diunduh via PlayStore
+sehingga orang tidak perlu lagi berbaris atau datang ke kantor Samsat. Dalam aplikasi ini,
+orang akan mengetahui informasi pajak kendaraan mereka. Tingkat kegunaan menjadi
+patokan, apakah sistem akan berguna, dapat diterima oleh pengguna dan bertahan lama di
+pasaran. Penelitian ini berfokus pada bagaimana menguji antarmuka pengguna SIPOLIN
+dengan menggunakan Usability Testing dengan USE Questionnaire pada SIPOLIN versi 1.0.
+Hasil penelitian ini menunjukkan bahwa semua atribut memiliki nilai rata-rata di atas 3 yang
+mengindikasikan bahwa SIPOLIN memiliki aspek nilai kegunaan yang sangat baik.
+Kata Kunci: Antarmuka, Aplikasi, Sipolin, Pajak, Penggunaan
+Abstract
+One of the provincial revenue source is derived from vehicle tax called PKB. West Java
+Provincial Government itself states the number of vehicles in West Java at September 2016
+reached 15,750,624 units. A total of 13,447,117 units of which or 85.38 percent are
+motorcycles. West Java Provincial Police and West Java provincial government launched the
+Online Tax Information System application called SIPOLIN on May 21, 2017. The application
+introduced to the public related to the ease of paying vehicle taxes online. This application can
+be downloaded via PlayStore so that people no longer need to line up or come to the Samsat
+office. In this application, people will know their vehicle tax information. Usability level becomes
+a benchmark, whether the system will be useful, acceptable to the user and last long in the
+market. This study focuses on how to test the user interface of SIPOLIN using Usability Testing
+with USE Questionnaire on SIPOLIN version 1.0. Result of this research is show all attributes
+have an average value above 3 that indicates SIPOLIN has very good aspect of usability value.
+Keywords: application, interface, sipolin, tax, use
+1.
+
+Pendahuluan
+Salah satu sumber penerimaan daerah
+provinsi yang berasal dari pajak adalah
+pajak kendaraan bermotor (PKB). Pajak
+kendaraan bermotor adalah pajak atas
+kepemilikan
+dan
+atau
+penguasaan
+kendaraan bermotor. Berdasarkan data dari
+gabungan industri sepeda motor Indonesia
+(AISI) populasi kendaraan bermotor di
+Indonesia pada tahun 2010 lalu mencapai
+50.824.128 unit dan pada tahun 2014
+meningkat menjadi 63.530.160 unit atau
+meningkat sebesar 25 persen. Dengan
+demikian
+maka
+adanya
+peningkatan
+penggunaan kendaraan bermotor ditengah
+masyarakat akan memberikan dampak bagi
+
+penerimaan daerah yang berasal dari pajak
+sudah diatur dalam UU RI No 28 Tahun
+2009 tentang pajak kendaraan bermotor
+sebagai komponen pajak propinsi (Anggraini
+& Prasetyo, 2014). Pemerintah Provinsi
+Jawa Barat sendiri menyatakan jumlah
+kendaraan bermotor di Jawa Barat per
+September 2016 mencapai 15.750.624 unit.
+Sebanyak 13.447.117 unit di antaranya atau
+85,38 persen adalah kendaraan roda dua
+atau sepeda motor (Putra, 2016).
+Perangkat
+teknologi
+membuat
+masyarakat Jawa Barat semakin mudah
+dalam melaksanakan proses membayar
+pajak kendaraan bermotor secara online.
+
+Diterima Februari 10, 2018; Revisi Februari 16 , 2018; Disetujui Maret 15, 2018
+
+2
+
+Polda Jabar bersama Pemprov Jabar
+meluncurkan aplikasi berlabel Sistem
+Informasi Pajak Online (Sipolin) pada 21 Mei
+2017. Aplikasi Sipolin diperkenalkan kepada
+masyarakat atau wajib pajak berkaitan
+kemudahan membayar pajak kendaraan
+bermotor secara online. Masyarakat tidak
+perlu lagi antre atau datang ke Samsat.
+Aplikasi Sipolin ini dapat diunduh melalui
+Playstore. Dalam aplikasi ini, masyarakat
+bisa mengetahui informasi pajak kendaraan.
+Di wilayah hukum Polda Jabar terdapat 14
+juta kendaraan yang 70 persennya sudah
+memenuhi kewajiban membayar pajak
+(Ramadhan, 2017).
+Peningkatan jumlah aplikasi untuk
+perangkat
+mobile
+menantang
+para
+pengembang untuk membuat aplikasi
+dengan kualitas unggul. Ada banyak metode
+yang dapat digunakan untuk mengukur
+kualitas sebuah aplikasi, salah satu yang
+penting adalah usability. Menurut Aelani
+dan Falahah (2012) dalam (Ola, Suyoto, &
+Purnomo, 2016), Tingkat usability menjadi
+tolak ukur, apakah sistem tersebut akan
+bermanfaat, dapat diterima oleh pengguna
+dan bertahan lama di pasaran (Ola, Suyoto,
+& Purnomo, 2016). Penelitian ini fokus
+kepada bagaimana pengujian antarmuka
+pengguna Aplikasi SIPOLIN menggunakan
+pengujian Usability? Penelitian ini dibatasi
+hanya pada pengujian Usability Testing
+menggunakan USE Questionnaire pada
+Aplikasi SIPOLIN versi 1.0.
+Penelitian serupa dilakukan oleh
+Rahadi pada Tahun 2014 yang membahas
+Uji Usability pada Aplikasi Android.
+Penelitian
+tersebut
+dilakukan
+untuk
+menganalisis apakah aplikasi Android
+memiliki akseptabilitas berdasarkan kriteria
+usability. Penelitian dilakukan dengan
+menggunakan kuesioner sebagai instrumen
+penelitian. Berdasarkan pengolahan data
+diperoleh hasil bahwa dari 5 variabel
+usability yang digunakan pada kuesioner,
+hanya 1 variabel yang signifikan digunakan
+untuk menganalisis usability aplikasi yaitu
+memorability. Hasil pengujian menunjukkan
+bahwa nilai penerimaan usability oleh user
+berada di atas angka 3 (di atas nilai tengah)
+dalam skala 5. Faktor yang paling dominan
+mempengaruhi kenaikan tingkat usability
+adalah
+mudah
+diingat
+sekaligus
+berpengaruh positif dalam menaikkan
+tingkat akseptabilitas aplikasi Android
+(Rahadi, 2014).
+JURNAL SWABUMI Vol.6 No.1, Maret 2018: 1-7
+
+Berikutnya adalah penelitian yang
+dilakukan oleh Ola, Suyoto dan Purnomo
+pada tahun 2016. Penelitian ini mengukur
+usability
+aplikasi
+Mangente
+dengan
+menggunakan metode kuesioner untuk
+menentukan tingkat kelayakan dalam
+penggunaannya. Aspek yang diuji yaitu
+learnability, flexibility, effectiveness dan
+attitude. Hasil pengujian terhadap 20
+responden didapatkan bahwa nilai usability
+aplikasi Mangente mencapai 98,54%. Ini
+berarti bahwa aplikasi Mangente layak
+digunakan dan dapat diterima dengan baik
+di pasaran (Ola, Suyoto, & Purnomo, 2016).\
+1.1. Usability Testing
+Uji kegunaan aplikasi smartphone
+terutama dilakukan oleh alat uji kegunaan
+yang
+paling
+umum
+dalam
+praktik
+pengembangan (Ahmad, Boota, & Maso,
+2014). Menurut Nielsen (2012) dalam
+(Nurhadryani,
+Sianturi,
+Hermadi,
+&
+Khotimah, 2013), Usability adalah analisa
+kualitatif yang menentukan seberapa mudah
+user menggunakan antarmuka suatu
+aplikasi. Suatu aplikasi disebut usable jika
+fungsi-fungsinya dapat dijalankan secara
+efektif, efisien, dan memuaskan. Efektivitas
+berhubungan
+dengan
+keberhasilan
+pengguna
+mencapai
+tujuan
+dalam
+menggunakan suatu perangkat lunak.
+Efisiensi berkenaan dengan kelancaran
+pengguna untuk mencapai tujuan tersebut.
+Kepuasan
+berkaitan
+dengan
+sikap
+penerimaan pengguna terhadap perangkat
+lunak. Pengujian usability dilakukan untuk
+mengevaluasi apakah sebuah aplikasi
+sudah sesuai dengan kebutuhan pengguna
+atau belum (Nurhadryani, Sianturi, Hermadi,
+& Khotimah, 2013).
+1.2. Aplikasi SIPOLIN
+Sipolin adalah sebuah aplikasi yang
+digunakan
+untuk
+membayar
+pajak
+kendaraan bermotor yang dapat dibayar
+melalui telepon seluler (ponsel). Aplikasi ini
+resmi diluncurkan Gubernur Jawa Barat
+Ahmad Heryawan yang didampingi oleh
+Kapolda Jabar Irjen (Pol) Anton Charliyan,
+Ketua DPRD Jabar Ineu Purwadewi, Kepala
+Bapenda Jabar Dadang Suharto, dan Dirut
+Bank BJB Ahmad Irfan di kawasan Car Free
+Day Dago Bandung Minggu, 21 Mei 2017.
+Aplikasi Sipolin tersedia pada layanan
+Google Playstore pada smartphone berbasis
+android. Pengguna aplikasi ini diharuskan
+Login dengan memasukkan datanomor KTP
+
+3
+
+dan nomor kendaraan. Nama pemilik
+kendaraan pada STNK harus sama dengan
+KTP. Pembayaran untuk sementara hanya
+bisa melalui Bank BJB. Bukti pembayaran
+yang ada di aplikasi Sipolin harus
+diperlihatkan kepada Samsat terdekat saat
+melakukan pengesahan. Sipolin juga dapat
+menunjukkan peta dimana Samsat terdekat
+dengan posisi pengguna. Pengesahan
+harus dilakukan dengan batas waktu 14 hari
+sejak pembayaran (Istiqomah & Putra,
+2017).
+
+kuesioner ini diungkapkan secara positif
+yang berarti hasil dari hasilnya merespon
+secara bias. Kuesioner yang menghindari
+sumber bias ini kerap terjadi pada sumber
+bias
+lainnya.
+Misalnya,
+beberapa
+diantaranya adalah tes reliabilitas. Ini berarti
+bahwa kuesioner yang sama dapat
+menghasilkan hasil yang berbeda pada
+waktu yang berbeda (ini dapat diperiksa
+dengan mengukur reliabilitas uji ulang tes
+kuesioner). Bahkan kegunaan kuesioner
+yang lebih sedikit pun dinilai validitasnya. Ini
+berarti bahwa tidak ada jaminan bahwa
+kuesioner sebenarnya mengukur kepuasan
+pengguna (Travis, 2008).
+2. Metode Penelitian
+2.1. Populasi dan Sampe Penelitian
+Jumlah responden yang dilibatkan
+dalam penelitian ini adalah sebanyak 50
+responden dari wajib pajak sebagai sampel
+dari populasi mahasiswa jurusan Sistem
+Informasi Universitas BSI Bandung.
+
+Gambar 1. Tampilan awal SIPOLIN
+Sumber : PlayStore
+1.3. User Interface
+User interface menyediakan mekanisme
+bagi user untuk berinteraksi dengan aplikasi.
+Desain yang baik dari user interface adalah
+bagian terpenting dari pembuatan aplikasi.
+Aplikasi dibuat haruslah user-friendly
+sehingga pengguna akan mudah untuk
+mempelajari dan menggunakan aplikasi
+tersebut (Suharli, 2005).
+1.4. USE Questionnaire
+Usefulness, Satisfaction, and Ease of
+use Questionnaire atau disingkat USE
+Questionnaire yaitu kuesioner yang biasa
+digunakan dalam
+Usability Sistem
+Komputer. Setiap pertanyaan di dalam
+JURNAL SWABUMI Vol.6 No.1, Maret 2018: 1-7
+
+2.2. Metode Pengumpulan Data
+Metode pengumpulan data primer
+dilakukan dengan metode penyebaran
+angket/kuesioner melalui media survei untuk
+mendapatkan data. Menurut Sugiyono
+(1999) dalam Rahadi (2014), menyatakan
+bahwa Skala Likert digunakan untuk
+mengukur sikap, pendapat, dan persepsi
+seseorang atau sekelompok orang tentang
+fenomena sosial yang merupakan skala
+kontinum bipolar, pada ujung sebelah kiri
+(angka rendah) menggambarkan suatu
+jawaban yang bersifat negatif. Sedang ujung
+sebelah
+kanan
+(angka
+tinggi),
+menggambarkan suatu jawaban yang
+bersifat positif. Skala Likert dirancang untuk
+meyakinkan responden menjawab dalam
+berbagai tingkatan pada setiap butir
+pertanyaan atau pernyataan yang terdapat
+dalam kuesioner. Data tentang dimensi dari
+variabel-variabel yang dianalisis dalam
+penelitian ini yang ditujukan kepada
+responden menggunakan skala 1 s/d 5
+untuk mendapatkan data yang bersifat
+ordinal dan diberi skor sebagai berikut :
+
+PK
+Nilai
+
+Tabel 1. Tabel Nilai
+KMS
+KM
+CM
+M
+1
+2
+3
+4
+
+Keterangan :
+PK
+= Pertanyaan Kuisioner
+CM
+= Cukup Mudah
+KMS = Kurang Mudah Sekali
+
+SM
+5
+
+4
+
+M
+KM
+SM
+
+= Mudah
+= Kurang Mudah
+= Sangat Mudah
+
+2.3. Metode Penelitian
+Metode penelitian yang digunakan
+dalam penelitian ini adalah pengujian
+usability mengguakan USE Questionnaire.
+
+Tabel 2. Task-task pengujian usability
+No
+Task / Tugas
+1
+
+Buka aplikasi SIPOLIN dan perhatikan
+menu yang ada.
+
+2 Buka menu Informasi Kendaraan dan
+Pajak
+3 Buka menu Registrasi Online.
+Inputkan data kendaraan masingmasing dan lihat hasilnya pada
+4
+informasi kendaraan dan pajak atau
+pada menu Registrasi Online.
+5 Mencari informasi lokasi Samsat.
+
+Berikut ini adalah penjelasan
+masing-masing task tersebut:
+
+Gambar 2. Alur Metode Penelitian
+
+3. Hasil Dan Pembahasan
+3.1. Usability Testing
+Langkah pertama yang dilakukan dalam
+usability
+testing
+adalah
+memberikan
+sejumlah
+tugas
+(task)
+yang
+sudah
+dipersiapkan sebelumnya kepada pengguna
+saat berinteraksi dengan sistem yang diuji.
+Task-task ini diberikan kepada 50 orang
+responden yang berasal dari mahasiswa
+yang sudah mengetahui aplikasi SIPOLIN
+sehingga mereka tidak lagi mengalami
+kesulitan pada saat melakukan task-task
+tersebut. Menurut Sastramihardja dkk (2008)
+dalam (Rahadi, 2014), task-task ini
+digunakan sebagai sarana interaksi dalam
+pengukuran usability.
+
+dari
+
+Task 1. Pengguna
+membuka
+aplikasi
+SIPOLIN
+dan
+memperhatikan
+tampilan menu.
+Task 2. Pengguna mengakses dan mencoba
+menu Informasi Kendaraan dan
+Pajak dengan menginputkan data
+kendaraan miliknya.
+Task 3. Pengguna
+mengakses
+menu
+Registrasi Online dan mencoba
+mendaftar.
+Task 4. Pengguna melihat tampilan huruf
+dan
+gambar
+informasi
+pajak
+kendaraan miliknya.
+Task 5. Pengguna mencoba akses Informasi
+Lokasi Samsat dengan keadaan
+GPS aktif dan tidak aktif.
+Kuesioner diberikan kepada responden
+yang telah mengerjakan task-task di atas
+agar mendapatkan pengalaman pengguna
+(user experience) terhadap tampilan aplikasi
+yang diuji yaitu apa yang dilihat dan
+dirasakan pengguna saat melakukan task
+yang diberikan. Kuesioner berisi 13
+pertanyaan yang mewakili kelima aspek
+usability.
+Menurut
+pendapat
+Wingnjosoebroto et. Al. 2009 dalam Rahadi
+(2014) setiap pertanyaan dalam kuesioner
+tersebut bertujuan untuk menunjukkan
+tingkat usability menurut penerimaan user
+yang akan dinilai dalam skala 5.
+Menurut Mazumder & Das (2014) dalam
+Firmansyah (2016), Organisasi Standar
+Internasional
+(International
+Standard
+Organization, ISO) mendefinisikan bahwa
+
+JURNAL SWABUMI Vol.6 No.1, Maret 2018: 1-7
+
+5
+
+daya guna (Usability) adalah sejauhmana
+suatu produk dapat digunakan oleh
+pengguna untuk mencapai tujuan mereka
+dengan efektif dan efisien. Daya guna
+memiliki
+lima
+atribut
+kualitas
+yaitu
+(Firmansyah, 2016):
+1. Learnability, yaitu menunjukkan betapa
+mudahnya pengguna dapat mempelajari
+fungsi sistem utama dan mencapai
+keterampilan
+untuk
+melakukan
+pekerjaan.
+2. Efisiensi, yaitu setelah mempelajari
+sistem, seberapa cepat pengguna dapat
+melakukan tugas mereka menggunakan
+sistem.
+3. Memorability, sangat penting bagi
+pengguna yang tidak teratur untuk dapat
+menggunakan sistem tanpa harus belajar
+lagi. Fitur ini membantu pengguna untuk
+mengingat sistem bekerja setelah
+periode penggunaan tertentu.
+4. Error, yaitu jumlah kesalahan pengguna
+dan bagaimana dengan mudah mereka
+dapat memulihkannya.
+5. Satisfaction, yaitu menunjukkan bahwa
+menyenangkan atau tidaknya pengguna
+dalam menggunakan sistem.
+Hasil plot kelima aspek usability di atas
+terhadap 13 pertanyaan kuesioner dapat
+dilihat pada table 3 berikut.
+Tabel 3. Plot Aspek Usability
+Aspek Usability
+L
+E
+M
+E
+S
+R
+F
+R
+R
+F
+ASPEK SISTEM (SYSTEM)
+Apakah
+tampilan
+antarmuka
+1 aplikasi
+SIPOLIN
+mudah di
+kenali?
+Apakah
+SIPOLIN
+2
+mudah
+dioperasikan
+Apakah
+tampilan
+warna pada
+SIPOLIN
+3 nyaman
+dilihat dan
+tidak
+membosanka
+n?
+ASPEK PENGGUNA (USER)
+N
+o
+
+Pertanyaan
+
+JURNAL SWABUMI Vol.6 No.1, Maret 2018: 1-7
+
+Apakah
+tampilan
+menu dalam
+4
+SIPOLIN
+mudah
+dikenali?
+Apakah
+informasi
+dalam
+5
+SIPOLIN
+mudah
+dicari?
+Apakah
+tulisan yang
+6
+ada mudah
+dibaca?
+Apakah
+aplikasi
+7
+mudah di
+download?
+Apakah
+simbol, ikon
+dan gambar
+8
+yang ada
+mudah
+dipahami?
+ASPEK INTERAKSI (INTERACTION)
+Apakah
+mudah
+mengakses
+9
+informasi
+yang
+ditawarkan?
+Apakah
+fungsi yang
+ditawarkan
+10 sesuai
+dengan
+tujuan
+aplikasi?
+Apakah
+transaksi
+pembayaran
+11
+yang tersedia
+mudah
+diakses?
+Apakah
+keamanan
+12 aplikasi
+sudah
+terjamin?
+Apakah
+menu dan
+tampilan
+13
+SIPOLIN
+mudah
+diingat?
+
+6
+
+Keterangan :
+LR
+= Learnability
+EF
+= Efficiency
+MR
+= Memorability
+ER
+= Error
+SF
+= Satisfaction
+3.2. Analisa Usability Testing
+Selanjutnya adalah melakukan rekap
+terhadap hasil kuesioner yang telah
+disebarkan kepada 50 responden. Hasil
+perhitungan rata-rata terhadap hasil usability
+testing di atas, maka diperoleh rekap nilai
+usability yang dapat dilihat pada table 4 di
+bawah ini.
+
+No
+
+Tabel 4. Rekap Nilai Usability
+Pertanyaan
+
+ASPEK SISTEM (SYSTEM)
+Apakah tampilan antarmuka
+1 aplikasi SIPOLIN mudah di
+kenali?
+2
+
+Apakah SIPOLIN mudah
+dioperasikan
+
+Apakah tampilan warna pada
+SIPOLIN nyaman dilihat dan
+tidak membosankan?
+ASPEK PENGGUNA (USER)
+Apakah tampilan menu dalam
+4
+SIPOLIN mudah dikenali?
+3
+
+5
+
+Apakah informasi dalam
+SIPOLIN mudah dicari?
+
+Nilai
+
+3.64
+3.50
+
+3.00
+
+3.48
+3.54
+
+Apakah tulisan yang ada
+4.04
+mudah dibaca?
+Apakah aplikasi mudah di
+7
+3.70
+download?
+Apakah simbol, ikon dan
+8 gambar yang ada mudah
+3.70
+dipahami?
+ASPEK INTERAKSI (INTERACTION)
+Apakah mudah mengakses
+9
+3.54
+informasi yang ditawarkan?
+Apakah fungsi yang
+10 ditawarkan sesuai dengan
+3.64
+tujuan aplikasi?
+Apakah transaksi pembayaran
+11
+3.50
+yang tersedia mudah diakses?
+Apakah keamanan aplikasi
+12
+3.18
+sudah terjamin?
+Apakah menu dan tampilan
+13
+3.58
+SIPOLIN mudah diingat?
+6
+
+Berdasarkan table 4 di atas, dapat dilihat
+bahwa untuk atribut “simbol, ikon dan
+gambar yang ada mudah dipahami” memiliki
+JURNAL SWABUMI Vol.6 No.1, Maret 2018: 1-7
+
+nilai peneriamaan usability user sebesar
+3,70 yang arinya sudah berada di atas 3
+atau nilai tengah dalam skala 5. Hal ini
+berarti aplikasi SIPOLIN telah dibuat mudah
+untuk dikenali oleh user dari segi tampilan
+antarmuka. Bila disesuaikan dengan plot
+aspek usability pada table 3, aplikasi
+SIPOLIN telah dibuat dengan memiliki nilai
+usability, yaitu: Learnability, Efficiensy,
+Memorability, Errors dan Satisfavtion yang
+sangat baik. Hal ini dapat ditunjukkan
+dengan nilai hasil usability pada kelima
+atribut, sebagai berikut:
+1. Nilai atribut “simbol, ikon dan gambar
+yang ada mudah dipahami” sebesar 3,70
+menunjukan
+bahwa
+aplikasi
+telah
+memiliki nilai Learnability.
+2. Nilai atribut “informasi dalam SIPOLIN
+mudah dicari” sebesar 3,54 menunjukan
+bahwa aplikasi telah memiliki nilai
+Efficiency.
+3. Nilai atribut “menu dan tampilan SIPOLIN
+mudah diingat” sebesar 3,58 menunjukan
+bahwa aplikasi telah memiliki nilai
+Memorability
+4. Nilai atribut “mudah mengakses informasi
+yang ditawarkan” sebesar 3,54; atribut
+“tulisan yang ada mudah dibaca” sebesar
+4,04; dan atribut “ditawarkan sesuai
+dengan tujuan aplikasi” sebesar 3,64
+membuat
+aplikasi
+SIPOLIN
+telah
+meminimalisasi aspek Errod.
+5. Keseluruhan atribut yang memiliki nilai
+rata-rata di atas 3 menunjukkan bahwa
+aplikasi SIPOLIN mempunyai aspek
+Satisfaction yang sangat baik.
+4. Penutup
+4.1. Kesimpulan
+Berdasarkan hasil rekap nilai usability
+yang memiliki nilai penerimaan usability user
+di atas 3, maka dapat disimpulkan bahwa
+Aplikasi SIPOLIN telah memiliki aspek nilai
+usability yang sangat baik. Nilai atribut
+terkecil ada pada aspek warna tampilan dan
+keamanan
+pada
+aplikasi.
+USE
+Questionnaire dapat digunakan untuk
+mengukur daya guna suatu antarmuka
+perangkat lunak.
+
+4.2. Saran
+Beberapa saran yang dapat penulis
+berikan adalah sebagai berikut:
+1. Aplikasi ini bertujuan untuk pelayanan
+terhadap publik (wajib pajak) sehingga
+nilai kepuasan terhadap antarmuka
+
+7
+
+aplikasi harus diimbangi dengan nilai
+kepuasan layanan.
+2. Pengembangan aplikasi versi berikutnya
+perlu memperhatikan dari sisi warna
+pada tampilan antarmuka, keamanan
+dan server yang sering tidak merespon.
+3. Peneliti berikutnya dapat menambahkan
+atau menggunakan metode lain untuk
+meningkatkan akurasi.
+Referensi
+Ahmad, N., Boota, M. W., & Maso, A. H.
+(2014). Smart Phone Application
+Evaluation with Usability Testing
+Approach. Journal of Software
+Engineering and Applications, 10461054.
+Anggraini, P., & Prasetyo, F. (2014). EFILING
+SEBAGAI
+PERAN
+INDONESIA DALAM MEMBERIKAN
+APRESIASI DAN KONTRIBUSI
+MENDUKUNG
+KOMUNITAS
+ASEAN
+DALAM
+KEMUDAHAN
+PELAYANAN PAJAK. JURNAL
+KHATULISTIWA
+INFORMATIKA,
+VOL. 2 NO. 2, -207.
+Firmansyah,
+R.
+(2016).
+EVALUASI
+HEURISTIK
+PADA
+DESAIN
+INTERFACE
+APLIKASI
+MY
+INDIHOME. Seminar Nasional Ilmu
+Pengetahuan
+dan
+Teknologi
+Komputer 4 (1) (pp. 66-73). Bekasi:
+STMIK Nusa Mandiri.
+Istiqomah, Z., & Putra, Y. M. (2017, Mei 21).
+Jabar Luncurkan Aplikasi Bayar
+Pajak Kendaraan Lewat Ponsel.
+Retrieved Oktober 11, 2017, from
+Republika
+Online:
+http://nasional.republika.co.id/berita/
+nasional/pemprovjabar/17/05/21/oqaorv284-jabarluncurkan-aplikasi-bayar-pajakkendaraan-lewat-ponsel
+Nurhadryani, Y., Sianturi, S. K., Hermadi, I.,
+& Khotimah, H. (2013). Pengujian
+
+JURNAL SWABUMI Vol.6 No.1, Maret 2018: 1-7
+
+Usability
+untuk
+Meningkatkan
+Antarmuka Aplikasi Mobile. Jurnal
+Ilmu Komputer dan Agri-Informatika
+Volume 2 Nomor 2, 83-93.
+Ola, Y. Y., Suyoto, S., & Purnomo, S.
+(2016). PENGUJIAN USABILITY
+ANTARMUKA
+APLIKASI
+MANGENTE. Seminar Nasional
+Teknologi Informasi dan Komunikasi
+2016 (SENTIKA 2016) (pp. 334342). Yogyakarta: SENTIKA 2016.
+Putra, Y. M. (2016, Oktober 17). Jumlah
+Kendaraan Bermotor Jabar Capai
+15,7 Juta Unit. Retrieved Oktober 3,
+2017, from Republika Online:
+http://www.republika.co.id/berita/nas
+ional/daerah/16/10/17/of75b1284jumlah-kendaraan-bermotor-jabarcapai-157-juta-unit
+Rahadi, D. R. (2014). Pengukuran Usability
+Sistem
+Menggunakan
+Use
+Questionnaire
+Pada
+Aplikasi
+Android. Jurnal Sistem Informasi
+(JSI), VOL. 6, NO. 1,, 661-671.
+Ramadhan, D. I. (2017, Mei 21). Gubernur
+dan Kapolda Jabar Luncurkan
+Aplikasi Sipolin. Retrieved Oktober
+3,
+2017,
+from
+DetikNews:
+https://news.detik.com/berita-jawabarat/d-3507185/gubernur-dankapolda-jabar-luncurkan-aplikasisipolin
+Suharli, S. (2005). Membangun Aplikasi
+Berbasis Windows Dengan Vb .net.
+Jakarta:
+PT.
+Elex
+Media
+Komputindo.
+Travis, D. (2008, Maret 3). Measuring
+satisfaction: Beyond the usability
+questionnaire. Retrieved Oktober
+11, 2017, from User Experience
+Consulting
+&
+UX
+Training:
+http://www.userfocus.co.uk/articles/s
+atisfaction.html
+
+

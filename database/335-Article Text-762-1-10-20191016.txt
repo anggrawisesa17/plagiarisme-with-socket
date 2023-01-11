@@ -1,0 +1,399 @@
+Jurnal Mantik
+Volume 3 Number 3, November 2019
+https://iocscience.org/ejournal/index.php/mantik/index
+
+E-ISSN 2685-4236
+
+Decision Support System Feasibility Lending At KSU Mitra
+Karya Cooperative Customer Unit XXVIII with Analytical
+Hierarchy Process Method
+Temasokhi Ndruru1, Fristi Riandari2
+1,2
+
+Informatics Engineering Study Program,
+STMIK Pelita Nusantara, Jl. Iskandar Muda 1 Medan, North Sumatra, Indonesia, 20154
+Email: temasokhigemp@gmail.com
+
+ARTICLE INFO
+
+ABSTRACT
+
+Article history:
+Received: 17 Aug 2019
+Revised: 24 Aug 2019
+Accepted: 19 Sep 2019
+
+Decision Support System (DSS) is a system that can assist a person in making
+accurate decisions and targeted. Many problems can be solved by using
+CMS, one of which is determining the feasibility of a credit recipient
+customers. There are several methods that can be used in building a CMS
+one of them is the Analytical Hierarchy Process (AHP). AHP is yan method
+most widely used in solving problems that are multiple criteria, such as the
+eligibility determination SPK customer credit recipients. This study using
+AHP in determining credit worthiness recipient customers on Business
+Multipurpose Cooperative Unit of Work Partners XXVIII. In determining the
+credit worthiness of customers receiver, there are several criteria on which to
+base decisions, among others Dwelling, Income, dependents, and The work.
+The end result of this research is the result of global priority customer
+criteria, sorted from highest to lowest, so the cooperative can easily make
+decisions by looking at the results.
+
+Keywords:
+DSS, Credit Cooperative, AHP
+
+Copyright © 2019 Journal of Mantik.
+All rights reserved,
+
+1. Introduction
+The system is running in the KSU Cooperative Decision Making Unit of Work Partners XXVIII still
+using manual processes and databases that are used in the form of paper, so it takes a long time for
+processing. And granting credit lending to customers was given only to capitalize confidence which only
+knows the address of the home, business, and ask for the file in the form of photocopy of ID card without
+any collateral and survey the location. Other obstacles that are difficult to store and archive search as well
+as the risk of data loss is greater. It is influential to customers in a long wait the decision of the company.
+2. Theory
+2.1 Understanding Decision Support System
+Decision support system (DSS) is part of a computer-based information system including a
+knowledge-based system or knowledge management is used to support decision making in an
+organization or company. Can also be regarded as a computer system that processes data into information
+to make a decision on a specific semi-structured problems. SPK can be described as a system that is
+capable of supporting ad hoc analysis of data, and decision modeling, decision-oriented and used in times
+that are not ordinary.
+2.2 Analitychal Hierarchy Process (AHP)
+Definition According to Dr. Asthma Th. Ibraheem & Atia Noor S. (2016: 25-26). AHP is a general
+theory of measurement. It is used to obtain the relative priority on an absolute scale (invariance under
+transformations of identity) of both pairwise comparisons and continuous in multilevel hierarchical
+structure. This comparison may be drawn from actual measurements or from a fundamental scale that
+reflects the relative strengths of the preferences and feelings.
+There are seven procedures in AHP among others, are as follows:
+119
+Jurnal Mantik Vol. 3, No. 3, November 2019, pp. 119-125
+Jurnal Mantik is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Jurnal Mantik
+Volume 3 Number 3, November 2019
+https://iocscience.org/ejournal/index.php/mantik/index
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+E-ISSN 2685-4236
+
+Define unstructured problems.
+Developing AHP hierarchy.
+Pairwise comparisons.
+Estimating the relative weights.
+Check consistency.
+Obtaining the overall rankings.
+Checking the consistency of the hierarchy
+Table 1.
+Randaom index list Consistency
+
+Matrix size
+
+value IR
+
+1.2
+
+0,00
+
+3
+
+0.58
+
+4
+
+0.90
+
+5
+
+1.12
+
+6
+
+1.24
+
+7
+
+1.32
+
+8
+
+1.41
+
+9
+
+1.45
+
+10
+
+1.49
+
+11
+
+1.51
+
+12
+
+1.48
+
+13
+
+1.56
+
+14
+
+1.57
+
+15
+
+1.59
+
+3. Results and Discussion
+a) Basic scale Pairwise Comparison
+Table 2
+Basic Scale Comparison Criteria
+
+Inntensitas Interests
+1
+3
+5
+7
+9
+2,4,6,8
+
+definition
+Both elements are equally important
+Elements that one a little bit more important than any other element
+Elements which one is more important than other elements
+One very important element than other elements
+One absolutely essential element than other elements
+Values between two values adjacent consideration
+
+b) Steps Settlement
+1) Pairwise Comparison matrix Criteria
+
+Figure 1, Couples Pernadingan matrix Criteria
+
+2) Calculating the weight criterion by way of normalization of the value of each pairwise comparison
+matrix column by dividing each value in the column with the corresponding sum.
+120
+Jurnal Mantik Vol. 3, No. 3, November 2019, pp. 119-125
+Jurnal Mantik is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Jurnal Mantik
+Volume 3 Number 3, November 2019
+https://iocscience.org/ejournal/index.php/mantik/index
+
+E-ISSN 2685-4236
+
+Figure 2. Normalization Comparison Criteria
+
+CI = (λ max-n) / (n-1)
+λ max = (1.67 x 0.56) + (4.53 x 0.26) + (9.33 x 0.12) + (16 x 0.66) = 4.19
+CI
+= (4.1982 to 4) / (4-1) = 0.06
+CR
+= CI / IR (Index Random)
+= 0.06 / 0.9
+= 0.07
+3) Alternative Pairwise Comparison matrix for Criterion Shelter
+
+Figure 3. Alternative Comparison Matrix
+
+4) Calculating alternative weighting by way of normalization value of each pairwise comparison
+matrix column by dividing each value in the column with the corresponding sum.
+
+Figure 4, Nolmalisasi Comparison of Alternative
+
+CI = (λ max-n) / (n-1)
+λ max = (1.53 x 0.63) + (4.33 x 0.26) + (9 x 0.11)
+= 3.08
+CI
+= (3.0796-3) / (3-1) = 0.04
+CR
+= CI / IR (Index Random)
+= 0,04 / 0,58
+= 0.07
+5) Pairwise Comparison Matrix Alternative for Income Criteria
+
+Figure 5. Alternative Comparison Matrix
+
+121
+Jurnal Mantik Vol. 3, No. 3, November 2019, pp. 119-125
+Jurnal Mantik is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Jurnal Mantik
+Volume 3 Number 3, November 2019
+https://iocscience.org/ejournal/index.php/mantik/index
+
+E-ISSN 2685-4236
+
+6) Calculating alternative weighting by way of normalization value of each pairwise comparison
+matrix column by dividing each value in the column with the corresponding sum.
+
+Figure 6. Nolmalisasi Comparison of Alternative
+
+CI = (λ max-n) / (n-1)
+λ max = (1.83 x 0.53) + (3.33 x 0.33) + (7 x 0.14) = 3.05
+CI = (3.05 - 3) has / (3-1) = 0.02
+CR = CI / IR (Index Random)
+= 0,02 / 0,58
+= 0.03
+7) Alternative Pairwise Comparison matrix for Dependents Criteria
+
+Figure 7. Alternative Comparison Matrix
+8)
+
+Calculating alternative weighting by way of normalization value of each pairwise comparison
+matrix column by dividing each value in the column with the corresponding sum.
+
+Figure 8. Comparison of Alternative Nolmalisasi
+
+CI
+CI
+CR
+
+= (Λ max-n) / (n-1) λ max = (1.58 x 0.61) + (4.33 x 0.27) + (8 x 0.12) = 3.09
+= (3.09 - 3) has / (3-1) = 0.05
+= CI / IR (Index Random)
+= 0,05 / 0,58
+= 0.09
+9) Pairwise Comparison Matrix Alternative for Work Criteria
+
+Figure 9 . Alternative Comparison Matrix
+
+122
+Jurnal Mantik Vol. 3, No. 3, November 2019, pp. 119-125
+Jurnal Mantik is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Jurnal Mantik
+Volume 3 Number 3, November 2019
+https://iocscience.org/ejournal/index.php/mantik/index
+
+E-ISSN 2685-4236
+
+10) Calculating alternative weighting by way of normalization value of each pairwise comparison
+matrix column by dividing each value in the column with the corresponding sum.
+
+Figure 10. Comparison of Alternative Nolmalisasi
+
+CI = (λ max-n) / (n-1) λ max = (1.71 x 0.57) + (3.25 x 0.33) + (10 x 0.1)
+= 3.04
+CI = (3.04 - 3) has / (3-1)
+= 0.02
+CR
+= CI / IR (Index Random)
+= 0,02 / 0,58
+= 0.03
+11) The results of the calculation process decision support system with the customer due diligence
+AHP method wherein
+
+Figure 11.The calculation results
+
+With the results obtained from the calculation process by using AHP, Customer is the highest value that
+can be received, the Customer 1 with a value of 0.6.
+4. System Implementation
+Broadly speaking Openness display interface design decision support using AHP is
+a) Main Menu Display
+on page The main menu the user is prompted to fill out the criteria and alternatives as well as the
+weight has been determined, then processed. And if the user wants to get out of the main page the user
+clicks the logout (exit). Here is the main page
+
+Figure 12. Main course
+
+123
+Jurnal Mantik Vol. 3, No. 3, November 2019, pp. 119-125
+Jurnal Mantik is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Jurnal Mantik
+Volume 3 Number 3, November 2019
+https://iocscience.org/ejournal/index.php/mantik/index
+
+E-ISSN 2685-4236
+
+b) Display Results AHP Process
+In the form of AHP process results, will be shown an alternative code, alternate name, value, rank, and
+captions.
+
+Figure 13, AHP Process Results
+
+5. Conclusion
+Based analisisa process, design and implementation of the use of decision support systems in
+cooperative customer due diligence KSU Mitra Karya XXVIII Unit can be concluded as follows:
+This application is built to facilitate the decision making due diligence of customers with faster and
+better based on the data that has been acquired and processed.
+a) With the process of decision support systems in cooperative customer due diligence KSU Mitra Karya
+XXVIII Unit can assist companies in selecting the appropriate client be considered.
+b) By applying the AHP method kopeasi company KSU Mitra Karya XXVIII can find customers who
+deserve to be given credit loans with their customers and their weight values can get assessment
+results quickly.
+c) Design Decision Support System applications using Microsoft Visual Studio 2010 and Microsoft
+Access 2007 database to produce a system that can determine customers in cooperative KSU Mitra
+Karya XXVIII Unit
+
+6. Reference
+[1]
+[2]
+
+Andi, 2010. Belajar Pemrograman Visual Basic. Semarang : Wahana Komputer.
+Asma Th. Ibraheem & Noor S.. Atia, Applying Decision Making With Analytic Hierarchy Process for
+Maintenance Strategy Selection of Flexble Pavement. Global Journal of Researches in Engineering: E Civil
+And Structural Engineering, 2016, 16 (5), 25 – 34.
+[3] Asep Muhidin. Perancangan Sistem Informasi Produk Hasil Repair Pada Pt. Jvc Kenwood Elektronik
+Indonesia. SIGMA-Jurnal Teknologi Pelita Bangsa, 2017, 6 (2), 148 – 157.
+[4] Dian Gustina, Dian Mutiara. Sistem Penunjang Keputusan Pemilihan Router Mikrotik Dengan Menggunakan
+Metode AHP (Analitycal Hierarchy Process). JURNAL ILMIAH FIFO, 2017, 9 (1), 68 – 73.
+[5] Dian Permatasari. Sistem Pendukung Keputusan Pemberian Kredit Pada Koperasi Wanita Salimah
+Payakumbuh Berbasis Syariah Menggunakan Metode Analytic Hierarchy Process (AHP). Jurnal Sistem
+Informatika MI, 2018, 5 (1), 31 – 41.
+[6] Eylem Koç and Hasan Arda Burhan. An Application of Analytic Hierarchy Process (AHP) in a Real World
+Problem of Store Location Selection. Advances in Management & Applied Economics, 2015, 5 (1), 41 – 50.
+[7] Ferly Ardy. Sistem Informasi Pengisian Nilai Berbasis Java Web Menggunakan Lokal Server Pada SMK 2
+Mei Bandar Lampung. Jurnal Cendikia, 2016, 12 (1), 54 – 60.
+
+124
+Jurnal Mantik Vol. 3, No. 3, November 2019, pp. 119-125
+Jurnal Mantik is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Jurnal Mantik
+Volume 3 Number 3, November 2019
+https://iocscience.org/ejournal/index.php/mantik/index
+[8]
+
+[9]
+
+[10]
+[11]
+[12]
+[13]
+[14]
+
+E-ISSN 2685-4236
+
+Heri Nurdiyanto, Heryanita Meilia. Sistem Pendukung Keputusan Penentuan Prioritas Pengembangan Industri
+Kecil Dan Menengah Di Lampung Tengah Menggunakan Analitical Hierarchy Process (AHP). Seminar
+Nasional Teknologi Informasi dan Multimedia, 2016, 37 – 42.
+Kamalia Safitri, Fince Tinus Waruwu, Mesran. Sistem Pendukung Keputusan Pemilihan Karyawan Berprestasi
+Dengan Menggunakan Metode Analytical Hieararchy Process. Media Informatika Budidarma, 2017, 1 (1), 17
+– 21.
+Kusrini , 2017. Konsep Dan Aplikasi Sistem Pendukung Keputusan. Yogyakarta : Andi
+Lidia Kurnia Sari, Euis Soliha. Kualitas Layanan, Persepsi Tingkat Suku Bunga Dan Lokasi Terhadap
+Kepuasannasabah. Prosiding SENDI, 2018, 670 -676.
+Nurul Alifah Rahmawati, Arif Cahyo Bachtiar. Analisis dan perancangan desain sistem informasi perpustakaan
+sekolah berdasarkan kebutuhan sistem. Berkala Ilmu Perpustakaan dan Informasi, 2018, 14 (1), 76 – 86.
+Rizaldi, Dewi Anggraeni, Arridha Zikra Syah. Tips Dan Trik Membangun Relationship Dan Query Dalam
+Database. Jurdimas (Jurnal Pengabdian Kepada Masyarakat) Royal, 2018, 1 (2), 45 – 50.
+Saefudin, Sri Wahyuningsih. Sistem Pendukung Keputusan Untuk Penilaian Kinerja Pegawai Menggunakan
+Metode Analytical Hierarchy Process (AHP) Pada RSUD Serang. Jurnal Sistem Informasi, 2014, 1 (1), 33 –
+37.
+
+125
+Jurnal Mantik Vol. 3, No. 3, November 2019, pp. 119-125
+Jurnal Mantik is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+

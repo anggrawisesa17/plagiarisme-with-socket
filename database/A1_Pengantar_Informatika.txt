@@ -1,0 +1,1691 @@
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+RingkasanMateriKuliah
+
+Pengantar Informatika
+
+Noor Haryono
+noor@bac-consulting.com
+
+Lisensi Dokumen:
+Copyright © 2003 IlmuKomputer.Com
+Seluruh dokumen di IlmuKomputer.Com dapat digunakan, dimodifikasi
+dan disebarkan secara bebas untuk tujuan bukan komersial (nonprofit),
+dengan syarat tidak menghapus atau merubah atribut penulis dan
+pernyataan copyright yang disertakan dalam setiap dokumen. Tidak
+diperbolehkan melakukan penulisan ulang, kecuali mendapatkan ijin
+terlebih dahulu dari IlmuKomputer.Com.
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Daftar Isi
+BAB 1. PENDAHULUAN...........................................................................................................................3
+Definisi Komputer.......................................................................................................................................................3
+Sistem Komputer.........................................................................................................................................................3
+Perangkat Keras ........................................................................................................................................................3
+Perangkat Lunak .......................................................................................................................................................4
+SDM ..........................................................................................................................................................................5
+Klasifikasi Komputer..................................................................................................................................................5
+Berdasarkan Sinyal Masukan ...................................................................................................................................5
+Berdasarkan Ukuran .................................................................................................................................................6
+Berdasarkan Generasi ...............................................................................................................................................6
+Berdasarkan Tujuan Pembuatan ...............................................................................................................................6
+
+BAB 2. REPRESENTASI DATA................................................................................................................7
+Landasan Pengetahuan ..............................................................................................................................................7
+Sistem Bilangan...........................................................................................................................................................7
+Perubahan basis.........................................................................................................................................................7
+Aritmatika Basis N....................................................................................................................................................9
+Logika Matematika Dasar .........................................................................................................................................9
+Himpunan..................................................................................................................................................................9
+Logika .....................................................................................................................................................................10
+Aljabar Boolean ......................................................................................................................................................11
+Tipe Data Dasar ........................................................................................................................................................11
+Representasi Bilangan Bulat / Integer ....................................................................................................................12
+Representasi Bilangan Pecahan / Floating Point ...................................................................................................13
+Representasi Karakter..............................................................................................................................................14
+ASCII ......................................................................................................................................................................15
+Unicode ...................................................................................................................................................................15
+
+BAB 3. MANAJEMEN DATA...................................................................................................................16
+Pengertian Basisdata ................................................................................................................................................16
+Klasifikasi Basisdata.................................................................................................................................................16
+Pengenalan Basisdata Relasional ............................................................................................................................16
+Model E-R (Entity-Relationship) ...........................................................................................................................17
+RDBMS...................................................................................................................................................................17
+
+BAB 4. KOMUNIKASI DATA DAN JARINGAN KOMPUTER.................................................................18
+Klasifikasi Jaringan Komputer ...............................................................................................................................18
+Berdasarkan luas area .............................................................................................................................................18
+Berdasarkan Topologi Jaringan ..............................................................................................................................18
+Transmisi Data ..........................................................................................................................................................19
+Media Transmisi .....................................................................................................................................................19
+Kapasitas transmisi .................................................................................................................................................19
+2
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Jenis transmisi .........................................................................................................................................................19
+Arah transmisi .........................................................................................................................................................19
+Protokol Komunikasi................................................................................................................................................20
+BAB 5. PEMPROGRAMAN.....................................................................................................................21
+Pengertian ..................................................................................................................................................................21
+Klasifikasi Pemprograman ......................................................................................................................................21
+Berdasarkan tingkat ................................................................................................................................................21
+Berdasarkan paradigma...........................................................................................................................................21
+Cara Kerja .................................................................................................................................................................23
+Pengantar Teori Bahasa...........................................................................................................................................23
+BAB 6. SISTEM INFORMASI..................................................................................................................24
+Pengertian ..................................................................................................................................................................24
+Sistem Informasi Manajemen (SIM) ......................................................................................................................24
+Sistem Pendukung (pengambilan)Keputusan (SPK)..............................................................................................24
+Ilustrasi Sistem Informasi .......................................................................................................................................24
+Karakteristik Sistem Informasi Manajemen ...........................................................................................................24
+Jenis Sistem Informasi ............................................................................................................................................25
+Siklus Hidup Pengembangan...................................................................................................................................25
+Tahap Perencanaan .................................................................................................................................................25
+Tahap Analisis ........................................................................................................................................................26
+Tahap Perancangan .................................................................................................................................................26
+Tahap Pengembangan .............................................................................................................................................26
+Tahap Penggunaan..................................................................................................................................................26
+
+2
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Bab 1. Pendahuluan
+Definisi Komputer
+Komputer merupakan suatu perangkat elektronika yang dapat menerima dan mengolah
+data menjadi informasi, menjalankan program yang tersimpan dalam memori, serta dapat
+bekerja secara otomatis dengan aturan tertentu*.
+
+Sistem Komputer
+Sebuah sistem komputer tersusun atas tiga elemen, yaitu
+1. Hardware (Perangkat Keras), merupakan rangkaian elektronika
+2. Software (Perangkat Lunak), merupakan program yang dijalankan pada komputer
+3. Brainware (SDM)
+Perangkat Keras
+
+I/O Device
+
+Memori
+
+DMA
+
+I/O Bus
+
+Memory Bus
+Processor
+
+Perangkat keras komputer secara garis besar terdiri atas tiga komponen utama, yaitu
+1. Processor, merupakan bagian dari perangkat keras komputer yang melakukan
+pemprosesan aritmatika dan logika serta pengendalian operasi komputer secara
+keseluruhan. Prosesor terdiri atas dua bagian utama, yaitu ALU (Arithmetic Logic
+Unit) dan Control Unit.
+Kecepatan kerja prosesor biasanya ditentukan oleh kecepatan clock dari Control
+Unit-nya. Contoh : jika prosesor memiliki frekuensi clock 350 MHz, berarti
+kecepatan pemprosesan satu instruksinya = T = 1/f = 1/(350 x 106 Hz), = 0,286
+x 10-8 detik.
+2. Memory, berdasarkan fungsinya dibagi menjadi dua yaitu
+a.
+
+Primary Memory, dipergunakan untuk menyimpan data dan instruksi dari
+program yang sedang dijalankan. Biasa juga disebut sebagai RAM.
+Karakteristik dari memori primer adalah
+-
+
+Volatil (informasi ada selama komputer bekerja. Ketika
+komputer dipadamkan, informasi yang disimpannya juga
+hilang)
+kecepatan tinggi
+akses random (acak)
+
+* definisi bebas
+
+3
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+b. Secondary Memory, dipergunakan untuk menyimpan data atau program
+biner secara permanen. Karakteristik dari memori sekunder adalah
+-
+
+non volatil atau persisten
+kecepatan relatif rendah (dibandingkan memori primer)
+akses random atau sekuensial
+
+Contoh memori sekunder : floppy, harddisk, CD ROM, magnetic tape,
+optical disk, dll. Dari seluruh contoh tersebut, yang memiliki mekanisme
+akses sekuensial adalah magnetic tape
+3. Input-Output Device, merupakan bagian yang berfungsi sebagai penghubung
+antara komputer dengan lingkungan di luarnya. Dapat dibagi menjadi dua
+kelompok, yaitu
+a.
+
+Input Device (Piranti Masukan), berfungsi sebagai media komputer untuk
+menerima masukan dari luar. Beberapa contoh piranti masukan :
+-
+
+keyboard
+mouse
+touch screen
+scanner
+camera
+modem
+network card
+dll
+
+b. Output Device (Piranti Keluaran), berfungsi sebagai media komputer
+untuk memberikan keluaran. Beberapa contoh piranti masukan :
+-
+
+Monitor
+Printer
+Speaker
+Plotter
+Modem
+network card
+dll
+
+Perangkat Lunak
+
+Perangkat lunak dapat diklasifikasikan sebagai berikut
+1. Sistem Operasi, merupakan perangkat lunak yang mengoperasikan komputer serta
+menyediakan antarmuka dengan perangkat lunak lain atau dengan pengguna.
+Contoh sistem operasi : MS DOS, MS Windows (dengan berbagai generasi),
+Macintosh, OS/2, UNIX (dengan berbagai versi), LINUX (dengan berbagai
+distribusi), NetWare, dll
+2. Program Utilitas, merupakan program khusus yang berfungsi sebagai perangkat
+pemeliharaan komputer, seperti anti virus, partisi hardisk, manajemen hardisk, dll.
+Contoh produk program utilitas : Norton Utilities, PartitionMagic, McAfee, dll
+3. Program Aplikasi, merupakan program yang dikembangkan untuk memenuhi
+kebutuhan yang spesifik. Contoh : aplikasi akuntansi, aplikasi perbankan, aplikasi
+manufaktur, dll
+4
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+4. Program Paket, merupakan program yang dikembangkan untuk kebutuhan
+umum, seperti :
+-
+
+pengolah kata /editor naskah : Wordstar, MS Word, Word
+Perfect, AmiPro, dll
+
+-
+
+pengolah angka / lembar kerja : Lotus123, MS Excell,
+QuattroPro, dll
+
+-
+
+presentasi : MS PowerPoint, dll
+
+-
+
+desain grafis : CorelDraw, PhotoShop, dll
+
+5. Bahasa Pemprograman, merupakan perangkat lunak untuk pembuatan atau
+pengembangan perangkat lunak lain. Bahasa pemprograman dapat diklasifikasikan
+menjadi tingkat rendah, tingkat sedang, dan tingkat tinggi. Pergeseran dari tingkat
+rendah ke tinggi menunjukkan kedekatan dengan ‘bahasa manusia’. Bahasa tingkat
+rendah (atau biasa disebut bahasa assembly) merupakan bahasa dengan pemetaan
+satu persatu terhadap instruksi komputer. Contoh bahasa tingkat tinggi : Pascal,
+BASIC, Prolog, Java dll. Contoh bahasa tingkat menengah : bahasa C.
+Seperti perangkat lunak lain, bahasa pemprograman juga memiliki pertumbuhan
+generasi.
+SDM
+
+Terdapat berbagai peran yang dapat dilakukan manusia dalam bagian sistem komputer.
+Beberapa peran di antaranya adalah
+1. Analis Sistem, berperan melakukan analisis terhadap permasalahan yang dihadapi,
+serta merancang solusi pemecahannya dalam bentuk program komputer.
+2. Programmer, berperan menerjemahkan rancangan yang dibuat analis kedalam
+bahasa pemprograman sehingga solusi dapat dijalankan oleh komputer
+3. Operator, bertugas menjalankan komputer berdasarkan instruksi yang diberikan
+4. Teknisi, bertugas merakit atau memelihara perangkat keran komputer
+5. dll
+
+Klasifikasi Komputer
+
+Berdasarkan Sinyal Masukan
+
+Berdasarkan sinyal masukan, komputer dapat diklasifikasikan menjadi
+1. Komputer Analog, menerima sinyal masukan berupa data analog. Contoh :
+komputer penghitung aliran BBM dalam SPBU
+2. Komputer Digital, mernerima masukan digital, merupakan komputer kebanyakan
+yang kita kenal.
+3. Komputer hibrid, menerima masukan analog dan digital
+
+5
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+Berdasarkan Ukuran
+
+Berdasarkan ukuran fisik dan kapabilitasnya, komputer dapat diklasifikasikan menjadi
+1. Komputer mikro, berukuran kecil, biasanya dipergunakan oleh satu orang. Contoh
+: PC, Notebook, Palmtop, PDA, dll
+2. Komputer Mini, berukuran lebih besar, biasa digunakan untuk kebutuhan
+pekerjaan yang lebih besar juga. Contoh : komputer Alfa, dll
+3. Supercomputer, merupakan komputer berkinerja amat tinggi, biasanya untuk
+memenuhi kebutuhan pemprosesan yang amat besar. Contoh : Cray, DeepBlue,
+EarthSimulator, dll
+4. Mainframe
+Berdasarkan Generasi
+
+Berdasarkan generasi teknologi penyusunnya, komputer dapat diklasifikasikan menjadi
+1. Generasi I, tahun 1946-1959, menggunakan tabung hampa
+2. Generasi II, tahun 1959-1965, menggunakan transistor
+3. Generasi III, tahun 1965-1970, menggunakan IC (Integrated Circuit)
+4. Generasi IV, tahun 1970-sekarang, menggunakan VLSI (Very Large Scale IC)
+Berdasarkan Tujuan Pembuatan
+
+Berdasarkan tujuan pembuatan, komputer dapat diklasifikasikan menjadi
+1. General Purpose, merupakan komputer yang dikembangkan untuk kebutuhan
+umum. Contoh : PC, Notebook, dll
+2. Special Purpose, merupakan komputer yang dikembangkan untuk kebutuhan khusus.
+Contoh : komputer khusus untuk bermain catur
+
+Catatan tambahan :
+dapat saja dibuat klasifikasi komputer berdasarkan berbagai kriteria
+yang lain
+dengan amat cepatnya perkembangan teknologi perangkat keras
+komputer, klasifikasi di atas boleh jadi sudah berubah
+
+6
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Bab 2. Representasi Data
+Landasan Pengetahuan
+Untuk dapat memahami dengan mudah bab representasi data komputer, diperlukan
+landasar pengetahuan awal tentang sistem bilangan dan logika matematika
+
+Sistem Bilangan
+Bilangan memiliki basis. Yang biasa dipergunakan adalah basis 10 atau desimal.
+Diberikan sebuah bilangan : 5736
+Artinya : 5736
+
+= 5000 + 700 + 30 + 6
+= 5 . 1000 + 7 . 100 + 3 . 10 + 6 . 1
+= 5 . 103 + 7 . 102 + 3 . 101 + 6 . 100
+
+Contoh sederhana basis bilangan lain yang biasa kita temui :
+•
+
+sistem bilangan jam, menggunakan basis 12
+
+•
+
+perhitungan hari, menggunakan basis 7 (misalnya jika dianggap Ahad=1, Senin=2,
+… Sabtu =0)
+
+Pada sistem bilangan dengan basis N, digunakan angka-angka 0,1, .. N-1.
+Contoh :
+•
+
+sistem bilangan desimal (basis 10) menggunakan angka 0,1,2,3,..9
+
+•
+
+sistem bilangan biner (basis 2) menggunakan angka 0 dan 1
+
+Jika X sebuah nilai yang direpresentasikan dalam sistem bilangan dengan basis N sehingga
+menjadi rangkaian angka bi..b2b1b0, maka
+X = bi.Ni+..+b2.N2+b1.N1+b0.N0 .........................................................................(1)
+Atau
+
+i
+X = ∑ ba.Na
+a=0
+
+Secara teoritis, dapat dibuat sistem bilangan dengan basis berapapun (bulat positif >1)
+Perubahan basis
+
+Setiap nilai / besaran tertentu dapat direpresentasikan dengan berbagai sistem bilangan.
+Dengan demikian dapat pula dilakukan perubahan basis bilangan.
+DARI BASIS N KE BASIS 10
+
+Pengubahan dari basis N ke basis 10 dapat dilakukan dengan menggunakan formula (1) di
+atas.
+Contoh :
+7
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+3428 akan diubah menjadi basis 10
+3428 = 3.82+4.81+2.80
+= 3.64+4.8+2.1
+= 192+32+2
+= 226
+2AF16 akan diubah menjadi basis 10
+2AF = 2.162+A.161+F.160
+= 2.256+10.16+15.1
+= 512+160+15
+= 687
+Untuk digit di belakang koma pada bilangan pecahan, formula (1) tersebut tetap berlaku.
+Contoh
+0.011012 akan diubah menjadi basis 10
+0.011012= 1.2-2+1.2-3+1.2-5
+= 1/4 + 1/8 + 1/32
+= 0.25 + 0.125 + 0.03125
+= 0.40625
+DARI BASIS 10 KE BASIS N
+
+Perubahan dari basis 10 ke basis N dilakukan dengan operasi division (pembagian bulat) dan
+modulus (sisa pembagian bulat) N.
+Contoh :
+971 akan diubah menjadi basis 8
+971 div 8 = 121, modulus (sisa) = 3
+121 div 8 = 15, modulus = 1
+15 div 8 = 1, modulus = 7
+971 = 17138
+29 akan diubah menjadi basis 2
+29 div 2 = 14, modulus = 1
+14 div 2 = 7, modulus = 0
+7 div 2 = 3, modulus = 1
+3 div 2 = 1, modulus = 1
+27 = 111012
+Untuk digit di belakang koma pada bilangan pecahan, perubahan basis dilakukan dengan
+mengalikan fraksi pecahan dengan basisnya. Hasil perkaian tersebut kemudian diambil
+fraksi bulatnya.
+Contoh
+0.625 akan diubah menjadi basis 2
+0.625 x 2 = 1.25
+8
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+0.25 x 2 = 0.5
+0.5 x 2 = 1.0
+0.625 = 0.1012
+Aritmatika Basis N
+
+Operasi penjumlahan dan pengurangan dapat dilakukan pada dua bilangan dengan basis
+yang SAMA. Perhitungan aritmetika pada basis N dilakukan serupa dengan pada basis 10.
+Contoh
+1
+2536
+4216 +
+11146
+
+1 1
+1100112
+110102 +
+10011012
+
+Jika bilangan-bilangan yang dioperasikan dalam kedua contoh di atas diubah menjadi basis
+10, maka hasil perhitungan yang diperoleh tetap akan sama
+2536= 105, 4216= 157, 11146= 262;
+
+105+157=262
+
+1100112 = 51, 110102 = 26, 10011012 = 77;
+
+51+26=77
+
+Logika Matematika Dasar
+Himpunan
+
+Himpunan merupakan kumpulan dari berbagai elemen dengan karakteristik yang serupa.
+Suatu himpunan berada dalam semesta tertentu yang membatasi ruang lingkupnya.
+Contoh:
+- himpunan bilangan bulat positif < 10
+- himpunan bilangan prima < 100
+- himpunan mahasiswa Teknik Informatika
+- dll
+RELASI HIMPUNAN
+
+1. A himpunan bagian dari B, A ⊆ B, jika dan hanya jika setiap elemen A adalah juga
+elemen B
+2. A sama dengan B, A = B, jika dan hanya jika A ⊆ B dan B ⊆ A
+_
+3. Komplemen himpunan A, A = { x | x ∉ A}
+KOMBINASI HIMPUNAN
+
+Terdapat beberapa macam relasi himpunan, yaitu
+1. Gabungan himpunan A dan B, A ∪ B
+2. Irisan himpunan A dan B, A ∩ B
+3. Perbedaan simetris
+
+belum dibahas
+9
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Contoh
+Dari Diagram Venn berikut
+
+1
+
+2
+A
+
+S = 1, 2, 3, 4
+A = 2, 3
+B = 3, 4
+A’ = 1, 4
+B’ = 1, 2
+
+3
+
+4
+
+S
+
+B
+
+A∪B = 2, 3, 4
+A∩B = 3
+A-B = 2
+B-A = 4
+
+ALJABAR HIMPUNAN
+
+Berikut operasi-operasi dasar dalam aljabar himpunan
+A∪S = S
+A∪A = A
+A∪A’ = S
+A∪∅ = A
+
+A∩S = A
+A∩A = A
+A∩A’ = ∅
+A∩∅ = ∅
+
+(A∪B)’ = A’∩B’
+(A∩B)’ = A’∪B’
+A∪(B∩C) = (A∪B)∩(A∪C)
+A∩(B∪C) = (A∩B)∪(A∩C)
+A’’ = A
+Logika
+
+Dalam logika matematika, setiap pertanyaan atau kombinasi beberapa pernyataan memiliki
+nilai TRUE (benar) atau FALSE (salah). Kombinasi pernyataan dapat disusun dalam
+operasi-operasi logika, dengan operasi-operasi dasar sebagai berikut
+1. Negasi (NOT), menghasilkan kebalikan nilai kebenaran dari suatu pernyataan
+Tabel kebenaran dari operasi Negasi adalah sebagai berikut
+P
+
+~p
+
+T
+
+F
+
+F
+
+T
+
+Lambang dalam diagram logika :
+2. Disjungsi (OR), merupakan operasi dimana jika salah satu pernyataan bernilai
+benar, maka kombinasinya akan bernilai benar
+10
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Tabel kebenaran dari operasi Negasi adalah sebagai berikut
+P
+
+Q
+
+p∨q
+
+T
+
+T
+
+T
+
+T
+
+F
+
+T
+
+F
+
+T
+
+T
+
+F
+
+F
+
+F
+
+Lambang dalam diagram logika :
+3. Konjungsi (AND) merupakan operasi dimana jika salah satu pernyataan bernilai
+salah, maka kombinasinya akan bernilai salah
+Tabel kebenaran dari operasi Negasi adalah sebagai berikut
+P
+
+Q
+
+p∧q
+
+T
+
+T
+
+T
+
+T
+
+F
+
+F
+
+F
+
+T
+
+F
+
+F
+
+F
+
+F
+
+Lambang dalam diagram logika :
+Aljabar Boolean
+
+Aturan-aturan
+A.0=0
+A.1=A
+A+0=A
+A+1=1
+A + A’ . B = A + B
+A’ + A . B = A’ + B
+
+A.A=A
+A+A=A
+A . A’ = 0
+A + A’ = 1
+
+Hukum-hukum
+1. Komutatif
+
+A + B = B + A; A . B = B . A
+
+2. Asosiatif
+
+A+(B+C) = (A+B)+C; A . (B . C) = (A . B) . C
+
+3. Distributif
+
+A . (B+C) = (A.B) + (A . C)
+
+4. De Morgan
+
+(A . B)’ = A’+B’; (A+B)’ = A’. B’
+
+Tipe Data Dasar
+Dalam komputer terdapat tiga tipe data dasar, yaitu
+1. Bilangan bulat atau integer
+2. Bilangan pecahan atau floating point
+3. Simbol atau karakter
+
+11
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Komputer merepresentasikan data dalam bentuk biner, karena setiap sel / bit data dalam
+komputer hanya dapat menyimpan dua macam keadaan, yaitu voltase tinggi dan voltase
+rendah. Perbedaan voltase tersebut mewakili nilai TRUE dan FALSE, atau bit ‘1’ dan ‘0’
+
+Representasi Bilangan Bulat / Integer
+
+Bilangan Bulat Tak Bertanda dapat direpresentasikan dengan
+-
+
+bilangan biner – oktal - heksadesimal
+gray code
+BCD (binary coded decimal)
+Hamming code
+
+Bilangan bulat bertanda (positif atau negatif) dapat direpresentasikan dengan
+-
+
+Sign/Magnitude (S/M)
+1’s complement
+2’s complement
+
+Untuk bilangan bulat positif, tidak ada perbedaan dalam ketiga macam representasi bilangan
+di atas. Terdapat persamaan dalam ketiga representasi tersebut berupa digunakannya MSB
+(most significant bit) sebagai penanda. MSB bernilai ‘0’ untuk bilangan positif dan ‘1’ untuk
+bilangan negatif
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+MSB
+
+1
+
+0
+LSB
+
+SIGN/MAGNITUDE
+
+Representasi negatif dari suatu bilangan diperoleh dari bentuk positifnya dengan mengubah
+bit pada MSB menjadi bernilai 1. Jika dipergunakan N bit untuk representasi data, maka
+rentang nilai yang dapat direpresentasikan adalah -2N-1-1 s.d 2N-1-1
+Contoh : jika dipergunakan 5 bit untuk representasi bilangan
++3 = 00011
+-3 = 10011
+1’S COMPLEMENT
+
+Representasi negatif dari suatu bilangan diperoleh dengan mengkomplemenkan seluruh bit
+dari nilai positifnya. Jika dipergunakan N bit untuk representasi data, maka rentang nilai
+yang dapat direpresentasikan adalah -2N-1-1 s.d 2N-1-1
+Contoh : jika dipergunakan 5 bit untuk representasi bilangan
++3 = 00011
+-3 = 11100
+2’S COMPLEMENT
+
+Representasi negatif dari suatu bilangan diperoleh dengan mengurangkan 2n dengan nilai
+positifnya. Jika dipergunakan N bit untuk representasi data, maka rentang nilai yang dapat
+direpresentasikan adalah -2N-1 s.d 2N-1-1
+12
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Contoh : jika dipergunakan 5 bit untuk representasi bilangan
+2n = 25 = 100000
++3 = 00011
+-3 = 100000-00011
+100000
+0001111101
+-3 = 11101
+PERBANDINGAN
+
+Berikut tabel perbandingan ketiga cara representasi bilangan bulat bertanda tersebut
+B
+
+Nilai yang direpresentasikan
+
+b3b2b1b0
+
+Sign/Magnitude
+
+1’s complement
+
+2’s complement
+
+0111
+
++7
+
++7
+
++7
+
+0110
+
++6
+
++6
+
++6
+
+0101
+
++5
+
++5
+
++5
+
+0100
+
++4
+
++4
+
++4
+
+0011
+
++3
+
++3
+
++3
+
+0010
+
++2
+
++2
+
++2
+
+0001
+
++1
+
++1
+
++1
+
+0000
+
++0
+
++0
+
++0
+
+1000
+
+-0
+
+-7
+
+-8
+
+1001
+
+-1
+
+-6
+
+-7
+
+1010
+
+-2
+
+-5
+
+-6
+
+1011
+
+-3
+
+-4
+
+-5
+
+1100
+
+-4
+
+-3
+
+-4
+
+1101
+
+-5
+
+-2
+
+-3
+
+1110
+
+-6
+
+-1
+
+-2
+
+1111
+
+-7
+
+-0
+
+-1
+
+Representasi Bilangan Pecahan / Floating Point
+
+Bilangan pecahan dapat direpresentasikan dalam bentuk pecahan biasa atau dalam bentuk
+scientific.
+BENTUK PECAHAN BIASA
+
+Dalam bentuk pecahan biasa, bilangan direpresentasikan langsung kedalam bentuk
+binernya. Contoh : 27.625 = 11011.1012
+BENTUK SCIENTIFIC
+
+Dalam notasi scientific, bilangan pecahan dinyatakan sebagai X = ±M . B±E.
+13
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+M = mantissa
+B = basis
+E = eksponen
+M=57, B=10, E=5
+
+Contoh : 5.700.000 = 57 . 105
+
+Masalah : terdapat tak berhingga banyaknya representasi yang dapat dibuat. Dalam contoh
+sebelumnya, 5.700.000 = 57.105 = 570.104 = 5,7.106 = 0,57.107 = 0,057.108 dst. Untuk
+mengatasinya, ditentukan adanya bentuk normal, dengan syarat
+1/B ≤ |M|< 1
+Dengan demikian, bentuk scientific yang normal (memenuhi persyaratan) dari 5.700.000
+adalah 0,57.107
+Dalam bentuk normal tersebut, selalu diperoleh mantissa berbentuk ‘0,…’ sehingga dalam
+representasinya kedalam bit data, fraksi ‘0,’ tersebut dapat dihilangkan.
+Mantissa dan eksponen tersebut dapat direpresentasikan menggunakan salah satu cara
+representasi bilangan bulat bertanda yang telah dibahas di atas. Representasi yang dipilih
+dapat saja berbeda antara mantissa dengan eksponennya.
+Contoh
+-
+
+Digunakan untaian 16 bit untuk representasi bilangan pecahan
+10 bit pertama digunakan untuk menyimpan mantissa dalam bentuk S/M
+6 bit sisanya digunakan untuk menyimpan mantissa dalam bentuk 1’s complement
+Akan direpresentasikan bilangan 0,00000075
+
+15
+
+14
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+Mantissa
+
+0,00000075 = 0,75 . 10-6
+
+3
+
+2
+
+1
+
+0
+
+Eksponen
+
+M = 0,75; E = -6
+
+Representasi Mantissa :
+0,75 = 0,112. Karena sudah dalam bentuk normal ‘0,’dapat dihilangkan.
+S/M MSB sebagai penanda. Dengan demikian, mantissa = 0110000000
+Representasi Eksponen : 6=1102 . Karena digunakan 6 bit, 1102 = 000110.
+1’s complement -6 = 111001
+Representasi :
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+0
+
+1
+
+15
+
+14
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Representasi Karakter
+Terdapat beberapa macam cara representasi karakter sebagai berikut
+14
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+1. ASCII (American Standard Code for Information Interchange)
+2. SBCDIC (Standard Binary Coded Decimal Interchanged Code)
+3. EBCDIC (Extended Binary Coded Decimal Interchanged Code)
+4. Unicode
+ASCII
+
+Terdapat dua macam ASCII, yaitu yang mempergunakan 7 bit dan 8 bit. Pada ASCII yang
+mempergunakan 7 bit, terdapat dua kelompok karakter, yaitu
+1. Karakter Kontrol, digunakan untuk mengontrol pengiriman atau transmisi data
+2. Karakter Informasi, merupakan karakter yang mewakili data
+Terdapat beberapa macam karakter kontrol, yaitu
+-
+
+transmission control, digunakan untuk mengendalikan arus data yang dikirimkan
+melalui media transmisi. Contoh : SOH (Start of Header), STX (Start of Text),
+EOT (End of Text), dll
+
+-
+
+format effector, digunakan untuk mengatur susunan secara fisik dari informasi
+yang ditampilkan ke layar. Contoh : LF (Line Feed), CR (Carriage Return), FF
+(Form Feed), dll
+
+-
+
+device control, digunakan untuk mengendalikan peralatan fisik di terminal
+
+-
+
+information separator, digunakan sebagai elemen pembatas data yang
+ditransmisikan. Contoh : US (Unit Separator), RS (Record Separator), FS (File
+Separator), dll
+
+Unicode
+
+Unicode menggunakan 16 bit untuk merepresentasikan karakter. Dengan demikian,
+banyaknya karakter yang dapat direpresentasikan adalah 216 atau 65.536 karakter.
+Keunggulan Unicode dari ASCII adalah kemampuannya untuk menyimpan simbol /
+karakter yang jauh lebih besar. Himpunan 256 karakter pertama dari Unicode merupakan
+pemetaan karakter ASCII 8 bit, sehingga Unicode tetap kompatibel dengan ASCII. Selain
+merepresentasikan seluruh karakter ASCII, Unicode dapat merepresentasikan juga berbagai
+macam simbol diluar ASCII, seperti huruf Arab, Kanji, Hiragana, Katakana, dan lain-lain.
+
+15
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Bab 3. Manajemen Data
+Data adalah representasi atau hasil rekaman atas kejadian, fakta, atau fenomena yang terjadi
+dalam dunia nyata.
+
+Pengertian Basisdata
+Basisdata adalah sekumpulan informasi mengenai suatu subjek tertentu, yang memiliki
+keterkaitan logis, lengkap, dan terstruktur. Basisdata menyediakan struktur bagi informasi,
+dan memungkinkannya untuk digunakan bersama-sama oleh berbagai aplikasi yang
+berbeda.
+
+Klasifikasi Basisdata
+Dalam perkembangannya, terdapat berbagai model basisdata, yaitu
+1.
+2.
+3.
+4.
+
+Model hirarkis
+model jaringan
+model relasional
+model berorientasi objek
+
+Dari beberapa model tersebut, yang paling berkembang dan banyak digunakan pada saat ini
+adalah model relasional. Model berorientasi objek biasanya dipergunakan untuk kebutuhan
+tertentu yang lebih spesifik.
+
+Pengenalan Basisdata Relasional
+Dalam model relasional, basisdata terdiri atas relasi-relasi atau tabel-tabel, yang dapat saling
+terhubung satu sama lain. Berikut bagian-bagian dari satu model tabel
+Field
+Field1
+
+Field2
+
+…
+
+Fieldn
+
+Record
+
+Header
+
+Field / kolom menyimpan data dengan jenis yang sama. Elemen-elemen dari field adalah
+1. Nama. Dalam satu tabel tidak diperkenankan adanya field dengan nama yang sama
+2. Tipe data, dapat berupa tipe data standar atau tipe lain yang disediakan oleh
+basisdata
+3. Ukuran. Ukuran field biasanya ditentukan berdasarkan tipenya, kecuali untuk tipe
+string (untaian karakter). Pada tipe string, pengguna menentukan sendiri ukuran
+yang digunakan.
+
+16
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Record merupakan representasi dari satu entitas yang dicatat dalam tabel. Dalam sebuah
+tabel (mestinya) tidak ada dua atau lebih record yang sama persis. Setiap record bersifat unik
+dalam tabel yang memuatnya.
+Model E-R (Entity-Relationship)
+
+Dalam melakukan perancangan basisdata relasional, biasa dipergunakan diagram E-R.
+Komponen-komponen dalam model E-R adalah :
+1. Entity Set, merupakan kumpulan dari entity yang memiliki atribut-atribut yang
+sama. Entity dapat diartikan sebagai sesuatu yang dapat dibedakan dari yang lain.
+Dalam model E-R, biasa digambarkan sebagai berikut
+Atribut 1
+
+Atribut 2
+Nama Tabel
+
+Atribut n
+
+2. Relationship Set, merupakan himpunan hubungan-hubungan antar entitas-entitas
+dari dua entity set. Relationship Set dilambangkan sebagai berikut
+
+Multiplicity
+
+Nama
+Relationship
+
+Multiplicity
+
+RDBMS
+
+RDBMS (Relational Database Management System) merupakan satu paket perangkat lunak
+yang menyediakan berbagai layanan untuk perancangan, penggunaan, dan pemeliharaan
+basisdata relasional.
+Beberapa kapabilitas umum dari produk RDBMS modern di antaranya adalah
+1.
+2.
+3.
+4.
+5.
+
+Antarmuka dengan pengguna
+Pemeliharaan integritas basisdata
+Pemeliharaan keamanan basisdata
+Backup dan recovery
+Pengendalian akses konkuren, dll
+
+Contoh produk DBMS modern : IBM DB2, Oracle, MS SQL Server, MySQL, dll
+
+17
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Bab 4. Komunikasi Data dan Jaringan Komputer
+Beberapa keuntungan dari jaringan komputer di antaranya adalah :
+-
+
+transaksi dapat dilakukan di tempat yang berbeda dengan tempat pengolahan data
+
+-
+
+resource sharing (penggunaan sumber daya bersama), dapat mengoptimalkan
+penggunaan sumberdaya. Hampir seluruh sumberdaya dapat digunakan bersama,
+mulai dari prosesor, memori, storage, dan peripheral (printer, CD ROM Drive, dll)
+
+-
+
+memungkinkan pengendalian terpusat atas berbagai sumberdaya yang tersebar
+
+-
+
+memungkinkan kolaborasi antarpengguna, melalui e-mail, newsgroup, dsb
+
+-
+
+memungkinkan backup atau replikasi untuk antisipasi kerusakan
+
+Klasifikasi Jaringan Komputer
+Berdasarkan luas area
+
+Berdasarkan luas areanya, jaringan komputer dapat diklasifikasikan menjadi
+1. LAN atau Local Area Network, mencakup satu tempat tertentu (lab, ruang kantor,
+kampus, lokasi pabrik, dsb. Komputer dari 2 sd 500)
+2. MAN atau Metropolitan Area Network, mencakup luas satu kota
+3. WAN atau Wide Area Network, mencakup seluruh dunia
+Berdasarkan Topologi Jaringan
+
+Terdapat beberapa macam topologi jaringan, dengan keunggulan dan kelemahan masigmasing, sebagai berikut
+1. Bus. Seluruh komputer berkomunikasi melalui satu jalur yang sama, yang
+dipergunakan bergantian.
+o
+
+Keunggulan : paling murah dan mudah diimplementasikan
+
+o
+
+Kelemahan : performansi paling rendah, karena pada setiap saat bus
+hanya dapat melayani satu transmisi. Semakin banyak komputer yang
+terhubung ke jaringan, akan semakin berat beban bus sehingga
+performansi semakin menurun. Keamanan juga paling rendah.
+
+2. Ring. Terdapat jalur berupa cincin yang terhubung, dengan arah rotasi transmisi
+tertentu.
+o
+
+Keunggulan : performansi dan keamanan lebih baik
+
+o
+
+Kelemahan : lebih mahal
+
+3. Star. Terdapat satu komputer atau hub yang berfungsi sebagai sentral, seluruh
+komputer dalam jaringan terhubung langsung ke sentral tersebut
+o
+
+Keunggulan : mudah diimplementasikan
+18
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+o
+
+Kelemahan : performansi hanya sedikit lebih baik dari Bus
+
+4. Meshed. Setiap komputer terhubung langsung satu sama lain
+o
+
+Keunggulan : performansi dan keamanan paling baik
+
+o
+
+Kelemahan : sangat mahal, jalur yang harus disediakan bertambah
+secara eksponensial oleh penambahan komputer
+
+5. Kombinasi berbagai topologi di atas
+
+Transmisi Data
+Media Transmisi
+
+Macam-macam media transmisi
+A. Kabel (wired), jenis-jenisnya :
+a.
+
+Kabel pilin, terdapat dua macam yaitu UTP (unshielded twisted pair) dan
+STP (shielded twisted pair).
+
+b. Koaksial. Contoh : kabel TV
+c.
+
+Serat optik, memiliki kapasitas paling besar
+
+B. Nirkabel (wireless), bisa dengan
+a.
+
+Radio
+
+b. Microwave. Contoh : WaveLAN
+c.
+
+Infra Merah
+
+Kapasitas transmisi
+
+Bandwidth : banyaknya bit data yang dapat ditransmisikan per satuan waktu, dinyatakan
+dalam bps (bit per second)
+Jenis transmisi
+
+1. Transmisi satu arah (simplex). Contoh : radio
+2. Transmisi dua arah bergantian (half duplex). Contoh : HT
+3. Transmisi dua arah bersamaan (full duplex). Contoh : telepon
+Arah transmisi
+
+1. Unicast, dari satu titik ke satu titik. Contoh : telepon
+2. Multicast, dari satu titik ke beberapa titik. Contoh : server internet
+3. Broadcast, dari satu titik ke semua arah. Contoh : pemancar televisi
+
+19
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Protokol Komunikasi
+Protokol merupakan sekumpulan aturan yang memungkinkan berbagai media, platform,
+atau aplikasi yang berbeda-beda dapat saling berkomunikasi dengan benar. Beberapa
+contoh protokol komunikasi :
+1. TCP/IP (Transfer Control Protocol / Internet Protocol), merupakan protokol yang
+digunakan di internet. Dalam TCP/IP tersedia juga beberapa jasa, seperti HTTP
+(hypertext transfer protocol), FTP (file transfer protocol), e-mail, telnet (remote login), dll.
+2. SPX/IPX, digunakan pada LAN sistem operasi jaringan Novel Netware
+3. X25, biasa digunakan oleh jaringan perbankan (cabang online, ATM, dll).
+
+20
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Bab 5. Pemprograman
+Pengertian
+Memberikan instruksi kepada komputer agar dapat bekerja seperti yang kita kehendaki.
+-
+
+Yang ‘dipahami’ atau dijalankan oleh komputer : data dan instruksi dalam bentuk
+biner (rangkaian bit-bit bernilai ‘0’ atau ‘1’).
+
+-
+
+Yang dipahami manusia : logika, aritmetika, algoritma, konsep, model, dan
+sebagainya.
+
+Untuk menjembatani, dibuatlah bahasa pemprograman, yang menerjemahkan dari apa
+yang dikehendaki / dimengerti manusia menjadi instruksi mesin komputer.
+
+Klasifikasi Pemprograman
+Berdasarkan tingkat
+
+Berdasarkan tingkat kedekatannya dengan bahasa mesin dan bahasa manusia,
+diklasifikasinya menjadi
+1. Bahasa tingkat rendah, memetakan setiap instruksi dari kode sumber kedalam satu
+instruksi bahasa mesin. Biasa disebut juga dengan bahasa assembly. Untuk dapat
+memprogram dalam bahasa assembly, diperlukan pengetahuan yang benar tentang
+perangkat keras, representasi data, cara kerja pemprosesan, dan instruksi-instruksi
+mesin komputer
+2. Bahasa tingkat tinggi, memiliki kedekatan dengan bahasa dan cara berpikir
+manusia. Contoh : bahasa Pascal
+3. Bahasa tingkat menengah, antara kedua tingkat di atas. Contoh : bahasa C
+Berdasarkan paradigma
+
+Pemprograman komputer dapat diklasifikasikan sebagai berikut
+PEMPROGRAMAN PROSEDURAL
+
+Program tersusun atas prosedur-prosedur algoritma. Pemprograman prosedural dicirikan
+dengan adanya sequence (urutan), branch (pencabangan), dan loop (pengulangan).
+-
+
+Urutan, berarti bahasa tersebut memiliki urutan pemprosesan tertentu, biasanya
+dari atas ke bawah dan dari kiri ke kanan.
+
+-
+
+Pencabangan, merupakan alternatif alur program berdasarkan evaluasi terhadap
+kondisi tertentu. Contoh pencabangan adalah beberapa statement berikut
+o
+
+IF <kondisi> THEN <aksi>
+
+o
+
+IF <kondisi> THEN <aksi1> ELSE <aksi2>
+
+o
+
+CASE <nilai>
+<nilai 1> : <aksi 1>
+<nilai 2> : <aksi 2>
+<nilai n> : <aksi n>
+21
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+-
+
+Pengulangan terhadap alur program berdasarkan evaluasi terhadap kondisi
+tertentu. Contoh pengulangan adalah beberapa statement berikut
+o
+
+REPEAT <aksi> UNTIL <kondisi>
+
+o
+
+WHILE <kondisi> DO <aksi>
+
+o
+
+FOR <n> DO <aksi>
+
+Contoh bahasa Pemprograman Prosedural : Pascal, C, Basic,
+PEMPROGRAMAN FUNGSIONAL,
+
+tersusun atas fungsi-fungsi, baik yang sudah terdefinisi maupun yang dibuat sendiri oleh
+pengguna. Contoh : LISP
+PEMPROGRAMAN DEKLARATIF
+
+Tersusun atas deklarasi-deklarasi logika, berupa fakta, aturan, dan sasaran. Bahasa
+pemprograman prosedural memiliki mekanisme inferensi, yang memungkinkan komputer
+‘menalar’ atau menelusuri berbagai fakta dan aturan yang diberikan untuk mendapatkan
+hasil / jawaban dari pertanyaan tertentu.
+Contoh : Prolog (programming in logic)
+PEMPROGRAMAN BERORIENTASI OBJEK
+
+Dalam pemprograman berorientasi objek, persoalan dan solusinya dimodelkan sebagai
+objek. Objek adalah segala sesuatu di alam semesta (lahiriah) yang dapat diamati. Setiap
+objek merupakan anggota, atau merupakan instance dari kelas objek tertentu. Setiap kelas
+objek minimal memiliki :
+1. nama kelas objek yang unik, membedakannya dengan kelas objek yang lain
+2. atribut-atribut, atau data, atau properti-properti, atau sifat-sifat yang melekat pada
+kelas objek tersebut
+3. perilaku, atau kemampuan, atau operasi, atau method, atau tanggung jawab yang
+melekat pada kelas objek tersebut
+Ciri utama dari
+pemprograman berorientasi objek adalah adanya encapsulation
+(pembungkusan), inheritance (penurunan sifat), dan polymorphism (perubahan bentuk).
+-
+
+Encapsulation, merupakan pembungkusan suatu kelas objek dengan atributatribut dan perilaku-perilaku yang dimilikinya. Contoh kelas objek sederhana
+
+-
+
+Inheritance, merupakan penurunan sifat dari kelas objek induk kepada kelas objek
+anaknya, dari suatu kelas objek yang lebih general / umum kepada kelas objek yang
+lebih spesifik / khusus.
+
+-
+
+Polymorphism, berarti objek yang berbeda-beda yang diturunkan dari induk yang
+sama mendukung antarmuka properti dan method yang sama. (dapat dipahami jika
+telah terlibat lebih lanjut dengan pemprograman berorientasi objek)
+
+Contoh : Object Pascal, C++, Eiffel, SmallTalk, Java, C#
+22
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Cara Kerja
+Penerjemahan dari kode sumber dalam bahasa tingkat tinggi kedalam instruksi mesin
+dilakukan dengan dua macam cara, yaitu kompilasi dan interpretasi
+1. kompilasi, merupakan penerjemahan keseluruhan kode sumber menjadi kode
+biner, yang selanjutnya dieksekusi oleh mesin / komputer
+2. interpretasi, merupakan penerjemahan baris per baris kode sumber kedalam
+instruksi komputer yang bersesuaian
+
+Pengantar Teori Bahasa
+Bahasa pemprograman modern dikembangkan dengan menggunakan teori bahasa,
+sehingga memiliki sifat-sifat yang analogis dengan bahasa manusia. Bahasa memiliki grammar
+(tata bahasa), yang tersusun atas berbagai aturan produksi.
+Sebagai contoh, dalam tata bahasa Bahasa Indonesia, terdapat aturan sebagai berikut
+-
+
+setiap naskah terdiri atas satu atau beberapa paragraf
+setiap paragraf terdiri atas satu atau beberapa kalimat
+setiap kalimat tersusun atas subjek, predikat, objek, dan keterangan
+subjek dan objek dalam kalimat merupakan frase benda
+frase benda dapat tersusun atas satu kata benda atau kombinasi kata benda dan
+kata sifat, dengan susunan M-D
+predikat merupakan frase kerja atau sifat
+dan seterusnya
+
+Dalam bahasa pemprograman, aturan produksi biasa dinyatakan dalam bentuk regular
+expression.
+Tahap-tahap analisis
+1. Analisis Leksikal, merupakan analisis terhadap satuan-satuan leksikal (token, atau
+simbol) dari kode sumber. Dari analisis ini akan diketahui jenis-jenis token yang
+dibaca. Dapat diketahui juga jika terdapat token / simbol yang tidak dikenal atau
+salah. Proses ini biasa juga disebut sebagai scanning.
+2. Analisis Sintaktik, dilakukan setelah analisis leksikal dilalui dengan benar (tidak ada
+token salah atau token tak dikenal). Dalam analisis sintaktik, dilakukan
+pemeriksaan kesesuaian kode sumber dengan aturan produksi dari grammar bahasa
+tersebut. Proses ini biasa juga disebut sebagai parsing.
+3. Analisis Semantik, biasa dilakukan bersamaan dengan analisis sintaktik. Analisis
+semantik dapat dianggap sebagai analisis terhadap kebenaran ‘makna’ dari suatu
+ekspresi. Contoh analogis : kalimat ‘Kucing makan mobil’ adalah benar secara tata
+bahasa, tetapi tidak benar maknanya.
+
+23
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+Bab 6. Sistem Informasi
+Pengertian
+
+Sistem Informasi Manajemen (SIM)
+
+-
+
+SIM terutama melayani fungsi perencanaan, pengendalian, dan pengambilan
+keputusan di tingkat manajemen
+
+-
+
+SIM merangkum dan melaporkan operasi-operasi dasar dari perusahaan
+
+-
+
+SIM biasanya melayani manajer yang tertarik pada hasil-hasil mingguan, bulanan,
+dan tahunan
+
+Sistem Pendukung (pengambilan)Keputusan (SPK)
+
+-
+
+SPK membantu para manajer untuk mengambil keputusan yang semi-terstruktur,
+unik, atau berubah dengan cepat, dan tidak dapat ditentukan dengan mudah di
+awal
+
+-
+
+SPK lebih memiliki kemampuan analisis dibandingkan sistem lain
+
+Ilustrasi Sistem Informasi
+
+Berikut ilustrasi sebuah sistem informasi sederhana
+Management Information System
+Transaction Processing
+System
+
+MIS Databases
+
+Order
+Processing
+System
+Material
+Resource
+Planning
+System
+
+MIS
+
+Reports
+General
+Ledger
+System
+
+Manajer
+
+Karakteristik Sistem Informasi Manajemen
+
+-
+
+SIM mendukung pengambilan keputusan terstruktur pada tingkat kendali
+operasional dan manajemen. Juga berguna untuk tujuan-tujuan perencanaan bagi
+manajer senior
+
+-
+
+Biasanya berorientasi pada pelaporan dan pengendalian
+
+-
+
+SIM bergantung pada basis data dan alur data yang telah tersedia di perusahaan
+
+-
+
+SIM memiliki kapabilitas analitik
+24
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+-
+
+SIM secara umum membantu dalam pengambilan keputusan menggunakan data
+saat ini dan masa lalu
+
+-
+
+SIM bisa memiliki orientasi internal atau eksternal
+
+Jenis Sistem Informasi
+
+Terdapat bermacam-macam sistem informasi, sesuai dengan tingkatan manajemen dan
+fungsi bisnisnya, sebagaimana terlihat pada ilustrasi berikut
+Tingkat Manajemen
+
+Jenis SI
+
+Strategis
+
+Keputusan
+
+Manajemen
+
+Keputusan,
+Operasi
+
+Knowledge
+
+Operasi
+
+Operasional
+
+Historis
+Sales
+
+Manufacture
+
+Finance
+
+HRD
+
+Siklus Hidup Pengembangan
+Metode pengembangan Sistem Informasi meliputi beberapa tahap secara umum sebagai
+berikut
+1. Perencanaan
+2. Analisis
+3. Perancangan
+4. Pengembangan
+5. Penggunaan
+Tahap Perencanaan
+
+Tujuan
+1. menentukan ruang lingkup proyek
+2. mengenali berbagai area permasalahan potensial
+3. mengatur urutan tugas
+4. membuat dasar untuk pengendalian
+
+25
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+Tahap Analisis
+
+Tujuan : penelitian sistem yang telah ada dengan target merancang sistem yang baru atau
+diperbarui
+Langkah-langkah :
+1. sosialisasi penelitian sistem
+2. pengorganisasian tim proyek
+3. mendefinisikan kebutuhan sistem informasi
+4. menyiapkan usulan rancangan
+5. menerima / menolak rancangan
+Tahap Perancangan
+
+Tujuan : menentukan operasi dan data yang dibutuhkan oleh sistem baru
+Langkah :
+1. menyaipakan rancangan sistem terperinci
+2. mengidentifikasi berbagai alternatif konfigurasi sistem
+3. mengevaluasi berbagai alternatif sistem
+4. memilih konfigurasi terbaik
+5. menyiapkan usulan penerapan
+Tahap Pengembangan
+
+Tujuan : memperoleh dan mengintegrasikan sumber daya fisik dan konseptual yang
+menghasilkan sebuiah sistem yang bekerja
+Langkah :
+1. merencanakan pengembangan
+2. mendapatkan sumberdaya perangkat keras dan lunak
+3. menyiapkan basisdata
+4. melatih pengguna
+5. masuk ke sistem baru
+Tahap Penggunaan
+
+Tujuan : menggunakan sistem baru, melakukan penelitian formal untuk menilai sejauh
+mana kinerja sistem baru dan memeliharanya
+Langkah :
+1. menggunakan sistem baru
+26
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+2. mengaudit sistem baru
+3. memelihara : memperbaiki kesalahan, memutakhirkan, dan meningkatkan lagi
+sistem
+
+27
+
+Kuliah Pengantar IlmuKomputer.Com
+Copyright © 2003 IlmuKomputer.Com
+
+

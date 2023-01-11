@@ -1,0 +1,708 @@
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+ANALISIS KESALAHAN SISWA DALAM MENYELESAIKAN
+SOAL CERITA PROGRAM LINEAR DENGAN
+PROSEDUR NEWMAN
+Dinda Rahmawati1, Laelatul Dhian Permata2
+1,2
+
+Pascasarjana Pendidikan Matematika, Universitas Sebelas Maret
+
+Abstract—One of the mathematics materials in high school is a linear program. The
+problems associated with a linear program are usually presented in a story problem.
+Based on the report of national exam results by Puspendik 2017 that the percentage of
+mastery of math problems subjects national exam SMA N I Wonosari in solving
+problems associated with linear program is equal to 52.78%. The data shows that there
+are still many students who make mistakes on linear program material. To overcome
+these problems, it is necessary an analysis to be able to know the types of mistakes
+made by students. This study aims to analyze students' errors in solving the story
+problem on linear program materials using Newman analysis. This research uses
+descriptive analysis method. The subjects of this study are 15 students of class XI SMA
+N 1 Wonosari Lesson Year 2017/2018. Data collection is done by test method. Based
+on data analysis result using Newman's error analysis procedure, it is concluded that
+students do (1) reading errors of 23.33%, (2) comprehension errors of 81.67%, (3)
+transformation errors of 30%, (4) process skills errors of 56.67%, (5) encoding errors
+of 66.67%. The type of mistake that students often make is not to write down what is
+known and what is asked in the question, which results in a student's mistake in writing
+the conclusion. Error analysis can be used to determine the location of student error, so
+that can be used as a basis for consideration improvement of learning by teachers.
+Keywords: Newman, Story Problem, Program linear.
+
+PENDAHULUAN
+Matematika adalah ilmu yang memilikiobjek kajian berupa fakta, konsep,
+prosedur, dan prinsip yang bersifat abstrak. Konsep-konsep dalam matematika saling
+berhubungan satu sama lain. Artinya, konsep yang telah dipelajari siswa sebelumnya akan
+menjadi dasar untuk menguasai konsep pada materi selanjutnya. Dalam mempelajari
+matematika, siswa dituntut untuk dapat menghubungkan konsep-konsep matematika yang
+nantinya akan berguna dalam proses pemecahan masalah. Menurut Priyanto (2015),
+pemecahan masalah dalam matematika sekolah biasanya diwujudkan melalui soal cerita.
+Soal cerita merupakan soal yang dibuat dalam bentuk cerita serta berkaitan dengan
+kehidupan sehari-hari. Menurut Susanti (2017), soal cerita cenderung lebih sulit untuk
+dipecahkan dibanding soal yang hanya mengandung bilangan. Dalam memecahkan soal
+cerita, siswa harus mampu memahami isi soal cerita tersebut, mengetahui obyek-obyek
+matematika yang harus diselesaikan, mampu memisalkannya ke dalam model
+matematika, kemudian mampu memilih operasi hitung yang tepat untuk menyelesaikan
+soal cerita tersebut, hingga tahap akhir yaitu penyelesaian serta penarikan kesimpulan.
+Salah satu materi matematika pada satuan pendidikan Sekolah Menengah Atas
+(SMA) yang dirasa sulit oleh siswa adalah aljabar. Menurut Yunarni, Awi & Asdar
+
+173
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+(2015) aljabar sering dianggap sebagai pelajaran yang sulit dan abstrak bagi siswa, karena
+untuk berpikir aljabarseseorang harus mampu memahami pola, dan menggunakan model
+matematika untuk mewakili dan memahami hubungan kuantitatif. Salah satu pokok
+bahasan pada materi aljabar adalah program linear. Dalam memecahkan soal cerita
+program linear, siswa harus mampu mengubah soal ke dalam model matematika. Menurut
+Karnasih (2015), model matematika sendiri memiliki peran penting dalammembantu
+anak-anak lebih memahamiproses merubah keadaan nyata ke dalambahasa matematika
+(mathematizing).
+Kesulitan siswa dalam memecahkan masalah pada soal cerita program linear
+dibuktikan dengan rendahnya daya serap siswa SMA Negeri 1 Wonosari pada Ujian
+Nasional tahun pelajaran 2016/2017 dalam menyelesaikan masalah yang berkaitan
+dengan program linear yaitu sebesar 52,78%. Hal ini menunjukkan bahwa masih banyak
+terjadi kesalahan dalam menyelesaikan soal cerita pada masalah program linear.
+Kesalahan-kesalahan yang terjadi pada siswa dalam menyelesaikan soal cerita pada
+penelitian ini akan dianalisis menggunakan Newman’s Error Analysis (NEA). NEA
+merupakan tahapan untuk memahami dan menganalisis bagaimana siswa menjawab
+sebuah permasalahan yang ada pada soal. Newman (dalam White, 2010) menyatakan
+bahwa ketika siswa menjawab sebuah permasalahan pada soal, maka siswa tersebut telah
+melewati berbagai rintangan dalam menyelesaikan masalah yaitu; membaca masalah
+(reading), memahami masalah (comprehension), transformasi masalah (transformation),
+proses penyelesaian (process skill) dan penulisan kesimpulan (encoding). Menurut
+Newman (1983), NEA dikembangkan untuk membantu guru ketika berhadapan dengan
+siswa yang mengalami kesulitan dengan masalah soal cerita matematis. Kesalahan serta
+kesulitan siswa yang ditemukan berdasarkan prosedur analisis kesalahan Newman
+menjadi pokok penting untuk dapat mengetahui jenis kesalahan siswa dalam
+memecahkan soal cerita khususnya pada materi program linear. Dengan diperolehnya
+informasi terkait jenis kesalahan yang dilakukan siswa, guru dapat menggunakannya
+sebagai acuan dalam menentukan rancangan pembelajaran yang sesuai untuk
+meminimalisir terjadinya kesalahan dalam menyelesaikan soal cerita yang serupa,
+sehingga nantinya hasil belajar siswa diharapkan akan meningkat.
+Tujuan dari penelitian ini adalah untuk mengetahui jenis kesalahan yang
+dilakukan oleh siswa kelas XI SMA Negeri 1 Wonosari Tahun Pelajaran 2017/2018
+dalam menyelesaikan soal materi program linear dengan menggunakan prosedur
+Newman. Analisis kesalahan ini dapat digunakan untuk mengetahui letak kesalahan
+
+174
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+siswa, sehingga nantinya dapat dijadikan sebagai dasar pertimbangan perbaikan
+pembelajaran oleh guru.
+
+METODE PENELITIAN
+Penelitian ini menggunakan metode analisis deskriptif. Penelitian ini bertujuan
+untuk mendapatkan gambaran mendalam serta informasi secara terperinci mengenai
+kesalahan-kesalahan yang dilakukan siswa dalam menyelesaikan soal cerita program
+linear berdasarkan prosedur analisis kesalahan Newman. Subyek penelitian ini adalah
+siswa kelas XI SMA Negeri 1 Wonosari tahun pelajaran 2017/2018 sebanyak 15 siswa.
+Lokasi penelitian adalah SMA Negeri 1 Wonosari yang terletak di Boto, Wonosari,
+Kabupaten Klaten.
+Teknik pengumpulan data yang digunakan pada penelitian ini adalah metode tes,
+hal ini dilakukan untuk mendapatkan data tentang kesalahan siswa dalam menentukan
+hasil penyelesaian soal cerita matematika. Soal tes yang diberikan terdiri dari 4 soal cerita
+pada pokok bahasan program linear. Data yang diperoleh pada penelitian ini berupa
+lembar jawaban siswa, nantinya jawaban siswa akan digunakan untuk mengidentifikasi
+serta menentukan besarnya persentase jenis kesalahan siswa pada soal cerita program
+linear. Untuk melihat berapakah persentase jenis kesalahan siswa pada tiap butir
+soal ceita yang diberikan menggunakan rumus:
+𝑃=
+
+𝑛
+𝑥 100%
+𝑁
+
+Keterangan :
+P
+
+: Persentase jenis kesalahan siswa
+
+n
+
+: Banyaknya kesalahan untuk masing-masing jenis kesalahan
+
+N
+
+: Banyaknya kemungkinan kesalahan
+
+Analisis data dilakukan dengan menganalisis bagian kesalahan hasil tes siswa
+dalam
+
+tahap
+
+membaca
+
+(reading),
+
+pemahaman
+
+(comprehension),
+
+transformasi
+
+(transformation), keterampilan proses (process skill) serta penulisan jawaban akhir
+(encoding) sesuai langkah yang telah dikerjakan siswa dalam meyelesaikan pada tiap
+butir soal cerita program linear yang telah diberikan. Selanjutnya, dilakukan reduksi pada
+hasil tes tersebut untuk memperoleh kesimpulan yang digunakan untuk mendeskripsikan
+kesalahan-kesalahan yang dilakukan siswa dalam menyelesaikan soal cerita program
+linear berdasarkan proseduranalisis kesalahan Newman.
+
+175
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+HASIL DAN PEMBAHASAN
+Dari hasil analisis jawaban pada lembar tes siswa, ditemukan jenis kesalahan
+yang dilakukan oleh siswa berdasarkan prosedur analisis kesalahan Newman yaitu
+kesalahan membaca (reading errors), kesalahan pemahaman (comprehension errors),
+kesalahan transformasi (transformation errors), kesalahan keterampilan proses (process
+skill errors), serta kesalahan penulisan jawaban akhir (encoding errors). Bentuk
+kesalahan yang dilakukan siswa dalammenyelesaikan soal cerita program linear
+berdasarkan prosedur Newman secara lebih rincidapat dilihat pada Tabel 1.
+Tabel 1. Jenis Kesalahan Siswa
+Siswa
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
+Soal Nomor 1
+D,E
+B,D,E
+A,B,C,D
+A,B,C,D,E
+A,B,C,D,E
+D,E
+D,E
+A,B,C,D,E
+B
+A,B,C,D,E
+B
+B,E
+A,B,C,D,E
+B,C,D,E
+A,B,C,D
+Catatan :
+
+Jenis Kesalahan
+Soal Nomor 2
+Soal Nomor 3
+B,E
+B,D,E
+A,B,D,E
+N
+B
+B,D,E
+A,B,D,E
+B,C,D,E
+A,B,D,E
+A,B,C,D,E
+B
+B,D,E
+A,B,D,E
+B,C,D,E
+A,B,D,E
+B,E
+B,D,E
+B,C,D,E
+A,B,D,E
+N
+D,E
+B,E
+B
+A,B,C,D,E
+B,E
+B
+B,E
+B,E
+B,E
+B,E
+
+Soal Nomor 4
+B,C,E
+B,C,D
+B,C,D
+B,D
+N
+B,C,D
+B,D,E
+N
+B,C,D,E
+N
+N
+B
+B
+B,E
+B,D,E
+
+A
+
+: Kesalahan Membaca (reading errors)
+
+B
+
+: Kesalahan Pemahaman (comprehension errors)
+
+C
+
+: Kesalahan Transformasi (transformation errors)
+
+D
+
+: Kesalahan Keterampilan Proses (process skill errors)
+
+E
+
+: Kesalahan Penulisan Jawaban Akhir (encoding errors)
+
+N
+
+: Soal Tidak Dikerjakan
+
+Dengan melihat data kesalahan masing-masing siswa pada Tabel 1 nampak
+bahwa masih banyak siswa yang melakukan kesalahan berdasarkan prosedur analisis
+kesalahan Newman dalam menyelesaikan soal cerita program linear. Berikut disajikan
+rekapitulasi persentase kesalahan siswa pada Tabel 2.
+
+176
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+Tabel 2. Rekapitulasi Persentase Kesalahan Siswa
+Jenis Kesalahan
+Membaca
+Pemahaman
+Transformasi
+Keterampilan Proses
+Penulisan Akhir
+
+Banyak Siswa Yang Melakukan
+Kesalahan Pada Soal
+1
+2
+3
+4
+7
+5
+2
+0
+12
+13
+13
+11
+8
+0
+5
+5
+11
+8
+8
+7
+11
+12
+12
+5
+
+Total
+
+Persentase
+
+14
+49
+18
+34
+40
+
+23,33%
+81,67%
+30%
+56,67%
+66,67%
+
+Dari Tabel 2 terlihat bahwa kesalahan yang paling banyak dilakukan oleh siswa
+adalah kesalahan pemahaman yaitu sebesar 81,67%. Berdasarkan hasil analisis pada
+lembar tes yang telah dikerjakan siswa, kesalahan pemahaman ini terjadi karena banyak
+siswa yang tidak lengkap dalam menyebutkan apa yangdiketahui dan apa yang
+ditanyakan dalam soal cerita program linear yang diberikan. Berdasarkan hasil data yang
+diperoleh, terdapat jenis-jenis kesalahan kesalahan siswa yang dijumpai dalam
+menyelesaikan soal cerita program linear. Masing-masing kesalahan yang dilakukan
+siswa berdasarkan prosedur Newman tersebut, akan dibahas secara lebih rinci yaitu
+sebagai berikut.
+A. Kesalahan Membaca (reading errors)
+Hasil analisis data menunjukkan bahwa rata-ratapersentase kesalahan membaca
+sebesar 23,33%.Hal ini menunjukkan bahwa kesalahan membaca terbilang rendah.
+Pada kesalahan membaca siswa masih mengalami kesalahan dalam memaknai
+kalimat dengan tepat, kesalahan dalam menemukan kata kunci pada soal dan
+kesalahan membaca informasi serta simbol matematika dalam soal dengan lengkap.
+Contoh kesalahan membaca adalah kesalahan yang dilakukan oleh subjek 8 (S-8) pada
+saat mengerjakan soal no 2. Contoh kesalahan tersebut dapat dilihat pada Gambar 1.
+
+177
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+Gambar 1. Contoh Kesalahan Membaca
+Pada Gambar 1 dapat dilihat bahwa S-8 melakukan kesalahan membaca yaitu
+tidak membaca informasi dan simbol matematika yang terdapat dalam soal dengan
+lengkap. Pada soal yang diberikan, siswa diminta untuk menentukan berapa %
+keuntungan terbesar yang dapat dicapai oleh pengrajin tas. Namun, karena S-8 tidak
+membaca simbol % yang terdapat pada soal, sehingga ia melakukan kesalahan dalam
+menentukan jawaban soal yang diminta yaitu tidak mengubah keuntungan yang
+diperoleh dalam rupiah menjadi bentuk persentase (%).
+Berdasarkan hasil analisis tes pada siswa dapat disimpulkan bahwa kesalahan
+membaca yang dilakukan siswa berupa: kesalahan dalam memaknai kalimat dengan
+tepat, kesalahan dalam menemukan kata kunci pada soal, serta kesalahan membaca
+informasi dan simbol matematika dalam soal dengan lengkap. Hal ini sesuai dengan
+penelitian yang dilakukan oleh Singh, Rahman & Hoon (2010) bahwa kesalahan
+membaca terjadi ketika kata-kata atau simbol yang tertulis gagal diakui oleh subjek
+yang menyebabkannya gagal untuk menyelesaikan masalah berdasarkan langkahlangkah penyelesaian yang tepat.
+B. Kesalahan Pemahaman (comprehension errors)
+Persentase kesalahan pemahamansebesar 81,67 %, hal ini menunjukkan bahwa
+kesalahan pemahaman tergolong sangattinggi dan paling banyak dilakukan oleh siswa.
+Pada
+
+kesalahan pemahaman
+
+ini, banyak sekali siswa yang sulitmemahami soal
+
+diantaranya siswa melakukan kesalahandengan tidak menuliskan apa yang diketahui
+dan apa yangditanyakan. Contoh kesalahan pemahaman adalah kesalahan yang
+dilakukan oleh subjek 3 (S-3) pada saat mengerjakan soal no 1. Contoh kesalahan
+tersebut dapat dilihat pada Gambar 2 berikut.
+
+Gambar 2. Contoh Kesalahan Pemahaman
+Pada Gambar 2 dapat dilihat bahwa S-3 melakukan kesalahan pemahaman
+yaitu tidak menuliskan apa yang diketahui dan apa yang ditanyakan dari soal pada
+langkah penyelesaian yang ia kerjakan. Subjek 3 (S-3) hanya membuat pemisalan
+
+178
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+pakaian 𝐴 = 𝑥dan pakaian 𝐵 = 𝑦,kemudian siswa langsung mengubah soal menjadi
+kalimat matematika.
+Berdasarkan hasil analisis tes pada siswa dapat disimpulkan bahwa kesalahan
+pemahaman yang dilakukan siswa berupa: tidak menuliskan apa yang diketahui dalam
+soal dan tidak menuliskan apa yang ditanyakan dalam soal. Menurut penelitian yang
+dilakukan oleh Chusnul (2017) siswa melakukan kesalahan pemahaman dengan tidak
+menuliskan informasi dan pertanyaan. Hal ini terjadi karena siswa tidak mengerti
+tentang informasi yang terkandung dalam masalah serta siswa juga tidak mengerti
+tentang pertanyaanyang terkandung dalam masalah, sehingga informasi yang ditulis
+oleh siswa belum lengkap.
+C. Kesalahan Transformasi (transformation errors)
+Persentase kesalahan transformasi sebesar 30%, hal ini menunjukkan bahwa
+kesalahan transformasi tergolong rendah. Pada kesalahan trensformasi, siswa
+melakukan kesalahan dalam mentransformasikan informasi yang mereka ketahui
+dalam soal kedalam model matematika yang benar, siswa juga banyak mengalami
+kesalahan dalam menentukan rumus serta operasi hitung yang akan digunakan untuk
+menyelesaikan soal cerita. Kesalahan transformasi akan mempengaruhi kesalahankesalahan yang lainnya yaitu kesalahan keterampilan proses dan kesalahan penulisan
+jawaban. Contoh kesalahan transformasi adalah kesalahan yang dilakukan oleh subjek
+5 (S-5) pada saat mengerjakan soal no 3. Contoh kesalahan tersebut dapat dilihat pada
+Gambar 3 berikut.
+
+Gambar 3. Contoh Kesalahan Transformasi
+Pada Gambar 3 dapat dilihat bahwa S-5 melakukan kesalahan transformasi
+berupa tidak mampu membuat model matematika yaitu fungsi tujuan untuk
+memperoleh penghasilan maksimum, siswa juga tidak mampu menentukan rumus
+serta langkah penyelesaian yang tepat untuk menyelesaikan masalah pada soal. Hal
+tersebut mengakibatkan siswa tidak mampu menyelesaikan masalah pada soal cerita
+program linear yang disajikan.
+Berdasarkan hasil analisis tes pada siswa dapat disimpulkan bahwa kesalahan
+transformasi yang dilakukan siswa berupa: tidak mampu membuat model matematika
+
+179
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+serta tidak mampu menentukan rumus serta langkah penyelesaian yang tepat untuk
+menyelesaikan masalah pada soal. Kesalahan transformasi ini sesuai dengan pendapat
+Prakitipong & Nakamura (2006) yang menyatakan bahwa kesalahan terjadi di tingkat
+transformasi karena siswa memahami apa pertanyaannya, tetapi tidak bisa berhasil
+dalam mengembangkan operasi yang sesuai untuk menyelesaikan masalah.
+D. Kesalahan Keterampilan Proses (process skill errors)
+Persentase kesalahan keterampilan proses sebesar 56,67%, hal ini
+
+menunjukkan
+
+bahwakesalahan keterampilan proses tergolongsedang. Pada kesalahan keterampilan
+proses, masih banyak ditemukan siswa yang melakukankesalahan yaitu berupa
+kesalahan konsep, kesalahan komputasi dan kesalahan dalam menentukan operasi
+hitung serta langkah-langkah penyelesaiannya. Sebenarnya tidak sedikit siswa yang
+mampu menentukan operasi hitung namun tidak mengetahui langkah-langkah yang
+akan digunakan untuk menyelesaikan masalah dengan tepat, sehingga banyak siswa
+yang tidak melanjutkan prosedurpenyelesaian hingga selesai. Contoh kesalahan
+keterampilan proses dapat dilihat pada Gambar 4 berikut. Pada kesalahan ini, diambil
+subjek yang melakukan kesalahan pada soal nomor 2 yaitu subjek 9 (S-9).
+
+Gambar 4. Contoh Kesalahan Ketrampilan Proses
+Pada Gambar 4 dapat dilihat bahwa S-9 melakukan kesalahan keterampilan
+proses yaitu salah dalam menuliskan fungsi tujuan yang akan dicapai yaitu 𝑓 𝑥, 𝑦 =
+40%𝑥 + 30%𝑦 , seharusnya fungsi tujuan yang benar adalah 𝑓 𝑥, 𝑦 = 8000𝑥 +
+
+180
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+9000𝑦 atau 𝑓 𝑥, 𝑦 = 40% × 20.000𝑥 + 30% × 30.000𝑦 .
+
+Subjek
+
+9
+
+(S-9)
+
+sebenarnya mampu menentukan koordinat titik sudut daerah layak dari soal program
+linear, namun siswa salah dalammenggambar daerah layak yaitu tidak meletakkan
+semua koordinat titik yang telah ditemukan secara lengkap. Siswa juga tidak
+mengetahui langkah-langkah yang akan digunakan untuk menyelesaikan masalah
+dengan tepat, sehingga siswa berhenti di tengah jalan dan tidak mampu menyelesaikan
+permasalahan pada soal cerita tersebut.
+Berdasarkan hasil analisis tes pada siswa dapat disimpulkan bahwa kesalahan
+keterampilan proses yang dilakukan siswa berupa: tidak mengetahui langkah-langkah
+yang akan digunakan untuk menyelesaikan masalah dengan tepat, kesalahan prosedur
+seperti salah dalam menulis fungsi tujuan yang akan dicapai, kesalahan
+dalammenggambarkan daerah layak sesuai dengan yang diminta pada soal cerita
+program linear.Hal ini sejalan dengan pendapat Jha (2012) bahwa kesalahan
+keterampilan proses yaitu siswa mampu mengidentifikasi operasi yang sesuai, atau
+serangkaian operasi, tetapi tidak tahu langkah-langkah yang diperlukan untuk
+melaksanakan operasi ini dengan sempurna.
+E. Kesalahan Penulisan Jawaban Akhir (encoding errors)
+Persentase kesalahan penulisan jawaban akhir (encoding)sebesar 66,67%. Hal ini
+menunjukkan bahwakesalahan penulisan jawaban akhir tergolong tinggi. Pada
+kesalahan penulisan jawaban akhir ini banyak siswayang tidak mampu menemukan
+hasil akhir dari soal dengan benar, siswa tidak dapat menunjukkan jawaban akhir
+dengan benar, serta siswa juga tidak dapat menuliskan jawaban akhir sesuai dengan
+kesimpulan. Contoh kesalahan penulisan jawaban akhir dapat dilihat pada Gambar 5
+berikut. Pada kesalahan penulisan jawaban akhir ini, diambil subjek yang melakukan
+kesalahan pada soal nomor 4 yaitu subjek 14 (S-14).
+
+Gambar 5. Contoh Kesalahan Penulisan Jawaban Akhir
+
+181
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+Pada Gambar 5 dapat dilihat bahwa S-14 melakukan kesalahan penulisan
+jawaban akhir (encoding), sebenarnya S-14 mampu menemukan hasil akhir dari soal
+dengan benar yaitu keuntungan maksimum yang diperoleh pedagang kue sebesar
+Rp600.000, namun siswa melakukan kesalahan yaitu tidak mampu menunjukkan
+jawaban akhir dengan benar dan tidak dapat menuliskan jawaban akhir sesuai dengan
+kesimpulan.
+Berdasarkan hasil analisis tes pada siswa dapat disimpulkan bahwa
+kesalahanpenulisan jawaban akhir yang dilakukan siswa berupa: tidak mampu
+menemukan hasil akhir dari soal dengan benar, tidak mampu menunjukkan jawaban
+akhir dengan benar dan tidak dapat menuliskan jawaban akhir sesuai dengan
+kesimpulan. Menurut Santoso (2017), kesalahan penulisan jawaban akhir (encoding
+errors) sangat disayangkan, karenasiswa telah berhasil mencapai tahap pengolahan
+data tetapi gagal untuk menulis solusi akhir. Kesalahan ini terjadi karenakesalahan dan
+kurang memahami siswa tentang isu-isu yang bersangkutan.
+Dengan mengetahui kesalahan-kesalahan yang dilakukan oleh siswadalam
+menyelesaikan soal cerita program linear berdasarkan prosedur Newman, guru dapat
+menggunakannya sebagai acuan dalam menentukan rancangan pembelajaran yang sesuai
+untuk meminimalisir terjadinya kesalahan yang serupa.Salah satu upaya untuk dapat
+meminimalisir kesalahan-kesalahan tersebut menurut Junaedi, et al (2015) adalah dengan
+memberikan Learning Therapy, yaitu dilakukan dengan memberikan contoh-contoh
+berbagai pemecahan masalah matematika dengan cara berikut. (1) Mempelajari materi
+prasyarat yang mendasari solusi masalah (untuk menghindari penyebab dari jenis
+kesalahan membaca) (2) Berlatih memahami masalah dengan menulis apa yang diketahui
+dan apa yang ditanyakan dengan benar (untuk menghindari penyebab dari jenis kesalahan
+pemahaman) (3) Berlatih untuk menulis formula atau strategi pemecahan sehingga
+pekerjaan lebih lanjut memiliki arah yang jelas dan benar (untuk menghindari penyebab
+kesalahan tipe transformasi). (4) Memecahkan masalah berdasarkan formula dan strategi
+yang telah dipilih dengan cermat, rinci, dan benar-benar (untuk menghindari penyebab
+dari jenis kesalahan keterampilan proses). (5) Melatih siswa untuk memeriksa kembali
+pekerjaan mereka dalam menjawab pertanyaan sesuai dengan pertanyaan dari masalah
+(untuk menghindari penyebab dari jenis kesalahan penulisan jawaban akhir atau
+encoding). Pentingnya pemberian Learning Therapy menurut Suyitno (2015), agar siswa
+dapat mengkomunikasikan ide-ide dengan menuliskan solusi dengan benar dan akurat.
+
+182
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+SIMPULAN DAN SARAN
+Berdasarkan hasil analisis data dengan menggunakan prosedur analisis kesalahan
+Newman diperoleh kesimpulan bahwa siswa melakukan (1) reading errors sebesar
+23,33%, (2) comprehension errors sebesar 81,67%, (3) transformation errors sebesar
+30%, (4) process skills errors sebesar 56,67%, (5) encoding errors sebesar 66,67%.
+Sedangkan bentuk-bentuk kesalahan siswa ditinjau dari prosedur analisis kesalahan
+Newman adalah sebagai berikut :
+a. Kesalahan Membaca (reading errors)
+1. Siswa tidak dapat memaknai kalimat soal yang mereka baca dengan tepat.
+2. Siswa mengalami kesalahan dalam menemukan kata kunci pada soal.
+3. Siswa tidak membaca informasi dan simbol matematika dalam soal dengan
+lengkap.
+b. Kesalahan Pemahaman (comprehension errors)
+1. Siswa tidak menuliskan apa yang diketahui dalam soal.
+2. Siswa tidak menuliskan apa yang ditanyakan dalam soal.
+c. Kesalahan Transformasi (transformation errors)
+1. Siswa tidak mampu mentransformasikan informasi yang mereka ketahui dalam
+soal kedalam kalimat matematika yang benar.
+2. Siswa mengalami kesalahan dalam menentukan rumus serta operasi hitung yang
+akan digunakan untuk menyelesaikan soal.
+d. Kesalahan Keterampilan Proses (process skill errors)
+1. Siswa melakukan kesalahan konsep dan kesalahan prosedur.
+2. Siswa
+
+tidak
+
+mengetahui
+
+langkah-langkah
+
+yang
+
+akan
+
+digunakan
+
+untuk
+
+menyelesaikan masalah dengan tepat.
+e. Kesalahan Penulisan Jawaban Akhir (encoding errors)
+1. Siswatidak mampu menemukan hasil akhir dari soal dengan benar.
+2. Siswa tidak dapat menunjukkan jawaban akhir dengan benar.
+3. Siswa tidak dapat menuliskan jawaban akhir sesuai dengan kesimpulan.
+Berdasarkan simpulan hasil penelitian disampaikan beberapa saran yaitu: (1)
+Bagi siswa yang melakukan kesalahan dalam menyelesaikan soal cerita program linear,
+sebaiknya siswa mempelajari materi program linear dengan baik agar memiliki
+kemampuan untuk mengubah soal ke dalam model matematika, hendaknya siswa juga
+banyak berlatih mengerjakan soal cerita dengan langkah-langkah penyelesaian yang
+lengkap. (2) Bagi guru sebaiknya dalam proses pembelajaran agar melatih siswa untuk
+menyelesaikan soal cerita dengan langkah-langkah penyelesaian yang lengkap dan
+
+183
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+terstruktur, yaitu dengan menuliskan apa yang diketahui dan apa ditanyakan, memilih
+prosedur serta operasi hitung yang benar, serta menuliskan jawaban akhir sebagai
+kesimpulan sehingga kesalahan yang dilakukan siswa
+
+dapat diminimalisir. guru
+
+hendaknya lebih banyak memberikan latihan soal-soal cerita yang bervariasi dari soal
+yang sederhana hingga soal yang lebih kompleks. (3) Bagi peneliti lain, agar
+mengembangkan penelitian analisis kesalahan siswa dalam menyelesaikan soal cerita
+berdasarkan prosedur Newman pada materi matematika yang lain, menambah subjek
+penelitian agar diperoleh jenis-jenis kesalahan serta faktor penyebab kesalahan secara
+lebih rinci dan mendalam, melakukan penelitian dalam upaya mencari strategi alternatif
+untuk meminimalisir kesalahan-kesalahan yang dilakukan oleh siswa.
+
+DAFTAR PUSTAKA
+Budiman, A.(2017).Behaviorism in Foreign Language Teaching Methodology. English
+Franca 1(2), 101-114.
+Centre for Educational Research and Innovation.(2005).Formative Assessment:
+Improving Learning in Secondary Classroom. OECD Publishing.
+Chusnul, Rr.C.,Mardiyana, &Retno, D.S. (2017).Errors Analysis of Problem Solving
+Using The Newman Stage After Applying Cooperative Learning of TTW Type.
+International Conference and Workshop on Mathematical Analysis and its
+Applications, AIP Conf. Proc. 1913, 020028-1–020028-7.
+Jha, K.S. (2012). Mathematics performance of primary school students in assam (india):
+an analysis using newman procedure. International Journal of Computer
+Application in Engineering Sciences 2 (1), 17-21.
+Junaedi, I.,Suyitno, A., Sugiharti, E. & Eng, C.K. (2015).Disclosure Causes of Students
+Error in Resolving Discrete Mathematics Problems Based on NEA as A Means of
+Enhancing Creativity. InternationalJournal of Education 7 (4), 31-42.
+Karnasih, I. (2015). Analisis Kesalahan Newman pada Soal Cerita Matematis (Newman’s
+Error Analysis in Mathematical Word Problems). Jurnal PARADIKMA 8(1), 3751.
+Newman, M. A. (1983). Strategies for diagnosis and remediation. Sydney:Harcourt,
+Brace Jovanovich.
+Prakitipong, N. & Nakamura, S. (2006). Analysis of Mathematics Performence of Grade
+Five Students in Thailand Using Newman Procedure. Journal of International
+Cooperation in Education 9 (1), 111-122.
+Priyanto, A., Suharto, & Trapsilasiwi, D. (2015). Analisis Kesalahan Siswa Dalam
+Menyelesaikan Soal Cerita Pokok Bahasan Teorema Pythagoras Berdasarkan
+Kategori Kesalahan Newman di Kelas VIII A SMP Negeri 10 Jember. Artikel
+Ilmiah Mahasiswa1(1), 1-5.
+
+184
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.5, No.2, hal 173-185 September 2018
+
+ISSN: 2339-1685
+http://jurnal.uns.ac.id/jpm
+
+Santoso, D.A., Farid, A. & Ulum, B. (2017). Error Analysis Of Students Working About
+Word Problem Of Linear Program With NEA Procedure. Journal of Physics, IOP
+Conf. Series 855 (2017) 012043, 1-8.
+Singh, P., Rahman, A.A. & Hoon, T.S. (2010). The Newman Procedure for Analyzing
+Primary Four Pupils Errors on Written Mathematical Tasks: A Malaysian
+Perspective. International Conference on Mathematics Education Research 264271.
+Susanti. (2017). Analisis Kesalahan Siswa Dalam Menyelesaikan Soal Cerita Program
+Linier Berdasarkan Tahapan Newman. Jurnal Ilmiah Pendidikan Matematika2
+(6), 71-76.
+Suyitno, A. (2015). Learning Therapy For Students in Mathematics Communication
+Correctly Based On Application of Newman Procedure (A Case Of Indonesia
+Student). International Journal of Education and Research 3 (1), 529-538
+White, A. L. (2010). Numeracy, Literacy and Newman’s Error Analysis. Journal of
+Science and Mathematics Education in Southeast Asia 2010 33 (2), 129-148.
+Yunarni, A., Awi, & Asdar. (2015). Profil Pemahaman Notasi Aljabar Ditinjau dari
+Kemampuan Verbal Siswa di Kelas V Sekolah Dasar. Jurnal Daya Matematis 3
+(1), 1-9.
+
+185
+
+

@@ -1,0 +1,3012 @@
+Jurnal Akuntansi & Bisnis
+( Journal of Accounting & Business )
+Volume 10, No.1, Februari 2010
+Merinda Naraswari Ayunigtyas, Y Anni Aryani
+Pengaruh Arus Kas Operasi Terhadap Dividend Payout dalam Kaitannya dengan Siklus Hidup
+Perusahaan
+
+Sukirno
+Factors Affecting Company’s Profitability: A Case Study of Company Financing Under Mega and
+SBY Era
+
+ROWLAND BISMARCK FERNANDO PASARIBU
+Informasi Anomali Akrual dalam Pembentukan Portofolio Saham
+Heru Fahlevi
+A History of Changes That Enhanced the Role of Accounting: A Discussion of the Reforms in the
+UK National Health Service
+
+Cahyaningsih
+Perbandingan Kinerja Reksa Dana Konvensional dengan Indeks Konvensional (LQ45)
+
+Suhendro
+Model Mandatory Usage Terhadap Sikap Penggunaan Sistem Informasi Keuangan Daerah
+dengan Pendekatan Teknology Acceptance Model
+
+Seif Obeid Al-Shbiel, Hamzah Hussein Almawali, Raed Suleiman Al-Fageer
+The Global Financial Crisis from the Perspective of Islamic Law and Economic Theory:
+Analytical Empirical Study
+
+E.Ries, S.B. Yahya, M. Harashid
+Shubuhat Activities in Islamic Banking
+
+Jurnal
+Akuntansi dan Bisnis
+
+Vol. 10
+
+No.1
+
+Hal.
+1-107
+
+Surakarta
+Februari 2010
+
+ISSN
+1412-0852
+
+Jurnal Akuntansi & Bisnis
+( Journal Accounting & Business )
+Volume 10, N0.1, Februari 2010
+Chairman
+Head of Accounting Department
+Universitas Sebelas Maret
+Editor in-Chief:
+Bandi
+Editorial Board
+Muhammad Agung Prabowo
+Universitas Sebelas Maret
+Doddy Setyawan
+Universitas Sebelas Maret
+Y Anni Aryani
+Universitas Sebelas Maret
+Rahmawati
+Universitas Sebelas Maret
+Djoko Suhardjanto
+Universitas Sebelas Maret
+Editorial Staff
+Taufiq Arifin
+Sutaryo
+Editorial Office
+Fakultas Ekonomi Universitas Sebelas Maret
+Jl. Ir. Sutami 36 A, Surakarta 57126
+Telp. (0271) 668603, 630938, Fax. (0271) 638143, 666441
+Web: www.fe.uns.ac.id
+Email: jab@uns.ac.id
+jab_uns@yahoo.co.id
+Jurnal Akuntansi dan Bisnis is published by accounting Department, Faculty of
+Economics - Universitas Sebelas Maret (UNS). Published two times a year,
+February and August, JAB is a media of communication and reply forum for
+scientific works especially concerning the field of the economic studies, business,
+and accounting. Paper presented in JAB are solely that of author. Editorial staff
+may edit the papers, as long as not change its meaning.
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+
+INFORMASI ANOMALI AKRUAL
+DALAM PEMBENTUKAN PORTFOLIO SAHAM
+Rowland Bismark Fernando Pasaribu
+ABFI Institute Perbanas Jakarta
+
+ABSTRACT
+The accrual information is discussed in light of multifactor factor asset pricing theory. It is argued
+that the capital market processes information efficiently, and that low accruals firms are risky and
+therefore earn higher average returns. In other words, the level of accruals proxies for the loading
+on a fundamental risk factor that drives stock returns. The objective of this study is to prove
+significance influence of accrual information and to evaluate the performance of stock portfolio
+constructed by Treynor Index, Jensen-Alpha, and Sharpe Index. The final sample are the past and
+present member of LQ-45 public companies. Following Fama and French (1993), we form a factormimicking portfolio that essentially goes long on low accruals firms and short on high accruals
+firms (Conservative Minus Aggressive, or CMA). Since the portfolio is constructed based upon the
+return-predicting characteristic itself, it is thereby designed to capture any risk factors that may
+underly the accrual effect even if the relevant risk factors are not observed directly. The empirical
+result show that partially, CMA has a significance positive (negative) influence to stock portfolio
+with low (high) level accrual, both for single, two, and three factor model, especially at size-accrual
+category. Other empiric result is addition of factor CMA, proved increasing explanatory power of
+model in explaining the variation of expected return of stock portfolio on various asset pricing
+model. Hereinafter three tools of evaluation measurement result indicate that size, book-to-market
+ratio yet still not shown optimal performance, even after conducted by extension of all model by
+adding accrual information factor.
+
+Keywords: Accrual Anomaly, Stock Portfolio, Multifactor Asset Pricing Model, Treynor
+Index, Jensen-Alpha, and Sharpe Index
+
+PENDAHULUAN
+Anomali pasar modal telah menarik
+perhatian para peneliti dan partisipan pasar
+selama kurang lebih 4 dekade. Anomali adalah
+hasil empiris yang terlihat inkonsisten dengan apa
+yang diutarakan teori asset pricing (Schwert,
+2001). Investor tertarik dengan anomali karena
+mereka sendiri berpotensi menimbulkannya
+dengan motivasi utama meningkatkan return
+portfolio. Kalangan akademis tertarik dengan
+anomali karena menghadirkan tantangan bagi
+teori yang ada. Menyikapi tantangan ini,
+pengembangan baru pada teori asset pricing dan
+perilaku pasar sebagai metodologi riset yang baru
+pun dilakukan secara terus menerus.
+Terdapat beberapa anomali dalam
+literatur akuntansi. Peristiwa pasca pengumuman
+
+earning (Ball dan Brown, 1968; Bernard dan
+Thomas, 1989, 1990) mengalami pengujian yang
+cukup banyak dan periode sampel yang berbedabeda yang mengarahkan Fama (1998) untuk
+menyebutnya bahwa peristiwa tersebut lebih
+kepada praduga kecurigaan. Lebih lanjut Sloan
+(1996) mengenalkan apa yang nanti disebut
+sebagai anomali akrual. Menurutnya, investor
+menciptakan kesalahan sistematik dalam menilai
+implikasi earning saat ini terhadap posisi-nya
+masa mendatang. Asumsi lainnya dalam hipotesis
+anomali akrual adalah investor yang overreaction atas informasi dalam earning dan
+terjadinya pembalikan return.
+Interpretasi atas bukti dalam literatur
+anomali akrual telah berkembang pesat dan
+memunculkan multi tafsir atasnya. Beberapa
+peneliti
+menerima
+pandangan
+bahwa
+
+25
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+profitabilitas strategi akrual adalah manifestasi
+kesalahan sistematik atas pricing yang dihasilkan
+dari pembobotan yang berlebihan pada informasi
+earning dan cenderung menganggap remeh pada
+informasi arus kas. Sementara pihak yang lain
+bersikap ragu-ragu untuk mengadopsi interpretasi
+ini dan melakukan sejumlah pengujian tambahan.
+Dari
+penelitian
+terdahulu
+yang
+mengeksplorasi topik anomali akrual, sebahagian
+besar menyatakan bahwa perusahaan dengan
+akrual operasional yang tinggi menghasilkan ratarata tingkat pengembalian yang lebih rendah
+dibanding perusahaan akrual operasional yang
+rendah di Amerika Serikat (Sloan, 1996) dan
+beberapa negara lainnya (Pincus, Rajgopal, dan
+Venkatachalam, 2005). Penjelasan konvensional
+untuk pengaruh tersebut adalah semakin tinggi
+rata-rata return untuk perusahaan dengan akrual
+rendah adalah bentuk kompensasi terhadap risiko
+sistematik. Dalam model asset pricing
+multifaktor (Merton, 1973; Ross, 1976) expectedreturn
+saham
+mengalami
+peningkatan
+berdasarkan faktor loading (beta) multi-faktor
+(tidak hanya faktor pasar, sebagaimana CAPM).
+Untuk menjelaskan anomali akrual dalam model
+tersebut memerlukan level akrual perusahaan
+yang diasosiasikan dengan kovarians return-nya
+dengan satu atau lebih faktor risiko aggregat.
+Khususnya perusahaan dengan akrual rendah
+akan memerlukan tingkat loading yang tinggi
+dalam pricing faktor sistematik sebagai justifikasi
+return saham mereka yang tinggi (Hirshleifer
+et.al, 2005).
+Penjelasan alternatif untuk anomali
+akrual adalah asumsi bahwa pasar saham tidak
+efisien dan karenanya investor yang naif gagal
+untuk membedakan antara daya prediksi yang
+berbeda pada komponen akrual dan arus kas
+earning pendapatan perusahaan mendatang.
+Konsekuensinya, para investor terlalu optimis
+pada perusahaan dengan tingkat akrual yang
+tinggi dan terlalu pesimis terhadap perusahaan
+dengan tingkat akrual yang rendah yang
+berimplikasi pada meningkatnya harga secara
+irasional pada saham perusahaan dengan akrual
+tinggi dan sebaliknya penurunan harga saham
+yang juga irasional untuk saham perusahaan
+dengan akrual rendah. Karenanya, perusahaan
+dengan akrual yang tinggi menghasilkan
+abnormal return yang rendah, sebaliknya
+perusahaan dengan akrual rendah menghasilkan
+abnormal return yang tinggi (Hirshleifer et.al,
+2006).
+
+Terjadinya anomali akrual, menimbulkan
+dua pertanyaan penting: 1) apakah terdapat
+variasi yang umum dalam return saham terkait
+dengan akrual perusahaan? Dengan kata lain,
+apakah harga saham bergerak bersama-sama (comovement) dengan level akrual (baik pada emiten
+dengan level akrual tinggi atau rendah)
+perusahaan sehingga perlu diasosiasikan dengan
+risiko sistematik? Dalam kondisi pasar yang
+frictionless, co-movement pada keduanya adalah
+kondisi yang dibutuhkan untuk anomali akrual
+yang berasal dari resiko. Hirshleifer et.al, (2006)
+menyatakan bahwa imitasi faktor akrual portfolio
+mampu menangkap subtansial dari variasi umum
+dalam return bahkan setelah mengikutsertakan
+faktor pasar dan size dan rasio B/M; 2) Apakah
+anomali akrual merefleksikan premi risiko
+rasional yang diasosiasikan dengan faktor akrual,
+atau apa hal tersebut lebih karena esksistensi
+pasar yang memang tidak efisien? Kedua
+pertanyaan ini masih merupakan topik yang
+cukup aktif untuk diperdebatkan.
+Literatur sebelumnya mengenai anomali
+akrual menyimpulkan bahwa hasil temuannya
+konsisten dengan penjelasan teori perilaku
+keuangan (Sloan, 1996; Teoh, Welch dan Wong,
+1998a,b; Collins dan Hribar, 2000; Xie, 2001;
+Thomas dan Zhang, 2002; Mushruwala, Rajgopal
+dan Shevlin, 2004; dan Hirshleifer et al, 2004).
+Tapi kesimpulan ini juga tidak bebas dari
+pertentangan. Zach (2004) mengembangkan
+implikasi baru akan penjelasan prediksi
+pendukung teori perilaku keuangan mengenai
+anomali akrual, dan memberikan bukti
+inkonsistensi dengan implikasi baru yang
+ditemukannya
+tersebut.
+Zhang
+(2005)
+menyatakan bahwa perbedaan lintas industri,
+perusahaan, dan persistensi akrual tidak
+berhubungan terhadap kekuatan anomali akrual
+itu sendiri. Hasil temuan lainnya adalah akrual
+memiliki ko-variansi yang kuat terhadap atribut
+pertumbuhan perusahaan yang berpotensi dan
+konsisten, baik itu terhadap penjelasan teori
+perilaku keuangan atau premi rasional resiko.
+Lebih lanjut, Kraft et.al (2005) menyatakan
+bahwa pada saat return yang ekstrem
+dihilangkan, maka hubungan antara akrual dan
+return mendatang menjadi non-monotonic.
+Beberapa temuan empiris lainnya secara
+eksplisit menyatakan bawa anomali akrual
+merepresentasikan sebahagian atau keseluruhan
+dari premi rasional resiko, baik itu resiko distress
+(Ng, 2004) atau untuk resiko yang dikaitkan
+
+26
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+dengan faktor informasi arus kas aggregat dan
+discount rate (Vuolteenaho, 2000). Hasil
+penelitian Khan (2005) menyimpulkan bahwa
+anomali akrual dapat ditangkap oleh model asset
+pricing empat faktor dan berhubungan dengan
+pengaruh distress-relatif yang dimaksud dalam
+Chan dan Chen (1991).
+Di Indonesia belum banyak dilakukan
+penelitian mengenai keterkaitan informasi akrual
+terhadap nilai rata-rata return portofolio saham
+atau dengan kata lain implementasi strategi
+akrual dalam konteks pembentukkan portofolio
+saham. Salah satu penelitian yang terdekat
+dengan penelitian ini adalah Selowidodo (2007)
+yang mengkaitkan harga akrual diskresioner
+terhadap harga saham emiten. Dikarenakan
+perbedaan yang substansial antara kinerja
+portofolio saham dan kinerja saham maka
+penelitian ini lebih mengacu pada replikasi
+terbatas penelitian Hirshleifer et.al, (2006) dalam
+penggunaan informasi akrual sebagai salah satu
+prediktor return portofolio saham.
+Berdasarkan uraian singkat diatas, yang
+dipertanyakan adalah: apakah informasi akrual
+memiliki
+kemampuan
+menjelaskan
+yang
+signifikan terhadap tingkat pengembalian
+portofolio saham; bagaimana kinerja portfolio
+saham yang terbentuk baik yang berbasis akrual
+dan non-akrual?
+Adapun tujuan dari penelitian ini adalah:
+membuktikan signifikansi informasi akrual
+terhadap tingkat pengembalian portofolio saham;
+mengevaluasi kinerja portofolio yang terbentuk
+dengan alat ukut indeks Treynor, Alpha-Jensen,
+dan indeks Sharpe.
+
+TINJAUAN PUSTAKA DAN
+PENGEMBANGAN HIPOTESIS
+Anomali Akrual
+Penjelasan teori perilaku keuangan
+mengenai anomali akrual adalah akrual
+operasional yang tinggi yang dijelaskan sebagai
+standard deviasi antara kalkulasi earning dan arus
+kas, menimbulkan optimisme yang berlebihan
+mengenai earning mendatang bagi para investor
+yang naif karena mereka gagal untuk
+memberikan perhatian secara terpisah pada
+komponen arus kas dan akrual dari earning. Dari
+asumsi ini, Sloan (1996) menyarankan kalau level
+akrual adalah prediktor yang lebih baik bagi
+earning mendatang dibanding level arus kas,
+
+maka investor akan menjadi terlalu optimis pada
+saat nilai akrual tinggi. Optimisme yang
+berlebihan ini akan menyebabkan perusahaan
+menjadi
+overvalued
+dan
+selanjutnya
+menghasilkan tingkat pengembalian saham yang
+abnormal. Begitu juga sebaliknya, akrual yang
+rendah akan mempengaruhi pesismisme yang
+eksesif hingga akhirnya cenderung diikuti dengan
+return yang tinggi.
+Apakah level akrual yang tinggi akan
+menyebabkan investor menjadi terlalu optimistik
+bagi pasar modal secara keseluruhan? Menjawab
+hal ini, beberapa komentator menyatakan bahwa
+selama beberapa periode, seperti booming pasar
+modal pada akhir 90-an banyak para manajer
+investasi yang menerapkan earning management
+secara agresif, dan dipermudah oleh kalangan
+auditor dan regulator memungkinkan perusahaan
+untuk meningkatkan earning-nya secara relatif
+terhadap arus kas yang ada. Disatu sisi, sangat
+mungkin bahwa earning management yang
+dilakukan bertujuan mencapai tujuan manajerial
+seperti smoothing deviasi tertentu perusahaan
+mengenai kinerja earning. Selain itu fluktuasi
+ekonomi makro dalam lingkungan bisnis juga
+mempengaruhi hasil operasional perusahaan.
+Dalam konteks yang analog, Hirshleifer et.al,
+(2005) menyebutnya sebagai variasi agregat
+dalam akrual, sebagai contoh: siklus bisnis yang
+meningkatkan
+aggregate-demand
+akan
+meningkatkan pembelian dari perusahaan yang
+termanifestasi pada bagian kenaikan dalam
+receiveable. Selanjutnya pada saat kepercayaan
+konsumer tinggi atau pada saar kondisi ekonomi
+makro memungkinkan kredit mudah diberikan,
+para konsumer akan membeli lebih banyak secara
+kredit, dimana hal ini akan meningkatkan
+receiveable secara aggregat. Penjelasan alternatif,
+kalau perusahaan mengharapkan peningkatan
+pada aggregat demand mendatang, mereka dapat
+mengakumulasi persediaan sebagai langkah
+antisipasi, yang dihitung sebagai akrual positif.
+Dari uraian contoh diatas terdapat pertanyaan
+terbuka perihal apakah variasi agregat yang
+dihasilkan dalam akrual akan mengarahkan
+investor melakukan valuasi yang keliru terhadap
+pasar modal secara keseluruhan.
+Sloan (1996) menunjukkan bahwa portfolio
+saham dari emiten dengan akrual yang tinggi
+(rendah) akan menghasilkan abnormal return
+yang negatif (positif) pada formasi portofolio
+tahun
+berikutnya.
+Dari
+beberapa
+hasil
+penelitiannya, ia menyimpulkan kondisi ini
+
+27
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+sebagai
+ketidakmampuan
+pasar
+untuk
+menampung informasi akrual terhadap harga
+saham. Secara khusus, pasar mengindikasikan
+persistensi yang lebih tinggi pada komponen
+akrual dari earning dan hasilnya adalah harga
+saham
+perusahaan
+adalah
+(undervalued)
+overvalued kalau earning memiliki komponen
+akrual yang tinggi (rendah). Beberapa penelitian
+lanjutan mengikuti sistematika Sloan (1996)
+dalam menginvestigasi hasil yang masih abstrak
+tersebut. Penelitian tersebut dapat dibagi ke
+dalam beberapa grup; i) studi yang
+menginvestigasi komponen akrual; ii) studi yang
+mengeksplorasi perilaku pihak ketiga seperti
+analist, auditor, dan kalangan insider; iii) studi
+yang mencari variasi cross-sectional dalam
+strategi return akrual, dan; iv) studi yang menilai
+tingkatan dimana anomali akrual berhubungan
+terhadap anomali lainnya. Pada grup pertama,
+para peneliti melakukan pemisahan akrual
+kedalam beberapa komponen (perubahan dalam
+persediaan, account receiveable, dan accounts
+payable) dan mengobservasi bagian mana yang
+memiliki tingkatan asosiasi yang tinggi dengan
+strategi abnormal return. Hribar (2000) serta
+Thomas dan Zhang (2002) melakukan
+pendekatan ini dalam penelitiannya. Hasil
+penelitian keduanya menunjukkan bahwa kajian
+Sloan (1996) berhubungan pada akrual yang
+dihasilkan oleh peningkatan atau penurunan yang
+drastis dalam pos persediaan. Thomas dan Zhang
+(2002)
+selanjutnya
+menyatakan
+bahkan
+perubahan dalam persediaan bahan mentah pun
+juga memiliki asosiasi yang tingi terhadap
+abnormal
+return.
+Hribar
+(2000)
+tidak
+menemukan adanya bukti penetapan harga yang
+keliru dalam akrual yang lebih tansparan seperti
+item-item tertentu. Kedua penelitian tersebut juga
+menyatakan bahwa adanya abnormal return
+adalah konsekuensi ketidakmampuan pasar dalam
+mendeteksi melalui earning-management. Hribar
+(2000) menjelaskan perubahan dalam pos
+perubahan modal kerja secara lebih detail.
+Sebagai contoh, ia memisahkan pos persediaan
+dan receiveable ke dalam komponen dikresioner
+dan non-diskresioner berdasarkan porsi hubungan
+keduanya dengan pertumbuhan penjualan. Ia
+menemukan bukti bahwa komponen diskresioner
+lebih berasosiasi dengan mispricing. Lebih lanjut
+mengenai penjelasan earning management, Xie
+(2001) menyusun portofolio saham berdasarkan
+abnormal akrual dan normal akrual yang dihitung
+dengan menggunakan model Jones. Ia
+
+menunjukkan bahwa abnormal return hanya
+dihasilkan pada portofolio yang akrualnya juga
+abnormal yaitu bagian akrual yang merupakan
+atribut dari perhitungan diskresi manajer.
+Richardson et.al (2001) memisahkan akrual
+kedalam kategori yang lebih luas, mereka
+menjelaskan strategi return berdasarkan akrual
+jangka panjang. Hasil temuannya menyatakan
+bahwa de-komposisi yang dilakukan tidak
+menghasilkan return yang lebih tinggi daripada
+strategi dasar akrual. Lalu mereka juga
+menyatakan bahwa akrual jangka panjang juga
+memiliki asosiasi dengan abnormal return
+mendatang.
+Pada kategori kedua, beberapa studi
+menginvestigasi interaksi antara perilaku insider,
+analist, dan auditor dengan informasi akrual.
+Beneish dan Vargus (2002) menunjukkan bahwa
+direksi insider-trading yang dilakukan top
+eksekutif berhubungan dengan informasi akrual.
+Lebih spesifik, perusahaan dengan tingkat akrual
+tinggi yang melakukan insider-selling juga
+mengalami tingkat return mendatang yang rendah
+dibanding perusahaan dengan tingkat akrual
+tinggi
+yang
+melakukan
+insider-trading.
+Karenanya kalangan insider pada perusahaan
+dengan tingkat akrual yang tinggi dapat
+dibedakan antara yang memang meningkatkan
+atau yang melakukan pembusukkan bagi kinerja
+perusahaan mendatang. Nemeish dan Vargus
+(2002) juga menemukan beberapa bukti bahwa
+dalam perusahaan yang mengalami insiderselling, tingkat akrual yang tinggi berhubungan
+dengan earning management.
+Selain itu terdapat dua penelitian yang
+menganalisis perilaku dari analist. Bradshaw et.al
+(2001) menggunakan pendekatan yang tidak
+menggunakan harga pasar sebagai indikator
+ketidakmampuan pasar terhadap proses informasi
+earning. Sebagai gantinya, mereka menjelaskan
+perilaku pada dua intermediasi informasi; analist
+sisi-penjual dan auditor independen.
+Tapi jenis penelitian ini memiliki
+kelemahan yang substansial, yakni; i) simplifikasi
+penurunan return saham dan kurang begitu
+memperhatikan kontrol risiko yang tidak
+memadai. Hasilnya, para peneliti tersebut
+menemukan bahwa kesalahan estimasi para
+analist berkorelasi negatif dengan total akrual,
+yakni kesalahan estimasi analist akan semakin
+negatif untuk perusahaan dengan tingkat akrual
+yang tinggi. Hal ini berarti, para analist tidak
+mengikutsertakan pembalikan earning yang
+
+28
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+memiliki asosiasi dengan tingkat akrual yang
+tinggi ke dalam estimasi mereka. Secara
+keseluruhan Bradshaw et.al melihat hasil
+penelitian mereka sebagai bukti lanjutan yang
+memperkuat inferensi pada ketidakmampuan
+pasar untuk menginterpretasikan informasi akrual
+secara benar.
+Barth dan Hutton (2001) juga menjelaskan
+aturan analist dalam menginterpretasikan akrual.
+Pertama, konsisten dengan Bradshaw et.al (2001)
+mereka menyatakan bahwa mayoritas para analist
+tidak bereaksi atau memberikan respon terhadap
+informasi terbaru perihal akrual. Hanya sejumlah
+25% analist yang memperbaharui prediksinya
+sebagai tindak lanjut informasi baru akrual
+tersebut dan para analist ini disebutnya sebagai
+analist aktif. Kedua, mereka menyatakan bahwa
+para investor tidak menyertakan revisi informasi
+analist aktif yakni investor terlihat mengabaikan
+para analist. Hasilnya adalah strategi hedging
+yang mengkombinasikan
+informasi akrual
+dengan informasi mengenai analist aktif
+menghasilkan kejutan sebesar 27% pada satu
+tahun berikutnya setelah implementasi. Sebagai
+tambahan atas analisis mereka, Bradshaw et.al
+(2004) menginvestigasi perilaku para auditor.
+Mereka menyatakan bahwa meski perusahaan
+dengan tingkat akrual tinggi menimbulkan
+enforcement-action regulator yang frekuentif,
+para auditor perusahaan tersebut tidak secara
+otomatis memberikan qualified opinion. Hal ini
+berarti, bahwa para auditor juga tidak terlihat
+terpengaruh atas implikasi dari tingkat akrual
+yang tinggi.
+Pada penelitian kategori ketiga, Ali et.al
+(2000) mengeksplorasi beberapa karakteristik
+cross-section pada anomali akrual. Mereka
+menduga bahwa kalau anomali akrual adalah
+manfestasi atas ketidakmampuan investor dalam
+memproses informasi laporan keuangan secara
+benar. Selanjutnya proksi untuk derajat
+kesempurnaan investor harus berhubungan
+dengan return yang dihasilkan dengan strategi
+akrual. Secara khusus, return terhadap strategi
+akrual diharapkan lebih tinggi pada perusahaan
+yang memiliki asosiasi rendah dengan tingkat
+kesempurnaan investor yang rendah. Variabel
+penelitian yang digunakan dalam penelitiannya
+adalah size, kepemilikan institusi, dan analist
+coverage sebagai proksi untuk kesempurnaan
+investor. Hasil penelitiannya bertolak belakang
+dengan apa yang diharapkan pada hipotesis
+investor naif. Temuan lainnya adalah return yang
+
+rendah pada perusahaan yang kecil, yakni
+perusahaan yang hanya memiliki beberapa
+analist, dan perusahaan yang tidak terlalu besar
+untuk dimiliki oleh suatu institusi. Mereka
+menginterpretasikan temuan tersebut sebagai
+kontradiksi atas hasil studi Sloan (1996) dan studi
+lanjutan setelahnya, yakni kesalahan proses
+informasi akan meningkatkan return yang
+dihasilkan dengan strategi akrual.
+Untuk studi kategori keempat, terdapat
+beberapa penelitian terdahulu yang menarik
+untuk diulas. Pertama, studi yang dilakukan oleh
+Collins dan Hribar (2000a). Penelitian mereka
+menyatakan bahwa anomali akrual dan
+pengumuman post-earning adalah berbeda satu
+sama lain. Mereka memaparkan strategi yang
+mengeksploitasi informasi pada keduanya
+(kejutan akrual dan earning). Hasil temuannya
+adalah strategi kombinasi akan menghasilkan
+return yang lebih tinggi dibanding strategi
+individual. Kedua, Fairfield et.al (2001)
+berpendapat bahwa anomali akrual adalah sub-set
+pada anomali yang lebih luas dan berkorelasi
+pada ketidakmampuan investor memproses
+informasi mengenai pertumbuhan dengan benar.
+Ketiga, Desai et.al (2002) menyatakan bahwa
+anomali akrual dan anomali “nilai-glamour” yang
+diproksikan dengan rasio arus kas terhadap harga
+saham mengalami overlap.
+Dari uraian yang dipaparkan diatas dapat
+disimpulkan bahwa anomali akrual adalah
+penting baik untuk para peneliti keuangan dan
+akuntansi serta praktisi untuk beberapa alasan: 1)
+hasil penelitian yang reaktif terhadap paradigma
+efisiensi pasar menyarankan agar abnormal
+return
+dapat
+dihasilkan
+dengan
+mengimplementasikan strategi straightforward
+secara fair berdasarkan publikasi informasi yang
+tersedia; 2) anomali menyoroti pentingnya
+insentif bagi para manajer untuk terlibat dalam
+earning management. Hal ini menunjukkan
+bahwa manipulasi earning dapat memiliki
+pengaruh ekonomi yang riil dan para manajer
+tersebut berpotensi untuk mempengaruhi harga
+saham melalui pemilihan metode alternatif
+akuntansi. Secara tradisional tindakan manipulasi
+tersebut bahkan transparan terhadap investor dan
+karenanya tidak memberikan keuntungan bagi
+para manajer; 3) Tingginya asosiasi earning dan
+return saham dibanding asosiasi arus kas dengan
+return telah diteliti oleh beragam peneliti
+akuntansi selama kurang lebih 40 tahun mungkin
+membutuhkan cara sudut pandang yang berbeda
+
+29
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+(e.g. Dechow, 1994). Interpretasi penelitian
+tersebut mengenai tingginya asosiasi dimaksud
+umumnya adalah earning merefleksikan lebih
+baik atas perubahan pada nilai perusahaan.
+Penjelasan alternatif yang muncul dalam konteksi
+anomali akrual adalah semakin tinggi asosiasi
+earning
+dengan
+return
+saham
+hanya
+merefleksikan insting investor dalam earning.
+
+Model Asset Pricing Multifaktor
+Model asset pricing 3 faktor dikembangkan
+oleh Fama dan French (1993) sebagai hasil
+meningkatnya bukti empiris buruknya kinerja
+CAPM dalam menjelaskan realisasi return.
+Faktanya, Fama dan French (1992a) mengkaji
+gabungan beta pasar, size, rasio E/P, leverage,
+dan rasio B/M pada nilai rata-rata return saham
+di NYSE, Amec, dan NASDAQ periode 19631990. Dalam studi tersebut, mereka menyatakan
+bahwa koefisien beta memiliki daya prediksi
+yang sangat tidak signifikan. Sebaliknya, pada
+saat digunakan secara univariat, variabel size,
+E/P, leverage dan rasio B/M memiliki daya
+prediksi yang signifikan dalam menjelaskan nilai
+rata-rata return secara cross-section. Pada saat
+digunakan formasi simultan, size dan rasio B/M
+adalah yang signifikan dan menyerap pengaruh
+pada leverage dan E/P dalam menjelaskan nilai
+rata-rata return. Berdasarkan hasil tersebut
+mereka mereka menyimpulkan bahwa kalau
+saham dihargai secara rasional, maka risiko
+seharusnya memiliki bentuk yang multi-dimensi.
+Fama dan French (1993) melanjutkan
+studi mereka sebelumnya dengan menggunakan
+pendekatan regresi time-series. Ruang lingkup
+analisis juga diperluas yakni saham dan obligasi.
+Tingkat pengembalian bulanan pada saham dan
+obligas diregresi pada lima faktor, tingkat
+pengembalian portofolio pasar, portofolio untuk
+size, dan portofolio untuk pengaruh rasio B/M,
+prediktor premi, dan premi default. Untuk
+portfolio saham, tiga faktor pertama berpengaruh
+signifikan, sementara untuk portofolio obligasi
+adalah dua faktor terakhir. Sebagai hasil, Fama
+dan French mengembangkan model asset pricing
+yang dikenal sebagai model tiga faktor untuk
+portofolio saham dengan mengikutsertakan dua
+tambahan faktor risiko yang berhubungan dengan
+size dan rasio B/M selain koefisien beta.
+Interpretasi model asset pricing yang
+mereka bentuk adalah expected return pada
+portfolio dalam tingkatan bebas risiko dijelaskan
+
+dengan sensitivitas return-nya terhadap 3 faktor:
+i) excess return pada portfolio pasar; ii)
+perbedaan antara return pada portfolio saham
+dengan size kecil terhadap return portfolio saham
+size besar (SMB); iii) perbedaan return portfolio
+dengan rasio B/M tinggi dan return portfolio
+saham dengan rasio B/M rendah (HML). Model
+tiga faktor Fama dan French dapat juga disebut
+lebih sebagai perluasan CAPM. Perluasan
+tersebut termasuk dua faktor yang diidentifikasi
+Fama dan French (1992a), yakni ukuran
+perusahaan dan rasio B/M. Kenyataannya model
+tiga faktor meningkatkan model CAPM dengan
+efek dari size dan rasio B/M.
+Efek size adalah keteraturan empiris
+bahwa perusahaan dengan kapitalisasi pasar kecil
+rata-rata return secara signifikan melebih mereka
+dengan kapitalisasi pasar yang besar. Para
+peneliti menyarankan beberapa penjelasan
+mengenai size-effect. Saham perusahaan yang
+kecil
+adalah
+semakin
+tidak
+likuid
+memperdagangkannya akan menimbulkan biaya
+transaksi yang besar; minimnya informasi yang
+tersedia mengenai perusahaan kecil, karenanya
+biaya monitoring pada portofolio saham dengan
+size akan lebih besar dibanding portofolio saham
+dengan size besar. Selain itu karena saham size
+kecil tidak begitu aktif diperdagangkan,
+akibatnya estimasi beta juga tidak reliabel.
+Efek rasio B/M menunjukkan bahwa nilai
+rata-rata return yang semakin besar juga akan
+meningkatkan rasio B/M, vice versa. Efek
+tersebut juga diarahkan sebagai nilai premi.
+Tingginya nilai buku perusahaan mengalami
+underpriced oleh pasar dan karenanya lebih baik
+membeli dan hold, karena harga saham dengan
+kategori ini
+akan meningkat. Anomali ini
+mereduksi bentuk hipotesis efisiensi pasar
+setengah kuat.
+Fama dan French (1995) menganalisis
+karakteristik perusahaan dengan rasio B.M yang
+tinggi dan yang rendah. Mereka menyatakan
+bahwa perusahaan rasio B/M yang tinggi
+cenderung secara mengalami distress terus
+menerus disatu sisi perusahaan dengan rasio B/M
+rendah diasosiasikan dengan profitabilitas. Lebih
+kanjut mereka menyatakan bahwa tingkat
+pengembalian untuk menyimpan saham dengan
+rasio B/M yang tinggi adalah kompensasi untuk
+menyimpan saham yang kurang menguntungkan
+dan berisiko. Mereka menunjukkan bahwa rasio
+B/M dan slope SML dalam model tiga faktor
+adalah proksi bagi distress relatif. Perusahaan
+
+30
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+lemah yang terus-menerus memiliki tingkat
+pengembalian yang rendah cenderung memiliki
+rasio B/M yang tinggi dan slope HML positif;
+sebaliknya, perusahaan yang kuat dengan earning
+yang tinggi memiliki rasio B/M yang rendah dan
+slope HML yang negatif. Hal yang sama
+disampaikan oleh Chan dan Chen (1991) yang
+menyatakan bahwa perusahaan besar dan
+perusahaan kecil memiliki karakteristik risiko dan
+tingkat pengembalian yang berbeda. Dalam
+penelitiannya mereka menjelaskan bahwa emiten
+dengan kapitalisasi kecil di pasar modal New
+York adalah perusahaan belum juga memiliki
+kinerja yang baik, manajemen yang tidak efisien
+dan
+memiliki
+leverage
+yang
+tinggi.
+Konsekuensinya,
+saham
+emiten
+tersebut
+cenderung berisiko daripada saham emiten
+berkapitalisasi besar dan risiko tersebut tidak
+dijelaskan oleh indek pasar. Dari hasil
+perhitungan empiris diperoleh kesimpulan bahwa
+setelah memasukan multi eksposure risiko pada
+indeks pasar; indeks leverage dan indek
+penurunan dividen sebagai replikasi perusahaan
+marginal, size-effect menurun drastis daya
+penjelasnya. Eksposur risiko pada indeks tersebut
+lebih superior sebagai size dalam menjelaskan
+rata-rata return pada peringkat portfolio size.
+Fama dan French (1998) kembali
+menguji model tiga faktor yang diciptakannya
+pada 13 pasar yang berbeda selama periode 19751995. Mereka menyatakan bahwa 12 dari 13
+pasar memiliki premi sebesar 7,68% per tahun
+terhadap nilai saham (High B/M), koefisien beta
+B/M secara statistik signifikan di tujuh pasar.
+Maroney dan Protopapadakis (2002)
+menguji model Fama dan French tiga faktor pada
+pasar modal Australia, Kanada, Jerman, Perancis,
+Jepang, Inggris dan Amerika. Mereka
+menyatakan bahwa pengaruh size dan rasio B/M
+memiliki karakter yang internasional. Teknik
+yang digunakannya adalah model Stochastic
+Discount Factor (SDF), dan beragam variabel
+makroekonomi dan keuangan, tidak membedakan
+daya penjelas pada rasio B/M dan nilai pasar
+ekuitas (MVE). Hasil penelitian mereka
+menyatakan bahwa efek dari rasio B/M dan MVE
+bukanlah artifak dari kelemahan perluasan
+CAPM sebagai suatu model asset pricing atau
+penghilangan variabel makroekonomi dan
+finansial. Hubungan positif antara return dengan
+rasio B/M dan negatif dengan MVE tetap kuat
+dibawah model SDF. Pengujian selanjutnya
+terhadap model tiga faktor Fama dan French
+
+dilakukan oleh Faff (2001) dan Gaunt (2004)
+untuk negara Australia. Hasil penelitian Faff
+(2001) mendukung model tiga faktor Fama dan
+French tapi dengan sedikit perbedaan, yakni
+terjadinya hubungan negatif yang signifikan
+untuk premi risiko pada saham kapitalisasi kecil.
+Sementara Gaunt (2004) menyatakan bahwa
+koefisien risiko beta cenderung meningkat untuk
+perusahaan kapitalisasi kecil dan perusahaan
+dengan rasio B/M yang rendah. Temuan lainnya
+adalah bukti bahwa efek rasio B/M yang
+meningkat secara monotonik dari portfolio saham
+dengan rasio B/M terendah sampai kepada yang
+tertinggi. Dimana nilai intersep untuk portfolio
+saham kapitalisasi kecil adalah besar dan positif.
+
+Faktor Akrual Sebagai Prediktor Risiko
+Dalam Model Asset Pricing
+Pendukung teori perilaku keuangan
+menyarankan bahwa level akrual adalah proksi
+untuk tingkatan dimana investor menganggap
+profit akuntansi terlalu optimis. Pendekatan
+tipikal yang digunakan pada penelitian
+sebelumnya untuk menguji apakah anomali
+akrual merupakan resiko atau hanya suatu
+mispricing menggunakan sejumlah kontrol
+tertentu untuk resiko seperti beta, size, dan rasio
+B/M. Berdasarkan pengujian tersebut mereka
+menyimpulkan bahwa premi yang diasosiasikan
+dengan
+perusahaan
+akrual
+rendah
+merepresentasikan inefisiensi pasar. Atau dengan
+kata lain selalu terdapat kemungkinan untuk
+mengajukan faktor risiko tambahan. Dan hal ini
+juga tidak menjamin bahwa faktor yang
+diusulkan tersebut akan mampu menjelaskan
+perbedaan rata-rata tingkat pengembalian yang
+diasosiasikan dengan akrual.
+Strategi naif mengusulkan struktur faktor
+yang baru hingga anomali dapat dihilangkan
+meski
+pada
+faktanya
+anomali
+lebih
+merepresentasikan pasar yang tidak efisien
+daripada premi resiko yang rasional. Penelitian
+ini mencoba untuk melakukan replikasi terbatas
+pendekatan
+Fama-French
+(1993)
+yang
+dimodifikasi Daniel dan Titman (1997) dan di remodifikasi oleh Hirshleifer et.al, (2006) untuk
+menjelaskan apakah risiko atau mispricing
+menjelaskan pengaruh size dan rasio B/M
+terhadap rata-rata return seperti yang telah
+dilakukan sebelumnya oleh Carhart (1997),
+Davis, Fama, and French (2000), Daniel, Titman,
+Wei (2001), Pastor dan Stambaugh (2003),
+
+31
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+Lamont, Polk, dan Saa-Requejo (2001), serta
+Moskowitz
+(2003),
+yakni
+menggunakan
+karakteristik akrual itu sendiri untuk membentuk
+replikasi faktor underlying anomali akrual
+portfolio.
+Faktor
+portfolio
+tersebut
+CMA
+(Conservative Minus Aggressive) dibentuk
+dengan
+mengambil
+long-position
+pada
+perusahaan dengan tingkat akrual rendah
+(konservatif) dan short-position pada perusahaan
+dengan tingkat akrual tinggi. Karena faktor CMA
+dibentuk dari akrual, maka kemungkinan
+terjadinya korelasi yang tinggi antara pengukuran
+resiko (faktor loading) dan karakteristik original
+(akrual).
+Kalau
+karakteristik
+original
+diasosiasikan dengan misvaluasi pasar, maka
+begitu juga halnya dengan faktor loading
+tersebut. Hal ini berarti faktor loading CMA yang
+menjelaskan pengaruh akrual dapat menjadi
+proksi untuk risiko dan juga misvaluasi pasar.
+
+Asumsi Dasar
+Reaksi atas kinerja model asset pricing
+faktor tunggal (CAPM) dalam menjelaskan return
+portofolio saham telah dilakukan baik itu dalam
+semangat re-formasi atau re-konstruksi model
+sehingga muncul apa yang disebut sebagai model
+asset pricing multifaktor. Dalam kaitannya
+dengan apa yang telah disampaikan diatas, maka
+akan diajukan asumsi dasar penelitian, yakni:
+Penambahan informasi akrual sebagai tambahan
+faktor risiko pada model multifaktor akan
+meningkatkan daya prediksi model dalam
+mengestimasi tingkat pengembalian portofolio
+yang diharapkan dibanding model faktor tunggal.
+Dimana nantinya akan dilakukan beberapa
+pengujian yang dirasa perlu sebagai konfirmasi
+atas asumsi tersebut.
+
+METODOLOGI PENELITIAN
+Data
+Untuk melakukan penelitian ini penulis
+membutuhkan data keuangan tiap emiten nonfinansial yang berupa (harga saham, market
+value, dan book value) periode bulanan, IHSG,
+dan SBI-1 Bulan periode 2003-2006, sehingga
+data-data yang diperlukan oleh dalam penelitian
+ini merupakan data historis. Adapun cara penulis
+memperoleh data tersebut adalah sebagai berikut
+:
+
+a) Untuk data keuangan tiap emiten selama
+periode tahun 2003-2006 diperoleh dengan
+cara men-download melaui website BEJ yaitu
+hhtp://www.jsx.co.id.
+b) Sedangkan untuk mendapatkan data-data
+IHSG untuk periode yang sama, penulis
+memperolehnya selain dari website BEJ.
+c) Studi pustaka atau literatur dilakukan untuk
+mendukung pemahaman konsep-konsep yang
+berkaitan langsung dengan penelitian. Studi
+pustaka yang dilakukan meliputi hasil-hasil
+penelitian sebelumnya, buku-buku literatur,
+jurnal dan lain sebagainya.
+
+Formasi Portfolio dan Perhitungan Total Akrual
+Penelitian ini membentuk portfolio saham
+berdasarkan klasifikasi ukuran perusahaan dan
+rasio B/M sesuai dengan hasil penelitian Fama
+dan French (2003). Nilai median keseluruhan
+sampel digunakan sebagai breakpoint untuk
+menetapkan perbedaan antara dua kategori.
+Emiten dengan kapitalisasi pasar kurang dari nilai
+median dianggap sebagai emiten dengan
+kapitalisasi pasar yang kecil dan sebaliknya
+mereka yang lebih besar dari nilai median
+dianggap sebagai emiten dengan kapitalisasi
+pasar besar. Klasifikasi saham berdasarkan rasio
+B/M juga akan membagi saham ke dalam dua
+kategori yang didasarkan nilai median
+keseluruhan sampel per tahun yaitu kategori B/M
+tinggi dan kategori B/M rendah. Dari interseksi
+pengklasifikasian tersebut, dibentuk empat
+kategori portofolio saham, yakni: S/H (Small
+Cap-High B/M), B/H (Big Cap-High B/M), S/L
+(Small Cap-Low B/M) dan B/L (Big Cap-Low
+B/M).
+Penelitian ini juga mengikuti prosedur
+Hirshleifer et.al, (2006) dalam menambahkan
+faktor akrual (CMA) kepada model 3 faktor Fama
+dan French, yang analog pada faktor SMB dan
+HML dengan orientasi peringkat nilai operasional
+akrual tahun fiskal emiten dimana dari interseksi
+antara akrual operasional dan size terbentuk 4
+kategori portofolio saham, yakni: S/H-acc (Small
+Cap-High accrual), B/H-acc (Big Cap-High
+accrual), S/L-acc (Small Cap-Low accrual) dan
+B/L-acc (Big Cap-Low accrual). Definisi
+Hirshleifer et.al, (2006) mengenai CMA adalah
+perbedaan nilai rata-rata tertimbang return pada
+portfolio saham yang memiliki tingkat akrual
+rendah terhadap nilai rata-rata tertimbang return
+portfolio saham yang memiliki tingkat akrual
+
+32
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+tinggi. Atau dapat dirumuskan sebagai berikut:
+(S/L-acc + B/L-acc)/2 – (S/H-acc + B/H-acc)/2.
+Dalam menghitung nilai akrual operasional,
+penelitian ini mengikuti Sloan (1996) yakni
+menggunakan metode neraca tidak langsung
+sebagai perubahan dalam non-current asset
+dikurangi perubahan dalam current liabilities
+dikurangi perubahan dalam short term debt dan
+perubahan dalam tax payable minus depresiasi
+dan amortisasi dibagi total asset periode
+sebelumnya:
+Akrualt = [( Current Assetst – Casht) –
+( Current Liabilitiest – Short-term Debtt Taxes Payablet) – Depreciation dan
+Amortization Expenset]/Total Assetst – 1.
+Pre-test
+Pre-test dilakukan untuk klarifikasi pengaruh
+pasar pada terhadap return sampel dan uji
+kelayakan persamaan multiregresi pada model
+multifaktor. Pre-test kedua adalah dilakukan
+mengacu kepada kriteria BLUE, yakni tidak
+terjadi multikolinearitas, autokorelasi, dan
+heteroskedastisitas pada persamaan multiregresi.
+Hasil pre-test dapat dilihat pada lampiran.
+
+Teknik Analisis Data
+
+Ri(t) - Rf(t)
+=α
++β[[Rm(t)-Rf(t)]
++
+hHML(t)+e(t)
+(Model 2.2.a)
+Ri(t) - Rf(t)
+=α +β[[Rm(t)-Rf(t)] + hHML(t)
++ cCMA(t) + e(t)
+(Model 2.2.b)
+
+Model Tiga Faktor
+Pada model tiga faktor, faktor size dan rasio B/M
+secara bersama-sama digunakan dalam model
+persamaan. Setelah itu pada model perluasan
+akan ditambahkan faktor CMA.
+Ri(t) - Rf(t)=α +β[[Rm(t) – Rf(t)] + sSMB(t) +
+hHML(t)
+(Model 3.1)
+Ri(t) - Rf(t) =α +β[[Rm(t) – Rf(t)] + sSMB(t)
++ hHML(t) + cCMA +e(t)
+(Model 3.2)
+dimana:
+Ri(t) - Rf(t) = nilai rata-rata excess return
+dikurangi risk free rate periode ke t
+Rm (t) – Rf(t) = excess return portfolio pasar
+untuk periode ke t
+SMB(t) = return portofolio SMB ; (S/L + S/H) –
+(B/L + B/H) periode ke t
+HML(t) = return portofolio HML ; (S/H + B/H) –
+(S/L + B/L) periode ke t
+CMA (t) = return portofolio CMA ; (S/L-acc+
+B/L-acc)/2 – (S/H-acc + B/H-acc)/2
+b, s, h, dan c
+= Koefisien regresi
+
+Untuk menguji asumsi dasar yang telah diajukan,
+Tahap selanjutnya adalah uji signifikansi
+digunakan pendekatan regresi bertahap, dengan
+simultan dan parsial terhadap seluruh model
+model sebagai berikut:
+asset pricing dan perluasannya.
+
+Model Faktor Tunggal (CAPM)
+Evaluasi Kinerja Portofolio
+
+Pada model ini akan ditambahkan faktor akrual
+sebagai tambahan prediktor premi resiko kedalam Relevansi portofolio saham (baik kategori akrual
+model asset pricing tunggal:
+dan non-akrual) yang terbentuk dilakukan dengan
+menggunakan alat ukur Indeks-Sharpe, IndeksRi(t) - Rf(t)=α +β[[Rm(t) – Rf(t)] + e(t)
+Treynor, dan Jensen-Alpha. Berikut adalah
+(Model 1.1)
+Ri(t) - Rf(t)=α +β[[Rm(t) – Rf(t)] + cCMA(t) + penjelasan ketiga alat ukur tersebut:
+e(t)
+
+(Model 1.2)
+
+Treynor Index (Reward to Volatility Ratio)
+
+Model Dua Faktor
+Dalam model dua faktor akan dikolaborasi faktor
+risiko yang diusulkan Fama dan French (size dan
+rasio B/M) dalam model asset pricing secara
+parsial dengan faktor penjelas tambahan (CMA):
+Ri(t) - Rf(t)
+=α
++β[[Rm(t)-Rf(t)]
++
+sSMB(t)+e(t)
+(Model 2.1.a)
+Ri(t) - Rf(t)
+=α +β[[Rm(t)-Rf(t)] + sSMB(t)
++ cCMA(t) + e(t)
+(Model 2.1.b)
+
+Treynor mengemukakan bahwa resiko terdiri dari
+dua komponen yaitu risiko yang timbul akibat
+fluktuasi pasar dan risiko yang muncul dari
+fluktuasi unik sekuritas individual dari suatu
+portofolio (Reilly dan Brown, 2000). Selanjutnya
+dia
+mengasumsikan
+bahwa
+portofolio
+terdiversifikasi dengan optimum, karenanya
+risiko unik sekuritas individual dapat diabaikan.
+Melalui asumsi ini, Treynor mengukur kinerja
+portofolio berdasarkan risiko sistematis atau beta
+yang merupakan resiko fluktuatif relatif terhadap
+
+33
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+risiko pasar (Sharpe, Alexander dan Bailey,
+1999). Pengukuran dengan metode Treynor
+diformulasikan sebagai berikut (Jones, 2000):
+Treynor Indeks = (Erp – Rf) / βp
+ER(p) : Expected Return Portofolio
+Rf
+: Risk Free Rate
+Βp
+: Beta Portofolio
+Semakin tinggi nilai positif rasio Treynor, makin
+baik kinerja portofolio.
+
+Jensen-Alpha (Differential Return Measure )
+Jensen pertama kali memperkenalkan metode ini
+dalam mengukur kinerja investasi Reksa Dana
+pada tahun 1968. Metode Jensen mengukur
+kinerja investasi suatu portofolio yang didasarkan
+atas pengembangan CAPM. Menurut Jones
+(2000:587) perhitungan dengan metode Jensen
+diformulasikan sebagai berikut:
+αρ = (Rp – Rf) – [βp(Rm – Rf)]
+αρ
+: Jensen Alpha
+Rp
+: Return Portfolio
+Rf
+: Risk Free Rate
+Βp
+: Beta Portfolio
+Kinerja dari portfolio dapat dilihat dari nilai
+alpha, dimana bila alpha bernilai positif berarti
+menunjukkan kinerja portfolio yang lebih tinggi
+daripada kinerja pasar.
+
+Indeks Sharpe
+Pengukuran kinerja suatu reksadana dapat
+dilakukan dengan dua metode koefisien indeks
+yaitu, Indeks Sharpe dan Indeks Treynor.
+Pengukuran dengan metode indeks Sharpe,
+didasarkan pada apa yang disebut premium atas
+risiko atau risk premium. Risk Premium adalah
+perbedaan (selisih) antara return rata-rata
+portofolio dan investasi bebas risiko (risk free
+asset). Indeks Sharpe membagi risk premium
+dengan standar deviasi portofolio selama
+pengukuran, dimana standar deviasi merupakan
+risiko total. Dengan demikian, Shape mengukur
+premi risiko yang dihasilkan dari setiap unit
+risiko yang ada. Dengan perhitungan tersebut,
+semakin tinggi nilai pengukuran, semakin baik
+kinerja yang dihasilkan. Pengukuran Indeks
+Sharpe diformulasikan sebagai berikut:
+
+Sj = (Ri - Rf ) / σj
+dimana:
+Sj = Indeks Sharpe
+
+Rj = return rata-rata portofolio j selama
+jangka waktu pengukuran
+Rf = return rata-rata aset bebas risiko selama
+jangka waktu pengukuran
+σj = standar deviasi portofolio j selama
+jangka waktu pengukuran
+PEMBAHASAN
+Dari tabel 1, diperoleh nilai rata-rata
+return portfolio dan faktor risiko selama periode
+penelitian. Hampir seluruh portofolio (kategori
+size-akrual dan size-B/M) memiliki return
+bulanan yang negatif meski masih diatas
+portofolio pasar (-9,35%). Untuk kategori akrual,
+dilihat dari ukuran kapitalisasi, nilai tertinggi
+adalah portofolio dengan size kecil (SLacc_Rf SHacc_Rf) yakni -1,18%. Sementara pada
+kapitalisasi besar nilai return bulanan (BLacc_Rf
+- BHacc_Rf) adalah -55 basis point perbulan.
+Untuk kategori size-B/M return portofolio
+kapitalisasi kecil (SL_Rf - SH_Rf) adalah -5%
+perbulan, dan portofolio kapitalisasi besar
+(BL_Rf - BH_Rf) adalah 2,7% perbulan. Ratarata return bulanan CMA adalah -86 basis point
+yang mana lebih rendah dibanding rata-rata
+return pada SMB (3,88% per bulan), return HML
+(2,3%) tapi lebih tinggi dibanding return pasar
+(Rm-Rf) sebesar -9,35%.
+Disisi lain standar deviasi pada CMA
+lebih rendah dibanding faktor return lain (CMA
+=0,04; SMB= 0,11; HML=0.08;) meski masih
+lebih tinggi dua basis point dibanding faktor
+pasar (Rm-Rf =0,02). Hasil ini menunjukkan
+bahwa payoff untuk bearing faktor risiko yang
+diasosiasikan dengan strategi akrual lebih
+menarik
+dibanding
+substansi
+tingkat
+pengembalian yang dideskripsikan dua faktor
+lainnya.
+Tabel 1 panel B adalah hasil korelasi
+antara faktor return. Faktor CMA memiliki
+korelasi yang cukup rendah (-0,3 dengan Rm-Rf;
+0.11 dengan SMB; dan 0,23 dengan HML). Hasil
+ini Secara substansial akan melakukan kombinasi
+optimal yang lebih baik dibanding portofolio
+pasar, atau model 3 faktor Fama dan French,
+dengan mengikutsertakan faktor CMA.
+Hasil Uji Model Tunggal (CAPM)
+Dari tabel 2 panel a diperoleh beberapa
+hasil uji sebagai berikut ; a) mengacu kepada
+Merton (1996) yang mendefinisikan besaran
+
+34
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+konstanta sebagai bentuk unadjusted expected
+return estimasi, maka pada model tunggal
+(CAPM) ekspektasi tingkat pengembalian
+tertinggi dihasilkan oleh portofolio saham
+perusahaan kecil (baik dalam konteks akrual dan
+non akrual), yakni 17,34% untuk kategori S/H
+acc-Rf (sig.t= 0,0005) dan 23,38% (sig.t = 0.000)
+pada portofolio S/H-Rf. Sedangkan untuk
+kategori portofolio saham kapitalisasi besar
+ekspektasi tingkat pengembalian tertinggi pada
+kategori akrual dihasilkan portofolio B/H acc-Rf
+(6,67%) sementara untuk kategori rasio B/M
+adalah portfolio B/H-Rf (3,74%, sig.t = 0.04).
+Secara keseluruhan faktor beta memiliki
+pengaruh yang signifikan pada seluruh portofolio
+dengan kemampuan menjelaskan variansi
+ekspektasi tingkat pengembalian portofolio
+berkisar 8,08%-48,52%. Panel B adalah hasil uji
+dengan mengikutsertakan faktor CMA kedalam
+model CAPM. Berdasarkan perolehan nilai
+konstanta, faktor ini memang mengkoreksi
+seluruh
+ekspektasi
+tingkat
+pengembalian
+portofolio yang dihasilkan model CAPM. Pada
+portofolio S/H acc-Rf misalnya ekspektasi tingkat
+pengembalian mengalami koreksi sebesar 5,65%
+menjadi 11,69% sementara untuk kategori B/M
+pada portofolio S/H-Rf nilainya terkoreksi
+sebesar 55 basis point menjadi 22,83%. Dilihat
+dari signifikansinya, faktor CMA memang lebih
+banyak berpengaruh pada portofolio size-akrual
+(3 portofolio saham) dan hanya 1 pada kategori
+size-B/M (B/L-Rf). Dimasukkannya faktor ini
+juga meningkatkan kemampuan model dalam
+menjelaskan ekspektasi tingkat pengembalian
+portofolio dengan kisaran 13,25%-64,88%.
+Secara simultan ke 2 faktor risiko memiliki
+pengaruh yang signifikan terhadap ekspektasi
+tingkat pengembalian portofolio.
+Kesimpulan yang dihasilkan dari model
+faktor tunggal adalah faktor CMA memiliki
+pengaruh negatif pada portofolio saham dengan
+tingkat akrual yang tinggi dan sebaliknya
+pengaruh positif pada portofolio dengan tingkat
+akrual yang rendah. Sementara untuk portofolio
+size-B/M, faktor CMA memiliki pengaruh negatif
+pada portofolio saham dengan rasio B/M yang
+rendah.
+
+Hasil Uji Model Dua Faktor
+Faktor SMB
+Tabel 3.1 adalah hasil uji penggunaan
+faktor ukuran perusahaan (SMB) kedalam model
+prediksi ekspektasi tingkat pengembalian
+portofolio. Untuk portofolio akrual, nilai tingkat
+pengembalian tertinggi masih dihasilkan oleh S/H
+acc-Rf yaitu sebesar 15,54% untuk kapitalisasi
+kecil dan B/H acc-Rf sebesar 10,03% pada
+kapitalisasi besar. Sementara pada portofolio
+size-B/M expected return tertinggi juga
+dihasilkan oleh portofolio S/H-Rf (20,05%) untuk
+kapitalisasi kecil dan B/L-Rf (6,91%) pada
+kapitalisasi besar. Secara parsial faktor pasar
+(Rm) dan size (SMB) memiliki pengaruh yang
+signifikan
+terhadap
+ekspektasi
+tingkat
+pengembalian portfolio. Untuk faktor CMA,
+hanya berpengaruh signifikan terhadap lima
+portofolio saham. Daya prediksi model pun
+semakin meningkat setelah faktor CMA
+diikutsertakan, yakni dari kisaran 23,95%52,13% menjadi 31,22%-64,29%.
+Dari tabel diatas juga masih diperoleh
+kesimpulan yang sama, yakni faktor CMA
+memiliki pengaruh negatif pada portofolio saham
+dengan tingkat akrual yang tinggi dan sebaliknya
+pengaruh positif pada portofolio dengan tingkat
+akrual yang rendah. Dan untuk portofolio sizeB/M, pengaruh negatif pada portofolio dengan
+rasio B/M yang rendah. Lebih lanjut, pada
+kategori size-B/M dan size-akrual faktor SMB
+berpengaruh positif untuk portofolio kapitalisasi
+kecil dan pengaruh negatif pada portofolio
+kapitalisasi besar.
+
+Faktor HML
+Tabel 3.2 adalah hasil uji penggunaan faktor rasio
+B/M (HML) pada model dua faktor. Untuk
+portofolio akrual, nilai ekspektasi tingkat
+pengembalian tertinggi masih dihasilkan oleh S/H
+acc-Rf (15,54%) untuk kapitalisasi kecil dan B/H
+acc-Rf (14,85%) pada kapitalisasi besar. Untuk
+kategori
+size-B/M,
+ekspektasi
+tingkat
+pengembalian tertinggi juga dihasilkan oleh
+portofolio S/H-Rf (19,07%) untuk kapitalisasi
+kecil dan B/L-Rf (15,72%) pada kapitalisasi
+besar. Secara parsial faktor pasar (Rm) memliki
+pengaruh positif yang signifikan untuk seluruh
+kategori portofolio (size-akrual dan size-B/M),
+sedangkan faktor B/M (HML) selain pada tiga
+portofolio (S/L Acc-Rf, S/H Acc-Rf, dan B/H-Rf)
+
+35
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+berpengaruh signifikan pada lima portofolio
+saham lainnya. Penambahan faktor CMA ke
+dalam model memiliki efek yang berbeda
+terhadap seluruh portofolio. Sebagai contoh,
+untuk portofolio yang menghasilkan tingkat
+pengembalian tertinggi pada tiap kategori (sizeakrual dan size-B/M) faktor ini mereduksi
+ekspektasi tingkat pengembalian portofolio,
+ceteris paribus. Pada portfolio kapitalisasi kecil
+(S/H acc-Rf) ekspektasi tingkat pengembalian
+berkurang sebesar 8,58% (9,42%); sementara
+untuk portofolio kapitalisasi besar (B/H Acc-Rf)
+berkurang sebesar 4,81% menjadi (10,04%).
+Untuk portofolio kategori size-B/M, koreksi
+faktor CMA justru meningkatkan ekspektasi
+tingkat pengembalian portofolio S/H, sedang
+untuk portofolio B/L mengalami penurunan
+sebesar 2,18% (13,54%). Penambahan faktor
+CMA, selain berpengaruh signifikan terhadap
+lima portofolio saham juga meningkatkan daya
+prediksi model dalam menjelaskan variansi
+ekspektasi tingkat pengembalian portofolio
+dengan kisaran 23,95%-52,13% menjadi 31,22%64,29%.
+Dari tabel tersebut juga dapat diketahui
+bahwa untuk kategori size-akrual, faktor HML
+hanya berpengaruh signifikan terhadap portofolio
+akrual kapitalisasi besar, sementara pada kategori
+size-B/M faktor ini berpengaruh signifikan positif
+terhadap portofolio dengan tingkat rasio B/M
+yang rendah. Selanjutnya, faktor CMA memiliki
+pengaruh negatif pada portofolio saham dengan
+tingkat akrual yang tinggi dan sebaliknya
+pengaruh positif pada portofolio dengan tingkat
+akrual yang rendah. Dan untuk portofolio sizeB/M, pengaruh negatif pada portofolio dengan
+rasio B/M yang rendah. Lebih lanjut, pada
+kategori size-B/M dan size-akrual faktor SMB
+berpengaruh positif untuk portofolio kapitalisasi
+kecil dan pengaruh negatif pada portofolio
+kapitalisasi besar.
+
+Hasil Uji Model Tiga Faktor
+Tabel 4 adalah hasil uji model tiga faktor
+Untuk
+portofolio
+akrual,
+nilai
+tingkat
+pengembalian tertinggi tetap dihasilkan oleh S/H
+acc-Rf (18%) untuk kapitalisasi kecil dan B/H
+acc-Rf (14,85%) pada kapitalisasi besar. Untuk
+kategori
+size-B/M,
+ekspektasi
+tingkat
+pengembalian tertinggi juga dihasilkan oleh
+portofolio S/H-Rf (16,07%) untuk kapitalisasi
+
+kecil dan B/L-Rf (13,34%) pada kapitalisasi
+besar.
+Secara parsial faktor pasar (Rm), kecuali
+pada portofolio B/H-Rf (setelah faktor CMA
+diikutsertakan dalam model) memiliki pengaruh
+positif yang signifikan untuk seluruh kategori
+portofolio
+(size-akrual
+dan
+size-B/M).
+Signifikansi parsial pengaruh faktor size (SMB),
+pada untuk kedua kategori (size-akrual dan sizeB/M) memiliki pengaruh positif (negatif) pada
+level kapitalisasi kecil (kapitalisasi besar).
+Pada faktor B/M (HML), signifikansi
+pengaruh parsial untuk kategori size-akrual
+adalah negatif (S/L acc-Rf, dan B/H acc-Rf),
+sementara untuk kategori size/B/M, faktor ini
+memuliki pengaruh negatif pada portofolio
+dengan tingkat B/M yang rendah. Sementara
+signifikansi parsial faktor CMA hanya terjadi
+pada kategori size-akrual, yakni pengaruh positif
+(negatif) pada portofolio dengan tingkat akrual
+yang rendah (tinggi). Penambahan faktor CMA,
+juga masih meningkatkan daya prediksi model
+dalam menjelaskan variansi ekspektasi tingkat
+pengembalian portofolio yakni dari kisaran
+26,24%-66,17% menjadi 38,65%-74,47%.
+
+Keterkaitan dengan Penelitian Terdahulu
+Dari hasil empiris tersebut, penelitian ini
+kurang sependapat dengan apa yang diutarakan
+penelitian terdahulu bahwa perusahaan dengan
+akrual operasional yang tinggi menghasilkan ratarata tingkat pengembalian yang lebih rendah
+(Sloan,
+1996;
+Pincus,
+Rajgopal,
+dan
+Venkatachalam, 2005; dan Hirshleifer et.al,
+2006) karena untuk kasus Indonesia estimasi
+ekspektasi tingkat pengembalian yang tinggi
+justru terjadi pada portofolio saham dengan
+tingkat akrual yang tinggi (kecuali pada
+portofolio SLacc-Rf untuk model HML dan 3FM
+yang telah ditambahkan faktor CMA). Karenanya
+penjelasan konvensional bahwa pengaruh
+tersebut adalah bentuk kompensasi terhadap
+risiko sistematik masih perlu dikaji ulang. Atau
+dengan kata lain, hasil empiris penelitian ini lebih
+sesuai pada implikasi penjelasan alternatif
+anomali akrual, yakni mungkin para investor
+terlalu optimis pada perusahaan dengan tingkat
+akrual yang tinggi dan terlalu pesimis terhadap
+perusahaan dengan tingkat akrual yang rendah
+sehingga mengakibatkan meningkatnya harga
+secara irasional pada saham perusahaan dengan
+
+36
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+akrual tinggi dan sebaliknya penurunan harga
+saham yang juga irasional untuk saham
+perusahaan dengan akrual rendah.
+Menarik pula bila penjelasan alternatif
+anomali akrual tersebut dikaitkan dengan
+hipotesis yang diutarakan Fama dan French
+(1995) bahwa perusahaan yang lemah dan terusmenerus
+memiliki
+ekspektasi
+tingkat
+pengembalian yang rendah cenderung memiliki
+rasio B/M yang tinggi dan slope HML positif;
+sebaliknya, perusahaan yang kuat dengan earning
+yang tinggi memiliki rasio B/M yang rendah dan
+slope HML yang negatif. Karena dapat diberikan
+penjelasan tambahan mengenai meningkatnya
+harga secara irasional pada saham perusahaan
+dengan akrual tinggi, yaitu signifikansi parsial
+pengaruh koefisien HML yang negatif (lihat tabel
+3.2 dan tabel 4), meski penjelasan ini masih
+memerlukan pembuktian yang lebih detail.
+
+Indeks-Sharpe, secara umum premi risiko dari
+seluruh portofolio masih tinggi selama periode
+penelitian hal ini ditunjukkan dengan indeks yang
+negatif pada seluruh portofolio selama periode
+penelitian.
+Dengan
+kata
+lain,
+tingkat
+pengembalian portofolio masih lebih rendah
+dibanding tingkat pengembalian rata-rata aset
+bebas risiko.
+Dari hasil evaluasi dengan tiga alat ukur
+dapat diperoleh informasi bahwa aspek
+kapitalisasi pasar, dan rasio book-to-market tidak
+serta merta menjamin portofolio yang terbentuk
+akan menghasilkan suatu konsensus perihal
+accepted risk yang reliable versus tingkat
+pengembalian yang diharapkan. Pernyataan ini
+semakin dikonfirmasi bila kriteria pembentukkan
+portofolio mempertimbangkan informasi akrual
+emiten.
+
+SIMPULAN DAN SARAN
+Evaluasi Kinerja Portofolio
+Evaluasi kinerja portofolio dilakukan
+dengan menggunakan tiga alat ukur, yakni:
+Indeks-Treynor, Alpha-Jensen, dan IndeksSharpe. Berikut (lihat tabel 6) adalah hasil
+perhitungan ketiga alat ukur tersebut.
+Berdasarkan kriteria Treynor-Index,
+selama periode penelitian, kinerja portofolio
+belum maksimal (ditunjukkan dengan indeks
+portofolio yang masih negatif) baik itu kategori
+size-akrual atau size-B/M. Tahun 2003 hanya dua
+portofolio yang menunjukkan indeks positif (S/H
+acc-Rf dan S/L-Rf) nilai ini pun masih harus
+dicermati dengan melihat koefisien beta
+portofolio-nya. Bahkan untuk tahun 2006, tidak
+satupun hanya portofolio memilii indeks positif.
+Hal ini berarti ekspektasi tingkat pengembalian
+portofolio masih lebih kecil dibanding risk free
+rate sehingga bila dikomparasi terhadap resiko
+fluktuatif relatif terhadap resiko pasar
+menghasilkan nilai indeks yang negatif. Dengan
+pendekatan Jensen-Alpha, kinerja dari portofolio
+dapat dilihat dari nilai alpha; dimana bila alpha
+bernilai positif berarti menunjukkan kinerja
+portofolio yang lebih tinggi daripada kinerja
+pasar. Dari hasil perhitungan, diperoleh tidak
+satupun portofolio yang memiliki indeks positif,
+kondisi ini secara ringkas dapat dikatakan bahwa
+tingkat pengembalian portofolio selama periode
+penelitian masih inferior terhadap risiko
+sistematisnya yang disatu sisi berfungsi sebagai
+multiplier pada kinerja pasar. Mengacu kepada
+
+Penelitian
+ini
+bertujuan
+untuk
+membuktikan signifikansi informasi akrual
+terhadap tingkat pengembalian portofolio saham
+dan melakukan evaluasi kinerja portofolio yang
+terbentuk dengan alat ukut indeks Treynor,
+Alpha-Jensen, dan indeks Sharpe. Hasil
+penelitian menunjukkan bahwa untuk model
+faktor tunggal dan model dua faktor pada
+kategori size-akrual, proksi tingkat akrual (CMA)
+memiliki pengaruh positif (negatif) terhadap
+portofolio saham dengan tingkat akrual rendah
+(tinggi). Sedangkan pada kategori size-B/M
+faktor CMA hanya memiliki pengaruh signifikan
+dan negatif pada portfolio B/L-Rf. Sedangkan
+pada model tiga faktor, signifikansi parsial faktor
+CMA hanya terjadi pada kategori size-akrual,
+yakni pengaruh positif (negatif) pada portofolio
+dengan tingkat akrual yang rendah (tinggi). Hasil
+empiris lainnya adalah penambahan faktor CMA,
+memang terbukti meningkatkan daya prediksi
+model dalam menjelaskan variansi tingkat
+pengembalian portofolio saham pada seluruh
+model asset pricing yang digunakan. Hasil
+evaluasi dengan tiga alat ukur menyatakan bahwa
+aspek kapitalisasi pasar, dan rasio book-to-market
+masih belum menunjukkan kinerja portofolio
+yang optimal bahkan setelah dilakukan perluasan
+pada seluruh model dengan menambah informasi
+akrual emiten.
+
+37
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+Beneish, M., Vargus, M. 2002. Insider trading,
+Keterbatasan
+earnings quality and accrual mispricing.
+Penelitian ini masih memiliki beberapa
+The Accounting review 77, 755-791.
+keterbatasan sebagai berikut:
+1. Jumlah sampel yang masih sedikit, dan
+Bernard, V., Thomas, J. 1989. Post earnings
+periode penelitian yang pendek (4 tahun) dan
+announcement drift: Delayed price
+formasi pembentukan portofolio (tahunan).
+response or risk premium?, Journal of
+2. Proksi akrual yang digunakan masih terlalu
+Accounting Research 27 (Suppl), 1-36.
+umum (hanya total akrual)
+3. Indikator risiko masih mengacu kepada Bernard, V., Thomas, J. 1990 Evidence that stock
+prices do not fully reflect the
+standar deviasi
+implications of current earnings for
+future earnings. Journal of Accounting &
+Implikasi
+Economics 13, 305-340.
+Berdasarkan keterbatasan penelitian tersebut,
+hasil penelitian ini diharapkan dapat memberikan Bradshaw, M., B. Bushee dan G. Miller. 2004.
+saran atau implikasi bagi penelitian selanjutnya.
+Accounting choice, home bias and U.S.
+1. Jika dimungkinkan menambah periode
+investment in non-U.S. firms. Journal of
+pembentukkan portofolio, misalnya: bulanan,
+Accounting Research 42, 795-841.
+triwulan, kwartal, dan per semester sehingga
+dapat memberikan informasi yang lebih Bradshaw, M., Richardson, S., Sloan, R. 2001.
+Do analysts and auditors use information
+komprehensif mengenai kinerja portofolio
+in accruals. Journal of Accounting
+yang terbentuk dengan pendekatan yang
+Research 39(1), 45-74 .
+digunakan.
+2. Memisahkan proksi informasi akrual menjadi Carhart, M. 1997. On persistence in mutual fund
+akrual diskresioner dan non-diskresioner.
+performance. Journal of Finance 52, 573. Menambah ukuran risiko portfolio, misalnya:
+82.
+risk reduce yang dihitung dengan parameter
+value at risk (baik VaR 90%,VaR 99%; atau Chan, K.C. dan N. Chen. 1991. Structural and
+return characteristics of small and large
+opsi risiko lainnya seperti risiko sistematik
+firms. Journal of Finance 46, 1467-1484.
+portofolio, risiko unik portofolio, atau total
+risiko portofolio).
+Collins, D. dan P. Hribar. 2000. Earnings-based
+4. Menambah kriteria saham pembentuk
+and accruals-based anomalies: one effect
+portofolio, seperti saham yang termasuk
+or two?, Journal of Accounting and
+dalam kategori winner dan looser.
+Economics 29, 101-123.
+5. Informasi
+akuntansi
+perusahaan
+bisa
+ditambah dengan rasio price to cash flow Daniel K., Titman S. 1997. Evidence of the
+Characteristics of Cross Sectional
+(PCF), EBITDA, EVA, dan aspek
+Variation in Stock returns. Journal of
+pendapatan residual emiten.
+Finance, Vol. 52, No. 1,1-33.
+Daniel K., Titman S., dan K. C. Wei J. 2001.
+Explaining the Cross-Section of Stock
+Ali, A., L. Hwang, dan M. Trombley. 2000.
+Returns in Japan or Characteristics.
+Mispricing of the accrual component of
+Journal of Finance, Vol. LVI, No. 2.
+earnings: tests of the naïve investor
+Davis, J., E. F. Fama, dan K. R. French. 2000.
+hypothesis. Journal of Accounting,
+Characteristics, covariances, and average
+Auditing and Finance 15, 161-181.
+returns: 1929–1997. Journal of Finance
+Ball, R., Brown, P. 1968. An empirical evaluation
+55, 389–406.
+of accounting income numbers. Journal
+Dechow, P. 1994. Accounting earnings and cash
+of Accounting Research, 159-178.
+flows as measures of firm performance:
+Barth, M., Hutton, A. 2001. Financial analysts
+The role of accounting accruals. Journal
+and the pricing of accruals. Stanford
+of Accounting & Economics, 18, 3-42.
+University, working paper.
+
+DAFTAR PUSTAKA
+
+38
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+Desai, H., Rajgopal, S., Venkatachalam, M. 2002. Gaunt, C. 2004. Size and Book to Market Effects
+and the Fama-French three factor Asset
+Value-glamour and accrual mispricing.
+Pricing Model: Evidence from the
+Duke University, working paper.
+Australian Stock-market. Accounting and
+Dichev, I. 1998. Is the Risk of Bankruptcy a
+Finance, 44, 27-44.
+Systematic Risk? Journal of Finance 53Hirshleifer, D., K. Hou, S. Teoh, dan Y. Zhang.
+3, 1131- 1147.
+2004. Do investors overvalue firms with
+Faff, R. 2001. An Examination of the Fama and
+bloated balance sheets?, Journal of
+French
+three-factor
+model
+using
+Accounting and Economics 38, 297-331.
+commercially
+available
+factors.
+Australian Journal of Management, 26, Hirshleifer, D., Kewei, H. K., Teoh, S. H. 2005.
+Aggregate Accruals and Stock Market
+1-17.
+Returns. Fisher college of business, Ohio
+Fama, Eugene F. 1998. Determining the Number
+state, working paper.
+of Priced State Variables in the ICAPM.
+The Journal of Financial and Hirshleifer, D., Kewei, H. K., Teoh, S. H. 2006.
+The accrual anomaly: risk or mispricing?
+Quantitative Analysis, Vol. 33, No. 2.
+Fisher college of business, Ohio state,
+(Jun.), pp. 217-231.
+working paper.
+Fama, Eugene F, dan Kenneth R. French. 1992.
+The cross section of expected returns. Hribar, P. 2000. The market pricing of
+component
+of
+accruals.
+Cornell
+Journal of Finance, Vol. XLVII, No. 2.
+University, working paper.
+Fama, Eugene F., dan Kenneth R. French. 1993.
+Common risk factors in the returns on Khan, M. 2005. Are accruals really mispriced?
+Evidence from tests of an intertemporal
+stocks and bonds. Journal of Financial
+capital asset pricing model, Working
+Economics 33, 3-56.
+paper, MIT.
+Fama, Eugene F., dan Kenneth R. French. 1995.
+Size and Book-to-Market Factors in Kothari, S. 2001. Capital markets research in
+accounting. Journal of Accounting and
+Earnings and Returns. Journal of
+Economics 31, 105-231.
+Finance, Vol. L, No.1.
+Fama, Eugene F., dan Kenneth R. French, 1996. Kraft, A., Leone, A., Wasley, C. 2001. On the use
+of Mishkin’s rational expectations
+Multifactor explanations of asset pricing
+approach to testing efficient-markets
+anomalies. Journal of Finance, Vol. 51,
+hypotheses in accounting research.
+No.1, 55-84.
+Working paper, University of Rochester.
+Fama, Eugene F., dan Kenneth R. French. 1998.
+Value versus Growth: The International Lamont, O., C. Polk, dan J. Saa-Requejo. 2001.
+Financial constraints and stock returns.
+Evidence. Journal of Finance, Vol. 53,
+Review of Financial Studies 14, 529-554.
+No. 6.
+Fama, E. F., and K. R. French. 2000. Forecasting Lev, B. dan D. Nissim. 2004. The persistence of
+the accruals anomaly. forthcoming
+profitability and earnings. Journal of
+Contemporary Accounting Research.
+Business, 73, 161-175.
+Fairfield, P., Whisenant, S., Yohn, T. 2001 Maroney, N dan A. Protopapadakis. 2002. The
+Book-to-Market and Size Effects in a
+Accrued
+earnings
+and
+growth:
+General Asset Pricing Model: Evidence
+Implications for earnings persistence and
+from Seven National Markets. European
+market
+mispricing.
+Georgetown
+Finance Review 6, 189-221.
+University, working paper.
+Frankel, R. dan C. Lee, 1998, Accounting Merton, R. C. 1973. An intertemporal capital
+asset pricing model. Econometrica 41,
+valuation, market expectation, and the
+867-887.
+book-tomarket effect, Journal of
+Accounting and Economics 25, 283–321.
+
+39
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+Moskowitz, T. 2003. An analysis of covariance Teoh, S. dan T. Wong, 2002, Why new issue and
+high-accrual firms underperform: the role
+risk and pricing anomalies. Review of
+of analysts’ credulity, Review of
+Financial Studies 16, 417-457.
+Financial Studies 15, 869-900.
+Mushruwala, C., S. Rajgopal, dan T. Shevlin.
+2004. Why is the accrual anomaly not Thomas, J., Zhang, H., 2002. Inventory changes
+and future returns. Review of Accounting
+arbitraged away?, Journal of Accounting
+Studies 7, 163-187.
+and Economics 2004 Conference Paper.
+Ng, J. 2004. Distress risk information in accruals. Xie, H. 2001. The mispricing of abnormal
+accruals. The Accounting Review 76,
+Working paper, The Wharton School.
+357-373.
+Pastor, L. dan R. F. Stambaugh. 2003. Liquidity
+risk and expected stock returns. Journal Zach, T. 2004. Evaluating the ‘accrual-fixation’
+hypothesis as an explanation for the
+of Political Economy 111, 642-685.
+accrual anomaly. Working paper,
+Pincus, M., S. Rajgopal, dan M. Venkatachalam.
+Washington University, St. Louis.
+2005. The accrual anomaly: international
+evidence. Working paper, University of Vuolteenaho, Tuomo. 2000. Understanding the
+Aggregate Book-to-Market Ratio and Its
+California, Irvine.
+Implications to Current Equity-Premium
+Rangan, S. 1998. Earnings management and the
+Expectations. Working Paper, Fisher
+performance
+of
+seasoned
+equity
+College of Business.
+offerings.
+Journal
+of
+Financial
+Zhang, X. F. 2005. Accruals, Investment, and the
+Economics 51, 101-122.
+Accrual Anomaly, Working paper, Yale
+Richardson, S., Sloan, R., Soliman, M., Tuna, I.
+University.
+2001 Information in accruals about the
+quality of earnings, University of Zhang, Y. 2005. Net operating assets as predictor
+of future stock returns: an industry
+Michigan, working paper.
+analysis. Working paper, The Ohio State
+Ross, S. A. 1976. The arbitrage theory of capital
+University.
+asset pricing. Journal of Economic
+Theory 13, 341-360.
+Schwert, W. 2001. Anomalies dan market
+efficiency. Handbook of the Economics
+of Finance, chapter 17.
+Selowidodo, Arifin. 2007. Harga Akrual
+Diskresioner Di Pasar Modal Indonesia.
+Jurnal Keuangan dan Perbankan, Vol.9
+No.2; 98-126.
+Sloan, R. 1996. Do stock prices fully reflect
+information in accruals and cash flows
+about future earnings? The Accounting
+Review 71, 289-315.
+Teoh, S., I. Welch, dan T. Wong. 1998a.
+Earnings management and the long run
+market performance of the initial public
+offering. Journal of Finance 53, 19351974.
+------. 1998b. Earnings management and the
+underperformance of seasoned equity
+offerings.
+Journal
+of
+Financial
+Economics 51, 63-99.
+
+40
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+Tabel 1. Ringkasan Statistik
+Pembentukan portfolio saham dilakukan berdasarkan interseksi ukuran perusahaan dan rasio B/M sesuai dengan hasil
+penelitian Fama dan French (2003). Nilai median keseluruhan sampel digunakan sebagai breakpoint untuk menetapkan
+perbedaan antara 2 kategori. Emiten dengan kapitalisasi pasar kurang dari nilai median dianggap sebagai emiten dengan
+kapitalisasi pasar yang kecil dan sebaliknya mereka yang lebih besar dari nilai median dianggap sebagai emiten dengan
+kapitalisasi pasar besar. Klasifikasi saham berdasarkan rasio B/M juga akan membagi saham ke dalam 2 kategori yang
+didasarkan nilai median keseluruhan sampel per tahun yaitu kategori B/M tinggi dan kategori B/M rendah. Dari interseksi
+pengklasifikasian tersebut, dibentuk 4 kategori portfolio saham, yakni: S/H (Small Cap-High B/M), B/H (Big Cap-High
+B/M), S/L (Small Cap-Low B/M) dan B/L (Big Cap-Low B/M). Penelitian ini juga mengikuti prosedur Hirshleifer et.al,
+(2006) dalam menambahkan faktor akrual (CMA) kepada model 3 faktor Fama dan French, yang analog pada faktor
+SMB dan HML dengan orientasi peringkat nilai operasional akrual tahun fiskal emiten dimana dari interseksi antara akrual
+operasional dan size terbentuk 4 kategori portfolio saham, yakni: S/H-acc (Small Cap-High accrual), B/H-acc (Big CapHigh accrual), S/L-acc (Small Cap-Low accrual) dan B/L-acc (Big Cap-Low accrual). Definisi CMA adalah perbedaan
+nilai rata-rata tertimbang return pada portfolio saham yang memiliki tingkat akrual rendah terhadap nilai rata-rata
+tertimbang return portfolio saham yang memiliki tingkat akrual tinggi. Atau dapat dirumuskan sebagai berikut: (S/L-acc +
+B/L-acc)/2 – (S/H-acc + B/H-acc)/2..
+Panel A. Deskripsi Statistik
+Keterangan
+
+Ratarata
+
+Std.
+Deviasi
+
+Rm_Rf
+
+-9.35%
+
+2.00%
+
+SMB
+
+3.88%
+
+11.00%
+
+HML
+
+2.30%
+
+8.00%
+
+CMA
+
+-0.86%
+
+4.00%
+
+SL_Rf
+
+-5.85%
+
+5.00%
+
+BL_Rf
+
+-7.47%
+
+4.00%
+
+SH_Rf
+
+-4.67%
+
+6.00%
+
+BH_Rf
+
+-6.92%
+
+6.00%
+
+SL_Rf
+
+-7.64%
+
+4.00%
+
+BL_Rf
+
+-5.69%
+
+7.00%
+
+SH_Rf
+
+-2.64%
+
+7.00%
+
+BH_Rf
+
+-8.39%
+
+3.00%
+
+SizeAkrual
+
+SizeB/M
+
+Panel B. Matrik Korelasi
+Rm_Rf
+
+SMB
+
+HML
+
+CMA
+
+Rm_Rf
+
+1
+
+0.12
+
+0.31
+
+-0.3
+
+SMB
+
+0.12
+
+1
+
+0.48
+
+0.1
+
+HML
+
+0.31
+
+0.48
+
+1
+
+0.23
+
+CMA
+
+-0.3
+
+0.1
+
+0.23
+
+1
+
+41
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+Tabel 2. Hasil Uji Model Faktor Tunggal (CAPM)
+Panel A. Model CAPM
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Predictor
+Rm-Rf
+
+α
+4.89%
+2.34%
+17.34%
+6.67%
+3.64%
+6.43%
+23.38%
+3.74%
+
+β
+1.15
+1.05
+2.36
+1.45
+1.21
+1.30
+2.78
+1.30
+
+Sig.t-α
+0.2210
+0.5029
+0.0005
+0.1449
+0.3091
+0.2417
+0.0000
+0.0466
+
+Sig.t-Rm
+0.0082
+0.0062
+0.0000
+0.0037
+0.0023
+0.0282
+0.0000
+0.0000
+
+Sig.F
+0.0082
+0.0062
+0.0000
+0.0037
+0.0023
+0.0282
+0.0000
+0.0000
+
+Adj.R²
+12.37%
+13.35%
+32.48%
+15.14%
+16.74%
+8.08%
+39.18%
+48.52%
+
+Panel B. Model Perluasan CAPM
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Predictor
+Rm-Rf
+CMA
+
+α
+9.10%
+3.51%
+11.69%
+0.92%
+2.34%
+1.99%
+22.83%
+4.15%
+
+β
+1.55
+1.16
+1.81
+0.90
+1.08
+0.87
+2.73
+1.34
+
+c
+0.50
+0.14
+-0.67
+-0.68
+-0.16
+-0.53
+-0.07
+0.05
+
+Sig.t-α
+0.0199
+0.3436
+0.0079
+0.8207
+0.5359
+0.7169
+0.0000
+0.0383
+
+42
+
+Sig.t-Rm
+0.0003
+0.0041
+0.0002
+0.0387
+0.0082
+0.1335
+0.0000
+0.0000
+
+Sig.c
+0.0015
+0.3361
+0.0002
+0.0001
+0.2955
+0.0170
+0.7435
+0.5164
+
+Sig.F
+0.0002
+0.0154
+0.0000
+0.0000
+0.0057
+0.0052
+0.0000
+0.0000
+
+Adj.R²
+28.64%
+13.25%
+49.67%
+38.57%
+16.96%
+17.33%
+37.97%
+47.87%
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+Tabel 3.1 Hasil Uji Model Dua Faktor - SMB
+Panel A. Model SMB
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Predictor
+Rm-Rf
+SMB
+
+α
+3.06%
+4.52%
+15.54%
+10.03%
+1.93%
+10.51%
+21.29%
+4.39%
+
+β
+1.02
+1.20
+2.23
+1.69
+1.09
+1.58
+2.64
+1.34
+
+s
+0.16
+-0.19
+0.16
+-0.30
+0.15
+-0.36
+0.19
+-0.06
+
+Sig.t-α
+0.4167
+0.1421
+0.0011
+0.0079
+0.5649
+0.0193
+0.0000
+0.0180
+
+Sig.t-Rm
+0.0121
+0.0004
+0.0000
+0.0001
+0.0031
+0.0011
+0.0000
+0.0000
+
+Sig.s
+0.0069
+0.0001
+0.0244
+0.0000
+0.0048
+0.0000
+0.0105
+0.0402
+
+Sig.F
+0.0008
+0.0000
+0.0000
+0.0000
+0.0002
+0.0000
+0.0000
+0.0000
+
+Adj.R²
+23.95%
+35.92%
+38.41%
+47.05%
+28.79%
+43.13%
+46.33%
+52.13%
+
+Sig.s
+0.0121
+0.0001
+0.0008
+0.0000
+0.0025
+0.0000
+0.0089
+0.0307
+
+Sig.c
+0.0026
+0.0818
+0.0000
+0.0000
+0.1148
+0.0234
+0.4644
+0.3259
+
+Panel B. Model Perluasan SMB
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Predictor
+Rm-Rf
+SMB
+CMA
+
+α
+7.09%
+6.48%
+8.79%
+4.78%
+-0.03%
+6.91%
+20.05%
+5.05%
+
+β
+1.40
+1.39
+1.59
+1.19
+0.90
+1.24
+2.52
+1.41
+
+s
+0.14
+-0.21
+0.20
+-0.27
+0.16
+-0.34
+0.19
+-0.06
+
+c
+0.45
+0.22
+-0.75
+-0.58
+-0.22
+-0.40
+-0.14
+0.07
+
+Sig.t-α
+0.0568
+0.0459
+0.0262
+0.1378
+0.9937
+0.1243
+0.0001
+0.0112
+
+43
+
+Sig.t-Rm
+0.0005
+0.0001
+0.0002
+0.0007
+0.0160
+0.0091
+0.0000
+0.0000
+
+Sig.F
+0.0000
+0.0000
+0.0000
+0.0000
+0.0002
+0.0000
+0.0000
+0.0000
+
+Adj.R²
+36.85%
+38.87%
+60.18%
+64.29%
+31.22%
+48.32%
+45.78%
+52.11%
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+Tabel 3. 2 Hasil Uji Model Dua Faktor - HML
+Panel A. Model HML
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Predictor
+Rm-Rf
+HML
+
+α
+4.90%
+4.79%
+18.00%
+14.85%
+6.73%
+15.72%
+19.07%
+3.38%
+
+β
+1.15
+1.28
+2.42
+2.21
+1.49
+2.16
+2.39
+1.26
+
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Predictor
+Rm-Rf
+HML
+CMA
+
+α
+11.54%
+7.92%
+9.42%
+10.04%
+6.27%
+13.54%
+15.96%
+3.85%
+
+β
+1.78
+1.57
+1.60
+1.75
+1.45
+1.95
+2.09
+1.31
+
+h
+0.00
+-0.14
+-0.04
+-0.48
+-0.18
+-0.54
+0.25
+0.02
+
+Sig.t-α
+0.2554
+0.1886
+0.0007
+0.0001
+0.0673
+0.0007
+0.0002
+0.0926
+
+Sig.t-Rm
+0.0126
+0.0013
+0.0000
+0.0000
+0.0002
+0.0000
+0.0000
+0.0000
+
+Sig.h
+0.9943
+0.0572
+0.7077
+0.0000
+0.0180
+0.0000
+0.0129
+0.6057
+
+Sig.F
+0.0316
+0.0039
+0.0001
+0.0000
+0.0006
+0.0000
+0.0000
+0.0000
+
+Adj.R²
+10.42%
+18.34%
+31.19%
+57.81%
+24.95%
+48.88%
+45.89%
+47.69%
+
+Sig.h
+0.2002
+0.0150
+0.2877
+0.0000
+0.0345
+0.0000
+0.0053
+0.7608
+
+Sig.c
+0.0007
+0.0699
+0.0001
+0.0022
+0.7969
+0.3002
+0.1777
+0.6215
+
+Panel B. Model Perluasan HML
+h
+-0.11
+-0.19
+0.10
+-0.40
+-0.17
+-0.51
+0.30
+0.01
+
+c
+0.57
+0.27
+-0.74
+-0.42
+-0.04
+-0.19
+-0.27
+0.04
+
+Sig.t-α
+0.0085
+0.0473
+0.0508
+0.0052
+0.1261
+0.0070
+0.0038
+0.0870
+
+44
+
+Sig.t-Rm
+0.0001
+0.0003
+0.0018
+0.0000
+0.0010
+0.0003
+0.0003
+0.0000
+
+Sig.F
+0.0003
+0.0025
+0.0000
+0.0000
+0.0020
+0.0000
+0.0000
+0.0000
+
+Adj.R²
+29.72%
+22.56%
+49.84%
+65.19%
+23.36%
+48.99%
+46.93%
+46.80%
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+Tabel 4. Hasil Uji Model Tiga Faktor
+Panel A. Model Tiga Faktor
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Predictor
+Rm-Rf
+SMB
+HML
+
+α
+4.90%
+4.79%
+18.00%
+14.85%
+6.73%
+15.72%
+19.07%
+3.38%
+
+β
+1.20
+1.23
+2.47
+2.17
+1.56
+2.10
+2.42
+1.24
+
+s
+0.21
+-0.19
+0.22
+-0.18
+0.27
+-0.23
+0.13
+-0.08
+
+h
+-0.14
+-0.02
+-0.19
+-0.36
+-0.36
+-0.39
+0.17
+0.08
+
+Sig.t-α
+0.2109
+0.1431
+0.0003
+0.0000
+0.0146
+0.0002
+0.0002
+0.0726
+
+Sig.t-Rm
+0.0045
+0.0006
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+
+Sig.t-s
+0.0021
+0.0011
+0.0055
+0.0011
+0.0000
+0.0008
+0.1038
+0.0085
+
+Sig.t-h
+0.1286
+0.7855
+0.0890
+0.0000
+0.0000
+0.0001
+0.1300
+0.0801
+
+Sig.F
+0.0009
+0.0001
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+
+Adj.R²
+26.24%
+34.58%
+41.06%
+66.17%
+59.20%
+59.55%
+47.93%
+54.37%
+
+Sig.t-s
+0.0002
+0.0010
+0.0015
+0.0002
+0.0000
+0.0007
+0.1093
+0.0095
+
+Sig.t-h
+0.0029
+0.3640
+0.6360
+0.0001
+0.0000
+0.0005
+0.0625
+0.1336
+
+Sig.t-c
+0.0001
+0.0541
+0.0000
+0.0003
+0.8685
+0.2021
+0.1853
+0.6546
+
+Panel B. Perluasan Model Tiga Faktor
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Predictor
+Rm-Rf
+SMB
+HML
+CMA
+
+α
+11.73%
+7.76%
+9.61%
+9.88%
+6.51%
+13.34%
+16.07%
+3.78%
+
+β
+1.85
+1.51
+1.67
+1.69
+1.54
+1.87
+2.13
+1.28
+
+s
+0.22
+-0.18
+0.21
+-0.18
+0.27
+-0.23
+0.13
+-0.08
+
+h
+-0.25
+-0.07
+-0.04
+-0.28
+-0.36
+-0.35
+0.22
+0.07
+
+c
+0.59
+0.26
+-0.72
+-0.43
+-0.02
+-0.21
+-0.26
+0.03
+
+Sig.t-α
+0.0023
+0.0298
+0.0278
+0.0016
+0.0337
+0.0029
+0.0031
+0.0730
+
+45
+
+Sig.t-Rm
+0.0000
+0.0001
+0.0004
+0.0000
+0.0000
+0.0001
+0.0002
+0.0000
+
+Sig.F
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+
+Adj.R²
+47.59%
+38.65%
+59.47%
+74.47%
+58.28%
+60.16%
+48.87%
+53.52%
+
+Jurnal Akuntansi dan Bisnis
+Vol.10, No. 1, Februari 2010: 25-42
+Tabel 6. Hasil Evaluasi Kinerja Portfolio Saham
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Panel A. Indeks-Treynor
+2003
+2004
+2005
+-23.66 -13.65
+8.64
+-0.58
+-42.11 -0.56
+4.40 -113.08 -0.21
+-1.89 -115.17 -0.32
+19.88 -21.92 -0.31
+-0.63
+-8.87
+-0.26
+-5.15
+23.92
+-0.24
+-4.37
+21.39
+n/a
+
+2006
+-1.63
+-0.53
+-0.52
+-2.59
+-3.45
+-0.49
+-0.57
+-5.22
+
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Panel B. Alpha-Jensen
+2003
+2004
+2005
+-0.13
+-0.13
+-0.14
+-0.14
+-0.14
+-0.15
+-0.14
+-0.07
+-0.10
+-0.16
+-0.12
+-0.12
+-0.16
+-0.14
+-0.12
+-0.13
+-0.11
+-0.10
+-0.12
+-0.05
+-0.08
+-0.16
+-0.14
+-0.18
+
+2006
+-0.21
+-0.18
+-0.17
+-0.21
+-0.22
+-0.16
+-0.17
+-0.23
+
+Portofolio
+S/L Acc-Rf
+B/L Acc-Rf
+S/H Acc-Rf
+B/H Acc-Rf
+S/L-Rf
+B/L-Rf
+S/H-Rf
+B/H-Rf
+
+Panel C. Indeks Sharpe
+2003
+2004
+2005
+-2.51
+-4.45
+-2.55
+-2.28
+-4.49
+-9.29
+-2.17
+-1.68
+-2.24
+-4.39
+-2.40
+-1.85
+-3.91
+-6.56
+-2.45
+-2.09
+-1.69
+-1.98
+-1.60
+-1.21
+-1.62
+-5.74
+-8.73
+-1.27
+
+2006
+-9.01
+-8.76
+-5.58
+-9.03
+-13.68
+-4.76
+-6.28
+-64.71
+
+46
+
+

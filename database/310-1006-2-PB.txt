@@ -1,0 +1,590 @@
+p-ISSN 2087-1716
+e-ISSN 2548-7779
+
+ILKOM Jurnal Ilmiah Volume 10 Nomor 2 Agustus 2018
+
+PERANCANGAN SISTEM INFORMASI PENJUALAN BERBASIS
+E-COMMERCE STUDI KASUS TOKO KUN JAKARTA
+Sutri Handayani
+sutri.sfx@bsi.ac.id
+STMIK NUSA MANDIRI JAKARTA
+
+Abstrak
+Teknologi informasi sangatlah berpengaruh untuk kemajuan suatu usaha. Berbagai macam
+cara dilakukan untuk mempromosikan usaha yang dimiliki, salah satunya dengan menggunakan
+website ecommerce. E-commerce adalah suatu kegiatan jual beli yang dilakukan secara online
+melalui situs atau website. Pada studi kasus Toko KUN, permasalahan yang sering dihadapi adalah
+media promosi hanya menggunakan spanduk, penjualan masih sebatas offline, penyimpanan data
+dan pencetakan laporan masih berupa pencatatan dalam bentuk arsip. Tujuan dari penelitian adalah
+memberi solusi pemecahan masalah-masalah yang ada dengan merancang sebuah sistem informasi
+penjualan berbasis ecommerce. Hasil dan kesimpulan dari penelitian ini adalah website penjualan
+berbasis ecommerce dapat dijadikan sebagai media promosi, mempermudah proses penjualan yang
+dilakukan secara online, serta dapat mempermudah dalam pengolahan data dan pencetakan laporan
+yang tidak lagi memerlukan pencatatan dalam bentuk arsip.
+Kata kunci: Sistem Informasi, E-commerce,Website
+
+Abstract
+Information technology is very influential for the progress of a business. Various ways are done
+to promote the business owned, one of them by using ecommerce website. E-commerce is a buying
+and selling activity conducted online through the website or website. In KUN Toko case study case,
+the problem that often faced is the promotion media using only banners, the sale is still limited to
+offline, data storage and printing report is still in the form of records in the form of archives. The
+purpose of the research is to provide solutions to solve existing problems by designing an
+ecommerce-based sales information system. The results and conclusions of this research is
+ecommerce-based sales website can be used as a media campaign, simplify the process of selling
+done online, and can simplify the data processing and printing reports that no longer require recording
+in the form of archives.
+Keywords: Information Systems, E-commerce, Website
+
+1. Pendahuluan
+“Inter Connection Networking (internet)” adalah jaringan komputer yang menghubungkan antar
+jaringan secara global, internet dapat juga disebut jaringan dalam suatu satu jaringan yang luas [1].
+Internet juga menggunakan protocol komunikasi yaitu TCP/IP (Transmission Control Protocol /Internet
+Protocol). Ecommerce didefenisikan sebagai transaksi perdagangan yang dimungkinkan secara digital
+antar organisasi dengan organisasi atau dengan individula serta antar individual dengan individual.
+Toko Kun adalah suatu usaha yang bergerak dibidang penjualan pakaian muslimah. Masalah yang
+dihadapi oleh toko kun adalah sistem penjualan yang masih dilakukan secara offline, dimana
+konsumen harus datang langsung ketoko jika ingin membeli barang. Kurang luasnya jangkauan
+promosi yang yang digunakan oleh toko kun masih menggunakan media spanduk didepan toko.
+Penyimpanan data dan pencetakan laporan masih menggunakan pencatatan kedalam arsip. Batasan
+masalah pada penelitian ini meliputi transaksi penjualan berbasis ecommerce, promosi melalui media
+website, penyimpanan data yang akan disimpan kedalam database sehingga mempermudah ketika
+akan mencetak laporan. Tujuan penelitian ini adalah menghasilkan sistem informasi penjualan
+berbasis ecommerce yang nantinya dapat membantu dalam pengolahan data, promosi dan transaksi
+yang dilakukan melalui media website ecommerce.
+
+2. Landasan Teori
+2.1. E-commerce
+Ecommerce adalah suatu perangkat teknologi yang dinamis,meliputi aplikasi dan pross bisnis
+yang menghubungkan perusahaan,konsumen dan suatu komunitas melalui transaksi elektronik,
+yang menyelenggarakan pertukaran elektronik barang [2].
+
+| 182
+
+p-ISSN 2087-1716
+e-ISSN 2548-7779
+
+ILKOM Jurnal Ilmiah Volume 10 Nomor 2 Agustus 2018
+2.2. Website
+“Word Wide Web atau Waring Wera Wanua, disingkat sebagai WWW” adalah suatu ruang
+informasi yang dipakai oleh pengenal global yang disebut Pengidentifikasi Sumber Seragam untuk
+mengenal pasti sumber daya berguna. WWW sering dianggap sama dengan internet secara
+keseluruhan, walaupun sebenarnya ia hanyalah bagian daripada internet [3].
+
+2.3. ERD (Entity Relationship Diagram)
+Menurut [4], ERD (Entity Relationship Diagram) adalah dikembangkan berdasarkan teori
+himpunan dalam bidang matematika”. ERD digunakan untuk pemodelan basis data relasional.
+Sehingga jika penyimpanan basis data menggunakan OODBMS maka perancangan basis data tidak
+perlu menggunakan ERD.
+
+2.4. UML (Unified Modelling Language)
+UML (Unified Modelling Language) adalah bahasa pemodelan untuk sistem atau perangkat
+lunak yang berparadigma berorientasi objek. Pemodelan (modelling) sesungguhnya digunakan
+penyederhanaan permasalahan permasalahan yang kompleks sedemikian rupa sehingga lebih
+mudah dipelajari dan dipahami. Dalam menganalisa dan merancang suatu basis data dapat
+digunakan diagram UML (Unified Modelling Language). UML merupakan salah satu tool model untuk
+merancang pemodelan software yang berbasis object oriented [5].
+
+3. Metode
+Metode yang digunakan dalam penelitian adalah model waterfall. Menurut [4] menjelaskan
+bahwa “Model Waterfall adalah model SDLC yang paling sederhana, model ini hanya cocok untuk
+pengembangan perangkat lunak dengan spesifikasi yang tidak berubah – ubah”. Pendekatan SDLC
+dengan berbagai pekerjaan di suatu tahap diselesaikan terlebih dulu sebelum pekerjaan dilanjutkan
+ke tahap berikutnya. Aliran SDLC sebagian besar tetap sama, berapa pun jumlah tahapannya.
+Pemodelan
+Sistem Informasi
+Analisis
+
+Desain
+
+Kode
+
+Tes
+
+Gambar 1. Ilustrasi Waterfall Model
+1). Analisis kebutuhan perangkat lunak (Analysis)
+Proses pengumpulan kebutuhan dilakukan secara intensif untuk menspesifikasikan perangkat
+lunak agar dapat dipahami perangkat lunak seperti apa yang dibutuhkan oleh user. Spesifikasi
+kebutuhan perangkat lunak tahap ini perlu untuk didokumentasikan.
+2). Desain (Design)
+Desain perangkat lunak adalah proses multi langkah yang fokus pada desain pembuatan program
+perangkat lunak, representasi antarmuka, dan prosedur pengkodean. Tahap ini menstranslasi
+kebutuhan perangkat lunak, dari tahap analisis kebutuhan representasi desain agar dapat
+diimplementasikan menjadi program pada tahap selanjutnya. Desain perangkat lunak, dari tahap
+analisis kebutuhan representasi desain agar dapat diimplementasikan menjadi program pada
+tahap selanjutnya. Desain perangkat lunak yang dihasilkan pada tahap ini juga perlu
+didokumentasikan.
+3). Pembuatan kode program (Code)
+Desain harus ditranslasikan ke dalam program perangkat lunak. Hasil dari tahap ini adalah
+program komputer sesuai dengan desain yang telah dibuat pada tahap desain.
+4). Pengujian (Test)
+Pengujian fokus pada perangkat lunak secara dari segi lojik dan fungsional dan memastikan
+bahwa semua bagian sudah diuji. Hal ini dilakukan untuk meminimalisir kesalahan (error) dan
+memastikan keluaran yang dihasilkan sesuai yang diinginkan.
+| 183
+
+p-ISSN 2087-1716
+e-ISSN 2548-7779
+
+ILKOM Jurnal Ilmiah Volume 10 Nomor 2 Agustus 2018
+4. Hasil dan Pembahasan
+4.1. Activity Diagram
+Berikut merupakan gambaran activity diagram dari sistem penjualan online pada toko Kun
+yang diusulkan :
+1. Prosedur Pendaftaran
+Pengunjung membuka website toko, pengunjung yang belum mendaftar harus melakukan
+pendaftaran terlebih dahulu. Pengunjung mengisi form pendaftaran, setelah mengisi form
+pendaftaran kemudian customer dapat melakukan login dengan user name dan password yang
+telah dibuat, lalu customer dapat melakukan pemesanan barang.
+
+Gambar 2. Activity Diagram Pendaftaran
+2. Prosedur Pembayaran
+Customer melakukan pembayaran sesuai dengan total biaya yang tertera di faktur, customer
+melakukan pembayaran dengan cara transfer ke rekening pemilik toko. Setelah melunasi
+pembayaran, customer melakukan konfirmasi melalui email bahwa telah melunasi pembayaran,
+setelah admin menerima email dari customer, admin akan mengirimkan balasan konfirmasi ke
+email customer. Batas waktu pembayaran sampai dengan tiga hari, jika lebih dari tiga hari
+maka transaksi akan dibatalkan.
+Customer
+
+Admin
+
+Melakukan
+pembayaran
+
+ya
+
+Mengirimkan konfirmasi telah
+melakukan pembayaran
+
+Menerima pembayaran
+dan konfirmasi
+
+Menerima
+konfirmasi
+
+Mengirimkan konfirmasi telah
+menerima pembayaran
+
+tidak
+
+Gambar 3. Activity Diagram Pembayaran
+3. Prosedur Pemesanan
+Setelah customer berhasil login, maka customer dapat memilih produk yang diinginkan, Untuk
+memesan produk yang diinginkan pembeli dapat langsung mengklik tombol beli maka produk
+yang dibeli akan tersimpan ke keranjang belanja. Jika customer ingin memesan produk yang lain
+maka customer memilih tombol lanjutkan belanja lalu pilih produk yang lainnya. Untuk merubah
+jumlah produk yang dipesan customer cukup mengklik tombol update. Setelah customer selesai
+melakukan pemesanan maka customer langsung mengklik tombol selesai belanja maka akan
+| 184
+
+p-ISSN 2087-1716
+e-ISSN 2548-7779
+
+ILKOM Jurnal Ilmiah Volume 10 Nomor 2 Agustus 2018
+tampil form data customer yang harus dilengkapi kembali, jika sudah melengkapi data, pembeli
+langsung memilih tombol proses lalu tampil faktur penjualan, di faktur penjualan tertera nama
+barang yang dipesan beserta rincian biaya yang harus dibayar. Setelah data terkirim admin akan
+mengirimkan data rekening toko ke email cuctomer.
+Customer
+
+Web
+
+Melakukan
+login
+
+tidak
+berhasil
+Melihat kategori
+produk
+
+ya
+
+tidak
+
+Tampil Menu
+Pilihan produk
+
+Memilih produk
+
+Melakukan
+pemesanan
+
+tidak
+ya
+Menerima pesanan dan
+data customer
+
+Melengkapi data
+customer
+
+Membuat f orm
+pemesanan
+
+Menerima f aktur dan
+rekening toko
+
+Mengirimkan data pesanan
+dan rekening toko
+
+Gambar 4. Activity Diagram Pemesanan
+4. Prosedur Laporan
+Laporan data pemesanan dan data produk dibuat berdasarkan data pemesanan yang telah
+tersimpan, laporan data pemesanan dan data produk dicetak oleh bagian admin selanjutnya
+dilaporkan kepada Pemilik Toko.
+Admin
+
+Tampilkan halaman admin
+
+Web
+
+Pilih menu laporan
+
+Tampilkan halaman menu
+laporan
+
+Mencetak laporan
+
+Gambar 5. Activity Diagram Pembuatan Laporan
+
+4.2. Use case Diagram
+Use case diagram digunakan untuk mendeskripsikan apa yang seharusnya dilakukan oleh
+sistem. Diagram usecase menyediakan cara mendiskripsikan pandangan eksternal terhadap sistem
+dan interaksi-interaksinya terhadap dunia luar. Berikut ini merupakan use case diagram dari sistem
+penjualan barang online pada toko kun yang diusulkan :
+| 185
+
+p-ISSN 2087-1716
+e-ISSN 2548-7779
+
+ILKOM Jurnal Ilmiah Volume 10 Nomor 2 Agustus 2018
+1. Use Case Diagram Home
+Home
+
+How to buy
+
+About us
+
+Contact us
+
+Pengunjung
+
+Customer
+
+Kategori
+
+Daftar customer
+
+Produk
+
+Login
+
+Gambar 6. Use Case Diagram Home
+2. Use Case Diagram Pendaftaran
+
+Login
+
+»
+ds
+ten
+x
+«e
+Melakukan
+Pendaftaran
+
+«in
+c
+
+Mengisi Form
+lud
+e » Pendaftaran
+
+Gambar 7. Use Case Diagram Pendaftaran
+3. Use Case Diagram Pemesanan
+
+Login
+customer
+
+«in
+c
+
+lud
+e»
+
+«ex te
+nds »
+«e
+xt
+en
+ds
+»
+
+Daftar
+customer
+
+Memesan
+Produk
+
+RSH pesanan
+
+Konfirmasi
+pesanan
+
+«include »
+
+nds »
+«ex te
+Customer
+
+Cetak bukti
+pembayaran
+
+Gambar 8. Use Case Diagram Pemesanan
+| 186
+
+p-ISSN 2087-1716
+e-ISSN 2548-7779
+
+ILKOM Jurnal Ilmiah Volume 10 Nomor 2 Agustus 2018
+4. Use Case Diagram Laporan
+
+Data laporan
+
+«in
+c
+
+lud
+e»
+
+Mencetak laporan
+
+Admin
+
+Gambar 9. Use Case Diagram Pembuatan Laporan
+
+4.3. ERD (Entity Relationship Diagram)
+Password Nama_pel alamat
+
+Email
+username
+
+username
+
+Id_kategori
+
+No_telp
+
+Id_produk
+
+Id_orders
+
+1
+
+Pelanggan
+1
+
+username
+
+Tgl_msk
+
+Pilih
+
+Nm_kategori
+Id_kategori
+
+M
+
+Id_kategori
+
+Kategori
+
+1
+
+stok
+
+harga
+
+Id_produk
+
+punya
+
+M
+
+gambar
+Nama_pel
+
+M
+
+Id_produk
+
+jadi
+
+M
+
+Email
+
+alamat
+
+1
+
+Order
+
+Jam_order
+
+No_telp Tgl_order
+
+M
+
+Id_orders
+
+Produk
+
+Stat_order
+
+melakukan
+
+Id_kota
+1
+
+punya
+
+1
+
+Detail_order
+
+Id_kategori
+Nm_prod
+Password
+
+masuk
+
+Id_produk
+
+deskripsi
+
+username
+
+1
+
+Id_orders
+Id_produk
+
+Id_orders_temp
+
+M Order_temp M
+
+sesuaikan
+Id_orders
+
+Jam_order_temp
+Admin
+
+1
+
+1
+
+Id_orders_temp
+
+Nama_lengkap
+
+Id_orders
+
+Kontrol Id_orders_temp
+
+Tgl_order_temp
+
+jumlah
+
+Id_orders
+
+1
+Kota
+
+Id_kota
+
+jumlah
+
+Id_produk
+
+Id_session
+Email
+
+level
+
+Id_kota
+
+No_telp Blokir
+
+M
+
+username
+
+ongkos
+Nama_kota
+
+Id_hubungi
+Id_orders_temp
+
+Hubungi
+Id_hubungi
+
+pesan
+Email
+
+Nama
+subjek
+
+Gambar 10. Entity Relationship Diagram
+
+| 187
+
+p-ISSN 2087-1716
+e-ISSN 2548-7779
+
+ILKOM Jurnal Ilmiah Volume 10 Nomor 2 Agustus 2018
+4.4. Rancangan Tampilan
+Berikut merupakan gambaran dari rancangan website Toko Kun:
+1. Halaman Home Pengunjung
+
+Gambar 11. Home pengunjung
+2. Halaman Keranjang Belanja
+
+Gambar 12. Rancangan halaman keranjang belanja
+| 188
+
+p-ISSN 2087-1716
+e-ISSN 2548-7779
+
+ILKOM Jurnal Ilmiah Volume 10 Nomor 2 Agustus 2018
+5. Kesimpulan dan Saran
+5.1. Kesimpulan
+Dengan adanya sistem informasi penjualan berbasis ecommerce dapat memudahkan
+konsumen dalam melakukan pemesanan barang secara online, karena konsumen tidak perlu datang
+langsung ketoko. Mempermudah promosi melalui media website yang jangkauannya lebih luas
+dibandingkan dengan promosi dengan menggunakan spanduk. Mempermudah dalam penyimpanan
+data dan pencetakan laporan yang dapat disimpan dan diaksen melalui website
+
+5.2. Saran
+Menambahkan lebih banyak konten agar tampilan website lebih lebih sempurna. Membackup
+data-data yang sudah tersimpan agar lebih aman. Melakukan maintenance terhadap website secara
+berkala.
+
+Daftar Pustaka
+[1]
+[2]
+[3]
+[4]
+[5]
+
+F. A. Sibero, WEB Programming Power Pack. Yogyakarta: Mediakom, 2013.
+H. T. Sihotang, “Sistem pakar untuk mendiagnosa penyakit pada tanaman jagung dengan
+metode bayes,” J. Inform. Pelita Nusant., vol. 3, no. 1, 2018.
+M. Sandi, Bikin Website Dengan Aplikasi-Aplikasi Gratis. Yogyakarta: Mediakom, 2014.
+R. A. M. S. Sukamto, Rekayasa Perangkat Lunak Terstuktur Dan Berorientasi Objek. Bandung:
+Informatika Bandung, 2013.
+J. I. G. W. F. F. L. Efendi, Kamus Istilah Hukum Populer. Jakarta: PRENADAMEDIA GROUP,
+2016.
+
+| 189
+
+

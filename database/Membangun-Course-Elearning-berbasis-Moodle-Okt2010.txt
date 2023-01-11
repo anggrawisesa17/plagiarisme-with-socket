@@ -1,0 +1,1147 @@
+1
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+MEMBANGUN COURSE E-LEARNING
+BERBASIS MOODLE
+
+Oleh: Herman Dwi Surjono, Ph.D.
+Dosen Universitas Negeri Yogyakarta
+http://blog.uny.ac.id/hermansurjono
+http://herman.elearning-jogja.org
+http://www.facebook.com/hermands
+
+UNIVERSITAS NEGERI YOGYAKARTA
+OKTOBER 2010
+
+2
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+DAFTAR ISI
+BAB I. Pengantar Elearning
+BAB II. Membangun Elearning Dengan Moodle
+BAB III. Pengembangan Course Elearning berbasis Moodle (Part 1)
+BAB IV. Pengembangan Course Elearning berbasis Moodle (Part 2)
+BAB V. Instalasi Moodle di Laptop/PC (Windows)
+
+3
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+BAB I
+Pengantar Elearning
+Oleh: Herman Dwi Surjono, Ph.D.
+http://blog.uny.ac.id/hermansurjono
+A. Pendahuluan
+Perkembangan teknologi informasi dan komunikasi yang sangat pesat
+mendorong berbagai lembaga pendidikan memanfaatkan sistem e-learning untuk
+meningkatkan efektivitas dan fleksibilitas pembelajaran. Meskipun banyak hasil
+penelitian menunjukkan bahwa efektivitas pembelajaran menggunakan sistem elearning cenderung sama bila dibanding dengan pembelajaran konvensional atau
+klasikal, tetapi keuntungan yang bisa diperoleh dengan e-learning adalah dalam hal
+fleksibilitasnya. Melalui e-learning materi pembelajaran dapat diakses kapan saja dan
+dari mana saja, disamping itu materi yang dapat diperkaya dengan berbagai sumber
+belajar termasuk multimedia dengan cepat dapat diperbaharui oleh pengajar.
+Oleh karena perkembangan e-learning yang relatif masih baru, definisi dan
+implementasi sistem e-learning sangatlah bervariasi dan belum ada standard yang
+baku. Berdasarkan pengamatan dari berbagai sistem pembelajaran berbasis web yang
+ada di Internet, implementasi sistem e-learning bervariasi mulai dari yang (1)
+sederhana yakni sekedar kumpulan bahan pembelajaran yang ditaruh di web server
+dengan tambahan forum komunikasi lewat e-mail atau milist secara terpisah sampai
+dengan yang (2) terpadu yakni berupa portal e-learning yang berisi berbagai obyek
+pembelajaran yang diperkaya dengan multimedia serta dipadukan dengan sistem
+informasi akademik, evaluasi, komunikasi, diskusi dan berbagai educational tools
+lainnya.
+Implementasi suatu e-learning bisa masuk kedalam salah satu kategori tersebut,
+yakni bisa terletak diantara keduanya, atau bahkan bisa merupakan gabungan
+beberapa komponen dari dua sisi tersebut. Hal ini disebabkan antara lain karena belum
+adanya pola yang baku dalam implementasi e-learning, keterbatasan sumberdaya
+manusia baik pengembang maupun staf pengajar dalam e-learning, keterbatasan
+
+4
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+perangkat keras maupun perangkat lunak, keterbatasan beaya dan waktu
+pengembangan. Adapun dalam proses belajar mengajar yang sesungguhnya, terutama
+di negara yang koneksi Internetnya sangat lambat, pemanfaatan sistem e-learning
+tersebut bisa saja digabung dengan sistem pembelajaran konvesional yang dikenal
+dengan sistem blended learning atau hybrid learning.
+B. Definisi E-learning
+Belum adanya standard yang baku baik dalam hal definisi maupun implementasi
+e-learning menjadikan banyak orang mempunyai konsep yang bermacam-macam. Elearning merupakan kependekan dari electronic learning (Sohn, 2005). Salah satu
+definisi umum dari e-learning diberikan oleh Gilbert & Jones (2001), yaitu: pengiriman
+materi
+
+pembelajaran
+
+melalui
+
+suatu
+
+media
+
+elektronik
+
+seperti
+
+Internet,
+
+intranet/extranet, satellite broadcast, audio/video tape, interactive TV, CD-ROM, dan
+computer-based training (CBT). Definisi yang hampir sama diusulkan juga oleh the
+Australian National Training Authority (2003) yakni meliputi aplikasi dan proses yang
+menggunakan berbagai media elektronik seperti internet, audio/video tape, interactive
+TV and CD-ROM guna mengirimkan materi pembelajaran secara lebih fleksibel.
+The ILRT of Bristol University (2005) mendefinisikan e-learning sebagai
+penggunaan teknologi elektronik untuk mengirim, mendukung, dan meningkatkan
+pengajaran, pembelajaran dan penilaian. Udan and Weggen (2000) menyebutkan
+bahwa e-learning adalah bagian dari pembelajaran jarak jauh sedangkan pembelajaran
+on-line adalah bagian dari e-learning. Di samping itu, istilah e-learning meliputi
+berbagai aplikasi dan proses seperti computer-based learning, web-based learning,
+virtual classroom, dll; sementara itu pembelajaran on-line adalah bagian dari
+pembelajaran berbasis teknologi yang memanfaatkan sumber daya Internet, intranet,
+dan extranet. Lebih khusus lagi Rosenberg (2001) mendefinisikan e-learning sebagai
+pemanfaatan teknologi Internet untuk mendistribusikan materi pembelajaran,
+sehingga siswa dapat mengakses dari mana saja.
+
+5
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Kaitan antara berbagai istilah yang berkaitan dengan e-learning dan
+pembelajaran jarak jauh dapat diilustrasikan dalam gambar di bawah (Surjono, 2006).
+
+Distance Learning
+
+E-Learning
+
+Learning through
+
+Learning through
+
+Online Learning
+
+Web based learning
+environment
+
+CAI, CAL, CBT
+
+Adaptive
+Hypermedia
+
+WBI, WBT, WBL
+
+AEH
+
+Other AHS
+Applications
+
+C. Implementasi e-learning
+Meskipun implementasi sistem e-learning yang ada sekarang ini sangat
+bervariasi, namun semua itu didasarkan atas suatu prinsip atau konsep bahwa elearning dimaksudkan sebagai upaya pendistribusian materi pembelajaran melalui
+media elektronik atau Internet sehingga peserta didik dapat mengaksesnya kapan saja
+dari seluruh penjuru dunia. Ciri pembelajaran dengan e-leaning adalah terciptanya
+lingkungan belajar yang flexible dan distributed.
+Fleksibilitas menjadi kata kunci dalam sistem e-learning. Peserta didik menjadi
+sangat fleksibel dalam memilih waktu dan tempat belajar karena mereka tidak harus
+datang di suatu tempat pada waktu tertentu. Dilain pihak, dosen dapat memperbaharui
+materi pembelajarannya kapan saja dan dari mana saja. Dari segi isi, materi
+pembelajaranpun dapat dibuat sangat fleksibel mulai dari bahan kuliah yang berbasis
+
+6
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+teks sampai materi pembelajaran yang sarat dengan komponen multimedia. Namun
+demikian kualitas pembelajaran dengan e-learning pun juga sangat fleksibel atau
+variatif, yakni bisa lebih jelek atau lebih baik dari sistem pembelajaran tatap muka
+(konvensional). Untuk mendapatkan sistem e-learning yang baik diperlukan
+perancangan yang baik pula. Distributed learning menunjuk pada pembelajaran dimana
+pengajar, mahasiswa, dan materi pembelajaran terletak di lokasi yang berbeda,
+sehingga mahasiswa dapat belajar kapan saja dan dari mana saja.
+Dalam merancang sistem e-learning perlu mempertimbangkan dua hal, yakni
+peserta didik yang menjadi target dan hasil pembelajaran yang diharapkan.
+Pemahaman atas peserta didik sangatlah penting, yakni antara lain adalah harapan dan
+tujuan mereka dalam mengikuti e-learning, kecepatan dalam mengakses internet atau
+jaringan, keterbatasan bandwidth, beaya untuk akses internet, serta latar belakang
+pengetahuan yang menyangkut kesiapan dalam mengikuti pembelajaran. Pemahaman
+atas hasil pembelajaran diperlukan untuk menentukan cakupan materi, kerangka
+penilaian hasil belajar, serta pengetahuan awal.
+Sistem e-learning dapat diimplementasikan dalam bentuk asynchronous,
+synchronous, atau campuran antara keduanya. Contoh e-learning asynchronous banyak
+dijumpai di Internet baik yang sederhana maupun yang terpadu melalui portal elearning. Sedangkan dalam e-learning synchronous, pengajar dan siswa harus berada di
+depan komputer secara bersama-sama karena proses pembelajaran dilaksanakan
+secara live, baik melalui video maupun audio conference. Selanjutnya dikenal pula
+istilah blended learning yakni pembelajaran yang menggabungkan semua bentuk
+pembelajaran misalnya on-line, live, maupun tatap muka (konvensional).
+Saat
+
+ini
+
+banyak
+
+sistem
+
+E-learning
+
+yang
+
+diimplementasikan
+
+dengan
+
+menggunakan LMS Moodle. LMS adalah perangkat lunak untuk membuat materi
+perkuliahan on-line (berbasis web), mengelola kegiatan pembelajaran serta hasilhasilnya, memfasilitasi interaksi, komunikasi, kerjasama antar dosen dan mahasiswa.
+LMS mendukung berbagai aktivitas, antara lain: administrasi, peyampaian materi
+
+7
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+pembelajaran, penilaian (tugas, quiz), pelacakan/tracking & monitoring, kolaborasi, dan
+komunikasi/interaksi.
+Melalui E-learning ini para dosen dapat mengelola materi perkuliahan, yakni:
+menyusun silabi, meng-upload materi perkuliahan, memberikan tugas kepada
+mahasiswa, menerima pekerjaan mahasiswa, membuat tes/quiz, memberikan nilai,
+memonitor keaktifan mahasiswa, mengolah nilai mahasiswa, berinteraksi dengan
+mahasiswa dan sesama dosen melalui forum diskusi dan chat, dll. Di sisi lain,
+mahasiswa dapat mengakses informasi dan materi pembelajaran, berinteraksi dengan
+sesama mahasiswa dan dosen, melakukan transaksi tugas-tugas perkuliahan,
+mengerjakan tes/quiz, melihat pencapaian hasil belajar, dll.
+Moodle merupakan salah satu LMS open source yang dapat diperoleh secara
+bebas melalui http://moodle.org. Moodle dapat dengan mudah dipakai untuk
+mengembangkan sistem e-learning. Dengan Moodle portal e-learning dapat
+dimodifikasi sesuai kebutuhan. Saat ini (Oktober 2010) terdapat lebih dari 49 ribu situs
+e-learning tersebar di lebih dari 210 negara yang dikembangkan dengan Moodle
+(http://moodle.org/sites/). Sedangkan di Indonesia terdapat lebih dari 594 situs elearning yang dikembangkan dengan Moodle.
+Salah satu keuntungan bagi dosen yang membuat mata kuliah online berbasis
+LMS adalah kemudahan. Hal ini karena dosen tidak perlu mengetahui sedikitpun
+tentang pemrograman web, sehingga waktu dapat dimanfaatkan lebih banyak untuk
+memikirkan konten (isi) pembelajaran yang akan disampaikan. Disamping itu dengan
+menggunakan LMS Moodle, maka kita cenderung untuk mengikuti paradigma elearning terpadu yang memungkinkan menjalin kerjasama dalam “knowledge sharing”
+antar perguruan tinggi besar di Indonesia (melalui INHERENT).
+D. Penyiapan Materi Pembelajaran
+Untuk membuat mata kuliah di e-learning perlu dipersiapkan materi
+pembelajaran dalam format digital atau dalam bentuk file. Materi pembelajaran dapat
+
+8
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+berupa dokumen (doc, pdf, xls, txt), presentasi (ppt), gambar (jpg, gif,png), video (mpg,
+wmv), suara (mp3, au, wav), animasi (swf, gif). File-file ini perlu diorganisir sedemikian
+rupa sehingga mudah ditemukan dan digunakan pada saat pengembangan e-learning.
+Program Mapping merupakan tabel yang memuat materi pembelajaran selama satu
+semester dimana pada setiap elemen terdapat link yang terhubung ke materi
+pembelajaran secara lengkap.
+
+Program Mapping
+Nama Matakuliah
+Kode Matakuliah
+Semester
+SKS
+Dosen
+Deskripsi MK
+
+:
+:
+:
+:
+:
+:
+
+Tujuan Pembelajaran:
+1.
+2.
+No
+
+Topik
+
+Dokumen
+
+Gambar/ Audio/ Tes/Quiz/
+Waktu Link: URL
+Animasi Video
+Tugas
+
+Metode
+
+9
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+E. Daftar Pustaka
+
+ANTA. (2003). Definition of key terms used in e-learning (version 1.00). Retrieved 7
+October, 2005, from http://www.flexiblelearning.net.au/guides/keyterms.pdf
+Gilbert, & Jones, M. G. (2001). E-learning is e-normous. Electric Perspectives, 26(3), 6682.
+ILRT. (2005). Institute for learning & research technology of Bristol University. Retrieved
+7 October 2005, from http://www.ilrt.bris.ac.uk/projects/elearning
+Rosenberg, M. J. (2001). E-learning: Strategies for delivering knowledge in the digital
+age. New York: McGraw-Hill.
+Sohn, B. (2005). E-learning and primary and secondary education in Korea. KERIS Korea
+Education & Research Information Service, 2(3), 6-9.
+Surjono, Herman. (2006). Development and evaluation of an adaptive hypermedia
+system based on multiple student characteristics. Unpublished doctoral
+dissertation. Southern Cross University.
+Urdan, T. A., & Weggen, C. C. (2000). Corporate e-learning: Exploring a new frontier.
+Retrieved 17 October 2005, from
+http://www.spectrainteractive.com/pdfs/CorporateELearingHamrecht.pdf
+
+10
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+BAB II
+Membangun Elearning Dengan Moodle
+Oleh: Herman Dwi Surjono, Ph.D.
+http://blog.uny.ac.id/hermansurjono
+A. Pendahuluan
+Perkembangan teknologi informasi kini semakin membuka peluang bagi
+lembaga pendidikan untuk memanfaatkan sistem e-learning guna mendukung proses
+belajar mengajar. Dengan e-learning guru bisa menyampaikan materi pembelajaran
+melalui Internet sehingga siswa dapat mengakses meteri tersebut kapan saja dan dari
+mana saja. Bagi lembaga pendidikan yang sudah mampu dalam hal infrastuktur,
+sumber daya manusia maupun sumber dana, untuk membangun sistem e-learning
+tidaklah menjadi masalah. Akan tetapi, bagaimana bila lembaga kita tidak mempunyai
+berbagai sumber daya tersebut. Dengan keterbatasan ini, kita akan mencoba
+membangun sistem e-learning dengan professional.
+Kini banyak portal e-learning yang dikembangkan dengan perangkat lunak
+Learning Management System (LMS) yang disebut Moodle. Moodle merupakan
+perangkat lunak open source yang mendukung implementasi e-learning dengan
+paradigm terpadu dimana berbagai fitur penunjang pembelajaran dengan mudah dapat
+diakomodasi dalam suatu portal e-learning. Fitur-fitur penting penunjang pembelajaran
+tersebut misalnya: tugas, quiz, komunikasi, kolaborasi, serta fitur utama yang dapat
+meng-upload berbagai format materi pembelajaran.
+Dalam tulisan ini akan dibahas bagaimana cara membangun portal e-learning
+tanpa mengeluarkan beaya (kecuali beaya koneksi Internet) dan dengan bekal
+kemampuan TI yang minimal. Berikut ini berturut-turut akan dijelaskan bagaimana
+mendaftar webhosting secara gratis yang dapat dipakai untuk membuat portal elearning dengan Moodle, mengatur identitas portal, mengganti thema, membuat user
+baik satu persatu maupun melalui upload file, dan mengubah status user.
+B. Mendapatkan Webhosting
+Untuk dapat membangun suatu portal e-learning diperlukan tempat atau server
+di Internet dan nama domain atau alamat (URL). Server berfungsi sebagai tempat untuk
+menaruh file-file dan aplikasi e-learning sehingga dapat diakses melalui Internet
+dengan alamat tertentu (URL). Oleh karena itu kita harus mengusahakan dua hal
+tersebut, yakni webhosting dan nama domain. Ada banyak penyedia webhosting di
+Internet yang bisa kita peroleh baik secara gratis maupun membayar. Sedangkan nama
+domain yang akan menjadi alamat (URL) dapat juga kita sewa melalui penyedia
+
+11
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+tersebut. Namun biasanya bila kita mendaftar webhosting secara gratis, maka nama
+domain sudah diberikan dan kita tidak harus menyewa sendiri.
+Kita akan membangun portal e-learning dengan menggunakan salah satu
+perangkat Learning Management System (LMS) yang disebut dengan Moodle. Moodle
+merupakan LMS opensource yang banyak digunakan di dunia untuk membuat portal elearning terpadu. Oleh karena itu, ketika kita mencari webhosting terutama yang gratis
+sebaiknya kita memperhatikan apakah webhosting tersebut dapat dengan mudah
+diinstal Moodle.
+Salah satu contoh webhosting gratis khusus untuk Moodle adalah Keytoschool
+(http://www.keytoschool.com/). Beberapa fitur dari Keytoschool ini antara lain: portal
+bisa menampung 2500 Users, 2.5 GB of storage, 50 GB of bandwidth, FTP access,
+Moodle Themes, dan No Ads. Webhosting ini sangat cocok untuk pemula yang ingin
+mempunyai portal e-learning, karena setelah selesai mendaftar, kita langsung diberi
+website yang sudah diinstal Moodle. Dengan demikian kita tinggal menggunakannya
+saja. Selain webhosting khusus untuk Moodle tersebut, kita dapat juga mendaftar
+sembarang webhosting gratis. Yang penting ketika memilih webhosting tersebut, kita
+dapat dengan mudah menginstal Moodle, baik melalui fasilitas Fantastico yang ada di
+cPanel atau meng-upload file Moodle melalui FTP.
+Berikut adalah contoh mendaftar webhosting gratis di Keytoschool.
+1. Akseslah http://www.keytoschool.com
+
+12
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+2. Klik “Register Now” dan isilah formulir pendaftaran dengan lengkap, kemudian klik
+“Continue”.
+
+3. Pilihlah jenis domain yang sesuai, bila kita tidak mempunyai domain sendiri, maka
+pilihlah “Our sub-domain”. Kemudian klik “Moodle”
+
+13
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+4. Pilihlah domain yang disediakan dan isilah sub-domain yang kita inginkan. Subdomain dan domain ini nanti akan menjadi alamat (URL) portal e-learning kita. Pada
+contoh ini, alamat portal e-learning adalah http://jogja.moodlehub.com/.
+Selanjutnya klik “Moodle”
+
+5. Isilah identitas portal e-learning kita. Ini dapat kita isi ulang belakangan.
+
+14
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+6. Setelah muncul tampilan berikut, maka proses registrasi selesai, dan kita sudah
+mempunyai portal e-learning yang siap digunakan.
+
+7. Tampilan portal e-learning kita adalah sebagai berikut.
+
+15
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Berikut adalah contoh mendaftar webhosting gratis di http://www.co.cc/
+1. Akseslah http://www.co.cc/. Webhosting ini bukan webhosting khusus untuk
+Moodle, sehingga memerlukan proses yang panjang agar sampai terinstal Moodle.
+Tetapi keuntungan menggunakan webhosting ini adalah bahwa kita bisa membuat
+thema, module, serta blocks sendiri sesuai keinginan. Sementara bila menggunakan
+Keytoschool, hal itu tidak bisa dilakukan.
+
+2. Seterusnya isilah dan ikutilah petunjuk yang tertera di layar dan akhirnya setelah
+berhasil mendaftar, maka kita akan masuk ke cPanel seperti gambar di bawah. Dari
+cPanel inilah kita dapat menginstal Moodle. Caranya adalah dengan menggunakan
+fasilitas Fantastico yang ada dalam cPanel tersebut. Dengan fasilitas Fantastico ini
+kita tidak perlu meng-upload file Moodle yang ukurannya sangat besar dan tidak
+perlu membuat database sendiri. Secara otomatis tool tersebut akan membantu
+kita menginstal Moodle sehingga menjadi portal e-learning yang siap digunakan.
+
+16
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+3. Setelah selesai, maka website kita akan terinstal Moodle. Tampilan portal elearning kita adalah sebagai berikut.
+
+17
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+C. Mengubah Identitas
+Pada saat ini, kita berperan sebagai seorang administrator atau Admin. Sebagai
+Admin kita bisa melakukan apa saja terhadap portal e-learning yang sudah kita buat
+tersebut. Identitas portal e-learning dapat kita ubah sesuai dengan keperluan lembaga
+kita atau keinginan kita.
+1. Loginlah ke portal e-learning sebagai Admin
+
+2. Akses Front Page >> Front Page settings. Isilah identitas elearning anda.
+
+18
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+3. Anda dapat mengatur tampilan halaman depan baik tampilan ketika sebelum login
+maupun tampilan ketika sesudah login
+
+4. Tampilan sesudah pengaturan tersebut adalah sebagai berikut.
+
+19
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+D. Mengubah Thema
+Thema menentukan tampilan portal e-learning baik dalam aspek banner, warna,
+lay-out maupun icon-icon yang menyertai. Sebagai Admin kita dapat mengubah thema
+tersebut dengan cara memilih dari berbagai pilihan yang tersedia atau bahkan
+membuat thema sendiri.
+1. Ubah theme dengan cara: Appearance >> Themes >> Theme Selector. Pilihlah salah
+satu theme yang anda inginkan
+
+2. Misalnya anda memilih thema: Formal_White
+
+20
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+3. Tampilan halaman depan dengan thema Formal White adalah sebagai berikut
+
+E. Membuat Kategori
+Course-course yang akan dibuat dalam portal e-learning dapat dikelompokkan
+bedasarkan kategori atau bahkan sub-kategori. Pembuatan kategori dapat disesuikan
+dengan kebutuhan lembaga kita. Kategori bisa merupakan fakultas, jurusan, atau
+program studi. Secara default, Moodle sudah mempunyai kategori yang bernama
+Miscellaneous.
+1. Buat kategori melalui: Courses >> Add/edit courses
+
+21
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+2. Klik tombol “Add new category” dan tuliskan Category name sesuai kebutuhan kita.
+Dalam contoh ini misalnya kita membuat kategori “Jurusan Elektronika”
+
+3. Ulangi membuat kategori sesuai kebutuhan. Setelah membuat tiga kategori,
+tampilannya adalah sebagai berikut.
+
+4. Kategori Miscellaneous dapat disembunyikan dengan cara meng-klik icon “mata”
+disamping kategori Miscellaneous tersebut. Tampilan halaman depan portal elearning kita sekarang menjadi sebagai berikut.
+
+22
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+F. Membuat User
+Sebagai Admin kita dapat membuat user baru sesuai kebutuhan. Kita dapat
+membuat user baru satu per satu atau membuat user baru sekaligus dalam jumlah
+banyak yakni dengan cara upload file.
+1. Untuk membuat user baru (satu per satu) adalah: Users >> Accounts >> Add a new
+user. Isilah formulir dengan lengkap.
+
+23
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+2. Untuk membuat user baru dengan upload file adalah: Users >> Accounts >> Upload
+users
+
+3. Anda harus mempersiapkan sebuah file teks yang dibuat dengan Notepad dengan
+format seperti pada contoh berikut.
+
+4. Browse dan pilih file tersebut untuk diupload. Berikut adalah preview user baru
+yang akan dibuat.
+
+24
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+5. Bila penulisan file teks benar, maka upload user akan berhasil sebagai berikut.
+
+G. Mengangkat Status User
+Sebagai seorang Admin kita dapat mengangkat status seorang user menjadi ke
+tingkat yang lebih tinggi. Tingkatan user dari yang paling tinggi adalah: Administrator,
+
+25
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Course creator, Teacher, Non-editing teacher, User. Kita akan mengangkat sesorang
+user menjadi Course creator.
+1. Klik Users >> Permissions >> Assign system roles
+
+2. Klik Course creator
+
+3. Pilihlah salah satu user yang akan anda angkat sebagai Course creator,
+kemudian klik Add. Dengan demikian user tersebut sekarang statusnya sudah
+menjadi course creator
+
+26
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+4. Logoutlah dari portal e-learning. Untuk saat ini tugas seorang Admin sudah
+selesai.
+
+5. Selanjutnya, anda dapat login ke portal e-learning sebagai seorang course
+creator. Buatlah sebuah course baru.
+
+27
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+BAB III
+Pengembangan Course E-learning berbasis Moodle (Part I)
+Oleh: Herman Dwi Surjono, Ph.D.
+http://blog.uny.ac.id/hermansurjono
+A. Pendahuluan
+Portal elearning kini banyak dikembangkan dengan menggunakan LMS
+(Learning Management System). Moodle merupakan salah satu LMS open source yang
+sangat populer. Moodle dapat dengan mudah dipakai untuk mengembangkan portal
+sistem e-learning. Dengan Moodle, portal e-learning dapat dimodifikasi sesuai
+kebutuhan. Contoh portal elearning yang dikembangkan dengan LMS Moodle adalah
+http://besmart.uny.ac.id, http://elearning-jogja.org atau http://elearning-diy.org.
+Petunjuk pengembangan course dalam portal e-learning http://elearningjogja.org akan dijelaskan dalam tulisan ini. Dalam tulisan ini akan dijelaskan berturutturut: pendaftaran sebagai pengguna baru, mengubah profil pribadi, mengubah setting
+course, memasukkan materi pembelajaran, membuat tugas, membuat quiz, membuat
+forum dan chat. Oleh karena sifatnya yang praktis, maka langkah-langkah
+pengembangan ini sebaiknya diikuti dengan praktek langsung di depan komputer.
+B. Pendaftaran Sebagai Pengguna
+Setiap orang yang akan menggunakan sistem e-learning perlu mendaftarkan diri
+sebagai pengguna (admin dapat juga mendaftarkan seseorang untuk menjadi user
+secara manual). Untuk mendaftarkan diri sebagai pengguna baru, dari halaman depan
+http://elearning-jogja.org klik link “Login” di sebelah kanan atas.
+
+28
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Setelah muncul halaman baru, klik tombol “Create new account” yang terletak
+di kanan bawah. maka akan muncul tampilan blangko sebagai berikut. Cara yang lebih
+cepat adalah langsung meng-klik tombol “Create new account” yang terletak di
+halaman depan elearning-jogja.
+
+Isilah blangko tersebut dengan lengkap. Jangan lupa untuk mengingat
+username dan password anda, karena dua hal ini diperlukan saat anda melakukan
+login. Setelah blangko pendaftaran diisi dengan lengkap, selanjutnya klik-lah tombol
+“Create my new account”. Bila terjadi kesalahan, periksa kembali blangko tersebut.
+Kemungkinan kesalahan adalah username yang anda pilih sudah pernah dipakai orang
+lain. Selanjutnya akan muncul tampilan sebagai berikut.
+
+29
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Pada saat ini sebuah e-mail dikirim secara otomatis oleh sistem kepada calon
+pengguna. Calon pengguna perlu melakukan konfirmasi dengan cara meng-klik suatu
+link yang ada dalam e-mail tersebut. Setelah itu, sistem e-learning akan menampilkan
+halaman yang menunjukkan bahwa pengguna telah terdaftar.
+
+C. Mengubah Profil Pribadi
+Setelah anda melakukan konfirmasi melalui email, maka account (username dan
+password) anda sudah dapat digunakan. Loginlah ke sistem elearning. Bila berhasil,
+maka di sebelah kanan atas akan ditampilkan nama anda. Untuk memulai mengubah
+profil, klik-lah nama anda tersebut.
+
+Selanjutnya akan muncul tampilan layar personal profile. Klik-lah tab “Edit
+profile”, sehingga tampilan menjadi sebagai berikut.
+
+30
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Dalam tampilan tersebut, anda dapat mengubah berbagai informasi pribadi
+anda, misalnya: nama, alamat email, kota, gambar pribadi, atau informasi lainnya. Perlu
+diperhatikan bahwa bila anda ingin mengupload gambar (foto) anda, maka gunakan
+ukuran file yang kecil saja, yakni kurang dari 10 KB.
+D. Mengubah setting course
+Setelah terdaftar sebagai pengguna biasa, seseorang dapat diangkat statusnya
+menjadi ”teacher” oleh admin. Dalam sistem elearning-jogja ini, anda harus mengirim
+email ke admin untuk menjadi “teacher” dan mendapatkan course baru. Setelah
+seorang pengguna dibuatkan suatu course baru dan dia di-assign sebagai ”teacher”nya, maka setelah login dia dapat mengedit dan mengatur course-nya sesuai keinginan.
+Halaman depan sebuah course yang belum diedit adalah sebagai berikut.
+
+Pada gambar tersebut terlihat halaman depan suatu course yang baru dibuat
+dan belum pernah diedit. Anda dapat melakukan pengaturan atau setting terhadap
+course tersebut, misalnya: mengubah judul course, mengubah deskripsi, memilih
+format, menentukan tanggal mulai, memberi kunci, dll. Untuk mengatur setting
+halaman course, klik-lah link ”Settings” dalam menu Administration, sehingga muncul
+windows untuk pengaturan sebagai berikut.
+
+31
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+32
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Field-field yang diberi tanda panah di atas perlu mendapat perhatian untuk
+dimodifikasi, sedangkan field lainnya yang sudah tersisi secara default untuk sementara
+tidak begitu penting untuk dimodifikasi. Setelah selesai mengubah berbagai setting
+yang anda perlukan, klik-lah tombol “Save changes” pada bagian bawah layar.
+E. Memasukkan materi pembelajaran
+Sebuah course yang baru saja dibuat tentu saja masih kosong, sehingga perlu
+diedit. Untuk memulai mengedit course (memasukkan materi dan kegiatan
+pembelajaran), klik-lah tombol ”Turn editing on”, sehingga tampilan suatu course
+menjadi sebagai berikut. Bila tombol tersebut sudah berupa “Turn editing off” berarti
+halaman siap diedit. Tombol tersebut bersifat “toggle”.
+
+Untuk memasukkan materi pembelajaran pada minggu tertentu (bila
+menggunakan format mingguan), gunakan menu ”Add a resource...” pada minggu
+tersebut. Bila menu “Add a resource…” diklik, maka akan muncul tampilan berikut.
+
+33
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Materi yang bisa dimasukkan antara lain:
+•
+
+Halaman teks (Compose a text pape)
+
+•
+
+Halaman web (Compose a web page)
+
+•
+
+Link ke file atau situs web
+
+•
+
+Direktori (Display a directory)
+
+•
+
+Label (Insert a label)
+
+•
+
+Paket IMS (Add an IMS Content Package)
+
+Halaman teks (Compose a text pape)
+Melalui menu “halaman teks”, materi pembelajaran dapat diketikkan secara
+langsung dalam teks editor yang disediakan. Materi hanya berupa teks datar tanpa
+gambar maupun link. Materi dapat disajikan dalam halaman yang sama maupun dalam
+halaman pop-up.
+
+Halaman web (Compose a web page)
+Melalui menu ”halaman web”, materi pembelajaran dapat diketikkan secara
+langsung dalam teks editor dengan fasilitas format penuh misalnya font, warna,
+gambar, tabel, link, dll. seperti halnya dalam ”MS Word”. Materi juga dapat disajikan
+dalam halaman yang sama maupun dalam halaman pop-up. Memasukkan dokumen
+
+34
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+dalam halaman web ini bisa melalui fasilitas copy-paste.
+
+Link ke file atau situs web (Link to a file or web site)
+Apabila pengajar sudah mempunyai file materi pembelajaran (doc, ppt, pdf, xls,
+dll), maka proses pemasukkan materi akan lebih cepat yaitu dengan menggunakan
+menu “Link ke file atau situs web”. Dengan demikian file-file tersebut dapat langsung
+di-upload ke server. Materi dapat juga berasal dari situs web tertentu. Setting yang
+
+35
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+harus dilakukan adalah seperti gambar berikut.
+
+Judul materi pembelajaran harus dituliskan, sedangkan ringkasannya bersifat opsional.
+Untuk memilih file yang akan dimasukkan, klik tombol ”Choose or upload a file...”,
+sehingga akan muncul tampilan berikut.
+
+Pilih file yang sudah tersedia atau bila file belum ada (masih ada di komputer) klik-lah
+“Upload a file”. Bila yang diklik “Upload a file”, maka akan muncul tampilan sebagai
+berikut.
+
+36
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Carilah file yang akan di-upload dengan menekan tombol “Browse”, kemudian setelah
+filenya dipilih, tekan tombol ”Upload this file”. Dengan demikian file akan ter-upload ke
+server dan siap dimasukkan ke halaman course.
+Direktori (Display a directory)
+Apabila pengajar ingin memberikan banyak file ke pengguna, maka akan lebih praktis
+bila file-file tersebut dimasukkan ke suatu direktori yang bisa diakses. File-file tersebut
+perlu di-upload terlebih dahulu ke server.
+
+37
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Label (Insert a label)
+Label digunakan untuk menuliskan teks tambahan dalam halaman course, misalnya
+untuk penjelasan suatu topik, pendahuluan suatu materi, dll. Label dapat berupa teks
+berformat, gambar, link, tabel, dll.
+
+F. Penutup
+Pada bagian pertama ini telah dibahas bagaimana cara mendaftar sebagai
+pengguna baru pada portal elearning-jogja, mengubah profil pribadi, mengubah setting
+course, dan memasukkan materi pembelajaran melalui menu “Add a resource…”.
+Selanjutnya pada bagian kedua, akan dibahas tentang menu “Add an activity…”.
+Diantaranya adalah Quiz, Tugas (Assignment), Forum, dan Chat.
+
+38
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+BAB IV
+Pengembangan Course E-learning berbasis Moodle (Part II)
+Oleh: Herman Dwi Surjono, Ph.D.
+http://blog.uny.ac.id/hermansurjono
+A. Pendahuluan
+Petunjuk ini merupakan lanjutan dari bagian 1. Pada bagian 1 telah dijelaskan
+bagaimana memulai mendaftar sebagai pengguna di portal elearning-jogja, mengubah
+profil pribadi, mengubah setting course dan memasukkan materi pembelajaran. Dalam
+bagian 2 ini akan dijelaskan cara membuat Quiz, tugas (assignment), forum diskusi dan
+chat.
+B. Membuat Quiz
+Pengajar dapat menguji kemampuan siswa dengan membuat Quiz. Macammacam soal Quiz yang bisa dibuat melalui Moodle antara lain: pilihan berganda, benarsalah, isian, essay, menjodohkan, dll. Pembuatan suatu Quiz dimulai dengan membuat
+wadahnya terlebih dahulu kemudian dilanjutkan dengan membuat soal-soalnya.
+Klik menu “Add an activity…” pada minggu tertentu dimana kita akan
+memasukkan quiz dan pilihlah Quiz.
+
+Maka akan muncul halaman untuk setting Quiz sebagai berikut.
+
+39
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Selain judul quiz dan penjelasannya, ada beberapa field yang perlu diisi, yakni
+antara lain:
+•
+
+Open the quiz: Tanggal dan jam dimana quiz mulai tersedia.
+
+•
+
+Close the quiz: Tanggal dan jam dimana quiz sudah ditutup (selesai).
+
+•
+
+Time limit: Lamanya waktu penyelesaian quiz.
+
+•
+
+Time delay between first and second attempt: Jarak waktu yang diperbolehkan
+mengulagi Quiz untuk yang kedua kalinya.
+
+•
+
+Time delay between later attempts: Jarak waktu yang diperbolehkan mengulagi
+Quiz selanjutnya.
+
+•
+
+Question per page: Jumlah soal/pertanyaan pada setiap halaman.
+
+•
+
+Shuffle questions: Pertanyaan dapat disajikan secara acak setiap kali quiz diakses.
+
+•
+
+Shuffle answers: Jawaban (untuk soal pilihan berganda dan menjodohkan) dapat
+diacak setiap kali suatu soal diakses.
+
+•
+
+Attempts allowed: Jumlah maksimum pengguna boleh mencoba mengulangi quiz.
+
+•
+
+Each attempt builds on the last: Pilihan Yes berarti setiap menjawab soal ulangan
+akan dipengaruhi hasil jawaban sebelumnya.
+
+40
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+•
+
+Adaptive mode: Untuk pilihan Yes, bila jawaban salah, siswa diperbolehkan
+menjawab suatu soal berkali-kali hingga betul, akan tetapi akan ada penalti setiap
+kali jawaban salah.
+
+•
+
+Grading method: Untuk soal yang boleh diulang, cara menentukan nilai akhir dapat
+dipilih misalnya: nilai tertinggi, rerata, pertama, atau terakhir.
+
+•
+
+Apply penalties: Pilihan ini berkaitan dengan Adaptive mode yang dipilih Yes.
+
+•
+
+Decimal digits in grade: Banyaknya angka dibelakang koma dari suatu nilai.
+
+•
+
+Student may review: Pilihan ini akan mengatur kapan siswa dapat mengetahui
+respon, skor, umpan balik, jawaban yang benar, dll.
+
+•
+
+Show quiz in a "secure" window: Soal akan ditampilkan dalam windows khusus
+guna mengurai kemungkinan siswa berbuat curang.
+
+•
+
+Require password: Password dapat diberikan pada Quiz.
+
+•
+
+Require network address: IP address yang boleh mengakses Quiz bisa dimasukkan.
+
+Setelah selesai melakukan pengisian dan menekan tombol “Save changes”, maka akan
+muncul halaman editing QUIZ sebagai berikut.
+
+Dari halaman editing QUIZ tersebut terlihat bahwa belum ada soal-soal yang
+dimasukkan dalam QUIZ (karena memang belum dibuat). Oleh karena itu, selanjutnya
+adalah melakukan pembuatan soal-soal baru. Pilihlah jenis soal yang akan dibuat
+dengan memilih menu “Create new question”.
+
+41
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Contoh setting untuk soal jenis pilihan berganda adalah sbb.
+
+42
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Contoh setting untuk jenis soal benar/salah adalah sbb.
+
+Contoh setting untuk jenis soal isian adalah sbb.
+
+43
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Setelah membuat tiga buah soal dengan jenis yang berbeda, maka halaman
+editing QUIZ menjadi sbb.
+
+belum
+ada soal
+
+Selanjutnya adalah menambahkan (memasukkan) soal-soal tersebut kedalam
+QUIZ yang nanti akan diakses oleh user. Caranya adalah: pilihlah (klik) soal-soal yang
+akan ditambahkan, kemudian tekan tombol “<<Add to quiz”. Maka halaman editing
+QUIZ menjadi sbb.
+
+sudah
+ada soal
+
+44
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Untuk melihat tampilan QUIZ yang baru saja dibuat, tekanlah tab “Preview”
+(lihat gambar di bawah).
+
+Untuk kembali mengedit (meng-update atau menambah soal-soal baru),
+tekanlah tab “Edit”, sehingga halaman editing QUIZ akan muncul.
+
+C. Membuat dan mengelola tugas-tugas
+Penilaian jawaban pada Quiz dilakukan secara otomatis oleh sistem. Untuk
+pertanyaan-pertanyaan yang sangat terbuka dimana tidak mungkin dinilai oleh sistem,
+maka pengajar harus menilai jawaban secara manual. Untuk itu diperlukan aktivitas
+yang disebut dengan Tugas (assignment).
+Klik-lah menu “Add an activity…” pada minggu tertentu dimana kita akan
+memasukkan Tugas dan pilihlah Assigment.
+
+45
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Selanjutnya akan muncul halaman untuk setting Assigment sbb.
+
+Beberapa field dari halaman setting assignment yang bisa diatur antara lain:
+Assignment name: judul tugas/pertanyaan
+Description: uraian tugas/pertanyaan
+Grade: nilai
+Available from: tanggal dan jam kapan tugas mulai dapat dikerjakan/dikumpulkan
+
+46
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Due date: tanggal dan jam batas akhir pengiriman tugas
+Prevent late submissions: bila terlambat masih boleh mengirim atau tidak
+Assigment type: jenis tugas
+Group mode: kelompok atau tanpa kelompok
+Visible: kelihatan atau tersembunyi
+Dalam Moodle versi terbaru (1.7), jenis-jenis tugas adalah:
+•
+
+Upload a single file: siswa harus mengirimkan sebuah file (hasil pekerjaan)
+melalui sistem ini.
+
+•
+
+Advanced uploading of files: siswa bisa mengirimkan beberapa file hasil
+pekerjaan.
+
+•
+
+Offline activity: untuk pekerjaan yang tidak mungkin berupa file, hasilnya bisa
+diserahkan ke pengajar secara konvensional tetapi pemberian nilai tetap lewat
+sistem ini.
+
+•
+
+Online teks: tugas jenis ini mengharuskan siswa langsung menuliskan teks
+dalam sistem ini.
+
+Setelah tombol “Next” ditekan, maka tampilan berikutnya adalah tergantung
+dari ”Assigment type” yang telah dipilih pada halaman sebelumnya.
+
+1. Bila jenis tugas yang dipilih adalah “Upload a single file”, maka akan muncul
+tampilan berikut.
+
+47
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Penjelasannya adalah:
+Maximum size: ukuran file maksimum yang diijinkan untuk dikirim
+Allow resubmitting: apakah siswa boleh mengirim ulang
+Email alerts to teachers: Bila dipilih “Yes”, maka dosennya akan diberitahu dengan email saat tugas dikirim
+Setelah tombol “Continue” ditekan, maka preview tugas akan ditampilkan. Bila perlu,
+tugas dapat diedit.
+2. Bila jenis tugas yang dipilih adalah “Advanced uploading of files”, maka akan
+muncul tampilan berikut.
+
+Penjelasannya adalah:
+Maximum size: ukuran file maksimum yang diijinkan untuk dikirim
+Allow deleting: Bila dipilih “Yes”, maka siswa boleh menghapus file yang sudah dikirim
+Maximum number of uploaded files: jumlah file maksimum yang bisa dikirim
+Allow notes: Bila dipilih “Yes”, maka siswa bisa menambahkan catatan untuk menyertai
+tugas yang dikirim
+Hide description before available date: Bila dipilih “Yes”, maka uraian tugas/
+pertanyaan akan disembunyikan sebelum waktunya
+Email alerts to teachers: Bila dipilih “Yes”, maka dosennya akan diberitahu dengan email saat tugas dikirim
+Setelah tombol “Continue” ditekan, maka preview tugas akan ditampilkan. Bila perlu,
+tugas dapat diedit.
+
+48
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+3. Bila jenis tugas yang dipilih adalah “Offline activity”, maka akan muncul tampilan
+berikut.
+
+Tampilan ini tidak memerlukan setting lagi, karena tugas jenis ini pengirimannya
+langsung ke dosen secara tatap muka, sedangkan pemberian nilai masih tetap lewat
+sistem.
+Setelah tombol “Continue” ditekan, maka preview tugas akan ditampilkan. Bila perlu,
+tugas dapat diedit.
+4. Bila jenis tugas yang dipilih adalah “Online text”, maka akan muncul tampilan
+berikut.
+
+Penjelasannya adalah:
+Allow resubmitting: Bila dipilih “Yes”, maka siswa boleh mengirim ulang
+Email alerts to teachers: Bila dipilih “Yes”, maka dosennya akan diberitahu dengan email saat tugas dikirim
+Comment inline: Bila dipilih “Yes”, maka jawaban akan dicopy ke kolom feedback,
+sehingga memudahkan dosen memberi komentar baris per baris.
+Setelah tombol “Continue” ditekan, maka preview tugas akan ditampilkan. Bila perlu,
+
+49
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+tugas dapat diedit.
+Selanjutnya, hasil pekerjaan yang dikirim oleh siswa melalui sistem e-learning ini
+dengan mudah dapat dikelola oleh pengajar. Setiap file yang masuk akan diketahui
+pengirimnya dan waktunya, selanjutnya pengajar dapat memeriksa tugas, memberi
+komentar dan nilai. Setelah itu siswa akan segera mengetahui bahwa tugasnya telah
+dikoreksi pengajar.
+Contoh halaman pengiriman tugas-tugas dari siswa adalah sbb.
+
+Contoh halaman untuk menilai tugas siswa.
+
+50
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+D. Membuat forum diskusi
+Forum diskusi merupakan sarana komunikasi bagi pengajar dan siswa. Untuk
+membuat forum, klik menu ”Add an activity...” dan pilih Forum. Setting untuk forum
+adalah sbb.
+
+51
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+E. Memasukkan Chat
+Chat merupakan sarana komunikasi yang bersifat synchronous bagi pengajar
+dan siswa. Untuk membuat Chat, klik menu ”Add an activity...” dan pilih Chat. Setting
+untuk chat adalah sbb.
+
+F. Penutup
+Langkah-langkah yang telah dibahas di atas merupakan implementasi modulmodul pokok dari Moodle. Dengan implementasi tersebut akan diperoleh sistem elearning yang lengkap. Akan tetapi, masih banyak modul-modul lain yang perlu digali
+dan diimplementasikan secara kreatif. Para pengajar hendaknya merujuk langsung ke
+website Moodle dan sumber-sumber lainnya agar dapat memanfaatkan Moodle secara
+optimal.
+
+52
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+BAB V
+Instalasi Moodle di Laptop/PC (Windows)
+Oleh: Herman Dwi Surjono, Ph.D.
+http://blog.uny.ac.id/hermansurjono
+
+A. Pendahuluan
+Banyak portal e-learning yang dikembangkan dengan LMS Moodle. Salah satu
+contoh adalah Besmart (http://besmart.uny.ac.id) yakni portal elearning Universitas
+Negeri Yogyakarta. Besmart dikembangkan dengan paradigma elearning terpadu
+menggunakan LMS Moodle. Agar kita dapat bekerja secara offline (dalam keadaan
+tidak terhubung ke Internet), maka kita perlu menginstal Moodle di Laptop atau PC.
+Dengan demikian, pada saat sedang online kita dapat mengedit halaman mata kuliah
+langsung ke Internet dan ketika sedang tidak online kita dapat melanjutkan pekerjaan
+tersebut di Laptop/PC.
+Tahapan dalam menginstal Moodle di Laptop/PC dengan menggunakan Moodle
+Windows Installer adalah (1) meng-ekstrak file MoodleWindowsInstaller-latest-19.zip,
+(2) menginstal Moodle, (3) mengkonfigurasi portal elearning. Tulisan ini akan
+menjelaskan secara praktis langkah-langkah tersebut sehingga bisa dikerjakan dengan
+mudah.
+B. Ekstraksi MoodleWindowsInstaller
+MoodleWindowsInstaller adalah satu paket lengkap yang berisi file-file Moodle
+dan semua software yang diperlukan untuk menjalankannya di sistem operasi
+Windows, yakni Apache, MySQL and PHP. Paket tersebut dibangun dengan XAMPP
+versi 1.7.1. Apache adalah web server yang memungkinkan kita mengeksplor komputer
+menggunakan web browser seperti IE atau Firefox. MySQL adalah database manager
+yang berguna untuk mengelola data. PHP adalah bahasa script yang dapat
+memanipulasi informasi dalam database. Ketiga program tersebut harus ada di dalam
+komputer kita agar Moodle dapat beroperasi.
+MoodleWindowsInstaller dapat di-download langsung dari website resmi
+Moodle http://download.moodle.org/windows/. Saat ini Moodle terbaru adalah versi
+1.9.9. File tersebut adalah MoodleWindowsInstaller-latest-19.zip dengan ukuran
+67,317 MB.
+Langkah-langkah berikut adalah untuk meng-ekstrak file
+MoodleWindowsInstaller-latest-19.zip.
+
+53
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+1. Jalankan (double klik) file MoodleWindowsInstaller-latest-19.zip tersebut.
+
+2. Ekstrak file-file tersebut dengan menekan tombol Extract. Tempatkan hasil ekstraksi
+ke dalam folder C:\moodle (Folder Moodle tersebut perlu dibuat terlebih dahulu)
+
+3. Setelah proses ekstraksi selesai, maka perhatikan struktur file yang ada di folder
+C:\moodle
+
+54
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+C. Instalasi Moodle
+Setelah file-file Moodle diekstrak dan diletakkan di folder C:\moodle, maka
+langkah selanjutnya adalah melakukan instalasi Moodle.
+Langkah-langkah berikut adalah untuk menginstal Moodle.
+1. Sebelum menginstal Moodle, terlebih dahulu jalankan (double click) file Start
+Moodle.exe
+Bila muncul tampilan berikut, klik tombol Run
+
+55
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+Bila muncul tampilan berikut, tunggulah beberapa saat hingga hilang.
+
+2. Selanjutnya bukalah browser internet “Mozilla Firefox”. Akseslah http://localhost/.
+Tampilannya adalah sbb.
+
+56
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+3. Kliklah Next berturut-turut dari tampilan berikut. Isian tidak perlu diubah atau
+ditambah.
+
+57
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+58
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+4. Selanjutnya muncul tampilan berikut, dan pilihlah “Yes” untuk menyetujui dan
+memahami pernyataan Hak Cipta.
+
+5. Pada tampilan berikut centanglah “Unattended operation”, sehingga proses
+selanjutnya akan berjalan lebih cepat. Selanjutnya, kliklah tombol Continue
+
+59
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+6. Seterusnya proses instalasi akan berjalan (kurang lebih 5 s/d 10 menit), hingga
+muncul tampilan berikut. Isilah data untuk admin (password jangan sampai lupa)
+dengan lengkap.
+
+60
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+7. Selanjutnya isilah informasi halaman depan dari portal elearning kita.
+
+61
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+8. Setelah selesai, maka tampilan portal elearning adalah sbb. Pada saat ini kita sudah
+dalam keadaan login sebagai Admin.
+
+D. Konfigurasi Portal Elearning
+a. Mengubah Theme
+Tampilan portal elearning yang baru saja dibuat dapat diubah melalui pilihan
+theme yang tersedia atau dengan cara mencari file theme di Google atau di situs
+Moodle sesuai dengan selera. File theme yang biasanya dalam format ZIP harus
+diekstrak ke dalam folder C:\moodle\server\moodle\theme
+Langkah-langkah berikut adalah untuk meng-kustomisasi dari tampilan Moodle
+standard menjadi tampilan Besmart.
+1. Dapatkan file theme yang diinginkan.
+2. Ekstraklah file theme tersebut ke dalam C:\moodle\server\moodle\theme
+
+62
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+3. Buka portal elearning dan login sebagai Admin. Selanjutnya klik menu Admin:
+Appearance>Themes>Theme Selector. Kemudian pilihlah theme yang diinginkan.
+
+4. Setelah itu, maka tampilan halaman depan portal elearning kita menjadi sbb.
+
+b. Membuat Kategori
+Kategori adalah pengelompokan courses (mata kuliah) berdasarkan kriteria
+tertentu, misalnya Fakultas, Jurusan, Tahun, Kelas, dll, sehingga memudahkan
+pengguna dalam mencari suatu course. Dalam Moodle, seorang admin dapat memilih
+apakah kategori akan dimunculkan di halaman depan baik ketika pengguna sudah login
+atau belum login.
+Langkah-langkah berikut adalah untuk membuat dan menampilkan kategori
+
+63
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+1. Untuk menentukan pilihan apakah kategori akan dimunculkan, dari menu admin,
+kliklah
+Front Page>Front Page settings, sehingga muncul tampilan berikut.
+
+2. Perhatikan pilihan berikut
+
+3. Selanjutnya adalah membuat kategori. Klik Courses>Add/edit courses, tekan Add
+new category
+
+64
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+4. Tulislah nama kategori, misalnya: Fakultas Teknik. Kemudian, tekan create
+category.
+
+5. Selanjutnya membuat sub-kategori. Kliklah Add a sub-category.
+
+65
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+6. Tulislah nama sub-kategori, misalnya: Pend Tek Elektronika. Kemudian, tekan
+create category.
+
+7. Lanjutkanlah membuat kategori dan sub-kategori sesuai kebutuhan.
+
+66
+Copyright © 2010 by Herman Dwi Surjono/hermansurjono@uny.ac.id
+
+8. Sesuai seting yang dipilih di atas, ketika pengguna dalam keadaan login, maka
+daftar kategori tidak ditampilkan. Untuk melihat tampilan kategori dan subkategori, kita harus logout.
+
+

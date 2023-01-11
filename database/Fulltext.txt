@@ -1,0 +1,504 @@
+Vol. 4 N0.1 Juni 2012
+
+JURNAL MEDIASI
+
+ANALISIS PENGARUH KARAKTERISTIK PERUSAHAAN TERHADAP
+KELENGKAPAN PENGUNGKAPAN DALAM LAPORAN TAHUNAN
+PERUSAHAAN MANUFAKTUR YANG TERDAFTAR DI BURSA EFEK
+INDONESIA
+Hermansyah Sembiring
+(Universitas Negeri Medan)
+Abstrak
+Permasalahan dalam penelitian ini adalah apakah karakteristik perusahaan
+yang meliputi rasio leverage, rasio likuiditas, net profit margin, ukuran perusahaan,
+status perusahaan, umur perusahaan, porsi saham publik secara simultan
+berpengaruh terhadap kelengkapan pengungkapan dalam Laporan Tahunan pada
+perusahaan manufaktur yang terdaftar di Bursa Efek Indonesia, dengan tujuan untuk
+mengetahui apakah ada pengaruh secara simultan karakteristik perusahaan terhadap
+Kelengkapan Pengungkapan dalam Laporan Tahunan perusahaan manufaktur yang
+terdaftar di Bursa Efek Indonesia.
+Populasi dalam penelitian ini adalah perusahaan manufaktur yang terdaftar di
+Bursa Efek Indonesia sejak tahun 2007-2010 sejumlah 130 perusahaan. Pemilihan
+sampel dilakukan dengan metode purposive sampling, yang menjadikan sampel
+sebanyak 52 perusahaan untuk data tahun 2007-2010. Sumber data dalam penelitian
+adalah data sekunder yang diperoleh dari situs www.idx.co.id. Pengolahan data
+dilakukan dengan cara pooling data. Metode analisis data yang digunakan adalah
+analisis regresi berganda dengan bantuan SPSS 19.0.
+Hasil penelitian ini menunjukkan bahwa secara simultan (Uji F) karakteristik
+perusahaan yang meliputi rasio leverage, rasio likuiditas, net profit margin, ukuran
+perusahaan, status perusahaan, umur perusahaan, porsi saham publik tidak
+berpengaruh terhadap kelengkapan pengungkapan. Hal ini dapat dilihat dari (Fhitung) 1,617< F-Tabel (2,056) dengan tingkat signifikansi 0.132 lebih besar dari
+0.05.
+Kesimpulan dari penelitian ini adalah tidak ada pengaruh karakteristik
+perusahaan secara simultan terhadap kelengkapan pengungkapan dalam laporan
+tahunan perusahaan manufaktur yang terdaftar di Bursa Efek Indonesia.
+Kata Kunci : Kelengkapan Pengungkapan, Leverage, Likuiditas, Net Profit Margin,
+Ukuran Perusahaan, Status Perusahaan, Umur perusahaan dan Porsi Saham Publik
+1. PENDAHULUAN
+1.1 Latar Belakang Masalah
+Perusahaan manufaktur merupakan salah satu kelompok industri yang
+terdaftar di Bursa Efek Indonesia. Kondisi ekonomi sekarang yang telah berubah
+68 | F E - U N I M E D
+
+Vol. 4 No. 1 Juni 2012
+
+JURNAL MEDIASI
+
+memberi banyak pengaruh pada dunia usaha antaranya para investor lebih berhatihati dalam menanamkan modal di perusahaan go public. Kondisi perekonomian
+yang tidak stabil menyebabkan para investor menilai investasi dalam pasar modal
+memiliki risiko yang tinggi dan ini memberi dampak terhadap perusahaan
+manufaktur yang mempunyai jumlah emiten yang terbesar terdaftar di BEI. Maka,
+dengan adanya pengungkapan informasi yang disajikan oleh perusahaan, diharapkan
+dapat mengurangi tingkat risiko dan ketidakpastian yang dihadapi oleh investor.
+Untuk itu, perusahaan diharapkan untuk dapat lebih transparan dalam
+mengungkapkan informasi perusahaannya, sehingga dapat lebih membantu para
+pengambil keputusan dalam mengantisipasi kondisi yang semakin berubah.
+Laporan perusahaan adalah informasi yang menghubungkan antara
+perusahaan yang go public di bursa efek dengan para investor. Laporan tersebut
+dapat berupa laporan keuangan saja maupun laporan tahunan. Laporan keuangan
+terdiri dari neraca, laporan laba rugi, laporan arus kas, laporan perubahan ekuitas dan
+catatan atas laporan keuangan yang merupakan bagian integral laporan keuangan.
+Laporan tahunan berisi kondisi keuangan perusahaan dan informasi-informasi lain
+yang akan dikomunikasikan kepada pemegang saham, kreditur, shareholder, calon
+shareholder, dan pihak lainnya yang akan dijadikan dasar dalam pengambilan
+keputusan.
+Suatu keputusan investasi sangat dipengaruhi oleh kualitas pengungkapan
+laporan tahunan yang dikeluarkan oleh perusahaan. Informasi-informasi apa saja
+yang terkandung di dalam sebuah laporan tahunan masih menjadi perdebatan di
+kalangan ahli dimana setiap pihak mempunyai kepentingan dan kebutuhan yang
+berbeda-beda terhadap laporan tahunan. Suatu pengungkapan yang cukup (adequate
+disclosure) diperlukan agar informasi yang disajikan di dalam laporan tahunan dapat
+dipahami dan tidak menimbulkan salah interprestasi.
+Pengungkapan
+(disclosure) dalam laporan tahunan dapat dikelompokkan menjadi dua, yaitu
+pengungkapan wajib (mandatory disclosure) dan pengungkapan sukarela (voluntary
+disclosure). Pengungkapan wajib adalah pengungkapan minimum yang disyaratkan
+oleh standar akuntansi yang berlaku (Keputusan ketua BAPEPAM No. SE02/PM/2002) sedangkan pengungkapan sukarela adalah pengungkapan yang
+melebihi dari yang diwajibkan.
+Pengungkapan laporan tahunan perusahaan di Negara berkembang secara
+umum kurang ekstensif dan kurang kredibel dibandingkan dengan pelaporan
+perusahaan di negara-negara maju. Walaupun pemerintah telah mengeluarkan
+peraturan tentang pengungkapan informasi yang harus dilakukan oleh perusahaan
+“go public”, namun masih terdapat perusahaan-perusahaan yang tidak memenuhi
+ketentuan penyajian seperti yang diharuskan. Hal ini terbukti dimana Indeks
+kelengkapan pengungkapan laporan tahunan perusahaan manufaktur masih sekitar
+0,81 (Nina, 2010). Kondisi ini menunjukkan bahwa kelengkapan pengungkapan
+laporan tahunan perusahaan para emiten belum maksimal kepada para investor. Hal
+69 | FE – UNIMED
+
+Vol. 4 No. 1 Juni 2012
+
+JURNAL MEDIASI
+
+ini mungkin saja terjadi karena masih banyak perusahaan yang tidak menyadari
+manfaat yang dapat diperoleh dari pengungkapan informasi.
+Berdasarkan hal tersebut penelitian ini ingin menguji dan mengetahui apakah
+informasi yang diungkapkan oleh perusahaan telah sesuai dengan ketetapan yang
+dikeluarkan oleh pihak berwenang dalam hal ini BAPEPAM dan apakah
+karakteristik perusahaan berpengaruh terhadap kelengkapan pengungkapan dalam
+laporan tahunan perusahaan manufaktur yang terdaftar di Bursa Efek Indonesia.
+1.2 Rumusan Masalah
+Rumusan masalah dalam penelitian ini adalah apakah karakteristik
+perusahaan (rasio leverage, rasio likuiditas, net profit margin, ukuran perusahaan,
+status perusahaan, umur perusahaan dan porsi saham publik) berpengaruh terhadap
+kelengkapan pengungkapan secara simultan dalam laporan tahunan perusahaan
+manufaktur yang terdaftar di BEI?.
+II. TINJAUAN PUSTAKA
+2.1 Laporan Tahunan
+Laporan tahunan adalah laporan yang diterbitkan oleh perusahaan yang
+mengandungi informasi keuangan (laporan keuangan) dan informasi non keuangan.
+Laporan yang diterbitkan setahun sekali ini berfungsi sebagai media bagi manajemen
+perusahaan untuk memberikan informasi tentang perusahaan kepada pihak-pihak
+yang berkepentingan kepada laporan tahunan perusahaan seperti pemerintah,
+investor, kreditor dan masyarakat. Laporan tahunan pada dasarnya bertujuan untuk
+mendokumentasikan operasi perusahaan dan kinerja suatu perusahaan selama
+setahun.
+Suatu laporan tahunan dikatakan berinformasi apabila laporan tersebut
+memuatkan informasi yang relevan dan mengungkapkan informasi yang dianggap
+penting untuk diketahui oleh pemakai laporan tahunan tersebut. Namun, luas
+pengungkapan dan mutu suatu laporan tahunan adalah berbeda-beda bagi setiap
+laporan tahunan. Ini terjadi karena adanya perbedaan antara karakteristik dan filosofi
+masing-masing manajemen perusahaan.
+Pemerintah mengharuskan perusahaan mempersiapkan dan menerbitkan
+laporan tahunan bagi kegunaan pihak-pihak yang berkepentingan. Ketentuan
+mengenai kewajiban penyampaian laporan tahunan bagi emiten dan perusahaan
+publik telah diatur dalam Keputusan Ketua Badan Pengawas Pasar Modal dan
+Lembaga Keuangan Nomor : KEP-134/BL/2006.
+2.2 Pengungkapan (Disclosure)
+Pengungkapan (disclosure) mempunyai arti tidak menutupi atau
+menyembunyikan (Tamtomo: 2009) dan apabila dikaitkan dengan data, disclosure
+memberi arti memberikan informasi yang bermanfaat kepada pihak yang
+70 | FE – UNIMED
+
+Vol. 4 No. 1 Juni 2012
+
+JURNAL MEDIASI
+
+memerlukan. Hendriksen (2002) dalam Irawan (2006) mengemukakan bahwa
+pengungkapan dalan arti luas hanya berarti penyampaian (release) informasi. Para
+akuntan cenderung menggunakan kata ini dalam pengertian yang agak lebih terbatas,
+yaitu penyampaian informasi keuangan tentang suatu perusahaan di dalam laporan
+keuangan, biasanya laporan tahunan. Pengungkapan dalam pengertian tersempitnya
+mencakup hal-hal seperti pembahasan dan analisis manajemen, catatan kaki dan
+laporan pelengkap.
+Suatu laporan tahunan perlulah disajikan beserta informasi-informasi
+pendukung yang disebut sebagai pengungkapan, agar suatu laporan tahunan mudah
+dipahami dan tidak menimbulkan salah interpretasi dalam penafsiran laporan
+tahunan. Pengungkapan yang baik dapat menyediakan sejumlah informasi yang
+membantu para investor dalam membuat prediksi kinerja perusahaan di masa depan.
+2.3 Kelengkapan Pengungkapan
+Imhoff (1992) dalam Binsar dan Lucy (2004) menyatakan kualitas tampak
+sebagai atribut yang penting dari suatu informasi akuntansi. Meskipun kualitas
+akuntansi masih memiliki makna ganda (abigous), namun banyak penelitian yang
+mggunakan indeks of disclosure methodology mengemukakan bahwa tingginya
+kualitas suatu informasi sangat dipengaruh oleh tingkat kelengkapan pengungkapan
+tersebut. Menurut Nina (2010), untuk melakukan pengukuran terhadap kelengkapan
+pengungkapan dapat dinyatakan dalam bentuk Indeks Kelengkapan Pengungkapan.
+Perusahaan dengan jumlah butir pengungkapan yang lebih banyak
+memberikan nilai indeks yang lebih tinggi. Perusahaan yang menunjukkan nilai
+angka indeks yang lebih tinggi menunjukkan perusahaan tersebut lebih
+komprehensif dalam melakukan praktik pengungkapannya dibanding perusahaan
+yang mempunyai nilai indeks yang lebih rendah. (Almilia dan Retrinasari, 2007)
+2.4 Karakteristik perusahaan
+Karakteristik dapat diartikan sebagai ciri khas atau sifat yang melekat dalam
+suatu entitas usaha (Laraswita dan Indrayani, 2010). Dalam penelitian ini
+karakteristik perusahaan yang digunakan adalah leverage, likuiditas, profitabilitas,
+ukuran perusahaan, status perusahaan, umur perusahaan dan porsi kepemilikan
+publik.
+a. Leverage
+Leverage atau solvabilitas menggambarkan hubungan antara utang dengan
+modal maupun aset. Menurut Kasmir (2008), leverage memperlihatkan kemampuan
+perusahaan dibiayai oleh utang yang diukur dengan menggunakan debt-to-totalequity, dimana merupakan perbandingan antara utang dengan ekuitas. Rasio ini
+berfungsi untuk mengetahui seberapa besar aktiva perusahaan yang dapat dibiayai
+oleh utang.
+b. Likuiditas
+71 | FE – UNIMED
+
+Vol. 4 No. 1 Juni 2012
+
+JURNAL MEDIASI
+
+Likuiditas adalah kemampuan perusahaan untuk menyelesaikan kewajiban
+jangka pendeknya (Harahap:1998:301). Likuiditas terkait dengan adanya dana yang
+dapat segera digunakan untuk melunasi utangnya. Terdapat dua rasio yang sering
+digunakan untuk melihat tingkat likuiditas suatu perusahaan yaitu rasio lancar
+(current ratio) dan rasio cepat (quick ratio). Penelitian ini menggunakan rasio lancar
+(current ratio) yang menggambarkan kemampuan perusahaan untuk melunasi
+kewajiban jangka pendek dengan menggunakan aktiva lancar.
+c. Profitabilitas
+Rasio profitabilitas merupakan rasio yang mengukur kemampuan perusahaan
+dalam menghasilkan laba (profitabilitas) pada tingkat penjualan, asset, dan modal
+saham (Laraswita dan Indrayani:2010). Menurut Taures (2011), profitabilitas
+merupakan indikator keberhasilan perusahaan terutama kemampuannya dalam
+menghasilkan laba dengan memanfaatkan sumber-sumber yang dimilikinya seperti
+aset dan ekuitas. Ada tiga rasio yang dapat digunakan dalam rasio profitabilitas,
+yaitu rasio net profit margin, return on asset (ROA) dan return on equity (ROE).
+Penelitian ini menggunakan rasio net profit margin (NPM) yang mengukur tingkat
+keuntungan bersih dibandingkan dengan jumlah penjualannya.
+d. Ukuran Perusahaan
+Menurut fitriani (2001) dalam Almilia dan Retrinasari (2007) menyatakan
+terdapat tiga alternatif yang digunakan untuk menghitung ukuran perusahaan, yaitu
+total aset, penjualan bersih dan kapitalisasi pasar. Laraswita dan Indrayani (2010)
+menyatakan total aset lebih menunjukkan ukuran perusahaan dibanding penjualan
+bersih dan kapitalisai pasar. Dalam penelitian ini, total aset digunakan sebagai alat
+untuk menghitung ukuran perusahaan.
+e. Status perusahaan
+Menurut Almilia dan Retrinasari (2007), afiliasi adalah :
+“……hubungan antara dua perusahaan dimana terdapat satu atau lebih
+anggota direksi atau dewan komisaris yang sama hubungan; hubungan antara dua
+perusahaan yang dikendalikan, baik secara langsung maupun tidak langsung oleh
+pihak yang sama; atau hubungan antara perusahaan dan pemegang saham utama.
+Status perusahaan digolongkan kepada dua kelompok yaitu perusahaan penanam
+modal dalam negeri (PMDN) dan perusahaan penanam modal asing (PMA).
+f. Umur perusahaan
+Umur perusahaan adalah rentang waktu mulai perusahaan tersebut first
+issued di BEI sampai dengan waktu penelitian. Menurut Irawan (2006) terdapat
+pengaruh positif antara umur perusahaan dengan kualitas pengungkapan sukarela.
+Umur perusahaan menjadi alat pertimbangan bagi investor melihat apakah suatu
+perusahaan mampu untuk terus bertahan hidup serta mampu bersaing dalam
+mendapatkan kesempatan bisnis dalam perekonomian.
+g. Porsi saham publik
+
+72 | FE – UNIMED
+
+Vol. 4 No. 1 Juni 2012
+
+JURNAL MEDIASI
+
+Porsi saham publik adalah jumlah saham perusahaan tersebut yang dimiliki
+oleh masyarakat (publik). Publik disini memberi arti pihak individu luar manajemen
+dan tidak mempunyai hubungan istimewa dengan perusahaan (Norhadi dan
+Sabeni:2002). Bagi perusahaan yang telah go public, sahamnya bebas dimiliki oleh
+publik. Porsi saham publik diukur dengan rasio jumlah saham yang dimiliki
+masyarakat (publik) dengan total saham dimana rasio ini akan menunjukkan
+seberapa besar saham perusahaan yang dimiliki oleh publik.
+2.5 Hubungan
+Karakteristik
+Perusahaan
+Terhadap
+Kelengkapan
+Pengungkapan
+Baxter dan Abdul Halim (2010) menyatakan pengungkapan suatu laporan
+tahunan dapat dipengaruhi oleh banyak faktor antaranya karakteristik perusahaan.
+Karakteristik perusahaan tersebut dapat berupa tingkat leverage, likuiditas,
+profitabilitas, ukuran perusahaan, status perusahaan, kelompok industri, umur
+perusahaan, porsi saham publik dan lain-lain.
+Tingkat leverage diukur dengan rasio leverage yang menggambarkan
+proporsi utang terhadap rata-rata ekuitas pemegang saham. Menurut Afianto (2009),
+untuk menyediakan informasi yang lebih komprehensif memerlukan modal yang
+tinggi dimana perusahaan dengan tingkat leverage yang tinggi akan menyediakan
+informasi yang lebih komprehansif. Untuk itu, bagi perusahaan yang mempunyai
+tingkat leverage yang tinggi mempunyai kewajiban untuk memenuhi kebutuhan
+informasi kreditur.
+Rasio likuiditas diukur menggunakan rasio lancar (current ratio). Perusahaan
+yang memiliki nilai rasio likuiditas yang tinggi cenderung melakukan melakukan
+pengungkapan informasi yang lebih luas karena perusahaan ini ingin menunjukkan
+kepada pihak luar bahwa perusahaan itu kredibel. Sofiana (2010) menyatakan jika
+likuiditas dipandang sebagai ukuran kinerja, perusahaan yang mempunyai rasio
+likuiditas rendah perlu memberikan informasi yang lebih rinci untuk menjelaskan
+lemahnya knerja dibanding perusahaan yang mempnyai rasio likuiditas yang tinggi.
+Tingkat profitabilitas dalam suatu perusahaan diukur dengan menggunakan
+rasio net profit margin (NPM). Net profit margin adalah kemampuan perusahaan
+untuk menghasilkan laba pada suatu tingkat penjualan yang tertentu (Almilia dan
+retrinasari;2007). Semakin tinggi rasio net profit margin menunjukkan semakin
+tinggi kemampuan suatu perusahaan memperoleh laba. Untuk menyakinkan para
+investor terhadap profitabilitas perusahaan dan mendorong kompensasi terhadap
+manajemen, para manajer cenderung memberikan informasi yang lebih rinci. Fitriani
+(2001) dalam Sofianna (2010) membuktikan bahwa terdapat pengaruh yang positif
+antara net profit margin dengan kelengkapan pengungkapan.
+Ukuran perusahaan dinyatakan dengan total aktiva. Menurut Fuad (2006)
+perusahaan besar dikatakan cenderung mengungkapkan informasi yang lebih
+lengkap dibandingkan dengan perusahaan kecil. Menurut Hariyanto (2009) ukuran
+73 | FE – UNIMED
+
+Vol. 4 No. 1 Juni 2012
+
+JURNAL MEDIASI
+
+perusahan merupakan variabel penduga yang banyak digunakan untuk menjelaskan
+variasi pengungkapan.Ini menunjukkan ukuran perusahaan mempengaruhi
+kelengkapan pengungkapan dalam laporan tahunan.
+Umur perusahaan diukur dari first issue perusahaan tersebut di BEI hingga
+tahun penelitian. Irawan (2006) menyatakan perusahaan yang berumur lebih tua
+dikatakan memiliki lebih banyak pengalaman dan kemampuan dalam
+mengungkapkan informasi karena mereka telah mengerti kebutuhan informasi apaapa saja yang dibutuhkan oleh pemakai laporan tahunan.
+Porsi kepemilikan publik adalah proporsi saham yang dimiliki oleh
+masyarakat (publik) dibanding jumlah saham. Afianto (2009) menyatakan adanya
+perbedaan antara porsi saham yang dimiliki investor luar mempengaruhi
+kelengkapan pengungkapan laporan tahunan. Hal ini didasarkan pada anggapan
+bahwa semakin banyak pihak yang membutuhkan informasi perusahaan semakin
+banyak detail-detail butir informasi yang dituntut untuk dibuka dan mendorong
+perusahaan melakukan pengungkapan yang lebih banyak (Bambang Irawan, 2006).
+2.7 Kerangka Berfikir
+Karakteristik Perusahaan :
+Rasio Leverage (X1)
+Rasio Likuiditas (X2)
+Net Profit Margin (X3)
+Ukuran Perusahaan (X4)
+
+Kelengkapan Pengungkapan
+(Y)
+
+Status Perusahaan (X5)
+Umur Perusahaan (X6)
+Porsi Kepemilikan
+Publik (X7)
+
+Gambar 2.1
+Kerangka Berfikir
+
+2.7 Hipotesis
+Berdasarkan kerangka berpikir di atas, maka hipotesis dalam penelitian ini
+adalah terdapat pengaruh karakteristik perusahaan (rasio leverage, rasio likuiditas,
+net profit margin, ukuran perusahaan, status perusahaan, kelompok industri, umur
+perusahaan dan porsi saham publik) terhadap kelengkapan pengungkapan secara
+simultan dalam laporan tahunan perusahaan manufaktur yang terdaftar di BEI.
+III. METODOLOGI PENELITIAN
+
+74 | FE – UNIMED
+
+Vol. 4 No. 1 Juni 2012
+
+JURNAL MEDIASI
+
+1. Penelitian ini dilakukan pada perusahaan manufaktur yang terdaftar di Bursa
+Efek Indonesia pada tahun 2007-2010.
+2. Data diambil dari laporan keuangan di Bursa Efek Indonesia (BEI) yang dapat
+diakses dalam situs www.idx.co.id serta Indonesian Capital Market Diirectory
+(ICMD) tahun 2007-2010.
+3. Populasi dalam penelitian ini adalah seluruh perusahaan manufaktur yang
+Coefficientsa
+
+Model
+1 (Constant)
+LEV
+LI
+NPM
+UKURAN
+SP
+UMUR
+PUB
+
+R2 = 0,054
+
+Unstandardized
+Coefficients
+Std.
+B
+Error
+.391
+.152
+-.010 .008
+.005
+.004
+-.014 .069
+.013
+.005
+-.036 .018
+.0004 .001
+-.046 .040
+
+F = 1,617
+
+Standardized
+Coefficients
+Beta
+-.090
+.094
+-.014
+.177
+-.161
+-.021
+-.083
+
+T
+2.577
+-1.166
+1.178
+-.198
+2.367
+-2.032
+-.274
+-1.166
+
+Sig.
+.011
+.245
+.240
+.843
+.019
+.044
+.785
+.245
+
+Collinearity
+Statistics
+Toleranc
+e
+VIF
+.796
+.737
+.903
+.843
+.753
+.817
+.935
+
+1.256
+1.358
+1.107
+1.186
+1.327
+1.225
+1.070
+
+sig. = 0,132
+
+terdaftar di BEI pada tahun 2007-2010 sebanyak 130 perusahaaan manufaktur.
+4. Dalam penelitian ini teknik yang digunakan pengambilan sampel dilakukan
+dengan metode purposive sampling, maka ditetapkan 52 perusahaan sebagai
+sampel karena memiliki criteria tertentu. Kriteria sampel antara lain :
+perusahaan manufaktur yang listed di BEI dan menyampaikan laporan tahunan
+selama berturut-turut yaitu sejak tahun 2007 dan tetap terdaftar sampai dengan
+tahun 2010, perusahaan yang mempunyai laporan keuangan yang berakhir 31
+Desember, perusahaan yang memiliki laba.
+5. Penelitian ini menggunakan teknik analisis regresi linear berganda (multiple
+regression analysis) sebagai berikut:
+Y = a + bLev + bLi +bNPM +bSIZE + bSP + bAGE +bPUB + e
+
+IV. HASIL DAN PEMBAHASAN
+Dari pengolahan data dengan analisis regresi berganda dengan menggunakan
+program spss 19.0 adalah sebagai berikut:
+Tabel 4.1
+Hasil Regresi Berganda
+75 | FE – UNIMED
+
+Vol. 4 No. 1 Juni 2012
+
+JURNAL MEDIASI
+
+Berdasarkan pada tabel 4.1, maka diperoleh model persamaan regresi linier
+berganda sebagai berikut :
+Y = 0,391+(0,010)Lev + 0,005Li - (0,014)NPM +LnSIZE - SP + 0,0004AGE - PUB
++e
+Nilai F hitung di atas adalah 1,617 dengan tingkat keyakinan 95%, a = 5%, df
+1 (jumlah variabel-1) = 7, dan df 2 (n-k-1) atau (208-7-1) = 200 (n adalah jumlah
+sampel dan k adalah jumlah variabel independen). Hasil diperoleh untuk nilai F
+tabel sebesar 2,14. Karena F hitung < F tabel (1,617 < 2,056), maka Ho diterima,
+artinya tidak ada pengaruh secara signifikan antara rasio leverage, rasio likuiditas,
+net profit margin, ukuran perusahaan, status perusahaan, umur perusahaan dan porsi
+saham publik secara bersama-sama terhadap kelengkapan pengungkapan laporan
+tahunan. Ini karena terdapat faktor-faktor lain yang dapat memberi pengaruh yang
+lebih besar terhadap kelengkapan pengungkapan dibanding karakteristik perusahaan
+sehingga semua variabel independen secara bersama-sama tidak berpengaruh
+terhadap kelengkapan pengungkapan laporan tahunan.
+V. KESIMPULAN
+Berdasarkan hasil pengujian hipotesis yang dilakukan oleh penulis, didapat
+hasil bahwa tidak terdapat pengaruh karakteristik perusahaan yang berupa rasio
+leverage, rasio likuiditas, rasio Net Profit Margin, ukuran perusahaan, status
+perusahaan, umur perusahaan dan porsi saham publik terhadap kelengkapan
+pengungkapan secara simultan dalam laporan tahunan perusahaan manufaktur yang
+terdaftar di BEI. Hal ini didasarkan pada hasil bahwa nilai F hitung < F tabel, yaitu
+1,617< 2,056.
+
+DAFTAR PUSTAKA
+AbdulHalim dan Baxter, Tom, Voluntary Disclosure of Intangibles among
+Australian Publicly Listed Companies, Global Review of Accounting
+and Finance, Vol 1, No 1, September 2010.
+Almilia, Luciana Spica dan Ikka Retrinasari, 2007. Analisis Pengaruh Karakteristik
+Perusahaan terhadap Kelengkapan Pengungkapan dalam Laporan Tahunan
+Perusahaan Manufaktur yang Terdaftar di BEJ, Universitas Trisakti, Jakarta.
+Fitriyani. 2001. Signifikansi Perbedaan Tingkat Kelengkapan Wajib dan Sukarela
+pada Laporan Keuangan Perusahaan Publik yang terdaftar di Bursa Efek
+Jakarta.Simposium Nasional Akuntansi IV.
+
+76 | FE – UNIMED
+
+Vol. 4 No. 1 Juni 2012
+
+JURNAL MEDIASI
+
+Fuad Muhammad, 2006, Uji Empiris Faktor-Faktor Yang Mempengaruhi Disclosure
+Perusahaan Manufaktur Di BEJ, Akuntabilitas.
+Hariyanto, Eko, 2009, Environmental Disclosure dalam Laporan Tahunan, Jurnal
+Akuntansi.
+Kasmir. 2008. Analisis laporan Keuangan. Jakarta: PT Raja Grafindo Persada.
+Simanjuntak, Binsar H., 2004, Faktor-Faktor yang Mempengaruhi Kelengkapan
+Pengungkapan Laporan Keuangan pada Perusahaan Manufaktur
+yang Terdaftar di Bursa Efek Jakarta, Jurnal Riset Akuntansi Indonesia.
+Sofianna Nina, 2010. Analisis Pengaruh Karakteristik Perusahaan Terhadap
+Kelengkapan Pengungkapan Dalam Laporan Tahunan Perusahaan
+Manufaktur Yang Terdaftar Di Bursa Efek Indonesia, Skripsi Fakultas
+Ekonomi, Universitas Muhammadiyah, Surakarta.
+Tamtono Didiek, Pengungkapan Dalam Pelaporan Keuangan. Vol.5 No.1 Maret
+2009
+www.bapepam.go.id
+www.idx.co.id
+TENTANG PENULIS
+Hermansyah Sembiring, SE, M.Si, Ak : adalah Dosen dan Peneliti pada jurusan
+Akuntansi FE UNIMED, Lulus S1 FE USU Medan, dan S2 Ilmu Akuntansi,
+PPS USU Medan.
+
+77 | FE – UNIMED
+
+

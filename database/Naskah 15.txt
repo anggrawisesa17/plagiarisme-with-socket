@@ -1,0 +1,525 @@
+ISSN: 2088-9984
+
+Seminar Nasional dan Expo Teknik Elektro 2015
+
+Internet of Things – Keamanan dan Privasi
+Ernita Dewi Meutia
+Jurusan Teknik Elektro Universitas Syiah Kuala
+Jl. Tgk. Syech Abdurrauf No.7, Darussalam, Banda Aceh 23111
+e-mail:ernita.dmeutia@unsyiah.ac.id
+
+Abstrak—Internet of Things (IoT) merupakan suatu jaringan yang menghubungkan berbagai objek yang memiliki
+identitas pengenal serta alamat IP, sehingga dapat saling berkomunkasi dan bertukar informasi mengenai dirinya
+maupun lingkungan yang diinderanya. Objek-objek dalam IoT dapat menggunakan maupun menghasilkan
+layanan-layanan dan saling bekerjasama untuk mencapai suatu tujuan bersama. Dengan kemampuannya ini, IoT
+telah menggeser definisi internet sebagai komputasi dimana saja kapan saja bagaimana saja, menjadi apa saja siapa
+saja dan layanan apa saja. Salah satu isu yang masih menjadi kelemahan dalam pengimlementasian IoT adalah
+masalah kemanan dan privasi. Serangan terhadap keamanan IoT dapat mencakup serangan terhadap label RFID,
+jaringan komunikasi maupun pada privasi data. Untuk mencegah dan mengatasinya dibutuhkan mekanisme dan
+protokol keamanan. Masalah keamanan dan privasi yang mungkin mengancam IoT serta rencana mitigasi yang
+telah dikembangkan akan di-review dalam paper ini.
+Kata kunci: internet of things, keamanan, privaci
+Abstract—Internet of Things (IoT) refers to the network of identifiable and addressable objects that have the ability
+to communicate and exchange information regarding themselves and their environments that they sense. Objects
+in IoT can use or produce services and work together to attain a common goal. With this ability, IoT has shifted the
+traditional definition of internet as anywhere and anytime computing to anything, anyone and anyservice computing.
+However, IoT has to deal with security and privacy issues that may slowing down its widespread implementation.
+This paper discusses the security and privacy threats that may attack either the components of IoT or the end users.
+First, we give an overview of the IoT and its architecture. We then present the security and privacy challenges that
+threaten IoT, and followed by the needs to protect the privacy and some mitigation technique.
+Keywords: internet of things, security, privacy
+
+I.
+
+Pendahuluan
+
+sepeti monitor glukosa yang terkoneksi pada pasien
+diabetes, akan memudahkan dokter dalam menerima data
+pasien secara real time, memonitor kondisi pasien dan
+menyesuaikan dosis obat. Dengan demikian manajemen
+penyakit menjadi lebih mudah dilakukan [2]. Demikian
+pula pada aplikasi rumah cerdas, yang memungkinkan
+pemiliknya mengatur seluruh peralatan di rumahnya dari
+jarak jauh dengan mnegunnakan satu aplikasi.
+Untuk mengimplementasikan IoT seperti pada contoh
+di atas, banyak teknologi yang terlibat antara lain: RFID
+sebagai alat pengenal dan pengidentifikasi benda dan
+lokasi, teknologi web, komunikasi medan dekat, WSN
+atau jaringan sensor nirkabel (Wireless Sensor Network),
+dan komputasi awan. Teknologi-teknologi dalam IoT
+ini terhubung dengan berbagai terminal pengumpul data
+melalui jaringan internet maupun jaringan komunikasi
+lainnya. Informasi mengenai lingkungan di sekitar objek
+diambil secara real time, kemudian diubah ke dalam format
+data yang sesuai untuk ditransmisikan melalui jaringan,
+dan dikirim ke pusat data. Data tersebut kemudian diolah
+oleh pengolah cerdas dengan menggunakan komputasi
+awan dan teknologi komputasi cerdas lain yang dapat
+mengolah data dalam jumlah besar, untuk mencapai tujuan
+IoT. [3]
+Dengan banyaknya teknologi yang terlibat dalam
+
+Internet of Things (IoT) pertama kali diperkenalkan
+oleh Kevin Ashton pada tahun 1999. Meski telah
+diperkenalkan sejak 15 tahun yang lalu, hingga kini belum
+ada sebuah konsensus global mengenai definisi IoT.
+Namun secara umum konsep IoT diartikan sebagai sebuah
+kemampuan untuk menghubungkan objek-obek cerdas dan
+memungkinkannya untuk berinteraksi dengan objek lain,
+lingkungan maupun dengan peralatan komputasi cerdas
+lainnya melalui jaringan internet. IoT dalam berbagai
+bentuknya telah mulai diaplikasikan pada banyak aspek
+kehidupan manusia. CISCO bahkan telah menargetkan
+bahwa pada tahun 2020, 50 miliar objek akan terhubung
+dengan internet [1]
+Meluasnya adopsi berbagai teknologi IoT, membuat
+kehidupan manusia menjadi jauh lebih nyaman. Dari sisi
+pengguna perorangan, IoT sangat terasa pengaruhnya
+dalam bidang domestik seperti pada aplikasi rumah
+dan mobil cerdas. Dari sisi penguna bisnis, IoT sangat
+berpengaruh dalam meningkatkan jumlah produksi serta
+kualitas produksi, mengawasi distribusi barang, mencegah
+pemalsuan, mempersingkat waktu ketidaktersedian barang
+pada pasar retail, manajemen rantai pasok, dsb.
+IoT yang dipakai pada aplikasi peralatan medis
+85
+
+Seminar Nasional dan Expo Teknik Elektro 2015
+
+ISSN: 2088-9984
+
+membangun IoT, maka dibutuhkan sistem pengaman yang
+dapat melindungi setiap bagian sistem dari ancamanancaman. Secara garis besar, ada tiga hal dari IoT yang
+dapat diancam keamanannya. Yang pertama adalah
+keamanan fisik, terutama keamanan sensor dan RFID
+dari intereferensi, dan pencegatan sinyal. Kedua adalah
+keamanan operasi pada berbagai elemen yang harus dapat
+menjamin bahwa sensor, sistem transmisi dan lainnya
+dapat beroperasi secara normal. Keamanan operasi ini
+pada dasarnya sama dengan keamanan sistem informasi
+tradisional. Terakhir adalah keamanan data, yang juga
+meliputi berbagai elemen. Informasi pada sensor, sistem
+transmisi dan pengolah data tidak boleh di rusak, dicuri
+maupun dipalsukan. Selain ketiga hal di atas, jaringan
+sensor juga menghadapi persoalan keterbatasan daya.
+Karena itu, selain menghadapi persoalan keamanan
+jaringan, IoT juga diancam oleh serangan dan ancaman
+yang spesifik bagi IoT. Dalam tulisan ini, persoalan
+keamanan haya difokuskan pada teknologi kunci
+pembangun IoT, yaitu RFID dan WSN.
+Paper ini akan disusun sebagai berikut: setelah
+pendahuluan pada bagian pertama, bagian 2 akan
+membahas arsitektur IoT. Masalah keamanan pada IoT
+dibahas pada bab 3. Sementara pentingnya perlindungan
+terhadap privasi dan beberapa metodenya dijelaskan pada
+bab 4, kemudian ditutup dengan kesimpulan di bab 5.
+II.
+
+Gambar 1. Blok sistem IoT [4]
+
+yang terhubung dengan internet bukan hanya dapat
+dikenali secara geografis seperti pada IPv4, namun juga
+secara individu.
+III. Keamanan
+Salah satu tantangan yang harus diatasi untuk
+mendorong implementasi IoT secara luas adalah faktor
+keamanan. IoT merupakan sebuah sistem yang majemuk.
+Kemajemukannya bukan hanya karena keterlibatan
+berbagai entitas seperti data, mesin, RFID, sensor dan
+lain-lain, tetapi juga karena melibatkan berbagai peralatan
+dengan kemampuan komunikasi dan pengolahan data.
+Banyaknya entitas dan data yang terlibat, membuat IoT
+menghadapi resiko keamanan yang dapat mengancam
+dan membahayakan konsumen. Ancaman ini utamanya
+dilakukan dengan cara memungkinkan orang yang tidak
+berhak untuk mengkases data dan menyalah gunakan
+informasi personal, memfasilitasi serangan terhadap
+sistem yang lain, serta mengancam keselamatan personal
+penggunanya.
+Ancaman-ancaman yang dapat mempengaruhi entitas
+IoT sangat beragam, tergantung dari target serangan
+tersebut. Roman dkk dalam [5] mengkategorikan ancaman
+terhadap IoT sebagai berikut:
+1. Denial of Service, serangan yang menyebabkan pihak
+yang sah tidak dapat mengkses layanan.
+2. Merusak secara fisik objek-objek dalam IoT.
+3. Eavesdropping; serangan pasif yang dapat dilakukan
+pada berbagai kanal komunikasi dengan tujuan
+mengekstrak data dari aliran informasi.
+4. Node capture; penyerang mengekstrak informasi dari
+node maupun dari infrastruktur lain yang memiliki
+kemampuan penyimpanan data.
+5. Controlling; di mana penyerang berusaha mendapatkan
+kontrol terhadap entitas IoT dan mengganggu layanan
+maupun data dari entitas tersebut.
+Berbagai jenis ancaman di atas, dapat menyerang
+berbagai entitas dalam IoT, terutama RFID dan jaringan
+sensor [3].
+
+Arsitektur
+
+Meski telah mulai diaplikasikan pada banyak bidang
+kehidupan sehari-hari, namun belum ada satu definisi
+yang baku dari IoT. Secara sederhana konsep IoT dapat
+digambarkan dengan bentuk arsitektur seperti ditunjukkan
+pada Gambar 1. Pada tingkat pertama adalah perangkat
+keras yang dapat mengenali dirinya dan mengindera
+lingkungannya, membaca lokasi, kondisi cuaca, gerakan
+mesin, kondisi kesehatan dan sebagainya. Perangkat yang
+digunakan pada lapisan ini adalah RFID, sensor, kontrol
+dan aktuator.
+Pada lapisan atau tingkat kedua adalah gateway, yang
+merupakan jembatan penghubung antara jaringan internal
+sensor yang mengumpulkan data, dengan jaringan luar
+internet melalui berbagai medua komunikasi nirkabel
+seperti WiFi, bluetooth, selular satelit, Zigbee dan lainlain. Gateway juga merupakan tempat pengolah data tahap
+pertama, pengalamatan dan pengaturan routing. Data yang
+ditransmisikan melalui gateway kemudian disimpan dan
+diolah di cloud server dengan menggunakan mesin analitik
+Big Data. Data yang sudah diolah ini kemudian digunakan
+untuk melakukan hal-hal cerdas sesuai tujuan IoT.
+Pada sisi pengguna, layanan IoT dimanfaatkan melalui
+aplikasi bergerak pada perangkat cerdas mereka. Aplikasi
+bergerak yang intuitif ini yang membantu pengguna untuk
+mengatur dan memonitor perangkatnya dari jarak jauh
+Tulang punggung dari seluruh ekosistem IoT adalah
+IPv6, yang merupakan alamat pengenal dari setiap
+perangkat yang terhubung dengan internet. Dengan IPv6
+yang dapat menyediakan 2128 alamat, setiap perangkat
+
+A. Label RFID.
+Secara alami, RFID rentan terhadap ancaman
+keamanan dan privasi. Sifatnya yang tidak memerlukan
+kontak langsung dan berkomunikasi secara nirkabel dengan
+memanfaatkan gelombang elektromagnetik, menyebabkan
+86
+
+ISSN: 2088-9984
+
+Seminar Nasional dan Expo Teknik Elektro 2015
+
+interaksi dengan label RFID dapat dilakukan tanpa kontak
+fisik sehingga mudah diserang tanpa terdeteksi. Ancaman
+terhadap keamanan RFID dapat terjadi baik pada label,
+pembaca, host maupun pada kanal komunikasinya.
+Label RFID sebagai sarana pengenal objek, dibuat
+dengan biaya yang rendah. Mengingat harganya yang
+murah, sulit melengkapi label RFID dengan mekanisme
+enkripsi dan pemrograman yang kuat. Akibatnya label
+RFID rentan terhadap serangan seperti pencurian,
+penggandaan maupun pemodifikasian data.
+Pada sisi kanal komunikasi, RFID yang berkomunikasi
+dengan memanfaatkan gelombang elektromagnetik, rentan
+terhadap interferensi. Interferensi akan mengakibatkan
+kesalahan data dalam proses komunikasi antara label dan
+pembaca. Dengan mengirimkan sinyal penginterferensi,
+penyerang dapat menghambat link komunikasi, sehingga
+pembaca tidak dapat membaca data yang benar, dan
+menyebabkan serangan denial of service dan data
+tampering.
+Selain itu, pembaca RFID juga dapat dipalsukan
+sehingga komunikasi antara pembaca dan host dapat
+diserang dengan mudah. Penyerang dapat melakukan
+serangan middleman (pembaca lain yang diletakkan di
+tengah jalur komunikasi dan berperan seolah-olah sebagai
+pembaca yang sesungguhnya), eavesdropping maupun
+menginterferensi pertukaran data secara langsung maupun
+tidak langsung antara pembaca dengan host. Akibatnya,
+label tidak dapat diidentifikasi dengan benar, atau terjadi
+kesalahan identifikasi.
+
+dengan node tampering, node secara fisik dirusak atau
+diubah untuk mendapatkan informasi sensitif.
+2. DoS pada lapisan link. Lapisan link bertanggung jawab
+dalam melakukan multipleks berbagai aliran data,
+mendeteksi bingkai data serta melakukan MAC dan
+error control. Serangan DoS pada lapisan link dapat
+dilakukan dengan cara kolisi. Kolisi dipicu dengan
+mengirimkan paket data secara serempak dari dua
+node pada kanal frekuensi yang sama [9]. Tubrukan ini
+akan menyebabkan perubahan kecil pada paket data,
+sehingga tidak teridentifikasi dengan benar. DoS pada
+lapisan link juga dapat dilakukan dengan serangan
+unfairness yaitu tubrukan yang dilakukan secara
+terus menerus.. Serangan DoS yang menyebabkan
+trafik yang tinggi pada kanal ini, menyebabkan
+aksesibilitas terhadap kanal menjadi sangat terbatas
+dan menghabiskan baterai sensor.
+3. DoS pada lapisan jaringan. Beberapa jenis serangan
+yang menyebabkan DoS, dapat dilakukan pada lapisan
+yang bertanggung jawab terhadap proses routing ini
+[7]. Yang petama adalah spoofing, replaying dan trafik
+yang salah arah. Serangan kedua adalah Hello flood:
+serangan ini dilakukan dengan cara membanjiri kanal
+dengan sejumlah besar pesan yang tidak bermanfaat.
+Cara ketiga adalah homing. Penyerang mencari di
+dalam trafik, kepala cluster dan key manager yang
+memiliki kemampuan untuk mematikan seluruh
+jaringan. Berikutnya adalah serangan Sybil, penyerang
+mereplikasi sebuah node dan mengenalkannya pada
+node-node lain dengan identitas yang berbeda-beda.
+Serangan ke lima adalah wormhole yang menyebabkan
+berpindahnya bit-bit data dari posisi sebenarnya
+di dalam jaringan. Cara terakhir adalah dengan
+acknowledgement flooding, dimana node penyerang
+mencurangi acknowledgment dengan memberikan
+informasi yang salah pada node tujuan.
+
+B. Wireless Sensor Network (WSN)
+WSN merupakan teknologi kunci yang
+memungkinkan terwujudnya IoT. Dengan WSN jaringan
+dan layanan dapat diintegrasikan menjadi infrastruktur
+IoT. WSN dan jaringan komunikasi yang dimanfaatkan
+pada IoT bekerja secara nirkabel, sehingga mudah diserang
+dan diinterferensi.
+Prinsip pengamanan informasi pada WSN dan jaringan
+komunikasi mengikuti prinsip confidentiality, integrity dan
+availability, berdasarkan prinsip ini, serangan yang dapat
+mengancam WSN, dapat dikategorikan dalam 3 kategori:
+serangan terhadapat kerahasian dan otentikasi, serangan
+terhadap integritas layanan, dan serangan terhadap
+ketersediaan jaringan. Jenis serangan yang masuk dalam
+ketiga kategori ini adalah denial of service (DoS), yaitu
+serangan yang menyebabkan pengguna yang sah tidak
+dapat mengakses informasi [7]. Serangan ini dapat terjadi
+pada berbagai lapisan jaringan WSN [8]:
+
+4. Serangan DoS pada lapisan transport. Lapisan transport
+berfungsi untuk menjaga kehandalan transmisi data
+dan mencegah kemacetan akibat tingginya trafik di
+router. Penyerang dapat melakukan serangan flooding
+yaitu dengan sengaja membanjiri kanal komunikasi
+dengan trafik yang tinggi, dan serangan desinkronisasi
+yaitu mengirimkan permintaan pada endpoint untuk
+mengirim ulang pesan yang salah yang sebetulnya
+tidak ada. Desinkronisasi akan menyebabkan node
+kehabisan energi.
+5. Serangan DoS pada lapisan aplikasi. Lapisan ini
+bertanggung jawab terhadap manajemen trafik dan
+penyedia perangkat lunak bagi aplikasi yang berbeda
+dengan menterjemahkan data menjadi bentuk yang
+dapat dipahami [10]. Serangan DoS di lapisan ini
+diinisiasi dengan menstimulasi sensor node untuk
+membuat trafik yang sangat besar pada rute menuju
+base station [9].
+
+1. DoS pada lapisan fisik. Lapisan fisik sebagai lapisan
+yang menjalankan fungsi modulasi, demodulasi,
+enkripsi, pembangkit frekuensi pembawa, pengirim
+dan penerima data, dapat diserang dengan cara
+jamming dan node tampering. Dengan jamming,
+penyerang menduduki kanal komunikasi sehingga
+menghalangi jalur komunikasi antar node. Sementara
+87
+
+Seminar Nasional dan Expo Teknik Elektro 2015
+
+ISSN: 2088-9984
+
+IV. Privasi
+
+dan jenis aksi tertentu. Untuk menjamin privasi, pengguna
+harus memiliki kontrol penuh terhadap aturan akses
+yang beruhungan dengan data personalnya. Misalnya
+jika pengguna ingin menemukan sesorang yang berada
+di dekatnya yang menyukai Maroon5 tanpa harus secara
+eksplisit mengungkapkan lokasi dirinya dan preferensi
+musiknya. Salah satu usulan untuk dapat mencapai tujuan
+ini adalah dengan privacy coach [10], yaitu di mana
+pembaca RFID pada telepon bergerak memindai label yang
+terpasang pada beberapa objek, seperti kartu pelanggan,
+lalu mengunduh ketentuan privasi dari perusahaan tersebut.
+Jika ketentuan tersebut tidak sesuai dengan keinginannya,
+pengguna dapat memilih untuk tidak menggunakan objek
+tersebut. Sebaliknya jika pembaca RFID membaca sinyal
+dari telepon bergerak, telepon bisa memeriksa ketentuan
+privasi dari pembaca tersebut lalu meminta persetujuan
+pengguna (user consent).
+Ketiga hal di atas dapat menjamin privasi dari sistem
+IoT. Akan tetapi untuk menjaga integritas data pada
+RFID, sensor maupun basis data dari serangan tampering
+(mengubah atau memodifikasi data), maka data harus
+disimpan dalam bentuk terenkripsi. Banyak metode
+enkripsi yang telah dikembangkan, antara lain dengan
+menggunakan hash key dan algoritma AES.
+
+IoT merupakan sebuah sistem terbuka yang dapat
+digunakan dan diakses oleh siapa saja, dari mana saja.
+Pada sistem terbuka semacam ini, dibutuhkan proteksi
+terhadap informasi dan data penggunanya. Lokasi terminal
+merupakan salah satu sumber informasi penting dari
+objek dalam IoT dan juga merupakan informasi sensitif
+yang perlu dilindungi. Selain itu masalah privasi juga
+muncul pada pengolahan data, dimana pihak yang tidak
+berhak dapat melakukan analisa tingkah laku berdasarkan
+penggalian data. Perlindungan terhadap privasi secara
+umum meliputi ketiga hal, perlindungan terhadap data,
+lokasi dan identitas. Untuk menjamin agar privasi personal
+maupun perusahan tidak dirusak sebagai akibat dari
+terbukanya data tersebut pada pengumpulan, pengiriman
+dan pengolahan data, maka diperlukan mekanisme yang
+mengatur akses terhadap data tersebut.
+Selain itu, mengingat banyaknya entitas yang
+bersinggungan dengan data pengguna, terjaminnya
+privasi data dan pengguna menjadi hal yang sangat
+penting. Sebuah sistem yang ramah privasi harus dapat
+menjamin hal-hal berikut [5]: pengguna harus memiliki
+kontrol penuh atas mekanisme yang digunakan untuk
+menjamin privasi mereka, pengguna harus dapat memilih
+untuk membagikan atau tidak data mereka, dan harus
+dapat memutuskan untuk tujuan apa informasi tersebut
+digunakan.
+Untuk menjamin privasi, secara umum ada tiga hal yang
+dapat dilakukan yaitu: manajemen identitas, otentikasi dan
+otorisasi. Dalam model yang diusulkan dalam [5], setiap
+pengguna atau layanan dipetakan ke dalam identitas akar.
+Tetapi objek juga perlu dilengkapi dengan banyak identitas
+kedua oleh Manajer Identitas. Kumpulan identitas yang
+diberikan untuk setiap objek ini ditunjukkan dalam
+identity pool. Identitas kedua dapat digunakan untuk
+tujuan privasi ketika objek berhubungan dengan IoT,
+namun untuk mengatasi repudiasi, sistem tetap masuk ke
+dalam identitas dari objek yang berinteraksi dengannya.
+Manajemen Identitaslah yang akan menyediakan fungsi
+pemetaan identitas akar ke identitas kedua, bagi pihak
+yang membutuhkan layanan dan memiliki kredensial yang
+benar.
+Otentikasi berfungsi untuk mengikat sebuah objek
+dengan identitasnya (identitas akar) dan untuk menjamin
+properti maupun peran dari objek tersebut. Misalnya
+jika sebuah objek adalah pengguna, maka properti yang
+dijamin dapat berupa: berusia lebih dari 17 tahun, memiliki
+tanda pengenal yang sah, memiliki sertifikasi level Z dan
+lain-lain. Peran yang dijamin dapat berupa: manajemen,
+operasional, pemeliharaan dan lain-lain. Dengan demikian,
+sebuah objek bisa mendapatkan akses ke sumber daya IoT
+sesuai dengan identifikasi atau sesuai dengan peran dan
+propertinya. Dengan cara ini, objek masih bisa mengakses
+sistem tanpa harus mengungkapkan identitasnya.
+Yang terakhir adalah otorisasi yang merupakan proses
+pemberian akses terhadap informasi maupun ke sumber
+daya IoT bagi sebuah objek sesuai dengan aturan akses
+
+V.
+
+Kesimpulan
+
+Dari uraian mengenai masalah kemanan di atas,
+terlihat beragam masalah keamanan dan privasi dalam
+IoT yang dapat mengancam entitas IoT serta dapat
+merugikan dan membahayakan pengguna. Misalnya
+pencurian informasi sensitif seperti kata sandi akun bank,
+mudahnya data personal diakses oleh yang tidak berhak
+yang dapat menjadi jalan untuk melakukan pembobolan
+pada keuangan personal maupun institusi. Selain itu,
+karena sifat interkonektivitasnya, serangan terhadap satu
+peralatan akan mempengaruhi integritas perlatan lain yang
+terhubung.
+Masalah keamanan dan privasi yang dapat
+mengancam integritas dan kerahasian data dan juga
+dapat membahayakan pengguna telah dibahas. Persoalan
+keamanan ini dapat menghambat pengembangan dan
+implementasi IoT dalam berbagai bidang. Untuk mencapai
+infrastruktur IoT yang kuat dan lebih aman, dibutuhkan
+teknik mitigasi yang ampuh untuk mengatas kelemahankelemahan keamanan dan privasi tersebut. Selain itu, perlu
+diimplementasikan berbagai metode kriptogafi dan sistem
+yang dapat mendeteksi adanya penggangu. Maka dapat
+disimpulkan masih banyak yang perlu dilakukan untuk
+membuat IoT menadi bagian dari kehidupan sehari-hari.
+Referensi
+
+88
+
+[1]
+
+http://www.bloomberg.com/news/2014-01-08/cisco-ceo-pegsinternet-of-things-as-19-trillion-market.html
+
+[2]
+
+Internet of Things; privacy and security in the connected world,
+FTC Staff Report, January 2015.
+
+[3]
+
+C. Qiang, G. Quan, B. Yu, L. Yang, “Research on Security
+
+ISSN: 2088-9984
+
+Seminar Nasional dan Expo Teknik Elektro 2015
+Issues of the Internet of Things”, International Journal of Future
+Generation Communication and Networking, 2013,Vol.6, No.6,
+pp.1-10
+[4]
+
+http://www.embitel.com/mobility-iot/how-iot-works-anoverview-of-the-technology-architecture-2
+
+[5]
+
+R. Roman, J. Zhou, J. Lopez, On the Features and Challenges of
+Security and Privacy in Distributed Internet of Things, Computer
+Network Journal, Elsevier, 2013.
+
+[6]
+
+C. M. Medaglia, A. Serbanati, D. Giusto et al. (eds.), “An
+Overview of Privacy and Security Issues in the Internet of
+Things”, 20th Tyrrhenian Workshop on Digital Communications,
+Springer Science+Business Media, LLC, 2010.
+
+[7]
+
+European Lighthouse Project, “Introduction to Architectural
+Reference Model for The Internet of Things Booklet”. 2013.
+
+[8]
+
+Boyle D, Newe T (2008), “Securing wireless sensor networks:
+security architectures”l J Netw (JNW) 3(1):65–77
+
+[9]
+
+M. Sharifnejad, M. Shari, M. Ghiasabadi and S. Beheshti, “A
+Survey on Wireless Sensor Networks Security”, SETIT, 2007
+
+[10]
+
+T. Borgohain, U. Kumar, S.Sanyal, Survey of Security and
+
+Privacy Issues of Internet of Things.2015, http://arxiv.org/
+abs/1501.02211
+
+89
+
+[11]
+
+S. Ghildiyal, A. K. Mishra, A. Gupta, N. Garg, “Analysis of
+Denial of Service (DoS) Attacks in Wireless Sensor Networks”
+IJRET: International Journal of Research in Engineering and
+Technology; eISSN: 2319-1163 | pISSN: 2321-7308
+
+[12]
+
+A. A. A. Alkhatib, G. S. Baicher. “Wireless sensor network
+architecture”, International conference on computer networks and
+communication systems (CNCS 2012) IPCSIT. Vol. 35., pp. 1115.
+
+[13]
+
+L. Atzoni, A. Iera, G. Morabitoc “The Internet of Things: A
+survey”, Computer Networks, Elsevier, 2010
+
+[14]
+
+Khoo, Benjamin. “RFID as an enabler of the internet of things:
+issues of security and privacy.” Internet of Things (iThings/
+CPSCom), 2011 International Conference on and 4th International
+Conference on Cyber, Physical and Social Computing. IEEE,
+2011.
+
+[15]
+
+D. Bandyopadhyay, J. Sen, Internet of Things - Applications and
+Challenges in Technology and Standardization, Wireless Personal
+Communication Journal, Springer, 2011.
+
+

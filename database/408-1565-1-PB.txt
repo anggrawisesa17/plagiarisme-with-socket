@@ -1,0 +1,514 @@
+Penerapan Software Akuntansi Online Sebagai ...
+ISSN: 1978-1520
+
+Penerapan Software Akuntansi Online Sebagai Penunjang
+Pencatatan Laporan Keuangan
+Implementation of Online Accounting Software As
+Supporting Of Financial Statement
+1
+
+Untung Rahardja1, Qurotul Aini2, Marviola Hardini3
+Dosen Sistem Informasi STMIK Raharja, 2Dosen Sistem Informasi STMIK Raharja,
+3
+Mahasiswa
+STMIK Raharja Jurusan Teknik Informatika
+e-mail: 1untung@raharja.info, 2aini@raharja.info, 3marviola@raharja.info
+
+Abstrak
+Informasi keuangan yang telah dibuat oleh akuntan saat ini dapat dengan mudah
+diakses oleh bagian pimpinan. Namun ada 3 (tiga) kendala yang ditemukan oleh pimpinan
+maupun para akuntan, salah satunya yaitu menyajikan informasi dengan menggunakan tabel
+membutuhkan ketelitian yang sangat tinggi untuk memastikan setiap informasi nominal uang
+yang dicantumkan ke dalam tabel tersebut itu benar dan hal tersebut menghabiskan waktu yang
+lumayan lama. Guna memudahkan akuntan dalam melakukan pencatatan laporan keuangan
+serta pimpinan yang melakukan pengecekkan dalam informasi yang disajikan, Software Jurnal
+(Software Akuntansi Online) akan menyajikan informasi berupa tanggal, kode produk, nama
+produk, kuantitas, total pendapatan, rata-rata pendapatan. Software Jurnal (Software
+Akuntansi Online) memiliki tingkat keamanan yang bagus karena diamankan dengan teknologi
+yang setara atau lebih kuat dari yang dipakai Bank. Software Jurnal (Software Akuntansi
+Online) menggunakan encryption AES-256 agar pihak yang tidak bertanggung jawab tidak
+dapat mengakses data dengan mudah. Software Jurnal (Software Akuntansi Online) juga
+menggunakan 2056-bit SSL certificate untuk mengamankan koneksi internet. Dalam penelitian
+ini, terdapat 3 (tiga) keuntungan dalam Software Jurnal (Software Akuntansi Online). Dengan
+hadirnya kegiatan penelitian kali ini diharapkan agar Software Jurnal (Software Akuntansi
+Online) dapat meningkatkan mutu laporan keuangan dalam proses pencatatan laporan
+pendapatan.
+Kata kunci—Akuntansi, Laporan Keuangan, Software Online, Jurnal
+
+Abstract
+The financial information that has been made by the accountant can now be easily
+accessed by the part of the leadership. However there are 3 (three) the difficulties faced by the
+leaders as well as accountants, one that is present information using the table need a very high
+accuracy to ensure every information nominal money that are listed into the table it's right and
+this takes quite a long time. To make it easier for accountants in performing record-keeping
+financial reports as well as the leadership of examining the information presented, Jurnal
+Software (Accounting Software Online) will be presenting information in the form of date,
+product code, product name, quantity, total income, average income. Jurnal Software (Online
+Accounting Software) has a good level of security because it is secured with technology equal
+or stronger than that used a Bank. Jurnal Software (Online Accounting Software) wearing
+encryption AES-256 so that the data cannot be viewed by unauthorized persons. Jurnal
+Software (Online Accounting Software) is also a secure internet connection with 2056-bit SSL
+
+176 Jurnal Ilmiah SISFOTENIKAJuly201xIJCCS
+
+Untung Rahardja, Qurotul Aini, Marviola Hardini
+
+certificate. In this research, there are 3 (three) advantages in the Jurnal Software (Online
+Accounting Software). The existence of the study expected that Jurnal Software (Online
+Accounting Software) this can improve the quality of financial reporting in the process
+recording the income report.
+Keywords—Accounting, Earnings Reports, Software Online, Jurnal
+
+1. PENDAHULUAN
+Seiring perkembangan teknologi yang semakin cepat dan perubahan terjadi begitu
+signifikan [1], kebutuhan akan hal yang berkaitan erat dengan lingkungan kehidupan semakin
+banyak [2], dalam penelitian ini pengolahan data transaksi secara manual tidak menjadi
+masalah, tetapi yang menjadi masalah apabila banyaknya transaksi yang ada diolah
+menggunakan sistem pencatatan manual. Hal tersebut akan menghambat pekerjaan, karena
+banyaknya transaksi yang harus di input, serta tahapan-tahapan yang harus dibuat, jika
+menggunakan pencatatan secara manual [3]. Yang ditugaskan dalam melakukan penyusunan
+laporan keuangan adalah seorang akuntan sebagai sarana untuk memonitor kemajuan suatu
+perusahaan atau dapat juga digunakan sebagai sarana pengambilan keputusan [4].
+Dimana suatu perubahan diperlukan dalam berbagai aspek misalkan bentuk penyajian
+informasi, sehingga informasi dapat efektif dan mudah dipahamiSumber informasi dari sebuah
+laporan keuangan banyak dijadikan pedoman dalam pengambilan sebuah keputusan bagi para
+kreditur, pengamat ekonomi, pemegang saham, dan pemerintah sesuai dengan kepentingan yang
+ada, serta merupakan pedoman perincian pada setiap prestasi operasional suatu perusahaan
+ketika Analisa Rasio Keuangan dilakukan [5]. Dengan adanya laporan keuangan maka akan
+diperoleh gambaran mengenai bagaimana perkembangan perusahaan, sehingga yang
+berkepentingan terhadap perkembangan perusahaan dapat mengadakan analisis terhadap semua
+data keuangan yang terdapat dalam laporan keuangan [6].
+Resiko terjadi kesalahan timbul ketika melakukan penyusunan laporan keuangan lebih
+besar bila dilakukan secara manual dan data pun dinilai masih kurang akurat [7], maka dari itu
+pemanfaatan teknologi informasi yaitu komputer dapat mempercepat hal yang sedang
+dikerjakan serta lebih akurat khususnya dalam perhitungan pada bidang akuntansi [8].
+Dalam setiap laporan keuangan juga harus ada yang disebut dengan Balanced atau di
+sebut pula dengan berimbang, maknanya adalah dapat membuat serta menghasilkan laporan
+keuangan yang telah terukur dari dua sudut pandang secara berimbang baik internal dan
+eksternal ataupun jangka panjang dan pendek [9].
+Laporan pendapatan yang telah diolah sedemikian rupa merupakan salah satu poin
+penting yang ada dalam ha keuangan sebagai syarat kelengkapan pembuatan laba rugi [10].
+Laporan pendapatan yang kini berjalan prosesnya masih diolah secara manual di mana seorang
+akuntan harus merekap data dari kumpulan berkas yang telah disiapkan seperti kwitansi ke
+dalam bentul exce, kemudian di hitung menggunakan kalkulator ataupun rumus yang terdapat
+dalam excel tersebut [11]. Sementara era globalisasi saat ini berkembang begitu pesat, dan
+sudah mrambah kedalam bidang akuntansi keuangan seiring dengan user yang semakin sadar
+akan pentingnya ilmu pengetahuan terutama bidang teknologi [12].
+Berbagai macam cara dapat dilakukan supaya kualitas laporan yang tersedia menjadi
+semakin meningkat salah satunya dengan memanfaatkan teknologi masa kini [13]. Dimana
+sebuah informasi laporan keuangan dikatakan bermutu tinggi apabila informasi yang digunakan
+sebagai pendukung seluruh kegiatan transaksional perseorangan ataupun perusahaan dilengkapi
+dengan pengontrolan sistem yang maksimal untuk dapat memonitor kinerja, sehingga informasi
+yang dihasilkan dan ditampilkan tersebut dapat mengantisipasi kemungkinan terjadinya suatu
+kesalahan atau kekeliruan fatal dikemudian hari [14]. Sedangkan sumber daya manusia di tuntut
+untuk bisa lebih kreatif serta bisa memanfaatkan perkembangan teknologi secara maksimal
+sesuai kebutuhan yang semakin lama semakin complicated [15].
+
+Title of manuscript is short and clear, implie
+Vol. 8, No. 2, Juli 2018 177
+
+Penerapan Software Akuntansi Online Sebagai ...
+ISSN: 1978-1520
+Dimana perubahan dirasa sangat dibutuhkan dalam berbagai aspek misalkan bentuk
+penyajian informasi, sehingga informasi dapat dinilai efektif dan dapat mudah dipahami [16].
+Jurnal adalah Software Online di bidang akuntasi dengan laporan keuangan lengkap seperti,
+neraca keuangan, arus kas, laba-rugi, dan lainnya. Jurnal dapat di akses dengan menggunakan
+WiFi atau koneksi via internet dimanapun user berada. Dengan ini, tidak lagi perlu untuk
+download atau install aplikasi apapun di komputer. Hanya perlu mendaftar, login, dan mulai
+gunakan Software tersebut sebagai pendukung usaha kapanpun, dimanapun [17].
+
+Gambar 1 Software Jurnal
+Sumber: Logo Software Jurnal, www.jurnal.id/id
+Sebagai bentuk fasilitas dalam mempermudah pencatatan laporan keuangan, telah hadir
+sebuah Software Jurnal (Software Akuntansi Online). Di mana Software Jurnal (Software
+Akuntansi Online) adalah sebuah Software yang baru lahir dan masih dalam proses
+pengembangan yang merupakan sebuah Software penunjang pencatatan laporan keuangan yang
+dapat diakses secara Online [18] sangatlah penting guna memberikan suatu solusi dan
+merupakan salah satu alat bantu yang cukup baik dalam menangani sistem yang belum optimal
+(manual) [19]. Bagi masyarakat awam khususnya para akuntan suatu perusahaan tentu dengan
+hadirnya sebuah Software akuntansi Online menjadi hal yang begitu penting karena dengan
+begitu dapat dengan mudah mengelola keuangan secara terperinci, tanpa terlewat atau terjadi
+banyak kekeliruan [20]. Salah satu metode dalam pengendalian suatu sistem berbasis Online
+ialah dengan melakukan otorisasi berdasarkan kriteria tertentu terhadap para user, pengendalian
+ini digunakan sebagai upaya pencegahan pada hal tidak di inginkan [21].
+Software Jurnal telah memikirkan hal ini dengan baik di mana data diamankan dengan
+teknologi yang setara atau lebih kuat dari yang dipakai Bank. Menggunakan encryption AES256 agar data yang ada tidak dapat dilihat oleh para pihak yang tidak berwenang. 2056-bit SSL
+certificate juga telah digunakan untuk mengamankan koneksi internet [22]. Dengan adanya
+fasilitas keamanan yang disediakan ini juga dihaarapkan dapat memberikan informasi secara
+lebih cepat dan akurat langsung ke tangan pimpinan jika telah memiliki akun. [23].
+Permasalahan pertama yang dihadapi adalah jumlah transaksi yang sangat banyak setiap
+harinya dengan proses pengolahan data yang masih secara manual. Pengolahan data tersebut
+menjadi sangat tidak efisien dan efektif, karena kemungkinan besar akan adanya kesalahan
+dalam penghitungan serta banyaknya tahapan yang harus dilakukan.
+Untuk membuktikan bahwa laporan pendapatan telah sesuai jumlahnya dengan
+transaksi yang ada maka akuntan harus membawa berkas seperti kwitansi yang membuktikan
+bahwa semua transaksi telah di input dan dilaporkan dengan baik untuk diberikan kepada kepala
+bagian keuangan agar laporan tersebut bisa di verifikasi keabsahannya. Pengecekkan data
+tersebut masih dilakukan secara manual di mana setiap harinya minimal terdapat 200 transaksi
+yang memakan waktu 6 jam untuk dilakukan penghitungan hingga mendapatkan total yang
+sesuai dan tepat.
+
+178 Jurnal Ilmiah SISFOTENIKAJuly201xIJCCS
+
+Untung Rahardja, Qurotul Aini, Marviola Hardini
+
+
+Gambar 2 Alur Pengecekkan Laporan Pendapatan
+Gambar 2. Menjelaskan bahwa untuk melakukan pengecekkan dan pencatatan
+pendapatan masih dilakukan secara manual oleh akuntan. Lalu akuntan tersebut masih harus
+menghitung kembali apakah transaksi yang telah dicatat memiliki jumlah yang sudah benar
+sesuai berkas yang ada.
+Permasalahan kedua yang dihadapi adalah pencatatan yang diproses secara manual
+dapat diubah dengan menggunakan Software akuntansi yang telah tersedia di komputer suatu
+perusahaan atau instansi yang membutuhkan, tetapi itu saja masih tidak maksimal karena jika
+ingin mengerjakan laporan maka akuntan harus ke kantor atau menginstal Software yang
+dibutuhkan terlebih dahulu sehingga kemungkinan besar menjadi sangat memakan waktu yang
+banyak.
+Dan permasalahan yang terakhir adalah ketika laporan keuangan yang berbentuk
+dokumen fisik atau kertas telah selesai dibuat dan dilaporkan kepada kepala bagian keuangan
+maka jika ada kesalahan akan memakan banyak kertas untuk membuat laporan yang baru, hal
+itu sangat membuang-buang kertas dan juga berakibat besar terhadap lingkungan.
+2. METODE PENELITIAN
+Metode Penelitian yang digunakan pada penelitian ini mengacu pada 2 (dua) teknik
+pengumpulan data, yaitu:
+a. Metode Studi Pustaka, dimana metode ini berguna untuk mengetahui informasi dari
+berbagai sumber literature seperti jurnal, buku, internet, makalah, dan sebagainya yang
+berkaitan erat dengan penelitian dimana bermanfaat sebagai referensi, serta mengetahui
+ruang lingkup penelitian yang memiliki kesamaan di bidang akuntansi ini., adapun referensi
+dalam pembuatan jurnal ini:
+1) Penelitian ini dilakukan oleh Susan Rachmawati dan Nurjanah (2017) yang berjudul
+“Implementasi Data Keuangan Dengan Zahir Accounting Pada PT. Anugerah Analisis
+Sempurna”. Penelitian ini menjelaskan tentang penggunaan Zahir Accounting Versi 5.1
+yang dapat menjadi upaya pemecahan masalah dalam pengolahan data keuangan pada
+PT Anugerah Analisis Sempurna. Mengurangi kesalahan dalam pengolahan data
+yang dilakukan dan dapat mempercepat proses pengolahan data akuntansi [24].
+
+Title of manuscript is short and clear, implie
+Vol. 8, No. 2, Juli 2018 179
+
+Penerapan Software Akuntansi Online Sebagai ...
+ISSN: 1978-1520
+2) Penelitian ini dilakukan oleh Sri Maharsi (2000) yang berjudul “Pengaruh
+Perkembangan Teknologi Terhadap Bidang Akuntansi Manajemen”. Penerapan
+teknologi informasi mengakibatkan banyak perubahan pada bidang akuntansi
+manajemen. Dimana setiap perkembangan kegiatan perusahaan harus disesuaikan
+dengan Akuntansi Manajemen [25].
+3) Penelitian ini dilakukan oleh Dini Hari Pertiwi (2015) yang berjudul “Perancangan
+Sistem Informasi Aset Tetap Perusahaan Menggunakan Metode Pengembangan
+Evolusioner”. Perancangan sistem informasi aset tetap perusahaan ini membantu pihak
+perusahaan dalam perhitungan nilai investasi terhadap suatu aset tetap yang dimiliki
+oleh perusahaan karena perhitungan penyusutan aset prosesnya terdapat dalam sistem
+informasi [26].
+4) Penelitian ini dilakukan oleh Ni Made Sri Rukmiyati dan I Ketut Budiartha (2016) yang
+berjudul “Pengaruh Kualitas Sistem Informasi, Kualitas Informasi dan Perceived
+Usefulness Pada Kepuasan Pengguna Akhir Software Akuntansi (Studi Empiris Pada
+Hotel Berbintang di Bali)”. Di mana penelitian yang dilakukan menunjukkan bahwa
+semua variabel bebas merupakan suatu bagian penjelas yang sangat signifikan pada
+variabel terikat, sehingga penelitian ini layak menggunakan metode tersebut. Dan dari
+tiga hipotesis yaitu pengaruh kualitas perceived usefulness, informasi, dan kualitas
+sistem informasi yang telah diuji ternyata sangat berpengaruh positif terhadap tingkat
+kepuasan yang dirasakan oleh pengguna Software akuntansi [27].
+5) Penelitian ini dilakukan oleh Rizki Rudiantoro dan Sylvia Veronica Siregar (2012) yang
+berjudul “Kualitas Laporan Keuangan UMKM Serta Prospek Implementasi SAK
+ETAP”. Dalam penelitian ini disimpulkan bahwa pelaporan keuangan dan pembukuan
+adalah hal yang memiliki kendali penting dalam perkembangan dan pertumbuhan suatu
+usaha. Sedangkan kualitas laporan keuangan UMKM sendiri saat ini masih terbilang
+rendah [28].
+6) Penelitian ini dilakukan oleh Taufik Saleh, Darwanis, dan Usman Bakar yang berjudul
+“Pengaruh Kualitas Sistem Informasi Terhadap Kualitas Informasi Akuntansi Dalam
+Upaya Meningkatkan Kepuasan Pengguna Software Akuntansi Pada Pemerintah Aceh”.
+Dapat disimpulkan bahwa penelitian ini menjelaskan bahwa tingkat kepuasan
+penggunaan Software akuntansi sangat berpengaruh terhadap kualitas laporan keuangan
+yang dihasilkan. Di mana informasinya harus akurat, mudah dipahami, detil dan tepat
+waktu [29].
+7) Penelitian ini dilakukan oleh Aria Weharima yang berjudul “Manfaat Akuntansi
+Pertanggungjawaban Sebagai Alat Bantu Bagi Manajemen Dalam Menunjang
+Efektivitas Pengendalian Biaya Pemasaran”. Dengan penggunaan akuntansi secara
+maksimal dapat sangat bermanfaat terhadap pengendalian efektivitas biaya pemasaran
+supaya bisa bersaing dengan perusahaan lainnya [30].
+b. Metode Observasi (Pengamatan Langsung), metode ini merupakan sebuah pengamatan pada
+sistem yang berkaitan dengan penelitian yang sedang dilakukan. Sehingga data yang
+terkumpul dapat digunakan sebagai informasi lebih lanjut mengenai siklus keuangan serta
+dapat menghasilkan sebuah laporan untuk menerapkan sebuah sistem akuntansi yang
+optimal.
+
+3. HASIL DAN PEMBAHASAN
+Sudah dijelaskan pada permasalahan di atas poin utama dari masalah yang ada yaitu
+proses pencatatan laporan yang masih manual dan masih memungkinkan adanya kesalahan
+nominal, maka dapat disimpulkan pemecahan masalah nya digunakanlah sebuah Software
+Jurnal (Software Akuntansi Online) dengan alur sebagai berikut:
+
+180 Jurnal Ilmiah SISFOTENIKAJuly201xIJCCS
+
+Untung Rahardja, Qurotul Aini, Marviola Hardini
+
+
+Gambar 3 Alur Masuknya Data Pada Software Jurnal
+Gambar 3. Merupakan alur sistem di Software Jurnal dan dari alur tersebut dapat
+dijelaskan bahwa untuk melakukan proses pencatatan pendapatan dapat dilakukan secara Online
+dan cepat.
+Dengan adanya Software Jurnal proses pencatatan pendapatan dapat dilakukan secara
+Online dan mandiri oleh akuntan. Sehingga kapanpun dan di manapun dapat dilakukan
+pencatatan pendapatan dengan cepat, kemudian laporan tersebut akan diverifikasi ketepatannya
+oleh kepala bagian keuangan. Lalu mulai diterapkanlah sebuah Software akuntansi Online
+dengan nama Jurnal (Software Akuntansi Online).
+
+Gambar 4 Tampilan Dashboard Jurnal
+Gambar 4. Tampilan dashboard Jurnal berisi informasi semua laporan keuangan dengan
+data yang telah di input ke dalam Jurnal.
+Menu penjualan yang terdapat didalam Software Jurnal sudah diimplementasikan di
+Yayasan Nirwana Nusantara dalam mendukung pelaksanaan pencatatan laporan keuangan
+maupun memonitor keuangan salah satunya laporan pendapatan. Kepala bagian keuangan,
+
+Title of manuscript is short and clear, implie
+Vol. 8, No. 2, Juli 2018 181
+
+Penerapan Software Akuntansi Online Sebagai ...
+ISSN: 1978-1520
+akuntan atau siapa pun yang telah memiliki akun dalam Jurnal dapat melihat dan membaca
+bahkan mengolah data transaksi yang ada dimulai dari menyiapkan data transaksi berupa excel,
+akses Software Jurnal dengan menggunakan akun yang sudah terdaftar, mengakses menu
+penjualan yag terdapat dalam Jurnal, memilih menu import data, menyesuaikan data supaya siap
+untuk di import dengan template yang telah disediakan oleh Jurnal, memastikan data yang akan
+diimport sudah benar, kemudian import data transaksi tersebut, dan setelah selesai diimport
+akan ditampilkan semua data transaksi yang telah terimport dengan rapi. Berikut akan
+dijabarkan beberapa contoh hasil dari uji coba dan implementasi Software Jurnal berdasarkan
+data transaksi factual yang ada pada database Software Jurnal sebagai tempat penelitian dan uji
+coba dilaksanakan.
+1)
+
+Tampilan Home dari Jurnal
+
+Gambar 5 Tampilan home pada Jurnal
+Gambar 5. Merupakan tampilan dari home Jurnal yang digunakan untuk dapat masuk ke
+dalam program Jurnal tersebut.
+2)
+
+Tampilan Login dari Jurnal
+
+Gambar 6 Tampilan login pada Jurnal
+
+182 Jurnal Ilmiah SISFOTENIKAJuly201xIJCCS
+
+Untung Rahardja, Qurotul Aini, Marviola Hardini
+
+Gambar 6. Merupakan tampilan login Jurnal dengan menggunakan email serta
+password yang sudah terdaftar.
+3)
+
+Tampilan menu penjualan dari Jurnal
+
+Gambar 7 Merupakan tampilan menu penjualan pada Jurnal
+Gambar 7. Di dalam Jurnal terdapat 15 tab yang dapat di akses oleh para user pemilik
+akun Jurnal di mana salah satunya merupakan tab penjualan yang digunakan untuk melakukan
+pencatatan pendapatan.
+4)
+
+Tampilan saat data di input ke program
+
+Gambar 8 Tampilan proses input data kedalam program Jurnal.id
+Gambar 8. Pada gambar tersebut di butuhkan data dari bagian kasir agar dapat terdata
+kedalam program, sesuai dengan pembayaran yang dilakukan oleh setiap mahasiswa, kemudian
+jika data sudah dipastikan benar maka kita dapat menekan tombol “buat penjualan” supaya data
+yang kita masukan dapat tercatat dengan baik di dalam program.
+5)
+
+Tampilan transaksi yang telah di input ke dalam Jurnal
+
+Title of manuscript is short and clear, implie
+Vol. 8, No. 2, Juli 2018 183
+
+Penerapan Software Akuntansi Online Sebagai ...
+ISSN: 1978-1520
+
+Gambar 9 Tampilan transaksi setelah tercatat ke dalam Jurnal
+Gambar 9. Transaksi yang sudah di input ke dalam Software Jurnal akan ditampilkan
+dengan menyertakan info nama mahasiswa, tanggal, nomor transaksi, jenis pendapatan,
+kuantitas, jumlah pendapatan nya.
+6)
+
+Tampilan daftar pendapatan dari Jurnal
+
+Gambar 10 Tampilan daftar pendapatan pada Jurnal
+Gambar 10. Semua yang memiliki akses ke menu laporan dapat mengakses daftar
+penjualan dan menentukan transaksi yang ingin ditampilkan sesuai dengan periode laporan
+pendapatan yang user tentukan.
+7)
+
+Tampilan laporan laba rugi
+
+184 Jurnal Ilmiah SISFOTENIKAJuly201xIJCCS
+
+Untung Rahardja, Qurotul Aini, Marviola Hardini
+
+
+Gambar 11 Tampilan laporan laba rugi dalam program Jurnal
+Gambar 11. Tampilan tersebut berasal dari data penjualan yang sudah di masukan ke
+dalam program, data penjualan yang sudah tercatat tertulis sebagai laporan pendapatan atau
+laba.
+4. KESIMPULAN
+Dengan adanya implementasi Software Jurnal sebagai Softwafre Akuntansi Online,
+dapat diambil 3 (tiga) kesimpulan sebagai berikut:
+a. Adanya Software Jurnal (Software Akuntansi Online) dinilai dapat mempermudah akuntan
+dalam menginput data transaksi ke dalam sistem, di mana data transaksi tersebut dapat
+langsung di import ke dalam sistem sehingga lebih efisien
+b. Adanya Software Jurnal (Software Akuntansi Online) dinilai dapat mengurangi banyaknya
+penggunaan kertas untuk membuat sebuah laporan keuangan apabila terdeteksi kesalahan.
+Karena akuntan hanya tinggal mengedit data yang salah, maka data tersebut akan dihitung
+kembali secara otomatis untuk dijadikan sebuah laporan keuangan
+c. Pengamanan data yang digunakan dalam Software Jurnal ini sangat baik sehingga
+kerahasiaan data dapat dipastikan tersimpan dengan baik, tidak perlu lagi khawatir data
+akan di ambil dan di sabotase oleh orang lain karena hanya pemilik akun yang dapat
+mengakses data
+
+5. SARAN
+Berdasarkan penjelasan dari hasil penelitian yang telah di jabarkan sebelumnya oleh
+penulis, maka dapat disimpulkan dari penjelasan tersebut bahwa terdapat 2 (dua) saran antara
+lain:
+a. Pemanfaatan pada Software Jurnal (Software Akuntansi Online) ini lebih di maksimalkan
+lagi, karena masih terdapat 14 tab lain yang dapat di telaah serta dilakukan penelitian secara
+mandiri sebagai optimalisasi penggunaan sistem yang telah mumpuni.
+b. Terkait dengan dilakukan nya pengembangan sistem, maka penambahan fitur pasti akan
+tersedia dalam sistem tersebut sehingga dibutuhkan penelitian lain yang dapat menelaah
+serta melakukan implementasi yang optimal terhadap perkembangan yang ada termasuk di
+dalam menu penjualan dalam penelitian ini.
+
+UCAPAN TERIMA KASIH
+Penulis mengucapkan terima kasih kepada pihak yang telah bersedia membantu dalam
+penelitian ini, terutama kepada Tuhan Yang Maha Esa, karena berkat rahmat dan hidayah-Nya
+
+Title of manuscript is short and clear, implie
+Vol. 8, No. 2, Juli 2018 185
+
+Penerapan Software Akuntansi Online Sebagai ...
+ISSN: 1978-1520
+penelitian ini dapat berjalan dengan lancar, serta kepada Perguruan Tinggi Raharja yang telah
+memberi dukungan financial terhadap penelitian ini.
+
+DAFTAR PUSTAKA
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+[7]
+
+[8]
+
+[9]
+
+[10]
+[11]
+
+[12]
+
+[13]
+[14]
+
+Rahardja, U., Harahap, E. P., & Pratiwi, S. (2018). Pemanfaatan Mailchimp Sebagai
+Trend Penyebaran Informasi Pembayaran Bagi Mahasiswa Di Perguruan Tinggi.
+Technomedia Journal, 2(2), 38-51.
+Wardana, W. S., Raharja, U., & Lutfiani, N. (2018). Penjadwalan Agenda Pelaksanaan
+Tridharma Perguruan Tinggi Secara Online Menggunakan Google Calendar. Jurnal
+Teknoinfo, 12(2), 29-34.
+Andriani, L., Atmadja, A. T., & Sinarwati, N. K. (2014). Analisis Penerapan Pencatatan
+Keuangan Berbasis Sak Etap Pada Usaha Mikro Kecil Menengah (Umkm)(Sebuah Studi
+Interpretatif Pada Peggy Salon). JIMAT (Jurnal Ilmiah Mahasiswa Akuntansi) Undiksha,
+2(1).
+Handayani, I., Aini, Q., & Oktaviani, F. (2016). PENERAPAN SISTEM VALIDASI
+JURNAL DI PESSTA+ SEBAGAI PENILAIAN ARTIKEL ILMIAH DALAM
+MENDUKUNG KEGIATAN CIVITAS AKADEMIKA. CSRID (Computer Science
+Research and Its Development Journal), 8(3), 177-190.
+Wibowo, H. A., & Pujiati, D. (2011). Analisis Rasio Keuangan dalam Memprediksi
+Perubahan Laba Pada Perusahaan Real Estate dan Property di Bursa Efek Indonesia (BEI)
+dan Singapura (SGX). The Indonesian Accounting Review, 1(02), 155-178.
+Dewi, A. S. M., & Wirajaya, A. (2013). Pengaruh struktur modal, profitabilitas dan
+ukuran perusahaan pada nilai perusahaan. E-Jurnal Akuntansi, 358-372.
+Komarasari, W. (2017). Pengaruh kapasitas sumber daya manusia, pemanfaatan teknologi
+informasi dan pengendalian intern akuntansi terhadap keterandalan pelaporan keuangan
+daerah (Pada SKPD Kabupaten Bantul Bagian Akuntansi dan Keuangan). Prodi
+Akuntansi UPY.
+Septiawan, O., & Amanah, L. (2018). FAKTOR–FAKTOR YANG MEMPENGARUHI
+KETERANDALAN PELAPORAN KEUANGAN DAERAH. Jurnal Ilmu dan Riset
+Akuntansi, 6(11).
+Untung, R., Muhamad, Y., & Eva, R. Optimalisasi Key Performance Indicators (KPI)
+Melalui Pendekatan Balance Scorecard Upaya Mengimplementasikan Performance
+Management System (PMS) Pada Perguruan Tinggi. CCIT Journal ISSN, 6(2).
+Jurnal, “Menu Home“, https://www.jurnal.id/id diakses tgl 9 Maret 2017
+Inanda, S. (2007). Analisis Laporan Keuangan Sebagai Alat Penilaian Kinerja Keuangan
+Pada PT. Pertamina EP. Area Rantau-Aceh Tamiang. Analisis Laporan Keuangan
+Sebagai Alat Penilaian Kinerja Keuangan Pada PT. Pertamina EP. Area Rantau-Aceh
+Tamiang.
+WINARNO, J. (2003). PENGEMBANGAN SISTEM INFORMASI PEMBAYARAN
+PASIEN RAWAT INAP ON-LINE UNTUK PEMANTAUAN PENDAPATAN
+FUNGSIONAL DI RUMAH SAKIT ORTOPEDI PROF. DR. R. SOEHARSO
+SURAKARTA (Doctoral dissertation, PROGRAM PASCASARJANA UNIVERSITAS
+DIPONEGORO).
+Rahardja, U., Aini, Q., & Meytasari, R. (2017). Pemanfaatan Fungsi Etalase Artikel
+Untuk Meningkatkan Traffic Rank Website ZPreneur. Technomedia Journal, 1(2), 75-89.
+Kuntoro, P. T., Untung, R., & Siti, C. (1978). Pengontrolan Mutu Sistem Informasi
+Dengan Metode Database Self Monitoring. CCIT Journal ISSN, 8282.
+
+186 Jurnal Ilmiah SISFOTENIKAJuly201xIJCCS
+
+Untung Rahardja, Qurotul Aini, Marviola Hardini
+
+[15] Rahardja, U. (2007). Analisis Kelayakan Investasi Digital Dashboard pada Manajemen
+Akademik Perguruan Tinggi: Studi Kasus pada Perguruan Tinggi Raharja. Fakultas Ilmu
+Komputer. Universitas Indonesia, Jakarta.
+[16] Rahardja, U., Aini, Q., & Santoso, N. P. L. (2018). Pengintegrasian YII Framework
+Berbasis API pada Sistem Penilaian Absensi. SISFOTENIKA, 8(2), 140-152.
+[17] Jurnal., “Menu About“, https://www.jurnal.id/id/about_us diakses tgl 9 Maret 2017.
+[18] Rahardja, U., Aini, Q., & Zuliana, S. R. (2016). METODE LEARNING
+MANAGEMENT SYSTEM (LMS) IDU UNTUK MENDUKUNG KEGIATAN
+BELAJAR MENGAJAR MIT PADA PERGURUAN TINGGI RAHARJA. CICES
+Journal, 2(2), 156-172.
+[19] Rahmani, A, 2018, Kenali 7 Ciri-Ciri Ini Sebelum Memilih Software Akuntansi Online,
+https://www.jurnal.id/id/blog/2018/kenali-7-ciri-ciri-ini-sebelum-memilih-softwareakuntansi-online diakses tgl 23 Mei 2018.
+[20] Rahardja, U., Dewi, E.N. and Lutfiani, N., 2017. Peningkatan Rank Webometrics
+Menggunakan Metode Inbound Dan Outbound Pada Perguruan Tinggi. Sisfotenika, 7(1).
+[21] Guritno, S., Rahardja, U., & Setiatmi, V. (2008). ACCESS RESTRICTION SEBAGAI
+BENTUK PENGAMANAN DENGAN METODE IP TOKEN. CCIT Journal, 1(3), 197207.
+[22] Jurnal,
+“Seaman
+apakah
+data-data
+saya
+dengan
+Jurnal
+online?”,
+https://www.jurnal.id/id/pricing diakses tgl 9 Maret 2017.
+[23] Rahardja, U., Aini, Q., & Enay, N. (2017). Optimalisasi Dashboard pada Sistem Penilaian
+Sebagai Media Informasi di Perguruan Tinggi. Sisfotenika, 7(2), 167-176.
+[24] Rachmawati, S., & Nurjanah, N. (2017). IMPLEMENTASI DATA KEUANGAN
+DENGAN ZAHIR ACCOUNTING PADA PT. ANUGERAH ANALISIS SEMPURNA.
+JURNAL AKUNTANSI, EKONOMI dan MANAJEMEN BISNIS, 5(2), 267-273.
+[25] Maharsi, S. (2004). Pengaruh Perkembangan Teknologi Informasi Terhadap Bidang
+Akuntansi Manajemen. Jurnal Akuntansi dan keuangan, 2(2), 127-137.
+[26] Pertiwi, D. H. (2015). Perancangan Sistem Informasi Aset Tetap Perusahaan
+Menggunakan Metode Pengembangan Evolusioner. CSRID (Computer Science Research
+and Its Development Journal), 7(2), 105-112.
+[27] Rukmiyati, N. M. S., & Budiartha, I. K. (2016). Pengaruh Kualitas Sistem Informasi,
+Kualitas Informasi dan Perceived Usefulness pada Kepuasan Pengguna Akhir Software
+Akuntansi (Studi Empiris pada Hotel Berbintang di Provinsi Bali). E-Jurnal Ekonomi dan
+Bisnis Universitas Udayana.
+[28] Rudiantoro, R., & Siregar, S. V. (2012). Kualitas laporan keuangan umkm serta prospek
+implementasi SAK ETAP. Jurnal Akuntansi dan Keuangan Indonesia, 9(1), 1-21.
+[29] Saleh, T., & Darwanis, U. B. (2012). Pengaruh Kualitas sistem Informasi terhadap
+kualitas informasi akuntansi dalam upaya meningkatkan kepuasan pengguna software
+akuntansi pada pemerintah Aceh. Jurnal Akuntansi ISSN, 2302, 0164.
+[30] Weharima, A. (2006). Manfaat Akuntansi Pertanggungjawaban Sebagai Alat Bantu Bagi
+Manajemen Dalam Menunjang Efektivitas Pengendalian Biaya Pemasaran (Studi Kasus
+pada PT. PLN Unit Bisnis Distribusi Jabar dan Banten) (Doctoral dissertation,
+Universitas Widyatama).
+
+Title of manuscript is short and clear, implie
+Vol. 8, No. 2, Juli 2018 187
+
+

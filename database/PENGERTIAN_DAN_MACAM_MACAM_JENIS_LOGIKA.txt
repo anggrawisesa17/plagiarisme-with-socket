@@ -1,0 +1,221 @@
+PENGERTIAN DAN MACAM-MACAM JENIS
+LOGIKA INFORMATIKA
+
+Toha Mutholib , B.Herawan Hayadi ,Muhammad Ropianto
+Information Engineering Program, University of Ibnu Sina, Indonesia
+1710@uis.ac.id17101282620012@uis.ac.idb.herawan.hayadi@gmail.com,ropianto@uis.ac.id
+
+BAB I
+PENDAHULUAN
+1.
+
+Latar Belakang
+
+Logika memegang peranan yang sangat penting di bidang ilmu komputer. Peran
+kalkulus (matematika) sama pentingnya untuk ilmu-ilmu bidang sains, misalnya
+ilmu fisika, ilmu elektronika, ilmu kimia, dan sebagainya. Oleh karena itu, biasanya
+pelajar, mahasiswa, guru, dan dosen setuju bahwa logika memainkan peranan
+penting dalam berbagai bidang keilmuan, bahkan dalam kehidupan manusia seharihari.Logika, komputasi sytem, dan matematika diskrit memiliki peran penting
+dalam ilmu komputer karena semuanya berperan dalam pemrograman. Cakupan
+bidang informatika antara lain: ilmu komputer, ilmu informasi, sistem informasi,
+teknik komputer dan aplikasi informasi dalam sistem informasi manajemen. Logika
+dapat meningkatkan kemampuan berpikir secara abstrak, cermat, dan objektif serta
+menambah kecerdasan dan meningkatkan kemampuan berfikir secara tajam dan
+mandiri
+
+2.
+
+Tujuan
+
+1.
+
+Untuk mengetahui pengertian logika informatika
+
+2.
+
+Untuk mengetahui macam macam logika informatika dan pengertiannya
+
+3.
+
+Rumusan Masalah
+
+1.
+
+Apa pengertian logika informatika ?
+
+2. Apa saja macam macam logika informatika ?
+
+4.
+
+Metode
+
+Akan dibahas tentang pengertian dan macam-macaam jenis data
+
+BAB II
+PEMBAHASAN
+2.1
+
+Pengertian logika informatika
+
+Logika Informatika adalah disiplin ilmu yang mempelajari transformasi data
+maupun informasi pada mesin berbasis komputasi dengan penalaran sehingga
+didapat suatu kesimpulan atau konklusi.
+Logika Informatika berasal dari bahasa Yunani yang berarti “Logos”. Dalam
+bahasa Inggris biasa diartikan dengan “Word”, “Speech” atau lebih biasa kita kenal
+lagi dengan istilah “Thought” atau “Reason”. Oleh karena itu definisi Logika ialah
+ilmu pengetahuan yang mempelajari atau berkaitan dengan prinsip-prinsip dari
+penalaran argument yang valid. Para ahli setuju bahwa Logika adalah studi tentang
+kriteria-kriteria untuk mengevaluasi argument-argumen dengan menentukan mana
+argumen yang valid dan membedakan antara argumen yang baik dan argumen yang
+tidak baik. Semula logika dipelajari sebagai salah satu cabang filosofi atau ilmu
+filsafat. Manusia mampu mengembangkan pengetahuan karena mempunyai bahasa
+dan
+
+kemampuan
+
+menalar.
+
+Untuk dapat menarik konklusi yang tepat, diperlukan kemampuan menalar.
+kemampuan menalar adalah kemampuan untuk menarik konklusi yang tepat dari
+bukti-bukti yang ada, dan menurut aturan-aturan tertentu. Logika bisa merupakan
+cabang filosofi dan bisa juga cabang dari matematika. Logika terkategori
+matematika murni karena matematika adalah logika yang tersistematisasi.
+
+Namun, sejak tahun 1800-an logika dipelajari dibidang matematika dan sekarang
+ini juga dibidang ilmu komputer, karena logika juga mempengaruhi ilmu komputer
+dibidang perangkat keras (hardware) maupun perangkat Lunak (software). Logika
+disini disebut logika simbol karena ia mempelajari usaha-usaha mensimbolisasikan
+usaha-usaha secara formal.
+
+Oleh karena itu, logika juga disebut dengan logika formal (formal logic).
+Aristoteles adalah orang pertama yang mengobservasi, meneliti dan mencatat
+
+hukum-hukum dari logika formal, khususnya bentuk penalaran yang disebut
+Silogisme yang terdiri dari beberapa premis dan satu konklusi. Logika yang
+dikembangkan oleh Aristoteles ini disebut Juga logika klasik atau logika
+Aristoteles.
+Ada beberapa istilah yang akan digunakan dalam logika informatika yaitu :
+1. Premis : yaitu sebuah pernyataan
+2. Argumen : usaha untuk mencari kebenaran dari premis berupa kesimpulan
+3. Konklusi : Kesimpulan
+
+2.2
+
+Model Logika
+
+Model logika adalah alat untuk menceritakan program dalam rangka membantu
+pelaksanaan evaluasi. Ada sebuah istilah yang sering disebut-sebut dalam berbagai
+disiplin ilmu termasuk dalam kebijakan publik, yakni model logika (logic
+model atau intervention logic). Secara umum, seperti yang dikutip
+oleh Montano, logic model dimaksudkan sebagai alat dan proses untuk memahami
+dan memperjelas hubungan secara visual antara tindakan dan hasil yang diharapkan
+untuk suatu program.
+Logic model digunakan pemerintah untuk memperkirakan rangkaian hasil yang
+dihasilkan oleh sebuah kebijakan dalam rangka mencapai dampak yang diharapkan.
+Hasil yang terjadi biasanya tidak hanya tunggal tetapi bertahap.
+Sebagai contoh, untuk mengurangi peluang kecelakaan di sebuah jalan di
+pemukiman warga, diambillah sebuah kebijakan membuat polisi tidur (speed
+bump).
+
+2.3.
+
+MACAM MACAM LOGIKA INFORMATIKA
+
+Menurut buku E. Sumaryono secara hakiki logika dapat dibedakan menjadi 2
+macam yaitu :
+a. Logika Alamiah
+Logika alamiah adalah kinerja akal budi manusia yang berpikir secara tepat
+dan lurus sebelum dipengaruhi oleh keinginan-keinginan dan kecenderungan –
+kecenderungan yang subyektif. Kemampuan logika alamiah manusia ada sejak
+lahir. Hukum hokum logika yang dibawa sejak lahir ini memungkinkan manusia
+dapat bekerja dan bertindak baik secara spontan maupun disengaja. Tetapi hokum
+
+hokum logika ini hanya dapat membantu manusia dalam menghadapi hal hal
+keseharian yang bersifat rutin dan sepele.Bila manusia mulai dihadapkan pada
+maalah-masalah yang sulit maka logika alamiah dengan hokum hokum akal
+sehatnya sudah tidak dapat diandalkan.
+
+b. Logika Ilmiah
+Logika ilmiah memperhalus, mempertajam pikiran serta akal budi. Logika
+ilmiah menjadi ilmu khusus yang merumuskan azas-azas yang harus ditepati dalam
+setiap pemikiran. Berkat pertolongan logika ilmiah inilah akal budi dapat bekerja
+dengan lebih tepat, lebih teliti, lebih mudah dan lebih aman.. Logika ilmiah dapat
+dikatakan rasional atau masuk akal karena dalam logika ilmiah telah Adanya akal
+sehat yang mendalami penelitian ilmiah dengan berbagai alasan yang berasal dari
+Pemikiran itu sendiri. Jenis logika ini mampu membekali manusia dengan prinsip
+prinsip, \norma-norma yang apabila dipatuhi secara sungguh maka ketepatan proses
+penalaran beserta keabsahan kesimpulan yang dapat dipertanggungjawabkan.
+
+2.4
+
+Manfaat Logika
+
+1.
+
+Membantu setiap orang yang mempelajari logika untuk berpikir secara
+rasional, kritis, lurus, tetap,tertib, metodis dan koheren
+
+2.
+
+Meningkatkan kemampuan berpikir secara abstrak, cermat, dan objektif
+
+3.
+
+Menambah kecerdasan dan meningkatkan kemampuan berpikir secara tajam
+dan mandiri.
+
+4.
+
+Memaksa dan mendorong orang untuk berpikir sendiri dengan menggunakan
+azas-azas sistematis
+
+5.
+
+Meningkatkan cinta akan kebenaran dan menghindari kesalahan-kesalahan
+berpikir, Kekeliruan serta kesesatan.
+
+6.
+
+Mampu melakukan analisis terhadap suatu kejadian.
+
+BAB III
+
+PENUTUP
+
+1. KESIMPULAN
+Dari penjelasan diatas bisa disimpulkan mengenai peran penting logika dalam
+ilmu komputer. Jauh sebelum matematika berkembang seperti sekarang ini dan
+penerapannya menyentuh hampir seluruh bidang ilmu pengetahuan modern,
+ilmuwan dan filosof yunani telah mengembangkan dasar pemikiran ilmu geometri
+dan logika Jika seseorang ingin mempelajari ilmu komputer, maka ia tidak bisa
+terlepas dari masalah logika. Melalui logika kita dapat menegetahui suatu
+pernyataan benar atau salah. Oleh karena itu, logika matematika dipelajari secara
+formal di perguruan tinggi, khususnya dalam ilmu computer.
+
+2. SARAN
+Dengan penyusunan makalah ini penulis berharap penegetahuan mengenai
+logika informatika dapat diaplikasikan dalam kehidupan atau dapat digunakan
+dalam banyak aspek kehidupan. Hal terpenting yang akan didapatkan setelah
+mempelajari logika adalah kemampuan memahami pengertian dan macam-macam
+logika informatika.
+
+DAFTAR PUSTAKA
+Maran,Rafael Raga.(2015).Pengantar Logika.Jakarta:Grasindo
+Masdi. (2016).Daros Logika. Kudus:STAINPRESS.
+Rahman, A., Ropianto, M.,& kom, M. Perancangan Aplikasi Rental Mobil
+Mainan Anak Berbasis Web.
+
+Ropianto, M. (2016).PemahamanPenggunaan Unified Modelling Language.
+JurnalTeknikIbnuSina (JT-IBSI), 1(01).
+Ropianto, M., Rukun, K., Hardianto, M., Hayadi, B. H., Mesterjon, M.,
+Utami, F. H., &Candra, M. O. (2017, September).Optimization of Strategic
+Planning Organization in the Framework of Achievement Objectives of
+Education.In 2nd International Conference on Education, Science, and Technology
+(ICEST 2017). Atlantis Press.
+Rukun, K., Permatasari, R. D. P., &Hayadi, B. H. (2019, November).
+Development of Digital Information Management Learning Media Based on Adobe
+Flash in Grade X of Digital Simulation Subject. In Journal of Physics: Conference
+Series (Vol. 1363, No. 1, p. 012066). IOP Publishing.
+Surajiya, dkk.(2017).Dasar-Dasar Logika. Jakarta:PT Bumi Aksara.
+
+

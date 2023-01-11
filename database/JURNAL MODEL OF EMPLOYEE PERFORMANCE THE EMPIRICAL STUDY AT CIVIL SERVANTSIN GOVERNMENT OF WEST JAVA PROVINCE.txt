@@ -1,0 +1,620 @@
+IJER © Serials Publications
+13(3), 2016: 707-719
+ISSN: 0972-9380
+
+MODEL OF EMPLOYEE PERFORMANCE :
+THE EMPIRICAL STUDY AT CIVIL SERVANTS
+IN GOVERNMENT OF WEST JAVA PROVINCE
+Nandan Limakrisna1, Zulki Zulkifli Noor2 and Hapzi Ali3
+
+Abstract: The purpose of this research is to analyze and get empirical evidenceof
+organizational culture, organizationalclimate influence, and leadership style on
+organizational commitment and it’s implication the civil servants performance inlocal
+government, West Java Province partially and or jointly. The population of governmentcivil
+servant in this research amounted 6314 people. Research method used in this research is
+descriptive survey methods and survey explanatory with sample size use the regulation
+1 : 5 of 200 respondents, and data analysis methods that used was SEM (Structural Equation
+Modeling). Research results showed that organizational culture, or ganizational climate
+and leadership style partially and jointly have positive and significant impact on
+organizational commitment with influence of 55 percent while the rest of 45% was
+contributed by other factors, but partially organizational culture most dominant have an
+effect on to organizational commitment. Organizational culture, organizational climate and
+organizational commitment partially and jointly have positive and significant impact to
+the performance officials’ of 80% while 20% the rest was contributed by other factors, but
+partially organizational commitment partially most dominant influence to the employee
+performance.
+Keywords: Organizational culture, Organizational climate, Leadership style, Organizational
+commitment, Employee performance.
+
+1. INTRODUCTION
+Indonesia is the one of country that has the fourth number most people in the world
+after China, India, and USA. That indicates there is a great potential human resource
+development, especially if the quality of human resources’ increased, so it will give a
+significant support for the progress Indonesia’s development. Indonesian human
+resources is abundant and is the basis of national development in all fields, therefore
+1
+2
+3
+
+Doctor of Management, Economy Faculty, University of Persada Indonesia YAI, Jakarta, Indonesia
+Economic Faculty, University of Winayamukti, Bandung. Indonesia.
+Economic Faculty, University of Mercubuana , Jakarta. Indonesia.
+
+708
+
+Nandan Limakrisna, Zulki Zulkifli Noor and Hapzi Ali
+
+the Indonesian government since the new order has pioneered an increase in the
+productivity of human resources, namely by increasing the performance of human
+resources itself . The launching of the program is based on the idea that productivity
+determines the formation of a national growth rate of the index as well as the most
+sensitive indicator of economizing process and as a primary gauge of economic
+progress of a nation.
+Remember that human factor is a prime mover for a total resources to others in
+improving productivity, which also become a challenge in Long-term Development
+Second Stage (PJPT II) is human resource development that was qualified to have a
+high level of performance in every sector development and have the horizon
+perspective intellective in that area. The Challenge this requires a change in
+management attitude to labor, if all labor are seen as short-term costs (short capitals)
+but for now seen as long-term investment whose existence is required for smooth
+such organizations. Along with the development of technology and economy, the role
+people not only limited as supervisor labor that comes from physical strength, but the
+more important is that can use the horizon thinkin to plan and productive activities.
+Then in the face globalization era, his splendor effort to improve its human
+resources, various cases and issues that indicate symptoms experienced quality. Abuse
+of position, a decrease in discipline, and various other irregularities such as the
+recruitment of civil servant officer (PNS) which is not an end, the career path of non
+- transparent, the proliferation of corruption and collusion, so normatively considered
+improper behavior, it sticks through the surface of news from various so that the mass
+media consumption .
+Many experts are trying to unravel reasons why civil servants have poor
+performance. The average of the opinions of experts lead to the theory of Maslow’s
+needs , which concludes that a person would do or not do something very dependent
+on needs (needs ), if someone felt the need and can fulfill their needs by doing an
+activity, it will perform the activity with all the potential it has. However, if an activity
+does not significantly affect the life, it tends not to be done. If the theory is applied to
+civil servants, less will be able to respond why civil servants have poor performance,
+which in turn affects the performance of the government.
+Law No. 32 of 2004 on local government article 129, which reads : Paragraph (2)
+Civil Service management area as referred to in paragraph (1) shall include the
+determination of formation, procurement, appointment, transfer, dismissal, the
+determination of retired, salary, benefits, welfare, rights and obligation , legal standing,
+competence development, and control number. According to the provisions contained
+in Article 129 of Law No. 32 Year 2004 on Regional Government, it showed clearly
+and has a strong legal foundation, as guidance in governance and service to society,
+that the regional government has the authority to pursue the policy of welfare for
+civil servants who were on duty and work in the Local Government’s environment
+and exist various forms.
+
+Model of Employee Performance : The Empirical Study at Civil Servants in Government...
+
+709
+
+So with the issuance of regulations local government act relating to the formation,
+procurement,appointment, transfer, dismissal, the determination of pension, salary,
+benefits, welfare, rights and obligations, legal position, the development of
+competencies that everything is a form of government support to employees, it should
+be government performanceof government able to improve the performance of local
+government in all sector, but in fact the performance tends to decline. Based on the
+accountability report on the result government performance region government
+(LAKIP) government West Java Province in 2013 by referring to high assessment LAKIP
+from the Ministry of State Apparatus and Bureaucratic Reform” KementerinAparatur
+Negara danReformasiBirokrasi” (PANRB (http://www.menpan.go.id)) shows that
+performance accountability of government entered the category less good (D) and is
+quite good (C) reached 38.24%, were categorized as good enough (CC) was 38.24%,
+while the category as well to satisfy (B, A and AA) only reached 23.53%. In addition,
+the low performance achievement institutions in governmentcan be seen also from
+the performance achievement of the low institutions based on average assessment
+institutions in West Java Province that was under 80.
+Mahmood, Iqbal and Samsaa (2014 : 86) in the research said that
+“Employee Performance is most important factor in an organization success therefore, there is need
+to adopt effective human resources strategies that aim to improve employee performance and creates
+the culture of high performance in any organization based on human resource practices”.
+
+That employee performance is most important factors in the successful
+organization. Thus, there is a need to adopt a strategy human resources that effective
+which aims to improve performance and create the culture high-performance in the
+organization resources practices anything based on human beings. Based on that claim,
+the low accountability performance of government tends to be caused by the low of
+employee performance. The low of employee performanceof government that is
+indicated in employee assessmentthat carried out periodically (Per year). Based on
+the employee performance data evaluation in each government of government
+institution during the time period two consecutive years (2011-2012) with employee
+performance evaluation that refer to the government regulation No. 10 The year 1979
+employee work achievement assessment of a Civil Servant) that is generally showing
+a high performance at the end of 2010 - 2011 rose by 2.41% and 2011- 2012 experienced
+a decrease in the amount of 3.90% and at the end of 2012- 2013 experienced a decrease
+in the amount of 1% in values with classification is very good, then at the end of 20102011 rose by 3.72%, while at the end of 2011- 2012 was down 5.19 %, and at the end of
+2012- 2013, experienced significantly by 9.11% with types of good value. Then the low
+performance of civil servants in government also indicated by the low level discipline
+time, attendance rate of punctuality and attendance of employees. This is shown based
+on observation result directly researchers (2013) showing a high level of employee
+delay in some employers’ institutions, which reached 15.55% in 2010 and increased
+reached 18.35% in 2011 and absence high enough without explanation (alpha) during
+the period of 2010-2013.
+
+710
+
+Nandan Limakrisna, Zulki Zulkifli Noor and Hapzi Ali
+
+Mguqulwa (2008:72) put forward based on the result Applicants that the
+commitment organizations have been closely intertwined with close ties to employee
+performance, the strong commitment of the organization, the employee’s performance
+is increasing.Then based on the research results Memari, Mahdieh and Barati (2013:
+164) menyatatakan that “the results revealed a positive relationship between organizational
+commitment and employees’ job performance”. Based on these results statement, the poor
+performance of employees in government tends to be caused by low levels of
+organizational commitment. It is indicated based on the observation of the researcher
+(2013) on several employees who indicate that the level of pride as a civil servant in
+government which only reached by 37.50%, the level of emotional attachment to the
+organization 35.00%, the level of dedication to work employees in the organization
+30%, and the level of confidence in the identity of employees 27.50%.
+Meanwhile Manetje and Martin (2009:87) proposed a finding from his research
+that a good organizational culture can enhance the organizational commitment strong
+so as to improve organizational performance. Regarding on the statement above, the
+low employee performance of civil servants in government still tend to be caused also
+by the lack of organizational culture in the of government. Lack of organizational
+culture in government institutions shown by direct observation (2013) is characterized
+by a lack of passion and spirit of employees in completing work tasks, delay work
+habits, work time used to talk about things that have nothing to do with work , low
+employee initiatives in the works that seem to always wait for instructions from
+superiors, employee invention egoism in doing the job, the employee is less
+commendable behavior to be an employee, a lack of understanding of the values of
+the organization and the majority of employees only “status” as employees not as a
+government employee’s job responsibilities in serving the community.
+According to Imran Rabia et. all. (2012:1455) based on the result of research that
+“The results reveal positive and significant impact of transformational leadership and organizational
+climate on employee performance”. That shows a positive and significant transformational and
+climate organization to performance”.
+
+Based on that statement, the low performance of civil servants in
+governmentinstitutions tend to be caused by a lack of organizational climate. This is
+indicated by not conducive workplaces such as lack of mutual trust among employees
+, policies and regulations have not been able to be implemented consistently in dealing
+with employee issues that arise jealousy horizontal aperture level civil servants,
+promotion are not implemented normative, as well as with the emergence of some
+vertical conflict between employees with structural officials in government and
+horizontal conflicts among employees, to strike the employees become a solution to
+distribute their aspirations.
+Paracha Umer et. all. (2012:1) based on the research states
+“that transactional and transformational both are significantly positive associated with Employee
+performance however transactional leadership was more significant then transformational”.
+
+Model of Employee Performance : The Empirical Study at Civil Servants in Government...
+
+711
+
+ParachaUmer et all. research results showed that both transactional and
+transformational significantly positively related to employee performance but
+significant transactional leadership is more than transformational. Based on the
+research results statement impositions Rabia Imran et. all. (2012; 1455) and
+ParachaUmer et. all. (2012: 1), the low performance of civil servants in government
+institutions tend to be caused by the relatively low level of leadership style in
+governmentgovernment, this is indicated by the number of employees are less
+understanding of the tasks given leadership, lack of providing guidance, lack of
+encouragement and motivation to all members / employees in achieving goals,
+leadership more priority to formal relationships without regard to the informal aspects,
+so the communication relations seem stiff, lack of attention from leader to employees
+who become subordinates, lack of confidence from leader to its employees, decisionmaking is always dominated by the understanding unilaterally from the head without
+going through the process of coordination previously, do not make subordinates as
+partners in achieving the organization’s objectives.
+The purpose of this study in this research is to identify and analyze the influence
+of organizational culture, organizational climate, and leadership style on organizational
+commitment also it’s implication on employee performance of civil servants (PNS) in
+government.
+2. LITERATURE REVIEW
+Organizational Culture
+Arnold (2005:625) states that
+“that organizational culture is the distinctive norms, beliefs, principles and ways of behaving that
+combine to give each organization its distinct character”.
+
+That organizational culture is a typical norms, beliefs, principles and ways of behaving
+that combine to give each character a different organization. Harrison (2003: 11) states
+that organizational culture is “distinctive constellation of beliefs, values, work styles, and
+relationships that distinguish one organization from another”. That organizational culture
+is a typical constellation of beliefs, values, work styles, and relationships that distinguish
+one from another organization. In other words, cultural organizations including the
+nature of the organization that provides a particular climate. Hellriegel et al. (2004:365)
+states that elements of culture and their relationships in an organization creates a
+unique pattern that is part of the organization, creating a culture of the organization.
+Some elements of organizational culture according Hellriegel et al.. consists of a
+bureaucratic culture, the local culture (clan culture) and adhocracy culture.
+Bureaucratic culture is a kind of organizational culture that respects the rules,
+hierarchical coordination, formalization and standard operating procedures, with
+long-term problems into efficiency, predictability and stability. Local culture (clan
+culture) is the attribute of the type of organization is tradition, loyalty, teamwork,
+
+712
+
+Nandan Limakrisna, Zulki Zulkifli Noor and Hapzi Ali
+
+personal commitment and self-management. Organizations focus on their attention
+internally, but their formal control flexible. Adhocracy culture is a form of culture that
+is characterized by high levels of risk taking, dynamism and creativity.
+Organizational Climate
+Simamora (2004:81) states that the organizational climate is the internal environment
+or organizational psychology. Organizational climate affect human resources practices
+and policies adopted by members of the organization. Lussier (2005: 486) says that the
+organizational climate on employee perceptions regarding the quality of the
+organization’s internal environment is relatively perceived by members of the
+organization which in turn affects their behavior. Then Lussier (2005: 487) took a point
+that organizational climate include:
+1. Structure; the level of perceived coercion of employees because of the rules
+and procedures are structured. Organizational objectives, level of
+responsibility, the values of the organization.
+2. Responsibility; an organization’s level of supervision imposed and perceived
+by the employees. Where the quality and form of supervision, direction and
+guidance received from superiors to subordinates
+3. Support; related to the support for employees in performing organizational
+tasks. Matters relating to the support and relationships among co-workers are
+feeling is mutual help between management and employees, with more
+emphasis on the need of mutual support between superiors and subordinates.
+4. Warmth; with regard to the level of employee satisfaction with regard to
+relationships within the organization. Feelings toward a friendly working
+atmosphere and more emphasis on hospitality or friendship conditions in
+informal groups, as well as good relationships between colleagues, the
+emphasis on the influence of friendship and informal social groups.
+5. Organizational identity and loyalty; a sense of pride associated with the
+existence of the organization and the loyalty shown during his tenure. Degree
+of loyalty towards the achievement of organizational goals.
+6. Risk; related to employees given the space to do or take risks in carrying out
+the task as a challenge
+Leadership Style
+Bass and Avolio (1994) in Munandar (2001) define style of his leadership so far in two
+types, namely style transformational and transactional leadership style. Style
+Transformational is interaction between the leader and the employees are marked by
+the influence of employees become to change on someone with who think that they
+are capable and insightful work achievement and trying to reach a high and high
+
+Model of Employee Performance : The Empirical Study at Civil Servants in Government...
+
+713
+
+quality. Transactional leadership styleis leadership that emphasizes on transaction or
+exchanges between leaders, colleagues and his subordinates. This Exchange is based
+on a discussion between leader with the related parties to determine what is needed
+and how specification conditions and wages/gifts if subordinate conditions for a fixed
+term.
+Yukl (1989:204) in Ahmad and Gelaidan (2011:3-4) states that
+‘Transformational leadership hasbeen defined as “the process of influencingmajor changes in the
+attitudes andassumptions of organization members andbuilding commitment for the
+organization’smission or objectives.Transactionalleadership is expected to be associated withemployee
+commitment to organizationalchange”.
+
+Transformational leadership has been defined as a process that affects a major
+change in attitudes and assumptions members of the organization and to build
+theorganization’s commitment to achieve the goals of the organization, while the
+transactional leadership is expected to be associated with employee commitment to
+organizational change.
+Organizational Commitment
+Gibson et al.. (2012: 182) stated commitment as a sense of identification, loyalty, and
+engagement disclosed by an employee of the organization.
+This understanding states that the commitment is most hiring on the values of the
+organization(identification), engagement(involvement)psychologically and loyalty
+(loyalty). This means that employee commitment to the organization has three aspects,
+are;
+1. identification of which has materialized in the form of trust employees to the
+organization;
+2. loyalty it show positive attitudes and behavior in the organization, employees
+will possess souls who still defended his organization, seeks to improve
+achievement, and have confidence that is sure to help realize the goals of the
+organization;
+3. involvement it will cause a sense of belonging for the employees of the
+organization.
+Allen and Grisaffe (2001) in Jha (2011:266), organizational commitment describe
+the psychological state that characterizes the employee relationship with the
+organization for which they work and which has implications for their decision to
+remain with the organization . Mayer and Allen (1991) in Jha (201: 266 ) has identified
+three types of organizational commitment, namely affective commitment , continuous
+commitment and normative commitment .
+
+714
+
+Nandan Limakrisna, Zulki Zulkifli Noor and Hapzi Ali
+
+Employee Performance
+According to Gomes (2003:39) as the employee’s performance record production results
+in a specific job function or activity during a specific time period. So performance is
+the level of success achieved by the employee in doing what one work activities with
+reference to the tasks to be performed. Furthermore Mangkunagara (2009:9) states
+that the employee’s performance is the result of the quality and quantity of work
+achieved by someone employees in carrying out their duties in accordance with the
+responsibilitiesgiven to the employee.
+According to Gomes (2003:45) put forward some type performance as follows:
+1. Quantity of work describes the amount of work that is obtained in a specified
+time period.
+2. Quality of work is quality of work achieved under the terms of suitability and
+readiness.
+3. Job knowledge is the breadth of knowledge and skills on the job.
+4. Creativeness is the authenticity of the ideas raised and actions to complete the
+job.
+5. Cooperative is the willingness to cooperate with others (fellow members of
+the organization).
+6. Dependability is awareness and trustworthy in terms of attendance and
+completion of work.
+7. Initiative is the passion to perform new tasks in enlarging its responsibilities.
+8. Personal qualities is relating to the personality, leadership, hospitality, and
+personal integrity.
+Conceptual Framework
+
+Figure 1: Framework and Research Hypotheses
+
+Model of Employee Performance : The Empirical Study at Civil Servants in Government...
+
+715
+
+3. METHODS
+The kind of this research is descriptive and verification, the research method used is
+descriptive survey method and explanatory survey. Type of investigation in this study
+is causality. The unit of analysis in this study is the staff of government of government
+in West Java Province. Time horizon in this study is cross-sectional, for example
+information from the majority population (the sample) were collected directly from
+the location empirically, with the aim to know the opinion of the majority population
+of the object being studied.
+Operational definitions of variables are intended to clarify the variables to be
+studied, which consists of:
+1. Cultural Organization (�1) as independent variables.
+2. Organizational Climate (�2) as independent variables.
+3. Leadership Style (�3) as independent variables.
+4. Organizational Commitment (�1) as variable between.
+5. Employee Performance ( �2 ) as the dependent variable .
+Data Source in this research is the source of secondary data from documentation
+or report that available in relevant institutions. The primary data in the form of
+organizational culture, organizational climate, leadership style, organizational
+commitment, and employee performance sourced from staff of government, West Java
+Province.
+In this study, the object of analysis is the level of SKPD accountability with the
+value accountability C and D (more less good and less good), while the population
+(the unit of analysis) are civil servants in government which is consists of four groups
+(category I , II, III and IV) which amounts are 1685 employees. The sample size was
+determined by taking into account the analytical techniques used to test the hypothesis
+that structural equation models (structural equation model/SEM). In connection with
+the rule of thumb in the SEM, Hair et al.. (2006: 605) states there is no single criterion
+for determining the size of the sample (sample size) in SEM, but keep in mind the
+ratio of the sample to the parameters (indicators) in order to achieve a ratio of 1: 5.
+Based on the rule of thumb in the SEM, so this study used a ratio of 1: 5. This study has
+40 parameters (indicators), the minimum sample size is 200 respondents to the selection
+of the sample population used proportionate stratified random sampling technique.
+The analysis method used in this research is the analysis of SEM (Structural
+Equation Modeling) using processing software 8:51 lisrel. In analysis methods of SEM,
+statistical estimation individually tested using a t test. Through output path diagram
+t-value statistics, t-test results confirm lisrel process complete the test error rate set at
+5%. Not only individual test, SEM also test the proposed model as a whole system, for
+example through conformance test model as known Goodness of Fit Statistics.
+
+716
+
+Nandan Limakrisna, Zulki Zulkifli Noor and Hapzi Ali
+
+4. RESULT AND DISCUSSION
+Based on The table 1 above, there are threeíndexgained fitness model has a suitability
+index (goodfit), are: RMSEA, IFI and CFI. While five index compliance model, which
+is under the suitability size good, but still within the scope of the marginal (marginal
+fit), there are GFI, NNFI, NFI, AGFI and RFI. Marginal fit is the condition of the
+suitability of the measurement model under the criterion of absolute fit, as well as
+incremental fit, but still can be passed on further analysis, because it is close to the size
+criteria for a good fit (Hair, Andersen, Tatham, and Black, 2006:623). Thus it can be
+continued in the subsequent analysis.
+Table 1
+The Suitability Test Model
+GOF Indicators
+
+The Expected Size
+
+Estimation Result
+
+Conclusion
+
+Size Absolute Fit
+GFI
+RMSEA
+
+GFI > 0.90
+RMSEA < 0.08
+
+0,85
+0,078
+
+Marginal Fit
+Good Fit
+
+0,89
+0,85
+0,81
+0,82
+0,90
+0,90
+
+Marginal Fit
+Marginal Fit
+Marginal Fit
+Marginal Fit
+Good Fit
+Good Fit
+
+Size Incremental Fit
+NNFI
+NNFI > 0.90
+NFI
+NFI > 0.90
+AGFI
+AGFI > 0.90
+NECESSITY
+NECESSITY > 0.90
+IFI
+IFI > 0.90
+CFI
+CFI > 0.90
+Source: Result processing with LISREL 51 8.
+
+Table 2
+Hypothesis Testing
+Hypothesis Variables
+H1
+H2
+H3
+H4
+
+Organizational culture � Organizational commitment
+Organizational climate � Organizational commitment
+Leadership style � Organizational commitment
+Organizational commitment � Employee performance
+
+Standardize
+Coefficient
+
+tcount/Fcount
+
+Statistic
+conclusion
+
+0.32
+0. 22
+0. 30
+0.39
+
+3.57
+2.21
+2.66
+4.14
+
+Significant
+Significant
+Significant
+Significant
+
+Source: Data Processing, 2014 (LISREL 8.51, tcritical = 1.96; Fcritical = 3.84)
+
+According test results show that the direct variable of organizational culture,
+organizational climate and leadership styles affect the organizational commitment
+variable with a contribution of 55%. Then organizational culture variable,
+organizational climate and leadership style directly affects employee performance
+variable with a contribution of 31.95%. But with through organizational commitment,
+organizational culture variables, organizational climate and leadership styles affect
+the performance of employees with a contribution of 80%. This explanation guarded
+organizational commitment is a partial mediating variable of organizational culture,
+organizational climate and leadership style on employee performance.
+
+Model of Employee Performance : The Empirical Study at Civil Servants in Government...
+
+717
+
+So based on the test results and description, the findings from this study is to
+improve the employee performance in the government, especially on the dependability
+element (Y6) is to increase organizational commitment, especially on the elements of
+normative commitment (Y3), where organizational commitment will increase if the
+government of able to improve organizational culture, especially the adhocracy cultural
+elements (X3) and supported by the improvement in the leadership style especially
+on leadership transformational style elements and improve the organizational climate,
+especially in the support element (X6).
+5. CONCLUTION
+For the conclusion of this research are:
+1. Organizational culture partial effect on organizational commitment to the
+civil servant in government, with the most dominant organizational culture
+elements is adhocracy culture, and weak element is bureaucratic culture.
+2. Organizational climate partial effect on organizational commitment to the
+civil servantin government, with the most dominant elements of organizational climate is on the support element and the weak element is
+responsibility.
+3. Leadership style partial effect on organizational commitment to the civil
+servantin government, with the dominant elements of leadership style is the
+transformational elements, and weak on transactional elements.
+4. Organizational commitment is partially effect on the employee performance
+of civil servants in government, with the most dominant elements of
+organizational commitment is the normative elements, and the weak is
+element continuously, while the organizational commitment is a variable that
+mediates variable employee performance.
+References
+A.A. Anwar Prabu Mangkunegara. (2009), Evaluasi Kinerja Sumber Daya Manusia.
+Ahmad, Hartini and Hamid Mahmood Gelaidan. (2011), Organisational Culture, Leadership
+Styles and Employee’s Affective Commitment to Change: A Case of Yemen Public Sector.
+Journal of Organizational Management Studies Akbar, Rusdi, Robyn Pilcher, and Brian
+Perrin. 2012. Performance Measurement in Indonesia: The case of Local Government. Pacific
+Accounting Review, Vol. 24 Iss: 3 government regulation. 262-291.
+Aluko, M.A.O., (2003), “The Impact of Culture on organizational Performance in title Father
+was Textile Firms in Nigeria”, Nordic Journal of African Studies. Vol. 12, No. 2, hh. 164-79.
+Arikunto, Suharsimi. (2002), Methodology laboratory. Publisher. Rineka reserved. Jakarta.
+Arnold, M.J. and K.E. Reynold, (2005), Hedonic Shopping Motivations, Journal of Retailing,
+Vol. 79, pp. 75-79.
+
+718
+
+Nandan Limakrisna, Zulki Zulkifli Noor and Hapzi Ali
+
+Colquitt, Jason A, Jeffery A. Lepine., Michael J.R. (2013), Organization Behavior .Singapore,
+McGraw-Hill.
+Cooper, Donald R., Pamela’s. Schindler, (2011), Business Research methods. (11th ed). New York:
+McGraw Hill International Edition.
+Darajat were cut down, Luthfah Nurfaizah and Rosyidah. (2012), ”The relationship culture of
+the Organization’s Organizational commitment nurses part hospitalized Class II and III
+Hospital PKU Muhammadiyah Yogyakarta”, Journal CASE MAS UAD, Vol. 6, No. 2, hh.
+162-232.
+Ehtesham, Ul Mujeeb., Is Clean Masood Muhammad, and Shakil Ahmad Muhammad. (2011),
+“our Relationship between Organizational Culture and Performance Management
+Practices: A case of University in Pakistan”, Journal of Competitiveness.Vol. 3, No. 2,
+hh. 78-86.
+Gibson, James L, and James H., Donnely, (2012), Organizational or deviant behavior, Structure and
+Process, 11th Edition SC, London, mc.graw-Hill.
+Gomes, Faustino Cardoso. (2003), Human Resource Management. Yogyakarta: CV. Andi Offset.
+Hair et al., (2006), Multivariate Data Analysis,Fifth Edition, Prentice Hall, Upper there also
+River : New Jersy.
+Harrison P, Keeling D. (2003), Clinical tests of Platelets Function. In : Michelson AD. Platelets.
+Elsevier. USA: 445-466.
+Hellriegel, Donand John W.. Slocum Jr., (2004), OrganizationalBehavior, Australia,
+South-Western, Cengage Learning.
+Hemmelgarn, Thomas and a hook Nicodeme. (2009), “The 2008 Financial Crisis and Taxation
+Policy”. European Commission Taxation Paper.
+‘Imran, R., and Ul Haque, M.A. (2012), Mediating effect os organizational redd between
+transformational leadership and innovative work behavior. Pakistan Journal of
+Psychological Research.Vol. 26, No. 2, 183-199.
+Jha, Shweta. (2011), “Determinants of Employee Turnover Intention: A Review” New Delhi :
+Apeejay School of Management.
+Kreitner, Robert and Angelo Kinicki. (2009), Organization Behavior 8th. Singapore mcgraw-Hill
+International., inc.
+Lo. M., Ramayah., and Sun, H.W. (2009), Leadership styles and organizational commitment: a
+test on Malaysia manufacturing Industries. Journal of Mangement. 133-139
+Lok, Peter and John Crawford. (2004), “The Effect of Organizational Culture and Leadership
+Style on Job Satisfaction and Organizational Commitment A Cross-National: comparison”,
+Journal of Management Development. Vol. 23 No. 4, hh. 321-338.
+Lussier, N Robert, (2005), Human Relations in Organization Applications and skill Building. New
+York: Mc Graw Hill.
+Mahmood, Iqbal and Samsaa. (2014), “The Relationship between Role Ambiguity,
+Competency and Person-Job Fit With the Job Performance of employees in the Service
+Sector smash in Malaysia”. Business Management Dynamics, Vol. 1, No. 2.
+Manetje and Martin. (2009), The Relationship between Organizational Culture and organizational
+Commitment. Pretroria : University of South Africa
+
+Model of Employee Performance : The Empirical Study at Civil Servants in Government...
+
+719
+
+Memari, Negin., Mahdieh Omi and Barati, Ahmad Marnani. (2013), The impact of
+Organizational Commitment on Employees Job Performance. Interdiciplinary Journal of
+Contemporary Research in Business, Vol. 5, No. 5.
+Mguqulwa, Nomakhuze. (2008), The Relationship Between Organizational Commitment and Work
+Performance in An Agricultural Company . Industrial and organizational Psychology.
+University of South Africa.
+Munandar, M. (2001), Budgeting, Planning Summary Pengkoodinasian Work Safety. First Edition.
+University of Gadjah Mada BPFE. Yogyakarta.
+Noor, Juliansyah. (2010), The influence of Culture Organization, leadership style and decisionmaking to Organizational commitment (study causality relation to the State Owned
+Financial Institutions the Tangerang District).Dissertation. Jakarta State University.
+Paracha Umer et al. (2012), Impact of Leadership Style (Transformational and Transactional
+Leadership) On Employee Performance and Mediating Role of Job Satisfaction” Study of
+Private School (Educator) In Pakistan. Global Journal of Management and Business
+Research.Volume 12 Issue 4 Version 1.0.
+Qaisar, M.U., Rehman, M.S., and Suffyan, M. (2012), Exploring effects of organizational
+commitment on employee performance: Implications for human resource strategy.
+Interdisciplinary Journal of Contemporary Research in Business, 3(11), 248-255.
+Sakiru et al. (2013), Leadership Style and Job Satisfaction among employees in Small an
+Medium Enterprises. International Journal of Business and Management, 8.13 , 34-41.
+Silalahi. (2008), ”Transformational Work motivation, culture of the Organization, and the
+commitment Organization”, Journal Psychology, Volume 2, No. 1, hh. 14-20.
+Simamora Henry. (2004), Human Resource Management, STIE, Yogyakarta.
+Sugiyono. (2010), Research method Quantitative and Qualitative R and D, Alfabeta Bandung.
+Vivi and Rorlen. (2007), “The influence a Organization to The performance Pegawaipada PT
+Graha Tungki Arsitektika Jakarta”, Business and Management Journal Mother moral standards.
+Vol. 3, No. 1, hh. 51-59.
+Yeh, Hueryren and Dachuan Hong. (2012), “The Mediating Effect of Organizational
+Commitment on Leadership Type and Job. Performance”, The Journal of Human Resource
+and Adult Learning.Vol. 8, Num. 2, Hh. 50-50.
+
+

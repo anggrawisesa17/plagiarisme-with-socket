@@ -1,0 +1,1053 @@
+Jurnal Pendidikan Akuntansi Indonesia, Vol. XIV, No. 1, Tahun 2016
+Ditto Rahmawan Putra & Mahendra Adhi Nugroho
+25 - 34
+
+PENGEMBANGAN GAME EDUKATIF BERBASIS ANDROID SEBAGAI
+MEDIA PEMBELAJARAN AKUNTANSI PADA MATERI JURNAL
+PENYESUAIAN PERUSAHAN JASA
+DEVELOPING ANDROID BASED EDUCATIONAL GAME AS A MEANS OF
+ACCOUNTING LEARNING ON SERVICE COMPANY ADJUSTING JOURNAL
+MATERIAL
+Oleh:
+Ditto Rahmawan Putra
+Prodi Pendidikan Akuntansi Universitas Negeri Yogyakarta
+dittorahmawanputra@gmail.com
+Mahendra Adhi Nugroho
+Staf Pengajar Jurusan Pendidikan Akuntansi Universitas Negeri Yogyakarta
+
+Abstrak
+Penelitian ini bertujuan untuk Mengembangkan game edukatif berbasis android; mengetahui kelayakan
+game edukatif berbasis android sebagai media pembelajaran; mengetahui penilaian siswa terhadap
+media pembelajaran. Penelitian ini merupakan jenis penelitian dan pengembangan dengan mengikuti
+model pengembangan ADDIE (Analysis, Design, Development, Implementation, Evaluation) yaitu
+tahap analisis, desain, pengembangan, implementasi, dan evaluasi, namun hanya dilaksanakan hingga
+tahap keempat, yaitu implementasi. Hasil penelitian menunjukkan bahwa tingkat kelayakan game
+edukatif berbasis android sebagai media pembelajaran akuntansi berdasarkan penilaian : 1) Ahli Materi
+diperoleh rata-rata skor 4,87 yang termasuk dalam kategori sangat layak, 2) Ahli Media diperoleh ratarata skor 4,33 yang termasuk dalam kategori sangat layak, 3) Praktisi Pembelajaran Akuntansi diperoleh
+rata-rata skor 4,75 yang termasuk dalam kategori sangat layak, 4) Penilaian siswa kelas XI IPS 3 SMA
+Negeri 1 Imogiri diperoleh skor 4,19 yang termasuk dalam kategori Layak. Dengan demikian game
+edukatif “Asah Akuntansi” berbasis android yang dikembangkan sangat layak digunakan sebagai media
+pembelajaran akuntansi.
+Kata kunci: Media Pembelajaran, Akuntansi, Game Edukatif¸ Android, SMA, Jurnal Penyesuaian.
+
+Abstract
+The aims of this research are; to develop android based educational game as a means of accounting; to
+learn the feasibility of the android based educational game; to know students’ evaluation of the android
+based educational game. The approach of this research is Research and Development that take the
+ADDIE (Analysis, Design, Development, Implementation, and Evaluation) model, but it is only
+conducted up to the fourth stages, which is Implementation. The results show that the development of
+the android based educational game as means of accounting learning based on experts evaluation are:
+1) Subject Experts gave 4,87 average score, which goes into very feasible category, 2) Media Experts
+gave 4,33 average score, which goes into very feasible category, 3) Accounting Learning Practitioners
+gave 4,75 average score which goes into very feasible category, 4) Student Assesment shows of 4,19
+average score, which goes into feasible category. This, android based educational game developed is
+very feasible as means of accounting learning.
+Keywords: Learning Media, Accounting, Educational Game, Android, Senior High School, Adjusting
+Journal.
+
+25
+
+Jurnal Pendidikan Akuntansi Indonesia, Vol. XIV, No. 1, Tahun 2016
+Ditto Rahmawan Putra & Mahendra Adhi Nugroho
+25 - 34
+
+manusia untuk menjalankan segala aktivitas
+atau kegiatan sehari-hari, contoh dari
+perkembangan teknologi adalah telepon
+genggam. Teknologi komunikasi ini
+berkembang dengan sangat pesat karena
+harganya yang cukup ekonomis dan mudah
+didapatkan. Saat ini setiap orang dari
+berbagai lapisan memiliki telepon genggam
+mulai dari kalangan pemerintah sampai
+daerah perbatasan. Teknologi ini sangat
+membantu dan bermanfaat bagi kehidupan
+manusia, misalnya untuk berkomunikasi
+dengan saudara yang jaraknya jauh untuk
+memberitahukan kondisinya. Namun, tidak
+semua masyarakat Indonesia mampu
+memanfaatkan teknologi ini dengan baik dan
+tepat sasaran, dalam dunia pendidikan
+misalnya banyak siswa yang menggunakan
+telepon genggam selama kegiatan belajar
+mengajar (KBM) berlangsung. Apalagi
+generasi telepon genggam yang tidak hanya
+digunakan untuk mengirim pesan singkat
+saja, tetapi untuk mengakses internet
+terutama jejaring sosial, video call, dan
+bermain game. Dengan demikian, siswa akan
+lebih
+suka
+menggunakan
+telepon
+genggamnya
+untuk
+bersenang-senang
+daripada belajar. Teknologi yang digunakan
+tidak pada tempatnya akan menjadi momok
+mengerikan khususnya dalam bidang
+pendidikan.
+Smartphone atau telepon pintar adalah
+perangkat telepon genggam handphone yang
+bisa digunakan untuk berkomunikasi dasar
+(mengirim pesan singkat dan telepon), serta
+di dalamnya terdapat fungsi PDA (Personal
+Digital Assistant) dan dapat bekerja layaknya
+sebuah computer mini. Generasi smartphone
+ini merupakan dampak dari perkembangan
+teknologi yang melaju pesat. Menurut
+lembaga riset Roy Morgan, periode maret
+2012-2013 kepemilikan smartphone di
+Indonesia naik dua kali lipat, dari 12 %
+menjadi 24 % dari total populasi di Indonesia.
+Sementara itu, pengguna telepon seluler naik
+10 % mencapai 84 % dari total populasi
+Indonesia pada maret 2013. Tutut (2013)
+mengemukakan
+bahwa
+penggunaan
+smartphone atau telepon pintar di indonesia
+
+PENDAHULUAN
+Pendidikan
+merupakan
+proses
+pembelajaran
+untuk
+mengembangkan
+potensi, kecakapan, dan karakteristik pribadi
+peserta didik melalui usaha sadar dan
+terencana. Ketiga hal itu merupakan modal
+utama untuk meningkatkan kualitas sumber
+daya manusia suatu bangsa (SDM). Kualitas
+SDM merupakan ukuran kemajuan suatu
+negara. Dengan adanya SDM yang
+berkualitas dan berpendidikan akan tercipta
+pembangunan nasional. Semakin banyak
+orang yang berpendidikan dan berkualitas
+maka semakin mudah untuk membuat
+negaranya lebih maju.
+Pendidikan yang dapat menghasilkan
+SDM berkualitas membutuhkan suatu proses
+pembelajaran. Proses pembelajaran terjadi
+karena adanya interaksi antara seseorang
+dengan lingkungannya. Ketercapaian suatu
+proses pembelajaran ditunjukkan dengan
+adanya perubahan tingkah laku yang lebih
+baik dimana menyangkut perubahan,
+pengetahuan
+(kognitif),
+ketrampilan
+(psikomotor), maupun yang menyangkut
+nilai dan sikap (afektif). Ketercapaian
+perubahan-perubahan tersebut dipengaruhi
+oleh beberapa faktor antara lain, pendidik,
+peserta
+didik,
+lingkungan,
+metode
+pembelajaran, serta media pembelajaran.
+Media pembelajaran merupakan alat
+bantu guru dalam proses kegiatan
+pembelajaran. Dengan demikian tujuannya
+untuk
+mempermudah
+guru
+dalam
+menyampaikan materi kepada siswa. Selain
+itu, media pembelajaran membantu siswa
+untuk menyiapkan dan menerima materi
+karena dapat digunakan siswa secara mandiri
+di rumah. Media pembelajaran harus dikemas
+secara baik dan menimbulkan daya tarik agar
+siswa menjadi betah untuk belajar. Kurang
+variatifnya media bukan semata-mata
+kesalahan guru, namun karena waktu
+pembelajaran akuntansi yang sedikit, kondisi
+sekolah, karakter siswa, dan kurang
+mengoptimakan perkembangan teknologi.
+Perkembangan teknologi semakin hari
+semakin meningkat. Perkembangan ini
+memberikan berbagai kemudahan kepada
+26
+
+Jurnal Pendidikan Akuntansi Indonesia, Vol. XIV, No. 1, Tahun 2016
+Ditto Rahmawan Putra & Mahendra Adhi Nugroho
+25 - 34
+
+pada kuartal ke-II tahun 2013 hampir
+menembus 15 juta unit dan mayoritas
+pengguna berasal dari kalangan remaja
+dengan kisaran umur 15-18 tahun. Kemudian
+Menurut Lembaga Riset digital marketing
+emarketer memperkirakan pada 2018 jumlah
+pengguna aktif smartphone di Indonesia lebih
+dari 100 juta orang. Smartphone dapat
+berkembang pesat dengan harga yang dapat
+dijangkau oleh berbagai kalangan dengan
+specification dan type smartphone yang
+beranekaragam. Pesatnya perkembangan
+smartphone bisa menjadi tantangan dan
+peluang khususnya di dunia pendidikan.
+Tantangan tersebut dilihat dari banyaknya
+kasus siswa menggunakan telepon genggam
+di kelas seperti yang sudah disebutkan di
+bagian sebelumnya yaitu untuk mengirim
+pesan singkat, bermain game, serta adanya
+siswa yang menyimpan video-video tidak
+pantas untuk dilihat oleh remaja. Sedangkan
+peluangnya adalah pemanfaatan dalam dunia
+pendidikan yaitu lewat pengembangan media
+pembelajaran yang inovatif, kreatif, dan
+interaktif.
+SMA Negeri 1 Imogiri merupakan
+salah satu sekolah menengah atas yang sudah
+menerapkan Kurikulum Tingkat Satuan
+Pendidikan. SMA Negeri 1 Imogiri berlokasi
+di di Jln. Imogiri Timur Km 14 wukirsari,
+Imogiri, Bantul. SMA Negeri 1 Imogiri juga
+didukung oleh tenaga pengajar yang
+berjumlah 41 orang dengan jumlah kelas
+sebanyak 21 kelas yang terdiri dari kelas X,
+XI, dan kelas XII.
+Berdasarkan Observasi secara langsung
+siswa kelas XI IPS 3 di SMA N 1 Imogiri
+sekitar 92% atau 25 siswa dari 27 siswa
+merupakan pengguna smartphone, yaitu
+Android. Sedangkan sisanya telepon
+genggam
+biasa.
+Alasan
+terbanyak
+menggunakan smartphone adalah mengikuti
+life style, fitur-fitur yang ditawarkan
+sangatlah menarik, serta kemudahan dalam
+mengakses internet. Dari 27 siswa
+mengatakan selalu menggunakan untuk
+bermain games, memutar musik, mengakses
+jejaring sosial, dan chat dengan temantemannya. Sedangkan
+aplikasi
+yang
+
+berhubungan dengan dunia pendidikan di
+perangkat smartphone mereka masih terbatas
+pada penggunaan browser untuk mengakses
+google, dan kamus elektronik. Di SMA N 1
+Imogiri belum ada media pembelajaran yang
+memanfaatkan smartphone. Para siswa masih
+banyak yang menggunakan laptop atau
+bahkan masih ada yang menggunakan buku
+manual untuk menunjang pembelajaran di
+sekolah. Dengan menggunakan laptop
+sebagai
+media
+pembelajaran
+akan
+menyulitkan siswa membawa perangkat
+tersebut karena berat dan terkesan repot.
+Guru pun masih menggunakan metode
+konvensional dalam mengajar sehingga
+peserta didik merasa bosan ketika melakukan
+kegiatan pembelajaran. Tenaga pendidikan di
+sekolah ini masih menggunakan metode
+ceramah khususnya dalam pembelajaran
+akuntansi sehingga siswa kurang tertarik dan
+lebih memilih untuk melakukan hal-hal lain
+seperti berdiskusi dengan temannya dan
+sibuk dengan gadgetnya masing-masing.
+Akuntansi di SMA merupakan bagian
+dari kompetensi lulusan mata pelajaran
+ekonomi berdasarkan Permendiknas No. 23
+Tahun 2008 mengenai Standar Kompetensi
+Lulusan. Menurut pengamatan/Observasi di
+SMAN 1 Imogiri Bantul, sekitar 85 % siswa
+atau 23 Siswa dari 27 siswa menyatakan
+akuntansi dianggap sulit untuk dipahami dan
+dimengerti karena memerlukan pemahaman
+konsep yang baik dan kemampuan berhitung
+yang baik pula, sedangkan mayoritas mata
+pelajaran pada jurusan IPS berupa hafalan.
+Alokasi jam pelajaran yang disediakan untuk
+proses pembelajaran di kelas yang minim
+yaitu satu minggu 4 jam pelajaran membuat
+kurang optimal untuk memberi pemahaman
+secara mewadahi kepada siswa, serta
+sebagian besar handphone yang digunakan
+oleh siswa ialah smartphone dengan
+spesifikasi yang sudah memadai untuk
+dioperasikan dengan suatu aplikasi yang
+bermanfaat untuk proses pembelajaran.
+Melihat fenomena di atas, maka
+tercipta sebuah ide untuk membuat media
+pembelajaran akuntansi yang inovatif,
+kreatif, interaktif dan dapat digunakan
+27
+
+Jurnal Pendidikan Akuntansi Indonesia, Vol. XIV, No. 1, Tahun 2016
+Ditto Rahmawan Putra & Mahendra Adhi Nugroho
+25 - 34
+
+dimana saja dan kapan saja. Salah satunya
+adalah pengembangan media game edukasi
+berbasis Android. Game adalah sebuah
+permainan yang berfungsi sebagai warming
+up (pemanasan), penghilang kejenuhan
+dalam materi yang melelahkan, mensupport
+peserta mentoring agar terlibat lebih aktif dan
+memberi respon (Eko Susanto, 2009: 19).
+Hal ini telah mengungkapkan bahwa game
+(permainan) selalu menarik untuk diikuti dan
+lebih mudah untuk dipahami dengan bantuan
+gambar kartun yang terdapat di dalamnya.
+Kartun adalah penggambaran dalam bentuk
+lukisan atau karikatur tentang orang, gagasan,
+atau
+situasi
+yang
+didesain
+untuk
+mempengaruhi opini masyarakat (Nana
+Sudjana dan Ahmad Rivai, 2010: 58).
+Sistem operasi yang akan digunakan
+adalah Android karena penggunanya
+merupakan yang terbesar dibandingkan
+sistem operasi yang lainnya seperti
+Blackberry OS dan iOS (iPhone Operating
+System) yang menguasai antara 60%- 70%
+pangsa pasar smartphone sedangkan
+Blackberry hanya 30 %. Tutut (2013)
+mengatakan bahwa berdasarkan hasil riset
+Ericsson Lab pada 2011 hingga awal 2012
+kepada 6.600 responden di seluruh Indonesia,
+pertumbuhan penggunaan smartphone di
+perkotaan naik dari 8 % pada 2011 menjadi
+22 % di 2012. Hal yang mengejutkan, di
+pedesaan angka penggunanya juga naik dari
+5 % menjadi 21 %. Mayoritas pemakai
+Android pada usia SMA atau remaja. Selain
+itu berdasarkan hasil observasi di SMA N 1
+Imogiri bantul, pengguna smartphone
+terbanyak siswa adalah Android yaitu 92 %
+atau 25 siswa dari 27 siswa, sedangkan
+sisanya merupakan pengguna telepon
+genggam biasa. Android merupakan sistem
+operasi open source yang artinya gratis dan
+bebas digunakan untuk para pengembang
+aplikasi, hal ini sangat memudahkan para
+developer atau pengembang aplikasi Android
+atau pengembang aplikasi. Android untuk
+membuat berbagai jenis aplikasi Android
+sesuai kehendaknya. Pengguna juga sangat
+dimudahkan, karena kemudahan dalam
+mendapatkan aplikasi. Melalui Play Store,
+
+pengguna dapat mengunduh berbagai macam
+aplikasi dengan gratis ataupun berbayar
+tergantung dari developer/pembuatnya.
+Selain itu juga bisa berbagi melalui perangkat
+transfer data antar telepon (Bluetooth).
+Materi Jurnal Penyesuaian Siklus
+akuntansi perusahaaan jasa sering dianggap
+sulit oleh siswa, Jurnal Penyesuaian
+merupakan materi yang membutuhkan
+pemahaman
+yang
+lebih
+kompleks
+dibandingkan materi lainnya. Dalam
+penyampaian materi, pendidik masih
+menggunakan metode konvensional, dan
+peserta didik sudah merasa bosan akan hal
+tersebut. Pelajaran akuntansi dibutuhkan
+kemampuan
+untuk
+berkonsentrasi.
+Kemampuan
+tersebut
+bisa
+muncul
+dikarenakan kesenangan, maka dari itu
+pendidik harus membawa peserta didik
+menuju suasana yang menyenangkan dan
+peserta didik bisa fokus pada materi yang
+disampaikan oleh pendidik. Oleh karena itu,
+peneliti mencoba memberikan solusi dengan
+membuat game edukatif dengan berbasis
+Android sebagai media pembelajaran.
+Berdasarkan uraian tersebut, peneliti
+tertarik melakukan penelitian dengan judul
+“Pengembangan Game Edukatif Berbasis
+Android Sebagai Media Pembelajaran
+Akuntansi di Kelas XI IPS SMA Negeri 1
+Imogiri pada Materi Jurnal Penyesuaian
+Perusahaan Jasa”.
+METODE PENELITIAN
+Jenis Penelitian
+Penelitian ini merupakan jenis penelitian
+dan
+pengembangan
+(Research
+and
+Development).
+Waktu dan Tempat Penelitian
+Peneliti mengambil tempat penelitian di
+SMA Negeri 1 Imogiri yang beralamat di Jln.
+Imogiri Timur Km 14 wukirsari, Imogiri,
+Bantul. Penelitian ini dilaksanakan secara
+bertahap dalam waktu bulan Januari 2016
+Sampai Maret 2016 yang meliputi tahap
+perencanaan, penelitian, dan pelaporan.
+
+28
+
+Jurnal Pendidikan Akuntansi Indonesia, Vol. XIV, No. 1, Tahun 2016
+Ditto Rahmawan Putra & Mahendra Adhi Nugroho
+25 - 34
+
+sehingga akan dapat dilihat
+rancangannya.
+3) Penyusunan teks materi, soal, dan
+jawaban
+Seluruh materi yang akan
+dimuat dalam media dibuat dalam
+format .html (hypertext markup
+language) menggunakan program
+Notepad ++. Pembahasan jawaban
+yang akan dimuat dibuat dalam
+bentuk gambar dengan format .png
+dengan menggunakan program
+corelDRAW Graphicst Suite X7.
+Sedangkan untuk soal langsung
+dimasukkan ke dalam java.
+4) Pembuatan
+dan
+pengumpulan
+background, gambar, dan tomboltombol
+Background, gambar, dan
+tombol-tombol dibuat dalam format
+gambar.png dengan menggunakan
+corelDRAW Graphicst suite X7.
+
+Target/Subjek Penelitian
+Subjek penelitian ini adalah seorang ahli
+media, seorang ahli materi, seorang praktisi
+pembelajaran akuntansi, dan 27 siswa Kelas
+XI IPS 3 SMA N 1 Imogiri.
+Prosedur
+Pada
+penelitian
+ini,
+peneliti
+menggunakan
+model
+pengembangan
+ADDIE. Menurut Dick dan Carry (1996)
+dalam Endang Mulyatiningsih (2012: 200202) ada lima tahapan dalam model ADDIE
+(analysis,
+design,
+development,
+implementation, evaluation). Pada penelitian
+ini
+peneliti
+memodifikasi
+model
+pengembangan dengan membatasi hanya
+sampai tahap implementasi. Tahapantahapan tersebut antara lain:
+a.
+
+b.
+
+Tahap Analisis (Analysis)
+1) Analisis Kebutuhan Siswa
+Analisis kebutuhan siswa yang
+meliputi
+permasalahan
+dan
+karakteristik siswa serta perangkat
+keras (hardware) dan perangkat
+lunak (software).
+2) Analisis Kompetensi dan Instruksional
+Meliputi analisis terhadap Standar
+Kompetensi (SK) dan Kompetensi
+Dasar (KD) apa yang akan dimuat
+dalam media ini kemudian dijabarkan
+ke dalam indikator pembelajaran yang
+memungkinkan untuk disajikan dalam
+bentuk game edukatif.
+
+c.
+
+Tahap Desain (Design)
+Berdasarkan
+hasil
+analisis,
+selanjutnya dilakukan tahap desain atau
+perancangan produk yang meliputi tiga
+tahap berikut:
+1) Perancangan flowchart
+Merupakan bagan yang terdiri
+dari simbol-simbol tertentu yang
+menunjukkan
+langkah-langkah
+suatu prosedur atau program.
+2) Perancangan storyboard
+Pembuatan suatu media dalam
+hal ini adalah game edukatif diawali
+dengan
+membuat
+storyboard
+29
+
+Tahap Pengembangan (Development)
+Pada tahap pegembangan ini, kegiatan
+yang dilakukan adalah:
+1) Pembuatan Media
+Pembuatan
+media
+menggunakan Android Studio.
+Seluruh komponen yang telah
+dipersiapkan pada tahap desain
+dirangkai menjadi satu kesatuan
+media yang utuh sesuai dengan
+desain yang telah dirancang. Ada 4
+kegiatan dalam pembuatan media
+yaitu
+pembuatan
+antarmuka,
+pengkodean (coding), pengujian
+(testing), dan deploying.
+2) Validasi I
+pada tahap ini media awal
+divalidasi oleh satu ahli media
+(dosen) dan satu ahli materi (dosen).
+Hasilnya berupa saran, komentar,
+dan masukan yang dapat digunakan
+sebagai dasar untuk melakukan
+revisi I terhadap media yang
+dikembangkan.
+
+Jurnal Pendidikan Akuntansi Indonesia, Vol. XIV, No. 1, Tahun 2016
+Ditto Rahmawan Putra & Mahendra Adhi Nugroho
+25 - 34
+
+3) Revisi I
+pada tahap ini media direvisi
+berdasarkan masukan dan saran
+yang diberikan oleh ahli materi
+(dosen) dan ahli media (dosen)
+4) Validasi Tahap II
+Pada tahap ini media
+divalidasi
+oleh
+praktisi
+pembelajaran Akuntansi yaitu guru
+Akuntansi SMA Menggunakan
+instrument yang telah disusun.
+5) Revisi Tahap II
+Pada tahap ini media direvisi
+kembali berdasarkan masukan dan
+saran yang diberikan praktisi
+pembelajaran akuntansi yang dalam
+hal ini adalah sebagai ahli materi.
+Media awal direvisi pada tahap ini
+selanjutnya digunakan pada tahap
+implementasi kepada siswa.
+d.
+
+Gambar 1. Bagan Prosedur Pengembangan
+Data,
+Instrumen,
+dan
+Teknik
+Pengumpulan
+a. Data
+Data yang dikumpulkan dalam
+penelitian ini mencakup data kualitatif
+dan kuantitatif, yaitu:
+1) Data kualitatif merupakan data
+tentang proses pengembangan
+media pembelajaran berupa kritik
+dan saran dari para ahli materi dan
+ahli media.
+2) Data kuantitatif merupakan data
+pokok dalam penelitian yang berupa
+data penilaian tentang media
+pembelajaran ular tangga dari ahli
+materi, ahli media, dan siswa.
+Instrumen pengumpulan data yang
+digunakan dalam penelitian ini adalah
+kuesioner (angket). Menurut Sugiyono
+(2013: 142) angket merupakan teknik
+pengumpulan data yang dilakukan
+dengan cara memberi seperangkat
+pertanyaan atau pernyataan tertulis
+kepada responden untuk dijawab.
+
+Tahap Implementasi (Implementation)
+Meliputi:
+1) Uji coba lapangan
+Pada tahap ini media
+diujicobakan kepada 27 siswa kelas
+XI IPS 3 SMA Negeri 1 Imogiri.
+Pada tahap ini juga dibagikan angket
+untuk mengetahui penilaian siswa
+mengenai media yang telah dibuat.
+2) Revisi tahap III (jika diperlukan)
+Dalam revisi ini akan
+mempertimbangkan masukan dan
+saran dari validator sebelumnya agar
+tidak
+bertentangan
+dengan
+perbaikan-perbaikan sebelumnya.
+
+b. Teknik Analisis Data
+Data yang diperoleh dari ahli materi,
+ahli media, guru dan uji coba lapangan
+melalui lembar angket kemudian
+dianalisis menggunakan teknik analisis
+deskriptif kualitatif dan kuantitatif.
+Teknik analisis deskriptif kualitatif
+
+.
+
+30
+
+Jurnal Pendidikan Akuntansi Indonesia, Vol. XIV, No. 1, Tahun 2016
+Ditto Rahmawan Putra & Mahendra Adhi Nugroho
+25 - 34
+
+digunakan untuk mengolah data
+berbentuk kata-kata dari hasil validasi
+ahli materi), ahli media, guru dan siswa.
+Teknik analisis deskriptif kuantitatif
+digunakan untuk mengolah data
+berbentuk angka (skor) yang diperoleh
+melalui angket.
+1) Analisis Data Penilaian Kelayakan
+Media Pembelajaran
+a) Mengubah penilaian kualitatif
+menjadi kuantitatif dengan
+ketentuan:
+
+d) Menginterpretasikan rerata skor
+ke rumus konversi skor skala
+lima
+Tabel 2. Pedoman Konversi Skor
+
+Tabel 1. Aturan Pemberian
+Skor Validasi
+Klasifikasi
+Skor
+Sangat Setuju
+5
+Setuju
+4
+Netral
+3
+Tidak Setuju
+2
+Sangat
+Tidak
+1
+
+Kategori
+
+Rumus
+
+Rentang
+
+Sangat
+
+̅i + 1,80 SBi
+X>X
+
+X > 4,20
+
+Layak
+Layak
+
+̅i + 0,60 SBi < 𝑋
+X
+̅i + 1,80 SBi
+≤ X
+
+3,40 < 𝑋
+
+Cukup
+
+̅
+Xi − 0,60 SBi < 𝑋
+≤ ̅
+Xi + 0,60 SBi
+
+≤ 4,20
+2,60 < 𝑋
+≤ 3,40
+1,80 < 𝑋
+
+Layak
+
+̅i − 1,80 SBi < 𝑋
+X
+̅i − 0,60 SBi
+≤ X
+
+Sangat
+
+X<̅
+Xi − 1,80 SBi
+
+X ≤ 1,80
+
+Kurang
+
+≤ 2,60
+
+Kurang Keterangan:
+Layak X = Skor yang diperoleh
+̅
+Xi= 3
+SBi= 0,67
+Sumber: Sukardjo (2005: 53)
+dengan modifikasi
+
+Setuju
+b) Menghitung nilai rerata skor
+tiap indikator
+∑X
+̅=
+X
+n
+Keterangan:
+̅
+X = rerata skor
+∑ X= jumlah total skor tiap
+aspek
+n = jumlah item
+(Eko Putro Widoyoko, 2011:
+237)
+c) Menjumlahkan rerata skor tiap
+aspek
+
+HASIL PENELITIAN DAN PEMBAHASAN
+Deskripsi Data Penelitian
+Fokus penelitian ini adalah kelayakan
+media game edukatif “Asah Akuntansi”
+Subjek penelitian ini terdiri dari ahli materi
+(dosen Akuntansi Pajak), 1 ahli media (dosen
+Teknologi
+Informatika),
+1
+Praktisi
+Pembelajaran Akuntansi (Guru ekonomiAkuntansi), dan 27 siswa kelas XI IPS 3
+SMA N 1 Imogiri. Data yang diperoleh
+kemudian disajikan dalam bentuk deskripsi.
+Deskripsi data yang disajikan dalam
+penelitian ini meliputi tabel penilaian dan
+diagram penilaian yang akan dibahas lebih
+lanjut pada bagian hasil penelitian dan
+pembahasan.
+
+31
+
+Jurnal Pendidikan Akuntansi Indonesia, Vol. XIV, No. 1, Tahun 2016
+Ditto Rahmawan Putra & Mahendra Adhi Nugroho
+25 - 34
+
+3) Tahap
+Pengembangan
+(Development)
+berupa
+tahap
+pembuatan media pembelajaran
+asah akuntansi yang meliputi 4
+kegiatan
+yaitu
+pembuatan
+antarmuka, pengkodean, pengujian,
+dan deploying, lalu validasi I, revisi
+I, validasi II, dan revisi II.
+
+Hasil Penelitian
+Pengembangan game edukatif “Asah
+Akuntansi” berbasis android dilakukan
+melalui lima tahap yaitu:
+
+4) Tahap
+Implementasi
+(Implementation), meliputi tahap uji coba
+game edukatif “Asah Akuntansi”
+terhadap subjek uji coba lapangan.
+Berikut merupakan tampilan Media
+Pembelajaran game edukatif “Asah
+Akuntansi” berbasis android :
+
+Gambar 2. Story Board I
+1) Tahap Analisis (Analysis) berupa
+analisis kebutuhan berkaitan dengan
+permasalahan karakteristik siswa,
+perangkat keras (hardware) serta
+perangkat lunak (software) dan
+analisis
+kompetensi
+dan
+instruksional berkaitan dengan
+standar kompetensi dan kompetensi
+dasar yang akan dimuat dalam
+media.
+
+Gambar 3. Story Board II
+
+2) Tahap Desain (Desain), merupakan
+tahap perancangan media yang
+meliputi
+pembuatan
+flowchart,storyboard, penyusunan
+materi,
+soal,
+dan
+jawaban,
+pengumpulan
+dan
+pembuatan
+background, gambar dan tombol,
+serta penggunaan musik dan suara.
+
+32
+
+Jurnal Pendidikan Akuntansi Indonesia, Vol. XIV, No. 1, Tahun 2016
+Ditto Rahmawan Putra & Mahendra Adhi Nugroho
+25 - 34
+
+ahli materi, ahli media,dan praktisi
+pembelajaran akuntansi.
+Hal yang perlu diperhatikan ketika
+melakukan pengembangan suatu media
+adalah aspek kelayakan media itu
+sendiri. Kelayakan media pembelajaran
+diperoleh berdasarkan penilaian ahli
+materi (dosen Akuntansi Pajak), ahli
+media (dosen Teknologi Informatika),
+dan praktisi pembelajaran akuntansi
+(guru
+ekonomi-akuntansi)
+Berikut
+merupakan hasil validasi oleh ketiga ahli.
+Tabel 3. Kelayakan
+Media
+Tahap Validasi
+N
+o
+1
+2
+
+3
+
+Gambar 4. Story Board III
+Pembahasan
+a. Pengembangan Media Pembelajaran
+game edukatif “Asah Akuntansi”
+berbasis android
+Pengembangan
+game
+edukatif
+“Asah Akuntansi” berbasis android
+mengikuti
+model
+pengembangan
+ADDIE, sesuai dengan teori yang
+dikemukakan oleh Dick dan Carry
+(1996) dalam Endang Mulyatiningsih
+(2012: 200-202) bahwa ada lima tahapan
+dalam model ADDIE yaitu tahap analisis
+(analysis),
+desain
+(design),
+pengembangan
+(development),
+implementasi (implementation), dan
+evaluasi (evaluation). Pertimbangan
+penggunaan model ini, karena model
+ADDIE sederhana dan terstruktur secara
+sistematis serta mudah dipelajari.
+
+Tahap
+Penilaian
+Penilaian Ahli
+Materi
+Penilaian Ahli
+Media
+Penilaian
+Praktisi
+Pembelajaran
+Akuntansi
+Rata-rata
+
+Jum Rera
+lah
+ta
+Skor Skor
+
+pada
+
+Kelaya
+kan
+Sangat
+Layak
+Sangat
+Layak
+
+72
+
+4,87
+
+104
+
+4,33
+
+109
+
+4,75
+
+Sangat
+Layak
+
+4,65
+
+Sangat
+Layak
+
+Berdasarkan tabel 3 diketahui bahwa
+media pembelajaran “Asah Akuntansi”
+berbasis android memperoleh kategori
+Sangat Layak untuk tahap penilaian ahli
+materi dengan rerata skor 4,87 dan untuk
+tahap penilaian oleh Ahli Media
+memperoleh kategori Sangat Layak
+dengan rerata skor 4,33, kemudian untuk
+tahap
+penilaian
+oleh
+praktisi
+pembelajaran akuntansi memperoleh
+kategori Sangat Layak dengan rerata
+skor 4,75 dan secara keseluruhan dari
+ketiga tahap penilaian yang dilakukan
+oleh Ahli media, Ahli Materi, dan
+Praktisi
+Pembelajaran
+Akuntansi
+diperoleh rerata skor 4,65 yang masuk
+dalam kategori sangat layak.
+
+b. Kelayakan Media Pembelajaran Game
+Edukatif berbasis android “Asah
+Akuntansi” berdasarkan penilaian dari
+33
+
+Jurnal Pendidikan Akuntansi Indonesia, Vol. XIV, No. 1, Tahun 2016
+Ditto Rahmawan Putra & Mahendra Adhi Nugroho
+25 - 34
+
+c. Kelayakan Media Pembelajaran Game
+Edukatif “Asah Akuntansi” berbasis
+android berdasarkan penilaian siswa.
+Tabel 4. Penilaian Siswa Kelas XI
+IPS 3
+RataAspek
+Jumlah
+No
+rata Kategori
+Penilaian Nilai
+Nilai
+Layak
+1 XI IPS 3
+2261
+4.19
+Rata-rata
+
+4,19
+
+media pembelajaran berbasis android. Serta
+game edukatif “Asah Akuntansi” ini perlu
+dikembangkan lebih lanjut seperti memuat
+animasi bergerak dan dapat digunakan di
+tablet android yang berukuran layar ≥ 7 inchi
+sehingga tidak hanya digunakan dalam
+android.
+DAFTAR PUSTAKA
+Eko Putro Widoyoko. (2011). Evaluasi
+Program Pembelajaran. Yogyakarta:
+Pustaka Pelajar.
+
+Layak
+
+Berdasarkan Tabel 4 diketahui bahwa
+penilaian siswa kelas XI IPS 3 terhadap
+media pembelajaran “Asah Akuntansi”
+berbasis android diperoleh rerata skor
+4,19 yang masuk dalam kategori Layak.
+Berdasarkan penilaian ahli materi,
+ahli
+media,
+praktisi
+pembelajaran
+akuntansi dan penilaian oleh siswa dapat
+disimpulkan bahwa game edukatif “Asah
+Akuntansi” berbasis android “Sangat
+Layak”
+digunakan
+sebagai
+media
+pembelajaran untuk siswa kelas XI IPS
+untuk mata pelajaran akuntansi, serta game
+edukatif ini dapat disebarluaskan sebagai
+salah satu alternatife media pembelajaran
+kepada siswa kelas XI IPS SMA di
+berbagai sekolah yang ada di Indonesia.
+
+Eko Susanto. (2012). 60 Games untuk
+Mengajar. Yogyakarta: Lukita.
+Endang Mulyatiningsih. (2012). Metode
+Penelitian
+Terapan
+Bidang
+Pendidikan. Bandung: Alfabeta
+Nana Sudjana & Ahmad Rivai. (2010). Media
+Pengajaran. Bandung: PT Sinar Baru
+Algesindo.
+Sugiyono. (2013). Metode Penelitian
+Kuantitatif Kualitatif dan R&D.
+Bandung: Alfabeta.
+Sukardjo. (2005). Evaluasi Pembelajaran
+Semester 2. Yogyakarta: PPs UNY.
+Tutut. (2013). Smartphone Android:Samsung
+Kuasai 80% Pasar Indonesia.. Diakses
+tanggal 8 Desember 2015 dari
+http://www.solopos.com/2013/08/01/p
+enjualan-smartphone-samsungkuasai80-pasar-indonesia-433539.
+
+SIMPULAN DAN SARAN
+Simpulan
+Berdasarkan hasil penelitian dan
+pembahasan, dapat disimpulkan bahwa:
+a. Pengembangan game edukatif “Asah
+Akuntansi” berbasis android pada
+materi jurnal penyesuaian melalui
+empat tahap yaitu : analysis, design,
+development, implementation.
+b. Media pembelajaran game edukatif
+“Asah Akuntansi” berbasis android
+sangat layak digunakan sebagai
+media pembelajaran untuk siswa
+kelas XI IPS SMA Negeri 1 Imogiri.
+Saran
+Sebelum
+melakukan
+penelitian
+pengembangan, waktu pengembangan lebih
+diperhatikan khususnya dalam membuat
+34
+
+

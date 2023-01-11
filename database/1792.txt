@@ -1,0 +1,397 @@
+Hubungan antara ENSO dengan Variasi Curah Hujan …. (Mulyana)
+
+1
+
+HUBUNGAN ANTARA ENSO DENGAN VARIASI
+CURAH HUJAN DI INDONESIA
+Erwin Mulyana
+
+1
+
+Intisari
+Telah dihitung hubungan antara Index Osilasi Selatan (SOI) dengan curah hujan di
+wilayah Indonesia dengan menggunakan data rata-rata bulanan SOI dan curah hujan
+selama 33 tahun (1961-1993). Berdasarkan rata -rata tiga bulanan diperoleh bahwa bulan
+September-Oktober -Nopember merupakan periode dimana SOI memiliki hubungan
+sangat kuat (r > +0.6) dengan curah hujan di hampir seluruh wilayah Indonesia. Daerah
+tersebut adalah Sumatra Selatan, Bengkulu, Lampung, Jawa, Bali, Nusa Tenggara,
+Kalimantan, Sulawesi Selatan, Sulawesi Tenggara, Sulawesi Utara, Maluku Utara, dan
+Irian Jaya. Sedangkan curah hujan di Sumatra Barat, Riau, Sumatra Utara dan Aceh
+tidak terpengaruh oleh perubahan nilai SOI (-0.3 < r < +0.3). Pengaruh El Nino di setiap
+daerah di Indonesia pada umumnya berlangsung pada masa transisi dari musim
+kemarau ke musim hujan.
+
+Abstract
+The correlation between Southern Oscillation Index (SOI) and precipitation over
+Indonesia have been analyzed for period 1961-1993. Strong correlation found during
+September-October -November season over South Sumatra, Bengkulu, Lampung, Java,
+Bali, Nusa Tenggara, Kalimantan, South Sulawesi, Southeast Sulawesi, North Sulawesi,
+North Maluku, and Irian Jaya. Precipitation over these areas decrease during El Nino
+episode. Whereas precipitation over West Sumatra, Riau, North Sumatra and Aceh does
+not have good correlation with SOI. El Nino influences the precipitation during the
+transition period especially from dry season to rainy season.
+Kata kunci : SOI, curah hujan, korelasi kuat, musim.
+
+1. PENDAHULUAN
+Iklim di Indonesia dipengaruhi oleh monsoon
+yang ditimbulkan oleh adanya sel tekanan tinggi
+dan sel tekanan rendah di benua Asia dan
+Austr alia secara bergantian. Pada musim dingin di
+belahan bumi utara (BBU), yaitu pada bulan
+Desember, Januari, dan Februari, terdapat sel
+tekanan tinggi di benua Asia sedangkan di
+belahan bumi selatan pada waktu tersebut terjadi
+musim panas akibatnya terdapat sel tekanan
+rendah di benua Australia. Karena adanya
+perbedaan tekanan di kedua benua tersebut maka
+angin bertiup dari benua Asia menuju Australia.
+Selama periode ini di sebagian besar wilayah
+Indonesia terutama di sebelah selatan khatulistiwa
+angin bertiup dari barat ke timur yang praktis
+bersamaan dengan musim hujan. Sementara pada
+musim panas di belahan bumi utara terjadi
+sebaliknya, angin berhembus dari benua Australia
+menuju ke benua Asia sehingga angin di wilayah
+Indonesia bertiup dari timur ke barat yang
+bersamaan dengan musim kemarau, yaitu pada
+bulan Juni, Juli dan Agustus.
+1. Peneliti pada UPT Hujan Buatan, BPP Teknologi
+Email: erwin_m@bppt.go.id
+
+Tidak selamanya iklim di Indonesia berjalan
+dengan normal setiap tahunnya, ada suatu saat
+terjadi
+penurunan
+curah
+hujan
+sehingga
+mengalami kekeringan dan pada saat yang lain
+curah hujannya meningkat sehingga terjadi banjir.
+Salah satu penyebab perubahan curah hujan di
+Indonesia, termasuk juga di sebagian besar
+belahan dunia adalah ENSO (El Nino -Southern
+Oscillation) atau sering disebut El Nino. Fenomena
+El Nino ditandai oleh terjadinya pergeseran kolam
+hangat yang biasanya berada di perairan
+Indonesia ke arah timur (Pasifik Tengah) yang
+diiringi oleh pergeseran lokasi pembentukan awan
+yang biasanya terjadi di wilayah Indonesia ke arah
+timur yaitu di Samudra Pasifik Tengah. Dengan
+bergesernya lokasi pembentukan awan tersebut,
+maka timbul kekeringan yang berkepanjangan di
+Indonesia.
+Penelitian tentang El Nino dan pengaruhnya
+terhadap curah hujan telah banyak di lakukan.
+Selama El Nino berlangsung, curah hujan di
+wilayah Indonesia-New Guenia berkurang pada
+bulan Juni -Nopember (Ropellwski dan Halpert,
+1987). Daerah Indonesia-New Guenia mengalami
+kekeringan ketika berlangsung El Nino (Kane,
+1997). Penelitian lain juga menunjukkan bahwa
+
+2
+
+Jurnal Sains & Teknologi Modifikasi Cuaca, Vol. 3, No. 1, 2002: 1 -4
+
+awal musim hujan di Jawa lebih lambat
+dibandingkan dengan rata-ratanya ketika terjadi El
+Nino dan lebih cepat dari rata-ratanya ketika
+terjadi La Nina (Hamada, 1995).
+Mengingat wilayah Indonesia sangat luas
+maka pengaruh topografi dan letak geografi
+sangat mempengaruhi curah hujan di setiap
+daerah, dengan demikian pengaruh El Nino juga
+diharapkan akan berlainan di setiap daerah. Untuk
+melihat seberapa kuat hubungan antara El Nino
+dengan curah hujan tersebut, penulis mencoba
+menganalisis hubungan nilai Index Osilasi Selatan
+(SOI) dengan curah hujan secara musiman dan
+spasial di seluruh wilayah Indonesia.
+
+2. DATA DAN METODE
+Dalam penelitian ini digunakan data rata-rata
+bulanan curah hujan dan nilai Index Osilasi
+Selatan (SOI) selama 33 tahun yaitu mulai Januari
+1961 sampai dengan Desember 1993. SOI adalah
+anomali tekanan udara permukaan yang telah
+ternormalkan di Tahiti dikurangi dengan anomali
+tekanan
+udara
+permukaan
+yang
+telah
+ternormalkan di Darwin. Data SOI berasal dari
+http://www.cgd.ucar.edu/cas/catalog/climind/soi.ht
+ml. Sementara data curah hujan diperoleh dari
+GHCN (Global Historical Climate Network).
+Kemudian data tersebut diubah dalam bentuk grid
+(Mulyana, 2002).
+Data grid tersebut kemudian dirata -ratakan
+untuk setiap ti ga bulan yaitu Juni-Juli-Agustus
+(JJA),
+September-Oktober -Nopember
+(SON),
+Desember-Januari-Februari (DJF), dan MaretApril-Mei (MAM).
+Selanjutnya antara SOI dan curah hujan
+dihitung koefisien korelasinya masing-masing
+untuk SON, DJF, MAM, dan JJA. Pada de rajat
+kepercayaan 95%, nilai koefisien korelasi yang
+signifikan adalah 0.34.
+
+3. HASIL DAN PEMBAHASAN
+
+umumnya kering, Maluku bagian selatan pada
+periode ini merupakan puncak musim hujan
+dengan curah hujan diatas 350 mm/bulan.
+Gambar 1 adalah besarnya koefisien korelasi
+antara curah hujan dan SOI pada bulan Juni -JuliAgustus dengan interval kontur 0.1, warna putih
+menunjukkan koefisien korelasi yang tidak
+signifikan. Dari gambar tersebut pengaruh SOI
+terhadap curah hujan tampak di Sumatra Selatan,
+Lampung, Jawa Barat, Jawa Tengah, Kalimantan
+bagian selatan, Sulawesi Selatan, Sulawesi
+Tenggara, Sulawesi Utara, Nusatenggara Timur,
+sebagian kecil Maluku serta Irian Jaya bagian
+barat. Koefisien korelasi di atas +0.6 terdapat di
+laut antara Sumatra dan Kalimantan, Sulawesi
+Tenggara, Sulawesi Utara serta wilayah sebelah
+selatan Irian Jaya. Tingginya koefisien korelasi
+menunjukkan bahwa di daerah tersebut pada
+bulan Juni-Juli Agustus, curah hujan sangat
+dipengaruhi oleh perubahan nilai SOI yaitu cur ah
+hujan akan berkurang bila SOI nilainya negatif (El
+Nino) dan akan bertambah bila nilai SOI positif (La
+Nina).
+
+3.2. September-Oktober-Nopember
+Sebagian besar wilayah Indonesia pada
+bulan September-Oktober-Nopember merupakan
+masa transisi dari musim kemarau ke musim hujan
+dengan curah hujan 100-200 mm/bulan, daerah
+tersebut adalah Lampung, Jawa, Nusa Tenggara,
+dan Sulawesi. Sedangkan daerah Sumatra Barat,
+pantai barat Sumatra Utara, dan Kalimantan Barat,
+pada periode ini merupakan puncak musim hujan
+dengan curah hujan di atas 300 mm/bulan.
+Pada Gambar 2 terlihat bahwa koefisien
+korelasi diatas +0.6 terdapat di Lampung,
+sebagian Sumatra Selatan, Jawa Barat bagian
+timur, Jawa Tengah, Jawa Timur, Bali, Nusa
+Tenggara, sebagian besar Kalimantan, Sulawesi
+Selatan, Sulawesi Tenggara, Sulawesi Utara,
+Sebagian Kepulauan Maluku, dan sebagian Irian
+Jaya. Tingginya koefisien korelasi menunjukkan
+bahwa pada bulan September-Oktober -Nopember
+ketika terjadi El Nino di daerah tersebut curah
+
+Berikut ini adalah hasil kajian hubungan
+antara index osilasi selatan (SOI) dengan curah
+hujan di wilayah Indonesia.
+
+3.1. Juni-Juli-Agustus
+Secara umum periode ini merupakan musim
+kemarau di Indonesia. Curah hujan pada
+umumnya kurang dari 200 mm/bulan. Daerah
+paling kering
+adalah
+Jawa
+Timur dan
+Nusatenggara dengan curah hujan di bawah 50
+mm/bulan). Sedikitnya curah hujan di daerah
+tersebut akib at masuknya angin tenggara dari
+Australia Utara yang sifatnya kering. Berbeda
+dengan daerah lainnya di Indonesia yang
+
+Gambar 2. Koefisien korelasi antara curah
+hujan dengan SOI bulan SeptemberOktober -Nopember (interval kontur 0.1).
+
+Hubungan antara ENSO dengan Variasi Curah Hujan …. (Mulyana)
+hujannya akan berkurang.
+Daerah
+yang
+curah
+hujannya
+tidak
+terpengaruh oleh perubahan nilai SOI adalah
+Sumatra Barat, Riau, Sumatra Utara, Aceh, serta
+Irian Jaya bagian selatan. Daerah tersebut
+koefisien korelasinya sangat kecil (-0.3<r<+0.3).
+
+3.2. Desember-Januari-Februari
+Pada periode ini terjadi peningkatan curah
+hujan dibandingkan dengan periode sebelumnya.
+Hampir seluruh wilayah Indonesia memiliki curah
+hujan di atas 250 mm/bulan, yaitu Sumatra Barat,
+Jambi, Sumatra Selatan, Lampung, Jawa,
+Kalimantan,
+Sulawesi
+Selatan,
+Sulawesi
+Tenggara, dan sebagian Irian Jaya. Sementara
+Aceh, sebagian Sumatra Utara, Sulawesi Tengah,
+dan Kepulauan Maluku curah hujannya relatif
+rendah.
+Seiring dengan meningkatnya curah hujan di
+wilayah Indonesia, pengaruh SOI terhadap curah
+hujan mulai berkurang. Dari Gambar 3 bisa dilihat
+koefisien korelasi di atas +0.6 hanya terdapat di
+Sulawesi Utara dan Timor Timur. Bila kita amati
+pada periode yang sama ternyata di daerah
+tersebut curah hujannya relatif
+kecil yaitu di
+bawah 200 mm/bulan. Sementara
+di
+Jawa
+Tengah, Kalimantan Selatan, Nusatenggara Timur
+dan Maluku Utara koefisen korelasinya berkisar
+antara +0.4 hingga +0.5.
+
+Gambar 3. Koefisien korelasi antara curah
+hujan dengan SOI bulan DesemberJanuari-Februari (interval kontur 0.1).
+Pada periode ini muncul koefisien korelasi
+negatif yaitu di Riau, Kalimantan Selatan,
+sebagian Kalimantan Barat, Irian Jaya bagi an
+barat, dan sebagian Sulawesi Tenggara dengan
+nilai antara –0.5 hingga –0.3. Hal ini menunjukkan
+bahwa ketika El Nino berlangsung curah hujan di
+daerah tersebut bukannya berkurang akan tetapi
+bertambah besar.
+Daerah
+yang
+curah
+hujannya
+tidak
+terpengaruh SOI pada periode ini terdapat di
+sebagian besar Sumatra, Jawa Barat bagian
+barat, Kalimantan Timur, Maluku bagian selatan,
+serta Irian Jaya daerah kepala burung dan bagian
+timur.
+
+3
+
+3.3. Maret-April-Mei
+Periode ini merupakan masa transisi dari
+musim hujan ke musim kemarau. Beberapa
+daerah yang curah hujannya masih diatas 250
+mm/bulan terdapat di Sumatra Barat, Kalimantan,
+dan Irian Jaya. Sementara daerah yang memilki
+curah hujan antara 200 hingga 250 mm/bulan
+terdapat di Riau, Jambi, Sumatra Selatan,
+Lampung, Jawa Barat, Jawa Tengah, Sulawesi
+Selatan, Sulawesi Tenggara, dan Kepulauan
+Maluku. Sedangkan curah hujan di bawah 150
+mm/bulan terdapat di Aceh, Jawa Timur, Bali,
+Nusatenggara, Sulawesi Utara dan sebagian
+Sulawesi Tengah.
+Memasuki bulan Maret, April dan Mei,
+pengaruh SOI terhadap curah hujan di wilayah
+Indonesia semakin berkurang. Hampir seluruh
+wilayah
+Indonesia
+curah
+hujannya
+tidak
+berhubungan dengan perubahan nilai SOI seperti
+ditunjukkan pada Gambar 4. Daerah yang masih
+terpengaruh El Nino adalah Sulawesi Utara,
+sebagian Maluku Utara, Sulawesi Selatan dan
+Nusatenggara Timur dengan koefisien korelasi
+antara +0.4 hingga +0.6, sedangkan sebagian
+daerah Kalimantan Barat masih memiliki korelasi
+negatif.
+
+Gambar 4. Koefisien korelasi antara curah
+hujan dengan SOI bulan Maret-April-Mei
+(interval kontur 0.1).
+Dalam periode satu tahun, pengaruh El Nino
+terhadap curah hujan di Indonesia berlangsung
+pada bulan Juni hingga Nopember. Periode
+tersebut termasuk periode puncak perkembangan
+El Nino yang berlangsung pada bulan Juli hingga
+Desember.
+Bulan September – Oktober - Nopember
+merupakan periode dimana pengaru h El Nino
+paling kuat dan paling luas cakupannya terhadap
+curah hujan di Indonesia. Pada periode tersebut
+terjadi anomali positif suhu permukaan laut hingga
+o
++1.8 C yang terjadi di Samudra Pasifik bagian
+timur serta terjadi anomali positif angin zonal
+(tim ur-barat) hingga +2 m/s di Samudra Pasifik
+bagian barat sedangkan di Samudra Hindia bagian
+timur terjadi anomali negatif hingga -2 m/s
+(Harrison dan Larkin, 1998).
+
+4
+
+Jurnal Sains & Teknologi Modifikasi Cuaca, Vol. 3, No. 1, 2002: 1 -4
+
+Adanya anomali positif angin zonal di
+Samudra Pasifik bagian barat menyebabkan
+menguatnya angin baratan di daerah tersebut,
+sementara pada saat yang bersamaan di Samudra
+Hindia bagian timur terjadi penguatan angin
+timuran akibat adanya anomali negatif. Dengan
+berlangsungnya anomali angin di dua tempat
+tersebut
+mengakibatkan
+wilayah
+Indonesia
+merupakan daerah divergen, dengan demikian
+terjadi aliran udara turun di Indonesia sehingga
+akan sulit terjadi hujan.
+Daerah Sumatra Barat, Riau, Sumatra Utara, dan
+Aceh curah hujannya tidak terpengaruh oleh El
+Nino. Hal tersebut kemungkinan akibat tidak
+ada nya perubahan sirkulasi udara di atas wilayah
+tersebut selama El Nino berlangsung.
+
+4. KESIMPULAN
+Penurunan curah hujan di Indonesia akibat El
+Nino paling kuat terdapat di daerah Sumatra
+bagian selatan, Jawa, Kalimantan, Sulawesi
+Selatan, Sulawesi Tenggara, Sulawesi Utara,
+Maluku Utara, serta Irian Jaya yang berlangsung
+pada bulan September-Oktober-Nopember. Pada
+bulan tersebut umumnya merupakan masa
+peralihan dari musim kemarau ke musim hujan.
+Berkurangnya curah hujan tersebut diduga akibat
+terbentuknya daerah divergen di lapisan bawah,
+
+dengan demikian terjadi aliran udara turun
+sehingga akan sulit terjadi hujan.
+Curah hujan sepanjang tahun di Sumatra
+terutama di sebelah utara equator tidak terkait
+dengan kejadian El Nino.
+
+DAFTAR PUSTAKA
+Hamada, J.I., 1995: Climatological Study on
+Rainfall Variation in Indonesia. Master Thesis,
+Kyoto University
+Harrison,D.E. dan N.K. Larkin, 1998: El NinoSouthern
+Oscillation
+Sea
+Surface
+Temperature and Wind Anomalies, 19461993”. Rev. of Geoph., 36, 3, 353 -399.
+Kane, R.P.,1997: Relationship of El Nino -Southern
+Oscillation
+and
+Pacific
+Sea
+Surface
+Temperature with Rainfall in Various Region
+of the Globe, Mon. Wea. Rev ., 125 , 17921800.
+Mulyana, E.,2002: Pengaruh Dipole Mode
+terhadap Curah Hujan di Indonesia, Jurnal
+Sains & Teknologi Modifikasi Cuaca, 3,
+Ropelweski, C.F. and M.S. Halpert, 1987: Global
+and Regional Scale Precipitation Pattern
+Associated with the El Nino /Southern
+Oscillation”, Mon. Wea. Rev., 115, 16061626.
+
+DATA PENULIS
+ERWIN MULYANA. Lahir di Cirebon, 10-0 9-1964. Menyelesaikan sarjana di Institut Teknologi Bandung,
+jurusan Geofisika – Meteorologi (1989). Master bidang Earth Environmental Science, Hokkaido
+University, Jepang (2001). Pernah bekerja di Pusat Pengembangan Geologi Kelautan (PPGL, 19891991), Elnusa (1991 -1992). Sejak 1992 bekerja di UPT Hujan Buatan, BPP Teknologi hingga sekarang.
+
+

@@ -1,0 +1,528 @@
+Journal Riset Kedokteran
+
+https://doi.org/10.29313/jrk.v1i2.563
+
+Hubungan Rasio CT dan Ekspresi Gen E dengan Kejadian Gagal
+Napas pada Pasien Covid-19 Rawat Inap di RS X
+Dika Rifky Fernanda*, Lelly Yuniarti
+Prodi Pendidikan Kedokteran, Fakultas Kedokteran, Universitas Islam
+Bandung, Indonesia.
+*
+
+dikaarifky@gmail.com, lelly.yuniarti@gmail.com
+
+Abstract. Introduction: Corona virus disease 2019 (COVID-19) is a new disease that
+causes millions of deaths worldwide. The majority of deaths are due to pulmonary
+degeneration leading to respiratory failure. The gold standard for COVID-19
+diagnostics is the examination of the nucleic acid of the SARS-CoV-2 virus using
+RT-PCR which produces CT values for the SARS-CoV-2 gene target and internal
+control (CT). One of the target genes that is often examined in COVID-19
+examination is gene E. This study aims to analyze the relationship between the CT
+IC/CT gene E ratio and the relative expression of the SARS-CoV-2 E gene with the
+incidence of respiratory failure. Methods: This study is a cross sectional study
+conducted at X General Hospital on 196 patients. Data obtained from medical records
+in the form of patient characteristics and PCR examination results from the
+laboratory. Relative gene expression was calculated using the livak method (2ΔΔCT). The CT ratio was calculated by comparing the internal control CT with the
+CT gene E. The relationship of gene relative expression and CT ratio with the
+incidence of respiratory failure was analyzed using thestatistic unpaired t-test at 95%
+confidence level. Results: The results showed that the characteristics of COVID-19
+patients were more males, aged 41-60 and 40 of the total patients experienced
+pulmonary distress. The unpaired t-test showed that there was no relationship
+between the CT IC/CT gene E ratio and the relative expression of the SARS-CoV-2
+gene E and the incidence of respiratory failure, with P values (P=0.2083) and
+(P=0,8018). Conclusion: The conclusion of this study is that there is no relationship
+between the ratio of internal control CT/CT of the SARS-CoV-2 gene and the relative
+expression level of the SARS-CoV-2 E gene with the incidence of respiratory failure
+in confirmed COVID-19 patients hospitalized at Hospital X. There are several factors
+that influence the incidence of respiratory failure in addition to comorbidities such as
+age and gender.
+Keywords: COVID-19, Ct value, gene relative expression, respiratory failure,
+gene E.
+Abstrak. Pendahuluan: Corona virus disease 2019 (COVID-19) adalah penyakit baru
+yang menyebabkan jutaan kematian di seluruh dunia. Mayoritas kematian disebabkan
+oleh perburukan paru yang berujung pada gagal napas. Standar baku emas diagnostik
+COVID-19 adalah pemeriksaan asam nukleat virus SARS-CoV-2 dengan
+menggunakan RT-PCR yang menghasilkan nilai CT target gen SARS-CoV-2 dan
+internal control (CT). Salah satu gen target yang sering diperiksa pada pemeriksaan
+COVID-19 adalah gen E. Penelitian ini bertujuan untuk menganalisis hubungan rasio
+CT IC/CT gen E dan ekspresi relatif gen E SARS-CoV-2 dengan kejadian gagal
+napas. Metode: Penelitian ini merupakan penelitian cross sectional yang dilakukan di
+RS X pada 196 pasien. Data diperoleh dari medical record berupa karakteristik pasien
+dan hasil pemeriksaan PCR dari laboratorium. Ekspresi gen relatif dihitung dengan
+menggunakan metode livak (2-ΔΔCT). Rasio CT dihitung dengan membandingkan
+CT internal control dengan CT gen E. Hubungan ekspresi relatif gen dan rasio CT
+dengan kejadian gagal napas dianalisis menggunakan uji statistik unpaired t-test pada
+tingkat kepercayaan 95%. Hasil: Hasil penelitian didapatkan karakteristik pasien
+COVID-19 lebih banyak laki-laki, usia 41−60 dan 40 orang dari total pasien
+mengalami pulmonary distress. Uji unpaired t-test menujukan tidak terdapat
+hubungan antara rasio CT IC/CT gen E dan ekspresi relatif gen E SARS-CoV-2
+dengan kejadian gagal napas, dengan nilai P berturut-turut P=0,2083 dan P=0,8018.
+Kesimpulan: Kesimpulan penelitian ini adalah tidak terdapat hubungan antara rasio
+CT internal control/CT gen E SARS-CoV-2 dan tingkat ekspresi relatif gen E SARSCorresponding Author
+Email: lelly.yuniarti@gmail.com
+
+107
+
+108 | Dika Rifky Fernanda, et al.
+
+CoV-2 dengan kejadian gagal napas pada pasien terkonfirmasi COVID-19 yang
+dirawat inap di RS X. Terdapat beberapa faktor yang memengaruhi kejadian gagal
+napas selain komorbid seperti usia dan jenis kelamin.
+Kata Kunci: COVID-19, Ct value, ekspresi relatif gen, gagal napas, gen E.
+
+Volume 2, No. 1, Tahun 2022, Hal: 107-115
+
+ISSN: 2798-6594
+
+Hubungan Rasio CT dan Ekspresi Gen E dengan Kejadian … | 109
+
+A.
+Pendahuluan
+Corona virus disease 19 (COVID-19) merupakan penyakit baru yang disebabkan oleh severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2 ), virus ini menyebabkan pandemi di
+dunia pada akhir tahun 2020 dengan ratusan juta kasus dan jutaan kematian. Kejadian dan
+kematian yang tinggi disebabkan oleh mudah terjadinya penyebaran virus serta perburukan
+manifestasi akibat dari kerusakan alveolus secara masif dan multiple organ failures sehingga
+menyebabkan outcome fatal yang dikenal dengan kondisi gagal napas dan berujung pada
+kematian pasien.1
+Diagnosa awal merupakan kunci utama pencegahan terjadinya perburukan manifestasi
+pasien. Standar baku emas pemeriksaan COVID-19 sekarang adalah dengan menggunakan real
+time polymerase chain reaction (RT-PCR) yang mengonfirmasi diagnosis dengan
+memperbanyak asam nukleat virus sampai virus terdeteksi.2 Pemeriksaan ini akan menghasilkan
+cycle treshold (CT) value yang didefinisikan sebagai jumlah siklus amplifikasi yang dibutuhkan
+untuk mencapai treshold sehingga asam nukleat virus terdeteksi.2 Hasil CT berbanding terbalik
+dengan jumlah asam nukleat virus yang terdapat dalam sampel. Nilai CT yang rendah
+menunjukkan siklus amplifikasi yang dibutuhkan untuk mencapai threshold lebih sedikit karena
+asam nukleat yang terkandung tinggi dalam sample.3 Pada pemeriksaan RT-PCR akan
+dihasilkan CT internal control sebagai standar yang merupakan house keeping gene. Target gen
+utama pemeriksaan ini adalah gen E (envelope) sebagai first line screening yang
+direkomendasikan World Health Organization (WHO) yang juga digunakan sebagai target gen
+pemeriksaan COVID-19 di mayoritas laboratorium di Indonesia.4-6
+Sampai saat ini pemeriksaan RT-PCR digunakan oleh tenaga kesehatan hanya untuk
+melihat ada tidaknya virus pada pasien,7 padahal prinsip dan proses PCR dapat digunakan untuk
+menghitung tingkat ekspresi gen SARS-CoV-2 yang dapat menunjukkan viral load. Viral load
+yang tinggi dapat menyebabkan manifestasi klinis yang buruk pada pasien COVID-19. Hasil
+PCR berupa data CT dapat digunakan untuk menganalisis tingkat ekspresi gen dan memprediksi
+manifestasi klinis, sehingga dapat menjadi prediktor perburukan penyakit pada pasien COVID19.2,8-10 Tujuan penelitian ini adalah menganalisis hubungan rasio CT IC/CT gen E dan ekspresi
+relatif gen E SARS-CoV-2 dengan kejadian gagal napas.
+B.
+
+Metodologi Penelitian
+
+Penelitian ini menggunakan desain penelitian observasional analitik dengan metode
+cross sectional yang dilakukan di RS X. Pengambilan sampel dilakukan dengan teknik
+purposive sampling dari medical record pasien terkonfirmasi positif COVID-19 yang
+dirawat inap di RS X pada periode Oktober−Desember 2020. Kriteria inklusi meliputi
+pasien yang terkonfirmasi COVID-19 dan usia lebih atau sama dengan 17 tahun, dengan
+kriteria eksklusi meliputi pasien yang memiliki riwayat komorbid dan medical record
+yang tidak lengkap. Analisis hubungan rasio CT IC/CT gen E dan ekspresi relatif gen E
+SARS-CoV-2 dengan kejadian gagal napas diuji menggunakan uji statistik unpaired ttest pada tingkat kepercayaan 95% (nilai p <0,05 dianggap signifikan). Data ditabulasi
+dan kemudian diolah menggunakan software Statistik Graph pad Prism Versi 9.2.0
+(322).
+C.
+Hasil Penelitian dan Pembahasan
+Karakteristik Populasi
+Jumlah subjek penelitian COVID-19 di Rumah Sakit X sebanyak 196. Subjek yang sesuai
+dengan kriteria inklusi dan tidak sesuai dengan kriteria eksklusi untuk mencari hubungan antara
+gen E dan gagal napas sebanyak 87 pasien. Karakteristik pasien berdasar atas usia terdiri dari
+usia 17 40 sebanyak 38 pasien (19,4%), usia 41 60 tahun sebanyak 98 pasien (50%), dan di
+atas 61 tahun sebanyak 60 pasien (30,6%). Jumlah pasien laki-laki sebanyak 99 pasien (50,5%).
+Berdasar atas tanda dan gejala, demam 146 pasien (74,5%), sesak 133 pasien (67,9%), ISPA 63
+pasien (32,1%), pusing 56 pasien (28,6%), pneumonia 51 pasien (26,0%), pulmonary distress
+40 pasien (20,4%), nyeri dada 36 pasien (18,4%), renal injury 32 pasien (16,3%), diare 29 pasien
+JRK is licensed under Creative Commons AttributionNonCommercial-ShareAlike 4.0 International License. Kedokteran
+
+110 | Dika Rifky Fernanda, et al.
+
+(14,8%), cardiac injury 20 pasien (10,2%), anosmia 9 pasien (4,6%), gangguan BAB 6 pasien
+(3,1%). Berdasar atas hasil ronsen pasien yang mengalami bronhopneumonia bilateral sebanyak
+143 pasien (73,0%), normal 33 pasien (16,8%), pneumonia 9 pasien (4,6%), TB paru 1 pasien
+(0,5%). Pasien dengan penyakit penyerta sebanyak 113 (57,6%), pasien hipertensi 68 orang
+(60,2%), gagal ginjal 44 pasien (38,9%), diabetes melitus 34 pasien (30,1%), dan pasien dengan
+komorbid lebih dari 1 sebanyak 36 pasien (18,4%). Berdasar atas lama rawat dan kematian
+pasien meninggal dengan durasi lama rawat 1 7 hari 25 pasien (74,7%), 8 14 hari 8 pasien
+(24,2%), pasien hidup dengan durasi lama rawat 1 7 hari 92 pasien (56,4%), 8 14 hari 62
+pasien (38,0%), lebih dari sama dengan 15 hari 9 pasien (5,5%) (Tabel 1).
+Tabel 1. Karakteristik Klinis dan Komorbiditas Pasien COVID-19 yang dirawat
+inap di RS X
+
+Jenis Kelamin
+Wanita
+Pria
+
+Jumlah(n=196)
+97
+99
+
+Persentase (%)
+49,5%
+50,5%
+
+Usia
+38
+17−40
+98
+41−60
+60
+>61
+Manifestasi Klinis
+Jumlah(n=196)
+ISPA
+63
+Sesak
+133
+Anosmia
+9
+Nyeri Dada
+36
+Gangguan BAB
+6
+Demam
+146
+Pusing
+56
+Diare
+29
+Cardiac Injury
+20
+Renal Injury
+32
+Pulmonary Distress
+40
+Pneumonia
+51
+Hasil Ronsen
+Jumlah (n=196)
+Toraks
+Bronchopneumonia
+143
+Bilateral
+Normal
+33
+Pneumonia
+9
+TB Paru
+1
+Faktor Risiko
+Jumlah(n=196)
+Tidak ada komorbid
+83
+Komorbid
+113
+Hipertensi
+68
+Diabetes melitus
+34
+Renal Failure
+44
+Pasien dengan Komorbid lebih
+36
+>1
+Volume 2, No. 1, Tahun 2022, Hal: 107-115
+
+19,4%
+50,0%
+30,6%
+Persentase (%)
+32,1%
+67,9%
+4,6%
+18,4%
+3,1%
+74,5%
+28,6%
+14,8%
+10,2%
+16,3%
+20,4%
+26,0%
+Persentase (%)
+73,0%
+16,8%
+4,6%
+0,5%
+Persentase (%)
+42,3%
+57,6%
+60,2%
+30,1%
+38,9%
+18,4%
+
+ISSN: 2798-6594
+
+Hubungan Rasio CT dan Ekspresi Gen E dengan Kejadian … | 111
+
+Lama
+Perawatan
+(Hari)
+1−7
+8−14
+≥15
+
+(n=33)
+
+Meninggal Persentase
+(%)
+
+(n=163)
+
+25
+8
+0
+
+74,76%
+24,24%
+0%
+
+92
+62
+9
+
+Hidup
+Persentase
+(%)
+56,4%
+38,0%
+5,5%
+
+Hubungan rasio CT IC/CT gen E SARS-CoV-2 dengan Gagal napas
+
+Hasil uji beda dengan menggunakan uji statistik unpaired t-test menunjukkan tidak ada
+hubungan antara rasio CT IC/CT gen E SARS-CoV-2 dan kejadian gagal napas pada
+pasien COVID-19 yang dirawat inap di RS X (Gambar 1).
+
+Gambar 1. Diagram Rasio CT IC/CT Gen E SARS-CoV-2 dengan Kejadian Gagal Napas
+TGN: tidak gagal napas; GN: gagal napas
+Hubungan Ekspresi Relatif Gen E SARS-CoV-2 dengan Gagal Napas
+Hasil uji beda dengan menggunakan uji statistik unpaired t-test menunjukkan tidak adanya
+hubungan antara ekspresi relatif gen E SARS-CoV-2 dan kejadian gagal napas pada pasien
+COVID-19 yang dirawat inap di RS X (Gambar 2).
+
+Gambar 2. Diagram Ekspresi Relatif Gen E SARS-CoV-2 dengan Kejadian Gagal Napas
+TGN: tidak gagal napas; GN: gagal napas
+JRK is licensed under Creative Commons AttributionNonCommercial-ShareAlike 4.0 International License. Kedokteran
+
+112 | Dika Rifky Fernanda, et al.
+
+Hasil uji beda unpaired t-test menunjukkan tidak adanya hubungan antara rasio CT
+IC/CT gen E dan ekspresi relatif gen E SARS-CoV-2 dengan kejadian gagal napas pada pasien
+COVID-19 (dengan p>0,05). Tabel hubungan rasio CT IC/CT gen E dan ekspresi relatif gen E
+SARS-CoV-2 dengan kejadian gagal napas dapat dilihat pada Tabel 2 dan Tabel 3.
+Tabel 2. Tabel Hubungan Rasio CT IC/CT Gen E SARS-CoV-2 dengan Kejadian Gagal Napas
+
+Gen SARS-CoV-2
+Gen E
+Mean ±Std
+Median
+Range (minmaks)
+
+Rasio
+Gagal napas
+
+Tidak Gagal Napas
+
+1±0,09
+1
+0,34 (0,841,18)
+
+0,95±0,13
+0,9
+0,49 (0,77−1,26)
+
+Nilai
+p
+
+0,2083
+
+Analisis menggunakan uji unpaired t-test pada tingat kepercayaan 95%.
+Tabel 3. Tabel Hubungan Ekspresi Relatif Gen E SARS-CoV-2 dengan Kejadian Gagal Napas
+
+Gen SARS-CoV-2
+
+Ekspresi
+Gagal napas
+
+Gen E
+Mean ±Std
+Median
+Range (min-maks)
+
+20,52±32,83
+5,280
+115,3
+(0,11−115,4)
+
+Nilai
+p
+
+Tidak Gagal Napas
+25,43±67,83
+0,64
+326,3 (0,01−326,3)
+
+0,8018
+
+Analisis menggunakan uji unpaired t-test pada tingat kepercayaan 95%.
+Diskusi
+Kasus pertama COVID-19 di Indonesia ditemukan pada bulan Maret 2020 dan insidensinya
+terus meningkat sampai sekarang.10 Dalam penelitian ini, data pasien COVID-19 diambil dari
+Rumah Sakit X berdasar atas jenis kelamin, usia, manifestasi, rontgen, komorbid, lama
+perawatan dan kematian. Hal ini sangat penting untuk memahami faktor risiko suatu penyakit
+yang dapat memengaruhi hasil penelitian. Hasil penelitian menunjukkan lebih dari 50% pasien
+COVID-19 yang dirawat inap di RS X berjenis kelamin laki-laki. Hasil ini sesuai dengan
+penelitian cohort retrospective oleh hu dkk. terhadap 136 pasien terdapat 71,5% laki-laki.11
+Beberapa penyebab diduga menyebabkan laki-laki lebih berisiko adalah karena wanita
+memproduksi lebih banyak interferon 1 (IFN-1) yang merupakan antiviral cytokine yang poten
+dan penting dalam respon awal COVID-19.12 Hasil ini berbeda dengan penelitian Gesmala dkk.
+yang menunjukkan pasien yang mengalami COVID-19 di Situbondo Indonesia lebih banyak
+perempuan (57,6%).13
+Berdasar atas klasifikasi usia, hasil penelitian menunjukkan pasien COVID-19 yang
+dirawat inap di RS X, paling banyak adalah rentang umur 41−60 tahun (50%), hasil penelitian
+ini tidak jauh berbeda dengan penelitian Li dkk. pada 5.913 kasus COVID-19 di Cina
+menunjukkan bahwa 2.366 pasien COVID-19 berada pada rentang umur 40−59 tahun dengan
+persentase sebesar 44,49%.14 Usia 40 tahun merupakan usia produktif, dimana pada usia
+tersebut manusia banyak melakukan interaksi sosial dengan manusia lain dan pada usia tersebut
+telah mulai terjadi proses aging dan penurunan fungsi fisiologis sistem imun pada populasi yang
+lebih tua.14. Hasil penelitian ini berbeda dengan hasil penelitian M. Gesmalah dkk. yang
+menunjukkan bahwa mayoritas pasien COVID-19 berada di rentang umur 19−37 tahun dan
+38−56 dengan persentase berturut-turut sebesar 36,8% dan 32,5%.13
+
+Volume 2, No. 1, Tahun 2022, Hal: 107-115
+
+ISSN: 2798-6594
+
+Hubungan Rasio CT dan Ekspresi Gen E dengan Kejadian … | 113
+
+Pada penelitian ini hasil pemeriksaan rontgen toraks pasien mayoritas menunjukkan
+gambaran bronkopneumonia bilateral (73,09%). Data ini menunjukkan bahwa lebih dari ¾
+pasien di RS X memiliki gambaran bronkopneumonia dan pneumonia. Hal ini merupakan
+gambaran radiologis khas pada pasien yang mengalami perburukan paru karena kerusakan
+epitel bronhus dan alveolus oleh virus.15 Penelitian dari Hu dkk. juga menunjukkan bahwa
+96,4% pasien COVID-19 dengan gejala berat mengalami bilateral lung involvement dengan
+multiple lesions.11
+Hasil penelitian ini menujukkan komorbid utama pasien COVID-19 yang dirawat
+adalah hipertensi dengan persentase 60,18%. Kondisi ini merupakan salah satu faktor kunci
+yang dapat menyebabkan pasien ke arah kritis dibanding dengan pasien yang sehat. Hal ini
+disebabkan oleh monosit pasien yang mengalami hipertensi akan menghasilkan IL-6 lebih
+banyak setelah stimulasi angiotensin II atau lipopolisakarida yang menyebabkan disregulasi
+imun pada penderita hipertensi. Kondisi ini akan memperburuk manifestasi klinis pasien.16
+Hasil ini sesuai dengan penelitian Zahr dkk. yang mendapati bahwa mayoritas komorbid
+yang dimiliki pasien adalah hipertensi (73,8%), yang diikuti oleh CVD (42,5%) dan diabetes
+(35,5%). Komorbid lainnya yang ditemukan adalah penyakit paru obstruktif kronis, obesitas,
+gagal ginjal dan keganasan.17
+Lama perawatan pasien COVID-19 di RS X mayoritas adalah 1−7 hari pada pasien
+hidup dengan persentase 56,4%, dari 33 pasien COVID-19 yang meninggal terdapat 25 pasien
+(74,8%) dirawat selama 1−7 hari dan 8 pasien (24,2%) dirawat 8−14 hari. Jadi, dapat
+disimpulkan bahwa pada penelitian ini semua pasien yang meninggal berada dalam durasi lama
+rawat 1−14 hari. Penelitian macedo dkk. menyimpulkan bahwa lama rawat pasien COVID-19
+dipengaruhi oleh usia yang lebih tua, terdapat gejala parah seperti sesak napas, dan komorbiditas
+seperti gagal ginjal.18
+Tingkat ekspresi gen relatif dinilai dengan menghitung kuantifikasi relatif dengan
+membandingkan ekspresi gen SARS-CoV-2 dengan ekspresi gen internal control menggunakan
+metode Livak (2-ΔΔCT). Kontrol yang digunakan dalam perhitungan ini adalah pasien
+terkonfirmasi COVID-19 yang tidak menunjukkan gejala. Rasio CT dihitung dengan
+membandingkan antara CT internal control dan CT gen E.
+Pada penelitian ini tidak terdapat hubungan antara rasio CT IC/CT gen E dan ekspresi
+relatif gen E SARS-CoV-2 dengan kejadian gagal napas pada pasien rawat inap COVID-19.
+Penelitian oleh Chen dkk. juga mendapatkan bahwa tidak ada hubungan antara CT yang rendah
+(viral load tinggi) terhadap gejala pasien COVID-19.19 Hasil yang berbeda didapatkan oleh
+J.Kaur dkk. bahwa pada pasien yang memiliki gejala olfactory taste disorder (OTD) memiliki
+angka CT value gen E, N, dan RdRp yang rendah yang menunjukkan tingginya viral load pada
+pasien tersebut tinggi dan memengaruhi terjadinya gejala OTD. 3
+Penelitian lain menunjukkan bahwa nilai CT memiliki hubungan dengan kematian,
+keparahan penyakit, dan gejala yang muncul pada pasien. 20 Perbedaan hasil penelitian
+disebabkan oleh banyak faktor yang dapat memengaruhi tingkat keparahan pasien, seperti usia
+dan korbiditas yang ada pada pasien.21 Faktor lain yang dapat memengaruhi hasil penelitian
+adalah ketidakakuratan teknik pengambilan sampel, pengumpulan, pengiriman sampel, dan juga
+keterampilan tenaga kesehatan dalam proses pengambilan sampel sehingga mengganggu
+homogenitas hasil PCR yang didapat dan akan memengaruhi hasil penelitian.5,7,22,
+Penelitian ini mempunyai beberapa keterbatasan, antara lain penelitian dilakukan
+dengan metode cross sectional sehingga tidak dapat dilihat bagaimana ekspresi gen secara
+langsung memengaruhi kejadian gagal napas. Selain itu data CT diambil dari data sekunder
+laboratorium, sehingga peneliti tidak dapat memantau kualitas sampel dan prosedur pengerjaan.
+Data banyak yang kurang lengkap juga menjadi alasan dari banyak data yang dieksklusi.
+
+JRK is licensed under Creative Commons AttributionNonCommercial-ShareAlike 4.0 International License. Kedokteran
+
+114 | Dika Rifky Fernanda, et al.
+
+D.
+
+Kesimpulan
+
+Penelitian ini menunjukkan tidak terdapat hubungan antara rasio CT IC/CT gen E dan
+ekspresi relatif gen E SARS-CoV-2 dengan kejadian gagal napas pada pasien rawat inap
+COVID-19. Penelitian selanjutnya dapat dilakukan dengan metode kohort dan
+pengambilan data CT secara mandiri oleh peneliti untuk meningkatkan kualitas kontrol
+terhadap spesimen dan data.
+Acknowledge
+
+Penelitian ini terselenggara berkat dukungan penuh dari Lembaga Penelitian dan
+Pengabdian Kepada Masyarakat (LPPM) Universitas Islam Bandung yang mendukung
+pendanaan penelitian ini (kontrak hibah PDU nomor 100/B.04/LPPM/XII/2020).
+Daftar Pustaka
+[1] Kumar Samudrala P, Kumar P, Choudhary K, Thakur N, Suresh Wadekar G, Dayaramani R,
+dkk. Virology, pathogenesis, diagnosis and in-line treatment of COVID-19 Pavan.
+2020;883:173375.
+[2] Long C, Xu H, Shen Q, Zhang X, Fan B, Wang C, dkk. Diagnosis of the Coronavirus disease
+(COVID-19): rRT-PCR or CT? Eur J Radiol. 2020;126(February):108961.
+[3] Jain A, Pandey AK, Kaur J, Kumar L, Singh M, Das S, dkk. Is there a correlation between
+viral load and olfactory & taste dysfunction in COVID-19 patients? Am J Otolaryngol.
+2021;42(3):102911.
+[4] Burhan E, Dwi Susanto A, Isbaniah F, Aman Nasution S, Ginanjar E, Wicaksono Pitoyo C,
+dkk. pedoman tatalaksana COVID-19 Edisi 3.
+[5] Lippi G, Simundic AM, Plebani M. Potential preanalytical and analytical vulnerabilities in
+the laboratory diagnosis of coronavirus disease 2019 (COVID-19). Clin Chem Lab Med.
+2020;58(7):1070–6.
+[6] Kakhki RK, Kakhki MK, Neshani A. COVID-19 target: a specific target for novel
+coronavirus detection. Gene Reports. 2020 May ;20:19–21.
+[7] Payne D, Newton D, Evans P, Osman H, Baretto R. Preanalytical issues affecting the
+diagnosis of COVID-19. J Clin Pathol. 2020;1–2.
+[8] Dramé M, Tabue Teguo M, Proye E, Hequet F, Hentzien M, Kanagaratnam L, dkk. Should
+RT-PCR be considered a gold standard in the diagnosis of COVID-19? J Med Virol.
+2020;92(11):2312–3.
+[9] Tahamtan A, Ardebili A. Real-time RT-PCR in COVID-19 detection: issues affecting the
+results. Expert Rev Mol Diagn. 2020;20(5):453–4.
+[10] Asselah T, Durantel D, Pasmant E, Lau G, Schinazi RF. COVID-19: Discovery, diagnostics
+and drug development. 2020.
+[11] Hu X, Zeng W, Zhang Y, Zhen Z, Zheng Y, Cheng L, dkk. CT imaging features of different
+clinical types of COVID-19 calculated by AI system: a Chinese multicenter study. J Thorac
+Dis. 2020 Oct 1 [cited 2021 Oct 6];12(10):5336–46.
+[12] Peckham H, de Gruijter NM, Raine C, Radziszewska A, Ciurtin C, Wedderburn LR, dkk.
+Male sex identified by global COVID-19 meta-analysis as a risk factor for death and ITU
+admission. Nat Commun. 2020;11(1):1–10.
+[13] Gesmalah M, Kesehatan AH-KJ, 2021. Epidemiological Pattern of COVID-19 Infection
+from March to November 2020 in Situbondo District, East Java, Indonesia.
+JournalFkmUiAcId. 2021;16(1):23–8.
+[14] Li H, Wang S, Zhong F, Bao W, Li Y, Liu L, dkk. age-dependent risks of incidence and
+mortality of COVID-19 in Hubei Province and other Parts of China. Front Med. 2020 Apr
+30;0:190.
+[15] Alipoor SD, Jamaati H, Tabarsi P, Mortaz E. Immunopathogenesis of pneumonia in covid19. Tanaffos. 2020;19(2):79–82.
+Volume 2, No. 1, Tahun 2022, Hal: 107-115
+
+ISSN: 2798-6594
+
+Hubungan Rasio CT dan Ekspresi Gen E dengan Kejadian … | 115
+
+[16] Wang X, Zhang H, Du H, Ma R, Nan Y, Zhang T. Risk factors for COVID-19 in patients
+with hypertension. Can J Infect Dis Med Microbiol. 2021;2021.
+[17] Ejaz H, Alsrhani A, Zafar A, Javed H, Junaid K, Abdalla AE, dkk. COVID-19 and
+comorbidities: deleterious impact on infected patients. J Infect Public Health.
+2020;13(12):1833–9.
+[18] Macedo MCF, Pinheiro IM, Carvalho CJL, Fraga HCJR, Araujo IPC, Montes SS, dkk.
+Correlation between hospitalized patients’ demographics, symptoms, comorbidities, and
+COVID-19 pandemic in Bahia, Brazil. PLoS One. 2020;15(12 December):1–15.
+[19] Chen W, Xiao Q, Fang Z, Lv X, Yao M, Deng M. Correlation Analysis between the viral
+load and the progression of COVID-19. Comput Math Methods Med. 2021;2021.
+[20] Severity D, Sequelae S, Trunfio M, Venuti F, Alladio F, Longo BM, dkk. Diagnostic SARSCoV-2 cycle threshold value predicts disease Severity, Survival, and Six-Month Sequelae in
+COVID-19 Symptomatic Patients. 2021;
+[21] Sanyaolu A, Okorie C, Marinkovic A, Patidar R, Younis K, Desai P, dkk. Comorbidity and
+its impact on patients with COVID-19. SN Compr Clin Med. 2020;2(8):1069–76.
+[22] Manurung JJ, Sukohar A. Hubungan antara CT value pada test RT-PCR terhadap parameter
+klinis pasien COVID-19 relationship between CT value on RT-PCR test and clinical
+parameters of COVID-19 patients. Medula. 2021;11:119–24.
+
+JRK is licensed under Creative Commons AttributionNonCommercial-ShareAlike 4.0 International License. Kedokteran
+
+

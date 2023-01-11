@@ -1,0 +1,1141 @@
+EQUILIBRIUM: Jurnal Ekonomi Syariah
+Volume 6, Nomor 2, 2018, 217 - 240
+P-ISSN: 2355-0228, E-ISSN: 2502-8316
+journal.stainkudus.ac.id/index.php/equilibrium
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM),
+Pertumbuhan Ekonomi dan Pengagguran Terhadap
+Kemiskinan di Indonesia
+
+Ari Kristin Prasetyoningrum
+UIN Walisongo Semarang
+U. Sulia Sukmawati
+UIN Walisongo Semarang
+
+Abstrak
+Kemiskinan merupakan masalah pembangunan yang harus diminimalisir karena
+dapat menimbulkan berbagai masalah sosial. Islam memandang bahwa
+kemiskinan dapat membahayakan jiwa dan iman sehingga dianggap mendekati
+kekufuran. Berdasarkan teori-teori yang ada dan beberapa penelitian yang telah
+dilakukan, masalah kemiskinan umumnya berkaitan dengan beberapa faktor
+seperti kualitas sumber daya manusia, pengangguran, dan pertumbuhan
+ekonomi. Penelitian ini bertujuan untuk mengetahui pengaruh indeks
+pembangunan manusia (IPM), tingkat pengangguran, dan pertumbuhan
+ekonomi secara langsung terhadap tingkat kemiskinan. Selanjutnya, akan dilihat
+pula pengaruh tidak langsung IPM dan pertumbuhan ekonomi melalui
+pengangguran dalam
+memengaruhi tingkat kemiskinan. Penelitian ini
+merupakan penelitian kuantitatif menggunakan data sekunder yang berasal dari
+BPS dengan data panel yang merupakan data time series periode 2013-2017 dan
+data cross section dari 33 provinsi di Indonesia. Pengolahan datanya
+menggunakan metode analisis jalur menggunakan software WarpPLS 5.0. Hasil
+penelitian ini menunjukkan bahwa IPM berpengaruh secara langsung dan
+negatif terhadap tingkat kemiskinan dengan nilai koefisien jalur -0.71.
+Sedangkan pertumbuhan ekonomi tidak berpengaruh secara signifikan terhadap
+penurunan tingkat kemiskinan dengan nilai probabilitas 0.23. Kemudian,
+tampak pula bahwa pengangguran berpengaruh positif terhadap tingkat
+kemiskinan dengan nilai koefisien jalur 0.14 dan berpengaruh signifikan dengan
+probabilitas 0.0035. Penelitian ini juga menunjukkan bahwa pengangguran
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+217
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+dapat memediasi antara IPM dengan kemiskinan. Selain itu, pengangguran juga
+dapat memediasi antara pertumbuhan ekonomi dengan kemiskinan.
+
+Kata Kunci: IPM, pertumbuhan ekonomi, pengangguran, kemiskinan.
+Abstract
+Poverty is a problem in development that must be reduced because it can cause
+several social problems. Islam considers that poverty can endanger the soul and
+faith, so that it is considered close to kufr. Based on the existing theories and some
+researches that have been done, the poverty problem is generally related to some
+factors such as quality of human resources, unemployment, and economic
+growth. This study aims to determine the influence of human development index
+(HDI), unemployment rate, and economic growth directly to the rate of poverty.
+In addition, it aims to know the indirect effects of HDI and economic growth
+through unemployment in influencing the rate of poverty. This study belongs to
+quantitative research using secondary data from BPS with panel data are time
+series data from 2013-2017 and cross section data are from 33 provinces in
+Indonesia. The data processing applies path analysis using WarpPLS 5.0
+software. The results of this study indicate that the HDI affect directly and
+negatively to the rate of poverty with path coefficient of the -0.71. Economic
+growth has no significant effect on poverty reduction with probability 0.23. Then,
+it shows that unemployment has positive effect on poverty rate with path
+coefficient of 0.14 and have significant influence with probability 0.0035. This
+study also shows that unemployment can mediate HDI and poverty. In addition,
+unemployment can also mediate economic growth and poverty.
+
+Keywords: HDI, economic growth, unemployment, poverty
+PENDAHULUAN
+
+Kemiskinan merupakan masalah pembangunan yang dapat terjadi di
+mana saja, baik di negara maju maupun berkembang. Sebagai negara
+berkembang, kemiskinan merupakan salah satu isu besar di dalam
+perekonomian Indonesia, seolah-olah menjadi “pekerjaan rumah” yang
+belum dapat terselesaikan. Usaha pemerintah dalam menyelesaikan
+permasalahan kemiskinan sebenarnya sudah ditempuh dengan berbagai
+cara, mulai dari program bantuan modal atau uang tunai kepada rakyat
+miskin sampai program transmigrasi.
+Di dalam Islam, kemiskinan dipandang sebagai masalah yang
+membahayakan jiwa dan iman seseorang karena sangat dekat dengan
+kekufuran. Dengan hidup miskin, seseorang tidak dapat melaksanakan
+kewajiban agama secara maksimal, tidak dapat mengecap pendidikan yang
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+218
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+baik, dan akses kehidupan dan kesehatan yang layak. Oleh karena itu,
+Islam melarang umatnya meninggalkan keturunan dalam keadaan lemah,
+baik secara agama, ilmu, maupun ekonomi (kesejahteraan), sebagaimana
+Allah berfirman:
+
+‫ض َٰعَفًا خَافُواْ َعلَ ۡي ِه ۡم‬
+ِ ‫ش ٱلَّذِينَ لَ ۡو ت َ َر ُكواْ ِم ۡن خ َۡل ِف ِه ۡم ذ ُ ِري َّٗة‬
+َ ‫َو ۡليَ ۡخ‬
+ۡ
+٩ ‫سدِيدًا‬
+َ ‫ٱَّلل َو ۡليَقُولُواْ قَ ۡو ٗٗل‬
+َ َّ ْ‫فَليَتَّقُوا‬
+“Dan hendaklah takut kepada Allah orang-orang yang sekiranya meninggalkan
+keturunan yang lemah dibelakang mereka yang mereka khawatir terhadap
+(kesejahteraan) mereka, dan hendaklah mereka bertakwa kepada Allah dan
+hendaklah mereka bertutur kata yang benar” (Q.S. An-Nisa’: 9).
+
+Menurut Ibnu Katsir, keturunan yang lemah identik dengan kondisi
+kekurangan harta hal itu diperkuat dengan penjelasannya mengenai pesan
+Rasulullah kepada Sa’ad Abi Waqash untuk meninggalkan ahli warisnya
+dalam keadaan berkecukupan (Katsir, 1999:222). Jika ditelaah lebih jauh,
+ayat ini memiliki pesan fiosofis yang sangat penting bahwa kemiskinan
+menjadi isu yang tidak dapat diabaikan begitu saja sehingga dalam konteks
+kekinian.
+Di dalam teologi pembangunan Islam dan konsep pembangunan
+ekonomi Islam, terdapat salah satu prinsip bahwa manusia merupakan
+faktor penting di dalam pembangunan (Abdillah, 2001:66). Faktor kualitas
+manusia ini pengertiannya lebih dekat dengan problem yang selalu
+menjadi perhatian banyak kalangan yang sifatnya melekat pada diri
+manusia yaitu kualitas IPM dan pengangguran. Selain itu, teologi
+pembangunan Islam juga menyatakan bahwa pembangunan merupakan
+sebuah keniscayaan (Abdillah, 2001:67). Pembangunan yang dilakukan
+secara holistik dan integralistik ini tentu akan berdampak pada
+peningkatan berbagai kualitas dari berbagai objek pembangunan yang
+ditandai dengan kemajuan pembangunan itu sendiri, termasuk
+pertumbuhan ekonomi.
+IPM, pengangguran, dan pertumbuhan ekonomi inilah yang akan
+dikaji hubungannya dengan tingkat kemiskinan yang ada di Indonesia
+dengan melihat signifikansinya melalui perspektif ekonomi Islam. Dengan
+demikian, penelitian akan membahas bagaimana pengaruh secara
+langsung antara IPM, pertumbuhan ekonomi, dan pengangguran terhadap
+Tingkat kemiskinan. Selanjutnya akan melihat pengaruh tidak langsung
+antara IPM, pertumbuhan ekonomi, terhadap tingkat kemiskinan melalui
+pengangguran di Indonesia pada periode 2013-2017.
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+219
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+
+Kemiskinan
+GK = GKM + GKNM
+Kemiskinan jika tidak diatasi maka akan terjebak dalam lingkaran
+setan kemiskinan. Menurut Ragnar Nurske, lingkaran setan kemiskinan
+(the vicious circle of poverty) menggambarkan bahwa penyebab kemiskinan
+dikarenakan tabungan rendah, investasi rendah, kekurangan modal,
+rendahnya produktifitas, pendapatan rendah yang kembali menyebabkan
+tabungan rendah dan seterusnya (Prawoto, 2009).
+Adapun terjadinya kemiskinan di antaranya disebabkan oleh
+keterbelakangan manusia dan sumber daya alam. Pengelolaan sumber
+daya alam sangat tergantung kemampuan produktif manusia. Jika
+penduduknya banyak yang miskin dan berpendidikan rendah maka akan
+mengakibatkan langkanya keterampilan teknik, pengetahuan, dan aktivitas
+kewiraswataan yang secara otomatis akan menyebabkan sumber daya alam
+yang tersedia justru terbengkalai, tidak berkembang, atau bahkan salah
+guna. Sumber daya alam ini akan memengaruhi tingkat pertumbuhan
+ekonomi. Di sisi lain, kurangnya sumber daya alam akan menyebabkan
+kemiskinan karena sumber daya alam adalah sumber utama kebutuhan
+hidup manusia. Kemiskinan sumber daya alam merupakan sebab dan
+sekaligus akibat kemiskinan manusia (Jhingan, 2016:34).
+Selanjutnya, penyebab lain dari kemiskinan adalah kurangnya sumber
+daya manusia. Jika manusia tidak memiliki keterampilan maka ia tidak
+akan memiliki pendapatan yang menyebabkan daya belinya berkurang
+sehingga masuk ke dalam lingkar kemiskinan. Ini akan memengaruhi
+pertumbuhan ekonomi di suatu wilayah bahkan negara. Sumber daya
+manusia akan memengaruhi IPM dan dapat memengaruhi tingkat
+pengangguran.
+Dari paparan di atas, tingkat kemiskinan dan faktor-faktor yang
+memengaruhinya serta korelasinya dengan lingkar kemiskinan dapat
+dideskripsikan sebagai berikut.
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+220
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+
+Gambar 1. Korelasi tingkat kemiskinan, IPM, pertumbuhan
+ekonomi dan lingkar kemiskinan
+KAJIAN LITERATUR
+IPM dan keterkaitannya dengan kemiskinan
+Manusia merupakan kekayaan suatu negara. Menurut Kuncoro, yang
+menjadi fokus utama dalam pembangunan adalah peningkatan kualitas
+manusia (Kuncoro, 2010:117). Di dalam konsep dasar pembangunan
+ekonomi Islam, sumber daya manusia juga menjadi fokus utama selain
+tauhid, tazkiah an-nafs, dan peran pemerintah. Begitu juga menurut
+Abdillah, manusia merupakan makhluk pembangunan yang merupakan
+mandataris Ilahi dalam mengelola sumber daya alam dan lingkungan.
+Pengertian tugas mandataris Ilahi yang dimaksud yaitu dalam
+melaksanakan pembangunan. Tolak ukur manusia berkualitas dapat
+dilihat dari produksi dan hasil karya manusia itu sendiri sehingga kualitas
+manusia harus diperhatikan untuk esensi dan kemajuan bangsa (Abdillah,
+2001:72-74), sebagaimana pesan dalam Q.S. Hud: 61,
+
+ۡ ‫ص ِل ٗح ۚا قَا َل َٰيَقَ ۡو ِم‬
+‫ٱَّلل َما لَ ُكم ِم ۡن ِإ َٰلَ ٍه‬
+َ َٰ ‫۞و ِإلَ َٰى ث َ ُمودَ أَخَا ُه ۡم‬
+َ
+َ َّ ْ‫ٱعبُدُوا‬
+ۡ
+َ
+َ
+ْ‫ٱستَ ۡغ ِف ُروهُ ث ُ َّم تُوبُ ٓوا‬
+ۡ ‫ض َو‬
+ۡ َ‫ٱستَعۡ َم َر ُك ۡم ِفي َها ف‬
+َ ‫غ َۡي ُرهُۥۖ ُه َو أن‬
+ِ ‫شأ ُكم ِمنَ ٱۡل َ ۡر‬
+٦١ ‫يب‬
+ٞ ‫يب ُّم ِج‬
+ٞ ‫ِإلَ ۡي ۚ ِه ِإ َّن َر ِبي قَ ِر‬
+
+Dan kepada Tsamud (Kami utus) saudara mereka Shaleh. Shaleh berkata: "Hai
+kaumku, sembahlah Allah, sekali-kali tidak ada bagimu Tuhan selain Dia. Dia telah
+menciptakan kamu dari bumi (tanah) dan menjadikan kamu pemakmurnya, karena
+itu mohonlah ampunan-Nya, kemudian bertobatlah kepada-Nya, Sesungguhnya
+Tuhanku amat dekat (rahmat-Nya) lagi memperkenankan (doa hamba-Nya)"
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+221
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+Dalam surat Hud ayat 61 di atas, dinyatakan bahwa manusia
+dijadikan Allah sebagai khalifah di muka Bumi yang mengemban tugas
+untuk memakmurkannya. Dalam konteks kehidupan manusia yang
+sesungguhnya, ayat tersebut dapat dipahami dengan melaksanakan
+pembangunan (Capra, 2008:7).
+Pada tahun 1990, ekonom Pakistan bernama Mahbubul Haq dan
+pemenang hadiah nobel India yaitu Amartya Sen menyatakan bahwa
+mengukur pembangunan tidak hanya dilihat dari pendapatannya saja tapi
+ada indikator lain yaitu pembangunan manusianya (Sofilda, 2016). Sen
+menyatakan bahwa pertumbuhan ekonomi tidak boleh dipandang sebagai
+tujuan utama, tetapi pembangunan harus dapat meningkatkan kualitas
+kehidupan
+dan kebebasan yang dinikmati oleh manusia. Dalam
+menentukan kualitas manusia, UNDP menggunakan Human Development
+Index (HDI) atau IPM.
+Komposisi IPM berdasarkan tiga indikator yaitu kesehatan,
+pendidikan, dan standar hidup (daya beli) atau pendapatan. Peningkatan
+pendidikan seseorang sering dikaitkan dengan peningkatan pendapatan
+atau upah yang diperoleh. Apabila upah mencerminkan produktivitas,
+maka semakin banyak orang yang memiliki tingkat pendidikan tinggi
+maupun pengalaman pelatihan, semakin tinggi produktivitasnya dan
+hasilnya ekonomi nasional akan tumbuh lebih tinggi. Di samping
+pendidikan, kesehatan juga memiliki peranan terhadap pertambahan
+pendapatan. Pengaruh kesehatan terhadap pendapatan diantaranya
+dengan perbaikan kesehatan penduduk akan meningkatkan partisipasi
+angkatan kerja. Perbaikan kesehatan dapat pula membawa perbaikan
+dalam tingkat pendidikan dan pengembangan potensi diri yang kemudian
+menyumbang kepada pertumbuhan ekonomi dengan meningkatnya
+pendapatan (Lumbantoruan dan Hidaya, 2014).
+Beberapa riset telah banyak membuktikan bahwa IPM memengaruhi
+tingkat kemiskinan diantaranya: penelitian Sofilda dkk (2013)
+menunjukkan bahwa IPM berpengaruh negatif dan signifikan terhadap
+tingkat kemiskinan di Kabupaten/kota Provinsi Papua (Sofilda, 2016).
+Begitu juga dengan penelitian Silswanto bahwa IPM sangat berperan dalam
+menanggulangi tingkat kemiskinan di Indonesia. Walaupun ada beberapa
+riset yang menyatakan bahwa IPM tidak berpengaruh signifikan terhadap
+kemiskinan dan dinyatakan bahwa tidak ada hubungan kausalitas antara
+IPM dan kemiskinan di Indonesia pada periode tahun 1990-2013
+(Susilowati dan Wahyudi, 2015). Dalam penelitian dirumuskan bahwa:
+H1: IPM berpengaruh negatif terhadap tingkat kemiskinan
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+222
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+
+Pertumbuhan ekonomi dan korelasinya dengan kemiskinan
+Pertumbuhan ekonomi dapat didefinisikan sebagai perkembangan
+kegiatan dalam perekonomian yang menyebabkan barang dan jasa yang
+diproduksi akan bertambah (Sukirno, 2006:9). Dengan meningkatnya
+pertumbuhan ekonomi, dengan sendirinya akan menetes ke bawah dalam
+menciptakan lapangan kerja dan pembangunan ekonomi yang dikenal
+dengan teori trickle down effect (Sholeh, 2015:198).
+Pertumbuhan ekonomi dan tingkat pendapatan yang tinggi
+merupakan indikator ketersediaan makanan, pakaian, tempat tinggal,
+pendidikan, kesehatan, dan kebutuhan dasar lainnya untuk mendapatkan
+kenyamanan dalam menjalani hidup. Hal ini tidak dilarang dalam Islam
+bahkan dianjurkan selama tidak tenggelam dalam buaian hawa nafsu yang
+membuat lupa kepada Allah. Justru Islam menganjurkan pertumbuhan dan
+perkembangan ekonomi dan di saat bersamaaan menghendaki terjadinya
+distribusi pendapatan dan kekayaan yang adil sebagaimana dinyatakan di
+dalam Q.S. al-Hasyr: 7 berikut ini:
+
+‫ول َو ِلذِي‬
+َّ ‫َّما ٓ أَفَا ٓ َء‬
+ُ ‫ٱَّللُ َعلَ َٰى َر‬
+ُ ‫لر‬
+َّ ‫سو ِل ِهۦ ِم ۡن أ َ ۡه ِل ۡٱلقُ َر َٰى فَ ِللَّ ِه َو ِل‬
+ِ ‫س‬
+َ‫سبِي ِل َك ۡي َٗل يَ ُكونَ دُولَ َۢة‬
+َّ ‫ين َو ۡٱب ِن ٱل‬
+َ َٰ ‫ۡٱلقُ ۡربَ َٰى َو ۡٱليَ َٰت َ َم َٰى َو ۡٱل َم‬
+ِ ‫س ِك‬
+ُ‫سو ُل فَ ُخذُوهُ َو َما نَ َه َٰى ُك ۡم َع ۡنه‬
+ُ ‫ٱلر‬
+َّ ‫بَ ۡينَ ۡٱۡل َ ۡغنِيَا ٓ ِء ِمن ُك ۡۚم َو َما ٓ َءات َ َٰى ُك ُم‬
+َۖ َّ ْ‫فَٱنت َ ُهو ۚاْ َوٱتَّقُوا‬
+٧‫ب‬
+َ ‫ٱَّلل‬
+ََّ ‫ٱَّلل ِإ َّن‬
+ِ ‫شدِيدُ ۡٱل ِعقَا‬
+
+Apa saja harta rampasan (fai-i) yang diberikan Allah kepada Rasul-Nya (dari harta
+benda) yang berasal dari penduduk kota-kota maka adalah untuk Allah, untuk
+Rasul, kaum kerabat, anak-anak yatim, orang-orang miskin dan orang-orang yang
+dalam perjalanan, supaya harta itu jangan beredar di antara orang-orang kaya saja
+di antara kamu. Apa yang diberikan Rasul kepadamu, maka terimalah. Dan apa
+yang dilarangnya bagimu, maka tinggalkanlah. Dan bertakwalah kepada Allah.
+Sesungguhnya Allah amat keras hukumannya
+Kandungan ayat ini menjadi bukti bahwa Islam juga mengatur aspek
+kehidupan dalam distribusi kekayaan. Kakayaan yang diberikan Allah
+kepada manusia tidak boleh hanya dinikmati oleh segelintir orang saja.
+Pemerataan dalam distribusi kekayaan menjadi sebuah keharusan di dalam
+Islam. Jika masyarakat mengalami kesenjangan yang tinggi, maka negara
+wajib mewujudkan konsep keseimbangan dalam masyarakat khususnya
+dalam pendistribusian kekayaan (Huda, 2015: 29).
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+223
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+Mengeliminasi kesenjangan ekstrim antarkelompok masyarakat
+merupakan tugas negara dalam artian pemerintah lah yang bertanggung
+jawab agar terjadi aliran kekayaan dari hasil pertumbuhan ekonomi antara
+golongan kaya dan golongan miskin. Aliran kekayaan ini bisa melalui
+baragam instrumen kebijakan, seperti alokasi APBN (anggaran pendapatan
+dan belanja nasional), distribusi pajak, zakat, dan keuangan inklusif.
+Dengan demikian, pemerataan hasil pendapatan dapat seimbang sehingga
+tercipta stabilitas sosial, ekonomi, dan politik dengan baik (Beik dan
+Arsyianti, 2017:40-41).
+Pertumbuhan ekonomi dapat dilihat dari nilai produk domestik
+bruto (PDB) dan untuk wilayah/regional dalam suatu periode tertentu
+dapat dilihat dari data Produk Domestik Regional Bruto (PDRB), baik atas
+dasar harga berlaku maupun atas dasar harga konstan. PDRB
+menggambarkan kemampuan suatu daerah mengelola sumber daya alam
+yang dimilikinya (Firmansyah, 2016;2). Besaran PDRB yang dihasilkan oleh
+masing-masing daerah sangat bergantung pada potensi sumber daya alam
+dan faktor produksi daerah tersebut. Adanya keterbatasan dalam
+penyediaan faktor-faktor tersebut menyebabkan besaran PDRB bervariasi
+antar daerah.
+PDRB atas dasar harga berlaku merupakan nilai tambah barang dan
+jasa yang dihitung menggunakan harga yang berlaku pada saat itu dan
+diukur setiap tahun. Sedangkan PDRB atas dasar harga konstan
+menggambarkan nilai tambah barang dan jasa yang dihitung
+menggunakan harga yang pada suatu tahun tertentu sebagai acuan dasar.
+Penelitian Joko Susanto juga menunjukkan bahwa adanya pengaruh negatif
+antara pertumbuhan ekonomi dengan tingkat kemiskinan, dimana 1%
+peningkatan pertumbuhan ekonomi akan menurunkan kemiskinan sekitar
+0,4%, cateris paribus. Pertumbuhan ekonomi di provinsi Jawa Tengah
+tersebut tidak memberikan pengaruh yang signifikan terhadap penurunan
+kemiskinan (Jumika, 2012:77). Dalam penelitian dirumuskan bahwa:
+H2: Pertumbuhan ekonomi berpengaruh negatif terhadap tingkat
+kemiskinan
+Pengangguran dan Korelasi dengan Kemiskinan
+Dalam memenuhi kebutuhan manusia, Islam sangat menganjurkan
+umatnya untuk bekerja sebagaimana firman Allah SWTdi dalam surat atTaubah ayat 105 sebagai berikut:
+
+ۖ ُ‫سولُهُۥ َو ۡٱل ُم ۡؤ ِمن‬
+ۡ ‫َوقُ ِل‬
+‫ست ُ َردُّونَ إِلَ َٰى َٰ َع ِل ِم‬
+َّ ‫سيَ َرى‬
+ُ ‫ٱَّللُ َع َملَ ُك ۡم َو َر‬
+َ ‫ونَ َو‬
+َ َ‫ٱع َملُواْ ف‬
+َّ ‫ب َوٱل‬
+١٠٥ َ‫ش َٰ َهدَةِ فَيُنَبِئ ُ ُكم بِ َما ُكنت ُ ۡم ت َعۡ َملُون‬
+ِ ‫ۡٱلغ َۡي‬
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+224
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+Dan Katakanlah: "Bekerjalah kamu, Maka Allah dan Rasul-Nya serta orang-orang
+mukmin akan melihat pekerjaanmu itu, dan kamu akan dikembalikan kepada
+(Allah) yang mengetahui akan yang ghaib dan yang nyata, lalu diberitakan-Nya
+kepada kamu apa yang telah kamu kerjakan.
+Menganggur akan menurunkan
+pertumbuhan ekonomi dan
+menggantungkan hidupnya pada orang-orang yang berproduktif sehingga
+menjadikan angka ketergantungan meningkat dan merosotnya pendapatan
+per kapita. Salah satu faktor penting dalam menentukan tingkat
+kemakmuran suatu masyarakat adalah tingkat pendapatan. Pendapatan
+masyarakat akan mencapai maksimum jika tingkat penggunaan tenaga
+kerja penuh dapat diwujudkan. Dengan menganggur, sumber daya
+menjadi terbuang percuma. Tidak hanya produktivitas yang menurun,
+pendapatan masyarakat juga akan berkurang sehingga dapat
+menimbulkan kemiskinan dan masalah sosial lainnya.
+Menurut BPS, pengangguran yaitu orang yang mencari pekerjaan,
+menyiapkan usaha, tidak mencari pekerjaan karena tidak mungkin
+mendapatkan pekerjaan, dan yang mempunyai pekerjaan tapi belum
+memulai bekerja (BPS, 2015). BPS mengelompokkan orang dewasa ke
+dalam beberapa kategori di antaranya sebagai berikut:
+a. Bekerja yaitu kegiatan ekonomi yang dilakukan oleh seseorang dengan
+maksud memperoleh atau membantu memperoleh pendapatan atau
+keuntungan, paling sedikit 1 jam (tidak terputus) dalam seminggu yang
+lalu. Kegiatan tersebut termasuk pola kegiatan pekerja tak dibayar yang
+membantu dalam suatu usaha/kegiatan ekonomi.
+b. Pengangguran yaitu seseorang yang berhenti bekerja sementara atau
+sedang mencari pekerjaan.
+c. Bukan angkatan kerja adalah penduduk usia kerja (15 tahun dan lebih)
+yang masih sekolah, mengurus rumah tangga atau melaksanakan
+kegiatan lainnya selain kegiatan pribadi.
+Setelah mengelompokkan seluruh individu ke dalam 3 kategori, BPS
+juga menghitung berbagai statistik untuk merangkum kondisi angkatan
+kerja dan tingkat pengangguran. Angkatan kerja adalah jumlah yang
+bekerja dan yang tidak bekerja (Mankiw, 2008:111):
+Angkatan kerja = jumlah orang yang bekerja + jumlah yang tidak
+bekerja
+𝑦𝑎𝑛𝑔 𝑡𝑖𝑑𝑎𝑘 𝑏𝑒𝑘𝑒𝑟𝑗𝑎
+× 100%
+Tingkat pengangguran = 𝑗𝑢𝑚𝑙𝑎ℎ 𝑜𝑟𝑎𝑛𝑔
+𝑎𝑛𝑔𝑘𝑎𝑡𝑎𝑛 𝑘𝑒𝑟𝑗𝑎
+Terezia V. Pattimahu (2016) menyatakan bahwa pengangguran
+terbuka di provinsi Maluku memberikan pengaruh yang positif dan
+signifikan terhadap tingkat kemiskinan di provinsi Maluku (Pattimahu,
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+225
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+2016). Sedangkan penelitian Ni ketut (2016) menyatakan pengangguran
+tidak berpengaruh signifikan terhadap tingkat kemiskinan di Provinsi Bali
+(Endrayani dan Dewi, 2016). Dalam penelitian yang akan diambil sebuah
+hipoteisis yaitu:
+H3: Tingkat Pengangguran berpengaruh positif terhadap tingkat
+kemiskinan
+Dalam penelitian ini, selain sebagai variabel independen, juga
+merupakan variabel intervening. Beberapa riset telah menunjukkan bahwa
+IPM memiliki pengaruh terhadap Jumlah Penduduk Miskin di Kota
+Manado melalui tingkat pengangguran terbuka dan bersifat negative
+(Latifah, et.al, 2017), dengan demikian dapat dirumuskan bahwa:
+H4: Tingkat Pengangguran memediasi antara IPM dan Kemiskinan
+Selanjutnya, beberapa riset telah membuktikan bahwa penelitian
+Qamariah menunjukkan adanya pengaruh negatif antara pertumbuhan
+ekonomi dengan pengangguran begitu juga penelitian Hamidah Muhd
+Irpan dkk, bahwa di Malaysia berlaku hukum o’kun dimana Pertumbuhan
+ekonomi berpengaruh negatif dengan pengangguran (Irpan et.al, 2017).
+Penelitian selamat siregar menunjukkan bahwa pengangguran memediasi
+antara pertumbuhan ekonomi dengan pengguran (Siregar, 2017), dengan
+demikian dapat dirumuskan bahwa:
+H5: Tingkat Pengangguran memediasi antara Pertumbuhan Ekonomi dan
+Kemiskinan
+Berdasarkan landasan teori, hasil penelitian terdahulu yang
+dikemukakan, dan hipotesis. Diperoleh secara ringkas kerangka pikir
+penelitian ini sebagai berikut.
+
+Gambar 2. Path analysis variabel penelitian
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+226
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+Keterangan
+IPM
+PE
+PDRB
+PGRN
+KMSKN
+β
+
+= Indeks Pembangunan Manusia
+= Pertumbuhan Ekonomi dengan variabel formatinya
+= Pengangguran
+= Kemiskinan
+= koefisien jalur
+
+METODE PENELITIAN
+Penelitian ini menggunakan pendekatan kuantitatif. Data yang
+digunakan dalam penelitian yaitu sekunder yang merupakan data panel
+yang terdiri data time series dan data cross section. Data diambil dari 33
+provinsi yang ada di Indonesia (Kalimantan Utara tidak diikutsertakan)
+dengan periode 2013-2017.
+Definisi Operasional
+Kemiskinan menurut BPS adalah orang yang berada di bawah garis
+kemiskinan. Kemiskinan yang dimasukkan sebagai variabel dalam satuan
+persentase. Persentase penduduk miskin adalah persentase penduduk
+dengan pengukuran kemiskinan absolut yang berada di bawah garis
+kemiskinan (GK), yang dihitung berdasarkan kriteria BPS yang disebut
+juga dengan istilah tingkat kemiskinan. Tingkat Kemiskinan dalam
+penelitian ini sabgai varibel dependen.
+IPM merupakan indikator untuk mengukur kualitas hidup manusia.
+IPM merupakan gabungan dari 3 dimensi yaitu umur panjang dan hidup
+sehat, pengetahuan, dan standar hidup layak. Dimana masing-masing
+dimensi tersebut dihitung nilai indeksnya, kemudian didapat nilai IPM
+dalam bentuk persen berdasarkan rumus geometri.
+3
+
+𝐼𝑃𝑀 = √𝐼𝑘𝑒𝑠𝑒ℎ𝑎𝑡𝑎𝑛 × 𝐼𝑝𝑒𝑛𝑑𝑖𝑑𝑖𝑘𝑎𝑛 × 𝐼𝑝𝑒𝑛𝑔𝑒𝑙𝑢𝑎𝑟𝑎𝑛 𝑥100%
+
+IPM antarwilayah dapat dilihat melalui pengelompokan IPM ke
+dalam beberapa kategori, yaitu: IPM < 60 : IPM rendah, 60 ≤ IPM < 70 : IPM
+sedang, 70 ≤ IPM < 80 : IPM tinggi, dan IPM ≥80 : IPM sangat tinggi.
+Pertumbuhan ekonomi merupakan pertumbuhan produksi barang
+dan jasa di suatu wilayah perekonomian dalam selang waktu tertentu.
+Pertumbuhan ekonomi dapat dilihat dari nilai produk domestik bruto
+(PDB)/ Produk Domestik Regional Bruto (PDRB) dalam suatu periode
+tertentu, dan dapat dilihat dari data atas dasar harga berlaku maupun atas
+dasar harga konstan. Dalam penelitian ini yang digunakan yaitu laju
+pertumbuhan ekonomi PDRB tiap provinsi dalam satuan persen dengan
+harga konstan 2010 menurut BPS.
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+227
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+Pengangguran yaitu suatu ukuran yang dilakukan jika seseorang
+tidak memiliki pekerjaan tetapi mereka sedang melakukan usaha secara
+aktif dalam empat minggu terakhir untuk mencari pekerjaan. Pengertian
+tersebut termasuk pengangguran terbuka (open unemployment). Dalam
+penelitian ini digunakan data tingkat pengangguran terbuka (TPT). TPT
+merupakan persentase jumlah pengangguran terhadap jumlah angkatan
+kerja.
+Dalam penelitian ini, pengangguran merupakan variabel
+independen dan variabel intervening.
+Teknik Analisis
+Dalam penelitian ini, model dianalisis menggunakan path analysis
+(analisis jalur) dengan bantuan software WarpPLS 5.0. Software WarpPLS
+didesain untuk analisis variabel laten (variabel yang tidak dapat di
+observasi secara langsung), dengan indikator-indikator yang mengukur
+variabel laten. Path analysis dalam penelitian ini yang dianalisis bukan
+merupakan variabel laten tetapi variabel yang bersifat observed (variabel
+yang dapat diukur secara langsung). Cara mengatasi variabel observed yaitu
+membuat variabel laten dengan satu indikator yang bersifat formatif
+(indikator yang menjelaskan variabel laten yang diukur) (Latan dan
+Ghazali, 2017:89-90).
+
+Gambar 2. Konseptualisasi model
+
+HASIL DAN PEMBAHASAN
+Analisis data menggunakan path analysis untuk mengetahui pengaruh
+variabel independen terhadap dependen secara direct effect dan indirect
+effect. Pengolahan data menggunakan WarpPls, 5.0, yang dapat
+menghitung secara otomatis nilai direct effect dan indirect effectnya.
+Hasil analisis menunjukkan output sebagai berikut:
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+228
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+
+Gambar 3. Output model struktural pengolahan data dengan
+WarpPLs
+a. Model fit dapat dilihat dari nilai output general result
+Tabel 1. Hasil Output General Result
+p-value
+Rule of Thumb
+Kriteria Indeks
+P < 0.001 P ≤ 0.05
+APC
+0.279
+
+Keterangan
+Diterima
+
+ARS
+
+0.317
+
+P < 0.001
+
+P ≤ 0.05
+
+Diterima
+
+AARS
+
+0.307
+
+P < 0.001
+
+P ≤ 0.05
+
+Diterima
+
+AVIF
+
+1.104
+
+-
+
+≤3.3
+
+Diterima
+
+AFVIF
+
+1.498
+
+-
+
+≤3.3
+
+Diterima
+
+GoF
+
+0.563
+
+≥0.1(kecil), ≥0.25
+(menengah),≥0.36(bes
+ar)
+
+Prediksi
+model kuat.
+
+Sumber: data yang diolah
+Tabel di atas menunjukkan bahwa dalam penelitian ini
+memiliki model fit karena semua nilai APC, ARS, AARS, dan
+GoF memenuhi syarat (rule of trumb). Selain itu, model dalam
+penelitian ini tidak ada masalah multikolonieritas karena nilai
+AVIF dan AFVIF ≤3.3.
+b. R-Square
+Kemudian untuk melihat kekuatan variabel independen
+dalam menjelaskan variabel dependen akan dilihat nilai RSquare. Gambar 5 di atas, menunjukkan nilai R-Square
+kemiskinan 0.48 yang berarti variabel Tingkat kemiskinan
+dapat dijelaskan oleh variabel IPM, PE, dan TPT (Tingkat
+Pengangguran Terbuka), sebesar 48% hal ini berarti 52%
+dijelaskan oleh variabel lain yang tidak terdapat dalam model.
+Jika dikategorikan, maka model struktural dalam penelitian ini
+tergolong sedang. Untuk pengangguran nilai R squarenya
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+229
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+sekitar 15% dipengaruhi oleh variabel IPM dan PE, sisanya 85%
+di jelaskan oleh variabel lain yang tidak terdapat dalam model.
+1. Uji hipotesis
+Pembuktian hipotesis akan dilihat nilai signifikansi dan nilai path
+coefisient pada direct effect antarvariabel dependent dan independen.
+Dalam penelitian ini, tingkat signifikansinya menggunakan 5%.
+Berdasarkan pada gambar 5, dapat dilihat path coeffisient dan p value nya
+sebagai berikut:
+Tabel 2. Path coeffisients and p values pada direct effect
+Standard
+Koefisien
+Kesimpulan
+P value
+Hipotesis
+Konstruk
+errors
+jalur
+Diterima
+H1
+IPMkemiskinan
+-0.71
+P<0.001
+0.067
+H2
+H3
+
+PEkemiskinan
+PGRNkemiskina
+n
+Sumber: data yang diolah
+
+0.057
+
+P=0 .23
+
+0.077
+
+Ditolak
+
+0.14
+
+P=0.035
+
+0.076
+
+Diterima
+
+Pengujian pengaruh tidak langsung antara IPM dan tingkat
+kemiskinan melalui pengangguran dapat dilihat signifikansi (lihat
+gambar 3) antar jalur dan nilai path koefisien jalur. Adapun hasil Indirect
+effect sebagai berikut:
+Tabel 3. Indirect effect dengan variabel PGRN (Tingkat pengangguran
+Terbuka) sebagai variabel intervening
+Hipotesis
+Konstruk
+Koefisien Kesimpulan
+jalur
+H4
+IPMPGRNKemiskinan
+0.031
+Diterima
+H5
+
+PEPGRNkemiskinan
+
+-0.037
+
+Diterima
+
+Sumber: data yang diolah
+Pengaruh total merupakan jumlah pengaruh secara keseluruan
+antara direct effect dan Indirect effect dapat dilihat di bawah ini:
+Tabel 4. Total effect
+Total effect
+Pengaruh total IPM terhadap tingkat kemiskinan
+
+-0.678
+
+Pengaruh total pertumbuhan ekonomi terhadap
+tingkat kemiskinan
+Sumber: data yang diolah
+
+0.020
+
+1. Interpretasi Model
+Path coefficient untuk direct effect dapat diartikan sebagai berikut:
+KMSKN
+= β1IPM + β2PGRN + β3PE + e
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+230
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+KMSKN
+
+= -0.71IPM + 0.057PE +0.14PGRN + e
+
+a. Pengaruh IPM terhadap tingkat kemiskinan
+Berdasarkan output pada gambar 3 dan tabel 2, tampak bahwa
+IPM berpengaruh signifikan negatif terhadap tingkat kemiskinan
+dengan nilai koefisien jalur -0.71 dengan signifikan p <0.001 dimana
+kurang dari 5% dengan standar error 0.067. Hal ini menunjukkan
+jika nilai IPM meningkat 1% maka akan menurunkan tingkat
+kemiskinan sekitar 0.71%, dengan asumsi variabel lain dianggap
+konstan. Berkurangnya tingkat kemiskinan karena IPM yang
+meningkat mengindikasikan bahwa IPM dapat meningkatkan
+produktivitas kerja manusia, yang akan meningkatkan pendapatan
+untuk memenuhi kebutuhan hidup layak. Penelitian ini mendukung
+penelitian terdahulu yaitu penelitian Sofilda dkk (2013),
+menunjukkan bahwa IPM berpengaruh negatif dan signifikan
+terhadap tingkat kemiskinan di Kabupaten/kota Provinsi Papua.
+IPM terdiri dari 3 dimensi (kesehatan, pendidikan, dan hidup
+layak pendapatan perkapita) yang sangat menentukan kualitas
+manusia. Pendidikan memainkan peranan penting dalam
+meningkatkan kemampuan dalam menyerap teknologi modern dan
+mengembangkan kapasitas dalam mewujudkan pertumbuhan dan
+pembangunan. Selain itu, kesehatan merupakan syarat dalam
+meningkatkan produktivitas, karena dengan kesehatan, pendidikan
+mudah di capai. Dalam hal ini, kesehatan dan pendidikan
+merupakan komponen penting pembangunan ekonomi dalam
+membantu mengurangi kemiskinan. Dengan pendidikan dan
+kesehatan maka pendapatan tinggi akan mudah di dapat. Begitu
+sebaliknya dengan pendapatan tinggi maka akan mudah
+mengeluarkan dana untuk kesehatan dan pendidikan.
+
+Gambar 4. Hubungan kausalitas 3 dimensi IPM
+Pemerintah tetap mempertahankan dalam meningkatkan IPM
+untuk membangun kualitas hidup manusia dalam memerangi
+kemiskinan. Dengan memerhatikan ketiga dimensi yang
+membentuk IPM, penelitian ini menyatakan bahwa nilai IPM
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+231
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+cenderung dapat mengurangi tingkat kemiskinan yang ada di
+Indonesia.
+b. Pengaruh pertumbuhan ekonomi terhadap tingkat kemiskinan
+Berdasarkan output pada gambar 3 dan tabel 2, bahwa
+pertumbuhan ekonomi tidak berpengaruh secara signifikan
+terhadap dalam menurunkan tingkat kemiskinan dikarenakan nilai
+probabilitas 0.23 yang melebihi tingkat probabilitas 5%. Jika
+pertumbuhan ekonomi mengalami kenaikan maka tidak akan
+berdampak secara signifikan dalam pengurangan jumlah penduduk
+miskin selama periode tersebut. Apabila pertumbuhan ekonomi
+terjadi, pendapatan masyarakat miskin tidak mengalami perubahan
+yang dapat mengubah pendapatannya di atas garis kemiskinan.
+Ini dikarenakan tidak tersebarnya dalam pendistribusian hasil
+pembangunan secara adil kepada seluruh wilayah di Indonesia
+sehingga perekonomian yang tinggi hanya dinikmati oleh segelintir
+orang atau wilayah tertentu saja. Pertumbuhan ekonomi yang tinggi
+kurang memberikan manfaat kepada orang-orang miskin, dan
+pertumbuhan tersebut juga tidak di hasilkan oleh orang banyak.
+Negara harus menjamin adanya aliran kekayaan dari kelompok
+kaya kepada kelompok miskin melalui berbagai instrumen
+kebijakan seperti zakat, pajak, dan lain-lain, agar tercapai stabilitas
+sosial, ekonomi, dan politik sebagaimana dalam Qs. al-Hasr ayat 7 “
+
+.... ‫ َك ۡي َٗل يَ ُكونَ دُولَ َۢةَ بَ ۡينَ ۡٱۡل َ ۡغنِيَا ٓ ِء ِمن ُك ۡۚم‬....
+
+“..., supaya harta itu jangan beredar di antara orang-orang kaya saja di
+antara kamu...”
+Hasil penelitian ini ternyata tidak sesuai dengan hipotesis yang
+diajukan di awal yakni pertumbuhan ekonomi berpengaruh
+signifikan secara negatif terhadap tingkat kemiskinan atau apa yang
+disebut dengan teori trickle down effect yang artinya adalah kemajuan
+perekonomian yang ditandai dengan laju pertumbuhan ekonomi
+akan sendirinya menetes ke bawah sehingga menciptakan lapangan
+kerja dan terciptanya distribusi hasil perekonomian yang secara
+merata. Dalam hal ini, implikasinya pertumbuhan ekonomi akan
+dirasakan oleh orang kaya terlebih dahulu, kemudian baru menetes
+ke penduduk miskin yang terjadi dengan sendirinya.
+Dengan demikian, hasil penelitian ini menunjukkan adanya
+pengaruh yang tidak langsung antara pertumbuhan ekonomi dalam
+mengurangi tingkat kemiskinan. Pertumbuhan ekonomi harus
+dapat mendorong pertumbuhan lapangan kerja. Dengan strategi pro
+gorwth, pro job, dan pro poor(Maipita, 2014:78). Strategi ini, untuk
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+232
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+meminimalisir ketimpangan pendapatan antara si kaya dan si
+miskin, yang disebabkan oleh pertumbuhan ekonomi. Jangan
+sampai pertumbuhan ekonomi hanya dinikmati oleh orang kaya
+saja, dan hanya berputar di kalangan mereka saja.
+Hasil penelitian ini bertentangan juga dengan penelitian Joko
+Susanto yang menyatakan bahwa adanya pengaruh negatif antara
+pertumbuhan ekonomi dengan tingkat kemiskinan. Sebaliknya,
+penelitian ini konsisten dengan Jumika yang menyatakan bahwa
+pertumbuhan ekonomi di Provinsi Jawa Tengah tidak memberikan
+pengaruh yang signifikan terhadap penurunan tingkat kemiskinan.
+c. Pengaruh Pengangguran terhadap Tingkat Kemiskinan
+Berdasarkan output pada gambar 3 dan tabel 2, pengangguran
+berpengaruh positif terhadap tingkat kemiskinan dengan nilai
+koefisien jalur 0.14 dan signifikan dengan probabilitas 0.035 karena
+tingkat probabilitas kurang dari 5%. Artinya, jika nilai
+pengangguran meningkat sebesar 1% maka akan meningkatkan
+tingkat kemiskinan sekitar 0.14%, dengan asumsi variabel lain
+dianggap konstan. Dengan demikian, semakin besar tingkat
+pengangguran, semakin besar pula tingkat kemiskinan di Indonesia.
+Penelitian ini sesuai dengan hipotesis bahwa pengangguran
+sangat memengaruhi tingkat kemiskinan di Indonesia. Penelitian ini
+mendukung penelitian yang dilakukan oleh Terezia V. Pattimahu
+(2016) menyatakan bahwa pengangguran terbuka di Provinsi
+Maluku memberikan pengaruh yang positif dan signifikan terhadap
+tingkat kemiskinan di Provinsi Maluku.
+Pengaruh tingkat pengangguran signifikan terhadap tingkat
+kemiskinan dari penelitian ini menunjukkan bahwa pengangguran
+merupakan indikator yang sangat terkait dengan pendapatan.
+Masyarakat yang menganggur, pasti tidak memiliki pendapatan
+dari pekerjaan, yang pada akhirnya akan mengurangi tingkat
+kemakmuran dalam memenuhi kebutuhan. Apabila kebutuhan
+dasar mereka tidak terpenuhi, maka mereka termasuk dalam
+kategori miskin.
+Dalam memenuhi kebutuhan, manusia dituntut untuk bekerja
+sebagaimana djelaskan di dalam surat at-Taubah ayat 105. Dengan
+demikian, Islam bukanlah agama yang hanya menuntut umatnya
+untuk beribadah semata melainkan menempatkan bekerja dalam
+porsi yang penting dan menolak umatnya menganggur
+sebagaimana dijelaskan di dalam surat al-Jumu’ah ayat 10. Melalui
+ayat tersebut, manusia diwajibkan untuk bekerja setelah melakukan
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+233
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+ibadah dalam rangka mencari karunia Allah rezeki di muka bumi
+ini.
+
+ۡ َ‫ض َو ۡٱبتَغُواْ ِمن ف‬
+ِ‫ٱَّلل‬
+ِ َ‫ضي‬
+َّ ‫ض ِل‬
+َّ ‫ت ٱل‬
+ِ ‫صلَ َٰوة ُ َفٱنت َ ِش ُرواْ فِي ۡٱۡل َ ۡر‬
+ِ ُ‫فَإِذَا ق‬
+١٠ َ‫ٱَّلل َكثِ ٗيرا لَّ َعلَّ ُك ۡم ت ُ ۡف ِل ُحون‬
+َ َّ ْ‫َو ۡٱذ ُك ُروا‬
+“Apabila telah ditunaikan shalat, maka bertebaranlah kamu di muka bumi;
+dan carilah karunia Allah dan ingatlah Allah banyak-banyak supaya kamu
+beruntung”
+
+Kebutuhan yang banyak dan beragam membuat masyarakat
+dituntut untuk bekerja dalam memenuhi kebutuhan mereka. Selain
+mengandalkan kemampuan individu dalam menciptakan lapangan
+pekerjaan bagi dirinya, pemerintah juga harus bekerja keras dalam
+mengurangi pengangguran dengan menciptakan lapangan
+pekerjaan yang seluas-luasnya bagi masyarakat Indonesia.
+Islam memandang istilah kerja menyangkut berbagai aktifitas
+kegiatan manusia baik yang bersifat badaniah maupun rohaniah
+untuk mewujudkan atau menambah suatu manfaat yang dibolehkan
+secara syar’i. Ketika seseorang tidak mau mempergunakan
+potensinya maka itulah pengangguran yang sangat berbahaya baik
+dirinya maupun masyarakatnya karena orang yang demikian
+merupakan penganggur yang memikul dosa. Akan tetapi, jika
+sesorang yang terus memfungsikan potensinya seperti kecerdasan,
+skill, modal, tenaga, dan sebagainya maka orang tersebut berpotensi
+menjadi produktif dan mampu meraih penghasilan dari apa yang
+dilakukannya sekalipun dalam pekerjaan dakwah dan ibadah
+(Murtadho, 2008:180-181).
+d. Tingkat pengangguran memediasi antara IPM dan kemiskinan
+Berdasarkan output pada gambar 3, bahwa hubungan tidak
+langsung (indirect effect) antara IPM terhadap tingkat pengangguran
+signifikan, kemudian tingkat pengangguran terhadap kemiskinan
+juga signifikan, sehingga disimpulkan bahwa pengangguran dapat
+memediasi antara IPM dan kemiskinan. IPM dapat mengurangi
+tingkat kemiskinan melalui pengangguran sebesar 0.031.
+Nilai koefisien jalur tidak langsung ini lebih kecil
+dibandingkan dengan nilai koefisien jalur secara langsung dalam
+pengurangan kemiskinan. Dimana koefisien jalur secara langsung
+antara IPM dan kemiskinan sebesar 0.71. Hal ini berarti bahwa
+mengurangi tingkat kemiskinan secara langsung berdampak lebih
+besar. Secara total Pengaruh IPM dalam memengaruhi tingkat
+kemiskinan sebesar 0.678, dengan memasukkan variabel mediasi
+semakin mengurangi pengaruh antara IPM dan tingkat kemiskinan.
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+234
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+Hal ini dikarenakan, IPM yang memiliki tiga dimensi salah satunya
+yaitu pendidikan, apabila pendidikan di Indonesia semakin tinggi
+tapi tidak diringi dengan lapangan pekerjaan yang memadai, maka
+tidak akan mampu mengurangi pengangguran akan tetapi malah
+sebaliknya, semakin besar pendidikan maka akan semakin besar
+pula pengangguran.
+e. Tingkat Pengangguran Memediasi
+Ekonomi dan Kemiskinan.
+
+antara
+
+Pertumbuhan
+
+Berdasarkan output pada gambar 5, bahwa hubungan tidak
+langsung (indirect effect) antara pertumbuhan ekonomi terhadap
+tingkat pengangguran signifikan ditandai dengan p value <0.01
+(signifikansi 0.05), kemudian tingkat pengangguran terhadap
+kemiskinan juga signifikan pada p value 0.03 (signifikansi 0.05),
+sehingga disimpulkan bahwa pengangguran dapat memediasi
+antara pertumbuhan ekonomi dengan kemiskinan. Pertumbuhan
+ekonomi dapat mengurangi tingkat kemiskinan melalui
+pengangguran sebesar 0.037.
+Pertumbuhan ekonomi secara langsung tidak berpengaruh
+signifikan terhadap penurunan tingkat kemiskinan, akan tetapi
+pertumbuhan ekonomi dapat memengaruhi dalam mengurangi
+tingkat kemiskinan dengan melalui tingkat pengangguran. Dalam
+hal ini pertumbuhan ekonomi yang tinggi harus dapat menciptakan
+lapangan pekerjaan bagi rakyat sehingga dapat mengurangi tingkat
+pengangguran. Dengan bekerja, rakyat/seseorang dapat menambah
+penghasilan sehingga dapat mengurangi tingkat kemiskinan.
+Pertumbuhan ekonomi dapat mengurangi kemiskinan, jika
+mampu memaksimalkan daya kreasi secara efisien dan produktif
+pada rakyatnya. Caranya dengan mendirikan usaha yang padat
+karya, agar rakyat berpeluang besar untuk mendapatkan pekerjaan.
+Selain itu dengan memberikan peluang untuk malakukan
+wirausaha, dengan memberikan program pelatihan kewirausahaan
+dan memberikan bantuan sarana usaha. Dalam ekonomi Islam, Beik
+mengatakan salah satu faktor pertumbuhan ekonomi yang dapat
+memecahkan masalah kemiskinan adalah faktor manusia yang
+enterpreneuship. Hal ini dikarenakan sumber manusia enterpreneur
+mampu menggerakkan sektor riil dalam perekonomian, dan dapat
+menciptakan kemandirian negara.
+Dalam hal ini, butuh peran pemerintah dalam mewujudkan,
+distribusi hasil pertumbuhan ekonomi agar dapat dirasakan oleh
+khalayak ramai, seperti mengalokasikan sumber daya alam dengan
+baik, agar dapat diakses oleh semua lapisan masyarakat,
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+235
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+mengalokasikan APBN (anggaran pendapatan belanja negara)
+seperti meningkatkan program keluarga dan harapan, kredit usaha
+rakyat, selanjutnya menggalakkan dan mendistribusikan zakat.
+SIMPULAN
+Berdasarkan pambahasan dalam penelitian ini, dapat disimpulkan
+sebagai berikut.
+1. IPM berpengaruh signifikan negatif terhadap tingkat kemiskinan
+dengan nilai koefisien jalur -0.71.
+2. Pertumbuhan ekonomi tidak berpengaruh secara signifikan terhadap
+penurunan tingkat kemiskinan dikarenakan nilai probabilitas 0.23
+3. Pengangguran berpengaruh signifikan positif terhadap tingkat
+kemiskinan dengan nilai koefisien jalur 0.14, dan signifikan dengan
+probabilitas 0.035.
+4. pengangguran dapat memediasi antara IPM dan kemiskinan. IPM
+dapat mengurangi tingkat kemiskinan melalui pengangguran sebesar
+0.031.
+5. pengangguran dapat memediasi antara pertumbuhan ekonomi
+dengan kemiskinan. Pertumbuhan ekonomi dapat mengurangi
+tingkat kemiskinan melalui pengangguran sebesar 0.037.
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+236
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+
+DAFTAR PUSTAKA
+Abdillah, Mujiono. Agama Ramah Lingkungan: Perspektif Alquran. Jakarta:
+Paramadina, 2001.
+Ash-Shiddieqie, Teungku Hasby.Pedoman Zakat. Semarang: PT. Pustaka
+Rizki Putra, 2006.
+Badan Pusat Statistik. “Kemiskinan dan Ketimpangan”. Diakses 25 Maret
+2018. Https://www.bps.go.id.
+___________. “Laju Pertumbuhan PDB / PDRB”. Diakses 25 Maret 2018.
+Https://Sirusa.Bps.Go.Id
+Badan Pusata Statistik Kabupaten Sambas, “Statistik Ketenagakerjaan
+Kabupaten
+Sambas
+2015”,
+diakses
+19
+Maret
+2018,
+hhtps://www.bps.go.id.
+Beik, Irfan Syauqi & Laily Dwi Arsyianti. Ekonomi Pembangunan Syariah,
+Jakarta: PT Raja Grafindo Persada, 2017.
+Cahya, Bayu, Tri, “Kemiskinan Ditinjau dari Perpekstif Al-Quran dan
+Hadis”, Jurnal Penelitian, 9 (2015): 41-66. Diakses 12 April 2018.
+Http://journal.stainkudus.ac.id.
+Capra, Umar. The Islamic Vision of Development in the Light of Maqashid Al
+Shariah. Jeddah: Islamic Research and Training Institute, 2008.
+Endrayani, Ni Ketut Eni & Made Heny Urmila Dewi. “Analisis FaktorFaktor Yang Memengaruhi Tingkat Kemiskinan Kabupaten/Kota Di
+Provinsi Bali”. ISSN : 2337-3067, E-Jurnal Ekonomi dan Bisnis
+Universitas Udayana 5.1 (2016) : 63-88. Diakses 12 April 2018,
+https://ojs.unud.ac.id.
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+237
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+Firmansyah, Produk Domestik Regional Bruto Kabupaten Sambas Menurut
+Pengeluaran 2011- 2015. Sambas: Badan Pusat Statistik Sambas, 2016.
+Huda, Nurul, dkk. Ekonomi Pembangunan Islam. Jakarta: Premadei Group,
+2015.
+Irpan, Hamidah Muhd dkk. “Impact of Foreign Direct Investment on The
+Unemployment Rate in Malaysia”. Journal of Physics: Conference Series,
+7.10 (2016) : 1-10. Diakses 10 April 2018. Doi:10.1088/17426596/710/1/012028. http://iopscience.iop.org.
+Jhingan M.L. Ekonomi Pembangunan dan Perencanaan. Jakarta: Rajawali,
+2016.
+Jumika. “Analisis Pengaruh PDRB, dan Indeks Pembangunan Manusia
+Terhadap Tingkat Kemiskinan di Provinsi Jawa Tengah (Analisis Data
+Panel terhadap 35 Kabupaten/Kota Tahun 2005-2009)“. Tesis,
+Program Pascasarjana Megister Ekonomi dan Studi Pembangunan
+Surakarta, 2012.
+Katsir, Ibnu. Tafsir Alquran al-Adzhim, juz 4. Maktabah Syamilah, 1999.
+-----------------Tafsir Al-qur’a>n al-‘A>dzhi>m, Juz 2. 222. Maktabah Sya>milah.
+Latan, Hengky dan Imam Ghazali. Partial Least Squares Konsep, Metode dan
+Aplikasi Menggunakan Program Warppls 5.0. UNDIP, Semarang, 2017.
+Latifah, Nenny dkk. “Pengaruh Pertumbuhan Ekonomi Dan Indeks
+Pembangunan Manusia Terhadap Tingkat Pengangguran Terbuka
+Dan Dampaknya Pada Jumlah Penduduk Miskin Di Kota Manado”.
+Jurnal Berkala Ilmiah Efisiensi, 17.2 (2017): 10-117. Diakses 12 April 2018.
+Https://ejournal.unsrat.ac.id
+Mankiw, Gregory dkk. Pengangtar Ekonomi Makro. Jakarta: Salemba Empat,
+2008
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+238
+
+Analisis Pengaruh Indeks Pembangunan Manusia (IPM), Pertumbuhan
+Ekonomi dan Pengagguran Terhadap Kemiskinan di Indonesia
+Murtadho, Ali.“Solusi Problem Pengangguran dalam Perspektif Ekonomi
+Islam”. Jurnal Ilmu Dakwah, 28 (2008) : 167-189. Diakses 5 April 2016.
+Https://independent.academia.edu/mohammedniam.
+Pattimahu, Terezia V. “Analisis Pengaruh Jumlah Penduduk Dan
+Pengangguran Terhadap Tingkat Kemiskinan Di Maluku “.ISSN:
+1978-3612, X.1, (2016) : 40-48. Diakses 13 April 2018.
+https://ejournal.unpatti.ac.id
+Prawoto,
+Nano.
+“Memahami
+Kemiskinan
+dan Strategi
+Penanggulangannya”. Jurnal Ekonomi dan Studi Pembangunan, 9.1,
+(2009): 56-68. Diakses 12 April 2018. Https://scholar.google.co.id.
+Ningrum, Ririn Tri Puspita “Analisa Metode Penetapan Kriteria
+Kemiskinan dan Implikasinya Terhadap Standarisasi Mustahiq di
+Indonesia”.ENGAGEMENT Jurnal Pengabdian Kepada Masyarakat This
+work is licensed under a Creative Commons Attribution-ShareAlike 4.0
+International License. CC BY SA ISSN : 2579-8375, 1, (2017): 77-110.
+Diakses 12 April 2018. Https://scholar.google.co.id.
+Maipita, Indra, Mengukur Kemisknan dan Distribusi Pendapatan, UPP STIM
+YKPN: Yogyakarta, 2014.
+Sadeq, A.H.M. “Economic Development in Islam”, Jurnal of Islamic
+Economics, I.
+1 (1987): 35-45. Diakses 13 April 2018.
+Journals.iium.edu.my.
+Siregar, Selamat. “Pengaruh Pdrb Riil dan Inflasi terhadap Tingkat
+Kemiskinan
+Kota
+Medan
+Dengan
+Variabel
+Intervening
+Pengangguran”, Jurnal Ilmiah Methonomi 3.2 (2017): 61-72. Diakses 10
+April 2018. Https://scholar.google.co.id.
+Sodeq, Ahmad. “Konsep Kesejahteraan Dalam Islam”. Eqiubilirium. 3.2
+(2015): 380-405. Diakses 12 April 2018. http://journal.stainkudus.ac.id
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+239
+
+Ari Kristin Prasetyoningrum, U. Sulia Sukmawati
+Sofilda, Eleonora et al., “Human Development and Poverty in Papua
+Province (An Analysis of Simultaneous Approach on Panel Data
+Regression)”, OIDA International Journal of Sustainable Development
+06:06 (2013): 51-62. Diakses 6 April 2018. Http://www.oidaijsd.com.
+Soleh, Ahmad. “Pertumbuhan Ekonomi dan Kemiskinan di Indonesia”.
+Jurnal Ekonomi dan Bisnis, 2.2 (2014) : 197-209. Diakses.
+Http://jurnal.unived.ac.id .
+Sukirno, Sadono. Makroekonomi Teori Pengantar, edisi ketiga. Jakarta: PT Raja
+Grafindo Persada, 2006.
+Suliswanto, Muhammad Sri Wahyudi. “Pengaruh Produk Domestik Bruto
+(PDB) dan Indeks Pembangunan Manusia (IPM) Terhadap Angka
+Kemiskinan di Indonesia”. Jurnal Ekonomi Pembangunan, 8.2 (2011) :
+357-266. Diakses 12 April 2018. Https://media.neliti.com.
+_____. “ Pertumbuhan Ekonomi, Indeks Pembangunan Manusia, Utang
+Luar Negeri, dan Kemiskinan (Kajian Teoritis di Indonesia).”
+Ekonomika-Bisnis, 6.1, (2015): 89-106. Diakses 25 April 2018. DOI:
+http://doi.org/10.22219/JIBE.vol6.No1.89-106.
+Wargadinata, Wildana. Islam & Pengentasan Kemiskinan. Malang: UIN
+Maliki Press, 2011.
+
+EQUILIBRIUM, Volume 6, Nomor 2, 2018
+
+240
+
+

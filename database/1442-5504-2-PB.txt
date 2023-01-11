@@ -1,0 +1,807 @@
+60
+
+IAIN Palangka Raya
+ISSN : 2354 – 6034 (Print)
+ISSN : 2599 – 0187 (Online)
+PERKEMBANGAN SISTEM PEMBAYARAN DIGITAL
+PADA ERA REVOLUSI INDUSTRI 4.0 DI INDONESIA
+Jefry Tarantang1
+Annisa Awwaliyah2
+Maulidia Astuti3
+Meidinah Munawaroh4
+Email: jefry.tarantang@iainpalangkaraya.ac.id,annisaawwaliyah1005@gmail.com,
+maulidia.astuti@gmail.com, munawarohmeidinah@gmail.com
+STIH Palangka Raya
+
+ABSTRACT
+In line with the rapid development of technology, patterns and payment systems
+in economic transactions continue to change. Technological advances in the
+payment system are shifting the role of cash (currency) as a means of payment in
+the form of digital payments that are more efficient and economical. In its
+development, several countries have discovered and used electronic payment
+products known as Electronic Money (e-money). The presence of non-cash
+payment instruments mentioned above, is not only caused by innovations in the
+banking sector but also driven by the public's need for practical payment
+instruments that can provide convenience in conducting transactions. This paper
+aims to analyze the impact of the development of digital payment systems on the
+existence of cash in the era of the digital economy. In addition, this also
+minimizes the risks that can be caused by the use of digital payment systems and
+prevents inflation due to the large amount of cash in circulation. The method used
+in this paper is qualitative and is supported by a phenomenological approach. The
+results of this study indicate that technological advancements in the era of the
+digital economy (Industrial Revolution 4.0) are indeed unavoidable, especially in
+the rapid development of digital payment systems. Digital payment systems have
+advantages and disadvantages. But in general, the advantages of digital payment
+systems outweigh the disadvantages. The presence of this digital payment system
+does not mean eliminating the existence of cash. However, the existence of a
+digital payment system can also minimize the occurrence of inflation due to the
+large amount of money circulating in the community.
+
+1
+
+Dosen Fakultas Ekonomi dan Bisnis Islam IAIN Palangka Raya.
+Mahasiswa Program Studi Ekonomi Syariah Fakultas Ekonomi dan Bisnis Islam IAIN
+Palangka Raya angkatan 2017.
+3
+Mahasiswa Program Studi Ekonomi Syariah Fakultas Ekonomi dan Bisnis Islam IAIN
+Palangka Raya angkatan 2017.
+4
+Mahasiswa Program Studi Ekonomi Syariah Fakultas Ekonomi dan Bisnis Islam IAIN
+Palangka Raya angkatan 2017.
+2
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+61
+
+IAIN Palangka Raya
+
+Keywords: Developments, digital payment systems, industrial revolution 4.0.
+ABSTRAK
+Sejalan dengan perkembangan teknologi yang pesat, pola dan sistem pembayaran
+dalam transaksi ekonomi terus mengalami perubahan. Kemajuan teknologi dalam
+sistem pembayaran menggeser peranan uang tunai (currency) sebagai alat
+pembayaran ke dalam bentuk pembayaran digital yang lebih efisien dan
+ekonomis. Dalam perkembangannya, beberapa negara telah menemukan dan
+menggunakan produk pembayaran elektronik yang dikenal sebagai Electronic
+Money (e-money). Kehadiran alat-alat pembayaran non tunai tersebut di atas,
+semata-mata tidak hanya disebabkan oleh inovasi sektor perbankan namun juga
+didorong oleh kebutuhan masyarakat akan adanya alat pembayaran yang praktis
+yang dapat memberikan kemudahan dalam melakukan transaksi. Tulisan ini
+bertujuan untuk menganalisis dampak perkembangan sistem pembayaran digital
+terhadap eksistensi uang tunai di era ekonomi digital. Selain itu juga untuk
+meminimalisir risiko yang dapat ditimbulkan oleh penggunaan sistem pembayaran
+digital dan mencegah terjadinya inflasi karena banyaknya uang tunai yang
+beredar. Metode yang digunakan dalam tulisan ini yaitu kualitatif serta didukung
+pendekatan fenomenologis. Hasil penelitian ini menunjukkan bahwa kemajuan
+teknologi pada era ekonomi digital (Revolusi Industri 4.0) memang tidak dapat
+dihindari, khususnya dalam perkembangan sistem pembayaran digital yang
+semakin pesat. Sistem pembayaran digital memiliki kelebihan dan kekurangan.
+Tetapi secara umum, kelebihan dari sistem pembayaran digital lebih besar
+daripada kekurangannya. Hadirnnya sistem pembayaran digital ini bukan berati
+menghilangkan eksistensi uang tunai. Tetapi, dengan adanya sistem pembayaran
+digital ini juga dapat meminimalisir terjadinya inflasi akibat banyaknya uang
+beredar di masyarakat.
+Kata kunci: Perkembangan, sistem pembayaran digital, revolusi industri 4.0.
+A. Pendahuluan
+Perkembangan dunia ilmu pengetahuan dan teknologi (IPTEK) yang
+demikian mengagumkan tersebut memang telah membawa manfaat yang luar
+biasa bagi kemajuan peradaban umat manusia. Jenis-jenis pekerjaan yang
+sebelumnya menuntut kemampuan fisik yang cukup besar, kini relatif sudah
+bisa digantikan oleh perangkat mesin-mesin otomatis. Demikian juga
+ditemukannya formulasi-formulasi baru kapasitas komputer, seolah sudah
+mampu menggeser posisi kemampuan otak manusia dalam berbagai bidang
+ilmu dan aktivitas. Ringkas kata kemajuan teknologi saat ini benar-benar
+telah diakui dan dirasakan memberikan banyak kemudahan dan kenyamanan
+bagi kehidupan umat manusia.5
+
+Muhammad Ngafifi, Kemajuan Teknologi dan Pola Hidup Manusia dalam Perspektif
+Sosial Budaya, Jurnal Pembangunan Pendidikan: Fondasi dan Aplikasi, Vol.2, No.1, 2014, hlm.34
+5
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+62
+
+IAIN Palangka Raya
+Mengenai perkembangan ilmu di zaman kontemporer berarti
+menggambarkan aplikasi ilmu dan teknologi dalam berbagai sektor
+kehidupan. Hal tersebut menjadi salah satu karakteristik utama dari ilmu di
+zaman kontemporer yang dalam kerangka umumnya sekaligus menjadi
+persamaan sifat perkembangan ilmu zaman kontemporer. Satu hal yang tak
+sulit untuk disepakati, bahwa hampir semua sisi kehidupan manusia modern
+telah disentuh oleh berbagai efek perkembangan ilmu dan teknologi. Salah
+satunya yaitu sektor ekonomi yang membutuhkan dan mendapat sentuhan
+teknologi.6
+Pesatnya perkembangan teknologi memberikan pengaruh terhadap
+perkembangan sistem pembayaran dalam transaksi bisnis terutama dalam
+menjaga kesinambungan hubungan bisnis para pihak.7Sistem pembayaran
+yangmerupakan salah satu pilar penopang stabilitas sistemkeuangan telah
+berkembang, yang semula hanya menggunakan uang tunai, kini sudah
+merambah pada sistem pembayaran digital atau bisa disebut sebagai
+electronic money (e-money).8Kemajuan teknologi dalam sistempembayaran
+menggeser peranan uang tunai (currency) sebagai alat pembayaran kedalam
+bentuk pembayaran non tunai yang yang lebih efisien dan ekonomis.
+Pembayarannon tunai umumnya dilakukan tidak dengan menggunakan uang
+sebagai alatpembayaran melainkan dengan cara transfer antar bank ataupun
+transfer intra bankmelalui jaringan internal bank sendiri. Selain itu
+pembayaran non tunai juga dapatdilakukan dengan menggunakan kartu
+sebagai alat pembayaran, misalnya denganmenggunakan kartu ATM, kartu
+debit, dan kartu kredit.9
+Era revolusi industri 4.010 ini menunjukkan semakin meningkatnya
+teknologi yang berpengaruh terhadap sistem pembayaran dengan beragam
+aplikasi yang digunakan masyarakat sebagai sarana pembayaran non-tunai.
+Aplikasi pembayaran digital yang sekarang sedang marak di masyarakat
+
+Amsal Bakhtiar, Filsafat Ilmu, Jakarta: PT RajaGrafindo Persada, 2012, hlm. 70
+Jefry Tarantang,Penyelesaian Sengketa Melalui Lembaga Arbitrase, Jurnal Al-Qordh
+Volume 4, Nomor 2, 2018, h. 110.
+8
+Bank Indonesia, Laporan Sistem Pembayaran dan Pengedaran Uang, Direktorat Akunting
+dan Sistem Pembayaran dan Direktorat Pengedaran uang, 2008, hlm. 2
+9
+Bambang Pramono, Tri Yanuarti, dkk, Dampak Pembayaran Non Tunai Terhadap
+Perekonomian dan Kebijakan Moneter, Bank Indensia, 2006, hlm. 1
+10
+Industri 4.0 diungkapkan oleh Kanselir Jerman, Angela Merkel (2014) berpendapat
+bahwa Industri 4.0 adalah transformasi komprehensif dari keseluruhan aspek produksi di industri
+melalui penggabungan teknologi digital dan internet dengan industri konvensional. Schlechtendahl
+dkk (2015) menekankan definisi kepada unsur kecepatan dari ketersediaan informasi, yaitu sebuah
+lingkungan industri di mana seluruh entitasnya selalu terhubung dan mampu berbagi informasi
+satu dengan yang lain. Pengertian yang lebih teknis disampaikan oleh Kagermann dkk (2013)
+bahwa Industri 4.0 adalah integrasi dari Cyber Physical System (CPS) dan Internet of Things and
+Services (IoT dan IoS) ke dalam proses industri meliputi manufaktur dan logistik serta proses
+lainnya.
+6
+7
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+63
+
+IAIN Palangka Raya
+
+antara lainOVO, GO-PAY, danDANA11. Kegunaan aplikasi tersebut yaitu
+untuk mempermudah transaksi di berbagai macam aktivitas contohnya untuk
+pembayaran ojek online, pesan antar makanan, pembayaran tagihan
+listrik/telepon, pembayaran PDAM, dan masih banyak lagi kemudahan yang
+dihasilkan oleh aplikasi pembayaran digital.
+Melihat dari banyaknya praktik yang ada, sistem pembayaran digital
+sangat efisien dalam penggunaannya. Meskipun demikian masih banyak
+masyarakat Indonesia yang belum menggunakan fasilitas ini. Hal ini dapat
+dibuktikan dengan masih banyaknya pengguna uang cash untuk membayar
+barang atau jasa. Konsumen pengguna sistem pembayaran digital saat ini
+umumnya didominasi oleh masyarakat kelas menengah hingga menengah
+atas, maupun masyarakat yang sudah melek teknologi.Sehingga pemerataan
+penggunaan uang elektronik di Indonesia dirasa masih kurang. Program less
+cash society yang dicanangkan oleh pemerintah sendiri merupakan bagian
+dari persiapan masyarakat Indonesia dalam menghadapi persaingan global
+terutama Masyarakat Ekonomi ASEAN (MEA) yang sudah disetujui sejak
+Januari 2016. Oleh karena itu, meminimalisir penggunaan uang tunai
+merupakan salah satu cara agar nilai mata uang tidak jatuh dan tetap stabil.12
+Pandangan Islam mengenai perkembangan sistem pembayaran digital
+di era revolusi industri 4.0 sangat tepat untuk mengantisipasi terjadinya kasus
+riba dan ghoror yang saat ini sudah dianggap tabu di kalangan masyarakat.
+Dimana sistem pembayaran dibuat secara transparansi di setiap transaksi yang
+dilakukan agar tidak terjadi manipulasi biaya yang digunakan untuk
+keuntungan pribadi.
+B. Metode Penelitian
+Penelitian perkembangan dan pengaturan sistem pembayaran digital
+pada era revoulsi industri 4.0 di Indonesia merupakan penelitian kualitatif.
+Penelitian ini dianalisis dengan pendekatan fenomenologis. Pendekatan
+fenomenologis digunakan untuk mengkaji permasalahan berdasarkan
+fenomena yang sedang terjadi. Secara fenomenologis, pengalaman hidup
+yang sesungguhnya sebagai data dasar dari realita. Sehingga dalam kajian
+fenomenologis yang penting ialah pengembangan suatu metoda yang tidak
+memalsukan fenomena, melainkan dapat mendeskripsikannya seperti
+penampilannya.
+
+Menurut FAQ OVO, OVO merupakan aplikasi yang memberikan kesempatan lebih besar
+mengumpulkan poin di banyak tempat yang membuat konsumen bisa menggunakan OVO untuk
+bertransaksi di semua merchant. Menurut FAQ GO-JEK, GO-PAY adalah uang elektronik untuk
+setiap transaksi pembayaran yang dapat konsumen gunakan melalui aplikasi GO-JEK. Menurut
+FAQ Bukalapak, DANA merupakan salah satu metode pembayaran baru yang tersedia di buka
+lapak hasil kerjasama dengan platform pembayaran DANA.
+12
+Rifky Tazkiyyaturrohmah, Eksistensi Uang Elektronik sebagai Alat Transaksi Keuangan
+Modern, Muslim Heritage, Vol. 3, No. 1, 2018, hlm. 23
+11
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+64
+
+IAIN Palangka Raya
+
+Data yang terkumpul kemudian dianalisis dengan metode kualitatif.13
+Kualitatif artinya mengukur dan menguji data dengan konsep teori mengenai
+sistem pembayaran digital di era revolusi industri 4.0. Dimana, dengan
+metode ini diharapkan memperoleh gambaran yang jelas tentang pokok
+permasalahan. Pada penelitian ini penulis melakukan analisa terhadap sistem
+pembayaran digital di era revolusi industri 4.0. Selain itu penulis juga
+menggunakan metode retrospektif14 dalam menganalisis penelitian ini.
+Metode retrospektif yaitu melihat permasalahan yang ada kemudian mencari
+pemecahannya. Metode retrospektif digunakan untuk menganalisi sistem
+pembayaran digital sebagai alternatif solusi di era revolusi industri 4.0.
+C. Lahirnya Pembayaran Digital Pada Revolusi Industri 4.0
+1. Definisi Industri 4.0
+Kanselir Jerman, Angela Merkel berpendapat bahwa Industri 4.0
+adalah transformasi komprehensif dari keseluruhan aspek produksi di
+industri melalui penggabungan teknologi digital dan internet dengan
+industri konvensional. Schlechtendahl dkk menekankan definisi kepada
+unsur kecepatan dari ketersediaan informasi, yaitu sebuah lingkungan
+industri di mana seluruh entitasnya selalu terhubung dan mampu berbagi
+informasi satu dengan yang lain.
+Istilah Industri 4.0 sendiri secara resmi lahir di Jerman tepatnya
+saat diadakan Hannover Fair pada tahun 2011. Negara Jerman memiliki
+kepentingan yang besar terkait hal ini karena industri 4.0 menjadi bagian
+dari kebijakan rencana pembangunannya yang disebut High-Tech Strategy
+2020. Kebijakan tersebut bertujuan untuk mempertahankan Jerman agar
+selalu menjadi yang terdepan dalam dunia manufaktur. Beberapa negara
+lain juga turut serta dalam mewujudkan konsep industri 4.0 namun
+menggunakan istilah yang berbeda seperti Smart Factories, Industrial
+Internet of Things, Smart Industry, atau Advanced Manufacturing. Meski
+memiliki penyebutan istilah yang berbeda, semuanya memiliki tujuan yang
+sama yaitu untuk meningkatkan daya saing industri tiap negara dalam
+menghadapi pasar global yang sangat dinamis. Kondisi tersebut
+
+13
+Jefry Tarantang, Teori dan Aplikasi Pemikiran Kontemporer dalam Pembaharuan
+Hukum Keluarga Islam, Jurnal Transformatif Vol. 2, No. 1, April 2018, hlm. 29.
+14
+Metode retrospektif digunakan oleh banyak penulis Islam kentemporer yang merasakan
+tekanan, kemiskinan dan keterbelakangan di dunia Islam dan berusaha mencari pemecahan
+terhadap persoalan-persoalan ekonomi umat islam dengan kembali kepada Alquran dan Sunah
+untuk mencari dukungan atas pemecahan-pemecahan tersebut dan mengujinya dengan
+memperhatikan petunjuk Alquran. Lihat Mustafa Edwin Nasution, dkk, Pengenal Eksklusif
+Ekonomi Islam, Jakarta: Kencana, 2007 hlm. 38. Lihat juga dalam M. Nur Rianto Al-Arif, Teori
+Makro Ekonomi Islam Konsep, Teori dan Analisis, hlm. 24.
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+65
+
+IAIN Palangka Raya
+diakibatkan oleh pesatnya perkembangan pemanfataan teknologi digital di
+berbagai bidang.15
+Industri 4.0 diprediksi memiliki potensi manfaat yang besar.
+Sebagian besar pendapat mengenai potensi manfaat industri 4.0 adalah
+mengenai perbaikan kecepatan-fleksibilitas produksi, peningkatan layanan
+kepada pelanggan dan peningkatan pendapatan. Terwujudnya potensi
+manfaat tersebut akan memberi dampak positif terhadap perekonomian
+suatu negara.16
+Industri 4.0 memang menawarkan banyak manfaat, namun juga
+memiliki tantangan yang harus dihadapi. Drath dan Horch berpendapat
+bahwa tantangan yang dihadapi oleh suatu negara ketika menerapkan
+industri 4.0 adalah munculnya resistansi terhadap perubahan demografi
+dan aspek sosial, ketidakstabilankondisi politik, keterbatasan sumber daya,
+risiko bencana alam dan tuntutan penerapan teknologi yang ramah
+lingkungan.
+2. Sistem Pembayaran Digital
+Pembayaran secara umum dapatdiartikan sebagai pemindahan
+sejumlahuang dari si pembayar ke penerima. Pembayaran digital
+adalahpembayaran yang berbasis teknologi. Di dalam pembayaran digital
+uang disimpan, diproses, dan diterima dalam bentuk informasi digital dan
+proses
+pemindahannya
+diinisialisasimelalui
+alat
+pembayaran
+elektronik.Pembayaran secara tradisional dilakukanmelalui uang tunai,
+cek, atau kartu kredit sedangkan pembayaran digital dilakukan
+menggunakan software tertentu,kartu pembayaran, dan uang
+elektronnik.Komponen-komponen utama dari sistempembayaran digital
+antara lain:aplikasi pemindahan uang, infrastrukturjaringan, peraturan dan
+prosedur yangmemerintah kegunaan dari sistem tersebut.17
+Sistem pembayaran secara digital menyediakan cara pembayaran
+untuk pembelian barang ataupun jasa melalui internet. Berbeda dengan
+sistem pembayaran biasanya, pelanggan mengirimkan seluruh data yang
+berkaitan dengan pembayaran kepada penjual melalui internet, tidak ada
+interaksi eksternal yang jauh antara pelanggan dan penjual (dengan
+mengirimkan faktur melaui email atau konfirmasi melalui fax). Sekarang
+ini, sudah lebih dari 100 macam sistem pembayaran secara elektronik.18
+3. Aplikasi Pembayaran Digital
+a. OVO
+OVO adalah sebuah aplikasi Smart yang memberikan layanan
+pembayaran dan transksi secara online (OVO Cash). Pengguna juga
+
+15
+Hoedi Prasetyo dan Wahyudi Sutopo, Industri 4.0: Telaah Klasifikasi Aspek dan Arah
+Perkembangan Riset, Jurnal Teknik Industri, Vol. 13, No. 1, Januari 2018, hlm. 18
+16
+Ibid.
+17
+Deni Trihasta dan Julia Fajaryanti, E-Payment Sistem, Prosiding Seminar Ilmiah Nasional
+Komputer dan Sistem Intelijin, Universitas Gunadarma, Depok, 2008, hlm. 616
+18
+Ibid., hlm. 617
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+66
+
+IAIN Palangka Raya
+bisa untuk mengumpulkan poin setiap kali melakukan transaksi
+pembayaran melalui OVO. Secara umum, OVO Cash dapat digunakan
+untuk berbagai macam pembayaran yang telah bekerja sama dengan
+OVO menjadi lebih cepat. Sedangkan OVO Points adalah loyalty
+rewards bagi yang melakukan transaksi dengan menggunakan OVO
+Cash di merchant merchant rekanan OVO. Untuk OVO Points sendiri,
+dapat ditukarkan dengan berbagai penawaran menarik hingga
+ditukarkan dengan transaksi di merchant rekanan OVO.
+OVO Menawarkan kemudahan transaksi tanpa mengharuskan
+nasabahnya membawa uang cash terlalu banyak. Salah satunya dengan
+menunjukan aplikasi OVO yang didalamnya terdapat saldo maupun
+Cash Point.19
+b. GO-PAY
+Chief Marketing Officer Go-Jek Indonesia, Piotr Jakubowski,
+mengatakan, GO-PAY adalah layanan dompet elektronik Go-Jek20. GOPAY adalah sebuah metode pembayaran yang ditawarkan gojek melalui
+aplikasinya, pengguna tidak perlu lagi membayar uang tunai kepada
+driver21. GO-PAY bias digunakan untuk semua jenis layanan Go-Jek
+mulai dari jasa ojek online atau Go-Ride, Go-Food, hingga Go-Mart.
+Go-Jek juga memiliki layanan pembelian pulsa atau Go-Pulsa,
+layanan pijat oleh tukang pijat professional atau Go-Massage, layanan
+pembersihan rumah atau Go-Clean, layanan pemesanan tiket mulai dari
+tiket konser hingga nonton Go-Tick, layanan perawatan kendaraan
+bermotor atau Go-Auto dan beberapa layanan lainnya22, agar bias
+menggunakan GO-PAY perlu melakukan top-up terlebih dahulu, ada
+beberapa cara yang dapat dilakukan untuk mengisi saldo GO-PAY yaitu
+melalui ATM, minimarket, Alfamart dan melalui driver23.
+c. DANA
+DANA atau dompet digital Indonesia merupakan layanan
+pembayaran digital berbasis aplikasi yang mana aplikasinya telah
+tersedia untuk platfortmandroid melalui Google Play Store maupun
+flatform iOS melalui App Store. Denganmenggunakan aplikasi ini para
+
+Cermati.com, Sekilas Mengenai OVO, diakses dari https://www.cermati.com/emoney//ovo, pada tanggal 25 Desember 2018 pukul 14.40
+20
+Ayu, Beragam Kemudahan dan Keuntungan dengan Go Pay, diakses dari
+medan.tribunnews.com/2017/01/30/beragam-kemudahan-dan-keuntungan-dengan-go-pay,
+pada
+tanggal 25 Desember 2018 pukul 10.00
+21
+Sandi Prayoga, Keuntungan Pakai GO-PAY di Aplikasi Gojek, diakses dari
+https://www.bloggerlampung.com/keuntungan-pakai-go-pay-di-aplikasi-gojek/, pada tanggal 25
+Desember 2018 pukul 10.30
+22
+Ayu, Beragam Kemudahan dan Keuntungan dengan Go Pay, diakses dari
+medan.tribunnews.com/2017/01/30/beragam-kemudahan-dan-keuntungan-dengan-go-pay,
+pada
+tanggal 25 Desember 2018 pukul 10.00
+23
+Sandi Prayoga, Keuntungan Pakai GO-PAY di Aplikasi Gojek, diakses dari
+https://www.bloggerlampung.com/keuntungan-pakai-go-pay-di-aplikasi-gojek/, pada tanggal 25
+Desember 2018 pukul 10.30
+19
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+67
+
+IAIN Palangka Raya
+
+pengguna melakukan berbagai macam transaksi pembayaran, mulai dari
+membeli pulsa, pembayaran tagihan (listrik, telepon, air hingga BPJS),
+membeli voucher Google Play, membayar cicilan, dan berbelanja
+secara online.Platform DANA menawarkan beberapa keunggulan,
+termasuk salah satunya adalah layanan dan dukungan transaksi yang
+sangat lengkap di dalamnya. Platform buatan PT. Espay Debit
+Indonesia Koe atauEDIK ini juga menjamin setiap penggunaannyadapat
+bertransaksi secara aman dan terpercaya, dengan menggunakan
+teknologi keamanan yang diawasi selama 24 jam.Bahkan menariknya,
+platform pembayaran digital buatan asli Indonesia ini juga menjamin
+para penggunanya dengan garansi uang kembali jika terjadi kesalahan
+pada saat pengguna sedang bertransaksi.24
+D. PerkembanganSistem Pembayaran DigitalPada Era Revolusi Industri
+4.0 di Indonesia
+Bank Indonesia sendiri pada Undang-Undang Nomor 23 Tahun 1999
+Tentang Bank Indonesia pasal 1 angka 6 juga telah medefinisikan secara
+tegas mengenai sistem pembayaran yang merupakan satu kesatuan yang utuh
+dari seperangkat aturan, lembaga, mekanisme untuk melaksanakan
+pemindahan dana guna memenuhi kewajiban yang timbul dari kegiatan
+ekonomi. Hal ini berhubungan dengan alat pembayaran, prosedur perbankan
+sehubungan dengan pembayaran dan juga sistem transfer dana antar bank
+yang dipakai dalam proses pembayaran. Berbagai kendala dalam penggunaan
+uang tunai (kertas dan logam) mendorong munculnya inovasi-inovasi baru
+dalam penciptaan alat pembayaran yang bersifat non-tunai. Alat pembayaran
+non-tunai yang saat ini kita kenal ada yang berbentuk paper based
+(Cek/BilyetGiro), card-based (Kartu Kredit, Kartu Debet) dan electronic
+based.25
+Pada perekonomian masa kini, manusia dituntut untuk dapat
+mengikuti kemajuan perkembangan teknologi. Gagasan dan perwujudan
+tersebut menemukan solusi untuk membantu mempermudah keinginan
+manusia agar mendapatkan kebutuhan. Menjamurnya bisnis startup membuat
+para pelaku usaha ini berlomba-lomba melakukan inovasi-inovasi dalam
+produk finansial digitalnya. Tak jarang, banyak waralaba yang mengeluarkan
+terobosan baru agar tidak kalah saing untuk mendapatkan hati calon
+pembelinya seperti peningkatan pelayanan, pengantaran barang hingga
+kerumah pembeli, bahkan penambahan durasi. Agar dapat menunjang
+kebutuhan tersebut, pembeli juga harus memiliki alat transaksi pembayaran
+yang memadai sehingga dapat digunakan dalam pemenuhan kebutuhan.
+Dalam hal ini, pembayaran digital sangat berperan penting untuk
+Sukindar, Apa Itu
+Aplikasi DANA dan Apa Keunggulannya, diakses
+darihttps://gadgetren.com/2018/11/15/apa-itu-aplikasi-dana/, pada tanggal 24 Desember 2018 pukul
+20.27
+25
+Biro
+PengembangandanKebijakanSistemPembayaranDirektoratAkuntingdanSistem
+Pembayaran, Pengantar Sistem Pembayaran, hlm. 3
+24
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+68
+
+IAIN Palangka Raya
+mempermudah proses pemenuhan kebutuhan. Dengan munculnya uang
+elektronik akan memungkinkan masyarakat untuk melakukan transaksi
+finansial tanpa menggunakan uang tunai.26
+Kebutuhan masyarakat yang semakin meningkat dengan berbagai
+jenis produk yang ditawarkan terkadang membuat manusia menjadi dilema
+atas apa yang akan dipilihnya. Dalam hal prioritas tertentu, yang menyangkut
+hajat hidup manusia atau kebutuhan primer yang mendesak tersebut harusnya
+diutamakan serta tidak boleh diabaikan. Sedangkan kebutuhan kedua atau
+yang biasa disebut sebagai keinginan tersebut masih bisa ditangguhkan.
+Kebutuhan pokok, wajib dipenuhi secepatnya jika tidak maka akan
+menjadikan manusia menderita bahkan menggoncangkan sendi-sendi lahir
+dan batin. Betapapun kuat mentalnya jika kebutuhan pokok tidak terpenuhi
+maka akan membuat tersiksa, oleh sebab itu maka perlu didahulukan. Dengan
+adanya pembayaran digital diharapkan mampu untuk memenuhi kebutuhan
+pokok manusia sebagai penopang kelangsungan hidupnya.27
+Perkembangan infrastruktur pasar untuk sistem pembayaran
+digitalisasi transaksi merupakan bagian dari perkembangan tren dalam
+treasury management. Fokus skema pembayaran instan tidak hanya pada
+kecepatan, tetapi juga keamanan dan inovasi yang lebih baik. Sehingga
+pembayaran digital dengan segala pembaharuannya dapat mempermudah
+kehidupan manusia dalam memenuhi kebutuhan hidupnya dengan cara yang
+lebih efektif dan juga efesien. Pembayaran digital dapat dikatakan lebih
+efektif dikarenakan dalam proses transaksi dapat dilakukan selama 24 jam
+selama terkoneksi oleh jaringan internet, sehingga mempermudah calon
+konsumen untuk memenuhi kebutuhannya tanpa terpatok oleh waktu. Calon
+konsumen dapat melakukan transaki di mana saja dan kapanpun dia mau
+hanya dengan melalui aplikasi yang dengan bebas bisa di instal baik di
+smartphone maupun pada media elektronik lainnya.
+Pembayaran digital dapat dikatakan lebih efesien dikarenakan dalam
+proses transaksi jarang di tambahkan biaya admin, meskipun terdapat biaya
+admin itu pun lebih murah dibandingkan jika datang ke gerai tempat untuk
+memenuhi kebutuhan tersebut. Selain itu pula, barang barang yang dijual di
+dalam aplikasi memiliki selisih harga dibandingkan di toko-toko karena
+langsung pada pihak pertama sehingga harga yang ditawarkan relatif murah.
+Pembayaran digital ini jelas dapat membantu manusia dalam memenuhi
+kebutuhan hidupnya agar menjadi lebih efektif dan juga efisien.
+Penggunaan internet sebagai media pemasaran dan saluran penjualan
+terbukti mempunyai keuntungan. Dalam implementasinya sendiri pada dunia
+industri yang penerapannya semakin lama semakin luas tidak hanya
+
+26
+Rifqy Tazkiyyaturrohmah, EksistensiUangElektronikSebagaiAlatTransaksiKeuangan
+Modern, Muslim Heritage, Vol. 3, No.1, 2018, hlm. 22
+27
+Jirhanuddin, Islam Dinamis, Yogyakarta: Pustaka Pelajar, 2017, hlm. 30
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+69
+
+IAIN Palangka Raya
+
+mengubah suasana kompetisi menjadi semakin dinamis dan global, namun
+lebih membentuk masyarakat yang lebih praktis dalam melakukan transaksi.
+Munculnya pembayaran digital membuat dana yang dikeluarkan menjadi
+lebih transparan tanpa adanya penggelapan dana dari oknum-oknum tertentu
+dikarenakan setiap kali terjadinya transaksi pembelanjaan akan tercatat
+datanya sehingga dapat dengan mudah dipantau pengeluaran yang digunakan
+dalam pembelanjaan. Dalam hal ini, mempermudah pengecekan yang
+dilakukan untuk mengetahui laju arus dana baik yang keluar maupun masuk
+ke dalam sistem pembayaran digital. Data yang dihasilkan tidak dapat
+dimanipulasi, karena sistem telah menentukannya secara otomatis terekam
+saat terjadi proses transaksi baik itu dalam kategori pemasukan maupun
+pengeluaran beserta dengan tanggal dan jumlah dana nya.28
+E. Peluang dan Tantangan Sistem Pembayaran Digital Pada Era Revolusi
+Industri 4.0 di Indonesia
+Sistem pembayaran digital atau bisa disebut juga dengan e-payment
+(electronic payment) bukan merupakan hal yang asing lagi di kalangan
+masyarakat di era revolusi 4.0 ini. Sejak teknologi informasi mampu
+mendukung terhadap sistem transaksi bank, model transaksi pun lebih
+mengedepankan pada model non-face to face dan paperless document atau
+digital document. Teknologi baru telah memungkinkan pembayaran barang
+melalui layanan internet.29
+Sistem pembayaran digital merupakan sebuah bentuk sistem atau
+mekanisme pembayaran yang diselenggarakan secara online melalui internet
+dengan tujuan transaksi pembelian sebuah produk oleh konsumen. Sistem
+pembayaran digital sudah mulai marak lantaran banyak sekali manfaat yang
+bisa didapatkan, baik manfaat yang didapat oleh konsumen maupun
+produsen.Terlebih sekarang sudah semakin maraknya e-commerce yang
+membuat masyarakat terpacu untuk melakukan transaksi online. Namun
+meski beberapa website e-commerce telah banyak bermunculan di Indonesia,
+umumnya dapat dikatakan bahwa 99% konsumen masihlah tergantung pada
+pembayaran tunai.30 Hal ini bukanlah masalah besar. Hal tersebut dapat
+terjadi dikarenakan masih banyak masyarakat yang belum tahu-menahu
+mengenai sistem pembayaran digital yang sebenarnya memiliki banyak
+manfaat.Dengan adanya sistem pembayaran digital, tentunya akan membantu
+pertumbuhan ekonomi menjadi lebih baik. Sisem pembayaran digital pun
+
+28
+Hafidz Abdurrahman, Bisnis dan Muamalah Kontemporer, Bogor: Al Azhar Freshzone
+Publishing, 2015, hlm. 97
+29
+Rachmadi Usman, Karakteristik Uang Elektronik dalam Sistem Pembayaran, Yuridika,
+Vol. 32, No. 1, 2017, hlm. 153
+30
+Rida
+Tera,
+Apa
+Saja
+Manfaat
+dari
+E-Payment?,
+diakses
+dari
+http://dkijakarta.co/2016/07/19/apa-saja-manfaat-dari-e-payment/, pada tanggal 19 Desember 2018
+pukul 19.20
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+70
+
+IAIN Palangka Raya
+dapat membantu mengurangi inflasi akibat banyaknya uang yang beredar di
+masyarakat. Berikut adalah manfaat dari adanya sistem pembayaran digital:31
+1. Meningkatkan efisiensi dalam pembayaran sebuah produk secara
+online.Pilihan produk layanan dapat ditingkatkan terus-menerus seiring
+perkembangan zaman.
+2. Memberikan kemudahan pembayaran serta perluasan media pembayaran
+dengan sudah tersedianya berbagai alat pembayaran online.
+3. Meningkatkan efektivitas dan efisiensi waktu
+Transfer uang antar rekening virtual yang biasanya memakan waktu
+beberapa menit, sementara transfer antar bank atau satu pos dapat
+berlangsung beberapa hari. Konsumen juga tidak akan membuang-buang
+waktu untuk menunggu antrian di sebuah bank atau kantor pos.
+4. Meningkatkan customer loyality
+5. Dapat dilakukan di mana saja dan kapan saja
+Biasanya setiap layanan dirancang untuk menjangkau khalayak seluas
+mungkin, sehingga memiliki antarmuka pengguna intuitif dimengerti.
+Selain itu, selalu ada kesempatan untuk mengajukan pertanyaan kepada
+tim dukungan, yang sering bekerja 24/7.
+6. Pengendalian biaya
+Bahkan jika seseorang ingin membawa pengeluaran di bawah kendali,
+perlu untuk kesabaran untuk menuliskan semua biaya kecil, yang sering
+mengambil sebagian besar dari jumlah total pengeluaran. Akun virtual
+berisi sejarah semua transaksi yang menunjukkan toko dan jumlah yang
+konsumen habiskan. Dan konsumen dapat memeriksa kembali kapan saja
+mereka inginkan. Keuntungan sistem pembayaran digital cukup penting
+dalam kasus ini.
+7. Komisi rendah
+Jika konsumen membayar untuk penyedia layanan internet atau pengisian
+akun ponsel melalui UPT (terminal pembayaran tanpa pengawasan),
+konsumen akan menemukan biaya tinggi. Sedangkan untuk sistem
+pembayaran elektronik: biaya semacam ini operasi terdiri dari 1% dari
+jumlah total, dan ini merupakan keuntungan yang cukup besar.
+Selain beberapa manfaat tersebut, ada lagi manfaat dari sistem
+pembayaran digital yakni dapat dilakukan dengan alat pembayaran e-payment
+yang mudah. Konsumen bisa melakukan pembayaran transaksi online hanya
+dengan memakai smartphone yang mereka miliki. Saat ini perkembangan
+teknologi sudah sangat pesat, smartphone pun bukan lagi satu benda yang
+asing bagi kebanyakan orang. Baik yang muda maupun tua sudah sangat
+
+31
+Gede Widiastika, Kekuarangan dan Kelebihan E-Payment, diakses dari http://infologys.blogspot.com/2017/02/kekurangan-dan-kelebihan-penggunaan-e.html, pada tanggal 19
+Desember 2019, pukul 21.07
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+71
+
+IAIN Palangka Raya
+banyak yang memiliki smartphone. Dari benda yang satu ini, transaksi jual
+beli pun bisa dijalani dengan sangat mudah.32
+Sistem pembayaran digital memiliki keunggulan lain yaitu
+memberikan keamanan dalam bertransaksi. Dengan keamanan yang terjamin,
+konsumenakan nyaman dalam melakukan suatu pekerjaan. Dan jika
+konsumen menggunakan e-payment, sistem keamanannya pun akan sangat
+terjamin.Karena akan sangat menyulitkan jika setiap orang selalu membawa
+uang dengan jumlah yang banyak di dalam tas saat berada di tempat umum.
+Ditambah lagi saat ini banyak sekali kejahatan di mana-mana. Untuk
+meminimalisir risiko tersebut, maka hadirlah sistem pembayaran digital yang
+memberikan banyak manfaat bagi setiap konsumennya.33Tetapi di satu sisi
+sistem pembayaran digital tidak hanya memiliki keunggulan saja, tetapi juga
+memiliki kekurangan. Berikut adalah kekurangan dari sistem pembayaran
+digital:34
+1. Munculnya kejahatan seperti hacker
+Jika konsumen mengikuti seсurity yang aturan ancaman minimal, dapat
+dibandingkan dengan risiko seperti perampokan. Situasi lebih buruk ketika
+sistem pengolahan perusahaan telah rusak, karena itu mengarah ke
+kebocoran data pribadi pada kartu dan pemiliknya. Bahkan jika sistem
+pembayaran elektronik tidak meluncurkan kartu plastik, dapat terlibat
+dalam skandal mengenai Pencurian identitas.
+2. Tidak semua orang dapat mengakses media internet. Karena keadaan
+suasana yang tidak mendukung dan wilayah yang terpencil dapat juga
+menjadi alasan untuk tidak mendapatkan koneksi internet yang bagus dan
+stabil.
+3. Teknologi di Indonesia masih terbatas, dan harganya tergolong mahal.
+Dengan mahalnya pajak di Indonesia, harga teknologi pun dapat
+meningkat drastis, dengan teknologi yang semakin canggih harga barang
+pun meningkat pula. Kurangnya pengetahuan tentang teknologi oleh
+masyarakat Indonesia pun menjadi satu alasan. Sebagian masyarakat
+Indonesia kurang paham mengenai teknologi, karena adanya rasa malas
+untuk belajar atau kurangnya teknologi informasi di Indonesia.
+4. Kurangnya anonimitas
+Informasi tentang semua transaksi, termasuk jumlah, waktu dan penerima
+disimpan dalam database sistem pembayaran. Dan itu berarti badan
+intelijen memiliki akses ke informasi ini. Anda harus memutuskan apakah
+itu baik atau buruk.
+
+Ibid.
+Rida
+Tera,
+Apa
+Saja
+Manfaat
+dari
+E-Payment?,
+diakses
+dari
+http://dkijakarta.co/2016/07/19/apa-saja-manfaat-dari-e-payment/, pada tanggal 19 Desember 2018
+pukul 19.20
+34
+Ibid.
+32
+33
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+72
+
+IAIN Palangka Raya
+
+5. Masalah mentransfer uang antara sistem pembayaran yang berbeda
+Biasanya sebagian besar sistem pembayaran elektronik tidak bekerja sama
+satu sama lain. Dalam hal ini, konsumen harus menggunakan jasa
+penukaran e-currency, dan dapat memakan waktu jika konsumen masih
+tidak memiliki layanan yang terpercaya untuk tujuan ini.
+6. Pembatasan
+Setiap sistem pembayaran batasnya mengenai jumlah maksimum di
+rekening, jumlah transaksi per hari dan jumlah output.
+Kemajuan teknologi di era ekonomi digital atau dapat disebut juga
+dengan era revolusi industri 4.0, memang tidak dapat dihindari. Khususnya
+dalam perkembangan sistem pembayaran digital yang semakin pesat.
+Transaksi pada zaman dahulu hanya menggunakan uang tunai, kemudian
+mulai beralih dengan menggunakan kartu ATM atau kartu kredit/debit, dan
+seiring dengan perkembangan zaman hadirlah e-payment atau pembayaran
+digital yang mana sistem pembayaran digital ini sangat mudah dan praktis
+untuk digunakan. Sistem pembayaran digital memiliki kelebihan dan
+kekurangan. Tetapi secara umum, kelebihan dari sistem pembayaran digital
+ini lebih besar daripada kekurangannya. Hadirnnya sistem pembayaran digital
+ini bukan berati menghilangkan eksistensi uang tunai. Tetapi, dengan adanya
+sistem pembayaran digital ini juga dapat meminimalisir terjadinya inflasi di
+negeri ini akibat banyaknya uang yang beredar di masyarakat. Tentunya
+perkembangan sistem pembayaran digital ini harus diawasi secara syariah
+agar tidak terkandung unsur maisir, ghoror, dan riba. Serta dengan adanya
+sistem perkembangan sistem digital di era revolusi industri 4.0 ini, dapat
+membantu tercapainya tujuan syariah untuk kemashlahatanmasyarakat dalam
+memelihara dan menjaga harta.
+F. Kesimpulan
+Sistem perkembangan pembayaran setiap waktu selalu berubah seiring
+dengan perkembangan zaman. Dahulu kala, kita mengenal istilah barter yang
+digunakan untuk saling memenuhi kebutuhan hidup. Sampai ketika, mata
+uang diterbitkan untuk menjadi landasan baku dalam sistem tukar barang.
+Perkembangan pembayaran sudah melakukan revolusi di masa sekarang dan
+munculah yang namanya sistem pembayaran digital yang berbentuk
+paperbased (Cek/BilyetGiro), card-based (Kartu Kredit, Kartu Debet) dan
+electronic based. Selain dari tuntutan perkembangan zaman, kebutuhan
+masyarakat yang beraneka ragam menjadi salah satu landasan adanya revolusi
+perkembangan pembayaran digital untuk memudahkan manusia dalam
+menjalani kehidupanya menjadi lebih efektif dan efisien serta meminimalisir
+terjadinya praktek riba dan ghoror dengan sistem yang bersifat transparansi
+tersebut.
+Kemajuan teknologi di era ekonomi digital atau dapat disebut juga
+dengan era revolusi industri 4.0, memang tidak dapat dihindari. Khususnya
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+73
+
+IAIN Palangka Raya
+
+dalam perkembangan sistem pembayaran digital yang semakin pesat.Sistem
+pembayaran digital memiliki kelebihan dan kekurangan. Tetapi secara umum,
+kelebihan dari sistem pembayaran digital ini lebih besar daripada
+kekurangannya. Hadirnya sistem pembayaran digital ini bukan berati
+menghilangkan eksistensi uang tunai. Tetapi dengan adanya sistem
+pembayaran digital ini juga dapat meminimalisir terjadinya inflasi di negeri
+ini akibat banyaknya uang yang beredar di masyarakat. Tentunya
+perkembangan sistem pembayaran digital ini harus diawasi agar tidak
+terkandung unsur maisir, ghoror, dan riba. Serta dengan adanya sistem
+perkembangan sistem digital di era revolusi industri 4.0 ini, dapat membantu
+tercapainya tujuan syariah untuk kemashlahatanmasyarakat.
+G. Saran
+1. Kepada Departemen Keuangan, Departemen Perdagangan, dan
+Departemen Pengawasan agar melakukan penataan regulasi sistem
+pembayaran digital sesuai dengan kebutuhan masyarakat.
+2. Kepada pemerintah, Badan Usaha Milik Negara, Bank Indonesia, untuk
+menetapkan kebijakan yang sesuai dengan sistem pembayaran digital.
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+74
+
+IAIN Palangka Raya
+DAFTAR PUSTAKA
+
+Buku
+Abdurrahman, H. 2015. Bisnis dan Muamalah Kontemporer, Bogor: Al Azhar
+Freshzone Publishing.
+Al-Arif, M. N. R. 2012. Teori Makro Ekonomi Islam Konsep, Teori dan Analisis.
+Bakhtiar, A. 2012.Filsafat Ilmu. Jakarta: PT RajaGrafindo Persada.
+Fordebi. 2016. Ekonomi dan Bisnis Islam. Jakarta: RajaGrafindo Persada.
+Jirhanuddin. 2017. Islam Dinamis.Yogyakarta: Pustaka Pelajar.
+Nasution, M. E., dkk. 2007. Pengenal Eksklusif Ekonomi Islam, Jakarta: Kencana.
+Jurnal dan Karya Ilmiah
+Bank Indonesia. 2008. Laporan Sistem Pembayaran dan Pengedaran Uang.
+Direktorat Akunting dan Sistem Pembayaran dan Direktorat Pengedaran
+uang.
+Biro
+PengembangandanKebijakanSistemPembayaranDirektoratAkuntingdanSis
+tem Pembayaran. Pengantar Sistem Pembayaran.
+Deni, T., dan J. Fajaryanti. 2008. E-Payment Sistem. Prosiding Seminar Ilmiah
+Nasional Komputer dan Sistem Intelijin Depok. Universitas Gunadarma:
+616.
+Harahap, Z. A. A. 2014. Konsep Maqasid Al-Syariah Sebagai Dasar Penetapan
+dan Penerapannya dalam Hukum Islam Menurut ‘Izzuddin Bin ‘Abd AlSalam. Tazkir. 9(1): 172.
+Mayangsari, G. N. K. dan H. Noor. 2014. Konsep Maqashid al-Syariah dalam
+Menentukan Hukum. Jurnal Ekonomi Syariah dan Hukum Ekonomi
+Syariah. 1 (1): 52-56.
+Mutakin, A. 2017. Teori Maqashid Al Syari’ah dan Hubungannya dengan Metode
+Istinbath Hukum. Kanun Jurnal Ilmu Hukum. 19(3): 549.
+Ngafifi, M. 2014. Kemajuan Teknologi dan Pola Hidup Manusia dalam Perspektif
+Sosial Budaya. Jurnal Pembangunan Pendidikan: Fondasi dan Aplikasi.
+2(1): 34.
+Pramono, B., T. Yanuarti, P.D. Purusitawati, dan Y.T. Emmy. 2006.Dampak
+Pembayaran Non Tunai Terhadap Perekonomian dan Kebijakan Moneter.
+Paper. Bank Indensia.
+Prasetyo, H., dan W. Sutopo. 2018. Industri 4.0: Telaah Klasifikasi Aspek dan
+Arah Perkembangan Riset. Jurnal Teknik Industri. 13(1): 18.
+Shidiq, G. 2009. Maqashid Al-Syari’ah dalam Hukum Islam. Sultan Agung.
+44(118): 117.
+Tarantang, Jefry, Penyelesaian Sengketa Melalui Lembaga Arbitrase, Jurnal Al-Qordh
+Volume 4, Nomor 2, 2018.
+Tarantang, Jefry,Teori dan Aplikasi Pemikiran Kontemporer dalam Pembaharuan Hukum
+Keluarga Islam, Jurnal Transformatif Vol. 2, No. 1, April 2018.
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+75
+
+IAIN Palangka Raya
+
+Tazkiyyaturrohmah, R. 2018. Eksistensi Uang Elektronik sebagai Alat Transaksi
+Keuangan Modern. Muslim Heritage. 3(1): 22-23.
+Usman, R. 2017. Karakteristik Uang Elektronik dalam Sistem Pembayaran.
+Yuridika. 32(1): 153.
+Sumber Internet
+Ayu. 2017. Beragam Kemudahan dan Keuntungan dengan Go Pay.
+medan.tribunnews.com/2017/01/30/beragam-kemudahan-dan-keuntungandengan-go-pay. 25 Desember 2018 (10.00).
+Cermati.com. 2018. Sekilas Mengenai OVO. https://www.cermati.com/emoney//ovo. 25 Desember 2018 (14.40).
+Prayoga, S. 2017. Keuntungan Pakai GO-PAY di Aplikasi Gojek.
+https://www.bloggerlampung.com/keuntungan-pakai-go-pay-di-aplikasigojek/. 25 Desember 2018 (10.30).
+Sukindar. 2018. Apa Itu
+Aplikasi DANA dan Apa Keunggulannya.
+https://gadgetren.com/2018/11/15/apa-itu-aplikasi-dana/. 24 Desember
+2018 (20.27).
+Tera,
+R.
+2016.
+Apa
+Saja
+Manfaat
+dari
+E-Payment?.
+http://dkijakarta.co/2016/07/19/apa-saja-manfaat-dari-e-payment/.
+19
+Desember 2018 (19.20).
+Widiastika, G. 2017. Kekurangan dan Kelebihan E-Payment. http://infologys.blogspot.com/2017/02/kekurangan-dan-kelebihan-penggunaane.html. 19 Desember 2019 (21.07).
+
+Jurnal Al Qardh, Volume 4, Juli 2019
+
+

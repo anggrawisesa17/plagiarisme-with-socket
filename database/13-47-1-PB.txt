@@ -1,0 +1,1404 @@
+Jurnal ECSOFiM Vol. 1 No. 1, 2013
+
+52
+
+ANALISIS PENGARUH NILAI PRODUKSI PERIKANAN
+BUDIDAYA TERHADAP PRODUK DOMESTIK BRUTO SEKTOR
+PERIKANAN DI INDONESIA
+M. Zulkarnain1), Pudji Purwanti2), Erlinda Indrayani3)
+Jurnal ECSOFiM Vol. 1 No. 1, 2013
+
+ABSTRAK
+Budidaya dapat menjadi penggerak utama pertumbuhan ekonomi di sektor
+perikanan di Indonesia saat kondisi perikanan laut mengalami overfishing. Hubungan
+antara nilai yang digunakan produksi perikanan (budidaya laut, budidaya tanggul,
+tambak, budidaya keramba, jaring apung budidaya dan budidaya padi) dan Domestik
+Bruto sektor perikanan Produk di Indonesia. Tujuan dari penelitian ini adalah untuk
+mengetahui pengaruh secara parsial dan simultan dominan dari nilai produksi perikanan
+budidaya terhadap Perikanan Produk Domestik sektor perikanan di Indonesia.
+Penelitian ini dilakukan di Badan Pusat Statistik Jakarta, Kementerian Kelautan dan
+Perikanan, Direktorat Jenderal Perikanan Budidaya dan Bank Sentral Indonesia Jakarta.
+Metode yang digunakan dalam penelitian ini menggunakan data sekunder dari tahun
+2000-2010 dengan menggunakan analisis regresi linier. Hasil penelitian ini
+menunjukkan bahwa nilai produksi perikanan budidaya secara bersama-sama
+mempengaruhi PDB sektor perikanan di Indonesia, nilai produksi perikanan sebagian
+mempengaruhi Produk Domestik Bruto sektor perikanan di Indonesia. Budidaya Laut
+memiliki efek paling dominan terhadap Produk Domestik Bruto dari sektor perikanan di
+Indonesia dan diikuti budidaya kolam dan budidaya tanggul. Adapun kolam budidaya
+memiliki nilai negatif. kesimpulan dan rekomendasi dari penelitian ini bahwa budidaya
+laut dapat menjadi penggerak utama pertumbuhan ekonomi perikanan di Indonesia,
+diikuti oleh tambak dan tambak, budidaya padi harus diadakan untuk studi lebih lanjut
+karena memiliki dampak negatif terhadap Produk Domestik Bruto dari sektor perikanan
+di Indonesia.
+
+Kata kunci: budidaya, produk domestik bruto sektor perikanan, budidaya, tanggul
+budidaya, tambak, budidaya padi
+
+1)
+
+Mahasiswa Fakultas Perikanan dan Ilmu Kelautan
+Dosen Pembimbing Fakultas Perikanan dan Ilmu Kelautan
+3)
+Dosen Pembimbing Fakultas Perikanan dan Ilmu Kelautan
+2)
+
+Jurnal ECSOFiM Vol. 1 No. 1, 2013
+
+53
+
+ANALYSIS OF AQUACULTURE PRODUCTION VALUE EFFECT
+TO GROSS DOMESTIC PRODUCT OF FISHERIES SECTOR IN
+INDONESIA
+M. Zulkarnain1), Pudji Purwanti2), Erlinda Indrayani3)
+Socioeconomic Fisheries
+
+ABSTRACT
+Aquaculture can be a prime mover of economic growth in the fisheries sector in
+Indonesia when marine fishing conditions are being overfishing. The relation between
+between values which was used in fishery production (marine culture, dike aquaculture,
+farms, cages aquaculture, floating net aquaculture and paddy cultivation) and Gross
+Domestic Product of fisheries sector in Indonesia. The objective of this research is to
+know the partially and dominant effect of aquaculture production value into domestic
+Product of fisheries sector in Indonesia. The research was conducted at the Central
+Bureau Statistics Jakarta, Ministry of Maritime and Fisheries Affairs, Directorate
+General of Aquaculture and Central Bank of Indonesia Jakarta. The method in this
+study was used secondary data year from 2000-2010 with linear regression
+analysis. The results of this study showed that the value of aquaculture production
+alltogether affect the GDP of fisheries sector in Indonesia, the value of fisheries
+production have partly effect in the Gross Domestic Product of fisheries sector in
+Indonesia. Marine culture has the most dominant effect on the Gross Domestic Product
+of the fisheries sector in Indonesia followed by farm aquaculture and dike aquaculture.
+The farm aquaculture has negative value. The conclusion and recommendation from this
+research are the marine aquaculture can be a prime mover of economic fisheries growth
+in Indonesia, followed by farm aquaculture, and paddy cultivation should be conducted
+for further study because it has a negative impact on the Gross Domestic Product of
+fisheries sector in Indonesia.
+
+Keywords: aquaculture, gross domestic product of fisheries sector, marine culture, dike
+aquaculture , farm aquaculture, paddy cultivation
+
+1)
+
+Student of Faculty of Fisheries and Marine Sciences
+Lecturer of Faculty of Fisheries and Marine Sciences
+3)
+Lecturer of Faculty of Fisheries and Marine Sciences
+2)
+
+72
+PENDAHULUAN
+Latar Belakang
+Indonesia merupakan negara kepulauan dengan wilayah laut yang lebih luas
+daripada luas daratannya. Luas seluruh wilayah Indonesia dengan jalur laut 12 mil
+2
+adalah lima juta km2 terdiri dari luas daratan 1,9 juta km2, laut teritorial 0,3 juta km ,
+2
+dan perairan kepulauan seluas 2,8 juta km . Artinya seluruh laut Indonesia berjumlah
+3,1 juta km2 atau sekitar 62 persen dari seluruh wilayah Indonesia. Selain itu,Indonesia
+juga merupakan negara dengan garis pantai terpanjang di dunia dengan jumlah
+panjang garis pantainya sekitar 81.000 km. Luas laut yang besar ini menjadikan
+Indonesia unggul dalam sektor perikanan dan kelautan (Nontji, 2005).
+Untuk itu pembangunan sektor kelautan dan perikanan sebagai sektor andalan
+utama pembangunan Indonesia merupakan pilihan yang sangat tepat, hal ini
+didasarkan atas potensi yang dimiliki dan besarnya keterlibatan sumberdaya manusia
+yang diperkirakan hampir 12.5 juta orang terlibat di dalam kegiatan perikanan.
+Disamping itu juga didukung atas suksesnya pembangunan perikanan di negara lain,
+seperti Islandia, Norwegia, Thailand, China dan Korea Selatan yang mampu
+memberikan kontribusi ekonomi nasional yang besar dan mendapatkan dukungan
+penuh secara politik, ekonomi, sosial dan dukungan lintas sektoral. Kontribusi sektor
+perikanan terhadap Produk Domestik Bruto di Islandia sebesar 65%, Norwegia
+25% (Riyadi , 2007).
+Berdasarkan uraian tersebut, penulis ingin mengetahui lebih jauh bagaimana
+pengaruh nilai produksi perikanan budidaya terhadap Produk Domestik Bruto sektor
+Perikanan yang meliputi pengaruh simultan, parsial dan dominan. Dimana indikator
+perikanan budidaya yaitu : budidaya laut, budidaya tambak, budidaya kolam, budidaya
+keramba, budidaya jaring apung, dan budidaya sawah.
+Rumusan Masalah
+Dengan merujuk pada jenis perikanan budidaya rumusan masalah dari penelitian ini
+adalah :
+ Adakah pengaruh simultan dari jenis-jenis perikanan budidaya terhadap Produk
+Domestik Bruto sektor perikanan di Indonesia ?
+ Adakah pengaruh parsial dari jenis-jenis perikanan budidaya terhadap Produk
+Domestik Bruto sektor perikanan di Indonesia ?
+ Manakah pengaruh dominan dari jenis-jenis perikanan budidaya terhadap Produk
+Domestik Bruto sektor perikanan di Indonesia ?
+Tujuan Penelitian
+ Untuk mengetahui pengaruh simultan dari jenis-jenis perikanan budidaya terhadap
+Produk Domestik Bruto sektor perikanan di Indonesia.
+ Untuk mengetahui pengaruh parsial dari jenis-jenis perikanan budidaya terhadap
+Produk Domestik Bruto sektor perikanan di Indonesia.
+ mengetahui pengaruh dominan dari jenis-jenis perikanan budidaya terhadap
+Produk Domestik Bruto sektor perikanan di Indonesia.
+METODE PENELITIAN
+Waktu Dan Tempat Penelitian
+Penelitian ini dilakukan pada Badan Pusat Statistik Jakarta, Ditjen Perikanan
+Budidaya Jakarta, dan Bank Indonesia Jakarta dilakukan pada awal bulan Juni 2012
+sampai akhir Bulan Juni 2012
+
+Jenis dan Sumber Data
+1. Jenis Data
+Data yang digunakan dalam penelitian ini menggunakan data sekunder Menurut
+Sugiyono (2008), yang dimaksud sumber data sekunder adalah sumber yang tidak
+langsung memberikan data kepada pengumpul data, misalnya lewat orang lain atau
+lewat dokumen terdahulu yaitu diambil dari laporan– laporan, jurnal penelitian,
+majalah maupun bahan kepustakaan lainnya yang menunjang.
+2. Sumber Data
+Sumber data penelitian yang diperoleh secara tidak langsung melalui media
+perantara, misalnya dari Biro Pusat Satistik, Majalah, keterangan-keterangan atau
+publikasi lainnya (Indriantoro dan Supomo, 1999). Data tersebut dapat berupa informasi
+dari Badan Pusat Statistik (Jakarta). Ditjen Kelautan dan Perikanan (Jakarta), koran
+yang terkait dengan data statistik perikanan dan Bank Indonesia. Adapun data yang
+dikumpulkan antara lain : letak geografis dan kondisi umum Indonesia, kondisi umum
+perikanan budidaya di indonesia, data statistik produksi budidaya laut, budidaya
+tambak, budidaya karamba, budidaya jaring apung, budidaya kolam, budiaya sawah,
+data statistik Produk Domestik Bruto sektor Perikanan.
+Definisi Operasional Variabel
+Sesuai dengan variabel yang akan diamati, untuk memudahkan pemahaman dan
+menyamakan persepsi maka definisi operasional untuk variabel-variabel tersebut dapat
+dijabarkan pada Tabel 1 sebagai berikut:
+Tabel 1. Definisi Operasional variabel
+
+Sumber: Data diolah, 2012
+Data yang digunakan selama periode 2000-2010 (triwulan i-iv). Dimana persamaan
+dalam regresi linier sebagai berikut :
+Y = a + b1 X1 + b2 X2 + b3 X3 +
+b4 X4+ b5 X5+ b6 X6 + e
+Analisa Data
+Menurut Patton (1980) analisa data adalah proses mengatur urutan data,
+mengorganisasikannya kedalam suatu pola, kategori dan satuan uraian dasar.
+1. Deskriptif Kuatitatif
+Menurut Bungin (2008), data kuantitatif berkisar pada masalah pengukuran dengan
+menggunakan statistik untuk menganalisis data yang diperoleh bertujuan untuk
+menjelaskan dari berbagai kondisi, situasi, atau berbagai variabel yang menjadi objek
+penelitian berdasarkan apa yang terjadi. Model matematis fungsi produksi yang
+digunakan untuk Analisis Pengaruh Nilai Produksi Perikanan Budidaya Terhadap
+Produk domestik Bruto Sektor Perikanan di Indonesia adalah :
+
+2. Uji Asumsi Klasik
+Model fungsi produksi yang telah dilinearkan, untuk memperoleh model yang
+”best fit”, maka hasil model tersebut diregresikan dan dilakukan uji penyimpangan
+asumsi klasik. Diantanya adalah:
+2.1 Normalitas
+Ada bermacam-macam cara untuk mendeteksi normalitas distribusi data,
+menurut Kuncoro (2004) salah satunya menggunakan uji Kolmogorov-Smirnov.
+Hipotesis yang diajukan adalah sebagai berikut:
+Ho : Data X berdistribusi normal.
+Ha : Data X tidak berdistribusi normal.
+Pengambilan keputusan:
+Jika Sig.(p) > 0,05 maka Ho diterima
+Jika Sig.(p) < 0,05 maka Ho ditolak.
+Cara lain untuk melihat uji normalitas adalah dideteksi dengan melihat penyebaran
+data (titik) pada sumbu diagonal dari grafik atau dengan melihat histogram dari
+residualnya. Menurut Ghozali (2005), Dasar pengambilan keputusan:
+- Jika data menyebar di sekitar garis diagonal dan mengikuti arah garis diagonal maka
+model regresi memenuhi asumsi normalitas.
+- Jika data menyebar jauh dari diagonal dan/atau tidak mengikuti arah garis diagonal
+maka model regresi tidak memenuhi asumsi normalitas.
+2.2 Heteroskedastisitas
+Menurut Ghozali (2005) pengujian ini bertujuan untuk menguji apakah dalam
+model regresi terjadi ketidaksamaan varian dari residual satu pengamatan ke
+pengamatan yang lain. Jika varians dari residual dari pengamatan ke pengamatan yang
+lain tetap maka disebut homokedastisitas. Sebaliknya, jika varians berbeda, disebut
+heteroskedastisitas. Model regresi yang baik adalah yang tidak terjadi
+heteroskedastisitas.
+Menurut Ghozali (2005) dasar pengambilan keputusan:
+3. Jika ada pola tertentu, seperti titik-titik (poin-poin) yang ada membentuk suatu pola
+tertentu yang teratur (bergelombang, melebar kemudian menyempit), maka telah
+terjadi heteroskedastisitas.
+4. Jika ada pola garis yang jelas, serta titik-titik menyebar di atas dan di bawah angka 0
+pada sumbu Y, maka tidak terjadi heteroskedastisitas.
+2.3 Multikolinearitas
+menunjukkan adanya hubungan linier sempurna atau pasti diantara beberapa atau
+semua variabel penjelas dari model regresi linier. Menurut Ghozali (2005), uji
+multikolinearitas bertujuan untuk menguji apakah pada model regresi ditemukan adanya
+korelasi antar variabel bebas (independent). Jika terjadi korelasi, maka dinamakan
+terdapat problem multikolineritas (multikol). Model regresi linier berganda dikatakan
+BLUE jika tidak terjadi multikolinieritas. Metode yang digunakan untuk mendeteksi
+multikolinieritas pada penelitian ini adalah dengan menggunakan nilai Tolerance dan
+VIF (Value Inflation Factor). Jika nilai toleransi = 1, berarti tidak ada korelasi antar
+variabel independent atau jika VIF lebih dari 10 dikatakan terjadi kolinieritas yang
+tinggi (Ghozali, 2005).
+2.4 Autokorelasi
+Uji autokorelasi bertujuan menguji apakah dalam model regresi linear ada korelasi
+antara kesalahan pengganggu pada periode t dengan kesalahan pada periode t-1
+(sebelumnya). Jika terjadi korelasi, maka dinamakan ada problem autokorelasi. Ada
+atau tidaknya autokorelasi dapat dideteksi dengan menggunakan uji Durbin-Watson
+
+(DW-test). Kriteria Pengujian Autokorelasi jika du < DW < 4-du maka dinyatakan tidak
+ada autokorelasi baik positif atau negative (Ghozali, 2005).
+3. Regresi Linier Berganda
+Menurut Usman (2000), Metode analisis regresi linier berganda, yaitu alat analisis
+untuk mengetahui pengaruh variabel independen terhadap variabel dependen. Adapun
+penghitungan yang dilakukan sebagai berikut:
+a) Uji F
+Uji ini dimaksudkan untuk mengukur tingkat signifikansi pengaruh simultan
+variabel bebas terhadap variabel terikat. Menurut Usman (2000), penghitungan
+dilakukan dengan langkah-langkah sebagai berikut:
+Jika Probabilitas Hitung < Level of Significance () maka ada pengaruh
+signifikan.
+Jika Probabilitas Hitung > Level of Significance () maka tidak ada pengaruh
+signifikan.
+Menentukan Koefisien Determinasi (R2)
+b) Uji T
+Uji ini digunakan untuk menguji pengaruh variabel bebas terhadap variabel
+terikat secara sendiri-sendiri (parsial). Menurut Usman (2000), Adapun langkahlangkah pengujian adalah sebagai berikut :
+Jika Probabilitas Hitung < Level of Significance () maka ada pengaruh
+signifikan.
+Jika Probabilitas Hitung > Level of Significance () maka tidak ada pengaruh
+signifikan.
+Mencari thitung masing-masing variabel bebas
+Rumus:
+
+t hitung 
+
+b
+Sb
+
+Dimana :
+b
+=
+slope/besarnya perubahan setiap variabel bebas.
+Sb =
+standar error koefisien regresi.
+c) Uji koefisien beta (β)
+Menurut Usman (2000), Koefisien Standardized atau beta (β) merupakan uji yang
+digunakan mengetahui dan mengukur variabel-variabel bebas (X) mana yang
+berpengaruh paling tinggi dan yang paling rendah terhadap variabel terikat (Y).
+Besarnya α yang digunakan dalam penelitian ini adalah sebesar 5%, sedangkan
+hipotesis statistiknya adalah sebagai berikut :
+Adapun kriteria penilaiannya adalah sebagai berikut :
+- Dari variabel yang bermakna dipilih yang dominan dari nilai koefisien beta yang
+paling besar.
+Perhitungan-perhitungan Uji Asumsi Klasik, Regresi Linier Berganda, f-test, t-test,
+dan Standardized atau beta (β) dilakukan dengan menggunakan Program SPSS 13.0
+for Windows.
+
+HASIL DAN PEMBAHASAN
+Kondisi Wilayah Penelitian
+1. Letak Geografis Penelitian
+Indonesia terletak di antara 6º LU – 11º LS dan 95º BT - 141º BT, antara Lautan
+Pasifik dan Lautan Hindi, antara benua Asia dan benua Australia, dan pada pertemuan
+dua rangkaian pergunungan, yaitu Sirkum Pasifik dan Sirkum Mediterania.
+2. Kondisi Perikanan Indonesia
+Tabel 2. Indikator Fisik Indonesia.
+
+Sumber : Kementrian dan Kelautan Perikanan, 2011
+Berdasarkan rincian indikator fisik Indonesia pada tahun 2010 volume produksi
+yang dihasilkan dari sektor perikanan sebesar 11.662.342 ton dimana 5.384.418 ton dari
+perikanan tangkap dan 6.277.924 ton dari perikanan budidaya. Untuk volume produksi
+perikanan dapat dilihat pada Tabel 3.
+Tabel 3. Volume Produksi Perikanan(ton)
+
+Keterangan
+*)
+: Angka sementara
+NA
+: Not Available
+Sumber : Kementrian Kelautan dan Perikanan, 2011
+Dari jumlah produksi (ton) perikanan budidaya memiliki jumlah lebih besar
+dibanding dengan perikanan tangkap. Dimana budidaya laut menyumbang volume
+produksi terbesar dengan jumlah 3.514.702 ton , diikuti dengan budidaya tambak
+sebesar 1.416.038 ton , budidaya kolam sebesar 819.809 ton, budidaya jaring apung
+sebesar 309.499 ton dan budidaya sawah sebesar 96.605 ton.
+Walaupun volume perikanan budidaya memiliki jumlah (ton) yang lebih besar
+berdasarkan nilai produksi perikanan tangkap masih memiliki nilai yang lebih besar
+dibandingkan nilai perikanan budidaya. Dimana nilai produksi perikanan tangkap
+sebesar Rp.64.549.401.277.000,- dan perikanan budidaya Rp.63.329.190.724.000. hal
+tersebut dapat terjadi karena harga dari hasil perikanan tangkap memiliki nilai yang
+lebih tinggi dibandingkan dengan perikanan budidaya dapat dilihat pada Tabel 4.
+
+Tabel 4. Nilai Produksi Perikanan
+
+Keterangan :
+*)
+: Angka sementara
+NA
+: Not Available
+Sumber : Kementrian Kelautan dan Perikanan , 2011
+Analisa Data
+1. Uji Asumsi Klasik
+a) Normalitas
+Tabel 5. Uji Kolmogorov-Smirnov
+One-Sample Kolmogorov-Smirnov Test
+
+N
+Normal Parameters a,b
+Most Extreme
+Dif f erences
+
+Mean
+St d. Dev iation
+Absolute
+Positiv e
+Negativ e
+
+Kolmogorov -Smirnov Z
+Asy mp. Sig. (2-tailed)
+
+Budiday a Laut
+44
+1,1018E+012
+1,0694E+012
+,238
+,238
+-,184
+1,578
+,014
+
+Budiday a
+Tambak
+44
+3E+012
+1E+012
+,107
+,107
+-,070
+,709
+,696
+
+Budiday a
+Kolam
+44
+1E+012
+9E+011
+,223
+,223
+-,171
+1,478
+,025
+
+Budiday a
+Karamba
+44
+3E+011
+3E+011
+,281
+,281
+-,228
+1,861
+,002
+
+Budiday a
+Jaring Apung
+44
+3,5291E+011
+3,7982E+011
+,230
+,230
+-,195
+1,523
+,019
+
+Budiday a
+Sawah
+44
+2E+011
+2E+011
+,224
+,224
+-,191
+1,483
+,025
+
+PDB
+Perikanan
+44
+2E+013
+1E+013
+,221
+,221
+-,148
+1,467
+,027
+
+a. Test distribution is Normal.
+b. Calculated f rom data.
+
+Dari uji tersebut dapat dilihat bahwa sebaran data pada nilai Asymp. Sig terdapat
+sebaran variabel yang tidak normal yaitu budidaya laut sebesar 0,14, budidaya kolam
+sebesar 0,025, budidaya karamba sebesar 0,02, budidaya jaring apung sebesar 0,19,
+budidaya sawah sebesar 0,25 dan Produk Domestik Bruto Perikanan sebesar 0,027
+karena pada nilai variabel tersebut tidak lebih besar daripada 0,05 sedangkan pada
+budidaya tambak sebesar 0,696 hal ini merupakan distribusi normal karena nilainya
+lebih dari 0,05.
+Hal tersebut dapat dilakukan dengan melakukan transformasi Log natural (Ln)
+sehingga persamaan regresi linier menjadi
+LnY = a + b1 LnX1 + b2 LnX2 +
+b3 LnX3 + b4 Ln X4+
+b5 LnX5+ b6 LnX6 + e
+Kemudian persamaan ini dilakukan didapatkan hasil pada uji Kolmogorov Smirnov
+dapat dilihat pada Tabel Tabel 6.
+Tabel 6. Uji Kolmogorov-smirnov
+One-Sample Kolmogorov-Smirnov Test
+N
+Normal Parameters a,b Mean
+Std. Deviation
+Most Extreme
+Absolute
+Differences
+Positive
+Negative
+Kolmogorov-Smirnov Z
+Asymp. Sig. (2-tailed)
+a. Test distribution is Normal.
+b. Calculated from data.
+
+Budidaya Budidaya Budidaya Budidaya Budidaya
+PDB
+Budidaya laut Tambak
+Kolam Karamba Jaring apung Sawah Perikanan
+44
+44
+44
+44
+44
+44
+44
+27,2740 28,8105 27,5164 25,7893
+25,9540 26,1234 30,5006
+,97439
+,36989
+,69445
+,95918
+1,18410
+,45016
+,63403
+,139
+,140
+,147
+,122
+,187
+,140
+,132
+,124
+,108
+,147
+,122
+,187
+,140
+,132
+-,139
+-,140
+-,072
+-,066
+-,108
+-,104
+-,112
+,925
+,927
+,972
+,810
+1,241
+,929
+,877
+,359
+,357
+,301
+,528
+,092
+,354
+,425
+
+Setelah dilakukan transformasi Ln hasil yang didapatkan pada uji Kolmogorov
+Smirnov pada Asymp.Sig nilai pada budidaya laut sebesar 0,359, budidaya tambak
+0,357, budidaya tambak sebesar 0,696, budidaya kolam sebesar 0,301, budidaya
+karamba sebesar 0,528, budidaya jaring apung sebesar 0,92 dan budidaya Sawah
+sebesar 0,354 dan Produk Domestik Bruto Perikanan sebesar 0,425. Hal ini
+menunjukkan data normal karena nilainya lebih besar daripada 0,05.
+b) Uji Heteroskedastisitas
+Pada Gambar grafik Scatter Plot hasil output SPSS terlihat titik-titik menyebar
+secara acak dan tidak membentuk suatu pola tertentu yang jelas, serta tersebar baik di
+atas maupun di bawah angka 0 pada sumbu Y. Hal ini berarti data telah memenuhi
+asumsi homogenitas atau tidak terjadi heteroskedastisitas. Dengan demikian data telah
+memenuhi persyaratan yang baik untuk regresi linier berganda.
+Scatterplot
+
+Dependent Variable: PDB Perikanan
+
+4
+
+Regression Studentized Residual
+
+2
+
+0
+
+-2
+
+-4
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+Regression Standardized Predicted Value
+
+Gambar 1. Uji Heteroskedastisitas
+c) Uji Multikolinearitas
+Tabel 7. Uji Multikolinearitas
+Coeffi ci entsa
+
+Model
+1
+
+(Constant)
+Budiday a Laut
+Budiday a Tambak
+Budiday a Kolam
+Budiday a Karamba
+Budiday a Jaring Apung
+Budiday a Sawah
+
+Unstandardized
+Coef f icients
+B
+St d. Error
+15,245
+1,518
+,092
+,043
+-1,4E-014
+,000
+,013
+,075
+,226
+,056
+,309
+,046
+-,054
+,082
+
+St andardized
+Coef f icients
+Beta
+,141
+-,028
+,014
+,342
+,577
+-,038
+
+t
+10,040
+2,131
+-,474
+,169
+4,013
+6,654
+-,650
+
+Sig.
+,000
+,040
+,638
+,867
+,000
+,000
+,520
+
+Collinearity Statistics
+Tolerance
+VI F
+,125
+,161
+,081
+,076
+,073
+,160
+
+7,984
+6,219
+12,383
+13,229
+13,724
+6,239
+
+a. Dependent Variable: PDB Perikanan
+
+Hasil perhitungan tolerance maupun VIF menunjukkan bahwa model mengalami
+gejala multikolinieritas pada budidaya kolam, budidaya karamba, budidaya jaring apung
+walaupun tidak ada nilai tolerance yang melebihi 1 namun ada nilai VIF yang melebihi
+10. Dengan demikian model tersebut mengalami gejala multikolinearitas. Oleh karena
+itu cara yang dapat dilakukan dengan menghilangkan budidaya karamba, budidaya
+jaring apung karena kedua variabel tersebut terdapat didalam dengan Budidaya laut
+sehingga model regresi linier berubah menjadi
+LnY = a + b1 LnX1 + b2 LnX2 +
+B3 LnX3 + b6 LnX6 + e
+Hasil perhitungan setelah dilakukan perubahan model dapat dilihat pada tabel 8.
+Tabel 8. Uji Multikolinearitas
+Coeffici entsa
+
+Model
+1
+
+(Constant)
+Budiday a laut
+Budiday a Tambak
+Budiday a Kolam
+Budiday a Sawah
+
+Unstandardized
+Coef f icients
+B
+Std. Error
+6,986
+1,376
+,325
+,027
+,312
+,058
+,437
+,048
+-,245
+,064
+
+a. Dependent Variable: PDB Perikanan
+
+Standardized
+Coef f icients
+Beta
+,503
+,184
+,516
+-,173
+
+t
+5,079
+11,939
+5,345
+9,145
+-3,818
+
+Sig.
+,000
+,000
+,000
+,000
+,001
+
+Zero-order
+
+Correlations
+Part ial
+
+,968
+,890
+,946
+,840
+
+,936
+,767
+,898
+-,649
+
+Part
+,219
+,098
+,168
+-,070
+
+Collinearity Statistics
+Tolerance
+VIF
+,190
+,283
+,106
+,164
+
+5,270
+3,537
+9,461
+6,090
+
+Menunjukkan bahwa nilai tolerance tidak ada yang melebihi 1 dan nilai VIF berada
+dibawah 10 sehingga dapat disimpulkan model tidak mengalami gejala
+multikolinearitas.
+d) Uji Autokorelasi
+Pada hasil perhitungan diketahui nilai DW (Durbin-Watson) adalah 1,319. Dapat
+dilihat pada Tabel 9.
+Tabel 9. Uji Autokorelasi
+Model Summaryb
+Change Statistics
+Model
+1
+
+R
+R Square
+,974a
+,948
+
+Adjusted
+R Square
+,943
+
+Std. Error of
+the Estimate
+,15129
+
+R Square
+Change
+,948
+
+F Change
+179,013
+
+df 1
+
+df 2
+4
+
+39
+
+Sig. F Change
+,000
+
+DurbinWatson
+1,319
+
+a. Predictors: (Constant), X6, Budiday a Tambak, Budiday a laut, Budiday a Kolam
+b. Dependent Variable: Y
+
+Dengan variabel bebas (k) = 4 dan  = 5% dan n = 44. diketahui nilai dU = 1,7200.
+Maka maka data mengalami autokorelasi karena tidak memenuhi syarat Du < Dw < 4Du.
+Dengan demikian dapat dilakukan dengan operasi caseview pada SPSS dengan
+pembuangan outlier pada sebaran data nomor 1, 4, 6, 8, 16, 21, 25, 27, 28, 32, 37, 38,
+40. Didapatkan nilai DW (Durbin-Watson) adalah 1, 479 disajikan pada Tabel 10.
+Tabel 10. Uji Durbin-Watson
+Model Summaryb
+Change Statistics
+Model
+1
+
+R
+R Square
+,995a
+,989
+
+Adjusted
+R Square
+,987
+
+Std. Error of
+the Estimate
+,07102
+
+R Square
+Change
+,989
+
+F Change
+589,648
+
+df 1
+
+df 2
+4
+
+26
+
+Sig. F Change
+,000
+
+DurbinWatson
+1,479
+
+a. Predictors: (Constant), X6, Budiday a Tambak, Budiday a laut, Budiday a Kolam
+b. Dependent Variable: Y
+
+Sementara dengan variabel bebas (k) = 4 dan  = 5% diketahui nilai Du = 1,7352
+dan n = 31. Maka maka data tetap mengalami autokorelasi karena nilai Du > Dw.
+Dengan melakukan kembali pembuangan outlier pada sebaran nomor 3, 7, 16, 18, 26,
+28. Didapatkan nilai nilai DW (Durbin-Watson) sebesar 1.938 dapat dilihat pada Tabel
+11.
+Tabel 11. Uji Durbin-Watson
+Model Summaryb
+Change Statistics
+Model
+1
+
+R
+R Square
+,997a
+,993
+
+Adjusted
+R Square
+,992
+
+Std. Error of
+the Estimate
+,05652
+
+R Square
+Change
+,993
+
+F Change
+738,102
+
+df 1
+
+df 2
+4
+
+20
+
+Sig. F Change
+,000
+
+DurbinWatson
+1,938
+
+a. Predictors: (Constant), X6, Budiday a Tambak, Budidaya laut, Budidaya Kolam
+b. Dependent Variable: Y
+
+Dengan mengikuti syarat terbebas dari autokorelasi nilai Du < Dw < 4 – Du yaitu
+1,7666 < 1,938 < 2,2334. Dengan demikian dinyatakan tidak ada autokorelasi baik
+positif atau negatif sehingga syarat regresi linier terpenuhi.
+2. Analisis Regresi Linier Berganda
+a) Uji F
+Uji ini dimaksudkan untuk mengukur tingkat signifikansi pengaruh simultan
+variabel bebas terhadap variabel terikat. Adapaun syarat yang dilakukan
+- Jika Probabilitas Hitung < Level of Significance () maka ada pengaruh signifikan.
+- Jika Probabilitas Hitung > Level of Significance () maka tidak ada pengaruh
+signifikan.
+Hasil uji F pada SPSS dapat dilihat pada Tabel 12.
+
+Tabel 12. Uji F
+Model
+1
+
+Regression
+Residual
+Total
+
+ANOVAb
+Sum of
+Squares
+9,430
+,064
+9,494
+
+df
+4
+20
+24
+
+Mean Square
+2,358
+,003
+
+F
+738,102
+
+Sig.
+,000a
+
+a. Predictors: (Const ant), X6, Budiday a Tambak, Budiday a laut, Budiday a Kolam
+b. Dependent Variable: Y
+
+Dari tabel tersebut dapat dilihat bahwa nilai Sig 0,00 < 0,05 () sehingga model
+menunjukkan pengaruh signifikan terhadap Produk Domestik Bruto sektor Perikanan.
+Dan nilai R Square sebesar 0.993 yang menunjukkan bahwa model memiliki pengaruh
+sebesar 99,3 % terhadap Produk Domestik Bruto Sektor Perikanan dapat dilihat pada
+Tabel 13.
+Tabel 13. Uji R2
+Model Summaryb
+Change Statistics
+Model
+1
+
+R
+R Square
+,997a
+,993
+
+Adjusted Std. Error of
+R Square the Estimate
+,992
+,05652
+
+R Square
+Change F Change
+,993
+738,102
+
+df 1
+
+df 2
+4
+
+DurbinWatson
+1,938
+
+Sig. F Change
+20
+,000
+
+a. Predictors: (Constant), X6, Budiday a Tambak, Budidaya laut, Budidaya Kolam
+b. Dependent Variable: Y
+
+Dari hasil uji F dan R2 dapat disimpulkan bahwa budidaya laut, budidaya tambak,
+budidaya kolam dan budidaya sawah memiliki pengaruh simultan (bersama-sama)
+terhadap Produk Domestik Bruto.
+b) Uji T
+Uji ini digunakan untuk menguji pengaruh variabel bebas terhadap variabel
+terikat secara sendiri-sendiri (parsial). Adapun syarat yang dilakukan ialah :
+Jika Probabilitas Hitung < Level of Significance () maka ada pengaruh
+signifikan.
+Jika Probabilitas Hitung > Level of Significance () maka tidak ada pengaruh
+signifikan.
+Hasil yang dilakukan pada uji T dapat dilihat pada Tabel 14
+Tabel 14. Uji T
+Coefficientsa
+
+Model
+1
+
+(Constant)
+Budidaya laut
+Budidaya Tambak
+Budidaya Kolam
+Budidaya Sawah
+
+Unstandardized
+Coeff icients
+B
+Std. Error
+6,986
+1,376
+,325
+,027
+,312
+,058
+,437
+,048
+-,245
+,064
+
+Standardized
+Coeff icients
+Beta
+,503
+,184
+,516
+-,173
+
+t
+5,079
+11,939
+5,345
+9,145
+-3,818
+
+Sig.
+,000
+,000
+,000
+,000
+,001
+
+Zero-order
+
+Correlations
+Partial
+
+,968
+,890
+,946
+,840
+
+,936
+,767
+,898
+-,649
+
+Part
+,219
+,098
+,168
+-,070
+
+Collinearity Statistics
+Tolerance
+VIF
+,190
+,283
+,106
+,164
+
+5,270
+3,537
+9,461
+6,090
+
+a. Dependent Variable: PDB Perikanan
+
+Dari hasil tersebut dapat dilihat pada kolom sig. bahwa budidaya laut memiliki
+pengaruh parsial terhadap Produk Domestik Bruto sektor Perikanan karena nilai
+Probabilitas Hitung < Level of Significance () maka ada pengaruh signifikan yaitu 0,00
+< 0,05. budidaya tambak juga memiliki pengaruh parsial karena nilai 0,00 < 0,05 .
+budidaya kolam pun juga memiliki pengaruh parsial karena nilainya 0,00 < 0,05.
+Sedangkan untuk budidaya sawah pun memiliki pengaruh parsial karena nilainya 0,001
+< 0,05. Pada budidaya laut nilai t hitung sebesar 11, 939 menunjukkan pengaruh yang
+paling dominan terhadap Produk Domestik Bruto Perikanan karena memiliki nilai yang
+paling besar diantara variabel bebas lainnya, dimana nilai t hitung budidaya tambak
+
+sebesar 5,345, budidaya kolam nilai t hitung sebesar 9, 145 dan nilai t hitung pada
+budidaya sawah sebesar -3, 818.
+c) Uji Koefisien beta (β)
+Untuk menguji hipotesis variabel yang berpengaruh dominan, alat uji yang
+dipergunakan adalah koefisien standardized atau beta (β). Adapun kriteria penilaiannya
+adalah dengan melihat nilai koefisien beta yang paling besar.
+Hasil dari uji tersebut menunjukkan bahwa budidaya laut dan budidaya kolam
+memiliki pengaruh yang kuat karena memiliki nilai sebesar 0,503 dan 0,516. Hal ini
+menunjukkan bahwa jika terjadi penambahan satuan nilai pada budaya laut dan
+budidaya kolam akan terjadi penambahan nilai Produk Domestik Bruto Perikanan
+secara signifikan. Untuk nilai koefisien beta budidaya tambak sebesar 0,184
+menunjukkan bahwa jika terjadi penambahan pada budidaya tambak tidak
+mempengaruhi signifikan nilai Produk Domestik Bruto Perikanan karena nilainya tidak
+terlalu besar. Pada budidaya sawah memiliki nilai negatif sebesar -0,173 menunjukkan
+bahwa jika terjadi penambahan satuan nilai pada budidaya sawah akan menurunkan
+nilai Produk Domestik Bruto Perikanan.
+PEMBAHASAN
+Wilayah Indonesia terbentang sepanjang 3.977 mil antara Samudera Hindia dan
+Samudra Pasifik. Apabila perairan antara pulau-pulau itu digabungkan, maka luas
+Indonesia mencapai 5.180.053 km 2 yang terdiri dari 1.922.570 km 2 berupa
+daratan dan 3.257.483 km 2 berupa lautan. Jika dibandingkan antara luas daratan
+dan lautan, maka luas lauatan di Indonesia mencapai 62% dari total wilayah
+Indonesia sedangkan luas daratan hanya 37% dari total wilayah Indonesia.
+Dengan kondisi tersebut, di masa yang akan datang kontribusi produksi dari
+sektor perikanan selayaknya menjadi prime mover pertumbuhan ekonomi.
+Jika kita merujuk pada Rencana Pembangunan Jangka Panjang Nasional (RPJPN) yang
+menargetkan Indonesia menjadi negara maritim yang maju, mandiri, dan kuat dengan
+visi rencana strategis pembangunan kelautan dan perikanan tahun 2010-2014, yaitu
+Indonesia sebagai penghasil produk kelautan dan perikanan terbesar di dunia tahun
+2015. Maka salah satu alternatif yang dapat dilakukan ialah penggunaan perikanan
+budidaya yang tepat dan optimal guna meningkatkan pertumbuhan ekonomi sektor
+perikanan di Indonesia.
+Selama ini, produksi perikanan dunia masih didominasi oleh perikanan laut.
+Tercatat pada tahun 2003, produksi perikanan darat dunia sebesar 34,2 juta ton,
+sedangkan produksi perikanan laut dunia mencapai 98 juta ton. Pada tahun yang sama,
+produksi terbesar perikanan laut dunia berasal dari perikanan tangkap, yaitu 81,3 juta
+ton, sedangkan perikanan budidaya sekitar 16,7 juta ton.
+Overfishing atau penangkapan berlebih merupakan kondisi dimana tingkat
+pemanfaatan sumberdaya ikan melebihi batasan yang ditetapkan sehingga dapat
+menyebabkan penurunan stok (deplesi) sumberdaya ikan. Beberapa penelitian dan
+publikasi memaparkan adanya ancaman fenomena overfishing. Jurnal “Science” edisi
+November 2006 menjelaskan bahwa sekitar sepertiga (1/3) stok sumberdaya perikanan
+tangkap dunia berada dalam kondisi memprihatinkan. FAO dalam “FAO State of World
+Fisheries and Aquaculture 2004” melaporkan bahwa pada tahun 2003 sekitar
+seperempat (1/4) stok sumberdaya ikan dunia berada dalam kondisi overexploited,
+deplesi atau sedang mengalami recovery dari kondisi deplesi dan perlu dibangun
+kembali (Andi, 2012).
+
+Kementerian Kelautan dan Perikanan (2010) memperkirakan sekitar 70 persen
+wilayah perairan Indonesia mengalami kelebihan tangkap (overfishing). Kelebihan
+tangkap ini biasanya terjadi di wilayah dengan penduduk yang cukup padat seperti Selat
+Malaka, Laut Jawa, Arafura dan perairan Kalimantan. Berdasarkan pernyataan tersebut
+jauh berbeda jika melihat tren produksi perikanan budidaya yang terus meningkat
+signifikan. Dapat dilihat pada Tabel 15.
+Tabel 15. Jumlah Produksi Perikanan Budidaya
+
+Sumber : Kementrian Kelautan dan Perikanan, 2011
+Berdasarkan Tabel 13 dapat dilihat bahwa tren perikanan budidaya terus
+meningkat signifikan. Ditambah lagi dengan perikanan tangkap yang sudah mengalami
+overfishing peluang perikanan budidaya untuk menjadi prime mover pertumbuhan
+ekonomi perikanan sudah di depan mata. Jika kita merujuk pada jumlah produksi
+perikanan pada tahun 2010 dapat dilihat bahwa produksi perikanan budidaya sudah
+menggeser jumlah produksi perikanan tangkap. Dimana. Dapat dilihat pada Tabel 14.
+Tabel 14. Jumlah Produksi Perikanan tahun 2010
+
+Sumber : Kementrian kelautan dan Perikanan, 2011
+Oleh karena itu peran sektor perikanan budidaya sebagai salah satu tulang
+punggung dan sebagai penghasil produk perikanan terbesar pada tahun 2015 telah
+menjadi prioritas utama Kemetrian Kelautan dan Perikanan. Terbatasnya potensi
+sumberdaya ikan tangkap dan tingkat pemanfaatan potensi perikanan budidaya yang
+baru mencapai 11% menjadi tantangan sekaligus peluang bagi Indonesia dalam
+meningkatkan kesejahteraan masyarakat Indonesia sebagai misi utama KKP dan untuk
+bersaing dalam skala global (KKP, 2010).
+Berdasarkan hasil penelitian ini menunjukkan bahwa budidaya laut memiliki
+pengaruh yang paling dominan hal ini menunjukkan jika produksi budidaya laut
+ditingkatkan maka akan meningkatkan nilai Produk Domestik Bruto Perikanan di
+Indonesia. menurut Marsoedi (2008) perikanan budidaya laut mempunyai nilai
+ekonomis yang tinggi sebagai komoditi ekspor dan nilai strategis dalam perekonomian
+nasional karena disamping kontribusinya dalam mendukung usaha pemenuhan gizi
+protein hewani, penyedia lapangan kerja dan meningkatkan sumber pendapatan
+masyarakat, perikanan budidaya juga sebagai sumber devisa negara. Selanjutnya pada
+
+budidaya kolam apabila terjadi penambahan produksi akan juga mempengaruhi nilai
+Produk Domestik Bruto Perikanan hal ini dapat didasari dari jumlah produksi budidaya
+kolam dari tiap tahunnya terus meningkat. Beberapa tahun belakangan ini mulai
+tumbuhnya keinginan masyarakat untuk berbudidaya kolam diharapkan dapat
+menumbuhkan perekonomian perikanan Indonesia karena populasi penduduk Indonesia
+yang lebih banyak di darat daripada di pesisir. Hal ini tentu berguna apabila budidaya
+kolam dapat dijadikan pondasi ekonomi di masyarakat.
+Sedangkan jika terjadi penambahan produksi pada budidaya tambak tidak terlalu
+besar pengaruhnya terhadap Produk Domestik Bruto Perikanan di Indonesia salah satu
+penyebab ialah banyak para pembudidaya tambak yang kolaps akibat degradasi pantai
+dan penyakit di sepanjang pesisir pantai utara Jawa dan beberapa areal Sulawesi
+beberapa tahun silam sehingga nilai produksi dari budidaya tambak menjadi tidak stabil.
+Peran pemerintah untuk mengembalikan budidaya tambak sebagai salah satu alternatif
+dalam usaha perikanan budidaya sangat diperlukan karena budidaya tambak juga
+memiliki nilai ekonomis yang tinggi. Beberapa cara yang dapat diberikan ialah
+penyuluhan dan monitoring rutin dari budidaya tambak sehingga dapat diketahui
+masalah-masalah yang dihadapi untuk dicarikan solusinya.
+Pada budidaya sawah jiak terjadi penambahan produksi akan menurunkan Produk
+Domestik Bruto sektor Perikanan. Jika dilihat dari jumlah produksi perikanan budidaya
+sebesar 6.277.924 ton , perikanan budidaya sawah hanya memberikan sebesar 96.605
+ton. Hal ini pun dapat terjadi karena belum optimalnya budidaya sawah untuk dijadikan
+usaha ekonomi karena pada kenyataannya perikanan di sawah hanya usaha sekunder
+dari usaha menanam padi di sawah itu sendiri. Sehingga dalam usaha budidaya sawah
+para petani tidak menggarap secara optimal mulai dari aspek teknis, finansial dan
+manajemen yang berakibat budidaya sawah bernilah negatif. Hal ini pun dapat terjadi
+karena budidaya sawah hanya dapat digunakan pada wilayah tertentu yang memiliki
+irigasi yang baik dan apabila dilakukan pada saluran pengairan yang kurang baik akan
+dapat mempengaruhi produksi padi dan ikan itu sendiri. Andil pemerintah untuk
+memberi penyuluhan dan membantu segala aspek yang terkait dalam usaha budidaya
+sawah sehingga tumbuh dapat mengoptimalkan kegiatan tersebut. Untuk melihat hasil
+volume produksi perikanan budidaya dapat dilihat pada Tabel 15
+Tabel 15. Volume Produksi Perikanan Budidaya
+Jenis
+Budidaya
+Budidaya
+Laut
+Budidaya
+Tambak
+Budidaya
+Kolam
+Budidaya
+Sawah
+
+200
+5
+890.07
+4
+643.97
+5
+331.96
+2
+120.35
+3
+
+200
+6
+1.365.91
+9
+629.61
+0
+381.94
+5
+105.67
+1
+
+Jumlah
+(ton)
+200
+7
+1.509.52
+8
+933.83
+2
+410.37
+3
+85.00
+9
+
+200
+8
+1.965.33
+3
+960.17
+8
+479.16
+7
+111.58
+4
+
+200
+9
+2.820.08
+3
+907.12
+3
+554.06
+7
+86.91
+3
+
+201
+0
+3.514.70
+2
+1.416.03
+8
+819.80
+9
+96.60
+5
+
+Sumber : Kementrian Kelautan dan Perikanan, 2011
+Dengan melihat Tabel 15 bahwa budidaya laut memiliki pengaruh yang paling
+dominan dimana tren peningkatan volume produksi terus meningkat. Begitu pula pada
+budidaya kolam juga memiliki tren yang selalu naik dari tiap tahunnya. Pada budidaya
+tambak tidak terlalu memiliki pengaruh dikarenakan terjadi nilai produksi yang naik
+turun dari budidaya tambak dimana terjadi penurunan nilai produksi pada tahun 2006
+dan 2009. Dan Pada budidaya sawah bernilai negatif hal ini dapat terjadi jika melihat
+terjadi penurunan produksi pada tahun 2005 sebesar 120.353 ton menjadi 96.605 ton di
+tahun 2010.
+Berdasarkan deskripsi diatas bahwa budidaya laut dan budidaya kolam dapat
+dijadikan penggerak utama (prime mover) dan budidaya tambak sebagai input tambahan
+dari perikanan budidaya guna meningkatkan pertumbuhan ekonomi perikanan
+sedangkan untuk budidaya sawah perlu diadakan penelitian lebih lanjut,
+
+Menurut Kementrian Kelautan dan Perikanan (2010) masih banyaknya lahan
+perikanan yang belum tergarap. Dari potensi lahan budidaya seluas 11,8 juta ha, saat ini
+baru termanfaatkan 6,46% atau sekitar 762 ribu ha. Sehingga masih tersisa sekitar 11,04
+juta lahan atau 93,64% lahan yang berpotensi untuk digarap. Potensi lahan yang tersedia
+ini akan dioptimalkan dalam mendukung pencapaian target kenaikan produksi
+perikanan budidaya sebesar 353 % pada tahun 2015. Jika kita melihat potensi lahan
+budidaya dapat dilihat pada Tabel 16.
+Tabel 31. Potensi lahan Budidaya
+Jenis Budidaya
+Tambak
+Kolam
+Perairan Umum
+Sawah
+Laut
+
+Potensi(Ha)
+
+Pemanfaatan(Ha)
+
+Peluang(Ha)
+
+2.963.717
+541.100
+158.125
+1.536.289
+12.545.072
+
+682.726
+187.342
+1.606
+127.679
+42.676
+
+2.280.991
+353.776
+156.519
+1.408.691
+12.502.396
+
+Sumber : Kementrian Kelautan dan Perikanan, 2011
+Dari tabel terlihat jelas bahwa lahan perikanan budidaya masih memiliki potensi
+yang besar untuk digunakan. Dapat dilihat dari budidaya tambak masih memiliki
+peluang pemanfaatan seluas 2.280.991 Ha, kolam memiliki peluang pemanfaatan seluas
+353.776 Ha, sawah peluang pemanfaatan seluas 1.408.691Ha, dan laut 12.502.396 Ha.
+Dengan melihat data tersebut bahwa arah kebijakan perikanan budidaya dapat diarahkan
+pada budidaya laut sebagai pondasi utama dalam pembangunan perikanan. Untuk
+budidaya kolam diberikan porsi kedua setelah budidaya laut untuk dikembangkan
+karena dapat memberikan sumbangan yang besar juga terhadap Produk Domestik Bruto
+Perikanan dan budidaya tambak sebagai input tambahan untuk dikembangkan dalam
+perikanan budidaya.
+Kementrian Kelautan Perikanan (2010) telah menerapkan arah kebijakan perikanan
+budidaya yaitu :
+1) Program percepatan peningkatan produksi perikanan budidaya untuk ekspor.
+2) Program percepatan peningkatan produksi perikanan budidaya untuk konsumsi
+ikan masyarakat.
+3) Program perlindungan dan rehabilitasi sumberdaya perikanan budidaya.
+perikanan budidaya 353% dapat ditunjukkan dengan outcomes indicator:
+ Volume dan nilai produksi perikanan budidaya;
+ Volume produksi perikanan budidaya untuk konsumsi ikan masyarakat;
+ Volume produksi budidaya untuk ekspor;
+ Jumlah tenaga kerja yang terserap.
+maka strategi difokuskan pada tiga hal mendasar dalam strategi dasar pencapaian
+produksi yakni:
+ Ekstensifikasi, memperluas dan atau menambah unit usaha budidaya.
+ Intensifikasi, meningkatkan produktivitas dari setiap unit usaha budidaya.
+ Diversivikasi, menambah jenis/komoditas yang diusahakan.
+Beberapa langkah strategi dasar tersebut perlu diikuti dengan strategi utama
+pencapaian sasaran produksi perikanan budidaya yang dapat mendukung keberhasilan
+visi dan misi Kementerian Kelautan dan Perikanan yakni:
+1. Pemilihan spesies kultivan
+2. Penggunaan induk/benih unggul
+3. Penyediaan sarana dan prasarana budidaya yang memadai
+4. Peningkatan daya saing
+5. Pengendalian hama dan penyakit ikan
+6. Bantuan permodalan
+
+KESIMPULAN DAN SARAN
+Kesimpulan
+Kesimpulan dari penilitian analisis pengaruh nilai produksi perikanan budidaya
+terhadap Produk Domestik Bruto sektor Perikanan di Indonesia adalah
+1. berdasarkan hasil penelitian menunjukkan bahwa setiap pertambahan atau
+penurunan satuan nilai dari nilai produksi budidaya laut, budidaya tambak,
+budidaya kolam dan budidaya sawah secara bersama-sama (simultan) akan
+mempengaruhi nilai Produk Domestik Bruto sektor Perikanan dengan nilai
+persentase pengaruh sebesar 99,3 %.
+2. Nilai produksi budidaya laut, budidaya tambak, budidaya kolam dan budidaya
+sawah memiliki pengaruh secara parsial terhadap Produk Domestik Bruto sektor
+perikanan. Hal ini menunjukkan dari setiap variabel perikanan budidaya akan
+mempengaruhi naik turunnya nilai Produk Domestik Bruto sektor Perikanan
+3. Nilai produksi dari budidaya kolam, budidaya laut dan budidaya tambak
+memiliki pengaruh positif terhadap Produk Domestik Bruto sektor Perikanan di
+Indonesia. Dan pengaruh yang besar berasal dari budidaya laut. Hal ini
+menunjukkan bahwa apabila ada pertambahan tiap satuan nilai produksi dari
+masing budidaya laut akan meningkatkan nilai Produk Domestik Bruto sektor
+Perikanan secara signifikan. Begitu pula pada budidaya kolam jika terjadi
+penambahan tiap satuan nilai produksi akan meningkatkan nilai Produk
+Domestik Bruto sektor Perikanan di Indonesia. Untuk budidaya tambak sebagai
+input tambahan karena nilai pengaruhnya tidak terlalu besar. Sedangkan pada
+budidaya sawah karena memiliki nilai pengaruh negatif maka setiap
+pertambahan dari nilai produksi budidaya sawah akan menurunkan nilai Produk
+Domestik Bruto sektor Perikanan di Indonesia.
+Saran
+Saran berdasarkan hasil penelitian analisis pengaruh nilai produksi perikanan
+budidaya terhadap Produk Domestik Bruto sektor Perikanan di Indonesia adalah
+1.
+perlu adanya pengoptimalisasian lahan secara optimal karena masih banyaknya
+potensi lahan yang belum digunakan pada budidaya laut, budidaya tambak dan
+budidaya kolam
+2.
+Budidaya laut dapat dijadikan prime mover di perikanan budidaya karena
+memiliki pengaruh dominan terhadap Produk Domestik bruto sektor Perikanan.
+Dengan melakukan pengembangan budidaya laut di Indonesia, meneliti hal-hal
+yang menyangkut permasalah dan kebutuhan pada budidaya tersebut sehingga
+dapat mengetahui langkah selanjutnya untuk kemajuan perikanan budidaya.
+Adapun bantuan tersebut dapat berupa pemberian kredit murah, bantuan benih
+unggul, peralatan, penyuluhan, atau bantuan finansial. Untuk pembangunan pada
+budidaya kolam diberikan porsi kedua setelah budidaya laut karena memberi
+sumbangan yang besar pula terhadap Produk Domestik Bruto Perikanan dan
+budidaya tambak sebagai input tambahan untuk dikembangkan dalam perikanan
+budidaya.
+3.
+adanya penelitian lebih lanjut terhadap budidaya sawah, salah satu contohnya
+ialah analisis pengaruh faktor-faktor produksi budidaya sawah terhadap jumlah
+produksi budidaya sawah.
+
+DAFTAR PUSTAKA
+Bungin, B. 2008. Metodologi Penelitian Kuantitatif. Kencana Media Group. Jakarta.
+Ghozali, I. 2005. Aplikasi Analisis Multivariate dengan program SPSS. Universitas
+Diponegoro. Semarang.
+Indriantoro dan Supomo.1999. Metodologi Peneliitian Bisnis. BPFE. Yogyakarta.
+KKP. 2012. Rencana Strategis Kementerian Kelautan dan Perikanan 2010 – 2014.
+Kementerian Kelautan dan Perikanan. Jakarta
+2011. Data Pokok Kelautan Dan Perikanan 2011. Kementrian Kelautan dan
+Perikanan. Jakarta.
+Kuncoro, M. 2004. Kuantitatif Teori dan Aplikasi untuk Bisnis dan Ekonomi Edisi
+kedua. UPP AMP YKPN, Yogyakarta.
+Nontji, A. 2005. Laut Nusantara. Cetakan Keempat. Djambatan. Jakarta
+Patton. 1980. Qualitative Evaluation Methods. SAGE Publication. Beverly Hills.
+Riyadi, M. 2007. Kebijakan Sumber Daya Pesisir Sebagai Alternatif Pembangunan
+Indonesia Masa Depan
+Sugiyono, 2008. Metode Penelitian Kuantitatif Kualitatif Dan R&D. Alfabeta.
+Bandung.
+Usman. 2000. Pengantar Statistika. Bumi Aksara. Jakarta
+
+

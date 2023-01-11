@@ -1,0 +1,1506 @@
+Jurnal Informatika, Vol.III No.1 April 2016
+
+PERANCANGAN SISTEM INFORMASI
+AKADEMIK BERBASIS WEB
+PADA SMK PASAR MINGGU JAKARTA
+Melan Susanti
+STMIK Nusa Mandiri Jakarta, melan.msu@bsi.ac.id
+
+ABSTRACT
+The school is one means of formal education to be able to provide the service or the best
+facilities for its students and also to parents. One appropriate way is to utilize technology
+to access information that is of academic value through the website . Software
+development method used is the Waterfall method . The design of web-based academic
+information system can provide optimal services to students and parents that do not need
+to come to school to get academic information , so that the resulting information quickly
+and accurately .
+Kata Kunci: Website , Academic Information System
+
+ABSTRAK
+Sekolah merupakan salah satu sarana pendidikan formal yang harus dapat memberikan
+pelayanan atau fasilitas terbaik untuk siswa-siswinya dan juga kepada orang tua. Salah
+satu cara yang tepat adalah dengan memanfaatkan teknologi informasi yaitu mengakses
+nilai akademik melalui website. Metode pengembangan perangkat lunak yang digunakan
+yaitu metode Waterfall. Perancangan sistem informasi akademik berbasis web dapat
+memberikan pelayanan optimal kepada siswa dan orang tua sehingga tidak perlu datang
+ke sekolah untuk mendapatkan informasi akademik, sehingga dihasilkan informasi yang
+cepat dan akurat.
+Kata Kunci: Website, Sistem Informasi Akademik
+
+PENDAHULUAN
+Sistem informasi Akademik berbasis web
+memungkinkan masyarakat yang ingin
+mengetahui informasi tentang sekolah
+tidak perlu datang ke sekolah. Masyarakat
+cukup mengakses internet ke website
+sekolah yang dituju. Hal ini lebih praktis
+karena masyarakat tidak perlu meluangkan
+waktu dan menyisihkan ongkos perjalanan
+untuk ke sekolah.
+Sistem informasi akademik berbasis web
+diharapkan dapat membantu pihak guru dn
+pihak siswa dalam memperoleh informasi
+yang berkaitan dengan nilai dan
+diharapkan juga akan menarik minat calon
+siswa-siswi baru. Oleh karena itu penulis
+mencoba merancang sebuah website yang
+bertujuan untuk membantu memperlancar
+informasi antara pihak sekolah, siswasiswi dan masyarakat.
+ISSN: 2355-6579
+
+SMK Pasar Minggu adalah salah satu
+sekolah yang belum memiliki sistem
+informasi yang terkomputerisasi, sehingga
+untuk mendapatkan informasi orang tua
+dan siswa harus datang ke sekolah.
+Sistem informasi yang akan dibangun ini
+akan membantu siswa dan orang tua dalam
+mengakses informasi mereka melalui
+internet dan mendapatkan informasi tanpa
+perlu pergi ke sekolah, cukup dengan
+mengakses internet ke website sekolah dan
+mencari
+informasi
+sekolah
+yang
+dibutuhkan.
+Hal ini lebih praktis dibandingkan harus
+datang ke sekolah hanya untuk mencari
+informasi, mau tidak mau harus
+meluangkan waktu, menyisihkan ongkos
+perjalanan dan tidak praktis dalam jaman
+yang serba cepat sekarang ini. Berdasarkan
+uraian di atas maka dapat diambil
+kesimpulan bahwa sistem informasi sangat
+91
+
+Jurnal Informatika, Vol.III No.1 April 2016
+diperlukan dalam dunia pendidikan
+khususnya yang menyangkut akademik
+kesiswaan.
+KAJIAN LITERATUR
+Pengertian Sistem Informasi
+Sistem informasi adalah suatu sistem di
+dalam organisasi yang mempertemukan
+kebutuhan pengolahan transaksi harian,
+mendukung operasi, bersifat manajerial
+dan kegiatan strategi dari suatu organisasi
+dan menyediakan pihak luar tertentu
+dengan laporan-laporan yang di perlukan
+(Jogiyanto, 2005).
+Sistem informasi menerima masukan data,
+instruksi dan mengolah data sesuai dengan
+perintah untuk mengeluarkan hasilnya, ini
+merupakan sebagian dari peristiwa yang
+terjadi pada sistem informasi. Sistem
+informasi itu sendiri mempunyai sub-sub
+yaitu:
+1. Sistem
+Pendekatan sistem yang merupakan
+jaringan kerja dari prosedur yang lebih
+menekankan urutan-urutan operasi. Suatu
+prosedur adalah suatu urutan-urutan yang
+tepat dari tahapan-tahapan instruksi yang
+menerangkan apa (what) yang harus
+dikerjakan, siapa (who) yang mengerjakan,
+kapan (when) dikerjakan dan bagaimana
+(how) mengerjakannya.
+“Sistem adalah kumpulan dari elemenelemen yang berinteraksi untuk mencapai
+suatu tujuan tertentu (Jogiyanto, 2005)”.
+Dapat
+disimpulkan
+bahwa
+sistem
+merupakan himpunan atau grup dari
+elemen atau komponen yang berhubungan
+atau saling bergantung satu sama lain
+untuk mencapai tujuan tertentu.
+Sebuah sistem terdiri dari bagian-bagian
+saling berkaitan yang beroperasi bersama
+untuk mencapai sasaran dan maksud.
+Berarti
+sebuah
+sistem
+bukanlah
+seperangkat unsur yang tersusun secara tak
+teratur, tetapi terdiri dari unsur-unsur yang
+dapat dikenal sebagai saling melengkapi
+karena mempunyai satu maksud, tujuan
+atau sasaran.
+2. Informasi
+“Informasi adalah data yang telah diolah
+menjadi bentuk yang lebih berarti bagi
+yang penerimanya (Jogiyanto, 2005)”.
+Data merupakan bentuk yang masih
+mentah yang belum dapat bercerita
+ISSN: 2355-6579
+
+banyak, sehingga perlu diolah lebih lanjut.
+Data diolah suatu model untuk dihasilkan
+menjadi informasi. Dalam sistem informasi
+kualitas dari suatu informasi tergantung
+pada tiga hal, yaitu :
+a. Akurat
+Informasi harus bebas dari kesalahankesalahan dan tidak menyesatkan. Akurat
+juga berarti informasi yang harus jelas
+mencerminkan maksudnya. Informasi
+harus akurat karena dari sumber informasi
+sampai
+ke
+penerima
+informasi
+kemungkinan banyak terjadi gangguan
+(noise) yang dapat merubah atau merusak
+informasi tersebut.
+b. Tepat pada waktunya
+Informasi yang datang pada penerima tidak
+boleh
+terlambat,
+karena
+informasi
+merupakan landasan didalam mengambil
+keputusan.
+c. Relevan
+Informasi yang mempunyai manfaat untuk
+pemakainya. Relevansi informasi untuk
+tiap-tiap orang satu dengan yang lainnya
+berbeda. Misalnya informasi mengenai
+sebab terjadinya kerusakan mesin produksi
+kepada akuntan perusahaan adalah kurang
+relevan dan akan lebih relevan bila
+ditunjukkan kepada ahli teknik perusahaan.
+Sedangkan nilai informasi dalam sistem
+informasi ditentukan dari dua hal, yaitu
+manfaat dan biaya mendapatkannya. Suatu
+informasi dikatakan bernilai bila manfaat
+lebih
+efektif
+dibandingkan
+biaya
+mendapatkannya.
+Web Browser
+Web browser (Kasiman, 2006) adalah
+program untuk menampilkan halaman
+yang berbentuk kode HTML. Semua
+halaman web ditulis dengan bahasa HTML
+(Hypertext Mark Up Language). Walaupun
+beberapa file mempunyai ekstensi yang
+berbeda (contoh: .html, .php, .php3),
+output file-file tersebut tetap HTML.
+HTML adalah medium yang selalu
+dikirimkan ke web browser baik halaman
+itu berupa halaman statis, sebuah script
+(seperti PHP), ataupun yang dibuat oleh
+program
+CGI
+(Common
+Gateway
+Interface).
+PHP
+PHP menurut (Kadir, 2008) merupakan
+singkatan dari Personal Home Page
+Hypertext Processor. PHP merupakan
+92
+
+Jurnal Informatika, Vol.III No.1 April 2016
+bahasa script yang ditempatkan dalam
+server dan diproses diserver hasilnya
+dikirimkan ke klien, tempat pemakainya
+menggunakan browser. Seperti bahasa
+pemrograman yang lain, PHP memiliki
+kelebihan dan juga kelemahan. Adapun
+kelebihan dari PHP antara lain :
+a. PHP merupakan suatu bahasa script
+yang
+tidak
+melakukan
+sebuah
+kompilasi dalam penggunaannya.
+b. PHP dapat berjalan pada web server
+yag dirilis oleh Microsoft, juga pada
+Apache yang bersifat open source.
+c. Karena sifatnya yang open source,
+maka perubahan dan perkembangan
+interpreted pada PHP lebih cepat dan
+mudah, karna banyak milis-milis dan
+developer yang siap membantu
+pengembangannya.
+d. PHP memiliki referensi yang begitu
+banyak sehingga sangat mudah untuk
+dipahami.
+PHP dapat berjalan pada 3 operating
+system, yaitu linux, Unix dan Windows,
+dan juga dapat dijalankan secara runtime
+pada suatu console.
+MySQL
+MySQL (Kadir, 2008) menurut adalah
+salah satu jenis database server yang
+menggunakan SQL sebagai bahasa dasar
+untuk mengakses databasenya. Dengan
+menggunakan script PHP dan PERL
+Software database ini dapat berfungsi atau
+berjalan pada semua platform sistem
+operasi yang biasa digunakan (Windows,
+Linux, OS/2, berbagai varian Unix).
+Macromedia Dreamweaver
+Dreamweaver merupakan salah satu
+software dari kelompok Macromedia yang
+banyak digunakan untuk mendesain situs
+web. Adapun Macromedia Dreamweaver
+itu sendiri adalah sebuah HTML editor
+professional
+yang berfungsi
+untuk
+mendesain secara visual dan mengelola
+situs web maupun halaman web (Lenawati,
+2007).
+Metode Waterfall
+Metode ini memberikan pendekatanpendekatan sistematis dan berurutan bagi
+pengembangan sistem informasi. Berikut
+adalah gambar pengembangan sistem
+perangkat lunak dengan metode waterfall.
+Penjelasan dari tahap-tahap waterfall
+model adalah sebagai berikut:
+ISSN: 2355-6579
+
+1. Perancangan
+Sistem
+(System
+Enginering)
+Perancangan sistem sangat diperlukan,
+karena
+sistem
+informasi
+biasanya
+merupakan bagian dari suatu sistem yang
+lebih besar. Pembuatan sebuah sistem
+informasi dapat dimulai dengan melihat
+dan mencari apa yang dibutuhkan oleh
+sistem. Dari kebutuhan sistem tersebut
+akan diterapkan kedalam sistem informasi
+yang dibuat
+2. Analisa (Analysis)
+Merupakan
+proses
+pengumpulan
+kebutuhan sistem informasi. Untuk
+memahami dasar dari program yang akan
+dibuat, seorang analisis harus mengetahui
+ruang lingkup informasi, fungsi-fungsi
+yang dibutuhkan, kemampuan kinerja yang
+ingin
+dihasilkan
+dan
+perancangan
+antarmuka pemakai sistem informasi
+tersebut.
+3. Perancangan (Design)
+Perancangan sistem informasi merupakan
+proses bertahap yang memfokuskan pada
+empat bagian penting, yaitu: Struktur data,
+arsitektur sistem informasi, detil prosedur,
+dan karakteristik antar muka pemakai.
+4. Pengkodean (Coding)
+Pengkodean sistem informasi merupakan
+proses penulisan bahasa program agar
+sistem informasi tersebut dapat dijalankan
+oleh mesin.
+5. Pengujian (Testing)
+Proses ini akan menguji kode program
+yang telah dibuat dengan memfokuskan
+pada bagian dalam sistem informasi.
+Tujuannya untuk memastikan bahwa
+semua pernyataan telah diuji dan
+memastikan juga bahwa input yang
+digunakan akan menghasilkan output yang
+sesuai.
+Pada tahap ini pengujian ini dibagi menjadi
+dua bagian, pengujian internal dan
+pengujian eksternal. Pengujian internal
+bertujuan menggambarkan bahwa semua
+statement sudah dilakukan pengujian,
+sedangkan pengujian eksternal bertujuan
+untuk menemukan kesalahan serta
+memastikan output yang dihasilkan sesuai
+dengan yang diharapkan.
+6. Pemeliharaan (Maintenance)
+Proses ini dilakukan setelah sistem
+informasi telah digunakan oleh pemakai
+atau konsumen. Perubahan akan dilakukan
+93
+
+Jurnal Informatika, Vol.III No.1 April 2016
+jika terdapat kesalahan, oleh karena itu
+sistem informasi harus disesuaikan lagi
+untuk menampung perubahan kebutuhan
+yang diinginkan konsumen.
+
+Gambar 1
+Metode Waterfall
+METODE PENELITIAN
+Analisa Penelitian
+1. Planning
+Merupakan rencana kerja yang matang
+untuk menyelesaikan suatu proyek dan
+disusun untuk menjalankan tahapantahapan seperti tahap analisis, design, dan
+implementasi. Dalam penulisan ini
+perencanaan yang dibuat penulis adalah
+mendefinisikan data-data yang diperlukan,
+menentukan sekolah mana yang akan
+dijadikan
+tempat
+riset,
+melakukan
+wawancara dengan seorang kepala sekolah
+atau guru yang bersangkutan, kemudian
+merangkum informasi yang telah didapat.
+2. Analisis
+Merupakan tahapan kedua dalam SDLC
+(System Development Life Cycle). Dalam
+tahapan ini dideskripsikan sistem yang
+sedang berjalan, masalah dan kesempatan
+didefinisikan. Rekomendasi umum untuk
+bagaimana memperbaiki, meningkatkan
+atau mengganti sistem yang sedang
+berjalan diusulkan. Tujuan utama dari fase
+analisis adalah untuk memahami dan
+mendokumentasikan kebutuhan. Dalam
+kasus ini penulis membuat analisa untuk
+kebutuhan masukan yang dibutuhkan
+seperti informasi yang didapat dari kepala
+sekolah atau guru dan mendefinisikan
+sistem usulan yang akan dibuat oleh
+penulis dengan cara melihat kebutuhan
+masyarakat mengenai informasi tentang
+sekolah.
+3. Desain
+ISSN: 2355-6579
+
+Pada tahapan ini deskripsi dari requirement
+yang telah direkomendasikan diubah ke
+dalam spesifikasi sistem physical dan
+logical. Dalam logical design hasil yang
+dapat
+adalah
+deskripsi
+fungsional
+mengenai data dan proses yang ada dalam
+sistem baru dan deskripsi yang detail dari
+spesifikasi sistem meliputi: input, proses,
+dan output. Sedangkan dalam physical
+design adalah deskripsi teknikal dan
+deskripsi yang detail dari spesifikasi sistem
+meliputi: programs, files, network, system
+software. Dengan UML (Unified Modeling
+Language) dan ERD (Entity Relationship
+Diagram) sebagai peralatan pendukungnya.
+Dalam tahapan ini penulis membuat
+spesifikasi input, proses dan output secara
+detail. Merancang program yang akan
+digunakan untuk mengetahui sistem
+informasi akademik sekolah ini yaitu
+dengan menggunakan website dan
+merancang user interface yang akan
+memakai sistem ini dan bagaimana sistem
+interface nya.
+4. Implementasi
+Tahapan ke empat dalam SDLC ini dimana
+dalam tahapan ini dilakukan beberapa hal
+yaitu coding, testing dan instalasi. Hasil
+dalam tahapan ini adalah source code dan
+prosedur pelatihan. Dalam kasus ini
+penulis
+membuat
+website
+dengan
+menggunakan php dan mysql untuk proses
+coding nya dan merancang atau membuat
+gambarnya dengan menggunakan adobe
+photoshop CS3.
+Metode Pengumuplan Data
+1. Observasi
+Merupaka metode yang dilakukan penulis
+dengan cara mendatangi langsung tempat
+riset yang ingin di teliti oleh penulis.
+Penulis melakukan pengamatan langsung
+sekolah SMK Pasar Minggu dengan
+beberapa acuan yaitu menganalisa
+beberapa dokumen yang terkait dengan
+sekolah tersebut dan mengamati proses
+pengolahan data siswa, data guru, data
+absen siswa dan data nilai.
+2. Wawancara
+Merupakan metode yang dilakukan penulis
+dengan cara melakukan tanya jawab secara
+langsung kepada nara sumber. Penulis
+melakukan tanya jawab dengan staff tata
+usaha, staff akademik dan beberapa orang
+94
+
+Jurnal Informatika, Vol.III No.1 April 2016
+narasumber lainnya di tempat atau lokasi
+dimana objek penelitian dilakukan.
+3. Studi Pustaka
+Merupakan metode yang digunakan
+penulis sebagai pendukung dan referensi.
+Buku yang berhubungan dengan penelitian
+dan penulisan.
+PEMBAHASAN
+Analisa Sistem yang Berjalan
+Analisis
+sistem
+bertujuan
+untuk
+mempelajari, menganalisis masalah dan
+memahami sistem yang ada sesuai dengan
+tujuan yang akan dicapai. Berdasarkan
+hasil pengamatan dan analisis yang
+dilakukan diketahui permasalahan yang
+ada pada sistem yang sedang berjalan saat
+ini pada SMK Pasar Minggu belum
+menggunakan terkomputerisasi dan masih
+menggunakan aplikasi spreedsheet sebagai
+sebagai pengolahan datanya sehingga
+penggunaan komputer di sekolah tersebut
+belum maksimal.
+Penyediaan informasinya masih sebatas
+pengumuman-pengumuman yang dipasang
+di papan pengumuman sekolah, sehingga
+penyampaian informasi menjadi kurang
+efektif dan efisien. Bagi siswa/siswi yang
+berada di luar kota ketika libur panjang
+tidak bisa mengetahui informasi terbaru
+dan kegiatan apa saja yang terjadi selama
+liburan di sekolahnya, mereka hanya tahu
+informasi-informasi tersebut melalui sms
+atau telepon dari teman.
+Seiring
+dengan
+kemajuan
+ilmu
+pengetahuan dan teknologi maka tidak
+menutup kemungkinan Sistem Informasi
+Akademik yang sudah ada dapat
+dikembangkan lagi guna mengurangi
+segala permasalahan yang timbul pada
+SMK Pasar Minggu.
+Alternatif Pengembangan Sistem
+Agar dapat mencapai tujuan dan hasil yang
+diinginkan secara efektif dan efisien
+tentunya sistem yang lama walaupun
+sebagai perangkat pengolahan data perlu
+pengembangan
+sebagai
+perencanaan
+kedepan.
+Untuk itu diusulkan suatu sistem informasi
+yang berbasis web untuk membantu dalam
+pengolahan data akademik pada SMK
+Pasar Minggu, agar mempermudah dalam
+pembuatan sistem ini maka diusulkan
+untuk membuat suatu desain database yang
+ISSN: 2355-6579
+
+terdiri dari tabel data siswa, tabel data
+guru, table absen, tabel data nilai.
+Perancangan Sistem
+1. Activity Diagram
+a. Activity Diagram Pengolahan Data
+Siswa
+ADMIN (TU)
+
+SISTEM
+
+Membuka
+Browser
+Halaman
+ruang Admin
+Input Username
+dan Password
+
+Login Gagal
+
+Terima Data
+Login
+
+Kirim Data Login
+
+Benar
+
+Salah
+
+Ruang Admin
+
+Data Siswa
+Input Data
+Siswa
+T
+
+Y
+
+Kirim Data
+Siswa
+
+Simpan
+Data Siswa
+
+Proses Simpan
+Data Siswa
+
+Tampil Data
+Siswa
+
+Logout
+Menutup
+Browser
+
+Gambar 2
+Activity Diagram Pengolahan Data Siswa
+b. Activity Diagram Pengolahan Data
+Guru
+ADMIN (TU)
+
+SISTEM
+
+Membuka
+Browser
+Halaman
+ruang Admin
+Input Username
+dan Password
+
+Login Gagal
+Terima Data
+Login
+
+Kirim Data Login
+
+Benar
+
+Ruang Admin
+
+Salah
+
+Data Guru
+Input Data
+Guru
+T
+
+Y
+
+Kirim Data
+Guru
+
+Simpan
+Data Guru
+
+Proses Simpan
+Data Guru
+
+Tampil Data
+Guru
+
+Logout
+Menutup
+Browser
+
+Gambar 3
+Activity Diagram Pengolahan Data Guru
+
+95
+
+Jurnal Informatika, Vol.III No.1 April 2016
+c. Activity Diagram Pengolahan Data
+Absen
+
+e. Activity Diagram Pengolahan Data
+Nilai UTS
+
+Membuka
+Browser
+
+Membuka
+Browser
+
+Halaman
+Login Guru
+
+Halaman
+Login Guru
+
+Input Username
+dan Password
+
+Input Username
+dan Password
+
+Login Gagal
+Terima Data
+Login
+
+Kirim Data Login
+
+Benar
+
+Ruang Guru
+
+Login Gagal
+Terima Data
+Login
+
+Kirim Data Login
+
+Benar
+
+Ruang Guru
+
+Salah
+
+Salah
+
+Data Nilai
+Input Nilai
+UAS
+
+Data Nilai
+
+T
+
+Y
+
+Input Nilai
+Absen
+T
+
+SISTEM
+
+GURU
+
+SISTEM
+
+GURU
+
+Y
+
+Kirim Nilai
+Absen
+
+Simpan
+Nilai Absen
+
+Proses Simpan
+Nilai Absen
+
+Kirim Nilai
+UAS
+
+Simpan
+Nilai UAS
+
+Proses Simpan
+Nilai UAS
+
+Tampil Nilai
+UAS
+
+Logout
+
+Tampil Nilai
+Absen
+
+Menutup
+Browser
+
+Logout
+
+Gambar 6
+Activity Diagram Pengolahan Data Nilai
+UTS
+
+Menutup
+Browser
+
+Gambar 4
+Activity Diagram Pengolahan Data Absen
+
+d. Activity Diagram Pengolahan Data
+Nilai Tugas
+SISTEM
+
+GURU
+
+Membuka
+Browser
+Halaman
+Login Guru
+Input Username
+dan Password
+
+Login Gagal
+Terima Data
+Login
+
+Kirim Data Login
+
+Benar
+
+Ruang Guru
+
+Salah
+
+Data Nilai
+Input Nilai
+Tugas
+T
+
+Y
+
+Kirim Nilai
+Tugas
+
+Simpan
+Nilai Rugas
+
+Proses Simpan
+Nilai Tugas
+
+Tampil Nilai
+Tugas
+
+Logout
+Menutup
+Browser
+
+Gambar 5
+Activity Diagram Pengolahan Data Nilai
+Tugas
+ISSN: 2355-6579
+
+96
+
+Jurnal Informatika, Vol.III No.1 April 2016
+2. Entity Relationship Diagram (ERD)
+Tmpt_lhr_siswa
+Kd_pel
+
+nil_uts
+
+NIK
+
+Nm_siswa
+
+nil_uas
+
+NIS
+
+nil_tgs
+
+kd_kelas
+
+absen
+1
+
+M
+Nilai_ujian
+
+memiliki
+
+Tgl_lhr_siswa
+
+NIS
+
+Jk_siswa
+Agm_siswa
+
+1
+Siswa
+
+mendapatkan
+
+Kd_kelas
+kondisi
+
+Agm_guru
+1
+
+M
+
+Tmpt_lhr_guru
+
+M
+
+Nm_wali
+
+Pass_guru
+
+memberikan
+Tgl_lhr_guru
+
+Nm_guru
+1
+
+JK_guru
+
+NIK
+Agama_guru
+Tlp_guru
+1
+
+Guru
+
+mengajar
+
+Email_guru
+
+kd_kelas
+Almt_guru
+
+1
+
+Pend_guru
+
+memiliki
+
+memiliki
+
+1
+memiliki
+Kd_pel
+
+Id_jadwal
+
+Kd_pel
+
+Id_jadwal
+
+kd_kelas
+
+1
+
+1
+
+1
+
+Id_jadwal
+
+1
+
+Id_jadwal
+
+pelajaran
+
+NIK
+
+1
+
+1
+memiliki
+
+Jadwal_siswa
+
+Kelas
+
+kd_kelas
+
+kkm
+Nm_pel
+
+Kd_kelas
+Kd_pel
+
+kapasitas
+kelas
+
+Hari_masuk
+Jam_masuk
+NIK
+
+Gambar 7
+Entity Relationship Diagram (ERD)
+Rancangan Database
+Dalam web sistem informasi akademik
+ini terdapat satu database yaitu database
+“smkpasming” dan memiliki enam tabel
+yaitu:
+Tabel 1
+Tabel Guru
+No
+
+Elemen
+Data
+
+Akronim
+
+Type
+
+Siz
+e
+
+Ket
+
+1
+
+Nomor
+Induk
+Karyawan
+
+nik
+
+varchar
+
+10
+
+Primary
+Key
+
+2
+3
+
+Nama Guru
+Tempat
+Lahir Guru
+
+Nama_guru
+tmpt_lhr_guru
+
+varchar
+varchar
+
+100
+20
+
+4
+
+Tanggal
+Lahir Guru
+
+tgl_lhr_guru
+
+date
+
+5
+
+Password
+guru
+
+pass_guru
+
+varchar
+
+50
+
+6
+
+Agama
+guru
+Jenis
+kelamin
+guru
+
+agm_guru
+
+varchar
+
+10
+
+jk_guru
+
+char
+
+1
+
+8
+
+Telepon
+guru
+
+tlp_guru
+
+varchar
+
+25
+
+9
+10
+
+Email guru
+Alamat
+guru
+Pendidikan
+guru
+
+email_guru
+almt_guru
+
+varchar
+varchar
+
+30
+100
+
+pend_guru
+
+varchar
+
+50
+
+Status
+kawin
+Jabatan
+Blokir guru
+
+status_kawin
+
+varchar
+
+20
+
+jab
+Blokir_guru
+
+varchar
+enum
+
+20
+Y,
+N
+
+7
+
+11
+12
+13
+14
+
+Tabel 2
+Tabel Siswa
+No
+
+Elemen Data
+
+Akronim
+
+Type
+
+Size
+
+Ket
+
+1
+
+Nomor
+induk siswa
+
+Nis
+
+varchar
+
+10
+
+Primary
+Key
+
+2
+3
+
+Nama siswa
+Tempat
+Lahir siswa
+Tanggal
+Lahir siswa
+Agama
+siswa
+Jenis
+kelamin
+siswa
+alamat siswa
+Telepon
+siswa
+Asal sekolah
+Kode kelas
+Kondisi
+Nama wali
+
+nm_siswa
+tmpt_lhr_sis
+wa
+tgl_lhr_sisw
+a
+agm_siswa
+
+varchar
+varchar
+
+100
+20
+
+varchar
+
+50
+
+jk_siswa
+
+char
+
+1
+
+almt_siswa
+tlp_siswa
+
+varchar
+varchar
+
+200
+25
+
+asal_sekolah
+kd_kelas
+Kondisi
+nm_wali
+
+varchar
+int
+inr
+varchar
+
+50
+3
+1
+30
+
+4
+5
+6
+
+7
+8
+9
+10
+11
+12
+
+Tabel 3
+Tabel Jadwal Siswa
+No
+
+Elemen Data
+
+Akronim
+
+Type
+
+Size
+
+Ket
+
+1
+
+Id jadwal
+
+id_jadwal
+
+int
+
+3
+
+Primary
+Key
+
+2
+3
+
+Kode kelas
+Kode
+pelajaran
+Nomor
+induk
+karyawan
+Jam masuk
+Hari masuk
+
+kd_kelas
+kd_pel
+
+int
+int
+
+3
+3
+
+Nik
+
+varchar
+
+10
+
+jam_masuk
+Hari_masuk
+
+varchar
+varchar
+
+30
+20
+
+4
+
+ISSN: 2355-6579
+
+date
+
+5
+6
+
+97
+
+Jurnal Informatika, Vol.III No.1 April 2016
+Tabel 4
+Tabel Kelas
+No
+
+Akronim
+
+Type
+
+Size
+
+Ket
+
+1
+
+Elemen
+Data
+Kode kelas
+
+kd_kelas
+
+int
+
+3
+
+Prima
+ry
+Key
+
+2
+3
+
+Kelas
+Kapasitas
+
+Kelas
+Kapasitas
+
+varchar
+varchar
+
+15
+10
+
+2. Halaman Ruang Siswa
+Halaman ini berfungsi untuk melihat data
+pribadi siswa
+
+Tabel 5
+Tabel Pelajaran
+No
+1
+
+2
+3
+
+Elemen
+Data
+Kode
+pelajaran
+
+Akronim
+
+Type
+
+Size
+
+Ket
+
+kd_pel
+
+int
+
+3
+
+Prima
+ry
+Key
+
+Nama
+pelajaran
+KKM
+
+nm_pel
+
+varchar
+
+100
+
+Kkm
+
+int
+
+2
+
+Tabel 6
+Tabel Nilai
+No
+1
+2
+
+3
+
+4
+5
+6
+7
+8
+
+Elemen
+Data
+Kode kelas
+Nomor
+induk
+siswa
+Nomor
+induk
+karyawan
+Kode
+pelajaran
+Nilai UTS
+Nilai UAS
+Nilai tugas
+Absen
+
+Akronim
+
+Type
+
+Size
+
+kd_kelas
+Nis
+
+int
+varchar
+
+3
+10
+
+Nik
+
+varchar
+
+10
+
+kd_pel
+
+int
+
+3
+
+nil_uts
+nil_uas
+nil_tgs
+Absen
+
+int
+int
+int
+int
+
+3
+3
+3
+3
+
+Ket
+
+Gambar 9
+Tampilan Halaman Ruang Siswa
+3. Halaman Ruang Guru
+Halaman ini berfungsi untuk Untuk
+melihat Data Guru.
+
+Rancangan Tampilan Website
+1. Halaman Beranda
+Halaman home adalah tampilan yang
+muncul di awal dari website yang
+pertama kali di lihat oleh pengunjung
+web.
+
+Gambar 10
+Tampilan Halaman Data Guru
+
+Gambar 8
+Tampilan Halaman Beranda
+
+ISSN: 2355-6579
+
+98
+
+Jurnal Informatika, Vol.III No.1 April 2016
+4. Halaman Data Nilai
+Halaman ini berfungsi untuk Untuk
+melihat Data Nilai Siswa.
+
+Gambar 11
+Tampilan Halaman Data Nilai
+5. Halaman Data Jadwal Siswa
+Halaman ini berfungsi untuk melihat
+jadwal siswa.
+
+Gambar 12
+Tampilan Halaman Data Jadwal Siswa
+6. Halaman Input Nilai
+Halaman ini berfungsi untuk menginput
+nilai mahasiswa.
+
+ISSN: 2355-6579
+
+Gambar 13
+Tampilan Halaman Data Jadwal Siswa
+PENUTUP
+Berdasarkan hasil penelitian ini, maka
+dapat disimpulkan bahwa penggunaan
+sistem informasi akademik berbasis web
+pada SMK Pasar Minggu dapat
+memberikan solusi yang lebih cepat
+dalam pengolahan nilai, pembuatan
+laporan lebih efektif dan efisen karena
+penyimpanan data sudah dalam database.
+Saran untuk sistem informasi akademik
+ini yaitu setelah dirancang, sistem ini
+dapat
+dikembangkan
+lagi
+seperti
+menambah modul pendaftaran dan
+pembayaran siswa/i baru sehingga
+informasi diakses oleh semua pihak
+termasuk siswa, guru, orang tua murid
+dan calon siswa.
+DAFTAR PUSTAKA
+Jogiyanto, HM. 2005. Analisis dan
+Desain
+Sistem
+Informasi.
+Yogyakarta. Andi.
+Kadir, Abdul. 2008. Pemrograman Web.
+Yogyakarta. Andi.
+Lenawati, Mei. 2007. Macromedia
+Dreamweaver 8 dengan PHP.
+Yogyakarta. Andi.
+Peranginangin, Kasiman. 2006. Aplikasi
+Web dengan PHP dan MYSQL.
+Yogyakarta. Andi.
+
+99
+
+

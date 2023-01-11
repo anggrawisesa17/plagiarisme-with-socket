@@ -1,0 +1,1576 @@
+JURNAL INFORMATIKA, Vol.4 No.2 September 2017, pp. 163~173
+ISSN: 2355-6579
+E-ISSN: 2528-2247
+
+163
+
+Pengaruh Gadget Terhadap Prestasi Siswa SMK
+Yayasan Islam Tasikmalaya
+Dengan Metode TAM
+Arif Rifan Hidayat1, Erfian Junianto2
+1
+
+Universitas BSI
+e-mail: arif.rifan.hidayat@gmail.com
+2
+
+Universitas BSI
+e-mail: erfian.ejn@bsi.ac.id
+Abstrak
+Gadget merupakan suatu barang dengan berbagai aplikasi yang dapat menyajikan berbagai
+media berita, jejaring sosial, hobi, bahkan hiburan. Prestasi belajar adalah hasil atau taraf
+kemampuan yang telah dicapai siswa setelah mengikuti proses belajar mengajar dalam waktu
+tertentu, baik berupa perubahan tingkah laku, keterampilan, dan pengetahuan. Kemudian akan
+diukur dan dinilai dalam angka atau pernyataan. Tujuan penelitian ini untuk mengetahui
+pengaruh gadget terhadap prestasi siswa di SMK Yayasan Islam Tasikmalaya. Metode
+penelitian yang digunakan yaitu dengan metode Technology Acceptance Model (TAM) dengan
+3 konstruk, yaitu persepsi pengguna terhadap manfaat (perceived usefulness), persepsi
+pengguna terhadap penggunaan (perceived ease of use) dan persepsi sikap terhadap
+penggunaan (attitude toward using). Populasi penelitian ini adalah Siswa kelas X dan XI SMK
+Yayasan Islam Tasikmalaya sebanyak 100 orang. Instrumen yang digunakan dalam penelitian
+ini adalah kuesioner. Berdasarkan hasil penelitian dan pengujian hipotesis didapatkan hasil
+pengujian fhitung adalah 1,157. Persamaan hipotesis menyatakan bahwa nilai signifikasinya
+sebesar 0,319 > α 0,05 lebih besar dari ftabel. Dengan demikian dikatakan bahwa H0 diterima
+dan Ha ditolak, sehingga hipotesis berbunyi terdapat pengaruh yang signifikan antara variabel
+perceived usefulness (X1), dan perceived ease of use (X2) terhadap Attitude Toward Using (Y)
+secara simultan. Pengaruh Perceived Usefulness (X1) dan Perceived Ease Of Use (X2) secara
+bersama-sama terhadap Attitude Toward Using (Y) adalah sebesar 2,3%, dan sisanya sebesar
+97,7% merupakan pengaruh yang diberikan oleh variabel lain diluar model atau penelitian ini.
+Kata Kunci: TAM , Gadget, Prestasi.
+Abstract
+Gadgets are an item with various applications that can present various news media, social
+networking, hobbies, even entertainment. Learning achievement is the result or level of ability
+that has been achieved by students after following the teaching and learning process within a
+certain time, either in the form of behavior change, skill, and knowledge. It will then be
+measured and assessed in numbers or statements. The purpose of this study to determine the
+effect of gadgets on student achievement at SMK Yayasan Islam Tasikmalaya. The research
+method used is Technology Acceptance Model (TAM) with 3 constructs, namely perceived
+usefulness, perceived ease of use and attitude toward using. The population of this study are
+students of class X and XI SMK Yayasan Islam Tasikmalaya as many as 100 people. The
+instrument used in this study is a questionnaire. Based on the results of research and
+hypothesis testing obtained test results fhitung is 1.157. The hypothesis equation states that the
+significance value of 0.319> α 0.05 is greater than ftable. Thus it is said that H0 is accepted and
+Ha is rejected, so the hypothesis reads that there is a significant influence between perceived
+usefulness (X1) variable, and perceived ease of use (X2) on Attitude Toward Using (Y)
+simultaneously. The influence of Perceived Usefulness (X1) and Perceived Ease Of Use (X2)
+simultaneously to Attitude Toward Using (Y) is 2,3%, and the rest of 97,7% is influence given by
+other variable outside model or on this research.
+Keywords: TAM, Gadgets, Student Achievement.
+
+Diterima Juli 28, 2017; Revisi Agustus 8, 2017; Disetujui September 15, 2017
+
+164
+
+1. Pendahuluan
+Pendidikan dan pelatihan merupakan
+salah satu aspek penting yang harus
+diperhatikan
+dalam
+peroleh
+suatu
+instansi/organisasi, jika ingin bertahan
+dalam persaingan bisnis dewasa ini. Banyak
+instansi yang mengalami kegagalan dalam
+mencapai
+tujuan
+yang
+diharapkan,
+disebabkan para karyawan tidak mampu lagi
+bekerja secara efektif (berhasil guna) dan
+efisien (berdaya guna). Pada hakekatnya,
+program pendidikan dan pelatihan diberikan
+sebagai tambahan bagi upaya memelihara
+dan mengembangkan kemampuan serta
+kesiapan karyawan dalam melaksanakan
+segala bentuk tugas maupun tantangan
+kerja yang dihadapinya. Untuk itu, suatu
+organisasi
+atau
+instansi
+sebaiknya
+melakukan
+evaluasi
+secara
+kontinyu
+terhadap kebutuhan diselenggarakannya
+program pendidikan atau pelatihan tertentu
+bagi karyawan dalam lingkungan kerjanya
+(Turere, 2013).
+Meningkatnya penggunaan gadget atau
+alat-alat yang dapat dengan mudah
+terkoneksi
+internet
+ini,
+mengalami
+peningkatan dari waktu ke waktu. Saat ini
+kurang lebih 45juta menggunakan internet,
+dimana
+Sembilan
+juta
+diantaranya
+menggunakan ponsel untuk mengakses
+internet. Padahal pada tahun 2001, jumlah
+pengguna internet di Indonesia hanya
+setengah juta penduduk. Jumlah ini semakin
+bertambah karena semakin mudah di dapat
+serta terjangkaunya harga dari ponsel
+cerdas (Manumpil, 2015).
+Handphone atau gadget bukan lagi
+sekadar alat untuk berkomunikasi, namun
+juga sebagai gaya hidup, penampilan, dan
+tren. Handphone pada awalnya hanya
+digunakan oleh orang-orang yang memang
+benar-benar membutuhkannya, seperti para
+pekerja kantoran, pebisnis, pejabat atau
+guru. Namun, sekarang Handhphone tidak
+hanya digunakan oleh orang-orang penting
+saja tetapi juga anak-anak usia sekolah.
+Penggunaan Handphone dalam dunia
+pendidikan
+merupakan
+sebuah
+permasalahan yang perlu dikaji secara
+mendalam karena dalam pikiran sepertinya
+Handphone
+hanya
+berguna
+untuk
+menyampaikan Short Message Service
+(SMS), mendengarkan musik, menonton
+tayangan audiovisual, dan game (Nikmah,
+2013).
+Technology Acceptance Model (TAM)
+merupakan metode yang digunakan untuk
+memahami sikap pengguna terhadap
+
+teknologi yang digunakan. TAM dibuat
+khusus untuk pemodelan adopsi pengguna
+sistem informasi. TAM menganggap bahwa
+dua keyakinan variabel perilaku utama
+dalam mengadopsi sisitem informasi, yaitu
+persepsi pengguna terhadap manfaat
+(perceived
+usefulness)
+dan
+persepsi
+pengguna terhadap penggunaan (perceived
+ease of use) (Srinadi, 2015).
+Penelitian sebelumnya yang dilakukan
+yaitu penelitian bersifat survey analitik
+dengan pendekatan Crossectional, sampel
+diambil dengan teknik sampling purposive
+dan uji statistic menggunakan Chi-Square
+test. Untuk mengetahui hubungan pengguna
+gadget dengan tingkat prestasi belajar siswa
+di SMA Negri 9 Manado (Manumpil dkk.,
+2015).
+Penelitian ini menggunakan 3 (tiga)
+konstruk yaitu persepsi pengguna terhadap
+manfaat (perceived usefulness) persepsi
+pengguna terhadap penggunaan (perceived
+ease of use) dan Sikap pengguna (Atittude
+Toward Using).
+Technology Acceptance Model (TAM)
+merupakan metode yang digunakan untuk
+memahami sikap pengguna terhadap
+teknologi yang digunakan. TAM dibuat
+khusus untuk pemodelan adopsi pengguna
+sistem informasi. TAM menganggap bahwa
+dua keyakinan variabel perilaku utama
+dalam mengadopsi sisitem informasi, yaitu
+persepsi pengguna terhadap manfaat
+(perceived
+usefulness)
+dan
+persepsi
+pengguna terhadap penggunaan (perceived
+ease of use) (Srinadi, 2015).
+Konsep TAM dikembangkan oleh Davis
+(1989), menawarkan sebuah teori sebagai
+landasan untuk mempelajari dan memahami
+perilaku pemakai dalam menerima dan
+menggunakan sistem informasi (Handayani,
+2007). Model ini memiliki tujuan untuk
+menjelaskan faktor-faktor kunci dari perilaku
+pengguna teknologi informasi terhadap
+penerimaan
+pengadopsian
+teknologi
+informasi tersebut (Ferda dkk, 2011).
+Perluasan konsep TAM diharapkan akan
+membantu
+memprediksi
+sikap
+dan
+penerimaan seseorang terhadap teknologi
+dan dapat memberikan informasi mendasar
+yang diperlukan mengenai faktor-faktor yang
+menjadi pendorong sikap individu tersebut
+(Rose, 2006; Lee, 2010).
+a. Persepsi Kemanfaatan Pengguna
+(Perceived Usefulness)
+Persepsi
+terhadap
+kemanfaatan
+didefinisikan sebagai suatu ukuran dimana
+penggunaan suatu teknologi dipercaya akan
+
+JURNAL INFORMATIKA Vol.4 No.2, September 2017: 163-173
+
+165
+
+mendatangkan manfaat bagi orang yang
+menggunakannya.
+Davis
+(1989)
+mendefinisikan kemanfaatan (usefulness)
+sebagai suatu tingkatan dimana seseorang
+percaya bahwa penggunaan suatu subyek
+tertentu akan dapat meningkatkan prestasi
+kerja orang tersebut. Berdasarkan definisi
+tersebut dapat diartikan bahwa kemanfaatan
+dari
+penggunaan
+komputer
+dapat
+meningkatkan kerja, prestasi kerja orang
+yang menggunakannya.
+b. Persepsi Kemudahan Penggunaan
+(Perceived Ease of Use)
+Davis
+(1989)
+mendefinisikan
+kemudahan penggunaan (ease of use)
+sebagai suatu tingkatan dimana seseorang
+percaya bahwa komputer dapat dengan
+mudah dipahami. Menurut Adam dkk (1992)
+menyatakan bahwa intensitas penggunaan
+dan interaksi pengguna (user) dengan
+sistem juga dapat menunjukan kemudahan
+penggunan. Sistem yang lebih sering
+digunakan menunjukan bahwa sistem
+tersebut lebih dikenal, lebih mudah
+dioperasikan dan lebih mudahdigunakan
+oleh penggunanya. Berdasarkan definisi
+diatas dapat disimpulkan bahwa kemudahan
+penggunaan akan mengurangi usaha (baik
+waktu dan tenaga) seseorang didalam
+mempelajari
+komputer.
+Perbandingan
+kemudahan tersebut memberikan indikasi
+bahwa orang yang menggunakan TI bekerja
+lebih mudah dibandingkan dengan oranag
+yang bekerja tanpa menggunakan TI
+(secara manual). Pengguna TI mempercayai
+bahwa TI yang lebih fleksibel, mudah
+dipahami dan mudah pengoperasiannya
+(compartibel)
+sebagai
+karakteristik
+kemudahan penggunaan.
+c. Persepsi Sikap Pengguna (Attitude
+Toward Using)
+Wibowo (2006) menyatakan bahwa
+Attitude Toward Using dalam TAM
+dikonsepkan sebagai sikap terhadap
+penggunaan
+sistem
+yang
+berbentuk
+penerimaan atau penolakan sebagai
+dampak bila seseorang menggunakan suatu
+teknologi dalam pekerjaannya.
+d. Gadget
+Gadget merupakan barang canggih
+yang diciptakan dengan berbagai aplikasi
+yang dapat menyajikan berbagai media
+berita, jejaring sosial, hobi, bahkan hiburan.
+Barang canggih ini yang dilihat dari segi
+harga yang tidak bisa dibilang murah tidak
+hanya sekedar dijadikan media hiburan
+semata tapi dengan aplikasi yang terus
+diperbaharui gadget wajib digunakan oleh
+
+orang-orang yang memiliki kepentingan
+bisnis, atau pengerjaan tugas kuliah dan
+kantor, akan tetapi pada faktanya gadget tak
+hanya digunakan oleh orang dewasa atau
+lanjut usia (22 tahun keatas), remaja (12-21
+tahun), tapi pada anak-anak (7-11 tahun),
+dan lebih ironisnya lagi gadget digunakan
+untuk anak usia (3-6 tahun), yang
+seharusnya
+belum
+layak
+untuk
+menggunakan
+gadget
+(Widiawati
+&
+Sugiman, 2014).
+2. Metode Penelitian
+Penelitian ini menggunakan beberapa
+tahapan dan juga sampel data untuk
+penelitian, berikut uraiannya.
+a. Tahapan Penelitian
+Tahapan penelitian yang di lakukan
+penulis adalah tahapan penelitian deskriptif
+yang bertujuan untuk membuat secara
+sistematis, faktual, dan akurat mengenai
+fakta-fakta dan sifat-sifat populasi atau
+daerah tertentu. Tahapan penelitiannya
+yaitu:
+
+Gambar 2.1. Tahapan Penelitian
+b. Intrument Penelitian
+1) Variabel Penelitian
+Menurut Sugiyono (2006) mengemukakan
+bahwa “Variabel penelitian adalah segala
+sesuatu yang berbentuk apa saja yang
+ditetapkan oleh peneliti untuk dipelajari
+sehingga diperoleh informasi tentang hal
+tersebut kemudian ditarik kesimpulannya”.
+
+JURNAL INFORMATIKA Vol.4 No.2, September 2017: 163-173
+
+166
+
+Menurut Sugiyono (2006) berdasarkan
+hubungan antara satu variabel dengan
+variabel yang lain maka macam-macam
+variabel dalam penelitian yaitu variabel
+independen, variabel dependen, variabel
+moderator, variabel interventing dan variabel
+kontrol. Dalam penelitian ini variabel yang
+digunakan meliputi:
+a) Variabel Independen
+Varibel ini sering disebut sebagai
+variabel stimulus, prediktor, antecedent.
+Dalam Bahasa Indonesia sering disebut
+sebagai variabel bebas. Variabel bebas
+adalah variabel yang mempengaruhi atau
+yang menjadi sebab perubahannya atau
+timbulnya variabel dependen (terikat)
+(Sugiyono, 2013). Dalam penelitian ini yang
+menjadi variabel bebas adalah Perceived
+Usefulness (X1) dan Perceived Ease of Use
+(X2).
+b) Variabel Dependen
+Variabel ini sering disebut dengan
+variabel output, kriteria, konsekuen. Dalam
+
+Bahasa Indonesia sering disebut variabel
+terikat. Variabel terikat merupakan variabel
+yang dipengaruhi atau yang menjadi akibat,
+karena adanya variabel bebas (Sugiyono,
+2013). Dalam penelitian ini yang menjadi
+variabel terikat adalah Attitude Toward
+Using (Y).
+2) Operasionalisasi Variabel
+Tahap
+ini
+berhubungan
+dengan
+pengembangan
+hipotesis
+(berdasarkan
+teori) sebagai dasar dalam menghubungkan
+variabel laten lainnya dan juga dengan
+indikator-indikatornya. Dengan kata lain,
+model yang dibentuk adalah persepsi kita
+mengenai
+bagaimana
+variabel
+laten
+dihubungkan berdasarkan teori dan bukti
+yang diperoleh dari disiplin ilmu. Konseptual
+model ini juga harus merefleksikan
+pengukuran variabel laten melalui berbagai
+indikator yang dapat diukur (Ghozali, 2008).
+
+Tabel 2.1. Operasional Variabel
+Variabel
+
+Dimensi dan Indikator
+
+Ukuran
+
+No
+Kuesioner
+
+Variabel Bebas (Variabel Independen)/ (X1)
+
+
+VariabelPerceived Usefulness
+mendifinisikan kemanfaatan sebagai
+derajat keyakinan seseorang bahwa
+menggunakan suatu sistem akan
+meningkatkan pencapaian di dalam
+perkerjaan. Vankatesh & Davis (2000)
+
+
+
+
+
+Menggunakan gadget
+meningkatkan
+produktivitas dalam
+pembelajaran
+Belajar menggunakan
+gadget memudahkan
+saya untuk belajar
+kapanpun dan
+dimanapun
+Gadget meningkatkan
+efektifitas saya dalam
+belajar
+
+
+
+
+
+
+
+Tingkat
+menggunakan
+gadget
+meningkatkan
+produktivitas
+dalam
+pembelajaran
+Tingkat belajar
+Menggunakan gadget
+memudahkan saya
+untuk belajar kapanpun
+dan dimanapun
+Tingkat Gadget
+meningkatkan efektifitas
+saya dalam belajar
+
+A1
+
+A2
+
+A3
+Variabel Bebas (Variabel Independen)/ (X2)
+Variabel Perceived Ease Of Use
+kemudahan penggunaan persepsian
+(perceived ease of use) didefinisikan
+sejauh mana seseorang percaya bahwa
+menggunakan suatu teknologi akan bebas
+dari usaha. Alfin Lutfi Aziz, dkk (2013)
+
+
+
+
+
+
+
+Melakukan
+pembelajaran
+menggunakan gadget
+tidak asing saat
+mencoba pertama kali
+Gadget mempermudah
+saya dalam proses
+pembelajaran
+Mudah bagi saya
+mengoprasikan gadget
+Secara keseluruhan
+gadget mudah
+digunakan dalam roses
+pembelajaran
+
+
+
+
+
+
+
+
+Variabel Bebas (Variabel dependent)/ (Y)
+Variabel Attitude Toward Using adalah
+
+gadget mudah
+
+Sikap (attitude) adalah evaluasi
+digunakan
+kepercayaan (belief) atau perasaan positif
+
+pembelajaran melalui
+
+atau negatif dari seseorang jika akan
+gadget meningkatkan
+melakukan perilaku yang akan ditentukan.
+motivasi/ semangat
+Alfin Lutfi Aziz,dkk (2013)
+belajar
+
+pembelajaran melalui
+
+gadget memberikan
+rasa senang/ puas
+
+Tingkat melakukan
+pembelajaran
+menggunakan gadet
+tidak asing saat
+mencoba pertama kali
+Tingkat gadget
+mempermudah saya
+dalam proses
+pembelajaran
+Tingkat mudah bagi
+saya mengoprasikan
+gadget
+Tingkat secara
+keseluruhan gadget
+mudah digunakan dalam
+proses pembelajaran
+
+B1
+
+Tingkat gadget mudah
+digunakan
+Tingkat pembelajaran
+melalui gadget
+meningkatkan motivasi/
+semangat belajar
+tingkat pembelajaran
+melalui gadget
+memberikan rasa
+senang/ puas
+
+C1
+
+Skala : Ordinal
+
+JURNAL INFORMATIKA Vol.4 No.2, September 2017: 163-173
+
+B2
+
+B3
+
+B4
+
+C2
+
+C3
+
+167
+
+Skala yang digunakan dalam penelitian ini
+adalah Skala Likert. Skala Likert digunakan
+untuk mengukur sikap, pendapat, dan
+persepsi seseorang atau sekelompok orang
+tentang fenomena sosial. Dalam penelitian,
+fenomena sosial ini telah ditetapkan secara
+spesifik oleh peneliti, yang selanjutnya
+disebut sebagai variabel penelitian.
+Jawaban setiap item instrumen yang
+menggunakan Skala Likert mempunyai
+gradasi dari sangat positif sampai sangat
+negatif, yang dapat berupa kata-kata antara
+lain:
+a. Sangat Setuju
+a. Selalu
+b. Setuju
+b. Sering
+c. Cukup setuju
+c. Kadang-kadang
+d. Tidak Setuju
+d. Tidak Pernah
+e. Sangat Tidak Setuju
+Dalam penelitian ini, digunakan lima
+kategori penilaian dimana masing-masing
+pertanyaan diberi skor 1-5 sebagai berikut:
+Tabel 2.2. Skala Likert
+
+c. Metode Pengumpulan Data, Populasi
+dan Sampel Penelitian
+1) Metode Pengumpulan Data
+Menurut
+Sugiyono
+(2006)
+Pengumpulan data dapat dilakukan
+dalam berbagai setting, berbagai
+sumber, dan berbagai cara. Bila dilihat
+dari setting-nya, data dapat dikumpulkan
+pada setting alamiah (natural setting).
+Bila dilihat dari sumber datanya , maka
+pengumpulan data dapat menggunakan
+sumber primer, dan sumber sekunder.
+Selanjutnya bila dilihat dari segi cara
+atau teknik pengumpulan data, maka
+teknik
+pengumpulan
+data
+dapat
+dilakukan
+dengan
+interview
+(wawancara),
+kuesioner
+(angket),
+observasi (pengamatan), dan gabungan
+ketiganya.
+Menurut Sedarmayanti & Hidayat (2011)
+Berdasarkan cara pengumpulan data,
+maka cara pengumpulan data dalam
+penelitian ini meliputi:
+a) Observasi
+Observasi merupakan suatu cara
+untuk mengumpulkan data penelitian.
+Namun observasi jarang digunakan oleh
+para ahli dalam penelitian.
+
+b) Wawancara
+Mengajukan
+pertanyaan
+untuk
+mendapatkan jawaban yang bener
+merupakan pekerjaan yang cukup sulit,
+wawancara merupakan cara yang umum
+dan ampuh untuk memahami suatu
+keinginan/kebutuhan.
+Wawancara
+termasuk bagian yang terpenting dalam
+sosiologi,
+karena
+wawancara
+merupakan studi tentang interaksi anta
+manusia, sehingga wawancara dapat
+merupakan alat sekaligus obyek yang
+mampu mensosialisasikan kedua belah
+pihak yang mempunyai status yang
+sama.
+c) Cacatan Lapangan
+Pengertian dan kegunaan catatan
+lapangan ini menurut Moleong (2004)
+adalah bahwa catatan yang tertulis
+merupakan sesuatu yang didengar,
+dilihat, dialami dan dipikirkan dalam
+rangka pengumpulan data dan releksi
+terhadap data dalam penelitian kualitatif.
+d) Dokumen
+Dokumen merupakan salah satu alat
+yang digunakan untuk mengumpulkan
+data
+dalam
+penelitian
+kualitatif.
+Dokumen adalah catatan tertulis yang
+isinya merupakan setiap pernyataan
+tertulis yang disusun oleh seseorang
+atau lembaga untuk keperluan pengujian
+suatu
+peristiwa
+atau
+menyajikan
+akunting (Moleong, 2004), dan berguna
+bagi sumber data, bukti, informasi
+kealamiahan yang sukar diperoleh,
+sukar
+ditemukan
+dan
+membuka
+kesempatan untuk lebih memperluas
+tubuh pengetahuan terhadap sesuatu
+yang diselidiki.
+e) Tes (test)
+Tes (test) merupakan salah satu
+metoda untuk mengukur tingkat kinerja
+individu. Pemanfaatan metoda ini lebih
+efisien dan lebih sederhana terutama
+bila digunakan untuk mengukur kinerja
+pegawai dalam jumlah yang cukup
+banyak.
+2) Populasi Penelitian
+Menurut Sedarmayanti & Hidayat (2011)
+Populasi adalah himpunan keseluruhan
+karakteristik dari objek yang diteliti.
+Pengertian lain dari populasi adalah
+keseluruhan
+atau
+totalitas
+objek
+psikologis yang dibatasi kriteria tertentu.
+Berdasarkan pada obyek yang ada
+dalam populasi, maka dikenal dua
+macam ukuran populasi yaitu:
+
+JURNAL INFORMATIKA Vol.4 No.2, September 2017: 163-173
+
+168
+
+a) Populasi Tak Hingga
+Maksudnya adalah sebuah populasi
+yang didalamnya terdapat tak hingga
+banyak obyek. Semua pengamatan
+mengenai proses yang berjalan secara
+terus menerus dibawah kondisi yang
+sama adalah sebuah contoh macam
+populasi ini.
+b) Populasi Terhingga
+Adalah semua populasi dimana
+terdapat
+obyek
+yang
+terhingga
+banyaknya.
+Berdasarkan
+pengertian
+populasi
+tersebut, populasi dalam penelitian ini
+adalah siswa-siswi SMS Yayasan Islam
+Tasikmalaya kelas X dan XI.
+Tabel 2.3. Jumlah Populasi
+
+Sumber : SMK Yayasan Islam
+Tasikmalaya
+3) Sampel Penelitian
+Menurut Sugiyono (2006) Sampel
+adalah bagian dari jumlah dan karakteristik
+yang dimiliki oleh populasi tersebut. Menurut
+sedarmayanti & Hidayat (2011) sampel
+adalah kelompok kecil yang diamati dan
+merupakan bagian dari populasi sehingga
+sifat dan karakteristik populasi juga dimiliki
+oleh
+sampel.
+Ferguson
+(1976)
+mendefinisikan sampel adalah “beberapa
+bagian kecil atau cuplikan yang ditarik dari
+populasi”.
+Dalam penelitian ini menggunakan
+teknik nonprobability sampling dengan
+pendekatan sampling purposive. Menurut
+Sugiyono (2006) menyatakan bahwa
+“Nonprobability sampling adalah teknik
+pengambilan sampel yang tidak memberi
+peluang/kesempatan sama bagi setiap
+unsur atau anggota populasi untuk dipilih
+menjadi sampel”. Sedangkan sampling
+purposive adalah teknik penentuan sampel
+dengan pertimbangan tertentu (Sugiyono,
+2006). Penarikan sampel dilakukan dengan
+
+pertimbangan jumlah populasi yang terlalu
+banyak,
+serta
+adanya
+keterbatasan
+kemampuan, waktu dan biaya. Yang
+menjadi sampel dalam penelitian ini adalah
+siswa SMK Yayasan Islam Tasikmalaya
+kelas X dan XI yang menggunakan gadget.
+Dalam penelitian ini, tidak mungkin
+semua populasi dapat penulis teliti. Hal ini
+disebabkan beberapa faktor, diantaranya
+keterbatasan biaya, keterbatasan tenaga,
+dan keterbatasan waktu yang tersedia. Oleh
+karena
+itu,
+peneliti
+diperkenankan
+mengambil sebagian dari objek populasi
+yang ditentukan dengan catatan bagian
+yang diambil tersebut mewakili yang lain
+yang tidak diteliti. Seperti pendapat
+Sugiyono (2014) yang menyatakan bahwa
+bila populasi besar dan peneliti tidak
+mungkin mempelajari semua yang ada pada
+populasi, misalnya karena keterbatasan
+dana, tenaga dan waktu, maka peneliti
+dapat menggunakan sampel yang diambil
+dari populasi itu. Apa yang dipelajari dari
+sampel
+itu,
+kesimpulannya
+akan
+diberlakukan untuk populasi. Untuk itu,
+sampel dari populasi harus betul-betul
+representatif (mewakili). Maka dari itu,
+dalam menentukan jumlah sampel dalam
+penelitian ini digunakan rumus Slovin
+sebagai berikut:
+𝑁
+𝑛=
+1 + (𝑁𝑥𝑒 2 )
+n = Ukuran sampel
+N = Ukuran populasi
+e² = Kelonggaran ketelitian karena
+kesalahan sampel yang dapat ditolerir
+40
+e = 10% = 0,1
+Dengan demikian, dapat dihitung ukuran
+sampel sebagai berikut:
+𝑁
+𝑛=
+1 + (𝑁𝑥𝑒 2 )
+532
+
+𝑛=
+
+1 + (532𝑥0.01)
+532
+6,4
+𝑛 = 83,12
+Dari
+perhitungan
+tersebut,
+dapat
+ditemukan jumlah sampel minimal
+sebesar 83,12 atau dibulatkan menjadi
+83. Sementara itu, peneliti mengambil
+
+JURNAL INFORMATIKA Vol.4 No.2, September 2017: 163-173
+
+𝑛=
+
+169
+
+sampel sebesar 100 untuk dijadikan
+responden.
+d. Metode Analisi Data
+Menurut Misbahuddin & Hasan (2013)
+mengemukakan bahwa analisis data dapat
+diartikan sebagai berikut:
+a) Membandingkan dua hal atau dua
+nilai variabel untuk mengetahui
+selisihnya atau rasionya kemudian
+diambil kesimpulannya (X-Y) =
+selisih, X/Y = rasio.
+b) Menguraikan atau memecahkan
+suatu keseluruhan menjadi bagianbagian atau komponen-komponen
+yang lebih kecil.
+c) Memperkirakan
+atau
+dengan
+menentukan besarnya pengaruh
+secara kuantitatif dari perubahan
+suatu (beberapa) kejadian terhadap
+sesuatu
+(beberapa)
+kejadian
+lainnya,
+serta
+memperkirakan/meramalkan
+kejadian lainnya.
+Tujuan dari analisis data ini menurut
+Misbahuddin & Hasan (2013), antara lain:
+a) Memecahkan
+masalah-masalah
+penelitian
+b) Memperlihatkan hubungan antara
+fenomena yang terdapat dalam
+penelitian
+c) Memberikan
+jawaban
+terhadap
+hipotesis yang diajukan dalam
+penelitian
+d) Bahan untuk membuat kesimpulan,
+serta implikasi clan saran-saran
+yang berguna untuk kebijakan
+penelitian selanjutnya.
+1) Analisis Deskriptif
+Analisis deskriptif merupakan bentuk
+analisis data untuk menguji generalisasi
+hasil penelitian yang didasarkan atas satu
+sampel. Analisis deskriptif ini dilakukan
+melalui pengujian hipotesis deskriptif.
+Hasilnya adalah apakah hipotesis penelitian
+dapat digeneralisasikan atau tidak. Jika
+hipotesis nol (H0) diterima, berarti hasil
+penelitian
+dapat
+digeneralisasikan
+(Misbahuddin & Hasan, 2013). Analisis
+deskriptif karakteristik responden pada
+penelitian ini digunakan untuk mengetahui
+bagaimana
+gambaran
+karakteristik
+konsumen di SMK Yayasan Islam
+Tasikmalaya berdasarkan, jenis kelamin,
+usia, tingkat kelas dan jurusannya. Analisis
+deskriptif tanggapan responden merupakan
+pemberian skor pada setiap alternatif
+jawaban yang diberikan oleh responden
+
+sesuai dengan bobot yang telah ditetapkan.
+Setiap pernyataan dalam ketiga variabel
+memiliki 4 (empat) kriteria jawaban dengan
+pemberian skor dimulai dari 1, 2, 3, 4, dan 5.
+Data yang diperoleh melalui penyebaran
+kuesioner terhadap siswa SMK Yayasan
+Islam Tasikmalaya diolah secara statistika
+deskriptif untuk mengetahui tanggapan
+responden terhadap pengaruh gadget
+terhadap
+prestasi
+siswa.
+Tanggapan
+responden tersebut dikategorikan ke dalam
+5 (lima) tingkatan yang terdiri dari “Sangat
+Tidak Baik”, “Tidak Baik”, “Cukup Baik’,
+“Baik”,
+dan
+“Sangat
+Baik”
+dengan
+perhitungan dasar sebagai berikut:
+𝑝𝑎𝑛𝑗𝑎𝑛𝑔 𝑘𝑒𝑙𝑎𝑠 =
+
+𝑑𝑎𝑡𝑎 𝑡𝑒𝑟𝑏𝑒𝑠𝑎𝑟 − 𝑑𝑎𝑡𝑎 𝑡𝑒𝑟𝑘𝑒𝑐𝑖𝑙
+𝑗𝑢𝑚𝑙𝑎ℎ 𝑘𝑒𝑙𝑎𝑠 𝑖𝑛𝑡𝑒𝑟𝑣𝑎𝑙
+
+Sumber: (Sugiyono, 2013)
+Sedangkan,
+jika
+diaplikasikan
+pada
+penelitian ini, maka perhitungan statistik
+deskriptif tersebut sebagai berikut:
+𝑖𝑛𝑡𝑒𝑟𝑣𝑎𝑙 𝑠𝑘𝑜𝑟 𝑘𝑎𝑡𝑒𝑔𝑜𝑟𝑖 =
+
+𝑆𝑖𝑡 − 𝑆𝑖𝑟
+𝑗𝑢𝑚𝑙𝑎ℎ 𝑘𝑎𝑡𝑒𝑔𝑜𝑟𝑖
+
+Keterangan:
+a) Sit (skor ideal item tertinggi)
+= skor tertinggi x jumlah
+sampel x jumlah pernyataan
+b) Sir (skor ideal item terendah)
+=
+skor terendah x jumlah sampel x
+jumlah pernyataan
+
+Gambar 2.2. Garis Kontinum
+Keterangan :
+STB
+= Sangat Tidak Baik
+TB
+= Tidak Baik
+CB
+= Cukup Baik
+B
+= Baik
+SB
+= Sangat Baik
+2) Analisis Statistik
+Alat utama yang sering digunakan
+dalam analisis data adalah metode
+stastistik. Penggunaan statistik dalam
+analisis data memiliki beberapa kelebihan
+menurut Misbahuddin & Hasan (2013),
+sebagai berikut:
+a) Dengan statistik memungkinkan
+mendeskripsikan tentang sesuatu
+secara eksak. Simbol-simbol verbal
+lebih efisien daripada bahasa
+verbal.
+b) Dengan statistik memungkinkan
+seseorang untuk bekerja secara
+
+JURNAL INFORMATIKA Vol.4 No.2, September 2017: 163-173
+
+170
+
+eksak dalam proses dan cara
+berpikir.
+c) Peneliti
+dapat
+memberikan
+rangkuman hasil penelitian dalam
+bentuk yang lebih berarti dan lebih
+ringkas karena memberikan aturanaturan tertentu.
+d) Dapat menarik kesimpulan umum
+(membentuk konsep-konsep dan
+generalisasi).
+e) Memungkinkan untuk mengadakan
+ramalan.
+Model regresi linier berganda dapat
+disebut sebagai model yang baik jika
+memenuhi asumsi normalitas data dan
+bebas dari asumsi klasik statistik baik itu
+multikolinieritas,
+autokorelasi,
+dan
+heteroskesdastisitas. Maka dari itu
+dalam penelitian ini terdiri dari uji
+normalitas, uji multikolineritas, uji
+autokorelasi, dan uji heteroskedasititas.
+a) Uji Normalitas
+Uji normalitas data adalah uji
+prasayarat tentang kelayakan data
+untuk analisis dengan menggunakan
+statistik
+parametrik
+atau
+statistik
+nonparametrik. Melalui uji ini, sebuah
+data hasil penelitian dapat diketahui
+bentuk distribusi data tersebut, yaitu
+berdistribusi normal atau tidak normal
+(Misbahuddin dan Hasan, 2013).
+Pengujian normalitas dilakukan dengan
+menggunakan P Plot Test. Pengujian
+normalitas dapat dideteksi dengan
+melihat penyebaran data (titik) pada
+sumbu diagonal dari grafik distribusi
+normal.
+Dasar
+pengambilan
+keputusannya adalah :
+(1) Jika data menyebar disekitar
+garis diagonal dan mengikuti
+arah garis diagonalnya, maka
+model
+regresi
+memenuhi
+asumsi normalitas.
+(2) Jika data menyebar jauh dari
+garis diagonal dan atau tidak
+mengikuti arah garis diagonal,
+maka model regresi tidak
+memenuhi asumsi normalitas.
+b) Uji Multikolineritas
+Uji
+multikolinieritas
+dengan
+menggunakan VIF. Uji multikolinieritas
+diperlukan untuk mengetahui ada
+tidaknya variabel independen yang
+memiliki kemiripan antar variabel
+independen dalam suatu model.
+Kemiripan antar variabel independen
+akan mengakibatkan korelasi yang
+kuat. Uji ini juga untuk menghindari
+
+kebiasaan dalam proses pengambilan
+keputusan mengenai pengaruh pada
+uji parsial masing-masing variabel
+independen
+terhadap
+variabel
+dependen. Jika VIF yang dihasilkan
+diantara 1-10 maka tidak terjadi
+multikolinieritas (Sujarweni, 2015).
+c) Uji Autokorelasi
+Menguji autokorelasi dalam suatu
+model bertujuan untuk mengetahui ada
+tidaknya
+korelasi
+antara
+variabel
+penganggu pada periode tertentu
+dengan variabel sebelumnya. Untuk
+data time series autokorelasi sering
+terjadi. Tapi untuk data crossection
+jarang
+terjadi
+karena
+variabel
+penganggu satu berbeda dengan yang
+lain. Kriteria menggunakan nilai Durbin
+Watson (dl dan du) adalah jika du < d
+hitung < 4-du maka tidak terjadi
+autokorelasi (Sujarweni, 2015). Atau
+dapat menggunakan patokan sebagai
+berikut:
+(1) Angka D-W di bawah - 2 berarti
+ada autokorelasi positif.
+(2)
+Angka D-W di antara – 2
+sampai +2, berarti tidak ada
+autokorelasi.
+(3)
+Angka D-W di atas +2,
+berarti ada autokorelasi negatif.
+d) Uji Heteroskedastistas
+Heteroskedastistas
+menguji
+terjadinya perbedaan variance residual
+suatu periode pengamatan ke periode
+pengamatan yang lain (Sujarweni,
+2015:187) adalah:
+(1) Titik-titik data menyebar diatas
+dan dibawah atau disekitar 0.
+(2)
+Titik-titik
+data
+tidak
+mengumpul hanya diatas atau
+dibawah saja.
+(3)
+Penyebaran titik-titik data
+tidak
+membentuk
+pola
+bergelombang melebar kemudian
+menyempit dan melebar kembali.
+(4)
+Penyebaran titik-titik data
+tidak berpola.
+e) Analisis Regresi Linier Berganda
+Analisis regresi linier berganda
+adalah regresi yang memiliki satu
+variabel dependen dan lebih dari satu
+variabel
+independen
+(Sujarweni,
+2015:149).
+Persamaannya
+adalah
+sebagai berikut:
+Y= a+b1X1+b2X2+......+bnXn
+
+JURNAL INFORMATIKA Vol.4 No.2, September 2017: 163-173
+
+171
+
+Keterangan:
+Y
+= Variabel dependen (bila
+yang diprediksikan)
+X1 dan X2 = Variabel independen
+a
+= Nilai konstanta
+b
+= Koefisien regresi (nilai
+peningkatan ataupun penurunan)
+Uji
+ini
+digunakan
+untuk
+mengetahui
+apakah
+variabel
+independen X1. X2 secara bersamasama berpengaruh secara signifikan
+terhadap variabel dependen Y. Atau
+untuk mengetahui apakah model
+regresi
+dapat
+digunakan
+untuk
+meprediksi variabel dependen atau
+tidak. Langkah-langkah pengujiannya
+adalah sebagai berikut:
+(1) Menentukan Formulasi Hipotesis
+- H0 : β1 = β2 = 0, artinya
+variabel X1, X2….Xn tidak
+mempunyai pengaruh yang
+signifikan
+secara
+simultan
+terhadap variabel Y.
+- H0 : β1 ≠ β2 ≠ 0, artinya
+variabel X1, X2….Xn mempunyai
+pengaruh yang signifikan secara
+simultan terhadap variabel Y.
+(2) Menentukan derajat kepercayaan
+95% (α=0,05)
+(3) Menentukan signifikasi
+- Nilai signifikasi (P Value) <0,05
+maka H0 ditolak dan Ha diterima.
+- Nilai signifikasi (P Value) >0,05
+maka H0 diterima dan Ha ditolak.
+(4) Persamaan berdasarkan fhitung
+dengan ftabel
+- Nilai fhitung>ftabel, maka H0
+ditolak dan Ha diterima.
+- Nilai fhitung<ftabel, maka H0
+diterima dan Ha ditolak.
+(5) Membuat kesimpulan
+- Bila (P Value) <0,05 maka H0
+ditolak dan Ha diterima. Artinya
+variabel independen secara
+simultan
+(bersama-sama)
+mempengaruhi
+variabel
+dependen.
+- Bila (P Value) > 0,05 maka H0
+diterima dan Ha ditolak. Artinya
+variabel independen secara
+simultan (bersama-sama) tidak
+mempengaruhi
+variabel
+dependen.
+Selanjutnya dilakukan pengujian
+sub-hipotesis dengan menggunakan uji
+t. Uji t digunakan untuk mengetahui
+pengaruh
+masing-masing
+variabel
+bebas
+terhadap
+variabel
+terikat.
+
+Pengujian signifikan koefisien korelasi,
+dihitung
+dengan
+uji
+t
+dengan
+menggunakan rumus Sugiyono (2013).
+Rumus yang digunakan adalah:
+𝑟√𝑛 − 2
+𝑡=
+√1 − 𝑟 2
+Keterangan:
+r : Koefisien kolerasi
+n : Banyaknya Sampel
+Dengan kriteria sebagai berikut:
+1. Taraf signifikasi 0,05 dengan derajat
+kebebasan (dk) - N2
+2. Apabila thitung > t tabel maka H1
+diterima dan H0 ditolak
+3. Apabila thitung < t tabel maka H1
+ditolak dan H0 diterima
+
+Gambar 2.3. Koefisien Kolerasi
+Selanjutnya
+untuk
+mengetahui
+seberapa
+besar
+pengaruh
+variabel
+(X1),
+(X2)
+terhadap
+variabel
+(Y)
+maka
+digunakan koefisien determinasi
+dengan rumus sebagai berikut:
+KD = r2 . 100%
+KD
+= Seberapa jauh perubahan
+variabel terkait.
+r2
+= Kuadrat koefisien korelasi.
+Untuk mengetahui seberapa
+besar pengaruh secara parsial per
+sub-variabel (X1) dan (X2) terhadap
+variabel Y, maka dapat diketahui
+dengan cara
+mengkalikan nilai
+standardized
+coefficients
+beta
+dengan correlations (zero order),
+yang
+mengacu
+pada
+hasil
+perhitungan dengan menggunakan
+SPSS. Berdasarkan penjelasan
+diatas, maka model penelitian ini
+dapat digambarkan seperti gambar
+berikut.
+
+PU
+AT
+PE
+Gambar 2.4.
+Diagram Tahapan Penelitian
+
+JURNAL INFORMATIKA Vol.4 No.2, September 2017: 163-173
+
+172
+
+3) Uji Hipotesis
+Pengujian hipotesis adalah suatu
+prosedur yang akan menghasilkan suatu
+keputusan,
+yaitu
+keputusan
+dalam
+menerima atau menolak hipotesis ini. Dalam
+pengujian ini, keputusan yang dibuat
+mengandung
+ketidakpastian,
+artinya
+keputusan
+bisa
+benar
+atau
+salah
+(Misbahuddin & Hasan, 2013). Uji hipotesis
+yang digunakan dalam penelitian ini adalah
+Uji t atau distribusi t, melalui langkahlangkah sebagai berikut:
+Hipotesis 1
+H0:
+Diduga
+penerimaan
+Perceived
+Usefullness terhadap Attitude Toward Using
+dari pengaruh gadget
+tidak terdapat
+pengaruh yang signifikan.
+H1:
+Diduga
+penerimaan
+Perceived
+Usefullness terhadap Attitude Toward Using
+dari pengaruh gadget terdapat pengaruh
+yang signifikan.
+Hipotesis 2
+H0: Diduga penerimaan Perceived Ease of
+Use terhadap Attitude Toward Using dari
+pengaruh gadget tidak terdapat pengaruh
+yang signifikan.
+H1: Diduga penerimaan Perceived Ease of
+Use terhadap Attitude Toward Using dari
+pengaruh gadget terdapat pengaruh yang
+signifikan.
+3. Hasil dan Pembahasan
+Berdasarkan hasil penelitian dan
+pengujian hipotesis dengan menggunakan
+SPSS versi 20, penulis dapat menyimpulkan
+hasil penelitian sebagai berikut: Pengujian
+fhitung adalah 1,157. Dan dapat dilihat
+persamaan hipotesis dari hasil SPSS versi
+20 menyatakan bahwa nilai signifikasinya
+sebesar 0,319 > α 0,05 lebih besar dari
+ftabel. Dengan demikian dapat disimpulkan
+bahwa H0 diterima dan Ha ditolak, sehingga
+hipotesis berbunyi terdapat pengaruh yang
+signifikan
+antara
+variabel
+perceived
+usefulness (X1), dan perceived ease of use
+(X2) terhadap Attitude Toward Using (Y)
+secara simultan. Pengaruh Perceived
+Usefulness (X1) dan Perceived Ease Of Use
+(X2) secara bersama-sama terhadap
+Attitude Toward Using (Y) adalah sebesar
+2,3% dan sisanya sebesar 97,7% adalah
+pengaruh yang diberikan oleh variabel lain
+diluar model atau penelitian ini. Kesimpulan
+dari penelitian ini yaitu ada pengaruh gadget
+terhadap prestasi siswa di SMK Yayasan
+Islam tasikmalaya.
+
+4. Kesimpulan
+Hasil pengujian atas model yang
+diajukan menunjukkan hasil yang baik.
+Berdasarkan penelitian yang telah dilakukan
+pada
+siswa
+SMK
+Yayasan
+Islam
+Tasikmalaya, mengenai pengujian Pengaruh
+Gadget Terhadap Prestasi Siswa SMK
+Yayasan Islam Tasikmalaya, maka dapat
+diambil kesimpulan-kesimpulan sebagai
+berikut:
+a. Variabel
+Perceived
+Usefulness
+mempengaruhi variabel Attitude Toward
+Using, dikarenakan nilainya sama baik
+dan mempunyai hubungan yang positif.
+b. Variabel Perceived Ease Of Use
+mempengaruhi variabel Attitude Toward
+Using dikarenakan nilainya sama baik
+dan mempunyai hubungan yang positif.
+c. Variabel Perceived Usefulness dan
+Perceived Ease Of Use mempengaruhi
+variabel
+Attitude
+Toward
+Using
+dikarenakan nilainya sama baik dan
+mempunyai hubungan yang positif.
+Untuk meningkatkan prestasi siswa
+penulis menyarankan, agar hasil penelitian
+ini dapat dijadikan tolak ukur dan dapat
+digunakan sebagai alternatif bentuk latihan
+atau
+pembelajaran
+dalam
+rangka
+peningkatan prestasi siswa. Bagi penelitian
+selanjutnya dilakukan penelitian terkait
+dengan model lain guna memperoleh
+perbandingan hasil dari pengaruh gadget di
+sekolah tersebut.
+Referensi
+Adam, D., R. Nelson, dan T. Peter. (1992),
+Perceived Usefullness, ease of use,
+and
+Usage
+of
+Information
+Technology:
+A
+Replication,
+Management Information System
+Quarterly, Vol.21(3).
+Davis, F.D. (1989). Perceived Usefulness,
+Perceived Ease of Use, and
+Acceptance of Information System
+Technology.MIS Quarterly, 13(3),
+pp: 319- 339.
+Ferda, Ahmed., Serkan Benk & Tamer
+Budak. (2011). The Acceptance of
+Tax Office Automation System
+(VEDOP) By Employees: Factorial
+Validation of Turkish Adapted
+Technology
+Acceptance
+Model
+(TAM). Internasional Journal of
+Economics and Finance, 3(6), pp:
+107-116
+
+JURNAL INFORMATIKA Vol.4 No.2, September 2017: 163-173
+
+173
+
+Ghozali, Imam. (2008). Model Persamaan:
+Konsep dan Aplikasi dengan
+Program AMOS 16 Semarang:
+Badan Penerbit UNIP.
+Handayani, Rini. (2007). Analisis Faktorfaktor yang Mempengaruhi Minat
+Pemanfaatan Sistem Informasi dan
+Penggunaan Sistem Informasi (Studi
+Empiris
+Pada
+Perusahaan
+Manufaktur di Bursa Efek Jakarta).
+Simposium Nasional Akuntansi X,
+Unhas Makassar, 26-28 Juli 2007.
+Lee, Y., Kozar, K.A., dan Lrsenm, K.R.T.
+(2010), ‘The technology Acceptance
+Model: Past, Presents, and Future’
+in Communication of the Association
+for Information System, pp. 752-780.
+Manumpil, Beauty. Yudi Ismanto. Franly
+Onibala.
+(2015).
+Hubungan
+Penggunaan
+Gadget
+Dengan
+Tingkat Prestasi Siswa Di Sma
+Negeri
+9
+Manado.
+ejoural
+Keperawatan (e-Kep) Volume 3.
+Nomor 2. April 2015.
+Misbahuddin, Iqbal Hasan, (2013), Analisi
+Data Penelitian Dengan Statistk,
+Jakarta, Bumi Aksara.
+Moleong, Lexy. J. 2004. Metode Penelitian
+Kualitatif.
+Remaja
+Rosdakarya.
+Bandung.
+Nikmah,
+Astin.
+(2010).
+Dampak
+Penggunaan Hand Phone Terhadap
+Prestasi Siswa. E-Jurnal Dinas
+Pendidikan Kota Surabaya; Volume
+5: ISSN : 2337-3253.
+Rose, Janelle and Gerard Fogarty. (2006).
+Determinants
+of
+perceived
+usefulness and perceived ease of
+use in The Technology Acceptance
+Model: Senior Consumers Adoption
+of
+SelfServing
+Banking
+Technologies. Academy of World
+Business,
+Market-ing
+&
+Management
+Development
+Conference Proceedings, 2(10),pp:
+122-129.
+
+Srinadi, Ni Luh Putri. (2015). Analisis
+Pengaruh Penggunaan Teknologi
+Informasi
+Sebagai
+Media
+Pembelajaran Terhadap Motivasi
+Belajar Siswa. Konferensi Nasional
+Sistem & Informatika 2015 STMIK
+STIKOM Bali, 9 – 10 Oktober 2015.
+Sugiyono.
+(2006). Metode
+Kuantitatif
+Kualitatif
+Bandung: Alfabeta
+
+Penelitian
+&
+RND.
+
+Sugiyono.
+(2012). Metode Penelitian
+Kuantitatif Kualitatif Dan R&D.
+Bandung: Alfabeta
+Sugiyono. (2013). Metode Penelitian
+Kuantitatif Kualitatif Dan R&D.
+Bandung: Alfabeta
+Sugiyono.
+(2014). Metode Penelitian
+Kuantitatif, Kualitatif, dan Kombinasi
+(Mixed
+Methods).
+Bandung
+:
+Alfabeta
+Sujarweni, V., Wiratna. (2015). Metodologi
+Penelitian Bisnis & Ekonomi.
+Yogyakarta: Pustaka Baru Press.
+Turere,
+
+Verra Nitta. (2013). Pengaruh
+Pendidikan Dan Pelatihan Terhadap
+Peningkatan Kinerja Karyawan Pada
+Balai Pelatihan Teknis Pertanian
+Kalasey. Vol.1 No.3: 2303-1174.
+
+Wibowo, Arief. (2006). Kajian Tentang
+Perilaku Pengguna Sistem Informasi
+dengan Pendekatan Technology
+Acceptance Model (TAM). Fakultas
+Teknologi Informasi, Universitas
+Budi Luhur
+Widiawati, I., Sugiman, H., & Edy. (2014).
+Pengaruh
+penggunaan
+gadget
+terhadap daya kembang anak.
+Jakarta : Universitas Budi Luhur.
+http://stmikglobal.ac.id/wpcontent/up
+loads/2014/05/ARTIKELIIS.
+pdf.
+Diakses 12 September 2014.
+
+Sedarmayanti & Hidayat, Syarifudin. (2011).
+Metodologi Penelitian. Bandung :
+Mandar Maju.
+
+JURNAL INFORMATIKA Vol.4 No.2, September 2017: 163-173
+
+

@@ -1,0 +1,815 @@
+Vol 3, No 2, Maret 2021; 249-266
+ISSN 2654-5691 (online); 2656-4904 (print)
+Available at: e-journal.sttberitahidup.ac.id/index.php/jbh
+
+Metode Penelitian di dalam Manuskrip
+Jurnal Ilmiah Keagamaan
+Sonny Eli Zaluchu1
+gloryofgodmin@gmail.com
+
+Abstract
+A common problem regarding the method section in the structure of scientific journals is
+that they are written in general and not typical. A research method must report the
+procedures the researcher takes to carry out his research. The contents are not the same as
+the method descriptions in other studies. Therefore, this paper aims to explain the
+importance of methods in the structure of writing scientific journal articles. In particular,
+several methods commonly referred to in theological research are presented descriptively
+and topically. The conclusion obtained is, with the correct understanding of the research
+method, lecturers or researchers can produce theological research work that can be
+accounted for its academic validity.
+Research contribution: This paper provides insights to lecturers and researchers in writing
+and formulating methods in scientific journal papers and contributing material in writing
+scientific papers.
+Keywords: method; research; IMRaD; scientific writing; writing structure; journal; OJS;
+research method
+Abstrak
+Permasalahan umum mengenai bagian metode di dalam struktur jurnal ilmiah adalah ditulis
+secara umum dan tidak khas. Padahal, sebuah metode penelitian harus melaporkan prosedur
+yang ditempuh peneliti untuk menjalankan penelitiannya. Isinya tidak sama dengan
+penjelasan metode pada penelitian lain. Oleh karena itu paper ini bertujuan menjelaskan
+tentang pentingnya metode di dalam struktur penulisan artikel jurnal ilmiah. Secara khusus
+dipaparkan secara deskriptif dan topikal beberapa metode yang umum dirujuk dalam
+penelitian teologis. Kesimpulan yang diperoleh adalah, dengan pemahaman yang benar
+tentang metode penelitian, dosen atau peneliti dapat menghasilkan karya penelitian teologis
+yang dapat dipertanggungjawabkan validitasnya secara akademik.
+Kontribusi penelitian: Paper ini memberikan wawasan kepada dosen dan peneliti di dalam
+menulis dan merumuskan metode dalam paper jurnal ilmiah dan menyumbang materi dalam
+penulisan karya ilmiah.
+Kata-kata kunci: metode; penelitian; IMRaD; tulisan ilmiah; struktur tulisan; jurnal; OJS;
+metode penelitian
+
+1
+
+Sekolah Tinggi Teologi Baptis Indonesia
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|249
+
+S.E. Zaluchu: Metode Penelitian di dalam Manuskrip Jurnal Ilmiah Keagamaan
+
+PENDAHULUAN
+Sebuah jurnal ilmiah yang ditulis dengan struktur IMRaD (Introduction, Methods,
+Result and Discussion) selalu mencantumkan penjelasan metode setelah bagian
+pendahuluan. Keberadaan metode di dalam struktur penulisan tersebut menjadi elemen yang
+sangat penting sebelum seorang penulis melaporkan hasil riset dan membahasnya di dalam
+paragraf-paragraf analisis.
+Paper jurnal adalah sebuah laporan akademik yang diselesaikan dengan cara kerja
+ilmiah. William menjelaskan bahwa setiap peneliti perlu mendeskripsikan cara kerja dari
+riset yang telah dilakukannya. Itu sebabnya di dalam bagian metode, peneliti menyediakan
+informasi yang lengkap mengenai semua materi, bahan, dan prosedur yang diikuti di dalam
+penelitian tersebut. Mengutip William, “This information is important because its allows
+other scholars to judge the validity of the results and/or replicate the study.”2 Terlihat bahwa
+metode berkaitan dengan prosedur penelitian, validitas, bahan dan materi yang dipergunakan
+dan yang jauh lebih penting adalah aspek replikasi studi. Peneliti lain dapat menggunakan
+prosedur yang sama untuk topik penelitiannya yang relevan. Carey menegaskan lebih
+spesifik bahwa metode merupakan kunci yang diperlukan dalam usaha menjawab
+pertanyaan penelitian karena memiliki konten yang menjelaskan langkah-langkah
+pengamatan, pengujian dan penjelasan hasil untuk sebuah tujuan yang yakni pemecahan
+masalah.3 Berdasarkan penjelasan William dan Carey tersebut terlihat bahwa sebagai sebuah
+bagian dalam rangkaian cara kerja ilmiah, metode adalah segmen yang fundamental di dalam
+pengujian masalah riset. Sifat keilmiahan dari penelitian tersebut dapat dibaca dan terlihat
+dari cara seorang peneliti menyajikan metode di dalam laporan penelitiannya.
+Permasalahannya, sebagai sebuah elemen di dalam cara kerja ilmiah, bagian metode
+seringkali disalahpahami pengertiannya, dan ditulis tidak dengan cara yang tepat untuk
+sebuah laporan ilmiah. Kesalahpahaman yang sangat umum terjadi adalah dalam hal
+penggunaan istilah. Enago Academy melaporkan bahwa penggunaan terminologi
+‘metodologi’ dan ‘metode’ di dalam paper jurnal ilmiah disalahartikan ketika istilah
+‘metode’ dipertukarkan dengan pengertian yang sama dengan istilah ‘metodologi’. Hal ini
+terlihat dari adanya ketidakseragaman penggunaan istilah oleh manajemen Online Journal
+System (OJS) di lingkup Perguruan Tinggi Keagamaan Kristen (PTKK) di dalam
+
+2
+
+Anneli WIlliams, Research: Improve your reading and referencing skills, 1 ed. (Hammersmith,
+London: HarperCollins Publishers, 2013), 51.
+3
+Stephen S. Carey, Kaidah Kaidah Metode Ilmiah - Penduan untuk Penelitian dan Critical Thinking
+(Bandung: Nusa Media, 2015), 5–8.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|250
+
+Jurnal Teologi Berita Hidup, Vol 3, No 2, Maret 2021
+
+mendefinisikan prosedur penelitian. Terdapat OJS yang memakai istilah ‘metode’ dalam
+struktur penulisan jurnalnya tetapi terdapat juga OJS yang mencantumkan istilah
+‘metodologi’.4 Manajemen OJS terpolarisasi di dalam dikotomi antara Metode vs
+Metodologi Penelitian.
+Metodologi mengacu pada cabang Filsafat Ilmu yang berkaitan dengan metode
+ilmiah, bukan metode itu sendiri sehingga penggunaan istilah tersebut di dalam paper jurnal
+ilmiah adalah tidak tepat. Menurut Silalahi, sebuah metode di dalam artikel penelitian
+mendeskripsikan cara dalam mana sebuah studi dilaksanakan. Dalam bagian metode penulis
+menguraikan secara singkat, praktis dan sejelas-jelasnya bagaimana rancangan studi dan
+prosedur-prosedur yang ditempuh untuk melaksanakan studi tersebut.5 Dengan kata lain,
+metode adalah bagian yang menjelaskan secara teknis prosedur pengumpulan data,
+pengolahan dan teknik analisisnya. Dengan membaca bagian metode, pembaca dapat
+mengerti cara kerja yang ditempuh peneliti di dalam menjalankan, melaporkan dan
+menganalisis penelitiannya. Hal inilah yang membedakannya dengan metodologi, sebagai
+sebuah ilmu yang memiliki lingkup yang lebih luas. Garis pemisah keduanya adalah lingkup
+dan kepentingan. Metodologi adalah studi tentang metode penelitian. Sedangkan metode
+adalah prosedur atau cara-cara melaksanakan penelitian tersebut. Metodologi adalah ilmu
+dan metode adalah istilah teknis di dalam metodologi. Dengan demikian, yang diperlukan di
+dalam sebuah paper jurnal penelitian berbasis OJS bukanlah metodologi tetapi metode
+penelitian.
+Selain pemakaian istilah, permasalahan berikutnya terletak pada cara penyajian dan
+penulisan metode yang tidak tepat, yang dilakukan oleh khususnya para penulis pemula di
+lingkup PTKK Indonesia. Kesalahan yang paling banyak dilakukan adalah menyajikan
+metode secara umum. Biasanya hal seperti ini terjadi karena penulis melakukan copy paste
+metode paper OJS lain dan melakukan perubahan-perubahan kecil di dalam papernya
+sendiri.
+Hal pertama yang harus dipahami di dalam sebuah metode penelitian adalah sifatnya
+yang khas. Sebuah penelitian dijalankan untuk memenuhi tujuan tertentu. Mengingat bahwa
+setiap penelitian memiliki tujuannya sendiri-sendiri maka dapat disimpulkan bahwa metode
+pada satu topik penelitian pasti tidak sama dengan topik penelitian lainnya. Oleh sebab itu,
+menulis metode penelitian dari hasil adaptasi metode penelitian yang dimuat di dalam artikel
+lain, tidak dapat diterima secara akademik dan tidak memenuhi unsur validitas penelitian.
+4
+5
+
+“How to Write the Methods Section of a Scientific Article - Enago Academy,” Enago Academy.
+Uber Silalahi, Metode Penelitian Sosial Kuantitatif, 5 ed. (Bandung: Refika Aditama, 2017), 15.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|251
+
+S.E. Zaluchu: Metode Penelitian di dalam Manuskrip Jurnal Ilmiah Keagamaan
+
+Hal kedua yang masih sering terjadi adalah penyajian dan penulisan metode yang
+terlalu umum. Padahal, metode penelitian sebuah artikel jurnal ilmiah harus ditulis
+sistematis, langkah demi langkah dan memuat hal-hal detil yang spesifik. Sebuah cara kerja
+ilmiah haruslah dijelaskan secara prosedural agar dapat dirujuk dan dipergunakan untuk
+kepentingan penelitian lanjutan. Dengan kata lain, metode seharusnya dapat direproduksi
+dan diulang oleh peneliti lain untuk tujuan pengembangan sains menyangkut topik yang
+sama. Sebagaimana proses pembuatan sebuah kue, bagian metode seharusnya
+mendeskripsikan urut-urutan pembuatan adonan. Kekurangan dan pengabaian di dalam
+urutan tersebut dapat mempengaruhi hasil akhir yang tidak sempurna. Menurut Jay, cara
+terbaik untuk menilai kecukupan bagian metode adalah bertanya kepada rekan kerja yang
+tidak terlibat di dalam penelitian, agar membaca dan meninjau apakah prosedur yang
+disampaikan dapat diikuti dan dimengerti, atau dapat diulangi.6
+Di dalam penulisannya, sebuah metode dijelaskan secara deskriptif dan terinci.
+Penulis menjadikan tujuan penelitian sebagai patokan deskripsi. Oleh sebab itu, kalimatkalimat yang dipergukana lebih bersifat seperti laporan dari apa yang telah dilakukan, tidak
+bertele-tele, fokus, tanpa repetisi kalimat dan sejelas-jelasnya tetapi sesingkat-singkatnya.
+Itu sebabnya di dalam paper jurnal berbasis OJS, metode cukup dijelaskan di dalam sebuah
+paragraf yang padat.
+Pengutipan diperkenankan sejauh hal itu merupakan sumber yang relevan terkait
+prosedur untuk menghemat kalimat. Gambar atau tabel atau skema tidak diperlukan, kecuali
+menjadi pendukung dalam penelitian bidang eksakta atau dalam menjelaskan
+desain/alur/hubungan antar-vabiabel penelitian. Khusus untuk penelitian social sciences
+seperti ilmu keagamaan dan teologi, penyajian metode cukup satu dan dua paragraf saja.
+Berbeda dengan kertas kerja eksakta, metode dapat disajikan dalam bentuk struktural dengan
+menjelaskan alur penelitian/percobaan, variabel dan bahan-bahan, langkah-langkah uji dan
+cara penarikan kesimpulan. Penyajian metode di dalam rumpun ilmu social sciences
+dilakukan dengan bentuk non struktural. Sementara untuk rumpun eksakta (lebih ke arah
+kuantitatif) harus disajikan secara tsruktural.7
+Berdasarkan penjelasan di atas dapat ditarik kesimpulan bahwa penulisan metode
+dan perumusannya di dalam sebuah paper jurnal ilmiah tidak dapat diabaikan atau dianggap
+
+6
+
+Jay N Shah, “How to write ‘method’ in scientific journal article,” Journal of Patan Academy of
+Health Sciences 2, no. 2 (Desember 2015): 1–2.
+7
+David Lindsay, Scientific writing = thinking in words (Collingwood, Australia: CSIRO Publishing,
+2011), 28.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|252
+
+Jurnal Teologi Berita Hidup, Vol 3, No 2, Maret 2021
+
+remeh dan harus tepat. Connor menegaskan bahwa metode menjadi sebuah hub yang
+menjembatani bagian pendahuluan dan penjelasan hasil. Metode akan membantu pembaca
+melakukan evaluasi terhadap temuan apakah telah dilakukan dengan cara yang benar dan
+sesuai kaidah ilmiah atau tidak.8 Menyadari bahwa penulisan paper jurnal ilmiah adalah hal
+yang sangat penting dalam tradisi akademik, paper ini ditulis dengan tujuan untuk
+memperlengkapi para dosen di dalam memahami dan menulis bagian metode penelitian,
+khususnya di kalangan dosen dan peneliti pemula di lingkup PTKK sheingga dapat
+menghasilkan sebuah karya ilmiah berdampak internasional dan mengimplementasikan
+tujuan pemerintah meningkatkan luaran penelitian dosen sebagai implementasi tri darma
+perguruan tinggi di dalam hal penelitian.
+METODE
+Paper ini disajikan melalui pemaparan topikal mengenai sejumlah metode penelitian
+yang umum dipergunakan dalam riset Teologis dan Pendidikan Agama Kristen. Sepenuhnya
+mengacu pada model analisis dari studi pustaka yang memanfaatkan secara optimal semua
+bahan-bahan dan konten yang berkaitan dengan scientific writing, penelitian dan metode
+penulisan jurnal ilmiah dan riset keagamaan sebagai sebuah disiplin ilmu sosial. Itulah
+sebabnya di dalam paper penelitian ini pemaparan dibagi ke dalam sub-sub tema metode
+yang bersifat topikal.9 Pilihan terhadap topik-topik yang relevan dalam metode penulisan
+paper keagamaan diakui sangat banyak, sehingga paper ini hanya melaporkan metodemetode yang umum dipergunakan dan populer di kalangan akademisi Kristen. Penjelasan
+menyangkut topik-topik metode pengertian dan klasifikasi yang disertai penjelasan singkat.
+Tidak dilakukan pendalaman teori terhadap setiap metode melainkan hanya bersifat
+informatif yang padat sebagai bahan rujukan. Sebab tujuan utamanya bukanlah penggalian
+dan kedalaman teori tetapi hanya sebagai tuntunan teknis yang memandu penulis dalam
+menentukan metode penelitiannya.
+HASIL
+Sebuah metode penulisan sangat bergantung tujuan atau permasalahan penelitian
+yang ingin ditemukan jawabannya. Oleh sebab itu, perumusan permasalahan (state of
+
+8
+
+Margaret Cargill dan Patrick O’Connor, Writing Scientific Research Articles - Strategy and Steps
+(West Sussex, UK: John Wiley & Sons, Inc., 2009), 35.
+9
+Andrew Bennett dan Nicholas Royle, An introduction to literature, criticism and theory, An
+Introduction to Literature, Criticism and Theory, 2016; Jeffrey W. Knopf, “Doing a Literature Review,” PS Political Science and Politics, 2006.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|253
+
+S.E. Zaluchu: Metode Penelitian di dalam Manuskrip Jurnal Ilmiah Keagamaan
+
+problem) akan menentukan dan menolong peneliti di dalam memilih metode penelitiannya.
+Meskipun pemilihan metode yang relevan sepenuhnya menjadi keputusan peneliti/penulis,
+penetapannya tetap mengikuti kaidah-kaidah baku akademik dengan memperhatikan unsur
+relevansi, ketepatan dan konteks serta unsur validitas ilmiah.
+Berikut ini dipaparkan berbagai metode yang lazim dipergunakan dalam penelitian
+agama. Kendatipun setiap metode memiliki lingkup pengertian yang khas di dalam prosedur
+dan cara kerja, penulis dapat mempergunakan dan menggabungkan lebih dari satu metode
+selama memiliki argumentasi dan alasan yang kuat untuk mengkombinasikan pemakaian
+metode-metode tersebut.
+Metode Hermeneutika
+Metode ini dipergunakan di dalam paper penelitian agama yang bertujuan untuk
+menggali dan mengungkapkan makna dari teks-teks kitab suci.10 Di dalam metode ini
+penulis mengikuti langkah-langkah hermeneutika dengan melakukan sejumlah analisis
+untuk menangkap makna teks seperti:
+1. Studi kata, yang bertujuan mencari makna kata yang ada di dalam teks dengan teknik
+eksegesa ayat-ayat kitab suci.11 Sebagaimana diketahui, teks asli Alkitab adalah bahasa
+Ibrani untuk PL dan bahasa Yunani untuk teks PB. Jenis ini dikategorikan sebagai kritik
+rendah yang melibatkan arti kata dalam bahasa asli, penempatan teks di dalam konteks,
+dukungan geografis dan situasi kebudayaan yang melingkupi teks.12 Dalam melakukan
+studi kata peneliti membongkar makna hingga ke akar kata dari teks Alkitab dan
+merumuskan pengertian teks berdasarkan kedudukan kata di dalam kalimat. Tafsiran,
+komentar dan kamus bahasa asli menjadi alat analisis di dalam metode ini.
+2. Analisis kritik tinggi Alkitab (high biblical criticism) yang terdiri dari analisis historis,
+analisis teks, analisis tradisi, analisis sumber, analisis redaksi, analisis tata bahasa,
+analisis kanonikal dan analisis narasi. Termasuk di dalam golongan ini Inner-Biblical
+Interpretation and Intertextuality dan Rhetorical Criticism.13 Di dalam kritik tinggi, teks
+10
+
+Sonny Eli Zaluchu, “Pola Hermenetik Sastra Hikmat Orang Ibrani,” Evangelikal: Jurnal Teologi
+Injili dan Pembinaan Warga Jemaat 3, no. 1 (2019): 21–29; Stephen L. Stell, “Hermeneutics in Theology
+and the Theology of Hermeneutics: Beyond Lindbeck and Tracy,” Journal of the American Academy of
+Religion 61, no. 4 (1993): 679–703; David L. Rennie, “Qualitative research as methodical hermeneutics,”
+Psychological Methods 17, no. 3 (2012): 385–398.
+11
+Moshe Greenberg, “Exegesis,” in 20th Century Jewish Religious Thought: Original Essays on
+Critical Concepts, Movements, and Beliefs, 2009, 211–218; Stanley E Porter, Handbook to Exegesis of the
+New Testament, New Testament tools and studies, 2002.
+12
+Richard N. Soulen dan R. Kendall Soulen, Handbook of Biblical Criticism (Louisville, Kentucky:
+Westminster John Knox Press, 2001), 57.
+13
+Douglas Mangum dan Douglas Estes, ed., Literary Approaches to The Bible (Bellingham, WA:
+Lexam Press, 2017).
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|254
+
+Jurnal Teologi Berita Hidup, Vol 3, No 2, Maret 2021
+
+dianalisis dengan berbagai pendekatan karena disadari bahwa teks membawa makna
+yang melekat pada berbagai situasi seperti tradisi yang membingkai teks, sumber-sumber
+teks, cara kalimat diredaksi, kondisi historis, susunan tata bahasa dan bagaimana narasi
+disajikan.
+3. Kelompok analisis modern-post modern seperti reader response criticism (kritik
+pembaca), strukturalisme, post-strukturalisme, hermeneutika yang berpusat pada
+penulis, dan dekonstruksi adalah bagian dari kelompok ini.14 Beberapa metode kritik lain
+yang tergabung di dalam kategori metode ini adalah pemakaian kritik psikologi,
+sosiologi, antropologi serta studi kasus. Apabila metode ini yang dipakai maka peneliti
+sedang menjadikan teks-teks kitab suci sebagai objek penelitian untuk mendapatkan
+makna dengan pendekatan pendekatan non tradisionalistik.
+Analisis Naratif
+Metode ini bagian dari penggunaan kesusasteraan di dalam penelaahan kitab suci.15
+Dalam hal ini, Alkitab sekalipun merupakan konten suci tetapi dipandang sebagai karya
+sastra yang ditelitialur ceritanya (plot), tokoh-tokoh yang terlibat berikut perannya masingmasing (termasuk di dalam ini adalah karakter dan watak), konstruksi utama cerita dan
+bagian-bagiannya, tema-tema utama, motif yang muncul di dalam narasi, konflik yang
+terjadi, simbol-simbol yang muncul dan terutama mengenai perspektif utama dari teks
+sehingga memberikan pemahaman mengenai sudut pandang yang dipergunakan penulis.16
+Inti yang ingin digali di dalam metode ini adalah apa yang hendak dikomunikasikan kepada
+pembaca masa kini melalui tangkapan narasi dunia teks.
+Metode Studi Literatur
+Disebut juga sebagai metode studi pustaka. Di dalam metode ini, peneliti
+mengumpulkan sebanyak-banyaknya teori dan informasi dari bahan kepustakaan
+menyangkut topik penelitian. Sumber-sumber tersebut harus relevan dan dapat
+dipertanggungjawabkan secara akademik validitas dan keabsahannya sebagai sumber ilmiah
+seperti buku, jurnal, majalah, monograf, laporan penelitian, eksiklopedia dan bahan-bahan
+
+14
+Grant R Osborne, Spiral Hermeneutika: Pengantar Komprehensif Bagi Penafsiran Alkitab
+(Surabaya: Momentum, 2012), 570–596.
+15
+Sonny Eli Zaluchu, “Analisis Narrative Criticism Kisah Simson dan Ironi Kehidupannya di Dalam
+Kitab Hakim-Hakim,” Jurnal Ilmiah Religiosity Entity Humanity (JIREH) 2, no. 2 (Desember 2020): 100–
+113.
+16
+A.A. Sitompul dan Ulrich Beyer, Metode Penafsiran Alkitab [Methods for the Bible
+Interpretation], 14 ed. (Jakarta: BPK Gunung Mulia, 2009), 303.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|255
+
+S.E. Zaluchu: Metode Penelitian di dalam Manuskrip Jurnal Ilmiah Keagamaan
+
+kredibel lainnya berbasis online.17 Bahan-bahan dari sumber pustaka tersebut pada
+umumnya terdiri dari konsep, pendapat, ide dan gagasan yang semuanya dipilih berdasarkan
+kesesuaian dan relevansinya terhadap topik penelitian. Teori-teori tersebut berguna untuk
+melihat kesenjangan, dukungan konseptual terhadp topik penelitian dan tentu saja teori-teori
+terdahulu yang berkaitan dengan topik penelitian.18
+Sebuah studi literatur umumnya dilakukan dengan sistematika tahapan sebagai
+berikut:19
+1. Tahap pemilihan literatur yang relevan (jurnal, buku, majalah, web, ensiklopedia, dsb).
+Tidak semua sumber relevan dan dapat dipertanggungjawabkan secara ilmiah.
+2. Tahap pembacaan literatur dan pembuatan catatan review terutama tinjauan kritis. Di
+dalam tahap ini penulis melakukan pembacaan aktif untuk menangkap ide dan gagasan
+yang ada di dalam literatur tersebut
+3. Tahap pengelompokan dan sintesa ide/gagasan sesuai sesuai pokok bahasan. Penulis
+sudah mengetahui bagian mana dari literatur yang rrelevan dengan penelitiannya. Pada
+tahap ini peneliti membuat pernyataan-pernyataan (konstruk) yang memerinci secara
+konseptual topik, variabel atau analisis penelitiannya.
+4. Tahap penulisan atau input konsep ke dalam paragraf. Di sini penulis melakukan mixing
+ide dan gagasannya dengan dukungan dari literatur yang ada.
+Salah satu peran utama dari studi pustaka adalah memberi pasokan informasi
+mengenai kerangka teoritis yang hendak dibangun peneliti sebagai landasan bagi pemecahan
+masalah. Selain itu, studi pustaka memberikan input kepada peneliti temuan-temuan
+terdahulu yang berkaitan dengan penelitiannya sehingga mampu memberikan fondasi bagi
+gap penelitian itu sendiri.
+Metode Deskriptif-Kualitatif
+Kedua metode ini biasanya bergandengan. Paper yang dikerjakan dengan metode
+kualitatif biasanya disajikan secara deskriptif. Pada umumnya metode ini dipergunakan
+untuk penyelidikan kebenaran yang bersifat relatif, teoretis dan menggunakan hermenetika
+sebagai langkah untuk mencari makna dan interpretasi. Pilihan pada pendekatan ini lebih
+banyak menggunakan analisis teoretik yang berwujud state of arts di dalam pembahasannya
+
+17
+
+Juan Jesús Zaro Vera, “Literature as study and resource: the purposes of English literature
+teaching at university level,” Revista Alicantina de Estudios Ingleses, no. 4 (1991): 163–175; Bennett dan
+Royle, An introduction to literature, criticism and theory.
+18
+Consuelo C. Sevilla et al., Pengantar Metode Penelitian, 1 ed. (Jakarta: Penerbit Universitas
+Indonesia, 2006), 31.
+19
+“Study Tips for Literature | Signet Education,” Signet Education.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|256
+
+Jurnal Teologi Berita Hidup, Vol 3, No 2, Maret 2021
+
+dan usaha penulis membangun konstruksi konseptual bagi topik penelitiannya. Titik akhir
+yang ingin dicapai adalah konstruk atau kesimpulan teoritis yang dibangun peneliti dari
+teori-teori yang terlibat di dalam pembahasan. Paparan dari metode kuantitatif ini dilakukan
+secara deskriptif. Penelitian eksploratori biasanya menjadi sub bagian dari metode kualitatif.
+Adapun metode penelitian deskriptif, umumnya bersifat memaparkan hasil penelitian
+dan variabelnya seperti penyajian makanan di atas meja. Melalui penyajian tersebut pembaca
+mendapatkan informasi yang lengkap mengenai setiap variabel atau topik pembahasan yang
+terdapat di dalam model penelitian.20 Penjelasan mengenai karakteristik atau sifat dari
+sebuah fenomena yang menjadi pokok penelitian menjadi ciri khas metode ini. Pilihan
+terhadap metode deskriptif pada umumnya dipakai jika peneliti ingin memberikan
+penjelasan dari suatu tangkapan (potret) fenomena sehingga mudah dipahami. Dijelaskan
+oleh Morrisan bahwa penelitian deskriptif pada umumnya menjelaskan kondisi sosial
+tertentu atau kondisi keagamaan tertentu jika diterapkan di dalam domain religi.21 Peneliti
+mengamati sesuatu kemudian menjelaskan hasil pengamatannya. Sejumlah alat dapat
+dipakai untuk menjelaskan seperti tabel, grafik, gambar dan bagan. Tujuan utamanya adalah
+mempertegas situasi atau kondisi tertentu.22 Melalui metode deskriptif, peneliti memberikan
+penjelasan dan uraian sistematis yang mengalir melalui paragraf hingga tiba pada konklusi
+penelitian.
+Metode Kuantitatif
+Metode Kuantitatif dipilih jika penelitian yang dilaporkan menggunakan analisis
+matematis seperti SPSS dan sejenisnya yang membutuhkan perhitungan.23 Data yang
+dihasilkan biasanya berasal dari pengukuran di lapangan seperti angket dan kuesioner.
+Pendekatan kuantitatif biasanya fokus pada aspek behavioristik dan empiris yang berasal
+dari fenomena-fenomena di lapangan atau berdasarkan perilaku yang kemudian diukur untuk
+diteliti.24 Menurut Morissan, metode penelitian ini bertujuan untuk menjelaskan sesuatu dan
+
+20
+
+Sonny Eli Zaluchu, “Strategi Penelitian Kualitatif dan Kuantitatif Di Dalam Penelitian Agama,”
+Evangelikal: Jurnal Teologi Injili dan Pembinaan Warga Jemaat 4, no. 1 (2020): 28–38.
+21
+Morissan, Metode Penelitian Survey, 5 ed. (Jakarta: Prenada Media Group, 2012), 37.
+22
+W. Lauwrence Lawrence Neuman, Metodologi Penelitian Sosial: Pendekatan Kualitatif dan
+Kuantitatif, 7 ed. (Jakarta: PT. Indeks, 2016), 44; Sudaryono dan Widodo, Metodologi Penelitian (Depok:
+Raja Grafindo Perkasa, 2018), 82.
+23
+Yanyi K. Djamba dan W. Lawrence Neuman, “Social Research Methods: Qualitative and
+Quantitative Approaches,” Teaching Sociology 30, no. 3 (2002): 380; Marcel Garz, “Quantitative methods,”
+in Management and Economics of Communication, 2020, 109–127.
+24
+Zaluchu, “Strategi Penelitian Kualitatif dan Kuantitatif Di Dalam Penelitian Agama.”
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|257
+
+S.E. Zaluchu: Metode Penelitian di dalam Manuskrip Jurnal Ilmiah Keagamaan
+
+berusaha untuk menjawab pertanyaan ‘mengapa’ dan alasan terjadinya suatu fenomena
+dalam bentuk hubungan sebab akibat.25
+Penjelasan di dalam metode ini harus lengkap meliputi variabel yang terlibat,
+hubungan antar variabel, desain penelitian, pemenuhan persyaratan analisis seperti laporan
+uji normalitas dan linieritas, laporan validitas dan reliabilitas dan langkah-langkah di dalam
+melakukan uji hipotesis dan analisis data. Oleh sebab itu, metode kuantitatif biasanya
+disusun secara struktural dan terdiri dari banyak paragraf dibandingkan metode lainnya.
+Di dalam metode ini terdapat beberapa klasifikasi yang lebih spesifik menjelaskan
+arah dan bentuk penelitian seperti:
+
+
+Kausal komparatif
+
+
+
+Eksplanatori atau eksplanatif
+
+
+
+Korelasional
+
+Metode Systematic Review
+Systematic Literature Review adalah metode penelitian yang bertumpu pada hasilhasil riset sebelumnya yang dikumpulkan dan diolah secara sistematis di dalam sebuah
+sintesis.26 Metode ini dipergunakan untuk mengidentifikasi, mengevaluasi, dan mensintesis
+hasil-hasil riset yang sudah selesai dikerjakan dan berbentuk luaran paper jurnal.27 Metode
+ini dipilih karena dapat memberikan gambaran dari suatu bidang kajian yang telah diteliti
+sebelumnya sehingga dapat ditemukan gap penelitian, teori baru, kerangka dan konteks
+teoritis untuk penelitian serta positioning temuan penelitian dalam body of knowledge yang
+lebih luas.
+Langkah-langkah yang umum ditempuh untuk mengaplikasikan metode ini adalah
+(1) Tahap pengumpulan dan survei artikel yang terkait dengan topik yang akan diteliti.
+Seluruh artikel yang berkaitan dengan kajian dikumpulkan sebanyak-banyaknya. (2) Tahap
+berikutnya adalah melakukan seleksi artikel dengan menetapkan sejumlah kriteria inklusi
+dan eksklusi sehingga jumlah artikel menjadi berkurang. (3) Artikel yang tersisa menjadi
+bahan review dan evaluasi. Dalam tahap ini peneliti melakukan pengelompokan ide dan dan
+isu publikasi sehingga mendapatkan gambaran yang jelas mengenai bidang kajian dari hasil
+penelitian terlama hingga yang terbaru. Dalam pelaksanaannya, sejumlah protokol
+25
+
+Morissan, Metode Penelitian Survey.
+David Tranfield, David Denyer, dan Palminder Smart, “Towards a Methodology for Developing
+Evidence-Informed Management Knowledge by Means of Systematic Review,” British Journal of
+Management 14, no. 3 (2003): 207–222.
+27
+Arlene Fink, Conducting Research Literature Reviews: From the Internet to Paper (4th edition),
+SAGE Publications, 2014.
+26
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|258
+
+Jurnal Teologi Berita Hidup, Vol 3, No 2, Maret 2021
+
+diterapkan dengan tujuan agar proses literature review terhindar dari pemahaman subjektif
+peneliti dan bias pengertian. Beberapa indikator yang dapat dipergunakan antara lain:
+mencari kesamaan (compare); mencari ketidaksamaan (contrast); memberikan pandangan
+(criticize); membandingkan (synthesize) dan membuat ringkasan (summarize).
+Metode Fenomenologi
+Pada dasarnya, Fenomenologi adalah metode yang umum dipakai untuk penelitian
+ilmu-ilmu sosial tetapi akhir-akhir ini mulai diterapkan di dalam penelitian keagamaan.
+Tujuannya adalah memasuki pengalaman ‘seseorang’ dan mencari tahu bagaimana orang
+tersebut menjalani pengalaman yang menjadi fenomena di dalam hidupnya. Kahija
+merumuskan bahwa fenomenologi merupakan penelitian tentang pengalaman subjektif
+manusia.28 Lebih lanjut Kahija membagi dua pendekatan fenomenologis yakni
+fenomenologi
+
+interpretatif
+
+dan
+
+fenomenologi
+
+deskriptif.
+
+Apabila
+
+peneliti
+
+ingin
+
+menginterpretasikan atau menafsirkan bagaimana seseorang mengartikan pengalamannya
+maka hal itu disebutkan sebagai fenomenologi interpretatif. Sedangkan bila peneliti hanya
+ingin mendeskripsikan bagaimana seseorang mengartikan pengalamannya maka itu
+termasuk fenomenologi dekriptif.29 Kesimpulan yang dirumuskan oleh Kusumawanti dan
+Arawindha dapat dijadikan patokan bahwa penelitian fenomenoogis adalah penelitian yang
+bertujuan mempelajari bagaimana sebuah fenomena di dalam oleh manusia di dalam
+kesadarannya, pikiran dan tindakannya serta bagaimana fenomena tersebut memberi arti atau
+nilai.30
+Apabila dipergunakan di dalam penelitian agama maka ada empat tahapan yang akan
+ditempuh peneliti dengan metode ini. Pertama, peneliti mendeskripsikan terlebih dahulu
+fenomena yang dialami objek penelitian melalui sebuah wawancara mendalam yang
+ditranskrip. Kedua, dari hasil transkripsi tersebut, peneliti melakukan inventarisasi
+pernyataan-pernyataan penting yang relevan dengan topik penelitian. Tahap ini disebut
+horizonalisasi. Tahap ketiga adalah cluster meaning. Pernyataan-pernyataan tersebut
+dikelompokkan ke dalam tema-tema atau unit-unit makna yang sama. Tindakan ini mirip
+dengan usaha coding di dalam pengelompokkan data wawancara. Langkah terakhir adalah
+peneliti membangun konstruksi deskripsi mengenai makna berdasarkan setiap unit yang
+
+28
+
+YF La Kahija, Penelitian Fenomenologis [Phenomenology Research] (Yogyakarta: Penerbit
+Kanisius, 2017), 22.
+29
+Kahija, Penelitian Fenomenologis [Phenomenology Research].
+30
+Nike Kusumawanti dan Ucca Arawindha, “Desain Riset Penelitian Fenomenologi,” in Metodologi
+Penelitian Kualitatif - Berbagi Pengalaman dari Lapangan, ed. Siti Kholifah dan I Wayan Suyadnya, 1 ed.
+(Jakarta: Raja Grafindo Perkasa, 2018), 117.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|259
+
+S.E. Zaluchu: Metode Penelitian di dalam Manuskrip Jurnal Ilmiah Keagamaan
+
+telah dikelompokkan dan mencari serta menganalisis keterkaitannya satu sama lain.31
+Dhavamony menyimpulkan ini sebagai penjelasan hakikat yang sama dari gejala-gejala yang
+berbeda. Menurutnya, metode fenomenologi agama tidak hanya menghasilkan suatu
+deskripsi tentang fenomena yang sedang diteliti, tetapi menggali bagaimana fenomena itu
+memberi arti, dihayati, dan dialami oleh orang-orang beragama.32
+Metode Studi Tokoh
+Studi tokoh di dalam penelitian keagamaan pada umumnya bersumber dari tokohtokoh yang terdapat di dalam kitab suci dan dari tokoh tokoh teologis yang memberikan
+sumbangan pemikiran di dalam keilmuan. Metode penelitian ini termasuk ke dalam kategori
+penelitian sejarah karena meneliti kehidupan seseorang, pemikiran dan idenya,
+pengalamannya, karakter dan proses pembentukan hidupnya, dan hal-hal yang menjadi titik
+penting di dalam hidupnya.33
+Berbeda dengan riset tokoh umum, penelitian biografi yang melibatkan tokoh-tokoh
+Alkitab pada umumnya fokus terhadap tujuh hal utama. Pertama, tahap awal panggilan
+hidupnya; Kedua, peran yang dialami sang tokoh di dalam bingkai narasi; Ketiga, relasi
+sosial di dalam kerangka kerja dan tugasnya; Keempat hubungan dua arah yang berlangsung
+antara sang tokoh dengan Tuhan; Kelima, dinamika di dalam menjalani tugas, mandat yang
+diterima; Keenam, pasang surut kehidupannya; Keenam, krisis-krisis yang dialaminya
+secara horizontal dan vertikal sebagai wacana pembentukan; Ketujuh, warisan hidupnya;
+Kedelapan, kekuatan dan kelemahannya serta pengembangan karakternya; Kesembilan
+akhir hidupnya; Dan kesepuluh orang-orang berpengaruh yang dikirim Tuhan untuk menjadi
+bagian pembentukan.
+Studi Kasus
+Studi kasus adalah metode penelitian yang bertitik tolak dari suatu kasus yang
+dialami oleh individu, kelompok masyarakat, institusi/organisasi, yang memperlihatkan
+sebuah fenomena berupa masalah sosial.34 Di dalam kaitannya dengan penelitian keagamaan
+
+31
+
+Abdul Main, “Fenomenologi sebagai Filsafat dan Metode dalam Penelitian Sosiologi,” in
+Fenomenologi Dalam Penelitian Sosial [Phenomenology in Social Research], ed. Muhammad Farid dan
+Moh. Adib (Jakarta: Prenada Media Group, 2018), 45–46; Kusumawanti dan Arawindha, “Desain Riset
+Penelitian Fenomenologi.”
+32
+Mariasusai Dhavamony, Fenomenologi Agama, 9 ed. (Yogyakarta: Kanisius, 2015), 43.
+33
+Syahrin Harahap, Metodologi Studi Tokoh dan Penulisan Biografi, 2 ed. (Jakarta: Prenada Media
+Group, 2014), 7.
+34
+Christine Benedichte Meyer, “A Case in Case Study Methodology,” Field Methods 13, no. 4
+(2001): 329–352.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|260
+
+Jurnal Teologi Berita Hidup, Vol 3, No 2, Maret 2021
+
+maka studi kasus mengangkat problematika keagamaan dan segala fenomena yang berkaitan
+dengan fenomena tersebut.
+Mengutip Creswell (2013), Chawa dkk mendefinisikan bahwa studi kasus
+merupakan penelitian kualitatif yang mengkaji konteks kehidupan yang nyata, baik terdiri
+dari satu ataupun beberapa kasus yang kontemporer dari waktu ke waktu.35 Berdasarkan
+definisi tersebut, metode studi kasus bertujuan mempelajari kasus yang berkembang di
+tengah masyarakat dan memaparkan strukturnya.36 Dari penyelidikan tersebut, peneliti dapat
+mengungkap latar belakang penyebab, dampak sosial yang ditimbulkan, dan mengusulkan
+solusi mengatasinya.
+Hasil dari penelitian yang dibangun dari studi kasus adalah pengetahuan teoritis yang
+dapat digeneralisasi dan berkontribusi pada perkembangan ilmiah yang lebih luas.37 Dengan
+demikian, suatu studi kasus pada domain keagamaan dapat menjadi kontibusi bagi individu,
+kelompok masyarakat dan institusi agama untuk menyelesaikan kasus-kasus serupa baik
+sekarang maupun di masa yang akan datang. Ciri khas dari metode ini terletak pada caranya
+memperoleh data. Dalam hal ini, peneliti diberi kebebasan menggunakan berbagai sumber
+untuk melengkapi desain penelitiannya semakin akurat. Yin mengatakan bahwa degan
+menggunakan sumber data yang luas dan beragam, akan tersedia deskripsi yang luas,
+lengkap dan komprehensif tetapi juga mendalam (in-depth) dari sebuah fenomena sosial.38
+Etnografi
+Secara harafiah studi etnografi melaporkan penelitian lapangan tentang suatu suku
+bangsa. Menurut Siddiq, sebuah penelitian etnografi melaporkan sesuatu yang menyeluruh
+tetapi terpadu (holistic-integratif), kaya di dalam deskripsi (thick description) dan
+menggunakan pendekatan analisis kualitatif dalam rangka mendapatkan cara pandang
+pemilik kebudayaan (native’s point of view).39
+Dalam kaitannya dengan studi agama, penelitian etnografi pada umumnya diarahkan
+untuk mempelajari kehidupan pola kehidupan beragama dan segala hal yang berkaitan
+dengan topik tersebut di dalam sebuah entitas kebudayaan. Lokus penelitian adalah
+35
+
+Anif F. Chawa, Lutfi Amiruddin, dan A. Imron Rozuli, “Pendekatan Studi Kasus dalam Penelitian
+Kualitatif Sosiologi,” in Metodologi Penelitian Kualitatif - Berbagi Pengalaman dari Lapangan, ed. Siti
+Kholifah dan I Wayan Suyadnya, 1 ed. (Depok: Rajawali Pers, 2018), 191.
+36
+Karen E. Johnson dan Robert E. Stake, “The Art of Case Study Research,” The Modern Language
+Journal 80, no. 4 (1996): 556.
+37
+Malcolm Tight, Percival Symonds, dan Percival M. Symonds, “The Case Study as a Research
+Method,” in Case Studies, 2016, 15–15.
+38
+R.K. Yin, Studi Kasus Desain dan Metode (Jakarta: Raja Grafindo Perkasa, 2013).
+39
+Mohammad Siddiq dan Hartini Salama, “Etnografi Sebagai Teori Dan Metode,” Kordinat: Jurnal
+Komunikasi antar Perguruan Tinggi Agama Islam 18, no. 1 (2019): 23–48.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|261
+
+S.E. Zaluchu: Metode Penelitian di dalam Manuskrip Jurnal Ilmiah Keagamaan
+
+kebudayaan lain yang tidak sama dengan lingkup kebudayaan peneliti itu sendiri. Menurut
+Sutopo dan Nurhadi, penelitian etnografi memerlukan informasi yang lengkap dan dalam.
+Oleh sebab itu melalui metode ini peneliti umumnya menggali seluruh informasi di dalam
+kehidupan masyarakat yang diteliti dengan cara tinggal di antara mereka dan melakukan
+integrasi sehingga ikut merasakan hal yang sama dengan pengalaman masyarakat setempat.
+Hasil yang diperoleh dari penelitian ini diinterpretasikan melalui kajian teori yang ada.40
+Untuk melakukan penelitian etnografi, pertama-tama peneliti merumuskan masalah
+penelitian. Pertanyaan yang menjadi titik tolaknya adalah, “Apa makna budaya yang
+digunakan oleh masyarakat untuk mengatur tingkah laku dan menginterpretasikan
+pengalaman mereka?” Langkah berikutnya adalah peneliti mulai mengumpulkan seluruh
+data kebudayaan yang berkaitan dengan jawaban atas pertanyaan tersebut. Setelah data ini
+terkumpul, peneliti melakukan anaisis, membuat pola dan mempelajari hubungan antar-pola.
+Dari sini, menurut Spradley, dihasilkan sebuah hipotesis etnografi yang menjadi acuan
+utama untuk menuliskan laporan etnografi.41
+ANALISIS
+Sebuah penelitian agama sangat bergantung pada metode yang dipilih untuk
+melaksanakan penelitian tersebut. Oleh sebab itu, dituntut kehati-hatian peneliti di dalam
+memilih dan merumuskan metode penelitiannya karena itu akan mewarnai seluruh proses
+analisis hingga pembuatan laporan. Kemampuan peneliti di dalam merumuskan metode
+penelitiannya sangat menentukan validitas dan bobot ilmiah dari sebuah penelitian.
+Permasalahan yang terjadi selama ini adalah, peneliti hanya memilih metode secara umum
+dan universal. Pada kenyataannya, sebuah metode penelitian harus dirumuskan dengan baik
+sesuai dengan maksud dan tujuan penelitian itu sendiri.
+Untuk merumuskan metode penelitian di dalam paper jurnal bertema keagamaan,
+selain menjelaskan hal teknis mengenai metode yang dipilih, peneliti wajib menguraikan
+alur analisis serta sistematika yang ada di dalam paper. Alur analisis akan memperlihatkan
+peta jalan pemikiran peneliti terhadap penelitian yang telah dilaksanakannya. Hal ini akan
+memberikan gambaran kepada pembaca mengenai desain penelitian dan membawa pembaca
+berada di dalam pemahaman yang sama mengenai desain tersebut. Sementara itu,
+sistematika akan menggambarkan runtut analisis yang ditempuh peneliti di dalam
+40
+
+Dhanny S. Sutopo dan Iwan Nurhadi, “Etnografi,” in Metodologi Penelitian Kualitatif - Berbagi
+Pengalaman dari Lapangan, ed. Siti Kholifah dan I Wayan Suyadnya, 1 ed. (Depok: Rajawali Pers, 2018),
+140.
+41
+James Spradley, Etnografi, 2 ed. (Yogyakarta: Tiara Wacana, 2006), 131–132.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|262
+
+Jurnal Teologi Berita Hidup, Vol 3, No 2, Maret 2021
+
+melaporkan penelitiannya. Dengan kata lain, metode yang dipergunakan, desain penelitian
+dan sistematika laporan adalah bagian yang saling terintegrasi dan harus terlihat di dalam
+sebuah metode penelitian jurnal ilmiah.
+Melalui metode yang jelas, teknis dan komprehensif, maka asumsi-asumsi mengenai
+sulitnya melakukan penelitian agama dapat teratasi atau paling tidak diminimalisir. Perlu
+disadari bahwa penelitian agama memiliki tingkat kesukaran tertentu karena menyangkut
+ukuran-ukuran rohani, kehidupan spiritual dan prinsip-prinsip dogmatis. Mereduksi seluruh
+konsep tersebut ke dalam sebuah desain penelitian yang terukur, membawa masalah dan
+sejumlah kesukaran. Hal tersebut disadari oleh Waardenburgh bahwa menjadikan agama
+sebagai bahan kajian merupakan hal yang sukar. Menurutnya ada dua permasalahan utama.
+Pertama, studi agama menuntut objektifitas dan penjarakan terhadap objek kajian sementara
+secara faktual, peneliti adalah orang yang beragama. Presuposisi sebagai penganut agama
+dapat mengancam kredibilitas dan validitas penelitian. Kedua, secara tradisional, agama
+dipahami sebagai sesuatu yang suci, skaral dan agung. Melakukan penelitian terhadap halhal tersebut dapat berpotensi mereduksi, mengancum, mengguncang bahkan merusak nilainilai tradisional menyangkut epistemologi doktrinal.42
+Untuk mengatasi hal tersebut, maka desain penelitian yang akurat perlu dirumuskan
+dengan baik dan benar. Sebab, metode penelitian dengan sendirinya menjadi dan
+menjelaskan batasan-nya di dalam mengkaji dan mengukur hal-hal yang berkaitan dengan,
+misalnya iman, keyakinan, asas kepercayaan dan prinsip-prinsip doktrinal lainnya.
+KESIMPULAN
+Untuk mengatasi lemahnya metode penelitian ada dua hal yang perlu dilakukan.
+Pertama, membentuk wawasan, pemahaman dan pengetahuan penulis, dosen dan peneliti
+mengenai cara kerja ilmiah dan aneka ragam metode penelitian di dalam ranah ilmu sosial
+dan humaniora. Harus disadari bahwa tidak semua metode penelitian ilmu sosial relevan
+untuk diterapkan dalam domain penelitian teologis. Melalui pengetahuan yang telah
+diperoleh, diharapkan dosen dan peneliti memiliki kemampuan untuk memilih metode
+penelitian yang tepat dan valid terhadap penelitian teologis yang dijalankannya. Kedua
+adalah aspek praktis. Dosen dan peneliti di lingkup keilmuan teologis perlu diperlengkapi
+dengan keterampilan penulisan. Kemampuan ini sangat penting mengingat dosen dituntut
+berperan aktif untuk menghasilkan karya penelitian di dalam luaran jurnal ilmiah. Tanpa
+42
+
+Jacques Waardenburgh, Classical Approach to the Study of Reiigion (London: The Hague, 1973),
+
+3–4.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|263
+
+S.E. Zaluchu: Metode Penelitian di dalam Manuskrip Jurnal Ilmiah Keagamaan
+
+kemampuan dan keterampilan menulis maka implementasi Tri Darma Perguruan Tinggi
+tidak akan dapat diwujudkan.
+Metode penelitian di dalam struktur penulisan jurnal untuk topik keagamaan
+bukanlah sekadar paragraf yang bersifat umum, yang hanya sekadar ditulis dan dilaporkan
+dalam rangka memenuhi sistematika IMRaD. Metode penelitian pada sadarnya adalah unsur
+hakiki yang menjembatani tercapainya tujuan penelitian dengan novelty yang kuat. Berkaitan
+dengan hal tersebut dapat disimpulkan bahwa rincian yang jelas mengenai prosedur teknis
+di dalam penelitian mutlak diperlukan. Penjelasan deskriptif tentang alur berpikir dan
+sistematika penulisan menjadi pelengkap yang terintegrasi di dalam paragraf metode. Hal
+tersebut menjadi pemandu yang menguntungkan penulis sendiri ketika mengerjakan
+penelitian dan penulisan manuskripnya. Itu sebabnya warna penelitian dapat dibaca dari
+metode yang dipaparkan penulis. Di sisi lain, metode yang spesifik membangun batasan
+yang mengatur dan mengontrol peneliti untuk tetap berjalan di atas rel teknis penelitian.
+Melalui metode, peneliti memiliki pegangan untuk menjalankan penelitian sehingga dapat
+instrumen penelitian dan pengukuran serta pengumpulan data dan analisis yang dilakukan
+dapat dipertanggung-jawabkan validitasnya dan bobot ilmiahnya.
+Kontribusi Penelitian
+Paper ini memberikan wawasan kepada dosen dan peneliti di dalam menulis dan
+merumuskan metode dalam paper jurnal ilmiah dan menyumbang materi dalam penulisan
+karya ilmiah.
+Rekomendasi Penelitian Lanjutan
+Penelitian ini dapat dilanjutkan dengan menggali tingkat pemahaman dosen atau
+peneliti tentang metode penelitian secara khusus di lingkup PTKK. Juga diusulkan untuk
+melakukan Systematik Literarture Review (SLR) terhadap metode-metode di dalam paper
+jurnal ilmiah keagamaan dalam sepuluh tahun terakhir untuk melihat tren dan
+kecederungannya.
+REFERENSI
+Bennett, Andrew, dan Nicholas Royle. An introduction to literature, criticism and theory.
+An Introduction to Literature, Criticism and Theory, 2016.
+Carey, Stephen S. Kaidah Kaidah Metode Ilmiah - Penduan untuk Penelitian dan Critical
+Thinking. Bandung: Nusa Media, 2015.
+Cargill, Margaret, dan Patrick O’Connor. Writing Scientific Research Articles - Strategy
+and Steps. West Sussex, UK: John Wiley & Sons, Inc., 2009.
+Chawa, Anif F., Lutfi Amiruddin, dan A. Imron Rozuli. “Pendekatan Studi Kasus dalam
+Penelitian Kualitatif Sosiologi.” In Metodologi Penelitian Kualitatif - Berbagi
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|264
+
+Jurnal Teologi Berita Hidup, Vol 3, No 2, Maret 2021
+
+Pengalaman dari Lapangan, diedit oleh Siti Kholifah dan I Wayan Suyadnya. 1 ed.
+Depok: Rajawali Pers, 2018.
+Dhavamony, Mariasusai. Fenomenologi Agama. 9 ed. Yogyakarta: Kanisius, 2015.
+Djamba, Yanyi K., dan W. Lawrence Neuman. “Social Research Methods: Qualitative and
+Quantitative Approaches.” Teaching Sociology 30, no. 3 (2002): 380.
+Fink, Arlene. Conducting Research Literature Reviews: From the Internet to Paper (4th
+edition). SAGE Publications, 2014.
+Garz, Marcel. “Quantitative methods.” In Management and Economics of Communication,
+109–127, 2020.
+Greenberg, Moshe. “Exegesis.” In 20th Century Jewish Religious Thought: Original
+Essays on Critical Concepts, Movements, and Beliefs, 211–218, 2009.
+Harahap, Syahrin. Metodologi Studi Tokoh dan Penulisan Biografi. 2 ed. Jakarta: Prenada
+Media Group, 2014.
+Johnson, Karen E., dan Robert E. Stake. “The Art of Case Study Research.” The Modern
+Language Journal 80, no. 4 (1996): 556.
+Kahija, YF La. Penelitian Fenomenologis [Phenomenology Research]. Yogyakarta:
+Penerbit Kanisius, 2017.
+Knopf, Jeffrey W. “Doing a Literature Review.” PS - Political Science and Politics, 2006.
+Kusumawanti, Nike, dan Ucca Arawindha. “Desain Riset Penelitian Fenomenologi.” In
+Metodologi Penelitian Kualitatif - Berbagi Pengalaman dari Lapangan, diedit oleh
+Siti Kholifah dan I Wayan Suyadnya. 1 ed. Jakarta: Raja Grafindo Perkasa, 2018.
+Lindsay, David. Scientific writing = thinking in words. Collingwood, Australia: CSIRO
+Publishing, 2011.
+Main, Abdul. “Fenomenologi sebagai Filsafat dan Metode dalam Penelitian Sosiologi.” In
+Fenomenologi Dalam Penelitian Sosial [Phenomenology in Social Research],
+diedit oleh Muhammad Farid dan Moh. Adib. Jakarta: Prenada Media Group, 2018.
+Mangum, Douglas, dan Douglas Estes, ed. Literary Approaches to The Bible. Bellingham,
+WA: Lexam Press, 2017.
+Meyer, Christine Benedichte. “A Case in Case Study Methodology.” Field Methods 13, no.
+4 (2001): 329–352.
+Morissan. Metode Penelitian Survey. 5 ed. Jakarta: Prenada Media Group, 2012.
+Neuman, W. Lauwrence Lawrence. Metodologi Penelitian Sosial: Pendekatan Kualitatif
+dan Kuantitatif. 7 ed. Jakarta: PT. Indeks, 2016.
+Osborne, Grant R. Spiral Hermeneutika: Pengantar Komprehensif Bagi Penafsiran
+Alkitab. Surabaya: Momentum, 2012.
+Porter, Stanley E. Handbook to Exegesis of the New Testament. New Testament tools and
+studies, 2002.
+Rennie, David L. “Qualitative research as methodical hermeneutics.” Psychological
+Methods 17, no. 3 (2012): 385–398.
+Sevilla, Consuelo C., Jesus A. Ochave, Twila G. Punsalan, Bella P. Regala, dan Gabriel G.
+Uriarte. Pengantar Metode Penelitian. 1 ed. Jakarta: Penerbit Universitas
+Indonesia, 2006.
+Shah, Jay N. “How to write ‘method’ in scientific journal article.” Journal of Patan
+Academy of Health Sciences 2, no. 2 (Desember 2015): 1–2.
+Siddiq, Mohammad, dan Hartini Salama. “Etnografi Sebagai Teori Dan Metode.”
+Kordinat: Jurnal Komunikasi antar Perguruan Tinggi Agama Islam 18, no. 1
+(2019): 23–48.
+Silalahi, Uber. Metode Penelitian Sosial Kuantitatif. 5 ed. Bandung: Refika Aditama,
+2017.
+Sitompul, A.A., dan Ulrich Beyer. Metode Penafsiran Alkitab [Methods for the Bible
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|265
+
+S.E. Zaluchu: Metode Penelitian di dalam Manuskrip Jurnal Ilmiah Keagamaan
+
+Interpretation]. 14 ed. Jakarta: BPK Gunung Mulia, 2009.
+Soulen, Richard N., dan R. Kendall Soulen. Handbook of Biblical Criticism. Louisville,
+Kentucky: Westminster John Knox Press, 2001.
+Spradley, James. Etnografi. 2 ed. Yogyakarta: Tiara Wacana, 2006.
+Stell, Stephen L. “Hermeneutics in Theology and the Theology of Hermeneutics: Beyond
+Lindbeck and Tracy.” Journal of the American Academy of Religion 61, no. 4
+(1993): 679–703.
+Sudaryono, dan Widodo. Metodologi Penelitian. Depok: Raja Grafindo Perkasa, 2018.
+Sutopo, Dhanny S., dan Iwan Nurhadi. “Etnografi.” In Metodologi Penelitian Kualitatif Berbagi Pengalaman dari Lapangan, diedit oleh Siti Kholifah dan I Wayan
+Suyadnya. 1 ed. Depok: Rajawali Pers, 2018.
+Tight, Malcolm, Percival Symonds, dan Percival M. Symonds. “The Case Study as a
+Research Method.” In Case Studies, 15–15, 2016.
+Tranfield, David, David Denyer, dan Palminder Smart. “Towards a Methodology for
+Developing Evidence-Informed Management Knowledge by Means of Systematic
+Review.” British Journal of Management 14, no. 3 (2003): 207–222.
+Waardenburgh, Jacques. Classical Approach to the Study of Reiigion. London: The Hague,
+1973.
+WIlliams, Anneli. Research: Improve your reading and referencing skills. 1 ed.
+Hammersmith, London: HarperCollins Publishers, 2013.
+Yin, R.K. Studi Kasus Desain dan Metode. Jakarta: Raja Grafindo Perkasa, 2013.
+Zaluchu, Sonny Eli. “Analisis Narrative Criticism Kisah Simson dan Ironi Kehidupannya
+di Dalam Kitab Hakim-Hakim.” Jurnal Ilmiah Religiosity Entity Humanity (JIREH)
+2, no. 2 (Desember 2020): 100–113.
+———. “Pola Hermenetik Sastra Hikmat Orang Ibrani.” Evangelikal: Jurnal Teologi Injili
+dan Pembinaan Warga Jemaat 3, no. 1 (2019): 21–29.
+———. “Strategi Penelitian Kualitatif dan Kuantitatif Di Dalam Penelitian Agama.”
+Evangelikal: Jurnal Teologi Injili dan Pembinaan Warga Jemaat 4, no. 1 (2020):
+28–38.
+Zaro Vera, Juan Jesús. “Literature as study and resource: the purposes of English literature
+teaching at university level.” Revista Alicantina de Estudios Ingleses, no. 4 (1991):
+163–175.
+“How to Write the Methods Section of a Scientific Article - Enago Academy.” Enago
+Academy.
+“Study Tips for Literature | Signet Education.” Signet Education.
+
+Copyright© 2021; Jurnal Teologi Berita Hidup, ISSN 2654-5691 (online), 2656-4904 (print)|266
+
+

@@ -1,0 +1,938 @@
+Perspektif: Jurnal Ekonomi & Manajemen Universitas Bina Sarana Informatika
+Volume 18 No. 2 September 2020
+P-ISSN 1411-8637 E-ISSN 2550-1178
+DOI: https://doi.org/10.31294/jp.v17i2
+
+Analisis Pengangguran dan Pertumbuhan Ekonomi sebagai Akibat
+Pandemi Covid-19
+Siti Indayani1, Budi Hartono2
+Fakultas Ekonomi Universitas Tidar Magelang
+e-mail: 1sitiindayani6897@gmail.com, 2hartono.budi@untidar.ac.id
+1,2
+
+Diterima
+04-07-2020
+
+Direvisi
+07-10-2020
+
+Disetujui
+30-09-2020
+
+Abstrak - Pengangguran dan pertumbuhan ekonomi menjadi salah satu indikator ekonomi makro. Artikel ini
+membahas tentang permasalahan pengangguran dan pertumbuhan ekonomi negara Indonesia pada masa Pandemi
+Coronavirus 2019 (Covid-19) melanda. Tujuan dari penulisan artikel adalah untuk melihat dan mengasumsikan
+seberapa besar tingkat pengangguran di Indonesia dan seberapa besar penurunan pertumbuhan ekonomi
+Indonesia pada awal tahun 2020 terutama saat terjadi Pandemi Covid-19. Artikel ini ditulis menggunakan
+pendekatan penelitian kualitatif dan penelitian kepustakaan. Dari hasil analisis menunjukan bahwa pertumbuhan
+ekonomi di Indonesia dapat diukur melalui peningkatan atau penurunan produk domestik bruto (PDB/GDP)
+yang dihasilkan suatu negara, karena indikator yang berhubungan dengan jumlah pengangguran adalah GDP.
+Pada masa pandemi Covid-19 ini pertumbuhan ekonomi Indonesia mengalami penurunan. Pelambatan
+pertumbuhan ekonomi saat wabah coronavirus menyerang menjadi sebesar 2,97% (year on year). Sedangkan
+pengangguran mengalami peningkatan akibat terjadi pemutusan hubungan kerja. Sejumlah 212.394 pekerja yang
+terkena PHK. Dengan adanya penurunan tingkat pertumbuhan ekonomi tersebut, maka tingkat pengangguran di
+Indonesia juga mengalami kenaikan. Sehingga, kenaikan jumlah pengangguran dapat mengakibatkan defisit
+anggaran negara bertambah. Peningkatan defisit yang dialami Anggaran Pendapatan dan Belanja Negara
+(APBN) tahun 2020 hingga menjadi sebesar 6,27% diukur dari produk domestik bruto (PDB).
+Kata Kunci: Pengangguran, Pertumbuhan Ekonomi, dan Wabah Coronavirus
+Abstract - Unemployment and economic growth become one of the macroeconomic indicators. This article
+discusses the problem of unemployment and economic growth in Indonesia during the 2019 pandemic
+Coronavirus (Covid-19). The purpose of writing articles is to see and assumption how big the unemployment
+rate is in Indonesia and how much the decline in Indonesia's economic growth in early 2020 especially during
+the Covid-19 Pandemic. This article was written using qualitative research methods and library research. From
+the results of the analysis show that economic growth in Indonesia can be measured through an increase or
+decrease in gross domestic product (GDP) produced by a country, because the indicator relating to the amount
+of unemployment is GDP. During the Covid-19 pandemic, Indonesia's economic growth experienced a decline.
+Slowing economic growth when the coronavirus outbreak hits was 2.97% (year on year). While unemployment
+has increased due to layoffs. A total of 212,394 workers were laid off. With this decline in economic growth, the
+unemployment rate in Indonesia has also increased. Thus, an increase in unemployment can result in an
+increase in the country's budget deficit. The increase in deficit experienced by the State Budget (APBN) in 2020
+to 6.27% measured from gross domestic product (GDP).
+Key Word: Unemployment, Growth Economic, and Coronavirus Epidemic
+
+http://ejournal.bsi.ac.id/ejurnal/index.php/perspektif
+
+201
+
+Perspektif: Jurnal Ekonomi & Manajemen, Volume 18 No. 2 September 2020
+P-ISSN 1411-8637 E-ISSN 2550-1178
+
+PENDAHULUAN
+Keberhasilan pembangunan suatu negara dilihat dari
+beberapa indikator. Salah satu indikator penting
+dalam keberhasilan pembangunan negara yaitu
+pertumbuhan ekonomi dan tingkat pengangguran.
+Pertumbuhan ekonomi merupakan pendapatan negara
+yang mengalami kenaikan secara nasional agregatif
+ataupun peningkatan output dalam suatu periode
+tertentu. Makna lainnya dari pertumbuhan ekonomi
+yakni pertumbuhan ekonomi yang menunjukan
+peningkatan kapasitas produksi dalam barang dan
+jasa dengan fisik sesuai pada kurun waktu tertentu.
+Pertumbuhan tersebut dapat diketahui melalui
+bertambahnya produksi barang industri, jumlah
+sekolah, berkembangnya infrastruktur, bertambahnya
+sektor jasa, serta bertambahnya produksi barang
+modal. Setiap negara akan berupaya untuk menaikan
+dan memberikan hal yang terbaik guna mendukung
+pertumbuhan ekonomi negara dengan optimal.
+Termasuk Indonesia, yang merupakan salah satu
+negara berkembang yang berupaya menaikan
+pertumbuhan ekonominya guna kesejahteraan
+masyarakat dan kehidupan yang lebih baik.
+Kondisi di negara berkembang seperti Indonesia,
+pertumbuhan ekonomi yang dicapai juga diiringi
+dengan meningkatnya jumlah penduduk Indonesia.
+Jumlah penduduk Indonesia masih banyak yang
+menjadi pengangguran. Berdasarkan data dari Badan
+Pusat Statistik (BPS) tingkat pengangguran terbuka
+di Indonesia pada tahun 2020 bulan Februari tercatat
+sebesar 05,01 persen. Pengangguran merupakan
+selisih antara angkatan kerja dengan penggunaan
+tenaga kerja yang sebenarnya. Sedangkan tingkar
+pengangguran terbuka sendiri diartikan sebagai
+persentase jumlah pengangguran terhadap jumlah
+angkatan kerja. Pengangguran terbuka terdiri dari
+orang yang tidak mempunyai pekerjaan dan mencari
+pekerjaan, orang yang tidak mempunyai pekerjaan
+dan mempersiapkan usaha, orang yang tidak
+mempunyai pekerjaan dan tidak mencari pekerjaan
+karena merasa tidak mungkin mendapatkan pekerjaa,
+serta orang yang sudah mempunyai pekerjaan tetapi
+belum mulai bekerja.
+Tingkat pengangguran yang tinggi merupakan
+masalah mendasar dalam ketenagakerjaan di
+Indonesia. Ihwal tersebut dikarenakan oleh tenaga
+kerja baru yang bertambah jauh lebih besar
+dibandingkan dengan pertambahnya lapangan
+pekerjaan. Artinya, lapangan pekerjaan yang tersedia
+belum memenuhi tingkat tenaga kerja yang ada di
+Indonesia.
+Sehingga
+menimbulkan
+tingkat
+pengangguran yang tinggi. Pengangguran menjadi
+masalah bagi negara yang tingkat pertumbuhan
+penduduknya tinggi, seperti Indonesia. Pengangguran
+juga dapat mempengarhi tingkat perekonomian
+Indonesia. Hal itu disebabkan oleh pendapatan
+negara juga akan berkurang. Karena, pendapatan
+http://ejournal.bsi.ac.id/ejurnal/index.php/perspektif
+
+nasional negara diukur dari persentase jumlah
+seluruh pendapatan masyarakat Indonesia yang
+berpenghasilan dibagi dengan jumlah seluruh
+penduduk Indonesia. Jika jumlah penghasilan lebih
+sedikit maka rata-rata pendapatan nasional negara
+akan lebih kecil karena jumlah penduduk belum
+sebanding dengan jumlah pendapatan nasional.
+Pengangguran menjadi suatu permasalahan jangka
+pendek suatu negara.
+Pada awal tahun 2020, pertumbuhan ekonomi dunia
+mengalami penurunan, termasuk Indonesia. Perihal
+tersebut disebabkan karena wabah yang melanda
+seluruh Indonesia, yaitu adanya Coronavirus
+Disease. Coronavirus adalah keluarga besar virus
+yang menyebabkan penyakit mulai dari gejala ringan
+sampai berat. Dengan adanya coronavirus ini yang
+melanda di seluruh negara di dunia, sekitar 200
+negara lebih yang terkena wabah ini. Sehingga, pada
+tanggal 30 Januari 2020 World Healthy Organization
+menetapkan
+sebagai
+kedaruratan
+kesehatan
+masyarakat yang meresahkan dunia. Pada tanggal 11
+Maret 2020 Organisasi kesehatan Dunia (WHO)
+resmi mengumumkan bahwa wabah Coronavirus
+sebagai pandemi global. Coronavirus (COVID-19)
+ini memiliki dampak bagi pertumbuhan ekonomi
+yang berupa menurunya tingka perekonomian dunia
+terkhusus Indonesia.
+Berdasarkan
+kutipan
+yang
+berasal
+dari
+nasional.kontan.co.id beberapa dampak yang
+dihasilkan dari adanya Virus Corona ini antara lain,
+angka impor Indonesia merosot sebesar 3,7% year to
+date (ytd) dalam rentang waktu Januari sampai Maret
+2020. Ihwal lainnya, sejumlah 12.703 lebih
+penerbangan di 15 bandara dibatalkan. Pembatalan
+tersebut selama Januari sampai Februari. Rincian
+penerbangan yaitu 11.680 penerbangan domestik dan
+1.023 penerbangan internasional. Dikutip dari
+cnnindonesia.com, bahwa Menteri Keuangan, Sri
+Mulyani Indrawati dalam video conference di Jakarta
+pada Rabu, 1 April 2020, mengatakan jika
+pertumbuhan ekonomi Indonesia diperkirakan turun
+sebesar 2.3% bahkan dapat menembus angka -0,4%
+sebagai akibat dari adanya Coronavirus ini.
+Dengan adanya beberapa permasalahan tersebut,
+pemerintah menerapkan beberapa kebijakan untuk
+mengatasi pandemi global ini. Kebijakan yang
+diterapkan salah satunya yaitu dengan penerapan
+social distansing. Social distansing berarti upaya
+mengurangi kontak jarak dekat dengan banyak orang
+atau yang dapat dikenal juga dengan istilah physical
+distancing. Kedua kebijakan ini digunakan untuk
+mengatasi tekanan dari angka beban pada layanan
+kesehatan. Kebijakan tersebut dilakukan dengan
+menjalankan aktivitas sehari-hari masyarakat
+
+202
+
+Perspektif: Jurnal Ekonomi & Manajemen, Volume 18 No. 2 September 2020
+P-ISSN 1411-8637 E-ISSN 2550-1178
+
+Indonesia di rumah. Mulai dari belajar, bekerja, dan
+kegiatan keagamaan di rumah.
+
+sedang berkembang digunakan istilah pembangunan
+ekonomi.
+
+Setiap hari angka kasus COVID-19 di Indonesia
+bertambah.
+Bertambahnya
+kasus
+tersebut
+menyebabkan pemerintah meberlakukan kebijakan
+baru,yang dikenal dengan Pembatasan Sosial
+Berskala Besar (PSBB). Kebijakan PSBB ini
+diterapkan dibeberpa wilayah Indonesia yang
+mengalami kasus COVID-19 tertinggi, seperti
+Wilayah
+Jakarta.
+Selain
+itu,
+COVID-19
+menyebabkan tenaga kerja yang tidak memiliki
+pekerjaan tetap atau sebagai buruh harian berhenti
+bekerja. Hal itu, menimbulkan pendapatan
+masyarakat juga berkurang. Ketika pendapatan
+masyarakat menurun, maka pendapatan nasional juga
+akan menurun. Oleh karena itu, pertumbuhan
+ekonomi juga melemah.
+
+Dalam penelitian Moh. Arif Novriansyah (2018)
+yang berjudul Pengaruh Pengangguran dan
+Kemiskinan Terhadap Pertumbuhan Ekonomi di
+Provinsi Gorontalo, Murni (2009) kembali
+menjelaskan bahwa faktor yang menunjang
+pertumbuhan ekonomi antara lain: sumber kekayaan
+alam (R), sumber daya manusia (L), sumber daya
+modal (K), teknologi dan inovasi (T), keahlian
+berupa manajemen dan kewiraswataan (S), dan
+informasi (Inf). Semua faktor ini sangat
+mempengaruhi pertumbuhan GNP suatu negara.
+
+Kondisi saat pandemi ini dengan berbagai gambaran
+di atas, Indonesia belum bisa meningkatkan
+pertumbuhan ekonomi secara signifikan. Tujuan
+penelitian adalah untuk mengestimasi pengaruh
+tingkat pengangguran terhadap pertumbuhan
+ekonomi Indonesia.
+Berdasarkan latar belakang masalah pada penelitian
+ini, maka rumusan masalah yang dijadikan sebagai
+batasan masalah bagi penulis dalam penelitian ini
+adalah, bagaimana estimasi tingkat pengangguran
+terhadap pertumbuhan ekonomi Indonesia.
+Permasalahan penelitian yang penulis ajukan ini
+dapat diidentifikasi permasalahannya yaitu, pertama,
+tingkat pertumbuhan ekonomi Indonesia pada awal
+tahun 2020 yang mengalami penurunan. Kedua,
+tingkat pengangguran di Indonesia belum
+terselesaikan secara optimal, terutama pada kondisi
+dan situasi pandemi COVID-19 ini banyak tenaga
+kerja yang mengalami pemutusan hubungan kerja
+dari perusahaan masing-masing.
+Pertumbuhan Ekonomi
+Pertumbuhan ekonomi merupakan proses kenaikan
+jumlah produksi suatu perekonomian atau perubahan
+kondisi perekonomian suatu negara secara
+berkesinambungan dan diwujudkan dalam bentuk
+kenaikan pendapatan nasional dalam periode tertentu.
+Adapun menurut Shumpeter, dalam Putong (2010)
+bahwa pertumbuhan ekonomi adalah pertambahan
+output (pendapatan nasional) yang disebabkan oleh
+pertambahan alami dari tingkat pertambahan
+penduduk dan tingkat tabungan. Sedangkan menurut
+beberapa pakar ekonomi pembangunan, pertumbuhan
+ekonomi adalah merupakan istilah bagi negara yang
+telah
+maju
+untuk
+menyebut
+keberhasilan
+pembangunannya, sementara itu untuk negara yang
+
+http://ejournal.bsi.ac.id/ejurnal/index.php/perspektif
+
+Todaro (2000) dalam penelitian Amin Pujiati yang
+berjudul ‘Analisis Pertumbuhan Ekonomi di
+Karesidenan Semarang Era Desentralisasi Fiskal’,
+mengemukakan bahwa terdapat tiga faktor atau
+komponen utama dalam pertumbuhan ekonomi dari
+setiap bangsa, ketiganya adalah: Akumulasi modal
+yang meliputi semua bentuk atau jenis investasi baru
+yang ditanamkan pada tanah, peralatan fisik dan
+modal atau sumber daya manusia, Pertumbuhan
+penduduk beberapa tahun selanjutnya yang akan
+memperbanyak jumlah akumulasi kapital, kemajuan
+teknologi.
+Model pertumbuhan neo-klasik dipelopori oleh
+Robert M. Solow pada tahun 1950-an. Model
+pertumbuhan ini telah diterapkan dalam berbagai
+studi empiris di banyak negara. Asumsi dasar yang
+dipakai dalam model ini antara lain, keluaran dihasilkan dari penggunaan dua jenis masukan yaitu
+modal dan tenaga kerja, perekonomian berada pada
+kondisi
+penggunaan
+tenaga
+kerja
+penuh,
+perekonomian berada dalam kondisi persaingan
+sempurna.
+Pengangguran
+Menurut Sukirno (2008: 13) dalam penelitian Rovia
+Nugrahani Pramesthi (2013), pengangguran adalah
+seseorang yang sudah digolongkan dalam angkatan
+kerja, yang secara aktif sedang mencari pekerjaan
+pada suatu tingkat upah tertentu, tetapi tidak dapat
+memperoleh pekerjaan yang diinginkan. Searah
+dengan pendapat diatas yamg dikutip dari penelitian
+Rovia Nugrahani Pramesthi (2013) yang berjudul
+‘Pengaruh Pengangguran dan Inflasi Terhadap
+Pertumbuhan Ekonomi di Kabupaten Trenggalek’,
+Murni (2006: 197) pengangguran adalah orang-orang
+yang usianya berada dalam usia angkatan kerja dan
+sedang mencari pekerjaan.
+Murni (2009: 191) memberikan penjelasan bahwa
+istilah pengangguran selalu dikaitkan dengan
+angkatan kerja (labor force). Angkatan kerja adalah
+bagian dari penduudk yang berusia antara 15 tahun
+sampai dengan 65 tahun, yang mempunyai kemauan
+
+203
+
+Perspektif: Jurnal Ekonomi & Manajemen, Volume 18 No. 2 September 2020
+P-ISSN 1411-8637 E-ISSN 2550-1178
+
+dan kemampuan untuk bekerja, serta mereka yang
+sedang mencari pekerjaan.
+Pengangguran berkaitan erat dengan tenaga kerja,
+menurut
+Payaman
+J.
+Simanjuntak
+(1985)
+menyebutkan bahwa tenaga kerja adalah mencakup
+penduduk yang sudah atau sedang bekerja, sedang
+mencari pekerjaan dan melakukan kegiatan lainnya,
+seperti bersekolah dan mengurus rumah tangga.
+Menurut BPS penduduk berumur 10 tahun ke atas
+terbagi sebagai Angkatan Kerja (AK) dan bukan AK.
+Angkatan Kerja dikatakan bekerja bila mereka
+melakukan pekerjaan dengan maksud memperoleh
+atau membantu memperoleh pendapatan atau
+keuntungan dan lamanya bekerja paling sedikit 1
+(satu) jam secara kontinu selama seminggu yang lalu.
+Sedangkan penduduk yang tidak bekerja tetapi
+sedang mencari pekerjaan disebut menganggur,
+(Budi Santosa, 2001), yang dikutip dari penelitian
+Deddy Rustiono (2008). Jumlah angkatan kerja yang
+bekerja merupakan gambaran kondisi dari lapangan
+kerja yang tersedia. Semakin bertambah besar
+lapangan kerja yang tersedia maka akan
+menyebabkan semakin meningkatkan total produksi
+di suatu daerah.
+Pengangguran terbuka merupakan salah satu jenis
+pengangguran. Dikutip dari penelitian Rovia
+Nugrahani Pramesthi (2013) yang berjudul ‘Pengaruh
+Pengangguran dan Inflasi Terhadap Pertumbuhan
+Ekonomi di Kabupaten Trenggalek’, Sukirno (2008:
+330) menjelaskan bahwa pengangguran terbuka
+(opern unemployment) adalah tenaga kerja yang
+benar-benar
+tidak
+mempunyai
+pekerjaan.
+Pengangguran terbuka termasuk pengangguran yang
+sangat banyak karena memang belum mendapat
+pekerjaan meskipun sudah berusaha untuk mencapai
+pekerjaan.
+Studi Terdahulu
+Dampak Covid-19 tidak hanya dalam bidang
+kesehatan dan sosial, tetapi dalam bidang ekonomi
+juga menimbulkan dampak yang lebih komprehensif
+dari berbagai alternatif skenario penanganan pandemi
+Covid-19. Dikutip dari penelitian Silpa Hanoatubun
+(2020) yang berjudul ‘Dampak Covid-19 Terhadap
+Perekonomian Indonesia’, mengemukakan bahwa
+salah satu skenario penanganan Pandemi Covid-19
+yaitu skenario intervensi kuat, di mana dari hasil
+analisis sederhana dikatakan bahwa intervensi kuat
+untuk meminimalisasi penyebaran kasus coronavirus
+dapat menurunkan pertumbuhan ekonomi yang lebih
+parah. Skenario intervensi kuat, misalnya melalui
+pembatasan sosial berskala besar yang efektif. Selain
+pertumbuhan
+ekonomi,
+Pandemi
+Covid-19
+menimbulkan
+dampak terjadinya
+pemutusan
+hubungan kerja (PHK) atau dirumahkan.
+
+http://ejournal.bsi.ac.id/ejurnal/index.php/perspektif
+
+Dalam penelitian Hermanto Siregar dan Dwi
+Wahyuniarti (2008) mengatakan bahwa pertumbuhan
+ekonomi apabila kualitasnya kurang maka dapat
+diindikasikan dengan laju pengangguran yang masih
+relatif tinggi dan sulit atau lambat penurunannya
+(persistent). Rataan laju pengangguran sepanjang
+periode 1999-2006 justru positif yaitu sebesar 0,56
+persen dalam per tahunnya.
+Sedangkan dalam penelitian Alim (2007) dalam
+jurnal ekonomi nasional yang berjudul Analisis
+Faktor Penentu Pengangguran di Indonesia Periode
+1980-2007”, hasil penelitiannya menyatakan bahwa
+laju pertumbuhan ekonomi, pengeluaran pemerintah
+berpengaruh
+signifikan
+terhadap
+tingkat
+pengangguran terbuka di Indonesia, yang dikutip dari
+penelitian Rovia Nugrahani Pramesthi (2013).
+Dalam Artikel Umi Kalsum (2017) yang berjudul
+Pengaruh Pengangguran dan Inflasi Terhadap
+Pertumbuhan Ekonomi di Sumatera Utara, bahwa
+hasil penelitiannya menyatakan bahwa pengangguran
+berpengaruh signifikan terhadap pertumbuhan
+ekonomi. Pertumbuhan ekonomi dapat menurun pada
+setiap tahunnya karena ditunjukan dengan adanya
+pengangguran.
+Penelitian oleh Amri Amir (2007) yang berjudul
+“Pengaruh Inflasi dan Pertumbuhan Ekonomi
+terhadap Pengangguran di Indonesia”. Pada
+penelitian tersebut penulis ingin meneliti seberapa
+besar pengaruh inflasi dan pertumbuhan ekonomi
+terhadap pengangguran di Indonesia. Penelitian ini
+juga mengacu pada analisis kurva phillips serta
+menggunakan analisis regresi linear berganda. Hasil
+yang didapatkan dari penelitian ini, dapat
+disimpulkan bahwa ada pengaruh antara tingkat
+pengangguran dengan tingkat pertumbuhan ekonomi.
+Apabila pertumbuhan ekonomi meningkat 1 persen,
+maka pengangguran akan menurun sekitar 0,46
+persen. Dengan demikian, penggambaran kurva
+phillips yang menghubungkan inflasi dengan tingkat
+pengangguran untuk kasus Indonesia tidak tepat
+untuk digunakan sebagai kebijakan untuk menekan
+tingkat pengangguran. Hasil analisis statistik
+pengujian pengaruh inflasi terhadap pengangguran
+selama periode 1980 – 2005 ditemukan bahwa tidak
+ada pengaruh yang nyata antara inflasi dengan
+tingkat pengangguran.
+Definisi Operasional/Variabel
+Pertumbuhan Ekonomi adalah suatu kondisi dimana
+terjadinya perkembangan GDP (Gross Domestic
+Product) yang mencerminkan adanya pertumbuhan
+output perkapita dan meningkatnya standar hidup
+masyarakat, yang dihitung setiap tahunnya dalam
+persen.
+
+204
+
+Perspektif: Jurnal Ekonomi & Manajemen, Volume 18 No. 2 September 2020
+P-ISSN 1411-8637 E-ISSN 2550-1178
+
+Sedangkan pengangguran diukur melalui tingkat
+pengangguran. Tingkat pengangguran sendiri
+dihitung berdasarkan perbandingan antara jumlah
+orang yang menganggur dan jumlah angkatan kerja,
+yang dihitung pada setiap tahunnya dalam persen.
+
+METODE PENELITIAN
+Penelitian ini bertujuan untuk mengetahui dampak
+dari Pandemi Covid-19 terhadap pengangguran dan
+pertumbuhan Indonesia saat ini. Dalam penelitian ini
+penulis menggunakan pendekatan kualitatif. Sumber
+data penelitian ini adalah data sekunder. Data
+sekunder merupakan data yang telah ada pada obyek
+penelitian atau data hasil penelitian yang sudah
+pernah dilakukan sebelumnya, dimana data tersebut
+bersumber dari dokumen organisasi tersebut atau
+institusi lainnya, yang dianggap berkaitan atau
+relevan dengan masalah yang di bahas. Sedangkan
+untuk metode pengumpulan data yang digunakan
+penulis adalah metode penelitian kepustakaan
+(library research). Sumber data dalam artikel ini,
+penulis menggunakan data sekunder. Data sekunder
+merupakan data yang telah ada pada obyek penelitian
+atau data hasil penelitian yang sudah pernah
+dilakukan sebelumnya, dimana data tersebut
+bersumber dari dokumen organisasi tersebut atau
+institusi lainnya, yang dianggap berkaitan atau
+relevan dengan masalah yang di bahas. Sedangkan
+untuk metode pengumpulan data yang digunakan
+penulis adalah metode penelitian kepustakaan
+(library research). Menurut Indriantoro dan Supomo
+(2002: 152), dalam penelitian Moh Arif Novriansyah
+(2018), Penelitian Kepustakaan (library research)
+merupakan penelitian yang dilakukan dengan
+mengutip beberapa literatur-literatur seperti bukubuku, majalah, brosur dan karangan lainnya yang erat
+hubungannya dengan permasalahan yang diteliti.
+Dengan kata lain penulis mengumpulkan data yang
+sifatnya dokumen sehubungan dengan objek yang
+akan diteliti. Dengan menggunakan penelitian
+kepustakaan maka proses pengambilan data yang
+dilakukan, penulis tidak perlu terjun secara langsung
+ke dalam lapangan, tetapi dengan mengambil
+berbagai sumber referensi yang mendukung suatu
+penelitian ini. Selain itu, teknik pengumpulan data
+yang digunakan penulis yaitu menyimak dan
+mencatat informasi penting dalam melakukan analisis
+data dengan cara reduksi data, display data dan
+gambaran kesimpulan, sehingga mendapatkan suatu
+gambaran kesimpulan mengenai studi literatur untuk
+dikembangkan dalam penelitian ini. Sedangkan untuk
+validasi datanya menggunakan triangulasi sumber
+data.
+
+http://ejournal.bsi.ac.id/ejurnal/index.php/perspektif
+
+HASIL DAN PEMBAHASAN
+Secara teori setiap adanya peningkatan dalam
+pertumbuhan ekonomi Indonesia diharapkan dapat
+menyerap tenaga kerja, sehingga dapat mengurangi
+jumlah pengangguran. Pertumbuhan ekonomi di
+Indonesia dapat diukur melalui peningkatan atau
+penurunan produk domestik bruto (PDB/GDP) yang
+dihasilkan suatu negara, karena indikator yang
+berhubungan dengan jumlah pengangguran adalah
+GDP.
+Berdasarkan
+beberapa
+penelitian
+terdahulu
+menunjukkan hasil yang berbeda, hubungan
+Pertumbuhan Ekonomi dan jumlah pengangguran
+bersifat positif dan negatif. Pertumbuhan ekonomi
+melalui GDP yang bersifat positif dikarenakan
+pertumbuhan ekonomi tidak dibarengi oleh
+peningkatan
+kapasitas
+produksi,
+sehingga
+pengangguran tetap meningkat seiring dengan
+pertumbuhan ekonomi. Pertumbuhan ekonomi yang
+meningkat ini berorientasi pada padat modal, di mana
+kegiatan produksi untuk memacu output dan
+menghasilkan pendapatan yang meningkat lebih
+diutamakan ketimbang pertumbuhan ekonomi yang
+berorientasi pada padat karya.
+Penelitian lain yang menyatakan hubungan negatif
+antara
+pertumbuhan
+ekonomi
+dan
+jumlah
+pengangguran berpendapat bahwa pertumbuhan
+ekonomi yang meningkat di Indonesia memberikan
+peluang kerja baru ataupun memberikan kesempatan
+kerja dan berorientasi pada padat karya, sehingga
+pertumbuhan
+ekonomi
+mengurangi
+jumlah
+pengangguran.
+Anggaran Pendapatan dan Belanja Negara (APBN)
+pada tahun 2020 mengalami defisit, (Sumber:
+nasional.kontan.co.id). Defisit APBN di Indonesia
+pada tahun 2020 meningkat hingga menembus angka
+sebesar 6,27% dari produk domestik bruto (PDB),
+yang dikutip dari nasional.kontan.co.id. Peningkatan
+defisit ini sejalan dengan diterapkannya program
+pemulihan ekonomi nasional (PEN), yang
+dimaksudkan untuk penanggulangan dari dampak
+coronavirus sebagai pandemi global yang ada di
+dalam negara Indonesia ini.
+Kondisi Pertumbuhan Ekonomi Indonesia Saat
+Pandemi Covid-19
+Pertumbuhan ekonomi negara Indonesia di tengah
+wabah coronavirus mengalami penurunan. Perihal
+tersebut dikarenakan kebijakan yang diterapkan
+pemerintah untuk mencegah penyebaran virus
+corona. Kebijakan Pembatasan Sosial Berskala Besar
+(PSBB) dan lockdown, menjadi salah satu kebijakan
+yang diterapkan pemerintah. Sehingga, hal itu
+membuat sejumlah kegiatan perekonomian tidak
+dapat berjalan dengan lancar.
+
+205
+
+Perspektif: Jurnal Ekonomi & Manajemen, Volume 18 No. 2 September 2020
+P-ISSN 1411-8637 E-ISSN 2550-1178
+
+Pertumbuhan ekonomi Indonesia mengalami
+kelambatan yang menjadi dampak dari adanya
+pandemi COVID-19. Badan Pusat Statistik (BPS)
+menginformasikan bahwa ekonomi Indonesia
+tumbuh melambat sebesar 2,97% (year on year) yang
+terjadi pada kuartal I per tahun 2020. Jika
+dibandingkan dengan kuartal IV per tahun 2019
+pertumbuhan ekonomi Indonesia mengalami
+penurunan sebesar 2,41%. Pertumbuhan ekonomi
+melambat seiring dengan melemahnya daya beli
+masyarakat. Daya beli msayarakat merupakan ihwal
+yang menjadi komponen yang dijadikan alat ukur
+terhadap pengeluaran pertumbuhan ekonomi.
+Pertumbuhan konsumsi rumah tangga melemah. Pada
+kondisi pandemi ini pertumbuhan konsumsi rumah
+tangga mencapai 2,84%, hal itu melambat jika
+dibandingkan dengan kuartal IV per tahun 2019 yang
+dapat menembus angka 5,02%. Kinerja konsumsi
+mempunyai pengaruh yang signifikan terhadap
+pertumbuhan ekonomi, karena konsumsi rumah
+tangga dapat menopang lebih dari 50% produk
+domestik bruto.
+Kondisi Pengangguran Di Indonesia
+Hasil survey Badan Pusat Statistik tahun 2010
+jumlah penduduk Indonesia lebih dari 237 juta jiwa.
+Jumah penduduk Indonesia memiliki hubungan
+dengan
+pertumbuhan
+ekonomi dan angka
+pengangguran. Pada tahun 2007 jumlah penduudk
+Indonesia mencapai lebih dari 224 juta jiwa. Perihal
+tersebut berarti, jumlah penduduk 2007 jika
+dibandingkan dengan jumlah penduduk 2010 maka
+jumlah penduduk Indonesia dapat dikatakan
+mengalami kenaikan. Kenaikan jumlah penduduk
+dapat menimbulkan angka pengangguran juga
+mengalami kenaikan. Kenaikan angka pengangguran
+diakibatkan kenaikan jumlah penduduk yang tidak
+dapat diserap oleh lapangan pekerjaan yang tersedia.
+Faktor lain yang dapat menjadi angka pengangguran
+adalah kondisi lingkungan disebuah negara. Dengan
+adanya wabah coronavirus ini menyebabkan kegiatan
+ekonomi menjadi melemah dan terhambat.
+Perusahaan banyak yang terus melakukan proses
+produksinya tetapi tidak dapat dibarengi dengan
+pemasukan atau pendapatan. Sehingga, perusahaan
+tidak dapat menanggung biaya beban gaji atau upah
+untuk setiap karyawan. Perusahaan, pada akhirnya
+memutuskan untuk melakukan pemutusan hubungan
+kerja (PHK) kepada karyawan. Karyawan yang
+terkena PHK berasal dari sektor formal dan non
+formal.
+Pekerja sektor formal merupakan mereka yang
+berusaha dibantu buruh tetap, dan mereka yang
+menjadi buruh, karyawan, dan pegawai. Sedangkan
+pekerja sektor non formal adalah mereka yang
+berusaha sendiri, berusaha dibantu buruh tidak tetap,
+pekerja bebas, dan pekerja tidak dibayar.
+
+http://ejournal.bsi.ac.id/ejurnal/index.php/perspektif
+
+Pemutusan hubungan kerja tersebut berakibat kepada
+para karyawan, hingga para karyawan terkena
+dampak PHK yang harus kehilangan pekerjaannya
+dan dapat dikatakan pengangguran. Dikatakan
+pengangguran karena mereka mencari jalan keluar
+berupa pekerjaan lain sebagai alternatif dari
+pekerjaan sebelumnya. PHK yang dilakukan
+perusahaan kepada karyawan dilakukan untuk
+mengurangi jumlah beban yang ditanggung
+perusahaan saat kondisi pandemi. PHK dilakukan
+oleh beberapa perusahaan dan terhadap puluhan
+bahkan hingga ratusan karyawan atau pegawai.
+Berdasarkan data Kementerian Tenaga Kerja
+(Kemenaker), sejumlah 212.394 pekerja dari sektor
+formal terkena PHK, pekerja formal yang
+dirumahkan sejumlah 1.205.191 orang. Dari sektor
+nonformal, Kemenaker mencatat sekitar 282 ribu
+orang tidak memiliki penghasilan. Sementara itu,
+berdasarkan data BP Jamsostek, pekerja yang
+dirumahkan dan terkena PHK mencapai 454 ribu
+orang dari sektor formal, dan 537 ribu orang sektor
+non formal. Terlebih lagi jumlah pekerja di sektor
+informal di Indonesia lebih besar dibanding pekerja
+sektor formal, yakni mencapai 71,7 juta orang atau
+56,7 persen dari total jumlah tenaga kerja. Mayoritas
+dari mereka bekerja pada usaha skala mikro sebesar
+89 persen berdasarkan data di tahun 2018. Dari data
+tersebut, menjelaskan bahwa akibat pandemi
+COVID-19, beberapa sektor usaha melakukan PHK
+terhadap pekerjanya. Para karyawan atau pegawai
+banyak yang kehilangan pekerjaan mereka di tengah
+kelambatan ekonomi saat pandemi. Sektor terbanyak
+yang melakukan tindakan PHK yaitu sektor informal
+yang mencapai angka 71,7 juta orang. Dikutip dari
+nasional.kontan.co.id jumlah karyawan yang terkena
+PHK dan dirumahkan sejumlah lebih dari 1,5 juta
+karyawan, dengan spesifikasi karyawan sektor formal
+lebih besar dari pada sektor informal, yaitu sejumlah
+1,2 juta karyawan dari sektor formal dan 265.000
+dari sektor informal.
+Permasalahan pengangguran dapat diakibatkan oleh
+beberapa faktor, seperti adanya kasus PHK,
+menimbulkan kondisi ekonomi rumah tangga
+mengalami penurunan. Permasalahan pengangguran
+memang tergolong masalah yang kompleks, karena
+dapat dikaitkan dengan beberapa indikator. Salah
+satu yang menjadi indikator ekonomi yang
+mempengaruhi pengangguran adalah pertumbuhan
+ekonomi
+sebuah
+negara.
+Apabila
+kondisi
+pertumbuhan ekonomi suatu negara mengalami
+kenaikan, maka diharapkan dapat memberikan
+pengaruh terhadap penurunan jumlah pengangguran.
+Tetapi, dalam kondisi lingkungan hidup yang dilanda
+wabah coronavirus ini, pertumbuhan ekonomi
+mengalami penurunan. Artinya, bahwa apabila
+kondisi
+pertumbuhan
+ekonomi
+mengalami
+penurunan, maka dapat berpengaruh terhadap jumlah
+pengangguran yang mengalami penurunan.
+
+206
+
+Perspektif: Jurnal Ekonomi & Manajemen, Volume 18 No. 2 September 2020
+P-ISSN 1411-8637 E-ISSN 2550-1178
+
+Pertumbuhan ekonomi Indonesia tumbuh melambat
+sebesar 2,97% (year on year) yang terjadi pada
+kuartal I per tahun 2020. Jika dibandingkan dengan
+tahun 2019 pada kuartal empat di mana pertumbuhan
+ekonomi Indonesia dapat mengalami kenaikan
+hingga mencapai angka 5,02%. Pertumbuhan
+ekonomi Indonesia mengalami penurunan sebesar
+2,41%. Dengan adanya penurunan tingkat
+pertumbuhan ekonomi maka tingkat pengangguran di
+Indonesia juga mengalami kenaikan.
+Kenaikan jumlah pengangguran mengakibatkan
+defisit anggaran negara bertambah. Dilansir dari
+kontan.co.id bahwa Anggaran Pendapatan dan
+Belanja Negara (APBN) tahun 2020 mengalami
+peningkatan defisit hingga menjadi sebesar 6,27%
+dari produk domestik bruto (PDB). Angka
+pengangguran yang bertambah menimbulkan
+pengurangan pendapatan rumah tangga. Di mana
+konsumsi rumah tangga berkurang sehingga dapat
+mempengaruhi tingkat pertumbuhan ekonomi.
+
+KESIMPULAN
+Berdasarkan deskripsi di atas maka dapat
+disumpulkan bahwa Covid-19 telah dinyatakan WHO
+sebagai masalah global. Dengan adanya Pandemi
+Covid-19 dapat mengakibatkan melemahnya tingkat
+pertumbuhan ekonomi Indonesia. Pertumbuhan
+ekonomi Indonesia mengalami penurunan sebesar
+2,41% sebagai dampak dari wabah coronavirus.
+Sehingga hal tersebut berakibat pula pada tingkat
+defisit anggaran negara yang mengalami kenaikan.
+APBN tahun 2020 mengalami peningkatan angka
+defisit sebesar 6,27% dari peroduk domestik bruto.
+Selain itu, Pandemi Covid-19 berdampak juga pada
+banyaknya karyawan yang dirumahkan sehingga
+menjadi pengangguran akibat terkena PHK dari
+kantor karyawan tersebut bekerja yang terjadi pada
+pekerja sektor formal dan informal. Mayoritas PHK
+terjadi pada sektor usaha skala mikro. PHK pada
+sektor informal hingga mencapai angka 56,7% dari
+total jumlah tenaga kerja. Pengangguran yang terjadi
+karena PHK juga dapat menjadi salah satu faktor
+penyebab pertumbuhan ekonomi Indonesia melemah.
+Kemudian,
+dibutuhkan
+beberapa
+kebijakan
+pemerintah yang relevan untuk mengatasi
+pertumbuhan ekonomi dan terjadinya kasus PHK
+pada saat Covid-19. Beberapa kebijakan pemerintah
+yang dapat diterapkan untuk mengurangi masalah
+yang timbul akibat Covid-19 yaitu bagi para pekerja
+yang terdampak PHK, pemerintah merilis Kartu Pra
+Kerja sejak akhir Maret. Pada awalnya, pemerintah
+akan merilis Kartu Pra Kerja pada Agustus
+mendatang. Sedangkan, perihal anggaran yang
+digunakan mencapai Rp. 10 triliun bagi 2 juta peserta
+di tahun ini. Selain itu, pemerintah telah
+
+http://ejournal.bsi.ac.id/ejurnal/index.php/perspektif
+
+mengucurkan kebijakan bagi perusahaan guna
+menjaga kestabilan perekonomian Indonesia. Selain
+kartu pra kerja, ada juga menjaga ketersediaan bahan
+baku, pembebasan pajak pasal 22 Impor kepada 19
+sektor tertentu, Wajib Pajak KITE IKM.
+Selanjutnya, analisis ini tidak dimaksudkan untuk
+memberikan ramalan peristiwa yang akan terjadi di
+masa mendatang. Pada kondisi krisis Covid-19 ini
+banyak terjadi ketidakpastian dan informasi berubah
+dengan cepat. Namun, diharapkan analisis ini dapat
+memberikan gambaran tentang pengaruh Covid-19
+terhadap pengangguran dan pertumbuhan ekonomi di
+Indonesia seecara utuh dan bagaimana tindakan
+terbaik yang harus dilakukan. Sarannya yaitu kondisi
+ekonomi juga penting dalam situasi dan kondisi
+krisis seperti ini, bukan hanya pemerintah yang
+memilki peran besar dalam mengatasi masalah krisis
+global wabah corona ini, tapi kita juga berperan
+dalam melindungi perekonomian Indonesia sebaikbaiknya. Jadi, kita bersama pemerintah harus
+menyiapkan startegi-strategi jangka pendek, seperti
+pemberian bantuan, dan strategi jangka panjang,
+seperti edukasi penggunaan teknologi sebagai sarana
+pemasaran produk UMKM, untuk menghadapi
+pandemi ini.
+
+REFERENSI
+Alghofari,
+
+Amri,
+
+farid.
+2010.
+Analisis
+Tingkat
+Pengangguran di Indonesia tahun 19802007. Skripsi.
+
+Amir. 2007. Pengaruh Inflasi dan
+Pertumbuhan
+Ekonomi
+Terhadap
+Pengangguran di Indonesia. Jurnal Inflasi
+dam Pengangguran. Vol. 1, No. 1, 2007,
+Jambi
+
+Badan Pusat Statistik diakses dari
+www.bps.go.id/dynamictable/2020/02/19/
+1774/tingkat-pengangguran-terbuka-tptmenurut-provinsi-1986---2019.html
+tanggal 2 Juni 2020
+Fitriani, Feni F. 2020. Parah! Pertumbuhan Ekonomi
+Indonesia Hanya 2,9 Persen Kuartal
+1/2020.https://m.bisnis.com/amp/read/202
+00505/9/1236510/parah-pertumbuhanekonomi-indonesia-hanya-29-persenkuartal-i2020 (diakses tanggal 15 Juni
+2020).
+Hanoatubun, Silpa. 2020. Dampak Covid-19
+Terhadap
+Perekonomian
+Indonesia.
+Journal of Education, Psychology and
+Counseling. Volume 2 Nomor 1. ISSN
+Online: 2716-4446
+
+207
+
+Perspektif: Jurnal Ekonomi & Manajemen, Volume 18 No. 2 September 2020
+P-ISSN 1411-8637 E-ISSN 2550-1178
+
+Elena, Maria. 2020. Dampak Pandemi Covid-19, Ini
+Sektor-sektor yang rentan kena PHK.
+https://ekonomi.bisnis.com/read/20200415
+/9/1227629/dampak-pandemi-covid-19ini-sektor-sektor-yang-rentan-kena-phk
+(diakses tanggal 15 Juni 2020).
+Kalsum, Umi. 2017. Pengaruh Pengangguran dan
+Inflasi Terhadap Pertumbuhan Ekonomi di
+Sumatera Utara. Jurnal Ekonomikawan,
+vol.
+17,
+no.
+1,
+https://dx.doi.org/10.30596/ekonomikawa
+n.v17i1.1183
+Kementerian Kesehatan Republik Indonesia.
+Pedoman Pencegahan dan Pengendalian
+Coronavirus
+Disease
+(COVID-19)
+Dokumen Resmi Per 27 Maret 2020.
+Gerakan Masyarakat Hidup Sehat.
+Mahadi, Tendi. 2020. Meski defisit bertambah, Sri
+Mulyani masih berharap ekonomi tumbuh
+2,3%https://nasional.kontan.co.id/news/me
+ski-defisit-bertambah-sri-mulyani-masihberharap-ekonomi-tumbuh-23(diakses
+tanggal 15 Juni 2020).
+Murni, Asfia. 2009. Ekonomika makro. PT. Refika
+Aditama: Bandung
+Novriansyah,
+Moh.
+Arif.
+2008.
+Pengaruh
+Pengangguran dan Kemiskinan Terhadap
+Pertumbuhan Ekonomi di Provinsi
+Gorontalo. Jurnal. Volume 1. Nomor 1.
+April 2008. P-ISSN: 2614-5170, E-ISSN:
+2615-1375
+Payaman, J. Simanjuntak. 1985. Pengantar Ekonomi
+Sumber Daya Manusia. Penerbit FE UI:
+Jakarta
+Pramesthi, Rovia Nugrahani. 2013. Pengaruh
+Pengangguran dan Inflasi Terhadap
+Pertumbuhan Ekonomi di Kabupaten
+Trenggalek. Jurnal Pendidikan Ekonomi
+(JUPE), Volume 1, Nomor 3
+
+sebut-virus-corona-covid-19-sebagaipandemi-global (diakses tanggal 19 Juli
+2020).
+Rumi. 2020. Dampak serta Ancaman Covid-19 bagi
+PekerjadanPerusahaanhttps://accurate.part
+ners/news/dampak-serta-ancaman-covid19-bagi-pekerja-dan-perusahaan/ (diakses
+tanggal 14 Juli 2020).
+Rustiono, Deddy. 2008. Analisis Pengaruh Investasi,
+Tenaga
+Kerja,
+dan
+Pengeluaran
+Pemerintah
+Terhadap
+Pertumbuhan
+Ekonomi di Provinsi Jawa Tengah. Tesis.
+Sandi,Ferri. 2020. Ini Dampak Mengerikan COVID19 ke Industri RI, THR Terancam?
+https://www.cnbcindonesia.com/market/20
+200331091721-17-148640/ini-dampakmengerikan-covid-19-ke-industri-ri-thrterancam (diakses tanggal 19 Juli 2020).
+Santoso, Yusuf Imam. 2020. Ini delapan dampak
+negatif bagi perekonomian Indonesia
+akibat wabah virus Corona
+https://nasional.kontan.co.id/news/inidelapan-dampak-negatif-bagiperekonomian-indonesia-akibat-wabahvirus-corona (diakses tanggal 17 Juli
+2020).
+Satuan Tugas Penanganan Covid-19. Diakses dari
+www.covid19.co.id tanggal 13 April 2020.
+Siregar, Hermanto dan Dwi Wahyuniarti. 2008.
+Dampak Pertumbuhan Ekonomi Terhadap
+Penurunan Jumlah Penduduk Miskin.
+Jurnal Institut Bogor.
+Sukirno, Sadono. 2008. Ekonomi Pembangunan.
+Yogyakarta: BPFE Yogyakarta
+Worldometer. Diakses dari www.worldometers.info
+tanggal 14 Juni 2020
+
+Pujiati, Amin. 2008. Analisis Pertumbuhan Ekonomi
+di
+Karesidenan
+Semarang
+Era
+Desentralisasi Fiskal. Jurnal Ekonomi
+Pembangunan. Volume 13. Hal. 61-70
+Putong, I. 2010. Economics Pengantar Mikro dan
+Makro. Edisi Keempat. Mitra Wacana
+Media: Jakarta
+Putri, Gloria Setyvani. 2020. WHO Resmi Sebut
+Virus Corona Covid-19 sebagai Pandemi
+Globalhttps://www.kompas.com/sains/rea
+d/2020/03/12/083129823/who-resmihttp://ejournal.bsi.ac.id/ejurnal/index.php/perspektif
+
+208
+
+

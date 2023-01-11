@@ -1,0 +1,949 @@
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, November 2016
+www.jim.unsyiah.ac.id/JFP
+
+Pengaruh Konsentrasi Pektin dan Karagenan terhadap
+Permen Jelly Nanas (Ananas comosus L. Merr)
+(Effect of Pectin and Carrageenan Concentrates on
+Pineapple Jelly Candy (Ananas comosus L. Merr)
+Dedy Isnanda1, Melly Novita1, Syarifah Rohaya1
+Program Studi Teknologi Hasil Pertanian, Fakultas Pertanian, Universitas Syiah Kuala
+
+1
+
+Abstrak. Buah nanas dapat diolah menjadi berbagai produk. Salah satu produk olahan yang digemari ialah
+permen jelly. Berdasarkan SNI 3547-2-2008, permen jelly ialah permen bertekstur lunak yang diproses dengan
+penambahan komponen hidrokoloid seperti agar, gum, pektin, pati, karagenan, dan gelatin yang digunakan untuk
+modifikasi tekstur sehingga menghasilkan produk yang kenyal. Tujuan dari penelitian ini diharapkan dapat
+mengetahui konsentrasi pektin dan karagenan yang tepat untuk menghasilkan tekstur yang sesuai pada
+pembuatan permen jelly nanas. Penelitian ini dilakukan dengan menggunakan Rancangan Acak Lengkap (RAL),
+yang terdiri dari dua faktor, yaitu: Faktor I: konsentrasi pektin (P) yang terdiri dari 4 taraf, yaitu: P1 = 0,5%, P2
+= 1,0 % P3 = 1,5%, P4 = 2% Faktor II: konsentrasi karagenan (K) yang terdiri dari 3 taraf, yaitu: K1 = 1%, K2
+= 1,5%, K3 = 2%. Konsentrasi pektin berpengaruh sangat nyata terhadap kadar air, kadar abu, total asam
+organoleptik hedonik (warna, aroma, dan tekstur), organoleptik deskriptif (warna, tekstur, dan rasa), dan
+berpengaruh nyata terhadap hedonik rasa serta deskriptif aroma. Konsentrasi karagenan berpengaruh sangat
+nyata terhadap kadar air, kadar abu, total asam, hedonik warna, deskriptif (warna, aroma, tekstur, dan rasa) dan
+berpengaruh nyata terhadap hedonik aroma. Hasil analisis permen jelly nanas menghasilkan rata-rata kadar air
+11,85%, kadar abu 1,24%, total asam 0,484%, organoleptik hedonik (warna (3,49) penerimaan biasa, aroma
+(3,74) penerimaan biasa, tekstur (3,36) penerimaan biasa, rasa (2,50) penerimaan tidak suka), dan organoleptik
+deskriptif (warna (2,38) kuning kecoklatan, aroma (3,38) berbau nanas, tekstur (2,41) agak lembek, rasa (2,45)
+cukup manis). Perlakuan terbaik diperoleh dari permen jelly nanas dari penambahan pektin 1,5% dan karagenan
+1% dengan karakteristik kadar air 15,85%, kadar abu 1,85%, warna 4,48 (kuning kecoklatan), aroma 4,25 (bau
+nanas), tekstur 3,77 (tektur lembek), dan rasa 2,64 (cukup manis).
+Kata kunci : Buah nanas, permen jelly, karagenan, pektin.
+
+Abstract. Pineapples can be processed into various products. One of the processed products which is fancied by
+many people is a jelly candy. Based on SNI 3547-2-2008, jelly candy is a soft candy processed with the addition
+of hydrocolloid components such as agar, gum, pectin, starch, carrageenan and gelatin which are used to modify
+the texture to be chewy. The aims of this research were to examine the accurate concentration of pectin and
+carrageenan in the production of pineapples jelly candy to produce the desirable texture. This study was
+conducted using a completely randomized design (CRD) which consisted of two factors. The first factor was
+concentrations of pectin (P) which consisted of four levels (P1 = 0.5%, 1.0% P2 = P3 = 1.5%, P4 = 2%). The
+second factor was concentration of carrageenan (K) which consisted of three levels (K1 = 1%, K2 = 1.5%, K3 =
+2%). The concentration of pectin gave highly significant effects on water content, ash content, total acid, hedonic
+organoleptic (color, aroma and texture), descriptive organoleptic (color, texture and flavor), and significantly
+affected the hedonic organoleptic (flavor) and descriptive organoleptic (aroma). The concentration of
+carrageenan gave highly significant effect on water content, ash content, total acid, hedonic organoleptic (color),
+descriptive organoleptic (color, aroma, texture, and flavor) and significantly affected the hedonic organoleptic
+(aroma). The results showed that pineapple jelly candy had the following characteristics: water content
+(11.85%), ash content (1.24%), total acid (0.484%), hedonic organoleptic color (3.49; regular reception), aroma
+(3.74; regular reception), texture (3.36; regular reception), flavor (2.50; disliked reception), and descriptive
+organoleptic color (2.38; brownish yellow), aroma (3.38; pineapple smell), texture (2.41; mushy) and taste (2.45;
+pretty sweet). The best treatment in the production of pineapple candy jelly was gained by adding 1.5% pectin
+and 1% carrageenan. The candy had 15.85% water content, 1.85% ash content, 4.48 (brownish yellow) color,
+4.25 (pineapple smell) aroma, 3.77 (mushy) texture and 2.67 (sweet) taste.
+Keywords: Pineapple, jelly candy, carrageenan, pectin
+
+Corresponding author: dedyisnanda@gmail.com
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+
+912
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+PENDAHULUAN
+Tanaman nanas (Ananas comosus L. Merr) termasuk famili bromeliaceae. Buah
+ini berasal dari Brasil, Amerika. Buah nanas mengandung vitamin A, C, betakaroten, kalsium,
+fosfor, magnesium, besi, natrium, kalium dan enzim bromelin. Selain itu, nanas juga buah
+potensial untuk dikonsumsi sebagai sumber antioksidan.
+Buah nanas dapat diolah menjadi berbagai produk. Salah satu produk olahan yang
+digemari oleh konsumen ialah permen jelly. Berdasarkan SNI 3547-2-2008, permen jelly ialah
+permen bertekstur lunak yang diproses dengan penambahan komponen hidrokoloid seperti
+agar, gum, pektin, pati, karagenan, gelatin dan lain-lain yang digunakan untuk modifikasi
+tekstur sehingga menghasilkan produk yang kenyal. Pada pembuatan permen jelly harus
+dipenuhi tiga syarat pembentukan gel yaitu pektin, gula, dan asam serta dapat pula dengan
+penambahan bahan penstabil lainnya. Apabila ketiganya dicampur dan disertai perlakuan
+pemanasan, maka akan terjadi pembentukan gel.
+Nanas memiliki kadar pektin yang rendah namun tingkat keasaman yang cukup untuk
+pembentukan gel pada permen jelly (Albrecht, 2010). Karena kadar pektin yang rendah, maka
+perlu ditambahkan bahan pembentuk gel lainnya untuk dapat membuat permen jelly dengan
+tekstur yang kenyal dari buah nanas. Selain pektin, karagenan juga merupakan salah satu
+gelling agent yang dapat digunakan pada pembuatan permen jelly.
+Pada penelitian Wijana dkk. (2014), konsentrasi karagenan berpengaruh nyata
+terhadap tekstur permen jelly nanas. Hal ini sesuai dengan yang dikemukakan oleh Estiasih
+(2006) bahwa sifat penting dari karagenan adalah sifat fungsionalnya yang dapat mengontrol
+kadar air, menstabilkan dan membentuk tekstur sesuai dengan yang diinginkan. Oleh karena
+itu penelitian ini dimaksudkan untuk melihat pengaruh kombinasi antara pektin dan karagenan
+terhadap tekstur permen jelly nanas.
+METODE PENELITIAN
+Penelitian ini telah selesai dilakukan di Laboratorium Pengolahan Nabati, Laboratorium
+Organoleptik, dan Laboratorium Analisis Pangan, Jurusan Teknologi Hasil Pertanian,
+Fakultas Pertanian Universitas Syiah kuala.
+MATERI DAN METODE
+Bahan dan Alat
+Bahan yang digunakan dalam penelitian ini adalah buah nanas dengan tingkat ketuaan
+pada indeks kriteria 2 yaitu 20-40% mata telah berwarna kuning (diperoleh dari pasar
+Lambaro, Aceh Besar), pektin, kappa karagenan, asam sitrat, dan gula pasir. Bahan-bahan
+yang dianalisis yaitu larutan pati, larutan iod, NaOH 0,1 N dan aquadest.
+Adapun alat yang digunakan dalam penelitian ini untuk pembuatan permen jelly
+adalah pisau stainless steel, blender, baskom, gelas ukur, timbangan analitik, kompor gas,
+saringan, alat pengaduk, alat cetakan, panci dan air. Alat yang digunakan analisis adalah pipet
+tetes, alat pengaduk, pisau, cawan porselen, tanur pengabuan, oven, gelas ukur, desikator, dan
+gelas beker.
+Metode
+Penelitian ini dilakukan dengan menggunakan Rancangan Acak Lengkap (RAL)
+dengan 2 faktor; pektin yang terdiri dari 4 taraf, yaitu 0,5%, 1,0 %, 1,5%, 2% dan
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+913
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+karagenan yang terdiri dari 3 taraf, yaitu 1%, 1,5%, 2%. Masing-masing perlakuan
+dilakukan dengan 2 kali ulangan sehingga diperoleh 24 satuan percobaan.
+Pembuatan Puree Nanas
+Buah nanas dipilih dengan tingkat ketuaan pada indeks kriteria 2 yaitu 20-40% mata
+telah berwarna kuning. Kemudian buah nanas dikupas dengan menggunakan pisau. Buah
+nanas yang telah dikupas kemudian dipotong-potong dan dicuci. Selanjutnya nanas diblender
+dengan perbandingan daging buah dan air (500 gram : 125ml).
+Prosedur Pembuatan Permen Jelly
+Puree nanas diukur sebanyak 500 ml. Kemudian ditambahkan karagenan
+sebanyak (1%, 1,5%, 2%) dan pektin sebanyak (0,5%, 1%, 1,5%, 2%) sesuai perlakuan serta
+gula 125 gram dan asam sitrat 0,5 gram. Campuran puree nanas, karagenan, pektin, gula, dan
+asam sitrat dimasak sampai mendidih. Setelah mendidih adonan dituangkan ke dalam loyang
+atau cetakan. Adonan didalam loyang didiamkan selama 10 jam dalam suhu ruang lalu
+dipotong. Kemudian dikeringkan dalam oven selama 8 jam pada suhu 50-55oC. Setelah kering
+permen jelly dibaluri dengan tepung gula. Kemudian dikeringkan lagi selama 30 menit pada
+suhu 50-55oC. Permen jelly kemudian dianalisis.
+Analisa Produk
+Parameter yang dianalisis pada penelitian ini terdiri dari analisis awal pada buah nanas
+segar meliputi kadar air, kadar abu, kadar gula, total asam, dan vitamin C. Analisis permen
+jelly meliputi kadar air, kadar abu, dan total asam. Analisa organoleptik yaitu uji hedonik dan
+uji deskriptif meliputi warna, aroma, tekstur, dan rasa.
+HASIL DAN PEMBAHASAN
+Buah Nanas Segar
+Sebelum buah nanas diolah menjadi permen jelly dilakukan terlebih dahulu analisis
+kimia meliputi kadar air, kadar abu, total asam, total gula dan vitamin C. Analisis ini
+dilakukan untuk melihat kandungan pada buah nanas segar. Komposisi dalam 100 gram buah
+nanas segar dapat dilihat pada Tabel 1 di bawah ini.
+Tabel 1. Komposisi Buah Nanas per 100 gram Bahan Segar
+Unsur Gizi
+
+Jumlah
+
+Kadar Air
+
+85,33 %
+
+Kadar Abu
+
+0,50 %
+
+Total Asam
+
+1,20 %
+
+Total Gula
+
+14,07 %
+
+Vitamin C
+
+20,00mg
+
+Permen Jelly
+Kadar Air
+Hasil analisis kadar air menunjukkan bahwa nilai kadar air permen jelly nanas yang
+dihasilkan berkisar antara 10,09 – 15,85%, dengan rata- rata 11,85 %. Pengaruh konsentrasi
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+914
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+Kadar Air (%)
+
+pektin terhadap kadar air permen jelly nanas dapat dilihat pada Gambar 1. Gambar 1
+menunjukkan bahwa semakin tinggi konsentrasi pektin yang ditambahkan maka kadar air
+permen jelly nanas yang dihasilkan cenderung semakin rendah. Hal ini diduga karena pektin
+dapat mengikat air sehingga air bebas berkurang, hal ini menyebabkan kadar air permen jelly
+nanas yang dihasilkan semakin menurun.
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+14,05 d
+11,92 c
+
+0.5
+
+1
+
+11,08 b
+
+10,37 a
+
+1.5
+
+2
+
+Konsentrasi Pektin (%)
+Gambar 1. Pengaruh perlakuan konsentrasi pektin (P) terhadap kadar air permen jelly nanas (Ananas comosus L.
+Merr) BNT0,01 = 0,34, KK = 2,89% (Nilai yang diikuti oleh huruf yang sama menunjukan berbeda
+tidak nyata).
+
+Kadar Air (%)
+
+Gambar 2 menunjukkan bahwa semakin tinggi konsentrasi karagenan yang
+ditambahkan, kadar air permen jelly nanas yang dihasilkan semakin rendah. Hal ini diduga
+karena karagenan berfungsi sebagai pengental memiliki kemampuan untuk mengikat air. Hal
+ini didukung oleh pernyataan Estiasih dan Ahmad (2009), pektin dan karagenan sebagai
+pengemulsi dan pengental yang ditambahkan ke dalam bahan makanan dapat meningkatkan
+viskositas bahan dan mengurangi kadar air. Semakin banyak konsentrasi pektin dan
+karagenan ditambahkan di dalam bahan makanan maka jumlah padatan akan semakin banyak
+dan kadar air bahan akan menurun.
+
+12.4
+12.2
+12.0
+11.8
+11.6
+11.4
+11.2
+11.0
+10.8
+
+12,31 c
+11,82 b
+11,43 a
+
+0.5
+
+1
+
+1.5
+
+Konsentrasi Karagenan (%)
+Gambar 2. Pengaruh perlakuan konsentrasi karagenan (K) terhadap kadar air permen jelly nanas (Ananas
+comosus L. Merr) BNT0,01 = 0,34, KK = 2,89% (Nilai yang diikuti oleh huruf yang sama
+menunjukan berbeda tidak nyata).
+
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+915
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+Kadar Abu (%)
+
+Kadar Abu
+Hasil analisis kadar abu menunjukkan bahwa nilai kadar abu permen jelly nanas yang
+dihasilkan berkisar antara 0,70 – 1,85%, dengan rata-rata 1,24 %. Pengaruh interaksi antara
+konsentrasi pektin dan karagenan terhadap kadar abu permen jelly nanas dapat dilihat pada
+Gambar 3.
+2.0
+1.8
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+
+1,73 f
+
+1,83 g 1,85 g
+1,69 f
+
+1,33 e
+0,94 c
+0,82 b
+0,74 a
+
+0.5
+
+1,13 d
+0,96 c
+0,92 c
+
+1
+
+0,96 c
+
+1.5
+
+Karagenan 1%
+Karagenan 1,5%
+Karagenan 2%
+
+2
+
+Konsentrasi Pektin (%)
+Gambar 3. Pengaruh interaksi konsentrasi pektin (P) dan karagenan (K) terhadap kadar abu permen jelly nanas
+(Ananas comosus L. Merr) BNT0,01 = 0,07, KK = 5,75% (Nilai yang diikuti oleh huruf yang sama
+menunjukan berbeda tidak nyata).
+
+Gambar 3 menunjukkan bahwa semakin tinggi konsentrasi pektin dan karagenan yang
+ditambahkan menyebabkan semakin tinggi kadar abu pada permen jelly nanas yang dihasilkan
+cenderung lebih tinggi. Hal ini sejalan dengan pernyataan Estiasih dan Ahmad (2009), dimana
+semakin tinggi konsentrasi pektin yang ditambahkan maka kadar abu permen jelly nanas
+semakin meningkat. Jumlah pektin yang semakin tinggi mampu mengikat lebih mineral dari
+bahan air dan padatan terlarut sehingga meningkatkan kadar abu. Menurut Sukri (2006),
+semakin tinggi konsentrasi karagenan maka kadar abu semakin meningkat, karena karagenan
+dibuat dari rumput laut yang termasuk dalam bahan pangan yang mengandung mineral yang
+cukup tinggi. Hal ini yang mempengaruhi kadar abu pada bahan.
+Total Asam
+Hasil analisis total asam menunjukkan bahwa nilai total asam permen jelly nanas yang
+dihasilkan berkisar antara 0,368 – 0,540 % dengan nilai rata-rata total asam permen jelly
+nanas adalah 0,484 %. Pengaruh interaksi konsentrasi pektin dan karagenan terhadap kadar
+abu permen jelly nanas dapat dilihat pada Gambar 4.
+Gambar 4 menunjukkan bahwa peningkatan konsentrasi pektin dan menyebabkan
+kecenderung peningkatan terhadap total asam namun peningkatan konsentrasi karagenan
+menyebabkan kecenderungan penurunan terhadap total asam permen jelly nanas yang
+dihasilkan. Menurut Agustina (2004) karagenan merupakan hidrokoloid yang mengikat air
+oleh adanya gugus OH- yang relatif banyak sehingga menurunkan total asam pada permen
+jelly nanas yang dihasilkan. Kandungan pada karagenan yaitu pottasium, kalium, magnesium
+dan natrium yang bereaksi dengam asam membentuk garam. Garam yang terikat dengan
+karagenan akan menurunkan keasaman.
+
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+916
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+0.6
+
+Total Asam (%)
+
+0.5
+0.4
+
+0,533 g 0,513 f
+
+0,468 c
+0,498 e 0,478 d
+0,460 c
+0,415 b
+0,368 a
+
+0,540 g 0,533 g 0,530 g
+
+0,480 d
+
+Karagenan 1%
+
+0.3
+
+Karagenan 1,5%
+0.2
+
+Karagenan 2%
+
+0.1
+0.0
+0.5
+
+1
+1.5
+Konsentrasi Pektin (%)
+
+2
+
+Gambar 4. Pengaruh interaksi konsentrasi pektin (P) dan karagenan (K) terhadap total asam permen jelly nanas
+(Ananas comosus L. Merr) BNT0,01 = 0,01, KK = 2% (Nilai yang diikuti oleh huruf yang sama
+menunjukan berbeda tidak nyata).
+
+Nilai Hedonik Warna
+
+Uji Organoleptik Hedonik
+Warna
+Warna merupakan parameter pertama yang menentukan tingkat penerimaan konsumen
+terhadap suatu produk untuk penilaian secara subyektif dengan penglihatan. Data pengamatan
+organoleptik terhadap warna permen jelly nanas menunjukkan bahwa nilai kesukaan panelis
+terhadap warna berkisar antara 2,00-4,45. Rata-rata penilaian panelis terhadap warna permen
+jelly nanas yang dihasilkan adalah 3,49 (tingkat penerimaan biasa). Pengaruh interaksi
+konsentrasi pektin dan karagenan terhadap nilai hedonik warna permen jelly nanas dapat
+dilihat pada Gambar 5.
+5.00
+4.50
+4.00
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+
+4,48 f 4,43 f 4,38 f
+3,38 d
+
+3,35 d
+
+3,48 e 3,45 e
+
+4,45 f
+3,43 de
+
+2,68 c
+2,35 b
+
+2,00 a
+
+0.5
+
+1
+
+1.5
+
+Karagenan 1%
+Karagenan 1,5%
+Karagenan 2%
+
+2
+
+Konsentrasi Pektin (%)
+Gambar 5. Pengaruh interaksi konsentrasi pektin (P) dan karagenan (K) terhadap nilai hedonik warna permen
+jelly nanas (Ananas comosus L. Merr) BNT0,01 = 0,07, KK = 2,01% (Nilai yang diikuti oleh huruf
+yang sama menunjukan berbeda tidak nyata).
+
+Gambar 5 menunjukkan bahwa penambahan konsentrasi karagenan sampai 1,5%
+menyebabkan peningkatan terhadap nilai hedonik warna. Namun pada penambahan
+konsentrasi pektin 2% nilai hedonik warna terjadi penurunan. Hal ini diduga karena
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+917
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+penambahan konsentrasi pektin yang semakin tinggi akan menghasilkan warna kuning nanas
+pada permen jelly nanas tersebut semakin berkurang. Hal ini sesuai dengan pernyataan
+Harijono dkk. (2001) yang menyatakan bahwa dengan konsentrasi karagenan yang tinggi
+akan menghasilkan permen jelly yang kokoh namun intensitas warna semakin berkurang. Hal
+ini perkuat oleh Estiasih dan Ahmad (2009) yang menyatakan bahwa pektin dan karagenan
+dapat larut dalam air dan membentuk larutan kental, serta dapat mempengaruhi warna permen
+jelly yang dihasilkan.
+
+Aroma
+
+Nilai Hedonik Aroma
+
+Data pengamatan organoleptik terhadap aroma permen jelly nanas menunjukkan
+bahwa kesukaan panelis berkisar antara 3,00 - 4,25. Rata-rata penilaian panelis terhadap nilai
+organoleptik aroma permen jelly nanas yang dihasilkan adalah 3,74 (tingkat penerimaan
+suka). Pengaruh interaksi konsentrasi pektin dan karagenan terhadap nilai hedonik aroma
+permen jelly nanas dapat dilihat pada Gambar 6.
+
+4.50
+4.00
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+
+4,25 e
+3,48 b 3,53 c 3,50 bc 3,50 bc
+3,13 a
+
+4,23 e
+4,15 e
+4,00 d
+
+4,15 e
+3,53 c 3,40 b
+Karagenan 1%
+Karagenan 1,5%
+Karagenan 2%
+
+0.5
+
+1
+1.5
+2
+Konsentrasi Pektin (%)
+Gambar 6. Pengaruh interaksi konsentrasi pektin (P) dan karagenan (K) terhadap nilai hedonik aroma permen
+jelly nanas (Ananas comosus L. Merr) BNT0,01 = 0,12, KK = 3,02% (Nilai yang diikuti oleh huruf
+yang sama menunjukan berbeda tidak nyata).
+
+Gambar 6 menunjukkan bahwa penambahan konsentrasi pektin hingga 1,5% dapat
+meningkatkan nilai hedonik aroma dari permen jelly nanas yang dihasilkan. Namun pada
+penambahan pektin yang lebih tinggi yaitu sebesar 2% menyebabkan penurunan terhadap
+nilai hedonik aroma dari permen jelly. Aroma yang disukai diduga karena permen jelly
+memberikan aroma nanas yang manis. Namun pada konsentrasi pektin 2% permen jelly yang
+dihasilkan memiliki bau yang agak kurang enak. Hal ini sesuai dengan pernyataan Eveline
+dkk. (2009), yang menyatakan bahwa aroma asing pada permen jelly nanas, berasal dari
+karagenan yang memiliki karakteristik berbau amis. Pernyataan ini diperkuat dengan hasil
+analisa Mahardika dkk. (2014) yang menyatakan bahwa penambahan essence buah-buahan
+pada pembuatan permen jelly dapat mengurangi bau rumput laut dari karagenan sebab dapat
+memberikan aroma yang disukai konsumen.
+Tekstur
+Data pengamatan organoleptik terhadap tekstur permen jelly nanas menunjukkan
+bahwa kesukaan panelis berkisar antara 2,35 – 4,03 (tidak suka-suka). Rata-rata penilaian
+panelis terhadap nilai organoleptik tekstur permen jelly nanas yang dihasilkan adalah 3,36
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+918
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+Nilai Hedonik Tekstur
+
+(tingkat penerimaan biasa). Pengaruh konsentrasi pektin terhadap nilai hedonik tekstur
+permen jelly nanas dapat dilihat pada Gambar 7.
+Gambar 7 menunjukkan bahwa konsentrasi pektin yang tinggi yaitu pada konsentrasi
+1,5 dan 2% memberikan nilai hedonik tekstur permen jelly nanas yang lebih tinggi dan
+berbeda nyata dengan nilai hedonik tekstur permen jelly nanas pada perlakuan lainnya.
+Semakin tinggi konsentrasi maka semakin disukai tekstur permen jelly nanas oleh panelis.
+Menurut Foegeding (2007), semakin tinggi konsentrasi pektin maka nilai hedonik tekstur
+semakin meningkat. Hal ini disebabkan semakin tinggi konsentrasi pektin maka memiliki
+tekstur permen jelly yang kenyal dan semakin disukai oleh panelis.
+4.00
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+
+3,43 b
+
+3,73 c
+
+3,77 c
+
+1.5
+
+2
+
+2,52 a
+
+0.5
+
+1
+
+Konsentrasi Pektin (%)
+Gambar 7. Pengaruh konsentrasi pektin (P) terhadap nilai hedonik tekstur permen jelly nanas (Ananas comosus
+L. Merr) BNT0,01 = 0,23, KK = 6,79% (Nilai yang diikuti oleh huruf yang sama menunjukan berbeda
+nyata).
+
+Rasa
+
+Nilai Hedonik Rasa
+
+Data pengamatan organoleptik terhadap rasa permen jelly nanas menunjukkan bahwa
+kesukaan panelis berkisar antara 2,35 – 2,80. Rata-rata penilaian panelis terhadap nilai
+organoleptik rasa permen jelly nanas yang dihasilkan adalah 2,50 (tingkat penerimaan tidak
+suka). Pengaruh konsentrasi pektin terhadap nilai hedonik rasa permen jelly nanas dapat
+dilihat pada Gambar 8.
+
+2.70
+2.65
+2.60
+2.55
+2.50
+2.45
+2.40
+2.35
+2.30
+2.25
+
+2,64 c
+2,53 bc
+2,44 b
+2,38 a
+
+0.5
+
+1
+1.5
+Konsentrasi Pektin (%)
+
+2
+
+Gambar 8. Pengaruh konsentrasi pektin (P) terhadap nilai hedonik rasa permen jelly nanas (Ananas comosus L.
+Merr) BNT0,05 = 0,14, KK = 5,54% (Nilai yang diikuti oleh huruf yang sama menunjukan berbeda
+tidak nyata).
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+919
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+Gambar 8 menunjukkan bahwa penambahan konsentrasi pektin sebanyak 1%
+menghasilkan nilai hedonik rasa permen jelly nanas yang tinggi dan berbeda nyata dengan
+perlakuan lainnya. Penambahan konsentrasi pektin yang tinggi dan lebih dari 1%
+menyebabkan semakin rendah nilai kesukaan hedonik rasa. Hal ini diduga bahwa dengan
+semakin tinggi penambahan pektin maka rasa asli buah nanas tertutupi sehingga muncul rasa
+kurang manis pada permen jelly nanas.
+Uji Organoleptik Deskriptif
+Warna
+Data pengamatan organoleptik terhadap deskriptif warna permen jelly nanas
+menunjukkan bahwa penilaian panelis terhadap warna berkisar antara 1,33-3,35. Rata-rata
+penilaian panelis terhadap deskriptif warna permen jelly nanas yang dihasilkan adalah 2,38
+yang menunjukkan bahwa permen jelly nanas yang dihasilkan berwarna kuning kecoklatan.
+Pengaruh interaksi konsentrasi pektin dan karagenan terhadap nilai deskriptif warna permen
+jelly nanas dapat dilihat pada Gambar 9.
+
+Nilai Deskriptif Warna
+
+4.00
+
+3,35 g
+
+3.50
+2,73 f 2,80 f
+2,60 e
+
+3.00
+
+2.50
+
+2,38 d 2,43 d 2,38 d
+
+2,28 c
+
+2,80 f
+2,15 b
+
+2.00
+1.50
+
+Karagenan 1%
+Karagenan 1,5%
+Karagenan 2%
+
+1,38 a 1,33 a
+
+1.00
+0.50
+0.00
+0.5
+
+1
+
+1.5
+
+2
+
+Konsentrasi Pektin (%)
+Gambar 9. Pengaruh interaksi konsentrasi pektin (P) dan karagenan (K) terhadap terhadap nilai deskriptif warna
+permen jelly nanas (Ananas comosus L. Merr) BNT0,01 = 0,09, KK = 3,71% (Nilai yang diikuti oleh
+huruf yang sama menunjukan berbeda tidak nyata).
+
+Dari Gambar 9 dapat dilihat bahwa semakin tinggi konsentrasi pektin dan karagenan
+yang ditambahkan menyebabkan semakin berkurang warna permen jelly nanas yang
+dihasilkan yaitu berwarna kuning kecoklatan. Pada penambahan pektin 0,5% nilai deskriptif
+warna yang dihasilkan 1,6 menunjukkan warna kuning. Semakin tinggi konsentrasi karagenan
+yang ditambahkan akan mempengaruhi warna permen jelly nanas. Hal ini sesuai dengan
+penelitian Harijono dkk. (2001) menyatakan bahwa dengan konsentrasi karagenan yang tinggi
+akan menghasilkan permen jelly yang kokoh tetapi intensitas warna yang dihasilkan coklat.
+Aroma
+Data pengamatan organoleptik terhadap deskriptif aroma permen jelly nanas
+menunjukkan bahwa penilaian panelis terhadap organoleptik aroma berkisar antara 3,18 3,48. Rata-rata penilaian panelis terhadap nilai deskriptif aroma permen jelly nanas yang
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+920
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+dihasilkan adalah 3,38 menunjukkan bau nanas. Pengaruh interaksi konsentrasi pektin dan
+karagenan terhadap nilai deskriptif aroma permen jelly nanas dapat dilihat pada Gambar 10.
+Dari Gambar 10 dapat dilihat bahwa semakin tinggi konsentrasi pektin dan karagenan
+yang ditambahkan menyebabkan semakin berkurang aroma nanas permen jelly yang
+dihasilkan. Hal ini diduga karena penambahan karagenan yang cenderung tinggi akan
+menyebabkan aroma pada permen jelly nanas berkurang karena aroma berasal dari karagenan
+berbau amis.
+
+3,48 c3,45 c
+
+Nilai Deskriptif Aroma
+
+3.50
+3.40
+
+3,35 b 3,38 bc 3,35 b
+3,33 b
+
+3,48 c
+3,43 c
+3,43 c
+3,38 bc 3,35 b
+
+Karagenan 1%
+Karagenan 1,5%
+Karagenan 2%
+
+3.30
+3,18 a
+
+3.20
+3.10
+3.00
+0.5
+
+1
+1.5
+2
+Konsentrasi Pektin (%)
+Gambar 10. Pengaruh interaksi konsentrasi pektin (P) dan karagenan (K) terhadap nilai deskriptif aroma permen
+jelly nanas (Ananas comosus L. Merr) BNT0,05 = 0,06, KK = 1,71% (Nilai yang diikuti oleh huruf
+yang sama menunjukan berbeda tidak nyata).
+
+Nilai Deskriptif Tekstur
+
+Tekstur
+Data pengamatan organoleptik terhadap deskriptif tekstur permen jelly nanas
+menunjukkan bahwa penilaian panelis terhadap organoleptik tekstur berkisar antara 1,48 –
+3,63. Rata-rata penilaian panelis terhadap nilai deskriptif tekstur permen jelly nanas yang
+dihasilkan adalah 2,41 (menunjukan tekstur lembek). Pengaruh interaksi konsentrasi pektin
+dan karagenan terhadap nilai deskriptif tekstur permen jelly nanas dapat dilihat pada Gambar
+11.
+4.00
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+
+3,58 f 3,63 f
+2,63 e 2,68 f
+
+2,45 c2,55 d
+
+2,63 e 2,63 e
+
+1,60 b 1,55 ab
+1,53 a
+1,48 a
+
+Karagenan 1%
+Karagenan 1,5%
+Karagenan 2%
+
+0.00
+
+0.5
+
+1
+
+1.5
+
+2
+
+Konsentrasi Pektin (%)
+Gambar 11. Pengaruh interaksi konsentrasi pektin (P) dan karagenan (K) terhadap nilai deskriptif warna permen
+jelly nanas (Ananas comosus L. Merr) BNT0,05 = 0,06, KK = 2,54% (Nilai yang diikuti oleh huruf
+yang sama menunjukan berbeda nyata).
+
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+921
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+Gambar 11 menunjukan bahwa peningkatan penambahan konsentrasi pektin dan
+karagenan menyebabkan peningkatan pada nilai deskriptif tekstur permen jelly yang
+dihasilkan. Tekstur permen jelly nanas yang dihasilkan yaitu agak kenyal. Hal ini diduga
+pektin dan karagenan mampu membentuk mekanisme double helix yaitu pemanasan dengan
+suhu tinggi dari suhu pembentukan gel akan mengakibatankan polimer karagenan dalam
+larutan akan menjadi acak. Bila suhu diturukan maka polimer membentuk struktur double
+helix dan apabila terus terjadi penurunan suhu maka polimer akan terikat silang serta semakin
+bertambahnya bentuk helix terhadap pembentukan gel yang kuat (Samsuari, 2006).
+Rasa
+Data pengamatan organoleptik terhadap deskriptif rasa permen jelly nanas
+menunjukkan bahwa penilaian panelis terhadap organoleptik aroma berkisar antara 2,25 2,70. Rata-rata penilaian panelis terhadap nilai deskriptif rasa permen jelly nanas yang
+dihasilkan adalah 2,45 (cukup manis). Pengaruh interaksi konsentrasi pektin dan karagenan
+terhadap nilai deskriptif rasa permen jelly nanas dapat dilihat pada Gambar 12.
+
+Nilai Deskriptif Rasa
+
+2.80
+
+2,68 d
+2,38 b
+2,35 b
+
+2,53 c
+2,48 bc
+2,43 bc
+2,43 bc
+2,45 bc
+2,38 b 2,38 b
+2,28 a
+
+0.5
+
+1
+Konsentrasi
+Pektin1.5
+(%)
+
+2.60
+2.40
+
+2,65 d
+Karagenan 1%
+Karagenan 1,5%
+Karagenan 2%
+
+2.20
+2.00
+2
+
+Gambar 12. Pengaruh interaksi konsentrasi pektin (P) dan karagenan (K) terhadap nilai deskriptif warna permen
+jelly nanas (Ananas comosus L. Merr) BNT0,01 = 0,06, KK = 2,40% (Nilai yang diikuti oleh huruf
+yang sama menunjukan berbeda tidak nyata).
+
+Gambar 12 menunjukkan bahwa nilai deskriptif rasa permen jelly nanas cenderung
+meningkat dngan semakin meningkatnya konsentrasi pektin yang ditambahkan. Namun pada
+konsentrasi pektin 2% terjadi penurunan terhadap nilai deskriptif rasa permen jelly nanas. Hal
+ini diduga karena penambahan pektin yang semakin tinggi menyebabkan semakin
+berkurangnya rasa manis pada permen jelly nanas yang dihasilkan.
+Perlakuan Terbaik
+Pemilihan perlakuan terbaik, dihitung dari pembobotan nilai dari penilaian hedonik
+yang diberikan oleh panelis. Berdasarkan rata-rata nilai ranking dari panelis, nilai tertinggi
+untuk parameter warna dihasilkan dari penambahan pektin 1,5% dan karagenan 1%. Nilai
+tertinggi untuk parameter aroma dihasilkan dari penambahan pektin 1,5% dan karagenan 1%.
+Nilai tertinggi untuk parameter tekstur dihasilkan dari penambahan pektin 1,5% dan nilai
+tertinggi untuk parameter rasa dihasilkan dari penambahan pektin 1%. Berdasarkan penilaian
+hedonik warna, aroma, tekstur, rasa maka perlakuan terbaik diperoleh pada permen jelly
+nanas dengan penambahan pektin tidak lebih dari 1,5% dan karagenan 1%. Rerata skor
+kesukaan panelis terhadap warna, aroma, tekstur dan rasa dari perlakuan terbaik berturut-turut
+adalah suka (4,48), suka (4,25), netral (3,77), dan tidak suka (2,64). Perbandingan kualitas
+pada permen jelly nanas dengan perlakuan terbaik dari SNI permen jelly dapat dilihat pada
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+922
+
+Jurnal Ilmiah Mahasiswa Pertanian Unsyiah
+Volume 1, Nomor 1, Nopember 2016
+www.jim.unsyiah.ac.id/JFP
+
+Tabel 2. Dari Tabel 2 dapat dilihat bahwa permen jelly nanas yang dihasilkan pada penelitian
+ini sudah memenuhi SNI dari segi kadar air, kadar abu, aroma dan rasa.
+Tabel 2. Perbandingan kualitas perlakuan terbaik permen jelly nanas dengan SNI permen jelly
+Jenis Uji
+
+Perlakuan terbaik permen jelly nanas
+
+Literatur*
+
+Kadar Air
+
+15,85 %
+
+Maks. 20 (%)
+
+Kadar Abu
+
+1,85 %
+
+Maks. 3 (%)
+
+Aroma
+Normal
+Rasa
+Normal
+Keterangan: * : Syarat mutu SNI permen jelly SNI 3547.2-2008
+
+Normal
+Normal
+
+KESIMPULAN DAN SARAN
+Konsentrasi pektin berpengaruh sangat nyata terhadap kadar air, kadar abu, total asam
+organoleptik hedonik (warna, aroma, dan tekstur), organoleptik deskriptif (warna, tekstur, dan
+rasa), dan berpengaruh nyata terhadap hedonik rasa serta deskriptif aroma. Konsentrasi
+karagenan berpengaruh sangat nyata terhadap kadar air, kadar abu, total asam, hedonik warna,
+deskriptif (warna, aroma, tekstur, dan rasa) dan berpengaruh nyata terhadap hedonik aroma.
+Perlakuan terbaik diperoleh dari permen jelly nanas dari penambahan pektin 1,5% dan
+karagenan 1% dengan karakteristik kadar air 15,85%, kadar abu 1,85%, warna 4,48 (kuning
+kecoklatan), aroma 4,25 (bau nanas), tekstur 3,77 (tektur lembek), dan rasa 2,64 (cukup
+manis). Perlu dilakukan penelitian lebih lanjut terhadap daya simpan permen jelly nanas dan
+pengaruh lama pemasakan terhadap pembentukan permen jelly nanas.
+DAFTAR PUSTAKA
+Agustina. 2004. Pengaruh Berbagai Varietas Nanas dalam Pembuatan Keripik Nanas. Jurnal
+IPB , 2(2): 24-30.
+Albrecht, J.A. 2010. Let’s Preserve: Jams, Jellies, and Preserves. University of NebraskaLincoln and United States Department of Agriculture. United States of America.
+Estiasih, T. 2006. Teknologi dan Aplikasi Polisakarida dalam Pengolahan Pangan. Fakultas
+Teknologi Pertanian. Universitas Brawijaya, Malang.
+Estiasih, T dan K. Ahmadi. 2009. Teknologi Pengolahan Pangan. Bumi Aksara, Jakarta.
+Eveline., Santoso,J., dan Widjaya, I. 2009. Pengaruh Konsentrasi dan Rasio Gelatin dari
+Kulit Ikan Patin dan Kappa Karagenan dari Eucheuma cottonii pada Pembuatan Jeli.
+Jurnal Ilmu dan Teknologi Pangan, 7(2): 55-75.
+Harijono., Kusnadi,J., dan Mustikasari, S.A. 2001. Pengaruh Kadar Karagenan dan Total
+Padatan Terlarut Sari Buah Apel Muda terhadap Aspek Kualitas Permen Jeli. Jurnal
+Teknologi Pertanian, 2(2): 110 – 116.
+Mahardika, B.C., YS. Darmanto, Dewi, E.N. 2014. Karakteristik Permen Jelly dengan
+Penggunaan Campuran Semi Refined Carrageenan dan Alginat dengan Konsentrasi
+Berbeda. Jurnal Pengolahan dan Bioteknologi Hasil Perikanan, 3 (3): 112-120.
+http://ejournals1.undip.ac.id/index.php/jpbhp.
+SNI No 3457.2-2008. Kembang Gula Lunak. Departemen Perindustrian dan
+Perdagangan.
+Wijana, S. Arie. F.M. Theresia D. 2014. Pembuatan Permen Jelly dari Buah Nanas (ananas
+comocuc L) (Kajian Konsentrasi Karagenan dan Gelatin). FTP UNIBRAW. Malang.
+Pengaruh Konsentrasi Pektin dan Karagenan Terhadap Permen Jelly Nanas (Ananas comosus L. Merr) (Dedy
+Isnanda, Melly Novita, Syarifah Rohaya)
+JIM Pertanian Unsyiah – THP, Vol. 1, No. 1, November 2016: 912-923
+923
+
+

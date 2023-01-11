@@ -1,0 +1,580 @@
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+RESPON FLUKTUASI TINGKAT UPAH TERHADAP
+PERUBAHAN TINGKAT PENGANGGURAN DI INDONESIA
+Edwin Basmar
+Universitas Fajar
+Email : e2nbm@yahoo.com
+Rachmat Sugeng
+Universitas Fajar
+Email : rachmatsugeng@gmail.com
+
+ABSTRAK
+Penelitian ini bertujuan untuk mengurai penyebab perubahan struktur keuangan
+di Indonesia melalui kebijakan tingkat upah yang berdampak pada tingkat
+pengangguran, baik jangka pendek maupun jangka panjang. Metode pengukuran
+dilakukan dengan mengelolah data statistik yang diperoleh dari Badan Pusat
+Statistik dan Bank Sentral Indonesia, menggunakan alat analisis SPSS versi 23,
+data tersebut disajikan secara time series secara quartalan dari tahun 2009
+hingga 2019. Adapun hasil yang ditemukan adalah pertama untuk priode jangka
+pendek hubungan antara tingkat upah terhadap pengangguran positif signifikan,
+dimana ketika kebijakan tingkat upah rendah maka potensi pengangguran akan
+meningkat, kedua untuk periode jangka panjang hubungan antara tingkat upah
+terhadap potensi pengangguran positif signifikan, ketika kebijakan tingkat upah
+tinggi maka potensi pengangguran juga meningkat di Indonesia.
+Kata-kata Kunci : Upah, Pengangguran, Fluktuasi Keuangan, Krisis Keuangan
+Dan Stabilitas Keuangan
+
+PENDAHULUAN
+Pengangguran merupakan suatu masalah yang dapat merusak
+perekonomian suatu negara, oleh karena itu diperlukan kebijakan yang dapat
+mengurangi peningkatan jumlah pengangguran tersebut1,2. Selain itu
+pengangguran juga dapat memberikan pengaruh pada tingkat kemiskinan, kondisi
+ini akan mempengaruhi fluktuasi keuangan3, baik dalam waktu jangka pendek
+maupun jangka panjang4,5, tingginya tingkat pengangguran menimbulkan biaya
+yang cukup tinggi, ditandai dengan meningkatnya beban sosial yang dicanangkan
+oleh negara untuk mengantisipasi terjadinya peningkatan jumlah pengangguran di
+Indonesia. Salah satu negara yang memiliki pengangguraan yang cukup tinggi
+adalah Amerika6, yang secara tidak langsung pengangguran telah menyebabkan
+terjadinya krisis keuangan yang dikenal dengan nama Suprime Mortgage7.
+Pemerintah Amerika memberikan kredit kepada para nasabah yang tidak memiliki
+pg. 38
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+kemampuan dalam melunasi tunggakan pinjamannya8, hal ini mengakibatkan
+perbankan mengalami kesulitan keuangan yang cukup berat9, dan berimbas pada
+perekonomian secara global.
+Akibat dari meningkatnya jumlah pengangguran ini, maka dapat terjadi
+kemunduran perekonomian di suatu negara10,11 dan akan berdampak negatif jika
+pengangguran tidak ditangani dengan baik12,13, sehingga untuk priode jangka
+panjang akan meningkatkan tingkat kemiskinan secara tidak langsung14.
+Pengangguran yang tidak mendapatkan penghasilan tetap, perlahan akan
+menjadi kaum sosial yang miskin15, dimana kemiskinan ini juga merupakan suatu
+fenomena ekonomi yang harus dicarikan solusi yang tepat, seperti membuka
+lapangan perkerjaan yang mencukupi bagi para pencari pekerjaan yang masih
+produktif16 agar semua penyakit perekonomian dapat teratasi18.
+Tingginya pengangguran sekitar 6.87 juta jiwa memberikan pengaruh pada
+tingkat kejahatan di masyarakat19,20, hal ini dilakukan oleh para pengangguran
+yang tidak memiliki pekerjaan tetap, sehingga untuk memenuhi kebutuhan
+hidupnya dilakukan dengan melakukan kejahatan21,pola tersebut memberikan
+pengaruh sosial bagi masyarakat secara umum dan menimbulkan bencana sosial
+secara khusus.
+Kondisi tersebut sangat kontroversial, terlihat dari penanganan
+pengangguran dengan memberikan bantuan yang sifatnya sementara olehui
+departemen social, sehingga ini tidak menyelesaikan akar masalah, akhirnya
+tingkat pengangguran tetap meningkat di Indonesia, kebijakan yang diberikan
+pemerintah dilakukan dengan pemberian kesehatan gratis, pendidikan, beras
+miskin dan subsidi rumah murah hal ini dilakukan agar pengangguran dan
+kemiskinan dapat berusaha untuk mandiri dengan mengembangkan usaha atau
+bisnisnya sendiri22,23. Kebijakan lainnya yaitu dengan tingkat Upah Minimum
+Regional yang baik dapat meningkatkan kesejahteraan masyarakat setempat24,25.
+Berbagai kebijakan yang dikeluarkan pemerintah terhadap masyarakat,
+maka kebijakan tersebut harus di uji untuk mengetahui hasil kebijakan jangka
+panjang ataupun jangka pendek26. Fenomena rill atas pengangguran ini dilihat
+melalui banyaknya jumlah gelandangan, pengemis, dan pengamen bagai gunung
+es yang tidak dapat terselesaikan27, sehingga dengan penelitian ini dapat
+diketahui perubahan potensi pengangguran melalui rangsangan tingkat upah
+yang ditetapkan pemerintah.
+Peneliti tertarik untuk mengatahui dampak rangsangan tingkat upah
+terhadap pengaruhnya pada potensi pengangguran, baik dalam jangka pendek
+dan jangka panjang, dengan tujuan agar hasil yang diperoleh nantinya
+memberikan kekuatan pada struktur keuangan negara di Indonesia, dimana untuk
+priode jangka pendek diharapkan dapat tercipta pemerataan pendapatan
+masyarakat yang adil, yang meningkatkan pertumbuhan ekonomi di Indonesia,
+sementara untuk jangka panjang diharapkan dapat menjaga stabilitas keuangan
+dan menjadi antithesis krisis keuangan di Indonesia.
+
+pg. 39
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+KAJIAN PUSTAKA
+Nilai upah memberikan peranan penting terciptanya pengangguran yang
+tinggi disuatu negara, hal ini dikarenakan besar kecilnya nilai upah yang diberikan
+akan berdampak pada kepuasan yang dirasakan pekerja, sehingga dengan
+ukuran tersebut tingkat pengangguran dapat berubah-ubah dan sangat
+berfluktuasi, Oleh karena itu upah dan pengangguran tidak terlepas satu dengan
+lainnya karena dampak yang ditimbulkan dapat mempengaruhi jalannya roda
+perekonomian, pandangan ini telah sesuai dengan teori upah dan pengangguran
+yang diungkapkan oleh Devid Ricardo dan Karl Marx. Hukum kesimbangan pasar
+terhadap petensi pengangguran dijelaskan bahwa untuk mencapai tingkat
+keseimbangan antara tingkat upah dan jumlah tenaga kerja berlaku hukum
+permintaan dan penawaran tenaga kerja, efektifitas hukum ini akan berjalan
+ketika tingkat upah meningkat maka titik ekuilibriummya tercapai jika permintaan
+tenaga kerja bagi perusahaan akan menjadi sedikit atau kurang, hal ini
+mengakibatkan terjadi pengangguran yang tinggi, demikian pula sebaliknya
+tingkat pengangguran akan berkurang ketika tingkat upah diturunkan, maka
+permintaan tenaga kerja bagi perusahaan akan meningkat, sementara tingkat
+penawaran akan berkurang, sehingga para tenaga kerja mendapatkan tempat di
+perusahaan dan mengakibatkan jumlah pengangguran semakin berkurang.
+Sejalan dengan pandangan teori Neo Klasik yang melihat bahwa
+pengangguran akan meningkat manakala upah yang ditawarkan ke pasar tenaga
+kerja meningkat, mengakibatkan permintaan atas tenaga kerja akan menurun
+atau dapat dikatakan bahwa perusahaan akan mengurangi jumlah karyawannya
+yang ada (Pemutusan Hubungan Kerja) dalam upaya mengatasi peningkatan
+jumlah upah yang ditawarkan, demikian pula sebaliknya ketika terjadi menurunan
+tingkat upah maka akan mengakibatkan jumlah tenaga kerja dapat terserap
+dengan maksimal.
+Teori hukum permintaan dan penawaran juga menjelaskan bahwa ketika
+pengusahan dalam menciptakan barang dan jasanya banyak menggunakan
+tehnologi yang tinggi maka akan mengakibatkan permintaan akan tenaga kerja
+menurun, sehingga dampak dari penggunaan tehnologi ini mengakibatkan
+terjadinya pengangguran juga meningkat.
+Secara teori pengangguran dapat terjadi dikarenakan banyak faktor,
+misalnya saja pengusaha dalam memproduksi suatu barang memerlukan biaya
+yang cukup besar, maka kemungkinan pengusaha tersebut akan mengurangi
+para tenaga kerjanya untuk tetap melanjutkan jalannya operasi perusahaan,
+sehingga dampak dari pengurangan tenaga kerja ini mengakibatkan pertumbuhan
+pengangguran semakin tinggi.
+Teori tingkat kebutuhan menjelaskan bahwa ketika lapangan pekerjaan
+yang juga bersedia menampung tenaga kerja yang banyak dengan penghasilan
+yang rendah, juga merupakan salah satu penyebab terjadinya tingkat
+pengangguran yang tinggi, hal ini dikarenakan bahwa dengan kemapuan skill
+yang tinggi dengan tingkat upah yang rendah tidak memberikan kepuasan atas
+upah yang diperoleh.
+Disisi lain tingginya tingkat upah yang juga ditawarkan kepada para tenaga
+kerja, biasanya menuntut keahlian yang terkadang tidak dapat dipenuhi oleh para
+
+pg. 40
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+pencari tenaga kerja lainnya, sehingga hal ini juga memberikan pengaruh pada
+bertambahnya pengangguran yang menjadi sulit untuk di kendalikan.
+Pengangguran terjadi pula ketika biaya produksi perusahaan terus
+meningkat yang diakibatkan oleh adanya kondisi perekonomian yang kurang
+mendukung, sehingga memberikan dampak pada faktor penjualan yang semakin
+berkurang, efek penjualan dan permintaan pasar yang berkurang tersebut
+mengakibatkan perusahaan harus menanggung beban produksi yang cukup
+besar, sehingga untuk mennyelesaikan keadaan tersebut persuhaan harus
+melakukan pemutusan hubungan kerja, guna menutupi besaran biaya yang
+ditanggung oleh perusahan. Kondisi ini menberikan dampak pada volume
+pengangguran di suatu negara terus meningkat.
+Teori hukum Okun’s Law menjelaskan bahwa pengangguran dapat
+memberikan pengaruh pada pergerakan pertumbuhan ekonomi suatu negara,
+dimana terdapat hubungan yang negatif antara pengangguran dengan tingkat
+pertumbuhan ekonomi nagara karena dengan pertambahan jumlah
+pengangguran yang banyak maka Negara akan menganggung beban yang cukup
+besar, terkati dengan penetapan kebijakan yang tepat seperti peluang terhadap
+lapangan perkerjaan yang harus disediakaan maupun skill yang harus
+dipersiapakan. Karena kemampuan yang dimiliki oleh para tenaga kerja
+merupakan potensi investasi yang dapat mendatangkan keuntungan bagi negara,
+sehingga dengan tingkat skill yang diukur sebagai investasi tersebut akan
+menjadikan pendapatan secara nasional yang nantinya akan meningkatkan
+pertumbuhan ekonomi secara keseluruhan.
+
+METODOLOGI
+Pengukuran tingkat upah terhadap potensi pengangguran di Indonesia,
+dilakukan dengan mengklasifikasikan tingkat upah, dari data tingkat Upah
+Minimum Regional setiap propinsi di Indonesia, mulai dari tahun 2009 hingga
+tahun 2019 secara time series. Nilai tersebut kemudian dijumlahkan secara
+keseluruhan setiap propinsi, lalu kemudian dirata-ratakan dan disajikan dalam
+bentuk kuartalan, adapun satuan dalam pengukuran ini menggunakan nilai rupiah.
+Pengukuran tingkat pengangguran diukur dengan mengumpulkan data
+secara time series dari tahun 2009 hingga tahun 2019, nilai yang dikumpulkan
+merupakan persentasi jumlah pengangguran dari tahun ke tahun selama periode
+penelitian, kemudian data tersebut dijumlahkan dan dirata-ratakan dengan
+mengklasifikasikan secara kuatralan, adapun satuan pengukuran variabel
+pengangguran ini adalah persen.
+Selajutnya kedua variabel tersebut, baik variabel independen yaitu tingkat
+upah, maupun variabel dependen yaitu tingkat pengangguran, akan dianalisis
+dengan regresi sederhana, menggunakan program SPSS versi 23, dan
+selanjutnya akan diukur potensi tingkat kecenderungan pengangguran dengan
+berdasarkan tingkat upah yang ditetapkan dalam kebijakan pemerintah.
+
+pg. 41
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+Kedua varibel teresebut digambarkan secara statistik melalui hubungan
+fungsi regresinya seperti berikut ini :
+Y=α+βX+µ
+Dimana, X merupakan variabel tingkat Upah Minimum Regional di Indonesia,
+dan variabel Y adalah potensi pengangguran di Indonesia, dimana variabel ini
+merupakan variabel yang ingin dicapai yaitu untuk melihat potensi terjadinya
+peningkatan jumlah pengangguran. Nilai α merupakan nilai kontanta, sementara β
+merupakan parameter variabel yang diukur, dan µ adalah random error.
+
+HASIL PENELITIAN
+Tingkat Pengangguran di Indonesia telah sesuai dengan teori yang telah
+dikemukakan sebelumnya, dimana setiap peningkatan pengangguran terjadi
+karena penurunan tingkat upah yang menimbulkan kekosongan lapangan
+pekerjaan di pasar tenaga kerja.
+Upah merupakan detektor utama terhadap gejolak kebutuhan tenaga kerja
+di pasar tenaga kerja, karena kontrol terhadap potensi pengangguran dapat diatur
+suplay dan demandnya pasar tenaga kerja melalui kebijakan tingkat upah di
+Indonesia.
+Kebijakan yang tepat diukur melalui sinergi antara kebijakan tingkat upah
+dan pengangguran yang terkontrol, oleh karena itu untuk mengetahui besaran
+pengaruh dan tingkat signifikansi variabel yang menjadi ukuran penelitian ini,
+ditampilkan pada Tabel 1, dimana hasil tersebut akan digunakan untuk menjawab
+hipotesis yang telah ditetapkan sebelumnya.
+Tabel 1
+Nilai Koefisien dan Signifikansi Variabel Penelitian
+
+Berdasarkan Tabel 1 diatas, terlihat bahwa nilai konstanta (α) sebesar 14.705 dengan koefisien regresi β = 0.002 (Upah). Untuk memudahkan
+pengukuran hubungan keduanya maka dapat digambarkan secara statistik dalam
+persamaan regresi sederhana sebagai berikut :
+Y=α+βX
+Y = - 14.705 + 0.002 X
+Berdasarkan formula tersebut dapat dikatakan bahwa apabila tingkat upah
+dianggap konstan maka jumlah pengangguran akan bernilai sebesar – 14.705,
+dan apabila tingkat Upah ditingkatkan sebesar Rp 1 maka tingkat pengangguran
+mengalami peningkatan sebesar 0.002 persen.
+Pengaruh variabel tingkat Upah terhadap potensi Pengangguran di
+Indonesia dapat dilihat dengan mengunakan uji t, dimana variabel Upah
+memberikan pengaruh yang sangat signifikan terhadap perubahan tingkat
+pg. 42
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+Pengangguran yang terjadi di Indonesia yaitu (0.000) dengan standar tingkat
+signifikasi (0.050).
+Secara keseluruhan melalui Tabel 1 diatas dapat dikatakan bahwa, baik
+jangka pendek maupun jangka panjang, menunjukkan hubungan yang positif dan
+signifikan antara tingkat upah terhadap potensi pengangguran di Indonesia.
+Kondisi tersebut menandakan bahwa dengan peningatan tingkat upah sebesar Rp
+1 akan menurunkan tingkat pengangguran di Indonesia sebesar 0,002 persen.
+Hasil temuan tersebut, secara keseluruhan memberikan pengaruh terhadap
+potensi pengangguran di Indonesia, namun besaran pengaruhnya pada priode
+jangka pendek dan jangka panjang tersebut masih terdapat perbedaan, hal ini
+ditandai dengan respon potensi pengangguan terhadap tingakt upah di Indonesia.
+Respon yang terjadi pada kedua variabel tersebut cukup berbeda, hal ini
+ditunjukkan melalui perbandingan tingkat upah dengan jumlah pengangguran
+pada priode jangka pendek maupun priode jangka panjang. Kondisi tersebut akan
+memberikan gambaran pengaruh potensi pengangguran dan dampak yang
+diitmbulkannya akan dibahas pada Pembahasan Peneltian secara lebih seksama.
+
+PEMBAHASAN
+1. Tingkat Upah dan Respon Tingkat Pengangguran Jangka Pendek.
+Hasil penelitian yang dilakukan dengan nilai regresi tersebut, menunjukkan
+adanya pengaruh signifikan antara tingkat upah terhadap potensi pegangguran
+yang ditandai dengan signifikansi sebesar 0.000.
+Pengukuran tingkat upah terhadap potensi pengangguran pada periode
+jangka pendek ini, terdapat perbedaan melalui pola sebarannya di level-level
+tertentu, hal ini menunjukkan bahwa pada level tingkat upah tertentu akan
+memberikan pengaruh maksimal terhadap pengangguran, ditandai dengan
+sebaran titik-titik potensial terjadinya tingkat pengangguaran, demikian pula
+sebaliknya, dimana tingkat upah cenderung tidak berdampak terhadap potensial
+pengangguran di Indonesia, hal ini dapat dilihat pada gambar berikut ini :
+
+Gambar 1
+Hubungan Tingkat Upah dan Potensi Pengangguran Jangka Pendek
+
+pg. 43
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+Sumber
+: Hasil Olah Data
+Keterangan : Zona Merah merupakan zona kritis potensi pengangguran, Zona Biru merupakan zona
+normal potensi pengangguran
+
+Melalui hasil regresi pada Tabel 1, menujukkan bahwa hasil penelitian
+untuk jangka pendek ditemukan bahwa dengan tingkat upah yang lebih rendah
+maka potensi pengangguran cukup tinggi, demikian pula sebaliknya ketika tingkat
+upah ditingkatkan maka potensi tingkat pengangguran cukup rendah, sementara
+kondisi tersebut ditandia dengan sebaran titik-titik tingkat pengangguran pada
+level tingkat upah yang ditetapkan dalam kebijakan pemerintah seperti tampak
+pada Gambar 1.
+Gambar 1 tersebut terlihat bahwa tingkat upah berskala kecil yaitu antara
+Rp 1.200.000 hingga Rp 1.300.000, menunjukan bahwa untuk kondisi normal
+terdapat 10 titik potensi pengangguran di Indonesia (zona biru), sementara untuk
+kondisi kritis terdapat 9 titik potensi terjadinya pengangguran di Indonesia (zona
+merah).
+Tingkat upah yang berskala antara Rp 1.300.000 hingga Rp 1.350.000,
+menunjukkan bahwa jika perekonomian berjalan lancar, maka terdapat 6 titik
+potensi pengangguran di Indonesia, sementara untuk kondisi kritis terdapat 4 titik
+potensi terjadinya pengangguran di Indonesia.
+Potensi pengangguran yang terjadi ditingkat upah yang berskala antara
+Rp1.350.000 hingga Rp 1.400.000, menunjukkan bahwa jika perekonomian
+berjalan lancar maka terdapat 6 titik potensi pengangguran di Indonesia,
+sementara untuk kondisi kritis terdapat 1 titik potensi terjadinya pengangguran di
+Indonesia.
+Kondisi tingkat upah pada skala antara Rp 1.400.000 hingga Rp 1.450.000,
+menunjukkan bahwa, jika perekonomian berjalan lancar maka terdapat 3 titik
+potensi pengangguran di Indonesia, sementara untuk kondisi kritis terdapat tidak
+terdapat potensi pengangguran di Indonesia.
+Posisi tingkat upah yang berada pada skala antara Rp 1.450.000 hingga Rp
+1.500.000, menunjukkan bahwa, jika perekonomian berjalan lancar maka terdapat
+4 titik potensi tingkat pengangguran di Indonesia, sementara untuk kondisi kritis
+tidak ditemukan adanya potensi pengangguran di level tersebut.
+Pebandingan antara potensi pengangguran terhadap perubahan tingkat
+upah pada priode jangka pendek ini menunjukkan bahwa pertama, untuk kondisi
+perekonomian normal (zona biru), respon terjadi melalui sebaran titik-titik yang
+merata di setiap level kebijakan tingkat upah, sementara untuk zona merah
+terlihat bahwa potensi pengangguran akan cenderung menurun, manakala tingkat
+upah yang ditawarkan meningkat, hal ini ditandai dengan berkurangnya titik
+potensi pengangguran pada tingkat upah yang tinggi.
+Besaran potensi pengangguran yang dapat merangsang terjadinya dampak
+ekonomi yang cukup berat, terlihat melalui titik-titik yang berada dalam zona
+merah, ini menandakan bahwa, ketika pemerintah menetapkan tingkat upah yang
+rendah potensi pengangguran meningkat, oleh karena itu akan memberikan
+pengaruh sangat besar pada perekonomian, hal ini dapat mengakibatkan
+bertambahnya beban sosial masyarakat ditandai dengan besaran pengangguran
+yang terjadi dipriode tersebut, dibalik jumlah pengangguran yang tinggi terdapat
+biaya yang akan ditanggung oleh pemerintah, hal ini akan berdampak pula pada
+beberapa aspek-aspek non ekonomi lainnya.
+
+pg. 44
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+Hasil penelitian ini menunjukkan bahwa pasar tenaga kerja akan merespon
+positif jika pemerintah menetapkan kebijakan upah yang rendah, hal ini telah
+sesuai dengan penelitian yang dilakukan oleh Campbell C (2014) yang
+menyatakan bahwa tingkat upah yang rendah tidak memberikan dampak yang
+baik bagi setiap tenaga kerja, yang diukur melalui kepuasan yang diperoleh dari
+jumlah pendapatannya.
+Temuan dalam penelitian ini sejalan dengan teori Karl Marx yang melihat
+bahwa output akan maksimal ketika tingkat upah mampu memberikan
+kesejahteraan kepada para tenaga kerja.
+Implikasi penelitian ini memperlihatkan bahwa kebijakan upah menjadi
+perhatian penting bagi pemerintah, hal ini dikarenakan penggunaan sumber daya
+manusia yang maksimal harus di barengi dengan pendapatan yang maksimal
+pula, karena jika tidak diterapkan maka potensi pengangguran berupa banyaknya
+gelandangan dan pengemis dapat berakibat pada terjadinya tingkat kekerasan di
+masyarakat, semuanya itu menjadi bayang-bayang pemerintah untuk dapat
+mengurangi tingkat pengangguran dalam jangka waktu yang pendek.
+
+2. Tingkat Upah dan Respon Tingkat Pengangguran Jangka
+
+Panjang.
+Penelitian tingkat upah terhadap respon tingkat pengangguran untuk jangka
+panjang menunjukkan hasil nilai regresi yang berpengaruh positif signifikan
+ditandai dengan tingkat signifikansi sebesar 0.000.
+Pengukuran tingkat upah terhadap potensi pengangguran pada periode
+jangka panjang ini, terlihat melalui pola sebaran dibeberapa level tertentu,
+khususnya pada tingkat upah yang tinggi memberikan pengaruh maksimal
+terhadap potensi pengangguran melalui sebaran titik-titik potensial pengangguran,
+demikian pula sebaliknya dimana tingkat upah yang rendah maka kecenderungan
+potensi pengangguran tidak terlihat, untuk lebih memahami kondisi tersebut
+dapat dilihat pada gambar berikut ini :
+Gambar 2
+Hubungan Tingkat Upah dan Potensi Pengangguran Jangka Panjang
+
+Sumber
+
+: Hasil Olah Data
+
+pg. 45
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+Keterangan : Zona Merah merupakan zona kritis potensi pengangguran, Zona Biru merupakan zona
+normal potensi pengangguran
+
+Tampak pada Tabel 1 diatas, hasil penelitian untuk jangka panjang
+ditemukan bahwa dengan tingkat upah yang rendah, maka kondisi tersebut tidak
+terdapat potensi pengangguran, demikian pula sebaliknya ketika tingkat upah
+yang tinggi, maka akan terjadi potensi pengangguran yang tinggi di Indonesia,
+sementara kondisi tersebut ditandai dengan sebaran titik titik potensi
+pengangguran pada level tingkat upah yang telah ditetapkan pemerintah seperti
+yang tampak pada gambar 2.
+Gambar 2 tersebut terlihat bahwa tingkat upah dengan skala kecil yaitu
+antara Rp 1.200.000 hingga Rp 1.300.000, menunjukkan bahwa pada kondisi
+normal terdapat 2 titik potensi pengangguran di Indonesia (zona biru), sementara
+untuk kondisi kritis tidak terdapat potensi pengangguran di Indonesia (zona
+merah).
+Tingkat upah yang berskala antara Rp 1.300.000 hingga Rp 1.400.000,
+menunjukkan bahwa jika perekonomian berjalan lancar maka terdapat 6 titik
+potensi pengangguran di Indonesia, sementara untuk kondisi kritis juga terdapat 6
+titik potensi terjadinya pengangguran di Indonesia.
+Potensi pengangguran yang terjadi ditingkat upah skala antara Rp
+1.400.000 hingga Rp 1.500.000, menunjukkan bahwa jika perekonomian berjalan
+lancar maka terdapat 16 titik potensi pengangguran di Indonesia (zona biru),
+sementara untuk kondisi kritis terdapat 15 titik potensi terjadinya pengangguran di
+Indonesia (zona merah).
+Konsentrasi kebijakan upah dalam kaitannya terhadap potensi
+pengangguran di priode jangka panjang ini menunjukkan adanya perbedaan yaitu
+pada kondisi perekonomian normal (zona biru), yang sebaran titik yang tidak
+merata disetiap kebijakan tingkat upah yang ditetapkan pemerintah, sementara
+untuk zona merah terlihat bahwa potensi pengangguran akan cenderung
+meningkat, manakala tingkat upah yang ditawarkan meningkat, hal ini ditandai
+dengan konsentrasi titik potensi pengangguran pada tingkat upah yang tinggi.
+Pada periode jangka panjang ini dapat memberikan efek terjadinya krisis
+ekonomi di Indonesia, hal ini didukung dengan potensi pengangguran yang
+cenderung meningkat pada zona merah, kecenderungan ini terjadi ketika tingkat
+upah mengalami peningkatan, ditandai dengan semakin merapat dan
+terkonsentrasi pada tingkat upah yang tinggi, oleh karena itu ketika kebijakan ini
+tidak ditangani dengan serius maka akan mengakibatkan terjadinya krisis
+ekonomi di Indonesia, demikian pula sebaliknya, ketika pemerintah memberikan
+kebijakan yang tepat terhadap tingkat upah maka potensi krisis ekonomi akan
+berkurang.
+Hasil penelitian diperiode jangka panjang ini menunjukkan bahwa tenaga
+kerja telah memiliki kapasitas kemampuan yang tinggi sehingga layak untuk
+diberikan apresiasi berupa tingkat upah yang tinggi, namun kondisi tersebut
+berbanding terbalik dengan para pemberi kerja yang memilih menggunakan
+tenaga kerja mesin, sehingga ini membuktikan bahwa meski kebijakan upah yang
+tinggi tidak serta merta akan mengurangi potensi pengangguran di Indonesia.
+Kondisi tersebut telah sesuai dengan penelitian yang dilakukan oleh Basmar
+E (2015) yang menyatakan bahwa dengan penggunaan tehnologi yang tinggi
+dalam menjalankan operasional perusahaan maka potensi pengangguran akan
+tetap meningkat meskipun kebijakan tingkat upah dinaikkan.
+pg. 46
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+Temuan dalam penelitian ini sejalan dengan teori Keynes yang melihat
+bahwa kemampuan dalam mengurangi potensi pengangguran tidak hanya
+dengan menetapkan kebijakan tingkat upah yang tinggi, melainkan dengan
+masuknya tehnologi maka potensi pengangguran di suatu Negara akan
+meningkat karena permintaan tenaga kerja yang rendah.
+Implikasi penelitian ini menunjukkan bahwa kebijakan upah bukan menjadi
+dasar utama dalam mengurangi pengangguran, sehingga penting bagi
+pemerintah, untuk mengantisipsi potensi pengangguran tersebut dengan
+mendorong agar penganggur dapat menciptakan lapangan kerja sendiri.
+Ketika kebijakan tersebut tidak digalakkan untuk menciptakan lapangan
+pekerjaan secara mandiri, maka potensi pengangguran akan terus meningkat,
+dan ketika kondisi ini semakin tidak tersentuh oleh pemerintah maka akan
+mengakibatkan terjadinya peningkatan jumlah kemiskinan dalam dampak jangka
+panjang akan mengakibatkan terjadinya krisis ekonomi di masa yang akan datang.
+
+SIMPULAN
+Potensi pengangguran melalui tingkat upah untuk jangka pendek
+menunjukkan pengaruh positif signifikan dimana jika tingkat upah yang rendah
+akan memberikan pengaruh pada meningkatnya potensi pengangguran, karena
+kemampuan pekerja tidak diapresiasi dengan baik melalui kebijakan pengupahan
+di Indonesia, yang akhirnya berimplikasi pada peningkatan jumlah gelandangan
+dan pengemis serta meningkatnya tingkat kekerasan pada sosial kemasyarakatan.
+Priode Jangka panjang, terkait hubungan antara tingkat upah terhadap
+potensi pengangguran di Indonesia, menunjukkan pengaruh positif signifikan,
+dengan gejala bahwa potensi pengangguran tercipta dikala kebijakan tingkat upah
+ditingkatkan, hal ini dikarenakan penggunaan tehnologi sehingga memberikan
+peluang terjadinya krisis ekonomi di Indonesia.
+
+REFERENSI
+Blanchard Olivier and Jordi Gali., A New Keynesian Model with Unemloyment
+Kiel Working Paper Collection No. 2 (2007).
+Reiter Michael., Embodied Technical Change and The Fluktuations of Wage and
+Unemployment, Universitas Pompeu Febra, Department of
+Economics and Business Barcelona (2006).
+Basmar E, ‘ Analisis Siklus Keuangan dan Krisis Keuangan di Indonesia’
+(Universitas Hasanuddin Makassar, 2018).
+Hagedorn Marcus and Lourii Manivskii., The Cyclical Behavior Equilibrium
+Unemployment And Vacancies Revisited, Eropean Central Bank
+Working Paper Series (2008).
+Elsby Michael W., Ryan Michaels, Gary Solon., The Ins And Outs Of Cyclical
+Unemployment, NBER Working Paper Series 2007.
+
+pg. 47
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+Basmar E, Analisis Siklus Keuangan dan Krisis Keuangan di Indonesia
+(Universitas Hasanuddin Makassar, 2018).
+Basmar E, Pengaruh Kebijakan Fiskal dan Kebijakan Moneter terhadap
+Pertumbuhan Ekonomi Pasca Krisis Moneter di Indonesia, Jurnal
+Manajemen Progresif Vol 5, 1 Agustus 2011 Pusat Penelitan dan
+Pengabdian Masyarakat STIM Nitro 2011.
+Utari, G.A.D., Arimurti, T., dan Kurniati, I.N., ‘Pertumbuhan Kredit Optimal’
+(Publikasi Bank Indonesia, 2012).
+Basmar E, The Effect of Interest Rates on The Financial Cycle in Indonesia,
+Advence in Economics, Business and Management Research, Vol 75
+Atlantis Press 2018.
+Basmar E, Dampak Krisis Keuangan Terhadap Pertumbuhan Ekonomi di
+Indonesia, Jurnal Analisis Seri Ilmu-Ilmu Ekonomi, Vol 4 No 2
+Desember 2015, Program Pascasarjana Universitas Hasanuddin,
+2015.
+Hadad, M.D., ‘Peranan Otoritas Jasa Keuangan Dalam Menjaga Stabilitas
+Sistem Keuangan Di Indonesia” (Kuliah umum Fakultas Ekonomi Dan
+Bisnis Universitas Hasanuddin, Makassar 2015).
+Braun Helge, Unemployment Dynamics The Case Monetary Policy Shocks,
+Northwestern University, 2005.
+Gertler Mark, Antonella Trigari., Unemployment Fluctuations With Staggered
+Nash Wage Bargaining, NBER Working Paper Series 2006.
+Deriantino,
+
+Elis, “Indonesia Financial Stability and Macroeconomic
+Development”(Bank Indonesia Research Paper2010).
+
+Owens Mark F., John H. Kagel., Minimum Wage Restrictions And Employee
+Effort In Incomplete Labor Markets An Experimental Investigation
+Journal of Economic Behavior and Organization 73 (2010) 317-326
+Elsevire.
+Clar Miquel, Christian Dreger, and Raul Ramos., Wage Flexibility And Labour
+Market Institutions, IZA DP No. 2581, 2008.
+Haefke Christian, Marcus Sonntag and Thljs Van Rens., Wage Rigiditiy And Job
+Creation, Barcelona GSE Working Paper Series, 2007.
+
+pg. 48
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+Pascalau Razvan, Productivity Shocks, Unemployment Persistence And The
+Adjusment Of Real Wages MPRA Paper No 7222 (2008) .
+Gerlach Knut and Gesine Stephan., Wage Distributions By Wage Setting
+Regime, IAB Discussion Paper No 9 2005.
+Ross Stephen L., Are Shirking And Leisure Substitutable An Empirical Test Of
+Efficiency Wages Based On Urban Economic Theory Regional
+Science and Urban Economics 38 (2008) 498 – 517 Elsevire.
+Kennan John., Private Information, Wage Bargaining, and Employment
+Fluctuations, NBER Working Paper Series (2006).
+Basmar E, Marketing Performance In Improving Competitive Adventages of
+Macro Business South Sulawesi Province, Advence in Economics,
+Business and Management Research, Vol 75 Atlantis Press 2018.
+Basmar E, Organization Culture, Competency, Leadership, OCB, Organizational
+Performance of BAPEDDA Province South Sulawesi, Advence in
+Economics, Business and Management Research, Vol 75 Atlantis
+Press 2018.
+Campbell Carl M., Deriving The Wage–Wage And Price–Price Phillips Curves
+From A Model With Efficiency Wages And Imperfect Information
+Economics Letters 107 (2010) 242 – 245 Elsevire.
+Campbell Carl M., Kunal S. Kamlani, The Reasons For Wage Rigidity Evidence
+From A Survey of Firm Oxford Journal (2014) Northern Illinois
+University.
+Rudanko Leena., Labor Market Dynamics under Long Term Wage Contracting,
+Boston University (2008).
+Altonji Joseph G. and Paul J. Devereux, The Extent And Consequences Of
+Downward Nominal Wage Rigidity, NBER Working Paper Series
+1999.
+Bank Indonesia, “Laporan Tahunan 1989 - 2000” Jakarta 2000.
+Bank Indonesia, “Perkembangan Terkini dan Outlook Ekonomi” Jakarta 2014.
+Bank Indonesia “Kajian Stabilitas Keuangan” No 23 September 2014, Jakarta
+2014.
+
+pg. 49
+
+Jurnal Mirai Management Terakreditasi Nasional
+e-ISSN : 2597 - 4084, Volume 6 No.1 2020
+Available Online at: https://journal.stieamkop.ac.id/index.php/mirai
+
+Bank Indonesia, “Kajian Stabilitas Keuangan” Jakarta 2017.
+Badan Pusat Statistik, “Indikator Ekonomi Desember 2014” Jakarta 2014.
+Kementrian Keuangan Republik Indonesia ‘Laporan Tim Kajian Pola Krisis
+Ekonomi” (Kementrian Keuangan Republik Indonesia Badan
+Kebijakan Fiskal Pusat Kebijakan Ekonomi Makro, Jakarta 2012).
+Campbell Carl M., An Efficiency Wage Approach To Reconciling The Wage
+Curve And The Phillips Curve, Jurnal Labor Economics 15 (2008)
+1388 – 1415 Elsevier.
+Shimer Robert., The Consequences Of Rigid Wages In Search Models, NBER
+Working Paper Series (2004).
+
+pg. 50
+
+

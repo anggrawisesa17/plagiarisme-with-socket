@@ -1,0 +1,850 @@
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+
+Saidah Laugi
+
+Sistem Informasi Berbasis Web....
+Sistem Informasi berbasis Web dalam Penyelenggaran
+Lembaga Pendidikan
+Saidah Laugi
+Dinas Pendidikan dan Kebudayaan Kabupaten Konawe
+email: saidahlaugi78@gmail.com
+Abstrak
+Penggunaan website dalam penyelenggaraan pendidikan
+menjadi tuntutan setiap satuan pendidikan. Tidak hanya dalam rangka
+merespons kebijakan nasional tentang ICT, tetapi secara substantif
+berkaitan dengan kebutuhan lalu lintas informasi, baik intenal maupun
+eksternal lembaga. Praktik ini mesti dapat diturunkan dalam bisnis
+utama sekolah, yakni proses pembelajaran. Guru masa kini dituntut
+untuk dapat memanfaatkan website sekolah untuk kepentingan
+pembelajaran. Juga melakukan inovasi-inovasi pembelajaran berbasis
+web.
+Kata Kunci: Pendidikan, Teknologi Informasi, Komunikasi, Website
+
+Web-based Information System in Operation
+Educational institutions
+Abstract
+The use of the website in the implementation of education to
+the demands of each educational unit. Not only in response to the
+national policy on ICT, but substantively related to information traffic
+needs, both intenal and external agencies. This practice should be
+derived in the primary business of the school, the learning process.
+Today's teachers are required to be able to use the school's website for
+learning purposes. Also do web-based learning innovations.
+Keywords: Education, Information Technology, Communication,
+Website
+
+109
+
+Saidah Laugi
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+Sistem Informasi Berbasis Web….
+
+Pendahuluan
+Kemajuan teknologi informasi telah memacu perubahan pada
+berbagai aspek kehidupan, baik pribadi atau komunal. Secara pribadi,
+pengaruhnya adalah pada gaya hidup, tidak hanya pada upaya
+mendapatkan akses terhadap produk teknologi informasi, tetapi juga
+mengikuti pesan yang menyertai produk teknologi itu1. Secara
+komunal, pengaruh kemajuan teknologi informasi memengaruhi cara
+pandang atau metode dalam menjaga kelangsungan komunitas.
+Singkatnya, baik pribadi ataupun kelompok, pengaruh teknologi
+informasi dan komunikasi tidak dapat dihindari.
+Capaian pada teknologi informasi telah dimanfaatkan oleh
+berbagai lembaga untuk perbaikan kualitas pengelolaan lembaga
+mereka. Salah satu lembaga yang sedang "ikut arus" pemanfaatan
+teknologi informasi itu adalah lembaga pendidikan. Pada lembaga
+pendidikan yang dikelola oleh negara, penggunaan teknologi
+informasi dan komunikasi sangat massif2. Sebagai contoh sekolah di
+bawah naungan kemendikbud, penggunaan teknologi informasi
+dikoordinis langsung oleh kemendikbud. Sehingga sekolah "dipaksa"
+untuk dapat menerapkan pengelolaan sekolah berbasis IT.
+Melalui keputusan presiden (Keppres) Nomor 1 Tahun 2014
+dibentuklah Dewan Teknologi Informasi dan Komunikasi Nasional
+(Detiknas) yang menjalankan visi percepatan pertumbuhan teknologi
+informasi dan komunikasi di Indonesia secara efisien dengan
+membuat kebijakan TIK secara nasional melalui sinkronisasi
+program-program TIK di seluruh kementerian dan lembaga3. Detiknas
+1
+
+Ngafifi menjelaskan bahwa kemajuan pesat teknologi informasi telah
+melahirkan masyarakat digital, tetapi pada saat yang sama menyebabkan pola hidup
+instan, hedonis, pragmatis, bahkan sekuler. Lihat Ngafifi, Muhamad. "Kemajuan
+teknologi dan pola hidup manusia dalam perspektif sosial budaya." Jurnal
+Pembangunan Pendidikan: Fondasi dan Aplikasi 2, no. 1 (2014).
+2
+Hal ini didasarkan pada pengalaman berbagai lembaga profit-non profit
+bahwa penggunaan teknologi informasi dapat memperbaiki kinerja, meningkatkan
+ketepatan, penyederhanaan metode kerja, dan akhirnya peningkatan produktifitas
+kerja. Berbagai turunan dari penggunaan IT telah dilahirkan berbagai lembaga
+sepeti: e-government, e-commerce, e-education, e-medicine, e-laboratory, dan
+sebagainya. Lihat Wardiana, Wawan. "Perkembangan teknologi informasi di
+Indonesia." (2002).
+3
+https://id.wikipedia.org/wiki/Dewan_Teknologi_Informasi_dan_Komunik
+asi_Nasional, diakses 11 Januari 2018. Keppres No. 1 Tahun 2014 merupakan
+penyempurnaan dari Keppres No. 20 Tahun 2006.
+
+110
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+
+Saidah Laugi
+
+Sistem Informasi Berbasis Web....
+bertugas memastikan semua proses dari setiap komponen cetak biru
+TIK berjalan efektif, melalui metode e-leadership yang mempunyai
+kewenangan untuk mengambil keputusan lintas departemen. Selain itu
+perlunya dukungan profesional untuk merumuskan kebijakan dan
+mengkomunikasikan ke semua stakeholders.
+Berdasarkan Keputusan Presiden No. 20 Tahun 2006,
+DeTIKNas bertugas :
+a. Merumuskan kebijakan umum dan arahan strategis pembangunan
+nasional melalui pendayagunaan teknologi informasi dan
+komunikasi;
+b. Melakukan pengkajian dalam menetapkan langkah-langkah
+penyelesaian permasalahan strategis yang timbul dalam rangka
+pengembangan teknologi informasi dan komunikasi;
+c. Melakukan koordinasi nasional meliputi dengan instansi
+Pemerintah Pusat/Daerah, Badan Usaha Milik Negara/Badan Usaha
+Milik/Daerah, Dunia Usaha, Lembaga Profesional, dan komunitas
+teknologi informasi dan komunikasi, serta masyarakat pada
+umumnya;
+d. Memberikan persetujuan atas pelaksanaan program teknologi
+informasi dan komunikasi yang bersifat lintas departemen agar
+efektif dan efisien4.
+Selanjutnya di dalam Keputusan Presiden No. 1 Tahun 2014
+tugas Detiknas adalah sebagai berikut:
+a. Merumuskan kebijakan umum dan arahan strategis pembangunan
+nasional, melalui pengembangan teknologi informasi dan
+komunikasi termasuk infrastruktur, aplikasi, dan konten;
+b. Melakukan pengkajian, evaluasi, dan masukan dalam menetapkan
+langkah-langkah penyelesaian permasalahan strategis yang timbul
+dalam rangka pengembangan teknologi informasi dan komunikasi;
+c. Melakukan koordinasi nasional dengan instansi Pemerintah
+Pusat/Daerah, Badan Usaha Milik Negara/Badan Usaha Milik
+Daerah, Dunia Usaha, Lembaga Profesional, dan masyarakat pada
+umumnya dalam rangka pengembangan teknologi informasi dan
+komunikasi serta memberdayakan masyarakat; dan
+
+4
+
+Keputusan Presiden Republik Indonesia Nomor 20 Tahun 2006 Tentang
+Dewan Teknologi Informasi dan Komunikasi Nasional.
+
+111
+
+Saidah Laugi
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+Sistem Informasi Berbasis Web….
+
+d. Memberikan persetujuan atas pelaksanaan program pengembangan
+teknologi informasi dan komunikasi yang bersifat lintas
+kementerian agar efektif dan efisien5.
+Sebagai respon atas pembentukan Dewan Teknologi Informasi
+dan Komunikasi Nasional, maka berbagai kementerian dan lembaga
+dalam merumuskan perencanaan strategis selalu menempatkan ICT
+dalam posisi penting. Salah satunya dapat dilihat dalam Renstra
+Kemendikbud 2015-2019 yang menempatkan ICT menjadi bagian
+penting upaya peningkatan mutu dan pemerataan program pendidikan
+khususnya program wajar dikdas 9 tahun. Tidak kalah pentingnya
+adalah penguatan tata kelola kelembagaan yang baik 6. Hal
+berdasarkan pada kebijakan pembangunan pendidikan nasional yang
+meliputi: perluasan dan pemerataan akses terhadap pendidikan
+bermutu; peningkatan mutu, relevansi dan daya saing pendidikan; dan
+penguatan tatakelola dan akuntabilitas serta pencitraan publik7. Dalam
+konteks itulah kebijakan ICT untuk Pendidikan Nasional dirumuskan,
+mencakup: Pemanfaatan ICT untuk pemerataan dan perluasan akses,
+dan pendayagunaan ICT untuk meningkatkan mutu relevansi dan daya
+saing. Pendayagunaan ICT untuk penguatan tata kelola, akuntabilitas,
+dan pencitraan publik.
+Manfaat besar menjadi harapan dari kebijakan kementerian
+pendidikan yang mewajibkan penggunaan teknologi informasi di
+sekolah. Namun demikian, dibutuhkan kesiapan sekolah, terutama
+SDM pengelola sarana pendidikan berbasis IT. Tulisan ini mencoba
+melakukan penggambaran tentang sistem informasi sekolah berbasis
+web dengan mendalami aspek-aspek berikut:
+1. Website dan kriteria website berkualitas
+2. Manfaat Website bagi lembaga pendidikan
+3. Sistem informasi sekolah berbasis web
+4. Pengembangan web sekolah dalam kegiatan pembelajaran
+5. Prinsip dasar pengelolaan web sekolah
+
+5
+
+Keputusan Presiden Republik Indonesia Nomor 1 Tahun 2014 Tentang
+Dewan Teknologi Informasi dan Komunikasi Nasional.
+6
+Kebudayaan, Kementerian Pendidikan Dan. "Rencana Strategis
+Kementerian Pendidikan Dan Kebudayaan 2015-2019." (2015).
+7
+Indonesia, Presiden Republik. "Undang-undang Republik Indonesia
+nomor 20 tahun 2003 tentang sistem pendidikan nasional." Jakarta: Pemerintah
+Republik Indonesia (2003).
+
+112
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+
+Saidah Laugi
+
+Sistem Informasi Berbasis Web....
+Sekilas Tentang Website
+“Website atau disingkat web, dapat diartikan sekumpulan
+halaman yang terdiri dari beberapa laman yang berisi informasi dalam
+bentuk data digital baik berupa text, gambar, video, audio, dan
+animasi lainnyayang disediakan melalui jalur internet. Lebih jelasnya,
+website merupakan halaman-halaman yang berisi informasi yang
+ditampilkan oleh browser seperti Mozila Firefox, Google Chrome atau
+yang lainnya8. Sedangkan nesabamedia.com memberikan penjelasan
+tentang website sebagai berikut:
+Website adalah kumpulan informasi yang berbentuk halamanhalaman elektronik atau web page. Sebuah website umumnya
+terhubung pada sebuah alamat penunjuk yang spesifik. Alamat
+penunjuk tersebut dinamakan domain, misal Detik.com atau
+Nesabamedia.com. Website pada umumnya terdiri dari format
+teks, gambar, table, grafik, kutipan , video, musik, dan format
+visual lainnya yang menarik bagi pengunjung website
+tersebut9.
+Perkembangan website sejalan dengan perkembangan
+teknologi internet, sehingga memungkinkan untuk dikembangkan
+untuk berbagai kepentingan sebagaimana ulasan berikut:
+Sebuah website biasanya bisa diakses secara umum.
+Kebanyakan website dapat diakses melalui public internet
+protocol (IP) dalam sebuah jaringan internet. Namun tidak
+menutup kemungkinan bahwa website tersebut diakses secara
+offline melalui jaringan LAN. Website bisa berupa website
+pribadi, komersial, pemerintahan, dan website lainnya yang
+dibuat untuk kepentingan profit maupun non profit yang
+dipublikasikan secara umum. Selain itu, website juga dapat
+dibuat untuk tujuan khusus seperti misalnya untuk hiburan,
+pendidikan, dan juga kepentingan sosial10.
+Dari bentuk dasarnya, website dibagi menjadi dua, yaitu
+website statis dan website dinamis. Halaman website statis tidak akan
+mengalami perubahan konten (isi website) maupun layout saat terjadi
+8
+
+Abdulloh, Rohi. "Web Programming is Easy." Jakarta: Elec Media
+Komputindo (2015).
+9
+https://www.nesabamedia.com/pengertian-website/ diakses 11 Januari
+2018
+10
+https://www.nesabamedia.com/pengertian-website/ diakses 11 Januari
+2018
+
+113
+
+Saidah Laugi
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+Sistem Informasi Berbasis Web….
+
+permintaan data ke web server. Halaman hanya akan berubah jika
+pengelola melakukan perubahan terhadap konten website secara
+manual. Perubahan biasanya dilakukan menggunakan bantuan
+program text editor atau program desain website seperti Adobe
+Dreamweaver. Setiap informasi yang ditampilkan di website statis
+diatur dengan bahasa markup seperti HTML. Untuk itu jika
+dibutuhkan perubahan sekecil apapun, maka hanya bisa dilakukan
+oleh web designer atau web programmer. Halaman website statis jauh
+lebih sederhana, cenderung lebih aman dari serangan hacker, tidak
+rentan dari kesalahan teknis, dan lebih mudah dibaca oleh mesin
+pencari (search engine) seperti Google. Kelebihan dari website statis
+adalah cepat untuk dikembangkan, efisien untuk dikembangkan, dan
+efisien saat disimpan pada web hosting. Sedangkan kekurangan
+website statis adalah membutuhkan tenaga ahli khusus untuk
+melakukan perubahan, situs menjadi kurang bermanfaat bagi
+pengunjung, konten website yang usang11.
+Web dinamis adalah suatu web yang konten atau isinya dapat
+berubah-ubah setiap saat. Sebab dalam teknologi pembuatan web
+dinamis sudah dirancang semudah mungkin bagi pemakai atau user
+yang menggunakan web tersebut. Konten yang terdapat di web
+dinamis pun tersimpan di sebuah database, sehingga bagi orang-orang
+yang tidak bisa akan coding-pun dapat merubah isi konten tersebut
+tanpa harus menguasai bahasa pemrograman web yang biasa disebut
+dengan coding. Untuk perubahan konten atau dokumen dalam sebuah
+web dinamis dibilang mudah ketimbang web statis yang harus
+memiliki keahlian khusus pada bagian scripting web tersebut. Sebuah
+website dinamis umumnya dibuat menggunakan Compact
+Management System (CMS) tertentu dengan penyimpanan data di
+database (misalnya seperti MySQL) dan biasanya juga web ini
+tersusun dari bahasa pemerograman seperti HTML, CSS, PHP,
+JavaScript dan berhubungan dengan database MySQL. Ciri-ciri web
+dinamis antara lain:
+1. Menggunakan bahasa pemrograman web misalnya seperti PHP,
+HTML dan yang lainnya.
+2. Memiliki database.
+
+11
+
+https://www.progresstech.co.id/blog/jenis-website-fungsi/ diakses 11
+Januari 2018
+
+114
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+
+Saidah Laugi
+
+Sistem Informasi Berbasis Web....
+3. Konten di dalamnya bisa berasal dari pengunjung dan bisa juga dari
+database.
+4. Lebih sering di-update12.
+Kelebihan website dinamis antara lain: 1) Konten dan layout
+dapat berubah-ubah atau diubah-ubah; 2) Memakai dynamic html
+(DHTML); Memakai pemrograman server untuk mengatur perubahan
+data; 3) Dapat menggunakan CMS untuk mengubah konten atau isi
+website; 4) Konten web dan layout halaman dibuat secara terpisah,
+sehingga loading pada halaman lebih cepat; 5) Dapat memakai
+database untuk menyimpan konten atau isi; 6) Bisa mepasilitasi
+komunikasi 2 arah antara admin dan juga visitor (pengunjung web); 7)
+Konten yang terbaru selalu berada di urutan paling ataus atau pertama
+karena untuk memperjelas konten yang diupdate. Sedangkan
+kekuarangannya adalah sangat kompleks, sehingga sulit dalam
+pencarian Search Engine13.
+Kriteria Website yang Baik/berkualitas
+Suyanto dalam Pertiwi14, menyebutkan beberapa kriteria
+website yang baik, sebagai berikut:
+1. Usability merupakan pengalaman pengguna dalam berinteraksi
+dengan aplikasi atau website sampai pengguna dapat
+mengoperasikannya dengan mudah dan cepat. Untuk mencapai
+tingkat usability yang ideal, sebuah situs harus memenuhi lima
+syarat berikut:
+a. Mudah untuk dipelajari. Dengan meletakkan isi yang paling
+penting pada bagian atas halaman agar pengunjung dapat
+menemukannya dengan cepat.
+b. Efisien dalam penggunaan. Dengan menyediakan link
+seperlunya saja agar pengunjung dapat mencapai informasi yang
+diperlukan dengan cepat dan mudah.
+c. Mudah untuk diingat. Dengan tidak banyak melakukan
+perubahan yang mencolok pada situs, khususnya pada navigasi.
+12
+
+http://www.pengertianku.net/2015/02/pengertian-web-dinamisdilengkapi-contohnya.html, diakses 11 Januari 2018
+13
+http://www.pengertianku.net/2015/02/pengertian-web-dinamisdilengkapi-contohnya.html, diakses 11 Januari 2018
+14
+Pertiwi, Mega, and Athanasia OP Dewi. "Peran Website Central Java
+Tourism Sebagai Media Penyebaran Informasi." Jurnal Ilmu Perpustakaan 5, no. 4
+(2016): 351-360.
+
+115
+
+Saidah Laugi
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+Sistem Informasi Berbasis Web….
+
+d. Tingkat kesalahan rendah. Dengan menghindari link yang tidak
+berfungsi (broken link) atau halaman masih dalam proses
+pembuatan (under construction).
+e. Kepuasan pengguna. Hal ini wajib diperhatikan karena
+berhubungan dengan kelangsungan website. Oleh karena itu
+sebuah website seharusnya mudah digunakan oleh pengguna.
+Dalam artian pengguna harus dapat menemukan apa yang
+mereka cari, mengunduhnya dengan cepat, mengetahui kapan
+mereka selesai, dan dapat dengan mudah memberitahukan
+website atau konten yang mereka temukan kepada pengguna
+lainnya, ini merupakan promosi bagi situs tersebut.
+2. System Navigasi (struktur), Struktur navigasi adalah urutan alur
+informasi dari suatu aplikasi multimedia. Dengan menggunakan
+struktur navigasi yang tepat maka suatu aplikasi multimedia
+mempunyai suatu pedoman dan arah informasi yang jelas. Aspek
+navigasi berkaitan dengan cara atau mekanisme perpindahan dari
+satu situs ke situs yang lain (menu system) di dalam sebuah sistem
+website. Kemudahan bernavigasi dalam website berkaitan dengan
+tampilan dari website tersebuat. Navigasi membantu pengguna
+menemukan jalan yang mudah ketika menjelajahi website untuk
+dapat menemukan apa yang mereka butuhkan dengan cepat.
+Navigasi dapat ditampilkan dalam berbagai media seperti teks,
+gambar atau animasi. Syarat navigasi yang baik: Mudah dipelajari,
+konsisten, memungkinkan feedback, muncul dalam konteks,
+memberikan alternatif lain, memerlukan perhitungan waktu dan
+tindakan, menyediakan pesan visual yang jelas, menggunakan label
+yang jelas dan mudah dipahami, mendukung tujuan dan perilaku
+user.
+3. Graphic Design, desain yang baik sekurang-kurangnya memiliki
+komposisi warna yang baik dan konsisten, layout grafik yang
+konsisten, teks yang mudah dibaca, penggunaan grafik yang
+memperkuat isi teks, penggunaan animasi pada tempat yang tepat,
+isi animasi yang memperkuat isi teks, dan secara keseluruhan
+membentuk suatu pola yang harmonis.
+4. Contents, pesan atau isi adalah hal utama sebuah situs, karena itu
+haruslah menarik, relevan, dan sesuai untuk target audien situs
+yang dituju. Gaya penulisan yang digunakan juga harus
+menyesuaikan sasaran pengguna website. Website sebaiknya
+memiliki arsip dari konten data-data lama. Untuk objektivitas dan
+116
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+
+Saidah Laugi
+
+Sistem Informasi Berbasis Web....
+ketepatan informasi yang terdapat pada konten, lebih baik bila
+konten tersebut merupakan hasil kompilasi data dan diperkuat
+dengan pendapat pihak-pihak berwenang sehingga informasi yang
+ditampilkan dapat dipercaya dan relevan.
+5. Compatibility, artinya website harus dapat dibuka pada berbagai
+jenis browser. Sehingga memudahkan pengguna dalam melakukan
+suatu pencarian pada browser apapun.
+6. Loading Time, proses loading harus cepat meskipun konten dan
+desain website menarik, terkadang masih kurang mendapatkan
+perhatian dari pengunjung internet. Hal ini tidak terjadi bila loading
+situs berjalan cepat, termasuk dalam membuka gambar. Sebuah
+website yang tampil dengan cepat kemungkinan besar akan
+dikunjungi kembali ditambah dengan konten dan tampilan yang
+menarik.
+7. Functionality, website dapat menjalankan fungsinya dengan baik.
+Artinya website dapat melakukan fungsinya sesuai dengan tujuan
+yang diinginkan ketika membuat website.
+8. Accesibility, halaman website harus dapat digunakan oleh setiap
+orang, tanpa memandang usia dan keadaan fisiknya. Hambatan
+infrastruktur juga harus diperhatikan, seperti akses internet yang
+lambat, spesifikasi komputer, penggunaan browser, dan lain-lain,
+yang dapat mempengaruhi akses seseorang, termasuk berbagai
+teknologi baru seperti handphone yang berbasis android maupun
+IOS. Website juga harus dapat diakses melalui teknologi tersebut.
+9. Interactivity, interaktivitas adalah hal-hal yang melibatkan
+pengguna website sebagai user experience dengan website itu
+sendiri. Dasar dari interaktivitas adalah hyperlinks (link) dan
+mekanisme feedback. Hyperlinks digunakan untuk membawa
+pengunjung ke sumber berita, topik lebih lanjut, topik terkait, atau
+lainnya. Keuntungan dari adanya mekanisme feedback adalah
+pengguna dapat memberitahu pengelola bila ada kesalahan pada
+website, dead link, atau kesalahan lainnya. Pengguna juga dapat
+memberikan kritik/saran demi kemajuan website.
+Kriteria-kriteria di atas menunjukkan kompleksitas dari sebuah
+website yang mesti dikembangkan pada sebuah sekolah. Namun
+demikian, dapat dilakukan kreasi-kreasi dalam rangka menutupi
+kelemahan-kelemahan dalam website sekolah. Hal ini tentu sangat
+ditentukan oleh kualitas pengelola website sekolah.
+
+117
+
+Saidah Laugi
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+Sistem Informasi Berbasis Web….
+
+Manfaat Website bagi Lembaga Pendidikan
+Menurut Amalia15, keberadaan website sekolah saat ini
+semakin dibutuhkan seiring dengan semakin maju nya teknologi
+internet yang begitu mudah di akses oleh semua kalangan masyarakat.
+Banyaknya manfaat website sekolah yang bisa diambil, tidak sedikit
+sekolah – sekolah pemerintah maupun swasta sudah menggunakan
+fasilitas website sekolah ini. Website sekolah pada dasarnya bertujuan
+untuk:
+1. Mendukung program Menteri Pendidikan dalam mengoptimalkan
+Internet di lingkunga Sekolah.
+2. Meningkatkan mutu para Pengelola Sekolah, Guru, Siswa dan
+Perangkat sekolah lainnya.
+3. Mengurangi efek negatif dari penggunaan internet dengan
+memperbanyak modul pendidikan.
+4. Memasyarakatkan internet.
+Dengan adanya koneksitas internet di sekolah dan
+terbentuknya website sekolah, maka beberapa keuntungan yang dapat
+diperoleh diantaranya adalah :
+1. Sebagai media promosi sekolah (meningkatkan prestise sekolah)
+yang menonjolkan kelebihan sekolah baik sarana maupun aktivitas
+pembelajarannya.
+2. Sebagai media komunikasi elektronik baik antar sekolah, instansi
+dan lembaga swasta lainnya. Dalam hal ini web sekolah sebagai
+media interaktif berupa sumbang saran, kesan dan pesan, surat
+elektronik ataupun media silaturahmi antara para pendidik, siswa,
+alumni, orang tua dan masyarakat sekitar.
+3. Mempercepat penyampaian informasi baik antar sekolah, instansi
+ataupun orang tua (masyarakat).
+4. Para pendidik dapat menyalurkan ilmunya di media web sekolah.
+5. Sebagai media pembelajaran alternatif (variasi pembelajaran
+sehingga tidak membosankan).
+6. Sebagai media pembelajaran alternatif keberadaan website sekolah
+memungkinkan untuk terjadinya proses e-learning atau
+pembelajaran melalui internet. Penyajian e-learning berbasis web
+ini bisa menjadi lebih interaktif, dimana informasi-informasi
+(materi pembelajaran) juga bisa realtime. Begitu pula dengan
+15
+
+Amalia, Ifadah dalam https://sites.google.com/site/buatwebsite99/manfaatwebsite-bagi-lembaga-pendidikan, diakses 11 Januari 2018
+
+118
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+
+Saidah Laugi
+
+Sistem Informasi Berbasis Web....
+komunikasinya, meskipun tidak secara langsung tatap muka, tapi
+forum diskusi bisa dilakukan secara online dan real time. System elearning ini tidak memiliki batasan akses, inilah yang
+memungkinkan pembelajaran bisa dilakukan lebih banyak waktu16.
+Beberapa manfaat dari pembelajaran elektronik atau elearning, diantaranya adalah:
+1. Pembelajaran dari mana dan kapan saja (time and place flexibility).
+2. Bertambahnya Interaksi pembelajaran antara peserta didik dengan
+guru atau instruktur (interactivity enhancement).
+3. Menjangkau peserta didik dalam cakupan yang luas (global
+audience)17.
+Berikut ini adalah materi website sekolah yang biasa
+dipersiapkan dalam pembuatan sebuah website sekolah:
+1. Profile sekolah meliputi latar belakang, sejarah singkat, visi dan
+misi, struktur organisasi, staff pengajar sekolah, fasilitas sekolah.
+2. Akademik, mencakup: Program pendidikan, Kurikulum,
+Ekstrakurikuler, Kalender pendidikan.
+3. Kesiswaan, mencakup: Tata tertib Siswa, Kegiatan harian, Daftar
+siswa/santri, Daftar Alumni
+4. Kegiatan External, meliputi: Kegiatan amal, Rihlah/kunjungan
+pendidikan.
+5. Informasi penting, diantaranya: Teknis Penerimaan siswa baru atau
+pendaftaran secara online, Pengumuman hasil ujian atau hasil hasil
+seleksi.
+6. Artikel-artikel pendukung website sekolah
+7. Gallery photo18.
+Sistem Informasi Sekolah Berbasis Web
+Gerakan massifikasi sistem informasi sekolah telah digalakkan
+di berbagai belahan dunia, terutama di negara-negara berkembang
+yang selama beberapa waktu mengalami perlambatan dalam kemajuan
+teknologi informasi. Kesadaran ini dipelopori oleh negara dalam
+rangka menjamin tata kelola lembaga yang lebih baik. Nigeria
+mencontohkan hal ini dimana negara mempelopori pembaruan sistem
+
+16
+
+Amalia, Ifadah, Ibid
+Amalia, Ifadah, Ibid
+18
+Amalia, Ifadah, Ibid
+17
+
+119
+
+Saidah Laugi
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+Sistem Informasi Berbasis Web….
+
+informasi di bidang pendidikan pada semua level sebagai
+pendukungan pengambilan keputusan19.
+Sistem Informasi Sekolah berbasis Web, merupakan sebuah
+sarana untuk menampilkan data-data seputar sekolah, seperti profil
+sekolah, data buku induk siswa, data guru dan karyawan, jadwal
+pelajaran, dan lain sebagainya, dengan memanfaatkan teknologi
+rekayasa web. Salah satu contohnya Sistem Informasi Sekolah
+berbasis Web adalah SISKO (Sistem Informasi Sekolah). SISKO ini
+cukup mumpuni untuk menampilkan data sekolah yang bersangkutan.
+Data-data yang ditampilkan di dalam SISKO harus senantiasa selalu
+di-update. Proses update data ini, dapat dilakukan di komputer Admin,
+yang bisa diletakkan di ruang TU atau ruang lainnya. Selanjutnya, jika
+ada tamu atau pengunjung ingin melihat data-data profil sekolah,
+maka bisa diarahkan atau diajak ke komputer anjungan terdekat.
+Selanjutnya tamu dipersilahkan untuk memilih dan melihat data-data
+yang ditampilkan20. Dengan tersedianya sistem informasi pada
+website sekolah, maka sekolah bersangkutan akan mendapatkan
+manfaat sebagaimana temuan penelitian Nugraha di Surakarta sebagai
+berikut:
+1. Sistem informasi sekolah yang berguna untuk memudahkan
+masyarakat dalam mencari informasi sekolah untuk putra-putri
+mereka.
+2. Sistem yang dibuat memberikan kemudahan kepada pihak sekolah
+untuk melakukan promosi sekolah tanpa harus melakukan
+penyuluhan langsung kepada masyarakat.
+3. Berdasarkan pengujian black box, aplikasi yang telah dibuat
+memenuhi kebutuhan yang diperlukan. Sistem berjalan dengn baik
+sesuai tujuan pembuatan sistem.
+4. Sistem informasi sekolah di Surakarta berbasis web membantu
+masyarakat dalam mengakses informasi sekolah berdasarkan profil
+sekolah, keunggulan sekolah dan fasilitas sekolah21.
+19
+
+Syahrul, Syahrul. "Sistem Informasi Manajemen Pendidikan: Dari
+Dukungan Negara Hingga Sistem Dukungan Keputusan Pada Pendidikan Tinggi."
+Shautut Tarbiyah 35, no. 2 (2017): 156-177.
+20
+http://www.nur-akhwan.web.id/2012/11/sistem-informasi-sekolahberbasis-web.html, diakses 11 Januari 2018
+21
+Nugraha, Roni Sulistya, and S. T. Nurgiyatna. "Sistem Informasi Sekolah
+Di Surakarta Berbasis Website." PhD diss., Universitas Muhammadiyah Surakarta,
+2016.
+
+120
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+
+Saidah Laugi
+
+Sistem Informasi Berbasis Web....
+Pengembangan Web Sekolah dalam Kegiatan Pembelajaran
+Website sebagai sarana strategis dalam persekolahan masa
+kini, terus mengalami pengembangan-pengembangan. Tidak hanya
+dalam konteks memberi informasi atau melakukan transaksi informasi
+antara internal sekolah dengan stakeholder, tetapi telah merambah
+pada wilayah pembelajaran, misalnya e-pedagogy.
+Dalam konteks ini, Wijaya membangun sudut pandang bahwa
+paradigma sistem pendidikan yang semula berbasis tradisional dengan
+mengandalkan tatap muka saja, beralih menjadi sistem pendidikan
+yang tidak dibatasi oleh ruang dan waktu dengan sentuhan dunia
+teknologi informasi khususnya dunia cyber (maya). Sistem pendidikan
+yang berbasis dunia cyber yang dimaksudkan disebut dan dikenal
+dengan istilah e-learning. Adanya keterbatasan dalam proses belajar
+mengajar tradisional berbasis tatap muka yang dibatasi oleh ruang dan
+waktu, maka e-learning hadir untuk mengantisipasi hal ini. Dengan
+proses belajar mengajar tidak dibatasi lagi oleh ruang dan waktu
+sehingga hubungan antara peserta didik dan pengajar bisa dilakukan
+kapan saja dan di mana saja22.
+Wijaya juga mengutip
+Kevin Kruse yang mengatakan
+bahwadalam salah satu tulisannya yang berjudul “Using the Web for
+Learning” yang dimuat dalam situs web e-learningguru.com bahwa
+pembelajaran berbasis web seringkali memilikimanfaat yang banyak
+bagi para peserta didiknya. Bila dirancang dengan baik dan tepat,
+maka pembelajaran berbasis web bisa menjadi pembelajaran yang
+menyenangkan, memiliki unsur interaktivitas yang
+tinggi,
+menyebabkan peserta didik mengingat lebih banyak materi pelajaran,
+serta mengurangi biaya-biaya operasional yang biasanya dikeluarkan
+oleh peserta didik untuk mengikuti pembelajaran23.
+Wijaya dalam kajiannya menyimpulka antara lain:
+1. Guru memandang model pembelajaran e-learning berbasis web
+sebagai suatu model yang baik karena bukan hanya pengembangan
+pembelajaran untuk siswanya saja tetapi juga wahana untuk
+pengembangan kompetensi diri sebagai seorang guru yang
+profesional. Berbagai tujuan pembelajaran dapat diakomodasikan
+22
+
+Wijaya, Muksin. "Pengembangan model pembelajaran e-learning
+berbasis web dengan prinsip e-Pedagogy dalam meningkatkan hasil belajar." Jurnal
+Pendidikan Penabur 11, no. 19 (2012): 20-27.
+23
+Wijaya, Muksin, Ibid
+
+121
+
+Saidah Laugi
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+Sistem Informasi Berbasis Web….
+
+oleh model ini seperti siswa dapat berpikir kreatif, dan aktif, serta
+siswa dapat belajar sesuai tingkat kecepatan belajar masing-masing
+siswa itu sendiri, dan berbagai hal lainnya. Berdasarkan penelitian,
+maka dapat disimpulkan bahwa bagi guruyang memiliki dedikasi
+dan tanggung jawab yang tinggi terhadap peningkatan mutu
+pembelajaran, akan melihat model ini sebagai suatu cara dalam
+mengembangkan kemampuan dirinya, melakukan inovasi dan
+pengembangan dalam pembelajaran.
+2. Siswa memandang model pembelajaran elearning berbasis web
+dengan prinsip e-pedagogi sebagai suatu pembelajaran yang
+menyenangkan, dan mereka terlibat langsung dalam pembelajaran
+dan pembentukan pengalaman belajarnya sendiri. Berdasarkan
+pada hasil penelitian dapat disimpulkan bahwa dengan model
+model pembelajaran e-learning berbasis web dengan prinsip epedagogi minat siswa dalam belajar semakin meningkat, proses
+belajarpun dirasakan menarik dan tidak membosankan karena
+siswa secara aktif terlibat dalam pembelajaran24.
+Sementara itu Muhson juga mengemukakan gagasan tentang
+pengembangan media pembelajaran berbasis teknologi informasi 25.
+Muhson melihat bahwa dalam rangka meningkatkan efektivitas dan
+efisiensi pembelajaran, perlu dikembangkan berbagai model
+pembelajaran yang kreatif dan inovatif. Hal ini perlu dilakukan agar
+proses pembelajaran tidak terkesan kurang menarik, monoton dan
+membosankan sehingga akan menghambat terjadinya transfer of
+knowledge. Oleh karena itu peran media dalam proses pembelajaran
+menjadi penting karena akan menjadikan proses pembelajaran tersebut
+menjadi lebih bervariasi dan tidak membosankan. Rasionalisasi
+gagasan ini dihubungkan dengan hasil penelitian Eyler dan Giles yang
+membuktikan bahwa keefektifan pembelajaran dipengaruhi oleh
+media yang digunakan guru. Mereka menemukan bahwa model
+pembelajaran yang letaknya paling atas dalam kerucut, yakni
+pembelajaran yang hanya melibatkan symbol-simbol verbal melalui
+sajian teks adalah pembelajaran yang menghasilkan tingkat abstraksi
+paling tinggi. Pembelajaran yang paling efektif adalah pembelajaran
+yang berada pada dasar kerucut, yakni terlibat langsung dengan
+24
+
+Wijaya, Muksin, Ibid
+Muhson, Ali. "Pengembangan media pembelajaran berbasis teknologi
+informasi." Jurnal Pendidikan Akuntansi Indonesia 8, no. 2 (2010).
+25
+
+122
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+
+Saidah Laugi
+
+Sistem Informasi Berbasis Web....
+pengalaman-pengalaman belajar yang bertujuan. Tingkat abstraksi
+pada model pembelajaran ini sangat rendah sehingga memudahkan
+siswa dalam menyerap pengetahuan dan keterampilan baru26.
+Muhson menimpulkan bahwa media pembelajaran dapat
+merupakan wahana penyalur pesan dan informasi belajar. Media
+pembelajaran yang dirancang secara baik akan sangat membantu
+peserta didik dalam mencerna dan memahami materi pelajaran. Fungsi
+media dalam kegiatan pembelajaran bukan sekedar alat peraga bagi
+guru melainkan sebagai pembawa informasi/pesan pembelajaran.
+Masing-masing jenis media pembelajaran memiliki karakteristik,
+kelebihan serta kekurangannya. Itulah sebabnya maka perlu adanya
+perencanaan yang sistematis untuk penggunaan media pembelajaran.
+Selain itu, di era globalisasi dan informasi ini, perkembangan media
+pembelajaran juga semakin maju. Penggunaan Teknologi Informasi
+(TI) sebagai media pembelajaran sudah merupakan suatu tuntutan.
+Walaupun perancangan media berbasis TI memerlukan keahlian
+khusus, bukan berarti media tersebut dihindari dan ditinggalkan.
+Media pembelajaran berbasis TI dapat berupa internet, intranet,
+mobile phone, dan CD Room/Flash Disk. Adapun komponen
+utamanya meliputi Learning Management System (LMS), dan
+Learning Content (LC). Tidak kalah pentingnya adalah penggunaan
+media pembelajaran ekonomi dapat memperlancar proses
+pembelajaran dan mengoptimalkan hasil belajar untuk itu sebagai
+pendidik seyogyanya mampu memilih dan mengembangkan media
+yang tepat agar proses pembelajaran dapat berjalan lebih efektif dan
+efisien27.
+Prinsip Dasar Pengelolaan Web Sekolah
+Website memiliki fungsi komunikasi yang sangat beragam.
+Website dapat kita pandang sebagai media promosi, atau website
+sebagai media keterbukaan informasi atau bahkan keduanya. Apalagi
+pada industri perbankan dimana aspek mengenai keterbukaan
+informasi diatur secara rinci, bahkan hingga kepada keterbukaan
+informasi produk bank. Melalui website, seluruh pemangku
+kepentingan terkait dengan perusahaan, dapat mencari informasi
+
+26
+27
+
+Muhson, Ali, Ibid
+Muhson, Ali, Ibid
+
+123
+
+Saidah Laugi
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+Sistem Informasi Berbasis Web….
+
+apapun, kapanpun secara akurat dan memadai28. Hal ini sejalan
+dengan temuan Utari, bahwa latar belakang penyelenggaraan website
+sekolah adalah kondisi persaingan antar sekolah, kesadaran perlunya
+menjalin komunikasi dengan pihak eksternal, keberadaan fasilitas dan
+SDM pendukung, dan pelaksanaan model belajar interaktif, mandiri
+dan jarak jauh berupa e-learning. Pemanfaatan website sebagai media
+humas dengan mengemas isi pesandan tampilan dengan
+memperhatikan karakteristik sekolah untuk membangun image positif.
+Manajemen tenaga pengelola website dalam rangka mendukung
+fungsi kegiatan humas masih diwarnai oleh hambatan SDM dan
+pendanaan bagi kompensasi, ketiadaan deskripsi tugas yang jelas, dan
+evaluasi yang belum menyeluruh29.
+Secara umum kegiatan pengelolaan website sebuah lembaga
+dimulai dari proses pengadaannya hingga kepada maintenance
+website dan content management. Proses pengadaan dimulai dari
+penentuan kebutuhan spesifikasi, price request, menetapkan owner
+estimate, aanwijzing/pitching hingga kepada pengajuan usulan mitra/
+konsultan yang dipilih. Dalam menentukan calon pihak ketiga dapat
+dinilai dari legalitas perusahaan, pengalaman atau portofolio
+perusahaan, dan konsep serta penawaran yang diajukan. Untuk
+maintenance website meliputi domain website, server, database, anti
+virus, anti hacking, dan reporting website, dan termasuk juga
+didalamnya adalah content management atau pengelolaan updating
+dan uploading dari content atau isi yang ditampilkan30. Bandingkan
+dengan Umar yang melakukan kajian tentang Content Management
+System (CMS)31.
+Lembaga yang ingin menjaga rahasia bisnis atau rahasia
+perusahaan sampai membuat websitenya dan mengelolanya sendiri,
+tanpa bantuan konsultan. Namun dengan pertimbangan menjaga risiko
+supaya website perusahaan kita tidak down, tidak mudah diserang
+28
+
+https://fakhrurrojihasan.wordpress.com/2015/10/19/prinsip-dasarmengelola-website-perusahaan-2/diakses 11 Januari 2018
+29
+Utari, Rahmania. "Website sebagai Media Humas Sekolah." Jurnal
+Penelitian Ilmu Pendidikan 6, no. 2 (2001).
+30
+https://fakhrurrojihasan.wordpress.com/2015/10/19/prinsip-dasarmengelola-website-perusahaan-2/diakses 11 Januari 2018
+31
+Umar, Rusydi, Sri Winiarti, and FERNANDO SITINDON.
+"Implementasi Content Management System (CMS) Pada Situs Portal Berita."
+PROCEEDING, KOMPUTER DAN SISTEM INTELEJEN (KOMMIT 2004) (2004).
+
+124
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+
+Saidah Laugi
+
+Sistem Informasi Berbasis Web....
+hacker dan virus, ada baiknya jika pengelolaan website dialihdayakan
+kepada konsultan, jika memang sebuah perusahaan tidak memiliki
+sumber daya yang kompeten untuk mengelola website perusahaan
+secara full internal32.
+Penutup
+Perkembangan teknologi informasi dan komunikasi telah
+memengaruhi berbagai bidang kehidupan manusia. Lembaga
+pendidikan mesti secara responsif memanfaatkan kemajuan tersebut
+secara produktif, baik dalam kegiatan manajemen sekolah, maupun
+secara spesifik dalam kegiatan pembelajaran yang inovatif, nyaman,
+dan menyenangkan peserta didik. Keberadaan web sekolah yang
+dikomandoi oleh kementerian pendidikan dan kebudayaan harus
+memicu peningkatan kinerja dan produktifitas sekolah.
+Daftar Pustaka
+Abdulloh, Rohi. "Web Programming is Easy." Jakarta: Elec Media
+Komputindo (2015).
+Amalia, Ifadah, dalam
+https://sites.google.com/site/buatwebsite99/manfaat-websitebagi-lembaga-pendidikan, diakses 11 Januari 2018
+https://www.progresstech.co.id/blog/jenis-website-fungsi/diakses 11
+Januari 2018
+https://www.nesabamedia.com/pengertian-website/diakses 11 Januari
+2018
+http://www.pengertianku.net/2015/02/pengertian-web-dinamisdilengkapi-contohnya.html, diakses 11 Januari 2018
+http://www.nur-akhwan.web.id/2012/11/sistem-informasi-sekolahberbasis-web.html
+https://fakhrurrojihasan.wordpress.com/2015/10/19/prinsip-dasarmengelola-website-perusahaan-2/diakses 11 januari 2018
+Indonesia, Presiden Republik. "Undang-undang Republik Indonesia
+nomor 20 tahun 2003 tentang sistem pendidikan nasional."
+Jakarta: Pemerintah Republik Indonesia (2003).
+
+32
+
+https://fakhrurrojihasan.wordpress.com/2015/10/19/prinsip-dasarmengelola-website-perusahaan-2/diakses 11 Januari 2018
+
+125
+
+Saidah Laugi
+
+Shautut Tarbiyah, Ed. Ke-38 Th. XXIV, Mei 2018
+Sistem Informasi Berbasis Web….
+
+Kebudayaan, Kementerian Pendidikan Dan. "Rencana Strategis
+Kementerian Pendidikan Dan Kebudayaan 2015-2019."
+(2015).
+Keputusan Presiden Republik Indonesia Nomor 20 Tahun 2006
+Tentang Dewan Teknologi Informasi dan Komunikasi
+Nasional.
+Keputusan Presiden Republik Indonesia Nomor 1 Tahun 2014
+Tentang Dewan Teknologi Informasi dan Komunikasi
+Nasional.
+Muhson, Ali. "Pengembangan media pembelajaran berbasis teknologi
+informasi." Jurnal Pendidikan Akuntansi Indonesia 8, no. 2
+(2010).
+Ngafifi, Muhamad. "Kemajuan teknologi dan pola hidup manusia
+dalam perspektif sosial budaya." Jurnal Pembangunan
+Pendidikan: Fondasi dan Aplikasi 2, no. 1 (2014).
+Nugraha, Roni Sulistya, and S. T. Nurgiyatna. "Sistem Informasi
+Sekolah Di Surakarta Berbasis Website." PhD diss.,
+Universitas Muhammadiyah Surakarta, 2016.
+Pertiwi, Mega, and Athanasia OP Dewi. "Peran Website Central Java
+Tourism Sebagai Media Penyebaran Informasi." Jurnal Ilmu
+Perpustakaan 5, no. 4 (2016)
+Syahrul, Syahrul. "Sistem Informasi Manajemen Pendidikan: Dari
+Dukungan Negara Hingga Sistem Dukungan Keputusan Pada
+Pendidikan Tinggi." Shautut Tarbiyah 35, no. 2 (2017)
+Umar, Rusydi, Sri Winiarti, and FERNANDO SITINDON.
+"Implementasi Content Management System (CMS) Pada
+Situs Portal Berita." PROCEEDING, KOMPUTER DAN
+SISTEM INTELEJEN (KOMMIT 2004) (2004).
+Utari, Rahmania. "Website sebagai Media Humas Sekolah." Jurnal
+Penelitian Ilmu Pendidikan 6, no. 2 (2001).
+Wardiana, Wawan. "Perkembangan teknologi informasi di Indonesia."
+(2002).
+Wijaya, Muksin. "Pengembangan model pembelajaran e-learning
+berbasis web dengan prinsip e-Pedagogy dalam meningkatkan
+hasil belajar." Jurnal Pendidikan Penabur 11, no. 19 (2012)
+
+126
+
+

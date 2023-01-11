@@ -1,0 +1,697 @@
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 661-671
+
+Pengukuran Usability Sistem Menggunakan Use Questionnaire Pada Aplikasi
+Android
+
+Dedi Rianto Rahadi
+Program Pascasarjana Universitas Bina Darma Palembang
+Email : dedi1968@yahoo.com
+
+Abstrak
+Perkembangan Android menjadi sebuah sistem operasi telepon pintar yang paling banyak digunakan di
+dunia. Sistem Android merupakan pilihan bagi perusahaan yang menginginkan sistem operasi berbiaya
+rendah. Penelitian ini dilakukan untuk menganalisis apakah aplikasi Android memiliki akseptabilitas
+berdasarkan kriteria usability. Penelitian dilakukan dengan menggunakan kuesioner sebagai instrumen
+penelitian. Kuesioner penelitian yang disebar terdiri atas 13 pertanyaan yang dikelompokkan menjadi lima
+variabel usability. Berdasarkan pengolahan data diperoleh hasil bahwa dari 5 variabel usability yang
+digunakan pada kuesioner, hanya 1 variabel yang signifikan digunakan untuk menganalisis usability
+aplikasi yaitu memorability. Dari 5 variabel tersebut aplikasi Android belum memenuhi 4 variabel lainnya
+sehingga dapat disimpulkan bahwa aplikasi Android belum memenuhi kriteria-kriteria usability, tetapi hasil
+evaluasi/pengujian menunjukkan bahwa nilai penerimaan usability oleh user berada di atas angka 3 (diatas
+nilai tengah) dalam skala 5. Faktor yang paling dominan mempengaruhi kenaikan tingkat usability adalah
+mudah diingat sekaligus berpengaruh positif dalam menaikkan tingkat akseptabilitas aplikasi Android.
+Kata kunci : Telepon pintar, kuesioner, usability, android
+
+Abstract
+Android development into a smart phone operating system most widely used in the world. Android System is
+an option for companies who want a low-cost operating system . This study was conducted to analyze
+whether Android has acceptability based on usability criteria. The study was conducted using a
+questionnaire as a research instrument . Questionnaires were distributed research consists of 13 questions
+grouped into five variables usability . Based on the data processing of the results showed that the usability of
+five variables used in the questionnaire, only one significant variable is used to analyze the usability of
+applications that memorability . Of 5 variables Android 4 has not met the other variables so it can be
+concluded that Android has not met the criteria for usability , but the results of the evaluation / testing
+indicates that the value of usability acceptance by the user is above the number 3 ( above the median value )
+on a scale of 5 . The most dominant factor affecting the increase in the level of usability is easy to remember
+as well the positive effect of raising the level of acceptability of Android applications .
+Keywords : smart phone , questionnaires , usability , android
+
+1.
+
+PENDAHULUAN
+Interface pengguna Android didasarkan pada manipulasi langsung menggunakan
+masukan sentuh yang serupa dengan tindakan di dunia nyata, seperti menggesek (swiping),
+mengetuk (tapping), mencubit (pinching), dan membalikkan cubitan untuk memanipulasi
+obyek di layar.
+Masukan pengguna direspon dengan cepat dan juga tersedia antarmuka sentuh
+layaknya permukaan air, seringkali menggunakan kemampuan getaran perangkat untuk
+memberikan umpan balik haptik kepada pengguna. Perangkat keras internal sepeti
+akselerometer, giroskop, dan sensor proksimitas digunakan oleh beberapa aplikasi untuk
+merespon tindakan pengguna, misalnya untuk menyesuaikan posisi layar dari potret ke
+lanskap, tergantung pada bagaimana perangkat diposisikan, atau memungkinkan pengguna
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+661
+
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 661-671
+
+untuk mengarahkan kendaraan saat bermain balapan dengan memutar perangkat sebagai
+simulasi kendali setir.
+1.1 Pengertian Android
+Pengertian android menurut wikipedia berbahasa Indonesia, Android
+( /ˈæn.drɔɪd/; AN-droyd) adalah sistem operasi berbasis Linux yang dirancang untuk
+perangkat seluler layar sentuh seperti telepon pintar dan komputer tablet. Antarmuka
+pengguna Android didasarkan pada manipulasi langsung, menggunakan masukan sentuh
+yang serupa dengan tindakan di dunia nyata, seperti menggesek, mengetuk, mencubit, dan
+membalikkan cubitan untuk memanipulasi obyek di layar. Android adalah sistem operasi
+dengan sumber terbuka, dan Google merilis kodenya di bawah Lisensi Apache. Kode
+dengan sumber terbuka dan lisensi perizinan pada Android memungkinkan perangkat
+lunak untuk dimodifikasi secara bebas dan didistribusikan oleh para pembuat perangkat,
+operator nirkabel, dan pengembang aplikasi. Selain itu, Android memiliki sejumlah besar
+komunitas pengembang aplikasi (apps) yang memperluas fungsionalitas perangkat,
+umumnya ditulis dalam versi kustomisasi bahasa pemrograman Java.
+1.2 Fitur Android
+Ketika dihidupkan, perangkat Android akan memuat pada layar depan (homescreen),
+yakni navigasi utama dan pusat informasi pada perangkat, serupa dengan desktop pada
+komputer pribadi. Layar depan Android biasanya terdiri dari ikon aplikasi dan widget;
+ikon aplikasi berfungsi untuk menjalankan aplikasi terkait, sedangkan widget
+menampilkan konten secara langsung dan terbarui otomatis, misalnya prakiraan cuaca,
+kotak masuk surel pengguna, atau menampilkan tiker berita secara langsung dari layar
+depan. Layar depan bisa terdiri dari beberapa halaman, pengguna dapat menggeser bolak
+balik antara satu halaman ke halaman lainnya, yang memungkinkan pengguna Android
+untuk mengatur tampilan perangkat sesuai dengan selera mereka. Beberapa aplikasi pihak
+ketiga yang tersedia di Google Play dan di toko aplikasi lainnya secara ekstensif mampu
+mengatur kembali tema layar depan Android, dan bahkan bisa meniru tampilan sistem
+operasi lain, misalnya Windows Phone. Kebanyakan produsen telepon seluler dan operator
+nirkabel menyesuaikan tampilan perangkat Android buatan mereka untuk membedakannya
+dari pesaing mereka.
+
+Gambar 1. Layar Notifikasi Pada Ponsel Android
+
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+662
+
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 661-671
+
+Di bagian atas layar terdapat status bar, yang menampilkan informasi tentang
+perangkat dan konektivitasnya. Status bar ini bisa "ditarik" ke bawah untuk membuka
+layar notifikasi yang menampilkan informasi penting atau pembaruan aplikasi, misalnya
+surel diterima atau SMS masuk, dengan cara tidak mengganggu kegiatan pengguna pada
+perangkat.
+1.3 Aplikasi
+Android memungkinkan penggunanya untuk memasang aplikasi pihak ketiga, baik
+yang diperoleh dari toko aplikasi seperti Google Play, Amazon Appstore, ataupun dengan
+mengunduh dan memasang berkas APK dari situs pihak ketiga.
+Tabel di bawah ini
+menampilkan data mengenai persentase jumlah perangkat Android yang mengakses
+Google Play baru-baru ini :
+
+Gambar 2. Data Persentase Jumlah Perangkat Android
+Aplikasi Android dikembangkan dalam bahasa pemrograman Java dengan
+menggunakan kit pengembangan perangkat lunak Android (SDK). SDK ini terdiri dari
+seperangkat perkakas pengembangan, termasuk debugger, perpustakaan perangkat lunak,
+emulator handset yang berbasis QEMU, dokumentasi, kode sampel, dan tutorial. Didukung
+secara resmi oleh lingkungan pengembangan terpadu (IDE) Eclipse, yang menggunakan
+plugin Android Development Tools (ADT). Perkakas pengembangan lain yang tersedia di
+antaranya adalah Native Development Kit untuk aplikasi atau ekstensi dalam C atau C++,
+Google App Inventor, lingkungan visual untuk pemrogram pemula, dan berbagai kerangka
+kerja aplikasi web seluler lintas platform.
+1.4 Kajian Tentang Usability
+Kajian tentang usability (kegunaan) merupakan bagian dari bidang ilmu multi
+disiplin Human Computer Interaction (HCI). Disampaikan oleh Nugroho (2009:2) Human
+Computer Interaction merupakan bidang ilmu yang berkembang sejak tahun 1970 yang
+mempelajari bagaimana mendesain tampilan layar komputer dalam suatu aplikasi sistem
+informasi agar nyaman dipergunakan oleh pengguna. Usability berasal dari kata Usable
+yang secara umum berarti dapat digunakan dengan baik. Sesuatu dapat dikatakan berguna
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+663
+
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 661-671
+
+dengan baik apalagi kegagalan dalam penggunaanya dapat dihilangkan atau diminimalkan
+serta memberi manfaat dan kepuasan kepada pengguna (Rubin dan Chisnell, 2008) dalam
+Joana (2010).
+Menurut Joseph Dumas dan Janice Redish (1999) usability mengacu kepada
+bagaimana pengguna bisa mempelajari dan menggunakan produk untuk memperoleh
+tujuannya dan seberapa puaskah mereka terhadap penggunannya.
+Definisi usability menurut ISO 9241:11 (1998) adalah sejauh mana suatu produk
+dapat digunakan oleh pengguna tertentu untuk mencapai target yang ditetapkan dengan
+efektivitas, efesiensi dan mencapai kepuasan penggunaan dalam konteks tertentu. Konteks
+penggunaan terdiri dari pengguna, tugas, peralatan (hardware, software dan material).
+Berdasarkan definisi tersebut usability diukur berdasarkan komponen :
+a. Kemudahan (learnability) didefinisikan seberapa cepat pengguna mahir dalam
+menggunakan sistem serta kemudahan dalam penggunaan menjalankan suatu fungsi
+serta apa yang pengguna inginkan dapat meraka dapatkan.
+b. Efisiensi (efficiency) didefenisikan sebagai sumber daya yang dikeluarkan guna
+mencapai ketepatan dan kelengkapan tujuan.
+c. Mudah diingat (memorability) didefinisikan bagaimana kemapuan pengguna
+mempertahankan pengetahuannya setelah jangka waktu tertentu, kemampuan
+mengngat didapatkan dari peletakkan menu yang selalu tetap.
+d. Kesalahan dan keamanan (errors) didefinisikan berapa banyak kesalahan-kesalahan
+apa saja yang dibuat pengguna, kesalahan yang dibuat pengguna mencangkup
+ketidaksesuaian apa yang pengguna pikirkan dengan apa yang sebenarnya disajikan
+oleh sistem.
+e. Kepuasan (satisfaction) didefinisikan kebebasan dari ketidaknyamanan, dan sikap
+positif terhadap penggunaan produk atau ukuran subjektif sebagaimana pengguna
+merasa tentang penggunaan sistem.
+1.5 Pengukuran Usability dengan Use Questionnnaire
+Kuisioner yang dapat digunakan untuk mengukur usability adalah USE, terdapat
+beberapa aspek pengukuran usability menurut Ido yaitu efesiensi, efektivitas dan
+kepuasan. Beberapa penelitian yang sudah dilakukan menunjukan bahwa kebanyakan
+evaluasi produk mengacu pada tiga dimensi. Hasil beberapa pengamatan juga menunjukan
+adanya korelasi dan saling mempengaruhi antara parameter ease of use dan usefulness.
+Faktor usefulness biasanya kurang penting jika sistem tersebut bersifat sistem internal
+dimana penggunanya bersifat wajib. Kuisioner dibuat dalam bentuk skor lima point
+dengan model skala likert, untuk pengukuran tingkat persetujuan user terhadap statement
+hasil pengukuran kemudian diolah dengan metoda statistik deskriptif dan dilakukan
+analisis baik terhadap masing-masing parameter atau terhadap keseluruhan parameter. Use
+merupakan salah satu paket kuisioner non komersial yang dapat digunakan untuk
+penelitian usability sistem.
+Menurut Jacob Nielsen, usability adalah atribut kualitas yang menjelaskan atau
+mengukur seberapa mudah penggunaan suatu antar muka (interface). Kata “usability” juga
+merujuk pada suatu metode untuk meningkatkan kemudahan pemakaian selama proses
+
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+664
+
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 661-671
+
+desain. Usability diukur dengan lima kriteria, yaitu: learnability, efficiency, memorability,
+errors, dan satisfaction.
+Learnability mengukur tingkat kemudahan melakukan tugas-tugas sederhana ketika
+pertama kali menemui suatu desain. Efficiency mengukur kecepatan mengerjakan tugas
+tertentu setelah mempelajari desain tersebut. Memorability melihat seberapa cepat
+pengguna mendapatkan kembali kecakapan dalam menggunakan desain tersebut ketika
+kembali setelah beberapa waktu. Errors melihat seberapa banyak kesalahan yang
+dilakukan pengguna, separah apa kesalahan yang dibuat, dan semudah apa mereka
+mendapatkan penyelesaian. Satisfaction mengukur tingkat kepuasan dalam menggunakan
+desain.
+2. METODE PENELITIAN
+2.1 Populasi dan Sampel Penelitian
+Populasi adalah kelompok atau kumpulan individu-individu atau obyek penelitian
+yang memiliki standar-standar tertentu dari ciri-ciri yang telah ditetapkan sebelumnya.
+Jumlah responden yang dilibatkan dalam penelitian ini adalah 25 responden dari suatu
+populasi yaitu dosen, staff karyawan dan mahasiswa pada Universitas Bina Darma.
+2.2 Metode Pengumpulan Data
+Metode pengumpulan data primer dilakukan dengan metode penyebaran
+angket/kuesioner melalui media survei untuk mendapatkan data. Menurut Sugiyono (1999)
+Skala Likert digunakan untuk mengukur sikap, pendapat, dan persepsi seseorang atau
+sekelompok orang tentang fenomena sosial yang merupakan skala kontinum bipolar, pada
+ujung sebelah kiri (angka rendah) menggambarkan suatu jawaban yang bersifat negative.
+Sedang ujung sebelah kanan (angka tinggi), menggambarkan suatu jawaban yang bersifat
+positif. Skala Likert dirancang untuk meyakinkan responden menjawab dalam berbagai
+tingkatan pada setiap butir pertanyaan atau pernyataan yang terdapat dalam kuesioner.
+Data tentang dimensi dari variabel-variabel yang dianalisis dalam penelitian ini yang
+ditujukan kepada responden menggunakan skala 1 s/d 5 untuk mendapatkan data yang
+bersifat ordinal dan diberi skor sebagai berikut :
+Tabel 1. Tabel Nilai
+
+Keterangan :
+PK
+=
+KMS =
+KM
+=
+
+PK
+
+KMS
+
+KM
+
+CM
+
+M
+
+SM
+
+Nilai
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Pertanyaan Kuisioner
+Kurang Mudah Sekali
+Kurang Mudah
+
+CM
+M
+SM
+
+=
+=
+=
+
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+Cukup Mudah
+Mudah
+Sangat Mudah
+
+665
+
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 661-671
+
+2.3 METODOLOGI PENELITIAN
+Dalam penelitian ini, langkah pertama yang ditempuh adalah mengidentifikasi
+masalah, dilanjutkan dengan melakukan studi awal, yaitu studi literatur/studi pustaka yang
+berhubungan dengan pengujian kebergunaan (usability testing) dan juga studi terhadap
+objek yang akan diamati, dalam hal ini aplikasi Smartphones Support System (aplikasi web
+DSS). Metode Penelitian ini dapat dilihat jelas pada Gambar 3.
+
+Identitas Masalah
+Studi Pustaka.
+Studi
+Pendahuluan
+
+Studi objek yang diamati (Aplikasi android
+Smartphone Support System).
+Pemberian tasks kepada responden.
+
+Pengujian
+Kebergunaan
+(Usability Testing)
+
+Penyebaran kuisioner usability
+(25 responden, 13 pertanyaan).
+Rekap hasil pengisian kuisioner.
+
+Analisis
+Usability Testing
+Perhitungan nilai usability
+(skala nilai 5).
+Kesimpulan
+
+Gambar 3. Alur Metode Penelitian
+
+3. HASIL DAN PEMBAHASAN
+3.1 Pengujian Penerimaan (Usability Testing)
+Langkah awal usability testing ini adalah memberikan sejumlah task atau tugas yang
+sudah dipersiapkan sebelumnya kepada pengguna saat berinteraksi dengan sistem yang
+diuji. Task-task ini diberikan kepada 25 responden yang berasal dari dosen, staff karyawan,
+dan mahasiswa yang sudah mengetahui aplikasi android sehingga mereka tidak lagi
+mengalami kesulitan pada saat melakukan task-task tersebut. Task-task ini digunakan
+sebagai ‘sarana interaksi’ dalam pengukuran usability (Sastramihardja dkk, 2008,
+Pengukuran Usability Dengan Sarana Task Model Dalam User Center Software
+Development, 4).
+Tabel 2. Task-Task Usability Testing
+No
+1
+2
+
+Task / Tugas
+Login kedalam sistem sebagai user admin, kemudian logout dan
+lakukan login kembali
+Mencari produk android beserta dengan spesifikasinya
+
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+666
+
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+3
+4
+5
+
+Halaman 661-671
+
+Mengisi form pada Menu Support untuk pencarian aplikasi android
+Menambah, mengubah dan menghapus data aplikasi android pada
+halaman admin
+Mencari informasi update dalam aplikasi web
+
+Masing-masing task di atas dapat dijelaskan sebagai berikut :
+Task 1. Lakukan login kedalam sistem sebagai user admin, kemudian logout dan lakukan
+login kembali.
+User diminta melakukan login sebagai admin, dimulai dari mencari dan mengisi
+form login untuk masuk ke halaman admin, selanjutnya diminta untuk mencari
+tombol logout, kemudian login kembali.
+Task 2. Mencari produk aplikasi android beserta dengan spesifikasinya.
+User diminta untuk mencari tipe-tipe smartphone dengan merk tertentu, misalnya:
+Android, Nokia, Blackberry, Samsung, dan sebagainya. Task dianggap selesai
+ketika user dapat menemukan aplikasi android beserta spsesifikasinya.
+Task 3. Mengisi form pada Menu Support untuk pencarian aplikasi android.
+User diminta mengklik menu Support kemudian mengisi form pencarian
+smartphone sesuai dengan yang diinginkan, misalnya : harga, tebal, resolusi
+kamera, ukuran layar, dan sebagainya. Semua kriteria dapat diisi atau hanya
+beberapa saja (yang lain dikosongkan), kemudian mengklik tombol cari. Task
+dianggap selesai apabila muncul daftar produk atau tipe smartphone hasil
+rekomendasi sistem sesuai dengan kriteria yang diinputkan oleh user dan user
+dapat melihat gambar beserta spesifikasi dari smartphone tersebut.
+Task 4. Menambah, mengubah dan menghapus data aplikasi android pada halaman
+admin.
+User diminta untuk masuk pada halaman admin dan mencari form untuk
+melakukan penambahan, pengeditan dan penghapusan data smartphone. Task
+dianggap selesai apabila user berhasil menambah, mengedit dan menghapus data
+smartphone.
+Task 5. Mencari informasi update dalam aplikasi web.
+User diminta untuk mencari salah satu berita atau informasi ter-update dalam web
+sehingga user dapat membaca keseluruhan isi dari berita atau informasi aplikasi
+android tersebut.
+Setelah pengguna menyelesaikan semua task yang ada, langkah selanjutnya adalah
+membagikan kuisioner kepada dosen, staff karyawan, dan mahasiswa yang berisi 15
+pertanyaan yang sudah mewakili kelima aspek usability. Pengguna mengisi kuisioner yang
+sudah dibagikan berdasarkan pengalamannya (apa yang dilihat dan dirasakan) pada saat
+melakukan task atau tugas-tugas tadi.
+Tiap-tiap pertanyaan dari kuisioner tersebut bertujuan untuk menunjukkan tingkat
+usability menurut penerimaan user, yang akan dinilai dalam skala nilai 5
+(Wingnjosoebroto dkk., 2009, Perancangan Interface Prototype Web Berdasarkan Pada
+Aspek Usability, 7) . Pertanyaan-pertanyaan yang diberikan dalam kuisioner ini dapat
+
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+667
+
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 661-671
+
+dilihat pada Tabel 2. Menurut Jacob Nielson, aspek-aspek dalam usability testing ini
+mencakup lima hal, yaitu:
+a. Learnability, menjelaskan tingkat kemudahan pengguna atau user untuk
+menyelesaikan task-task dasar ketika pertama kali mereka melihat atau berhadapan
+dengan sistem yang ada.
+b. Efficiency, menjelaskan seberapa cepat pengguna dapat menyelesaikan tugas-tugas
+yang ada saat mereka pertama kali mempelajari sistem tersebut.
+c. Memorability, menjelaskan tetang tingkat kemudahan pengguna atau user dalam
+menggunakan sistem dengan baik, setelah beberapa lama tidak menggunakannya.
+d. Errors, menjelaskan kemungkinan terjadinya error atau kesalahan yang dilakukan
+oleh pengguna dan seberapa mudah mereka dapat mengatasinya.
+e. Satisfaction, menjelaskan tentang tingkat kepuasan pengguna dalam menggunakan
+sistem yang telah dibuat
+Hasil plot kelima aspek usability di atas terhadap 15 pertanyaan kuisioner dapat dilihat
+pada Tabel 2.
+Tabel 3. Plot Aspek Usability
+No
+
+Pertanyaan
+
+Aspek Usability
+Learn Effic Memora Error Satisf
+
+ASPEK SISTEM (SYSTEM)
+Apakah tampilan android mudah
+1
+dikenali..?
+Apakah android mudah
+2
+dioperasikan..?
+Apakah tampilan warna pada android
+3
+enak dilihat & tidak membosankan..?
+ASPEK PENGGUNA (USER)
+Apakah tampilan menu dalam
+4
+android mudah dikenali..?
+Apakah aplikasi halaman android
+5
+mudah dicari..?
+Apakah aplikasi yang ada mudah
+6
+dibaca..?
+Apakah aplikasi yang dibutuhkan
+7
+mudah didownload..?
+Apakah simbol-simbol gambar
+8
+mudah dipahami..?
+ASPEK INTERAKSI (INTERACTION)
+Apakah mudah mengakses informasi
+9
+produk yang ditawarkan..?
+Apakah spesifikasi produk yang
+10 ditawarkan sesuai dengan
+kebutuhan..?
+
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+668
+
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 661-671
+
+Apakah aplikasi transaksi
+11 pembayaran yang tersedia mudah
+diakses..?
+Apakah akses informasi pada setiap
+12 halaman sudah terjamin
+keamanannya..?
+Apakah menu dan tampilan halaman
+13
+android mudah diingat..?
+3.2 Analisa Usability Testing
+Setelah dilakukan penyebaran kuisioner yang diberikan pada 25 responden, maka
+selanjutnya dilakukan rekap terhadap hasil kuisioner yang telah disebar.
+Berdasarkan persentase hasil usability testing di atas, maka diperoleh Rekap Nilai
+Usability yang terlihat pada Tabel 4.
+Tabel 4. Rekap Nilai Usability
+No
+
+Pertanyaan
+
+ASPEK SISTEM (SYSTEM) :
+1
+Apakah tampilan android mudah dikenali..?
+2
+Apakah android mudah dioperasikan..?
+Apakah tampilan warna pada android enak dilihat &
+3
+tidak membosankan..?
+ASPEK PENGGUNA (USER) :
+Apakah tampilan menu dalam android mudah
+4
+dikenali..?
+5
+Apakah aplikasi halaman android mudah dicari..?
+6
+Apakah aplikasi yang ada mudah dibaca..?
+7
+Apakah aplikasi yang dibutuhkan mudah didownload..?
+8
+Apakah simbol-simbol gambar mudah dipahami..?
+ASPEK INTERAKSI (INTERACTION) :
+Apakah mudah mengakses informasi produk yang
+9
+ditawarkan..?
+Apakah spesifikasi produk yang ditawarkan sesuai
+10
+dengan kebutuhan..?
+Apakah aplikasi transaksi pembayaran yang tersedia
+11
+mudah diakses..?
+Apakah akses informasi pada setiap halaman sudah
+12
+terjamin keamanannya..?
+Apakah menu dan tampilan halaman android mudah
+13
+diingat..?
+
+Nilai
+3,36
+3,40
+3,52
+
+3,20
+3,36
+3,44
+3,40
+3,28
+3,28
+3,12
+3,00
+2,96
+3,36
+
+Tabel 4 menunjukkan nilai-nilai kepuasan atau penerimaan user (acceptance) terhadap
+masing-masing atribut. Dapat dilihat bahwa untuk atribut “Kemudahan interface android
+dikenali” memiliki nilai penerimaan usability oleh user sebesar 3,36 (sudah berada diatas
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+669
+
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 661-671
+
+nilai 3 atau diatas nilai tengah) dalam skala 5. Hal ini dapat diartikan bahwa aplikasi
+android yang telah dibuat mudah dikenali oleh user dari halaman interface.
+Apabila disesuaikan kembali hubungannya dengan masing-masing aspek usability
+dalam Tabel 3, dapat dikatakan bahwa perangkat lunak aplikasi android yang telah dibuat
+telah memiliki nilai Usability, yaitu: Learnability, Efficiency, Memorability, Errors, dan
+Satisfaction yang sangat baik. Hal ini ditunjukkan dengan nilai hasil usability pada kelima
+atribut, sebagai berikut :
+a. Nilai atribut “Kemudahan interface android dikenali” sebesar 3,36 yang menunjukkan
+bahwa android telah memiliki nilai aspek Learnability.
+b. Nilai atribut “Kemudahan android untuk dioperasikan” sebesar 3,40 menunjukkan
+bahwa Android telah memiliki nilai aspek Efficiency.
+c. Nilai atribut “Kemudahan mengingat kembali menu dan tampilan pada Android”
+sebesar 3,36 menunjukkan bahwa Android telah memiliki nilai aspek Memorability.
+d. Nilai atribut “Kemudahan aplikasi android yang ada mudah dibaca” sebesar 3,44;
+atribut “Kemudahan aplikasi yang ada mudah dibaca” sebesar 3,44 dan atribut
+“Simbol-simbol gambar mudah dipahami” sebesar 3,28 membuat Android dapat
+dikatakan telah meminimalisasi aspek Errors.
+e. Dan dari keseluruhan atribut yang memiliki nilai rata-rata di atas 3, menunjukkan jika
+Android telah mempunyai aspek Satisfaction yang sangat baik.
+4. KESIMPULAN DAN SARAN
+4.1 Kesimpulan :
+a. Hasil Rekap Nilai Usability menunjukkan keseluruhan atribut memiliki nilai
+penerimaan usability oleh user, rata-rata diatas nilai 3, sehingga dapat dikatakan
+bahwa perangkat lunak aplikasi android yang telah dibuat telah memiliki nilai aspek
+Usability dan sangat banyak digunakan oleh semua kalangan dikarenakan android
+sangat mudah dipelajari serta dimengerti oleh pengguna.
+b. Perangkat lunak aplikasi web DSS yang sudah dibuat (Smartphone Support System)
+telah memenuhi kelima aspek usability sehingga dapat diterapkan sebagai aplikasi
+yang dapat dioperasikan oleh penguna.
+4.2 Saran
+Karena hasil penelitian menunjukan bahwa sangat banyak sekali pengguna aplikasi
+android, diharapkan kepada pengguna android supaya dapat menggunakannya dengan
+baik dan bermanfaat untuk menunjang aktifitas pekerjaan sehari-hari.
+
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+670
+
+Jurnal Sistem Informasi (JSI), VOL. 6, NO. 1, April 2014,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 661-671
+
+DAFTAR PUSTAKA
+[1] Cindy P.C. Munaiseche. Pengujian Web Aplikasi DSS Berdasarkan Pada Aspek
+Usability. Jurnal Orbith. VOl. 8, No. 2. Juli 2012: 63 – 68.
+[2] Sastramihardja, H., Hapsari, I.N., Neri, I.A. Pengukuran Usability Dengan Sarana
+Task Model Dalam User Center Software Development. Jurnal Penelitian dan
+Pengembangan Telekomunikasi. Vol. 13, No. 2. Desember 2008. Sumber:
+http://isjd.pdii.lipi.go.id/admin/jurnal/13208139144.pdf. Tanggal akses: 7 Juli 2011.
+[3] Wingnjosoebroto, S., Sudiarno, A., Harenda, D. 2009. Perancangan Interface
+Prototype Web Berdasarkan Pada Aspek Usability (Studi Kasus: Laboratorium
+Ergonomi dan Perancangan Sistem Kerja Teknik Industri ITS). Sumber:
+http://digilib.its.ac.id/public/ ITS Undergraduate - 8877-2504100030-Paper.pdf.
+Tanggal akses: 7 Juli 2011.
+[4]
+Wikipedia
+Bahasa
+Indonesia.
+Android
+(Sistem
+Operasi).
+Sumber:
+http://id.wikipedia.org/wiki/Android_(sistem_operasi). Tanggal akses: 12 Desember
+2013.
+
+Jurnal Ilmiah Jurusan Sistem Informasi
+Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+671
+
+

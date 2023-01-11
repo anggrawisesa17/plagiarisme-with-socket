@@ -1,0 +1,978 @@
+Analisis Biaya Kecelakaan Lalu Lintas di Kabupaten Garut
+Trecy Tiara Elsa1, Ida Farida2
+Jurnal Konstruksi
+Institut Teknologi Garut
+Jl. Mayor Syamsu No. 1 Jayaraga Garut 44151 Indonesia
+Email : jurnal@itg.ac.id
+1
+2
+
+1611063@itg.ac.id
+idafarida@itg.ac.id
+
+Abstrak – Kecelakaan lalu lintas merupakan peristiwa terjadinya suatu pergerakan lalu lintas yang
+dapat mengakibatkan resiko kecelakaan, sehingga mempengaruhi pada manusia sebagai
+pengendara. Dengan kemajuan alat transportasi dan perkembangan penduduk yang semakin
+meningkat maka menyebabkan kebutuhan transportasi serta jumlah penduduk yang ikut
+meningkat di Kabupaten Garut yaitu pada tahun 2019 berjumlah 2.622.425 juta penduduk (Badan
+Pusat Statistik Kependudukan, 2019). Penelitian ini bertujuan untuk menghitung besarnya biaya
+kecelakaan lalu lintas, mengetahui karakteristik kecelakaan yang ditinjau dari jumlah kejadian,
+usia korban, jenis kelamin, profesi, pendidikan, waktu kejadian, lokasi kejadian, penyebab
+kecelakaan dan jenis kendaraan yang terlibat Sebagai tambahan menentukan daerah rawan
+kecelaka di ruas jalan yang sering terjadi kecelakaan. Hasil analisis menunjukkan bahwa
+karakteristik yang paling dominan mengalami kecelakaan adalah sepeda motor (71%), usia 16-30
+tahun (>48%), laki-laki (>77%), SLTA (60%), karyawan swasta (>40%), pukul 12.00-18.00 WIB
+(35%), jalan arteri (47%), jalan provinsi (62%), tabrakan depan-depan (43%). Daerah rawan
+kecelakaan menggunakan metode Z-Score yang paling dominan adalah terdapat di kecamatan
+Malangbong dan Cilawu. Menghitung biaya satuan korban kecelakaan lalu lintas digunakan
+metode The Gross, bahwa yang paling dominan adalah sepeda motor pada tahun 2015 – 2019
+sebesar 86% sedangkan biaya santunan dari PT. Jasa Raharja yaitu sebesar 84% yang akan
+diberikan kepada korban kecelakaan lalu lintas.
+Kata kunci – Biaya Kecelakaan; Daerah Rawan Kecelakaan; Fasilitas Kelengkapan Jalan;
+Kecelakaan Lalu Lintas.
+
+I.
+
+PENDAHULUAN
+
+Peningkatan kendaraan yang menyebabkan kondisi kapasitas jalan juga meningkat, dengan adanya kemajuan
+alat transportasi dan perkembangan penduduk yang semakin meningkat maka berpengaruh terhadap kebutuhan
+transportasi serta jumlah penduduk di Kabupaten Garut yaitu pada tahun 2019 berjumlah 2.622.425 juta
+penduduk [1]. Dengan peningkatan tersebut sangat mempengaruhi terhadap pergerakan laju lalu lintas,
+sehingga dapat menyebabkan resiko terjadinya kecelakaan lalu lintas. Berdasarkan latar belakang tersebut
+langkah utama yang perlu dilakukan untuk menanggulangi risiko kecelakaan lalu lintas adalah menentukan
+dan menganalisis daerah rawan kecelakaan (blacksite) serta titik rawan kecelakaan (black spot). [2].
+Dari proyeksi yang dilakukan antara tahun 2000 dan tahun 2020 menunjukkan kematian akibat kecelakaan
+lalu lintas akan menurun 30% di negara – negara dengan pendapatan tinggi, tanpa adanya tindakan yang nyata
+pada tahun 2020 kecelakaan lalu lintas akan menjadi penyebab kematian yang lebih banyak penyebab kematian
+nomor tiga di dunia. Banyak para korban yang mendapatkan luka – luka yang mengakibatkan cacat seumur
+hidup dan secara finansial, sehingga akan membebani keluarga mereka sendiri serta masyarakat (S.W, Jarot,
+428
+
+Jurnal Konstruksi
+Vol. 19; No. 2; 2021; Hal 428-438
+
+Elsa & Farida
+
+2010). Biaya lainnya yaitu kerugian produktifitas korban, perawatan korban, administrasi dan kerugian harta
+benda. Besarnya biaya yang ditimbulkan dalam kecelakaan lalu lintas dipengaruhi dari tingkat kefatalan
+korban (Pusat Litbang Prasarana Transportasi). Upaya untuk mencegah resiko terjadinya kecelakaan lalu lintas
+dengan menggunakan metode tindakan pencegahan dari mulai rambu lalu lintas yang terpasang di setiap sudut
+jalan, marka jalan, dan pemasangan lampu penerangan jalan khususnya di daerah yang masih rawan
+kecelakaan lalu lintas.
+
+II. URAIAN PENELITIAN
+A. Karakteristik Kecelakaan Lalu Lintas
+Karakteristik kecelakaan untuk penanganan lokasi rawan kecelakaan lalu lintas yang didasari oleh Departemen
+Permukiman dan Prasarana Wilayah (Pedoman T-09-2004-B) dengan tipe kecelakaan yang dikelompokkan
+(tipe dominan) kecelakaan lalu lintas yaitu berdasarkan pelaku dan korban kejadian, kendaraan yang terlibat,
+faktor pengemudi, jenis kecelakaan, lokasi kejadian, dan waktu kejadian. Perkembangan yang terjadi akan
+muncul beberapa masalah transportasi yaitu salah satunya kecelakaan lalu lintas. Mulai dari kategori
+kecelakaan ringan, berat, sehingga banyak mengakibatkan kerugian materi maupun material yang disebabkan
+oleh faktor manusia, kendaraan, ataupun kondisi lingkungan. Kecelakaan lalu lintas tentunya hal yang ingin
+dihindari oleh setiap pengguna jalan, namun kecelakaan lalu lintas terjadi secara tiba-tiba dan ketidak
+sengajaan karena adanya prasarana jalan yang buruk ataupun dari pengguna jalan itu sendiri baik kelalaian
+dalam mengemudi maupun tidak mematuhi peraturan lalu lintas. (Setiawati, 2019). Untuk menghitung biaya
+kecelakaan digunakan metode metode The Gross Output, sedangkan untuk mengetahui daerah rawan
+kecelakaan dengan menggunakan metode Z-score.
+
+B. Metode Z-Score
+Metode Z-score adalah bilangan z atau bilangan standard (bilangan baku). Bilangan z dapat dari sampel
+berukuran n, X1, X2,…Xn dengan rata-rata X dan simpangan baku S, sehingga terdapat data baru yaitu, Z1,
+Z2,…Zn dengan rata-rata 0 simpangan baku 1. (Hasan, 2001).
+Nilai standard deviasi adalah akar dari jumlah kuadrat dari rata-rata angka, dengan menggunakan persamaan
+sebagai berikut:
+𝑆=
+√∑
+
+(𝑥𝑖−𝑋)2
+………………………………………………………………………….............………..…....(1)
+𝑛
+
+Untuk menentukan daerah rawan kecelakaan dapat menggunakan persamaan sebagai berikut:
+𝑥𝑖−𝑋
+𝑍𝑖 = 𝑆 ………………………………………………………………………………………..………...(2)
+Dimana:
+Zi adalah nilai Z-Score kecelakaan per ruas jalan.
+xi adalah jumlah data pada lokasi.
+S adalah standard deviasi.
+X adalah rata-rata angka kecelakaan total.
+i adalah ruas jalan.
+Adapun klasifikasi dalam penentuan daerah rawan kecelakaan (Blacksite Area), dapat dilihat pada Tabel 1
+sebagai berikut:
+
+https://jurnal.itg.ac.id/
+
+429
+
+Elsa & Farida
+
+Jurnal Konstruksi
+Vol. 19; No. 2; 2021; Hal 428-438
+
+Tabel 1: Klasifikasi Penentuan Daerah Rawan Kecelakaan
+No
+1
+2
+Sumber: Austrod, 1992
+
+Nilai Z-Score
+Positif (0)
+Negatif (-0)
+
+Kriteria Kecelakaan
+Rawan
+Tidak Rawan
+
+C. Metode The Gross Output
+The Gross Output adalah metode untuk menganalisa biaya kecelakaan dengan menghitung pengurangan nilai
+seluruh sumber daya yang hilang dari semua pihak akibat kecelakaan. Metode ini sering digunakan untuk
+menganalisa biaya kecelakaan di negara yang masih berkembang seperti Indonesia (Balitbang PU, 2003).
+Biaya satuan korban kecelakaan lalu lintas (BSKOj) merupakan biaya yang digunakan untuk perawatan korban
+kecelakaan lalu lintasdari setiap kategori korban, sedangkan T0 yaitu tahun dasar perhitungan biaya, yaitu
+tahun 2003. Biaya satuan kecelakaan lalu lintas pada periode tahun 2003 dapat dilihat pada Table 3 (Pusat
+Penelitian dan Pengembangan Prasarana Transportasi, 2006).
+Tabel 2: Biaya Satuan Korban Kecelakaan Lalu Lintas BSKOj (T0)
+No
+Kategori korban
+1
+Meninggal Dunia
+2
+Luka Berat
+3
+Luka Ringan
+Sumber: Puslitbang Prasarana Transportasi, 2006
+
+Biaya Satuan Korban (Rp/Korban)
+119.016.000,5.826.000,1.045.000,-
+
+Biaya satuan korban kecelakaan lalu lintas untuk tahun tertentu (Tn) menggunakan persamaan berikut:
+BSKOj (Tn) = BSKOj (T0) x (1 + g)…………………………………………………………………..(3)
+Dimana:
+• BSKOj (Tn) adalah tahun n pada tiap kategori korban (rupiah/korban).
+• BSKOj (T0) adalah biaya satuan korban kecelakaan lalu lintas pada tahun (rupiah/korban),
+• g adalah tingkat inflasi biaya, (g = 11%).
+• Tn adalah tahun biaya korban.
+• T0 adalah tahun dasar perhitungan biaya kecelakaan lalu lintas (tahun 2003).
+• t adalah selisih tahun (Tn – T0)
+Besaran biaya korban kecelakaan lalu lintas dihitung pada tahun n menggunakan persamaan berikut:
+BBKO (Tn) = Σ (JKOj x BSKOj (Tn))………………………………………………………………...(4)
+J=1
+Dimana:
+• BBKO adalah besaran biaya korban kecelakaan lalu lintas di suatu ruas jalan atau persimpangan atau
+wilayah, (tahun).
+• JKOj adalah jumlah korban kecelakaan lalu lintas untuk setiap kategori korban, (korban/tahun).
+• BSKOj(Tn) adalah satuan korban kecelakaan lalu lintas pada tahun untuk setiap kategori korban (ribuan/
+korban).
+• j adalah korban.
+
+D. Biaya Santunan Korban Kecelakaan Oleh Asuransi PT. Jasa Raharja
+Biaya santunan yang diberikan kepada korban kecelakaan berdasarkan tingkat keparahan yang dialami.
+Besarnya santunan telah ditetapkan dalam Peraturan Menteri Keuangan RI No 15/ PMK.010/ 2017 dan No 16/
+PMK.010/ 2017 tanggal 13 Februari 2017 menjadi salah satu standar baku untuk pemberian santunan
+kecelakaan oleh Asuransi PT. Jasa Raharja. Kategori keparahan dan jumlah santunan yang diberikan oleh
+Asuransi Jasa Raharja seperti terlihat pada Tabel 3.
+
+430
+
+https://jurnal.itg.ac.id/
+
+Jurnal Konstruksi
+Vol. 19; No. 2; 2021; Hal 428-438
+
+Elsa & Farida
+
+Tabel 3: Biaya Santunan Korban Kecelakaan Lalu Lintas
+No
+Kategori Korban
+1
+Meninggal Dunia
+2
+Luka Berat
+3
+Luka Ringan
+Sumber: PT. Jasa Raharja, 2017
+
+Santunan Biaya Kecelakaan (Rp)
+50.000.000,50.000.000,20.000.000,-
+
+E. Metode Penelitian
+1.
+
+Bagan Alir Penelitian
+Tahapan dari penelitian ini digambarkan dalam diagram alir. Untuk selengkapnya dapat dilihat pada
+Gambar 1, yaitu sebagai berikut:
+
+Gambar 1: Bagan Alir Metode Penelitian
+2.
+
+Tahapan Analisis
+Pengolahan dan analisis data ini dimaksudkan untuk memperoleh hasil penelitian (karakteristik
+kecelakaan, daerah rawan kecelakaan, dan biaya kecelakaan), sehingga dapat dirumuskan cara
+pencegahan kecelakaan dan solusi peningkatan keselamatan berlalu lintas. Adapun tahap-tahap analisis
+
+https://jurnal.itg.ac.id/
+
+431
+
+Elsa & Farida
+
+Jurnal Konstruksi
+Vol. 19; No. 2; 2021; Hal 428-438
+
+dengan beberapa metode pengumpulan data sebagai berikut:
+a. Karakteristik kecelakaan lalu lintas
+Mengetahui karakteristik kecelakaan lalu lintas yaitu dengan cara merekapitulasi peristiwa kecelakaan
+lalu lintas dengan berdasarkan faktor-faktor yang terkait dalam kecelakaan lalu lintas, yaitu meliputi:
+jenis kelamin, usia pelaku dan korban, pendidikan pelaku dan korban, profesi pelaku dan korban,
+waktu kejadian, status jalan, fungsi jalan, serta faktor pengemudi.
+b. Data yang terkumpul pada penelitian ini dibuat dalam bentuk tabel dan menampilkan hasil dari
+persentase yang berdasarkan jumlah kejadian kecelakaan dan faktor penyebab kecelakaan di
+Kabupaten Garut.
+c. Menentukan daerah rawan kecelakaan lalu lintas yang paling dominan di Kabupaten Garut yaitu
+dengan metode Z-score.
+Menghitung besaran biaya kecelakaan lalu lintas yaitu sebagai berikut:
+a. Merekapitulasi data berdasarkan karakteristik kecelakaan.
+b. Menghitung besaran biaya kecelakaan selama periode 5 tahun, lalu dikalikan dengan jumlah
+kecelakaan berdasarkan klasifikasi tingkat kecelakaan.
+c. Menghitung jumlah santunan yang harus dibayarkan kepada korban dari Asuransi PT. Jasa Raharja.
+
+III. HASIL DAN DISKUSI
+A. Analisis Karakteristik Kecelakaan Lalu Lintas
+Berdasarkan hasil analisis karakteristik kecelakaan lalu lintas yang didapat data dari Polres Kabupaten Garut
+selama 5 tahun dari Tahun 2015 sampai Tahun 2019 didapatkan gambaran secara singkat, yaitu sebagai berikut:
+1. Jumlah kecelakaan: MD (18%), LR (27%), LB (56%) dan kerugian material sebesar Rp. 4.966.700.900.
+2. Tipe kendaraan: sepeda motor (71%), kendaraan penumpang (15%), kendaraan barang (10%), bus (3%),
+kendaraan khusus (1%).
+3. Berdasarkan pelaku dan korban kejadian:
+a. Usia pelaku: 0 s/d 9 tahun sebanyak 1 orang dengan 0%, 10 s/d 15 tahun (8%), 16 s/d 30 tahun (55%),
+31 s/d 40 (17%), 41 s/d 50 tahun (12%) dan diatas 50 tahun (8%). Usia korban: menjadi 0 s/d 9 tahun
+(5%), 10 s/d 15 tahun (10%), 16 s/d 30 tahun (48%), 31 s/d 40 tahun (15%), 41 s/d 50 tahun (12%) dan
+> 50 tahun (11%).
+b. Jenis kelamin pelaku: laki – laki (92%) dan wanita (8%). Jenis kelamin korban: laki – laki (92%) dan
+wanita (8%) .
+c. Pendidikan pelaku: SD (4%), SLTP (13%), SLTA (60%), Perguruan Tinggi (4%), dan lain – lain (18%).
+Pendidikan korban: SD (11%), SLTP (14%), SLTA (60%), Perguruan Tinggi (4 %), dan lain – lain (3%).
+d. Profesi Pelaku: PNS (2%), TNI (0%), POLRI (1%), Swasta (44%), Pelajar (18%), Mahasiswa (2%),
+Pengemudi (7%), Pedagang (1%), Petani (1%), Buruh (3%) dan lain – lain (22%). Profesi korban: PNS
+(2%), TNI (0%), POLRI (1%), Swasta (40%), Pelajar (24%), Mahasiswa (2%), Pengemudi (3%),
+Pedagang (1%), Petani (0%), Buruh (3%) dan lain – lain (24%).
+4. Faktor pengemudi: lengah (40%), lelah (1%), mengantuk (1%), sakit (3%), tidak tertib (37%), tekanan
+psikologis (0%), pengaruh obat (0%), pengaruh alkohol (0%) dan batas kecepatan (18%).
+5. Lokasi kejadian:
+a. Status jalan: Nasional (21%), Provinsi (62%), Kabupaten (10%), Kota (5%), dan Desa (2%).
+b. Fungsi jalan: Arteri (47%), Kolektor (44%), Lokal (2%), Tol (4%), dan Lingkungan (2%).
+6. Waktu kejadian: jam 00.00 – 06.00 WIB (10%), jam 06.00 – 12.00 WIB (29%), jam 12.00 – 18.00 WIB
+(35%), dan jam 18.00 WIB (25%).
+7. Jenis kecelakaan: Tunggal (2%), depan – depan (43%), depan belakang (12%), depan samping (9%),
+samping – samping (12%), beruntun (1%), tabrak manusia (17%), dan lain – lain (4%).
+
+B. Analisis Daerah Rawan Kecelakaan dengan Metode Z-score
+Data yang didapat dari Polres Kabupaten Garut berada di sepuluh ruas jalan yang termasuk daerah rawan
+
+432
+
+https://jurnal.itg.ac.id/
+
+Jurnal Konstruksi
+Vol. 19; No. 2; 2021; Hal 428-438
+
+Elsa & Farida
+
+kecelakaan yang paling dominan terjadi dari tahun 2015 sampai tahun 2019. Untuk lebih lengkapnya dapat
+dilihat pada Tabel 4.
+Tabel 4: Data Kejadian Kecelakaan Lalu Lintas di Kabupaten Garut
+No
+
+Nama Ruas Jalan
+
+Status Jalan
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Malangbong
+Limbangan
+Cibatu
+Leuwigoong
+Cilawu
+Kadungora
+Leles
+Bayongbong
+Cikajang
+Cisurupan
+Jumlah
+Sumber: Polres Garut, 2020
+
+Nasional
+Nasional
+Provinsi
+Kabupaten
+Provinsi
+Provinsi
+Provinsi
+Provinsi
+Provinsi
+Provinsi
+
+2017
+18
+5
+0
+0
+12
+6
+1
+6
+0
+0
+48
+
+Tahun
+2018
+9
+0
+3
+0
+9
+18
+0
+7
+0
+0
+46
+
+2019
+0
+3
+0
+3
+4
+9
+0
+6
+2
+5
+32
+
+Total Kejadian
+27
+8
+3
+3
+25
+33
+1
+19
+2
+5
+126
+
+1. Metode Z-Score
+Contoh Perhitungan Z-score untuk pertumbuhan tingkat kecelakaan pada tahun 2015 sampai dengan 2019,
+yaitu sebagai berikut:
+a. Mencari nilai rata – rata
+∑ 𝑋 126
+X̅ =
+=
+= 12,6
+𝑛
+10
+b. Mencari Nilai Standar Deviasi
+∑(𝑥𝑖−𝑥̅ )2
+
+S=√
+
+𝑛
+
+(27−12,6)2
+10
+
+=√
+
+= 4,55
+c. Mencari Nilai Z-Score
+(𝑥i−𝑥̅ )2
+𝑠
+(27−12,6)2
+= 4,55
+
+Zi =
+
+= 3,16
+
+Didapat hasil perhitungan untuk mengetahui daerah rawan kecelakaan di Kabupaten Garut dengan
+menggunakan metode Z-Score. Untuk selengkapnya dapat dilihat pada Tabel 6, sebagai berikut:
+Tabel 5: Hasil Analisis Z - Score untuk Identifikasi Daerah Rawan Kecelakaan Lalu Lintas di Kabupaten
+Garut
+No
+1
+2
+3
+4
+5
+
+Nama
+Ruas Jalan
+Malangbong
+Limbangan
+Cibatu
+Leuwigoong
+Cilawu
+
+https://jurnal.itg.ac.id/
+
+Status
+Jalan
+Nasional
+Nasional
+Provinsi
+Kabupaten
+Provinsi
+
+Total
+Kejadian
+27
+8
+3
+3
+25
+
+Standar
+Deviasi
+4.55
+1.45
+3
+3
+3.92
+
+Z-Score
+
+Kriteria Kecelakaan
+
+3.16
+-3.17
+-3.20
+-3.20
+3.16
+
+Rawan
+Tidak Rawan
+Tidak Rawan
+Tidak Rawan
+Rawan
+
+433
+
+Elsa & Farida
+
+No
+6
+7
+8
+9
+10
+
+Jurnal Konstruksi
+Vol. 19; No. 2; 2021; Hal 428-438
+
+Nama
+Ruas Jalan
+Kadungora
+Leles
+Bayongbong
+Cikajang
+Cisurupan
+Jumlah
+Nilai Rata-Rata
+
+Status
+Jalan
+Provinsi
+Provinsi
+Provinsi
+Provinsi
+Provinsi
+
+Total
+Kejadian
+33
+1
+19
+2
+5
+126
+12,6
+
+Standar
+Deviasi
+6.45
+3.66
+2
+3.35
+2.4
+
+Z-Score
+
+Kriteria Kecelakaan
+
+3.16
+-3.17
+3.20
+-3.16
+-3.17
+
+Rawan
+Tidak Rawan
+Rawan
+Tidak Rawan
+Tidak Rawan
+
+Sumber: Hasil Analisis, 2020
+Berdasarkan hasil analisis dinyatakan bahwa daerah rawan kecelakaan lalu lintas di Kabupaten Garut
+dengan menggunakan metode Z-Score yang paling dominan adalah ruas Jalan Malangbong, Jalan Cilawu,
+Jalan Kadungora dan Jalan Bayongbong dengn status jalan provinsi. Ruas jalan tersebut merupakan daerah
+yang sering mengalami kecelakaan lalu lintas di tiap tahunnya.
+
+C. Rekomendasi Rambu Lalu Lintas dan Marka Jalan
+1. Rambu Lalu Lintas
+Penerapan rambu lalu lintas yang direkomendasikan di daerah rawan kecelakaan lalu lintas ditentukan
+berdasarkan dengan Peraturan Menteri Perhubungan Nomor 13 Tahun 2014 tentang Rambu Lalu Lintas
+dapat dilihat pada Tabel 6.
+Tabel 6. Matriks Identifikasi Rambu Lalu Lintas di Kabupaten Garut
+No
+
+Rambu Lalu Lintas
+
+1
+Tanjakan dan Turunan
+2
+Tikungan ke kiri dan kanan
+3
+Jalan Berbelok
+4
+Hati – hati
+5
+Batas Kecepatan
+6
+Cermin Tikungan
+Sumber: Hasil Analisis, 2020
+
+Nama Kecamatan
+Malangbong Kadungora Bayongbong
+√
+√
+√
+√
+√
+√
+√
+√
+√
+-
+
+Cilawu
+√
+√
+√
+√
+√
+√
+
+2. Marka Jalan
+Didapat hasil analisis yang dilakukan, bahwa kecelakaan lalu lintas di Kabupaten Garut maka salah satu
+cara untuk mengurangi tingkat resiko terjadi kecelakaan lalu lintas dengan merekomendasi marka jalan
+berdasarkan ketentuan Peraturan Menteri Perhubungan Nomor 34 Tahun 2014 tentang Marka Jalan yaitu
+sebagai berikut:
+a. Marka jalan berupa garis utuh berfungsi menghimbau untuk larangan kendaraan melintas garis tersebut
+karena terdapat adanya jalan tikungan.
+b. Marka jalan berupa garis putus – putus berfungsi sebagai pembatas pada jalur dua arah.
+D. Analisis Biaya Kecelakaan Lalu lintas dengan Metode The Gross Output
+1. Data korban kecelakaan lalu lintas yang didapat dari Polres Kabupaten Garut periode tahun 2015 sampai
+tahun 2019 berdasarkan kendaraan yang terlibat diklasifikasikan atas sepeda motor, kendaraan
+penumpang, kendaraan barang, bus, dan kendaraan khusus. Dengan kategori meninggal dunia, luka berat,
+dan luka ringan Untuk lebih lengkapnya dapat dilihat pada Tabel 7 sebagai berikut.
+Tabel 7: Data Angka Kecelakaan Lalu Lintas di Kabupaten Garut Berdasarkan Kendaraan yang Terlibat
+No
+
+434
+
+Tahun
+
+Sepeda Motor
+
+Kendaraan
+Penumpang
+
+Kendaraan Barang
+
+Kendaraan Bus
+
+Kendaraan Khusus
+
+https://jurnal.itg.ac.id/
+
+Jurnal Konstruksi
+Vol. 19; No. 2; 2021; Hal 428-438
+
+1
+2
+3
+4
+5
+
+2015
+2016
+2017
+2018
+2019
+Jumlah
+
+MD
+80
+85
+88
+121
+75
+449
+
+LB
+308
+225
+107
+68
+173
+881
+
+Elsa & Farida
+
+LR
+413
+148
+342
+314
+220
+1437
+
+MD
+3
+34
+3
+16
+56
+
+LB
+15
+12
+8
+4
+15
+54
+
+LR
+65
+84
+31
+46
+89
+315
+
+MD
+2
+1
+4
+1
+6
+14
+
+LB
+8
+7
+2
+7
+13
+37
+
+LR
+21
+16
+16
+7
+19
+79
+
+MD
+2
+2
+
+LB
+4
+6
+10
+
+LR
+3
+24
+11
+1
+9
+48
+
+MD
+0
+
+LB
+5
+5
+
+LR
+1
+3
+3
+7
+
+Sumber: Polres Garut, 2020
+2. Perhitungan biaya satuan korban kecelakaan lalu lintas (BSKOj Tn) menggunakan persamaan (3). Contoh
+perhitungan untuk tahun 2015 untuk kendaraan sepeda motor. Untuk selengkapnya dapat dilihat pada Tabel
+8 sebagai berikut.
+Tabel 8: Biaya Satuan Korban Kecelakaan Lalu Lintas BSKOj (Tn)
+BSKOj (T0) Rp/Korban
+No
+Tahun
+Meninggal Dunia
+Luka Berat
+1
+2015
+416.371.596
+20.381.973
+2
+2016
+462.172.471
+22.623.990
+3
+2017
+513.011.443
+25.112.629
+4
+2018
+569.442.702
+27.875.018
+5
+2019
+632.081.399
+30.941.270
+Sumber: Hasil Analisis, 2020
+
+Luka Ringan
+3.655.880
+4.058.027
+4.504.410
+4.999.896
+5.549.884
+
+3. Perhitungan besaran biaya korban kecelakaan lalu lintas BBKO (Tn) yaitu menggunakan persamaan (4).
+Contoh perhitungan untuk tahun 2015 untuk kendaraan sepeda motor. Untuk selengkapnya dapat dilihat
+pada Tabel 9 sebagai berikut.
+Tabel 9: Besaran Biaya Korban Kecelakaan Lalu Berdasarkan Metode The Gross Output
+No
+
+Kategori Korban
+
+1
+2
+3
+
+Meninggal Dunia
+Luka Berat
+Luka Ringan
+Total
+Sumber: Hasil Analisis, 2020
+
+Jumlah Korban
+Kecelakaan
+80
+308
+413
+801
+
+BSKOj (T0) Rp/Korban
+416.371.596
+20.381.973
+3.655.880
+440.409.449
+
+BBKO (Tn) Rp/
+Tahun
+33.309.727.680
+6.277.647.684
+1.509.878.440
+41.097.253.804
+
+4. Perhitungan besaran biaya korban kecelakaan berdasarkan santunan dari PT. Jasa Raharja, yaitu jumlah
+korban kecelakaan dikalikan dengan biaya santunan. Contoh perhitungan besaran biaya kecelakaan
+berdasarkan biaya santunan Jasa Raharja dari tahun 2015 untuk kendaraan sepeda motor. Untuk
+selengkapnya dapat dilihat pada Tabel 10 sebagai berikut.
+
+https://jurnal.itg.ac.id/
+
+435
+
+Elsa & Farida
+
+Jurnal Konstruksi
+Vol. 19; No. 2; 2021; Hal 428-438
+
+Tabel 10: Besaran Biaya Korban Kecelakaan Lalu Lintas Berdasarkan Santunan dari PT. Jasa Raharja
+No
+1
+2
+3
+
+Kategori Korban
+
+Meninggal Dunia
+Luka Berat
+Luka Ringan
+Total
+Sumber: Hasil Analisis, 2020
+
+Jumlah Korban
+Kecelakaan
+80
+308
+413
+801
+
+Santunan Rp/ Tahun
+4.000.000.000
+15.400.000.000
+8.260.000.000
+27.660.000.000
+
+Hasil analisis menunjukan bahwa kendaraan yang paling besar biaya kecelakaan lalu lintas adalah sepeda
+motor. Kendaraan roda dua memiliki tingkat resiko kecelakaan yang sangat besar, karena kurangnya
+keselamatan bagi pengendara seperti alat pelindung diri dan kecepatan kendaraan yang tinggi. Berdasarkan
+hasil perhitungan total keseluruhan untuk biaya kecelakaan lalu lintas menggunakan metode The Gross Output
+yaitu Rp.261.793.420.717,-, sedangkan pada biaya santunan asuransi dari PT. Jasa Raharja yaitu sebesar
+Rp.95.240.000.000.-. Dimana pada kategori korban luka berat dan luka ringan yang didapat dari santunan
+menghasilkan perhitungan dengan jumlah biaya yang lebih besar dibandingkan dengan BBKO (T0),
+sedangkan kategori korban meninggal dunia pada santunan PT. Jasa Raharja lebih kecil dibandingkan dengan
+perhitungan biaya BBKO (T0). Maka dapat ditarik kesimpulan yaitu didapat perbandingan yang berbeda,
+karena ketentuan yang di atur berdasarkan pada (Tahun 2003) dengan santunan asuransi PT. Jasa Raharja
+mengalami perubahan pada Tahun 2017 dengan melihat pertimbangan dari segi kemajuan teknologi. Namun
+biaya yang harus diberikan kepada korban kecelakaan sesuai dengan tingkat keparahan korban dan memiliki
+syarat – syarat yang harus dipenuhi oleh korban kecelakaan sesuai dengan ketentuan yang berlaku.
+IV. KESIMPULAN
+
+A. Kesimpulan
+Setelah melakukan analisis terhadap data kecelakaan yang didapat dari Polres Kabupaten Garut selama periode
+tahun 2015 – 2019 mengenai karakteristik kecelakaan lalu lintas, daerah rawan kecelakaan (Blacksite), biaya
+satuan korban kecelakaan, dan upaya meminimalisir terjadinya resiko kecelakaan maka dapat disimpulkan
+sebagai berikut:
+1. Hasil analisis data kecelakaan yang terjadi di Kabupaten Garut pada tahun 2015 - 2019 yang dikategorikan
+berdasarkan “5W & 1H”.
+a. What: Kendaraan yang paling dominan terlibat kecelakaan adalah sepeda motor (71%).
+b. Who: Karakteristik pelaku didominasi oleh usia 16-30 tahun (55%) dan korban didominasi oleh usia
+16-30 tahun (48%), pelaku kelamin laki-laki (92%), korban kelamin laki-laki (77%), pelaku dan
+korban berpendidikan SLTA (60%), pelaku sebagai karyawan swasta (44%), korban sebagai
+karyawan swasta (40%).
+c. Why: Faktor penyebab kecelakaan. Mayoritas kecelakaan yang diteliti oleh penulis karena kurang
+tertib mematuhi rambu lalu lintas dan lengah dalam mengemudikan kendaraannya . Lengah dapat
+menyebabkan kurang konsentrasinya pengemudi dalam mengendarai kendaraannya.
+d. When: Kecelakaan paling sering terjadi pada jam puncak baik pagi, siang dan sore. Yang paling tinggi
+yaitu pukul 12.00-18.00 WIB dengan persentase (35%).
+e. Where: Lokasi daerah rawan kecelakaan adalah pada fungsi jalan arteri (47%) dan status jalan
+provinsi (62%).
+f. How: Tipe kejadian yaitu tabrakan depan-depan (43%) dan tabrak manusia (17%).
+2. Lokasi daerah rawan kecelakaan lalu lintas di Kabupaten Garut meliputi: Kecamatan Malangbong,
+Kecamatan Kadungora, Kecamatan Cilawu, dan Kecamatan Bayongbong. Kecamatan yang paling
+dominan terjadi kecelakaan adalah kecamatan Malangbong dan Cilawu. Rekomendasikan untuk penerapan
+rambu lalu lintas yaitu rambu peringatan tanjakan dan turunan, rambu peringatan tikungan kiri dan kanan,
+rambu jalan berbelok, rambu hati – hati, batas kecepatan dan cermin tikungan. Serta penerapan marka
+yaitu garis utuh dan garis putus – putus.
+436
+
+https://jurnal.itg.ac.id/
+
+Jurnal Konstruksi
+Vol. 19; No. 2; 2021; Hal 428-438
+
+Elsa & Farida
+
+3. Kendaraan sepeda motor merupakan kejadian dengan jumlah korban kecelakaan lalu lintas dengan jumah
+biaya paling besar. Total keseluruhan biaya korban kecelakaan pada tahun 2015 - 2019 yang dihitung
+dengan metode The Gross Output yaitu sebesar Rp.261.793.420.717,- dan biaya santunan asuransi dari
+PT. Jasa Raharja yaitu sebesar Rp.95.240.000.000.-.
+4. Upaya untuk mencegah resiko terjadinya kecelakaan lalu lintas dengan metode tindakan pencegahan dari
+mulai rambu lalu lintas yang terpasang di setiap sudut jalan, marka jalan, dan pemasangan lampu
+penerangan jalan khususnya di daerah (blacksite) yang masih rawan kecelakaan. Sehingga mengurangi
+tingkat resiko kecelakaan lalu lintas yang terjadi di Kabupaten Garut.
+
+B. Saran
+Berdasarkan kesimpulan yang diperoleh dari hasil penelitian penulis mencoba menyampaikan beberapa
+saran. Adapun saran-saran tersebut antara lain:
+1. Perlu diadakan penelitian lebih lanjut mengenai analisis biaya kecelakaan lalu lintas yaitu dengan
+menambahkan komponen lain seperti Badan Pusat Statistik (BPS), perbaikan kendaraan (bengkel) dan
+rumah sakit.
+2. Diharapkan bagi pengemudi untuk berhati – hati dalam berkendara terutama dalam mengatur kecepatan
+tinggi untuk menghindari terjadinya kecelakaan lalu lintas.
+3. Pengemudi harus memahami dan mengerti macam – macam rambu lalu lintas marka jalan dan pengatur
+lalu lintas lainnya, untuk mengetahui dimana rawan kecelakaan dan mengantisipasi agar lebih berhati –
+hati dalam berkendara.
+4. Merekomendasikan pengaturan lalu lintas di beberapa daerah rawan kecelakaan maupun fasilitas jalan
+yang kurang lengkap dengan menerapkan sesuai standar yang berlaku
+
+DAFTAR PUSTAKA
+[1]
+
+Badan Pusat Statistik (BPS) Kabupaten Garut. (2020). Garut dalam Angka 2019. (Online),
+(https://garutkab.bps.go.id, diakses 5 April 2020).
+[2] Setiawati, D.N, Intari,D.E, Zailani. A. (2019). Analisis Titik Rawan Kecelakaan Lalu Lintas Pada
+Ruas Jalan Provinsi (Studi Kasus: Jl. Raya Legok Dan Jl. Raya Kelapa Dua Kab. Tangerang. Jurnal Teknik
+Sipil, Vol. 04, No. 1 , Halaman 76-86
+[3] Anderson, F. (2019). Analisa Tingkat Kecelakaan Lalu Lintas Pada Kendaraan Bermotor Di Jl. Besar
+Sei Renggas Kisaran Barat. Jurnal Teknik Sipil Universitas Asahan, Vol 5 No. 2.
+[4] Zanuardi, Arvian, dan Suprayitno, Hitapriya. (2018). Analisis Karakteristik Kecelakaan Lalu Lintas di
+Jalan Ahmad Yani Surabaya Melalui Pendekatan Knowledge Discovery In Datagase. Jurnal Teknik
+Sipil Institut Sepuluh November, 52 – 53.
+[5] Santoso, I. F. (2018). Keselamatan Angkutan Bus di Kabupaten Garut. Jurnal Transportasi, 211.
+[6] Qurni A.I, (2015). Analisis rawan kecelakaan dijalan nasional kabupaten kendal. Tuas Khusus.
+Universitas Negeri Semarang.
+[7] Putri, C. E. (2014). Analisis Karakteristik Kecelakaan Lalu Lintas Dan Faktor Penyebab Kecelakaan
+Pada Lokasi Blackspot Dikota Kayu Agung. Jurnal Teknik Sipil dan Lingkungan. Vol 2, No. 1, 154-161.
+[8] Hermawan. (2013). Hubungan Uji Berkala Kendaraan Bermotor dengan Kecelakaan Lalu lintas di
+Kota Cirebon.
+[9] S W, Kartika, Jarot. (2010). Analisa Biaya Kecelakaan Lalu Lintas di Kota Surakarta dengan Metode
+The Gross Output. Universitas Sebelas Maret, 8 – 18.
+[10] Hasan, I. (2001). Kajian Lalu Lintas dan Analisis Jalan. Jurnal Teknik Sipil Yogyakarta:
+
+Universitas Gajah Mada.
+[11] Pusat Litbang Prasarana Transportasi. (2006). Pedoman Perhitungan Besaran Biaya Kecelakaan, Pd.T02-2005-B. Jakarta: Departemen Permukiman dan Prasarana Wilayah.
+[12] Peraturan Pemerintah (1993). Nomor 43/PRT/P/1993 Tentang Prasarana dan Lalu Lintas Jalan. Jakarta.
+[13] Peraturan Menteri Pekerjaan Umum (2014). Nomor 13/PRT/M/2014 Tentang Rambu Lalu Lintas.
+Jakarta.
+https://jurnal.itg.ac.id/
+
+437
+
+Elsa & Farida
+
+Jurnal Konstruksi
+Vol. 19; No. 2; 2021; Hal 428-438
+
+[14] Satuan Lalu Lintas Kepolisian Resor Garut. (2020). Data Kecelakaan Lalu Lintas di Kabupaten Garut
+2015 – 2019. Garut
+
+438
+
+https://jurnal.itg.ac.id/
+
+

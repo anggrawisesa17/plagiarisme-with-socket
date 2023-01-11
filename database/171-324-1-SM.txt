@@ -1,0 +1,941 @@
+KARAKTERISTIK DAN TREN PERUBAHAN SUHU PERMUKAAN LAUT
+DI INDONESIA PERIODE 1982-2009
+THE CHARACTERISTIC AND TREND OF SEA SURFACE TEMPERATURE OVER
+INDONESIA IN 1982-2009
+Muhammad Najib Habibie* dan Tri Astuti Nuraini
+Pusat Penelitian dan Pengembangan BMKG, Jakarta
+*e-mail : najib.habibie@bmkg.go.id
+Naskah masuk: 3 Maret 2014; Naskah diperbaiki: 22 Agustus 2014; Naskah diterima: 10 September 2014
+
+ABSTRAK
+Suhu permukaan laut (SPL) merupakan komponen penting yang dapat mengendalikan cuaca dan iklim di wilayah
+Indonesia. Seiring dengan adanya isu perubahan iklim yang ditandai dengan peningkatan suhu global, maka SPL
+disinyalir juga berubah. Pada penelitian ini dikaji tentang karakteristik dan tren perubahan SPL di wilayah Indonesia.
+Tujuan dari penelitian ini adalah untuk mengetahui ada tidaknya perubahan SPL di wilayah Indonesia. Untuk itu
+dianalisa data SPL selama 28 tahun (1982-2009) dengan metode Mann-Kendall test. Domain yang digunakan adalah
+15°LU- 15°LS, 90°BT-145°BT. Berdasarkan hasil penelitian ini diperoleh bahwa karakteristik siklus SPL di wilayah
+Indonesia berhubungan erat dengan siklus monsun yang bertiup di wilayah ini dimana pada periode monsun Asia SPL di
+wilayah utara lebih hangat sebaliknya pada periode monsun Australia, di selatan yang lebih hangat dan di sekitar ekuator
+mengalami SPL paling hangat pada periode peralihan. Secara umum di wilayah Indonesia terutama di inner sea terjadi
+tren peningkatan SPL dengan probabilitas > 95%. Daerah inlet Arus Lintas Indonesia (ARLINDO) dan South Equatorial
+Current yang meliputi perairan sekitar Biak, Selat Makassar, Halmahera, dan Laut Banda, pada umumnya mengalami
+tren peningkatan SPL yang paling tinggi dibandingkan wilayah sekitarnya dengan peningkatan mencapai 0,5-1,1 oC pada
+periode DJF. Pada masa peralihan dan musim kemarau, hanya di Pasifik bagian barat yang mengalami tren meningkat.
+Kata kunci: Suhu Permukaan Laut (SPL), tren, Mann-Kendall test, ARLINDO, monsun
+
+ABSTRACT
+Sea Surface Temperature (SST) is important factor on weather and climate regulation over Indonesia. According to the
+climate change issue which is characterized by increasing global temperatures, the SST was allegedly increased too. The
+purpose of this study was to determine the existence of the SST change over Indonesia. Mann-Kendall test used to analyze
+28 years (1982-2009) SST data. The domain of this research is 15° N-15° S, 90° E-145° E. The result of this research
+shows that increasing trend of SST occurring over Indonesia waters. It was found that the characteristic of SST in
+Indonesia is correlated with monsoon system, whereas in the Asian summer monsoon, the SST of the northern region is
+warmer. Contrary, in the Australian summer monsoon, the SST of southern region is warmer. The SST of equator region is
+warmest in the transition period. In general, Indonesia's waters experiencing an increasing trend of SST with a
+probability over 95%. The Indonesian throughflow and South Equatorial Current on western part of Pacific Ocean
+covering Biak waters, Makassar Strait, Halmahera, and Banda Sea generally experiencing the highest increasing trend
+of SST compared with other area between 0.5 to 1.1°C. In the transitional period and dry season, the SST over Indonesia,
+largely unchanged, except in the western Pacific.
+Keywords: Sea Surface Temperature (SST), trend, Mann-Kendall test, Indonesian Throughflow, monsoon
+
+1.Pendahuluan
+Luas laut Indonesia mencapai 5,8 juta km2, atau
+mendekati 62% dari luas keseluruhan negara
+Indonesia. Keadaan ini mengakibatkan iklim di
+wilayah Indonesia dikendalikan oleh iklim laut di
+sekitarnya. Pada kenyataannya iklim di wilayah Jawa
+dan pulau-pulau besar lainnya mewakili iklim maritim
+dan bukan iklim benua[1]. Berkembangnya isu
+
+perubahan iklim akibat pemanasan global dan adanya
+variabilitas iklim yang mempunyai dampak signifikan
+pada kehidupan manusia akhir-akhir ini, menimbulkan
+pertanyaan apakah fenomena tersebut menyebabkan
+perubahan pada iklim laut. Penelitian ini sangat
+penting dilakukan karena perubahan yang ada di laut
+akan berpengaruh juga di daratan, terutama daerah
+pesisir. Zona pesisir Indonesia menopang kehidupan
+sekitar 60% dari lebih dari 240 juta penduduk
+
+KARAKTERISTIK DAN TREN PERUBAHAN SUHU PERMUKAAN LAUT....Muhammad Najib Habibie & Tri Astuti Nuraini
+
+37
+
+Indonesia. Oleh karena itu adanya pemahaman tentang
+perubahan iklim terutama suhu muka laut, akan
+meningkatkan pemahaman tentang perubahan iklim
+beserta dampak yang di timbulkan.
+Pada penelitian ini akan dikaji perubahan suhu
+permukaan laut / Sea Surface Temperature (SST)
+selama 28 tahun dari 1982-2009. Tujuan dari
+penelitian ini adalah untuk mengetahui apakah dalam
+kurun waktu tersebut terjadi perubahan SPL di wilayah
+Indonesia. Perubahan SPL berpengaruh terhadap
+perubahan Intertropical Convergence Zone (ITCZ)
+yang akan menyebabkan perubahan musim dari
+normalnya. Pola hujan juga sensitif terhadap
+perubahan anomali SPL. Penelitian sebelumnya
+menunjukkan bahwa anomali SPL telah memengaruhi
+variasi hujan di subkontinen Afrika[2] serta kecepatan
+pembentukan badai[3].
+Di Atlantik, SPL berpengaruh terhadap kejadian badai,
+pencairan es dan kekeringan. Salah satu pertanda
+adanya perubahan iklim di Atlantik Utara telah
+ditemukan yaitu bertambahnya frekuensi hurricane
+dan pencairan es di Greenland. Kedua fenomena
+tersebut terjadi ketika di Atlantik Utara terjadi
+pemanasan SPL secara signifikan. Penelitian terakhir
+menunjukkan bahwa kejadian tersebut berhubungan
+dengan pemanasan global [4]. Beberapa proses yang
+berpotensi dapat menimbulkan variabilitas SPL
+meliputi perubahan dalam pembentukan awan,
+penguapan, efek angin lokal, perubahan transport
+panas pada inter dan intrahemisfer. Efek variasi dari
+kehilangan panas laten dari permukaan laut
+merupakan mekanisme yang penting dalam perubahan
+SPL[2]. Faktor lain yang memengaruhi SPL adalah
+arus, gelombang, gerakan konveksi, upwelling,
+divergensi, pembekuan dan pencairan es di daerah
+kutub [5].
+Meteorologis telah lama mengamati permukaan laut
+terutama SPL sebagai kandidat utama yang
+menimbulkan perubahan atmosfer frekuensi rendah.
+Pemahaman akan hubungan laut dan atmosfer bukan
+hanya penting dalam pemahaman sistim iklim, tetapi
+juga menjangkau implikasi praktis yang lebih luas
+yaitu dalam pediksi cuaca dan iklim, dari simulasi
+variabilitas sistem iklim interdekadal menunjukkan
+adanya hubungan yang erat antara laut dan
+atmosfer[6,7].
+Kondisi permukaan laut di daerah tropis umumnya
+hangat dengan variasi suhu tahunan rendah. Kondis ini
+akan berpengaruh terhadap aktivitas konveksi yang
+tinggi. Sedangkan laut merupakan sumber uap air
+utama untuk segala proses yang ada di atmosfer.
+Daerah tropis menjadi penting pada sistem iklim
+global karena pemanasan yang kuat dan terungkapnya
+fluktuasi iklim jangka waktu tahunan maupun
+interdekadal yang dapat memengaruhi iklim global
+
+serta berdampak sosioekonomi pada daerah tersebut
+atau wilayah yang lebih luas. Sebagai contoh variasi
+iklim di daerah tropis dapat berdampak sampai
+Amerika Utara[8]. Oleh sebab itu perubahan iklim
+yang terjadi pada daerah tropis akan menyebabkan
+perubahan pada daerah yang lebih luas lagi.
+Salah satu akibat adanya perubahan SPL di daerah
+tropis yang telah diteliti yaitu berubahnya curah hujan
+yang ada di wilayah Sahel (sub Sahara, Afrika).
+Diperkirakan curah hujan di Sahel berkurang sekitar
+35% sejak tahun 1950. Tren kekeringan di Sahel yang
+mencolok ini terungkap dari tahun 1950-1985 dan dari
+tahun 1985 sampai sekarang wilayah ini sangat lambat
+untuk pulih kembali. Gianni et al 2003 dalam Chung &
+Ramanathan[9], menjelaskan bahwa kejadian ini
+dipicu oleh adanya pemanasan SPL di ekuatorial
+Samudera Hindia dan Atlantik yang merupakan
+trigger untuk penurunan curah hujan di Sahel.
+Penelitian lain menyebutkan bahwa tren pemanasan
+SPL di Atlantik merupakan faktor utama penyebab
+kekeringan di Sahel. Hal ini menunjukkan bahwa
+daerah ekuator merupakan daerah yang penting dalam
+mengendalikan cuaca dan iklim di wilayah lain.
+Monsun Asia dan Afrika diketahui berhubungan,
+sirkulasi monsun Asia Selatan berakibat sangat besar
+terhadap lintasan monsun Afrika Utara pada troposfer
+atas dan tengah yang melintasi Samudera Hindia.
+Variasi monsun Asia akan berakibat pada
+bervariasinya hujan di Afrika Utara[9]. Perubahan SPL
+di Samudera Hindia tentunya akan menyebakan
+bervariasinya lintasan monsun ini sehingga akan
+berpengaruh terhadap variasi hujan di kedua tempat.
+Perubahan SPL dapat memengaruhi pola curah hujan
+pada suatu tempat. Dari analisa curah hujan tahun
+1955-2005 ditemukan tren penurunan curah hujan
+serta tren penurunan kekuatan dan dominasi monsun.
+Hal ini menyebabkan perubahan pola hujan tahunan
+yaitu peningkatan curah hujan di musim hujan serta
+peningkatan periode musim kering atau
+ketidakseimbangan pola tahunan. Perubahan ini
+menyebabkan peningkatan ancaman kekeringan di
+musim kemarau dan cuaca ekstrim di musim hujan.
+Mei dan Desember curah hujan telah menurun secara
+signifikan selama lima dekade terakhir seperti yang
+ditunjukkan oleh terus meningkatnya daerah dengan
+jumlah curah hujan yang rendah . Dengan
+membandingkan time series dari data curah hujan di
+dua lokasi, daerah pegunungan dan pesisir, ditemukan
+bahwa periode kering telah meningkat, terutama di
+daerah ketinggian rendah[10]. Mengingat SPL
+berimplikasi terhadap berbagai aspek yang
+berhubungan dengan cuaca dan ikim, maka penelitian
+ini menjadi penting untuk dilakukan. Dalam penelitian
+ini difokuskan pada perubahan SPL di Indonesia.
+
+JURNAL METEOROLOGI DAN GEOFISIKA VOL. 15 NO. 1 TAHUN 2014 : 37-49
+
+38
+
+2. Metode Penelitian
+Z
+Dalam kajian ini digunakan data SPL yang mencakup
+domain 15°LU- 15°LS, 90°BT-145°BT, data diakses
+dari The Integrated Global Ocean Services System
+(IGOSS) yang mengoleksi dan mendistribusikan data
+suhu permukaan laut, salinitas, sea level dan arus. Data
+IGOSS merupakan akuisisi dari berbagai data dan
+sistem manajemen lain, Data IGOSS reanalisis dapat
+diakses dari http://iridl.ldeo.columbia.edu/
+SOURCES/.IGOSS/ [11]. Data yang dipakai yaitu data
+bulanan dari bulan Januari sampai Desember tahun
+1982-2009 (28 tahun).
+Tren linear dan Mann-Kendall test telah diaplikasikan
+dalam mengkaji perubahan suhu permukaan laut.
+Mann-Kendall test adalah uji non-parametrik untuk
+mendeteksi trend pada data time series. Uji ini
+membandingkan besaran relatif dari data sampel[12].
+Salah satu manfaat dari uji ini adalah bahwa data tidak
+perlu disesuaikan pada setiap distribusi tertentu. Nilai
+data dievaluasi sebagai orde time series. Setiap data
+dibandingkan dengan semua data berikutnya.
+Rumus Mann-Kendall statistik ditunjukkan sebagai
+berikut:
+
+...(1)
+dimana:
+
+=1
+=0
+= -1
+
+jika
+jika
+jika
+
+>0
+=0
+<0
+
+Nilai S positif yang sangat tinggi merupakan indikator
+tren meningkat, dan nilai negatif sangat rendah
+menunjukkan tren menurun. Namun, masih
+dibutuhkan penghitungan probabilitas, nilai S dan
+ukuran sampel, n, untuk mengukur signifikansi
+statistik dari tren. Untuk perhitungan probabilitas
+digunakan langkah-langkah sebagai berikut:
+ Perhitungan varian S
+
+...(2)
+Dimana n adalah data ke-n, g adalah urutan kelompok
+tertentu (di mana masing-masing anggotanya
+memiliki yang sama) dan tp adalah urutan data pada p.
+ Untuk menghitung uji normalitas data, digunakan
+rumus sebagai berikut:
+
+0
+
+...(3)
+ Penghitungan probabilitas kemudian digabungkan
+dengan uji normalitas. Fungsi probabilitas pada
+distribusi normal dengan rata-rata 0 dan standar
+deviasi 1 dapat dihitung dengan persamaan
+berikut:
+...(4)
+
+Derajat tingkat kepercayaan (significant level) yang
+dipakai adalah 95%. Trend dikatakan menurun jika Z
+adalah negatif dan probabilitas lebih besar dari
+significant level. Trend dikatakan meningkat jika Z
+adalah positif dan nilai probabilitas lebih besar dari
+significant level. Jika probabilitasnya kurang dari
+significant level, maka tidak ada tren (no trend).
+
+3. Hasil dan Pembahasan
+Karakteristik SPL di wilayah Indonesia yang dianalisa
+secara musiman berdasarkan perata-rataan selama 28
+tahun mulai tahun 1982-2009 ditampilkan pada
+Gambar 1. Distribusi SPL di wilayah Indonesia
+berhubungan erat dengan siklus monsun di mana
+terlihat pada bulan DJF, SPL di bumi belahan selatan
+(BBS) cenderung lebih hangat dibandingkan bumi
+belahan utara (BBU). Hal ini bertepatan dengan
+aktifnya monsun Asia dan posisi matahari berada di
+BBS. SPL di wilayah Indonesia pada bulan DJF
+berkisar antara 28-29,5 °C dan untuk wilayah BBS
+relatif lebih hangat dibanding BBU. Sebaliknya pada
+bulan JJA yang bertepatan dengan periode monsun
+Australia, wilayah BBS lebih dingin dibandingkan
+dengan BBU. Matahari saat itu berada di BBU
+sehingga atmosfernya cenderung lebih hangat, hal ini
+diikuti oleh menghangatnya SPL di BBU. SPL pada
+bulan ini tertinggi di sebagian Selat Malaka yang
+mencapai 30,5 °C, sedangkan wilayah sekitarnya yaitu
+sepanjang pantai timur Sumatera dan pantai barat
+Sumatera yang meliputi Padang sampai Aceh memiliki
+suhu 30 °C. Sebaliknya di sebelah selatan yang
+meliputi laut Jawa, dan selatan Jawa memiliki suhu 2727,5 °C, dan terendah di Laut Arafura yang mencapai
+26,5 °C.
+Pada musim peralihan sebaran SPL di wilayah
+Indonesia hampir merata, tidak ada perbedaan
+mencolok antara BBU dan BBS, berkebalikan dengan
+kondisi saat periode monsun. Secara umum pada
+periode MAM, SPL wilayah Indonesia paling hangat
+dibandingkan periode yang lain. SPL pada periode ini
+berkisar antara 29-30 °C. Wilayah yang paling hangat
+
+KARAKTERISTIK DAN TREN PERUBAHAN SUHU PERMUKAAN LAUT....Muhammad Najib Habibie & Tri Astuti Nuraini
+
+39
+
+meliputi pantai barat Sumatera, Selat Malaka, Selat
+Karimata, Laut Jawa bagian utara dan perairan sekitar
+Kendari. Pada periode SON, SPL wilayah Indonesia
+lebih dingin dibandingkan periode MAM dengan suhu
+berkisar 28-29,5 °C, hanya sebagian kecil wilayah
+yang mempunyai SPL 30 °C yaitu perairan Sulawesi
+dan Pasifik barat sekitar Biak.
+Analisa signifikan tren dan linear tren data SPL
+wilayah Indonesia tahun 1982-2009 dapat dilihat pada
+Gambar 2. Dalam analisa tren ini digunakan lima
+klasifikasi sebagai berikut:
+
+a. 2 = mengalami tren peningkatan suhu dengan
+tingkat probabilitas ≥ 95%
+b. 1 = kemungkinan mengalami trend meningkat
+(probabilitas 90 - 95%)
+c. 0 = tidak mengalami tren (no trend/ probabilitas
+≤ 90 %)
+d. -1 = kemungkinan mengalami trend turun
+(probabilitas 90 - 95%)
+e. -2 = mengalami tren penurunan suhu dengan
+tingkat probabilitas ≥ 95%
+
+Gambar 1. Pola SPL musiman di wilayah Indonesia berdasarkan data tahun 1982-2009
+
+Gambar 2. Peta tren (garis kontur) dan signifikan tren (warna) SPL wilayah Indonesia tahun 1982-2009.
+JURNAL METEOROLOGI DAN GEOFISIKA VOL. 15 NO. 1 TAHUN 2014 : 37-49
+
+40
+
+Secara umum dari tahun 1982-2009 kondisi suhu
+permukaan laut (SPL) di wilayah Indonesia
+mengalami tren peningkatan suhu dengan proabilitas
+
+≥ 95%, kecuali di Samudera Hindia sebelah selatan
+Jawa sampai Laut Timor, sebagian Laut Arafura dan
+sebagian Laut Ambon yang tidak mengalami tren (no
+trend). Laut Jawa, Selat Malaka, Selat Karimata, Selat
+Makassar, Laut Sulawesi, Laut Banda, perairan sekitar
+Maluku dan Samudera Pasifik bagian barat terindikasi
+mengalami tren peningkatan SPL. Samudera Pasifik
+bagian barat merupakan wilayah yang mengalami tren
+peningkatan SPL paling tinggi dengan nilai linear tren
+antara 0,6-0,8 °C. Wilayah lain yang mengalami tren
+SPL meningkat dengan nilai peningkatan 0,5 °C
+meliputi Laut Jawa bagian timur, Laut Bone,
+Masalembo dan Selat Makassar. Sedangkan wilayah
+lain seperti Laut Jawa bagian barat, Selat Karimata dan
+Laut Banda mengalami peningkatan SPL sebesar 0,4
+°C. Jalur yang dilalui Arus Lintas Indonesia
+(ARLINDO) seperti Selat Makassar, Laut Banda, dan
+Selat Lombok terindikasi mengalami tren SPL
+meningkat. Hal ini terjadi akibat adanya aliran massa
+air dari Samudera Pasifik bagian barat yang juga
+mengalami tren peningkatan SPL paling tinggi.
+Pemanasan SPL di Samudera Hindia telah diketahui
+berdasarkan berbagai penelitian terkini. Kondisi
+Samudera Hindia dari tahun 1900-1983 pada saat
+musim dingin di sebelah utara menunjukkan tren
+memanas. Dominiak 2005 dalam Ihara, Kushnir, &
+Cane[13] menunjukkan bahwa seluruh Samudera
+Hindia menunjukkan pemanasan yang kuat setelah
+tahun 1976-1977. Perubahan ini mungkin sebagai
+bagian dari variasi natural, ataupun merupakan
+manifestasi lokal akibat pemanasan global yang
+disebabkan oleh gas rumah kaca dan aerosol akibat
+aktivitas manusia.
+Pada bulan Desember, umumnya perairan di wilayah
+Indonesia mengalami tren peningkatan SPL dengan
+probabilitas ≥ 95%. Hampir seluruh wilayah perairan
+terutama dari Laut Jawa bagian tengah ke timur
+mengalami tren peningkatn suhu permukaan laut.
+Sebagian besar peningkatan tren masuk kedalam
+kelompok a. Peningkatan tren paling tinggi meliputi
+perairan Wakatobi, Laut Banda, Laut Arafura, dan
+
+Samudera Pasifik bagian barat. Di perairan Indonesia
+bagian barat, tren peningkatan SPL terindikasi di Selat
+Malaka, Selat Sunda, sebagian Selat Karimata,
+Samudera Hindia selatan Jawa sampai Pacitan.
+Perairan sebelah utara Kalimantan menjalar ke utara
+sampai perairan Filipina juga mengalami tren
+peningkatan SPL. Daerah-daerah yang mengalami
+linear tren paling tinggi di bulan Desember meliputi
+Samudera Pasifik sebelah barat (Halmahera dan Biak)
+dengan nilai 0,8-1 oC, perairan Wakatobi dengan nilai
+0,8-0,9 oC, serta Laut Banda dan Laut Arafura dengan
+nilai 0,8-1 oC. Sedangkan untuk Laut Jawa tren
+peningkatan SPL tertinggi terjadi di Selat Sunda
+dengan nilai 0,7oC.
+Signifikan tren SPL pada bulan Januari berbeda
+dibandingkan degan bulan Desember, sebagian besar
+Laut Jawa, Laut Banda, Laut Arafura dan Laut Ambon
+yang sebelumnya mengalami tren meningkat, tidak
+mengalami perubahan (no trend) pada bulan ini.
+Sebaliknya di sepanjang pantai timur Sumatera dan
+sebagian Selat Karimata yang sebelumnya masuk
+dalam kelompok b, pada bulan ini mengalami tren
+peningkatan SPL dengan probabilitas 90-95%
+(kelompok a). Pada bulan ini terdapat tren penurunan
+SPL di Laut Cina Selatan sebesar 0,3-0,6 oC dan Teluk
+Carpentaria disebelah selatan. Dari linear tren terlihat
+bahwa di Pasifik Barat terjadi peningkatan yang paling
+tinggi yaitu antara 0,7-1,1 oC. Sedangkan wilayah lain
+yang mengalami peningkatan relatif tinggi antara 0,50,7 oC yaitu Laut Sulawesi, Laut Banda, Selat Sunda
+dan Selat Malaka.
+Signifikan tren SPL pada bulan Februari mempunyai
+pola tren meningkat di perairan yang berbatasan
+dengan Samudera Pasifik bagian barat, tren meningkat
+dengan probabilitas >95% terjadi di Laut Sulawesi,
+Halmahera, Biak, sebagian Laut Banda, dan perairan
+sebelah timur Papua. Sedangkan di wilayah barat tren
+terlihat meningkat di Selat Malaka. Samudera Hindia
+yang berbatasan dengan wilayah Indonesia, Selat
+Karimata dan Laut Jawa, mengalami no trend atau
+tidak mengalami perubahan. Nilai linear tren paling
+tinggi terjadi di Samudera Pasifik bagian barat dengan
+nilai 0,6-1 oC. Laut Sulawesi dan Laut Ambon juga
+terlihat meningkat sebesar 0,5-0,8 oC. Dan di Selat
+Makassar mengalami peningkatan antara 0,4-0,6 oC.
+
+KARAKTERISTIK DAN TREN PERUBAHAN SUHU PERMUKAAN LAUT....Muhammad Najib Habibie & Tri Astuti Nuraini
+
+41
+
+Gambar 3. Peta tren dan signifikan tren SPL wilayah Indonesia bulan Desember, Januari dan Februari tahun 1982- 2009.
+
+Pada bulan Maret, daerah yang mengalami tren
+peningkatan SPL adalah Selat Makassar, Halmahera,
+Laut Arafura, sebagian Laut Banda, Samudera Pasifik
+bagian barat dan Selat Malaka. Pada bulan ini Laut
+Jawa dan Selat Krimata tidak mengalami tren (no
+trend), begitu juga Samudera Hindia. Di Selat Malaka,
+peningkatan SPL berkisar antara 0,2 – 0,5 oC, di Selat
+Makassar 0,4 – 0,8 oC, di laut Arafura dan Laut Banda
+berkisar antara 0,3 – 0,6 oC, sedangkan di Samudera
+
+Pasifik bagian barat dan perairan Maluku
+peningkatannya sebesar 0,6 – 0,8 oC. Kondisi SPL pada
+bulan April cenderung stabil, hanya sebagian kecil
+perairan wilayah Indonesia yang mengalami tren
+peningkatan SPL, yaitu Selat Malaka yang menjalar ke
+utara sampai Teluk Siam dan Laut Andaman, Teluk
+Bone, sebagian Selat Makassar bagian selatan dan
+Biak. Peningkatan SPL di Selat Malaka mencapai 0,4 –
+0,5 oC, dan Makassar antara 0,4-0,5 oC.
+
+JURNAL METEOROLOGI DAN GEOFISIKA VOL. 15 NO. 1 TAHUN 2014 : 37-49
+
+42
+
+Gambar 4. Peta tren dan signifikan tren SPL wilayah Indonesia bulan Maret, April dan Mei tahun 1982-2009.
+
+Berbeda dengan bulan sebelumnya, pada bulan Mei
+Selat Karimata dan Laut Jawa mengalami tren
+peningkatan SPL dengan probabilitas > 95%, Selat
+Malaka dan perairan sekitar Biak juga mengalami hal
+yang sama. Sebaliknya Laut Sulu dan Laut Andaman
+mengalami penurunan tren SPL. Peningkatan suhu
+yang terjadi di Laut Jawa berkisar 0,5 – 0,6 oC.
+Samudera Pasifik bagian barat mengalami
+
+peningkatan suhu sebesar 0,4 - 0,6 oC, sedangkan di
+Laut Sulu dan Andaman penurunan suhunya sebesar 0,4 - -0,6 oC.
+Pada bulan Juni, daerah yang mengalami trend
+peningkatan SPL meliputi Selat Malaka, Sumatera
+bagian utara, Selat Karimata, Laut Banda, dan
+Samudera Pasifik sebelah utara Papua. Tren
+
+KARAKTERISTIK DAN TREN PERUBAHAN SUHU PERMUKAAN LAUT....Muhammad Najib Habibie & Tri Astuti Nuraini
+
+43
+
+penurunan SPL terjadi di Laut Sulu (Filipina).
+Peningkatan SPL sekitar utara Nusa Tenggara berkisar
+0,5 – 0,6 oC, Samudera Pasifik utara Papua mengalami
+peningkatan SPL sebesar 0,4 -0,8 oC, Sumatera bagian
+utara mengalami peningkatan SPL sebesar 0,4 – 0,6 oC,
+
+dan juga Selat Karimata berkisar 0,4 – 0,5. Penurunan
+SPL terjadi di sekitar Filipina dengan nilai sebesar -0,1
+- -0,3 oC dan di Samudera Hindia sebelah selatan Jawa
+sebesar --01 - 0,2 oC.
+
+Gambar 5. Peta tren dan signifikan tren SPL wilayah Indonesia bulan Juni, Juli dan Agustus tahun 1982-2009.
+
+JURNAL METEOROLOGI DAN GEOFISIKA VOL. 15 NO. 1 TAHUN 2014 : 37-49
+
+44
+
+Sama halnya dengan bulan Juni, beberapa daerah
+mengalami tren peningkatan SPL, yaitu di Samudera
+Pasifik bagian barat dan sebelah barat ujung pulau
+Sumatera dan Selat Makassar. Di Samudera Hindia
+sebelah selatan Pulau Jawa umumnya masih tidak
+mengalami trend peningkatan maupun penurunan
+suhu permukaan laut (no trend), sedangkan sebagian
+Laut Jawa mulai mengalami tren peningkatan suhu
+terutama di sebelah utara Madura, Bali sampai sebelah
+selatan Banjarmasin.
+Peningkatan SPL berdasarkan linear tren masih terjadi
+di Samudera Pasifik sebelah utara Papua, yaitu
+berkisar 0,4 – 0,7, di Selat Makassar 0,4 – 0,6, di
+Samudera Hindia sebelah Barat ujung Sumatera
+peningkatannya sebesar 0,3 – 0,5, serta di sebelah utara
+Madura, Bali sampai sebelah selatan Banjarmasin juga
+mengalami peningkatan sebesar 0,4 – 0,7.
+Berkebalikan dengan daerah yang lain, Samudera
+Hindia sebelah selatan Jawa mengalami penurunan
+suhu sebesar -0,1 - -0,3 oC walaupun dalam signifikan
+tren tidak menunjukkan perubahan.
+Pada bulan Agustus, sebagian besar tidak mengalami
+tren perubahan SPL. Wilayah yang mengalami tren
+peningkatan SPL umumnya terjadi di berada di sebelah
+utara ekuator. Daerah-daerah yang mengalami
+peningkatan SPL yaitu Selat Malaka, sebagian
+Samudera Hindia, Selat Makassar, Laut Cina Selatan,
+dan perairan sekitar Biak. Dibanding dengan bulan
+sebelumnya daerah yang mengalami tren perubahan
+suhu luasannya semakin sedikit. Di Laut Jawa bagian
+selatan umumnya tidak mengalami perubahan trend
+(no trend). Peningkatan SPL pada bulan Agustus masih
+terjadi di Samudera Pasifik sebelah utara Papua
+dengan peningkatan 0,5 – 0,9, sekeliling ujung Pulau
+Sumatera sampai Selat Malaka peningkatannya 0,3 –
+0,6.
+Pada bulan JJA, untuk wilayah Indonesia sebagian
+besar tidak mengalami perubahan tren, kecuali untuk
+di Samudera Pasifik yang berbatasan dengan Papua,
+Selat Makassar, Samudera Hindia di sebelah barat dan
+selatan ujung Sumatera, Selat Malaka, serta Laut
+China Selatan mengalami trend peningkatan SPL.
+Wilayah perairan Nusa Tenggara dan Laut Banda juga
+
+mengalami trend kenaikan SPL, tetapi hanya pada
+bulan Agustus (untuk kelompok musim JJA).
+Peningkatan SPL terjadi di Samudera Pasifik di sekitar
+Papua, dengan kenaikan sebesar 0,4 – 0,8 oC dan di
+Samudera Hindia di sekitar ujung Pulau Sumatera juga
+mengalami kenaikan 0,4 – 0,6 oC. Penurunan terjadi di
+Samudera Hindia sebelah selatan Pulau Jawa yaitu 0,1 - -0,2 oC, dan pada bulan Agustus penurunan hingga
+-0,4 oC.
+Pada bulan September, umumnya perairan di wilayah
+Indonesia tidak mengalami perubahan suhu (no trend).
+Sedikit wilayah perairan yang mengalami peningkatan
+SPL meliputi Selat Malaka, sebagian Laut Jawa
+sebagian Selat Makassar, dan sebagian Samudera
+Pasifik bagian barat. Peningkatan SPL berdasar linear
+tren, terjadi di Selat Makassar sebesar 0,5 – 0,6 oC,
+Laut Jawa sebesar 0,5 – 0,7 oC, sebagian perairan utara
+Kalimantan sebesar 0,4 – 0,7 oC serta di sebagian
+Samudera Pasifik bagian barat sebesar 0,5 – 0,9 oC. Di
+sebelah selatan Pulau Jawa mengalami penurunan
+sebesar -0,1 - -0,4oC seperti pada Gambar 6.
+Tren peningkatan SPL pada bulan Oktober hanya
+terjadi di beberapa wilayah perairan di Indonesia, yaitu
+di sebagian Samudera Pasifik sebelah utara Papua,
+sebelah utara Jawa Timur, Selat Malaka dan Selat
+Sunda. Peningkatan SPL yang dilihat melalui linier
+trend terjadi di Samudera Pasifik bagian barat sebesar
+0,7 – 1,1 oC. Penurunan SPL terjadi di perairan sekitar
+kepulauan Natuna sebesar -0,3 - -0,6 oC.
+Pada bulan November, wilayah perairan yang
+mengalami peningkatan SPL meliputi sebagian selat
+Malaka, Selat Sunda, sebagian Laut Jawa, Selat
+Makassar, sebagian Laut Sulawesi, Laut Timor, dan
+sebagian Samudera Pasifik barat. Dibanding dengan
+bulan September dan Oktober, pada bulan November
+ini wilayah yang mengalami tren peningkatan SPL
+lebih luas. Berdasarkan linier tren, wilayah yang
+mengalami peningkatan SPL adalah di Selat Makassar
+dengan peningkatan 0,5 – 0,7 oC, sebelah utara Jawa
+Timur sampai Lombok peningkatan 0,6 oC, Laut Timor
+0,5 – 1,0 oC , dan di sebagian Samudera Pasifik sebelah
+utara Papua dengan kenaikan 0,5 – 0,9oC.
+
+KARAKTERISTIK DAN TREN PERUBAHAN SUHU PERMUKAAN LAUT....Muhammad Najib Habibie & Tri Astuti Nuraini
+
+45
+
+Gambar 6. Peta tren dan signifikan tren SPL wilayah Indonesia bulan September, Oktober dan November tahun 1982-2009.
+
+Dilihat secara musiman, karakteristik SPL di wilayah
+Indonesia sangat bergantung pada sirkulasi monsun.
+Pada periode monsun Asia, wilayah Indonesia bagian
+utara mengalami SPL yang lebih hangat dibanding
+bagian selatan, sebaliknya pada periode monsun
+Australia, bagian selatan yang mempunyai SPL lebih
+hangat. Pada musim peralihan, di mana matahari
+berada di atas ekuator, wilayah Indonesia relatif lebih
+hangat dibanding wilayah sekitarnya dan wilayahwilayah dengan pola hujan ekuatorial mengalami
+puncak musim hujan. Hal ini sesuai dengan
+
+penelitian[7], yang menyatakan bahwa siklus
+musiman SPL di Samudera Hindia relatif tetap dari
+tahun ke tahun, dan sangat didominasi oleh pola
+monsun. Korelasi antara monsun dengan SPL di
+Samudera Hindia dan Pasifik sangat tinggi dengan
+nilai 0,8 yang menunjukkan bahwa keduanya
+mempunyai hubungan yang sangat kuat[14]
+Dari hasil penelitian dijelaskan bahwa umumnya pada
+musim Desember-Januari-Februari (DJF), sebagian
+besar wilayah laut Indonesia mengalami tren
+
+JURNAL METEOROLOGI DAN GEOFISIKA VOL. 15 NO. 1 TAHUN 2014 : 37-49
+
+46
+
+peningkatan SPL. Tren peningkatan tertinggi berada di
+perairan sekitar Laut Sulawesi, Halmahera dan Laut
+Pasifik bagian barat. Luasan wilayah yang memiliki
+tren peningkatan SPL paling luas terjadi saat bulan
+Desember, kemudian semakin menyempit pada bulan
+Januari dan Februari. Disamping adanya tren
+peningkatan SPL, pada musim ini juga terjadi tren
+penurunan SPL di Laut Cina Selatan yang terlihat pada
+bulan Januari dan intensitasnya menurun pada bulan
+Februari, tetapi penurunan intensitas ini diikuti oleh
+peningkatan intensitas tren penurunan SPL di perairan
+Teluk Carpentaria. Begitu juga peningkatan suhu
+permukaan laut selama 28 tahun musim hujan ini
+paling tinggi terjadi pada bulan Desember dimana di
+Samudera Pasifik bagian barat mengalami
+peningkatan SPL sebesar 0,8 – 1 oC.
+Pada musim peralihan menuju kemarau bulan MaretApril-Mei (MAM) perairan Indonesia didominasi oleh
+no trend. Hanya sedikit daerah yang mengalami tren
+peningkatan maupun penurunan suhu permukaan laut,
+derah yang mengalami tren peningkatan SPL meliputi
+Selat Makassar, Biak, Teluk Siam dan Laut Andaman.
+Pada umumnya daerah-daerah tersebut masuk dalam
+tren kelompok b dan c. Pada bulan Mei terlihat adanya
+tren penurunan SPL di Laut Andaman dan perairan
+sekitar Filipina. Perubahan SPL pada musim ini
+berkisar antara -0,4 – 0,6 oC dimana angka negatif
+menunjukkan penurunan SPL sedangkan nilai positif
+menunjukkan peningkatan SPL.
+Pada musim kemarau bulan Juni-Juli-Agustus (JJA)
+ada perluasan area yang mengalami tren peningkatan
+SPL, terutama di Selat Malaka dan Samudera Pasifik
+bagian barat. Tren peningkatan SPL terlihat paling luas
+pada bulan Juli yang umumnya masuk kategori
+kelompok 1 dan berada di Samudera Pasifik bagian
+barat. Tren penurunan SPL juga masih terlihat di
+sekitar perairan Filipina pada bulan Mei-Juli dan Teluk
+Carpentaria pada bulan Juni yang berkembang sampai
+bulan Agustus dan menurun pada bulan September.
+Perubahan SPL yang terjadi di perairan Indonesia pada
+musim kemarau ini berkisar antara -,2 – 0,6 oC.
+Pada musim peralihan menuju hujan bulan SeptemberOktober-November (SON), daerah yang mengalami
+tren peningkatan SPL yaitu sekitar Selat Malaka,
+Samudera Hindia Laut Jawa, Selat Makassar dan
+Samudera Pasifik sebelah utara Papua. Perubahan SPL
+selama 28 tahun pada musim peralihan ini berkisar
+antara 0,2 – 0,6 oC. Pada periode musim SON wilayah
+perairan Indonesia umumnya tidak mengalami
+perubahan suhu (no trend), kecuali di Samudera
+Pasifik bagian barat, sebagian Selat Makassar,
+sebagian Laut Jawa, Selat Malaka, dan Samudera
+Hindia di sekitar ujung Sumatera
+Selat Malaka dan Samudera Pasifik di sebelah utara
+Papua mengalami tren peningkatan SPL sepanjang
+
+tahun, sedangkan daerah yang paling tinggi
+kenaikannya adalah perairan sekitar Biak. Puncak tren
+peningkatan SPL terutama terjadi pada musim hujan
+dan musim kemarau, sedangkan pada musim peralihan
+tren perubahan SPL cenderung lebih lemah. Adanya
+variasi tren pada masing-masing daerah
+dimungkinkan karena adanya beberapa faktor yang
+meliputi arus laut, kedalaman laut serta pola sirkulasi
+massa air yang berbeda pada tiap-tiap daerah. Daerah
+yang mengalami tren peningkatan SPL lebih banyak
+terdapat pada perairan antar pulau dibandingkan yang
+berada di laut lepas. Jika dilihat secara tahunan,
+perairan terbuka di Samudera Hindia dan Laut Arafura
+tidak mengalami perubahan tren, begitu juga di Laut
+Cina Selatan dan perairan sekitar Filipina.
+Arus laut berperan penting dalam sebaran SPL dan
+perubahan tren-nya di wilayah Indonesia. Daerah yang
+dilalui arus dari Samudera Hindia dan Pasifik
+nampaknya lebih nyata mengalami tren perubahan
+SPL, Selat Malaka, Selat Sunda, Selat Makassar,
+Halmahera dan Samudera Pasifik bagian barat seperti
+perairan Biak yang merupakan jalur pertukaran massa
+air antar Samudera terlihat nyata perubahannya. Di
+Samudera Pasifik bagian barat yang merupakan jalur
+arus ekuatorial selatan (South Equatorial Current/
+SEC) mempunyai SPL yang lebih hangat akibat
+terbawanya massa air hangat dari Pasifik tengah[15]
+dan bertiupnya angin pasat (trade wind) dimana angin
+permukaan mempunyai korelasi yang tinggi dalam
+menentukan SPL[16]. Perairan ini sangat sensitif
+terhadap perubahan variabilitas SPL di Samudera
+Pasifik dan dipengaruhi pergerakan warm-pool dan
+fenomena ENSO. SEC berperan penting dalam
+transport panas yang diakibatkan oleh warm pool ini
+yang kemudian akan merubah SPL di Pasifik Barat.
+Semakin seringnya kejadian ENSO pada dekade ini
+turut berperan dalam perubahan SPL di wilayah
+Indonesia. Lee, et al. [17] menyatakan bahwa telah
+terjadi pemanasan SPL di Pasifik tengah yang
+kemudian dialirkan oleh SEC menuju Pasifik bagian
+barat. Dari perairan ini, massa air hangat kemudian
+ditransfer menuju ke Samudera Hindia oleh
+ARLINDO [17,15] melewati Selat Makassar, ke Selat
+Lombok, Laut Banda, Selat Ombai serta Laut
+Timor[18,19]. Oleh sebab itu daerah aliran ARLINDO
+pada penelitian ini terlihat mengalami tren
+peningkatan SPL akibat suplai air hangat dari
+Samudera Pasifik.
+Arus laut berperan dalam pembentukan eddy (pusaran
+arus). Eddy berperan penting dalam pertukaran panas
+yaitu membentuk mixed layer yang kemudian akan
+menentukan kondisi SPL[7]. Hal ini terlihat di daerah
+pusaran arus seperti Biak dan Halmahera mengalami
+tren peningkatan SPL dan linear tren yang tinggi,
+karena terjadi percampuran massa air hangat dari
+Samudera Pasifik termasuk yang diakibatkan oleh
+adanya warm pool.
+
+KARAKTERISTIK DAN TREN PERUBAHAN SUHU PERMUKAAN LAUT....Muhammad Najib Habibie & Tri Astuti Nuraini
+
+47
+
+Gambar 7. Hubungan antara IOD dan ENSO terhadap SPL di Selat Makassar, Pasifik Barat, Halmahera, Samudera Hindia
+dan Selat Sunda
+Tabel 1. Korelasi antara IOD dan ENSO terhadap SPL di Selat Makassar, Pasifik Barat, Halmahera, Samudera Hindia dan
+Selat Sunda
+
+Korelasi
+
+Selat Makassar
+
+Pasifik Barat
+
+Halmahera
+
+Samudera Hindia
+
+Selat Sunda
+
+DMI
+
+-0.19229
+
+-0.18569
+
+-0.29844
+
+-0.40392
+
+-0.31769
+
+ENSO
+
+-0.22601
+
+-0.41893
+
+-0.41963
+
+0.087118
+
+0.251113
+
+Wilayah laut Indonesia sangat dipengaruhi oleh IOD
+dan ENSO, termasuk SPL-nya. Dinamika IOD dan
+ENSO yang terjadi akhir-akhir ini, bisa menimbulkan
+bias apakah tren peningkatan SPL ini disebabkan
+akibat peningkatan SPL global atau karena dinamika
+fenomena tersebut yang terjadi tiga dekade terakhir.
+Untuk itu dilakukan perhitungan korelasi antara SPL
+dengan indeks keduanya untuk mengetahui hubungan
+keterikatannya seperti ditampilkan pada Gambar 7.
+Pasifik Barat, Selat Makassar dan Halmahera
+mewakili pintu masuk ARLINDO dan berhubungan
+dengan ENSO, sedangkan samudera Hindia dan Selat
+Sunda untuk mengidentifikasi keterkaitannya dengan
+fenomena IOD. Dari gambar 7 dapat dilihat bahwa
+pada tahun El Niño, SPL di wilayah Selat Makassar,
+Halmahera dan Pasifik Barat cenderung turun
+dibanding sebelumnya. Sedangkan pada saat La Nina
+SPL cenderung meningkat. Hal ini terlihat pada
+kejadian El Nino 1983, 1994 serta 1997/1998 yang
+suhunya turun, sedangkan pada La Nina 1992, 1996
+dan 1998 SPL cenderung meningkat.
+SPL di Samudera Hindia dan Selat Sunda terlihat
+berubah sesuai dengan perubahan indeks IOD. Pada
+tahun 1983 indeks ENSO positif dan IOD negatif, SPL
+di daerah ini naik sedangkan Selat Makassar,
+Halmahera dan Samudera Pasifik bagian barat
+suhunya turun. Hal ini sesuai dengan penelitian
+Iskandar 2010[20] yang menyebutkan bahwa SPL di
+wilayah Laut Banda yang merupakan jalur ARLINDO
+dipengaruhi oleh kejadian IOD dan ENSO.
+SPL di Selat Makassar, Halmahera dan Samudera
+Pasifik bagian barat, menunjukkan nilai korelasi
+dengan ENSO yang lebih besar dibandingkan dengan
+IOD, sebaliknya di Samudera Hindia dan Selat Sunda
+yang merupakan inlet massa air dari Samudera Hindia
+ke perairan Indonesia mempunyai korelasi dengan
+
+IOD yang lebih besar dibanding ENSO seperti pada
+Tabel 1. Hal ini berarti bahwa di daerah inlet
+ARLINDO kondisi SPL berhubungan erat dengan
+kondisi ENSO, sebaliknya di Samudera Hindia dan
+Selat Sunda, SPL lebih dipengaruhi oleh IOD.
+Penelitian sebelumnya [21] yang menggunakan data
+SODA selama 47 tahun (1957-2004) menunjukkan
+bahwa rata-rata SPL pada tahun La Niña meningkat
+0,2 oC dibanding rata-rata klimatologinya terutama
+perairan di sekitar Indonesia bagian timur meliputi
+sebagian Laut Sulawesi yang menjalar sampai
+Filipina, Selat Makassar, Laut Banda, Laut Arafuru,
+Laut Timor, Selat Lombok, Samudera Hindia di
+selatan Pulau Jawa. Demikian sebaliknya pada tahun
+El Niño perairan Indonesia di bagian Timur
+mengalami pendinginan sebesar 0,3 oC dibandingkan
+dengan klimatologinya. Perairan yang mengalami
+pendinginan tersebut meliputi Selat Makassar, Laut
+Sulawesi yang menjalar sampai perairan Filipina,
+Samudera Pasifik bagian barat sebelah utara Papua,
+Laut Banda, Laut Arafuru, dan perairan sekitar Pulau
+Timor [21]. Sedangkan linear trend data SPL tahun
+1982-2009 pada penelitian ini berkisar antara 0,5-0,8
+o
+C, hal ini menunjukkan bahwa tren peningkatan SPL
+di perairan Indonesia bukan semata-mata diakibatkan
+oleh fenomena IOD dan ENSO, tetapi juga akibat
+pemanasan SPL secara global. Penelitian-penelitaian
+terkini menunjukkan bahwa secara global SPL
+mengalami kenaikan 0,11 oC (0,09-0,13 oC) perdekade
+[22].
+
+4. Kesimpulan
+Variasi SPL di wilayah Indonesia bergantung pada
+siklus monsun yang melewati Indonesia dimana pada
+periode monsun Asia SPL di wilayah utara lebih
+hangat sebaliknya pada periode monsun Australia, di
+
+JURNAL METEOROLOGI DAN GEOFISIKA VOL. 15 NO. 1 TAHUN 2014 : 37-49
+
+48
+
+selatan yang lebih hangat dan di sekitar ekuator
+mengalami SPL paling hangat pada periode peralihan.
+Secara umum diwilayah Indonesia terutama di inner
+sea terjadi tren peningkatan SPL dengan probabilitas >
+95%. Daerah aliran ARLINDO dan SEC Samudera
+Pasifik yang meliputi perairan sekitar Biak, Selat
+Makassar, Halmahera, dan Laut Banda, pada
+umumnya mengalami tren peningkatan SPL yang
+paling tinggi dibandingkan wilayah sekitarnya. Dari
+linear tren terlihat di daerah tersebut mengalami
+kenaikan SPL yang paling tinggi dibandingkan daerah
+lain yaitu antara 0,5-1,1 oC pada periode DJF.
+Dinamika SPL di inlet ARLINDO seperti Selat
+Makassar, Halmahera dan perairan sekitar Biak
+berkorelasi tinggi terhadap fenomena ENSO,
+sedangkan perairan sebelah barat seperti Samudera
+Hindia dan Selat Sunda lebih berkorelasi dengan IOD.
+
+Daftar Pustaka
+[1] Aldrian, E. (2008). Meteorologi Laut Indonesia.
+Jakarta: Puslitbang BMKG.
+[2] Carton, J. A., Cao, X., Giese, B. S., & da Silva, A.
+M. (1996). Decadal and Interannual SST
+Variability in The Tropical Atlantic Ocean.
+Journal of Physical Oceanography , 26, 11651175.
+[3] Foltz, G. R., & McPhaden, M. J. (2008). Impact of
+Saharan Dust on Troical North Atlantic SST.
+Journal of Climate , 21, 5048-5060.
+[4] Ting, M. F., Kushnir, Y., Seager, R., & Li, C.
+(2009). Forced and Internal TwentiethCentury SST Trends in the North Atlantic.
+Journal of Climate. 22, 1469-1481
+[5] Stewart, H. R. (2008). Introduction to Physical
+Oceanography. Texas: A&T University
+[6] Lau, N. C. (1997). Interaction between Global SST
+Anomalies and Midlatitude Atmospheric
+Circulation. Bulletin of the American
+Meteorological Society , 78, 21-33.
+[7] Jochim, M., & Murtugudde, R. (2005). Internal
+Variability of Indian Ocean SST. Journal of
+Climate , 18, 3726-3738.
+[8] Su, J., Wang, H., Yang, H., Drange, H., Gao, Y. &
+Betsen, M. (2008). Role of the Atmospheric
+and Oceanic Circulation in the Tropical
+Pacific SST Changes. Journal of Climate. 21,
+2019-2034
+[9] Chung, C. E., & Ramanathan, V. (2006).
+Weakening of North Indian SST Gradients
+and the Monsoon Rainfall in India and the
+Sahel. Journal of Climate , 19, 2036-2045.
+[10] Aldrian, E. (2010). Climate Change and Monsoon
+
+Interplay in the Maritime Continent.
+International Symposium on Equatorial
+Monsoon System (pp. 95-105). Jakarta:
+Puslitbang BMKG.
+[11] ( http://iridl.ldeo.columbia.edu/SOURCES/
+.IGOSS/), 17 Agustus 2010
+[12] Mondal, A., Kundu, S., & Mukhopadhyay, A.
+(2012). Rainfall Trend Analysis by
+Mann_Kendall Test: A Case Study of
+North_eastern of Cuttack District, Orissa.
+International Journal of Geology , 2(1), 7078.
+[13] Ihara, C., Kushnir, Y., & Cane, M. A. (2008).
+Warming Trend of the Indian Ocean SST and
+Indian Dipole from 1880 to 2004. Journal of
+Climate , 21, 2035-2046.
+[14] Krishnamurthy, V., & Kirtman, B. P. (2009).
+Relation between Indian Monsoon Variability
+and SST. Journal of Climate , 22, 4437-4458.
+[15] Gordon, A. L. (2005). Oceanography of the
+Indonesian seas and their throughflow. J. of
+the Oceanography Society. 18, 14-27.
+[16] Naguro, M., & Konda, M. (2005). Relationship
+between the Interannual Variation of the
+North Indian Ocean SST Induced by Surface
+Wind and ENSO during Boreal Summer.
+Journal of Climate , 18, 1942-1956.
+[17] Lee, T., Fukumori, I., Menemenlis, D., Xing, Z., &
+Fu, L-L. (2002). Journal of Physical
+Oceanography. 32, 1404-1429
+[18] Hasan, M. (1998). Arus lintas Indonesia (Arlindo).
+Oseana, 23, 1-9
+[19] Pandey, V. K., & Pandey, A. C. (2006). Heat
+transport through Indonesian throughflow. J.
+Ind. Geophysic Union. 10, 273-277.
+[20] Iskandar, I. (2010). Seasonal and Interannual
+Pattern of Sea Surface Temperature in Banda
+Sea as Revealed by Self-Organising Map.
+Continental Self Research, 30, 1136 – 1148
+[21] Suratno, dkk. (2010). Kajian Dampak dan
+Variabilitas Iklim Laut di Indonesia. Laporan
+Tahunan Puslitbang BMKG, 2010, 1 – 14
+[22] IPCC, 2013 : Summary for Policymakers. In:
+Climate Change 2013: The Physical Science
+Basic. Contribution of Working Group I to the
+Fith Assessmentt Report of the
+Intergovernmental Panel on Climate Change
+[Stocker, T.F., D. Qin, G.-K. Plattner, M.
+Tignor, S. K. Allen, J. Boschung, A. Nauels, Y.
+Xia, V. Bex and P.M. Midgley (eds.)].
+Cambridge University Press, Cambridge,
+United Kingdom and New York, NY, USA.
+
+KARAKTERISTIK DAN TREN PERUBAHAN SUHU PERMUKAAN LAUT....Muhammad Najib Habibie & Tri Astuti Nuraini
+
+49
+
+

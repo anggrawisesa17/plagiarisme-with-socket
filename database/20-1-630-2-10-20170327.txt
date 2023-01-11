@@ -1,0 +1,1105 @@
+JURNAL AKUNTANSI. VOL.2 NO.1 JUNI 2014
+PENGARUH CURRENT RATIO, DEBT TO EQUITY RATIO, RETURN ON EQUITY, NET
+PROFIT MARGIN DAN EARNING PER SHARE
+TERHADAP HARGA SAHAM
+(Study Kasus Pada Perusahaan Manufaktur Yang Terdaftar Di Bursa
+Efek Indonesia Periode 2008-2011)
+Aditya Pratama*
+Teguh Erawati
+Program Studi Akuntansi Fakultas Ekonomi
+Universitas Sarjanawiyata Tamansiswa
+*aditya_pratama_ust@yahoo.co.id
+
+ABSTRACT
+This study discusses the stock price and financial ratios based on the financial
+statements of companies listed on the Indonesia Stock Exchange during the period 2008 2011. The purpose of this research was to determine whether the Current Ratio, Debt to
+Equity Ratio, Return on Equity, Net Profit Margin and Earning Per Share has an influence
+on the stock price. The company sampled as many as 20 of the 136 companies listed on the
+Indonesia Stock Exchange during the period 2008-2011. Using regression analysis, it can be
+seen that the variable current ratio, debt to equity ratio, return on equity, net profit margin
+and earnings per share to simultaneously have a significant influence on stock prices. Test
+results partially, current ratio, debt to equity ratio, and earnings per share positive and
+significant effect on stock prices. Return on equity has a negative effect on stock prices. Net
+profit margins and significant positive effect on stock prices.
+Keywords: Current Ratio, Debt To Equity Ratio, Return On Equity, Net Profit Margin,
+Earning Per Share, Stock Price.
+
+PENDAHULUAN
+Setiap investor atau calon investor
+memiliki tujuan tertentu yang ingin dicapai
+melalui keputusan investasi yang diambil.
+Pada umumnya motif investasi adalah
+memperoleh keuntungan, keamanan, dan
+pertumbuhan dana yang ditanamkan. Untuk
+itu dalam melakukan investasi dalam bentuk
+saham investor harus melakukan analisis
+terhadap faktor yang dapat mempengaruhi
+kondisi perusahaan emiten. Tujuannya agar
+para investor mendapat gambaran yang lebih
+jelas terhadap kemampuan perusahaan untuk
+terus tumbuh dan berkembang pada masa
+yang akan datang.
+Analisis rasio merupakan alat yang
+digunakan untuk membantu menganalisis
+laporan keuangan perusahaan sehingga dapat
+
+diketahui kekuatan dan kelemahan suatu
+perusahaan. Analisis rasio juga menyediakan
+indikator yang dapat mengukur tingkat
+profitabilitas,
+likuiditas,
+pendapatan,
+pemanfaatan asset dan kewajiban perusahaan
+(Munawir, 2004). Dalam penelitian ini rasio
+yang digunakan adalah Current Ratio (CR),
+Debt to Equity Ratio (DER), Return on
+Equity (ROE), Net Profit Margin (NPM) dan
+Earning per Share (EPS).
+Dari latar belakang yang telah
+diuraikan diatas, dapat dirumuskan beberapa
+permasalahan sebagai berikut apakah current
+ratio, debt to equity ratio, return on equity,
+net profit margin dan earning per share
+berpengaruh secara parsial maupun simultan
+terhadap harga saham.
+1
+
+JURNAL AKUNTANSI. VOL.2 NO.1 JUNI 2014
+KAJIAN PUSTAKA, KERANGKA
+PEMIKIRAN, DAN HIPOTESIS
+Menurut Putri (2011), current ratio
+merupakan perbandingan antara aktiva lancar
+(current assets) dengan hutang lancar
+(current liabilities). Menurut Patriawan
+(2011), debt to equity ratio merupakan rasio
+yang mengukur sejauh mana besarnya utang
+dapat ditutupi oleh modal sendiri. Return on
+equity adalah rasio perbandingan antara laba
+setelah pajak dengan modal sendiri atau
+modal saham yang digunakan untuk
+mengukur tingkat pengembalian atas
+investasi bagi pemegang saham biasa atau
+pemilik modal (Putri, 2011). Menurut Savitri
+(2012), net profit margin merupakan rasio
+antara laba bersih setelah pajak (net income
+
+after tax) terhadap total penjualan (sales).
+Menurut Savitri (2012), earning per share
+merupakan perbandingan antara laba bersih
+dengan jumlah saham beredar. Harga saham
+adalah harga suatu saham pada pasar yang
+sedang berlangsung. Menurut UndangUndang No. 8 Tahun 1995 tentang Pasar
+Modal pada hakekatnya harga saham
+merupakan
+penerimaan
+besarnya
+pengorbanan yang harus dilakukan oleh
+setiap investor untuk penyertaan dalam
+perusahaan. Jika pasar bursa efek ditutup,
+maka harga pasar adalah harga penutupannya
+(closing price).
+Untuk lebih jelas kerangka pemikiran
+akan digambarkan dalam skema kerangka
+pemikiran dibawah ini:
+
+MODEL KERANGKA BERPIKIR
+
+CR
+DER
+ROE
+
+HARGA SAHAM
+(Y)
+
+NPM
+EPS
+
+Hipotesis yang diajukan dalam penelitian ini adalah :
+H1 : Current Ratio mempunyai pengaruh positif terhadap harga saham
+H2: Debt to Equity Ratio mempunyai pengaruh positif terhadap harga saham.
+H3: Return On Equity mempunyai pengaruh positif terhadap harga saham.
+H4: Net Profit Margin mempunyai pengaruh positif terhadap harga saham.
+H5: Earnings Per Share mempunyai pengaruh positif terhadap harga saham.
+H6: Current Ratio, Debt to Equity Ratio, Return On Equity, Net Profit Margin dan
+Earnings Per Share mempunyai pengaruh secara simultan terhadap harga saham.
+
+2
+
+JURNAL AKUNTANSI. VOL.2 NO.1 JUNI 2014
+METODE PENELITIAN
+Sifat dalam penelitian ini adalah
+kuantitatif, yang dalam pengolahan datanya
+menggunakan model statistik. Metode
+pengumpulan data dilakukan secara sekunder
+yaitu melalui website www.idx.co.id. Data
+yang diambil adalah laporan keuangan
+selama periode 2008 sampai 2011 pada
+perusahaan manufaktur yang terdaftar di
+Bursa Efek Indonesia dan beberapa literature
+yang berkaitan dengan masalah yang sedang
+diteliti.
+Sampel yang dipilih dalam penelitian ini
+adalah perusahaan Manufaktur di BEI
+dengan kriteria sebagai berikut:
+a. Saham perusahaan yang masih aktif
+yang terdaftar di BEI selama periode
+2008-2011.
+b. Perusahaan Manufaktur yang
+menyajikan laporan keuangan dan rasio
+secara lengkap sesuai dengan variabel
+
+yang akan diteliti berdasarkan sumber
+yang digunakan.
+c. Perusahaan telah mempublikasikan
+laporan keuangan yang telah diaudit
+pada periode 2008-2011.
+Teknik analisis yang digunakan yaitu
+regresi linier berganda yang terdiri dari satu
+variabel dependen (Y) dan lima variabel
+independen (X1- X5).
+
+Keterangan :
+Y
+= Harga Saham Pada Akhir Tahun
+= Konstanta
+X1
+= Current Ratio (CR)
+X2
+= Debt to Equity Ratio (DER)
+X3
+= Return on Equity (ROE)
+X4
+= Net Profit Margin (NPM)
+X5
+= Earning Per Share (EPS)
+e
+= Variabel Pengganggu
+
+HASIL DAN PEMBAHASAN
+Uji Asumsi Klasik
+Uji Normalitas
+
+Dari grafik histogram tampak bahwa
+residual terdistribusi secara normal dan
+membentuk simetris tidak menceng ke kanan
+atau ke kiri. Pada grafik normal probability
+
+plots titik-titik menyebar berhimpit disekitar
+diagonal dan hal ini menunjukkan bahwa
+residual terdistribusi secara normal.
+
+Uji Multikolonieritas
+Tabel 1
+Coefficients
+Unstandardized
+Coefficients
+1
+
+Model
+
+B
+
+(Constant)
+
+.445
+
+Std. Error
+.557
+
+a
+
+Standardized
+Coefficients
+Beta
+
+Collinearity
+Statistics
+T
+.799
+
+Sig.
+
+Tolerance
+
+VIF
+
+.427
+
+3
+
+JURNAL AKUNTANSI. VOL.2 NO.1 JUNI 2014
+LGCR
+
+.637
+
+.254
+
+.223
+
+2.507
+
+.014
+
+.335 2.986
+
+LGDER
+LGROE
+LGNPM
+
+.695
+-.595
+.256
+
+.196
+.148
+.163
+
+.416
+-.300
+.178
+
+3.542
+-4.016
+1.577
+
+.001
+.000
+.119
+
+.192 5.211
+.477 2.098
+.209 4.788
+
+LGEPS
+
+.866
+
+.066
+
+.992 13.032
+
+.000
+
+.458 2.186
+
+a. Dependent Variable:
+LGHS
+
+Sumber : Data Diolah, 2013
+
+Berdasarkan Tabel di bawah ini, tidak
+terdapat satu variabel yang mempunyai nilai
+VIF > 10. Artinya kelima variabel
+independen tersebut tidak terdapat hubungan
+
+multikolonearitas dan dapat digunakan untuk
+memprediksi harga saham selama periode
+pengamatan 2008-2011.
+
+Uji Heteroskedastisitas
+
+Dari grafik scatterplots terlihat titktitik menyebar secara acak (random) baik
+diatas maupun dibawah angka 0 pada sumbu
+
+Y. Hal ini dapat disimpulkan bahwa tidak
+terjadi heteroskedastisitas pada model
+regresi.
+
+Uji Autokorelasi
+
+abel 2
+
+b
+
+Model Summary
+Model
+1
+
+R
+.896
+
+R Square
+a
+
+Adjusted R
+Square
+
+.804
+
+.790
+
+Std. Error of
+the Estimate
+
+Durbin-Watson
+
+.33695
+
+1.804
+
+a. Predictors: (Constant), LGEPS, LGCR, LGROE, LGNPM, LGDER
+b. Dependent Variable: LGHS
+
+Sumber : Data Diola, 2013
+Tampilan output SPSS berikut ini
+menunjukkan besarnya nilai Durbin Watson
+sebesar 1.804. Nilai DW menurut tabel
+dengan n = 80 dan k = 5 didapat angka
+
+4
+
+dL=1.36 dan dU=1.62. Oleh karena nilai DW
+hitung > dU, maka dapat disimpulkan tidak
+terdapat autokorelasi antar residual.
+
+JURNAL AKUNTANSI. VOL.2 NO.1 JUNI 2014
+Analisis Regresi
+Tabel 3
+Hasil Pengujian Coefficients Signifikansi
+
+Model
+1
+
+Unstandardized Coefficients
+B
+Std. Error
+
+Standardized
+Coefficients
+Beta
+
+T
+
+(Constant)
+
+.445
+
+.557
+
+LGCR
+
+.637
+
+.254
+
+LGDER
+
+.695
+
+.196
+
+LGROE
+LGNPM
+
+-.595
+.256
+
+.148
+.163
+
+LGEPS
+
+.866
+
+.066
+
+.992
+
+Sig.
+.799
+
+.427
+
+2.507
+
+.014
+
+.416
+
+3.542
+
+.001
+
+-.300
+.178
+
+-4.016
+1.577
+
+.000
+.119
+
+13.032
+
+.000
+
+.223
+
+a. Dependent Variable: LGHS
+Sumber : Data Diolah, 2013
+
+Dari tabel diatas dapat disusun persamaan
+regresi linier berganda sebagai berikut:
+Y= 0.445+0.637 CR+0.695 DER-0.595
+ROE+0.256 NPM +0.866 EPS+e
+Dari persamaan regresi linier berganda dapat
+dijelaskan :
+) sebesar 0.445.
+Koefisien regresi untuk Current Ratio
+(b1) sebesar 0.637 artinya bahwa setiap
+perubahan satu satuan rasio keuangan
+Current Ratio (CR), maka Harga Saham
+akan mengalami kenaikan sebesar
+0.637%.
+Koefisien regresi untuk Debt to Equity
+Ratio (b2) sebesar 0.695 artinya bahwa
+setiap perubahan satu satuan rasio
+keuangan Debt to Equity Ratio (DER),
+maka Harga Saham akan mengalami
+kenaikan sebesar 0.695%.
+
+Koefisien regresi untuk Return On
+Equity (b3) sebesar -0.595 artinya bahwa
+setiap perubahan satu satuan rasio
+keuangan Return On Equity (ROE),
+maka Harga Saham akan mengalami
+penurunan sebesar 0.595%.
+Koefisien korelasi untuk Net Profit
+Margin (b4) sebesar 0.256 artinya
+bahwa setiap perubahan satu satuan
+rasio keuangan Net Profit Margin
+(NPM), maka Harga Saham akan
+mengalami kenaikan sebesar 0.256%.
+Koefisien korelasi untuk Earning Per
+Share (b4) sebesar 0.866 artinya bahwa
+setiap perubahan satu satuan rasio
+keuangan Earning Per Share, maka
+Harga Saham akan mengalami kenaikan
+sebesar 0.866%.
+
+Analisis Hipotesis
+Tabel 4
+Hasil Pengujian Uji Parsial
+Coefficients
+
+Model
+1
+
+Unstandardized
+Coefficients
+B
+Std. Error
+
+(Constant)
+
+.445
+
+.557
+
+LGCR
+LGDER
+
+.637
+.695
+
+.254
+.196
+
+LGROE
+LGNPM
+
+-.595
+.256
+
+LGEPS
+
+.866
+
+a
+
+Standardized
+Coefficients
+Beta
+
+t
+
+Sig.
+.799
+
+.427
+
+.223
+.416
+
+2.507
+3.542
+
+.014
+.001
+
+.148
+.163
+
+-.300
+.178
+
+-4.016
+1.577
+
+.000
+.119
+
+.066
+
+.992
+
+13.032
+
+.000
+
+5
+
+JURNAL AKUNTANSI. VOL.2 NO.1 JUNI 2014
+Coefficients
+Unstandardized
+Coefficients
+B
+Std. Error
+
+Model
+1
+
+a
+
+Standardized
+Coefficients
+Beta
+
+t
+
+Sig.
+
+(Constant)
+
+.445
+
+.557
+
+.799
+
+.427
+
+LGCR
+LGDER
+
+.637
+.695
+
+.254
+.196
+
+.223
+.416
+
+2.507
+3.542
+
+.014
+.001
+
+LGROE
+LGNPM
+
+-.595
+.256
+
+.148
+.163
+
+-.300
+.178
+
+-4.016
+1.577
+
+.000
+.119
+
+LGEPS
+
+.866
+
+.066
+
+.992
+
+13.032
+
+.000
+
+a. Dependent Variable: LGHS
+
+Tabel 5
+Hasil Pengujian Uji Simultan
+b
+
+ANOVA
+Sum of
+Squares
+
+Model
+1
+
+Regression
+
+Mean Square
+
+34.388
+
+5
+
+6.878
+
+8.402
+
+74
+
+.114
+
+42.789
+
+79
+
+Residual
+Total
+
+Df
+
+F
+
+Sig.
+
+60.576
+
+.000
+
+a
+
+a. Predictors: (Constant), LGEPS, LGCR, LGROE, LGNPM, LGDER
+b. Dependent Variable: LGHS
+
+Tabel 6
+Hasil Pengujian Koefisien Determinasi
+b
+
+Model Summary
+
+Model
+1
+
+R
+
+R Square
+.896
+
+a
+
+.804
+
+Adjusted R
+Square
+
+Std. Error of the
+Estimate
+
+.790
+
+.33695
+
+a. Predictors: (Constant), LGEPS, LGCR, LGROE, LGNPM, LGDER
+b. Dependent Variable: LGHS
+
+a.
+
+6
+
+Pengaruh Current Ratio Terhadap
+Harga Saham
+Current
+Ratio
+merupakan
+rasio
+likuiditas yang paling umum digunakan
+dalam mengukur tingkat likuiditas
+perusahaan. Dari tabel dapat dilihat
+bahwa probabilitas value sebesar 0.014
+lebih kecil dari 0.05. Hasil dari uji-t
+diketahui
+bahwa
+current
+ratio
+mempunyai pengaruh yang signifikan
+dan positif terhadap harga saham.
+
+Semakin tinggi rasio ini, maka
+perusahaan dianggap semakin mampu
+untuk melunasi kewajiban jangka
+pendeknya sehingga akan menarik
+investor
+untuk
+membeli
+saham
+perusahaan
+tersebut
+dan
+akan
+meningkatkan harga saham.
+b. Pengaruh Debt To Equity Ratio
+Terhadap Harga Saham
+
+JURNAL AKUNTANSI. VOL.2 NO.1 JUNI 2014
+Debt to equity ratio merupakan rasio
+yang mengukur sejauh mana besarnya
+utang dapat ditutupi oleh modal sendiri.
+Dari tabel dapat dilihat bahwa
+probabilitas value sebesar 0.001 lebih
+kecil dari 0.05. Hasil dari uji-t diketahui
+bahwa debt to equity ratio mempunyai
+pengaruh yang signifikan dan positif
+terhadap harga saham. Debt to equity
+ratio yang semakin rendah menandakan
+modal asing yang digunakan dalam
+operasional perusahaan semakin kecil,
+sehingga risiko yang ditanggung
+investor juga akan semakin kecil dan
+akan mampu meningkatkan harga
+saham.
+c.
+
+d.
+
+Pengaruh Return On Equity
+Terhadap Harga Saham
+Return on equity adalah rasio
+perbandingan antara laba setelah pajak
+dengan modal sendiri atau modal saham
+yang digunakan untuk mengukur tingkat
+pengembalian atas investasi bagi
+pemegang saham biasa atau pemilik
+modal. Dari tabel dapat dilihat bahwa
+probabilitas value sebesar 0.000 lebih
+kecil dari 0.05. Hasil dari uji-t diketahui
+bahwa
+terdapat
+pengaruh
+yang
+signifikan dari Return On Equity
+terhadap harga saham, namun dari hasil
+Beta menunjukkan nilai negatif, yang
+berarti bahwa variasi perubahan nilai
+variabel
+independen
+tidak dapat
+menjelaskan variabel dependen.
+Pengaruh Net Profit Margin Terhadap
+Harga Saham
+Net profit margin merupakan rasio
+antara laba bersih setelah pajak (net
+income after tax) terhadap total
+penjualan (sales). Dari tabel dapat
+dilihat bahwa probabilitas value sebesar
+0.119 lebih besar dari 0.05. Hasil dari
+uji-t diketahui bahwa net profit margin
+tidak terdapat pengaruh yang signifikan
+dari net profit margin terhadap harga
+saham, yang berarti bahwa variasi
+perubahan nilai variabel independen
+tidak dapat menjelaskan variabel
+
+dependen. Hal ini dikarenakan data yang
+dimiliki oleh perusahaan yang relatif
+kecil sehingga tidak dapat memberi
+pengaruh yang signifikan terhadap harga
+saham.
+e.
+
+Pengaruh Earning Per Share
+Terhadap Harga Saham
+Earning
+per
+share
+merupakan
+perbandingan antara laba bersih dengan
+jumlah saham beredar. Dari tabel dapat
+dilihat bahwa probabilitas value sebesar
+0.000 lebih kecil dari 0.05. Hasil dari
+uji-t diketahui bahwa earning per share
+mempunyai pengaruh yang signifikan
+dan positif terhadap harga saham.
+Earning per share yang semakin tinggi
+maka akan menggembirakan pemegang
+saham karena semakin besar laba yang
+disediakan untuk pemegang saham,
+sehingga akan meningkatnya harga
+saham.
+
+f.
+
+Pengaruh Current Ratio, Debt to
+Equity Ratio, Return On Equity, Net
+Profit Margin dan Earnings Per
+Share Terhadap Harga Saham
+Hasil dari uji F mengatakan bahwa
+variabel Current Ratio, Debt To Equity
+Ratio, Return On Equity, Net Profit
+Margin, dan Earning Per Share
+berpengaruh signifikan secara simultan
+terhadap harga saham. Hal ini
+ditunjukkan pada nilai F hitung sebesar
+60.576 dengan signifikan 0.000.
+Sedangkan untuk nilai koefisien
+determinasi (Adjusted R Square)
+persamaan regresi berganda pada
+penelitian ini adalah 0.790 atau 79%.
+
+SIMPULAN
+Berdasarkan hasil penelitian dan
+pembahasan sebelumnya mengenai pengaruh
+Current Ratio, Debt to Equity Ratio, Return
+On Equity,
+Net Profit Margin
+dan
+Earnings Per Share terhadap Harga Saham
+pada perusahaan manufaktur yang terdaftar
+di BEI, maka penulis membuat kesimpulan
+secara parsial dari kelima variabel
+independen yang memiliki pengaruh positif
+7
+
+JURNAL AKUNTANSI. VOL.2 NO.1 JUNI 2014
+dan signifikan hanya tiga variabel yaitu
+current ratio, debt to equity ratio, dan
+earning per share. Sedangkan secara
+simultan dari kelima variabel independen
+memiliki pengaruh signifikan.
+IMPLIKASI
+1. Berdasarkan hasil perhitungan analisis
+regresi, maka terlihat bahwa nilai
+coefficients dari variabel yang memiliki
+pengaruh signifikan terhadap harga
+saham perusahaan manufaktur hanya
+variabel Current Ratio, Debt to Equity
+Ratio, dan Earning Per Share. Maka
+variabel tersebut dalam penelitian ini
+menjadi variabel yang dapat dijadikan
+acuan untuk digunakan oleh para
+investor dalam menentukan strategi
+investasinya.
+2. Bagi peneliti yang akan datang,
+sebaiknya menambah variabel-variabel
+independen yang ada, menambah jumlah
+sampel perusahaan dengan sektor
+industri
+yang
+berbeda,
+dan
+memperpanjang waktu penelitian lebih
+dari 4 (empat) tahun berturut-turut.
+SARAN
+Berdasarkan hasil kesimpulan di atas
+diberikan saran sebagai berikut:
+Penelitian
+berikutnya
+diharapkan
+menggunakan
+rasio
+keuangan
+perusahaan yang berbeda, yang belum
+dimasukkan dalam model penelitian.
+Bagi peneliti selanjutnya akan lebih baik
+lagi jika menganalisis mengenai rasio
+hendaknya dengan menggunakan jenis
+perusahaan yang bergerak dalam
+berbagai sektor perusahaan.
+
+DAFTAR PUSTAKA
+Armaya, Dwi.2012.Pengaruh Financial
+Leverage dan Total Assets Turnover
+Terhadap Earning Per Share (EPS)
+Pada Perusahaan Perkebunan dan
+Pertambangan Yang Terdaftar Di
+Bursa Efek Indonesia (BEI) Periode
+8
+
+2006-2009.Medan.Universitas
+Sumatera Utara.
+Baridwan,
+Zaki.2000.
+Intermediate
+Accounting. Edisi Ketujuh. BPFE.
+Yogyakarta
+Brighman, Eugene F dan Joel F.
+Houston.2001. Manajemen Keuangan.
+Jakarta : Erlangga
+Darmadji,
+Tjiptono.,dan
+Hendy
+M
+Fakhruddin.2006. Pasar Modal di
+Indonesia : Pendekatan Tanya Jawab.
+Jakarta : Salemba Empat
+Ghozali, Imam.2012. Aplikasi Analisis
+Multivariate dengan Program IBM
+SPSS. Edisi Kelima. Semarang :
+Universitas Diponegoro
+Harahap, Sofyan Syafitri. 2007. Analisis
+Kritis Atas Laporan Keuangan. Jakarta
+: PT. Raja Grafindo Persada
+Ikatan Akuntansi Indonesia. 2009. Standar
+Akuntansi Keuangan. Jakarta
+:
+Salemba Empat
+Indallah, Insi Kamilah. Analisis Pengaruh
+Rasio Profitabilitas Terhadap Harga
+Saham Pada Perusahaan Subsektor
+Semen yang Terdaftar di BEI.
+Universitas Negeri Surabaya
+Jogiyanto, H.M. 2008. Teori Portofolio dan
+Analisis Investasi. Edisi Keenam.
+Yogyakarta : BPFE
+Kusumawardani, Angrawit. 2010. Analisis
+Pengaruh EPS, PER, ROE, FL, DER,
+CR, ROA Pada Harga Saham dan
+Dampkanya
+Terhadap
+Kinerja
+Perusahaan LQ 45 yang Terdaftar di
+BEI Periode 2005-2009. Fakultas
+Ekonomi Universitas Gunadarma.
+Munawir. 2004. Analisis Laporan Keuangan.
+Edisi Keempat. Yogyakarta : Liberty
+
+JURNAL AKUNTANSI. VOL.2 NO.1 JUNI 2014
+Natarsyah. Syahib. 2000. Analisis Pengaruh
+Beberapa Faktor Fundamental dan
+Risiko Sistematis Terhadap Harga
+Saham. Jurnal Ekonomi dan Bisnis
+Indonesia, Vol 15.No.3-294-312
+Novita, Dian. 2011. Analisis Pengaruh ROA,
+ROE, NPM dan Inflasi Terhadap
+Harga Saham Pada Perusahaan
+Makanan
+dan
+Minuman
+yang
+Terdaftar di Bursa Efek Indonesia
+Tahun 2005-2009. Fakultas Ekonomi
+Universitas Esa Unggul Jakarta.
+Nurida, Farah. 2010. Pengaruh Current
+Ratio, Debt To Equity Ratio, dan
+Earning Per Share Terhadap Harga
+Saham Pada Perusahaan Jakarta
+Islamic Index yang Terdaftar di Bursa
+Efek Indonesia Periode 2005 sampai
+2008. Fakultas Ekonomi Universitas
+Indonusa Esa Unggul Jakarta.
+Patriawan,
+Dwiatma.2011.
+Analisis
+Pengaruh Earning Per Share (EPS),
+Return On Equity (ROE), dan Debt To
+Equity Ratio (DER) Terhadap Harga
+Saham Pada Perusahaan Wholesale
+and Retail Trade yang Terdaftar di
+Bursa Efek Indonesia Tahun 20062008. Fakultas Ekonomi Universitas
+Diponegoro Semarang.
+Putri,
+
+Tiara Rachman. 2011. Analisis
+Pengaruh Kinerja Keuangan Terhadap
+Harga Saham Pada Perusahaan
+Manufaktur di Bursa Efek Indonesia.
+Fakultas
+Ekonomi
+Universitas
+Gunadarma.
+
+Raharjo, Susilo. 2005. Analisa Pengaruh
+Kinerja Keuangan Terhadap Return
+Saham Pada Perusahaan LQ 45 di
+Bursa Efek Jakarta. Fakultas Ekonomi
+Universitas
+Islam
+Indonesia
+Yogyakarta.
+Rinati, Ina. 2009. Pengaruh Net Profit
+Margin (NPM), Return On Asset
+(ROA) dan Return On Equity Terhadap
+Harga Saham Pada Perusahaan yang
+
+Tercantum Dalam Indeks LQ 45.
+Fakultas
+Ekonomi
+Universitas
+Gunadarma.
+Rizkiansyah, Achmad. Tanpa tahun. Analisis
+Pengaruh ROA, ROE, NPM dan EPS
+Tehadap Harga Saham Perusahaan
+Pada Sektor Industri Barang Konsumsi
+Di Bursa Efek Indonesia Periode
+2008-2010.
+Saleh, Salma. 2009. Pengaruh Return On
+Assets, Return On Equity, dan Earning
+Per Share Terhadap Harga Saham
+Pada
+Perusahaan
+Industri
+Pertambangan
+di
+Bursa
+Efek
+Indonesia. Jurnal Manajemen dan
+Kewirausahaan. Vol.1, No.1, Januari.
+Sasongko, Noer dan Nila Wulandari. 2006.
+Pengaruh EVA dan Rasio-Rasio
+Profitabilitas Terhadap Harga Saham.
+Jurnal Akuntansi dan Keuangan. Vol.
+19, No. 1, Juni.
+Savitri, Dyah Ayu. 2012. Analisis Pengaruh
+ROA, NPM, EPS dan PER Terhadap
+Harga Saham Studi Kasus Pada
+Perusahaan Manufaktur Sektor Food
+and Beverages Periode 2007-2010.
+Fakultas Ekonomika dan Bisnis
+Universitas Diponegoro Semarang.
+Stella. 2009. Pengaruh Price To Earning
+Ratio, Debt To Equity Ratio, Return
+On Asset dan Price To Book Value
+Terhadap Harga Pasar Saham. Jurnal
+Bisnis dan Akuntansi.Vol.11,No.2,
+Agustus.
+Sugiyono. 2007. Metode Penelitian Bisnis.
+Cetakan Kesepuluh. Bandung: CV.
+Alfabeta
+Undang-Undang No.8 Tahun 1995 Tentang
+Pasar Modal.
+Sia, Vice Law Ren. 2011. Pengaruh Current
+Ratio, Earnings Per Share, dan Price
+Earning Ratio Terhadap Harga
+Saham. Jurnal Akuntansi. Vol.13,
+No.2, November.
+9
+
+JURNAL AKUNTANSI. VOL.2 NO.1 JUNI 2014
+Zen, Fadia. 2009. Earning Per Share (EPS),
+Book Value (BV), Economic Value
+Added (EVA) dan Harga Saham. Jurnal
+Manajemen Gajayana. Vol.6, No.2,
+November.
+
+10
+
+www.google.com
+www.idx.co.id
+
+

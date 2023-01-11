@@ -1,0 +1,629 @@
+JURNAL SISFOTENIKA
+ISSN : 2087 7897
+Volume 4, Nomor 2, Juli 2014, hlm. 85 - 174
+
+DAFTAR ISI
+Analisis Penerapan Social Media Sebagai Strategi Bisnis Oleh Pelaku Bisnis
+Online
+Aditya Wahana, Muhammad Suyanto, Armandyah Amborowati (STMIK
+AMIKOM Yogyakarta)
+Perancangan Sistem Informasi Pengarsipan Pada PDAM Tirta Mon Pase
+Aceh Utara
+Dahlan Abdullah, Cut Yusra Novita, Cut Ita Erliana (Universitas
+Malikussaleh)
+Sistem Pengaman Rumah dan Pengendali Lampu Memanfaatkan Fasilitas
+SMS Berbasis Mikrokontroler ATMEGA16
+Evi Dewi Sri Mulyani, Ardi Andika (STMIK Tasikmalaya)
+
+84-94
+
+95-104
+
+105-116
+
+Pemilihan Tipe Handphone Menggunakan Metode Penalaran Berbasis Kasus
+Sandy Kosasi (STMIK Pontianak)
+
+117-127
+
+Perancangan Sistem Pakar Deteksi Dini Tumbuh Kembang Anak Berbasis
+Multimedia
+Danang Wahyu Widodo, Kusrini, Eko Boedijanto (STMIK AMIKOM
+Yogyakarta)
+
+128-139
+
+Sistem Pendukung Keputusan Penerimaan Pegawai Baru
+Menggunakan Metode Simple Additive Weighting (SAW)
+Shinta Siti Sundari, Yopi Firman Taufik (STMIK Tasikmalaya)
+
+Dengan
+
+140-151
+
+Sistem Informasi Geografis Kawasan Berpotensi Minyak Bumi di
+Kabupaten Langkat
+Fujiati, Fhery Agustin, Evri Ekadiansyah, Lili Tanti (STMIK Potensi Utama)
+
+152-162
+
+Sistem Pakar Diet Sehat Bertipe Genotipe Menggunakan Metode Certainty
+Factor
+Rofiqoh Dewi (STMIK Potensi Utama Medan)
+
+163-174
+
+Indeks Subjek JURNAL SISFOTENIKA Volume 4 (Tahun 2014)
+
+174.1
+
+Indeks Pengarang JURNAL SISFOTENIKA Volume 4 (Tahun 2014)
+
+174.2
+
+Indeks Mitra Bebestari JURNAL SISFOTENIKA Volume 4 (Tahun 2014)
+
+174.3
+
+Aditya Wahana, Muhammad Suyanto, Armandyah Amborowati
+
+ANALISIS PENERAPAN SOCIAL MEDIA SEBAGAI
+STRATEGI BISNIS OLEH PELAKU BISNIS ONLINE
+Aditya Wahana1), Muhammad Suyanto2), Armandyah Amborowati 3)
+STMIK AMIKOM Yogyakarta. Jln. Ring Road Utara Condongcatur Depok Sleman
+Yogyakarta1), 2), 3)
+Magister Teknik Informatika 1), 2), 3)
+Email : dhechaaditya@gmail.com1), yanto@amikom.ac.id 2), armadyah.a@amikom.ac.id3)
+Abstrak
+Penelitian ini bertujuan untuk mengukur sejauh mana efektifitas penggunaan social
+media yang telah digunakan sebagai strategi bisnis oleh beberapa pelaku bisnis berbasis
+online. Subyek penelitian ini adalah beberapa pelaku bisnis berbasis online yang telah
+memanfaatkan social media untuk bisnis mereka. Analisis penelitian menggunakan analisis
+SWOT dan strategi biaya rendah dengan indikator keberhasilan dilihat dari dua perspektif
+yaitu dari sisi pelaku bisnis dan dari sisi konsumen yang mengakses produk bisnis. Hasil
+penelitian menunjukkan bahwa pelaku bisnis yang telah menerapkan social media mengalami
+peningkatan omzet hingga 104%. Penelitian diharapkan dapat menjadi masukan bagi para
+pelaku bisnis yang ingin menggunakan social media sebagai salah satu strategi dalam
+berpromosi.
+Kata Kunci : Social media, Strategi Bisnis, Analisis SWOT, Strategi Biaya Rendah.
+Abstract
+This study aims to identify and measure the affectivity of using social media that used
+by some of online based businesses. These subject is some of online based businesses that using
+social media as strategy to deliver their brand to consumer. Analysis of the data is using SWOT
+analysis and cost leadership strategy that perspective is measure form two side, first is from the
+that the income of online bases businesses after using social media as their strategy is increase
+up to 104%. This research is expected to be input and can be used by a businesses that want to
+apply social media as their strategy to deliver their brand.
+Kata Kunci : Social media, Business strategy, SWOT analysis, Low cost strategy.
+1. PENDAHULUAN
+Teknologi informasi dalam kurun waktu beberapa tahun terakhir mengalami
+perkembangan yang cukup pesat. Dalam kurun waktu tersebut ditemukan sebuah platform yang
+memungkinkan orang di seluruh dunia untuk terhubung satu sama lain yang disebut media
+sosial. Facebook dan Twitter merupakan 2 buah social media yang mengalami perkembangan
+paling pesat dan mempunyai anggota terbanyak hingga saat ini. Kedua social media tersebut
+sudah mulai banyak dimanfaatkan untuk mempromosikan sebuah produk dan dijadikan salah
+satu strategi bisnis oleh beberapa pelaku bisnis.
+Tujuan penelitian adalah untuk mengetahui bagaimana penerapan social media sebagai
+strategi bisnis oleh pelaku bisnis berbasis online. Adapun batasan dari penelitian ini adalah a)
+Subyek penelitian adalah para pelaku bisnis yang telah menerapkan social media sebagai salah
+satu strategi bisnis mereka. Para pelaku bisnis tersebut dipilih yang telah mengalami
+peningkatan setelah menerapkan social media; b) Analisis data menggunakan analisis SWOT
+dan menggunakan strategi biaya rendah.
+Title of manuscript is short and clear, implie
+Vol. 4, No. 2, Juli 2014
+85
+Title of manuscript is short and clear, implies research results (First Auts research results
+(First Author)
+
+Analisis Penerapan Social Media ...
+ISSN: 1978-1520
+Output penelitian ini fokus terhadap cara penerapan dan penggunaan social media sebagai
+strategi bisnis dan diharapkan dapat menjadi masukan bagi pelaku bisnis lain yang ingin
+menerapkan hal serupa.
+2. METODE PENELITIAN
+Metode yang digunakan dalam penelitian ini adalah deskriptif, penelitian dilakukan
+dengan dua tahap. Penelitian pertama dilakukan dengan meneliti pemanfaatan social media oleh
+para pelaku bisnis, pelaku bisnis yang menjadi responden berjumlah 5 responden. Pemilihan
+responden tersebut berdasarkan pada keaktifan para pelaku bisnis tersebut menggunakan akun
+social media mereka sebagai salah satu strategi penjualan dan promosi produk mereka.
+Penelitian pertama tersebut dengan cara wawancara terhadap responden.
+Penelitian kedua terhadap para konsumen akun social media para pelaku bisnis tersebut.
+Jumlah responden adalah 100 orang yang diambil dengan cara random sampling. Penelitian
+kedua dilakukan dengan media kuisioner yang disebar melalui email ataupun secara langsung.
+Acuan referensi penelitian yang digunakan sebagai pembanding penelitian ini diantaranya
+adalah penelitian yang dilakukan oleh Tejal Andharia yang berjudul
+media Marketing Tool -Will this toda
+Penelitian ini membahas
+mengenai penerapan social media dalam strategi bisnis di beberapa pelaku bisnis di india
+dimana para pelaku bisnis tersebut sudah merasakan manfaat dari penerapan social media yang
+berpengaruh sangat signifikan terhadap bisnis mereka.[1]
+Social media
+Marketing in Education
+ware & Information Industri association.
+Hasil penelitian tersebut adalah penggunaan social media untuk berbisnis sangat efektif dan
+efisien [2].
+Survey yang dilakukan oleh marketing.co.id juga dijadikan referensi, survey tersebut
+berisi perilaku pengguna social media di Indonesia yang dapat dijadikan tolak ukur dalam
+menyusun strategi bisnis menggunakan social media. [3].
+a. Social media
+Menurut Lof Sanko dan David K. Brake social media merupakan media 2 arah yang dapat
+mempermudah komunikasi antara produsen dan konsumen. Komunikasi dapat berjalan
+secara interaktif dan akrab. Social media memungkinkan konsumen untuk berkolaborasi
+secara langsung dengan produsen dan dan produsen dapat memberikan edukasi mengenai
+brand awareness kepada konsumen. [4]
+b. Facebook
+Facebook merupakan sebuah social media yang sangat popular di dunia yang diluncurkan
+pada tahun 2004, dalam kurun waktu 6 tahun facebook sudah mempunyai 1 miliar
+pengguna aktif di seluruh dunia. [5]
+c. Twitter
+Twitter adalah sebuah situs web berbasis social media yang dioperasikan oleh Twitter inc.
+dengan karakteristik microblog yang memungkinkan penggunanya untuk membuat tulisan
+dengan batasan 140 karakter. Twitter ditemukan oleh Jack Dorsey pada tahun 2006 dan
+segera menjadi terkenal dalam kurun waktu hanya 3 tahun. [6]
+d. Analisis SWOT
+Analisis SWOT digunakan untuk mengukur berbagai 4 macam aspek dari sebuah bisnis
+yaitu Strenght, Weakness, Opportunity, dan Threats. Keempat aspek ini diperlukan untuk
+mengetahui sejauh mana bisnis yang kita jalankan.
+1. Strenght
+Pengukuran Strenght merupakan pengukuran terhadap kekuatan internal bisnis kita
+IJCCS
+86
+Jurnal Ilmiah SISFOTENIKAJuly201x : first Vol. x, No. x, July201x : first_page
+end_page
+
+Aditya Wahana, Muhammad Suyanto, Armandyah Amborowati
+
+dalam menghadapi persaingan, dalam hal ini adalah kekuatan bisnis jika menggunakan
+social media.
+2. Weakness
+Mengukur weakness dilakukan sebagai introspeksi mengenai kelemahan bisnis kita jika
+menggunakan social media. Dengan mengetahui kelemahan kita dapat mengukur dan
+mengetahui batasan-batasan bisnis kita.
+3. Opportunity
+Opportunity digunakan untuk mengetahui peluang-peluang yang ada di pasar dan bisa
+menjadi acuan dalam merencanakan sebuah strategi bisnis
+4. Threats
+Merupakan pengukuran terhadap ancaman dari pelaku bisnis lain atau dari saingan yang
+serupa dan juga menerapkan social media dalam strategi mereka. Atau dapat pula
+berupa ancaman dari pemegang otoritas dalam sebuah bisnis, contohnya peraturan
+pemerintah mengenai transaksi elektronik.
+
+Gambar 1. Analisis SWOT bisnis dengan social media
+Analisis SWOT tersebut dipakai untuk mengetahui sejauh mana akan melangkah dan apa
+yang perlu diperhatikan dalam menerapkan social media dalam berbisnis [7]
+e. Strategi biaya rendah
+Analisis ini dilakukan untuk mengetahui sejauh mana efektifitas penggunaan social media
+sebagai sebuah strategi bisnis, analisis diukur berdasarkan besarnya biaya yang dikeluarkan
+untuk menerapkan strategi tersebut. Acuan penggunaan strategi biaya rendah berdasarkan
+pada [8] :
+1. Who (Siapa) = Kenali dulu siapa konsumen produk anda.
+Langkah ini meliputi analisis mengenai umur, jenis kelamin, pendapatan, tingkat
+pendidikan, pekerjaan, karakter, dan berbagai macam hal yang berhubungan dengan
+kepribadian konsumen produk anda.
+2. Why (Kenapa) = Apa alasan anda memilih hal tersebut.
+Sebuah argumentasi dibutuhkan untuk menguatkan alasan anda untuk membidik
+sebuah segmen konsumen tertentu untuk memasarkan produk anda.
+3. What (Apa) = Tujuan apa yang ingin dicapai dari konsumen anda
+Anda perlu menentukan apa yang ingin anda capai dengan memilih segmen konsumen
+Title of manuscript is short and clear, implie
+Vol. 4, No. 2, Juli 2014
+87
+Title of manuscript is short and clear, implies research results (First Auts research results
+(First Author)
+
+Analisis Penerapan Social Media ...
+ISSN: 1978-1520
+tersebut.
+4. How (Bagaimana) = Bagaimana cara mencapai tujuan tersebut
+Bagaimana cara mencapai tujuan yang telah ditetapkan tersebut.
+3. HASIL DAN PEMBAHASAN
+Penelitian ini dilakukan terhadap 2 jenis responden, yang pertama adalah pelaku bisnis
+yang telah menerapkan social media dalam strategi bisnis mereka yang berjumlah 5 responden.
+Berikut profil usaha para responden. Penelitian pertama dilakukan dengan metode wawancara
+terhadap responden, berikut rangkuman hasil wawancaranya.
+a. Wawancara terhadap Minimal
+
+Variabel
+Pemilik
+Facebook
+Twitter
+Jenis Usaha
+Produk
+Mulai usaha
+Lama Usaha
+Wilayah pemasaran
+Konsumen
+
+Tabel 1. Hasil wawancara terhadap Minimal
+Minimall
+Maria Dolorosa P
+www.facebook.com/minimal
+https://twitter.com/minimallis
+Fashion
+Pakaian import dari Korea
+Pertengahan 2011
+2 tahun
+Seluruh Indonesia
+Sex
+Age
+Ses
+Jenis
+
+Omzet/bulan
+Anggaran khusus Internet/bulan
+
+Perempuan
+15-35 tahun
+A, B, C
+Pelajar, Mahasiswa
+Rata-rata 90juta
+Rp300,000
+
+Mulai memakai socmed
+
+2012
+
+Efek social media
+Socmed Treatment
+Strategi Socmed
+
+Peningkatan omzet 150%
+STP, Telaten, up to date, ramah, build a team
+Endorse, diskon berkala, free shipment
+
+b.
+
+Wawancara terhadap Rumah Keripik Oni
+Tabel 2. Hasil wawancara terhadap Rumah Keripik Oni
+Variabel
+Rumah Keripik Oni
+Pemilik
+Oni Mastuti
+Facebook
+www.facebook.com/RumahKeripikOni
+Twitter
+https://twitter.com/RumahKeripikOni
+Jenis Usaha
+Makanan ringan
+Produk
+Keripik kentang, ketela, tempe, jamur,dll
+Mulai usaha
+awal 2010
+Lama Usaha
+3 tahun
+Wilayah pemasaran
+Seluruh Indonesia
+
+IJCCS
+88
+Jurnal Ilmiah SISFOTENIKAJuly201x : first Vol. x, No. x, July201x : first_page
+end_page
+
+Aditya Wahana, Muhammad Suyanto, Armandyah Amborowati
+
+Konsumen
+Sex
+Age
+Ses
+Jenis
+Omzet/bulan
+Anggaran khusus Internet/bulan
+Mulai memakai socmed
+Efek social media
+Socmed Treatmet
+Strategi Socmed
+
+Laki-laki, Perempuan
+diatas 5 tahun
+All ses
+pelajar, mahasiswa, karyawan, pensiunan
+Rata-rata 80juta
+Rp200,000
+2011
+Peningkatan omzet 100%
+ramah, jaga kualitas produk, komunikasi 2 arah,
+fokus
+free sample, diskon, free shipment
+
+c. Wawancara terhadap Negozio Bag
+Tabel 3. Hasil wawancara terhadap Negozio Bag
+Variabel
+Negozio Bag
+Pemilik
+Indah Widyarti
+Facebook
+www.facebook.com/Negoziobag
+Twitter
+https://twitter.com/NegozioBag
+Jenis Usaha
+Penjualan tas
+Produk
+Tas import
+Mulai usaha
+pertengahan 2012
+Lama Usaha
+1 tahun
+Wilayah pemasaran
+Seluruh Indonesia
+Konsumen
+Sex
+Perempuan
+Age
+15-35 tahun
+Ses
+A,B,C
+Jenis
+Pelajar, mahasiswa,
+Omzet/bulan
+Rata-rata 50juta
+Anggaran khusus
+Rp100,000
+Internet/bulan
+Mulai memakai socmed
+2013
+Efek social media
+Socmed Treatment
+Strategi Socmed
+
+Peningkatan omzet 80%
+targeting, fokus, aktif, komunikatif
+free shipment, diskon saat-saat tertentu,
+endorse
+
+d. Wawancara terhadap Jual kaos Jogja
+
+Variabel
+Pemilik
+Facebook
+Twitter
+Jenis Usaha
+
+Tabel 4. Hasil wawancara terhadap Jual Kaos Jogja
+Jual Kaos Jogja
+Yoga D
+https://www.facebook.com/jualkaosjogjakarta
+https://twitter.com/jualkaosjogja
+Penjualan kaos
+
+Title of manuscript is short and clear, implie
+Vol. 4, No. 2, Juli 2014
+89
+Title of manuscript is short and clear, implies research results (First Auts research results
+(First Author)
+
+Analisis Penerapan Social Media ...
+ISSN: 1978-1520
+Produk
+Mulai usaha
+Lama Usaha
+Wilayah pemasaran
+Konsumen
+Sex
+Age
+Ses
+Jenis
+Omzet/bulan
+Anggaran khusus
+Internet/bulan
+Mulai memakai socmed
+Efek social media
+Socmed Treatment
+Strategi Socmed
+
+Berbagai macam kaos
+Awal 2012
+1,5 tahun
+Seluruh Indonesia
+Laki-laki, Perempuan
+antara 13-40 tahun
+All Ses
+Pelajar, mahasiswa, pegawai
+Rata-rata 40juta
+Rp150,000
+2012
+Peningkatan omzet 90%
+telaten, up to date, peka dengan konsumen
+endorse, free shipment, diskon
+
+e. Wawancara terhadap Bali Ratih
+Tabel 4. Hasil wawancara terhadap Bali Ratih
+Variabel
+Bali Ratih
+Pemilik
+Ratih Pratiwi
+Facebook
+https://www.facebook.com/baliratih
+Twitter
+https://twitter.com/baliratih
+Jenis Usaha
+Distributor produk perawatan tubuh
+Produk
+produk perawatan tubuh
+Mulai usaha
+awal 2009
+Lama Usaha
+4 tahun
+Wilayah pemasaran
+Seluruh Indonesia
+Konsumen
+Sex
+perempuan
+Age
+antara 15-45 tahun
+Ses
+A,B,C
+Jenis
+Pelajar, Mahasiswa, pegawai
+Omzet/bulan
+Rata-rata 200juta
+Anggaran khusus Internet/bulan
+Rp250,000
+Mulai memakai socmed
+
+2010
+
+Efek social media
+Socmed Treatment
+Strategi Socmed
+
+Peningkatan omzet 100%
+ramah, telaten, komunikatif
+Diskon berkala, free shipment
+
+Berdasarkan hasil wawancara terhadap para pelaku bisnis yang telah menggunakan social
+media dapat ditarik kesimpulan bahwa para pelaku bisnis tersebut mengalami peningkatan
+pemasukan rata-rata 104%, sedang biaya yang dikeluarkan untuk menerapkan social media
+tergolong sedikit.
+Penelitian kedua dengan responden konsumen yang mengakses produk pelaku usaha yang
+telah menerapkan social media. Penelitian dilakukan dengan kuisioner yang dibagikan kepada
+IJCCS
+90
+Jurnal Ilmiah SISFOTENIKAJuly201x : first Vol. x, No. x, July201x : first_page
+end_page
+
+Aditya Wahana, Muhammad Suyanto, Armandyah Amborowati
+
+100 orang. Responden dipilih yang mempunyai akun social media dan mempunyai pengalaman
+berbelanja secara online melalui social media, berikut data responden.
+
+44%
+56%
+
+Laki-Laki
+Perempuan
+
+Gambar 2. Grafik jenis kelamin responden
+
+Gambar 3. Sebaran Usia Responden
+Responden dipilih mereka yang mempunyai anggaran khusus setiap bulannya untuk
+berlangganan internet dan responden menggunakan beberapa perangkat untuk mengakses
+internet, berikut datanya.
+
+Gambar 4. Besar pengeluaran khusus internet responden
+
+Gambar 5. Penggunaan perangkat untuk akses social media.
+Seiring dengan perkembangan aktifitas manusia maka mobilitas juga meningkat, berikut
+persebaran tempat para responden saat mengakses social media.
+Title of manuscript is short and clear, implie
+Vol. 4, No. 2, Juli 2014
+91
+Title of manuscript is short and clear, implies research results (First Auts research results
+(First Author)
+
+Analisis Penerapan Social Media ...
+ISSN: 1978-1520
+
+Gambar 6. Tempat responden mengakses social media.
+Perkembangan perangkat elektronik yang semakin pesat semakin memudahkan para
+responden untuk mengakses internet, waktu untuk akses internet pun menjadi fleksibel, namun
+ada waktu-waktu puncak dimana para responden mengakses social media. Frekuensi responden
+dalam mengakses akun social media mereka pun rata-rata lebih dari 2 kali dalam sehari dengan
+durasi lebih dari 30 menit.
+
+Gambar 7. Pembagian jam saat responden mengakses Social media.
+
+Gambar 8. Frekuensi responden mengakses akun social media.
+
+Gambar 9. Durasi responden mengakses akun social media.
+IJCCS
+92
+Jurnal Ilmiah SISFOTENIKAJuly201x : first Vol. x, No. x, July201x : first_page
+end_page
+
+Aditya Wahana, Muhammad Suyanto, Armandyah Amborowati
+
+Berdasar hasil penelitian dapat diambil kesimpulan bahwa sebagian besar responden
+pernah melakukan aktifitas pembelian melalui social media untuk produk-produk fashion.
+
+Gambar 10. Jenis produk yang dibeli secara online oleh responden.
+
+4. KESIMPULAN
+Berdasarkan hasil penelitian yang telah dilakukan, dapat ditarik beberapa kesimpulan sebagai
+berikut :
+a. Penerapan digital marketing berbasis social media dapat dilakukan dengan menggunakan
+social media yang banyak digunakan oleh pengguna internet. Saat ini social media yang
+banyak digunakan adalah Facebook dan Twitter, kedua jenis social media tersebut mudah
+dan dapat digunakan secara gratis. Pengguna dapat memanfaatkan fitur-fitur di kedua social
+media tersebut untuk mempromosikan produk mereka, ada 2 macam promosi yang dapat
+dilakukan yaitu secara gratis dan berbayar.
+b. Produsen yang menggunakan facebook dan twitter bisa mempromosikan produk mereka
+dengan memperhatikan karakteristik dan kebiasaan konsumen saat menggunakan facebook
+dan twitter. Beberapa hal yang perlu diperhatikan diantaranya:
+1. Pengguna social media perempuan lebih banyak daripada laki-laki
+2. Rentang usia pengguna social media mayoritas adalah 18 tahun hingga 29 tahun.
+3. Para pengguna social media dalam sebulan mengalokasikan anggaran khusus untuk
+berlangganan internet antara Rp. 50.000 hingga Rp. 100.000.
+4. Para pengguna social media mayoritas mengakses akun social media mereka setiap saat
+tanpa tergantung tempat (mobile).
+5. Pengguna facebook dan twitter mayoritas mengakses akun mereka pada rentang waktu
+antara pukul 12.00 hingga 24.00, sehingga rentang waktu tersebut bisa dimanfaatkan untuk
+melakukan promosi.
+6. Pengguna social media mayoritas menggunakan perangkat bergerak untuk mengakses
+akun social media mereka seperti handphone, komputer tablet, dan laptop.
+7. Promosi melalui social media sebaiknya dilakukan secara berkala dalam satu hari, karena
+para pengguna social media biasa mengakses akun mereka lebih dari sekali dalam sehari
+dengan alokasi waktu hingga 30 menit bahkan lebih.
+8. Produk yang sering dicari oleh pengguna social media adalah produk fashion, elektronik,
+makanan, dan buku.
+c. Social media terbukti sukses dalam meningkatkan kemampuan bersaing sebuah usaha,
+berdasarkan penelitian peningkatan omzet yang dialami para responden rata-rata 104%.
+Dengan semakin banyaknya konsumen yang mengenal produk mereka melalui social media
+akan menjadikan produk tersebut laris dan menjadikan usaha dapat bertahan dan
+berkembang. Melakukan promosi melalui social media dapat menghemat anggaran usaha
+untuk keperluan promosi dan dapat dialihkan untuk memperbanyak jumlah produksi.
+
+Title of manuscript is short and clear, implie
+Vol. 4, No. 2, Juli 2014
+93
+Title of manuscript is short and clear, implies research results (First Auts research results
+(First Author)
+
+Analisis Penerapan Social Media ...
+ISSN: 1978-1520
+5. SARAN
+Berikut adalah saran yang bisa dikembangkan untuk penelitian selanjutnya:
+a. Analisis yang dilakukan hanya terbatas pada analisis SWOT dan analisis biaya rendah, dapat
+juga dikembangkan dengan analisis yang lain seperti diferensiasi dan diversifikasi
+pemasaran, atau analisis blue ocean.
+b. Analisis SWOT yang dilakukan bisa dikembangan dengan cara cross analysis.
+c. Responden pelaku usaha yang diteliti hanya dua jenis yaitu pelaku usaha fashion dan
+makanan ringan, kedepannya bisa dikembangkan dengan meneliti jenis usaha lain untuk
+menemukan berbagai strategi pemasaran berbasis social media yang diterapkan pada
+berbagai bidang usaha.
+Penelitian yang dilakukan masih terbatas pada behavior konsumen berdasarkan
+demografi, di penelitian selanjutnya bisa dikembangan dengan meneliti mengenai aspek
+teknografi konsumen.
+UCAPAN TERIMA KASIH
+Penulis mengucapkan terima kasih yang tak terhingga kepada kedua orang tua dan
+keluarga yang selalu memberikan dukungan tanpa kenal lelah.
+DAFTAR PUSTAKA
+[1].
+
+[2].
+[3].
+[4].
+[5].
+[6].
+[7].
+[8].
+
+Andharia, T., 2012. Study of Online Social media Marketing Tool Emerging Internet marketing tool be an effective Internet Marketing Tool of
+Tomorrow?(Gujarat Perspective). Gujarat: Ahmedabad University.
+Blohm, C., 2011. Social Media Marketing in Education. Software & Information Industry
+Association.
+Zoel, M., 2012. Jual Beli Dengan Social Media. Marketing.co.id. Indonesia
+Sanko, L., & Brake, D., 2012. The Social Media Bible: Tactics, Tools, and Strategies for
+Business Success. New Jersey: John Wiley and son, Inc.
+Sengupta, S., 2012. Facebook's Prospects May Rest on Trove of Data. The New York
+Times.
+Zarella, D., 2010. The Social Media Marketing Book. New York: O'Reilly Media, Inc.
+Rangkuti , F., 2006. Analisis Swot Teknik Membedah Kasus Bisnis. Jakarta: Gramedia
+Pustaka Utama.
+Schottmuller, A., 2012. Social Media : ROI Possible. SES Conference and Expo.
+
+IJCCS
+94
+Jurnal Ilmiah SISFOTENIKAJuly201x : first Vol. x, No. x, July201x : first_page
+end_page
+
+

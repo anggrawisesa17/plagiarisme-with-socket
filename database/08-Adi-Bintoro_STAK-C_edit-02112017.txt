@@ -1,0 +1,388 @@
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+
+ANALISIS DAN IDENTIFIKASI SENYAWA SAPONIN DARI
+DAUN BIDARA (Zhizipus mauritania L.)
+(Analysis and Identification of Saponin Compound from Bidara Leaves
+(Zhizipus mauritania L.))
+Adi Bintoro, Agus Malik Ibrahim, & Boima Situmeang
+Jurusan Kimia Sekolah Tinggi Analis Kimia Cilegon, Banten
+E-mail/telp: boimatumeang@g mail.com/085262897312
+
+ABSTRAK
+Tanaman bidara memiliki senyawa saponin yang kaya akan manfaat. Penelitian
+ini bertujuan untuk menganalisis dan mengidentifikasi senyawa saponin yang
+terkandung pada daun bidara (Ziziphus mauritania L.). Ekstraksi dilakukan
+dengan metode maserasi total menggunakan pelarut etil asetat kemudian
+dilanjutkan pengidentifikasian gugus fungsi senyawa saponin dalam daun bidara
+dengan FTIR dan pengujian senyawa saponin berdasarkan bobot molekul (BM)
+dengan GC-MS sebagai data pendukung dari data FTIR. Hasil analisis saponin
+dari ekstrak daun bidara menggunakan GCMS sebagai data pendukung FTIR
+menunjukkan adanya senyawa saponin dengan bobot molekul sebesar 873,0 g/mol
+pada waktu retensi 19,287 menit namun puncak yang dihasilkan tidak dominan.
+Kata kunci: bidara, GC-MS, dan saponin
+ABSTRACT
+The bidara plant has saponin compound that rich of benefit. This study aims to
+analyze and identify saponin compounds contained in the leaves of bidara
+(Ziziphus mauritania L.). The extraction was performed by total maceration
+method using ethyl acetate solvent then continued with identification of functional
+group of saponin compound in bidara leaves with FTIR and testing of saponin
+compound based on molecular weight (BM) with GC-MS as supporting data from
+FTIR data. The result of saponin analysis from leaf extract using GCMS as FTIR
+supporting data showed the presence of saponin compound with molecular weight
+of 873.0 g/mol at retention time of 19.287 minutes but the peak produced was not
+dominant.
+Key words: bidara, GC-MS, and saponin
+1. PENDAHULUAN
+Tanaman bidara adalah sejenis pohon kecil yang selalu hijau, penghasil
+buah yang tumbuh di daerah afrika utara dan tropis serta asia barat, tumbuh di
+Israel di lembah- lembah sampai ketinggian 500 mdpl. Khususnya di Indonesia
+tanaman ini banyak tumbuh di daerah sumbawa (Nusa Tenggara Barat) (Heyne,
+E-mail: jurnal.itekima@stack.ac.id
+
+84
+
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+
+1987). Bidara banyak digunakan dalam pengobatan tradisional antara lain semua
+bagiannya (daun, buah, biji, akar, dan batang).
+Manfaat yang lain yaitu daun bidara dapat menghasilkan busa jika diremas,
+dan menghasilkan aroma yang sangat wangi seperti sabun dan digunakan untuk
+memandikan orang yang sakit demam. Tanaman daun bidara dalam hukum islam
+disunahkan untuk digunakan memandikan jenazah. Seperti yang dijelaskan dalam
+penelitian sebelumnya kandungan kimia yang berperan sebagai pengobatan dalam
+tanaman bidara antara lain alkaloid, fenol, flavonoid, saponin, kuercetin, dan
+terpenoid (Hadizadeh et al., 2009; Hussen et al., 2010; Michel et al., 2011).
+Tanaman daun bidara memiliki senyawa saponin yang kaya akan manfaat.
+Senyawa saponin merupakan senyawa glikosida kompleks yaitu terdiri dar i
+senyawa hasil kondensasi suatu gula dengan suatu senyawa hidroksil organik
+yang apabila dihidrolisis akan menghasilkan gula (glikon) dan non- gula (aglikon).
+Struktur saponin tersebut menyebabkan saponin bersifat seperti sabun atau
+deterjen sehingga saponin disebut sebagai surfaktan alami (nama saponin diambil
+dari sifat utama ini yaitu “sapo” dalam bahasa latin yaitu sabun (Hawley, 2004
+dan Calabria, 2008). Saponin dapat dipero leh dari tumbuhan melalui metode
+ekstraksi.
+Berdasakan hasil penelusuran pustaka yang didapat dan masalah yang ada
+sehingga perlu dilakukan penelitian untuk melihat adanya senyawa saponin yang
+terdapat pada daun bidara dari ekstrak etil asetat. Ekstraksi dilakukan dengan
+metode maserasi total menggunakan pelarut etil asetat kemudian dilanjutkan
+pengidentifikasian gugus fungsi senyawa saponin dalam daun bidara dengan
+Fourier transform infra red (FTIR) dan pengujian senyawa saponin berdasarkan
+bobot molekul (BM) dengan gas chromatography-mass spectroscopy (GC-MS)
+sebagai data pendukung dari data FTIR.
+
+E-mail: jurnal.itekima@stack.ac.id
+
+85
+
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+2. BAHAN DAN METODE
+
+A. Alat dan bahan
+Alat yang digunakan pada penelitian ini yaitu neraca analitik, alumunium
+foil, oven, blender, sudip, gelas ukur 1000 mL, tabung reaksi, pipet mohr 10 mL,
+pipet tetes, penangas air, erlenmeyer 1000 mL, kertas saring, corong gelas, rotary
+evaporator, gelas piala 1000 mL, spektroskopi FT-IR, dan GC-MS. Bahan yang
+digunakan pada penelitian ini yaitu daun bidara (Ziziphus mauritania L.) yang
+berasal dari daerah Tegal Cabe, kecamatan Citangkil kota Cilegon, aquades, asam
+klorida 2 N, kloroform, pereaksi Lieberman Burchard (LB), metanol, dan etil
+asetat.
+B. Preparasi sampel
+Sampel daun bidara dibersihkan dengan air, dirajam kemudian dikeringkan
+di udara terbuka selama 2 hari, kemudian dilanjutkan pengeringan menggunakan
+oven pada suhu 40 o C selama 7 jam. Setelah kering dihancurkan menggunakan
+blender agar didapatkan serbuk sampel atau simplisia.
+C. Uji pendahuluan
+1. Uji busa
+Sampel daun bidara sebanyak 0,5 gram dimasukkan ke dalam tabung
+reaksi yang telah berisikan aquades 10 mL, kemudian dikocok dan
+ditambahkan satu tetes larutan asam klorida 2 N. Tabung reaksi tersebut
+didiamkan dan diperhatikan ada atau tidak adanya busa stabil. Sampel
+mengandung saponin jika terbentuk busa stabil dengan ketinggian 1-3 cm
+selama 30 detik.
+2. Uji warna
+Sampel sebanyak 0,5 gram dimasukkan ke dalam tabung reaksi yang telah
+berisikan kloroform 10 mL, dipanaskan selama 5 menit dengan penangas
+air sambil dikocok. Kemudian ditambahkan beberapa tetes pereaksi
+Lieberman Burchard (LB). Jika terbentuk cincin coklat atau violet maka
+
+E-mail: jurnal.itekima@stack.ac.id
+
+86
+
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+
+menunjukkan adanya saponin triterpen, sedangkan warna hijau atau biru
+menunjukkan adanya saponin steroid.
+D. Ekstraksi sampel
+Ekstraksi dilakukan dengan metode maserasi menggunakan pelarut etil
+asetat. Sebanyak 100 gram sampel daun bidara dimasukkan ke dalam erlenmeyer
+kemudian direndam dengan etil asetat sebanyak 600 mL. Erlenmeyer ditutup
+dengan alumunium foil dan didiamkan selama 3 hari dengan sesekali dikocok.
+Kemudian hasil ekstrak disaring untuk memperoleh hasil filtrat I dan sampel yang
+telah diekstrak (ampas). Ampas diekstrak kembali dengan etil asetat sebanyak 400
+mL dan didiamkan selama 2 hari dengan sesekali dikocok. Hasil ekstrak (filtrat II)
+dicampurkan dengan filtrat I, kemudian dievaporasi pada suhu 40 o C hingga
+diperoleh ekstrak kental.
+E. Analisis FTIR dan GC-MS
+Identifikasi dilakukan dengan cara diambil sedikit sampel ekstrak yang
+mengandung saponin dengan menggunakan sudip kemudian diidentifikasi dengan
+spektrofotometer FTIR dengan bilangan gelombang 4000-400 cm-1 . Identifikasi
+menggunakan GC-MS dengan cara mencocokan bobot molekul dan pola
+fragmentasi dari senyawa yang diuji pada library system GC-MS, diperkuat
+dengan referensi bobot molekul senyawa aktif saponin berdasarkan literatur.
+3. HASIL DAN PEMBAHASAN
+Uji pendahuluan
+Uji pendahuluan dilakukan untuk memastikan secara kualitatif adanya
+senyawa saponin yang terkandung dalam daun bidara. Uji ini dilakukan dengan
+dua cara yaitu uji busa dan uji warna (Jaya, 2010). Hasil uji pendahuluan sampel
+daun bidara ditunjukkan pada Tabel 1.
+
+E-mail: jurnal.itekima@stack.ac.id
+
+87
+
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+
+Tabel 1. Hasil uji fitokimia senyawa saponin dalam daun bidara
+Parameter
+Uji busa
+Uji warna
+
+Positif/negatif saponin
++
++
+
+Hasil pengamatan
+Terbentuk busa yang stabil
+Terbentuk cincin warna coklat
+
+Gambar 1. Hasil uji busa dan uji warna daun bidara
+Uji busa
+Simplisia daun bidara yang dimasukkan dalam tabung reaksi berisi pelarut
+aquades kemudian dikocok menghasilkan busa dan setelah penambahan pereaksi
+asam klorida 2 N, busa yang terbentuk tidak hilang. Pengujian busa dilakukan
+berulang terhadap simplisia.
+Dalam uji busa digunakan aquades sebagai pelarut dan asam klorida 2 N
+sebagain pereaksinya. Setelah simplisia dikocok dalam akuades akan terbentuk
+busa stabil dengan ketinggian 1-3 cm selama 30 detik dan setelah ditambahkan
+asam klorida 2 N busa tersebut tidak hilang. Busa yang terbentuk disebabkan
+karena senyawa saponin memiliki sifat fisika yaitu mudah larut dalam air dan
+akan menimbulkan busa jika dikocok, karena saponin merupakan senyawa aktif
+permukaan yang mudah terdeteksi melalui kemampuannya dalam membentuk
+busa (Baud et al., 2014).
+Uji warna
+Uji warna yang dilakukan secara berulang terhadap simplisia menunjukkan
+hasil positif. Uji warna yang dilakukan menghasilkan cincin coklat setelah
+simplisia yang dilarutkan dalam kloroform dan dipanaskan selama 5 menit sambil
+
+E-mail: jurnal.itekima@stack.ac.id
+
+88
+
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+
+dikocok, kemudian ditambahkan pereaksi Lieberman Burchard (LB) menujukkan
+adanya saponin triterpen. Berdasarkan penelitian sebelumnya tentang senyawa
+saponin yang menyatakan bahwa sampel setelah ditambahkan pereaksi LB akan
+menghasilkan cincin berwarna coklat keunguan yang menunjukkan adanya
+saponin triterpen dan hijau kebiruan yang menunjukan adanya saponin steroid.
+Ekstraksi
+Daun bidara didapatkan dari desa Citangkil, Cilegon dipetik lalu kemudian
+dicuci dengan air agar kotoran atau debu yang menempel daun dapat disingkirkan
+sehingga diperoleh daun yang bersih dan segar. Daun tersebut dijemur selama 2
+hari di bawah terik matahari dan dilanjutkan dengan proses pemanasan
+menggunakan oven pada suhu 40 o C selama 7 jam. Proses pengeringan ini
+dilakukan untuk menghilangkan kadar air yang terkandung dalam sampel daun
+bidara sehingga akan memudahkan dalam proses ekstraksi. Sampel daun kering
+yang dihasilkan kemudian dihancurkan menggunakan blender dan menghasilkan
+serbuk daun kering (simplisia) agar hasil ekstraksi yang diperoleh lebih banyak,
+karena semakin halus sampel yang akan diekstraksi maka semakin mudah pelarut
+masuk ke sel untuk menarik zat aktif. Metode maserasi merupakan metode
+ekstraksi yang digunakan pada penelitian ini untuk menghasilkan ekstrak daun
+bidara dengan etil asetat sebagai pelarutnya. Pelarut etil asetat dipilih sebagai
+pelarut karena sifatnya yang semipolar namun cenderung lebih banyak menarik
+zat aktif yang bersifat polar, zat aktif yang akan diteliti yaitu saponin. Saponin
+merupakan senyawa aktif yang bersifat polar.
+Proses ekstraksi maserasi ini dilakukan 2 kali, ekstrak kasar pada filtrat 1
+diperoleh sebanyak 350 mL, kemudian hasil ampas daun bidara diekstrak kembali
+untuk memperoleh filtrat 2. Tujuan dilakukan ekstraksi kedua ialah untuk menarik
+senyawa zat aktif saponin yang belum terekstrak pada proses ekstraksi pertama,
+dengan kata lain hanya sebagai pembilasan. Hasil ekstrak kasar pada filtrat II
+diperoleh sebanyak 350 mL, lalu dicampurkan filtrat I dan II menghasilk an total
+ekstrak sebanyak 700 mL. Hasil pencampuran kedua ekstrak ini dievaporasi pada
+E-mail: jurnal.itekima@stack.ac.id
+
+89
+
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+
+suhu 40 o C. Pengujian ini dilanjutkan dengan analisis pengidentifikasian gugus
+fungsi senyawa saponin dengan FTIR, dilanjutkan dengan analisis menggunakan
+GCMS, serta melakukan uji antibakteri terhadap bakteri patogen (Streptococcus
+mutans).
+Analisis identifikasi gugus fungsi saponin menggunakan FTIR
+Spektrogram FTIR ekstrak daun bidara (Zhizipus mauritania. L) yang
+diduga mengandung senyawa saponin memperlihatkan serapan yang lebar pada
+panjang gelombang 2930,50 cm-1 yang mempunyai indikasi adanya gugus C-H
+alfatik, bukan C-H aldehid dikarenakan puncak serapan yang muncul tidak tajam.
+Puncak yang sedikit tajam pada panjang gelombang 1710,28 cm-1 merupakan
+indikasi adanya regangan gugus C=O, kemudian muncul puncak yang sedikit
+tajam pada panjang gelombang 1237,79 cm-1 mengindikasikan adanya gugus C-O,
+hanya saja dalam spektrum tersebut tidak menandakan adanya gugus OH, yang
+memiliki puncak lebar pada panjang gelombang antara 3000-3600 cm-1 .
+
+Gambar 2. Spektrogram FTIR ekstrak daun bidara
+Berdasarkan literatur yang didapat struktur golongan saponin hampir ratarata memiliki gugus –OH di dalamnya. Diduga tidak munculnya gugus –OH yang
+merupakan ciri saponin di dalam tanaman bidara dikarenakan adanya senyawa
+E-mail: jurnal.itekima@stack.ac.id
+
+90
+
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+
+aktif lain yang ikut terekstrak oleh pelarut semipolar yang dapat terukur oleh
+FTIR.
+Identifikasi ekstrak daun bidara menggunakan GC-MS
+Identifikasi ekstrak daun bidara menggunakan instrumen GC-MS bertujuan
+menganalisis keberadaan senyawa
+
+saponin
+
+berdasarkan bobot
+
+molekul.
+
+Berdasarkan spektrum hasil analisis, terjadi pemisahan yang kurang sempurna
+karena di dalamnya terdapat banyak sekali puncak yang saling berhimpit dengan
+puncak yang lain. Hal ini diduga karena di dalam ekstrak masih banyak terdapat
+senyawa selain senyawa saponin yang belum dapat dipisahkan secara sempurna
+melalui proses ekstraksi.
+
+Gambar 3. Spektrum GC-MS ekstrak daun bidara
+Puncak yang muncul pada waktu retensi 15,472 menit merupakan senyawa
+yang paling dominan/senyawa aktif yang paling banyak terkandung di dalam
+sampel daun bidara, dengan bobot molekul sebesar 446,2 g/mol. Gambar 4
+
+E-mail: jurnal.itekima@stack.ac.id
+
+91
+
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+
+menunjukkan pola fragmentasi GC-MS pada ekstrak daun bidara pada waktu
+retensi 15.473 menit.
+
+Gambar 4. Pola fragmentasi GC-MS daun bidara waktu retensi 15,473 menit
+Berdasarkan penelitian yang sudah dilakukan sebelumnya bahwa ditemukan
+bobot molekul saponin sekitar 842,49 g/mol (Khamikov et al., 2016), sementara
+berdasarkan hasil identifikasi didapat nilai bobot molekul saponin sekitar 873,0
+g/mol pada waktu retensi 19,287 menit. Hasil fragmentasi spektra GC-MS pada
+waktu retensi 19,287 menit menunjukkan keberadaan senyawa saponin dalam
+daun bidara tetapi tidak dominan (kadarnya rendah) karena puncak yang muncul
+sangat kecil (Gambar 5).
+
+E-mail: jurnal.itekima@stack.ac.id
+
+92
+
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+
+Gambar 5. Pola fragmentasi GC-MS daun bidara waktu retensi 19,287 menit
+4. KESIMPULAN
+Hasil identifikasi ekstrak daun bidara menggunakan GC-MS sebagai data
+pendukung FTIR menunjukan adanya senyawa saponin dengan bobot molekul
+sebesar 873,0 g/mol pada waktu retensi 19,287 menit namun puncak yang
+dihasilkan tidak dominan.
+DAFTAR PUSTAKA
+Baud GS, Sangi MS, & Koleangan HSJ. 2014. Analisis senyawa metabolit
+sekunder dan uji toksisitas ekstrak etanol batang tanaman patah tulang
+(Euphorbia tirucalli L.). dengan metode brine shrimp lethality test
+(BSLT). UNSRAT vol 14/2, 2014, 106-112.
+
+E-mail: jurnal.itekima@stack.ac.id
+
+93
+
+Jurnal ITEKIMA
+ISSN: 2548-947x
+
+Vol.2, No.1, Agusutus 2017
+
+Calabria LM. 2008. The isolation and characterization of triterpene saponins from
+silphium and the shemosystematic and b iological significance of
+saponins in the asteraceae. ProQuest.
+Hadizadeh I, Peivastegan B, & Kolahi M. 2009. Antrifungal activity of nettle
+(Urica diocal L), colocynt (Citrullus colocynthes L. Schrad), oleasnde
+(Nerium oleander L.) and konar (Ziziphus spina-christi L.) extracs on
+plant pathogenic fungi. Pakistan journal of biological sciences: PJBS
+2009: 12 (1) ; 58-63.
+Hawley TS, & Hawley RG. 2004. Flow cytometry protocols. Humana Press, Inc.
+Heyne K. 1987. Tumbuhan Berguna Indonesia III. Jakarta: Yayasan Sarana Wana
+Jaya.
+Hussen
+
+MH,
+
+El-sayed
+
+ME,
+
+&
+
+Said
+
+AA.
+
+2010.
+
+Antihyperglycemic,
+
+antihyperlipidemic and antioxidant effects of Ziziphus spina-christi L.
+and Ziziphus jujuba in alloxan rats.
+Jaya AM. 2010. Isolasi dan uji efektivitas antibakteri senyawa saponin dari akar
+putri malu (Mimosa pudica) [skripsi]. Malang: Jurusan Kimia Fakultas
+Sains dan Teknologi Universitas Islam Negeri (UIN) Maulana Malik
+Ibrahim.
+Khamikov B, Tseng LH, Godejohan M, Bak S, & Engelsen SB. 2016. Screening
+for triterpenoid saponins in plant using hyphenated analytical platforms.
+Molecules 2016, 21, 1614; Page 13 of 19.
+Michel GC, Nasseem ID, & Ismail F. 2011. Antidiabetik activity and stability
+study of the formulated leaf extract of Ziziphus spina-christi with the
+influence of seasonal variation. Journal of Ethnopharmacology. 2011:
+133 (1); 53-62.
+
+E-mail: jurnal.itekima@stack.ac.id
+
+94
+
+

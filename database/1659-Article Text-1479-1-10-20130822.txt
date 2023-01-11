@@ -1,0 +1,971 @@
+Jurnal Teknologi Informasi DINAMIK Volume 17, No.2, Juli 2012 : 124-132
+
+ISSN : 0854-9524
+
+Rancang Bangun Sistem Perpustakaan untuk Jurnal Elektronik
+Herny Februariyanti dan Eri Zuliarso
+Fakultas Teknologi Informasi, Universitas Stikubank
+email: hernyfeb@gmail.com, ezuliarso@yahoo.com
+
+Abstrak
+Masalah utama yang di hadapi bangsa Indonesia, khususnya dalam bidang pendidikan, di era
+globalisasi adalah rendahnya tingkat kualitas sumberdaya manusia. Salah satu upaya untuk meningkatkan
+kualitas sumber daya manusia adalah pengembangan minat baca dan kebiasaan membaca. Dari fakta
+tersebut, perpustakaan diharapkan sebagai pusat kegiatan pengembangan minat baca dan kebiasaan
+membaca. Perpustakaan mempunyai tanggungjawab yang besar terhadap peningkatan dan pengembangan
+minat dan kegemaran membaca. Hal ini dilatari oleh peran dan fungsi perpustakaan sebagai pusat
+pengembangan minat baca.
+Teknologi informasi dan komunikasi atau ICT (Information and Communication Technology) telah
+menjadi bagian yang tidak terpisahkan dari kehidupan global. Oleh karena itu, setiap institusi, berlomba
+untuk mengintegrasikan ICT guna membangun dan memberdayakan sumber daya manusia berbasis
+pengetahuan agar dapat bersaing dalam era global.
+Pada penelitian ini dibangun Sistem Perpustakaan Digital Jurnal Elektronik sehingga mudah
+diakses oleh pembaca. Sistem dapat melakukan perambaan (crawler) dari halaman web. Dari proses
+perambaan (crawler) ini kemudian akan diunggah. Dimana jurnal elektronik yang diunggah sudah dibuat
+dengan format PDF. Sistem Perpustakaan Digital hanya dapat diakses lokal di lingkungan Universitas
+Stikubank Semarang.
+Kata Kunci : Perpustakaan Digital, Crawler, Jurnal Elektronik
+
+.PENDAHULUAN
+Masalah utama yang di hadapi bangsa
+Indonesia, khususnya dalam bidang pendidikan,
+di era globalisasi adalah rendahnya tingkat
+kualitas sumberdaya manusia. Salah satu upaya
+untuk meningkatkan kualitas sumber daya
+manusia adalah pengembangan minat baca dan
+kebiasaan membaca. Dari fakta tersebut,
+perpustakaan diharapkan sebagai pusat kegiatan
+pengembangan minat baca dan kebiasaan
+membaca.
+Perpustakaan
+mempunyai
+tanggungjawab yang besar terhadap peningkatan
+dan pengembangan minat dan kegemaran
+membaca. Hal ini dilatari oleh peran dan fungsi
+perpustakaan sebagai pusat pengembangan
+minat baca.
+Teknologi informasi dan komunikasi atau
+ICT
+(Information
+and
+Communication
+Technology) telah menjadi bagian yang tidak
+terpisahkan dari kehidupan global. Oleh karena
+
+124
+
+itu,
+setiap
+institusi,
+berlomba
+untuk
+mengintegrasikan ICT guna membangun dan
+memberdayakan sumber daya manusia berbasis
+pengetahuan agar dapat bersaing dalam era
+global.
+Kebutuhan akan Teknologi Informasi (TI)
+sangat berhubungan dengan peran perpustakaan
+sebagai kekuatan dalam pelestarian dan
+penyebaran informasi ilmu pengetahuan yang
+berkembang seiring dengan kegiatan menulis,
+mencetak, mendidik serta pemenuhan kebutuhan
+masyarakat akan informasi. Dewasa ini,
+pustakawan menghadapi berbagai tantangan
+yang cukup berat sehubungan dengan adanya
+suatu evolusi dari perpustakaan klasik menuju
+perpustakaan
+yang
+berfungsi
+sebagai
+perpustakaan digital, di mana aplikasi ICT lebih
+menonjol tidak hanya mengelola perpustakaan
+klasik tapi juga kreasi baru, penyebaran dan
+
+Rancang Bangun Sistem Perpustakaan untuk Jurnal Elektronik
+
+Jurnal Teknologi Informasi DINAMIK Volume 17, No.2, Juli 2012 : 124-132
+
+akses sumber informasi dalam bentuk digital
+melalui jaringan komputer.
+METODE PENELITIAN
+Metodologi
+yang
+penelitian ini adalah:
+
+digunakan
+
+pada
+
+1. Obyek Penelitian
+Obyek penelitian dari penelitian ini adalah
+perpustakaan
+Universitas
+Stikubank
+Semarang.
+2. Teknik Pengumpulan Data
+Teknik pengumpulan data yang dilakukan
+dalam penelitian ini adalah sebagai berikut :
+a. Observasi
+Dengan melakukan pengamatan dan
+pencatatan secara sistematis tentang halhal yang berhubungan dengan basis data
+dokumen teks dan kemampuan pencarian
+kemiripan dokumen.
+b. Studi Pustaka
+Dengan pengumpulan data dari bahanbahan referensi, arsip, dan dokumen yang
+berhubungan dengan permasalan dalam
+penelitian ini.
+PERPUSTAKAAN DIGITAL
+Pengertian
+perpustakaan
+digital
+berkembang menjadi sebuah organisasi yang
+menyediakan
+sumber
+daya,
+termasuk
+didalammya staff khusus, bertugas memilih,
+menyusun, dan menawarkan akses intelektual,
+menerjemahkan, mendistribusikan, memelihara
+integritas, menjamin keutuhan dari waktu ke
+waktu hasil koleksi digital sehingga karya –
+karya tersebut dapat dibaca dan secara ekonomis
+tersedia untuk dimanfaatkan oleh comunitas
+tertentu maupun sekumpulan komunitas.
+(Waters,1998)
+Disampaikan oleh Cleveland (1998),
+bersumber pada beberapa jurnal dan hasil
+diskusi sebelumnya maka definisi karakteristik
+perpustakaan digital antara lain :
+1. Perpustakaan
+digital
+merupakan
+perpustakaan yang mewakili perpustakaan
+traditional yang menyediakan baik koleksi
+
+ISSN : 0854-9524
+
+digital dan koleksi tradisional, termasuk
+koleksi media. Sehingga perpustakaan
+tersebut memangkas biaya koleksi elektronik
+dan biaya kertas.
+2. Perpustakaan
+digital
+juga
+termasuk
+didalamnya adalah materi digital yang
+sebenarnya berada diluar perpustakaan secara
+fisik namun memiliki link dari perpustakaan
+digital lainnya.
+3. Perpustakaan digital juga akan berisi segala
+proses dan pelayanan yang menjadi tulang
+belakang dan jaringan syaraf dalam
+perpustakaan digital. Walau bagaimanapun,
+beberapa tradisional proses yang akan
+membangun pola kerja perpustakaan digital,
+yang akan disempurnakan dan ditingkatkan
+untuk mengakomodasi perbedaan antara
+media digital yang baru dan media tradisional
+Sushan Dhakal (2007), memfokuskan
+pada pemanfaatan Open Digital Library pada
+rencana pendidikan masa kini, dan deskripsi
+teknik dari arsitekturnya. Paper tersebut
+berdasarkan pada penelitian dan pembangunan
+Digital Library Research Lab menggunakan
+OAI_PMH dan PHP based harvester.
+PERAN PERPUSTAKAAN DIGITAL
+Keberadaan perpustakaan digital semakin
+penting dalam pemenuhan kebutuhan informasi
+pengguna. Di Indonesia, terutama di lingkungan
+perguruan tinggi (PT), ketersediaan bahan jenis
+ini semakin dirasakan manfaatnya oleh sivitas
+akademika yang sebelumnya kurang memiliki
+akses terhadap publikasi mutakhir dalam bidang
+mereka. Disamping itu, proses transfer informasi
+dalam tingkat tertentu berubah karena produser
+dan pengguna sudah saling terkoneksi melalui
+Internet. Perpustakaan digital secara ekonomis
+lebih menguntungkan dibandingkan dengan
+perpustakaan tradisional. Ada empat alasan
+menyatakan bahwa perpustakaan digital lebih
+menguntungkan, yaitu:
+1. Institusi dapat berbagi koleksi digital, koleksi
+digital dapat mengurangi kebutuhan terhadap
+bahan cetak pada tingkat lokal.
+2. Penggunaannya akan meningkatkan akses
+elektronik.
+
+Rancang Bangun Sistem Perpustakaan untuk Jurnal Elektronik
+
+125
+
+Jurnal Teknologi Informasi DINAMIK Volume 17, No.2, Juli 2012 : 124-132
+
+3. Nilai jangka panjang koleksi digital akan
+mengurangi
+biaya
+berkaitan
+dengan
+pemeliharaan dan penyampaiannya.
+PENGARUH
+INTERNET
+PERPUSTAKAAN DIGITAL
+
+TERHADAP
+
+Internet sebagai media dimana bahan
+digital tersedia, standar dan teknologinya akan
+terus
+mengalami
+pertumbuhan
+dan
+perkembangan. Ada empat hal yang akan terjadi
+yang membuat Internet semakin dominant
+sebagai platformbisnis. Pertama, infrastruktur
+Internet akan terus menguat dan meningkat
+untuk
+menyediakan
+tulang
+punggung
+berkapasitas tinggi dan aman. Kedua, Internet
+akan menghubungkan dan mengintegrasikan
+sistem non-Internet seperti pertukaran data
+elektronik
+dan
+pemrosesan
+transaksi.
+Ketiga, Internet akan memungkinkan pengguna
+mengakses informasi dan pelayanan dapat
+dilakukan dari mana saja pada waktu kapan saja
+menggunakan
+peralatan
+pilihan
+mereka. Keempat, dengan terjadinya ledakan
+informasi yang tersedia melalui Internet akan
+tersedia berbagai pendekatan baru untuk
+menemukan dan mengindeks informasi.
+Fenomena di atas sesungguhnya telah dan
+akan terus
+berpengaruh pada
+profesi
+perpustakaan. Pengguna perpustakaan akan
+semakin tergantung pada bahan digital dengan
+beberapa alasan seperti biaya, ketersediaan dan
+kecepatan pemerolehan. Bahkan pada tingkat
+tertentu, kemungkinan ketergantungan pada
+bahan digital akan lebih tinggi dibandingkan
+terhadap bahan cetak. Oleh karena itu,
+paradigma bahwa suatu perpustakaan hanya
+menyediakan informasi tercetak harus diubah ke
+paradigma perpustakaan juga menyediakan
+informasi digital terutama yang tidak tersedia
+dalam bentuk tercetak.
+Berkaitan
+dengan
+perubahan
+dan
+perkembangan di atas, pustakawan sudah
+seharusnya menerima dan berusaha menemukan
+cara untuk meresponsnya secara efektif dan
+inovatif dalam rangka memenuhi harapan
+pengguna. Tantangan yang ditimbulkan oleh
+perkembangan ini sudah seharusnya pula
+ditanggapi secara proaktif oleh pustakawan,
+bagaimana pustakawan merespons, bagaimana
+
+126
+
+ISSN : 0854-9524
+
+peran mereka berubah, dan bagaimana mereka
+menyiasati perkembangan tersebut.
+Pengguna dapat melakukan sendiri
+penelusuran, atau dengan memesan bahan yang
+mereka perlukan kepada pustakawan. Dalam
+kaitan ini, pengetahuan dan pengalaman
+pustakawan dalam penelusuran menjadi sangat
+penting karena dapat meningkatkan efisiensi
+pustakawan dan pengguna.
+SITUS
+PERPUSTAKAAN
+JURNAL
+
+DIGITAL
+
+Citeseer adalah sebuah sistem yang
+mampu melakukan pengindeksan otonom
+kutipan literatur akademis dalam format
+elektronik (misalnya file Postscript di Web)
+(Giles, 1998). CiteSeer mengerti bagaimana
+mengurai kutipan, mengidentifikasi kutipan dari
+file yang sama dalam format yang berbeda, dan
+mengidentifikasi konteks kutipan dalam tubuh
+artikel. CiteSeer mempunyai keuntungan besar
+dibandingkan dari indeks kutipan tradisional
+(manual dibangun) (misalnya indeks kutipan
+ISI), termasuk: pengambilan literatur dengan
+link kutipan berikut (misalnya dengan
+menyediakan daftar file yang mengutip sebuah
+makalah yang diberikan), evaluasi dan peringkat
+makalah, penulis, jurnal, dll berdasarkan jumlah
+kutipan, dan identifikasi tren penelitian. CiteSeer
+memiliki banyak keuntungan dibandingkan
+indeks kutipan tradisional, termasuk kemampuan
+untuk menciptakan database yang terbaharui
+yang tidak terbatas pada satu kelompok terpilih
+jurnal.
+LANGKAH
+PERSIAPAN
+PERPUSTAKAAN DIGITAL
+
+MENUJU
+
+Memilih Format Perpustakaan Digital
+Pemilihan bentuk perpustakaan digital
+yang akan dsiapkan sangat erat hubungannya
+dengan ketersediaan sarana yang dimiliki.
+Kegiatan pada komputer pengelola meliputi
+pembuatan database, entri data, pembuatan
+katalog elektronis dan kegiatan yang menunjang
+administrasi perpustakaan. Sedangkan kegiatan
+pada komputer pengguna adalah untuk
+menyediakan sarana penelusuran dan kegiatan
+pemindahan file hasil penelusuran.
+
+Rancang Bangun Sistem Perpustakaan untuk Jurnal Elektronik
+
+Jurnal Teknologi Informasi DINAMIK Volume 17, No.2, Juli 2012 : 124-132
+
+Untuk menunjang perpustakaan digital ada
+beberapa alternatif pengunaan komputer, yaitu :
+1. File Disimpan di harddisk
+a. Semua file digital disimpan dalam
+harddisk, konsekuensinya harddisk
+harus memiliki space yang besar
+b. Semua file dalam harddisk dilink ke
+database
+c. Komputer yan digunakan standalone,
+yaitu tidak terkoneksi ke jaringan,
+pengguna dapat
+langsung
+melihat
+artikel fullteksnya dari database hanya
+dengan mengklik ikon fullteks.
+2. File disimpan pada CD-ROM
+a. Semua file digital disimpan dalam CDROM,
+b. Semua file dalam CD-ROM dilink ke
+database. Konsekuensinya harus ada
+field dalam database / informasi yang
+menyatakan
+bahwa artikel
+tertentu
+terdapat pada CD-ROM nomor tertentu,
+c. Komputer yang digunakan standalone,
+yaitu tidak terkoneksi ke jaringan,
+pengguna dapat
+langsung
+melihat
+artikel fullteksnya dari database hanya
+dengan
+mengklik
+ikon
+fullteks. Komputer harus memiliki CDROM drive.
+3. File Digital disimpan dalam Server
+
+ISSN : 0854-9524
+
+didigitasi juga perlu dilakukan identifikasi
+terhadap keberadaan bahan publikasi, tentunya
+harus berkoordinasi dengan bagian publikasi.
+Apakah suatu publikasi tertentu tersedia atau
+tidak bahan mentahnya dan dalam format apa?
+apakah format word (doc), pagemaker (pmg),
+atau yag lainnya. Dengan demikian apabila
+tersedia filenya, maka kita dapat melakukan
+efisiensi kegiatan digitasi.
+Mempersiapkan Perangkat Keras dan Lunak
+yang Diperlukan
+Perangkat keras yang diperlukan dalam
+kegiatan digitasi antara lain : Scanner,
+Komputer pengolah, CD-ROM, CD writer drive,
+CD reader drive.
+Pelaksanaan Digitasi
+Pada dasarnya semua artikel yang diketik
+dengan computer adalah artikel digital yang
+dapat digunakan untuk kepentingan pusdokinfo.
+Namun file tersebut apabila masih dalam
+berformat file teks, seperti word, WS,
+pagemaker, atau sejenisnya maka kemungkinan
+pengubahan oleh pihak tertentu sangat besar.
+Akibatnya keotentikan.keaslian tulisan menjadi
+diragukan. Oleh karena itu perlu editing file
+digital menjadi file yang cukup aman, sehingga
+tidak memungkinkan orang lain melakukan
+editing. Format yang sampai saat ini dianggap
+sebagai
+standar
+untuk
+pengembangan
+perpustakaan digital adalah format PDF
+Digitasi dapat dilakukan dengan 2 cara, yaitu :
+
+a. Semua file digital disimpan dalam
+hardisk server.
+
+1. Scanning dari dokumen tercetak menjadi file
+PDF
+
+b. Semua file dalam harddisk dilink ke
+database.
+
+2. Transformasi
+dari
+file /
+terkomputasi menjadi file PDF.
+
+c. Komputer yang digunakan adalah
+jaringan LAN (Local Area Network),
+yaitu ada komputer server dan komputer
+terminal.
+
+DASAR WEB CRAWLER
+
+Mempersiapkan prioritas Dokumen yang
+Akan Dialihmediakan
+Ada beberapa cara proses digitasi yang
+dapat dilakukan. Oleh karena itu dalam
+merencanakan kegiatan digitasi selain perlu
+adanya identifikasi jenis koleksi yang akan
+
+dokumen
+
+Walaupun banyak aplikasi untuk Web
+crawler, pada intinya semuanya secara
+fundamental sama (Cho,1998). Berikut ini
+proses yang dilakukan Web crawler pada saat
+bekerja :
+1. Mengunduh halaman Web.
+2. Memparsing halaman yang didownload dan
+mengambil semua link.
+
+Rancang Bangun Sistem Perpustakaan untuk Jurnal Elektronik
+
+127
+
+Jurnal Teknologi Informasi DINAMIK Volume 17, No.2, Juli 2012 : 124-132
+
+ISSN : 0854-9524
+
+3. Untuk setiap link yang diambil, ulangi
+proses.
+
+link pertama dan begitu seterusnya sampai tiap
+level pada link telah dikunjungi.
+
+Dalam langkah pertama, sebuah web
+crawler mengambil URL dan mengunduh
+halaman dari Internet berdasarkan URL yang
+diberikan. Seringkali halaman yang diunduh
+disimpan ke sebuah file atau ditempatkan di
+basisdata. Dengan menyimpan halaman web,
+maka crawler atau program yang lain dapat
+memanipulasi halaman itu untuk diindeks
+(dalam kasus mesin pencari) atau untuk
+pengarsipan untuk digunakan oleh pengarsip
+otomatis.
+
+PHP
+
+Tahap kedua, Web crawler memparsing
+keseluruhan halaman yang diunduh dan
+mengambil link-link ke halaman lain. Tiap link
+dalam halaman didefinisikan dengan sebuah
+penanda HTML yang serupa dengan yang
+ditunjukkan disini :
+<A
+HREF="http://www.host.com/directory/file.html
+">Link</A>
+Setelah crawler mengambil link dari halaman,
+tiap link ditambahkan ke sebuah daftar untuk
+dicrawl.
+Langkah ketiga dari Web crawling adalah
+mengulangi proses.Semua crawler bekerja
+dengan rekursif atau bentuk perulangan, tetapi
+ada dua cara berbeda untuk menanganinya. Link
+dapat dicrawl dalam cara depth-first atau
+breadth-first.
+Depth-first crawling mengikuti tiap
+kemungkinan jalur sampai selesai sebelum
+mencoba jalur yang lain. Algoritma ini bekerja
+dengan menemukan link pertama pada halaman
+pertama. Kemudian mengcrawl halaman yang
+berasosiasi dengan link tersebut, menemukan
+link pertama pada halaman pertama dan begitu
+seterusnya sampai ujung dari jalur dicapai.
+Proses terus berlanjut sampai semua cabang dari
+link telah dikunjungi.
+Breadth-first crawling menguji tiap link pada
+sebuah halaman sebelum memproses ke halaman
+berikutnya. Jadi, algoritma ini menelusuri tiap
+link pada halaman pertama dan kemudian
+menelusuri tiap link pada halaman pertama pada
+
+128
+
+PHP (Hypertext Preprocessor), merupakan
+bahasa pemrograman pada sisi server yang
+memperbolehkan programmer menyisipkan
+perintah – perintah perangkat lunak web server
+(Apache, IIS, atau apapun) akan dieksekusi
+sebelum perintah itu dikirim oleh halaman ke
+browser yang me-request-nya, contohnya adalah
+bagaimana memungkinkannya memasukkan
+tanggal sekarang pada sebuah halaman web
+setiap kali tampilan tanggal dibutuhkan. Sesuai
+dengan fungsinya yang berjalan di sisi server
+maka PHP adalah bahasa pemrograman yang
+digunakan untuk membangun teknologi web
+application. (Kevin Yank, 2002) PHP telah
+menjadi bahasa scripting untuk keperluan umum
+yang pada awalnya hanya digunakan untuk
+pembangunan web yang menghasilkan halaman
+web dinamis. Untuk tujuan ini, kode PHP
+tertanam ke dalam dokumen sumber HTML dan
+diinterpretasikan oleh server web dengan modul
+PHP prosesor, yang menghasilkan dokumen
+halaman web. Sebagai bahasa pemrograman
+untuk tujuan umum, kode PHP diproses oleh
+aplikasi penerjemah dalam modus baris - baris
+perintah modus dan melakukan operasi yang
+diinginkan sesuai sistem operasi untuk
+menghasilkan keluaran program dichannel
+output standar. Hal ini juga dapat berfungsi
+sebagai aplikasi grafis. PHP tersedia sebagai
+prosesor untuk server web yang paling modern
+dan sebagai penerjemah mandiri pada sebagian
+besar system operasi dan komputer platform.
+MySQL
+MySQL adalah sebuah implementasi dari
+sistem
+manajemen
+basisdata
+relasional
+(RDBMS) yang didistribusikan secara gratis
+dibawah lisensi GPL (General Public License).
+Setiap
+pengguna
+dapat
+secara
+bebas
+menggunakan MySQL, namun dengan batasan
+perangkat lunak tersebut tidak boleh dijadikan
+produk turunan yang bersifat komersial. MySQL
+sebenarnya merupakan turunan salah satu
+konsep utama dalam basisdata yang telah ada
+sebelumnya; SQL (Structured Query Language).
+SQL adalah sebuah konsep pengoperasian
+
+Rancang Bangun Sistem Perpustakaan untuk Jurnal Elektronik
+
+Jurnal Teknologi Informasi DINAMIK Volume 17, No.2, Juli 2012 : 124-132
+
+basisdata, terutama untuk pemilihan atau seleksi
+dan pemasukan data, yang memungkinkan
+pengoperasian data dikerjakan dengan mudah
+secara otomatis.
+Kehandalan suatu sistem basisdata
+(DBMS) dapat diketahui dari cara kerja
+pengoptimasi-nya dalam melakukan proses
+perintah-perintah SQL yang dibuat oleh
+pengguna maupun program-program aplikasi
+yang memanfaatkannya. Sebagai peladen basis
+data, MySQL mendukung operasi basisdata
+transaksional maupun operasi basisdata nontransaksional. Pada modus operasi nontransaksional, MySQL dapat dikatakan unggul
+dalam hal unjuk kerja dibandingkan perangkat
+lunak peladen basisdata kompetitor lainnya.
+XAMPP
+XAMPP adalah sebuah software web
+server apache yang didalamnya sudah tersedia
+database server MySQL dan dapat mendukung
+pemrograman PHP. XAMPP merupakan
+software yang mudah digunakan, gratis dan
+mendukung instalasi di Linux dan Windows.
+Keuntungan lainnya adalah cuma menginstal
+satu kali sudah tersedia Apache Web Server,
+MySQL Database Server, PHP Support (PHP 4
+dan PHP 5) dan beberapa module lainnya.
+HASIL DAN PEMBAHASAN
+Arsitektur Sistem
+Sistem yang dibuat terdiri dari 2 (dua)
+bagian. Bagian pertama adalah bagian untuk
+mengunduh file dari situs tertentu dengan format
+pdf ke sistem. Sedang bagian kedua adalah
+bagian untuk melihat daftar buku elektronik dan
+isi buku elektronik.
+Bagian pertama perangkat lunak pada
+penelitian ini, dibuat dengan menggunakan
+bahasa pemrograman Java. Pemrograman Java
+digunakan untuk implementasi proses peramban,
+mengunduh, memecah file pdf menjadi sejumlah
+file pdf sesuai banyaknya halaman, dan
+mengkonversi file pdf menjadi file jpeg. File pdf
+dipecah dan diubah menjadi jpeg dimaksudkan
+untuk mempermudah melihat halaman file satu
+demi satu dan mempercepat menampilkan isi
+buku ke browser pemakai.
+
+ISSN : 0854-9524
+
+Bagian kedua sistem ini menggunakan
+bahasa pemrograman PHP. User dapat
+memasukkan query melalui interface yang
+dibangun dengan aplikasi PHP. Implementasi
+untuk perangkat lunak masing-masing proses
+diperlihatkan pada Gambar 1.
+Apache
+Server
+
+Peramban
+WWW
+
+Pengunduh
+Pemecah File
+PDF
+Konversi PDF
+ke JPG
+Java
+
+Digilib
+jurnal
+
+Layanan
+Query
+PHP
+
+MySQL
+
+admin
+
+pemakai
+
+]Gambar 1. Arsitektur Sistem Perpustakaan
+Digital Jurnal Elektronik
+Desain Sistem
+Pada Gambar 2 diperlihatkan Diagram
+Kontek dari Sistem Perpustakaan Digital Jurnal.
+Ada dua eksternal entitas yaitu administrator dan
+pemakai. Administrator bertugas mengisikan
+informasi tentang alamat situs. Sedangkan
+pemakai dapat melakukan pencarian jurnal
+berdasarkan judul, pengarang atau penerbit.
+Setelah system mendapat input dari pemakai,
+maka system selanjutnya menampilkan daftar
+jurnal yang sesuai. Pada daftar jurnal, apabila
+dipilih gambarnya akan menampilkan isi jurnal
+per halaman.
+
+administrator
+
+File pdf
+
+0
+Sistem
+Perpustakaan
+Digital Jurnal
+Elektronik
+Hal Jurnal
+Query Jurnal
+
+Pemakai
+
+Gambar 2. Diagram Konteks
+Sistem Perpustakaan Digital untuk Jurnal
+terdiri dari dua bagian yaitu modul untuk
+mengunduh file jurnal dan untuk mencari dan
+melihat isi halaman jurnal. Dapat dilihat pada
+data flow diagram Level 1 pada Gambar 3.
+
+Rancang Bangun Sistem Perpustakaan untuk Jurnal Elektronik
+
+129
+
+Jurnal Teknologi Informasi DINAMIK Volume 17, No.2, Juli 2012 : 124-132
+
+.
+Administrator
+
+File pdf
+
+menulis data ke file local di directory tertentu
+menggunakan FileOutputStream.
+
+1.0
+Unggah file
+jurnal
+Informasi
+jurnal
+2.0
+Cari dan lihat
+jurnal
+Hal jurnal
+
+Query jurnal
+Pemakai
+
+Gambar 3. Data Flow Diagram Level 1
+Dari diagram level 1 dibuat DFD rinci
+proses 1 yang dapat dilihat pada Gambar 4. Pada
+diagram dapat dilihat bahwa system untuk
+mengunduh file jurnal elektronik terdiri dari
+empat bagian yaitu peramban situs, unduh file,
+pecah file dan konversi file pdf menjadi jpg
+1.1
+Telusuri
+Halaman
+Web
+
+File pdf
+
+ISSN : 0854-9524
+
+Selanjutnya file PDF akan dipecah
+berdasar tiap halaman. Dimulai dengan
+membaca file PDF. Jika file PDF lebih dari satu
+halaman baru dilakukan proses memecah file
+PDF. Setiap kali dibuat satu file PDF, maka
+langsung di konervsi menjadi file citra dengan
+ekstensi jpg.
+Untuk pemakai diberikan fasilitas query
+ke sistem untuk mendapatkan file jurnal yang
+diinginkan. Proses query diperlihathan pada
+Gambar 5 DFD rinci proses 2.
+Pemakai
+Hal Jurnal
+Query Jurnal
+2.1
+Lihat daftar
+jurnal
+
+2.2
+Lihat isi
+jurnal per
+halaman
+
+jurnal
+
+haljurnal
+
+1.1
+Unggah file
+pdf
+
+Jurnal
+
+Gambar 5. Data Flow Diagram Rinci Proses 2
+1.3
+Konversi file
+pdf menjadi
+jpg
+
+1.2
+Pecah file
+pdf
+
+halJurnal
+
+Gambar 4. Data Flow Diagram Rinci Proses 1
+Input dari program ini adalah alamat situs
+yang berisi file jurnal yang akan di download.
+Program akan menyeleksi apakah di halaman
+web tersebut ada hyperlink yang mengandung
+file pdf. Jika mengandung file pdf maka segera
+diunduh.
+Bagian program ini digunakan untuk
+mengunduh file dari URL dan menyimpan file
+tersebut di directory tertentu. Java membuat
+hubungan antara Url dan aplikasi Java
+menggunakan prosedur openConnection() untuk
+membuat objek URLConnection. Koneksi ini
+membaca data menggunakan InputStream dan
+
+130
+
+Untuk bagian query terdiri dari dua bagian :
+1. Bagian untuk menampilkan daftar jurnal.
+Pada bagian ini, pada saat dipanggil akan
+menampilkan daftar jurnal berdasarkan
+urutan daftar jurnal yang terbaru (yang paling
+terakhir dimasukkan). Selanjutnya pemakai
+dapat memasukkan jurnal yang dicari
+berdasarkan judul jurnal.
+2. Bagian untuk menampilkan isi jurnal tiap
+halaman. Bagian ini akan dipanggil apabila
+pemakai memilih suatu jurnal. Tampilan
+akan berupa file jpeg. Apabila kurang jelas,
+pemakai dapat mengklik gambar maka akan
+muncul format file pdf untuk tiap halaman.
+SKEMA BASIS DATA
+Perancangan basis data dari Sistem
+Perpustakaan Digital Jurnal dapat dilihat pada
+gambar 6. Sistem perpustakaan digital ini
+menggunakan dua buah tabel yaitu tabel jurnal
+dan haljurnal. Tabel jurnal menyimpan
+
+Rancang Bangun Sistem Perpustakaan untuk Jurnal Elektronik
+
+Jurnal Teknologi Informasi DINAMIK Volume 17, No.2, Juli 2012 : 124-132
+
+ISSN : 0854-9524
+
+informasi tentang jurnal sedang tabel jurnal
+menyimpan informasi nama file untuk tiap
+halaman. Untuk menghubungkan dua buah tabel
+digunakan kunci idjurnal dengan relasi one to
+many.
+
+Gambar 6. Skema Basis Data
+Tampilan
+Gambar 7 menampilkan layar untuk
+menggunggah file. Sebelum menggunggah file,
+dimasukkan dahulu informasi jurnal seperti
+idjurnal, judul, pengarang dan seterusnya.
+Selanjutnya dimasukkan nama file yang akan
+diunggah.
+
+Gambar 8. Tampilan Haaman Jurnal dengan
+Format jpeg
+]Pada tampilan ini ditampilkan dengan
+format jpeg. Dengan format gambar sehingga
+pada saat pindah halaman langsung muncul isi
+halaman. Untuk dapat diperbesar atau diperkecil
+disediakan versi pdf untuk tiap halaman seperti
+terlihat pada Gambar 9.
+
+Gambar 7. Tampilan Daftar Jurnal
+Jika seseorang memanggil alamat maka
+akan mucnul tampilan seperti pada Gambar 8.
+Di form ini pemakai dapat memasukkan judul
+atau pengarang buku yang dicari. Pada tampilan
+daftar jurnal. Jika salah satu dipilih maka akan
+tampil halaman jurnal seperti pada gambar
+
+Gambar 9. Tampilan Halaman Jurnal dengan
+Format pdf
+KESIMPULAN
+Dalam penelitian ini telah dibuat system
+perpustakaan digital untuk mengelola koleksi
+jurnal. Berdasarkan penelitian yang telah
+
+Rancang Bangun Sistem Perpustakaan untuk Jurnal Elektronik
+
+131
+
+Jurnal Teknologi Informasi DINAMIK Volume 17, No.2, Juli 2012 : 124-132
+
+dilakukan, maka dapat disimpulkan hal-hal
+sebagai berikut :
+1. Sistem yang dibuat mampu mengunduh file
+PDF dair suatu situs web, kemudian
+memecah satu file pdf menjadi sejumlah file
+sebanyak halaman.
+2. File pdf akan diubah menjadi jpeg sehingga
+akan langsung ditampilkan di browser.
+Kecepatan untuk menampilkan lebih tinggi
+daripada satu file penuh harus didownload
+dulu.
+3. File yang ditampilkan juga satu halaman satu
+file jpeg untuk menghindari penyalahgunaan
+file
+Sistem telah diuji coba dan telah berjalan
+dengan baik
+SARAN
+Dalam system ini masih terdapat
+kekurangan. Adapun kelemahan system ini
+antara lain adalah
+a. Sistem belum menampilkan kategori jurnal.
+b. Sistem belum terintegrasi dengan system
+administrasi akademik, sehingga belum ada
+integrasi mata kuliah.
+DAFTAR PUSTAKA
+Cleveland, Gary, (1998). IFLA - The official website
+of the International Federation of Library
+Associations and Institutions. Retrieved July 30,
+2013,
+from
+http://archive.ifla.org/VI/5/op/udtop8/udtop8.ht
+m
+
+Junghoo Cho, Hector Garcia-Molina, and
+Lawrence Page, 1998, Efficient crawling
+through URL ordering, In Proceedings of
+the Seventh International World Wide Web
+Conference, pages 161--172, April
+Kusmayadi, (n.d.). Forum Pustakawan Kementerian
+Pertanian | Sampaikanlah kepada orang lain
+walaupun hanya satu ayat. Retrieved July 30,
+2013,
+from
+http://fpdp.wordpress.com/elearning/membangun-perpustakaan-digital/
+
+Lee Giles, Kurt D. Bollacker, Steve Lawrence
+1998, CiteSeer: An Automatic Citation
+Indexing System, Digital Libraries 98 Third ACM Conference on Digital
+Libraries, Edited by I. Witten, R. Akscyn,
+F. Shipman III, ACM Press, New York, pp.
+89–98,
+Pressman.
+Roger
+S. 2001, Software
+Engineering - A Practitionar's Approach,
+McGraw- Hill International Edition, 5th
+Edition
+Rajashekar, T.B., 2004, Software for Digital
+Libraries, National Centre for Science
+Information Indian Institute of Science
+Waters Donald, 1998, What Are Digital
+Libraries?,. Washington, D.C.: Council on
+Library and Information Resources.
+Yin-Leng, Handbook of Research on Digital
+Libraries: Design, Development, and
+Impact,
+Nanyang
+Technological
+University, Singapore Information Science
+Reference (an imprint of IGI Global) 701
+E. Chocolate Avenue, Suite 200 Hershey
+PA 17033
+CLIR Issues Number 4 — Council on Library
+and Information Resources. (n.d.).
+Welcome to CLIR — Council on Library
+and Information Resources. Retrieved
+July
+30,
+2013,
+from
+http://www.clir.org/pubs/issues/issues04.h
+tml/issues04.html#dlf
+Digital Libraries: Definitions, Issues and
+Challenges - UDT Occasional Paper #8.
+(n.d.). IFLA - The official website of the
+International Federation of Library
+Associations and Institutions. Retrieved
+July
+30,
+2013,
+from
+http://archive.ifla.org/VI/5/op/udtop8/udto
+p8.htm
+http://ncsihttp://ncsinet.ncsi.iisc.ernet.in/gsdl/col
+lect/drtbrara/index/assoc/HASH01af.dir/d
+oc.pdf
+
+Kuo Hung Huang, 2011, Digital Libraries Methods and Applications, Published by
+InTech Janeza Trdine 9, 51000 Rijeka,
+Croatia
+
+132
+
+ISSN : 0854-9524
+
+Rancang Bangun Sistem Perpustakaan untuk Jurnal Elektronik
+
+

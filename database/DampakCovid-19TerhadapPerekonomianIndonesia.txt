@@ -1,0 +1,225 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/345682307
+
+Dampak Covid-19 Terhadap Perekonomian Indonesia
+Preprint · April 2020
+DOI: 10.13140/RG.2.2.14524.67205
+
+CITATIONS
+
+READS
+
+26
+
+23,378
+
+1 author:
+Estro Dariatno Sihaloho
+Universitas Padjadjaran
+70 PUBLICATIONS 120 CITATIONS
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+CEDS - Direktorat PIKEI Kementrian PPN/ Bappenas View project
+
+CEDS UNPAD - Alive & Thrive View project
+
+All content following this page was uploaded by Estro Dariatno Sihaloho on 10 November 2020.
+The user has requested enhancement of the downloaded file.
+
+Dampak Covid-19 Terhadap Perekonomian Indonesia
+
+Estro Dariatno Sihaloho
+Departemen Ilmu Ekonomi Universitas Padjadjaran
+estro.sihaloho@unpad.ac.id
+10 April 2020
+
+Per Tanggal 10 April 2020, 12.43 GMT, jumlah pasien positif covid-19 di seluruh dunia sudah
+mencapai 1,621,713 orang, dengan jumlah kematian 97,183 orang dan sembuh sebanyak 366,239
+orang1. Di Indonesia, total kasus covid-19 positif sebanyak 3,512 orang, dengan jumlah kematian
+sebanyak 306 orang, dan sembuh sebanyak 282 orang2. Data per tanggal 10 April 2020, 19.56
+PM, persentase kematian yang terjadi di Indonesia (8.71%) lebih besar dibandingkan persentase
+kematian yang terjadi di dunia (5.99%). Persentase yang tinggi ini melahirkan sangat banyak
+kecemasan dikalangan masyarakat.
+Grafik 1. Jumlah Penambahan Kasus Harian 02 Maret 2020 – 10 April 2020
+
+Sumber : https://www.worldometers.info/coronavirus/country/indonesia/, 2020.
+Grafik di atas menunjukkan bahwa penambahan kasus per hari meningkat dari hari ke hari,
+tanggal 9 April terdapat pengingkatan kasus terbanyak sebanyak 337 kasus positif dalam sehari.
+Hal ini pastinya memberikan kerugian yang besar pada masyrakat dan Indonesia.
+
+1
+2
+
+https://www.worldometers.info/coronavirus/
+https://www.covid19.go.id/
+
+Pengingkatan kasus positif yang terjadi dari hari ke hari menyebabkan banyak kerugian terhadap
+berbagai sektor di Indonesia. Salah satu nya adalah sektor ekonomi Indonesia. Pandemi Covid19 sudah sangat menghancurkan ekonomi Indonesia. Kasus pertama diumukan oleh Presiden
+Jokowi pada tanggal 2 Maret 20203, Presiden Jokowi mengumumkan terdapat 2 orang yang
+positif terkena Covid-19. Pada tanggal 2 Maret 2020, nilai tukar rupiah masih tidak selemah
+sekarang. Pada tanggal 2 Maret 2020, nilai tukar 1 USD terhadap rupiah adalah sebesar Rp.
+14,265.00, per hari ini tanggal 9 April 2020 nilai tukar 1 USD terhadap rupiah adalah sebesar Rp.
+15,880.004. Jadi rupiah melemah sebesar 1,615 poin atau melemah sebesar 11.32% dalam 39
+hari. Pelemahan terburuk rupiah hingga 10 April 2020, terjadi pada tanggal 23 Maret 2020,
+dengan nilai tukar 1 USD terhadap rupiah sebesar Rp. 16,575.00 atau melemah sebesar 16.19%.
+
+14000
+
+15000
+
+16000
+
+17000
+
+Grafik 2. Pengaruh jumlah kasus Covid-19 di Indonesia terhadap Nilai Tukar Rupiah
+
+0
+
+1000
+
+2000
+Number of cases
+
+Nilai tukar USD terhadap Rp
+
+3000
+
+4000
+
+Fitted values
+
+Sumber : Hasil Pengolahan Data, STATA 14, Penulis, 2020
+Hasil pengolahan data menunjukkan bahwa terdapat kecenderungan hubungan positif antara
+jumlah kasus Covid-19 dengan kekuatan nilai tukar USD terhadap Rupiah. Jika kasus covid 19
+selalu bertambah akan memperburuk kondisi perekonomian Indonesia. Salah satu indikator nya
+adalah terjadinya pelemahan Rupiah terhadap USD dan mata uang asing lainnya.
+3
+
+https://nasional.kompas.com/read/2020/03/02/11265921/breaking-news-jokowi-umumkan-dua-orang-diindonesia-positif-corona
+4
+https://www.bloomberg.com/quote/USDIDR:CUR
+
+Tabel 1. Pengaruh Jumlah Kasus terhadap Kekuatan USD terhadap Rupiah
+
+Sumber : Hasil Pengolahan Data, STATA 14, Penulis, 2020
+Hasil regresi di atas menunjukkan bahwa ketika terjadi setiap satu penambahan kasus Covid-19
+di Indonesia akan meningkatkan nilai tukar 1 USD sebesar Rp 0.6189704. Pastinya hubungan ini
+perlu diuji lebih lanjut karena penguatan dan pelemahan Rupiah juga dipengaruhi oleh variabel
+lainnya. Pelemahan Nilai Tukar Rupiah adalah salah satu contoh dari pengaruh Covid 19
+terhadap perekonomian Indonesia.
+Grafik 3. Pergerakan IHSG dalam 3 Bulan Terakhir
+
+Sumber : https://ihsg-idx.com/. 2020
+
+Dampak Ekonomi lainnya adalah pergerakan IHSG yang terjun bebas. Data IHSG menunjukkan
+bahwa sebelum terdapat kasus Covid-19 di Indonesia, nilai IHSG berada di kisaran 6000-an,
+tetapi setelah terdapat Covid-19 di Indonesia, nilai IHSG terjun bebas ke kisaran 4000-an.
+Pada tanggal 6 April 2020, Menteri Keuangan Republik Indonesia, Sri Mulyani bahkan
+mengatakan bahwa krisis yang diakibatkan virus corona saat ini jauh lebih kompleks dibanding
+krisis 1997-1998 dan 2008-20095. Hal ini terjadi karena penyebab dari resesi yang sekarang
+belum bisa ditahan. Beberapa dampak ekonomi dari Covid-19 terhadap ekonomi Indonesia di
+paparkan dalam Konfrensi Pers 1 April Kementrian Keuangan seperti6 :
+
+
+
+
+
+
+Ancaman gangguan kesehatan dan ancaman jiwa karena resiko peningkatan kasus hingga
+puluhan ribu jiwa
+Ancaman kehilangan pendapatan, terutama bagi masyarakat yang tidak mampu dan
+keluarga yang bekerja di sektor informal
+Kredit Macet pada UMKM, karena UMKM tidak bisa menjalankan usaha secara normal
+Sistem korporasi yang terganggu hingga kondisi perbankan yang dapat mengalami
+persoalan likuiditas
+Depresiasi rupiah, volatilitas pasar keuangan dan capital flight
+
+Kementrian Keuangan memaparkan ada 3 skenario dari pertumbuhan PDB Indonesia yaitu7 :
+
+5
+
+https://katadata.co.id/berita/2020/04/07/sri-mulyani-sebut-covid-19-lebih-kompleks-dari-krisis-1998-dan-2008
+https://www.kemenkeu.go.id/media/14790/materi-konferensi-pers-1-april-2020.pdf
+7
+https://www.kemenkeu.go.id/media/14790/materi-konferensi-pers-1-april-2020.pdf
+6
+
+Skenario pertumbuhan ekonomi sebesar 5.3% adalah skenario sebelum terjadinya Pandemi
+Covid-19. Setelah terjadinya Covid-19, terdapat skenario ekonomi tumbuh hanya 2.3% atau
+bahkan lebih buruk -0.4 %. Pertumbuhan ekonomi yang melambat atau semakin parah sejalan
+dengan nilai tukar Rupiah yang anjlok. Jika skenario ekonomi tumbuh hanya 2.3%, Kementrian
+Keuangan memproyeksikan nilai rupiah akan anjlok ke 17.500 per 1 USD. Lebih parah lagi, jika
+Jika skenario ekonomi tumbuh -0.4% Kementrian Keuangan memproyeksikan nilai rupiah akan
+anjlok ke 20.000 per 1 USD. Pemerintah memiliki beban yang sangat berat jika pertumbuhan
+ekonomi tumbuh negatif.
+Dampak negatif yang sangat besar sudah dapat dilihat dari sisi industri di Indonesia. Per 7 April
+2020, Kementerian Ketenagakerjaan (Kemenaker) mencatat sudah ada 1,4 juta lebih pekerja di
+seluruh Indonesia yang terkena dampak langsung wabah covid-19 atau corona8. Terdapat 41.876
+perusahaan sektor formal yang merumahkan atau mem-PHK tenaga kerjanya sebanyak
+1.052.216 orang dan terdapat 36.298 perusahaan sektor informal yang merumahkan atau memPHK tenaga kerjanya sebanyak 374.851 orang8. Daerah paling banyak adalah DKI Jakarta
+dengan jumlah 202 ribu tenaga kerja per 4 April 2020. Sektor yang paling banyak
+merumahkan/phk karyawannya adalah sektor pariwisata, tekstil, dan garmen. Hingga 10 April
+2020, Perhimpunan Hotel dan Restoran Indonesia (PHRI) melaporkan sudah ada 1.542 Hotel
+yang tutup di 31 Provinsi di Indonesia9. 90% Hotel di Bali juga sudah merumahkan
+karyawannya. Efek negatif Covid-19 terhadap berbagai sektor sunggulah sangat berat.
+Pemerintah melalui Kementrian Keuangan telah melakukan berbagai stimulus untuk menjaga
+kondisi perekonomian Indonesia 6. Pemerintah telah mengeluarkan Stimulus tahap 1 hingga
+stimulus tahap 3. Pada Stimulus tahap 3, pemerintah meningkatkan Total Tambahan Belanja
+dan Pembiayaan APBN 2020 Untuk Penanganan Dampak Covid-19 sebesar Rp405,1 Triliun
+yang terdiri dari :
+1. Intervensi penganggulangan Covid-19 - Kesehatan (Rp75 T)
+- insentif tenaga medis dan belanja penanganan kesehatan
+2. Social Safety nett akan diperluas (Rp110 T)
+- Tambahan Jaringan Pengaman Sosial
+3. Dukungan industri (Rp 70,1 T)
+- Pajak dan Bea Masuk Ditanggung Pemerintah (DTP)
+- stimulus KUR
+4. Dukungan Pembiayaan Anggaran untuk penanganan covid-19 (Rp150 T)
+- Pembiayaan dalam rangka mendukung Program Pemulihan Ekonomi Nasional
+Rp150 T
+
+8
+
+https://www.cnbcindonesia.com/news/20200409201441-4-151017/update-14-juta-pekerja-dirumahkan-phkjakarta-terbanyak
+9
+https://travel.detik.com/travel-news/d-4928546/efek-virus-corona-ke-wisata-ri-per-11-april-2020
+
+Mengapa Pemerintah sulit sekali menerapkan Lockdown?
+
+Grafik10 di atas menunjukkan pada tahun 2019, terdapat 74,1 Juta masyarakat Indonesia yang
+bekerja di sektor informal. Pemerintah Pusat memang menolak melakukan lockdown karena jika
+ingin menerapkan lockdown, ada sekitar 74.1 juta orang yang akan kehilangan pendapatan. Pada
+saat ini dengan penerapan PSBB di DKI Jakarta, Presiden Jokowi memutuskan memberikan
+bantuan masing-masing Rp 600.000,00 untuk 1.2 Juta orang per bulan11. Misalkan jika skema
+Lockdown diberlakukan, dan semua orang yang bekerja di sektor informal tidak bisa bekerja dan
+tidak memiliki pendapatan, maka dengan bantuan Rp 600.000,00 untuk 74.1 Juta, dibutuhkan
+44.46 Triliun Rupiah, Jika berlanjut hingga 2 bulan, pemerintah pusat harus mengeluarkan 88.92
+Triliun Rupiah.
+Semoga Indonesia segera pulih, Dunia pulih. Tuhan memberkati. Amin
+10
+
+https://databoks.katadata.co.id/datapublish/2019/10/21/sektor-informal-mendominasi-pekerjaan-di-indonesia2015-2019
+11
+https://nasional.kontan.co.id/news/jokowi-putuskan-beri-bansos-rp-600000-per-bulan-ini-yang-berhakmenerima?page=all
+
+ESTRO DARIATNO SIHALOHO
+Padjadjaran University - Young Lecturer and Researcher
+
+Personal Information
+
+Email :
+estro.sihaloho@unpad.ac.id
+Google Schoolar :
+https://scholar.google.co.id/citations?user=GTY5NkMAAAAJ&hl=en&oi=ao
+Scopus :
+https://www.scopus.com/authid/detail.uri?authorId=57195354080
+Orcid ID :
+https://orcid.org/0000-0003-3761-0884
+
+Research Gate :
+https://www.researchgate.net/profile/Estro_Dariatno_Sihaloho
+
+View publication stats
+
+

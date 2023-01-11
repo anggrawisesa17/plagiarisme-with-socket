@@ -1,0 +1,964 @@
+ISSN : 2407 – 1846
+e-ISSN : 2460 – 8416
+
+TINF - 003
+Website : jurnal.ftumj.ac.id/index.php/semnastek
+
+APLIKASI ANDROID PENGENDALI LAMPU RUMAH BERBASIS
+MIKROKONTROLER ATMEGA328
+Andik Giyartono1* dan Priadhana Edi Kresnha2
+1
+
+Mahasiswa Jurusan Teknik Informatika, Fakultas Teknik, Universitas Muhammadiyah Jakarta, Jakarta
+2
+Dosen Jurusan Teknik Informatika, Fakultas Teknik, Universitas Muhammadiyah Jakarta, Jakarta
+Jl. Cempaka Putih Tengah 27 Jakarta Pusat 10510
+*
+andik.giyartono@gmail.com
+
+ABSTRAK
+Persediaan listrik yang terbatas menuntut untuk berhemat dalam penggunaannya. Salah satu
+hal yang bisa dilakukan untuk menghemat listrik yaitu dengan penggunaan lampu rumah seperlunya
+saja. Sistem operasi open source pada ponsel android dapat dimanfaatkan untuk membuat aplikasi
+pengendali lampu rumah dengan menggunakan Arduino UNO (Mikrokontroler ATmega328) dan
+relay sebagai pengganti saklar. Aplikasi android digunakan sebagai input perintah kepada rangkaian
+arduino UNO (Mikrokontroler ATmega328) melalui media penghubung modul Bluetooth. Arduino
+UNO akan merespon input dengan output berupa logika low (0V) dan logika high (5V) melalui pinpin yang telah ditentukan, pin-pin ini dihubungkan ke Relay modul. Relay modul digunakan sebagai
+pengganti saklar yang dihubungkan ke lampu rumah. Ketika mendapat input logika low (0V) relay
+akan aktif dan akan mengalirkan listrik ke lampu sehingga lampu menyala, dan ketika mendapat input
+logika high (5V) relay akan tidak aktif sehingga aliran listrik ke lampu terputus dan lampu akan mati.
+Kata kunci: Aplikasi Android, Arduino UNO (mikrokontroler ATmega328), Relay, Lampu rumah.
+ABSTRACT
+Limited power supply requires to conserve its use. One of the things that can be done to save
+electricity is to use the house lights as needed. Open source operating system on android phones can
+be used to make the house light controller applications using the Arduino UNO (Microcontroller
+ATmega328) and relay instead of a switch. Android application is used as input commands to the
+circuit arduino UNO (microcontroller ATmega328) through media liaison Bluetooth module. Arduino
+UNO will respond to input with the output of a logic low (0V) and logic high (5V) via pins that have
+been determined, the pins are connected to the Relay module. Relay module is used instead of a switch
+that is connected to the lamp house. When it gets input logic low (0V) the relay will be active and will
+supply power to the light so that the light is on, and when it gets a high logic input (5V) relay will not
+be activated so that the flow of electricity to the lights and the lights will cut off the dead.
+Keywords : Android Applications, Arduino UNO (microcontroller ATmega328), Relay, Lamp house.
+
+PENDAHULUAN
+Sebagian besar peralatan yang tercipta
+baik untuk keperluan rumah tangga dan
+perkantoran pemakaiannya menggunakan
+tenaga listrik. Kebutuhan akan tenaga listrik
+semakin meningkat sementara persediaan
+pasokan listrik sangat terbatas, hal itu
+menuntut kita untuk menghemat penggunaan
+listrik. Hemat penggunaan listrik berarti juga
+hemat biaya pembayaran listrik, apalagi
+semakin hari Tarif Dasar Listrik (TDL)
+semakin meningkat. Mulai 1 januari 2015
+
+berlaku tariff adjustment sesuai Peraturan
+Menteri ESDM No.31 Tahun 2014. Tariff
+adjustment
+diberlakukan
+setiap
+bulan,
+menyesuaikan
+perubahan
+nilai
+tukar
+rupiah,harga bahan bakar dan inflasi bulanan.
+Lampu rumah merupakan salah satu
+penyumbang terbesar dalam pemakaian listrik.
+Penggunaan lampu yang kurang efisien
+menimbulkan pemborosan listrik yang
+mengakibatkan tagihan listrik membengkak.
+Kendali lampu rumah kebanyakan masih
+menggunakan saklar manual yang terpasang
+
+Seminar Nasional Sains dan Teknologi 2015
+Fakultas Teknik Universitas Muhammadiyah Jakarta , 17 November 2015
+
+1
+
+ISSN : 2407 – 1846
+e-ISSN : 2460 – 8416
+
+TINF - 003
+Website : jurnal.ftumj.ac.id/index.php/semnastek
+
+permanen
+pada
+masing-masing
+panel.
+Pemborosan listrik seringkali disebabkan
+karena lupa mematikan lampu.
+Disisi lain perkembangan ponsel pintar
+dengan sistem operasi android yang
+mendominasi pasar ponsel dunia semakin
+banyak tersedia di pasaran dengan harga yang
+semakin terjangkau. Sistem operasi android
+sendiri bersifat sistem operasi open source
+yang dapat dimodifikasi sesuai kebutuhan.
+Sistem operasi open source yang ada pada
+ponsel pintar android memungkinkan untuk
+membuat aplikasi yang dihubungkan dengan
+rangkaian mikrokontroler dan relay untuk
+mengendalikan lampu rumah.
+LANDASAN TEORI
+A. Arduino
+Arduino adalah kit elektronik atau papan
+rangkaian elektronik open source yang di
+dalamnya terdapat komponen utama yaitu
+sebuah chip dengan jenis AVR dari
+perusahaan Atmel.
+Arduino dikatakan sebagai sebuah
+platform dari physical computing yang
+bersifat open source. Pertama-tama perlu
+dipahami bahwa kata “platform” disini adalah
+sebuah pilihan kata yang tepat. Arduino tidak
+hanya sekedar sebuah alat pengembangan,
+tetapi kombinasi dari hardware, bahasa
+pemrograman dan Integrated Development
+Environment (IDE) yang canggih. IDE adalah
+sebuah software yang sangat berperan untuk
+menulis program, meng-compile menjadi
+kode biner dan meng-upload ke dalam
+memory mikrokontroler.
+Menurut
+Feri
+Djuandi
+(2011:8)
+“Komponen utama didalam papan Arduino
+adalah sebuah 8 bit dengan merk ATmega
+yang dibuat oleh Atmel Corporation. Berbagai
+papan Arduino menggunakan tipe ATmega
+yang
+berbeda-beda
+tergantung
+dari
+spesifikasinya., sebagai contoh Arduino Uno
+menggunakan ATmega328 sedangkan Arduino
+Mega 2560 yang lebih canggih menggunakan
+ATmega2560.”
+Bagian-bagian dari papan Arduino dapat
+dijelaskan seperti gambar berikut:
+
+Gambar 1. Bagian-bagian Arduino Board
+Arduino Board mempunyai 14 pin
+input/output digital (0-13) yang dapat
+berfungsi sebagai input atau output. Fungsi
+input/output diatur oleh program. Khusus
+untuk 6 buah pin 3, 5, 6, 9, 10 dan 11, dapat
+juga berfungsi sebagai pin analog output
+dimana tegangan output-nya dapat diatur. Nilai
+sebuah pin output analog dapat diprogram
+antara 0–255, dimana hal itu mewakili nilai
+tegangan 0–5V.
+B. Android
+Android adalah operating system atau
+OS berbasis linux yang diperuntukan khusus
+untuk mobile device seperti smartphone atau
+PC table, persis seperti symbian yang
+digunakan oleh Nokia dan Blackberry OS,
+jelasnya seperti Microsoft windows yang
+sangat dikenal baik oleh para pengguna
+komputer dan laptop, jika kita analogikan,
+android adalah windows nya sedangkan
+smartphone atau handphone atau tablet adalah
+unit komputernya.
+Dengan sistem distribusi open source
+yang
+digunakan
+memungkinkan
+para
+pengembang untuk menciptakan beragam
+aplikasi menarik yang dapat dinikmati oleh
+para penggunanya, seperti game, chatting dan
+lain-lain, hal ini pulalah yang membuat
+smartphone berbasis Android ini lebih murah
+dibanding gadget sejenis.
+Menurut Nazruddin Safaat H (2012:1)
+“Android adalah sebuah sistem operasi untuk
+perangkat mobile berbasis linux yang
+mencakup sistem operasi, middleware dan
+aplikasi. Android menyediakan platform
+terbuka bagi para pengembang untuk
+menciptakan aplikasi mereka”.
+METODE
+A. Analisa Kebutuhan Hardware dan
+Software
+Bahan dan peralatan yang dibutuhkan
+dalam pembuatan aplikasi android pengendali
+lampu
+rumah
+berbasis
+mikrokontroler
+
+Seminar Nasional Sains dan Teknologi 2015
+Fakultas Teknik Universitas Muhammadiyah Jakarta , 17 November 2015
+
+2
+
+ISSN : 2407 – 1846
+e-ISSN : 2460 – 8416
+
+TINF - 003
+Website : jurnal.ftumj.ac.id/index.php/semnastek
+
+ATmega328 ini meliputi Perangkat Keras
+(Hardware) berupa Ponsel Android, Modul
+Bluetooth, Arduino UNO (Mikrokontroler
+ATmega328), Adaptor 5V, Relay Modul
+4Channel, Terminal kabel, Kabel, Lampu,
+Fitting lampu, dan Steker, serta Perangkat
+Lunak (Software) berupa Arduino IDE
+(Integrated Development Environment) dan
+Android Studio.
+B. Prosedur Penelitian
+Prosedur penelitian yang dilakukan
+dalam membuat aplikasi android pengendali
+lampu
+rumah
+berbasis
+mikrokontroler
+ATmega328 adalah melakukan studi putaka
+dengan cara mencari dan mengumpulkan datadata obyek yang akan dibuat melalui bukubuku, laporan-laporan dan jurnal-jurnal ilmiah,
+maupun dari internet. Langkah selanjutnya
+merancang sistem pengendali lampu rumah
+secara umum, merancang konfigurasi antar
+hardware, merancang miniatur rumah,
+merancang interface aplikasi pada ponsel
+android, selanjutnya adalah integrasi antara
+hardware dan software. Prosedur terakhir
+adalah pengujian sistem dan analisa hasil.
+C. Perancangan Sistem
+Secara umum sistem yang akan dibuat
+dapat digambarkan dengan Diagram Blok pada
+gambar 2. Alur kerja yang digambarkan
+dalam Blok Diagram Sistem adalah user
+melakukan komunikasi dengan sistem dengan
+menggunakan ponsel android yang sudah
+terinstal aplikasi pengendali rumah, melalui
+media Bluetooth. Ponsel android memberikan
+input ke arduino UNO yang bekerja dengan
+mendapatkan daya dari adaptor 5Volt. Arduino
+memproses inputan dan memberikan output
+berupa logika high (tegangan 5Volt) dan
+logika low (tegangan 0Volt) melalui pin yang
+sudah ditentukan. Pin arduino dihubungkan ke
+modul relay, sehingga ketika pin bertegangan
+0Volt relay akan aktif dan sebaliknya ketika
+bertegangan 5Volt relay akan tidak aktif.
+Relay aktif akan menyambungkan aliran listrik
+utama ke lampu sehingga lampu menyala.
+
+Gambar 2. Diagram Blok Sistem
+Konfigurasi Hardware
+Konfigurasi
+Hardware
+secara
+keseluruhan dapat digambarkan seperti gambar
+berikut:
+
+Gambar 3. Konfigurasi Hardware
+Keseluruhan
+Arduino UNO mendapat sumber
+tegangan dari adaptor 5V yang langsung
+dihubungkan ke listrik utama. RX dan TX
+modul Bluetooth dihubungkan ke TX dan RX
+Arduino UNO dan mengambil sumber
+tegangan (3,3V) dari Arduino UNO. Pin
+IN1,IN2, IN3, dan IN4 Relay Modul
+dihubungkan ke pin 2, 3, 4,dan 5 Arduino
+UNO serta sumber tegangan (5V) mengambil
+dari Arduino UNO juga. Output Relay Modul
+dihubungkan ke listrik utama dan lampu. C1,
+C2, C3, C4 ke listrik utama dan NO1, NO2,
+NO3, NO4 ke lampu rumah.
+Perancangan Miniatur Rumah
+Miniatur rumah dibuat menggunakan
+bahan triplek dengan ketebalan 2mm. Ruangan
+miniatur rumah dibagi menjadi 4 ruangan,
+
+Seminar Nasional Sains dan Teknologi 2015
+Fakultas Teknik Universitas Muhammadiyah Jakarta , 17 November 2015
+
+3
+
+ISSN : 2407 – 1846
+e-ISSN : 2460 – 8416
+
+TINF - 003
+Website : jurnal.ftumj.ac.id/index.php/semnastek
+
+yaitu teras, ruang tengah, kamar1, dan kamar2,
+dengan ukuran :
+a. Teras : 15cm x 15cm
+b. R.Tengah : 15cm x 45cm
+c. Kamar1 : 15cm x 15cm
+d. Kamar2 : 15cm x 15cm
+Perancangan Interface
+Rancangan interface yang direncanakan
+seperti gambar berikut:
+
+Integrasi Hardware dan Software
+Pada integrasi hardware dan software ini
+akan membahas pembuatan alat serta program.
+Pembuatan Miniatur Rumah
+Miniatur Rumah yang dibuat seperti
+yang sudah dijelaskan pada perancangan
+miniatur rumah terbuat dari bahan triplek
+dengan ketebalan 2mm.
+
+Gambar 5. Miniatur Rumah
+Pembuatan Alat
+Konfigurasi hardware keseluruhan pada
+perancangan hardware direalisasikan pada alat
+sebenarnya.
+Gambar 4. Rancangan Tampilan Interface
+isi pada tampilan interface halaman
+utama aplikasi diatas dapat dijelaskan sebagai
+berikut :
+1.
+Header
+Pada header merupakan penjelasan atau
+petunjuk
+lampu
+mana
+yang
+akan
+dikendalikan.
+2.
+Menu Utama
+Pada menu utama terdapat empat
+ToggleButton yang masing-masing ada
+keterangannya yaitu teras, ruang tengan,
+kamar 1, dan kamar 2.
+ToggleButton ini yang merupakan saklar
+untuk menghidupkan dan memadamkan
+lampu. Ketika lampu dalam keadaan mati
+pada ToggleButton terdapat keterangan
+“OFF”, sedang saat lampu dalam keadaan
+hidup ToggleButton terdapat keterangan
+“ON” serta warna berubah hijau
+3.
+Koneksi Bluetooth
+Pada koneksi Bluetooth terdapat TextBox
+dan Button “OK”. TextBox ini diisi nama
+device Bluetooth yang menjadi penghubung
+dengan Arduino UNO, kemudian diklik
+Button “OK” dan ponsel android akan
+terhubung dengan Arduino UNO
+
+Gambar 6. Rangkaian Keseluruhan Alat
+rangkaian keseluruhan alat yang dibuat
+yang terdiri dari Arduino Uno, Relay Modul,
+Bluetooth modul, Adaptor 5V, dan Terminal
+kabel.
+Pembuatan Program
+Pembuatan program ada 2 macam yaitu
+program untuk Arduino UNO dan program
+untuk aplikasi Android.
+Pembuatan Program Arduino
+Program arduino ditulis dengan bahasa
+C menggunakan software Arduino IDE
+
+Seminar Nasional Sains dan Teknologi 2015
+Fakultas Teknik Universitas Muhammadiyah Jakarta , 17 November 2015
+
+4
+
+ISSN : 2407 – 1846
+e-ISSN : 2460 – 8416
+
+TINF - 003
+Website : jurnal.ftumj.ac.id/index.php/semnastek
+
+(Integrated Development Environment). Pada
+Arduino IDE terdapat 2 fungsi yaitu :
+1. Fungsi void setup()
+Pada fungsi void setup() ini akan
+ditetapkan tipe data yang masuk, pin yang
+digunakan, juga menetapkan pin-pin tersebut
+sebagai output, seperti pada gambar berikut :
+
+Gambar 8. Tampilan Program Utama Arduino
+
+Gambar 7. Fungsi void setup() pada Arduino
+Pada gambar 3.24 diatas dapat
+dijelaskan sebagai berikut :
+a. Menetapkan tipe data yang masuk adalah
+char.
+b. Menetapkan nama pin 2 = Teras, pin 3 =
+R.Tengah, pin 4 = Kamar1, dan pin 5 =
+Kamar2.
+c. Menetapkan baud rate atau kecepatan
+aliran data, baud rate menggunakan satuan
+bps (bit per second). Disini baud rate
+ditetapkan 9600 yang merupakan baud
+rate standar modul Bluetooth HC-06.
+d. Menetapkan Teras, R.Tengah, Kamar1,
+dan Kamar2 sebagai output.
+e. Menetapkan pin output (Teras, R.Tengah,
+Kamar1, da Kamar2) berlogika high, hal
+ini dimaksudkan agar dalam keadaan
+normal (default) relay modul tidak aktif
+karena relay modul akan aktif jika
+mendapat inputan logika low.
+
+Keterangan :
+1. Bila input (1) maka Teras / Pin 2 akan
+berlogika low.
+2. Bila input (2) maka Teras / Pin 2 akan
+berlogika high.
+3. Bila input (3) maka R.Tengah / Pin 3 akan
+berlogika low.
+4. Bila input (4) maka R.Tengah / Pin 3 akan
+berlogika high.
+5. Bila input (5) maka Kamar1 / Pin 4 akan
+berlogika low.
+6. Bila input (6) maka Kamar1 / Pin 4 akan
+berlogika high.
+7. Bila input (7) maka Kamar2 / Pin 5 akan
+berlogika low.
+8. Bila input (8) maka Kamar2 / Pin 5 akan
+berlogika high.
+Pembuatan Layout
+Layout halaman utama dibuat seperti
+yang telah digambarkan dalam rancangan
+interface. Tampilan layout dalam Android
+Studio tampak seperti gambar berikut :
+
+2. Fungsi Program Utama
+
+Program utama adalah fungsi looping
+jika mendapat input data, source code pada
+Arduino IDE seperti berikut :
+
+Seminar Nasional Sains dan Teknologi 2015
+Fakultas Teknik Universitas Muhammadiyah Jakarta , 17 November 2015
+
+5
+
+ISSN : 2407 – 1846
+e-ISSN : 2460 – 8416
+
+TINF - 003
+Website : jurnal.ftumj.ac.id/index.php/semnastek
+
+Gambar 9. Tampilan Layout Aplikasi
+Halaman utama aplikasi menggunakan
+background gambar titik-titik air dengan
+warna biru degradasi. Pada halaman ini
+terdapat TextView berisi “Pilih Ruangan Yang
+Akan Dikendalikan :” pada bagian atas, juga 4
+TextView lainnya yaitu “Teras :”, “R.Tengah
+:”, “Kamar 1:”, dan “Kamar 2:”. Selain
+TextView terdapat 4 buah ToggleButton yang
+berfungsi sebagai tombol saklar, satu kolom
+EditText tempat input nama Bluetooth serta
+satu Button “OK”.
+Flowchart Aplikasi
+Diagram alir (Flowchart) pada aplikasi
+android pengontrol lampu rumah ini
+digambarkan sepert gambar berikut :
+
+Gambar 10. Flowchart Aplikasi
+
+Ketika Aplikasi dibuka maka akan ada
+permintaan untuk menghidupkan Bluetooth.
+Pada halaman utama aplikasi terdapat text box
+yang harus diisi nama Bluetooth dari alat, jika
+nama Bluetooth yang masukkan valid maka
+akan terhubung dengan alat. Langkah
+selanjutnya yaitu memilih ruangan yang akan
+dikendalikan. Jika memilih Teras selanjutnya
+klik ToggleButton Teras maka keterangan
+ToggleButton menjadi ON, ini berarti aplikasi
+menginput angka 1 dan lampu Teras akan
+hidup. Selanjutnya jika diklik lagi maka
+keterangan ToggleButton menjadi OFF, ini
+berarti aplikasi menginput angka 2 dan lampu
+Teras akan mati. Hal serupa akan terjadi jika
+memilih Ruang Tengah, Kamar1, dan Kamar2.
+HASIL DAN PEMBAHASAN
+Alat yang dibuat harus terlebih dahulu
+diuji sebelum diimplementasikan pada
+miniatur rumah. Bagian-bagian yang akan
+diuji antara lain :
+1. Aplikasi Android
+Aplikasi Android yang dibuat pada
+Android Studio diRun atau diinstal pada
+ponsel android. Langkah pertama Run aplikasi
+yaitu dengan cara klik icon segitiga pada menu
+Android Studio. Selanjutnya Android Studio
+akan mendeteksi emulator atau device android
+jika ada ponsel android yang dihubungkan ke
+laptop. Setelah device android terdeteksi maka
+langkah selanjutnya mengklik tombol OK dan
+aplikasi akan terinstal di ponsel android.
+
+Gambar 11. Aplikasi Pengendali Lampu
+Rumah Berhasil diinstall pada ponsel
+android
+
+Seminar Nasional Sains dan Teknologi 2015
+Fakultas Teknik Universitas Muhammadiyah Jakarta , 17 November 2015
+
+6
+
+ISSN : 2407 – 1846
+e-ISSN : 2460 – 8416
+
+TINF - 003
+Website : jurnal.ftumj.ac.id/index.php/semnastek
+
+2. Adaptor
+Adaptor digunakan sebagai sumber
+tegangan untuk mengaktifkan Arduino UNO,
+tegangan yang dibutuhkan Arduino UNO
+sebesar 5-7V DC. Pada pengujian ini input
+adaptor dihubungkan ke tegangan listrik 220V
+AC dan output diukur menggunakan
+multimeter.
+Hasil pengukuran adaptor
+
+menggunakan multimeter, output tegangan
+adaptor sebesar 6V. Output tegangan
+adaptor sesuai dengan kebutuhan Arduino
+UNO, dimana tegangan yang dibutuhkan
+sebesar 5-7V.
+3. Arduino UNO
+Pin Arduino UNO yang digunakan dalam
+pembuatan alat yaitu pin 2,3,4, dan 5 yang
+dipakai
+sebagai
+output.
+Pin
+output
+dihubungkan ke Relay Modul. Pada keadaan
+normal (default) pin
+output ditetapkan
+berlogika high (5V) agar Relay Modul tidak
+aktif. Pada pengujian ini Arduino UNO diberi
+tegangan dan pin output diukur menggunakan
+multimeter. Pada pengujian pin output
+Arduino UNO didapatkan hasil tegangan
+sebesar 4,7V. Hasil ini sesuai atau mendekati
+tegangan yang diharapkan yaitu sebesar 5V.
+4. Modul Bluetooth
+
+Pengujian Bluetooth dilakukan dengan
+cara memberikan tegangan sebesar 3,3V
+pada Modul Bluetooth agar Modul
+Bluetooth aktif, selanjutnya discan
+menggunakan ponsel android untuk
+mengetahui apakah Modul Bluetooth
+terdeteksi atau tidak. Hasil pengujian
+Modul Bluetooth sebagai berikut :
+Tabel 1 .Hasil Pengujian Modul Bluetooth
+Jarak
+Tidak Ada
+Ada
+(meter)
+Penghalang
+Penghalang
+1
+Terdeteksi
+Terdeteksi
+2
+Terdeteksi
+Terdeteksi
+3
+Terdeteksi
+Terdeteksi
+4
+Terdeteksi
+Terdeteksi
+5
+Terdeteksi
+Terdeteksi
+6
+Terdeteksi
+Terdeteksi
+7
+Terdeteksi
+Terdeteksi
+8
+Terdeteksi
+Terdeteksi
+9
+Terdeteksi
+Terdeteksi
+10
+Terdeteksi
+Terdeteksi
+11
+Terdeteksi
+Tidak Terdeteksi
+
+12
+13
+14
+
+Terdeteksi
+Terdeteksi
+Tidak Terdeteksi
+
+Tidak Terdeteksi
+Tidak Terdeteksi
+Tidak Terdeteksi
+
+Ketika
+Modul
+Bluetooth
+discan
+menggunakan ponsel android hasilnya Modul
+Bluetooth terdeteksi dengan nama HC-06.
+Tanpa ada penghalang Modul Bluetooth
+terdeteksi sampai jarak 13meter, sedangkan
+dengan ada penghalang (dinding rumah)
+Modul Bluetooth terdeteksi sampai jarak
+10meter. Hasil pengujian ini menunjukkan
+Modul Bluetooth berfungsi dengan baik.
+5. Relay Modul
+Relay Modul akan aktif jika diberi inputan
+logika low (0V) atau negatif. Pengujian Relay
+Modul dilakukan dengan cara menberi power
+Relay Modul (pin VCC dihubungan ke positif
+5V dan pin GND dihubungkan ke negatif),
+selanjutnya pin IN1, IN2, IN3, dan IN4 secara
+bergantian diberi input 0V (negatif). Hasil
+pengujian seperti tabel berikut :
+Tabel 2. Hasil Pengujian Relay Modul
+Pin Input Relay
+Indikator Relay
+Modul
+Modul
+IN1
+Menyala
+IN2
+Menyala
+IN3
+Menyala
+IN4
+Menyala
+Tabel 2 menunjukkan hasil pengujian
+Relay Modul. Ketika IN1 diberi input negatif
+lampu indikator IN1 menyala yang
+menunjukkan relay1 aktif. Pun ketika IN2,
+IN3, dan IN4, ketika diberi input negatif lampu
+indikatornya menyala. Hasil pengujian
+menunjukkan bahwa Relay Modul berfungsi
+baik.
+
+Pengujian Proses
+
+Dalam pengujian proses alat yang
+diuji adalah Arduino UNO, namun berbeda
+dengan pengujian sebelumnya. Jika pada
+pengujian Arduino UNO pertama yang
+diuji tegangan pin output keadaan default,
+maka pada pada pengujian proses ini yang
+diuji adalah pin output Arduino UNO
+ketika mendapat input data. Dalam
+
+Seminar Nasional Sains dan Teknologi 2015
+Fakultas Teknik Universitas Muhammadiyah Jakarta , 17 November 2015
+
+7
+
+ISSN : 2407 – 1846
+e-ISSN : 2460 – 8416
+
+TINF - 003
+Website : jurnal.ftumj.ac.id/index.php/semnastek
+
+pembahasan pembuatan program telah
+dijelaskan bahwa :
+1. Bila input (1) maka Teras / Pin 2 akan
+berlogika low.
+2. Bila input (2) maka Teras / Pin 2 akan
+berlogika high.
+3. Bila input (3) maka R.Tengah / Pin 3 akan
+berlogika low.
+4. Bila input (4) maka R.Tengah / Pin 3 akan
+berlogika high.
+5. Bila input (5) maka Kamar1 / Pin 4 akan
+berlogika low.
+6. Bila input (6) maka Kamar1 / Pin 4 akan
+berlogika high.
+7. Bila input (7) maka Kamar2 / Pin 5 akan
+berlogika low.
+8. Bila input (8) maka Kamar2 / Pin 5 akan
+berlogika high.
+Pada pengujian proses ini akan dibuktikan
+pernyataan-pernyataan
+diatas.
+Pengujian
+dilakukan dengan menggunakan aplikasi
+Blueterm yang didownload dari playstore
+dalam ponsel android. Hasil pengujian tampak
+pada tabel berikut :
+Tabel 3. Hasil Pengujian Pin Output Arduino
+UNO ketika Mendapat Input
+Pin Output
+Input
+Tegangan
+Arduino UNO
+Blueterm
+Output
+Pin 2
+1
+0.0V
+Pin 2
+2
+4.7V
+Pin 3
+3
+0.0V
+Pin 3
+4
+4.7V
+Pin 4
+5
+0.0V
+Pin 4
+6
+4.7V
+Pin 5
+7
+0.0V
+Pin 5
+8
+4.7V
+Tabel 3 menunjukkan hasil pengujian
+Arduino UNO sesuai dengan pernyataanpernyataan sebelumnya, pin 2 Arduino UNO
+ketika mendapat input (1) tegangan output
+0.0V (berlogika low) dan ketika mendapat
+input (2) tegangan output 4.7V (berlogika
+high). Demikian juga dengan pin 3, pin 4, dan
+pin 5, hasil pengujian sesuai dengan
+pernyataan sebelumnya.
+Pengujian Output
+Pada pengujian output ini alat dipasang
+pada miniatur rumah kemudian diuji dengan
+menggunakan aplikasi Pengendali Lampu
+Rumah yang telah diinstal pada ponsel
+
+android. Hasil pengujian output ditampilkan
+pada table berikut :
+Tabel 4. Hasil Pengujian Output pada
+Miniatur Rumah
+Ruangan
+Teras
+Teras
+R.Tengah
+R.Tengah
+Kamar1
+Kamar1
+Kamar2
+Kamar2
+
+Perintah
+ON
+OFF
+ON
+OFF
+ON
+OFF
+ON
+OFF
+
+Keberhasilan Alat
+Lampu Menyala
+Lampu Mati
+Lampu Menyala
+Lampu Mati
+Lampu Menyala
+Lampu Mati
+Lampu Menyala
+Lampu Mati
+
+Tabel 4 menunjukkan hasil pengujian
+output pada miniatur rumah sudah sesuai
+dengan rancangan, alat dan aplikasi bekerja
+dengan baik.
+KESIMPULAN DAN SARAN
+A. Kesimpulan
+Berdasar
+perancangan
+sistem,
+pembuatan alat serta dari pengujian-pengujian
+yang telah dilakukan, dapat dibuat beberapa
+kesimpulan, antara lain :
+1. Rangkaian alat terdiri dari Adaptor 5V,
+Arduino UNO, Modul Bluetooth serta
+Relay modul sebagai pengganti saklar
+untuk memutus dan menyambung aliran
+listrik ke lampu rumah.
+2. Aplikasi
+android
+dibuat
+dengan
+menggunakan software Android Studio
+serta penulisan program untuk Arduino
+UNO menggunakan software Arduino IDE
+(Integrated Development Invironment).
+3. Alat simulasi berupa miniatur rumah yang
+dibuat dari bahan triplek 2mm dengan
+ukuran 30x45x30cm yangdibagi menjadi 4
+ruangan yaitu Teras, R.Tengah, Kamar1,
+dan Kamar2. Masing-masing ruangan
+diberi
+lampu
+15Watt/220V
+yang
+dihubungkan ke rangkaian alat dan listrik
+utama rumah.
+4. Berdasar hasil pengujian yang dilakukan,
+alat dapat bekerja dengan baik untuk
+mengendalikan lampu rumah dengan jarak
+maksimal 13meter tanpa ada penghalang
+dan 10meter jika ada penghalang (Tembok
+rumah).
+
+Seminar Nasional Sains dan Teknologi 2015
+Fakultas Teknik Universitas Muhammadiyah Jakarta , 17 November 2015
+
+8
+
+ISSN : 2407 – 1846
+e-ISSN : 2460 – 8416
+
+TINF - 003
+Website : jurnal.ftumj.ac.id/index.php/semnastek
+
+B. Saran
+Dalam pembuatan android pengendali
+lampu rumah ini masih terdapat kekurangankekurangan. Saran yang dapat disampaikan
+untuk peneliti selanjutnya antara lain :
+a. Jarak yang dapat dijangkau maksimal
+hanya 13meter tanpa penghalang dan
+10meter jika ada penghalang karena media
+penghubung yang digunakan Bluetooth.
+Peneliti berikutnya dapat mengembangkan
+dengan media penghubung lainnya agar
+jarak jangkauan lebih jauh, misalnya
+menggunakan Wifi Shield ataupun GSM
+Shield.
+b. Pada aplikasi android belum terdapat
+tombol exit. Peneliti berikutnya dapat
+mengembangkan
+aplikasi
+dengan
+menambahkan tombol exit atau menambah
+menu-menu lainnya.
+DAFTAR PUSTAKA
+A. A. Huda,
+2012,
+24
+Jam
+Pintar
+Pemrograman Android, Andi Offset,
+Yogyakarta.
+Adelia, dan Jimmy Setiawan, 2011,
+Implementasi Customer Relationship
+Management (CRM) Pada Sistem
+Reverasi Hotel Berbasis Website dan
+Desktop, Jurnal Sistem Informasi.
+Akhadiah, Sabarti, Maidar G. Arsyad, Sakura
+H.
+Ridwan,
+1994,
+Pembinaan
+Kemampuan
+Menulis
+Bahasa
+Indonesia, Erlangga, Jakarta.
+Chaerulloh.
+Roby,
+2014,
+Aplikasi
+Mikrokontroler ATmega5835 Untuk
+Menghitung Jumlah dan Panjang
+Produk Yang dihasilkan Mesin
+Roolforming Secara Otomatis. Tugas
+Akhir Program Teknik Informatika
+Universitas Muhammadiyah Jakarta
+(tidak dipublikasikan).
+Creswell. John W, 2010, Research Design
+Pendekatan Kualitatif, Kuantitatif dan
+Mixed, Pustaka Pelajar, Yogyakarta.
+Dian. Wirdasari, 2010, Membuat Program
+Dengan Menggunakan Bahasa C,
+Jurnal STMIK TRIGUNADHARMA.
+Diana. Anastasia, dan Lilis Setiawati, 2011,
+Sistem
+Informasi
+Akuntasi,
+Perancangan, Proses dan Penerapan,
+Andi, Yogyakarta.
+Djuandi. Feri, 2011, Pengenalan Arduino EBook, (www.tokobuku.com. diakses
+05 Mei 2015).
+
+Erinofiardi, 2012, Jurnal MEKANIKAL,
+Fakultas Teknik Universitas Bengkulu
+(261).
+M. Margolis, 2011, Arduino Cookbook,
+O’Reilly Media, Sebastapol.
+Meri. Wardana, 2011, Prinsip Kerja Relay,
+(www.meriwardanaku.com. diakses 05
+Mei 2015).
+Nazruddin. Safaat H, 2012, Pemrograman
+Aplikasi Mobile Smartphone dan
+Tablet PC Berbasis Android (Edisi
+Revisi), Informatika, Bandung.
+Pressman. Roger S, 2011, Software
+Engineering
+A
+Practitioner’s
+Approach, Sevent Edition.
+Rahmat. C. Antonius, 2010, Pengantar
+Teknologi
+mobile,
+(http://slideplayer.info/slide/1941359/,
+diakses 05 Mei 2015).
+Sulindawati, dan Fathoni, 2010, Pengantar
+Analisa Perancangan Sistem, Jurnal
+SAINTIKOM.
+Sutarman, 2012, Pengantar Teknologi
+Informasi, Bumi Aksara, Jakarta.
+Syahid, 2012, Rancangan Bangun Robot
+Beroda
+Berbasis
+Android
+Menggunakan Komunikasi USB, ISSN
+: 2252-4908 Vol 1 No 2.
+Utomo. Eko Priyo, 2012, From Newbie To
+Advanced,
+Mudahnya
+Membuat
+Aplikasi Android, Andi, Yogyakarta.
+Vinay. Chavan, and Sasankar, 2011, Journal
+of Computer Science & Technology
+(139).
+W. Simon, 2010, 30 Arduino Project Evil
+Jenius, The McGraw-Hill Companies,
+Inc.Ebook.
+Widodo. Budiharto, 2011, Aneka Proyek
+Mikrokontroler,
+Graha
+Ilmu,
+Yogyakarta.
+Winarno. Edi, 2011, Membuat Sendiri
+Aplikasi Android Untuk Pemula,
+PT.Elex Media Komputindo, Jakarta.
+Wiyancoko. Dudy, 2010, Desain Sepeda
+Indonesia, PT. Dumedia Desain,
+Jakarta.
+
+Seminar Nasional Sains dan Teknologi 2015
+Fakultas Teknik Universitas Muhammadiyah Jakarta , 17 November 2015
+
+9
+
+

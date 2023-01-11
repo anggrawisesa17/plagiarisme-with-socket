@@ -1,0 +1,1364 @@
+MEMBANGUN APLIKASI E-LIBRARY MENGGUNAKAN HTML, PHP SCRIPT,
+DAN MYSQL DATABASE
+Rini Sovia dan Jimmy Febio
+Abstract
+Penelitian Ini Bertujuan Untuk Memudahkan Pengunjung Mencari Informasi Tentang Konten
+Yang Diinginkannya Serta Memudahkan Petugas Pustaka Dalam Mengelola Data Operasional.
+Pengumpulan Data Dilakukan Dengan Survei Ke Perpustakaan, Mewawancarai Sejumlah
+Personil, Melakukan Riset Kepustakaan Dan Juga Riset Laboratorium. Metode Analisa Yang
+Digunakan Adalah Analisa Sistem Informasi (Asi) Dan Aplikasi Yang Dibangun Menggunakan
+Bahasa Html Dan Phpscript. Sedangkan Database Manajemen Yang Dipakai Adalah Mysql
+Database. Akhirnya Dapat Disimpulkan Bahwa Penerapan Sistem Yang Baru Akan
+Mempermudah Pengunjung Mencari Informasi Konten Yang Diinginkannya Dan Juga
+Memudahkan Petugas Pustaka Dalam Mengelola Data Operasional.
+1. PENDAHULUAN
+Banyak pembahasan mengenai penerapan teknologi informasi di perpustakaan sebelumnya
+dengan tujuan untuk mempermudah operasional (khususnya pekerjaan operator/pustakawan),
+namun setelah kunjungan penulis ke beberapa perpustakaan di sekolah-sekolah, perguruan tinggi,
+serta perpustakaan umum, penulis belum menemukan perpustakaan yang menyediakan akses
+mandiri bagi para pengunjungnya, segala urusan selain yang berhubungan dengan rak dan catalog
+harus di-handle oleh operator. Seperti pada perpustakaan pada umumnya, pada musim-musim
+tertentu mahasiswa membludak menanyakan skripsi dan tesis untuk referensi pada operator
+perpustakaan.
+Website adalah keseluruhan halaman-halaman web yang terdapat dalam sebuah domain
+yang mengandung informasi. Sebuah website biasanya dibangun atas banyak halaman web yang
+saling berhubungan. Hubungan antara satu halaman web dengan halaman web lainnya disebut
+dengan hiperlink, sedangkan teks yang dijadikan media penghubung disebut hypert.
+Untuk membangun sebuah web page dibutuhkan sebuah bahasapemrograman yang lebih
+dikenal dengan sebutan web scripting. Dikatakan script karena perintah kode program tersebut
+akan diinterpreter dan tidak ada kompilasi untuk menjadikannya e x ec ut a bl e. Berdasarkan
+letak proses interpreter maka web scripting dibagi menjadi dua kategori, yaitu yang bersifat
+client s i de dan server side. Client side dilakukan oleh web browser seperti Internet Explorer,
+Netscape, Opera, dan Firefox. Untuk contoh bahasa client side adalah HTML, CSS, Javascript,
+VBscript, dan XML. Sedangkan server side dilakukan oleh web server seperti PWS (Personal
+Web Server untuk Sistem Operasi Windows 98), IIS (untuk Sistem Operasi Windows
+2000/Windows XP), Apache, Tomcat, Xitami, dan ZOPE. Untuk contoh bahasa server side adalah
+ASP (.Net), PHP, JSP, CFM, dan CGI/PL.
+
+2. PENDEKATAN PEMECAHAN MASALAH
+Pengantar website
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+38
+
+Website adalah keseluruhan halaman-halaman web yang terdapat dalam sebuah domain
+yang mengandung informasi. Sebuah website biasanya dibangun atas banyak halaman web yang
+saling berhubungan. Hubungan antara satu halaman web dengan halaman web lainnya disebut
+dengan hiperlink, sedangkan teks yang dijadikan media penghubung disebut hypertext.
+Domain merupakan nama unik yang dimiliki oleh sebuah institusi sehingga bisa diakses
+melalui internet, misalnya yahoo.com, google.com, friendster.com, dll. Untuk bisa Istilah lain yang
+sehubungan dengan website adalah homepage. Homepage adalah halaman awal dari domain.
+Misalnya, membuka website www.yahoo.com, halaman pertama yang muncul disebut dengan
+homepage, jika mengklik menu-menu yang ada dan meloncat ke lokasi lainnya, disebut dengan
+web page, sedangkan keseluruhan isi/ conten domain disebut website.mendapatkan sebuah domain
+harus melakukan register pada registar-registar yang ditentukan.
+Jenis – Jenis Website
+Dalam pengelompokan jenis web, lebih diarahkan pada:
+1.
+Jenis-jenis web berdasarkan sifatnya adalah:
+a. Website dinamis, merupakan sebuah website yang menyediakan content atau isi yang
+selalu berubah-ubah setiap saat. Misalnya website berita, seperti, www.republika.co.id ,
+www.google.com.
+b. Website statis, merupakan website yang contentnya sangat jarang diubah. Misalnya web
+profil organisasi, seperti, www.yptk.ac.id
+2.
+Ditinjau dari segi bahasa pemrograman, website terbagi atas:
+a. Server side, merupakan website yang menggunakan bahasa pemrograman yang
+tergantung kepada tersedianya server. Seperti, PHP, ASP dan sebagainya. Jika tidak ada
+server, website yang dibangun menggunakan bahasa pemograman diatas tidak dapat
+berfungsi sebagaimana mestinya.
+b. Client side, adalah website yang tidak membutuhkan server dalam menjalankannya,
+cukup diakses melalui browser saja. Misalnya, html.
+3.
+Berdasarkan tujuannya, website dibagi atas:
+a. Personal web, website yang berisi informasi pribadi seseorang.
+b. Corporate web , website yang dimiliki oleh sebuah perusahaan.
+c. Portal web, website yang mempunyai banyak layanan, mulai dari layanan berita, email,
+dan jasa-jasa lainnya.
+d. Forum web, sebuah web yang bertujuan sebagai media diskusi.
+Konsep Dasar Jaringan
+Pada saat ini banyak program aplikasi yang dibuat telah menggunakan konsep jaringan.
+Hal ini dilakukan karena dengan adanya sistem jaringan, akan mempermudah kinerja dari
+suatu sistem berbasis komputer. Sebelum menerapkan sistem berbasis jaringan ini, tentunya
+kita harus paham terlebih dahulu mengenai apa itu jaringan komputer, bagaimana saja
+bentuk-bentuk topologi jaringan itu serta media-media yang digunakan untuk membangun
+sebuah jaringan.
+Media yang Digunakan Dalam Jaringan
+1. Ethernet Card
+Dikembangkan Xerox Corporation pada tahun 70-an dan menjadi populer pada tahun
+80-an karena diterima sebagai standar IEEE 802.3 (IEEE = Institute of Electrical and
+Electronics Engineers).
+2. FDDI (Fiber Distributed Optic Data Interchange)
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+39
+
+Menggunakan kabel fiber optik, bekerja berdasarkan dua ring konsentrik, masingmasing berkecepatan 1200 Mbps dengan menggunakan Token Passing Scheme.
+3. Media Komunikasi (Pengkabelan)
+Media komunikasi yang paling banyak digunakan dalam jaringan komputer adalah
+kabel. Media ini paling banyak digunakan karena disamping murah dan mudah didapat,
+Kabel yang bisa digunakan pun ada bermacam-macam dengan kemampuan dan
+karakteristik yang berbeda-beda pula. Misalnya kabel coaxial berbeda kemampuan dan
+karakteristiknya dengan kabel UTP.
+4. Concentrator
+Perangkat ini lebih sering disebut dengan hub. Perangkat ini digunakan sebagai
+sentral atau concentrator dalam jaringan. Sebagai sentral jaringan, berfungsi mengatur jalannya
+komunikasi dan transfer data.
+Jenis-Jenis Jaringan
+1.
+LAN (Local Area Network)
+LAN adalah suatu jaringan komputer dalam jarak yang dekat (dalam suatu
+ruangan/bangunan), seperti yang dimiliki oleh organisasi dan mempunyai kecepatan komunikasi
+data yang tinggi. Komponen dari suatu LAN terdiri atas :
+a. Peralatan pengkomputeran (komputer, modem, printer, storage dan sebagainya).
+b. Card rangkaian (Network Interface Card-NIC), sebagai portal (pintu) saat suatu computer
+dikomunikasikan dengan computer yang lain.
+c. Sistem perkabelan (kabel, connector, terminator dll), sebagai media transmisi (penghantar).
+d. Hub, sebagai sentral atau concentrator dalam jaringan, berfungsi mengatur jalannya
+komunikasi dan transfer data dalam sebuah jaringan komputer. Serta terdapat port-port tempat
+terhubungnya komputer dan perangkat dalam jaringan.
+e. Software LAN (Sistem Operasi, seperti NOS, Windows, Windows NT, Unix, Novell dan
+software aplikasi).
+2. MAN (Metropolitan Area Network)
+MAN merupakan LAN yang terhubung dengan LAN lainnya dalam jumlah besar yang dapat
+meliputi satu kota, dengan kecepatan transmisi data yang tinggi.
+Jenis sistem perkabelan dan metoda penghantaran data yang digunakan dalam MAN terdiri atas
+3, yaitu:
+a. FDDI (Fiber Distributed Data Interface), yaitu yang beroperasi pada kecepatan
+transmisi 100 Mbps, jarak maksimal 200 km tetapi tidak begitu cocok untuk
+penghantaran suara.
+b. DQDB (Dual Queue Dual Bus), yaitu yang telah diterima oleh IEEE 802.6 untuk MAN
+dengan kecepatan transmisi sampai 155 Mbps.
+c. SMDS (Switched Multimegabit Data Service), yaitu yang telah dibangun oleh perusahaan
+telepon yang digunakan untuk MAN dan WAN. Kecepatan tarnsmisi awal adalah dari
+1.54 Mbps (T1) sehingga 45 Mbps (T3). SMDS akan menggunakan rangkaian yang
+berasaskan paket (bingkisan) switch dengan kecepatan tarnsmisi yang tinggi dan dapat
+dihandalkan.
+3. WAN (Wide Area Network)
+
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+40
+
+WAN yaitu jaringan komputer dengan jarak jauh yang meliputi daerah, negeri maupun negara.
+Dalam WAN biasanya transmisi data tidak begitu cepat karena membutuhkan biaya yang sangat
+tinggi untuk kecepatan transmisi data yang tinggi (seperti pemakaian kabel serat optik).
+Konsep Dasar Database
+Database merupakan kumpulan file-file yang saling berkaitan dan berinteraksi, relasi tersebut
+bila ditunjukan dengan kunci dari tiap-tiap file yang ada. Satu database menunjukkan suatu
+kumpulan data yang dipakai dalam suatu lingkup perusahaan, instansi. Pengolahan database
+merupakan suatu cara yang dilakukan terhadap file-file yang berada di suatu instansi yang mana
+file tersebut dapat disusun, diurut, diambil sewaktu-waktu serta dapat ditampilkan dalam bentuk
+suatu laporan sehingga dapat mengolah file-file yang berisikan informasi tersebut secara rapi
+Kegunaan Database
+Suatu database dibentuk untuk mengatasi masalah yang sering dihadapi di dalam
+pengolahan data seperti :
+1. Redudansi dan Inkonsistensi Data
+Penyimpanan data yang sama pada beberapa tempat atau media penyimpanan yang
+mengakibatkan terjadinya pemborosan media penyimpanan. Penyimpanan data yang sama
+dan berulamg-ulang di
+beberapa file dapat mengakibatkan inkonsistensi (tindak
+konsisten).
+2. Keamanan Data
+Dengan database managemen, sistem kemananan data bisa dicapai. Misalnya: data
+mengenai gaji pengawai hanya boleh dibuka oleh bagian keuangan dan personalia, bagian
+lain tindak diperbolehkan menggunakannya dengan membuat suatu password dan
+wewenang atau userautorization.dan bersih
+3. Kesuliltan Mengakses Data
+Database dapat mengakses kesulitan dalam mengakses data karena
+mampu
+mengambil data secara langsung dengan program aplikasi yang mudah digunakan.
+4. Isolasi Data untuk Standarisasi
+Jika data tersebar dalam bentuk format yang tidak sama, maka ini menyulitkan dalam
+menulis program aplikasi untuk mengambil dan menyimpan data. Maka suatu database
+haruslah dibuat suatu format, sehingga mudah dibuat program aplikasinya.
+Relational Database
+Sebelum membahas lebih lanjut mengenai relasi terlebih dahulu kita harus memahami aturan
+dalam pemberian nama entity dan atributnya, berikut adalah aturan-aturan tersebut:
+a. Nama entity tidak boleh sama dalam satu database.
+b. Nama entity hendaknya menggambarkan nilai data yang akan diinputkan ke setiap fieldnya.
+c. Nama atribut tidak boleh sama dalam satu entity.
+Sebagai
+contoh
+kita
+akan
+menggambarkan
+entitas
+‘mhs’
+dengan
+atribut
+‘npm’,’nama’,’alamat’,dan ‘hobi’.
+nama
+npm
+
+alamat
+mhs
+
+hobi
+
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+41
+
+Relasi adalah sebuah representasi data lojik bukan fisik. Relasi menggambarkan struktur data
+tanpa memperhatikan bagaimana data disimpan atau diakses. Dalam manajemen basis data tipe
+relasi dibedakan berdasarkan:
+1. Degree
+Tipe-tipe relasi berdasarkan jumlah entity.
+a. Unary relationship, yaitu relasi yang menghubungkan satu entity.
+manages
+
+employee
+
+b. Binary relationship, yaitu relasi yang menghubungkan dua entity.
+employee
+
+department
+
+works in
+
+c. Ternary relationship, yaitu relasi yang menghubungkan tiga entity.
+employee
+
+is assigned to
+
+division
+
+project
+
+2. Cardinality
+Tipe-tipe relasi berdasarkan jumlah nilai data dalam suatu entiy yang dapat direlasikan.
+a. One to one, entity dengan jumlah maksimal nilai data 1 berelasi dengan entity sejenis.
+E1
+
+E1
+
+R
+
+R
+
+E2
+
+E2
+
+b. One to many, entity dengan jumlah maksimal nilai data 1 berelasi dengan entity dengan
+banyak nilai data.
+E1
+
+R
+
+E2
+
+E1
+
+R
+
+E2
+
+E1
+
+R
+
+E2
+
+E1
+
+R
+
+E2
+
+c. Many to many, entity dengan banyak nilai data berelasi dengan entity sejenis.
+E1
+
+R
+
+E2
+
+E1
+
+R
+
+E2
+
+E1
+
+R
+
+E2
+
+E1
+
+R
+
+E2
+
+Web Server dan Web Browser
+Kalau melihat di kamus, web artinya jaringan dan server artinya pelayan atau yang
+memberikan layanan. Jika digabungkan, artinya menjadi pelayan jaringan. Ada yang
+menerjemahkan Web Server sebagai sebuah istilah, yaitu sebuah program atau aplikasi atau sistem
+yang memberikan layanan yang berisi sekelompok kode-kode program berbasis teks, baik
+sederhana atau rumit dan bersifat universal yang sering disebut dengan HTML (HyperText Markup
+Language). HTML adalah dasar terbentuknya web. Dan kode-kode HTML tersebut, yang sifatnya
+universal tadi, akan diterjemahkan oleh komputer pengguna dengan bentuk tampilan yang sama
+baik itu teks, grafik atau bahkan multimedia.
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+42
+
+Web Browser adalah sebuah program komputer yang dibuat untuk menerjemahkan kodekode perintah HTML menjadi tampilan web di komputer pengguna berupa teks, gambar dan
+multimedia yang dapat dilihat dan dinikmati langsung. Tampilan web yang dihasilkan dapat dibaca
+dan dimengerti oleh orang awan sekalipun. Program ini dibuat dengan tujuan untuk
+mengeksplorasi layanan yang diberikan oleh web server yang diakses, tentunya dengan batasanbatasan yang ditetapkan oleh web server itu sendiri. Beberapa program penerjemah (istilah umum
+yang digunakan untuk ini adalah browser) antara lain Internet Explorer, Netscape, Mozilla
+FireFox, Opera, AvantBrowser dan lain-lain.
+Konsep Dasar HTML pemrograman yang lebih dikenal dengan sebutan web scripting.
+Dikatakan script karena perintah kode program tersebut akan diinterpreter dan tidak ada
+kompilasi untuk menjadikannya ex e c ut ab le . Berdasarkan letak proses interpreter maka we b
+scripting dibagi menjadi dua kategori, yaitu yang bersifat client s id e dan server side. Client
+side dilakukan oleh web browser seperti Internet Explorer, Netscape, Opera, dan Firefox. Untuk
+contoh bahasa client side adalah HTML, CSS, Javascript, VBscript, dan XML. Sedangkan server
+side dilakukan oleh web server seperti PWS (Personal Web Server untuk Sistem Operasi
+Windows 98), IIS (untuk Sistem Operasi Windows 2000/Windows XP), Apache, Tomcat,
+Xitami, dan ZOPE. Untuk contoh bahasa server side adalah ASP (.Net), PHP, JSP, CFM, dan
+CGI/PL.
+Web scripting yang bersifat client side akan menghasilkan web page yang tatis, artinya
+lebih menekankan pada desain format tampilan informasi dan informasi yang disajikan tidak
+dapat di-update seketika, karena tidak dapat dilakukan request interaktif dari pengguna dan
+proses tidak terjadi di server sehingga tidak akan menghasilkan output apapun. Sehingga
+sangatlah tidak mungkin untuk menciptakan aplikasi web yang bersifat dinamis dengan web
+scripting bersifat client side ini, tetapi harus dikombinasikan juga dengan web scripting yang
+bersifat serverside.
+HTML (Hypertext Markup Language) adalah bahasa dasar untuk web scripting bersifat
+client side yang memungkinkan untuk menampilkan informasi dalam bentuk teks, grafik, serta
+multimedia dan juga untuk menghubungkan antartampilan web page (hyperlink).
+Konsep Dasar PHP
+PHP merupakan script untuk pemrograman script web server-side, script yang membuat
+dokumen HTML secara on the fly, maksudnya dokumen HTML yang dihasilkan dari suatu aplikasi
+bukan dokumen HTML yang dibuat dengan menggunakan editor teks atau editor HTML.
+PHP/FI merupakan nama awal dari PHP. PHP adalah Personal Home Page, FI adalah Form
+Interface. Dibuat pertama kali oleh Rasmus Lerdoff. PHP, awalnya merupakan program yang
+dikhususkan untuk menerima input melalui form yang ditampilkan dalam browser web.
+Software ini disebarkan dan dilisensikan sebagai perangkat lunak Open Source.
+PHP secara resmi merupakan kependekan dari PHP Hypertext Preprocessor, merupakan
+bahasa script server-side yang disisipkan pada HTML. Berikut adalah contoh yang umum
+digunakan untuk menjelaskan tentang PHP sebagai script yang disisipkan dalam dokumen
+HTML:
+<html>
+<head> <title>Contoh</title> </head>
+<body>
+<?php echo “Tulisan ini dibuat dengan script PHP”; ?>
+</body>
+< /html>
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+43
+
+Kode/script PHP diapit dengan menggunakan tag awal dan tag akhir yang khusus (tag awal
+<?php atau <? dan tag akhir ?>), yang memungkinkan pemrogram untuk masuk dan keluar dari
+mode script PHP.
+Hal yang dapat dikerjakan PHP secara mendasar antara lain mendapatkan data dari form,
+menghasilkan isi halaman web yang dinamik, dan menerima cookies, namun kemampuan (Feature)
+PHP yang paling diandalkan dan signifikan adalah dukungan kepada banyak database. Berikut
+adalah daftar database yang didukung oleh PHP:
+
+Adabas D
+dBase
+Empress
+FilePro(read
+only)
+FrontBase
+Hyperwave
+
+Tabel 1. Database yang Didukung PHP
+IBM DB2
+MySQL
+SQLite
+Informix
+ODBC
+Sybase
+Ingres
+Oracle(OCI7
+dan
+Velocis
+OCI8)
+Interbase
+Ovrimos
+Unix DBM
+MSQL
+Direct MS
+SQL
+
+PostgreSQL
+Solid
+
+PHP juga mendukung komunikasi dengan layanan lain menggunakan protokol IMAP, SNMP,
+NNTP, POP3, HTTP, dan lainnya yang tidak terhitung.
+Konsep Dasar Database MySQL
+Database secara sederhana, dapat kita sebut sebagai gudang data. secara teori, database
+adalah kumpulan data atau informasi yang kompleks, data-data tersebut disusun menjadi
+beberapa kelompok dengan tipe data yang sejenis disebut table/entity), di mana setiap datanya
+dapat saling berhubungan satu sama lain atau dapat berdiri sendiri, sehingga mudah diakses.
+MySQL merupakan database yang awalnya hanya berjalan pada sistem Unix dan Linux.
+Seiring berjalannya waktu dan banyaknya peminat yang menggunakan database ini, MySQL merilis
+versi yang dapat diinstal pada hampir semua platform, termasuk Windows.
+Lisensi dari MySQL adalah freeware. Kita dapat mendownload dan menggunakannya tanpa
+harus membayarnya. Meskipun kita menjual produk menyertakan software MySQL, kita tidak
+melanggar hak cipta.
+Mungkin bagi kita yang baru dengan MySQL akan bingung dengan dua kata "SQL" dan
+"MySQL". Pertanyaan yang mungkin muncul adalah, apakah SQL itu sebenarnya, dan apa bedanya
+dengan MySQL?
+SQL merupakan kependekan dari kata "Structured Query Language". SQL merupakan suatu
+bahasa permintaan yang terstruktur yang melekat pada satu database atau SMBD tertentu, sedangkan
+MySQL merupakan databasenya. Dengan kata lain, MySQL merupakan SMBD-nya dan SQL adalah
+perintah atau bahasa yang melekat di dalam SMBD tersebut.
+Struktur dasar dari ekspresi SQL terdiri dari tiga klausa, yaitu : select, from dan where.
+a. Select
+Operasi ini digunakan untuk mendaftar semua atribut yang diinginkan sebagai hasil suatu
+query.
+b. From
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+44
+
+Operasi ini mencatat semua relasi yang di”scan” dalam evaluasi suatu query.
+c. Where
+Operasi ini terdiri dari sebuah predikat yang menyangkut atributatribut dari relasi yang
+muncul dalam klausa from.
+Sebagai contoh kita hendak menampilkan isi dari field Nama dan Alamat pada table Anggota
+bergabung pada tahun 2006 (neme field: Tahun), maka kita dapat menuliskan query sebagai
+berikut:
+SELECT Nama, Alamat FROM Anggota WHERE Tahun = ‘2006’ ;
+Sedangkan ekspresi dasar dalam modifikasi data ada 3, yaitu:
+a. Delete
+Misalkan kita hendak menghapus data anggota dengan nomor 001 (nama field:
+no_anggota), maka kita dapat menuliskan query sebagai berikut:
+DELETE FROM Anggota WHERE no_anggota = ‘001’ ;
+b. Insert
+Misalkan kita hendak memasukan data anggota dengan nomor (no_agt) 002, nama
+(nama_agt) Jimmy, dan alamat (alamat_agt) Padang, maka kita dapat menuliskan query sebagai
+berikut:
+INSERT INTO Anggota (no_agt, nama_agt, alamat_agt) VALUES (‘002’, ’Jimmy’,
+’Padang’);
+c. Update
+Misalkan kita hendak mengganti nama anggota (nama_agt) dengan nomor 001 (no_agt)
+dengan Dodi, maka kita dapat menuliskan query sebagai berikut:
+UPDATE Anggota SET nama_agt = ’Dodi’ WHERE no_agt = ‘001’ ;
+3. PEMBAHASAN
+Dalam rangka analisa dan pengembangan sistem ini, kegiatan yang akan dilakukan adalah
+menitikberatkan pada penelitian dan penjabaran daripada sistem yang sedang berjalan dan juga
+untuk menentukan permasalahan dan hambatan yang terjadi serta kebutuhan sistem yang
+diperlukan. Untuk mendapatkan suatu kebutuhan yang nyata secara detail sesuai dengan data yang
+ada dalam penelitian.
+Langkah analisa dan pengembangan ini merupakan suatu pekerjaan yang sangat menentukan
+sekali untuk dapat mengetahui lebih lanjut mengenai sistem lama. Oleh karena itu dalam
+melaksanakan kegiatan ini harus hati-hati dan secermat mungkin sehingga kendala-kendala dapat
+diketahui secara detail, mengetahui kekurangan, kelebihan, dan masalah yang terdapat pada sistem
+yang lama. Hal ini memudahkan kita dalam melakukan pengembangan sistem baru tersebut
+sehingga apa yang diinginkan akan berjalan dengan baik dan sistem lama dapat di jadikan sebagai
+perbandingan untuk pengembangan sistem baru.
+3.1. Aliran Sistem yang Sedang Berjalan
+Pada aliran sistem ini dapat dilihat proses yang terjadi untuk menjadi anggota perpustakaan
+adalah sebagai berikut:
+1. Registrasi Anggota
+Bagan aliran sistem registrasi tersebut adalah sebagai berikut :
+
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+45
+
+P e n g u n ju n g
+
+K e p a la P u s ta k a
+
+P e tu g a s P u s ta k a
+
+Form ulir
+Penda ftaran
+
+Form ulir
+Pe ndaftaran
+
+M engisi Formulir
+
+Form ulir
+Telah Diisi
+
+Form ulir
+Telah Diisi
+
+Pen catatan ke Dafta r Anggota
+da n Pem bua tan tiket
+pem injam an
+
+1
+
+Tiket Pem inja man
+
+2
+
+3
+
+4
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+
+Daftar An ggota
+
+Daftar Anggota
+
+Tiket Pem injam an
+
+A
+
+A
+
+A
+
+Gambar 1. Aliran Sistem yang Sedang Berjalan (Registrasi)
+2. Peminjaman dan Pengembalian Buku (Sirkulasi)
+Bagan aliran sistem sirkulasi tersebut adalah sebagai berikut:
+A n g g o ta
+
+P e tu g a s P u s ta k a
+
+T ik e t P e m in ja m a n
++ B u ku
+
+T ike t P e m in ja m a n
++B u ku
+
+K e p a la P u s ta k a
+
+P e n g e c e ka n
+
+T ike t P e m in ja m a n
++B u ku
+t e la h d ic e k
+
+P e n ca t a ta n d a t a ke B u ku P e m in ja m a n
+
+B u ku
+
+B u ku
+
+T ike t P e m in ja m a n
+
+A
+
+A
+
+B u ku
+
+B u ku
+
+L a p o ra n P e m in ja m a n &
+P e n g e m b a lia n
+
+P e n g e ce ka n
+A
+
+B u ku
+t e la h d ic e k
+
+P e n ca ta t a n d a t a k e B u k u P e m in ja m a n
+
+T ike t P e m in ja m a n
+T ike t P e m in ja m a n
+
+B u ku
+
+A
+
+2
+A
+
+1
+L a p o ra n P e m in ja m a n &
+P e n g e m b a lia n
+
+A
+
+Gambar 2. Aliran Sistem yang Sedang Berjalan (Sirkulasi)
+Usulan Sistem Informasi Baru
+Dari sistem informasi diatas dapat dilihat kelemahan-kelemhan yang terdapat pada sistem
+lama di perpustakaan tersebut, sehingga penulis memberikan suatu usulan sistem perancangan
+berupa:
+1. Membuat suatu program aplikasi dengan fitur yang membantu mempermudah kegiatan
+operasional penyimpanan dan pengolahan data, sirkulasi (transaksi peminjaman dan
+pengembalian konten fisik), serta pelaporan data peminjaman dan pengembalian buku, datadata sepenuhnya diolah menggunakan komputer yang penyimpanannya menggunakan Hard
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+46
+
+Disk Drive sehingga waktu yang diperlukan untuk proses penyimpanan, pengeditan,
+penghapusan, dan pelaporan menjadi lebih singkat.
+2. Menyediakan fitur yang memungkinkan anggota dapat melakukan pencarian / penelusuran
+sendiri mengenai informasi tentang konten-konten yang dibutuhkannya.
+3.2. Desain Sistem
+Desain sistem merupakan tahap setelah analisa sistem. Dimana tahap desain sistem terdiri
+dari dua tahap yaitu tahap desain secara global dan tahap desain secara terinci.
+3.2.1. Desain Global
+Desain secara umum atau desain global dapat didefinisikan sebagai suatu gambaran,
+perencanaan atau pembuatan sketsa pengaturan dari beberapa elemen dalam suatu rancangan
+sistem. Tujuan dari disain global adalah memberikan gambaran secara umum kepada user tentang
+sistem yang baru. Rancangan sistem mengidentifikasikan komponen-komponen sistem informasi
+yang akan didisain secara rinci.
+Aliran Sistem Informasi (ASI) yang Diusulkan
+User memasuki situs, jika belum terdaftar sebagai member user harus registrasi dahulu,
+kemudian login dan melakukan penelusuran terhadap konten yang dibutuhkan. Jika tertarik user
+dapat men-download atau mencetak (konten) digital) atau mengunjungi perpustakaan dan
+melakukan proses sirkulasi (konten fisik / katalog).
+U se r
+
+P e tu g a s P u sta ka
+
+Home Page
+(Guest Zone)
+
+D a ta b a se Se rve r
+
+K e p a l a Pu sta ka
+
+Home Page
+(Guest Zone)
+
+Login
+
+Jika belum
+ada ID
+
+Administr ator Zone
+page
+
+Login
+
+Sear ching
+
+isi form
+
+Member Zone page
+
+Content Page
+
+Data Konten
+
+Data Konten
+
+Sear ching
+
+Jika Tidak
+Ter tarik
+
+Content Page
+
+input data konten
+
+Logout
+Jika Tidak
+Tertarik
+Log Page
+Logout
+Data User
+
+get new ID
+Log Page
+
+input data user
+
+Data User
+jika konten
+digital
+
+download/cetak
+kar tu sementar a
+konten telah
+di- dowload/dicetak
+A
+A
+
+kunjungi
+per pustakaan
+
+jika belum
+punya tiket
+
+kartu sementar a
+
+kartu sementara
+
+pengecekan
+
+1
+
+Tike t Pe min ja ma n
+
+1
+
+A
+
+2
+
+3
+
+4
+1
+
+2
+
+3
+
+4
+
+Tike t Pe min ja ma n
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+47
+
+U se r
+
+D a ta b a s e S e rv e r
+
+P e tu g a s P u s ta k a
+
+1
+
+2
+
+T ike t P e m in ja m a n
++B u ku
+
+3
+
+4
+
+5
+
+K e p a la P u s ta k a
+
+6
+
+T ike t P e m in ja m a n
++ B u ku
+
+P e n g e c e ka n
+
+T ike t P e m in ja m a n
++ B u ku
+t e la h d ice k
+
+is i fo rm s irk u la s i
+(lo a n )
+
+B u ku
+
+B u ku
+
+T ike t P e m in ja m a n
+
+A
+
+A
+
+B u ku
+
+in p u t d a ta
+s irk u la s i
+
+B u ku
+
+Database Per pustakaan
+
+Circulation
+Report
+
+User Report
+
+Content
+Report
+
+P e n g e ce ka n
+
+A
+
+A
+
+A
+
+B u ku
+t e la h d ice k
+
+is i f o rm sirk u la si
+(p o st )
+
+B u ku
+
+T ike t P e m in ja m a n
+T ik e t P e m in ja m a n
+
+A
+
+A
+
+2
+
+2
+
+1
+Circulation
+Report
+
+A
+
+2
+
+1
+
+1
+Content
+Report
+
+User Report
+
+A
+
+A
+
+Gambar 3. Aliran Sistem Informasi yang Diusulkan
+Context Diagram
+Context digram merupakan alat bantu perancangan sistem secara global yang
+memperlihatkan hubungan antara entity-entity dari aliran sistem informasi utama dalam sebuah
+sistem. Context digram memperlihatkan input, output, dan hubungannya dengan proses serta
+batasan sistem. Context diagram menggambarkan sistem secara logika.
+User
+
+- Data User (saat Get New ID)
+- Buku + tiket peminjaman
+- Search keyword
+
+- Kartu Sementara (saat Get New ID)
+- konten yang diinginkan
+- buku
+- Tiket Peminjaman
+
+- Data Konten
+- Kartu Sementara
+- Tiket Peminjaman
+- Buku+ tiket peminjaman
+
+- Data User (saat Get New ID)
+- Buku + tiket peminjaman
+- Data Konten
+- Search keyword
+
+0
+Sistem Informasi
+Perpustakaan Bahasa Inggris
+FBSS UNP
+
+Database Server
+
+- konten yang diinginkan
+- User Report
+- Content Report
+- Circulation Report
+
+- User Report
+- Content Report
+- Circulation Report
+
+- User Report
+- Content Report
+- Circulation Report
+
+P etugas P us tak a
+
+Kepala Pustaka
+
+Gambar 4. Context Diagram
+Data Flow Diagram
+Data flow diagram (DFD) atau bagan alir data digunkan untuk menggambarkan sistem secara
+logika tanpa memperhatikan lingkungan fisik dimana data tersebut mengalir atau akan disimpan.
+Data flow diagram merupakan alat pengembangan arus data dalam sistem secara terstruktur dan
+jelas.
+
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+48
+
+Kartu sementara
+6.0
+
+Kartu sementara
+4.0
+User
+
+Data user
+
+Data user
+
+user
+Data user
+
+get new ID
+
+Kartusementara
+
+-Buku
+
+- Tiket peminjaman+buku
+
+5.0
+Database Server
+
+8.0
+
+Tike
+peminjaman
+
+D2
+
+Konfirmasi
+
+pengecekan
+
+Input Data User
+
+Data user
+
+Kartu sementara
+Petugas Pustaka
+
+7.0
+Pengambilan tiket
+
+Data Konten
+
+Kartu sementara
+
+1.0
+9.0
+Sirkulasi
+
+Data Konten
+
+3.0
+
+Konten yang diinginkan
+
+Isi Form Input
+Data Konten
+
+- Tiket peminjaman + buku
+- Buku
+
+Database Server
+
+Data Konten
+
+Download
+
+Data Konten
+2.0
+D1
+
+Data Konten
+
+- buku
+- tiket peminjaman
+11.0
+input data
+Sirkulasi
+
+Input Data Konten
+
+metadata
+
+Data Konten
+10.0
+data
+sirkulasi
+
+Database Server
+
+data sirkulasi
+
+isi form sirkulasi
+
+data sirkulasi
+
+Data user
+Data user
+
+data sirkulasi
+
+14.0
+validasi laporan
+
+- User Report (valid)
+- Content Report (valid)
+- Circulation Report (valid)
+
+- User Report
+- Content Report
+- Circulation Report
+
+D3 peminjaman
+
+12.0
+
+data sirkulasi
+
+Pembuatan Laporan
+- User Report
+- Content Report
+- Circulation Report
+
+13.0
+
+Kepala Pustaka
+
+- User Report
+- Content Report
+- Circulation Report
+
+penyerahan laporan
+pada kepala pustaka
+
+- User Report
+- Content Report
+- Circulation Report
+
+Petugas Pustaka
+
+Gambar 5. Data Flow Diagram Level 0
+3.2.1.1. Entity Relationship Diagram
+Hubungan antar entity, dimana untuk menghubungkan entity tersebut digunakan keyfield
+(primary key atribut) dari masing-masing entity. Entity relationship diagram (ERD) digunakan
+sebagai penerjemah dari model dunia nyata yaitu data yang belum terstruktur secara nyata terkait
+dlam sebuah lingkup topik yang sedang ditinjau. Dimana data tersebut mengandung arti sebuah
+kejadian nyata yang terjadi pada suatttu waktu tertentu. Untuk mendapatkan suatu informasi, maka
+data tersebu terlebih dahulu harus mengalami proses pengolahan
+Model ERD berisi komponen-komponen entitas dan hipunan relasi yang dilengkapi dengan
+atribut yang mempresentasikan seluruh fakta dunia nyata yang ditinjau, dapat digambarkan secara
+sistematis dengan ERD seperti gambar dibawah ini:
+
+lastnam e
+
+id
+
+address
+
+firstnam e
+
+lamo
+
+noreg
+
+department
+
+rent
+
+log
+User
+
+status
+
+Pem injam an
+
+m em injam
+
+pass
+tglpnjm
+
+id
+
+em ail
+
+posted
+tglkmbl
+
+aktif
+
+denda
+
+dipinjam
+noreg
+
+status
+
+judul
+
+tipe
+
+pengarang
+
+abstrak
+
+M etadata
+
+cn
+
+edisi
+isbn
+
+kolasi
+penerbit
+
+th_terbit
+
+subjek
+
+Gambar 6. Entity Relationship Diagram
+
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+49
+
+3.2.1.2. Struktur Program
+Struktur program merupakan perancangan secara umum mengenai aplikasi yang dibuat,
+sehingga dapat membantu dan memudahkan dalam pemahaman aplikasi yang akan digunakan.
+Untuk mengetahui struktur dari apliaksi, dapat dilihat di bawah ini:
+M E N U
+
+Profile
+
+Profile
+
+Contact
+
+Contact
+
+E-Book
+
+Piper/Skripsi/Tesis
+
+Collection
+
+Artikel/Jurnal
+
+Collection
+
+Service
+
+Piper/Skripsi/Tesis
+
+E-Book
+
+Service
+
+Catalog
+
+Artikel/Jurnal
+
+Search
+
+Other
+
+Catalog
+
+Member List
+
+All
+
+Other
+
+Get New ID
+
+All
+
+Renew My ID
+
+Reference
+
+Logout
+
+Current Info
+
+About
+
+Consultation
+
+Reference
+Current Info
+Consultation
+
+Search
+
+Profile
+
+E-Book
+
+Collection
+
+Artikel/Jurnal
+
+Service
+
+Catalog
+
+Member
+
+Content
+
+Other
+
+Administrator
+
+User
+
+All
+
+Get Member ID
+Login
+
+Piper/Skripsi/Tesis
+
+Contact
+
+Activation
+Reference
+Loan
+
+About
+
+Current Info
+Post
+Consultation
+Report
+Search
+
+Circulation Report
+
+Logout
+
+Content Report
+
+About
+
+User Report
+
+Gambar 7. Struktur Program
+Rancangan Antar Muka (User Interface)
+1. Desain Login
+
+Gambar 8. Desain Login
+2.
+
+Desain Searching
+
+Gambar 9. Desain Searching
+
+3.
+
+Desain Input Data User
+
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+50
+
+Gambar 10. Desain Input Data User
+4.
+
+Desain Input Data Konten
+
+Gambar 11. Desain Input Data Konten
+5.
+6.
+
+Desain Input Data Peminjaman
+Desain Input Data Peminjaman
+
+Gambar 12. Desain Input Data Peminjaman
+
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+51
+
+Gambar 13. Konfirmasi Data Peminjaman
+7.
+
+Desain Input Data Pengembalian
+
+Gambar 14. Desain Input Data Pengembalian
+
+Gambar 15. Konfirmasi Data Pengembalian
+4. KESIMPULAN
+Berdasarkan hasil penelitian yang dilakukan pada Perpustakaan , maka dapat diambil
+beberapa kesimpulan diantaranya:
+1. Melihat perkembangan perpustakaan baik dari segi konten yang disediakan, jumlah
+anggota dan jumlah sirkulasi menyebabkan sistem pencatatan manual dan pengarsipan
+manual dirasa tidak efisien lagi, sehingga perlu diterapkannya sistem baru yang mengatasi
+permasalahan yang ada.
+2. Dengan diterapkannya aplikasi E-Library untuk pelayanan informasi dan proses
+operasional perpustakaan memungkinkan pengunjung dapat mengakses sendiri informasi
+tentang konten yang diinginkannya, dan petugas pustaka (pustakawan) lebih mudah dan
+cepat dalam menangani pencatatan data konten, anggota, sirkulasi dan pembuatan laporan.
+3. Dengan diterapkannya aplikasi berbasis web pada Perpustakaan maka informasi dapat
+diakses secara realtime dan online.
+
+DAFTAR PUSTAKA
+
+Arifin, Zaenal dkk. 2000. Cermat Berbahasa Indonesia Untuk perguruan Tinggi. Jakarta: Akapres
+Eko Indrajit, Richardus. 2001. Manajemen Sistem Informasi dan Teknologi Informasi. Jakarta: PT.
+Gramedia
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+52
+
+Fathansyah. 2001. Basis Data. Bandung: Informatika
+http://agnianet.webgoo.us/browser-f1/macam-macam-browser-t2.htm
+http://muhammaderfan.wordpress.com/2008/08/03/web-server-dan-web-browser/
+http://stibanas.ac.id/~download/linux_opensource/artikel+tutorial/linux_server/web/apache/apache
+_web_server.pdf
+Jack, Febian. 2004. Pengetahuan Komputer dan Teknologi Informasi.. Bandung: Informatika
+Jogiyanto HM. 2001. Analisa & disain : Sistem informasi pendekatan terstruktur
+teori dan praktek aplikasi bisnis. Andi Offset. Yogyakarta
+Jogiyanto HM. 2005. Pengenalan Komputer; dasar ilmu komputer, pemrograman,
+sistem informasi dan inteligensi buatan, Ed.V. Yogyakarta: Andi Offset
+Kadir, Abdul. 2003. Pengenalan Sistam Informasi. Yogyakarta: Andi
+Kristanto, A. 2008. Jadi Hacker, Siapa Takut!!. Yogyakarta: Universitas Atma Jaya
+Na’am, Jufriadif. 2007. Komunikasi Data dan Jaringan Komputer. Jaringan Komputer UPIYPTK.pdf
+Noerhayati, S. 2000. Pengelolaan Perpustakaan. Bandung: Percetakan Offset Alumni
+Nugroho, Adi. Analisis dan Perancangan Sistem Informasi dengan Metodologi Berorientasi
+Objek. Informatika. Bandung. 2002
+Nugroho, Bunafit. 2008. Panduan Lengkap Menguasai Perintah SQL. Jakarta: Mediakita
+PHP_Point_of_Sale_9.1. Belajar Pintar Ala Retail. SDA Asia Magazine CD. vol 16. 2006.
+Jakarta: PT Galva Technovision
+Sidik, Betha. 2006. Pemrograman Web dengan PHP. Bandung: Informatika
+Sopiandi, Dede. 2004. Instalasi dan konfigurasi jaringan komputer. Bandung: Informatika
+Supono. 2006. Pemrograman Web dengan JavaScript. Bandung: CV.Yrama Widya
+Suteja, Benard Renaldy dkk. 2007. Mudah dan Cepat Menguasai Pemrograman Web.
+Bandung: Informatika
+Syafrizal, Melwin. 2007. Pengantar Jaringan Komputer. Jakarta: Andi Offset
+www.ilmukomputer.org
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+53
+
+www.purnama.info
+
+Jurnal PROCESSOR Vol. 6, No.2, Agustus 2011 – STIKOM Dinamika Bangsa - Jambi
+
+54
+
+

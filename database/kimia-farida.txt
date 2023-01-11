@@ -1,0 +1,835 @@
+PROSES PENGOLAHAN AIR SUNGAI UNTUK KEPERLUAN AIR MINUM
+FARIDA HANUM, ST
+Fakultas Teknik
+Program Studi Teknik Kimia
+Universitas Sumatera Utara
+
+PENDAHULUAN
+1.1. Air
+Air merupakan sumber alam yang sangat penting di dunia, karena tanpa air
+kehidupan tidak dapat berlangsung. Air juga banyak mendapat pencemaran. Berbagai
+jenis pencemar air berasal dari :
+a. Sumber domestik (rumah tangga), perkampungan, kota, pasar, jalan, dan
+sebagainya.
+b. Sumber non-domestik (pabrik, industri, pertanian, peternakan, perikanan,
+serta sumber-sumber lainnya.
+Semua bahan pencemar diatas secara langsung ataupun tidak langsung akan
+mempengaruhi kualitas air. Berbagai usaha telah banyak dilakukan agar kehadiran
+pencemaran terhadap air dapat dihindari atau setidaknya diminimalkan.
+Masalah pencemaran serta efisiensi penggunaan sumber air merupakan
+masalah pokok. Hal ini mengingat keadaan perairan-alami di banyak negara yang
+cenderung menurun, baik kualitas maupun kuantitasnya.
+1.2. Karakteristik Air
+2.2.1. Karakteristik Fisik Air
+A. Kekeruhan
+Kekeruhan air dapat ditimbulkan oleh adanya bahan-bahan anorganik dan
+organik yang terkandung dalam air seperti lumpur dan bahan yang dihasilkan
+oleh buangan industri.
+B. Temperatur
+Kenaikan temperatur air menyebabkan penurunan kadar oksigen terlarut.
+Kadar oksigen terlarut yang terlalu rendah akan menimbulkan bau yang tidak
+sedap akibat degradasi anaerobic ynag mungkin saja terjadi.
+C. Warna
+Warna air dapat ditimbulkan oleh kehadiran organisme, bahan-bahan
+tersuspensi yang berwarna dan oleh ekstrak senyawa-senyawa organik serta
+tumbuh-tumbuhan.
+D. Solid (Zat padat)
+Kandungan zat padat menimbulkan bau busuk, juga dapat meyebabkan
+turunnya kadar oksigen terlarut. Zat padat dapat menghalangi penetrasi sinar
+matahari kedalam air.
+
+2002digitized by USU digital library
+
+1
+
+E. Bau dan rasa
+Bau dan rasa dapat dihasilkan oleh adanya organisme dalam air seperti alga
+serta oleh adanya gas seperti H2S yang terbentuk dalam kondisi anaerobik,
+dan oleh adanya senyawa-senyawa organik tertentu
+1.3. Karakteristik Kimia Air
+A. pH
+Pembatasan pH dilakukan karena akan mempengaruhi rasa, korosifitas air dan
+efisiensi klorinasi. Beberapa senyawa asam dan basa lebih toksid dalam bentuk
+molekuler, dimana disosiasi senyawa-senyawa tersebut dipengaruhi oleh pH.
+B. DO (dissolved oxygent)
+DO adalah jumlah oksigen terlarut dalam air yang berasal dari fotosintesa dan
+absorbsi atmosfer/udara. Semakin banyak jumlah DO maka kualitas air
+semakin baik. Satuan DO biasanya dinyatakan dalam persentase saturasi.
+C. BOD (biological oxygent demand)
+BOD adalah banyaknya oksigen yang dibutuhkan oleh mikroorgasnisme untuk
+menguraikan bahan-bahan organik (zat pencerna) yang terdapat di dalam air
+buangan secara biologi. BOD dan COD digunakan untuk memonitoring
+kapasitas self purification badan air penerima.
+Reaksi:
+Zat Organik + m.o + O2 →
+(CHONSP)
+
+CO2 + m.o + sisa
+
+material organik
+
+D. COD (chemical oxygent demand)
+COD adalah banyaknya oksigen yang di butuhkan untuk mengoksidasi
+bahan-bahan organik secara kimia.
+Reaksi:
++ 95%terurai
+ → CO2 + H2O
+Zat Organik + O2
+E. Kesadahan
+Kesadahan air yang tinggi akan mempengaruhi efektifitas pemakaian sabun,
+namun sebaliknya dapat memberikan rasa yang segar. Di dalam pemakaian
+untuk industri (air ketel, air pendingin, atau pemanas) adanya kesadahan
+dalam air tidaklah dikehendaki. Kesadahan yang tinggi bisa disebabkan oleh
+adanya kadar residu terlarut yang tinggi dalam air.
+F. Senyawa-senyawa kimia yang beracun
+Kehadiran unsur arsen (As) pada dosis yang rendah sudah merupakan racun
+terhadap manusia sehingga perlu pembatasan yang agak ketat (± 0,05 mg/l).
+Kehadiran besi (Fe) dalam air bersih akan menyebabkan timbulnya rasa dan
+bau ligam, menimbulkan warna koloid merah (karat) akibat oksidasi oleh
+oksigen terlarut yang dapat menjadi racun bagi manusia.
+
+2002digitized by USU digital library
+
+2
+
+BAB II
+PROSES PENGOLAHAN AIR
+Proses pengolahan air menjadi air bersih harus melalui beberapa tahapantahapan, yaitu :
+1. Screening
+Screening berfungsi untuk memisahkan air dari sampah-sampah dalam ukuran
+besar.
+2. Tangki sedimentasi
+Tangki sedimentasi berfungsi untuk mengendapkan kotoran-kotoran berupa
+lumpur dan pasir. Pada tangki sedimentasi terdapat waktu tinggal. Ke dalam
+tangki sedimentasi ini diinjeksikan klorin yang berfungsi sebagai oksidator dan
+desinfektan. Sebagai oksidator klorin digunakan untuk menghilangkan bau dan
+rasa pada air.
+3. Klarifier (clearator)
+Klarifier berfungsi sebagai tempat pembentukan flok dengan penambahan larutan
+Alum (Al2(SO4)3 sebagai bahan. Pada klarifier terdapat mesin agitator yang
+berfungsi sebagai alat untuk mempercepat pembentukan flok. Pada klarifier terjadi
+pemisahan antara air bersih dan air kotor. Air bersih ini kemudian disalurkan
+dengan menggunakan pipa yang besar untuk kemudian dipompakan ke filter.
+Klarifier terbuat dari beton yang berbentuk bulat yang dilengkapi dengan
+penyaring dan sekat.
+Dari inlet pipa klarifier, air masuk ke dalam primary reaction zone. Di
+dalam prymari reaction zone dan secondary reaction zone,air dan bahan kimia
+(Koagulan yaitu tawas) diaduk dengan alat agitataor blade agar tercampur
+homogen. Maka koloid akan membentuk butiran-butiran flokulasi.
+Air yang telah bercampur dengan koagulan membentuk ikatan flokulasi,
+masuk melalui return floc zone dialirkan ke clarification zone. Sedimen yang
+mengendap dalam concentrator dibuang. Hal ini berlangsung secara otomatis
+yang akan terbuka setiap satu jam sekali dalam waktu 1 menit. Air yang masuk
+ke dalam clarification zone sudah tidak dipengaruhi oleh gaya putaran oleh
+agitator, sehingga lumpurnya mengendap. Air yang berada dalam clarification
+zone adalah air yang sudah jernih.
+4. Sand Filter
+Penyaring yang digunakan adalah rapid sand fliter (filter saringan cepat).
+Sand filter jenis ini berupa bak yang beriisi pasir kwarsa yang berfungsi untuk
+menyaring flok halus dan kotoran lain yang lolos dari klarifier (clearator). Air yang
+masuk ke filter ini telah dicampur terlebih dahulu dengan klorin dan tawas.
+Media penyaring biasanya lebih dari satu lapisan, yaitu pasir kwarsa dan
+batu dengan mesh tertentu. Air mengalir ke bawah melalui media tersebut.Zat-zat
+padat yang tidak larut akan melekat pada media, sedangkan air yang jernih akan
+terkumpul di bagian dasar dan mengalir keluar melalui suatu pipa menuju
+reservoir.
+
+2002digitized by USU digital library
+
+3
+
+5. Reservoir
+Reservoir berfungsi sebagai tempat penampungan air bersih yang telah
+disaring melalui filter, air ini sudah menjadi airyang bersih yang siap digunakan
+dan harus dimasak terlebih dahulu untuk kemudian dapat dijadikan air minum.
+
+Gambar 2.1. Proses Pengolahan Air Minum
+
+2.1. Zat-zat kimia yang digunakan
+2.1.1. Tawas
+Tawas merupakan bahan koagulan yang paling banyak digunakan karena
+bahan ini paling ekonomis, mudah diperoleh di pasaran serta mudah
+penyimpanannya.
+Jumlah pemakaian tawas tergantung kepada turbidity (kekeruhan) air baku.
+Semakin tinggi turbidity air baku maka semakin besar jumlah tawas yang
+dibutuhkan. Pemakain tawas juga tidak terlepas dari sifat-sifat kimia yang
+dikandung oleh air baku tersebut. Reaksi yang terjadi sebagai berikut:
+Al2(SO4)3
+
+→
+
+2 Al+3
+
++
+
+3(SO4)-2
+
+Air akan mengalami :
+H2O
+
+→
+
+H+ +
+
+OH-
+
+6OH-
+
+→
+
+Selanjutnya :
+2 Al+3
+
++
+
+2Al(OH)3
+
+Selain itu akan dihasilkan asam :
+3(SO4)-2
+
++
+
+6H+
+
+→
+
+3H2SO4
+
+Dengan demikian makin banyak dosis tawas yang ditambahkan maka pH akan
+semakin turun, karena dihasilkan asam sulfat sehingga perlu dicari dosis tawas
+2002digitized by USU digital library
+
+4
+
+yang efektif antara pH 5,8-7,4. Apabila alkalinitas alami dari air tidak
+seimbang dengan dosis tawas perlu ditambahkan alkalinitas, biasanya
+ditambahkan larutan kapur (Ca(OH)2) atau soda abu (Na2CO3). Reaksi yang
+terjadi :
+Al2(SO4)3 + 3Ca(HCO3)2
+
+→ 2Al(OH3) + 3CaSO4 +
+
+Al2(SO4)3 + 3Na2CO3 + 3H2O
+
+→
+
+Al2(SO4)3 + 3Ca(OH)2
+
+→ 2Al(OH3) + 3CaSO4
+
+6CO2
+
+2Al(OH3) + 3Na2SO4 + 3CO2
+
+2.1.2. Kapur
+Pengaruh penambahan kapur (Ca(OH)2 akan menaikkan pH dan bereaksi
+dengan bikarbonat membentuk endapan CaCO3. Bila kapur yang ditambahkan
+cukup banyak sehingga pH = 10,5 maka akan membentuk endapan Mg(OH)2.
+Kelebihan ion Ca pada pH tinggi dapat diendapkan dengan penambahan soda
+abu. Reaksinya :
+Ca(OH)2 + Ca(HCO)3
+2Ca(OH)2 + Mg(HCO3)2
+Ca(OH)2 + Na2CO3
+
+→ 2CaCO3 + 2H2O
+→ 2CaCO3↓ + Mg(OH)2↓ +
+→ CaCO3↓ + 2NaOH
+
+2H2O
+
+2.1.3. Klorin
+Klorin banyak digunakan dalam pengolahan air bersih dan air limbah sebagai
+oksidator dan desinfektan. Sebagai oksidator, klorin digunakan untuk
+menghilangkan bau dan rasa pada pengolahan air bersih. Untuk mengoksidasi
+Fe(II) dan Mn(II) yang banyak terkandung dalam air tanah menjadi Fe(III)
+dan Mn(III).
+Yang dimaksud dengan klorin tidak hanya Cl2 saja akan tetapi termasuk pula
+asam hipoklorit (HOCl) dan ion hipoklorit (OCl-), juga beberapa jenis kloramin
+seperti monokloramin (NH2Cl) dan dikloramin (NHCl2) termasuk di dalamnya.
+Klorin dapat diperoleh dari gas Cl2 atau dari garam-garam NaOCl dan
+Ca(OCl)2. Kloramin terbentuk karena adanya reaksi antara amoniak (NH3) baik
+anorganik maupun organik aminoak di dalam air dengan klorin.
+Bentuk desinfektan yang ditambahkan akan mempengaruhi kualitas yang
+didesinfeksi. Penambahan klorin dalam bentuk gas akan menyebabkan turunnya
+pH air, karena terjadi pembentukan asam kuat. Akan tetapi penambahan klorin
+dalam bentuk natrium hipoklorit akan menaikkan alkalinity air tersebut sehingga
+pH akan lebih besar. Sedangkan kalsium hipoklorit akan menaikkan pH dan
+kesadahan total air yang didesinfeksi.
+2.2. Pemeriksaan Mutu Air
+2.2.1. Jar Test
+Jar test adalah suatu percobaan yang berfungsi untuk menentukan dosis
+optimal dari koagulan (biasanya tawas/alum) yang digunakn pada proses
+pengolahan air bersih.
+Kekeruhan air dapat dihilangkan melalui pembubuhan koagulan. Umumnya
+koagulan tersebut berupa Al2(SO4)3, namun dapat pula berupa garam FeCl3
+atau sesuatu poly-elektrolit organis.
+
+2002digitized by USU digital library
+
+5
+
+Selain pembubuhan koagulan diperlukan pengadukan sampai
+terbentuk flok. Flok-flok ini mengumpulkan partikel-partikel kecil dan koloid
+yang tumbuh dan akhirnya bersama-sama mengendap.
+Cara kerja :
+1. Diambil sampel air baku kira-kira 4 liter
+2. Dicek dan dicatat turbidity serta pH awal dari air sampel
+3. Disediakan 6 buah beaker glass dan masing-masing diisi dengan 500 ml air
+sampel
+4. Ke dalam masing-masing beaker glass tersebut diinjeksikan alum dengan
+konsentrasi 1 % dan dengan dosis tawas tertentu untuk tiap beaker glass.
+Penentuan dosis yang ditambahkan diambil dari tabel estimasi alum untuk
+turbidity tertentu (range atas dan range bawah)
+5. Meletakkan beaker glass pada alat flokulator
+6. Diaduk dengan kecepatan 140 rpm selama 5 menit
+7. Kemudian pengadukan dilakukan dengan kecepatan 40 rpm selama 10
+menit
+8. Didiamkan selama 15 menit sampai 30 menit
+9. Dicek dan dicatat turbidity untuk masing-masing beaker glass
+Perhitungan Penambahan Alum
+ml alum = (ppm alum x ml sampel) / konsentrasi
+2.2.2. Comperator
+A. Comperator pH
+1. Sampel dimasukkan dalam tabung reaksi sebanyak 10 ml
+2. Sampel ditetesi dengan indikator Bromthymol Blue (BTB) sebanyak 46tetes, lalau diaduk
+3. Kemudian dinasukkan di sebelah kiri bagian dalam comperator
+4. Dibandingkan warna sampel dengan warna standart pada comperator
+dengan memutar roda standart comperator, apabila warna tersebut telah
+sama lalu dibaca nilainya.
+B.
+1.
+2.
+3.
+4.
+
+Comperator Klor
+Dimasukkan sampel ke dalam tabung sebanyak 10 ml
+Ditetesi dengan indikator otolidine reagent sebanyak 4-6 tetes, lalu diaduk
+Tempatkan sampel pada sebelah kanan bagian dalam comperator
+Nilai sisa klor dihitung dengan membandingkan warna sampel dengan
+warna standart yang sama
+
+2.2.3. Turbidity
+Turbidity merupakan alat untuk mengukur tingkat kekeruhan air.
+Cara kerjanya :
+1. Dihidupkan turbidimeter, kemudian dimasukkan sampel ke dalam tabung
+yang telah tersedia pada alat tersebut
+2. Skala diaduk sesuai dengan nilai sampel standart
+3. Lalu sampel standart dikeluarkan dan dimasukkan sampel yang akan diteliti,
+lalu dibaca nilai kekeruhannya
+
+2002digitized by USU digital library
+
+6
+
+2.2.4. Analisa Kesadahan
+Kesadahan adalah air yang mengandung garam-garam mineral seperti garam
+kalsium dan magnesium. Kesadahan dalam air terutama disebabkan oleh ionion Ca2+, Mg2+, Mn2+,Fe2+, dan semua kation yang bermuatan dua.
+A. Kesadahan Ca :
+1. Ke dalam erlenmeyer dimasukkan air sampel sebanyak 100 ml
+2. Ditambahkan NaOH 4 N sebanyak 1 cc dan indikator murexid secukupnya
+3. Kemudian dilakukan titrasi dengan titriplex sehingga terjadi perubahan
+warna dari merah menjadi ungu
+3. Dicatat volume titriplex yang terpakai
+4. Dihitung kesadahan Ca dengan memakai rumus :
+X = ml peniter x 10 x 0,717 x 0,14
+Dimana :
+X
+= Kesadahan Ca
+10
+= Perkalian untuk sampel 1000 ml karena yang diperlukan
+100 ml, berarti 1000/100 = 10
+0,717 = kandungan Ca dalam titriplex
+0,14 = Hasil perbandingan Ca terhadap CaO
+
+hanya
+
+B. Kesadahan Mg
+1. Ke dalam erlenmeyer dimasukkan air sampel sebanyak 100 ml
+2. Lalu ditambahkan Ammonium Buffer sebanyak 2 cc dan indikator EBT
+secukupnya
+3. Kemudian dilakukan titrasi dengan titriplex sehingga terjadi perubahan
+warna dari ungu menjadi biru
+4. Dicatat volume titriplex yang terpakai
+5. Hitung kesadahan Mg dengan memakai rumus :
+Y = ml peniter – (X) x 10 x 0,435
+Y = Kesadahan Mg
+X = kesadahan Ca
+10 = Perkalian untuk sampel 1000 ml karena yang diperlukan hanya 100
+ml, berarti 1000/100 = 10
+2.2.5. Analisa Alkalinitas
+Alkalinity adalah kapasitas air untuk menentukan asam tanpa penurunan nilai
+pH larutan. Alkalinity dalam air yaitu : ion karbonat (CO32-), ion bikarbonat
+(HCO3), ion borat (BO32-), ion fosfat (PO43-), dan ion silikat (SiO42-).
+Alkalinity ditetapkan melalui titrasi asam basa. Asam kuat seperti H2SO4 dan
+HCl dapat menetralkan zat-zat alkalinity yang merupakan zat basa sampai
+titik akhir titrasi yaitu kira-kira pH 8,3 dan 4,5.
+
+2002digitized by USU digital library
+
+7
+
+Tabel 2.1. Beberapa macam indikator yang digunakan
+No.
+
+Indikatoryang digunakan
+
+Keadaan Basa
+
+1
+2
+3
+4
+
+Phenolpthalein
+Metil orange
+Metil red + brom
+Kresol hijau
+
+Merah lembayung
+Kuning orange
+Biru kehijauan
+- Biru muda atau kelabu
+- kelabu kemerahan
+atau biru merah muda
+
+2002digitized by USU digital library
+
+Keadaan
+Asam
+Tidak berwana
+Merah
+
+8
+
+BAB III
+KESIMPULAN
+1. Dalam proses pengolahan air minum dilakukan beberapa tahapan, yaitu :
+A. Proses penyaringan air
+B. Proses pengendapan lumpur dan kotoran
+C. Proses klarifikasi (koagulasi, flokulasi, dan sedimentasi)
+D. Proses penyaringan (sand filter)
+E. Proses desinfeksi (penambahan kapur dan kaporit)
+2. Bahan-bahan kimia yang digunakan adalah larutan tawas (alum), liquid klorine,
+dan larutan kapur
+3. Analisa-analisa ynag dilakukan pada air bersih, adalah :
+A. jar test
+B. Comperator
+C. Turbidity
+D. Pemeriksaan zat-zat organik
+E. Analisa kesadahan
+F. Analisa alkalinity
+
+2002digitized by USU digital library
+
+9
+
+DAFTAR PUSTAKA
+Cheremisinoff N.Paul, Handbook of
+Water and Wastewater Treatment
+Technology, Marcel Dekker Inc, New Jersey, 1995 Inc, New Jersey, 1995
+Haller J.Edward, Simplified Wastewater Treatment Plant Operations,
+Technomic Publishing Company, Inc, New York, 1995
+Parker W. Homer, Wastewater System Engineering, Prentice-Hall Inc, New
+Jersey, 1975
+Anonim, Peraturan perundang-undangan RI, 1982-1992
+Suriawiria C.T, Teknologi penyediaan Air Bersih, P.T. Rineka Cipta, Jakarta, 1991
+
+2002digitized by USU digital library
+
+10
+
+LAMPIRAN A
+Tabel A.1. Perbandingan Standard kualitas Air Minum Departement RI, Badan
+Kesehatan Dunia (WHO), Jepang, dan Amerika
+No
+
+Sat.
+
+RI
+
+WHO
+
+JEPANG
+
+USA
+
+1
+2
+3
+4
+5
+
+PARAMETER
+A. FISIKA
+Zat Padat terlarut (TDS)
+Kekeruhan
+pH
+Suhu
+warna
+B. KIMIA
+ANORGANIK
+
+mg/l
+NTU
+0
+C
+TCU
+
+1000
+5
+6,5-8,5
+Udara
+15
+
+500
+5
+15
+
+500
+2
+5,8-8,6
+5
+
+500
+1
+6,5-8,5
+15
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+
+Air raksa
+Arsen (As)
+Aluminium (Al)
+Besi (Fe)
+Barium (Ba)
+Fluorida (F)
+Cadmiun (Cd)
+Kesadahan (CaCO3)
+Klorida (Cl)
+Kromium Cr=6
+Mangan (Mn)
+Natrium (Na)
+Nitrat (No3-N)
+Perak (Ag)
+Selenium (Se)
+Seng (Zn)
+Sianida (CN)
+Sulfat (SO4)
+Sulfida (H2S)
+Tembaga (Cu)
+Timbal (Pb)
+
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+
+0,001
+0,05
+0,2
+0,3
+1,0
+1,5
+0,005
+500
+250
+0,05
+0,1
+200
+10
+0,05
+0,01
+0,01
+0,1
+400
+0,05
+1,0
+0,05
+
+0,001
+0,01
+0,7
+1,5
+0,005
+0,05
+0,5
+50
+0,01
+0,01
+0,07
+2,0
+0,01
+
+0,0005
+0,01
+0,2
+0,3
+0,8
+0,01
+300
+200
+0,05
+0,05
+200
+10
+0,01
+0,01
+0,01
+1,0
+0,05
+
+0,01
+0,3
+1,0
+0,8
+0,01
+250
+0,05
+45
+0,05
+0,01
+0,01
+0,1
+250
+1,0
+0,05
+
+2002digitized by USU digital library
+
+11
+
+Tabel A.2. Hasil Analisa Air Bersih Pada PDAM TIRTANADI MEDAN
+Jl.Sisingamangaraja No. 1 MEDAN
+Hasil Analisa Air Reservoir Sunggal
+Parameter
+
+Sat.
+
+Kadar Max Air
+Minum
+
+Tgl
+Jam
+A. Fisika
+1. Bau
+
+-
+
+-
+
+-
+
+Tdk berbau
+
+2. TDS
+3. Kekeruhan
+4. Rasa
+
+Mg/l
+NTU
+-
+
+1000
+5
+Tidak Berasa
+
+5. Suhu
+6.Warna
+B. Kimia
+Anorganik
+1. Air Raksa
+2.aluminium
+3. Arsen
+4. Barium
+5. Besi
+6. Fluorida
+7. Kadmium
+8. Kesadahan
+9. Klorida
+10. Kromium
+11. Mangan
+12. Natrium
+13. Nitrat
+14. Nitrit
+15. Perak
+16. pH
+17. Selenium
+18. Seng
+19. Sianida
+20. Sulfat
+21. Sulfida
+22. Tembaga
+23. Timbal
+24 Sisa Klor
+C.Kimia Organik
+1. Zat Organik
+
+0
+
+±3
+15
+
+C
+Pt-Co
+
+Mg/l
+
+Hasil Analisa
+Reservoir I
+Reservoir
+II
+06
+06
+12.40
+12.45
+
+Keterangan
+
+Tidak
+berbau
+47,6
+0,50
+Tidak
+Berasa
+27,6
+7,5
+
+Sesuai
+Peraturan
+MenKes RI
+No.
+416/Menkes/
+Per/IX/1990
+Tgl 3 Sept
+1990
+
+0,001
+0,2
+0,05
+1,0
+0,3
+1,5
+0,005
+500
+250
+0,05
+0,1
+200
+10
+1,0
+0,05
+6,5-8,5
+0,01
+5,0
+0,1
+400
+0,05
+1,0
+0,05
+-
+
+0,04
+0,03
+0,10
+32
+6
+0,0
+0,0
+0,0
+0,002
+6,9
+0,02
+0,0
+0,0
+0,4
+
+10
+
+3,79
+
+2002digitized by USU digital library
+
+Tdk berbau
+45
+0,50
+Tidak
+Berasa
+27,6
+7,5
+
+0,04
+0,01
+0,07
+39
+6
+0,0
+0,0
+0,0
+0,003
+6,9
+0,02
+0,0
+0,0
+0,5
+
+12
+
+D. Mikrobiologi
+1. Total Coliform
+2. Coliform tinja
+
+MPN
+MPN
+
+0
+0
+
+2002digitized by USU digital library
+
+<2
+<2
+
+<2
+<2
+
+13
+
+

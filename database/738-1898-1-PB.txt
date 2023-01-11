@@ -1,0 +1,705 @@
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+SISTEM INFORMASI BERBASIS WEB JURUSAN SISTEM INFORMASI
+FAKULTAS ILMU KOMPUTER UNIVERSITAS SRIWIJAYA
+Yadi Utama
+Jurusan Sistem Informasi Fakultas Ilmu Komputer
+Universitas Sriwijaya
+Email: yadiutama@unsri.ac.id
+ABSTRAK
+Sistem Informasi Akademik Berbasis Web pada Jurusan Sistem Informasi Fakultas Ilmu Komputer
+Universitas Sriwijaya merupakan suatu sistem yang memudahkan mahasiswa dalam melakukan kegiatan
+pengisian Kartu Rencana Studi, dan mendapatkan informasi laporan nilai, selain itu dengan berbasiskan
+web maka informasi data dapat diakses dengan waktu dan tempat yang tidak ditentukan. Pada sistem ini,
+menu hanya dapat diakses oleh user tertentu yaitu siswa, dan administrator. Pada hasil penelitian ini telah
+dikembangkan sebuah Sistem Informasi Berbasis Web dengan studi kasus pada Jurusan Sistem Informasi
+Fakultas Ilmu Komputer. Dimana dalam membangun sistem ini digunakan alat bantu pengembangan sistem
+yaitu Data Flow Diagram (DFD), Context Diagram, Entity Relationship Diagram (ERD) dan Flowchart
+serta dengan menggunakan bahasa pemrograman PHP dan HTML dan MySQL sebagai databasenya.
+Kata Kunci: Informasi, Akademik
+
+1. PENDAHULUAN
+Informasi adalah salah satu kata kunci salah satu kunci pada zaman ini. Untuk
+mendapatkan dan menghasilkan informasi, komputer dan teknologinya adalah salah satu
+alat bantu yang paling tepat[1]. Penggunaan komputer dalam bidang pendidikan antara lain
+untuk media pembelajaran berbantuan komputer termasuk e-learning, alat bantu
+pengolahan data akademik, dan media penyampaian informasi[2].
+Tuntunan kebutuhan akan informasi dan penggunaan komputer yang semakin
+banyak mendorong terbentuknya sebuah jaringan komputer yang mampu melayani
+berbagai kebutuhan tertentu. Dengan adanya jaringan komputer, pengelolaan informasi
+dapat berlangsung lebih baik lagi. Berkembangnya teknologi dan kebutuhan akan
+informasi menyebabkan bertambah kompleksnya informasi yang harus dan yang bisa
+diolah, sehingga kebutuhan penggunaan jaringan komputer semakin diperlukan.
+Penggunaan jaringan secara bersama sama ini tumbuh membentuk jaringan komputer yang
+amat besar yang tersebar diseluruh bagian di muka bumi ini.
+Perkembangan internet telah pula mendukung penggunaan komputer dalam bidang
+pendidikan. Internet bisa diakses dan dimanfaatkan untuk berbagai keperluan, oleh siapa
+saja, dimana saja, kapan pun akan penggunaannya. Berbagai macam teknologi internet
+bisa digunakan, salah satunya adalah World Wide Web (atau selanjutnya disebut “web”
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+359
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+saja) yang mampu menyediakan informasi dalam bentuk teks, gambar, suara, maupun
+gambar bergerak. Dengan kemampuan seperti ini, web menjadi sangat terkenal dan
+perkembangannya sangatlah pesat, tetapi umumnya web seperti ini masih bersifat statis
+dan tidak dapat mengelola data. Untuk dapat mengelola data dalam bentuk database, maka
+perlu dikembangkan sistem infromasi berbasis web.
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya adalah
+salah satu jurusan yang ada di Universitas Sriwijaya. Dalam penyampaian informasi
+kepada mahasiswa, dosen, dan masyarakat umum, jurusan telah menggunakan berbagai
+cara antara lain memalui media elektronik dan media cetak, brosur, dan website, akan
+tetapi website yang saat ini digunakan masih belum mendukung sebagai sebuat sistem
+informasi yang berbasis web serta belum dapat memenuhi akan informasi bagi seluruh
+civitas akademika ataupun masyarakat umum, akibat dari masalah ini, sering terhambatnya
+kelancaran tugas tugas yang harus diselesaikan di tingkat jurusan. Oleh karena itu, sangat
+perlu untuk dibuat sistem informasi berbasis web yang dapat membantu mengatasi
+masalah tersebut.
+
+2. TINJAUAN PUSTAKA
+A. Pengertian Web atau Situs
+“Website atau situs dapat diartikan sebagai kumpulan halaman halaman yang
+digunakan untuk menampilkan informasi, teks, gambar diam atau bergerak, animasi,
+suara, dan atau gabungan dari semuanya itu, baik yang bersifat statis maupun dinamis
+yang membentuk satu rangkaian bangunan yang saling berkait dimana masing masing
+dihubungkan dengan jaringan jaringan halaman (hyperlink) [3]”
+B. Unsur Unsur Website atau Situs
+Untuk menyediakan keberadaan sebuat website, maka harus tersedia unsur-unsur
+penunjangnya, adalah sebagai berikut :
+1. Nama domain (domain name/URL – Uniform Resource Locator)
+Pengertian nama domain atau biasa disebut dengan Domain Name atau URL
+adalah alamat unik di dunia internet yang digunakan untuk mengidentifikasikan
+sebuah website, atau dengan kata lain domain name adalah alamat yang digunakan
+untuk menemukan sebuah wesite pada dunia internet. Contoh
+
+http://www.
+
+unsri.ac.id/ dan http://www. detik.com/. Nama domain diperjualbelikan secara
+bebas di internet dengan status sewa tahunan. Nama domain sendiri mempunyai
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+360
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+identifikasi ekstensi/akhiran sesuai dengan kepentingan dan lokasi keberadaan
+website tersebut, contoh nama domain berekstensi lokasi negara Indonesia adalah
+co.id (untuk nama domain website perusahaan), ac.id (nama domain website
+pendidikan), go.id (nama domain website instansi pemerintahan), or.id (nama
+domain website organisasi).
+2. Rumah Tempat Website (Web Hosting)
+Pengertian Web Hosting dapat diartikan sebagai ruangan yang terdapat dalam
+harddisk tempat menyimpan berbagai data, file, gambar dan lain sebagainya yang
+akan ditampilkan di website. Besarnya data yang bisa dimasukkan tergantung dari
+besarnya web hosting semakin besar pula data yang dapat dimasukkan dan
+ditampilkan dalam website. Web Hosting juga juga diperoleh dengan menyewa
+besarnya hosting ditentukan ruangan harddisk dengan ukuran MB (Mega Byte)
+atau GB (Giga Byte). Lama penyewaan web hosting rata rata dihitung per tahun.
+Penyewaan hosting dilakukan dari perusahaan perusahaan penyewa web hosting
+yang banyak dijumpai baik di Indonesia maupun luar negeri.
+3. Bahasa Program (Script Program)
+Bahasa program adalah bahasa yang digunakan unuk menerjemahkan setiap
+perintah dalam website pada saat diakses. Jenis bahasa program sangat menentukan
+statis, dinamis, atau interaktifnya sebuah website. Semakin banyak ragam bahasa
+program yang digunakan maka akan terlihat website semakin dinamis dan
+interaktif serta terlihat bagus. Beragam bahasa program saat ini telah hadir untuk
+mendukung kualitas website. Jenis jenis bahasa program yang banyak dipakai para
+desainer website antara lain HTML, ASP, PHP, JSP, Java Scripts, Java Applets,
+dan sebagainya. Bahasa dasar yang yang dipakai setiap situs adalah HTML,
+sedangkan PHP, ASP, JSP dan lainnya merupakan bahasa pendukung yang
+bertindak sebagai pengatur dinamis, dan interaktifnya situs[4]. Bahasa program
+ASP, PHP, JSP atau lainnya bisa dibuat sendiri. Bahasa program ini biasanya
+digunakan untuk membangun portal berita, artikel, forum diskusi, buku tamu,
+anggota organisasi, email, mailing list, dan lain sebagainya yang memerlukan
+update setiap saat.
+4. Desain Website
+
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+361
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+Setelah melakukan penyewaan domain name dan web hosting serta penguasaan
+bahasa program, unsur website yang penting adalah dan utama adalah desain.
+Desain website menentukan kualitas dan keindahan sebuah website.
+Untuk membuat website biasanya dapat dilakukan sendiri atau menyewa jasa
+website designer. Perlu diketahui bahwa kualitas situs sangat ditentukan oleh
+kualitas designer.
+5. Publikasi website
+Keberadaan situs tidak ada gunanya dibangun tanpa dikunjungi atau dikenal oleh
+pengunjung internet.Untuk mengenalkan situs kepada masyarakat memerlukan apa
+yang disebut publikasi atau promosi.
+Publikasi situs di masyarakat dapat dilakukan dengan berbagai cara seperti dengan
+pamflet, selebaran, baliho dan lain sebagainya, tapi cara ini bias dikatakan masih
+kurang efektif dan sangat terbatas. Cara yang biasanya dilakukan dan paling efektif
+dengan tak terbatas ruang atau waktu adalah publikasi langsung di internet melalui
+search engine seperti yahoo, google, dan sebagainya.
+Cara publikasi di search engine ada yang gratis dan ada pula yang membayar, yang
+gratis biasanya terbatas dan cukup lama untuk bias masuk dan dikenali di search
+engine terkenal seperti yahoo dan google. Cara efektif publikasi adalah dengan
+membayar walaupun harus sedikit mengeluarkan buaya, akan tetapi situs dapat
+cepat masuk ke search engine dan dikenal oleh pengunjung.
+6. Pemeliharaan website
+Untuk mendukung kelanjutan dari situs diperlukan pemeliharaan setiap waktu
+sesuai yang diinginkan seperti penambahan informasi, berita, artikel, link, gambar
+dan lain sebagainya, tanpa pemeliharaan yang baik situs akan terkesan
+membosankan atau monoton juga akan segera ditinggalkan pengunjung.
+Pemeliharaan situs dapat dilakukan per periode tertentu seperti tiap hari, tiap
+minggu, atau sebulan sekali secara rutin atau secara periodic tergantung kebutuhan.
+Pemeliharaan rutin biasanya dipakai oleh situs situs berita, penyedia artikel,
+organisasi atau lembaga pemerintah, sedangkan pemeliharaan periodic biasanya
+untuk situs situs penjualan, dan sebagainya.
+
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+362
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+C. Sistem Informasi Berbasis Web
+Sistem informasi berbasis web adalah aplikasi yang dibuat berbasis web. Aplikasi ini
+juga di dalamnya sudah terdapat basisdata untuk mengelola suatu data tertentu[7].
+D. Metodologi Penelitian
+1) Waktu dan Tempat Penelitian
+Lamanya oelaksanaan penelitian adalah selama 6 bulan yaitu pada bulan Mei 2011
+sampai Nopember 2011, dilaksanakan pada laboratorium Komputer Fakultas Ilmu
+Komputer Unsri Bukit Besar Palembang.
+2) Teknik Pengumpulan Data
+Untuk memperoleh data yang diperlukan guna mendukung pelaksanaan penelitian
+ini digunakan beberapa teknik pengumpulan data antara lain sebagai berikut,
+a) Observasi
+Suatu teknik pengumpulan data dengan cara pengamatan langsung terhadap
+objek yang ada di lapangan.
+b) Dokumentasi
+Penulis mengamati dokumen yang berhubungan dengan informasi informasi
+mengenai jurusan
+c) Wawancara
+Wawancara dilakukan di lokasi penelitian dengan pihak yang berhubungan
+dengan topik penelitian yang diangkat, yaitu ketua jurusan, sekretaris jurusan,
+administrasi dan mahasiswa.
+3) Metode Pengembangan
+Metode pengembangan yang digunakan untuk pengembangan oerangkat lunak
+adalah model atau paradigma klasik yang sering disebut waterfall[8][9]. Model ini
+sangat terstruktur dan bersifat linier.
+Metode ini memerlukan pendekatan yang sistematis dan sekuensiel di dalam
+system perangkat lunaknya. Pengembangan dimulai dari tingkat system, analisis,
+perancangan, implementasi (pemrograman), pengujian, pengoperasian, dan
+pemeliharaan (implementasi). Dengan demikian terdapat aktivitas aktivitas sebagai
+berikut.
+
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+363
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+a) Analisis
+Pada tahap ini dilakukan pengumpulan kebutuhan elemen elemen di tingkat
+perangkat lunak, tahap ini juga biasanya disebut dengan software requirement
+analysis, dengan analisis ini dapat ditentukan domain domain data atau
+informasi, fungsi, proses, atau prosedur yang diperlukan beserta unjuk kerjanya
+dan interface[10] [11]. Hasil akhir dari tahap ini adalah spesifikasi kebutuhan
+perangkat lunak.
+b) Perancangan (Desain)
+Pada tahap perancangan kebutuhan kebutuhan atau spesifikasi perangkat lunak,
+yang dihasilkan pada tahap analisis ditransformasikan ke dalam bentuk
+arsitektur perangkat lunak yang memiliki karakteristik mudah dimengerti dan
+tidak sulit untuk mengimplementasikannya.
+c) Pemrograman (coding)
+Tahap ini sering disebut juga sebagai tahap implementasi perangkat lunak atau
+coding.
+d) Pengujian (Testing)
+Setelah perangkat lunak (komponen komponennya yang berpa kelas kelas atau
+modul modul) selesai diimplementasikan, pengujian dapat segera dimulai.
+Keluaran dari penelitian ini adalah system informasi berbasis web jurusan Sistem
+informasi yang nantinya akan digunakan oleh civitas akademika di jurusan.
+
+3. HASIL DAN PEMBAHASAN
+A. Hasil Perancangan Sistem
+Perancangan sistem dibedakan menjadi beberapa bagian yang sesuai dengan tahapantahapan yang diterapkan pada metode perancangan yaitu:
+1. Diagram Konteks
+
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+364
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+ADMINISTRATOR
+
+Halaman 359-370
+
+Laporan Absensi
+Laporan Nilai
+
+MAHASISWA
+
+SISTEM
+INFORMASI
+BERBASIS
+WEB
+
+Data Mahasiswa
+Data Dosen
+Data Alumni
+Data Mata Kuliah
+Data Kelas dan Perkuliahan
+Data Nilai
+Data Jurnal Sistem Informasi
+
+Data KRS
+Laporan Nilai
+
+Data Kurikulum, Silabus, dan SAP
+
+Gambar 1. Diagram Konteks Sistem Informasi Berbasis Web
+Berikut penjelasan context diagram di atas :
+1) Administrator, seorang administrator melakukan input data ke dalam sistem serta
+melakukan update jika terdapat penambahan data baru. Seorang admin memiliki
+hak akses yang luas sehingga juga diberikan laporan data nilai serta data absensi
+siswa untuk dapat dicetak oleh admin sebagai arsip manual.
+2) Siswa, seorang siswa diberi hak akses untuk Mengisi Kartu Rencana Studi (KRS),
+melihat laporan data nilai per semester ataupun kumpulan nilai (transkrip)
+2. Data Flow Diagram Level 1
+Input Data Kurikulum
+
+ADMINISTRATOR
+
+Input Data Jurnal SI
+Input Data Mata Kuliah
+Input Data Dosen
+
+Input Data
+Mahasiswa
+
+2.0
+
+4.0
+
+7.0
+
+8.0
+
+Data Dosen
+
+Data Mata
+Kuliah
+
+Data Jurnal
+Sistem
+Informasi
+
+Data Kurikulum,
+Silabus dan
+SAP
+
+1.0
+Data
+Mahasiswa
+
+D1 Mahasiswa
+
+D2 Dosen
+
+D4
+
+Mata_Kuliah
+
+D7
+
+Data_Jurnal
+
+Data Kelas
+dan
+Perkuliahan
+
+Data_Kurikulum
+
+Laporan Data
+Kurikulum,
+Silabus, dan
+SAP
+
+5.0
+
+Input Data Kelas dan Perkuliahan
+
+D8
+
+Input Data KRS
+
+3.0
+Input Data Alumni
+
+Data Alumni
+
+MAHASISWA
+
+D5 Kelas_Perkuliahan
+
+6.0
+D3 Alumni
+Data Nilai
+
+Laporan Data
+Perkuliahan
+
+9.0
+Laporan
+
+Laporan Data Nilai Akademik
+
+D6 Nilai
+Laporan Data Alumni dan Yudisium
+
+Gambar 2. Data Flow Diagram Level 1 Sistem Informasi Berbasis Web
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+365
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+Administrator memegang peranan yang penting dalam menjalankan sistem informasi ini.
+Seorang administrator bertanggung jawab terhadap sembilan proses dari sistem informasi
+ini. Berikut penjelasan dari proses-proses yang terjadi :
+a.) Proses 1 (Data Mahasiswa)
+Administrator melakukan input data mahasiswa, kemudian tersimpan ke dalam
+tabel mahasiswa serta melakukan update jika terdapat penambahan mahasiswa
+pada tahun ajaran baru. Data mahasiswa ini akan terus diolah menjadi data
+alumni apabila mahasiswa tersebut menyelesaikan studinya.
+b.) Proses 2 (Data Dosen)
+Administrator melakukan input data dosen yang kemudian tersimpan ke dalam
+tabel dosen serta melakukan update data bila terjadi perubahan data.
+c.) Proses 3 (Data Alumni)
+Administrator mengolah data mahasiswa, menyimpan data mahasiswa tersebut
+menjadi alumni apabila telah menyelesaikan studinya.
+d.) Proses 4 (Data Mata Kuliah)
+Administrator melakukan proses input data mata Kuliah yang nantinya akan
+tersimpan ke dalam tabel mata kuliah. Data mata kuliah tersebut akan dipakai
+dalam proses untuk menginput data kelas.
+e.) Proses 5 (Data Kelas dan Perkuliahan)
+Proses ini merupakan proses untuk menginput data-data kelas aktif dalam satu
+semester yang akan disimpan ke dalam tabel kelas. Tabel ini befungsi sebagai
+Kelas Perkuliahan yang dapat dipilih oleh mahasiswa dalam Kartu Rencana
+Studi.
+f.) Proses 6 (Data Nilai)
+Administrator melakukan proses input data nilai dari mata kuliah. Data ini akan
+tersimpan ke dalam tabel nilai.
+g.) Proses 7 (Data Jurnal Sistem Informasi)
+Administrator melakukan proses input data Jurnal yang nantinya akan
+tersimpan ke dalam tabel Jurnal.
+h.) Proses 8 (Data Kurikulum, SAP, dan SIlabus)
+Administrator melakukan proses input data Kurikulum, SAP, dan Silabus yang
+nantinya akan tersimpan ke dalam tabel Kurikulum.
+i.) Proses 8 (Data Kurikulum, SAP, dan SIlabus)
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+366
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+Proses dimana menampilkan laporan berupa informasi baik untuk keperluan
+administrasi dan informasi untuk mahasiswa. mengenai daftar mahasiswa,
+daftar alumni, daftar dosen, daftar kelas, daftar nilai persemester, daftar nilai
+transkrip, daftar kurikulum dan jurnal. Data-data tersebut diambil dari data
+yang telah masuk dalam database pada tiap-tiap tabel.
+3. Flowchart
+1.) Flowchart Administrator
+Start
+
+Halaman Login
+
+Input
+Username
+dan password
+
+Periksa Login
+
+Halaman Menu
+
+Input Data
+Master
+
+Input Data Kelas
+dan Perkuliahan
+
+Cetak Laporan
+
+Input Data
+Dosen,
+Mahasiswa,
+Mata Kuliah
+
+Input Data
+Kelas dan
+Perkuliahan
+
+Memilih
+laporan yang
+akan dicetak
+
+Simpan data
+
+Simpan data
+
+Proses Cetak
+tidak
+
+Ya
+
+Ya
+
+Dosen,
+Mahasiswa,
+Mata_Kuliah
+
+tidak
+
+Laporan
+
+Kelas
+
+Logout
+Ya
+
+End
+
+Gambar 3. Flowchart Administrator
+
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+367
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+Administrator melakukan login dahulu untuk masuk ke dalam sistem. Apabila user
+ID dan password sesuai maka sistem akan mengarahkan pada halaman menu
+administrator. Di halaman menu terdapat beberapa link yang berfungsi untuk
+menginput data dosen, data mahasiswa, data mata Kuliah, data kelas perkuliahan,
+data nilai, data Jurnal, serta data Kurikulum, SAP, dan Silabus. Data tersebut
+kemudian dapat ditampilkan dalam bentuk tampilan cetak yang sebagai arsip
+manual.
+
+2.) Flowchart Mahasiswa
+
+Start
+
+Halaman Login
+
+Input
+Username
+dan password
+
+Periksa Login
+
+gagal
+
+Berhasil
+
+Halaman Menu
+
+Input KRS
+
+Simpan data
+
+Cetak KHS &
+Trasnkrip
+
+Ya
+
+tidak
+
+Proses Cetak
+
+KRS
+
+Laporan
+Logout
+Ya
+
+End
+
+Gambar 4. Flowchart mahasiswa
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+368
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+Seorang mahasiswa memiliki hak akses untuk mengisi Kartu Rencana Studi.
+mahasiswa harus melakukan login melalui formulir login terlebih dahulu. Apabila
+data password yang dimasukkan sesuai dengan database maka halaman menu
+dibuka. Pada halaman tersebut terdapat beberapa link yang mengarah pada menu
+untuk Mengisi Kartu Rencana Studi dan Laporan, yaitu Kartu Rencana Studi, Kartu
+Hasil Studi, dan transkrip nilai. Setelah siswa selesai mahasiswa dapat melakukan
+logout untuk keluar dari halaman tersebut.
+
+4. KESIMPULAN
+Dari hasil penelitian, perancangan dan implementasi yang telah dilakukan ada
+beberapa kesimpulan yang dapat dikemukakan sebagai berikut:
+1. Sistem informasi berbasis web ini dirancang sebagai solusi bagi Jurusan Sistem
+Informasi Fakultas Ilmu Komputer untuk mengelola bagian akademik dalam
+penyajian laporan nilai serta keaktifan siswa secara cepat dan tepat dibandingkan
+secara manual sehingga kinerja dalam mencapai pekerjaan dapat diwujudkan
+secara lebih maksimal.
+2. Sistem informasi berbasis web dibuat bersifat intern, artinya pengguna program ini
+3. hanya kalangan tertentu yang memiliki hak akses terhadap sistem ini yaitu
+dministrator dan mahasiswa.
+4. Sistem ini dibuat sebagai sarana informasi dalam menyajikan informasi laporan
+nilai pada semester yang sedang berjalan dan menjadi tempat penyimpanan arsip
+Jurnal, Kurikulum, SAP dan Silabus.
+
+5. REFERENSI
+[1]
+
+Ardian, Niko, 2008, Pengembangan Website FKIP Unsri sebagai Media
+Penyampaian Informasi, Tugas Akhir PDK Unsri : Tidak diterbitkan
+{2] Jauhari, Jaidan, 2008, Implementasi E-Learning dalam pengembangan lingkungan
+belajar yang iteraktif di Perguruan Tinggi, Laporan Penelitian Hibah Bersaing
+Dikti.
+[3] Surajino, S.H.R. 2004, Pembelajaran Berbasis Web: Suatu Tujuan dari aspek
+Kognitif, Makalah Lokakarya metode Pembelajaran Berbasis Web-Departemen
+Teknik Penerbangan ITB, Bandung 1 Oktober 2004.
+{4] Oetomo, B. S. D. 2002. E-Education : Konsep, Teknologi dan Aplikasi Internal
+Pendidikan. Yogyakarta : Andi Offset.
+
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+369
+
+Jurnal Sistem Informasi (JSI), VOL. 3, NO. 2, Oktober 2011,
+ISSN Print
+: 2085-1588
+ISSN Online
+: 2355-4614
+http://ejournal.unsri.ac.id/index.php/jsi/index
+
+Halaman 359-370
+
+[5]
+
+Tung, K.Y. 2000. Pendidikan dan Riset di Internet : Strategi Meningkatkan Kualitas
+SDM dengan Riset dan Pendidikan Global Melalui Teknologi Informasi. Jakarta :
+Dinastindo.
+[6] Pujadi, T.2008.Blog Dan Rss sebagai SArana Kaloborasi Untuk Meningkatkan
+Pemerataan Akses Belajar. Makalah disampaikan pada International CInference
+ICT Education UNY Yogyakarta.
+[7] Raharjo, Budi.2002. Implikasi Teknologi Informasi dan Internet Terhadap
+Pendidikan, Bisnis dan Pemerintahan : Siapkah Indonesia? [Online] Tersedia :
+www.budi.insan.co.id/articles/riau-it.doc
+[8] Pressman, R.S. 2002. Rekayasa Perangkat Lunak, Yogyakarta : Andi Offset
+[9] Mahyuzir, T.D.1998. Rekayasa Perangkat Lunak, Yogyakarta : Andi Offset
+[10] Indrajit, R.E.2001. Manajemen SIstem Informasi dan Teknologi Informasi. Elex
+Media Komputendo : Jakarta
+[11] Nugroho, Adi. 2002. Analisis dan Perancangan Sistem Informasi Dengan Metodologi
+Beriorientasi Objek. Bandung : Informatika
+[12] Kristanto, Andri.2003. Algoritma dan Pemrograman Dengan C++. Yogyakarta :
+Penerbit Graha Ilmu
+
+Jurusan Sistem Informasi Fakultas Ilmu Komputer Universitas Sriwijaya
+Jl. Raya Palembang-Prabumulih Km.32 Indralaya Ogan Ilir 30662
+Telp. (0711) 7072729; jsi.fasilkom.unsri@gmail.com
+
+370
+
+

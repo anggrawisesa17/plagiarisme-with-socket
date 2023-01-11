@@ -1,0 +1,1060 @@
+Available at http://jurnal.stie-aas.ac.id/index.php/jap
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 77-88
+Kecurangan Dalam Laporan Keuangan “Menguji Teori Fraud Triangle”
+Langgeng Prayitno Utomo
+STIE PGRI Dewantara Jombang, Indonesia
+Email korenpondensi: lan99en9.pu36@gmial.com
+Recieved: 07-06-2018 | Revised: 02-07-2018 | Accepted: 19-07-2018
+Abstract
+This study aims to examine the factors that affect the fraudulent financial statements of the company.
+Fraud detection of financial statements using fraud triangle theory. Based on the theory of fraud
+triangle there are three factors: pressure, opportunity, and rationalization are used as parameters to
+detect fraud. The sample of this study used 44 companies in 3 years of observation, where the company
+is divided into companies that are indications of fraud and not by doing the analysis using the
+calculation of the underlying M-score, this study used logistic regression, the result that the indication
+of fraud in this study only can be obtained from external pressure factors on pressure variables and
+the effectiveness of monitoring on the opportunity variables, this study fails to establish influence in
+three factors at once ie pressure, opportunity, and rational.
+Keywords: Financial Statement Fraud, Pressure, Opportunity, Rational
+Saran sitasi: Utomo, L. (2018). Kecurangan Dalam Laporan Keuangan “Menguji Teori Froud
+Triangle”. Jurnal Akuntansi dan Pajak, 19(1), 77-88. doi:http://dx.doi.org/10.29040/jap.v19i1.241
+DOI: http://dx.doi.org/10.29040/jap.v19i1.241
+1.
+
+Pendahuluan
+Kecurangan adalah sebuah tindakan yang
+secara sengaja dilakukan untuk mengelabuhi
+orang lain dengan menyembunyikan, menghilangkan, meruban informasi yang dipandang
+mampu untuk mempengaruhi dan meruban keputusan, sehingga dapat memberikan keuntungan
+bagi orang yang melakukannya. Kasus kecurangan merupakan salah satu permasalahan yang
+tidak hanya dihadapi oleh negara maju saja tetapi
+negara berkembangpun seperti indonesia juga
+mengalami banyak kasus pelanggaran. Hal
+tersebut sebenarnya imbas dari kondisi perekonomian dunia yang tidak menentu selama
+beberapa tahun terakhir efek dari kebijakan bank
+sentral AS, harga minyak dunia yang tidak stabil
+dan konflik kepentingan antar negara, memberikan dampak secara langsung pada kondisi
+
+industri dalam negeri, berbagai paket kebijakan
+ekonomi yang di keluarkan oleh pemerintah
+belum mampu mendongkrak dan mengangkat
+daya beli masyarakat, sisih lain meskipun ditengah kondisi perekonomian yang sedang lesu,
+manajer sebagai agen pengelola perusahaan
+dituntut untuk terus menujukan peningkatan
+performa bisnisnya dan membuat laporan yang
+menggembirakan bagi stockholder nya. Skandal
+kecurangan pelaporan telah berkembang secara
+luas, berbagai kasus dugaan korupsi pada instansi pemerintah, yang melibatkan sejumlah
+pejabat pada berbagai tingkatan di pusat dan
+daerah, merupakan contoh fraud yang terjadi
+pada publik sektor (Utomo, 2015).
+Menurut Priantara (2013) melakukan tindakan curang dalam pelaporan keuangan biasanya
+di dorong oleh tekanan ekspektasi yang berle-
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 78
+bihan terhadap prestasi kinerja manajer. Oleh
+karena itu fraud seperti ini dinamakan fraud
+manajemen atau fraud yang dilakukan untuk
+kepentingan manajemen. Selain itu fenomena ini
+di perkuat oleh hasil penelitian yang dilakukan
+oleh ACFE (Association of Certified Fraud
+Examiners) dalam penelitian Lou dan Wang
+(2011), di tunjukan data sebesar 6% perilaku
+curang yang dilaporkan dilakukan oleh manajer
+dengan menjalankan kolusi dengan anak buahnya, 36% di jalankan manajer secara perorangan
+dan 58% kasus perbuatan curang dilakukan oleh
+manajemen tingkat teknis.
+Beberapa penelitian yang dilakukan sebelumnya tentang Fraud Triangle diantaranya oleh
+Ardiyani dan Utaminingsih (2015) yang melakukan analisis atas determinan Financial Statement
+melalui Pendekatan Fraud Triangle pada
+perusahaan di BEI, menunjukan bahwa financial
+statement nature of industry, rasionalisai dan
+kualitas audit tidak berpengaruh terhadap
+financial statement fraud. Sedangkan penelitian
+yang dilakukan oleh Najah (2013) mengenai
+Model Pendeteksian Kecurangan Laporan Keuangan dengan Analisis Fraud Triangle. Menunjukan bahwa mengungkapkan financial targets
+mampu mendeteksi atas terjadinya kecurangan
+laporan keuangan, namun disisilain financil
+stability tidak mampu melacak kecurangan laporan keuangan. Penelitian lainya juga dilakukan
+oleh Megakarina et al (2016) mengenai Fraudulent Financial Reporting: Pengujian Teori Fraud
+Triangle pada financial sector dan Benking
+sector di Indonesia. Hasil penelitian menujukan
+variabel financial stability, extenal pressure, dan
+frequent number of CEO’s picture, berpengaruhi
+secara signifikan dalam medeteksi terjadinya
+fraudulent finacial reportin, sedangkan variabel
+lainnya seperti financial stability, institutional
+ownership, ineffective monitoring, change in
+auditor tidak berpengaruh. Penelitian yang dilakukan oleh Choo dan Tan (2007) mengenai
+Deteksi Financial Statement Fraud dengan
+Analisis Fraud Triangle pada Perusahaan Manufaktur. Hasil penelitian menjelaskan variabel
+financial stability berpengaruh pada financial
+
+statement fraud, variabel personal financial need
+tidak mempengaruhi financial statement fraud,
+variabel external pressure berpengaruh pada
+financial statement fraud, variabel financial
+target tidak berpengaruh pada financial statement fraud, variabel nature of industri berpengaruh pada financial statement fraud, variabel
+effective monitoring tidak berpegaruh terhadap
+financial statement fraud, dan variabel rationalization terdapa pengaruh pada financial statement fraud.
+Beberapa penelitian internasional yang
+dilakukan oleh Skousen, Smith & Wright (2009)
+mengenai Detecting and Predicting Financial
+Statement Fraud:The Effectiveness of The Fraud
+Trangle And SAS No. 99. Hasil penelitian
+menunjukan perkembangan asset yang tinggi,
+meningkatnya kebutuhan kas, dan pembiayaan
+eksternal secara positif terkait dengan kemungkinan terjadinya fraud. Kepemilikan saham baik
+pihak eksternal maupun internal serta kontrol
+dewan direksi juga terkait dengan peningkatan
+financial statement fraud. Ekspansi jumlah
+keanggota komite audit independen memiliki
+hubungan negatif dengan tindakan kecurang.
+Penelitian yang dilakukan oleh Hogan et al (2008)
+mengenai Fraud Diamond dalam Mendeteksi
+Financial Stratement Fraud. Hasil penelitian
+menunjukkan bahwa variabel external pressure
+variabel rationalization terbukti memiliki
+pengaruh positif signifikan terhadap financial
+statement fraud. Variabel financial stability dan
+variabel financial target, memiliki pengaruh
+negatif signifikan terhadap financial statement
+fraud. Variabel personal financial need, variabel
+nature of industry (RECEIVABLE), variabel
+inefective monitoring, variabel change in auditor
+(ΔCPA) dan variabel capability (DCHANGE)
+tidak memiliki pengaruh dengan financial
+statement fraud. Adanya ahli keuangan dalam
+keanggotaan komite audit (ACEXP) merupakan
+proksi yang dipakai untuk menggambarkan
+variabel kesempatan. Setelah dilakukan uji logistik regresi menghasilkan adanya pengaruh
+negatif antara keahlian keuangan yang dimiliki
+oleh komite audit dengan kecurangan laporan
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 79
+keuangan. Penelitian ini belum membuktikan
+keterkaitan antara variabel rasionalisasi atas
+kecurangan laporan keuangan. Dalam penelitian
+ini mencoba untuk membuktikan bahwa Stabilitas Keuangan, Tekanan Eksternal, Kebutuhan
+Keuangan Pribadi, Target Keuangan, Kondisi
+Industri, Ketidak Efektifan Pengawasan, dan
+Rasionalisasi dapat berpengaruh atas kecurangan
+laporan keuangan
+2. Tinjaun Pustaka
+Teori Fraud Trianggle
+Cressey membuat suatu teori bahwa ketiga
+kondisi yang selalu hadir saat terjadi kecurangan
+laporan keuangan. Ketiga kondisi keuangan
+tersebut adalah tekanan (pressure), kesempatan
+(opportunity), dan rasionalisasi (rationalitation)
+(Skousen et. al, 2009). Ketiganya saling mendukung dan membentuk pilar kecurangan yang
+disebut sebagai fraud trianggle.
+Gambar 1. Fraud Trianggle
+Kesempatan/
+Opportunity
+
+Kecurangan
+Laporan
+Keuangan
+Tekanan/
+Pressure
+
+Rasionalisasi/
+Rationalization
+
+Sumber : Fraud Trianggle Theory
+Menurut Tuanakotta (2014) dalam bukunya
+“Mendeteksi Manipulasi Laporan Keuangan”
+bahwa: Sudut pertama, Pressure atau tekanan
+yang dirasakan pelaku kecurangan yang pandangannya sebagai kebutuhan keuangan yang tidak
+dapat diceritakannya kepada orang lain. Menurut
+SAS No.99 AICPA (2002) terdapat 4 (empat)
+jenis kondisi yang umum terjadi pada tekanan
+yang dapat mengakibatkan kecurangan, yaitu:
+Stabilitas Keuangan dan Kecurangan Laporan Keuangan.
+SAS No.99 AICPA (2002), manajemen dihadapkan terhadap tekanan untuk menjalankan
+kecurangan laporan keuangan ketika stabilitas
+
+keuangan terancam dengan keadaan ekonomi,
+industri, dan situasi yang tidak terduga. Karen
+ketidak stabilitas keuangan merupakan keadaan
+yang menggambarkan kondisi kinerja yang
+buruk dalam perusahaan.
+Dalam penelitian Tiffani dan Marfuah (2015)
+Manajemen seringkali mendapatkan tekanan
+untuk menunjukkan bahwa perusahaan telah
+mampu mengelola asset dengan baik sehingga
+profit yang dihasilkannya juga banyak dan nantinya akan menghasilkan pengembalian yang
+tinggi pula untuk investor. Dengan alasan tersebut, manajer menggunakan laporan keuangan
+sebagai alat untuk menutup-nutupi keadaan
+kondisi keuangan yang kurang baik dengan
+melakukan kecurangan. Penelitian yang dilakukan Skousen, et al. (2009) menyebutkan bahwa
+perubahan presentase total aset (ACHANGE)
+memiliki pengaruh positif terhadap kecurangan
+laporan keuangan.
+H1. Stabilitas keuangan berpengaruh positif
+terhadap Kecurangan Laporan Keuangan.
+Kebutuhan Keuangan Pribadi dan Kecurangan Laporan Keuangan.
+Kebutuhan keuangan pribadi (OSHIP) adalah
+keadaan dimana ketika keuangan perusahaan ikut
+terpengaruh oleh kondisi keuangan para pengambil keputusan (eksekutif) (Skousen et al. 2009).
+Dalam penelitian Tiffani dan Marfuah (2015),
+terdapat kepemilikan saham oleh manajemen
+dalam perusahaan menimbulkan adanya prasangka oleh dirinya atas hak penghasilan dan aktiva
+perusahaan sehingga akan mempengaruhi kondisi keuangan perusahaan. Ketidak jelasan pemisahan antara fungsi pengelolaan dan controlling
+dari perusahaan dapat menimbulkan para
+eksekutif sewenang-wenang dalam menggunakan dana perusahaan untuk kepentingan mereka.
+Contoh kepentingan pribadi yang menjadi tekanan nantinya dialami manajer akan memicu terjadinya kecurangan laporan keuangan antara lain
+tekanan keuangan, tekanan kebiasaan buruk, dan
+tekanan berkaitan dengan pekerjaan. Semakin
+tinggi jumlah kepemilikan saham oleh manajer
+dalam perusahaan maka akan mendorong praktek
+penipuan dalam memanipulasi laporan keuangan
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 80
+semakin tinggi. Penelitian yang dilakukan oleh
+Skousen et al. (2009) menunjukkan bahwa
+presentase kepemilikan saham oleh orang dalam
+(OSHIP) berpengaruh positif terhadap kecurangan laporan keuangan.
+H2. Kebutuhan Keuangan Pribadi berpengaruh
+positif terhadap Kecurangan Laporan
+Keuangan
+Tekanan Eksternal dan Kecurangan Laporan
+Keuangan.
+Tekanan eksternal merupakan kondisi yang
+mendesak bagi manajemen untuk memenuhi
+keinginan atau hasrat dari pihak ketiga. Menurut
+SAS No.99, ketika tekanan berlebihan dari pihak
+eksternal terjadi, maka terdapat risiko kecurangan terhadap laporan keuangan. Hal ini didukung oleh pendapat Skousen et al. (2009) yang
+menyatakan bahwa salah satu tekanan yang
+sering kali dialami manajemen perusahaan adalah kebutuhan untuk mendapatkan tambahan
+utang atau sumber pembiayaan eksternal agar
+tetap kompotitif, termasuk pembiayaan riset dan
+pengeluaran pembangunan atau modal (Tiffani
+dan Marfuah, 2015). Penelitian yang dilakuan
+oleh Skousen et al. (2009) menunjukkan bahwa
+presentasi total hutang terhadap total aset (LEV)
+berpengaruh positif terhadap kecurangan laporan
+keuangan.
+H3. Tekanan Ekternal berpengaruh positif
+terhadap Kecurangan Laporan Keuangan.
+Target Keuangan dan Kecurangan Laporan
+Keuangan.
+SAS No.99 AICPA (2002), target keuangan
+adalah risiko adanya tekanan berlebihan pada
+manajemen untuk mencapai target keuangan
+yang dipatok oleh direksi atau manajemen,
+termasuk tujuan-tujuan penerimaan insentif dari
+penjualan maupun keuntungan. Skousen et al.
+(2009) mengatakan bahwa tingkat pengembalian
+aset (ROA) sering digunakan dalam menilai
+kinerja manajer dan dalam menentukan bonus,
+kenaikan upah, dan lain-lain.Penelitian yang
+dilakukan oleh Skousen et al. (2009) menunjukkan bahwa presentase Target Keuangan
+(ROA) berpengaruh positif terhadap kecurangan
+laporan keuangan.
+
+H4.
+
+Target Keuangan berpengaruh positif
+terhadap Kecurangan Laporan Keuangan.
+Kondisi Industri dan Kecurangan Laporan
+Keuangan.
+Kondisi industri merupakan keadaan ideal
+suatu perusahaan dalam industri. Pada laporan
+keuangan terdapat akun-akun tertentu yang
+besarnya saldo ditentukan oleh perusahaan berdasarkan estimasi, misalnya akun piutang tak
+tertagih dan akun persediaan utang Pamungkas,
+Ghozali & Achmad (2018) Dalam penelitian
+Kassem dan Higson (2012) menunjukkan bahwa
+rasio perubahan dalam piutang usaha (RECEIVABLE) berpengaruh positif terhadap kecurangan laporan keuangan.
+H5. Kondisi Industri berpengaruh positif terhadap
+Kecurangan Laporan Keuangan.
+Ketidak Efektifan Pengawasan dan Kecurangan Laporan Keuangan.
+Kecurangan dapat diminimalkan salah satunya dengan mekanisme pengawasan yang baik.
+Komite audit dipercaya dapat meningkatkan
+efektifitas pengawasan perusahaan. Semakin besar proporsi komite audit independen (IND),
+maka proses monitoring terhadap perusahaan
+semakin efektif sehingga akan menurunkan
+potensi manajemen untuk melakukan kecurangan
+laporan keuangan. Penelitian yang dilakukan
+Dorminey et al (2015) menunjukkan bahwa proporsi anggota komite audit independen (IND)
+berpengaruh negatif terhadap kecurangan laporan
+keuangan.
+H6. Ketidak Efektifan Pengawasan berpengaruh
+negatif terhadap Kecurangan Laporan Keuangan.
+Rasionalisasi dan Kecurangan Laporan
+Keuangan.
+Auditor adalah pengawas penting dalam
+laporan keuangan. Informasi tentang perusahaan
+yang terindikasi terjadi kecurangan, biasanya
+juga diketahui dari auditor. Perusahaan yang
+melakukan kecurangan lebih sering melakukan
+pergantian auditor, karena manajemen perusahaan cenderung berusaha mengurangi kemungkinan pendeteksian oleh auditor lama terkait
+tindak kecurangan laporan keuangan. Dalam
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 81
+penelitian Lou dan Wang, (2011) menyatakan
+bahwa sebuah perusahaan bisa mengganti auditor
+untuk mengurangi kemungkinan pendeteksian
+kecurangan laporan keuangan oleh pihak auditor.
+Penelitian yang di lakukan oleh Megakarina et al
+(2015) menunjukkan bahwa rasionalisasi (AUDCHANGE) tidak berpengaruh signifikan terhadap kecurangan laporan keuangan. Pergantian
+auditor yang dilakukan perusahaan tidak dapat
+digunakan untuk mendeteksi terjadinya kecurangan laporan keuangan dalam perusahaan.
+H7. Rasionalisasi berpengaruh negatif terhadap
+Kecurangan Laporan Keuangan.
+3.
+
+Metode Penelitian
+Metode kuantitatif dirasa tepat dan sesuai
+untuk digunakan dalam penelitian ini sebagai
+pendekatan untuk menganalisis permasalahan
+penelitian yang telah dijabarkan dalam latar
+belakang, dengan menggunakan metode purposive sampling dengan teknik judgement sampling
+dari populasi perusahan manufaktur di tahun
+2013-2017 sektor ini dipilih karena menurut
+Indonesian Commercial Newletter (ICN) sektor
+ini sangat sensitif terhadap perubahan kondisi
+ekonomi dan paling banyak investornya,
+sehingga memiliki tekanan dan tuntutan cukup
+tinggi Sampel yang diperoleh, perusahaan tidak
+terindikasi melakukan manipulasi (fraud) dalam
+3 tahun pengamatan sebanyak 131 dan perusahaan terindikasi melakukan fraud dalam 3 tahun
+pengamatan sebanyak 44. Untuk mengetahui
+perusahaan–perusahaan
+yang
+melakukan
+kecurangan (fraud) pada penelitian ini menggunakan model Beneish M-Score. Dalam rumus
+persamaan model Beneish M-Score diukur
+dengan menggunakan 8 (delapan) rasio keuangan
+untuk mengidentifikasi apakah perusahaan
+memiliki indikasi untuk memanipulasi pendapatan dalam laporan keuangan. Dalam penelitian
+Ardiani dan Utaminingsih (2015) formula baku
+secara lengkap mengenai model Beneish MScore sebagai berikut:
+M-Score = -4,84 + 0,92*DSRI + 0,528*GMI +
+0,404*AQI + 0,892*SGI +0,115*DEPI –
+0,172*SGAI–0,327*LVGI+ 4,679*TATA.
+
+Dalam model Beneish M-Score tersebut
+untuk mendapatkan score di hitung melalui beberapa rasio keuangan diantaranya Days Sales in
+Receivable Index (DSRI) yang diperoleh dari
+jumlah piutang dibagi dengan total penjualan,
+Gross Margin Index (GMI) diperoleh dari laba
+kotor dibagi total penjualan, Asset Quality Index
+(AQI) adalah total aset dikurangi aset tetap
+dibagi dengan total aset, Sales Growth Index
+(SGI) diperoleh dari penjualan tahun pengamatan
+(t) dibagi dengan penjualan tahun sebelumnya (t1), Depreciation Index (DEPI) diperoleh dari
+depresiasi dibagi dengan depresiasi ditambah
+aset tetap, Administrative Expenses Index (SGAI)
+diperoleh dari beban administrasi dan umum
+dibagi penjualan, selanjutnaya Laverage Index
+(LVGI) diperoleh dari total penjualan dibagi total
+aset, dan terahir Total Accruals to Total Assets
+(TATA) diperoleh dari modal kerja dikurangi kas
+dikurangi depresiasi. Untuk menentukan perusahan yang melakukan froud atau tidak
+deilakukan dengan kriteria, jika Beneish MScore lebih besar dari -2.22, dikategorikan
+sebagai perusahaan yang melakukan kecurangan
+(fraud). Sedangkan jika skor lebih kecil dari 2.22, dikategorikan sebagai perusahaan yang
+tidak melakukan kecurangan (non fraud).
+Variabel independen yang digunakan dalam
+penelitian ini merupakan variabel yang dikembangkan dari tiga komponen fraud triangle, yaitu
+tekanan, kesempatan, dan rasional. Pada penelitian ini pengukuran variabel independen mengacu dalam penelitian Marfuah dan Tiffani (2015),
+pertama untuk mengukur faktor tekanan digunakan 4 yaitu pertama variabel stabilitas keuangan (X1) yang dihitung dengan total aset tahun
+pengamatan (t) dikurangi total aset tahun sebelumnya (t-1) dibagi dengan total aset tahun
+pengamatan, variable kedua keuangan pribadi
+(X2) diukur dengan total saham yang dimiliki
+orang dalam dibagi total saham biasa yang
+beredar, ketiga tekanan eksternal (X3) dihitung
+dengan membagi total hutang dengan total aset
+dan target keuangan (X4) diukur dengan laba
+setelah pajak t-1 dibagi total aset t-1.
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 82
+Selanjutnya faktor kesempatan diukur dengan
+dua variable, pertama kondisi industri (X5)
+diukur dengan jumlah piutang pada tahun pengamatan (t) dikurangi piutang tahun sebelumnya (t1) dibagi dengan penjualan pada tahun pengamatan (t) dikurangi pada tahun sebelumnya (t-1),
+dan yang kedua ketidak efektif pengawasan (X6)
+diukur dengan membandingkan jumlah anggota
+audit independen dengan jumlah total komite
+auditor. Sedangkan untuk faktor ketiga tentang
+rasionalisasi (X7) diukur dengan turnover dari
+penggunaan jasa kantor akuntan publik.
+Metode regresi logistik digunakan untuk
+melihat hubungan perusahaan yang melakukan
+kecurangan laporan keuangan dengan teori fraud
+treanggle (Diany & Ratmono, 2014). Persamaan
+yang dibentuk dengan menggunakan regresi
+logistik adalah sebagai berikut:
+Y = 𝛼 + β1 X1 + β2 X2+ β3 X3 + β4 X4 + β5 X5 +
+β6 X6 + β7 X7 + e
+Keterangan:
+Y
+: dummy variabel, dimana kode 1 untuk
+perusahaan yang melakukan kecurangan
+laporan keuangan, kode 0 jika sebaliknya.
+𝛼
+: konstanta
+𝛽
+: koefisien variabel
+X1 : Stabilitas Keuangan
+X2 : Kebutuhan Keuangan Pribadi
+X3 : Tekanan Eksternal
+X4 : Target Keuangan
+X5 : Kondisi Industri
+X6 : Ketidak Efektifan Pengawasan
+X7 : Rasionalisasi
+e
+: eror retm
+Pada model regresi logistik, terdapat kondisi
+yang perlu diperhatikan dari output model
+tersebut. Kondisi-kondisi tersebut adalah sebagai
+berikut:
+Uji Kelayakan Model (Goodness of Fit Test)
+Goodness of fit test dapat dilakukan dengan
+memperhatikan output overal test (nilai omnibus
+test), partial test (nilai variables in the equation),
+dan goodness of fit test (Diany & Ratmono, 2014)
+dengan hipotesis:
+Ho: tidak ada variabel X yang signifikan
+mempengaruhi variabel Y nya.
+
+H1 : minimal ada satu variabel yang signifikan
+mempengaruhi variabel Y nya.
+Jika nilai statistik Ho sig kurang dari 0,05
+maka hipotesis nol ditolak yang berarti terdapat
+perbedaan signifikan antara model dengan nilai
+observasinya sehingga Goodness of fit model
+tidak baik karena model tidak dapat memprediksi
+nilai observasinya. Jika nilai statistik Ho lebih
+besar dari 0,05 maka hipotesis nol tidak dapat
+ditolak dan berarti model mampu memprediksi
+nilai observasinya. Dalam menilai overall fit
+model, dapat dilakukan dengan beberapa cara.
+Diantaranya:
+a. Chi Square (X2) / Iteration History dan Model
+Summary
+Tes statistik Chi Square (X2) digunakan
+berdasarkan pada fungsi likelihood pada estimasi
+model regresi (Diany & Ratmono, 2014).
+Likelihood (L) dari model adalah probabilitas
+bahwa model yang dihipotesiskan menggambarkan data input. L ditransformasikan menjadi 2logL untuk menguji hipotesis nol dan alternatif.
+Penggunaan nilai X2 untuk keseluruhan model
+terhadap data dilakukan dengan membandingkan
+nilai -2 log likehood awal (hasil block number 0)
+dengan -2 log likehood hasil block number 1.
+Dengan kata lain, nilai chi square didapat dari
+nilai 2logL1-2logL0. Apabila terjadi penurunan,
+maka model tersebut menunjukkan model regresi
+yang baik.
+b. Hosmer and Lemeshow
+Goodness of fit test dapat dilakukan dengan
+memperhatikan output dari hosmer and
+lemeshow goodness of fit test (Diany & Ratmono,
+2014), dengan hipotesis:
+Ho : Model yang dihipotesiskan fit dengan data
+H1 : Model yang dipotesiskan tidak fit dengan
+data
+Jika nilai statistik Hosmer and Lemeshow
+sama dengan atau kurang dari 0,05 maka hipotesis nol ditolak yang berarti terdapat perbedaan
+signifikan antara model dengan nilai observasinya sehingga Goodness of Fit model tidak baik
+karena model tidak dapat memprediksi nilai
+observasinya. Jika nilai statistik lebih besar dari
+0,05 maka hipotesis nol tidak dapat ditolak dan
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 83
+berarti model mampu memprediksi nilai observasinya.
+c. Tabel Klasifikasi 2x2
+Pada penelitian Diany & Ratmono, (2014)
+tabel klasifikasi 2x2 menghitung nilai estimasi
+yang benar (correct) dan salah (incorrect). Pada
+kolom merupakan dua nilai prediksi dari variabel
+dependen dalam hal ini kecurangan laporan
+keuangan (1) dan non kecurangan laporan keuangan (0), sedangkan pada baris menunjukkan
+nilai observasi sesungguhnya dari variabel
+dependen. Pada model sempurna, maka semua
+kasus akan berada pada diagonal dengan
+ketepatan peramalan 100%.
+4. Hasil dan pembahasan
+4.1 Hasil penelitian
+Menguji Kelayakan Model Regresi
+Pengujian hipotesis pertama yang dilakukan
+adalah menilai kelayakan model regresi logistik
+yang akan digunakan. Pengujian kelayakan
+model regresi logistik dapat dilakukan dengan
+menggunakan uji overall test (nilai omnibus
+tests), Goodness of Fit Test (nilai Iteration
+History dan nilai Model Summary, nilai Hosmer
+and Lemeshow, dan nilai classification), dan uji
+partial test (nilai variables in the equation).
+Uji Overall Test
+Tabel 1. Omnibus Tests of Model Coefficients
+Chi-square
+Step 1
+Step
+36,439
+Block
+36,439
+Model
+36,439
+Tabel 1 menunjukkan hasil pengujian Omnibus Test of Model Coefficients. Telihat bahwa
+nilai Chi-square sebesar 36,439 dengan signifikansi 0,000 < alpha (0,05) (model) yang berarti
+bahwa Ho ditolak, sehingga dengan tingkat
+keyakinan 95 persen, ada minimal satu variabel
+bebas yang berpengaruh pada variabel tak bebas.
+Sehingga dapat disimpulkan bahwa model dapat
+digunakan untuk analisis lebih lanjut.
+Tabel 2 menunjukkan hasil pengujian model
+summary terlihat penurunan -2LL yang cukup
+signifikan dari 57,364 (tabel iteration history)
+menjadi 20,926 (tabel model summary), dan ber-
+
+Tabel 2. Iteration History dan Model Summary
+Coefficients
+-2 Log
+Iteration
+likelihood
+Constant
+Step 0 1
+
+57,364
+
+0,286
+
+2
+
+57,364
+
+0,288
+
+3
+
+57,364
+
+0,288
+
+Tabel 3 Model Summary
+-2 Log
+Cox & Snell Nagelkerke R
+Step likelihood
+R Square
+Square
+20,926a
+
+1
+
+0,580
+
+0,779
+
+dasarkan koefisien Nagelkerke R square diperoleh bahwa ketujuh variabel independen (stabilitas keuangan, tekanan eksternal, kebutuhan
+keuangan pribadi, target keuangan, kondisi industri, ketidak efektifan pengawasan, dan rasionalisasi) mampu menjelaskan 77,9% keragaman
+total dari logit.
+Tabel 4.Uji Hosmer dan Lemeshow
+Step Chi-square
+Df
+Sig.
+1
+
+2.424
+
+8
+
+.965
+
+Tabel 4 menunjukkan hasil pengujian
+Hosmer dan Lemeshow. Diperoleh nilai 2.424
+dengan Probabilitas signifikansi menunjukkan
+angka 0,965 > alpha (0.05) yang menunjukkan
+bahwa Ho tidak ditolak yang berarti bahwa
+model fit dengan data.
+Tabel 5. Classification
+Non
+Percentage
+Observed
+Fraud
+Fraud
+Correct
+Kecurangan Non
+17
+1
+94,4
+Laporan
+Fraud
+Keuangan Fraud
+3
+21
+87,5
+Overall Percentage
+90,5
+a.
+
+The cut value is ,500
+
+Tabel 5 menunjukkan hasil pengujian Classification. memperlihatkan kekuatan prediksi
+kecurangan laporan keuangan adalah sebesar
+90.5 persen. Model regresi yang diajukan
+menunjukkan dari total 18 observasi perusahaan
+yang diprediksi non fraud ada 17 perusahaan
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 84
+(94,4 persen) yang diprediksi tidak melakukan
+kecurangan laporan keuangan. Kekuatan prediksi
+model untuk perusahaan melakukan kecurangan
+laporan keuangan memperoleh sebesar 87,5
+persen, yang berarti bahwa model regresi yang
+diajukan ada 21 perusahaan yang diprediksikan
+melakukan fraud dari total 24 perusahaan observasi yang melakukan kecurangan laporan keuangan.
+Tabel 6. Variables in the Equation
+B
+
+S.E.
+
+Wald Df
+
+Sig.
+
+1 0,417
+
+Exp(B)
+
+X1
+
+0,435 0,707 0,379
+
+1,545
+
+X2
+
+11,567 6,551 3,118
+
+X3
+
+-11,733 5,957 3,879
+
+1 0,004
+
+0,000
+
+X4
+
+0,000 0,001 0,034
+
+1 0,121
+
+1,000
+
+X5
+
+2,401 1,624 2,186
+
+1 0,062
+
+11,029
+
+X6
+
+-3,401 1,763 3,721
+
+1 0,008
+
+0,033
+
+X=
+
+0,970 1,753 0,306
+
+1 0,612
+
+2,639
+
+Con
+
+1,417 2,121 0,446
+
+1 0,504
+
+4,123
+
+1 0,002 105521,130
+
+Hasil perhitungan tersebut diperoleh model
+koefisien regresi logistik sebagai berikut:
+Y = 1,417 + 0,435X1 + 11,567X2 – 11,733X3 +
+0,000X4 + 2,401X5 – 3,401X6 + 0,970X7
+Menguji Koefisiensi Regresi Logistik
+Dari persamaan diatas mengandung arti
+bahwa nilai konstanta persamaan pada tabel 6
+diatas adalah 1,417 yang dapat diartikan jika
+variabel
+stabilitas
+keuangan,
+kebutuhan
+keuangan pribadi, tekanan eksternal, target
+keuangan, kondisi industri, ketidak efektifan
+pengawasan, dan rasionalisasi sama dengan nol,
+maka kecurangan laporan keuangan akan
+menjadi sebesar 1,417.
+1) Jika variabel stabilitas keuangan (X1)
+memiliki nilai koefisiensi positif, bahwa
+kenaikkan stabilitas keuangan (X1) akan
+mempengaruhi kecurangan laporan keuangan
+(Y). Hal tersebut dapat dilihat dari persamaan
+regresi yang menunjukkan nilai sebesar
+0,435. Itu artinya, setiap pertambahan 1%
+pada rasio perubahan aset akan menaikkan
+risiko kecurangan laporan keuangan sebesar
+0,435.
+
+2) Jika variabel kebutuhan keuangan pribadi
+(X2) memiliki nilai koefisiensi positif, bahwa
+kenaikkan kebutuhan keuangan pribadi (X2)
+akan mempengaruhi kecurangan laporan
+keuangan (Y). Hal tersebut dapat dilihat dari
+persamaan regresi yang menunjukkan nilai
+sebesar 11,567. Itu artinya, setiap pertambahan 1% pada rasio kepemilikan saham akan
+menaikkan risiko kecurangan laporan keuangan sebesar 11,567.
+3) Jika variabel tekanan eksternal (X3) memiliki
+nilai koefisiensi negatif, bahwa penurunan
+tekanan eksternal (X3) akan mempengaruhi
+kecurangan laporan keuangan (Y). Hal tersebut dapat dilihat dari persamaan regresi yang
+menunjukkan nilai sebesar -11,733. Itu artinya, setiap pertambahan 1% pada rasio total
+kewajiban terhadap total aset akan menurunkan risiko kecurangan laporan keuangan
+sebesar 11,733.
+4) Jika variabel target keuangan (X4) memiliki
+nilai koefisiensi positif, bahwa kenaikkan
+target keuangan (X4) akan mempengaruhi
+kecurangan laporan keuangan (Y). Hal tersebut dapat dilihat dari persamaan regresi yang
+menunjukkan nilai sebesar 0,000. Itu artinya,
+setiap pertambahan 1% pada rasio yang
+digunakan untuk mengukur kemampuan
+perusahaan menghasilkan laba setelah pajak
+dengan menggunakan total aset akan menaikkan risiko kecurangan laporan keuangan
+sebesar 0,000.
+5) Jika variabel kondisi industri (X5) memiliki
+nilai koefisiensi positif, bahwa kenaikkan
+kondisi industri (X5) akan mempengaruhi
+kecurangan laporan keuangan (Y). Hal tersebut dapat dilihat dari persamaan regresi yang
+menunjukkan nilai sebesar 2,401. Itu artinya,
+setiap pertambahan 1% pada rasio piutang
+terhadap penjualan akan menaikkan risiko
+kecurangan laporan keuangan sebesar 2,401.
+6) Jika variabel ketidak efektifan pengawasan
+(X6) memiliki nilai koefisiensi negatif, bahwa
+penurunan ketidak efektifan pengawasan (X6)
+akan mempengaruhi kecurangan laporan
+keuangan (Y). Hal tersebut dapat dilihat dari
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 85
+persamaan regresi yang menunjukkan nilai
+sebesar -3,401. Itu artinya, setiap pertambahan 1% pada rasio perbandingan antara
+antara dewan komisaris independen dengan
+total dewan komisaris akan menurunkan
+risiko kecurangan laporan keuangan sebesar
+3,401.
+7) Jika variabel rasionalisasi (X7) memiliki nilai
+koefisiensi positif, bahwa kenaikkan rasionalisasi (X7) akan mempengaruhi kecurangan
+laporan keuangan (Y). Hal tersebut dapat
+dilihat dari persamaan regresi yang
+menunjukkan nilai sebesar 0,970. Itu artinya,
+setiap pertambahan 1% pada rasio total
+akrual per total aset akan menaikkan risiko
+kecurangan laporan keuangan sebesar 0,970.
+4.2 Pembahasan
+Hasil pengujian Hipotesis regresi logistik
+pada tingkat signifikan 5% (0,05). Jika nilai
+probabilitas signifikansi lebih kecil dari 0,05,
+maka H1 diterima. Berdasarkan tabel 8 diatas
+secara umum dapat ditunjukkan bahwa dari
+ketujuh
+variabel
+bebas
+tersebut
+yang
+berpengaruh signifikan terhadap kecurangan
+laporan keuangan pada perusahaan maka dapat
+dijelaskan hasil uji hipotesis dari masing-masing
+variabel sebagai berikut:
+Stabilitas Keuangan (X1) terhadap Kecurangan Laporan keuangan (Y).
+Hasil pengujian hipotesis pertama menunjukkan bahwa stabilitas keuangan (X1) tidak
+berpengaruh signifikan terhadap kecurangan
+laporan keuangan, ini terlihat dari nilai secara
+statistik tidak signifikan yaitu p-value 0.417 >
+0.05. Temuan dari penelitian ini sama dengan
+penelitian Marfuah dan Tiffani, (2015) yang
+menyimpulkan bahwa semakin tinggi kondisi
+ketidak stabilan keuangan (X1) perusahaan, maka
+akan semakin tinggi pula perusahaan berpengaruh terhadap kecurangan laporan keuangan. Hal
+ini mungkin perusahaan memiliki tingkat
+pengawasan yang baik yang dilakukan oleh
+Dewan Komisaris untuk memonitoring dan
+mengendalikan tindakan manajemen yang bertanggungjawab langsung terhadap fungsi bisnis
+seperti keuangan, sehingga walaupun manajemen
+
+menghadapi tekanan ketika stabilitas keuangan
+terancam oleh keadaan ekonomi, industri dan
+situasi entitas yang beroperasi tidak akan
+mempengaruhi terjadinya kecurangan laporan
+keuangan. Berbeda dengan penelitian Sihombing
+dan Rahardjo (2014) yang menyatakan bahwa
+stabilitas keuangan berpengaruh secara signifikan terhadap financial statement fraud.
+Kebutuhan Keuangan Pribadi (X2) terhadap
+Kecurangan Laporan keuangan (Y).
+Hasil pengujian hipotesis kedua menunjukkan bahwa kebutuhan keuangan pribadi (X2)
+berpengaruh signifikan terhadap kecurangan
+laporan keuangan, ini terlihat dari nilai secara
+statistik signifikan yaitu p-value 0.002 < 0.05.
+Temuan dari penelitian ini sama dengan penelitian Skousen et at, (2009) yang menyimpulkan
+bahwa presentase kepemilikan saham oleh orang
+dalam (X2) berpengaruh positif terhadap kecurangan laporan keuangan. Hasil ini kemungkinan
+disebabkan karena tingginya rata-rata kepemilikan saham dalam perusahaan. Kepemilikan
+saham yang tinggi mengidentifikasikan bahwa
+pada perusahaan telah terjadi pemisahan yang
+tidak jelas antara pemegang saham sebagai
+pemilik yang mengontrol jalannya perusahaan
+dan manajer sebagai pengelola perusahaan.
+Berbeda dengan penelitian Rahayu dan Yesiariani (2017) yang menyatakan bahwa kebutuhan
+keuangan pribadi (X2) tidak berpengaruh positif
+tidak signifikan terhadap resiko terjadinya
+financial statement fraud. Hasil ini kemungkinan
+adanya pemisahan yang jelas menyebabkan
+manajer tidak mempunyai kemampuan yang cukup untuk melakukan kecurangan laporan keuangan.
+Tekanan Eksteral (X3) terhadap Kecurangan
+Laporan Keuangan (Y).
+Hasil pengujian hipotesis ketiga menunjukkan bahwa tekanan eksternal (X3) berpengaruh
+signifikan tetapi tidak bisa mempengaruhi terhadap kecurangan laporan keuangan ini terlihat dari
+nilai secara statistik signifikan yaitu p-value
+0.004 < 0.05 dan dapat di lihat hipotesis pada
+kerangka konseptualnya yang harus ada pengaruh positif, sedangkan hasil dari perhitungan
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 86
+SPSS adanya pengaruh negatif yaitu nilai -7.374
+maka hal ini menunjukkan bahwa tekanan
+eksternal tidak bisa mempengaruhi terhadap kecurangan laporan keuangan. Temuan dari penelitian ini sama dengan penelitian Ardiyani dan
+Utaminingsih, (2015) yang menyatakan bahwa
+leverage merupakan biaya tetap yang digunakan
+untuk mendanai perusahaan. Biaya ini dapat
+menguntungkan perusahaan apabila dapat dikelola dengan baik sehingga menghasilkan pendapatan yang lebih besar dari biaya tetap yang
+dikeluarkan. Berbeda dengan penelitian Rahayu
+dan Yesiariani (2017) yang menyatakan bahwa
+tekanan eksternal (X3) berpengaruh positif
+signifikan terhadap resiko terjadinya financial
+statement fraud. Hal ini kemungkinan perusahaan tidak memiliki kemampuan dalam mengembalikan hutangnya sehingga menjadi tekanan bagi manajemen untuk melakukan manipulasi.
+Target Keuangan (X4) terhadap Kecurangan
+Laporan Keuangan (Y).
+Hasil pengujian hipotesis keempat menunjukkan bahwa target keuangan (X4) tidak berpengaruh signifikan terhadap kecurangan laporan
+keuangan ini terlihat dari nilai secara statistik
+signifikan yaitu p-value 0.121 > 0.05. Temuan
+ini dari penelitian ini sama dengan penelitian
+Marfuah dan Tiffani, (2015) bahwa tekanan
+keuangan (X4) tidak berpengaruh signifikan
+terhadap kecurangan laporan keuangan. Hasil ini
+mungkin disebabkan karena keuntungan perusahaan digunakan unuk jangka pendek, padahal
+manajer harus memikirkan progam jangka
+panjang agar dapat meningkatkan keuntungan
+perusahaan secara keseluruhan. Berbeda dengan
+penelitian Rahayu dan Yesiariani (2017) yang
+menyatakan bahwa target keuangan tidak berpengaruh positif signifikan terhadap resiko
+terjadinya financial statement fraud.
+Kondisi Industri (X5) terhadap Kecurangan
+Laporan Keuangan (Y).
+Hasil pengujian hipotesis kelima menunjukkan bahwa kondisi industri (X5) tidak berpengaruh signifikan terhadap kecurangan laporan
+keuangan ini terlihat dari nilai statistik signifikan
+
+yaitu p-value 0.062 > 0.05. Temuan dari peneliti
+ini sama dengan penelitian Marfuah dan Tiffani,
+(2015) bahwa kondisi industri (receivable) tidak
+berpengaruh signifikan terhadap kecurangan
+laporan keuangan. Hasil ini mungkin disebabkan
+karena perusahaan memiliki nilai rata-rata perubahan piutang dari tahun sebelumnya yang tidak
+berpengaruh terhadap perputaran kas perusahaan.
+Banyaknya piutang usaha yang dimiliki perusahaan tidak mengurangi jumlah kas yang dapat
+digunakan perusahaan untuk kegiatan operasionalnya sehingga rasio perubahan dalam piutang
+usaha tidak memicu manajemen melakukan
+kecurangan laporan keuangan. Berbeda dengan
+penelitian Summers dan Sweeney, 1998 (dalam
+peneltian Marfuah dan Tiffani, 2015) yang
+menunjukkan bahwa rasio perubahan dalam piutang usaha (X5) berpengaruh positif terhadap
+kecurangan laporan keuangan.
+Ketidak Efektifan Pengawasan (X6) terhadap
+Kecurangan Laporan Keuangan (Y). Hasil
+pengujian hipotesis keenam menunjukkan bahwa
+ketidak efektifan pengawasan (X6) berpengaruh
+signifikan terhadap kecurangan laporan keuangan ini terlihat dari nilai statistik signifikan
+yaitu p-value 0.008 < 0.05. Temuan dari penelitian ini sama dengan penelitian Skousen et al.
+(2009) bahwa ketidak efektifan pengawasan (X6)
+berpengaruh negatif terhadap kecurangan laporan
+keuangan. Hasil ini mungkin disebabkan perusahaan memilki tingkat efektifitas pengawasan
+rendah yang akan menaikan potensi manajemen
+untuk melakukan kecurangan laporan keuangan.
+Berbeda dengan penelitian Rahayu dan Yesiariani (2017) yang menyatakan bahwa ketidak
+efektifan pengawasan tidak berpengaruh positif
+tidak signifikan terhadap resiko terjadinya financial statement fraud.
+Rasionalisasi (X7) terhadap Kecurangan
+Laporan Keuangan (Y).
+Hasil pengujian hipotesis ketujuh menunjukkan bahwa rasionalisasi (X7) tidak berpengaruh
+signifikan terhadap kecurangan laporan keuangan ini terlihat dari nilai statistik signifikan
+yaitu p-value 0.612 > 0.05. Temuan hasil penelitian ini sama dengan penelitian Marfuah dan
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 87
+Tiffani (2015) yang menyatakan bahwa rasionalisasi (X7) tidak berpengaruh signifikan terhadap
+kecurangan laporan keuangan. Hal ini disebabkan pergantian auditor yang dilakukan perusahaan tidak dapat digunakan mendeteksi kecurangan laporan keuangan dalam perusahaan.
+Berbeda dengan penelitian Skousen et al. (2009)
+(dalam penelitian Marfuah dan Tiffani, 2015)
+yang menunjukkan bahwa rasionalisasi (X7)
+berpengaruh positif terhadap kecurangan laporan
+keuangan. Hasil ini kemungkinan disebabkan
+karena perusahaan sampel yang melakukan
+pergantian auditor bukan disebabkan perusahaan
+ingin mengurangi kemungkinan pendeteksian
+kecurangan laporan keuangan oleh auditor lama,
+tetapi lebih dikarenakan perusahaan ingin
+menaati peraturan Menteri Keuangan Republik
+Indonesia Nomor 17/PMK.01/2008 pasal 3 ayat
+1 yang menyatakan bahwa pemberian jasa audit
+umum atas laporan keuangan dari suatu entitas
+dapat dilakukan paling lama untuk 6 (enam)
+bulan buku berturut-turut oleh KAP yang sama
+dan 3 (tiga) tahun berturut-turut oleh auditor
+yang sama kepada satu klein yang sama.
+5.
+
+Kesimpulan
+Berdasarkan penelitian dapat disimpulkan
+bahwa bahwa stabilitas keuangan tidak berpengaruh signifikan terhadap kecurangan laporan
+keuangan, kedua menunjukkan bahwa kebutuhan
+keuangan pribadi berpengaruh positif signifikan
+terhadap kecurangan laporan keuangan, ketiga
+menunjukkan bahwa tekanan eksternal berpengaruh negatif signifikan terhadap kecurangan
+laporan keuangan kondisi ini berlawan dengan
+hipotesis yang telah diajukan, keempat menunjukkan bahwa target keuangan tidak berpengaruh
+signifikan terhadap kecurangan laporan, kelima
+menunjukkan bahwa kondisi industri tidak berpengaruh signifikan terhadap kecurangan laporan
+keuangan keenam menunjukkan bahwa ketidak
+efektifan pengawasan berpengaruh signifikan
+terhadap kecurangan laporan keuangan, ketujuh
+menunjukkan bahwa rasionalisasi tidak berpengaruh signifikan terhadap kecurangan laporan
+
+keuangan pada perusahaan manufaktur di Indonesia.
+6.
+
+Ucapan Terimakasih
+Penulis menyampikan terima kasih kepada
+Sekolah Tinggi Ilmu Ekonomi PGRI Dewantara
+Jombang yang telah mendukung dalam
+penyelesaian penelitian ini.
+7. Daftar Pustaka
+American Institute of Certified Public
+Accountants
+(AICPA).
+(2002).
+Consideration of Fraud in a Financial
+Statement Audit. Statement on Auditing
+Standards No. 99. New York, NY: AICPA.
+Ardiyani, S., & Utaminingsih, N. S. (2015).
+Analisis Determinan Financial Statement
+Melalui Pendekatan Fraud Triangle.
+Accounting Analysis Journal, 4(1).Indonesia,
+19(2), 112-125.
+Choo, F., & Tan, K. (2007, June). An “American
+Dream” theory of corporate executive Fraud.
+In Accounting forum (Vol. 31, No. 2, pp.
+203-215). Elsevier.
+Diany, Y. A., & Ratmono, D. (2014). Determinan kecurangan laporan keuangan:
+pengujian teori fraud triangle (Doctoral
+dissertation, Fakultas Ekonomika dan
+Bisnis).
+Dorminey, J., Fleming, A. S., Kranacher, M. J.,
+& Riley Jr, R. A. (2012). The evolution of
+fraud theory. Issues in Accounting Education,
+27(2), 555-579.
+Hogan, C. E., Rezaee, Z., Riley Jr, R. A., &
+Velury, U. K. (2008). Financial statement
+fraud: Insights from the academic literature.
+Auditing: A Journal of Practice & Theory,
+27(2), 231-252.
+Kassem, R., & Higson, A. (2012). The new fraud
+triangle model. Journal of Emerging Trends
+in Economics and Management Sciences,
+3(3), 191.
+Lou, Y. I., & Wang, M. L. (2011). Fraud risk
+factor of the fraud triangle assessing the
+likelihood of fraudulent financial reporting.
+Journal of Business & Economics Research
+(JBER), 7(2).
+Megakarina, N., Djaddang, S., & Lysandra, S.
+(2016). Pengujian perbedaan deteksi
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+Jurnal Akuntansi dan Pajak, 19(01), 2018, 88
+kecurangan berbasis fraud triangle: study
+kantor akuntan publik di jakarta. Jurnal
+manajemen uika, 7(1), 35-46.
+Najah, A. F. (2013). Faktor-faktor yang
+mempengaruhi fraud: persepsi pegawai
+Dinas Provinsi DIY. Accounting Analysis
+Journal, 2(3).
+Pamungkas, I. D., Ghozali, I., & Achmad, T.
+(2018). A pilot study of corporate
+governance and accounting fraud: The fraud
+diamond model. Journal of Business and
+Retail Management Research, 12(2).
+Priantara, D. (2013). Fraud Auditing &
+Investigation. Jakarta: Mitra Wacana Media.
+Sihombing, K. S., & Rahardjo, S. N. (2014).
+Analisis fraud diamond dalam mendeteksi
+financial statement fraud: studi empiris
+pada perusahaan manufaktur yang terdaftar
+di Bursa Efek Indonesia (BEI) Tahun 20102012 (Doctoral dissertation, Fakultas
+Ekonomika dan Bisnis).
+
+statement fraud: The effectiveness of the
+fraud triangle and SAS No. 99. In Corporate
+Governance and Firm Performance (pp. 5381). Emerald Group Publishing Limited.
+Tiffani, L., & Marfuah, M. (2015). Deteksi
+financial statement fraud dengan analisis
+fraud triangle pada perusahaan manufaktur
+yang terdaftar di bursa efek Indonesia.
+Jurnal Akuntansi dan Auditing.
+Tuanakotta, T. M. (2007). Akuntansi forensik
+dan audit investigatif. Jakarta: Fakultas
+Ekonomi Universitas Indonesia.
+Utomo, L. P. (2015). Pengaruh Postur Motivasi
+Atas Cara Pandang Wajib Pajak Kepada
+Fiskus Terhadap Kepatuhan Pembayaran
+Pajak Orang Pribadi. Eksis: Jurnal Riset
+Ekonomi dan Bisnis, 10 (2).
+Yesiariani, M., & Rahayu, I. (2017). Deteksi
+financial statement fraud: Pengujian dengan
+fraud diamond. Jurnal Akuntansi dan
+Auditing Indonesia, 21(1), 49-60.
+
+Skousen, C. J., Smith, K. R., & Wright, C. J.
+(2009). Detecting and predicting financial
+
+Jurnal Akuntansi dan Pajak, ISSN 1412-629X l E-ISSN 2579-3055
+
+

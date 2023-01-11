@@ -1,0 +1,958 @@
+p – ISSN : 2721 – 7752 | e – ISSN : 2721 – 9704
+Buletin GAW Bariri (BGB) Volume 1 | Nomor 1 | Juni 2020 : 1 – 11
+
+Buletin GAW Bariri
+
+Analisis Iklim Provinsi Sulawesi Tengah berdasarkan Data
+Pemantau Cuaca Otomatis BMKG
+Solih Alfiandy1*, Donaldi Sukma Permana1, Andi Wahid Nurjaman1, Wenas Ganda Kurnia1,
+Laura Prastika1, Henri Panggabean1, M. Soeharto D.P.R1, Santy Wulandari1, Hadi Setiawan1,
+Asep Hendrawan1, Miranda1
+1
+
+Stasiun Pemantau Atmosfer Global Lore Lindu Bariri, Palu, 94231
+Email: solihalfiandy@gmail.com
+
+*
+
+Naskah Masuk: 23 Januari 2020 | Naskah Diterima: 01 Maret 2020 | Naskah Terbit: 01 Juni 2020
+
+Abstrak. Sulawesi Tengah merupakan salah satu provinsi terbesar di Indonesia yang memiliki
+daratan dengan ketinggian berkisar dari 10 – 2000 mdpl, terdapat beberapa danau dan
+dikelilingi oleh selat, teluk, laut dan pegunungan. Tujuan dari kajian penelitian adalah untuk
+mengetahui pola musim pada masing – masing lokasi alat pemantau cuaca otomatis yang
+terdapat di provinsi Sulawesi Tengah. Dari hasil analisis yang diperoleh bahwa curah hujan
+pada tiap pemantau cuaca otomatis yang tersebar memiliki dua pola musim yakni pola
+ekuatorial dan anti monsunal, terdapat juga pola variasi anti monsunal dan menyerupai anti
+monsunal yang kering pada beberapa wilayah. Faktor yang menyebabkan variasi musim di
+Sulawesi Tengah adalah letak geografis dan topografi.
+Kata Kunci : Iklim, Pola Iklim, Variasi Musim, Alat Pemantau Cuaca Otomatis, Provinsi
+Sulawesi Tengah
+Abstract. Central Sulawesi is one of Indonesia’s largest provinces, which has a land area with
+topography ranges from 10 – 2000 meters above sea level, several lakes, and are surrounded
+by straits, bays, seas, and mountains. The study aimed to determine the seasonal pattern at
+locations of each automatic weather stations in the Central Sulawesi province. The results
+showed that there are two seasonal rainfall patterns at locations of each automatic weather
+stations, which are equatorial and anti monsoonal patterns. Besides, the variant of anti
+monsoonal and the dry anti monsoonal patterns are also identified in some areas. Factors that
+cause seasonal variations in Central Sulawesi are geographic location and topography
+complexes.
+Keywords : Climate, Seasonal Pattern, Seasonal Variation, Automatic Weather Station,
+Central Sulawesi Province
+
+Pendahuluan
+Beragamnya tutupan lahan dan kompleksnya topografi serta letak geografis provinsi Sulawesi Tengah
+yang berada dekat dengan garis khatulistiwa sangat berpengaruh terhadap beragamnya kondisi iklim di
+Provinsi Sulawesi Tengah [1]. Salah satu parameter iklim yang penting adalah curah hujan. Penelitian
+sebelumnya menunjukkan bahwa pola musim hujan di Sulawesi Tengah adalah ekuatorial (memiliki
+dua puncak musim hujan) dan anti – monsunal (memiliki satu puncak pada bulan pertengahan tahun)
+[2]. Akan tetapi, hasil penelitian di Sulawesi Tengah tersebut berdasarkan data dari sebaran lokasi
+stasiun yang kurang rapat. Selain itu, penelitian tersebut tidak menganalisa parameter iklim lainnya.
+Tujuan dalam kajian penelitian ini adalah melakukan analisis klimatologi untuk mengetahui pola
+musim beberapa parameter iklim di Sulawesi Tengah berdasarkan data dari stasiun pemantau cuaca
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+Hal | 1
+
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+otomatis dan stasiun meteorologi sinoptik yang tersebar di seluruh wilayah provinsi Sulawesi Tengah.
+Diharapkan kajian penelitian ini dapat digunakan sebagai acuan bagi penelitian selanjutnya yang
+membutuhkan data klimatologi iklim di Sulawesi Tengah.
+Letak Geografis
+Sulawesi Tengah merupakan salah satu provinsi terbesar yang ada di wilayah kesatuan Republik
+Indonesia. Provinsi Sulawesi Tengah terdiri dari 1 kota dan 12 kabupaten dengan luas area 63.689
+km2. Pada tahun 1990, tata guna lahan di wilayah provinsi Sulawesi Tengah meliputi areal hutan
+seluas 39.806 km2 atau 62.5%, area semak belukar seluas 3.949 km2 atau 6.2%. padang rumput seluas
+2.102 km2 atau 3.3%, area ladang seluas 1.465 km2 atau 2.3%, dataran tinggi seluas 828 km2 atau
+1.3%, area sawah seluas 1.465 km2 atau 2.3%, area perkebunan seluas 1.529 km2 atau 2.4%, area
+perairan darat seluas 382 km2 atau 0.6%, daerah tandus seluas 64 km2 atau 0.1%, area pemukiman
+seluas 382 km2 atau 0.6%, dan budidaya lainnya seluas 11.719 km2 atau 18.4% dari seluruh luas
+wilayah [3]. Provinsi Sulawesi Tengah terletak pada 4˚ LS – 1.5˚ LU dan 119.5˚ BT-124.5˚ BT
+(Gambar 1) dan terdiri dari wilayah pegunungan dan perbukitan yang mencakup sebagian besar
+wilayah provinsi, serta dataran rendah yang umumnya tersebar di sepanjang pantai dan sekitarnya.
+Dataran wilayah Sulawesi Tengah mempunyai ketinggian berkisar dari 10 – 2000 meter diatas
+permukaan laut (mdpl). Wilayah ini memiliki dua buah danau, yaitu danau Poso dan Lindu, serta
+beberapa sungai yang cukup besar dan pegunungan yaitu gunung Sojol, Bulu
+Tumpu, Hohoban, Balantak Tompotika, Witim – pondo, Mungku, Mapipi, Nokilalaki, dan gunung
+Loli.
+Alat Pemantau Cuaca Otomatis
+BMKG memiliki beberapa jenis alat pemantau otomatis yaitu AWS (Automatic Weather Station),
+AAWS (Agroclimate Automatic Weather Station) dan ARG (Automatic Rain Gauge). Peralatan
+pengamatan otomatis ini memiliki satu atau beberapa sensor dan menghasilkan data seperti suhu
+udara, kelembapan relatif, arah dan kecepatan angin, intensitas radiasi matahari, tekanan udara dan
+curah hujan, suhu tanah, kelembapan tanah, dan sebagainya. Pada masa yang akan datang, BMKG
+akan menjalakan program otomatisasi (sebagai pengganti pengamatan manual) [4], akan tetapi WMO
+mensyaratkan perlunya pengujian data pararel antara otomatis dan pengukuran manual sebelum
+diberlakukan [5]. AWS pada umumnya dilengkapi dengan sensor, RTU (Remote Terminal Unit),
+computer, LED Display, tiang untuk dudukan sensor dan data logger serta penangkal petir [6].
+
+Metode Penelitian
+Metode yang digunakan dalam kajian penelitian ini adalah metode rata – rata dan plot gambar yang
+dihasilkan merupakan hasil pengolahan menggunakan Matlab. Dalam kajian penelitian ini difokuskan
+pada analisis grafik untuk melihat pola musim pada masing – masing wilayah berdasarkan lokasi alat
+pemantau cuaca otomatis.
+
+Gambar 1. Peta sebaran alat pemantau cuaca otomatis dan stasiun meteorologi sinpotik (Unit Pelaksana Teknis)
+di Sulawesi Tengah. Angka pada grafik mewakili nama dan lokasi stasiun yang bersesuaian pada Tabel 1.
+Buletin GAW Bariri (BGB) Vol. 1 No. 1 Tahun 2020 : 1 – 11
+
+Hal | 2
+
+Buletin GAW Bariri
+
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+Karena keterbatasan data dan masalah teknis lainnya, tidak semua data stasiun pemantau cuaca
+otomatis digunakan dalam kajian penelitian ini. Adapun lokasi stasiun pemantau cuaca dan data yang
+digunakan pada kajian penelitian ini diberikan pada Gambar 1, Tabel 1 dan Tabel 2. Pada kajian ini,
+analisis iklim hanya difokuskan pada unsur suhu udara, kelembaban relatif, arah dan kecepatan angin,
+intensitas radiasi matahari, tekanan udara dan curah hujan. Unsur iklim ini merupakan data dasar yang
+pemanfaatannya dapat digunakan pada sektor pertanian, penerbangan, pembangunan infrastruktur dan
+umum lainnya. Pengelolaan peralatan pemantau cuaca otomatis dilakukan secara kerja sama dengan
+instansi lain dari sektor pertanian.
+Tabel 1. Letak geografis stasiun pemantau cuaca otomatis dan unsur data iklim.
+No
+
+Tipe & Nama
+Stasiun
+
+Kabupaten/
+Kota
+
+Koordinat (◦)
+Lintan
+Bujur
+g
+
+Elevas
+i
+(mdpl)
+
+Periode Data
+
+Unsur
+Iklim
+
+Keterangan
+
+1
+
+ARG Karya Mukti
+
+Donggala
+
+0.18
+
+119.92
+
+17.32
+
+11/2017 – 1/2019
+
+RR
+
+-
+
+2
+
+ARG Tanamea
+
+Donggala
+
+-0.83
+
+119.62
+
+9.03
+
+11/2017 –
+12/2017,
+4/2018 – 1/2019
+
+RR
+
+-
+
+3
+
+ARG Dolo Barat
+
+Sigi
+
+-1.08
+
+119.87
+
+88.71
+
+10/2015 – 4/2017
+
+RR
+
+-
+
+4
+
+ARG Palolo
+
+Sigi
+
+-1.14
+
+120.08
+
+586.68
+
+8/2016 – 1/2019
+
+RR
+
+-
+
+5
+
+ARG Kulawi
+
+Sigi
+
+-1.41
+
+119.98
+
+684.5
+
+10/2015 – 7/2017
+
+RR
+
+-
+
+6
+
+ARG Kilo
+
+Poso
+
+-1.28
+
+120.58
+
+7.15
+
+8/2016 – 1/2019
+
+RR
+
+-
+
+7
+
+ARG Poso
+
+Poso
+
+-1.92
+
+120.91
+
+329
+
+3/2015 – 6/2015,
+12/2018 –
+1/2019*
+
+-
+
+Data terbatas
+
+8
+
+ARG Petasia
+
+Morowali
+Utara
+
+-2.02
+
+121.34
+
+11.74
+
+2016 – 2018*
+
+-
+
+Data terbatas
+
+9
+
+ARG Bungku
+Tengah
+
+Morowali
+
+-2.46
+
+121.91
+
+13.67
+
+1/2015 – 12/2016
+
+RR
+
+10
+
+ARG Bahodopi
+
+Morowali
+
+-2.80
+
+122.13
+
+10.17
+
+2019*
+
+-
+
+11
+
+ARG Ratolindo
+
+Tojo Una-Una
+
+-0.91
+
+121.58
+
+75.22
+
+4/2018 – 1/2019
+
+RR
+
+12
+
+ARG Simpangraya
+
+Banggai
+
+-0.94
+
+122.24
+
+97
+
+2018*
+
+-
+
+Data terbatas
+
+ARG UPTD
+Ampibabo
+ARG BPBD
+Donggala
+
+Parigi
+Moutong
+
+-0.45
+
+120.07
+
+5
+
+2018*
+
+-
+
+Data terbatas
+
+Donggala
+
+-0.68
+
+119.75
+
+63
+
+2018*
+
+-
+
+Data terbatas
+
+T, RH,
+W, P
+
+2018 – 2019
+hanya W, P
+
+13
+14
+
+10/2014 –
+6/2017,
+1/2018 – 2/2019
+10/2014 –
+12/2015,
+8/2017 – 4/2018,
+2/2019
+
+Data terbatas
+
+15
+
+AWS Banawa
+Donggala
+
+Donggala
+
+-0.68
+
+119.75
+
+77.26
+
+16
+
+AWS Lore Piore
+
+Poso
+
+-1.53
+
+120.33
+
+1120
+
+17
+
+AWS GAW Bariri
+
+Poso
+
+-1.65
+
+120.18
+
+1370
+
+12/2015 – 3/2019
+
+18
+
+AWS Lalundu
+
+Donggala
+
+-1.29
+
+119.51
+
+32.3
+
+10/2017 – 3/2019
+
+19
+
+AWS SMPK
+Dolago
+
+Parigi
+Moutong
+
+-0.90
+
+120.23
+
+9.1
+
+2019*
+
+-
+
+Data terbatas
+
+20
+
+AAWS Sidondo
+
+Sigi
+
+-1.11
+
+119.91
+
+55.22
+
+12/2014 –
+10/2015,
+5/2016 – 2/2019
+
+T, W,
+RR
+
+-
+
+21
+
+AAWS Luwuk
+Banggai
+
+Banggai
+
+-1.46
+
+122.34
+
+9.2
+
+1/2015 – 5/2017,
+12/2018 – 3/2019
+
+T, RH,
+W, RR
+
+-
+
+T, RH,
+W, SR,
+P, RR
+T, RH,
+W, SR,
+P, RR
+T, RH,
+W, SR,
+P, RR
+
+-
+
+-
+
+-
+
+Buletin GAW Bariri (BGB) Vol. 1 No. 1 Tahun 2020 : 1 – 11
+
+Hal | 3
+
+Buletin GAW Bariri
+
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+22
+
+AAWS Donggala
+
+Donggala
+
+0.47
+
+119.98
+
+8.76
+
+1/2015 – 3/2019
+
+T, RH,
+W, RR
+
+RR hanya
+1/201512/2016
+-
+
+AAWS Parigi
+Parigi
+T, RH,
+-0.99
+120.31
+10.8
+1/2015 – 3/2019
+Moutong
+Moutong
+W, RR
+RR = curah hujan, T = suhu udara permukaan, RH = kelembaban, P = tekanan udara, W = angin, SR = intensitas radiasi
+matahari, * = data terbatas
+23
+
+WMO.
+ID
+97072
+
+Tabel 2. Letak geografis stasiun meteorologi sinoptik dan unsur data iklim.
+Koordinat (◦)
+Elevasi
+Unsur Iklim (Periode Data)
+Nama Stasiun
+(mdpl)
+Lintang
+Bujur
+RR (1982 – 2017), T (1976 – 2015)
+Mutiara Sis Al-Jufri, Palu
+-0.92
+119.90
+84
+
+97096
+
+Kasiguncu, Poso
+
+-1.42
+
+120.65
+
+12.02
+
+RR (1998 – 2017), T (1999 – 2018)
+
+97028
+
+Sultan Bantilan, Tolitoli
+
+1.12
+
+120.5
+
+247.63
+
+RR (1982 – 2017), T (1987 – 2018)
+
+97086
+
+Syukuran Aminuddin Amir
+Luwuk, Banggai
+
+-1.04
+
+122.77
+
+33
+
+RR (1998 – 2017), T (2011 – 2018)
+
+RR = curah hujan, T = suhu udara permukaan
+
+Sebelum dilakukan pengolahan data iklim hingga menjadi sebuah grafik maupun produk, hal pertama
+yang dilakukan adalah mengumpulkan data alat pemantau cuaca otomatis tersebut dari AWS center
+BMKG (http://202.90.198.212/awscenter/index.php). Setelah data terkumpul, langkah selanjutnya
+adalah melakukan kontrol kualitas (quality control/QC) data untuk menghilangkan pencilan dan
+kesalahan (error) pada data. Proses QC dilakukan secara manual. Sedangkan proses perhitungan dan
+plot grafik menggunakan skrip berbasis perangkat lunak MATLAB.
+
+Hasil dan Pembahasan
+Dalam rangka peningkatan kualitas pemahaman tentang kondisi iklim di wilayah provinsi Sulawesi
+Tengah, kajian penelitian mengenai analisis klimatologi telah dilakukan berdasarkan data dari stasiun
+pemantau cuaca otomatis dan sinoptik yang tersebar di Provinsi Sulawesi tengah. Saat ini, BMKG
+memiliki 4 stasiun sinoptik yang mengamati parameter iklim tiap harinya, diantaranya Stasiun
+Meteorologi Mutiara Sis Al – Jufri di Kota Palu, Stasiun Meteorologi Sultan Bantilan di Kabupaten
+Tolitoli, Stasiun Meteorologi Kasiguncu di Kabupaten Poso, dan Stasiun Meteorologi Syukuran
+Aminuddin Amir Luwuk di Kabupaten Banggai. BMKG juga memiliki 23 stasiun pemantau cuaca
+otomatis di Sulawesi Tengah berupa 5 AAWS, 4 AWS, dan 14 ARG. Luaran data dari alat pemantau
+cuaca otomatis adalah per 10 menit.
+Suhu udara
+Suhu maksimum, rata – rata, dan minimum bulanan stasiun pemantau cuaca otomatis dan stasiun
+meteorologi sinoptik (UPT) dapat dilihat pada Gambar 2. Pada umumnya, suhu udara maksimum, rata
+– rata, dan minimum bulanan dalam setahun memiliki dua kali puncak yakni April – Mei dan
+September – Oktober pada tiap pemantau cuaca. Hal ini tentunya sangat dipengaruhi oleh pergerakan
+semu matahari yang melewati garis ekuator sebanyak dua kali dalam setahun. Akan tetapi,
+diidentifikasi bahwa suhu puncak maksimum dan minimum pada tiap pemantau cuaca terjadi pada
+bulan yang berbeda. Hal tersebut dapat disebabkan oleh letak geografis, perbedaan musim dan kondisi
+lingkungan di sekitar alat pemantauan cuaca. Hasil ini didukung oleh penelitian sebelumnya yang
+menyatakan bahwa kondisi lingkungan seperti dekat pesisir pantai mempengaruhi kondisi suhu udara
+pada wilayah tersebut [7].
+Sulawesi Tengah terkenal dengan 5 tipe wilayah topografi yang terdiri dari pegunungan, lembah,
+lautan, teluk dan sungai, serta identik dengan kondisi musim yang tidak berpola. Perbedaan musim
+dapat mempengaruhi suhu udara. Tinggi rendahnya suhu udara dapat disebabkan oleh tingginya
+absorbsi (penyerapan panas matahari oleh unsur – unsur atmosfer yang menyerap radiasi seperti
+Buletin GAW Bariri (BGB) Vol. 1 No. 1 Tahun 2020 : 1 – 11
+
+Hal | 4
+
+Buletin GAW Bariri
+
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+oksigen, hidrogen dan debu) radiasi matahari yang diterima bumi, kondisi lingkungan dan juga elevasi.
+Selain penyebab tinggi rendahnya suhu udara pada suatu wilayah, tinggi rendahnya suhu udara juga
+akan memengaruhi berbagai proses kehidupan. Hasil ini didukung oleh penelitian sebelumnya
+mengenai dampak dari suhu udara [8]. Penelitian sebelumnya di Papua menunjukkan bahwa rentang
+suhu musiman (perbedaan rata – rata suhu bulanan dalam setahun) lebih besar pada elevasi dibawah
+2500 mdpl dibandingkan dengan elevasi diatas 2500 mdpl [8]. Hal ini menunjukkan bahwa elevasi
+berpengaruh pada suhu udara. Suhu udara pada AWS Lore Piore (1120 mdpl) dan AWS GAW Bariri
+(1370 mdpl) lebih rendah dibandingkan dengan suhu pada lokasi lainnya. Secara umum, untuk semua
+lokasi alat, suhu maksimum berkisar pada 30 – 34℃, suhu rata – rata berkisar 25 – 28℃, suhu
+minimum berkisar pada 22 – 25℃. Pengecualian terjadi pada AWS Lore Piore dan AWS GAW Bariri
+dengan suhu maksimum berkisar pada 26 – 28℃, suhu rata-rata berkisar 19 – 21℃, suhu minimum
+berkisar pada 15 – 17℃.
+Kelembapan relatif
+Kelembapan relatif rata – rata dari stasiun pemantau cuaca otomatis memiliki nilai maksimum dan
+minimun yang bervariasi antara 74 – 89%. Pada siang hari rata – rata kelembapan relatif dari tiap alat
+pemantau cuaca otomatis yaitu antara 65 – 82% dan rata – rata saat malam hari yaitu 87 – 98%
+(Gambar 3). Selain itu, terdapat 2 puncak kelembapan relatif tertinggi pada masing – masing alat
+pemantau cuaca otomatis yakni pada bulan April, Mei, Juni dan November. Sedangkan, kelembapan
+relatif terendah pada masing – masing stasiun pemantau cuaca otomatis terjadi pada bulan September,
+Oktober dan November. Tinggi rendahnya kelembaban relatif disebabkan oleh meningkatnya uap air
+di udara dari lingkungan sekitar perairan dekat dengan lokasi alat pemantau cuaca. Secara umum,
+kelembaban relatif pada saat siang hari dari tiap pemantau cuaca otomatis tidak kurang dari 64%.
+Akan tetapi, pada kota Palu yang terletak diantara banyaknya pegunungan (lembah) dapat memiliki
+kelembapan relatif antara 40 – 60% pada siang hari karena kondisi letak geografisnya yang berada di
+ekuator. Variasi kelembapan relatif yang terjadi pada tiap pemantau cuaca kemungkinan disebabkan
+oleh faktor sumber uap air yang berasal dari lahan/hutan dan perairan di sekitar Sulawesi Tengah
+seperti Teluk Palu, Teluk Tomini, Teluk Tolo, Teluk Bone, Selat Makassar, Laut Maluku dan Laut
+Banda. Rentang kelembaban relatif juga bisa dipengaruhi oleh elevasi dan musim [8].
+Kecepatan dan Arah Angin
+Gambar 4 menunjukkan arah dan kecepatan angin pada stasiun pemantau cuaca otomatis. Secara
+umum, kecepatan angin rata – rata pada tiap wilayah pemantauan cuaca cukup rendah, tidak lebih dari
+4 knot. Kemudian untuk arah angin dominan pada siang hari di tiap stasiun pemantau berasal dari arah
+barat daya (southwest) dan selatan (south). Sedangkan pada malam hari arah angin dominan berbeda
+pada beberapa stasiun pemantau cuaca otomatis seperti Luwuk Banggai dan Lalundu yang masing –
+masing berasal dari arah tenggara (southeast) dan barat (west). Perbedaan arah angin antara siang dan
+malam hari ini dapat disebabkan oleh faktor lokal seperti mekanisme angin lembah – gunung dan
+angin darat – laut. Hal ini sesuai dengan lokasi AAWS Luwuk Banggai dan AWS Lalundu yang
+berada di dekat pantai sehingga mekanisme angin darat – laut sangat dominan. Rendahnya kecepatan
+angin dan perbedaan arah angin pada tiap lokasi alat pemantau cuaca di Provinsi Sulawesi Tengah
+disebabkan karena berada pada topografi yang kompleks dan berbeda – beda.
+Topografi pegunungan dan hutan tropis dapat mengurangi kecepatan angin yang melaluinya, sehingga
+pergerakan angin sangat bergantung pada lingkungan di sekitar alat pemantau cuaca otomatis.
+Interaksi antara angin darat – laut dan angin lembah – gunung dapat menyebabkan kecepatan angin
+meningkat. Misalnya kombinasi antara angin darat dan angin gunung pada malam hari dapat
+meningkatkan kecepatan angin pada malam hari, seperti terlihat pada AAWS Donggala dan AAWS
+Parigi Moutong. Angin kuat yang menabrak pegunungan juga bisa membuat sirkulasi kembali pada
+wilayah tersebut dengan kecepatan angin yang semakin rendah karena terjadi perpecahan aliran massa
+udara. Pergerakan angin dapat terjadi karena pemanasan pada suatu wilayah yang membuat tekanan
+udara menjadi lebih rendah, sehingga massa udara bergerak dari wilayah bertekanan tinggi menuju
+wilayah bertekanan rendah.
+Buletin GAW Bariri (BGB) Vol. 1 No. 1 Tahun 2020 : 1 – 11
+
+Hal | 5
+
+Buletin GAW Bariri
+
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+Gambar 2. Grafik suhu maksimum, rata – rata, dan minimum bulanan stasiun pemantau cuaca otomatis dan
+stasiun meteorologi sinoptik.
+
+Gambar 3. Grafik kelembaban relatif rata – rata, saat siang hari dan malam hari pada stasiun pemantau cuaca
+otomatis.
+Buletin GAW Bariri (BGB) Vol. 1 No. 1 Tahun 2020 : 1 – 11
+
+Hal | 6
+
+Buletin GAW Bariri
+
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+Gambar 4. Grafik kecepatan dan arah angin rata-rata, saat siang hari dan malam hari pada stasiun pemantau
+cuaca otomatis.
+
+Gambar 5. Grafik intensitas radiasi matahari rata – rata dan maksimum pada siang hari pada stasiun pemantau
+cuaca otomatis.
+
+Buletin GAW Bariri (BGB) Vol. 1 No. 1 Tahun 2020 : 1 – 11
+
+Hal | 7
+
+Buletin GAW Bariri
+
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+Gambar 6. Grafik tekanan udara rata – rata diurnal dan bulanan pada stasiun pemantau cuaca otomatis.
+
+Gambar 7. Grafik curah hujan bulanan pada stasiun pemantau cuaca otomatis dan sinoptik.
+
+Intensitas Radiasi Matahari
+Gambar 5 menunjukkan intensitas radiasi matahari rata – rata dan maksimum siang hari pada beberapa
+stasiun pemantau cuaca otomatis. Intensitas radiasi matahari rata – rata siang hari (06.00 – 18.00 LT)
+memiliki rentang nilai antara 300 – 500 W/m2 atau setara dengan 26 – 43 MJ/m2 per hari pada lokasi
+Buletin GAW Bariri (BGB) Vol. 1 No. 1 Tahun 2020 : 1 – 11
+
+Hal | 8
+
+Buletin GAW Bariri
+
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+AWS Lore Piore, GAW Bariri dan Lalundu. Nilai ini lebih tinggi dari rata – rata intensitas radiasi
+matahari di beberapa kota di Indonesia yang berkisar pada 15 – 25 MJ/m2hari berdasarkan data tahun
+1969 – 1976 [9] dan juga daerah Papua yang berkisar pada 50 – 225 W/m2 [8]. Terdapat dua puncak
+intensitas radiasi matahari dalam setahun yaitu pada bulan Maret – April dan September – Oktober
+dengan intensitas pada bulan September – Oktober lebih tinggi dibandingkan dengan bulan Maret –
+April. Hal ini erat kaitannya dengan pergerakan semu matahari. Sedangkan intensitas radiasi matahari
+terendah terjadi pada bulan Juni. Selain itu, intensitas radiasi matahari maksimum pada AWS Lore
+Piore dan GAW Bariri berada pada rentang nilai 1050 – 1400 W/m2 dengan pola musim yang sama.
+Hal ini sangat bermanfaat untuk penggunaan dan pemberdayaan tenaga surya (solar panel) sebagai
+alternatif sumberdaya listrik di wilayah AWS GAW Bariri. Saat ini, sumber daya tenaga surya telah
+digunakan untuk membangkitkan listrik sebesar 10 kV untuk peralatan pengukuran gas rumah kaca di
+Stasiun Pemantau Atmosfer Global Lore Lindu Bariri.
+Perbedaan intensitas radiasi matahari yang diterima pada tiap stasiun pemantau cuaca otomatis dapat
+disebabkan oleh meningkatnya tutupan awan dan curah hujan pada wilayah tersebut sehingga dapat
+mempengaruhi masuknya jumlah intensitas radiasi matahari. Hasil kajian ini didukung oleh penelitian
+sebelumnya yang menyatakan bahwa kondisi atmosfer dapat memengaruhi besaran intensitas matahari
+yang masuk ke bumi [9]. Pada stasiun pemantau cuaca yang memiliki elevasi lebih tinggi, intensitas
+radiasi mempunyai pola musiman yang lemah sepanjang tahun. Hal tersebut dapat dikaitkan dengan
+tingginya tutupan awan dan curah hujan karena tingginya uap air lokal sepanjang tahun. Pada elevasi
+yang lebih tinggi diatas ~1.000 mdpl, intensitas radiasi matahari yang diterima lebih meningkat seiring
+dengan peningkatan elevasi. Hal tersebut dapat dikaitkan dengan berkurangnya kelembaban dan curah
+hujan pada rentang elevasi lokasi, sehingga dapat menyebabkan peningkatan rentang suhu harian pada
+ketinggian diatas ~1.000 mdpl.
+Tekanan Udara
+Gambar 6 menunjukkan pola tekanan udara harian dan bulanan pada AWS Banawa, AWS Lore Piore,
+AWS GAW Bariri dan AWS Lalundu. Berdasarkan grafik diketahui bahwa tekanan udara harian di
+tiap AWS mempunyai pola semidiurnal (periode 12 jam) dengan puncak pada pagi (06.00 – 09.00 LT)
+dan malam (20.00 – 23.00 LT) hari, serta rendah pada siang (14.00 – 16.00 LT) dan dini (02.00 –
+04.00 LT) hari. Secara umum, rentang nilai tekanan udara rata-rata bulanan dalam setahun (1 – 2 mb)
+lebih kecil dari rentang nilai tekanan udara harian (4 – 5 mb). Hasil ini mendukung hasil penelitian
+sebelumnya [10]. Perbedaan tekanan udara rata – rata pada tiap AWS disebabkan oleh perbedaan
+elevasi. AWS dengan elevasi kurang dari 100 mdpl memiliki tekanan diatas 1000 mb (AWS Banawa
+~1006 mb dan AWS Lalundu ~1007 mb), semakin tinggi elevasi maka semakin rendah tekanan udara
+(AWS Lore Piore ~884 mb dan AWS GAW Bariri ~871 mb).
+Curah Hujan
+Gambar 7 menunjukkan pola curah hujan pada stasiun pemantau cuaca otomatis dan sinoptik di
+Sulawesi Tengah. Tiap panel pada Gambar 7 dikelompokkan berdasarkan 4 pola curah hujan pada
+stasiun sinoptik (Stamet Poso, Palu, Luwuk dan Tolitoli) dan 2 tipe stasiun pemantau cuaca otomatis
+(AAWS/AWS dan ARG). Gambar 7a – d merupakan perbandingan pola curah hujan stasiun sinoptik
+dengan AAWS/AWS berdasarkan kedekatan jarak antara stasiun sinoptik dan AAWS/AWS.
+Sedangkan Gambar 7e – h merupakan perbandingan pola curah hujan stasiun sinoptik dengan ARG.
+Secara umum, empat stasiun sinoptik mempunyai pola curah hujan yang cukup berbeda, yakni:
+1. Stamet Poso memiliki pola musim ekuatorial dengan 2 puncak musim hujan yaitu pada bulan
+April (~300 mm) dan Desember (~200 mm). Sedangkan curah hujan terendah terjadi pada Januari
+dan September (120 – 150 mm).
+2. Stamet Luwuk memiliki pola musim anti-monsunal dengan 1 puncak hujan pada bulan Juni (200
+mm) dan hujan terendah terjadi pada bulan September – Oktober (50 mm).
+
+Buletin GAW Bariri (BGB) Vol. 1 No. 1 Tahun 2020 : 1 – 11
+
+Hal | 9
+
+Buletin GAW Bariri
+
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+3. Stamet Tolitoli memiliki 2 puncak hujan pada bulan Desember-Januari (200 – 250 mm) dan Juni –
+Juli (200 mm). Sedangkan hujan terendah terjadi pada bulan April dan September (100 mm). Pola
+musim ini merupakan variasi dari pola musim anti – monsunal.
+4. Stamet Palu memiliki 1 puncak hujan pada bulan Juni – Juli (70 – 80 mm) dan hujan terendah
+terjadi pada bulan Desember – Februari (40 – 50 mm). Pola ini menyerupai pola anti – monsunal
+dengan rata – rata hujan bulanan yang cukup rendah (<100 mm).
+Pada Gambar 7a terlihat bahwa puncak musim hujan pada AWS Parigi Moutong yaitu bulan April dan
+Desember, kemudian curah hujan terendah terjadi pada bulan Januari dan September. Puncak curah
+hujan pada AWS Lore Piore yaitu pada bulan April dan Oktober, curah hujan terendah terjadi pada
+bulan Juni dan September. AWS GAW Bariri memiliki tiga puncak curah hujan yaitu pada bulan
+Februari, April dan November. AAWS Lalundu hanya memiliki satu puncak curah hujan tertinggi
+yaitu pada bulan Mei dan terendah terjadi di bulan Agustus. Gambar 7b menunjukkan kemiripan pola
+curah hujan antara Stamet Palu dan AAWS Sidondo dengan puncak terjadi pada bulan Juni dan Juli,
+serta diikuti oleh bulan berikutnya. Perbedaannya terdapat pada waktu terjadinya curah hujan terendah,
+untuk stasiun meteorologi Palu terjadi pada bulan Februari dan AAWS Sidondo terjadi pada bulan
+Desember. Gambar 7c menunjukkan bahwa Stasiun Meteorologi Luwuk dan AAWS Luwuk Banggai
+memiliki pola curah hujan yang hampir sama meskipun terdapat selisih 1 bulan pada puncak curah
+hujan. Sedangkan untuk puncak curah hujan terendah dari kedua stasiun pengamatan terjadi di bulan
+Oktober.
+Hal yang sama juga terlihat pada pola curah hujan Stasiun Meteorologi Toli – toli dan AAWS
+Donggala. Gambar 7d menggambarkan bahwa kedua stasiun pengamatan memiliki dua puncak musim
+hujan yaitu di bulan Januari dan Juli. Curah hujan terendah dari kedua stasiun tersebut terjadi di bulan
+September dan pada bulan April untuk stasiun meteorologi Toli – toli dan pada bulan Maret untuk
+AAWS Donggala. Gambar 7e menunjukkan pola curah hujan pada Stasiun Meteorologi Poso, ARG
+Kulawi dan ARG Kilo. ARG Kulawi dan Stamet Poso memiliki kemiripan pola curah hujan.
+Sedangkan, ARG Kilo memiliki perbedaan pola curah hujan dengan stasiun meteorologi Poso. Puncak
+hujan pada ARG Kilo terjadi pada bulan Juni dan November. Hal ini mungkin disebabkan karena
+panjang periode data yang digunakan terbatas. Gambar 7f menggambarkan pola curah hujan pada
+Stasiun Meteorologi Palu, ARG Tanamea, ARG Dolo Barat dan ARG Palolo. ARG Tanamea memiliki
+data kosong pada bulan Januari – Maret. Walaupun lokasi keempat stasiun ini cukup berdekatan
+(Gambar 1), akan tetapi pola curah hujannya sangat bervariasi dan memiliki perbedaan. Hal ini dapat
+disebabkan karena panjang periode data ARG yang digunakan masih terbatas.
+Gambar 7g menunjukkan pola curah hujan pada Stasiun Meteorologi Luwuk, ARG Bungku Tengah
+dan ARG Ratolindo. Stamet Luwuk dan ARG Ratolindo memiliki kemiripan pola curah hujan
+meskipun terdapat sedikit perbedaan. Hal ini dapat disebabkan karena jarak antara keduanya cukup
+dekat dan berada pada kabupaten Banggai. Sedangkan antara ARG Bungku Tengah dan stasiun
+meteorologi Luwuk memiliki pola curah hujan yang berbeda, terutama pada bulan April – Juli. Hal ini
+karena jarak yang cukup jauh antara kedua stasiun tersebut. ARG Bungku Tengah berada di kabupaten
+Morowali. Perbandingan pola curah hujan antara stasiun meteorologi Toli – toli dan ARG Karya
+Mukti ditunjukkan pada Gambar 7h. Secara umum, kedua stasiun tersebut memiliki kemiripan pola
+curah hujan, meskipun memiliki perbedaan bulan puncak curah hujan. Tiap stasiun memiliki dua
+puncak curah hujan tertinggi. Puncak curah hujan tertinggi pada stasiun meteorologi Toli – toli berada
+di bulan Januari dan Juli, sedangkan pada ARG Karya Mukti terjadi di bulan Maret dan Desember.
+Kemudian untuk curah hujan terendah kedua stasiun terjadi pada bulan September.
+
+Kesimpulan
+Dari hasil analisis iklim yang telah disampaikan pada hasil dan pembahasan didapatkan beberapa
+faktor bahwa yang menyebabkan terjadinya variasi musim di Provinsi Sulawesi Tengah adalah letak
+geografis dan topografi. Letak geografisnya yang berada di antara belahan bumi Utara dan belahan
+Buletin GAW Bariri (BGB) Vol. 1 No. 1 Tahun 2020 : 1 – 11
+
+Hal | 10
+
+Buletin GAW Bariri
+
+Analisis Iklim Provinsi Sulawesi Tengah ……………………………………………………… Solih Alfiandy, dkk
+
+bumi Selatan membuat Sulawesi Tengah mendapatkan penyinaran matahari dengan intensitas yang
+lebih dibandingkan wilayah lain. Selain letak geografis, topografi wilayah Sulawesi Tengah bervariasi
+dari ketinggian 10 – 2000 meter di atas permukaan laut dan di dominasi oleh pegunungan dan pesisir.
+Atas dasar faktor tersebut yang membuat Sulawesi Tengah mengalami sirkulasi lokal seperti angin
+darat – laut dan angin orografis menjadi lebih dominan sehingga Sulawesi Tengah terkenal dengan
+wilayah yang memiliki pola hujan tipe anti – monsunal.
+
+Ucapan Terima Kasih
+Penulis mengucapkan terima kasih kepada pimpinan Stasiun Pemantau Atmosfer Global Lore Lindu
+Bariri Palu atas dukungan, saran, dan sarana prasarana dalam pelaksanaan kajian dan publikasi artikel
+ini. Penulis juga berterima kasih kepada Stasiun Geofisika Palu, Stasiun Meteorologi Mutiara Sis Al –
+Jufri Palu, Stasiun Meteorologi Sultan Bantilan Toli – toli, Stasiun Meteorologi Kasiguncu Poso, dan
+Stasiun Meteorologi Syukuran Aminuddin Amir Luwuk Banggai atas ketersediaan data dalam kajian
+ini.
+
+Daftar Pustaka
+[1]
+[2]
+
+[3]
+[4]
+
+[5]
+[6]
+
+[7]
+
+[8]
+[9]
+
+[10]
+
+E. Aldrian, “Sistem Peringatan Dini Menghadapi Iklim Ekstrem,” 2016.
+E. Aldrian and R. Dwi Susanto, “Identification of three dominant rainfall regions within
+Indonesia and their relationship to sea surface temperature,” Int. J. Climatol. A J. R. Meteorol.
+Soc., vol. 23, no. 12, pp. 1435–1452, 2003.
+A. Y. Baeda dan F. Husain, “Kajian Potensi Tsunami Akibat Gempa Bumi Bawah Laut di
+Perairan Pulau Sulawesi,” J. Civ. Eng., vol. 19, no. 1, pp. 75–82, 2012.
+N. Muhammad Ridwan dan M. Kom, “Kajian Tentang Kinerja Peralatan Klimatologi Dan
+Kualitas Udara ‘Perbandingan Data Pengamatan Parameter Meteorologi Antara Metode
+Manual Dan Otomatis Melalui Otomasi Instrumen Cuaca Dan Iklim Menggunakan
+Agroclimate Automatic Weather Station.’”
+F. Diani, S. Si, M. T. H. Permana, P. S. N, J. Teknik, dan P. N. Bandung, “Kajian Sistem
+Informasi Prakiraan Cuaca Bmkg Pada Bmkg Bandung,” vol. 2012, no. 66, pp. 15–16, 2012.
+H. Li, G. Ren, dan W. Li, “Diurnal and intra-season variation of warm-season temperature in
+coastal zone of Qinghai Lake,” Theor. Appl. Climatol., vol. 138, no. 1–2, pp. 1203–1217, 2019,
+doi: 10.1007/s00704-019-02893-x.
+D. Moraes, S. Ribeiro, dan A. C. Costa, “Modelling air temperature in Brazilian northeast to
+evaluate change patterns from 2000 to 2017,” 19th Int. Multidiscip. Sci. Geoconference, SGEM
+2019, vol. 19, no. 2.2, pp. 915–922, 2019.
+D. S. Permana, “Analisis Data Meteorologi dari Pemantau Cuaca Otomatis Berbagai Elevasi
+dan Data Radiosonde di Papua,” J. Meteorol. dan Geofis., vol. 12, no. 2, 2011.
+F. Z. Setiawati, S. N. Soraya, S. Siswanto, dan W. Wandayantolis, “Deskripsi Bias Pada
+Transisi Pengukuran Cuaca Manual Ke Pengukuran Cuaca Otomatis Dengan Analisis Data
+Pararel Di Stasiun Klimatologi Mempawah Kalimantan Barat,” J. Meteorol. dan Geofis., vol.
+20, no. 1, pp. 55–65, 2019.
+F. Le Blancq, “Diurnal pressure variation: the atmospheric tide,” Weather, vol. 66, no. 11, pp.
+306–307, 2011.
+
+Buletin GAW Bariri (BGB) Vol. 1 No. 1 Tahun 2020 : 1 – 11
+
+Hal | 11
+
+Buletin GAW Bariri
+
+

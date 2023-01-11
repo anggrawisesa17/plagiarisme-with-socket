@@ -1,0 +1,835 @@
+Jurnal Media Aplikom
+Volume 12 Nomer 1| Juni , 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+ARTIKEL ILMIAH
+
+PENGEMBANGAN E-LEARNING BERBASIS MOODLE
+DI SMK AL WASHLIYAH SUMBER
+
+Indra Maulana
+Pendidikan Teknik Informatika dan Komputer
+STKIP Invada Cirebon
+E-mail: indramaulana360@gmail.com
+
+Citation: Indra Maulana,
+"Pengembangan E-Learning Berbasis
+Moodle Di SMK AL Washliyah Sumber"
+in Jurnal MEDIA APLIKOM,Vol.12 No. 1,
+Purwokerto: STIKOM Yos Sudarso
+Publisher. 2020, pp. 1-12.
+Editor: Diwahana Mutiara Candrasari
+Received: Bulan April, 2020
+Accepted: Bulan Mei , 2020
+Published: 01 Juni , 2020
+Funding: Mandirii
+Copyright: ©2020
+Indra Maulana
+
+Abstract
+The rapid development of information and communication technology has a very large
+share in the formation and progress of the quality of the world of education. Learning
+methods have also changed in line with technological developments. E-learning is an
+innovation in the development of information technology in the world of education. Al
+Washliyah Vocational School Sumber plays a role in the development of science,
+especially in the field of Information Technology. During this time, all learning
+processes in SMK Al Washliyah Sumber are still conventional. In other words, that the
+teaching and learning process between students and teachers can only be done with
+the condition that there is a meeting between students and teachers in the classroom.
+The learning process at Al Washliyah Vocational School Sources should provide
+breadth for students to learn actively according to their understanding. Learning that
+can be obtained from e-learning is a program designed for student needs that can be
+used in learning activities. The need for communication and information now in school
+infrastructure is necessary. The needs for increasing system must be fast, easy, cheap,
+effective, and efficient. Therefore, it is necessary to use computer technology to
+enhance further success of teaching and learning activities by utilizing e-learning
+
+Keyword: : E-learning, information technology, SMK Al Washliyah Sumber, Vocational
+School, education
+
+Pendahuluan
+Latar Belakang
+
+Mengacu kepada pernyataan Mendikbud Muhadjir Effendy (2016-2019),
+(Lubis 2018) berpendapat bahwa bidang pendidikan perlu merevisi kurikulum
+dengan menambahkan lima kompetensi peserta didik dalam memasuki era
+revolusi 4.0 yaitu:
+1. Memiliki kemampuan berpikir kritis
+2. Memiliki kreatifitas dan kemampuan yang inovatif
+OPEN ACCESS
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikomi/index
+
+1 / 12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+3. Memiliki kemampuan dan keterampilan berkomunikasi
+4. Bisa bekerjasama dan berkolaborasi
+5. Memiliki kepercayaan dalam dirinya
+Selain itu agar lulusan pendidikan bisa berkompetisi, maka kurikulum
+memerlukan orientasi baru tidak hanya cukup memahami literasi lama
+(membaca, menulis dan matematika) tetapi perlu memahami literasi era
+revolusi industri 4.0. Kemampuan literasi tersebut meliputi literasi data, literasi
+teknologi dan literasi manusia. Fokus literasi data adalah kemampuan untuk
+membaca, menganalisis dan menggunakan informasi di dunia digital.
+Sedangkan literasi teknologi dengan cara memahami cara kerja mesin dan
+aplikasi teknologi. Selanjutnya literasi manusia diharapkan harus sanggup
+memahami aspek humanities, communication dan design.
+SMK Al Washliyah Sumber berperan dalam pengembangan ilmu
+pengetahuan khususnya di bidang Teknologi Informasi. Selama ini semua
+proses pembelajaran di SMK Al Washliyah Sumber masih bersifat
+konvensional, dengan kata lain bahwa proses belajar mengajar antara siswa
+dengan guru hanya dapat dilakukan dengan syarat terjadinya pertemuan
+antara siswa dengan guru di dalam kelas. Pertemuan antara siswa dengan
+guru jika tidak terjadi maka secara otomatis proses pembelajaran pun tidak
+dapat dilaksanakan. Proses transfer ilmu pengetahuan hampir sepenuhnya
+dilakukan di dalam kelas yang menyebabkan transfer ilmu pengetahuan bisa
+terlambat jika pertemuan tidak terjadi.
+Proses pembelajaran di SMK Al Washliyah Sumber seharusnya
+memberikan keluasan pada siswa untuk aktif belajar sesuai dengan
+pemahaman yang dimiliki. Untuk itu diperlukan model pembelajaran baru
+berdasarkan model yang sudah ada, Salah satu teknologi yang umum
+dimanfaatkan pada dunia pendidikan adalah penggunaan E-Learning. Banyak
+kemudahan dan kelebihan yang di dapatkan dengan penggunaan sistem ELearning, diantaranya adalah aktifitas yang tidak terbatas pada jarak dan
+waktu, proses evaluasi dapat dilakukan secara terjadwal dan otomatis, konten
+yang luas dan lebih mudah ditemukan, serta lebih efisien dengan biaya yang
+relatif lebih rendah. Pembelajaran yang bisa didapat dari E-learning adalah
+program yang didesain untuk kebutuhan-kebutuhan siswa yang dapat
+digunakan dalam kegiatan pembelajaran. Melalui fitur-fitur yang ada di dalam
+e-learning seperti diskusi kelompok, mengunduh materi, mengerjakan tugas
+sampai melaksanakan ujian sekolah yang bisa dilakukan secara online.
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+2 /12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+Kebutuhan akan komunikasi dan informasi sekarang ini dalam sebuah
+infrastruktur sekolah mutlak diperlukan. Hal ini dikarenakan dunia pendidikan
+menuntut adanya suatu sistem yang cepat, mudah, murah, efektif dan efisien.
+Oleh karena itu, diperlukan pemanfaatan teknologi komputer untuk lebih
+meningkatkan keberhasilan kegiatan belajar mengajar dengan memanfaatkan
+e-learning. SMK Al Washliyah Sumber sudah mempunyai fasilitas yang
+menunjang untuk diterapkannya pembelajaran menggunakan e-learning
+karena sudah mempunyai jaringan komputer dan wifi yang sudah terkoneksi
+dengan internet, yang bisa digunakan oleh semua siswa dan guru. Sehingga
+bisa mendukung pemanfaatan E-learning untuk kegiatan pembelajaran.
+Tinjauan Pustaka
+Menurut Dahiya yang dipublikasikan dalam penelitian Wiwin Hartanto
+(Hartanto 2016), E-learning adalah teknologi informasi dan komunikasi untuk
+mengaktifkan siswa untuk belajar kapanpun dan dimanapun. Ada 3 (tiga) hal
+penting sebagai persyaratan kegiatan belajar elektronik (E-learning), yaitu:
+
+
+kegiatan pembelajaran dilakukan melalui pemanfaatan jaringan, dalam
+hal ini dibatasi pada penggunaan internet,
+
+
+
+tersedianya dukungan layanan belajar yang dapat dimanfaatkan oleh
+peserta belajar, misalnya External Harddisk, Flaskdisk, CD-ROM, atau
+bahan cetak,
+
+
+
+tersedianya dukungan layanan tutor yang dapat membantu peserta
+belajar apabila mengalami kesulitan.
+Menurut Abdul Haris and Asti Riani (2016), E-learning dalam arti luas bisa
+
+mencakup pembelajaran yang dilakukan di media elektronik (internet) baik
+secara formal maupun informal.
+
+Istilah E-learning banyak memiliki arti
+
+karena bermacam penggunaan E-learning saat ini. E-learning terdiri dari dua
+bagian yaitu “E” yeng merupakan singkatan dari ‘elektronik’ dan ‘learning’
+yang berarti pembelajaran (Irawan and Surjono, 2018). Pada dasarnya, Elearning memiliki dua tipe yaitu synchronous dan asynchronous. Synchronous
+berarti pada waktu yang sama. Proses pembelajaran terjadi pada saat yang
+sama antara pendidik dan peserta didik. Asynchronous berarti tidak pada
+waktu bersamaan. Peserta didik dapat mengambil waktu pembelajaran
+berbeda dengan pendidik memberikan materi. Membangun E-learning tidak
+sekedar menyajikan materi pelajaran akan tetapi juga dipertimbangkan
+secara logis dan memegang prinsip pembelajaran. Desain pengembangan
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+3 /12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+yang sederhana, personal, cepat, serta terdapat evaluasi online. Evaluasi atau
+ujian online membantu peserta didik agar tidak kewalahan dalam
+mengerjakan soal (Priyanti et al. 2020). Pembelajaran E-Learning merupakan
+pembelajaran langsung dimana dalam penerapannya mengedepankan
+pembelajaran mandiri yaitu pembelajaran jarak jauh berbasis Web yang bisa
+diakses melalui jaringan internet (Rizal and Walidain 2019).
+Menurut melfachrozi (Melfachrozi, 2006), Moodle adalah paket software
+yang diproduksi untuk kegiatan belajar berbasis internet dan website.
+MOODLE merupakan singkatan dari Modular Object-Oriented Dynamic
+Learning Environment yang berarti tempat belajar dinamis dengan
+menggunakan model berorientasi objek. Salah satu Learning Management
+System (LMS) open source yang terkenal di dunia. LMS merupakan paket
+perangkat lunak yang digunakan untuk menyampaikan materi pembelajaran
+dan resources multimedia secara online berbasis web. Moodle adalah salah
+satu Learning Management System (LMS) open source yang terkenal di dunia.
+LMS merupakan paket perangkat lunak yang digunakan untuk menyampaikan
+materi pembelajaran dan resources multimedia secara online berbasis web
+(Surjono 2013).
+Hasil penelitian terdahulu dalam penelitian ini digunakan sebagai salah satu
+dasar untuk mendapatkan gambaran dalam menyusun kerangka berpikir
+dalam penelitian, dan menjadi kajian yang dapat digunakan untuk
+mengembangkan penelitian yang akan dilakukan. Terdapat beberapa
+penelitian terdahulu yang bersinergi dengan penelitian ini. Salah satunya yaitu
+(Irawan and Surjono, 2018) dengan judul “Pengembangan E-learning berbasis
+moodle dalam peningkatan pemahaman lagu pada pembelajaran bahasa
+inggris”Penelitian selanjutnya dilakukan oleh Wiwin hartanto (Hartanto, 2016)
+dipublikasikan
+
+dengan
+
+judul
+
+“Pengunaan
+
+E-learning
+
+sebagai
+
+media
+
+pembelajaran” . Penelitian pengembangan E-learning juga dilakukan oleh
+Randy Irawan dan Herman Dwi Surjono (Irawan and Surjono 2018) dalam
+Jurnal Inovasi Teknologi Pendidikan Volume 5, No 1, April 2018 dengan judul
+“Pengembangan E-learning berbasis moodle dalam peningkatkan pemahaman
+lagu pada pembelajaran bahasa Inggris”. Penelitian tersebut menghasilkan
+keefektifan produk terhadap pembelajaran bahasa Inggris pada kompetensi
+listening dibuktikan melalui peningkatan hasil belajar yang diketahui dari
+persentase hasil evaluasi pretest dan posttest yakni sebesar 17,19%.
+
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+4 /12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+Metode Penelitian
+Penelitian ini menggunakan pendekatan Research and Development.
+Menurut sudiono dalam penelitian Sri Haryati (2012), metode penelitian dan
+pengembangan adalah metode penelitian yang digunakan untuk menghasilkan
+produk tertentu, dan menguji keefektifan produk tersebut. Dalam metode
+penelitian dan pengembangan terdapat langkah-langkah dari proses yang
+harus dilakukan. Diantara langkah-langkah yang harus dilakukan adalah
+mengumpulkan informasi yang dibutuhkan dan mempelajari temuan pada
+penelitian yang berkaitan dengan produk yang akan dibuat. Setelah mendapat
+temuan, selanjutnya mengembangkan produk berdasarkan informasi dan
+temuan, menguji produk setelah jadi dan merevisi produk untuk memperbaiki
+kekurangan dari hasil uji produk. Setelah dilakukan perbaikan, produk diuji
+kembali dengan harapan kesempurnaan produk yang dibuat. Langkah terakhir
+adalah pemeliharaan produk.
+1.
+
+Pengumpulan Data
+Sumber data dalam penelitian ini dikumpulkan dari SMK Al
+Washliyah Sumber Jl. Pangeran Cakrabuana No. 19 Kemantren Sumber
+Cirebon, Kabupaten Cirebon. Objek pada penelitian ini adalah sistem
+yang dibangun yaitu aplikasi e-learning berbasis web di SMK Al Washliyah
+Sumber. Subjek penelitian ialah Admin sebagai pengolah keseluruhan
+data, Guru sebagai pengolah data pembelajaran, dan Siswa sebagai
+pengguna sistem. Sedangkan sumber data lain yaitu dari dokumentasi
+dan angket.
+
+2.
+
+Metode Penelitian
+Metode yang digunakan dalam pengembangan sistem e-learning
+moodle adalah metode waterfall. Alasan menggunakan metode ini adalah
+karena metode waterfall melakukan pendekatan secara sistematis dan
+berurutan dalam membangun suatu sistem. Menurut Pressman(2002),
+metode waterfall adalah model klasik yang bersifat sistematis, berurutan
+dalam membangun software. Namun model ini dalam makna yang
+sebenarnya adalah “Linier Sequential Model”. Sebuah pendekatan
+pengembangan perangkat lunak sistematik dan sekuensial. Disebut juga
+“Classic Life Cycle”. Disebut waterfall (berarti air terjun) karena memang
+diagram tahapan prosesnya mirip dengan air terjun yang bertingkat,
+Model ini termasuk ke dalam model generic pada rekayasa perangkat
+lunak dan pertama kali dikenalkan oleh Winston Royce pada tahun 1970
+
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+5 /12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+sehingga sering dianggap model lama, tetapi model ini yang paling banyak
+digunakan dalam Software Engineering. Model ini melakukan pendekatan
+secara sistematis dan terstruktur. Ada 5 tahapan dalam waterfall model
+seperti yang ada pada gambar berikut ini :
+
+Gambar 3.1 Waterfall Model
+1.
+
+Analisis Kebutuhan
+Pada tahap ini perlu memastikan bahwa SMK Al Washliyah Sumber
+sudah memiliki fasilitas yang mendukung untuk membuat system Elearning. Seperti perangkat computer, domain sekolah, hosting dan
+jaringan internet sudah tersedia pada SMK Al Washliyah Sumber.
+
+2.
+
+Desain Sistem
+Tujuan dari tahap ini adalah memberikan gambaran tentang apa
+yang akan dikerjakan dan bagaimana tampilannya. Dokumentasi
+yang dihasilkan dari tahap desain sistem ini antara lain perancangan
+Use Case Diagram dan Activity Diagram. Dalam melakukan desain
+aplikasi e-learning SMK Al Washliyah Sumber ini menggunakan UML
+sebagai salah satu aplikasi pendukung dalam perancangan sistem.
+
+3. Implementasi
+Desain yang sudah dirancang harus di ubah menjadi bentuk yang
+dapat dimengerti mesin (komputer). Dalam tahap ini dilakukan
+penerapan system ke dalam internet.
+4. Pengujian Sistem
+Dalam hal ini dilakukan ujicoba sistem untuk mengetahui apakah
+sistem yang telah dibuat telah sesuai dengan tujuan awal dari
+pembuatan sistem. Pada pengujian system ini menggunakan
+pengujian Black Box dan pengujian kepuasan pengguna.
+5. Perawatan
+Tahap ini merupakan tahap terakhir dalam metode waterfall. Sistem
+dapat diimplementasikan. Pemeliharaan mencakup koreksi dari
+berbagai error yang tidak ditemukan pada tahap-tahap terdahulu,
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+6 /12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+perbaikan atas implementasi dan pengembangan unit sistem, serta
+pemeliharaan program.
+Pembahasan
+
+Gambar 4.1 Use Case Diagram Sistem yang berjalan
+Dalam use case diagram, terdapat tiga aktor yang melakukan kegiatan,
+diantaranya adalah admin, guru dan siswa. Pada use case terlihat admin dapat
+mengelola semua menu yang ada pada aplikasi E-learning. Dari mulai
+pengumuman, data guru, data siswa, data kelas, data mata pelajaran dan
+chat. Sedangkan pada user guru, bisa mengelola chat, data materi dan data
+kuis. Pada user siswa dapat mengikuti chat, download materi dan mengikuti
+ujian atau kuis.
+
+Gambar 4.2 halaman depan
+
+Pada halaman depan aplikasi E-learning ini dapat dilihat pada Gambar
+4.1. Ada beberapa menu yang tampil yaitu menu login, menu chatting, menu
+berita dan menu kursus yang tersedia. Menu chatting berfungsi untuk
+membuat forum chat. Sedangkan pada menu login berguna untuk masuk ke
+dalam sistem.
+
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+7 /12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+Gambar 4.3 halaman Login
+Dalam E-learning moodle terdapat halaman login yang mempunyai fungsi
+untuk masuk ke dalam sistem moodle, baik login sebagai admin, guru dan
+siswa. Dalam E-learning ini program dibuat dengan menggunakan sistem yang
+multi user, dalam satu menu login dapat di gunakan oleh tiga jenis user yang
+mempunyai hak akses yang berbeda.
+
+Gambar 4.4 HalamanAdmin
+
+Halaman administrator adalah halaman admin yang berfungsi untuk
+melakukan managemen sistem secara keseluruhan. Admin bisa membuat
+account guru dan account siswa, bisa melakukan upload user. Admin juga
+dapat membuat mata pelajaran, membuat data soal ujian, admin juga dapat
+membuat data kelas
+
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+8 /12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+Gambar 4.5 Halaman Ujian
+
+
+
+Pengujian Sistem
+Pengujian blackbox dilakukan oleh penulis terhadap aplikasi E-learning
+moodle yang telah dibuat. Dalam pengujian sistem black box dilakukan
+dengan menguji bagian menu dari aplikasi E-learning apakah hasil yang
+didapat sesuai dengan yang diinginkan.
+Black Box Testing adalah cara pengujian dengan menjalankan atau
+mengeksekusi model, kemudian diamati apakah hasil dari modul itu sesuai
+dengan proses bisnis yang diinginkan. Sistem dijalankan dengan
+menggunakan web browser dan melakukan percobaan dengan mengakses
+sistem e-learning moodle SMK Al Washliyah Sumber.
+Pengujian ini dilakukan untuk mengetahui apakah fitur yang terdapat
+pada aplikasi e-learning berjalan dengan baik sesuai dengan fungsinya.
+Tahap pengujian fungsional ini dilakukan dengan cara mengakses atau
+menjalankan fitur yang ada di aplikasi e-learning moodle SMK Al Washliyah
+Sumber.
+
+Table 0.1 Uji Black Box Halaman Admin
+Hasil yang
+
+Test Case
+
+Prosedur yang dilakukan
+
+Login Admin
+
+Memasukan username Berhasil masuk ke
+dan password
+
+Tambah
+Pengguna
+
+Tambah
+Pengguna
+
+Edit
+Pengguna
+Hapus
+
+Pilih
+
+diharapkan
+
+halaman admin
+
+menu
+
+Hasil
+
+Berhasil
+
+Site Data user berhasil
+
+Administrasi, Users, Add ditambah
+
+Berhasil
+
+New User
+Pilih
+
+menu
+
+Administrasi,
+
+Site Data user berhasil
+Users, ditambah
+
+Berhasil
+
+Upload Users
+Pilih
+
+menu
+
+Administrasi,
+
+Site Data user berhasil
+User, di rubah
+
+Berhasil
+
+Browse List of Users
+Pilih
+
+menu
+
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+Site Data user berhasil
+
+Berhasil
+9 /12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+Pengguna
+
+Administrasi,
+
+User, di hapus
+
+Browse List of Users
+Add
+Category
+(Kelas)
+
+Edit
+Category
+(Kelas)
+
+Delete
+Category
+(Kelas)
+
+Pilih
+
+menu
+
+Administrasi,
+
+Site Data
+
+Category
+
+Courses, (Kelas) di buat
+
+Manage Courses and
+
+Berhasil
+
+Categories
+Pilih
+
+menu
+
+Administrasi,
+
+Site Data
+
+Category
+
+Courses, (Kelas) di rubah
+
+Manage Courses and
+
+Berhasil
+
+Categories
+Pilih
+
+menu
+
+Administrasi,
+
+Site Data
+
+Category
+
+Courses, (Kelas) di hapus
+
+Manage Courses and
+
+Berhasil
+
+Categories
+Pilih
+
+menu
+
+Site Data
+
+Membuat
+
+Administrasi,
+
+Courses
+
+Manage Courses and
+
+Courses
+
+Courses, (Mapel) di buat
+
+Berhasil
+
+Categories
+Pilih
+Edit Courses
+
+menu
+
+Administrasi,
+
+Site Data
+
+Category
+
+Courses, (Mapel) di rubah
+
+Manage Courses and
+
+Berhasil
+
+Categories
+Pilih
+
+menu
+
+Site Data
+
+Delete
+
+Administrasi,
+
+Courses
+
+Manage Courses and
+
+Category
+
+Courses, (Mapel) di hapus
+
+Berhasil
+
+Categories
+Pilih
+Add
+Kuis/Soal
+
+menu
+
+Administrasi,
+
+Site Data Kuis Berhasil di
+Courses, buat
+
+Manage Courses and
+Categories,
+
+Berhasil
+
+Nama
+
+Mapel
+Pilih
+
+menu
+
+Site Data
+
+Edit
+
+Administrasi,
+
+Kuis/Soal
+
+Manage Courses and
+Categories,
+
+Courses, berubah
+
+Kuis/Soal
+Berhasil
+
+Nama
+
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+10 /12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+Mapel
+Pilih
+Delete
+Kuis/Soal
+
+menu
+
+Administrasi,
+
+Site Data
+
+Kuis/Soal
+
+Courses, terhapus
+
+Manage Courses and
+Categories,
+
+Berhasil
+
+Nama
+
+Mapel
+Pilih
+Add Chat
+
+menu
+
+Add
+
+an Forum Chat di buat
+
+activity or resources,
+
+Berhasil
+
+chat
+Edit Chat
+
+Pilih menu Edit Chat
+
+Forum Chat di ubah
+
+Berhasil
+
+Delete Chat
+
+Pilih menu Edit Chat
+
+Forum Chat dihapus
+
+Berhasil
+
+Theme di rubah
+
+Berhasil
+
+Pilih
+
+menu
+
+Merubah
+
+Administrasi,
+
+Theme
+
+Appearance,
+
+Site
+
+Theme
+
+Selector
+Upload
+Materi
+Edit Materi
+Hapus
+Materi
+
+Pilih
+
+mata
+
+Add
+
+an
+
+pelajaran,
+activity
+
+or
+
+resources, file
+Pilih mata pelajaran
+Pilih
+
+mata
+
+Add
+
+an
+
+Materi
+
+bisa
+
+di
+
+upload
+
+Berhasil
+
+Materi bisa di ubah
+
+Berhasil
+
+or Materi bisa di hapus
+
+Berhasil
+
+pelajaran,
+activity
+
+resources, file
+
+Kesimpulan
+Berdasarkan hasil penelitian tentang rancang bangun aplikasi E-learning
+berbasis web di SMK Al Washliyah Sumber, dapat diambil kesimpulan bahwa
+tujuan penelitian telah tercapai dengan telah selesai dibuatnya aplikasi elearning berbasis moodle layak dan dapat di terapkan di SMK Al Washliyah
+Sumber dengan alamat www.smkawsumber.sch.id. Penggunakan aplikasi Elearning ini maka proses belajar dan mengajar bisa di lakukan secara online
+dan tidak mengganti proses belajar dan mengajar dikelas, tetapi sebagai
+pelengkap dari sistem belajar yang sudah berjalan, aplikasi E-Learning dapat
+membantu proses pembelajaran di SMK AL Washliyah Sumber Cirebon secara
+maksimal.
+
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+11 /12
+
+Jurnal MEDIA APLIKOM
+Volume 12 Nomer 1 | Juni 2020 | https://doi.org/10.33488/1.ma.2.1.247
+
+DAFTAR PUSTAKA
+Abdul Haris Indrakusuma, M.Pd., and M.T Asti Riani Putri. 2016. E-Learning 1
+(Teori Dan Desain) Buku Ajar Matakuliah E-Learning. Tulungagung:
+Pendidikan Teknologi Informasi.
+Hartanto, Wiwin. 2016. Penggunaan E-Learning Sebagai Media Pembelajaran.
+Jurnal Pendidikan Ekonomi UNEJ 10(1): 1–18.
+Haryati, Sri. 2012. Research And Development (R&D) Sebagai Salah Satu Model
+Penelitian Dalam Bidang Pendidikan. 37(1): 11–26.
+Irawan, Randy, and Herman Dwi Surjono. 2018. Pengembangan E-Learning
+Berbasis Moodle Dalam Peningkatkan Pemahaman Lagu Pada
+Pembelajaran Bahasa Inggris. Jurnal Inovasi Teknologi Pendidikan 5(1):
+1–11.
+Lubis, Syibrina Jihan. 2018. Pendidikan Dan Pelatihan Untuk Meningkatkan
+Kompetensi Guru. Prosiding Seminar Nasional Fakultas Ilmu Sosial
+Universitas Negeri Medan 2: 601–3.
+Melfachrozi,
+
+M.
+
+2006.
+
+Penggunaan
+
+Aplikasi
+
+E-Learning
+
+(Moodle).
+
+Ilmukomputer.Co,: 1–14.
+Pressman, Roger S. 2002. Rekayasa Perangkat Lunak: Pendekatan Praktisi.
+Komputer - Perangkat Lunak, Andi Publisher: 652–990.
+Priyanti, Evy, Rahmad Budi Ansyah, Fachrul Ramadhani, and Huzaiful Yaman.
+2020. Rancang Bangun Sistem Informasi E-Learning Pada Smk Pgri. 8(1):
+76–79.
+Rizal, Syamsul, and Birrul Walidain. 2019. Pembuatan Media Pembelajaran ELearning Berbasis Moodle Pada Matakuliah Pengantar Aplikasi Komputer
+Universitas Serambi Mekkah. Journal of Chemical Information and
+Modeling 53(9): 1689–99.
+Surjono, Herman Dwi. 2013. Membangun Course e-Learning Berbasis Moodle:
+1–196.
+
+Vol 12 No. 1, Juni 2020| Indra Maulana
+https://journal.stikomyos.ac.id/index.php/jurnal-media aplikom/index
+
+12 /12
+
+

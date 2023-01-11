@@ -1,0 +1,1036 @@
+Damayanti, TA dan Kartika, R.: Deteksi VirusVirus pada
+Kentang
+di Jawa Barat
+...
+J. Hort.
+25(2):171-179,
+2015
+
+Deteksi Virus-Virus pada Kentang di Jawa Barat
+dengan Menggunakan Teknik Molekuler
+(Detection of Viruses on Potato in West Java
+by Using Molecular Techniques)
+Damayanti, TA dan Kartika, R
+
+Departemen Proteksi Tanaman, Fakultas Pertanian IPB, Jln. Kamper, Kampus IPB Dramaga, Bogor 16680
+E-mail: triasmiradamayanti@gmail.com
+Naskah diterima tanggal 15 Oktober 2014 dan disetujui untuk diterbitkan tanggal 18 Februari 2015
+
+ABSTRAK. Gejala infeksi virus ditemukan bervariasi di sentra pertanaman kentang di Jawa Barat (Rancabali, Pangalengan, dan
+Bayongbong). Diagnosis virus berdasarkan gejala sulit untuk menentukan identitas suatu virus. Oleh karena itu penelitian ini
+bertujuan mendeteksi virus-virus pada tanaman kentang dengan teknik molekuler. Sebanyak 50 sampel daun dikoleksi secara acak
+dari tanaman kentang yang bergejala di setiap lokasi. Parameter yang diamati adalah gejala, kejadian penyakit, dan runutan DNA
+virus yang dominan ditemukan. Kejadian penyakit ditentukan dengan uji serologi menggunakan antiserum PVY, PVX, PVS, dan
+CMV, sedangkan deteksi asam nukleat dilakukan dengan RT-PCR dan perunutan DNA. Hasil penelitian menunjukkan bahwa gejala
+yang ditemukan bervariasi pada daun kentang, seperti vein clearing, vein banding, rugose, dan malformasi daun. Kejadian penyakit
+oleh PVY, PVX, PVS, dan CMV di Rancabali berturut-turut adalah 28%, 0%, 0%, dan 28%, di Pangalengan adalah 80%, 24%,
+2%, dan 82%, serta di Bayongbong adalah 82%, 0%, 6%, dan 74%. RT-PCR menggunakan primer spesifik PVY dan CMV berhasil
+mengamplifikasi gen coat protein PVY dan CMV asal Bayongbong masing-masing berukuran ~800 pb dan ~650 pb. Homologi
+nukleotida dan asam amino PVY asal Bayongbong terhadap PVY dari negara lain berkisar 89,5–99,7% dan 92,0–100%. Homologi
+tertingginya yaitu dengan PVY-NTN asal Cina dan Jepang, sedangkan homologi nukleotida dan asam amino CMV asal Bayongbong
+terhadap CMV asal negara lain berkisar 87,6–96,9% dan 86,9–93,7%. Homologi tertingginya yaitu dengan CMV strain soybean
+stunt (S) asal Bogor (Indonesia). Kedua strain virus (PVY-NTN dan CMV-S) pertama kali terdeteksi pada kentang di Jawa Barat.
+Hasil penelitian menunjukkan bahwa teridentifikasinya kedua strain virus baru harus dipertimbangkan sebagai pembatas penting
+produksi kentang di Jawa Barat.
+Katakunci: Solanum tuberosum; CMV-S; PVY-NTN; Deteksi molekuler
+ABSTRACT. Symptoms of viral infection were found vary in the center of potato cultivations in West Java (Rancabali, Pangalengan,
+and Bayongbong). It is difficult to diagnose virus based on symptoms to determine the identity of virus. This research aimed to
+detect and identify the viruses of potato in West Java using molecular technique. Fifty leaf samples were randomly collected from
+symptomatic potato plants at each location. Parameters measured were symptoms, disease incidence, and viral DNA sequences
+which were predominantly found. Disease incidence was determined serologically by using PVY, PVX, PVS, and CMV antisera,
+while nucleic acid was amplified by RT-PCR and DNA sequencing. The results showed that the symptoms were found vary in
+potato leaves, such as mosaic, vein clearing, vein banding, rugose, and leaf malformation. Disease incidence of PVY, PVX, PVS,
+and CMV in Rancabali were 28%, 0%, 0%, and 28%, in Pangalengan were 80%, 24%, 2%, and 82%, and in Bayongbong were
+82%, 0%, 6%, and 74%, respectively. RT-PCR using specific DNA primers successfully amplified PVY and CMV coat protein gene
+from Bayongbong which each was approximately size ~800 bp and ~650 bp. The homology of nucleotide and amino acid of PVY
+from Bayongbong against PVY isolates from the other countries ranged from 89.5–99.7% and 92.0–100%. The highest homology
+was closely to PVY-NTN from China and Japan. Whereas the homology of nucleotide and amino acid of CMV from Bayongbong
+against CMV isolates from the other countries ranged from 87.6–96.9% and 86.9–93.7%. The highest homology was closely to
+CMV strain soybean (S) from Bogor (Indonesia). Both of viruses strain (PVY-NTN and CMV-S) was the first reported on potato
+in West Java, Indonesia. These results suggested that the presence of the new identified virus strains should be considerated as an
+important constraint of potato production in West Java.
+Keywords: Solanum tuberosum; CMV-S; PVY-NTN; Molecular detection
+
+Kentang (Solanum tuberosum L.) dikenal sebagai
+tanaman pangan dan hortikultura yang bernilai ekonomi
+tinggi. Kentang termasuk spesies tanaman dari famili
+Solanaceae yang berasal dari daerah subtropis dan
+dibudidayakan untuk menghasilkan umbi. Umbi kentang
+merupakan salah satu komoditas pangan utama dunia
+(vegetablestravelers/potatoes.html). Di Indonesia, kentang
+memiliki nilai penting sebagai komoditas hortikultura
+
+setelah cabai dan kubis. Badan Pusat Statistik (2012)
+mencatat bahwa produksi kentang di Indonesia pada
+tahun 2010 mencapai 1.060 805 ton. Namun pencapaian
+produksinya menurun pada tahun 2011 menjadi 955.488
+ton. Menurunnya produksi dan mutu kentang di Indonesia
+terkait banyak kendala produksi. Salah satu kendala dalam
+budidaya dan produksi kentang yaitu adanya penyakit
+tanaman yang disebabkan oleh virus.
+171
+
+J. Hort. Vol. 25 No. 2, 2015
+Gejala infeksi virus pada tanaman kentang, seperti
+nekrosis, mosaik, klorosis, penebalan warna hijau di
+sekitar pertulangan daun (vein banding), pemucatan
+tulang daun (vein clearing), belang (mottle), pengerutan
+(crinkle) daun, hingga pengerdilan tanaman, telah
+diketahui disebabkan oleh beberapa virus yang berbeda
+yaitu potato virus Y (PVY) (potyviridae; potyvirus),
+potato virus X (alphaflexiviridae; potexvirus) (PVX),
+dan potato virus S (Betaflexiviridae; Carlavirus) (PVS)
+(Shikata et al. 1998, Gray et al. 2010, Hosseini et al.
+2011). Infeksi PVS umumnya tanpa gejala tetapi gejala
+yang tidak spesifik dideskripsikan seperti klorotik
+mottling pada daun dan rugosity pada bagian bawah
+daun (Dolby & Jones 1987). Namun, tidak banyak
+yang melaporkan cucumber mosaic virus (CMV)
+(Bromoviridae; cucumovirus) pada tanaman kentang.
+Somerville et al. (1987) melaporkan bahwa CMV strain
+S secara alami dapat menginfeksi tanaman kentang di
+California dengan gejala klorosis dan mosaik. Virusvirus tersebut dapat menginfeksi tanaman kentang
+secara tunggal (single infection) maupun campuran
+(mixed infection) dan gejala infeksi oleh masing-masing
+virus tersebut sulit dibedakan secara spesifik langsung
+di lapangan (Brunt 2001).
+Infeksi PVY dapat mengurangi produksi umbi
+sampai 80% di negara-negara produsen utama kentang,
+seperti Cina, India, dan Amerika (Brunt 2001).
+Sementara infeksi PVX dapat mengurangi produksi
+umbi kentang sampai 30% di India dan infeksi PVS
+menyebabkan kehilangan hasil panen sampai 20%
+pada tanaman kentang (Reddy 2010). Kehilangan hasil
+akibat infeksi beberapa virus kentang di Indonesia
+sekitar 25–90% oleh Potato leaf roll virus (PLRV),
+dan 5–80% oleh serangan PVX, PVY dan PVS (Duriat
+et al. 2006).
+Metode yang dapat mendeteksi masing-masing
+virus secara terpisah (differential diagnostic method)
+diperlukan sehingga gejala infeksi PVY, PVX,
+PVS, dan CMV dapat dibedakan dengan tepat.
+Penelitian ini menggunakan uji serologi enzyme-linked
+immunosorbent assay (ELISA), dot immuno.banding
+assay (DIBA), dan uji molekuler reverse transcriptionpolymerase chain reaction (RT-PCR) diketahui banyak
+digunakan untuk mendeteksi virus pada kentang
+(Baldauf et al. 2006, Hosseini et al. 2011).
+Deteksi infeksi virus pada kentang lebih banyak
+dilakukan secara serologi sehingga sampai saat ini
+belum tersedia informasi mengenai identitas dan
+informasi genetik virus-virus yang menginfeksi
+tanaman kentang di Indonesia. Oleh karena itu tujuan
+penelitian ini adalah mendeteksi dan mengidentifikasi
+virus-virus yang menginfeksi tanaman kentang di
+Jawa Barat secara molekuler untuk memperkaya
+172
+
+pengetahuan tentang virus-virus kentang di Indonesia.
+Identitas virus dapat membantu dalam penentuan
+strategi manajemen virus yang tepat pada kentang.
+
+BAHAN DAN METODE
+Waktu dan Tempat
+Penelitian dilakukan dari bulan Februari sampai
+September 2013 di Laboratorium Virologi, Departemen
+Proteksi Tanaman, IPB. Survei dan koleksi sampel
+tanaman kentang dilakukan di dua sentra produksi
+kentang di Jawa Barat. Lokasi di Kabupaten Bandung
+berada di Kecamatan Pangalengan dan Rancabali.
+Sementara lokasi di Kabupaten Garut berada di
+Kecamatan Bayongbong. Sampel tanaman kentang
+berupa daun yang bergejala diambil secara acak
+(random sampling) sebanyak 50 sampel dari tiap
+lokasi.
+Bahan dan Alat yang Digunakan
+Deteksi molekuler
+Uji serologi. PVS dan PVX dideteksi dengan
+double antibody sandwich-ELISA sesuai protokol
+yang direkomendasikan Deutsche sammlung von
+microorganismen und zellkulturen (DSMZ), Jerman.
+PVY dideteksi dengan compound-ELISA sesuai
+protokol yang direkomendasikan Agdia, USA. CMV
+dideteksi dengan DIBA dengan protokol sesuai
+yang dilakukan Anggraini & Hidayat (2014). Hasil
+ELISA dapat dilihat secara kualitatif dengan reaksi
+pewarnaan menggunakan p-nitrophenyl phosphate
+(PNP). Perubahan warna menjadi kuning pada sumuran
+plat menunjukkan sampel positif terinfeksi virus.
+Secara kuantitatif ditentukan dengan nilai absorbansi
+ELISA (NAE) diukur dengan ELISA reader (BioRAD 550) pada 405 nm. Uji positif jika NAE sampel
+yang diuji dua kali lebih besar daripada NAE kontrol
+sehat, sedangkan reaksi pewarnaan dalam DIBA
+menggunakan nitro blue tetrazolium (NBT) dan bromo
+chloro indolyl phosphate (BCIP). DIBA positif jika
+terjadi perubahan warna bekas tetesan sap menjadi
+ungu pada membran nitroselulosa.
+RT-PCR. Metode ini dilakukan terhadap sampel
+asal Bayongbong menggunakan primer spesifik
+yang dapat mengamplifikasi gen coat protein (CP)
+PVY dan CMV secara terpisah. Ekstraksi RNA total
+menggunakan kit ekstraksi sesuai protokol phile korea
+technology (PKT). Sintesis complementary DNA
+(cDNA) menggunakan teknik reverse transcription
+(RT) pada suhu 42°C selama 60 menit sesuai dengan
+protokol RT yang dibuat oleh Thermo. cDNA
+digunakan sebagai templat DNA dalam reaksi PCR.
+
+Damayanti, TA dan Kartika, R.: Deteksi VirusVirus pada Kentang di Jawa Barat ...
+Komposisi reagen untuk sintesa cDNA sesuai dengan
+yang digunakan oleh Anjarsari et al. (2013).
+Amplifikasi DNA virus dilakukan dengan
+PCR menggunakan pasangan primer PVY-cpF
+(5’-ATGGSAAATGACACAATYGATGCA-3’) dan
+PVY-cpR (5’-ACATGTTSACTCCAAGYAG-3’)
+untuk mengamplifikasi gen CP PVY dengan
+amplikon berukuran ~800 pb. Program PCR yang
+digunakan adalah predenaturasi pada suhu 94°C/2
+min, 35 siklus pada suhu denaturasi 94°C /1 min,
+suhu annealing 52°C /1 min, suhu elongasi 72°C/2
+min dan ekstensi final pada suhu 72°C/7 min. Gen CP
+CMV diamplifikasi dengan sepasang primer CMV-cpF
+(5’-ATGGACAAATCTGAATCAACCAGTGCC-3’)
+dan CMV-cpR (5’-ACTGGGAGCACTCCAG
+ATGTG-3’) dengan amplikon berukuran ~650 pb.
+Program PCR yang digunakan adalah predenaturasi
+pada suhu 95°C/5 min, 35 siklus pada suhu denaturasi
+95°C /1 min, suhu annealing 45°C /1 min, suhu elongasi
+72°C /1 min, dan ekstensi final pada suhu 72°C/10 min.
+Visualisasi hasil PCR. Produk PCR diseparasi
+dengan elektroforesis pada 1% gel agarosa yang
+dilarutkan dalam 0,5× bufer tris-borate EDTA (TBE)
+yang mengandung ethidium bromida. Elektroforesis
+dilakukan pada tegangan 100 volt selama 25 menit.
+Hasil elektroforesis berupa pita DNA divisualisasikan
+dengan transluminator ultraviolet dan didokumentasi
+dengan kamera digital.
+
+Perunutan DNA dan Analisis Filogenetik
+Perunutan nukleotida gen CP virus hasil amplifikasi
+dilakukan di First Base, Singapura. Runutan nukleotida
+dianalisis dengan cara membandingkannya dengan
+runutan nukleotida virus asal negara lain yang terdaftar
+di GenBank menggunakan program basic local
+alignment search tool (BLAST) pada situs National
+Center for Biotechnology Information.
+Tingkat homologi nukleotida dan asam amino
+diperoleh dengan program clustalW multiple
+alignment dan sequence identity matrix menggunakan
+software BioEdit 7,05. Analisis filogenetik dilakukan
+menggunakan software molecular evolutionary
+genetics analiysis (MEGA 5,02).
+
+HASIL DAN PEMBAHASAN
+Gejala di Lapangan
+Survei yang dilakukan di beberapa sentra produksi
+kentang di Jawa Barat menunjukkan bahwa kentang
+di pertanaman memperlihatkan gejala penyakit yang
+disebabkan oleh virus. Gejala yang banyak ditemukan
+di lapangan yaitu mosaik sistemik pada varietas
+Granola. Ada dua tipe gejala mosaik yang ditemukan
+di daerah Bayongbong, yaitu gejala mosaik biasa dan
+mosaik berpola sirkuler (mosaik bercincin) (Gambar
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+Gambar 1. Variasi gejala yang ditemukan di lapangan. (a) mosaik bercincin, (b) mosaik ringan, (c)
+vein clearing, (d) vein banding, (e) rugose, (f) ruas batang memendek, dan (g) malformasi
+daun [Symptom variation found in the fields. (a) ring mosaic, (b) mild mosaic, (c) vein
+clearing, (d) vein banding, (e) rugose, (f) shorten internode, and (g) leaf malformation]
+173
+
+J. Hort. Vol. 25 No. 2, 2015
+Tabel 1. Variasi gejala di lapangan (Symptom variation in the fields)
+Lokasi
+(Location)
+
+Varietas
+(Variety)
+
+Ketinggian
+(Altitude), m dpl.
+
+Rancabali
+Pangalengan
+Bayongbong
+
+Granola
+Granola
+Granola
+
+2.200
+1.400
+1.400
+
+Variasi gejala1) (Symptom variation)
+MR
+√
+√
+√
+
+N
+√
+√
+
+KL
+√
+
+VC
+√
+
+√
+
+VB
+√
+√
+√
+
+MD
+√
+√
+
+R
+√
+√
+√
+
+DD
+√
+√
+√
+
+L
+√
+√
+
+DD = distorsi daun (leaf distortion), KL = klorosis (chlorosis), L = laten (latent), MD = malformasi daun (leaf malformation), MR =
+mosaik ringan (mild mosaic), N = nekrosis (necrosis), VB = vein banding, VC = vein clearing, R = rugose
+1)
+
+1a-b). Gejala tersebut disertai dengan permukaan daun
+yang tidak rata karena adanya lepuh atau perbedaan
+pertumbuhan antara tulang daun (rugose), vein
+banding, klorosis, bahkan malformasi daun (Gambar
+1c-g). Gejala infeksi virus yang ditemukan di daerah
+Rancabali dan Pangalengan direkapitulasi pada Tabel 1.
+Gejala mosaik yang dicirikan dengan adanya vein
+banding pada daun kentang di Indonesia disebabkan
+oleh PVY (Shikata et al. 1998). Gejala tersebut sesuai
+dengan yang ditemukan di tiga lokasi survei dalam
+penelitian ini. Di samping menyebabkan gejala mosaik
+pada daun, infeksi virus tersebut di lapangan juga
+menyebabkan tajuk tanaman kentang menjadi kerdil.
+Akibatnya kualitas dan kuantitas umbi kentang yang
+dihasilkan menurun. Berdasarkan pengamatan di
+lapangan, kualitas umbi yang rusak ditandai dengan
+adanya bercak nekrosis seperti cincin, ukuran, dan
+bobot umbi yang dihasilkan berkurang. Hal itu terjadi
+karena infeksi virus menganggu proses fisiologis
+tanaman kentang (Brunt 2001).
+Gejala infeksi PVY yang ditemukan dalam
+penelitian ini berbeda dengan laporan Gray et al.
+(2010) di Amerika Serikat, tanaman kentang yang
+terinfeksi PVY menyebabkan gejala vein necrosis.
+Variasi gejala infeksi virus dapat terjadi tergantung
+pada faktor strain virus, varietas tanaman, lingkungan,
+dan adanya infeksi campuran virus. Infeksi campuran
+virus umum terjadi di alam dan menyebabkan interaksi
+yang bervariasi (Syller 2012). Infeksi campuran
+menyebabkan variasi seperti gejala, infektivitas virus,
+
+akumulasi, dan atau kemampuan ditularkan melalui
+vektor (Martin & Elena 2009). Berdasarkan gejala
+infeksi virus pada tanaman kentang di Rancabali,
+Pangalengan, dan Bayongbong disebabkan oleh PVY
+secara tunggal atau campuran dengan beberapa virus
+lain yang berasosiasi dengan gejala mosaik yang sulit
+dibedakan (Tabel 1, Gambar 1).
+Deteksi Molekuler
+Uji Serologi. Hasil uji serologi menunjukkan
+bahwa beberapa tanaman terdeteksi positif terinfeksi
+PVY, PVX, PVS, dan CMV dari 150 sampel tanaman
+kentang di Jawa Barat. Kejadian penyakit PVY dan
+CMV merupakan yang paling dominan di setiap
+lokasi survei dan persentasenya masing-masing 28%
+(Rancabali), 80% dan 82% (Pangalengan), dan 82%
+dan 74% (Bayongbong) (Tabel 2). PVS terdeteksi
+pada tanaman kentang dari daerah Pangalengan dan
+Bayongbong walaupun dengan kejadian penyakit
+yang rendah.
+Beberapa tanaman kentang yang diamati
+menunjukkan infeksi campuran. Sebanyak tiga sampel
+tanaman (6%) dari Rancabali terdeteksi adanya infeksi
+campuran PVY dengan virus lainnya. Infeksi campuran
+juga terdeteksi pada 38 sampel tanaman (76%) dari
+Pangalengan dan 33 sampel tanaman (66%) dari
+Bayongbong (Tabel 3).
+Infeksi campuran virus pada satu tanaman
+kemungkinan terjadi karena penyebaran virus oleh
+kutudaun di pertanaman dan secara mekanis dari alat-
+
+Tabel 2. Kejadian penyakit oleh beberapa virus berdasarkan uji serologi (Disease incidence by several virus
+based on serological test)
+Lokasi (Location)
+
+PVY
+
+Kejadian penyakit1) (Disease incidence), %
+PVX
+PVS
+
+CMV
+
+Rancabali
+
+14/50 (28,0)
+
+0/50 ( 0,0)
+
+0/50 ( 0,0)
+
+14/50 (28,0)
+
+Pengalengan
+
+40/50 (80,0)
+
+12/50 (24,0)
+
+1/50 ( 2,0)
+
+41/50 (82,0)
+
+Bayongbong
+
+41/50 (82,0)
+
+0/50 ( 0,0)
+
+3/50 ( 6,0)
+
+37/50 (74,0)
+
+Total (Total)
+
+95/150 (63,3)
+
+12/150 ( 8,0)
+
+4/150 ( 2,7)
+
+92/150 (61,3)
+
+1)
+Kejadian penyakit = n/N × 100%, n = jumlah tanaman positif terdeteksi virus (Disease incidence = n/N × 100%, n = number of plant
+infected virus positive), N = total tanaman yang diuji (N = total of tested plant)
+
+174
+
+Damayanti, TA dan Kartika, R.: Deteksi VirusVirus pada Kentang di Jawa Barat ...
+Tabel 3. Frekuensi infeksi tunggal dan infeksi campuran virus (Single and mixed infection virus frequency)
+Lokasi
+(Location)
+
+Sehat
+(Healthy)
+
+Rancabali
+Pengalengan
+Bayongbong
+
+25
+1
+3
+
+Infeksi tunggal1)
+(Single infection)
+
+Infeksi campuran1)
+(Mix infection)
+
+Y
+
+X
+
+S
+
+C
+
+YX
+
+YS
+
+YC
+
+XS
+
+XC
+
+SC
+
+YXC
+
+YXS
+
+YSC
+
+XSC
+
+11
+6
+9
+
+0
+0
+0
+
+0
+0
+0
+
+11
+5
+5
+
+0
+2
+0
+
+0
+0
+1
+
+3
+25
+30
+
+0
+0
+0
+
+0
+4
+0
+
+0
+0
+1
+
+0
+6
+0
+
+0
+0
+0
+
+0
+1
+1
+
+0
+0
+0
+
+Y = PVY, X = PVX, S = PVS, C = CMV
+
+1)
+
+alat pertanian. Hal ini terkait dengan ditemukannya
+populasi kutudaun pada tanaman kentang di lapangan.
+Infeksi campuran antara PVY dengan CMV dominan
+dibandingkan dengan virus lainnya (Tabel 3). Pada
+infeksi campuran, CMV berinteraksi sinergistik dengan
+virus-virus dari taxa yang berbeda pada tanaman
+kacang-kacangan, cucurbit, dan solanaceae (Palukaitis
+& Garcia-Arenal 2003, Wege & Siegmund 2007). Di
+Pakistan, infeksi campuran yang dominan antara PVY,
+PVX, dan PVS dimana infeksi campuran PVX dan
+PVS menunjukkan persentase tertinggi di antara ketiga
+virus (Hameed et al. 2014). Infeksi campuran oleh
+PVY, PLRV, dan PVX pernah juga dilaporkan terjadi
+pada kentang di Amerika (Baldauf et al. 2006), Yunani
+(Chatzivassiliou et al. 2008) dan Pakistan (Hameed
+et al. 2014). Infeksi campuran virus menyebabkan
+variasi gejala dan kehilangan hasil panen yang lebih
+tinggi pada tanaman kentang. Infeksi campuran PVX
+dengan PVY dapat menghilangkan hasil sampai 50%,
+sedangkan infeksi campuran tiga virus (PVY, PVX,
+dan PVS) menyebabkan kerugian ekonomi sebesar
+25% (Brunt 2001, Reddy 2010). Hal ini karena infeksi
+campuran yang sinergis menyebabkan perkembangan
+A
+
+penyakit yang lebih parah dan akumulasi virus yang
+lebih tinggi jika dibandingkan infeksi tunggal virusvirus tersebut (Hameed et al. 2014).
+Pada varietas Granola di Jawa Barat, diketahui
+bahwa PLRV, PVY, PVM, dan PVA dapat ditularkan
+secara bersamaan oleh M. persicae yang menghasilkan
+gejala mosaik pada tanaman kentang (Duriat 1984).
+Kutudaun tersebut juga menjadi vektor beberapa virus
+penyebab gejala mosaik lainnya, seperti PVS dan
+CMV (Brunt 2001, Jacquemond 2012). Oleh karena
+beberapa virus yang menginfeksi kentang ditularkan
+dan disebarkan oleh kutudaun, maka tingginya infeksi
+campuran dapat terjadi secara alami.
+RT-PCR. Pita DNA PVY dan CMV dari gen coat
+protein (CP) asal Bayongbong berhasil teramplifikasi
+dengan ukuran ~800 pb dan ~650 pb (Gambar 2).
+Hal ini mengkonfirmasi hasil uji serologi bahwa pada
+sampel tanaman asal Bayongbong terinfeksi campuran
+PVY dan CMV.
+Analisis runutan DNA gen CP. Hasil perunutan
+DNA gen CP berhasil merunut nukleotida PVY
+berukuran 759 pb yang mengkode 253 asam amino dari
+B
+
+800 pb
+500 pb
+
+650 pb
+
+Gambar 2.		Hasil amplifikasi DNA gen CP (a) PVY dan (b) CMV isolat Bayongbong. Lajur 1a = penanda
+DNA 100 pb (thermo), lajur 1b= penanda DNA 1 kb plus (invitrogen), lajur 2= kontrol negatif,
+lajur 3a= PVY isolat Bayongbong, lajur 3b= CMV isolat Bayongbong [Amplification result of CP
+gene of (a) PVY and (b) CMV CP Bayongbong isolate, line 1a= DNA marker 100 bp (thermo), line
+1b= DNA marker 1kb plus (Invitrogen), line 2= negative control, line 3a= PVY, Line 3b= CMV]
+175
+
+J. Hort. Vol. 25 No. 2, 2015
+Tabel 4. Persentasea) identitas sekuen gen coat protein PVY-NTN isolat kentang dan PVY lainnya (Percentage
+sequence identity of coat protein gene of PVY-NTN isolated from potato and those other PVY)
+Negara (Country origin)
+Jepang
+Cina
+Amerika Serikat
+Jerman
+Iran
+Inggris
+Brazilia
+Swiss
+Spanyol
+India
+Amerika Serikat
+
+Strain virus (Virus strain)
+PVY-NTN
+-NTN
+-NTN
+-NTNb
+-NTN
+-NTN
+-NTN
+-Nc)
+-Cd)
+-Oe)
+PeMoVf)
+
+Coat protein
+nt
+aa
+99,7
+100
+99,7
+100
+99,4
+99,6
+99,3
+99,2
+99,3
+99,2
+99,2
+99,2
+94,4
+96,4
+97,3
+98,8
+89,9
+93,6
+89,5
+92,0
+68,7
+73,9
+
+Nomor aksesi (Accession number)
+AB702952
+HQ631374,1
+AY884982,1
+AJ890345,1
+HM243480,1
+EF027869,1
+AY840082,1
+X97895
+AF012027,1
+AY061994,1
+NC_001517,1
+
+Dihitung dengan menggunakan program BioEdit versi 7,05, b-e) PVY asal tembakau, f)Pepper mottle virus (PeMoV) asal cabai sebagai
+
+a)
+
+pembanding luar kelompok, nt = nukleotida, aa = asam amino [Percentage is measured by using BioEdit version 7.05 program,
+b-e)
+PVY isolate tabacco, f)pepper mottle virus (PeMoV) isolate hot pepper as out group, nt = nucleotide, aa = amino acid]
+
+total gen CP PVY yang berukuran 801 pb, sedangkan
+hasil perunutan DNA gen CP CMV berhasil merunut
+nukleotida berukuran 528 pb yang mengkode 176
+asam amino dari total gen CP CMV yang berukuran
+657 pb. Runutan DNA gen CP kedua virus tersebut
+terunut secara parsial.
+Analisis nukleotida gen CP PVY isolat asal
+Bayongbong terhadap 10 isolat PVY asal negara
+lain menunjukkan homologi berkisar 89,5–99,7%.
+Perbandingan berdasarkan runutan asam amino
+menunjukkan isolat PVY asal Bayongbong memiliki
+homologi berkisar 92,0–100%. PVY asal Bayongbong
+memiliki NTN asal Cina dan Jepang (Tabel 4).
+
+Analisis runutan gen CP CMV isolat asal
+Bayongbong terhadap 10 isolat CMV asal negara lain
+menunjukkan homologi nukleotida berkisar 87,6–
+96,9% dan homologi asam amino berkisar 86,9–93,7%
+(Tabel 5). CMV asal Bayongbong memiliki homologi
+nukleotida (96,9%) dan asam amino (93,7%) tertinggi
+terhadap CMV strain soybean stunt (CMV-S) asal
+Bogor, Indonesia yang menginfeksi kedelai.
+Analisis filogenetik. Hasil analisis filogenetik
+PVY berdasarkan runutan nukleotida dan asam
+amino menunjukkan bahwa PVY asal Bayongbong
+(Indonesia) membentuk satu cluster dengan isolat
+PVY-NTN yang berasal dari Cina dan Jepang (Gambar
+
+Tabel 5. Persentasea) identitas sekuen gen coat protein CMV-S isolat kentang dan CMV lainnya (Percentage
+sequence identity of coat protein gene of CMV-S isolated from potato and those other CMV)
+Negara (Country origin)
+Indonesiab)
+Indiac)
+Amerika Serikatd)
+Taiwanc)
+Italiac)
+Cinac)
+Jepange)
+Koreaf)
+Belandae)
+Thailandg)
+Cinah)
+
+Strain/isolat virus
+(Virus strain/isolate)
+CMV-S
+Ts
+113
+NT9
+Tfn
+SXFQ
+HL
+RP20
+lily
+TR15
+PSV-Mi
+
+Coat protein
+nt
+96,9
+90,1
+90,1
+89,9
+89,9
+89,7
+89,2
+89,0
+89,0
+87,6
+52,0
+
+aa
+93,7
+89,2
+89,2
+88,6
+89,2
+88,0
+88,6
+88,0
+88,6
+88,9
+39,7
+
+Nomor aksesi (Accession number)
+FJ177303.1
+EF153734.2
+AF523340.1
+D28780.1
+Y16926
+JX993914.1
+AB049568
+KC527749.1
+AJ131615.1
+AJ810264.1
+AY775057.1
+
+Persentase dihitung dengan menggunakan program BioEdit versi 7,05, b-g) CMV isolat kedelai, tomat, labu, lili, cabai, mentimun, h)peanut
+stunt virus (PSV) asal kacang tanah sebagai pembanding luar kelompok. nt= nukleotida, aa= asam amino, [Percentage is measured by
+using BioEdit version 7.05 program, b-g) CMV isolate soybean, tomato, pumpkin, lily, hot pepper, cucumber. h)Peanut stunt virus (PSV)
+isolate peanut as out group. nt= nucleotide, aa= amino acid]
+
+a)
+
+176
+
+Damayanti, TA dan Kartika, R.: Deteksi VirusVirus pada Kentang di Jawa Barat ...
+3a, pohon filogenetik asam amino tidak ditampilkan),
+sedangkan PVY lainnya membentuk cluster tersendiri.
+Strain NTN termasuk strain utama PVY selain
+strain O, N, dan C. Strain NTN dibedakan dari strain
+
+cluster 1
+
+cluster 2
+
+cluster 1
+
+lain berdasarkan potensinya yang menyebabkan potato
+tuber necrotic ringspot disease (PTNRD) pada umbi
+kentang. PVY-NTN pertama kali dilaporkan Beczner
+pada tahun 1984 berasal dari Hungaria (Brunt 2001).
+Gejala pada umbi ini akan semakin berkembang
+dalam penyimpanan pascapanen kentang. Kerugian
+akibat infeksi PVY-NTN dapat mencapai 90% pada
+kultivar kentang yang sesuai (Beczner et al. 1984,
+Gray et al. 2010). Kejadian penyakit oleh PVY NTN
+meningkat secara global sehingga menjadi perhatian
+semua penanam kentang di berbagai negara (Nie
+& Singh 2003). Selanjutnya PVY-NTN dilaporkan
+terdapat hampir di seluruh Eropa dan Amerika Serikat.
+Oleh karena itu PVY-NTN menjadi OPT karantina di
+Amerika dan Kanada sejak pertama kali dilaporkan
+terdapat di kedua negara ini pada tahun 2002 (Gray
+et al. 2010).
+Hasil analisis filogenetik CMV berdasarkan runutan
+nukleotida dan asam amino menunjukkan bahwa CMV
+asal kentang Bayongbong membentuk satu cluster
+dengan isolat CMV-S asal kedelai Bogor (Gambar
+3b, pohon filogenetik asam amino tidak ditampilkan),
+sedangkan CMV lainnya membentuk cluster tersendiri.
+Isolat CMV asal Bayongbong termasuk strain S.
+CMV-S menginfeksi kedelai di Jepang dan Korea
+(Hong et al. 2003, Masuta et al. 2002, Phan et
+al. 2014). Namun, strain S pertama kali dideteksi
+menginfeksi tanaman kentang di California dengan
+gejala berupa klorosis berat, mosaik, pengerdilan buku
+batang, malformasi daun, dan pengrusakan fisik umbi
+(Somerville et al. 1987).
+
+KEMPULAN DAN SARAN
+cluster 2
+
+Gambar 3. P o h o n f i l o g e n e t i k r u n u t a n
+nukleotida (a) gen CP PVY dan
+(b) gen CP CMV isolat Bayongbong
+(abu-abu) dibandingkan dengan
+10 isolat lain. Pepper mottle virus
+(PeMoV) dan peanut stunt virus
+(PSV) sebagai pembanding di
+luar kelompok [Phylogenetic tree
+of nucleotide sequences of (a) PVY
+CP gene and (b) CMV CP gene
+Bayongbong isolate (grey highlight)
+in compared with 10 other isolates.
+Pepper mottle virus (PeMoV) and
+peanut stunt virus (PSV) as out
+groups]
+
+1. Gejala infeksi virus pada tanaman kentang di
+Jawa Barat disebabkan oleh infeksi tunggal dan
+campuran PVY, PVX, PVS, dan CMV.
+2. Virus yang dominan terdeteksi di tiga lokasi adalah
+PVY dan CMV. Kejadian penyakit oleh PVY di
+Rancabali, Pangalengan, dan Bayongbong berturutturut sebesar 28%, 80%, dan 82%, sedangkan
+kejadian penyakit oleh CMV berturut-turut sebesar
+28%, 82%, dan 74%. PVX hanya terdeteksi di
+Pangalengan dengan kejadian penyakit sebesar
+24%, sedangkan PVS terdeteksi di Pangalengan
+dan Bayongbong dengan kejadian penyakit sebesar
+2% dan 6%.
+3. Berdasarkan analisis runutan nukleotida dan asam
+amino gen CP diketahui bahwa PVY dan CMV
+isolat Bayongbong pada tanaman kentang di daerah
+Jawa Barat adalah PVY strain NTN dan CMV strain
+soybean.
+177
+
+J. Hort. Vol. 25 No. 2, 2015
+4. Isolat PVY-NTN asal Bayongbong sangat dekat
+kekerabatannya dengan PVY-NTN asal Cina
+
+dan Jepang. Isolat CMV-S asal Bayongbong
+sangat dekat kekerabatannya dengan CMV-S pada
+
+tanaman kedelai asal Bogor. Kedua strain tersebut
+untuk pertama kalinya dilaporkan menginfeksi
+kentang di Jawa Barat, Indonesia.
+5. Perlu dilakukan deteksi dan pengamatan rutin
+terhadap kejadian penyakit virus-virus yang di
+sentra-sentra produksi kentang lainnya.
+
+7.
+
+Chatzivassiliou, EK, Moschos, E, Gazi, S, Koutretsis, P
+& Tsoukaki, M 2008, ‘Infection of potato crops and seeds
+with potato virus y and potato leafroll virus in greece’, j.
+phytopathol, vol. 90, no. 2, pp. 253-61.
+
+8.
+
+Dolby, CA & Jones, RAC 1987, ‘Occurrence of the Andean
+strain of potato virus S in imported potato material and its
+effects on potato cultivars’, Plant Pathol., vol. 36, pp. 381-8.
+
+9.
+
+Duriat, AT 1984, ‘Peranan myzus persicae Sulzer dalam
+penyebaran virus daun menggulung (potato leafroll
+virus) di lapangan’, Risalah Seminar Hama dan Penyakit
+Sayuran Cipanas, 29-30 Mei 1984, Badan Penelitian dan
+Pengembangan Pertanian, Jawa Barat.
+
+6. Perlu dilakukan kajian pengaruh infeksi virus-virus
+tersebut terhadap tingkat produktivitas tanaman
+kentang
+
+10. Duriat, AT, Gunawan, OS & Gunaeni, N 2006, ‘Penerapan
+teknologi PHT pada tanaman kentang’, Monografi No. 28,
+Balai Penelitian Tanaman Sayuran, Puslitbang Hortikultura,
+Balitbang Pertanian, hlm 2.
+
+7. Perlu dilakukan survei dan pemetaan virus-virus
+yang menginfeksi tanaman kentang di Indonesia
+agar dapat diketahui identitas dan keragaman
+genetik virus-virus tersebut sehingga berguna bagi
+pengembangan strategi pengendaliannya
+
+11. Gray, SM, De Boer, SH, Lorenzen, J, Karasev, AV, Whitworth,
+J, Nolte, P, Singh, RP, Boucher, A & Xu, H 2010, ‘Potato
+virus Y: A significant and evolving threat to potato crops in
+the United States and Canada’, Plant Dis., vol. 94, no.12,
+pp.1384-97.
+
+UCAPAN TERIMAKASIH
+Penelitian ini didanai oleh kerjasama penelitian
+International Plant Viruses Diseases Network
+(IPVDN) tahun 2013.
+
+DAFTAR PUSTAKA
+1.
+
+2.
+
+3.
+
+Anggraini, S & Hidayat, SS 2014, ‘Sensitivitas metode
+serologi dan polymerase chain reaction untuk mendeteksi
+bean common mosaic potyvirus pada kacang panjang’, J.
+Fitopatol. Indones., vol. 10, no. 1, hlm. 17-22.
+Anjarsari, L, Suastika, G & Damayanti, TA 2013, ‘Deteksi dan
+identifikasi potyvirus pada ubi jalar di Tana Toraja, Sulawesi
+Selatan’, J. Fitopatol. Indones., vol. 9, no. 6, hlm. 193-201.
+Badan Pusat Statistik 2012, Produksi sayuran di Indonesia,
+[Internet], Jakarta (ID): Badan Pusat Statistik Republik
+Indonesia, diunduh 9 Desember 2012, <http://www.bps.
+go.id/tab_sub/view.php?kat =3 &tabel=1&daftar=1&id_
+subyek=55&notab =27>.
+
+4.
+
+Baldauf, PM, Gray, SM & Perry, KL 2006, ’Biological and
+serological properties of potato virus Y isolates in north
+eastern United States potato’, Plant Dis., vol. 90, pp. 559-66.
+
+5.
+
+Beczner, L, Horvath, H, Romhanyi, L & Forster, H 1984,
+‘Etiology of tuber ring spot disease in potato’, Potato Res.,
+vol. 27, pp. 339-51.
+
+6.
+
+Brunt, AA 2001, ‘The main viruses infecting potato crops’,
+Loebenstein G, Berger, PH, Brunt, AA & Lawson RH, (eds.),
+Virus and virus-like diseases of potatoes and production of
+seed-potatoes, Kluwer Academic Publishers, Dordrecht (NL),
+pp 65-7.
+
+178
+
+12. Hameed, A, Iqbah, Z, Asad, S, & Mansoor, S 2014, ‘Detection
+of multiple potato viruses in the field suggests synergistic
+interactions among potato viruses in Pakistan’, Plant Pathol.
+J., vol. 30, no. 4, pp. 407-15.
+13. Hong, JS, Masuta, C, Nakano, M, Abe, J & Uyeda, I 2003,
+‘Adaptation of cucumber mosaic virus soybean strains (SSVs)
+to cultivated and wild soybeans’, Theor. Appl. Genet., vol.
+107, pp. 49-53.
+14. Hosseini, A, Massumi, H, Heydarnejad, J, Pour, AH &
+Varsani, A 2011, ‘Characterization of potato virus Y isolates
+from Iran’, Virus Genes, vol. 42, pp.128-40.
+15. Jacquemond, M 2012, ‘Cucumber mosaic virus’, Adv. Virus
+Res., vol. 84, pp 439-504.
+16. Lambert, SJ & Scott, JB 2012, ‘Strain characterization of
+potato virus S isolates from Tasmania, Australia’, Plant Dis.,
+vol. 96, pp 813-9.
+17. Martin, S & Elena, SF 2009, ‘Application of game theory to
+the interaction between plant viruses during mixed infections’,
+J. Gen. Virol., vol. 90, pp. 2815-20.
+18. Masuta, C, Seshimo, Y, Mukohara, M, Jung, HJ, Uedas, S,
+Ryu, KH & Choi, JK, 2002, ‘Evolutionary characterization
+of two isolates of cucumber mosaic virus isolated from Japan
+and Korea’, J. Gen. Plant Pathol., vol. 68, pp. 163-8.
+19. Nie, X & Singh, RP 2003, ‘Evolution of North American PVY
+NTN
+strain TU 660 from local PVYN by mutation rather than
+recombination’, Virus Genes, vol. 26, pp. 39-47.
+20. Palukaitis, P & Garcia-Arenal, F 2003, ‘Cucumoviruses’, Adv.
+Virus Res., vol. 62, pp. 241-323.
+21. Phan, MSV, Seo, JK, Choi, HS, Lee, SH & Kim, KH 2014,
+‘Molecular and biological characterization of an isolate of
+cucumber mosaic virus from Glycine soja by generating its
+infectious full-genome cDNA clones’, Plant Pathol. J., vol
+30, no.2, pp 159-67.
+22. Reddy, PP 2010, Bacterial and viral disease and their
+management in horticultural crops, Scientific Publisher,
+Jodhpur.
+
+Damayanti, TA dan Kartika, R.: Deteksi VirusVirus pada Kentang di Jawa Barat ...
+23. Shikata, E, Murayama, D, Agrawal, HO, Inoue, T, Kimura,
+I, Tomaru, K, Tsuchizaki, T & Triharso 1998, Plant viruses
+in Asia, Universitas Gadjah Mada Press, Yogyakarta.
+
+25. Syller, J, 2012, ‘Facilitative and antagonistic interactions
+between plant viruses in mixed infections’, Mol. Plant Pathol.,
+vol. 13, no. 2, pp. 204-16.
+
+24. Somerville, PA, Campbell, RN, Hall, DH & Rowhani, A
+1987, ‘Natural infection of potatoes (Solanum tuberosum) by
+a legume strain of cucumber mosaic virus’, Plant Dis., vol.
+71, no.1, pp. 18-20.
+
+26. Wege, C & Siegmund, D 2007, Synergism of a DNA and an
+RNA virus: Enhanced tissue infiltration of the begomovirus
+abutilon mosaic virus (AbMV) mediated by cucumber mosaic
+virus (CMV)’, Virology, vol. 357, pp 10-28.
+
+179
+
+

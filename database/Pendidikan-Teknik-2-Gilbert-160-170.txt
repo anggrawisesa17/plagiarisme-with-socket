@@ -1,0 +1,303 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/308698308
+
+PENERAPAN BUSINESS PROCESS MODELING NOTATION (BPMN) UNTUK
+MEMODELKAN KEBUTUHAN SISTEM PROSES PENYUNTINGAN TULISAN
+PADA WEBSITE JURNAL JTRISTE
+Conference Paper · August 2015
+CITATIONS
+
+READS
+
+4
+
+12,696
+
+3 authors, including:
+Irfan AP
+Universitas Sulawesi Barat, Majene, Indonesia
+10 PUBLICATIONS 11 CITATIONS
+SEE PROFILE
+
+All content following this page was uploaded by Irfan AP on 28 September 2016.
+
+The user has requested enhancement of the downloaded file.
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+PENERAPAN BUSINESS PROCESS MODELING NOTATION (BPMN) UNTUK MEMODELKAN
+KEBUTUHAN SISTEM PROSES PENYUNTINGAN TULISAN PADA WEBSITE JURNAL JTRISTE
+Gilbert Krisantoso1, Irfan AP2, Mohammad Fajar3
+E-Mail : gkrisantoso@gmail.com, irfan@kharisma.ac.id, fajar@kharisma.ac.id
+STMIK KHARISMA Makassar
+
+ABSTRAK
+Website jurnal JTRISTE STMIK KHARISMA Makassar dimana dibutuhkan suatu proses
+pengiriman dan proses evaluasi tulisan yang dilakukan secara online. Dalam pengembangannya
+dibutuhkan suatu pendekatan yang spesifik sesuai dengan kondisi pengelola jurnal JTRISTE. Hal ini
+disebabkan adanya kendala dalam memodelkan kebutuhan sistem yang sesuai dengan tujuan
+bisnisnya, kendala tersebut meliputi alur proses bisnis yang kurang jelas dan berubah-ubah, belum
+adanya standar prosedur yang disepakati.
+Berdasarkan hal tersebut diatas, sesuai kajian awal dan kondisi pada penelitian ini serta
+kebutuhan proses bisnis dari jurnal JTRISTE. Pemodelan kebutuhan sistem website jurnal JTRISTE
+mengadopsi BPMN (Business Process Modeling Notation). Pemilihan pemodelan berdasarkan
+BPMN ini didasari akan kelebihan dari BPMN dalam mengakomodir penyajian kebutuhan bisnis
+menjadi model proses bisnis yang dapat dengan mudah dijelaskan dan ditransformasikan.
+Penelitian ini menghasilkan model proses bisnis meliputi, model gambaran umum, model
+proses pengajuan tulisan oleh peneliti yang telah terdaftar, model proses pengajuan tulisan oleh
+peneliti yang belum terdaftar, model proses penyuntingan tulisan dan model proses publikasi
+jurnal. Serta mengimplementasikan model proses tersebut menjadi situs web resmi jurnal JTRISTE
+terfokus pada proses penyuntingan tulisan.
+Kata Kunci : BPMN, Kebutuhan Sistem, Bisnis Proses.
+
+ASTRACT
+The requirements of JTRISTE Journal website of STMIK KHARISMA Makassar are the
+process of paper submission and the process of online review paper. In its development process
+requires a specific approach in accordance with the conditions JTRISTE journal managers. This case
+is caused by the problem to modeling system requirement that accordance with the business goal.
+The constraints include the flow of business processes that are unclear and always change, there
+is no agreed standard procedures.
+Based on the cases above, appropriate initial assessment and conditions in this study as
+well as the needs of the business processes of the JTRISTE journal . Modeling system requirements
+journal website JTRISTE adopt BPMN (Business Process Modeling Notation). Election based on
+BPMN modeling is based on the advantages of BPMN to accommodate the presentation of
+business requirements into business process models that can be easily explained and
+transformed.
+The result of this research are business process model includes, a big picture of the
+JTRISTE journal website business process model, Process model of submission paper by the
+researchers who have been registered, Process model of submission paper by the researchers
+who have not registered yet, review paper online model and publication of paper model. And
+implement a model of the process into the official web site of the journal JTRISTE focused on the
+online paper review process .
+Keywords : BPMN, System Requirement, Business Process.
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+PENDAHULUAN
+Website JTRISTE adalah website yang digunakan untuk mengelolah jurnal pada STMIK
+KHARISMA Makassar. Dalam pengembangannya, akan dibuat satu fitur pada website JTRISTE yaitu
+penyuntingan tulisan secara online. Dalam pembuatan fitur tersebut, ada beberapa kendala yang
+muncul diantaranya yaitu kebutuhan sistem dan pengguna yang sulit diprediksi dan proses bisnis
+yang kurang jelas. Maka dari itu, peneliti memodelkan proses bisnis penyuntingan tulisan pada
+website JTRISTE agar dapat diketahui dengan jelas aktifitas-aktifitas yang ada didalam proses
+tersebut seperti interaksi yang terjadi oleh beberapa pihak dalam sistem tersebut. Pemodelan
+proses bisnis ini juga memudahkan pengembang maupun pengguna untuk memperoleh
+kebutuhan sistem atau pengguna dengan lebih jelas sehingga pengembangan yang dilakukan bisa
+selaras dengan tujuan bisnis yang diharapkan.
+
+1. Pekerjaan Terkait
+Berdasarkan penelitian (Dewi, Indahyanty, & Yulius, 2012), yang melakukan perbandingan
+antara Activity Diagram dan BPMN dalam memodelkan proses bisnis pada FRS (Formulir Rencana
+Studi) online, hasilnya BPMN cenderung menggambarkan proses dari pandangan seorang analisis
+bisnis, BPMN tidak dibuat dengan tujuan untuk dibuat programnya. Sedangkan Activity Diagram
+cenderung menggambarkan proses dari sudut pandang software. Notasi yang dipakai (semantic)
+didefinisikan secara detail. Sangat dimungkinkan untuk membuat pemrograman dari activity
+diagram.
+Selain itu, menurut penelitian (Grigera, Rivero, Luna, Giacosa, & Rossi, 2012) yang
+membuat aplikasi web berupa model berdasarkan Agile Model Driven untuk membuat map
+requirement models menjadi content dan navigations models yang dapat diproses secara
+otomatis.
+Juga menurut penelitian (Succi & Giancarlo) dengan berfokus pada interaksi yang
+berkelanjutan dengan pelanggan, memprioritaskan fungsional yang paling bernilai dan
+membuang apa saja yang tidak memberikan nilai tambah(value) bagi pelanggan.
+
+2. Business Process Modeling Notation (BPMN)
+BPMN adalah standar untuk memodelkan proses bisnis dan proses-proses web services.
+BPMN menyediakan notasi yang dapat dengan mudah dipahami oleh semua pengguna bisnis,
+termasuk juga analis bisnis yang menciptakan draf awal dari proses sampai pengembang teknis
+yang bertanggung jawab untuk mengimplementasikan teknologi yang digunakan untuk
+menjalankan proses-proses tersebut.
+Kategori dasar dari elemen BPD adalah:
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+1. Flow Objects
+2. Connecting Objects
+3. Swimlanes
+4. Artifacts
+Flow Object dibagi menjadi 3, yaitu event, activity dan gateway. Berikut penjelasannya :
+1. Event digambarkan dengan sebuah lingkaran dan merupakan sesuatu yang “terjadi”
+selama berlangsungnya proses bisnis. Event-event ini mempengaruhi aliran proses dan
+biasanya memiliki penyebab (trigger) atau hasil (result). Event adalah lingkaran dengan
+pusat terbuka untuk memungkinkan pembedaan trigger dan result yang berbeda.
+Terdapat tiga tipe event berdasarkan kapan mereka mempengaruhi aliran yaitu Start,
+Intermediate, dan End
+
+Gambar 1. Simbol Start, Intermediate, dan End
+2. Activity ditunjukkan dengan persegi panjang dengan ujung-ujung bulat dan merupakan
+bentuk umum untuk pekerjaan yang dilakukan oleh perusahaan. Sebuah aktivitas dapat
+berdiri sendiri atau gabungan. Tipe dari aktivitas adalah task dan sub process yang
+dibedakan dengan tanda + pada bagian tengah bawah dari bentuk tersebut
+3. Gateway digambarkan dengan bentuk seperti belah ketupat dan digunakan untuk
+mengontrol percabangan dan penggabungan Sequence Flow. Jadi, gateway menentukan
+keputusan tradisional, penggabungan, dan penggabungan aliran. Internal Markers akan
+menentukan perilaku dari kontrol.
+
+Gambar 2. Simbol Activity dan Gateway
+
+Connecting Object adalah elemen yang menghubungkan flow object. Connecting Object juga
+memiliki tiga jenis elemen yaitu :
+
+1. Alur Sequence (Sequence flow) digunakan untuk menunjukkan urutan yang kegiatan akan
+yang dilakukan dalam sebuah proses.
+2. Alur Pesan (Messege Flow) digunakan untuk menunjukkan aliran pesan antara dua entitas
+yang siap untuk mengirim dan menerima.
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+3. Asosiasi (Association) digunakan untuk asosiasi data, informasi dan artefak dengan aliran
+benda
+
+Gambar 3 Simbol Sequence Flow, Message Flow dan Association (Dewi, Indahyanty, & Yulius,
+2012)
+
+Swimlanes digambarkan dengan bentuk garis yang memisahkan dan mengelompokkan
+aktor (pelaku yang berinteraksi dengan system). Banyak metodologi pemodelan menggunakan
+konsep swimlanes sebagai mekanisme untuk membagi kategori visual yang menggambarkan
+kemampuan fungsional atau tanggung jawab yang berbeda.
+BPMN mendukung swimlanes dengan dua bentuk swimlane objects yaitu pool yang
+mewakili partisipan dalam sebuah proses dan lane yaitu sub-bagian dalam sebuah pool dan akan
+menambah panjang dari pool baik vertikal ataupun horisontal. Lanes digunakan untuk mengatur
+dan mengkategorikan aktivitas.
+
+Gambar 4. Simbol Pool dan Lane dalam Swimlane
+(Dewi, Indahyanty, & Yulius, 2012)
+Artifacts adalah elemen yang digunakan untuk memberikan informasi tambahan dari sebuah
+proses. BPMN dirancang untuk memungkinkan pemodel dan alat pemodelan fleksibilitas untuk
+memperluas notasi dasar dan menyediakan kemampuan untuk konteks tambahan yang tepat
+untuk situasi pemodal tertentu, seperti misalnya pasar vertikal contoh: asuransi dan perbankan.
+Berbagai Artifacts dapat ditambahkan ke dalam diagram sesuai dengan kokteks dari proses bisnis
+yang dimodelkan. Versi BPMN saat ini memiliki tiga tipe Artifacts, yaitu:
+1. Data object: mekanisme untuk menunjukkan bagaimana data dibutuhkan atau diproduksi
+oleh aktivitas. Data object dihubungkan dengan aktivitas melalui Associations.
+2. Group: diwakili dengan persegi panjang dengan ujung bulat yang digambarkan dengan
+garis putus-putus. Group dapat digunakan untuk tujuan dokumentasi atau analisis, tetapi
+tidak mempengaruhi Sequence Flow.
+3. Annotation: mekanisme untuk pemodel memberikan informasi teks tambahan untuk
+pembaca dari diagram BPMN.
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+3. Proses Bisnis Penyuntingan Tulisan
+Penyuntingan tulisan secara online merupakan salah satu fitur yang akan dikembangkan
+pada website JTRISTE. Penyunting data mengubah abstrak tulisan dan memberi komentar
+terhadap tulisan yang diajukan oleh peneliti. Selain dapat mengubah abstrak dan memberi
+kometar, penyunting juga dapat memberikan penilaian tentang relevansi dan kualitas kualitas
+tulisan serta penyunting juga dapat mengusulkan tipe tulisan dan status tulisan dan mengunduh
+tulisan.
+Berikut algoritmanya :
+1) Penyunting mengakses website JTRISTE (jtriste.kharisma.ac.id), akan tampil
+halaman beranda website.
+2) Peyunting memilih menu Online Review, website akan meminta penyunting untuk
+login.
+3) Penyunting mengisi username dan password, sistem akan mengecek kesesuaian
+username dan password penyunting.
+
+
+Jika username dan password tidak sesuai akan tampil tulisan “The
+username or password you entered is incorrect”.
+
+
+
+Jika username dan password sesuai akan tampil halaman penyuntingan
+tulisan.
+
+4) Peyunting dapat mengubah abstrak dan judul tulisan.
+5) Penyunting dapat mengunduh tulisan
+6) Penyunting memberikan penilaian tentang kualitas dan relevasi tulisan.
+7) Penyunting dapat mengusulkan tipe tulisan dan status tulisan.
+8) Penyunting dapat memberikan komentar.
+9) Save Review.
+
+4. Pemodelan Dengan Bpmn
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+Gambar 5. Gambaran Umum Proses Bisnis Website JTRISTE
+
+Model pada Gambar 5 ini adalah hasil akhir dari permintaan kebutuhan proses bisnis
+website JTRISTE dan telah diterima oleh pengguna melalui pengujian penerimaan pengguna (User
+Acceptance Test). Sebelumnya model ini telah mengalami perubahan yaitu user pada saat login
+harus mengisi captcha challenge berubah menjadi user tidak lagi mengisi captcha challenge pada
+saat login.
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+Gambar 6. Proses Bisnis Peneliti yang telah Terdaftar di Website JTRISTE Mengajukan Tulisan
+
+Model pada Gambar 6 ini adalah hasil akhir dari permintaan kebutuhan proses bisnis
+peneliti yang telah terdaftar di website JTRISTE dalam mengajukan tulisan dan telah diterima oleh
+pengguna melalui pengujian penerimaan pengguna (User Acceptance Test). Tidak ada perubahan
+permintaan kebutuhan untuk proses ini.
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+Gambar 7. Proses Bisnis Peneliti yang belum Terdaftar di Website JTRISTE Mengajukan Tulisan
+
+Model pada Gambar 7 ini adalah hasil akhir dari permintaan kebutuhan proses bisnis
+peneliti yang belum terdaftar di website JTRISTE dalam mengajukan tulisan dan telah diterima
+oleh pengguna melalui pengujian penerimaan pengguna (User Acceptance Test). Tidak ada
+perubahan permintaan kebutuhan untuk proses ini.
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+Gambar 8. Proses Bisnis Penyuntingan Tulisan
+Model pada Gambar 8 ini adalah hasil akhir dari permintaan kebutuhan proses bisnis
+penyuntingan tulisan dan telah diterima oleh pengguna melalui pengujian penerimaan pengguna
+(User Acceptance Test). Sebelumnya model ini telah mengalami perubahan yaitu penyunting pada
+saat login harus mengisi captcha challenge berubah menjadi penyunting tidak lagi mengisi
+captcha challenge pada saat login.
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+Gambar 9. Proses Bisnis Publikasi Jurnal
+Model pada Gambar 9 ini adalah hasil akhir dari permintaan kebutuhan proses bisnis
+publikasi jurnal (e-jurnal) dan telah diterima oleh pengguna melalui pengujian penerimaan
+pengguna (User Acceptance Test). Sebelumnya model ini telah mengalami perubahan yaitu jurnal
+dipublikasi pada website resmi P3M berubahan menjadi jurnal dipublikasi pada website JTRISTE
+kemudian Staf P3M pada saat login ke website JTRISTE harus mengisi captcha challenge berubah
+menjadi penyunting tidak lagi mengisi captcha challenge pada saat login.
+5. Kesimpulan
+Dengan dimodelkannya proses bisnis website jurnal JTRISTE menggunakan BPMN,
+pengguna dan pengembang dapat menganalisis aktifitas-aktifitas yang ada dalam setiap proses
+bisnis dan kebutuhan sistem dengan lebih jelas dan mudah. Sehingga pengembangan sistem dapat
+dilakukan sesuai dengan tujuan bisnis yang diharapkan.
+
+DAFTAR PUSTAKA
+PMN Quick Guide. (1997). Diambil kembali dari www.bpmn.org: http://www.bpmn.org/
+Business Process Management Initiative. (2011, Januari). Diambil kembali dari www.omg.org:
+http://www.omg.org/bpmn/Documents/FAQ.htm
+
+Seminar Nasional Forum Dosen Indonesia 2015
+
+ISSN: 2460-5271
+
+Dewi, L. P., Indahyanty, U., & Yulius, H. S. (2012). Pemodelan Proses Bisnis Menggunakan Activity
+Diagram UML dan BPMN (Studi Kasus FRS Online).
+Documents Associated With Business Process Model And Notation (BPMN) Version 2.0. (2011,
+Januari). Diambil kembali dari www.omg.org: http://www.omg.org/spec/BPMN/2.0/
+Grigera, J., Rivero, J. M., Luna, E. R., Giacosa, F., & Rossi, G. (2012). From Requirements to Web
+Applications in an Agile Model-Driven Approach. Springer-Verlag Berlin Heidelberg.
+
+View publication stats
+
+

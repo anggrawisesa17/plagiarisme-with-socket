@@ -1,0 +1,488 @@
+JMM (Jurnal Masyarakat Mandiri)
+http://journal.ummat.ac.id/index.php/jmm
+Vol. 5, No. 1, Februari 2021, Hal. 206-215
+e-ISSN 2614-5758 | p-ISSN 2598-8158
+: https://doi.org/10.31764/jmm.v5i1.3760
+
+PELATIHAN BISNIS ONLINE MENGGUNAKAN APLIKASI SHOPEE
+Ni Wayan Eka Wijayanti1*, Ni Wayan Suardiati Putri2, I Gede Putu Eka Suryana3,
+Kadek Suryati4, Ketut Sepdyana Kartini5, I Wayan Gede Wardika6, Evi Dwi Krisna7
+1,2,3,4,5,6,7Program
+
+Studi Teknik Informatika, STMIK STIKOM Indonesia, Indonesia
+eka.wijayanti2013@gmail.com, 2suardiatiputri@stiki-indonesia.ac.id, 3gdekasuryana@gmail.com,
+
+1
+
+kadeksuryati8@gmail.com, 5sepdyana27@gmail.com, 6iwayangedewardika@stiki0indonesia.ac.id,
+7
+evidwikrisna@yahoo.co.id
+
+4
+
+ABSTRAK
+Abstrak: Di tutupnya pasar seni Sukawati dan Guang dari dampak COVID-19 membuat
+para UMKM yang berasal dari Banjar Sakah, Desa Batuan Kaler tidak dapat berjualan,
+sehingga mengakibatkan perekonomian mereka menjadi menurun. Pada umumnya,
+mereka menggunakan cara konvensional dalam pemasaran produknya sehingga profit
+atau keuntungan yang dihasilkan tidak sebesar toko virtual (online). Dari
+permasalahan ini, Kepala Dusun (Kadus) bekerjasama dengan STIKI Indonesia dalam
+Programnya Aksi Stiki Peduli melakukan sosialisasi dan Pelatihan bisnis online
+menggunakan aplikasi shopee. Pelaksanaan PKM ini menggunakan metode parsitipatif,
+penyuluhan, pendampingan dan pelatihan di lokasi. Melalui pelatihan bisnis online
+yang menggunakan aplikasi shopee ini, diharapkan dapat membantu memasarkan
+produk mereka secara E-marketing pada masa Pandemi Covid-19 ini. Hasil dari
+Pelatihan yang sudah dilakukan menunjukkan perubahan dan peningkatan yaitu: (1)
+20% peserta berinisiatif mendaftarkan mereknya guna memperoleh legalitas,
+khususnya yang telah melakukan kegiatan usaha dalam kurun waktu diatas 5 tahun;
+(2) 20% peserta yang belum memiliki merek mulai membuat merek untuk digunakan
+dalam kegiatan usaha; (3) 60% dari 80% peserta yang telah memiliki merek,
+memutuskan untuk mengganti merek yang telah digunakan agar lebih “menjual”; dan
+(4) 50% peserta telah menerapkan iklan berbayar di shopee dan sisanya masih
+menerapkan iklan kata kunci secara gratis.
+Kata Kunci: Bisnis; Online; UMKM; Shopee
+
+Abstract: The closure of the Sukawati and Guang art markets from the impact of
+COVID-19 made SMEs from Banjar Sakah, Batuan Kaler Village unable to sell, which
+resulted in a decline in their economy. In general, they use conventional methods in
+marketing their products so that the profit generated is not as big as a virtual shop
+(online). From this problem, the Head of Hamlet (Kadus) collaborates with STIKI
+Indonesia in its Stiki Cares Action Program to conduct socialization and online business
+training using the shopee application. The implementation of this PKM uses
+participatory methods, counseling, mentoring and on-site training. Through online
+business training using the Shopee application, it is hoped that it can help market their
+products by means of E-marketing during the Covid-19 Pandemic. The results of the
+training that have been carried out show changes and improvements, namely: (1) 20% of
+participants took the initiative to register their trademarks in order to obtain legality,
+especially those who have carried out business activities for a period of more than 5
+years; (2) 20% of participants who do not have a brand have started making a brand to
+be used in business activities; (3) 60% of the 80% participants who already own a brand,
+decide to change the brand that has been used to make it more “selling”; and (4) 50% of
+participants have implemented paid advertising on shopee and the rest are still
+implementing free keyword ads.
+Keywords: Business; Online; UMKM; Shopee
+Article History:
+Received : 28-12-2020
+Revised : 22-01-2021
+Accepted : 22-01-2021
+Online
+: 21-02-2021
+
+This is an open access article under the
+CC–BY-SA license
+
+206
+
+207
+Ni Wayan Eka Wijayanti, Pelatihan Bisnis Online…
+
+A. LATAR BELAKANG
+Penyebaran COVID-19 membawa dampak yang sangat buruk bagi
+perekonomian dunia termasuk Indonesia khususnya dari sisi pariwisata,
+perdagangan serta investasi. International Monetary Fund dan World Bank
+telah memprediksi bahwa hingga di akhir kuartal I di tahun 2020 ekonomi
+global akan memasuki resesi yang terkoreksi sangat tajam (Liu et al., 2020).
+Selain itu menurut Nasution et al., (2020) dampak pandemi COVID-19
+juga menyebabkan rendahnya sentimen investor terhadap pasar yang pada
+akhirnya membawa pasar ke arah cenderung negatif.
+Dampak COVID-19 pada sektor pariwisata juga tidak luput dari
+ancaman. Data yang dihimpun dari Badan Pusat Statistik menjelaskan
+pada tahun 2019 pelancong asing asal China yang datang ke Indonesia
+menyentuh angka 2.07 juta pelancong atau sebesar 12.8% dari jumlah
+keseluruhan wisatawan asing sepanjang 2019. Sektor-sektor pendukung
+pariwisata yaitu restoran, hotel hingga pengusaha retail juga terdampak
+akibat pandemi COVID-19. Keuntungan hotel mengalami penurunan
+hingga 40% sehingga berdampak pada operasional hotel dan mengancam
+kelangsungan bisnisnya. Turunnya pengunjung asing juga berpengaruh
+terhadap pendapatan rumah makan atau restoran yang pelanggannya lebih
+dominan adalah para pengunjung dari luar negeri (Block, 2017). Lemahnya
+pertumbuhan pariwisata juga berdampak pada industri retail. Selain itu,
+pandemi COVID-19 juga diperkirakan akan mempengaruhi sektor usaha
+mikro, kecil dan menengah, hal tersebut dikarenakan para pengunjungan
+asing yang datang ke suatu destinasi biasanya akan membeli cinderamata
+untuk di bawa pulang (Iswahyudi, 2016). Jika pengunjung asing yang
+berkunjung turun, dapat dipastikan pendapatan atas usaha mikro, kecil
+dan menengah juga akan turun (Saidi et al., 2017). Hal ini juga berdampak
+pada pasar seni Sukawati dan Guwang yang ada di Kabupaten Gianyar.
+Ditutupnya pasar seni Sukawati dan pasar seni Guang dari bulan Maret
+- Agustus 2020. Kemudian di bulan September di berlakukannya New
+Normal dan Pasar Seni Sukawati dan Guwang, Kabupaten Gianyar tetap
+mengalami
+penurunan
+kunjungan atau sepi
+pembeli. Hal ini
+mengakibatkan masyarakat yang sebagian besar melakukan penjualan di
+pasar tidak bisa memasarkan produknya, dan tentu akan mengakibatkan
+kesulitan dalam pemulihan perekonomian secara cepat pasca COVID 19 ini.
+Tentu di pasca pandemi ini, para UMKM di paksa untuk beralih ke dunia
+digital/internet dalam memasarkan produknya. Salah satunya, dengan
+memanfaatkan e-commerce. E-commerce sangat memungkinkan penjual
+untuk memasarkan produknya secara cepat, mudah dan gratis. Dengan
+meng-upload foto dan mendeskripsikan produk yang didukung dengan
+recent update iklan yang muncul, tersedianya contact link dan tersedianya
+kontrol kualitas terhadap iklan penawaran barang dan jasa, iklan gratis
+bagi para pengguna dan cakupan wilayah iklan di seluruh Indonesia serta
+masih banyak yang lainnya (Rahmidani, 2015). Sehingga dengan
+
+208 | JMM (Jurnal Masyarakat Mandiri) | Vol. 5, No. 1, Februari 2021, hal. 206-215
+
+pemanfaatan e_commerce, promosi dan penjualan dapat dilakukan
+keseluruh dunia tanpa batasan waktu dan dengan biaya yang sangat
+rendah daripada promosi secara konvensional sehingga penawaran
+produk/jasa dapat dilakukan sebelum wisatawan datang ke Bali. Selain itu
+e-commerce juga dapat menciptakan peluang bisnis baru yang selama ini
+belum banyak dilakukan, seperti penjualan produk secara online keseluruh
+dunia tanpa harus memiliki produk maupun toko sendiri terlebih dahulu
+(Samsiana et al., 2020).
+Pengabdian yang dilakukan oleh Evasari et al., (2019) dengan tujuan
+untuk menerapkan e-commerce terhadap penjualan aneka produk UMKM
+yang ada di Desa Tales dalam meningkatkan omset penjualannya. Hasil
+yang diperoleh dari pelaksanaan pengabdian kepada masyarakat tersebut
+adalah dengan adanya bantuan pelatihan dan aplikasi e- commerce dapat
+meningkatkan motivasi bagi mitra untuk melaksanakan pemasaran
+terhadap produknya supaya omsetnya meningkat.. Hal ini sejalan dengan
+pengabdian yang dilakukan di Banjar Sakah, Batuan kaler. Pada umumnya,
+para UMKM di Banjar Sakah Batuan Kaler menggunakan cara
+konvensional dalam pemasaran produknya sehingga profit atau
+keuntungan yang dihasilkan tidak sebesar toko virtual (online). Dari
+permasalahan diatas. Pengusul berencana mengadakan pelatihan bisnis
+online dengan menggunakan salah satu marketplace yaitu aplikasi Shopee
+yang bermitra dengan Banjar Sakah Batuan Kaler Kecamatan Sukawati,
+Kabupaten Gianyar, Bali.
+Melalui pelatihan bisnis online dengan menggunakan aplikasi shopee ini,
+diharapkan dapat membantu memasarkan produk mereka, sehingga dapat
+membantu meningkat profit penjualan di masa pandemi Covid-19 ini.
+Kegiatan ini diselenggarakan oleh STMIK STIKOM Indonesia (STIKI) yang
+dapat memberikan pengetahuan dan keterampilan bagi UMKM Banjar
+Sakah Bantuan Kaler, khususnya dalam memanfaatkan teknologi aplikasi
+shopee.
+
+B. METODE PELAKSANAAN
+Metode adalah suatu cara yang ditempuh untuk mencapai tujuan
+tertentu. Pelaksanaan program pengabdian kepada masyarakat ini
+dilakukan dengan menggunakan metode parsitipatif, penyuluhan,
+pendampingan dan pelatihan di lokasi (Evasari et al., 2019). Pelaksanaan
+kegiatan pengabdian masyarakat ini di fasilitasi oleh STMIK STIKOM
+Indonesia melalui program Aksi Stiki Peduli. Tempat pelaksanaan program
+aksi Stiki peduli dilaksanakan di kantor Desa Batuan Kaler, Kecamatan
+Sukawati, Kabupaten Gianyar, Bali dengan 10 peserta UMKM yang
+mempunyai minat tinggi untuk memiliki usaha online. Pelaksanaan
+kegiatan Program Aksi Stiki Peduli terdiri dari beberapa tahapan yaitu (1)
+identifikasi masalah; (2) persiapan; (3) sosialisasi dan pelatihan; (4)
+Monitoring dan evaluasi; dan (5) Dokumentasi dan penyusun laporan.
+
+209
+Ni Wayan Eka Wijayanti, Pelatihan Bisnis Online…
+
+Adapun Alur pelaksanaan kegiatan pengabdian masyarakat disajikan pada
+Gambar 1 berikut.
+Identifikasi Masalah
+
+Persiapan
+
+Sosialisasi & Pelatihan
+
+Monitoring dan
+Evaluasi
+
+Dokumentasi &
+Penyusunan Laporan
+Gambar 1. Alur Pelaksanaan Kegiatan Program Aksi STIKI Peduli
+
+Pada tahap sosialisasi dan pelatihan dilaksanakan dalam 3 kali
+pertemuan seperti berikut: (1) pertemuan pertama, dilakukan dengan
+memberikan informasi kepada mitra tentang kegiatan pengabdian
+masyarakat yang akan dilaksanakan. Memberikan pemahaman kepada
+mitra tentang latar belakang kegiatan dan tujuan kegiatan. Serta
+memberikan pemahaman tentang pentingnya merk dan legalitas dengan
+mendatangakan narasumber; (2) pertemuan kedua, memberikan pelatihan
+pembuatan akun Shopee. sampai tahap pembukaan toko online serta
+menjelaskan vitur – vitur menu shopee kepada mitra; dan (3) pertemuan
+ketiga, memberikan pelatihan cara membuat posting produk di toko online
+di Shopee, dan cara mengiklankan produk menggunakan kata kunci (gratis)
+dan iklan berbayar.
+Tahap Monitoring dilakukan dengan pendampingan langsung yang
+diadakan pada setiap hari sabtu (seminggu sekali) dengan mengambil
+waktu 1 – 2 jam. Serta pembuatan group WA agar mempermudahkan
+untuk komunikasi jika ada permasalahan yang di alami oleh mitra.
+Sedangkan Tahap evaluasi dilakukan dengan memberikan angket yang
+menggunakan google form yang wajib harus diisi oleh peserta, dan tahap
+ini dilakukan setelah pelatihan berlangsung guna melihat peningkatan
+maupun kekurangan atau kendala yang timbul setelah adanya pelatihan
+tersebut. Tujuan tahap ini yaitu untuk mengamati serta menganalisis
+
+210 | JMM (Jurnal Masyarakat Mandiri) | Vol. 5, No. 1, Februari 2021, hal. 206-215
+
+keberhasilan program ini. Hasil simpulan ini akan dijadikan dasar dalam
+pembuatan laporan dan juga sebagai acuan dalam pengembangan
+pengabdian kepada masyarakat selanjutnya.
+
+C. HASIL DAN PEMBAHASAN
+Program Aksi STIKI Peduli di laksanakan pada tanggal 05, 12, dan 20
+September 2020 di kantor Desa Batuan Kaler. Pada kegiatan tersebut
+terdapat 10 peserta yang hadir, meliputi 53,3% sudah memiliki usaha dan
+46,6% belum memiliki usaha, tetapi mereka ingin memiliki bisnis online.
+
+Gambar 2. Sambutan Kepala Dusun dan Ketua Panitia PKM
+
+Kegiatan PKM yang dilakukan mendapat dukungan dari Kepala Dusun
+(Kadus) Banjar Sakah, Batuan Kaler. Hal ini dapat dilihat dari antusias
+beliau untuk menyempatkan hadir dan memberikan sambutan sekaligus
+membuka acara pada awal pelaksanaan kegiatan PKM. Setelah sambutan
+dari Kepala Dusun (Kadus) Banjar Sakah, Batuan Kaler, dilanjutkan
+sambutan yang disampaikan oleh Ketua Pelaksana kegiatan PKM (Gambar
+2). Dalam sambutannya disampaikan ucapan terima kasih kepada pihak
+UMKM Banjar Sakah, Batuan Kaler, karena telah bersedia menerima
+dengan hangat kegiatan PKM yang dilakukan.
+Proses kegiatan pertama dari pelaksanaan pengabdian kepada
+masyarakat, adalah menjelaskan mengenai materi pengenalan merek
+dagang dan jasa, serta legalitas merek dalam kegiatan usaha yang
+mendatangkan narasumber. Pada kenyataannya di lapangan, rendahnya
+pengetahuan mengenai perlindungan merek sangat mempengaruhi pula
+rendahnya upaya pendaftaran merek, khusunya bagi pemilik merek pada
+usaha UMKM (Kendal, 2019). Hasil Survei awal yang mengunakan angket
+(google form) terhadap peserta menunjukkan bahwa (1) 92,3% peserta
+mengenal merek sebagai tanda pembeda saja; (2) 85% peserta mengetahui
+tentang merek dagang dan jasa. Namun peserta belum mengetahui
+
+211
+Ni Wayan Eka Wijayanti, Pelatihan Bisnis Online…
+
+pentingnya merek sebagai strategi pemasaran; dan (3) 100% peserta tidak
+mengetahui tentang legalitas merek dan mekanismenya.
+Merek atas barang lazim disebut sebagai merek dagang, yaitu merek
+yang digunakan/ditempelkan pada barang yang diperdagangkan oleh
+seseorang atau beberapa orang atau badan hukum, sedangkan merek jasa
+adalah merek yang digunakan pada jasa yang diperdagangkan oleh
+seseorang atau beberapa orang atau badan hukum (Djumrianti et al., 2019).
+Pada dasarnya, merek memiliki berbagai fungsi, yaitu, sebagai tanda
+pengenal untuk membedakan produk perusahaan yang satu dengan produk
+perusahaan yang lain (product identity), sarana promosi dagang (means of
+trade promotion), jaminan atas mutu barang atau jasa (quality guarantee)
+dan penunjukan asal barang atau jasa yang dihasilkan (source of origin).
+Dengan adanya hak atas merek, maka fungsi merek dapat pula sebagai
+legalitas terhadap produk barang atau jasa sejenis agar terhindar dari
+peniruan pihak lain. Untuk jenis merek itu sendiri dapat berupa merek
+dagang dan merek jasa (Zulkarnain et al., 2020)
+Pada dasarnya, perlindungan HKI dapat dilaksanakan dengan dua
+sistem, yaitu sistem deklaratif dan konstitutif. Sistem perlindungan
+deklaratif yaitu suatu sistem dimana yang memperoleh perlindungan
+hukum adalah pemakai pertama dari merek yang bersangkutan.
+Sedangkan sistem perlindungan konstitutif yaitu pendaftaran merupakan
+keharusan agar dapat memperoleh hak atas merek (Ratna, 2016).
+
+Gambar 3. Masyarakat Banjar Sakah, Batuan Kaler Mengikuti Pelatihan
+
+Gambar 3 menunjukkan peserta pelatihan sangat antusias mengikuti
+pelatihan yang diberikan dengan menyimak secara seksama materi yang
+disampaikan oleh mentor. Peserta tidak hanya dipandu oleh seorang
+mentor, namun juga diberikan pendampingan oleh fasilitator. Hal ini
+dilakukan agar peserta dapat mengikuti pelatihan secara menyeluruh dan
+tidak sampai ketinggalan. Disamping itu juga memberikan semangat bagi
+peserta dalam mengikuti pelatihan, karena fasilator selalu membantu
+ketika peserta menghadapi kendala, sehingga permasalahan yang dialami
+dapat segera diselesaikan. Selain itu, peserta sangat antusias
+menyampaikan berbagai pertanyaan. Mayoritas pertanyaan fokus pada
+mekanisme untuk memperoleh legalitas merek dan biaya untuk
+
+212 | JMM (Jurnal Masyarakat Mandiri) | Vol. 5, No. 1, Februari 2021, hal. 206-215
+
+mengurusnya. Selain itu, beberapa peserta sharing mengenai pengalaman
+kegiatan usahanya terkait merek yang dimiliki dan solusi dari
+permasalahan yang pernah dialami.
+Pada observasi akhir setelah pemaparan materi mengenai pengenalan
+merek dagang dan jasa, serta legalitas merek dalam kegiatan usaha ,
+menunjukkan perubahan dan peningkatan yaitu: : (1) 85% peserta
+mengetahui dan memahami bahwa merek tidak sekedar sebagai tanda
+pembeda saja melainkan memiliki peran penting sebagai hak kepemilikan
+yang dapat dilindungi hukum; (2) 20% peserta berinisiatif mendaftarkan
+mereknya guna memperoleh legalitas, khususnya yang telah melakukan
+kegiatan usaha dalam kurun waktu diatas 5 tahun; (3) 80% peserta paham
+bahwa merek penting sebagai strategi pemasaran; (4) 20% peserta yang
+belum memiliki merek mulai membuat merek dagang dan jasa untuk
+digunakan dalam kegiatan usaha; dan (5) 60% dari 80% peserta yang telah
+memiliki merek, memutuskan untuk mengganti merek yang telah
+digunakan agar lebih “menjual” dan menarik karena mayoritas sebelumnya
+menggunakan nama pribadi sebagai merek.
+Pemanfaatan TI yang cepat dan akurat merupakan bentuk informasi
+yang sangat dibutuhkan oleh masyarakat dalam hal promosi (Manager et
+al., 2019). Salah satu pemanfaatan TI adalah pemanfaatan e-commerce
+sangat dibutuhkan oleh para UMKM Banjar Sakah, Batuan Kaler
+khususnya mampu bersaing dalam bisnis global dan dapat menambah
+pemasukkan di tengah pandemi COVID-19 saat ini. Sistem E-Commerce
+yaitu penggunaan teknologi informasi dan komunikasi untuk
+mempromosikan penjualan online. Seiring dengan kemajuan teknologi, ECommerce dapat dikembangkan untuk meningkatkan efektivitas dan
+kualitas penjualan dan pembelian. Sistem E-Commerce memiliki sejumlah
+fasilitas seperti belanja online, testimoni, cara kirim, dan masih banyak lagi
+(Yulistia, 2017). Dengan memanfaatkan e-commerce promosi dan penjualan
+dapat dilakukan keseluruh dunia tanpa batasan waktu dan dengan biaya
+yang sangat rendah daripada promosi secara konvensional sehingga
+penawaran produk/jasa dapat dilakukan sebelum wisatawan datang ke Bali.
+Selain itu e-commerce juga dapat menciptakan peluang bisnis baru yang
+selama ini belum banyak dilakukan, seperti penjualan produk secara online
+keseluruh dunia tanpa harus memiliki produk maupun toko sendiri terlebih
+dahulu (Yadewani & Wijaya, 2017). Salah satu E-commerce yang banyak
+digunakan adalah Shopee.
+Proses selanjutnya, dalam kegiatan pengabdian ini adalah pelatihan
+mengenai Aplikasi Shopee. Shopee adalah salah satu marketplace (toko
+online) yang cukup populer di indonesia, ada banyak orang yang sudah
+bertransaksi atau belanja barang secara online melalui shopee. Memang
+marketplace shopee menyediakan beberapa fitur yang membuat orang
+tertarik untuk belanja melalui shopee, misalnya saja diskon untuk
+beberapa barang, Gratis ongkir, dan beberapa promo lainnya. Selain itu
+
+213
+Ni Wayan Eka Wijayanti, Pelatihan Bisnis Online…
+
+Shopee juga menawarkan fitur toko online bagi yang ingin membuka toko
+di shopee dan memasarkan produk/jasa di shopee, untuk membuka toko di
+shopee bisa dilakukan melalui Hp atau PC (komputer). Peluang berjualan
+di shopee bisa anda manfaatkan mengingat ada banyak yang menggunakan
+Aplikasi shopee untuk berbelanja. Adapun beberapa keunggulan Shopee
+yaitu: (1) Menjual barang dengan cukup cepat dan dapat dilakukan hanya
+dalam waktu 30 detik; (2) Memudahkan penjual dalam memasarkan
+produknya dengan fitur foto dan video. Dalam pelatihan ini, peserta di
+wajibkan membawa minimal 5 foto produk yang akan di pasarkan di
+aplikasi Shopee; (3) Ada fitur pemberitahuan tentang sistem pembayaran
+sampai dengan penyelesaian transaksi. Sehingga memudahkan penjual
+dalam mengecek transaksi jual beli online; (4) Menghadirkan fitur Live
+Chat yang memudahkan pembeli agar bisa langsung berbicara dengan si
+penjual untuk bisa bertransaksi atau bernegosiasi. Fitur ini sangat
+memudahkan pengguna shopee karena mengingat pada situs e-commerce
+atau aplikasi yang lain yang harus menyimpan nomor telepon terlebih
+dahulu ketiks ingin bertransaksi; (5) Memiliki fitur berbagi yang lengkap
+agar dengan mudah menyebarkan info ke berbagai situs media sosial atau
+aplikasi messenger, seperti Facebook, Instagram, Twitter, Line, Pinterest,
+Whatsapp; dan (6) Shopee mengintegrasikan fitur media sosial yang
+mencakup fungsi hashtag, agar mempermudah pengguna dalam mencari
+barang atau produk yang sedang popular atau untuk mengikuti trend
+produk terbaru secara mudah.
+
+Gambar 4. Pemaparan Materi Shopee
+
+Berdasarkan survei awal menggunakan google form menunjukkan
+bahwa 53,3% peserta menggunakan media internet dalam memasarkan
+produk yang di miliki. Media internet yang paling banyak digunakan
+adalah facebook, instagram, dan WA. sedangkan 46,7% peserta
+menggunakan cara konvensional dalam memasarkan produknya. 100%
+peserta belum mengetahui mekanisme pemasaran produk dengan
+menggunakan aplikasi Shopee.
+
+214 | JMM (Jurnal Masyarakat Mandiri) | Vol. 5, No. 1, Februari 2021, hal. 206-215
+
+Pada wawancara dan observasi akhir, setelah pemaparan dan pelatihan
+mengenai mekanisme strategi pemasaran guna peningkatan penjualan
+barang dan jasa dengan aplikasi shopee, menunjukkan: (1) sebanyak 53,3%
+peserta yang sudah memasarkan produknya menggunakan media internet,
+belum mengetahui bagaimana cara membuat iklan berbayar, sehingga pada
+saat memaparkan materi di jelaskan bagaimana mekanisme membuat
+iklan berbayar di shopee. Pada sesi ini peserta banyak yang diskusi dan
+sekaligus langsung mencoba iklan berbayar dengan nominal Rp 5000,- per
+hari dan belajar memilih kata kunci yang bagus. (2) 75% peserta paham
+mengenai mekanisme strategi pemasaran dalam kegiatan usaha guna
+peningkatan penjualan barang dan jasa menggunakan aplikasi shopee; (3)
+80% peserta sudah membuka toko di shopee; dan (4) 50% peserta telah
+menerapkan iklan berbayar di shopee dan sisanya masih menerapkan iklan
+kata kunci secara gratis. 
+
+D. SIMPULAN DAN SARAN
+Berdasarkan kegiatan yang telah dilaksanakan oleh Tim Pengabdian
+Stiki Indonesia di Banjar Sakah, Batuan Kaler disimpulkan sebagai berikut:
+(1) 85% peserta mengetahui dan memahami bahwa merek tidak sekedar
+sebagai tanda pembeda saja melainkan memiliki peran penting sebagai hak
+kepemilikan yang dapat dilindungi hukum; (2) 20% peserta berinisiatif
+mendaftarkan mereknya guna memperoleh legalitas, khususnya yang telah
+melakukan kegiatan usaha dalam kurun waktu diatas 5 tahun; (3) 80%
+peserta paham bahwa merek penting sebagai strategi pemasaran; (4) 20%
+peserta yang belum memiliki merek mulai membuat merek dagang dan jasa
+untuk digunakan dalam kegiatan usaha; (5) 60% dari 80% peserta yang
+telah memiliki merek, memutuskan untuk mengganti merek yang telah
+digunakan agar lebih “menjual” dan menarik karena mayoritas sebelumnya
+menggunakan nama pribadi sebagai merek; (6) 80% peserta sudah
+membuka toko di shopee; dan (7) 50% peserta telah menerapkan iklan
+berbayar di shopee dan sisanya masih menerapkan iklan kata kunci secara
+gratis.
+Saran yang dapat disampaikan untuk peningkatan kegiatan selanjutnya,
+yaitu (1) Penambahan waktu untuk praktek menggunakan media online
+sebagai sarana promosi untuk peningkatan penjualan dan (2) Pengenalan
+marketplace selain shopee seperti tokopedia, lazada, bukalapak dan lainlainnya.
+UCAPAN TERIMA KASIH
+Tim Penulis mengucapkan terima kasih kepada Lembaga Pengabdian
+Masyarakat (LPPM) STMIK STIKOM Indonesia yang telah memfasilitasi
+dan mendanai kegiatan Program Aksi Stiki Peduli ini, serta para UMKM
+Banjar Sakah, Batuan Kaler yang sudah mengikuti kegiatan ini dengan
+semangat dan antusias dari awal sampai akhir.
+
+215
+Ni Wayan Eka Wijayanti, Pelatihan Bisnis Online…
+
+DAFTAR RUJUKAN
+Block, D. (2017). Political economy in applied linguistics research. In Language
+Teaching (Vol. 50, Issue 1). https://doi.org/10.1017/S0261444816000288
+Djumrianti, D., Mandiangan, P., Sayuti, A. J., Effendi, M. R. M., Bisnis, J. A., &
+Sriwijaya, P. N. (2019). Teknologi perancangan merk dagang dan pengayaan
+konten sosial media sebagai strategi pemasaran. Seminar Nasional Aplikasi
+Teknologi Pada Masyarakat, 186–192.
+Evasari, A. D., Utomo, Y. B., & Ambarwati, D. (2019). Pelatihan Dan Pemanfaatan
+E-Commerce Sebagai Media Pemasaran Produk UMKM Di Desa Tales
+Kecamatan Ngadiluwih Kabupaten Kediri. Cendekia : Jurnal Pengabdian
+Masyarakat, 1(2), 75. https://doi.org/10.32503/cendekia.v1i2.603
+Iswahyudi, H. (2016). Back to oil: Indonesia economic growth after Asian financial
+crisis.
+Economic Journal of Emerging Markets,
+8(1), 25–44.
+https://doi.org/10.20885/ejem.vol8.iss1.art3
+Kendal, K. (2019). Sosialisasi Legalitas dan Manajemen Pemasaran bagi UMK
+(Legality Socialization and Marketing Management for MSE’s). Logista Jurnal
+Ilmiah Pengabdian Kepada Masyarakat, 3(1), 31–36.
+Liu, W., Yue, X. G., & Tchounwou, P. B. (2020). Response to the covid-19 epidemic:
+The chinese experience and implications for other countries. International
+Journal of Environmental Research and Public Health, 17(7), 1–6.
+https://doi.org/10.3390/IJERPH17072304
+Manager, S., Hotel, H., Nasional, U. P., & Nasional, U. P. (2019). Menguji
+Ketajaman Im[lementasi E-Commerce dalam Penjualan Kamar Hotel di Bali.
+Jurnal Manajemen Dan Bisnis, 16(2), 79–98.
+Nasution, D. A. D., Erlina, E., & Muda, I. (2020). Dampak Pandemi COVID-19
+terhadap
+Perekonomian
+Indonesia.
+Jurnal Benefita,
+5(2), 212.
+https://doi.org/10.22216/jbe.v5i2.5313
+Rahmidani, R. (2015). Penggunaan E-Commerce Dalam Bisnis Sebagai Sumber
+Keunggulan Bersaing Perusahaan. Jurnal SNEMA-Padang-Indonesia, c, 345–
+352. http://fe.unp.ac.id/sites/default/files/unggahan/26. Rose Rahmidani (hal
+344-352)_0.pdf
+Ratna, H. (2016). Analisis Perlindungan Hukum atas Merek Terdaftar sebagai
+Hak atas Kekayaan Intelektual. Jurnal Keadilan Progresif, 7(2), 37–39.
+Saidi, L. O., Adam, P., Rostin, R., Saenong, Z., Balaka, M. Y., Gamsir, G.,
+Asmuddin, A., & Salwiah, S. (2017). The Effect of Stock Prices and Exchange
+Rates on Economic Growth in Indonesia. International Journal of Economics
+and
+Financial
+Issues,
+7(3),
+527–533.
+https://search.proquest.com/docview/2270059842?accountid=17242
+Samsiana, S., Herlawati, Nidaul Khasanah, F., Trias Handayanto, R., Setyowati Srie
+Gunarti, A., Irwan Raharja, Maimunah, & Benrahman. (2020). Pemanfaatan
+Media Sosial dan Ecommerce Sebagai Media Pemasaran Dalam Mendukung
+Peluang Usaha Mandiri Pada Masa Pandemi Covid 19. Jurnal Sains Teknologi
+Dalam
+Pemberdayaan
+Masyarakat,
+1(1),
+51–62.
+https://doi.org/10.31599/jstpm.v1i1.255
+Yadewani, D., & Wijaya, R. (2017). Pengaruh e-Commerce Terhadap Minat
+Berwirausaha. Jurnal RESTI (Rekayasa Sistem Dan Teknologi Informasi),
+1(1), 64. https://doi.org/10.29207/resti.v1i1.6
+Yulistia, Y. (2017). Analisis Pengaruh Efektivitas Dan Manfaat E-Commerce
+Terhadap Sikap Dan Perilaku Pengguna Dengan Menggunakan Metode TAM
+(Studi Kasus: UKM Kota Palembang). JATISI (Jurnal Teknik Informatika
+Dan Sistem Informasi), 4(1), 93–100. https://doi.org/10.35957/jatisi.v4i1.91
+Zulkarnain, I., Setiawan, T. H., Syamtoro, B., & Nurhamdi, M. (2020). Penerapan
+Digital marketing Sebagai Strategi Pemasaran UMKM. Jurnal IMPACT:
+Implementation and Action, 2(2), 39. https://doi.org/10.31961/impact.v2i2.844
+
+

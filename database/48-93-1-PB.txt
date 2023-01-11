@@ -1,0 +1,1222 @@
+SISTEM KLASIFIKASI DAN PENCARIAN JURNAL DENGAN
+MBNGGUNAKAN METODE NAIVE BAYES
+DAN VECTOR SPACE MODEL
+Ainalia Indranandita
+
+(1)
+
+, Budi Susanto(2), Antonius Rachmat C
+
+(3)
+
+Abstrak:
+Kebutuhan konsumen terhadap informasi dalam bentuk jurnal atau artikel ilmiah
+semakin meningkat, sehingga pengelompokan jurnal dibutuhkan untuk mempermudah
+pencarian informasi. Topik jurnal diharapkan dapat mewakili isi jurnal, tanpa harus
+membaca secara keseluruhan. Dalam kenyataannya, pengelompokan jurnal yang
+mengacu topit</kategori tertentu sulit dilakukan jika hanya mengandalkan query biasa. Sistem klasifikasi dan pencarian jurnal dengan metode Naive Bayes dan Vector
+Space Model dengan pendekatan Cosine diharapkan membantu pengguna dalam
+penentuan topik/kategori dan menghasilkan daftar jurnal berdasarkan urutan tingkat
+kemiripan. Proses text mining dilakukan untuk mempersiapkan kebutuhan dasar sistem.
+
+Tahapan proses text mining adalah text preprocessrng dengan parsing, text
+transformation dengan stemming dan sfoprazords removal, feature setection dan-pattern
+discovery.
+
+Klasifikasi Naive Bayes menghasilkan prediksi baik jika vektor yang terbentuk
+mewakili setiap kategori. Sedangkan pencarian Vector Space Uoabt dengan
+pendekatan Cosrne menghasilkan recallsebesar 54.8% dan precision sebesar 60.7%.
+Oleh karena itu, dibangun sistem klasifikasi dan pencarian yang dapat membantu
+pengguna, karena dilengkapi pencarian detil dengan pengetahuan label kategori hasil
+klasifikasi dan fitur metadata.
+
+Kata Kunci : Text Mining, Naive Bayes, Vector Space Modet
+
+1.
+
+Pendahuluan
+Kebutuhan konsumen terhadap informasi dalam bentuk jurnal atau artikel ilmiah semakin
+meningkat, sehingga pengelompokan jurnal dibutuhkan untut< mempermudah pencarian
+informasi. lnformasi penting dari jurnal berupa topik (kategori) yang menggambarkan pokok
+pembahasan secara umum. Pemberian label topik diharapkan membantu konsumen dalam
+memahami isi jurnal, tanpa harus membaca secara keseluruhan. Dalam kenyataannya,
+pengelompokan jurnal yang mengacu topik/kategori tertentu sulit dilakukan
+lit<a hanya
+mengandalkan query biasa. Query adalah standard query tanguage untuk mendefinisikan din
+memanipulasi dafabase yang didukung oleh database server.
+Pemilihan query yang kurang spesifik akan menghasilkan pencarian yang tidak relevan.
+Hasil jurnal pada peringkat awal belum tentu relevan, sehingga dapat dinyatJkan pencarian
+dengan query biasa tidaklah efektif. Jadi, dibutuhkan pengelompokan jurnai untuk mengatasi
+kendala tersebut. Permasalahan yang muncul adalah bagaimana sistem dapat melakukan
+pengelompokan dan pencarian jurnal yang relevan untuk memenuhi kebutuhan konsumen?
+Oleh karena itu, akan dirancang sistem klasifikasi dan pencarian jurnal dengan
+menggunakan metode Naive Bayes dan Vector Space Modet. Diharapkan dengan dukungan dari
+dua metode tersebut, sistem dapat membantu pengguna dalam mela-kukan penentuan
+topik/kategori dan menghasilkan jurnal-jurnal yang sama/mirip berdasarkan tingkat kesamaan. ,,
+Berikut adalah beberapa batasan masalah dari sistem yang dibuat. Artit<et ilmiah dalam
+bentuk jurnal berbahasa lnggris yang bersumber pada http:llwww.proquesf.com/pqdweb. Jurnal
+
+diklasifikasikandalam5kategori,yaituHeatth,Music,Potitics,sio@tributdata
+tl Amalia Indranandita,
+2)
+
+'
+
+Mahasiswa Tefuik Informatika, Fakultas Teknik, Universitas Kristen Duta Iilacana
+Budi Susanto, S.Kom., M.7., Dosen Teknikinformatika, Fakultas Teknik, (Jniversitas Kristen Duta Wacana
+'lrttonius Rachmat C, S.Kom, M.Cs., Dosen Teknik Informatika, Fakultas Teknik, Universitas Kristen Duta lf/acana
+
+1O JURNAL
+
+INFORMATIKA, VOLUME 4 NOMOR 2, NOVEMBER
+
+2OO8
+
+pelatihan berupa kategori, judul, isi abstrak dan keywords dari jurnal. Atribut metadata hasil
+
+pencarian berupa kategori, tanggal dan penulis dari jurnal. Proses transformasi teks
+menggunakan metode Porter Stemmer dan penghapusan sfopurords. Pembobotan token
+menggunakan algoritma TF-IDF disertai dengan normalisasi, dimana perhitungan IF untuk
+atribut judul dan keywords dikalikan dengan nilai 10. Bentuk masukan sistem berupa file jurnal
+berformat .htm yang bersumber Proquest. Bentuk keluaran sistem adalah label berupa
+
+topik/kategori berdasarkan hasil klasifikasi disertaijurnal-jurnal yang telah di-ranking berdasarkan
+tingkat kesamaan dalam pencarian. Sistem dibangun dalam bentuk aplikasi webyang diuji pada
+jaringan lokal.
+
+2. Landasan Teori
+2.1 Text Mining
+
+Menurut Feldman, R. dan Sanger, J., "text mining adalah sebuah proses pengetahuan
+intensif dimana pengguna berinteraksi dan bekerja dengan sekumpulan dokumen dengan
+menggunqkan beberapa alat analisis" (2007, hlm. 1). Text mining mencoba untuk mengekstrak
+informasi yang berguna dari sumber data melalui identifikasi dan eksplorasi dari suatu pola
+menarik. Sumber data berupa sekumpulan dokumen dan pola menarik yang tidak ditemukan
+dalam bentuk database record, tetapi dalam data teks yang tidak terstruktur.
+Tahapan proses text mining dibagi menjadi 4 tahap utama, seperti pada Gambar 1.
+Masukan awal dari proses adalah berupa suatu data teks dan akan menghasilkan keluaran
+berupa pola sebagai hasil tafsiran.
+
+g*ffi
+
+,*--'€*l':
+
+€ffiffie
+
+€s#€
+
+FslS+*$#
+
+--
+
+-rry irdsrg€*rc{
+
+j
+
+Pver,r+=.s
+
+'l
+
+Gambar 1 : Tahapan Proses Text Mining
+Dikutip dari: Auvil, L. & Searsmith,D.,2003,
+Using Text Miningfor Spam Filtering,ltlm.4
+
+2.2
+
+Text Preprocessing
+Tahap proses awal terhadap teks untuk mempersiapkan teks menjadi data yang akan
+diolah lebih lanjut. Sekumpulan karakter yang bersambungan (teks) harus dipecah-pecah
+menjadi unsur yang lebih berarti. Hal ini dapat dilakukan dalam beberapa tingkatan yang
+berbeda. Suatu dokumen dapat dipecah menjadi bab, sub-bab, paragraf, kalimat, kata dan
+bahkan suku kata atau fonem. Parsing/tokenizing adalah proses memecah teks menjadi kalimat
+dan kata/token (Feldman, R. & Sanger, J.,2007, hlm. 60). Fitur ini terdiri dari tipe kapitSlisasi,
+keberadaan digit, tanda baca, karakter spesial dan lain sebagainya. Hasil keluaran dari proses
+tokenizing akan dipergunakan sebagai masukan dalam tahap transformasi teks.
+
+2.3
+
+TextTransformation
+Tahapan yang dipergunakan untuk mengubah kata-kata ke dalam bentuk dasar,
+sekaligus untuk mengurangi jumlah kata-kata tersebut. Pendekatan yang dapat dilakukan yaitu
+dengan stemming dan penghapusan stopwords.
+
+lndranandita, Sislem K/asrfkas i dan Pencaian Jurnat Dengan Menggunakan Metode Naive Bayes
+dan vector Space Model
+
+1 1
+
+Teknik untuk meningkatkan performa, yaitu dengan cara menemukan variasi token dari
+
+yang dimasukkan. Stemming dapat dilakukan pada saat indexing atau pencarian
+9* p"lg"rian
+W.
+B.
+& Baeza, R., 1992, trtm. igt). Keuntungan stemming saat -indexing adalah
+'Frakes,
+
+efisiensi dan kompresi f/e.
+Sfop/isf berisi kumpulan kata yang 'tidak relevan', tetapi seringkali muncul dalam sebuah
+dokumen, Dengan kata lain, sfop/rsf berisi sekumpulan sfopwords (Hin, J. & Kamber, M.,2001,
+
+ttlrn-
+
+430)
+
+Stopwords removal adalah proses menghilangkan kata yang 'tidak relevan' dari
+
+sebuah dokumen teks dengan cara membandingkannya dengan sfop/isiyang ada.
+
+2-1
+
+Feature Selection
+Walaupun teks sudah melalui tahapan transformasi teks, tetapi tidak semua kata yang
+tersisa menggambarkan isi dari dokumen. Tahap seleksi fitur (feature setection) nertuluai
+mengurangi dimensi dari suatu kumpulan teks. Dengan kata lain, menghapus kata-kata yang
+
+dianggap tidak penting atau tidak menggambarkan
+kemunculan kata tersebut.
+
+isi
+
+dokumen berdasarkan frekuens-i
+
+2.5
+
+Pattern Discovery
+Tahapan penemuan pola adalah tahap terpenting dari keseluruhan proses text mining.
+Merupakan penemuan pola atau pengetahuan dari keseluruhan teks.
+
+2.6
+
+lnformationRetrieval
+
+Menurut Han, J. dan Kamber, M., information retrieval (/R) adalah pengorganisasian dan
+penemuan informasi dari sejumlah besar dokumen berbasis teks (2001, hlm.-42-8). lnformation
+retrieval merupakan bidang yang berkembang secara paralel dengan sistem basis data selama
+beberapa tahun. Sistem basis data lebih fokus pada query dan proses transaksional dari struktur
+data. Sedangkan dalam sistem information retrievalditemukan dokumen yang tidak terstruktur,
+pencarian berdasarkan kata kunci dan tingkat kesamaan.
+
+Gambar 2 : Hubungan antara Dokumen Relevant dan Retrieved
+Dikutip dari: Han, J. & Kamber, M.,2001,
+Data Mining: Concepts and Techniques,hlm.42g
+
+2 dasar pengukuran untuk mengukur kualitas dari penemuan teks, yaitu:
+' Precision: tingkat ketepatan hasil klasifikasi terhadap suatu kejadian.
+
+: {R*]*va*t} *
+!
+
+Elfs*iS3*tt
+
+{Rets=i*e"*d}.i
+
+iiRetri*e"=d*?l
+
+(1)
+
+Keterangan:
+
+'
+
+precision
+
+:
+
+{Relevant}
+
+: kumpulan dokumen yang relevan
+: kumpulan dokumen yang ditemukan
+
+{Retrieved}
+
+tingkat ketepptan
+
+a
+
+Recall: tingkat keberhasilan mengenali suatu kejadian dari seluruh kejadian yang
+
+seharusnya dikenali.
+
+recalt
+
+:
+
+i
+
+{R*3*a.*r:t} s= {R*s}"i*1.*{i3
+S{R*3*,ex::s3i
+
+:
+
+(21
+
+12 JURNAL INFORMATIKA, VOLUME 4 NOMOR 2, NOVEMBER
+
+2OO8
+
+Keterangan:
+
+tingkat keberhasilan
+
+recall
+
+:
+
+{Relevant}
+{Retrieved}
+
+: kumpulan dokumen yang relevan
+: kumpulan dokumen yang ditemukan
+
+Dalam serangkaian percobaan untuk mengukur performa dari suatu metode/algoritma,
+digunakan query yang tidak hanya satu dan dari setiap hasil kemudian dirata-rata untuk setiap
+level recallnya. Berikut adalah persamaan untuk menghitung rata-rata pada setiap level recall.
+
+Hq
+
+F{r}:
+
+^.
+
+"
+
+T+:\E
+
+e
+
+(3)
+
+dimana P(r) adalah rata-rata precision pada level recall yang ke-r, Ng adalah jumlah query yang
+digunakan, dan Pi(r) adalah nilaiprecision pada level recallke-runtuk queryyangke-iDikarenakan level recalldari setiap query mungkin berbeda dari standar 11 level recall,
+maka diperlukan sebuah prosedur interpolasi. Prosedur tersebut adalah sebagai berikut, iika ri,
+
+e {0,1 ,2, ...,10}, mereferensikan level recal/ standar yang ke-/, maka:
+
+Fitii :
+
+rllB-lg,+
+
+P{r)
+' = r**,
+
+i
+
+g)
+
+yang berarti precision interpolasi yang ke-f pada level recall yang standar adalah precision
+malisimum dari semua level recalldiantara level recallyang
+
+kel
+
+sampai yangke-(i+1)-
+
+2.7
+
+Algoritma TF-IDF (Term Frequency Inverse Document Frequencyl
+Algoritma TF-\DF adalah suatu algoritma yang berdasarkan nilai statistik menunjukkan
+kemunculjn suatu kata di dalam dokumen. TF (Term Frequency) menyatakan banyaknya suatu
+kata muncul dalam sebuah dokumen. Dan DF (Document Frequency) menyatakan banyaknya
+
+dokumen yang mengandung suatu kata dalam satu segmen publikasi. TF-IDF adalah nilai bobot
+dari suatu kala yang diambil dari nilai IF dan nilai lnverse DF, yang didefinikan dengan
+(Feldman, R. & Sanger, J.,2007, hlm.68):
+
+ssF{w}:*{ofu}
+TF
+Keterangan:
+TF-lDF(w,d)
+
+w
+d
+TF(w,d)
+tDF(w)
+
+N
+DF(w)
+
+2.8
+
+* I*F{eed}:
+
+TF{:ry"*}
+
+(5)
+
+x ISF{*v}
+
+(6)
+
+bobot suatu kata dalam keseluruhan dokumen
+suatu kata (word)
+suatu dokum en (document)
+frekuensi kemunculan sebuah kata w dalam dokumen d
+inverse DF darikala w
+jumlah keseluruhan dokumen
+jumlah dokumen yang mengandung kata w
+
+TF-IDFNormalization
+Berdasarkan rumus [6] di atas, berapapun besarnya nilai TF(w,d), apabila nilai N =
+DF(W) maka akan didapatkan hasil 0 (nol) untuk perhitungan /DF. Untuk itu, dapat ditambahkan
+nilai 1 pada sisi /DF, sehingga perhitungan TF(w,d) menjadi sebagai berikut:
+
+lndranandita, Sistem Kasifikasi dan Pencarian Jurnal Dengan Menggunakan Metode Naive Bayes dan vector Space Model 13
+
+TF
+
+- tDFr lr.d i :
+
+TFir*, dJ
+
+x {i-s{#rrj
+
+}*
+
+r
+
+}
+
+(71
+
+Rumus [7] dinormalisasi dengan rumus [8] dengan tujuan untuk menstandarisasi nilai
+
+TF(w,d) ke dalam interval 0 sampai 1. Rumus TF-\DF dengan menggunakan normalisasi (lntan,
+R. & Defeng, A., 2006, hlm. 3) adatah:
+
+TF
+
+* i*F{x€"*}:
+
+TF
+j
+
+'T:
+'-
+
+f
+
+Ttr
+
+.j**='1rr.;...a
+\.
+
+*
+
+tFF{cs.dJ
+
+-" tll^o{." \'I
+1I w
+"
+
+,1* l 'll
+*jI
+
+['"618F.l"j1=
+
+(8)
+
+Keterangan tambahan:
+
+TF(w,k)
+
+: frekuensi
+
+kemunculan sebuah kata w dalam dokumen
+
+k,
+
+dimana
+
+dokumen k merajuk pada dokumen d
+
+2.9
+
+Metode Naive Bayes
+Metode NaiVe Bayes atau NaiVe Bayes Classifier (NBC) adalah salah satu metode yang
+digunakan untuk klasifikasi teks. NBC menggunakan teori probabilitas sebagai dasar teori. Dalam
+bukunya, Han, J. dan Kamber, M. menyatakan:
+"Bayesian c/assffiers mempunyai tingkat kecepatan dan akurasi yang tinggi ketika
+diaplikasikan dalam database yang besar" (2001, hlm. 296).
+Melalui pernyataan tersebut, maka metode NB adalah metode yang dipergunakan untuk
+proses klasifikasi teks dalam penelitian ini. Terdapat 2 tahap pada proses klasifikasi teks. Tahap
+pertama adalah pelatihan terhadap himpunan artikel contoh (training exampte). Sedangkan tahap
+kedua adalah proses klasifikasi dokumen yang belum diketahuitopiknya.
+Theorema Bayes:
+
+F{-*; 5,H}:
+
+r{.-H
+
+S{i3 H P{{ii
+r{"8}
+
+(e)
+
+Keterangan:
+
+P(cil x)
+
+probabilitas kemunculan kelas Ci dengan kondisi X
+P(X) "konstan" untuk semua kelas sehingga hanya terbentuk p(XlCi) x
+P(Ci) yang pedu dimaksimumkan
+kejadian X
+kelas yang tersedia (C1 , C2, ... Ci)
+probabilitas kemunculan kelas Cl
+probabilitas kemunculan kejadian X
+probabilitas kemunculan kejadian Xdengan kondisi Ci
+
+X
+Ci
+
+P(ci)
+P(X)
+
+P(Xl Ci
+
+;:
+
+I lr{r.'c:
+' : rt
+
+F{H,C'r
+
+T*T
+i=:
+
+(10)
+
+Keterangan:
+
+Xt
+
+P(xtl ci)
+
+: nilai-nilai atribut dalam sample
+
+X
+
+: probabilitas kejadian Xf dengan kondisi cl, dapat dihitung dari database
+training
+
+2.'10 Metode Vector
+
+Space Model
+Metode Vector Space Modelalau Term Vector Modeladalah sebuah modelaljabar untuk
+
+menggambarkan dokumen teks (beberapa objek) sebagai vektor dari identifier. Biasanya
+
+14 JURNAL INFORMATIKA, VOLUME 4 NOMOR 2, NOVEMBER 2OO8
+
+digunakan dalam penyaringan informasi (information filtering), penemuan informasi (information
+retrieval), indexing dan pemberian ranking yang saling relevan.
+Proses dari perhitungan metode ini adalah indexing dokumen, pembobotan term dan
+perhitungan kesamaan. Proses indexing dokumen adalah proses melaluitahapan-tahapan dalam
+text mining. Proses selanjutnya adalah pembobotan term dengan menggunakan algoritma TF/DF. Proses yang terakhir adalah perhitungan kesamaan dengan pendekatan Cosrne, yang
+dinyatakan dalam rumus (Frakes, W. B. & Baeza, R., 1992, hlm.366):
+
+5ir*iSxritg{*:-€*}
+
+Eii={td+
+
+:
+
+Pc Eq;:.}
+
+-,ffi1=toi*
+T
+
+Keterangan:
+
+(11)
+
+,
+
+Similarity(dj,qk) :tingkatkesamaan suatudokumendengan querytertentu
+: term ke-idalam vektor untuk dokumen key
+tdi
+tqik
+n
+
+: term ke-idalam vektor untuk query
+
+ke-k
+: jumlah term yang unik dalam data set
+
+3. Hasildan Pembahasan
+3.1 Sistem Klasifikasi Naive Bayes
+
+Terdapat 5 kategori, yaitu Health, Mltsic, Politics, Sport dan Technology. Jumlah data
+training adalah 250 jurnal Proquest yang terdiri dari 50 jurnal untuk setiap kategorinya.
+Sedangkan data fesfer yang telah dipersiapkan adalah sebanyak 50 jurnal Proquest, masingmasing 10 jurnal pada setiap kategori.
+Setiap jurnal training dan tester melewati proses text mining terlebih dahulu, yaitu fexf
+preprocessing, text transformation, feature selection dan pattern discovery. Setelah melewati
+proses text preprocessrng, diperoleh jumlah training = 249 jurnal, karena terdapat 1 jurnal
+berkategori Potitics yang sama dalam database (id jurnal harus unik, tidak boleh kembar).
+Kemudian setelah melewati proses text transformafion, terbentuk 3763 token yang unik.
+
+Rancangan pengujian sistem klasifikasi akan difokuskan terhadap beberapa pilihan
+feature selection yang diambil, kemudian dilihat berdasarkan nilai precision yang diperoleh.
+Asumsi yang dipakai adalah jumlah vektor ideal adalah kurang dari 40% dari total token dan
+feature selection dikatakan baik apabila dapat menghasilkan nilai preclslon lebih dari 60%.
+Beberapa pilihan feature selection yang akan dianalisis, yakni:
+
+L
+2.
+3.
+4.
+
+FS-7 : pengambilan keseluruhan token unik (diurutkan descendrng), kemudian diambil
+threshold sebanyak n%.
+FS-2 : pengambilan keseluruhan token unik dalam setiap jurnal (diurutkan descending),
+kemudian diambilthreshold sebanyak nYo, serta digabungkan dan diunikkan kembali.
+FS-3 : pengambilan keseluruhan token unik dalam setiap kategori (diurutkan
+descending), kemudian diambil threshold sebanyak no/o, serta digabungkan dan
+diunikkan kembali.
+FS-4 : pengambilan token-token yang pasti terkandung didalam setiap kategori.
+
+Tabel 1 dan Gambar 3 menunjukkan hasil prediksi sistem klasifikasi dari semua
+percobaan yang dilakukan, yaitu dari setiap pemilihan feature selection beserta variasi thrgshold
+yang diambil. Sumbu X merupakan pengujian yang dilakukan, sedangkan sumbu Y adalah nilai
+precision yang dihasilkan. Terdapat tambahan berupa bafas yang dipergunakan sebagai batas
+asumsi nilai precrslon yang baik, yaitu terletak pada precr'sion = 6001o.
+
+hdranandita, sistem Klasifikasi dan Pencarian Jumal Dengan Menggunakan Metode Naive
+Bayes dan vector space Model 1 s
+
+Tabel
+
+.::,
+.:i"_ll
+
+r,::riil:,,it.:
+
+:::::'ii.:t ::i:i::::+
+
+ii
+ivi$
+
+I
+
+: Hasil
+
+Klasifikasi
+
+.'l1..$lirfi-l*ih,.9.*
+
+;iQ!+s._firiiA:
+
+:,*+- i:rl{ta
+
+.r...id*.dl=
+
+FS-1
+
+1jYo
+
+376
+
+1jYo
+
+38
+
+20Yo
+
+752
+
+2OYo
+
+30To
+
+300
+
+30o/o
+
+1128
+1 505
+701
+1146
+1 585
+
+42.12%
+
+43
+44
+47
+45
+45
+46
+
+10%
+
+531
+
+14.11%
+
+39
+
+4Oo/o
+
+10%
+
+FS-2
+FS-3
+FS-4
+
+20Yo
+
+40o/o
+
+18.63%
+
+3045%
+
+_:11.
+
+t:,..:ii+.t,EE!i
+
+,.i'Sn
+
+:ri,li:::inr::'ili:1.
+
+.i.pFdisida
+.,',-
+
+.:,,
+
+1
+
+1
+
+4
+
+4
+
+2
+
+24o/o
+
+0
+
+0
+
+1
+
+5
+
+1
+
+14Yo
+
+0
+
+0
+
+1
+
+4
+
+1
+
+12%
+
+0
+
+0
+
+1
+
+1
+
+1
+
+60/o
+
+0
+
+0
+
+1
+
+2
+
+2
+
+'l0o/"
+
+0
+
+0
+
+1
+
+2
+
+2
+
+10o/"
+
+1
+
+0
+
+0
+
+2
+
+1
+
+8%
+
+0
+
+0
+
+3
+
+5
+
+3
+
+22o/o
+
+20%
+
+961
+
+2554%
+
+45
+
+0
+
+0
+
+1
+
+3
+
+1
+
+10o/o
+
+30o/o
+
+1366
+
+36.30%
+
+45
+
+0
+
+0
+
+1
+
+2
+
+2
+
+10o/"
+
+(Proquest)
+
+168
+
+4.460/o
+
+18
+
+7
+
+7
+
+8
+
+640/o
+
+204
+
+5,42%
+
+35
+
+8
+
+4
+4
+
+6
+
+(cNN)
+
+2
+
+0
+
+1
+
+30%
+
+Gambar 3 : Grafik Hasil Prediksi Klasifikasi
+
+Semakin besar tingkatthreshotd yang diambil dalam setiap feature selection (dilihat dari
+sumbu X), maka nilaiprecrbion akan semakin berkurang. Atau dengan kata lain, tingkat threshold
+berbanding terbalik dengan nilai precision-nya. Dalam grafik terlihal bahwa kecend6rungan garis
+
+yang mengalami penurunan. Jika dilihat berdasarkan grafik secara langsung, ma[a dapat
+dinyatakan bahwa FS-4 dalam pengujian I (Fs-4 dengan sumber proquesilmeirparan feature
+selectio_n yang cukup baik, karena nilai precision yang diperoleh mencapii a+on
+idi atas batas
+
+asumsi).
+
+3-2
+
+sistem Pencarian dengan vector space Modet pendekatan cosine
+Data training yang digunakan serupa dengan data training pada pengujian sistem
+klasifikasi. Jumlah dalatraining=249iurnal dan token unik = 3763 tolien. SeOangt"ari kata kunci
+fesfer diambil secara sembarang, dengan asumsi terdiri dari minimal 2 kata
+lleO1n Oari 1 kata).
+Analisis sistem pencarian dengan VSM dan pendekatan Cosrne difokuskan pada nilai recall dan
+
+precision yang
+
+diperoleh.
+
+.i
+
+Berikut adalah sampel pengujian dengan kata kunci "food and health", kemudian
+diperoleh jurnal relevan sebanyak = 63 jurnal. geiit<ut hasil recall dan precision yang diperoteh:
+
+16
+
+JURNAL INFORMATIM, VOLUME 4 NOMOR 2, NOVEMBER
+
+Tabel 2 : Hasil
+l.,.fisir,
+
+kata kunci "food and health
+
+an
+
+,}ii$k
+
+1
+
+I
+
+2
+
+2
+
+3
+
+4
+
+2OO8
+
+0.143
+
+3
+
+1269225771
+1545625991
+1 568059391
+
+8
+
+I 6061 30701
+
+0.571
+o.714
+0.857
+1.000
+
+5
+
+I
+
+6
+
+42
+
+1425140451
+1376156241
+
+7
+
+52
+
+1
+
+1.000
+1.000
+1.000
+0.500
+0.556
+
+0.286
+
+0.429
+
+5691 88531
+
+rata - rata
+
+o.143
+0.135
+0.619
+
+0.571
+
+Berdasarkan beberapa pengujian yang dilakukan terhadap beberapa kata kunci, maka dapat
+digambarkan grafik interpolasi beserta rata-rata dari keseluruhan pengujian:
+*"**fcsd**d
+*e*lth
+
+-B=*"*-+**€\
+
+'*+'*musieel
+irl5ttu*:ent$
+
+i
+-
+
+H
+
+\
+
+*€*
+.-
+
+"e
+
+americans
+politics
+
+*-+*gend*r
+dirrcrsily er
+diJesr+ncs*
+
+=-€*p*y{i.al
+-
+
+1,
+
+"
+
+Fcti!,iti*s
+{sport}
+
+*€*IS?A-FA?A
+
+Gambar 4 : Gambar Interpolasi Recall I Precision
+
+Rata-rata hasil pengujian yang dihasilkan adalah sebagai berikut:
+Tabel
+
+Rata-rata Hasil Pensuiian
+
+r,:n€hiiuiiafr,j
+1
+
+2
+3
+
+4
+5
+
+3.3
+
+,.':,.p'lfielgiOn
+
+o.571
+o,571
+0.528
+0.533
+0.538
+
+0.619
+0.347
+0.410
+0.921
+
+o.740
+
+Sistem Klasifikasidan Pencarian(gabungan)
+Pengujian yang dilakukan merupakan gabungan dari pengujian sebelumnya, yaitu hasil
+pengujian dari sistem pencarian dengan VSM ditambah dengan suatu label kategori yang
+diasumsikan sebagai hasil sistem klasifikasi dengan NB. Kemudian label kategori akan
+dipergunakan dalam pencarian detilterhadap metadata = kategori. Analisis sistem klasifikasi dan
+pencarian akan difokuskan pada nilai recalldan precision yang diperoleh.
+
+lndranandita, Sistem Kasifikasi dan Pencarian Jurnal Dengan Menggunakan Metode Naive Bayes dan Vector
+Space Model 17
+
+-+*fooda$d
+health
+
+{tf*alth}
+-*.+"-.
+
+musiral
+instr{jm*fit$
+
+tMusk,
+
+*€*E
+
+netiisyrs
+
+politi€j
+
+{lcliti*ol
+"*s*gender
+diversity cr
+diferrenre$
+
+.***|lslfh
+eetiviii€5
+
+{sfeft}
+*&-ftATA-fiATA
+
+*
+
+f
+
+.1 c.l
+
+#.3 0.4 S.5 S.fi *.7 $.8 r.q
+
+1
+
+Gambar 5 : Gambar Interpolasi Recall / precision
+
+Rata-rata hasil pengujian yang dihasilkan adalah sebagai berikut:
+Tabel
+at el 4 : Rata-rata
+Rata-ra Hasil Peneuiian
+
+Hefluri
+1
+
+2
+3
+
+4
+5
+
+f*,i
+
+rtr$
+
+0.583
+o.571
+
+0.626
+0.353
+
+0.529
+0.538
+0.550
+
+0.984
+0.868
+
+0.429
+
+Secara keseluruhan, rata-rata nilai recatt adalah 0.555 dan rata-rata nilai precision
+
+adalah 0.657. Jika dibandingkan dengan hasil pencarian dengan menggunakan ySM saja (tanpa
+bantuan metadata), diperoleh recal/ sebesar 0.548 dan precision sebeiar 0.607, maka teidapat
+peningkatan nilai recall dan precision untuk sistem klasifikasi dan pencarian dengan bantuan
+
+metadata.
+
+4.
+
+Kesimpulan dan Saran
+
+Berdasarkan hasil analisis dan implementasi sistem, maka dapat disimpulkan:
+
+'
+
+Sistem klasifikasi dengan metode Nai've Bayes dengan FS-4 menghasilkan precision
+sebesar 64%.
+' Sistem pencarian dengan metode Vector Space Modetpendekatan Cosrne menghasilkan
+recal/ sebesar 54.8o/o dan preclsion sebesar 60.7%.
+' Feature selection dengan bantuan pembobotan token menghasilkan precision kurang
+dari 60%, jadi proses pembobotan token tidak mempengaruhi dalam sistem klasifikasi.
+' Feature Selection dari sumber data pelatihan dan fesfer yang berbeda menghasilkan
+precision kurang dari 60%, karena jangkauan topik pembicaraan yang cukup berbeda.
+Penggunaan metadata (hasil klasifikasi) dalam proses pencarian Oapit meningkatkan tingkat
+
+recall.
+
+r'
+Saran untuk pengembangan dan perbaikan sistem ini adalah:
+' Perlu adanya perbaikan struktur data untuk mempercepat proses text mining, karena
+semakin banyak jumlah data, semakin lama pula proses yang dibutuhkannya.
+Pengembangan sistem, yaitu sistem dapat menambahkan kategori baru.
+Pengembangan pencarian dengan kata kunci berupa frasa atau dengan penggunaan Boolean
+Operator (misal: OR, AND).
+
+18 JURNAL INFORMATIKA, VOLUME
+
+4 NOMOR 2, NOVEMBER
+
+2OO8
+
+5. Daftar Pustaka
+Auvil, L. & Searsmith, D. (2003). Using Text Mining for Spam Filtering. Automated Learning
+Group, National Center for Supercomputing Applications, University of lllinois. Diakses
+pada tanggal 19 Mei 2009 dari http:/lalqdocs.ncsa.uiuc.edu/PR-20031 1 16-3.ppt.
+Baeza, R. & Ribeiro-Neto, B. (1999). Modern lnformation Retrieval. New York: Addison Wesley.
+
+Basuki, A., Sigit, R., Helen, A. & Ridho, A. (2006). Mencari Kata Kunci Dokumen Secara
+Otomatis Menggunakan TFIDF. Seminar dan Workshop Data Mining, ITB Bandung.
+
+Diakses pada tanggal 27
+
+Maret 2009 dari
+
+http://lecturer.eepis-
+
+its.ed ul-basukilresearch/kevwordTFlDF.pdf.
+
+Feldman, R. & Sanger, J. (2007). The Text Mining Handbook. New York: Cambridge University
+Press.
+
+Frakes, W. B. & Baeza, R. (1992). lnformation Retrieval Data Structure and A/gorifhms. New
+Jersey: Prentice-Hall.
+Han, J. & Kamber, M. (2001). Data Mining: Concepts and Techniques. San Francisco: Morgan
+Kaufmann.
+
+Harlian, M. (2006). Text Mining. Diakses pada tanggal 27 Maret 2009 dari http:1/lecturer.eepisits.edul-iwanarif/kuliah/dm/6Text%20Mininq. pdf.
+lntan, R. & Defeng, A. (2006). HARD: Subject-Based Search Engine Menggunakan TF-IDF dan
+
+Jaccard's Coefficient. Diakses pada tanggal 24 Mei 2009
+http://puslit. petra.ac. id/iournals/pdf. php?Published D=
+I
+
+I
+
+N
+
+dari
+
+D06080 1 06.
+
+Wibisono, Y. (2005). Klasifikasi Berita Berbahasa lndonesia menggunakan NaiVe Bayes
+Classifier. Seminar Nasional Matematika. Diakses pada tanggal 27 Maret 2009 dari
+http ://fpmi pa. u pi. ed u/staff/vud i/vud
+
+i
+
+0805. pdf
+
+.
+
+

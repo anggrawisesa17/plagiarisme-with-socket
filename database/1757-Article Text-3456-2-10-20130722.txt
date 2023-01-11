@@ -1,0 +1,465 @@
+UJME 1 (2) (2013)
+
+Unnes Journal of Mathematics Education
+http://journal.unnes.ac.id/sju/index.php/ujme
+
+ANALISIS KESALAHAN HASIL BELAJAR SISWA DALAM
+MENYELESAIKAN SOAL DENGAN PROSEDUR NEWMAN
+Seto Satoto  , Hery Sutarto, Emi Pujiastuti
+Jurusan Matematika, FMIPA, Universitas Negeri Semarang, Indonesia
+Gedung D7 Lt. 1, Kampus Sekaran Gunungpati, Semarang 50229
+
+Info Artikel
+
+Abstrak
+
+________________
+
+___________________________________________________________________
+
+Sejarah Artikel:
+Diterima Februari 2012
+Disetujui Maret 2012
+Dipublikasikan Agustus
+2012
+
+Penelitian ini bertujuan mengetahui jenis kesalahan dan penyebabnya pada siswa kelas X SMA
+Negeri 1 Kendal Tahun Pelajaran 2011/2012 dalam menyelesaikan soal materi jarak pada bangun
+ruang dengan menggunakan prosedur Newman. Penelitian ini merupakan penelitian kualitatif.
+Pengumpulan data dilakukan dengan metode tes dan metode wawancara. Subjek penelitian diambil
+6 orang dari 33 siswa kelas X-5, masing-masing terdiri atas 2 siswa dari kelompok atas, 2 siswa dari
+kelompok sedang dan 2 siswa dari kelompok bawah yang selanjutnya dilakukan wawancara terkait
+kesalahan yang dilakukan pada lembar pekerjaannya. Uji keabsahan data dilakukan dengan teknik
+triangulasi. Berdasarkan analisis hasil penelitian diketahui bahwa dalam menyelesaikan soal dengan
+prosedur Newman tidak ada satupun subjek penelitian yang melakukan jenis kesalahan membaca.
+Jenis kesalahan memahami masalah dilakukan oleh 4 subjek penelitian. Penyebabnya adalah karena
+ilustrasi yang salah. Jenis kesalahan transformasi tidak ada yang melakukannya. Jenis kesalahan
+kemampuan memproses dan penulisan jawaban, dilakukan oleh tiga subjek penelitian. Penyebabnya
+adalah karena salah dalam memanipulasi aljabar dan kurang cermat dalam menulis.
+
+________________
+Keywords:
+Analisis kesalahan
+Prosedur Newman
+____________________
+
+Abstract
+___________________________________________________________________
+This research identifies types of error and its causes on mathematic tests concerning distance in shapes by using
+Newman procedure of 10th grade students of SMA Negeri 1 Kendal class 2011/2012. Type of this research is
+qualitative. To collect the data, the writer used test and interview methods. Subjects of the research consist of 6
+students from 33 students of 10th – 5 grade. The writer then took 2 students with high level, 2 students with
+average level and 2 more with low level. Next, the writer conducted interview concerning errors made by students
+on their paper works. The writer conducted data validity test by using triangulation technique. Based on the
+analysis, it is found that no one of the subjects made mistake in reading questions of the test. Comprehension
+error made by four subject research. The reason is because the illustration is wrong. Moreover, no one made
+transformation error. 3 of 6 subjects made process skill and encoding error. it's because they made a mistake when
+algebraic manipulations and careless in writing.
+
+© 2012 Universitas Negeri Semarang
+
+
+E-mail: setosatoto@gmail.com
+
+ISSN 2252-6927
+
+Pendahuluan
+Matematika merupakan ilmu tentang
+struktur yang terorganisasikan dengan baik. Mata
+pelajaran matematika perlu diberikan kepada
+semua
+siswa
+dengan
+tujuan
+untuk
+mengembangkan kemampuan berpikir siswa dan
+memberikan pengetahuan matematika dasar. Pada
+tahap awal, siswa diperkenalkan kepada
+matematika yang bersifat informal. Pada jenjang
+menengah, pelajaran matematika bertujuan
+mengenalkan dasar-dasar matematika sebagai
+ilmu.. Sejalan dengan tahap perkembangan
+mereka, siswa diperkenalkan secara bertahap
+kepada matematika yang bersifat formal.
+Salah satu aspek atau ruang lingkup materi
+matematika pada satuan pendidikan SMA dan
+MA adalah geometri. Menurut Krismanto (2004),
+Geometri mempelajari hubungan antara titik,
+garis, sudut, bidang dan bangun ruang. Geometri
+merupakan suatu sistem dengan penalaran yang
+logis, dari fakta-fakta yang diterima sebagai
+kebenaran ditemukan sifat-sifat baru yang semakin
+berkembang. Namun, dalam beberapa dasawarsa
+terakhir perkembangan kurikulum geometri di
+Indonesia kurang mengembangkan ke arah
+pemikiran yang logis. Materi lebih banyak
+ditekankan kepada fakta-fakta yang bersifat
+parsial, dan perhitungan-perhitungan sering
+mendasarkan pada langkah jalan pintas,
+sedangkan analisis khususnya analisis keruangan
+kurang mendapatkan porsi, sehingga kemampuan
+keruangan siswa pun umumnya menjadi lemah.
+Kenyataan ini ditunjukkan oleh persentase
+penguasaan materi soal matematika pada Ujian
+Nasional SMA/MA tentang kemampuan
+menghitung jarak yang melibatkan titik, garis, dan
+bidang pada bangun ruang. Secara nasional,
+persentase penguasaan materi di tingkat kabupaten
+Kendal, provinsi, dan nasional sejak tahun 2006
+hingga 2011 belum pernah mencapai 75%.
+Berdasarkan hasil wawancara dan observasi
+awal dengan guru matematika kelas X di SMA 1
+Kendal, diperoleh informasi bahwa pada tahun
+pelajaran 2010/2011 banyak ditemukan kesalahan
+ketika siswa mengerjakan soal pada materi jarak
+pada bangun ruang. Hal ini dapat terlihat dari hasil
+
+ulangan dengan jumlah peserta 36 siswa, terdapat
+25 siswa yang memperoleh nilai ulangan yang
+masih berada di bawah Kriteria Ketuntasan
+Minimum (KKM) yang ditetapkan oleh sekolah,
+yaitu 68. Kesalahan yang dilakukan siswa pada
+umumnya terletak pada menggambar objek jarak
+dalam dimensi tiga. Guru beranggapan bahwa
+kurangnya media pembelajaran sebagai salah satu
+faktor penyebab terjadinya kesalahan siswa dalam
+mengerjakan soal.
+Kebutuhan akan perkembangan ilmu
+pengetahuan
+dan
+teknologi
+untuk
+mengembangkan media pembelajaran pada materi
+ruang dimensi tiga kelas X menjadi tinggi karena
+permasalahan tersebut. Perkembangan teknologi
+sekarang ini menuntut penggunaan komputer yang
+lebih variatif dan efektif, termasuk di dalamnya
+penggunaan aplikasi (software) komputer dalam
+pembelajaran di sekolah. Salah satu penggunaan
+aplikasi yang dapat membantu pembelajaran pada
+kompetensi dasar menentukan jarak yang
+melibatkan titik, garis, dan bidang dalam ruang
+dimensi tiga adalah Dynamica Geometry Software
+(DGS) Cabri 3D. Dengan menyediakan
+pembelajaran perangkat lunak geometri dinamis
+yang tepat, guru dimungkinkan dapat mendukung
+pengalaman-pengalaman siswa dan mengajarkan
+geometri kepada mereka melalui investigasi.
+Menurut Sukmadinata (2007), dalam
+pembelajaran guru harus mengenal dan
+memahami siswa dengan baik, memahami tahap
+perkembangan
+yang
+telah
+dicapainya,
+kemampuan-kemampuannya, keunggulan dan
+kekurangannya, hambatan yang dihadapi serta
+faktor-faktor dominan yang mempengaruhinya.
+Sebagaimana tertulis dalam Permendiknas Nomor
+20 Tahun 2007 tentang Standar Penilaian
+Pendidikan, kegiatan dalam penilaian yang
+dilakukan guru adalah mengolah hasil penilaian
+untuk mengetahui kemajuan hasil belajar, serta
+memanfaatkan hasil penilaian untuk perbaikan
+pembelajaran.
+Salah satu cara yang dapat digunakan untuk
+mengetahui kesalahan belajar yang dialami siswa
+yaitu dengan menganalisis kesalahan hasil belajar
+
+siswa. Dengan menganalisis kesalahan hasil
+belajar siswa, diharapkan guru dapat mengetahui
+penyebab siswa mengalami kesalahan dalam
+mengerjakan soal matematika
+Dari
+penjelasan
+di
+atas,
+muncul
+permasalahan: (1) Apa sajakah jenis kesalahan
+yang dilakukan siswa kelas X SMA Negeri 1
+Kendal Tahun Pelajaran 2011/2012 dalam
+menyelesaikan soal materi jarak pada bangun
+ruang dengan menggunakan prosedur Newman?,
+(2) Apa sajakah penyebab terjadinya kesalahan
+siswa kelas X SMA Negeri 1 Kendal Tahun
+Pelajaran 2011/2012 dalam menyelesaikan soal
+materi jarak pada bangun ruang dengan
+menggunakan prosedur Newman?
+Berdasarkan permasalahan tersebut, maka
+tujuan dari penelitian ini adalah untuk mengetahui
+jenis kesalahan dan mengetahui penyebab
+terjadinya kesalahan siswa kelas X SMA Negeri 1
+Kendal Tahun Pelajaran 2011/2012 dalam
+menyelesaikan soal materi jarak pada bangun
+ruang dengan menggunakan prosedur Newman.
+Metode Penelitian
+Menurut
+Sugiyono
+(2008),
+metode
+penelitian pada dasarnya merupakan cara ilmiah
+untuk mendapatkan data dengan tujuan dan
+kegunaan tertentu. Berkaitan dengan data, tujuan,
+dan kegunaan dari penelitian ini, maka metode
+penelitian yang digunakan adalah metode
+penelitian kualitatif. Teknik pengambilan data
+dalam penelitian ini menggunakan metode
+dokumentasi, metode observasi, metode tes, dan
+metode wawancara.
+Penelitian ini merupakan penelitian
+kualitatif. Pengumpulan data dilakukan dengan
+metode tes dan metode wawancara. Subjek
+penelitian diambil 6 orang dari 33 siswa kelas X-5,
+masing-masing terdiri atas 2 siswa dari kelompok
+atas, 2 siswa dari kelompok sedang dan 2 siswa
+dari
+kelompok
+bawah.
+Pengelompokkan
+didasarkan perangkingan hasil tes siswa,
+kemudian dipilih 2 siswa secara acak pada masingmasing kelompok. Setiap subjek penelitian
+diwawancarai terkait hasil pekerjaannya pada satu
+
+soal yang sudah dipilih. Uji keabsahan data
+dilakukan dengan teknik triangulasi.
+Analisis yang digunakan dalam penelitian
+ini adalah analisis soal uji coba yang meliputi
+analisis validitas, reliabilitas, taraf kesukaran dan
+daya pembeda.
+Hasil dan Pembahasan
+Soal tes uji coba yang diberikan ada dua
+tipe, yaitu tipe A dan tipe B yang pada masingmasing tipe terdapat enam butir soal uraian.
+Berdasarkan hasil analisis validitas, diketahui
+bahwa semua butir soal baik tipe A maupun tipe B
+dapat dikatakan valid. Pada analisis reliabilitas,
+diketahui bahwa kedua tipe soal merupakan soal
+tes yang reliabel. Dari hasil analisis daya pembeda,
+diketahui bahwa semua butir soal baik tipe A
+maupun tipe B memiliki daya pembeda yang baik.
+Pada hasil analisis tingkat kesukaran, terdapat dua
+butir soal yang memiliki tingkat kesukaran mudah
+pada tipe A, yaitu soal nomor 2 dan 4, sedangkan
+empat soal lainnya memiliki tingkat kesukaran
+yang sedang. Untuk soal tipe B, terdapat dua butir
+soal yang memiliki kategori mudah, yaitu soal
+nomor 1 dan 2, sedangkan keempat soal lainnya
+memiliki tingkat kesukaran yang sedang.
+Berdasarkan analisis soal uji coba, maka dipilih
+soal untuk dijadikan sebagai soal dalam evaluasi.
+Soal yang dipilih untuk evaluasi adalah soal yang
+baik criteria soal yang baik adalah soal yang valid,
+reliabel, memiliki tingkat kesukaran yang sedang,
+dan memiliki daya pembeda yang baik. Soal yang
+dipakai adalah soal nomor 1 pada tipe A, soal
+nomor 3 pada tipe A, soal nomor 4 pada tipe B,
+soal nomor 5 pada tipe A, dan soal nomor 6 pada
+tipe B. Untuk soal nomor 2, peneliti membuat soal
+lagi yang kemudian diuji kevalidannya kepada tim
+ahli yang dalam hal ini adalah dosen pembimbing,
+karena pada soal nomor 2 baik tipe A maupun B
+memiliki tingkat kesukaran yang mudah.
+Perolehan nilai kelas penelitian pada
+evaluasi jarak pada bangun ruang dengan
+menggunakan prosedur Newman berkisar antara
+35 sampai dengan 97. Rata–rata perolehan nilai
+siswa adalah 60, sehingga dapat dikatakan
+kemampuan siswa belum cukup bagus.
+
+Berdasarkan hasil evaluasi, maka diambil
+subjek penelitian dengan cara membuat peringkat
+yang didasarkan atas nilai yang diperoleh siswa,
+kemudian dibagi menjadi tiga kelompok, yaitu
+kelompok atas, sedang, dan bawah. Pengambilan
+subjek dilakukan secara acak pada masing-masing
+kelompok. Dari kelompok atas diambil subjek
+penelitian 1 (S1) dan subjek penelitian 2 (S2). Dari
+kelompok sedang diambil subjek penelitian 3 (S3)
+
+dan subjek penelitian 4 (S4). Dari kelompok bawah
+diambil subjek penelitian 5 (S5) dan subjek
+penelitian 6 (S6).
+Hasil pekerjaan subjek penelitian dipilih 1
+soal untuk dianalisis. Setiap subjek penelitian
+dianalisis hasil pekerjaan tes, kemudian dari hasil
+analisis diberikan penguatan melalui triangulasi
+berdasarkan hasil wawancara.
+
+Gambar 1. Hasil Pekerjaan Subjek Penelitian 1
+Berdasarkan hasil analisis pekerjaan S1,
+diketahui bahwa S1 tidak melakukan kesalahan
+saat menyelesaikan soal matematika dengan
+
+Gambar 2. Hasil Pekerjaan Subjek Penelitian 2
+
+prosedur Newman. Hanya saja ia tidak membuat
+ilustrasi dalam dimensi 2 karena lupa
+
+Berdasarkan hasil analisis pekerjaan S 2, S2
+tidak menyelesaikan soal matematika dengan
+prosedur Newman. Jenis kesalahan yang
+dilakukan adalah kesalahan memahami masalah.
+Langkah yang tidak dilakukan adalah langkah
+transformasi. Jenis kesalahan memahami masalah
+
+terjadi karena ilustrasi yang dibuat oleh S 2 salah, S2
+belum menentukan titik tembus antara ruas garis
+OM dengan bidang LNQ. Sedangkan untuk
+langkah transformasi, ia tidak melakukannya
+karena tidak sempat.
+
+Gambar 3. Hasil Pekerjaan Subjek Penelitian 3
+Berdasarkan hasil analisis pekerjaan S 3, S3
+tidak menyelesaikan soal matematika dengan
+prosedur Newman. Tidak ada jenis kesalahan
+yang dilakukan. Sedangkan langkah yang tidak
+dilakukan adalah langkah transformasi. Pada
+langkah transformasi seharusnya S3 menuliskan
+ruas garis yang merupakan jarak antara titik O
+dengan bidang LNQ dan menulis pendekatan yang
+akan ia gunakan untuk menghitung panjang
+
+Gambar 4. Hasil Pekerjaan Subjek Penelitian 4
+
+jaraknya. Akan tetapi, ia hanya menuliskan
+pernyataan jarak antara titik O dengan bidang LNQ
+adalah ruas garis yang menghubungkan titik O
+dengan bidang LNQ tanpa menyebutkan ruas
+garisnya dan pendekatan yang akan ia gunakan
+untuk menghitung panjangnya juga tidak ditulis.
+Penyebab dari hal ini adalah karena ia belum
+terbiasa menggunakan prosedur Newman.
+
+Berdasarkan hasil analisis pekerjaan S 4, S4
+tidak menyelesaikan soal matematika dengan
+prosedur Newman. Jenis kesalahan yang
+dilakukan adalah kesalahan memahami masalah,
+kesalahan kemampuan memproses dan kesalahan
+penulisan jawaban. Langkah yang tidak dilakukan
+adalah langkah transformasi. Jenis kesalahan
+memahami masalah terjadi karena S4 belum bisa
+menunjukkan ruas garis yang merupakan jarak
+antara titik O dengan bidang LNQ pada ilustrasi
+yang ia buat. Menurut S4 hal ini terjadi karena ia
+tidak bisa melakukannya. Pada langkah
+transformasi, ia tidak melakukannya. Seharusnya
+ia menuliskan ruas garis yang merupakan jarak
+antara titik O dengan bidang LNQ dan kemudian
+menuliskan pendekatan yang akan ia gunakan
+untuk mencari panjangnya. Menurut S 4, hal ini
+
+karena ia merasa terlewatkan melakukannya.
+Kemudian kesalahan kemampuan memproses
+terjadi karena S4 melakukan perhitungan tanpa
+berdasar pada gambar. Diantaranya yaitu pada
+saat mencari MT dan OX. Namun, menurut S4
+letak titik T dan X berada pada bidang LNQ.
+Kesalahan selanjutnya adalah pada bagian operasi
+perhitungan. S4 kurang cermat dalam melakukan
+proses perhitungan pengurangan. Menurut S 4 hal
+itu suatu keberuntungan baginya. Karena
+meskipun perhitungannya salah, hasilnya masih
+bisa tersambung dengan perhitungan selanjutnya.
+Kesalahan penulisan juga dilakukan oleh S 4 pada
+saat menulis dalil Pythagoras. Seharusnya yang ia
+tuliskan adalah LN 
+
+KL2  KN 2 , tetapi yang
+
+ditulis oleh S4 adalah LN 2 
+
+KL2  KN 2
+
+Gambar 5. Hasil Pekerjaan Subjek Penelitian 5
+Berdasarkan hasil analisis pekerjaan S5, S5
+tidak menyelesaikan soal matematika dengan
+prosedur Newman. Jenis kesalahan yang
+dilakukan adalah kesalahan memahami masalah,
+kemampuan dan penulisan jawaban. Langkah
+yang tidak dilakukan adalah langkah transformasi.
+Jenis kesalahan memahami masalah terjadi karena
+ia tidak bisa menggambarkan ruas garis yang
+merupakan jarak antara titik O dengan bidang
+LNQ. Menurut S5, hal ini karena ia memang tidak
+menggambarnya. Pada langkah transformasi, S5
+tidak menuliskan ruas garis yang merupakan jarak
+antara titik O dengan bidang LNQ dan pendekatan
+
+yang akan ia gunakan untuk menghitungnya.
+Menurut S5, hal ini terjadi karena ia lupa
+menuliskannya. Kemudian, jenis kesalahan
+kemampuan memproses terjadi karena S5
+melakukan perhitungan tanpa berdasar pada
+gambar. Diantaranya yaitu pada saat mencari MT
+dan OX. Namun, menurut S5, letak titik T dan X
+berada pada bidang LNQ. Kesalahan selanjutnya
+adalah pada bagian operasi perhitungan. S 5 kurang
+cermat
+dalam
+melakukan
+perhitungan
+pengurangan. Namun, menurut S5 hal itu suatu
+keberuntungan baginya. Karena meskipun
+perhitungannya salah, hasilnya masih bisa
+
+tersambung dengan perhitungan selanjutnya.
+Kesalahan penulisan dalam jawaban juga
+dilakukan oleh S5 pada saat menulis dalil
+Pythagoras. Seharusnya panjang ruas garis KN
+adalah 9 cm, namun yang ia tulis adalah 𝐾𝑁 =
+9√2 cm.
+Berdasarkan hasil analisis pekerjaan S 6, S6
+tidak mengerjakan soal nomor 3. Menurut S6, hal
+ini karena ia tidak bisa menggunakan prosedur
+Newman, dan juga tidak bisa menggambarkan
+ilustrasi soal nomor 3.
+Simpulan
+Berdasarkan
+hasil
+penelitian
+dan
+pembahasan dapat disimpulkan bahwa terdapat
+kesalahan yang dilakukan oleh subjek penelitian
+dalam mengerjakan soal materi jarak pada bangun
+ruang dengan menggunakan prosedur Newman.
+Jenis kesalahan yang dilakukan adalah kesalahan
+memahami masalah, kemampuan memproses,
+dan penulisan jawaban. Dari 6 subjek penelitian,
+semua subjek dapat melewati langkah membaca
+tanpa adanya kesalahan. 4 anak atau 66,67%
+melakukan jenis kesalahan memahami masalah.
+Penyebabnya berkaitan dengan ilustrasi yang
+mereka buat. Pada langkah transformasi, 5 dari 6
+
+anak
+atau
+83,3%
+tidak
+melakukannya.
+Penyebabnya karena mereka tidak terbiasa
+menggunakan
+prosedur
+Newman
+saat
+mengerjakan soal matematika. Kemudian 3 dari 6
+anak atau 50% melakukan jenis kesalahan
+kemampuan memproses dan penulisan jawaban.
+Ucapan Terima Kasih
+Peneliti mengucapkan terima kasih kepada
+Dra. Emi Pujiastuti, M.Pd., selaku dosen
+pembimbing utama dan Hery Sutarto, S.Pd.,
+M.Pd., selaku pembimbing pendamping. Atas
+bimbingan beliau, peneliti dapat menyelesaikan
+penelitian dan penulisan artikel ilmiah ini.
+Daftar Pustaka
+Depdiknas. 2007. Permendiknas No 20 Tahun 2007
+Tentang Standar Penilaian Pendidikan.
+Jakarta: Depdiknas.
+Krismanto. 2004. Dimensi Tiga Pembelajaran Jarak.
+Yogyakarta: Depdiknas.
+Sugiyono. 2008. Metode Penelitian Kuantitatif
+Kualitatif dan R&D. Bandung: Alfabeta.
+Sukmadinata, N. S. 2007. Pengembangan Kurikulum
+Teori dan Praktek. Bandung: PT. Remaja
+Rosdakarya.
+
+

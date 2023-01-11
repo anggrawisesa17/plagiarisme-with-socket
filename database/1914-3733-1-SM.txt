@@ -1,0 +1,1209 @@
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 1
+
+ANALISIS KEMISKINAN DI JAWA TENGAH
+Dicky Wahyudi, Tri Wahyu Rejekingsih 1
+Jurusan IESP Fakultas Ekonomika dan Bisnis Universitas Diponegoro
+Jl. Prof. Soedharto SH Tembalang, Semarang 50239, Phone: +622476486851
+
+ABSTRACT
+Percentage of poor people in Indonesia are concentrated in Java Island by more than 50%.
+Central Java was the province of a percentage of the highest poverty rates in Java in recent years.
+Persistent higher average absolut poverty rate in Central Java at the level 20.02% that is including
+in Hard Core Poverty category (> 10%). Then almost of 50% regencies / cities in Central Java still
+has a absolut poverty rate > 20%. This study aims to analyze poverty and to know what variables
+has affected poverty rate in Central Java. The method of analysis used in this study are panel data
+regression with fixed effect model. This research’s model using dummy regions that function to
+discern the different character of poverty rate in each regencies / cities in Central Java, therefore
+the fixed effect model is also called least square dummy variable (LSDV).The results showed that
+health, education, government expenditure, unemployment has significant impact on poverty rate in
+Central Java. Meanwhile, economic growth has not significant on poverty rate. Increasing
+government expenditure especially in the functions of health, education, public utilities, and
+general social protection will impact the lower poverty rate. While the government health care for
+the poor is essential to increase their welfare. Education can dismiss a person from backwardness
+and poverty. Unemployment effected to lower welfare because the unemployed do not get revenue
+and closer to the poverty, therefore creating more job and employment opportunities vastly needed
+to reduce poverty.
+Keywords: Poverty Rate, Fixed Effect Model, Panel Data
+
+PENDAHULUAN
+Kemiskinan merupakan masalah multi dimensi yang dihadapi oleh negara-negara di dunia.
+Kemiskinan adalah ketidakmampuan untuk memenuhi standar hidup minimum (Kuncoro, 1997).
+Persentase jumlah penduduk miskin di Indonesia terkonsentrasi dipulau Jawa sebesar lebih dari 50
+%, dimana provinsi Jawa Tengah merupakan provinsi yang persentase tingkat kemiskinan
+absolutnya paling tinggi se-Jawa dalam beberapa tahun belakangan ini. Masih tingginya rata-rata
+tingkat kemiskinan absolut di Jawa Tengah yang berada pada level 20,02% dimana hal tersebut
+masih tergolong Hard Core Poverty (>10% ) dalam artian tingkat kemiskinan masih berada pada
+level yang tinggi. Kemudian hampir sekitar 50% kabupaten / kota di Jawa Tengah masih memiliki
+tingkat kemiskinan absolut > 20%. Dalam kurun waktu tahun 2005-2009 tingkat kemiskinan
+absolut di Jawa Tengah telah mengalami penurunan tetapi masih berada dalam kategori tinggi
+sebesar 17,72% ditahun 2009 dan memiliki rata-rata tingkat kemiskinan absolut 5 tahun sebesar
+20,02%.
+Adanya target tingkat kemiskinan absolut tahun 2013 yang dicanangkan Bappeda sebesar
+13,27% dan kesepakatan MDG’s pada tahun 2015 dimana tingkat kemiskinan absolut harus berada
+pada level dibawah 10%. Guna pencapaian target tersebut Pemerintah Provinsi Jawa Tengah
+haruslah berusaha lebih keras. Analisis lebih mendalam mengenai masalah kemiskinan di Jawa
+Tengah sangat diperlukan guna mencari faktor penyebab mengenai masalah kemiskinan di Jawa
+Tengah. Oleh karena itu penulis tertarik untuk mengalisis mengenai kemiskinan yang terjadi di
+Jawa Tengah.
+Penelitian ini bertujuan menganalisis kemiskinan di Jawa Tengah dan melihat bagaimana
+berpengaruh kesehatan, pendidikan, pengeluaran pemerintah, pertumbuhan ekonomi dan
+pengangguran terhadap kemiskinan di Jawa Tengah.
+1
+
+Penulis penanggung jawab
+
+1
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 2
+
+KERANGKA PEMIKIRAN TEORITIS DAN PERUMUSAN HIPOTESIS
+Pengertian mengenai arti dari kemiskinan sangatlah beragam, keberagaman dalam definisi
+kemiskinan dikarenakan masalah tersebut telah merambat pada level multidimensional, artinya
+kemiskinan berkaitan satu sama lain dengan berbagai macam dimensi kebutuhan manusia.
+Ketidakmampuan untuk memenuhi standar hidup minimum yang sesuai dengan tingkat kelayakan
+hidup dapat dikatakan sebagai kemiskinan (Todaro, 2006).
+Pendapat lainnya dikemukakan Sharp, et al dalam Mudrajat Kuncoro (2006)
+mengidentifikasikan penyebab kemiskinan yang dipandang dari sisi ekonomi. a) Secara mikro
+kemiskinan muncul karena adanya ketidaksamaan pada kepemilikan sumberdaya oleh masingmasing individu yang menyebabkan ketimpangan distribusi pendapatan; b) Kemiskinan muncul
+akibat perbedaan dalam kualitas sumberdaya manusia satu sama lain; c) Kemiskinan muncul akibat
+perbedaan masing-masing individu dalam mengakses permodalan. Ketiga penyebab kemiskinan ini
+bermuara pada teori lingkaran setan kemiskinan (Vicious circle of poverty). Adanya
+keterbelakangan, ketidak sempurnaan pasar, dan kurangnya modal menyebabkan rendahnya
+produktivitas. Rendahnya produktivitas akan mengakibatkan rendahnya pendapatan yang mereka
+terima. Rendahnya pendapatan akan berimplikasi pada rendahnya tabungan dan investasi.
+Rendahnya investasi berakibat pada keterbelakangan. Oleh karena itu, setiap usaha untuk
+mengurangi kemiskinan seharusnya diarahkan untuk memotong lingkaran dan perangkap
+kemiskinan ini ( Kuncoro, 2006).
+Pengaruh Pendidikan Terhadap Tingkat Kemiskinan
+Pendidikan memainkan peran kunci dalam membentuk kemampuan sebuah Negara
+berkembang untuk menyerap teknologi modern dan untuk mengembangkan kapasitas agar tercipta
+pertumbuhan serta pembangunan yang berkelanjutan (Todaro, 2006). Mankiew (2000)
+menyebutkan, seseorang yang berpendidikan tinggi dapat menghasilkan gagasan baru tentang
+bagaimana pilihan terbaik untuk memproduksi barang dan jasa. Jika gagasan ini dapat diterima
+oleh penduduk luas, maka semua orang dapat menggunakannya sehingga gagasan tersebut dapat
+dikatakan sebagai manfaat eksternal dari pendidikan. Dalam hal ini, tingkat pengembalian
+pendidikan yang diterima oleh penduduk lebih besar dibandingkan dengan tingkat pengembalian
+yang diterima oleh individu.
+Jika dikaitkan dengan teori lingkaran setan kemiskinan versi Nurse menggambarkan bahwa
+keterbelakangan dan ketertinggalan merupakan suatu hal yang harus diputus mata rantainya guna
+mengatasi masalah kemiskinan yang terjadi. Keterbelakangan dan ketertinggalan dapat diatasi
+dengan adanya pendidikan yang diselenggarakan oleh negara untuk warga negaranya guna
+mendapatkan ilmu pengetahuan yang dapat mengurangi tingkat keterbelakangan dan ketertinggalan
+suatu daerah. Pendidikan juga merupakan Human Capital, semakin tinggi pendidikan yang
+ditamatkan oleh seseorang maka akan meningkatkan produktivitas orang tersebut karena
+pengetahuan dan ilmu yang diperoleh lebih banyak. Peningkatan produktivitas ini akan
+meningkatkan pendapatan baik pendapatan individu tersebut, maupun pendapatan nasional.
+Peningkatan pendapatan individu akan meningkatkan kemampuan konsumsi mereka, sehingga
+dapat mengangkat kehidupan mereka dari kemiskinan.
+: Pendidikan berpengaruh negatif terhadap Tingkat Kemiskinan.
+Pengaruh Kesehatan Terhadap Tingkat Kemiskinan
+Akses terhadap pelayanan kesehatan merupakan tanggungjawab yang harus diberikan oleh
+pemerintah terhadap masyarakatnya. Kesehatan merupakan standar hidup minimun yang harus
+dimiliki oleh setiap masyarakat. Kesehatan masyarakat yang cenderung baik akan berdampak pada
+produktivitas dan etos kerja yang meningkat pula, alhasil pendapatan yang dihasilkan meningkat
+seiring dengan perbaikan kesehatan di masyarakat. Pendapatan baik secara individu maupun
+aggregat akan bertambah. Pendapatan yang meningkat akan mengangkat derajat seseorang untuk
+keluar dari kemiskinan.
+Lincolin (1999) menjelaskan intervensi untuk memperbaiki kesehatan dari pemerintah juga
+merupakan suatu alat kebijakan penting untuk mengurangi kemiskinan. Sedangkan Nurse dalam
+teori lingkaran setan kemiskinan juga mengemukakan produktivitas yang rendah sebagai faktor
+yang menyebabkan kemiskinan. Produktivitas yang rendah bisa diakibatkan oleh tingkat kesehatan
+
+2
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 3
+
+yang rendah. Kesehatan yang rendah akan mengakibatkan etos kerja menurun dan produktivitas
+seseorang menjadi rendah. Produktivitas yang rendah akan berdampak pada pendapatan yang
+menurun dan bisa membawa seseorang menjadi rentan terhadap kemiskinan.
+: Kesehatan berpengaruh negatif terhadap Tingkat Kemiskinan.
+Pengaruh Pengeluaran Pemerintah Terhadap Tingkat Kemiskinan
+Rashid Mehmood dan Sara Sadiq (2010) mengemukakan bahwa pengeluaran pemerintah
+dan kemiskinan memiliki hubungan negatif jika pengeluaran tersebut adalah jalur pembangunan
+seperti pembangunan fasilitas sosial, barang publik, infrastruktur, biaya modal tambahan, kesehatan
+dan pendidikan. Samsubar Saleh (2002) juga menggunakan variabel pengeluaran pemerintah untuk
+investasi sumber daya manusia dan pengeluaran pemerintah untuk sumber daya fisik perkapita per
+propinsi sebagai faktor penentu tingkat kemiskinan.
+Mekanisme transmisi investasi publik untuk mempengaruhi distribusi pendapatan dan
+kemiskinan. Dari sisi pengeluran, penurunan kemiskinan dan redistribusi pendapatan dapat
+dilakukan dengan tiga instrumen alokasi anggaran pemerintah, yaitu (1) subsidi langsung atau
+subsidi individu yang ditargetkan pada rumahtangga berpendapatan rendah (2) subsidi harga,
+subsidi komoditi yang digunakan oleh rumahtangga terutama untuk kebutuhan pokok, dan (3)
+pengeluaran langsung pemerintah terhadap pelayanan publik dan infrastruktur, terutama pada
+sektor kesejahteraan, kesehatan dan pendidikan, yang diutamakan untuk rumah tangga
+berpendapatan rendah. Hal ini sebagaimana penelitian yang dilakukan oleh Rasidin Sitepu dan
+Bonar Sinaga (2009) yang menggunakan pengeluaran pemerintah sebagai proksi investasi
+sumberdaya manusia yang dapat mempengaruhi pertumbuhan ekonomi dan kemiskinan di
+Indonesia (Sitepu dan Sinaga 2009)
+: Pengeluaran Pemerintah berpengaruh negatif terhadap Tingkat Kemiskinan.
+Pengaruh Pertumbuhan Ekonomi Terhadap Tingkat Kemiskinan
+Menurut Sadono Sukirno (2000), laju pertumbuhan ekonomi adalah kenaikan PDRB tanpa
+memandang apakah kenaikan itu lebih besar atau lebih kecil. Selanjutnya pembangunan ekonomi
+tidak semata-mata diukur berdasarkan pertumbuhan produk domestik regional bruto (PDRB) secara
+keseluruhan, tetapi harus memperhatikan sejauh mana distribusi pendapatan telah menyebar ke
+lapisan masyarakat serta siapa yang telah menikmati hasil-hasilnya. Sehingga menurunnya PDRB
+suatu daerah berdampak pada kualitas dan pada konsumsi rumah tangga. Apabila tingkat
+pendapatan penduduk sangat terbatas, banyak rumah tangga miskin terpaksa merubah pola
+makanan pokoknya ke barang paling murah dengan jumlah barang yang berkurang.
+Kuznet dalam Tambunan (2001), menyatakan bahwa pertumbuhan dan kemiskinan
+mempunyai korelasi yang sangat kuat, hal ini dikarenakan pada tahap awal proses pembangunan
+akan terjadi kecenderungan peningkatan kemiskinan dan ketika prosese pembangunan tersebut
+telah mendekati tahap akhir pembangunan, kemiskinan berangsur-angsur menurun. Banyak
+penelitian yang membuktikan adanya keterkaitan antara pertumbuhan ekonomi dengan kemiskinan,
+antara lain penelitian yang dilakukan Wongdesmiwati (2009) yang menunjukan bahwa
+pertumbuhan ekonomi akan mempengaruhi tingkat kemiskinan yang akan ada. Semakin impresif
+pertumbuhan ekonomi akan berdampak pada mereduksinya tingkat kemiskinan yang ada. Hal
+senada juga dikemukakan oleh Hermanto Siregar dan Dwi Wahyuniarti (2008). Hasil dari
+penelitian tersebut menunjukkan adanya hubungan yang negatif antara pertumbuhan ekonomi dan
+jumlah penduduk miskin.
+: Pertumbuhan Ekonomi berpengaruh negatif terhadap Tingkat Kemiskinan.
+Pengaruh Pengangguran Terhadap Tingkat Kemiskinan
+Menurut Sadono Sukirno (2004), efek buruk dari pengangguran adalah mengurangi
+pendapatan masyarakat yang pada akhirnya mengurangi tingkat kemakmuran yang telah dicapai
+seseorang. Semakin turunnya kesejahteraan masyarakat karena menganggur tentunya akan
+meningkatkan peluang mereka terjebak dalam kemiskinan karena tidak memiliki pendapatan.
+Apabila pengangguran di suatu negara sangat buruk, kekacauan politik dan sosial selalu berlaku
+dan menimbulkan efek yang buruk bagi kepada kesejahteraan masyarakat dan prospek
+pembangunan ekonomi dalam jangka panjang.
+
+3
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 4
+
+Sedangkan menurut Tambunan (2001), pengangguran dapat mempengaruhi tingkat
+kemiskinan dengan berbagai cara, antara lain: a) Jika rumah tangga memiliki batasan likuiditas
+yang berarti bahwa konsumsi saat ini sangat dipengaruhi oleh pendapatan saat ini, maka bencana
+pengangguran akan secara langsung mempengaruhi income poverty rate dengan consumption
+poverty rate. b) Jika rumah tangga tidak menghadapi batasan likuiditas yang berarti bahwa
+konsumsi saat ini tidak terlalu dipengaruhi oleh pendapatan saat ini, maka peningkatan
+pengangguran akan menyebabkan peningkatan kemiskinan dalam jangka panjang, tetapi tidak
+terlalu berpengaruh dalam jangka pendek.
+Sebagaimana teori lingkaran setan kemiskinan versi nurse yang menggambarkan
+rendahnya produktivitas sebagai salah satu sebab kemiskinan. Pengganguran bisa diartikan sebagai
+tingkat produktivitas seseorang yang rendah atau bisa juga tidak melakukan produktivitas sama
+sekali. Hal ini karena penggangur tidak memiliki suatu pekerjaan untuk menghasilkan upah
+ataupun gaji. Padahal sebagian besar rumah tangga bergantung dari gaji/ upah yang didapat untuk
+memenuhi kebutuhan hidup mereka. Pengangguran ini lebih sering terjadi pada kelompok
+masyarakat berpendapatan rendah sehingga mereka harus hidup di bawah garis kemiskinan. Faktor
+ini diekspektasikan akan menyebabkan hubungan yang signifikan dan berpengaruh positif tehadap
+kemiskinan. Dengan kata lain semakin banyak pengangguran akan menyebabkan meningkatnya
+tingkat kemiskinan.
+: Pengangguran berpengaruh positif terhadap Tingkat Kemiskinan.
+
+METODE PENELITIAN
+Variabel Penelitian
+Data tingkat kemiskinan yang digunakan dalam penelitian ini adalah data tingkat
+kemiskinan kabupaten / kota pada masing-masing daerah di Provinsi Jawa Tengah yang dinyatakan
+dalam satuan persentase pada tahun 2007-2010. Variabel kesehatan pada penelitian ini diproksikan
+dari persentase desa / kelurahan yang melaksanakan imunisasi dasar Universal Child Imunization
+(UCI) menurut kabupaten /kota di Provinsi Jawa Tengah tahun 2007-2010. Satuan yang digunakan
+pada variabel kesehatan ini adalah persentase. Data yang digunakan untuk variabel pendidikan
+diproksikan berasal dari persentase penduduk 10 tahun ke atas yang menamatkan pendidikan
+setingkat SD dan SMP untuk masing-masing kabupaten / kota di Jawa Tengah tahun 2007–2010.
+Satuan yang digunakan pada variabel pendidikan ini adalah persen. Data yang digunakan pada
+pengeluaran pemerintah diproksikan dari data APBD anggaran tahun 2007-2010 menurut fungsi
+khususnya pada bidang pendidikan, kesehatan, perumahan dan fasilitas umum, perlindungan sosial
+yang dijumlahkan menjadi satu. Satuan yang digunakan pada variabel pengeluaran pemerintah
+dinyatakan dalam satuan rupiah. Data pengangguran yang digunakan dalam penelitian ini adalah
+data jumlah pengangguran terbuka. Data jumlah pengangguran yang digunakan adalah penduduk
+Jawa Tengah berumur 15 tahun keatas yang termasuk pengangguran terbuka menurut
+Kabupaten/Kota di Provinsi Jawa Tengah tahun 2007-2010 dengan menggunakan satuan jiwa. Data
+pertumbuhan ekonomi yang digunakan menggunakan perhitungan PDRB atas dasar harga konstan.
+Data PDRB atas dasar harga konstan pada masing-masing kabupaten/kota bersumber dari BPS
+Jawa Tengah tahun 2007-2010. Satuan yang digunakan pada variabel pertumbuhan ekonomi
+dinyatakan dalam persentase.
+Metode Analisis
+Studi ini menggunakan analisis data panel (pooled data) sebagai alat pengolahan data
+dengan menggunakan software eviews 6. Analisis dengan menggunakan panel data adalah
+kombinasi antara time-series data dan cross-section data (Gujarati, 2009). Data yang digunakan
+adalah data time series selama 4 tahun terakhir yakni tahun 2007-2010 dan data cross section
+sebanyak 35 data yang mewakili kabupaten / kota di Jawa Tengah. Hasil dari kombinasi data time
+series dan cross section menghasilkan 140 observasi.
+Penelitian ini menggunakan asumsi fixed effect model (FEM) sebagaimana pertimbangan
+pokok yang disampaikan oleh Judge bahwa unit cross section pada penelitian ini tidak diambil
+berdasarkan acak dan jumlah observasi yang dilakukan hanya 140 observasi. Sedangkan untuk
+Random Effect Model lebih sering digunakan untuk jumlah observasi yang banyak (diatas 1000
+
+4
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 5
+
+observasi) . Asumsi dalam FEM yang digunakan dalam penelitian ini adalah asumsi koefisien slope
+konstan tetapi intersep bervariasi antar individu. Dalam artian intersep dari setiap individu
+diasumsikan memiliki perbedaan yang dikarenakan karakteristik yang dimiliki oleh masing-masing
+individu dalam hal ini kabupaten / kota. Untuk melakukan asumsi tersebut diperlukan variabel
+dummy untuk memberikan nilai perbedaan pada masing-masing kabupaten / kota. Oleh sebab itu
+asumsi model FEM ini sering disebut sebagai Least Square Dummy Variabel (LSDV).
+Dummy yang digunakan dalam penelitian ini adalah dummy wilayah (kabupeten / kota).
+Dari hasil tersebut nantinya akan diketahui perbedaan perkembangan tingkat kemiskinan
+kabupaten/kota di Jawa Tengah selama 4 tahun periode penelitian (tahun 2007-2010). Penggunaan
+dummy variabel membutuhkan benchmark / wilayah acuan. Benchmark yang dipilih adalah Kota
+Semarang. Alasan pemilihan Kota Semarang sebagai benchmark karena Kota Semarang memiliki
+rata-rata tingkat kemiskinan kabupaten / kota terendah dibandingkan kabupaten / kota lainnya di
+Jawa Tengah. Model persamaan dengan LSDV sebagai berikut :
+
+dimana:
+K
+H
+E
+GE
+G
+U
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+D11
+D12
+D13
+D14
+D15
+D16
+D17
+D18
+D19
+D20
+D21
+D22
+D23
+D24
+D25
+D26
+D27
+D28
+D29
+D30
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+Tingkat kemiskinan per kabupaten / kota di Jawa Tengah
+Kesehatan per kabupaten / kota di Jawa Tengah
+Pendidikan per kabupaten / kota di Jawa Tengah
+Pengeluaran pemerintah per kabupaten / kota di Jawa Tengah
+Pertumbuhan ekonomi per kabupaten / kota di Jawa Tengah
+Pengangguran per kabupaten / kota di Jawa Tengah
+Dummy Kabupaten Cilacap
+Dummy Kabupaten Banyumas
+Dummy Kabupaten Purbalingga
+Dummy Kabupaten Banjarnegara
+Dummy Kabupaten Sragen
+Dummy Kabupaten Purworejo
+Dummy Kabupaten Wonosobo
+Dummy Kabupaten Magelang
+Dummy Kabupaten Boyolali
+Dummy Kabupaten Kebumen
+Dummy Kabupaten Sukoharjo
+Dummy Kabupaten Wonogiri
+Dummy Kabupaten Karanganyar
+Dummy Kabupaten Kudus
+Dummy Kabupaten Grobogan
+Dummy Kabupaten Blora
+Dummy Kabupaten Temanggung
+Dummy Kabupaten Pati
+Dummy Kabupaten Klaten
+Dummy Kabupaten Pemalang
+Dummy Kabupaten Demak
+Dummy Kabupaten Semarang
+Dummy Kabupaten Rembang
+Dummy Kabupaten Jepara
+Dummy Kabupaten Tegal
+Dummy Kabupaten Batang
+Dummy Kabupaten Pekalongan
+Dummy Kabupaten Brebes
+Dummy Kabupaten Kendal
+Dummy Kota Salatiga
+
+5
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 6
+
+D31
+D32
+D33
+D34
+i
+t
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+Dummy Kota Magelang
+Dummy Kota Surakarta
+Dummy Kota Pekalongan
+Dummy Kota Tegal
+Intercept
+Koefisien regresi variabel independen
+Koefisien dummy wilayah
+error term
+cross section
+time series
+
+HASIL PENELITIAN DAN PEMBAHASAN
+Kondisi Kemiskinan Jawa Tengah
+Provinsi Jawa Tengah merupakan salah satu provinsi terpadat di Indonesia dengan jumlah
+penduduk pada tahun 2006 mencapai 33,18 juta jiwa. Sedangkan jumlah Kepala Keluarga (KK)
+sebanyak 8.844.220 KK, dimana 2.171.201 KK diantaranya termasuk dalam kategori Rumah
+Tangga Miskin (RTM) (Bappeda Jateng, 2009). Pada 2006 jumlah penduduk miskin di Jawa
+Tengah sebesar 7,10 juta jiwa atau 22,19% dari total penduduk. Dibandingkan tahun sebelumnya
+jumlah penduduk miskin bertambah sekitar 1,6%. Dari jumlah ini beberapa kabupaten
+berkontribusi besar dalam tingkat kemiskinan ini antara lain Kabupaten Wonosobo, Kabupaten
+Rembang, Kabupaten Kebumen, Kabupaten Purbalingga dan Kabupaten Brebes. Kemudian pada
+tahun 2007 persentase penduduk miskin di Jawa Tengah mengalami penurunan sebesar 1,76% dari
+tahun sebelumnya. Pada tahun 2008 dan 2009 persentase penduduk miskin mengalami penurunan
+secara bertahap sehingga berada pada tingkat 19,23% dan 17,72%. Sedangkan pada tahun 2010
+persentase kemiskinan kembali turun ke tingkat 16,56% (BPS Jawa Tengah, 2010).
+Penduduk daerah perdesaan lebih banyak yang dikategorikan kedalam penduduk miskin
+daripada penduduk di daerah perkotaan, sebagaimana yang terlihat pada Tabel 1. Pada Tabel 1 juga
+memperlihatkan bahwa indeks kedalaman kemiskinan (P1) dan indeks keparahan kemiskinan (P2)
+di daerah perdesaan lebih tinggi dibandingkan daerah perkotaan.
+Tabel 1
+Kemiskinan Jawa Tengah Tahun 2007-2010
+
+Sumber: BPS Jawa Tengah
+Berdasarkan data PPLS 2008 dapat dilihat bahwa jumlah RTS (Rumah Tangga Sasaran) di
+Jawa Tengah berada pada jumlah 2.888.361 dengan beberapa kategori RTS diantaranya RTS
+sangat miskin sejumlah 467.726, RTS miskin sejumlah 1.147.239 dan RTS hampir miskin
+sejumlah 1.273.396. Jumlah RTS yang terdata di Jawa Tengah memiliki jumlah kedua terbesar seIndonesia setelah provinsi Jawa Timur. Hal ini mengindikasikan bahwa masih banyaknya jumlah
+penduduk miskin di Jawa Tengah yang perlu mendapatkan respons khusus dari pemerintah pusat
+dan daerah. Pada tahun 2008 jumlah keluarga pra sejahtera dan sejahtera I masih berada pada level
+diatas 50%. Sekitar 3,10 juta atau 33,33% dari total keluarga di Jawa Tengah masih tergolong
+keluarga pra sejahtera. Dengan kata lain kesejahteraan ditingkat keluarga masih tergolong kurang
+sejahtera (BPS Jawa Tengah, 2010).
+Kesehatan Di Jawa Tengah
+Pada Tabel 2 menggambarkan bahwa pelayanan kesehatan dari pemerintah ke unit terkecil
+wilayah admistrasi pemerintahan dalam hal ini desa / kelurahan sudah menunjukkan pencapaian
+peningkatan cakupan wilayah. Hal ini terlihat dari persentase jumlah desa / kelurahan yang telah
+melaksanakan imunisasi lengkap secara gratis menunjukkan adanya tren peningkatan. Daerah yang
+seluruh desa / kelurahannya telah tercakup pelayanan imunisasi dasar dari pemerintah pada tahun
+
+6
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 7
+
+tahun 2007 ada 3 daerah yakni Kota Magelang, Kota Surakarta dan Kabupaten Kudus tahun 2008
+ada 4 daerah yakni Kota Magelang, Kota Surakarta,Kabupaten Kudus dan Kabupaten Sragen,
+tahun 2009 ada 6 daerah yakni Kota Surakarta,Kabupaten Sragen, Kabupaten Kudus, Kabupaten
+Magelang, Kabupaten Temanggung, Kabupaten Demak dan tahun 2010 ada 9 daerah yakni Kota
+Semarang, Kota Salatiga, Kota Magelang, Kota Pekalongan, Kabupaten Sragen, Kabupaten Kudus,
+Kabupaten Semarang, Kabupaten Demak, Kabupaten Kebumen.
+Pemberian pelayanan kesehatan oleh pemerintah seperti pemberian imunisasi dasar pada
+tingkat desa / kelurahan, sangat diperlukan untuk peningkatan kekebalan tubuh agar terhindar dari
+penyakit-penyakit seperti polio, campak, hepatitis B, dipteri, tetanus dll. Pemberian imunisasi
+diharapkan akan menurunkan angka kematian bayi dan balita di Jawa tengah.
+Tabel 2
+Persentase Desa/Kelurahan UCI Pada Masing-Masing Kabupaten / Kota di Jawa Tengah
+Tahun 2007-2010
+Kabupaten/Kota
+2007
+2008
+2009
+2010
+Kab. Cilacap
+70,07
+92,25
+91,55
+92,96
+Kab. Banyumas
+93,96
+93,05
+99,40
+99,09
+Kab. Purbalingga
+58,16
+81,59
+88,70
+96,65
+Kab. Banjarnegara
+64,75
+76,98
+88,13
+80,58
+Kab. Kebumen
+87,39
+90,22
+91,09
+100,00
+Kab. Purworejo
+90,89
+74,09
+87,85
+95,55
+Kab. Wonosobo
+75,09
+57,74
+87,17
+93,21
+Kab. Magelang
+94,09
+98,39
+100,00
+98,66
+Kab. Boyolali
+95,13
+90,26
+97,00
+96,25
+Kab. Klaten
+95,51
+91,77
+97,01
+98,25
+Kab. Sukoharjo
+97,01
+97,60
+91,02
+98,80
+Kab. Wonogiri
+78,23
+69,39
+83,33
+78,91
+Kab. Karanganyar
+94,35
+91,53
+94,35
+84,18
+Kab. Sragen
+99,52
+100,00
+100,00
+100,00
+Kab. Grobogan
+62,14
+73,93
+97,86
+95,71
+Kab. Blora
+57,29
+78,98
+77,29
+87,12
+Kab. Rembang
+73,81
+66,33
+73,81
+90,82
+Kab. Pati
+82,02
+97,78
+97,78
+95,32
+Kab. Kudus
+100,00
+100,00
+100,00
+100,00
+Kab. Jepara
+94,85
+95,36
+95,88
+94,85
+Kab. Demak
+96,79
+99,20
+100,00
+100,00
+Kab. Semarang
+85,53
+90,21
+97,02
+100,00
+Kab. Temanggung
+96,19
+99,65
+100,00
+99,31
+Kab. Kendal
+65,96
+80,00
+98,60
+97,89
+Kab. Batang
+94,35
+95,56
+88,31
+92,33
+Kab. Pekalongan
+86,22
+93,99
+90,53
+99,30
+Kab. Pemalang
+81,08
+89,19
+81,98
+90,99
+Kab. Tegal
+87,11
+85,71
+97,21
+94,43
+Kab. Brebes
+75,08
+75,76
+71,72
+91,92
+Kota Magelang
+100,00
+100,00
+82,35
+100,00
+Kota Surakarta
+100,00
+100,00
+100,00
+98,04
+Kota Salatiga
+77,27
+54,55
+95,45
+100,00
+Kota Semarang
+78,53
+90,96
+98,87
+100,00
+Kota Pekalongan
+97,87
+97,87
+95,74
+100,00
+Kota Tegal
+77,78
+92,59
+96,30
+92,59
+Sumber: BPS Jawa Tengah
+Pendidikan di Jawa Tengah
+Human capital merupakan investasi jangka panjang yang hasilnya baru akan dinikimati
+dalam tempo waktu yang cukup lama. Pendidikan merupakan human capital investment karena
+
+7
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 8
+
+pada dasarnya biaya yang dikeluarkan untuk pendidikan dapat digolongkan sebagai investasi.
+Investasi tersebut akan membuahkan gain jika seseorang yang telah menamatkan pendidikan dapat
+menghasilkan pendapatan dari pekerjaan yang di gelutinya. Semakin tinggi tingkat pendidikan
+seseorang, maka pengetahuan dan keahlian juga akan meningkat sehingga akan mendorong
+peningkatan produktivitas kerja seseorang. Penggunaan persentase rasio penduduk usia 10 tahun
+keatas yang telah tamat pendidikan SD dan SMP dirasa cukup mewakili pendidikan itu sendiri.
+Dimana pada tingkat pendidikan SD dan SMP seseorang telah memiliki pengetahuan dan keahlian
+dasar untuk menghindarkan mereka dari keterbelakangan dan kebodohan.
+Pada tahun 2007-2010 persentase penduduk berumur sepuluh tahun keatas yang
+menamatkan pendidikan SD dan SMP di Jawa Tengah sangat tinggi, mayoritas kabupaten/kota
+memiliki persentase tamat SD dan SMP lebih dari 40%. Berdasarkan Tabel 3 mengindikasikan
+bahwa mayoritas penduduk Jawa Tengah masih berpendidikan SD dan SMP.
+Tabel 3
+Persentase Penduduk 10 Tahun Keatas yang Tamat SD dan SMP Menurut Kabupaten / Kota
+di Provinsi Jawa Tengah Tahun 2007-2010
+Kabupaten/Kota
+2007
+2008
+2009
+2010 Rata-Rata
+Kab. Cilacap
+55,26 49,92 49,16 52,64
+51,75
+Kab. Banyumas
+54,89 48,64 49,68 51,04
+51,06
+Kab. Purbalingga
+55,92 52,44 56,75 58,54
+55,91
+Kab. Banjarnegara
+56,69 52,27 55,24 57,64
+55,46
+Kab. Kebumen
+56,17 50,19 58,35
+59,3
+56,00
+Kab. Purworejo
+54,64 51,06 54,04
+52
+52,94
+Kab. Wonosobo
+61,14 51,72 61,27 59,47
+58,40
+Kab. Magelang
+53,49 50,57 51,54 54,79
+52,60
+Kab. Boyolali
+51,11 47,03 47,32 49,57
+48,76
+Kab. Klaten
+47,63 42,28 44,74 44,79
+44,86
+Kab. Sukoharjo
+46,16 40,98 42,68 45,71
+43,88
+Kab. Wonogiri
+55,69 47,56 51,63 52,12
+51,75
+Kab. Karanganyar
+49,61 44,27 49,96 47,07
+47,73
+Kab. Sragen
+46,77 42,03 50,19 54,67
+48,42
+Kab. Grobogan
+58,32
+56,3
+61,18 63,37
+59,79
+Kab. Blora
+49,28 46,86 51,59 49,92
+49,41
+Kab. Rembang
+58,26 54,85 60,93 61,35
+58,85
+Kab. Pati
+49,43 47,35 47,78 52,54
+49,28
+Kab. Kudus
+53,42 53,09 55,49 51,81
+53,45
+Kab. Jepara
+58,42 54,23 57,44 57,48
+56,89
+Kab. Demak
+55,94 53,08 56,38 61,85
+56,81
+Kab. Semarang
+50,72
+48,2
+51,64 50,89
+50,36
+Kab. Temanggung
+59,48 53,44 59,74 59,93
+58,15
+Kab. Kendal
+47,06 48,51
+51,5
+52,24
+49,83
+Kab. Batang
+52,06 47,99 57,02 57,14
+53,55
+Kab. Pekalongan
+54,79 53,73 57,17
+58,8
+56,12
+Kab. Pemalang
+52,44 49,46
+55
+58,76
+53,92
+Kab. Tegal
+51
+48,22 49,46 51,49
+50,04
+Kab. Brebes
+47,85 46,89 45,94 44,85
+46,38
+Kota Magelang
+44,89 42,29 41,63 43,52
+43,08
+Kota Surakarta
+40,77 38,95 40,65 38,59
+39,74
+Kota Salatiga
+40,05 41,73 40,76 41,15
+40,92
+Kota Semarang
+38,44 39,13 43,04
+37,7
+39,58
+Kota Pekalongan
+48,92
+50,8
+56,2
+50,59
+51,63
+Kota Tegal
+48,97 49,48
+50,1
+48,85
+49,35
+Sumber: BPS Jawa Tengah
+
+8
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 9
+
+Rata-rata persentase penduduk yang menamatkan SD dan SMP dengan persentase tinggi
+terdapat di Kabupaten Grobogan dengan persentase 59,79%, Kabupaten Rembang dengan
+persentase 58,85%, Kabupaten Wonosobo dengan persentase 58,40%, Kabupaten Temanggung
+dengan persentase 58,15%. Sedangkan daerah yang rata-rata persentase tamat SD dan SMP rendah
+berada di Kota Semarang dengan persentase 39,58%, Kota Surakarta dengan persentase 39,74%,
+Kota Salatiga dengan persentase 40,92%, dan Kota Magelang dengan persentase sebesar 43,08%.
+Pada daerah perkotaan tingkat pendidikan penduduknya cenderung lebih tinggi sehingga pada
+persentase tamat SD dan SMP terhitung kecil persentasenya.
+Pengeluaran Pemerintah di Jawa Tengah
+Pada Gambar 1 dapat dilihat bahwa pada rentang waktu 2007-2010 pengeluaran
+pemerintah mengalami kenaikan yang cukup tinggi. Kenaikan alokasi pengeluaran pemerintah
+Gambar 1
+Pengeluaran Pemerintah pada Kabupaten / Kota di Provinsi Jawa Tengah Tahun 2007-2010
+(dalam satuan miliar rupiah)
+
+Sumber: DJPK (Direktorat Jendral Perimbangan dan Keuangan)
+tersebut terjadi pada seluruh kabupaten / kota di Jawa Tengah. Kenaikan alokasi pengeluaran
+pemeritantah menggambarkan kenaikan investasi sumberdaya yang dilakukan pemerintah
+khususnya pada bidang kesehatan, pendidikan, perlindungan sosial, perumahan dan fasilitas umum.
+Kota Semarang merupakan daerah dengan jumlah pengeluaran pemerintah bidang perlindungan
+sosial, kesehatan, pendidikan, perumahan dan fasilitas umum tertinggi dengan total nilai mencapai
+876 miliar rupiah, disusul Kabupaten Brebes dan Kabupaten Banyumas dengan total nilai 818
+miliar rupiah dan 750 miliar rupiah. Sedangkan alokasi pengeluaran pemerintah bidang kesehatan,
+pendidikan, perlindungan sosial, perumahan dan fasilitas umum yang nilainya rendah terdapat di
+daerah Kota Pekalongan dengan nilai 212 miliar rupiah.
+4.1.6 Pertumbuhan Ekonomi di Jawa Tengah
+Sebagaimana yang ditunjukkan oleh Gambar 2 bahwa Provinsi Jawa Tengah mengalami
+pertumbuhan ekonomi yang cukup tinggi, artinya setiap tahunnya terjadi peningkatan PDRB pada
+masing-masing kabupaten/kota di Jawa Tengah. Laju pertumbuhan ekonomi yang positif
+menunjukkan adanya peningkatan kapasitas dalam perekonomian dari tahun ke tahun.
+Daerah dengan rata-rata pertumbuhan ekonomi tertinggi adalah Kabupaten Sragen dengan rata-rata
+pertumbuhan ekonomi sebesar 5,88%. Daerah lainnya yang memiliki rata-rata pertumbuhan
+ekonomi tinggi adalah Kota Surakarta dengan 5,84%, Kabupaten Purbalingga dengan 5,76% dan
+Kota Semarang 5,70%. Sedangkan daerah yang memiliki rata-rata pertumbuhan ekonomi paling
+rendah adalah Kabupaten Klaten 3,30%.
+
+9
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 10
+
+Gambar 2
+Rata-Rata Pertumbuhan Ekonomi Kabupaten / Kota di Jawa Tengah Tahun 2007-2010
+
+5.00
+
+Kota Tegal
+
+4.45
+
+Kota Pekalongan
+
+5.70
+
+Kota Semarang
+
+4.97
+
+Kota Salatiga
+
+5.84
+
+Kota Surakarta
+Kota Magelang
+
+5.36
+
+Kab. Brebes
+
+4.88
+5.26
+4.80
+4.49
+
+Kab. Tegal
+Kab. Pemalang
+Kab. Pekalongan
+
+3.97
+
+Kab. Batang
+
+5.03
+
+Kab. Kendal
+
+3.99
+
+Kab. Temanggung
+
+4.56
+4.12
+4.70
+3.77
+4.98
+4.35
+4.96
+4.94
+
+Kab. Semarang
+Kab. Demak
+Kab. Jepara
+Kab. Kudus
+Kab. Pati
+Kab. Rembang
+Kab. Blora
+Kab. Grobogan
+
+5.88
+5.50
+
+Kab. Sragen
+Kab. Karanganyar
+
+4.99
+4.84
+
+Kab. Wonogiri
+Kab. Sukoharjo
+
+3.30
+
+Kab. Klaten
+
+4.22
+
+Kab. Boyolali
+
+4.86
+
+Kab. Magelang
+
+3.89
+
+Kab. Wonosobo
+
+5.42
+4.60
+5.00
+5.76
+5.48
+5.17
+
+Kab. Purworejo
+Kab. Kebumen
+Kab. Banjarnegara
+Kab. Purbalingga
+Kab. Banyumas
+Kab. Cilacap
+
+0.00
+
+1.00
+
+2.00
+
+3.00
+
+4.00
+
+5.00
+
+6.00
+
+Sumber: BPS Provinsi Jawa Tengah
+4.1.7 Pengangguran di Jawa Tengah
+Naik turunnya jumlah pengangguran salah satunya dapat disebabkan oleh laju
+pertumbuhan penduduk. Pada laju pertumbuhan penduduk yang tinggi akan meningkatkan jumlah
+penduduk usia kerja yang kemudian tanpa didukung oleh adanya lapangan pekerjaan yang cukup di
+pasar kerja menyebabkan terjadinya lonjakan jumlah pengangguran.
+Dalam Gambar 4.3 diketahui hanya terdapat beberapa kabupaten / kota yang mempunyai
+nilai rata-rata laju pertumbuhan pengangguran yang nilainya negatif. Arti dari nilai negatif tersebut
+adalah pertumbuhan pengangguran di kabupaten /kota tersebut mengalami penurunan dari tahun
+sebelumnya, kemudian dari hasil pertumbuhan tersebut dirata-rata dalam kurun waktu beberapa
+tahun.Kabupaten / kota dengan rata-rata pertumbuhan pengangguran yang negatif terdapat pada
+Kota Pekalongan (-7,761%), Kabupaten Banjarnegara (-4,976%), Kabupaten Pekalongan (4,243%), Kabupaten Wonogiri (-3,908%), Kabupaten Magelang (-1,996%), dan Kabupaten Demak
+(-0,239%). Sedangkan untuk kabupaten / kota dengan jumlah pengangguran tiga terbanyak pada
+tahun 2009 terdapat di Kabupaten Cilacap dengan 89.175 jiwa, Kota Semarang dengan 83.963 jiwa
+dan Kabupaten Pemalang dengan 79.372 jiwa.
+
+10
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 11
+
+Gambar 3
+Rata-Rata Laju Pertumbuhan Pengangguran Terbuka Menurut Kabupaten / Kota di
+Provinsi Jawa Tengah Tahun 2007-2010
+
+Sumber: BPS Jawa Tengah
+Pembahasan Hasil Penelitian
+Setelah melakukan regresi didapat nilai R² Adjusted sebesar 0,942817. Penggunaan R²
+Adjusted dipilih karena nilai R²-nya yang sudah disesuaikan/dikoreksi dengan banyaknya df
+(degree of freedom) sehingga lebih baik untuk mengetahui kesesuaian model. Pada penelitian ini
+menggunakan data panel sehingga df-nya menjadi besar, oleh karena itu digunakanlah R² Adjusted.
+Hasil nilai R² Adjusted tersebut memiliki arti bahwa variabel kesehatan, pendidikan, pengeluaran
+pemerintah, pertumbuhan ekonomi, pengangguran mampu menjelaskan variasi tingkat kemiskinan
+sebesar 94,28%. Sedangkan sisanya sebesar 5,72 persen dijelaskan oleh variabel lain di luar model
+yang digunakan dalam penelitian. Sedangkan untuk uji F diperoleh nilai F-statistik sebesar
+59,76361, jika dibandingkan F-tabel sebesar 1,50 maka dapat disimpulkan bahwa variabel
+independen secara bersama-sama berpengaruh terhadap variabel dependen karena nilai F statistik >
+F-tabel.
+Tabel 4
+Hasil Uji R² dan Uji F
+R-squared
+Adjusted R-squared
+F-statistic
+Prob(F-statistic)
+**5%
+* signifikan
+
+0.958861
+0.942817
+59.76361
+0.000000*
+
+Sebagaimana yang ditunjukkan oleh Tabel 5 bahwa variabel kesehatan memiliki pengaruh
+negatif terhadap tingkat kemiskinan di Jawa Tengah. Arti tanda negatif dalam koefisien variabel
+kesehatan adalah ketika variabel kesehatan mengalami kenaikan menyebabkan tingkat kemiskinan
+mengalami penurunan. Hasil ini sesuai dengan pendapat Lincolin (1999) yang menjelaskan
+intervensi untuk memperbaiki kesehatan dari pemerintah juga merupakan suatu alat kebijakan
+penting untuk mengurangi kemiskinan. Bentuk pelayanan kesehatan dari pemerintah seperti
+pelaksanaan imunisasi dasar pada tingkat kelurahan/desa sangat penting untuk peningkatan
+kesehatan masyarakat. Peningkatan kesehatan akan berdampak pada peningkatan produktivitas
+seseorang dan peningkatan harapan hidup seseorang. Ketika seseorang memilki sistem imun tubuh
+yang kuat maka tingkat morbiditas akan menurun karena seseorang telah memiliki imunitas dan
+menjauhkannya dari serangan penyakit tertentu. Hal ini berarti biaya kesehatan rumah tangga bisa
+berkurang dan dengan berkurangnya pengeluaran untuk biaya kesehatan rumah tangga maka
+
+11
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 12
+
+alokasi tersebut dapat digunakan untuk memenuhi kebutuhan hidup pokok lainnya guna
+meningkatkan kesejahteraan keluarga.
+Hasil regresi variabel pendidikan menunjukkan pengaruh negatif signifikan terhadap
+tingkat kemiskinan di Jawa Tengah Hasil penelitian ini sejalan dengan penelitian yang dilakukan
+Hermanto Siregar dan Dwi Wahyuniarti (2008), Wongdesmiwati (2009), yang serta penelitian
+Rasidin K. Sitepu dan Bonar M. Sinaga (2005). Hasil penelitian ini mengindikasikan bahwa dengan
+pendidikan dasar SD dan SMP seseorang sudah memiliki ilmu pengetahuan dan keahlian dasar
+yang dapat digunakan untuk menjauhkan dirinya dari keterbelakangan dan kebodohan. Seseorang
+yang terbelakang sangat erat kaitannya dengan kemiskinan karena orang tersebut tidak mempunyai
+pengetahuan yang dapat digunakan untuk menjalani kehidupan sehari-hari.
+Berdasarkan hasil regresi menunjukkkan bahwa variabel pengeluaran pemerintah memiliki
+pengaruh negatif terhadap tingkat kemiskinan di Jawa Tengah. Hasil dari penelitian ini sejalan
+dengan temuan Rashid Mehmood dan Sara Sadiq (2010) yang mengemukakan bahwa pengeluaran
+pemerintah dan kemiskinan memiliki hubungan negatif jika pengeluaran tersebut adalah jalur
+pembangunan seperti pembangunan fasilitas sosial, barang publik, infrastruktur, biaya modal
+tambahan, kesehatan dan pendidikan. Hasil penelitian ini juga sejalan dengan beberapa penelitian
+mengenai pengeluaran pemerintah dan kemiskinan seperti: Fan, Hazell, dan Thorat (2000) dan Fan,
+Zhang, Rao (2004). Pengeluaran pemerintah khususnya pada bidang-bidang kesehatan, pendidikan,
+fasilitias umum dan perlindungan sosial sangat membantu masyarakat miskin untuk meningkatkan
+kesejahteraannya. Karena seperti yang kita ketahui pengeluaran pemerintah pada bidang-bidang
+tersebut banyak yang dialokasikan sebagai sumber pendanaan program-program pengentasan
+kemiskinan yang berbentuk pelayanan kepada masyarakat miskin.
+Tabel 5
+Hasil Uji t
+Variabel
+H
+E
+GE
+G
+U
+* signifikan 5%
+
+Prob.
+0.0141*
+0.0118*
+0.0000*
+0.2660
+0.0008*
+
+Berdasarkan hasil regresi bahwa variabel pertumbuhan ekonomi menunjukkan tanda
+negatif namun tidak signifikan terhadap tingkat kemiskinan di Jawa Tengah. Hasil penelitian ini
+berbeda dengan teori dan penelitian terdahulu yang menjadi landasan teori dalam penelitian ini.
+Yang mana menurut Kuznet dalam Tambunan (2001), pertumbuhan dan kemiskinan mempunyai
+korelasi yang sangat kuat, karena pada tahap awal proses pembangunan kemiskinan cenderung
+meningkat dan pada saat mendekati tahap akhir pembangunan jumlah orang miskin berangsurangsur berkurang. Selanjutnya menurut Hermanto S. dan Dwi W. (2008) dan Wongdesmiwati
+(2009) mengungkapkan bahwa pertumbuhan ekonomi akan mempengaruhi tingkat kemiskinan
+yang akan ada. Semakin impresif pertumbuhan ekonomi akan berdampak pada mereduksinya
+tingkat kemiskinan yang ada atau dapat dikatakan terdapat hubungan yang negatif antara
+pertumbuhan ekonomi dan penurunan tingkat kemiskinan.Tidak signifikannya pertumbuhan
+ekonomi secara statistik dalam mempengaruhi kemiskinan dapat dilihat berdasarkan data bahwa
+laju pertumbuhan ekonomi pada masing-masing kabupaten / kota di Jawa Tengah tahun 2007
+hingga tahun 2010 tidak selalu meningkat atau dengan kata lain selisih tingkat pertumbuhan
+ekonomi tahun sekarang dengan tahun sebelumnya mengalami naik-turun (fluktuatif). Padahal
+tingkat kemiskinan di masing-masing kabupaten / kota pada tahun 2007-2010 tingkatnya
+cenderung menurun di setiap tahunnya. Hal ini mungkin saja yang menyebabkan
+ketidaksignifikanan variabel pertumbuhan ekonomi terhadap tingkat kemiskinan. Kemungkinan
+lain secara riil disebabkan karena PDRB Jawa Tengah tertinggi adalah pada sektor industri yang
+setiap tahun meningkat dari tahun 2008 sebesar 55.348.962,88 miliar rupiah dan menjadi
+61.390.101,24 miliar rupiah pada tahun 2010 dengan share sebesar > 30% terhadap PDRB Jawa
+Tengah. Para pekerja sektor indusri dituntut untuk memiliki kualifikasi pendidikan yang tinggi,
+
+12
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 13
+
+sedangkan rata-rata penduduk Jawa Tengah hampir sekitar 80% hanya berpendidikan tamat SMP
+kebawah. Hal ini kemungkinan yang menyebabkan tidak signifikannya pertumbuhan ekonomi
+terhadap tingkat kemiskinan di Jawa Tengah karena Jawa Tengah mengalami pertumbuhan
+ekonomi tetapi banyak tenaga kerja (khususnya penduduk miskin) yang tidak terserap karena tidak
+sesuai dengan kualifikasi yang diinginkan perusahaan khususnya pada sektor industri. Temuan
+serupa juga pernah dilakukan oleh World Bank (1990) dan Ravallion (1995) menunjukkan tidak
+ada korelasi antara pertumbuhan ekonomi dan tingkat kemiskinan.
+Pengangguran memberikan pengaruh yang positif terhadap tingkat kemiskinan 35
+kabupaten/kota di Provinsi Jawa Tengah terlihat dari Tabel 5 yang menunjukkan variabel
+pengangguran signifikan pada taraf signifikansi 5%. Pengaruh tanda positif pada pengangguran
+memiliki arti semakin tinggi jumlah pengangguran akan mengakibatkan peningkatan tingkat
+kemiskinan, hasil ini sesuai dengan pendapat Sadono Sukirno (2004) yang menyatakan bahwa
+dampak buruk dari pengangguran adalah mengurangi pendapatan masyarakat yang pada akhirnya
+mengurangi tingkat kemakmuran yang mereka capai. Hasil penelitian ini juga sejalan dengan
+penelitian yang dilakukan Dian Octaviani yang mendapatkan hasil bahwa pengangguran memiliki
+pengaruh positif terhadap tingkat kemiskinan. Jika dikaitkan dengan pendapat nurse pada teori
+lingkaran setan kemiskinan yang menggambarkan rendahnya produktivitas sebagai salah satu sebab
+kemiskinan, penelitian ini memiliki hasil yang sejalan. Pengganguran bisa diartikan sebagai tingkat
+produktivitas seseorang yang rendah atau bisa juga tidak melakukan produktivitas sama sekali. Hal
+ini karena penggangur tidak memiliki suatu pekerjaan untuk menghasilkan upah ataupun gaji.
+Padahal sebagian besar rumah tangga bergantung dari gaji / upah yang didapat untuk memenuhi
+kebutuhan hidup mereka.
+Dalam menginterpretasikan hasil regresi data panel dengan menggunakan metode LSDV
+yang menggunakan variabel dummy. Signifikannya variabel dummy yang digunakan menunjukkan
+bahwa kondisi tingkat kemiskinan pada kabupaten/kota di Jawa Tengah tersebut tidak sama
+(berbeda) dengan perkembangan tingkat kemiskinan Kota Semarang yang dijadikan sebagai
+benchmark. Kota Semarang dijadikan benchmark karena tingkat kemiskinannya paling rendah
+dibandingkan kabupaten / kota lain di Jawa Tengah.
+Tabel 6
+Dummy Effect
+
+Sementara angka positif atau negatif pada koefisien dummy menunjukkan bahwa
+kabupaten / kota yang dinyatakan dengan variabel dummy tersebut memiliki kondisi tingkat
+kemiskinan yang lebih rendah (untuk tanda negatif) atau lebih tinggi (untuk tanda positif)
+dibandingkan Kota Semarang yang dijadikan benchmark. Dari Tabel 6 diketahui bahwa selama 4
+tahun periode penelitian terdapat 34 kabupaten/kota di Jawa Tengah yang memiliki kondisi
+kemiskinan yang lebih tinggi dibandingkan dengan tingkat kemiskinan Kota Semarang. Hal ini
+
+13
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 14
+
+berarti semua kabupaten/kota di Jawa Tengah memiliki tingkat kemiskinan yang lebih tinggi
+dibandingkan Kota Semarang.
+Kota Semarang layak dijadikan percontohan bagi daerah kabupaten/kota di Jawa Tengah
+karena tingkat kemiskinan di Kota Semarang hanya berkisar 5% dan yang paling rendah se-Jawa
+Tengah. Kota Semarang juga merupakan daerah dengan Indeks Pembangunan Manusia (IPM)
+tertinggi di Jawa Tengah dengan skor 76,90. Inovasi Pemerintah Kota Semarang dalam hal
+pengentasan kemiskinan dituangkan dalam program pengentasan kemiskinan bernama Gerdu
+Kempling (Gerakan Terpadu Penangggulangan Kemiskinan Bidang Kesehatan, Ekonomi,
+Pendidikan, Infrastruktur, Lingkungan). Program Gerdu Kempling mempunyai maksud
+menurunkan angka kemiskinan di 177 kelurahan dengan target penurunan 2% per tahun.
+Diharapkan pemerintah kabupaten/kota lainnya di Jawa Tengah termotivasi untuk melakukan
+inovasi guna program pengentasan kemiskinan.
+
+KESIMPULAN
+Berdasarkan hasil dan pembahasan yang telah dilakukan dalam penelitian ini, didapat
+bahwa variabel kesehatan, pendidikan dan pengeluaran pemerintah signifikan dan berpengaruh
+negatif terhadap tingkat kemiskinan di Jawa Tengah. Hal ini berarti setiap peningkatan pada
+variabel pendidikan, kesehatan dan pengeluran pemerintah akan menyebabkan tingkat kemiskinan
+turun. Sedangkan untuk variabel pengangguran signifikan dan berpengaruh positif terhadap tingkat
+kemiskinan, artinya ketika jumlah pengangguran meningkat maka tingkat kemiskinan akan juga
+meningkat. Namun untuk variabel pertumbuhan ekonomi tidak signifikan secara statisti
+mempengaruhi tingkat kemiskinan.
+Keterbatasan pada penelitian adalah data time series yang digunakan rentang waktunya
+tidak cukup lama sehingga variasi yang dihasilkan masih kurang tinggi sehingga mempengaruhi
+hasil signifikansi variabel independen dalam mempengaruhi variabel dependen. Kemudian pada
+saat tahun penelitian ada beberapa data yang masih bersifat sementara yang digunakan dalam
+penelitian ini seperti data pertumbuhan ekonomi.
+Sebagai saranuntuk penelitian selanjutnya agar dapat menggunakan data time series yang
+lebih panjang agar variasi yang didapat semakin banyak. Kemudian disarankan untuk
+menggunakan tahun dengan data yang sudah bersifat tetap, menghindari data yang masih bersifat
+sementara.
+
+REFERENSI
+Arsyad, Lincolin. 1999. Ekonomi Pembangunan. Edisi Keempat. STIE YKPN. Yogyakarta.
+Badan Perencanaan dan Pembangunan Daerah Jawa Tengah. 2009. Dukungan Provinsi Jawa
+Tengah Dalam Upaya Penanggulangan Kemiskinan. Bappeda Jateng
+Badan Pusat Statistik. Berbagai Tahun Terbitan. Jawa Tengah Dalam Angka. Semarang: Badan
+Pusat Statistik Jawa Tengah
+Badan Pusat Statistik. 2008. Data dan Informasi Kemiskinan 2008. Semarang: Badan Pusat
+Statistik
+Badan Pusat Statistik. 2010. Berita Resmi Statistik Jawa Tengah 2010. Semarang: Badan Pusat
+Statistik Jawa Tengah
+Badan Pusat Statistik. Berbagai Tahun Terbitan. Survey Sosial Ekonomi Nasional Jawa Tengah.
+Semarang: Badan Pusat Statistik Jawa Tengah
+Badan Pusat Statistik. Berbagai Tahun Terbitan. Keadaan Angkatan Kerja di Provinsi Jawa
+Tengah. Semarang: Badan Pusat Statistik Jawa Tengah
+
+14
+
+DIPONEGORO JOURNAL OF ECONOMICS Volume 2, Nomor 1, Tahun 2013, Halaman 15
+
+Dinas Kesehatan Jawa Tengah. Berbagai Tahun Terbitan. Profil Kesehatan Jawa Tengah.
+Semarang: Dinas Kesehatan Jawa Tengah
+Fan, Shenggen, Xiaobo Zhang, and Neetha Rao. 2004. Public Expenditure, Growth, And Poverty
+Reduction In Rural Uganda. DSGD Discussion Paper No. 4. Washington DC:
+International Food Policy Research Institute
+Fan, Shenggen, P. Hazell, and S. Thorat. 2000. Government spending, agricultural growth, and
+poverty in rural India. American Journal of Agricultural Economics 82 (4): 1038- 1051.
+Gujarati, Damodar N. 2009. Basic Econometrics. Fifth Edition. New York: The McGrow Hill
+Companies Inc
+Kuncoro, Mudrajad. 2006. Ekonomika Pembangunan, Teori, Masalah, dan Kebijakan. Edisi
+Keempat. Yogyakarta: UPP AMP YKPN
+Mankiew, Gregory. 2000. Teori Makro Ekonomi. Jakarta: Erlangga
+Mehmood, Rashid and Sara Sadiq. 2010. The Relationship between Government Expenditure and
+Poverty: A Cointegration Analysis. Vol. 1, Issue 1, Pages 29-37
+Octaviani, Dian. 2001. Inflasi, Pengangguran, dan Kemiskinan di Indonesia: Analisis Indeks
+Forrester Greer & Horbecke. Media Ekonomi, H. 100-118, Vol. 7, No. 8.
+Ravallion, M. 1995. Growth and Poverty: evidence for developing countries in the 1980s.
+Economics letters, Vol.48, h. 411-417
+Saleh, Samsubar. 2002. Faktor-Faktor Penentu Tingkat Kemiskinan Regional Di Indonesia. Jurnal
+Ekonomi Pembangunan, h. 87-102, vol.7, No.2
+Siregar, Hermanto dan Dwi W. 2006. Dampak Pertumbuhan Ekonomi Terhadap Penurunan
+Penduduk Miskin di Indonesia : Proses Pemerataan dan Pemiskinan. Direktur Kajian
+Ekonomi: Institusi Pertanian Bogor
+Sitepu, Rasidin dan Bonar Sinaga. 2009. Dampak Infestasi Sumberdaya Manusia Terhadap
+Pertumbuhan Ekonomi dan Kemiskinan di Indonesia. Prisma, H 17 - 31, No. 1.
+Sukirno, Sadono. 2004. Makroekonomi Teori Pengantar. Edisi Ketiga. Jakarta: Grafindo Persada
+Tambunan, Tulus. 2001. Perekonomian Indonesia: Teori dan Temuan Empiris. Jakarta: Ghalia
+Todaro, Michael P. dan Stephen C. Smith. 2006. Pembangunan Ekonomi. Edisi Kesembilan.
+Jakarta: Erlangga
+Wongdesmiwati, 2009. Pertumbuhan Ekonomi dan Pengentasan Kemiskinan di Indonesia:
+Analisis Ekonometrika.
+http://wongdesmiwati.files.wordpress.com/2009/10/pertumbuhan-ekonomi-danpengentasan-kemiskinan-di-indonesia-analisis-ekonometri.pdf
+World Bank. 1990. World development report: Poverty. New York: Oxford University Press.
+www.djpk.depkeu.go.id
+
+15
+
+

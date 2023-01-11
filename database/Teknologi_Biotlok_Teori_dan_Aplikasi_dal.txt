@@ -1,0 +1,1031 @@
+117
+
+Jumal Akuakultur Indonesia, 8(2): 117-126 (2009)
+
+Teknologi Biotlok: Teori dan Aplikasi dalam
+Perikanan Budidaya Sistem Intensif
+Bioflocs Technology: Theory and Application
+in Intensive Aquaculture System
+J. Ekasari
+Dapartemen Budidaya Perairan, Fakultas Perikanan dan Ilmu Kelautan
+Institut Pertanian Bogor
+
+ABSTRACT
+Bioflocs technology (BFT) is one of the developing technology in aquaculture which aimed to improve water
+quality and to enhance nutrient utilization efficiency. This technology is mainly based on the conversion of
+inorganic nitrogen in particular ammonia by heterotrophic bacteria into microbial biomass which further can
+be consumed by aquaculture organisms. The objective of this review is to discuss various aspect of BFT
+application in aquaculture including bioflocs formation process, technical requirement, bioflocs nutritional
+content and characterization techniques.
+Keywords: bioflocs, nitrogen, heterotrophic bacteria, ammonia, C/N ratio.
+
+ABSTRAK
+Teknologi bioflok (BFT) merupakan salah satu teknologi yang saat ini sedang dikembangkan dalam
+akuakultur yang bertujuan untuk memperbaiki kualilas air dan meningkatkan efisiensi pemanfaatan nutrient.
+Teknologi ini didasarkan pada konversi nitrogen anorganik terutama ammonia oleh bakteri heterotrof menjadi
+biomassa mikroba yang kemudian dapat dikonsumsi oleh organisme budidaya. Tujuan penulisan makalah ini
+adalah untuk memaparkan berbagai aspek dalam BFT termasuk proses pembentukan biotlok, persyaratan
+teknis, kandungan nutrisi bioflok dan teknik karakterisasinya.
+Kata kunci: bioflok, nitrogen, bakteri heterotrof, ammonia, rasio C/N.
+PENDAHULUAN
+Dalam The State of Fisheries and Aquaculture
+2008, FAO melaporkan bahwa akuakultur
+merupakan salah satu sektor produksi pangan yang
+memiliki laju pertumbuhan tertinggi di dunia,
+mencapai 8,7% per tahun sejak tahun 1970.
+Kontribusi
+akuakultur
+terhadap
+produksi
+perikanan dunia juga terus menunjukkan
+peningkatan, pada tahun 2006 sektor ini telah
+memberikan
+kontribusi
+mencapai
+47%
+dibandingkan tahun 1950 yang hanya 3%. Seiring
+dengan menurunnya produksi perikanan tangkap
+maka tidaklah mengherankan jika sektor
+akuakultur kemudian diharapkan dapat menjadi
+suplier utama produk-produk perikanan dunia.
+
+Menghadapi
+peluang
+ini
+akuakultur
+dihadapkan pada beberapa tantangan terutama
+yang berkaitan dengan sumber daya alam.
+Terbatasnya sumber daya alam seperti air dan
+lahan, menjadikan intensifikasi sebagai pilihan
+yang paling memungkinkan dalam meningkatkan
+produksi budidaya. Berbagai upaya untuk
+mengembangkan pcrikanan budidaya terutama
+sistem intensif hingga kini masih terus dilakukan
+mengingal sistem ini masih terkendala oleh
+berbagai masalah diantaranya buangan limbah
+akuakultur, penggunaan tepung ikan sebagai
+bahan baku pakan buatan scrta penyebaran
+penyakit (FAO, 2007). Permasalahan utama dalam
+akuakultur sistem intensif telah menarik perhatian
+tidak hanya para pelaku kegiatan
+akuakultur
+
+tetapi
+
+juga
+
+para stakeholder lainnya
+
+seperti para pemerhati lingkungan (Allsopp et
+al., 2008). Lebih jauh lagi, penerapan best
+aquaculture practices dalam sertifikasi
+produk
+akuakultur
+yang
+diekspor,
+mensyaratkan praktek akuakultur yang ramah
+lingkungan.
+Sehingga
+perkembangan
+teknologi akuakultur saat ini difokuskan pada
+pemecahan masalah tersebut di atas.
+Intensifikasi tentunya membutuhkan lebih
+banyak input produksi terutama benih dan
+pakan serta sistem manajemen yang lebih
+baik. Pada sistem budidaya intensif,
+keberadaan dan ketergantungan terhadap
+pakan alami sangat dibatasi, sehingga pakan
+buatan menjadi satu-satunya sumber makanan
+bagi organisme yang dipelihara (Tacon,
+1987),
+Organisme
+akuatik
+umumnya
+membutuhkan protein yang cukup tinggi
+dalam pakannya. Namun demikian organism
+akuatik hanya dapat meretensi protein sekitar
+20 - 25% dan selebihnya akan terakumulasi
+dalam air (Stickney, 2005). Metabolisme
+protein oleh organisme akuatik umumnya
+menghasilkan ammonia sebagai hasil
+ekskresi. Pada saat yang sama protein dalam
+feses dan pakan yang tidak termakan akan
+diuraikan oleh bakteri menjadi produk yang
+sama. Dengan demikian semakin intensif
+suatu kegiatan budidaya akan diikuti dengan
+semakin tingginya konsentrasi senyawa
+nitrogen terutama ammonia dalam air
+(Avnimelech, 2007).
+Agar tidak membahayakan organisme yang
+dibudidayakan, maka konsentrasi ammonia
+dalam media budidaya harus dibatasi.
+Pergantian air merupakan metoda yang paling
+umum dalam membatasi konsentrasi ammonia
+dalam air. Namun demikian metoda ini
+membutuhkan air dalam jumlah besar serta
+dapat mencemari lingkungan pcrairan sekitar
+jika air yang dibuang tidak diberi perlakuan
+lebih lanjut. Seiiring dengan berkembangnya
+akuakultur sistem intensif berbagai teknik
+pengolahan air untuk mengurangi konsentrasi
+ammonia dalam media budidaya telah
+dikembangkan salah satunya adalah teknologi
+bioflok. Artikel ini bertujuan untuk mengulas
+berbagai aspek dalam teknologi bioflok mulai
+dari teori hingga aplikasinya dalam kegiatan
+akuakultur.
+
+Nitrogen dalam sistem akuakultur
+Nitrogen dalam sistem akuakultur terutama
+berasal dari pakan buatan yang biasanya
+mengandung protein dengan kisaran 13 - 60%
+(2 - 10% N) tergantung pada kebutuhan dan
+stadia organisme yang dikultur (Avnimeleeh
+& Ritvo, 2003; Gross & Boyd 2000; Stickney,
+2005). Dari total protein yang masuk ke dalam
+sistem budidaya, sebagian akan dikonsumsi
+oleh organisme budidaya dan sisanya
+terbuang ke dalam air. Proses metabolisme
+pakan yang dikonsumsi dalam tubuh
+organisme
+budidaya
+kemudian
+akan
+menghasilkan biomasa dan sisa metabolisme
+berupa urine dan feses. Protein dalam pakan
+akan dicerna namun hanya 20 - 30% dari total
+nitrogen dalam pakan dimanfaatkan menjadi
+biomasa ikan (Brune et al., 2003).
+Katabolisme protein dalam tubuh organisme
+akuatik menghasilkan ammonia sebagai hasil
+akhir dan diekskresikan dalam bentuk
+ammonia (NH3) tidak terionisasi melalui
+insang (Ebeling et al., 2006; Hargreaves,
+1998). Pada saat yang sama, bakteri
+memineralisasi nitrogen organik dalam pakan
+yang tidak termakan dan feses menjadi
+ammonia (Gross and Boyd, 2000). Sebagai
+akibat dari berlangsungnya kedua proses ini,
+aplikasi pakan berprotein tinggi dalam sistem
+budidaya akan menghasilkan akumulasi
+ammonia baik sebagai hasil ekskresi dari
+organisme yang dikultur maupun hasil
+mineralisasi bakteri. Dalam air, ammonia
+berada dalam dua bentuk yaitu ammonia tidak
+terionisasi (NH3) dan ammonia terionisasi
+(NH4+). Jumlah total kedua bentuk ammonia
+ini disebut juga dengan total ammonia
+nitrogen atau TAN (Ebeling et al., 2006).
+Konsentrasi relatif dari kedua bentuk
+ammonia terutama tergantung pada pH,
+temperatur dan salinitas. Keberadaan
+ammonia tidak terionisasi di dalam media
+budidaya sangat dihindari karena bersifat
+toksik bagi organisme akuatik bahkan pada
+konsentrasi yang rendah. Stickney (2005)
+menyatakan bahwa konsentrasi ammonia
+dalam media budidaya harus lebih rendah dari
+0,8 mg/L.
+Dalam sistem akuakultur, secara alami
+terjadi siklus nitrogen dalam air (Gambar 1)
+dengan input nitrogen paling utama berasal
+
+dari pakan buaian (Crab et al., 2007). Dari
+sejumlah pakan yang dimasukkan kc kolam,
+sebagian tidak termakan oleh ikan, sementara
+pakan yang dikonsumsi sebagian dikonversi
+mcnjadi biomasa ikan dan sebagian lagi
+diekskresikan
+sebagai
+ammonia
+atau
+dikeluarkan sebagai feses. Pakan yang tidak
+termakan dan feses akan tcrdckomposisi oleh
+bakteri yang diikuti dengan pelepasan
+ammonia yang kemudian terakumulasi dalam
+air bersaraa dengan hasil ekskresi ikan.
+Melalui peranan bakteri nitrifikasi dan
+denitrifikasi yang terdapat dalam air dan
+sedimcn, TAN dalam air kemudian dapat
+ditransformasi menjadi nitrit, nitrat dan gas
+nitrogen (Ebeling et al., 2006; Hargreaves,
+1998). Selain itu TAN dan nitrat dapat
+diasimilasi oleh fitoplankton atau tanaman
+yang terdapat dalam air yang kemudian dapat
+dimanfaatkan oleh organisme budidaya yang
+memang dapat memanfaatkannya. Secara
+garis besar ketiga proses alami konversi N
+tersebut dikelompokkan menjadi tiga yaitu
+konversi secara fotoautotrofik oleh alga dan
+tanaman air, secara kemoautotrofik melalui
+oksidasi oleh bakteri nitrifikasi dan
+immobilisasi secara heterotrofik oleh bakteri
+heterotrof (Ebeling et al., 2006).
+Crab et at. (2007) menyatakan bahwa
+eliminasi kelebihan N terutama ammonia,
+nitrit dan nitrat dalam sistem budidaya dapat
+dikelompokkan menjadi dua, yaitu eliminasi
+N di luar wadah budidaya dan di dalam wadah
+budidaya. Eliminasi N di luar wadah budidaya
+dibedakan menjadi beberapa jenis seperti
+kolam perlakuan (atau reservoir) dan
+kombinasi bak sedimentasi dan bak nitrifikasi
+(biofilter). Sementara eliminasi N dalam
+wadah budidaya dilakukan dengan prinsip
+utama konversi N oleh bakteri heterotrof dan
+fitoplankton. Dua metoda eliminasi N dalam
+media budidaya yang sedang berkembang
+adalah sistem perifiton dan teknologi bioflok
+(Biofloc Technology,
+BFT).
+Teknologi Bioflok
+Teknologi bioflok merupakan salah satu
+alternatif baru dalam mengalasi masalah
+kualitas air dalam akuakultur yang diadaptasi
+dari teknik pcngolahan limbah domestik
+secara konvensional (Avnimelech, 2006; de
+
+Schryver et al., 2008). Prinsip utama yang
+diterapkan dalam teknologi ini adalah
+manajemen kualitas air yang didasarkan pada
+kemampuan bakteri heterotrof untuk
+memanfaatkan N organik dan anorganik yang
+terdapat di dalam air.
+Pada kondisi C dan N yang seimbang
+dalam air, bakteri heterotrof yang merupakan
+akan memanfaatkan N, baik dalam bentuk
+organik maupun anorganik, yang terdapat
+dalam air untuk pembentukan biomasa
+sehingga konsentrasi N dalam air menjadi
+berkurang (de Schryver et al., 2008). Secara
+teoritis, pemanfaatan N oleh bakteri heterotrof
+dalam sistem akuakultur disajikan dalam
+reaksi kimia berikut (Ebeling et al., 2006):
+NH4+ + 1.18C6H12O6 + HC03- +
+2.06O2  C5H7O2N + 6.06H2O + 3.07CO2
+Dari persamaan tersebut maka dapat
+diketahui bahwa secara teoritis untuk
+mengkonversi setiap gram N dalam bentuk
+ammonia, diperlukan 6,07 g karbon organik
+dalam bentuk karbohidrat, 0,86 karbon
+anorganik dalam bentuk alkalinitas dan 4,71 g
+oksigen terlarut. Dari persamaan ini juga
+diperoleh bahwa rasio C/N yang diperlukan
+oleh bakteri heterotrof adalah sekitar 6.
+Goldman (1987) menyatakan bahwa pada
+substrat dengan rasio C/N sama dengan atau
+lebih dari 10, bakteri heterotrof tidak akan
+meregenerasi ammonia dari hasil kalabolisme
+bahan organik (asam amino) dan sebaliknya
+akan memanfaatkannya untuk membentuk sel
+baru. Sebaliknya, pada rasio C/N yang rendah
+(<1,5) maka bakteri heterotrof akan
+melepaskan ammonia ke lingkungannya
+(Hargreaves, 2006). Avnimelech (1999)
+menyatakan bahwa untuk aplikasi teknologi
+bioflok, rasio C/N diupayakan mencapai 10
+atau lebih.
+Teknologi bioflok, sering disebut juga dengan
+teknik suspensi aktif (activated suspension
+technique, AST), menggunakan aerasi
+konstan untuk memungkinkan terjadinya
+proses dekomposisi secara aerobik dan
+menjaga flok bakteri berada dalam suspensi
+(Azim et al., 2007). Dalam sistem ini, bakteri
+heterotrof yang tumbuh dengan kepadatan
+yang tinggi berfungsi sebagai bioreaktor
+
+yang mengontrol kualitas air terutama
+konsentrasi N serta sebagai sumber protein
+bagi organisme yang dipelihara.
+Pembentukan bioflok oleh bakteri terutama
+bakteri heterotrof secara umum bertujuan
+untuk meningkatkan pemanfaatan nutrien.
+menghindari stress lingkungan dan predasi
+(Bossier & Verstraete, 1996; de Schryver et
+al., 2008). Flok bakteri tersusun atas
+campuran berbagai jenis mikro-organisme
+(bakteri pembentuk flok, bakteri filamen,
+fungi), partikel-partikel tersuspensi, berbagai
+koloid dan polimer organik, berbagai kation
+dan sel-sel mati (Jorand et al., 1995,
+Verstraete, et al., 2007; de Schryver et al.,
+2008) dengan ukuran bervariasi dengan
+kisaran 100 - 1000 µm (Azim et al., 2007; de
+Schryver et al., 2008). Selain flok bakteri,
+berbagai jenis organisme lain juga ditemukan
+dalam bioflok scperti protozoa, rotifer dan
+oligochaeta (Azim et al., 2007; Ekasari, 2008).
+Komposisi organisme dalam flok akan
+mempengaruhi
+struktur
+bioflok
+dan
+kandungan nutrisi bioflok (Izquierdo, et al.,
+2006; Ju et al., 2008). Ju et al. (2008)
+melaporkan bahwa bioflok yang didominasi
+oleh bakteri dan mikroalga hijau mengandung
+protein yang lebih tinggi (38 dan 42% protein)
+daripada bioflok yang didominasi oleh diatom
+(26%).
+Kondisi
+lingkungan
+abiotik
+juga
+berpengaruh terhadap pembentukan bioflok
+seperti rasio C/N, pH, temperatur dan
+kecepatan pcngadukan (de Scryver et al.,
+2008; Van Wyk & Avnimeleeh, 2007).
+Sementara menurut de Schryver et al. (2008),
+mekanisme pembentukan flok oleh komunitas
+bakteri merupakan proses yang kompleks
+yang merupakan kombinasi berbagai
+fenomena fisika, kimia dan biologis seperti
+interaksi permukaan bakteri secara fisik dan
+kimiawi, dan quorum sensing sebagai kontrol
+biologis.
+Aplikasi
+teknologi
+bioflok
+dalam
+akuakultur
+Hingga saat ini teknologi bioflok telah
+diaplikasikan pada budidaya ikan dan udang
+seperti nila, sturgeon, snook, udang putih dan
+udang windu (Arnold et al., 2009;
+Avnimeleeh, 2005, 2007; Burford et al., 2003,
+2004; Hari et al., 2004; Serfling, 2006).
+
+Beberapa penelitian menunjukkan bahwa
+aplikasi teknologi bioflok berperan dalam
+perbaikan
+kualitas
+air,
+peningkatan
+biosekuriti,
+peningkatan
+produktivitas.
+peningkatan efisiensi pakan serta penurunan
+biaya produksi melalui penurunan biaya
+pakan (Avnimelech, 2007; Crab et al., 2008,
+2009; Ekasari, 2008; Hari et al., 2006, Kuhn
+et al., 2009; Taw, 2005).
+Kemampuan bioflok dalam mengontrol
+konsentrasi ammonia dalam sistem akuakultur
+secara teoritis maupun aplikasi telah terbukti
+sangat tinggi. Secara teoritis Ebeling et al.
+(2006) dan Mara (2004) menyatakan bahwa
+immobilisasi ammonia oleh bakteri heterotrof
+40 kali lebih cepat daripada oleh bakteri
+nitrifikasi. Secara aplikasi de Schryver et al.
+(2009) menemukan bahwa bioflok yang
+ditumbuhkan dalam bioreaktor dapat
+mengkonversi N dengan konsentrasi 110 mg
+NH4/L hingga 98% dalam sehari. Penelitian
+ini menunjukkan bahwa bioflok memiliki
+kapasitas yang besar dalam mengkonversi
+nitrogen anorganik dalam air, sehingga dapat
+memperbaiki kualitas air dengan lebih cepat.
+Hasil-hasil penelitian mengenai aplikasi
+bioflok dalam kegiatan akuakultur secara
+langsung juga menunjukkan bahwa kualitas
+media pemcliharaan, pertumbuhan dan
+efisiensi pakan udang windu yang dipelihara
+dengan peningkatan rasio C/N secara
+signifikan lebih baik daripada kontrol (Hari et
+al. 2004,2006; Samocha et al., 2007).
+Peningkatan efisiensi pakan juga ditunjukkan
+oleh beberapa penelitian aplikasi bioflok
+(Azim & Little, 2008; Hari et al., 2004, 2006).
+Hal ini menunjukkan bahwa keberadaan
+bioflok sebagai suplemen pakan telah
+meningkatkan efisiensi pemanfaatan nutrien
+pakan
+secara
+keseluruhan,
+Beberapa
+penelitian menunjukkan bahwa bioflok dapat
+dimanfaatkan, baik secara langsung maupun
+sebagai tepung untuk bahan baku pakan
+(Azim & Little, 2008; Ekasari, 2008; Kuhn et
+al., 2008; 2009). Adapun kandungan nutrisi
+bioflok umumnya beragam pada setiap
+penelitian (Tabel 1) namun dapat mememuhi
+kebutuhan organisme akuatik pada umumnya,
+Craig & Helfrich (2002) menyatakan bahwa
+pakan ikan sebaiknya mengandung 18 - 50%
+
+protein, 10 - 25% lemak, 15 - 20%
+karbohidrat, <8,5% abu, dan sejumlah vitamin
+dan mineral. Penelitian pemanfaatan nitrogen
+bioflok oleh ikan nila dengan menggunakan
+isotop N oleh Avnimelech & Kochba (2009)
+menunjukkan bahwa ikan nila dapat
+memanfaatkan 240 mg N bioflok/kg ikan atau
+setara dengan 25% dari protein yang
+ditambahkan dalam pakan. Dari teknologi
+bioflok juga telah dikembangkan pembuatan
+tepung bioflok yang telah diujicobakan pada
+udang putih (Kuhn et al., 2009). Penelitian ini
+melaporkan bahwa udang yang diberi
+substitusi bioflok menunjukkan pertumbuhan
+yang lebih baik dari kontrol. Taw et al. (2008)
+melaporkan bahwa aplikasi teknologi bioflok
+di tambak udang di Indonesia yang
+dikombinasikan dengan panen secara parsial
+dapat menurunkan biaya produksi hingga 20%
+dengan FCR kurang dari 1,1. Dalam penelitian
+ini diperoleh data bahwa biaya yang
+diperlukan untuk energi yang digunakan untuk
+aerasi pada budidaya udang dengan kepadatan
+yang tinggi dengan sistem bioflok dapat
+dikurangi dengan dilakukannya pemanenan
+parsial.
+Pertumbuhan bioflok dalam sistem
+akuakultur dipcngaruhi oleh fakior kimia,
+fisika dan biologis dalam air. Beberapa faktor
+yang perlu diperhatikan untuk mendorong
+pembentukan bioflok dalam sistem budidaya
+diantaranya adalah pcrgantian air seminimal
+mungkin hingga mendekati nol, aerasi kuat
+serta peningkatan rasio C/N (Van Wyk &
+Avnimelech, 2007). Menurut Van Wyk &
+Avnimelech (2007) karakteristik sistem
+bioflok adalah kebutuhan oksigen yang tinggi
+dan laju produksi biomas bakteri yang tinggi.
+Oleh karena itu dalam sistem ini diperlukan
+aerasi dan pengadukan yang kuat untuk
+menjamin kebutuhan oksigen baik dari
+organisme budidaya maupun biomas bakteri
+serta untuk memastikan bahwa bioflok tetap
+tersuspensi dalam air dan tidak mengendap.
+intensitas pengadukan dan kandungan oksigen
+juga mempengaruhi struktur dan komposisi
+bioflok (de Schryver et al., 2008). Intensitas
+pengadukan yang terlalu tinggi dapat
+mempengaruhi ukuran bioflok sedangkan
+kandungan oksigen yang terlalu rendah dapat
+menyebabkan dominasi bakteri filamen pada
+
+bioflok yang akan menyebabkan bioflok
+cenderung terapung.
+Pakan buatan yang digunakan dalam
+kegiatan akuakultur umumnya mengandung
+protein yang cukup tinggi dengan kisaran 18 50% (Craig & Helfrich, 2002) dengan rasio
+C/N kurang dari 10 (Azim et al., 2007). Hal
+ini tentunya berdampak pada keseimbangan
+rasio C/N dalam media budidaya, sehingga
+untuk penerapan teknologi bioflok, rasio C/N
+perlu ditingkatkan lagi. Peningkatan rasio C/N
+dalam air untuk menstimulasi pertumbuhan
+bakteri heterotrof dapat dilakukan dengan
+mengurangi
+kandungan
+protein
+dan
+meningkatkan kandungan karbohidrat dalam
+pakan (Azim et al., 2007; Tacon et al., 2004)
+atau
+dengan
+menambahkan
+sumber
+karbohidrat secara langsung ke dalam air
+(Avnimelech, 2007: Samocha et al., 2007).
+Sumber karbohidrat dapat berupa gula
+sederhana seperti gula pasir atau molase
+(Ekasari, 2008; Kuhn et al., 2008, 2009;
+Samocha et al., 2007), atau bahan-bahan pati
+seperti tepung tapioka, tepung jagung, tepung
+terigu dan sorgum (Avnimelech, 1999; Hari et
+al., 2004; Van Wyk & Avnimelech, 2007).
+Penambahan kandungan karbohidrat dalam
+pakan tentunya akan merubah komposisi
+pakan secara keseluruhan sehingga diperlukan
+adanya penyesuaian bahan-bahan tertentu
+dalam pakan seperti peningkatan kadar
+vitamin dan mineral. Menurut Avnimelech
+(1999) jumlah karbohidrat yang ditambahkan
+untuk mendorong pembentukan bioflok dapat
+dihitung dengan
+menggunakan rumus
+berikut:
+Karbohidrat (kg)= Pakan (kg) x % N dalam
+pakan x % ekskresi N/0,05
+Penggunaan sumber karbon juga perlu
+memperhatikan beberapa faktor diantaranya
+kecepatan pemanfaatan karbohidrat oleh
+bakteri, kandungan protein dalam sumber
+karbohidrat itu sendiri, kecernaan karbohidrat
+oleh organisme budidaya, serta harga per unit
+karbohidrat. Sumber karbon juga dapat
+mempengaruhi kandungan nutrisi bioflok
+seperti yang ditunjukkan dalam Tabel 1 (Crab
+et al., 2009; de Schryver et al., 2008; Ekasari,
+2008). Selain aerasi dan pengadukan,
+dan
+penambahan karbon, pembentukan dan
+
+struktur bioflok juga dipengaruhi oleh faktor
+kimia, fisika dan biologis lain scpcrti laju
+akumulasi bahan organik, temperatur dan pH
+(de Schryver et a/., 2008).
+Selain melalui pengamatan visual dan
+mikroskopik (Gambar 2), pembentukan dan
+keberadaan bioflok dalam sistem akuakultur
+dapat diketahui melalui pengukuran beberapa
+parameter kimia dan fisika air. Parameter
+kimia yang sering digunakan sebagai indikator
+utama keberadaan bioflok meliputi chemical
+oxygen demand (COD), atau jumlah oksigen
+yang diperlukan untuk mengoksidasi seluruh
+bahan organik dalam sampel secara kimiawi,
+dan biological oxygen demand (BOD) atau
+jumlah oksigen yang diperlukan oleh
+mikroorganisme untuk mengkonversi bahan
+organik melalui proses biokimia. Pada
+akuakutur dengan sistem bioflok, kebutuhan
+akan oksigen akan meningkat terutama
+disebabkan oleh tingginya kepadatan bakteri
+heterotrof di dalam air dan tentunya
+berpengaruh pada nilai COD maupun BOD.
+Parameter fisika yang dapat digunakan untuk
+mendetcksi keberadaan bioflok adalah
+suspended solids (SS)f volatile suspended
+solids (VSS), floc volume index (FVI). Salah
+satu karakter utama sistem bioflok adalah
+tingginya padatan tersuspensi terutama VSS
+yang merupakan indikator tingginya bahan
+organik tersuspensi dalam air.
+Teknologi bioflok di masa depan
+Dengan berbagai kelebihan yang telah
+dijelaskan di atas maka jelaslah bahwa
+teknologi bioflok merupakan salah satu
+alteraatif teknologi untuk kegiatan akuakultur
+yang
+ramah
+lingkungan
+dan
+berkesinambungan. Namun demikian dalam
+aplikasi langsung pada akuakultur sistem
+intensif
+masih
+ditemukan
+beberapa
+permasalahan dan aspek kajian yang
+membutuhkan penelitian lebih lanjut seperti
+kebutuhan energi untuk aerasi dan
+pengadukan, kestabilan sistem, kandungan
+nutrisi bioflok serta pengaruh bioflok terhadap
+transmisi dan infeksi penyakit.
+Kepadatan bakteri yang tinggi dalam air
+akan menyebabkan kebutuhan oksigen yang
+lebih tinggi sehingga aerasi untuk penyediaan
+
+oksigen dalam penerapan teknologi bioflok
+merupakan salah satu kunci keberhasilan.
+Selain berperan dalam penyediaan oksigen,
+aerasi juga berfungsi untuk mengaduk
+(mixing) air agar bioflok yang tersuspensi
+dalam kolom air tidak mengendap.
+Pengendapan bioflok di dasar wadah harus
+dihindari selain untuk mencegah terjadinya
+kondisi anaerobik di dasar wadah akibat
+akumulasi bioflok, juga untuk memastikan
+bahwa bioflok tetap dapat dikonsumsi oleh
+organisme budidaya. Untuk tercapainya
+tujuan aerasi ini, maka metoda aerasi yang
+paling tepat untuk sistem bioflok perlu dikaji
+lebih dalam lagi baik dari segi teknis maupun
+ekonomis.
+Seperti yang dijelaskan pada uraian di atas
+bahwa pembentukan bioflok merupakan
+mekanisme yang kompleks yang melibatkan
+berbagai aspek fisika, kimia dan biologis,
+sehingga pembahan pada salah satu parameter
+akan mempengaruhi parameter lain. Azim &
+Little (2008) menemukan bahwa kualitas air
+di wadah pemeliharaan dengan perlakuan
+teknologi bioflok pada pemeliharaan ikan nila
+cenderung tidak stabil. Tingginya aktivitas
+respirasi mikroba dalam sistem bioflok juga
+menyebabkan terjadinya fluktuasi pada pH
+dan alkalinitas (Azim et al., 2007).
+Meningkatnya kekeruhan akibat tingginya
+padatan tersuspensi juga dapat berpengaruh
+pada kemampuan melihat beberapa jenis ikan
+sehingga berpengaruh pada jumlah pakan
+yang dimakan. Laju akumulasi bahan organik,
+laju konsumsi bioflok oleh organisme
+budidaya serta laju peningkatan biomas
+bakteri merupakan faktor-faktor yang harus
+diketahui untuk mengontrol konsentrasi flok
+yang optimum dalam air. Jika laju akumulasi
+bahan organik tinggi maka laju peningkatan
+biomas bakteri akan tinggi pula. Jika hal ini
+tidak diikuti dengan laju konsumsi bioflok
+oleh organisme budidaya maka akan terjadi
+akumulasi bioflok yang berlebihan yang
+akhirnya justru akan membuat sistem
+budidaya menjadi tidak stabil.
+Salah satu solusi alternatif dari dua
+permasalahan di atas adalah dengan
+memisahkan reaktor bioflok dengan wadah
+pemeliharaan (Azim & Little, 2008). Dengan
+
+cara tersebut, bioflok dapat berfungsi sebagai
+biofilter scperti halnya dalam sistem
+resirkulasi. Bioflok yang dihasilkan dari
+reaktor ini kemudian dapat dimanfaatkan
+langsung sebagai pakan untuk organisme
+budidaya atau dibuat menjadi tepung untuk
+bahan baku pakan (Kuhn et at., 2008,2009).
+Tabel 1 menunjukkan bahwa kandungan nutrisi
+bioflok cenderung tidak stabil dan dipengaruhi
+oleh berbagai faktor seperti sumber karbon dan
+komposisi biologisnya. Informasi mengenai
+kandungan nutrisi bioflok juga masih terbatas
+pada kandungan nutrisi ulama seperti protein
+kasar, lemak kasar, kadar abu dan karbohidrat.
+
+Dengan demikian penelitian lanjutan aspck
+nutrisi bioflok masih perlu dilakukan.
+Penelitian oleh de Schryver et al. (2009)
+menunjukkan bahwa bioflok mengandung
+poly-b-hydroxybutyrate (PHB) berkisar antara
+0,9 hingga 16% yang cukup memadai untuk
+memenuhi kebutuhan ikan akan PHB yang tidak
+lebih dari 1%. PHB merupakan produk polimer
+intraselular yang dihasilkan oleh berbagai jenis
+mikroorganisme sebagai bentuk simpanan energi
+dan karbon (Defoirdt et al., 2007). Polimer ini
+diduga mempunyai efek pencegahan dan
+pengobatan terhadap infeksi Vibrio serta
+manfaat prebiotik dalam akuakultur (Defoirdt
+et at., 2007; de Schryver et al., 2008).
+
+KESIMPULAN
+Secara teoritis maupun aplikasi, penerapan
+teknologi bioflok dapat meningkatkan kualitas
+air melalui pengontrolan konsentrasi ammonia
+dalam air dan meningkatkan efisiensi
+pemanfaatan nutrien melalui pemanfaatan
+bioflok scbagai sumber pakan bagi organisme
+yang dibudidayakan.
+DAFTAR PUSTAKA
+Ailsopp, M., Johnston, P., Santillo, D. 2008.
+Challenging the aquaculture industry on
+suslainabilily. Greenpeace International.
+The Netherlands. 22p.
+Avnimelech, Y., 1999. Carbon/nitrogen ratio
+as a kontrol element in aquaculture
+sistems. Aquaculture 176,227-235.
+Avnimelech, Y., 2005. Tilapia harvest
+microbial floes in active suspension
+research pond. Glob. Aquac. Advocate,
+October 2005.
+Avnimcleeh,Y., 2007, Feeding with microbial
+flocs by tilapia in minimal discharge
+bio-flocs technology ponds. Aquaculture
+264,140-147-
+
+Avnimelech, Y., Kocba, M, 2009. Evaluation
+of nitrogen uptake and excretion by
+tilapia in bio floc tanks, using 15N
+tracing. Aquaculture, 287; 163-168.
+Arnold, S.J., Coman, F.F., Jackson, C.J.,
+Groves, S. 2009. High-intensity, zero
+water exchange production of juvenile
+tiger shrimp. Penaeus monodon An
+evaluation of artificial substrates and
+stocking density. Aquaculture 293, 42
+-48.
+Azim, M.E., Little, D.C., Bron, .I.E., 2007.
+Microbial protein production in activated
+suspension tanks manipulating C/N ratio
+in feed and implications for fish culture.
+Bioresource Technology 99, 3590-3599.
+Azim, M.E., Little, D.C. 2008. The biofloc
+technology (BFT) in indoor tanks: Water
+quality, biofloc composition, and growth
+and welfare of Nile tilapia (Oreochromis
+niloticus). Aquaculture 283,29-35.
+Bossier, P., Verstraete, W., 1996. Triggers for
+microbial aggregation in activated
+sludge? Appl Microbiol Biotechnol 45,
+1-6.
+
+Burford, M.A., Thompson, P.J., McIntosh,
+R.P., Bauman, R.H.,
+Pearson,
+D.C.,
+2003. Nutrien and microbial dynamics
+in high-intensity, zero exchange shrimp
+ponds in Belize. Aquaculture 219, 393411.
+Burford, M.A., Thompson, P.J., McIntosh,
+R.P.,
+Bauman,
+R.H.,
+Pearson,
+D.C.,
+2004. The contribution of flocculated
+material to shrimp (Litopenaeus
+vannamei) nutrition in a high-intensity,
+zeroexchange sistem. Aquaculture 232,
+525-537.
+Crab, R., Avnimelech, Y., Defoirdt, T.,
+Bossier, P., Verstraete, W., 2007.
+Nitrogen removal in aquaculture towards
+sustainable production. Aquaculture
+270,1-14.
+Crab, R., Kochva, M., Verstraete, W.,
+Avnimelech, Y. 2008. Bio-flocs
+technology application in over-wintering
+of tilapia. Aquaculture Engineering 40,
+105-112.
+Crab, R., Chielens, B., Wille, M., Bossier, P.,
+Verstraete, W. 2009. The effect of
+different carbon sources on the
+nutritional value of bioflocs, a feed for
+Macrobrachium rosenbergii post larvae.
+Aquaculture Research, in press.
+Craig, S., Helfrich, L. A., 2002.
+Understanding fish nutrition, feeds, and
+feeding. Virginia Cooperative Extension,
+Virginia Polytechnic Institute and State
+University,
+Publication
+number.
+420-256.
+Defoirdt, T., Halet, D., Vervaeren, H., Boon,
+N., Van de Wiele, T., Sorgeloos, P.,
+Bossier, P., Verstraete, W., 2007. The
+bacterial
+storage
+compound
+of
+poly-b-hydrobutyrate protects Artemia
+fransiseana from pathogenic Vibrio
+campbellii. Environ. Microbiol. 9 (2),
+445-452. de Schryver, P., Crab, R.,
+Defoirdt, T., Boon, N., Verstraete, W.,
+2008. The basics of bio-flocs technology:
+The added value lor aquaculture.
+Aquaculture 277,125 -137.
+de Schryver, P. and Verstraete, W. 2009.
+Nitrogen removal from aquaculture pond
+water
+by
+heterotrophic
+nitrogen
+assimilation in lab-scale sequencing
+
+batch reaktors. Bioresource Technology
+100, 1162-1167.
+Ebeling, J.M., Timmons, M,B,, Bisogni, J.J.,
+2006. Engineering analysis of the
+stoichiometry of photoautotrophic,
+autotrophic and heterotrophic removal of
+ammonia-nitrogen
+in
+aquaculture
+sistems. Aquaculture 257, 346—358.
+Ekasari, J. 2008. Bioflocs technology: the
+effect of different carbon source, salinity
+and the addition of probiotics on the
+primary nutritional value of the bioflocs.
+Thesis.
+Faculty
+of
+Bioscience
+Engineering. Ghent University. Belgium.
+FAO, 2007. The state of world fisheries and
+aquaculture 2006. FAO, Rome.
+FAO, 2009. The state of world fisheries and
+aquaculture 2008. FAO, Rome.
+Hargreaves,
+J.A.,
+1998.
+Nitrogen
+biogeochemistry of aquaculture ponds.
+Aquaculture, 166, 181-212.
+Hargreaves, J.A., 2006. Photosynthetic
+suspended-growth
+sistems
+in
+aquaculture. Aquae. Eng. 34,344-363.
+Hari, B., Madhusoodana, K.., Varghese, J.T.,
+Schrama, J.W., Verdegem, M.C.J., 2004.
+Effects of carbohydrate addition on
+production in extensive shrimp culture
+sistems. Aquaculture 241, 179-194.
+Hari, B., Kurup, B.M.,Varghese, J.T.,
+Schrama, J.W., Verdegem,M.C.J., 2006.
+The effect of carbohydrate addition on
+water quality and the nitrogen budget in
+extensive shrimp culture sistems.
+Aquaculture 252, 248-263.
+Izquierdo, M., Forster, L, Divakaran, S.,
+Conquest, L., Decamp, O., Tacon, A.,
+2006. Effect of green and clear water and
+lipid source on survival, growth and
+biochemical composition of Pacific
+white shrimp Litopenaeus vannamei.
+Aquaculture Nutrition 12,192 - 202.
+Ju, Z.Y., Forster, 1., Conquest, L., Dominy,
+W., Kuo, W.C., Horgen, F.D., 2008.
+Determination of microbial community
+structures of shrimp floe cultures by
+biomarkers and analysis of floe amino
+acid profiles. Aquaculture Research 39,
+118-133.
+
+Kuhn, D.D., Boardman, G.D., Craig, S.R., Flick
+
+Tacon, A.G.J., Cody, J.J., Conquest, L.D.,
+
+Jr., G.J., McLean, E. 2008. Use of
+
+Divakaran, S., Forster, LP., Decamp,
+
+microbial flocs generated from tilapia
+
+O.E., 2002. Effect of culture sistem on
+
+effluent as a nutritional supplement for
+
+the nutrition and growth performance of
+
+shrimp,
+
+Pacific
+
+Litopenaeus
+
+recirculating
+
+vannamei,
+
+aquaculture
+
+in
+
+systems-
+
+Journal of the World Aquaculture
+Society 39,72-82.
+
+white
+
+shrimp
+
+Litopenaeus
+
+vannamei (Boone) fed different diets.
+Aquaculture Nutrition 8,121 -137.
+Taw, N., 2005. Shrimp farming in Indonesia:
+
+Kuhn, D.D., Boardman, G.D., Lawrence,
+
+Evolving industry responds to varied
+
+A.L., Marsh, L., Flick Jr., G.J. 2009.
+
+issue. Global Aquaculture Advocate
+
+Microbial floc meal as a replacement
+
+Magazine. August 2005, 65 - 67.
+
+ingredient for fish meal and soybean
+
+Taw, N., Fuat, J., Tarigan, N. and Sidabutar, K.
+
+protein in shrimp feed. Aquaculture 296,
+
+2008. Partial harvest/biofloc sistem
+
+51-57.
+
+promising for Pacific white shrimp.
+
+Mara, D., 2004. Domestic waste water
+treatment in developing countries.
+Earthscan. UK. 293p.
+
+Global Aquaculture Advocate Magazine.
+September/October 2008, 84 - 86
+Van Wyk, P. and Avnimelech, Y. 2007.
+
+Samocha, T.M., Patnaik, S., Speed, M., Ali,
+
+Management of nitrogen cycling and
+
+A.M., Burger, J.M., Almeida, R.V.,
+
+microbial populations in biofloc-based
+
+Ayub, Z., Harisanto, M., Horowitz, A.,
+
+aquaculture sistems. Presented in World
+
+Brock, D.L., 2007. Use of molasses as
+
+Aquaculture Society Meeting, San
+
+carbon source in limited discharge
+
+Antonio, Texas, USA. February 26 to
+
+nursery and grow out sistems for
+
+March 2,2007.
+
+Litopenaeus vannamei. Aquac. Eng. 36,
+184-191.
+
+Verstraete, W., De Schryver, P., Deroirdt, T.,
+Crab, R. 2007. Added value of microbial
+
+Serfling, S.A., 2006. Microbial flocs: Natural
+
+life in flocs. Presented in World
+
+treatment method supports freshwater,
+
+Aquaculture Society Meeting, San
+
+marine species in recirculating sistems.
+
+Antonio, Texas, USA. February 26 to
+
+Global
+
+March 2. 2007.
+
+Aquaculture
+
+Advocate
+
+June 2006, 34 - 36.
+Stickney,
+
+R.R.,
+
+2005.
+
+Wasielesky Jr., W., Atwood, H., Stokes, A.,
+Aquaculture:
+
+An
+
+Browdy, C.L., 2006. Effect of natural
+
+introductory text. CABI Publishing.
+
+production
+
+in
+
+USA.256p.
+
+suspended
+
+microbial
+
+Tacon, A.G.J. 1987. The Nutrition and
+
+a
+
+zero
+
+shrimp
+
+Training Manual. 1. The Essential
+
+Aquaculture 258,396-403.
+
+Food
+
+and
+
+Agriculture
+
+Organization of the United Nations,
+GCP/RLA/075/ITA, Brazil, 117 pp.
+
+floc
+
+based
+
+super-intensive culture sistem for white
+
+Feeding of Farmed Fish and Shrimp—A
+Nutriens.
+
+exchange
+
+Litopenaeus
+
+vannamei.
+
+

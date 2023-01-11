@@ -1,0 +1,810 @@
+ANALISIS PENGARUH CURAH HUJAN
+TERHADAP FLUKTUASI HASIL PRODUKSI TANAMAN PADI
+DAS BENGAWAN SOLO HULU BAGIAN TENGAH TAHUN 1986 - 2045
+
+Disusun sebagai salah satu syarat menyelesaikan Program Studi Strata I pada
+Jurusan Geografi Fakultas Geografi
+
+Oleh :
+
+AMBAR ASMORO
+E100120070
+
+PROGRAM STUDI GEOGRAFI
+FAKULTAS GEOGRAFI
+UNIVERSITAS MUHAMMADIYAH SURAKARTA
+2015
+
+i
+
+ii
+
+iii
+
+ANALISIS PENGARUH CURAH HUJAN
+TERHADAP FLUKTUASI HASIL PRODUKSI TANAMAN PADI
+DAS BENGAWAN SOLO HULU BAGIAN TENGAH TAHUN 1986 – 2045
+Abstrak
+Perubahan iklim menjadi salah satu penyebab adanya bencana
+meterologis di berbagai belahan dunia. Indonesia merasakan dampak
+akibat perubahan iklim yang ditunjukkan musim penghujan dan kemarau
+yang tidak menentu. Dengan adanya akibat tersebut tidak terlepas
+berimbas dampaknya bagi kelangsungan kehidupan manusia salah satunya
+mengenai ketahanan pangan.
+DAS Bengawan Solo Hulu Tengah merupakan daerah yang
+aktivitas sektor pangan didominasi oleh pertanian padi. Oleh karena itu,
+penelitian ini dilaksanakan dengan tujuan untuk mengetahui fenomena
+curah hujan tahunan tahun 1986-2014 dan analisis trend pengaruh curah
+hujan terhadap produksi padi 1986-2045. Metode yang digunakan adalah
+analisis data sekunder. Data yang digunakan adalah data time series curah
+hujan tahunan dan produksi padi tahun 1985-2014.
+Hasil penelitian menunjukkan bahwa selama tahun 1986-2014
+terjadi 5 kali tahun basah yaitu tahun 1986, 1995, 1998, 1999, dan 2010
+dengan jumlah bulan basah lebih banyak dari bulan kering yang berselisih
+minimal 2 bulan. Peristiwa tahun kering terjadi sebanyak 6 kali yaitu 1990,
+1991, 1997, 2001, 2002, dan 2003 dengan jumlah bulan kering lebih
+banyak dari bulan basah. Selain tahun tersebut, maka terjadi peristiwa
+tahun normal sebanyak 18 kali. Analisis trend jangka panjang melalui
+kuadrat minimum menunjukkan bahwa prediksi curah hujan tahun selama
+tahun 1986-2045 mengalami penurunan, sedangkan produksi padi
+meningkat. Adapun analisis trend jangka pendek melalui moving average
+3 tahunan antara curah hujan dan produksi padi tahunan menghasilkan 4
+pola trend antara lain pola ke-1, pola ke-2, pola ke-3, dan pola ke-4. Pola
+ke-1 membentuk pola curah hujan naik produksi padi naik. Hal ini
+disebabkan berlimpahnya sumber air untuk pengairan padi. Pola ke-2
+membentuk pola curah hujan naik produksi padi menurun. Hal ini
+disebabkan banjir, puting beliung, tungro, dan serangan wereng cokelat.
+Pola ke-3 membentuk pola curah hujan menurun produksi padi naik. Hal
+ini disebabkan berfungsinya infrastruktur pengairan untuk mengairi padi
+ketika terjadi defisit air hujan. Pola ke-4 membentuk pola curah hujan
+menurun produksi padi menurun. Hal ini disebabkan adanya bencana
+kekeringan.
+Kata kunci : perubahan iklim, BMKG, analisis trend, moving average.
+Abstract
+Climate change has become one of the causes of the presence
+of meterologis disasters in various parts of the world. Indonesia felt the
+impacts due to climate change indicated the rainy season and the dry
+
+1
+
+season erratic. The result did not affect the survival impact regardless of
+human life the one regarding food security.
+Bengawan Solo River watershed upstream of the middle is the
+activity of the food sector is dominated by rice farming. Therefore, this
+study was carried out with the purpose to know the phenomenon of annual
+precipitation in 1986-2014 and the analysis of influence of rainfall trend
+towards padi production 1986-2045. The methods used are secondary data
+analysis. The data used time series data of annual rainfall and the rice
+production in 1985-2014.
+The results showed that during the years 1986-2014 occurs 5
+times wet years i.e. in 1986, 1995, 1998, 1999, and 2010 with the number
+of wet months more than dry months with disfference at least 2 months.
+The dry years of the events occurred as much as 6 times i.e., 1990, 1991,
+1997, 2001, 2002, and 2003 with the number of months to dry more than
+wet months. In addition that year, then a normal year events occur as many
+as 18 times. Long-term trend analysis through minimum squares indicate
+that the prediction of rainfall during the year 1986-2045 decline, while rice
+production is increasing. As for the short-term trend analysis through the 3
+annual moving average between rainfall and annual rice production yield
+generates 4 patterns such as 1st pattern, 2nd pattern, 3rd pattern, and 4th
+pattern. The 1st pattern forms rainfall patterns rising rice production to
+rise. This is due to the abundance of water sources for irrigation of rice.
+The 2nd pattern forms rainfall patterns rising rice production declined. This
+is due to the flood, stormwind, tungro, and brown planthopper attack. The
+3rd pattern forms declining rainfall pattern of rice production to rise. This
+is due to the functioning infrastructure of irrigation to irrigate the rice
+deficit when rain water. The 4th pattern of rainfall patterns form a declining
+rice production declined. This is due to the existence of a catastrophic
+drought.
+Keywords: climate change, BMKG, trend analysis, moving average.
+1. PENDAHULUAN
+Perubahan iklim merupakan salah satu isu dunia yang sedang marak
+diperbincangkan pada lingkup global terkait dengan iklim global yang
+menunjukkan keanehan sehingga muncul berbagai bencana meteorologis dan
+terganggunya stabilitas negara. Banjir, anomali musim suatu wilayah, kekeringan
+berkepanjangan, kabar yang menunjukkan bahwa es di kutub mengalami
+pencairan
+
+sehingga
+
+menaikkan
+
+permukaan
+
+air
+
+laut
+
+yang
+
+akhirnya
+
+menenggelamkan pulau-pulau kecil merupakan contoh nyata reaksi global dalam
+merespon kejadian perubahan iklim.
+
+2
+
+Pusat data iklim nasional Amerika Serikat, tidak diragukan lagi Bumi
+memanas pada akhir abad ke-20 sebesar 0,25oC setiap 10 tahun (Pearce, 2003
+dalam Kodoatie dan Sjarief, 2010). Hasil kajian Intergovernmental Panel on
+Climate Change (IPCC) tahun 2007 menunjukkan bahwa sejak tahun 1850
+tercatat 11 dari 12 tahun terpanas terjadi pada kurun waktu 12 tahun terakhir.
+Kenaikan temperatur total dari periode 1850-1899 hingga 2001-2005 adalah
+0,75oC. Muka air laut rata-rata global telah meningkat dengan laju rata-rata 1,8
+mm per tahun dalam rentang watu antara tahun 1961-2003. Kenaikan total muka
+air laut yang berhasil dicatat pada abad ke-20 diperkirakan 0,17 m (Puturuhu,
+2015).
+Indonesia sebagai negara yang terletak di sepanjang garis khatulistiwa
+memiliki iklim tropis yang terdiri atas 2 musim yaitu musim penghujan dan
+musim kemarau. Secara geografis indonesia terletak diantara Samudera Hindia
+dan Samudera Pasifik, sehingga intensitas curah hujan yang diterima Indonesia
+dipengaruhi oleh besarnya penguapan dari kedua samudera tersebut. Peristiwa
+perubahan iklim yang dipicu oleh pemanasan global meningkatkan intensitas
+penguapan, sehingga awan hujan yang diproduksi oleh lautan lebih banyak.
+Pemanasan global juga berdampak pada meningkatnya suhu permukaan Bumi
+sehingga ketika musim kemarau terasa panas yang menyengat. Kusnanto (2011)
+menyatakan bahwa perubahan iklim mengakibatkan efek yang luas terhadap
+lingkungan hidup dan sektor-sektor penghidupan, meliputi sumber air, pertanian,
+keamanan pangan, penyakit menular, keragaman hayati dan kelestarian wilayah
+pantai.
+Indonesia terkenal sebagai salah satu negara yang terkenal dengan
+aktivitas di bidang pertanian. Perubahan iklim di dunia mengancam stabilitas
+ketahanan
+
+pangan
+
+nasional.
+
+Kementrian
+
+Pertanian
+
+dan
+
+WFP
+
+(2015)
+
+mengemukakan bahwa Indonesia merupakan salah satu negara yang paling rawan
+terhadap bencana di dunia. Dalam hal ini bencana alam merupakan faktor utama
+kerawanan pangan transien di Indonesia. Beras yang dihasilkan tanaman padi
+merupakan salah satu komoditas utama bagi Indonesia sehingga padi memiliki
+
+3
+
+perhatian khusus dalam setiap perkembangannya agar mampu berproduksi secara
+optimal dalam menghadapi bencana perubahan iklim.
+
+Gambar 1.1 Peta DAS Bengawan Solo Hulu Bagian Tengah
+Berdasarkan SK Menteri Kehutanan Nomor : 328/Menhut-II/2009
+DAS Bengawan Solo merupakan salah satu DAS prioritas yang mendapatkan
+perlakuan khusus karena memiliki peran vital bagi elemen kehidupan didalamnya.
+Sebagai salah satu komponen unit hidrologi permukaan, DAS Bengawan Solo
+memiliki ketergantungan terhadap intensitas curah hujan yang diterimanya.
+DAS Bengawan Solo Hulu Bagian Tengah merupakan salah satu
+wilayah DAS Bengawan Solo yang didominasi oleh kegiatan pertanian padi. Hal
+tersebut diakibatkan karena wilayah ini didominasi tanah aluvial subur yang
+berasal dari Gunung Merapi dan Gunung Lawu. Dengan adanya perubahan iklim
+maka curah hujan berpengaruh terhadap adanya fluktuasi produksi padi yang
+dihasilkan di wilayah ini.
+4
+
+Dengan alasan tersebut, penelitian ini dilakukan dengan tujuan untuk
+1) mengidentifikasi fenomena sifat tahun yang menggunakan sistem klasifikasi
+BMKG dan Oldeman untuk mengetahui jumlah bulan basah dan bulan kering
+dengan syarat bahwa data yang digunakan selama 30 tahun sehingga peneliti
+mengambil tahun 1986-2014, 2) analisis trend curah hujan terhadap fluktuasi
+produksi padi tahun 1986-2045 dengan memanfaatkan trend kuadrat minimum
+untuk mengetahui kecenderungan curah hujan dan produksi padi tahun 1986-2045
+dan mengetahui berbagai penyebab fluktuasi produksi padi yang dipengaruhi oleh
+curah hujan melalui data pendukung dan interview.
+2. METODE PENELITIAN
+Metode yang digunakan dalam penelitian ini adalah analisis data
+sekunder. Hakim (1982) dalam Johnston (2014), mendefinisikan analisis data
+sekunder adalah analisis lebih lanjut himpunan data yang sudah ada yang
+memunculkan tafsiran, simpulan atau pengetahuan sebagai tambahan terhadap,
+atau yang berbeda dari, apa yang telah disajikan dalam keseluruhan dan temuan
+utama penelitian terdahulu atau semula.
+Data yang digunakan dalam penelitian ini adalah data curah hujan
+tahunan 4 stasiun (Tawangmangu, Klaten, Pabelan, dan Nepen) dan produksi padi
+tahunan Kabupaten Klaten, Sukoharjo, Karanganyar, dan Kota Surakarta yang
+diambil tahun 1985-2014. Alat yang digunakan adalah seperangkat komputer dan
+software Microsoft Excel.
+Untuk menghitung sifat tahun menggunakan kriteria BMKG maka
+menggunakan rumus :
+∑
+
+...... (1)
+
+Dengan kriteria tahun sebagai berikut.
+Tahun Basah (TB)
+
+: Perbandingan >115%
+
+Tahun Normal (TL)
+
+: Perbandingan 85%-115%
+
+Tahun Kering (TK)
+
+: Perbandingan <85%
+
+Setelah itu digunakan sistem klasifikasi Oldeman untuk mengetahui
+jumlah bulan basah dan bulan kering dengan kriteria sebagai berikut.
+5
+
+Bulan Basah (BB)
+
+: Rata–rata curah hujan >200 mm
+
+Bulan Lembab (BL)
+
+: Rata–rata curah hujan 100 mm - 200 mm
+
+Bulan Kering (BK)
+
+: Rata–rata curah hujan < 100 mm
+
+Analisis trend terbagi menjadi 2 yaitu analisis trend jangka panjang
+dan analisis trend jangka pendek. Analisis trend jangka panjang menggunakan
+metode kuadrat minimum untuk mengetahui trend curah hujan dan produksi padi
+tahu 1986-2045 menggunakan rumus:
+
+................................. (2)
+Di mana :
+=
+
+Perkiraan nilai yang diharapkan terjadi pada tahun
+tertentu
+∑
+
+=
+
+Nilai koefisien arah, diperoleh dari
+
+=
+
+Koefisien arah kecenderungan, diperoleh dari ∑
+
+=
+
+Variable waktu tahun ke-n dari tahun awal
+
+................................... (4)
+∑
+
+.................... (5)
+
+Setelah nilai trend didapatkan maka divisualisasikan kedalam grafik
+kecenderungan jangka panjang yang berbentuk garis lurus dengan arah tertentu
+pada masing-masing variabel kemudian dilakukan analisis deskriptif berupa
+penafsiran garis trend curah hujan dan produksi padi yang diperoleh dari
+kesimpulan trend jangka pendek.
+Untuk menghasilkan trend jangka pendek curah hujan dan produksi padi secara
+detail menggunakan metode moving average rerata 3 tahunan untuk masingmasing variabel maka menggunakan rumus:
+..... (6)
+Y adalah nilai data yang diketahui.
+Setelah mendapatkan nilai trend maka divisualisasikan nilai trend
+tersebut kedalam grafik yang dipisahkan menurut pergerakan trend curah hujan
+yang menghasilkan beberapa fase. Untuk mengetahui berbagai kejadian yang
+pergerakan trend produksi padi di setiap fase trend curah hujan didukung dengan
+adanya data seperti data bencana meteorologis, data serangan hama, data
+
+6
+
+infrastruktur bangunan air, dan diklarifikasikan melalui interview dengan keynote
+speaker.
+3. HASIL PENELITIAN DAN PEMBAHASAN
+3.1 Fenomena Curah Hujan Tahunan
+Tabel 1. Kklasifikasi Sifat Tahun BMKG
+Tahun
+
+BMKG
+
+Tahun
+Basah
+Tahun
+1987
+Normal
+Tahun
+1988
+Normal
+Tahun
+1989
+Normal
+Tahun
+1990
+Kering
+Tahun
+1991
+Kering
+Tahun
+1992
+Normal
+Tahun
+1993
+Normal
+Tahun
+1994
+Normal
+Tahun
+1995
+Basah
+Tahun
+1996
+Normal
+Tahun
+1997
+Kering
+Tahun
+1998
+Basah
+Tahun
+1999
+Basah
+Tahun
+2000
+Normal
+Sumber: Peneliti, 2016
+1986
+
+Oldeman
+
+Tahun
+
+BB
+
+BK
+
+6
+
+3
+
+2001
+
+4
+
+6
+
+2002
+
+5
+
+4
+
+2003
+
+4
+
+2
+
+2004
+
+5
+
+5
+
+2005
+
+4
+
+6
+
+2006
+
+6
+
+3
+
+2007
+
+6
+
+5
+
+2008
+
+5
+
+6
+
+2009
+
+5
+
+3
+
+2010
+
+6
+
+4
+
+2011
+
+3
+
+6
+
+2012
+
+7
+
+2
+
+2013
+
+6
+
+4
+
+2014
+
+5
+
+5
+
+BMKG
+Tahun
+Kering
+Tahun
+Kering
+Tahun
+Kering
+Tahun
+Normal
+Tahun
+Normal
+Tahun
+Normal
+Tahun
+Normal
+Tahun
+Normal
+Tahun
+Normal
+Tahun
+Basah
+Tahun
+Normal
+Tahun
+Normal
+Tahun
+Normal
+Tahun
+Normal
+
+Oldeman
+BB
+
+BK
+
+4
+
+5
+
+4
+
+6
+
+4
+
+7
+
+5
+
+5
+
+5
+
+5
+
+6
+
+6
+
+4
+
+6
+
+6
+
+5
+
+4
+
+5
+
+9
+
+2
+
+7
+
+4
+
+6
+
+6
+
+5
+
+4
+
+6
+
+4
+
+Fenomena sifat tahun basah dalam rentang waktu tahun 1986-2014
+terjadi sebanyak 5 kali antara lain tahun 1986 (117%), 1995 (129%), 1998
+
+7
+
+(121%), 1999 (120%), dan 2010 (140%). Pada tahun ini jumlah bulan basah lebih
+banyak dari bulan kering dengan selisih minimal 2 bulan. Kejadian tahun basah
+mengindikasikan tingginya intensitas curah hujan yang jatuh di wilayah
+penelitian. Hasil persentase perbandingan terbesar dengan curah hujan selama 30
+tahun adalah tahun 2010 dan terkecil jatuh pada tahun 1986. Pada tahun 2010
+merupakan tahun basah dengan persentase terbesar yaitu 140% yang dipengaruhi
+oleh La-Nina moderate dan IOD positif.
+Fenomena tahun kering terjadi sebanyak 6 kali dalam rentang tahun
+1986-2014 yaitu tahun 1990 (85%), 1991 (83%), 1997 (66%), 2001 (83%), 2002
+(72%), dan 2003 (71%). Pada tahun kering ini jumlah bulan kering lebih banyak
+dari jumlah bulan basah terkecuali pada tahun 1990 jumlah bulan basah sama
+dengan bulan kering yaitu 5 bulan. Tahun terkering adalah tahun 1997 yang
+diakibatkan efek El-Nino level very strong dan IOD level negatif. Selain kejadian
+tahun kering dan tahun basah, maka terjadi fenomena tahun normal sebanyak 18
+kali.
+Tabel 2. Kejadian El-Nino dan La-Nina di Samudera Pasifik
+El Niño
+Weak
+
+Mod
+
+La Niña
+
+Very
+Strong
+Strong
+1997-98
+
+1994-95 1986-87
+2004-05 1987-88
+2006-07 1991-92
+2002-03
+2009-10
+Sumber: NOAA, 2016.
+
+Weak
+
+Mod
+
+Strong
+
+1995-96
+2000-01
+2011-12
+
+1998-99
+1999-00
+2007-08
+2010-11
+
+1988-89
+
+Berdasarkan tabel diatas maka tahun basah yang dipengaruhi La-Nina
+adalah tahun 1995, 1998, 1999, dan 2010. Tahun kering yang diakibatkan oleh ElNino adalah tahun 1991, 1997, 2001, 2002, 2003.
+Curah hujan selain disebabkan oleh kejadian El-Nino La- Nina di
+samudera pasifik juga dipengaruhi oleh kejadian IOD di samudera pasifik. Hal
+tersebut disajikan pad tabel dibawah ini mengenai level IOD yang terjadi selama
+tahun 1986-2014.
+
+8
+
+Tabel 3. Kejadian IOD Samudera Hindia
+Tahun
+
+Positif
+
+1989, 1992, 1996, 1998, 2010
+
+Netral
+
+1986, 1987, 1988, 1990, 1991, 1993, 1995,
+
+IOD
+
+Level
+
+1999, 2000, 2001, 2002, 2003, 2004, 2005,
+2007, 2008, 2009, 2011, 2013, 2014
+Negatif
+
+1994, 1997, 2006, 2012
+
+Sumber: BOM, Australia, 2016
+Pada tahun 1986 tahun basah dipengaruhi kejadian IOD di samudera
+hindia level netral. Persentase pada tahun ini sebesar 117% mendekat tahun
+normal. Adapun tahun kering yang hanya dipengaruhi oleh IOD adalah tahun
+1990. Besarnya persentase terhadap kondisi normal adalah 85%.
+
+3.2 Analisis trend
+Trend Jangka Panjang
+
+Gambar 2. Grafik Trend Jangka Panjang Curah Hujan Dan Produksi Padi Tahun
+1986-2045.
+Berdasarkan grafik diatas, curah hujan diprediksi akan mengalami
+trend penurunan dari tahun 1986-2045. Hal tersebut menunjukkan akan terjadi
+9
+
+defisit air hujan di masa mendatang. Berbeda kondisinya dengan garis trend
+produksi padi yang mengalami peningkatan dari tahun 1986-2045. Hal tersebut
+dipengaruhi oleh usaha yang dilakukan dari tahun 1986-2014 dalam
+mempertahankan produksi padi melalui pemeliharan dan pembangunan
+infrastruktur pengairan, menciptakan varietas padi tahan wereng, berkembangna
+teknologi pertanian, dan adanya berbagai riset tentang padi yang menjawab
+berbagai permasalahan tanaman padi dalam masa produksinya.
+Trend Jangka Pendek
+Analisis trend jangka pendek curah hujan dan produksi padi
+menggunakan metode moving average rerata 3 tahunan. Analisis ini berfungsi
+untuk mengetahui berbagai penyebab berbagai kejadian yang menimpa produksi
+padi selama dalam pergerakan trend curah hujan. Untuk mengetahui penyebab
+tersebut digunakan data pendukung seperti bencana, infrastruktur pengairan,
+serangan hama, dan divalidasi melalui interview dengan keynote speaker. Dalam
+analisis trend jangka pendek terbagi menjadi 9 yang dipisahkan berdasarkan
+pergerakan trend curah hujan.
+
+Gambar 3. Analisis Trend Jangka Pendek
+Penjelasan setiap fase dalam grafik diatas disajikan pada Tabel 4.
+
+10
+
+Tabel 4. Penyebab Antar Fase Trend.
+Fase
+
+Penyebab
+
+1
+
+Berperannya infrastruktur pengairan seperti bendung, irigasi, dan waduk.
+
+2
+
+Curah hujan melimpah sehingga menyuplai air irigasi bagi padi. Setelah
+itu terjadi serangan tungro yang merusak 885 ha di Kabupaten Sukoharjo.
+
+3
+
+Masa kekeringan yang memanfaatkan pompanisasi untuk mengairi sawah
+yang bersumber dari air tanah.
+
+4
+
+Adanya banjir akibat peristiwa La Nina.
+
+5
+
+Bencana kekeringan akibat El-Nino level moderate.
+
+6
+
+5 kali terjadi banjir di Sukoharjo, Klaten, dan Karanganyar. Setelah itu
+curah hujan dijadikan sebagai sumber pengairan tanaman.
+
+7
+
+Defisit curah hujan, pengairan menggunakan pompanisasi.
+
+8
+
+Air hujan sebagai pengairan sawah. Kemudian terjadi bencana serangan
+wereng cokelat yang merusak 26.610 ha sawah. Selain itu terjadi banjir
+sebanyak 30 kejadian dan bencana puting beliung sebanyak 26 kejadian.
+
+9
+
+Munculnya varietas anti wereng mendongkrak produksi padi secara
+drastis.
+
+Sumber: Peneliti melalui data pendukung dan wawancara, 2016.
+Dari hasil beberapa penyebab pada setiap fase diatas, dapat diketahui bahwa
+terdapat 4 buah pola umum yang disajikan pada Tabel 5.
+Tabel 5. Pola Trend Curah Hujan Dan Produksi Padi
+Pola
+ke1
+
+Kondisi
+CH naik padi naik
+
+Penyebab
+Curah hujan meningkat menyuplai pengairan
+tanaman padi
+
+2
+
+CH naik padi turun
+
+Adanya banjir, puting beliung, serangan wereng
+cokelat, dan tungro
+
+3
+
+CH turun padi naik
+
+Bangunan pengairan berfungsi optimal dalam
+memasok pengairan tanaman.
+
+4
+
+CH turun padi turun
+
+Bencana kekeringan, defisit air untuk tanaman.
+
+Sumber: Peneliti, 2016.
+11
+
+4. PENUTUP
+Sifat tahun hujan tahunan selama periode 1986-2045 menunjukkan 3
+tipe yaitu tahun basah, tahun kering, dan tahun normal. Sifat tahun basah
+dalam rentang waktu tahun 1986-2014 terjadi sebanyak 5 kali antara lain
+tahun 1986, 1995, 1998, 1999, dan 2010. Sifat tahun kering terjadi sebanyak 6
+kali antara lain 1990, 1991, 1997, 2001, dan 2002. Selain tahun yang telah
+disebutkan maka sifat tahun normal terjadi sebanyak 18 kali.
+Curah hujan mempengaruhi produksi padi di DAS Bengawan Solo
+hulu bagian tengah selama tahun 1986-2045. Fluktuasi keduanya digambarkan
+melalui 2 cara, yaitu trend jangka panjang dan trend jangka pendek. Analisis
+trend jangka panjang tahun 1986-2045 menghasilkan trend curah hujan
+menurun dan produksi padi naik, sedangkan analisis trend jangka pendek
+menghasilkan 4 pola trend dengan karakteristik pergerakan garisnya. Faktor
+curah hujan menyuplai pengairan padi dan menghasilkan bencana alam.
+Faktor manusia meliputi rangkaian usaha adaptasi manusia agar produksi padi
+tetap bertahan dan meningkat dalam menghadapi perubahan iklim.
+Hasil penelitian dapat digunakan dalam memberikan inovasi usahausaha ketahanan pangan nasional yang sedang dihadapi fenomena perubahan
+iklim yang merugikan berbagai sektor kehidupan dunia.
+
+PERSANTUNAN
+Ucapan terima kasih kepada Dosen Pembimbing, Dosen Penguji, dan temanteman Fakultas Geografi yang telah membantu menyempurnakan publikasi
+karya ilmiah yang dibuat oleh peneliti.
+
+12
+
+DAFTAR PUSTAKA
+
+Dewan Ketahanan Pangan Kementrian Pertanian And World Food Programme.
+2015. Peta Ketahanan dan Kerentanan Pangan Indonesia. Jakarta.
+Hakim, C. (1982). Secondary Analysis In Social Research: A Guide To Data
+Sources And Method Examples. London, UK : George Allen & Uwin.
+Johnston, Melissa P. (2014). Secondary Data Analysis: A Method That Which A
+Time Has Come. Quantitative and Qualitative Methods in Library (QQML)
+3:619-626. London, UK : University of London.
+Kodoatie, Robert .J, dan Sjarief, Rustam. 2010. Tata Ruang Air. Yogyakarta :
+ANDI OFFSET.
+Kusnanto, Hari. 2011. Adaptasi Terhadap Perubahan Iklim Edisi Pertama.
+Yogyakarta : BPFE UGM.
+Pearce,
+
+Fred.
+
+2003.
+
+Pemanasan
+
+Global
+
+Alih
+
+Bahasa
+
+oleh
+
+Wibowo
+
+Mangunwardoyo. Jakarta : Erlangga.
+Puturuhu, Ferad. 2015. Mitigasi Bencana dan Penginderaan Jauh. Yogyakarta :
+Graha Ilmu.
+Supranto M. A, J. 1993. Metode Ramalan Kuantitatif Untuk Perencanaan
+Ekonomi dan Bisnis. Jakarta : Rhineka Cipta.
+
+13
+
+

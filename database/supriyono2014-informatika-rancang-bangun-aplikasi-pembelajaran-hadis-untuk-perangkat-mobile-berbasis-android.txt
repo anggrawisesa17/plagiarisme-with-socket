@@ -1,0 +1,535 @@
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+
+RANCANG BANGUN APLIKASI PEMBELAJARAN HADIS
+UNTUK PERANGKAT MOBILE BERBASIS ANDROID
+Heru Supriyono 1 ; Ardhiyatama Nur Saputra 2 , Endah Sudarmilah 2 ;
+dan Ruswa Darsono 3
+1
+
+Program Studi Teknik Elektro Fakultas Teknik Universitas Muhammadiyah Surakarta
+Program Studi Teknik Informatika Fakultas Komunikasi dan Informatika Universitas
+Muhammadiyah Surakarta
+3
+Fakultas Agama Islam Universitas Muhammadiyah Surakarta
+
+2
+
+Jl. A. Yani Tromol Pos I Pabelan Kartasura, Surakarta, Jawa Tengah, Indonesia 57102
+Kontak email: Heru.Supriyono@ums.ac.id
+
+Abstrak
+Pada saat ini mobile phone sudah sangat berkembang sehingga
+mempunyai berbagai macam kemampuan seperti untuk akses internet dan
+juga mempunyai sistem operasi seperti layaknya komputer sehingga sering
+disebut dengan smart mobile phone atau lebih dikenal dengan istilah smart
+phone. Pemanfaatan kemampuan smart phone untuk keperluan di beberapa
+bidang pun dikembangkan dengan aplikasi-aplikasi yang mampu
+mendukung dalam penggunaannya diantaranya adalah untuk media
+pembelajaran edukatif. Tujuan dari penelitian ini adalah untuk merancang
+dan membuat aplikasi mobile phone sebagai media pembelajaran dalam
+mempelajari pengertian ilmu hadis yang disertai dengan hadist pilihan dan
+latihan soal. Penelitian ini menggunakan pendekatan prototyping. Tahapan
+yang akan dilakukan pada penelitian ini meliputi: analisis kebutuhan,
+perancangan arsitektur program aplikasi, pembuatan program aplikasi,
+pengujian teknis dan analisisnya, dan analisis respon calon pengguna
+melalui kuesioner. Hasil pengujian implementasi sistem yang dibuat pada
+smartphone menunjukkan bahwa sistem dapat berjalan pada smartphone
+dengan sistem operasi Android yang ada dipasaran.
+Kata kunci: Android, pembelajaran ilmu hadis, perangkat mobile.
+
+1. PENDAHULUAN
+Pada awal kehadirannya, mobile phone hanya mempunyai kemampuan
+yang terbatas yaitu untuk melakukan dan menerima panggilan dan mengirimkan
+dan menerima pesan berupa teks yang lebih dikenal dengan short message
+services (SMS). Pada saat ini mobile phone sudah sangat berkembang sehingga
+mempunyai berbagai macam kemampuan seperti untuk akses internet dan juga
+mempunyai sistem operasi seperti layaknya komputer sehingga sering disebut
+dengan smart mobile phone atau lebih dikenal dengan istilah smart phone.
+Pemanfaatan kemampuan smart phone untuk keperluan di beberapa bidang pun
+dikembangkan dengan aplikasi-aplikasi yang mampu mendukung dalam
+907
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+penggunaannya. Termasuk diantara pemanfaatan kegunaan smart phone adalah
+untuk media pembelajaran. Salah satu sistem operasi yang dapat dioperasikan
+pada smart phone adalah sistem operasi Android. Android adalah sebuah sistem
+operasi untuk mobile yang berbasis linux dan bersifat open source.
+Karena sifat open source itulah
+banyak developer yang telah
+mengembangkan beberapa aplikasi yang mampu dijalankan pada sitem Android
+seperti untuk jejaring sosial (Brata dkk, 2012), pembelajaran mitigasi bencana
+gempa bumi (Budiman dkk, 2012), penunjuk arah kota (Darma dkk, 2012) dan
+lain sebagainya. Untuk aplikasi yang berkaitan dengan pembelajaran ke-Islaman,
+beberapa program aplikasi yang bisa berjalan di sistem operasi Android sudah
+dikembangkan diantaranya adalah untuk pembelajaran huruf hijaiyah (Purwanti,
+2013), dan pembelajaran Iqro’ (Sobri dan Abdillah, 2013). Dari makalahmakalah yang sudah dipublikasikan tersebut dapat diketahui bahwa program
+aplikasi pembelajaran yang bisa berjalan di sistem operasi Android sangat
+membantu dalam proses belajar dan meningkatkan pemahaman karena bisa
+dilakukan dengan menarik. Sejauh yang peneliti ketahui, pengembangan aplikasi
+pembelajaran ilmu Hadis untuk sistem operasi Android belum pernah dilaporkan
+sebelumnya. Berdasarkan latar belakang diatas, maka pada penelitian ini akan
+dilakukan analisa, perancangan dan pembuatan aplikasi yang mampu membantu
+dalam mempelajari pengertian tentang ilmu Hadis dan dapat dilakukan melalui
+media mobile yang berbasis Android baik yang berupa smart phone maupun
+komputer tablet. Aplikasi yang dibuat akan diujikan pada berbagai jenis dan
+merk perangkat yang menggunakan sistem operasi Android untuk diketahui
+kehandalannya. Setelah itu, kuesioner akan diberikan kepada guru agama
+maupun siswa yang belajar ilmu Hadis untuk mengetahui efektifitas aplikasi
+yang dibuat.
+Berdasarkan permasalahan di atas maka rumusan masalah yang akan
+diselesaikan pada penelitian ini adalah bagaimana merancang dan membuat
+suatu aplikasi pembelajaran ilmu hadis yang mempelari tentang ilmu hadis
+secara ringkas dan mudah dipahami bagi pengguna untuk perangkat mobile yang
+menggunakan sistem operasi Android dan menganalisa efektifitasnya terhadap
+pengguna. Tujuan dari penelitian ini adalah untuk merancang dan membuat
+aplikasi pembelajaran ilmu Hadis untuk perangkat phone yang berbasis Android
+sebagai media pembelajaran dalam mempelajari pengertian ilmu hadis yang
+disertai dengan hadist pilihan dan latihan soal.
+
+2. STUDI PUSTAKA
+2.1. Telaah Penelitian
+Beberapa penelitian sebelumnya mengenai pengembangan program
+aplikasi untuk smart phone berbasis Android diantaranya adalah untuk
+pengenalan dan pembelajaran cara membaca Al Quran (Septiawan, 2012),
+pembelajaran huruf Hijaiyah (Purwanti, 2013), membaca Iqro’ (Sobri dan
+Abdillah, 2013), media pembelajaran ilmu Nahwu (Nunggraini, 2012)
+2.2. Metode Pembelajaran
+Menurut definisi Wikipedia (diakses pada bulan Juli 2013)
+pembelajaran adalah proses interaksi peserta didik dengan pendidik dan
+908
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+sumber belajar pada suatu lingkungan belajar. Menurut Haryanto (2011)
+ada beberapa macam metode pembelajaran secara umum yaitu: metode
+ceramah, metode diskusi, metode demonstrasi, kombinasi metode ceramah
+dengan metode yang lainnya, metode resitasi, metode eksperimental,
+metode study tour (karya wisata), metode latihan ketrampilan, metode
+pengajaran beregu, peer teaching method, metode pemecahan masalah,
+project method.
+2.3. Hadis dan metode pembelajarannya
+Hadis dalam kamus besar Bahasa Indonesia (KBBI):hadis dalam
+bahasa arab (‫)اﻟﺤﺪﯾﺚ‬: Al-Hadîts. Hadis secara harfiah berarti perkataan
+atau percakapan. Dalam terminologi Islam istilah hadis berarti
+melaporkan/ mencatat sebuah pernyataan dan tingkah laku dari
+Nabi Muhammad SAW. Menurut istilah ulama ahli hadis, hadis yaitu apa
+yang diriwayatkan dari Nabi Muhammad SAW, baik berupa perkataan,
+perbuatan, ketetapannya (Arab:taqrîr), sifat jasmani atau sifat akhlak, dari
+perjalanan setelah diangkat sebagai Nabi (Arab: bi’tsah) dan terkadang
+juga sebelumnya. Sehingga, arti hadis semakna dengan sunnah. Kata hadis
+yang mengalami perluasan makna sehingga disinonimkan dengan sunnah,
+maka pada saat ini bisa berarti segala perkataan (sabda), perbuatan,
+ketetapan maupun persetujuan dari Nabi Muhammad SAW yang dijadikan
+ketetapan ataupun hukum.
+Menurut pengamatan peneliti, pembelajaran Hadis di sekolah,
+pondok pesantern, perguruan tinggi dan pada pendidikan informal seperti
+pengajian dilakukan dengan gabungan antara metode ceramah, metode
+demonstrasi dan metode resitasi. Aktivitas yang dilakukan pada proses
+pembelajaran dikelas meliputi guru atau dosen atau ustadz atau ustadzah
+menerangkan didepan kelas tentang suatu materi berdasarkan buku teks
+(kitab Hadis) yang dipakai sebaga referensi, mempraktekkan cara
+pembacaannya kemudian meminta peserta didik untuk mengikuti atau
+mempraktekkan pembacaannya, menerangkan arti atau makna Hadis yang
+sedang dibahas dan meminta peserta didik untuk menghafalkannya. Pada
+akhir periode pembelajaran, baik diakhir tengah semester maupun diakhir
+semester, ujian keberhasilan pembelajaran Hadis dilakukan dengan
+berbagai jenis pertanyaan seperti pilihan ganda, melengkapi lafal Hadis,
+menuliskan arti atau makna Hadis, atau menghafal Hadis beserta
+maknanya.
+Peralatan utama pembelajaran Hadis dikelas adalah buku teks
+(kitab Hadis), papan tulis dan buku catatan siswa. Diluar pembelajaran
+dikelas, siswa dapat melakukan pembelajaran baik secara mandiri maupun
+dengan bimbingan orang lain dengan menggunakan buku teks (kitab
+Hadis) dan buku catatannya. Penggunaan alat bantu pembelajaran lainnya
+seperti aplikasi multimedia berbasis perangkat mobile dengan sistem
+operasi Android akan sangat memudahkan pembelajaran terutama
+pembelajaran secara mandiri karena program aplikasi yang sudah
+dimasukkan kedalam perangkat mobile dapat dibawa ke mana-mana dan
+ringkas tidak seperti membawa buku teks (kitab Hadis)
+
+909
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+2.4. Sistem Operasi Android
+Android adalah salah satu platform sistem operasi yang digemari
+masyakat karena sifatnya yang open source sehingga memungkinkan
+pengguna untuk melakukan pengembangan. Android merupakan generasi
+baru platform mobile berbasis linux yang mencakup sistem operasi,
+middleware, dan aplikasi (Nazruddin Safaat, 2012). Arsitektur Android
+terdiri dari bagian-bagian seperti berikut :
+a. Applications dan Widgets: layer (lapisan) dimana pengguna hanya
+berhubungan dengan aplikasi saja.
+b. Applications Framework: lapisan dimana para pengembang
+melakukan pembuatan aplikasi yang akan dijalankan di sistem operasi
+Android dengan komponen-komponennya meliputi views, contents
+provider, resource manager, notification manager, activity manager.
+c. Libraries: lapisan dimana fitur-fitur android berada yang berada diatas
+kernel meliputi library C/C++ inti seperti Libc dan SSL.
+d. Android Run Time: lapisan yang membuat aplikasi Android dapat
+dijalankan dimana dalam prosesnya menggunakan implementasi
+Linux yang terbagi menjadi dua bagian yaitu Core Libraries dan
+Dalvik virtual Machine.
+e. Linux Kernel: Layer yang berisi file-file system untuk mengatur
+processing, memory, resource, driver, dan sistem operasi android
+lainnya.
+Sistem operasi yang mendasari Android dilisensikan dibawah
+GNU, GPLv2 (General Public License verse 2) yang sering dikenal
+dengan istilah copyleft. Pendistribusian Android dibawah lisensi dari
+Apache Software yang memungkinkan untuk distribusi kedua dan
+seterusnya.
+3. METODE PENELITIAN
+3.1. Peralatan dan Data Penelitian
+Peralatan digunakan untuk menunjang keberhasilan dalam
+penelitian ini dengan dua kategori yaitu utama dan pendukung. Berikut
+adalah spesifikasi peralatan utama yang akan digunakan: satu unit laptop
+dengan prosessor Intel Core i3 M330 2.13 Ghz, RAM Memory 4 GB, 320
+GB HDD, sistem operasi Windows 7 x86 32bit, Eclipse, Sqlite, perangkat
+mobile berbasis sistem operasi Android versi 2.3: smart phone dan
+komputer tablet.
+Pada fase awal penelitian, peneliti akan mengumpulkan data awal
+yang berupa sasaran calon pengguna program aplikasi dan
+kecenderungannya terhadap suatu program aplikasi. Data ini kemudian
+digunakan sebagai pijakan untuk mendapatkan data kebutuhan perangkat
+keras dan lunak yang diperlukan sehingga program aplikasi yang dibuat
+dapat berjalan dengan baik. Setelah program aplikasi selesai dibuat maka
+perlu pengujian pada berbagai perangkat mobile untuk mendapatkan datadata teknis unjuk kerja program aplikasi yang dibuat sepeti waktu eksekusi
+program aplikasi, jumlah keberhasilan eksekusi, ada atau tidaknya fungsi
+yang tidak sesuai dan sebagainya. Setelah data-data unjuk kerja teknis
+didapatkan, tahap selanjutnya adalah mencari calon pengguna sebagai
+910
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+responden untuk mencoba menggunakan program aplikasi yang dibuat dan
+kemudian mengisi kuesioner yang sudah disiapkan. Dari kuesioner akan
+didapatkan data mengenai pandangan calon pengguna terhadap program
+aplikasi yang dibuat.
+3.2. Analisis Kebutuhan Sistem
+Kebutuhan sistem aplikasi yang dirancang ditentukan berdasarkan
+survei dan wawancara dengan calon pengguna potensial. Kebutuhan
+sistem meliputi perangkat mobile yang banyak digunakan oleh calon
+pengguna, karakteristik audient (calon pengguna) dan cakupan materi yang
+akan disediakan dalam program aplikasi. Calon pengguna program
+aplikasi ini adalah masyarakat umum meliputi pelajar, mahasiswa, dan
+orang dewasa umum pengguna smart phone. Berdasarkan survei yang
+dilakukan dengan cara wawancara dan pengamatan pada calon pengguna,
+didapatkan informasi bahwa sebagian besar sasaran calon pengguna
+program aplikasi menggunakan smartphone dengan sistem operasi
+Android 2.3 (Gingerbread) sehingga program aplikasi yang dirancang
+direncanakan akan bisa berjalan dengan baik pada smartphone yang
+mempunyai sistem operasi Android 2.3 atau yang lebih baru.
+3.3. Perencanaan Materi Dalam Sistem Aplikasi
+Calon pengguna yang menjadi sasaran program aplikasi yang
+dibuat adalah masyarakat umum. Kompetensi minimal yang diharapkan
+dapat dikuasai oleh calon pengguna adalah:
+a. Memahami pengertian Hadis dan posisinya dalam Agama Islam
+b. Mengetahui dan memahami sejarah penulisan dan pengumpulan hadis
+c. Memahami klasifikasi Hadis berdasarkan beberapa kriteria seperti
+jumlah perawinya dll.
+d. Memahami kualitas/validitas Hadis
+e. Memahami beberapa Hadis pilihan untuk berbagai bidang sehari-hari
+seperti dalam bidang pernikahan, masalah makan/minum, zakat dll.
+Untuk dapat mencapai standart kompetensi seperti yang
+direncanakan maka materi pembelajaran ilmu hadis yang akan dimasukkan
+pada program aplikasi meliputi:
+•
+
+•
+
+•
+•
+•
+•
+
+Pengertian hadis, materi yang tercakup dalam bagian ini meliputi:
+pengertian khabar, pengertian hadis, pengertian atsar, pengertian matan,
+pengertian sanad, dan kedudukan hadis.
+Penulisan hadis, materi yang tercakup dalam bagian ini meliputi:
+sejarah hadis pada zaman Nabi Muhammad SAW, pengumpulan hadis
+periode pertama, pengumpulan hadis periode kedua, pengumpulan
+hadis periode ketiga, dan pengumpulan hadis periode keempat
+Klasifikasi hadis, materi yang tercakup dalam bagian ini meliputi:
+Hadis Ahad, dan Hadis Mutawatir
+Kualitas hadis, materi yang tercakup dalam bagian ini meliputi: Hadis
+Shahih, Hadis Hasan, dan Hadis Dhaif
+Hadis Pilihan, materi yang tercakup dalam bagian ini misalnya
+meliputi: Makan/minum, Zakat, dan Pernikahan
+Soal latihan, bagian ini mencakup: latihan soal untuk menguji
+pemahaman pengguna dan jawaban dan nilai masing-masing pengguna.
+911
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+3.4. Perancangan Struktur Navigasi Menu Program Aplikasi
+Program aplikasi dirancang berjalan pada perangkat smart phone
+dengan sistem operasi Android yang tidak memerlukan sambungan
+internet sehingga tidak diperlukan adanya administrator. Rancangan
+struktur navigasi menu program aplikasi dapat dilihat pada Gambar 1.
+
+Gambar 1. Rancangan struktur navigasi program aplikasi pembelajaran ilmu hadis
+
+Ketika pengguna membuka program aplikasi, pengguna akan
+mengakses halaman utama program aplikasi pembelajaran ilmu hadis.
+Pengguna mempunyai kemampuan untuk mengakses semua menu yang
+ada pada halaman utama beserta semua sub-menu yang ada.
+3.5. Activity Diagram (Diagram Aktifitas)
+Activity diagram (diagram aktifitas) adalah sebuah diagram yang
+menjelaskan logika prosedural dan jalur kerja program aplikasi yang
+dibuat baik dari sisi user (pengguna) maupun dari sisi sistem. Diagram
+aktifitas digambarkan mulai dari halaman utama program aplikasi sampai
+dengan selesai. Sebagai contoh apabila pengguna ingin membaca materi
+Hadis Ahad maka logika prosedural yang harus dilalui mulai dari awal
+dapat dilihat pada diagram aktifitas Gambar 2.
+
+912
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+
+Gambar 2. Diagram aktifitas pengguna apabila ingin membaca materi Hadis Ahad dari
+menu utama.
+3.6. Perancangan Tampilan Program aplikasi
+Tampilan program aplikasi dirancang dengan mempertimbangkan
+aspek desain sehingga menarik dan juga user friendly (ramah terhadap
+pengguna) maksudnya adalah pengguna menjadi jelas dalam
+menggunakan program aplikasi yang dibuat. Perancangan tampilan juga
+harus mempertimbangkan ukuran layar dan spesifikasi teknis smartphone
+kebanyakan calon pengguna.
+Pengujian dilakukan setelah sistem selesai dibuat, dan pengujian
+dilakukan dengan dua cara yaitu wawancara dengan kuisoner dan
+pengujian terhadap sistem itu sendiri. Setelah proses pembuatan dan
+pengujian pada emulator selesai maka program aplikasi akan diuji pada
+perangkat mobile sesungguhnya yaitu smart phone yang menggunakan
+sistem operasi Android yang ada di pasaran. Semua fungsionalitas yang
+ada pada program aplikasi akan dicoba untuk mengetahui apakah semua
+fungsi berjalan dengan baik atau tidak. Kuisioner dilakukan dengan tujuan
+untuk mengetahui penilaian oleh user tentang aplikasi penampil materimateri kemuhammadiyahan. Kuisioner dilakukan setelah aplikasi
+penampil materi-materi kemuhammadiyahan telah selesai dibuat dan siap
+untuk diujikan. Pengujian dilakukan terhadap 25 orang dari berbagai
+kalangan masyarakat dengan menggunakan kuisioner yang berisi
+pernyataan-pernyataan sesuai dengan variabel yang akan diamati.
+4. ANALISA HASIL DAN PEMBAHASAN
+Penelitian dengan judul aplikasi pembelajaran hadis berbasis android
+adalah penelitian untuk merancang dan membuat aplikasi pembelajaran ilmu
+Hadis untuk perangkat phone yang berbasis Android. Aplikasi pembelajaran
+hadis yang dibuat akan digunakan sebagai media pembelajaran dalam
+
+913
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+mempelajari pengertian ilmu hadis secara umum sehingga lebih mudah
+dipahami dan dimengerti oleh pengguna aplikasi.
+Welcome screen (Gambar 3) adalah halaman awal sebelum menu utama
+ditampilkan yang memuat logo dan suara welcome screen aplikasi. Setelah
+menampilkan halaman ini aplikasi akan langsung menuju halaman menu utama
+(Gambar 4). Halaman menu utama berisi 10 tombol menu. Setiap menu
+memiliki bebrapa sub menu yang bisa dipilih,kemudian dari sub menu yang
+telah dipilih akan menampilkan halaman konten aplikasi. Ketika tombol menu
+ditekan akan mengeluarkan bunyi suara tombol yang sudah diatur.
+
+Gambar 3. Halaman awal welcome screen
+
+Gambar 4. Halaman Menu Utama
+Gambar 5 adalah dialog yang keluar ketika tombol exit pada
+menu utama aplikasi atau back pada hand phone ditekan maka akan keluar
+dialog konfirmasi keluar aplikasi.
+
+914
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+
+Gambar 5. Dialog konfirmasi keluar aplikasi
+
+Gambar 6. Dialog Bantuan Aplikasi
+
+Gambar 7 adalah gambar submenu setelah salah satu menu utama dipilih.
+Setiap menu utama memiliki sub menu yang berbeda-beda dan teks pada isi
+konten sub menu berfungsi sama seperti tombol apabila di tekan maka akan
+menuju halaman konten atau isi materi yang dipilih.
+
+Gambar 7. Halaman Sub Menu Utama
+
+915
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+
+Gambar 8. Halaman Isi Materi
+
+Gambar 9. Halaman Pencarian
+
+Gambar 10. Halaman Soal Latihan
+916
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+4.1. Pembahasan
+Aplikasi pembelajaran hadis berbasis android adalah aplikasi
+penampil materi dan pembelajaran tentang ilmu hadis. Aplikasi ini
+dirancang untuk menyajikan materi dan pembelajaran tentang hadis
+dengan lebih menarik dan mudah dioperasikan. Aplikasi ini juga dirancang
+untuk memudahkan user dalam mengakses informasi belajar dimana saja
+tanpa perlu menggunakan buku. Aplikasi pembelajran hadis berbasis
+android diimplementasikan pada perangkat mobile yang didukung dengan
+sistem operasi android minimal menggunakan Android Versi 2.3
+(Gingerbread).
+4.2. Analisa Data Kuisioner
+Kuisioner diperlukan untuk mengetahui penilaian user terhadap
+aplikasi pembelajaran hadis. Kuisioner ditujukan kepada 25 orang
+diberbagai masyarakat. Penilaian aplikasi baik dan buruknya dihasilkan
+dari hasil kuisioner tersebut.
+Materi Aplikasi bermanfaat
+
+100
+80
+60
+
+Materi Sesuai Kebutuhan
+
+Tampilan Aplikasi Mudah
+Dipahami
+Tampilan Aplikasi Mudah
+Dioperasikan
+
+40
+
+Tampilan Aplikasi Efektif
+
+20
+
+Tampilan Aplikasi Jelas
+
+0
+
+Tampilan Aplikasi Menarik
+
+Gambar 11. Grafik Hasil Kuisoner
+Setelah dilakukan pengujian sistem di Universitas Muhammadiyah
+Surakarta dan melalui kuisioner yang dibagikan kepada 25 orang ke
+berbagai kalangan, secara keseluruhan seperti tabel 4.1. dan pada grafik
+persentase Gambar 4.10. Semua jawaban yang diperoleh berbeda-beda,
+tetapi sebagian besar menyatakan setuju. Secara keseluaruahan 11
+responden menyatakan sangat setuju tampilan aplikasi menarik, 10
+responden menyatakan setuju tampilan aplikasi menarik dan 4 respoden
+menyatakan netral tampilan aplikasi menarik. Jadi secara rata-rata
+responden menyatakan setuju jika tampilan aplikasi hadis mobile menarik.
+Dalam persentase interpretasi sebesar 85,6% atau dengan kata lain
+membuktikan pernyataan sangat kuat bahwa tampilan aplikasi menarik.
+Untuk poin kedua 10 respoden menyatakan sangat setuju, 12
+respoden menyatakan setuju, dan 3 responden menyatakan netral tampilan
+aplikasi yang dibuat jelas. Dalam perhitungan persentase interpretasi
+terdapat 85,6%, jadi dengan kata lain membuktikan bahwa pernyataan
+sangat kuat jika tampilan aplikasi yang dibuat jelas.
+917
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+Untuk poin yang ketiga di pernyataan tampilan aplikasi ini
+efektif, 12 respoden menyatakan sangat setuju, 3 respoden menyatakan
+setuju, dan 10 responden menyatakan netral tampilan aplikasi yang dibuat
+efektif. Dalam perhitungan menghasilkan persentase interpretasi sebesar
+81,6%, jadi dengan kata lain membuktikan bahwa pernyataan kuat jika
+tampilan aplikasi yang dibuat efektif.
+Untuk poin yang keempat di pernyataan tampilan aplikasi ini
+mudah dioperasikan, 15 respoden menyatakan sangat setuju tampilan
+aplikasi mudah dioperasikan, 8 respoden menyatakan setuju tampilan
+aplikasi mudah dioperasikan oleh pengguna, 1 responden menyatakan
+netral tampilan aplikasi mudah dioperasikan dan hanya ada 1 respoden
+yang menyatakan tidak setuju jika aplikasi yang dibuat ini tidak mudah
+dioperasikan. Tampak bahwa secara garis besar dan secara keseluruhan
+rata-rata respoden menyatakan setuju jika aplikasi yang dibuat tampilan
+aplikasi mudah dioperasikan dalam penggunaannya. Dalam perhitungan
+menghasilkan persentase interpretasi sebesar 88%, jadi dengan kata lain
+membuktikan bahwa pernyataan sangat kuat jika tampilan aplikasi yang
+dibuat sangat mudah dioperasikan.
+Untuk selanjutnya poin yang kelima di pernyataan tampilan
+aplikasi ini mudah dipahami, 19 respoden menyatakan sangat setuju, 1
+respoden menyatakan setuju, 1 respoden menyatakan tidak setuju, dan 5
+responden menyatakan netral tampilan aplikasi yang dibuat mudah
+dipahami. Dalam perhitungan menghasilkan persentase interpretasi sebesar
+91,2% , jadi dengan kata lain membuktikan bahwa pernyataan sangat kuat
+jika tampilan aplikasi yang dibuat mudah diapahami oleh user.
+Untuk berikutnya poin yang keenam di pernyataan materi sesuai
+dengan kebutuhan, 16 respoden menyatakan sangat setuju materi yang ada
+didalam aplikasi yang dibuat sesuai dengan kebutuhan user, 4 respoden
+menyatakan setuju materi yang ada didalam aplikasi yang dibuat sesuai
+dengan kebutuhan user, 1 respoden menyatakan tidak setuju dan 5
+responden menyatakan netral materi yang ada didalam aplikasi yang
+dibuat sesuai dengan kebutuhan user. Jadi secara rata-rata seluruh
+responden menyatakan setuju jika materi yang ada didalam aplikasi yang
+dibuat sesuai dengan kebutuhan user. Dalam perhitungan menghasilkan
+persentase interpretasi sebesar 85,6%, jadi dengan kata lain membuktikan
+bahwa pernyataan kuat jika materi yang ada didalam aplikasi pembelajaran
+hadis sesuai dengan kebutuhan user.
+Untuk yang terakhir poin yang ketujuh di pernyataan materi
+aplikasi bermanfaat, 13 respoden menyatakan sangat setuju materi yang
+ada didalam aplikasi penampil mater-materi hadis bermanfaat untuk
+pembelajaran, 6 respoden menyatakan setuju materi yang ada didalam
+aplikasi pembelajran hadis bermanfaat untuk pembelajaran, dan hanya 6
+responden menyatakan netral materi yang ada didalam aplikasi
+pembelajran hadis bermanfaat untuk pembelajaran. Jadi secara rata-rata
+seluruh responden menyatakan setuju jika materi yang ada didalam
+aplikasi yang dibuat sangat bermanfaat untuk pembelajaran. Dalam
+perhitungan menghasilkan persentase interpretasi sebesar 85,6%, dalam
+918
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+perhitungan menunjukkan bahwa pernyataan sangat kuat jika materi yang
+ada di dalam pembelajaran hadis sangat bermanfaat bagi user untuk
+pembelajaran.
+
+5. KESIMPULAN
+Aplikasi pembelajaran hadis berbasis android sebagai sarana
+pembelajaran materi-materi hadis yang berisi beberapa pengertian dan istilah
+istilah dalam ilmu hadis sehingga pengguna dapat memahami tentang imu hadis
+sudah berhasil dibuat. Hasil pengujian teknis dengan mengimplementasikan
+program aplikasi yang dibuat pada smart phone berbasis Android yang ada
+dipasaran menunjukkan semua fungsionalitas fitur yang disediakan dapat
+berjalan dengan lancar. Berdasarkan hasil pengujian melalui kuisioner yang
+dibagikan kepada beberapa respoden masyarakat baik dalam lingkungan kampus
+UMS maupun diluar lingkup kampus diperoleh kesimpulan bahwa aplikasi
+pembelajaran hadis mobile menarik, jelas mudah dioperasikan, cukup efektif,
+mudah dipahami dalam penggunaannya dan materi yang ada di dalamnya sesuai
+dengan kebutuhan, materi-materinya sangat bermanfaat.
+Aplikasi yang dibuat masih dalam tahap pengembangan awal, akan lebih
+baik apabila mengembangkan program ini dilanjutkan melalui penelitian
+berikutnya agar mendapatkan yang lebih baik dan lebih mendalam dalam segi
+materi dan fitur aplikasi seperti fitur suara untuk pembacaan Hadis maupun
+terhubung dengan online sehingga materi bisa terus diupdate.
+6. UCAPAN TERIMA KASIH (ACKNOWLEDGEMENT)
+Tim peneliti mengucapkan terima kasih kepada Lembaga Penelitian dan
+Pengabdian kepada Masyarakat (LPPM) Universitas Muhammadiyah Surakarta
+yang sudah mendanai penelitian ini.
+DAFTAR PUSTAKA
+Brata, Komang Candra; Soebroto, Arief Andy; Arwani, Issa. (2012). Rancang Bangun
+Aplikasi Jejaring Sosial Kampus Berbasis GPS Pada Smartphone Android.
+Journal Basic Science And Technology, 1(2),20-26,2012 ISSN : 2089-8185
+Budiman, Arief; Dayanto, Tomy Dwi; Lantik. (2012). Pengembangan Aplikasi Mobile
+Pembelajaran Mitigasi Bencana Gempa Bumi Berbasis Multimedia, Seminar
+Nasional Teknologi Informasi dan Komunikasi 2012 (SENTIKA 2012) ISSN:
+2089-9815 Yogyakarta, 10 Maret 2012 pp. 36 – 40.
+Darma, I Gusti Ngurah; Purnomo, Sigit; Anindito, Kusworo. (2012). Perancangan
+Aplikasi Mobile City Directory Yogyakarta Berbasis Android, Seminar Nasional
+Teknologi Informasi dan Komunikasi 2012 (SENTIKA 2012) ISSN: 2089-9815
+Yogyakarta, 10 Maret 2012, pp 136 – 142.
+Haryanto. (2011). Macam-macam Metode Pembelajaran.
+http://belajarpsikologi.com/macam-macam-metode-pembelajaran/ (diakses
+tanggal 12 Juli 2013)
+
+919
+
+JURNAL INFORMATIKA Vol. 8, No. 2, Juli 2014
+Nunggraini, Wulan. (2012). Perancangan Media Pembelajaran Ilmu Nahwu Berbasis
+Multimedia. Surakarta : Universitas Muhammadiyah Surakarta.
+Purwanti, Ika. (2013). Perancangan Aplikasi Pembelajaran Huruf Hijaiyah Berplatform
+Android Untuk Madrasah Baca Tulis Al Quran Al-Fattah Desa Widodaren
+Kabupaten Ngawi, Seminar Riset Unggulan Nasional Informatika dan Komputer
+FTI UNSA 2013, Vol 2 No 1 – Maret 2013 ISSN: 2302-1136 seruniid.unsa.ac.id, pp. 123 – 130.
+Safaat, Nazruddin. (2012). “Pemrograman Aplikasi Mobile Smartphone dan Tablet PC
+Berbasis Android”. Bandung : Informatika.
+Septiawan, Arif Tri. (2012). Pengenalan Dan Pembelajaran Cara Membaca Alquran
+(Ilmu Tajwid) Berbasis Android Mobile. Surakarta : Universitas Muhammadiyah
+Surakarta.
+Sobri, Muhammad dan Abdillah, Leon Andretti. (2013). Aplikasi Belajar Membaca
+Iqro’ berbasis Mobile. Seminar Nasional Teknologi Informasi dan Multimedia
+2013STMIK AMIKOM Yogyakarta, 19 Januari 2013 ISSN: 2302 -2805, pp. 20.1
+– 20.5.
+Wikipedia. (2013). Pembelajaran. http://id.wikipedia.org/wiki/Pembelajaran
+(diakses tanggal 2 Juli 2013)
+
+920
+
+

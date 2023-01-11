@@ -1,0 +1,653 @@
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+ANALISIS KESALAHAN SISWA DALAM MENYELESAIKAN
+SOAL CERITA PADA MATERI VOLUME PRISMA DENGAN
+FONG’S SHCEMATIC MODEL FOR ERROR ANALYSIS
+DITINJAU DARI GAYA KOGNITIF SISWA
+(STUDI KASUS SISWA KELAS VIII SEMESTER II SMP IT
+IBNU ABBAS KLATEN TAHUN AJARAN 2013/2014)
+Fitri Andika Nurussafa’at1, Imam sujadi2, Riyadi3
+1,2,3
+
+Prodi Magister Pendidikan Matematika, FKIP Universitas Sebelas Maret Surakarta
+Abstract: This study aims to find out students’ error in solving stories problems on
+prism volume using fong’s shcematic model for error analysis viewed from the
+students’ cognitive style. This study was conducted in SMP IT Ibnu abbas Klaten in
+the academic year of 2013/2014. This study is a qualitative study. The technique used
+in selecting the research subjects was purposive sample. The subjects used in this study
+were 6 students taken from grade VIII. The result is: (1) the errors experienced by
+students with field dependent type is more dominant than operational errors, and
+mathematical themes errors, (2) the errors experienced by students with field
+independent type is more dominant than language errors, (3) the factors that caused
+students with field dependent type to make mistakes in solving prism volume word
+problems based were: the inadvertence on reading the problems, the forgetfulness, in a
+hurry to finish, the effect of the previous mistakes, and the lack of understanding on the
+sequence of solving the problems, (4) the factors that caused students with field
+independent type to make mistakes in solving prism volume problems based were: the
+assumption that the symbol (=) might be replaced with the symbol (:), the desire to
+quickly finish the problems, in a hurry in solving the problems, the habit of incomplete
+problems writing, the effect of the previous mistakes, the lack of the steps mastery of
+solving the given problems.
+Keywords: Error analysis, Prism Volume, Fong’s Shcematic Model For Error
+Analysis, Cognitive style.
+
+PENDAHULUAN
+Matematika merupakan suatu ilmu yang penting untuk dipelajari khususnya di
+bangku sekolah. Permasalahannya yaitu tidak sesuainya kemampuan siswa terhadap
+materi yang disajikan guru. Guru ingin menyelesaikan bahan pelajaran yang tercantum
+dalam silabus matematika sedang siswa belum memahaminya. Banyak terjadi siswa lebih
+lambat mencerna konsep yang diberikan guru. Ini dapat diartikan bahwa guru terlalu
+banyak berharap dan mengakibatkan siswa tidak menyukai matematika. Padahal yang
+diharapkan siswa menyukai matematika dan dapat diaplikasikan dalam kehidupan seharihari. Selain masalah di atas, masalah yang lain yaitu kebiasaan siswa dalam mengerjakan
+soal matematika menggunakan bentuk soal pilihan ganda. Hal itu mengakibatkan anak
+lemah dalam berpikir secara skematis. Siswa lebih mementingkan hasil daripada proses
+itu sendiri. Hal itu berujung pada pekerjaan siswa yang salah.
+SMP IT Ibnu Abbas Klaten merupakan salah satu sekolah swasta yang berada di
+kabupaten Klaten. Daya serap soal UN 2013 siswa SMP IT Ibnu Abbas untuk soal
+
+174
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+menyelesaikan masalah yang berkaitan dengan volume bangun ruang adalah 58,41% dari
+jumlah peserta ujian 113 siswa. (BSNP, 2013). Dari hasil wawancara dengan guru
+matematika SMP IT Ibnu Abbas Klaten, rendahnya daya serap soal menyelesaikan
+masalah yang berkaitan dengan volume bangun ruang pada UN dikarenakan materi yang
+berkaitan dengan bangun ruang memang yang paling sulit untuk dipelajari bagi para
+siswa. Hal itu dengan dibuktikan dengan banyaknya siswa yang mendapatkan nilai di
+bawah KKM pada materi tersebut. Setelah dianalisis banyak siswa mengalami kesalahan
+dalam mengerjakan soal bentuk cerita pada materi volume bangun ruang khususnya
+volume prisma.
+Banyak faktor yang menyebabkan kesalahan tersebut. Apalagi ketika siswa
+menghadapi soal yang berkaitan dengan bangun ruang (dimensi tiga) berbentuk soal
+cerita. Shaleh Haji (1994: 13) mengemukakan bahwa soal cerita merupakan
+
+modifikasi dari soal-soal hitungan yang berkaitan dengan kenyataan yang ada di
+lingkungan siswa. Budiyono (2008) dalam penelitiannya tentang kesalahan
+mengerjakan soal cerita dalam pembelajaran matematika mengatakan bahwa soal cerita
+masih merupakan soal yang cukup sulit bagi sebagian siswa. Hal ini ditandai hanya
+sekitar separuh siswa yang dapat menjawab sempurna. Dari yang menulis benar kalimat
+matematikanya, hanya tiga perempat yang dapat menyelesaikan kalimat matematikanya
+dengan benar. Banyak siswa kurang teliti dalam pekerjaannya, namun banyak juga yang
+melakukan kesalahan algoritmik. Dari yang benar menyelesaikan kalimat matematikanya,
+tidak seluruh siswa menjawab kembali apa yang ditanyakan oleh soal. Kebanyakan siswa
+berhenti mengerjakan setelah selesai menyelesaikan kalimat matematikanya. Literatur
+yang lain menyebutkan bahwa kesalahan siswa dalam mengerjakan soal matematika pada
+umumnya dikarenakan siswa mengalami kesalahan konsep dan interkoneksi dalam
+belajar (Tall & Razali 1993). Selain itu, kesalahan yang paling banyak dialami siswa
+dalam menyelesaikan soal cerita adalah kesalahan dalam memahami soal (Hanifah,
+2009).
+Jiang (2005), dalam penelitiannya yang menggunakan Fong’ s shcematic model
+for error analysis menyebutkan bahwa secara umum siswa Cina dan Singapura tidak bisa
+mendapatkan jawaban yang benar dalam menyelesaikan masalah. Siswa sering membuat
+Incomplete Schema with Errors (skema tidak lengkap dengan kesalahan), Using
+Irrelevant Procedures (menggunakan prosedur yang tidak relevan), dan No Solution
+(Tidak ada solusi). Penelitian yang dilakukan Jiang merupakan penelitian kuantitatif.
+Pada penelitiannya hanya ingin mengetahui persentase kesalahan skema yang dilakukan
+siswa Cina dan Singapura. Penelitian tersebut tidak mencari tahu penyebab kesalahan
+yang dilakukan siswa dalam menyelesaikan soal cerita secara mendalam. Oleh sebab itu,
+175
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+pada peneliti ini ingin mencari tahu penyebab kesalahan skema siswa dalam
+menyelesaikan soal cerita secara mendalam.
+Salah satu faktor internal yang perlu diperhatikan dalam menganalisis kesalahan
+siswa adalah gaya kognitif. Gaya kognitif erat kaitannya dengan kemampuan seseorang
+untuk memproses informasi sebagai respon dari rangsangan yang
+
+berasal dari
+
+lingkungan. Karena gaya kognitif merupakan bagian dari karakteristik siswa, sehingga
+perlu diketahui tipe-tipe gaya kognitif tersebut supaya dapat disesuaikan dengan
+pembelajaran. Menurut Messick (Alamolhodaei, 2001: 102) gaya kognitif adalah
+
+kebiasaan seseorang dalam pengolahan informasi, yang digunakan dalam proses
+belajar yaitu mengamati, berpikir, menyelesaikan masalah, dan mengingat.
+Sementara Mayer & Massa (Choi & Sardar, 2001: 1) mengatakan bahwa cognitive
+style describes how individuals process and represent information. Sedangkan
+menurut Stave (2011: 40) gaya kognitif adalah variabel potensial yang
+mempengaruhi pemikiran siswa dalam pembelajaran dan pengembangan
+akademik. Selain itu, Samuel (2011: 24) mengatakan bahwa menemukan gaya
+kognitif siswa penting untuk menentukan prestasi mereka dalam matematika, guru
+matematika harus berusaha untuk merancang rencana pelajaran mampu
+meningkatkan kinerja siswa dengan beragam tingkat gaya kognitif. Hassen dan
+Steele (Yunusa, 2013: 61) mengatakan bahwa gaya kognitif adalah kebiasaan
+pengolahan informasi, mempersepsi, berpikir, pemecahan masalah, dan
+mengingat. Riding & Smith (1997: 206) dalam kesimpulan penelitiannya menyebutkan
+bahwa jika dalam pembelajaran dapat mengetahui tipe gaya kognitif, dimungkinkan dapat
+meningkatkan efisiensi dan efektifitas pembelajaran. Selain itu, dapat juga membantu
+mengidentifikasi kesulitan siswa dalam pembelajaran. Dengan kata lain, perlu dikenali
+tipe-tipe gaya kognitif dari masing-masing siswa supaya dapat memabantu menganalisis
+kesalahan siswa dalam menyelesaikan soal matematika. Pengelompokan tipe-tipe gaya
+kognitif dapat dibedakan dalam beberapa kategori.
+Witkin (Tanwey Gerson Ratumanan, 2003: 2)
+
+mengungkapkan bahwa gaya
+
+kognitif dikelompokkan menjadi dua yaitu (1) field independent (FI) dan (2) field
+dependent (FD). Tipe field independent (FI) pada dasarnya dalam memproses informasi
+dari luar tidak terlalu dipengaruhi oleh kondisi lingkungan sekitar, sedangakan tipe field
+dependent (FD) adalah sebaliknya. Ahmad (2010: 227) dalam penelitiannya
+
+menemukan bahwa siswa dengan gaya kognitif field independent (FI) memiliki
+kinerja yang lebih efektif dalam memecahkan masalah matematika dibandingkan
+
+176
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+dengan siswa dengan gaya kognitif field dependent (FD). Selain itu, Leila &
+Moslem (2013: 248) menjelaskan bahwa gaya kognitif siswa mempengaruhi
+siswa dalam prestasi akademik.
+Kesalahan siswa dalam mengerjakan soal cerita perlu adanya analisis untuk
+mengetahui kesalahan apa saja yang banyak dilakukan dan mengapa kesalahan tersebut
+dilakukan siswa. Melalui analisis kesalahan akan diperoleh bentuk dan penyebab
+kesalahan siswa, sehingga guru dapat memberikan jenis bantuan kepada siswa. Kesalahan
+yang dilakukan siswa perlu adanya analisis lebih lanjut, agar mendapatkan gambaran
+yang jelas dan rinci atas kelemahan-kelemahan siswa dalam menyelesaikan soal cerita.
+Dalam penelitian ini untuk menganalisi kesalahan yang dilakukan siswa dalam
+menyelesaikan soal cerita pada materi volume prisma menggunakan metode Fong.
+Pemilihan ini karena kesalahan dibagi menjadi dua tingkat. Tingkat I berdasarkan skema
+pengerjaan siswa. Sedangkan tingkat II berdasarkan kesalahan bahasa, operasional dan
+tema matematika.
+Tujuan penelitian ini adalah untuk mengetahui: (1) kesalahan apa yang dialami
+siswa tipe field dependent (FD) dalam menyelesaikan soal cerita pada materi volume
+prisma berdasarkan Fong’s Shcematic Model For Error Analysis, (2) kesalahan apa yang
+dialami siswa tipe field independent (FI) dalam menyelesaikan soal cerita pada materi
+volume prisma berdasarkan Fong’s Shcematic Model For Error Analysis, (3) faktorfaktor yang menyebabkan siswa tipe field dependent (FD) melakukan kesalahan dalam
+menyelesaikan soal cerita pada materi volume prisma berdasarkan Fong’s Shcematic
+Model For Error Analysis,
+
+(4) faktor-faktor yang menyebabkan siswa tipe field
+
+independent (FI) melakukan kesalahan dalam menyelesaikan soal cerita pada materi
+volume prisma berdasarkan Fong’s Shcematic Model For Error Analysis.
+
+METODE PENELITIAN
+Penelitian ini dilaksanakan di SMP IT Ibnu Abbas Klaten pada semester genap
+tahun pelajaran 2013/2014. Jenis penelitian adalah penelitian kualitatif. Teknik pemilihan
+subjek penelitian menggunakan purposive sample atau sampel bertujuan. Subyek
+penelitian siswa kelas VIII Semester II SMP IT Ibnu Abbas Klaten yang memiliki gaya
+kognitif tipe field dependent (FD) dan tipe field independent (FI). Selain itu, subjek akan
+dipilih yang melakukan kesalahan pendekatan skema kategori (E1) skema lengkap
+dengan kesalahan (E3) skema tidak lengkap dengan kesalahan, dan (E4) menggunakan
+prosedur yang tidak relevan. Dari masing-masing kategori diambil dua siswa. Dengan
+kata lain, subjek terdiri dari tiga siswa yang memiliki gaya kognitif tipe field dependent
+(FD) dan tiga siswa yang memiliki gaya kognitif tipe field independent (FI) dengan
+177
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+kesalahan pendekatan skema yang berbeda-beda yaitu kesalahan pendekatan skema
+kategori E1, E3, dan E4.
+Metode pengumpulan data penelitian meliputi metode tes, dan wawancara.
+Sebelum dilakukan tes, butir soal diuji terlebih dahulu validitas sebelum digunakan untuk
+penelitian. Aspek validitas yang digunakan yaitu: materi, konstruksi kalimat, dan bahasa.
+validitas instrumen yang digunakan adalah validitas isi. Validitas data dilakukan dengan
+uji credibility (kredibilitas). Adapun uji kredibilitas dilakukan dengan triangulasi metode
+dan triangulasi waktu.
+Analisis data dalam penelitian ini dilakukan sejak sebelum memasuki lapangan,
+selama proses di lapangan, dan setelah selesai di lapangan. Namun dalam penelitian ini,
+analisis data lebih difokuskan selama proses di lapangan bersamaan dengan pengumpulan
+data. Analisis data tes uraian yang memuat butir soal cerita pada materi volume prisma
+dilakukan dengan memverifikasi pekerjaan siswa berdasarkan Fong’ S Shcematic Model
+For Error Analysis,
+
+jawaban siswa yang dianalisis khusus pada kesalahan tipe E1,
+
+E3, dan E4. Pemilihan ini karena pada kesalahan skema tipe (E1) skema lengkap dengan
+kesalahan, (E3) skema tidak lengkap dengan kesalahan, dan (E4) menggunakan prosedur
+yang tidak relevan perlu adanya analsis lebih lanjut tentang penyebab siswa melakukan
+kesalahan tersebut. Setelah menganalisis kesalahan tingkat I selanjutnya dilakukan
+analisis kesalahan tingkat II yaitu dalam hal kesalahan bahasa, operasional, dan tema
+matematika. Selanjutnya dilakukan pengklasifikasian dan identifikasi data, yaitu
+menuliskan kumpulan data yang terorganisasi dan terkategori. Setelah itu, menarik
+kesimpulan sementara dari data yang telah dikumpulkan dan memverifikasi kesimpulan
+tersebut.
+Analisis data hasil wawancara digunakan untuk memperkuat kesimpulan
+sementara yang dilakukan setelah peneliti menganalisis data tes. Analisis data hasil
+wawancara ini dilakukan dengan langkah memverifikasi hasil wawancara siswa,
+pernyataan siswa yang diperoleh selanjutnya dilakukan pengklasifikasian dan identifikasi
+data, menarik kesimpulan dari hasil wawancara yang telah dikumpulkan dengan tujuan
+untuk memperkuat kesimpulan sementara dari hasil analisis tes.
+Secara garis besar, teknik analisis data dalam penelitian ini menggunakan teknik
+interaktif sebagai berikut: (1) Pengumpulan Data. Data yang dikumpulkan berupa data
+hasil tes dan hasil wawancara dengan siswa yang menjadi subjek penelitian. (2) Reduksi
+Data. Reduksi data dalam penelitian ini, diartikan sebagai proses pemilihan, pemusatan
+perhatian pada penyederhanaan, pengabstrakan dan transformasi data “kasar” yang
+muncul dari catatan-catatan tertulis di lapangan. Dalam hal ini, peneliti membuat catatan
+lapangan kemudian apabila catatan lapangan sudah terkumpul, maka peneliti memilih di
+178
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+antara catatan-catatan itu, tentang bagian data mana yang dipakai, mana yang dibuang,
+serta cerita apa yang sedang berkembang. (3) Penyajian Data. Penyajian data merupakan
+penyampaian informasi berdasarkan data yang dimiliki dan disusun secara baik, runtut
+sehingga mudah dilihat, dibaca, dan dipahami tentang suatu kejadian dan tindakan atau
+peristiwa dalam bentuk teks narasi. Pada langkah ini, peneliti berusaha menyususun data
+yang relevan sehingga menjadi informasi yang dapat disimpulkan dan memiliki makna
+tertentu. Prosesnya dapat dilakukan dengan cara menampilkan dan membuat hubungan
+antar fenomena untuk memaknai apa yang sebenarnya terjadi dan apa yang perlu
+ditindaklanjuti untuk mencapai tujuan penelitian. (4) Penarikan Kesimpulan atau
+Verifikasi. Berdasarkan data-data yang diperoleh dari berbagai sumber, peneliti
+mengambil kesimpulan yang masih bersifat sementara akan tetapi, dengan bertambahnya
+data melalui proses verifikasi, maka akan diperoleh kesimpulan yang bersifat kuat.
+Dengan kata lain, setiap kesimpulan senantiasa terus menerus dilakukan verifikasi selama
+penelitian berlangsung. Kesimpulan yang diperoleh melalui analisis data tersebut
+dijadikan pedoman untuk menyusun rekomendasi dan implikasi.
+
+HASIL PENELITIAN DAN PEMBAHASAN
+Setelah guru selesai mengajarkan pokok bahasan bangun ruang sisi datar, peneliti
+memberikan tes tertulis kepada siswa kelas VIII A1 dan VIII A2 SMP IT Ibnu Abbas
+Klaten. Tes tertulis ini terdiri dari 1 soal esai berbentuk soal cerita materi volume prisma.
+Tes Uraian Bentuk Cerita dilaksanakan tiga tahap. Tahap pertama tanggal 13 Mei 2014,
+tahap kedua tanggal 14 Mei 2014, dan tahap ketiga tanggal 4 juni 2014. Jumlah peserta
+tes sebanyak 56 siswa. Dalam pemeriksaan jawaban siswa, tidak berfokus pada
+pemberian nilai. Fokus utama untuk mencari kesalahan yang dialami pada tingkat I
+berdasarkan Fong’s Shcematic Model For Error Analysis.
+Dari jawaban subjek terpilih selanjutnya dianalisis untuk mencari tahu kesalahan
+tingkat II yang berupa kesalahn bahasa, operasional dan tema matematika. Kemudian
+peneliti melakukan wawancara dengan siswa agar dapat diketahui faktor penyebab
+kesalahan subjek tersebut dalam mengerjakan soal cerita materi volume prisma. Hasil
+penelitian sebagai berikut.
+Fong’s Shcematic Model For Error Analysis pada siswa tipe field dependent (FD)
+dalam menyelesaikan soal cerita pada materi volume prisma.
+
+Kesalahan bahasa yang dilakukan siswa tipe field dependent (FD) antara
+lain: (a) tidak lengkap dalam menuliskan apa yang diketahui dan ditanyakan, (b)
+salah dalam menuliskan apa yang diketahui dari soal, (c) tidak menuliskan apa
+179
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+yang ditanyakan, (d) tidak lengkap dalam menuliskan rumus. Hal ini sesuai
+dengan penelitian yang dilakukan Bunga Suci Bintari Rindyana (2012: 6) yang
+menyatakan bahwa beberapa kesalahan-kesalahan yang dilakukan siswa dalam
+menyelesaikan soal cerita yaitu tidak menuliskan apa yang diketahui, menuliskan
+yang diketahui tidak sesuai dengan permintaan soal, menuliskan yang ditanyakan
+tidak sesuai dengan permintaan soal, dan tidak menuliskan yang ditanyakan dalam
+soal. Hal itu sejalan dengan pendapat Eicholz (Suparman Pontoh, 2013: 02) yang
+menyatakan bahwa kesalahan-kesalahan yang sering dilakukan siswa dalam
+menyelesaikan soal cerita antara lain memahami apa yang diketahui dan
+ditanyakan, dan menemukan data yang dibutuhkan. Penelitian yang sejalan
+lainnya yaitu Hartini (2011: 96) mengatakan bahwa kesalahan yang dilakukan
+siswa
+
+dalam
+
+menyelesaikan
+
+soal
+
+cerita
+
+yaitu
+
+kesalahan
+
+pada
+
+aspek
+
+bahasa/terjemahan yang meliputi kesalahan dalam menentukan apa yang diketahui
+dan ditanyakan dalam soal serta kesalahan dalam menuliskan kalimat/model
+matematika.
+Dari hasil wawancara diketahui bahwa faktor penyebab kesalahan bahasa
+yang dilakukan siswa tipe field dependent (FD) antara lain: (a) beranggapan
+bahwa menulis apa yang diketahui tidak terlalu penting karena sudah jelas apa
+yang ditanyakan dalam soal, (b) menurut subjek, guru tidak begitu menekankan
+untuk menuliskan kesimpulan dalam mengerjakan soal cerita, (c) menganggap
+bahwa menulis apa yang ditanyakan akan membuang waktu dan lebih ringkas
+apabila tidak ditulis, (d) kurang teliti dalam membaca soal sehingga
+mengakibatkan salah dalam menuliskan apa yang diketahui, (e) lupa untuk
+menuliskan rumus secara lengkap dan tergesa-gesa dalam mengerjakan. Hal itu
+sejalan dengan penelitian oleh Bunga Suci Bintari Rindyana (2012: 6) yang
+mengatakan bahwa
+
+beberapa faktor penyebab kesalahan siswa dalam
+
+mengerjakan soal cerita antara lain tidak bisa menyusun makna kata yang
+dipikirkan kedalam bentuk kalimat matematika, kurang teliti, dan lupa. Penelitian
+Hartini (2011: 96) juga memaparkan bahwa faktor penyebab kesalahan siswa
+dalam menyelesaikan soal cerita yaitu kurang terbiasanya siswa dalam
+menuliskan apa yang diketahui dan apa yang ditanyakan.
+Kesalahan operasional yang dilakukan siswa tipe field dependent (FD)
+antara lain: (a) tidak menuliskan satuan volume prisma dan satuan volume minyak
+180
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+tanah, (b) salah ketika mencari volume prisma, volume minyak tanah dan banyak
+kubus yang diperlukan, (c) salah dalam menuliskan satuan luas alas prisma
+segitiga, (d) tidak lengkap dalam menuliskan rumus volume prisma, (e) skema
+jawaban tidak relevan dengan solusi.
+
+Hal tersebut sesuai dengan pendapat
+
+Rahardjo dan Astuti (Suparman Pontoh, 2013: 02) yang menyatakan bahwa
+beberapa kesalahan yang dilakukan siswa dalam menyelesaikan soal cerita yaitu
+kesalahan dalam melakukan komputasi, dan kesalahan menginterpretasikan
+jawaban model matematika. Hal itu sejalan dengan Eicholz (Suparman Pontoh,
+2013: 02) mengatakan bahwa
+
+kesalahan yang dilakukan siswa dalam
+
+menyelesaikan soal cerita antara lain kesalahan dalam merencanakan apa yang
+harus dilakukan dan kesalahan dalam menemukan jawaban melalui komputasi
+(penghitungan).
+Dari hasil wawancara diketahui bahwa faktor penyebab kesalahan
+operasional yang dilakukan siswa tipe field dependent (FD) antara lain: (a)
+beranggapan bahwa dirinya sudah cukup mengerti satuan yang dituliskan
+walaupun bisa jadi itu belum bisa dimengerti oleh orang lain, (b) akibat kesalahan
+sebelumnya, (c) terburu-buru dalam mengerjakan soal agar cepat selesai. Dari
+hasil pembahasan tersebut sesuai dengan penelitian Hartini (2011: 96) bahwa
+faktor penyebab kesalahan siswa dalam mengerjakan soal cerita antara lain
+keinginan subjek untuk menyingkat penulisan jawaban dan ketidaksadaran siswa
+bahwa kalimat/model matematika yang ia tuliskan adalah salah.
+Kesalahan tema matematika yang dilakukan siswa tipe field dependent
+(FD) antara lain: (a) salah dalam mengubah satuan meter kedalam bentuk
+centimenter, (b) salah dalam merencanakan apa yang harus dilakukan, (c) salah
+dalam menemukan jawaban melalui komputasi (penghitungan), (d) salah dalam
+mencari luas alas. Hal tersebut sesuai hasil penelitian Rahardjo dan Astuti
+(Suparman Pontoh, 2013: 02) menyimpulkan bahwa kesalahan yang sering
+dilakukan siswa dalam menyelesaikan soal cerita yaitu kesalahan memahami soal,
+kesalahan dalam melakukan komputasi, dan kesalahan menginterpretasikan
+jawaban model matematika. Eicholz (Suparman Pontoh, 2013: 02) juga
+mengatakan bahwa kesalahan yang sering dilakukan siswa dalam menyelesaikan
+soal cerita antara lain salah dalam merencanakan apa yang harus dilakukan dan
+salah dalam menemukan jawaban melalui komputasi (penghitungan).
+181
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+Dari hasil wawancara diketahui bahwa faktor penyebab kesalahan tema
+matematika yang dilakukan siswa tipe field dependent (FD) antara lain: (a) terlalu
+cepat dan terburu-buru dalam mengerjakan soal, (b) belum menguasai materi
+prasyarat, (c) belum memahami soal dengan baik. Hal tersebut sesuai hasil
+penelitian Bunga Suci Bintari Rindyana (2012: 6) yang menjelaskan bahwa faktor
+penyebab kesalahan siswa dalam mengerjakan soal cerita antara lain: (a) tidak
+bisa menyusun makna kata yang dipikirkan ke dalam bentuk kalimat matematika
+dan kurang memahami soal.
+Fong’s Shcematic Model For Error Analysis pada siswa tipe field independent (FI)
+dalam menyelesaikan soal cerita pada materi volume prisma
+
+Kesalahan bahasa yang dilakukan siswa tipe field independent (FI) antara
+lain: (a) tidak lengkap dalam menuliskan apa yang ditanyakan, (b) tidak
+menuliskan apa yang diketahui dan apa yang ditanyakan, (c) salah dalam
+pengkodean, (d) tidak menuliskan rumus, (e) kurang lengkap dalam menuliskan
+keterangan rumus, (f) tidak lengkap dalam menuliskan apa yang ditanya. Hal
+tersebut sesuai dengan penelitian yang dilakukan Bunga Suci Bintari Rindyana
+(2012: 6) yang menyatakan bahwa beberapa kesalahan yang dilakukan siswa
+dalam menyelesaikan soal cerita yaitu tidak menuliskan apa yang diketahui,
+menuliskan yang diketahui tidak sesuai dengan permintaan soal, menuliskan yang
+ditanyakan tidak sesuai dengan permintaan soal, dan tidak menuliskan yang
+ditanyakan dalam soal. Hal itu sejalan dengan hasil penelitian Eicholz (Suparman
+Pontoh, 2013: 02) yang menyatakan bahwa kesalahan siswa dalam menyelesaikan
+soal cerita antara lain memahami apa yang diketahui dan ditanyakan, dan
+menemukan data yang dibutuhkan. Penelitian yang sejalan lainnya yaitu Hartini
+(2011: 96) mengatakan bahwa kesalahan yang dilakukan siswa dalam
+menyelesaikan soal cerita yaitu kesalahan pada aspek bahasa yang meliputi
+kesalahan dalam menentukan apa yang diketahui dan ditanyakan dalam soal serta
+kesalahan dalam menuliskan kalimat atau model matematika.
+Faktor penyebab kesalahan bahasa yang dilakukan siswa tipe field
+independent (FI) antara lain: (a) tidak terbiasa menuliskan apa yang ditanyakan,
+(b) merasa benar bahwa tanda (=) boleh diganti dengan tanda (:), (c) tergesa-gesa
+dalam mengerjakan soal agar dapat menyelesaikan soal dengan cepat, (d) ingin
+182
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+menyelesaikan soal dengan cepat. Hal itu sejalan dengan penelitian Penelitian
+Hartini (2011: 96) yang memaparkan bahwa faktor penyebab kesalahan siswa
+dalam menyelesaikan soal cerita yaitu kurang terbiasanya siswa dalam
+menuliskan apa yang diketahui dan ditanyakan dalam soal serta keinginan siswa
+untuk menyingkat penulisan jawaban.
+Kesalahan operasional yang dilakukan siswa tipe field independent (FI)
+antara lain: (a) salah dalam operasi perkalian, (b) tidak menuliskan kesimpulan
+dari jawaban akhir, (c) salah dalam mencari volume minyak tanah, (d) salah
+dalam menghitung luas alas segitiga, volume prisma dan volume minyak tanah,
+(e) tidak menuliskan rumus. Hal tersebut sesuai dengan pendapat Rahardjo dan
+Astuti (Suparman Pontoh, 2013: 02) yang menyatakan bahwa beberapa kesalahan
+yang dilakukan siswa dalam menyelesaikan soal cerita yaitu kesalahan dalam
+melakukan komputasi, dan kesalahan menginterpretasikan jawaban model
+matematika. Selain itu, penelitian yang sejalan lainnya yaitu penelitian Eicholz
+(Suparman Pontoh, 2013: 02). Kesimpulan penelitiannya yaitu kesalahan yang
+dilakukan siswa dalam menyelesaikan soal cerita antara lain kesalahan dalam
+merencanakan apa yang harus dilakukan dan kesalahan dalam menemukan
+jawaban melalui komputasi (penghitungan)
+Faktor penyebab kesalahan operasional yang dilakukan siswa tipe field
+independent (FI) antara lain: (a) kurang teliti dalam operasi perkalian, (b) terbiasa
+tidak menuliskan keimpulan, (c) merasa sudah tahu jawabannya tanpa berpikir
+bahwa jawabannya belum tentu dimengerti oleh orang lain, (d) akibat dari
+kesalahan sebelumya, (e) terbiasa mengerjakan soal pilihan ganda daripada soal
+uraian berbentuk cerita, (f) tidak konsentrasi dalam mengerjakan dan ingin segera
+menyelesaikan pekerjaannya. Dari hasil pembahasan tersebut sejalan dengan
+penelitian Hartini (2011: 96) bahwa faktor penyebab kesalahan siswa dalam
+menyelesaikan soal cerita antara lain:
+
+keinginan siswa untuk menyingkat
+
+penulisan jawaban, ketidak sadaran siswa bahwa kalimat/model matematika yang
+ia tuliskan adalah salah, kebingungan siswa, kekurang telitian siswa dalam
+melakukan penghitungan, dan kurang terbiasanya siswa dalam menuliskan
+kesimpulan
+Kesalahan tema matematika yang dilakukan siswa tipe field independent
+(FI) antara lain: (a) salah dalam menuliskan rumus, (b) salah dalam jawaban
+183
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+akhir, (c) salah dalam mengubah satuan, (d) salah dalam merencanakan apa yang
+harus dilakukan, (e) salah dalam memahami soal. Dari hasil pembahasan tersebut
+sejalan dengan beberapa kesimpulan penelitian Rahardjo dan Astuti (dalam
+Suparman Pontoh, 2013: 02) bahwa kesalahan yang sering dilakukan siswa dalam
+menyelesaikan soal cerita yaitu kesalahan memahami soal, dan kesalahan
+menginterpretasikan jawaban model matematika. Selain itu, menurut
+
+Eicholz
+
+(Suparman Pontoh, 2013: 02) mengatakan bahwa beberapa kesalahan yang
+dilakukan siswa dalam menyelesaikan soal cerita yaitu salah dalam merencanakan
+apa yang harus dilakukan, dan salah dalam menemukan jawaban melalui
+komputasi. Hal tersebut sejalan dengan Bunga Suci Bintari Rindyana (2012: 6)
+mengatakan bahwa kesalahan yang dilakukan siswa dalam menyelesaikan soal
+cerita yaitu salah dalam memaknai kalimat yang mereka baca dengan baik, salah
+dalam menggunakan metode yang akan digunakan, salah dalam menulis jawaban
+akhir yang tidak sesuai dengan konteks soal.
+Faktor penyebab kesalahan tema matematika yang dilakukan siswa tipe
+field independent (FI) yaitu: (a) tidak bisa membedakan antara sisi dan rusuk pada
+kubus, (b) akibat kesalahan sebelumnya, (c) belum memahami materi prasyarat,
+(d) bingung dalam menentukan rumus, (e) belum begitu menguasai materi terkait
+mengubah satuan panjang, (f) belum menguasai konsep dalam menjawab soal
+yang diberikan. Hal itu sesuai dengan penelitian Bunga Suci Bintari Rindyana
+(2012: 6) menjelaskan tentang beberapa faktor penyebab kesalahan siswa dalam
+mengerjakan soal cerita yaitu tidak bisa menyusun makna kata yang dipikirkan
+kedalam bentuk kalimat matematika, dan kurang memahami soal. Penelitian yang
+memiliki kesimpulan yang sama yaitu Hartini (2011: 96). Dalam penelitiannya
+dikatakan bahwa faktor penyebab kesalahan siswa dalam menyelesaikan soal
+cerita yaitu kebingungan siswa, kurangnya pemahaman yang kuat akan
+kompetensi dasar yang diperlukan untuk menyelesaikan soal, kekurangtelitian
+siswa dalam melakukan penghitungan, dan kurangnya pemahaman siswa akan
+materi prasyarat yang diperlukan untuk menyelesaikan soal.
+KESIMPULAN DAN SARAN
+Kesimpulan pada penelitian ini yaitu: (1) kesalahan-kesalahan yang dialami
+siswa tipe field dependent (FD) dalam menyelesaikan soal cerita pada materi volume
+
+184
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+prisma berdasarkan Fong’s Shcematic Model For Error Analysis yaitu kesalahan bahasa,
+kesalahan opersional, dan kesalahan tema matematika. Namun, lebih dominan pada
+kesalahan operasional dan tema matematika. (2) Kesalahan-kesalahan yang dialami siswa
+tipe field independent (FI) dalam menyelesaikan soal cerita pada materi volume prisma
+berdasarkan Fong’s Shcematic Model For Error Analysis
+
+yaitu kesalahan bahasa,
+
+kesalahan opersional, dan kesalahan tema matematika. Namun, kesalahan lebih dominan
+pada kesalahan bahasa. (3) Faktor-faktor yang menyebabkan siswa tipe field dependent
+(FD) melakukan kesalahan dalam menyelesaikan soal cerita materi volume prisma
+berdasarkan Fong’s Shcematic Model For Error Analysis yaitu: (a) kurang teliti, (b)
+beranggapan bahwa menulis apa yang diketahui dan ditanya tidak terlalu penting, (c)
+menganggap bahwa menulis apa yang diketahui dan ditanyakan akan membuang waktu,
+(d) lupa untuk menuliskan rumus, (e) sengaja tidak menuliskan rumus dengan lengkap, (f)
+terburu-buru, (g) kurang teliti dalam operasi perkalian, (h) sengaja tidak menuliskan
+satuan dengan lengkap, (i) beranggapan bahwa dirinya sudah cukup mengerti satuan yang
+dituliskan, (j) akibat kesalahan sebelumnya, (k) belum memahami materi tentang satuan
+volume dan siswa mengira bahwa satuan volume seharusnya semua dalam liter, (l) belum
+memahami materi tentang satuan luas, (m) tidak terbiasa dalam menuliskan kesimpulan,
+(n) menurut siswa, guru tidak begitu menekankan untuk menuliskan kesimpulan dalam
+mengerjakan soal cerita, (o) kurang menguasai materi prasyarat, (p) belum memahami
+urutan-urutan yang harus dilakukan, (q) belum memahami rumus volume kubus. (4)
+Faktor-faktor yang menyebabkan siswa tipe field independent (FI) melakukan kesalahan
+dalam menyelesaikan soal materi volume prisma berdasarkan Fong’s Shcematic Model
+For Error Analysis yaitu: (a) merasa benar bahwa tanda (=) boleh diganti dengan tanda
+(:), (b) malas dalam menuliskan keterangan dalam mencari luas segitiga, (c) ingin
+menyelesaikan soal dengan cepat, (d) tergesa-gesa, (e) terbiasa tidak lengkap dalam
+menuliskan apa yang ditanyakan, (f) siswa beranggapan bahwa dengan menggabung
+antara apa yang ditanya dengan kesimpulan dapat meringkas jawaban dan mempercepat
+proses pengerjaan soal, (g) siswa terbiasa mengerjakan soal pilihan ganda, (h) kurang
+teliti dalam operasi perkalian, (i) akibat dari kesalahan sebelumnya, (j) merasa sudah tahu
+jawabannya tanpa berpikir bahwa jawabannya belum tentu dimengerti oleh orang lain, (k)
+belum memahami materi tentang mengubah satuan panjang, (l) kurang teliti dalam
+mengerjakan soal, (m) tidak bisa membedakan antara sisi dan rusuk pada bangun ruang,
+(n) belum menguasai langkah-langkah dalam menjawab soal.
+Dari kesimpulan di atas, disarankan: (1) alternatif pemecahan kesalahan bahasa
+yaitu hendaknya guru membiasakan siswa untuk menuliskan jawaban selengkap
+mungkin, memberikan penilaian secara objektif dan menyeluruh, (2) alternatif
+185
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+pemecahan kesalahan operasional yaitu guru hendaknya senantiasa meningkatkan
+kemampuan berhitung siswa khususnya dalam hal penjumlahan, pengurangan, perkalian,
+dan pembagian, (3) alternatif pemecahan kesalahan tema matematika
+
+yaitu guru
+
+sebaiknya lebih meningkatkan penguasaan materi terhadap kompetensi dasar yang
+dipelajari beserta materi prasyarat siswa.
+
+DAFTAR PUSTAKA
+Ahmad, H. 2010. Study And Investigation Of The Problems And Learning Disorders Of
+Students By Various Cognitive Styles In Mathematics Course At Rasht Shahid
+Chamran Higher Education Center. The Journal of Mathematics and Computer
+Science, Vol. 1, No. 3, 216-229.
+Alamolhodaei, H. 2001. Convergent/Divergent Cognitive Styles And Mathematical
+Problem Solving. Journal Of Science and Mathematics Education in S.E. Asia,
+Vol. XXIV, No. 2, 102-117.
+BSNP. 2013. Laporan Hasil Ujian Nasional Tahun Pelajaran 2012/2013. Badan Standar
+Nasional Pendidikan.
+Budiyono. 2008. Kesalahan mengerjakan soal cerita dalam pembelajaran matematika.
+Jurnal pedagogia, Vol. 11, No. 1, 7-8.
+Bunga Suci Bintari Rindyana. 2012. Analisis Kesalahan Siswa Dalam Menyelesaikan
+Soal Cerita Matematika Materi Sistem Persamaan Linear Dua Variabel
+Berdasarkan Analisis Newman (Studi Kasus MAN Malang 2 Batu). Tesis.
+Malang: Universitas Negeri Malang.
+Coy, J., & Sadar, S. 2011. An Empirical Investigation of the RelationshipsAmong
+Cognitive Abilities, Cognitive Style, and Learning Preferences in Students
+Enrolled in Specialized Degree Courses at a Canadian College. The Canadian
+Journal for the Scholarship of Teaching and Learning, Vol. 2, No. 1, 1-9.
+Jiang, C. 2011. Errors in Solving Word Problems about Speed: A Case in Singapore and
+Mainland China. China: University of Macau.
+Hartini. 2007. Analisis kesalahan siswa menyelesaikan soal cerita pada kompetensi dasar
+menemukan sifat dan menghitung besar-besaran segi empat siswa kelas VII
+semester II tahun pelajaran 2006/2007. Tesis.
+Surakarta: Pendidikan
+Matematika UNS.
+Leila, A & Moslem, S. 2013. Investigating the Relationship between Cognitive Style
+(Filed Dependence/Independence) and Academic Achievement in Male and
+Female Students of Behbahan Islamic Azad University. Journal of Life Science
+and Biomedicine, Vol. 3, No. 3, 245-249.
+Riding, R. J., & Smith. E. 1997. Cognitive Style and Learning Strategies: Some
+Implications for Training Design. International Journal of Training and
+Development, Vol. 1(3), 199-208.
+
+186
+
+Jurnal Elektronik Pembelajaran Matematika
+Vol.4, No.2, hal 174-187 April 2016
+
+ISSN: 2339-1685
+http://jurnal.fkip.uns.ac.id
+
+Saleh Haji. 1994. Diagnosis Kesulitan Siswa dalam Menyelesaikan Soal Cerita di Kelas
+V SD Negeri Percobaan Surabaya. Tesis. PPs IKIP Surabaya.
+Samuel, A. A. 2013. Effect of brain-based learning strategy on students’ achievement in
+senior secondary school mathematics in Oyo State, Nigeria, Journal of
+Educational Sciences, Vol. l2, No. 2, 91-106.
+Steve, C. P. 2011. Using the Cognitive Styles to Explain an Anomaly in the Hierarchy of
+the van Hiele Levels. Journal of Mathematical Sciences & Mathematics
+Education, Vol. 6, No. 2, 35-43.
+Suparman Pontoh. 2013. Deskripsi kesalahan siswa dalam menerjemahkan soal cerita
+Kedalam model matematika dan penyelesaiannya pada pokok bahasan SPLDV .
+Tesis. Gorontalo: Pendidikan Matematika Universitas Negeri Gorontalo.
+Tall, D., & Razali, M. 1993. Diagnosing Students’ Difficulties in Learning Mathematics,
+International Journal of Mathematics Education in Science &Technology, Vol.
+24, 209-202.
+Tanwey Gerson Ratumanan. 2003. Pengaruh Model Pembelajaran dan Gaya Kognitif
+terhadap Hasil Belajar Matematika Siswa SLTP di Kota Ambon. Jurnal
+Pendidikan Dasar, Vol. 5(1), 1-10.
+Yunusa, H. T. 2013. The Influence of Dependent and Independent Cognitive Styles on
+Achievement in Mathematics among Senior Secondary School Students in Bida
+Educational Zone of Niger State, Nigeria. Journal of Research in Education and
+Society, Vol. 4, No. 2, 60-67.
+
+187
+
+

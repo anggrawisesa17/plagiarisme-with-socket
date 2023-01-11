@@ -1,0 +1,1701 @@
+Jurnal Pendidikan Kewarganegaraan
+Vol. 6 No. 1 Maret 2019
+
+Journal of Civics and Education Studies
+p-ISSN 2302-0865 | e-ISSN 2621-346X
+
+Technological Pedagogical Content Knowledge (TPACK):
+Kerangka Pengetahuan Guru Abad 21
+Imam Fitri Rahmadia,1*
+aProgram
+
+Studi Pendidikan Pancasila dan Kewarganegaraan,
+
+Fakultas Keguruan dan Ilmu Pendidikan, Universitas Pamulang, Tangerang Selatan
+1imamrahmadi@unpam.ac.id
+
+*korespondensi penulis
+Naskah diterima: 28-01-19, direvisi: 23-02-19, disetujui: 25-03-19
+DOI: http://dx.doi.org/10.32493/jpkn.v6i1.y2019.p65-74
+Abstrak
+Guru abad 21 harus memiliki pengetahuan sekaligus keterampilan dalam menggunakan
+berbagai perangkat teknologi baik yang tradisional maupun modern untuk memfasilitasi
+belajar dan meningkatkan hasil pembelajaran. Artikel ini bertujuan untuk
+mendefinisikan, menjelaskan tentang pengukuran, dan menjelaskan tentang
+pengembangan technological pedagogical content knowledge (TPACK). Penulisan artikel
+menggunakan metode kajian pustaka dari buku, artikel jurnal, dan dokumen lain yang
+berkaitan dengan topik pembahasan. Hasil kajian mendapati bahwa, TPACK merupakan
+salah suatu jenis pengetahuan baru yang harus dikuasi guru untuk dapat
+mengintegrasikan teknologi dengan baik dalam pembelajaran, pengukuran TPACK
+merupakan aktivitas penilaian tingkat penguasaan TPACK yang dilakukan menggunakan
+TPACK framework, dan pengembangan TPACK merupakan kelanjutan dari proses
+pengukuran yang dilakukan untuk meningkatkan penguasaan TPACK. TPACK dapat
+dijadikan sebagai kerangka kerja untuk mendesain kurikulum pendidikan guru yang lebih
+sesuai dengan era dan tuntutan pembelajaran Abad 21.
+Kata-kata kunci: pendidikan guru; pengetahuan guru; technological pedagogical content
+knowledge (TPACK)
+Abstract
+The 21st-century teachers must have knowledge as well as skills in using various technological devices
+both traditional and modern to facilitate learning and improve learning performances. This article
+aimed at defining, explaining the measurement, and explaining the development of technological
+pedagogical content knowledge (TPACK). This is a literature-based article taken from books, journal
+articles, and other documents related to the discussed topic. The results found that TPACK is a kind of
+new knowledge that must be mastered by teachers to be able to integrate technology appropriately in
+learning and instructional processes, TPACK measurement is a TPACK confidence level assessment
+activity carried out using the TPACK framework, and TPACK development is a continuation of the
+measurement process carried out to increase the TPACK confidence. TPACK could be used as a
+framework for designing teacher education curricula that is more in line with the era and demands of
+21st-century learning.
+Keywords: teacher education; teachers’ knowledge; technological pedagogical content knowledge
+(TPACK)
+
+	  
+
+65
+
+Jurnal Pendidikan Kewarganegaraan
+Vol. 6 No. 1 Maret 2019
+
+Journal of Civics and Education Studies
+p-ISSN 2302-0865 | e-ISSN 2621-346X
+
+Pendahuluan
+
+suatu
+
+pengetahuan
+
+tentang
+
+belajar.
+
+Teknologi
+
+berperan aktif sebagai alat, proses, dan
+
+Para guru abad 21 tidak cukup hanya
+memiliki
+
+lingkungan
+
+sekaligus
+
+materi
+
+sumber
+
+untuk
+
+belajar
+
+dan
+
+melaksanakan pembelajaran (Partnership
+
+yang diajarkan dan cara mengajarkannya.
+Perkembangan
+ilmu
+pengetahuan,
+teknologi, dan seni terkini dalam bidang
+
+for 21 Century Learning, 2007). Maka,
+siswa dan guru pada abad 21 harus
+
+pendidikan, menuntut guru untuk juga
+
+memiliki literasi teknologi yang memada
+
+memiliki pengetahuan tentang teknologi
+
+(Drew, 2012; Kereluik, Mishra, Fahnoe, &
+
+dan penggunaannya dalam belajar dan
+
+Terry, 2013; Trust, 2018). Terlebih, para
+
+pembelajaran. Guru abad
+memiliki
+pengetahuan
+
+calon guru masa depan harus dipastikan
+
+21 harus
+sekaligus
+
+menggunakan
+
+memiliki pengetahuan, keterampilan dan
+kompetensi teknologi yang baik, supaya
+
+berbagai perangkat teknologi baik yang
+
+dapat mengintegrasikan teknologi dalam
+
+tradisional
+
+untuk
+
+pembelajaran dengan efektif dan efisien
+
+memfasilitasi belajar dan meningkatkan
+
+(Koehler & Mishra, 2005: 94; Guzman &
+
+hasil pembelajaran.
+Mengajar
+merupakan
+
+Nussbaum, 2009; Koehler dkk., 2011:
+
+keterampilan
+
+dalam
+maupun
+
+modern
+
+kompleks yang melibatkan berbagai jenis
+
+149).
+Sangat
+
+pengetahuan. Aktivitas mengajar didasari
+
+literasi teknologi bagi guru masa depan
+
+dengan pengetahuan tentang materi yang
+
+belum direspon dengan serius oleh para
+
+akan diajarkan (content knowledge), cara
+
+pemangku kebijakan. Landasan revitalisasi
+
+mengajarkan suatu materi (pedagogical
+knowledge), dan pengetahuan tentang
+
+Lembaga
+
+penggunaan
+
+aktivitas
+
+berbagai
+
+disayangkan
+
+isu
+
+Pendidikan
+
+tentang
+
+Tenaga
+
+Kependidikan (LPTK) sebagai lembaga
+yang menghasilkan para calon guru
+
+teknologi
+
+(technological knowledge) yang ketiganya
+
+(Kementerian
+
+memiliki
+
+Pendidikan Tinggi, 2015), pengembangan
+
+persinggungan
+
+untuk
+
+dapat
+
+mendukung satu di antara lainnya (Mishra
+
+kurikulum
+
+& Koehler,
+menyatakan
+
+Pendidikan
+
+2006). Teori lama yang
+bahwa dalam mengajar
+
+Riset
+
+LPTK
+
+Teknologi
+
+(Asosiasi
+
+Tenaga
+
+dan
+
+Lembaga
+
+Kependidikan
+
+dibutuhkan pengetahuan tentang konten
+
+Indonesia, 2016), dan desain kurikulum
+Pendidikan Profesi Guru (Direktoran
+
+dan pedagogik serta pengetahuan hasil
+
+Jenderal Pembelajaran dan Mahasiswa,
+
+persinggungan keduanya yaitu pedagogical
+
+2017) masih menggunakan teori lama,
+
+content knowledge (Shulman, 1986) sudah
+
+yaitu
+
+tidak relevan lagi untuk dipalikasikan
+pada era pembelajaran abad 21.
+
+McDiarmid & Ball (1989) atau dalam
+
+Pembelajaran
+
+pada
+
+abad
+
+mengintegrasikan
+
+berbagai
+
+teknologi
+
+melakukan
+
+subject-spesific
+
+pedagogy
+
+milik
+
+teori yang dikemukakan Shulman (1986)
+disebut
+sebagai
+pedagogical
+content
+
+21
+
+knowledge (PCK).
+
+perangkat
+selutuh
+
+Artikel ini bertujuan untuk mengulas
+
+rangkaian proses interaksi antara siswa
+
+teori terbaru tentang pengetahuan guru,
+
+dan guru dengan sumber belajar dalam
+
+yaitu
+
+	  
+
+dalam
+
+66
+
+technological
+
+pedagogical
+
+content
+
+Jurnal Pendidikan Kewarganegaraan
+Vol. 6 No. 1 Maret 2019
+
+(TPACK),
+
+knowledge
+
+sebuah
+
+Journal of Civics and Education Studies
+p-ISSN 2302-0865 | e-ISSN 2621-346X
+
+meliputi;
+
+kerangka
+
+1)
+
+apa
+
+itu
+
+TPACK?;
+
+2)
+
+pengetahuan guru yang sangat relevan
+
+pengukuran TPACK; 3) pengembangan
+
+untuk
+
+TPACK. Ketiga topik tersebut dibahas
+
+diaplikasikan
+
+Pembahasan
+
+pada
+
+dimulai
+
+abad
+
+21.
+
+secara
+
+dengan
+
+deskriptif
+
+kritis
+
+menggunakan
+
+mendefinisikan
+apa
+itu
+TPACK,
+menjelaskan tentang pengukuran TPACK,
+
+referensi dari berbagai sumber terbaru.
+Referensi yang digunakan, khususnya dari
+
+dan menjelaskan tentang pengembangan
+
+artikel jurnal, didukung dengan referensi
+
+TPACK.
+
+dari buku dan dokumen lain yang relevan
+dengan pembahasan. Pembahasan dalam
+
+Metode
+
+artikel
+
+ini
+
+menyuguhkan
+
+penjelasan
+
+metode kajian pustaka. Kepustakaan yang
+
+terkait dengan TPACK dan menyajikan ide
+penggunaan TPACK untuk kurikulum
+
+digunakan terdiri dari buku, artikel jurnal,
+
+pendidikan guru.
+
+Artikel
+
+ini
+
+ditulis
+
+menggunakan
+
+dan dokumen lain yang berkaitan dengan
+topik
+pembahasan.
+Pustaka
+yang
+digunakan merupakan pustaka terbaru
+
+Apa itu TPACK?
+
+terbitan 10 tahun terakhir. Kajian dalam
+artikel lebih menitikberatkan pada analisis
+
+knowledge (TPACK) merupakan salah
+suatu jenis pengetahuan baru yang harus
+
+artikel
+
+terbaru
+
+pedagogical
+
+content
+
+yang
+
+berkaitan
+
+dikuasi
+
+dan
+
+dokumen
+
+mengintegrasikan teknologi dengan baik
+
+lainnya, hanya dijadikan pendukung untuk
+melengkapi
+informasi
+yang
+tidak
+
+dalam pembelajaran (Mishra & Koehler,
+
+ditemukan pada artikel jurnal. Penulisan
+artikel menggunakan standar penulisan
+
+telah menjadi kerangka kerja atau
+framework yang dapat digunakan untuk
+
+akademik dalam Bahasa Indonesia supaya
+
+menganalisis pengetahuan guru terkait
+
+mudah dipahami oleh insan akademik
+
+dengan
+
+pembaca artikel.
+
+pembelajaran (Koehler & Mishra, 2009:
+
+dengan
+
+jurnal
+
+Technological
+
+TPACK.
+
+Buku
+
+Pembahasan
+dengan
+
+tujuan
+
+dapat
+
+integrasi
+&
+
+teknologi
+
+dalam
+
+Graham, 2009; Koehler,
+
+Mishra, & Cain, 2013: 14). Berikut ini
+gambaran TPACK framework.
+
+penulisan
+
+artikel, pembahasan dalam artikel ini,
+
+	  
+
+untuk
+
+2006). Pada perkembangannya, TPACK
+
+62; Cox
+Sesuai
+
+guru
+
+67
+
+Jurnal Pendidikan Kewarganegaraan
+Vol. 6 No. 1 Maret 2019
+
+Journal of Civics and Education Studies
+p-ISSN 2302-0865 | e-ISSN 2621-346X
+
+Gambar 1. Technological Pedagogical Content Knowledge (TPACK) Framework (Mishra &
+Koehler, 2008)
+
+TPACK terbentuk atas perpaduan 3
+
+teknologi sebagai alat, proses, maupun
+
+jenis
+pengetahuan
+dasar,
+yaitu
+Technological Knowledge (TK), Pedagogical
+
+sumber. Pedagogical knowledge (PK) atau
+pengetahuan
+pedagogik
+yaitu
+
+Knowledge (PK), Content Knowledge (CK).
+
+pengetahuan tentang teori dan praktik
+
+Hasil perpaduan 3 pengetahuan dasar
+
+dalam perencanaan, proses, dan evaluasi
+
+tersebut, menghasilkan 4 pengetahuan
+
+pembelajaran. Content knowledge (CK) atau
+
+baru,
+
+Content
+
+pengetahuan konten adalah pengetahuan
+
+Knowledge (PCK), Technological Content
+Knowledge (TCK), Technological Pedagogical
+
+tentang konten atau materi pelajaran yang
+harus dipelajari oleh guru dan diajarkan
+
+meliputi
+
+Pedagogical
+
+(TPK),
+
+Knowledge
+
+dan
+
+kepada siswa.
+
+Technological
+
+Pedagogical content knowledge (PCK)
+
+Pedagogical Content Knowledge (TPACK).
+Gambar
+
+di
+
+atas
+
+dengan
+
+atau
+
+jelas
+
+pengetahuan
+
+pedagogik
+
+konten
+
+3
+
+merupakan pengetahuan pedagogik yang
+
+pengetahuan dasar yang mengahasilkan 4
+pengetahuan. Berikut ini penjelasan setiap
+
+berhubungan dengan konten khusus
+(Shulman, 1986). Technological content
+
+domain
+
+yang
+
+knowledge
+
+(TCK)
+
+atau
+
+pengetahuan
+
+disarikan dari Mishra & Koehler (2006 &
+
+teknologi
+
+konten
+
+adalah
+
+pengetahuan
+
+2008), Koehler & Mishra (2009) dan
+
+tentang timbal balik antara teknologi
+
+Koehler, Mishra, & Cain (2013).
+
+dengan konten. Technological pedagogical
+
+memperlihatkan
+
+interelasi
+
+pengetahuan
+
+TPACK
+
+Technological knowledge
+pengetahuan
+teknologi
+pengetahuan
+	  
+
+tentang
+
+antara
+
+knowledge (TPK)
+atau
+pengetahuan
+teknologi pedagogik adalah pengetahuan
+
+(TK) atau
+merupakan
+
+berbagai
+
+tentang
+
+jenis
+68
+
+berbagai
+
+teknologi
+
+dapat
+
+Jurnal Pendidikan Kewarganegaraan
+Vol. 6 No. 1 Maret 2019
+
+Journal of Civics and Education Studies
+p-ISSN 2302-0865 | e-ISSN 2621-346X
+
+digunakan untuk memfasilitasi belajar dan
+
+dapat
+
+pembelajaran.
+
+penyelenggaraan pendidikan bagi calon
+
+Technological
+
+Pedagogical
+
+guru.
+
+Content
+
+menjadi
+Ketiga,
+
+refleksi
+
+dalam
+
+menentukan
+
+dampak
+
+Knowledge (TPACK) atau pengetahuan
+
+intervensi pembelajaran terkait integrasi
+
+teknologi pedagogik dan konten adalah
+pengetahuan
+tentang
+penggunaan
+
+teknologi yang diberikan kepada calon
+guru ketika menempuh pendidikan guru.
+
+teknologi yang tepat pada pedagogik yang
+
+Pengukuran TPACK dapat dilakukan
+
+sesuai untuk mengajarkan suatu konten
+
+dengan
+
+dengan
+
+kuantitatif
+
+baik.
+
+Ketujuh
+
+pengetahuan
+
+berbagai
+
+cara
+
+maupun
+
+baik
+
+kualitatif.
+
+secara
+Pada
+
+tersebut perlu dikuasai oleh calon guru
+
+umumnya, terdapat 5 cara yang dapat
+
+masa depan yang akan mengajar dalam
+lingkungan belajar yang dipenuhi dengan
+
+dilakukan untuk melakukan pengukuran
+TPACK, yaitu; 1) self report-measure; 2)
+
+berbagai
+
+open-ended
+
+instrumen
+
+teknologi.
+
+Supaya
+
+questionnaire;
+
+3)
+
+performance
+
+guru dapat menggunakan teknologi yang
+
+assessment; 4) interview; dan 5) observation
+
+tepat pada pedagogik yang sesuai untuk
+
+(Abbit, 2011; Koehler, Shin, & Mishra,
+
+konten yang spesifik dengan baik.
+
+2012: 21). Metode pengukuran dipilih
+
+Pengukuran TPACK
+
+salah satu atau menggabung beberapa
+metode tersebut. Konteks masing-masing
+
+Pengukuran
+
+TPACK
+
+penelitian yang menjadi pertimbangan
+
+merupakan
+
+dalam pemilihan metode pengukuran.
+
+aktivitas penilaian tingkat penguasaan
+menggunakan
+
+Self report-measure merupakan metode
+
+TPACK framework. Pengukuran ini lazim
+
+yang meminta responden untuk memilih
+
+dilakukan kepada para pendidik dan
+pelatihan seperti guru, dosen, tutor,
+
+tingkat kesesuaian suatu penyataan
+dengan kondisi nyata yang terjadi pada
+
+instruktur,
+
+seting
+
+diri responden. Open-ended questionnaire
+
+pendidikan formal, informal maupun non
+
+merupakan metode yang berisi pertanyaan
+
+formal. Pada pengukuran dilihat tingkat
+
+terbuka
+
+penguasaan TPACK seseorang dengan
+
+untuk
+
+kaitannya dalam kemampuan untuk dapat
+melakukan integrasi teknologi dalam
+
+Performance assessment merupakan metode
+yang mengevaluasi tingkat penguasaan
+
+belajar dan pembelajaran yang dilakukan
+
+TPACK berdasarkan penampilan langsung
+
+(Koehler & Mishra, 2009: 67).
+
+yang dilakukan oleh responden. Interview
+
+TPACK
+
+yang
+
+dilakukan
+
+dan
+
+lainnya
+
+dalam
+
+ditujukan
+dapat
+
+merupakan
+
+Setidaknya, terdapat 3 manfaat yang
+
+kepada
+
+dijawab
+
+metode
+
+responden
+
+secara
+
+yang
+
+tertulis.
+
+berisi
+
+didapat ketika melakukan pengukuran
+
+serangkaian pertanyaan yang ditujukan
+
+TPACK (Koehler, Mishra, & Cain, 2013:
+17). Pertama, melalui pengukuran TPACK
+
+kepada responden untuk dijawab secara
+lisan. Observation merupakan metode yang
+
+didapati profil penguasaan TPACK yang
+
+mengamati perubahan nyata yang terjadi
+
+dapat menunggambarkan tingkat pengkat
+
+pada responden melalui perekaman video
+
+penguasaan
+
+atau catatan lapangan.
+
+pada
+
+setiap
+
+domain
+
+pengetahuan. Kedua, pengukuran TPACK
+	  
+
+69
+
+Jurnal Pendidikan Kewarganegaraan
+Vol. 6 No. 1 Maret 2019
+
+Journal of Civics and Education Studies
+p-ISSN 2302-0865 | e-ISSN 2621-346X
+
+Pengukuran TPACK harus spesifik
+pada
+
+satu
+
+konten
+
+tertentu.
+
+konten
+
+sangat
+
+mempengaruhi
+
+hasil
+
+pengukuran TPACK.
+
+Tingkat
+
+penguasaan TPACK secara keseluruhan
+sangat erat kaitannya dengan konten.
+
+Pengembangan TPACK
+
+Maka, pengukurannya harus berfokus
+pada satu konten tertentu, misalkan
+
+Pengembangan merupakan kelanjutan
+dari
+proses
+pengukuran
+TPACK.
+
+matematika, IPA, IPS, Bahasa, dan yang
+
+Pengukuran dilakukan untuk mengetahuai
+
+lainnya. Selain itu, pengukuran TPACK
+
+tingkat
+
+dapat dilakukan pada guru prajabatan
+
+pengembangan
+
+maupun guru dalam jabatan. Penggunaan
+
+meningkatkan penguasaan TPACK (Sim,
+
+metode pengukuran dapat disesuaikan
+dengan kebutuhan dan tujuan kedalaman
+
+Finger, & Smart, 2016). Peningkatan
+penguasaan ditekankan pada domain
+
+pengukuran.
+
+beberapa
+
+pengetahuan TPACK yang masih lemah.
+
+metode pengukuran dapat memperdalam
+
+Berbagai cara dapat dilakukan untuk
+
+sekaligus
+
+mengembangkan TPACK, meliputi; 1)
+
+Penggabungan
+memperluas
+
+hasil
+
+yang
+
+penguasaan,
+
+sedangkan
+
+dilakukan
+
+untuk
+
+didapatkan.
+
+mengikuti perkuliahan terkait teknologi
+
+Pengukuran TPACK pada berbagai
+konten telah dilakukan oleh para peneliti
+
+pendidikan; 2) menggunakan strategi
+pembelajaran yang menjadi bagian dari
+
+di luar negeri pada program studi bahasa
+
+perkuliahan; dan 3) mengunakan strategi
+
+inggris (Baser, Kopcha, & Ozden, 2016),
+
+pembelajaran dalam keseluruhan program
+
+ekonomi
+
+pendidikan guru (Mouza, 2016: 176).
+
+(Raman,
+
+2014),
+
+Ilmu
+
+Pengetahuan Alam – IPA (Jang & Tsai,
+
+Perkuliahan
+
+terkait
+
+teknologi
+
+2012; Maeng, Mulvey, Smetana, & Bell,
+2013; Canbazoglu Bilici, Guzey, & Yamak,
+
+pendidikan membekali kemampuan dalam
+mendesain,
+mengembangkan,
+
+2016), matematika (Jang & Tsai, 2012;
+
+memanfaatkan, menggunakan, mengelola,
+
+Cuhadar, 2018) dan Ilmu Pengetahuan
+
+dan
+
+Sosial – IPS (Cuhadar, 2018). Pengukuran
+
+menggunakan berbagai teknologi sebagai
+
+TPACK di Indonesia telah dilakukan pada
+
+proses,
+
+program studi matematika (Listiawan &
+Baskoro,
+2015),
+biologi
+(Agustina,
+
+belajar. Penggunaan strategi pembelajaran
+yang menjadi bagian dari perkuliahan,
+
+Sundari, & Ardani, 2016; Dhawati, 2017;
+
+merupakan
+
+Dhawati & Hariyatmi, 2017; Sukaesih,
+
+pengembangan
+
+Ridlo, & Saptono, 2017; Fathonah, 2017;
+
+perkuliah yang berkaitan dengan konten.
+
+Agustina, Yusron, & Muyassarah, 2018)
+
+Penggunaan strategi pembelajaran dalam
+
+dan fisika (Sholihah, 2016; Yuliati &
+Wartono, 2016; Khoiri & Huda, 2017).
+
+keseluruhan program pendidikan guru,
+merupakan langkah integrasi TPACK
+
+Pengukuran
+
+secara
+
+berbeda-beda
+dengan
+
+mendapatkan
+terutama
+
+pada
+yang
+
+yang
+konten
+
+alat,
+
+lebih
+
+pembelajaran
+
+maupul
+
+upaya
+
+sumber
+
+dalam
+
+mengintegrasikan
+
+TPACK
+
+dalam
+
+komprehensif
+
+suatu
+
+dalam
+
+kurikulum pendidikan guru.
+
+bertolak
+
+Pengembangan TPACK juga harus
+
+belakang. Hal ini memperlihatkan bahwa
+
+dilakukan pada satu konten yang spesifik.
+
+	  
+
+karakteristik
+
+hasil
+
+mengevaluasi
+
+70
+
+Jurnal Pendidikan Kewarganegaraan
+Vol. 6 No. 1 Maret 2019
+
+Journal of Civics and Education Studies
+p-ISSN 2302-0865 | e-ISSN 2621-346X
+
+Research
+on
+Technology
+Education, 43(4), 281-300.
+
+Pengembangannya akan kurang maksimal
+jika menggabungkan berbagai konten.
+
+Agustina, P., Yusron, F. N., &
+Muyassarah, F. (2018). Pedagogical
+Content
+Knowledge
+(PCK)
+Mahasiswa Calon Guru Biologi FKIP
+UMS pada Matakuliah Microteaching
+Tahun
+Akademik
+2015/2016. Proceeding of The URECOL,
+101-108.
+
+Pemilihan metode pengembangan TPACK
+disesuaikan dengan kebutuhan, tujuan,
+dan
+konteks
+masing-masing.
+Pengembangan TPACK lazim dilakukan
+dalam
+
+suatu
+
+penelitian
+
+pengembangan
+dimulai
+
+yang
+
+dengan
+
+dan
+
+berkelanjutan,
+
+pengukuran
+
+TPACK
+
+terlebih dulu, kemudian baru dilakukan
+
+Agustina, P., Yusron, F. N., &
+Muyassarah, F. (2018). Pedagogical
+Content
+Knowledge
+(PCK)
+Mahasiswa Calon Guru Biologi FKIP
+UMS pada Matakuliah Microteaching
+Tahun
+Akademik
+2015/2016. Proceeding of The URECOL,
+101-108.
+
+pengembangannya.
+
+Kesimpulan
+TPACK merupakan salah suatu jenis
+pengetahuan baru yang harus dikuasi guru
+untuk dapat mengintegrasikan teknologi
+dengan baik dalam pembelajaran. Selain
+
+Asosiasi Lembaga Pendidikan Tenaga
+Kependidikan
+Indonesia.
+(2016).
+Proposal
+Penyusunan
+Pedoman
+Pengembangan
+Kurikulum
+Lembaga
+Pendidikan Tenaga Kependidikan
+(LPTK). Jakarta: ALPTKI.
+
+menjadi suatu jenis pengetahuan baru,
+TPACK telah menjadi kerangka kerja atau
+framework yang dapat digunakan untuk
+menganalisis pengetahuan guru terkait
+dengan
+integrasi
+teknologi
+dalam
+pembelajaran.
+
+Pengukuran
+
+merupakan
+
+aktivitas
+
+penguasaan
+
+TPACK
+
+menggunakan
+
+TPACK
+
+penilaian
+yang
+
+TPACK
+
+Baser, D., Kopcha, T. J., & Ozden, M. Y.
+(2016). Developing a technological
+pedagogical
+content
+knowledge
+(TPACK) assessment for preservice
+teachers learning to teach English as a
+foreign language. Computer Assisted
+Language Learning, 29(4), 749–764.
+https://doi.org/10.1080/09588221.20
+15.1047456
+
+tingkat
+
+dilakukan
+framework.
+
+Pengembangan
+TPACK
+merupakan
+kelanjutan dari proses pengukuran yang
+dilakukan
+penguasaan
+
+untuk
+TPACK.
+
+meningkatkan
+TPACK
+
+dapat
+
+dijadikan sebagai kerangka kerja untuk
+mendesain kurikulum pendidikan guru
+
+Canbazoglu Bilici, S., Guzey, S. S., &
+Yamak, H. (2016). Assessing preservice science teachers’ technological
+pedagogical
+content
+knowledge
+(TPACK) through observations and
+lesson plans. Research in Science &
+Technological Education, 34(2), 237–
+251.
+https://doi.org/10.1080/02635143.20
+16.1144050
+
+yang lebih sesuai dengan era dan tuntutan
+pembelajaran Abad 21.
+
+Referensi
+Abbitt,
+J.
+T.
+(2011).
+Measuring
+technological pedagogical content
+knowledge in preservice teacher
+education: A review of current
+methods and instruments. Journal of
+	  
+
+in
+
+71
+
+Jurnal Pendidikan Kewarganegaraan
+Vol. 6 No. 1 Maret 2019
+
+Journal of Civics and Education Studies
+p-ISSN 2302-0865 | e-ISSN 2621-346X
+
+Framework for 21st Century Learning P21. (t.t.). Diambil 4 Agustus 2018,
+dari
+http://www.p21.org/ourwork/p21-framework
+
+Cox, S., & Graham, C. R. (2009). Using
+an elaborated model of the TPACK
+framework to analyze and depict
+teacher knowledge. TechTrends, 53(5),
+60-69.
+
+Guzman, A., & Nussbaum, M. (2009).
+Teaching competencies for technology
+integration
+in
+the
+classroom:
+Technology
+integration
+in
+the
+classroom. Journal of Computer Assisted
+Learning,
+25(5),
+453–469.
+https://doi.org/10.1111/j.13652729.2009.00322.x
+
+Cuhadar, C. (2018). Investigation of PreService Teachers' Levels of Readiness
+to
+Technology
+Integration
+in
+Education. Contemporary
+Educational
+Technology, 9(1), 61-75.
+Dhawati, D. A. A. (2017). Kemampuan
+Technological Pedagogical Content
+Knowledge (TPACK) Calon Guru
+Biologi Fkip Ums Dalam Menyusun
+Rpp
+Kurikulum
+2013
+Tahun
+Akademik
+2016/2017 (Doctoral
+dissertation,
+Universitas
+Muhammadiyah Surakarta).
+
+Jang, S.-J., & Tsai, M.-F. (2012). Exploring
+the TPACK of Taiwanese elementary
+mathematics and science teachers
+with respect to use of interactive
+whiteboards. Computers & Education,
+59(2),
+327–338.
+https://doi.org/10.1016/j.compedu.2
+012.02.003
+
+Direktoran Jenderal Pembelajaran dan
+Mahasiswa.
+(2017).
+Pedoman
+Penyelenggaraan Pendidikan Profesi Guru.
+Jakarta: Dirjen Belmawa.
+
+Kementerian
+Riset
+Teknologi
+dan
+Pendidikan Tinggi. (2015). Naskah
+Akademik
+Revitalisasi
+Lembaga
+Pendidikan Tenaga Kependidikan (LPTK).
+Jakarta: Kemensirtekdikti.
+
+Direktorat
+Riset
+dan
+Pengabdian
+Masyarakat. (2018). Panduan penelitian
+dan pengabdian kepada masyarakat edisi
+XII
+tahun
+2018.
+Jakarta:
+Kemenristekdikti.
+
+Kereluik, K., Mishra, P., Fahnoe, C., &
+Terry, L. (2013). What knowledge is
+of most worth: Teacher knowledge for
+21st century learning. Journal of Digital
+Learning in Teacher Education, 29(4),
+127–140.
+
+Drew, S. V. (2012). Open up the ceiling
+on
+the
+Common
+Core
+State
+Standards: Preparing students for
+21st‐century literacy—now. Journal of
+Adolescent & Adult Literacy, 56(4), 321–
+330.
+
+Khoiri, N., & Huda, C. (2017). Deskripsi
+Technological
+Pedagogical
+Content
+Knowledge (TPACK) Pada Mahasiswa
+Calon Guru Fisika.
+
+Fathonah, L. (2017). Kemampuan TPACK
+(Technological
+Paedagogical
+and
+Content Knowledge) Calon Guru
+Biologi FKIP UMS dalam Menyusun
+Rencana Pelaksanaan Pembelajaran
+Kurikulum 2013 Tahun Akademik
+2016/2017(Doctoral
+dissertation,
+Universitas
+Muhammadiyah
+Surakarta).
+
+	  
+
+Koehler, M. J., & Mishra, P. (2005).
+Teachers learning technology by
+design. Journal of computing in teacher
+education, 21(3), 94–102.
+Koehler, M. J., Mishra, P., & Cain, W.
+(2013).
+What
+is
+technological
+pedagogical
+content
+knowledge
+
+72
+
+Jurnal Pendidikan Kewarganegaraan
+Vol. 6 No. 1 Maret 2019
+
+(TPACK)?. Journal
+Education, 193(3), 13-19.
+
+Journal of Civics and Education Studies
+p-ISSN 2302-0865 | e-ISSN 2621-346X
+
+technological pedagogical content
+knowledge (TPCK) for educators (pp.
+3–29).
+Mahwah,
+NJ:
+Lawrence
+Erlbaum Associates.
+
+of
+
+Koehler, M. J., Mishra, P., Bouck, E. C.,
+DeSchryver, M., Kereluik, K., Shin, T.
+S., & Wolf, L. G. (2011). Deep-play:
+Developing TPACK for 21st century
+teachers.
+International Journal of
+Learning Technology, 6(2), 146–163.
+
+Mouza, C. (2016). Developing and
+assessing TPACK among pre-service
+teachers. Handbook
+of
+technological
+pedagogical content knowledge (TPACK)
+for educators, 169.
+
+Koehler, M., & Mishra, P. (2009). What is
+technological pedagogical content
+knowledge
+(TPACK)?. Contemporary
+issues in technology and teacher
+education, 9(1), 60-70.
+
+Raman, A. (2014). TPACK Confidence of
+Pre-service Teachers in Universiti
+Utara Malaysia. Mediterranean Journal of
+Social
+Sciences.
+https://doi.org/10.5901/mjss.2014.v5
+n22p167
+
+Listiawan, T., & Baskoro, W. W. (2015).
+Analisis
+Technological
+Content
+Knowledge
+(TCK)
+Calon
+Guru
+Matematika Dalam Menggunakan
+Perangkat Lunak Geometri Dinamis.
+In Prosiding
+Seminar
+Nasional
+Matematika Dan Pendidikan Matematika
+UNY (pp. 827-834).
+
+Sahin, I. (2011). Development of survey
+of technological pedagogical and
+content knowledge (TPACK). Turkish
+Online Journal of Educational TechnologyTOJET, 10(1), 97-105.
+Schmidt, D. A., Baran, E., Thompson, A.
+D., Mishra, P., Koehler, M. J., & Shin,
+T.
+S.
+(2009).
+Technological
+pedagogical
+content
+knowledge
+(TPACK) the development and
+validation
+of
+an
+assessment
+instrument
+for
+preservice
+teachers. Journal
+of
+research
+on
+Technology in Education, 42(2), 123149.
+
+Maeng, J., Mulvey, B., Smetana, L., & Bell,
+R. (2013). Preservice Teachers'
+TPACK: Using Technology to Support
+Inquiry Instruction. Journal of Science
+Education and Technology, 22(6), 838857.
+McDiarmid, G. W., & Ball, D. L. (t.t.).
+Anderson, C. w.(1989)’Why Staying
+One Chapter Ahead Doesn’t Really
+Work: Subject-Specific Pedagogy.’.
+Knowledge base for the beginning teacher,
+193–205.
+Mishra, P., & Koehler, M. J. (2006).
+Technological pedagogical content
+knowledge: A framework for teacher
+knowledge. Teachers college record,
+108(6), 1017.
+
+Sholihah, M. A. (2016). Technological
+Pedagogical Content Knowledge dan
+Kemampuan Menyusun Perangkat
+Pembelajaran Calon Guru Fisika
+melalui Model Pembelajaran POSTPACK
+di
+Universitas
+Negeri
+Malang. DISERTASI dan TESIS Program
+Pascasarjana UM.
+
+Mishra, P., & Koehler, M. J. (2008).
+Introducing
+TPCK.
+AACTE
+Committee
+on
+Innovation
+and
+Technology.
+The
+handbook
+of
+
+Shulman, L. S. (1986). Those who
+understand: Knowledge growth in
+teaching. Educational researcher, 15(2),
+4–14.
+
+	  
+
+73
+
+Jurnal Pendidikan Kewarganegaraan
+Vol. 6 No. 1 Maret 2019
+
+Journal of Civics and Education Studies
+p-ISSN 2302-0865 | e-ISSN 2621-346X
+
+Sim, C., Finger, G., & Smart, V. (2016).
+4Developing TPACK: Envisioning
+Technological Pedagogical Reasoning.
+Dalam
+Handbook of technological
+pedagogical content knowledge (TPACK)
+for educators (hlm. 63–72). Routledge.
+
+Technology to Using Technology to
+Empower Learners. Journal of Digital
+Learning in Teacher Education, 34(1), 1–
+3.
+https://doi.org/10.1080/21532974.20
+17.1398980
+
+Sukaesih, S., Ridlo, S., & Saptono, S.
+(2017).
+Analisis
+Kemampuan
+Technological Pedagogical And Content
+Knowledge (TPACK) Calon Guru Pada
+Mata Kuliah PP Bio. In Prosiding SNPS
+(Seminar Nasional Pendidikan Sains) (pp.
+58-64).
+
+Yuliati, L., & Wartono, W. (2016).
+Peranan
+TPACK
+terhadap
+Kemampuan Menyusun Perangkat
+Pembelajaran Calon Guru Fisika
+dalam Pembelajaran Post-Pack. Jurnal
+Pendidikan: Teori, Penelitian, dan
+Pengembangan, 1(2), 144-153.
+
+Trust, T. (2018). 2017 ISTE Standards for
+Educators: From Teaching With
+
+	  
+
+74
+
+

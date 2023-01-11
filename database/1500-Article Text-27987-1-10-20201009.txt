@@ -1,0 +1,1617 @@
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No. 2, Oktober 2013
+
+ISSN: 2338- 4603
+
+Faktor-Faktor yang Mempengaruhi Kemiskinan dan Pengangguran di Kota Jambi
+Harlik, Amri Amir, Hardiani
+Program Magister Ilmu Ekonomi Fak. Ekonomi Universitas Jambi
+Abstract. The purpose of this study was : (1) To analyze the factors that affect poverty in
+the City of Jambi
+during the period 2000-2011, (2) To analyze the factors causing high
+unemployment in the city of Jambi during the period 2000-2011, and (3) To analyze the
+relationship between poverty and unemployment in the city of Jambi during the period
+2000-2011. The data used in this study is secondary data from the years 2000-2011. BPS
+data sources derived from the city of Jambi and Diskakertrans city of Jambi. Analysis tools
+used in this research is a method of multiple linear regression and correlation. The results
+showed that: (1). Simultaneously (together) variable population density, education level
+and the unemployment rate, and a significant positive effect on the level of poverty in the
+city of Jambi. While partially independent variables that significantly influence the level of
+education level and the level of poverty is unemployment. Variables influence population
+density, education level and the unemployment rate is equal to the poverty rate of 92,40
+percent, (2). Simultaneously (together) variable education level and health level have
+positive and significant effect on the unemployment rate in the city of Jambi. While
+partially independent variables had significant effect on the unemployment rate in the City
+of Jambi is education level. Variables influence education level and health level rate is
+equal to the unemployment rate of 42,6 percent; (3). Levels of poverty and unemployment
+rate in the city of Jambi has a negative correlation with a correlation coefficient of -0.290.
+Keywords: Population Density, Unemployment Rate, Education Level
+
+PENDAHULUAN
+Perencanaan merupakan sebuah
+upaya
+untuk
+mengantisipasi
+ketidakseimbangan yang terjadi yang
+bersifat akumulatif. Artinya, perubahan
+yang
+terjadi
+pada
+sebuah
+ketidakseimbangan
+awal
+dapat
+menyebabkan perubahan pada sistem
+sosial yang kemudian akan membawa
+sistem yang ada menjauhi keseimbangan
+semula. Perencanaan memiliki peran yang
+sangat
+penting
+dalam
+proses
+pembangunan,
+salah
+satu
+peran
+perencanaan adalah sebagai arahan bagi
+proses pembangunan untuk berjalan
+menuju tujuan yang ingin dicapai
+disamping sebagai tolak ukur keberhasilan
+proses pembangunan yang dilakukan.
+Sedangkan pembangunan sendiri dapat
+diartikan sebagai upaya meningkatkan
+
+pertumbuhan Produk Domestik Bruto atau
+Produk Domestik Regional Bruto.
+Pemerintah Indonesia menyadari
+bahwa pembangunan nasional adalah salah
+satu upaya untuk menjadi tujuan
+masyarakat adil dan makmur. Sejalan
+dengan tujuan tersebut, berbagai kegiatan
+pembangunan telah diarahkan kepada
+pembangunan daerah khususnya daerah
+yang relatif mempunyai kemiskinan yang
+terus naik dari tahun ke tahun.
+Pembangunan daerah dilakukan secara
+terpadu dan berkesinambungan sesuai
+prioritas dan kebutuhan masing-masing
+daerah dengan akar dan sasaran
+pembangunan nasional
+yang telah
+ditetapkan melalui pembangunan jangka
+panjang dan jangka pendek. Oleh karena
+itu,
+salah
+satu
+indikator
+utama
+keberhasilan
+pembangunan
+nasional
+adalah laju penurunan jumlah penduduk
+
+109
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+miskin. Efektivitas dalam menurunkan
+jumlah penduduk miskin merupakan
+pertumbuhan utama dalam memilih
+strategi atau instrumen pemabngunan. Hal
+ini berarti salah satu kriteria utama
+pemilihan sektor inti atau sektor andalan
+dalam pembangunan nasional adalah
+efektivitas dalam penurunan jumlah
+penduduk miskin. (Simatupang dan
+Saktyanu, 2003)
+Pemerintah baik pusat maupun
+daerah telah berupaya melaksanakan
+berbagai kebijakan dan program-program
+penanggulangan kemiskinan namun masih
+jauh dari pokok permasalahan. Kebijakan
+dan program yang dilaksanakan belum
+menampakkan hasil yang optimal. Masih
+terjadi kesenjangan antara rencana dengan
+pencapaian tujuan karena kebjakan dan
+program penanggulangan kemiskinan lebih
+berorientasi pada program sektoral. Oleh
+karena itu diperlukan suatu strategi
+penanggulanagan
+yang
+terpadu,
+terintegrasi dan sinergis sehingga dapat
+menyelesaikan masalah secara tuntas.
+Pada
+hakekatnya
+pembangunan
+daerah
+dianjutkan
+tidak
+hanya
+memusatkan perhatian pada pertumbuhan
+ekonomi
+saja
+namun
+juga
+mempertimbangkan
+bagaimana
+kemiskinan yang dihasilkan dari suatu
+proses pembangunan daerah tersebut.
+Menurut Esmara dalam (Tisna, 2008)
+dalam ilmu ekonomi dikemukakan
+berbagai teori yang membahas tentang
+bagaimana pembangunan ekonomi harus
+ditangani untuk mengejar keterbelakangan.
+Sampai akhir tahun 1960, para ahli
+ekonomi percaya bahwa cara terbaik untuk
+mengejar keterbelakangan ekonomi adalah
+dengan meningkatkan laju pertumbuhan
+ekonomi setinggi-tingginya, sehingga
+dapat melampaui tingkat pertumbuhan
+penduduk. Dengan cara tersebut angka
+pendapatan per kapita akan meningkat
+sehingga secara otomatis terjadi pula
+peningkatakan kemakmuran masyarakat.
+Proses pembangunan memerlukan
+pendapatan nasional yang tinggi dan
+
+ISSN: 2338- 4603
+
+pertumbuhan ekonomi yang cepat. Di
+banyak negara syarat utama bagi
+terciptanya penurunan kemiskinan yang
+tetap adalah pertumbuhan ekonomi.
+pertumbuhan ekonomi memang tidak
+cukup untuk mengentaskan kemiskinan
+tetapi biasanya pertumbuhan ekonomi
+merupakan sesuatu yang dibutuhkan,
+walaupun begitu pertumbuhan ekonomi
+yang bagus pun menjadi tidak akan berarti
+bagi penurunan masyarakat miskin jika
+tidak
+diiringi
+dengan
+pemerataan
+pendapatan. (Wongdesmiwati 2009).
+Pertumbuhan ekonomi merupakan
+indikator untuk melihat keberhasilan
+pembangunan dan merupakan syarat
+keharusan (necessary condition) bagi
+pengurangan tingkat kemiskinan. Adapun
+syarat
+kecukupannya
+ialah
+bahwa
+pertumbuhan ekonomi tersebut efektif
+dalam mengurangi tingkat kemiskinan.
+Artinya, pertumbuhan tersebut hendaklah
+menyebar disetiap golongan pendapatan,
+termasuk di golongan penduduk miskin.
+Secara langsung, hal ini
+berarti
+pertumbuhan itu perlu dipastikan terjadi di
+sektor-sektor dimana penduduk miskin
+bekerja yaitu sektor pertanian atau sektor
+yang padat karya. Adapun secara tidak
+langsung, diperlukan pemerintah yang
+yang cukup efektif mendistribusikan
+manfaat pertumbuhan yang mungkin
+didapatkan dari sektor modern seperti jasa
+yang padat
+modal
+(Siregar
+dan
+Wahyuniarti, 2008).
+Tingginya persentase penduduk
+miskin disuatu wilayah akan berpengaruh
+pada rendahnya daya beli masyarakat di
+wilayah tersebut. Hal ini karena umumnya
+pendapatan penduduk miskin tersebut
+sangat rendah sehingga dari segi
+pendapatan perkapita juga rendah, apalagi
+rata-rata jumlah anggota rumah tangga
+penduduk miskin umumnya lebih banyak
+dari rumah tangga penduduk tidak miskin
+sehingga rata-rata pendapatan perkapita
+penduduk tersebut relative lebih rendah.
+Keadaan ini akan lebih parah lagi jika
+
+110
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+tingkat pengangguran di wilayah tersebut
+juga tinggi.
+Kemiskinan
+merupakan
+suatu
+keadaan yang sering dihubungkan dengan
+kebutuhan, kesulitan dan kekurangan di
+berbagai keadaan hidup. Menurut Rintuh
+(2003), kemiskinan dapat diartikan sebagai
+ketidakmampuan
+seseorang
+dalam
+memenuhi kebutuhan konsumsi dasar dan
+meningkatkan kebutuhan konsumsi dasar
+dan kualitas hidupnya. Ada dua macam
+ukuran kemiskinan yaitu kemiskinan
+absolut
+dan
+kemiskinan
+relatif.
+Kemiskinan
+absolut
+adalah
+ketidakmampuan seseorang melampaui
+garis kemiskinan yang ditetapkan.
+Sedangkan kemiskinan relatif berkaitan
+dengan perbedaan tingkat pendapatan
+suatu golongan dibandingkan dengan
+golongan lainnya.
+Kemiskinan
+sendiri
+merupakan
+masalah yang menyangkut banyak aspek
+karena berkaitan dengan pendapatan yang
+rendah, buta huruf, derajat kesehatan yang
+rendah dan ketidaksamaan derajat antar
+jenis kemalin serta buruknya lingkungan
+hidup (World Bank, 2004). Menurut Bank
+Dunia salah satu penyebab kemiskinan
+adalah karena kurangnya pendapatan dan
+aset untuk memenuhi kebutuhan dasar
+seperti makanan, pakaian, perumahan dan
+tingkat kesehatan dan pendidikan yang
+dapat diterima. Di samping itu kemiskinan
+juga berkaitan dengan keterbatasan
+kapangan pekerjaan dan biasanya mereka
+yang dikategorikan miskin tidak memiliki
+pekerjaan (pengangguran), serta tingkat
+pendidikan dan kesehatan mereka pada
+umumnya tidak memadai. Mengatasi
+masalah kemiskinan tidak dapat dilakukan
+secara terpisah dari masalah-masalah
+penangguran, pendidikan, kesehatan dan
+masalah-masalah lain yang secara eksplisit
+berkaitan erat dengan masalah kemiskinan.
+Dengan kata lain, pendekatannya harus
+dilakukan lintas sektor, lintas pelaku
+secara terpadu dan terkoordinasi dan
+terintegrasi.
+
+ISSN: 2338- 4603
+
+Berdasarkan data dari BPS Kota
+Jambi bahwa pengangguran di Kota Jambi
+selama 4 tahun terakhir terus meningkat.
+Angka pengangguran di Kota Jambi pada
+tahun 2007 menurun sebesar 44,82 % pada
+tahun 2008 meningkat sebesar 8,31 %
+selanjutnya
+pada
+tahun
+2009
+pengangguran di Kota Jambi meningkat
+sebesar 11,56 % dan tahun 2010
+meningkat sebesar 12,94 % sedangkan
+tahun 2011 menurun sebesar 51,94 %.
+Pada tahun 2011 angka pengangguran
+dapat di tekan ditataran angka 9.628 jiwa.
+Meskipun pertumbuhan ekonomi
+yang dialami Kota Jambi sejak tahun
+2007– 2011 mengalami peningkatan ratarata sebesar 6,68 % tetapi tidak diikuti
+dengan penurunan kemiskinan. Rata-rata
+tingkat kemiskinan di Kota jambi selama
+periode 2007 – 2011 merupakan
+pertumbuhan
+ekonomi
+yang
+tidak
+seimbang. Yang dimaksud dengan
+mengalami peningkatan rata-rata 26,12 %
+per
+tahun.
+Sedangkan
+tingkat
+pengangguran selama periode 2007 – 2011
+mengalami penurunnan rata-rata sebesar
+12,79 % pertahunnya.
+Berdasarkan latar belakang tersebut,
+penelitian
+ini
+bertujuan
+untuk
+menganalisis: (1) Faktor-faktor yang
+mempengaruhi kemiskinan di Kota Jambi
+selama periode 2000-2011; (2) Faktorfaktor penyebab tingginya pengangguran
+di Kota Jambi selama periode 2000-2011;
+(3)
+Hubungan
+kemiskinan
+dan
+pengangguran
+di Kota jambi selama
+periode 2000-2011.
+Adapun manfaat penelitian adalah:
+(1) Bagi praktisi
+: menjadi bahan
+masukan informasi dalam merumuskan
+dan
+mempertimbangkan
+kebijakan–
+kebijakan yang dibuat guna mengatasi
+kemiskinan dan pengangguran terdidik di
+Kota Jambi; (2) Bagi Akademisi: dapat
+memberikan kontribusi pemikiran bagi
+para peneliti dan menjadi acuan, referensi,
+tambahan literatur dan perbandingan bagi
+peneliti selanjutnya.
+
+111
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+METODE PENELITIAN
+Jenis dan Sumber Data
+Jenis data yang digunakan dalam
+penelitian ini adalah data sekunder dalam
+bentuk time series, data sekunder ini
+diperoleh dari dokumen-dokumen resmi
+serta laporan – laporan berupa data runtut
+waktu (time series) dari tahun 2000–2011
+yang merupakan data Kota Jambi.
+Data yang digunakan adalah: (1). PDRB;
+(2). Jumlah Pengangguran; (3) Angka
+Kemiskinan; (4). Usia Harapan Hidup; (5).
+UMP (Upah Minimum Provinsi) Jambi;
+(6). Tingkat kepadatan penduduk; dan (7).
+Angka melek huruf
+Adapun data tersebut berasal dari :
+1. Bappeda Kota Jambi
+2. Badan Pusat Statistik (BPS) Kota Jambi
+3. Disosnaker Kota Jambi
+4. Disdukcapil Kota Jambi
+Metode Analisis
+Dalam pengolahan penelitian ini
+menggunakan beberapa model analisis
+diantaranya sebagai berikut :
+Untuk
+menjawab
+permasalahan
+pertama
+yaitu
+faktor-faktor
+yang
+mempengaruhi kemiskinan di Kota Jambi
+maka digunakan alat analisis regresi linier
+berganda, dengan rumus :
+Kemiskinan =
+β0 + β1Kep. Pop +
+β2PDRB + β3 Tgkt Pddkn + β4Tgkt
+Kshtn + β5Tgkt Pngnggrn +e
+Untuk
+menjawab
+permasalahan
+kedua
+yaitu
+faktor-faktor
+yang
+mempengaruhi pengangguran di Kota
+Jambi maka digunakan alat analisis regresi
+linier berganda, dengan rumus :
+Pengangguran
+= α0 + α1Kep. Pop +
+α2PDRB + α3Tgkt Pnddkn + α4Tgkt
+Kshtn + α5UMP +e
+Untuk
+menjawab
+permasalahan
+ketiga yaitu bagaimana hubungan tingkat
+pengangguran dengan tingkat kemiskinan
+di Kota Jambi maka dengan menggunakan
+alat analisis korelasi, dengan rumus sebagai
+berikut :
+
+r=
+
+ISSN: 2338- 4603
+
+n  XY  ( X ) ( Y )
+
+( n  X 2  ( X ) 2 ( n  Y 2  ( Y ) 2
+
+Dimana :
+r =
+Korelasi
+n =
+Tahun pengamatan
+x =
+Kemiskinan
+y =
+Pengangguran
+Interpretasi hasil korelasi dengan kriteria :
+Nilai r
+0
+
+Kriteria hubungan
+Tidak ada korelasi
+
+0,01 – 0,19
+
+Korelasi tidak berarti
+
+0,20 – 0,39
+
+Korelasi rendah
+
+0,40 – 0,59
+
+Korelasi sedang
+
+0,60 – 0,79
+
+Korelasi agak tinggi
+
+0,80 - 1,00
+
+Korelasi tinggi
+
+HASIL DAN PEMBAHASAN
+Faktor-faktor yang Mempengaruhi
+Kemiskinan
+Hasil regresi faktor-faktor yang
+mempengaruhi
+kemiskinan
+diberikan
+sebagai berikut:
+Tabel 1. Faktor-Faktor yang Mempengaruhi
+Kemiskinan (Model Awal)
+Variable
+Constant
+Kep.
+Penduduk
+PDRB
+Tingkat
+Pendidikan
+Tingkat
+Kesehatan
+Tingkat
+Pengangguran
+F-hitung
+
+Coeficient
+-18,065
+
+Standar
+Eror
+253,114
+
+t
+-0,071
+
+0,945
+
+-0,015
+
+0,009
+
+-1,758
+
+0,129
+
+1,193E-5
+
+0,000
+
+2,250
+
+0,065
+
+2,903
+
+2,419
+
+1,200
+
+0,275
+
+-3,812
+
+2,295
+
+-1,661
+
+0,148
+
+0,752
+
+0,349
+
+2,153
+
+0,075
+
+Sig
+
+= 14,518
+
+F-tabel
+
+= 3,11
+
+t-tabel
+
+= 1,943
+
+R2
+
+= 0,924
+
+Berdasarkan
+hasil
+pengolahan
+pengaruh tingkat kepadatan penduduk,
+PDRB, tingkat pendidikan, tingkat
+kesehatan dan tingkat pengangguran
+terhadap tingkat kemiskinan di Kota Jambi
+112
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+diperoleh nilai VIFnya tinggi, hal ini
+berarti terjadi multikloneritas. Untuk itu
+ada beberapa variabel independen yang
+dihilangkan untuk menghasilkan hasil yang
+lebih baik.
+Setelah dilakukan pengolahan lebih
+lanjut, model yang layak digunakan adalah
+dengan cara menghilangkan PDRB.
+Dengan menghilangkan PDRB maka
+diperoleh hasil sebagai berikut :
+Tabel 2. Faktor-Faktor yang Mempengaruhi
+Kemiskinan (Model Perbaikan)
+Variable
+Constant
+Ting. Kep.
+Penduduk
+Tingkat
+Pendidikan
+Tingkat
+Pengangguran
+F-hitung
+
+Coeficient
+-514,999
+
+Standar
+Eror
+122,506
+
+t
+-4,204
+
+0,003
+
+0,003
+
+0,004
+
+0,594
+
+0,569
+
+5,186
+
+1,307
+
+3,966
+
+0,004
+
+0,849
+
+0,385
+
+2,206
+
+0,058
+
+Sig
+
+= 15,979
+
+F-tabel
+
+= 2,92
+
+t-tabel
+
+= 1,850
+
+R2
+
+= 0,857
+
+R2 (Koefisien Determinasi)
+Koefisien
+Determinasi
+(R2)
+digunakan
+untuk
+melihat
+besarnya
+pengaruh variabel independen (tingkat
+kepadatan penduduk, tingkat pendidikan
+dan tingkat pengangguran) terhadap
+kemiskinan. Dari hasil analisis diperoleh
+besarnya koefisien determinasi adalah
+0,857.
+Nilai 0,857, artinya secara bersamasama
+kepadatan penduduk, tingkat
+pendidikan dan tingkat pengangguran
+berpengaruh sebesar 85,7 persen terhadap
+tingkat kemiskinan, sedangkan sisanya
+sebesar 14,3 persen dipengaruhi oleh
+variabel lain yang tidak dimasukkan dalam
+penelitian ini.
+Uji F
+Uji F digunakan untuk melihat
+signifikansi pengaruh variabel independen
+yaitu : tingkat kepadatan penduduk, PDRB,
+tingkat pendidikan, tingkat kesehatan dan
+tingkat pengangguran secara simultan atau
+
+ISSN: 2338- 4603
+
+bersama-sama terhadap variabel dependen
+yaitu tingkat kemiskinan.
+Dari hasil analisis regresi linier
+berganda didapat nilai F-hitung sebesar
+15,979 sementara F-tabel didapat pada
+tingkat kepercayaan  = 10 % yaitu
+sebesar 2,92. Dengan demikian F-hitung >
+F-tabel (15,979 > 2,92), maka Ho ditolak
+artinya tingkat kepadatan penduduk,
+tingkat
+pendidikan
+dan
+tingkat
+pengangguran
+secara
+bersama-sama
+(simultan) berpengaruh signifikan terhadap
+tingkat kemiskinan di Kota Jambi selama
+periode 2000-2011. Hal ini sesuai dengan
+teori yang menyatakan bahwa secara
+simultan variabel independen : tingkat
+kepadatan penduduk, tingkat pendidikan
+dan tingkat pengangguran berpengaruh
+positif dan signifikan terhadap tingkat
+kemiskinan.
+Tingkat kepadatan penduduk, tingkat
+pendidikan dan tingkat pengangguran
+berpengaruh signifikan terhadap tingkat
+kemiskinan, hal ini diduga bahwa faktorfaktor tersebut merupakan faktor yang
+menyebabkan terjadinya kemiskinan. Di
+Kota Jambi penduduk miskin masih
+didominasi oleh penduduk yang memiliki
+tingkat pendidikan yang rendah.
+Uji t
+Uji t digunakan untuk melihat
+signifikansi pengaruh variabel independen
+(tingkat kepadatan penduduk, tingkat
+pendidikan dan tingkat pengangguran)
+secara parsial (individu) terhadap variabel
+dependent (tingkat kemiskinan).
+Dari hasil analisis regresi pada
+variabel kepadatan penduduk (X1) didapat
+nilai t-hitung sebesar 0,594 sementara ttabel didapat pada tingkat kepercayaan  =
+10 %
+yaitu sebesar 1,850. Dengan
+demikian t-hitung < t-tabel (0,594 < 1,850),
+maka Ho diterima artinya variabel
+kepadatan penduduk berpengaruh tidak
+signifikan terhadap tingkat kemiskinan. Hal
+ini tidak sesuai dengan teori, yang
+menyatakan bahwa kepadatan penduduk
+berpengaruh signifikan terhadap tingkat
+kemiskinan. Hal ini diduga karena tingkat
+113
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+kepadatan penduduk di Kota Jambi sangat
+tinggi, kepadatan penduduk yang tinggi
+tidak seimbang dengan peningkatan tingkat
+kemiskinan.
+Dari hasil analisis regresi pada
+variabel tingkat pendidikan (X3) didapat
+nilai t-hitung sebesar 3,966 sementara ttabel didapat pada tingkat kepercayaan  =
+10 %
+yaitu sebesar 1,850. Dengan
+demikian t-hitung > t-tabel (3,966 < 1,850),
+maka Ho ditolak artinya variabel tingkat
+pendidikan
+berpengaruh
+signifikan
+terhadap tingkat kemiskinan. Hal ini sesuai
+dengan teori yang menyatakan bahwa
+tingkat pendidikan berpengaruh signifikan
+terhadap tingkat kemiskinan.
+Dari hasil analisis regresi pada
+variabel tingkat pengangguran (X5) didapat
+nilai t-hitung sebesar 2,206 sementara ttabel didapat pada tingkat kepercayaan  =
+10 %
+yaitu sebesar 1,850. Dengan
+demikian t-hitung > t-tabel (2,206 > 1,850),
+maka Ho ditolak artinya variabel tingkat
+pengangguran berpengaruh signifikan
+terhadap tingkat kemiskinan. Hal ini sesuai
+sesuai dengan teori, yang menyatakan
+bahwa tingkat pengangguran berpengaruh
+signifikan terhadap kemiskinan.
+Berdasarkan hasil analisis regresi
+linier berganda diatas didapat konstanta
+sebesar -514,999. Sedangkan untuk
+masing-masing koefisien regresi yaitu :
+1. Koefisien regresi kepadatan penduduk
+(X1) sebesar 0,003 artinya jika
+kepadatan meningkat sebesar 1
+orang/km2, maka tingkat kemiskinan
+akan meningkat sebesar 0,003 persen
+dengan asumsi variabel lain tetap (sama
+dengan nol). Kepadatan penduduk
+berpengaruh
+positif
+terhadap
+kemiskinan, hal ini sesuai dengan teori
+yang menyatakan semakin padat suatu
+daerah maka tingkat kemiskinan akan
+semakin meningkat.
+Pada tahun 2008, Jhingan
+mengemukakan
+pengaruh
+buruk
+pertumbuhan penduduk yang tinggi
+terhadap perekonomian (pendapatan per
+kapita). Pertumbuhan
+penduduk
+
+ISSN: 2338- 4603
+
+cenderung memperlambat pendapatan
+per kapita melalui tiga cara, yaitu:
+1. Memperberat beban penduduk pada
+lahan
+2. Menaikkan barang konsumsi karena
+kekurangan faktor pendukung untuk
+menaikkan penawaran mereka
+3. Memerosotkan akumulasi modal,
+karena dengan tambah anggota
+keluarga, biaya meningkat. Kondisi
+ini akan semakin parah apabila
+persentase
+anak-anak
+pada
+keseluruhan penduduk tinggi, karena
+anak-anak hanya menghabiskan dan
+tidak menambah produk, dan jumlah
+anak yang menjadi tanggungan
+keluarga lebih besar daripada jumlah
+mereka yang menghasilkan, sehingga
+pendapatan per kapita menjadi
+rendah.
+Banyaknya
+penduduk
+menyebabkan
+persaingan
+dalam
+memperoleh pekerjaan semakin kuat,
+sementara lapangan kerja terbatas.
+Penduduk yang kalah dalam persaingan
+akan menganggur atau bekerja dengan
+pendapatan yang rendah, sehingga
+keduanya akan berdampak pada
+bertambahnya kemiskinan.
+2. Koefisien regresi tingkat pendidikan
+(X3) sebesar 2,903 artinya jika tingkat
+pendidikan meningkat sebesar 1 persen,
+maka tingkat kemiskinan meningkat
+sebesar sebesar 2,903 persen dengan
+asumsi variabel lain tetap (sama dengan
+nol). Tingkat pendidikan berpengaruh
+positif terhadap tingkat kemiskinan, hal
+ini tidak sesuai dengan teori.
+Pendidikan
+menyangkut
+pembangunan karakter dan sekaligus
+mempertahankan jati diri manusia suatu
+bangsa.
+Pendidikan
+khususnya
+peningkatan jumlah tahun belajar
+merupakan suatu syarat untuk tahap dari
+pembangunan ekonomi. Semakin tinggi
+pendidikan seseorang, maka kualitas
+sumberdaya manusia juga akan semakin
+baik
+dan
+akan
+mempengaruhi
+produktifitas.
+Ketika
+produktifitas
+114
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+meningkat maka penghasilan atau upah
+yang didapat juga akan meningkat
+sehingga akan membantu masyarakat
+keluar dari jerat kemiskinan. Pendidikan
+dapat berperan dalam pengentasan
+kemiskinan tergantung pada tingkat
+pembangunan suatu negara/wilayah,
+aspek ekonomi, sosial dan politik yang
+mempengaruhi upah dan permintaan
+tenaga kerja.
+3. Koefisien regresi tingkat pengangguran
+(X5) sebesar 0,849 artinya jika tingkat
+pengangguran meningkat sebesar 1
+persen maka tingkat kemiskinan akan
+meningkat sebesar 0,849 persen dengan
+asumsi variabel lain tetap (sama dengan
+nol).
+Tingkat
+pengangguran
+berpengaruh positif terhadap tingkat
+kemiskinan, hal ini sesuai dengan teori
+jika pengangguran meningkat maka
+kemiskinan akan meningkat.
+Faktor-faktor yang Mempengaruhi
+Pengangguran
+Untuk melihat faktor-faktor yang
+mempengaruhi pengangguran digunakan
+metode regresi linier berganda. Variabel
+independen dalam penelitian ini adalah :
+kepadatan penduduk, PDRB, tingkat
+pendidikan, tingkat kesehatan dan UMP.
+Sedangkan variabel dependen adalah
+tingkat pengangguran.
+Tabel 3. Faktor-Faktor yang Mempengaruhi
+Pengangguran (Model Awal)
+Variable
+Constant
+Kepadatan
+Penduduk
+PDRB
+Tingkat
+Pendidikan
+Tingkat
+Kesehatan
+UMP
+
+Coeficient
+-43,309
+
+Standar
+Eror
+311,562
+
+-0,139
+
+0,894
+
+0,003
+
+0,010
+
+0,330
+
+0,753
+
+0,019
+
+0,012
+
+1,579
+
+0,166
+
+-4,070
+
+2,198
+
+-1,852
+
+0,114
+
+6,024
+
+4,053
+
+1,486
+
+0,188
+
+-0,048
+
+0,032
+
+-1,492
+
+0,186
+
+F-hitung
+
+= 1,780
+
+F-tabel
+
+= 3,11
+
+t-tabel
+
+= 1,943
+
+R2
+
+= 0,597
+
+t
+
+Sig
+
+ISSN: 2338- 4603
+
+Berdasarkan hasil pengolahan SPSS
+dari pengaruh tingkat kepadatan penduduk,
+PDRB, tingkat pendidikan, tingkat
+kesehatan dan UMP terhadap tingkat
+pengangguran di Kota Jambi diperoleh
+nilai VIFnya tinggi, hal ini berarti terjadi
+multikloneritas. Untuk itu ada beberapa
+variabel independen yang dihilangkan
+untuk menghasilkan hasil yang lebih baik.
+Setelah dilakukan pengolahan dengan
+SPSS maka model yang layak digunakan
+adalah dengan cara menghilangkan PDRB
+dan UMP. Dengan menghilangkan PDRB
+dan UMP maka diperoleh hasil sebagai
+berikut :
+Tabel 4. Faktor-Faktor yang Mempengaruhi
+Pengangguran (Model Perbaikan)
+Variable
+
+Coeficient
+160,108
+
+Standar
+Eror
+59,548
+
+-2,822
+
+1,501
+
+1,791
+
+1,707
+
+Constant
+Tingkat
+Pendidikan
+Tingkat
+Kesehatan
+F-hitung
+
+= 3,344
+
+F-tabel
+
+= 3,01
+
+t-tabel
+
+= 1,833
+
+R2
+
+= 0,426
+
+t
+
+Sig
+
+2,689
+1,880
+
+0,025
+
+1,049
+
+0,321
+
+0,093
+
+R2 (Koefisien Determinasi)
+Koefisien
+Determinasi
+(R2)
+digunakan
+untuk
+melihat
+besarnya
+pengaruh tingkat pendidikan dan tingkat
+kesehatan terhadap tingkat pengangguran.
+Dari hasil analisis diperoleh besarnya
+koefisien determinasi adalah 0,426.
+Nilai 0,426 artinya secara bersamasama tingkat pendidikan dan tingkat
+kesehatan berpengaruh sebesar 42,6 persen
+terhadap tingkat pengangguran, sedangkan
+sisanya sebesar 53,4 persen dipengaruhi
+oleh variabel lain yang tidak dimasukkan
+dalam penelitian ini.
+Uji F
+Uji F digunakan untuk melihat
+signifikansi pengaruh variabel independen
+yaitu : tingkat pendidikan dan tingkat
+kesehatan secara simultan atau bersamasama terhadap variabel dependen yaitu
+tingkat pengangguran.
+115
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+Dari hasil analisis regresi linier
+berganda didapat nilai F-hitung sebesar
+3,344 sementara F-tabel didapat pada
+tingkat kepercayaan  = 10 % yaitu
+sebesar 3,01. Dengan demikian F-hitung >
+F-tabel (3,344 > 3,01), maka Ho ditolak
+artinya tingkat pendidikan dan tingkat
+kesehatan secara bersama-sama (simultan)
+berpengaruh signifikan terhadap tingkat
+pengangguran di Kota Jambi
+selama
+periode 2000-2011.
+Uji t
+Uji t digunakan untuk melihat
+signifikansi pengaruh variabel independent
+(tingkat pendidikan dan tingkat kesehatan)
+secara parsial (individu) terhadap variabel
+dependent (tinkgat pengangguran).
+Dari hasil analisis regresi pada
+variabel tingkat pendidikan (X1) didapat
+nilai t-hitung sebesar -1,880 sementara ttabel didapat pada tingkat kepercayaan  =
+10 %
+yaitu sebesar -1,833. Dengan
+demikian t-hitung > t-tabel (-1,880 >
+-1,833), maka Ho ditolak artinya variable
+tingkat pendidikan berpengaruh signifikan
+terhadap tingkat pengangguran. Hal ini
+sesuai dengan teori, yang menyatakan
+bahwa tingkat pendidikan berpengaruh
+signifikan terhadap tingkat pengangguran.
+Dari hasil analisis regresi pada
+variabel tingkat kesehatan (X2) didapat
+nilai t-hitung sebesar 1,049 sementara ttabel didapat pada tingkat kepercayaan  =
+10 %
+yaitu sebesar 1,833. Dengan
+demikian t-hitung < t-tabel (1,049 < 1,833),
+maka Ho diterima artinya variabel tingkat
+kesehatan tidak berpengaruh terhadap
+tingkat pengangguran. Hal ini tidak sesuai
+dengan teori yang menyatakan bahwa
+kesehatan berpengaruh signifikan terhadap
+tingkat pengangguran.
+Berdasarkan hasil analisis regresi
+linier berganda diatas didapat konstanta
+sebesar 160,108. Sedangkan untuk masingmasing koefisien regresi yaitu :
+1. Koefisien regresi tingkat pendidikan
+(X1) sebesar -2,822 artinya jika tingkat
+pendidikan meningkat sebesar 1 persen,
+
+ISSN: 2338- 4603
+
+maka tingkat pengangguran akan
+menurun sebesar 2,822 persen dengan
+asumsi variabel lain tetap (sama dengan
+nol). Tingkat pendidikan berpengaruh
+negatif terhadap tingkat pengangguran,
+hal ini sesuai dengan teori yang
+menyatakan bahwa tingkat pendidikan
+berpengaruh negatif terhadap tingkat
+pengangguran.
+2. Koefisien regresi tingkat kesehatan (X2)
+sebesar 1,049 artinya jika angka harapan
+hidup (X2) meningkat sebesar 1 tahun,
+maka tingkat pengangguran meningkat
+sebesar 1,049 persen dengan asumsi
+variabel lain tetap (sama dengan nol).
+Tingkat kesehatan berpengaruh positif
+terhadap tingkat pengangguran, hal ini
+sesuai dengan teori jika angka harapan
+hidup
+meningkat
+maka
+tingkat
+pengangguran akan meningkat.
+Hubungan antara Kemiskinan dengan
+Pengangguran
+Terkait dengan penciptaan lapangan
+kerja guna mengurangi pengangguran,
+perlu diciptakan suasana yang kondusif
+demi tersemainya semangat kewirausahaan
+di kalangan warga bangsa. Salah satu
+problematika yang masih menggelayuti
+adalah sulitnya usaha kecil dan menengah
+serta sektor informal yang banyak
+menyerap tenaga kerja. Selama ini,
+hambatan struktural yang mengemuka
+adalah rigiditas aturan formalisasi yang
+mewajibkan mereka untuk memenuhi
+persyaratan legal formal. Konsekuensinya,
+mereka banyak bergerak di luar pasar yang
+memerlukan persyaratan legal formal.
+Seperti kata Hernando de Soto, kaum
+miskin sebenarnya memiliki elan untuk
+menstranformasikan capital ke dalam
+bentuk usaha-usaha produktif. Hal ini
+terbukti bahwa sektor-sektor ekonomi
+informal yang dijalankan oleh kalangan
+masyarakat bawah justru dapat bertahan
+dari hantaman krisis yang mendera sejak
+1997 yang lalu. Pemerintah sudah
+seharusnya bisa memfasilitasi mereka
+dengan memberikan kemudahan dan akses
+116
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+untuk berusaha. Dalam hal ini ada baiknya
+pemerintah sesegera mungkin membantu
+para pegiat ekonomi lemah dan kaum
+miskin
+ini
+dengan
+memberikan
+kemudahan-kemudahan seperti dalam
+aspek hukum (legal) dan jaminan akan
+property rights.
+Berdasarkan
+hasil
+perhitungan
+statistik diperoleh koefisien korelasi antara
+tingkat
+kemiskinan
+dan
+tingkat
+pengangguran sebesar -0,290. Artinya
+terdapat hubungan yang negatif dan
+memiliki korelasi yang rendah antara
+tingkat
+kemiskinan
+dan
+tingkat
+pengangguran di Kota Jambi selama
+periode 2000-2011.
+Korelasi antara tingkat kemiskinan
+dengan tingkat pengangguran memiliki
+korelasi yang negatif dan rendah, hal ini
+disebabkan oleh pengangguran di Kota
+Jambi kebanyakan adalah pengangguran
+yang terdidik, dan banyak tenaga kerja
+yang bekerja tidak sesuai dengan
+bidangnya. Tingkat upah yang diterima
+oleh pekerja juga masih rendah dan tidak
+sesuai dengan kebutuhan keluarga yang
+ditanggungnya sehingga masih banyak
+yang mempunyai pekerjaan hidup di bawah
+garis kemiskinan.
+Jumlah pekerja di Kota Jambi
+didominasi oleh pekerja yang tidak
+sekolah, tidak tamat SD, lulusan SD dan
+lulusan SMP. Mayoritas dari mereka ini
+adalah pekerja di sektor pertanian yang
+memberikan upah sangat rendah. Pekerja
+yang berada dalam kelompok ini sangat
+rentan untuk terjebak dalam lingkaran
+kemiskinan yang berkelanjutan.
+Implikasi Kebijakan
+Berdasarkan
+hasil
+penelitian
+diketahui bahwa :
+1. Secara
+bersama-sama
+kepadatan
+penduduk, tingkat pendidikan dan
+tingkat pengangguran berpengaruh
+positif dan signifikan terhadap tingkat
+kemiskinan di Kota Jambi. Sedangkan
+secara parsial variabel yang berpengaruh
+signifikan terhadap tingkat kemiskinan
+
+ISSN: 2338- 4603
+
+adalah variabel tingkat pendidikan dan
+tingkat pengangguran.
+2. Secara bersama-sama tingkat pendidikan
+dan tingkat kesehatan berpengaruh
+positif dan tidak signifikan terhadap
+tingkat pengangguran di Kota Jambi.
+Potret kemiskinan di Indonesia
+umumnya dan Kota Jambi khususnya tidak
+bisa dilepaskan dari masalah masih
+rendahnya tingkat pendidikan para pekerja.
+Data statistik menunjukkan bahwa jumlah
+pekerja usia 15 tahun ke atas ternyata
+didominasi oleh pekerja yang tidak
+sekolah, tidak tamat SD, lulusan SD dan
+lulusan SMP. Jumlah mereka ini sekitar 75
+% dari total pekerja usia 15 tahun ke atas di
+Indonesia. Mayoritas dari mereka ini
+adalah pekerja di sektor pertanian yang
+memberikan upah sangat rendah. Uniknya,
+jumlah pekerja berpendidikan rendah ini
+tidak banyak berubah dari semenjak
+sebelum krisis ekonomi, masa krisis
+ekonomi dan hingga kini. Fenomena ini
+jelas mengindikasikan bahwa pekerja yang
+berada dalam kelompok ini sangat rentan
+untuk terjebak dalam lingkaran kemiskinan
+yang berkelanjutan. Lebih jauh dari itu,
+bukan
+tidak
+mungkin
+data
+ini
+mengindikasikan bahwa penduduk miskin
+saat ini adalah berasal dari keturunan yang
+sama dari penduduk miskin sebelumnya.
+Fenomena
+ini
+jelas
+sangat
+mengkhawatirkan untuk kelanjutan proses
+pembangunan ke depan. Dalam konteks
+makro, rendahnya level pendidikan para
+pekerja akan menyebabkan rendahnya
+produktivitas
+dan
+menghasilkan
+pertumbuhan ekonomi yang rendah dan
+lambat. Jika hal ini terjadi, penyerapan
+tenaga kerja akan semakin berkurang dan
+perbaikan kualitas hidup penduduk miskin
+akan terus terhambat.
+Potret
+suram
+angkatan
+kerja
+berpendidikan rendah ini juga tercermin
+dalam statistik pengangguran. Susahnya
+mereka mendapat pekerjaan ini salah
+satunya disebabkan oleh tidak siapnya
+mereka dalam mengaplikasikan ilmunya di
+dunia kerja, sehingga ada gap antara
+117
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+kualifikasi yang diminta pemberi kerja
+dengan mereka sebagai pencari kerja. Hal
+ini diperparah dengan rendahnya jiwa
+enterpreneurship dalam diri angkatan kerja
+lulusan SMA, Diploma dan Universitas.
+Tentu ini bukan kesalahan mereka semata,
+pemerintah dalam hal ini departemen
+pendidikan nasional belum mampu
+menyusun kurikulum sekolah maupun
+perguruan tinggi yang bisa mengarahkan
+mereka untuk menjadi enterpreuneur
+ketika kelak lulus dari bangku kuliah. Jadi
+intinya, perlu ada reorientasi pendidikan,
+khususnya di perguruan tinggi untuk lebih
+mengarah pada penciptaan lulusan yang
+siap terjun menjadi enterpreneur.
+Pola pengembangan pendidikan
+tinggi yang berorientasi dalam menciptakan
+enterpreneur ini akan berjalan lancar jika
+dikoordinasikan dengan lembaga-lembaga
+pemerintah lainnya, khususnya yang
+menangani masalah kebijakan moneter dan
+perbankan. Lembaga pemerintah yang
+bergerak dalam dua bidang ini harus
+memberikan akses kredit yang cukup
+kepada para lulusan SMA dan perguruan
+tinggi yang telah dididik dalam pola
+“enterpreneur education¨ ini, misalnya
+dengan meluncurkan “young enterpreneur
+credit program”. Lebih jauh dari itu,
+pemerintah melalui bank-bank BUMN bisa
+membentuk suatu lembaga keuangan
+khusus yang memang diarahkan untuk
+mendanai bisnis yang dirintis oleh para
+enterpreneur muda ini.
+Kebijakan
+yang
+seyogyanya
+ditempuh oleh pemerintah untuk mengurai
+problematika kemiskinan ini antara lain
+dengan menciptakan pertumbuhan ekonomi
+yang lebih berkualitas dengan landasan
+investasi baik asing maupun domestik.
+Dalam kaitannya dengan investasi sebagai
+salah
+satu
+prasyarat
+pendorong
+pertumbuhan
+ekonomi,
+pemantapan
+kemandirian potensi ekonomi lokal perlu
+diperkuat mengingat situasi ekonomi global
+yang tak menentu. Hal ini untuk
+mengurangi ketergantungan akan investasi
+asing yang belum tentu akan berdampak
+
+ISSN: 2338- 4603
+
+positif bagi penciptaan lapangan kerja baru.
+Di sisi lain, investasi dan belanja
+pemerintah perlu lebih diarahkan kepada
+pembangunan infrastruktur terutama di
+pedesaan
+untuk
+mendorong
+dan
+memfasilitasi
+kegiatan
+ekonomi
+masyarakat. Keberpihakan kepada rakyat
+perlu dipertegas dengan mengurangi
+rigiditas pendistribusian anggaran dan
+efisiensi anggaran untuk lebih ditujukan
+kepada
+proyek
+yang
+mampu
+memberdayakan masyarakat.
+Perbaikan dan peningkatan akses
+pendidikan secara gratis adalah salah satu
+kunci mengatasi masalah rumit pendidikan
+dan kemiskinan ini. Mengapa pendidikan
+ini penting untuk mengatasi kemiskinan?
+Todaro (2000) menyebutkan bahwa sumber
+utama dari pertumbuhan ekonomi dan
+kemajuan negara-negara maju saat ini
+bukanlah “physical capital”, melainkan
+“human
+capital¨.
+Oleh
+karenanya,
+komitmen pemerintah yang benar-benar
+nyata sangat ditunggu. Selain akses
+pendidikan yang harus terbuka lebar,
+orientasi pendidikan pun harus diarahkan
+kepada penciptaan lulusan sekolah yang
+mampu menjadi wirausaha yang pada
+gilirannya akan menciptakan lapangan
+kerja, bukan hanya sekedar pencari kerja.
+Pemerintah pun perlu memberikan
+dukungan dan penyederhanaan aturan
+dalam mendorong tumbuhnya wirausahawirausaha baru.
+Ke depan, kiranya upaya-upaya untuk
+memerangi kemiskinan lebih difokuskan ke
+arah pengembangan aset ekonomi produktif
+bagi kaum miskin. Hal ini bisa dilakukan
+dengan membantu kaum miskin yang
+memiliki usaha kecil dan semangat
+kewirausahaan
+dengan
+bantuan
+permodalan, pemberian kepastian hukum
+atas lahan yang dimiliki petani gurem,
+fasilitasi PKL tanpa mengenyampingkan
+habitat usaha dan prospek pasar atas barang
+dagangan mereka.
+KESIMPULAN DAN SARAN
+
+118
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+Kesimpulan
+1. Berdasarkan hasil penelitian diketahui
+bahwa secara simultan kepadatan
+penduduk, tingkat pendidikan dan
+tingkat pengangguran berpengaruh
+positif dan signifikan terhadap tingkat
+kemiskinan di Kota Jambi.
+2. Berdasarkan hasil penelitian diketahui
+bahwa
+secara
+simultan
+tingkat
+pendidikan dan tingkat kesehatan
+berpengaruh positif dan signifikan
+terhadap tingkat pengangguran di Kota
+Jambi. Sedangkan secara parsial
+variabel yang berpengaruh signifikan
+terhadap tingkat pengangguran adalah
+tingkat pendidikan. Besarnya pengaruh
+tingkat pedidikan dan tingkat kesehatan
+secara
+bersama-sama
+terhadap
+pengangguran di Kota Jambi 42,6
+persen.
+3. Berdasarkan hasil penelitian diketahui
+korelasi antara tingkat kemiskinan
+dengan tingkat pengangguran di Kota
+Jambi adalah negatif dan sangat rendah.
+Saran
+1. Meningkatkan
+laju
+pertumbuhan
+ekonomi
+melalui
+peningkatan
+penanaman modal di Kota Jambi dengan
+menciptakan iklim investasi yang
+kondusif.
+2. Meningkatkan pendidikan penduduk
+Kota Jambi melalui program wajib
+belajar sembilan terprogram dan
+terstruktur
+sehingga
+persentase
+penduduk miskin akan semakin
+berkurang.
+3. Upaya-upaya
+untuk
+memerangi
+kemiskinan lebih difokuskan ke arah
+pengembangan aset ekonomi produktif
+bagi kaum miskin. Hal ini bisa
+dilakukan dengan membantu kaum
+miskin yang memiliki usaha kecil dan
+semangat
+kewirausahaan
+dengan
+bantuan permodalan.
+4. Menciptakan lapangan pekerjaan baru
+sehingga dapat menyerap tenaga kerja
+dan mengurangi pengangguran.
+
+ISSN: 2338- 4603
+
+DAFTAR PUSTAKA
+Alfian, dkk, 1980. Kemiskinan Struktural:
+Suatu Bunga Rampai. Penerbit
+Yayasan Ilmu-Ilmu Sosial dan HIPIS.
+Jakarta.
+Arsyad, L, 1999. Ekonomi Pembangunan.
+STIE-YKPN. Yogyakarta.
+Djoyohadikusumo, S, 1995. Perkembangan
+Pemikiran Ekonomi (Dasar Teori
+Ekonomi Pertumbuhan dan Ekonomi
+Pembangunan). LP3ES. Jakarta.
+Deliarnov, 2005. Perkembangan Pemikiran
+Ekonomi. PT RajaGrafindo Persada.
+Jakarta.
+Hortn, Paul B dan Chester L Hunt, 1984.
+Sosiologi Edisi keenam. Jakarta.
+Erlangga
+Jabal T, Ibrahim, 2002. Sosiologi
+Pedesaan. Malang: UMM.
+Krisnamurti, B. 2006. 22 Tahun Studi
+Pembangunan
+Pengurangan
+Kemiskinan,
+Pembangunan
+Agribisnis
+dan
+Revitalisasi
+Pertanian. Pusat Studi Pembangunan
+Pertanian dan Pedesaan-LPPM IPB,
+Bogor.
+Kuncoro, Mudrajad, 2003. Ekonomi
+Pembangunan : Teori, Masalah dan
+Kebijakan. UPP AMP YKPN:
+Yogyakarta.
+Nurhayati, Maruti, 2007. Analisis Faktorfaktor yang Mempengaruhi Tingkat
+Kemiskinan di Jawa Barat. FEMIPB. Bogor.
+Poloma, Margareth M. 2004. Sosiologi
+kontemporer. Jakarta: Rajawali
+Rintuh, C.. M,. 2003. Kelembagaan dan
+Ekonomi Rakyat. Dikti, Jakarta.
+Ritzer, George dan Douglass J Goodman,
+2003. Teori Sosiologi Modern.
+Jakarta: Kencana
+Robinson
+Tarigan,
+2004.
+Ekonomi
+Regional : Teori dan Aplikasi. Bumi
+Aksara. Jakarta.
+Sajogyo, 1977. Kemiskinan dan Kebutuhan
+Minimum
+Pangan.
+Lembaga
+Penelitian Sosiologi Pedesaan. IPB.
+Bogor.
+
+119
+
+Jurnal Perspektif Pembiayaan dan Pembangunan Daerah Vol. 1 No.2, Oktober 2013
+
+Simatupang, Pantjar dan Saktyanu, K,
+Dermoredjo, 2003. Produk Domestik
+Bruto, Harga dan Kemiskinan. Media
+Ekonomi, dan Keuangan Indonesia.
+Hal 191 – 324, Vol. 51, No. 3.
+Singarimbun, Masri dan Effendi Sofyan,
+1989. Metode Penelitian Survei.
+LP3ES. Jakarta.
+Siregar, H dan D. Wahyuniarti. 2007.
+Dampak Pertumbuhan Ekonomi
+terhadap
+Penurunan
+Jumlah
+Penduduk Miskin. MB-IPB. Bogor.
+Sukirno, S, 1985. Ekonomi Pembangunan,
+Proses,
+Masalah
+dan
+Dasar
+Kebijaksanaan. Jakarta. FE-UI.
+Sukirno, S, 1994. Pengantar Teori
+Ekonomi. Raja Grafindo Persada.
+Jakarta.
+Sumodiningrat, G dkk, 1999. Kemiskinan:
+Teori, Fakta dan Kebijakan. Penerbit
+IMPAC, Jakarta.
+Sunarso dan Mardimin, 1996. Konsep
+Ketidakadilan dan Kemiskinan dalam
+
+ISSN: 2338- 4603
+
+Dimensi Proses Pembangunan di
+Indonesia.
+Penerbit
+Kanisius.
+Yogyakarta.
+Suparlan, P, 1984. Kemiskinan di
+Perkotaan:
+Bacaan
+untuk
+Antropologi
+Perkotaan.
+Sinar
+Harapan. Jakarta.
+Tambunan, Tulus, 2003. Perekonomian
+Indonesia,
+Beberapa
+Masalah
+Penting. Ghalia Indonesia. Jakarta.
+Todaro, Smith, 2004. Pembangunan
+Ekonomi di Dunia ke Tiga, Jilid 1.
+Airlangga. Jakarta.
+Wiraswara, A, 2005. Pertumbuhan
+Ekonomi dan Pengurangan Angka
+Kemiskinan di Indonesia [skripsi].
+Departemen Ilmu Ekonomi. Fakultas
+Ekonomi dan Manajemen – IPB.
+Bogor.
+World
+Bank.
+2004.
+Mewujudkan
+Pelayanan Umum bagi Masyarakat
+Miskin. The World Bank, Jakarta.
+
+120
+
+

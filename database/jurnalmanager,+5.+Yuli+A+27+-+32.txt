@@ -1,0 +1,666 @@
+Jurnal TEKESNOS Vol 2 No 1 01 Mei tahun 2020
+
+Jurnal Teknologi, Kesehatan dan Ilmu
+Sosial
+PERANCANGAN SISTEM INFORMASI AKADEMIK BERBASIS WEB
+DI SMP RAHMAT ISLAMIYAH
+1
+
+Yuli Anggreini Pratiwi, 2Riah Ukur Ginting, 3Harold Situmorang, 4Rianto Sitanggang
+Program Studi Sistem Informasi Universitas Sari Mutiara Indonesia Medan
+Jl. Kapten Muslim No.79 Medan 20123 Medan Telp (061)-8476769
+e-mail : 1 yulianggreiza@gmail.com, 2riahukur@gmail.com,
+3
+haroldsitumorang.hs@gmail.com,
+4
+rianto.sitanggang79@gmail.com
+
+Abstrak
+Pada saat era globalisasi teknologi saat ini, kebutuhan informasi dalam dunia pendidikan sangat
+dalam menentukan kemajuan suatu lembaga. Dengan pemanfaatan dan penerapan teknologi informasi, kumpulan
+data yang sling berhubungan satu sama lain. Sistem Informasi Akademik Berbasis Web pada SMP Rahmat
+Islamiyah merupakan sistem yang memudahkan dalam penginputan data guru dan data siswa serta data alumni
+yang bersangkutan dalam akademik berbasis web, sehingga membantu kecepatan dan kualitas dalam penyampaian
+informasi . selain itu dengan informasi berbasis web maka informasi data dapat diakses dengan waktu dan
+tempat yang tidak ditentukan. Dari sinilah muncul keinginan dari penulis untuk membuat aplikasi Sistem
+Informasi Akademik Sekolah Berbasis Web untuk medukung kegiatan oprasional sehari-hari pada sekolah tersebut.
+Dengan adanya aplikasi berbasis web ini akan meciptakan pengolahan yang terorganisir, sistem dimenu hanya
+dapat diakses oleh user tertentu yaitu administrator , siswa dan pengajar. Pada hal penelitian ini telah
+dikembangkan sebuah sistem informasi akademik berbasis web dengan studi kasus pada SMP Rahmat
+Islamiyah Dimana dalam membangun sistem ini digunakan alat bantu dengan pengembangan sistem Data Flow
+Daigram (DFD), context Diagram, Entity Relationship Diagram (ERD) data flowchart serta dengan menggunakan
+bahasa pemograman PHP dan HTML dan MySQL sebagai databasenya.
+Kata kunci : Sistem Informasi Akademik, PHP dan HTML, MySQL
+terkomputerisasi, maka data yang ada dapat
+tersimpan dengan rapi, intergrity terjamin,
+pengolahan data dan informasi dapat dilakukan
+secara cepat, tepat daan akurat dibandingkan cara
+yang belum menggunakan sistem dan aplikasi yang
+belum terkomputerisasi.
+
+1. PENDAHULUAN
+Perkembangan teknologi informasi kini semakin
+pesat tidak terkecuali di Indonesia, dengan
+berkembangnya teknologi informasi hampir semua
+kebutuhan manusia yang berkaitan dengan
+pekerjaan di suatu perusahaan, perdagangan serta
+perguruan tinggi sangat membutuhkan teknologi
+informasi dan seiring berjalannya waktu sekolahan
+juga memiliki peran penting terhadap teknologi
+informasi. Pengguna teknologi informasi terus
+meningkat dengan adanya internet. Teknologi
+internet dapat mendukung pengguna teknologi
+informasi sebagai sarana pembelajaran. Sebagai
+contoh
+internet
+dapat
+digunakan
+untuk
+menyebarkan informasi pembelajaran. Pandia
+Henry, (2007). Seiring dengan era globalisasi
+teknologi saat ini kebutuhan informasi dalam dunia
+bisnis dan pendidikan menjadi sangat penting
+dalam memberikan kemajuan pada suatu instansi
+tersebut. Aktivitas yang baik pada suatu perusahaan
+atau teknologi sangat ditentukan oleh informasi
+yang tersedia. Untuk mengelola informasi yang
+tersedia dibutuhkan teknologi informasi yang dapat
+mengorganisir dengan baik data-data perusahaan
+secara terstruktur dan mudah dipahami dengan
+baik.
+Dengan memanfaatkan penerapan teknologi
+informasi kumpulan data yang saling terhubung
+satu sama lain dapat terorganisir menjadi sebuah
+file, dimana data-data diorganisasikan dan disimpan
+ke dalam komputer untuk memudahkan pemakaian
+dalam mengakses data. Dengan menggunakan
+sistem dan perancangan aplikasi yang telah
+
+Rumusan Masalah
+Dengan melihat latar belakang diatas, maka
+rumusan masalah dalam penellitian ini adalah
+1. Bagaimana membuat aplikasi perancangan
+sistem informasi akademik berbasis web yang
+dinamis, sederhana, dan mudah digunakan.
+2. Bagaimana sistem informasi akademik ini
+membantu proses pencatatan data guru, siswa,
+kelas, dan jadwal mata pelajaran
+Batasan Masalah
+Dengan melihat latar belakang di atas, maka
+batasan masalah dalam penelitian ini adalah
+“Bagaimana membuat Perancangan Sistem
+Informasi Akademi di SMP Rahmat Islamiyah”
+Tujuan Penelitian
+Berdasarkan rumusan masalah di atas, maka
+tujuan penelitian ini adalah membangun sistem
+informasi akademik berbasis web yang dapat
+digunakan sebagai salah satu fasilitas di SMP
+Rahmat Islamiyah untuk penyajian informasi
+kepada siswa mengenai data nilai dan data absensi
+serta menyajikan informasi kepada user mengena
+
+27
+
+Jurnal TEKESNOS Vol 2 No 1 01 Mei tahun 2020
+
+Jurnal Teknologi, Kesehatan dan Ilmu
+Sosial
+daftar pegawai, daftar pengajar, daftar kelas serta
+daftar jadwal mata pelajaran.
+
+mengizinkan anda membuat halaman web dengan
+cepat tanpa harus menuliskan satu baris kode.
+
+Manfaat Penelitian
+Perancangan sistem informasi akademi
+berbasis web ini merupakan suatu sistem yang
+sangat dibutuhkan untuk menunjang kecepatan dan
+ketepatan dalam penyajian informasi tentang
+perkembangan pendidikan siswa. Manfaat dari
+penelitian bagi SMP Rahmat Islamiyah sendiri
+yaitu sebagai bahan pertimbangan
+dalam
+menyelesaikan permasalahan yang ada di dalam
+suatu sekolah, terutama dalam hal ini adalah untuk
+penyajian informasi perkembangan pendidikan
+siswanya dengan baik dan benar serta informatif.
+
+Pengertian PHP
+Menurut Swastika (2006), PHP adalah sebuah
+bahasa
+pemograman
+seperti
+halnya
+Java,
+Pascal,Basic atau C yang bersama-sama dengan data
+base server membuat situs yang kita buat menjadi
+lebih dinamis, PHP kepanjangan dari personal Home
+tapi akhirnya mengalami perubahan tapi akhirnya
+mengalami perubahan menjadi PHP Hypertexs
+preprosesor. Diperkenalkan pertam kali oleh Rasmus
+Lerdorf. Karena sifatnya yang open source maka
+orang
+diseluruh
+dunia
+dapat
+mengembangkan,menggunakan,
+dan
+mendistribusikan secara gratis.
+
+2. TINJAUAN PUSTAKA
+Secara garis besar sistem merupakan suatu
+kumpulan komponen dan elemen yang saling
+terintegrasi, komponen yang
+terorganisir dan
+bekerjsama dalam mewujudkan suatu tujuan
+tertentu. Menurut Sutanto djahir dan pratita (2015)
+mengemukakan
+bahwa
+“sistem
+adalah
+kumpulan/grup dari subsistem/bagian/komponen
+apapun baik fisik maupun nonfisik yang saling
+berhubungan satu sama lain dan bekerja sama
+secara harmonis untuk mencapai satu tujuan
+tertentu”.
+
+Contoh Script PHP:
+<?php
+// semua kode PHP diletakkan disini ;
+?
+Variabel PHP
+Dalam variable PHP terdaat beberapa variabel
+yang digunakan pada penulisan kode program,
+adalah sebagai berikut
+1. Dalam PHP variabel dimulai oleh symbol dolar
+($) diikuti oleh nama variabel, seperti berikut :
+$nama_variabel=Nilai
+2. Terdapat beberpa aturan yang harus diketahui
+saat menentukan nama variabel PHP, yaitu :
+a. Variabel harus dimulai huruf dan boleh diikuti
+oleh huruf atau bilangan dan garis bawah.
+b. Variabel hanya dapat terdiri dari alfanumerik
+(a..z,A..Z,0..9) dan garis bawah(_).
+c. Variabel dengan lebih dari satu kata sebaiknya
+dipisahkan dengan garis bawah, misalnya
+$status_perkawinan, bukan spasi.
+
+Pengertian Akademik
+Kata akademik berasal dari bahasa yunani
+yakni academos yang berarti sebuah taman
+umum (plasa) disebelah barat laut kota Athena.
+Nama Academos adalah nama seorang
+pahlawan yang terbunuh pada saat perang
+legendaris Troya. Pada plasma inilah filosofi
+Socrates berpidato dan membuka arena
+perdebatan tentang berbagai hal. Tempat ini
+juga menjadi plato melakukan dialog dan
+mengerjakan pikiran-pikiran filosofinya kepada
+orang-orang yang datang. Sesudah itu, kata
+academos berubah menjadi akademik, yaitu
+semacam tempat perguruan. Para pengikut
+perguruan
+tersebut
+disebut
+academist,
+sedangkan perguruan semacam itu disebut
+academian. Berdasarkan hal ini, inti dari
+pengertian akademik adalah keadaan orangorang bisa menyampaikan dan menerima
+gagasan, pemikiran, ilmu pengetahuan, dan
+sekaligus dapat mengujinya secara jujur,
+terbuka, dan leluasan (www.unp.ac.id).
+
+MySQL
+Dalam mengelola basis data (database)
+perangkat lunak yang sering digunakan ialah
+MyQL,
+dimana
+MySQL
+adalah
+sebuah
+implementasi dari sistem manajemen basis data
+relasional yang mempunyai kompatibel dengan
+berbagai sistem operasi. Menurut Ahmar (2013)
+MySQL adalah sistem yang berguna untuk
+melakukan proses pengaturan koleksi-koleksi
+struktur dan (database) baik meliputi proses
+pembuatan atau proses pengelolaan database.
+MySQL merupakan software database untuk
+mengelola dan menyimpan data yang jenisnya
+beraneka ragam dan tipe data relational yang saling
+berhubungan. Menurut Hirin dan Virgi (2011),
+MySQL adalah perangkat lunak sistem manajemen
+basis data (database) SQL atau sering disebut
+dengan DBMS(Database Management System).
+Penulis menyimpulkan bahwa MySQL merupakan
+perangkat lunak atau sistem basis data yang saling
+mempunyai hubungan tipe data relational dalam
+mengelola
+data
+dan
+menyimpan
+data
+
+Macromedia Dreamweaver
+Macromedia Dreamweaver 8 adalah suatu
+editor HTML professional untuk perancangan,
+pengkodean, pengembangan website, halaman web,
+dan aplikasi web. Dreamweaver juga menyediakan
+tools yang sangat membantu meningkatkan
+pengalaman dalam pembuatan web yang powerfull.
+Berbagi fitur visual editing pada Dreamwever
+28
+
+Jurnal TEKESNOS Vol 2 No 1 01 Mei tahun 2020
+
+Jurnal Teknologi, Kesehatan dan Ilmu
+Sosial
+MySQL merupakan database yang pertama kali
+didukung oleh bahasa pemrograman script untuk
+internet (PHP dan Perl). MySQL dan PHP dianggap
+sebagai pasangan software pembangun aplikasi web
+yang ideal. MySQL lebih sering digunakan untuk
+membangun aplikasi berbasis web, umumnya
+pengembangan aplikasinya menggunakan bahasa
+pemrograman script PHP. Beberapa keunggulan
+dari MySQL yaitu :
+a. Cepat,
+handal
+dan
+mudah
+dalam
+penggunaannya MySQL lebih cepat tiga
+sampai empat kali dari pada database server
+komersial yang beredar saat ini, mudah
+diatur dan tidak memerlukan seseorang yang
+ahli
+untuk
+mengatur
+administrasi
+pemasangan MySQL.
+b. Didukung oleh berbagai bahasa Database
+server MySQL dapat memberikan pesan
+error dalam berbagai bahasa seperti Belanda,
+Portugis, Spanyol, Inggris, Perancis, Jerman,
+dan Italia.
+c. Mampu membuat tabel berukuran sangat
+besardan ukuran maksimal dari setiap tabel
+yang dapat dibuat dengan MySQL adalah 4
+GB sampai dengan ukuran file yang dapat
+ditangani oleh sistem operasi yang dipakai.
+d. Lebih Murah MySQL bersifat open source
+dan didistribusikan dengan gratis tanpa biaya
+untuk UNIX platform, OS/2 dan Windows
+platform.
+e. Melekatnya integrasi PHP dengan MySQL,
+keterikatan antara PHP dengan MySQL yang
+sama-sama software opensource sangat kuat,
+sehingga koneksi yang terjadi lebih cepat
+jika dibandingkan dengan menggunakan
+database server lainnya. Modul MySQL di
+PHP telah dibuat built-in sehingga tidak
+memerlukan konfigurasi tambahan pada file
+konfigurasi php.ini.
+
+Langkah – langkah yang harus dilakukan pada
+metode ini adalah sebagai berikut:
+1. Tahapan
+Perencanaan
+Sistem
+(System
+Planning) . lebih menekan pada aspek
+kelayakan pengembangan sistem.
+2. Analisis Sistem (System Analysis). Tujuan
+proyek
+memurnikan
+menjadi
+fungsi
+didefinisikan dan operasi dari aplikasi
+dimaksud. Menganalisa penggunaan akhir
+informasi yang dibutuhkan.
+3. Desain Sistem (System Design). Menjelaskan
+fitur yang diinginkan dan secara operasi rinci,
+termasuk tata letak layar, aturan bisnis,
+diagram proses dan dokumen lainnya.
+4. Cooding Sistem (System Cooding). menulis
+sekumpulan code sesuai syntax (aturan
+penulisan) tergantung bahasa pemrograman
+yang dipakai.
+5. Pengujian Sistem ( System Testing).
+Melakukan pengujian terhadap sistem yang
+dibuat.
+6. Perawatan Sistem (System Maintenance).
+Dilakukan oleh admin untuk menjaga sistem
+tetap mampu beroperasi secara benar melalui
+kemampuan sistem dalam mengadaptasikan
+diri sesuai dengan kebutuhan.
+Analisis Sistem
+Analisis yang digunakan untuk menganalisis
+sistem informasi untuk dapat mengenali penyebab
+masalah
+menggunakan
+metode
+PIECES
+(Perfomance, Information, Economics, Control,
+Efficiency, Service) dengan analisis tersebut, maka
+dapat diperoleh beberapa penyebab masalah yang
+akhirnya dapat disimpulkan dengan jelas dan lebih
+spesifik pada titik permasalahannya sehingga
+membantu dalam membuat perancangan sistem
+baru yang lebih baik.
+Salah satu sistem yang dimiliki adalah halaman
+website sekolah dengan menggunakan metode
+kerangka PIECES sebagai dasar untuk memperoleh
+pokok-pokok permasalahan yang lebih jelas dan
+spesifik. Kemudian berdasarkan hasil dari analisa
+ini dapat dirancang usulan-usulan untuk diterapkan
+dalam sistem yang baru. Hal ini juga untuk
+mengetahui alasan dari perubahan sistem saat ini
+dengan tepat serta dapat membatu mengambil
+keputusan.
+
+3. METODE PENELITIAN
+Metode
+penelitian
+pada
+dasarnya
+merupakan cara ilmiah untuk mendapatkan data
+dengan tujuan dan kegunaan tertentu. Untuk
+mencapai tujuan yang diperlukan dibutuhkan
+metode yang relevan untuk mencapai tujuan yang
+diinginkan. Sugiono (2016). Penelitian ini
+menggunakan metode penelitian (Research &
+Development).
+Metode
+penelitian
+dan
+pengembangan adalah metode penelitian yang
+digunakan untuk menghasilkan produk tertentu dan
+menguji keefektifan produk tersebut.
+Untuk dapat menghasilkan suatu produk terlebih
+dahulu melakukan penelitian yang bersifat analisis
+kebutuhan, dan untuk menguji keefektifan produk
+tersebut supaya dapat berfungsi dengan baik, maka
+dipeerlukan peneliti untuk menguji keefktifan
+produk tersebut. Diagram metode research tampak
+pada Gambar 3.1 dan metode development tampak
+pada Gambar 3.2
+29
+
+Jurnal TEKESNOS Vol 2 No 1 01 Mei tahun 2020
+
+Jurnal Teknologi, Kesehatan dan Ilmu
+Sosial
+
+Melihat Data Guru
+& staff
+
+Flowchart
+Flowchart admin dapat dilihat pada Gambar 3.4
+
+«uses»
+
+MULAI
+
+«extends»
+«uses»
+
+LOGIN
+
+Melihat Data Siswa
+
+«uses»
+PROSES
+
+«uses»
+Melihat Data Nilai
+Siswa
+GURU
+
+«extends»
+
+INPUT USER ID
+DAN
+PASSWORD
+LOGIN
+
+Melihat Jadwal
+pengajaran
+
+GAGAL
+
+CEK LOGIN
+
+Data Alumni
+GAGAL
+HALAMAN MENU
+UTAMA
+
+Gambar 3.6 Use Case Diagaram Guru
+Melihat data nilai
+Melihat jadwal
+mata pelajaran
+Melihat absensi
+
+Melihat Mata
+Pelajaran
+SELESAI
+
+«uses»
+
+Gambar 3.4 Flowchrat Login Admin
+
+Melihat Data Siswa
+«uses»
+
+Use Case Diagram
+Use case diagram digunakan untuk
+mendapatkan fungsional requirement dari sebuah
+sistem spesifikasi kebutuhan dasar actor dan sistem
+dapat di lihat pada gambar dibawah ini :
+Perancangan Use case diagram yang dapat
+dilakukan oleh admin ditunjukkan pada gambar 3.5
+
+«extends»
+LOGIN
+
+«uses»
+Melihat Data Guru
+«uses»
+
+«uses»
+SISW A
+Melihat NIilai
+
+Data Alumni
+
+Input Data Siswa
+
+Gambar 3.7 Use Case Diagaram Siswa
+«uses»
+Input Data Guru
+
+4.Hasil dan Pembahasan
+Untuk menjalankan sebuah pembuatan desain
+program, maka dilakukan
+proses perancangan
+desain untuk tampilan dari program sistem
+informasi akademik berbasis web. Berikut beberapa
+perancangan
+desain
+programnya:
+
+«uses»
+
+«uses»
+
+«uses»
+
+Input mata
+pelajaran
+
+Login
+«uses»
+
+«uses»
+
+Input Data Nilai
+
+Admin
+
+input data alumni
+
+Gambar 3.5 Use Case Diagaram Admin
+
+Gambar 4.2 Halaman Utama
+
+30
+
+Jurnal TEKESNOS Vol 2 No 1 01 Mei tahun 2020
+
+Jurnal Teknologi, Kesehatan dan Ilmu
+Sosial
+
+Desain Halaman Login
+Desain
+
+login
+
+untuk yang
+
+dibuat
+
+sangat
+
+sederhana dimana dalam satu login ada 2 user yaitu
+admin dan siswa.
+
+Gambar 4.8 Menu Alumni
+5. KESIMPULAN DAN SARAN
+Berdasarkan hasil penelitian dan pembahasan
+pada bab sebelumnya maka penulis dapat
+menarik kesimpulan dan saran sebagai berikut
+:
+Kesimpulan
+a. Dengan adanya sistem informasi akademik
+yang
+sudah
+dibuat
+ini,
+diharapkan
+terbentuknya sistem akademik yang dinamis,
+sederhana dan mudah digunakan.
+b. Sistem informasi akademik yang dibuat dapat
+membantu dan mempercepat proses pencatatan
+data guru, siswa, kelas, dan jadwal pelajaran
+serta data alumni menggunakan sistem
+akademik berbasis web.
+c. Dengan adanya sistem ini, pencarian data
+diharapkan dapat lebih cepat dan akurat.
+
+Gambar 4.3 Menu Login
+Desain Menu Utama
+
+Gambar 4.4 Menu Utama
+
+Saran
+a. Sistem Informasi Akademik yang dibuat hanya
+terbatas pada urusan nilai, jadwal dan data
+alumni. Saran pengembangan sistem akademik
+dibuat lebih kompleks seperti pendaftaran siswa
+baru, keuangan atau gaji guru, serta
+perpustakaan online.
+b. Tampilan web ini masih sangat sederhana,
+untuk itu dalam pengembangan diharapkan
+dalam penambahan animasi dan perbaikan
+tampilan.
+
+Desain Menu Siswa
+
+6.Ucapan Terima Kasih
+Gambar 4.5 Menu Siswa
+
+Puji syukur peneliti ucapkan kepada Tuhan
+Yang Maha Esa yang telah memberikan
+kesempatan untuk saya dalam mengerjakan
+penelitian ini. Tidak lupa juga peneliti
+mengucapkan terima kasih yang sebesar-besarnya
+kepdada : Ibu Riah Ukur Ginting S.Si M.Cs selaku
+Dosen Pembingbing I, Bapak Harold Situmorang,
+S.T, M.Kom selaku dosen pembimbing II dan
+Bapak Rianto Sitanggang,S.kom,M.kom selaku
+Penguji. Serta seluruh staff dan pengajar jurusan
+Sistem Informasi Fakultas Sain Teknologi dan
+Informasi Universitas Sari Mutiara Indonesia,
+kepada kedua orang tua tercinta. Kakak, adik dan
+seluruh teman-teman seperjuangan jurusan Sistem
+Informasi
+angkatan
+tahun
+20
+
+Desain Menu Karyawan
+
+Gambar 4.6 Menu Karyawan
+31
+
+Jurnal TEKESNOS Vol 2 No 1 01 Mei tahun 2020
+
+Jurnal Teknologi, Kesehatan dan Ilmu
+Sosial
+
+DAFTAR PUSTAKA
+Aiszakiyudin,Sistem yang ada didalam organisasi
+yang membutuhkan pengolahan transaksi, Elex
+Media Komputindo, 2012.
+Anahar,
+Konsep
+dasar
+sistem
+informasi
+akademik,Jakarta:Mediakita, 2010.
+Djahir & pratita sutanto.. Pengertian Sistem adalah
+kumpulan/grup dari sub sistem, yogyakarta, 2015.
+Erik & Imelda. Sisitem informasi akademik yaitu
+sistem yang memberikan layanan informasi, “
+jurnal teknologi dan informasi, 2014.
+Hutahean, Sistem adalah jaringan yang saling
+berhubungan, Yogyakarta:Deepublish:Andi offset,
+2015
+Hirin & virgin.. Pengertian data base yaitu
+sekumpulan informasi atau data secara sistematik,
+Bandung: informatika 2011
+Hutahean, Klasifikasi sistem & Ciri ciri
+karakteristik sistem, Yogyakarta: Deepublish 2015
+Jogiyanto. 2005 Analisis dan DesainSistem
+Informasi : pendekatan Terstruktur teori dan
+praktek Aplikasi Bisnis. Yogyakarta:Andi.
+Kendal, Kenneth E dan Kendall,Jullie E.2003.
+Analisa dan Perancangan Sistem Jilid 1. Jakarta :
+PT.INDEKS Kelompok Gramedia.
+Mulyani, Pengertian sistem yang bisa diartikan
+sebagai sub sistem yang bertujuan menghasilkan
+output, jakarta: mediakita 2016.
+Nugroho,
+Adi
+ST.MMSI.
+Pengembangan Sistem Basis
+Informatika
+
+2004.
+Konsep
+Data. Bandung:
+
+R.A. Sukamto & shalahuddin. Informasi akademik
+SIA adalah perangkat lunak yang menyajikan
+informasi dan menata administrasi, bandung:
+informatika 2007
+R.A. Sukamto & shalahuddin, Pengertian UML
+unified
+modeling
+language,
+Bandung:informatika,2013.
+
+32
+
+

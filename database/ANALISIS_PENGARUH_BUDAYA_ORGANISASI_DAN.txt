@@ -1,0 +1,1807 @@
+170 Jurnal Bisnis dan Ekonomi (JBE), September 2012, Hal. 170 – 187
+ISSN: 1412-3126
+
+Vol. 19, No. 2
+
+ANALISIS PENGARUH BUDAYA ORGANISASI DAN KEPUASAN KERJA TERHADAP
+KOMITMEN ORGANISASIONAL DALAM MENINGKATKAN KINERJA KARYAWAN
+(Studi pada PT. Sido Muncul Kaligawe Semarang)
+Analysis of Effect of Organizational Culture and Organizational Commitment on Job Satisfaction in Improving The
+Performance of Employees (Study on PT. Sido Muncul Kaligawe Semarang)
+
+Chaterina Melina Taurisa, Intan Ratnawati
+Program Magister Manajemen Universitas Diponegoro
+Jl. Erlangga Tengah No. 17 Semarang 50241
+(intan.novela@gmail.com)
+ABSTRAK
+Tujuan dari penelitian ini adalah untuk menganalisis pengaruh budaya organisasi, kepuasan kerja, dan komitmen
+organisasional terhadap kinerja karyawan. Adapun objek penelitian yang dipilih dalam studi ini adalah PT. Sido Muncul
+Kaligawe Semarang. Data dikumpulkan melalui metode kuesioner yang diisi secara mandiri terhadap 127 responden dengan
+menggunakan metode sensus. Pengukuran terhadap konstruk eksogen dan endogen diuji menggunakan analisis faktor
+konfirmatori, dan hasilnya menunjukkan bahwa uji kelayakan full model berada dalam rentang nilai yang diharapkan. Hasil
+dari penelitian ini membuktikan dan memberi kesimpulan bahwa: (1) budaya organisasi berpengaruh positif dan signifikan
+terhadap kepuasan kerja, (2) budaya organisasi berpengaruh positif dan signifikan terhadap komitmen organisasional, (3)
+kepuasan kerja berpengaruh positif dan signifikan terhadap komitmen organisasional, (4) komitmen organisasional
+berpengaruh positif dan signifikan terhadap kinerja karyawan, (5) budaya organisasi berpengaruh positif dan signifikan
+terhadap kinerja karyawan, serta (6) kepuasan kerja berpengaruh positif dan signifikan terhadap kinerja karyawan.
+Kata kunci: budaya organisasi, kepuasan kerja, komitmen organisasional, dan kinerja karyawan
+ABSTRACT
+The purpose of this study is to analyze the influence of organizational culture, job satisfaction, and organizational commitment
+on employee performance. The object of research in this study is PT. Sido Muncul Kaligawe Semarang. Data are collected
+through self administered questionnaire completed by 127 respondents with census method and the model is tested through
+Structural Equation Modeling (SEM). The measurement of exogenous and endogenous constructs are tested using
+confirmatory factor analysis, and the result shows that the Goodness-of-Fit test of full model is in the range of expected values.
+The findings of this study prove and give conclusions as following: (1) organizational culture has positive and significant effect
+on job satisfaction, (2) organizational culture has positive and significant effect on organizational commitment, (3) job
+satisfaction has positive and significant effect on organizational commitment, (4) organizational commitment has positive and
+significant effect on employee performance, (5) organizational culture has positive and significant effect on employee
+performance, and (6) job satisfaction has positive and significant effect on employee performance.
+Key words: organizational culture, job satisfaction, commitment organizational, and employee performance.
+
+PENDAHULUAN
+Jumlah karyawan (tenaga kerja) yang
+melimpah, mengharuskan sebuah organisasi untuk
+berpikir mengenai bagaimana memanfaatkan dan
+mengoptimalkan kinerja karyawan. Hal ini
+disebabkan karena karyawan merupakan salah satu
+aset penting yang dibutuhkan oleh organisasi
+untuk melakukan proses produksi. Persoalan yang
+kemudian muncul adalah bagaimana menghasilkan
+karyawan yang memiliki kinerja yang optimal.
+Kinerja karyawan yang optimal merupakan salah
+satu sasaran organisasi untuk mencapai
+produktivitas kerja yang tinggi.
+
+Kinerja karyawan adalah tingkat keberhasilan karyawan dalam melaksanakan tugas dan
+tanggung jawabnya. Kinerja karyawan secara
+umum dipengaruhi oleh dua faktor, yaitu faktor
+internal dan eksternal (Ismail, 2006). Faktor
+internal merupakan faktor yang berasal dari dalam
+diri karyawan, yang meliputi kepuasan kerja dan
+komitmen organisasional. Sedangkan faktor
+eksternal merupakan faktor yang berasal dari luar
+diri karyawan, yang meliputi kepemimpinan, keamanan dan keselamatan kerja, serta budaya
+organisasi.
+
+Vol. 19 No. 2
+
+Salah
+satu
+faktor
+eksternal
+yang
+mempengaruhi kinerja karyawan adalah budaya
+organisasi. Budaya organisasi merupakan nilainilai yang berkembang dalam suatu organisasi, di
+mana nilai-nilai tersebut digunakan untuk
+mengarahkan perilaku anggota-anggota organisasi
+(Soedjono, 2005). Perilaku karyawan tersebut
+dipengaruhi oleh lingkungan tempat mereka
+bekerja yang dibentuk melalui budaya organisasi,
+di mana keberadaan budaya dalam suatu
+organisasi diharapkan akan meningkatkan kinerja
+karyawan.
+Selain berpengaruh terhadap kinerja karyawan, budaya organisasi juga memiliki keterkaitan
+yang erat dengan kepuasan kerja. Kepuasan kerja
+dapat didefinisikan sebagai suatu keadaan
+emosional yang menyenangkan atau tidak
+menyenangkan di mana para karyawan
+memandang pekerjaannya (Handoko, 1998, dalam
+Widodo, 2006). Apabila persepsi karyawan
+terhadap budaya dalam suatu organisasi baik,
+maka karyawan akan merasa puas terhadap
+pekerjaannya. Sebaliknya, apabila persepsi
+karyawan terhadap budaya dalam suatu organisasi
+tidak baik, maka karyawan cenderung tidak puas
+terhadap pekerjaannya (Robbins dan Judge, 2008).
+Karyawan
+yang
+merasa
+puas
+terhadap
+pekerjaannya dan menggangap pekerjaannya
+sebagai sesuatu yang menyenangkan akan
+cenderung memiliki kinerja yang baik.
+Selain budaya organisasi dan kepuasan
+kerja, variabel lain yang berpengaruh terhadap
+kinerja karyawan adalah komitmen organisasional.
+Komitmen organisasional merupakan suatu
+keadaaan di mana seorang karyawan memihak
+organisasi tertentu serta tujuan-tujuan dan
+keinginannya untuk mempertahankan keanggotaan
+dalam organisasi tersebut (Robbins dan Judge,
+2008). Komitmen dari seorang karyawan terhadap
+organisasinya dapat menjadi instrumen penting
+untuk meningkatkan kinerja dari karyawan
+tersebut (Khan et al., 2010). Komitmen
+organisasional juga memiliki keterkaitan dengan
+
+Jurnal Bisnis dan Ekonomi
+
+171
+
+budaya organisasi. Menurut Robbins dan Judge
+(2008), salah satu hasil yang spesifik dari budaya
+organisasi yang kuat adalah menurunnya tingkat
+perputaran karyawan. Keharmonisan tujuan yang
+tercapai antara karyawan dan organisasi melalui
+budaya akan membangun suatu komitmen
+organisasional dalam diri karyawan.
+Kepuasan kerja juga memiliki hubungan erat
+dengan komitmen organisasional. Kepuasan kerja
+merupakan aspek pertama yang dicapai sebelum
+seorang
+karyawan
+memiliki
+komitmen
+organisasional, di mana menurut Gunlu et al.
+(2010), kepuasan kerja memiliki pengaruh yang
+signifikan terhadap komitmen organisasional.
+Dengan demikian, variabel-variabel seperti budaya
+organisasi, kepuasan kerja, dan komitmen
+organisasional secara teoritis memiliki hubungan
+yang erat dalam mempengaruhi kinerja karyawan.
+Hubungan secara teoritis tersebut didukung
+oleh beberapa penelitian empiris yang juga
+menemukan bahwa budaya organisasi, kepuasan
+kerja, dan komitmen organisasional memiliki
+pengaruh yang positif dan signifikan terhadap
+kinerja karyawan (misalnya Yousef (2002);
+McKinnon et al. (2003); Koesmono (2005);
+Samad (2005); Manetje dan Martins (2009); Ojo
+(2009); Rose et al. (2009); serta Gunlu et al.
+(2010)). Namun terdapat pula beberapa penelitian
+empiris yang menemukan bahwa budaya
+organisasi, kepuasan kerja, dan komitmen
+organisasional tidak memiliki pengaruh yang
+signifikan terhadap kinerja karyawan (misalnya
+Crossman dan Zaki (2003); Chang dan Lee
+(2007); serta Yiing dan Ahmad (2009)).
+PT. Sido Muncul merupakan salah satu
+bentuk badan usaha yang bergerak di bidang jamu
+dan obat-obatan tradisional yang terletak di
+Semarang dan telah berdiri sejak tahun 1951. Dua
+pabrik yang didirikan di Jalan Kaligawe serta
+Kecamatan Bergas, Ungaran, menunjukkan bahwa
+PT. Sido Muncul telah mengalami perkembangan
+yang cukup pesat sejak berdirinya pabrik pertama
+yang berlokasi di Jalan Mlaten Trenggulun.
+
+172 Chaterina Melina Taurisa dan Intan Ratnawati
+
+Guna merealisasikan visinya “Menjadi
+industri jamu yang dapat memberikan manfaat
+pada masyarakat dan lingkungan”, secara pasti PT.
+Sido Muncul bertekad untuk mengembangkan
+usahanya menjadi lebih berkonsentrasi dan
+inovatif. Oleh karena itu, PT. Sido Muncul perlu
+didukung oleh para karyawan yang mempunyai
+keahlian, kemampuan, serta kapasitasnya masingmasing. Di mana dalam hal ini diperlukan adanya
+kepuasan kerja dan komitmen organisasional pada
+diri setiap individu karyawan yang terbentuk
+melalui budaya organisasi di dalam PT. Sido
+Muncul sehingga dapat menciptakan kinerja yang
+optimal.
+Perilaku kepuasan kerja dan komitmen
+organisasional tidak akan tercipta apabila PT. Sido
+Muncul tidak memberikan arahan kepada para
+karyawan, baik karyawan yang telah lama bekerja
+maupun karyawan yang baru masuk. Pembentukan
+perilaku tersebut dapat dilakukan melalui proses
+pengenalan budaya organisasi kepada para
+karyawan agar mereka dapat bekerja sesuai
+dengan nilai dan tujuan organisasi. Hal tersebut
+ditujukan karena PT. Sido Muncul ingin
+mengembangkan usahannya di bidang jamu
+dengan baik dan memberikan jaminan kualitas
+pada setiap produknya.
+Untuk dapat melihat lebih lanjut pengaruh
+budaya organisasi, kepuasan kerja, komitmen
+organisasional terhadap kinerja karyawan, maka
+yang menjadi pertanyaan dalam penelitian ini
+adalah:
+1. Apakah budaya organisasi berpengaruh
+terhadap kepuasan kerja pada PT. Sido
+Muncul?
+2. Apakah budaya organisasi berpengaruh
+terhadap komitmen organisasional pada PT.
+Sido Muncul?
+3. Apakah kepuasan kerja berpengaruh terhadap
+komitmen organisasional pada PT. Sido
+Muncul?
+
+Jurnal Bisnis dan Ekonomi
+
+4. Apakah komitmen organisasional berpengaruh
+terhadap kinerja karyawan pada PT. Sido
+Muncul?
+5. Apakah budaya organisasi berpengaruh
+terhadap kinerja karyawan pada PT. Sido
+Muncul?
+6. Apakah kepuasan kerja berpengaruh terhadap
+kinerja karyawan pada PT. Sido Muncul?
+LANDASAN TEORI DAN PENGEMBANGAN
+HIPOTESIS
+Kinerja Karyawan
+Kinerja merupakan hasil kerja secara
+kualitas maupun kuantitas yang dicapai oleh
+seseorang dalam melaksanakan tugas yang
+diberikan kepadanya sesuai dengan standar atau
+kriteria
+yang
+telah
+ditetapkan.
+Kinerja
+menunjukkan tingkat keberhasilan karyawan
+dalam melaksanakan tugas dan tanggung
+jawabnya. Semakin tinggi kinerja karyawan, maka
+produktivitas organisasi secara keseluruhan akan
+meningkat.
+Seorang karyawan akan memiliki tingkat
+kinerja yang tinggi apabila terdapat kesesuaian
+antara pekerjaan dan kemampuannya. Apabila hal
+tersebut dapat terpenuhi, maka akan timbul
+perasaan tanggung jawab terhadap pekerjaanya
+dan kesediaan untuk ikut berpartisipasi dalam
+mencapai tujuan organisasi melalui pelaksanaan
+tugas-tugas secara maksimal. Oleh karena itu,
+organisasi perlu memperhatikan pengelolaan
+sumber daya manusia (karyawan) untuk
+menghasilkan kinerja yang tinggi guna meningkatkan kinerja organisasi secara keseluruhan.
+Terdapat tiga faktor yang mempengaruhi
+kinerja
+karyawan
+individual,
+yaitu: (1)
+kemampuan individu dalam melaksanakan
+pekerjaan tersebut; (2) tingkat usaha yang
+dilakukan; serta (3) dukungan organisasi (Mathis
+dan Jackson, 2006). Kinerja karyawan dapat
+ditingkatkan apabila ketiga faktor tersebut ada
+dalam diri karyawan, dan kinerja karyawan akan
+
+Vol. 19 No. 2
+
+berkurang atau menurun apabila salah satu faktor
+tersebut tidak ada.
+Budaya Organisasi
+Robbins dan Judge (2008) mengartikan
+budaya organisasi sebagai sebuah sistem makna
+bersama yang dianut oleh para anggota yang
+membedakan
+organisasi
+tersebut
+dengan
+organisasi lainnya. Menurut Robbins dan Judge
+(2008) budaya organisasi mewakili sebuah
+persepsi yang sama dari para anggota organisasi.
+Oleh karena itu, diharapkan bahwa individuindividu yang memiliki latar belakang berbeda
+atau berada pada tingkatan yang tidak sama dalam
+organisasi dapat memahami budaya organisasi
+dengan pengertian yang serupa.
+Hofstede (1986, dalam Koesmono, 2005)
+menyatakan bahwa budaya merupakan berbagai
+interaksi
+dari
+ciri-ciri
+kebiasaan
+yang
+mempengaruhi kelompok-kelompok orang dalam
+lingkungannya. Agar budaya organisasi dapat
+berfungsi secara optimal, maka budaya organisasi
+harus diciptakan, dipertahankan, dan diperkuat
+serta diperkenalkan kepada karyawan melalui
+proses sosialisasi (Nurtjahjani dan Masreviastuti,
+2007). Melalui sosialisasi ini, karyawan
+diperkenalkan tentang tujuan, strategi, nilai-nilai,
+dan standar perilaku organisasi serta informasi
+yang berkaitan dengan pekerjaan.
+Kepuasan Kerja
+Secara definisi, kepuasan kerja merupakan
+sikap positif karyawan terhadap pekerjaannya,
+yang timbul berdasarkan penilaian terhadap situasi
+kerja (Robbins dan Judge, 2008; Umam, 2010).
+Situasi kerja yang menyenangkan dapat terbentuk
+apabila sifat dan jenis pekerjaan yang harus
+dilakukan sesuai dengan kebutuhan dan nilai yang
+dimiliki oleh karyawan. Dengan demikian,
+karyawan yang puas lebih menyukai situasi
+kerjanya daripada karyawan yang tidak puas, yang
+tidak menyukai situasi kerjanya.
+Kepuasan kerja yang dirasakan karyawan
+tersebut dipengaruhi oleh dua faktor, yaitu faktor
+intrinsik dan faktor ekstrinsik (Johan, 2002).
+
+Jurnal Bisnis dan Ekonomi
+
+173
+
+Faktor intrinsik adalah faktor yang berasal dari
+dalam diri individu yang dibawa setiap karyawan
+sejak mulai bekerja di tempat kerjanya. Sedangkan
+faktor ekstrinsik merupakan faktor yang menyangkut hal-hal yang berasal dari luar diri karyawan,
+seperti kondisi fisik lingkungan kerja, interaksi
+dengan karyawan lain, sistem penggajian, dan lain
+sebagainya. Sedangkan menurut Luthans (2006),
+terdapat lima dimensi yang mempengaruhi
+kepuasan kerja, yaitu: pekerjaan itu sendiri, gaji,
+kesempatan promosi, pengawasan.supervisor, dan
+rekan kerja.
+Komitmen Organisasional
+Anggota organisasi yang berkomitmen
+terhadap
+organisasinya
+mungkin
+saja
+mengembangkan pola pandang yang lebih positif
+terhadap organisasi dan dengan senang hati tanpa
+paksaan mengeluarkan energi ekstra demi
+kepentingan organisasi (Anik dan Arifuddin,
+2003). Hal tersebut menunjukkan bahwa
+komitmen organisasional memiliki arti yang lebih
+dari sekedar loyalitas yang pasif, tetapi melibatkan
+hubungan aktif dan keinginan karyawan untuk
+memberikan kontribusi yang berarti pada
+organisasinya.
+Menurut Greenberg dan Baron (1993, dalam
+Chairy, 2002), karyawan yang memiliki komitmen
+organisasional yang tinggi adalah karyawan yang
+lebih stabil dan lebih produktif sehingga pada
+akhirnya juga akan lebih menguntungkan bagi
+organisasi. Mowday et al. (1982, dalam Chairy,
+2002)
+mengemukakan
+ciri-ciri
+komitmen
+organisasional, yaitu: (1) keyakinan yang kuat
+serta penerimaan terhadap tujuan dan nilai
+organisasi; (2) kesiapan untuk bekerja keras; serta
+(3) keinginan yang kuat untuk bertahan dalam
+organisasi.
+Model Penelitian Dan Perumusan Hipotesis
+Model penelitian yang diajukan dalam
+penelitian ini adalah sebagai berikut:
+
+174 Chaterina Melina Taurisa dan Intan Ratnawati
+
+Budaya
+Organisasi
+
+H5
+
+H2
+Komitmen
+Organisasio
+nal
+
+H1
+
+H
+4
+
+Kinerja
+Karyawan
+
+H3
+
+Kepuasan
+Kerja
+
+H6
+
+Gambar 1. Kerangka Pemikiran Teoritis
+Sumber :
+H1 : Kreitner dan Kinichi (2005); Aydin dan
+Ceylan (2009)
+H2 : Moon (2000); Manetje dan Martins (2009);
+Zain et al. (2009)
+H3 : Yousef (2002); Gunlu et al. (2010)
+H4 : Khan et al. (2010); Qureshi et al. (2011)
+H5 : Ojo (2009)
+H6 : Shore dan Martin (1989); Qureshi et al. (2011)
+Adapun perumusan hipotesis yang diajukan
+dalam penelitian ini, diantaranya:
+Hipotesis 1: Budaya organisasi berpengaruh
+positif terhadap kepuasan kerja.
+Hipotesis 2: Budaya organisasi berpengaruh
+positif
+terhadap
+komitmen
+organisasional.
+Hipotesis 3: Kepuasan kerja berpebgaruh positif
+terhadap komitmen organisasional.
+Hipotesis 4: Komitmen
+organisasional
+berpengaruh positif trehadap kinerja
+karyawan.
+Hipotesis 5: Budaya organisasi berpengaruh
+positif terhadap kinerja karyawan.
+Hipotesis 6: Kepuasan kerja berpengaruh positif
+terhadap kinerja karyawan.
+
+Jurnal Bisnis dan Ekonomi
+
+METODE PENELITIAN
+Metode yang digunakan dalam penelitian ini
+adalah dengan menyebarkan satu set kuesioner
+kepada responden penelitian yang terpilih untuk
+dijadikan sampel. Data yang diperoleh dari
+responden diolah dengan menggunakan Model
+Persamaan Struktural (Structural Equation Modeling/SEM).
+Populasi dan Sampel
+Dalam penelitian ini, populasi yang
+digunakan mencakup karyawan PT. Sido Muncul
+pada bagian administrasi, produksi (pengawas dan
+asisten produksi), teknisi, serta manajer.
+Sementara itu, penentuan jumlah sampel dalam
+penelitian ini mengacu pada pendapat Hair et al.
+(1995), di mana ukuran sampel minimum adalah
+sebanyak 5-10 kali jumlah parameter yang
+diestimasi. Dengan mengacu pada pendapat Hair
+et al. tersebut, maka jumlah sampel minimum
+dalam penelitian ini sebesar 120 (5 x 24 indikator).
+Mengingat jumlah populasi yang relatif
+sedikit dan untuk memenuhi syarat sampel
+minimum pada teknik analisis SEM, maka
+penelitian ini dilakukan dengan metode sensus,
+yaitu seluruh elemen dalam populasi digunakan
+sebagai sampel penelitian (Cooper dan Emory,
+1996). Oleh karena itu, jumlah sampel yang
+digunakan dalam penelitian ini sebesar 132
+karyawan
+Metode Pengumpulan Data
+Pengumpulan data dalam penelitian ini
+dilakukan melalui metode kuesioner, yaitu teknik
+pengumpulan data yang dilakukan dengan cara
+memberi seperangkat pertanyaan atau pernyataan
+tertulis kepada responden untuk dijawabnya
+(Sugiyono, 2010).
+Skala interval yang digunakan untuk
+pengukuran data adalah summated rating dari
+Likert, di mana Likert menggunakan lima
+alternatif jawaban dengan kriteria sebagai berikut:
+1 = Sangat Tidak Setuju; 2 = Tidak Setuju; 3 =
+Netral; 4 = Setuju; 5 = Sangat Setuju.
+
+Vol. 19 No. 2
+
+Jurnal Bisnis dan Ekonomi
+
+Pengukuran
+Variabel
+Budaya
+Organisasi
+
+Kepuasan Kerja
+
+Komitmen
+Organisaisonal
+
+Kinerja
+Karyawan
+
+Tabel 1. Variabel dan Indikator
+Indikator
+Keterbukaan (X1); Rasa aman dengan pekerjaan (X2); Perasaan dihargai
+(X3); Kerja sama (X4); Kejelasan organisasi (X5); Dukungan dan
+perhatian (X6).
+Sumber: Hofstede et al. (1993); Kolb et al. (1999) dalam Mas’ud (2004)
+Pekerjaan (X7); Atasan (X8); Gaji (X9); Kesempatan promosi (X10);
+Rekan kerja (X11).
+Sumber: Hartline dan Ferrell (1996)
+Perasaan menjadi bagian dari organisasi (X12); Kebanggaan terhadap
+organisasi (X13); Kepedulian terhadap organisasi (X14); Ketertarikan
+untuk bekerja pada organisasi (X15); Kepercayaan yang kuat terhadap
+nilai-nilai organisasi (X16); Kemauan yang besar untuk berusaha bagi
+organisasi (X17).
+Sumber: Ganesan dan Weitz (1996)
+Kuantitas (X18); Kualitas (X19); Efisiensi (X20); Kemampuan (X21);
+Ketepatan (X22); Pengetahuan (X23); Kreativitas (X24).
+Sumber: Tsui et al. (1997)
+
+Tabel 2. Profil Responden Berdasarkan Jenis Kelamin, Usia, Pendidikan Terakhir, dan Masa Kerja
+Kategori
+Keterangan
+Frekuensi
+%
+Jenis Kelamin
+Laki-laki
+31
+24,40
+Perempuan
+96
+75,60
+Usia
+20-29 thn
+30
+23,60
+30-39 thn
+62
+48,80
+40-49 thn
+26
+20,50
+50-60 thn
+9
+7,10
+Pendidikan
+SMU
+46
+36,20
+Terakhir
+SMK
+24
+18,90
+Diploma
+16
+12,60
+S1
+41
+32,30
+Masa Kerja
+1-5 thn
+33
+26,00
+6-10 thn
+19
+15,00
+11-15 thn
+40
+31,50
+16-20 thn
+24
+18,90
+8,70
+21-35 thn
+11
+Sumber: Data Primer yang Diolah, 2012
+
+175
+
+176 Chaterina Melina Taurisa dan Intan Ratnawati
+
+Profil Responden
+Responden dalam penelitian ini adalah
+karyawan PT. Sido Muncul dengan jumlah
+sampel sebesar 132 orang. Dari 132 kuesioner
+yang dibagikan, 127 kuesioner terisi dan kembali
+sedangkan 5 kuesioner sisanya tidak kembali.
+Sehingga jumlah data yang diolah dalam
+penelitian ini sebesar 127. Komposisi responden
+berdasarkan jumlah data tersebut yang terdiri
+dari jenis kelamin, usia, pendidikan terakhir, dan
+masa kerja diuraikan dalam Tabel-2.
+Hasil analisis menunjukkan bahwa mayoritas
+karyawan pada PT. Sido Muncul adalah
+perempuan (75,60%). Hal ini disebabkan karena
+secara umum perempuan memiliki tingkat
+ketelitian yang lebih baik dibandingkan laki-laki
+serta cenderung lebih rapi dalam mengerjakan
+tugas yang diberikan. Sementara itu, dari segi
+usia mayoritas karyawan yang bekerja pada PT.
+Sido Muncul berada pada rentang usia 30-39
+tahun (48,80%). Hal ini mengindikasikan bahwa
+karyawan yang memasuki usia tersebut sudah
+berpengalaman dan telah menguasai bidang
+pekerjaannya (Wibowo, 2006; Nurjanah, 2008).
+Dari segi pendidikan terakhir, mayoritas
+karyawan berlatar belakang SMU (36,20%). Hal
+ini disebabkan karena pendidikan SMU telah
+
+Jurnal Bisnis dan Ekonomi
+
+memiliki keterampilan yang cukup dalam
+memenuhi pekerjaan yang harus dilakukan.
+Sedangkan dari segi masa kerja, mayoritas
+adalah karyawan dengan masa kerja 11-15 tahun
+(31,50%). Hal ini disebabkan karena karyawan
+dengan masa kerja yang lebih lama, cenderung
+memiliki penguasaan kerja yang lebih baik,
+sehingga mereka memiliki perilaku yang lebih
+efektif dibandingkan karyawan dengan masa
+kerja
+yang
+belum lama/masih kurang
+berpengalaman (Praptadi, 2009).
+HASIL ANALISIS DAN PEMBAHASAN
+Berdasarkan analisis faktor konfirmatori
+pada keempat variabel penelitian (budaya
+organisasi,
+kepuasan
+kerja,
+komitmen
+organisasional, dan kinerja karyawan) diperoleh
+hasil bahwa indikator dari variabel budaya
+organisasi, kepuasan kerja, dan kinerja karyawan
+ada yang perlu dihilangkan/didrop dari analisis.
+Hal ini disebabkan karena nilai loading faktor
+yang dihasilkan berada di bawah 0,401. Oleh
+karena itu, indikator X1 (keterbukaan) dari
+variabel budaya organisasi, X11 (kepuasan
+terhadap rekan kerja) dari variabel kepuasan
+kerja, serta X18 dan X20 (kuantitas, efisiensi)
+dari variabel kinerja karyawan tidak ditampilkan
+pada analisis full model di bawah ini:
+
+Vol. 19 No. 2
+
+Jurnal Bisnis dan Ekonomi
+
+Hasil Analisis Model Persamaan Struktural
+
+e2
+
+e3
+
+,56
+X2
+
+e4
+
+e5
+
+,53
+
+,63
+
+X3
+
+X4
+
+,75 ,73
+
+e6
+
+,54
+X5
+
+,57
+X6
+
+,79
+,74 ,76
+
+BO
+,58
+e12
+
+X12
+
+e13
+
+X13
+
+,41
+e15
+
+X15,79
+
+z2
+
+,21
+
+KO
+
+,32
+X17
+
+e17
+
+KK
+
+X8
+
+X9
+
+X10
+
+e7
+
+e8
+
+e9
+
+e10
+
+,54
+,62
+,40
+
+X24
+
+,69 ,70
+,48
+,49
+
+X7
+
+X22
+
+,79
+
+,64
+
+,23
+
+KP
+,74
+
+,27
+
+X21
+
+,73
+,63X23
+
+,17
+
+,83 ,86
+,69
+
+X19
+
+,71
+,34
+,80
+
+,63
+,83
+X16
+,68
+
+e16
+
+z1
+
+,50
+z3
+
+,51
+
+,76
+,54 ,72
+,73
+X14
+,59
+,77
+
+e14
+
+,25
+
+,22
+
+Chi-Square= 177,885
+Probability= ,217
+df= 164
+CMIN/DF= 1,085
+GFI= ,883
+AGFI= ,850
+TLI= ,987
+CFI= ,988
+RMSEA= ,026
+
+Gambar 2. Analisis Full Model
+Sumber : Data Primer yang Diolah, 2012
+
+e19
+e21
+e22
+e23
+e24
+
+177
+
+178 Chaterina Melina Taurisa dan Intan Ratnawati
+
+Jurnal Bisnis dan Ekonomi
+
+Tabel 3. Goodness of Fit Test Full Model
+Goodness of Fit
+Cut of Value
+Index
+Chi-Square (df =
+Kecil (<
+164)
+194,882)
+Probability
+≥ 0,05
+CMIN/DF
+≤ 2,00
+GFI
+≥ 0,90
+AGFI
+≥ 0,90
+TLI
+≥ 0,95
+CFI
+≥ 0,95
+RMSEA
+≤ 0,08
+Sumber: Data Primer yang Diolah, 2012
+
+Hasil
+
+Evaluasi
+Model
+
+177,885
+
+Baik
+
+0,217
+1,085
+0,883
+0,850
+0,987
+0,988
+0,026
+
+Baik
+Baik
+Marginal
+Marginal
+Baik
+Baik
+Baik
+
+Tabel 4. Regression Weights untuk Pengujian Hipotesis
+Kepuasan_Kerja
+ Budaya_Organisasi
+Komitmen_Organisasional  Budaya_Organisasi
+Komitmen_Organisasional  Kepuasan_Kerja
+Kinerja_Karyawan
+ Komitmen_Organisasional
+Kinerja_Karyawan
+ Budaya_Organisasi
+Kinerja_Karyawan
+ Kepuasan_Kerja
+*** = signifikansi pada 0,000
+Sumber: Data Primer yang Diolah, 2012
+
+Hasil pengujian terhadap kesesuaian model
+(goodness of fit test) dalam penelitian ini
+ditunjukkan pada tabel 3 di atas. Di mana melalui
+pengamatan pada nilai chi-square, probabilitas
+signifikansi, CMIN/DF, TLI, CFI, dan RMSEA
+berada dalam rentang nilai yang diharapkan,
+meskipun indeks GFI dan AGFI diterima secara
+marginal. Hal ini menunjukkan bahwa tidak
+terdapat perbedaan antara matriks kovarians
+sampel dan matriks kovarians populasi yang
+diestimasi atau dengan kata lain model adalah fit.
+Selanjutnya, tabel 4 menunjukkan pengujian
+terhadap keenam hipotesis yang diajukan dalam
+penelitian. Berdasarkan hasil analisis, terbukti
+
+Std. Est
+0,411
+0,218
+0,323
+0,271
+0,254
+0,229
+
+SE
+0,108
+0,098
+0,092
+0,109
+0,103
+0,098
+
+CR
+4,071
+2,059
+3,039
+2,616
+2,415
+2,133
+
+P
+***
+0,040
+0,002
+0,009
+0,016
+0,033
+
+bahwa keenam hipotesis dalam penelitian ini dapat
+diterima secara statistik dengan nilai CR > 1,96
+dan signifikan pada taraf nyata 5%.
+PENUTUP
+Simpulan
+Setelah dilakukan pengujian terhadap
+keenam hipotesis yang terdapat dalam penelitian
+ini, maka dapat diambil kesimpulan sebagai
+berikut:
+Pertama, pengujian hipotesis yang dilakukan
+membuktikan bahwa terdapat pengaruh yang
+searah antara budaya organisasi dan kepuasan
+kerja. Hal ini menunjukkan bahwa semakin kuat
+
+Vol. 19 No. 2
+
+budaya organisasi pada PT. Sido Muncul, maka
+semakin tinggi kepuasan kerja yang dirasakan oleh
+karyawan. Dengan demikian, PT. Sido Muncul
+perlu menerapkan nilai-nilai serta peraturanperaturan yang akan mempengaruhi perilaku
+karyawan yang mengarah pada terciptanya
+kepuasan kerja. Indikator budaya organisasi yang
+paling mendominasi adalah perasaan dihargai, di
+mana hal ini menunjukkan bahwa ketika seorang
+karyawan merasa dihargai dalam sebuah
+organisasi, maka ketika itu pula keberadaan
+budaya dirasakan oleh karyawan dan berpengaruh
+terhadap kepuasan kerja.
+Kedua, pengujian hipotesis yang dilakukan
+membuktikan bahwa terdapat pengaruh yang
+searah antara budaya organisasi dan komitmen
+organisasional. Hal ini menunjukkan bahwa
+semakin kuat budaya organisasi pada PT. Sido
+Muncul, maka semakin tinggi komitmen
+organisasional dalam diri karyawan. Dengan
+demikian, PT. Sido Muncul perlu menerapkan
+nilai-nilai serta peraturan-peraturan yang akan
+mempengaruhi perilaku karyawan yang mengarah
+pada terbentuknya komitmen organisasional.
+Indikator budaya organisasi yang paling
+mendominasi adalah perasaan dihargai, di mana
+hal ini menunjukkan bahwa ketika seorang
+karyawan merasa dihargai dalam sebuah
+organisasi, maka ketika itu pula tercipta
+kesepakatan yang tinggi antar karyawan mengenai
+apa yang diyakini organisasi sehingga terbentuk
+suatu komitmen organisasional dalam diri
+karyawan.
+Ketiga, pengujian hipotesis yang dilakukan
+membuktikan bahwa terdapat pengaruh yang
+searah antara kepuasan kerja dan komitmen
+organisasional. Hal ini menunjukkan bahwa
+semakin tinggi kepuasan kerja yang dirasakan oleh
+karyawan PT. Sido Muncul, maka semakin tinggi
+komitmen organisasional dalam diri karyawan.
+Dengan demikian, PT. Sido Muncul perlu
+menerapkan kebijakan-kebijakan terkait dengan
+kepuasan kerja yang akan mempengaruhi
+komitmen organisasional. Indikator kepuasan
+
+Jurnal Bisnis dan Ekonomi
+
+179
+
+kerja yang paling mendominasi adalah kepuasan
+terhadap rekan kerja, di mana hal ini menunjukkan
+bahwa ketika seorang karyawan merasa puas
+terhadap rekan sekerja mereka, maka ketika itu
+pula
+akan
+terbentuk
+suatu
+komitmen
+organisasional yang membuat mereka ingin
+mempertahankan keanggotaan dalam organisasi
+tempatnya bekerja.
+Keempat,
+pengujian
+hipotesis
+yang
+dilakukan membuktikan bahwa terdapat pengaruh
+yang searah antara komitmen organisasional dan
+kinerja karyawan. Hal ini menunjukkan bahwa
+semakin tinggi komitmen organisasional dalam
+diri karyawan PT. Sido Muncul, maka semakin
+tinggi tingkat kinerja karyawannya. Indikator
+komitmen
+organisasional
+yang
+paling
+mendominasi adalah perasaan menjadi bagian dari
+organisasi, di mana hal ini menunjukkan bahwa
+ketika seorang karyawan merasa menjadi bagian
+dari sebuah organisasi tempat mereka bekerja,
+maka ketika itu pula mereka dapat memberikan
+kontribusi dan berperan dalam mencapai tujuan
+organisasi yang akan mempengaruhi kinerjanya.
+Kelima, pengujian hipotesis yang dilakukan
+membuktikan bahwa terdapat pengaruh yang
+searah antara budaya organisasi dan kinerja
+karyawan. Hal ini menunjukkan bahwa semakin
+kuat budaya organisasi pada PT. Sido Muncul,
+maka semakin tinggi tingkat kinerja karyawannya.
+Indikator budaya organisasi yang paling
+mendominasi adalah perasaan dihargai, di mana
+hal ini menunjukkan bahwa ketika seorang
+karyawan merasa dihargai dalam sebuah
+organisasi, maka ketika itu pula keberadaan
+budaya dirasakan oleh karyawan dan diharapkan
+perilaku mereka sesuai dengan budaya tersebut
+sehingga nantinya akan dapat meningkatkan
+kinerjanya.
+Keenam, pengujian hipotesis yang dilakukan
+membuktikan bahwa terdapat pengaruh yang
+searah antara kepuasan kerja dan kinerja
+karyawan. Hal ini menunjukkan bahwa semakin
+tinggi kepuasan kerja yang dirasakan oleh
+karyawan PT. Sido Muncul, maka semakin tinggi
+
+180 Chaterina Melina Taurisa dan Intan Ratnawati
+
+tingkat kinerja karyawannya. Indikator kepuasan
+kerja yang paling mendominasi adalah kepuasan
+terhadap rekan kerja, di mana hal ini menunjukkan
+bahwa ketika seorang karyawan merasa puas
+terhadap rekan sekerja mereka, maka ketika itu
+pula karyawan memandang pekerjaannya sebagai
+sesuatu yang menyenangkan dan cenderung
+memiliki kinerja yang baik.
+Implikasi Teoritis
+Secara teoritis, hasil penelitian ini telah
+mengkonfirmasi berbagai faktor yang diduga
+mendorong munculnya kinerja karyawan pada PT.
+Sido Muncul, antara lain budaya organisasi,
+kepuasan kerja, dan komitmen organisasional.
+Temuan dari penelitian ini banyak mendukung
+penelitian-penelitian yang telah ada seperti
+dijelaskan pada bab sebelumnya.
+Penelitian ini berimplikasi penting untuk
+mendorong arah riset perilaku keorganisasian yang
+selanjutnya perlu mempertimbangkan berbagai
+faktor organisasional maupun individual lainnya
+yang memicu kinerja karyawan. Hal lain yang
+perlu
+dipertimbangkan
+untuk
+penelitian
+selanjutnya yaitu akibat lain dari budaya
+organisasi misalnya terhadap kinerja organisasi,
+pengaruh terhadap motivasi kerja, dan terhadap
+komitmen profesional (professional commitment).
+Implikasi Kebijakan
+Berdasarkan hasil pengujian terhadap
+variabel budaya organisasi, kepuasan kerja,
+komitmen organisasional, dan kinerja karyawan,
+maka implikasi kebijakan yang disarankan dalam
+penelitian ini antara lain:
+1. Variabel budaya organisasi dalam penelitian ini
+berpengaruh
+terhadap
+kepuasan
+kerja,
+komitmen organisasional,
+serta
+kinerja
+karyawan. Di mana budaya organisasi memiliki
+pengaruh yang cukup besar dalam menentukan
+kinerja karyawan. Berdasarkan kondisi ini,
+perusahaan perlu melakukan upaya untuk
+memperkuat dan mempertahankan budaya yang
+
+Jurnal Bisnis dan Ekonomi
+
+sudah ada guna meningkatkan kinerja
+karyawan, antara lain dengan cara:
+a) Mengadakan sosialisasi lebih mendalam
+mengenai visi, misi, nilai-nilai, serta
+peraturan-peraturan yang berlaku dalam
+perusahaan
+agar
+karyawan
+mampu
+memahami tugas dan tanggung jawab
+mereka sehingga dalam implementasinya
+dapat berjalan dengan baik sesuai dengan
+arah dan tujuan perusahaan.
+b) Melibatkan karyawan dalam setiap kegiatan
+perusahaan agar terbangun kerja sama yang
+baik dan rasa saling menghargai antar para
+karyawan maupun karyawan dengan atasan.
+c) Memberikan kesempatan bagi setiap
+karyawan
+untuk
+berinteraksi
+guna
+membangun rasa saling percaya dan
+keterbukaan antar sesama karyawan maupun
+karyawan dengan atasan.
+2. Variabel kepuasan kerja dalam penelitian ini
+berpengaruh terhadap komitmen organisasional
+dan kinerja karyawan. Di mana kepuasan kerja
+memiliki pengaruh yang cukup besar dalam
+menentukan
+komitmen
+organisasional.
+Berdasarkan kondisi ini, perusahaan perlu
+melakukan upaya untuk menaikkan kepuasan
+kerja guna meningkatkan komitmen dalam diri
+setiap karyawan, antara lain dengan cara:
+a) Menetapkan
+kebijakan
+kompensasi,
+pengembangan
+karir,
+serta
+promosi
+berdasarkan kompetensi dan prestasi yang
+dicapai oleh karyawan.
+b) Menyediakan fasilitas yang mendukung bagi
+karyawan agar mereka dapat bekerja dengan
+baik.
+c) Membina komunikasi dan hubungan yang
+baik antara atasan dengan karyawan maupun
+sesama rekan kerja sehingga tercipta suatu
+kondisi kerja yang menyenangkan.
+3. Variabel komitmen organisasional dalam
+penelitian ini berpengaruh terhadap kinerja
+karyawan. Berdasarkan kondisi ini, perusahaan
+perlu melakukan upaya untuk mempertahankan
+
+Vol. 19 No. 2
+
+komitmen yang sudah ada dalam diri setiap
+karyawan guna meningkatkan kinerja mereka,
+antara lain dengan cara:
+a) Memberikan kesempatan bagi setiap
+karyawan untuk meningkatkan keterampilan
+terkait dengan tugas yang dikerjakan, seperti
+mengadakan pelatihan bagi karyawan yang
+memiliki potensi untuk berkembang
+sehingga karyawan terdorong untuk
+memberikan kontribusi sesuai dengan
+kemampuan mereka.
+b) Memberikan dukungan yang dilakukan oleh
+supervisor dalam bentuk bimbingan maupun
+dukungan perilaku.
+Keterbatasan Penelitian dan Agenda Penelitian
+Mendatang
+Meskipun penelitian ini telah dilakukan
+dengan
+sebaik-baiknya,
+namun
+terdapat
+keterbatasan yang tidak dapat dihindari.
+Keterbatasan yang mungkin mempengaruhi hasil
+penelitian ini adalah subjek penelitian masih
+terbatas pada karyawan bagian administrasi,
+produksi (pengawas dan asisten produksi), teknisi,
+serta manajer tanpa mengikutsertakan pekerja di
+lini
+bawah
+produksi
+sehingga
+kurang
+menggambarkan kondisi yang sebenarnya dari
+variabel-variabel dalam penelitian. Oleh karena
+itu, untuk penelitian mendatang sebaiknya
+mengarahkan pada subjek penelitian yang lebih
+luas dengan mengikutsertakan seluruh karyawan
+yang ada dalam setiap divisi perusahaan.
+DAFTAR PUSTAKA
+Anik, Sri dan Ariffudin, 2003, “Analisis Pengaruh
+Komitmen Organisasi dan Keterlibatan Kerja
+terhadap Hubungan antara Etika Kerja Islam
+dengan Sikap Perubahan Organisasi”, JAAI ,
+7(2): 159-182.
+Aydin, Bulent dan Adnan Ceylan, 2009, The Role
+of Organizational Culture on Effectiveness,
+Ekonomika A Management, 3: 33-49.
+Chairy, Liche Seniati, 2002, Seputar Komitmen
+Organisasi, Paper yang Disampaikan dalam
+Acara Arisan Angkatan 1986 Fakultas
+
+Jurnal Bisnis dan Ekonomi
+
+Psikologi Universitas Indonesia
+tanggal 8 September 2002.
+
+181
+
+Jakarta
+
+Chang, Su-Chao dan Ming-Shing Lee, 2007, A
+Study on Relationship among leadership,
+Organizational Culture, the Operation of
+Learning Organization, and Employees’ Job
+Satisfaction, The Learning Organization,
+14(2): 155-185.
+Cooper, Donald R. dan C. William Emory, 1996,
+Metode Penelitian Bisnis, Edisi 5 Jilid 1,
+Jakarta: Erlangga.
+Crossman, Alf dan Bassem Abou-Zaki, 2003, Job
+Satisfaction and Employee Performance of
+Lebanese Banking Staff, Journal of
+Managerial Psychology, 18(4): 368-376.
+Ganesan, Shankar dan Barton A. Weitz, 1996, The
+Impact of Staffing Policies on Retail Buyer
+Job Attitudes and Behaviors, Journal of
+Retalling, 72(1): 31-56.
+Gunlu, Ebru, Mehmet Aksarayli, dan Nilüfer
+Şahin Percin, 2010, Job Satisfaction and
+Organizational Commitment of Hotel
+Managers in Turkey, International Journal of
+Contemporary Hospitality Management,
+22(5): 693-717.
+Hair, Joseph F. et al., 1995, Multivariate Data
+Analysis, 4th Edition, Prentice Hall: Pearson
+Education International.
+Hartline, Michael D. dan O. C. Ferrell, 1996, The
+Management of Customer-Contact Service
+Employees: An Empirical Investigation,
+Journal of Marketing, 60(4): 52-70.
+Ismail, Iriani, 2008, Pengaruh Budaya Organisasi
+terhadap Kepemimpinan dan Kinerja
+Karyawan Pemerintah Kabupaten-kabupaten
+di Madura, Ekuitas, 12(1): 18-36.
+Johan, Rita, 2002, Kepuasan Kerja Karyawan
+dalam Lingkungan Institusi Pendidikan,
+Jurnal Pendidikan Penabur, 1(1): 6-31.
+Khan, Muhammad Riaz et al., 2010, “The Impact
+of Organizational Commitment on Employee
+Job Performance, European Journal of
+Social Sciences, 15(3): 292-298.
+Koesmono, H. Teman, 2005, Pengaruh Budaya
+Organisasi terhadap Motivasi dan Kepuasan
+
+182 Chaterina Melina Taurisa dan Intan Ratnawati
+
+Kerja serta Kinerja Karyawan pada Sub
+Sektor Industri Pengolahan Kayu Skala
+Menengah di Jawa Timur, Jurnal Ekonomi
+Manajemen, 7(2): 171-188.
+Kreitner, Robert dan Angelo Kinichi, 2005,
+Perilaku
+Organisasi:
+Organizational
+Behavior, Jakarta: Salemba Empat.
+Luthans, Fred, 2006, Perilaku Organisasi, Edisi
+10, Yogyakarta: Penerbit Andi.
+Manetje, O. dan N. Martins, 2009, The
+Relationship
+between
+Organizational
+Culture and Organizational Commitment,
+Southern African Business Review, 13(1):
+87-111.
+Mas’ud,
+Fuad,
+2004, Survai
+Diagnosis
+Organisasional: Konsep dan Aplikasi,
+Semarang: Badan Penerbit Undip.
+Mathis, Robert L. dan John H. Jackson, 2006,
+Human Resource Management: Manajemen
+Sumber Daya Manusia, Edisi 10, Jakarta:
+Salemba Empat.
+
+Jurnal Bisnis dan Ekonomi
+
+Ojo, Olu, 2009, Impact Assessment of Corporate
+Culture on Employee Job Perfromance,
+Business Intelligence Journal, 2(2): 388-397.
+Praptadi, Thomas, 2009, Analisis Pengaruh
+Budaya Organisasi dan Pemberdayaan
+terhadap Komitmen Organisasional dalam
+Meningkatkan Kinerja Pegawai (Studi pada
+Pegawai Account Representative di Kantor
+Pelayanan Pajak (KPP) Pratama Kota
+Semarang), Tesis Program Pasca Sarjana
+Magister
+Manajemen
+Universitas
+Diponegoro.
+Qureshi, Javeria Ashfaq et al., 2011, Impact of Job
+Satisfaction and Organizational Commitment
+on Employee Performance: Evidence from
+Pakistan, Interdisciplinary Journal of
+Contemporary Research in Business, 3(4):
+642-657.
+Robbins, Stephen P. dan Timothy A. Judge, 2008,
+Perilaku Organisasi, Edisi 12 Jilid 1 dan 2,
+Jakarta: Salemba Empat.
+
+McKinnon, Jill L. et al., 2003, Organizational
+Culture: Association with Commitment, Job
+Satisfaction, Propensity to Remain, and
+Information Sharing in Taiwan, International
+Journal of Business Studies, 11(1): 25-44.
+
+Rose, Raduan Che, Naresh Kumar, dan Ong Gua
+Pak, 2009, The Effect of Organizational
+Learning on Organizational Commitment,
+Job Satisfaction, and Work Performance,
+Journal of Applied Business Research, 25(6):
+55-65.
+
+Moon, M. Jae, 2000, Organizational Commitment
+Revisited in New Public Management:
+Motivation, Organizational Culture, Sector,
+and Managerial Level, Public Performance
+and Management Review, 24(2): 177-194.
+
+Samad, Sarminah, 2005, Unraveling the
+Organizational Commitment and Job
+Performance Relationship: Exploring the
+Moderating Effect of Job Satisfaction, The
+Business Review, 4(2): 79-84.
+
+Nurjanah, 2008, Pengaruh Gaya Kepemimpinan
+dan Budaya Organisasi terhadap Komitmen
+Organisasi dalam Meningkatkan Kinerja
+Karyawan (Studi pada Biro Lingkup
+Departemen Pertanian), Tesis Program Pasca
+Sarjana Magister Manajemen Universitas
+Diponegoro.
+
+Shore, Lynn McFarlane dan Harry J. Martin, 1989,
+Job Satisfaction and
+Organizational
+Commitmen
+in
+Relation
+to
+Work
+Performance and Turnover Intentions,
+Human Relations, 42(7): 625-638.
+
+Nurtjahjani, Fullchis dan Masreviastuti, 2007,
+“Analisa Pengaruh Budaya Organisasi
+terhadap Kepuasan Kerja dan Pengaruhnya
+pada Kinerja Karyawan”, Arthavidya, 8(1):
+155-162.
+
+Soedjono, 2005, Pengaruh Budaya Organisasi
+Terhadap Kinerja Organisasi dan Kepuasan
+Kerja Karyawan pada Terminal Penumpang
+Umum di Surabaya, Jurnal Manajemen dan
+Kewirausahaan, 7(1): 22-47.
+Sugiyono, 2010, Metode Penelitian Bisnis:
+Pendekatan Kuantitatif, Kualitatif, dan R&D,
+Bandung: Alfabeta.
+
+Vol. 19 No. 2
+
+Jurnal Bisnis dan Ekonomi
+
+Tsui, Anne S. et al., 1997, Alternative Approaches
+to the Employee-Organization Relationship:
+Does Investment in Employees Pay Off?,
+Academy of Management Journal, 40(5):
+1089-1121.
+Umam, Khaerul, 2010, Perilaku
+Bandung: CV Pustaka Setia.
+
+Organisasi,
+
+Wibowo, Felicia Dewi, 2006, Analisis Pengaruh
+Peran Kepemimpinan dan Pengembangan
+Karir terhadap Komitmen Organisasi dalam
+Meningkatkan Kinerja Karyawan (Studi
+Kasus PT. Bank Maspion Indonesia Cabang
+Semarang), Tesis Program Pasca Sarjana
+Magister
+Manajemen
+Universitas
+Diponegoro.
+Widodo, Untung, 2006, Analisis Pengaruh Gaya
+Kepemimpinan dan Kepuasan Kerja
+terhadap Kinerja Bawahan (Studi Empiris
+pada Perguruan Tinggi Swasta di Kota
+Semarang), Fokus Ekonomi, 1(2): 92-108.
+
+183
+
+Yiing, Lee Huey dan Kamarul Zaman Bin Ahmad,
+2009,
+The
+Moderating
+Effects
+of
+Organizational Culture on the Relationships
+between
+Leadership
+Behaviour
+and
+Organizational Commitment and between
+Organizational Commitment and Job
+Satisfaction, and Performance, Leadership
+and Organization Development Journal,
+30(1): 53-86.
+Yousef, Darwish A., 2002, Job Satisfaction as a
+Mediator of the Relationship between Role
+Stressors and Organizational Commitment:
+A Study from an Arabic Cultural
+Perspective,
+Journal
+of
+Managerial
+Psychology, 17(4): 250-266.
+Zain, Zahariah Mohd, Razanita Ishak, dan Erlane
+K. Ghani, 2009, The Influence of Corporate
+Culture on Organisational Commitment: A
+Study on a Malaysian Listed Company,
+European Journal of Economics, Finance and
+Administrative Sciences, 17: 16-26.
+
+184 Chaterina Melina Taurisa dan Intan Ratnawati
+
+Jurnal Bisnis dan Ekonomi
+
+LAMPIRAN
+,06
+
+e1
+
+X1
+
+e2
+
+X2
+
+e3
+
+X3
+
+e4
+
+X4
+
+e5
+
+X5
+
+e6
+
+X6
+
+,57
+,25
+,53
+
+,76
+,73
+
+Budaya
+Organisasi
+
+,63
+,79
+,73
+,53
+,75
+,57
+
+Chi-Square= 14,018
+Probability= ,122
+df= 9
+CMIN/DF= 1,558
+GFI= ,963
+AGFI= ,914
+TLI= ,970
+CFI= ,982
+RMSEA= ,067
+
+Gambar 3.A Analisis Konfirmatori Variabel Budaya Organisasi
+Sumber: Data Primer yang Diolah, 2012
+
+,68
+
+e7
+
+X7
+
+e8
+
+X8
+
+e9
+
+X9
+
+e10
+
+X10
+
+e11
+
+X11
+
+,75
+,48
+,69
+
+,83
+,87
+
+Kepuasan
+Kerja
+
+,49,70
+,19
+,04
+
+Chi-Square= 8,399
+Probability= ,136
+df= 5
+CMIN/DF= 1,680
+GFI= ,977
+AGFI= ,932
+TLI= ,970
+CFI= ,985
+RMSEA= ,073
+
+Gambar 4.A Analisis Konfirmatori Variabel Kepuasan Kerja
+Sumber: Data Primer yang Diolah, 2012
+
+Vol. 19 No. 2
+
+Jurnal Bisnis dan Ekonomi
+
+,57
+
+e2
+
+X2
+
+e3
+
+X3
+
+e4
+
+X4
+
+e5
+
+X5
+
+e6
+
+X6
+
+,53
+,62
+,79
+
+,75
+,73
+
+Budaya
+Organisasi
+
+,54,73
+,76
+,57
+
+Chi-Square= 9,638
+Probability= ,086
+df= 5
+CMIN/DF= 1,928
+GFI= ,969
+AGFI= ,907
+TLI= ,966
+CFI= ,983
+RMSEA= ,086
+
+Gambar 3.B Analisis Konfirmatori Variabel Budaya Organisasi (Drop Indikator)
+Sumber: Data Primer yang Diolah, 2012
+
+,68
+
+e7
+
+X7
+
+e8
+
+X8
+
+e9
+
+X9
+
+e10
+
+X10
+
+,76
+,48
+,69
+,48,69
+
+,82
+,87
+
+Kepuasan
+Kerja
+
+Chi-Square= 2,633
+Probability= ,268
+df= 2
+CMIN/DF= 1,317
+GFI= ,990
+AGFI= ,951
+TLI= ,991
+CFI= ,997
+RMSEA= ,050
+
+Gambar 4.B. Analisis Konfirmatori Variabel Kepuasan Kerja (Drop Indikator)
+Sumber: Data Primer yang Diolah, 2012
+
+185
+
+186 Chaterina Melina Taurisa dan Intan Ratnawati
+
+Jurnal Bisnis dan Ekonomi
+
+,58
+
+e12
+
+X12
+
+e13
+
+X13
+
+e14
+
+X14
+
+e15
+
+X15
+
+e16
+
+X16
+
+e17
+
+X17
+
+,52
+,76
+,54
+
+,72
+,74
+
+Komitmen
+Organisasional
+
+,59
+,77
+,78
+,61
+,83
+,68
+
+Chi-Square= 4,905
+Probability= ,842
+df= 9
+CMIN/DF= ,545
+GFI= ,988
+AGFI= ,972
+TLI= 1,018
+CFI= 1,000
+RMSEA= ,000
+
+Gambar 5. Analisis Konfirmatori Variabel Komitmen Organisasional
+Sumber: Data Primer yang Diolah, 2012
+
+,10
+
+e18
+
+X18
+
+e19
+
+X19
+
+e20
+
+X20
+
+e21
+
+X21
+
+e22
+
+X22
+
+e23
+
+X23
+
+e24
+
+X24
+
+,52
+,31
+,12
+,62
+,79
+,51
+,71
+
+,72
+,34
+
+Kinerja
+Karyawan
+
+,80
+,64
+,64
+,41
+Chi-Square= 25,365
+Probability= ,031
+df= 14
+CMIN/DF= 1,812
+GFI= ,944
+AGFI= ,887
+TLI= ,939
+CFI= ,959
+RMSEA= ,080
+
+Gambar 6.A Analisis Konfirmatori Variabel Kinerja Karyawan
+Sumber: Data Primer yang Diolah, 2012
+
+Vol. 19 No. 2
+
+Jurnal Bisnis dan Ekonomi
+
+,50
+
+e19
+
+X19
+
+e21
+
+X21
+
+e22
+
+X22
+
+e23
+
+X23
+
+e24
+
+X24
+
+,63
+,53
+,73
+,63,79
+
+,71
+,79
+
+Kinerja
+Karyawan
+
+,64
+,42
+
+Chi-Square= 9,814
+Probability= ,081
+df= 5
+CMIN/DF= 1,963
+GFI= ,969
+AGFI= ,907
+TLI= ,962
+CFI= ,981
+RMSEA= ,087
+
+Gambar 6.B. Analisis Konfirmatori Variabel Kinerja Karyawan (Drop Indikator)
+Sumber: Data Primer yang Diolah, 2012
+
+187
+
+

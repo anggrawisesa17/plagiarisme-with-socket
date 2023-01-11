@@ -1,0 +1,2230 @@
+ExPOSUrE DrAfT
+
+ED PSAK 30
+(revisi 2011)
+
+28 Juni 2011
+
+PErNyATAAN
+STANDAr AKUNTANSI KEUANgAN
+
+SEwA
+Exposure draft ini dikeluarkan oleh
+Dewan Standar Akuntansi Keuangan
+Tanggapan atas exposure draft ini diharapkan dapat
+diterima paling lambat tanggal 19 Agustus 2011
+oleh Dewan Standar Akuntansi Keuangan
+
+IKATAN AKUNTAN INDONESIA
+
+ED PSAK
+
+30
+
+PErnyAtAAn
+StAnDAr AKUntAnSI KEUAngAn
+
+(revisi 2011)
+
+SEWA
+Hak cipta © 2011, Ikatan Akuntan Indonesia
+
+Dikeluarkan oleh
+Dewan Standar Akuntansi Keuangan
+Ikatan Akuntan Indonesia
+Jalan Sindanglaya No. 1
+Menteng
+Jakarta 10310
+Telp: (021) 3190-4232
+Fax : (021) 724-5078
+Email: iai-info@iaiglobal.or.id, dsak@iaiglobal.or.id
+
+Juni 2011
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+Exposure draft ini diterbitkan oleh Dewan Standar Akuntansi
+Keuangan hanya untuk ditanggapi dan dikomentari. Saran dan
+masukan untuk menyempurnakan ED ini masih dimungkinkan
+sebelum diterbitkannya Pernyataan Standar Akuntansi
+Keuangan.
+Tanggapan tertulis atas draft ini paling lambat diterima pada
+19 Agustus 2011 Tanggapan dikirim ke:
+Dewan Standar Akuntansi Keuangan
+Ikatan Akuntan Indonesia
+Jl. Sindanglaya No.1
+Menteng
+Jakarta 10310
+fax: 021 724-5078
+E-mail: iai-info@iaiglobal.or.id, dsak@iaiglobal.or.id
+Hak Cipta © 2011 Ikatan Akuntan Indonesia
+ED ini dibuat dengan tujuan untuk penyiapan tanggapan dan
+komentar yang akan dikirimkan ke Dewan Standar Akuntansi
+Keuangan. Penggandaan ED ini oleh individu/organisasi/
+lembaga dianjurkan dan diizinkan untuk penggunaan di atas
+dan tidak untuk diperjualbelikan.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+iii
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+PENgANTAr
+Dewan Standar Akuntansi Keuangan telah menyetujui exposure
+draft PSAK 30 (revisi 2011) tentang Sewa dalam rapatnya pada
+tanggal 28 Juni 2011 untuk disebarluaskan dan ditanggapi oleh
+perusahaan, regulator, perguruan tinggi, pengurus dan anggota
+IAI, dan pihak lainnya.
+Tanggapan akan sangat berguna jika memaparkan permasalahan
+secara jelas dan alternatif saran yang didukung dengan
+alasan.
+Exposure draft ini disebarluaskan dalam bentuk buku, sisipan
+dokumen dalam majalah Akuntan Indonesia, dan situs IAI:
+www.iaiglobal.or.id.
+Jakarta, 28 Juni 2011
+Dewan Standar Akuntansi Keuangan
+Rosita Uli Sinaga
+Roy Iman Wirahardja
+Etty Retno Wulandari
+Merliyana Syamsul
+Meidyah Indreswari
+Setiyono Miharjo
+Saptoto Agustomo
+Jumadi
+Ferdinand D. Purba
+Irsan Gunawan
+Budi Susanto
+Ludovicus Sensi Wondabio
+Eddy R. Rasyid
+Liauw She Jin
+Sylvia Veronica Siregar
+Fadilah Kartikasasi
+G. A. Indira
+Teguh Supangkat
+Yunirwansyah
+
+iv
+
+Ketua
+Wakil Ketua
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+Anggota
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+PErMINTAAN TANggAPAN
+Penerbitan ED PSAK 30 (revisi 2011): Sewa bertujuan untuk
+meminta tanggapan atas semua pengaturan dan paragraf
+dalam ED PSAK 30 (revisi 2011) tersebut.
+Untuk memberikan panduan dalam memberikan tanggapan,
+berikut ini hal yang diharapkan masukannya:
+1. Sewa Tanah dan Bangunan
+Elemen tanah dan bangunan dalam suatu perjanjian sewa
+perlu untuk diklasiikasikan sebagai sewa pembiayaan atau
+sewa operasi secara terpisah, dengan mempertimbangkan
+sifat tanah yang memiliki umur ekonomis yang tidak
+terbatas. Hal ini tidak perlu dilakukan apabila hak
+atas properti yang diperoleh melalui sewa operasi
+diklasiikasikan sebagai properti investasi, sesuai dengan
+PSAK 13 (revisi 2011): Properti Investasi.
+Untuk pencatatan elemen sewa tanah dan bangunan,
+pembayaran sewa minimum dialokasikan antara keduanya
+secara proporsional sesuai dengan nilai wajar relatif bagian
+perjanjian sewa. Apabila hal ini tidak dapat dilakukan maka
+seluruh sewa diklasiikasikan sebagai sewa pembiayaan,
+kecuali sangat jelas bahwa kedua elemen tersebut adalah
+sewa operasi. Untuk perjanjian sewa yang nilai elemen
+tanahnya tidak material maka kedua elemen dapat diakui
+sebagai suatu elemen tunggal dan diklasiikasikan sebagai
+sewa pembiayaan atau sewa operasi.
+Pengukuran elemen tanah dan bangunan secara terpisah
+tidak diperlukan apabila bagian lessee atas tanah dan
+bangunan diklasiikasikan sebagai properti investasi sesuai
+dengan PSAK 13 (revisi 2007) dan metode nilai wajar
+diadopsi. Apabila pengklasiikasian salah satu atau kedua
+elemen tidak jelas, maka perlu dibuat suatu perhitungan
+secara rinci untuk penilaian ini.
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+v
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+Apakah anda setuju dengan pengaturan elemen
+tanah dan bangunan dalam perjanjian sewa? Apakah
+ada metode lain yang menurut anda yang lebih tepat
+dalam mengakui elemen tanah dalam perjanjian
+sewa?
+2. Ketentuan Transisi dan Tanggal Efektif
+(a) ED PSAK 30 (revisi 2011) menganjurkan penerapan
+secara retrospektif. Namun apabila entitas tidak
+memiliki informasi memadai untuk menerapkan
+perubahan tersebut secara retrospektif, maka entitas:
+(i) Menerapkan perubahan terhadap klasiikasi tanah
+dengan dasar fakta dan kondisi yang ada pada
+tanggal perubahan tersebut diadopsi; dan
+(ii) Mengamortisasi biaya perolehan hak atas tanah
+pada tanggal perubahan diadopsi apabila entitas
+menilai bahwa hak tanah memenuhi deinisi sewa
+operasi.
+(b) ED PSAK 30 (revisi 2011) mensyaratkan penerapan
+untuk periode tahunan yang dimulai pada atau setelah
+tanggal 1 Januari 2012.
+Apakah anda setuju dengan ketentuan transisi dan
+tanggal efektif Pernyataan ini?
+
+vi
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+IKHTISAr rINgKAS
+Secara umum perbedaan antara ED PSAK 30 (revisi 2011):
+Sewa dengan PSAK 30 (revisi 2007): Sewa adalah sebagai
+berikut:
+Perihal
+Sewa tanah
+dan bangunan
+
+Aset dalam
+sewa pembiayaan yang
+diklasiikasikan sebagai
+dimiliki untuk dijual
+
+ED PSAK 30
+(revisi 2011)
+Elemen tanah
+dan bangunan
+dalam perjanjian
+sewa dinilai klasifikasinya secara
+terpisah sebagai
+sewa pembiayaan
+atau sewa operasi,
+dengan mempertimbangkan bahwa
+pada umumnya tanah memiliki umur
+ekonomis yang tidak terbatas.
+
+PSAK 30
+(revisi 2007)
+Tanah yang diperoleh dengan Hak Guna Usaha, Hak
+Guna Bangunan atau lainnya diperlakukan sesuai
+dengan PSAK 47: Akuntansi
+Tanah.
+
+Perlakuan akuntansi sesuai dengan PSAK 58
+(revisi 2009): Aset
+Tidak Lancar yang
+Dimiliki untuk Dijual dan Operasi
+yang Dihentikan.
+
+Perlakuan akuntansi sebagai
+berikut:
+(a) disajikan sebagai aset
+tersedia untuk dijual,
+jika jumlah tercatatnya
+terutama
+dapat
+dipulihkan
+melalui
+transaksi
+penjualan
+daripada penggunaan
+lebih lanjut;
+(b) diukur sebesar nilai
+yang lebih rendah antara
+jumlah
+tercatatnya
+dan nilai wajar setelah
+dikurangi
+beban
+penjualan aset tersebut;
+dan
+(c) diungkapkan
+dalam
+laporan keuangan untuk
+memungkinkan evaluasi
+dampak
+keuangan
+dari adanya perubahan
+penggunaan aset.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+vii
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+PErBEDAAN DENgAN IfrSs
+ED PSAK 30 (revisi 2011): Sewa mengadopsi seluruh
+pengaturan dalam IAS 17 Leases per 1 Januari 2010,
+kecuali:
+1. IAS 17 paragraf 15A yang menjadi ED PSAK 30 paragraf 14
+tentang klasiikasi elemen tanah dan bangunan dalam suatu
+perjanjian sewa, paragraf berikutnya menyesuaikan.
+2. IAS 17 paragraf 41A yang menjadi ED PSAK 30 paragraf
+41 tentang aset dalam suatu sewa pembiayaan yang
+diklasiikasikan sebagai dimiliki untuk dijual, paragraf
+berikutnya menyesuaikan.
+3. IAS 17 paragraf 67 dan 68 tidak diadopsi karena tidak
+relevan.
+4. IAS 17 paragraf 68A yang menjadi ED PSAK 30
+paragraf 67 tentang ketentuan transisi, paragraf berikutnya
+menyesuaikan.
+5. IAS 17 paragraf 69A tidak diadopsi karena tidak relevan.
+
+viii
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+DAfTAr ISI
+
+PENDAHULUAN .................................................
+Tujuan .....................................................................
+Ruang lingkup .........................................................
+Deinisi ....................................................................
+
+Paragraf
+01-06
+01
+02-03
+04-06
+
+KLASIfIKASI SEwA ..........................................
+
+07-18
+
+SEwA DALAM LAPOrAN KEUANgAN LESSEE ...
+Sewa pembiayaan ....................................................
+Pengakuan awal ................................................
+Pengukuran setelah pengakuan awal ................
+Pengungkapan ..................................................
+Sewa operasi ...........................................................
+Pengungkapan ..................................................
+
+19-34
+19-31
+19-23
+24-29
+30-31
+32-33
+34
+
+SEwA DALAM LAPOrAN KEUANgAN LESSOr ..
+Sewa pembiayaan ....................................................
+Pengakuan awal ................................................
+Pengukuran setelah pengakuan awal ................
+Pengungkapan ..................................................
+Sewa operasi ...........................................................
+Pengungkapan ..................................................
+
+35-57
+35-48
+35-37
+38-46
+47-48
+49-57
+56-57
+
+TrANSAKSI JUAL DAN SEwA-BALIK ..........
+
+58-66
+
+KETENTUAN TrANSISI ...................................
+
+67-69
+
+TANggAL EfEKTIf ..........................................
+
+70
+
+PENArIKAN ........................................................
+
+71
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+ix
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+PErNyATAAN STANDAr AKUNTANSI KEUANgAN 30
+SEwA
+Pernyataan Standar Akuntansi Keuangan 30 (revisi 2011):
+Sewa terdiri dari paragraf 1-69. Seluruh paragraf dalam
+PSAK ini memiliki kekuatan mengatur yang sama. Paragraf
+yang dicetak dengan huruf tebal dan miring mengatur
+prinsip-prinsip utama. PSAK 30 (revisi 2011) harus dibaca
+dalam konteks tujuan pengaturan dan Kerangka Dasar
+Penyusunan dan Penyajian Laporan Keuangan. PSAK 25
+(revisi 2009): Kebijakan Akuntansi, Perubahan Estimasi
+Akuntansi, dan Kesalahan memberikan dasar untuk
+memilih dan menerapkan kebijakan akuntansi ketika tidak
+ada panduan yang eksplisit. Pernyataan ini tidak wajib
+diterapkan untuk unsur-unsur yang tidak material.
+PENDAHULUAN
+Tujuan
+01. Tujuan Pernyataan ini adalah untuk mengatur
+kebijakan akuntansi dan pengungkapan yang sesuai, baik bagi
+lessee maupun lessor dalam hubungannya dengan sewa.
+ruang Lingkup
+02. Pernyataan ini diterapkan untuk akuntansi untuk
+semua jenis sewa selain:
+(a) sewa dalam rangka eksplorasi atau penambangan
+mineral, minyak, gas alam dan sumber daya lainnya
+yang tidak dapat diperbarui; dan
+(b) perjanjian lisensi untuk hal-hal seperti ilm, rekaman
+video, karya panggung, manuskrip (karya tulis), hak
+paten, dan hak cipta.
+Namun demikian, Pernyataan ini tidak diterapkan sebagai
+dasar pengukuran untuk:
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.1
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+(a) properti yang dikuasai oleh lessee yang dicatat sebagai
+properti investasi (lihat PSAK 13 (revisi 2011): Properti
+Investasi);
+(b) properti investasi yang diserahkan oleh lessor yang
+dicatat sebagai sewa operasi (lihat PSAK 13 (revisi
+2011);
+(c) aset biolojik yang dikuasai oleh lessee dalam sewa
+pembiayaan; atau
+(d) aset biolojik yang diserahkan oleh lessor dalam sewa
+operasi.
+
+30.2
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+03. Pernyataan ini berlaku untuk perjanjian yang
+mengalihkan hak untuk menggunakan aset meskipun
+penyediaan jasa oleh lessor tetap diperlukan dalam
+mengoperasikan atau memelihara aset tersebut. Pernyataan
+ini tidak berlaku untuk perjanjian penyediaan jasa yang tidak
+mengalihkan hak untuk menggunakan aset dari satu pihak
+kepada pihak lain yang terikat dalam perjanjian tersebut.
+Deinisi
+04. Berikut ini adalah pengertian istilah yang
+digunakan dalam Pernyataan ini:
+Sewa adalah suatu perjanjian dimana lessor memberikan
+kepada lessee hak untuk menggunakan suatu aset selama
+periode waktu yang disepakati. Sebagai imbalannya, lessee
+melakukan pembayaran atau serangkaian pembayaran
+kepada lessor.
+Sewa operasi adalah sewa selain sewa pembiayaan.
+Sewa pembiayaan adalah sewa yang mengalihkan secara
+substansial seluruh risiko dan manfaat yang terkait dengan
+kepemilikan suatu aset. Hak milik pada akhirnya dapat
+dialihkan, dapat juga tidak dialihkan.
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+Sewa yang tidak dapat dibatalkan adalah sewa yang hanya
+dapat dibatalkan:
+(a) dengan terjadinya kondisi kontinjensi yang
+kemungkinan terjadinya sangat kecil;
+(b) dengan persetujuan lessor;
+(c) jika lessee mengadakan perjanjian sewa baru atas aset
+yang sama atau aset yang setara dengan lessor yang
+sama; atau
+(d) bila ada pembayaran tambahan yang signiikan pada
+awal sewa oleh lessee sehingga secara ekonomis dapat
+dipastikan tidak akan ada pembatalan.
+Awal sewa (inception of the lease) adalah tanggal yang
+lebih awal antara tanggal perjanjian sewa dan tanggal
+pihak-pihak menyatakan komitmen terhadap ketentuanketentuan pokok sewa. Pada tanggal ini:
+(a) sewa diklasiikasikan sebagai sewa operasi atau sewa
+pembiayaan; dan
+(b) untuk sewa pembiayaan, jumlah yang diakui pada awal
+masa sewa ditentukan.
+Awal masa sewa (commencement of the lease term) adalah
+tanggal saat lessee mulai berhak untuk menggunakan aset
+sewaan. Tanggal ini merupakan tanggal pertama kali sewa
+diakui (yaitu pengakuan aset, liabilitas, penghasilan, atau
+beban sewa).
+Masa sewa adalah periode yang tidak dapat dibatalkan
+dimana lessee telah menyepakati perjanjian sewa untuk
+menyewa aset ditambah dengan persyaratan lain dimana
+lessee memiliki opsi untuk melanjutkan sewa tersebut,
+dengan atau tanpa pembayaran lebih lanjut, jika pada awal
+sewa hampir pasti lessee akan melaksanakan opsi tersebut.
+Pembayaran sewa minimum adalah pembayaran selama
+masa sewa yang harus dibayar (atau dapat diwajibkan untuk
+membayar) oleh lessee, tidak meliputi rental kontinjen, biaya
+jasa dan pajak yang dibayar oleh dan diberikan gantinya
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.3
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+kepada lessor, ditambah dengan:
+(a) bagi lessee, jumlah yang dijamin oleh lessee atau oleh
+pihak yang terkait dengan lessee; atau
+(b) bagi lessor, nilai residu yang dijamin oleh:
+(i) lessee;
+(ii) pihak terkait dengan lessee; atau
+(iii) pihak ketiga yang tidak terkait dengan lessor
+yang secara inansial memiliki kemampuan untuk
+menyelesaikan kewajiban atas jaminan tersebut.
+Akan tetapi, jika lessee memiliki opsi untuk membeli aset
+pada harga yang diperkirakan lebih rendah dibanding nilai
+wajar pada tanggal opsi dapat dilaksanakan, sehingga pada
+awal sewa hampir dapat dipastikan bahwa opsi tersebut akan
+dilaksanakan, maka pembayaran sewa minimum meliputi:
+(a) pembayaran minimum terutang selama masa sewa
+hingga tanggal pelaksanaan opsi pembelian; dan
+(b) pembayaran
+yang
+dipersyaratkan
+untuk
+melaksanakannya.
+
+30.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+Nilai wajar adalah jumlah dimana suatu aset dipertukarkan,
+atau liabilitas diselesaikan, antara pihak-pihak yang
+berpengetahuan dan berkeinginan dalam suatu transaksi
+yang wajar (arm's length transaction).
+Umur ekonomik adalah:
+(a) periode dimana suatu aset diharapkan secara ekonomis
+dapat digunakan oleh satu atau lebih pengguna; atau
+(b) jumlah produksi atau unit serupa yang diharapkan akan
+diperoleh dari aset oleh satu atau lebih pengguna.
+Umur manfaat adalah estimasi periode tersisa, mulai dari
+awal masa sewa, tanpa dibatasi masa sewa, dimana manfaat
+ekonomik aset diharapkan untuk dikonsumsi oleh entitas.
+Nilai residu yang dijamin adalah:
+(a) bagi lessee, bagian dari nilai residu yang dijamin oleh
+lessee atau pihak terkait dengan lessee (jumlah jaminan
+adalah jumlah maksimum yang dalam kondisi apa pun
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+dapat menjadi yang terutang); dan
+(b) bagi lessor, bagian nilai residu yang dijamin oleh lessee
+atau pihak ketiga, yang tidak terkait dengan lessor,
+yang secara inansial memiliki kemampuan untuk
+menyelesaikan kewajiban atas jaminan tersebut.
+Nilai residu tidak dijamin adalah bagian dari nilai residu
+aset sewaan yang nilai realisasinya tidak dapat dipastikan
+atau dijamin semata-mata oleh suatu pihak terkait dengan
+lessor.
+Biaya langsung awal adalah biaya-biaya inkremental yang
+dapat diatribusikan secara langsung dengan negosiasi dan
+pengaturan sewa, kecuali biaya-biaya yang dikeluarkan
+oleh lessor pabrikan atau lessor dealer.
+Investasi sewa bruto adalah penjumlahan agregat dari:
+(a) pembayaran sewa minimum yang akan diterima lessor
+berdasarkan sewa pembiayaan; dan
+(b) nilai residu tidak dijamin yang menjadi hak lessor.
+Investasi sewa neto adalah investasi sewa bruto yang
+didiskontokan dengan tingkat bunga implisit dalam sewa.
+Penghasilan pembiayaan tangguhan adalah selisih antara:
+(a) investasi sewa bruto sewa; dan
+(b) investasi sewa neto sewa.
+Tingkat bunga implisit sewa adalah tingkat diskonto yang
+pada awal sewa, menghasilkan penjumlahan agregat nilai
+kini dari:
+(a) pembayaran sewa minimum; dan
+(b) nilai residu tidak dijamin sama dengan penjumlahan
+dari:
+(i) nilai wajar aset sewaan; dan
+(ii) biaya awal langsung lessor.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+Tingkat bunga pinjaman inkremental lessee adalah tingkat
+bunga yang harus dibayar lessee dalam sewa yang serupa
+atau, jika tingkat bunga tersebut tidak dapat ditentukan,
+tingkat bunga yang pada awal sewa yang harus ditanggung
+oleh lessee ketika meminjam dana yang diperlukan untuk
+membeli aset tersebut yang mana pinjaman ini mencakup
+periode dan jaminan yang serupa.
+
+30.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+Rental kontinjen adalah bagian dari pembayaran sewa yang
+jumlahnya tidak tetap tetapi didasarkan pada perubahan
+faktor tertentu di masa depan, selain faktor perjalanan
+waktu (misalnya, persentase dari penjualan masa depan,
+jumlah penggunaan masa depan, indeks harga masa depan,
+tingkat bunga pasar masa depan).
+05. Suatu perjanjian atau komitmen sewa dapat
+memuat suatu persyaratan untuk menyesuaikan pembayaran
+sewa karena perubahan dalam konstruksi atau biaya akuisisi
+properti sewaan atau karena perubahan dalam ukuran biaya
+atau nilai lainnya, seperti tingkat harga umum, atau biaya
+pembiayaan yang dikeluarkan lessor. Perubahan ini terjadi
+selama periode antara awal sewa dan awal masa sewa. Dalam
+hal demikian, untuk tujuan Pernyataan ini, pengaruh berbagai
+perubahan tersebut dianggap telah terjadi pada awal sewa.
+06. Deinisi sewa termasuk kontrak untuk menyewa
+aset dengan suatu persyaratan yang memberikan opsi kepada
+penyewa untuk memperoleh hak milik atas aset dengan
+memenuhi ketentuan yang disepakati. Kontrak ini sering
+disebut sebagai kontrak sewa beli.
+KLASIfIKASI SEwA
+07. Klasiikasi sewa yang digunakan dalam Pernyataan
+ini didasarkan atas sejauh mana risiko dan manfaat yang
+terkait dengan kepemilikan aset sewaan berada pada lessor
+atau lessee. Risiko termasuk kemungkinan rugi dari kapasitas
+tidak terpakai atau keusangan teknologi dan variasi imbal hasil
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+karena perubahan kondisi ekonomi. Manfaat dapat tercermin
+dari ekspektasi operasi yang menguntungkan selama umur
+ekonomik aset dan laba dari kenaikan nilai atau realisasi dari
+nilai residu.
+08. Suatu sewa diklasiikasikan sebagai sewa
+pembiayaan jika sewa tersebut mengalihkan secara
+substansial seluruh risiko dan manfaat yang terkait dengan
+kepemilikan aset. Suatu sewa diklasiikasikan sebagai sewa
+operasi jika sewa tidak mengalihkan secara substansial
+seluruh risiko dan manfaat yang terkait dengan kepemilikan
+aset.
+09. Karena transaksi antara lessor dan lessee
+didasarkan atas perjanjian sewa di antara mereka, sebaiknya
+digunakan deinisi yang konsisten. Penggunaan deinisi ini
+untuk keadaan yang berbeda dapat mengakibatkan sewa yang
+sama diklasiikasikan secara berbeda oleh lessor dan lessee.
+Misalnya, hal ini bisa terjadi jika lessor memperoleh manfaat
+dari jaminan nilai residu yang diberikan oleh pihak tidak
+terkait dengan lessee.
+10. Klasiikasi sewa sebagai sewa pembiayaan atau
+sewa operasi didasarkan pada substansi transaksi dan bukan
+pada bentuk kontraknya*. Contoh dari situasi yang secara
+individual atau gabungan pada umumnya mengarah pada
+sewa yang diklasiikasikan sebagai sewa pembiayaan adalah:
+(a) sewa mengalihkan kepemilikan aset kepada lessee pada
+akhir masa sewa;
+(b) lessee memiliki opsi untuk membeli aset pada harga yang
+cukup rendah dibandingkan nilai wajar pada tanggal opsi
+mulai dapat dilaksanakan, sehingga pada awal sewa dapat
+dipastikan bahwa opsi akan dilaksanakan;
+(c) masa sewa adalah untuk sebagian besar umur ekonomik
+aset meskipun hak milik tidak dialihkan;
+* lihat ISAK 24: Evaluasi Substansi Beberapa Transaksi yang Melibatkan
+Suatu Bentuk Legal Sewa
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+(d) pada awal sewa, nilai kini dari jumlah pembayaran sewa
+minimum secara substansial mendekati nilai wajar aset
+sewaan; dan
+(e) aset sewaan bersifat khusus dan hanya lessee yang
+dapat menggunakannya tanpa perlu modiikasi secara
+material.
+
+30.
+
+11. Indikator dari situasi yang secara individual
+ataupun gabungan dapat juga menunjukkan bahwa sewa
+diklasiikasikan sebagai sewa pembiayaan adalah:
+(a) jika lessee dapat membatalkan sewa, maka rugi lessor
+yang terkait dengan pembatalan ditanggung oleh lessee;
+(b) untung atau rugi dari luktuasi nilai wajar residu
+dibebankan kepada lessee (misalnya, dalam bentuk
+potongan harga rental dan yang setara dengan sebagian
+besar hasil penjualan residu pada akhir sewa); dan
+(c) lessee memiliki kemampuan untuk melanjutkan sewa
+untuk periode kedua dengan nilai rental yang secara
+substansial lebih rendah dari nilai pasar rental.
+12. Contoh dan indikator pada paragraf 10 dan 11
+tidak selalu konklusif. Jika jelas dari itur lainnya bahwa
+sewa tidak mengalihkan secara substansial seluruh risiko
+dan manfaat yang terkait dengan kepemilikan, sewa tersebut
+diklasiikasikan sebagai sewa operasi. Misalnya, hal ini dapat
+terjadi jika besarnya pembayaran atas kepemilikan aset yang
+dialihkan pada akhir sewa adalah variabel dan setara dengan
+nilai wajarnya, atau jika terdapat rental kontinjen, yang berarti
+lessee tidak menanggung secara substansial seluruh risiko dan
+manfaat.
+13. Klasiikasi sewa dibuat pada awal sewa. Kapanpun
+lessee dan lessor sepakat untuk mengubah persyaratan sewa,
+selain melalui pembaruan sewa, dimana perubahan tersebut
+akan menghasilkan klasiikasi sewa yang berbeda menurut
+kriteria pada paragraf 07-12 dan jika perubahan persyaratan
+tersebut telah berlaku pada awal sewa, perjanjian yang
+direvisi dianggap sebagai perjanjian baru selama masa sewa.
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+Akan tetapi, perubahan dalam estimasi (misalnya, perubahan
+dalam estimasi umur ekonomik atau nilai residu dari properti
+sewaan), atau perubahan dalam situasi dan kondisi (misalnya,
+wanprestasi oleh lessee), tidak menimbulkan klasiikasi baru
+dari sewa untuk tujuan akuntansi.
+14. Ketika suatu perjanjian sewa mengandung elemen
+tanah dan bangunan, entitas menilai klasiikasi dari setiap elemen
+sebagai sewa pembiayaan atau sewa operasi secara terpisah
+sesuai dengan paragraf 07-13. Dalam menentukan apakah
+elemen tanah merupakan sewa operasi atau sewa pembiayaan,
+hal penting yang harus dipertimbangkan adalah bahwa pada
+umumnya tanah memiliki umur ekonomik yang tidak terbatas*.
+15. Kapanpun dibutuhkan dalam mengklasiikasikan
+dan mencatat sewa untuk tanah dan bangunan, pembayaran
+sewa minimum (termasuk pembayaran dimuka secara
+lumpsum) dialokasikan antara elemen tanah dan bangunan
+secara proporsional sesuai dengan nilai wajar relatif bagian
+perjanjian sewa atas elemen tanah dan bangunan di dalam
+perjanjian sewa pada saat awal kontrak. Apabila pembayaran
+sewa tidak dapat dialokasikan secara andal antara dua
+elemen tersebut, seluruh sewa diklasiikasikan sebagai
+sewa pembiayaan kecuali sangat jelas bahwa kedua elemen
+tersebut adalah sewa operasi. Bila demikian maka seluruh
+sewa diklasiikasikan sebagai sewa operasi.
+16. Untuk perjanjian sewa tanah dan bangunan yang
+mana jumlah yang diakui pada awalnya untuk elemen tanah
+dianggap tidak material sesuai dengan paragraf 19, maka
+tanah dan bangunan dapat diakui sebagai unit tunggal untuk
+tujuan klasiikasi sewa dan diklasiikasikan sebagai sewa
+pembiayaan atau sewa operasi sesuai dengan paragraf 07-13.
+Dalam kasus ini, umur ekonomik bangunan dianggap sebagai
+umur ekonomik seluruh aset sewaan.
+*
+
+lihat ISAK 25: Hak atas Tanah
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+17. Pengukuran elemen tanah dan bangunan secara
+terpisah tidak diperlukan apabila bagian lessee atas tanah dan
+bangunan diklasiikasikan sebagai properti investasi sesuai
+dengan PSAK 13 (revisi 2011): Properti Investasi dan metode
+nilai wajar diadopsi. Apabila pengklasiikasian salah satu atau
+kedua elemen tidak jelas, maka perlu dibuat suatu perhitungan
+secara rinci untuk penilaian ini.
+
+30.10
+
+18. Sesuai PSAK 13 (revisi 2011): Properti Investasi,
+lessee dimungkinkan untuk mengklasiikasikan hak atas
+properti yang diperoleh melalui sewa operasi sebagai properti
+investasi. Jika hal tersebut dilakukan, hak atas properti
+diperlakukan layaknya seperti sewa pembiayaan dan model
+nilai wajar digunakan untuk pengakuan aset. Lessee mencatat
+sewa tersebut sebagai sewa pembiayaan, bahkan jika peristiwa
+setelahnya mengubah sifat dari hak atas properti milik lessee
+sehingga tidak lagi diklasiikasikan sebagai properti investasi.
+Hal ini akan terjadi jika, misalnya, pihak lessee:
+(a) menempati properti tersebut, dimana properti diubah
+peruntukannya sebagai properti yang digunakan sendiri
+dengan biaya yang setara dengan nilai wajarnya pada
+tanggal perubahan penggunaan; atau
+(b) melakukan sewa-lanjut (sublease) yang mengalihkan
+secara substansial seluruh risiko dan manfaat hak
+kepemilikan kepada pihak ketiga tidak terkait. Sewalanjut yang demikian dicatat oleh lessee sebagai sewa
+pembiayaan kepada pihak ketiga, walaupun hal ini
+mungkin dicatat sebagai sewa operasi oleh pihak ketiga.
+SEwA DALAM LAPOrAN KEUANgAN LESSEE
+Sewa Pembiayaan
+Pengakuan Awal
+19. Pada awal masa sewa, lessee mengakui sewa
+pembiayaan sebagai aset dan liabilitas dalam laporan posisi
+keuangan sebesar nilai wajar aset sewaan atau sebesar nilai
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+kini dari pembayaran sewa minimum, jika nilai kini lebih
+rendah dari nilai wajar. Penilaian ditentukan pada awal
+kontrak sewa. Tingkat diskonto yang digunakan dalam
+perhitungan nilai kini dari pembayaran sewa minimum
+adalah tingkat suku bunga implisit dalam sewa, jika dapat
+ditentukan secara praktis; jika tidak, digunakan tingkat
+suku bunga pinjaman inkremental lessee. Biaya langsung
+awal yang dikeluarkan lessee ditambahkan ke dalam jumlah
+yang diakui sebagai aset.
+20. Transaksi dan kejadian lainnya dicatat dan disajikan
+sesuai dengan substansi dan realitas keuangannya, dan tidak
+selalu mengikuti bentuk legalnya. Meskipun bentuk legal
+perjanjian sewa menyatakan bahwa lessee tidak memperoleh
+hak legal atas aset sewaan, dalam hal sewa pembiayaan, secara
+substansi dan realitas keuangan pihak lessee memperoleh
+manfaat ekonomik dari pemakaian aset sewaan tersebut selama
+sebagian besar umur ekonomiknya. Sebagai konsekuensinya
+lessee menanggung kewajiban untuk membayar hak tersebut
+sebesar suatu jumlah, pada awal sewa, yang mendekati nilai
+wajar dari aset dan beban keuangan terkait.
+21. Jika transaksi sewa tersebut tidak tercermin dalam
+laporan posisi keuangan lessee, sumber daya ekonomi dan
+tingkat kewajiban dari entitas menjadi terlalu rendah, sehingga
+mendistorsi rasio keuangan. Oleh karena itu, sewa pembiayaan
+diakui dalam laporan posisi keuangan lessee sebagai aset dan
+kewajiban untuk pembayaran sewa di masa depan. Pada awal
+masa sewa, aset dan liabilitas untuk pembayaran sewa di
+masa depan diakui di laporan posisi keuangan pada jumlah
+yang sama, kecuali untuk biaya langsung awal dari lessee
+yang ditambahkan ke jumlah yang diakui sebagai aset.
+22. Liabilitas dari aset sewaan tidak dapat disajikan
+sebagai pengurang aset sewaan dalam laporan keuangan. Jika
+penyajian liabilitas dalam laporan posisi keuangan dibedakan
+antara liabilitas jangka pendek dan liabilitas jangka panjang,
+hal yang sama berlaku untuk liabilitas sewa.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.11
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+23. Biaya langsung awal umumnya terjadi sehubungan
+dengan aktivitas sewa tertentu, seperti aktivitas negosiasi
+dan pemastian pelaksanaan sewa. Biaya-biaya yang dapat
+diatribusikan secara langsung kepada aktivitas lessee untuk
+suatu sewa pembiayaan ditambahkan ke jumlah yang diakui
+sebagai aset.
+
+30.12
+
+Pengukuran setelah Pengakuan Awal
+24. Pembayaran sewa minimum dipisahkan antara
+bagian yang merupakan beban keuangan dan bagian
+yang merupakan pelunasan liabilitas. Beban keuangan
+dialokasikan ke setiap periode selama masa sewa sedemikian
+rupa sehingga menghasilkan suatu tingkat suku bunga
+periodik yang konstan atas saldo liabilitas. Rental kontinjen
+dibebankan pada periode terjadinya.
+25. Dalam praktik, lessee dapat mengalokasikan
+beban keuangan ke setiap periode selama masa sewa
+dengan menggunakan beberapa bentuk aproksimasi untuk
+memudahkan perhitungan.
+26. Suatu sewa pembiayaan menimbulkan beban
+penyusutan untuk aset yang dapat disusutkan dan beban
+keuangan dalam setiap periode akuntansi. Kebijakan
+penyusutan untuk aset sewaan konsisten dengan aset
+yang dimiliki sendiri, dan penghitungan penyusutan yang
+diakui berdasarkan PSAK 16 (revisi 2011): Aset Tetap dan
+PSAK 19 (revisi 2010): Aset Takberwujud. Jika tidak ada
+kepastian yang memadai bahwa lessee akan mendapatkan
+hak kepemilikan pada akhir masa sewa, aset sewaan
+disusutkan secara penuh selama jangka waktu yang lebih
+pendek antara periode masa sewa dan umur manfaatnya.
+27. Jumlah yang dapat disusutkan dari aset sewaan
+dialokasikan ke setiap periode akuntansi selama perkiraan
+masa penggunaan dengan dasar yang sistematis dan konsisten
+dengan kebijakan penyusutan aset yang dimiliki. Jika terdapat
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+kepastian yang memadai bahwa lessee akan mendapatkan
+hak kepemilikan pada akhir masa sewa, perkiraan masa
+penggunaan aset adalah umur manfaat aset tersebut. Jika
+tidak, maka aset sewaan disusutkan selama periode yang lebih
+pendek antara masa sewa dan umur manfaat aset sewaan.
+28. Jumlah beban penyusutan aset dan beban keuangan
+untuk suatu periode sangat jarang akan sama nilainya dengan
+jumlah pembayaran utang sewa untuk periode tersebut, sehingga
+tidak tepat jika pembayaran utang sewa langsung diakui sebagai
+beban. Oleh karena itu, kecil kemungkinan bahwa nilai aset akan
+sama dengan nilai liabilitas sewa setelah dimulainya masa sewa.
+29. Untuk menentukan apakah suatu aset sewaan
+mengalami penurunan nilai, entitas menerapkan PSAK 48
+(revisi 2010): Penurunan Nilai Aset.
+Pengungkapan
+30. Selain memenuhi ketentuan PSAK 60: Instrumen
+Keuangan: Pengungkapan, lessee juga mengungkapkan
+hal-hal berikut yang berkaitan dengan sewa pembiayaan:
+(a) jumlah neto jumlah tercatat untuk setiap kelompok aset
+pada tanggal pelaporan;
+(b) rekonsiliasi antara total pembayaran sewa minimum di
+masa depan pada tanggal pelaporan, dengan nilai kininya.
+Selain itu, entitas mengungkapkan total pembayaran
+sewa minimum di masa depan pada tanggal pelaporan,
+dan nilai kininya, untuk setiap periode berikut:
+(i) sampai dengan satu tahun;
+(ii) lebih dari satu tahun sampai lima tahun;
+(iii) lebih dari lima tahun.
+(c) rental kontinjen yang diakui sebagai beban pada
+periode tersebut;
+(d) total perkiraan penerimaan pembayaran minimum
+sewa-lanjut di masa depan dari kontrak sewa-lanjut
+yang tidak dapat dibatalkan (non-cancellable subleases)
+pada tanggal pelaporan.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.13
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+(e) penjelasan umum isi perjanjian sewa yang material,
+yang meliputi, tetapi tidak terbatas pada, hal berikut:
+(i) dasar penentuan utang rental kontinjen;
+(ii) ada tidaknya klausul-klausul yang berkaitan
+dengan opsi perpanjangan atau pembelian dan
+eskalasi beserta syarat-syaratnya; dan
+(iii) pembatasan-pembatasan yang ditetapkan dalam
+perjanjian sewa, misalnya yang terkait dengan
+dividen, tambahan utang, dan sewa-lanjut.
+
+30.1
+
+31. Persyaratan pengungkapan dalam PSAK 13 (revisi
+2011): Properti Investasi, PSAK 16 (revisi 2011): Aset Tetap,
+PSAK 19 (revisi 2010): Aset Takberwujud, dan PSAK 48
+(revisi 2010): Penurunan Nilai Aset juga berlaku bagi lessee
+untuk aset sewaan dalam sewa pembiayaan.
+Sewa Operasi
+32. Pembayaran sewa dalam sewa operasi diakui sebagai
+beban dengan dasar garis lurus selama masa sewa kecuali
+terdapat dasar sistematis lain yang dapat lebih mencerminkan
+pola waktu dari manfaat aset yang dinikmati pengguna*.
+33. Dalam sewa operasi, pembayaran sewa (tidak
+termasuk biaya jasa seperti biaya asuransi dan pemeliharaan)
+diakui sebagai beban dengan dasar garis lurus kecuali terdapat
+dasar sistematis lain yang lebih mencerminkan pola waktu
+dari manfaat yang dinikmati pengguna, walaupun pembayaran
+dilakukan tidak atas dasar tersebut.
+Pengungkapan
+34. Selain mengungkapkan hal yang dipersyaratkan
+dalam PSAK 60: Instrumen Keuangan: Pengungkapan,
+lessee juga mengungkapkan hal berikut untuk sewa operasi:
+*
+
+lihat ISAK 23: Sewa Operasi – Insentif
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+(a) total pembayaran sewa minimum di masa depan dalam
+sewa operasi yang tidak dapat dibatalkan untuk setiap
+periode berikut:
+(i) sampai dengan satu tahun;
+(ii) lebih dari satu tahun sampai lima tahun;
+(iii) lebih dari lima tahun.
+(b) total perkiraan penerimaan pembayaran minimum
+sewa-lanjut di masa depan dari kontrak sewa-lanjut
+yang tidak dapat dibatalkan (non-cancellable subleases)
+pada tanggal pelaporan.
+(c) pembayaran sewa dan sewa-lanjut yang diakui sebagai
+beban periode berjalan, dengan pengungkapan terpisah
+untuk masing-masing jumlah pembayaran minimum
+sewa, rental kontinjen, dan pembayaran sewa-lanjut;
+(d) penjelasan umum perjanjian sewa lessee yang
+signiikan, yang meliputi, namun tidak terbatas pada:
+(i) dasar penentuan utang rental kontinjen;
+(ii) eksistensi dan persyaratan untuk memperbarui
+kembali perjanjian sewa atau adanya opsi
+pembelian dan klausul eskalasi; dan
+(iii) pembatasan yang ada dalam perjanjian sewa,
+seperti pembatasan dividen, utang tambahan, dan
+sewa lanjutan.
+SEwA DALAM LAPOrAN KEUANgAN LESSOr
+Sewa Pembiayaan
+Pengakuan Awal
+35. Dalam sewa pembiayaan, lessor mengakui
+aset berupa piutang sewa pembiayaan di laporan posisi
+keuangan sebesar jumlah yang sama dengan investasi sewa
+neto tersebut.
+36. Pada hakikatnya dalam sewa pembiayaan semua
+risiko dan manfaat yang terkait dengan kepemilikan legal
+dialihkan oleh lessor kepada lessee, dan dengan demikian
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.1
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+penerimaan piutang sewa diperlakukan oleh lessor sebagai
+pembayaran pokok dan penghasilan pembiayaan yang diterima
+lessor sebagai penggantian dan imbalan atas investasi dan
+jasanya.
+
+30.1
+
+37. Lessor sering kali mengeluarkan biaya langsung
+awal yang meliputi antara lain komisi, biaya legal, dan biaya
+internal yang inkremental dan dapat diatribusikan langsung
+dengan proses negosiasi dan pengaturan suatu sewa. Biaya
+langsung awal tidak termasuk biaya umum seperti yang
+lazimnya dikeluarkan oleh tim penjualan dan pemasaran.
+Untuk sewa pembiayaan, selain yang melibatkan lessor
+pabrikan atau dealer, biaya langsung awal diperhitungkan
+sebagai bagian dari pengukuran awal piutang sewa
+pembiayaan dan mengurangi penghasilan yang diakui selama
+masa sewa. Tingkat bunga implisit dalam sewa ditentukan
+sedemikian rupa sehingga biaya langsung awal secara
+otomatis sudah termasuk di dalam piutang sewa pembiayaan;
+sehingga tidak diperlukan penjumlahan yang terpisah. Biaya
+yang dikeluarkan oleh lessor pabrikan atau dealer yang terkait
+dengan negosiasi dan pengaturan suatu sewa tidak termasuk
+biaya langsung awal. Dengan demikian, biaya tersebut tidak
+termasuk dalam investasi sewa neto dan diakui sebagai beban
+ketika laba penjualan diakui, dimana untuk sewa pembiayaan
+umumnya diakui pada masa awal sewa.
+Pengukuran Setelah Pengakuan Awal
+38. Pengakuan penghasilan pembiayaan didasarkan
+pada suatu pola yang mencerminkan suatu tingkat
+pengembalian periodik yang konstan atas investasi bersih
+lessor dalam sewa pembiayaan.
+39. Lessor mengalokasikan penghasilan pembiayaan
+selama masa sewa dengan dasar yang sistematis dan rasional.
+Alokasi penghasilan ini didasarkan pada suatu pola yang
+mencerminkan suatu tingkat pengembalian periodik yang
+konstan atas investasi bersih lessor dalam sewa pembiayaan.
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+Pembayaran sewa dalam suatu periode, di luar biaya jasa,
+diterapkan atas investasi sewa bruto untuk mengurangi pokok
+dan penghasilan pembiayaan tangguhan.
+40. Estimasi nilai residu tidak dijamin yang digunakan
+dalam perhitungan investasi kotor lessor dikaji ulang secara
+reguler. Jika telah terjadi penurunan dalam estimasi nilai
+residu tidak dijamin, alokasi penghasilan selama masa sewa
+direvisi dan penurunan yang terkait dengan jumlah yang telah
+diakru diakui segera.
+41. Aset dalam suatu sewa pembiayaan yang
+diklasiikasikan sebagai dimiliki untuk dijual (atau termasuk
+dalam suatu kelompok lepasan yang diklasiikasikan sebagai
+dimiliki untuk dijual) sesuai dengan PSAK 58 (revisi 2009):
+Aset Tidak Lancar yang Dimiliki untuk Dijual dan Operasi
+yang Dihentikan dicatat sesuai dengan Pernyataan tersebut.
+42. Lessor pabrikan atau dealer mengakui laba atau
+rugi atas penjualan pada suatu periode sesuai kebijakan
+entitas atas penjualan biasa. Jika tingkat bunga ditentukan
+secara artiisial terlalu rendah, laba penjualan dibatasi
+sebesar laba apabila menggunakan tingkat bunga pasar.
+Biaya yang dikeluarkan oleh lessor pabrikan atau dealer
+sehubungan dengan negosiasi dan pengaturan sewa diakui
+sebagai beban ketika laba penjualan diakui.
+43. Pabrikan atau dealer sering kali menawarkan pilihan
+untuk membeli atau menyewa suatu aset kepada pelanggan.
+Sewa pembiayaan atas aset oleh lessor pabrikan atau dealer
+memberikan dua jenis penghasilan:
+(a) laba atau rugi yang ekuivalen dengan laba atau rugi dari
+penjualan biasa atas aset yang disewakan, pada harga jual
+normal setelah dikurangi potongan penjualan, jika ada; dan
+(b) penghasilan pembiayaan selama masa sewa.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.1
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+44. Pendapatan penjualan diakui di awal masa sewa
+oleh lessor pabrikan atau dealer sebesar nilai wajar aset, atau
+jika lebih rendah, sebesar nilai kini dari pembayaran sewa
+minimum yang dihitung pada tingkat bunga pasar. Biaya
+penjualan di awal masa sewa adalah biaya perolehan atau
+jumlah tercatat jika berbeda, dari properti sewaan dikurangi
+nilai kini dari nilai residu tidak dijamin. Perbedaan antara
+pendapatan penjualan dan biaya penjualan adalah laba
+penjualan yang diakui sesuai kebijakan entitas terhadap
+penjualan biasa.
+
+30.1
+
+45. Lessor pabrikan atau dealer terkadang menggunakan
+suku bunga artiisial yang terlalu rendah untuk menarik
+pelanggan. Penggunaan tingkat suku bunga tersebut akan
+mengakibatkan pengakuan penghasilan yang terlalu tinggi
+dari transaksi pada waktu penjualan. Jika tingkat suku bunga
+artiisial yang terlalu rendah digunakan, maka laba penjualan
+dibatasi sebesar laba apabila menggunakan tingkat bunga
+pasar.
+46. Biaya yang dikeluarkan oleh lessor pabrikan atau
+dealer sehubungan dengan negosiasi dan pengaturan suatu
+sewa pembiayaan diakui sebagai beban di awal masa sewa
+karena terutama terkait dengan pendapatan pabrikan atau laba
+penjualan dealer.
+Pengungkapan
+47. Selain mengungkapkan hal yang dipersyaratkan
+dalam PSAK 60: Instrumen Keuangan: Pengungkapan,
+lessor mengungkapkan hal berikut untuk sewa
+pembiayaan:
+(a) rekonsiliasi antara investasi sewa bruto dan nilai kini
+piutang pembayaran sewa minimum pada tanggal
+pelaporan. Di samping itu, lessor mengungkapkan
+investasi sewa bruto dan nilai kini piutang pembayaran
+sewa minimum pada tanggal pelaporan, untuk setiap
+periode berikut:
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+(i) kurang dari satu tahun;
+(ii) lebih dari satu tahun sampai lima tahun;
+(iii) lebih dari lima tahun.
+(b) penghasilan pembiayaan tangguhan;
+(c) nilai residu tidak dijamin yang diakru sebagai manfaat
+lessor;
+(d) akumulasi penyisihan piutang tidak tertagih atas
+pembayaran sewa minimum;
+(e) rental kontinjen yang diakui sebagai penghasilan
+dalam periode berjalan; dan
+(f) penjelasan umum isi perjanjian sewa lessor yang
+material.
+48. Sebagai suatu indikator pertumbuhan entitas dapat
+mengungkapkan investasi bruto dikurangi penghasilan yang belum
+diterima dalam bisnis baru yang ditambahkan selama periode
+berjalan, setelah dikurangi jumlah relevan sewa yang dibatalkan.
+Sewa Operasi
+49. Lessor menyajikan aset untuk sewa operasi di
+laporan posisi keuangan sesuai sifat aset tersebut.
+50. Pendapatan sewa dari sewa operasi diakui
+sebagai pendapatan dengan dasar garis lurus selama masa
+sewa, kecuali terdapat dasar sistematis lain yang lebih
+mencerminkan pola waktu dimana manfaat penggunaan
+aset sewaan menurun*.
+51. Biaya termasuk biaya penyusutan, yang terjadi
+untuk memperoleh pendapatan sewa diakui sebagai beban.
+Pendapatan sewa (tidak termasuk penerimaan dari jasa seperti
+asuransi dan pemeliharaan) diakui dengan dasar garis lurus
+selama masa sewa walaupun penerimaan sewa tidak dengan
+dasar hal tersebut, kecuali jika terdapat dasar sistematis
+*
+
+lihat ISAK 23: Sewa Operasi – Insentif
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.1
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+lain yang lebih mencerminkan pola waktu dimana manfaat
+penggunaan dari aset sewaan menurun.
+
+30.20
+
+52. Biaya langsung awal yang dikeluarkan oleh
+lessor dalam proses negosiasi dan pengaturan sewa operasi
+ditambahkan ke jumlah tercatat aset sewaan dan diakui
+sebagai beban selama masa sewa dengan dasar yang sama
+dengan pendapatan sewa.
+53. Kebijakan penyusutan untuk aset sewaan harus
+konsisten dengan kebijakan penyusutan normal untuk aset
+sejenis, dan penyusutan tersebut dihitung sesuai PSAK 16
+(revisi 2011): Aset Tetap dan PSAK 19 (revisi 2010): Aset
+Takberwujud.
+54. Entitas menentukan apakah suatu aset sewaan
+mengalami penurunan nilai dengan menerapkan PSAK 48
+(revisi 2010): Penurunan Nilai Aset.
+55. Lessor pabrikan atau dealer tidak mengakui laba
+penjualan atas suatu sewa operasi karena transaksi tersebut
+tidak ekuivalen dengan penjualan.
+Pengungkapan
+56. Selain mengungkapkan hal yang dipersyaratkan
+dalam PSAK 60: Instrumen Keuangan: Pengungkapan,
+lessor mengungkapkan hal berikut untuk sewa operasi:
+(a) jumlah agregat pembayaran sewa minimum di masa
+depan dalam sewa operasi yang tidak dapat dibatalkan
+untuk setiap periode berikut:
+(i) sampai dengan satu tahun;
+(ii) lebih dari satu tahun sampai lima tahun;
+(iii) lebih dari lima tahun.
+(b) total rental kontinjen yang diakui sebagai penghasilan
+dalam periode berjalan; dan
+(c) penjelasan umum isi perjanjian sewa lessor.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+57. Persyaratan pengungkapan yang diharuskan PSAK
+13 (revisi 2011): Properti Investasi, PSAK 16 (revisi 2011):
+Aset Tetap, PSAK 19 (revisi 2010): Aset Takberwujud, dan
+PSAK 48 (revisi 2010): Penurunan Nilai Aset juga berlaku
+bagi lessor untuk aset sewaan dalam sewa operasi.
+TrANSAKSI JUAL DAN SEwA-BALIK
+58. Transaksi jual dan sewa-balik meliputi penjualan
+suatu aset dan penyewaan kembali aset yang sama. Pembayaran
+sewa dan harga jual biasanya saling terkait karena keduanya
+dinegosiasikan sebagai suatu paket. Perlakuan akuntansi untuk
+transaksi jual dan sewa-balik bergantung pada jenis sewanya.
+59. Jika suatu transaksi jual dan sewa-balik merupakan
+sewa pembiayaan, selisih lebih hasil penjualan dari jumlah
+tercatat tidak dapat diakui segera sebagai pendapatan oleh
+penjual-lessee, tetapi ditangguhkan dan diamortisasi selama
+masa sewa.
+60. Jika sewa-balik merupakan sewa pembiayaan,
+transaksi tersebut merupakan suatu cara dimana lessor
+memberikan pembiayaan bagi lessee dengan aset sebagai
+jaminan. Karenanya, tidak tepat jika selisih lebih hasil penjualan
+dari jumlah tercatat diakui sebagai penghasilan. Selisih lebih
+tersebut ditangguhkan dan diamortisasi selama masa sewa.
+61. Jika transaksi jual dan sewa-balik merupakan
+sewa operasi dan jelas bahwa transaksi tersebut terjadi
+pada nilai wajar, maka laba atau rugi diakui segera. Jika
+harga jual di bawah nilai wajar, maka laba atau rugi diakui
+segera, kecuali rugi tersebut dikompensasikan dengan
+pembayaran sewa di masa depan yang lebih rendah dari
+harga pasar, maka rugi tersebut harus ditangguhkan dan
+diamortisasi secara proporsional dengan pembayaran sewa
+selama periode penggunaan aset. Jika harga jual di atas nilai
+wajar, selisih lebih dari nilai wajar tersebut ditangguhkan
+dan diamortisasi selama periode penggunaan aset.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.21
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+62. Jika sewa-balik merupakan sewa operasi, dan
+pembayaran sewa serta harga jual dinilai pada nilai wajar,
+maka transaksi penjualan secara normal telah terjadi dan laba
+atau ruginya diakui segera.
+
+30.22
+
+63. Untuk sewa operasi, jika nilai wajar aset pada saat
+transaksi jual dan sewa-balik lebih rendah daripada jumlah
+tercatatnya, rugi sebesar selisih antara jumlah tercatat dan
+nilai wajar diakui segera.
+64. Untuk sewa pembiayaan, penyesuaian seperti di
+atas tidak diperlukan kecuali jika telah terjadi penurunan nilai.
+Dalam hal tersebut, jumlah tercatat berkurang menjadi jumlah
+terpulihkan sesuai dengan PSAK 48 (revisi 2010): Penurunan
+Nilai Aset.
+65. Pengungkapan yang dipersyaratkan untuk lessee
+dan lessor berlaku sama untuk transaksi jual dan sewa-balik.
+Penjelasan yang dipersyaratkan atas pengaturan sewa yang
+material mengarah ke pengungkapan persyaratan khusus atau
+tidak biasa dari perjanjian atau persyaratan transaksi jual dan
+sewa-balik.
+66. Dengan demikian, transaksi jual dan sewa-balik
+dapat memicu kriteria pengungkapan terpisah dalam PSAK 1
+(revisi 2009): Penyajian Laporan Keuangan.
+KETENTUAN TrANSISI
+67. Entitas menilai kembali klasiikasi elemen tanah
+yang belum habis masa Hak Guna Usaha, Hak Guna
+Bangunan dan hak lainnya pada tanggal Pernyataan ini
+diadopsi, dengan mempertimbangkan informasi yang ada
+pada saat hak tersebut diperoleh. Entitas menerapkan
+reklasiikasi tanah tersebut secara retrospektif sesuai dengan
+PSAK 25 (revisi 2009): Kebijakan Akuntansi, Perubahan
+Estimasi Akuntansi dan Kesalahan. Namun apabila entitas
+tidak memiliki informasi memadai untuk menerapkan
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+sewa
+
+ed Psak 30 (revisi 2011)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+perubahan tersebut secara retrospektif, maka entitas:
+(a) menerapkan perubahan terhadap klasiikasi tanah
+dengan dasar fakta dan kondisi yang ada pada tanggal
+perubahan tersebut diadopsi; dan
+(b) mengakui aset dan liabilitas terkait dengan sewa tanah
+yang diklasiikasikan sebagai sewa pembiayaan sebesar
+nilai wajar pada tanggal tersebut; perbedaan antara
+nilai wajar diakui di saldo laba.
+TANggAL EfEKTIf
+68. Entitas menerapkan Pernyataan ini untuk periode
+tahun buku yang dimulai pada atau setelah tanggal 1 Januari
+2012.
+PENArIKAN
+69. Pernyataan ini menggantikan PSAK 30 (2007):
+Sewa.
+
+Hak Cipta © 2011 Ikatan akuntan IndonesIa
+
+30.23
+
+

@@ -1,0 +1,965 @@
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+PENGARUH TINGKAT KEMISKINAN, TINGKAT PENGANGGURAN,
+UPAH MINIMUM KABUPATEN/KOTA DAN LAJU PERTUMBUHAN
+EKONOMI TERHADAP INDEKS PEMBANGUNAN MANUSIA
+DI PROVINSI RIAU
+Nursiah Chalid dan Yusbar Yusuf
+Jurusan Ilmu Ekonomi Universitas Riau
+Kampus Bina Widya Km 12,5 Simpang Baru – Pekanbaru 28293
+ABSTRAK
+Penelitian ini bertujuan untuk mengetahui pengaruh tingkat kemiskinan, tingkat
+pengangguran, upah minimum kabupaten/kota dan laju pertumbuhan ekonomi
+terhadap indeks pembangunan manusia (IPM) di Provinsi Riau. Data yang
+digunakan adalah data sekunder yang bersumber dari Badan Pusat Statistik,
+Jakarta, Indonesia, Badan Pusat Statistik Provinsi Riau dan Badan Perencanaan
+Pembangunan Daerah Provinsi Riau. Data sekunder yang digunakan adalah data
+Panel tahun 2006-2011 menurut daerah tingkat II Kabupaten/Kota di Provinnsi
+Riau. Analisis data menggunakan regresi linear berganda.
+Dari hasil analisis diketahui tingkat kemiskinan, tingkat pengangguran, upah
+minimum kabupaten/kota dan laju pertumbuhan ekonomi berpengaruh terhadap
+IPM.Tingkat kemiskinan dan tingkat pengangguran berpengaruh negative
+terhadap IPM, masing-masing dengan koefisien regresi sebesar -0,163 dan 0,084.Upah minimum kabupaten/kota dan laju pertumbuhan ekonomi
+berpengaruh positif terhadap IPM, dengan koefisien regresi masing-masing 0,005
+dan 0,953.Variable yang sangat besar pengaruhnya terhadap IPM adalah laju
+pertumbuhan ekonomi.
+Kata kunci : IPM, tingkat kemiskinan, tingkat pengangguran, upah minimum
+dan laju pertumbuhan ekonomi
+PENDAHULUAN
+Keberhasilan pembangunan nasional tidak hanya dilihat dari laju pertumbuhan
+ekonomi yang tinggi, tetapi yang paling penting adalah keberhasilan
+pembangunan manusia. Pembangunan manusia didefinisikan sebagai suatu
+proses untuk perluasan pilihan yang lebih banyak kepada penduduk melalui
+upaya-upaya pemberdayaan yang mengutamakan peningkatan kemampuan dasar
+manusia agar dapat sepenuhnya berpartisipasi disegala bidang pembangunan
+(BPS. 2011).
+
+1
+
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+Indeks Pembangunan Manusia (IPM) mengukur capaian pembangunan manusia
+berbasis sejumlah komponen dasar kualitas hidup. Indeks Pembangunan Manusia
+(IPM) dihitung berdasarkan data yang dapat menggambarkan keempat komponen
+yaitu capaian umur panjang dan sehat yang mewakili bidang kesehatan, angka
+melek huruf, partisipasi sekolah dan rata-rata lamanya sekolah mengukur kinerja
+pembangunan bidang pendidikan dan kemampuan daya beli masyarakat terhadap
+sejumlah kebutuhan pokok yang dilihat dari rata-rata besarnya pengeluaran
+perkapita sebagai pendekatan pendapatan (BPS. 2007).
+Indeks Pembangunan Manusia (IPM) dipengaruhi oleh banyak factor terutama
+factor-faktor social ekonomi. Dari hasil kajian yang dilakukan oleh BPS, Jakarta
+(2009) yang menggunakan data cross section menurut provinsi di Indonesia tahun
+2008 diperoleh kesimpulan IPM di setiap provinsi di Indonesia dipengaruhi oleh
+variable laju pertumbuhan ekonomi, persentase penduduk yang mengalami
+keluhan kesehatan, rata-rata umur kawin pertama wanita, setengah pengangguran
+dengan jam kerja per-minggu < 15 jam, persentase desa yang telah menggunakan
+listrik dan persentase desa dengan jarak SMP terdekat > 10 Km.
+Dari hasil kajian tersebut diketahui laju pertumbuhan ekonomi berpengaruh
+positif terhadap IPM.Hal ini berarti semakin tinggi laju pertumbuhan ekonomi
+disuatu provinsi, semakin tinggi pula IPM provinsi tersebut.Variable persentase
+penduduk yang mengalami keluhan kesehatan berpengaruh negative terhadap
+IPM.Hal ini berarti semakin tinggi persentase penduduk yang mengalami keluhan
+kesehatan menyebabkan angka IPM semakin rendah.Rata-rata umur kawin
+pertama wanita mempunyai pengaruh positif terhadap IPM. Hal ini berarti
+semakin tinggi rata-rata umur kawin pertama wanita disuatu
+provinsi,
+menyebabkan nilai IPM semakin tinggi. Variable setengah pengangguran dengan
+jam kerja perminggu < 15 jam berpengaruh negative terhadap nilai IPM. Semakin
+tinggi penduduk berstatus setengah pengangguran, nilai IPM di provinsi tersebut
+semakin rendah. Variable persentase desa yang telah menggunakan listrik
+mempunyai pengaruh positif terhadap IPM disuatu provinsi.Hal ini berarti
+semakin tinggi persentase desa yang telah menggunakan listrik disuatu provinsi,
+semakin tinggi pula nilai IPM di provinsi tersebut. Variable persentase desa
+dengan jumlah SMP terdekat > 10 Km mempunyai pengaruh negative terhadap
+IPM. Hal ini berarti semakin tinggi persentase desa dengan jarak SMP terdekat >
+10 Km semakin rendah nilai IPM di provinsi tersebut (BPS, 2009).
+Penelitian ini ingin mengetahui pengaruh tingkat kemiskinan, tingkat
+pengangguran, upah minimum kabupaten/kota dan laju pertumbuhan ekonomi
+(PDRB) terhadap indeks pembangunan manusia (IPM) di Provinsi Riau.
+Kemiskinan adalah kondisi dimana seseorang atau sekelompok orang tidak
+mampu memenuhi hak-hak dasarnya untuk mempertahankan dan
+mengembangkan kehidupan yang bermartabat (Bappenas, 2004). Kemiskinan
+adalah keadaaan dimanaterjadi ketidakmampuan untuk memenuhi kebutuhan
+dasar seperti makanan, pakaian, tempat berlindung, pendidikan, dan kesehatan.
+
+2
+
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+Kemiskinan dapat disebabkan oleh kelangkaan alat pemenuh kebutuhan dasar,
+ataupun sulitnya akses terhadap pendidikan dan pekerjaan (Bappeda. 2011) oleh
+karena itu tingkat kemiskinan dapat mempengaruhi nilai IPM.
+Pengangguran terbuka merupakan bagian dari angkatan kerja yang tidak bekerja
+atau sedang mencari pekerjaan (baik bagi mereka yang belum pernah bekerja
+sama sekali maupun yang sudah pernah bekerja sama sekali maupun yang sudah
+pernah bekerja), atau sedang mempersiapkan suatu usaha, mereka yang tidak
+mencari pekerjaan karena merasa tidak mungkin untuk mendapatkan pekerjaan
+dan mereka yang sudah memiliki pekerjaan dan mereka yang sudah memiliki
+pekerjaan tetapi belum mulai bekerja (Bappeda, 2011). Tingkat pengangguran
+adalah persentase jumlah pengangguran terbuka terhadap jumlah angkatan kerja.
+Tingkat pengangguran ini dapat mempengaruhi nilai IPM.
+Masalah tenaga kerja tidak terlepas dari upah minimum regional (UMR). Upah
+minimum ini merupakan salah satu pertimmbangan bagi investor yang ingin
+menanamkan modalnya disuatu daerah terutama investor yang ingin mendirikan
+pabrik atau industry yang banyak menyerap tenaga kerja.Semakin tinggi upah
+minimum regional suatu daerah menunjukkan semakin tinggi tingkat ekonominya
+(Bappeda. 2010).
+Pertumbuhan ekonomi menunjukkan sejauh mana aktivitas perekonomian akan
+menghasilkan tambahan pendapatan masyarakat pada suatu periode tertentu.
+Perekonomian dianggap mengalami pertumbuhan bila seluruh balas jasa riil
+terhadap penggunaan factor produksi pada tahun tertentu lebih besar daripada
+tahun sebelumnya.Indicator yang digunakan untuk mengukur pertumbuhan
+ekonomi adalah tingkat pertumbuhan Produk Domestik Regional Bruto (PDRB)
+berdasarkan harga konstan (Bappeda. 2011).
+Perumusan masalah
+penelitian ini adalah bagaimana pengaruh tingkat
+kemiskinan, tingkat pengangguran, upah minimum kabupate/kota dan laju
+pertumbuhan ekonomi terhadap Indeks Pembangunan Manusia (IPM).
+METODE PENELITIAN
+Metode yang digunakan dalam tulisan ini adalah telaah pustaka yang ditunjang
+dengan analisis deskriptif kuantitatif terhadap data-data sekunder.Data sekunder
+yang digunakan adalah data perkembangan IPM, tingkat kemiskinan, tingkat
+pengangguran, upah minimum kabupaten/kota dan laju pertumbuhan ekonomi
+tahun 2006-2011 menurut daerah tingkat II kabupaten/kota di Provinsi Riau.
+Data-data tersebut bersumber dari BPS, Jakarta, BPS Provinsi Riau dan Bappeda
+Provinsi Riau.
+
+3
+
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+Untuk menganalisis pengaruh tingkat kemiskinan, tingkat pengangguran, upah
+minimum kabupaten/kota dan laju pertumbuhan ekonomi terhadap indeks
+pembangunan manusia (IPM) digunakan analisis regresi linear berganda sebagai
+berikut :
+Y = b0 + b1 x1 + b2 x2 + b3 x3 + b4 x4 + e
+Y = Indeks Pembangunan Manusia (IPM)
+x1= tingkat kemiskinan (%)
+x2= tingkat pengangguran (%)
+x3= upah minimum kabupaten/kota (Rp 000,)
+x4= laju pertumbuhan ekonomi (%)
+b0= konstanta
+bi= koefisien regresi masing-masing variable
+i =1,2,3 dan 4
+e = error term
+HASIL PENELITIAN DAN PEMBAHASAN
+Perkembangan nilai IPM Provinsi Riau pada periode 2006-2011 meningkat setiap
+tahunnya. Pada tahun 2006 nilai IPM Provinsi Riau 73,81 dan pada tahun 2011
+bernilai 76,53. Pada tahun 2006 nilai IPM Kabupaten Kuantan Singingi 71,89 dan
+pada tahun 2011 meningkat menjadi 74,15. Nilai IPM di Kabupaten Indragiri
+Hulu pada tahun 2006 adalah 72,04 dan pada tahun 2011 menjadi 74,54. Nilai
+IPM Kabupaten Indragiri Hilir pada tahun 2006 adalah 73,39 dan pada tahun
+2011 menjadi 75,71. Nilai IPM Kabupaten Pelalawan pada tahun 2006 adalah
+69,96 dan pada tahun 2011 sebesar 73,59. Nilai IPM Kabupaten Siak pada tahun
+2006 sebesar 74,55 dan pada tahun 2011 menjadi 76,92. Nilai IPM Kabupaten
+Kampar pada tahun 2006 dan 2011 masing-masing sebesar 72,02 dan 75,18. Nilai
+IPM Kabupaten Rokan Hulu pada tahun 2006 dan 2011 masing-masing sebesar
+71,01 dan 73,10. Nilai IPM Kabupaten Bengkalis pada tahun 2006 dan 2011
+masing-masing sebesar 73,10 dan 75,53. Nilai IPM Kabupaten Rokan Hilir pada
+tahun 2006 dan 2011 masing-masing sebesar 70,89 dan 72,83. Nilai IPM
+Kabupaten Kepulauan Meranti pada tahun 2009 dan 2011 masing-masing sebesar
+70,15 dan 71,08. Nilai IPM Kota Pekanbaru dan Kota Dumai pada tahun 2006
+masing-masing sebesar 76,19 dan 75,52, pada tahun 2011 masing-masing sebesar
+78,72 dan 78,25.
+
+4
+
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+Untuk jelasnya dapat dilihat pada tabel 1 berikut ini :
+Tabel 1: Perkembangan Indeks Pembangunan Manusia (IPM) di Provinsi
+Riau menurut daerah tingkat II kabupaten/kota 2006-2011
+Kabupaten
+/Kota
+2006
+Kuantan Singingi
+71,89
+Indragiri Hulu
+72,04
+Indragiri Hilir
+73,39
+Pelalawan
+69,96
+Siak
+74,55
+Kampar
+72,02
+Rokan Hulu
+71,01
+Bengkalis
+73,10
+Rokan Hilir
+70,89
+Kepulauan Meranti
+Pekanbaru
+76,19
+Dumai
+75,52
+Riau
+73,81
+Sumber : BPS. Jakarta: Indonesia
+No
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+2007
+72,47
+72,96
+73,87
+71,43
+75,15
+72,98
+71,43
+73,36
+71,06
+76,98
+76,31
+74,63
+
+Tahun
+2008 2009
+72,95 73,38
+73,43 73,89
+74,41 74,95
+72,07 72,69
+75,64 76,05
+73,64 74,14
+71,84 72,29
+74,12 74,64
+71,51 71,98
+70,15
+77,54 77,86
+76,91 77,33
+75,09 75,60
+
+2010
+73,70
+74,18
+75,24
+73,18
+76,46
+74,43
+72,66
+75,11
+72,43
+70,62
+78,27
+77,75
+76,07
+
+2011
+74,15
+74,54
+75,71
+73,59
+76,92
+75,18
+73,10
+75,53
+72,83
+71,08
+78,72
+78,25
+76,53
+
+Pada table tersebut dapat diketahui daerah tingkat II yang mempunyai nilai IPM
+diatas nilai IPM Provinsi Riau adalah kota Pekanbaru, Dumai, dan kabupaten
+Siak. Nilai IPM yang dicapai oleh Provinsi Riau dan seluruh daerah tingkat II
+termasuk kategori menengah atas adalah capaian nilai 66 ≤ IPM < 80 (BPS,
+2012).
+Perkembangan tingkat kemiskinan di Provinsi Riau dapat dilihat pada tabel 2
+berikut ini :
+Pada tabel 2 tersebut dapat diketahui tingkat kemiskinan di Provinsi Riau selama
+periode 2006-2011 menurun setiap tahunnya. Pada tahun 2006 tingkat kemiskinan
+11,85% dan turun pada tahun 2011 menjadi 8,17%. Menurut Aunur Rofiq (2014)
+menurunnya tingkat kemiskinan disebabkan turunnya tingkat inflasi dan harga
+beras yang stabil.Factor inflasi dan stabilitas harga beras sangat membantu
+mengurangi jumlah rakyat miskin di pedesaan, karena penduduk desa hidupnya
+sangat tergantung pada makanan pokok beras.
+
+5
+
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+Tabel 2 : Perkembangan tingkat kemiskinan di Provinsi Riau menurut
+daerah tingkat II tahun 2006-2011 (%)
+Kabupaten
+/Kota
+Kuantan Singingi
+Indragiri Hulu
+Indragiri Hilir
+Pelalawan
+Siak
+Kampar
+Rokan Hulu
+Bengkalis
+Rokan Hilir
+Kepulauan Meranti
+Pekanbaru
+Dumai
+Riau
+Sumber : BPS Provinsi Riau
+No
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+2006
+21,28
+15,97
+14,85
+19,80
+5,45
+11,69
+23,81
+11,56
+9,09
+2,16
+7,69
+11,85
+
+2007
+19,03
+14,63
+14,57
+18,07
+6,01
+10,73
+21,86
+10,69
+9,41
+2,24
+6,28
+11,20
+
+Tahun
+2008 2009
+16,51 14,42
+12,05 10,25
+13,19 11,11
+18,63 16,71
+7,09
+5,71
+11,45 10,04
+18,05 15,49
+8,94
+7,91
+10,59 9,32
+3,63
+3,92
+7,42
+6,08
+10,79 9,45
+
+2010
+12,57
+8,90
+9,41
+14,51
+6,49
+10,47
+13,03
+8,25
+9,30
+42,57
+4,20
+6,45
+8,65
+
+2011
+10,19
+7,25
+7,65
+11,93
+5,29
+8,52
+10,66
+6,72
+7,58
+34,53
+3,42
+5,27
+8,17
+
+Daerah tingkat II yang paling rendah tingkat kemiskinan pada tahun 2006 adalah
+kota Pekanbaru (2,16%) dan yang tertinggi adalah kabupaten Rokan Hulu
+(23,81%). Daerah tinngkat II yang mempunyai tingkat kemiskinan diatas tingkat
+kemiskinan provinsi Riau adalah kabupaten Kuantan Singingi (21,28%), Indragiri
+Hulu (15,79%), Indragiri Hilir (14,85%), Pelalawan (19,80%) dan Rokan Hulu
+(23,81%).
+Pada tahun 2011 tingkat kemiskinan tertinggi terdapat di kabupaten Kepulauan
+Meranti (34,53%) dan terendah di kota Pekanbaru (3,42%). Daerah tingkat II
+yang mempunyai angka tingkat kemiskinan diatas tingkat kemiskinan provinsi
+Riau adalah kabupaten Kuantan Singingi (10,19%), Pelalawan (11,93%), Kampar
+(8,52%), dan Rokan Hulu (10,66%).
+Perkembangan tingkat pengangguran di provinsi Riau dapat dilihat pada table 3
+berikut ini :
+Pada tabel 3 tersebut dapat diketahui tingkat pengangguran terbuka di provinsi
+Riau pada periode 2006-2011 relatif menurun. Pada tahun 2006 tingkat
+pengangguran terbuka 10,24% dan pada tahun 2011 sebesar 5,32%. Pada tahun
+2006 tingkat pengangguran tertinggi di kota Pekanbaru (15,82%) dan terendah di
+kabupaten Siak (4,82%). Pada tahun 2011 tingkat pengangguran tertinggi di kota
+Pekanbaru (9,33%) dan terendah di kabupaten Pelalawan (2,93%). Daerah tingkat
+II yang mempunyai tingkat pengangguran diatas tingkat pengangguran provinsi
+Riau adalah kabupaten Bengkalis (6,09%), Kepulauan Meranti (5,52%), kota
+Pekanbaru (9,33%) dan Dumai (5,65%).
+
+6
+
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+Tabel 3: Perkembangan tingkat pengangguran terbuka di provinsi Riau
+menurut daerah tingkat II kabupaten/kota tahun 2006-2011 (%)
+Kabupaten
+/Kota
+2006
+Kuantan Singingi
+4,49
+Indragiri Hulu
+5,22
+Indragiri Hilir
+7,32
+Pelalawan
+6,51
+Siak
+4,82
+Kampar
+6,12
+Rokan Hulu
+5,65
+Bengkalis
+7,51
+Rokan Hilir
+7,20
+Kepulauan Meranti
+Pekanbaru
+15,82
+Dumai
+8,64
+Riau
+10,24
+Sumber : BPS Provinsi Riau
+No
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+2007
+7,61
+4,79
+6,37
+7,74
+7,39
+6,65
+5,91
+11,82
+9,22
+19,51
+18,54
+9,79
+
+Tahun
+2008 2009
+4,96
+6,76
+3,91
+7,18
+4,57
+3,88
+6,27
+6,41
+5,92
+8,01
+6,08
+7,71
+4,16
+6,81
+11,77 13,21
+9,56
+7,88
+14,24 12,03
+14,90 13,45
+8,20
+8,56
+
+2010
+4,86
+8,28
+5,41
+4,69
+9,37
+9,23
+8,61
+11,36
+9,33
+6,70
+10,23
+14,68
+8,72
+
+2011
+2,95
+4,14
+4,80
+2,93
+4,38
+4,89
+3,38
+6,09
+4,57
+5,52
+9,33
+5,65
+5,32
+
+Perkembangan upah minimum provinsi Riau menurut daerah tingkat II
+kabupaten/kota tahun 2006-2011 dapat dilihat pada tabel 4 berikut ini :
+Tabel 4 : Perkembangan upah minimum di provinsi Riau menurut daerah
+tingkat II kabupaten/kota tahun 2006-2011 (Rp 000)
+Kabupaten
+Tahun
+No
+/Kota
+2006
+2007
+2008
+2009
+2010
+2011
+1 Kuantan
+637,00 710,00 800,00 912,24 1017,50 1123,00
+Singingi
+2 Indragiri
+669,00 760,00 900,00 1054,00 1108,50 1208,00
+Hulu
+3 Indragiri
+637,00 710,00 816,00 933,80 1040,00 1130,00
+Hilir
+4 Pelalawan
+637,00 745,00 848,00 930,00 1020,00 1128,00
+5 Siak
+637,00 710,00 838,00 938,00 1048,00 1186,00
+6 Kampar
+637,00 710,00 955,00 1020,00 1122,00 1234,00
+7 Rokan Hulu 756,00 790,00 880,00 959,20 1060,00 1150,00
+8 Bengkalis
+637,00 710,00 800,00 945,00 1050,00 1123,00
+9 Rokan Hilir
+637,00 710,00 800,00 901,60 1040,00 1140,00
+10 Kepulauan
+1016,00 1125,00
+Meranti
+11 Pekanbaru
+637,00 710,00 825,00 925,00 1055,00 1135,00
+12 Dumai
+785,65 812,65 915,60 967,50 1070,00 1177,00
+Riau
+637,00 710,00 800,00 901,60 1016,00 1120,00
+Sumber : Dinas Tenaga Kerja, Transmigrasi dan Kependudukan Provinsi Riau
+7
+
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+Pada tabel 4 tersebut dapat dilihat upah minimum provinsi Riau periode 20062011 setiap tahunnya meningkat. Pada tahun 2006 besarnya upah minimum
+provinsi Riau Rp 637000, meningkat pada tahun 2011 sebesar Rp 1120000, ratarata peningkatan upah minimum 11,95% per tahun. Upah minimum kabupaten
+Kuantan Singingi pada tahun 2006 sebesar Rp 637000, pada tahun 2011 sebesar
+Rp 1123000, rata-rata peningkatan sebesar 12% per tahun.Upah minimum
+kabupaten Indragiri Hulu pada tahun 2006 sebesar Rp 669000, pada tahun 2011
+sebesar Rp 1208000, rata-rata peningkatan sebesar 12,54% per tahun. Upah
+minimum kabupaten Indragiri Hilir pada tahun 2006 sebesar Rp 637000, pada
+tahun 2011 sebesar Rp 1130000, rata-rata peningkatan sebesar 12,15% per tahun.
+Upah minimum kabupaten Pelalawan pada tahun 2006 sebesar Rp 637000, pada
+tahun 2011 sebesar Rp 1128000, rata-rata peningkatan sebesar 12,11% per
+tahun.Upah minimum kabupaten Siak pada tahun 2006 sebesar Rp 637000, pada
+tahun 2011 sebesar Rp 1186000, rata-rata peningkatan sebesar 13,24% per
+tahun.Upah minimum kabupaten Kampar pada tahun 2006 sebesar Rp 637000,
+pada tahun 2011 sebesar Rp 1234000, rata-rata peningkatan sebesar 14,14% per
+tahun.Upah minimum kabupaten Rokan Hulu pada tahun 2006 sebesar Rp
+756000, pada tahun 2011 sebesar Rp 1150000, rata-rata peningkatan sebesar
+8,75% per tahun.Upah minimum kabupaten Bengkalis pada tahun 2006 sebesar
+Rp 637000, pada tahun 2011 sebesar Rp 1123000, rata-rata peningkatan sebesar
+12% per tahun.Upah minimum kabupaten Rokan Hilir pada tahun 2006 sebesar
+Rp 637000, pada tahun 2011 sebesar Rp 1140000, rata-rata peningkatan sebesar
+12,34% per tahun.Upah minimum kabupaten Kepulauan Meranti pada tahun 2010
+sebesar Rp 1016000, pada tahun 2011 sebesar Rp 1125000, rata-rata peningkatan
+sebesar 10,73% per tahun.Upah minimum kota Pekanbaru pada tahun 2006
+sebesar Rp 637000, pada tahun 2011 sebesar Rp 1135000, rata-rata peningkatan
+sebesar 12,25% per tahun. Upah minimum kota Dumai pada tahun 2006 sebesar
+Rp 785650, pada tahun 2011 sebesar Rp 1177000, rata-rata peningkatan sebesar
+8,42% per tahun.
+Perkembangan laju pertumbuhan ekonomi (PDRB) di provinsi Riau menurut
+daerah tingkat II kabupaten/kota tahun 2006-2011 dapat dilihat pada tabel 5
+berikut ini :
+
+8
+
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+Tabel 5 : Perkembangan laju pertumbuhan ekonomi (PDRB)di provinsi
+Riau menurut daerah tingkat II kabupaten/kota tahun 2006-2011 (%)
+Kabupaten
+/Kota
+2006
+Kuantan Singingi
+8,83
+Indragiri Hulu
+7,41
+Indragiri Hilir
+7,94
+Pelalawan
+7,66
+Siak
+7,82
+Kampar
+7,71
+Rokan Hulu
+7,23
+Bengkalis
+7,69
+Rokan Hilir
+8,07
+Kepulauan Meranti
+Pekanbaru
+10,15
+Dumai
+9,34
+Riau
+8,66
+Sumber : BPS Provinsi Riau
+No
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+2007
+8,91
+7,36
+7,82
+7,20
+7,85
+7,99
+7,11
+7,87
+7,95
+7,57
+9,89
+8,87
+8,25
+
+Tahun
+2008 2009
+8,26
+6,90
+7,53
+6,99
+7,95
+7,14
+7,14
+7,02
+7,61
+7,15
+7,97
+6,86
+7,08
+5,77
+7,60
+7,09
+7,88
+7,26
+7,34
+6,59
+9,05
+8,81
+8,66
+8,41
+8,06
+6,56
+
+2010
+7,03
+7,01
+7,31
+7,17
+7,36
+7,05
+7,29
+7,14
+7,57
+7,45
+8,98
+8,60
+7,16
+
+2011
+7,32
+7,21
+7,38
+7,05
+7,46
+7,04
+7,60
+7,66
+7,68
+8,45
+9,56
+8,34
+7,63
+
+Pada tabel 5 tersebut dapat diketahui laju pertumbuhan ekonomi (PDRB) di
+provinsi Riau selama periode tahun 2006-2011 relatif menurun. Pada tahun 2006
+laju pertumbuhan ekonomi sebesar 8,66% dan pada tahun 2011 sebesar 7,36%.
+Laju pertumbuhan ekonomi daerah tingkat II di provinsi Riau selama periode
+tahun 2006-2011 juga relative menurun. Pada tahun 2006 daerah tingkat II yang
+mencapai laju pertumbuhan ekonomi provinsi Riau adalah kabupaten Kuantan
+Singingi (8,83%), kota Pekanbaru (10,15%) dan kota Dumai (9,34%). Pada tahun
+2011 daerah tingkat II yang mencapai laju pertumbuhan ekonomi diatas laju
+pertumbuhan ekonomi provinsi Riau adalah kabupaten Bengkalis (7,66%),
+kabupaten Rokan Hilir (7,68%), kabupaten Kepulauan Meranti (8,45%), kota
+Pekanbaru (9,56%) dan kota Dumai (8,34%).
+Dengan menggunakan data Indeks Pembangunan Manusia (IPM), tingkat
+kemiskinan, tingkat pengangguran terbuka , upah minimum kabupaten/kota dan
+laju pertumbuhan ekonomi (PDRB) tahun 2006-2011 menurut kabupaten/kota di
+provinsi Riau diperoleh hasil regresi linear berganda data panel pada tabel 6
+berikut ini :
+
+9
+
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+Tabel 6 : Hasil regresi linear berganda dengan IPM sebagai dependent
+variable dan tingkat kemiskinan, tingkat pengangguran, upah minimum
+kabupaten/kota dan laju pertumbuhan ekonomi sebagai
+independent variabel
+Keterangan
+Constant
+Tingkat
+kemiskinan
+Tingkat
+pengangguran
+terbuka
+Upah
+minimum
+Laju
+pertumbuhan
+ekonomi
+F statistic
+R. Square
+Adjusted
+R.
+Square
+
+Koefisien
+Regresi
+63,463
+-0,163
+
+Standar
+Error
+1,947
+0,022
+
+t statistic
+
+Sign t
+
+32,600
+-7,452
+
+0,000
+0,000
+
+-0,084
+
+0,042
+
+-1,985
+
+0,024
+
+0,005
+
+0,001
+
+6,028
+
+0,000
+
+0,953
+
+0,200
+
+4,764
+
+0,000
+
+46,979
+0,749
+0,733
+
+Berdasarkan hasil regresi tersebut persamaan linear berganda yang diuji dalam
+penelitian ini adalah sebagai berikut :
+Y = 63,463 – 0,163 x1 – 0,084 x2 + 0,005 x3 + 0,953 x4
+Y = Nilai IPM
+x1= tingkat kemiskinan (%)
+x2= tingkat pengangguran terbuka (%)
+x3= upah minimum kabupaten/kota (Rp 000)
+x4= laju pertumbuhan ekonomi (%)
+Berdasarkan angka t statistic untuk variable tingkat kemiskinan sebesar -7,452
+dengan nilai signifikansi 0,000 < 0,01 , berarti tingkat kemiskinan berpengaruh
+sangat nyata terhadap Indeks Pembangunan Manusia (IPM) dengan level of
+significance (α) 0,01. Nilai t statistic untuk variable tingkat pengangguran -1,985
+dengan nilai signifikansi 0,024 < 0,05 , berarti tingkat pengangguran berpengaruh
+nyata terhadap indeks pembangunan manusia (IPM) dengan level of significance
+(α) 0,05.Nilai t statistic untuk variable upah minimum kabupaten/kota 6,028
+dengan nilai signifikansi 0,000 < 0,01 , berarti upah minimum kabupaten/kota
+berpengaruh sangat nyata terhadap indeks pembangunan manusia (IPM) dengan
+level of significance (α) 0,01.Nilai t statistic untuk variable laju pertumbuhan
+ekonomi (PDRB) 4,764 dengan nilai signifikansi 0,000 < 0,01 , berarti laju
+pertumbuhan ekonomi (PDRB) berpengaruh sangat nyata terhadap indeks
+pembangunan manusia (IPM) dengan level of significance (α) 0,01.
+
+10
+
+JURNAL EKONOMI
+
+Volume 22, Nomor 2 Juni 2014
+
+Berdasarkan F statistic 46,979 dengan nilai signifikansi 0,000 < 0,01 berarti
+tingkat kemiskinan, tingkat pengangguran, upah minimum kabupaten/kota dan
+laju pertumbuhan ekonomi berpengaruh sangat nyata terhadap indeks
+pembangunan manusia (IPM). Koefisien determinasi (R2) bernilai 0,749 berarti
+variasi perubahan pada variable tingkat kemiskinan, tingkat pengangguran, upah
+minimum kabupaten/kota dan laju pertumbuhan ekonomi 74,90% mempengaruhi
+perubahan nilai indeks pembangunan manusia (IPM) dan 25,10% dipengaruhi
+oleh variable lain. Nilai konstanta pada persamaan regresi tersebut sebesar 63,463
+menunjukkan jika tidak ada pengaruh variable tingkat kemiskinan, tingkat
+pengangguran, upah minimum kabupaten/kota dan laju pertumbuhan ekonomi
+maka nilai IPM adalah sebesar 63,463.
+Koefisien regresi variable tingkat kemiskinan sebesar -0,163 menunjukkan
+pengaruh negative terhadap indeks pembangunan manusia (IPM). Hal ini berarti
+setiap kenaikan tingkat kemiskinan 1%, maka IPM di daerah tingkat II
+kabupaten/kota akan turun sebesar 0,163 poin dengan asumsi variable lainnya
+konstan.
+Koefisien regresi variable tingkat pengangguran sebesar -0,084 menunjukkan
+pengaruh negative terhadap indeks pembangunan manusia (IPM). Hal ini berarti
+setiap kenaikan tingkat pengangguran 1%, maka IPM di daerah tingkat II
+kabupaten/kota akan turun sebesar 0,084 poin dengan asumsi variable lainnya
+konstan.
+Koefisien regresi variable upah minimum kabupaten/kota sebesar 0,005
+menunjukkan pengaruh positif terhadap indeks pembangunan manusia (IPM).
+Hal ini berarti setiap kenaikan upah minimum kabupaten/kota Rp 1000, maka
+IPM akan meningkat sebesar 0,005 poin dengan asumsi variable lainnya konstan.
+Koefisien regresi variable laju pertumbuhan ekonomi sebesar 0,953 menunjukkan
+adanya pengaruh positif terhadap indeks pembangunan manusia (IPM). Hal ini
+berarti setiap kenaikan laju pertumbuhan ekonomi di kabupaten/kota sebesar 1%,
+maka IPM akan meningkat sebesar 0,953 poin dengan asumsi variable lainnya
+konstan.
+KESIMPULAN
+1.
+
+2.
+
+3.
+
+Tingkat kemiskinan, tingkat pengangguran, upah minimum kabupaten/kota
+dan laju pertumbuhan ekonomi berpengaruh terhadap indeks pembangunan
+manusia (IPM) di provinsi Riau.
+Tingkat kemiskinan dan tingkat pengangguran berpengaruh negative terhadap
+indeks pembangunan manusia (IPM) masing-masing sebesar -0,163 dan 0,084
+Upah minimum kabupaten/kota dan laju pertumbuhan ekonomi berpengaruh
+positif terhadap indeks pembangunan manusia (IPM), masing-masing sebesar
+0,005 dan 0,953.
+
+11
+
+JURNAL EKONOMI
+
+4.
+
+Volume 22, Nomor 2 Juni 2014
+
+Variable yang sangat besar pengaruhnya terhadap indeks pembangunan
+manusia (IPM) adalah laju pertumbuhan ekonomi. Oleh karena itu, usahausaha untuk meningkatkan laju pertumbuhan ekonomi harus dimaksimalkan
+agar nilai indeks pembangunan manusia (IPM) terus meningkat.
+
+DAFTAR PUSTAKA
+Aunur Rofiq. 2014. Pertumbuhan Ekonomi dan Kemiskinan. Kebijakan dan
+tantangan masa depan. Penerbit Republika. Jakarta
+Badan Pusat Statistik. 2007. Indeks Pembangunan Manusia 2005-2006. JakartaIndonesia
+Badan Pusat Statistik. 2009. Indeks Pembangunan Manusia 2007-2008. JakartaIndonesia
+Badan Pusat Statistik. 2012. Indeks Pembangunan Manusia 2010-2011. JakartaIndonesia
+Badan Pusat Statistik. 2007. Statistik Pengangguran 2001-2006. Jakarta-Indonesia
+Badan Pusat Statistik. 2009. Analisis Kemiskinan, Ketenagakerjaan dan Distribusi
+Pendapatan: Jakarta. Indonesia
+BAPPEDA Provinsi Riau 2010. Profil Daerah Provinsi Riau Tahun 2010.
+Pekanbaru
+BAPPEDA Provinsi Riau 2011. Analisis Statistik Perencanaan Pembangunan.
+Pekanbaru, Riau
+BAPPEDA Provinsi Riau 2011.INFO – EKS (Informasi Eksekutif). Pekanbaru,
+Riau
+BAPPEDA Provinsi Riau 2011.Data annual Provinsi Riau 2011. Pekanbaru, Riau
+BPS. Provinsi Riau 2013. Pendapatan Regional Kabupaten/Kota se-Provinnsi
+Riau menurut lapangan usaha 2008-2012.Pekanbaru. Riau
+BPS. Provinsi Riau 2012. Riau dalam angka 2012.Pekanbaru. Riau
+BPS. Provinsi Riau 2013. Riau dalam angka 2013.Pekanbaru. Riau
+
+12
+
+

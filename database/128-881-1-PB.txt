@@ -1,0 +1,540 @@
+Jurnal Teknologi dan Sistem Informasi (JTSI)
+Vol. 1, No. 1, Juni 2020, 8 - 14
+available online at: http://jim.teknokrat.ac.id/index.php/sisteminformasi
+
+SISTEM INFORMASI MANAJEMEN BERITA BERBASIS WEB
+Mustika Intan Suri1, Ajeng Savitri Puspaningrum2
+Sistem Informasi, Fakultas Teknik dan Ilmu Komputer, Universitas Teknokrat Indonesia1
+Teknik Komputer, Fakultas Teknik dan Ilmu Komputer, Universitas Teknokrat Indonesia2
+mustikaintan896@gmail.com1, ajeng.savitri@teknokrat.ac.id2
+Received: (9 Mei 2020) Accepted: (15 Juni 2020) Published: (22 Juni 2020)
+
+Abstract
+Radio certainly plays an important role in conveying information to the listening community.
+One of radio owned by Indonesian Republic (RI) is Radio Republik Indonesia (RRI). RRI uses
+email to send news today but is ineffective, because the news from the reporter must be
+downloaded. The process is also very ineffective in terms of time, because it will increase the
+time of sending news, so the news delivery system used needs to be improved. In addition, the
+management of news data that is broadcast for later use as a report is still done conventionally
+/ manually, which is recorded in a book, it is uplifting the ineffectiveness and inefficiency. This
+research proposes a news management information system as an effective solution for news
+management that developed using the Prototype method and Unified Modeling Language
+(UML). The resulf of Blackbox Testing shows that the News Management Information System
+that developed get 100% score of feasibility to be implement.
+Keywords: RRI, Managemen Information System, News
+
+Abstrak
+Radio tentu saja memainkan peran penting dalam menyampaikan informasi kepada komunitas
+pendengar. Salah satu radio yang dimiliki oleh Republik Indonesia (RI) adalah Radio Republik
+Indonesia (RRI). RRI merupakan radio yang mempunyai posisi yang strategis, sebab realitasnya
+RRI masih merupakan satu-satunya jaringan nasional dan mampu menjangkau hampir seluruh
+wilayah Indonesia. Saat ini, RRI masih menggunakan email untuk mengirim berita tetapi tidak
+efektif, karena berita dari reporter harus diunduh terlebih dahulu. Penggunaan email juga sangat
+tidak efektif dari segi waktu, karena akan waktu pengiriman berita juga membutuhkan waktu,
+untuk itu sistem pengiriman berita yang digunakan perlu ditingkatkan. Selain itu, pengelolaan
+data berita yang disiarkan untuk digunakan sebagai laporan masih dilakukan secara konvensional
+/manual, dicatat dalam buku, menambah ketidakefektifan dan inefisiensi. Penelitian ini
+mengusulkan sistem informasi manajemen berita sebagai solusi efektif untuk manajemen berita
+yang dikembangkan menggunakan metode Prototipe dan Unified Modeling Language (UML).
+Hasil pengujian blackbox menunjukkan bahwa sistem informasi manajemen berita yang
+dikembangkan mendapatkan nilai kelayakan 100% untuk diimplementasikan.
+Kata Kunci: RRI, Sistem Informasi Manajemen, Berita
+
+To cite this article:
+Suri, Puspaningrum. (2020). Sistem Informasi Manajemen Berita Berbasis Web. Jurnal Teknologi dan Sistem Informasi, Vol (1), 8 - 14.
+
+mampu menjangkau hampir seluruh wilayah
+Indonesia. Menurut [1] Radio saat ini tidak
+didengarkan melalui tape saja, tapi kini pendengar
+lebih senang menggunakan teknologi internet atau
+aplikasi radio lokal di handphone yang lebih
+
+1. Pendahuluan
+RRI merupakan radio yang mempunyai posisi
+yang strategis, sebab realitasnya RRI masih
+merupakan satu-satunya jaringan nasional dan
+
+8
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 1, 8 - 14
+
+fleksibel, ini menjadi penyebab meningkatnya
+pendengar dari kalangan usia 34 tahun ke bawah,
+yaitu usia 10-14 tahun (10%) dan usia 15-34 tahun
+(38%) dari total keseluruhan pendengar radio, dapat
+diperoleh kesimpulan bahwa eksistensi radio di era
+digital semakin diakui masyarakat. Peran RRI
+membantu
+menyampaikan
+program-program
+pemerintah kepada masyarakat, menjaga stabilitas
+NKRI dengan memberikan informasi yang mendidik
+dan cerdas mengenai tema-tema kebangsaan,
+nasionalisme, pendidikan, dan kebudayaan. Untuk
+mendukung peran tersebut dibutuhkan tim reporter.
+Saat ini RRI Lampung mempunyai 11 reporter yang
+bertugas mencari berita di wilayah kota Bandar
+Lampung.
+Pengiriman berita oleh reporter kepada
+koordinator liputan/redaktur yang berlangsung
+selama ini membutuhkan proses yang berbelit-belit.
+Proses diawali dengan pengiriman berita kepada
+koordinator liputan/redaktur melalui email,
+kemudian koordinator liputan/redaktur memeriksa
+berita tersebut, jika tidak disetujui maka reporter
+mencari berita lain, jika berita disetuji maka reporter
+akan datang ke kantor untuk membuat berita. Berita
+yang disiarkan di radio tentunya berbeda dengan
+koran, televisi atau media massa lainnya karena
+bersifat audiotori artinya hanya dapat didengar.
+Pembuatan berita di radio, seorang reporter harus
+memasukan suara narasumber, membuat rekaman
+audio kemudian merubah berita dalam suatu
+kemasan yang siap disiarkan dan didengarkan oleh
+masyarakat.
+Penggunaan email untuk mengirim berita saat
+ini masih kurang efektif, dikarenakan harus terlebih
+dahulu mengunduh kiriman berita dari reporter.
+Proses tersebut juga sangat tidak efektif, dikarenakan
+akan menambah waktu pengiriman berita, sehingga
+sistem pengiriman berita yang berjalan ini sangat
+perlu ditingkatkan. Selain itu pengelolaan data berita
+yang disiarkan untuk nantinya dijadikan sebagai
+laporan bulanan
+masih dilakukan
+secara
+konvensional/manual, yaitu dicatat dalam buku, hal
+tersebut tentunya semakin tidak efektif dan efisien.
+Selain itu dari hasil wawancara, jika reporter
+yang ditugaskan diluar daerah Bandar Lampung
+untuk mengirim berita kepada koordinator
+liputan/redaktur, maka dibutuhkan sistem berbasis
+web, karena sistem berbasis web ini dapat dijalankan
+dari jarak jauh dengan menggunakan internet.
+Menurut O’Brien pada [2] internet telah berkembang
+dengan pesat pada berbagai bidang dengan
+penggunaan yang luas di berbagai negara.
+Karenanya sistem yang terkoneksi pada jadingan
+internet tentu akan memudahkan penyebaran
+informasi
+seperti
+sistem
+berbasis
+web.
+
+Pengembangan sistem berbasis web dilakukan
+dengan alasan penggunaannya lebih luas yaitu dapat
+menggunakan perangkat smartphone ataupun laptop
+sehingga akan lebih memudahkan reporter saat
+mereka ditugaskan di luar kota. Pemilihan sistem
+berbasis web juga dikarenakan web dapat membantu
+dalam menyimpan dan menampilkan dokumendokumen yang digunakan pada pengolahan berita
+seperti data teks, gambar, audio, vidio atau
+gabungannya yang disediakan melalui jaringan
+internet [3].
+Berdasarkan
+permasalahan
+tersebut,
+penelitian ini mengusulkan sebuah sistem informasi
+manajemen berita dimana menurut Rahmawati pada
+[4] dinyatakan bahwa sistem informasi digunakan
+untuk mengumpulkan, mengolah, menyimpan serta
+menyebarkan informasi sebagai pendukung suatu
+organisasi dalam mengambil keputusan. Sistem yang
+dikembangkan dalam penelitian ini adalah berupa
+sebuah sistem berbasis web yang dikembangkan
+sebagai solusi manajamen berita yang efektif, yang
+dapat digunakan untuk mengirim berita oleh
+reporter, memeriksa berita oleh koordinator
+liputan/redaktur, kemudian digunakan untuk
+menyimpan serta mengelola data berita oleh staff
+liputan berita dan dokumen (libradok) yang nantinya
+akan dijadikan laporan bulanan serta memastikan
+bahwa aplikasi tersebut dapat diimplementasikan
+dengan melakukan pengujian fungsionalitas
+terhadap sistem di kantor LPP RRI Bandar Lampung.
+2. Penelitian Terdahulu
+Penelitian
+terkait
+Sistem
+Informasi
+Manajemen Berita telah dilakukan [5] yang
+dilakukan di kantor redaksi koran wawasan. Pada
+penelitian tersebut penggunaan email dirasa kurang
+efektif, dikarenakan harus mengunduh kiriman berita
+dari server email. Pengunduhan kiriman berita pada
+pelaksanaanya memerlukan petugas khusus. Proses
+tersebut juga sangat tidak efektif dalam hal waktu,
+dikarenakan akan menambah panjang proses
+pengiriman berita.
+Sedangkan penelitian [6] yang dilakukan di
+Radio Dreamers, dijelaskan bahwa radio sebagai
+media komunikasi massa perlu melakukan
+perubahan seiring perkembangan teknologi internet,
+menjadi radio berbasis web seperti radio streaming
+atau biasa disebut radio online. Penelitian ini
+dilakukan untuk mengetahui pengelolahan redaksi
+yang memiliki informasi untuk radio, portal berita
+anak muda, dan sosial media.
+Selanjutnya, penelitian [7] dikembangkan
+suatu Sistem Informasi Manajemen Pengelolaan
+Berita pada RRI Surabaya Bidang Programa 1
+
+9
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 1, 8 - 14
+
+(Pro1). Penelitian ini dilakukan untuk menghasilkan
+sistem informasi yang dapat mengelola berita,
+penilaian kinerja dan peningkatan prestasi reporter.
+Beberapa pengembangan sistem informasi
+berbasis web di provinsi lampung juga telah
+dilakukan pada berbagai bidang seperti kesehatan
+[3], kelistrikan [8], serta pelayanan publik [4]
+sehingga membuka peluang yang besar untuk
+mengembangkan sistem informasi berbasis web lain
+seperti yang diusulkan pada penelitian ini.
+Berdasarkan dari penelitian terdahulu dapat
+disimpulkan bahwa pembuatan berita oleh reporter
+secara online melalui website menggunakan email
+mengalami keterlambatan pemuatan berita. Belum
+ada penelitian yang membangun proses manajemen
+berita yang berkaitan dengan proses pengelolaan dan
+penyimpanan data berita bagi RRI Lampung. Pada
+penelitian ini maka dibuat sebuah sistem informasi
+manajemen berita berbasis web yang dapat
+mengelola dan menyimpan berita dengan
+menggunakan metode pengembangan prototyping.
+
+berita yang berguna bagi setiap tingkatan manajerial
+dan masyarakat.
+4. Metode
+Penelitian
+ini
+menggunakan
+metode
+pengembangan prototipe yang menurut [12]
+tahapannya dapat dilihat pada gambar 1, sebagai
+berikut:
+
+Gambar 1. Tahapan Metode Prototipe
+
+a. Komunikasi
+3. Sistem Informasi Manajemen Berita
+
+Komunikasi adalah tahapan awal dalam
+perencanaan perancangan sistem yang bertujuan
+untuk mendapatkan data dan spesifikasi untuk
+melakukan analisis kebutuhan pengguna dan sistem.
+Tahap komunikasi adalah aktivitas membangun
+komunikasi
+dengan
+pengguna
+dengan
+mewawancarai pegawai bidang pemberitaan terkait
+yaitu kabid pemberitaan, staff dokumentasi, reporter
+dan redaktur.
+Metode pengumpulan data yang digunakan
+pada tahap ini adalah:
+1) Observasi, dilakukan dengan mengamati sistem
+manajemen berita yang berjalan yaitu
+pembuatan berita sampai menjadi laporan akhir
+yang berupa penyampaian informasi laporan
+klasifikasi berita, kontribusi berita, dan agenda
+setting bulanan
+2) Wawancara, dilakukan kepada kepala bidang
+pemberitaan, pegawai administrasi tentang
+perencanaan perancangan dan implementasi
+sistem informasi manajemen berita untuk
+mengetahui kebutuhan serta kelayakan sistem
+yang akan dirancang
+3) Studi literatur.
+
+Menurut [9], Sistem informasi manajemen
+adalah sistem informasi yang digunakan untuk
+menyajikan informasi yang digunakan sebagai
+pendukung operasi manajemen dan pengambilan
+keputusan dalam suatu organisasi. Sedangkan [10]
+menyatakan Sistem informasi manajemen (SIM)
+merupakan penerapan sistem informasi di dalam
+organisasi untuk mendukung informasi-informasi
+yang dibutuhkan oleh semua tingkatan manajemen.
+[11] menyatakan bahwa “Manajemen
+Redaksional bisa dibilang adalah sebuah metode
+dalam mengelola suatu berita dengan memanfaatkan
+beragam sumber daya yang dimiliki organisasi
+redaksi (news department)”. Redaksi membawahi
+semua kegiatan yang berhubungan dengan produk
+yaitu berita, mulai dari perencanaan program,
+persiapan liputan, pengolahan data, pencarian berita,
+sampai berita dapat dinikmati oleh pembaca.
+Didalam manajemen redaksional permasalahan
+utamanya adalah bagaimana menggabungkan
+sumber daya informasi, sumber daya manusia,
+sumber daya teknologi, dan sumber daya lainnya.
+Jika semuanya dapat disatukan dengan baik maka
+tujuan yang ingin dicapai oleh organisasi akan lebih
+mudah dicapai.
+Berdasarkan definisi diatas, sistem informasi
+manajemen berita dapat dinyatakan sebagai suatu
+sistem informasi yang bertanggung jawab untuk
+mengumpulkan dan mengelola data dengan
+memanfaatkan beragam sumber daya yang dimiliki
+organisasi redaksi (news department) menjadi suatu
+
+b. Perancangan Prototype
+Perancangan merupakan proses bertahap yang
+berfokus pada empat bagian penting, yaitu: struktur
+data, arsitektur, detail prosedur, dan antar muka
+pemakai. Sistem yang akan dikembangkan dirancang
+menggunakan UML. Menurut Sukamto dan
+Shalahuddin pada [13] UML dapat digunakan
+dengan tidak terbatas pada metodologi tertentu
+
+10
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 1, 8 - 14
+
+sehingga tetap dapat digunakan pada metode
+pengembangan prototipe, selain itu UML juga
+digunakan karena pada penilitian ini menggunakan
+pemrograman berorientasi objek. Gambar 2 berikut
+adalah usecase rancangan sistem yang akan
+dibangun.
+
+Gambar 2. Usecase Sistem
+
+Sedangkan Gambar 3 s.d 5 berikut menunjukkan
+diagram aktifitas sistem bagi pengguna.
+
+Gambar 4. Activity Diagram Staff
+
+Gambar 3. Activity Diagram Redaktur
+
+Gambar 5. Activity Diagram Penyiar
+
+11
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 1, 8 - 14
+
+c. Deployment
+Rancangan prototipe akan diimplementasikan dengan mengunakan bahasa pemrograman
+PHP, My SQL dan Adobe Dreamweaver CS6.
+Selanjutnya user akan mengevaluasi apakah
+sistem yang sudah jadi sesuai dengan yang
+diharapkan atau tidak mneggunakan pengujian
+Blackbox. Setelah sesuai dengan yang diharapkan
+perangkat lunak yang telah diuji dan diterima oleh
+pelanggan siap untuk digunakan.
+
+Gambar 9. Menu Grafik Klasifikasi Berita
+
+5. Hasil dan Pembahasan
+Gambar 6 s.d 11 berikut adalah beberapa
+tampilan hasil implementasi rancangan Sistem
+Informasi Manajemen Berita berbasis Web yang
+telah dibangun.
+Gambar 10. Menu Utama Penyiar
+
+Gambar 6. Menu Login
+Gambar 11. Menu Cetak Laporan Klasifikasi
+Berita
+Setelah
+implementasi
+dilakukan
+tahap
+selanjutnya adalah pengujian yang dilakukan
+menggunakan metode
+Blackbox. Pengujian
+dilakukan kepada:
+a. 6 responden Reporter dengan 25 item pertanyaan
+b. 3 responden Redaktur dengan 10 item pertanyaan
+c. 4 responden Penyiar dengan 8 item pertanyaan
+d. 1 responden Staff Dokumentasi dengan 45 item
+pertanyaan
+
+Gambar 7. Menu Tambah Berita
+
+Formula (1) merupakan rumus perhitungan
+untuk pengujian yang telah dilakukan berdasarkan
+metode analisis deskriptif.
+𝑆𝑘𝑜𝑟 𝑎𝑘𝑡𝑢𝑎𝑙
+
+% Skor = 𝑆𝑘𝑜𝑟 𝑖𝑑𝑒𝑎𝑙 𝑥 100%
+
+Gambar 8. Menu Data Berita
+
+(1)
+
+Dengan keterangan sebagai berikut:
+Skor Aktual : Jawaban diterima seluruh responden
+Skor Ideal : Total jumlah butir soal yang telah
+diajukan kepada responden
+Nilai presentase menurut Arikunto [14] adalah
+kriteria range perhitungan hasil pengujian yang dapat
+ditunjukkan pada tabel 1.
+
+12
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 1, 8 - 14
+
+Tabel 1. Kriteria Range Perhitungan Hasil Pengujian
+Range
+Keterangan
+90-100
+50-79
+<50
+
+2.
+
+Layak
+Perbaiki
+Tidak Layak
+
+Untuk efektifitas dan efisiensi penggunaan
+sistem sebaiknya RRI dapat meningkatkan
+spesifikasi perangkat keras yang digunakan sebagai
+web server, mengingat kebutuhan dan pengiriman
+berita yang rutin dilakukan, sehingga dibutuhkan
+perangkat keras yang layak digunakan untuk web
+server. Selain itu, sistem informasi manajemen berita
+berbasis web ini dapat dikembangkan lebih lanjut
+dengan menambahkan fitur komunikasi (chatting)
+untuk berkomunikasi sesama pengguna sistem.
+
+Hasil pengujian terhadap responden menghasilkan
+jawaban diterima sebanyak 257 butir dan ditolak 0,
+sehingga dapat dihitung :
+
+Hasil =
+
+Hasil pengujian blackbox yang dilakukan
+kepada responden mendapatkan hasil 100%
+fungsi sistem dinyatakan Layak digunakan.
+
+257
+𝑥 100%
+257
+
+Berdasarkan hasil perhitungan diatas diperoleh
+hasil pengujian sebesar 100% sehingga dapat
+dikatakan Sistem Berhasil dan Layak digunakan.
+Sistem informasi manajemen ini dapat
+membantu reporter dalam proses pengiriman berita.
+Pengiriman berita melalui sistem informasi
+manajemen berita berbasis web, secara otomatis
+akan menuju halaman redaktur, kemudian redaktur
+dapat memberi notifikasi persetujuan/ketidaksetujuan berita yang sudah dikirim oleh reporter.
+Selain itu dengan adanya sistem informasi
+manajemen berita berbasis web ini pengiriman berita
+dapat membantu reporter dalam melakukan
+pengiriman berita dan pembuatan berita, sehingga
+berita terbaru dan aktual dapat segera disampaikan
+kepada masyarakat pendengar.
+Sistem ini juga memudahkan redaktur dalam
+pensortiran
+berita-berita
+dan
+memudahkan
+pengkoreksian berita serta dalam pengunduhan
+berita kiriman reporter agar dapat segera
+disampaikan kepada masyarakat pendengar,
+sehingga diharapkan dapat meningkatkan eksistensi
+perusahaan. Selain itu, sistem ini memudahkan staff
+dokumentasi dalam pengelolahan data berita yang
+akan dijadikan laporan klasifikasi, kontribusi dan
+agenda setting dengan adanya perhitungan jumlah
+klasifikasi berdasarkan wilayah cangkupan secara
+otomatis oleh sistem, dan perhitungan jumlah
+kontribusi berita yang telah dibuat oleh reporter.Staff
+dokumen tidak perlu lagi menghitung manual jumlah
+klasifikasi dan jumlah kontribusi berita, dan tentunya
+meminimalisir penggunaan buku besar yang
+semakin bertambah banyak.
+
+Daftar Pustaka
+[1] A. R. Chrisari and M. M. Royan, “Eksistensi
+Radio Swasta Di Jember – Jawa Timur Pada
+Era Digital,” vol. 2017, pp. 27–28, 2017.
+[2] A. Wantoro, “Prototype Aplikasi Berbasis Web
+Sebagai Media Informasi Kehilangan Barang,”
+J. Teknoinfo, vol. 12, no. 1, p. 11, 2018, doi:
+10.33365/jti.v12i1.39.
+[3] M. Destiningrum and Q. J. Adrian, “Sistem
+Informasi Penjadwalan Dokter Berbassis Web
+Dengan Menggunakan Framework Codeigniter
+(Studi Kasus: Rumah Sakit Yukum Medical
+Centre),” J. Teknoinfo, vol. 11, no. 2, p. 30,
+2017, doi: 10.33365/jti.v11i2.24.
+[4] M. Melinda, R. I. Borman, and E. R. Susanto,
+“Rancang Bangun Sistem Informasi Publik
+Berbasis Web (Studi Kasus : Desa Durian
+Kecamatan Padang Cermin Kabupaten
+Pesawaran),” J. Tekno Kompak, vol. 11, no. 1,
+p. 1, 2018, doi: 10.33365/jtk.v11i1.63.
+[5] I. P. Setiawan and N. Miyono, “Perancangan
+Sistem Informasi Manajemen Berita Berbasis
+Web ( Studi Kasus Kantor Redaksi Koran
+Wawasan ),” vol. 2013, pp. 9–16, 2013.
+[6] D. Kusumawati and Syaifuddin, “Manajemen
+Konten Radio Berbasis Web,” vol. 3, no. 2, pp.
+54–59, 2016.
+[7] Y. O. T. Satriya, “Sistem Informasi Manajemen
+Pengelolaan Berita Dan Prestasi Kerja Reporter
+Radio Republik Indonesia Surabaya Bidang
+Programa 1 Tugas Akhir,” 2017.
+[8] A. Amarudin and S. Silviana, “Sistem
+Informasi Pemasangan Listrik Baru Berbasis
+Web Pada PT Chaputra Buana Madani Bandar
+Jaya Lampung Tengah,” J. Tekno Kompak, vol.
+12,
+no.
+1,
+p.
+10,
+2018,
+doi:
+10.33365/jtk.v12i1.65.
+
+6. Kesimpulan
+Berdasarkan hasil dan pembahasan sistem
+informasi manajemen berita berbasis web, maka
+dapat disimpulkan sebagai berikut:
+1.
+Sistem informasi manajemen berita berbasis
+web yang dikembangkan dapat mempermudah
+reporter, redaktur, penyiar, dan staff dalam
+pengolahan data berita.
+
+13
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 1, 8 - 14
+
+[9] A. Kadir, Pengenalan Sistem Informasi.
+Yogyakarta: Penerbit Andi, 2014.
+[10] T. Sutabri, Sistem Informasi Manajemen.
+Yogyakarta: Penerbit Andi, 2016.
+[11] L.
+Intaniar,
+“Dinamika
+Manajemen
+Pemberitaan LPP RRI Mataram,” Universitas
+Islam Indonesia, 2017.
+[12] R. S. Pressman and B. R. Maxim, Software
+Engineering A Practioner’s Approach, 8th ed.
+New Work: Mc Graw – Hill Education, 2015.
+[13] E. R. Susanto and F. Ramadhan, “Rancang
+Bangun Aplikasi Berbasis Web Perizinan
+Praktik Tenaga Kesehatan Menggunakan
+Framework Codeigniter Pada Dinas Kesehatan
+Kota Metro,” J. Tekno Kompak, vol. 11, no. 2,
+p. 55, 2017, doi: 10.33365/jtk.v11i2.173.
+[14] S. Arikunto, Prosedur Penelitian : Suatu
+Pendekatan Praktik. Jakarta: Rineka CIpta,
+2013.
+
+14
+
+4
+
+

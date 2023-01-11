@@ -1,0 +1,851 @@
+ARTERI : Jurnal Ilmu Kesehatan
+Vol. 1, No. 3, Mei 2020, hlm. 233-240
+
+p-ISSN 2721-4516
+e-ISSN 2715-4432
+
+Hubungan Jumlah Viral Load Dengan Kejadian TBC Pada Pasien HIV/AIDS
+Yang Mendapatkan Terapi ARV
+1)
+
+Andri Baedowi1*, Zulfian2, Hetti Rusmini3, Toni Prasetia4
+Program Studi Kedokteran Fakultas Kedokteran Universitas Malahayati, andribaedowi26@gmail.com
+2)
+Departemen Patologi Klinik Rumah Sakit Pertamina Bintang Amin
+3)
+Departemen Farmakologi Fakultas Kedokteran Universitas Malahayati, hettirusmini@gmail.com
+4)
+Departemen Penyakit Dalam Rumah Sakit Pertamina Bintang Amin
+
+ABSTRAK
+Viral Load (VL) merupakan suatu indikator langsung dari keseluruhan jumlah sel yang diproduksi oleh virus pada
+seseorang yang terinfeksi HIV. TB merupakan tantangan bagi pengendalian Acquired Immunodeficiency Syndrome
+(AIDS) karena merupakan infeksi oportunistik terbanyak pada orang dengan HIV/AIDS (ODHA). TB dapat
+meningkatkan progresvitas HIV dan meningkatkan risiko kematian bagi penderita HIV. Kondisi imunosupresi dapat
+meningkatkan kemungkinan kuman TB yang dorman mengalami reaktivasi. Patogenesis infeksi TB pada pasien HIV
+berkaitan langsung dengan menurunnya sistem imun, khususnya limfosit T CD4. Infeksi HIV akan menyebabkan
+menurunnya limfosit T CD4 sehingga menurunkan respon imunologi terhadap Mycobacterium tuberculosis. Hal ini
+akan mengakibatkan reaktivasi dari masa laten TB menjadi infeksi aktif. Penelitian ini bertujuan untuk mengetahui
+hubungan jumlah viral load dengan kejadian tbc pada pasien HIV/AIDS yang mendapatkan terapi ARV di RSUD Dr.
+H. Abdul Moeloek Provinsi Lampung Tahun 2019. Desain penelitian ini menggunakan pendekatan analatik
+observasional dengan desain cross sectional. Data yang diambil merupakan data sekunder dari rekam medik pasien
+HIV/AIDS di RSUD Dr. H. Abdul Moeloek Provinsi Lampung Tahun 2019. Teknik pengambilan sampel pada
+penelitian ini menggunakan metode purposive sampling dan didapatkan jumlah sampel sebanyak 196 orang. Analisis
+data menggunakan uji Chi Square. Terdapat hubungan yang signifikan antara jumlah viral load pada pasien
+HIV/AIDS dengan kejadian TBC (p-value=0.004). Dari analisis di atas didapatkan nilai OR = 2.52 yang menyatakan
+bahwa pasien yang memiliki viral load ≥ 10.000 memiliki resiko 2.52 kali untuk mengalami TBC. Jumlah Viral Load
+yang tinggi dapat menyebabkan terjadinya imunosupresi pada host dan meningkatkan virulensi kuman TB.
+Kata Kunci : Viral load, TBC, HIV/AIDS
+
+ABSTRACT
+Viral Load (VL) is a direct indicator of the total amount of cells produced by the virus in a person infected with HIV.
+TB becomes a challenge for controlling Acquired Immunodeficiency Syndrome (AIDS) because it is the most
+opportunistic infection in people living with HIV / AIDS (PLWHA). TB can increase HIV progression and the risk of
+death for people living with HIV. Immunosuppression can increase the likelihood that dormant TB germs reactivate.
+The pathogenesis of TB infection in HIV patients is directly related to the decline in the immune system, specifically
+CD4 T lymphocytes. HIV infection will cause a decrease in CD4 T lymphocytes thereby reducing the immunological
+response to Mycobacterium tuberculosis. This will result in reactivation from the latent period of TB to an active
+infection. This study conducted to discover the relationship between the amount of viral load and the tuberculosis
+case in HIV / AIDS patients that undertake ARV therapy at RSUD Dr. H. Abdul Moeloek Lampung Province in 2019.
+Observational analytic approach with cross sectional design was used in this present study.
+The data taken is secondary data from the medical record of HIV / AIDS patients in Dr. H. Abdul Moeloek Lampung
+Province in 2019. The sampling technique used was a purposive sampling method and it was obtained a total sample
+of 196 people. The data was analyzed through Chi Square test. There was a significant relationship between the
+amount of viral load in HIV / AIDS patients and the tuberculosis case (p-value = 0.004). From the analysis above, it
+was obtained OR value = 2.52 which represents that patients who have a viral load ≥ 10,000 have a risk of 2.52 times
+to encounter TB. A high amount of Viral Load can cause immunosuppression in the host and increase the virulence
+of TB microbes.
+Keywords : Viral Load, TBC, HIV/AIDS
+
+*Korespondensi Author : Andri Baedowi, Universitas Malahayati, andribaedowi26@gmail.com
+089515471441.
+PUSLITBANG Sinergis Asa Professional, Jember
+
+233
+
+ARTERI : Jurnal Ilmu Kesehatan
+Vol. 1, No. 3, Mei 2020, hlm. 247-254
+
+p-ISSN 2721-4516
+e-ISSN 2715-4432
+
+1. PENDAHULUAN
+AIDS (Acquired Immunodeficiency
+Syndrome) merupakan gejala atau penyakit yang
+disebabkan oleh menurunnya kekebalan tubuh
+akibat infeksi oleh virus HIV (Human
+Immunodeficiency Virus) yang termasuk famili
+retroviridae, AIDS merupakan tahap akhir dari
+infeksi HIV.1
+United
+Nations
+Programme
+on
+HIV/AIDS (UNAIDS) melaporkan jumlah orang
+hidup dengan HIV pada tahun 2010 sebanyak
+33.3 juta dan meningkat pada tahun 2013 menjadi
+35 juta sedangkan pada 2015 meningkat menjadi
+36,7 juta.2
+Di Indonesia, HIV/AIDS pertama kali
+dilaporkan di Provinsi Bali pada tahun 1987.
+Hingga saat ini HIV/AIDS telah menyebar di 407
+dari 507 kabupaten/kota di seluruh provinsi di
+Indonesia.3. Berdasarkan laporan Kementerian
+Kesehatan Republik Indonesia jumlah kumulatif
+infeksi HIV yang dilaporkan dari tahun 1987
+sampai Desember 2017 sebanyak 280.623 dan
+AIDS 102.667.4
+Di Provinsi Lampung kasus HIV / AIDS
+dilaporkan pertama kali pada tahun 2002 dari
+salah satu Kabupaten di Provinsi Lampung.
+Berdasarkan Laporan Direktorat Jenderal
+Pengendalian Dan Pencegahan Penyakit oleh
+Kementerian Kesehatan Republik Indonesia,
+(2017), jumlah kasus HIV/AIDS yang dilaporkan
+dari seluruh Provinsi Lampung sampai dengan
+Desember 2017 yaitu sebanyak 749 kasus untuk
+AIDS dan sebanyak 580 orang untuk kasus HIV.4
+Viral Load (VL) merupakan suatu
+indikator langsung dari keseluruhan jumlah sel
+yang diproduksi oleh virus pada seseorang yang
+terinfeksi HIV. Pengukuran HIV RNA di dalam
+darah dapat secara langsung mengukur besarnya
+replikasi virus dan memiliki peran yang penting
+dalam perjalanan infeksi HIV.5
+Pada pertengahan tahun 1990-an, sejak
+ditemukan teknologi baru untuk mengukur secara
+kuantitatif HIV RNA di dalam plasma atau
+dikenal sebagai viral load HIV, pemeriksaan
+viral load mulai rutin dilakukan oleh para klinisi
+sebagai prediktor yang lebih baik daripada
+
+pemeriksaan sel limfosit T-CD4 untuk
+memprediksi progresifitas perjalanan infeksi
+HIV. Pemeriksaan viral load HIV juga sering
+digunakan untuk menentukan efektivitas relatif
+dari obat antiretroviral pada beberapa uji klinis.6
+Evaluasi respon terapi ARV dapat dinilai
+berdasarkan perbaikan klinis, imunologi dan
+virologi. Panduan kemenkes RI dalam
+monitoring klinis dilakukan pada minggu ke 2, 4,
+12 dan 24 minggu sejak memulai terapi ARV.
+Monitoring perbaikan imunologi dan virologi
+umumnya dilakukan setelah 6 bulan dan dapat
+dilakukan lebih sering apabila ada indikasi klinis.
+Pada negara-negara maju dan beberapa negara
+berkembang, monitoring virologi berupa
+pemeriksaan viral load setelah 3 hingga 6 bulan
+terapi sudah menjadi standar pelayanan. Hal
+tersebut didukung banyak penelitian bahwa
+monitoring virologi dapat membuktikan lebih
+cepat dan tepat keberhasilan atau kegagalan
+terapi dibanding monitoring imunologi dan klinis
+saja.7
+Jumlah Viral Load yang tinggi dapat
+menyebabkan terjadinya imunosupresi pada host
+dan meningkatkan virulensi kuman TB. Kondisi
+imunosupresi dapat meningkatkan kemungkinan
+kuman TB yang dorman mengalami reaktivasi.8
+Tuberkulosis adalah penyakit menular
+yang disebabkan oleh kuman berbentuk batang,
+Mycobacterium tuberculosis. Kuman ini
+biasanya menyerang paru-paru (TB paru), tetapi
+dapat menyerang organ-organ tubuh lainnya (TB
+ekstra paru). Tuberkulosis merupakan infeksi
+oportunistik tersering pada orang dengan
+HIV/AIDS (ODHA) di Indonesia.9
+Presentase kasus koinfeksi TB-HIV
+tertinggi terdapat di Afrika (58%) namun angka
+morbiditas dan mortalitas akibat penyakit
+koinfeksi dan oportunistik paling banyak di Asia
+Tenggara. Situasi di Asia berpotensi untuk
+menyebabkan peningkatan koinfeksi ini karena
+beberapa alasan yaitu karena prevalensi TB laten
+di Asia lebih tinggi dibandingkan Afrika, 40-45%
+di Asia dan 30% di Afrika.10
+
+PUSLITBANG Sinergis Asa Professional, Jember
+
+234
+
+ARTERI : Jurnal Ilmu Kesehatan
+Vol. 1, No. 3, Mei 2020, hlm. 247-254
+
+p-ISSN 2721-4516
+e-ISSN 2715-4432
+
+Pada tahun 2008, ditemukan 1,4 juta
+kasus baru TB di antara orang dengan infeksi
+HIV dan TBC menyumbang 23% dari kematian
+terkait AIDS. Pada tahun 2012 WHO
+menyebutkan Case Fatality Rate (CFR) akibat
+TBC pada pasien HIV sebesar 0,49%, namun
+peningkatan jumlah kasus koinfeksi TB-HIV
+sebesar 13% dengan angka mortalitas mencapai
+3,2%. Sedangkan kasus Tuberkulosis pada pasien
+HIV/AIDS di wilayah Asia Tenggara tahun 2013
+mencapai 45%.11
+Estimasi pasien HIV di Indonesia yang
+terinfeksi Tuberkulosis sebesar 49% pada tahun
+2012.12 Data bulan Januari hingga September
+2012 Kemenkes mencatat jumlah kasus
+Tuberkulosis baru pada pasien HIV mencapai
+11.835 kasus (49%) berupa Tuberkulosis Paru
+yang mengalami peningkatan sebesar 2,1% pada
+tahun 2012 menjadi 3,5% pada triwulan 3 tahun
+2014.13
+Menurut penelitian Dikromo dkk (2011)
+menyebutkan bahwa TBC pada HIV/AIDS
+sebesar 27,7 %. Sepertiga penderita HIV/AIDS
+mengalami infeksi oportunistik, Pada kasus HIV
+dan TBC di negara berkembang, TBC merupakan
+penyebab kematian utama akibat infeksi
+oportunistik.14.
+Patogenesis infeksi TB pada pasien HIV
+berkaitan langsung dengan menurunnya sistem
+imun, khususnya limfosit T CD4. Infeksi HIV
+akan menyebabkan menurunnya limfosit T CD4
+sehingga menurunkan respon imunologi terhadap
+Mycobacterium tuberculosis. Hal ini akan
+mengakibatkan reaktivasi dari masa laten TB
+menjadi infeksi aktif. Selain itu, keadaan ini
+menyebabkan progresi cepat dari infeksi TB pada
+pasien HIV.15
+Rumusan masalah penelitian ini adalah
+belum diketahuinya hubungan jumlah viral load
+dengan kejadian TBC pada pasien HIV/AIDS
+yang mendapatkan terapi ARV di RSUD Dr. H.
+Abdul Moeloek Provinsi Lampung Tahun 2019.
+Tujuan
+Penelitian
+adalah
+untuk
+mengetahui hubungan jumlah viral load dengan
+kejadian TBC pada pasien HIV/AIDS yang
+
+mendapatkan terapi ARV di RSUD Dr. H. Abdul
+Moeloek Provinsi Lampung Tahun 2019.
+Manfaat penelitian adalah sebagai bahan
+masukan bagi RSUD Dr. H. Abdul Moeloek
+Provinsi Lampung dan instansi yang terkait
+dalam meningkatkan pelayanan kesehatan,
+khususnya pelayanan IO pada penderita AIDS,
+sebagai bahan untuk melakukan penelitian
+selanjutnya, serta sebagai sarana bagi penulis
+untuk menambah wawasan mengenai infeksi
+opurtunistik pada penderita AIDS.
+Perbedaan penelitian ini dengan
+penelitian sebelumnya yaitu selain perbedaan
+waktu dan tempat penelitian terdapat variabel
+jumlah viral load pada pasien HIV/AIDS untuk
+mengalami infeksi oportunistik TBC. Oleh sebab
+itu penelitian ini dilakukan untuk mengetahui
+determinan kejadian TBC pada pasien HIV/AIDS
+di salah satu RSUD di Provinsi Lampung.
+
+PUSLITBANG Sinergis Asa Professional, Jember
+
+235
+
+II. METODOLOGI
+Desain penelitian ini menggunakan
+pendekatan analatik observasional dengan desain
+cross sectional. Data yang diambil merupakan
+data sekunder dari rekam medik pasien
+HIV/AIDS di RSUD Dr. H. Abdul Moeloek
+Provinsi Lampung Tahun 2019. Teknik
+pengambilan sampel pada penelitian ini
+menggunakan metode purposive sampling dan
+didapatkan jumlah sampel sebanyak 196 orang.
+Analisis data menggunakan uji Chi Square.
+Kriteria Inklusi Sampel adalah a. Pasien
+yang terdiagnosis HIV dengan usia di atas 18
+tahun, b. Pasien HIV/AIDS yang memiliki
+kelengkapan data rekam medik terutama
+pemeriksaan Viral Load, c. Pasien HIV/AIDS
+yang sudah diberi terapi ARV minimal 6 bulan.
+Sedangkan kriteria Eksklusi Sampel adalah a.
+Pasien HIV/AIDS yang penggunaan ARV tidak
+lengkap, b. Pasien HIV/AIDS dengan TB Ekstra
+Paru.
+
+ARTERI : Jurnal Ilmu Kesehatan
+Vol. 1, No. 3, Mei 2020, hlm. 247-254
+
+III. HASIL DAN PEMBAHASAN
+Distribusi Frekuensi Responden Berdasarkan
+Usia
+Tabel 1 menunjukkan sebagian besar
+pasien HIV/AIDS berusia 31-40 tahun sebanyak
+92 orang (47%). Berdasarkan data yang diambil
+dari seluruh pasien yang terdiagnosa menderita
+HIV/AIDS dan sudah melakukan pemeriksaan
+viral load dan telah terdata dalam rekam medik
+RSUD Dr. H. Abdul Moeloek Provinsi Lampung
+Tahun 2019 sebagian besar berusia 31-40 tahun
+sebanyak 92 orang (47%).
+Tabel 1. Distribusi Frekuensi Usia Pada Pasien
+Yang Terdiagnosa Menderita HIV/AIDS di
+RSUD Dr. H. Abdul Moeloek Tahun 2019
+Usia
+Jumlah Persentase
+19 – 30 th
+54
+28
+31- 40 th
+92
+47
+41 41 – 50 th
+36
+18
+51– 60 th
+10
+5
+>60 th
+4
+2
+Jumlah
+196
+100
+Hasil penelitian ini sesuai dengan
+peneltian yang dilakukan Lubis (2012) dimana
+umur dewasa (>24 tahun) merupakan
+penyumbang terbesar untuk penyakit HIV/AIDS.
+Penelitian di atas sejalan juga degan penelitian
+Putri (2017) dimana ditemukan penderita
+HIV/AIDS terbanyak di usia 30-39 tahun
+(39.7%).16,17
+Dari hasil penelitian di atas dapat dilihat
+bahwa sebagian besar penderita AIDS berada
+pada kelompok usia produktif yaitu 20-49 tahun.
+Perjalanan waktu sejak seseorang penderita
+tertular HIV hingga AIDS dapat berlangsung
+lama antara 5 sampai 10 tahun. Penderita yang
+didiagnosis pada umur 30-40 tahun sudah
+terpapar virus HIV pada saat remaja akhir dan
+dewasa awal. Kambu (2012) dalam penelitiannya
+menyatakan bahwa infeksi HIV lebih banyak
+terjadi pada umur muda (12-35 tahun) karena
+pada umur muda lebih dimungkinkan banyak
+melakukan perilaku seks tidak aman yang
+berisiko terhadap penularan HIV. Perilaku seks
+tidak aman dan berisiko yang dimaksud misalnya
+PUSLITBANG Sinergis Asa Professional, Jember
+
+p-ISSN 2721-4516
+e-ISSN 2715-4432
+
+berhubungan seks berganti-ganti pasangan tanpa
+menggunakan kondom dan melakukan tindakan
+mencoba-coba,
+mengkonsumsi
+minuman
+18
+beralkohol dan narkoba.
+Alasan utama mengapa angka infeksi
+HIV tinggi diantara umur dewasa muda adalah
+karena pada golongan dewasa muda merupakan
+masa penemuan, muncul perasaan bebas dan
+eksplorasi hubungan dan perilaku baru dalam
+artian kalangan muda mengambil risiko dan
+pengalaman, terutama pada perilaku seksual yang
+merupakan bagian terpenting dari risiko infeksi
+HIV. Hal lain juga adalah beberapa diantara
+mereka melakukan tindakan mencoba-coba
+dengan memakai narkoba.19
+Distribusi Frekuensi Responden Berdasarkan
+Jenis Kelamin
+Tabel 2. Distribusi Frekuensi Jenis Kelamin
+Pada Pasien Yang Terdiagnosa Menderita
+HIV/AIDS di RSUD Dr. H. Abdul Moeloek
+Tahun 2019
+Jenis Kelamin Jumlah Persentase
+Laki-laki
+148
+76.0
+Perempuan
+48
+24.0
+Jumlah
+
+196
+
+100
+
+Tabel 2 menunjukkan bahwa sebagian besar
+pasien HIV/AIDS berjenis kelamin laki-laki
+sebanyak 148 orang (76.0%). Penelitian di atas
+sejalan juga degan penelitian Putri (2017) dimana
+ditemukan penderita HIV/AIDS terbanyak
+berjenis kelamin laki-laki (67.7%). Hasil
+penelitian di atas sesuai juga dengan penelitian
+yang dilakukan Rini dkk. (2013) di Klinik VCT
+RSUD Arifin Achmad Prov. Riau terhadap 88
+pasien HIV/AIDS yang menyatakan bahwa
+jumlah penderita laki-laki (63,64%) lebih banyak
+dibandingkan perempuan (36,36%).20 Dengan
+demikian kedua penelitian ini mendukung
+laporan Kementerian Kesehatan RI (2013) bahwa
+proporsi laki-laki 2 kali lebih banyak
+dibandingkan perempuan.
+Tingginya proporsi laki-laki yang menderita
+HIV/AIDS diasumsikan karena banyaknya lakilaki yang melakukan hubungan seksual berisiko
+
+236
+
+ARTERI : Jurnal Ilmu Kesehatan
+Vol. 1, No. 3, Mei 2020, hlm. 247-254
+
+p-ISSN 2721-4516
+e-ISSN 2715-4432
+
+dan menggunakan napza suntik (penasun)
+dibandingkan perempuan yang lebih sering
+mendapatkannya dari pasangan seksual mereka.
+Dalam penelitiannya di RSUP H. Adam Malik
+Medan yang menyatakan bahwa dari 163 dengan
+transmisi hubungan seksual, proporsi tertinggi
+adalah laki-laki 119 orang (73,0%). Begitu juga
+dari 58 dengan transmisi darah dan produk darah,
+proporsi tertinggi adalah laki-laki 45 orang
+(77,6%). Sementara itu, terdapat juga perbedaan
+laki-laki dan perempuan dalam hal menjaga
+kesehatan.
+Perempuan
+biasanya
+lebih
+memperhatikan kesehatannya dan lebih sering
+mengobatkan dirinya dibandingkan laki-laki.21
+Analisa Univariat
+Distribusi Frekuensi Responden Berdasarkan
+Viral Load
+Tabel 3. Distribusi Frekuensi Viral Load Pada
+Pasien Yang Terdiagnosa Menderita HIV/AIDS
+di RSUD Dr. H. Abdul Moeloek Tahun 2019
+Viral Load
+Jumlah Persentase
+≥10.000 kopi/ml
+< 10.000 kopi/ml
+Jumlah
+
+54
+142
+196
+
+27.6
+72.4
+100
+
+Hubungan jumlah viral load dengan kejadian
+TBC
+Berdasarkan hasil penelitian (tabel 4)
+dengan menggunakan uji statistik analisis
+bivariat diketahui dari 142 pasien HIV/ADIS
+yang memiliki viral load <10.000 kopi/ml,
+sebagian tidak mengalami TBC sebanyak 95
+orang (66.9%). Sedangkan dari 54 pasien
+HIV/AIDS yang memiliki viral load ≥ 10.000
+kopi/ml sebagian besar mengalami TBC
+sebanyak
+30 orang
+(55.6%). Dengan
+menggunakan uji Chi Square menunjukkan pvalue = 0.004 dimana kurang dari nilai
+kemaknaan yaitu 5% (0.05), hal tersebut
+menunjukkan terdapat hubungan yang signifikan
+antara jumlah viral load pada pasien HIV/AIDS
+dengan kejadian TBC. Hasil penelitian ini sejalan
+dengan penelitian Widiyanti (2016) Viral load
+pada penderita terinfeksi HIV koinfeksi TB
+meningkat enam hingga tujuh kali dibandingkan
+HIV tanpa TBC, hal ini mengakibatkan
+perkembangan HIV menjadi AIDS lebih cepat.
+Dari analisis di atas didapatkan nilai OR = 2.52
+yang menyatakan bahwa pasien yang memiliki
+viral load ≥ 10.000 memiliki resiko 2.52 kali
+untuk mengalami TBC. Hasil penelitian di atas
+juga menunjukan penderita HIV/AIDS
+
+Dari tabel 4.3 di atas sebagian besar pasien
+HIV/AIDS memiliki jumlah viral load dibawah
+10.000 kopi/ml sebanyak 142 orang (72.4%).
+
+Tabel 4. Analisa Hubungan Antara Jumlah Viral Load Dengan Kejadian TBC Pada Pasien HIV/AIDS di
+RSUD Dr. H. Abdul Moeloek Tahun 2019
+TBC
+Viral Load Tidak
+OR
+Mengalami
+Total
+%
+p- value
+Mengalami
+(kopi/ml)
+(CI95%)
+n
+%
+n
+%
+<10.000
+95
+66.9
+47
+33.1
+142
+100
+2.52
+(1.33≥10.000
+24
+44.4
+30
+55.6
+54
+100
+0.004
+4.79)
+Total
+119
+60.7
+77
+39.3
+196
+100
+Tuberkulosis merupakan salah satu
+infeksi paling sering pada penderita HIV/AIDS
+akibat kerusakan cellular immunity oleh infeksi
+HIV yang menyebabkan berbagai infeksi
+
+oportunistik seperti TB. Tuberkulosis (TB) dapat
+terjadi kapanpun saat perjalanan infeksi HIV.
+Risiko berkembangnya TB meningkat secara
+tajam seiring dengan memburuknya sistem
+
+PUSLITBANG Sinergis Asa Professional, Jember
+
+237
+
+ARTERI : Jurnal Ilmu Kesehatan
+Vol. 1, No. 3, Mei 2020, hlm. 247-254
+
+p-ISSN 2721-4516
+e-ISSN 2715-4432
+
+kekebalan tubuh. TB juga merupakan salah satu
+infeksi oportunistik tersering pada pasien
+HIV/AIDS. Pada orang yang terinfeksi HIV
+berisiko 10 x lebih besar untuk mendapat TB
+dibanding HIV negatif. Masalah koinfeksi HIVTB tersebut merupakan masalah yang sering
+dihadapi di Indonesia. 22
+Tuberkulosis dan HIV keduanya
+memiliki
+efek
+terhadap
+sistem
+imun.
+Imunopatogenesis dan infeksi oportunistik saling
+mempengaruhi dan memperberat kedua penyakit
+tersebut. M. tuberculosis masuk melalui reseptor
+makrofag menyebabkan upregulation gen-gen
+pembentuk sitokin proinflamasi. Sitokin yang
+terbentuk akan meningkatkan replikasi HIV,
+sehingga pada koinfeksi HIV-TB akan
+mempercepat progresifitas HIV ke stadium
+lanjut.23
+M. tuberculosis mempunyai komponen
+penting yaitu Lipoarabinomannan (LAM) yang
+memiliki kemampuan luas menghambat
+pengaruh imunoregulator. LAM merupakan
+kompleks heteropolisakarida yang tersusun dari
+pospatidilinositol, berperan langsung dalam
+pengendalian pengaruh sistem imun sehingga M.
+tuberculosis tetap mampu mempertahankan
+kelangsungan
+hidupnya.
+Dalam
+upaya
+mempertahankan kehidupannya tersebut M.
+tuberculosis juga menekan proliferasi limfosit T,
+menghambat
+aktivitas
+makrofag,
+dan
+menetralisasi pengaruh toksik radikal bebas. Di
+sisi lain LAM mempengaruhi makrofag dan
+sebagai induktor transkripsi mRNA sehingga
+mampu menginduksi produksi dan sekresi sitokin
+termasuk TNF, granulocyte macrophage- CSF,
+IL-1α, IL-1β, IL-6, IL-8 dan IL-10. Pengaruh
+sitokin
+tersebut
+menghambat
+peran
+antimikrobial,
+memicu
+gejala
+demam,
+mengakibatkan nekrosis jaringan. Tetapi LAM
+tidak menginduksi transkripsi mRNA dari sitokin
+yang mestinya diproduksi limfosit seperti
+limfositokin, IFN-γ, IL-2, IL-3, IL-4. Struktur
+yang lebih sederhana dari LAM adalah
+Limpomannan (LM) dan phosphatidylinositol
+mannosides (PIM). LM tidak memiliki Arabian,
+sementara PIM memiliki arabain dan residu
+
+mannan. LAM, LM dan PIM menginduksi
+transkripsi mRNA sitokin sehingga dapat
+memicu
+munculnya
+manifestasi
+klinis
+tuberkulosis seperti demam, penurunan berat
+badan, dan nekrosis jaringan. Ada tiga
+mekanisme yang menyebabkan terjadinya TB
+pada penderita HIV, yaitu reaktivasi dari masa
+laten TB menjadi infeksi aktif yang progresif
+serta terinfeksi. Penurunan CD4 + yang terjadi
+dalam perjalanan penyakit infeksi HIV akan
+mengakibatkan reaktivasi kuman TB yang famili
+Retroviridae, subfamili Lentivirinae, genus
+Lentivirus. Berdasarkan strukturnya HIV
+termasuk famili retrovirus obligat intraseluler
+dengan replikasi sepenuhnya di dalam sel host,
+dan merupakan virus RNA dengan berat molekul
+9,7 kb (kilobase).5
+Manifestasi TB pada HIV dapat berupa
+TB paru atau infeksi di luar paru. TB ekstra
+pulmonal lebih sering terjadi pada penderita HIV
+sampai 70% dibanding populasi umum, dapat
+berupa limfadenitis TB, infeksi pada saluran
+genital, saluran kencing, susunan saraf pusat dan
+sumsum tulang.
+Tes viral load HIV adalah tes yang
+digunakan untuk mengukur jumlah virus HIV di
+dalam darah, yang dinyatakan dalam satuan kopi
+per milliliter (mL) darah. Tes tersebut dapat
+secara langsung mengukur besarnya replikasi
+virus. Pemeriksaan ini mulai rutin digunakan oleh
+para klinisi sebagai prediktor yang lebih baik
+daripada pemeriksaan sel limfosit T-CD4 untuk
+memprediksi progresifitas perjalanan infeksi
+HIV, selain untuk menentukan efektivitas obat
+antiretroviral pada beberapa uji klinis.
+Dari hasil penelitian ini peneliti
+berpendapat bahwa antara TB dan HIV
+mempunyai hubungan yang kuat karena dengan
+infeksi HIV maka kasus tuberkulosis mengalami
+peningkatan sebaliknya juga tuberkulosis
+meningkatkan progresivitas HIV. Infeksi HIV
+merupakan faktor resiko untuk berkembangnya
+TB melalui mekanisme berupa reaktivasi infeksi
+laten, progresivitas pada infeksi primer atau
+reinfeksi dengan mycobacterium tuberculosis
+sehingga akan meningkatkan kasus tuberkulosis
+
+PUSLITBANG Sinergis Asa Professional, Jember
+
+238
+
+ARTERI : Jurnal Ilmu Kesehatan
+Vol. 1, No. 3, Mei 2020, hlm. 247-254
+
+p-ISSN 2721-4516
+e-ISSN 2715-4432
+
+REFERENSI
+1. Djoerban, Z. & Djauzi, S. Buku Ajar Ilmu
+Penyakit Dalam. VI ed. Jakarta Pusat: Interna
+Publishing; 2014.
+
+UNAIDS. Global Report AIDS Epidemic.
+WHO; 2016.
+Purwaningsih, S. S. & W. Perkembangan Hiv
+Dan Aids Di Indonesia. Jurnal Kependudukan
+Indonesia; 2011 3(2), Pp. 75-95.
+KemenKes RI.. Direktorat Jenderal Pencegahan
+dan Pengendalian Penyakit. Laporan Situasi
+Perkembangan HIV/AIDS dan PIMS di
+Indonesia 2017. Jakarta (Indonesia); 2014.
+Nilasari, Z., & Masithoh, D. Makalah HIV AIDS.
+2015
+[Internet]:
+academia.edu/13551076/
+makalah_HIV _AIDS
+Astari, L., Sawitri., Safitri, YE., Hinda, D. Viral
+Load pada Infeksi HIV. Berkala Ilmu Kesehatan
+Kulit
+&
+Kelamin
+[Internet].
+2009:Apr1;21(1):31–9.
+Available
+from:
+http://www.journal.unair.ac.id/downloadfullpapers-Viral Load Vol 21 No 1.pdf
+Sylvie B, L. M.. Monitoring of HIV viral load,
+CD4 cellcount, and clinical assessment versus
+clinical monitoring alone for antiretroviral
+therapy: accost effectiveness analysis. Lancet
+infect dis; 2013: Volume 13, pp. 77-88.
+Karima, U. Q., Sudaryo, M. K. & Kiptiyah, N.
+M. Prediktor Kejadian TB pada ODHA di Salah
+Satu RS Pemerintah Bogor, Tahun 2014-2016.
+Jurnal Epidemiologi Kesehatan Indonesia; 2017:
+1(2), pp. 26-34
+Gunawan, S. G. Farmakologi Dan Terapi. 5 ed.
+Jakarta: Badan Penerbit FKUI; 2012.
+UNAIDS. A Guide To Monitoring And
+Evaluation For Collabrating TB/HIV Activities.
+WHO; 2012.
+UNAIDS. Global Report AIDS Epidemic.
+WHO; 2013.
+Ditjen PP & PL. Laporan Perkembangan HIVAIDS Triwulan 1. Kementerian Kesehatan
+Repubik Indonesia: Jakarta; 2013.
+Ditjen PP & PL. Laporan Perkembangan HIVAIDS Triwulan 1, Kementerian Kesehatan
+Repubik Indonesia: Jakarta; 2014.
+Dikromo NP, Antariksa B, Nawas A.. Factors
+Associated to Success Tuberculosis Therapy of
+Co-infection TB - HIV Patiens in Persahabatan
+Hospital, Jakarta -Indonesia. J Respir Indo2011
+:31:1:14 – 21.
+Nasarudin, J., Nasir, ZNA., Karjadi, TH.,
+Rumende, CM. Prevalensi Kejadian Resistensi
+Rifampisin pada Pasien TB-HIV dan FaktorFaktor yang Mempengaruhi. Indonesian Journal
+of CHEST Critical and Emergency Medicine
+
+PUSLITBANG Sinergis Asa Professional, Jember
+
+239
+
+di masyarakat. Koinfeksi HIV dan tuberkulosis
+ini menimbulkan berbagai permasalahan baru
+antara lain diagnosa yang salah karena sulit
+menegakkan diagnosa, angka kesakitan atau
+kematian cukup tinggi selama pengobatam,
+resistensi obat dan berbagai persoalan sosial,
+kultural dan ekonomi yang perlu mendapatkan
+perhatian yang lebih besar dari berbegai pihak.
+
+2.
+3.
+
+4.
+
+5.
+
+IV. KESIMPULAN DAN SARAN
+Dari hasil penelitian dapat disimpulkan
+bahwa sebagian besar pasien HIV/AIDS
+memiliki jumlah viral load dibawah 10.000
+kopi/ml sebanyak 142 orang (72.4%). Sebagian
+besar pasien HIV/AIDS didapatkan tidak
+mengalami TBC sebanyak 119 orang (60.7%).
+Terdapat hubungan yang signifikan antara jumlah
+viral load pasda pasien HIV/AIDS dengan
+kejadian TBC dengan diperoleh nilai p-value
+=0.004. Dari analisis di atas didapatkan nilai OR
+= 2.52 yang menyatakan bahwa pasien yang
+memiliki viral load ≥10.000 memiliki resiko
+2.52 kali untuk mengalami TBC.
+Diharapkan dari hasil penelitian ini dapat
+menambah pengetahuan dan wawasan bagi
+akademisi tentang hubungan jumlah viral load
+dengan kejadian TBC pada pasien HIV/AIDS
+yang mendapatkan terapi ARV. Bagi institusi,
+semoga penelitian ini dapat memberikan
+informasi bagi pihak Rumah Sakit dan dinas
+kesehatan sebagai bahan evaluasi, strategi
+penanganan, pencegahan dan pengambilan
+keputusan klinis. Bagi peneliti selanjutnya,
+semoga dapat dijadikan dasar untuk melakukan
+penelitian lanjutan yang berhubungan dengan
+jumlah viral load pada pasien HIV/AIDS.
+
+6.
+
+7.
+
+8.
+
+9.
+10.
+
+11.
+12.
+
+13.
+
+14.
+
+V. UCAPAN TERIMA KASIH
+Terima Kasih kepada semua pihak yang
+telah membantu dalam menyelesaikan penelitian
+ini.
+15.
+
+ARTERI : Jurnal Ilmu Kesehatan
+Vol. 1, No. 3, Mei 2020, hlm. 247-254
+
+16.
+
+17.
+
+18.
+
+19.
+20.
+
+21.
+
+22.
+23.
+
+p-ISSN 2721-4516
+e-ISSN 2715-4432
+
+[Internet].
+3(1):11–7.
+Available
+from:
+http://www.indonesiajournalchest.com/index.ph
+p/IJC/issue/view/70
+Lubis, Z.D. Gambaran Karakteristik Individu
+Dan Faktor Risiko Terhadap Terjadinya Infeksi
+Oportunistik Pada Penderita HIV/AIDS Di
+rumah sakit Penyakit Infeksi Sulianti Saroso
+Tahun 2011 [skripsi]. Universitas Indonesia;
+2012.
+Saktina, PU., & Satriyasa, BK. Karakteristik
+Penderita Aids Dan Infeksi Oportunistik Di
+Rumah Sakit Umum Pusat Sanglah Denpasar
+Periode Juli 2013 Sampai Juni 2014. E-Jurnal
+Medika; 2017:6( 3).
+Kambu Y. Analisis faktor-faktor yang
+mempengaruhi tindakan pencegahan penularan
+HIV oleh ODHA di Sorong [tesis]. Fakultas
+Ilmu Keperawatan Universitas Indonesia; 2012.
+Stine, GJ.AIDS update 2011. New York:
+McGraw-Hill; 2011.
+Aptriani, R., Fridayenti, & Barus ,A. Gambaran
+Jumlah CD4 Pada Pasien Hiv/Aids Di Klinik
+VCT RSUD Arifin Achmad Provinsi Riau
+Periode Januari -Desember 2013. Jom
+FK;2014:1(2).
+Yusri, A., Muda S., Rasmaliah.. Karakteristik
+Penderita AIDS dan Infeksi Oportunistik di
+Rumah Sakit Umum Pusat (RSUP) H. Adam
+Malik [Tesis] Medan: Fakultas Kedokteran
+Universitas Sumatera Utara; 2012.
+KemenKes
+RI,
+Pedoman
+Pengobatan
+Antiretroviral. Jakarta (Indonesia); 2014.
+Tessema, F. et al. Risk Factors Of Active
+Tuberculosis In People Living With Hiv/Aids In
+Southwest Ethiopia: A Case Control Study.
+Ethiop J Health Sci; 2015:21(2), pp. 131-139.
+
+PUSLITBANG Sinergis Asa Professional, Jember
+
+240
+
+

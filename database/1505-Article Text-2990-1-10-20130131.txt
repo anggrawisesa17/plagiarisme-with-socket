@@ -1,0 +1,1905 @@
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+PENGARUH UKURAN PERUSAHAAN, LEVERAGE,
+PRICE EARNING RATIO DAN PROFITABILITAS TERHADAP
+NILAI PERUSAHAAN
+BHEKTI FITRI PRASETYORINI
+Jurusan Manajemen, Fakultas Ekonomi, Universitas Negeri Surabaya
+Kampus Ketintang, Surabaya 60231
+E-mail: Bhektifitriprasetyorini@yahoo.com
+Abstract: This research analysis the influence firm size, leverage,
+price earning ratio, and profitability to firm’s value. The main purpose
+of company’s built was to maximize stockholder wealth. There are
+several factors that can regard firm’s value, for example firm size,
+leverage, price earning ratio, and profitability. In this research firm’s
+value were measured by Tobin’s Q. The analysis of this research
+using linier regression method. The result shows that firm size,
+leverage, price earning ratio, and profitability in simultan has influence
+on firm’s value. Meanwhile, the result of test were shown that firm
+size, price earning ratio, and profitability there were positive influence
+to firm’s value partially. While, the leverage shown that hasn’t
+influence on firm’s value partially. It means that the higher firm size,
+leverage, price earning ratio, and profitability of company then it will
+increasing the firm’s value. The leverage shown that hasn’t influence
+on firm’s value.
+Keywords: firm size, leverage, price earning ratio, profitability and
+firm’s value.
+PENDAHULUAN
+Tujuan suatu perusahaan
+adalah
+memaksimumkan
+nilai
+perusahaan atau kekayaan bagi
+pemegang saham. Memaksimumkan
+nilai perusahaan dinilai lebih tepat
+sebagai tujuan suatu perusahaan
+sebab
+memaksimumkan
+nilai
+perusahaan berarti memaksimumkan
+nilai
+sekarang
+dari
+semua
+keuntungan yang akan diterima oleh
+pemegang saham di masa yang akan
+datang. Nilai perusahaan tercemin
+dari harga saham yang stabil, yang
+dalam jangka panjang mengalami
+kenaikan, semakin tinggi harga
+saham maka semakin tinggi pula nilai
+perusahaan (Sudana, 2009:7).
+Terdapat banyak faktor yang
+dapat menentukan nilai perusahaan,
+salah
+satunya
+adalah
+ukuran
+perusahaan. Ukuran perusahaan
+adalah suatu skala dimana dapat
+diklasifikasikan
+besar
+kecilnya
+183
+
+perusahaan menurut berbagai cara
+antara lain dengan total aktiva, log
+size, nilai pasar saham, dan lain-lain.
+Ukuran
+perusahaan
+dianggap
+mampu
+mempengaruhi
+nilai
+perusahaan karena semakin besar
+ukuran atau skala perusahaan maka
+akan
+semakin
+mudah
+pula
+perusahaan memperoleh sumber
+pendanaan baik yang bersifat internal
+maupun eksternal.
+Variabel ukuran perusahaan
+dipilih karena terdapat perbedaan
+hasil penelitian terdahulu. Dari hasil
+penelitian Soliha dan Taswan (2002)
+menunjukkan
+bahwa
+ukuran
+perusahaan
+berpengaruh
+positif
+terhadap nilai perusahaan. Penelitian
+yang dilakukan oleh Yunita (2010),
+menunjukkan
+bahwa
+ukuran
+perusahaaan berpengaruh positif
+terhadap nilai perusahaan. Penelitian
+Indrajaya
+dan
+Setiadi
+(2011),
+menunjukkan
+bahwa
+ukuran
+perusahaan
+tidak
+pengaruh
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+berpengaruh
+terhadap
+nilai
+perusahaan.
+Nilai perusahaan dapat pula
+dipengaruhi oleh besar kecilnya
+leverage yang dihasilkan oleh
+perusahaan.
+Leverage
+dapat
+dipahami sebagai penaksir dari risiko
+yang
+melekat
+pada
+suatu
+perusahaan. artinya leverage yang
+semakin besar menunjukkan resiko
+investasi yang semakin besar pula.
+Perusahaan dengan rasio leverage
+yang rendah memiliki rasio leverage
+yang lebih kecil.
+Variabel
+leverage
+dipilih
+karena terdapat perbedaan hasil
+penelitian terdahulu. Dari hasil
+penelitian yang dilakukan oleh Soliha
+dan Taswan (2002), menunjukkan
+bahwa leverage tidak berpengaruh
+terhadap nilai perusahaan. Penelitian
+Cheng
+dan
+Tzeng
+(2009),
+menunjukkan
+bahwa
+leverage
+berpengaruh positif terhadap nilai
+perusahaan.
+Taswan
+(2003),
+leverage
+berpengaruh
+positif
+terhadap nilai perusahaan. Mahendra
+(2011), menunjukkan bahwa leverage
+berpengaruh negatif terhadap nilai
+perusahaan.
+Yunita
+(2010),
+menunjukkan bahwa leverage tidak
+berpengaruh
+terhadap
+nilai
+perusahaan.
+Pada
+penelitian
+Adelegan
+(2007),
+menunjukkan
+bahwa leverage memiliki pengaruh
+negatif terhadap nilai perusahaan.
+Kaviani
+and
+Biabani
+(2012)
+menunjukkan
+bahwa
+leverage
+berpengaruh negatif terhadap nilai
+perusahaan.
+Nilai perusahaan dapat pula
+dipengaruhi oleh price earning ratio,
+yang menunjukkan rasio dari harga
+saham terhadap earnings. Ratio ini
+menunjukkan
+seberapa
+besar
+investor menilai harga dari saham
+terhadap kelipatan dari earnings
+(Jogiyanto, 2010:146). Price earning
+ratio
+dipilih
+karena
+terdapat
+perbedaan hasil penelitian terdahulu.
+Dari hasil penelitian yang dilakukan
+oleh Margaretha dan Damayanti
+184
+
+(2008), menunjukkan bahwa price
+earning ratio berpengaruh positif
+terhadap
+stock
+return
+karena
+semakin tinggi price earning ratio
+semakin tinggi pula harga per lembar
+saham suatu perusahaan. Apabila
+harga per lembar saham dan tingkat
+pertumbuhan laba suatu perusahaan
+meningkat, maka price earning ratio
+juga
+meningkat
+dan
+akan
+meningkatkan pula nilai perusahaan.
+Penelitian yang dilakukan
+oleh
+Poernamawatie
+(2008),
+menunjukkan bahwa price earning
+ratio tidak berpengaruh terhadap
+return saham sedangkan price book
+value berpengaruh lebih dominan
+mempengaruhi
+return
+saham
+dibandingkan dengan price earning
+ratio. Investor dalam melakukan
+keputusan
+investasinya
+lebih
+mengandalkan price book value
+daripada price earning ratio. Hal ini
+disebabkan semakin tinggi price book
+value
+semakin
+tinggi
+tingkat
+kepercayaan pasar terhadap prospek
+perusahaan, maka akan menjadi
+daya
+tarik
+investor
+untuk
+membelinya. Sehingga permintaan
+akan saham tersebut naik, kemudian
+mendorong harga saham perusahaan
+tersebut naik. Oleh karena itu,
+perusahaan
+lebih
+dominan
+menggunakan price book value
+dalam
+meningkatkan
+nilai
+perusahaannya
+dibandingkan
+menggunakan price earning ratio.
+Nilai perusahaan dapat pula
+dipengaruhi oleh besar kecilnya
+profitabilitas yang dihasilkan oleh
+perusahaan. Weston dan Copeland
+(1992) mendefinisikan profitabilitas
+sejauh
+mana
+perusahaan
+menghasilkan laba dari penjualan
+dan investasi perusahaan. Apabila
+profitabilitas perusahaan baik maka
+para stakeholders yang terdiri dari
+kreditur, supplier, dan juga investor
+akan
+melihat
+sejauh
+mana
+perusahaan dapat menghasilkan laba
+dari
+penjualan
+dan
+investasi
+perusahaan. Dengan baiknya kinerja
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+perusahaan akan meningkatkan pula
+nilai perusahaan.
+Variabel profitabilitas dipilih
+karena terdapat perbedaan hasil
+penelitian terdahulu. Dari hasil
+penelitian yang dilakukan oleh Soliha
+dan Taswan (2002), menunjukkan
+bahwa profitabilitas berpengaruh
+positif terhadap nilai perusahaan.
+Yunita
+(2010),
+profitabilitas
+berpengaruh positif terhadap nilai
+perusahaan.
+Mahendra
+(2011),
+menunjukkan bahwa profitabilitas
+berpengaruh positif terhadap nilai
+perusahaan. Penelitian Indrajaya dan
+Setiadi (2011), menunjukkan bahwa
+profitabilitas
+memiliki
+pengaruh
+negatif terhadap struktur modal
+karena apabila struktur modal turun
+maka nilai perusahaan juga akan
+turun.
+Sektor industri pengolahan
+yang stabil pertumbuhannya selama
+lima tahun terakhir adalah sektor
+industri dasar dan kimia. Sektor ini
+terus tumbuh positif bahkan ketika
+krisis finansial sedang mencapai
+puncaknya pada tahun 2009. Dalam
+lima tahun terakhir industri ini ratarata tumbuh diatas 4% kecuali tahun
+2009 yang hanya tumbuh sebesar
+1,6%. Permintaan yang continue
+terhadap pupuk dan harga barang
+karet
+yang
+tinggi
+membantu
+mempertahankan
+tingkat
+pertumbuhan sektor industri ini
+(Majalah Indonesian Commercial
+Newsletter-Edisi Bahasa Indonesia).
+Isu penelitian yang utama dalam
+penelitian ini adalah mengapa
+perusahaan industri dasar dan kimia
+yang terdaftar di Bursa Efek
+Indonesia dapat mempertahankan
+nilai perusahaan yang baik/ positif
+walaupun terkena dampak dari
+gejolak dan fluktuasi moneter yang
+tak terduga di tahun 2008, bahkan
+ditengah kompetisi bisnis yang terus
+meningkat.
+
+185
+
+Gambar 1.1 Rata-rata Nilai
+Perusahaan Industri Dasar dan
+Kimia
+Tujuan penelitian ini adalah
+untuk menganalisis pengaruh ukuran
+perusahaan, leverage, price earning
+ratio, dan profitabilitas terhadap nilai
+perusahaan
+pada
+perusahaan
+industri dasar dan kimia yang
+terdaftar di BEI selama periode 20082011. Hasil penelitian ini diharapkan
+dapat dijadikan bahan pertimbangan
+bagi investor dalam berinvestasi dan
+sebagai bahan pertimbangan bagi
+perusahaan dalam mengaplikasikan
+variabel-variabel penelitian ini untuk
+membantu
+meningkatkan
+nilai
+perusahaan serta sebagai bahan
+pertimbangan
+emiten
+untuk
+mengevaluasi, memperbaiki, dan
+meningkatkan kinerja manajemen
+keuangan dimasa mendatang.
+KAJIAN PUSTAKA
+Nilai Perusahaan
+Nilai perusahaan merupakan
+harga yang bersedia dibayar oleh
+calon pembeli (investor) apabila
+perusahaan tersebut dijual. Tujuan
+normatif
+perusahaan
+adalah
+memaksimumkan
+kekayaan
+pemegang saham (Sudana, 2009:7).
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+Memaksimalkan
+kemakmuran
+pemegang saham dapat diwujudkan
+dengan
+memaksimalkan
+nilai
+perusahaan (Atmaja, 2008:4).
+Nilai perusahaan yang tinggi
+akan
+diikuti
+oleh
+tingginya
+kemakmuran pemegang saham.
+Semakin tinggi harga saham semakin
+tinggi pula nilai perusahaan, nilai
+perusahaan yang tinggi menjadi
+keinginan para pemilik perusahaan
+sebab dengan nilai yang tinggi
+menunjukan kemakmuran pemegang
+saham
+juga
+tinggi
+(Bringham
+Gapensi, 1996). Pendirian sebuah
+perusahaan memiliki tujuan untuk
+meningkatkan
+kesejahteraan
+pemegang
+saham
+melalui
+peningkatan
+nilai
+perusahaan.
+Indikator nilai perusahaan dapat
+dilihat dari harga saham perusahaan
+di pasar. Nilai perusahaan dapat
+dihitung dengan analisis Tobin’s Q.
+Analisis Tobin’s Q juga dikenal
+dengan rasio Tobin’s Q. Rasio ini
+merupakan konsep yang berharga
+karena menunjukkan estimasi pasar
+keuangan saat ini tentang nilai hasil
+pengembalian dari setiap dolar
+investasi dimasa depan. Menurut
+Smithers dan Wright (2007:37),
+Tobin’s Q dihitung dengan rasio nilai
+pasar saham perusahaan ditambah
+dengan hutang lalu membandingkan
+dengan total aset perusahaan.
+Rumusnya adalah sebagai berikut,
+yaitu:
+
+Tobin’s
+Q
+memberikan
+gambaran tidak hanya pada aspek
+fundamental, tetapi juga sejauh mana
+pasar menilai perusahaan dari
+berbagai aspek yang dilihat oleh
+pihak
+luas
+termasuk
+investor.
+Pengukuran rasio Tobin’s Q sebagai
+indikator kinerja perusahaan akan
+lebih memiliki arti jika dilihat nilai
+rasio
+setiap
+tahun.
+Adanya
+perbandingan
+akan
+diketahui
+peningkatan
+kinerja
+keuangan
+perusahaan tiap tahun, sehingga
+harapan
+investor
+terhadap
+pertumbuhan investasinya menjadi
+lebih tinggi.
+Analisis Tobin’s Q < 1 maka
+menunjukkan bahwa nilai buku asset
+perusahaan lebih besar dari nilai
+pasar
+perusahaan,
+sehingga
+perusahaan akan menjadi sasaran
+akuisisi yang menarik baik untuk
+digabungkan dengan perusahaan lain
+ataupun untuk dilikuidasi karena nilai
+saham tersebut dihargai rendah
+(undervalued). Logikanya pembeli
+perusahaan
+memperoleh
+asset
+dengan harga yang lebih murah
+dibanding jika asset tersebut dijual
+kembali. Sebaliknya bila nilai Tobin’s
+Q > 1 menunjukkan bahwa nilai
+pasar perusahaan lebih tinggi
+dibandingkan nilai buku asetnya,
+sehingga mengindikasikan bahwa
+perusahaan
+memiliki
+potensi
+pertumbuhan yang tinggi sehingga
+nilai perusahaan lebih dari sekedar
+nilai asetnya (overvalued).
+Ukuran Perusahaan
+
+Dimana:
+MVE = Nilai pasar dari jumlah lembar
+saham yang beredar yang
+diperoleh dari jumlah saham
+beredar x closing price
+Debt = Nilai total kewajiban
+perusahaan
+TA
+
+= Total aktiva perusahaan
+
+186
+
+Ukuran perusahaan adalah
+suatu
+skala
+dimana
+dapat
+diklasifikasikan
+besar
+kecilnya
+perusahaan menurut berbagai cara
+antara lain dengan total aktiva, log
+size, nilai pasar saham, dan lain-lain.
+Besar kecilnya perusahaan akan
+mempengaruhi kemampuan dalam
+menanggung risiko yang mungkin
+timbul dari berbagai situasi yang
+dihadapi perusahaan.
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+Perusahaan besar memiliki
+risiko yang lebih rendah daripada
+perusahaan kecil. Hal ini dikarenakan
+perusahaan besar memiliki kontrol
+yang lebih baik terhadap kondisi
+pasar, sehingga mereka mampu
+menghadapi persaingan ekonomi.
+Selain itu perusahaan-perusahaan
+besar mempunyai lebih banyak
+sumberdaya untuk meningkatkan
+nilai perusahaan karena memiliki
+akses yang lebih baik terhadap
+sumber-sumber informasi eksternal
+dibandingkan dengan perusahaan
+kecil (Yunita, 2011).
+Selain itu ukuran perusahaan
+turut
+menentukan
+tingkat
+kepercayaan investor. Semakin besar
+perusahaan, maka semakin dikenal
+oleh masyarakat
+yang
+artinya
+semakin mudah untuk mendapatkan
+informasi yang akan meningkatkan
+nilai
+perusahaan.
+Bahkan
+perusahaan besar yang memiliki total
+aktiva dengan nilai aktiva yang cukup
+besar dapat menarik investor untuk
+menanamkan
+modalnya
+pada
+perusahaan tersebut. Dalam hal
+ukuran perusahaan dilihat dari total
+assets yang dimiliki oleh perusahaan,
+yang dapat dipergunakan untuk
+kegiatan operasi perusahaan.
+Leverage
+Leverage merupakan suatu
+alat penting dalam pengukuran
+efektivitas
+penggunaan
+utang
+perusahaan. Dengan menggunakan
+leverage, perusahaan tidak hanya
+dapat
+memperoleh
+keuntungan
+namun juga dapat mengakibatkan
+perusahaan mengalami kerugian,
+karena leverage keuangan berarti
+perusahaan membebankan risiko
+kepada pemegang saham sehingga
+mempengaruhi
+return
+saham
+(Weston dan Copeland, 1999).
+Konsep leverage ini penting
+bagi investor dalam membuat
+pertimbangan penilaian saham. Para
+investor
+umumnya
+cenderung
+187
+
+menghindari risiko. Risiko yang
+timbul dalam penggunaan financial
+leverage disebut dengan financial risk
+yaitu
+risiko
+tambahan
+yang
+dibebankan
+kepada
+pemegang
+saham sebagai hasil penggunaan
+utang oleh perusahaan. Semakin
+tinggi leverage, semakin besar risiko
+keuangannya dan sebaliknya Horne
+dan Marchowicz (2005).
+Keputusan
+pembelanjaan,
+dapat mempengaruhi kemampuan
+perusahaan dalam menghasilkan
+laba bagi pemegang saham. Pada
+kondisi ekonomi baik, perusahaan
+yang porsi penggunaan utang lebih
+besar dibandingkan dengan modal
+sendiri mampu menghasilkan laba
+bagi pemegang saham lebih besar
+dibandingkan dengan perusahaan
+yang porsi penggunaan utangnya
+lebih kecil dibandingkan dengan
+modal sendiri. Sebaliknya, pada
+kondisi ekonomi buruk, perusahaan
+yang porsi penggunaan utangnya
+lebih besar dibandingkan dengan
+modal sendiri akan menghasilkan
+laba bagi pemegang saham lebih
+kecil daripada perusahaan yang porsi
+penggunaan utangnya lebih kecil
+dibandingkan dengan modal sendiri.
+Debt ratio adalah rasio yang
+mengukur proporsi dana yang
+bersumber
+dari
+utang
+untuk
+membiayai
+aktiva
+perusahaan
+(Sudana, 2009:23). Semakin besar
+rasio
+ini
+menunjukkan
+porsi
+penggunaan utang dalam membiayai
+investasi pada aktiva semakin besar,
+yang berarti pula risiko keuangan
+perusahaan
+meningkat
+dan
+sebaliknya.
+Para kreditur secara umum
+lebih menyukai jika rasio hutang yang
+dimiliki perusahaan lebih rendah
+karena semakin rendah rasio hutang
+maka
+semakin
+tinggi
+tingkat
+pendanaan
+perusahaan
+yang
+disediakan oleh pemegang saham
+dan semakin besar perlindungan bagi
+kreditor atas risiko tidak terbayarnya
+hutang. Namun disisi lain perusahaan
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+lebih menginginkan rasio hutang
+yang relatif tinggi karena dengan
+rasio hutang yang tinggi, perusahaan
+akan memiliki ekspektasi yang lebih
+tinggi pula ketika perekonomian
+negara dalam kondisi normal, namun
+sebaliknya
+perusahaan
+akan
+mengalami risiko yang tinggi pula
+apabila kondisi perekonomian negara
+sedang mengalami resesi.
+
+Semakin baik kinerja per lembar
+saham akan mempengaruhi banyak
+investor untuk membeli saham
+tersebut.
+Menurut
+Tandelilin
+(2010:320), rumus untuk menghitung
+PER suatu saham adalah dengan
+membagi harga saham perusahaan
+terhadap earng per lembar saham.
+Secara matematis, rumus untuk
+menghitung PER adalah sebagai
+berikut:
+
+Price Earning Ratio (PER)
+Menurut Sudana (2009:27),
+price earning ratio adalah rasio yang
+mengukur
+tentang
+bagaimana
+investor
+menilai
+prospek
+pertumbuhan perusahaan di masa
+yang akan datang, dan tercermin
+pada harga saham yang bersedia
+dibayar oleh investor untuk setiap
+rupiah
+laba
+yang
+diperoleh
+perusahaan.
+Menurut
+Arifin
+(2004:87),
+price
+earning
+ratio
+digunakan untuk menilai murah atau
+mahal sebuah saham, semakin
+rendah nilai PER sebuah saham
+maka semakin baik atau murah
+harganya untuk diinvestasikan.
+Perusahaan dengan peluang
+tingkat pertumbuhan tinggi biasanya
+mempunyai price earning ratio yang
+tinggi pula, dan hal ini menunjukkan
+bahwa
+pasar
+mengharapkan
+pertumbuhan
+laba
+di
+masa
+mendatang. Sebaliknya perusahaan
+dengan tingkat pertumbuhan yang
+rendah cenderung mempunyai price
+earning ratio yang rendah pula.
+Semakin rendah price earning ratio
+suatu saham maka semakin baik
+atau
+murah
+harganya
+untuk
+diinvestasikan. Price earning ratio
+menjadi rendah nilainya bisa karena
+harga saham cenderung semakin
+turun atau karena meningkatnya laba
+bersih perusahaan. Jadi semakin
+kecil nilai price earning ratio maka
+semakin murah saham tersebut untuk
+dibeli dan semakin baik pula kinerja
+per
+lembar
+saham
+dalam
+menghasilkan laba bagi perusahaan.
+188
+
+Earning per lembar saham
+dapat diperoleh dengan earning
+perusahaan dibagi dengan jumlah
+saham beredar. PER menunjukkan
+seberapa besar investor bersedia
+membayar untuk setiap satu rupiah
+dari keuntungan yang dilaporkan.
+Price earning ratio yang rendah akan
+memberikan kontribusi tersendiri bagi
+investor. Selain dapat membeli
+saham dengan harga murah dan
+kemungkinan capital gain yang diraih
+semakin besar, investor dapat
+mempunyai banyak saham dari
+berbagai perusahaan yang go public.
+Dari segi investor price earning ratio
+yang terlalu tinggi barangkali tidak
+menarik
+karena
+harga
+saham
+barangkali tidak naik lagi, yang
+berarti kemungkinan memperoleh
+capital gain akan lebih kecil.
+Profitabilitas
+Profitabilitas adalah hasil
+akhir dari sejumlah kebijakan dan
+keputusan manajemen perusahaan
+(Brigrham & Houston, 2009). Dengan
+demikian
+dapat
+dikatakan
+profitabilitas perusahaan merupakan
+kemampuan
+perusahaan
+dalam
+menghasilkan laba bersih dari
+aktivitas yang dilakukan pada periode
+akuntansi.
+Seringkali
+pengamatan
+menunjukkan bahwa perusahaan
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+dengan tingkat pengembalian yang
+tinggi atas investasi perusahaan yang
+memperoleh laba yang besar, maka
+dapat
+dikatakan berhasil atau
+memiliki kinerja yang baik, sebaliknya
+kalau
+laba
+yang
+diperoleh
+perusahaan relatif kecil atau menurun
+dari periode sebelumnya, maka dapat
+dikatakan
+perusahaan
+kurang
+berhasil atau memiliki kinerja yang
+kurang baik. Laba yang menjadi
+ukuran kinerja perusahaan harus
+dievaluasi dari suatu periode ke
+periode berikutnya dan bagaimana
+laba aktual dibandingkan dengan
+laba yang direncanakan. Apabila
+seorang manajer telah bekerja keras
+dan berhasil meningkatkan penjualan
+sementara biaya tidak berubah, maka
+laba harus meningkat melebihi
+periode
+sebelumnya
+yang
+mengisyaratkan keberhasilan.
+ROE
+menunjukkan
+kemampuan
+perusahaan
+untuk
+menghasilkan laba setelah pajak
+dengan menggunakan modal sendiri
+yang dimiliki perusahaan. Rasio ini
+penting bagi pihak pemegang saham
+yaitu untuk mengetahui efektivitas
+dan efisiensi pengelolaan modal
+sendiri yang dilakukan oleh pihak
+manajemen perusahaan.
+Semakin tinggi rasio ini berarti
+semakin efisien penggunaan modal
+sendiri
+yang
+dilakukan
+pihak
+manajemen perusahaan. Naiknya
+rasio ROE dari tahun ke tahun pada
+perusahaan berarti terjadi adanya
+kenaikan laba bersih dari perusahaan
+yang bersangkutan. Naiknya laba
+bersih dapat dijadikan salah satu
+indikasi bahwa nilai perusahaan juga
+naik karena naiknya laba bersih
+sebuah
+perusahaan
+yang
+bersangkutan akan menyebabkan
+harga saham yang berarti juga
+kenaikan dalam nilai perusahaan.
+METODE
+Jenis
+penelitian
+yang
+digunakan adalah penelitian kausal.
+189
+
+Sumber
+data yang digunakan
+merupakan data sekunder yang
+diperoleh dari Bursa Efek Indonesia
+(BEI) berupa laporan keuangan
+perusahaan dan bahan kajian lain
+yang didapat dari buku, jurnal, dan
+artikel yang didapat dari internet.
+Jenis data yang digunakan adalah
+data kuantitatif.
+Sampel
+Populasi dalam penelitian ini
+adalah seluruh perusahaan industri
+dasar dan kimia yang terdaftar di
+Bursa Efek Indonesia (BEI) tahun
+2008-2011.
+Pemilihan
+sampel
+menggunakan purposive dengan
+kriteria:
+1. Penelitian
+dilakukan
+pada
+perusahaan industri dasar dan
+kimia yang listing di BEI pada
+tahun 2008-2011.
+2. Meliputi data laporan keuangan
+yang selama periode penelitian,
+yaitu tahun 2008, 2009, 2010,
+dan 2011.
+3. Data perusahaan lengkap dengan
+faktor-faktor yang akan diteliti.
+Berdasarkan kriteria tersebut
+diperoleh 16 perusahaan industri
+dasar dan kimia sebagai sampel
+penelitian.
+Variabel
+Variabel dependen penelitian
+adalah nilai perusahaan yang diukur
+menggunakan Tobin’s Q:
+
+Variabel independen dalam penelitian
+adalah:
+1. Ukuran perusahaan merupakan
+besar
+kecilnya
+perusahaan
+berdasarkan jumlah aktiva yang
+dimiliki
+perusahaan.
+Dalam
+penelitian ini ukuran perusahaan
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+diukur berdasarkan persamaan
+berikut ini:
+Size = Log Total Aktiva
+2. Leverage merupakan besarnya
+penggunaan hutang sebagai
+sumber pendanaan perusahaan
+(Sudana, 2009:23). Leverage
+dalam penelitian ini dihitung
+dengan menggunakan rasio DER
+(Debt to Equity Ratio), karena
+rasio ini mengukur proporsi dana
+yang bersumber dari utang untuk
+membiayai aktiva perusahaan.
+Debt to Equity Ratio dirumuskan
+sebagai berikut:
+
+Y=
+a+b1X1+b2X2+b3X3+ b4X4 +e
+Dimana:
+Y
+: Nilai Perusahaan
+a
+: Konstanta
+b1, b2, b3,b4 : Koefisien Regresi
+X1
+: Ukuran Perusahaan
+X2
+: Leverage
+X3
+: Profitabilitas
+X4
+: Price Earning Ratio
+(PER)
+e
+: variabel pengganggu
+(standar error).
+HASIL
+Tabel 1.Hasil Pengujian Regresi
+Model
+1
+
+3. Price Earning Ratio yang tinggi
+menunjukkan ekspektasi investor
+tentang prestasi perusahaan di
+masa yang akan datang cukup
+tinggi (Tandelilin, 2010: 320).
+Rumus untuk menghitung price
+earning ratio adalah sebagai
+berikut:
+
+(Constant)
+
+B
+
+t
+
+-7.623
+
+-6.607
+
+.000
+
+.661
+
+6.760
+
+.000
+
+-.141
+
+-1.410
+
+.164
+
+Price Earning Ratio
+(X3)
+
+.026
+
+5.699
+
+.000
+
+Profitabilitas (X4)
+
+.058
+
+7.687
+
+.000
+
+Ukuran
+Perusahaan (X1)
+Leverage (X2)
+
+Earning per lembar
+saham dapat diperoleh
+dengan
+earning
+perusahaan
+dibagi dengan jumlah saham
+beredar.
+4. Profitabilitas dalam penelitian ini
+dihitung dengan menggunakan
+rasio ROE (return on equity)
+sebagai berikut:
+
+Model Analisis
+Model analisis menggunakan
+analisis regresi berganda dengan
+SPSS versi 16. Model penelitian yang
+digunakan:
+190
+
+Sig.
+
+Persamaan
+regresi
+yang
+dihasilkan adalah sebagai berikut:
+Y = -7,623 + 0,661X1 0,141X2 + 0,026X3 + 0,058X4
+Pengujian terhadap hipotesis
+satu (H1) membuktikan bahwa
+ukuran perusahaan berpengaruh
+terhadap
+nilai
+perusahaan,
+ditunjukkan dengan nilai sig. t
+sebesar 0,00 (< 0,05). Tanda
+koefisien positif dapat diartikan
+bahwa
+ukuran
+perusahaan
+mempunyai arah hubungan yang
+positif terhadap nilai perusahaan
+dengan nilai koefisiennya 0,661.
+Pengujian terhadap hipotesis
+dua (H2) membuktikan bahwa
+leverage tidak berpengaruh terhadap
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+F
+49.668
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+nilai perusahaan, ditunjukkan dengan
+nilai sig. t sebesar 0,164 (> 0,05).
+Pengujian terhadap hipotesis
+tiga (H3) membuktikan bahwa price
+earning ratio berpengaruh terhadap
+nilai perusahaan, ditunjukkan dengan
+nilai sig. t sebesar 0,00 (< 0,05).
+Tanda
+koefisien
+positif
+dapat
+diartikan bahwa price earning ratio
+mempunyai arah hubungan yang
+positif terhadap nilai perusahaan
+dengan nilai koefisiennya 0,026.
+Pengujian terhadap hipotesis
+empat (H4) membuktikan bahwa
+profitabilitas berpengaruh terhadap
+nilai perusahaan, ditunjukkan dengan
+nilai sig. t sebesar 0,00 (<0,05).
+Tanda
+koefisien
+positif
+dapat
+diartikan
+bahwa
+profitabilitas
+mempunyai arah hubungan yang
+positif terhadap nilai perusahaan
+dengan nilai koefisiennya 0,058.
+Berdasarkan
+uji
+regresi
+berganda diperoleh hasil bahwa
+secara simultan variabel independen
+mempengaruhi nilai perusahaan,
+ditunjukkan nilai sig. F sebesar 0,00
+(<0,05).
+Pengaruh
+variabel
+independen
+mempengaruhi
+nilai
+perusahaan sebesar 77.1%, dan
+sisanya dipengaruhi oleh variabel lain
+yang tidak dimasukkan ke dalam
+variabel penelitian.
+PEMBAHASAN
+Pengaruh
+Ukuran Perusahaan
+Terhadap Nilai Perusahaan
+Ukuran
+perusahaan
+merupakan
+ukuran
+yang
+menggambarkan
+besar
+kecilnya
+perusahaan yang dapat dinilai dari
+nilai total aktiva perusahaan. Ukuran
+perusahaan yang besar menunjukkan
+bahwa
+perusahaan
+mengalami
+pertumbuhan yang baik. Perusahaan
+dengan pertumbuhan yang besar
+akan memperoleh kemudahan untuk
+memasuki pasar modal karena
+investor menangkap sinyal yang
+positif terhadap perusahaan yang
+191
+
+memiliki
+pertumbuhan
+besar
+sehingga respon yang positif tersebut
+mencerminkan meningkatnya nilai
+perusahaan. Nilai perusahaan yang
+meningkat dapat ditandai dengan
+total aktiva perusahaan industri dasar
+dan kimia yang mengalami kenaikan
+dan lebih besar dibandingkan dengan
+jumlah hutang perusahaan.
+Pada hasil penelitian ini
+ukuran perusahaan berpengaruh
+positif terhadap nilai perusahaan.
+Sehingga penelitian ini sama dengan
+penelitian terdahulu yang dilakukan
+oleh Soliha dan Taswan yang
+menyatakan
+bahwa
+ukuran
+perusahaan
+berpengaruh
+positif
+terhadap nilai perusahaan. Pada
+perusahaan industri dasar dan kimia
+tahun 2008 sampai dengan 2011
+menunjukkan
+bahwa
+ukuran
+perusahaan industri dasar dan kimia
+mengalami
+kenaikan
+sepanjang
+tahun 2008-2011.
+Pengaruh Leverage Terhadap Nilai
+Perusahaan
+Leverage
+merupakan
+kebijakan pendanaan yang berkaitan
+dengan
+keputusan
+perusahaan
+dalam
+mendanai
+investasi
+perusahaan.
+Perusahaan
+yang
+menggunakan hutang mempunyai
+kewajiban atas beban bunga dan
+beban pokok pinjaman. Penggunaan
+hutang (external financing) memiliki
+risiko yang cukup besar atas tidak
+terbayarnya
+hutang,
+sehingga
+penggunaan
+hutang
+perlu
+memperhatikan
+kemampuan
+perusahaan dalam menghasilkan
+laba.
+Pada hasil penelitian ini
+leverage tidak berpengaruh terhadap
+nilai
+perusahaan.
+Artinya,
+perusahaan
+dalam
+mendanai
+aktivanya cenderung menggunakan
+modal sendiri (internal financing)
+yang berasal dari laba ditahan dan
+modal
+saham
+daripada
+menggunakan hutang.
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+Pada kondisi perusahaan
+industri dasar dan kimia tahun 20082011
+menunjukkan
+bahwa
+perbandingan penggunaan hutang
+terhadap modal sendiri perusahaan
+semakin menurun. Sementara itu,
+modal sendiri yang berasal dari
+modal saham dan laba ditahan yang
+dimiliki perusahaan sepanjang tahun
+2008-2011
+selalu
+mengalami
+peningkatan.
+Hal ini menunjukkan bahwa
+perusahaan
+dalam
+mendanai
+aktivanya cenderung menggunakan
+modal sendiri (internal financing)
+yang berasal dari laba ditahan dan
+modal
+saham
+daripada
+menggunakan hutang. Kecukupan
+dana yang dimiliki perusahaan untuk
+membiayai aktivanya yang diperoleh
+dari
+modal
+sendiri
+membuat
+perusahaan mengurangi proporsi
+hutangnya. Penggunaan hutang yang
+berlebihan akan mengurangi manfaat
+yang diterima atas penggunaan
+hutang karena manfaat yang diterima
+tidak sebanding dengan biaya yang
+ditimbulkan,
+sehingga
+proporsi
+hutang
+yang
+rendah
+dapat
+meningkatkan nilai perusahaan dan
+sebaliknya peningkatan hutang dapat
+menurunkan nilai perusahaan.
+Hasil
+penelitian
+ini
+bertentangan
+dengan
+penelitian
+terdahulu yang dilakukan oleh
+Adelegan (2007) yang menyatakan
+bahwa leverage memiliki pengaruh
+negatif terhadap nilai perusahaan. hal
+ini dikarenakan peningkatan hutang
+akan
+meningkatkan
+risiko
+kebangkrutan
+dan
+kesulitan
+keuangan
+(financial
+distress).
+Kesulitan
+keuangan
+ini
+akan
+mengurangi keuntungan perusahaan
+yang
+pada
+akhirnya
+dapat
+menurunkan nilai perusahaan.
+
+192
+
+Pengaruh Price Earning
+Terhadap Nilai Perusahaan
+
+Ratio
+
+Price earning ratio adalah
+salah satu ratio yang paling favorit
+dipergunakan karena cukup mudah
+dipahami oleh investor maupun calon
+investor. Nilai price earning ratio yang
+rendah
+memberikan
+informasi
+kepada investor bahwa harga saham
+perusahaan pada kondisi murah atau
+layak untuk dibeli karena berpotensi
+naik di masa datang. Nilai price
+earning ratio yang rendah berarti laba
+perusahaan semakin tinggi yang
+berarti nilai perusahaan dalam
+kondisi bagus.
+Bagi
+pihak
+perusahaan,
+dampak
+price
+earning
+ratio
+mencerminkan indikator yang baik
+untuk menentukan stock return
+dimasa yang akan datang, dimana
+jika semakin tinggi price earning ratio
+maka semakin tinggi pula harga per
+lembar saham suatu perusahaan dan
+mengindikasikan nilai perusahaan
+yang
+bagus,
+sehingga saham
+perusahaan tersebut termasuk blue
+chip dalam pasar modal.
+Investor memiliki tanggapan
+yang berbeda terhadap nilai price
+earning
+ratio
+yang
+dimiliki
+perusahaan, semua itu tergantung
+pada
+preferensi
+masing-masing
+investor.
+Investor
+yang
+suka
+mengambil risiko (risk seeker)
+memiliki
+kecenderungan
+untuk
+berspekulasi
+sehingga
+lebih
+menyukai price earning ratio yang
+semakin tinggi. price earning ratio
+yang semakin tinggi menunjukkan
+bahwa harga saham
+semakin
+meningkat dan dari peningkatan
+harga saham tersebut berpotensi
+mendatangkan keuntungan atas
+selisih harga saham yang terjadi.
+Investor
+yang
+cenderung
+menghindari risiko (risk averter) lebih
+menyukai nilai price earning ratio
+yang rendah sebab nilai price earning
+ratio yang rendah menunjukkan
+semakin besarnya dividen yang
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+dibagikan serta semakin cepat
+kembalinya modal atas investasi
+yang dilakukan dan dengan harapan
+apabila mereka membeli saham yang
+harganya saat itu murah akan
+mendatangkan stock return yang
+lebih tinggi jika kemudian harganya
+kembali naik. Jadi rasio price earning
+ratio dilihat investor sebagai ukuran
+kemampuan menghasilkan laba di
+masa depan (future earning) dari
+suatu perusahaan.
+Menurut Hayati (2010), price
+earning ratio berpengaruh signifikan
+terhadap keputusan investasi saham
+karena
+price
+earning
+ratio
+mencerminkan hubungan antara
+harga pasar saham umum (common
+stock) dan laba per lembar saham.
+Price earning ratio dipandang oleh
+para
+investor
+sebagai
+ukuran
+kekuatan
+perusahaan
+untuk
+memperoleh laba dimasa yang akan
+datang (future earning power). Price
+earning ratio menunjukkan besarnya
+harga
+setiap
+rupiah
+earning
+perusahaan. Disamping itu price
+earning ratio juga merupakan ukuran
+harga relatif dari sebuah saham
+perusahaan. Oleh karena price
+earning ratio dapat dijadikan sebagai
+salah
+satu
+kriteria
+keputusan
+investasi saham. Nilai price earning
+ratio juga mencerminkan nilai suatu
+perusahaan
+atau
+prospek
+perusahaan kedepan yang apakah
+perusahaan
+masih
+mampu
+menghasilkan return yang bagus.
+Menurut
+Poernamawatie
+(2008), price earning ratio tidak
+berpengaruh signifikan terhadap
+return saham sedangkan price book
+value berpengaruh signifikan atau
+lebih dominan mempengaruhi return
+satu pertimbangan dalam
+mengambil keputusan investasinya,
+dimana dengan meningkatnya price
+earning ratio, mengindikasikan nilai
+perusahaan juga meningkat. Dengan
+meningkatnya price earning ratio,
+investor
+mengharapkan
+adanya
+193
+
+saham dibandingkan dengan price
+earning
+ratio.
+Investor
+dalam
+melakukan keputusan investasinya
+lebih mengandalkan price book value
+daripada price earning ratio. Hal ini
+disebabkan semakin tinggi price book
+value
+semakin
+tinggi
+tingkat
+kepercayaan pasar terhadap prospek
+perusahaan, maka akan menjadi
+daya
+tarik
+investor
+untuk
+membelinya. Sehingga permintaan
+akan saham tersebut naik, kemudian
+mendorong harga saham perusahaan
+tersebut naik.
+Oleh karena itu, perusahaan
+lebih dominan menggunakan price
+book value dalam meningkatkan nilai
+perusahaannya
+dibandingkan
+menggunakan price earning ratio.
+Stella (2009), melakukan penelitian
+tentang pengaruh price to earning
+ratio, debt to equity ratio, return on
+assets, dan price to book value
+terhadap harga pasar saham. Hasil
+penelitian menunjukkan bahwa price
+earning ratio berpengaruh positif
+signifikan terhadap harga pasar
+saham.
+Investor
+yang
+suka
+mengambil risiko (risk seeker)
+memiliki
+kecenderungan
+untuk
+berspekulasi
+sehingga
+lebih
+menyukai price earning ratio yang
+semakin tinggi. Price earning ratio
+yang semakin tinggi menunjukkan
+bahwa harga saham
+semakin
+meningkat dan dari peningkatan
+harga saham tersebut berpotensi
+mendatangkan keuntungan atas
+selisih harga saham yang terjadi.
+Hal ini berarti bahwa dalam
+berinvestasi investor memperhatikan
+price earning ratio sebagai salah
+pertumbuhan perusahaan yang lebih
+tinggi.
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+Pengaruh
+Profitabilitas
+Terhadap Nilai Perusahaan
+
+(ROE)
+
+Profitabilitas
+perusahaan
+merupakan kemampuan perusahaan
+dalam menghasilkan laba bersih dari
+aktivitas yang dilakukan pada periode
+akuntansi. Profitabilitas yang tinggi
+akan memberikan indikasi prospek
+perusahaan yang baik sehingga
+dapat memicu investor untuk ikut
+meningkatkan permintaan saham.
+Selanjutnya permintaan saham yang
+meningkat akan menyebabkan nilai
+perusahaan yang meningkat.
+Profitabilitas dapat dihitung
+dengan ROE (return on equity). ROE
+mencerminkan
+tingkat
+hasil
+pengembalian
+investasi
+bagi
+pemegang saham. Profitabilitas yang
+tinggi mencerminkan kemampuan
+perusahaan dalam menghasilkan
+keuntungan
+yang
+tinggi
+bagi
+pemegang saham. Dengan rasio
+profitabilitas tinggi yang dimilki
+sebuah perusahaan akan menarik
+minat investor untuk menanamkan
+modalnya diperusahaan. ROE yang
+tinggi akan meningkatkan harga
+saham, dan akan menarik minat
+investor
+untuk
+menanamkan
+modalnya pada perusahaan. Maka,
+akan terjadi hubungan positif antara
+profitabilitas dengan harga saham
+dimana tingginya harga saham akan
+mempengaruhi nilai perusahaan.
+Semakin
+tingginya
+profitabilitas perusahaan juga akan
+meningkatkan laba per lembar saham
+perusahaan. Adanya peningkatan
+laba per lembar saham perusahaan
+akan membuat investor tertarik untuk
+menanamkan modalnya dengan
+membeli saham perusahaan. Dengan
+banyaknya investor yang membeli
+saham perusahaan maka akan
+menaikkan harga saham perusahaan
+tersebut
+sehingga
+akan
+meningkatkan nilai perusahaan.
+
+194
+
+KESIMPULAN
+Hasil penelitian menunjukkan
+bahwa variabel ukuran perusahaan,
+price earning ratio, dan profitabilitas
+berpengaruh
+terhadap
+nilai
+perusahaan. Variabel leverage tidak
+berpengaruh
+terhadap
+nilai
+perusahaan.
+Saran
+bagi
+peneliti
+selanjutnya yang ingin meneliti
+kembali tentang faktor-faktor yang
+mempengaruhi nilai perusahaan,
+hendaknya menambah lagi variabelvariabel
+lain
+yang
+dapat
+mempengaruhi nilai
+perusahaan
+seperti insider ownership dan earning
+per lembar saham (EPS) sebab
+masih
+banyak
+variabel
+yang
+mempengaruhi nilai perusahaan.
+DAFTAR PUSTAKA
+Adelegan, Olatundun. 2007. Effect of
+Taxes on Business Financing
+Decision and Firm Value in
+Nigeria. International Research
+Journal
+of
+Finance
+and
+Economics. ISSN 1450-2887
+Issue 12 (2007).
+Arifin, Ali. 2004. Membaca Saham.
+Yogyakarta: Andi
+Arikunto, Suharsimi. 2002. Prosedur
+Penelitian: Suatu Pendekatan
+Praktek. Jakarta: PT Rineka
+Cipta.
+Brigham, F. Eugene dan Joel, F.
+Houston. 2006. Dasar-dasar
+Manajemen Keuangan Buku 1.
+Edisi
+Kesepuluh.
+Jakarta:
+Salemba Empat.
+Chang Cheng, Ming and Ching
+Tzeng, Zuwei. 2009. The Effect
+of Leverage on Firm Value and
+how the firm financial quality
+influence
+on
+this
+effect.
+International Research Journal
+of Finance and Economics.
+Vol.4, No.7, Hlm.89-104.
+Chowdhury, Anup dan Paul, Suman.
+2010. Impact of Capital Structur
+on Firm’s Value : Evidence from
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+Bangladesh. Jurnal Ekonomi.
+Vol.3, No.3, pp.111-122.
+Ghozali, Imam. 2001. Analisis
+Multivariate
+dan
+Program
+SPSS.
+Semarang:
+Badan
+Penerbit
+Universitas
+Diponegoro.
+Hayati, Nurul. 2010. Faktor-Faktor
+Yang Mempengaruhi Price
+Earning Ratio (PER) Sebagai
+Salah Satu Kriteria Keputusan
+Investasi Saham Perusahaan
+Real Estate Dan Property Di
+Bursa Efek Indonesia. Jurnal
+Manajemen dan Akuntansi.
+Vol.11, No.1. Hlm.53-62.
+Horne,
+James
+C.
+Van
+dan
+Wachowicz JR., John M. 2005.
+Financial Manajemen: Prinsipprinsip Manajemen Keuangan
+Buku 1. Edisi 12. Jakarta:
+Salemba Empat.
+Indrajaya, Glen, et al. 2011.
+Pengaruh
+Struktur
+Aktiva,
+Ukuran Perusahaan, Tingkat
+Pertumbuhan, Profitabilitas dan
+Risiko Bisnis Terhadap Struktur
+Modal: Studi Empiris Pada
+Perusahaan
+Sektor
+Pertambangan yang Listing di
+Bursa Efek Indonesia Periode
+2004-2007.
+Jurnal
+Ilmiah
+Akuntansi Nomor 06 Tahun ke2 September-Desember 2011.
+Jogiyanto, H. M. 2000. Teori
+Portofolio
+dan
+Analisis
+Investasi.
+Edisi
+Kedua.
+Yogyakarta: BPFE.
+Kaviani, Meysam & Biabani, Shaer.
+2012. Study of and Explain the
+Relationship
+between
+the
+Financial Leverage and New
+Performance Metrics (EVA,
+MVA, REVA, SVA and CVA)
+Evidence
+from
+Automotive
+Industry
+Tehran
+Stock
+Exchange. Journal of Risk and
+Diversification. ISSN 19864337 Issue 4.
+Laporan
+Bulanan
+Data
+Sosial
+Ekonomi. Edisi 21. Februari
+2012. (www.bps.co.id)
+195
+
+Mahendra
+DJ,
+Alfredo.
+2011.
+Pengaruh Kinerja Keuangan
+Terhadap Nilai Perusahaan
+(Kebijakan Dividen Sebagai
+Variabel Moderating) Pada
+Perusahaan Manufaktur Di
+Bursa Efek Indonesia. Tesis
+diterbitkan. Bali: Universitas
+Udayana.
+Malhotra, Naresh K. 2009. Riset
+Pemasaran. Jilid 1. Jakarta: PT.
+Indeks Gramedia.
+Margaretha, Farah & Damayanti,
+Irma. 2008. Pengaruh Price
+Earning Ratio, Dividen Yield,
+dan Market To Book Ratio
+Terhadap Stock Return Di
+Bursa Efek Indonesia. Jurnal
+Bisnis dan Akuntansi Vol.10,
+No.3.
+Poernamawati,
+Fahmi.
+2008.
+Pengaruh Price Book Value
+(PBV) Dan Price Earning Ratio
+(PER) Terhadap Return Saham
+Pada Perusahaan Manufaktur
+Yang Terdaftar Di Bursa Efek
+Indonesia. Jurnal Manajemen
+Gajayana. Vol.5, No.2.
+Santosa, P. Budi dan Ashari. 2005.
+Analisis
+Statistik
+Dengan
+Microsoft Excel dan SPSS.
+Yogyakarta: Penerbit ANDI
+Siamat, Dahlan. 1999. Manajemen
+Lembaga Keuangan. Jakarta:
+Lembaga Penerbit Fakultas
+Ekonomi UI
+Sudana, I Made. 2009. Manajemen
+Keuangan : Teori dan Praktek.
+Surabaya: Airlangga University
+Press
+Sugiyono. 2010. Statistika Untuk
+Penelitian. Bandung: Alfabeta.
+Sunariyah.
+2004.
+Pengantar
+Pengetahuan Pasar Modal.
+Edisi: Keempat. Yogyakarta: UPP
+AMP YKPN.
+Stella. 2009. Pengaruh Price To
+Earning Ratio, Debt To Equity
+Ratio, Return On Assets, dan
+Price To Book Value Terhadap
+Harga Pasar Saham. Jurnal
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Bhekti Fitri Prasetyorini; Pengaruh Ukuran Perusahaan ...
+
+Bisnis Dan Akuntansi. Vol. 11,
+No.2. Hlm. 97-106.
+Tandelilin, Eduardus. 2010. Analisis
+Investasi
+dan
+Manajemen
+Portofolio,
+Edisi:
+Pertama.
+Yogyakarta: BPFE.
+Taswan. 2003. Pengaruh Insiders
+Ownership, Kebijakan Hutang,
+dan
+Kebijakan
+Dividen
+Terhadap Nilai Perusahaan.
+Jurnal Manajemen. Vol. 6,
+No.10.
+Taswan dan Soliha, Euis. 2002.
+Pengaruh Kebijakan Hutang
+Terhadap Nilai Perusahaan
+Serta Beberapa Faktor Yang
+Mempengaruhinya.
+Jurnal
+Manajemen. Vol. 8, No.2.
+Tim. 2006. Panduan Penulisan Dan
+Penilaian Skripsi Universitas
+Negeri Surabaya. Surabaya:
+Universitas Negeri Surabaya.
+Yunita,
+Indah.
+2011.
+Analisis
+Pengaruh
+Profitabilitas,
+Kebijakan Utang, Kebijakan
+Dividen, Size, dan Mekanisme
+Good Corporate Governance
+Terhadap Nilai Perusahaan
+(Studi Kasus Pada Perusahaan
+Manufaktur yang Terdaftar Di
+Bursa Efek Indonesia Periode
+2005-2010). Tesis. Semarang:
+Universitas Diponegoro.
+Weston. J. Fred and Thomas E.
+Copeland. 1997. Manajemen
+Keuangan.
+Jilid
+2.
+Edisi
+Kesembilan. Jakarta: Binarupa
+Aksara.
+
+196
+
+Jurnal Imu Manajemen | Volume 1 Nomor 1 Januari 2013
+
+

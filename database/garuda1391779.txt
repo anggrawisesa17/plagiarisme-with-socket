@@ -1,0 +1,1141 @@
+Jurnal Saintek Perikanan Vol.7. no. 1 , 2011: 1 - 9
+
+ANALISIS KOMODITAS UNGGULAN PERIKANAN TANGKAP
+DI TAMAN NASIONAL KARIMUNJAWA
+Leading Commodity Analysis of Capture Fisheries
+in Karimunjawa National Park
+Ririn Irnawati1), Domu Simbolon2), Budy Wiryawan2), Bambang Murdiyanto2), Tri Wiji Nurani2)
+1)
+
+Mahasiswa Program Doktor Mayor SPT, Sekolah Pascasarjana IPB, Bogor
+2)
+Staf Pengajar Sekolah Pascasarjana IPB, Bogor
+
+Diserahkan tanggal 13 November 2010, Diterima tanggal 12 Januari 2011
+
+ABSTRAK
+Taman Nasional Karimunjawa (TNKJ) merupakan kawasan pelestarian perairan yang memiliki luas 111.625 ha
+dengan mayoritas penduduk bekerja sebagai nelayan. Zona pemanfaatan perikanan tradisional ditujukan untuk kegiatan
+perikanan tangkap. Karena itu kegiatan perikanan tangkap di TNKJ harus dilakukan sesuai prinsip konservasi. Tujuan
+penelitian ini adalah untuk menentukan komoditas ikan unggulan perikanan tangkap di TNKJ. Pemilihan komoditas
+unggulan dilakukan dengan teknik comparative performance index (CPI). Analisis potensi sumberdaya ikan dilakukan
+dengan model bioekonomi. Optimalisasi jumlah alat tangkap dilakukan dengan teknik linear goal programming (LGP).
+Kelayakan usaha dilakukan dengan analisis finansial. Hasil penelitian menunjukkan komoditas unggulan perikanan
+karang di TNKJ adalah ikan kuwe, dan untuk perikanan pelagis adalah ikan teri. Potensi sumberdaya ikan karang
+sebesar 174 ton/tahun dan ikan pelagis sebesar 22.069 ton/tahun. Teknologi penangkapan ikan tepat guna untuk
+perikanan karang adalah pancing ulur dan bubu, sedangkan untuk perikanan pelagis adalah pancing tonda dan gillnet.
+Analisis finansial menunjukkan bahwa semua alat tangkap masih layak untuk terus diusahakan.
+Kata kunci: komoditas unggulan, perikanan tangkap, Taman Nasional Karimunjawa
+
+ABSTRACT
+Karimunjawa National Parks (TNKJ) is a marine conservation area which has 111.625 ha area with the majority of
+residents work as fishermen. Utilization of traditional fisheries zone intended for fishing activities. Therefore, fishing
+activities in TNKJ should be conducted in accordance with the principles of conservation. The aim of this study was to
+determine the winning fish fishery commodities in TNKJ. The selection of commodities was done by using comparative
+performance index (CPI). Analysis of potential fish resources is done with bioeconomic model. Optimizing the amount
+of fishing equipment was done by using linear goal programming (LGP). Feasibility of the business conducted by
+financial analysis. The results showed commodities TNKJ reef fisheries are pompano, and for pelagic fisheries are
+anchovies. Reef fish resource potential of 174 tons / year and pelagic fish of 22 069 tons / year. Appropriate fishing
+technologies for reef fisheries is the fishing rod elongation and traps, while for the pelagic fishery and gillnet fishing
+minnows on trolling lines. Financial analysis shows that all fishing gear is still viable to continue the effort.
+Key words: Selection commodities, fishing activities, Karimunjawa National Parks
+
+sosial ekonomi nelayan yang dapat dijadikan andalan
+untuk mendapatkan pendapatan. Komoditas unggulan
+menurut Hendayana (2003) merupakan suatu jenis
+komoditas yang paling diminati dan memiliki nilai jual
+tinggi serta diharapkan mampu memberikan
+pemasukan yang besar dibandingkan dengan jenis yang
+lainnya.
+
+PENDAHULUAN
+Penentuan komoditas ikan unggulan di suatu
+daerah merupakan langkah awal menuju pembangunan
+dan pengelolaan perikanan tangkap yang berpijak pada
+konsep efisiensi untuk meraih keunggulan komparatif
+dan kompetitif dalam menghadapi globalisasi
+perdagangan. Langkah menuju efisiensi dapat
+ditempuh dengan menentukan komoditas ikan yang
+mempunyai keunggulan komparatif, baik ditinjau dari
+sisi penawaran maupun permintaan, serta keunggulan
+daya saing tinggi. Dari sisi penawaran, komoditas ikan
+unggulan
+dicirikan
+oleh
+superioritas
+dalam
+pertumbuhan pada kondisi biofisik, teknologi, dan
+
+Kepulauan Karimunjawa merupakan suatu
+kelompok pulau-pulau kecil yang berjumlah 27 pulau,
+yang ditetapkan sebagai taman nasional dengan nama
+Taman Nasional Karimunjawa (TNKJ). Pengelolaan
+TNKJ dilakukan dengan sistem zonasi, dan kegiatan
+perikanan tangkap diperbolehkan dilakukan pada zona
+1
+
+Jurnal Saintek Perikanan Vol.7. no. 1 , 2011: 1 - 9
+
+pemanfaatan perikanan tradisional (zona PPT). Peluang
+pengembangan perikanan tangkap di Karimunjawa
+masih terbuka luas, namun belum dilakukan secara
+optimal. Banyaknya jenis komoditas perikanan
+sehingga rataan tiap komoditas menjadi relatif kecil.
+Disamping itu terdapat berbagai macam teknologi
+penangkapan namun terdapat kendala dalam
+pengusahaannya, terutama dalam permodalan dan
+pasar. Berdasarkan hal tersebut, maka penelitian ini
+sangat relevan untuk dilakukan.
+
+yang dapat digunakan untuk menentukan penilaian atau
+peringkat dari berbagai alternatif berdasarkan beberapa
+kriteria. Analisis CPI didasarkan pada tiga kriteria,
+yaitu nilai location quotient (LQ) dari volume produksi
+ikan, LQ dari nilai produksi, dan peluang pasar.
+Nilai LQ dihitung berdasarkan Budiharsono
+(2005). Metode location quotient (LQ) merupakan
+perbandingan pangsa relatif pendapatan sektor i pada
+tingkat wilayah terhadap pendapatan total wilayah pada
+pangsa relatif pendapatan sektor i pada tingkat nasional
+terhadap pendapatan nasional. Pada penelitian ini,
+penentuan LQ dengan kriteria pendapatan diganti
+dengan kriteria produksi dan nilai produksi ikan.,
+sedangkan tingkat kabupaten diganti dengan
+kecamatan dan provinsi diganti dengan kabupaten.
+
+Tujuan dari penelitian ini adalah untuk
+mengkaji komoditas unggulan perikanan tangkap di
+Karimunjawa, yang meliputi kegiatan: (1) menentukan
+komoditas ikan unggulan; (2) mengkaji besarnya
+potensi SDI dan peluang pengembangnnya; dan (3)
+menentukan teknologi penangkapan ikan tepat guna.
+
+Formula penentuan nilai LQ adalah
+
+vi
+LQ =
+
+METODE PENELITIAN
+Waktu dan Tempat Penelitian
+Penelitian dilaksanakan pada bulan Oktober
+2009-Desember 2010 di Karimunjawa Kabupaten
+Jepara Propinsi Jawa Tengah.
+
+Vi
+
+vt
+
+Vt
+
+Keterangan :
+vi = pendapatan (produksi atau nilai produksi)
+sektor ke-i (jenis ikan ke-i) pada tingkat
+kecamatan (Karimunjawa)
+
+Pengumpulan Data
+Metode pengumpulan data meliputi kegiatan
+pengamatan, wawancara, dan penelusuran studi
+pustaka (menggali sumber-sumber sekunder). Jenis
+data yang digunakan adalah data primer dan data
+sekunder. Data primer terdiri dari jenis dan harga ikan
+hasil tangkapan, pemasaran ikan hasil tangkapan,
+produksi ikan, jenis dan jumlah alat tangkap, biaya
+operasi (biaya tetap dan biaya variabel), biaya
+investasi, dan tingkat suku bunga. Data primer
+diperoleh melalui wawancara dan pengamatan. Data
+sekunder diperoleh melalui studi pustaka, yaitu data
+time series perikanan tangkap dari PPP Karimunjawa
+dan DKP Kab. Jepara dan DKP Provinsi Jawa Tengah.
+
+vt
+
+= pendapatan (produksi atau nilai produksi) total
+kecamatan (Karimunjawa)
+Vi = pendapatan (produksi atau nilai produksi)
+sektor ke-i (jenis ikan ke-i) pada tingkat
+provinsi (Jawa Tengah)
+Vt = pendapatan (produksi atau nilai produksi) total
+provinsi (Jawa Tengah)
+Potensi SDI
+Potensi SDI dikaji dengan model Bioekonomi
+(Grafton et al. 2010; Sumaila and Hannesson 2010).
+Model bio-ekonomi SDI diduga dengan model
+Gordon-Schaefer Fox, dengan berdasarkan pada model
+biologi Schaefer-Fox dan model ekonomi Gordon.
+Model ini disusun dari model parameter biologi, biaya
+penangkapan dan harga ikan. Hubungan hasil
+tangkapan dengan upaya penangkapan dilihat dengan
+menggunakan metode surplus produksi Schaefer-Fox
+(Sparre and Venema, 1999).
+
+Analisis Data
+Komoditas Ikan Unggulan
+Pemilihan komoditas unggulan dilakukan
+dengan comparative performance index (CPI)
+(Marimin 2004). Teknik perbandingan indeks kinerja
+(CPI) merupakan indeks gabungan (composite index)
+Hubungan fungsi tersebut adalah :
+
+Selanjutnya upaya penangkapan optimum dan produksi
+maksimum lestari ditentukan dengan langkah-langkah
+sebagai beirkut:
+(1) Hubungan
+antara
+CPUE
+dengan
+upaya
+penangkapan (f),
+
+Y = a + bx + e
+dimana : Y = peubah tak bebas (CPUE) dalam kg/unit
+x = peubah bebas (effort) dalam unit kapal
+e = simpangan
+α,β = parameter regresi penduga nilai a dan b.
+
+CPUE = a - bf
+
+Kemudian diduga dengan fungsi dugaan, yaitu : Y= a
++ bx
+Nilai a dan b dapat ditentukan dengan analisis regresi
+dengan microsoft excel.
+
+.......................... (Schaefer)
+
+CPUE = exp(c - df )
+
+.........................(Fox)
+
+(2) Hubungan antara hasil tangkapan (C) dengan
+
+2
+
+Jurnal Saintek Perikanan Vol.7. no. 1 , 2011: 1 - 9
+
+upaya penangkapan (f),
+
+C = af - bf
+
+2
+
+f =
+........................ (Schaefer)
+
+(3) Upaya penangkapan optimum (fopt) diperoleh
+dengan cara menyamakan turunan pertama hasil
+tangkapan terhadap upaya penangkapan sama
+dengan nol sebagai berikut :
+
+MSY = a 2 / 4b
+MSY =
+
+.............................................(Schaefer)
+
+1
+* exp(c - 1)
+d
+
+.........................(Schaefer)
+.............................. (Fox)
+
+TC = c.E .
+dimana :
+TC = total cost (biaya penangkapan total)
+c
+= total pengeluaran rata-rata unit penangkapan
+ikan (Rp)
+E = jumlah upaya penangkapan untuk menangkap
+SDI (unit)
+
+Dalam perhitungan MSY, terlebih dahulu
+dilakukan standarisasi alat tangkap. Perikanan tropis
+memiliki ciri multispecies dan multigear. Alat tangkap
+distandarkan berdasarkan alat tangkap yang memiliki
+nilai CPUE tertinggi. Penentuan model terpilih dilihat
+dari nilai koefisien determinasi (R). Nilai R terbesar
+dari kedua model (Schaefer dan Fox) menunjukkan
+bahwa model tersebut terpilih untuk digunakan dalam
+pendugaan potensi sumberdaya ikan.
+
+Pemilihan Teknologi Penangkapan Ikan Tepat
+Guna
+Pemilihan teknologi penangkapan ikan tepat
+guna dilakukan dengan menggunakan analisis multikriteria (Briguglio 1995), yang meliputi aspek biologi,
+teknis, sosial, dan ekonomi (Tabel 1). Kriteria yang
+digunakan dalam penelitian ini dimodifikasi dari
+Haluan dan Nurani (1988) dan Monintja (2000), serta
+didasarkan pada kondisi yang ada di lapangan,
+sehingga diharapkan dapat mewakili gambaran
+teknologi penangkapan ikan tepat guna di kawasan
+TNKJ.
+
+Berdasarkan asumsi bahwa harga ikan per kg
+(p) dan biaya penangkapan per unit upaya tangkap
+adalah konstan, maka total penerimaan nelayan dari
+usaha penangkapan (TR) adalah TR = p.C .
+dimana :
+TR = total revenue (penerimaan total)
+P = harga rata-rata ikan hasil survey per kg (Rp)
+C = jumlah produksi ikan (kg)
+Total biaya penangkapan
+persamaan
+
+..............................................(Fox)
+
+(4) Produksi maksimum lestari (MSY) diperoleh
+dengan cara mensubstitusikan nilai upaya
+penangkapan optimum ke dalam persamaan (2)
+
+C = f * exp(c + df ) ................................ (Fox)
+
+a
+f =
+2b
+
+1
+d
+
+(TC) dihitung dengan
+
+3
+
+Jurnal Saintek Perikanan Vol.7. no. 1 , 2011: 1 - 9
+
+Tabel 1.
+
+No.
+1.
+
+Aspek bio-tekno-sosio-ekonomi yang digunakan dalam pemilihan teknologi penangkapan
+ikan tepat guna
+
+Aspek
+Biologi
+
+Kriteria
+a. Jenis ikan tangkapan
+
+Keterangan Skor
+1 = ikan ekonomis rendah, 2 = ikan ekonomis
+sedang, 3 = ikan ekonomis tinggi
+1 = tidak layak secara biologi, 2 = cukup layak,
+3 = layak
+1 = rendah, 2 = sedang, 3 = tinggi
+1 = sangat merusak, 2 = cukup merusak, 3 =
+tidak merusak
+1 = beragam, 2 = kurang beragam, 3 = seragam
+1 = tinggi, 2 = sedang, 3 = rendah
+
+b. Ukuran ikan hasil tangkapan
+c. Nilai CPUE
+d. Dampak terhadap habitat dan
+biodiversity
+e. Komposisi hasil tangkapan
+f. By-catch
+2.
+
+Teknis
+
+a. Lama trip
+b. Metode pengoperasian
+c. Daya jangkau operasi
+
+1 = sehari, 2 = 2-4 hari, 3 = seminggu
+1 = sulit, 2 = sedang, 3 = mudah
+1 = dekat (< 3 mil) , 2 = sedang (3-6 mil), 3 =
+jauh (> 6 mil)
+1 = sangat berpengaruh, 2 = cukup
+berpengaruh, 3 = tidak berpengaruh
+1 = tidak selektif, 2 = cukup selektif, 3 = sangat
+selektif
+1 = rendah, 2 = sedang, 3 = tinggi
+
+d. Pengaruh faktor oseanografi
+e. Selektifitas alat tangkap
+f. Penguasaan dan penggunaan
+teknologi dan alat bantu
+g. Penggunaan bahan bakar
+3.
+
+Sosial
+
+1 = banyak, 2= sedang, 3 = sedikit
+
+a. Peluang konflik
+b. Jumlah ABK
+
+1 = tinggi, 2 = sedang, 3 = rendah
+1 = sedikit (2-4), 2 = sedang (5-10), 3 = banyak
+(> 11)
+1 = jelek, 2 = sedang, 3 = baik
+1 = ilegal, 2 = modifikasi, 3 = legal
+1 = tinggi, 2 = sedang, 3 = rendah
+
+c. Penerimaan masyarakat
+d. Aspek hukum
+e. Dampak terhadap nelayan
+4.
+
+Ekonomi
+
+a. Tingkat keuntungan
+
+1 = rendah (< 20 juta), 2 = sedang (20-30 juta),
+3 = tinggi (>30 juta)
+b. Nilai investasi
+1 = tinggi (> 40 juta), 2 = sedang (26-40 juta), 3
+= rendah (10-25 juta)
+c. Biaya operasional per trip
+1 = tinggi (>1.000.000), 2 = sedang (500.0001.000.000), 3 = rendah (<500.000)
+d. Pendapatan nelayan per bulan 1 = rendah (< Rp. 750.000), 2 = sedang (Rp.
+750.000-1.000.000), 3 = tinggi (> Rp.
+e. Pemasaran hasil tangkapan
+1000.000)
+1 = lokal, 2 = nasional, 3 = ekspor
+Sumber: dimodifikasi dari Haluan dan Nurani (1988) dan Monintja (2000)
+Analisis Finansial
+
+HASIL DAN PEMBAHASAN
+
+Kelayakan usaha penangkapan ikan dianalisis
+dengan menggunakan kriteria net benefit, analisis
+imbang penerimaan dan biaya (R/C), payback period,
+analisis tingkat pengembalian investasi (ROI), Net
+Present Value (NPV), Benefit Cost Ratio (B/C), dan
+Internal Rate of Return (IRR) (Hernanto 1989;
+Kadariah et al. 1999). Kriteria-kriteria tersebut juga
+dipergunakan sebagai bahan pertimbangan dalam
+penentuan teknologi penangkapan ikan yang tepat
+guna.
+
+Komoditas Unggulan
+Hasil analisis comparataive performance index
+(CPI) menunjukkan ikan kuwe (Caranx sp) merupakan
+komoditas
+unggulan
+perikanan
+tangkap
+di
+Karimunjawa (Tabel 2), kemudian diikuti oleh ekor
+kuning (Caesio sp) dan kerapu (Ephinephelus sp) yang
+berada di urutan kedua dan ketiga. Berdasarkan jenis
+ikan yang dianalisis dengan CPI, terlihat bahwa ikan
+kuwe, ekor kuning, dan kerapu, merupakan jenis ikan
+karang. Sedangkan teri (Stelophorus sp), cumi-cumi
+
+4
+
+Jurnal Saintek Perikanan Vol.7. no. 1 , 2011: 1 - 9
+ikan), aksesibilitas pasar, serta kebijakan dan
+kelembagaan, namun berbeda dengan jenis ikan
+lainnya (teri, cumi-cumi, tongkol, dan tengiri).
+Berdasarkan hal tersebut, maka pengelolaan perikanan
+tangkap di Karimunjawa dibagi menjadi dua, yaitu
+perikanan
+karang
+dan
+perikanan
+pelagis.
+
+(Loligo sp), tengiri (Scomberomorus sp), dan tongkol
+(Euthynnus affinis) adalah jenis ikan pelagis.
+Pengelolaan ikan kuwe, berkaitan dengan pemanfaatan
+dan perlindungannya, relatif tidak berbeda dengan ekor
+kuning dan kerapu, juga dalam aspek usaha (armada
+penangkapan, alat tangkap, dan daerah penangkapan
+
+Tabel 2 Nilai CPI jenis-jenis ikan hasil tangkapan di TNKJ
+No.
+
+Jenis ikan
+
+LQ
+Produksi
+
+LQ Nilai
+Produksi
+
+Peluang
+Pasar
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Cumi-cumi
+Ekor kuning
+Tengiri
+Kerapu
+Teri
+Tongkol
+Kuwe
+
+4,45
+24,17
+8,04
+23,08
+15,76
+1,85
+81,29
+
+1,71
+54,93
+4,11
+34,19
+2,52
+1,01
+62,29
+
+2,00
+1,00
+2,00
+3,00
+1,00
+1,00
+1,00
+
+LQ
+Produksi
+240,54
+1.306,49
+434,59
+1.247,57
+851,89
+100,00
+4.394,05
+
+Olahan CPI
+LQ Nilai Peluang
+Produksi
+Pasar
+169,31
+200,00
+5.438,61
+100,00
+406,93
+200,00
+3.385,15
+300,00
+249,50
+100,00
+100,00
+100,00
+6.167,33
+100,00
+
+Jumlah
+
+Prioritas
+
+609,85
+6.845,10
+1.041,53
+4.932,72
+1.201,40
+300,00
+10.661,38
+
+6
+2
+5
+3
+4
+7
+1
+
+Potensi SDI
+perikanan karang dan perikanan pelagis masih
+berpeluang untuk dikembangkan di Karimunjawa,
+karena tingkat pemanfaatan dan tingkat upayanya
+masih berada di bawah nilai maximum sustainable
+yield (MSY).
+
+Hasil analisis potensi sumberdaya ikan disajikan
+pada Tabel 3 dan 4, serta Gambar 1 dan 2. Hasil analisis
+dengan menggunakan model Schaefer seperti yang terlihat
+pada Tabel 3 dan Gambar 1, menunjukkan bahwa
+
+Tabel 3 Hasil analisis potensi SDI (Model Schaefer)
+Komponen
+Jenis Ikan
+
+MSY
+
+FMSY
+
+Tingkat
+
+Tingkat
+
+Peluang
+
+(Kg/tahun)
+
+(Trip/tahun)
+
+Pemanfaatan (%)
+
+Upaya (%)
+
+Pengembangan
+
+Ikan karang
+
+174.225,68
+
+11.873,44
+
+66,16
+
+26,61
+
+(+)
+
+Ikan pelagis
+
+22.069.454,82
+
+1.778,22
+
+73,69
+
+81,82
+
+(+)
+
+dikembangkan. Usaha perikanan tangkap pada titik
+MSY dan MEY, baik untuk perikanan karang
+maupun perikanan pelagis, masih menguntungkan
+untuk dilakukan.
+
+Hasil analisis dengan menggunakan model ekonomi
+Gordon seperti yang disajikan pada Tabel 4 dan Gambar 2,
+menunjukkan perikanan karang dan perikanan pelagis di
+Karimunjawa menunjukkan masih berpeluang untuk
+
+Tabel 4 Hasil analisis ekonomi (Model Ekonomi Gordon)
+Jenis Ikan
+Ikan karang
+Effort (Unit)
+Penerimaan (Rp x 100)
+Biaya (Rp x 200)
+Ikan pelagis
+Effort (unit)
+
+Open Access
+
+MEY
+
+15.600
+15.604.898
+15.600.000
+
+MSY
+
+8.000
+15.541.712
+8.000.000
+
+11.873
+17.363.811
+11.873.000
+
+2.717
+
+1.400
+
+1.778
+
+Penerimaan (Rp x 10)
+
+12.734.846,92
+
+16.856.811,35
+
+7.655.563,57
+
+Biaya (Rp x 100)
+
+12.734.397,78
+
+6.561.706,62
+
+5
+
+8.333.367,41
+
+Jurnal Saintek Perikanan Vol.7. no. 1 , 2011: 1 - 9
+
+Gambar 1
+
+Gambar 2
+
+(a)
+(b)
+(a) Hubungan hasil tangkapan dengan upaya penangkapan ikan karang di perairan Kepulauan
+Karimunjawa; (b) Keseimbagan bioekonomi Gordon-Schaefer untuk pengelolaan ikan karang di
+Kepulauan Karimunjawa
+
+(a)
+(b)
+(a) Hubungan hasil tangkapan dengan upaya penangkapan ikan pelagis di Karimunjawa;
+(b) Keseimbangan bioekonomi Gordon-Schaefer untuk pengelolaan perikanan pelagis di
+Karimunjawa.
+Pancing ulur terpilih sebagai teknologi penangkapan
+ikan tepat guna untuk memanfaatkan sumberdaya ikan
+karang, dan pancing tonda untuk memanfaatkan
+sumberdaya ikan pelagis di Kepulauan Karimunjawa
+(Tabel 5).
+
+Pemilihan Teknologi Penangkapan Ikan Tepat
+Guna
+Hasil analisis multi-kriteria terhadap jenis alat
+tangkap yang digunakan untuk memanfaatkan
+sumberdaya ikan unggulan disajikan pada Tabel 5.
+
+Tabel 5 Penilaian gabungan pemilihan teknologi penangkapan tepat guna
+Aspek
+Alat Tangkap
+Biologi
+Teknis
+Sosial
+Ekonomi
+Perikanan Karang
+Pancing Ulur
+0,63
+0,75
+0,79
+0,77
+Bubu
+0,69
+0,30
+0,50
+0,78
+Muroami
+0,50
+0,29
+0,31
+0,40
+Perikanan Pelagis
+Pancing Tonda
+0,72
+0,71
+0,74
+0,61
+Branjang
+0,42
+0,41
+0,50
+0,53
+Gillnet
+0,40
+0,56
+0,51
+0,59
+
+6
+
+Ratarata
+
+Prioritas
+
+0,71
+0,57
+0,38
+
+1
+2
+3
+
+0,70
+0,47
+0,52
+
+1
+3
+2
+
+Jurnal Saintek Perikanan Vol.7. no. 1 , 2011: 1 - 9
+Kelayakan Usaha Perikanan Tangkap
+
+diusahakan. Kriteria kelayakan dalam hal ini
+mengacu pada nilai standar sesuai kriteria yang
+dikemukakan oleh Hernanto (1989) dan Kadariah et
+al. (1999). Namun pengusahaan setiap jenis alat
+tangkap harus disesuaikan dengan peraturan yang
+berlaku dan sesuai dengan prinsip konservasi.
+
+Hasil analisis kelayakan usaha perikanan tangkap di
+Karimunjawa disajikan pada Tabel 6. Hasil analisis
+kelayakan usaha menunjukkan bahwa usaha perikanan
+tangkap di Karimunjawa masih layak untuk terus
+
+Tabel 6 Kelayakan usaha perikanan tangkap
+Kriteria
+Jenis AT
+
+Keuntungan
+(Rp)
+
+Perikanan Karang
+Bubu
+70.012.000,00
+P. Ulur
+55.142.000,00
+Muroami
+85.122.666,67
+Perikanan Pelagis
+P. Tonda
+55.142.000,00
+B. Perahu
+40.287.000,00
+Gillnet
+21.415.000,00
+
+R/C
+
+PP
+
+ROI (%)
+
+NPV (Rp)
+
+Net
+B/C
+
+IRR
+
+1,42
+1,39
+1,32
+
+0,50
+0,91
+1,13
+
+201,18
+110,28
+88,49
+
+216.183.162,26
+134.844.536,41
+189.144.381,02
+
+7,21
+3,70
+2,97
+
+200,91
+107,83
+84,75
+
+1,39
+1,25
+1,14
+
+0,91
+0,89
+2,71
+
+110,28
+111,91
+291,96
+
+134.844.536,41
+131.419.857,52
+13.786.401,42
+
+3,70
+4,65
+1,24
+
+107,83
+109,80
+24,71
+
+berdasarkan data biomass hasil visual sensus dari
+WCS pada tahun 2007 yang berkisar 143,211.209,72 kg/ha (Ardiwijaya et al. 2007), dan
+diperoleh nilai potensi sumberdaya ikan karang
+(MSY) berkisar 25-431 ton/tahun. Jika diasumsikan
+terjadi penurunan sebesar 10% pertahun (penurunan
+kelimpahan ikan di zona inti dan zona pemanfaatan
+perikanan tradisional berkisar 6-12% per tahun),
+diperoleh nilai MSY pada tahun 2009 berkisar 20345 ton/tahun. Jika hasil perhitungan potensi SDI di
+TNKJ dengan model Schaefer dibandingkan
+dengan perhitungan potensi hasil dari kegiatan
+visual sensus yang dilakukan oleh WCS, maka nilai
+yang diperoleh masih berada dalam kisaran nilai
+MSY hasil dari kegiatan visual sensus yang
+dilakukan oleh WCS.
+Pemanfaatan ikan karang juga harus
+memperhatikan kondisi SDI karang saat ini.
+Kecenderungan produksi ikan karang yang terus
+menurun juga harus diantisipasi dengan pola
+pemanfaatan yang lebih bertanggung jawab. Hal ini
+antara lain dilakukan dengan mengembangkan
+teknologi penangkapan tepat guna yang sesuai
+dengan potensi SDI dan habitat. Pancing ulur dan
+bubu yang keduanya terpilih sebagai teknologi
+penangkapan tepat guna, harus memperhatikan
+potensi SDI dan perkembangan tren produksi
+tersebut. Produksi dan effort ikan karang (Gambar
+1) pada tahun 2008 sangat besar dan telah
+melampaui produksi pada tingkat MSY dan jumlah
+effort optimal, hal ini diduga karena penggunaan
+muroami yang masih marak dilakukan di dalam
+kawasan TNKJ. Pada tahun 2009 jumlah produksi
+dan effortnya menurun secara signifikan, diduga
+karena jumlah alat tangkap muroami telah banyak
+berkurang di Karimunjawa. Selama penelitian di
+lapangan, hanya tersisa satu unit muroami, dan
+nelayan Karimunjawa yang beralih ke muroami,
+telah beralih kembali menggunakan alat tangkap
+lama (pancing ulur dan bubu).
+
+Pengelolaan perikanan tangkap merupakan suatu
+runtut kegiatan yang kompleks dan berkesinambungan
+mulai dari kegiatan di hulu sampai hilir. Keberhasilan
+pengelolaan dan pengembangan perikanan tangkap sangat
+tergantung pada kemajuan-kemajuan yang dapat dicapai
+pada setiap simpul yang menjadi bagiannya. Kegiatan di
+bagian hulu antara lain terkait dengan SDI dan sarana
+penangkapan. Karenanya beberapa hal penting yang harus
+diperhatikan dalam perencanaan pengelolaan perikanan
+tangkap di Karimunjawa adalah penentuan SDI unggulan,
+penghitungan nilai potensi SDI, penentuan teknologi
+penangkapan ikan tepat guna, dan kelayakan usaha.
+Pengembangan perikanan tangkap tidak terlepas
+dari pengembangan jenis SDI unggulan, disamping jenis
+dan jumlah unit penangkapan yang akan dikembangkan di
+suatu daerah. Penentuan prioritas SDI unggulan
+merupakan proses yang sangat penting mengingat
+keberadaan SDI unggulan dapat menjadi penentu
+keberlangsungan pengembangan perikanan tangkap.
+Pengelolaan dan pengembangan potensi SDI unggulan
+perlu dilakukan secara optimal, sehingga diharapkan dapat
+menggerakkan ekonomi wilayah dan mengurangi
+kesenjangan antar wilayah. Pendekatan yang digunakan
+untuk menduga potensi SDI di suatu wilayah, sebagaimana
+diungkapkan oleh Supardan et al. (2006), Tinungki (2005)
+dan Murdiyanto (2004), menggunakan data dan informasi
+hasil tangkapan per upaya penangkapan minimal lima
+tahun terkahir. Dengan mengetahui besaran potensi SDI,
+sehingga dapat menentukan kebijakan yang sesuai untuk
+proses pengembangan perikanan ke depan. Konsep
+optimasi yang digunakan dalam penelitian ini adalah
+model bioekonomi (Grafton et al. 2010; Sumaila and
+Hannesson 2010), dimana kegiatan perikanan tangkap di
+Karimunjawa diarahkan pada pencapaian tingkat produksi
+lestari tertinggi (MSY) dan dititikberatkan bukan pada
+pencapaian tingkat produksi tertinggi, melainkan pada
+tingkat produksi lestari yang memberikan efisiensi
+tertinggi (MEY).
+Hasil analisis potensi sumberdaya ikan karang
+dengan model Schaefer menunjukkan nilai sebesar 174
+to n /t a h u n ( Ga mb ar 1 ). P erb a nd i n g a n ni la i M SY
+7
+
+Jurnal Saintek Perikanan Vol.7. no. 1 , 2011: 1 - 9
+Produksi ikan pada tahun 2008 menunjukkan
+pemanfaatannya telah melebihi MSY sehingga perlu
+pengelolaan yang lebih baik dan bertanggung jawab.
+Meskipun pada tahun 2009 telah mengalami penurunan
+jumlah effort dan produksi. Hasil analisis kelayakan usaha
+(Tabel 4) menunjukkan alat tangkap tersebut masih layak
+untuk terus diusahakan, dan hasil optimasi alat tangkap
+dengan LGP masih memenuhi jumlahnya (Tabel 2).
+Kecuali jumlah bubu yang harus dikurangi, hal ini karena
+ada indikasi penurunan hasil tangkapan bubu yaitu ikan
+kerapu, sehingga pengusahaan alat tangkap bubu juga
+harus mempertimbangkan produksi dan potensi ikan
+kerapu. Disamping itu, karena sifat sumberdaya ikan
+karang yang berasosiasi dengan ekosistem terumbu karang,
+aktivitas atau migrasinya rendah, dan daerah ruaya yang
+relatif sempit (di perairan sekitar terumbu karang),
+sehingga perlu pengelolaan perikanan karang yang lebih
+bijaksana agar tercipta keberlanjutan sumberdaya ikan
+karang dan ekosistemnya. Pemanfaatan ikan pelagis harus
+memperhatikan kesesuaian dengan perkembangan
+perikanan tangkap di perairan Laut Jawa. Hal ini karena
+sifat SDI pelagis yang sangat dinamis dan melakukan
+migrasi.
+Pemasyarakatan teknologi penangkapan ikan tepat
+guna harus dilakukan dalam rangka pengembangan
+pemanfaatan SDI dan peningkatan ketrampilan dan budaya
+masyarakat nelayan di kawasan Karimunjawa yang telah
+berjalan selama ini. Penerapan teknologi penangkapan
+tepat guna harus sejalan dengan upaya menjaga kelestarian
+dan keberlanjutan lingkungan. Ketrampilan yang berkaitan
+dengan pengelolaan SDI dan lingkungan yang benar akan
+sangat berguna bagi masyarakat nelayan untuk
+meningkatkan kualitas usaha dan meminimalkan
+pemanfaatan SDI yang kurang memperhatikan kaidah
+kelestarian dan keberlanjutan SDI dan lingkungan. Hal ini
+kemukakan oleh Kusumastanto (2003), pemasyarakatan
+teknologi untuk nelayan hendaknya difokuskan pada upaya
+penciptaan kemandirian masyarakat melalui penguasaan,
+pengembangan
+dan
+penerapan
+teknologi
+untuk
+optimalisasi pengelolaan SDI, termasuk rehabilitasi habitat
+ikan, seperti bahan dan peralatan yang produktif, efisien,
+dan berwawasan lingkungan bagi pengembangan
+perikanan rakyat.
+Permasalahan utama yang banyak dialami oleh
+masyarakat nelayan yang ada di kepulauan adalah
+ketergantungan pada alam atau musim (Haryono 2005).
+Misalnya pada musim ikan, nelayan akan sangat sibuk,
+sedangkan saat paceklik, nelayan akan menganggur atau
+mencari kegiatan ekonomi yang lain. Namun nelayan di
+Karimunjawa umumnya telah memiliki kesadaran diri
+mengantisipasi hal tersebut. Masyarakat nelayan telah
+memiliki kesadaran untuk menghadapi perubahan alam
+atau musim yang terjadi, diantaranya dengan pengaturan
+jenis alat tangkap yang digunakan. Nelayan telah mampu
+menyesuaikan perubahan musim ikan dengan penggunaan
+alat tangkap yang sesuai. Umumnya nelayan memiliki
+lebih dari satu jenis alat tangkap. Nelayan di Kepulauan
+Karimunjawa, misalnya nelayan pancing tonda umumnya
+menggunakan pancing tonda selama enam bulan (AgustusJanuari), dan juga menggunakan pancing ulur (FebruariJuli). Nelayan gillnet umumnya menggunakan gillnet
+selama tiga bulan (Februari-April), kemudian juga
+8
+
+menggunakan ulur (Mei-Juli) dan tonda (AgustusJanuari). Nelayan branjang biasanya menggunakan
+branjang selama tujuh bulan (April-Oktober), dan
+setelah tidak musim ikan teri, dan beralih
+menggunakan pancing ulur (November-Maret). Hal
+ini sedikit banyak telah membantu mengatasi
+keterbatasan karena alam, disamping ada yang
+memiliki jenis usaha lain, seperti pertanian dan
+perdagangan. Penggunaan jenis alat tangkap yang
+beragam dan berubah-ubah sesuai musim ikan,
+menyebabkan perubahan pada daerah perairan yang
+menjadi lokasi daerah penangkapan ikan (Dalzell et
+al. 1996; Auster et al. 1997; Jennings and Kaiser
+1998).
+KESIMPULAN
+Kesimpulan yang dapat diambil dari
+penelitian ini adalah:
+1. Komoditas unggulan perikanan tangkap
+Karimunjawa adalah ikan kuwe.
+2. Potensi SDI karang sebesar 174.225,68
+kg/tahun, dan SDI pelagis sebesar 22.069,45
+ton/tahun.
+3. Teknologi penangkapan ikan yang ideal untuk
+dikembangkan di Karimunjawa adalah alat
+tangkap bubu dan pancing tonda.
+4. Tingkat kelayakan usaha dari jenis-jenis alat
+tangkap tepat guna masih bernilai positif dan
+layak untuk terus diusahakan.
+DAFTAR PUSTAKA
+Ardiwijaya RL, Kartawijaya T, Herdiana Y. 2007.
+Laporan Teknis - Monitoring Ekologi
+Taman
+Nasional
+Karimunjawa,
+Monitoring Fase 2. Bogor: Wildlife
+Conservation Society - Marine Program
+Indonesia. 45 hlm.
+Auster P, Malatesta R, and Donaldson C. 1997.
+Distributional responses to small-scale
+habitat variability by early juvenile silver
+hake,
+Merluccius
+bilinearis.
+Environmental Biology of Fishes (50):
+195-200.
+Budiharsono
+S.
+2005.
+Teknik
+Analisis
+Pembangunan Wilayah Pesisir dan Lautan.
+Jakarta: PT Pradnya Paramita. 116 hlm.
+Dalzell P, Adams T, and Polunin N. 1996. Coastal
+fisheries
+in
+the
+Pacific
+Islands.
+Oceanography and Marine Biology Annual
+Review (34): 395-531.
+Grafton RQ, Kompas T, Chu L, and Che N. 2010.
+Maximum economic yield. The Australian
+Journal of Agricultural and Resources
+Economics (54): 273-280.
+Haluan J dan Nurani TW. 1988. Penerapan Metode
+Skoring dalam pemilihan Teknologi
+Penangkapan Ikan yang Sesuai untuk
+
+Jurnal Saintek Perikanan Vol.7. no. 1 , 2011: 1 - 9
+dikembangkan di Suatu Wilayah Perairan. Bulletin
+PSP (2): 3-16.
+
+Monintja D. 2000. Beberapa teknik pilihan untuk
+memanfaatkan sumberdaya hayati laut di
+Indonesia. Buletin PSP (1): 14-25.
+
+Haryono TJS. 2005. Strategi Kelangsungan Hidup
+Nelayan: Studi tentang diversifikasi pekerjaan
+keluarga nelayan sebagai salah satu strategi dalam
+mempertahankan kelangsungan hidup. Berkala
+Ilmiah Kependudukan (7): 119-128.
+
+Murdiyanto B. 2004. Pengelolaan Sumber Daya
+Perikanan Pantai. Jakarta: COFISH Project.
+200 hlm.
+Sumaila UR and Hannesson R. 2010. Maximum
+economic yield in crisis? Fish And
+Fisheries (11): 461-465.
+
+Hendayana R. 2003. Aplikasi Metode Location Quotient
+(LQ) dalam Penentuan Komoditas Unggulan
+Nasional. Informatika Pertanian (1) : 658-675.
+
+Sparre P. & Venema S.C. 1999. Introduction to
+tropical fish stock assessment. Part I Manual. FAO Fisheries Technical Paper.
+376 hlm.
+
+Hernanto F. 1989. Ilmu Usaha Tani. Jakarta: Penebar
+Swadaya. 304 hlm.
+Jennings S, and Kaiser M. 1998. The effects of fishing on
+marine ecosystems. Advances in Marine Biology
+(34): 201-352.
+
+Supardan A, Haluan J, Manuwoto, Soemokaryo S.
+2006. Maximum Sustainable Yield (MSY)
+dan
+Aplikasinya
+pada
+Kebijakan
+Pemanfaatan Sumber Daya Ikan di Teluk
+Lasongko Kabupaten Buton. Buletin PSP
+15:35-49.
+
+Kadariah, L. Karlina, dan C. Gray. 2002. Evaluasi
+Proyek : Analisa Ekonomis. Edisi 2. Jakarta:
+Lembaga Penerbit Fakultas Ekonomi Universitas
+Indonesia. 184 hlm.
+
+Tinungki GM. 2005. Evaluasi Model Produksi
+Surplus Dalam menduga hasil tangkapan
+maksimum lestari untuk menunjang
+kebijakan pengelolaan perikanan lemuru di
+selat bali [disertasi]. Bogor: IPB. 196 hlm
+
+Kusumastanto T. 2003. Ocean Policy dalam Membangun
+Negeri Bahari di Era Otonomi Daerah. Jakarta: PT
+Gramedia Pustaka Utama. 160 hlm.
+Marimin. 2004. Teknik dan Aplikasi Pengambilan
+Keputusan Kriteria Majemuk. Bogor: IPB Press
+dengan Program Pascasarjana IPB. 197 hlm.
+.
+
+9
+
+

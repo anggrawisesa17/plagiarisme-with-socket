@@ -1,0 +1,261 @@
+Vol. 8 No. 2, 2020
+©2020 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+PENGEMBANGAN E-RAPORT KURIKULUM 2013 BERBASIS WEB PADA
+SMA TUNAS MEKAR INDONESIA
+1
+
+Ajeng Savitri Puspaningrum, 2 Neneng, 3Intan Saputri & 4Fenty Ariany
+1,2,3,4
+
+Fakultas Teknik dan Ilmu Komputer,Universitas Teknokrat Indonesia
+Jl. Z.A. Pagar Alam No. 9-11, Bandar Lampung - Indonesia 35142
+
+e-mail : 1ajeng.savitri@teknokrat.ac.id, 2neneng@teknokrat.ac.id, 3intansaputri539@gmail.com ,
+4
+
+fenty@teknokrat.ac.id
+
+Abstract — SMA Tunas Mekar Indonesia is one of Lampung Province schools that uses the 2013 curriculum. The
+assessment reporting process of student learning skills and achievement by teachers uses report cards that are distributed
+to parents at the end of each semester. In the managing the report card data process, there are several obstacles, namely
+the obstruction of grade recapitulation because the subject teacher is late in sending student grades, it takes a long time in
+managing grades because the processing value data done repeatedly from the attendance recap report then the application
+of Microsoft Excel and the report books are recapitulated by staff allows data writing errors. The solution developed for
+this problem is to build a Web-Based E-Report Card Application that will help SMA Tunas Mekar Indonesia by
+simplifying and accelerating teachers and homeroom teachers in assessing student learning outcomes reports process on
+inputting student scores. In this application, teachers and homeroom teachers no longer need to send assessment data via
+email, because the data entered is already integrated with other data. So that it doesn't take a long time to enter student
+grades, and minimize the damage and loss of report card data. The application built has provided complete information
+regarding student report card information and helps schools in reporting student grades based on the testing results using
+ISO 25010 standart with a percentage of success with a total average of 92.82%..
+Keywords: e-raport, web-based application, information system.
+
+1. PENDAHULUAN (style : ref_heading1)
+Pendidikan merupakan usaha atau kegi-atan yang dilakukan dengan sengaja, ter-atur dan berencana dengan
+maksud mengembangkan prilaku yang diinginkan. Sekolah adalah lembaga formal yang menjadi sarana untuk
+mencapai tujuan pendidikan tersebut. Di sekolah siswa belajar berbagai macam hal dengan tujuan
+meningkatkan prestasi belajar. Prestasi belajar sendiri merupakan tingkat kemam-puan anak didik dalam
+menerima pelajaran yang diberikan guru dalam kegiatan belajar mengajar dan menghasilkan prosedur
+penilaian [1][4].
+Peraturan Menteri Pendidikan dan Kebudayaan Republik Indonesia nomor 66 tahun 2013 tentang mekanisme
+dan pro-sedur penilaian menyebutkan bahwa hasil penilaian oleh pendidik dan satuan pendi-dikan dilaporkan
+dalam bentuk nilai dan deskripsi pencapaian kompetensi kepada orang tua dan pemerintah [2][5]. Saat ini
+kurikulum yang berlaku adalah kurikulum 2013 yaitu seperangkat rencana dan pengaturan mengenai tujuan,
+isi dan bahan pelajaran yang digunakan sebagai pedo-man dalam kegiatan pembelajaran. Pada kurikulum 2013
+penilaian dilakukan ber-dasarkan tiga kompetensi yaitu: penge-tahuan, keterampilan, dan sikap. Kompe-tensi
+pengetahuan meliputi nilai ulangan harian, UTS dan UAS. Kompetensi kete-rampilan meliputi nilai praktek,
+nilai proyek dan nilai portofolio. Sedangkan kompetensi sikap meliputi nilai observasi, nilai diri sendiri dan
+nilai antar teman. Nilai-nilai tersebut akan masuk kedalam penilaian rapor siswa [2][3].
+SMA Tunas Mekar Indonesia merupa-kan salah satu sekolah yang menggunakan kurikulum 2013 di Provinsi
+Lampung dengan 55 siswa/i dan 32 guru yang dikelola oleh yayasan. Hasil penilaian oleh pendidik diberikan
+dalam bentuk Raport yaitu buku yang berisi keterangan tentang nilai kepandaian dan prestasi belajar murid di
+sekolah, yang biasanya dipakai sebagai laporan guru kepada orang tua siswa atau wali murid dan dibagikan
+94
+
+Vol. 8 No. 2, 2020
+©2020 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+setiap akhir semester. Dari hasil wawancara ditemukan beberapa kendala yaitu lamanya proses perekapan nilai
+karena guru mata pelajaran sering terlambat mengirimkan nilai siswa yang menyebabkan pengelo-laan nilai
+membutuhkan waktu yang lama karena proses pengolahan data nilai dilakukan secara bertahap mulai dari
+pengisian nilai pada kertas absen lalu ke aplikasi Microsoft Excel oleh guru per mata pelajaran, kemudian
+direkap oleh masing-masing wali kelas, dan terakhir ditulis kebuku rapor oleh staf tata usaha.
+Walaupun kegiatan KBM telah didu-kung teknologi informasi, namun proses pengisian nilai masih dilakukan
+secara manual. Guru akan menuliskan nilai-nilai siswa pada kertas absen setelah hasil ujian siswa diperiksa,
+nilai-nilai tersebut kemudian direkap menggunakan aplikasi Ms.Excel yang template-nya telah dibagi-kan
+pada masing-masing guru mata pelajaran. Berkas nilai pada Ms.Excel tersebut selanjutnya diberikan kepada
+wali kelas menggunakan flashdisk dan email. Namun, hal tersebut menyebabkan permasalahan tersebarnya
+virus pada perangkat komputer para guru. Setelah wali kelas menerima berkas nilai dari masing-masing guru
+mata pelajaran, wali kelas akan merekap nilai untuk masing-masing siswa. Hasil rekap tersebut kemudian
+diserahkan kepada staf tata usaha (TU) untuk ditulis dalam bentuk Raport. Selain itu, permasalahan yang sering
+terjadi adalah hilangnya atau rusaknya berkas dikarenakan masih berbentuk buku sehingga akan
+mempengaruhi proses penilaian peserta didik.
+Solusi dari permasalahan tersebut yaitu membangun aplikasi E-Raport Berbasis Web untuk membantu SMA
+Tunas Mekar Indonesia dalam proses penilaian laporan hasil belajar siswa yang akan mempermudah dan
+mempercepat guru mata pelajaran dan walikelas pada penginputan nilai peserta didik. Didalam aplikasi ini
+guru mata pelajaran dan walikelas tidak perlu lagi mengirimkan data penilaian melalui email, karena data yang
+diinputkan langsung terintegrasi dengan data lainnya sehingga tidak membutuhkan waktu yang lama dalam
+penginputan nilai siswa, serta meminimalisir adanya kerusakan data dan hilangnya data.
+Beberapa penelitian terdahulu terkait Aplikasi Pengolahan Nilai berbasis Web telah dilakukan dan merupakan
+solusi yang sangat membantu proses pengolahan nilai bagi wali kelas dan dan guru dalam pengolahan nilai
+siswa serta dapat meminimalisir resiko kerusakan pada hasil nilai siswa (rapor). Untuk itu pada penelitian ini
+akan dikermbangkan sistem e-raport (pengolahan nilai) berbasis web yang dapat diakses oleh guru, wali kelas,
+siswa/wali murid serta menghasilkan laporan bagi kepala sekolah sebagai bahan evaluasi pembelajaran di
+SMA Tunas Mekar Indonesia.
+Dengan aplikasi ini diharapkan dapat menjadi solusi untuk mengatasi masalah yang ada di SMA Tunas Mekar
+Indonesia sehingga dapan memfasilitasi kegiatan akademik sekolah menjadi lebih mudah serta menyediakan
+informasi yang lengkap mengenai informasi nilai rapor siswa dan membantu sekolah dalam melakukan
+pelaporan nilai siswa.
+
+2. METODOLOGI PENELITIAN
+2.1.Tahapan Penelitian
+Gambar 1 merupakan tahapan peneli-tian yang dilakukan.
+
+95
+
+Vol. 8 No. 2, 2020
+©2020 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+Gambar 1 Tahapan Penelitian
+Tahap 1: Identifikasi Masalah
+Pada tahap ini dilakukan kajian literatur dari jurnal, buku dan arsip. Dilanjutkan dengan observasi
+dan wawancara, lalu dilakukan identifikasi terhadap objek penelitian dengan penelitian pendahuluan,
+definisi masalah dan lingkup penelitian.
+Tahap 2: Desain Prototype
+Tahapan ini melakukan pemodelan atau desain yang terdiri dari desain konseptual, desain logika,
+dan desain fisik, dengan menggunakan tahapan metode pengembangan yaitu prototype.
+Tahap 3: Implementasi Sistem
+Tahapan ini adalah melakukan pengembangan sistem yang ingin dilakukan dengan
+menggunakan aplikasi Dreamweaver dan MYSQL sebagai database.
+Tahap 4: Pengujian
+Tahapan ini melakukan aplikasi yang dibangun dengan pengujian menggunakan ISO 25010.
+
+2.2. Desain Sistem
+2.2.1. Usecase Diagram
+Usecase Perancangan E-Raport yang dibangun, dapat dilihat pada gambar 2.
+
+96
+
+Vol. 8 No. 2, 2020
+©2020 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+Gambar 2 Usecase Diagram
+
+2.2.2. Class Diagram
+Class Diagram E-Rapor Online SMA Tunas Mekar Indonesia, dapat dilihat pada gambar 3.
+
+Gambar 3 Class Diagram
+3. HASIL DAN PEMBAHASAN
+3.1. Implementasi
+Pengembangan sistem dilakukan setelah prototype diujikan dan diterima oleh user dengan
+memberikan contoh tampilan form. Selanjutnya prototype tersebut diimplementasi dengan membuat
+sistem yang siap dioperasikan pada tahap sebenarnya, sehingga akan diketahui apakah sistem yang
+97
+
+Vol. 8 No. 2, 2020
+©2020 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+akan dibuat benar-benar dapat menghasilakan tujuan yang diinginkan. Dalam pembuatan program ini
+menggunakan yaitu :
+1.
+
+Menginstal aplikasi Xampp, MySQL, Dreamweaver
+
+2.
+
+Membuat database di MySQL
+
+3.1.1. Implementasi Halaman Utama
+Pada form halaman utama menghadir-kan informasi seputar sekolah, guru dan jadwal.
+Implementasi antantarmuka, pada halaman utama ini terdapat profile sekolah, data guru untuk
+mencari guru, dapat melihat jadwal pelajaran, dan kontak. Halaman Utama dapat dilihat pada gambar
+4.
+
+Gambar 4 Tampilan Halaman Utama
+3.1.2. Implementasi Profile Sekolah
+Form profile sekolah adalah tampilan untuk meberikan informasi seputar sekolah, pada menu
+profile sekolah ini menampilkan isi mengenai sekolah dan foto-foto sekolah. Implementasi antarmuka Profile dapat dilihat pada gambar 5.
+
+Gambar 5 Tampilan Profile
+3.1.3. Implementasi Pencarian Guru
+Pada form guru adalah form untuk mencari data guru pada halaman utama, pada form ini seluruh
+siswa dapat mencari dan melihat data guru. Implementasi antarmuka Pencarian Guru dapat dilihat
+pada gambar 6.
+
+98
+
+Vol. 8 No. 2, 2020
+©2020 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+Gambar 6 Tampilan Pencarian Guru
+3.1.4. Implementasi Antar Muka Login
+Pada form login admin harus memasukan username dan password untuk masuk kedalam sistem
+selanjutnya dapat menekan tombol login jika sukses akan masuk kedalam menu utama dan jika gagal
+maka akan tampil informasi. Implementasi antarmuka login dapat dilihat pada gambar 7.
+
+Gambar 7 Tampilan Login
+3.1.5. Menu Utama
+Pada Form Menu Utama akan ditampilkan beberapa menu utama admin. Dapat menampilkan
+halaman pencarian grafik hasil belajar siswa, pada menu utama terdapat menu guru, menu murid,
+menu kelas, menu mapel, menu jadwal dan input nilai. Rancangan antar muka dapat dilihat pada
+gambar 8.
+
+Gambar 8 Tampilan Menu Utama
+3.1.6. Implementasi Cetak Raport
+Implementasi ini diatur dalam akun admin dengan menggunakan menu periode raport kemudian
+menginputkan data untuk pengaturan waktu cetak raport. Setelah admin melakukan pengaturan
+pencetakan periode rapor maka siswa dapat mengakses pencetakan pada menu cetak rapor. Tampilan
+proses cetak raport dapat dilihat pada gambar 9 s.d 11.
+
+99
+
+Vol. 8 No. 2, 2020
+©2020 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+Gambar 9 Periode Raport Pada Admin
+
+Gambar 10 Menu Cetak Rapor Siswa
+
+Gambar 11 Tampilan Hasil Cetak
+3.2. Hasil Perhitungan Pengujian ISO
+Berikut hasil pengujian ISO 25010 secara keseluruhan pada aplikasi dapat dilihat pada tabel
+1.
+
+Tabel 1 Total Penilaian Pengujian ISO
+
+Berdasarkan hasil pengujian ISO 25010 yang telah dilakukan dengan melibatkan 7 Responden bahwa
+kesimpulan kualitas kelayakan perangkat lunak yang dihasilkan memiliki persentase keberhasilan
+dengan total rata-rata 92.82%.
+
+100
+
+Vol. 8 No. 2, 2020
+©2020 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+4. KESIMPULAN
+Berdasarkan hasil penelitian dan pembahasan yang dilakukan pada bab sebelumnya, maka kesimpulan yang
+dapat diambil adalah sebagai berikut :
+1.
+Sistem E-Raport untuk SMA Tunas Mekar Indonesia menggunakan meto-de pengembangan prototype
+dan implementasi sistem menggunakan PHP dan MySQL dapat mempermu-dah sekolah dalam melakukan
+proses pengolahan data nilai rapor siswa.
+2.
+Hasil pengujian ISO 25010 yang telah dilakukan menghasilkan nilai kualitas kelayakan perangkat
+lunak dengan persentase keberhasilan total rata-rata 92.82%..
+
+UCAPAN TERIMA KASIH
+Penulis mengucapkan terima kasih kepada Universitas Teknokrat Indonesia yang telah memberi dukungan
+financial dan tempat bagi penelitian ini.
+
+DAFTAR PUSTAKA
+[1] E. N. Thalib, “Sistem Informasi Penilaian Hasil Belajar Siswa Sekolah Berbasis Web,” IJNS, vol. 1, no.
+1, pp. 20–27, 2013.
+[2] “Kemendikbud Nomor 66 Tahun 2013 Tentang Mekanisme dan Prosedur Penilaian.” .
+[3] D. A. Megawaty and M. E. Putra, “Aplikasi Monitoring Aktivitas Akademik Mahasiswa Program Studi
+Informatika Universitas Xyz Berbasis Android,” JATIKA, vol. 1, no. 1, pp. 65–74, 2020.
+[4] Suaidah and I. Sidni, “Perancangan Monitoring Prestasi Akademik Dan Aktivitas Siswa Menggunakan
+Pendekatan Key Performance Indicator ( Studi Kasus Sma N 1 Kalirejo ),” J. TEKNO KOMPAK, vol.
+12, no. 2, pp. 62–67, 2018.
+[5] A. Wantoro, “Prototype Aplikasi Berbasis Web Sebagai Media Informasi Kehilangan Barang,” J.
+Teknoinfo, vol. 12, no. 1, pp. 11–15, 2018.
+
+101
+
+

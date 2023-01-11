@@ -1,0 +1,1667 @@
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+Pengaruh Modernisasi Sistem Administrasi
+Perpajakan terhadap Kepatuhan
+Wajib Pajak
+(Survei atas Wajib Pajak Badan pada KPP Pratama Bandung ”X”)
+Sri Rahayu
+Mahasiswa Fakultas Ekonomi Jurusan Akuntansi-Univ.Kristen Maranatha
+Ita Salsalina Lingga
+Dosen Fakultas Ekonomi Jurusan Akuntansi-Univ.Kristen Maranatha
+(italingga@yahoo.com)
+Abstract
+The objective of this research is to examine whether modernization in taxation
+administration system at Bandung ”X” Tax Office affects tax compliance.
+Type of this research is quantitative descriptive. The sample size is determined with
+purposive sampling method. Survey method is applied with data collected through
+interview and questionnaire and multiple regression analysis and t-test are applied in data
+processing.
+The research shown that modernization in taxation administration system positively
+significant affects tax compliance.
+Keywords: modernization in taxation administration system, tax compliance.
+
+Pendahuluan
+Penerimaan pajak merupakan sumber utama atau tulang punggung penerimaan
+negara yang digunakan untuk pembiayaan pemerintah dan pembangunan. Besarnya
+kontribusi penerimaan pajak terhadap APBN sejak tahun 2001-2006 cukup signifikan yaitu
+mencapai lebih dari 60% (Tabel 1). Oleh karena itu pemerintah dalam hal ini Direktorat
+Jenderal Pajak (DJP) berupaya untuk mengoptimalkan penerimaan pajak. Di dalam
+pelaksanaan tugasnya, Direktorat Jenderal Pajak masih menemui berbagai kendala, baik
+dari internal sendiri maupun eksternal.
+Pajak bersifat dinamik dan mengikuti perkembangan kehidupan sosial dan
+ekonomi negara serta masyarakatnya. Tuntutan akan peningkatan penerimaan, perbaikan
+dan perubahan mendasar dalam segala aspek perpajakan menjadi alasan dilakukannya
+reformasi perpajakan dari waktu ke waktu, yang berupa penyempurnaan terhadap kebijakan
+perpajakan dan sistem administrasi perpajakan, agar basis pajak dapat semakin diperluas,
+sehingga potensi penerimaan pajak yang tersedia dapat dipungut secara optimal dengan
+menjunjung asas keadilan sosial dan memberikan pelayanan prima kepada wajib pajak.
+
+119
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+Kebijakan fiskal yang dicanangkan pemerintah dalam Rencana Pembangunan Jangka
+Menengah Nasional tahun 2004-2009 diantaranya melakukan reformasi di tiga bidang
+utama, yakni pajak, bea dan cukai, serta anggaran
+
+Tabel 1.
+Peran Penerimaan Pajak Terhadap Penerimaan
+Dalam Negeri Dan Volume APBN (2001-2006)
+(Dalam triliun)
+Penerimaan
+Penerimaan
+pajak
+pajak terhadap
+Thn
+APBN Penerimaan Penerimaan
+terhadap
+penerimaan
+dalam
+pajak
+APBN
+dalam negeri
+negeri
+(%)
+(%)
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+2001
+300,60
+286,20
+185,54
+61,72
+64.80
+2002
+303,89
+298,53
+210,09
+69,13
+70,40
+2003
+343,33
+340,93
+242,05
+70,50
+71,00
+2004
+407,58
+361,51
+280,90
+68,91
+77.70
+2005
+493,69
+442,93
+346,82
+70,25
+78.30
+2006
+651,90
+636,15
+409,20
+62,77
+64.32
+Sumber: Data Pokok Nota Keuangan yang telah diolah
+Salah satu reformasi di bidang perpajakan ditandai dengan ditetapkannya visi dari
+Direktorat Jenderal Pajak yaitu menjadi model pelayanan masyarakat yang
+menyelenggarakan sistem dan manajemen perpajakan kelas dunia yang dipercaya dan
+dibanggakan masyarakat. Direktorat Jenderal Pajak juga menetapkan misi fiskal salah
+satunya adalah untuk menghimpun penerimaan dalam negeri dari sektor pajak yang mampu
+menunjang kemandirian pembiayaan pemerintah berdasarkan undang-undang perpajakan
+dengan tingkat efektivitas dan efisiensi yang tinggi.
+Dalam menilai keberhasilan penerimaan pajak (Nasucha, 2004) perlu diperhatikan
+pencapaian sasaran administrasi perpajakan, antara lain: (1) peningkatan kepatuhan para
+pembayar pajak, dan (2) pelaksanaan ketentuan perpajakan secara seragam untuk
+mendapatkan penerimaan maksimal dengan biaya yang optimal. Sejalan dengan hal
+tersebut, Direktorat Jenderal Pajak sejak tahun 2001 telah menggulirkan Reformasi
+Administrasi Perpajakan Jangka Menengah (3-5 tahun) sebagai prioritas reformasi
+perpajakan dengan tujuan tercapainya: (1) tingkat kepatuhan sukarela yang tinggi, (2)
+tingkat kepercayaan terhadap administrasi perpajakan yang tinggi, dan (3) produktivitas
+pegawai perpajakan yang tinggi.
+Program dan kegiatan reformasi administrasi perpajakan diwujudkan dalam
+penerapan sistem administrasi perpajakan modern yang memiliki ciri khusus antara lain
+struktur organisasi berdasarkan fungsi, perbaikan pelayanan bagi setiap wajib pajak melalui
+pembentukan account representative dan complaint center untuk menampung keberatan
+wajib pajak. Selain itu, sistem administrasi perpajakan modern juga merangkul kemajuan
+teknologi terbaru diantaranya melalui pengembangan Sistem Informasi Perpajakan (SIP)
+yang semula berdasarkan pendekatan fungsi menjadi Sistem Administrasi Perpajakan
+Terpadu (SAPT) yang dikendalikan oleh case management system dalam workflow system
+
+120
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+dengan berbagai modul otomatisasi kantor serta berbagai pelayanan berbasis e-system
+seperti e-SPT, e-Filing, e-Payment, Taxpayer’s Account, e-Registration, dan e-Counceling.
+Melalui reformasi ini diharapkan mekanisme kontrol menjadi lebih efektif ditunjang oleh
+adanya penerapan kode etik pegawai Direktorat Jenderal Pajak yang mengatur perilaku
+pegawai dalam melaksanakan tugasnya.
+Penelitian ini dilakukan dengan tujuan untuk memperoleh gambaran tentang
+penerapan sistem administrasi perpajakan modern di lingkungan KPP Pratama Bandung
+”X” dan menelaah bagaimana pengaruhnya terhadap tingkat kepatuhan wajib pajak.
+
+Kerangka Teoritis
+Penerimaan pajak mempunyai peranan yang sangat penting bagi negara, seperti
+yang terlihat pada tabel 1, selama lima tahun terakhir (2001-2006) penerimaan pajak
+terhadap APBN selalu berada diatas 60%, begitu pula dengan penerimaan pajak terhadap
+penerimaan dalam negeri berada pada kisaran di atas 60%. Kondisi ini menunjukkan bahwa
+peran pajak baik terhadap APBN maupun terhadap penerimaan negara sangat penting
+dibandingkan dengan penerimaan negara lainnya. Oleh karena itu Direktorat Jenderal Pajak
+senantiasa berupaya melakukan kegiatan intensifikasi pajak melalui pemberdayaan wajib
+pajak potensial yang sudah terdaftar dengan tujuan mengamankan rencana penerimaan serta
+mengoptimalkan tingkat kepatuhan sukarela wajib pajak dalam melaksanakan kewajiban
+perpajakan pada tahun pajak berikutnya.
+Tuntutan terhadap peningkatan penerimaan, penyesuaian struktur perpajakan serta
+stabilisasi dan penyehatan ekonomi melalui pendekatan fiskal menjadi alasan dari waktu ke
+waktu dilakukan reformasi perpajakan yaitu perubahan yang mendasar di segala aspek
+perpajakan. Program reformasi perpajakan dapat berhasil apabila menghasilkan perubahan
+mendasar dalam sistem perpajakan yang memiliki dua elemen dasar yang saling
+mempengaruhi, yaitu struktur pajak serta mekanisme dan institusi yang mengatur
+administrasi dan kepatuhan perpajakan.
+Menurut Lumbantoruan (1997) “administrasi perpajakan (Tax Administration)
+ialah cara-cara atau prosedur pengenaan dan pemungutan pajak. Mengenai peran
+administrasi perpajakan, Pandiangan (2008) mengemukakan bahwa administrasi perpajakan
+diupayakan untuk merealisasikan peraturan perpajakan, dan penerimaan negara
+sebagaimana amanat APBN.
+Gunadi (2004), menekankan peran penting administrasi perpajakan menuju pada
+kondisi terkini, dan pengalaman di berbagai negara berkembang. Kebijakan perpajakan (tax
+policy) yang dianggap baik (adil dan efisien) dapat saja kurang sukses menghasilkan
+penerimaan atau mencapai sasaran lainnya karena administrasi perpajakan tidak mampu
+melaksanakannya. Gunadi berpendapat bahwa “administrasi perpajakan dituntut bersifat
+dinamik sebagai upaya peningkatan penerapan kebijakan perpajakan yang efektif. Kriteria
+fisibilitas administrasi menuntut agar sistem pajak baru meminimalisir biaya administrasi
+(administrative cost) dan biaya kepatuhan (compliance cost) serta menjadikan administrasi
+pajak sebagai bagian dari kebijakan pajak”. Menurut Gunadi, administrasi pajak dikatakan
+efektif bila mampu mengatasi masalah-masalah berikut ini:
+1. Wajib Pajak yang tidak terdaftar (unregistered taxpayers).
+Artinya sejauh mana administrasi pajak mampu mendeteksi dan mengambil tindakan
+terhadap anggota masyarakat yang belum terdaftar sebagai Wajib Pajak walau
+seharusnya yang bersangkutan sudah memenuhi ketentuan untuk menjadi Wajib Pajak.
+
+121
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+Penambahan jumlah Wajib Pajak secara signifikan akan meningkatkan jumlah
+penerimaan pajak. Penerapan sanksi yang tegas perlu diberikan terhadap mereka yang
+belum mendaftarkan diri sebagai Wajib Pajak padahal sebenarnya potensial untuk itu.
+2. Wajib Pajak yang tidak menyampaikan Surat Pemberitahuan (SPT).
+Menyikapi Wajib Pajak yang sudah terdaftar tetapi tidak menyampaikan Surat
+Pemberitahuan (SPT), atau disebut juga stop filing taxpayers, misalnya dengan
+melakukan pemeriksaan pajak untuk mengetahui sebab-sebab tidak disampaikannya
+Surat Pemberitahuan (SPT) tersebut. Kendala yang mungkin dihadapi adalah
+terbatasnya jumlah tenaga pemeriksa.
+3. Penyelundup pajak (tax evaders)
+Penyelundup pajak (tax evaders) yaitu Wajib Pajak yang melaporkan pajak lebih kecil
+dari yang seharusnya menurut ketentuan perundang-undangan. Keberhasilan sistem
+self assessment yang memberi kepercayaan sepenuhnya kepada Wajib Pajak untuk
+menghitung, memperhitungkan, menyetor, dan melaporkan sendiri pajak yang
+terutang, sangat tergantung dari kejujuran Wajib Pajak. Tidak mudah untuk
+mengetahui apakah Wajib Pajak melakukan penyelundupan pajak atau tidak.
+Dukungan adanya bank data tentang Wajib Pajak dan seluruh aktivitas usahanya sangat
+diperlukan.
+4. Penunggak pajak (delinquent tax pavers).
+Dari tahun ke tahun tunggakan pajak jumlahnya semakin besar. Upaya pencairan
+tunggakan pajak dilakukan melalui pelaksanaan tindakan penagihan secara intensif.
+Dua tugas utama reformasi administrasi perpajakan menurut Nasucha (2004)
+adalah untuk mencapai efektivitas yang tinggi, yaitu kemampuan untuk mencapai tingkat
+kepatuhan yang tinggi dan efisiensi berupa kemampuan untuk membuat biaya admninistrasi
+per unit penerimaan pajak sekecil-kecilnya. Efektivitas dan efisiensi kadang-kadang
+menciptakan kontradiksi sehingga diperlukan koordinasi, diperlukan ukuran-ukuran khusus
+untuk meningkatkan efektivitas dan efisiensi administrasi perpajakan. Dalam meningkatkan
+efektivitas digunakan ukuran: (1) kepatuhan pajak sukarela, (2) prinsip-prinsip self
+assesment, (3) menyediakan informasi kepada wajib pajak, (4) kecepatan dalam
+menemukan masalah-masalah yang berhubungan dengan Surat Pemberitahuan (SPT) dan
+pembayaran, (5) peningkatan dalam kontrol dan supervisi, (6) sanksi yang tepat. Dalam
+meningkatkan efisiensi dalam administrasi perpajakan secara khusus dapat distimulasi oleh:
+(1) penyediaan unit-unit khusus untuk perusahaan besar; (2) peningkatan perpajakan khusus
+untuk wajib pajak kecil, (3) penggunaan jasa perbankan untuk pemungutan pajak, dan lainlain.
+Nasucha (2004) menambahkan bahwa “reformasi administrasi perpajakan dapat
+dilaksanakan tanpa melakukan reformasi perpajakan, yaitu dengan mensinergikan faktor
+internal dan eksternal yang mempengaruhi kinerja organisasi.” Lingkungan eksternal yang
+dimaksud adalah kebijakan fiskal, antara lain item-item yang tidak dimasukkan dalam dasar
+pengenaan pajak, pembelanjaan dan pelayanan publik. “Dalam ekonomi yang mulai
+berkembang, administrasi perpajakan harus difokuskan kepada wajib pajak besar secara
+maksimal dan memberikan kontribusi kepada wajib pajak kecil.” Apabila kebijakan
+perpajakan yang ada mampu mengatasi masalah-masalah di atas secara efektif, maka
+administrasi perpajakannya sudah dapat dikatakan baik sehingga. Tax ratio akan
+meningkat. Dasar bagi terwujudnya suatu administrasi pajak yang baik adalah
+diterapkannya prinsip-prinsip manajemen modern yaitu Planning, Organizing, Actuating
+dan Controlling, terdapatnya kebijakan perpajakan yang jelas dan sederhana sehingga
+
+122
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+memudahkan Wajib Pajak untuk melaksanakan kewajibannya, tersedianya Pegawai Pajak
+yang berkualitas dan jujur serta pelaksanaan penegakan hukum yang tegas dan konsisten.
+Menurut Pandiangan (2008), reformasi perpajakan yang meliputi: (1) formulasi
+kebijakan dalam bentuk peraturan, dan (2) pelaksanaan dari peraturan, umumnya diarahkan
+untuk dapat mencapai beberapa sasaran. Pertama, menghasilkan penerimaan dalam jumlah
+yang cukup, stabil, fleksibel dan berkelanjutan. Kedua, mengurangi beban inefisiensi dan
+excess burden. Ketiga, memperingan beban kelompok kurang mampu dengan mendesain
+struktur pajak yang lebih adil. Dan keempat, memperkuat administrasi dan meminimalisasi
+biaya administrasi dan kepatuhan serta dapat menimbulkan kepuasan bagi wajib pajak. Bird
+dan Jantscher seperti dikutip oleh Nasucha (2004) mengemukakan bahwa perubahan
+kebijakan perpajakan tanpa didukung perubahan administrasi perpajakan menjadi tak
+berarti. Perubahan di bidang perpajakan harus sejalan dengan kapasitas administrasinya,
+karena administrasi perpajakan merupakan kebijakan di bidang perpajakan yang
+mempunyai hubungan tak terpisahkan
+Sasaran penerapan sistem administrasi pajak modern menurut Pandiangan (2008 )
+adalah: (1) Maksimalisasi penerimaan pajak; (2) Kualitas pelayanan yang mendukung
+kepatuhan wajib pajak; (3) Memberikan jaminan kepada publik bahwa Direktorat Jenderal
+Pajak mempunyai tingkat integritas dan keadilan yang tinggi, (4) Menjaga rasa keadilan
+dan persamaan perlakuan dalam proses pemungutan pajak; (5) Pegawai Pajak dianggap
+sebagai karyawan yang bermotivasi tinggi, kompeten, dan profesional, (6) Peningkatan
+produktivitas yang berkesinambungan; (7) Wajib Pajak mempunyai alat dan mekanisme
+untuk mengakses informasi yang diperlukan; dan (8) Optimalisasi pencegahan penggelapan
+pajak.
+Dalam menilai seberapa baik kemampuan administrasi perpajakan dalam
+mengumpulkan penerimaan, perlu diingat sasaran administrasi pajak yakni meningkatkan
+kepatuhan pembayar pajak dan melaksanakan ketentuan perpajakan secara seragam untuk
+mendapatkan penerimaan maksimal dengan biaya optimal, seperti yang dikemukakan oleh
+Gunadi (2004) bahwa “keadilan merupakan salah satu elemen yang dapat membantu
+meningkatkan kepercayaan masyarakat atas sistem perpajakan dan selanjutnya
+meningkatkan kepatuhan sukarela masyarakat pembayar pajak”. Reformasi perpajakan
+meliputi dua area, yaitu reformasi kebijakan pajak (tax policy) yaitu regulasi atau peraturan
+perpajakan yang berupa undang-undang perpajakan dan reformasi administrasi perpajakan.
+Reformasi administrasi memiliki tujuan utama untuk memberikan pelayanan kepada
+masyarakat dalam memenuhi kewajiban perpajakannya. Kedua, untuk mengadministrasikan
+penerimaan pajak sehingga transparansi dan akuntabilitas penerimaan sekaligus
+pengeluaran pembayaran dana dari pajak setiap saat bisa diketahui. Yang ketiga, untuk
+memberikan suatu pengawasan terhadap pelaksanan pemungutan pajak, terutama adalah
+kepada aparat pengumpul pajak, kepada Wajib Pajak, ataupun kepada masyarakat
+pembayar pajak.”
+Menurut Nasucha (2004), reformasi administrasi perpajakan adalah
+penyempurnaan atau perbaikan kinerja administrasi, baik secara individu, kelompok,
+maupun kelembagaan agar lebih efisien, ekonomis, dan cepat. Nasucha mengemukakan
+bahwa agar reformasi administrasi perpajakan dapat berhasil, dibutuhkan: (1) struktur pajak
+disederhanakan untuk kemudahan, kepatuhan, dan administrasi, (2) strategi reformasi yang
+cocok harus dikembangkan, (3) komitmen politik yang kuat terhadap peningkatan
+administrasi perpajakan. Nasucha mengemukakan bahwa ada empat dimensi reformasi
+administrasi perpajakan, yaitu:
+
+123
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+1.
+
+Struktur organisasi.
+Bahwa struktur organisasi adalah unsur yang berkaitan dengan pola-pola peran yang
+sudah ditentukan dan hubungan antar peran, alokasi kegiatan kepada sub unit-sub unit
+terpisah, pendistribusian wewenang di antara posisi administratif, dan jaringan
+komunikasi formal.
+2. Prosedur organisasi.
+Prosedur organisasi berkaitan dengan proses komunikasi, pengambilan keputusan,
+pemilihan prestasi, sosialisasi dan karier. Pembahasan dan pemahaman prosedur
+organisasi berpijak pada aktivitas organisasi yang dilakukan secara teratur.
+3. Strategi organisasi.
+Strategi organisasi dipandang sebagai siasat, sikap pandangan dan tindakan yang
+bertujuan memanfaatkan segala keadaan, faktor, peluang, dan sumber daya yang ada
+sedemikian rupa sehingga tujuan organisasi dapat dicapai dengan berhasil dan selamat.
+Strategi berkembang dari waktu ke waktu sebagai pola arus keputusan yang bermakna.
+4. Budaya organisasi.
+Budaya organisasi didefinisikan sebagai sistem penyebaran kepercayaan dan nilai-nilai
+yang berkembang dalam organisasi dan mengarahkan perilaku anggota-anggotanya.
+Budaya organisasi mewakili persepsi umum yang dimiliki oleh anggota organisasi.
+Berdasarkan luasnya, reformasi perpajakan dapat diklasifikasikan menjadi
+reformasi struktur perpajakan dan reformasi administrasi perpajakan. Reformasi
+administrasi perpajakan dapat dilaksanakan tanpa melakukan reformasi struktur perpajakan
+karena isu sentral atas keberhasilan reformasi administrasi perpajakan ke depan adalah
+kapasitas administrasi perpajakan dalam mengimplementasikan struktur perpajakan secara
+efisien dan efektif. Pendekatannya diletakkan pada peningkatan dalam kepatuhan dan
+tingkat kepercayaan masyarakat terhadap administrasi perpajakan yang menjadi dasar
+diterapkannya sistem administrasi perpajakan modern. Direktorat Jenderal Pajak
+mengembangkan konsep sistem administrasi perpajakan modern dalam kerangka reformasi
+admistrasi perpajakan jangka menengah yang dimulai sejak tahun 2001. Sistem
+administrasi perpajakan modern merupakan pelaksanaan dari berbagai program dan
+kegiatan yang ditetapkan dalam reformasi administrasi perpajakan jangka menengah
+tersebut. Dapat dikatakan bahwa penerapan sistem administrasi perpajakan modern adalah
+penerapan sistem administrasi perpajakan yang mengalami penyempurnaan atau perbaikan
+kinerjanya, baik secara individu, kelompok, maupun kelembagaan agar lebih efisien,
+ekonomis dan cepat yang merupakan perwujudan dari program dan kegiatan reformasi
+administrasi perpajakan jangka menengah yang menjadi prioritas reformasi perpajakan
+yang digulirkan oleh Direktorat Jenderal Pajak sejak tahun 2001.
+Konsep dari modernisasi perpajakan, adalah pelayanan prima dan pengawasan
+intensif dengan pelaksanaan good governance. Tujuan modernisasi antara lain,
+meningkatkan kepatuhan pajak, kepercayaan terhadap administrasi perpajakan dan memacu
+produktivitas pegawai pajak yang tinggi. Modernisasi sendiri meliputi tiga hal, yakni
+reformasi kebijakan, administrasi dan pengawasan. Keberhasilan modernisasi perpajakan
+membutuhkan kerja sama dan keterbukaan hati dari kedua belah pihak, baik dari Direktorat
+Jenderal Pajak maupun wajib pajak.
+Program modernisasi administrasi perpajakan telah mendapat peran cukup penting
+dalam menentukan masa depan Direktorat Jenderal Pajak. Dalam praktiknya, DJP terus
+melakukan berbagai pembenahan, diantaranya pembenahan organisasi yang kini lebih
+menyesuaikan pada kebutuhan wajib pajak. Selain itu DJP juga melakukan pembaharuan di
+
+124
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+bidang informasi teknologi, business redesign process serta sumber daya manusia (SDM).
+Apabila seluruh aspek modernisasi sudah berjalan dengan baik, maka pihak DJP dapat
+melakukan penilaian berbasis kinerja kepada para pegawai dan memberikan insentif
+berdasarkan kinerjanya. Dengan perbandingan yang ada dalam pengelolaan pajak di
+berbagai negara, utamanya negara-negara yang lebih maju, agar mudah diaplikasikan dan
+dilaksanakan maka disusun konsep modernisasi perpajakan ala Indonesia, yakni
+disesuaikan dengan iklim, kondisi, dan sumber daya yang ada. Sebagai dasar dari konsep
+modernisasi administrasi perpajakan adalah ”pelayanan prima” dan ”pengawasan intensif”
+dengan pelaksanaan ”good governance” (Pandiangan,2008:6-9).
+Adapun tujuan modernisasi perpajakan adalah untuk menjawab latar belakang
+dilakukannya modernisasi perpajakan, yaitu:
+1. Tercapainya tingkat kepatuhan pajak (tax compliance) yang tinggi.
+2. Tercapainya tingkat kepercayaan (trust) terhadap administrasi perpajakan yang tinggi.
+3. Tercapainya tingkat produktivitas pegawai pajak yang tinggi.
+Adanya modernisasi administrasi perpajakan ini diharapkan mampu meningkatkan
+tingkat kepatuhan wajib pajak. Kepatuhan wajib pajak (tax compliance) dapat diidentifikasi
+dari kepatuhan wajib pajak dalam mendaftarkan diri, kepatuhan untuk menyetorkan
+kembali Surat Pemberitahuan (SPT), kepatuhan dalam penghitungan dan pembayaran pajak
+terutang, serta kepatuhan dalam pembayaran tunggakan. Isu kepatuhan menjadi penting
+karena ketidakpatuhan secara bersamaan akan menimbulkan upaya menghindarkan pajak,
+seperti tax evasion dan tax avoidance, yang mengakibatkan berkurangnya penyetoran dana
+pajak ke kas negara. Pada hakekatnya kepatuhan wajib pajak dipengaruhi oleh kondisi
+sistem administrasi perpajakan yang meliputi tax service dan tax enforcement.
+Menurut Nasucha (2004), pengukuran efektivitas administrasi perpajakan yang
+lebih akurat adalah dengan mengukur berapa besarnya jurang kepatuhan (tax gap), yaitu
+selisih antara penerimaan yang sesungguhnya dari potensi pajak dengan tingkat kepatuhan
+dari masing-masing sektor perpajakan. Dengan adanya perbaikan sistem administrasi
+perpajakan diharapkan akan mendorong kepatuhan wajib pajak Dengan kata lain hipotesis
+yang dikemukakan dalam penelitian ini adalah penerapan sistem administrasi perpajakan
+modern berpengaruh terhadap peningkatan kepatuhan wajib pajak. Kerangka pemikiran
+dari penelitian ini dapat digambarkan secara sederhana dalam bagan berikut ini (Marcus
+Sofyan, 2000):
+Reformasi Perpajakan
+
+Reformasi Administrasi Perpajakan
+
+Penerapan Sistem Administrasi Perpajakan Modern (X)
+
+Kepatuhan Wajib Pajak (Y)
+Gambar 1
+Gambar(((Y)
+1. Kerangka Pemikiran Penelitian
+
+125
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+Metode Penelitian
+Penelitian ini merupakan jenis penelitian deskriptif kualitatif dengan metode penelitian
+survei. Metode deskriptif adalah suatu metode dalam meneliti status sekelompok manusia,
+suatu objek, suatu set kondisi, suatu sistem pemikiran ataupun suatu kelas peristiwa masa
+sekarang (Nazir,1999:63). Tujuan penelitian deskriptif adalah untuk membuat deskripsi,
+gambaran, lukisan secara sistematis, faktual dan akurat mengenai fakta, sifat serta
+hubungan antara berbagai fenomena yang diselidiki. Penelitian survei adalah penyidikan
+yang diadakan untuk memperoleh fakta-fakta dari gejala-gejala yang ada dan mencari
+keterangan-keterangan secara faktual, baik tentang institusi sosial, ekonomi atau politik dari
+suatu kelompok ataupun suatu daerah (Nazir,1999:65). Penyelidikan dilakukan dalam
+waktu yang bersamaan terhadap individu atau unit, baik secara sensus maupun dengan
+menggunakan sampel. Sedangkan menurut (Singarimbun, 1995:3), penelitian survei adalah
+penelitian yang mengambil sampel dari suatu populasi dan menggunakan kuesioner sebagai
+alat pengumpulan data pokok. Dalam mengumpulkan data, penulis menggunakan teknik
+penelitian lapangan (field research) melalui wawancara, observasi, studi dokumentasi dan
+kuesioner serta teknik penelitian kepustakaan (library research).
+Metode pengambilan sampel yang digunakan dalam penelitian ini adalah
+Purposive Sampling yaitu teknik penentuan sampel dengan pertimbangan tertentu
+(Sugiyono, 2004:62). Misalnya kita akan melakukan penelitian tentang makanan, maka
+sampel sumber datanya adalah orang yang ahli makanan. Sampel ini lebih cocok digunakan
+untuk penelitian kualitatif. Untuk menghitung jumlah sampel yang akan digunakan
+rumusnya adalah sebagai berikut:
+
+N
+n
+2
+1Ne
+Dimana : n = jumlah sampel minimum
+N = jumlah populasi
+e = nilai kritis/ batasan ketelitian yang diinginkan
+(persentase kelonggaran ketidaktelitian karena kesalahan pengambilan
+sampel populasi).
+Dalam hal ini nilai kritis yang digunakan 0,05 atau 5%. Berdasarkan rumus di atas, maka
+dengan menggunakan ukuran populasi (N) = 80 petugas pajak, dapat ditentukan ukuran
+sampel minimalnya sebagai berikut :
+
+80
+n2
+180,5
+
+
+
+n = 67 (responden)
+Responden dalam penelitian ini adalah para aparatur pajak yang bertugas di lingkungan
+KPP Pratama Bandung “X”. Namun karena keterbatasan waktu, biaya dan tenaga yang ada,
+maka penulis hanya membatasi perolehan kuesioner dari 30 petugas pajak untuk dijadikan
+sampel penelitian. Penyebaran kuesioner ditujukan kepada para petugas pajak yang
+bertugas dibagian pengolahan data dan informasi, pelayanan, penagihan, pengawasan dan
+konsultasi, pemeriksaan, serta ekstensifikasi.
+
+126
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+Penelitian ini dimaksudkan untuk mengukur pengaruh dari penerapan sistem
+administrasi perpajakan modern (variabel independen) terhadap kepatuhan wajib pajak
+(variabel dependen). Untuk mengukur variabel tersebut, dilakukan penyebaran kuesioner
+kepada sejumlah responden. Kuesioner tersebut disusun berdasarkan indikator-indikator
+yang digunakan untuk mengetahui apakah pelaksanaan sistem administrasi perpajakan
+modern memiliki pengaruh terhadap tingkat kepatuhan wajib pajak.
+Variabel independen atau variabel bebas (X) dari penellitian ini adalah sistem
+administrasi perpajakan modern dengan indikator pengukuran meliputi:
+a. perubahan struktur organisasi dan sistem kerja KPP,
+b. perubahan implementasi pelayanan kepada wajib pajak,
+c. fasilitas pelayanan yang memanfaatkan teknologi informasi,
+d. kode etik.
+Variabel dependen atau variabel tidak bebas (Y) dalam penelitian ini adalah
+kepatuhan wajib pajak yang diukur dari:
+a. kepatuhan untuk mendaftarkan diri,
+b. kepatuhan untuk menyetorkan kembali Surat Pemberitahuan (SPT),
+c. kepatuhan dalam penghitungan dan pembayaran pajak terutang,
+d. kepatuhan dalam pembayaran tunggakan pajak.
+Untuk mengukur variabel independen dan dependen, maka dilakukan penyebaran
+kuesioner kepada sejumlah responden. Kuesioner tersebut disusun berdasarkan indikatorindikator yang digunakan untuk mengetahui apakah pelaksanaan sistem administrasi
+perpajakan modern memiliki pengaruh terhadap tingkat kepatuhan wajib pajak.
+Teknik untuk mengubah data kualitatif yang diperoleh menjadi suatu urutan data
+kuantitatif digunakan teknik pengukuran skala likert, karena data yang digunakan untuk
+menilai jawaban-jawaban yang diberikan dalam menguji variabel independen dan dependen
+terdiri dari lima tingkatan, bergerak dari 1 sampai 5. untuk pernyataan positif alternatif
+jawaban adalah sebagai berikut:
+Variabel Penerapan Sistem Administrasi Perpajakan Modern (X) yang
+dikembangkan dalam variabel reformasi administrasi perpajakan menurut Nasucha (2004) ,
+terdiri dari:
+a) modernisasi struktur organisasi (X1), adalah pendekatan modernisasi administrasi yang
+berusaha untuk mengatasi masalah-masalah organisasi yang berskala besar, guna
+mengatasi biropatologi dan disfungsi organisasi;
+b) modernisasi prosedur organisasi (X2), adalah penyempurnaan administrasi dalam
+model pemberian pelayanan dan pemeriksaan yang disesuaikan dengan tuntutan
+undang-undang, masyarakat, serta biaya yang tersedia;
+c) modernisasi strategi organisasi (X3), adalah penyempurnaan dengan melakukan
+perencanaan untuk mencapai tujuan organisasi. Strategi organisasi menggambarkan
+secara umum arah organisasi serta keperluan yang nyata baik di tingkat unit kegiatan
+maupun organisasi secara keseluruhan; dan
+d) modernisasi budaya organisasi (X4), adalah penyempurnaan yang berkaitan dengan
+kebiasaan dan cara hidup dalam lingkungan kerja organisasi.
+Kepatuhan adalah suatu pemenuhan kewajiban perpajakan, yang harus dilakukan
+Wajib Pajak melalui tingkat pelaporan Surat Pemberitahuan (SPT), laporan penyelesaian
+tunggakan pajak dan laporan perkembangan pembayaran atau penyetoran pajak terutang.
+Laporan pemenuhan kewajiban perpajakan oleh Wajib Pajak dapat diketahui atas hasil
+audit kepatuhan yang diperoleh dari dokumen Wajib Pajak di KPP. Variabel Kepatuhan
+menurut Nasucha (2004), terdiri dari:
+
+127
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+a)
+
+Aspek Yuridis (Y1), yaitu pemenuhan kepatuhan Wajib Pajak dilihat dari ketaatan
+terhadap prosedur administrasi perpajakan yang ada. Aspek ini meliputi laporan
+perkembangan penyampaian Surat Pemberitahuan (SPT), laporan perkembangan
+penyampaian Surat Pemberitahuan (SPT) secara presentase yang diisi secara benar dan
+tidak benar, serta laporan perkembangan penyampaian angsuran berdasarkan
+perkembangan Surat Pemberitahuan (SPT) Masa,
+b) Aspek Psikologis (Y2), yaitu kepatuhan Wajib Pajak dilihat dari persepsi Wajib Pajak
+terhadap penyuluhan pelayanan dan pemeriksaan pajak,
+c) Aspek Sosiologis (Y3), yaitu kepatuhan Wajib Pajak dilihat dari aspek sosial sistem
+perpajakan, antara lain kebijakan publik, kebijakan fiskal, kebijakan perpajakan, dan
+administrasi perpajakan.
+Teknik untuk mengubah data kualitatif yang diperoleh menjadi suatu urutan data
+kuantitatif menggunakan skala likert. Data yang digunakan untuk menilai jawaban-jawaban
+yang diberikan dalam menguji variabel independen dan dependen terdiri dari lima
+tingkatan, (skala 1-5) untuk pernyataan positif alternatif jawaban yaitu: Sangat Setuju (SS)
+= 5, Setuju (S) = 4, Kurang Setuju (KS) = 3, Tidak Setuju (TS) = 2, dan Sangat Tidak
+Setuju (STS) = 1.
+Kuesioner sebagai instrumen yang baik harus memenuhi dua persyaratan yaitu
+valid dan reliabel. Tujuan dari pengujian instrumen penelitian (kuesioner) adalah untuk
+mengetahui apakah data yang dihasilkan dari alat ukur tersebut dapat menjamin mutu dari
+penelitian sehingga kesimpulan-kesimpulan terhadap hubungan-hubungan antar variabel
+dapat dipercaya, akurat dan dapat diandalkan sehingga hasil penelitian bisa diterima.
+Validitas menunjukkan sejauh mana alat pengukur itu mengukur apa yang ingin diukur atau
+sejauh mana alat ukur yang digunakan mengenai sasaran. Semakin tinggi validitas suatu
+alat tes, maka alat tersebut semakin mengenai pada sasarannya atau semakin menunjukkan
+apa yang seharusnya diukur. Suatu tes dapat dikatakan mempunyai validitas tinggi apabila
+alat tes tersebut menjalankan fungsi pengukurannya atau memberikan hasil ukur sesuai
+dengan makna dan tujuan diadakannya tes atau pengukuran tersebut.
+Untuk menentukan kevalidan dari setiap item kuesioner digunakan metode
+koefisien korelasi Product Moment Pearson yaitu dengan mengkorelasikan skor total yang
+dihasilkan oleh masing-masing responden dari setiap item pertanyaan dengan masingmasing skor total variabel X dan variabel Y. Kemudian koefisien tersebut dibandingkan
+dengan nilai kritis yaitu 0,294 (yang didapat dari tabel r Pearson) atau 0.30 yang biasa
+digunakan sebagai syarat minimum validitas (Sugiyono, 2001:115).
+
+1.
+2.
+
+Langkah-langkah uji validitas adalah sebagai berikut:
+Hitung skor indikator dari masing-masing item tersebut.
+Hitung koefisien korelasi skor item pertanyaan dengan skor indikatornya menurut
+metode Product Moment Pearson. Masing-masing item pernyataan harus disesuaikan
+dengan indikator masing-masing.
+Rumus Product Moment Method adalah sebagai berikut:
+
+
+
+
+
+n
+xy
+
+x
+y
+
+
+
+r
+
+2
+2
+2
+2
+
+
+
+
+n
+x
+x
+n
+y
+y
+
+
+
+
+
+
+
+
+
+
+
+128
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+Dimana :
+r = koefisien korelasi product moment
+x = jumlah skor untuk indikator X
+y = jumlah skor untuk indikator Y
+n = banyak responden (sampel) dari variabel X dan Y dari hasil kuesioner
+3.
+
+Bandingkan koefisien tersebut terhadap koefisien menurut nilai kritisnya dari tabel
+Pearson.
+
+Item yang memiliki koefisien korelasi yang lebih kecil atau sama dengan nilai
+kritis, maka item-item tersebur harus dibuang dari analisis penelitian karena memiliki
+validitas yang rendah. Sebaliknya, hanya item yang memiliki nilai yang lebih tinggi dari
+nilai kritis saja yang dapat dimasukkan dalam analitis penelitian karena memiliki validitas
+yang tinggi. Derajat kebebasan (degree of freedom) yang digunakan adalah df = n-2,
+dengan n adalah jumlah responden yang diikutsertakan dalam uji validitas. Syarat minimum
+yang umum digunakan untuk memenuhi validitas adalah kalau r = 0,3, jika korelasi antara
+butir dengan skor total kurang dari 0,3, maka butir instrumen tersebut tidak valid
+(Sugiyono, 2004:155).
+Untuk uji reliabilitas digunakan metode Alpha Cronbach’s. Koefisien ini
+merupakan koefisien reliabilitas yang paling sering digunakan karena koefisien ini
+menggambarkan varians dari item-item baik untuk format benar/ salah atau bukan seperti
+Skala Likert. Untuk pengujian reliabilitas dilakukan dengan menggunakan program SPSS
+13.0.
+Perumusan hipotesis null (Ho) dan hipotesis alternatif (Ha) pada penelitian ini
+adalah sebagai berikut:
+Ho: Sistem Administrasi Perpajakan Modern tidak memiliki pengaruh positif signifikan
+terhadap kepatuhan Wajib Pajak.
+Ha: Sistem Administrasi Perpajakan Modern memiliki pengaruh positif signifikan
+terhadap kepatuhan Wajib Pajak.
+Kriteria penerimaan dan penolakan Ho adalah sebagai berikut:
+Jika α ≤ 0,05 maka Ho ditolak
+Jika α > 0,05 maka Ho diterima
+
+Pembahasan
+Sejak beberapa tahun terakhir pemerintah telah melakukan reformasi perpajakan
+yang mencakup reformasi kebijakan dan administrasi. Reformasi administrasi perpajakan
+tersebut perlu dilakukan karena sistem perpajakan Indonesia yang berlaku saat ini kurang
+kondusif. Modernisasi administrasi perpajakan meliputi struktur organisasi yang semula
+dibagi berdasarkan jenis pajak, kini dibagi berdasarkan fungsi, seperti fungsi pelayanan,
+pengawasan, konsultasi, pemeriksaan dan lainnya. Konsekuensi dari sistem admnistrasi
+perpajakan modern ini tentu menuntut adanya pelayanan prima.
+Kepatuhan wajib pajak adalah kemauan dan kesadaran wajib pajak untuk
+memenuhi segala kewajiban perpajakannya. Pemerintah
+tentu
+mengharapkan
+agar
+modernisasi yang berjalan ini mampu meningkatkan kepatuhan wajib pajak. Karena dengan
+
+129
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+adanya peningkatan kepatuhan wajib pajak maka penerimaan negara dari sektor pajak juga
+dapat meningkat pula. Dengan adanya penelitian ini diharapkan dapat mengetahui
+penerapan sistem administrasi perpajakan modernisasi pada KPP Pratama dan dapat
+diketahui apakah modernisasi ini mempunyai pengaruh signifikan terhadap kepatuhan
+wajib pajak, sehingga dapat digunakan sebagai informasi bagi aparat perpajakan guna terus
+memberikan pelayanan yang lebih baik dikemudian hari. Data yang diteliti dalam penelitian
+ini berupa data kuesioner yang disebarkan kepada 30 responden.
+Berdasarkan hasil pengujian validitas dan reliabilitas diperoleh hasil sebagai
+berikut:
+Tabel 2.
+Hasil Pengujian Validitas dan Reliabilitas
+No Item Pertanyaan
+Koefisien
+r-kritis
+Keterangan
+Validitas
+Variabel X
+1
+X1
+0,598
+0,3
+Valid
+2
+X2
+0,582
+0,3
+Valid
+3
+X3
+0,555
+0,3
+Valid
+4
+X4
+0,486
+0,3
+Valid
+5
+X5
+0,781
+0,3
+Valid
+6
+X6
+0,668
+0,3
+Valid
+7
+X7
+0,678
+0,3
+Valid
+8
+X8
+0,528
+0,3
+Valid
+9
+X9
+0,894
+0,3
+Valid
+10
+X10
+0,834
+0,3
+Valid
+11
+X11
+0,672
+0,3
+Valid
+12
+X12
+0,913
+0,3
+Valid
+13
+X13
+0,662
+0,3
+Valid
+14
+X15
+0,917
+0,3
+Valid
+15
+X16
+0,859
+0,3
+Valid
+16
+X17
+0,885
+0,3
+Valid
+17
+X18
+0,857
+0,3
+Valid
+Variabel Y
+18
+Y20
+0,664
+0,3
+Valid
+19
+Y21
+0,738
+0,3
+Valid
+18
+Y22
+0,742
+0,3
+Valid
+19
+Y23
+0,755
+0,3
+Valid
+20
+Y24
+0,522
+0,3
+Valid
+21
+Y25
+0,718
+0,3
+Valid
+22
+Y27
+0,634
+0,3
+Valid
+23
+Y28
+0,835
+0,3
+Valid
+
+130
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+1
+2
+3
+4
+No
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Tabel 2( Lanjutan)
+Hasil Pengujian Validitas dan Reliabilitas
+Variabel X
+X2
+1.000
+0,7
+X3
+1.000
+0,7
+X7
+1.000
+0,7
+X8
+1.000
+0,7
+Item Pertanyaan
+Koefisien
+r-kritis
+Validitas
+X11
+1.000
+0,7
+X13
+1.000
+0,7
+X16
+1.000
+0,7
+X18
+1.000
+0,7
+Variabel Y
+Y20
+0,803
+0,7
+Y21
+0,803
+0,7
+Y22
+0,803
+0,7
+Y23
+0,803
+0,7
+Y24
+0,771
+0,7
+Y25
+0,771
+0,7
+Y27
+0,771
+0,7
+Y28
+0,771
+0,7
+
+Reliabel
+Reliabel
+Reliabel
+Reliabel
+Keterangan
+Reliabel
+Reliabel
+Reliabel
+Reliabel
+Reliabel
+Reliabel
+Reliabel
+Reliabel
+Reliabel
+Reliabel
+Reliabel
+Reliabel
+
+
+
+Analisis Variabel Bebas Sistem Administrasi Perpajakan Modern
+Dalam variabel bebas (X) sistem administrasi perpajakan modern terdiri dari
+empat aspek yang dioperasionalkan kepada 18 pertanyaan. Aspek perubahan struktur
+organisasi terdiri dari empat pertanyaan, aspek perubahan implementasi pelayanan terdiri
+dari enam pertanyaan, aspek fasilitas pelayanan yang memanfaatkan teknologi informasi
+terdiri dari empat pertanyaan, dan aspek kode etik pegawai terdiri dari empat pertanyaan.
+
+
+Analisis Terhadap Perubahan Struktur Organisasi
+Dalam aspek perubahan struktur organisasi terdiri dari indikator dengan empat
+pertanyaan dari 30 responden. Persepsi responden (Tabel 3) menunjukkan proporsi tertinggi
+pada butir pernyataan empat sebesar 63,3% dengan kategori baik dan proporsi kedua pada
+butir pernyataan dua sebesar 50% dengan kategori kurang baik.
+
+131
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+Tabel 3.
+Distribusi Persepsi Responden Terhadap Perubahan Struktur Organisasi
+Distribusi
+Jawaban
+No
+1
+2
+3
+4
+5
+1
+0
+1
+2
+19
+8
+30
+0%
+3,3%
+6,7%
+63,3%
+26,7%
+100%
+2
+0
+0
+6
+16
+8
+30
+0%
+0%
+20%
+53,3%
+26,7%
+100%
+3
+2
+15
+6
+5
+2
+30
+6,7%
+50%
+20%
+16,7%
+6,7%
+100%
+4
+0
+0
+7
+16
+7
+30
+0%
+0%
+23,3%
+53,3%
+23,3%
+100%
+Sumber: hasil pengolahan data
+Berdasarkan Tabel 3 diperoleh gambaran bahwa persepsi aparat perpajakan
+terhadap indikator perubahan struktur organisasi adalah baik karena proporsi tertinggi
+terdapat pada butir pernyataan empat sebesar 63,3%.
+ Analisis Terhadap Perubahan Implementasi Pelayanan
+Dalam aspek perubahan implementasi pelayanan terdiri dari indikator dengan enam
+pertanyaan dari 30 responden. Persepsi responden terlihat dalam tabel empat menunjukkan
+proporsi tertinggi pada butir pernyataan empat sebesar 56,7% dengan kategori baik dan
+proporsi kedua pada butir pernyataan lima sebesar 43,3% dengan kategori sangat baik.
+Tabel 4.
+Distribusi Persepsi Responden Terhadap Perubahan Implementasi Pelayanan
+Distribusi Jawaban Responden
+Jawaban
+No
+1
+2
+3
+4
+5
+5
+0
+1
+4
+16
+9
+30
+0%
+3,3%
+13,3%
+3,3%
+30%
+100%
+6
+0
+3
+8
+12
+7
+30
+0%
+10%
+26,7%
+40%
+23,3%
+100%
+7
+0
+0
+4
+9
+30
+17
+0%
+0%
+13,3%
+30%
+100%
+56,7%
+8
+3
+2
+9
+12
+4
+30
+10%
+6,7%
+30%
+40%
+13,3%
+100%
+9
+0
+1
+4
+12
+30
+13
+0%
+3,3%
+13,3%
+40%
+100%
+43,3%
+10
+0
+0
+4
+14
+12
+30
+0%
+0%
+13,3%
+6,7%
+40%
+100%
+Sumber: hasil pengolahan data
+Berdasarkan tabel empat diperoleh gambaran bahwa persepsi aparat perpajakan terhadap
+indikator perubahan implementasi pelayanan adalah baik karena proporsi tertinggi terdapat
+pada butir pernyataan empat sebesar 56,7%.
+
+132
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+ Analisis Terhadap Fasilitas Pelayanan yang Memanfaatkan Teknologi Informasi
+Dalam aspek fasilitas pelayanan yang memanfaatkan teknologi informasi terdiri dari
+indikator dengan empat pertanyaan dari 30 responden. Persepsi responden terlihat dalam
+tabel lima menunjukkan proporsi tertinggi pada butir pernyataan lima sebesar 53,3%
+dengan kategori sangat baik dan proporsi kedua pada butir pernyataan empat sebesar 43,3%
+dengan kategori baik.
+Tabel 5.
+Distribusi Persepsi Responden Terhadap Fasilitas Pelayanan
+yang Memanfaatkan Teknologi Informasi
+Distribusi Jawaban Responden
+Jawaban
+No
+1
+2
+3
+4
+5
+11
+1
+0
+3
+10
+30
+16
+3,3%
+0%
+10%
+3,3%
+100%
+53,3%
+12
+0
+3
+10
+11
+6
+30
+0%
+10%
+33,3%
+36,7%
+20%
+100%
+13
+2
+0
+16
+9
+3
+30
+6,7%
+0%
+53,3%
+30%
+10%
+100%
+14
+0
+4
+7
+6
+30
+13
+0%
+13,3%
+23,3%
+20%
+100%
+43,3%
+Sumber: hasil pengolahan data
+Berdasarkan tabel lima diperoleh gambaran bahwa persepsi aparat perpajakan terhadap
+indikator fasilitas pelayanan yang memanfaatkan teknologi informasi adalah sangat baik
+karena proporsi tertinggi terdapat pada butir pernyataan lima sebesar 53,3%.
+ Analisis Terhadap Kode Etik Pegawai
+Dalam aspek kode etik pegawai terdiri dari indikator dengan empat pertanyaan dari 30
+responden. Persepsi responden terlihat dalam tabel enam menunjukkan proporsi tertinggi
+pada butir pernyataan empat sebesar 66,7% dengan kategori baik dan proporsi kedua pada
+butir pernyataan lima sebesar 53,3% dengan kategori sangat baik.
+Tabel 6.
+Distribusi Persepsi Responden Terhadap Kode Etik Pegawai
+Distribusi Jawaban Responden
+Jawaban
+No
+1
+2
+3
+4
+5
+15
+1
+0
+2
+11
+30
+16
+3,3%
+0%
+6,7%
+36,7%
+100%
+53,3%
+16
+0
+1
+3
+14
+12
+30
+0%
+3,3%
+10%
+46,7%
+40%
+100%
+17
+0
+1
+2
+7
+30
+20
+0%
+3,3%
+6,7%
+23,3%
+100%
+66,7%
+18
+1
+0
+4
+13
+12
+30
+3,3%
+0%
+13,3%
+43,3%
+40%
+100%
+Sumber: hasil pengolahan data
+
+133
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+Berdasarkan tabel enam diperoleh gambaran bahwa persepsi aparat perpajakan terhadap
+indikator kode etik pegawai adalah baik karena proporsi tertinggi terdapat pada butir
+pernyataan empat sebesar 66,7%.
+
+
+Analisis Variabel Terikat Kepatuhan Wajib Pajak
+
+Dalam variabel terikat (Y) kepatuhan wajib pajak terdiri dari indikator dengan sepuluh
+pertanyaan dari 30 responden. Persepsi responden terlihat dalam tabel tujuh menunjukkan
+proporsi tertinggi pada butir pernyataan empat sebesar 70% dengan kategori baik dan
+proporsi kedua pada butir pernyataan tiga sebesar 50% dengan kategori cukup baik.
+Tabel 7.
+Distribusi Persepsi Responden Terhadap Kepatuhan Wajib Pajak
+Distribusi Jawaban Responden
+Jawaban
+No
+1
+2
+3
+4
+5
+19
+0
+0
+2
+14
+14
+30
+0%
+0%
+6,7%
+46,7%
+46,7%
+100%
+20
+0
+0
+10
+16
+4
+30
+0%
+0%
+33,3%
+53,3%
+13,3%
+100%
+21
+0
+6
+13
+8
+3
+30
+0%
+20%
+43,3%
+26,7%
+10%
+100%
+22
+0
+4
+10
+12
+4
+30
+0%
+13,3%
+33,3%
+40%
+13,3%
+100%
+23
+0
+0
+12
+16
+2
+30
+0%
+0%
+40%
+53,3%
+6,7%
+100%
+24
+0
+0
+2
+7
+30
+21
+0%
+0%
+6,7%
+23,3%
+100%
+70%
+25
+0
+2
+9
+4
+30
+15
+0%
+6,7%
+30%
+13,3%
+100%
+50%
+26
+0
+0
+10
+17
+3
+30
+0%
+0%
+33,3%
+56,7%
+10%
+100%
+27
+0
+0
+8
+14
+8
+30
+0%
+0%
+26,7%
+46,7%
+26,7%
+100%
+28
+0
+0
+9
+14%
+7%
+30
+0%
+0%
+30%
+46,7%
+23,3%
+100%
+Sumber: Hasil Pengolahan Data
+Berdasarkan tabel tujuh diperoleh gambaran bahwa persepsi responden terhadap kepatuhan
+wajib pajak adalah baik karena proporsi tertinggi terdapat pada butir pernyataan empat
+sebesar 70%.
+Hasil perhitungan SPSS untuk koefisien regresi dan korelasi berganda
+adalah sebagai berikut:
+
+f hitung
+
+134
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+Tabel 8.
+ANOVA (b)
+Sum of
+Model
+Squares
+df
+Mean Square
+1
+Regression
+1.560
+4
+.390
+Residual
+6.713
+25
+.269
+Total
+8.273
+29
+a Predictors: (Constant), rata_x4, rata_x1, rata_x3, rata_x2
+b Dependent Variable: rata_y
+Sumber: Pengolahan SPSS 13.0
+
+F
+1.452
+
+Sig.
+.247(a)
+
+Tabel 9.
+Coefficients(a)
+Unstandardized
+Coefficients
+
+Model
+
+1
+
+Standardized
+Coefficients
+
+B
+2.857
+
+Std. Error
+.756
+
+rata_x1
+
+.170
+
+.196
+
+rata_x2
+
+.379
+
+.207
+
+rata_x3
+
+-.250
+-.052
+
+.198
+.157
+
+(Constant)
+
+rata_x4
+
+t
+
+Sig.
+
+Beta
+3.781
+
+.001
+
+.196
+
+.870
+
+.393
+
+.472
+
+1.832
+
+.079
+
+-.302
+-.074
+
+-1.263
+-.332
+
+.218
+.742
+
+a Dependent Variable: rata_y
+Sumber: Pengolahan SPSS 13.0
+Berdasarkan pada Tabel 9 di atas, variabel independen sistem administrasi perpajakan
+modern tidak memiliki pengaruh signifikan terhadap variabel dependen kepatuhan wajib
+pajak. Hal ini dapat dilihat dari t hitung yang lebih kecil dari t tabel sehingga Ho diterima.
+Besarnya sig untuk perubahan struktur organisasi sebesar 0,393 (sig > 0,05). Hal
+ini berarti variabel perubahan struktur organisasi secara signifikan tidak berpengaruh positif
+terhadap kepatuhan wajib pajak.
+Besarnya sig untuk perubahan implementasi pelayanan sebesar 0,079 (sig > 0,05).
+Hal ini berarti variabel perubahan implementasi pelayanan secara signifikan tidak
+berpengaruh positif terhadap kepatuhan wajib pajak.
+Besarnya sig untuk fasilitas pelayanan yang memanfaatkan teknologi informasi
+sebesar 0,218 (sig > 0,05). Hal ini berarti variabel fasilitas pelayanan yang memanfaatkan
+teknologi informasi secara signifikan tidak berpengaruh positif terhadap kepatuhan wajib
+pajak.
+Besarnya sig untuk kode etik pegawai sebesar 0,742 (sig > 0,05). Hal ini berarti
+kode etik pegawai secara signifikan tidak berpengaruh terhadap kepatuhan wajib pajak.
+Untuk melihat besarnya hubungan antara sistem administrasi perpajakan modern
+(X) terhadap kepatuhan wajib pajak (Y) dapat dihitung dengan menggunakan koefisien
+korelasi Pearson, yang diperoleh hasil koefisien korelasi antara variabel bebas dengan
+variabel terikat sebesar (0,170) + (0,379) + (-0,250) + (-0,052) = 0,247 untuk
+menginterpretasikan tingkat keeratan hubungan. Nilai r = 0,247 menunjukkan bahwa
+
+135
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+besarnya hubungan sistem administrasi perpajakan modern (X) dengan kepatuhan wajib
+pajak (Y) menunjukkan hubungan yang rendah tapi pasti yaitu sebesar 0,247.
+Regresi linier berganda digunakan untuk melihat besar pengaruh variabel bebas
+terhadap variabel terikat. Dari hasil perhitungan pada Tabel 9 sebelumnya, constant (a)
+yaitu sebesar 2,857 dan koefisien regresi sistem administrasi perpajakan modernisasi
+sebesar 0,247, sehingga diperoleh persamaan regresi sebagai berikut:
+Y = 2,857 + (0,170X1)+(0,379X2)+(-0,250X3)+(-0,052X4)
+Y = 2,857 + 0,247X
+Untuk mengetahui berapa besarnya variasi kepatuhan wajib pajak yang bisa
+dijelaskan oleh variabel sistem administrasi perpajakan modern bisa diketahui dengan
+menggunakan koefisien determinasi
+sebagai berikut:
+
+R  nilai R dapat dilihat melalui Perhitungan SPSS
+2
+
+Tabel 10
+Model Summary(b)
+Model
+R
+R Square Adjusted R Square
+1
+.434(a)
+.189
+.059
+a Predictors: (Constant), rata_x4, rata_x1, rata_x3, rata_x2
+b Dependent Variable: rata_y
+
+Std. Error of the Estimate
+.51820
+
+Berdasarkan Tabel 10, besarnya adjusted R square sebesar 0,059. Hal ini berarti
+perubahan struktur organisasi, perubahan implementasi pelayanan, fasilitas pelayanan yang
+memanfaatkan teknologi informasi, dan kode etik pegawai secara simultan berpengaruh
+sebesar 5,9% terhadap kepatuhan wajib pajak, sedangkan sisanya 94,1% disebabkan oleh
+faktor-faktor lainnya.
+Berdasarkan hasil pengujian terlihat bahwa sistem administrasi perpajakan modern
+tidak memiliki pengaruh signifikan terhadap variabel kepatuhan wajib pajak. Hal ini dapat
+dilihat dari t hitung yang lebih kecil dari t tabel sehingga Ho diterima dan Ha ditolak.
+ Pengaruh Penerapan Sistem Administrasi Perpajakan Modern Terhadap
+Kepatuhan Wajib Pajak
+Berdasarkan pada Tabel 9, variabel independen sistem administrasi perpajakan modern
+tidak memiliki pengaruh signifikan terhadap variabel dependen kepatuhan wajib pajak. Hal
+ini dapat dilihat dari t hitung yang lebih kecil dari t tabel sehingga Ho diterima. Hal ini
+dikarenakan bentuk KPP Pratama baru dikembangkan pada tahun 2002, yang berarti masih
+baru dikalangan masyarakat itu sendiri.
+Meskipun fasilitas pelayanan di KPP Pratama tersebut telah dimodernisasi dalam
+rangka pemberian pelayanan yang prima kepada wajib pajak, tetapi masyarakat masih
+sedikit yang menggunakan fasilitas teknologi elektronik, seperti e-SPT, e-Filling,
+e-Registration. Hal ini bisa dilihat pada Tabel 4 (pertanyaan no.12, dan no.14) yang
+menunjukkan bahwa proporsi skor jawaban pemanfaatan teknologi informasi oleh wajib
+pajak guna memperoleh pemenuhan hak dan kewajibannya dalam hal pelaporan dan
+pembayaran pajak masih terbilang rendah yaitu masing-masing sebesar 33.3%, dan 23.3%
+
+136
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+Para aparatur pajak berpendapat, antara rasio jumlah account representative
+bertugas dengan jumlah wajib pajak yang menjadi tanggung jawabnya belum seimbang.
+Kurangnya account representative yang bertugas dalam membantu seluruh kebutuhan
+administrasi wajib pajak dalam memenuhi kewajiban perpajakannya menyebabkan kurang
+maksimalnya kerja dari para account representative. Hal ini bisa dilihat pada Tabel 3
+(pertanyaan no.3) yang menunjukkan bahwa proporsi skor jawabannya sebesar 50%.
+Berdasarkan analisis data penelitian ditemukan bahwa tingkat keterlambatan
+penyampaian SPT masih tinggi, artinya masih banyak wajib pajak yang terlambat dalam
+menyampaikan SPT. Hal ini dapat dilihat pada Tabel 7 (pertanyaan no.23) yang
+menunjukkan bahwa proporsi skor jawabannya sebesar 53.3%. Bagaimanapun bagusnya
+modernisasi yang diterapkan oleh pemerintah, tetapi apabila pemahaman masyarakat akan
+ketentuan perpajakan masih kurang, maka tingkat kesalahan dalam pengisian SPT oleh
+wajib pajak juga masih tinggi. Hal ini dapat dilihat pertanyaan no.21 yang menunjukkan
+bahwa proporsi skor jawabannya sebesar 26.7%.
+Adapun besarnya hubungan variabel terikat (kepatuhan wajib pajak) yang bisa
+dijelaskan oleh variabel bebas (sistem administrasi perpajakan modern) sebesar 5,9% yang
+dapat dilihat dari nilai R Square (tabel 10). Hal ini berarti perubahan struktur organisasi,
+perubahan implementasi pelayanan, fasilitas pelayanan yang memanfaatkan teknologi
+informasi, dan kode etik pegawai secara simultan berpengaruh sebesar 5,9% terhadap
+kepatuhan wajib pajak, sedangkan sisanya 94,1% disebabkan oleh faktor-faktor lainnya.
+Dilihat dari tersebut dapat disimpulkan bahwa sistem administrasi modern memiliki
+pengaruh rendah tapi pasti terhadap pencapaian kepatuhan wajib pajak. Dengan kata lain
+faktor diluar variabel independen tersebut memiliki pengaruh yang sangat tinggi terhadap
+kepatuhan wajib pajak.
+Simpulan dan Saran
+ Simpulan
+Berdasarkan hasil penelitian dan pembahasan yang telah dilakukan untuk menjawab
+identifikasi masalah yang telah dikemukakan sebelumnya, dapat diambil kesimpulan:
+a. Penerapan Sistem Administrasi Perpajakan Modern pada KPP Pratama Bandung ”X”
+sebagian besar dalam kategori baik yang meliputi:
+(1) Penerapan modernisasi struktur organisasi berkaitan dengan program penerapan
+Good Governance dalam meningkatkan citra Direktorat Jenderal Pajak dan
+kampanye sadar dan peduli pajak sebagian besar dalam kategori baik.
+(2) Penerapan perubahan implementasi pelayanan berkaitan dengan perubahan
+kualitas pemberian pelayanan kepada wajib pajak serta efisiensi dan efektivitas
+kerja aparat pajak sebagian besar dalam kategori baik.
+(3) Penerapan penggunaan fasilitas teknologi perpajakan dalam mempermudah
+pemenuhan kewajiban perpajakan sebagian besar dalam kategori baik, karena
+dapat mempermudah petugas pajak dalam memberikan pelayanan prima kepada
+Wajib Pajak.
+(4) Penerapan kode etik pegawai Direktorat Jenderal Pajak sebagai standar perilaku
+pegawai dalam menjalankan tugas sebagian besar dalam kategori baik.
+b.. Sistem administrasi perpajakan modern tidak memiliki pengaruh signifikan terhadap
+Kepatuhan Wajib Pajak. Hal ini disebabkan oleh:
+(1) Model KPP Pratama itu sendiri baru dikembangkan pada tahun 2002, sehingga
+perlu banyak sosialisasi yang lebih banyak mengenai penerapannya.
+
+137
+
+Jurnal Akuntansi Vol.1 No.2 November 2009:119-138
+
+(2) Jumlah account representative yang ada di KPP Pratama tidak sebanding dengan
+jumlah wajib pajak yang menjadi tanggung jawabnya menyebabkan tidak
+maksimalnya kinerja petugas account representative (AR) dalam memberikan
+pelayanan prima kepada wajib pajak. Oleh karena itu dikemudian hari diharapkan
+jumlah account representative bisa ditingkatkan.
+(3) Penggunaan teknologi internet oleh masyarakat guna mempermudah transaksi
+perpajakannya masih rendah. Masih banyak wajib pajak yang terlambat dalam
+menyampaikan SPT dan membayar pajak terhutangnya. Oleh karena itu
+dikemudian hari perlu dilakukan sosialisasi mengenai penggunaan teknologi
+internet guna mempermudah transaksi perpajakannya.
+
+
+Keterbatasan Penelitian
+Keterbatasan dari penelitian ini adalah hanya dilakukan pada satu KPP Pratama
+sehingga sampelnya kecil dengan jumlah 30 orang. Oleh karena itu penelitian
+selanjutnya dapat disarankan mengambil sampel yang lebih besar dengan jumlah KPP
+Pratama yang lebih banyak.
+ Saran
+Beberapa saran yang dapat disampaikan berdasarkan kesimpulan dari hasil penelitian ini
+adalah:
+a. Bagi aparat penagih (fiskus)
+Aparat pajak sebagai pelaksana modernisasi perpajakan harus selalu meningkatkan
+kinerja mereka dalam memberikan pelayanan prima kepada wajib pajak, sehingga
+diharapkan apabila kinerja aparat perpajakan semakin meningkat, maka penerimaan
+pajak juga bisa meningkat juga.
+b. Bagi wajib pajak
+Peningkatan pengetahuan mengenai penggunaan media elektronik seiring berjalannya
+sistem administrasi perpajakan modern perlu dilakukan, hal ini bisa mempermudah
+wajib pajak memenuhi kewajiban perpajakannya. Peningkatan kemampuan wajib pajak
+dalam mengisi SPT juga penting, agar jumlah pajak yang kurang bayar bisa
+diminimalisir.
+
+Daftar Pustaka
+Gunadi. 2004. Reformasi Administrasi Perpajakan dalam Rangka Kontribusi Menuju Good
+Governance, Pidato Pengukuhan Guru besar Perpajakan, FISIP, Universitas Indonesia,
+Jakarta.
+Lumbantoruan, Sophar. 1997. Ensiklopedi Perpajakan. Penerbit Erlangga, Jakarta
+Mardiasmo. 2008. Perpajakan, Edisi Revisi, Yogyakarta : CV. Andi Offset.
+Nasucha, Chaizi. 2004. Reformasi Administrasi Publik: Teori dan Praktik. Jakarta: Penerbit
+PT Gramedia Widiasarana Indonesia
+Nazir. 1999. Metodologi Penelitian, cetakan keempat. Jakarta : Ghalia Indonesia.
+Pandiangan, Liberty. 2008. Modernisasi & Reformasi Pelayanan Perpajakan. Penerbit,
+Jakarta: PT Elex Media Komputindo.
+Singarimbun, Masri dan Effendi, Sofyan. 1995. Metode Penelitian Survey. Penerbit:
+LP3ES, Jakarta
+Sofyan, Marcus T. 2000. Skripsi Sekolah Tinggi Akuntansi Negara.
+Sugiyono. 2004. Metode Penelitian Bisnis,Cetakan Kesebelas, Bandung: CV. ALFABETA.
+
+138
+
+

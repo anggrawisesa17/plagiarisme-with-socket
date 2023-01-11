@@ -1,0 +1,483 @@
+Jurnal Informasi
+
+Volume VII No.2 / November / 2015
+
+PEMODELAN PROSES BISNIS SISTEM AKADEMIK MENGGUNAKAN
+PENDEKATAN BUSINESS PROCESS MODELLING NOTATION (BPMN)
+(STUDI KASUS INSTITUSI PERGURUAN TINGGI XYZ)
+Moch Ali Ramdhani
+ABSTRAK
+Pemodelan proses bisnis adalah teknik atau cara untuk memahami, mendesain dan
+menganalisa suatu proses bisnis, dimana manfaatnya untuk membantu
+institusi/perusahaan memahami proses bisnisnya dengan baik, mengidentifikasi
+permasalahan seperti critical path atau bottleneck yang mungkin terjadi,
+mengembangkan, mendokumentasikan serta mengkomunikasikannya pada semua
+pemangku kepentingan bisnis. Sehingga perusahaan dapat meningkatkan performance
+dari pengelolaan proses bisnisnya. Secara umum BPMN cenderung menggambarkan
+proses dari pandangan seorang analisis bisnis. BPMN tidak dibuat dengan tujuan untuk
+dibuat programnya. BPMN perlu disempurnakan (misalnya ke proses BPEL) sebelum
+bisa dibuat pedoman pemrograman. Alasan inilah, BPMN digunakan oleh analisis
+bisnis dengan tujuan bukan untuk implementasi tapi lebih ke arah penyajian kebutuhan
+yang akan diberikan kepada analisis IT dan software development. Umumnya, BPMN
+dipakai untuk menghasilkan “BPEL code” yang akan diperbaiki oleh developer
+sehingga dapat dibuat implementasinya.
+Keyword: Pemodelan Proses Bisnis, Sistem akademik dan BPMN
+
+1.
+
+LATAR BELAKANG
+Proses bisnis merupakan serangkaian aktifitas yang saling terkait untuk mencapai
+
+tujuan bisnis tertentu yang diselesaikan secara berurutan ataupun paralel, oleh manusia
+atau sistem, baik di dalam maupun di luar organisasi. Kompleksitas proses bisnis yang
+terjadi membuat perusahaan mencari cara untuk menggambarkan proses bisnis.
+Pemodelan proses bisnis digunakan untuk mengevaluasi dan melakukan perbaikan
+proses bisnis di masa mendatang. Analisa proses bisnis umumnya melibatkan pemetaan
+proses dan subproses di dalamnya hingga tingkatan aktivitas atau kegiatan. Analisa
+tersebut dapat dilakukan melalui pemodelan proses bisnis yang menggambarkan cara
+orang- orang atau pihak -pihak saling berinteraksi di dalam sistem, dan dijelaskan
+dengan cara atau standar tertentu. pemodelan proses bisnis yang akan dipaparkan lebih
+lanjut adalah proses bisnis penerimaan mahasiswa baru, akademik dan perpustakaan
+menggunakan pendekatan BPMN.
+
+83
+
+Jurnal Informasi
+
+2.
+
+Volume VII No.2 / November / 2015
+
+PEMODELAN PROSES BISNIS
+Business
+
+Process
+
+Modelling
+
+(BPM)
+
+atau
+
+Pemodelan
+
+Proses
+
+Bisnis
+
+(PPB) merupakan diagram yang umum mewakili urutan kegiatan secara implisit
+berfokus pada sebuah proses, tindakan dan kegiatan (job). Sumber Daya (Resource)
+yang digambarkan dalam PPB menunjukkan bagaimana mereka akan diproses.
+Pemodelan Proses Bisnis adalah lintas fungsional, biasanya penggabungan
+pekerjaan dan dokumentasi lebih dari satu departemen dalam sebuah institusi,
+organisasi atau perusahaan. Dalam situasi lebih rumit, Pemodelan Proses juga
+dimasukan pada aktivitas proses eksternal pada organisasi dan sistem yang dimasukkan
+ke dalam sebuah proses primer / utama.
+Dalam organisasi besar Pemodelan Proses Bisnis cenderung dianalisis dan
+direpresentasikan secara lebih rinci dari pada di organisasi kecil, karena skala dan
+kompleksitasnya lebih besar.
+Manfaat Pemodelan Proses Bisnis adalah untuk memudahkan pemahaman alur
+proses secara terintegrasi, tujuan pemodelan proses bisnis adalah untuk mendefiniskan
+langkah langkah yang harus diambil untuk mencapai suatu tujuan
+Diagram Model Proses Bisnis adalah alat untuk mencapai sebuauh tujuan, dan
+bukan hasil kinerja dari suatu proses.
+Hasil akhir diagram proses bisnis ini adalah melakukan perbaikan pada cara
+proses bisnis itu bekerja.
+Definisi Proses Bisnis menurut para pakar sebagai berikut:
+1. Hammer dan Champy (tahun 1994, p35) Proses bisnis merupakan sekumpulan
+aktivitas yang memerlukan satu atau lebih masukan / input dan membentuk suatu
+keluaran / output yang memiliki nilai yang diinginkan pelanggan.
+2. Indrajit (tahun 2002, p3) Proses bisnis adalah sejumlah aktivitas yang mengubah
+sejumlah input menjadi output untuk orang lain.
+3. Paul Harmon pada bukunya yang berjudul “Business Process Change” (tahun
+2003) Proses Bisnis adalah serangkaian aktivitas yang dilakukan oleh suatu bisnis
+dimana mencakup inisiasi input, transformasi dari suatu informasi, dan
+menghasilkan output.
+
+84
+
+Jurnal Informasi
+
+Volume VII No.2 / November / 2015
+
+3. BUSINESS PROCESS MODELLING NOTATION (BPMN)
+Business Process Modeling Notation (BPMN) menggambarkan suatu bisnis
+proses diagram yang mana didasarkan kepada teknik diagram alur, dirangkai untuk
+membuat model-model grafis dari operasi-operasi bisnis dimana terdapat aktivitasaktivitas dan kontrol-kontrol alur yang mendefinisikan urutan kerja.
+BPMN dikembangkan oleh konsorsium industry (BPMN.org) yaitu konstituen
+yang mewakili berbagai vendor alat BPM tetapi bukan sebagai pembuka akhir,
+mengemukakan bahwa “ The Business Process Modeling Notation is Emerging as a
+standard language for capturing business processes, e-specially at the level of domain
+analysis and high level systems design” (BPMI.org : 2006)
+Diagram BPMN terdiri atas elemen. Elemen ini terbagi atas empat kategori, yaitu
+Flow Object, Connecting Object, Swimlanes, dan Artifact. Berikut penjelasan dari
+masing masing elemen BPMN.
+3.1
+
+Flow Object
+
+a. Event direpresentasikan dalam bentuk lingkaran dan menjelaskan apa yang terjadi
+
+saat itu. Ada dua jenis event, yaitu start, intermediate, dan end. Event-event ini
+mempengaruhi alur proses alur proses dan biasanya menyebabkan terjadinya
+kejadian (trigger) atau sebuah dampak (result)
+Masing-masing mewakili kejadian dimulainya proses bisnis, interupsi proses bisnis,
+dan akhir dari proses bisnis. Untuk setiap jenis event tersebut sendiri terbagi atas
+beberapa jenis, misalnya message start, yang dilambangkan seperti start event
+namun mendapatkan tambahan lambang amplop di dalamnya, yang berarti ada
+pesan event tersebut dimulai dengan masuknya pesan.
+
+Gambar 2.1a Elemen start, intermadate dan end event
+(Sumber : BPMI.org : 2006)
+
+b. Activity merepresentasikan pekerjaan (task) yang harus diselesaikan. Ada empat
+
+macam activity, yaitu task, looping task, sub process, dan looping subprocess.
+
+85
+
+Jurnal Informasi
+
+Volume VII No.2 / November / 2015
+
+Gambar2.1b Elemen-Elemen Activity
+(Sumber : BPMI.org : 2006)
+
+3.2 Connecting Object
+Connecting object merupakan aliran pesan antar proses dimana satu kejadian
+dengan kejadian yang lain saling berhubungan dan merepresentasikan dari hubungan
+tersebut. Adapun simbol-simbol atau gambar dalam penulisan connecting object ada 3
+jenis yaitu :
+a. Sequence flow, merepresentasikan pilihan default untuk menjalankan proses
+b. Message flow, merepresentasikan aliran pesan antar proses
+c. Association, digunakan untuk menghubungkan elemen dengan artifact
+
+Gambar 3.2 Elemen sequence flow, message flow, dan Association
+(Sumber : BPMI.org : 2006)
+
+3.3.
+
+Swimlanes
+Elemen ini digunakan untuk mengkategorikan secara visual seluruh elemen
+
+dalam diagram. Ada dua jenis swimlanes, yaitu pool dan lane. Perbedaannya adalah
+lane terletak di bagian dalam pool untuk mengkategorisasi elemen-elemen di dalam
+pool menjadi lebih spesifik.
+
+86
+
+Jurnal Informasi
+
+Volume VII No.2 / November / 2015
+
+Gambar 3.3 Pool dan Lane (Sumber : BPMI.org : 2006)
+
+3.4
+
+Artifacts
+Elemen ini digunakan untuk memberi penjelasan di diagram. Elemen ini terdiri
+
+atas tiga jenis, yaitu:
+1. Data object, digunakan untuk menjelaskan data apa yang dibutuhkan dalam proses
+2. Group, untuk mengelompokkan sejumlah aktivitas di dalam proses tanpa
+mempengaruhi proses yang sedang berjalan
+3. Annotation, digunakan untuk memberi catatan agar diagram menjadi lebih mudah
+dimengerti
+
+Gambar 3.4 Elemen data object, group, dan annotation (Sumber : BPMI.org : 2006)
+
+Notasi BPMN diatas dapat memodelkan pesan kompleks yang dilewatkan
+diantara pelaku bisnis atau bagian dari pelaku bisnis, Salah satu kelebihan diagram
+BPMN
+
+adalah
+
+kemampuan
+
+dalam
+
+memodelkan
+
+aliran
+
+pesan
+
+karena
+
+dapat
+
+menggambarkan secara grafis pemisahan aliran proses berdasarkan organisasi atau
+departemen yang melakukannya.
+
+4. PEMBAHASAN
+Objek yang menjadi kajian penulis dibatasi hanya seputar sistem penerimaan
+mahasiswa baru, akademik dan perpustakaan, dimana proses diatas dapat dikategorkan
+menjadi tiga kelompok yaitu :
+1. Proses inti, proses ini menjadi hal yang mutlak harus ada dalam aktifitas akademik
+karena di dalamnya berisi tahapan mulai dari penerimaan sebagai input, serta
+
+87
+
+Jurnal Informasi
+
+Volume VII No.2 / November / 2015
+
+prosesnya adalah pada saat palaksanaan aktifitas perkuliahan dan sebagai output dari
+proses ini adalah lulusan.
+2. Proses pendukung, proses ini dijadikan sebagai pendukung aktifitas akademik saja,
+tetapi walaupun begitu proses ini memegang peranan yang penting dan signifikan
+demi terciptanya suasana akademik yang lebih baik.
+3. Proses peningkatan, proses ini dijadikan sebaai bahan acuan untuk meningkatkan
+pelayanan terhadap proses inti sehingga seluruh proses dapat lebih bersinergi
+dengan lebih baik lagi dan hasilnya adalah output yang diharapkan akan tercipta
+dengan sempurna sesuai dengan harapan.
+Dan dapat di gambarkan sebagai berikut:
+
+Gambar 4 Interaksi antar proses dalam perguruan tinggi
+4.1 Proses bisnis Penerimaan Mahasiswa Baru (PMB)
+Bagian PMB mempunyai fungsi yang sangat strategis sekali karena kinerja PMB
+ini berpengaruh terhadap peningkatan jumlah mahasiswa di suatu perguruan tinggi.
+Proses yang terjadi di PMB dimulai dari promosi, pendaftaran calon mahasiswa baru
+sampai ke seleksi mahasiswa baru.
+Penerimaan mahasiswa baru pada implementasinya kadang di beberapa perguruan
+tinggi dilakukan hanya satu kali dalam setiap tahun tetapi di beberapa perguruan tinggi
+yang lain selalu diadakan tiap semester.
+Proses bisnis penerimaan mahasiswa baru dimulai dari proses pendaftaran calon
+mahasiswa dibagian pendaftaran dan pengumpulan berkas persyaratan. Setelah
+pendaftaran proses selanjutnya adalah tes seleksi biasanya diadakan pergelombang. Dari
+
+88
+
+Jurnal Informasi
+
+Volume VII No.2 / November / 2015
+
+hasil seleksi ini dihasilkan calon mahasiswa yang lulus seleksi dan selanjutnya
+malakukan pendaftaran ulang untuk melengkapi persyaratan. Dan data mahasiswa yang
+melakukan pendaftaran ulang ini selanjutnya dimasukan ke dalam sistem akademik
+untuk diproses lebih lanjut.
+
+Calon Mahasiswa
+
+Bagian PMB
+
+Bagian Keuangan
+
+Menerima Data
+mahasiswa baru
+
+Mendaftar menjadi
+mahasiswa baru
+
+Menerima
+Pendaftaran
+mahasiswa baru
+
+Menerima NIM
+
+Input Data
+mahasiswa baru ke
+sistem
+
+Data mhs yang sudah bayar
+
+Data mhs baru
+Menerima
+Pembayaran Her
+Registrasi
+
+Membayar Her
+Registrasi
+
+Gambar 4.1 Interaksi antar proses dalam perguruan tinggi
+4.2 Proses bisnis Akademik
+Proses
+
+bisnis
+
+untuk
+
+akademik
+
+meliputi
+
+beberapa
+
+proses
+
+yang
+
+saling
+
+ketergantungan satu sama lain meliputi, registrasi mahasiswa baru ataupun mahasiswa
+lama, proses perwalian, penentuan jadwal, penghitungan nilai, proses perkuliahan
+sampai ke proses kelulusan mahasiswa.
+Sistem informasi akademik di perguruan tinggi mutlak menjadi kebutuhan yang
+utama dalam menjalankan operasional bisnisnya, karena dengan sistem informasi
+akademik ini dapat membantu pekerjaan rutinitas dalam hal pengarsipan dan
+pengolahan data akademik yang berhubungan dengan akademik tersebut. Sistem
+akademik ini meliputi proses perwalian, pegaturan jadwal, pengolahan nilai, absensi
+aktifitas mahasiswa dan dosen, serta lulusan.
+
+89
+
+Jurnal Informasi
+
+Volume VII No.2 / November / 2015
+
+Bagian yang melaksanakan operasional sistem akademik ini berbeda antara
+perguruan tinggi yang satu dengan yang lain. Kadang untuk sekolah tinggi operasional
+sistem akademik ini dipegang oleh Biro Administrasi Akademik, tapi di perguruan tingi
+yang lain ada yang dikendalikan oleh dua bagian yaitu bagian program studi dan Biro
+Admnistrasi Akademik. Untuk universitas dan institut ada juga sistem akademik ini
+dioperasikan oleh masing masing vakultas, dan bahkan ada juga sistem ini dioperasikan
+oleh Biro Administrasi Akademik secara terpusat artinya seluruh pengolahan data
+dilakukan secara terpusat.
+
+Gambar 4.2 BPMN Sistem Akademik
+
+90
+
+Jurnal Informasi
+
+Volume VII No.2 / November / 2015
+
+4.3 Proses Bisnis Perpustakaan
+Setiap perguruan tinggi pasti akan selalu memiliki perpustakaan terlepas dari
+besar kecilnya perpustakaan tersebut, perpustakaan ini biasanya dikelola secara mandiri
+oleh bagian perpustakaan secara langsung dan adapun perpustakaan ini harus mampu
+melaksanaan proses bisnis sebagaiberikut :
+1. Mengelola koleksi perpustakaan seperti buku, majalah dan lain lain, serta
+menginventarisasinya
+2. Layanan sirkulasi perpustakaan meliputi proses pedaftaran anggota (registrasi),
+peminjanman dan pengembalian.
+Dalam proses ini terdapat dua BPMN yakni
+a. BPMN Keanggotaan dan peminjaman buku
+b. BPMN Pengembalian buku dan denda
+
+Bag.Perpustakaan
+
+Mahasiswa
+
+Kadaluarsa atau
+belum jadi anggota
+Melakukan
+Pendaftaran
+
+Menerima
+Pendaftaran
+
+Menerima
+No.anggota
+
+Verifikasi Data
+mahasiswa
+
+Data Anggota
+Cek data
+anggota
+
+Cari buku
+
+Boleh melakukan
+peminjaman
+
+ya
+
+Melakukan
+Pinjaman buku
+
+Buku tidak ada
+
+Buku ada
+Siapkan buku &
+catat buku
+
+Terima buku
+Data Peminjam
+
+Gambar 4.3a BPMN Keanggotaan dan Peminjaman buku
+
+91
+
+Jurnal Informasi
+
+Volume VII No.2 / November / 2015
+
+Bag.Perpustakaan
+
+Mahasiswa
+
+Cek anggota &
+batas akhir
+pengembalian
+
+Pengembalian Buku
+
+sesuai
+
+Tidak sesuai
+
+Terima pengmbalian
+buku
+
+Menghitung biaya
+Denda
+keterlambatan
+pengembalian buku
+
+Bayar denda
+
+Menerima
+pembayaran denda
+
+Gambar 4.3b BPMN Pengembalian buku dan denda
+
+5.
+
+KESIMPULAN
+Secara umum BPMN cenderung menggambarkan proses dari pandangan seorang
+
+analisis bisnis. BPMN tidak dibuat dengan tujuan untuk dibuat programnya. BPMN
+perlu disempurnakan (misalnya ke proses BPEL) sebelum bisa dibuat pedoman
+pemrograman. Alasan inilah, BPMN digunakan oleh analisis bisnis dengan tujuan
+bukan untuk implementasi tapi lebih ke arah penyajian kebutuhan yang akan diberikan
+kepada analisis IT dan software development. Umumnya, BPMN dipakai untuk
+
+92
+
+Jurnal Informasi
+
+Volume VII No.2 / November / 2015
+
+menghasilkan “ BPEL code” yang akan diperbaiki oleh developer sehingga dapat dibuat
+implementasinya.
+
+6.
+
+DAFTAR PUSTAKA
+
+BPMN, The Business Process Modeling Notation; Poket Handbook by Briol Patrice,
+2008 First Edition ISBN. 978-1-4092-0299-8
+http://www.bpmn.org/Documents/FAQ.htm (diakses tanggal 2 Desember 2010)
+http://www.bpmnforum.com/FAQ.htm (diakses tanggal 1 Desember 2010)
+Grosskopf, Decker and Weske. 2009. The Process: Business Process Modeling using
+BPMN. Meghan Kiffer Press.
+Daniela C.C Peixoto, Vitor A. Batista; Brazil. Universidade Federal de Minas Gerisa;
+“A Comparison of BPMN and UML 2.0 Activity Diagrams”
+Eloranta, Lauri and Kalio, Eero. A Notation Evaluation of BPMN and UML Activity
+Diagrams. 2006
+http://www.bpm-research.com/forum /index.php?showtopic=501(diakses tanggal 10
+Desember 2010.
+Chun Ouyang, Marlon Dumas, Wil. M.P. “From Business Process Models to Process
+oriented Software System”.
+Zauram, Maurek. Business Process Simulation Using Coloured Petri Nets. University of
+Tartu. May 2010
+Harrington H.J., Business Process Improvement (The Breakthrough Strategy for Total
+Quality, productivity, and Competitiveness), McGraw-Hill, 1991
+Lawrence R. Jauch & William F. Glueck, Strategic Management and Business Policy,
+McGraw-Hill, 1988
+
+93
+
+

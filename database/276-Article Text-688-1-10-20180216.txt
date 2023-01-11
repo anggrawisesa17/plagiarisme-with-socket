@@ -1,0 +1,342 @@
+Journal Of Informatic Pelita Nusantara
+
+Volume 3 No 1 Maret 2018
+
+e-ISSN 2541-3724
+
+SISTEM INFORMASI PENGAGENDAAN SURAT BERBASIS
+WEB PADA PENGADILAN TINGGI MEDAN
+Hengki Tamando Sitohang
+Teknik Informatika
+STMIK Pelita Nusantara, Jl. Iskandar Muda No.1 Medan, Sumatera Utara, Indonesia 20154
+hengki_tamando@yahoo.com
+Abstrak
+Banyak jumlah surat yang diterima dan yang dikirim oleh pengadilan tinggi medan bagian umum dan
+informasi, sehingga saat ini diperlukan suatu sistem yang dapat membantu kinerja yang berkaitan dengan suratmenyurat, maka penulis tertarik merancang sistem informasi pengagendaan surat. Pengagendaan surat adalah
+catatan surat masuk dan surat keluar yang diterima maupun yang dikirim dalam dua buku maupun satu buku.
+Pengagendaan surat biasanya termasuk pekerjaan dari bagian umum, pegawai, sekretaris. Surat adalah sarana
+komunikasi untuk menyampaikan informasi dari satu kepada pihak yang lainnya. Pembuatan Sistem Informasi
+Pengagendaan Surat berdasarkan perancangan sistem yang telah disusun yaitu use case diagram, activity dan
+class diagram. Bahasa yang digunakan adalah bahasa PHP, database MySQL, tempat menjalankan PHP
+menggunakan Dreamweaver dan menjalankan program menggunakan Xampp Control. Pengadilan Tinggi Medan
+masih menggunakan sistem yang konvesional. Sehingga sangat diharapkan agar sistem ini dapat berjalan dengan
+baik serta dapat membantu kinerja pada pengadilan tinggi medan mengenai surat menyurat.
+Kata kunci : Sistem Informasi, Surat, PHP, MySQL, Xampp
+Abstract
+Many letters received and sent by pengadilan tinggi medan the general and information, so now requared a
+system that cal help performance related to the correspondence, the authors are interested to desaign information
+systems agenda a letter. Agenda letters is the records incoming mail and outgoing mail received and sent in two
+books and a book. Agenda letter usually including job than the a general,employees and secretaries. Letters are
+the means of communication to convey information by the parties to the other. Making of information system
+agenda letter based design system has composed ie use case diagram, activity and class diagram. The language
+used is language PHP, database MySQL, place run PHP using dreamweaver and run the program using xampp
+control. Pengadilan Tinggi Medan still using system convesional. The very expented that the system can run well
+as well as can help the performance of the pengadilan tinggi medan about the correspondence.
+Keyword : Information system, Letter, PHP, MySQL, Xampp
+
+I. PENDAHULUAN
+Perkembangan teknologi yang semakin pesat
+sekarang ini menuntut kita untuk mengikuti arus
+perkembangan teknologi tersebut, begitu juga
+bagi instansi akan melakukan modernisasi
+administrasi, seperti pemanfaatan teknologi
+komputer salah satunya adalah sistem informasi
+pengarsipan surat masuk dan surat keluar.
+Bertujuan agar setiap pekerjaan dapat dilakukan
+dengan mudah dan cepat dengan hasil yang
+maksimal dalam hal surat-menyurat di instansi
+pemerintahan, salah satu yang akan melakukan
+medernisasi administrasi adalah Pengadilan
+Tinggi Medan. Pengadilan Tinggi Medan
+menerima banyak jenis surat yang berbeda
+lalu menuliskan atau mencatat beberapa bagian
+dari surat tersebut yaitu: nomor surat, uraian
+surat, asal surat, tanggal surat masuk,tanggal surat
+keluar, tanggal agenda, dokumen. Adapun
+terdapat masalah-masalah pada instansi tersebut
+seperti pengarsipan yang masih dilakukan dengan
+cara menuliskan ke buku besar dan masih lambat
+
+kemudian didata dengan cara mencatat kedalam
+buku besar dan perlu mengirimkan balasan yang
+berbeda pula dengan demikian maka dalam
+mencari surat tersebut jika sewaktu-waktu
+dibutuhkan maka itu akan mengurangi
+keefesienan dalam hal tenaga dan waktu bila
+dilakukan dengan cara menulis satu persatu ke
+buku agenda.
+Pengagendaan surat masuk dan surat keluar
+pada kantor Pengadilan Tinggi Medan masih
+menggunakan
+sistem
+pengarsipan
+yang
+konvesional. Proses yang dilakukan masih dengan
+cara memisahkan antara surat masuk dan surat
+keluar
+dikarenakan jumlah data yang sangat banyak jika
+data tidak dikelola dengan baik, teliti dan teratur,
+maka akan menimbulkan suatu permasalahan,
+sehingga diperlukan pembuatan sistem informasi
+yang mendukung kinerja dari pada Instansi
+pemerintah yang bersangkutan.
+6
+
+Journal Of Informatic Pelita Nusantara
+
+Journal Of Informatic Pelita Nusantara
+
+Volume 3 No 1 Maret 2018
+
+e-ISSN 2541-3724
+
+Berdasarkan latar belakang diatas maka
+identifikasi masalah dalam penelitian adalah
+ditemukannya kesulitan dalam hal surat keluar
+yang akan dikirimkan, karena jenis masalah surat
+dicatat pada buku agenda yang sama,
+dokumentasi surat belum optimal sehingga
+berkas-berkas akan mudah hilang dan rusak.
+Batasan masalahdari penelitian ini adalah Surat
+masuk dan surat keluar yang dapat diagendakan
+menggunakan sistem ini adalah surat yang berasal
+dari dalam maupun dari luar instansi. Dari
+masalah yang telah teridentifikasi tersebut dengan
+demikian penulis membuat rumusan. Bagaimana
+merancang sistem informasi pengagendaan surat
+
+berbasis web pada Kantor Pengadilan Tinggi
+Medan?
+Tujuan dari penelitian yang dilakukan adalah
+untuk membuat sistem informasi pengagendaan
+surat pada Kantor Pengadilan Tinggi Medan.
+Agar dapat mempermudah para pengelola surat
+menggunakan sistem informasi yang disesuaikan
+dengan kebutuhan yang ada serta manfaat dari
+pembuatan sistem informasi ini adalah dapat
+menambah pengetahuan dalam pembuatan sistem
+informasi berbasis web menggunakan PHP dan
+dalam pengelolahan database menggunakan
+MySQL.Mempermudah kinerja sehingga dapat
+memininkan waktu agar efesiensi kerja
+mengalami peningkatan.
+
+II. TEORI
+a. Defenisi Sistem
+Sistem merupakan suatu jaringan kerja dari
+prosedur-prosedurnya yang saling berhubungan,
+berkumpul bersama-sama untuk melakukan suatu
+kegiatan atau untuk menyelesaikan suatu sasaran
+tertentu.
+b. Informasi
+Informasi adalah data yang telah diolah
+menjadi bentuk yang lebih berguna bagi yang
+menerima
+c. Sistem Informasi
+Sistem Informasi adalah kumpulan elemen
+yang saling berhubungan satu sama lain yang
+membentuk
+satu
+kesatuan
+untuk
+mengintegrasikan
+data,
+memproses
+dan
+menyimpan serta mendistribusikan informasi.
+Menurut (Sapto Aji, Migunani, Fitro Nur Hakim,
+2014). Sistem informasi memiliki komponenkomponen yang terdapat didalamnya yaitu terdiri
+dari blok masukan, blok model, blok keluaran,
+blok teknologi, blok basis data, blok kendali
+(Sapto Aji, Migunani, Fitro Nur Hakim, 2014
+).Berikut penjelasnnya berupa gambar:
+
+rahasia, efektif artinya sesuai dengan keadaan
+yang sebenarnya dan ekonomis artinya biaya
+pembuatan, peralatan dan pengirimannya murah.
+Fungsi surat adalah Sebagai sarana dalam
+penyampaian pesan secara tertulis, surat berperan
+dalam mencapai tujuan suatu instansi atau
+organisasi dalam menjalin kerjasama antar
+organisasi/instansi.
+Sebagai
+pemberitahuan,
+sebagai surat perintah, sebagai surat peringatan,
+Sebagai surat permohonan atau permintaan,
+sebagai surat pengantar, sebagai surat perjanjian,
+Sebagai surat laporan, Sebagai surat keputusan,
+sebagai surat panggilan, sebagai surat susulan.
+Surat masuk adalah surat-surat yang
+diterima oleh suatu organisasi, baik dari
+organisasi lain atau perseorangan. Berikut
+proses penanganan surat masuk
+
+Teknologi
+
+menerima
+
+membuka
+
+mengagen
+dakan
+
+klarifika
+si
+
+menyortir
+
+distirbusi
+distribusi
+
+Input
+
+Model
+
+Model
+
+Output
+
+Pengendalian
+
+Gambar 1. Komponen Sistem Informasi
+d. Surat
+Surat adalah alat komunikasi tertulis yang
+berasal dari satu pihak dan ditujukan kepada
+pihak lain untuk menyampaikan warta. Surat
+bersifat praktis yang artinya dapat menyimpan
+
+Gambar 2.Proses penanganan surat masuk
+Surat keluar adalah surat yang dikirim dari
+pihak baik instansi, organisasi atau perusahaan
+yang berisi tentang suatu informasi atau data baik
+itu perintah, pemberitahuan maupun informasi
+lainnya.
+e. Agenda
+Agenda adalah catatan keluar masuknya surat
+yang dikirim maupun yang diterima oleh suatu
+instansi/organisasi.
+f. PHP adalah PHP (Hypertext Preprocessor)
+7
+
+Journal Of Informatic Pelita Nusantara
+
+Journal Of Informatic Pelita Nusantara
+
+Volume 3 No 1 Maret 2018
+
+e-ISSN 2541-3724
+
+PHP adalah PHP (Hypertext Preprocessor)
+adalah bahasa pemrograman web berbasis server
+(server slide) yang mampu memparsing kode
+PHP dari kode dengan ekstensi PHP sehingga
+menghasilkan tampilan website yang dinamis
+disisi client (Edy Winarno, Ali Zaki dan Smitdev
+Community, 2014)
+g. MySQL (My Structure Query Language)
+MySQL (My Structure Query Language)
+adalah sebuah software database, yang
+merupakan tipe data relasional yang artinya
+MySQL penyimpanan datanya dalam bentuk
+tabel-tabel yang saling berhubungan.
+
+h. XAMPP
+XAMPP adalah salah satu paket instalasi
+apache, PHP, dan MySQL secara instant yang
+dapat digunakan untuk membantu proses instalasi
+ketiga produk tersebut.
+i. UML (Unified Modeling Language)
+UML (Unified Modeling Languege) memiliki
+sintaks dan semantic”. Ketika kita membuat
+model menggunakan konsep UML (Unified
+Modeling Languege) ada aturan-aturan yang
+harus diikuti. Bagaimana elemen pada modelmodelyang kita buat berhubungan satu dengan
+lainnya harus mengikuti standar yang ada.
+
+III.HASIL DAN PEMBAHASAN
+a. Implementasi Sistem
+Implementasi sistem merupakan tahapan
+dalam menerapkan sistem yang telah dibangun,
+dimana nantinya akan diketahui kualitas dari
+sistem yang dirancang, apakah sudah dapat
+berjalan dengan baik dan sesuai dengan tujuan
+yang diharapkan. Berikut adalah tampilan login
+dari sistem yang telah dirancang:
+
+Halaman Data Admin/User
+
+Halaman Tampil Login
+
+Gambar 5. Halaman Data Admin/user
+Halaman Data Pegawai
+
+Gambar 3. Tampilan login
+Halaman Utama Admin
+
+Gambar 6. Halaman Data Pegawai
+Halaman Data Surat Masuk
+
+Gambar 4. Halaman Utama Admin
+
+Gambar 7. Halaman Data Surat Masuk
+8
+Journal Of Informatic Pelita Nusantara
+
+Journal Of Informatic Pelita Nusantara
+
+Halaman Data Surat Keluar
+
+Gambar 8. Halaman Data Surat Keluar
+IV. KESIMPULAN
+Berdasarkan hasil penelitian yang telah
+dilakukan penulis dapat menyimpulkan sebagai
+berikut:
+1. Pengolahan data surat yang belum
+terkomputerisasi
+menyebabkan
+ketidakteraturan pencatatan surat masuk dan
+keluar yang merupakan salah satu penyebab
+ketidaklancaran kegiatan proses surat
+menyurat.
+2. Sistem Pengelolaan Surat Masuk dan Surat
+Keluar Terkomputerisasi adalah sebagai
+sarana informasi bagi para pegawai bagian
+
+Volume 3 No 1 Maret 2018
+
+e-ISSN 2541-3724
+
+persuratan agar dapat mempermudah dalam
+pengelolaan surat.
+V. REFERENSI
+[1] Agus Prayitno dan Yulia Safitri, Pemanfaatan
+Sistem Informasi Perpustakaan Digital
+Berbasis Web untuk Para Penulis, 20151(11),
+2-3
+[2] Bibit dan sukadi, Sistem Pengolahan Surat
+Masuk dan Surat Keluar Terkomputerisasi
+Pada Unit PelaksananTeknik (UTP) Sekolah
+Menengah Pertama (SMP) Negeri 1
+Tegalombo, apmmi, 2015,4(2),1-35
+[3] Dewi L., R. Rancangan Aplikasi Sistem
+Persuratan Berbasis Web pada PT Dwi Pilar
+Pratama, Perancangan Aplikasi Sistem
+Persuratan, 2014,7(3),25-27
+[4] Edy,W.,
+Ali, Z., Smitdev, C. 2014.
+Pemrograman Web Berbasis HTML5,PHP &
+Javascript. Jakarta: PT Elex Media
+Komputindo.
+[5] Mia Rosmiati, Analisis dan Perancangan Eservice untuk Pelanggan pada Jaya Bersama
+Konveksi, 2015, 1(1),2-3.
+[6] Sapto, A., Migunani., Fitro, N H. Rancangan
+Bangunan Sistem Informasi Disposisi Surat
+Berbasis Web (Studi Kasus Kementerian
+Pekerjaan Umum),Program Studi Teknik
+Informatika STMIK Provinsi, Semarang,
+2014,3(3),25-27
+
+9
+Journal Of Informatic Pelita Nusantara
+
+

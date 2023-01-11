@@ -1,0 +1,610 @@
+Jurnal Teknik Informatika (JIKA) Universitas Muhammadiyah Tangerang
+Tangerang, Oktober 2018
+
+ISSN : 2519-0710
+
+RANCANG BANGUN SISTEM INFORMASI KEUANGAN PADA PT. SECRET
+DISCOVERIES TRAVEL AND LEISURE BERBASIS WEB
+Yanuardi1, Angga Aditya Permana 2
+Program Studi Informatika
+Fakultas Teknik Universitas Muhammadiyah Tangerang
+Jl. Perintis Kemerdekaan 1/33 Cikokol Kota Tangerang
+E-mail : yanuardi99@gmail.com 1 , anggaumt@gmail.com 2
+
+Abstraksi - Dalam kegiatan pengolahan data laporan keuangan di zaman sekarang ini masih banyak yang
+menggunakan cara manual. Sekarang ini tuntutan untuk menggunakan teknologi komputer sangatlah wajar
+karena zaman sudah canggih. Banyaknya data laporan yang ada membuat pegawai kerepotan dalam
+merapikan setiap data yang ada. Mempermudah hal tersebut di butuhkan sebuah aplikasi yang dapat
+mendukung proses tersebut. Dengan demikian data yang cukup banyak tersebut perlu ditata dan
+dikelompokkan sesuai dengan kriteria yang ada dengan menggunakan sebuah aplikasi sistem informasi
+keuangan yang berbasis web. Dengan adanya aplikasi di harapkan dapat membantu pihak travel untuk dapat
+mengelola datanya dengan baik.
+
+Kata kunci: Framework, website, codeigniter, akutansi, offline, model, view controller
+
+I.
+PENDAHULUAN
+Teknologi informasi saat ini telah
+berkembang dengan pesat dan telah
+merambah keberbagai sektor kehidupan
+manusia. Perkembangan teknologi informasi
+tersebut didukung oleh banyaknya perangkat
+lunak (software) dan perangkat keras
+(hardware) yang semakin hari semakin
+canggih diciptakan untuk memenuhi tuntutan
+yang dihadapi oleh kebutuhan manusia.
+Komputer sebagai perangkat teknologi
+canggih akhirnya terpilih sebagai salah satu
+alternative yang paling mungkin dalam
+membantu menyelesaikan pekerjaan dan
+menangani arus informasi dalam jumlah yang
+besar. Namun peran komputer sebagai alat
+yang canggih belum mencapai tingkat yang
+optimal jika tidak dirancang sebuah sistem
+yang mampu merangkap kerja sebagai proses
+dalam pengolahan data.
+Dalam rangka upaya pengembangan dan
+efisiensi kinerja perusahaan perlu adanya
+suatu rancangan dan implementasi sistem
+
+informasi keuangan sehingga dapat dengan
+mudah
+membantu pimpinan
+perusahaan
+mengecek laporan keuangan dalam menentukan
+kebijakan-kebijakan ataupun keputusan untuk
+meningkatkan kualitas perusahaan dalam laporan
+keuangan meliputi uang masuk, pembayaran
+hotel, uang keluar.
+Maksud dari penelitian ini adalah:
+1. Dengan adanya sistem ini, dapat memberikan
+kemudahan bagi kepala perusahaan untuk
+mengontrol laporan keuangan meliputi uang
+masuk, pembayaran hotel, dan uang keluar.
+2. Hasil penelitian ini diharapkan dapat
+memberikan sumbangan ilmu pengetahuan
+tentang system aplikasi keuangan
+3. Dapat mempermudah pemilik perusahaan
+untuk mengecek laporan keuangan. Dapat
+mempermudah accounting dalam pengolahan
+data keuangan Dapat merekapitulasi laporan
+keuangan setiap bulan.
+
+JIKA | 1
+
+Jurnal Teknik Informatika (JIKA) Universitas Muhammadiyah Tangerang
+Tangerang, Oktober 2018
+
+II.
+LANDASAN TEORI
+2.1 Rancang Bangun / Desain
+Sistem
+George M. Scott (2014) Desain sistem
+menentukan bagaimana suatu sistem akan
+menyelesaikan apa yang mesti diselesaikan
+tahap ini menyangkut mengkonfigurasikan
+dari komponen-komponen perangkat lunak
+dan perangkat keras dari suatu sistem,
+sehingga setelah instalasi dari sistem akan
+benarbenar memuaskan rancang bangun yang
+telah ditetapkan pada akhir tahap analisis
+sistem. Berdasarkan beberapa pengertian
+tersebut di atas, maka perancangan sistem
+informasi merupakan pengembangan sistem
+baru dari sistem lama yang ada, dimana
+masalah-masalah yang terjadi pada sistem
+lama diharapkan sudah teratasi pada sistem
+yang baru.
+2.2. Pengertian Sistem
+Sistem
+Menurut yakub dalam Ermatita (2012),
+sistem adalah sekelompok elemen–elemen
+yang terintegrasi dengan tujuan yang sama
+untuk mencapai tujuan tertentu.
+
+2.3. Pengertian Informasi
+Menurut Sutabri dalam Permana (2017)
+Informasi
+adalah
+data
+yang
+telah
+diklasifikasikan
+atau
+diolah
+atau
+diinterpretasikan untuk digunakan dalam
+proses pengambilan keputusan. Teori
+informasi lebih tepat disebut sebagai teori
+matematika komunikasi yang memberikan
+pandangan yang berguna bagi sistem
+inforasi, di mana konsep usia informasi
+menunjukkan hubungan interval informasi,
+jenis data dan penundaan pengolahan dalam
+menentukan usia informasi.
+2.4.
+
+Pengertian Sistem
+Informasi
+
+ISSN : 2519-0710
+
+Menurut Sutabri T (2012), berpendapat
+bahwa “Sistem informasi adalah sistem dapat
+didefinisikan
+dengan
+mengumpulkan,
+memperoses,
+menyimpan,
+menganalisis,
+menyebarkan informasi untuk tujuan tertentu.
+Seperti sistem lainnya, sebuah sistem informasi
+terdiri atas input (data, instruksi) dan output
+(laporan, kalkulasi)”.
+2.5. Pengertian Keuangan
+Menurut Gitman (2012) “Keuangan adalah
+Finance can be defind as the science and art of
+manging money” yang artinya adalah Keuangan
+dapat di definisikan sebagai seni ilmu mengelola
+uang. Dari definisi tersebut maka dapat
+dikembangkan bahwa keuangan sebagai seni
+berarti melibatkan keahlian dan pengalaman,
+sedangkan sebagai ilmu berarti melibatkan
+prinsip-prinsip, konsep, teori, proposi dan model
+yang ada dalam ilmu keuangan.
+2.6. Pengertian UML (Unified Modelling
+Language)
+Menurut Adi Nugroho dalam Esa Wijayanti
+(2014) ,UML (Unified Modeling Language)
+adalah bahasa pemodelan untuk sistem atau
+perangkat lunak yang berparadigma (berorientasi
+objek).” Pemodelan (modeling) sesungguhnya
+digunakan untuk penyederhanaan permasalahanpermasalahan yang kompleks sedemikian rupa
+sehingga lebih mudah dipelajari dan dipahami.
+Berdasarkan beberapa pendapat diatas maka
+dapat disimpulkan UML (Unified Modeling
+Language) adalah bahasa pemodelan yang
+digunakan
+untuk
+merancang,
+mendokumentasikan sebuh sistem perangkat
+lunak.
+2.7. Pengertian Website
+Menurut Yuhefizar dalam Prayitno dan
+Safitri
+(2013)
+pengertian
+website
+adalah”keseluruhan halaman-halaman web yang
+terdapat dari sebuah domain yang mengandung
+informasi”.
+2.8. Pengertian Web Browser (Crhome)
+
+JIKA | 2
+
+Jurnal Teknik Informatika (JIKA) Universitas Muhammadiyah Tangerang
+Tangerang, Oktober 2018
+
+ISSN : 2519-0710
+
+Menurut Winarno dan Utomo dalam
+Priyanto dan Safitri (2010) “Web browser
+adalah alat yang digunakan untuk melihat
+halaman web”.
+
+Suatu sistem aplikasi disebut DBMS jika
+memenuhi persyaratan minimal sebagai berikut :
+
+2.9. Pengertian Internet
+Menurut Oneto dan Sugiarto dalam
+Priyanto dan Safitri (2009) “internet adalah
+jaringan komputer”. Ibarat jalan raya internet
+dapat dilalui berbagai sarana transportasi,
+seperti bus, mobil dan motor yang memiliki
+kegunaan masing masing.
+
+2.
+3.
+
+2.10. Pengertian PHP
+Menurut Saputra, Subagio dan Saluki
+dalam Sujana Cristian (2012) “PHP
+merupakan bahasa pemrograman yang
+difungsikan untuk membangun suatu website
+dinamis, PHP menyatu dengan kode HTML,
+maksudnya adalah beda kondisi, HTML
+digunakan sebagai pembangun atau pondasi
+dari kerangka layout web sedangkan PHP
+difungsikan sebagai prosesnya”.
+2.11. Pengertian Basis data
+Menurut Winarno dan Utomo dalam
+Prayitno dan Safitri (2010) “Basis Data
+merupakan kumpulan data yang saling
+berhubungan. Data tersebut biasanya
+terdapat dalam tbael-tabel yang saling
+berhubungan sati\u sama lain, dengan
+menggunakan field/kolom pada tiap tabel
+yang ada.
+2.12.
+
+Pengertian (DBMS)
+Management System
+
+Database
+
+DBMS (Database Management System)
+atau dalam bahasa indonesia sering disebut
+sebagai Sistem Manajemen Basis Data adalah
+suatu sistem aplikasi yang digunakan untuk
+menyimpan, mengelola, dan menampilkan
+data.
+
+1.
+
+4.
+
+Menyediakan fasilitas untukk mengelola
+akses data.
+Mampu menangani integritas data.
+Mampu menangani akses data yang
+dilakukan
+Mampu menangani backup data.
+
+Karena pentingnya data bagi suatu organisasi
+/ perusahaan, maka hampir sebagian besar
+perusahaan memanfaatkan DBMS dalam
+mengelola data yang mereka miliki. Pengelolaan
+DBMS sendiri biasanya ditangani oleh tenaga
+ahli yang spesialis menangani DBMS yang
+disebut sebagai DBA (Batabase Administrator).
+DBMS sudah mulai berkembang sejak tahun
+1960an. Kemudian sekitar tahun 1970an mulai
+berkembang teknologi Relational DBMS yaitu
+DBMS berbasis relasional model. Relasional
+model pertama kali dikembangkan oleh Edgar J.
+Codd pada tahun 1970. Secara sederhana
+relasional model dapat dipahami sebagai suatu
+model yang memandang data sebagai
+sekumpulan tabel yang saling terkait. Hampir
+semua DBMS komersial dan open source saat
+ini berbasis Relational DBMS atau RDBMS.
+2.13. Pengertian MySQL
+Menurut Arief dalam Sujana Cristian
+(2011), MySQL adalah salah satu jenis
+database server yang sangat terkenal dan
+banyak digunakan untuk membangun aplikasi
+web yang menggunakan database sebagai
+sumber dan pengolahan datanya.
+2.14. Pengertian XAMPP
+Menurut Arif dalam Sujana Cristian (2011),
+“XAMPP
+merukapan
+aplikasi
+yang
+mengintegrasikan beberapa aplikasi utama web
+di dalamnya. Dalam XAMPP terdapat instalasi
+modul PHP, Mysql, webserver Apache”.
+
+2.15. Pengertian Sublime Text
+
+JIKA | 3
+
+Jurnal Teknik Informatika (JIKA) Universitas Muhammadiyah Tangerang
+Tangerang, Oktober 2018
+
+Menurut Eric Haughee dalam Sujana
+Cristian (2013), bahwa Sublime Text adalah
+aplikasi editor untuk kode dan teks yang
+dapat berjalan di berbagai platform operating
+system dengan
+menggunakan
+teknologi Phyton API. Terciptanya aplikasi
+ini terinspirasi dari aplikasi Vim. Aplikasi ini
+sangatlah
+fleksibel
+dan powerfull.
+Fungsionalitas dari aplikasi ini dapat
+dikembangkan
+dengan
+menggunakan sublime-packages.
+Sublime
+Text bukanlah aplikasi open source, yang
+artinya aplikasi ini membutuhkan lisensi
+(license) yang harus dibeli. Akan tetapi
+beberapa fitur pengembangan fungsionalitas
+(packages) dari aplikasi ini merupakan hasil
+dari temuan dan mendapat dukungan penuh
+dari komunitas serta memiliki linsensi
+(license) aplikasi gratis.
+2.16. Pengertian Framework CI
+Menurut Beta Sidik dalam Destrinigrum,
+M dan Adrian J, Q (2012) CodeIgneter
+adalah sebuah framwork PHP yang bersifat
+open source dan menggunakan metode MVC
+(Model,
+View,
+Controller)
+untuk
+mempermudah developer atau programmer
+dalam membangun sebuah aplikasi berbasis
+web tanpa harus membuatnya dari awal.
+2.17. Pengertian Metode Waterfall
+Metode Waterfall merupakan salah satu
+model pengembangan perangkat lunak yang
+ada di dalam model SDLC (Sequencial
+Development Life Cycle).
+Menurut Sukanto dan Shalahuddin dalam
+Firmansyah
+Y
+dan
+Udin
+(2013)
+mengemukakan bahwa “”SDLC adalah
+mengembangkan
+atau mengubah sistem
+perangkat lunak dengan menggunakan
+model-model dan metodelogi yang digunakan
+orang untuknmengembangkan sistem-sistem
+perangkat lunak sebelumnya, berdasarkan
+best practice atau cara -cara yang sudah teruji
+baik”.
+
+ISSN : 2519-0710
+
+Sedangkan Sukanto dan Shalahuddin dalam
+Firmansyah Y dan Udin (2013) dijelaskan bahwa
+model waterfall sering juga disebut model
+sekuensi lineaar atau alur hidup klasik.
+Pengembangan sistem dikerjakan terurut mulai
+analisis, desin, pengkodean, pengujian dan tahap
+pendukung
+
+Gambar 1.Metode Waterfall
+
+Dalam
+buku
+ini
+menganut
+paham
+bahwa waterfall model memiliki enam tahapan,
+yakni:
+1. Definisi
+kebutuhan
+(Requirement
+Definition)
+2. Desain sistem dan perangkat lunak
+(Software Design and System)
+3. Implementasi
+dan
+testing
+unit
+(Implementation and Unit Testing)
+4. Integrasi dan testing sistem (Integration and
+Systen Testing)
+5. Uji coba (Testing)
+6. Operasional dan pemeliharaan (Operation
+and Maintenance)
+III. ANALISA SISTEM YANG
+BERJALAN DAN RANCANGAN
+SISTEM
+3.1. Analisa Sistem yang Berjalan
+Sistem informasi keuangan di perusahaan PT.
+Secret Discoveries Travel and Leisure yang
+sedang berjalan saat ini, didapatkan bahwa
+proses dalam sistem pengolahan datanya masih
+kurang maksimal karena hanya sebatas
+menggunakan program Microsoft Exel dan
+mencatat ke buku kas serta belum adanya sistem
+informasi yang dapat memudahkan bendahara
+dan Direktur secara maksimal, cepat, tepat,
+
+JIKA | 4
+
+Jurnal Teknik Informatika (JIKA) Universitas Muhammadiyah Tangerang
+Tangerang, Oktober 2018
+
+akurat dan terbarukan serta efisien, sehingga
+kebutuhan sistem yang seperti apa yang
+memang benar-benar dibutuhkan untuk
+sarana
+pendataan
+penerimaan
+dan
+pengeluaran keuangan PT. Secret Discoveries
+Travel and Leisure.
+Sistem informasi pendataan penerimaan
+dan pengeluaran keuangan yang terjadi pada
+saat ini masih kurang maksimal dikarenakan
+proses
+pendataan
+penerimaan
+dan
+pengeluaran keuangan yang telah ada harus
+dilakukan secara manual oleh seorang
+bendahara setiap bulannya, dan dibutuhkan
+ketelitian serta pemahaman yang detail,
+karena tidak adanya sistem atau program
+aplikasi komputer yang medukung untuk
+penyimpanan data tersebut, sehingga terdapat
+beberapa
+kesalahan,
+kelemahan
+dan
+kekurangan pada sistem pengolahan datadatanya, diantaranya adalah datanya tidak
+falid, dan data tidak tepat, banyak data yang
+tidak beraturan/terorganisir atau hilang,
+menyebabkan laporan menjadi terhambat.
+3.2. Rancangan Sistem
+Dalam perancangan sistem informasi
+keuangan pada PT. Secret Discoveries Travel
+and Leisure ada beberapa usulan dari pihak
+perusahaan :
+1. Sistem dijalankkan dengan offline,
+sehingga memudahkan proses dan tidak
+tergantung kepada koneksi internet.
+2. Sistem memiliki hak akses, sehingga tidak
+semua user dapat menginput menghapus
+atau mengedit data ke dalam sistem.
+.
+3.3. Perancangan Sistem yang Diusulkan
+Use Case Diagram digunakan untuk
+menjelaskan apa yang akan dilakukan oleh
+sistem serta aktor-aktor yang akan
+berhubungan dengan proses-proses yang ada
+di sistem yang diusulkan.
+Diagram Use Case memperlihatkan pada
+kita hubungan-hubungan yang terjadi antara
+aktor-aktor dengan use case- use case dalam
+sistem pada use case ini penulis memberikan
+
+ISSN : 2519-0710
+
+gambaran mengenai aktor yang terdapat didalam
+sistem.
+
+Gambar 2. Use Case Diagram Sistem Informasi Keuangan
+
+3.4. Perancangan Layar Menu Utama
+Pada layar ini terdapat beberapa pilihan
+sub menu, yaitu : Menu master Pembayaran,
+Transaksi dan Laporan.
+
+Gambar 3. Use Case User Interface Sistem
+Informasi Keuangan
+IV. HASIL DAN PEMBAHASAN
+4.1. Tampilan Halaman Pembuka
+Pada bagian ini dijelaskan secara
+lengkap tampilan-tampilan layar pada sistem
+informasi keuangan.
+
+JIKA | 5
+
+Jurnal Teknik Informatika (JIKA) Universitas Muhammadiyah Tangerang
+Tangerang, Oktober 2018
+
+Gambar 4. Tampilan Form Login
+
+Tampilan awal yang akan muncul
+apabila program pertama kali dijalankan. Dan
+login dengan admin.
+4.2. Tampilan Layar Form Utama
+Tampilan menu utama yang akan
+muncul apabila user sudah login dengan
+admin. Menu utama ini berfungsi untuk
+menampilkan list menu yang ada didalam
+aplikasi ini.
+
+ISSN : 2519-0710
+
+membantu dalam meminimalisir kesalahan
+perhitungan dan meningkatkan proses
+penginputan transaksi pemasukan ataupun
+transaksi pengeluaran.
+2. Banyak data-data yang berbentuk fisik
+sehingga rentan terjadinya kerusakan
+bahkan terkadang ada beberapa data yang
+hilang ataupun tercecer. Oleh karena itu,
+dengan sistem informasi yang dirancang
+dapat membantu membuat laporan dengan
+cepat dan dapat mengurangin kesalahan
+yang terjadi.
+3. Sistem informasi yang dirancang dapat
+membantu membuat laporan dengan cepat
+dan mengurangi terjadinya kesalahan
+pencatatan
+4. Minimnya jumlah petugas yang ada di PT.
+Secret Discoveries Travel and Leisure tidak
+sebanding dengan proses bisnis yang
+dikerjakan hal ini terkadang membuat
+beberapa proses terlewat untuk dikerjakan.
+Oleh karena itu, dengan sistem informasi
+yang dirancang data-data dapat tersimpan
+didalam
+database
+sehingga
+dapat
+memudahkan petugas .
+5. Penyajian laporan dapat dilakukan secara
+real time.
+6. Sistem yan dirancang dapat membantu
+kinerja pegawai dan lebih efisiensi waktu
+dalam pengelolaannya.
+REFERENSI
+
+Gambar 5. Tampilan Form Layar Utama
+
+V. KESIMPULAN
+Dari penelitian dan tulisan yang telah
+penulis uraikan , maka dapat ditarik
+kesimpulan sebagai berikut:
+1.
+
+Sering terjadinya kesalahan dalam
+pencatatan maupun perhitungan data
+transaksi menyebabkan ketidakakuratan
+data. Oleh Karena itu dengan adanya
+sistem
+aplikasi
+yang
+dibangun
+
+[1] Destrinigrum, M dan Adrian, J, (2017). “Sistem
+Informasi Penjadwalan Dokter
+Berbasis Web”, Jurnal TeknoInfo,Vol. 11, No. 2,
+2017, ISSN 1693-0010.
+[2]
+Ermatita,
+(2016).
+“Analisis
+Perancangan
+SistemInformasi Perpustakaan,Jurnal
+Sistem Informasi”, Vol. 8, No. 1 April 2016,
+ISSN 2085-21588.
+.[3] Firmansyah, Yoki, dan Udi, (2019). “Penerapan
+Motode SDLC Waterfall dalam Pembuatan Sistem
+Informasi Akademik Berbasis Web”, Jurnal
+Teknologi dan Manajemen Informatika, Vol. 4, No.
+1, 2018, ISSN 184-191.
+[4] Fahrisal, Pohan, S, Nasution, M, (2018). “Perancangan
+Sistem Inventory Barang Pada UD. Minang Dewi
+Berbasis Web”, Jurnal Ilmiah AMIK Labuan Batu,
+Vol. 6, No. 2 Mei 2018.
+
+JIKA | 6
+
+Jurnal Teknik Informatika (JIKA) Universitas Muhammadiyah Tangerang
+Tangerang, Oktober 2018
+
+ISSN : 2519-0710
+
+[5] Giri Ibnu AA, (2016). “Analisis Faktor-faktor yang
+Mempengaruhi Kinerja Keuangan Bank yang
+tidak Terdaftar di BEI”, eJurnal Ilmu
+Administrasi Bisnis, 2016, ISSN 2355-5408.
+[6] Jogiyanto,H.M. 2011. “Sistem Informasi
+Teknologi”. Andi Offset :Yogyakarta.
+[7] Permana, A.A, (2017). “Rancangan Sistem
+Informasi Simpan Pinjam Pada Koperasi Guru
+Dan Pegawai SMP Negeri 45 Jakarta”. JIKA
+(Jurnal Informatika) Vol 1 No 2, ISSN : 25490710.
+[7] Prayitno, A dan Safitri, T, (2015). ”Pemanfaatan
+Sistem Informasi Perpustakaan Digital
+Berbasis Web, Jurnal on Software
+Engineering”, Vol. 1, No. 1, 2015, ISSN
+2461-0960.
+[8] Rochman, A, (2014). “Perancangan Sistem
+Informasi Keuangan Masjid Raudatul Jannah
+Makassar”, Jurnal IT, Vol. 15, Desember
+2014.
+[9] Sujana, C, dan Darmansyah, (2018). “Analisa dan
+Perancangan Sistem Penjualan Barang
+Berbasis Web”, Jurnal Interkom, Vol. 1, No.
+4 Januari 2018.
+[10] Ladjamudin. (2013). Analisis dan Desain Sistem
+Informasi. Yogyakarta: Graha Ilmu.
+[11] Sutabri, T, (2012). “Konsep Sistem
+Informasi”,Yogyakarta: Andi
+
+JIKA | 7
+
+

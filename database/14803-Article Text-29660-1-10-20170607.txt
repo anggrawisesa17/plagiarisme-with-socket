@@ -1,0 +1,747 @@
+EDAJ 4 (1) (2015)
+
+Economics Development Analysis Journal
+http://journal.unnes.ac.id/sju/index.php/edaj
+
+DETERMINAN KEMISKINAN DI INDONESIA TAHUN 1982-2012
+Martiyan Ramdani
+FIF Group, Indonesia
+
+Info Artikel
+
+Abstrak
+
+________________
+
+___________________________________________________________________
+
+Sejarah Artikel:
+Diterima Januari 2015
+Disetujui Januari 2015
+Dipublikasikan Februari
+2015
+
+Penelitian ini bertujuan untuk mengkaji apakah terdapat pengaruh antara pertumbuhan ekonomi,
+tingkat pengangguran dan pengeluaran pemerintah untuk pengentasan kemiskinan terhadap
+kemiskinan. Analisis yang digunakan dalam penelitian ini adalah analisis desktiptif dan analisis
+ekonometrika. Analisis ekonometrika dalam penelitian ini adalah regresi linier berganda dengan
+metode Ordinary Least Squre (OLS). Hasil penelitian menunjukan bahwa semua variabel
+independen secara bersama-sama mempengaruhi variabel dependen dibuktikan dari nilai
+probabilitas (F-statistic) lebih kecil dari α 5%. Hasil Uji t menunjukkan bahwa variabel pertumbuhan
+ekonomi dan tingkat pengangguran berpengaruh secara parsial terhadap kemiskian dengan nilai
+probabilitas lebih kecil dari α 5%, sedangkan variable pengeluaran pemerintah untuk pengentasan
+kemiskinan tidak berpengaruh secara parsial terhadap kemiskinan dengan nilai probabilitas lebih
+besar dari α 5%. Hasil uji koefisien determinasi menunjukkan bahwa variabel dependen dapat
+dijelaskan oleh variabel independen sebesar 59% dan sisanya sebesar 41% dijelaskan oleh variabel
+lain di luar model.
+
+______________
+Keywords:
+Ordinary Least Squre
+(OLS), Poverty, Economic
+Growth, Unemployment,
+Government Expenditure
+____________________
+
+Abstract
+________________________________________________________________
+The study aimed to assess whether there is influence between economic growth, unemployment and government
+expenditure on poverty alleviation for poverty. The analysis used in this study is a descriptive and econometric
+analysis. Econometric analysis in this study is a multiple linier regression with the method of Ordinary Least
+Squre (OLS). The research result show that all of independent variable influence dependent variable is proved
+from value of probability (F-statistic) is smaller than a 5%. Result of t experiment shows that variable of economic
+growth and unemployment level influence partially for poverty by probability number that is smaller than a 5%,
+whereas value of government expenditure on poverty alleviation doesn’t influence partially to poverty by
+probability value is bigger than a 5%. Result of determination coefficient experiment shows that dependent
+variable can be explained by independent variable for 59% and the remaining for 41% is explained by other
+variable of out of model.
+
+
+© 2015 Universitas Negeri Semarang
+ISSN 2252-6765
+
+Alamat korespondensi:
+
+Gedung C6 Lantai 1 FE Unnes
+Kampus Sekaran, Gunungpati, Semarang, 50229
+E-mail: edaj_unnes@yahoo.com
+
+58
+
+Martiyan Ramdani/ Economics Development Analysis Journal 4 (1) (2015)
+
+PENDAHULUAN
+Indonesia merupakan salah satu negara
+yang memiliki jumlah penduduk terbanyak di
+asia. Jumlah penduduk Indonesia adalah 237,6
+juta jiwa menurut data resmi sensus penduduk
+tahun 2010 yang dikeluarkan oleh Badan Pusat
+Statistik (BPS). Setiap tahun pergerakan laju
+pertumbuhan penduduk cenderung meningkat
+dan BPS Indonesia memprediksi pada angka
+315 juta jiwa untuk tahun 2035, berdasarkan
+pada tafsiran laju pertumbuhan tahunan saat ini
+yakni 1,25%. Keadaan yang menunjukkan terus
+meningkatnya jumlah penduduk ini tentunya
+dapat menimbulkan
+beberapa
+masalah.
+Menurut teori
+Malthus,
+pertumbuhan
+penduduk yang pesat pada suatu negara akan
+menyebabkan terjadinya kemiskinan kronis.
+Malthus menggambarkan suatu kecenderungan
+universal bahwa jumlah populasi di suatu negara
+akan meningkat sangat cepat menurut deret ukur
+(Todaro, 2006: 329).
+Masalah perekonomian yang dihadapi
+oleh negara berkembang termasuk Indonesia
+adalah berkaitan dengan masalah kemiskinan,
+pengangguran dan inflasi. Hal tersebut
+merupakan dilema bagi negara yang sedang
+berkembang. Salah satu masalah yang belum
+terselesaikan di Indonesia yaitu masalah
+kemiskinan. Pengentasan kemiskinan adalah
+tujuan kebijakan utama di negara-negara
+berkembang. (Cuong, 2011).
+Kemiskinan merupakan salah satu
+persoalan mendasar yang menjadi pusat
+perhatian pemerintah Indonesia. Pemerintah
+telah melaksanakan berbagai kebijakan untuk
+penanggulangan kemiskinan, namun masih
+belum optimal. Pemerintah telah mencanangkan
+beberapa upaya penanggulangan kemiskinan
+dari tahun ketahun, namun jumlah penduduk
+miskin Indonesia tidak juga mengalami
+penurunan yang signifikan. Data yang
+dikeluarkan BPS menunjukkan kecenderungan
+penurunan jumlah penduduk miskin, namun
+secara kualitatif belum ada perubahan yang
+nyata. Kondisi kemiskinan di Indonesia semakin
+memprihatinkan tiap tahunnya. Laju Pada
+tahun 2004 jumlah penduduk miskin di
+Indonesia sebesar 36,10 juta jiwa, namun karena
+terjadi krisis ekonomi pada tahun 2005
+mengakibatkan jumlah penduduk miskin
+
+kembali meningkat. Pada tahun 2006 jumlah
+penduduk miskin sebesar 39,30 juta jiwa. Jumlah
+penduduk miskin kembali menurun pada tahun
+2007 sebesar 37,17 juta jiwa. Jumlah penduduk
+miskin terus mengalami penurunan hingga tahun
+2012 sebesar 28,59 juta jiwa, namun dengan
+adanya penurunan jumlah penduduk miskin
+tersebut belum mencerminkan keadaan Indonesia
+semakin membaik.
+Pemerintah telah melakukan beberapa
+kebijakan pembangunan dengan maksimal untuk
+mengurangi
+jumlah
+penduduk
+miskin,
+meningkatkan pendidikan juga ditemukan menjadi
+faktor kunci pengentasan kemiskinan (Gokan,
+2011)., namun kenyataanya sampai sekarang
+masalah tersebut belum teratasi seluruhnya.
+Pembangunan
+ekonomi
+mengusahakan
+tercapainya pertumbuhan ekonomi yang cukup
+tinggi, dan akhirnya memungkinkan terwujudnya
+peningkatan taraf hidup dan kesejahteraan
+masyarakat. Beberapa negara melakukan strategi
+meningkatkan laju pertumbuhan ekonomi untuk
+mengurangi jumlah penduduk miskin.
+Pertumbuhan ekonomi diartikan sebagai
+suatu proses pertumbuhan output perkapita dalam
+jangka panjang. Kesejahteraan masyarakat
+tercermin pada peningkatan output perkapita yang
+sekaligus memberikan banyak alternatif dalam
+mengkonsumsi barang dan jasa, serta diikuti oleh
+daya beli masyarakat yang semakin meningkat.
+(Boediono, 1993: 1-2)
+Semakin cepat laju pertumbuhan ekonomi
+maka merepresentasikan distribusi pendapatan
+kepada rumah tangga faktor produksi mengalami
+perbaikan. Pertumbuhan ekonomi yang tinggi
+merupakan gambaran terhadap kesejahteraan
+faktor produksi, dimana semakin tinggi
+pertumbuhan ekonomi, maka semakin tinggi
+produktivitas faktor produksi dan semakin tinggi
+upah yang diterima para pekerja. Pertumbuhan
+ekonomi merupakan salah satu yang dibutuhkan
+untuk mengurangi jumlah penduduk miskin.
+Pertumbuhan ekonomi yang bagus menjadi tidak
+berarti jika tidak diikuti dengan penurunan jumlah
+penduduk miskin secara signifikan.
+Perkembangan pertumbuhan ekonomi di
+Indonesia menunjukkan perkembangan yang
+positif dari tahun ke tahun. Sejak tahun 2004
+hingga sekarang laju pertumbuhan ekonomi di
+Indonesia mengalami perkembangan yang positif.
+
+59
+
+Martiyan Ramdani/ Economics Development Analysis Journal 4 (1) (2015)
+
+Perkembangan
+
+pertumbuhan
+
+ekonomi
+
+di
+
+dari tahun ke tahun.
+Pertumbuhan ekonomi menjadi salah
+satu syarat tercapainya pembangunan ekonomi,
+namun yang perlu diperhatikan tidak hanya
+angka statistik, tetapi lebih kepada siapa yang
+menciptakan pertumbuhan ekonomi tersebut.
+Jika hanya segelintir orang yang menikmati
+maka pertumbuhan ekonomi tidak mampu
+mereduksi kemiskinan dan memperkecil
+ketimpangan, namun sebaliknya jika sebagian
+besar turut berpartisipasi dalam
+peningkatan
+pertumbuhan ekonomi maka kemiskinan dapat
+direduksi dan gap antara orang kaya dan orang
+miskin dapat diperkecil (Todaro, 2006: 231).
+Pemerintah tidak hanya meningkatkan
+pertumbuhan ekonomi namun juga harus
+memperhatikan
+produktivitas
+kerja
+dari
+penduduk
+yang
+rendah.
+Rendahnya
+produktifitas
+kerja
+mengakibatkan
+meningkatnya tingkat pengangguran yang ada di
+Indonesia. Tingkat pengangguran merupakan
+salah satu faktor yang dapat mempengaruhi
+jumlah
+penduduk
+miskin.
+Kenaikan
+pengangguran berdampak memberatkan pada
+ketimpangan pendapatan (Cysne & Turchick,
+2012). Pengangguran merupakan salah satu
+faktor yang dapat mengurangi pendapatan
+masyarakat, dan itu akan mengurangi tingkat
+kemakmuran yang telah tercapai. Menurut
+Sadono Sukirno (2006), semakin turunya tingkat
+kemakmuran akan menimbulkan masalah
+kemiskinan.
+Tingkat pengangguran di Indonesia
+cenderung stabil, beberapa tahun terakhir
+mengalami penururunan. Tingkat pengangguran
+5 tahun terakhir mengalami penurunan yang
+signifikan, namun perlu upaya lagi dari
+pemerintah
+agar
+kecenderungan
+tingkat
+pengangguran yang menurun tetap terjadi di
+tahun-tahun yang akan datang. Perkembangan
+pertumbuhan ekonomi dan tingkat pengangguran
+menerangkan bahwa pertumbuhan ekonomi
+dan tingkat pengangguran di Indonesia
+mengalami perubahan yang fluktuatif dari
+tahun ke tahun. Pertumbuhan ekonomi di
+Indonesia relatif tinggi yang di ikuti dengan
+tingkat pengangguran yang perkembangannya
+agak lambat namun selalu mengalami penurunan
+tiap tahunnya.
+
+Indonesia mengalami perubahan yang fluktuatif
+Masalah lain yang menarik perhatian
+dalam pembangunan ekonomi Indonesia adalah
+pengeluaran pemerintah untuk pengentasan
+kemiskinan. Tahun ke tahun pemerintah telah
+mengeluarkan
+banyak anggaran untuk
+mengurangi jumlah pengeluaran pemerintah untuk
+pengentasan
+kemiskinan
+di
+Indonesia
+kecenderungannya meningkat setiap tahunnya.
+Kondisi ini memberikan indikasi bahwa sebagian
+besar pengeluaran pemerintah yang dijadikan
+program pengentasan kemiskinan belum mampu
+menyelesaikan masalah kemiskinan. Belanja
+untuk program kemiskinan terus bertambah belum
+menjadi ukuran prestasi. Pemborosan dana
+pemerintah yang sangat besar menjadikan beban
+negara semakin membengakak karena dana
+pemerintah tersebut didapat dari dana pinjaman.
+Usaha-usaha yang dirumuskan dan
+dijalankan pemerintah untuk mengatasi masalah
+kemiskinan di Indonesia harus didasarkan pada
+serangkaian penelitian yang mendalam terhadap
+aspek-aspek tersebut, karena implikasi dari
+kebijaksanaan yang tidak melalui penelitian
+mendalam, akan berakibat sia-sia.
+Berdasarkan uraian diatas, penelitian ini
+akan mengkaji pengaruh pertumbuhan ekonomi,
+tingkat pengangguran dan pengeluaran pemerintah
+untuk
+pengentasan
+kemiskinan
+terhadap
+kemiskinan di Indonesia tahun 1982-2012.
+Kemiskinan adalah keadaan terjadinya
+ketidakmampuan untuk memenuhi kebutuhan
+pokok seperti makanan, pakaian, tempat tinggal,
+pendidikan, dan kesehatan. Menurut Badan Pusat
+Statistik
+(BPS),
+kemiskinan
+adalah
+ketidakmampuan individu dalam memenuhi
+kebutuhan dasar minimal untuk hidup layak. Pada
+dasarnya definisi kemiskinan dapat dibagi menjadi
+2, yaitu:
+1. Kemiskinan Absolut
+Konsep
+kemiskinan
+absolut
+pada
+umumnya selalu dikaitkan dengan pendapatan dan
+kebutuhan, kebutuhan tersebut hanya terbatas pada
+kebutuhan pokok atau kebutuhan dasar.
+2. Kemiskinan Relatif
+Kemiskinan relatif merupakan kondisi
+miskin karena pengaruh kebijakan pembangunan
+yang belum terjangkau oleh seluruh masyarakat,
+sehingga
+menyebabkan
+ketimpangan
+pada
+pendapatan.
+
+60
+
+Martiyan Ramdani/ Economics Development Analysis Journal 4 (1) (2015)
+
+Menurut Todaro dan Smith (2006: 232)
+tinggi rendahnya tingkat kemiskinan di suatu
+negara tergantung pada dua faktor utama, yaitu
+tingkat pendapatan nasional rata-rata
+dan
+tingkat kesenjangan distribusi pendapatan.
+Setinggi apapun tingkat pendapatan perkapita
+yang dicapai oleh suatu negara, selama distribusi
+pendapatannya tidak merata, maka tingkat
+kemiskinan di negara tersebut pasti akan tetap
+parah. Demikian pula sebaliknya, semerata
+apapun distribusi pendapatan di suatu negara,
+jika rata-rata tingkat pendapatan perkapita
+rendah, maka kemiskinan juga akan semakin
+luas.
+Pertumbuhan ekonomi menurut Simon
+Kuznet adalah kenaikan kapasitas dalam jangka
+panjang dari negara untuk
+menyediakan
+berbagai barang ekonomi kepada penduduknya
+yang ditentukan oleh adanya kemajuan atau
+penyesuaian teknologi, institusi, dan ideologis
+terhadap berbagai tuntutan keadaan yang ada
+(Todaro, 2004). Sedangkan menurut Boediono,
+pertumbuhan ekonomi merupakan proses
+kenaikan output perkapita dalam
+jangka
+panjang. Pertumbuhan ekonomi berhubungan
+erat dengan kenaikan output perkapita dimana
+ada dua sisi yang perlu diperhatikan, yaitu sisi
+output totalnya (GDP) dan sisi jumlah
+penduduknya.
+Pengangguran merupakan istilah orang
+yang tidak bekerja atau sedang mencari kerja.
+Menurut Sadono Sukirno (2006: 328),
+pengangguran adalah seseorang yang sudah
+digolongkan dalam angkatan kerja, yang secara
+aktif sedang mencari pekerjaan pada suatu
+tingkat upah tertentu, tetapi tidak dapat
+memperoleh pekerjaan yang
+diinginkan.
+Pengangguran terjadi karena jumlah angkatan
+kerja tidak sebanding dengan jumlah lapangan
+kerja yang tersedia.
+Pengeluaran pemerintah merupakan
+salah satu unsur permintaan agregat. Konsep
+perhitungan pendapatan nasional dengan
+pendekatan pengeluaran menyatakan bahwa Y
+= C + I + G + (X-M). Variabel Y melambangkan
+pendapatan nasional, sekaligus mencerminkan
+penawaran agregat. Variabel- variabel yang
+berada diruas kanan disebut permintaan agragat.
+Variabel G melambangkan pengeluaran
+pemerintah
+(Government
+expenditures).
+
+Membandingkan nilai G terhadap Y, serta
+mengamati dari waktu ke waktu dapat diketahui
+seberapa besar kontribusi pengeluaran pemerintah
+dalam pembentukan permintaan agregat atau
+pendapatan nasional dan seberapa penting
+perananpemerintah
+dalam
+perekonomian
+nasional. Pengeluaran pemerintah merupakan
+kombinasi produk yang dihasilkan untuk
+menyediakan barang publik dan pelayanan kepada
+masyarakat yang memuat pilihan atas keputusan
+yang dibuat oleh pemerintah. Kebijakan fiskal
+dikenal ada beberapa kebijakan anggaran
+didalamnya yaitu
+anggaran berimbang,
+anggaran surplus dan anggaran defisit. Jika
+pemerintah
+merencanakan
+peningkatan
+pertumbuhan ekonomi untuk mengurangi tingkat
+kemiskinan
+maka
+pemerintah
+dapat
+meningkatkan pengeluaran untuk pengentasan
+kemiskinan.
+
+METODE PENELITIAN
+Penulis
+menggunakan
+pendekatan
+kuantitatif dalam penelitian ini. Penelitian
+kuantitatif adalah penelitian ilmiah yang sistematis
+terhadap fenomena yang telah terjadi. Data yang
+digunakan pada penelitian ini adalah data runtun
+waktu (time series) yang merupakan data tahunan,
+dimulai pada tahun 1982 hingga tahun 2012.
+Penyajian data mengenai kemiskinan menggunakan
+data jumlah penduduk miskin yang telah dihitung
+oleh BPS. Perkembangan pertumbuhan ekonomi
+menggunakan data laju pertumbuhan ekonomi yang
+telah dikeluarkan oleh BPS. Tingkat pengangguran
+menggunakan data tingkat pengangguran yang telah
+dikeluarkan oleh BPS. Pengeluaran pemerintah
+untuk pengentasan kemiskinan menggunakan data
+total jumlah pengeluaran pemerintah yang
+dialokasikan untuk program – program pengentasan
+kemiskinan. Metode yang didasarkan pada analisis
+ini adalah dengan pendeskripsian faktor- faktor yang
+berhubungan dengan permasalahan yang dimaksud
+sebagai pendukung hasil dari analisis metode
+kuantitatif.
+Analisis yang digunakan dalam penelitian ini
+adalah analisis desktiptif dan analisis ekonometrika.
+Analisis deskriptif digunakan untuk memberikan
+gambaran umum tentang proses dan kegiatan serta
+data yang diperoleh. Analisis deskriptif dapat
+dilakukan dengan bantuan grafik, tabel maupun
+
+61
+
+Martiyan Ramdani/ Economics Development Analysis Journal 4 (1) (2015)
+
+diagram. Analisis deskriptif dalam penelitian ini mereka tidak bisa memenuhi kebutuhannya dan
+dilakukan untuk mengetahui gambaran umum akhirnya jumlah penduduk miskin meningkat.
+tentang kemiskian di Indonesia. Analisis ini juga Nilai probabilitas sebesar 0,00 menunjukkan
+digunakan
+untuk
+menggambarkan bahwa tingkat pengangguran berpengaruh positif
+perkembangan variabel seperti pertumbuhan secara parsial dan signifikan terhadap jumlah
+ekonomi, tingkat pengangguran, dan pengeluaran penduduk miskin, karena nilai probabilitasnya
+pemerintah untuk pengentasan kemiskinan. kurang dari α 5%.
+Analisis ekonometrika yang digunakan dalam
+Nilai
+probabilitas
+sebesar
+0,38
+penelitian ini adalah regresi linier berganda dengan menunjukkan bahwa pengeluaran pemerintah
+metode Ordinary Least Squre (OLS).
+untuk pengentasan kemiskinan tidak berpengaruh
+Model
+yang
+digunakan
+dalam secara parsial terhadap jumlah penduduk miskin,
+penelitian ini adalah model ekonometrika. karena nilai probabilitasnya lebih besar dari α 5%.
+Model yang digunakan sebagai berikut:
+Kemungkinan besar yang menyebabkan tidak
+signifikan karena pengeluaran pemerintah untuk
+PPt = β0 + β1 GEt + β3Ut + β4 Gt +
+εt...............................................................(1)
+pengentasan kemiskinan belum efektif dan perlu
+waktu lebih panjang agar penyerapannya menjadi
+efektif. Salah satu cara agar pengeluaran pemerintah
+HASIL DAN PEMBAHASAN
+Hasil estimasi jangka panjang diatas untuk pengentasan kemiskinan tersebut efektif
+dapat ditulis modelnya sebagai berikut : PPt = β0 dengan cara meningkatkan porsinya. Meningkatnya
+porsi pengeluaran pemerintah untuk pengentasan
++ β1 GEt + β3Ut + β4 Gt + εt
+kemiskinan diharapkan dampaknya dapat lebih
+PP = 32,18 – 1,09 GE + 1,13 U – 0,00G
+cepat dirasakan. Pengeluaran pemerintah untuk
+pengentasan kemiskinan hanya mempertahankan
+Tabel 2 Hasil Estimasi
+pendapatan masyarakat miskin untuk sementara,
+Variabel Koefisien
+Std. Error
+Prob. sehingga hanya mampu mengangkat masyarakat
+C
+32,18
+1,87
+0,00 miskin sedikit diatas garis kemiskinan. Kondisi
+GE -1,09
+0,21
+0,00 seperti ini sangat rawan terhadap guncangan dari
+U
+1,13
+0,33
+0,00 luar seperti inflasi, sehingga ketika terjadi krisis
+G
+-0,00
+0,03
+0,38 ekonomi maka masyarakat tersebut yang berada
+sedikit diatas garis kemiskinan akan kembali
+Sumber : Data Diolah 2014
+dibawah garis kemiskinan dan menjadi penduduk
+miskin.
+Koefisien pertumbuhan ekonomi yang
+Masalah lain penyebab gagalnya program
+negatif sebesar -1,09 artinya jika pertumbuhan
+pengentasan kemiskinan yaitu misalnya masalah
+ekonomi naik sebesar 1% maka jumlah penduduk
+monitoring.
+Kurangnya proses monitoring
+miskin akan berkurang sebesar 1,09 juta jiwa.
+kegiatan yang dilakukan pemerintah akan membuat
+Hal ini menunjukkan peningkatan pertumbuhan
+beberapa program dalam fase implementasi
+ekonomi akan meningkatkan pendapatan
+menemui berbagai macam kendala yang dapat
+masyarakat, sehingga jumlah penduduk miskin
+mengakibatkan program tersebutgagal. Pemerintah
+berkurang. Nilai probabilitas sebesar 0,00
+sebaiknya terus melakukan pengawasan terkait
+menunjukkan bahwa
+pertumbuhan ekonomi
+dengan program yang sedang berjalan, sehingga
+berpengaruh
+negatif
+secara
+parsial dan
+program pengentasan kemiskinan yang ada dapat
+signifikan terhadap jumlah penduduk miskin,
+berjalan dengan baik dan tepat sasaran.
+karena nilai probabilitasnya kurang dari α 5%.
+Koefisien tingkat pengangguran yang Uji Koefisien Determinasi (R2)
+positif sebesar 1,13 artinya jika tingkat
+Hasil
+uji
+koefisien
+determinasi
+pengangguran naik 1% maka jumlah penduduk menunjukan bahwa nilai R2 sebesar 0,59 yang
+miskin akan meningkat sebesar 1,13 juta jiwa. berarti variabel dependen dapat dijelaskan oleh
+Hal ini menunjukkan meningkatnya tingkat variabel independen sebesar 59% dan sisanya
+pengangguran akan mengakibatkan hilangnya sebesar 41% dijelaskan oleh variabel lain di luar
+pendapatan seseorang, sehingga menjadikan
+
+62
+
+Martiyan Ramdani/ Economics Development Analysis Journal 4 (1) (2015)
+
+model.
+Uji t-statistik
+Hasil uji t-statistik menunjukan bahwa
+variabel pertumbuhan ekonomi dan tingkat
+pengangguran berpengaruh secara parsial
+terhadap kemiskinan di Indonesia. Nilai
+probabilitas dari variabel pertumbuhan ekonomi
+dan tingkat pengangguran lebih kecil dari
+probabilitas α 5%. Pengeluaran pemerintah untuk
+pengentasan kemiskinan tidak berpengaruh
+secara parsial terhadap kemiskinan di Indonesia,
+karena nilai probalitasnya lebih besar dari α 5%.
+Uji F-statistik
+Hasil Uji F-statistik menunjukan bahwa
+variabel independen yang digunakan secara
+bersama-sama
+mempengaruhi
+variabel
+dependen. Hal ini dapat dijelaskan dari nilai
+probabilitas (F-statistic) sebesar 0,00 yang lebih
+kecil dari α 5%.
+Uji Asumsi Klasik
+Uji asumsi klasik yang digunakan dalam
+penelitian
+ini
+yaitu
+uji
+normalitas,
+multikoliniearitas,
+heteroskedastisitas
+dan
+autokorelasi. Berdasarkan hasil uji asumsi klasik
+menunjukan bahwa data berdistribusi normal
+dan terbebas dari masalah multikolinearitas,
+heteroskedastisitas, serta autokorelasi.
+
+kemiskinan dan jumlah penduduk miskin
+berkurang.
+Pemerintah sebaiknya menekan angka
+pengangguran, dimana dengan mengurangi
+pengangguran yang ada maka penduduk
+menganggur berkurang dan pendapatan mereka
+meningkat. Kesejahteraan masyarakat meningkat
+karena mereka sudah bekerja, sehingga akan
+meningkatkan peluang mereka keluar dari golongan
+penduduk
+miskin
+karena
+telah
+memiliki
+pendapatan.
+Pemerintah sebaiknya terus melakukan
+pengawasan terkait dengan program yang sedang
+berjalan, sehingga program pengentasan kemiskinan
+yang ada dapat berjalan dengan baik dan tepat
+sasaran. Pemerintah juga perlu mengevaluasi
+program pengentasan kemiskinan, jangan sampai
+anggaran yang diupayakan terserap pada penduduk
+miskin, namun tidak menyentuh pengentasan
+kemiskinan itu sendiri.
+DAFTAR PUSTAKA
+Ajija, Shocrul R et all. 2011. Cara Cerdas Menguasai
+Eviews. Jakarta: Salemba Empat.
+Boediono. 1993. Ekonomi Makro. Yogyakarta: BPFE
+Boediono. 1999. Ekonomi Makro, Edisi Keempat.
+Yogyakarta: BPFE Badan Pusat Statistik. 2013.
+Berita Resmi Statistik 2013
+Bappenas. 2013. Laporan Pengeluaran Pemerintah
+Untuk Pengentasan Kemiskinan
+
+Cuong, N. V., 2011. Poverty projection using a
+small area estimation method: Evidence from
+Vietnam. Journal of Comparative Economics,
+Berdasarkan analisis yang telah dilakukan
+39(3), p. 368–382.
+sebelumnya maka dapat ditarik kesimpulan.
+Cysne, R. P. & Turchick, D., 2012. Equilibrium
+Pertumbuhan ekonomi berpengaruh negatif
+unemployment-inequality
+correlation.
+terhadap kemiskinan di Indonesia. Tingkat
+Journal of Macroeconomics, Volume 34, p. 454–
+469.
+pengangguran berpengaruh positif terhadap
+Dumairy.
+1995. Evaluasi kebijakan pemerintah
+kemiskinan di Indonesia. Pengeluaran pemerintah
+menanggulangi masalah
+kemiskinan dan
+untuk pengentasan kemiskinan tidak berpengaruh
+kesenjangan pada PJP II. Awan Setya Dewanta
+terhadap kemiskinan di Indonesia.
+(Eds.). Kemiskinan dan kesenjangan di
+Berdasarkan kesimpulan yang ada maka
+Indonesia. Yogyakarta: Aditya Media
+diperoleh implikasi kebijakan bahwa Pemerintah Emma Aisbett, Harrison and Alix Zwane. 2006.
+sebaiknya mendorong pertumbuhan ekonomi,
+Globalization and poverty: what is the evidence?.
+University of California. Berkeley.
+dimana pertumbuhan ekonomi yang tinggi dapat
+meningkatkan pendapatan nasional, dan secara Gokan, Y., 2011. Poverty traps, the money growth
+rule, and the stage of financial development.
+langsung
+akan
+meningkatkan
+pendapatan
+Journal of Economic Dynamics and Control,
+perkapita setiap penduduk. Meningkatnya
+35(8), p. 1273–1287.
+pendapatan perkapita dapat mencerminkan Gujarati, Damodar N. 2012. Dasar Dasar
+kesejahteraan masyarakat yang meningkat,
+Ekonometrika. Buku 2. Jakarta : Salemba
+sehingga mereka
+dapat
+keluar dari garis
+Empat.
+SIMPULAN
+
+63
+
+Martiyan Ramdani/ Economics Development Analysis Journal 4 (1) (2015)
+I.A Septyana Mega Putri dan Ni Nyoman Yuliarmi. Sukirno, Sadono. 2004. Makro Ekonomi Teori Pengantar,
+Edisi Ketiga. Jakarta: Raja Grafindo Persada
+2013. Beberapa Faktor yang Mempengaruhi
+Tingkat Kemiskinan di Provinsi Bali. E-Jurnal Sukirno, Sadono. 2006. Ekonomi Pembangunan (Edisi
+Kedua). Jakarta: Kencana
+EP Unud. Vol 2, No 10.
+Jonaidi, Airus. 2012. Analisis Pertumbuhan Ekonomi Samuelson, Paul A. dan Nordhaus William D. 1996.
+Makroeknomi. Jakarta: Erlangga.
+dan Kemiskinan di Indonesia. Jurnal Kajian
+Todaro, Michael.P dan Smith, Stephen C. 2004.
+Ekonomi. Vol 1, No 1.
+Pembangunan Ekonomi di Dunia Ketiga, Edisi
+Kemal A. Stamboel. 2012. Panggilan Keberpihakan
+Kedelapan. Jakarta: Erlangga
+(Strategi
+Mengakhiri Kemiskinan di
+Todaro, Michael.P dan Smith, Stephen C. 2006.
+Indonesia). Gramedia Pustaka Utama
+Pembangunan Ekonomi, Edisi Kesembilan.
+Kemal Stamboel. 2013 Mampukah Anggaran Negara
+Jakarta: Erlangga
+Mengentaskan Kemiskinan
+Widodo, Adi., Waridin, dan Johanna Maria K. 2011.
+Mankiw, N.Gregory. 2006. Pengantar Ekonomi Mikro,
+Analisis Pengaruh Pengeluaran Pemerintah di
+Edisi Ketiga. Penerjemah: Chriswan Sungkono.
+Sektor Pendidikan dan Kesehatan Terhadap
+Jakarta: Salemba Empat
+Pengentasan Kemiskinan Melalui Peningkatan
+Menteri Keuangan. 2013. Pokok-pokok Nota Keuangan
+Pembangunan Manusia di Provinsi Jawa
+dan RAPBN
+Tengah.
+Jurnal
+Dinamika
+Ekonomi
+Molnar, Maria. 2009. Development and poverty in
+Pembangunan. Vol 1, No 1.
+Romania. Institute of National Economy.
+World Bank. 2006. Era Baru dalam Pengentasan
+Romania Academy.
+Kemiskinan di Indonesia.
+Mudrajad Kuncoro. 2003. Ekonomi Pembangunan:
+Yanti
+Nurfitri, 2009.
+Pengaruh
+Pertumbuhan
+Teori, Masalah dan Kebijakan. Yogyakarta:
+Ekonomi,
+Inflasi, Dan Tingkat Kesempatan
+UPP AMP YKPN
+Kerja Terhadap Tingkat Kemiskinan Di
+Mudrajad Kuncoro. 2007. Metode Kuantitatif.
+Indonesia Tahun 1999- 2009. Yogyakarta: UPN
+Yogyarakta: UPP AMP YKPN Prasetyo, Eko P.
+Yogyakarta.
+2009.
+Fundamental
+Makro
+Ekonomi.
+Yogyakarta: Beta Offset Saliman. 2003.
+Menggugat kebijakan-kebijakan pemerintah
+dalam pengentasan kemiskinan
+
+64
+
+

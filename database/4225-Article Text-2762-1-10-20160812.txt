@@ -1,0 +1,658 @@
+IMPLEMENTASI IZIN EDAR PRODUK PIRT MELALUI
+MODEL PENGEMBANGAN SISTEM KEAMANAN PANGAN TERPADU
+Bambang Hermanu
+Program Studi Teknologi Hasil Pertanian, Fakultas Teknologi Pertanian
+Universitas 17 Agustus 1945 (UNTAG) Semarang
+Jl. Pawiyatan Luhur, Bendan Dhuwur Semarang, Telp. (024) 8441821, 86457726
+E-mail : ftp.untag.smg@gmail.com
+hermanu_b@yahoo.com
+
+ABSTRAK
+Penelitian ini mengkaji permasalahan efektivitas implementasi izin edar produk PIRT sebagai perwujudan sistem
+keamanan pangan terpadu yang masih perlu untuk dikembangkan dalam bentuk model, guna lebih
+menyempurnakan kebijakan tersebut menuju pada tingkat optimalisasi dan efektivitas yang diharapkan, yang
+antara lain tercermin dari indikator terwujudnya peningkatan standar keamanan pangan menurut Undang-undang
+No. 18 Tahun 2012 tentang Pangan. Berdasarkan hasil penelitian sebelumnya menunjukkan, bahwa secara umum
+SKPT dalam pelaksanaannya mengalami kelemahan sinergis antar jaringan yang dibentuk, dan secara nyata
+cenderung berpengaruh pada tingkat efektivitasnya. Metode penelitian yang dipergunakan adalah penelitian yuridis
+sosiologis, guna melihat fakta empirik yang terjadi di masyarakat dengan melakukan observasi dalam bentuk
+komunikasi interaktif secara mendalam dengan para stakeholder terkait serta para produsen dan konsumen PIRT,
+melalui pendekatan penerapan rancangan model pengembangan SKPT yang telah dirumuskan. Dari hasil
+penelitian lanjutan ini, setidak-tidaknya dapat lebih memberikan solusi alternatif dalam rangka membangun sinergi
+yang terintegrasi guna meningkatkan efektivitas dan optimalisasi pelaksanaan ketentuan izin edar produk pangan
+industri rumah tangga (PIRT). Dengan demikian, dari keseluruhan rangkaian kegiatan penelitian ini, diharapkan
+dapat menumbuhkan tingkat kesadaran bersama akan pentingnya keamanan pangan, guna lebih meningkatkan
+kualitas perlindungan konsumen pangan dari banyaknya peredaran produk pangan industri rumah tangga yang
+tidak berizin edar.
+Kata Kunci : Izin edar, PIRT, SKPT, Stakeholder
+1. PENDAHULUAN
+1.1 Latar Belakang
+Industri pangan di Indonesia secara nyata telah memberikan kontribusi dalam meningkatkan pertumbuhan
+perdagangan nasional maupun internasional dan penyediaan Iapangan kerja. Namun dalam kurun waktu lima tahun
+terakhir ini terjadi perubahan yang sangat cepat dalam hal tuntutan konsumen dan yang paling menonjol adalah
+perlindungan konsumen khususnya menyangkut jaminan keamanan makanan yang diperdagangkan. Mengingat
+setiap individu memiliki hak untuk mendapatkan makanan yang aman maka masyarakat di negara berkembang
+seperti Indonesia yang sebagian besar masih berpenghasilan rendah juga mempunyai hak yang sama dengan mereka
+yang berpendapatan tinggi di negara maju.
+Keamanan pangan, masalah dan dampak penyimpangan mutu, serta kekuatan, kelemahan, peluang dan ancaman
+dalam pengembangan sistem mutu industri pangan merupakan tanggung jawab bersama antara pemerintah, industri
+dan konsumen, yang saat ini sudah harus memulai mengantisipasinya dengan implementasi sistem mutu pangan.
+Karena di era pasar bebas ini industri pangan Indonesia mau tidak mau sudah harus mampu bersaing dengan
+derasnya arus masuk produk industri pangan negara lain yang telah mapan dalam sistem mutunya. (Budi Cahyono,
+2012)
+Salah satu sasaran pengembangan di bidang pangan adalah terjaminnya pangan yang dicirikan oleh terbebasnya
+masyarakat dari jenis pangan yang berbahaya bagi kesehatan.Hal ini secara jelas menunjukkan upaya untuk
+melindungi masyarakat dari pangan yang tidak memenuhi standar dan persyaratan kesehatan. Sasaran program
+keamanan pangan adalah: (1) Menghindarkan masyarakat dari jenis pangan yang berbahaya bagi kesehatan, yang
+tercermin dari meningkatnya pengetahuan dan kesadaran produsen terhadap mutu dan keamanan pangan; (2)
+424
+PROSIDING SEMINAR NASIONAL MULTI DISIPLIN ILMU & CALL FOR PAPERS UNISBANK (SENDI_U) KE-2 Tahun 2016
+Kajian Multi Disiplin Ilmu dalam Pengembangan IPTEKS untuk Mewujudkan Pembangunan Nasional Semesta Berencan
+(PNSB) sebagai Upaya Meningkatkan Daya Saing Global
+
+Memantapkan kelembagaan pangan, yang antara lain dicerminkan oleh adanya peraturan perundang-undangan yang
+mengatur keamanan pangan; dan (3) Meningkatkan jumlah industri pangan yang memenuhi ketentuan peraturan
+perundang-undangan.
+Dengan diberlakukannya Undang-undang No. 18 tahun 2012 tentang Pangan yang menggantikan Undangundang No. 7 Tahun 1996 sebelumnya, adalah sebuah langkah maju telah dicapai pemerintah untuk memberi
+perlindungan kepada konsumen dan produsen akan pangan yang sehat, aman dan halal. Dalam upaya penjabaran
+Undang-undang tersebut, telah disusun Peraturan Pemerintah (PP) tentang Keamanan Pangan serta Label dan Iklan
+Pangan. Demikian juga PP tentang Mutu dan Gizi Pangan serta Ketahanan Pangan.
+Gambaran keadaan keamanan pangan selama tiga tahun terakhir secara umum adalah: (1) Masih dtemukan
+beredarnya produk pangan yang tidak memenuhi persyaratan; (2) Masih banyak dijumpai kasus keracunan
+makanan; (3) Masih rendahnya tanggung jawab dan kesadaran produsen serta distributor tentang keamanan pangan
+yang diproduksi/diperdagangkannya; dan (4) Masih kurangnya kepedulian dan pengetahuan konsumen terhadap
+keamanan pangan. Di sisi lain, produk pangan merupakan salah satu produk yang merupakan kebutuhan utama
+manusia. Persoalan penting yang sering muncul adalah standar kualitas produk pangan, dimana hal ini akan
+berdampak luas pada kualitas kesehatan baik fisik maupun mental/ psikologis dan kecerdasan masyarakat.
+Banyak pengalarnan buruk yang dialami konsumen dalam hal rendahnya standar kualitas pangan. Akhir-akhir
+ini sering terdengar berita keracunan makanan setelah mengkonsumsi makanan yang tidak jelas tanggal kadaluarsa
+maupun adanya bahan makanan yang berbahaya dalam makanan tersebut. Adapula makanan yang mengandung
+bahan berbahaya tapi efeknya baru akan terasa dalam jangka waktu yang lama.
+Salah satu hak konsumen yang dijamin oleh Undang-undang Nomor 8 Tahun 1999 tentang Perlindungan
+Konsumen adalah hak atas kenyamanan, keamanan dan keselamatan dalam mengkonsumsi barang dan jasa. Hak ini
+memungkinkan konsumen untuk memperoleh barang yang terjamin keamanannya. Konsumen akan menikmati
+perlindungan tersebut kalau barang yang beredar di pasar dan kemudian mereka konsumsi sesuai dengan peraturan
+yang berlaku atau seharusnya berlaku.
+Dari hasil pengawasan yang secara berkala dilakukan oleh Dinperindag Prov Jateng bersama dengan
+Dinas/Lembaga terkait masih banyak ditemui berbagai kondisi yang belum sesuai dengan ketentuan sebagai contoh :
+Isi gas elpiji kurang dari standar, Produk yang semestinya sudah SNI namun belum mencantumkan SNI nya.
+Barang-barang dalam kemasan belum mencantumkan masa kadaluarsa, dan akhir-akhir ini banyak produk pangan,
+khususnya PIRT yang tidak dilengkapi dengan izin edar, justeru semakin meningkat jumlahnya di pasaran.
+(Infoindag Media Informasi Industri dan Perdagangan Edisi Juli - Agustus 2013).
+Mengingat hal-hal tersebut maka seharusnya baik pelaku usaha maupun konsumen mengetahui persyaratan
+peredaran produk agar tidak ditemui lagi barang-barang/jasa yang diperdagangkan yang merugikan konsumen.
+Berkaitan dengan maksud tersebut, maka hasil penelitian ini diharapkan ke depan para konsumen maupun pelaku
+usaha mengetahui persis tentang hak dan kewajiban pelaku usaha, sehingga tercipta iklim usaha yang kondusif.
+Melalui tulisan ini pula, diharapkan menjadi salah satu wahana untuk menjalin komunikasi antara pelaku usaha
+dengan konsumen sehingga dapat melahirkan pemikiran-pemikiran yang strategis dalam rangka mengatasi
+permasalahan dan memenuhi keinginan konsumen.
+1.2. Perumusan Masalah
+Berdasarkan uraian latar belakang di atas, maka permasalahan yang dapat dirumuskan adalah sebagai berikut :
+a. Faktor-faktor apa yang menyebabkan implementasi izin edar produk pangan industri rumah tangga (PIRT) belum
+berjalan secara efektif ?
+b. Bagaimanakah kebijakan sistem keamanan pangan terpadu yang telah dilaksanakan oleh BPOM berpengaruh
+terhadap efektivitas implementasi izin edar produk pangan industri rumah tangga (PIRT) ?
+c. Bagaimanakah model yang ideal dalam implementasi izin edar produk pangan industri rumah tangga, sehingga
+dapat mewujudkan tingkat keamanan pangan yang efektif dan optimal ?
+1.3. Urgensi Penelitian
+a. Menghasilkan sistem keamanan pangan terpadu yang terintegrasi yang dapat secara efektif dan optimal
+menjamin terlaksananya pemberlakuan izin edar produk pangan industri rumah tangga (PIRT).
+
+425
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+b. Menjadikan rancangan model pengembangan sistem keamanan pangan terpadu sebagai bagian dari upaya
+penyempurnaan sistem kebijakan yang secara praktis diharapkan dapat menjamin pemberlakuannya secara
+efektif di masyarakat.
+2. KAJIAN PUSTAKA
+2.1.
+
+Aspek Implementasi Sistem Keamanan Pangan Terpadu (SKPT)
+
+Untuk implementasi sistem mutu dan keamanan pangan nasional secara umum telah dilakukan analisis SWOT
+yang mengidentifikasi kekuatan, kelemahan, peluang dan ancaman yang dihadapi. Dari hasil analisis tersebut
+ditetapkan kebijakan yang harus ditempuh, serta disusun strategi, program, dan kegiatan yang perlu dilakukan untuk
+menjamin dihasilkannya produk pangan yang memenuhi persyaratan mutu dan keamanan untuk perdagangan
+domestik maupun global, yaitu melalui pendekatan HACCP untuk menghasilkan produk yang aman, serta mengacu
+pada ISO 9000 (QMS) untuk menghasilkan produk yang konsisten dan ISO 14000 (EMS) untuk menjamin produk
+pangan yang berwawasan lingkungan. Sedangkan pengembangan sistem mutu dan keamanan pangan nasional, lebih
+menekankan pada penerapan sistem jaminan mutu untuk setiap mata rantai dalam pengolahan pangan yaitu
+GAP/GFP (Good Agriculture/Farming Practices), GHP (Good Handling Practices), GMP (Good Manufacturing
+Practices), GDP (Good Distribution Practices), GRP (Good Retailing Practices) dan GCP (Good Cathering
+Practices).
+Dalam bulan Juni 1995, Code Alimentarius Commision (CAC) telah mengadopsi dan merekomendasikan
+penerapan sistem HACCP (Hazard Analysis Critical Control Point) dalam industri pangan. Negara-negara
+Masyarakat Ekonomi Eropa (MEE) melalui EC Directive 91/493/EEC juga merekomendasikan penerapan HACCP
+sebagai dasar pengembangan sistem manajemen mutu kepada negara-negara yang akan mengekspor produk pangan
+ke negara-negara MEE. HACCP juga direkomendasikan oleh US-FDA kepada negara-negara yang mengekspor
+produk makanan ke USA. Konsep HACCP terutama mengacu pada pengendalian keamanan pangan (food safety),
+meskipun dapat pula diterapkan pada komponen mutu lainnya seperti keutuhan yang menyangkut anfaat dan
+kesehatan (Wholesomeness), dan pencegahan tindakan-tindakan kecurangan dalam perekonomian (economic fraund)
+(Tim Inter Departemen Bappenas, 1996).
+Kondisi mutu dan keamanan pangan yang ada masih kurang memadai bahkan sering membahayakan, yang
+disebabkan karena 1) infrastruktur yang belum mantap, 2) tingkat pendidikan produsen dan konsumen yang masih
+rendah, 3) sumber dana yang terbatas, 4) produksi pangan masih didominasi oleh industry kecil dan menengah.
+Namun demikian, harus diakui bahwa akar masalah utamanya adalah arti strategis mutu dan keamanan ini belum
+sepenuhnya disadari oleh pembuat dan pelaksana kebijakan.
+Kondisi mutu dan keamanan pangan yang baik akan menghasilkan manusia yang lebih sehat, lebih produktif,
+menurunkan kasus-kasus penyakit asal pangan (foodborne disease), dan menurunkan beban biaya-biaya yang harus
+dikeluarkan untuk kasus atau wabah penyakit asal pangan. Permasalahan penyakit yang disebabkan karena pangan
+yang terkontaminasi merupakan salah satu permasalahan besar di dunia dan merupakan penyebab penting bagi
+penurunan produktivitas ekonomi (WHO, 1984). Pada umumnya sebagian besar penyakit karena pangan,
+disebabkan karena adanya agen biologi, yaitu bakteri, virus, dan parasut dan umumnya ditunjukkan dengan gejala
+gastrointestinal seperti diare, sakit perut, mual, dan muntah-muntah.
+Namun demikian, karena jumlah dan keragaman yang sangat tinggi, maka tidak ada sayu negara pun yang
+mampu memberikan data akurat tentang penyakit karena pangan ini. Berbagai bentuk program surveillance telah
+dikembangkan, tetapi kalaupun program ini mampu mengumpulkan informasi dan data, maka data tersebut hanyalah
+merupakan data minimal yang sangat rendah. Oleh karena itu, maka agak sulit untuk secara akurat melakukan suatu
+perkiraan mengenai besaran beban atau biaya ekonomi yang diakibatkan oleh penyakit karena pangan ini. Kesulitan
+ini juga berkontribusi pada kenyataan bahwa banyak permasalahan mutu dan keamanan pangan ini tidak muncul
+dalam data statistik suatu negara.
+Secara umum, kinerja produk Indonesia untuk menembus pasar luar negeri, dilihat dari aspek mutu masih
+sangat memprihatinkan, apalagi ternyata sebagian besar penolakan karena alasan keamanan pangan tersebut atau
+dengan perkataan lain ditolak karena alasan “filthy’ , yaitu bahwa pada produk tersebut mengandung “sesuatu yang
+tidak selayaknya ada dalam bahan pangan tersebut”. Penyebab adanya filthy adalah karena masih kurang atau tidak
+diterapkannya prinsip-prinsip penanganan dan pengolahan yang baik. Dengan perkataan lain, kepada produsen
+426
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+produk pangan dan hasil pertanian Indonesia masih perlu diperkenalkan, disosialisasikan dan diawasi untuk
+menerapan good practices (Hariyadi dan Dewanti-Hariyadi, 2003).
+Mutu dan keamanan pangan dipengaruhi oleh setiap tahapan proses yang dilaluinya, sejak dari bahan mentah
+sampai ke produk jadi di tangan konsumen. Untuk memeberikan jaminan mutu dan keamanan pangan, maka perlu
+dilakukan cara-cara pengendalian pada setiap mata rantai proses penanganan dan pengolahan pangan mulai dari
+lapangan sampai kepada konsumen.
+Cakupan berbagai mata rantai produksi pangan, mutu dan keamanan pangan juga harus ditangani secara
+terpadu, melibatkan berbagai stakeholders, baik dari pemerintah, industri dan konsumen. Oleh karena itu, pada
+dasarnya upaya penjaminan keamanan pangan di suatu negara merupakan tanggungjawab bersama (shared
+responsibility) oleh berbagai stakeholders tersebut (WHO, 1996). Dalam hal ini, masing-masing stakeholder
+mempunyai peranan masing-masing yang strategis.
+Dalam pelaksanaan tanggung jawab bersama tersebut, diperlukan adanya 5 (lima) subsistem mutu dan
+keamanan pangan nasional, yaitu : 1) hukum dan perundang-undangan pangan, 2) manajemen pengendalian pangan,
+3) sistem pengawas/inspeksi pangan, 4) jasa laboratorium, dan 5) komunikasi, informasi dan pendidikan/pelatihan
+pangan. Hal yang sangat penting dalam operasionalisasi ke 5 (lima) sub sistem tersebut adalah diperlukannya
+landasan dan argumentasi ilmiah dalam setiap aspek mutu dan keamanan pangan. Pengambilan keputusan dan
+kebijakan mutu dan keamanan pangan harus dilakukan berdasarkan kajian ilmiah dengan menggunakan prinsipprinsip analisis resiko yang direkomendasikan oleh WHO dan lembaga-lembaga ilmiah lainnya.
+Dalam kerangka ilmiah, maka diperlukan suatu lembaga pendidikan dan penelitian bidang mutu dan keamanan
+pangan yang mumpuni. Lembaga ini diharapkan bisa melakukan kajian-kajian risiko dalam kaitannya dengan mutu
+dan keamanan pangan, sehingga hasilnya bisa digunakan untuk keperluan pengambilan keputusan yang sahih. Di
+samping itu juga bisa diarahkan untuk berperan aktif dalam mengembangkan sistem kemitraan antara semua
+pemangku kepentingan (pemerintah, industri dan masyarakat) khususnya untuk membangun basis ilmiah tentang
+mutu dan keamanan pangan.
+2.2.
+
+Pendekatan Dalam Keamanan Pangan
+
+Di era global, semakin mudah beredarnya produk pangan dari dalam dan luar negeri yang masuk ke
+pasardomestik.
+Tidak
+menutup
+kemungkinan
+produk pangan ini kadaluarsa, mengandung atau terkontaminasi bahan berbahaya dan bahan tambahan pangan
+yang
+dilarang
+(seperti
+formalin,
+boraks,
+rodhamin
+B,
+methanyl
+yellow),
+atau pangan olahan yang asalnya dari impor pangan “buangan” yang substandar. Sebagai gambaran, jika
+diperhatikan jajanan anak sekolah, contohnya pada pangan olahan tahu, bakso, mie basah, dan ikan, memang
+sungguh menarik untuk dikunsumsi berbagai macam bentuk dan warna pangan yang dikemas secara sederhana,
+tetapi bagaimana konsumen tahu pangan yang aman dan sehat ?
+Bermula dari upaya menekan biaya produksi, pelaku usaha kecilmenengah tidak jarang menggunakan alterna
+tif bahan baku dari bahan berbahaya dengan harga relatif murah. Bahkan dengan memanfaatkan keterbatasan
+informasi pada label dan rendahnya daya beli konsumen, terdapat oknum pelaku usaha yang masih
+memperjualbelikan
+pangan
+substandar.
+Tentu
+hal ini sangat meresahkan karena apabila dikonsumsi, pangan ini akan mempunyai efek samping, baik secara
+langsung maupun dalam jangka panjang, yang merugikan konsumen dari aspek keamanan, keselamatan, kesehatan
+dan lingkungan (K3L).
+Oleh karena itu, prinsip menjadi konsumen cerdas, yaitu yang mengerti akan hak dan kewajibannya, kritis
+terhadap produk pangan yang tidak memenuhi persyaratan perlindungan konsumen, dapat menjadi mitra pemerintah
+dalam mengawasi kegiatan peredaran produk pangan di pasar domestik dan memahami akses
+pemulihan haknya. Sementara bagi pelaku usaha, persaingan global yang semakin ketat menuntut
+diproduksinya pangan yang lebih bermutu dan aman. Tentunya ini merupakan peluang bagi produk-produk pangan
+lokal untuk dapat bersaing di pasar dalam negeri maupun luar negeri.
+Mencermati banyaknya kasus keamanan pangan dan menyebabkan kerugian konsumen dari aspek K3L, BPKN telah
+melakukan kajian mendalam dan memberikan “Rekomendasi Kebijakan Strategis Bidang Pangan” kepada Menteri
+Koordinator Kesejahteraan Rakyat melalui Surat No. 07/BPKN/I/2006, yang poin utamanya sebagai berikut :
+427
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+a.
+b.
+
+c.
+d.
+
+e.
+
+f.
+
+Informasi Keamanan Pangan, pemerintah mengakselerasi ketersediaan informasi secara periodik yang
+memadai bagi dunia usaha dan konsumen.
+Informasi Teknologi Pangan, pemerintah mengakselerasi ketersediaaninformasi memadai bagi dunia usa
+ha
+tentang
+keberadaan
+teknologi
+pengawetan
+pangan
+yang
+sesuai
+dengan
+sifat
+produknya,
+terutama
+yang
+ekonomis untuk dimanfaatkan oleh dunia usaha Indonesia, yang sebagian besar merupakan pengusaha
+kecil dan menengah.
+Peningkatan pengamanan pangan sejak dari penanaman sampai siap dikonsumsi (from farm to table).
+Pengendalian/menghambat akses bahan berbahaya pada pelaku usahapangan, perlu membuat legislasi ya
+ng berkaitan dengan pengaturan produksi, import dan distribusi serta pemanfaatannya, agar bahan
+berbahaya tidak mudah di akses oleh produsen dan pedagang pangan.
+Pengawasan lalu lintas bahan berbahaya, penegakan hukum yang konsisten, berkesinambungan dan
+koordinatif, yang memberi efek jera pada pelanggar serta dapat membangun kepercayaan konsumen
+terhadap kinerja pemerintah untuk memberikan perlindungan konsumen.
+Pengamanan jalur pelayanan pangan konsumsi akhir, pemerintah perlusedini mungkin mempertimbangka
+n
+untuk
+secara
+bertahap
+mengatur
+standardisasi proses produksi pelayanan pangan konsumsi akhir seperti restaurant, cafe dan
+sebagainya.
+
+3. METODE PENELITIAN
+Penelitian ini merupakan penelitian dengan pendekatan yuridis sosiologis, guna menemukan model ideal yang
+efektif untuk pemberlakukan izin edar produk pangan industri rumah tangga, yang dapat menjamin perlindungan
+konsumen pangan dari bahaya produk pangan yang tidak aman.
+Ada pun spesifikasinya termasuk jenis penelitian terapan, yaitu untuk menerapkan prinsip-prinsip berlakunya
+Sistem Keamanan Pangan Terpadu dalam rangka menjamin perlindungan konsumen pangan industri rumah tangga
+melalui implementasi izin edar produk pangan industri rumah tangga, dengan mengembangkan model yang
+diharapkan dapat lebih meningkatkan efektivitas pelaksanaan sistem keamanan pangan terpadu, khususnya
+penerapan izin edar produk pangan industri rumah tangga. Sehingga keberadaan konsumen pangan akan semakin
+terjamin mendapatkan perlindungan dari segi keamanan pangan.
+Data diperoleh melalui produsen PIRT sebagai pelaku ekonomi yang menjadi sasaran kebijakan pemberlakuan
+izin edar peoduk PIRT, Pembuat kebijakan yang berwenang melakukan fungsi pengaturan dan pengawasan
+peredaran produk pangan industri rumah tangga (Badan POM RI di Semarang, Dinas Kesehatan Kota Semarang)
+dan para konsumen pangan. Teknik wawancara dilakukan secara mendalam (in depth interview) dengan para
+narasumber melalui daftar pertanyaan yang telah dipersiapkan, sedangkan untuk informan (Badan POM RI dan
+Dinas Kesehatan Kota Semarang) dilakukan wawancara secara langsung melalui instrumen interview guide.
+4. HASIL DAN PEMBAHASAN
+4.1. Gambaran Umum tentang Fenomena Empirik Permasalahan PIRT di Lokasi Penelitian
+Dari serangkaian kegiatan penelitian yang telah dilaksanakan adalah meliputi tahapan yang didahului dengan
+pra survey, khususnya untuk memperoleh data/informasi awal dari beberapa responden pelaku usaha produk PIRT
+(Pangan Industri Rumah Tangga) yang tersebar di sejumlah pasar tradisional yang ada di Kota Semarang.
+Sebagaimana sampel penelitian yang telah ditetapkan, yaitu 4 pasar tradisional yang terpilih secara acak yang
+dianggap mempunyai karakteristik homogen dan merepresentasikan penjuru Kota Semarang yang terwakili, yang
+meliputi : Pasar Mangkang (mewakili penjuru barat), Pasar Jatingaleh (mewakili penjuru selatan), Pasar Peterongan
+(mewakili penjuru timur), Pasar Karangayu (mewakili penjuru utara).
+Secara umum dari keempat pasar tradisional tersebut, karakteristik para pedagang sangat beragam, namun
+dilihat dari sisi pedagang yang secara khusus bertindak sebagai produsen, khususnya pedagang produsen PIRT,
+sebagian besar merupakan profesi ganda, yaitu disamping sebagai penjualnya langsung, juga mereka bertindak
+sebagai produsen PIRT nya. Namun karakteristik yang menonjol dari mereka tersebut adalah bahwa rata-rata
+berpenghasilan rendah, memproduksi sendiri maupun menjualnya sendiri produknya yang dilakukan di beberapa
+428
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+penjuru pasar tradisional yang ada di Kota Semarang, berpendidikan rendah, serta kurang atau tidak memiliki
+pengetahuan yang cukup tentang keamanan pangan yang sesuai standard BPOM.
+Tingkat pendidikan yang rendah dan kurangnya pembinaan dalam kerangka sosialisasi beberapa peraturan yang
+terkait dengan PIRT, baik dalam bentuk peraturan perundang-undangan (dalam hal ini Undang-undang No. 18 tahun
+2012 tentang Pangan) maupun peraturan Kepala Badan POM yang terkait serta peraturan daerah di lingkup
+Kabupaten/Kota, berdampak pada maraknya pertumbuhan produk pangan PIRT yang tidak dilindungi Izin Edar
+PIRT dalam perspektif keamanan pangan yang akan menjamin produk pangan PIRT dimaksud terbebas dari unsur
+zat-zat bahan tambahan pangan yang berbahaya bagi tubuh manusia, seperti misalnya : boraks (bleng), formalin,
+pewarna tekstil, dan lain-lainnya, termasuk dalam hal ini adalah produk PIRT yang cara pembuatannya tidak
+menggunakan peralatan yang dianggap layak menurut standar kesehatan, misalnya : tempat produksi PIRT yang
+seadanya dan tidak memenuhi standar higienis yang diharapkan, serta sistem sanitasi lingkungan sekitar yang buruk.
+Fenomena empirik tersebut lebih diperparah dengan adanya persepsi subyektif dari para pedagang produsen
+PIRT yang melihat sisi keamanan pangan berdasarkan pada pemahaman sederhana, dimana ketika mereka menjual
+mengedarkan produk PIRT tersebut dalam kurun waktu tertentu, tidak pernah ada yang komplain tentang produknya
+itu, maka mereka menganggap telah memenuhi unsur keamanan pangan, karena dianggap tidak berdampak buruk
+pada kesehatan manusia setelah mengkonsumsi produk PIRT dimaksud.
+Dari hasil pra survey tersebut kemudian ditindaklanjuti dengan uji kuesioner terhadap beberapa responden
+pedagang produsen PIRT, yang rata-rata menghasilkan jawaban yang tidak jauh berbeda satu sama lain. Sehingga
+dari sinilah untuk selanjutnya akan ditingkatkan observasi yang mendalam untuk bisa mengungkap faktor-faktor apa
+saja yang menjadi kendala ketidakefektifan imnplementasi izin edar produk PIRT, untuk kemudian bisa ditemukan
+upaya-upaya solutif yang mengarah kepada bentuk model pengembangan sistem keamanan pangan terpadu yang
+bisa secara afektif berlaku, dan dijadikan sebagai budaya keamanan pangan berdasarkan atas kesadaran bersama.
+Di samping itu, secara kelembagaan yang mempunyai kewenangan dalam menerapkan izin edar produk PIRT
+adalah Dinas Kesehatan Kota atau Kabupaten. Selanjutnya hasil wawancara yang sudah dilakukan terhadap
+responden informan dari Dinas Kesehatan Kota Semarang ( Berdasarkan hasil wawancara dengan Bapak Puriyanto
+Wahyu Nugroho, Kepala Seksi Farmasi, Makanan dan Minuman Dinas Kesehatan Kota Semarang, pada hari
+Selasa, 9 Juni 2015, jam 08.00 s.d. 09.00 WIB ), adalah sebagai berikut :
+Bahwa kewenangan Dinas Kesehatan Kota Semarang, hanya memberikan legalisasi Izin Edar Produk PIRT yang
+diajukan oleh produsen PIRT atas kehendak sendiri (Stelsel pasif), atau dengan pengertian lain Dinas Kesehatan
+Kota Semarang, hanya menerima pengajuan izin edar saja dari pemohon (tidak menggunakan sistem jemput bola).
+Namun sistem jemput bola lebih banyak dilakukan oleh Bapermas dan Koperasi dalam membantu Dinkes Kota
+Semarang untuk menggerakkan produsen PIRT melakukan proses izin edar.
+Apa yang dilakukan oleh Dinkes maupun Bapermas dan Koperasi masih sebatas himbauan, yang tidak disertai
+upaya penindakan, jika produsen PIRT tidak mau melakukan izin edar, karena memang tidak melekat hak dan
+kewenangan untuk melakukan penindakan. Upaya untuk menggerakkan kesadaran berizin edar kepada masyarakat
+tentang pentingnya izin edar, masih bersifat insidental dalam lingkungan yang terbatas, misalnya melalui
+puskesmas-puskesmas yang ada, tetapi belum dapat menjangkau sasaran yang diharapkan, khususnya yang sudah
+mempunyai usaha PIRT, namun belum berizin edar. Meskipun dari pihak Dinkes Kota Semarang sudah
+menerjunkan para petugas lapangan (terbatas) ke kelompok sasaran, tetapi lebih kepada kelompok sasaran produsen
+PIRT yang sudah berizin dalam rangka pembinaan lebih lanjut, karena mereka sudah terdaftar di Dinkes Kota
+Semarang.
+Data sampai tahun 2014, menunjukkan bahwa jumlah produsen PIRT yang telah terdaftar pada Dinas Kesehatan
+Kota Semarang dan memiliki Sertifikat Izin Edar Produk PIRT adalah sejumlah 2.941 produsen PIRT. Jumlah
+tersebut teramat kecil jika dibandingkan dengan perkembangan riil tumbuh kembangnya usaha PIRT yang semakin
+pesat, seiring dengan tumbuhnya minat masyarakat dalam menekuni wirausaha, baik sebagai mata pencaharian
+pokok maupun usaha sampingan. Namun perkembangan yang pesat tersebut belum diimbangi dengan tingkat
+kesadaran yang tinggi akan pentingnya izin edar produk PIRT dimaksud. (Puriyanto W.N – Dinkes Kota Semarang,
+2015)
+Permasalahan lain yang muncul adalah, sulitnya melakukan pengawasan pasca izin edar telah diberikan, terkait
+dengan komitmen, konsistensi dan itikad baik / kejujuran dalam berusaha. Apabila para produsen PIRT tidak
+429
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+mempunyai itikad baik untuk membangun komitmen dan konsisitensi dalam menjaga kualitas produk PIRT, maka
+bisa dimungkinkan terjadi pelanggaran, dalam bentuk misalnya, ketika sampel produk PIRT diujikan hasilnya
+memenuhi standar keamanan pangan dan kesehatan, tetapi pada tahap berikutnya dalam produksi masal untuk
+diedarkan/dijual, sudah tidak sesuai lagi dengan sampel yang diujikan sebelumnya.
+Hal inilah yang diakui oleh Dinkes Kota Semarang sebagai suatu bentuk kesulitan yang dihadapi di lapangan,
+karena masa berlaku sertifikat izin edar PIRT adalah selama 5 tahun, dan selama lima tahun tersebut tidak ada
+pengulangan uji sampel produk PIRT secara periodik, namun biasanya hanya dilakukan kunjungan pembinaan oleh
+petugas lapangan dari Dinkes Kota Semarang, itu pun dengan daya jangkau yang sangat terbatas, yaitu secara
+sampling untuk kelompok sasaran usaha tertentu yang telah berizin edar di wilayah kota Semarang.
+4.2. Faktor-faktor yang Menyebabkan Implementasi Izin Edar Produk Pangan Industri Rumah Tangga
+(PIRT) Belum Berjalan Secara Efektif.
+4.2.1. Masih Lemahnya Implementasi Sistem Keamanan Pangan dan Kurang Terintegrasinya Sinergi dalam SKPT.
+Dalam hal ini yang menjadi keprihatinan adalah bahwa sampai saat ini kita masih belum memiliki program
+keamanan pangan nasional yang tertata dengan baik. Masih banyak yang harus dilakukan untuk menjawab berbagai
+persoalan yang terkait dengan penerapan sistem keamanan pangan nasional. seperti: sistem investigasi yang efektif
+untuk kasus-kasus gangguan keamanan makanan, tingkat cemaran potensi bahaya biologis dan kimiawi pada
+berbagai bahan pangan, rencana aksi untuk mengatasi masalah detention dan holding terhadap produk makanan yang
+diekspor, penerapan sistem Hazard Analysis and Critical Control Points (HACCP) di dalam negeri dan sistem
+pengawasannya, dan Iain-lain.
+Kasus keamanan pangan yang banyak muncul di masyarakat ini telah mengakibatkan banyak Kejadian Luar
+Biasa (KLB). Salah satu KLB yang sering terjadi adalah terkait dengan keamanan pangan produk hewani. Total
+KLB yang dilaporkan pada kurun waktu 2009 hingga 2012 sebanyak 541 dan hanya berkisar 24-36% saja yang dapat
+diduga penyebabnya, sedangkan sisanya tidak diketahui karena sampel tidak tersedia/habis dan tidak layak uji. Dari
+yang diduga hanya 5% saja yang terkonfirmasi secara laboratorium. (BPOM dalam Sparringga, 2013).
+Lebih jauh, indikasi lemahnya keamanan pangan bisa dilihat dari mata rantai produksinya, dimana mereka
+belum sepenuhnya menjamin keamanan produk yang dijual kepada konsumen. Hal ini terutama disebabkan karena
+kondisi infrastruktur yang belum memadai dan belum memenuhi standar kualitas penanganan dan pengolahan
+pangan yang baik. Mengingat persoalan infrastruktur keamanan pangan di Indonesia memiliki implikasi yang sangat
+luas maka perlu segera mendapatkan perhatian yang lebih serius. Oleh karena itu dalam praktek pengolahan dan
+penanganan produk pangan secara tepat dibutuhkan pengendalian mutu (quality control) yang dapat memperbaiki
+kualitas produk dan menurunkan angka cacat produk, sehingga dapat mengurangi biaya produksi yang pada
+akhirnya dengan kualitas produk yang baik, dapat meningkatkan keuntungan ekonomi.
+Ada dua masalah utama yang menyebabkan rendahnya keamanan pangan tersebut yaitu pelaksanaan kebersihan
+dan sanitasi yang masih sangat kurang dan penggunaan bahan berbahaya yang sebetulnya tidak boleh untuk pangan.
+Hal yang terakhir biasanya dilakukan oleh industri rumah tangga karena faktor ketidaktahuan dan biayanya lebih
+murah. Oleh karena itu, perlu dibentuk jaringan komunikasi keamanan pangan untuk memberikan penyuluhan
+terhadap masalah ini.
+Di sisi lain, pemerintah juga menegaskan bahwa masalah utama mengenai infrastruktur terutama terletak pada
+belum terbentuknya suatu badan koordinasi tingkat nasional yang melibatkan instansi terkait. Apalagi keamanan
+pangan dipengaruhi oleh setiap tahapan proses yang dilalui, sejak dari bahan mentah sampai ke produk jadi di
+tangan konsumen. Untuk memberikan jaminan keamanan pangan maka perlu dilakukan cara-cara pengendalian pada
+setiap mata rantai proses penanganan dan pengolahan pangan. Oleh karena mencakup berbagai mata rantai produksi
+pangan, keamanan pangan juga harus ditangani secara terpadu, melibatkan berbagai stakeholders, baik dari
+pemerintah, maupun industri dan konsumen sebagai tanggung jawab bersama. Dengan koordinasi dan kerjasama
+yang baik dari berbagai pihak, maka target meningkatkan perekonomian nasional dalam jangka waktu pendek tak
+mungkin dipungkiri lagi untuk cepat direalisasikan. (Saefullah H. E, 1999)
+4.2.2. Aspek Perlindungan Konsumen Pangan yang Masih Terabaikan.
+
+430
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+Sebenarnya sudah cukup lama banyak konsumen yang tidak mengerti, tidak teliti dan tidak selektif terhadap
+produk pangan (makanan dan minuman) olahan yang tidak layak edar dipasaran, baik di pasar tradisional maupun
+pasar modern. Ketidaktahuan konsumen terhadap produk pangan (makanan dan minuman) olahan yang tidak layak
+edar tersebut pada umumnya dikarenakan oleh beberapa faktor sebagai berikut :
+
+a. Tingkat SDM konsumen yang masih kurang dalam mencermati produk-produk pangan (makanan dan
+b.
+c.
+
+minuman) olahan yang hendak dibelinya. Pada umumnya mereka masih berorientasi pada penawaran harga
+yang murah daripada mempertimbangkan mutu yang ditawarkan.
+Produsen tidak menjelaskan atau memasang Label/Etiket pada setiap kemasannya, bahkan ada yang cenderung
+sengaja tidak mencantumkan atau mengaburkan label/etiket produknya.
+Peran institusi Perindustrian dan Perdagangan (INDAG) serta BPOM sebagai lembaga yang berwenang dan
+memiliki otoritas dalam pemberian izin edar dan pengawasan atas produk-produk tersebut masih sering
+kecolongan atas perilaku buruk para pelaku usaha.
+
+Badan Perlindungan Konsumen Nasional (BPKN) dan Lembaga Perlindungan Konsumen Swadaya Masyarakat
+(LPKSM) sebagaimana yang di amanatkan dalam Bab I Pasal 1 Poin 9 dan 12, Bab VIII Pasal 31-34 dan Bab IX
+Pasal 44 Undang-undang No. 8 Tahun 1999 tentang Perlindungan Konsumen, masih belum memaksimalkan
+perannya dalam menjalankan tugas serta kewajibannya dalam hal melakukan sosialisasi dan pendampingan
+konsumen, terutama terhadap pelaksanaan perlindungan konsumen.
+Produk-produk pangan (makanan dan minuman) olahan yang tidak layak edar tersebut sudah bisa dipastikan
+berimplikasi terhadap kesehatan konsumen. Sebagaimana diamanatkan dalam Undang-undang No. 8 Tahun 1999
+tentang Perlindungan Konsumen, pemerintah telah membentuk BPKN yang berperan dalam melindungi
+Keselamatan Konsumen. Namun lembaga ini masih belum memiliki legitimasi kuat untuk melakukan pengawasan
+dan penindakan terhadap pelanggaran yang dilakukan oleh pelaku usaha berkaitan dengan peredaran produk dan
+jasa yang tidak aman/tidak memiliki persyaratan Keselamatan Konsumen.
+4.3. Pengaruh Kebijakan Sistem Keamanan Pangan Terpadu (SKPT) terhadap Efektivitas Implementasi
+Izin Edar Produk Pangan Industri Rumah Tangga (PIRT)
+Di Indonesia, perlindungan terhadap konsumen diantaranya dilakukan oleh Badan Pengawas Obat dan
+Makanan dan Kementerian Kesehatan c.q. Dinas Kesehatan Kabupaten/Kota. Pada awalnya Badan Pengawas Obat
+dan Makanan merupakan badan dibawah Kementerian Kesehatan yang bertanggung jawab terhadap Menteri
+Kesehatan. Akan tetapi karena dianggap memiliki peran yang strategis dalam upaya perlindungan terhadap
+konsumen maka saat ini kedudukan Badan Pengawas Obat dan Makanan adalah sebagai lembaga independen yang
+bertanggung jawab secara langsung terhadap Presiden, terpisah dari Kementerian Kesehatan. Pasca terpisah dari
+Kementerian Kesehatan, upaya perlindungan konsumen yang dilakukan menjadi lemah dan kurang menjamin
+kepastian hukum. Tumpang-tindih kewenangan antara Kementerian Kesehatan dan Badan Pengawas Obat dan
+Makanan bermuara pada pengabaian dan pelanggaran hak-hak konsumen. Badan Pengawas Obat dan Makanan
+sebagai lembaga pengawas justru tidak fokus pada kegiatan pengawasan yang seharusnya merupakan tugas
+utamanya.
+Jika dikaji secara normatif, tumpang tindih kewenangan terjadi karena belum adanaya produk hukum yang
+mengatur secara jelas mengenai tugas pokok dan fungsi keduanya. Dalam Pasal 41 huruf u angka 2 Keputusan
+Presiden Nomor 102 Tahun 2001 tentang kedudukan, tugas, fungsi, kewenangan, susunan organisasi, dan tata kerja
+ditegaskan bahwa Kementerian Kesehatan merupakan pihak yang berwenang untuk memberikan izin dan
+pembinaan produksi. Akan tetapi dalam ketentuan Pasal 69 huruf e Peraturan Presiden Nomor 46 Tahun 2005
+tentang perubahan keenam atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi,
+Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen.juga ditegaskan bahwa
+Badan Pengawas Obat dan Makanan merupakan pihak yang berwenang untuk memberikan izin dan pengawasan
+peredaran obat serta pengawasan industri farmasi.
+Dualisme dalam perolehan izin atas produk obat dan sediaan farmasi atau makanan merupakan salah satu
+permasalahan yang timbul dari tidak jelasnya pembagian kewenangan antara Badan Pengawas Obat dan Makanan
+dan Kementerian Kesehatan c.q. Dinas Kesehatan Kabupaten/Kota. Beberapa produsen (PIRT) mendaftarkan
+produknya kepada pemerintah melalui Kementerian Kesehatan, sebagian ke Badan Pengawas Obat dan Makanan.
+Hal Ini menimbulkan ketidakpastian hukum dan kebingungan pada produsen maupun konsumen.
+431
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+Fenomena empirik terhadap permasalahan tersebut pada gilirannya berakibat pada melemahnya kekuatan
+kebijakan SKPT terhadap implementasi izin edar produk PIRT di masyarakat, sehingga dampak lebih lanjut karena
+SKPT dalam pelaksanaannya mengalami kelemahan sinergis antar jaringan yang dibentuk, maka jelas akan
+terganggu efektivitasnya. Hal inilah yang mengakibatkan banyaknya produk pangan olahan, khususnya PIRT yang
+tidak berizin edar, karena berbagai faktor dan kendala yang terjadi di lapangan, disamping penegakan hukumnya
+yang masih belum optimal, terutama yang terkait dengan pemberlakuan ketentuan izin edar yang belum dapat
+menjangkau kepada seluruh masyarakat produsen PIRT.
+4.4. Rancangan Model Ideal Pengembangan SKPT dalam Mewujudkan Efektivitas Implementasi Izin Edar
+Produk PIRT.
+Berdasarkan permasalahan dan fenomena empirik yang terjadi di lapangan, rancangan konsep model
+pengembangan sistem keamanan pangan terpadu perlu diujicobakan dengan menjelaskan kepada pihak-pihak yang
+berkepentingan tentang rancangan model dimaksud untuk dapat diketahui sejauh mana memenuhi tingkat
+keefektifannya dalam praktek. Di samping itu juga untuk lebih menyempurnakan kebijakan yang ada melalui
+temuan rancangan konsep yang lebih menekankan aspek interaksi, sinergi, dan komunikasi intensif dalam bentuk
+format yang terintegrasi, sehingga diharapkan dapat mencapai sasaran ideal.
+Secara skematis model (fishbone diagram) dapat dijelaskan pada Gambar 1 sebagai berikut :
+Gambar 1
+Fishbone Diagram : Rancangan Konsep Perlunya Model Pengembangan SKPT
+Dalam Mewujudkan Efektivitas Implementasi Izin Edar Produk PIRT
+
+Isu Keamanan
+Pangan belum efektif
+dan optimal
+
+Sinkronisasi, Strategi
+dan Kebijakan
+Keamanan pangan
+
+Realitas konflik akibat
+kesenjangan antara das
+sollen dan das sein
+tentang implementasi
+kebijakan SKPT
+
+Rancangan model
+pengembangan SKPT
+yang menekankan
+aspek interaksi, sinergi
+dan komunikasi intensif
+terintegrasi
+
+Konsep Rancangan
+Model Pengembangan
+SKPT
+
+Penyempurnaan
+Kebijakan SKPT
+melalui Model
+Pengembangan
+
+Model
+Pengembangan
+Sistem
+Keamanan
+Pangan Terpadu
+sebagai Format
+Ideal Menuju
+Efektivitas
+Berlakunya Izin
+Edar Produk
+PIRT Secara
+Optimal
+
+Sebagaimana telah diuraikan terdahulu, jelas menunjukkan bahwa pola koordinasi dan kewenangan dalam
+mewujudkan SKPT yang efektif dan optimal masih memerlukan upaya-upaya intensif dan konstruktif, khususnya
+dalam rangka meningkatkan kualitas perlindungan konsumen. Hal ini diindikasikan oleh fenomena empirik sebagai
+suatu kelemahan yang meliputi : Banyaknya produk PIRT tak berizin edar, Sinkronisasi strategi dan kebijakan
+keamanan pangan yang belum optimal yang disebabkan karena faktor sinergi dalam pelaksanaan SKPT yang masih
+lemah, serta Penegakan hukum yang belum efektif karena faktor kendala dan realitas di lapangan.
+Guna menjembatani permasalahan tersebut, tentunya perlu dibuat rancangan model sebagai pengembangan dari
+kebijakan SKPT yang meliputi tiga jejaring, yang dalam pelaksanaannya belum dapat menjangkau pada sasaran
+operasional yang diharapkan, yaitu terwujudnya SKPT yang mencerminkan kinerja efektif dan optimal melalui
+penguatan fungsi koordinasi, pengawasan dan penegakan hukum secara lebih terintegrasi, sehingga mencerminkan
+432
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+pola hubungan kerja yang sinergis dan harmoni. Oleh karena itu terwujudnya efektivitas implementasi izin edar,
+khususnya produk PIRT, sangat ditentukan oleh variabel intervening yang terdiri dari indikator-indikator sebagai
+berikut :
+a. Penegakan peraturan Izin Edar Produk PIRT secara lebih intensif, melalui peningkatan peran Dinkes
+dengan pola Stelsel Aktif atau tidak bersifat menunggu yang akan berizin, tetapi lebih bersifat menjemput
+bola guna mengidentifikasi sasaran dalam bentuk sosialisasi simpatik menuju terwujudnya tingkat
+kesadaran keamanan pangan yang tinggi karena suatu kebutuhan atas dasar kesadaran kesehatan bersama.
+b. Membangun sinergi intensif dan terintegrasi melalui penerapan sistem sosialisasi, komunikasi dan interaksi
+dengan stakeholder secara periodik dan terstruktur dengan lebih banyak melibatkan para produsen PIRT
+(khususnya yang belum berizin edar) sampai pada lingkup wilayah RT/RW di seluruh kelurahan.
+c. Lebih memberdayakan peran dan fungsi PUSKESMAS dalam turut menegakkan kebijakan SKPT kepada
+masyarakat luas melalui kader-kader kesehatan yang terbentuk secara terprogram, terarah dan terpadu.
+Melalui ketiga indikator tersebut diharapkan dapat tercapai efektivitas implementasi izin edar produk PIRT,
+yang sekaligus juga dapat terwujudnya SKPT sebagai format kebijakan ideal dan efektif, serta secara kualitatif dapat
+lebih meningkatkan upaya perlindungan terhadap para konsumen pangan.
+Untuk lebih memperjelas uraian tersebut di atas, dapat dirumuskan bentuk model pengembangan dimaksud,
+pada Gambar 2 sebagai berikut :
+Gambar 2
+Model Pengembangan SKPT Dalam Mewujudkan
+Efektivitas Implementasi Izin Edar Produk PIRT
+
+5. KESIMPULAN
+433
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+a. Bahwa kebijakan sistem kemanan pangan terpadu yang sudah dicanangkan oleh Badan POM Pusat belum
+sepenuhnya menunjukkan efektif dalam implementasinya, hal ini disebabkan karena belum bekerjanya jejaring
+sistem kemanan pangan terpadu secara sinergis dan optimal. Terbukti dalam realitas empirik yang terjadi pada
+masyarakat, masih banyaknya ditemukan, khususnya produk pangan PIRT yang tidak mengantongi izin edar
+produk.
+b. Secara umum SKPT dalam pelaksanaannya mengalami kelemahan sinergis antar jaringan yang dibentuk, dan
+secara nyata akan terganggu efektivitasnya. Hal inilah yang mengakibatkan banyaknya produk pangan olahan,
+khususnya PIRT yang tidak berizin edar, karena berbagai faktor dan kendala yang terjadi di lapangan, disamping
+penegakan hukumnya yang masih belum optimal, terutama yang terkait dengan pemberlakuan ketentuan izin
+edar yang belum dapat menjangkau kepada seluruh masyarakat produsen PIRT.
+c. Faktor-faktor yang menyebabkan implementasi izin edar produk pangan industri rumah tangga (PIRT) belum
+berjalan secara efektif, secara umum karena masih lemahnya penerapan sistem keamanan pangan dan kurang
+terintegrasinya SKPT secara sinergis dalam menjalankan fungsi jejaring.
+d. Dengan rumusan model pengembangan SKPT melalui ketiga indikator sebagaimana diuraikan di atas,
+diharapkan dapat tercapai efektivitas implementasi izin edar produk PIRT, yang sekaligus juga dapat
+mewujudkan penyempurnaan SKPT sebagai format kebijakan ideal dan efektif, serta secara kualitatif dapat
+lebih meningkatkan upaya perlindungan terhadap para konsumen pangan. Model pengembangan tersebut
+diharapkan pula dapat menjembatani terhadap sumber informasi yang dapat menggerakkan kesadaran bersama
+dalam membangun kepedulian keamanan pangan secara nyata dan berkesinambungan
+
+DAFTAR PUSTAKA
+Agus Sunarto, 2009. Manajemen Pengelolaan Usaha Industri Rumah Tangga. Karya Mandiri. Semarang.
+Badan Pengawas Obat dan Makanan (BPOM), 2010. Laporan Tahunan. Jakarta.
+B. Miles, Mattew dan A. Michael Huberman. 1992. Analisis Data Kualitatif. UI Press Jakarta.
+Esmi Warassih Pujirahayu, 1999. Metodologi Penelitian Bidang Ilmu Humaniora, Bahan Pelatihan Metodologi
+Penelitian Bagian Hukum dan Masyarakat. Fakultas Hukum UNDIP Semarang.
+Hariyadi, P. and Dewanti-Hariyadi, R. 2003. The Need of Communicating Food Safety in Indonesia. Di dalam
+“Food Quality ; A Challenge For North And South”, pp. 265-274. A publication of IAAS Belgium vz,
+Coupure Links 653 B-9000 Gent. Belgium.
+Henry Siswosoediro, 2007. Mengurus Surat-surat Perijinan, Visimedia, Jakarta.
+Janus. Sidabalok, 2010. Hukum Perlindungan Konsumen di Indonesia. PT. Citra Aditya Bakti, Bandung.
+Muhammad
+Eggi
+H.
+Suzetta.
+Pengetahuan
+Hukum
+Untuk
+rakyat.com/cetak/1204/20/teropong/konsul-hukum.htm. 2003-2004.
+
+Konsumen,
+
+http://www.pikiran
+
+Shofie Yusuf, 2002. Pelaku Usaha, Konsumen dan Tindak Pidana Korporasi. Ghalia Indonesia. Jakarta.
+Sukiman Said Umar, “Peraturan Perundang-undangan Bidang Keamanan Pangan”, Makalah disampaikan pada
+Pelatihan TOT Keamanan Pangan untuk Petugas Dinas Kesehatan se Provinsi Sumatera Utara, tanggal 5 – 10
+Mei 2003.
+Saefullah H. E, 1999. ‘Tanggung jawab Produsen Terhadap Akibat Hukum yang Ditimbulkan dari Produk Dalam
+Menghadapi Era Perdagangan Bebas’, Makalah Seminar Nasional Perspektif Hukum Perlindungan
+Konsumen Dalam Sistem Hukum Nasional Menghadapi Era Perdagangan Bebas, Fakultas Hukum UNISBA,
+Bandung.
+Sajogjo Goenardi, dkk, 1993. Menuju Gizi yang Merata di Pedesaan dan di Kota. Gajah Mada University Press,
+Jakarta.
+434
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+Soekirman, 2009. Beberapa Masalah Upaya Meningkatkan Mutu, Gizi dan Keamanan Pangan, Depatemen Gizi
+Masyarakat, Fakultas Ekologi Manusia, Institut Pertanian Bogor (IPB)
+WHO, 1996. Guidelines for Strength a National Food Safety Programme.
+Winarno F.G, 1997. Kimia Pangan dan Gizi, Gramedia Pustaka, Jakarta.
+Winiati Pudji Rahayu dan Roy Sparingga, 2004. Tantangan Keamanan Pangan Indonesia, Strategi dan Program
+Surveilan Keamanan Pangan, Prosiding Widyakarya Nasional Pangan dan Gizi VIII, LIPI Jakarta.
+Yuliarti Nurheti, 2007. Awas Bahaya Di Balik Lezatnya Makanan, Andi, Yogyakarta.
+Yanit Zulian, 2008. Manajemen Kualitas Produk dan Jasa. Ekonisia, Jakarta.
+
+435
+ISBN: 978-979-3649-96-2
+
+Unisbank Semarang, 28 Juli 2016
+
+

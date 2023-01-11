@@ -1,0 +1,1864 @@
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+Vol. 3, No. 3, Maret 2019, hlm. 2951-2959
+
+e-ISSN: 2548-964X
+http://j-ptiik.ub.ac.id
+
+Evaluasi Usability pada Aplikasi MyTelkomsel dengan Menggunakan
+Metode Usability Testing
+Willy Arief Pramono1, Hanifah Muslimah Az-Zahra2, Retno Indah Rokhmawati3
+Program Studi Sistem Informasi, Fakultas Ilmu Komputer, Universitas Brawijaya
+Email: 1willyariefp@gmail.com, 2hanifah.azahra@ub.ac.id, 3retnoindahr@ub.ac.id
+Abstrak
+Telkomsel merupakan salah satu perusahaan yang menyediakan jasa operator layanan seluler.
+Telkomsel memiliki visi jauh ke depan dan misi memberikan yang terbaik bagi masyarakat dan negara.
+Satu-satunya alternatif Telkomsel adalah: tumbuh, berkembang dan berjaya. Aplikasi MyTelkomsel
+memberikan kemudahan kepada pelanggan untuk dapat mengakses fitur seperti melihat penggunaan
+data, melihat jumlah pulsa juga paket untuk nomor pelanggan, mengelola nama, email dan koneksi akun
+sosial media, melakukan isi ulang pulsa bahkan membeli paket data. Aplikasi MyTelkomsel dalam
+Google Playstore saat ini (23/8/2018) mendapatkan rating 4.1 dari skala 5 dan di review oleh 600 ribu
+lebih oleh pengguna. Namun, sekitar 60 ribu pengguna memberikan rating 1 yang artinya aplikasi
+MyTelkomsel dinilai oleh beberapa pengguna masih sangat kurang. Oleh sebab itu, diperlukan sebuah
+pengukuran menggunakan pengujian usability. Dari hasil pengujian menunjukkan bahwa tingkat
+usability dari kriteria learnability sebesar 1,12 lebih cepat. kriteria memorability berdasarkan jumlah
+klik dan langkah mudah diingat dari 23 dan 17,33 menjadi 22 dan 16,33, kriteria efficiency sebesar
+95,97% yang berarti cukup tinggi, nilai kriteria error didapatkan nilai 1,31% yang berarti sangat rendah,
+dan nilai kriteria satisfaction sebesar 69 dari kuesioner SUS yang berarti cukup tinggi.
+Kata kunci: usability, MyTelkomsel, SUS, pengujian usability.
+Abstract
+Telkomsel is one of the operator cellular providers. Telkomsel having a far vision fore and mission
+provide the best for community and nation. The only alternative form of Telkomsel is grow, develop,
+and successful. My Telkomsel application providing facilities to consumers to access the features such
+as costumers’ data usage, pulse amount and data plan/data packet/packet of data for customer number,
+manage the name, email account, and social media connection, do in refilled pulse even bought data
+packets. My Telkomsel application in Google Play Store currently (23/8/2018) get 4.1 rating of the scale
+of 5 and has been reviewed by 600 thousand more users. However, around 60 thousand users give the
+rating of 1 that means My Telkomsel application assessed by some users is insufficient. Because of that,
+the measurement using the usability test is needed. The result of the test shows that usability level of
+criteria learnability is 1,12 faster. Criteria memorability based on total click and easy way to remember
+from 23 and 17,23 become 22 and 16,33, criteria efficiency is 95,97% means quite high, rate of criteria
+error gets 1,31% rate that means very low, and score of criteria satisfaction is 69 from SUS questioner,
+which means high enough.
+Keywords: usability, MyTelkomsel, SUS, usability testing.
+meluncurkan aplikasi MyTelkomsel yang dapat
+diunduh secara gratis di Google Playstore
+dengan tujuan agar dapat meningkatkan
+pelayanan yang dapat diakses melalui perangkat
+mobile. Program layanan MyTelkomsel ini
+merupakan self-service web yang memiliki
+berbagai fitur untuk pelanggan.
+
+1. PENDAHULUAN
+Dengan perkembangan teknologi mobile
+terutama android yang banyak digunakan,
+layanan informasi yang sudah berjalan saat ini
+harus bisa mengikuti perkembangan teknologi
+mobile tersebut (Chumairoh, Budiman, &
+Satyareni, 2014). Oleh karena itu, Telkomsel
+Fakultas Ilmu Komputer
+Universitas Brawijaya
+
+2951
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+2952
+
+Aplikasi MyTelkomsel dalam Google
+Playstore saat ini (23/8/2018) mendapatkan
+rating 4.1 dari skala 5 dan di review oleh 600
+ribu lebih oleh pengguna. Namun, sekitar 60 ribu
+pengguna memberikan rating 1 yang artinya
+aplikasi MyTelkomsel dinilai oleh beberapa
+pengguna masih sangat kurang. Idealnya,
+aplikasi atau sistem yang baik adalah sistem
+yang mudah digunakan oleh penggunanya.
+Beberapa pengguna mengatakan bahwa aplikasi
+yang digunakan masih sering terjadi eror,
+pengguna merasa susah dalam akses pembelian
+paket internet dan transaksi yang seharusnya
+sudah dilakukan oleh pengguna dirasa terlalu
+lama bahkan tidak dapat direspon oleh sistem.
+Berdasarkan permasalahan diatas, peneliti
+memutuskan untuk melakukan evaluasi usability
+pada aplikasi MyTelkomsel versi 3.14 platform
+android untuk melakukan pengujian usability
+pada aplikasi dengan menggunakan metode
+Usability Testing untuk mengetahui tingkat
+usability dari aplikasi tersebut. Alasan peneliti
+menggunakan metode Usability Testing adalah
+pada metode ini melibatkan user sebagai
+partisipan sedangkan bila menggunakan metode
+lain seperti Heuristic Evaluation menggunakan
+expert user. Bila menggunakan user sebagai
+partisipan akan menemukan permasalahan yang
+nyata dikarenakan pengguna memang sudah
+menggunakan sistem tersebut, sedangkan bila
+menggunakan expert user permasalahan yang
+ditemukan akan sesuai dengan apa yang
+diperkirakan oleh expert tersebut.
+Penelitian ini menggunakan metode
+usability dengan data kualitatif dan kuantitatif
+dikarenakan untuk dapat mengetahui seberapa
+jauh sistem dapat dengan mudah digunakan oleh
+user dan hasil dari pengukurannya reliable
+dikarenakan pengujian sistem dilakukan kepada
+user yang terlibat langsung oleh sistem.
+2. METODOLOGI
+Pada bab ini menjelaskan tentang metode
+penelitian yang akan digunakan, tahapan
+penelitian mulai dari studi literatur sampai
+dengan hasil dari penelitian yang berupa
+kesimpulan dan saran yang digambarkan pada
+Gambar 1.
+
+Gambar 1. Metodologi Penelitian
+
+2.1 Studi Literatur
+Studi literatur ini digunakan untuk
+mendukung penelitian terdahulu terkait
+Usability Testing. Sumber dari studi literatur
+didapatkan dari buku maupun jurnal terkait
+usability dan pengujian usability. Tujuan dari
+studi literatur adalah untuk dijadikan referensi
+dalam melakukan penelitian.
+2.2 Pengujian Usabilty
+Dalam tahapan ini dilakukan pengujian
+usability terhadap sistem untuk mengetahui
+permasalahan
+usability
+di
+aplikasi
+MyTelkomsel. Untuk melakukan pengujian
+usability dibutuhkan beberapa tahapan sebelum
+diujikan kepada user dengan melakukan
+persiapan pengujian untuk mempersiapkan apa
+saja yang akan peneliti butuhkan dalam
+melakukan evaluasi. Setelah mempersiapkan
+pengujian, dilakukan pengujian skenario tugas
+kepada user/participant untuk mencapai tujuan
+dari evaluasi. Selain itu, dalam tahapan
+pengujian dilakukan penyebaran kuesioner
+kepada user/participant dan melakukan
+wawancara terhadap user/participant untuk
+menggali lebih dalam kenyamanan user dalam
+penggunaan aplikasi.
+1) Penentuan Responden
+Penentuan responden dilakukan untuk
+menentukan siapa saja pengguna yang akan
+melakukan pengujian usability terhadap aplikasi
+
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+MyTelkomsel. Responden untuk kuesioner
+menggunakan 20 responden sedangkan dalam
+pengujian skenario tugas diuji kepada 6
+partisipan untuk melakukan tugas yang akan
+diberikan.
+Karakteristik pengguna untuk melaksanakan
+pengujian usability adalah pengguna yang
+advance
+dimana
+pengguna
+memahami
+pengoperasian smartphone khususnya android
+dan lebih paham akan penggunaan aplikasi.
+Dengan pengguna advance peneliti bisa
+menggali lebih dalam sejauh mana aplikasi dapat
+nyaman digunakan. Oleh karena itu, peneliti
+memutuskan untuk memilih partisipan yang
+berusia sekitar 22 tahun dengan latar belakang
+mahasiswa yang paham dengan IT.
+Dalam partisipan peneliti menentukan user
+kedalam 2 responden, yaitu pengguna lama dan
+pengguna baru. Pengguna lama adalah pengguna
+dimana
+mereka
+intensitas
+penggunaan
+aplikasinya tinggi dikarenakan pengguna sering
+menggunakan aplikasi MyTelkomsel untuk
+melakukan pembelian paket data ataupun hanya
+melakukan cek pulsa saja dan dalam
+pemakaiannya pengguna sudah menggunakan
+aplikasi tersebut dalam kurun waktu minimal
+satu bulan. Sedangkan untuk pengguna baru
+adalah pengguna yang baru saja menggunakan
+aplikasi dalam kurun waktu kurang dari satu
+bulan. selama lebih dari satu bulan.
+2) Penentuan Task Scenario
+Skenario tugas yang dibuat telah ditentukan
+oleh peneliti berdasarkan dari kegunaan dari
+aplikasi MyTelkomsel. Dalam penggunaannya
+menurut informasi produk yang ada dalam
+playstore, aplikasi MyTelkomsel digunakan
+untuk mengecek pulsa, menampilkan detail
+informasi paket, kuota, dan bonus paket. Pada
+saat ini aplikasi MyTelkomsel lebih digunakan
+untuk penggunaan aktifitas yang berhubungan
+dengan internet, oleh karena itu adanya aplikasi
+MyTelkomsel lebih sering digunakan untuk
+melakukan aktifitas paket internet. Berdasarkan
+hal tersebut, peneliti membuat skenario tugas
+dimana tahapan-tahapan dalam pengerjaan
+skenario tugas hanya untuk aktifitas seputar
+paket yang disediakan oleh MyTelkomsel saja.
+2.3 Pengujian Task Scenario
+Task scenario berisi skenario tugas yang
+akan dilakukan oleh participant terkait aplikasi
+yang telah disiapkan oleh peneliti. Saat
+participant melakukan tugasnya, peneliti
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+2953
+
+melakukan observasi terhadap perilaku
+participant dalam menggunakan aplikasi
+tersebut. Cara yang paling efektif untuk
+memahami suatu sistem apakah suatu sistem
+atau user interface bisa digunakan dengan baik
+atau tidak adalah dengan melihat bagaimana
+orang lain menggunakannya. (Nielsen, 2014).
+Dengan melakukan observasi terhadap
+pengguna yang melakukan aktivitas dalam
+sistem, kita akan mendapatkan gambaran
+mengapa pengguna merasa kesulitan dalam
+penggunaannya sehingga hal ini dapat
+membantu dalam perbaikan untuk meningkatkan
+desain dari sistem.
+Dalam task scenario, langkah pembuatan
+task berpengaruh pada alur berjalannya
+pengujiian. Beberapa tips penulisan task
+scenario yang akan meningkatkan hasil output
+dari evaluasi usability menurut Nielsen adalah:
+1) Membuat tugas yang realistis.
+2) Membuat tugas yang meminta pengguna
+untuk melakukan aksi.
+3) Hindari memberi petunjuk dan langkahlangkahnya.
+Skenario tugas menjadi salah satu penilaian
+dalam penelitian evaluasi usability ini.
+2.4 Wawancara
+Tahapan wawancara dilakukan setelah
+selesai melakukan pengujian task scenario
+kepada pengguna. Jenis wawancara pada
+penelitian ini adalah wawancara tidak
+terstruktur, hal ini dipilih dengan pertimbangan
+bahwa peneliti ingin menggali informasi yang
+lebih dalam terkait pendapat pengguna setelah
+menjalankan tugas yang diberikan dan untuk
+menemukan permasalahan-permasalahan yang
+tidak bisa didapatkan selama pengujian skenario
+tugas berlangsung. Berbagai permasalahaan
+yang diungkapkan kemudian dicatat dan
+nantinya akan dianalisis untuk menghasilkan
+rekomendasi solusi yang tepat untuk perbaikan
+aplikasi kedepannya.
+2.5 Kuesioner
+Pada tahapan ini peneliti memberikan
+kuesioner menggunakan System Usability Scale
+(SUS) yang memiliki sepuluh pertanyaan kepada
+partisipan setelah mengerjakan skenario
+pengujian. Kuesioner berisi pertanyaan seputar
+kesan partisipan saat menggunakan sistem.
+Dengan menggunakan penilaian dengan skala
+likert yang jelas dan pertanyaan yang tidak
+terlalu sulit, partisipan bisa dengan mudah
+memberikan
+jawaban
+pada
+kuesioner.
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+Pemberian
+kuesioner
+bertujuan
+untuk
+mendukung data yang telah didapat dari skenario
+pengujian yang nantinya akan diolah dan
+menghasilkan suatu kesimpulan bagi penelitian.
+2.6 Analisis dan Pembahasan
+Setelah proses semua proses evaluasi pengujian
+telah dilakukan, peneliti melakukan analisis
+data-data yang telah dikumpulkan saat penelitian
+evaluasi usability dari partisipan. Adapun
+kriteria-kriteria yang diujikan dalam penelitian
+ini adalah sebagai berikut:
+1. Learnability
+Kriteria learnability mengukur seberapa
+mudah bagi pengguna baru saat mereka
+menyelesaikan tugas-tugas dasar saat partisipan
+baru pertama kali menggunakan aplikasi
+MyTelkomsel.
+2. Memorability
+Dalam kriteria ini, peneliti mengamati
+seberapa ingat pengguna dalam mengakses
+kembali aplikasi setelah tidak menggunakan
+aplikasi dalam jangka waktu tertentu.
+3. Efficiency
+Kriteria ini adalah pengukuran terhadap
+tingkat kecepatan partisipan saat mereka
+menggunakan aplikasi. Dari sini kita bisa
+melihat seberapa mudah tampilan yang telah
+dibangun digunakan oleh partisipan untuk
+mencapai suatu goal.
+4. Error
+Dalam kriteria error ini, peneliti melakukan
+pengamatan
+terhadap
+seberapa
+banyak
+kesalahan yang dilakukan pengguna saat
+menggunakan aplikasi. Apakah mereka
+menemukan ambiguitas dalam menu pada
+aplikasi sehingga menyebabkan terjadinya
+kesalahan.
+5. Satisfaction
+Pada kriteria ini dilakukan pengukuran
+terhadap tingkat kepuasan pengguna terhadap
+sistem yang ada saat ini. Hal ini bisa dilihat dari
+pendapat yang diberikan pengguna meliputi
+pernyataan negatif atau positif.
+2.7 Kesimpulan dan Saran
+Pada tahapan ini dilakukan penarikan
+kesimpulan dengan data-data yang telah
+dikumpulkan sebelumnya dari hasil analisis
+pengujian usability yang mencakup scenario
+task, wawancara, dan pengisian kuesioner.
+Setelah itu, peneliti menarik kesimpulan yang
+telah diperoleh dari usability testing dan
+memberikan rekomendasi saran kedepannya
+untuk perbaikan aplikasi MyTelkomsel.
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+2954
+
+3. HASIL PENGUMPULAN DATA
+Bab ini menjelaskan tentang tahapan dari
+hasil pengumpulan data penelitian yang telah
+dilakukan peneliti terhadap pengguna yang
+menggunakan aplikasi MyTelkomsel. Pengguna
+terdiri dari pengguna lama dan pengguna baru.
+3.1 Partisipan
+Setelah peneliti melakukan observasi
+langsung, maka ditentukan bahwa pengguna dari
+aplikasi MyTelkomsel dibagi menjadi 2, yaitu
+pengguna baru dan pengguna lama. Data yang
+telah diambil dari 6 partisipan dalam pengujian
+usability nantinya akan diolah untuk menghitung
+sejauh mana tingkat usability sistem. Untuk
+kriteria pengguna lama yaitu pengguna aplikasi
+yang baru menggunakan aplikasi kurang dari
+satu bulan. Sedangkan untuk pengguna lama
+adalah pengguna aplikasi MyTelkomsel yang
+menggunakan aplikasi lebih dari satu bulan.
+Untuk kriteria lainnya dalam penentuan
+partisipan pengguna aplikasi yaitu pengguna
+berusia sekitar 20 tahun dengan kemampuan
+advance untuk menggunakan smartphone secara
+mahir.
+1. Pengguna Lama
+Identifikasi pengguna lama dilakukan untuk
+mengetahui seberapa jauh informasi yang telah
+diperoleh oleh pengguna terhadap penggunaan
+aplikasi MyTelkomsel setelah menggunakan
+aplikasi dengan kurun waktu lebih dari satu
+bulan penggunaan aplikasi. Pengguna lama juga
+berdasarkan intensitas penggunaan aplikasi
+MyTelkomsel yang sering.
+Peneliti mengambil sejumlah 3 partisipan
+untuk dilakukan pengujian terhadap pengguna
+lama. Data responden terhadap pengguna lama
+yang didapatkan dalam pelaksanaan pengujian
+usability dilakukan untuk mengukur tingkat
+usability dari kriteria efficiency, dan errors.
+2. Pengguna Baru
+Identifikasi pengguna baru dilakukan untuk
+mengetahui seberapa jauh informasi yang telah
+diperoleh oleh pengguna baru terhadap
+penggunaan aplikasi MyTelkomsel setelah
+menggunakan aplikasi dengan kurun waktu
+kurang dari satu bulan penggunaan aplikasi.
+Pengguna baru yang penggunaan aplikasinya
+kurang dari satu bulan intensitas penggunaan
+aplikasinya rendah bila disbandingkan dengan
+pengguna yang telah menggunakan aplikasi
+lebih dari satu bulan.
+Peneliti mengambil sejumlah 3 partisipan
+untuk dilakukan pengujian terhadap pengguna
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+lama. Data responden terhadap pengguna baru
+yang didapatkan dalam pelaksanaan pengujian
+usability dilakukan untuk mengukur tingkat
+usability dari kriteria learnability, efficiency,
+memorability dan errors.
+3.2 Hasil Keberhasil Pengguna
+Menurut Nielsen J., terdapat kriteria untuk
+mengukur tingkat kesuksesan pengerjaan
+skenario tugas, yaitu:
+• Sukses (S): mengindikasi bahwa test tugas
+yang diberikan kepada participant berhasil
+dikerjakan atau berhasil mencapai tujuan dan
+tidak ada kesalahan dalam pengerjaannya.
+• Sebagian Berhasil (SB): mengindikasi bahwa
+tes tugas yang diberikan kepada participant
+berhasil dikerjakan namun ditemukan
+kesalahan saat mengerjakannya.
+• Gagal
+(G):
+mengindikasikan bahwa
+participant tidak berhasil mengerjakan tes
+tugas yang diberikan.
+Berikut ini adalah hasil dari pengujian skenario
+tugas terhadap partisipan:
+
+2955
+
+R4
+
+8
+
+12
+
+17
+
+9
+
+5
+
+51
+
+R5
+
+16
+
+23
+
+25
+
+8
+
+10
+
+82
+
+R6
+
+8
+
+26
+
+32
+
+10
+
+7
+
+83
+
+Total
+
+496
+
+3.4 Jumlah Klik dan Langkah
+Jumlah klik dan langkah dilakukan untuk
+mengukur tingkat memorability dalam aplikasi
+MyTelkomsel.
+Dalam
+usability
+untuk
+menghitung tingkat memorability ditentukan
+oleh jumlah klik dan langkah pada pengujian
+pertama dan kedua dengan membandingkannya.
+Tabel 3. Rata-rata Jumlah Langkah dan Klik
+Jumlah langkah
+Jumlah klik
+Partisipan
+P1
+P2
+P1
+P2
+R1
+
+18
+
+17
+
+25
+
+25
+
+R2
+
+15
+
+14
+
+23
+
+21
+
+R3
+
+19
+
+18
+
+21
+
+20
+
+Ratarata
+
+17.33
+
+16.33
+
+23
+
+22
+
+Tabel 1 Hasil Pengujian Skenario Tugas
+Task
+1
+
+Task
+2
+
+Task
+3
+
+Task
+4
+
+Task
+5
+
+R1
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R2
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R3
+
+S
+
+SB
+
+S
+
+S
+
+S
+
+R4
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R5
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R6
+
+S
+
+S
+
+S
+
+S
+
+S
+
+Nama
+
+3.5 Wawancara
+Wawancara dilakukan setelah partisipan
+selesai mengerjakan skenario tugas yang telah
+diberikan. Wawancara dilakukan untuk
+menggali lebih dalam mengenai permasalahan
+yang ada pada saat pengguna menggunakan
+aplikasi MyTelkomsel.
+Tabel 4. Hasil Wawancara
+
+3.3 Waktu Pengerjaan
+
+No.
+
+Nama
+
+Permasalahan
+
+Kode
+Masalah
+
+Untuk mengukur tingkat efficiency pada
+usability memerlukan hasil dari waktu
+pengerjaan pengguna terhadap aplikasi dalam
+menyelesaikan tugas yang diberikan. Waktu
+pengerjaan menilai seberapa efisien suatu sistem
+dalam usabilitas pengguna. Pengukuran waktu
+pengerjaan pada skenario tugas dilakukan
+dengan
+menggunakan
+stopwatch
+pada
+smartphone untuk memudahkan peneliti dalam
+melaksanakan penelitian
+
+1
+
+R1
+
+-
+
+-
+
+2
+
+R2
+
+Tombol verifikasi saat
+proses login eror
+
+M1
+
+3
+
+R3
+
+Proses loading cukup
+lama saat memuat
+informasi
+
+M2
+
+4
+
+R4
+
+-
+
+-
+
+R5
+
+Tampilan saat akan
+melihat informasi
+detail paket yang
+sudah aktif masih
+ambigu
+
+M3
+
+Tampilan aplikasi
+kurang nyaman bagi
+pengguna baru
+
+M4
+
+Mencari fitur paket
+yang sudah aktif
+
+M3
+
+5
+
+Tabel 2. Waktu Pengerjaan Partisipan
+Waktu (s)
+Nama
+
+Task
+1
+
+Task
+2
+
+Task
+3
+
+Task
+4
+
+Task
+5
+
+Total
+
+R1
+
+15
+
+48
+
+18
+
+10
+
+8
+
+99
+
+R2
+
+10
+
+23
+
+20
+
+8
+
+6
+
+67
+
+R3
+
+25
+
+40
+
+25
+
+15
+
+9
+
+114
+
+6
+R6
+
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+7
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+masih
+membingungkan
+
+4.
+
+PEMBAHASAN
+
+Setelah data sudah dikumpulkan semua, pada
+bab ini dilakukan analisis data yang telah
+dilakukan dari evaluasi usability untuk
+menghitung seberapa besar tingkat usability dari
+aplikasi MyTelkomsel. Data yang terkumpul
+nantinya akan dihitung berdasarkan dari tiap
+kriteria usability-nya.
+4.1 Kriteria Learnability
+Learnability diukur berdasarkan ratarata waktu pengerjaan pengguna dalam
+pelaksanaan evaluasi. Rata-rata waktu hasil
+pengujian pertama akan dibagi dengan rata-rata
+waktu hasil pengujian kedua.
+
+pengguna sulit ketika belajar tentang sistem dan
+sebaliknya, jika jarak perbandingan kecil maka
+pengguna mudah mempelajari sistem tersebut.
+Dalam hal ini, hasil dari learnability aplikasi
+MyTelkomsel sebesar 1,12 yang artinya
+pengguna pada awalnya membutuhkan waktu
+sekitar 1,12x lebih cepat jika dibandingkan
+dengan pengujian pertama.
+4.2 Kriteria Efficiency
+Dalam kriteria efficiency diukur
+berdasarkan waktu yang berhasil diselesaikan
+oleh partisipan dalam melakukan pengujian
+usability. Pada tiap tugas yang telah diberikan
+kepada partisipan akan diakumulasikan dengan
+waktu penyelesaian tiap tugas.
+Tabel 7. Penghitungan Kriteria Efficiency
+Waktu pengerjaan x
+keberhasilan pengguna
+Total
+T
+T
+T2
+T4
+T5
+1
+3
+
+Tabel 5. Waktu Pengujian Pertama
+Waktu (s)
+P1
+
+Task
+1
+
+Task
+2
+
+Task
+3
+
+Task
+4
+
+Task
+5
+
+Total
+
+R1
+
+15
+
+48
+
+18
+
+10
+
+8
+
+99
+
+R2
+R3
+
+10
+25
+
+23
+40
+
+20
+25
+
+8
+15
+
+6
+9
+
+67
+114
+
+Total
+
+280
+
+Rata-rata
+
+93.33
+
+2956
+
+R
+1
+
+15
+(1)
+
+48(1)
+
+18
+(1)
+
+10
+(1)
+
+8(1)
+
+99
+
+R
+2
+
+10
+(1)
+
+23(1)
+
+20
+(1)
+
+8(
+1)
+
+6(1)
+
+67
+
+R
+3
+
+25
+(1)
+
+40(0,5)
+
+25
+(1)
+
+15
+(1)
+
+9(1)
+
+94
+
+R
+4
+
+8(
+1)
+
+12(1)
+
+17
+(1)
+
+9(
+1)
+
+5(1)
+
+51
+
+R
+5
+
+16
+(1)
+
+23(1)
+
+25
+(1)
+
+8(
+1)
+
+10(1
+)
+
+82
+
+R
+6
+
+8(
+1)
+
+26(1)
+
+32
+(1)
+
+10
+(1)
+
+7(1)
+
+83
+
+Tabel 6. Waktu Pengujian Kedua
+Waktu (s)
+P2
+
+Task
+1
+
+Task
+2
+
+Task
+3
+
+Task
+4
+
+Task
+5
+
+Total
+
+R1
+
+18
+
+45
+
+16
+
+10
+
+6
+
+95
+
+R2
+
+10
+
+20
+
+18
+
+6
+
+7
+
+61
+
+R3
+
+20
+
+35
+
+22
+
+10
+
+7
+
+94
+
+Total
+
+250
+
+Rata-rata
+
+83.33
+
+476
+
+Penghitungan kriteria efficiency menggunakan
+persamaan 2.
+𝑇𝑖𝑚𝑒 𝐵𝑎𝑠𝑒𝑑 𝐸𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦 =
+
+Setelah
+mendapatkan
+data
+waktu
+pengerjaan dari setiap partisipan pada pengujian
+pertama dan kedua selanjutnya akan didapatkan
+rasio learnability-nya dengan persamaan 1.
+𝑟𝑎𝑡𝑎−𝑟𝑎𝑡𝑎 𝑤𝑎𝑘𝑡𝑢 𝑝𝑒𝑛𝑔𝑢𝑗𝑖𝑎𝑛 𝑝𝑒𝑟𝑡𝑎𝑚𝑎
+𝑟𝑎𝑡𝑎−𝑟𝑎𝑡𝑎 𝑤𝑎𝑘𝑡𝑢 𝑝𝑒𝑛𝑔𝑢𝑗𝑖𝑎𝑛 𝑘𝑒𝑑𝑢𝑎
+
+(1)
+
+= 93,33
+= 1,12
+83,33
+Jika
+jarak
+perbandingan
+antara
+pengujian pertama dan kedua jauh maka
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+𝑁
+∑𝑅
+𝐽 ∑𝑖=1
+
+476
+
+𝑁𝑅
+
+𝑁𝑖𝑗
+𝑡𝑖𝑗
+
+x 100% (2)
+
+= 496 x 100% =95,97%
+
+Hasil dari pengujian dari kriteria efficiencynya adalah sebesar 95,97% yang artinya dalam
+aplikasi MyTelkomsel bisa dengan cepat
+digunakan oleh pengguna dalam mencapai
+tujuannya sebesar 95,97%.
+4.3 Kriteria Memorability
+Pada pengukuran memorability menggunakan
+hasil dari pengujian pertama dan kedua dengan
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+2957
+
+mengamati jumlah klik dan jumlah langkah yang
+telah dilakukan oleh pengguna dalam
+menjalankan sistem.
+
+R3
+
+4
+
+0
+
+2
+
+1
+
+3
+
+0
+
+1
+
+0
+
+2
+
+0
+
+1
+
+R4
+
+4
+
+0
+
+3
+
+0
+
+3
+
+0
+
+1
+
+0
+
+2
+
+0
+
+0
+
+R5
+
+4
+
+0
+
+3
+
+0
+
+3
+
+0
+
+1
+
+0
+
+2
+
+0
+
+0
+
+memorability
+
+R6
+
+4
+
+0
+
+3
+
+0
+
+3
+
+0
+
+1
+
+0
+
+2
+
+0
+
+0
+
+25
+
+23
+
+20
+
+17,33333
+333
+
+Tingka
+t error
+
+22
+16,33333
+333
+
+(1/76) * 100% = 1,31%
+
+Pada tabel dapat dilihat bahwa tingkat
+error yang dihasilkan sebesar 1,31%. Nilai
+tersebut cenderung kecil dan dikategorikan
+rendah sehingga dapat disimpulkan bahwa
+tingkat error yang terjadi pada aplikasi
+MyTelkomsel sangat rendah.
+
+15
+10
+5
+
+4.5 Kriteria Satisfaction
+Dalam kriteria satisfaction, diukur
+dengan menggunakan hasil dari kuesioner yang
+telah diisi oleh para responden. Kuesioner yang
+digunakan menggunakan SUS dengan skala
+likert 1 sampai dengan 5.
+
+0
+pengujian 1
+
+pengujian 2
+
+rata-rata jumlah langkah
+rata-rata jumlah klik
+Gambar 2. Perbandingan Rata-rata Jumlah Klik dan
+Langkah
+
+Pada diagram diatas menjelaskan bahwa
+hasil rata-rata dari langkah dan jumlah klik pada
+pengguna tidak terlalu jauh berbeda nilainya dan
+mengalami penurunan pada pengujian pertama
+setelah dilaksanakannya pengujian kedua. Dari
+pengujian pertama jumlah langkah sekitar 17,33
+menjadi turun pada pengujian kedua sebesar
+16,33. Sedangkan pada jumlah klik juga
+mengalami penurunan dari 23 menjadi 22
+langkah.
+4.4 Kriteria Error
+Pada kriteria error analisis dilakukan
+dengan jumlah error yang ditemui pada saat
+melakukan pengujian kepada partisipan. Bila
+pada pengujian usability ditemukan kesalahan
+pada saat pengujian maka akan dihitung dan
+dimasukkan dalam salah dan bila dalam
+pengujian di tahapan partisipan bisa melakukan
+tugas yang diberikan dengan benar maka akan
+dihitung benar. Pada setiap langkah pengerjaan
+akan diakumulasi dengan nilai (B) untuk benar
+dan (S) untuk salah.
+Tabel 8. Jumlah Kesalahan pada Kriteria Error
+T1
+T2
+T3
+T4
+T5
+Tot
+Respon
+al
+Sal
+den
+B S B S B S B S B S
+ah
+R1
+
+4
+
+0
+
+3
+
+0
+
+3
+
+0
+
+1
+
+0
+
+2
+
+0
+
+0
+
+R2
+
+4
+
+0
+
+3
+
+0
+
+3
+
+0
+
+1
+
+0
+
+2
+
+0
+
+0
+
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R1
+0
+R1
+1
+R1
+2
+R1
+3
+R1
+4
+R1
+5
+R1
+6
+R1
+7
+R1
+8
+R1
+9
+R2
+0
+
+P
+1
+5
+4
+4
+5
+5
+4
+3
+5
+4
+
+Tabel 9. Hasil Perhitungan Skor SUS
+Bobot pertenyaan SUS
+P P P P P P P P P1
+2 3 4 5 6 7 8 9 0
+3 4 3 3 3 3 3 3 3
+1 5 3 4 2 4 1 4 5
+2 2 2 3 3 3 2 3 3
+2 4 2 4 2 5 2 5 1
+1 5 2 4 4 5 2 3 4
+2 4 1 5 2 4 1 4 2
+2 4 1 4 2 3 2 4 5
+2 5 5 5 2 5 2 4 3
+3 4 1 2 2 4 2 3 4
+
+57.5
+72.5
+57.5
+85.0
+72.5
+82.5
+65.0
+75.0
+62.5
+
+4
+
+2
+
+4
+
+2
+
+3
+
+3
+
+4
+
+2
+
+4
+
+2
+
+70.0
+
+4
+
+2
+
+4
+
+4
+
+4
+
+2
+
+3
+
+3
+
+4
+
+4
+
+60.0
+
+5
+
+2
+
+4
+
+1
+
+4
+
+2
+
+4
+
+2
+
+4
+
+1
+
+82.5
+
+4
+
+2
+
+4
+
+2
+
+4
+
+2
+
+3
+
+2
+
+4
+
+4
+
+67.5
+
+3
+
+1
+
+5
+
+1
+
+4
+
+3
+
+4
+
+3
+
+4
+
+3
+
+72.5
+
+2
+
+3
+
+2
+
+4
+
+2
+
+2
+
+2
+
+3
+
+3
+
+4
+
+37.5
+
+4
+
+2
+
+4
+
+2
+
+4
+
+2
+
+5
+
+2
+
+3
+
+4
+
+70.0
+
+4
+
+1
+
+4
+
+1
+
+4
+
+1
+
+4
+
+1
+
+4
+
+1
+
+87.5
+
+5
+
+3
+
+3
+
+1
+
+4
+
+3
+
+2
+
+3
+
+4
+
+5
+
+57.5
+
+5
+
+2
+
+4
+
+2
+
+4
+
+2
+
+4
+
+1
+
+4
+
+4
+
+75.0
+
+4
+
+2
+
+4
+
+2
+
+4
+
+2
+
+4
+
+2
+
+2
+
+2
+
+70.0
+
+Rata-rata
+
+Skor
+
+69.0
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+Berdasarkan penelitian, skor SUS
+dengan nilai diatas 68 akan dianggap di atas ratarata dan dapat dikatakan bahwa sistem tersebut
+sudah baik (Affairs, 2013). Dari hasil
+penghitungan berdasarkan kuesioner SUS yang
+telah didapat untuk pengukuran satisfaction pada
+aplikasi MyTelkomsel adalah sebesar 69 yang
+artinya sistem tersebut sudah diatas rata-rata.
+4.6 Analisa Permasalahan dan Solusi
+Setelah evaluasi dilakukan, peneliti
+melakukan wawancara dengan pengguna untuk
+mendapatkan permasalahan yang ada saat
+pengguna menggunakan sistem. Berikut adalah
+berbagai masalah yang dihadapi dan
+rekomendasi solusinya:
+1) Masalah 1 (M1): Tombol verifikasi eror
+saat proses login berlangsung.
+Pengguna telah menunggu lama saat
+akan masuk kedalam sistem namun
+proses login tidak berhasil dan pengguna
+harus memasukkan ulang kode yang
+dikirimkan melalui sms saat akan
+melakukan login untuk verifikasi.
+Solusi: ditambahkannya fitur otomatis
+kirim ulang kode keamanan saat
+terjadinya eror. Hal ini dikarenakan
+pada saat terjadi eror pada saat verifikasi
+pengguna harus menekan tombol
+verifikasi lagi untuk melakukan proses
+login kedalam sistem. (Help users
+recognize, diagnose, and recover from
+errors)
+2) Masalah 2 (M2): Proses loading cukup
+lama saat memuat informasi.
+Pengguna terkadang harus menunggu
+lama pada saat memililh menu pada saat
+telah masuk kedalam sistem sehingga
+pengguna tidak mengetahui apakah
+sistem itu sudah melakukan perintah
+yang telah dimasukkan oleh pengguna
+atau tidak.
+Solusi: menambahkan sebuah pop-up
+berupa informasi bertuliskan “mohon
+tunggu sebentar, saat ini sistem sedang
+sibuk”. Informasi tersebut diberikan
+guna untuk mengetahui bahwa sistem
+saat itu sudah mengerjakan perintah
+yang telah dilakukan oleh pengguna
+kedalam sistem. (Visibility of system
+status)
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+2958
+
+3) Masalah 3 (M3): Tampilan saat akan
+melihat informasi detail paket yang
+sudah aktif masih ambigu, Mencari fitur
+paket yang sudah aktif masih
+membingungkan.
+Saat pada tampilan menu tentang
+informasi paket dimana informasi yang
+ditampilkan oleh sistem berupa
+informasi paket secara keseluruhan dan
+belum secara detail. Pengguna harus
+swipe up informasi paket tersebut untuk
+menampilkan informasi paket secara
+detail. Pada saat tersebut, pengguna
+masih merasa bingung apakah paket
+tersebut sudah menampilkan detail
+paket secara rinci atau belum.
+Solusi: Memindahkan menu detail paket
+kedalam menu baru. Dengan adanya
+menu yang menginformasikan bahwa
+menu tersebut adalah sebuah tombol
+untuk menampilkan informasi paket
+secara rinci akan memudahkan
+pengguna dalam mencari informasi
+tersebut dan tidak terkesan ambigu.
+Dengan begitu, pengguna akan paham
+apakah itu informasi detail paket secara
+keseluruhan ataukah detail paket secara
+rinci. (Match between system and the
+real world)
+4) Masalah 4 (M4): Tampilan aplikasi
+kurang nyaman bagi pengguna baru.
+Pada saat pengguna masuk kedalam
+sistem, tampilan menu pada aplikasi
+MyTelkomsel dirasa pengguna masih
+kurang nyaman sehingga pengguna
+masih harus membiasakan diri terlebih
+dahulu untuk menggunakan sistem
+tersebut. Khususnya pada saat setelah
+login kedalam sistem dan masuk ke
+menu tampilan awal.
+Solusi: Memperbarui tampilan setelah
+login masuk menjadi lebih sederhana.
+Tampilan yang sederhana dan tidak
+terlalu banyak menu pada saat login
+masuk membuat pengguna khususnya
+pengguna baru lebih paham terhadap
+aplikasi Mytelkomsel sehingga akan
+membuat pengguna merasa nyaman.
+(Flexibility and efficiency of use)
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+5.
+
+KESIMPULAN
+
+Dari hasil evaluasi usability dan analisis
+yang
+telah
+dilakukan
+pada
+aplikasi
+MyTelkomsel, maka peneliti mengambil
+kesimpulan sebagai berikut:
+1. Evaluasi usability pada aplikasi
+MyTelkomsel menggunakan metode
+Usability Testing dengan menggunakan
+5 kriteria yang tersedia, yaitu
+learnability, efficiency, memorability,
+error, dan satisfaction. Dari hasil
+pengujian didapatkan nilai learnability
+1,12 yang menunjukkan bahwa sistem
+dapat cepat dipelajari oleh pengguna
+baru. Untuk kritera efficiency didaptkan
+nilai 95,97% artinya tingkat efisiensi
+pada sistem sangat tinggi. Sedangkan
+kriteria memorability menunjukkan ratarata perbandingan jumlah klik dan
+langkah yang tidak terlalu jauh dari
+pengujian pertama dan kedua sebesar
+yang awalnya 23 dan 17,33 menjadi 22
+dan 16,33 sehingga dapat dikatakan
+bahwa aplikasi MyTelkomsel dapat
+dengan mudah diingat oleh pengguna
+pada saat pengguna tidak menggunakan
+sistem lagi dalam jangka waktu lama.
+Untuk kriteria error didapatkan nilai
+1,31% yang artinya untuk kriteria ini
+dapat dikategorikan rendah. Sedangkan
+untuk satisfaction didapatkan skor 69
+dari kuesioner SUS dan hasilnya berada
+diatas rata-rata skor penilaian.
+2. Berbagai permasalahan yang diperoleh
+dari wawancara ditemukan berbagai
+solusi oleh peneliti. Beberapa solusi
+untuk mengatasi keluhan permasalahan
+oleh pengguna pada aplikasi seperti
+menambahkan fitur otomatis kirim
+ulang kode, menampilkan pop-up
+notifikasi jaringan sedang bermasalah,
+membuat menu baru untuk informasi
+detail, dan menyederhanakan tampilan
+menu awal saat setelah login.
+6.
+
+DAFTAR PUSTAKA
+
+Affairs, A. S. for P. (2013). System Usability
+Scale
+(SUS).
+Retrieved
+from
+https://www.usability.gov/how-to-andtools/methods/system-usabilityscale.html
+Chumairoh, M. S., Budiman, & Satyareni, D. H.
+(2014). Perancang Bangun Aplikasi
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+2959
+
+Mobile Pada Platform Android Berbasis
+Html5 Studi Kasus Layanan Informasi
+Website Unipdu. Jurnal Ilmiah Edutic,
+1(1), 1–6.
+Mifsud, J. (2015). Usability Metrics - A Guide
+To Quantify The Usability Of Any System
+- Usability Geek. Retrieved from
+https://usabilitygeek.com/usabilitymetrics-a-guide-to-quantify-systemusability/
+Nielsen, J. (2012). Usability 101: Introduction to
+Usability.
+Nielsen, J. (2014). Task Scenarios for Usability
+Testing. Retrieved August 31, 2018, from
+https://www.nngroup.com/articles/taskscenarios-usability-testing/
+Usability.gov. (2017). Usability Testing Was
+this page helpful ? Yes No Next, 11–12.
+
+

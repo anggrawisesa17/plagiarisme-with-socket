@@ -1,0 +1,1896 @@
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+PENGARUH PROFITABILITAS, UKURAN PERUSAHAAN, GROWTH
+OPPORTUNITY, LIKUIDITAS, STRUKTUR ASET, RESIKO BISNIS
+DAN NON DEBT TAX SHIELD TERHADAP STRUKTUR MODAL
+PADA PERUSAHAAN SUB-SEKTOR BARANG KONSUMSI
+BAGUS TRI PRASETYA
+NADIA ASANDIMITRA
+Jurusan Manajemen, Fakultas Ekonomi, Universitas Negeri Surabaya
+Kampus Ketintang Surabaya 60231
+E-mail : bagustri@yahoo.com
+Abstract : This study was conducted to examine and analyze
+the effect of profitability, firm size, growth opportunity, liquidity,
+asset structure, business risk and non-debt tax shield on the
+capital structure in the consumer goods sub-sector company
+listed on the Stock Exchange in period 2008-2012. This study
+used purposive sampling method for sampling, in order to
+obtain a total of 12 companies by the number N = 60. Analytical
+method used is multiple regression analysis with the help of
+analysis tools SPSS version 18.0.Based on the analysis of data
+it can be concluded that there is influence of variables on
+capital structure and profitability has a negative direction. While
+for the variable firm size, growth opportunity, liquidity, asset
+structure, business risk and non-debt tax shield does not affect
+the capital structure.
+Keywords : capital structure, profitability, firm size, growth
+opportunity, liquidity, asset structure, business
+risk and non debt tax shield.
+PENDAHULUAN
+Perkembangan teknologi dan
+globalisasi
+yang
+begitu
+besar
+menyebabkan setiap perusahaan
+berupaya
+untuk
+dapat
+mempertahankan
+kelangsungan
+hidup perusahaan dengan cara
+melakukan penyesuaian terhadap
+perubahan-perubahan yang terjadi,
+baik secara eksternal maupun
+internal.
+Permasalahan ekstenal
+perusahaan yang harus dilakukan
+penyesuaian adalah adanya krisis
+ekonomi pada tahun 2008, sehingga
+dampaknya
+juga
+melanda
+di
+Indonesia
+yang
+mengakibatkan
+perusahaan-perusahaan di Indonesia
+mengalami kesulitan pendanaan.
+Selain
+permasalahan
+eksternal,
+terdapat
+juga
+permasalahan internal yang harus
+dilakukan penyesuaian. Salah satu
+contoh
+permasalahan
+internal
+
+1341
+
+perusahaan adalah masalah jumlah
+tenaga
+kerja
+yang
+semakin
+meningkat.
+Peningkatan
+jumlah
+tenaga kerja ini diikuti dengan
+kenaikan upah minimum, sehingga
+menyebabkan
+perusahaan
+akan
+kesulitan dalam hal pendanaan untuk
+mencukupi kebutuhan perusahaan.
+Untuk mengatasi permasalahanpermasalahan tersebut, perusahaan
+dipaksa untuk tetap membiayai
+operasional perusahaan, sehingga
+perusahaan
+cenderung
+menggunakan
+banyak
+dana
+tambahan
+untuk
+meningkatkan
+struktur modalnya guna memenuhi
+kebutuhan pasar akan barang
+konsumsi.
+Nilai produksi pada sektor
+industri pengolahan non migas tahun
+2008-2012 terbesar terdapat pada
+sub-sektor barang konsumsi. Secara
+berturut-turut nilai produksi dari tahun
+2008-2012 adalah 972,07 triliun,
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+1.166,18 triliun, 1.287,66 triliun,
+1.506,98 triliun dan 1.740,05 triliun
+(kamenperin.go.id,
+2013).
+Nilai
+produksi ini merupakan besarnya
+dana yang dikeluarkan oleh tiap-tiap
+perusahaan
+untuk
+membiayai
+kegiatan produksi. Artinya, semakin
+besar nilai produksi, jika dapat
+dikelola dengan baik maka dapat
+meningkatkan jumlah produk yang
+dihasilkan, sehingga pendapatan pun
+akan semakin meningkat dengan
+semakin banyaknya barang yang
+terjual.
+Namun, dalam kenyataannya
+Produk Domestik Bruto (PDB) di subsektor barang konsumsi mengalami
+pergerakan
+naik-turun
+yang
+signifikan.
+Secara
+berturut-turut
+pertumbuhan PDB sub-sektor barang
+konsumsi dari tahun 2008-2012
+adalah 2,34%; 11,22%; 2,78%;
+9,14% dan 7,74% (kamenperin.go.id,
+2013)
+Melihat begitu pentingnya
+struktur
+modal
+pada
+suatu
+perusahaan maka peneliti akan
+menganalisis
+faktor-faktor
+yang
+diduga mempengaruhi struktur modal
+perusahaan. Penelitian ini akan
+dianalisis pengaruh profitabilitas,
+ukuran
+perusahaan,
+growth
+opportunity, likuiditas, struktur aset,
+resiko bisnis dan non debt tax shield
+terhadap struktur modal, sebab dari
+beberapa
+penelitian
+terdahulu
+terdapat hasil penelitian yang tidak
+konsisten.
+Profitabilitas
+adalah
+kemampuan
+perusahaan
+dalam
+menghasilkan laba selama periode
+tertentu yang dapat digambarkan
+dengan menggunakan Return On
+Asset (ROA), yaitu perbandingan
+antara laba bersih dengan total aset.
+Hasil penelitian yang dilakukan oleh
+Murhadi (2011), Kholishoh (2012),
+Sabir dan Malik (2012), Nurita (2012),
+Ticoalu (2013) dan Liem dkk., (2013)
+menyatakan bahwa
+profitabilitas
+berpengaruh
+negatif
+terhadap
+struktur
+modal.
+Namun,
+hasil
+penelitian tersebut bertentangan
+1342
+
+dengan
+hasil
+penelitian
+dari
+Yusralaini
+dkk.,
+(2007),
+yang
+menyatakan bahwa
+profitabilitas
+berpengaruh positif terhadap struktur
+modal.
+Hasil
+penelitian
+dari
+Sulistyowati (2009) dan Seftianne
+dan
+Handayani
+(2011)
+juga
+menunjukkan hasil yang berbeda,
+yaitu profitabilitas tidak berpengaruh
+terhadap struktur modal.
+Ukuran
+perusahaan
+merupakan ukuran atau besarnya
+aset yang dimiliki perusahaan, yang
+menggambarkan
+kemampuan
+finansial perusahaan dalam suatu
+periode tertentu dan biasanya
+digambarkan dengan total aset. Hasil
+penelitian yang dilakukan oleh
+Deesomsak et al., (2004), Seftianne
+dan Handayani (2011), Murhadi
+(2011) dan Sabir dan Malik (2012)
+menyatakan
+bahwa
+ukuran
+perusahaan
+berpengaruh
+positif
+terhadap struktur modal. Namun,
+hasil penelitian tersebut berbeda
+dengan
+hasil
+penelitian
+dari
+Sulistyowati (2009) dan Ticoalu
+(2013) yang menyatakan bahwa
+ukuran perusahaan berpengaruh
+negatif terhadap struktur modal.
+Penelitian lain juga menunjukkan
+hasil yang berbeda, yaitu penelitian
+yang dilakukan oleh Kholishoh
+(2012), Nurita (2012) dan Liem dkk.,
+(2013) yang menyatakan bahwa
+ukuran
+perusahaan
+tidak
+berpengaruh
+terhadap
+struktur
+modal.
+Growth opportunity adalah
+kesempatan yang dimiliki oleh
+perusahaan dalam mengembangkan
+dirinya dalam pasar sehingga dapat
+meningkatkan
+nilai
+perusahaan
+dimasa depan. Hasil penelitian yang
+dilakukan oleh Kholishoh (2012)
+menyatakan
+bahwa
+growth
+opportunity
+berpengaruh
+positif
+terhadap struktur modal. Namun,
+hasil penelitian ini berbeda dengan
+hasil penelitian yang dilakukan oleh
+Deesomsak et al., (2004) dan
+Sefianne dan Handayani (2011) yang
+menyatakan
+bahwa
+growth
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+opportunity
+berpengaruh
+negatif
+terhadap struktur modal.
+Likuiditas
+menunjukkan
+kemampuan
+perusahaan
+untuk
+memenuhi kewajiban finansialnya
+yang harus segera dipenuhi. Hasil
+penelitian yang dilakukan oleh Sabir
+dan Malik (2012) menyatakan bahwa
+likuiditas
+berpengaruh
+positif
+terhadap struktur modal. Namun,
+hasil penelitian tersebut berbeda
+dengan
+hasil
+penelitian
+dari
+Deesomsak et al., (2004), Nurita
+(2012) dan Ticoalu (2013) yang
+menyatakan
+bahwa
+likuiditas
+berpengaruh
+negatif
+terhadap
+struktur modal. Berbeda pula dengan
+hasil penelitian dari Seftianne dan
+Handayani (2011) yang menyatakan
+bahwa
+tingkat
+likuiditas suatu
+perusahaan
+tidak
+berpengaruh
+terhadap struktur modal.
+Struktur aset menunjukkan
+seberapa
+besar
+aset
+tetap
+mendominasi komposisi kekayaan
+yang dimiliki perusahaan. Hasil
+penelitian yang dilakukan oleh
+Sulistyowati (2009), Murhadi (2011),
+Sabir dan malik (2012) dan Liem
+dkk., (2013) menyatakan bahwa
+struktur aset berpengaruh positif
+dengan struktur modal. Namun, hasil
+penelitian tersebut berbeda dengan
+hasil penelitian yang dilakukan oleh
+Deesomsak et al., (2004), Seftianne
+dan Handayani (2011) dan Kholishoh
+(2012) yang menyatakan bahwa
+struktur aset tidak berpengaruh
+terhadap struktur modal.
+Resiko bisnis adalah resiko
+dari perusahaan saat tidak mampu
+menutupi biaya operasionalnya yang
+dipengaruhi sebagai ketidakpastian
+pada perkiraan pendapatan operasi
+perusahaan dimasa mendatang.
+Hasil penelitian yang dilakukan oleh
+Ticoalu (2013) menyatakan bahwa
+resiko bisnis berpengaruh negatif
+terhadap struktur modal. Namun,
+hasil penelitian tersebut bertentangan
+dengan hasil penelitian dari Seftianne
+dan
+Handayani
+(2011)
+yang
+menyatakan bahwa resiko bisnis
+1343
+
+tidak berpengaruh terhadap struktur
+modal.
+Non debt tax shield (NDTS)
+adalah besarnya pengurang pajak
+akibat penggunaan selain hutang.
+Hasil penelitian yang dilakukan oleh
+Liem dkk., (2013), Nurita (2012) dan
+Deesimsak et al., (2004) menyatakan
+bahwa NDTS berpengaruh negatif
+terhadap struktur modal. Namun,
+hasil penelitian tersebut bertentangan
+dengan
+hasil
+penelitian
+yang
+dilakukan oleh Sulistyowati (2009)
+menunjukkan
+bahwa
+NDTS
+berpengaruh positif terhadap struktur
+modal. Berbeda halnya dengan hasil
+penelitian yang dilakukan oleh
+Murhadi (2011) yang menyatakan
+bahwa tidak ada pengaruh antara
+NDTS terhadap stuktur modal.
+Berdasarkan
+dari
+latar
+belakang masalah yang dikemukakan
+sebelumnya, maka rumusan masalah
+penelitian
+ini
+adalah:
+apakah
+profitabilitas, ukuran perusahaan,
+growth opportunity, likuiditas, struktur
+aset, resiko bisnis dan non debt tax
+shield secara simultan dan parsial
+berpengaruh terhadap struktur modal
+pada perusahaan sub-sektor barang
+konsumsi yang terdaftar di BEI
+periode 2008-2012 ?
+KAJIAN PUSTAKA
+Struktur Modal
+Struktur modal merupakan
+pembelanjaan permanen perusahaan
+yang mencerminkan perimbangan
+atau perbandingan antara hutang
+jangka panjang dengan modal
+perusahaan (Sudana, 2009:157).
+Struktur modal yang optimal adalah
+struktur modal yang harus berada
+pada keseimbangan antara resiko
+dan pengembalian (return) yang
+memaksimumkan
+harga
+saham
+(Brigham dan Houston, 2001:5).
+Rasio struktur modal yang dijadikan
+proksi dalam penelitian ini untuk
+mengukur struktur modal perusahaan
+dapat dirumuskan sebagai berikut:
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+LTDER =
+Profitabilitas
+Profitabilitas menurut Husnan
+(1996)
+menyatakan
+bahwa
+profitabilitas adalah kemampuan
+suatu
+perusahaan
+dalam
+menghasilkan keuntungan (profit)
+pada tingkat penjualan, aset, dan
+modal saham tertentu. Rasio yang
+digunakan
+untuk
+mengukur
+profitabilitas dalam penelitian ini
+adalah Return On Asset (ROA), yaitu
+perbandingan antara laba bersih
+perusahaan dengan total aset yang
+dimiliki perusahaan. Rasio ini dapat
+ditulis menggunakan rumus:
+ROA =
+Ukuran Perusahaan
+Ukuran
+Perusahaan
+menggambarkan
+besar
+kecilnya
+suatu perusahaan yang ditunjukan
+pada total aset, jumlah penjualan,
+rata-rata penjualan dan rata-rata total
+aset (Riyanto, 2001:298). Ukuran
+perusahaan dalam penelitian ini
+dapat diukur melalui logaritma natural
+dari total aset, sehingga dapat
+dinyatakan dalam rumus:
+Ukuran perusahaan = Ln (Total Aset)
+
+Growth Opportunity
+Growth
+opportunity
+menunjukkan
+kesempatan
+yang
+dimiliki oleh perusahaan dalam
+mengembangkan dirinya dalam pasar
+sehingga dapat meningkatkan nilai
+perusahaan dimasa depan. Growth
+opportunity dalam penelitian ini
+menggunakan Market to Book Value
+of Asset (MVABVA) sebagai proksi
+untuk menghitung growth opportunity.
+Rasio ini dapat dirumuskan sebagai
+berikut:
+
+Likuiditas
+
+1344
+
+Likuiditas menurut Riyanto
+(2001)
+adalah
+kemampuan
+perusahaan
+untuk
+memenuhi
+kewajiban finansialnya yang harus
+segera dipenuhi. Dengan demikian,
+likuiditas perusahaan ditunjukkan
+oleh besar kecilnya aset lancar.
+Tingkat likuiditas dapat diukur
+dengan rasio likuiditas yang salah
+satunya adalah current ratio. Rasio
+ini dapat dirumuskan sebagai berikut:
+Current Ratio =
+Struktur Aset
+Stuktur
+aset
+adalah
+perimbangan atau perbandingan
+antara aset lancar dengan aset tetap.
+Menurut
+Riyanto
+(2001:298),
+kebanyakan perusahaan industri
+dimana
+sebagian
+besar
+dari
+modalnya tertanam dalam aset tetap
+dan diasumsikan akan memperoleh
+hasil yang lebih besar dari aset tetap
+dibandingkan aset lancar yang
+dimilikinya, sehingga dapat dikatakan
+bahwa aset tetap menggambarkan
+aset
+yang
+benar-benar
+dapat
+memberikan
+hasil
+kepada
+perusahaan. Struktur aset dalam
+penelitian ini dapat diproksikan
+dengan menggunakan rasio aset
+tetap dengan total aset. Persamaan
+struktur aset dapat dirumuskan
+sebagai berikut:
+Struktur Aset =
+Resiko Bisnis
+Resiko bisnis merupakan
+resiko dari perusahaan saat tidak
+mampu
+menutupi
+biaya
+operasionalnya yang dipengaruhi
+sebagai
+ketidakpastian
+pada
+perkiraan
+pendapatan
+operasi
+perusahaan
+dimasa
+mendatang
+(Ambarwati, 2010:3). Menurut Ticoalu
+(2013), perusahaan yang memiliki
+leverage operasi yang tinggi, maka
+laba perusahaan memiliki sifat yang
+sangat peka atau sensitif terhadap
+penjualan.Tingkat leverage operasi
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+tersebut dapat dihitung dengan
+menggunakan Degree of Operating
+Leverage (DOL), yaitu dengan rumus
+sebagai berikut:
+DOL =
+Non Debt Tax Shield
+Non
+debt
+tax
+shield
+merupakan besarnya pengurang
+pajak akibat penggunaan selain
+hutang. Salah satu faktor yang dapat
+digunakan untuk mengurangi pajak
+selain
+bunga
+hutang
+adalah
+depresiasi
+atau
+penyusutan.
+Depresiasi
+dipergunakan
+dalam
+pengukuran non debt tax shield
+karena depresiasi merupakan salah
+satu faktor yang dapat digunakan
+untuk mengurangi pajak selain bunga
+hutang. Persamaan non debt tax
+shield dapat dirumuskan sebagai
+berikut:
+Non debt tax shield =
+Profitabilitas, Ukuran Perusahaan,
+Growth Opportunity, Likuiditas,
+Struktur Aset, Resiko Bisnis dan
+Non Debt Tax Shield
+Profitabilitas
+adalah
+kemampuan
+perusahaan
+untuk
+memperoleh laba dalam periode
+tertentu yang dapat dilihat dari rasio
+Return On Assets (ROA), yaitu
+perbandingan antara laba bersih
+perusahaan dengan total aset yang
+dimiliki perusahaan. Semakin besar
+ROA
+menunjukkan
+kinerja
+perusahaan semakin baik, karena
+return semakin besar, atau dengan
+kata lain peningkatan ROA akan
+memungkinkan meningkatkan laba
+ditahan, sehingga perusahaan tidak
+memerlukan pendanaan eksternal
+berupa hutang. Hal ini sesuai dengan
+pecking
+order
+theory
+yang
+menyatakan bahwa terdapat urutan
+preferensi pendanaan mulai dari
+pendanaan
+internal
+hingga
+menggunakan dana eksternal. Hal
+tersebut
+telah
+dibuktikan
+oleh
+1345
+
+beberapa peneliti, diantaranya oleh
+Murhadi (2011), Kholishoh (2012),
+Sabir dan Malik (2012), Nurita (2012),
+Ticoalu (2013) dan Liem dkk., (2013)
+yang
+menyatakan
+bahwa
+profitabilitas berpengaruh negatif
+terhadap struktur modal.
+Ukuran
+perusahaan
+merupakan ukuran besar kecilnya
+perusahaan yang diukur melalui
+logaritma natural dari total aset
+perusahaan. Ukuran perusahaan
+sangat
+berpengaruh
+terhadap
+kemampuan memperoleh pinjaman.
+Hal tersebut dikarenakan besar
+kecilnya ukuran perusahaan dapat
+dijadikan
+jaminan
+hutang
+perusahaan, sehingga perusahaanperusahaan
+yang
+lebih
+besar
+cenderung
+memiliki
+kapasitas
+meminjam relatif lebih baik karena
+jaminan yang dimiliki berupa aset
+bernilai lebih besar dibandingkan
+perusahaan kecil. Hal itu sesuai
+dengan
+signaling
+theory
+yang
+menyatakan bahwa perusahaan akan
+memberikan sinyal pada pihak
+eksternal. Jika sinyal itu positif, maka
+pihak eksternal akan tertarik untuk
+berinvestasi. Hal tersebut telah
+dibuktikan oleh beberapa peneliti,
+diantaranya oleh Deesomsak et al.,
+(2004), Seftianne dan Handayani
+(2011), Murhadi (2011) dan Sabir dan
+Malik (2012) yang menyatakan
+bahwa
+ukuran
+perusahaan
+berpengaruh positif terhadap struktur
+modal.
+Growth
+opportunity
+merupakan kesempatan yang dimiliki
+oleh
+perusahaan
+dalam
+mengembangkan
+dirinya
+dalam
+pasar. Perusahaan dengan tingkat
+pertumbuhan yang tinggi cenderung
+membutuhkan dana yang besar
+sehingga
+perusahaan
+akan
+menambah dana eksternal berupa
+hutang dalam struktur modalnya dari
+pada perusahaan dengan tingkat
+pertumbuhan yang lambat, sebab
+dana internal perusahaan tidak dapat
+mencukupi kebutuhan perusahaan.
+Hal ini sesuai dengan pecking order
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+theory yang menyatakan bahwa
+terdapat
+urutan
+preferensi
+pendanaan mulai dari pendanaan
+internal hingga menggunakan dana
+eksternal.
+Hal
+tersebut
+telah
+dibuktikan oleh Kholishoh (2012)
+yang menyatakan bahwa growth
+opportunity
+berpengaruh
+positif
+terhadap struktur modal.
+Likuiditas
+merupakan
+kemampuan
+perusahaan
+untuk
+memenuhi kewajiban finansialnya
+yang
+harus
+segera
+dipenuhi.
+Perusahaan dengan rasio likuiditas
+yang lebih tinggi akan mendukung
+rasio hutang yang relatif tinggi karena
+kemampuannya yang lebih besar
+untuk memenuhi kewajiban jangka
+pendeknya yang segera jatuh tempo.
+Perusahaan yang dapat segera
+mengembalikan
+hutang-hutangnya
+akan memberikan signal positif
+kepada kreditur, sehingga mendapat
+kepercayaan dari kreditur untuk
+menerbitkan hutang dalam jumlah
+besar. Hal tersebut sesuai dengan
+signaling theory yang menyatakan
+bahwa perusahaan akan memberikan
+sinyal pada pihak eksternal. Jika
+sinyal itu positif, maka pihak
+eksternal
+akan
+tertarik
+untuk
+berinvestasi. Hal tersebut telah
+dibuktikan oleh Sabir dan Malik
+(2012) yang menyatakan bahwa
+likuiditas
+berpengaruh
+positif
+terhadap struktur modal.
+Struktur aset menunjukkan
+seberapa
+besar
+aset
+tetap
+mendominasi komposisi yang dimiliki
+perusahaan.
+Struktur
+aset
+menggambarkan sebagian jumlah
+aset yang dapat dijadikan sebagai
+jaminan hutang. Semakin tinggi nilai
+struktur aset, maka semakin tinggi
+struktur modalnya dan semakin besar
+pula aset tetap yang dapat dijadikan
+jaminan hutang oleh perusahaan
+tersebut. Hal itu sesuai dengan
+signaling theory yang menyatakan
+bahwa perusahaan akan memberikan
+sinyal pada pihak eksternal. Jika
+sinyal itu positif, maka pihak
+eksternal
+akan
+tertarik
+untuk
+1346
+
+berinvestasi. Hal tersebut telah
+dibuktikan oleh beberapa peneliti,
+diantaranya oleh Sulistyowati (2009),
+Murhadi (2011), Sabir dan malik
+(2012) dan Liem et al., (2013) yang
+menyatakan bahwa struktur aset
+berpengaruh positif dengan struktur
+modal.
+Resiko bisnis merupakan
+resiko dari perusahaan saat tidak
+mampu
+menutup
+biaya
+operasionalnya yang dipengaruhi
+sebagai
+ketidakpastian
+pada
+perkiraan
+pendapatan
+operasi
+perusahaan dimasa mendatang.
+Perusahaan dengan resiko, akan
+lebih besar mengalami financial
+distress akan meminjam lebih sedikit
+dibandingkan perusahaan dengan
+resiko terjadinya financial distress
+yang
+lebih
+kecil
+(Ambarwati,
+2010:31). Hal itu sesuai dengan
+signaling theory yang menyatakan
+bahwa perusahaan akan memberikan
+sinyal pada pihak eksternal. Jika
+sinyal itu negatif, maka pihak
+eksternal tidak akan tertarik untuk
+berinvestasi. Hal tersebut telah
+dibuktikan oleh Ticoalu (2013) yang
+menyatakan bahwa resiko bisnis
+berpengaruh
+negatif
+terhadap
+struktur modal.
+Non
+Debt
+Tax
+Shield
+menunjukkan besarnya pengurang
+pajak akibat penggunaan selain
+hutang. Salah satu faktor yang dapat
+digunakan untuk mengurangi pajak
+selain
+bunga
+hutang
+adalah
+depresiasi
+atau
+penyusutan.
+Depresiasi mengindikasikan jumlah
+aset tetap yang dimiliki oleh
+perusahaan. Semakin besar aset
+tetap yang dimiliki oleh perusahaan,
+maka semakin besar pula biaya
+depresiasinya.
+Aset
+tersebut
+selanjutnya dapat digunakan sebagai
+asset kolateral untuk jaminan hutang
+pada waktu mengajukan hutang. Hal
+itu sesuai dengan signaling theory
+yang menyatakan bahwa perusahaan
+akan memberikan sinyal pada pihak
+eksternal. Jika sinyal itu positif, maka
+pihak eksternal akan tertarik untuk
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+berinvestasi. Hal tersebut telah
+dibuktikan oleh Sulistyowati (2009)
+yang menunjukkan bahwa non debt
+tax shield berpengaruh positif
+terhadap struktur modal.
+Hipotesis
+Sesuai dengan landasan teori
+yang dikemukakan maka hipotesis
+yang diajukan dalam penelitian ini
+adalah diduga profitabilitas, ukuran
+perusahaan, growth opportunity,
+likuiditas, struktur aset, resiko bisnis
+dan non debt tax shield secara
+simultan dan parsial berpengaruh
+terhadap
+struktur modal pada
+perusahaan
+sub-sektor
+barang
+konsumsi yang terdaftar di BEI
+periode 2008-2012.
+METODE
+Jenis penelitian ini merupakan
+rancangan penelitian konklusif yang
+bersifat kausal karena penelitian ini
+bertujuan untuk mendapatkan bukti
+hubungan sebab akibat antara
+profitabilitas, ukuran perusahaan,
+growth opportunity, likuiditas, struktur
+aset, resiko bisnis dan non debt tax
+shield terhadap struktur modal pada
+perusahaan
+sub-sektor
+barang
+konsumsi yang terdaftar di BEI
+periode 2008-2012. Data yang
+digunakan dalam penelitian ini adalah
+data kuantitatif berupa laporan
+keuangan pada perusahaan sub
+sektor barang
+konsumsi yang
+dipublikasikan oleh Bursa Efek
+Indonesia (BEI) selama lima tahun
+berturut-turut mulai periode tahun
+2008 sampai dengan tahun 2012.
+Data
+yang
+digunakan
+dalam
+penelitian ini adalah data sekunder
+yang berupa laporan keuangan
+(financial
+statement)
+utamanya
+laporan neraca dan laporan laba/rugi,
+yang bersumber dari Bursa Efek
+Indonesia
+(BEI),
+dan
+juga
+dokumentasi data statistik dari Biro
+Pusat Statistik (BPS). Selain itu juga
+dalam penelitian ini menggunakan
+data sekunder berupa analisis rasio1347
+
+rasio keuangan yang dibuat oleh
+Bursa Efek Indonesia (BEI).
+Populasi yang digunakan
+dalam
+penelitian
+ini
+adalah
+perusahaan
+sub-sektor
+barang
+konsumsi yang terdaftar di BEI
+periode
+2008-2012.
+Teknik
+pengambilan
+sampel
+dilakukan
+dengan metode purposive sampling
+yang
+merupakan
+pengambilan
+sampel
+dengan
+menggunakan
+kriteria-kriteria, sehingga diperoleh 12
+perusahaan yang digunakan sebagai
+sampel dalam penelitian ini.
+Teknik yang digunakan untuk
+mengumpulkan data dalam penelitian
+ini adalah dengan cara melakukan
+teknik dokumentasi. Pengumpulan
+data pada penelitian ini dilakukan
+dengan mengumpulkan data-data
+relevan mengenai variabel-variabel
+yang diteliti berupa data sekunder
+dalam bentuk dokumentasi dengan
+karakteristik
+berupa
+laporan
+keuangan
+(financial
+statement),
+utamanya laporan neraca dan
+laporan laba/rugi, dimana diperoleh
+melalui Bursa Efek Indonesia (BEI),
+dan juga dokumentasi data Biro
+Pusat
+Statistik
+(BPS)
+pada
+perusahaan
+sub-sektor
+barang
+konsumsi yang terdaftar di BEI
+periode 2008-2012.
+Teknik
+analisis
+data
+menggunakan analisis regresi linier
+berganda
+yang
+sebelumnya
+dilakukan
+uji
+asumsi
+klasik,
+diantaranya 1) uji normalitas, 2) uji
+multikolinieritas, 3) uji autokorelasi, 4)
+uji heteroskedastisitas. Kemudian
+melakukan pengujian hipotesis Uji F
+(secara simultan) dan Uji t (secara
+parsial).
+Selanjutnya
+melakukan
+pengujian koefisien determinasi untuk
+mengukur
+seberapa
+jauh
+kemampuan
+model
+dalam
+menerangkan
+variasi
+variabel
+dependen.
+Teknik analisi data yang
+digunakan dalam penelitian ini adalah
+teknik analisis regresi linier berganda.
+Analisis regresi linier berganda
+digunakan untuk mengetahui arah,
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+pengaruh, dan kekuatan hubungan
+dari variabel independen terhadap
+variabel dependen. Adapun model
+dasar dari regresi linier berganda dari
+penelitian ini dapat dirumuskan
+sebagai berikut :
+Y=α+
+
++
+
++
+
+e
+
+HASIL
+Penelitian ini menggunakan
+perusahaan yang terdaftar pada
+Bursa Efek Indonesia (BEI) pada
+sub-sektor barang konsumsi yang
+terdapat 24 perusahaan pada periode
+2008-2012. Namun melalui metode
+purposive sampling, jumlah sampel
+perusahaan yang tidak memenuhi
+kriteria terdapat 12 perusahaan,
+sehingga perusahaan sampel dalam
+penelitian ini terdapat 12 perusahaan.
+Hasil uji normalitas dapat
+dilihat pada grafik normal probability
+plot, terlihat bahwa pada grafik
+tersebut titik-titik menyebar disekitar
+garis diagonal dan mengikuti arah
+garis diagonal sehingga model
+regresi
+memenuhi
+asumsi
+uji
+normalitas. Hal itu diperkuat dengan
+menggunakan
+uji
+KolmogorovSmirnov (KS), diperoleh nilai KS
+sebesar 0,146 yang nilainya lebih
+besar dari 0,05 sehingga disimpulkan
+bahwa data berdistribusi normal.
+Hasil
+uji
+multikolinieritas
+menunjukkan nilai tolerance lebih dari
+0,1 dan nilai VIF kurang dari 10
+sehingga disimpulkan bahwa tidak
+terjadi gejala multikolinieritas. Hasil
+uji autokorelasi dengan melihat nilai
+Durbin-Watson sebesar 2,025 yang
+lebih besar dari DU sebesar 1,851
+dan lebih kecil dari 4-DU sebesar
+2,149 yang berarti bahwa tidak ada
+gejala autokorelasi pada model
+regresi. Hasil uji heterokedastisitas
+dapat dilihat pada gambar scatter plot
+dengan titik-titik menyebar baik di
+kanan dan di kiri angka 0 pada
+sumbu Y dan menyebar di atas dan
+di bawah angka 0 pada sumbu X
+sehingga dapat disimpulkan bahwa
+tidak
+terjadi
+gejala
+1348
+
+heteroskedastisitas dalam model
+regresi ini. Hal itu diperkuat dengan
+menggunakan
+uji
+spearman,
+diperoleh nilai signifikasi semua
+variabel lebih dari 0,05 sehingga
+dapat dikatakan bahwa tidak terjadi
+gejala heteroskedastisitas.
+Setelah memenuhi uji asumsi
+klasik kemudian dilakukan analisis
+regresi linier berganda dengan hasil
+yang terdapat pada tabel 1 sebagai
+berikut :
+Tabel 1.Hasil Analisis Regresi
+Linier Berganda
+Variabel
+Regresi
+(Constanta)
+Profitabilitas
+
+Nilai
+Sig.F
+
+Nilai
+Sig. T
+
+T
+
+0,721
+0,027
+
+-0,458
+-2,191
+
+0,423
+0,223
+0,359
+0,448
+0,657
+0,208
+
+0,031
+0,057
+0,042
+0,493
+-7,654E-5
+-0,757
+
+0,005
+
+Ukuran perusahaan
+Growth opportunity
+Likuiditas
+Struktur aset
+Resiko bisnis
+Non debt tax shield
+
+,311
+
+Sumber: Output SPSS, 2014
+Berdasarkan
+tabel
+1
+menunjukkan hasil uji F yaitu sebesar
+0,005
+lebih
+kecil
+dari
+0,05,
+menunjukkan bahwa secara simultan
+profitabilitas, ukuran perusahaan,
+growth opportunity, likuiditas, struktur
+aset, resiko bisnis dan non debt tax
+shield berpengaruh terhadap struktur
+modal.
+Hasil dari uji t menunjukkan
+bahwa
+variabel
+profitabilitas
+berpengaruh terhadap struktur modal
+dengan nilai signifikasi 0,027 < 0,05.
+Sedangkan
+variabel
+ukuran
+perusahaan, growth opportunity,
+likuiditas, struktur aset, resiko bisnis
+dan non debt tax shield tidak
+berpengaruh terhadap struktur modal
+dengan nilai signifikasi berturut-turut
+sebesar 0,423>0,05; 0,223>0,05;
+0,359>0,05; 0,448>0,05; 0,657>0,05
+dan 0,208>0,05. Persamaan regresi
+yang diperoleh dari hasil penelitian ini
+adalah sebagai berikut :
+LTDER = -0,458 – 2,191ROA + e
+Koefisien determinasi (R2)
+dalam penelitian ini dengan nilai
+Adjusted R Square sebesar 0,311
+atau 31,1%, artinya perubahan yang
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Adjusted
+2
+R
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+terjadi pada profitabilitas, ukuran
+perusahaan, growth opportunity,
+likuiditas, struktur aset, resiko bisnis
+dan non debt tax shield akan
+mempengaruhi
+struktur
+modal
+sebesar 31,1% dan sisanya 69,9%
+dipengaruhi oleh variabel bebas
+lainnya selain variabel bebas yang
+ada dalam penelitian ini.
+PEMBAHASAN
+Pengaruh Profitabilitas terhadap
+Struktur Modal
+Berdasarkan hasil analisis
+data pada penelitian ini, dapat
+disimpulkan bahwa secara parsial
+profitabilitas berpengaruh terhadap
+struktur modal pada perusahaan subsektor
+barang
+konsumsi
+dan
+mempunyai arah negatif. Hal ini
+dikarenakan
+perusahaan
+akan
+cenderung mengurangi hutang dalam
+struktur modalnya, karena besarnya
+laba bersih yang diterima perusahaan
+dirasa cukup untuk memenuhi
+kebutuhan operasional perusahaan
+tanpa harus menggunakan hutang,
+sedangkan semakin kecil laba bersih
+yang diterima, perusahaan akan
+menggunakan
+hutang
+untuk
+mencukupi kebutuhan perusahaan,
+sebab dana internal berupa laba
+tersebut tidak dapat mencukupi untuk
+memenuhi kebutuhan perusahaan.
+Hal ini didukung oleh pecking
+order theory yang mempunyai urutanurutan preferensi dalam memilih
+sumber pendanaan, mulai dari
+penggunaan dana internal hingga
+menggunakan pendanaan eksternal
+dari yang paling aman terlebih
+dahulu, yaitu dimulai dari obligasi,
+kemudian diikuti oleh sekuritas yang
+berkarakteristik opsi (seperti obligasi
+konversi), baru akhirnya apabila
+masih belum mencukupi, saham baru
+diterbitkan. Hasil ini konsisten
+dengan penelitian terdahulu yang
+dilakukan oleh Murhadi (2011),
+Kholishoh (2012), Sabir dan Malik
+(2012), Nurita (2012), Ticoalu (2013)
+
+1349
+
+dan Liem dkk., (2013) yang
+menyatakan bahwa
+profitabilitas
+berpengaruh
+negatif
+terhadap
+struktur modal.
+Pengaruh Ukuran Perusahaan
+terhadap Struktur Modal
+Berdasarkan hasil analisis
+data pada penelitian ini, dapat
+disimpulkan bahwa secara parsial
+ukuran
+perusahaan
+tidak
+berpengaruh terhadap penentuan
+hutang dalam struktur modal pada
+perusahaan sub sektor barang
+konsumsi. Artinya, besar kecilnya
+ukuran perusahaan yang dapat dilihat
+dari aset yang dimiliki perusahaan
+tidak mempengaruhi penggunaan
+hutang dalam struktur modal pada
+perusahaan
+sub-sektor
+barang
+konsumsi.
+Hal ini dikarenakan, jika aset
+yang dimiliki perusahaan tinggi dan
+perusahaan dapat mengelola aset
+tersebut dengan sebaik mungkin,
+maka produktifitas perusahaan akan
+semakin
+meningkat,
+dengan
+demikian penjualan perusahaan akan
+meningkat
+dan
+pendapatan
+perusahaan pun juga akan semakin
+meningkat.
+Jika
+pendapatan
+perusahaan
+meningkat,
+maka
+perusahaan
+akan
+mengurangi
+penggunakan pendanaan eksternal
+berupa hutang, sebab tingginya
+pendapatan
+perusahaan
+dirasa
+cukup untuk memenuhi kebutuhan
+operasional perusahaan. Namun, jika
+ukuran perusahan rendah yang
+berarti aset yang dimiliki perusahaan
+kecil, maka investor tidak akan mau
+berinvestasi
+pada
+perusahaan
+tersebut, karena tidak adanya
+jaminan hutang yang diberikan
+perusahaan berupa aset perusahaan.
+Hasil penelitian ini konsisten dengan
+hasil penelitian yang dilakukan oleh
+Kholishoh (2012), Nurita (2012) dan
+Liem dkk., (2013) yang menyatakan
+bahwa ukuran perusahaan tidak
+berpengaruh
+terhadap
+struktur
+modal.
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+Pengaruh Growth Opportunity
+terhadap Struktur Modal
+Berdasarkan hasil analisis
+data pada penelitian ini, dapat
+disimpulkan bahwa secara parsial
+growth opportunity tidak berpengaruh
+terhadap penentuan hutang dalam
+struktur modal pada perusahaan subsektor barang konsumsi. Artinya,
+besar kecilnya growth opportunity
+yang merupakan kesempatan yang
+dimiliki oleh perusahaan dalam
+mengembangkan dirinya dalam pasar
+yang diindikatori oleh market to book
+ratio of asset, tidak mempengaruhi
+penggunaan hutang dalam struktur
+modal yang optimal.
+Hal ini dikarenakan, tinggi
+rendahnya tingkat growth opportunity,
+perusahaan
+akan
+tetap
+menggunakan dana internal dari
+pada harus menggunakan hutang
+agar terhindar dari ketidakpastian,
+sebab perusahaan dengan growth
+opportunity yang tinggi, sering
+menghadapi ketidakpastian yang
+lebih besar sehingga cenderung
+mengurangi
+keinginannya
+untuk
+berhutang (Brigham dan Houston,
+2001:40). Untuk itu perusahaan akan
+menghindari penggunaan hutang,
+sebab dikhawatirkan perusahaan
+tidak bisa mengembalikan hutanghutang tersebut karena penggunaan
+hutang hanya akan menimbulkan
+resiko.
+Pengaruh
+Likuiditas
+Struktur Modal
+
+terhadap
+
+Berdasarkan hasil analisis
+data pada penelitian ini, dapat
+disimpulkan bahwa secara parsial
+likuiditas tidak berpengaruh terhadap
+penentuan hutang dalam struktur
+modal pada perusahaan sub-sektor
+barang konsumsi. Artinya, besar
+kecilnya likuiditas yang menunjukkan
+kemampuan
+perusahaan
+untuk
+membayar
+kewajiban
+jangka
+pendeknya yang segera jatuh tempo
+dengan menggunakan aset lancar
+yang dimiliki perusahaan, tidak
+1350
+
+mempengaruhi penggunaan hutang
+dalam struktur modal yang optimal,
+yang dalam hal ini merupakan hutang
+jangka panjang, sebab investor tidak
+melihat besar kecilnya aset lancar
+yang dimiliki perusahaan dalam
+memberikan hutang jangka panjang.
+Namun, dalam memberiikan
+hutang jangka panjang, investor lebih
+tertarik jika melihat besar kecilnya
+aset tetap yang dimiliki perusahaan,
+sebab aset tetap tersebut dapat
+dijadikan
+jaminan
+hutang
+jika
+perusahaan tidak mampu membayar
+kewajibannya
+tersebut.
+Hasil
+penelitian ini konsisten dengan hasil
+penelitian yang dilakukan oleh
+Seftianne dan Handayani (2011),
+yang menyatakan bahwa likuiditas
+tidak berpengaruh terhadap struktur
+modal.
+Pengaruh Struktur Aset terhadap
+Struktur Modal
+Berdasarkan hasil analisis
+data pada penelitian ini, dapat
+disimpulkan bahwa secara parsial
+struktur aset tidak berpengaruh
+terhadap penentuan hutang dalam
+struktur modal pada perusahaan sub
+sektor barang konsumsi. Artinya,
+besar kecilnya struktur aset yang
+menunjukkan seberapa besar aset
+tetap mendominasi kekayaan yang
+dimiliki
+perusahaan,
+tidak
+mempengaruhi penggunaan hutang
+dalam struktur modal yang optimal.
+Hal ini dikarenakan perusahaan
+memiliki efektifitas pengelolahan aset
+perusahaan. Dimana jika aset yang
+dimiliki perusahaan dapat dikelola
+dengan sebaik mungkin, maka dapat
+meningkatkan
+hasil
+produksi,
+sehingga
+perusahaan
+akan
+memperoleh tingkat penjualan yang
+lebih tinggi dan perusahaan akan
+mendapatkan pendapatan yang lebih
+banyak. Hal ini membuat perusahaan
+memiliki dana internal yang lebih
+besar sehingga perusahaan akan
+mengurangi ketergantungan untuk
+menggunakan dana eksternal berupa
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+hutang untuk membiayai kebutuhan
+perusahaan.
+Disisi lain, jika aset tetap yang
+dimiliki perusahaan kecil, maka
+perusahaan
+akan
+mengalami
+kesulitan
+dalam
+menggunakan
+hutang, sebab tidak adanya jaminan
+hutang membuat investor kurang
+percaya jika harus berinvestasi pada
+perusahaan tersebut. Hasil penelitian
+ini konsisten dengan hasil penelitian
+yang dilakukan oleh Deesomsak et
+al., (2004), Seftianne dan Handayani
+(2011) dan Kholishoh (2012) yang
+menyatakan bahwa struktur aset
+tidak berpengaruh terhadap struktur
+modal.
+Pengaruh Resiko Bisnis terhadap
+Struktur Modal
+Berdasarkan hasil analisis
+data pada penelitian ini, dapat
+disimpulkan bahwa secara parsial
+resiko bisnis tidak berpengaruh
+terhadap penentuan hutang dalam
+struktur modal pada perusahaan subsektor barang konsumsi. Artinya,
+bahwa besar kecilnya resiko bisnis
+yang menunjukkan resiko dari
+perusahaan saat tidak mampu
+menutup biaya operasionalnya yang
+dipengaruhi sebagai ketidakpastian
+pada perkiraan pendapatan operasi
+perusahaan dimasa mendatang, tidak
+mempengaruhi penggunaan hutang
+dalam struktur modal yang optimal.
+Hal ini dapat dilihat dari besar
+kecilnya
+pendapatan
+operasi
+perusahaan
+dari
+penjualan
+perusahaan.
+Apabila
+penjualan
+perusahaan
+meningkat,
+maka
+pendapatan perusahaan juga akan
+semakin
+meningkat,
+sehingga
+perusahaan cenderung tidak akan
+menggunakan hutang dan hanya
+akan menggunakan dana internal
+untuk
+membiayai
+kebutuhan
+perusahaan. Begitu juga sebaliknya,
+jika penjualan perusahaan menurun,
+maka pendapatan perusahaan juga
+akan semakin menurun, sehingga
+investor tidak akan mau untuk
+
+1351
+
+berinvestasi
+pada
+perusahaan
+tersebut. Hasil penelitian ini konsisten
+dengan
+hasil
+penelitian
+yang
+dilakukan
+oleh
+Seftianne
+dan
+Handayani (2011) yang menyatakan
+bahwa
+resiko
+bisnis
+tidak
+berpengaruh
+terhadap
+struktur
+modal.
+Pengaruh Non Debt Tax Shield
+terhadap Struktur Modal
+Berdasarkan hasil analisis
+data pada penelitian ini, dapat
+disimpulkan bahwa secara parsial
+non debt tax shield tidak berpengaruh
+terhadap penentuan hutang dalam
+struktur modal pada perusahaan subsektor barang konsumsi. Artinya
+bahwa besar kecilnya non debt tax
+shield yang menunjukkan besarnya
+pengurang pajak akibat penggunaan
+selain hutang, yaitu depresiasi tidak
+mempengaruhi penggunaan hutang
+dalam struktur modal yang optimal.
+Hal ini dikarenakan besarnya
+depresiasi yang menggambarkan
+besarnya aset tetap yang dimiliki
+perusahaan, jika aset yang dimiliki
+perusahaan dapat dikelola dengan
+sebaik
+mungkin,
+maka
+dapat
+meningkatkan
+hasil
+produksi,
+sehingga
+perusahaan
+akan
+memperoleh tingkat penjualan yang
+lebih tinggi dan perusahaan akan
+mendapatkan pendapatan yang lebih
+banyak. Hal ini membuat perusahaan
+memiliki dana internal yang lebih
+besar sehingga perusahaan akan
+mengurangi ketergantungan untuk
+menggunakan dana eksternal berupa
+hutang untuk membiayai kebutuhan
+perusahaan. Disisi lain, jika aset
+tetap yang dimiliki perusahaan kecil,
+maka perusahaan akan mengalami
+kesulitan
+dalam
+menggunakan
+hutang, sebab tidak adanya jaminan
+hutang membuat investor kurang
+percaya jika harus berinvestasi pada
+perusahaan
+tersebut.
+Hal
+ini
+konsisten dengan hasil penelitian
+yang dilakukan oleh Murhadi (2011)
+yang menyatakan bahwa non debt
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+tax
+shield
+tidak
+berpengaruh
+terhadap struktur modal.
+KESIMPULAN
+Berdasarkan hasil analisis
+dan pembahasan, secara simultan
+profitabilitas, ukuran perusahaan,
+growth opportunity, likuiditas, struktur
+aset, resiko bisnis dan non debt tax
+shield berpengaruh terhadap struktur
+modal pada perusahaan sub-sektor
+barang konsumsi yang terdaftar di
+Bursa Efek Indonesia (BEI) periode
+2008-2012.
+Secara parsial profitabilitas
+berpengaruh terhadap struktur modal
+pada perusahaan sub sektor barang
+konsumsi yang terdaftar di Bursa
+Efek Indonesia (BEI) periode 20082012. Sedangkan secara parsial
+ukuran
+perusahaan,
+growth
+opportunity, likuiditas, struktur aset,
+resiko bisnis dan non debt tax shield
+tidak berpengaruh terhadap struktur
+modal pada perusahaan sub-sektor
+barang konsumsi yang terdaftar di
+Bursa Efek Indonesia (BEI) periode
+2008-2012.
+Manajemen
+perusahaan
+dalam menentukan komposisi hutang
+pada struktur modal perusahaan,
+dapat mempertimbangkan faktorfaktor yang mempengaruhi kebijakan
+struktur modal perusahaan terutama
+profitabilitas perusahaan, karena
+profitabilitas
+mempengaruhi
+penggunaan hutang dalam struktur
+modal yang optimal.
+Investor
+yang
+akan
+menanamkan modalnya ke dalam
+perusahaan
+sebaiknya
+lebih
+memperhatikan kondisi fundamental
+perusahaan.
+Terutama
+pada
+profitabilitas
+perusahaan,
+sebab
+profitabilitas yang tinggi memberikan
+jaminan pembayaran pokok pinjaman
+dan bunga hutang yang pasti.
+Pada penelitian selanjutnya
+disarankan untuk menambah faktorfaktor lain yang diteliti diluar
+penelitian ini, misalnya: stabilitas
+penjualan,
+tingkat pertumbuhan,
+
+1352
+
+pengendalian, sikap manajemen,
+sikap pemberian pinjaman dan
+lembaga penilai peringkat, kondisi
+pasar, kondisi internal perusahaan,
+fleksibilitas keuangan, dsb.
+DAFTAR PUSTAKA
+Ambarwati, Sri Dwi Ari. 2010.
+Manajemen Keuangan Lanjut.
+Edisi Pertama. Yogyakarta:
+Graha Ilmu.
+BEI. 2012. IDX Yearly Statistics 2008
+- 2012. Indonesia Stock
+Exchange.
+Online
+(www.idx.co.id, diakses 12
+Desember 2013).
+Brigham, Eugene F dan Houtson,
+Joel F. 2001. Manajemen
+Keuangan. Edisi Kedelapan,
+Buku 2. Terjemahan oleh
+Herman Wibowo. Jakarta:
+Erlangga.
+Deesomsak, Rataporn., Paudyal,
+Krishna dan Pescetto, Gioia.
+2004. The Determinants of
+Capital Structure : Evidence
+From The Asia Paciﬁc Region.
+Journal
+of
+multinational
+ﬁnancial management14(4-5):
+387-405.
+Husnan, Suad. 1996. Manajemen
+Keuangan
+Teori
+dan
+Penenrapan
+(Keputusan
+Jangka
+Pnajang).
+Edisi
+Keempat, Buku1. Yogyakarta:
+BPFE Yogyakarta.
+Kementrian Perindustrian Republik
+Indonesia. 2013. Laporan
+Perkembangan
+Kemajuan
+Program Kerja Kementrian
+Perindustrian Tahun 20042012.
+Online
+(www.kemenperin.go.id,
+diakses 12 Desember 2013).
+Kholishoh,
+Nur
+Jihan.
+2012.
+Pengaruh Struktur Aktiva,
+Profitabilitas,
+Ukuran
+Perusahaan, dan Growth
+Opportunity Terhadap Struktur
+Modal
+pada
+Perusahaan
+Sektor
+Industri
+Barang
+Konsumsi yang Terdaftar Di
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+Bagus Tri Prasetya dan Nadia Asandimitra; Pengaruh Profitabilitas, Ukuran …
+
+Bursa Efek Indonesia (BEI).
+Skripsi tidak dipublikasikan.
+Surabaya:
+Jurusan
+Manajemen,
+Fakultas
+Ekonomi, Universitas Negeri
+Surabaya.
+Liem, Jemmi Halim., Murhadi,
+Werner R dan Sutejo, Bertha
+Silvia. 2013. Faktor-Faktor
+yang Mempengaruhi Struktur
+Modal
+pada
+Industri
+Consumer
+Goods
+yang
+terdaftar di BEI Periode 20072011.
+Jurnal
+Ilmiah
+Mahasiswa
+Universitas
+Surabaya 2 (1): 1-7.
+Murhadi,
+Werner
+R.
+2011.
+Determinan Struktur Modal:
+Studi Di Asia Tenggara.
+Jurnal
+Ilmiah
+Mahasiswa
+Universitas Surabaya 2 (1): 114
+Nurita, Dea. 2012. Analisis Pengaruh
+Profitabilitas, Firm Size, Non
+Debt Tax Shield, Deviden
+Payout Ratio dan Likuiditas
+Terhadap
+Struktur Modal
+(Pada
+Perusahaan
+Manufaktur yang Terdaftar Di
+Bursa Efek Indonesia Periode
+Tahun 2007-2010. Skripsi
+dipublikasikan.
+Semarang:
+Program
+Studi
+Sarjana
+Universitas Diponegoro.
+Riyanto, Bambang. 2001. DasarDasar
+Pembelanjaan
+Perusahaan. Edisi Keempat.
+Yogyakarta: BPFE.
+Sabir, Mahvish dan Malik, Qaisar Ali.
+2012. Determinan of Capital
+Strukture – A Study of Oil and
+Gas Sector of Pakistan.
+Interdisciplinary Journal of
+Contemporary Research in
+Business3 (10): 395-400.
+Seftianne dan Handayani, Ratih.
+2011. Faktor-Faktor yang
+Mempengaruhi Struktur Modal
+pada
+Perusahaan
+Publik
+Sektor Manufaktur. Jurnal
+Bisnis dan Akuntansi 13 (1):
+39-56.
+
+1353
+
+Sudana, I Made. 2009. Manajemen
+Keuangan Perusahaan Teori
+dan
+Praktik.
+Jakarta:
+Erlangga.
+Sulistyowati, Wiwit Apit. 2009.
+Penentuan Kebijakan Struktur
+Modal
+Pada
+Perusahaan
+Manufaktur Di Bursa Efek
+Indonesia.
+Jurnal
+Ilmiah
+Mahasiswa Universitas Riau 3
+(2): 1-9
+Ticoalu, Rouben M.A. 2013. FaktorFaktor yang Mempengaruhi
+Struktur
+Modal
+Pada
+Perusahaan
+Di
+Sektor
+Agrikultur yang Terdaftar Di
+Bursa Efek Indonesia Periode
+2007-2011.
+Jurnal
+Ilmiah
+Mahasiswa
+Universitas
+Surabaya2 (2): 1-27
+Yusralaini, Hardi dan Dwiani, Septi.
+2007. Analisis Faktor-Faktor
+yang Mempengaruhi Struktur
+Modal
+pada
+Perusahaan
+Manufaktur yang Listing Di
+Bursa Efek Indonesia. Jurnal
+Ilmiah Mahasiswa Universitas
+Riau 3 (2): 1-11
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 4 Oktober 2014
+
+

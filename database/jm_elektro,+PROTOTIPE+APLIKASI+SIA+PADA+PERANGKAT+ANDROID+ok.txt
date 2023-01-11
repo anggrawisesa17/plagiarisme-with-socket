@@ -1,0 +1,825 @@
+E-journal Teknik Elektro dan Komputer (2013), ISSN : 2301-8402
+
+1
+
+Prototipe Aplikasi Sistem Informasi
+Akademik Pada Perangkat Android
+Alicia Sinsuw, Xaverius Najoan
+Program Studi Teknik Informatika, Jurusan Teknik Elektro
+Fakultas Teknik Universitas Sam Ratulangi Manado
+e-mail : tricia3123@yahoo.com
+
+ABSTRAK
+Aplikasi sistem informasi akademik memudahkan
+pengguna untuk melakukan kegiatan administratif
+akademik. Fungsinya adalah untuk membantu seluruh
+komponen perguruan tinggi dalam pengelolaan data nilai
+mahasiswa, mata kuliah, data staf pengajar (dosen) serta
+administrasi fakultas/jurusan yang sifatnya masih
+manual untuk dikerjakan dengan bantuan Software agar
+mampu mengefektifkan waktu dan menekan biaya
+operasional. Masalah keterbatasan fleksibilitas akses
+sistem informasi akadeik yang mengharuskan pengguna
+terhubug dengan internet secara statis menyebabkan
+perlu
+dirancang suatu aplikasi sistem informasi
+akademik yang mampu memenuhi kebutuhan fleksibilitas
+dari para user untuk dapat melakukan akses dengan
+lebih mudah dan cepat, dalam hal ini melalui perangkat
+smartphone yang saat ini sangat banyak digunakan
+karenan harganya yang cukup terjangkau dan fasilitas
+layanannya yang cukup menjanjikan.
+Penelitian ini bertujuan untuk
+merancang sistem
+informasi akademik berbasis android, yang dapat diakses
+melalui perangkat bergerak (mobile) untukmemudahkan
+akses yang lebih fleksibel. Input sistem mengacu kepada
+sistem informasi akademik yang telah diimplementasikan
+di Universitas Sam Ratulangi. Keluaran dari sistem
+informasi ini dapat memberikan informasi yang relevan
+dan up to date bagi stakeholder (calon mahasiswa, dosen,
+mahasiswa, administrasi, pengguna lulusan), dimana
+saja dan kapan saja.
+Kata kunci : Android, Mobile, Sistem Informasi Akademik,
+SIT.
+
+1. PENDAHULUAN
+Perkembangan penggunaan perangkat bergerak
+(mobile) khususnya smartphone pada beberapa tahun
+terakhir ini meningkat dengan pesat sehingga
+mendorong pengembangan di domain komputasi
+bergerak (mobile computing) yang bertujuan untuk
+mendapatkan akses informasi yang cepat, akurat dan
+fleksibel.
+
+Perguruan tinggi adalah salah satu sektor publik
+yang telah memanfaatkan perkembangan teknologi
+informasi melalui aplikasi Sistem Informasi
+Akademik yang telah dirancang secara khusus untuk
+memenuhi kebutuhan Perguruan Tinggi yang
+menginginkan layanan pendidikan terkomputerisasi
+untuk meningkatkan kinerja, kualitas layanan, daya
+saing serta kualitas SDM yang dihasilkan.
+Pengaksesan sistem informasi akademik yang sudah
+diimplementasikan ini masih kurang fleksibel karena
+hanya bisa dilakukan melalui komputer yang
+terhubung ke jaringan internet.Untuk itu perlu
+dirancang suatu aplikasi sistem informasi akademik
+yang mampu memenuhi kebutuhan fleksibilitas dari
+para user untuk dapat melakukan akses dengan lebih
+mudah dan cepat.
+Adapun empat tujuan dan manfaat yang ingin
+dicapai dalam penelitian ini adalah membuat
+perancangan aplikasi sistem informasi akademik pada
+perangkat
+smartphone
+android.
+Selanjutnya
+mengintegrasikan sistem informasi akademik
+berbasis web pada perangkat smarphone android,
+kemudian melakukan pengujian desain dan
+fungsional aplikasi, dan yang terakhir adalah
+mengaplikasikan cloud computing untuk sistim
+informasi akademik
+Terdapat tiga manfaat yang diharapkan dari hasil
+penelitian ini yaitu mempercepat dan memperlancar
+proses administrasi mahasiswa. Manfaat kedua
+adalah mempertinggi value added dan comparatif
+advantage. Dalam rangka menyongsong era
+informasi global dan untuk tetap eksis di persaingan
+dunia pendidikan yang semakin ketat, maka setiap
+lembaga pendidikan perlu memiliki nilai tambah dan
+daya saing yang kuat. Kemudian manfaat terakhir
+adalah memudahkan masyarakat kampus pengguna
+telepon bergerak smartphone untuk melakukan akses
+ke dalam Sistem Informasi Akademik dengan lebih
+fleksibel, dari mana saja dan kapan saja, selama
+tersedia jaringan untuk perangkat telepon bergerak
+tersebut.
+
+E-journal Teknik Elektro dan Komputer (2013), ISSN : 2301-8402
+
+II. TINJAUAN PUSTAKA
+A. Sistem Informasi
+Sistem adalah sekelompok unsur yang erat
+hubungannya satu dengan yang lain yang berfungsi
+bersama-sama untuk mencapai tujuan tertentu.
+Pendekatan sistem yang lebih menekankan pada
+prosedur menurut Jogiyanto, 1999 :Sistem adalah
+suatu jaringan kerja prosedur-prosedur yang saling
+berhubungan, berkumpul bersama-sama untuk
+melakukan suatu kegiatan atau untuk menyelesaikan
+suatu sasaran tertentu.
+Informasi adalah salah satu sarana untuk
+memperkenalkan suatu perusahaan atau organisasi,
+sangat erat hubungannya dengan perkembangan
+organisasi yang masih dalam tahap perkembangan.
+Dengan tidak adanya informasi, maka suatu
+organisasi tidak akan pernah dapat cepat berkembang
+seperti apa yang diinginkan.
+Sistem informasi dapat berupa gabungan
+dari beberapa elemen teknologi berbasis komputer
+yang saling berinteraksi dan bekerja sama
+berdasarkan suatu prosedur kerja yang telah
+ditetapkan, dimana memproses dan mengolah data
+menjadi suatu bentuk informasi yang dapat
+digunakan dalam mendukung keputusan.
+B. Pembentukan Sistem
+Menurut
+Raymond McLeod, proses
+pengembangan sistem mencakup 5 (lima) tahapan,
+yaitu Tahap Perencanaan, Tahap Analisis, Tahap
+Rancangan, Tahap Implementasi, dan yang terakhir
+adalah Tahap Penggunaan.
+Sistem dapat mendukung penyelesaian
+pekerjaan yang diperlukan. Hal tersebut dilakukan
+antara lain untuk menjaga agar sistem selalu ‘Up-todate’ dan sesuai dengan pekerjaan, meningkatkan
+kinerja karena adanya saran-saran baru yang lebih
+baik, serta memperbaiki kesalahan-kesalahan yang
+ada.
+C. Sistem Operasi Android
+Android adalah sistem operasi untuk telepon
+seluler yang berbasis Linux, yang mencakup sistem
+operasi, middleware dan aplikasi.Android tidak
+terikat ke satu merek telepon seluler. Android
+menyediakan platform terbuka bagi para pengembang
+untuk menciptakan aplikasi mereka sendiri hingga
+dapat digunakan oleh berbagai peranti mobile.
+Beberapa fitur utama dari Android antara
+lain WiFi hotspot, Multi-touch, Multitasking, GPS,
+support java, mendukung banyak jaringan
+(GSM/EDGE, IDEN, CDMA, EV-DO, UMTS,
+Bluetooth, Wi-Fi, LTE, and WiMAX) dan juga
+kemampuan dasar telepon seluler pada umumnya.
+
+2
+
+Android OS
+Android OS adalah sistem operasi yang
+berbasis Linux, sistem operasi open source.Selain
+Android Software Development Kit (SDK) untuk
+pengembangan aplikasi, android juga tersedia bebas
+dalam bentuk sistem operasi. Hal ini yang
+menyebabkan vendor-vendor smartphone begitu
+berminat untuk memproduksi smartphone dan
+komputer tablet berbasis Android.
+Android OS dapat diunduh dari situs resmi
+google, yaitu http://www.code.google.com.Saat ini
+Android OS sudah menyebar bukan hanya di
+smartphone saja, tetapi juga di komputer tablet.
+Android SDK (Software Development Kit)
+Android SDK adalah tools API (Aplication
+Programming Interface) yang diperlukan untuk
+mengembangkan aplikasi pada platform Android
+menggunakan bahasa pemrograman Java. Beberapa
+fitur-fitur Android yang paling penting adalah mesin
+Virtual Dalvik yang dioptimalkan untuk perangkat
+mobile, integrated browser berdasarkan engine open
+source WebKit, Grafis yang dioptimalkan dan
+didukung oleh libraries grafis 2D, grafis 3D
+berdasarkan spesifikasi opengl ES 1.0 (Opsional
+akselerasi perangkat keras), kemudian SQLite untuk
+penyimpanan data (database). Fitur-fitur android
+lainnya termasuk media yang mendukung audio,
+video, dan gambar, juga ada fitur bluetooth, EDGE,
+3G dan WiFi, dengan fitur kamera, GPS, dan
+kompas. Selanjutnya fitur yang juga turut disediakan
+adalah lingkungan Development yang lengkap dan
+kaya termasuk perangkat emulator, tools untuk
+debugging, profil dan kinerja memori, dan plugin
+untuk IDE Eclipse.
+AVD (Android Virtual Device)
+Android Virtual Device merupakan emulator
+untuk
+menjalankan
+aplikasi
+android
+(http://developer.android.com/guide/developing/devi
+ces/index.html),yang tampilannya dapat dilihat pada
+gambar 1. Setiap AVD terdiri dari sebuah profil
+perangkat keras yang dapat mengatur pilihan untuk
+menentukan fitur hardware emulator. Misalnya,
+menentukan apakah menggunakan perangkat kamera,
+apakah menggunakan keyboard QWERTY fisik atau
+tidak, berapa banyak memori internal, dan lain-lain.
+AVD juga memiliki sebuah pemetaan versi Android,
+maksudnya kita menentukan versi dari platform
+Android akan berjalan pada emulator. Pilihan lain
+dari AVD, misalnya menentukan skin yang kita ingin
+gunakan pada emulator, yang memungkinkan untuk
+menentukan dimensi layar, tampilan, dan sebagainya.
+Kita juga dapat menentukan SD Card virtual untuk
+digunakan dengan di emulator
+
+3
+
+E-journal Teknik Elektro dan Komputer (2013), ISSN : 2301-8402
+
+Gambar 1. Tampilan AVD
+
+D. Bahasa Pemrograman Java
+Bahasa
+pemrograman
+Java
+dapat
+dikategorikan sebagai sebuah bahasa pemrograman
+berorientasi objek, pemrograman terdistribusi dan
+bahasa pemrograman multithreaded.Objek Java
+dispesifikasi dengan membentuk kelas. Untuk
+masing-masing
+kelas
+Java,
+kompiler
+Java
+memproduksi sebuah file keluaran arsitektur netral
+yang akan jalan pada berbagai implementasi dari
+Java Virtual Machine (JVM).
+E. Integrated Development Environment (IDE)
+Eclipse
+Eclipse adalah sebuah IDE (Integrated
+Development Environment) untuk mengembangkan
+perangkat lunak dan dapat dijalankan di semua
+platform. Tampilan dari eclipse dapat dilihat pada
+gambar 2. Adapun tiga sifat dari Eclipse adalah
+sebagai berikut. pertama Multi-platform dimana
+target sistem operasi Eclipse adalah Microsoft
+Windows, Linux, Solaris, AIX, HP-UX dan Mac OS
+X. kedua adalah multi-language, hal mana Eclipse
+dikembangkan dengan bahasa pemrograman Java,
+akan tetapi Eclipse mendukung pengembangan
+aplikasi berbasis bahasa pemrograman lainnya,
+seperti C/C++, Cobol, Python, Perl, PHP, dan lain
+sebagainya. Dan yang terakhir adalah Multi-role
+yaitu selain sebagai IDE untuk pengembangan
+aplikasi, Eclipse pun bisa digunakan untuk aktivitas
+dalam siklus pengembangan perangkat lunak, seperti
+dokumentasi, test perangkat lunak, pengembangan
+web, dan lain sebagainya.
+Eclipse pada saat ini merupakan salah satu
+IDE favorit dikarenakan gratis dan open source, yang
+berarti setiap orang dapat melihat kode pemrograman
+perangkat lunak ini. Selain itu, kelebihan dari Eclipse
+yang membuatnya populer adalah kemampuannya
+untuk dapat dikembangkan oleh pengguna dengan
+komponen yang dinamakan plug-in.
+
+Gambar 2. Tampilan Eclipse
+
+Konsep Eclipse adalah IDE yang terbuka,
+mudah diperluas untuk apa saja, dan tidak untuk
+sesuatu yang spesifik. Jadi, Eclipse tidak saja untuk
+mengembangkan program Java, akan tetapi dapat
+digunakan untuk berbagai macam keperluan, cukup
+dengan menginstal plug-in yang dibutuhkan.
+
+III. METODOLOGI PENELITIAN
+A. Lokasi dan Waktu Penelitian
+Lokasi penelitian bertempat di Laboratorium
+Teknik Informatika Fakultas Teknik Unsrat selama 4
+bulan, kemudian 2 bulan berikutnya berupa uji coba
+dan monitoring dilaksanakan dari berbagai titik
+lokasi untuk menguji sinyal dan akses aplikasi.
+B. Teknik Pengumpulan Data dan Metode Analisa
+Data
+Untuk memperoleh data dan informasi
+dalam penelitian ini, maka digunakan dua jenis
+teknik pengumpulan data, yaitu teknik pengumpulan
+data primer dan teknik pengumpulan data sekunder.
+Teknik Pengumpulan Data Primer
+Dalam penelitian ini, data primer diperoleh dengan
+cara-cara wawancara, penyebaran angket/kuesioner
+dan observasi atau pengamatan langsung di lapangan.
+Teknik Pengumpulan Data Sekunder
+Data sekunder ini dikumpulkan antara lain melalui
+studi pustaka, yaitu pengumpulan data dengan cara
+mempelajari, mendalami konsep dari sejumlah
+sumber referensi atau literature yang relevan dengan
+topik penelitian.
+Metode analisa data yang digunakan dalam
+penelitian ini adalah metode deskriptif kualitatif.
+
+4
+
+E-journal Teknik Elektro dan Komputer (2013), ISSN : 2301-8402
+
+C. Metodologi Penelitian
+Metodologi Penelitian yang dilakukan pada
+penelitian ini terdiri dari beberapa tahap, yaitu :
+Tahap Persiapan
+Pada tahap ini dilakukan kajian literatur, perumusan
+masalah dan penentuan tujuan penelitian.
+Tahap Analisis
+Pada tahap ini dilakukan analisis kebutuhan
+pengguna melalui survey lapangan aplikasi sistem
+informasi akademik eksisting.
+Tahap Perancangan
+Pada tahap ini dilakukan perancangan struktur basis
+data yang akan digunakan oleh aplikasi, juga dibuat
+tampilan aplikasi, dimana source code dibuat dengan
+menggunakan software eclipse.
+Tahap Implementasi
+Pada tahap ini dilakukan implementasi sistem dan
+basis data. Implementasi sistem akan dikembangkan
+pada perangkat mobile android.
+
+Tahap Pelaporan.
+Tahap ini adalah tahapan akhir yang terdiri dari
+kesimpulan,
+saran-saran
+perbaikan
+dan
+pengembangan sistem dan penulisan laporan.
+IV. HASIL DAN PEMBAHASAN
+A. Analisis Perancangan
+Beberapa tahapan dalam perancangan aplikasi ini
+adalah seperti yang dapat diuraikan berikut.
+Penyiapan kebutuhan pengguna. Pada tahap ini
+dilakukan survei pada aplikasi existing, untuk melihat
+fungsi-fungsi yang ada pada aplikasi existing.
+Tahap analisis terhadap pengguna yang telah
+ditentukan pada tahap sebelumnya dan analisis
+domain untuk menentukan fungsi-fungsi yang dapat
+dilakukan oleh sistem aplikasi serta menentukan class
+yang dibutuhkan untuk realisasi fungsi-fungsi
+tersebut.
+
+Start
+
+Tahap Pengujian
+Pada tahap ini dilakukan pengujian desain dan
+pengujian fungsional yang bertujuan untuk menguji
+apakah implementasi sistem sudah sesuai dengan
+rancangan dan model system serta untuk menguji
+apakah sistem yang dikembangkan melakukan
+fungsi-fungsi yang bersesuaian dengan tujuannya.
+
+Identifikasi
+Masalah
+
+1. Arsitektur aplikasi dan
+perancangan system
+2. Data konten Sistem
+Informasi Akademik
+Unsrat
+
+Studi
+Literatur
+Perancangan
+Implementasi
+Testing di
+emulator
+
+Error
+
+ya
+
+tidak
+Install pada
+Handset/Tab
+Testing pada
+Handst/Tab
+
+ya
+
+Error
+tidak
+End
+
+Gambar 3. Bagan Alir Proses Penelitian
+
+Gambar 4. Kerangka dasar Proses Perancangan
+
+5
+
+E-journal Teknik Elektro dan Komputer (2013), ISSN : 2301-8402
+
+Tahap perancangan prototipe. Pada tahap ini
+hasil dari proses yang sebelumnya akan
+dikembangkan kedalam suatu solusi yang bersifat
+teknis seperti antarmuka pengguna, penyimpanan
+konten, konektivitas, dan sebagainya.
+Perancangan Proses
+Dalam pembuatan aplikasi Sistem Informasi
+Akademik terdapat alur algoritma yang memegang
+peranan penting dalam perancangan aplikasi
+ini.Berikut merupakan alur perancangan aplikasi
+Sistem Informasi Akademik.
+
+Analisis Kebutuhan Pengguna
+Analisis kebutuhan pengguna dilakukan
+dengan metoda survey pada aplikasi eksisting. Dari
+hasil survey dapat diambil kesimpulan bahwa
+informasi yang diperlukan oleh pengguna adalah lima
+bagian berikut.
+Sistem informasi akademik atau portal
+akademik. Aplikasi ini berfungsi sebagai antar-muka
+bagi dosen dan mahasiswa dalam kegiatan akademik,
+informasi silabus, dan nilai kelulusan.
+Sistem informasi perpustakaan atau digital
+library. Aplikasi ini berfungsi sebagai antar-muka
+bagi seluruh civitas akademika unsrat yang
+membutuhkan akses pada perpustakaan online.
+Sistem informasi penelitian. Aplikasi ini
+berfungsi sebagai antar-muka bagi mahasiswa dan
+dosen untuk menjelajahi penelitian-penelitian yang
+telah dan akan dilakukan dalam lingkungan
+Universitas Sam Ratulangi.
+Sistem informasi pengabdian. Aplikasi ini
+berfungsi sebagai antar-muka bagi mahasiswa dan
+dosen dalam kegiatan pengabdian kepada masyarakat.
+
+Sistem informasi alumni. Aplikasi ini
+berfungsi sebagai antar-muka basis data alumni
+universitas Sam Ratulangi, serta situs yang
+memberikan informasi lowongan kerja.
+Analisis Kebutuhan Sistem
+Berdasarkan analisis kebutuhan pengguna,
+diperoleh dua spesifikasi sistem yaitu perangkat yang
+digunakan oleh aplikasi harus memiliki sifat
+ubikuitas yaitu dapat digunakan dimana saja dan
+kapan saja, serta memiliki akses internet. Hal lainnya
+adalah aplikasi ini memiliki ukuran yang minimum
+sehingga mampu disimpan dalam perangkat seluler
+yang memiliki keterbatasan.
+Berdasarkan spesifikasi sistem, diperoleh
+informasi mengenai teknologi yang akan digunakan
+dalam mengembangkan prototipe aplikasi.
+Platform.
+Aplikasi dikembangkan dengan menggunakan
+platform Android yang merupakan sistem yang
+terbuka yang memberi peluang bagi para
+pengembang dalam proses pengembangan aplikasi
+third-party.
+Bahasa pengembangan.
+Aplikasi ini dikembangkan pada IDE Eclipse dan
+menggunakan SDK android versi 4.1 dengan bahasa
+pemrograman java.
+Konektivitas.
+Koneksi antara aplikasi frontend pada perangkat
+seluler dengan aplikasi backend di server dilakukan
+dengan
+menggunakan
+akses
+3G
+dengan
+menggunakan protokol HTTP.
+B. Pemodelan Sistem
+Diagram use case merupakan bagian
+tertinggi dari fungsionalitas yang dimiliki sistem
+yang akan menggambarkan bagaimana seseorang
+atau aktor akan menggunakan dan memanfaatkan
+sistem. Gambar 5 dan tabel I menujukan interaksi
+antara pengguna aplikasi dengan sistem.
+TABEL I. DESKRIPSI USE CASE PENGGUNA
+
+Use Case
+Mengakses SIAK
+Mengakses Digilib
+Mengakses SI
+Penelitian
+Mengakses SI
+Pengabdian
+Mengakses SI
+Alumni
+Gambar 5. Diagram Use Case Aplikasi Android SIT Unsrat
+
+Deskripsi
+Fungsionalitas untuk mengakses Sistem
+Informasi Akademik atau portal Unsrat
+Fungsionalitas untuk mengakses Sistem
+Informasi Perpustakaan Unsrat
+Fungsionalitas untuk mengakses Sistem
+Informasi Penelitian.
+Fungsionalitas untuk mengakses Sistem
+Informasi Pengabdian
+Fungsionalitas untuk mengakses Sistem
+Informasi Alumni dan informasi
+lowongan kerja.
+
+E-journal Teknik Elektro dan Komputer (2013), ISSN : 2301-8402
+
+C. Implementasi Prototipe
+Setelah melakukan analisis dan perancangan
+maka untuk tahap selanjutnya yaitu implementasi
+sistem.Tujuan dari tahap implementasi ini adalah
+menyiapkan semua kegiatan penerapan sistem sesuai
+dengan rancangan yang telah ditentukan, dalam hal
+ini berupa aplikasi yang berjalan pada perangkat
+mobile berbasis android.
+Kebutuhan
+perangkat
+lunak
+dalam
+pengembangan aplikasi Android SIT Unsrat di sisi
+client, terdiri dari beberapa peralatan.
+Android SDK 4.1 sebagai software development
+kit untuk pengembangan aplikasi berbasis Android.
+Sun Java SDK 1.6.0 sebagai software
+development kit untuk pengembangan aplikasi Java.
+Eclipse Indigo sebagai IDE untuk editor kode
+sumber.
+Android Development Tool (ADT) versi 0.9.3
+sebagai plugin android pada IDE Eclipse.
+Android Virtual Device (AVD) versi 4.1 sebagai
+emulator yang mengemulasi lingkungan perangkat
+keras.
+
+Gambar 6a. Tampilan Utama
+
+6
+
+Menu Utama
+Menu Utama berisi navigasi yang berguna
+untuk menuntun pengguna dalam menjalankan
+aplikasi Sistem Informasi Akademik.Gambar 6
+adalah antar-muka tampilan aplikasi pada emulator.
+
+D. Pengujian Prototipe
+Pengujian sistem dilaksanakan setelah
+dilakukan pengetesan program.Tujuan pengujian
+sistem adalah untuk memastikan bahwa komponenkomponen dari sistem telah berfungsi sesuai dengan
+yang diharapkan.Pengujian fungsional merupakan
+pengujian teknis yang dilakukan untuk mengetahui
+apakah kode program aplikasi Android SIT Unsrat
+yang sudah diimplementasikan, dapat menjalankan
+fungsi-fungsi sesuai rancangan atau belum. Hasil dari
+pengujian sesuai dengan tabel II.
+
+Gambar 6b. Tampilan Ikon Homescreen Aplikasi SIT
+Unsrat berbasis Android
+
+E-journal Teknik Elektro dan Komputer (2013), ISSN : 2301-8402
+
+7
+
+Gambar 8a. Tampilan Akses SI Perpustakaan
+
+Gambar 7. Tampilan Login dan Tampilan Akses
+Portal Unsrat
+
+Gambar 8b. Tampilan Akses SI Penelitian
+
+8
+
+E-journal Teknik Elektro dan Komputer (2013), ISSN : 2301-8402
+
+TABEL II. PENGUJIAN FUNGSIONAL APLIKASI SIT
+UNSRAT BERBASIS ANDROID
+No
+1
+2
+
+Kategori Tes
+Akses Aplikasi
+Navigasi Menu
+
+3
+
+List Konten
+
+4
+
+List Konten
+
+5
+
+List Konten
+
+6
+
+List Konten
+
+7
+
+List Konten
+
+8
+
+Detail Konten
+
+9
+
+Detail Konten
+
+10
+
+Detail Konten
+
+11
+
+Detail Konten
+
+12
+
+Detail Konten
+
+Nama Tes
+Tampilan Menu Utama
+Navigasi menu utama
+Penjelajahan menu SI
+Akademik
+Penjelajahan menu SI
+Perpustakaan
+Penjelajahan menu SI
+Penelitian
+Penjelajahan menu SI
+Pengabdian
+Penjelajahan menu SI Alumni
+- Karir
+Penjelajahan detail kontenkonten pada SI Akademik
+Penjelajahan detail kontenkonten pada SI Perpustakaan
+Penjelajahan detail kontenkonten pada SI Penelitian
+Penjelajahan detail kontenkonten pada SI Pengabdian
+Penjelajahan detail kontenkonten pada SI Alumni Karir
+
+Gambar 8c. Tampilan Akses SI P2M
+
+Gambar 9. Instalasi aplikasi SIT
+
+Gambar 8d. Tampilan Akses SI Alumni
+
+Gambar 10. Tampilan Login pada Andro Tab Pixcom
+
+Hasil
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+
+9
+
+E-journal Teknik Elektro dan Komputer (2013), ISSN : 2301-8402
+
+server menjadikan waktu akses menjadi lebih lama
+terutama untuk konten yang berbentuk gambar.
+Analisis Peluang Pengembangan Sistem
+Terdapat dua peluang yang dimiliki oleh sistem
+ini yaitu pasar android yang berkembang dengan
+cepat, ditandai dengan peluncuran Indosat Android di
+Indonesia. Dengan CAGR (Compound annual growth
+rate) yang mencapai 150,4 % ditahun 2013 nantinya,
+membuat aplikasi pada perangkat android akan terus
+mengalami perkembangan. Sedangkan peluang kedua
+adalah dapat dikembangkan dengan mudah.
+
+Gambar 11. Tampilan Pengujian Aplikasi pada
+Andro Tab
+Setelah
+dilakukan
+pengujian
+secara
+menyeluruh, selanjutnya aplikasi Sistem Informasi
+Akademik Unsrat diinstall pada Andro Tab Core 3D
+Pixcom, dengan sistem operasi Android 4.Aplikasi
+berjalan pada ponsel sesuai dengan perencanaan yang
+dilakukan sebelumnya, baik dari desain maupun
+logika. Hal ini bisa dilihat dari gambar pengujian
+pada gambar 9 hingga gambar 11.
+E. Analisis Hasil Pengujian Prototipe
+Setelah dilakukan pengujian sistem maka
+perlu dilanjutkan dengan analisis hasil pengujian
+untuk dapat mengenal sistem lebih mendalam sebagai
+bahan pertimbangan untuk pengembangan dan
+penyempurnaan sistem lebih lanjut.
+Analisis Keunggulan Sistem
+Berdasarkan pengujian, terdapat beberapa
+keunggulan yang dimiliki oleh sistem ini.yaitu
+aplikasi diimplementasi pada perangkat bergerak,
+sehingga dapat digunakan dimana saja dan kapan saja,
+sesuai dengan layanan koneksi internet yang
+disediakan operator. Keunggulan lainnya adalah
+dapat
+digunakan
+sebagai
+perangkat
+yang
+dimanfaatkan oleh mahasiswa maupun dosen sebagai
+aplikasi terpadu dalam mengakses informasi dalam
+lingkungan universitas.
+Analisis Kelemahan Sistem
+Aplikasi ini memiliki beberapa kelemahan,
+antara lain konten yang disimpan dalam database
+
+Analisis Manfaat
+Dengan sistem yang ada pada aplikasi ini,
+memungkinkan mahasiswa maupun dosen ataupun
+semua stakeholder yang berkepentingan untuk
+mengakses informasi terpadu melalui perangkat
+bergerak yang sudah semakin lumrah digunakan oleh
+pengguna.Kemudahan
+yang
+diberikan
+oleh
+pemanfaatan perangkat bergerak ini adalah
+kemudahan akses, yang dapat dilakukan dari mana
+saja, selama perangkat tersebut terhubung dengan
+internet maupun system teknologi 3G.
+
+V. KESIMPULAN DAN SARAN
+Setelah melalui beberapa tahapan dalam
+menyelesaikan prototype aplikasi SistemInformasi
+Akademik Unsrat, maka dari hasil penelitian yang
+dilakukan dapat disimpulkan beberapa hal.
+Hasil rancangan analisa dan desain sistem
+informasi berhasil diimplementasikan dengan baik.
+Hal ini dapat ditunjukkan dengan fitur-fitur yang
+telah berjalan dengan baik meskipun bergantung dari
+kondisi non-fungsional seperti kestabilan koneksi
+internet yang dimiliki.
+Ponsel android yang digunakan kompatibel
+untuk mendukung proses pengembangan aplikasi.
+Penggunaan teknologi Android merupakan
+keunggulan tersendiri untuk proses pengembangan
+aplikasi karena tidak perlu memiliki akun tertentu
+(gratis). Selain itu, penggunaan Android juga
+membantu pengembang dalam hal membuat sistem
+navigasi yang mudah karena sudah disediakan
+fiturnya oleh Android.
+Sistem Informasi Akademik berbentuk
+sebuah aplikasi mobile yang didistribusikan dalam
+bentuk file dengan extensi .apk, sehingga dapat
+dijalankan pada sistem operasi Android.
+Saran yang dapat disampaikan terkait
+pengembangan aplikasi adalah Sistem Informasi
+Akademik pada sisi klien saat ini hanya mendukung
+
+E-journal Teknik Elektro dan Komputer (2013), ISSN : 2301-8402
+
+pada platform mobile Android.Untuk pengembangan
+selanjutnya dapat ditambahkan modul-modul lainnya
+seperti konten mata kuliah.Juga pengembangannya
+ditambah di platform mobile lainnya seperti
+BlackBerry OS agar jangkauan pengguna lebih luas.
+
+DAFTAR PUSTAKA
+[1] Andersson, C., Freeman, D., James, I., Johnston, A., and
+Ljung, S., Mobile Media and Application – From Concept
+to Cash, John Wiley & Sons, Chicester, 2006.
+[2] Ayob, N., Hussin, A.R.C., and Dahlan, H.M., Three Layers
+Design Guideline for Mobile Application, Proceedings of
+the International Conference on Information Management
+and Engineering, Kuala Lumpur, Malaysia, 2009.
+[3] Conti, J.P., The Androids are Coming, Engineering &
+Technology Jornal, Vol.3, 2008.
+[4] Davis, B. Gordon., and H. Olson, Margrethe, Management
+Information System: Conceptual Foundations, Structure,
+and Development, Second Edition, McGraw-Hill: Series in
+Management Information System; McGraw-Hill, Inc.; USA,
+1985.
+[5] DiMarzio, J.F., Android – A Programmers Guide, McGraw
+Hill, New York, 2008.
+[6] Eriksson, H., Penker, M., Lyons, B., and Fado, D., UML 2
+Toolkit, Wiley Publishing Inc., Indiana, 2004.
+[7] Gong, J., and Tarasewich, P., Guideline for Handheld
+Mobile Device Interface Design, Proceedings of the 2004
+Decision Science Institute (DSI) Annual, Boston, USA,
+2004.
+
+[8]
+
+10
+
+Hassan, Z.S., Ubiquitous Computing and Android,
+Proceedings of the Third International Conference on
+Digital Information Management, London, UK, 2008.
+[9] Hussain, A., and Kutar, M, Usability Metric for Mobile
+Application: A Goal Question Metric (GQM) Approach,
+Proceedings of the 10th International Conference on
+Information Integration and Web-based Applications &
+Services, Linz, Austria, 2008.
+[10] ISO 9241-11, Ergonomics requirement for office work with
+visual display terminals (VDTs) – Part 11 : Guidance on
+usability, Geneva, Switzerland, 1998,
+[11] Jogianto Hartono, MBA., PhD., Pengenalan Komputer,
+Yogyakarta, Andi, Yogyakarta, 1999,
+[12] Jones, M., dan Marsden G., Mobile Interaction Design, John
+Wiley & Sons, Chicester, 2006.
+[13] Mallick, M., Mobile and Wireless Design Essentials, Wiley
+Publishing Inc., Indianapolis, 2003.
+[14] Mc Leod , R, Jr, Managemen information System, Sixth
+Edition, Prentice Hall, 2005.
+[15] Meier, R., Professional Android Application 2 Development,
+Wiley Publishing, Inc, Indianapolis, 2010.
+[16] Rogers, R., and Lombardo, J., Android Application
+Development 1st Edition, O’Reilly Media Inc, Sebastopol,
+2009.
+[17] Safaat,
+Nazruddin.,Pemrograman
+Aplikasi
+Mobile
+Smartphone dan Tablet PC Berbasis Android, Penerbit
+Informatika, Bandung, 2011.
+[18] Sanapiah, Faisal.,Format-format Penelitian Sosial, Raja
+Grafindo Persada, 1995.
+[19] Ware, C., Information Visualization – Perception for
+Design, Morgan Kaufman Publishers, San Fransisco, 2004.
+
+

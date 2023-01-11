@@ -1,0 +1,1346 @@
+Prosiding Seminar Bimbingan dan Konseling
+Vol. 1, No. 1, 2017, hlm. 96-103
+
+Tersedia Online di
+http://pasca.um.ac.id/conferences/index.php/snbk
+ISSN 2579-9908
+
+MODEL LAYANAN SCREENING DALAM KONSELING KESEHATAN
+MENTAL BERBASIS ANDROID (E-COUNS) UNTUK MENDUKUNG
+GERAKAN REVOLUSI MENTAL
+Ayu Andriyani, Rudianto Jati Widigdo.
+Universitas Negeri Semarang
+E-mail: ayuandriyani3096@gmail.com, jatirudianto@gmail.com
+ABSTRAK
+Seseorang yang mempunyai kepribadian baik adalah mereka yang sehat mentalnya. Di Indonesia
+Menurut Data Komisi Perlindungan Anak Indonesia menunjukkan tren kasus kekerasan seksual
+terhadap anak meningkat. Pada 2012 korbannya 256 orang dan pada 2013 menjadi 378 orang.
+Korbannya 60 persen anak laki-laki dan 40 persen anak perempuan (Tempo.co, 2014) . Berdasarkan
+data kepolisian Republik Indonesia pada tahun 2012 terdapat 981 kasus kematian karena bunuh diri dan
+921 kasus pada tahun 2013 (depkes.go.id, 2016). Angka tersebut belum termasuk kasus yang tidak
+dilaporkan. Hal tersebut membuktikan bahwa masyarakat Indonesia tergolong mempunyai kesehatan
+mental yang rendah. Dengan adanya konselor kesehatan mental di Indonesia dan adanya asessmen awal
+(screening), merupakan upaya untuk menanggulangi gangguan kesehatan mental. Lembaga riset digital
+marketing Emarketer memperkirakan pada 2018 jumlah pengguna aktif andorid di Indonesia lebih dari
+100 juta orang (www.kominfo.go.id, 2015). Pemanfaatan teknologi dalam bimbingan dan konseling
+dapat menunjang pelaksanaan pemberian layanan dalam bimbingan dan konseling berupa pemberian
+layanan asesmen berbasis android. Melalui pemanfaatan teknologi diharapkan dapat menambah jumlah
+individu yang dapat dikumpulkan datanya , untuk ditindak lanjuti kepada proses konseling. Mengingat
+adanya gerakan revolusi mental, sangatlah diperlukan adanya peningkatan data dari para individu untuk
+mereka yang mengalami gangguan kesehatan mental. Model layanan asesmen menggunakan aplikasi
+berbasis android memiliki kontribusi dimana layanan asesmen bertujuan memudahkan penggunaan
+dalam proses asesmen dari aspek waktu, biaya, keprofesionalan personil, sumber informasi dan hasil
+sreening. Dengan demikian asesmen banyak data yang dapat terkumpul akan lebih banyak dan
+menunjang peningkatan data untuk mendukung gerakan revolusi mental.
+Kata Kunci: assessment, bimbingan dan konseling, e-couns
+
+Menurut
+
+PENDAHULUAN
+Indonesia saat ini sedang mewujudkan
+gerakan
+
+revolusi
+
+Hasan
+
+Langgulung
+
+(dalam
+
+Sutoyo, 2012:13) seseorang yang mempunyai
+
+mental.
+
+Menurut
+
+kepribadian baik adalah mereka yang sehat
+
+Koordinator
+
+Bidang
+
+mentalnya. Sifat-sifat orang yang mentalnya
+
+Kebudayaan
+
+sehat yaitu mampu menerima dirinya secara
+
+(2014:5) gerakan nasional revolusi mental
+
+utuh, memiliki emosi yang stabil, memiliki
+
+mengarah kepada perubahan cara pandang,
+
+hubungan
+
+cara berpikir, nilai-nilai, keyakinan yang ada
+
+bertanggung jawab terhadap dirnya dan
+
+pada masyarakat sehingga tercipta masyarakat
+
+lingkungannya, serta mempunyai harapan
+
+yang
+
+yang sesuai dengan potensinya. Sedangkan
+
+Kementrian
+Pembangunan
+
+Manusia
+
+berdaulat,
+
+dan
+
+bermatabat
+
+serta
+
+berkepribadian yang baik.
+
+sosial
+
+yang
+
+baik,
+
+mampu
+
+orang yang tidak mempunyai kepribadian
+
+96
+
+Andriyani, Widigdo, Model Layanan Screening... 97
+
+yang baik, adalah mereka yang mengalami
+
+segera ditangani maka akan menghambat
+
+gangguan
+
+kesehatan
+
+mental.
+
+Gangguan
+
+terwujudnya gerakan revolusi mental.
+
+kesehatan
+
+mental
+
+meliputi
+
+kecemasan
+
+(anxietas),
+
+depresi,
+
+gangguan
+
+disosiatif,
+
+menanggulangi gangguan kesehatan mental
+
+diri,
+
+sudah banyak dilakukan. Dengan adanya
+
+somatoform,
+
+gangguan
+
+bunuh
+
+dan
+
+gangguan kepribadian (Nevid, 2003).
+Masyarakat
+
+Indonesia,
+
+konselor
+
+kesehatan
+
+upaya
+
+mental
+
+dan
+
+untuk
+
+adanya
+
+tergolong
+
+asessmen awal (screening), untuk mengetahui
+
+mempunyai kesehatan mental yang rendah.
+
+bagaimana gangguan kesehatan mental yang
+
+Hal tersebut terlihat dengan banyaknya kasus-
+
+diderita oleh klien. Namun upaya tersebut
+
+kasus kesehatan mental diantaranya yaitu
+
+belum membawakan hasil yang maksimal,
+
+masalah kekerasan seksual pada anak atau
+
+karena masyarakat sendiri, belum banyak
+
+pedofil. Menurut Data Komisi Perlindungan
+
+yang peduli dengan kesehatan mentalnya,
+
+Anak Indonesia (dalam Tempo.co, 2014)
+
+apalagi mengenai proses screening. Peristiwa
+
+menunjukkan tren kasus kekerasan seksual
+
+tersebut terjadi karena, pembuatan proses
+
+terhadap
+
+2012
+
+screening tidak dapat sejalan dengan keadaan
+
+korbannya 256 orang dan pada 2013 menjadi
+
+masyarakat sekarang. Keadaan masyarakat
+
+378 orang. Korbannya 60 persen anak laki-
+
+sekarang yang paling dapat diketahui yaitu
+
+laki dan 40 persen anak perempuan. Masalah
+
+dengan
+
+kesehatan mental yang lain yaitu banyaknya
+
+Berdasarkan lembaga riset digital marketing
+
+orang
+
+dan
+
+Emarketer memperkirakan pada 2018 jumlah
+
+mengakibatkan orang tersebut bunuh diri.
+
+pengguna aktif andorid di Indonesia lebih dari
+
+Berdasarkan
+
+Republik
+
+100 juta orang (www.kominfo.go.id, 2015).
+
+Indonesia (dalam depkes.go.id, 2016) pada
+
+Dengan banyaknya jumlah pengguna android
+
+tahun 2012 terdapat 981 kasus kematian
+
+maka
+
+karena bunuh diri dan 921 kasus pada tahun
+
+jangkauan yang lebih luas.
+
+anak
+
+yang
+
+Indonesia
+
+Di
+
+meningkat.
+
+mengalami
+
+data
+
+Pada
+
+depresi
+
+kepolisian
+
+pengguanaan
+
+E-Couns
+
+smart
+
+dapat
+
+digunakan
+
+phone.
+
+untuk
+
+2013. Angka tersebut belum termasuk kasus
+
+Dari peristiwa diatas, diperlukan sebuah
+
+yang tidak dilaporkan. Selain itu berdasarkan
+
+aplikasi pengembangan layanan screening
+
+data WHO bunuh diri merupakan penyebab
+
+berbasis android dalam konseling kesehatan
+
+kematian nomor dua pada usia produktif.
+
+mental yang bertujuan untuk mendukung
+
+Masalah yang sangat kompleks tersebut
+
+gerakan
+
+sampai sekarang ini belum sepenuhnya
+
+menggunakan
+
+tertangani.
+
+mendapatkan balasan langsung mengenai
+
+Apabila masalah tersebut tidak
+
+revolusi
+alat
+
+mental.
+ini,
+
+kita
+
+Dengan
+dapat
+
+98 Prosiding Seminar Bimbingan dan Konseling, Vol. 1, No. 1, 2017, hlm. 96-103
+
+gangguan kesehatan mental yang kita alami,
+
+dan substansi mental yang berhubungan
+
+dan dapat mendapatkan proses referal atau
+
+dengan
+
+pengalih tanganan dengan konselor kesehatan
+
+berbeda dalam jenis karakteristik psikologis
+
+mental yang profesional. Selain itu aplikasi
+
+dan perilaku yang mereka mengevaluasi. Hal
+
+ini dapat dengan mudah didapatkan di
+
+ini,
+
+playstore dan dapat digunakan oleh smart
+
+memberikan diagnosis psikiatri yang akurat,
+
+phone yang berbasis android. Aplikasi ini
+
+melainkan
+
+dapat
+
+mengembangkan
+
+seseorang yang sangat bermasalah untuk siapa
+
+aplikasi self screening berbasis android yang
+
+beberapa respon khusus dan relatif segera
+
+mendukung gerakan revolusi mental dan bisa
+
+diperlukan sebuah referal atau alih tangan
+
+digunakan untuk mengembangkan kegunaan
+
+kasus. (Grisso:2004).
+
+aplikasi untuk mendukung gerakan revolusi
+
+Screening
+
+digunakan
+
+untuk
+
+kebutuhan
+
+biasanya
+
+penggunaan
+
+dimaksudkan
+
+untuk
+
+untuk
+
+membedakan
+
+berbasis
+
+remaja
+
+tidak
+
+satu
+
+set
+
+android
+
+akan
+
+mental berdasarkan prosedur dan pedoman
+
+memudahkan asesmen dalam (1) Memperoleh
+
+aplikasi.
+
+data yang relevan, objektif, akurat dan
+
+PEMBAHASAN
+
+komprehensif tentang kondisi anak saat ini
+
+Screening
+
+dalam
+
+konseling
+
+kesehatan
+
+mental
+Di dalam proses konseling ada teknik
+asesmen sebagai penilaian
+
+terhadap
+
+individu
+
+guna
+
+pemberian
+
+bimbingan
+
+dan
+
+konseling
+
+diri
+
+pelayanan
+agar
+
+sesuai
+
+(2) Mengetahui profil anak secara utuh
+terutama
+
+permasalahan
+
+belajar
+
+yang
+
+dimiliki,
+
+kebutuhan-kebutuhan
+
+serta
+
+daya
+
+dan
+
+hambatan
+
+dihadapi, potensi
+
+dukung
+
+yang
+
+khususnya,
+
+lingkungan
+
+dibutuhkan anak, (3) Menentukan
+
+yang
+layanan
+
+dengan kebutuhan, kondisi, dan masalah
+
+yang dibutuhkan dalam rangka memenuhi
+
+konseli
+
+kebutuhan-kebutuhan
+
+(Kementrian
+
+Pendidikan
+
+dan
+
+Kebudayaan, 2013).
+
+Sekurang-kurangnya
+
+memonitor
+
+terdapat
+
+tujuan
+
+Sunaryo, 2006).
+
+4
+
+(empat)
+
+umum
+
+dari
+
+asesmen. Tujuan yang dimaksudkan adalah;
+
+kemampuannya
+
+screening yaitu :
+
+(3) perencanaan intervensi, dan (4) kemajuan
+
+Waktu
+
+evaluasi
+
+(Bagby,
+
+Wild,
+
+&
+
+dan
+
+Biasanya, semakin besar volume kasus
+
+2003; Erford, 2007; Sattler dan
+
+yang harus disaring atau dinilai, semakin
+
+Hoge, 2006). Screening dalam asesmen
+
+sedikit waktu yang tersedia untuk tugas.
+
+bertujuan untuk mengidentifikasi kesehatan
+
+Selain itu, beberapa tujuan-terutama yang
+
+Turner,
+
+hasil
+
+(Sumardi
+
+dan
+
+Hal-hal yang harus diperhatikan untuk
+
+(1) screening , (2) identifikasi dan diagnosis,
+
+dan
+
+khususnya
+
+Andriyani, Widigdo, Model Layanan Screening... 99
+
+berkaitan dengan screening-hanya mungkin
+
+Sumber Informasi
+
+tidak memerlukan metode memakan waktu.
+
+Instrumen untuk mengevaluasi mental
+
+Kadang-kadang, lebih pendek lebih baik
+
+kesehatan dan substansi yang berhubungan
+
+dalam
+
+lain,
+
+dengan kebutuhan penggunaan muda sangat
+
+dapat
+
+bervariasi
+
+atau
+
+dibutuhkan untuk penyelesaian. Beberapa
+
+segala
+
+hal.
+
+bagaimanapun,
+
+Dalam
+
+situasi
+
+singkatnya
+
+membahayakan
+
+tujuan
+
+screening
+
+dalam
+
+jenis
+
+informasi
+
+yang
+
+penilaian.
+
+hanya memerlukan laporan diri pemuda
+
+Biaya
+
+tersebut; lainnya memerlukan informasi yang
+
+Instrumen bervariasi dalam biaya per-
+
+diperoleh langsung dari anggota keluarga dan
+
+kasus mereka. Tidak termasuk kompensasi
+
+/ atau hukum, pendidikan, dan mental catatan
+
+untuk staf atau waktu dokter, beberapa
+
+kesehatan. Di sisi lain, dalam penilaian yang
+
+instrumen dapat digunakan tanpa biaya per-
+
+lebih luas untuk sampai pada rekomendasi
+
+kasus, dan lain-lain mungkin biaya beberapa
+
+untuk
+
+rupiah per kasus (melalui pembelian bahan
+
+menggunakan
+
+atau
+
+kontrak
+
+sebuah
+
+jangka
+
+panjang,
+
+alat
+
+hanya
+
+yang
+
+sistem
+
+penilaian
+
+mengandalkan laporan seorang pemuda dari
+
+komersial).
+
+Sebuah
+
+perasaan dan perilaku nya sendiri berisiko
+
+hubungan langsung antara biaya dan kualitas
+
+karena informasi tersebut dapat terdistorsi,
+
+bukan asumsi yang aman. Setiap instrumen
+
+bias, atau tidak lengkap.
+
+harus dipertimbangkan pada manfaat dan
+
+Tujuan dari Screening dan Penilaian.
+
+berbasis
+
+dengan,
+
+pengobatan
+
+komputer
+
+kesesuaian untuk pengaturan tertentu.
+
+Terdapat perbedaan jenis informasi yang
+diberikan disetiap instrumen . Beberapa
+
+Keprofesionalan Personil
+Beberapa
+
+instrumen
+
+membutuhkan
+
+menyarankan diagnosis; lain berfokus pada
+
+keahlian klinis profesional untuk mengelola,
+
+gejala, masalah daerah, atau karakteristik
+
+skor, dan / atau menafsirkan. Pemilihan
+
+keluarga. Demikian pula, beberapa instrumen
+
+instrumen tergantung pada sifat dari informasi
+
+telah
+
+yang
+
+kesenjangan
+
+diperlukan.
+
+Misalnya,
+
+alat
+
+yang
+
+dirancang
+
+untuk
+
+antara
+
+menjembatani
+mengidentifikasi
+
+dirancang untuk evaluasi mendalam sering
+
+gangguan kesehatan mental dan intervensi
+
+membutuhkan keahlian klinis profesional,
+
+untuk mengatasi gangguan (Grisso: 2004).
+
+sedangkan instrumen skrining singkat sering
+dirancang untuk digunakan oleh nonclinicians
+di fasilitas remaja.
+
+100 Prosiding Seminar Bimbingan dan Konseling, Vol. 1, No. 1, 2017, hlm. 96-103
+
+Gerakan nasional revolusi mental dimulai
+dari tiga tahap, yaitu diri sendiri, keluarga,
+serta masyarakat lingkungan sekitar. Dimulai
+diri sendiri yaitu dengan mengubah suatu
+kebiasaan tidak baik dari diri kita, seperti
+Gambar 1. Screening Kesehatan Mental
+
+tidak berlaku jujur, arogan, tidak mengetahui
+etika moral, dan perilaku tidak baik lainnya.
+
+Revolusi
+
+mental
+
+dalam
+
+perspektif
+
+kesehatan mental.
+
+tersebut dalam diri kita, tahap selanjutnya
+
+Menurut Depdikbud, Revolusi mental
+merupakan gerakan nasional untuk mengubah
+cara pandang, pola pikir, sikap-sikap, nilainilai dan perilaku bangsa Indonesia untuk
+mewujudkan
+
+Indonesia
+
+yang
+
+berdaulat,
+
+berdikari, dan berkepribadian. Dengan kata
+lain dapat dikatakan sebagai Gerakan Hidup
+Baru Bangsan Indonesia. Gerakan revolusi
+mental dalam perspektif kesehatan mental
+lebih menekankan kepada kepribadian yang
+dimiliki oleh seseorang. Seseorang yang
+memiliki
+
+kesehatan
+
+mental
+
+yang
+
+baik
+
+cenderung mempunyi kepribadian yang baik.
+Revolusi mental mengajak setiap insan
+manusia Indonesia agar dapat berperilaku
+jujur, bertanggung jawab, dan dapat dipercaya
+serta konsisten dalam menjalankan perilakuperilaku tersebut. Dengan berperilaku jujur,
+memegang teguh prinsip-prinsip kebenaran,
+etika, dan moral, serta berbuat sesuai dengan
+apa yang dikatakan maka seseorang sudah
+dapat dikatakan bertanggung jawab maka
+seseorang sudah diaktakan bertanggung atas
+apa yang dipikirkannya.
+
+Apabila kita sudah dapat mengubah perilaku
+
+yaitu mengubah cara pandang atau pola pikir
+suatu keluarga agar menjadi lebih baik dengan
+cara memberikan suatu contoh perilaku yang
+baik
+
+kepada
+
+keluarga
+
+tersebut.
+
+Dengan
+
+mampu mengubah cara pandang dan pola
+pikir keluarga kita sudah mempunyai pasukan
+yang cukup untuk melangkah ke tahap
+selanjutnya,
+
+yaitu
+
+menyebarkan
+
+revolusi
+
+mental ke masyarakat atau lingkungan sekitar.
+(Kementerian
+
+Koordinator
+
+Bidang
+
+Pengembangan Manusia dan Kebudayaan,
+2014 ).
+Pengertian Sistem Android
+Android merupakan sistem operasi yang
+dikembangkan untuk perangkat mobile yang
+berbasis linux seperti telepon pintar dan
+komputer tablet. Android merupakan OS
+mobile yang tumbuh ditengah OS lainnya
+yang berkembang. Android adalah Operating
+Sistem (OS) atau sistem operasi yang sangat
+populer akhir-akhir. Sistem operasi ini telah
+banyak mengambil perhatian masyarakat
+dunia dan masyarakat Indonesia tentunya.
+
+Andriyani, Widigdo, Model Layanan Screening... 101
+
+Perusahaan
+
+gadget dan telepon seluler
+
+SDK tersebut juga terdapat tools untuk
+
+berlomba-lomba membuat perangkat dengan
+
+membantu menulis dan me-debug aplikasi
+
+memakai
+
+(
+
+yang dibuat, seperti misalnya Emulator
+
+screening
+
+Android untuk menjalankan projek Android
+
+sistem
+
+operasi
+
+Ardyansyah,2011:4).
+
+Android
+
+Maka
+
+berbasis android akan lebih menarik perhatian
+
+yang
+
+masyarakat Indonesia.
+
+Monitoring
+
+Android Software Development Kit
+
+membantu dalam memperbaiki aplikasi yang
+
+Yang Anda butuhkan untuk memulai
+
+dibuat
+
+2011:6).
+
+(Software Development Kit) dan juga Java
+
+Instrumen
+
+Kit.
+
+Setelah
+
+itu
+
+Anda
+
+juga
+
+Service
+
+Dalvik
+
+Debug
+
+(DDMS)
+
+untuk
+
+dibuat jika terdapat kesalahan (Ardyansyah,
+
+pemrograman Android adalah Android SDK
+
+Development
+
+dan
+
+Aplikasi
+
+layanan
+
+screening
+
+ini
+
+membutuhkan Java IDE yang digunakan
+
+menggunakan instrument yaitu sebuah angket.
+
+untuk menuliskan coding Android, disini saya
+
+Angket tersebut berfungsi membantu pemakai
+
+menggunakan Eclipse Helios karena Eclipse
+
+memberikan suatu penilaian terhadap aplikasi
+
+sangat mensuport proses penulisan code
+
+layanan screening.
+
+Android dan menjadikan proses development
+
+PENUTUP
+
+Android menjadi lebih mudah. Versi Android
+
+Kesimpulan
+
+SDK, Java, dan Eclipse tersedia bagi berbagai
+
+Model
+
+layanan
+
+screening
+
+berbasis
+
+macam sistem operasi seperti, Windows, Mac
+
+android dalam konseling kesehatan mental
+
+OS, dan Linux. Memilih Android SDK, Java,
+
+untuk mendukung gerakan revolusi mental
+
+dan Eclipse tersebut sesuai dengan sistem
+
+yang berguna untuk mendapatkan balasan
+
+operasi yang digunakan. Kode Android ditulis
+
+langsung
+
+mengenai
+
+gangguan
+
+menggunakan sintaks Java, dan inti dari
+
+mental
+
+yang
+
+alami,
+
+libraries
+
+fitur
+
+mendapatkan proses referal atau pengalih
+
+kebanyakan yang terdapat pada inti Java
+
+tanganan dengan konselor kesehatan mental
+
+APIs. Sebelum project yang dibuat berjalan,
+
+yang profesional.
+
+project
+
+Android
+
+tersebut
+
+merupakan
+
+pertama
+
+kali
+
+akan
+
+di
+
+terjemahkan kedalan Dalvik byte code.
+Android SDK yang nanti akan di
+Download
+
+didalamnya
+
+sudah
+
+terdapat
+
+Hal
+
+kita
+
+tersebut
+
+kesehatan
+dan
+
+dilakukan
+
+dapat
+
+untuk
+
+menanggulangi gangguan kesehatan mental
+sudah banyak dilakukan, seperti menurut Data
+Komisi Perlindungan Anak Indonesia (dalam
+
+android, dokumentasi yang lengkap, dan juga
+
+Tempo.co, 2014)
+
+yang menunjukkan tren
+
+beberapa contoh aplikasi. Didalam Android
+
+kasus
+
+seksual
+
+kekerasan
+
+terhadap
+
+anak
+
+102 Prosiding Seminar Bimbingan dan Konseling, Vol. 1, No. 1, 2017, hlm. 96-103
+
+meningkat. Pada 2012 korbannya 256 orang
+
+Komputer yang bertugas mengembangkan
+
+dan pada 2013 menjadi 378 orang. Korbannya
+
+layanan screening ke dalam aplikasi berbasis
+
+60 persen anak laki-laki dan 40 persen anak
+
+android. (3) Konselor kesehatan mental yang
+
+data
+
+bertugas sebagai konselor ketika terjadi
+
+(dalam
+
+sebuah referal pada klien yang mengalami
+
+depkes.go.id, 2016) pada tahun 2012 terdapat
+
+gangguan kesehatan mental. (4) Masyarakat
+
+981 kasus kematian karena bunuh diri dan
+
+umum,
+
+921 kasus pada tahun 2013. Angka tersebut
+
+aplikasi
+
+belum termasuk kasus yang tidak dilaporkan.
+
+menanggulangi gangguan kesehatan mental
+
+Mengingat lembaga riset digital marketing E-
+
+yang terjadi. (5) Para ahli dibidang desain,
+
+marketer memperkirakan pada 2018 jumlah
+
+aplikasi, konseling kesehatan mental untuk
+
+pengguna aktif andorid di Indonesia lebih dari
+
+menilai aplikasi screening ini.
+
+100 juta orang. Maka, layanan screening
+
+DAFTAR RUJUKAN
+
+dengan mudah didapatkan di playstore dan
+
+Ardiansyah, Firdan. (2011). Pengenalan
+Dasar Android Programming.Edisi
+Pertama.Cetakan Pertama. Depok :
+Biraynara.
+Ardi,Zadrian dan Frischa Meivilona Y.
+(2013). Konseling Online: Sebuah
+Pendekatan
+Teknologi
+Dalam
+Pelayanan
+Konseling
+.
+Jurnal
+Konseling dan Pendidikan. (Online),
+Tahun 1, Nomor 1, Februari
+2013(http://jurnal.konselingindonesia.
+com , diakses 23 Maret 2017).
+Grisso, Thomas., dan Lee.A, Underwood.
+(2004) . Screening and Assessing
+Mental Health and Substance Use
+Disorders Among Youth in the
+Juvenile Justice System. Washington
+DC: Office of Juvenile Justice and
+Delinquency Prevention.
+Handoko, D Triyuli. (2014) . Kasus Pedofil di
+Indonesia Tertinggal di Asia. Tempo.
+06 Mei 2014. Halaman 1.Jakarta.
+Ifdil. (2013). Konseling Sebagai Salah Satu
+Bentuk Pelayanan E-konseling .
+Jurnal Konseling dan Pendidikan.
+(Online), Tahun 1, Nomor 1, Februari
+2013(http://jurnal.konselingindonesia.
+com , diakses 23 Maret 2017).
+
+perempuan.
+
+Sedang
+
+kepolisian
+
+Republik
+
+berdasarkan
+Indonesia
+
+dapat digunakan oleh smart phone yang
+berbasis
+
+android
+
+sebagai
+
+aplikasi
+
+self
+
+screening berbasis android yang mendukung
+gerakan revolusi mental. Selain itu, aplikasi
+bisa digunakan untuk mendukung gerakan
+revolusi mental berdasarkan prosedur dan
+pedoman aplikasi.
+Saran
+Dalam
+
+penerapan
+
+layanan
+
+screening
+
+dalam konseling kesehatan mental berbasis
+android (E-couns) diperlukan pihak yang
+berpasrtisipasi dalam pelaksanaan pembuatan
+aplikasi
+
+layanan
+
+screening
+
+yaitu
+
+:
+
+(1)
+
+Seseorang yang kompeten dalam bimbingan
+dan konseling, bertugas untuk memasukan
+instrument
+
+dan
+
+tata
+
+acara
+
+melakukan
+
+screening pada aplikasi layanan kesehatan
+mental. (2) Ahli Teknologi Informasi dan
+
+yang
+
+bertugas
+
+layanan
+
+sebagai
+
+pemakai
+
+screening
+
+untuk
+
+Andriyani, Widigdo, Model Layanan Screening... 103
+
+Jacob, M.D. Douglas. (2009). Screening
+Mental
+Health.
+(https://mentalhealthscreening.org.
+diakses pada 23 Maret 2017).
+Kementrian
+Kesehatan
+RI.
+(2016).
+Komunikasi dan Kepedulian antar
+Anggota Keluarga Dibutuhkan untuk
+Cegah
+Kejadian
+Bunuh
+Diri.
+November. Jakarta.
+Kementrian Komunikasi dan Informatika RI.
+(2015). Indonesia Raksasa Teknologi
+Digital
+Asia.
+(Online)
+(https://www.kominfo.go.id
+diakses
+pada 23 Maret 2017).
+Kementrian
+Koordinator
+Bidang
+Pembangunan
+Manusia
+dan
+Kebudayaan.
+(2014).
+Gerakan
+Nasional Revolusi Mental. Agustus.
+Jakarta.
+Kementrian Pendidikan dan Kebudayaan.
+(2014). Modul Pelatihan Implementasi
+Kurikulum
+2013
+untuk
+Guru
+BK/Konselor:
+Asesmen
+dalam
+Bimbingan dan Konseling. (Online)
+(http://mintotulus.files.wordpress.com
+diakses pada 23 Maret 2017).
+Nevid, J.S., Rathus, S.A. dan Greene, B.
+(2005). Psikologi Abnormal, Edisi
+kelima, Jilid 2. Jakarta: Penerbit
+Erlangga.
+Sutoyo, Anwar. (2012). Pemahaman Individu.
+Edisi Pertama. Cetakan Pertama.
+Pustaka Pelajar. Yogyakarta.
+
+

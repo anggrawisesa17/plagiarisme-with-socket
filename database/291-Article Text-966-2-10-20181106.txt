@@ -1,0 +1,411 @@
+SINTECH JOURNAL
+Vol. 1 No 2 – Oktober 2018
+p-ISSN 2598-7305 (Print), e-ISSN 2598-9642 (Online)
+Available Online at :
+http://jurnal.stiki-indonesia.ac.id/index.php/sintechjournal
+
+RANCANG BANGUN APLIKASI MOBILE SISKA BERBASIS ANDROID
+1
+
+2
+
+3
+
+Ni Kadek Ceryna Dewi , Ida Bagus Gede Anandita , Ketut Jaya Atmaja , Putu Wirayudi Aditama
+1,2,3,4
+
+4
+
+Program Studi Magister Ilmu Komputer, Universitas Pendidikan Ganesha
+Indonesia
+
+e-mail: dewichery@gmail.com1, ida.bagus.anandita@gmail.com2, ketutjayaatmaja@gmail.com3,
+yudik123455@gmail.com
+Received : Juli, 2018
+
+Accepted :Oktober, 2018
+
+4
+
+Published : Oktober, 2018
+
+Abstract
+SISKA is an Academic Information System at Ganesha University of Education (UNDIKSHA) used for TESIS
+process. Starting from proposal submission, proposal seminar, pre thesis exam and thesis exam. So far the
+running application is still in web form. With so rapid development of Android-based applications, it will be
+made SISKA Android-based applications that will certainly make it easier for students and lecturers to access
+this application via Smartphone. In the development of this application will be used Eclipse commonly used
+for software development. Web-based SISKA application development into Android-based SISKA application
+provides a new look that is more user friendly, easy to use, and easy to access using smartphone
+Keywords: mobile app, android, eclipse
+
+Abstrak
+SISKA adalah Sistem Informasi Akademik pada Universitas Pendidikan Ganesha ( UNDIKSHA ) yang
+digunakan untuk proses TESIS. Mulai dari pengajuan proposal, seminar proposal, ujian pra tesis dan ujian
+tesis. Selama ini aplikasi yang berjalan masih dalam bentuk web. Dengan begitu pesatnya perkembangan
+aplikasi berbasis Android, maka akan dibuatkan aplikasi SISKA berbasis Android yang tentunya akan lebih
+mempermudah mahasiswa maupun dosen untuk mengakses aplikasi ini melalui Smartphone. Dalam
+pengembangan aplikasi ini akan digunakan Eclipse yang biasa digunakan untuk pengembangan perangkat
+lunak. Pengembangan aplikasi SISKA berbasis Web menjadi aplikasi SISKA berbasis Android memberikan
+tampilan baru yang lebih user friendly, mudah digunakan, serta mudah diakses menggunakan smartphone
+Kata kunci : aplikasi mobile, android, eclipse
+
+1. PENDAHULUAN
+SISKA adalah Sistem Informasi Akademik kampus
+yang dirancang untuk membantu mahasiswa
+untuk mempermudah dalam hal proses
+pengajuan Tesis sampai dengan penjadwalan
+ujian.
+
+Aplikasi ini berbasis web, dimana bisa diakses
+dengan mudah dari mana saja dan kapan saja.
+Namun dengan perkembangan teknologi yang
+semakin mobile membuat kebutuhan akan
+informasi menuntut perkembangan dari aplikasi
+
+SINTECH Journal | 100
+
+SISKA itu sendiri agar bisa memberikan informasi
+yang lebih akurat, dapat memberikan manfaat
+yang lebih fleksible dan lengkap. Untuk itu
+aplikasi akan dikembangan lebih jauh dari sisi
+mobile sehingga dapat memenuhi kebutuhan
+baik dari mahasiswa maupun dosen.
+Pemilihan telepon seluler platform berbasis
+Android untuk salah satu pengembangan aplikasi
+selain bersifat open source dan lebih mudah
+dalam pengoperasiannya, sifat dari telepon
+seluler yang fleksibel menjadi juga salah satu
+alasannya[1].
+Dengan
+semakin
+banyaknya
+pengguna
+smartphone membuat pengembangan aplikasi
+berbasis Android semakin banyak. Hal itu pula
+yang membuat aplikasi ini akan dikembangkan
+menjadi aplikasi berbasis Android sehingga akan
+semakin mudah untuk diakses di masing – masing
+smartphone.
+
+2. ANALISIS DAN PERANCANGAN SISTEM
+2.1 Java
+Menurut Supardi (2014,1), Java adalah perangkat
+lunak produksi Sun Microsystem Inc., yang
+merupakan perangkat lunak pemrograman untuk
+beberapa tujuan (multi purpose), dapat berjalan
+di beberapa sistem operasi (multipatform),
+mudah dipelajari dan powerful. Aplikasi-aplikasi
+yang dapat dibuat dengan Java meliputi
+pemrograman
+web
+(web
+programing),
+pemrograman desktop (desktop programing),
+pemrograman handphone/mobile
+(mobile
+programing)[1].
+a. Java 2
+Perangkat lunak Java sintaknya mirip dengan C,
+karena bahasa Java dibuat memakai bahasa
+pemrograman
+C
+dan
+bahasa
+Java
+menyempurnakan kekurangan C. Pertama rilis,
+Java disebut JDK (Java Development Kit), hingga
+JDK versi 2 atau dikenal dengan Java 2, yang
+dibagi menjadi tiga edisi, yaitu J2SE (Java 2
+Standard Edition), J2EE (Java 2 Enterprise
+Edition), dan J2ME (Java 2 Micro Edition).
+1. J2SE merupakan edisi atau teknologi untuk
+pemrograman desktop atau aplikasi layar
+(console). J2SE juga merupakan perangkat
+
+101 | SINTECH Journal
+
+lunak dasar yang harus diinstal sebelum
+memakai J2EE dan J2ME
+2. J2EE merupakan edisi atau teknologi untuk
+pemrograman
+enterprise,
+seperti
+pemrograman database, JSP, Beans, dan lainlainnya.
+3. J2ME merupakan edisi atau teknologi untuk
+pemrograman
+mobile/handphone
+dan
+perlatankecil (small device)
+2.2 Android
+Android merupakan sistem operasi mobile.
+Android tidak membedakan antara aplikasi inti
+dengan aplikasi pihak ketiga. Application
+Programming Interface (API) yang disediakan
+menawarkan akses ke hardware, maupun data
+data ponsel sekalipun, atau data sistem sendiri
+[2].
+Menurut Supardi (2014, 2), Android merupakan
+sebuah sistem operasi perangkat mobile berbasis
+linux yang mencangkup sistem operasi,
+middleware, dan aplikasi. Beberapa pengertian
+lain dari Android, yaitu :
+1. Merupakan platform terbuka (Open Source)
+bagi para pengembang (Programer) untuk
+membuat aplikasi.
+2. Merupakan sistem operasi yang dibeli Google
+Inc. dari Android Inc.
+3. Bukan bahasa pemrograman, tetapi hanya
+menyediakan lingkungan hidup atau run time
+enviroment yang disebut DVM (Dalvik Virtual
+Machine) yang telah dioptimasi untuk
+alat/device dengan sistem memori yang kecil.
+Menurut Murya (2014, 3), Android adalah sistem
+operasi berbasis Linux yang digunakan untuk
+telepon seluler (mobile) seperti telepon pintar
+(smartphone) dan komputer tablet (PDA).
+Android menyediakan platform terbuka bagi para
+pengembang untuk menciptakan aplikasi yang
+digunakan oleh bermacam piranti bergerak.
+Android saat ini telah menjadi sistem operasi
+mobile terpopuler di dunia. Perkembangan
+Android tidak lepas dari peran sang raksasa
+Google. Android pada mulanya di dirikanoleh
+Andy Rubin, Rich Minner, Nick Sears dan Chris
+White padatahun 2003[3].
+
+a. Struktur Aplikasi Android
+Struktur aplikasi Android atau fundamental
+aplikasi ditulis dalam bahasa pemrograman Java.
+Kode Java dikompilasi bersama dengan resource
+file yang dibutuhkan oleh aplikasi. Dimana
+prosesnya di package oleh tools yang dinamakan
+apttools kedalam paket Android. Sehingga
+menghasilkan file dengan ekstensi apk. File apk ini
+yang disebut dengan aplikasi, dan nantinya dapat
+dijalankan pada peralatan mobile. Ada empat
+komponen pada aplikasi Android, yaitu :
+1. Activities
+Activities merupakan komponen untuk
+menyajikan tampilan pemakai (user interface)
+kepada pengguna.
+2. Service
+Service merupakan komponen yang tidak
+memiliki tampilan pemakai (user interface),
+tetapi service berjalan secara backgrounds.
+3. Broadcast Receiver
+Broadcast Receiver merupakan komponen
+yang berfungsi menerima dan bereaksi untuk
+menyampaikan notifikasi.
+4. Content Provider
+Content Provider merupakan komponen yang
+membuat kumpulan aplikasi data secara
+spesifik, sehingga bisa digunakan aplikasi lain.
+b. Tools Pembangunan Android
+Untuk membangun sebuah sistem operasi
+Android dapat menggunakan Mac, Windows PC,
+ataupun Linux. Tools yang dibutuhkan gratis dan
+dapat di download dari web. Berikut adalah
+beberapa
+tools yang digunakan
+untuk
+membangun aplikasi android.
+1. JDK (Java Development Kit)
+2. Android SDK
+3. ADT (Android Development Tools)
+2.3 Eclipse
+Eclipse merupakan komunitas open source
+yang
+bertujuan
+menghasilkan
+platform
+pemrograman terbuka. Eclipse terdiri atas
+framework yang dapat dikembangkan lebih
+lanjut, peralatan bantu untuk membuat dan
+mengelola software sejak awal hingga
+diluncurkan (Supardi, 2014, 4).
+
+Eclipse adalah sebuah IDE (Integrated
+Development Environment) yang digunakan
+untuk mengembangkan perangkat lunak dan
+dapat dijalankan di semua platform/OS oleh
+karena itu dinamakan dengan (platformindependent). Eclipse
+memiliki
+beberapa
+kelebihan yang membuatnya banyak digunakan
+dalam
+pengembangan
+perangkat
+lunak
+diantaranya :
+- Bisa dijalankan berbagai sistem operasi
+seperti Windows, Linux, Solasris, Mac, dll.
+- Dikembangkan dengan bahasa java, namun
+Eclipse juga mendukung pengembangan
+aplikasi berbasis bahasa pemrograman lain
+seperti C++, Phyton, PHP, dll, yang membuat
+Eclipse disebut juga multy-language.
+- Multy – role, selain sebagai IDE, Eclipse juga
+bisa digunakan untuk aktvitas dalam siklus
+pengembangan perangkat lunak, seperti
+dokumentasi,
+test
+perangkat
+lunak,
+pengembangan web, dll.
+2.4 Basis Data
+Basis data atau database merupakan koleksi dari
+data-data yang terorganisir dengan rapi sehingga
+data dapat dengan mudah disimpan dan
+dimanipulasi. Kita dapat menjumpai pemanfaatan
+database dalam kehidupan sehari-hari, seperti
+penggunaan mesin ATM, sistem akademi
+kuniversitas/sekolah,
+sistem
+informasi
+penjualan[6].
+Salah satu tujuan dari database adalah
+memberikan pengguna suatu pandangan abstrak
+dari data, yaitu sistem menyembunyikan rincian
+bagaimana data disimpan dan dipelihara. Sisem
+database harus dibuat semudah mungkin untuk
+dimengerti karena kebanyakan pengguna sistem
+database adalah orang-orang yang kurang
+terlatih di bidang teknologi[5].
+2.5 Use Case Diagram
+Gambar dibawah ini menunjukkan use case
+diagram dari user atau pengguna. Dimana pada
+gambar tersebut ada 2 user yaitu mahasiswa dan
+admin. Dapat kita contohkan jika pengguna atau
+user adalah mahasiswa maka aktivitas yang bisa
+dilakukan oleh user adalah mendaftar seminar
+proposal, mendaftar sidang pra tesis dan
+mendaftar untuk sidang tesis.
+
+SINTECH Journal | 102
+
+Gambar 1. Use Case Diagram
+
+Gambar 2. Diagram Activity
+
+Gambar di bawah ini adalah gambar ERD dari
+korelasi database aplikasi SISKA. Database yang
+digunakan adalah database dari web SISKA
+
+103 | SINTECH Journal
+
+sebelumnya yang diintegrasikan ke aplikasi
+Android.
+
+Gambar 3. ERD
+
+3. HASIL DAN PEMBAHASAN
+3.1 Pengujian Aplikasi
+Setelah aplikasi berhasil dibangun, maka saatnya
+diadakan pengujian terhadap aplikasi, apakah
+aplikasi tersebut mampu berjalan dengan baik
+
+pada smartphone. Berikut adalah hasil pengujian
+dengan menggunakan user sebagai mahasiswa.
+1. Tampilan Login
+Berikut adalah tampilan login, jika user adalah
+sebagai mahasiswa maka inputkan username
+dengan NIM.
+
+Gambar 4. Tampilan Login
+
+SINTECH Journal | 104
+
+2. Tampilan Home dan Menu Mahasiswa
+Berikut adalah tampilan yang muncul jika user
+berhasil login, akan muncul keterangan data nim,
+nama beserta alamat mahasiswa.
+
+Setelah berhasil login, maka mahasiswa bisa
+mengakses menu yang telah disediakan, seperti
+tampilan
+menu
+pada
+gambar
+6.
+
+Gambar 5. Tampilan Halaman Home
+
+Gambar 6. Tampilan Menu Mahasiswa
+
+105 | SINTECH Journal
+
+3. Data Dokumen
+Data dokumen akan menampilkan data – data
+mengenai tesis dari user atau mahasiswa yang
+
+sudah melakukan pengajuan. Data terdiri dari
+judul tesis, nama dosen pembimbing, gambar
+proposal, file proposal, dan lain – lain.
+
+Gambar 7. Tampilan Data Dokumen
+
+4. Menu Jadwal
+Pada menu jadwal akan ditampilkan jadwal untuk
+ujian mahasiswa mulai dari jadwal ujian seminar
+
+proposal, jadwal ujian pra tesis, dan jadwal ujian
+tesis.
+
+Gambar 8. Tampilan Jadwal Mahasiswa
+
+SINTECH Journal | 106
+
+Pada menu jadwal mahasiswa tersebut, jika di
+klik salah satunya misalnya Seminar maka akan
+ditampilkan data – data mengenai jadwal seminar
+seperti tanggal pelaksanaan ujian seminar, judul
+tesis, nama – nama dosen pembimbing serta
+nama – nama dosen penguji. Begitu juga dengan
+jadwal pra tesis dan tesis akan menampilkan data
+– data pelaksanaan ujian sesuai dengan tahapan
+yang diambil.
+
+4. KESIMPULAN
+Dari hasil pengembangan aplikasi SISKA berbasis
+Web menjadi aplikasi SISKA berbasis Android
+memberikan tampilan baru yang lebih user
+friendly, mudah digunakan, serta mudah diakses
+menggunakan smartphone. Aplikasi juga dapat
+berjalan dengan baik sesuai dengan yang
+diharapkan.
+Aplikasi SISKA ini masih dapat dikembangkan lagi
+menjadi aplikasi yang lebih kompleks, misalnya
+dengan menambahkan notifikasi pada aplikasi ini,
+atau dengan menambahkan fitur – fitur lain yang
+dapat lebih mempermudah user dalam
+memperoleh informasi.
+DAFTAR PUSTAKA
+[1] Sulihati dan Andriyani, “Aplikasi Akademik
+Online Berbasis Mobile Android pada
+Universitas Tama Jagakarsa,”Jurnal Sains dan
+Teknologi, Vol. XI, No. 1, 2016
+[2] S.N. Anwar, dkk, Perancangan dan
+Implementasi Aplikasi Mobile Semarang
+Guidance pada Android,” Jurnal Teknologi
+Informasi DINAMIK, Vol. 20, No. 1, 2015
+[3] Supardi, Yuniar. 2014. Semua Bisa Menjadi
+Programer Android – Case Study Jakarta : PT
+Elex Media Komputindo.
+[4] Murya, Yosef. 2014. Android Black Box.
+Jakarta :Jasakom.
+[5]
+
+Nugroho, Bunafit. 2014. PHP & MySQL
+dengan
+Editor
+Dreamweaver
+MX.
+Yogyakarta : Andi.
+
+[6] Simarmata, Janner dan Paryudi, Iman. 2005.
+Basis Data. Yogyakarta :Andi
+
+107 | SINTECH Journal
+
+

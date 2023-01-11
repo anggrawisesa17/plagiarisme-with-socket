@@ -1,0 +1,1307 @@
+JURNAL TEKNIK INFORMATIKAVOL. 9 NO. 1, APRIL 2016
+
+|9
+
+APLIKASI EDUKASI BUDAYA TOBA SAMOSIR BERBASIS ANDROID
+Harni Kusniyati1, Nicky Saputra Pangondian Sitanggang2
+1,2
+
+1
+
+Program Studi Informatika, Fakultas Ilmu Komputer
+Universitas Mercu Buana
+
+harni246@gmail.com, 2nick.saputrapangondian@gmail.com
+ABSTRAK
+
+Budaya adalah suatu cara hidup yang berkembang, dan dimiliki bersama oleh sebuah kelompok orang, dan
+diwariskan dari generasi ke generasi. Banyak dari lapisan masyarakat sekarang ini telah menggunakan teknologi
+informasi dan komunikasi sebagai salah satu sektor kompetitif yang bisa menambah nilai dari proses bisnis yang
+dijalankan. Perkembangan teknologi informasi dan komunikasi telah menguntungkan pihak yang menggunakan
+yaitu menjadi sarana yang dapat mempermudah penggunanya mengakses berbagai informasi kebudayaan toba
+samosir melalui aplikasi edukasi budaya toba samosir berbasis android ini. Saat ini kegiatan kunjungan wisata
+bagi sejumlah orang ke beberapa tujuan wisata di daerah-daerah yang mempunyai tempat wisata yang unik dan
+menarik dapat dimudahkan dengan adanya perangkat bergerak seperti smartphone dan tablet-PC. Aplikasi
+Edukasi Budaya Toba Samosir ini dibuat mengguanakan bahasa pemograman java dan mengunakan basis data
+SQLite, serta bantuan perangkat lunak android development tools.
+
+Kata Kunci : Budaya, Toba Samosir, Edukasi, Android
+
+ABSTRACT
+Culture is a way of life that developed and shared by a group of people, and inherited from one
+generation to the next. Nowadays, many societies has been using information and communications
+technology as a competitive sector that can added value to the business processes that run. The
+development of information and communication technology make the parties benefited as facilitator to
+users to access a variety of cultural information through the educational applications Toba Samosir
+based android. Nowadays, vacations activity for a number of tourist to several unique and attractive
+destination can be facilitated through mobile devices such as smartphones and tablet-PCs. The
+application, Toba Samosir Cultural Education is created using the java programming language and
+uses a SQLite database, and supported by android software development tools.
+Keywords: Culture, Toba Samosir, Education, Android
+
+Harni Kusniyati: Aplikasi Edukasi Budaya….
+
+9-18
+
+ISSN 1979-9160
+
+10 |
+
+JURNAL TEKNIK INFORMATIKAVOL. 9 NO. 1, APRIL 2016
+
+Adapun manfaatnya antara lain:
+
+I. PENDAHULUAN
+
+1. Dapat digunakan sebagai media informasi
+dalam berwisata di daerah Toba Samosir.
+2. Mempermudah wisatawan untuk mengetahui
+apa saja budaya-budaya di Toba Samosir yang
+berbeda-beda juga menarik dan wajib
+dijadikan lokasi wisata berkunjung di
+Indonesia.
+
+Saat ini semakin mudahnya akses untuk
+mencari informasi melalui smartphone, hal ini
+menjadi alasan utama banyak orang yang
+menggunakan smartphone. Penunjang smartphone
+pun kini sudah sangat berkembang sangat cepat
+dengan bermacam-macam fungsinya. Smartphone
+yang saat ini peminatnya yang semakin meningkat
+tajam yaitu Android. Android merupakan terobosan
+baru dalam bidang teknologi saat kini, dengan
+kemudahan pemakaiannya dan bersifat open source
+membuat peminat dari gadget ini semakin banyak
+dan sudah menjadi hal yang umum. Hampir semua
+vendor saat ini mengembangkan produknya dengan
+sistem operasi Android. Mulai dari pengembangan
+aplikasi yang dapat diunduh dengan mudah, hingga
+pengembangan sistem yang beragam. Selain itu,
+banyaknya aplikasi-aplikasi yang memudahkan
+para pengguna gadget smartphone untuk
+berkomunikasi dan menunjang kegiatan sehari-hari
+telah banyak ditawarkan di Play Store, aplikasi
+yang menjadi pusat dari segala aplikasi Android
+yang dapat dipasang pada smartphone Android
+dengan masing-masing kelebihan dari tiap aplikasi
+tersebut membuat para pengguna gadget
+smartphone banyak menggunakannya.
+Berdasarkan uraian pada latar belakang
+masalah, maka dirumuskan sebuah masalah yaitu :
+1. Bagaimana cara untuk membuat Aplikasi
+Edukasi Budaya Toba-Samosir Berbasis
+Android
+yang
+dapat
+mempermudah
+pengguna mencari informasi tentang
+berbagai budaya yang ada di Toba Samosir ?
+2. Bagaimana cara membuat aplikasi ini
+menjadi mempermudah mengakses informasi
+budaya Toba Samosir?
+3. Bagaimana cara membuat aplikasi yang
+mengenalkan informasi mengenai budaya,
+wisata dan juga kesenian khas Toba Samosir
+kepada user agar dapat dipahami sebelum
+menuju lokasi yang akan dikunjungi?
+Berdasarkan rumusan masalah yang telah
+ditentukan, maka penulis membatasi masalah pada
+aplikasi ini, antara lain :
+1. Aplikasi ini
+menggunakan bahasa
+pemrograman Java khusus untuk android
+(Eclipse) dan database MySQL sebagai
+database.
+2. Pemrograman dari aplikasi ini dibuat dengan
+sederhana untuk informasi mengenai budaya
+yang ada di Toba Samosir.
+3. Segmentasi user aplikasi ini adalah untuk
+wisatawan yang akan mengunjungi daerahdaerah yang ada di Indonesia.
+
+II. LANDASAN TEORI
+2.1
+
+Budaya adalah suatu cara hidup yang
+berkembang, dan dimiliki bersama oleh sebuah
+kelompok orang, dan diwariskan dari generasi
+ke generasi. Budaya terbentuk dari banyak
+unsur
+yang
+rumit,
+termasuk sistem agama dan politik,
+adat
+istiadat, bahasa, perkakas, pakaian, bangunan,
+dan karya seni. Bahasa, sebagaimana juga
+budaya, merupakan bagian tak terpisahkan dari
+diri manusia sehingga banyak orang cenderung
+menganggapnya diwariskan secara genetis.
+Ketika seseorang berusaha berkomunikasi
+dengan orang-orang yang berbeda budaya, dan
+menyesuaikan
+perbedaan-perbedaannya,
+membuktikan bahwa budaya itu dipelajari.
+2.2
+
+Jenis Kebudayaan
+
+Kebudayaan dapat dibagi menjadi 3
+macam dilihat dari keadaan jenis-jenisnya:
+1. Hidup kebatinan manusia, yaitu sesuatu
+yang menimbulkan tertib damainya hidup
+masyarakat
+dengan
+adat-istiadatnya,
+pemerintahan negeri, agama atau ilmu
+kebatinan.
+2. Angan-angan manusia, yaitu sesuatu yang
+dapat menimbulkan keluhuran bahasa,
+kesastraan dan kesusilaan.
+3. Kepandaian manusia, yaitu sesuatu yang
+menimbulkan macam-macam kepandaian
+tentang perusahaan tanah, perniagaan,
+kerajinan, pelayaran, hubungan lalu-lintas,
+kesenian yang berjenis-jenis semuanya
+bersifat indah (Ki Hajar Dewantara; 1994).
+2.2.1 Kebudayaan berdasarkan wujudnya
+
+Menurut J.J. Hoenigman, wujud kebudayaan
+dibedakan menjadi tiga, yaitu:
+1. Gagasan (Wujud ideal)
+Wujud
+ideal
+kebudayaan
+adalah
+kebudayaan yang berbentuk kumpulan ideide, gagasan, nilai-nilai, norma-norma,
+peraturan, dan sebagainya yang sifatnya
+abstrak tidak dapat diraba atau disentuh.
+Wujud kebudayaan ini terletak dalam
+kepala-kepala atau di alam pemikiran warga
+masyarakat..
+
+Tujuan pembuatan aplikasi ini adalah
+untuk
+memberikan
+keterangan
+lokasi,
+informasi budaya daerah, gambar, dan suara
+alat musik khas daerah yang mengenalkan
+kepada user agar dapat dipahami sebelum
+menuju lokasi wisata yang akan dikunjungi.
+Harni Kusniyati: Aplikasi Edukasi Budaya….
+
+Pengertian Budaya
+
+2. Aktivitas (tindakan)
+
+9-18
+
+ISSN 1979-9160
+
+JURNAL TEKNIK INFORMATIKAVOL. 9 NO. 1, APRIL 2016
+
+Aktivitas adalah wujud kebudayaan sebagai
+suatu tindakan berpola dari manusia dalam
+masyarakat itu. Wujud ini sering pula
+disebut dengan sistem sosial.
+
+Definisi lain dari multimedia yaitu dengan
+menempatkannya dalam konteks, seperti yang
+dilakukan oleh (Hoftsteter, 2001). Multimedia
+adalah pemanfaatan komputer untuk membuat
+dan menggabungkan teks, grafik, audio, video
+dan animasi dengan menggabungkan link dan
+tool yang memungkinkan pemakai melakukan
+navigasi,
+berinteraksi,
+berkreasi
+dan
+berkomunikasi (Munir. 2012).
+
+3. Artefak (karya)
+
+Artefak adalah wujud kebudayaan fisik
+yang berupa hasil dari aktivitas, perbuatan,
+dan karya semua manusia dalam
+masyarakat berupa benda-benda atau halhal yang dapat diraba, dilihat, dan
+didokumentasikan. Sifatnya paling konkret
+diantara ketiga wujud kebudayaan. Dalam
+kenyataan kehidupan bermasyarakat, antara
+wujud kebudayaan yang satu tidak bisa
+dipisahkan dari wujud kebudayaan yang
+lain. Sebagai contoh: wujud kebudayaan
+ideal mengatur dan memberi arah kepada
+tindakan (aktivitas) dan karya (artefak)
+manusia.
+
+2.5
+
+Android
+Android adalah sistem operasi berbasis
+Linux yang dirancang untuk perangkat bergerak
+layar sentuh seperti telepon pintar dan komputer
+tablet. Android awalnya dikembangkan oleh
+Android, Inc dengan dukungan finansial Google,
+yang kemudian membelinya pada tahun 2005.
+2.5.1 Sejarah Android
+
+Android adalah sistem operasi yang
+berbasis Linux untuk telepon seluler seperti
+telepon pintar dan komputer tablet. Android
+menyediakan platform terbuka bagi para
+pengembang untuk menciptakan aplikasi
+mereka sendiri untuk digunakan oleh
+bermacam peranti bergerak. Awalnya, Google
+Inc. membeli Android Inc., pendatang baru
+yang membuat peranti lunak untuk ponsel.
+Kemudian untuk mengembangkan Android,
+dibentuklah
+Open
+Handset
+Alliance,
+konsorsium dari 34 perusahaan peranti keras,
+peranti lunak, dan telekomunikasi, termasuk
+Google, HTC, Intel, Motorola, Qualcomm, TMobile, dan Nvidia.
+Pada saat perilisan perdana Android, 5
+November 2007, Android bersama Open
+Handset Alliance menyatakan mendukung
+pengembangan standar terbuka pada perangkat
+seluler. Di lain pihak, Google merilis kode–
+kode Android di bawah lisensi Apache, sebuah
+lisensi perangkat lunak dan standar terbuka
+perangkat seluler.
+
+2.3 Pengertian Edukasi
+
+Edukasi adalah proses pembelajaran
+yanag bertujuan untuk mengembangkan
+potensi diri pada peserta didik dan
+mewujudkan proses pembelajaran yang lebih
+baik.
+Edukasi
+ini
+bertujuan
+untuk
+mengembangkan kepribadian, kecerdasan dan
+mendidik peserta untuk memiliki akhlak mulia,
+mampu mengendalikan diri dan memiliki
+keterampilan. Edukasi lebih dikenal dan
+diucapkan dengan kata pendidikan atau
+edukasi adalah upaya manusia dewasa
+membimbing manusia yang belum dewasa
+kepada kedewasaan. Edukasi ialah usaha
+menolong
+anak
+untuk
+melaksanakan
+tugastugas hidupnya, agar bisa mandiri, akilbalik, dan bertanggung jawab secara susila.
+Edukasi adalah usaha mencapai penentuandiri-susila dan tanggung jawab. (M.J
+Langeveld, 1905).
+2.4 Multimedia
+Panduan untuk multimedia harus dimulai
+dengan definisi atau pengertian multimedia. Dalam
+industri elektronika, multimedia adalah kombinasi
+dari komputer dan video (Rosch,1996) atau
+multimedia secara umum merupakan kombinasi
+tiga elemen yaitu suara, gambar, dan teks (Mc
+Cormick,1996) atau multimedia adalah kombinasi
+dari paling sedikit dua media input dan output dari
+data, media ini dapat berupa audio (suara, musik),
+animasi, video, teks, grafik dan gambar (Turban
+dkk, 2002) atau multimedia merupakan alat yang
+menciptakan presentasi yang dinamis dan interaktif
+yang mengkombinasikan teks, grafik, animasi,
+audio dan gambar video.
+
+Harni Kusniyati: Aplikasi Edukasi Budaya….
+
+| 11
+
+2.5.2 Perkembangan Android
+a. Android versi 1.1
+
+Android memang diluncurkan pertama
+kali pada tahun 2007, namun sistem
+operasi ini mulai dirilis dan diterapkan ke
+berbagai gadget pada tanggal 9 Maret
+2009 silam. Android versi 1.1 merupakan
+Android awal yang dimana versi ini baru
+memberikan
+sentuhan
+dibeberapa
+aplikasinya seperti sistem antar muka bagi
+pengguna (user interface) yang lebih baik,
+serta beberapa aplikasi yang lain.
+b.
+
+9-18
+
+Android versi 1.5 (Cupcake)
+
+ISSN 1979-9160
+
+12 |
+
+JURNAL TEKNIK INFORMATIKAVOL. 9 NO. 1, APRIL 2016
+
+Pada bulan Mei 2009 Android kembali
+mengalami perubahan versi. Android
+versi 1.1 kemudian disempurnakan
+dengan Android versi 1.5 atau yang
+dikenal sebagai Android Cupcake.
+c.
+
+diganti dengan OS Android KitKat yang
+sebagian besar orang sudah familiar
+dengan itu.
+k.
+
+Android versi 1.6 (Donut)
+
+Donut (versi 1.6) diluncurkan dalam
+tempo kurang dari 4 bulan semenjak
+peluncuran perdana Android Cupcake,
+yaitu pada bulan September 2009.
+d.
+
+Android versi 2.0/2.1 (Eclair)
+
+Masih ditahun yang sama, Android
+kembali merilis operating sistem versi
+terbarunya, yaitu Android versi 2.0/2.1
+Eclair. Android Eclair diluncurkan oleh
+Google 3 bulan setelah peluncuran.
+e.
+
+f.
+
+l.
+
+Android versi 2.2 (Froyo: Frozen Yoghurt)
+Butuh 5 bulan bagi Google untuk melakukan
+regenerasi dari Android Eclair versi
+sebelumnya ke versi Froyo Frozen Yoghurt.
+Pada tanggal 20 Mei 2010, Android versi 2.2
+alias Android Froyo ini dirilis.
+Android versi 2.3 (Gingerbread)
+
+7 bulan kemudian Android kembali
+melakukan gebrakan dengan merilis
+kembali Android versi 2.3 atau yang
+dikenal sebagai Android Gingerbread.
+g.
+
+Android versi 4.0 (ICS: Ice Cream Sandwich)
+
+a. Framework
+aplikasi
+yang
+mendukung
+penggantian komponen dan reusable.
+b. DVM dioptimalkan untuk perangkat mobile.
+c. Integrated browser berdasarkan engine open
+source WebKit.
+d. Grafis yang dioptimalkan dan didukung oleh
+libraries grafis 2D, grafis 3D berdasarkan
+spesifikasi OpenGL ES 1.0.
+e. SQLite untuk penyimpanan data.
+f. Dukungan untuk audio, video dan gambar.
+g. Bluetooth, Edge, 3G, Wifi.
+h. Kamera, GPS, kompas dan accelerometer.
+
+Android ICS atau Ice Cream Sandwich
+juga dirilis pada tahun yang sama dengan
+Honeycomb, yaitu pada bulan Oktober
+2011.
+i.
+
+Android versi 4.1 (Jelly Bean)
+
+Android Jelly Bean merupakan versi
+Android yang terbaru pada saat ini. Salah
+satu gadget yang menggunakan sistem
+operasi Jelly Bean adalah Google Nexus 7
+yang diprakarsai oleh ASUS, vendor asal
+Taiwan yang juga menjadi teman satu
+kampung halaman dengan Acer.
+j.
+
+Lingkungan development yang lengkap dan
+kaya termasuk perangkat emulator, tools untuk
+debugging, profil dan kinerja memori serta
+plugins untuk IDE Eclipse.
+
+Android versi 4.4 (Kit Kat)
+
+Kehadiran android kitkat merupakan
+pelucuran produk OS anyar yang
+dilucurkan pada 4 september 2013,
+sebelumnya banyak kabar beredar jikalau
+android akan meluncurkan OS baru yang
+bernama Android Key Lime Pie namun
+setelah di analisa tidak sesuai dengan
+ejaan orang umum, sehingga namanya
+Harni Kusniyati: Aplikasi Edukasi Budaya….
+
+Android versi 6.0 (Marshmallow)
+Android 6.0 Marshmallow adalah versi dari
+sistem operasi mobile Android. Pertama kali
+diperkenalkan Mei 2015 di Google I / O di
+bawah kode nama Android M, secara resmi
+dirilis pada Oktober 2015. Android
+Marshmallow memperkenalkan model izin
+aplikasi didesain ulang sekarang ada hanya
+delapan kategori izin, dan aplikasi yang tidak
+lagi secara otomatis diberikan semua hak
+akses mereka ditentukan pada waktu instalasi.
+
+2.6 Android SDK (Software Development
+Kit)
+Android SDK adalah tools API
+(Application Programming Interface) yang
+diperlukan untuk memulai mengembangkan
+aplikasi pada platform Android menggunakan
+bahasa pemrograman Java.
+Beberapa fitur Android yang penting
+adalah sebagai berikut :
+
+Android versi 3.0/3.1 (Honeycomb)
+
+Pada bulan Mei 2011 Android versi
+3.0/3.1 atau Android Honeycom dirilis.
+Android Honeycomb merupakan sebuah
+sistem operasi Android yang tujuannya
+memang dikhususkan bagi penggunaan
+tablet berbasis Android.
+h.
+
+Android versi 5.0.2 (Lollipop)
+
+Android Lollipop merupakan keberadaan
+OS Android yang memang saat ini sudah
+menjadi
+trend
+baru
+di
+industri
+smartphone, hal ini tak lepas dari
+keunikan dan kelebihan yang banyak di
+miliki dari OS tersebut. Kehadiran
+android versi ini amat di nanti oleh sekian
+banyak orang karna diharapkan sistem
+operasi Lollipop ini bias lebih baik
+dibandingkan versi-versi sebelumnya.
+
+2.7 Eclipse
+
+Eclipse adalah sebuah IDE (Integrated
+Development
+Environment)
+untuk
+mengembangkan perangkat lunak dan dapat
+dijalankan di semua platform (platformindependent).
+9-18
+
+ISSN 1979-9160
+
+JURNAL TEKNIK INFORMATIKAVOL. 9 NO. 1, APRIL 2016
+
+2.8
+
+sistem untuk membuat cetak biru atas visi
+mereka dalam bentuk yang baku, mudah
+dimengerti serta dilengkapi dengan mekanisme
+yang
+efektif
+untuk
+berbagi
+dan
+mengkomunikasikan
+rancangan
+mereka
+dengan yang lain.
+2.12.1 Use Case Diagram
+Munawar (2005 : 64) menyatakan
+bahwa use case adalah deskripsi fungsi dari
+sebuah sistem dari perspektif pungguna. Use
+case bekerja dengan cara deskripsikan tipikal
+interaksi pada antar user (pengguna) sebuah
+sistem dengan sistemnya sendiri melalui
+sebuah cerita bagaimana sebuah sistem
+dipakai.
+2.12.2 Activity diagram
+Activity diagram menurut Munawar
+(2005:
+109)
+adalah
+teknik
+untuk
+mendeskripsikan logika prosedural, proses
+bisnis dan aliran kerja dalam banyak kasus.
+Activity diagram mempunyai peran seperti
+halnya flowchart, akan tetapi perbedaannya
+dengan flowchart adalah activity diagram bisa
+mendukung perilaku paralel sedangkan
+flowchart tidak bisa.
+
+SQLite
+
+SQLite merupakan
+sebuah system
+management
+basis data relasional yang
+bersifat ACID - compliant dan memiliki
+ukuran pustaka kode yang relatif kecil, ditulis
+dalam bahasa C. SQLite merupakan proyek
+yang bersifat public domain yang dikerjakan
+oleh D. Richard Hipp.
+SQLite mengimplementasikan hampir
+seluruh elemen-elemen standar yang berlaku
+pada SQL-92, termasuk transaksi yang bersifat
+atomic, konsistensi basis data, isolasi, dan
+durabilitas (dalam bahasa inggris lebih sering
+disebut ACID), trigger, dan kueri-kueri yang
+kompleks.
+2.9
+
+ADB (Android Debug Bridge)
+
+ADB adalah alat serbaguna yang bisa
+mengendalikan perangkat Android (emulator)
+yang terhubung dengan komputer. Dengan
+ADB kita bisa menggunakan smartphone
+Android kita untuk melakukan pengujian
+aplikasi.
+2.10
+
+ADT(Android Developer Tools)
+
+Safaat (2012: 6) juga memaparkan
+bahwa Android Development Tools (ADT)
+adalah plug-in yang didesain untuk IDE
+Eclipse yang memberi kita kemudahan dalam
+mengembangkan aplikasi Android dengan
+menggunakan IDE Eclipse.
+2.11
+
+2.12.3 Diagram Class
+Class adalah sebuah spesifikasi yang
+jika diinstansiasi akan menghasilkan sebuah
+objek dan merupakan inti dari pengembangan
+dan desain berorientasi objek.
+2.12.4 Diagram Sequence
+Diagram sequence merupakan salah satu
+yang menjelaskan bagaimana suatu operasi
+itu dilakukan message (pesan) apa yang
+dikirim dan kapan pelaksanaannya.
+2.13 Metode Luther
+Dalam tahap perancangan aplikasi dan
+pembuatan aplikasi, Menurut Luther(1994)
+terdapat 6 tahap yaitu:
+1. Concept (Perancangan Konsep)
+2. Design (Pendesainan)
+3. Material Collecting (Pengumpulan
+
+JDK (Java Development Kit)
+
+Menurut DeCoster (2012), Java adalah
+sebuah teknologi yang diperkenalkan oleh Sun
+Microsysytems pada pertengahan tahun 1990.
+Menurut definisi Sun, Java adalah nama untuk
+sekumpulan teknologi untuk membuat dan
+menjalankan perangkat lunak pada computer
+standalone ataupun pada lingkungan jaringan.
+Untuk membuat program Java dibutuhkan
+kompiler dan interpreter untuk program Java
+berbentuk Java Development Kit (JDK) yang
+diproduksi oleh Sun Microsystems. Sebelum
+memulai instalasi Android SDK, terlebih
+dahulu kita harus melakukan instalasi JDK
+dikomputer. JDK yang kami gunakan untuk
+dapat mengompilasi aplikasi Android yang
+kami rancang ini adalah Java SE Development
+Kit 8.
+2.12
+
+Bahan dan Materi)
+
+4. Assembly (Pembuatan/pengkodean)
+5. Testing (Pengujian)
+6. Distribution (Pendistribusian)
+
+UML
+
+Keenam tahap ini tidak harus berurutan dalam
+praktiknya, tahap-tahap tersebut bisa dapat bertukar
+posisi tergantung kebutuhan. Meskipun begitu,
+tahap Concept memang harus menjadi hal pertama
+yang di kerjakan.
+Penjelasan rinci tentang proses diatas adalah
+sebagai berikut,
+1. Concept
+
+UML (Unified Modelling Language)
+adalah salah satu alat bantu yang sangat handal
+di dunia pengembangan sistem yang
+berorientasi obyek. Hal ini disebabkan karena
+UML menyediakan bahasa pemodelan visual
+yang memungkinkan bagi pengembangan
+
+Harni Kusniyati: Aplikasi Edukasi Budaya….
+
+| 13
+
+9-18
+
+ISSN 1979-9160
+
+14 |
+
+JURNAL TEKNIK INFORMATIKAVOL. 9 NO. 1, APRIL 2016
+
+Tahap concept (konsep) adalah tahap untuk
+menentukan tujuan dan siapa pengguna
+program (identifikasi audience). Selain itu
+menentukan macam aplikasi (presentasi,
+interaktif, dll) dan tujuan aplikasi (hiburan,
+pelatihan, pembelajaran, dll).
+2. Design
+Design (perancangan) adalah tahap membuat
+spesifikasi mengenai arsitektur program, gaya,
+tampilan dan kebutuhan material/bahan untuk
+program.
+3. Material Collecting
+Material Collecting adalah tahap dimana
+pengumpulan bahan yang sesuai dengan
+kebutuhan dilakukan. Tahap ini dapat
+dikerjakan paralel dengan tahap assembly. Pada
+beberap kasus, tahap Material Collecting dan
+tahap Assembly akan dikerjakan secara linear
+tidak paralel.
+4. Assembly
+Tahap assembly (pembuatan) adalah tahap
+dimana semua objek atau bahan multimedia
+dibuat. Pembuatan aplikasi didasarkan pada
+tahap design.
+5. Testing
+Dilakukan setelah selesai tahap pembuatan
+(assembly)
+dengan
+menjalankan
+aplikasi/program dan dilihat apakah ada
+kesalahan atau tidak. Tahap ini disebut juga
+sebagai tahap pengujian alpha (alpha test)
+dimana pengujian dilakukan oleh pembuat atau
+lingkungan pembuatnya sendiri.
+6. Distribution
+Tahapan dimana aplikasi disimpan dalam suatu
+media penyimpanan. Pada tahap ini jika media
+penyimpanan tidak cukup untuk menampung
+aplikasinya, maka dilakukan kompresi terhadap
+aplikasi tersebut.
+2.14 Black Box Testing
+
+3.1 Konsep
+Dalam membuat sebuah Aplikasi
+Edukasi Toba Samosir tentunya harus diawali
+dengan proses pembuatan konsep. Pada tahap
+konsep
+ini
+berisi
+mengenai
+analisa
+permasalahan, analisa kebutuhan, deskripsi
+umum sistem dan alur kerja sistem.
+Media informasi wisata pada saat ini
+semakin berkembang, namun perkembangan
+tersebut tidak diikuti dengan pemanfaatan media
+tersebut. Oleh karena itu informasi wisata ini
+memanfaatkan
+kemajuan
+teknologi
+untuk
+mempermudah user dalam mencari informasi
+wisata terutama pada ruang lingkup budaya toba
+samosir yang terpopuler. Media informasi wisata
+pada umumnya memanfaatkan media berupa
+website dan iklan di televisi. Dalam proses
+pembuatan aplikasi informasi budaya toba samosir
+ini memang tidak semudah media website maupun
+iklan di televisi tetapi aplikasi ini lebih praktis dan
+efisien jika dibandingkan dengan kedua media
+sebelumnya. Oleh karena itu penulis melakukan
+analisa permasalahan apa saja dalam membuat
+aplikasi edukasi toba samosir pada telepon seluler
+berbasis android.
+1. Data apa saja yang diperlukan dalam proses
+pembuatan aplikasi ?
+2. Bagaimana cara memberikan suara pada
+halaman wisata dan budaya ?
+3. Bagaimana cara merancang navigasi yang
+mudah digunakan dan antarmuka aplikasi
+yang menarik pada penggunanya ?
+
+3.1.1 Analisa Kebutuhan
+Perangkat keras yang digunakan penulis
+untuk melakukan penelitian ini adalah satu set
+laptop dengan spesifikasi :
+1. Processor : Intel® Core ™ i5-4210U CPU
+@1.70 GHz
+2. Memory : 4.00GB RAM
+3. Harddisk Drive : 750 GB
+4. Video Graphics Adapter (VGA) : Intel®
+HD Graphics Family
+5. Keyboard : PS/2 devices
+Sedangkan perangkat lunak yang digunakan
+penulis dalam penelitian ini adalah :
+1. Windows 8.1Pro 64-bit sebagai sistem
+operasi.
+2. Eclipse sebagai developer aplikasi.
+3. Adobe Photoshop CS3 untuk membuat
+button pada aplikasi.
+4. Android SDK sebagai compiler untuk
+membuat Android Package (APK file).
+
+Pengujian Black-Box merupakan metode
+yang menguji perangkat lunak dari segi
+spesifikasi fungsional tanpa menguji
+desain dan kode program.
+III. ANALISIS DAN PERANCANGAN
+Dalam proses perancangan suatu
+aplikasi diperlukan analisa konsep yang tepat
+agar proses pembuatan dapat berjalan dengan
+baik dan sistem yang dibuat sesuai dengan
+yang diinginkan. Setelah analisis dilakukan
+perlu dilakukan perancangan aplikasi yang
+bertujuan untuk memberikan gambaran
+bagaimana jalannya aplikasi tersebut. Selain
+itu, perancangan juga dapat mempermudah
+programmer dalam mengimplementasikan
+aplikasi tersebut
+
+Harni Kusniyati: Aplikasi Edukasi Budaya….
+
+9-18
+
+ISSN 1979-9160
+
+JURNAL TEKNIK INFORMATIKAVOL. 9 NO. 1, APRIL 2016
+
+| 15
+
+3.2 Perancangan Sistem
+Perancangan
+sistem
+merupakan
+gambaran atau sketsa dan pembuatan dari
+beberapa tahap yang terpisah kedalam satu
+kesatuan yang utuh. Tujuan dari perancangan
+aplikasi adalah untuk memberikan gambaran
+kepada pengguna tentang aplikasi yang akan
+dibuat serta memberi ilustrasi atau rekayasa
+aplikasi
+yang
+lengkap
+untuk
+diimplementasikan ke dalam program tersebut.
+3.2.1 Pemodelan Use Case Diagram
+
+Diagram use case digunakan untuk
+menjelaskan dan menggambarkan sistem dan
+perilaku pengguna terhadap sistem itu sendiri.
+Diagram use case lebih menekankan apa yang
+akan diperbuat oleh sistem dan bukan
+menekankan bagaimana sistem tersebut
+bertindak.
+
+Gambar 3. Activity Diagram Halaman Edukasi
+3.2.2
+
+Perancangan Aplikasi
+
+Perancangan adalah penggambaran,
+perencanaan dan pembuatan sketsa atau
+pengaturan dari beberapa elemen yang terpisah
+kedalam satu kesatuan yang utuh. Perancangan
+sistem dapat dirancang dalam bentuk bagan
+alir sistem (system flowchart), yang merupakan
+alat bentuk grafik yang dapat digunakan untuk
+menunjukan urutan-urutan proses dari sistem
+(Syifaun Nafisah, 2003:2).
+IV. IMPLEMENTASI DAN PENGUJIAN
+Pada bab ini akan dibahas mengenai
+implementasi
+dan
+pengujian,
+setelah
+sebelumnya dilakukan analisa dan perancangan
+terhadap Aplikasi Game Labirin. Implementasi
+merupakan tahap realisasi dari rancangan
+sistem ke dalam struktur pemrograman dan
+menghasilkan aplikasi yang siap untuk di uji
+dan dioperasikan oleh target pengguna.
+Pembahasan tersebut akan dijelaskan pada
+subbab berikut ini.
+
+Gambar 1. Gambar Use Case Diagram
+
+4.1
+
+Implementasi Aplikasi
+
+Setelah melakukan analisa dan perancangan
+aplikasi
+langkah
+selanjutnya
+adalah
+pengkodean (implementasi) dan pengujian.
+Implementasi merupakan desain (perancangan)
+aplikasi dengan kode-kode tertentu yang dapat
+dimengereti oleh mesin dengan spesifikasi
+perangkat lunak (software) dan perangkat
+keras (Hardware) yang digunakan.
+4.2 Perangkat Pendukung Pengembangan
+Untuk melaksanakan penelitian ini
+tentunya membutuhkan alat pendukung berupa
+perngkat keras dan perangkat lunak, alat-alat
+yang digunakan dijelaskan sebagai berikut:
+
+Gambar 2. Activity Diagram Halaman Wisata
+
+- Laptop
+1. Microsoft Windows 8.1 Single Languange 64
+Bit
+
+Harni Kusniyati: Aplikasi Edukasi Budaya….
+
+9-18
+
+ISSN 1979-9160
+
+16 |
+
+JURNAL TEKNIK INFORMATIKAVOL. 9 NO. 1, APRIL 2016
+
+2. Eclipse Developer Tools Version: v21.1.0569685
+3. Android Developer Tools (ADT)
+4. Java Development Kit (Versi 8)
+5. SQLite
+6. Android SDK
+7. BlueStack Agent (0.9.6.4092) Android Versi
+4.4.4(Kit-Kat)
+
+Layout wisata ini user bisa memilih
+informasi wisata serta informasi harga yang
+ingin diketahui.
+
+- Ponsel Android
+Android 5.0 (Lollipop) sebagai sistem operasi.
+4.3
+
+Implementasi Basis Data
+
+Database untuk aplikasi edukasi toba samosir
+ini menggunakan SQLite yang bernama
+Database Adapter.
+4.3.1 Tabel Informasi Samosir
+
+Tabel
+wisata
+digunakan
+untuk
+menempatkan wisata yang akan dipilih user.
+Tabel 1. Struktur Tabel Informasi Samosir
+No Nama
+Tipe Data
+Key
+1
+ID
+INT
+Primary
+Key
+2
+Kuliner
+Varchar(50)
+3
+Nama
+Varchar(50)
+4
+Image
+Varchar(50)
+5
+Keterangan
+TEXT
+
+Gambar 5. Antarmuka Halaman Wisata
+4.5
+
+Pengujian Aplikasi
+
+Pengujian sistem dilakukan sebagai
+verifikasi atas sistem yang telah dibangun.
+Hal ini dimaksudkan untuk mengetahui
+kemungkinan terjadinya kesalahan dan untuk
+memastikan fungsi- fungsi pada sistem
+berjalan dengan baik. Pengujian yang penulis
+lakukan menggunakan metode pengujian
+Black-box. Metode Black-box merupakan
+metode
+pengujian
+berdasarkan
+pada
+fungsionalitas
+perangkat
+lunak,
+serta
+bertujuan untuk menemukan kemungkinan
+kesalahan fungsi tertentu.
+Tabel 2. Hasil Pengujian
+
+4.4 Implementasi Antarmuka Aplikasi
+4.4.1 Antarmuka Splash Screen
+Di sini akan menampilkan splash screen
+selama 5 detik sebelum masuk ke menu utama.
+
+No
+
+Skenario
+
+Rencana
+
+Hasil yang
+diharapkan
+
+1.
+
+Button
+Wisata
+
+2.
+
+Select
+Box
+wisata
+Select
+Box harga
+
+Klik
+button
+Wisata
+Memilih
+informasi
+wisata
+Memilih
+info
+harga
+
+Terbuka
+layout
+Wisata
+Menampilk
+an informasi
+wisata
+Menampilk
+an daftar
+informasi
+harga.
+Terbuka
+layout
+Budaya
+Menampilk
+
+3.
+
+Gambar 4. Antarmuka SplashScreen
+4.4.3 Antarmuka Halaman Wisata
+
+Harni Kusniyati: Aplikasi Edukasi Budaya….
+
+9-18
+
+4
+
+Button
+Budaya
+
+5
+
+Select
+
+Klik
+button
+Budaya
+Memilih
+
+Hasil
+Penguj
+ian
+SUKS
+ES
+SUKS
+ES
+SUKS
+ES
+
+SUKS
+ES
+SUKS
+
+ISSN 1979-9160
+
+JURNAL TEKNIK INFORMATIKAVOL. 9 NO. 1, APRIL 2016
+
+informasi
+budaya
+Klik
+button
+Edukasi
+Klik
+button
+video
+
+Box
+Budaya
+Button
+Edukasi
+
+6
+
+7
+
+Button
+Video
+
+an informasi
+budaya
+Terbuka
+layout
+Edukasi
+Terbuka
+layout video
+dan
+memutar
+video
+
+2. Pembuatan aplikasi ini adalah upaya
+mempermudah
+mengakses
+informasi
+budaya toba samosir.
+3. Aplikasi ini mengenalkan informasi
+mengenai budaya, wisata dan juga
+kesenian khas toba samosir kepada user
+agar dapat dipahami sebelum menuju
+lokasi yang akan dikunjungi.
+
+ES
+SUKS
+ES
+SUKS
+ES
+
+5.2 Saran
+Aplikasi yang dibuat ini tentunya masih
+banyak yang harus dikembangkan agar dapat
+meningkatkan kualitas dan kegunaannya.
+Saran untuk pengembangan aplikasi ini antara
+lain :
+1. Pembaharuan user interface agar aplikasi
+ini lebih berwarna dan menarik lagi untuk
+digunakan.
+2. Aplikasi edukasi budaya toba samosir ini
+tidak terbatas hanya pada platform android
+saja, melainkan dapat mendukung platform
+mobile maupun komputer lainnya.
+Sehingga penggunaan aplikasi edukasi
+budaya toba samosir tidak hanya sebatas
+menggunakan ponsel saja.
+3. Penambahan lokasi wisata yang belum ada
+di daftar wisata toba samosir.
+
+4.5.1 Distribusi
+
+Dalam memudahkan pengembang dan
+pengguna
+perangkat
+Android,
+Google
+menyediakan toko software online bagi
+aplikasi-aplikasi Android yang diberi nama
+Play Store. Dengan adanya aplikasi Play Store
+yang di-instal pada perangkat Android
+memungkinkan pengguna mencari dan mendownload aplikasi yang telah dikembangkan
+oleh pengembang aplikasi Android.
+
+4.
+
+Hasil akhir dari aplikasi ini adalah file paket
+instalasi Android yaitu Aplikasi Edukasi Toba
+Samosir.apk. File ini dapat di distribusikan melalui
+layanan Play Store, sehingga setiap pengguna
+Android dapat meng-instal langsung melalui
+market.
+
+V. KESIMPULAN DAN SARAN
+Kesimpulan
+
+Berdasarkan
+tahapan
+analisa,
+perancangan, implementasi dan pengujian
+yang telah dilakukan oleh penulis terhadap
+Aplikasi Edukasi Budaya Toba Samosir
+Berbasis Android, secara umum dapat
+diperoleh kesimpulan sebagai berikut :
+1. Penelitian ini telah berhasil membangun
+aplikasi edukasi budaya toba samosir
+berbasis android dan sesuai dengan
+perancangan yang telah dilakukan.
+
+Harni Kusniyati: Aplikasi Edukasi Budaya….
+
+Penambahan video dan fitur-fitur baru yang
+menarik lagi bagi user.
+
+DAFTAR PUSTAKA
+[1] Bavota, Gabriele. 2015. The Impact of
+API Change and Fault Proneness on the
+User Ratings of Android Apps : http :
+search.ebcohost.com
+[2] Cormick,
+Mc.
+1996.
+Pengertian
+Multimedia Menurut Para Ahli : http://tiasopyan.blogspot.co.id/2015/02/pengertian
+-multimedia-menurut-para-ahli.html
+[3] Dewantara, Ki Hajar. 1994. Pengertian
+Budaya
+Menurut
+Para
+Ahli
+:
+http://www.seputarpengetahuan.com/2015
+/03/pengertian-budaya-menurut-para-ahlilengkap.html
+[4] Decoster.
+2012.
+Pengertian
+Java
+Development
+Kit
+:
+http://library.binus.ac.id
+[5] Dimarzio, J. 2008. “AndroidTM A
+Programmer’s Guide”. The McGraw-Hill
+Companies.
+[6] Hermawan. S, Stephanus. 2011. Mudah
+Membuat Aplikasi Android. Yogyakarta :
+ANDI.
+[7] Hermanto,
+Bayu.
+2015.
+Aplikasi
+Multimedia Pariwisata Laut Indonesia
+
+Gambar 6. Play Store
+
+5.1
+
+| 17
+
+9-18
+
+ISSN 1979-9160
+
+18 |
+
+JURNAL TEKNIK INFORMATIKAVOL. 9 NO. 1, APRIL 2016
+
+Berbasis Android. Jakarta. Universitas
+Mercu Buana.
+[8] Hofster. 2001. Pengertian Multimedia
+Menurut Para Ahli : http://tiasopyan.blogspot.co.id/2015/02/pengertian
+-multimedia-menurut-para-ahli.html
+[9] Jeehong, Kim. 2015. Static Dalvik
+Bytecode Optimization for Android
+Applications : http://dx.doi.org
+[10] Kadir, Abdul. 2009. Dasar Perancangan
+dan Implementasi Database Relasional,
+Yogyakarta : ANDI.
+[11] Kang-Wook, Kim. 2015. An Efficient
+Implementation of Key Frame Extraction
+and Sharing in Android for Wireless
+Video
+Sensor
+Network
+:
+http://search.ebcohost.com
+[12] Langeveld, M.J. 1905. Pengertian
+Pendidikan Menurut Para Ahli :
+http://www.seputarpengetahuan.com/2015
+/02/15-pengertian-pendidikan-menurutpara-ahli.html
+[13] Mojica, Ruiz. 2014. Impact of Ad
+Libraries on Ratings of Android Mobile
+Apps : http://search.ebcohost.com
+[14] Munawar. 2005. Pengertian Unified
+Modelling
+Languange
+:
+http://bacablogmaisar.blogspot.com/2013/
+06/v-behaviorurldefaultvmlo.html
+[15] Munawar. 2005 : 64. Pengertian Use
+Case
+Diagram
+:
+http://bacablogmaisar.blogspot.com/2013/
+06/v-behaviorurldefaultvmlo.html
+[16] Munawar. 2005 : 109. Pengertian Activity
+Diagram
+:
+http://bacablogmaisar.blogspot.com/2013/
+06/v-behaviorurldefaultvmlo.html
+[17] Narendra Ragan Prabu (2012). Kumpulan
+Project Aplikasi Android Untuk Pemula.
+[18] Nafisah, Syifaun. Perancangan Aplikasi :
+http://tugasakhiramik.blogspot.co.id/2013/
+03/pengertian-perancangan-aplikasi.html
+[19] Post, Gerald V. 1999. Database
+Management Systems. Designing And
+Building
+Bussiness
+Applications.
+Singapore:
+The
+Mc
+Graw-Hill
+Companies.
+[20] Rosch. 1996. Pengertian Multimedia
+Menurut Para Ahli : http://tiasopyan.blogspot.co.id/2015/02/pengertian
+-multimedia-menurut-para-ahli.html
+[21] Safaat. 2012: 6. Pengertian Android
+Developer
+Tools
+:
+http://library.binus.ac.id
+Harni Kusniyati: Aplikasi Edukasi Budaya….
+
+[22] Shalahuddin. 2011. Pengujian Balck Box
+Testing : http://elib.unikom.ac.id
+[23] Sutopo. 2003. Penjelasan Metode Luther :
+http://iwanbinanto.com/2009/01/19/metod
+e-pengembangan-multimedia/
+[24] Turban. 2002. Pengertian Multimedia
+Menurut Para Ahli : http://tiasopyan.blogspot.co.id/2015/02/pengertian
+-multimedia-menurut-para-ahli.html
+[25] Udanor, C.N. 2016. Motivation for the
+Design and Implementation of SMS Slang
+Converter for Android Devices :
+http://search.ebcohost.com
+[26] http://www.twoh.co/2013/androiddatabase-sqlite-tutorial-i-membuatdatabase-sqlite/ (diakses tanggal 1
+Oktober 2015).
+[27] http://www.indonesia.travel/sites/site/119
+4/samosir (diakses tanggal 18 Desember
+2015).
+
+9-18
+
+ISSN 1979-9160
+
+

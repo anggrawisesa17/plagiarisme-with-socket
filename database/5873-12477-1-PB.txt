@@ -1,0 +1,694 @@
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+STUDI KESELAMATAN DAN KEAMANAN TRANSPORTASI DI
+PERLINTASAN SEBIDANG ANTARA JALAN REL DENGAN JALAN
+UMUM
+(Studi Kasus Perlintasan Kereta Api Di Jalan Padang, Bantan Timur,
+Kecamatan Medan Tembung)
+Sri Asfiati, Dinda Tri Mutiara
+Universitas Muhammadiyah Sumatera Utara
+Email: sriasfiati5@gmail.com
+Article Info
+Article history:
+Received
+Accepted
+Publisheed
+
+Abstrak.
+Suatu persimpangan biasanya terbentuk dari pertemuan antara
+dua ruas jalan dengan arah yang berbeda. Pertemuan antara dua
+:
+jenis prasarana transportasi jalan raya dengan perlintasan rel
+:
+kereta api di jalan Padang Medan Tembung merupakan salah
+:
+satu bentuk pertemuan yang dapat menimbulkan masalah yaitu
+kecelakaan dan kemacetan. Diketahui Perlintasan jalan Padang
+Keywords:
+Medan Tembung merupakan perlintasan yang tidak memenuhi
+Traffic Volume, Crossing a plot, Accident .
+dari segi kelengkapan atau fasilitas. Dari data yang diperoleh,
+perlintasan ini tidak memenuhi standar teknis perlintasan
+kereta api tak berpintu. Tidak ada pengamanan pada saat kereta
+api melintas, hanya ada stimulus berupa sirine dari kereta api
+itu sendiri untuk memberi tanda kepada pengguna jalan yang
+melintas. Kemudian hasil analisa kapasitas jalan menurut MKJI
+1997 didapat hasil C = 1313 smp/jam dan untuk hasil volume
+lalulintas pada jam sibuk didapat pada hari Senin di jam 07.0008.00 dengan 218 smp/jam. Selanjutnya nilai derajat kejenuhan
+pada Jalan Padang Medan Tembung berdasarkan hasil
+perhitungan adalah 0,17. Selanjutnya hasil perhitungan jarak
+pandang pada perlintasan kereta api jalan Padang yaitu jarak
+pandang pengguna jalan dari as rel didapat dH = 45,54 meter
+dan Jarak pandang masinis kereta terhadap pengguna jalan
+didapat dT 104,54 meter.
+Kata kunci: Volume Lalulintas, Perlintasan Sebidang, Kecelakaan.
+ABSTRACT: An intersection is usually formed from a meeting between two roads in different directions. The
+meeting between two types of road transportation infrastructure and railway crossings on Padang Medan
+Tembung road is one form of meeting that can cause problems, namely accidents and congestion. It is known
+that Padang Medan Tembung road crossing is a crossing that does not meet in terms of completeness or
+facilities. From the data obtained, this crossing does not meet the technical standards of doorless railway
+crossings. There are no security when the train passes, there is only a stimulus in the form of sirens from the
+train itself to signal to the users of the passing road. Then the results of the road capacity analysis according
+to MKJI 1997 obtained the result of C = 1313 smp / hour and for the result of traffic volume during rush hour
+obtained on Monday at 07.00-08.00 with 218 smp / hour. Furthermore, the saturation degree value on Jalan
+Padang Medan Tembung based on the calculation result is 0,17. Furthermore, the calculation of visibility at
+padang road railway crossing is the visibility of road users from as rail obtained dH = 45,54 meters and The
+visibility of the train driver against road users is obtained dT 104,54 meters.
+
+31
+
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+1. PENDAHULUAN
+Dalam suatu sistem jalan raya, persimpangan merupakan titik terjadinya konflik antara moda
+transportasi. Suatu persimpangan biasanya terbentuk dari petemuan antara dua ruas jalan
+dengan arah yang berbeda. Pertemuan antara dua jenis prasarana transportasi jalan raya dengan
+perlintasan rel kereta api merupakan salah satu bentuk pertemuan yang dapat menimbulkan
+masalah yaitu kecelakaan dan kemacetan.
+Hal ini tentunya tidak bisa dihindari karena beberapa jalan utama antar kota ataupun dalam kota
+bersimpangan dengan jalan rel, dan masing-masing jalan tersebut memiliki peraturanperaturannya sendiri dengan bermaksud memberikan keamanan dan kenyamanan penggunanya.
+Pertemuan jalan sebidang ini mempunyai aturan bahwa jalan rel kereta api menjadi prioritas
+dibandingkan jalan raya, sehingga sering terjadinya penumpukan atrian kendaraan yang
+panjang.
+Maka dengan adanya penelitian ini bermaksud untuk mengevaluasi dan menganalisis
+perlintasan sebidang yang berupaya meningkatkan keselamatan pengendara atau pengguna
+jalan maupun kereta api dengan mengavaluasi kondisi teknis perlintasan sebidang yang berupa
+kelengkapan infrastruktur, rambu-rambu lalulintas dan perlintasan kereta api serta menganalisis
+volume lalulintasnya.
+Perlintasan Kereta Api
+Perlintasan kereta api adalah persilangan antara jalur kereta api dengan jalan, baik jalan raya
+ataupun jalan kecil lainnya. Persilangan bisa terdapat di pedesaan ataupun perkotaan.
+Perlintasan terdiri dari perlintasan sebidang dan perlintasan tak sebidang. Perlintasan tak
+sebidang adalah persilangan antar jalur kereta api dengan jalan raya yang tidak pada satu
+bidang, misalnya pada flyover atau underpass (Purnomo, A, 2012). Perlintasan sebidang adalah
+pertemuan arus kendaraan bermotor pada satu sisi sedangkan pada sisi lain terdapat arus kereta
+api. Berdasarkan waktu penggunaan perlintasan, kereta api memiliki keberangkatan dan
+kedatangan yang sudah terjadwal dan diatur walaupun masih ada keterlambatan, sedangkan
+arus kendaraan tidak memiliki jadwal untuk melintasi perlintasan tersebut. Kendaraan bermotor
+memiliki keunggulan dari segi akselerasi dengan tingkat pengereman yang lebih baik dan
+hanya membutuhkan jarak singkat, sedangkan kereta api membutuhkan jarak yang panjang
+untuk melakukan pengereman dengan waktu relatif lama. Hal ini yang melatarbelakangi pola
+pengaturan perlintasan sebidang kereta api dengan jalan raya menganut sistem prioritas untuk
+kereta api dimana arus kendaraan harus berhenti dahulu ketika kereta api melewati perlintasan
+(Wildan, 3013).
+Konstruksi Perlintasan Sebidang
+Pada saat ini operator kereta api masih diselenggarakan oleh operator tunggal yakni PT. Kereta
+Api Indonesia (Persero), dengan semakin meningkatnya pengguna kereta api, maka PT. KAI
+(Persero) dituntut untuk lebih meningkatkan keselamatan, ketepatan waktu, kemudahan
+pelayanan dan kenyamanan. Gangguan terhadap angkutan penumpang atau barang sangat
+berpengaruh terhadap kredibilitas operator. Berdasarkan data maka salah satu gangguan yang
+cukup signifikan adalah kecelakaan ini umumnya melibatkan kereta api dengan kendaraan
+pribadi atau umum, bahkan dalam satu kasus kecelakaan juga disebabkan karena keluarnya
+roda kereta pada perlintasan. (Marsinggih Widhi, 2015).
+
+32
+
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+Kapasitas
+Kapasitas didefinisikan sebagai arus maksimum melalui suatu titik di jalan yang dapat
+dipertahankan per satuan jam pada kondisi tertentu. Kapasitas jalan perkotaan dihitung dari
+kapasitas dasar. Kapasitas dasar adalah jumlah kendaraan maksimum yang dapat melintasi
+suatu penampang pada suatu jalur atau jalan selama 1 (satu) jam, dalam keadaan jalan dan
+lalulintas yang mendekati ideal dapat dicapai. Besarnya kapasitas jalan dinyatakan pada
+Pers.2.1.
+C = Co × FCw × FCsp × FCsf × FCcs
+
+(2.1)
+
+Keterangan:
+C
+= kapasitas ruas jalan (smp/jam).
+Co = kapasitas dasar (ideal).
+FCw = faktor penyesuaian kapasitas untuk lebar jalur lalulintas.
+FCsp = faktor penyesuaian kapasitas untuk pemisahan arah.
+FCsf = faktor penyesuaian kapasitas untuk hambatan samping.
+FCcs = faktor penyesuaian kapasitas untuk ukuran kota.
+Derajat Kejenuhan
+Derajat kejenuhan adalah rasio arus terhadap kapasitas jalan. Biasanya digunakan sebagai
+faktor kunci dalam penentuan perilaku lalulintas pada suatu segmen jalan dan simpang. Dari
+nilai derajat kejenuhan ini dapat diketahui apakah segmen jalan tersebut akan memiliki masalah
+kapasitas atau tidak. Menurut MKJI 1997 untuk mencari besarnya nilai kejenuhan dapat dilihat
+pada Pers.2.2.
+𝑸
+
+𝑸×𝒄
+
+𝐃𝐒 = 𝑪 = 𝑺×𝒈
+
+(2.2)
+
+Dimana:
+DS = Derajat Kejenuhan.
+Q = Arus lalulintas (smp/jam).
+C = Kapasitas ruas jalan (smp/jam).
+Jika nilai DS < 0.85 maka jalan tersebut masih layak,tetapi jika DS > 0.85 maka diperlukan
+penanganan pada jalan tersebut untuk mengurangi kepadatan
+Jarak Pandang
+Menurut (Silvia Sukirman) keamanan pengemudi kendaraan untuk dapat melihat dengan jelas
+dan menyadari situasinya pada saat pengemudi, sangat tergantung pada jarak yang dapat dilihat
+dari tempat kedudukannya panjang jalan di depan kendaraan yang masih dapat dilihat dengan
+jelas diukur dari titik kedudukan pengemudi, disebut jarak pandangan. Jarak pandang berguna
+untuk:
+a. Menghindari terjadinya tabrakan yang dapat membahayakan kendaraan dan manusia akibat
+adanya benda berukuran cukup besar, kendaraan yang sedang berhenti, pejalanan kaki atau
+hewan-hewan pada lajur jalan.
+b. Memberikan kemungkinan untuk mendahului kendaraan lain yang bergerak dengan
+kecepatan lebih rendah dengan mempergunakan lajur disebelahnya.
+
+33
+
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+c. Menambah efisiensi jalan tersebut sehingga volume pelayanan dapat dicapai semaksimal
+mungkin.
+d. Sebagai pedoman bagi pengatur lalulintas dalam menempatkan rambu-rambu lalulintas yang
+diperlukan pada setiap segmen jalan.
+Namun jika dilihat dari kegunaannya jarak pandang dapat dibedakan atas dua bagian yaitu:
+a. Jarak pandang henti yaitu jarak pandang yang dibutuhkan untuk menghentikan
+kendaraannya.
+b. Jarak pandang menyiap yaitu jarak pandang yang dibutuhkan untuk menyiap kendaraan lain
+yang berada pada lajur jalannya dengan menggunakan lajur untuk arah yang berlawanan
+Persamaan dasar hubungan antara jarak pandang dengan kecepatan kendaraandan kecepatan
+keretayang dirumuskan dalam Pedoman Teknis Perlintasan Antara Jalan dengan Jalur Kereta
+Api terlihat pada Pers. 2.3 dan Pers 2.4.
+dH = 0,28*Vv*t + (Vv2 / (254*f)) + D + de
+
+(2.3)
+
+dan untuk masinis yaitu:
+dT = Vt/Vv ((0,28*Vv*t + (Vv2 / (254*f)) + 2D + L + W)
+
+(2.4)
+
+Keterangan:
+dH
+: Jarak pandang terhadap jalan bagi kendaraan kecepatan VV untuk berhenti dengan
+aman tanpa melanggar batas perlintasan.
+dT
+: Jarak pandang terhadap jalan rel untuk melakukan manuver seperti yang
+dideskripsikan untuk dH.
+L
+: Panjang kendaraan.
+D
+: Jarak dari garis stop atau dari bagian depan kendaraan terhadap rel terdekat.
+De
+: Jarak dari pengemudi terhadap bagian depan kendaraan.
+dH
+: Jarak pandang terhadap jalan raya yang menyebabkan kendaraan dapat mencapai
+kecepatan VV untuk melintasi rel dengan aman meskipun kereta sudah terlihat pada jarak dT
+dari perlintasan, atau jarak untuk menghentikan kendaraan dengan aman tanpa melanggar batas
+perlintasan.
+dT
+: Jarak pandang terhadap jalan untuk melakukan manuver seperti
+dideskripsikan dH
+VV
+: Kecepatan kendaraan (km/jam)
+VT
+: Kecepatan kereta (km/jam)
+T
+: Waktu presepsi (reaksi), yang diasumsikan sebesar 2,5 detik (nilai ini disumsikan
+untuk jarak minimum untuk berhenti yang aman)
+F
+: Koefisien gesek, menurut AASHTO nilai
+f
+: -0,00065Vv+0.192 untuk Vv ≤ 80 km/jam
+f
+: -0.00125Vv+0.24 untuk Vv > 80 km/jam
+D
+: Jarak dari garis stop atau dari bagian depan kendaraan terhadap rel terdekat,
+yang disumsikan 4,5 m.
+De
+: Jarak dari pengemudi terhadap bagian depan kendaraan
+L
+: Panjang kendaraan, yang disumsikan 20 m
+W
+: Jarak antara rel-rel terluar
+34
+
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+Pada saat pintu perlintasan ditutup (t1) dapat dilihat pada Pers 2.5.
+
+ωAB = q / (kj-k1)
+
+(2.5)
+
+Keterangan :
+q = Kapasitas atau arus kendaraan (smp/jam).
+kj = Kerapatan macet, pada saat semua kendaraan berhenti (smp/jam).
+k1
+= kerapatan kendaraan satu (smp/jam).
+ωAB
+= Kecepatan dari A ke B (km/jam).
+Kemudian pada saat pintu dibuka (t2)dapat dilihat pada Pers 2.6.
+
+ωCB = q maks / (kj-ko)
+
+(2.6)
+
+Keterangan :
+q maks = Kapasitas arus maksimum (smp/jam).
+ko
+= Kerapatan kritis (smp/jam).
+ωCB
+= Kecepatan dari C ke B.
+Kemudian pada saat arus lalulintas kembali normal (t3) dapat dilihat pada Pers 2.7.
+
+ωAC = (q maks-q) / (ko-k)
+
+(2.7)
+
+Arus lalu lintas dengan kondisi D,C,B dan A menerus terjadi sampai denganωAB dan ωCB
+mencapai t3. Selang waktu antara t2 sampai t3 dapat dihitung dengan Pers 2.8.
+𝛚𝐀𝐁
+
+t3 – t2 = t x 𝛚𝐂𝐁− 𝛚𝐀𝐁
+
+(2.8)
+
+Dengan r adalah lamanya waktu pintu perlintasan ditutup, maka panjang antrian maksimum
+akan terjadi pada waktu t3, dapat dihitung menggunakan Pers 2.9.
+QM
+
+𝐭
+
+𝛚𝐁𝐂 𝒙 𝛚𝐀𝐁
+
+= 𝟑𝟔𝟎𝟎 x 𝛚𝐁𝐂 − 𝛚𝐀𝐁
+
+(2.9)
+
+Kemudian menghitung waktu pelepasan antrian dengan menggunakan Pers 2.10.
+𝐭 𝒙 𝛚𝐀𝐁
+
+𝛚𝐁𝐂
+
+t4 – t2 = 𝛚𝐁𝐂 − 𝛚𝐀𝐁 x ( 𝛚𝐀𝐂 + 𝟏 )
+(2.10)
+Kemudian menghitung jumlah kendaraan yang mengalami antrian dengan menggunakan Pers
+2.11.
+N
+
+= (r + t3-2) x qA
+
+(2.11)
+
+Untuk tundaan yang terjadi dapat dihitung menggunakan Pers 2.12.
+T
+
+= t + ta
+
+(2.12)
+
+35
+
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+2. METODOLOGI
+Metode pengumpulan Data
+Data yang digunakan adalah:
+a.
+Data primer berupa Observasi, Dokumentasi, Datan Volume Lalu lintas.
+b.
+Data sekunder berupa Data fasilitas perlintasan, Data kondisi fisik perlintasa, Data
+kondisi lingkungan di sekitar perlintasa.
+Metode analisis
+Dalam tahap ini data primer dan sekunder yang diperoleh selanjutnya diolah. Kajian dan
+pengolahan data itu diantaranya mengenai:
+a. Membandingkan kondisi yang ada di lapangan dengan standar teknis.
+b. Pengkajian dan evaluasi data yang diperoleh dengan standar pedoman yang pernah
+dikeluarkan oleh Pemerintah melalui departemen terkait untuk mengetahui seberapa jauh
+kekurangan dan penyimpangan terhadap keamanan dan keselamatan di perlintasan kereta api di
+Jalan Padang Kec.Medan Tembung.
+c. Inventarisasi ketidaksesuaian antara standar teknis yang ada dengan kondisi yang ada di
+lapangan.
+Kemudian, hasil pengolahan data diatas selanjutnya dianalisis. Analisis data meliputi:
+a. Evaluasi perlintasan sebidang kereta api di Padang Kec.Medan Tembung mengenai
+standar perlengkapan untuk diketahui tingkat keamanannya.
+b. Analisa perangkat dan komponen pengaman perlintasan kereta api untuk diketahui
+efektifitasnya dalam mengamankan sarana transportasi kereta api yang melintas.
+c. Analisa mengenai pengaruh kondisi fisik perlintasan terhadap tingkat keselamatan pemakai
+jalan umum yang melintas.
+d. Analisa kelengkapan jalan raya umum (marka dan rambu) untuk diketahui efektifitasnya
+dalam memberi tanda perhatian kepada pengguna jalan umum yang akan melintas. Pemasangan
+rambu dan marka biasanya sangat bermanfaat bagi pengguna jalan yang baru melewati jalan
+tersebut. Karena biasanya pengguna jalan yang baru akan lebih hati-hati dari pada pengguna
+jalan yang sudah terbiasa melewatinya.
+e. Analisa permasalahan yang dapat menjadi penyebab terjadinya kecelakaan antara kereta api
+dan pengguna jalan umum di perlintasan Jalan Padang Kec.Medan Tembung.
+f. Analisa mengenai jarak pandang pengguna jalan dan masinis kereta api atau kondisi
+lingkungan dan situasi di perlintasan kereta api Padang Kec.Medan Tembung termasuk di
+dalamnya penataan ruang dan bangunan di sekitar perlintasan yang dapat mengganggu jarak
+pandang masinis kereta api maupun pemakai jalan umum.
+g. Menganalisa hasil dari pengamatan di lapangan mengenai perilaku masyarakat dan
+pengguna jalan umum terutama berkaitan dengan kedisiplinan dan keamanan saat melintas di
+perlintasan kereta.
+h. Identifikasi konflik lain yang masih berhubungan atau bersinggungan dengan situasi
+transportasi di sekitar perlintasan.
+i. Merumuskan solusi mengenai manajemen keselamatan dan keamanan transportasi yang
+tepat dan sesuai dengan karakteristik perlintasan kereta api di Jalan Padang Kec.Medan
+Tembung.
+
+36
+
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+3. HASIL DAN PEMBAHASAN
+Volume Lalulintas
+Perhitungan untuk menentukan volume lalulintas dalam satuan mobil penumpang (smp)
+digunakan ekivalen mobil penumpang (emp) untuk jenis kendaraan yang berbeda dan data yang
+di ambil untuk perhitungan adalah yang terbesar pada jam sibuk. Untuk menghitung volume
+kendaraan untuk setiap jenis kendaraan dikalikan dengan faktor emp seperti yang dijelaskan
+sebelumnya pada Bab 2 Tabel 2.6. Contohnya untuk MC pada Hari Senin.
+Hari dan jam puncak pada hari senin jam 07:00-08:00 WIB
+07.00-08.00 WIB = (volume kendaraan MC jam 07.00-08.00) × 0,25
+= 837 × 0,25
+= 209 smp/jam
+Untuk LV
+07.00-08.00 WIB = (volume kendaraan LV jam 07.00 – 08.00) × 1,00
+= 9 × 1,00
+= 9 smp/jam
+Selanjutnya hasil perhitungan volume kendaraan smp/jam pada Jalan Padang Medan Tembung
+dari Hari Senin sampai dengan Hari Minggu dapat dilihat pada Tabel 4.1.
+Tabel 4.1: Volume kendaraan smp/jam pada jalan Padang Medan Tembung.
+Volume kendaraan Smp/jam
+
+Pukul
+
+Senin
+
+Selasa
+
+Rabu
+
+Kamis
+
+Jumat
+
+Sabtu
+
+Minggu
+
+07.00-08.00
+08.00-09.00
+12.00-13.00
+13.00-14.00
+16.00-17.00
+17.00-18.00
+Total
+
+218
+198
+127
+144
+144
+171
+1.001
+
+208
+187
+121
+141
+130
+160
+947
+
+197
+181
+115
+132
+125
+151
+900
+
+190
+169
+109
+126
+116
+145
+856
+
+180
+162
+102
+121
+114
+137
+817
+
+188
+163
+107
+121
+109
+137
+825
+
+189
+169
+111
+123
+120
+147
+859
+
+Perhitungan kapasitas jalan
+Untuk menganalisa kinerja ruas jalan, perlu diketahui data-data geometrik jalan yang di analisa.
+Data geometriknya adalah sebagai berikut:
+a. Tipe jalan
+: Dua lajur Tak Terbagi 2/2 UD
+b. Fungsi jalan
+: Lokal
+c. Kelandaian jalan
+: Datar
+d. Lebar jalur efektif
+: 5,5 meter
+e. Konstruksi Jalan
+: Perkerasan kaku
+37
+
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+f. Perpotongan rel dengan jalan : Perkerasan Lentur
+Perhitungan kapasitas jalan menurut MKJI 1997 menggunakan Pers. 2.1 Sehingga didapat nilai
+kapasitas sebesar:
+C = 2900 x 0,56 x 1 x 0,94 x 0,86
+= 1313 smp/Jam
+Berdasarkan perhitungan diatas, maka kapasitas ruas jalan Padang Medan Tembung adalah
+sebesar 1313 smp/jam.
+Analisa derajat kejenuhan
+Derajat kejenuhan atau degree of saturation (DS) didefinisikan sebagai rasio arus terhadap
+kapasitas, digunakan sebagai faktor utama dalam penentuan tingkat kinerja ruas jalan. Nilai DS
+menunjukan apakah segmen jalan tersebut mempunyai masalah kapasitas atau tidak. Persamaan
+yang digunakan untuk menghitung nilai derajat kejenuhan dengan menggunakan Pers. 2.3,
+sehingga didapatkan nilai pada hari senin pukul 07.00-08.00 dijalan Padang Medan Tembung
+ialah:
+DS = 218 / 1313 = 0,17
+Nilai derajat kejenuhan pada Jalan Padang Medan Tembung berdasarkan hasil perhitungan
+adalah 0,17. Berdasarkan nilai DS yang didapat diperoleh tingkat pelayanan jalan pada Jalan
+Padang Medan Tembung adalah pada tingkat pelayanan B (DS = 0,04 < V/C < 0,24), dimana
+Lalulintas agak ramai, kecepatan menurun.
+Kondisi Lingkungan Perlintasan Kereta Api Jalan Padang
+Kondisi lingkungan di sekitar perlintasan kereta api jalan Padang dipenuhi oleh rumah
+penduduk dan tempat usaha. Sebagian rumah dan tempat usaha masyarakat yang berada di
+pinggir rel menempati Daerah Milik Jalan Rel. Warga yang bermukim disepanjang rel banyak
+melakukan berbagai aktifitas usaha, dimana hal ini sebenarnya mengganggu operasional kereta
+api dan juga membahayakan keselamatan warga itu sendiri. Padatnya bangunan di sekitar rel
+itu tak lain karena dampak pertumbuhan pemukiman dan kepentingan usaha masyarakat
+yang pesat.
+Dan selama ini banyak masyarakat yang belum mengetahui aturan dan perundang-undangan
+mengenai pemanfaatan dan pengaturan ruang di sekitar rel kereta sehingga makin
+menyuburkan pertumbuhan bangunan-bangunan di sekitar rel kereta. Dalam Keputusan
+Menteri Perhubungan No 52 Tahun 2000 Mengenai Jalur Kereta khususnya pasal 12 ayat 1:
+Batas damija untuk jalan rel yang terletak di permukaan tanah sebagaimana dimaksud dalam
+Pasal 6 ayat (5), adalah batas paling luar sisi kiri dan kanan daerah manfaat jalan kereta api,
+masing-masing sebesar 6 (enam) meter.
+Sesuai aturan tersebut, maka enam meter sisi kiri maupun kanan rel harus bebas dari segala
+hambatan baik berupa bangunan, kegiatan usaha, maupun pepohonan. Karena pada dasarnya
+jalan rel kereta sama seperti jalan tol yang harus steril dari berbagai hambatan karena dalam
+operasionalnya kereta api memiliki kecepatan dan dimensi yang lebih dari angkutan darat
+lainnya.
+38
+
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+Dalam PP nomor 26 tahun 2008 tentang Rencana Tata Ruang wilayah Nasional Pasal 91
+menyatakan bahwa pemanfaatan ruang di sekitar rel oleh warga untuk kepentingan di luar
+operasional kereta api sangat tidak dibenarkan.
+Jarak Pandang Pengguna Jalan Umum Dan Masinis Kereta Api
+Selain mengganggu operasional kereta api, bangunan-bangunan di kiri dan kanan rel telah
+menutupi jarak pandang masinis kereta api dan pengguna jalan yang melintas. Dari hasil
+pengamatan di lapangan jarak pandang pengguna jalan terhadap rel/kereta yang melintas
+kurang lebih hanya dua meter saja, dan jarak pandang masinis kereta terhadap jalan raya
+kurang lebih lima meter. Sebuah rangkaian kereta api baru berhenti kurang lebih 500 meter
+setelah tuas rem ditarik. Dengan jarak henti yang begitu dekat, jarak pengereman
+pengguna jalan dan masinis sangat kurang untuk mengantisipasi terjadinya benturan/tabrakan.
+Selama pengamatan di lapangan, hanya ada klakson panjang dari kereta api ini yang berguna
+untuk memberi stimulus kepada pengguna jalan.
+Di bawah ini adalah perhitungan jarak pandang pada perlintasan kereta api jalan Padang
+dengan menggunakan Pers. 2.4 dan Pers 2.5.
+Diketahui:
+Vv
+= 30 km/jam ( Kecepatan rata-rata yang ada di jalan Padang)
+Vt
+= 80 km/jam (kecepatan kereta api yang melintas)
+D
+= 2,5 meter
+de
+= 1,5 meter
+L
+= 20 meter
+W
+= 3 meter
+F
+= -0,00065*30 + 0,192 = 0,1725 meter
+T
+= 2,5 detik
+Jarak pandang pengguna jalan dari as rel:
+dH
+= 0,28*30*2,5 + ((302) / 254*0,1725) + 2,5 + 1,5
+= 45,54 meter ( dianggap 46 meter )
+Jarak pandang masinis kereta terhadap pengguna jalan:
+Dt
+= 80/30 (0,28*30*2,5) + ((302) / 254*0,1725) + 2*2,5 + 20 + 3
+= 104,54 meter (dianggap 105 meter)
+KESIMPULAN
+1. Perlintasan Jalan Padang merupakan perlintasan yang tidak dijaga dan tidak memenuhi
+standar teknis perlintasan kereta api tidak berpintu. Tidak adanya rambu menjadi salah 1 faktor
+sering terjadinya kecelakaan di lokasi tersebut, selain itu, beberapa pengendara yang sering
+memaksakan untuk melewati perlintasan tersebut disaat kereta api sudah sangat mendekati
+perlintasan yang membatasi jalan Padang tersebut.
+2. Jalan Padang berdasarkan fungsinya masuk dalam kelas lokal dengan kapasitas 1313
+smp/jam. Dengan LHR harian rata-rata sebesar 218 smp/jam untuk jam sibuk pagi hari, 144
+smp/jam untuk jam sibuk siang hari, dan 171 smp/jam untuk jam sibuk sore hari menjadikan
+jalan Padang memiliki trafik lalulintas yang rendah. Berdasarkan data dari PT.Kereta Api
+Persero, jalan rel yang memotong ruas jalan Padang dalam sehari dilewati enam rangkaian
+39
+
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+kereta api. Jumlah tersebut belum ditambah dengan jumlah loko yang berstatus lost lok yang
+melintas.
+Jika dikalikan antara LHR harian rata-rata jalan Padang dengan frekuensi kereta api yang
+melintas maka hasilnya untuk jam sibuk pagi sebesar 1310 smpk, untuk jam sibuk siang hari
+sebesar 863 smpk, dan untuk sore sebesar 1023 smpk. Mengacu pada Pedoman Teknis
+Perlintasan Sebidang Antara jalan dengan Jalur Kereta Api, apabila hasil perkalian antara
+volume lalulintas harian rata-rata (LHR) dengan frekuensi kereta api antara 12.500 sampai
+dengan 35.000 smpk maka masih dalam kategori perlintasan sebidang. Hasil perkalian di atas
+masih dibawah dari standart teknis yang ditentukan, oleh karena itu perlintasan kereta api jalan
+Padang masih memenuhi syarat sebagai perlintasan sebidang.
+DAFTAR PUSTAKA
+Aswad, Y. (2015). Studi Kelayakan Perlintasan Sebidang antara Jalan Kereta Api dengan Jalan
+Raya.
+Media
+Komunikasi
+Teknik
+Sipil,
+19(2),
+183–189.
+https://doi.org/10.14710/mkts.v19i2.8430
+Belakang, A. L. (2016). DIPONEGORO LAW REVIEW implisit , PT Kereta Api jasa
+pengangkutan , secara. 5(23), 1–16.
+Bojonegoro, K., & Resor, D. I. (n.d.). Policy Implementation , Line Crossing Section. 1–7.
+Departemen Perhubungan Direktorat Jenderal Perhubungan Darat. (2005). Peraturan
+Direktorat Jenderal Perhubungan Darat Departemen Perhubungan.
+HEXAGON, R. I.-, & 2016, undefined. (n.d.). Evaluasi Geometrik Dan Struktur Jalan Rel
+Kereta Api Pada Stasiun Jember–Rambipuji Dan Arjasa. Jurnal.Unmuhjember.Ac.Id, 1–11.
+Retrieved from http://jurnal.unmuhjember.ac.id/index.php/HEXAGON/article/view/193
+Hongarta, R., Kurniawan, B., & Santoso, I. (n.d.). Evaluasi geometrik persilangan jalan rel dan
+jalan raya. 233–240.
+Indriany, S., Wijaya, W., Teknik sipil universitas mercubuana, J., Barat, J.,
+Tekniksipiluniversitasmercubuana, J., & Barat, J. (2013). PENGARUH PERLINTASAN
+KERETA API TERHADAP KINERJA JALAN RAYA. 7(KoNTekS 7), 24–26.
+Motors, G., & Europe, W. (2016). PERLINTASAN KERETA API DI KOTA CIREBON.
+LEVEL CROSSING RAILWAYS CIREBON, 18(June).
+PERDIRJEN_SK_407.compressed_.pdf. (n.d.).
+Putra, E. W., Budiwirawan, A., Teknik, J., Fakultas, S., & Semarang, U. N. (2009). DENGAN
+JALAN UMUM ( Studi kasus perlintasan kereta api di jalan kaligawe kota semarang ). 1–123.
+Retrieved from https://lib.unnes.ac.id/113/
+Putra, R. K., Mahmudah, N., Eng, M., M, D. S., Sc, M. S., Yogyakarta, V. I., … Pendahuluan,
+A. (2017). PADA JPL 348 KM 163 + 220 , JALAN SOROWAJAN BARU , YOGYAKARTA
+Safety Inspection on Grade Crossings at JPL 348 KM 163 + 220 , Sorowajan Baru Street ,
+Yogyakarta. Retrieved from http://repository.umy.ac.id/handle/123456789/10889
+40
+
+Progress in Civil Engineering Journal, 2(1) 2020, 31-41
+
+Progress in Civil Engineering Journal
+Available at jurnal.umsu.ac.id/index.php/PCEJ
+ISSN 2686-0457
+
+Rachman, N. F., Astuti, S. W., & Istiantara, D. T. (2019). Pemahaman Aspek Hukum dalam
+Meningkatan Keselamatan di Perlintasan Sebidang ( studi kasus di SMAN 1 Karas , Magetan ).
+(23), 307–310.
+Sitorus, F. P. (2018). Studi Pengaruh Perlintasan Sebidang Jalan Dengan Rel Kereta Api
+Terhadap Karakteristik Lalu Lintas ( Studi Kasus : Perlintasan Kereta Api Jalan
+Sisingamangaraja Medan ). Repository Untag, (1), 1–9. Retrieved from http://repository.untagsby.ac.id/737/
+Tang, N., ‫ثبثبثب بیبیبیبیبیبیبی‬, Pública, S., Msp, I. I., Miranda, C., Casos, E. D. E. L. O. S., …
+Dizaje, O. D. E. A. (2018). No Title‫بیبیب‬. ‫ثثثثثث‬, ‫)ثقثقثق ثق(ثثثث ث‬, ‫ثقثقثقثق‬.
+Teknik, F., & Jember, U. M. (1997). Pengaruh jalan kereta api terhadap simpang bersinya
+patrang jember.
+Widiawan, B., Purnomo, F. E., & Kautsar, S. (2017). Sistem Peringatan Pada Perlintasan
+Sebidang Tidak Berpintu Menggunakan Kontroler Arduino. Seminar Nasional Hasil
+Pengabdian Masyarakat, 261–264.
+Winarsih, N. (2017). Menggunakan Metode Antrian Deterministik (Studi Kasus: Perlintasan
+Kereta Api Tanjung Barat Jakarta Selatan). Jurnal Desain Konstruksi, 16(1), 32–45.
+Yusyadiputra, M., Hermawanto, R., Pudjianto, B., & Yulipriyono, E. (2014). Pengaruh
+Penutupan Pintu Perlintasan Jalan Rel Terhadap Kinerja Lalu Lintas Jalan Raya Di Perlintasan
+Kaligawe Semarang Dan Kaliwungu Kendal. Jurnal Karya Teknik Sipil, 3(3), 723–735.
+Zanuardi, A., & Suprayitno, H. (2018). Analisa Karakteristik Kecelakaan Lalu Lintas di Jalan
+Ahmad Yani Surabaya melalui Pendekatan Knowledge Discovery in Database. Jurnal
+Manejemen
+Aset
+Infrastruktur
+&
+Fasilitas,
+2(1),
+45–55.
+https://doi.org/10.12962/j26151847.v2i1.3767
+
+41
+
+

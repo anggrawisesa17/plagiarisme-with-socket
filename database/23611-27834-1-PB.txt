@@ -1,0 +1,1191 @@
+Pengembangan Video Animasi Berbasis Sparkol Videoscribe
+
+PENGEMBANGAN MEDIA PEMBELAJARAN VIDEO ANIMASI BERBASIS SPARKOL
+VIDEOSCRIBE TENTANG PERSIAPAN KEMERDEKAAN RI SD KELAS V
+Munida Qonita Silmi
+PGSD FIP Universitas Negeri Surabaya (munidaqonita@gmail.com)
+
+Putri Rachmadyanti
+PGSD FIP Universitas Negeri Surabaya (putrirachmadyanti@unesa.ac.id)
+Penelitian pengembangan ini dirancang dengan tujuan untuk: (1) menghasilkan produk media
+pembelajaran video animasi berbasis sparkol videoscribe untuk materi persiapan kemerdekaan RI Kelas V
+SD. (2) Mengetahui tingkat kelayakan penggunaan media ANVIS yang mencangkup tingkat validitas
+materi dan validitas media dari validator, serta tingkat keterterapan media ANVIS. Subjek ujicoba dalam
+penelitian ini adalah siswa kelas V SDN Lidah Kulon I/464 Surabaya. Model pebelitian yang digunakan
+yakni model Borg and Gall yang dimodifikasi dari 10 tahapan menjadi 9 tahapan. Hasil penelitian ini
+berupa validasi dengan presesntase 83,3% untuk materi dan 95,6% untuk media dengan kategori Valid,
+serta tingkat kelayakan penggunaan dengan presentase 95,25% dengan kategori Dapat diterapkan. Dengan
+hasil tersebut, maka dapat disimpulkan bahwa media ANVIS layak untuk digunakan.
+Kata Kunci: Pengembangan, Media ANVIS, Aplikasi Sparkol Videoscribe
+
+Abstract
+Research and development are designed for the purpose of (1) produces the animated video learning
+media sparkol videoscribe-based on material preparation Indonesian Republic independence for fifth
+grade. (2) knowing the level of appropriateness of the use of the ANVIS media including the level of the
+validity of the content and validity of the media from the validator, as well as the level of appropriateness
+ANVIS media. The subject of the tests in the study is grade V SDN Lidah Kulon I/464 Surabaya. The
+research Models used i.e model Borg and Gall are modified from 10 stages into 9 stages. The results of
+this research in the form validation with the percentage 83.3% for material and 95.6% for the media with
+a Valid category, as well as the level of appropriateness of use with the percentage of 95.25% with
+categories can be applied. With those results, it can be inferred that the media ANVIS worth to use.
+Keywords: Development, ANVIS Media, Sparkol Videoscribe Aplication.
+
+Pendidikan sejarah sejatinya merupakan salah
+satu media penanaman karakter pancasila khususnya
+kepada generasi muda. Suswandari (2010:32) dalam
+penelitiannya turut
+menyatakan tentang peran
+pembelajaran sejarah sebagai sarana atau media dalam
+pewarisan dan penanaman budaya yang bersumber dari
+nilai dan moral. Hal tersebut menegaskan tentang
+pentingnya pembelajaran sejarah kepada setiap
+masyaraka khusunya generasi muda. Tujuan pendidikan
+atau pengajaran sejarah sebagai cerminan dalam
+mempersiapkan kehidupan dimasa mendatang, dimana
+mengingat sejatinya dalam sutau kehidupan seseorang
+tidak dapat dipisahkan dengan cerita pada masa lampau
+sebagai bentuk pembelajaran dalam mempersiapakan diri
+menghadapi kemungkinan yang terjadi dimasa depannya
+(Suswandari, 2010:32).
+Namun, tujuan pendidikan
+sejarah kini tidak lagi dapat tercapai secara maksimal
+khususnya sebagai media penanaman karakter yang
+sesuai dengan kepribadian bangsa. Munculnya gejala
+menipisnya nilai moral generasi muda kini telah menjadi
+
+PENDAHULUAN
+Indonesia adalah negara yang mempunyai cerita
+panjang
+dalam
+memperjuangkan
+kemerdekaan.
+Pengenalan sejarah sebagai salah satu usaha untuk
+menyiapkan generasi muda menjadi manusia pancasila
+yakni manusia dengan kepribadian pancasila yang
+merupakan cerminan bangsa tentu perlu mendapat
+perhatian. Permasalahan tentang kurang atau tidak
+tahunya generasi muda terhadap sejarah bangsa, kini
+menjadi tugas khusus bagi semua kalangan. Salah satu
+faktor utamanya yaitu perkembangan zaman yang kian
+lama kian menggeser kesadaran pentingnya mempelajari
+sejarah bangsa. Hal tersebut dapat dilihat dari keberadaan
+komunitas-komunitas generasi muda yang lebih tertarik
+mempelajari kebudayaan Negara lain dari pada sejarah
+dan kebudayaan Negaranya sendiri. Sejarah yang
+merupakan cikal bakal identitas bangsa adalah sesuatu
+yang perlu dikenalkan sejak dini kepada generasi muda.
+
+486
+
+Pengembangan Video Animasi Berbasis Sparkol Videoscribe
+
+sorotan. Muthohar (2013:328) menyatakan tentang
+kondisi karakter warga negera indonesia khususnya
+generasi muda yang kian lama mengalami pergeseran
+batas kesopanan dan moralitas, dimana hal tersebut
+ditunjukkan berdasarkan kenyataan tentang anggapan
+masyarakat yang dahulunya dianggap sebagai sesuatu
+yang tabu atau tidak pantas menjadi sesuatu yang
+diwajarkan. Oleh karena itu, tentu pembelajaran sejarah
+yang sejatinya telah diajarkan pada generasi muda di
+semua jenjang pendidikan perlu mendapatkan perhatian
+dari semua pihak, mengingat masih terjadinya
+kesenjangan antara tujuan dan manfaat pembelajaran
+sejarah dengan kondisi nyata.
+Berdasarkan hasil obsevasi dan wawancara di
+kelas V SDN Lidah Kulon I/464 Surabaya. Didapatkan
+fakta tentang kurang maksimalnya pemanfaatan media
+berbasis teknologi yang mendukung penyampaian
+informasi dari guru kepada siswa saat pengajaran sejarah,
+termasuk materi tentang persiapan kemerdekaan RI. Guru
+kelas lebih sering menggunakan media berupa gambar
+atau foto dalam proses pembelajaran dengan metode
+ceramah dan tanya jawab singkat yang kemudian
+dilanjutkan dengan penugasan sesuai buku teks.
+Sehingga, siswa merasa bosan dengan pembelajaran
+sejarah dan beranggapan bahwa pembelajaran sejarah
+merupakan pembelajaran yang kurang menarik karena
+teralalu banyak bacaan pada teks hitam putih.
+Padahal pendidikan dianggap sebagai salah satu
+kunci utama dalam pengenalan kembali sejarah bangsa
+indonesia kepada generasi muda. Kegiatan pembelajaran
+merupakan cara konkrit pengenalan sejarah yang
+menjadikan siswa sebagai subjek dalam menciptakan
+pembelajaran. Pembelajaran sejarah diharapkan dapat
+dijadikan sebagai media penumbuhkan karakter dan nilai
+moral genarasi muda. Kuntowijoyo (2005:26)
+menjelaskan bahwa pembelajaran sejarah pada jenjang
+pendidikan formal berperan sebagai media pengajaran
+nilai dan moral, karakteristik, cara berfikir, serta cara
+bertindak dalam menyikapi tantangan dimasa depan.
+Dari hal tersebut, maka proses pembelajaran sejarah di
+sekolah harus mampu dilakukan secara inovatif dan
+menarik minat siswa yang berkedudukan sebagai subjek
+proses
+pembelajaran,
+juga
+mampu
+menumbuhkembangkan kesadaran sejarah.
+Pembelajaran yang ideal adalah pembelajaran
+yang mampu menciptakan situasi atau suasana yang
+mendukung kegiatan pembelajaran dan mampu
+memfasilitasi
+siswa
+dalam
+ketercapaian
+dan
+pengoptimalan tujuan. Untuk itu, dalam pembelajaran
+sejarah diharapkan guru mampu menjadi fasilitator
+penyampaian informasi yang hendak diberikan kepada
+siswa dengan maksimal.
+Pembentukan situasi
+pembelajaran yang menyenangkan turut menjadi salah
+
+satu cara tercapainya pembelajaran yang ideal dan
+bermakna. Kehadiran media khususnya media audio
+visual dalam kegiatan pembelajaran akan membantu
+menumbuhkan minat awal siswa yang diharapkan
+mampu menstimulus rasa ingin tahu lebih jauh terhadap
+materi yang diajarkan. Hal tersebut sejalan dengan
+pendapat Formwalt (dalam Sayono, 2013:15) bahwa
+media pembelajaran adalah salah satu aspek pendukung
+keberhasilan yang diperlukan, terutama media yang
+berupa film-flm dokumenter yang dapat menumbuhkan
+rasa kemanusiaan (kesadaran sejarah bagi siswa).
+media pembelajaran yang notabene merupakan
+alat bantu perantara dalam penyampaian materi guna
+memaksimalkan peran pendidikan, tentu dalam
+pemilihannya harus turut diperhatikan, hal tersebut
+mengingat pemilihan media pembelajaran yang tepat,
+dapat turut mempengaruhi kemaksimalan peran media
+pembelajaran dalam pencapaian tujuan. Sejalan dengan
+itu, Rusman (2017:218) mengungkapkan bahwa
+penggunaan media pembelajaran yang sesuai dengan
+karakeristik kebutuhan siswa dan materi yang hendak
+disampaikan, akan turut membantu membangkitkan rasa
+ingin tahu, motivasi, konsentrasi, serta sebagai alat bantu
+stimulus dalam kegiatan pembelajaran, serta memberikan
+pengaruh psikologis kepada siswa.
+Penggunaan media pembelajaran tidak hanya
+dititik beratkan pada tujuan dan isi dari media
+pembelajaran yang hendak digunakan. Namun, faktorfaktor lain yang berperan dalam penggunaan media
+harus turut dipertimbangkan, dalam hal ini seperti
+karakteristik siswa, model atau strategi pembelajaran,
+alokasi waktu, sarpras dll. Sejalan dengan pernyataan
+Sadiman
+(2011:85) bahwa dalam menciptakan
+suasanan kegiatan belajar mengajar yang efektif
+membutuhkan perencanaan atau pengorganisasian yang
+baik termasuk dalam aspek media pembelajarannya,
+dimana pemilihan media pembelajaran tidak selalu
+mengacu pada kecanggihan media pembelajaran itu
+sendiri namun harus tetap mengedepankan efektifitas
+dan efisiensi media pembelajaran tersebut sebagai alat
+bantu dalam proses pembelajaran.
+Arsyad (2014:74) mendeskripsikan 6 kriteria yang
+perlu
+diperhatikan
+dalam
+pemilihan
+media
+pembelajaran, yakni (1) Mencakup tujuan pembelajaran
+yang ingin dicapai. Media pembelajaran yang dipilih
+harus mampu mencakup seluruh tujuan intruksional
+yang telah dirancang dan ditetapkan sebelumnya; (2)
+Tepat dalam penyampaian bahan ajar yang bersifat
+fakta, konsep, prinsip dan generalisasi. Isi media
+pembelajaran harus selaras dengan indikator yang telah
+dirancang dalam proses pembelajaran;(3)
+Efisien,
+fleksibel, dan bertahan. Kriteria ini menjadi bahan
+pertimbangan bagi guru dalam menentukan media
+487
+
+JPGSD. Volume 06 Nomor 04 Tahun 2018, 486-495
+
+pembelajaran yang dalam pemanfaatannya dapat
+disesuiakan
+dengan
+peralatan
+yang
+tersedia
+dilingkungan belajar; (4) Keterampilan dalam
+penggunaan. Nilai dan manfaat dari penggunaan media
+pembelajaran turut dipengaruhi oleh keterampilan guru
+dalam
+menggunakan
+dan
+mengolah
+media
+pembelajaran tersebut; (5) Pengelompokan sasaran.
+Analisis sasaran penggunaan media pembelajaran
+dilakukan guna mengoptimalkan peran dan keefektifan
+media pembelajaran tersebut. (6) Mutu Teknis.
+Persyaratan mutu teknis yang harus dipenuhi
+mencangkup hal-hal yang berhubungan dengan kontenkonten (visual, isi, audio dll) yang terdapat dalam
+media pembelajaran yangb akan digunakan.
+Hal lain yang perlu diperhatikan dalam pemilihan
+media pembelajaran tentu salah satunya adalah fungsi
+dari media tersebut. Ketercangkupan fungsi media dari
+media yang dipilih dalam proses pembelajaran
+merupakan salah satu aspek pendukung dalam peranan
+media pembelajaran tersebut. Asyad (2014:19)
+mengelompokkan fungsi media pembelajaran dan
+hubungannya terhadap subjek belajar. Empat fungsi
+media pembelajaran yang dikemukakan yaitu fungsi
+atensi, fungsi afektif, fungsi kognitif, dan fungsi
+kompensatoris. (1) Fungsi atensi, berupa fungsi untuk
+menarik dan mengumpulkan pusat perhatian siswa dan
+minat awal siswa pada media yang digunakan sebagai
+perantara penyampaian bahan ajar atau informasi oleh
+guru; (2) Fungsi afektif, berupa fungsi media visual
+yang dapat membuat materi pelajaran terlihat lebih
+menarik bagi siswa sehingga dapat menciptakan
+suasana pembelajaran yang bermakna; (3)Fungsi
+kognitif, berupa fungsi media pembelajaran dalam
+memperlancar atau memaksimalkan ketercapaian tujuan
+kegiatan pembelajaran, juga mempermudah siswa
+dalam mengingat dan memahami materi ajar yang
+ditampilkan dalam media tersebut; (4) Fungsi
+kompensatoris, dimana media pembelajaran berfungsi
+sebagai pemberi bantuan kepada siswa yang mengalami
+kelemahan dalam membaca untuk memahami,
+mengorganisasikan, dan mengingat dengan baik
+informasi yang telah diterima.
+Berdasarkan paparan diatas, maka memunculkan
+ide atau gagasan inovatif dalam pemanfaatan teknologi
+sebagai salah satu sumber belajar yang dikemas dalam
+sebuah media pembelajaran yang memuat materi tentang
+sejarah persiapan kemerdekaan RI untuk siswa kelas VI
+SD dengan judul “pengembangan Media Pembelajaran
+Video Animasi Berbasis Sparkol Videoscribe tentang
+persiapan kemerdekaan RI untuk SD Kelas V”. Media
+pembelajaran video berbasis aplikasi Sparkol Videoscribe
+ini diberi nama atau sebutan “ANVIS” yang merupakan
+singkatan dari Animasi Videoscribe.
+
+Penelitian pengembangan ini bertujuan untuk
+Menghasilkan produk media pembelajaran video animasi
+berbasis sparkol videoscribe untuk materi persiapan
+kemerdekaan RI Kelas V SD, dan mengetahui tingkat
+kelayakan penggunaan media video animasi berbasis
+sparkol videoscribe untuk materi pesiapan kemerdekaan
+RI Kelas V SD. Kelayakan dalam penelitian
+pengembangan media video ini mencangkup tingkat
+validitas materi dan validitas media dari validator,
+dimana media video yang dibuat dengan penggunaan
+aplikasi sparkol videoscribe ini dianggap valid apabila
+telah mendapat kriteria valid dari para ahli terkait yakni
+ahli materi dan ahli media, serta tingkat keterterapan
+media video ini meliputi aspek kemudahan dan
+kelancaran
+dalam
+penggunaan
+selama
+proses
+pembelajaran.
+Pengembangan media ANVIS berbasis sparkol
+videoscribe diharapkan dapat bermanfaat antara lain: (a)
+Bagi Siswa: mendapatkan media edukasi yang menarik,
+efektif, dan fleksibel sebagai pendukung kegiatan
+pembelajaran dan sebagai media yang dapat digunakan
+untuk membantu pemahaman siswa tentang materi
+persiapan kemerdekaan RI. (b) Bagi guru: sebagai media
+alternatif yang efektif dan fleksibel untuk digunakan dan
+juga memudahkan guru untuk menarik perhatian siswa
+dalam mengajarkan dan pengenalan sejarah khususnya
+tentang persiapan kemerdekaan RI. (c) Bagi sekolah:
+memberikan alternatif media pembelajaran yang dapat
+digunakan oleh sekolah guna meningkatkan kualitas
+pembelajaran di sekolah tersebut.
+
+METODE
+Jenis penelitian yang dilakukan berupa
+penelitian pengambangan (Research and Development).
+Pemilihan jenis penelitian yang berupa penelitian
+pengembangan ini didasarkan pada tujuan yang hendak
+dicapai peneliti yakni menghasilkan produk berupa media
+pembelajaran.
+Penelitian
+pengembangan
+adalah
+penelitian yang menekankan pada produk yang
+dihasilkan baik berbentuk produk baru atau berupa
+penyempurnaan produk yang telah ada sebelumnya
+Irfandi (2015:64). Metode penelitian ini mengacu pada
+model Borg and Gall yang telah dimodifikasi menjadi 9
+tahapan. Hal tersebut karena berdasarkan pertimbangan
+bahwa pada tahap produksi masal merupakan tahapan
+pematenan produk yang dihasilkan sehingga memerlukan
+proses dan waktu yang cukup lama. Tahapan penelitian
+yang dilakukan yang meliputi: Tahap Potensi Masalah,
+Tahap Pengumpulan Data, Tahap Desan Produk, Tahap
+Validasi Desain, Tahap Revisi Desain, Tahap Ujicoba
+Produk, Tahap Revisi Produk, Tahap Ujicoba Pemakaian,
+Tahap Revisi Produk.
+
+488
+
+Pengembangan Video Animasi Berbasis Sparkol Videoscribe
+
+Tabel 1. Kriteria Validitas Produk
+
+2
+
+1 Potensi
+dan
+Masalah
+
+6
+
+Pengumpulan
+Data
+
+5
+
+7
+
+8
+Revisi
+Produk
+
+Desain
+Produk
+
+Kategori Presentase
+
+Kriteria
+
+Ket.
+
+1
+
+25%-55% Kurang Valid
+
+Revisi
+Total
+
+2
+
+56%-70% Cukup Valid
+
+Sebagian
+Revisi
+
+3
+
+71%-85%
+
+4
+Revisi
+Desain
+
+Uji Coba
+Produk
+
+3
+
+Validasi
+Desain
+
+9
+Uji Coba
+Pemakaian
+
+Revisi
+Produk
+
+4
+
+Tidak
+Revisi
+
+Valid
+
+Tidak
+Revisi
+
+86%-100% Sangat Valid
+
+Bagan 3.2
+Modifikasi Alur Model Pengembangan R&D.
+
+Kurniawati, (2014:28)
+
+Penelitian dilakukan di SDN Lidah Kulon I/472
+Surabaya, dengan alamat Jalan Lakarsantri No. 112,
+Lakarsantri, Surabaya. Waktu pelaksanaan penelitian
+pada bulan Maret-April. Subjek uji coba pada penelitian
+yang dilakukan adalah siswa kelas V SDN Lidah Kulon I,
+dengan jumlah siswa sebanyak 37 siswa, yang terdiri dari
+20 orang siswa laki-laki dan 17 orang siswa perempuan.
+Data yang diperoleh dalam pengembangan media
+video animasi “ANVIS” merupakan data kuantitatif. Data
+dari penelitian ini diperoleh berdasarkan hasil
+penjumlahan skor dari angket validasi (materi dan
+media), dan lembar kuesioner respon siswa pada kegiatan
+uji coba pemakaian. Penghitungan skor dari lembar
+kuesioner atau angket (kuesioner validasi dan ujicoba
+pemakaian) dilakukan dengan mencari rata-rata dari
+setiap total skor angket guna mendapatkan skor ideal
+yang kemudian dipresentasikan kedalam kategori
+tertentu, sehingga dapat diketahui tingkat kelayakan dari
+media ANVIS. Berikut teknik analisis data dari hasil
+validitas:
+
+Teknik perhitungan kusioner keterterapan media
+ANVIS dihitung dari setiap item butir jawaban. Skor
+yang didapatkan berdasarkan perhitungan setiap
+kuesioner dipresentasikan berdasarkan pada rumus
+berikut:
+
+P(%)= Jumlah skor data x 100%
+Jumlah Skor Maksimal (Skor Ideal)
+(Riduwan, 2008:14)
+Berdasarkan presentase hasil yang diperoleh, maka
+dapat ditarik kesimpulan tentang kelayakan atau
+keterterapan media ANVIS dalam proses pembelajaran
+berdasarkan kriteria presentase sebagai berikut:
+Tabel 2. Kriteria Tanggapan Guru dan Siswa
+Presentase
+Kriteria
+Ket
+0%-49,99%
+
+Tidak Dapat
+Diterapkan
+
+Revisi Total
+
+50%-59,99%
+
+Kurang Dapat
+Diterapkan
+
+Sebagian Besar
+Revisi
+
+60%-79,99%
+
+Cukup Dapat
+Diterapkan
+
+Sebagian Kecil
+Revisi
+
+80%-100%
+
+Dapat Diterapkan
+
+Tidak Revisi
+
+P(%)= Jumlah skor data x 100%
+Jumlah Skor Maksimal (Skor Ideal)
+(Riduwan, 2008:14)
+
+Berdasarkan presentase yang diperoleh dari
+perhitungan skala likert tersebut, dapat digunakan sebagai
+acuan untuk mngetahui kevalidan media ANVIS yang
+digambarkan pada tabel kriteria dibawah ini:
+
+Kurniawati (2014:28)
+
+489
+
+JPGSD. Volume 06 Nomor 04 Tahun 2018, 486-495
+
+HASIL DAN PEMBAHASAN
+Pengembangan media pembelajaran Animasi
+Videoscribe
+(ANVIS)
+pada
+materi
+persiapan
+kemerdekaan RI, dikembangkan berdasarkan tahapan
+Research and Development (R&D) model pengembangan
+borg and gall menurut sugiyono (2016:409) dengan
+dilakukan modifikasi pada tahapannya. Adapun tahapan
+tersebut meliputi: tahapan potensi dan masalah,
+pengumpulan data, desain produk, validasi desain, revisi
+desain, uji coba produk I , revisi produk, uji coba produk
+II, Revisi produk final.
+Tahap potensi dan masalah dilakukan dengan
+melakukan studi pendahuluan di SDN Lidah Kulon I
+Surabaya melalui teknik observasi dan wawancara.
+Dimana berdasarkan kegiatan tersebut didapatkan
+infomasi tentang kurangnya pemaksimalan fasilitas
+sekolah sebagai alat bantu atau media dalam
+pembelajaran. Hal tersebut didukung dengan fakta bahwa
+Guru kelas lebih sering menggunakan media berupa
+gambar atau foto dalam proses pembelajaran dengan
+metode ceramah dan tanya jawab singkat yang kemudian
+dilanjutkan dengan penugasan sesuai buku teks. Sehingga
+diperlukan media alternatif lain yang dapat dengan
+mudah diaplikasikan dalam proses pembelajaran serta
+turut memanfaatkan fasilitas yang tersedia
+Setelah didapati potensi dan masalah, yaitu berupa
+kurang maksimalnya pemanfaatan media pembelajaran
+berbasis teknologi pada pembelajaran IPS. Pada tahap ini,
+dilakukan pengumpulan informasi pendukung atau
+informasi yang diperlukan sebagai bahan perencaanan,
+terkait pengembangan alternatif media pembelajaran yang
+diharapkan mampu mengatasi atau meminimalisir
+masalah yang dijumpai dilapangan. Data atau informasi
+terkait media pembelajaran dikumpulkan berdasarkan
+hasil studi litrature, baik yang berasal dari jurnal, buku
+ataupun penelitian terdahulu yang berkaitan dengan
+permasalahan yang sedang dikaji. Sehingga berdasarkan
+kegiatan pengumpulan informasi tersebut, maka dapat
+diperoleh data yang mendukung dalam pengembangan
+media.
+Informasi pendukung yang telah didapatkan pada
+tahap pengumpulan data, selanjutnya digunakan sebagai
+bahan dalam kegiatan mendesain produk. Pada tahap
+desain produk ini melputi tiga langkah yakni penentuan
+Kompetensi Inti (KI), Kompetensi Dasar (KD) dan
+Indikator, penentuan topik materi dan pembuatan
+storyboard. Storyboard yang disajikan berbentuk tabel
+dengan 2 sub poin yakni berupa tampilan dan deskripsi
+pada setiap slidenya. Pada sub tampilan, terdapat
+sketsa/gambar/animasi tampilan slide dan juga tata letak
+dari item tersebut. Selanjutnya pada sub deskripsi memuat
+informasi atau penjelasan terkait tentang item yang ada
+pada tampilan (informasi gambar apa saja yang terdapat
+
+pada setiap slidenya). Pada tahap ini dilakukan rancangan
+penyusunan sketsa gambar (storyboard) dengan
+disesuaikan pada sistematika materi atau bahan ajar yang
+hendak disampaikan dalam media. Sketsa gambar yang
+digunakan didapatkan dari fiture yang terdapat dalam Ms.
+Word dengan tetap mempertimbangkan kesesuaiakan
+terhadap materi. Storyboard yang disajikan berbentuk
+tabel dengan 2 sub poin yakni berupa tampilan dan
+deskripsi pada setiap slidenya. Pada sub tampilan, terdapat
+sketsa/gambar/animasi tampilan slide dan juga tata letak
+dari item tersebut. Selanjutnya pada sub deskripsi memuat
+informasi atau penjelasan terkait tentang item yang ada
+pada tampilan (informasi gambar apa saja yang terdapat
+pada setiap slidenya).
+Pada tahap ini dilakukan rancangan penyusunan
+sketsa gambar (storyboard) dengan disesuaikan pada
+sistematika materi atau bahan ajar yang hendak
+disampaikan dalam media. Sketsa gambar yang digunakan
+didapatkan dari fiture yang terdapat dalam Ms. Word
+dengan tetap mempertimbangkan kesesuaiakan terhadap
+materi.
+Tahap ini merupakan tahapan pendesainan setiap
+tampilan halaman produk yang hendak dikembangkan.
+Seluruh bagian dari storyboard kemudian dikemas
+sebagai kesatuan tampilan menjadi suatu media
+pembelajaran yang sistematis. Pada desain storyboard ini
+memuat 13 sketsa yang dibuat berdasarkan tampilan yang
+hendak dikembangkan pada media video, dimana terdapat
+1 tampilan sketsa halaman pembuka, 10 tampilan sketsa
+halaman yang memuat materi, 1 sketsa Halaman
+informasi sumber materi, serta 1 sketsa Halaman Penutup.
+Tabel storyboard media pembelajaran ANVIS terdapat
+pada lampiran 4.
+Tahap desain produk dilakukan guna menghasilkan
+desain media pembelajaran yang dapat digunakan dengan
+baik, maka rancangan awal didiskusikan kepada dosen
+pembimbng, Putri Rachmadyanti, S.Pd, M.Pd, dan kepada
+ahli media Delia Indrawati, S.Pd, M.Pd. Dari kegiatan
+diskusi tersebut didapatkan beberapa saran terkait
+komponen yang akan digunakan pada media dan juga tata
+letak atau susunan penyajian media. Berdasarkan hal
+tersebut, maka dilakukan penyusunana story board dengan
+turut mempertibangkan saran yang telah diberikan oleh
+dosen pembimbing dan dosen ahli media, serta didasarkan
+pada pertimbangan terhadap komponen-komponen yang
+dipilih seperti gambar, bentuk huruf, ukuran huruf, warna,
+background dll, guna menghasilkan media yang sesuai
+dengan kebutuhan siswa.
+Desain Media yang awal telah dihasilkan,
+selanjutnya divalidasikan kepada ahli media materi guna
+mendapatkan saran atau komentar berkaitan dengan
+materi yang termuat dalam media. Validasi materi
+dilakukan oleh Drs. Suprayitno, selaku dosen mata kuliah
+
+490
+
+Pengembangan Video Animasi Berbasis Sparkol Videoscribe
+
+Ilmu Pengetahuan Sosial (IPS) di Jurusan Pendidikan
+Guru Sekolah Dasar, Fakultas Ilmu Pendidikan,
+Universitas Negeri Surabaya.
+Kegiatan validasi oleh ahli materi ini dilakukan
+dengan tujuan agar memperoleh tingkat kevalidan materi
+yang dimuat dalam media ANVIS berdasarkan pada
+instrumen validasi materi yang mencangkup aspek
+Kompetensi, Isi Materi, Penyajian Materi dan
+Kelengkapan media. dari hasil validasi materi diperoleh
+hasil presentase sebesar 83,3%, sehingga menunjukkan
+bahwa materi yang termuat dalam media ANVIS
+dinyatakan “Valid” (Kurniawati, 2014:28).
+Setelah dilakukan kegiatan desain produk, maka
+dilanjutkan pada tahap validasi desain. Validasi desain
+tersebut dilakukan guna uji kelayakan terhadap media
+ANVIS yang dikembangkan. Pada kegiatan validasi
+desain ini turut memungkinkan adanya saran dan
+komentar tentang kekurangan media ANVIS yang
+dijadikan peneliti sebagai salah satu acuan dalam
+melakukan perbaikan. Tahap validasi desain dilakukan
+dengan melibatkan validator ahli guna mendapatkan
+tanggapan terkait desain media yang diajukan.
+Desain produk yang dihasilkan dengan memuat
+materi tentang persiapan kemerdekaan RI yang telah
+dinyatakan valid oleh validator ahli materi, maka
+dilanjutkan dengan kegiatan validasi media.Validasi
+media dilakukan oleh Delia Indrawati, S.Pd., M.Pd, yang
+merupakan dosen di Jurusan Pendidikan Guru Sekolah
+Dasar, Fakultas Ilmu Pendidikan, Universitas Negeri
+Surabaya. Kegiatan validasi oleh ahli media ini dilakukan
+dengan tujuan agar mendapatkan status kevalidan media
+ANVIS berdasarkan pada instrumen validasi materi yang
+mencangkup aspek Tampilan, Pengoperasian, dan
+Kemanfaatan. Hasil pada tahap validasi materi oleh ahli
+media dipaparkan pada tabel berikut:
+Tabel 3. Rekapitulasi Hasil Validasi Media
+Validator
+Hasil
+Komentar dan Saran
+Delia
+Presentase • Tokoh dalam animasi
+Indrawati,
+validasi
+atau gambar disesuaikan
+S.Pd, M.Pd
+media
+dengan wajah asli
+sebesar
+• Beberapa tulisan belum
+95,6%
+sesuai
+• Warna
+tulisan
+dikontraskan
+• Background diperbaiki
+
+tulisan, dimana didapati masih ada beberapa tulisan yang
+tidak sesuai dengan EYD. Selanjurnya adalah warna
+tulisan dan background tulisan yang harus dibuat kontras
+sehingga dapat mudah dibaca oleh pengguna. Selain
+komentar dan saran, pada kegiatan validasi media
+tersebut turut didapatkan presentase validasi media
+sebesar 95,6%, sehingga menunjukkan bahwa media
+ANVIS dinyatakan “Sangat Valid” dengan sedikit revisi
+(Kurniawati, 2014:28).
+Setelah dilakukannya uji validasi terhadap materi dan
+media oleh validator ahli, maka tahap selanjutnya yakni
+revisi desain yang telah divalidasi. Tanggapan atau
+respon atau saran yang diberikan oleh validator pada
+tahap validasi, digunakan sebagai acuan dalam
+memperbaiki desain yang telah diajukan guna didapatkan
+media pembelajaran yang bernilai layak untuk diuji
+cobakan. Kegiatan revisi atau perbaikan dilakukan pada
+beberapa tampilan media ANVIS berdasarkan saran yang
+didapatkan saat kegiatan validasi. Berdasarkan kegiatan
+validasi didapatkan saran untuk perbaikan tampilan
+identitas pengembang dan dosen pembimbing untuk
+dibuat lebih besar sehingga mudah terlihat, background
+tampilan disesuaikan dengan tulisan (lebih kontras)
+sehingga warna background dapat mendukung
+keterbacaan tulisan yang ditampilkan , gambar tokoh
+yang awalnya berupa gambar kartun atau animasi dirubah
+menjadi gambar yang disesuaikan dengan karakter tokoh
+aslinya, warna tulisan dan durasi tampilan kembali
+diperbaiki dengan disesuaikan pada kemudahan untuk
+dilihat dan dibaca. Dari kegiatan tersebut, maka telah
+dilakukan revisi atau perbaikan tampilan media ssuai
+dengan saran yang didapatkan, sehingga diharapkan
+media ANVIS tersebut dapat memperoleh tingkat
+kevalidan dan keterterapan yang baik.
+Pada tahap ini dilakukan uji coba produk secara
+terbatas pada 10 siswa kelas V SDN Lidah kulon I
+Surabaya. Sampel pada uji coba produk ini dipilih dengan
+bantuan guru. Penguji cobaan produk secara terbatas ini
+dilakukan guna mengetahui keterterapan media ANVIS
+pada simulasi pembelajaran, sebelum diaplikasikan atau
+digunakan pada proses pembelajaran sebenarnya (tahap
+uji coba pemakaian). Kegiatan uji coba produk ini
+dilakukan guna mendapatkan tanggapan atau respon dari
+subjek penelitian terhadap produk yang hendak
+dikembangkan melalui lembar kuesioner atau angket
+respon siswa terhadap media ANVIS. Data respon siswa
+yang diperoleh berdasarkan lembar kuesioner tersebut,
+akan dijadikan sebagai salah satu pertimbangan dalam
+perbaikan media ANVIS.
+Dari hasil pengisian kuesioner respon siswa pada uji
+coba produk oleh subjek uji coba didaptkan nilai sebesar
+124, nilai tersebut selanjutnya akan dipresentasekan
+dengan menggunakan rumus:
+
+Dari hasil validasi oleh ahli media tersebut didapatkan
+beberapa saran yaitu perbaikan pada gambar tokoh yang
+digunakan atau disajikan pada media ANVIS, dimana
+gambar tokoh yang disarankan adalah gambar tokoh yang
+sesuai dengan karakter aslinya. Perbaikan pada beberapa
+
+491
+
+JPGSD. Volume 06 Nomor 04 Tahun 2018, 486-495
+
+kegiatan pembelajara, sehingga berdasarkan hal tersebut,
+media ANVIS siap untuk digunakan dalam kegiatan uji
+coba pemakaian pada pembelajaran sebenarnya.
+Setelah dilakukannya uji coba produk secara terbatas
+dimana didapatkan data bahwa media ANVIS sudah
+layak untuk digunakan, dengan turut dilakukan revisi
+pada media berdasarkan data yang diperoleh melalui
+kuesioner dan pengamatan lapangan, maka selanjutnya
+dilakukan uji coba pemakaian. Uji coba pemakaian
+dilakukan pada seluruh subyek penelitian yakni pada
+kelas V SDN Lidah Kulon I/464 Surabaya, yang
+berjumlah sebanyak 34 siswa.
+Berdasarkan kegiatan uji coba skala luas tersebut,
+maka didapatkan data tentang respon atau tanggapan
+terkait media ANVIS yang telah digunakan dari siswa di
+Kelas V. Adapun data hasil perolehan pengisian agket
+oleh 34 siswa dan guru kelas.
+Dari hasil pengisian kuesioner respon siswa pada uji
+coba pemakaian, didapatkan nilai sebesar 421 oleh siswa.
+Nilai tersebut selanjutnya akan dipresentasekan dengan
+menggunakan rumus:
+
+P(%)= Jumlah skor data x 100%
+Jumlah Skor Maksimal (Skor Ideal)
+
+(Riduwan, 2008:14)
+P(%) =
+
+124
+× 100%
+130
+
+P(%) = 95,38
+Berdasarkan data hasil analisis kuesioner respon
+siswa tersebut, didapatkan presentase sebesar 95,38%,
+sehingga menunjukkan bahwa media pembelajaran
+ANVIS yang memuat materi tentang persiapan
+kemerdekaan Republik Indonesia termasuk dalam
+kategori media yang “Dapat Diterapkan” (Kurniawati,
+2014:28). Interpretasi data yang didapatkan berdasarkan
+kuesioner respon siswa pada uji coba skala terbatas
+menyatakan bahwa media ANVIS dapat diterapkan,
+sehingga media tersebut dapat atau layak digunakan
+sebagai alternatif media pembelajaran dalam skala yang
+lebih luas.
+Tahap selanjutnya berupa tahapan revisi produk.
+revisi produk ini bertujuan memperbaiki kelemahan atau
+kekurangan dari desain produk awal yang hendak
+dikembangkan berdasarkan hasil yang didapatkan atau
+kekurangan yang mungkinkin dijumpai saat diuji
+cobakan pada skala terbatas. Berdasarkan kegiatan uji
+coba produk secara terbatas didapatkan beberapa catatan
+yang memungkinkan digunakan sebagai salah satu acuan
+dalam kegiatan revisi produk yakni perlunya sedikit
+revisi pada beberapa tampilan informasi (tampilan materi
+3 dan tampilan materi 6). Revisi dilakukan berdasarkan
+catatan saat uji coba produk secara terbatas diketahui
+bahwa ketika ditampilkan media ANVIS khusunya pada
+tampilan materi 3 dan 6, dimana ada beberapa siswa
+sebagai sampel uji coba merasa kesulitan membaca pada
+jarak tertentu. Hal lain yang menjadi pertimbangan dalam
+kegiatan revisi adalah berdasarkan pengamatan yang
+dilakukan saat di lapangan bahwa pada tampilan tersebut
+apabila diimplementasikan pada kelas besar akan sulit
+untuk diamati oleh pengguna. Kegiatan perbaikan yang
+dilakukan berdasarkan catatan yang didapatkan saat uji
+coba produk yakni pengaturan tampilan pada tampilan
+materi 3, dimana pada tampilan di materi 3 dibuat untuk
+dapat diperbesar secara otomatis saat video diputar.
+Perbaikan lain juga dilakukan pada tampilan materi 6
+dengan memperbesar ukuran font. Perbaikan yang
+dilakukan bertujuan untuk meminimalisir kekurangan
+keterterapan media ANVIS saat digunakan dalam
+
+P(%)= Jumlah skor data x 100%
+Jumlah Skor Maksimal (Skor Ideal)
+(Riduwan, 2008:14)
+Presentase perhitungan data kuosioner oleh siswa
+P(%) =
+
+421
+× 100%
+442
+
+P(%)= 95,25%
+Berdasarkan interpretasi data kuesioner respon guru
+dan siswa sebagai pengguna media ANVIS dalam proses
+pembelajaran, didapatkan presentase sebesar 95,25%.
+Berdasarkan hal tersebut, maka media ANVIS memiliki
+nilai ketergunaan atau keterterapan pada kategori “Dapat
+Diterapkan” (Kurniawati, 2014:28). Media ANVIS yang
+telah dinyatakan dapat diterapkan berdasarkan tanggapan
+siswa sebagai subjek penelitian dan guru sebagai
+pengamat dalam pengimplementasian media yang telah
+dikembangkan,
+selanjutnya
+kembali
+dilakukan
+perbaiakan sesuai dengan hasil pengamatan keterterapan
+pada kegiatan uji coba pemakaian. Hal tersebut guna
+mendapatkan produk final yang sesuai dan dapat
+bermanfaat secara maksimal.
+Revisi produk dilakukan berdasarkan pada catatan
+yang didapatkan dalam kegaitan ujicoba pemakaian
+berupa Perbaikan pada penambahan waktu tampilan
+informasi pada teks yang ditampilkan, yang dilanjutkan
+dengan pengemasan media ANVIS. Pada tahap ini
+merupakan tahapan final dari proses pengembangan
+media ANVIS. Selanjutnya dilakukan pengemasan
+
+492
+
+Pengembangan Video Animasi Berbasis Sparkol Videoscribe
+
+produk media ANVIS yang telah dinyatakan layak pada
+uji validasi, uji coba skala terbatas dan uji coba produk
+kedalam bentuk CD. Produk final yang telah dikemas
+dalam bentuk CD, akan diberikan kepada guru kelas V
+SDN Lidah Kulon I/464 Surabaya sebagai salah satu
+alternatif media pembelajaran yang dapat digunakan
+dalam proses pembelajaran IPS pada materi Persiapan
+Kemerdekaan RI.
+
+dimana komponen yang diperbaiki yakni berupa gambar
+atau sketsa tokoh yang awalnya berupa gambar animasi
+kartun, dirubah menjadi gambar yang sesuai dengan
+karakter aslinya. Perbaikan lainnya berupa perbaikan
+background, tulisan dan juga tampilan (waktu, ukuran
+dll). Perbaikan yang dilakukan guna mendapatkan media
+yang bernilai valid dan dapat berguna secara maksimal.
+Hal ini sejalan dengan pendapat Arsyad (2014:74) yang
+mendeskripsikan beberapa kriteria yang perlu
+diperhatikan dalam pembuatan atau pemilihan media
+pembelajaran, yang salah satunya berkaitan dengan mutu
+teknis yang mencangkup persyaratan yang harus dipenuhi
+yakni berhubungan dengan komponen-komponen media
+seperti visual, isi, audio dll. Berdasarkan hal tersebut,
+maka tahapan perbaikan merupakan salah satu bentuk
+kegiatan pemenuhan kriteria dalam pembuatan media
+pembelajaran guna dihasilkan media yang baik (yang
+mencangkup kriteria yang telah diuraikan).
+Media ANVIS yang telah diperbaiki sesuai dengan
+saran yang diberikan oleh validator ahli, selanjutnya guna
+mengetahui
+keterterapan
+media
+dalam
+proses
+pmebelajaran, maka dilakukan kegiatan
+Uji Coba
+Pemakaian pada proses pembelajaran sebenarnya. Uji
+coba pemakaian dilakukan di kelas V SDN Lidah Kulon
+I/464 Surabaya kepada 34 siswa sebagai sampel
+penelitian yang berkedudukan sebagai pengguna media
+ANVIS dalam proses pembelajaran. pada kegiatan akhir
+uji coba pemakaian, seluruh siswa diberikan lembar
+kuesioner guna mengetahui tanggapan siswa tentang
+media yang telah digunakan. Berdasarkan hasil kuesioner
+tersebut didapatkan presesntase sebesar 95,25% oleh
+siswa dan 100% oleh guru dengan kategori “Dapat
+Diterapkan” (Kurniawati, 2014:28). Produk yang telah
+diujicobakan, selanjutnya kembali dilakukan perbaikan
+sesuai dengan catatan kelemahan yang masih dijumpai
+saat kegiatan uji coba pemakaian guna mendapatkan
+produk final media pembelajaran yang memiliki fungsi
+maksimal.
+Secara umum media pembelajaran selain berfungsi
+sebagai penyampai pesan atau informasi, juga berfungsi
+sebagai penumbuh minat belajar siswa. Arsyad (2014:19)
+mengelompokkan media pembelajaran kedalam empat
+fungsi utama yakni fungsi atensi, afektif, kognitif dan
+kompensatoris. Media ANVIS merupakan media yang
+telah mencangkup keempat fungsi tersebut, dimana hal
+tersebut dibuktikan berdasarkan hasil lembar kuesioner
+yang diberikan kepada siswa pada uji coba pemakaian
+media ANVIS.
+Fungsi atensi merupakan fungsi dalam menarik dan
+mengumpulkan
+perhatian
+siswa
+dalam proses
+pembelajaran. Keterpenuhan fungsi atensi pada media
+ANVIS dibuktikan dengan butir soal pada kuesioner
+nomor 3, 8 dan 9 yang mendapatkan presentase 100%,
+
+PEMBAHASAN
+Penelitian yang dilakukan mengasilkan sebuah
+produk media pembelajaran berbentuk animasi
+videoscribe “ANVIS” yang dibuat menggunakan
+Aplikasi Sparkol Videoscribe. Tahapan penelitian dan
+pengembangan media ANVIS dilakukan berdasarkan
+model Borg and Gall yang telah dimodifikasi yakni
+sebagai berikut: Tahap Potensi Masalah, Tahap
+Pengumpulan Data, Tahap Desain Produk, Tahap
+Validasi Desain, Tahap Revisi Desain, Tahap Ujicoba
+Produk, Tahap Revisi Produk, Tahap Ujicoba Pemakaian,
+dan Tahap Revisi Produk.
+Desain media yang dikembangkan menggabungkan
+beberapa komponen yakni musik, teks, warna dan juga
+animasi atau sketsa gambar, yang disesuaikan dengan
+karakteristik siswa SD. Windura (2016: 18) turut
+mendukung hal tersebut berdasarkan pernyataan bahwa
+anak lebih menikmati proses pembelajaran yang
+melibatkan media dengan komponen gambar, warna dan
+gerak. Berdasarkan hal tersebut maka, media
+dikembangkan
+dengan
+penggabungan
+beberapa
+komponen guna menghasilkan media pembelajaran yang
+dapat menarik minat belajar siswa.
+Desain produk pengembangan yang telah
+dihasilkan, selanjutnya divalidasikan kepada dua
+validator ahli yakni validator materi dan validator media
+untuk mendapatkan produk media pembelajaran yang
+tepat guna. Validasi dilakukan dengan pemberian
+penilaian produk berdasarkan acuan/aspek/indikator yang
+terdapat pada instrumen validasi oleh validator ahli
+(Sugiyono, 2016:414). Pada kegiatan validasi oleh
+validator ahli didapatkan presentase sebesar 83,3% untuk
+materi dan 95,6% untuk media yang dikembangkan,
+sehingga berdasarkan presentase tersebut termasuk pada
+kategori “Valid” (Kurniawati, 2014:28). Berdasarkan
+kedua kegiatan validasi yang dilakukan oleh ahli materi
+dan ahli media tersebut, maka dapat disimpulka bahwa
+media Animasi Videoscribe (ANVIS) yang memuat
+materi tentang persiapan kemerdekaan RI, dapat
+dikatakan valid dengan sedikit revisi sesuai dengan saran
+validator ahli.
+Perbaikan
+atau
+revisi
+dilakukan
+setelah
+didapatkannya saran yang diberikan oleh validator materi
+dan validator media mengenai beberapa komponen,
+493
+
+JPGSD. Volume 06 Nomor 04 Tahun 2018, 486-495
+
+100% dan 85%. Berdasarkan presentase yang didapatkan
+tersebut, berarti bahwa media ANVIS dapat menarik dan
+mengumpulkan perhatian siswa selama proses
+pembelajaran. Media ANVIS yang dianggap menarik
+turut memenuhi fungsi media pembelajaran yang
+disampaikan oleh Supriyanta (2015:18) bahwa media
+pembelajaran harus mampu berfungsi sebagai alat
+pengaktif respon siswa dalam proses pembelajaran.
+Sehingga, dapat disimpulkan bahwa media ANVIS telah
+memenuhi kriteria fungsi media pembelajarn pada poin
+fungsi atensi.
+Fungsi Afektif yaitu media pembelajaran dapat
+menciptakan suasa pembelajaran yang bermakna.
+Keterpenuhan fungsi afektif pada media ANVIS
+dibuktikan dengan butir soal pada kuesioner nomor 10
+dan 11 yang mendapatkan presentase 100% dan 100%,
+yang berarti bahwa keterlibatan media ANVIS dalam
+proses pembelajaran dapat menciptakan suasa
+pembelajaran yang menyenangkan dan bermakna. Hal
+tersebut sejalan dengan pendapat Susanto (2014:333)
+bahwa keberadaan video dalam proses pembelajaran
+dapat membantu siswa dalam memperkaya pengalaman
+belajar dan mampu mengembangkan kompetensi siswa
+pada bahan ajar yang beragam.
+Fungsi Kognitif, yakni fungsi media pembelajaran
+yang dapat memaksimalkan ketercapaian tujuan
+pembelajaran dan mempermudah siswa dalam mengingat
+informasi yang diterima, turut terpenuhi pada media
+ANVIS ini. Dimana keterpenuhan fungsi kogniitf
+dibuktikan pada butir soal kuesioner nomor 4 dengan
+hasil presentase sebesar 97%. Hal tersebut menunjukkan
+bahwa siswa dapat lebih mudah menerima dan mengolah
+informasi yang didapatkan dengan bantuan media
+ANVIS dalam proses pembelajaran. hal tersebut, sejalan
+dengan pendapat Oka (2017:146) yang menguraikan
+beberapa kelebihan media video, dimana salah satunya
+adalah media video dapat digunakan dalam
+menyampaikan atau memperjelas pesan dan dapat
+disesuaikan berdasarkan kebutuhan siswa dengan
+penerapan teknik manipulasi (waktu, tampilan dll).
+Duludu (2017:17) turut menyatakan bahwa media
+pembelajaran yang tepat dapat memudahkan siswa dalam
+memahami dan menerima informasi yang termuat dalam
+media. Berdasarkan keterpenuhan fungsi kognitif pada
+media ANVIS ini, berarti bahwa media ANVIS
+merupakan alternatif media pada kategori tepat
+digunakan dalam membantu penyampaian pesan.
+Fungsi Kompensatoris, yakni media pembelajaran
+berfungsi sebagai pemberi bantuan kepada siswa untuk
+mengingat kembali infomasi yang pernah dimiliki
+(pengalam belajar sebelumnya). Berbeda dengan fungsi
+atensi, afektif dan kognitif yang keterpenuhannya dapat
+dibuktikan berdasarkan presentase perolehan respon
+
+siswa. Keterpenuhan fungsi kompensatoris dari media
+ANVIS secara eksplisit dapat dibuktikan dari kegiatan uji
+coba pemakaian, dimana setelah penayangan media
+ANVIS siswa dapat menghubungkan dengan informasi
+yang telah diperloeh pada pmbelajaran sebelumnya
+dengan sedikit stimulus berupa pertanyaan sederhana
+yang diberikan oleh peneliti yang berperan sebagai guru.
+Keterpenuhan keempat fungsi media pembelajaran
+yang meliputi fungsi atensi, fungsi afektif, fungsi
+kognitif, dan fungsi kompensatoris oleh media ANVIS,
+maka dapat disimpulkan bahwa media ANVIS
+merupakan alternatif media pada kategori ketergunaan
+yang layak atau dapat digunakan dalam proses
+pembelajaran IPS tentang Persiapan Kemerdekaan RI
+Kelas V.
+Pada kegiatan validasi yang dilakukan oleh ahli materi
+dan ahli media, telah didapatkan media pembelajaran
+yakni media pembelajaran ANVIS dengan kategori
+“Valid”. Dimana selanjutnya turut didukung dengan nilai
+keterterapan yang didapatkan pada uji pemakaian media
+pada proses pembelajaran dengan perolehan presentase
+pada kategori “Dapat Diterapkan”. media yang telah
+dinyatakan layak tersebut, tentu masih terdapat
+keterbatasan temuan yang didapati pada proses
+penelitian. Keterbatasan temuan penelitian tersebut yakni
+pada proses pengembangan media ANVIS didapati
+bahwa pada Aplikasi Sparkol Videocribe, animasi atau
+sketsa gambar disediakan secara terbatas. Sehingga,
+apabila ingin mendapatkan sketsa gambar lain (yang
+tidak tersedia dalam aplikasi tersebut), maka perlu
+memanfaatkan aplikasi pendukung lainnya. Pada media
+ANVIS ini terdapat beberapa sketsa gambar yang
+digunakan kurang dapat dimaksimalkan. Khusunya pada
+sketsa gambar tokoh, dimana berdasarkan sarana dari
+validator ahli media dan ahli materi harus menggunakan
+sektsa gambar yang sesuai dengan karakter aslinya.
+Berdasarkan hal tersebut, tentu pengengambangan media
+pembelajaran dengan menggunakan Aplikas Sparkol
+Videoscribe masih sangat perlu dilakukan pengkajian
+lebih lanjut guna dapat memaksimalkan ketergunaan
+Aplikasi Sparkol Videoscribe sebagai aplikasi dalam
+pembuatan media pembelajaran yang fleksibel dan tepat
+guna.
+
+PENUTUP
+Simpulan
+Berdasarkan hasil penelitian dan pengembangan
+media pembelajaran Animasi Videoscribe “ANVIS”
+tentang persiapan kemerdekaan RI, maka dapat
+disimpulkan sebagai berikut: (1)Media ANVIS tentang
+Persiapan Kemerdekaan RI, dikembangkan berdasarkan
+model Borg and Gall (dalam Sugiyono, 2016:409) yang
+
+494
+
+Pengembangan Video Animasi Berbasis Sparkol Videoscribe
+
+Kurniawati, Intan. 2014. Pengembangan Media ‘Woody
+Puzzle” Untuk Meningkatkan Motivasi, Aktivitas,
+Dan Hasil Belajar Siswa Materi Struktur Jaringan
+Tumbuhan. Skripsi tidak diterbitkan. Semarang:
+Universitas Negeri Semarang
+
+telah dimodifikasi yakni mencangkup tahap sebagai
+berikut: Tahap Potensi Masalah, Tahap Pengumpulan
+Data, Tahap Desain Produk, Tahap Validasi Desain,
+Tahap Revisi Desain, Tahap Ujicoba Produk, Tahap
+Revisi Produk, Tahap Ujicoba Pemakaian, dan tahap
+Tahap Revisi Produk. (2) Media ANVIS berbasis Sparkol
+Videoscribe yang dikembangkan dengan menggunakan
+model Borg and Gall yang telah dimodifikasi, dinyatakan
+dapat diterapkan dalam proses pembelajaran IPS pada
+materi persiapan Kemerdekaan RI. Hal tersebut
+didasarkan pada perolehan hasil validasi oleh dua
+validator ahli yakni validator materi dan media dengan
+hasil presentase masing-masing sebesar 83,3% dan
+95,6% dengan kategori “Valid”. Selain itu, media ANVIS
+telah dinyatakan “Dapat Diterapkan” dalam proses
+pembelajaran, dibuktikan dengan hasil lembar kuesioner
+respon siswa pada tahap uji coba pemakaian produk.
+Pada lembar kuesioner tersebut, terdapat beberapa aspek
+penilaian yang diberikan, meliputi: aspek tampilan,
+penyajian materi, manfaat, dan keterterapan (kemudahan
+penggunaan) dengan hasil presentase sebesar 95,25%.
+
+Muthohar, Sofa. 2013. “Antisipasi Degradasi Moral di
+Era Global”. Jurnal Pendidikan Islam (Online). Vol.
+7,
+Nomor:
+3.
+Hal
+322-334.
+(https://library.walisongo.ac.id) diakses pada 1 Maret
+2018
+Oka, Gde Putu Arya. 2017. Media dan Multimedia
+Pembelajaran. Yogyakarta: CV Budi Utama
+Riduwan. 2007. Skala Pengukuran Variabel-Variabel
+Penelitian. Bandung: Alfabeta
+Rusman. 2017. Berorientasi Standar Proses Pendidikan.
+Jakarta: Prenadamedia Group
+Sugiyono. 2014. Metode
+Bandung: Alfabeta, CV.
+
+Susanto, Ahmad. 2014. Pengembangan Pembelajaran
+IPS Di Sekolah Dasar. Jakarta: Prenameda Group
+Suswandari. “Paradigma Pendidikan Sejarah Dalam
+Menghadapi Tantangan Masa Depan”. Jurnal
+Cakrawala Pendidikan (Online). Tahun XXIX, No. 1:
+Hal. 27-42. (http://eprints.uny.ac.id) diakses pada 10
+Nopember 2017
+Sayono, Joko. 2013. “Pembelajaran Sejarah Di Sekolah:
+Dari Pragmatis Ke Idealis”. Jurnal Sejarah Dan
+Budaya (Online). Tahun Ke-7, Nomor 1,Juni 2013.
+Halaman 9-17. (http://journal.um.ac.id) diakses pada
+10 Nopember 2017
+
+DAFTAR PUSTAKA
+Arsyad, Azhar. 2014. Media Pembelajaran. Jakarta: PT.
+Raja Grafindo Persada
+Duludu, Ummyssalam. 2017. Buku Ajar Kurikulum
+Bahan dan Media Pembelajaran PLS. Yogyakarta:
+CV. Budi Utama
+Irfandi. 2015. Pengembangan Model Latihan Sepak Bola
+dan Bola Voli. Yogyakarta: CV. Budi Utama
+Ilmu
+
+Pendidikan.
+
+Supriyanta, Eko. 2015. Pengembangan Media Komik
+Untuk Mata Pelajaran Ilmu Pengetahuan Sosial
+Tentang Sejarah Persiapan Kemerdekaan Indonesia
+Pada Kelas V Sd Muhammadiyah Mutihan Wates
+Kulon Progo. Skripsi tidak diterbitkan. Yogyakarta:
+Universitas Negeri Yogyakarta (UNY).
+
+Saran
+Penelitian pengembangan merupakan penelitian yang
+menhasilkan suatu produk baru atau memodifikasi
+produk yang sudah ada sebelumnya Irfandi (2015:64).
+Hasil dari penelitian ini berupa media pembelajaran
+berbasis teknologi berbentuk animasi videoscribe
+“ANVIS” tentang persiapan kemerdekaan RI. Guna dapat
+dimaksimalkan sebagai alternatif media pembelajarann,
+maka diberikan saran kepada pembaca yakni sebagai
+berikut: (1) Diperlukannya penelitian lanjutan terkait
+keefektifan penggunaan media ANVIS yang memuat
+materi tentang persiapan kemerdekaan RI di Kelas V
+dalam proses pembelajaran. (2) Diperlukan keterampilan
+lebih baik dalam pembuatan media animasi videoscribe
+dengan pemanfaatan aplikasi sparkol videoscribe,
+sehingga dapat dihasilkan media yang tepat untuk
+digunakan.
+
+Kuntowijoyo.
+2005.
+Pengantar
+Yogyakarta: Bentang Pustaka
+
+Penelitian
+
+Sejarah.
+
+495
+
+

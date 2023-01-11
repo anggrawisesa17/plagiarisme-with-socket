@@ -1,0 +1,805 @@
+Jurnal Ilmiah Komputer dan Informatika (KOMPUTA)
+
+1
+
+Edisi. 1 Volume. 1 Agustus 2015 ISSN : 2089-9033
+
+PEMBANGUNAN APLIKASI CHILD TRACKER
+BERBASIS ASSISTED – GLOBAL POSITIONING SYSTEM (A-GPS)
+DENGAN PLATFORM ANDROID
+Andi Juansyah
+Teknik Informatika – Universitas Komputer Indonesia
+Jl. Dipatiukur 112-114 Bandung
+Email : standy301@gmail.com
+
+ABSTRAK
+Orangtua sudah seharusnya memberikan yang
+terbaik untuk anaknya, mulai dari kebutuhan
+makanan yang sehat, pendidikan, bahkan rasa aman.
+Bimbingan dan pemantauan orangtua adalah salah
+satu faktor utama, semakin tumbuh bersarnya anak
+semakin luas pergaulan dan kesibukan anak menjadi
+tidak terpantau sepenuhnya oleh orangtua, hal ini
+menjadi kekhawatiran orangtua dimana belakangan
+ini banyaknya berita anak hilang, dan dalam kondisi
+darurat
+anak
+mengalami
+kesulitan
+dalam
+menghubungi orangtua.
+Berdasarkan hal tersebut, maka dapat
+disimpulkan perlunya membangun perangkat lunak
+yang dapat membantu permasalahan para orangtua
+dan anak yang sudah di paparkan sebelumnya. Child
+Tracker adalah sebuah perangkat lunak yang berjalan
+pada perangkat mobile sehingga mudah untuk diakses
+dan di bawa kemana saja. Child Tracker
+menggunakan teknologi Assisted Global Positioning
+System (A-GPS),penentu posisi pada GPS dengan
+bantuan server pembantu dari BTS selluler.
+Perangkat lunak yang dibangun menggunakan
+pemodelan berbasis objek. Child Tracker dibangun
+menjadi 2 aplikasi yaitu Child Tracker – Parent untuk
+pengguna orangtua dan Child Tracker – Child untuk
+pengguna anak.
+Berdasarkan hasil pengujian menggunakan
+metode pengujian alpha dan beta dapat disimpulkan
+bahwa perangkat lunak Child Tracker telah
+membantu orangtua dalam memantau anak dengan
+menggunakan platform android, dan membantu anak
+dalam mengirim tanda bahaya dan menghubungi
+orangtua secara cepat dengan adanya fitur sos..
+Kata kunci : Child Tracker,A-GPS, Pemantauan,
+SOS, Android.
+
+1. PENDAHULUAN
+Orangtua sudah seharusnya memberikan yang
+terbaik untuk anaknya, mulai dari kebutuhan
+makanan yang sehat, pendidikan,bah kan rasa aman.
+Bimbingan dan pemantauan orangtua adalah salah
+satu faktor utama, semakin tumbuh besarnya anak
+semakin luas pergaulan dan kesibukan anak menjadi
+tidak terpantau sepenuhnya oleh orangtua, hal ini
+
+menjadi pusat kekhawatiran orangtua dimana
+belakangan ini banyaknya berita anak hilang yang
+diculik, diperkosa, bahkan tidak segan-segan di
+bunuh. Serperti berita kehilangan anak yang bernama
+Rimma Naomi berumur 14 tahun, yang hilang saat
+pergi untuk mengikuti eskul renang di SMPN 9
+Tangerang Selatan [1].
+Berdasarkan hasil wawancara dengan 15
+orangtua, didapatkan 11 orangtua dengan persentase
+73.33% yang menyatakan bahwa orangtua memiliki
+kesibukan masing-masing serta hanya ada sedikit
+waktu untuk bersama dengan anak, hal ini
+menyebabkan pengawasan orangtua kepada anak
+berkurang, tak banyak orangtua yang mengetahui
+aktifikas anak, seperti keluar untuk bermain, pergi
+berwisata maupun aktifikas study yang sudah pasti
+tanpa pengawasan orangtua dan tak jarang juga anak
+berbohong ketika pergi ke suatu tempat.
+Berdasarkan hasil wawancara kepada 15 anak,
+didapatkan 9 anak dengan persentase 80% yang
+menyatakan anak membutuhkan waktu lama dalam
+menghubungi orangtua pada saat keadaan darurat dan
+juga anak tidak memungkinkan secara cepat untuk
+memberitahu lokasi kepada orangtua disaat keadaan
+darurat. Permasalahan ini menjadi faktor yang harus
+di perhatikan oleh setiap orangtua, dimana pegawasan
+orangtua harus lebih ditingkatkan. Hal ini dapat di
+minimalisir dengan kemajuan teknologi yaitu
+menggunakan teknologi A-GPS.
+Assisted Global Positioning System (A-GPS)
+merupakan pengembangan dari sistem gps biasa
+sebagai penentu posisi. yang dalam penentuan posisi
+tidak hanya mengandalkan sinyal dari satelit gps,
+tetapi mendapatkan assist dari sebuah server data
+yaitu operator selular. Bantuan berupa data posisi
+yang diambil berdasarkan LBS (Location Based
+Service), ialah suatu sistem penentu lokasi berdasrkan
+BTS (Base Transceiver System). Data lokasi yang
+tidak hanya dikirim menggunakan satelit dibantu juga
+data dari server yang di sampaikan ke A-GPS melalui
+koneksi data via GPRS atau 3G, sehingga penentuan
+posisi lebih cepat atau disebut juga Time To First Fix
+(TTFF) dan lebih akurat berkat bantuan server data
+operator [2]. Data lokasi akan ditampilkan dengan
+media dari google yaitu google maps api.
+Saat ini setidaknya ada sekitar 7 miliar pengguna
+mobile di seluruh dunia. Sementara itu, jumlah
+
+Jurnal Ilmiah Komputer dan Informatika (KOMPUTA)
+
+2
+
+Edisi. 1 Volume. 1 Agustus 2015 ISSN : 2089-9033
+pengguna layanan mobile selama ini tumbuh 7 persen
+tiap tahunnya. Pada kuartal pertama 2014 lalu saja
+penambahan pengguna mobile baru mencapai 120
+juta, dengan laju pertumbuhan seperti itu, maka tahun
+2015 nanti jumlah pengguna mobile diprediksi akan
+melampaui jumlah penduduk dunia yang saat ini
+mencapai kurang lebih 7,2 miliar [3].
+Tujuan yang akan dicapai dari penelitian ini
+adalah sebagai berikut:
+1. Mempermudah
+orangtua
+mengetahui
+keberadaan anak dengan menggunakan mobile
+android.
+2. Membantu anak menghubungi orangtua lebih
+cepat pada saat situasi darurat dan
+memberikan lokasi terakhir kepada orangtua.
+
+karena A-GPS receiver didesain untuk bisa
+mengetahui terlebih dalam penentuan posisinya,
+maka A-GPS receiver dapat meningkatkan jumlah
+energy yang diterima dari frekuensi-frekuensi
+tertentu saja. Hal ini meningkatkan sensitivitas dari
+A-GPS receiver dan memungkinkan untuk
+melakukan penentuan posisi user walaupun
+memperoleh sinyal GPS pada kekuatan sinyal yang
+lebih rendah [2].
+
+1.1 Tracking
+Tracking secara harifah memiliki arti mengikuti
+jalan, atau dalam arti bebasnya adalah suatu kegiatan
+untuk mengikuti jejak suatu obyek. Pengertian
+tracking atau pemantauan dalam hal ini adalah
+kegiatan untuk memantau keberadaan anak
+berdasarkan posisi yang di dapatkan dari smartphone
+[3].
+1.2 Aplikasi
+Secara istilah pengertian aplikasi adalah suatu
+program yang siap untuk digunakan yang dibuat
+untuk melaksanankan suatu fungsi bagi pengguna
+jasa aplikasi serta penggunaan aplikasi lain yang
+dapat digunakan oleh suatu sasaran yang akan dituju.
+Menurut kamus computer eksekutif, aplikasi
+mempunyai arti yaitu pemecahan masalah yang
+menggunakan salah satu tehnik pemrosesan data
+aplikasi yang biasanya berpacu pada sebuah
+komputansi yang diinginkan atau diharapkan maupun
+pemrosesan data yang di harapkan.
+Pengertian aplikasi menurut Kamus Besar Bahasa
+Indonesia, “Aplikasi adalah penerapan dari rancang
+sistem untuk mengolah data yang menggunakan
+aturan atau ketentuan bahasa pemrograman tertentu”
+[4].
+1.3 Assisted – Global Positioning System (A-GPS)
+Assisted Global Positioning System (A-GPS)
+merupakan pengembangan dari sistem GPS biasa
+sebagai penentu posisi. A-GPS memperbaiki
+performansi GPS biasa dengan menyediakan
+informasi lewat kanal komunikasi alternative yang
+terhubung ke suatu server pembantu, dimana A-GPS
+receiver akan mendapatkan beberapa informasi yang
+biasanya diterima dari satelit melalui server tersebut.
+Inilah yang membedakan antara A-GPS dengan GPS,
+yaitu penambahan elemen assistance server atau juga
+disebut LBS (location Base Service). Dengan
+demikian, membantu proses penerimaan data untuk
+menentukan posisi user menjadi benar-benar lebih
+mudah dan dapat mengurangi waktu serta jumlah
+informasi yang dibutuhkan dari satelit. Lebih lanjut,
+
+Gambar 1.1 Contoh (Assisted – Global Positioning
+System) A-GPS
+1.4 Pengenalan Sistem Operasi Android
+Android merupakan sistem operasi yang sekarang
+sedang terkenal di pasaran smartphone saat ini.
+Berikut adalah pengenalan android :
+1.4.1 Sejarah Android
+Android adalah sebuah sistem operasi
+perangkat mobile berbasis linux yang mencangkup
+sistem operasi, middleware dan aplikasi. Android
+menyediakan
+platform terbuka
+bagi
+para
+pengembang untuk menciptakan aplikasi mereka.
+Awalnya, Google Inc. membeli Android Inc.
+yang merupakan pendatang baru yang membuat
+peranti lunak untuk ponsel atau smartphone.
+Kemudian untuk mengembangkan Android,
+dibentuklah Open Handset Alliance, konsorsium dari
+34 perusahaan peranti keras, peranti lunak dan
+telekomunikasi, termasuk Google, HTC, Intel,
+Motorola, Qualcomm, T-Mobile, dan Nvidia. [10]
+Pada saat perilisan perdana Android, 5
+November 2007, Android bersama Open Handset
+Alliance menyatakan mendukung pengembangan
+open source pada perangkat mobile. Di lain pihak,
+Google merilis kode-kode Android di bawah lisensi
+Apache, sebuah lisensi perangkat lunak dan open
+platform perangkat seluler.
+1.5 Perangkat Lunak Pendukung
+Berikut adalah perangkat lunak pendukung dalam
+penunjang pembangunan aplikasi yang akan di
+bangun.
+1.5.1 Android Studio
+Android studio adalah IDE (Integrated
+Development
+Environment)
+resmi
+untuk
+
+Jurnal Ilmiah Komputer dan Informatika (KOMPUTA)
+
+3
+
+Edisi. 1 Volume. 1 Agustus 2015 ISSN : 2089-9033
+pengembangan aplikasi Android dan bersifat open
+source atau gratis. Peluncuran Android Studio ini
+diumumkan oleh Google pada 16 mei 2013 pada
+event Google I/O Conference untuk tahun 2013.
+Sejak saat itu, Android Studio mengantikan Eclipse
+sebagai IDE resmi untuk mengembangkan aplikasi
+Android [5].
+
+Gambar 1.2 Android Studio
+Android
+studio
+sendiri
+dikembangkan
+berdasarkan IntelliJ IDEA yang mirip dengan Eclipse
+disertai dengan ADT plugin (Android Development
+Tools). Android studio memiliki fitur :
+a. Projek berbasis pada Gradle Build
+b. Refactory dan pembenahan bug yang cepat
+c. Tools baru yang bernama “Lint” dikalim dapat
+memonitor kecepatan, kegunaan, serta kompetibelitas
+aplikasi dengan cepat.
+d. Mendukung Proguard And App-signing untuk
+keamanan.
+e. Memiliki GUI aplikasi android lebih mudah
+f. Didukung oleh Google Cloud Platfrom untuk setiap
+aplikasi yang dikembangkan.
+1.5.2 Java Development Kit (JDK)
+Java Development Kit (JDK) adalah
+sekumpulan perangkat lunak yang dapat kamu
+gunakan untuk mengembangkan perangkat lunak
+yang berbasis Java, sedangkan JRE adalah sebuah
+implementasi dari Java Virtual Machine yang benarbenar digunakan untuk menjalankan program java.
+Baisanya, setiap JDK berisi satu atau lebih JRE dan
+berbagai alat pengembangan lain seperti sumber
+compiler java, bundling, debuggers, development
+libraries dan lain sebagainya [5].
+1.5.3 Web Service
+Web service adalah sekumpulan application
+logic beserta objek-objek dan metode-metode yang
+dimilikinya, yang terletak di suatu server yang
+terhubung ke internet sehingga dapat diakses
+menggunakan protocol HTTP dan SOAP (Simple
+Object Access Protocl). Dalam penggunaanya, web
+service dapat digunakan hanya untuk memeriksa data
+user yang login ke sebuah website ataupun untuk
+digunakan pada transaksi perbankan online yang
+rumit.
+Tujuan dari teknologi ini adalah untuk
+memudahkan beberapa aplikasi komponenya untuk
+saling terhubung dengan aplikasi lain dalam sebuah
+organisasi maupun diluar organisasi menggunakan
+standar yang tidak terikat platform (platform-neutral)
+
+dan tidak terikat akan bahasa pemrograman yang
+digunakan. Hal tersebut dapat terjadi karena XML
+standar yang didukung oleh banyak perusahaan besar
+didunia, yang digunakan untuk bertukar data. Selain
+daripada itu, penggunaan SOAP menjadi metodemetode dari objek-objek yang ada dalam sebuah web
+service dapat di akses dari aplikasi lain seperti halnya
+aplikasi tersebut mengakses metode local [6].
+1.5.4 Java Script Object Nonation (JSON)
+JSON (JavaScript Object Notation) adalah
+format pertukaran data yang ringan, mudah dibaca
+dan ditulis oleh manusia, serta mudah diterjemahkan
+dan dibuat (generate) oleh komputer. Format ini
+dibuat
+berdasarkan
+bagian
+dari
+Bahasa
+Pemprograman JavaScript, Standar ECMA-262 Edisi
+ke-3 - Desember 1999. JSON merupakan format teks
+yang tidak bergantung pada bahasa pemprograman
+apapun karena menggunakan gaya bahasa yang
+umum digunakan oleh programmer keluarga C
+termasuk C, C++, C#, Java, JavaScript, Perl, Python
+dll. Oleh karena sifat-sifat tersebut, menjadikan
+JSON ideal sebagai bahasa pertukaran data [JSON]
+[7].
+JSON terbuat dari dua struktur:
+a) Kumpulan pasangan nama/nilai. Pada beberapa
+bahasa, hal ini dinyatakan sebagai objek (object),
+rekaman (record), struktur (struct), kamus
+(dictionary), tabel hash (hash table), daftar
+berkunci (keyed list), atau associative array.
+b) Daftar nilai terurutkan (an ordered list of values).
+Pada kebanyakan bahasa, hal ini dinyatakan
+sebagai larik (array), vektor (vector), daftar (list),
+atau urutan (sequence).
+1.5.5 Google Cloud Messaging API
+Google Cloud Messaging (GCM) untuk
+android adalah layanan yang membantu pengembang
+mengirim data dari server untuk aplikasi android
+mereka ke perangkat android lainnya. Ini bisa
+menjadi pesan singkat untuk memberitahu aplikasi
+android bahwa data baru yang akan diambil dari
+server (misalnya, film diunggah oleh seorang teman),
+atau bisa juga pesan yang berisi sampai dengan 4KB
+data payload (sehingga aplikasi seperti instant
+messaging dapat menerima pesan langsung) [8] .
+Layanan GCM menangani semua aspek
+antrian pesan dan pengiriman ke aplikasi target, dan
+berjalan pada perangkat target. GCM memungkinkan
+aplikasi android untuk mengirim pesan kepada server
+untuk membroadcast sebuah notifikasi kepada
+seluruh client yang ada. Hanya membutuhkan sebuah
+account Gmail maka akan langsung dapat
+menggunakan fasilitas GCM ini.
+1.5.6 Google Geocoding API
+Geocoding adalah proses konversi alamat ke
+dalam kordinat geografis seperti didapatkan sebuah
+alamat (1600 Amphiteatre Mountain View, CA) dan
+
+Jurnal Ilmiah Komputer dan Informatika (KOMPUTA)
+
+4
+
+Edisi. 1 Volume. 1 Agustus 2015 ISSN : 2089-9033
+di konversikan menjadi kordinat latitude 37,423021
+longitude – 122,083739, yang dapat digunakan untuk
+menempatkan penanda pada peta atau posisi peta.
+Adapun reverse geocoding adalah kebalikan
+dari geocoding yaitu konversi kordinat menjadi
+sebuah alamat yang memungkinkan dapat
+menemukan sebuah alamat [10].
+
+2. ISI PENELITIAN
+2.1 Analisis Sistem
+Aplikasi Child Tracker pada smartphone Android
+adalah aplikasi yang digunakan untuk mengetahui
+keberadaan anak. Aplikasi ini dapat mengetahui
+keberadaan
+anak
+saat
+berpergian
+dengan
+menggunakan smartphone android. Selain itu juga
+dapat membantu anak memberikan lokasi dan
+menghubungi orangtua dengan cepat dan pada saat
+situasi darurat. Aplikasi ini menggunakan sebuah
+perangkat yaitu a-gps pada smartphone android
+sehingga posisi keberadaan anak lebih akurat dan
+tepat, lalu dilakukan dimana saja karena aplikasi ini
+terkoneksi dengna internet.
+2.2 Alur Sistem
+Gs
+
+Gambar 1.3 Google Geocoding dan Reverse
+Geoconding API
+1.5.7 Google Maps API
+Google maps merupakan layanan dari google
+yang mempermudah pengunanya untuk melakukan
+kemampuan pemetaan untuk aplikasi yang dibuat.
+Sedangkan google maps API memungkinkan
+pengembangan untuk mengintegrasikan Google
+Maps ke dalam situs web. Dengan menggunakan
+Google
+Maps
+Api
+memungkinkan
+untuk
+menanamkan situs Google Maps ke dalam situs
+eksternal, di mana situs data tertentu dapat dilakukan
+overlay [11].
+
+Gambar 1.5 Google Maps
+Meskipun pada awalnya hanya javascript API,
+API Maps sejak diperluas untuk menyertakan sebuah
+API untuk Adobe Flash aplikasi, layanan untuk
+mengambil gambar peta status, dan layanan web
+untuk melakukan geocoding, menghasilkan petunjuk
+arah mengemudi, dan mendapatkan profil elevasi
+
+Gambar. 2.1 Arsitektur Sistem Child tracker
+
+2.3 Analisis Proses Bisnis
+Analisis aturan bisnis menjelaskan tentang
+permasalahan yang sedang terjadi pada orangtua dan
+anak:
+1.
+Analisis proses bisnis yang sedang berjalan.
+Berikut ini adalah proses bisnis yang sedang
+berjalan saat ini pada orangtua dan anak.
+a. Orangtua hanya dapat memantau anak ketika
+si anak tersebut bersama orangtua, namun
+apabila si anak jauh dari jangkauan orangtua
+seperti tersesat maka orangtua tidak dapat
+memantau keberadaan anak.
+b. Anak tidak dapat secara cepat menghubungi
+orangtua ketika anak mengalami suatu
+musibah seperti kecelakaan, tersesat, atau
+juga penculikan.
+2.
+Analisis proses bisnis yang diusulkan.
+Proses bisnis yang diusulkan untuk orangtua dan
+anak adalah sebagai berikut :
+a. Pemantauan orangtua terhadap anak dapat
+dilakukan dengan menggunakan sebuah
+aplikasi yang dapat memantau anak secara
+jarak jauh menggunakan smartphone.
+b. Menggunakan aplikasi pada smartphone
+yang dapat mengetahui ketika anak berada
+jauh dari tempat orangtua.
+
+Jurnal Ilmiah Komputer dan Informatika (KOMPUTA)
+
+5
+
+Edisi. 1 Volume. 1 Agustus 2015 ISSN : 2089-9033
+c.
+
+Dibutuhkan sebuah aplikasi dengan fitur
+memberikan lokasi tempat keberadaan anak
+dan menghubungi orangtua serta membantu
+anak ketika berada dalam keadaan darurat.
+
+2.4 Analisis A-GPS
+Assisted – Global Positioning System (A-GPS)
+merupakan sistem penentuan posisi dari GPS
+didukung dengan bantuan server pembantu yaitu dari
+BTS selluler. Dengan demikian, proses penerimaan
+data untuk menentukan posisi user menjadi lebih
+mudah dan dapat mengurangi waktu penerimaan
+posisi serta memberikan akurasi yang lebih .
+2.4.1 Prinsip Penentuan Posisi denga A-GPS
+Penentuan posisi pada A-GPS adalah dengan
+menggunakan perhitungan jarak. Jarak yang
+dimaksud adalah jarak antara user dan satelit GPS.
+Jarak ini bisa didapatkan setelah lama waktu
+perjalanan sinyal GPS dari mulai dikirim oleh satelit
+hingga diterima oleh A-GPS receiver diketahui.
+Sedangkan kecepatan sinyal GPS setara dengan
+kecepatan cahaya, yaitu 3x105 km/s . Dengan
+persamaan matematika s = v x t, dimana s = jarak, v
+= kecepatan sinyal (setara kecepatan cahaya c = 3 x
+105 km/s), dan t = waktu, maka jarak antara user dan
+satelit GPS dapat diketahui.
+Berikut adalah gambaran perbedaan osisi GPS
+dengan A-GPS :
+
+Gambar 2.3 Usecase app orangtua
+
+Gambar 2.4 Usecase app orangtua
+2.6 Analisis Skema Relasi
+berikut adalah analisis skema relasi pada
+aplikasi child tracker.
+
+Gambar 2.2 Perbedaan GPS dengan A-GPS
+2.5 Analisis Kebutuhan Fungsional
+Berikut adalah usecase dari subsistem aplikasi
+child tracker.
+
+Gambar 2.5 Skema Relasi
+2.7 Implementasi Perangkat Keras
+Tabel 2.1 Spesifikasi Perangkat Keras smartphone
+No
+Perangkat Keras
+Spesifikasi
+1
+Dimensi layar
+5.0 inches
+2
+RAM
+2GB
+3
+Memory Internal
+16GB
+4
+Processor
+Dual-core
+2GHz
+5
+Resolusi
+720x1280
+pixels
+6
+Sistem Operasi
+Kitkat 4.4
+
+Jurnal Ilmiah Komputer dan Informatika (KOMPUTA)
+
+6
+
+Edisi. 1 Volume. 1 Agustus 2015 ISSN : 2089-9033
+No
+7
+
+Perangkat Keras
+Jaringan
+
+8
+9
+
+A-GPS
+WLAN
+
+Spesifikasi
+2G : GSM 850
+/ 900 / 1800 /
+1900 3G :
+HSDPA 850 /
+900 / 1900 /
+2100
+standar
+Wi-Fi 802.11
+b/g/n, Wi-Fi
+Direct, hotspot
+
+2.8 Implementasi Perangkat Lunak
+Tabel 2.2 Spesifikasi Perangkat Lunak smartphone
+No
+Perangkat Lunak
+Spesifikasi
+1
+
+Sistem Operasi
+
+Windows 7
+
+2
+
+Web service
+
+Sublime Text 2
+
+3
+
+Database
+
+Php MyAdmin
+
+4
+
+Android
+
+Android Studio
+
+5
+
+Sistem
+Android
+
+Operasi
+
+Gambar 2.7 register child tracker – parent
+
+Jelly
+Bean
+(4.2.2), API 14
+
+2.9 Implementasi Antarmuka
+Berikut adalah implementasi antarmuka aplikasi
+child tracker.
+1. Implementasi antarmuka child tracker –
+parent
+
+Gambar 2.8 Menu Utama child tracker –
+parent
+
+Gambar 2.6 Login child tracker – parent
+
+Gambar 2.9 Notifikasi SOS child tracker –
+parent
+
+Jurnal Ilmiah Komputer dan Informatika (KOMPUTA)
+
+7
+
+Edisi. 1 Volume. 1 Agustus 2015 ISSN : 2089-9033
+
+Gambar 2.10 Area Aman child tracker –
+parent
+2.
+
+Implementasi antarmuka child tracker –
+child
+
+Gambar 2.13 Menu Utama child tracker - child
+2.10 Pengujian
+Berikut adalah hasil pengujian dari pembangunan
+perangkat lunak ini,
+1. Evaluasi hasil pengujian fungsional yang
+dilakukan maka dapat disimpulkan bahwa
+sistem mobile yang dibangun sudah berjalan
+sesuai dengan yang diharapkan baik itu dari segi
+validasi maupun proses penanganan kesalahan.
+2. Evaluasi pengujian kuesioner
+Berdasarkan hasil pengujian kuesioner yang telah
+dilakukan, maka kesimpulannya :
+
+Gambar 2.11 Login child tracker – child
+
+Tabel 2.3 Evaluasi Keusioner App Orangtua
+No
+Tujuan
+Evaluasi Hasil
+1
+membantu anda dalam
+Membantu
+mengetahui keberadaan
+anak secara jarak jauh
+2
+membantu
+anda
+Membantu
+mengetahui
+kondisi
+anak secara jarak jauh
+3
+membantu
+anda
+Membantu
+menentukan area aman
+untuk anak
+4
+membantu
+anda
+Membantu
+mengetahui
+jarak
+terdekat menuju posisi
+anak berada
+Tabel 2.4 Evaluasi Keusioner App Anak
+Tujuan
+Evaluasi Hasil
+membantu
+anda
+Membantu
+menghubungi orangtua
+secara cepat ketika
+kondisi darurat
+2
+membantu
+anda
+Membantu
+memberikan
+tanda
+bahaya kepada orangtua
+
+No
+1
+
+Gambar 2.12 Register child tracker –
+child
+
+Jurnal Ilmiah Komputer dan Informatika (KOMPUTA)
+
+8
+
+Edisi. 1 Volume. 1 Agustus 2015 ISSN : 2089-9033
+No
+3
+
+Tujuan
+membantu
+anda
+menentukan area aman
+untuk anak
+
+Evaluasi Hasil
+Membantu
+[5]
+
+3. PENUTUP
+Berdasarkan hasil pembahasan yang telah
+diuraikan pada bab-bab sebelumnya, maka penulis
+dapat menarik kesimpulan sebagai berikut :
+1. Dengan adanya aplikasi Child Tracker pada
+platform android, orangtua dapat dengan mudah
+mengetahui keberadaan anak secara jarak jauh
+dengan hanya menggunakan mobile Android
+2. Dengan adanya aplikasi Child Tracker pada
+platform android membantu anak menghubungi
+orangtua dengan cepat melalui fitur sos yang
+pada saat digunakan dapat mengirim notifikasi
+sos ke smartphone orangtua, serta menghubungi
+no telpon orangtua yang sudah terdaftar pada
+aplikasi orangtua secara otomatis setelah
+beberapa detik tombol sos di gunakan.
+Adapun saran – saran terhadap pengembangan
+perangkat lunak Child Tracker ini adalah sebagai
+berikut :
+1. Menambah fitur lain saat penanganan jika
+aplikasi child tracker – child sedang tidak
+ada internet tetapi tetap dapat mengirimkan
+lokasi kepada orangtua.
+2. Memperbaiki tampilan aplikasi sehingga
+dapat lebih menarik.
+3. Mengembangkan platform yang dapat
+didukung oleh perangkat lunak mengingat
+saat ini hanya mendukung pada platform
+android
+
+DAFTAR PUSTAKA
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+T. N. Ismailian, "Detik News," Detik.com, 02
+10
+2013.
+[Online].
+Available:
+http://metro.sindonews.com/read/789989/31/
+izin-renang-siswi-smpn-di-tangsel-hilang1380708459. [Accessed 16 02 2015].
+D. Muhammad, N. M. A., ST., MT. and T. A.
+W., ST., MT., "Analisis Performansi Mobile
+Tracking Berbasis Sistem Seluler dengan
+Metode A-GPS," p. 11, 2012.
+I. P. D. Sandana, J. Wibowo and V. M.
+Taufik, "Rancang Bangun Aplikasi Mobile
+Tracking Dengan Menggunakan Sms
+Gateway untuk Meningkatkan Keamanan
+Pada PT. Artiduta Aneka Usaha," Jurnal
+Sistem Informasi dan Komputerisasi
+Akuntansi (JSIKA), vol. I, no. 2, 2012.
+KBBI, "Kamus Besar Bahasa Indonesia,"
+Departemen Pendidikan Nasional Republik
+Indonesia,
+[Online].
+Available:
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+http://badanbahasa.kemdikbud.go.id/kbbi/.
+[Accessed 10 04 2015].
+, Android Developer;, "Android Studio,"
+Android Developer, [Online]. Available:
+http://developer.android.com/sdk/.
+[Accessed 01 04 2015].
+A. W. Mahastama, "Web Service," [Online].
+Available:
+http://lecturer.ukdw.ac.id/~mahas/dossier/ati
+_04.pdf. [Accessed 10 04 2015].
+"Pengenalan JSON," JSON, [Online].
+Available:
+www.json.org/json-id.html.
+[Accessed 05 04 2015].
+"Google Cloud messaging," [Online].
+Available:
+http://developer.android.com/google/gcm/.
+[Accessed 2 April 2015].
+"The Google Direction API," [Online].
+Available:
+https://developers.google.com/maps/docume
+ntation/directions/. [Accessed 26 04 2015].
+"The Google Geocoding API," Google
+Developer,
+[Online].
+Available:
+https://developers.google.com/maps/docume
+ntation/geocoding/. [Accessed 01 06 2015].
+B. H. Sirenden and E. L. Dachi, Buat Sendiri
+Aplikasi Petamu Menggunakan CodeIgniter
+dan Google Maps API, Yogyakarta: ANDI
+offset, 2012.
+
+

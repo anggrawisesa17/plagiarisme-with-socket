@@ -1,0 +1,831 @@
+AGROINTEK Volume 6, No.2 Agustus 2012
+
+65
+
+PENGOLAHAN LIMBAH CAIR PERIKANAN MENGGUNAKAN
+KONSORSIUM MIKROBA INDIGENOUS PROTEOLITIK DAN LIPOLITIK
+Devi Ambarwaty Oktavia1, Djumali Mangunwidjaja2, Singgih Wibowo3,
+Titi Candra Sunarti4 dan Mulyorini Rahayuningsih4
+1,2,4)
+
+Teknologi Industri Pertanian FATETA-IPB
+3)
+BBP4BKP
+
+ABSTRACT
+Fish processing industries produce liquid waste at different capacity in every level
+from production line. Because of less attention and knowledge, wastes become worse. The aim
+of this study was to discover potential microbial consortium that can degrade protein and fat of
+liquid waste from fish production processing. The consortiums formula were chosen from
+bacteria that have the highest specific growth. Formulation A which degraded soluble protein
+than others. Formulation of B which degraded fat than others. All formulation had pH in range
+are 6 - 9. Liquid waste which outoclaved had degraded protein, soluble protein and pH
+parameters.
+Key words: liquid waste, fisheries industries, formulation, consortium microbia
+PENDAHULUAN
+Indonesia merupakan negara yang
+sangat kaya akan hasil laut. Umumnya hasil
+laut tersebut dikonsumsi dalam bentuk segar
+ataupun olahan. Berbagai macam jenis olahan
+hasil laut dapat dijumpai di berbagai wilayah
+di Indonesia. Industri olahan yang ada di
+Indonesia umumnya masih konvensional atau
+miniplan di mana lokasi industri masih
+berdekatan dengan tempat penangkapan ikan
+sebagai tempat penyediaan sumber bahan
+baku olahan.
+Produksi tangkapan laut Indonesia
+yang dimanfaatkan dalam bentuk basah
+sebesar 57,05%, bentuk olahan tradisional
+sebesar 30,19% dan bentuk olahan modern
+sebesar 10,90%, serta olahan lainnya sebesar
+1,86% (Rahmania 2007).Volume ekspor
+daging segar rajungan dalam bentuk beku
+cukup tinggi. Pada tahun 2000 hingga 2009
+berkisar antara 6,77%-12,99%, selanjutnya
+mengalami peningkatan setiap tahunnya
+(Kementerian Kelautan dan Perikanan 2010).
+Perebusan daging rajungan yang
+dilakukan oleh miniplan sebelum dikirim ke
+pengumpul masih mengandung protein dan
+zat padatan terlarut (TDS) tinggi. Umumnya
+pengolah tradisional tidak melakukan
+penanganan limbah yang dihasilkan sebelum
+membuang air hasil perebusan daging
+
+rajungan, sehingga terjadi pencemaran air dan
+menimbulkan bau khas rajungan yang tercium
+di sekitar pengolahan tradisonal. Demikian
+halnya pada limbah air pencucian surimi yang
+masih mempunyai kandungan protein, lemak
+dan zat padat terlarut yang tinggi. Beberapa
+perusahaan
+pengolahan
+surimi
+sudah
+melakukan penanganan air pencucian surimi
+sebelum dibuang ke saluran air. Menurut
+Colic et al. (2011) menuliskan bahwa tipe
+utama dari limbah yang ditemukan pada
+industri pengolahan perikanan adalah darah,
+kulit, kepala ikan, sisik, tulang ataupun sisa
+daging yang menempel pada tulang. Proses
+operasi utama termasuk penerimaan produk,
+penyortiran dan penimbangan, persiapan
+(pemotongan daging ikan, pemfiletan,
+penghilangan sisik, kulit dan kepala juga isi
+perut), perendaman, proses produksi seperti
+fermentasi dengan garam ataupun proses lain
+seperti
+pengalengan
+dan
+pembotolan,
+pengemasan dan pengepakan.
+Dampak yang ditimbulkan limbah
+cair bagi lingkungan dan juga sektor industri
+adalah sangat penting sehingga perlu
+dipahami dasar-dasar teknologi pengolahan
+limbah cair. Teknologi pengolahan air limbah
+adalah kunci dalam memelihara kelestarian
+lingkungan. Apapun macam teknologi
+pengolahan air limbah domestik maupun
+agroindustri yang dibangun harus dapat
+
+66
+
+dioperasikan dan dipelihara oleh masyarakat
+setempat.
+Bahan
+organik
+terlarut
+dan
+tersuspensi dapat menjadi sangat tinggi pada
+limbah cair proses pengolahan perikanan
+karena akan meningkatkan BOD dan COD.
+Selain itu, peningkatan kadar lemak dan
+minyak pada limbah juga meningkat.
+Timbulnya bau busuk disebabkan oleh
+dekomposisi lanjut protein, yang kaya akan
+asam amino bersulfur (sistein), menghasilkan
+asam sulfida, gugus thiol, dan amoniak. Asam
+lemak rantai pendek hasil dekomposisi bahan
+organik juga menyebabkan bau busuk.
+Minyak dan lemak di permukaan air akan
+menghambat proses biologis dalam air dan
+menghasilkan gas yang berbau (Suyasa 2011).
+Limbah cair dari proses pengolahan perikanan
+mempunyai kandungan BOD, lemak dan
+nitrogen. Menurut Tay et al. (2006) operasi
+pengolahan menunjukkan produksi BOD per
+ton produk sebesar 1 – 72,5 kg, sedangkan
+pemfiletan ikan memproduksi 12,5 – 37,5 kg
+BOD per ton produk. Keberadaan BOD
+dikarenakan hasil proses pembersihan dan
+adanya nitrogen berasal dari darah yang
+terdapat pada limbah cair.
+Penanganan limbah cair perikanan
+seperti penambahan nutrisi (umumnya adalah
+nitrogen dan fosfor) sangat jarang terjadi,
+akan tetapi adanya oksigen merupakan hal
+penting untuk suksesnya penanganan limbah
+cair ini. Proses aerob yang sering terjadi
+adalah sistem lumpur aktif, laguna, trickling
+filter dan rotating disc contactor (Tay et al.,
+2006). Kolam aerasi saat ini paling banyak
+diterapkan oleh industri perikanan, karena
+paling sederhana dan dianggap murah. Akan
+tetapi kualitas limbah yang dihasilkan tidak
+menjamin sesuai dengan baku mutu yang
+ditentukan dan sulit untuk dikendalikan.
+Pada lingkungan yang telah lama
+tercemar serta kolam pengolahan limbah
+dimungkinkan terdapat bakteri pendegradasi
+minyak atau lemak tersebut secara alamiah,
+bersaing maupun berkonsorsia dengan
+mikroorganisme lainnya (Cooper et al. 1990
+dalam Suyasa 2011). Konsorsium adalah
+kombinasi dari kultur murni yang disebut
+sebagai inokulum campuran. Penggunaan
+kultur murni dalam proses fermentasi
+memiliki dampak besar pada semua aspek
+peradaban manusia. Namun dalam rangka
+
+Pengolahan limbah cair perikanan ...(Devi A, dkk)
+
+untuk merancang proses fermentasi baru atau
+mengoptimalkan yang sudah ada, penelitian
+konsorsium harus dipertimbangkan dalam
+rangka untuk mengambil keuntungan dari
+interaksi
+antar
+anggota
+konsorsium
+(Navarrete-Bolanos et al., 2007). Konsorsium
+alami memang sudah ada di habitat aslinya
+yaitu limbah cair, baik itu bakteri
+pendegradasi
+karbohidrat,
+bakteri
+pendegradasi
+lemak
+ataupun
+bakteri
+pendegradasi protein. Bakteri yang saling
+berinteraksi dalam bentuk konsorsium dan
+yang diisolasi dari limbah asal (indigenous)
+diharapkan akan mempercepat proses
+degradasi polutan asal sehingga mempunyai
+baku mutu yang sesuai saat dibuang ke badan
+air.
+Penelitian ini diawali dengan
+melakukan karakterisasi limbah cair industri
+perikanan yaitu industri rajungan dan surimi
+untuk mengetahui beban polutan yang ada
+pada limbah tersebut. Setelah diketahui
+karakter dari limbah yang ada, dilakukan
+formulasi konsorsium mikroba yang memiliki
+kemampuan dalam mendegradasi protein dan
+lemak kemudian mengaplikasikannya pada
+limbah cair industri. Persentase laju degradasi
+protein dan lemak pada limbah cair industri
+perikanan tertinggi merupakan rekomendasi
+formulasi konsorsium mikroba pendegradasi
+protein dan lemak yang efektif untuk
+digunakan di lingkungan industri perikanan.
+
+METODE PENELITIAN
+Pengambilan Sampel Limbah Cair pada
+Industri Pengolahan Perikanan (rajungan
+dan surimi)
+Sampel limbah cair diambil secara
+langsung dari setiap lokasi pembuangan
+limbah menggunakan botol sampel steril
+volume 500 ml (SCHOTT DURAN, Jerman).
+Sampel diambil pada bagian outlet
+(pengeluaran air) yang tidak terdapat sirkulasi
+air. Sampel air tersebut dimasukkan dalam
+kotak es dengan volume 24 l (Marina Cooler,
+model 24 S LION STAR) yang sudah diberi
+es batu.
+
+AGROINTEK Volume 6, No.2 Agustus 2012
+
+Karakterisasi Limbah Cair Industri
+Perikanan
+Pengamatan sampel limbah cair
+dilakukan analisis proksimat yaitu protein dan
+lemak. Parameter lainnya yaitu kualitas air
+meliputi pH, suhu, amonia, COD dan BOD.
+Pengamatan sampel dilakukan secara in situ
+dan ex situ. Jumlah mikroba pada limbah
+diukur pada media pertumbuhan yang
+digunakan yaitu media umum (agar nutrien)
+dan media seleksi proteolitik maupun lipolitik
+dengan cara TPC (Fardiaz, 1987).
+Formulasi konsorsium mikroba untuk
+pengolahan limbah cair pada skala
+laboratorium
+Konsorsium
+bakteri
+dilakukan
+dengan menyeleksi isolat yang menghasilkan
+aktivitas degradasi limbah tertinggi pada skala
+laboratorium. Formulasi untuk konsorsium
+mikroba
+ditentukan
+berdasarkan
+laju
+pertumbuhan maksimum bakteri proteolitik
+dan lipolitik. Limbah cair yang digunakan
+untuk skala laboratorium adalah sebanyak 1l,
+diambil dari industri pengolahan surimi di
+daerah Pekalongan, Jawa Tengah. Limbah
+cair
+diperlakukan
+dengan
+pemanasan
+menggunakan otoklaf. Perlakuan formulasi
+konsorsium mikroba ada 3 jenis formulasi dan
+waktu pengamatan yaitu 0, 4, 8, 12, 16, 20,
+24, 30, 36, 42 dan 54 jam dengan 3 kali
+ulangan untuk melihat perubahan degradasi
+yang terjadi (Sarkar et al. 2011 yang telah
+dimodifikasi). Parameter limbah hasil
+degradasi meliputi pH, protein, lemak dan
+bobot kering.
+
+HASIL DAN PEMBAHASAN
+Karakterisasi Limbah Cair Industri
+Perikanan
+Limbah cair hasil buangan industri
+pengolahan hasil laut mengandung berbagai
+macam bahan organik seperti sisa daging, isi
+perut, protein, lemak dan karbohidrat yang
+akan berpengaruh terhadap karakteristik
+limbah cair tersebut. Selain komposisi bahan
+baku, teknologi proses yang digunakan juga
+turut menentukan karakteristiknya (Gonzales,
+1996). Oleh karena itu, karakterisasi awal
+dilakukan untuk mengetahui sifat fisik dan
+
+67
+
+kimia limbah penting dilakukan untuk
+mengetahui cara penanganan limbah terbaik
+yang harus dilakukan. Karakteristik limbah
+cair industri perikanan di daerah Cirebon dan
+Pekalongan yang menjadi lokasi penelitian
+disajikan pada Tabel 1.
+Berdasarkan
+hasil
+pengujian
+karakteristik limbah pengolahan perikanan
+pada Tabel 1, terdapat beberapa parameter
+baku mutu limbah yang melebihi standar baku
+mutu yang telah ditetapkan seperti TDS,
+sulfida, kadar lemak, BOD dan COD baik
+pada industri rajungan maupun surimi.
+Tingginya kadar sulfida pada industri
+rajungan B dan surimi akan berpengaruh
+terhadap
+lingkungan
+sekitar
+yang
+menimbulkan pencemaran udara berupa bau
+busuk. Tingginya kadar sulfida dipengaruhi
+oleh degradasi protein dan lemak oleh
+mikroba pembusuk yang menghasilkan
+senyawa H2S. Selain itu, kadar COD dan
+BOD5 yang tinggi menunjukkan besarnya
+kandungan bahan organik yang ada pada
+limbah cair tersebut karena semakin tinggi
+COD dan BOD maka semakin banyak oksigen
+yang dibutuhkan untuk mendegradasi bahan
+organik yang ada. Limbah industri surimi
+memiliki kandungan BOD dan COD yang
+jauh lebih tinggi dibandingkan industri
+rajungan. Hal ini disebabkan karena industri
+surimi biasanya menggunakan ikan-ikan yang
+kualitasnya tidak terlalu bagus.
+Kadar lemak yang tinggi pada
+limbah sebagian besar berasal dari proses
+pemotongan dan pembersihan ikan. Selain itu,
+lemak juga berasal dari minyak yang
+digunakan pada proses pengalengan ataupun
+dari pelumas pada mesin atau peralatan
+produksi (Nova Tec 1994). Lemak yang ada
+pada limbah harus dihilangkan karena akan
+menutupi permukaan badan air sehingga
+mengganggu proses transfer oksigen ke air.
+Akibatnya
+akan
+berpengaruh
+pada
+keberlangsungan hidup organisme yang hidup
+di air tersebut karena kekurangan oksigen.
+Oleh karena itu, perlu dilakukan pengolahan
+sehingga limbah yang akan dibuang pada
+perairan diharapkan sesuai dengan standar
+baku mutu yang telah ditetapkan. Pengolahan
+limbah ini dapat dilakukan secara kimia,
+fisika, dan biologis. Secara biologis,
+pengolahan limbah dilakukan dengan
+
+68
+
+Pengolahan limbah cair perikanan ...(Devi A, dkk)
+
+memanfaatkan mikroba potensial pada limbah
+tersebut.
+Dilakukan pengukuran bobot kering
+(Gambar 1) dan pH (Gambar 2) yang
+
+dihasilkan di tiap jam pengamatan pada
+limbah cair yang dikarakterisasi.
+
+Tabel 1 Karakteristik limbah cair industri perikanan
+Batas maksimal
+yang dianjurkan
+
+Parameter
+FISIKA
+Suhu
+TDS
+TSS
+KIMIA
+pH
+Sulfida (H2S)
+Amonia
+bebas
+(NH3-N)
+Nitrat (NO3)
+Nitrit (NO2)
+BOD5
+COD
+Minyak/lemak
+
+Satuan
+0
+
+Hasil analisis limbah cair
+Rajungan
+Surimi
+PT. A
+PT. B
+
+40
+4000
+400
+
+C
+ppm
+ppm
+
+29
+980
+47
+
+29
+4310*
+47
+
+25,6
+3320
+3
+
+6–9
+0,1
+
+mg/L
+
+7,5
+0,09
+
+6,8
+0,21*
+
+7,5
+0,150*
+
+5
+
+mg/L
+
+0,829
+
+0,6922
+
+30
+3
+150
+300
+10
+
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+6,1120 8,1700
+0,3922 0,4110
+39
+270*
+116
+410*
+<1
+
+1,7
+2,50
+0,2
+1100*
+1650*
+39,6*
+
+* Hasil analisis kualitas limbah cair pengolahan rajungan, menggunakan baku mutu untuk limbah
+cair yaitu KEP-51/MENLH/10/1995.
+
+16
+
+Bobot kering (mg/ml)
+
+14
+12
+10
+8
+6
+4
+2
+0
+0
+
+8
+
+16
+
+24
+
+32 40 48 56 64
+Waktu (jam)
+surimi
+rajungan
+
+Gambar 1. Bobot kering limbah
+
+72
+
+AGROINTEK Volume 6, No.2 Agustus 2012
+
+69
+
+9,0
+8,5
+
+pH
+
+8,0
+7,5
+7,0
+6,5
+0
+
+8
+
+16
+
+24
+
+32
+
+40
+
+48
+
+56
+
+64
+
+72
+
+80
+
+Waktu (jam)
+surimi
+
+rajungan
+
+Gambar 2. pH limbah
+Waktu (jam)
+-3,5
+ln biomassa (g/ml)
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+-4,0
+µmax rajungan = 0.056/jam
+
+-4,5
+
+µ max surimi = 0.062/jam
+
+-5,0
+-5,5
+-6,0
+
+surimi
+
+rajungan
+
+Gambar 3. Penentuan laju pertumbuhan maksimum (µmax) mikroba
+padalimbah surimi dan rajungan
+Bobot kering tertinggi dihasilkan
+dari limbah rajungan yaitu pada jam ke-18
+sebesar 13,667 mg/ml, sedangkan pada
+limbah surimi dihasilkan bobot kering
+tertinggi pada jam ke-12 sebesar 7,767 mg/ml.
+Pengukuran pH kedua media tidak ada
+perubahan signifikan. Akan tetapi, terjadi
+peningkatan pH pada kedua limbah jam ke-36
+menjadi 7,8 dan selanjutnya menurun kembali
+pada jam ke-42. Perbedaan pH pada kedua
+limbah masih pada kisaran pH yang ditolerir
+mikroba, hal ini sesuai dengan Tabel 1.
+Berdasarkan hasil pengukuran laju
+pertumbuhan bakteri, diketahui bahwa laju
+pertumbuhan maksimum dihasilkan pada
+
+limbah surimi yaitu sebesar 0,062/jam dan
+0,056/jam pada limbah rajungan (Gambar 3).
+Formulasi Konsorsium Mikroba Pengolah
+Limbah Cair Skala Laboratorium
+Formulasi dilakukan pada semua
+isolat potensial baik proteolitik maupun
+lipolitik. Berdasarkan formulasi bakteri yang
+dilakukan dalam penguraian limbah diperoleh
+beberapa parameter yaitu pH, bobot kering,
+protein, lemak, TSS dan Dissolve Oxygen
+(DO).
+
+70
+
+Pengolahan limbah cair perikanan ...(Devi A, dkk)
+
+9
+8,5
+
+pH
+
+8
+7,5
+7
+A
+B
+C
+
+6,5
+6
+0
+
+10
+
+20
+
+30
+40
+Waktu (jam)
+
+50
+
+60
+
+Gambar 4. pH limbah setelah formulasi konsorsium mikroba
+40
+Protein (ppm)
+
+35
+30
+25
+20
+15
+10
+0
+
+8
+
+16
+
+24
+32
+40
+Waktu (jam)
+
+A
+
+48
+
+B
+
+56
+
+64
+
+C
+
+Gambar 5. Kadar protein limbah setelah formulasi konsorsium mikroba
+Bobot kering (g/ml)
+
+0,016
+0,014
+A
+B
+C
+
+0,012
+0,010
+0,008
+0,006
+0,004
+0,002
+0,000
+0
+
+8
+
+16
+
+24
+
+32
+
+40
+
+48
+
+56
+
+64
+
+Waktu (jam)
+
+Gambar 6. Bobot kering limbah setelah formulasi konsorsium mikroba
+Berdasarkan Gambar 5 dan 6, dapat
+dilihat bahwa formulasi konsorsium pada
+kedua limbah yang diberi perlakuan dapat
+menurunkan beberapa parameter yang
+diujikan. Bobot kering formulasi konsorsium
+tertinggi dihasilkan pada A yaitu 0,0143 g/ml,
+sedangkan bobot kering terendah dihasilkan
+pada formulasi B (Gambar 6).
+Formulasi
+bakteri
+yang
+menghasilkan laju penurunan tertinggi pada
+parameter protein total adalah formulasi C
+yaitu 67,98%, akan tetapi laju penurunan
+tertinggi pada parameter protein terlarut
+
+adalah formulasi A sebesar 70,27%.
+Formulasi B mempunyai laju penurunan
+lemak tertinggi yaitu 12,59% dibandingkan
+dengan formulasi yang lain. Walaupun pH
+limbah formulasi mengalami kenaikan dan
+penurunan, hal ini masih ada di kisaran pH
+limbah yang sesuai KEP-51/MENLH/10/1995
+yaitu 6 – 9.
+
+KESIMPULAN
+Limbah surimi dan rajungan
+memiliki potensi untuk digunakan sebagai
+
+AGROINTEK Volume 6, No.2 Agustus 2012
+
+sumber mikroba potensial baik proteolitik
+maupun lipolitik. Isolat proteolitik yang
+dihasilkan sebanyak 3 isolat, sedangkan isolat
+lipolitik diperoleh sebanyak 5 isolat.
+Dilakukan formulasi konsorsium mikroba
+proteolitik dan lipolitik pada limbah surimi
+yang diberi perlakuan otoklaf. Berdasarkan
+formulasi yang dihasilkan, maka terjadi
+penurunan beberapa parameter yang diujikan
+yaitu pH, kadar lemak, protein total, dan
+protein terlarut. Terlihat dari laju penurunan
+protein terlarut dan lemak adalah formulasi
+yang diberi perlakuan limbah dengan cara
+diotoklaf. Kisaran pH limbah hasil formulasi
+konsorsium masih ada pada standar baku
+mutu limbah cair. Formulasi A mempunyai
+laju penurunan protein terlarut tertinggi
+sebesar 70,27%, sedangkan formulasi B
+mempunyai laju penurunan lemak tertinggi
+yaitu 12,59%.
+
+DAFTAR PUSTAKA
+Colic M, W Morse, J Hicks, A Lechter and JD
+Miller. 2011. Case study : Fish
+processing plant wastewater treatment.
+Clean Water Technology, Inc. Goleta,
+CA.
+Fardiaz S. 1987. Penuntun praktek
+mikrobiologi
+pangan.
+Penerbit
+Lembaga Sumberdaya Informasi. IPB.
+pp. 142.
+Gonzalez JF. 1996. Wastewater Treatment in
+the Fishery Industry. FAO Fisheries
+Technical Paper (FAO), No. 355/FAO,
+Rome (Italy), Fisheries Dept.
+Jenie BSL dan WP Rahayu. 1993.
+Penanganan limbah industri pangan.
+Yogyakarta: Penerbit Kanisius.
+Kementerian Kelautan dan Perikanan. 2010.
+Statistik ekspor hasil perikanan 2009.
+Kementerian Kelautan dan Perikanan.
+Jakarta.
+Navarrete-Bolanos JL, O Serrato-Joya,
+Botello-Alvarez E, Jimenez-Islas H,
+Cardenas-Manriquez M, Conde-Barajas
+E and Rico-Martinez R. 2007.
+Analyzing microbial consortia for
+biotechnological processes design.
+Communicating Current Research and
+Educational Topics and Trends in
+
+71
+
+Applied Microbiology. p. 437 – 449.
+[Diakses tanggal 3 Des. 2011]
+http://www.formatex.org/microbio/pdf/
+Pages437-449.pdf
+NovaTec Consultants Inc. and EVS
+Environmental
+Consultants,
+1994.Wastewater Characterization of
+Fish Processing Plant Effluents – A
+Report to Water Quality/Waste
+Management Committee.Fraser River
+Estuary
+Management
+Program.
+Available
+from:
+<http://www.rem.sfu.ca/FRAP/9339.pd
+f>(accessed on20.05.2008).
+Rahmania I. 2007. Dukungan teknologi dalam
+rangka menghasilkan produk yang
+bermutu dan aman konsumsi. Craby &
+Starky. Buletin Pengolahan dan
+Pemasaran Perikanan. Edisi Novenber
+2007. Diterbitkan oleh Direktorat
+Jenderal Pengolahan dan Pemasaran
+Hasil Perikanan DKP. Jakarta.
+Sarkar P, Meghvanshi M dan Singh R. 2011.
+Microbial consortium : A new approach
+in effective degradation of organic
+kitchen wastes. Int J of Environ Sci and
+Dev. 2(3) : 170 – 174.
+Sirisha E, Rajasekar N and Lakshmi Narasu
+M. 2010. Isolation and optimization of
+lipase producing bacteria from oil
+contaminated soils. Advances in
+Biological Research 4(5): 249-252.
+Stanbury PF, Whitaker A, Hall SJ. 1994.
+Principles of Fermentation Technology.
+Edisi ke-2. Elsevier Science L.
+Suyasa
+IWB.
+2011.
+Isolasi
+bakteri
+pendegradasi
+minyak/lemak
+dari
+beberapa sedimen perairan tercemar
+dan bak penampungan limbah.
+Tay Joo-Hwa, Show Kuan-Yeow and Hung
+Yung-Tse. 2006. Seafood processing
+wastewater treatment. Taylor & Francis
+Group, LLC.
+Wahyuntari B, NR Mubarik dan M
+Anggarani. 2004. Isolation and
+selection of alkaline proteolytic bacteria
+from leather processing waste and
+enzyme characterization. Bio Tropia 22
+: 29 – 39.
+
+

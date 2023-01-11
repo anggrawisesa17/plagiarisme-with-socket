@@ -1,0 +1,659 @@
+“Analisis Tingkat Kesehatan Bank Berdasarkan Metode
+CAMELS dan Metode RGEC”
+
+Bayu Aji Permana
+Universitas Negeri Surabaya
+Jalan Ketintang 60231, Surabaya
+bayuajipermana6391@gmail.com
+
+Abstract
+Bank soundness analysis is a form of embodiment of the procedure to find a bank
+considered healthy or not. Basically banking policies issued and implemented by
+Bank Indonesia is intended to create and maintain good health, both individually
+or as a system. With bank soundness of analysis is expected to know which banks
+are healthy and which banks are not . The method used is a qualitative descriptive
+approach. CAMELS method has weaknesses. Factor assessment method in
+CAMELS does not produce a uniform conclusion. To overcome the drawbacks of
+CAMELS method, Bank Indonesia sets new rules by using Risk-based Bank
+Rating. Bank soundness analysis using Risk-based Bank Rating more emphasize
+on risk profile.
+Keywords: CAMELS and Risk-based Bank Rating .
+
+1
+
+PENDAHULUAN
+
+Di dalam memajukan perekonomian negara, perbankan mempunyai peranan
+yang sangat penting. Hal ini karena bank mempunyai fungsi utama untuk
+menghimpun dana dari masyarakat dan menyalurkannya kembali kepada
+masyarakat dalam bentuk kredit dan produk-produk lainnya.
+Secara sederhana dapat dikatakan bahwa bank yang sehat adalah bank
+yang dapat menjalankan fungsi-fungsinya dengan baik. Dengan kata lain, bank
+yang sehat adalah bank yang dapat menjaga dan memelihara kepercayaan
+masyarakat, dapat menjalankan fungsi intermediasi, dapat membantu kelancaran
+lalu lintas pembayaran serta dapat digunakan oleh pemerintah dalam
+melaksanakan berbagai kebijakannya, terutama kebijakan moneter. Krisis
+keuangan global yang terjadi beberapa tahun terakhir memberi pelajaran berharga
+bahwa inovasi dalam produk, jasa, dan aktivitas perbankan yang tidak diimbangi
+dengan penerapan manajemen risiko yang memadai dapat menimbulkan berbagai
+permasalahan mendasar pada bank maupun terhadap sistem keuangan secara
+keseluruhan.
+
+2
+
+Kesehatan merupakan hal yang paling penting di dalam berbagai bidang
+kehidupan, baik bagi manusia maupun perusahaan. Kondisi yang sehat akan
+meningkatkan gairah kerja dan kemampuan kerja serta kemampuan lainnya. Sama
+seperti halnya manusia yang harus selalu menjaga kesehatannya, perbankan juga
+harus selalu dinilai kesehatannya agar tetap prima dalam melayani para
+nasabahnya. Bank yang tidak sehat, bukan hanya membahayakan dirinya sendiri,
+akan tetapi pihak lain. Penilaian kesehatan bank amat penting disebabkan karena
+bank mengelola dana dari maasyarakat yang dipercayakan kepada bank.
+Masyarakat pemilik dana dapat saja menarik dana yang dimilikinya setiap saat
+dan bank harus sanggup mengembalikan dana yang dipakainya jika ingin tetap
+dipercaya oleh nasabahnya.
+
+Untuk menilai suatu kesehatan bank dapat dilihat dari berbagai segi.
+Penilaian ini bertujuan untuk menentukan apakah bank tersebut dalam kondisi
+yang sehat, cukup sehat, kurang sehat atau tidak sehat. Bagi bank yang sehat agar
+tetap mempertahankan kesehatannya, sedangkan bank yang sakit untuk segera
+mengobati penyakitnya. Bank Indonesia sebagai pengawas dan pembina bankbank dapat memberikan arahan atau petunjuk bagaimana bank tersebut harus
+dijalankan atau bahkan kalau perlu dihentikan kegiatan operasinya.
+3
+
+Standar untuk melakukan penilaian kesehatan bank telah ditentukan
+pemerintah melalui Bank Indonesia. Kepada bank-bank diharuskan membuat
+laporan baik yang bersifat rutin ataupun secaa berkala mengenai seluruh
+aktivitasnya dalam suatu periode tertentu. Dari laporan ini dipelajari dan
+dianalisis, sehingga dapat diketahui kondisi kesehatannya akan memudahkan bank
+itu sendiri untuk memperbaiki kesehatannya.
+
+Penilaian kesehatan perbankan dilakukan setiap periode. Dalam setiap
+penilaian ditentukan kondisi suatu bank. Bagi bank yang sudah dinilai
+sebelumnya dapat pula dinilai apakah ada peningkatan atau penurunan
+kesehatannya. Bagi bank yang menurut penilaian sehat atau kesehatannya terus
+meningkat tidak jadi masalah, karena itulah yang diharapkan dan supaya tetap
+dipertahankan terus, akan tetapi bagi bank yang terus-menerus tidak sehat, maka
+harus mendapatkan pengarahan atau bahkan sangsi sesuai dengan peraturan yang
+berlaku.
+
+Berdasarkan Undang-undang No. 10 tahun 1998 tentang perubahan atas UU
+No. 7 tahun 1992 tentang perbankan, pembinaan dan pengawasan bank dilakukan
+oleh Bank Indonesia. UU tersebut lebih lanjut menetapkan bahwa :
+
+4
+
+a)
+
+Bank wajib memelihara tingkat kesehatan bank sesuai ndengan ketentuan
+kecukupan modal, kualitas asset, kualitas manajemen, likuiditas,
+solvabilitas & aspek lain yang berhubungan dengan usaha bank dan wajib
+melakukan kegiatan usaha sesuai dengan prinsip kehati-hatian.
+
+b)
+
+Dalam memberikan kredit atau pembiayaan berdasarkan prinsip syari’ah
+dan melakukan kegiatan usaha lainnya, bank wajib menempuh cara-cara
+yang
+
+tidak
+
+merugikan
+
+bank
+
+dan
+
+kepentingan
+
+nasabah
+
+yang
+
+mempercayakan dananya kepada bank
+c)
+
+Bank wajib menyampaikan kepada BI segala keterangan dan penjelasan
+mengenai usahanya menurut tata cara yang ditetapkan oleh BI
+
+d)
+
+Bank
+
+atas
+
+permintaan
+
+BI,
+
+wajib
+
+memberikan
+
+kesempatan
+
+bagi
+
+pemeriksaanbuku-buku dan berkas-berkas yang ada padanya serta wajib
+memberikan bantuan yang diperlukan dalam rangka memperoleh
+kebenaran dari segala keterangan, dokumen dan penjelasan yang
+dilaporkan oleh bank yang bersangkutan
+e)
+
+Bank Indonesia melakukan pemeriksaaan terhadap bank, baik secara
+berkala maupun setiap waktu apabila diperlukan, BI dapat menugaskan
+akuntan publikuntuk dan atas nama bank Indonesia melaksanakan
+pemeriksaan terhadap bank.
+5
+
+f)
+
+Bank wajib menyampaikan kkca, perhitungan laba rugi tahunan dan
+penjelasannya, serta laporan berkala lainnya dalam waktu dan bentuk yang
+ditetapkan oleh BI. Neraca dan perhitungan laba rugi dalam waktu dan
+bentuk yang ditetapkan BI
+
+Mengingat pesatnya perkembangan sektor perbankan dan perubahan
+kompleksitas usaha serta profil risiko bank, dan juga adanya perubahan
+metodologi dalam penilaian kondisi bank yang diterapkan secara internasional
+Pengalaman dari krisis keuangan global telah mendorong perlunya peningkatan
+efektivitas penerapan manajemen risiko dan good corporate governance.
+Tujuannya adalah agar bank mampu mengidentifikasi permasalahan secara lebih
+dini, melakukan tindak lanjut perbaikan yang sesuai dan lebih cepat, serta
+menerapkan good corporate governance dan manajemen risiko yang lebih baik
+sehingga bank lebih tahan dalam menghadapi krisis. Sejalan dengan
+perkembangan tersebut di atas, Bank Indonesia menyempurnakan metode
+penilaian tingkat kesehatan bank umum.
+
+6
+
+Sesuai dengan perkembangan usaha bank yang senantiasa bersifat dinamis
+dan berpengaruh pada tingkat risiko yang dihadapi, maka metodologi penilaian
+tingkat kesehatan bank perlu disempurnakan agar dapat lebih mencerminkan
+kondisi bank saat ini dan di waktu yang akan datang. Penyesuaian tersebut perlu
+dilakukan agar penilaian tingkat kesehatan bank dapat lebih efektif digunakan
+sebagai
+
+alat
+
+untuk
+
+mengevaluasi
+
+kinerja
+
+bank.
+
+Pedoman
+
+perhitungan
+
+selengkapnya diatur dalam Surat Edaran (SE) Bank Indonesia No.13/24/DPNP
+tanggal 25 Oktober 2011 tentang Penilaian Tingkat Kesehatan Bank Umum
+tersebut merupakan petunjuk pelaksanaan dari Peraturan Bank Indonesia
+No.13/1/PBI/2011, yang mewajibkan Bank Umum untuk melakukan penilaian
+sendiri (self assessment) Tingkat Kesehatan Bank dengan menggunakan
+pendekatan Risiko (Risk-based Bank Rating/RBBR) baik secara individual
+maupun secara konsolidasi.
+
+Prinsip Umum Penilaian
+
+Mengacu ke SE tersebut, prinsip-prinsip umum penilaian tingkat kesehatan bank
+umum yang menjadi landasan dalam menilai Tingkat Kesehatan Bank adalah
+sebagai berikut:
+
+7
+
+1. Berorientasi Risiko
+
+Penilaian tingkat kesehatan didasarkan pada Risiko-Risiko Bank
+dan
+
+dampak yang ditimbulkan pada kinerja Bank secara keseluruhan.
+
+Hal ini dilakukan dengan cara mengidentifikasi faktor internal maupun ekste
+rnal yang dapat meningkatkan Risiko atau mempengaruhi kinerja keuangan
+Bank pada saat ini dan di masa yang akan datang. Dengan demikian, Bank
+diharapkan
+lebih
+
+mampu
+
+dini
+
+akar
+
+mendeteksi
+
+permasalahan
+
+Bank
+
+serta
+
+secara
+
+mengambil
+
+langkah-
+
+langkah pencegahan dan perbaikan secara efektif dan efisien.
+
+2. Proporsionalitas
+
+Penggunaan
+
+parameter/indikator
+
+dalam
+
+tiap
+
+faktor
+
+penilaian
+
+Tingkat Kesehatan Bank dilakukan dengan memperhatikan karakteristik dan
+kompleksitas
+Kesehatan
+minimum
+
+usaha
+Bank
+
+yang
+
+Bank.
+dalam
+
+wajib
+
+Bank. Namun demikian,
+
+Parameter/indikator
+Surat
+
+digunakan
+Bank
+
+Edaran
+dalam
+
+penilaian
+
+Tingkat
+
+ini
+
+merupakan
+
+standar
+
+menilai
+
+Tingkat
+
+dapat
+
+Kesehatan
+
+menggunakan
+
+parameter/indikator tambahan yang sesuai dengan karakteristik dan
+8
+
+kompleksitas usahanya dalam menilai Tingkat Kesehatan Bank sehingga
+dapat mencerminkan kondisi Bank dengan lebih baik.
+
+3. Materialitas dan Signifikansi
+
+Bank
+
+perlu
+
+memperhatikan
+
+materialitas
+
+atau
+
+signifikansi
+
+factor
+
+penilaian Tingkat Kesehatan Bank yaitu Profil Risiko, GCG, Rentabilitas, da
+n Permodalan serta signifikansi parameter/indikator penilaian pada masingmasing faktor dalam menyimpulkan hasil penilaian dan menetapkan peringka
+t faktor. Penentuan materialitas dan signifikansi tersebut didasarkan pada an
+alisis yang didukung oleh data dan informasi yang memadai mengenai Risiko
+dan kinerja keuangan Bank.
+
+4. Komprehensif dan Terstruktur
+
+Proses
+
+penilaian
+
+difokuskan
+
+dilakukan
+
+pada
+
+secara
+
+permasalahan
+
+menyeluruh
+utama
+
+Bank.
+
+dan
+
+sistematis
+
+Analisis
+
+serta
+
+dilakukan
+
+secara terintegrasi, yaitu dengan mempertimbangkan keterkaitan antar Risiko
+dan
+
+antar
+
+faktor
+
+penilaian
+
+Tingkat
+
+Kesehatan
+
+Bank
+
+serta
+
+perusahaan anak yang wajib dikonsolidasikan. Analisis harus didukung oleh
+9
+
+fakta-fakta pokok dan rasio-rasio yang relevan untuk menunjukkan tingkat, trend,
+dan tingkat permasalahan yang dihadapi oleh Bank.
+
+Menurut Peraturan Bank Indonesia No.13/1/2011 tentang Penilaian
+Tingkat Kesehatan Bank Umum, maka bank diwajibkan untuk melakukan
+penilaian sendiri (self assessment) Tingkat Kesehatan Bank dengan menggunakan
+pendekatan risiko (risk-based bank rating/RBBR) baik secara individual maupun
+konsolidasi.
+Berdasarkan uraian yang telah dijabarkan di atas maka penelitian ini akan
+mengulas tentang bagaimanakah tingkat kesehatan bank ditinjau dari analisis
+financial (Risk profile,good corporate governance, earnings dan capital) dan
+perbedaan antara metode analisis RGEC dengan CAMELS.
+KAJIAN PUSTAKA
+Menurut Peraturan Bank Indonesia NOMOR: 10/ 1/PBI/2004 Pasal 1 ayat
+4, pengertian tingkat kesehatan bank hasil penilaian kualitatif atas berbagai aspek
+yang berpengaruh terhadap kondisi atau kinerja suatu Bank melalui Penilaian
+Kuantitatif dan atau Penilaian Kualitatif terhadap faktor-faktor permodalan,
+kualitas aset, manajemen, rentabilitas, likuiditas, dan sensitivitas terhadap
+10
+
+risiko pasar. Adapun penilaian terhadap faktor-fakotr tersebut yang disebutkan
+didalam Peraturan Bank Indonesia NOMOR: 10/1/PBI/2004 Pasal 4 yang
+diantaranya:
+a. Penilaian terhadap faktor permodalan sebagaimana dimaksud dalam Pasal 3
+huruf a meliputi penilaian terhadap komponen-komponen sebagai berikut:
+-kecukupan, komposisi, dan proyeksi (trend ke depan) permodalan serta
+kemampuan permodalan bank dalam mengcover aset bermasalah.
+-kemampuan bank memelihara kebutuhan penambahan modal yang berasal
+dari keuntungan, rencana permodalan bank untuk mendukung pertumbuhan
+usaha, akses kepada sumber permodalan, dan kinerja keuangan pemegang
+saham untuk meningkatkan permodalan bank.
+b. Penilaian terhadap faktor kualitas aset sebagaimana dimaksud dalam Pasal 3
+huruf b meliputi penilaian terhadap komponen-komponen sebagai berikut:
+-kualitas aktiva produktif, konsentrasi eksposur risiko kredit, perkembangan
+aktiva produktif bermasalah, dan kecukupan penyisihan penghapusan aktiva
+produktif (PPAP).
+-kecukupan kebijakan dan prosedur, sistem kaji ulang (review) internal,
+sistem dokumentasi, dan kinerja penanganan aktiva produktif bermasalah.
+11
+
+c. Penilaian terhadap faktor manajemen sebagaimana dimaksud dalam Pasal 3
+huruf c meliputi penilaian terhadap komponen-komponen sebagai berikut:
+-kualitas manajemen umum dan penerapan manajemen risiko;
+-kepatuhan bank terhadap ketentuan yang berlaku dan komitmen kepada
+Bank Indonesia dan atau pihak lainnya.
+d. Penilaian terhadap faktor rentabilitas sebagaimana dimaksud dalam Pasal 3
+huruf d meliputi penilaian terhadap komponen-komponen sebagai berikut:
+-pencapaian return on assets (ROA), return on equity (ROE), net interest
+margin (NIM), dan tingkat efisiensi Bank;
+-perkembangan laba operasional, diversifikasi pendapatan, penerapan
+prinsip akuntansi dalam pengakuan pendapatan dan biaya, dan prospek
+laba operasional.
+e. Penilaian terhadap faktor likuiditas sebagaimana dimaksud dalam Pasal 3 huruf
+e meliputi penilaian terhadap komponen-komponen sebagai berikut:
+-rasio aktiva/pasiva likuid, potensi maturity mismatch, kondisi Loan to
+Deposit Ratio (LDR), proyeksi cash flow, dan konsentrasi pendanaan;
+-kecukupan kebijakan dan pengelolaan likuiditas (assets and liabilities
+management/ALMA), akses kepada sumber pendanaan, dan stabilitas
+pendanaan.
+12
+
+f. Penilaian terhadap faktor sensitivitas terhadap risiko pasar sebagaimana
+dimaksud dalam Pasal 3 huruf f meliputi penilaian terhadap komponen-komponen
+sebagai berikut:
+-kemampuan modal Bank dalam mengcover potensi kerugian sebagai akibat
+fluktuasi (adverse movement) suku bunga dan nilai tukar;
+-kecukupan penerapan manajemen risiko pasar.
+
+Sesuai PBI No. 13/1/PBI/2011 Tentang Penilaian Tingkat Kesehatan Bank
+Umum, Bank Bank Indonesia telah menetapkan sistem penilaian Tingkat
+Kesehatan Bank berbasis risiko menggantikan penilaian CAMELS yang dulunya
+diatur dalam PBI No.6/10/PBI/2004. Pedoman perhitungan selengkapnya diatur
+dalam Surat Edaran (SE) Bank Indonesia No.13/24/DPNP tanggal 25 Oktober
+2011 tentang Penilaian Tingkat Kesehatan Bank Umum. Penilaian tersebut
+merupakan
+
+petunjuk
+
+pelaksanaan
+
+dari
+
+peraturan
+
+Bank
+
+Indonesia
+
+No.13/1/PBI/2011, yang mewajibkan bank umum untuk melakukan penilaian
+sendiri (self assessment) tingkat kesehatan bank dengan menggunakan pendekatan
+risiko (Risk-based Bank Rating/RBBR) baik secara individual maupun secara
+konsolidasi.
+13
+
+Jika CAMELS adalah penilaian terhadap Capital, Asset Quality,
+Management, Earning, Liquidity & Sensitivity to Market Risk, dalam penilaian
+Risk Based Bank Rating (RBBR) menurut Peraturan Bank Indonesia NOMOR:
+13/1/PBI/2011 Pasal 7 faktor-faktor penilaiannya adalah :
+a.
+
+Profil risiko (risk profile): Penilaian terhadap faktor profil risiko
+merupakan penilaian terhadap risiko inheren dan kualitas penerapan
+manajemen risiko dalam operasional Bank yang dilakukan terhadap 8
+(delapan) risiko yaitu: risiko kredit, risiko pasar, risiko likuiditas, risiko
+operasional, risiko hukum, risiko stratejik, risiko kepatuhan dan risiko
+reputasi.
+
+b.
+
+Good Corporate Governance (GCG): Dalam Peraturan Bank Indonesia
+NOMOR: 13/1/PBI/2011 Pasal 7 ayat 2 penilaian terhadap faktor GCG
+sebagaimana dimaksud dalam pasal 6 huruf b meruapakan penilaian
+terhadap manajemen bank atas prinsip-prinsip GCG.Adapun prinsi-prinsip
+GCG tersebut diantaranya: keterbukaan, akuntabilitas, tanggung jawab,
+independensi serta kewajaran.
+
+c.
+
+Earnings: Dalam Peraturan Bank Indonesia NOMOR: 13/1/PBI/2011 Pasal
+7 ayat 2 sebagaimana dimaksud dalam pasal 6 huruf c meliputi penilaian
+terhadap kinerja earnings, dan sustainbility earnings bank.
+14
+
+d.
+
+Capital: Dalam Peraturan Bank Indonesia NOMOR: 13/1/PBI/2011 Pasal
+7 ayat 2 sebagimana dmaksud dalam pasal 6 huruf d meliputi penilaian
+terhadap tingkat kecukupan permodalan dan pengelolaan permodalan.
+
+Metodologi Penelitian
+Penelitian ini menggunakan pendekatan deskriptif kualitatif, dimana
+peneliti mengembangkan konsep, menghimpun fakta, melakukan observasi dan
+pemahaman tetapi tidak melakukan hipotesis. Penelitian yang bersifat deskriptif
+adalah penelitian yang dilakukan untuk mengetahui tentang variabel mandiri, baik
+satu variabel atau lebih, tanpa membuat perbandingan dan menghubungkan antara
+satu dengan lainnya (Anshori dan Iswati, 2006:12).
+Pendapat lain mengenai pengertian penelitian kualitatif yaitu penelitian
+yang bermaksud untuk memahami fenomena tentang apa yang dialami subjek
+penelitian secara holistik dan dengan cara dekskripsi dalam bentuk kata-kata dan
+bahasa, pada suatu kompleks khusus yang alamiah dan dengan memanfaatkan
+berbagai metode alamiah (Moleong, 2006:6). Pendekatan deskriptif kualitatif
+digunakan dengan tujuan agar penelitian ini dapat dilakukan secara mendalam
+sehingga mampu memberi jawaban atas rumusan masalah yang telah diungkapkan
+
+15
+
+PEMBAHASAN
+Tingkat kesehatan bank berdasarkan metode CAMELS sebenarnya telah
+memberikan gambaran tingkat kesehatan bank yang efektif. Berdasarkan
+Peraturan Bank Indonesia Nomor: 06/ 10/PBI/2004 pasal 1 ayat 4, Tingkat
+kesehatan bank adalah hasil penilaian kualitatif atas berbagai aspek yang
+berpengaruh terhadap kondisi atau kinerja bank melalui penilaian kuantitatif dan
+kualitatif
+
+terhadap
+
+faktor-faktor
+
+permodalan,
+
+kualitas
+
+aset,
+
+manajemen,
+
+rentabilitas, likuiditas, dan sensitivitas terhadap risiko pasar.
+Untuk lebih memahami apa itu CAMELS dan bagaimana fokus
+penyempurnaannya maka berikut akan disajikan diagram penilaian tingkat
+kesehatan bank berdasarkan metode CAMELS:
+
+Diagram 1: Penilaian tingkat kesehatan bank berdasarkan metode CAMELS
+Sumber: bankir news.com
+16
+
+Dari peraturan dan diagram tersebut terlihat bahwa di dalam metode
+CAMELS antar faktor masih berdiri sendiri-sendiri bukan merupakan satu
+kesatuan metode. Antar faktor mempunyai penilaian kuantitatif dan kualitatif
+sendiri-sendiri dan masing-masing juga memberikan hasil yang sendiri-sendiri
+pula. Hal ini tentu akan membuat stakeholders merasa bingung apabila membaca
+hasil dari metode ini. Hal ini bisa terjadi sebagai contoh apabila hasil permodalan
+menyatakan berada pada Peringkat Komposit 1, yang dimana Peringkat Komposit
+1 mencerminkan bahwa bank tergolong sangat baik dan mampu mengatasi
+pengaruh negatif kondisi perekonomian dan industri keuangan, namun peringkat
+ini akan menjadi bias apabila tingkat likuiditas berada pada Peringkat Komposit 5,
+sesuai yang tercantum di dalam peraturan Peringkat Komposit 5 mencerminkan
+bahwa bank tergolong tidak baik dan sangat sensitif terhadap pengaruh negatif
+kondisi perekonomian dan indutri keuangan serta mengalami kesulitan yang
+membahayakan kelangsungan usahanya. Jadi, antar faktor dalam metode
+CAMELS belum memperlihatkan adanya kesatuan kesimpulan apakah bank
+dalam kondisi sehat ataukah berada dalam kondisi tidak sehat.Hal-hal tersebut,
+menjadi alasan mengapa perlu penyesuaian metode penilaian tingkat kesehatan
+CAMELS ke RGEC. Berikut akan disajikan diagram mengenai tingkat kesehatan
+bank dengan metode RGEC:
+17
+
+Diagram 2: Penilaian tingkat kesehatan bank berdasarkan metode RGEC
+Sumber: bankir news.com
+Berdasarkan Peraturan Bank Indonesia NOMOR: 13/1/PBI/2011 Pasal 2
+ayat 1, bank wajib memelihara dan atau meningkatkan tingkat kesehatan bank
+dengan menerapkan prinsip kehati-hatian dan manajemen risiko dalam
+melaksanakan kegiatan usaha. Peraturan inilah yang mendasarkan bahwa di dalam
+metode RGEC bahwa kualitas manajemen merupakan pilar penting.
+Peran
+
+kualitas
+
+manajemen
+
+adalah
+
+perencanaan,
+
+pengorganisasian,
+
+pelaksanaan, dan pengawasan. Kualitas manajemen yang baik tentunya dapat di
+ukur dengan baik atau tidaknya penerapan Good Corporate Governance dan
+manajemen risiko di bank tersebut.
+18
+
+Dengan kata lain, penilaian faktor pendapatan dan faktor permodalan hanya
+merupakan dampak dari strategi yang dilakukan oleh manajemen. Sebagai contoh,
+apabila persentase risiko kredit dan risiko likuiditas memberikan peringkat yang
+baik maka sebagai investor ataupun kreditur tidak akan berpikir ulang untuk
+melakukan bisnis di bank tersebut.
+Jika kita cermati sebenarnya bisnis di bank sama halnya dengan bisnis
+lainnya. Namun karena bank menggunakan dana yang bersumber dari masyarakat
+maka tingkat risikonya lebih tinggi bila dibandingkan dengan bisnis lainnya. Akan
+tetapi, mempunyai tingkat risiko yang tinggi bukan utnuk dihindari tetapi harus
+lebih dikelola dengan lebih baik lagi.
+Sedangkan dengan program Good Corporate Governance yang baik maka
+akan memberikan situasi dan gambaran yang benar-benar riil kepada
+stakeholders. Hal ini tentu akan memberikan pengaruh yang positif kepada
+stakeholders apabila ingin berinvestasi di bank tersebut. Pelaksanaan
+
+Good
+
+Corporate Governance harus berlandaskan lima prinsip dasar yaitu transparansi,
+akuntabilitas, tanggung jawab, independensi, dan kewajaran.
+
+19
+
+KESIMPULAN DAN SARAN
+Metode CAMELS dan RGEC adalah dua di antara beberapa Peraturan
+Bank Indonesia yang digunakan untuk menganalisis tingkat kesehatan bank.
+Metode CAMELS menilai tingkat kesehatan bank dari faktor permodalan,
+kualitas asset, manajemen, pendapatan, likuiditas, dan sensitivitas pasar.
+Metode RGEC menilai tingkat kesehatan bank dari faktor risiko profile, Good
+Corporate Governance, pendapatan, dan permodalan.
+Metode CAMELS sebenarnya telah memberikan gambaran tingkat
+kesehatan bank yang efektif akan tetapi metode CAMELS tidak memberikan
+suatu kesimpulan yang mengarahkan ke satu penilaian. Antar faktor memberikan
+penilaian yang sifatnya bisa berbeda. Sedangkan metode RGEC lebih
+menekankan akan pentingya kualitas manajemen. Manajemen yang berkualitas
+tentunya akan mengangkat faktor pendapatan dan juga faktor permodalan secara
+langsung maupun tidak langsung.
+
+20
+
+DAFTAR PUSTAKA
+Anshori,Muslich dan Iswati,2006. “Metodologi penelitian kuantitatif”. Fakultas
+Ekonomi Universitas Airlangga,Surabaya.
+Lexy J. Moleong, 2006.” Metodologi Penelitian Kualitatif” . PT. Remaja
+Rosdakarya Offset,Bandung.
+Peraturan Bank Indonesia NOMOR: 10/ 1/PBI/2004 Pasal 1 ayat 4 Tentang
+Ketentuan Umum Sistem Penilaian Tingkat Kesehatan Bank Umum.
+Peraturan Bank Indonesia NOMOR: 10/1/PBI/2004 Pasal 4 Tentang Ketentuan
+Umum Sistem Penilaian Tingkat Kesehatan Bank Umum
+Peraturan Bank Indonesia NOMOR.13/1/2011 Tentang Penilaian Tingkat
+Kesehatan Bank Umum.
+Peraturan Bank Indonesia NOMOR: 13/1/PBI/2011 Pasal 7 Tentang Mekanisme
+Penilaian Tingkat Kesehatan Bank Secara Individual.
+Peraturan Bank Indonesia NOMOR: 13/1/PBI/2011 Pasal 2 ayat 1. Tentang
+Ketentuan Umum Penilaian Tingkat Kesehatan Bank Umum.
+Undang-Undang No.10 Tahun 1998 pasal 29 tentang Perubahan Atas UndangUndang No. 7 Tahun 1992 tentang perbankan.
+
+21
+
+

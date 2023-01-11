@@ -1,0 +1,673 @@
+Akreditasi Ristekdikti, No:
+30/E/KPT/2019 (Sinta 4)
+DOI: https://doi.org/10.31294/p.v21i2
+
+Paradigma – Jurnal Informatika dan Komputer,
+Vol. 22 No 1, Maret 2020
+P-ISSN 1410-5063, E-ISSN: 2579-3500
+
+Pengembangan Media Pembelajaran Berbasis Game Edukasi Pada MatPel
+IPA Tematik Kebersihan Lingkungan
+Reni Widyastuti 1, Listia Sari Puspita 2
+1
+
+Universitas Bina Sarana Informatika
+e-mail: reni.rws@bsi.ac.id
+
+2
+
+Lembaga Ilmu Pengetahuan Indonesia
+e-mail: listia.sari.puspita@lipi.go.id
+
+Abstract - Game is one of the interactive multimedia products which is developing rapidly in the world,
+including Indonesia. Educational games can be used as an alternative interactive learning media that has the
+goal of supporting the learning process with the concept of "playing while learning". The educational game aims
+to stimulate students to understand the material provided by the teacher and help teachers provide alternative
+teaching methods that are fun for students. Environmental cleanliness is a learning theme for grade 1
+elementary school presented on Natural Sciences (IPA) subjects. First grade elementary school students are
+early students who want fun learning so the purpose of this research is to create an educational mobile game
+application that can be used for learning media for elementary school class I science that can motivate students
+to learn, understand and apply environmental cleanliness starting from home, school and can distinguish waste
+that can be recycled or not. In the construction of this game using the version 2 construct application with
+system development with the waterfall system development method.
+Keywords: Kebersihan Lingkungan, Multimedia interaktif, Construct 2.0, Waterfall
+
+PENDAHULUAN
+Game edukasi merupakan permainan yang dibuat
+untuk
+merangsang
+daya
+pikir
+termasuk
+meningkatkan konsentrasi dan memecahkan
+masalah. Teknik pembelajaran interaktif yang efektif
+bagi anak usia dini adalah dengan menggunakan
+Game edukasi, hal ini dikarenakan sebagian besar
+anak di usia dini memiliki rasa ingin tahu yang
+tinggi terhadap semua yang berada di lingkungan
+sekitarnya (R. A. Rahman & Tresnawati, 2016) .
+Game dibuat memiliki tujuan khusus education
+(mendidik). Game edukasi ini akan mengutamakan
+untuk mendukung proses pembelajaran dengan
+konsep bermain sambil belajar. Untuk sebagian
+anak, kata belajar akan terasa sangat menakutkan,
+sehingga diharapkan dengan adanya game
+pendidikan yang menarik ini, anak tidak akan
+menyadari jika yang dilakukannya itu adalah
+termasuk belajar dan anak akan menjadi senang dan
+mau belajar (Siswanto & Putra, 2013).
+Segala sesuatu yang menyangkut pendidikan, baik
+sistem, strategi, serta proses di dalamnya tidak lain
+kecuali diarahkan hanya untuk mencapai pendidikan
+yang bermutu dan berkualitas. (Sintya Maharani,
+2015)
+Mata pelajaran Ilmu Pengetahuan Alam (IPA) untuk
+kelas 1 SD dengan tematik kebersihan lingkungan
+akan lebih menarik minat anak usia dini dengan
+menerapkan konsep bermain sambil belajar . Game
+Edukasi ini berguna agar siswa dapat memahami
+pentingnya kebersihan lingkungan dan dapat
+
+membantu guru dalam memilih alternatif metode
+pembelajaran sehingga mendapatkan perhatian siswa
+memahami penjelasan dari guru.
+METODOLOGI PENELITIAN
+1. Metode pengumpulan data
+Metode pengumpulan data yang penulis gunakan
+dalam pembuatan skripsi ini adalah sebagai berikut:
+A. Observasi
+Penulis
+melakukan
+pencatatan,
+pengumpulan data
+serta
+melakukan
+pengamatan
+dengan langsung SDN 06
+Rawabadak Selatan , Jakarta Utara untuk
+mengamati proses belajar mengajar.
+B. Wawancara
+Metode
+ini
+dilakukan
+dengan
+tanya
+jawab dengan guru dan kepala sekolah SDN 06
+Rawabadak Selatan, Jakarta Utara
+C. Studi Pustaka
+Dengan metode ini dapat membantu
+penulisan dalam hal pembuatan skripsi
+yang ditunjang dengan beberapa literatur
+yang berhubungan dengan
+mempelajari
+buku–buku, jurnal, dan bahan pustaka
+lainnya
+2.
+a.
+
+Kajian Literatur
+Media Pembelajaran
+Media pembelajaran adalah media yang
+dirancang secara khusus untuk merangsang pikiran,
+perasaan, perhatian, dan kemauan peserta didik
+
+http://ejournal.bsi.ac.id/ejurnal/index.php/paradigma/issue/archive/
+
+95
+
+Paradigma – Jurnal Informatika dan Komputer,
+Vol. 22 No 1, Maret 2020
+P-ISSN 1410-5063, E-ISSN: 2579-3500
+sehingga terjadinya proses pembelajaran. Media
+pembelajaran memuat informasi yang dapat berupa
+pengetahuan maupun menjadi sarana bagi siswa
+untuk melakukan aktivitas belajar (membaca,
+mengamati, mencoba, mengerjakan soal, menjawab
+pertanyaan, dan lain-lain). Media pembelajaran
+bukan sekedar benda fisik, namun segala sesuatu
+yang sudah berisi materi pembelajaran, sehingga
+memungkinkan seseorang memanfaatkannya untuk
+belajar
+guna
+memperoleh
+pengetahuan,
+keterampilan, atau perubahan sikap (S. Rahman et
+al., 2016).
+Sehingga peranan media adalah Peranan media
+pembelajaran dalam proses belajar dan mengajar
+sangat penting dilaksanakan oleh para pendidik saat
+ini, karena peranan media pembelajaran dapat
+digunakan untuk menyalurkan pesan pengirim
+kepada penerima dan melalui media pembelajaran
+juga dapat membantu peserta didik untuk
+menjelaskan sesuatu yang disampaikan oleh
+pendidik. Dengan penggunaan alat-alat ini guru dan
+siswa dapat berkomunikasi lebih mantap dan hidup
+serta interaksinya bersifat banyak arah. Media
+mengandung pesan sebagai perangsang belajar dan
+dapat menumbuhkan motivasi belajar sehingga
+siswa tidak menjadi bosan dalam meraih tujuantujuan belajar (Tafonao, 2018)
+Berikut ini merupakan fungsi media pembelajaran
+(Adam, 2015) yaitu :
+1. Fungsi Media Pembelajaran Sebagai Sumber
+Belajar Secara teknis, media pembelajaran
+sebagai sumber belajar. Dalam kalimat sumber
+belajar ini tersirat makna keaktifan yaitu sebagai
+penyalur, penyampai, penghubung dan lain-lain.
+Fungsi media pembelajaran sebagai sumber
+belajar adalah fungsi utamanya disamping
+adanya fungsi-fungsi lainnya.
+2. Fungsi Semantik Fungsi semantik adalah
+kemampuan
+media
+dalam
+menambah
+pembendaharaan kata yang makna atau
+maksudnya benar-benar dipahami oleh anak
+didik. Bahasa meliputi lambang (simbol) dari isi
+yakni pikiran atau perasaan yang keduanya telah
+menjadi totalitas pesan yang tidak dapat
+dipisahkan.
+3. Fungsi Manipulatif Fungsi manipulatif ini
+didasarkan pada ciri-ciri umum yaitu
+kemampuan
+merekan,
+menyimpan,
+melestarikan,
+merekonstruksikan
+dan
+metransportasi suatu peristiwa atau objek.
+Berdasarkan karakteristik umum ini, media
+memiliki dua kemampuan, yakni mengatasi
+batas-batas ruang dan waktu, mengatasi
+keterbatasan inderawi.
+4. Fungsi Psikologis, yang terdiri dari:
+ Fungsi Atensi
+ Fungsi Afektif
+ Fungsi Kognitif
+ Fungsi Imajinatif
+ Fungsi Motivasi
+96
+
+
+
+Fungsi Sosio-Kultural
+
+b.
+
+Pendekatan Air Terjun (Waterfall
+Approach)
+Pendekatan sistem dengan Metode SDLC yang
+disebut pendekatan air terjun (waterfall approach)
+dalam tahapan pengembangan sistem. Model ini
+menggunakan pendekatan secara sistematis dan urut
+mulai dari level kebutuhan sistem lalu ketahap
+analisis, design, coding, testing, dan support atau
+maintenance. Tahapan waterfall (air terjun) tersusun
+bertingkat, setiap tahap dalam model ini dilakukan
+berurutan, seperti gambar dibawah berikut :
+
+Sumber : (Lakshay & toolsqa.com, 2016)
+Gambar 1. Model Waterfall
+Waterfall atau dikenal dengan model air terjun ini
+menyediakan pendekatan alur hidup perangkat
+lunak secara sekuensial atau terurut. Adapun
+tahapannya adalah:
+1. Requirement Analysis Pada tahapan ini
+penulis melakukan pengumpulan kebutuhan
+secara intensif untuk menspesifikasikan
+kebutuhan perangkat lunak, seperti siapa
+yang akan memakai produk ini.
+2. System Design Untuk tahap system design
+ini penulis membuat storyboard untuk
+menjelaskan tampilan secara terperinci dari
+aplikasi multimedia interaktif ini. Pada
+tahap kedua ini, tidak hanya dari sisi
+software saja yang dianalisa, tetapi juga
+pada sisi hardware atau perangkat keras
+yang digunakan untuk aplikasi multimedia
+interaktif ini
+3. Implementation Pada tahap yang ketiga ini,
+penulis menganalisa unit aplikasi yang
+telah dibuat ini apakah sudah sesuai dengan
+rancangan atau belum. Bisa dikatakan pada
+tahapan ini adalah tahapan uji coba produk
+4. Testing Testing ini dilakukan setelah
+langkah keempat, dimana teknik untuk
+langkah ini menggunakan Black Box
+
+Pengembangan Media Pembelajaran Berbasis Game Edukasi....
+
+Paradigma – Jurnal Informatika dan Komputer,
+Vol. 22 No 1, Maret 2020
+P-ISSN 1410-5063, E-ISSN: 2579-3500
+
+c.
+
+Testing. 5. Deployment Pada tahapan ini,
+dilakukan penggunaan aplikasi pada
+lingkungan sesuai dengan penggunanya 6.
+Maintenance Maintenance merupakan
+tahpan terakhir dari produk yang dibuat,
+selain itu juga penulis mengharapkan
+kedepannya produk yang dibuat ini bisa
+diperbaiki menjadi lebih baik dari
+sebelumnya
+Construct 2.0
+Construct 2 adalah sebuah tool berbasis
+HTML5 untuk menciptakan sebuah permainan”.
+Tool – tool pada Construct 2 sangat user frendly
+dimana user dapat dengan mudah membuat
+game dengan menggunakannya tanpa harus
+memiliki pengalaman pemrograman. Construct
+2 dikembangkan oleh Scirra Ltd memiliki
+tujuan pembuatan game dengan mudah terutama
+untuk para non-programmer yang ingin
+menciptakan sebuah game secara drag and drop
+menggunakan editor visual dan berbasis sistem
+logika perilaku (Adiwijaya et al., 2015).
+
+(Sumber: Binanto, 2010)
+Gambar 4. Struktur Navigasi Hierarkis
+3. Nonlinear
+Pengguna akan melakukan navigasi dengan
+bebas melalui isi proyek dengan tidak
+terkait dengan jalur yang ditentukan
+sebelumnya
+
+(Sumber: Binanto, 2010)
+Gambar 5. Struktur Navigasi Nonlinear
+4. Komposit
+Pengguna akan melakukan navigasi dengan
+bebas (secara nonlinear), tetapi terkadang
+dibatasi presentasi linear film atau
+informasi penting atau pada data yang
+paling terorganisasi secara logis pada suatu
+hierarki
+.
+
+(Sumber: Binanto, 2010)
+Gambar 6. Struktur Navigasi Komposit
+
+d.
+
+Sumber : https://www.scirra.com/construct2
+Gambar 2. Construct2
+Struktur Navigasi
+Menurut Bimanto dalam (Yuni Eka Achyani,
+2018)”Desain interface website yang menarik
+dan interaktif harus diperhatikan sebelum
+merancang tampilan web adalah pembuatan
+struktur navigasi “
+Ada empat struktur dasar yang digunakan yaitu
+linear, hierarkis, nonlinear, dan komposit.
+1. Linear
+Pengguna akan melakukan navigasi secara
+berurutan dari frame atau byte informasi
+yang satu ke yang lainnya
+(Sumber: Binanto, 2010)
+Gambar 3. Struktur Navigasi Linear
+2. Hierarkis
+Struktur dasar ini disebut juga struktur
+“linear dengan percabangan” karena
+pengguna melakukan navigasi disepanjang
+cabang pohon struktur yang terbentuk oleh
+logika isi.
+
+HASIL DAN PEMBAHASAN
+1. Hasil
+Penulisan jurnal tentang media pembelajaran untuk
+siswa kelas 1 SD pada mata pelajaran IPA dengan
+tema Kebersihan Lingkungan. Media pembelajaran
+ini menggunakan program Construk versi 2 (dua) ,
+Adobe Photoshop dan Adobe Ilustrator. Pada
+beberapa halaman dan tombolnya diberikan suara,
+sehingga menambah efek menarik dari aplikasi ini.
+Aplikasi ini juga mudah digunakan (user friendly),
+tombol (button) penghubung yang halaman lainnya
+sehingga memudahkan pengguna.
+Struktur penghubung / navigasi yang digunakan
+adalah Hierarkis dengan gambar sebagai berikut :
+Beranda
+
+Info
+
+Permainan
+
+Mengenal
+Sampah
+
+Keluar
+
+Mengumpul
+Sampah
+
+Gambar 7. Struktur navigasi Permainan
+
+Reni Widyastuti, Listia Sari Puspita
+
+97
+
+Paradigma – Jurnal Informatika dan Komputer,
+Vol. 22 No 1, Maret 2020
+P-ISSN 1410-5063, E-ISSN: 2579-3500
+Serta tampilan user interface dari aplikasi ini antara
+lain :
+a. Tampilan Menu Opening
+Menu Opening
+ini berisi tentang judul
+program animasi yang sedang dimainkan
+
+Gambar 10. Jenis Sampah
+e.
+
+Tampilan Menu Mengumpulkan Sampah
+Menu mengumpulkan sampah terdiri dari
+tombol – tombol yaitu menu utama, suara , cara
+bermain , 4 area permainan yaitu jakarta utara,
+jakarta timur , jakarta barat & jakarta selatan.
+
+Gambar 7. Opening
+b. Tampilan Menu Utama
+Menu utama ini berisi 4 tombol yaitu tombol
+informasi tentang game, Play, suara & exit
+
+Gambar 11. Menu Mengumpulkan Sampah
+Gambar 8. Menu Utama
+
+f.
+
+c.
+
+Tampilan Menu Permainan
+Menu utama ini beisikan tombol mengenal
+sampah , mengumpulkan sampah , menu utama &
+suara
+
+Tampilan
+Menu
+Area
+Permainan
+Mengumpulkan Sampah
+Menu area permaian terdiri dari waktu
+permaian & tombol pause yang terdiri dari play,
+replay & Menu utama. Pada area permainan, user
+dapat clik & drag gambar sampah ke tong sampah
+yang disesuaikan kategori sampah organik atau
+sampah non organik dengan waktu 5 detik di setiap
+permainan.
+
+Gambar 9. Menu Play
+
+d.
+
+Tampilan menu mengenal jenis sampah
+Menu utama ini berisikan tombol menu utama ,
+lanjut & teks informasi tentang jenis sampah
+
+98
+
+Gambar 12. Menu Area Permainan
+
+Pengembangan Media Pembelajaran Berbasis Game Edukasi....
+
+Paradigma – Jurnal Informatika dan Komputer,
+Vol. 22 No 1, Maret 2020
+P-ISSN 1410-5063, E-ISSN: 2579-3500
+
+Gambar 13. Jendela Pause
+2. Pengujian
+Metode pengujian yang digunakan adalah black
+box testng yang bertujuan untuk menunjukkan
+fungsi operasi perangkat lunak yang digunakan,
+apakah data masukan dan keluaran telah sesuai
+yang diharapkan. Berikut ini rencana pengujian
+dari aplikasi game edukasi IPA tema kebersihan
+lingkungan pada tabel 1 :
+Tabel 1. Rencana Pengujian Aplikasi
+Kelas Uji
+Detail Pengujian
+Jenis Uji
+Play Button Menampilkan area Black box
+permainan
+Exit button Keluar
+dari Black box
+permainan
+Information Menampilkan
+Black box
+button
+informasi
+tentang
+game edukasi serta
+fungsi dari game ini
+sebagai
+media
+pembelajaran
+Tempat
+Pengujian gambar
+sampah
+sampah dengan klik
+dan drag untuk
+mendekati
+tempat
+sampah
+Berdasarkan rencana pengujian aplikasi yang telah
+disusun, maka dapat dilakukan beberapa tahap
+pengujian sebagai berikut:
+Tabel 2. Pengujian Kelas Play Button
+Hasil Uji
+Data
+Yang
+Pengujia Kesimpula
+Masuka diharapkan
+n
+n
+n
+Play
+Menampilk
+Memulai [√] Tampil
+Button
+an
+area permaina [ ] Tidak
+permainan
+n
+Tabel 3. Pengujian Kelas Exit Button
+Hasil Uji
+Data
+Yang
+Pengujia
+Kesimpula
+Masuka
+diharapka n
+n
+n
+n
+Exit
+Keluar
+Informasi [√] Tampil
+Button
+dari
+petunjuk
+[ ] Tidak
+aplikasi
+tombol
+game
+Reni Widyastuti, Listia Sari Puspita
+
+Tabel 4. Pengujian Kelas Information Button
+Hasil Uji
+Data
+Yang
+Penguji
+Kesimpul
+Masukan
+diharapkan an
+an
+Informati Menampilk Informa [√]
+on Button an
+si
+Tampil
+informasi
+petunju
+[ ] Tidak
+fungsi
+k
+game
+tombol
+sebagai
+media
+pembelajar
+an
+Tabel 5. Pengujian Kelas Tempat Sampah
+Hasil Uji
+Data
+Yang
+Pengujian
+Kesimpula
+Masuka diharapka
+n
+n
+n
+Cllik & Memilih
+gambar
+[√] Tampil
+Drag
+ikon
+sampah
+[ ] Tidak
+gambar
+akan
+sampah
+menghilan
+ke tempat g
+jika
+sampah
+mendekati
+sesuai
+tempat
+kriteria
+sampah
+sampah
+yang
+organik
+sesuai
+atau non kriteria
+organik
+sampah
+apakah
+organik
+atau non
+organik
+
+KESIMPULAN
+Media pembelajaran adalah alat bantu guru untuk
+menyampaikan materi agar lebih jelas sehingga siswa
+lebih memahami materi yang disampikan oleh guru.
+Game edukasi merupakan alternatif media
+pembelajaran sehingga pelajaran lebih menarik
+dengan siswa dapat berinteraksi secara langsung
+khususnya untuk mata pelajaran ilmu pengetahuan
+alam yang diberikan ke siswa sekolah dasar kelas 1
+dengan tema kebersihan sekolah. Tujuan game
+edukasi ini adalah siswa dapat memahami
+pentingnya kebersihan dan bisa membedakan jenis
+sampah organik atau non organik
+REFERENSI
+Adam, steffi dan M. T. . (2015). Pemanfaatan
+Media Pembelajaran Berbasis Teknologi
+Informasi Bagi Siswa Kelas X Sma Ananda
+Batam. CBIS Journal, 3 No 2(ISSN 23378794), 78–90.
+99
+
+Paradigma – Jurnal Informatika dan Komputer,
+Vol. 22 No 1, Maret 2020
+P-ISSN 1410-5063, E-ISSN: 2579-3500
+Adiwijaya, M., S, K. I., & Christyono, Y. (2015).
+Perancangan Game Edukasi Platform Belajar
+Matematika Berbasis Android Menggunakan
+Construct 2. Transient, 4(1), 128–133.
+Lakshay, S., & toolsqa.com. (2016). waterfallModel.
+Www.Toolsqa.Com.
+https://www.toolsqa.com/softwaretesting/waterfall-model/
+Rahman, R. A., & Tresnawati, D. (2016).
+Pengembangan Game Edukasi Pengenalan
+Nama Hewan dan Habitatnya Dalam 3 Bahasa
+Sebagai Media Pembelajaran Berbasis
+Multimedia. Jurnal Algoritma, 13(1), 184–
+190. https://doi.org/10.33364/algoritma/v.131.184
+Rahman, S., Munawar, W., & Berman, E. T. (2016).
+Pemanfaatan Media Pembelajaran Berbasis
+Website Pada Proses Pembelajaran Produktif
+Di Smk. Journal of Mechanical Engineering
+Education,
+1(1),
+137.
+https://doi.org/10.17509/jmee.v1i1.3746
+Sintya Maharani, Y. (2015). Efektivitas Multimedia
+Pembelajaran Interaktif Berbasis Kurikulum
+2013 The Effectiveness Of Interactive
+Learning Multimedia Based On Curriculum
+2013.
+Ijcets,
+3(1),
+31–40.
+http://journal.unnes.ac.id/sju/index.php/jktp
+Siswanto, Y., & Putra, B. E. (2013). Rancang
+Bangun Aplikasi Mobile Game Edukasi Ilmu
+Pengetahuan Alam Untuk Anak Kelas VI
+Sekolah Dasar. Rancang Bangun Aplikasi
+Mobile Game Edukasi Ilmu Pengetahuan
+Alam Untuk Anak Kelas VI Sekolah Dasar,
+5(4),
+6.
+http://ijns.org/journal/index.php/speed/article/
+view/1019
+Tafonao, T. (2018). Peranan Media Pembelajaran
+
+100
+
+Dalam
+Meningkatkan
+Minat
+Belajar
+Mahasiswa. Jurnal Komunikasi Pendidikan,
+2(2),
+103.
+https://doi.org/10.32585/jkp.v2i2.113
+Yuni Eka Achyani, E. A. (2018). Sistem Informasi
+Pe ndapatan Jasa Pada Koperasi PDAM Tirta
+Patriot Bekasi. Jurnal Teknik Komputer AMIK
+BSI
+(JTK),
+4(1),
+1–8.
+https://ejournal.bsi.ac.id/ejurnal/index.php/jtk/
+article/view/2377
+
+PROFIL PENULIS
+Reni Widyastuti, M.Kom, dilahirkan di
+Jakarta, 29 Oktober 1978. Pada tahun 2002
+lulus S-1 dengan program studi Sistem
+Informatika di STMIK Muhammadiyah dan
+pada tahun 2013 lulus .S-2 dengan program
+studi Ilmu Komputer di STMIK Nusa
+Mandiri. Saya mulai mengajar di STMIK
+Muhammadiyah dari tahun 2003 – 2005 dan
+di AMIK BSI sejak tahun 2007 sampai
+sekarang
+Listia Sari Puspita, S.E, dilahirkan di
+Jakarta, 26 Maret 1984. Pada tahun 2009
+lulus S-1 dengan program studi Ekonomi –
+Akutansi di Universitas Mercu Buana. Mulai
+Bekerja di Lembaga Ilmu Pengetahuan
+Indonesia dari tahun 2006 sampai saat ini.
+Saat ini sedang menempuh program
+Magister
+Perencanaan
+Ekonomi
+dan
+Kebijakan Publik di Universitas Indonesia.
+
+Pengembangan Media Pembelajaran Berbasis Game Edukasi....
+
+

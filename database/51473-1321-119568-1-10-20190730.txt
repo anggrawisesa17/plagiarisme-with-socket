@@ -1,0 +1,953 @@
+Media Ilmiah Teknologi Pangan
+(Scientific Journal of Food Technology)
+Vol. 5, No.2, 104 - 111, September 2018
+
+ISSN : 2407-3814 (print)
+ISSN : 2477-2739 (ejournal)
+
+APLIKASI PERBANDINGAN SARI BUAH DUWET (Syzygium cumini) DAN
+AIR DALAM PEMBUATAN JELY DRINK
+Application Comparative of Java Plum (Syzygium cumini) Juice and Water On Jelly Drink
+Ayu Fatma Wati, Putu Timur Ina dan I Made Sugitha
+Program Studi Ilmu dan Teknologi Pangan, Fakultas Teknologi Pertanian, Universitas Udayana,
+Bukit Jimbaran, Badung. Telp./Fax. 0361 701801
+
+Diterima 19 Juli 2018 / Disetujui 8 Agustus 2018
+
+ABSTRACT
+The objective of this research were to observe the effect of java plum juice to the characteristic and
+appropriate treatment on jelly drink.The completely randomized design (CRD) with comparative
+treatment java plum juice and water six levels such us 10%:90%, 15%:85%, 20%:80%, 25%:75%, 30%;
+70%, 35%:65% was use in the research. The data were analyzed through variance analysis and
+continued with Duncan`s Multiple Range Test (DMRT). The result showed that the ratio of java plum
+juice and water had a very significant effect to vitamin C, total anthocyanin, antioxidant activity (that
+IC50), color and texture (skor), color and taste (hedonic), and had a significant effect on flavor and
+texture (hedonic). Treatment of (35%:65%) the best characteristic of jelly drink, that give average value
+(vitamin C was 12,22 mg/100g, total anthocyanin was 4,87 mg/100g, antioxidant activity that
+determined by the value of IC50 was 96,24 mg/ml, color (purple) liked, taste (acid) rather liked, texture
+(mushy) plain, flavor plain, and overall acceptance rather liked) during storage at room temperature
+stability color of jelly drink decreased faster than that in refrigerator.
+Keywords : jelly drink, java plum juice, water, color stability.
+ABSTRAK
+Penelitian ini bertujuan untuk mengetahui pengaruh perbandingan sari buah duwet dan air terhadap
+karakteristik jelly drink dan menentukan perbandingan sari buah duwet dan air yang tepat untuk
+menghasilkan jelly drink dengan karakteristik terbaik. Rancangan yang digunakan pada penelitian ini
+adalah Rancangan Acak Lengkap (RAL) dengan perlakuan perbandingan sari buah duwet dan air yang
+terdiri dari 6 taraf yaitu, 10%:90%, 15%:85%, 20%:80%, 25%:75%, 30%:70%, 35%:65%. Analisis data
+yang digunakan adalah analisis ragam dan apabila perlakuan berpengaruh maka akan dilanjutkan dengan
+uji Duncan. Hasil penelitian menunjukkan bahwa perbandingan sari buah duwet dan air berpengaruh
+sangat nyata terhadap vitamin C, total antosianin, aktivitas antioksidan dinyatakan dengan nilai IC50,
+warna (uji skor dan hedonik), rasa (uji skor), tekstur (uji skor), dan berpengaruh nyata terhadap aroma
+(uji hedonik) serta tekstur (uji hedonik). Perlakuan terbaik terdapat pada perlakuan perbandingan 35%
+sari buah : 65% air yaitu dengan vitamin C 12,22 mg/100g, total antosianin 4,87 mg/100g, antivitas
+antioksidan dinyatakan dengan nilai IC50 96,24 mg/ml, warna ungu dan disukai , rasa asam dan agak
+disukai, tekstur lembek dan biasa, aroma biasa, penerimaan keseluruhan agak disukai serta selama
+penyimpanan terjadi penurunan stabilitas warna pada jelly drink. Jelly drink yang disimpan pada suhu
+ruang mengalami penurunan stabilitas warna lebih cepat dibandingkan dengan penyimpanan suhu
+refrigerator.
+Kata kunci : jelly drink, sari buah duwet, air, stabilitas warna.
+
+*Korespondensi Penulis:
+Email: timur_ina@yahoo.co.id
+
+104
+
+Fatmawati, dkk.
+
+Media Ilmiah Teknologi Pangan (Scientific Journal of Food Technology)
+
+PENDAHULUAN
+
+energi (Prananjaya dalam Agustin dan Putri
+2014 ). Jumlah air dan sari buah yang ada
+sangat menentukan kualitas dari jelly drink
+yang dihasilkan.
+Jelly drink yang beredar di pasaran
+mempunyai warna yang cukup beraneka
+ragam dan sumber pewarna jelly drink yang
+beredar adalah pewarna sintetis. Pewarna
+sintetis adalah zat warna atau tambahan
+pangan lain yang dibuat sacara sintetik atau
+cara kimia. Penggunaan pewarna sintetis
+pada makanan dan minuman di pasaran
+semakin meningkat akibat harganya yang
+murah dan kualitas warna yang dihasilkan
+lebih stabil. Penambahan pewarna sintetis
+dibatasi dalam penggunaannya karena dapat
+menghasilkan efek buruk bagi kesehatan
+apabila terkonsumsi berlebihan dalam tubuh.
+Pemakaian pewarna sintetis dapat diganti
+dengan pewarna alami yang lebih aman dan
+memiliki banyak manfaat salah satunya dapat
+diperoleh dari buah duwet. Penambahan sari
+buah duwet pada jelly drink dapat digunakan
+sebagai sumber antioksidan, warna ungu
+kehitaman pada buah dapat dimanfaatkan
+sebagai sumber pewarna alami serta
+penganekaragaman produk. Berdasarkan
+latar belakang tersebut, maka perlu dilakukan
+penelitian perbandingan sari buah duwet dan
+air terhadap karakteristik jelly drink.
+
+Buah
+duwet
+(Syzygium
+cumini)
+mengandung banyak kandungan antosianin
+ditandai dengan warna ungu kehitaman pada
+kulit buah. Kandungan antosianin pada buah
+duwet dengan tingkat kematangan maksimal
+yaitu 29,39 mg/g pada buah kering beku (
+Lestario, dkk., 2003 ). Antosianin pada buah
+duwet bermanfaat bagi kesehatan manusia
+karena dapat berfungsi sebagai antioksidan.
+Menurut Werdhasari (2014) antioksidan
+dapat melawan radikal bebas yang terdapat
+dalam tubuh, yang didapat dari hasil
+metabolisme tubuh, polusi udara, cemaran
+makanan, dan sinar matahari. Selain sebagai
+sumber antioksidan, kandungan antosianin
+pada buah duwet dapat dimanfaatkan sebagai
+sumber pewarna alami.
+Buah duwet juga memiliki kekurangan
+diantaranya rasa buah yang sepat dan asam
+sehingga cita rasa buah kurang disukai, kadar
+air yang cukup tinggi sehingga masa simpan
+relatif singkat dan mudah rusak, bersifat
+musiman apabila belum musimnya jarang
+ditemukan. Oleh sebab itu perlu dilakukan
+pengolahan untuk mengurangi kekurangan
+pada buah dan dapat dinikmati di luar musim
+berbuah. Menurut Lindy (2008) buah duwet
+dapat diolah menjadi jelly, yoghurt, dan
+minuman karbonasi.
+Jelly drink adalah produk minuman semi
+padat yang cukup praktis dan disukai semua
+kalangan dari anak-anak hingga orang
+dewasa. Mekanisme pembentukan gel
+dimana rantai-rantai polimer membentuk jala
+tiga dimensi yang bersambungan kemudian
+jala mengikat air didalamnya dan membentuk
+struktur gel yang kuat. Jelly drink terbuat dari
+air, sari buah-buahan dan pengental yang
+dimasak dalam gula dan tidak hanya sebagai
+minuman biasa tetapi dapat dikonsumsi
+sebagai minuman penunda lapar karena
+kandungan serat dan mengandung sukrosa
+(gula pasir) yang dengan mudah dapat
+dimetabolisme tubuh untuk menghasilkan
+
+BAHAN DAN METODE
+Tempat dan Waktu Penelitian
+Penelitian
+ini
+dilaksanakan
+di
+laboratorium Pengolahan Pangan dan
+laboratorium Analisis Pangan, Jurusan Ilmu
+dan Teknologi Pangan, Fakultas Teknologi
+Pertanian, Universitas Udayana, Denpasar.
+Penelitian ini dilaksanakan dari bulan Maret Mei 2017
+Bahan dan Alat
+Bahan-bahan yang digunakan dalam
+melaksanakan penelitian ini adalah buah
+duwet
+dengan
+tingkat
+kematangan
+
+105
+
+Vol.5, No.2, September 2018.
+
+Aplikasi Perbandingan Sari Buah …
+
+maksimum ditandai dengan warna kulit ungu
+kehitaman yang didapatkan dari Banjar
+Banyualit, Desa Kalibukbuk, Buleleng, gula
+pasir merk Gulaku (putih), konyaku merk
+Redman, air. Bahan kimia yang digunakan
+dalam melakukan analisis meliputi aquades,
+amilum 1%, , KCl, HCl pekat, Iod (I2),
+Kalium Iod (KI), Na-asetat, reagen (2.2diphenyl-1-picrylhydrazyl) DPPH,
+dan
+methanol.
+Alat-alat yang digunakan adalah pisau,
+talenan, blender merk Philip, sendok
+pengaduk, waskom, kompor gas (Rinnai),
+timbangan analitik (Shimadzu), gelas ukur
+(Pyrex), kain saring, kertas saring,
+alumunium foil, labu takar (Pyrex),
+Erlenmeyer (Pyrex), tabung reaksi (Pyrex),
+spektofotometer UV-Vis 1240, vortex, gelas
+beker (Pyrex), pipet mikro (Socorex), pipet
+volume
+(Pyrex),
+saringan,
+aplikasi
+colorimeter, dan seperangkat alat sensoris.
+
+drink dapat dilihat pada Tabel 1.
+Tabel 1. Formulasi jelly drink
+No
+1
+2
+3
+4
+
+Komposisi
+Bahan
+Air( %)
+Sari buah
+duwet (%)
+Konyaku
+(%)
+Gula pasir
+(%)
+
+Perlakuan
+P1
+
+P2
+
+P3
+
+P4
+
+P5
+
+P6
+
+90
+
+85
+
+80
+
+75
+
+70
+
+65
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+6
+
+6
+
+6
+
+6
+
+6
+
+6
+
+Keterangan :Persentase berdasarkan jumlah air dan
+sari buah
+
+Pembuatan jelly drink adalah terlebih dahulu
+membuat sari buah duwet. Buah duwet di
+sortasi berdasarkan tingkat kematangan,
+selanjutnya
+menghilangkan biji buah,
+kemudian diblansing dengan dikukus pada
+suhu 80oC selama 1 menit, buah dihancurkan
+dengan blender dan disaring sehingga
+diperoleh sari buah duwet. Setelah sari buah
+duwet didapatkan ditimbang sesuai perlakuan
+kemudian ditambahkan air sesuai perlakuan,
+dipanaskan hingga suhu 70oC (±3 menit), lalu
+ditambahkan konyaku dan gula sambil
+diaduk-aduk sampai suhu 80oC (± 5 menit)
+selanjutnya dituang dalam botol kaca 100 ml.
+Larutan jelly drink yang sudah dituang dalam
+botol kaca didinginkan pada suhu kamar lalu
+dilakukan penutupan botol, kemudian
+disimpan dalam refrigerator selama 24 jam.
+Diagram alir proses pembuatan jelly drink
+dapat dilihat pada Gambar 1.
+
+Rancangan Percobaan
+Rancangan
+yang digunakan pada
+penelitian ini adalah Rancangan Acak
+Lengkap
+(RAL)
+dengan
+perlakuan
+perbandingan sari buah duwet dan air yaitu:
+P1 = 10 % sari buah duwet dan 90 % air
+P2 = 15 % sari buah duwet dan 85 % air
+P3 = 20 % sari buah duwet dan 80 % air
+P4 = 25 % sari buah duwet dan 75 % air
+P5 = 30 % sari buah duwet dan 70 % air
+P6 = 35 % sari buah duwet dan 65 % air
+Masing-masing
+perlakuan
+diulang
+sebanyak 3 kali sehingga diperoleh 18 unit
+percobaan. Data hasil penelitian dianalisis
+dengan analisis ragam melalui SPSS 21 dan
+apabila terdapat pengaruh antar perlakuan
+maka dianalisis lanjut dengan uji Duncan.
+
+Variabel yang diamati
+Variabel yang diamati dalam penelitian ini
+meliputi vitamin C (Sudarmadji dkk., 1997),
+penentuan total antosianin (Lee, 2005),
+aktivitas antioksidan dengan penentuan nilai
+IC50 menggunakan metode (2.2-diphenyl-1picrylhydrazyl) DPPH (Tsai dkk., 2007),
+sifat sensoris yang meliputi tekstur, warna,
+rasa, aroma, dan penerimaan keseluruhan
+(Soekarto, 1985),
+dan stabilitas warna
+menggunakan colorimeter.
+
+Pelaksanaan Penelitian
+Persiapan bahan-bahan yang digunakan
+dalam pembutan jelly drink yaitu buah duwet,
+air, gula, dan konyaku. Bahan yang
+digunakan kemudian ditimbang sesuai
+dengan formulasinya. Adapun formulasi jelly
+
+106
+
+Fatmawati, dkk.
+
+Media Ilmiah Teknologi Pangan (Scientific Journal of Food Technology)
+
+HASIL DAN PEMBAHASAN
+
+dimodifikasi)
+Tabel 3. Nilai rata-rata Vitamin C, Total
+Antosianin dan IC50
+
+Analisis Sari Buah Duwet
+Hasil analisis sari buah duwet meliputi
+kandungan vitamin C, total antosianin dan
+aktivitas antioksidan dinyatakan dengan nilai
+IC50 pada Tabel 2.
+Tabel 2. Hasil Analisis Sari Buah Duwet
+Sari
+Buah
+Duwet
+
+Vitamin C
+(mg/100g)
+
+Total
+Antosianin
+(mg/100g)
+
+IC50
+(mg/ml)
+
+17,41
+
+18,89
+
+65,46
+
+Nilai rata-rata
+Perlakuan
+
+Vitamin C
+(mg/100g)
+
+Total
+Antosianin
+(mg/100g)
+
+IC50
+(mg/ml)
+
+P1
+P2
+P3
+P4
+P5
+P6
+
+8,57 c
+8,65 c
+10,26 b
+10,37 b
+11,96 a
+12,22 a
+
+1,69 b
+2,42 b
+2,65 b
+4.01 a
+4.62 a
+4,87 a
+
+245,19 d
+155,93 d
+142,10 cd
+118,00 bc
+103,72 b
+96,24 a
+
+Keterangan : Huruf yang berbeda dibelakang nilai
+rata-rata pada kolom yang sama
+menunjukkan perbedaan yang nyata (P
+< 0,01)
+
+Sumber : data diolah (2017)
+
+Analisis pada Jelly Drink
+Hasil analisis vitamin C, total antosianin
+dan aktivitas antioksidan dinyatakan dengan
+nilai IC50 jelly drink dapat dilihat pada Tabel
+3.
+
+Vitamin C
+Hasil analisis ragam menunjukan
+perlakuan penambahan sari buah duwet
+berpengaruh sangat nyata (P<0,01) terhadap
+vitamin C jelly drink. Tabel 8 menunjukan
+bahwa vitamin C terendah pada P1 (10% sari
+buah : 90% air) dengan kandungan 8,57
+mg/100g dan tidak berbeda nyata dengan
+perlakuan P2 serta tertinggi terdapat pada P6
+(35% sari buah : 65% air) dengan kandungan
+12,22 mg/100g dan tidak berbeda nyata
+dengan P5. Hal ini disebabkan karena P6
+merupakan perlakuan yang konsentrasi
+penambahan sari buahnya lebih tinggi yaitu
+35% sehingga kandungan vitamin C lebih
+tinggi dibandingkan dengan perlakuan P1
+hingga P4, dan kandungan vitamin C pada
+sari buah duwet yaitu 17,41 mg/100g.
+Antosianin
+Hasil analisis ragam menunjukkan
+perlakuan penambahan sari buah duwet
+bepengaruh sangat nyata (P<0,01) terhadap
+total
+antosianin jelly drink. Tabel 8
+menunjukkan bahwa total antosianin
+terendah pada P1 (10% sari buah : 90% air)
+dengan kandungan 1,69 mg/100g serta tidak
+berbeda nyata dengan P2 dan P3, tertinggi
+diperoleh pada P6 (35% sari buah : 65% air)
+dengan 4,87 mg/100g serta tidak berbeda
+nyata dengan P4 dan P5. Hal ini disebabkan
+
+Gambar 1. Diagram alir proses pembuatan
+Jelly drink (Zega, 2010 yang
+107
+
+Vol.5, No.2, September 2018.
+
+Aplikasi Perbandingan Sari Buah …
+
+karena P6 merupakan perlakuan yang
+konsentrasi penambahan sari buahnya lebih
+tinggi yaitu 35% sehingga kandungan
+antosianin lebih tinggi dibandingkan dengan
+perlakuan P1, P2 dan P3, serta kandungan
+antosianin pada sari buah duwet cukup tinggi
+yaitu 18,89 mg/100g. Menurut Andarwulan
+dan Faradilla (2012) menyatakan bahwa
+antosianin merupakan zat warna yang
+berwarna kemerah – merahan yang larut
+dalam air. Antosianin dipengaruhi beberapa
+faktor diantaranya pH, temperatur, cahaya,
+enzim, dan ion logam.
+
+dan tidak berbeda nyata dengan P2 dan P3
+serta terendah terdapat pada P6 (35% sari
+buah : 65% air) yaitu 96,24 mg/ml. Hal ini
+disebabkan karena P6 merupakan perlakuan
+yang konsentrasi penambahan sari buah lebih
+tinggi yaitu 35% dibandingkan P1 hingga P5
+sehingga kandungan nutrisi yang menjadi
+sumber antioksidan meningkat seperti
+antosianin dan vitamin C (Tabel 8).
+Antosianin dan vitamin C dapat berperan
+sebagai antioksidan. Antioksidan berperan
+dalam donor elektron atau transfer atom
+hydrogen pada radikal bebas. IC50
+merupakan mg ekstrak yang mampu
+menghambat 50 % radikal bebas. Menurut
+Molyneux (2004) bahwa semakin kecil nilai
+IC50 maka semakin tinggi aktivitas
+antioksidan.
+
+Aktivitas Antioksidan
+Hasil analisis ragam menunjukan
+perlakuan penambahan sari buah duwet
+berpengaruh sangat nyata (P<0,01) terhadap
+aktivitas antioksidan dinyatakan dengan nilai
+IC50 pada jelly drink. Tabel 8 menunjukkan
+bahwa nilai IC50 tertinggi terdapat pada P1
+(10% sari buah : 90% air) yaitu 245,19 mg/ml
+
+Evaluasi Sifat Sensoris
+Hasil analisis sifat sensoris dapat dilihat
+pada Tabel 4.
+
+Tabel 4. Nilai Rata-rata Uji Skoring (Warna, Rasa, Tekstur) dan Uji Hedonik (Warna, Rasa, Aroma,
+Tekstur, Penerimaan Keseluruhan) pada Jelly Drink
+Nilai rata-rata
+Uji Skor
+
+Perlakuan
+
+Uji Hedonik
+
+Warna
+
+Rasa
+
+Tekstur
+
+Warna
+
+Rasa
+
+Aroma
+
+Tekstur
+
+Penerimaan
+Keseluruhan
+
+(P1)
+
+1.70 e
+
+3.07 a
+
+3.70 a
+
+3.40 d
+
+3.87 a
+
+4.33 ab
+
+4.33 a
+
+3.60 a
+
+(P2)
+
+2.27 d
+
+2.87 a
+
+3.73 a
+
+3.53 d
+
+4.60 a
+
+4.73 a
+
+4.73 a
+
+4.40 a
+
+(P3)
+
+2.93 c
+
+3.02 a
+
+3.07 ab
+
+4.13 c
+
+4.40 a
+
+4.93 a
+
+4.93 a
+
+4.40 a
+
+(P4)
+
+3.53 b
+
+2.27 b
+
+2.60 bc
+
+4.20 c
+
+5.33 a
+
+4.13 ab
+
+4.40 a
+
+4.93 a
+
+(P5)
+
+4.07 a
+
+1.47 c
+
+2.07 c
+
+5.13 b
+
+4.13 a
+
+3.27 b
+
+3.27 b
+
+4.67 a
+
+(P6)
+
+4.47 a
+
+1.40 c
+
+2.27 c
+
+6.00 a
+
+4.60 a
+
+3.87 ab
+
+3.87 ab
+
+4.67 a
+
+Keterangan : Huruf yang berbeda dibelakang nilai rata-rata pada kolom yang sama menunjukkan
+nyata (P < 0,01)
+
+perbedaan yang
+
+sensoris skor warna terendah pada P1 (10%
+sari buah : 90% air) yaitu 1,7 (tidak ungu) dan
+tertinggi pada P6 (35% sari buah : 65% air)
+yaitu 4,47 (ungu) dan tidak berbeda dengan
+P5. Hal ini menunjukan penambahan sari
+buah maka akan meningkatkan kandungan
+
+Warna
+Hasil analisis ragam menunjukan bahwa
+perlakuan penambahan sari buah duwet
+berpengaruh sangat nyata (P<0,01) terhadap
+warna (uji skor dan hedonik) pada jelly drink.
+Tabel 9 menunjukan bahwa penilaian
+108
+
+Fatmawati, dkk.
+
+Media Ilmiah Teknologi Pangan (Scientific Journal of Food Technology)
+
+antosianin sehingga menyebabkan semakin
+pekat warna ungu yang dihasilkan pada jelly
+drink. Penilaian hedonik warna terendah pada
+P1 (10% sari buah : 90% air) yaitu 3,4 (agak
+tidak suka) dan tidak berbeda dengan P2 serta
+tertinggi pada P6 (35% sari buah: 65% air)
+yaitu 6 (suka), hal ini menunjukan bahwa
+panelis lebih menyukai jelly drink yang
+berwarna ungu.
+
+air) yaitu 3,7 (kenyal) dan tidak berbeda
+dengan P2 dan P3, sedangkan terendah pada
+P6 (35% sari buah : 65% air) yaitu 2,27
+(lembek) dan tidak berbeda dengan P4 dan
+P5. Hal ini menunjukan semakin banyak
+penambahan sari buah duwet maka akan
+menghasilkan tekstur gel yang lemah /
+lembek. Menurut Murdinah dkk. (2012)
+tingkat
+keasaman
+atau
+pH
+dapat
+mempengaruhi kekuatan gel, semakin
+menurunnya pH maka kekuatan gel semakin
+lemah. Pembentukan gel pada jelly drink
+dapat terjadi pada pH 3,5-4. Penurunan pH
+dapat menyebakan hidrolisis polimer,
+sehingga
+mengakibatkan
+kehilangan
+viskositas dan kempampuan membentuk gel
+(Luthana, 2008). Penilaian hedonik tekstur
+tertinggi pada P3 (20% sari buah : 80% air)
+yaitu 4,93 (agak suka) dan tidak berbeda
+nyata dengan P1, P2, P4 dan P6 sedangkan
+terendah pada P5 (30% sari buah: 70% air)
+yaitu 3,27 (agak tidak suka) dan tidak berbeda
+dengan P6.
+
+Rasa
+Hasil analisis ragam menunjukan bahwa
+perlakuan penambahan sari buah duwet
+berpengaruh sangat nyata (P<0,01) terhadap
+rasa (uji skor) sedangkan berpengaruh tidak
+nyata (P>0,05) (uji hedonik) pada jelly drink.
+Tabel 9 menunjukan bahwa penilaian
+sensoris skor rasa tertinggi pada P1 (10% sari
+buah: 90% air) yaitu 3,07 (agak manis) dan
+tidak berbeda dengan P2 dan P3 serta
+terendah ditunjukan pada P6 (35% sari buah :
+65% air) yaitu 1,4 (asam) dan tidak berbeda
+dengan P5. Hal ini disebabkan karena
+penambahan sari buah pada P6 yaitu 35% sari
+buah lebih banyak dibandingkan perlakuan
+yang lain dan buah duwet pada dasarnya
+memiliki cita rasa yang sepat masam.
+Penambahan sari buah duwet pada jelly drink
+maksimal 35% karena pada penelitian
+pendahuluan apabila dilakukan penambahan
+lebih dari 35% maka jelly drink yang
+dihasilkan tidak dapat diterima secara
+sensoris seperti rasa yang dihasilkan terlalu
+asam dan tidak terbentuk tekstur jelly drink
+yang diinginkan. Nilai rata-rata rasa (uji
+hedonik) pada jelly drink berkisaran 3,87
+(biasa) – 5,33 (agak suka)
+
+Aroma
+Hasil analisis ragam menunjukan
+bahwa perlakuan penambahan sari buah
+duwet berpengaruh nyata (P<0,05) terhadap
+uji aroma (uji hedonik). Tabel 9 menunjukan
+bahwa penilaian hedonik aroma tertinggi
+pada P3 (20% sari buah : 80% air) yaitu 4,93
+(agak suka) dan tidak berbeda dengan P1, P2,
+P4 dan P6, sedangkan terendah pada P5 (30%
+sari buah : 70% air) yaitu 3,27 (agak tidak
+suka) dan tidak berbeda dengan P4 dan P6.
+Penerimaan Keseluruhan
+Hasil analisis ragam menunjukan bahwa
+perlakuan penambahan sari buah duwet
+berpengaruh tidak nyata (P>0,05) terhadap
+uji penerimaan keseluruhan. Tabel 3
+menunjukan bahwa penilaian penerimaan
+keseluruhan berkisar 3,6 (biasa) – 4,93 (agak
+suka). Hal ini dapat menunjukan bahwa jelly
+drink sari buah duwet dapat diterima oleh
+panelis.
+
+Tekstur
+Hasil analisis ragam menunjukan bahwa
+perlakuan penambahan sari buah duwet
+berpengaruh sangat nyata terhadap tekstur
+(uji skor) dan berpengaruh nyata (P<0,05)
+(uji hedonik) pada jelly drink. Tabel 9
+menunjukan bahwa penilaian tekstur (uji
+skor) tertinggi pada P1 (10% sari buah : 90%
+
+109
+
+Vol.5, No.2, September 2018.
+
+Aplikasi Perbandingan Sari Buah …
+
+ruang dan refrigerator menunjukkan bahwa
+semakin lama penyimpanan maka nilai L
+(tingkat kecerahan) semakin meningkat
+berbanding terbalik dengan nilai a (warna
+merah dan hijau) dan berbanding lurus
+dengan nilai b (warna biru dan kuning). Hal
+ini menunjukkan bahwa semakin lama
+penyimpanan maka akan mempengaruhi
+kandungan antosianin sehingga menyebakan
+semakin pudarnya warna ungu dari produk
+jelly drink. Selama penyimpanan diketahui
+bahwa terjadi penurunan cukup tinggi pada
+suhu ruang dibandingkan dengan suhu
+refrigerator.
+Jelly drink yang disimpan pada suhu
+ruang, sudah terjadi perubahan warna selama
+48 jam (2 hari) penyimpanan dan pada hari
+selanjutnya produk sudah mulai mengalami
+kerusakan ditandai dengan perubahan warna
+agak kekuningan. Jelly drink yang disimpan
+pada refrigerator tingkat warna masih cukup
+stabil sampai hari ke-8 penyimpanan ditandai
+dengan jelly drink masih berwarna ungu.
+Sesuai dengan pernyataan Astawan (2008)
+semakin tinggi suhu penyimpanan maka akan
+terjadi peningkatan kerusakan antosianin.
+
+Stabilitas Warna Selama Penyimpanan
+Pengujian stabilitas warna selama
+penyimpanan dilakukan pada perlakuan
+terbaik berdasarkan uji matriks yaitu P6 (35%
+sari buah dan 65% air). Penyimpanan
+dilakukan pada suhu ruang (±27o C) dan suhu
+refrigerator (±5o C) sampai jelly drink
+mengalami kerusakan dan penurunan warna.
+Nilai
+stabilitas
+warna
+selama
+penyimpanan pada suhu ruang dapat dilihat
+pada Gambar 2 dan suhu refrigerator pada
+Gambar 3.
+
+Gambar 2. Nilai Stabilitas Warna Selama
+Penyimpanan di Suhu Ruang
+menggunakan aplikasi colorimeter.
+
+KESIMPULAN
+Berdasarkan hasil penelitian yang telah
+dilakukan dapat disimpulakan bahwa :
+a. Perbandingan sari buah duwet dan air
+berpengaruh sangat nyata terhadap
+vitamin C, total antosianin, aktivitas
+antioksidan dinyatakan dengan nilai IC50,
+warna (uji skor dan hedonik), rasa (uji
+skor), tekstur (uji skor), dan berpengaruh
+nyata terhadap aroma (uji hedonik) serta
+tekstur (uji hedonik).
+
+Gambar 3. Nilai Stabilitas Warna Selama
+Penyimpanan di Suhu Refrigerator
+menggunakan aplikasi colorimeter
+Keterangan :
+L = tingkat kecerahan
+a = warna merah dan hijau
+b = warna biru dan kuning
+
+b. Perlakuan terbaik terdapat pada 35% sari
+buah dan 65% air dengan vitamin C
+sebesar 12,22 mg/100g, total antosianin
+sebesar
+4,87
+mg/100g,
+aktivitas
+antioksidan dengan nilai IC50 sebesar
+96,24 mg/ml, warna ungu dan disukai ,
+
+Data
+hasil
+colorimeter
+selama
+penyimpanan (Gambar 2 dan 3) pada suhu
+
+110
+
+Fatmawati, dkk.
+
+Media Ilmiah Teknologi Pangan (Scientific Journal of Food Technology)
+
+rasa asam dan agak disukai, tekstur
+lembek dan biasa, aroma biasa,
+penerimaan keseluruhan agak disukai.
+
+cumini ), 25(4):169-172.
+Lindy, T. E. N. 2008. Aplikasi Ekstrak
+Antosianin Buah Duwet (Syzigium
+cumini) pada Produk Jelly, Yogurt dan
+Minuman Berkarbonasi. Skripsi S1.
+Fakultas Teknologi Pertanian. Institut
+Pertanian Bogor, Bogor.
+Luthana, Y. K. 2008. Jelly Drink.
+http://www.yis’sfoodentertaining.htm
+(Diakses pada tanggal 03 Januari 2017)
+Murdinah, A., S. K., Nurhayati, dan
+Subaryono. 2012. Membuat Agar dari
+Rumput Laut. Penebar Swadaya, Jakarta
+Molyneux, P. 2004. The Use of The Stable
+Free Radikal Diphenyl-picrylhydrazyl
+(DPPH) for Estimating Antioxidant
+Activity. Journal Science of Technology.
+26(2):211-219
+Soekarto, S. T. 1985. Penilaian Organoleptik
+untuk Industri Pangan dan Hasil Pertanian.
+Bhratara Karya Aksara, Jakarta.
+Sudarmadji, S., B. Haryono, dan Suhardi.
+1997. Analisisa Bahan Makanan dan
+Pertanian. Edisi ke tiga. Liberty,
+Yogyakarta
+Tsai, P.-J., S. C. Wu, dan Y. K. Cheng. 2008.
+Role of Polyphenols in Antioxidant
+Capacity of Napiergrass from Different
+Growing Seasons. National Pingtung
+University of Technology and Science.
+106(1): 27-32.
+Werdhasari, A. 2014. Peran Antioksidan
+Bagi Kesehatan. Pusat Biomedis dan
+Teknologi Dasar Kesehatan Balitbangkes
+Kemenkes RI. 3(2): 59-68.
+Zega, Y. 2010. Pengembangan Produk Jelly
+Drink Berbasis Teh (Camelia sinensis) dan
+Secang (Caesalpinia sappan. L) sebagai
+Pangan Fungsional. Skripsi S1. Fakultas
+Teknologi Pertanian. Institut Pertanian
+Bogor, Bogor.
+
+c. Stabilitas warna penyimpanan jelly drink
+dari 35% sari buah dan 65% air pada 48
+jam (hari ke-2) penyimpanan suhu ruang
+sudah mengalami penurunan dan pada
+hari-3 produk sudah mengalami kerusakan
+ditandai dengan perubahan warna menjadi
+agak kekuningan. Jelly drink yang
+disimpan pada refrigerator tingkat warna
+masih cukup stabil sampai hari ke-8
+penyimpanan ditandai dengan jelly drink
+masih berwarna ungu.
+DAFTAR PUSTAKA
+Agustin, F., dan W. D. R. Putri. 2014.
+Pembuatan Jelly Drink Averrhoa blimbi L.
+(Kajian Proporsi Belimbing Wuluh : Air
+dan Kosentrasi Karagenan). Jurnal Pangan
+dan Agroindustri. 2: 1-9.
+Andarwulan, N., dan, R. F. Faradilla. 2012.
+Pewarna Alami untuk Pangan. SEAFAST
+Center ITB, Bogor.
+Astawan, M. 2008. Khasiat Warna-warni
+Makanan. PT. Gramedia Pustaka Utama,
+Jakarta.
+Lee, J. 2005. Determination of Total
+Monomeric
+Anthocyanin
+Pigment
+Content of Fruit Juice, Beverages, Natural
+Colorants, and Wines by the pH
+Differential Method: Collaboration Study.
+Journal of AOAC International, 88 (5) :
+1269.
+Lestario, L. N., Suparmo, Raharjo, S., dan
+Tranggono. 2003. Perubahan Aktivitas
+Antioksidan, Kadar Antosianin dan
+Polifenol, pada Beberapa Tingkat
+Kemasakan Buah Duwet ( Syzigium
+
+111
+
+

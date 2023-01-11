@@ -1,0 +1,300 @@
+Jurnal VISUALIKA | STMIK Muhammadiyah Jakarta
+Vol. 6, No. 2, Oktober 2020, hlm. 154 - 160
+
+P-ISSN
+E-ISSN
+
+2355-2468
+2745-584X
+
+SISTEM PENUNJANG KEPUTUSAN
+PENERIMAAN KARYAWAN BARU DENGAN
+ALGORITMA GREEDY
+Nur Kumala Dewi1, Arman Syah Putra2
+1 STMIK
+
+Muhammadiyah Jakarta, Jl.Kelapa Dua Wetan Ciracas No.17, Jakarta, Indonesia
+, 2STMIK Insan Pembangunan
+1nkd.mandori@gmail.com
+2armansp892@gmail.com
+
+Abstrak
+Latar belakang penelitian ini adalah bagaimana menentukan hasil penerimaan karyawan baru
+dengan menggunakan sistem penunjang keputusan dengan algoritma Greedy, dengan algoritma
+ini akan bisa membantu memecahkan masalah pada bagian HRD dalam mencari karyawan baru,
+karyawan adalah sesuatu aset bagi perusahaan, dengan karyawan yang tepat maka perusahaan
+akan mempunyai aset yang begitu banyak, dengan karyawan yang tepat maka akan mempunyai
+tingkat kinerja yang tepat, dengan kinerja yang tinggi perusahaan akan mempunyai kinerja yang
+baik dan akan mempunyai profit yang tinggi. Metode pada penelitian ini menggunakan metode
+studi kepustakaan dan studi lapangan dengan studi kepustakaan maka akan bisa memperdalam
+penelitian ini dan juga bisa menemukan masalah yang terbarukan dengan masalah yang terbaru
+maka akan bisa menghasilkan penelitian yang bisa menjadi referensi bagi peneliti yang akan
+datang. Dengan studi lapangan maka akan bisa mengetahui apakah metode Greedy ini bisa bisa
+digunakan dalam penerimaan karyawan baru dengan menggunakan metode Greedy maka
+keputusan bisa diambil menggunakan sistem dengan sistem yang pasti. Maka keputusan tidak
+bisa diganggu gugat dengan keputusan yang pasti akan membantu pihak HRD dalam
+menentukan penerimaan karyawan baru, dengan keputusan tidak bisa diganggu gugat dan
+dengan keputusan yang pasti akan membantu pihak HRD dalam menentukan penerimaan
+karyawan baru dengan metode Greedy ini. Pada penelitian sebelumnya algoritma Greedy banyak
+digunakan dalam penggunaan pengambilan keputusan dalam berbagai hal. Misalkan penerimaan
+karyawan baru, hasil Psikologi dan penentuan diagnosa penyakit, metode Greedy ini maka
+diharapkan hasilnya bisa membantu dalam membuat keputusan pihak yang membutuhkan. Pada
+penelitian ini menghasilkan data yang membuktikan bahwa metode Greedy bisa membantu
+keputusan dalam mengambil keputusan pihak HRD. Penerimaan karyawan baru dengan metode
+Greedy ini akan bisa mempercepat proses penerimaan karyawan baru.
+Kata Kunci: sistem penunjang keputusan, algoritma greedy, karyawan, HRD.
+
+154
+
+Jurnal VISUALIKA | STMIK Muhammadiyah Jakarta
+Vol. 6, No. 2, Oktober 2020, hlm. 154 - 160
+
+1.
+
+P-ISSN
+E-ISSN
+
+2355-2468
+2745-584X
+
+PENDAHULUAN
+
+Penerimaan karyawan baru sangat penting di sebuah perusahaan karena perusahaan yang
+semakin besar akan membutuhkan karyawan, semakin banyak karyawan maka pihak HRD harus
+bisa memilah dan memilih karyawan yang tepat untuk semua posisi di perusahaan. Dengan
+adanya metode Greedy ini maka sistem pengambil keputusan bisa membantu pihak HRD dalam
+mengambil keputusan khusus nya dalam merekrut karyawan baru. Karena orang yang tepat untuk
+posisi yang tepat, kalau salah akan sangat berbahaya (Armaita, Dedi , Eri , Indang , & Iswandi,
+2020) [2].
+Sistem yang ada saat ini masih menggunakan tes psikologi masih menggunakan sistem
+manual dengan menggunakan kertas yang akan dihitung oleh pihak HRD. Itu oleh karena itu
+dengan adanya Sistem pengambil keputusan ini yang di dukung metode Greedy maka akan bisa
+membantu pihak HRD dalam mengambil keputusan penerimaan karyawan baru, dengan sistem
+ini maka penerimaan karyawan baru akan lebih cepat prosesnya (Putra, 2020) [4].
+Masalah yang diangkat Dalam penelitian ini adalah bagaimana sistem penunjang
+keputusan dengan metode Greedy bisa membantu pihak HRD dalam mengambil keputusan
+penerimaan karyawan baru, dengan metode Greedy akan mempermudah menilai calon karyawan
+baru ( Rahayu, 2019) [1].
+Pada penelitian ini akan membuktikan metode greedy bisa membantu dalam mengambil
+keputusan. Dalam hal penerimaan karyawan baru, dengan metode Greedy akan memberikan
+data yang pasti dan bisa digunakan pada penelitian selanjutnya yang mempunyai topik penelitian
+yang sama (Tukadi, Arief, & Rosyadi, 2020) [7].
+Landasan Teori
+a. Sistem Penunjang Keputusan
+Dalam sebuah sistem terdapat sistem yang bisa mengambil sebuah keputusan. Ini
+berdasarkan. buatan kecerdasan buatan. Dengan sistem kecerdasan buatan ini, dapat membantu
+dalam mengambil sebuah keputusan yang penting. Dengan Sistem pengambil keputusan ini maka
+akan dibantu oleh sistem dalam hal keputusan penting contohnya diagnosa penyakit, penerimaan
+karyawan baru dan ujian psikologi. Dengan sistem penunjang keputusan ini banyak hal yang bisa
+dilakukan dengan dengan intinya membantu manusia dalam mengambil keputusan (Armaita, Dedi
+, Eri , Indang , & Iswandi, 2020).
+b. Algoritma Greedy
+Materi algoritma Greedy adalah algoritma yang diciptakan untuk mengambil sebuah
+keputusan. Agar bisa menghasilkan saran terbaik dalam membantu manusia. Algoritma Greedy
+adalah algoritma yang menggunakan tahapan dan tahapan untuk mencari solusi atau mengambil
+keputusan berdasarkan hasil. Algoritma Greedy banyak dipakai dalam mengambil keputusan
+kedokteran, ekonomi dan hukum, Algoritma Greedy juga bisa digunakan dalam keputusankeputusan berat yang memerlukan analisa yang tinggi (Putra & Harco , 2018).
+c. Karyawan
+Karyawan adalah suatu aset dari sebuah perusahaan yang diseleksi dengan ketat untuk
+menempati posisinya di sebuah perusahaan. Karyawan juga harus dipilih dengan tepat sesuai
+dengan latar belakang pendidikan dan pengalaman. Oleh karena itu Pemilihan karyawan tidak
+bisa sembarangan. Karena jika orang tidak tepat pada posisinya maka akan menambah masalah
+bagi perusahaan dengan istilah orang yang tepat pada posisi yang tepat (Arman Syah Putra,
+2020) [3].
+
+Nur Kumala Dewi, Arman Syah Putra
+
+155
+
+Jurnal VISUALIKA | STMIK Muhammadiyah Jakarta
+Vol. 6, No. 2, Oktober 2020, hlm. 154 - 160
+
+2.
+
+P-ISSN
+E-ISSN
+
+2355-2468
+2745-584X
+
+METODE PENELITIAN
+
+Pada bagian akan menjelaskan tentnag metode penelitian yang digunakan dan
+penjelasannya, adapun gamabr dan penjelsan nya sebagai berikut
+
+Gambar 1. Metode Penelitian
+
+Berdasarkan gambar metode penelitian diatas maka akan diberi penjelasan sebagai berikut:
+a. Studi Keperpustakaan
+Tahapan pertama adalah melakukan studi kepustakaan yang membaca banyak buku dan
+literatur sebelumnya. Dengan membaca banyak penelitian sebelumnya maka akan bisa
+memperdalam penelitian dan bisa menemukan masalah yang terbaru agar bisa menjadi penelitian
+yang terkini dengan penelitian yang terbaru maka akan bisa menjadi referensi bagi penelitian
+selanjutnya kedepannya (Arman Syah Putra, 2020).
+b. Masalah
+Dengan membaca banyak penelitian sebelumnya maka akan bisa memperdalam penelitian
+dan bisa menemukan masalah yang terbaru agar bisa menjadi penelitian yang terkini dengan
+penelitian yang terbaru maka akan bisa menjadi referensi bagi penelitian selanjutnya kedepannya.
+Dengan menemukan masalah maka akan menjadi bahan untuk melakukan riset dan akan
+menjadi bahan penelitian. Dengan membaca banyak literatur review maka penelitian akan
+menemukan masalah baru dengan masalah baru akan menjadi referensi kedepannya (Putra &
+Fatrilia, 2020).
+
+156
+
+Sistem Penunjang Keputusan Penerimaan Karyawan Baru Dengan Algoritma Greedy
+
+Jurnal VISUALIKA | STMIK Muhammadiyah Jakarta
+Vol. 6, No. 2, Oktober 2020, hlm. 154 - 160
+
+P-ISSN
+E-ISSN
+
+2355-2468
+2745-584X
+
+c. Studi Lapangan
+Pada tahap ketiga ini adalah melakukan studi lapangan setelah menemukan masalah maka
+akan diuji coba di lapangan apakah metode yang sudah digunakan tepat atau metode yang
+digunakan perlu direvisi dengan melakukan studi lapangan akan mengetahui apakah penelitian
+kita ini valid dan menghasilkan sesuatu oleh karena itu penelitian lapangan sangat perlu pada
+penelitian kita kali ini ( Rahayu, 2019).
+d. Riset
+Pada bagian keempat keempat penelitian melakukan riset, penting dilakukan agar bisa
+menemukan solusi bagi masalah yang diangkat, dengan melakukan riset maka akan terbukti
+masalah dan solusinya dan menjadi hal penting dalam sebuah penelitian (Armaita, Dedi , Eri ,
+Indang , & Iswandi, 2020).
+e. Hasil
+Pada tahap terakhir ini adalah menghasilkan suatu jawaban dari masalah yang diangkat
+setelah melakukan riset. Melakukan metode penelitian maka penelitian ini telah selesai dan bisa
+dibuktikan secara pasti dan bisa dibuktikan hasilnya, dan menjadi dasar landasan teori bagi
+penelitian selanjutnya (Putra, 2020).
+
+3.
+
+HASIL DAN PEMBAHASAN
+
+Pada bagian ini membahas tentang alur penelitian dan bagaimana pembahasan
+penelitian, dengan bagian ini akan menjawab semua masalah penelitian, adapun penjelasan
+nya bisa di lihat sebagi berikut:
+
+Gambar 2. Proses Algoritma Greedy
+
+Berdasarkan gambar diatas proses algoritma greedy adalah dengan menggunakan
+tahapan tahapan dalam setiap keputusan, dan melihat lebih detail dalam menghasilkan setiap
+tahapan, sehingga hasil dari setiap tahapan akan lebih detail dan terperinci hingga menghasilkan
+sesuatu yang ingin dicapai.
+
+Nur Kumala Dewi, Arman Syah Putra
+
+157
+
+Jurnal VISUALIKA | STMIK Muhammadiyah Jakarta
+Vol. 6, No. 2, Oktober 2020, hlm. 154 - 160
+
+P-ISSN
+E-ISSN
+
+2355-2468
+2745-584X
+
+Gambar 3. Arah Penelitian
+
+Berdasarkan gambar diatas maka alur penelitian bisa dilihat dengan jelas dan penerapan
+algoritma greedy bisa di ketahui dimana letak nya agar bisa di terapkan dengan benar.
+
+N
+
+Y
+
+Gambar 4. Flowchart Penerimaan Karyawan Baru
+
+158
+
+Sistem Penunjang Keputusan Penerimaan Karyawan Baru Dengan Algoritma Greedy
+
+Jurnal VISUALIKA | STMIK Muhammadiyah Jakarta
+Vol. 6, No. 2, Oktober 2020, hlm. 154 - 160
+
+P-ISSN
+E-ISSN
+
+2355-2468
+2745-584X
+
+Berdasarkan gambar diatas maka flowchat penerimaan karyawan baru bisa diterapkan
+dengan algoritma greedy, dengan mengecek setiap pelamar kerja atau calon karyawan baru,
+dengan alur flowchat bisa di ketahui akan alur sistem yang akan diusulkan.
+
+Gambar 5. Penerapan Algoritma Greedy pada Penerimaan Karyawan Baru
+
+Berdasarkan gambar diatas maka penerapan algoritma greedy pada penerimaan karyawan
+baru bisa dilihat dengan keseluruhan, dari tahapan pertama lowongan kerja hingga keputusan
+hasil test psikologi yang bisa membuat dasar keputusan HRD menerima karyawan tersebut.
+
+4.
+
+PENUTUP
+
+Kesimpulan
+Berdasarkan hasil analisa dan penelitian diatas maka dapat disimpulkan bahwa:
+Metode algoritma Greedy adalah metode yang tepat di terapkan dalam pencarian karyawan
+baru dan untuk melakukan seleksi awal bagi para caoln karyawan, dengan analisa algoritma
+Greedy akan bisa membantu pihak HRD dalam membuat keputusan dalam penerimaan karyawan
+baru dengan cepat, hasil yang cepat diperlukan karena kekurangan karyawan bisa membuat
+perusahaan tidak maksimal dan bisa membuat perusahaan tidak dapat target yang diinginkan.
+Penelitian kedepannya dengan penerapan algoritma Greedy pada sebuah perusahaan dan
+bisa dilihat efektifitas algoritma Greedy yang bisa diandalkan dalam membuat suatu sistem
+penunjang keputusan.
+DAFTAR PUSTAKA
+[1]
+
+[2]
+
+Rahayu, W. (2019). Rancang Bangun Sistem Informasi Akademik Pada SMK Citra
+Dharma Berbasis JAVA. Jurnal Teknologi Informasi, Vol. 5, No. 2, Desember 2019, EISSN 2623-1700, 85-92.
+Armaita, Dedi , H., Eri , B., Indang , D., & Iswandi, U. (2020). Policy Model of Community
+Adaptation using AHP in the Malaria Endemic Region of Lahat Regency -Indonesia.
+International Journal of Management and Humanities (IJMH), 44-48.
+
+Nur Kumala Dewi, Arman Syah Putra
+
+159
+
+Jurnal VISUALIKA | STMIK Muhammadiyah Jakarta
+Vol. 6, No. 2, Oktober 2020, hlm. 154 - 160
+
+[3]
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+160
+
+P-ISSN
+E-ISSN
+
+2355-2468
+2745-584X
+
+Arman Syah Putra, D. N. (2020). “Examine Relationship of Soft Skills, Hard Skills,
+Innovation and Performance: the Mediation Effect of Organizational Le. IJSMS, 27-43.
+Putra, A. S. (2020). Penerapan Konsep Kota Pintar dengan Cara Penerapan ERP
+(Electronic Road Price) di Jalan Ibu Kota DKI Jakarta. Jurnal Informatika Universitas
+Pamulang, 5(1), 13-18. Jurnal Informatika Universitas Pamulang, 5(1), 13-18., 13-18.
+Putra, A. S., & Fatrilia, R. R. (2020). Paradigma Belajar Mengaji Secara Online Pada
+Masa Pandemic Coronavirus Disease 2019 (Covid-19). MATAAZIR: Jurnal Administrasi
+dan Manajemen Pendidikan, 49-61.
+Putra, A. S., & Harco , L. W. (2018). Intelligent Traffic Monitoring System (ITMS) for Smart
+City Based on IoT Monitoring. Indonesian Association for Pattern Recognition
+International Conference (INAPR) IEEE, 161-165.
+Tukadi, Arief, R., & Rosyadi, W. A. (2020). Reservasi Area Parkir Berbasis Internet Of
+Things. JE-Unisla|Vol 5 No 2 September 2020 | 370, 370-375.
+
+Sistem Penunjang Keputusan Penerimaan Karyawan Baru Dengan Algoritma Greedy
+
+

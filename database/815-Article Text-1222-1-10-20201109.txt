@@ -1,0 +1,302 @@
+Analisa dan Perancangan Aplikasi Pembelajaran Bahasa Inggris Dasar Berbasis Android
+1Nur Azis, 2Gali Pribadi, 3Manda Savitrie Nurcahya
+1
+
+Fakultas Teknik, Sistem Informasi, Universitas Krisnadwipayana, Bekasi, Indonesia
+2
+
+3
+
+Fakultas Teknik, Teknik Sipil, Universitas Krisnadwipayana, Bekasi, Indonesia
+
+Fakultas Teknik, Teknik Informatika, Universitas Krisnadwipayana, Bekasi, Indonesia
+
+Email: 1nuraziz@unkris.ac.id
+2
+3
+
+galipribadi@yahoo.com
+
+mandasavitrie@gmail.com
+Abstract
+
+There is still an imbalance in the use of Indonesian and English in writing scientific articles.
+Responding to the conditions above, the author is encouraged to discuss how to help the learning
+process of English at the basic level so that later there will be equality in the use of Indonesian and
+English as an advocate for science in scientific articles. The purpose of this research is to be able
+to make applications that can help in learning, especially English by using current technological
+advances as an example of Android-based mobile phones, then we can publish this research in the
+form of a reputable national journal.
+Keywords : Indonesian, English, Applications, Technology, Android,
+Abstrak
+Porsi penggunaan bahasa Indonesia dan bahasa Inggris dalam penulisan artikel ilmiah masih
+terjadi ketimpangan. Menyikapi kondisi di atas, penulis terdorong untuk membahas tentang
+bagaimana cara membantu proses belajar bahasa Inggris ditingkat dasar agar nantinya ada
+kesetaraan penggunaan bahasa Indonesia dan bahasa Inggris sebagai penghela ilmu pengetahuan
+dalam artikel ilmiah. Tujuan penelitian ini adalah agar dapat membuat aplikasi yang mampu
+membantu dalam pembelajaran khususnya bahasa Inggris dengan mengunakan kemajuan
+teknologi saat ini sebagai contoh Ponsel Berbasis Android, selanjutnya dapat mempublikasikan
+penelitian ini dalam bentuk jurnal nasional berreputasi.
+Kata Kunci: Bahasa Indonesia, Bahasa Inggris, Belajar, Aplikasi, Teknologi, Android
+
+1. PENDAHULUAN.
+Latar Belakang
+Saat ini perkembangan teknologi
+dibidang seluler berkembang sangat pesat
+dari mulai model seluler itu sendiri hingga
+
+fungsinya. Salah satu contoh fungsinya
+telepon seluler bisa dijadikan sebagai
+media pembelajaran. Mobile application
+adalah aplikasi yang dapat berjalan
+diponsel dan dapat digunakan sebagai
+media pembelajaran, mengolah dan
+
+Jurnal IKRA-ITH Informatika Vol 4 No 3 November 2020
+
+1
+
+mendapatkan informasi yang bersifat
+praktis (tidak terikat waktu dan bisa
+dibawa
+kemana-mana).(Aini
+&
+Riyantomo, 2019)
+Bahasa Inggris adalah salah satu bahasa
+yang digunakan sebagai alat komunikasi
+universal
+pada
+ruang
+lingkup
+internasional. Bahasa Inggris juga
+merupakan bahasa asing yang mulai
+diperkenalkan
+di
+Sekolah
+Dasar.(Pangestika et al., 2017). Bahasa
+inggris adalah salah satu bahasa yang di
+pelajari di seluruh dunia karena bahasa
+inggris merupakan bahasa international
+yang mencakup semua aspek global baik
+untuk anak- anak, pertukaran mahasiswa
+ke perguruan tinggi luar negeri,
+pengusaha,pedagang besar, atau pejabat
+tinggi. Manfaat mempelajari bahasa
+inggris sendiri tidak terlalu jauh dengan
+tujuannya, hanya saja sebagai manfaat
+tentunya hal ini diartikan lebih
+spesifik(Arnesti & Hamid, 2015)
+2. Landasan Teori
+Pengertian Analisis
+Analisis Sistem sebagai penguraian dari
+suatu sistem informasi yang utuh ke
+dalam bagian - bagian komponennya
+dengan
+maksud
+untuk
+mengidentifikasikan dan mengevaluasi
+permasalahan dan kesempatan..(Asmara,
+2016).
+Analisis dan perancangan sistem
+merupakan
+langkah
+awal
+dalam
+pengembangan sistem untuk menentukan
+kebutuhan, permasalah yang dapat diatasi
+dari adanya sebuah sistem yang akan
+dibangun, dan sistem seperti apa yang
+akan dibuat.(Adiguna et al., 2018).
+
+Perancangan adalah Proses untuk
+mendefinisikan sesuatu yang akan
+dikerjakan dengan menggunakan teknik
+yang bervariasi serta di dalamnya
+melibatkan deskripsi mengenai arsitektur
+serta detail komponen dan juga
+keterbatasan yang akan dialami dalam
+proses pengerjaannya(Adiguna et al.,
+2018). Aplikasi berasal dari kata
+application yang artinya penerapan,
+penggunaan Secara istilah aplikasi adalah
+program siap pakai yang direka untuk
+melaksanakan suatu fungsi bagi pengguna
+atau aplikasi yang lain dan dapat
+digunakan oleh sasaran yang dituju.(Azis,
+2018). Berdasarkan dua pengertian diatas
+maka penulis menyimpulkan bahwa
+pengertian Perancangan Aplikasi adalah
+proses untuk sesuatu yang dikerjakan
+dengan yang bervariasi untuk membuat
+tampilan antarmuka program.
+Pengertian Pembelajaran.
+Pembelajaran pada hakikatnya adalah
+suatu proses, yaitu proses mengatur,
+mengorganisasi lingkungan yang ada di
+sekitar peserta didik sehingga dapat
+menumbuhkan dan mendorong peserta
+didik melakukan proses belajar.(Pane &
+Darwis Dasopang, 2017)
+
+Pengertian Android.
+Android adalah sebuah sistem operasi
+perangkat mobile berbasis linux yang
+mencangkup sistem operasi, middleware
+dan aplikasi. Android menyediakan
+platform terbuka bagi para pengembang
+untuk menciptakan aplikasi mereka.
+(Andi, 2015).
+3. Implementasi dan Pengujian Sistem.
+
+Pengertian Perancangan Aplikasi.
+
+2
+
+Jurnal IKRA-ITH Informatika Vol 4 No 3 November 2020
+
+Tahap ini merupakan kegiatan pembuatan
+sistem atau aplikasi dengan menggunakan
+bantuan perangkat lunak maupun
+perangkat keras sesuai dengan analisis
+dan perancangan untuk menghasilkan
+suatu sistem yang bekerja. Penulisan kode
+program (coding) adalah bagaimana cara
+mengembangkan hasil analisa dan
+perancangan yang telah dilakukan
+menjadi suatu sistem yang utuh.
+Disamping itu disajikan juga tampilan
+dari Aplikasi Pembelajaran Bahasa
+Inggris Dasar setelah di implementasikan
+di smartphone Android.
+Antarmuka Aplikasi pada Gadget
+Android.
+Antar
+muka
+digunakan
+untuk
+mempermudah
+pengguna
+untuk
+mengoperasikan aplikasi yang telah
+dibuat,pembuatan tampilan antarmuka
+pada sistem Android diimplementasikan
+dalam bentuk XML Berikut ini adalah
+implementasi antarmuka dari Aplikasi
+Pembelajaran Bahasa Inggris Dasar:
+
+Gambar 2 Tampilan Wireframe Menu
+Aplikasi Android bagian 2
+
+Gambar 3 Tampilan Wireframe Menu
+Aplikasi Android bagian 3
+
+Menu Utama
+Menu utama adalah halaman yang
+pertama kali muncul saat sistem
+dijalankan. Menu Utama terdapat 4 menu
+yaitu menu learn, menu Practice, menu
+Random dan menu Video Learning.
+Berikut tampilan Menu Utama :
+
+Gambar 1 Tampilan Wireframe Menu
+Aplikasi Android bagian 1
+Gambar 4 Tampilan Menu Practice
+Aplikasi
+
+Pengujian Aplikasi
+
+Jurnal IKRA-ITH Informatika Vol 4 No 3 November 2020
+
+3
+
+Adapun pengujian perangkat lunak yang
+akan diuji dengan menggunakan Metode
+Black Box. Pengujian black box dilakukan
+dengan menguji apakah sistem yang
+dikembangkan sesuai dengan apa yang
+tertuang dalam spesifikasi fungsional
+system.
+Implementasi
+pengujian
+aplikasi
+terhadap sample objek penelitian.
+
+Gambar 5 Implementasi Pengujian
+Aplikasi
+4. Penutup.
+Berdasarkan pembahasan yang telah
+dilakukan, maka diperoleh beberapa
+kesimpulan :
+a. Aplikasi Pembelajaran Bahasa Inggris
+Dasar ini dapat digunakan dengan
+mudah dimana saja dan kapan saja.
+b. Aplikasi ini mampu menyajikan soal
+latihan serta practice speaking dan
+listening untuk mereview hasil belajar
+siswa.
+5. Daftar Pustaka.
+Adiguna, A. R., Saputra Chandra, M., &
+Pradana, F. (2018). Analisis dan
+Perancangan Sistem Informasi
+Manajemen Gudang pada PT Mitra
+Pinasthika Mulia Surabaya. Pengantar
+Sistem Informasi, 2(2), 612–621.
+https://doi.org/10.1016/j.humimm.2008.
+04.008
+Aini, R. N., & Riyantomo, A. (2019).
+
+4
+
+Aplikasi Pembelajaran Bahasa Inggris
+Bersama “Transpofun” Berbasis
+Android. Jurnal Informatika Dan
+Rekayasa Perangkat Lunak, 1(2), 100–
+110.
+https://doi.org/10.36499/jinrpl.v1i2.294
+8
+Andi, J. (2015). Pembangunan Aplikasi
+Child Tracker Berbasis Assisted –
+Global Positioning System ( A-GPS )
+Dengan Platform Android. Jurnal
+Ilmiah Komputer Dan Informatika
+(KOMPUTA), 1(1), 1–8.
+elib.unikom.ac.id/download.php?id=30
+0375
+Arnesti, N., & Hamid, A. (2015).
+Penggunaan Media Pembelajaran
+Online – Offline Dan Komunikasi
+Interpersonal Terhadap Hasil Belajar
+Bahasa Inggris. Jurnal Teknologi
+Informasi & Komunikasi Dalam
+Pendidikan, 2(1).
+https://doi.org/10.24114/jtikp.v2i1.3284
+Asmara, R. (2016). SISTEM INFORMASI
+PENGOLAHAN DATA
+PENANGGULANGAN BENCANA
+PADA KANTOR BADAN
+PENANGGULANGAN BENCANA
+DAERAH (BPBD) KABUPATEN
+PADANG PARIAMAN. Jurnal JClick, 147(2), 11–40.
+Azis, N. (2018). Perancangan aplikasi
+enkripsi dekripsi menggunakan metode
+caesar chiper dan operasi xor. IkraithInformatika, 2(1), 72–80.
+Pane, A., & Darwis Dasopang, M. (2017).
+Belajar Dan Pembelajaran.
+FITRAH:Jurnal Kajian Ilmu-Ilmu
+Keislaman, 3(2), 333.
+https://doi.org/10.24952/fitrah.v3i2.945
+Pangestika, G. V., Wikusna, W., &
+Hermansyah, A. (2017). Aplikasi
+aplikasi pembelajaran bahasa inggris
+
+Jurnal IKRA-ITH Informatika Vol 4 No 3 November 2020
+
+untuk murid sekolah dasar berbasis
+Android. E-Prceeding of Applied
+Science, 3(3), 1558–1575.
+
+Jurnal IKRA-ITH Informatika Vol 4 No 3 November 2020
+
+5
+
+

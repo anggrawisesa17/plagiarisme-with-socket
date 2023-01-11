@@ -1,0 +1,1817 @@
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+PENGARUH RISIKO, LEVERAGE, PELUANG PERTUMBUHAN,
+PERSISTENSI LABA DAN KUALITAS TANGGUNG JAWAB SOSIAL
+PERUSAHAAN TERHADAP EARNING RESPONSE COEFFICIENT PADA
+PERUSAHAAN HIGH PROFILE
+Ely Imroatussolihah
+Jurusan Manajemen, Fakultas Ekonomi, Universitas Negeri Surabaya,
+Kampus Ketintang Surabaya 60231
+E-mail: elly_afea@yahoo.com
+Abstract: This study aimed to investigated empirically effect of risk,
+leverage, peluang pertumbuhan, earning persistence and Corporate
+Social Responsibility (CSR) quality on earning response coefficient at
+high profile company that listed on Indonesian stock exchange in
+2009-2011. This study using risk, DER, MB, PL and dummy variable
+by ISRA categorize to measured independent variable. Earning
+response coefficient (ERC) as dependent variable is measured by
+regression of abnormal return with unexpected earning (+/-) 5 day at
+window period from the date of publication of annual report. This
+study uses multiple regression analysis with the object 140 high
+profile companies. By purposive sampling method there is 72 annual
+report which according to specified criteria. The result showed that
+risk, leverage, growth opportunities, earning persistence and CSR
+diclossure have silmutaniously effect to ERC. In partial test showed
+that risk, leverage and CSR quality have negative effect on ERC.
+Furthermore growth opportunities and earning persistence haven’t
+effect to ERC.
+Keywords: risk, growth opportunities, leverage, earning response
+coefficient, high profile.
+PENDAHULUAN
+Informasi laba merupakan
+salah satu instrumen yang digunakan
+investor
+dalam
+pengambilan
+keputusan investasi, akan tetapi saat
+ini informasi laba tidak dapat
+dijadikan satu-satunya instrumen
+dalam
+penentuan
+keputusan
+investasi hal ini ditunjukkan oleh hasil
+penelitian Sayekti (2007) yang
+menyatakan adanya korelasi yang
+lemah antara return saham dan
+tingkat
+laba
+perusahaan,
+dan
+rendahnya kontribusi laba untuk
+memprediksi
+pergerakan
+harga
+saham. Untuk itu dalam memprediksi
+return saham yang akan didapatkan,
+investor harus mempertimbangkan
+faktor
+lain
+yang
+mungkin
+memengaruhi hasil investasi di masa
+datang. Beberapa peneliti telah
+menemukan sebuah koefisien yang
+
+75
+
+digunakan untuk mengukur kekuatan
+informasi laba dalam memengaruhi
+return saham (informativeness of
+earnings) yang diukur dengan
+Earnings
+Response
+Coefficient
+(ERC).
+Scott (2003) mendefinisikan
+ERC
+sebagai
+koefisien
+yang
+digunakan untuk mengukur besarnya
+return saham dalam merespon laba
+yang dilaporkan oleh perusahaan.
+Setiap perusahaan memiliki variasi
+hubungan yang berbeda antara laba
+perusahaan dengan return saham.
+Semakin tinggi tingkat ERC maka
+menunjukkan semakin tinggi pula
+return saham yang dapat diharapkan
+dari peningkatan laba. Investor akan
+lebih mudah memprediksi laba yang
+mungkin didapatkan dari investasi
+saham pada suatu perusahaan di
+masa datang dengan mengetahui
+tingkat ERC suatu perusahaan.
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+Besar kecilnya angka ERC
+suatu perusahaan tidak hanya
+dipengaruhi oleh faktor informasi
+finansial perusahaan tapi juga bisa
+dipengaruhi oleh faktor-fakton non
+finansial seperti kegiatan sosial
+perusahaan. Lang dan Lundholm
+(1993) menemukan bahwa informasi
+sukarela (termasuk tanggung jawab
+sosial
+perusahaan)
+berasosiasi
+dengan kinerja perusahaan yang
+baik.
+Beberapa
+peneliti
+telah
+melakukan studi empiris mengenai
+ERC,
+akan
+tetapi
+ditemukan
+beberapa hasil yang berbeda.
+Ambarwati (2008) dan Hapsari (2010)
+menemukan
+bahwa
+risiko
+berpengaruh negatif terhadap ERC.
+Hasil yang berbeda ditemukan oleh
+Hidayati dan Murni (2009) yang
+menemukan
+bahwa
+risiko
+berpengaruh positif terhadap ERC.
+Ambarwati (2008) dan Moradi (2010)
+menemukan
+bahwa
+leverage
+berpengaruh negatif terhada ERC,
+akan tetapi dalam penelitian lain yang
+dilakukan oleh Hapsari (2010)
+menemukan
+bahwa
+leverage
+berpengaruh positif terhadap ERC.
+Studi empiris mengenai pengaruh
+peluang pertumbuhan terhadap ERC
+dilakukan oleh Collin dan Kothari
+(1994) menemukan adanya pengaruh
+positif antara peluang pertumbuhan
+terhadap ERC. Hasil yeng berbeda
+ditemukan oleh Hidayati dan Murni
+(2010) yang menyatakan bahwa
+peluang
+pertumbuhan
+tidak
+berpengaruh terhadap ERC. Hasil
+penelitian
+Ambarwati
+(2008)
+menemukan bahwa persistensi laba
+berpengaruh positif terhadap ERC,
+sedangkan
+Hapsari
+(2010)
+menemukan bahwa persistensi laba
+tidak berpengaruh terhadap ERC.
+Studi empiris yang meneliti tentang
+pengaruh pengungkapan tanggung
+jawab sosial perusahaan adalah
+Kartajumena (2010) dan Sayekti
+(2007) yang menyatakan bahwa
+pengngkapan tanggung jawab sosial
+perusahaan memiliki korelasi yang
+76
+
+negatif terhadap ERC (Y), hasil yang
+berbeda ditunjukkan dalam penelitian
+dari
+Widiastuti
+(2002)
+yang
+menyatakan
+bahwa
+luas
+pengungkapan
+sukarela
+dalam
+laporan tahunan berpengaruh positif
+terhadap ERC.
+Objek penelitian ini adalah
+perusahaan
+high
+profile
+yang
+terdaftar di BEI tahun 2009-2011.
+Penggunaan perusahaan high profile
+sebagai objek penelitian diharapkan
+dapat memberikan hasil penelitian
+yang lebih dapat digeneralisasikan
+dan dapat digunakan sebagai acuan
+penetapan keputusan perusahaanperusahaan pada umumnya.
+Berdasarkan latar belakang
+di atas maka rumusan masalah
+dalam penelitian ini adalah “Apakah
+ada pengaruh risiko, leverage,
+peluang pertumbuhan, persistensi
+laba dan kualitas tanggung jawab
+sosial perusahaan terhadap Earning
+Response Coefficient (ERC) pada
+perusahaan high profile”
+KAJIAN PUSTAKA
+Teori Efisiensi Pasar
+Teori efisiensi pasar atau
+Efficient Market Hypothesis (EMH)
+menyatakan bahwa pasar modal itu
+merupakan fair game dan informasi
+tidak
+dapat
+digunakan
+untuk
+memperoleh keuntungan (Ambarwati,
+2008). Dasar teori ini adalah investor
+bersifat rasional, pasar efisien, dan
+random walk.
+Teori efisiensi pasar juga
+merupakan
+salah
+satu
+dasar
+keberadaan akuntansi yaitu adanya
+asimetri informasi. Pelaku pasar yang
+mengetahui informasi yang lebih
+banyak daripada yang lain akan
+menimbulkan tekanan bagi yang lain
+untuk mendapatkan informasi yang
+lebih baik sehingga terhindar dari
+kerugian (Ambarwati, 2008). Investor
+diharapkan mengetahui informasiinformasi yang akan memengaruhi
+investasinya,
+sehingga
+dapat
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+memprediksi berbagai kemungkinan
+yang
+timbul
+dan
+menentukan
+keputusan yang harus dilakukan.
+Teori Stakeholder
+Teori stakeholder dimulai
+dengan asumsi bahwa nilai (value)
+secara eksplisit merupakan bagian
+dari kegiatan usaha. Perusahaan
+memerlukan teori stakeholder untuk
+melanjutkan eksistensinya. Teori
+stakeholder
+mengatakan
+bahwa
+perusahaan tidak hanya merupakan
+entitas yang beroperasi untuk
+kepentingan sendiri, namun harus
+memberikan
+manfaat
+bagi
+stakeholder (Freeman, et al., 2002).
+Teori Legitimasi
+Legitimasi
+adalah
+suatu
+kondisi di mana sistem nilai sebuah
+entitas sama dengan sistem nilai dari
+sistem sosial masyarakat di mana
+suatu entitas menjadi bagian dari
+masyarakat (Lang and Lindholm,
+1993). Lahirnya teori legitimasi
+dilandasi adanya kontrak sosial
+antara masyarakat dan perusahaan
+dalam
+menggunakan
+sumber
+ekonomi.
+Perwujudan
+legitimasi
+dalam dunia bisnis dapat berupa
+pelaporan aktivitas sosial yang
+berupa tanggung jawab sosial
+perusahaan. Salah satu harapan
+perusahaan
+dalam
+pelaksanaan
+tanggung jawab sosial perusahaan
+adalah memperoleh legitimasi sosial
+dan
+memaksimalkan
+kekuatan
+keuangannya dalam jangka panjang.
+Tipe Perusahaan
+Hackston dan Milne (1996),
+membedakan perusahaan dalam dua
+tipe perusahaan yaitu perusahaan
+high profile dan perusahaan low
+profile. Perusahaan yang termasuk
+dalam kategori high profile adalah
+perusahaan yang memiliki tingkat
+sensitivitas yang tinggi terhadap
+lingkungan, risiko politik yang tinggi,
+atau persaingan yang ketat.
+77
+
+Tipe
+kedua
+adalah
+perusahaan low profile, perusahaan
+yang termasuk dalam tipe low profile
+adalah perusahaan yang banyak
+mendapat sorotan dari masyarakat
+ketika operasi yang dilakukan
+mengalami
+kegagalan
+atau
+kesalahan.
+Pelaporan Keuangan
+Pelaporan keuangan dalam
+arti luas mencakup keluarnya setiap
+informasi
+mengenai
+suatu
+perusahaan
+tertentu.
+Pelaporan
+meliputi semua informasi yang
+tercantum dalam pelaporan tahunan
+perusahaan, media masa, majalah,
+dan sebagainya (Gernon dan Meek,
+2007). Pelaporan dibuat untuk semua
+pihak yang membutuhkan baik
+internal
+maupun
+eksternal
+perusahaan. Salah satu bentuk
+pelaporan
+yang
+dilakukan
+perusahaan
+adalah
+penerbitan
+laporan tahunan. Laporan tahunan
+(Annual report) merupakan laporan
+perkembangan dan pencapaian yang
+diraih organisasi dalam kurun waktu
+satu tahun. Laporan tahunan berisi
+laporan keuangan dan prestasi
+kinerja
+organisasi
+(perusahaan)
+selama satu tahun. Informasi yang
+bisa diperolah dari sebuah pelaporan
+keuangan terdiri dari dua informasi
+yaitu informasi finansial dan non
+finansial.
+Bentuk informasi finansial di
+Indonesia adalah laporan keuangan.
+Berdasarkan PSAK No.1 Tahun 2010
+Laporan keuangan adalah suatu
+penyajian terstruktur dari posisi
+keuangan dan kinerja keuangan
+suatu
+entitas.
+Melalui
+laporan
+keuangan
+yang
+diterbitkan
+perusahaan investor dapat menilai
+kinerja perusahaan yang dilihat dari
+beberapa hal yaitu: (1) Risiko, Risiko
+suatu investasi diartikan sebagai
+variabilitas hasil investasi yang
+sesungguhnya
+terhadap
+hasil
+investasi yang diharapkan (Sudana,
+2009). (2) Leverage (tingkat utang),
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+Leverage timbul karena perusahaan
+dalam operasinya menggunakan
+aktiva dan sumber dana yang
+menimbulkan beban tetap bagi
+perusahaan.
+(3)
+Peluang
+pertumbuhan dari informasi akuntansi
+dapat dilihat dari keberhasilan
+perusahaan dalam menghasilkan
+laba saat ini. (4) Persistensi laba,
+Persistensi
+laba
+merupakan
+kemampuan laba yang dijadikan
+indikator laba periode mendatang
+(future earnings) yang dihasilkan oleh
+perusahaan secara berulang-ulang
+(repetitive) dalam jangka panjang
+(sustainable).
+Informasi
+nonfinansial
+merupakan deskripsi naratif atau Item
+opini untuk mengekspresikan segala
+sesuatu yang telah diekspresikan
+dalam satuan moneter di dalam
+laporan keuangan. Contoh dari
+informasi non finansial diantaranya
+adalah
+pelaksanaan
+aktivitas
+tanggung jawab sosial perusahaan.
+Earning
+(ERC)
+
+Response
+
+Coefficient
+
+Earning response coefficient
+(ERC) mengukur tingkat abnormal
+return sekuritas dalam merespon
+komponen yang tidak terekpektasi
+dari pengumuman laba perusahaan,
+dengan kata lain terdapat variasi
+hubungan antara laba perusahaan
+dengan return saham. Kartajumena
+(2010), menyatakan kuatnya reaksi
+pasar terhadap informasi laba akan
+tercermin dari tingginya koefisien
+respon laba, sebaliknya lemahnya
+reaksi pasar terhadap informasi laba
+akan tercermin nilai ERC yang
+rendah. Beberapa faktor yang
+memengaruhi
+besarnya
+Earning
+Response
+Coefficient
+suatu
+perusahaan, diantaranya adalah:
+
+investor. Investor akan melihat laba
+saat ini sebagai indikator dari
+kemampuan menghasilkan laba dan
+return
+masa
+depan,
+sehingga
+semakin berisiko return masa depan
+maka semakin rendah reaksi investor
+terhadap unexpected earning. Risiko
+diukur dengan:
+
+Leverage
+perusahaan)
+
+(tingkat
+
+Sudana (2009), menyatakan
+leverage timbul karena dalam
+operasinya
+perusahaan
+menggunakan aktiva dan sumber
+dana yang menimbulkan biaya tetap.
+Scott (2003), menyatakan bahwa
+semakin tinggi tingkat leverage
+perusahaan akan
+menyebabkan
+rendahnya
+koefisien
+ERC.
+Perusahaan
+yang
+memiliki
+prosentase utang tinggi maka laba
+yang diperoleh perusahaan akan
+lebih banyak dialokasikan untuk
+kreditur daripada pemegang saham.
+Rumus untuk mengetahui tingkat
+hutang adalah:
+
+Peluang Pertumbuhan
+opportunities)
+
+(growth
+
+Menurut Scott (2003), peluang
+pertumbuhan akan meningkatkan
+harapan laba di masa mendatang
+sehingga akan menguntungkan baik
+bagi investor maupun perusahaan
+karena adanya peluang pertumbuhan
+akan
+meningkatkan
+ERC
+perusahaan. peluang pertumbuhan
+diketahui dengan:
+
+Risiko
+Semakin tinggi risiko suatu
+perusahaan maka akan semakin
+rendah nilai perusahaan di mata
+
+78
+
+utang
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+Persistensi Laba
+Persistensi laba merupakan
+kemampuan laba yang dijadikan
+indikator laba periode mendatang
+(future earnings) yang dihasilkan oleh
+perusahaan secara berulang-ulang
+(repetitive) dalam jangka panjang
+(sustainable). Semakin persisten laba
+maka semakin tinggi harapan
+peningkatan laba di masa datang.
+Persistensi laba diketahui dengan:
+Xit
+
+= a + bXit-1 + Et
+
+Kualitas Tanggung Jawab Sosial
+Perusahaan
+Lang dan Lundholm (1993)
+menyatakan bahwa pengungkapan
+sukarela
+berhubungan
+positif
+terhadap kinerja pasar. Korelasi laba
+dan return saham yang rendah
+mengindikasikan bahwa informasi
+laba hanya memberikan sedikit
+informasi tentang nilai perusahaan
+yang menunjukkan bahwa masih
+terdapat asimetri informasi yang
+tinggi.
+Pengungkapan
+tersebut
+bertujuan
+mengurangi
+asimetri
+informasi terutama pada perusahaan
+yang
+memiliki
+korelasi
+earning/returns yang rendah dan
+menyatakan
+adanya
+hubungan
+negatif
+antara
+korelasi
+earnings/returns
+(ERC)
+dengan
+tingkat pengungkapan.
+Sayekti
+(2007)
+dan
+Eriana
+(2010)
+menyatakan bahwa pengungkapan
+tanggung jawab sosial perusahaan
+memiliki hubungan yang negatif
+terhadap ERC. Kualitas tanggung
+jawab sosial perusahaan dalam
+penelitian ini diukur menggunakan
+variabel dummy. Perusahaan yang
+perusahaan
+yang
+memperoleh
+penghargaan ISRA diberi nilai 1
+sedangkan untuk perusahaan yang
+tidak memperoleh penghargaan ISRA
+diberi nilai 0.
+Berdasarkan
+rumusan
+masalah, tujuan penelitian, serta
+landasan teori maka dapat diajukan
+
+79
+
+suatu hipotesis. Hipotesis dalam
+penelitian ini adalah:
+H1: risiko, leverage, peluang
+pertumbuhan, persistensi
+laba
+dan
+kualitas
+tanggung jawab sosial
+perusahaan berpengaruh
+terhadap
+Earning
+Response
+Coefficient
+(ERC) pada perusahaan
+high profile.
+H2: risiko, leverage, peluang
+pertumbuhan, persistensi
+laba
+dan
+kualitas
+tanggung jawab sosial
+perusahaan berpengaruh
+terhadap
+Earning
+Response
+Coefficient
+(ERC) pada perusahaan
+high profile.
+METODE
+Penelitian ini termasuk jenis
+penelitian kuantitatif. Data yang
+dibutuhkan diperoleh dari data
+skunder
+yang
+berupa
+laporan
+tahunan dan data harga saham.
+Untuk mengukur kualitas diambil dari
+data resmi NCSR (National Center
+for Sustainability Reporting) yang
+menampilkan
+perusahaan
+yang
+masuk nominasi perusahaan dengan
+pengungkapan
+tanggung
+jawab
+sosial perusahaan terbaik. Populasi
+yang digunakan dalam penelitian ini
+adalah semua perusahaann high
+profile yang terdaftar di BEI tahun
+2009-2011. Sampel dipilih dengan
+metode purposive sampling dengan
+kriteria: (a) Perusahaan high profile
+yang terdaftar di BEI tahun 20092011, (b)Mempublikasikan laporan
+tahunan tahun 2007-2011, (c)
+Mencantumkan data harga saham
+pada 6 hari sebelum, dan 5 hari
+sesudah penerbitan laporan tahunan.
+Sampel yang memenuhi kriteria
+adalah 24 perusahaan dari 140
+perusahaan
+high
+profile
+yang
+terdaftar di BEI tahun 2009-2011.
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+Variabel
+yang
+digunakan
+dalam penelitian ini terdiri dari
+variabel dependen dan variabel
+independen. Variabel independen
+yang digunakan diantaranya adalah
+risiko,
+leverage,
+peluang
+pertumbuhan, persistensi laba dan
+kualitas tanggung jawab sosial
+perusahaan. sedangkan variabel
+dependen yang digunakan adalah
+Cummulatif abnormal return (CAR).
+Risiko
+suatu
+investasi
+diartikan sebagai variabilitas hasil
+investasi
+yang
+sesungguhnya
+terhadap
+hasil
+investasi
+yang
+diharapkan (Sudana, 2009). Risiko
+dapat diketahui melalui perhitungan
+nilai beta. Leverage adalah tingkat
+utang suatu perusahaan. Leverage
+dalam
+penelitian
+ini
+dihitung
+menggunakan Debt Equity Ratio
+(DER). Peluang pertumbuhan adalah
+tingkat pertumbuhan di atas rate of
+return yang normal. Untuk mengukur
+peluang
+pertumbuhan
+dalam
+penelitian ini digunakan rasio Market
+to Book Equity (MBE). Persistensi
+laba adalah suatu ukuran yang
+menjelaskan
+kemampuan
+perusahaan untuk mempertahankan
+jumlah laba yang diperoleh saat ini
+sampai masa datang. Menurut
+Kormendi & Lipe (1987) persistensi
+laba dapat diperoleh melalui Slope
+regresi antara laba tahun ini dengan
+laba tahun sebelumnya.
+Kualitas
+tanggung
+jawab
+sosial
+perusahaan
+merupakan
+penilaian
+bagaimana
+tingkat
+kesadaran
+perusahaan
+dalam
+pelaksanaan
+tanggung
+jawab
+terhadap
+lingkungan
+sosial
+perusahaan. Kualitas tanggung jawab
+sosial perusahaan dalam penilitian ini
+diukur melalui variabel dummy,
+
+80
+
+perusahaan
+yang
+memperoleh
+penghargaan ISRA diberi nilai 1
+sedangkan untuk perusahaan yang
+tidak memperoleh penghargaan ISRA
+diberi nilai 0.
+Teknik analisis data yang
+dilakukan pada penelitian ini adalah
+sebagai berikut: 1) Menghitung
+variabel bebas dan variabel terikat, 2)
+Analisis regresi berganda, 3) Uji
+Asumsi
+Klasik,
+4)
+Koefisien
+determinasi (R2), dan 5)Uji hipotesis
+simultan (F) dan parsial (t).
+Pengolahan data dilakukan dengan
+melakukan pengujian asumsi klasik
+dan regresi linier berganda dengan
+metode Backward, yaitu salah satu
+metode pengolahan data dengan
+cara memasukan semua variabel
+independen secara keseluruhan.
+Metode backward secara otomatis
+SPSS akan menghilangkan satu
+persatu variabel independen yang
+dianggap kurang signifikan dalam
+memprediksi
+model
+persamaan
+regresi.
+HASIL
+Uji analisis regresi dapat
+dilakukan jika data yang digunakan
+telah memenuhi asumsi klasik regresi
+(Best Linier Unbiased Estimator).
+Pada tahap awal pengujian dari 72
+data penelitian yang digunakan
+menunjukkan adanya gejala asumsi
+klasik, sehingga beberapa data harus
+dibuang dengan metode outlier.
+Melalui metode outlier menunjukkan
+terdapat 18 data yang harus dibuang
+sehingga data yang tersisa adalah 54
+data. Data yang telah terbebas dari
+gejala asumsi klasik dapat dilakukan
+uji regresi yang menunjukkan hasil
+pada tabel 1:
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+Tabel 1 Analisis Regresi Berganda
+Var. Dependen
+Beta
+(Constant)
+.146
+Risk
+-1.383
+DER
+-.017
+MBE
+.000
+PL
+.000
+CSR
+-.083
+(Constant)
+.141
+Risk
+-1.388
+DER
+-.017
+PL
+.000
+CSR
+-.082
+(Constant)
+.137
+Risk
+-1.363
+DER
+-.016
+CSR
+-.079
+Sumber: data diolah (2012)
+Uji regresi yang digunakan dalam
+penelitian
+ini
+adalah
+metode
+backward,
+dalam
+metode
+ini
+beberapa variabel yang
+tidak
+signifikan (sig. t >0.05), sehingga
+pada tahap akhir akan menghasilkan
+persamaan regresi dari variabelvariabel yang terbukti berpengaruh.
+(a) Secara simultan semua variabel
+independen yaitu risiko, DER,
+tanggung jawab sosial perusahaan,
+peluang pertumbuhan dan persistensi
+laba terbukti berpengaruh terhadap
+ERC. (b) Secara parsial lima variabel
+independen yang diteliti menunjukkan
+3 variabel yaitu risiko, DER, kualitas
+tanggung jawab sosial perusahaan
+terbukti berpengaruh terhadap ERC,
+sedangkan dua variabel yang lain
+yaitu peluang pertumbuhan dan
+persistensi laba tidak berpengaruh
+terhadap ERC.
+
+81
+
+Sig. t
+.000
+.026
+.003
+.687
+.497
+.018
+.000
+.024
+.003
+.507
+.018
+.000
+.026
+.003
+.020
+
+Sig. F
+.009
+
+Adjst. R2
+.193
+
+.004
+
+.206
+
+.002
+
+.215
+
+PEMBAHASAN
+Pengaruh Risiko, Debt equity ratio
+(DER), Market to Book equity,
+persistensi laba, dan kualitas
+tanggung jawab sosial perusahaan
+terhadap
+Earning
+Response
+Coefficient (ERC) secara simultan.
+Secara simultan risiko, DER,
+MBE, persistensi laba (PL), dan
+kualitas tanggung jawab sosial
+perusahaan berpengaruh terhadap
+Earning Response Coefficient (ERC).
+Hasil tersebut menunjukkan bahwa
+risiko, DER, MBE, persistensi laba
+(PL), dan kualitas tanggung jawab
+sosial perusahaan merupakan faktorfaktor yang mempengaruhi naik
+turunnya ERC. Hasil ini sesuai
+dengan penelitian yang dilakukan
+oleh Hidayati dan Murni (2009) yang
+menguji
+pengaruh
+antara
+pengungkapan
+tanggung
+jawab
+sosial perusahaan, risk, peluang
+pertumbuhan dan leverage terhadap
+ERC
+dan
+menunjukkan
+hasil
+pengaruh yang simultan terhadap
+ERC. Semakin tinggi pengungkapn
+tanggung jawab sosial perusahaan
+maka akan semakin rendah nilai laba
+di mata investor. Risiko berpengaruh
+terhadap ERC karena semakin
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+berisiko suatu saham maka akan
+semakin dihindari oleh investor.
+Leverage berkaitan dengan tingkat
+hutang perusahaan, semakin tinggi
+tingkat hutang perusahaan maka
+semakin
+banyak
+laba
+yang
+dianggarkan
+kepada
+kreditur
+sebaliknya
+bagian
+laba
+yang
+diberikan kepada investor akan
+semakin
+sedikit.
+Peluang
+pertumbuhan adalah kemungkinan
+pertumbuhan perusahaan, investor
+akan lebih tertarik pada perusahaan
+yang
+mampu
+menunjukkan
+pertumbuhannya
+akan
+laba.
+Sedangkan persistensi laba berkaitan
+dengan revisi laba di masa datang,
+jika
+perusahaan
+mampu
+menunjukkan laba yang persisten
+maka akan menarik minat investor
+terhadap perusahaan. Scott (2003)
+dan Ambarwati (2008) menyatakan
+bahwa persistensi laba merupakan
+salah satu faktor yang mempengaruhi
+ERC. Hasil penelitian Ambarwati
+(2008)
+menyatakan
+bahwa
+persistensi laba memiliki pengaruh
+yang positif terhadap ERC.
+Pengaruh Risiko terhadap Earning
+Response Coefficient (ERC)
+Hasil
+penelitian
+ini
+menunjukkan
+bahwa
+risiko
+berpengaruh negatif terhadap ERC.
+Risiko suatu investasi diartikan
+sebagai
+keanekaragaman
+hasil
+investasi
+yang
+sesungguhnya
+terhadap
+hasil
+investasi
+yang
+diharapkan. Semakin tinggi tingkat
+risiko suatu saham, semakin tidak
+pasti return yang akan didapatkan di
+masa
+depan
+sehingga
+akan
+menurunkan nilai perusahaan di mata
+investor karena investor menilai laba
+yang dilaporkan oleh perusahaan
+tidak dapat menggambarkan laba
+yang akan diperoleh di masa depan.
+Menurut
+Haryanto
+(2007),
+kebanyakan
+investor
+Indonesia
+adalah tipe risk averse atau
+penghindar risiko. Investor tipe risk
+averse hanya bersedia melakukan
+82
+
+investasi jika tambahan hasil yang
+diharapkan
+lebih
+besar
+dari
+tambahan risiko. Perusahaan dengan
+risiko tinggi akan dinilai oleh investor
+sebagai perusahaan yang kurang
+menjanjikan
+bagi
+investasinya.
+Menurut Scott (2003) seorang
+investor
+yang
+rasional
+akan
+meningkatkan ekspektasi keuntungan
+dan menurunkan risiko keuntungan.
+Hasil penelitian ini sesuai
+dengan
+hasil
+penelitian
+yang
+dilakukan oleh Scott (2003) dan
+Ambarwati (2008) yang menyatakan
+bahwa risiko memiliki pengaruh
+negatif terhadap ERC. Semakin tinggi
+risiko perusahaan maka semakin
+rendah
+kualitas
+laba
+dalam
+menggambarkan return yang akan
+didapatkan oleh investor di masa
+depan.
+Hasil penelitian ini berbeda
+dengan penelitian yang dilakukan
+oleh
+Hidayati
+(2009),
+yang
+menemukan adanya pengaruh positif
+antara
+risiko
+terhadap
+ERC.
+Perbedaan hasil ini karena dalam
+penelitian yang dilakukan Hidayati
+(2009)
+data
+yang
+digunakan
+merupakan beta mentah setahun
+sebelum
+dikoreksi
+yang
+menyebabkan
+hasil
+penelitian
+menjadi bias, sedangkan data yang
+digunakan dalam penelitian ini adalah
+data laporan keuangan yang telah di
+audit sehingga dapat dipercayai
+kebenarannya.
+Pengaruh Debt Equity Ratio (DER)
+terhadap ERC
+Hasil
+penelitian
+ini
+menunjukkan
+bahwa
+DER
+berpengaruh negatif terhadap ERC.
+Hasil ini sesuai dengan teori yang
+ada, yang menyatakan bahwa ketika
+tingkat utang suatu perusahaan tinggi
+maka sebagian besar laba yang
+diperoleh
+perusahaan
+akan
+disalurkan pada kreditur sehingga
+bagian untuk pemegang saham
+semakin
+sedikit.
+Kreditur
+dan
+pemegang
+saham
+sama-sama
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+mempunyai klaim atau hak untuk
+dilunasi atas dana yang ditanamkan
+dalam perusahaan, akan tetapi kedua
+pihak memiliki hak yang berbeda.
+Klaim kreditor terbatas jumlahnya
+dan harus diselesaikan pada tanggal
+tertentu sementara klaim pemegang
+saham merupakan jumlah residual
+dan tidak harus diselesaikan atau
+dilunasi pada tanggal tertentu.
+Perbedaan hak ini menyebabkan
+laba
+yang
+ditunjukkan
+oleh
+perusahaan
+hanya
+sedikit
+mencerminkan besarnya earning
+saham yang akan diperoleh oleh
+pemegang saham.
+Hasil penelitian ini juga sesuai
+dengan hasil penelitian Sayekti
+(2007)
+dan
+Ambarwati
+(2008)
+menyatakan perusahaan dengan
+tingkat utang yang tinggi laba akan
+diprioritaskan
+bagi
+kreditur
+sedangkan investor akan mendapat
+bagian setelah kreditur, dan tidak
+menutup kemungkinan terjadinya
+risiko gagal bayar dan bila terjadi
+terus menerus akan menyebabkan
+risiko kebangkrutan.
+Hasil penelitian ini berbeda
+dengan hasil yang ditemukan oleh
+Cahyaningsih
+(2009)
+yang
+melakukan
+penelitian
+pengaruh
+leverage terhadap ERC pada industri
+keuangan. Studi empiris yang
+dilakukan tidak menemukan adanya
+pengaruh antara leverage terhadap
+ERC. Perbedaan ini karena objek
+penelitian
+Cahyaningsih
+(2009)
+adalah sektor keuangan di mana
+utang dalam industri ini merupakan
+salah satu bagian dari kegiatan
+utama
+yang
+dilakukan
+yaitu
+menghimpun dan menyalurkan dana.
+Utang merupakan salah satu sumber
+dana eksternal yang digunakan untuk
+menyalurkan
+dana
+kepada
+masyarakat. Semakin besar utang
+yang dimiliki maka semakin tinggi
+kemampuan
+untuk
+menyalurkan
+dana, dan hal ini akan dapat
+meningkatkan laba yang diperoleh.
+Penelitian ini menggunakan objek
+perusahaan
+high
+profile
+(non
+83
+
+keuangan) jadi utang merupakan
+dana tambahan untuk kegiatan
+operasional perusahaan.
+Pengaruh Market to Book Equity
+(MBE) terhadap Earning Response
+Coefficient (ERC)
+Hasil
+penelitian
+ini
+menunjukkan hasil yang berbeda
+dengan teori yang ada peluang
+pertumbuhan
+tidak
+berpengaruh
+terhadap
+ERC
+karena
+tingkat
+signifikansinya di atas 0,05. Hasil ini
+sesuai dengan penelitian yang
+dilakukan Hidayati dan Murni (2009),
+yang menemukan bahwa peluang
+pertumbuhan
+tidak
+berpengaruh
+terhadap ERC karena objek yang
+digunakan dalam penelitian ini adalah
+perusahaan
+high
+profile
+yang
+memiliki karakteristik yang berbedabeda sehingga hasil yang diperoleh
+kurang
+dapat
+menggambarkan
+secara jelas bagaimana hubungan
+antara
+peluang
+pertumbuhan
+terhadap ERC. Hasil ini sesuai
+dengan penelitian yang dilakukan
+oleh Freeman, et al., (2002), yang
+menunjukkan bahwa penelitian pada
+perusahaan dengan karakteristik
+tertentu akan menunjukkan hasil
+yang
+lebih
+spesifik
+daripada
+penelitian yang dilakukan pada objek
+yang memiliki karakteristik yang
+berbeda. Penelitian Freeman, et al.,
+(2002) menemukan bahwa penelitian
+tentang ERC yang dilakukan pada
+perusahaan dengan karakteristik
+yang berbeda menunjukkan R2 yang
+lebih rendah daripada perusahaan
+yang memiliki karakteristik yang
+sama.
+Penelitian ini menggunakan
+perusahaan
+high
+profile
+yang
+memiliki karakteristik usaha yang
+berbeda-beda.
+Perbedaan
+karakteristik ini menyebabkan sudut
+pandang
+penilaian
+peluang
+pertumbuhan
+suatu
+perusahaan
+menjadi
+berbeda.
+Peluang
+pertumbuhan
+pada
+subsektor
+agribisnis misalnya dapat dinilai dari
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+perbandingan penggunaan modal
+untuk aset-asetnya, semakin banyak
+modal
+yang
+digunakan
+untuk
+pembelian aset maka semakin baik,
+berbeda
+dengan
+subsektor
+pertambangan
+yang
+peluang
+pertumbuhannya dapat dinilai dari
+perbandingan nilai saham dan
+ekuitasnya.
+Perbedaan
+sudut
+pandang
+perhitungan
+peluang
+pertumbuhan tiap industri yang
+menyebabkan peluang pertumbuhan
+dalam
+penelitian
+ini
+tidak
+berpengaruh terhadap ERC.
+Pengaruh
+Persistensi
+terhadap ERC
+
+Laba
+
+Hasil
+penelitian
+ini
+menunjukkan persistensi laba tidak
+berpengaruh terhadap ERC. Hal ini
+berbeda dengan teori yang ada yang
+menyatakan bahwa persistensi laba
+memiliki pengaruh positif terhadap
+ERC. Persistensi laba mencerminkan
+kualitas laba perusahaan yang
+menunjukkan bahwa perusahaan
+mampu mempertahankan laba dari
+waktu ke waktu. Hasil penelitian
+Collin dan Kothari (1994) dan
+Ambarwati
+(2008)
+menyatakan
+bahwa persistensi laba yang dihitung
+menggunakan
+perubahan
+laba
+berpengaruh positif terhadap ERC.
+Semakin besar persistensi laba suatu
+perusahaan maka semakin besar
+pula laba yang dapat diharapkan oleh
+investor di masa datang.
+Hasil penelitian ini sesuai
+dengan penelitian yang dilakukan
+oleh Ali dan Zahrowi (2002), yang
+menyatakan bahwa persistensi laba
+tidak berpengaruh terhadap ERC,
+adanya
+komponen-komponen
+transitory dalam laba menyebabkan
+laba kurang dapat dijadikan pengukur
+ERC.
+Banyaknya
+komponen
+transitory hanya akan berpengaruh
+terhadap laba saat ini akan tetapi
+tidak memengaruhi laba di masa
+datang. Komponen transitory sifatnya
+tidak berulang, artinya item transitory
+merupakan aktifitas yang tidak biasa
+84
+
+dilakukan dan tidak selalu terulang di
+masa depan. Komponen transitory ini
+menyebabkan kurang relavannya
+laba digunakan untuk memprediksi
+kebijakan di masa datang. Penelitian
+yang dilakukan Hapsari (2010) juga
+menunjukkan bahwa persistensi laba
+tidak berpengaruh terhadap ERC
+dengan penjelasan bahwa investor
+tidak merespon terhadap perubahan
+laba meskipun perusahaan telah
+menunjukkan persistensi laba yang
+positif untuk masa datang. Hal ini
+menunjukkan
+bahwa
+dalam
+menentukan investasinya investor
+tidak hanya menilai berdasarkan
+informasi laba, akan tetapi investor
+juga menilai informasi lain yang
+mungkin
+berpengaruh
+terhadap
+investasinya.
+Kesimpulan dari hasil penelitian
+di
+atas
+menunjukkan
+bahwa
+persistensi laba tidak selalu dapat
+dijadikan patokan dalam penentuan
+kebijakan investasi di masa depan
+karena
+dalam
+laba
+terdapat
+kemungkinan adanya item transitory
+yang tidak terjadi berulang sehingga
+tidak dapat menggambarkan laba di
+masa depan, hal ini sejalan dengan
+pendapat
+Lev
+(1989)
+yang
+menyatakan bahwa meskipun laba
+digunakan oleh investor akan tetapi
+kegunaan laba bagi investor sangat
+terbatas.
+Pengaruh
+Kualitas
+Tanggung
+Jawab Sosial Perusahaan terhadap
+ERC
+Lev (1989) menyatakan bahwa
+meskipun laba digunakan oleh
+investor akan tetapi kegunaan laba
+bagi investor sangat terbatas, hal ini
+menunjukan bahwa relevansi laba
+saat ini semakin menurun. Investor
+harus mempertimbangkan hal lain
+yang dapat memengaruhi laba yang
+bisa diharapkan di masa depan.
+Salah satu hal yang dijadikan bahan
+pertimbangan
+adalah
+kegiatan
+tanggung jawab sosial perusahaan
+yang dilakukan perusahaan. Investor
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+sadar bahwa kegiatan tanggung
+jawab sosial perusahaan dapat
+dijadikan standar penilaian baik
+buruknya perusahaan. Perusahaan
+yang baik tidak hanya berorientasi
+pada profit perusahaan, akan tetapi
+perusahaan yang baik adalah yang
+perduli
+terhadap
+lingkungan.
+Keperdulian
+yang
+ditunjukkan
+perusahaan
+merupakan
+bukti
+kesadaran
+perusahaan,
+sesuai
+dengan teori legitimasi perusahaan
+merupakan salah satu bagian dari
+sistem sosial masyarakat, sehingga
+perusahaan wajib ikut serta dalam
+menjaga kondisi lingkungan.
+Teori stakeholder menyatakan
+bahwa
+dunia
+usaha
+memiliki
+multiplisitas kepentingan termasuk
+stakeholder,
+suplier,
+karyawan,
+komunitas lokal dan masyarakat.
+Perusahaan yang menjalankan bisnis
+harus memperhatikan kepentingan
+pihak lain di luar perusahaan yang
+berpeluang
+merasakan
+dampak
+aktivitas yang dilakukan perusahaan.
+Lang dan Lundholm (1993)
+yang
+menemukan
+bahwa
+pengungkapan sukarela (termasuk
+pengungkapan
+tanggung
+jawab
+sosial
+perusahaan)
+berasosiasi
+dengan
+kinerja
+pasar,
+tingkat
+pengungkapan yang lebih tinggi
+berasosiasi dengan kinerja pasar
+yang lebih baik. Hasil penelitian ini
+menunjukkan
+variabel
+kualitas
+tanggung jawab sosial perusahaan
+berpengaruh negatif terhadap ERC.
+Kualitas tanggung jawab sosial
+perusahaan mampu memengaruhi
+relevansi laba dalam bentuk interaksi
+negatif, artinya semakin banyak
+informasi tentang tanggung jawab
+sosial perusahaan maka yang
+diungkapkan oleh perusahaan maka
+relevansi nilai laba (value relevance)
+yang diukur dengan ERC akan
+semakin turun. Hubungan tersebut
+menunjukkan
+bahwa
+investor
+mengapresiasi kegiatan tanggung
+jawab sosial perusahaan yang
+berkualitas,
+artinya
+dalam
+pengambilan keputusan investasinya
+85
+
+tidak
+hanya
+didasarkan
+pada
+informasi finansial yang ditunjukkan
+oleh perusahaan saat ini, akan tetapi
+investor percaya bahwa perusahaan
+yang melaksanakan tanggung jawab
+sosial perusahaan dengan baik akan
+memiliki kelangsungan hidup yang
+lebih baik di masa depan.
+Hasil penelitian ini sesuai
+dengan penelitian yang dilakukan
+Sayekti (2007) dan Hidayati (2009)
+yang menemukan rendahnya korelasi
+laba dan return saham yang
+mengindikasikan bahwa informasi
+laba hanya memberikan sedikit
+informasi nilai perusahaan yang
+menunjukkan masih terdapat asimetri
+informasi yang tinggi. Pengungkapan
+tanggung jawab sosial perusahaan
+akan mengurangi asimetri infomasi
+tersebut
+sehingga
+akan
+meningkatkan nilai perusahaan di
+mata investor, meskipun laba yang
+dihasilkan oleh perusahaan saat ini
+masih rendah akan tetapi investor
+memiliki
+kepercayaan
+bahwa
+perusahaan yang melaksanakan
+tanggung jawab sosial perusahaan
+dengan
+baik
+akan
+memiliki
+kelangsungan hidup perusahaan
+yang lebih baik di masa depan.
+Hasil penelitian ini berbeda
+dengan hasil penelitian Widyastuti
+(2002) dan Adhariani (2005) yang
+menemukan luas pengungkapan
+tanggung jawab sosial perusahaan
+berpengaruh positif terhadap ERC,
+investor
+kurang
+mengapresiasi
+pengungkapan
+tanggung
+jawab
+sosial perusahaan yang dilakukan
+perusahaan. Hal tersebut berbeda
+dengan kondisi saat ini di mana
+pelaksanaan tanggung jawab sosial
+perusahaan bukan hanya merupakan
+wacana bagi perusahaan yang
+bersifat sunnah untuk dikerjakan
+akan tetapi menjadi kewajiban yang
+ditetapkan pemerintah melalui UU
+No. 40 tahun 2007 yang menyatakan
+bahwa setiap perusahaan yang
+bergerak di bidang atau berkaitan
+dengan sumberdaya alam wajib
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+melaksanakan
+sosial.
+
+tanggung
+
+jawab
+
+pengarahan
+penyusunan.
+
+demi
+
+perbaikan
+
+KESIMPULAN
+
+DAFTAR PUSTAKA
+
+Tujuan
+dilakukannya
+penelitian ini adalah untuk menguji
+bagaimana pengaruh risiko, leverage,
+peluang pertumbuhan, persistensi
+laba dan kualitas Corporate Social
+Resposibility
+terhadap
+Earning
+Response
+Coefficient
+pada
+perusahaan high profile. Simpulan
+dari penelitian ini adalah berdasarkan
+bukti
+empiris
+penelitian
+ini
+mendukung hipotesis yang diajukan
+yang menyatakan bahwa risiko,
+leverage, peluang pertumbuhan,
+persistensi
+laba
+dan
+kualitas
+Corporate
+Social
+Resposibility
+berpengaruh
+secara
+simultan
+terhadap ERC. Sedangkan hasil
+pengujian
+secara
+parsial
+menunjukkan bahwa risiko, leverage,
+Kualitas tanggung jawab sosial
+perusahaan
+berpengaruh negatif
+terhadap ERC, sedangkan peluang
+pertumbuhan, persistensi laba tidak
+berpengaruh terhadap ERC.
+Hasil penelitian menunjukkan
+adjusted R Square 21,5% angka ini
+menunjukkan bahwa masih banyak
+hal-hal di luar variabel yang diteliti
+yang
+memengaruhi
+variabel
+dependen, untuk itu disarankan bagi
+penelitian selanjutnya memasukkan
+variabel-variabel
+lain
+yang
+memengaruhi ERC seperti firm size
+dan kualitas auditor.
+
+Ali, A. Dan P. Zarowin. 1992. The
+role of earning level in annual
+earning-return studies. Journal
+of Accounting and Economics.
+Vol. 30 No. 2 Hal. 6-10
+Ambarwati, Sri. 2008. Earning
+Response Coefficient. Jurnal
+Akuntansi (online). Vol. 7 No. 2.
+Hal 128-134
+Collins, Daniel W and Kothari. 1994.
+Lack of timeliness noise as
+explanations for the low
+contemporaneous
+returnearnings associations. Journal
+of Accounting (online).
+Freeman, Robert. et al. 2002. Do
+Firm-Specific
+ERCs
+Help
+Explain Price Responses to
+Earnings News?. Journal of
+Accounting (online).
+Gernon dan Meek. 2007. Akuntansi
+Perspektif
+Internasional.
+Yogyakarta: Andi.
+Hackston, D and Milne, M, J. 1996,
+Some Determinants of Social
+and Environmental Disclosures
+in New Zealand Companies.
+Accounting,
+Auditing
+and
+Accountability Journal (online),
+vol 9 no 1 pp 77-108.
+Hidayati, Nayla Nuur dan Sri Murni.
+2009. Pengaruh pengungkapan
+Corporate Social Responsibility
+terhadap Earning Response
+Coefficient pada perusahaan
+High profile. Jurnal akuntansi
+(Online). Vol.11 No. 1. Hal 1-18
+Hapsari, Rekyan Shinta. 2010.
+Analysis the factors that
+influence Earnings Response
+Coefficient (ERC)
+in the
+manufacturing company listed
+in Indonesia stock exchange.
+Jurnal akuntansi (Online).
+Kartadjumena,
+Eriana.
+2010.
+Pengaruh Voluntary Disclosure
+of Financial Information dan
+CSR
+Disclosure
+Terhadap
+
+UCAPAN TERIMA KASIH
+Dalam penyelesaian tulisan
+ini tidak terlepas dari bantuan dan
+dukungan dari beberapa pihak.
+Ucapan terima kasih ditujukan
+kepada Dra. Hariyati, Ak., M. Si.
+selaku dosen pembimbing. Dr. Dian
+Anita N. S.E., Ak., M. Si dan Ulil
+Hartono, S.E., M. Si selaku dosen
+penguji,
+yang
+telah
+bersedia
+memberikan
+bantuan
+dan
+
+86
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Ely Imroatussolihah; Pengaruh Risiko, Leverage ...
+
+Earning Response Coefficient.
+Jurnal akuntansi (Online).
+Lang, Mark and Lundholm, Russel.
+1993.
+Cross-Sectional
+Determinants of Analist Ratings
+of
+Corporate
+Disclosure.
+Journal of Accounting (online),
+Vol 31, No. 2.
+Pernyataan
+Standar
+Akuntansi
+Keuangan no. 1 tahun 2010
+tentang
+penyajian
+laporan
+keuangan, (online).
+Sayekti, Yosefa dan Ludovicus Sensi.
+2007. Pengaruh Corporate
+Social Resposibility Disclosure
+Terhadap ERC: Suatu Studi
+Empiris pada Perusahaan yang
+terdaftar Pada BEJ. Simposium
+Nasional Akuntansi X Makasar
+(online).
+Scott, William R. 2003. Financial
+Accounting Theory. Toronto:
+Prentice hall.
+Utamaningtias, Tri Hesti. 2010. The
+Relationship
+between
+Corporate Social Responsibility
+and
+Earnings
+Response
+Coefficient:
+Evidence
+from
+Indonesian Stock Exchange.
+Jurnal akuntansi (Online).
+Widiastuti, Harjanti. 2002. Pengaruh
+Luas
+Ungkapan
+Sukarela
+dalam
+Laporan
+Tahunan
+terhadap Earning Response
+Coefficient (ERC). Simposium
+Nasional Akuntansi V.
+
+87
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+

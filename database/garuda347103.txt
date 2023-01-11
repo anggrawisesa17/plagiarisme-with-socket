@@ -1,0 +1,1247 @@
+ANALISIS ATAS PRAKTEK TAM (TECHNOLOGY ACCEPTANCE MODEL)
+DALAM MENDUKUNG BISNIS ONLINE DENGAN MEMANFAATKAN
+JEJARING SOSIAL INSTAGRAM
+Aditya Arie Hanggono
+Siti Ragil Handayani
+Heru Susilo
+Fakultas Ilmu Administrasi
+Universitas Brawijaya
+Email : Aditya4r1eh@gmail.com
+Abstract
+The aim of research is to Know and explain the influence of perceived ease of use Instagram for perceived
+usefulness, the influence of perceived ease of use Instagram to Attitude Toward Using. Know and explain the
+effect of the perceived usefulness Instagram to Attitude Toward Using, the influence of Attitude Toward Using
+to behavioral intention, influence behavioral intention Instagram to the actual system usage. population in
+this study is a Business Administration student who is currently studying UB thesis and determined 85 persons
+as research samples. Methods of sample selection was done by purposive sampling is not random sample
+selection which information is obtained with certain considerations. The analysis technique used is path
+analysis. From the analysis path can be concluded that: Variable Perceived ease of use positive significant
+effect on the Perceived Usefulness. Variable perceived ease of use have a significant positive effect Usage
+attitude toward using, Variable perceived usefulness have a significantly positive effect on the attitude toward
+using, Variable attitude toward using has a positive significant effect on the behavioral intention use, Variable
+behavioral intention use have a significantly positive effect on the actual system usage with t value 14.829
+sig. t of 0.000.
+Keyword : Perceived Ease Of Use, Perceived Usefulness, Attitude Toward Using, Behavioral Intention,
+Actual System Usage
+Abstrak
+Tujuan penelitian adalah untuk Mengetahui dan menjelaskan pengaruh peresepsi kemudahan penggunaan
+Instagram terhadap peresepsi kemanfaatan Instagram. Mengetahui dan menjelaskan pengaruh peresepsi
+kemudahan penggunaan Instagram terhadap Sikap Penggunaan Instagram. Mengetahui dan menjelaskan
+pengaruh peresepsi kemanfaatan Instagram terhadap Sikap Penggunaan Instagram. Mengetahui dan
+menjelaskan pengaruh Sikap Penggunaan jejaring sosial Instagram terhadap perilaku untuk menggunakan
+Instagram, Mengetahui dan menjelaskan pengaruh perilaku untuk mengggunakan Instagram terhadap
+kondisi nyata penggunaan sistem. Populasi dalam penelitian ini adalah mahasiswa Ilmu Administrasi Bisnis
+Universitas Brawijaya yang sedang menempuh skripsi dan ditentukan 85 orang sebagai sampel penelitian.
+Dari hasil analisis path dapat disimpulkan bahwa: Variabel peresepsi Kemudahan Penggunaan berpengaruh
+signifikan positif terhadap Peresepsi Kemanfaatan, Variabel peresepsi kemudahan penggunaan memiliki
+pengaruh signifikan positif terhadap Sikap Penggunaan, Variabel peresepsi kemanfaatan memiliki pengaruh
+signifikan positif terhadap Sikap Penggunaan, Variabel Sikap Penggunaan memiliki pengaruh signifikan
+positif terhadap perilaku untuk menggunakan, Variabel perilaku untuk mengggunakan memiliki pengaruh
+signifikan positif terhadap kondisi nyata penggunaan sistem dengan nilai t hitung 14.829 pada sig. t sebesar
+0,000.
+Kata kunci : Peresepsi Kemudahan Penggunaan, Peresepsi Kemanfaatan, Sikap Penggunaan, Perilaku
+Untuk Menggunakan, Kondisi Nyata Penggunaan Sistem.
+
+Jurnal Administrasi Bisnis (JAB)|Vol. 26 No. 1September2015|
+administrasibisnis.studentjournal.ub.ac.id
+
+1
+
+PENDAHULUAN
+Konsep TAM menawarkan sebuah teori
+sebagai landasan untuk mempelajari dan memahami
+perilaku
+pemakai
+dalam
+menerima
+dan
+menggunakan sistem informasi, konsep yang
+digunakan adalah peresepsi kemanfaatan
+(perceived usefulness), peresepsi kemudahan
+penggunaan (perceive ease of use) minat
+perilaku untuk menggunakan (behavioral
+intention to use), dan kondisi nyata
+penggunaan sistem (actual system usage)
+(Davis,1989).
+Model ini memiliki tujuan untuk menjelaskan
+faktor-faktor kunci dari perilaku pengguna
+teknologi
+informasi
+terhadap
+penerimaan
+pengadopsian teknologi informasi tersebut (Ferda,
+2011; Seeman, 2009). Perluasan konsep TAM
+diharapkan akan membantu memprediksi sikap dan
+penerimaan seseorang terhadap teknologi dan dapat
+memberikan informasi mendasar yang diperlukan
+mengenai faktor-faktor yang menjadi pendorong
+sikap individu tersebut (Rose, 2006; Lee, 2010).
+TAM berteori bahwa niat seseorang untuk
+menggunakan sistem atau teknologi ditentukan oleh
+dua faktor, yaitu peresepsi kemanfaatan (perceived
+usefulness), adalah tingkat kepercayaan individu
+bahwa penggunaan teknologi akan meningkatkan
+kinerjanya, dan peresepsi kemudahan penggunaan
+(perceived ease of use), adalah tingkat kepercayaan
+individu bahwa penggunaan teknologi membuatnya
+lebih mudah menyelesaikan pekerjaan (Venkatesh
+dan Davis, 2000).
+Penelitian model TAM dilakukan oleh Akbar
+(2013) dengan menggunakan 5 konsep yaitu
+peresepsi kemudahan, peresepsi kemanfaatan,
+sikap penggunaan, minat perilaku untuk
+menggunakan dan kondisi nyata penggunaan
+system. Penelitian senada dilakukan oleh Dewi
+(2010) juga menggunakan 5 konsep tersebut
+dengan tujuan untuk mengetahui pengaruh konstruk
+utama Technology Acceptance Model (TAM)
+terhadap penerimaan dan penggunaan situs jejaring
+sosial di kalangan mahasiswa. Penelitian lain
+terkait model TAM dilakukan oleh Devi dan
+Suartana (2014) bertujuan untuk mengetahui
+pengaruh personalization, computer self efficacy,
+dan trust terhadap penggunaan system informasi
+dengan konsep Technology Acceptance Model
+(TAM), yaitu dengan melihat pengaruh ketiga
+variable tersebut kepada dua factor kunci
+(perceived usefulness dan perceived ease of use).
+Penelitian ini menggunakan 5 konstruk
+yang seperti pada penelitian terdahulu, yaitu :
+peresepsi kemanfaatan (perceived usefulness),
+
+peresepsi kemudahan penggunaan (perceive
+ease of use), sikap penggunaan (Attitude Toward
+Using), minat prilaku untuk menggunakan
+(behavioral intention to use), kondisi nyata
+penggunaan sistim (actual system usage).
+Berdasarkan uraian di atas, maka
+peneliti tertarik untuk melakukan penelitian
+dengan judul “ANALISIS ATAS PRAKTEK
+TAM
+(TECHNOLOGY
+ACCEPTANCE
+MODEL) DALAM MENDUKUNG BISNIS
+ONLINE DENGAN MEMANFAATKAN
+JEJARING SOSIAL INSTAGRAM”
+Tujuan Penelitian:
+Mengetahui dan menjelaskan pengaruh
+peresepsi kemudahan penggunaan (perceive ease of
+use) jejaring sosial Instagram terhadap peresepsi
+kemanfaatan (perceived usefulness) jejaring sosial
+Instagram, Mengetahui dan menjelaskan pengaruh
+peresepsi kemudahan penggunaan (perceive ease of
+use) jejaring sosial Instagram terhadap Sikap
+Penggunaan (Attitude Toward Using) jejaring sosial
+Instagram, Mengetahui dan menjelaskan pengaruh
+peresepsi kemanfaatan (perceived usefulness)
+jejaring sosial Instagram
+terhadap Sikap
+Penggunaan (Attitude Toward Using) jejaring sosial
+Instagram, Mengetahui dan menjelaskan pengaruh
+Sikap Penggunaan (Attitude Toward Using) jejaring
+sosial Instagram terhadap perilaku untuk
+menggunakan (behavioral intention use) jejaring
+sosial Instagram, Mengetahui dan menjelaskan
+pengaruh
+perilaku untuk mengggunakan
+(behavioral intention use) jejaring sosial Instagram
+terhadap kondisi nyata penggunaan sistem (actual
+system usage).
+TINJAUAN PUSTAKA
+1. Marketing Online
+Kotler (2005:82) mendefinisikan internet
+marketing merupakan proses dalam membangun
+dan mempertahankan customer relationship melalui
+aktivitas online yang merupakan produk, pertukaran
+ide, dan jasa yang dapat memenuhi kepuasan
+pelanggan.dalam definisi ini terlihat pada internet
+marketing terkadang aktivitas yang berupa transaksi
+online, baik ide, produk jasa yang berujung pada
+kepuasan pelanggan. Definisi ini merupakan
+pengembangan dari definisi marketing sendiri yang
+mencakup seperti proses, produk, transaksi, jasa dan
+kepuasan
+pelanggan.
+Penekanan
+transaksi
+ditekankan oleh Kotler. Oleh karena itu, perusahaan
+yang hanya sekedar menempel profil perusahaan di
+internet tidak disinggung di bukunya, karna
+perusahaan ini hanya menjalankan usahanya.
+Jurnal Administrasi Bisnis (JAB)|Vol. 26 No. 1September2015|
+administrasibisnis.studentjournal.ub.ac.id
+
+2
+
+2. Instagram
+Instagram merupkan aplikasi berbagi foto yang
+dapat dilihat oleh Followers dari peng-upload foto
+tersebut dan dapat saling berkomentar antara
+sesama pengguna. Nama Instagram berasal dari
+insta dan gram, “insta” yang berasal dari kata instant
+dan “gram” yang berasal dari telegram, dapat
+disimpulkan dari namanya yang dapat diartikan
+menginformasikan atau membagikan foto kepada
+orang lain dengan cepat dan praktis. sesuatu yang
+unik dari Instagram adalah foto yang berbentuk
+persegi, terlihat seperti kamera Polaroid dan kodak
+Instamatic bukan seperti foto umumnya yang
+menggunakan rasio.
+3. TAM
+Metode TAM pertama kali diperkenalkan
+oleh Davis pada tahun 1989. TAM adalah teori
+sistem informasi yang membuat model tentang
+proses
+pengguna
+mau
+menerima dan
+menggunakan teknologi. Model ini menjelaskan
+bahwa ketika pengguna menggunakan sistem
+informasi, sejumlah faktor mempengaruhi
+keputusan mereka mengenai bagaimana dan
+kapan menggunakan sitem informasi tersebut.
+Model TAM diadopsii dari model The Theory
+of Reasoned Action (TRA), yaitu teori tindakan yang
+beralasan yang dikembangkan oleh Fishben dan
+Ajzen (1975), dengan satu premis bahwa reaksi dan
+peresepsi seseorang terhadap sesuatu hal akan
+menentukan sikap dan prilaku orang tersebut. Teori
+ini membuat model prilaku seseorang sebagai suatu
+fungsi dari tujuan prilaku . Tujuan prilaku di
+tentukan oleh sikap atas perilaku tersebut
+(Sarana,2000:1). Dapat disimpulkan reaksi dan
+peresepsi pengguna TI akan mempengaruhi
+sikapnya dalam penerimaan penggunaan TI, yaitu
+salah satu factor yang mempengaruhi adalah
+peresepsi pengguna atas kemanfaatan dan
+kemudahan penggunaan TI sebagai suatu tindakan
+yang beralasaan dalam konteks penggunaa TI, maka
+dari itu alasan seseorang dalam melihat manfaat dan
+kemudahan penggunaan TI menjadikan tindakan
+orang tersebut dapat menerima penggunaan TI.
+a.
+
+Peresepsi
+Kemanfaatan
+Penggunaan
+(Usefulness)
+Peresepsi kemanfaatan (perceived usefulness)
+merupakan suatu tingkatan dimana seseorang
+percaya bahwa pengguna suatu sistem tertentu akan
+meningkatkan prestasi kerja orang tersebut.
+Berdasarkan definisi tersebut diartikan bahwa
+kemanfaatan dari penggunaan TIK dapat
+meningkatkan kinerja, prestasi kerja orang yang
+menggunakannya.
+Thompsonet.
+al
+(1991)
+
+menyimpulkan kemanfaatan teknologi informasi
+merupakan manfaat yang diharapkan oleh pengguna
+teknologi informasi untuk melaksanakan tugas.
+Thompson (1991) juga menyebutkan bahwa
+seorang individu akan menggunakan TIK jika orang
+tersebut mengetahui manfaat atau kegunaan
+berpengaruh positif atas penggunaanya.
+Menurut Chin dan Todd (1995) kemanfaatan
+dapat dibagi kedalam dua kategori, antara lain (1)
+Kemanfaatan dengan estimaasi satu faktor, (2)
+kemanfaatan dengan estimasii dua faktor
+(kemanfaatan dan efektifitas). Dimensi-dimensi
+masing-masing yang dikelompokkan sebagai
+berikut:
+1)
+Kemanfaatan mencakup dimensi : membuat
+pekerjaan lebih mudah (makes job easier),
+Bermanfaat (usefull), meningkatkan produktifitas
+(Increase productivity).
+2)
+Efektifitas
+mencakup
+dimensi
+:
+meningkatkan
+efektifitas
+(enchance
+my
+effectiveness), mengembangkan kinerja pekerjaan
+(improve my job performance).
+b.
+Peresepsi
+Kemudahan
+Penggunaan
+(Perceived Ease of Use)
+Davis (1989) mendefinisikan kemudahan
+penggunaan (perceived ease ofuse) adalah suatu
+tingkatan dimana seseorang mempercayai bahwa
+penggunaan system tertentu dapat mengurangi
+usaha seseorang dalam mengerjakan sesuatu.
+Menurut Goodwin (1987) dan Silver (1988) dalam
+Maskur (2005), intensitas penggunaan dan interaksi
+antara pengguna (user) dengan sistem dapat
+menunjukan tingkat kemudahan penggunaan.
+Davis (1989) memberikan beberapa indikator
+kemudahan penggunaan TI antara lain meliputi; (1)
+Komputer sangat mudah dipelajari, (2) Komputer
+mengerjakan dengan mudah sesuai yang diinginkan
+oleh pengguna (3) Keterampilan pengguna akan
+bertambah dengan menggunakan komputer (4)
+Komputer sangat mudah untuk dioperasikan.
+Temuan studi Iqbaria (1994) membuktikan bahwa
+TI digunakan bukan mutlak karena adanya tekanan
+sosial, sehingga dapat disimpulkan bahwa
+penggunaan TI bukan karena adanya unsur tekanan,
+tetapi karena memang mudah untuk digunakan.
+c. Sikap Terhadap Penggunaan (Attitude
+Toward Using)
+Sikap pada penggunaan sesuatu menurut
+Aakers dan Myers (1997) adalah sikap menyukai
+atau tidak menyukai terhadap penggunaan dalam
+suatu produk. adalah sikap menyukai atau tidak
+menyukai terhadap suatu produk ini dapat
+digunakan untuk memprediksii perilaku niat
+Jurnal Administrasi Bisnis (JAB)|Vol. 26 No. 1September2015|
+administrasibisnis.studentjournal.ub.ac.id
+
+3
+
+seseorang dalam menggunakan suatu produk atau
+tidak menggunakannya. Sikap terhadap penggunaan
+teknologii (attitude toward usingtechnology),
+didefinisikan sebagai evaluasi dari pemakai tentang
+ketertarikannya dalam menggunakan teknoologi
+(Davis, 1989).
+d. Minat Perilaku Penggunaan (Behavioral
+Intention to Use)
+Behavioral
+intention
+to
+use
+adalah
+kecenderungan perilaku untuk tetap menggunakan
+suatu teknologi (Davis, 1989). Tingkat penggunaan
+sebuah teknologi komputer pada seseorang dapat
+diprediksi dari sikap perhatian pengguna terhadap
+teknologi tersebut, misalkan keinginan menambah
+peripheral yang mendukung, motivasi untuuk tetap
+menggunakan, dan keinginan untuk memotivasi
+pengguna lainya. Arief Hermawan (2008) dalam
+Suseno (2009) mendefinisikan bahwa minat
+perilaku menggunakan teknologi (behavioral
+intention to use) sebagai minat (keinginan)
+seseorang untuk melakukan perilaku tertentu.
+e. Penggunaan Senyatanya (Actual Use)
+Penggunaan senyataanya (actual system usage)
+merupakan kondisi nyata penggunaan sistem
+(Davis,1989). Individu akan puas menggunakan
+sistem jika meyakini bahwa sistem tersebut mudah
+digunakan
+dan
+dapat
+meningkatkan
+produktifitasnya, yang tercermin dari kondisi nyata
+penggunaan (Natalia Tangke, 2004). Bentuk
+pengukuran penggunaan senyatanya (actual system
+usage) merupakan frekuensi dan durasi waktu
+penggunaan terhadap TIK. Penggunaan teknologi
+sesungguhnya (actual technology use), diukur
+dengan jumlah waktu yang digunakan untuk
+berinteraksi dengan teknologi dan frekuensi
+penggunaan teknologi tersebut.
+
+HIPOTESIS PENELITIAN
+H1 :Terdapat pengaruh yang signifikan positif
+Peresepsi Kemudahan Penggunaan Perceived Ease
+Of Use) terrhadap Peresepsi Kemanfaatan
+(Perceived Usefulness)
+H2 : Terdapat pengaruh yang signifikan positif
+peresepsi kemudahan penggunaan (perceive ease of
+use) terhadap Sikap Penggunaan (Attitude Toward
+Using)
+H3 : Terdapat pengaruh yang signifikaan
+positif
+peresepsi
+kemanfaatan
+(perceived
+usefulness) terhadap Sikap Penggunaan (Attitude
+Toward Using)
+H4 : Terdapat pengaruh yang signifiikan
+positif Sikap Penggunaan (Attitude Toward Using
+
+terhadap perilaku untuk menggunakan (behavioral
+intention use)
+H5: Terdapat pengaruh yang signifikan
+positiif
+minat perilaku untuk mengggunakan
+(behavioral intention use) terhadap kondisi nyata
+penggunaan sistem (actual system usage)
+METODE PENELITIAN
+Jenis penelitian: jenis penelitian explanatory
+(penjelasan)
+merupakan
+penelitiaan
+yang
+dilakukaan dengann cara menjelaskan hubungan
+kausal antara variabel-variabel melalui pengujian
+hipotesis (Singarimbun, 2006:4).
+Tabel 1 Konsep, Variabel, Indikator dan Item
+Variabel
+
+Peresepsi
+kemudahan
+penggunaan
+(Perceived
+Ease Of
+Use)
+
+Peresepsi
+kemanfaat
+an
+(perceived
+usefulness
+)
+
+Indikator
+Mempelajari
+Instagram mudah
+
+Item
+1. Fitur-fitur yang ada dalam
+Instagram tidak asing saat
+mencoba pertama kali
+
+Mengunakan
+Instagram mudah
+
+1. Kemudahan mendaftar instagram
+2. Kemudahan
+meng
+upload/mengunggah foto
+3. Mudah dalam mencari informasi
+yang diinginkan
+4. Mudah dalam berinteraksi dengan
+user lain dengan memanfaatkan
+fitur tombol like/love
+1. Memberikan komentar dalam
+foto yang ditampilkan dapat
+dengan mudah dibalas oleh user
+
+Interaksi dapat
+dengan jelas dan
+terpahami
+Mudah
+beradaptasi
+
+1.
+
+Keseluruhan
+mudah digunakan
+
+1. Secara keseluruhan, instagram
+mudah
+digunakan
+dalam
+melaksanakan bisnis online
+
+Peningkatan
+performa kinerja
+
+1. Menggunakan Instagram dengan
+fitur Following dan Follower dapat
+meningkatkan produktifitas dalam
+bisnis online
+2. Seringnya aktif dalam meng
+upload foto akan meningkatnya
+banyaknya follower atau calon
+pembeli dalam bisnis online
+3. banyaknya efek foto yang dapat
+ditampilkan dapat meningkatkan
+perhatian dari user lain
+1. Tidak menghabiskan banyak biaya
+dalam menggunakan instagram
+2. Dengan memanfaatkan hashtag
+mempercepat dan mempermudah
+mempromosikan produk bisnis
+3. Dengan banyaknya Follower akan
+berdampak pada kepercayaan user
+lain
+1. Fitur dalam Instagram lebih
+simple dari pada jejaring sosial
+lain dalam melakukan interaksi
+dengan user lain
+1. Kemudahan dalam melakukan
+komunikasi dengan pengguna lain
+dengan
+memanfaatkan
+fitur
+Direct Instagram
+1. Fitur-fitur dan tampilan visual
+dalam Instagram sangat menarik
+
+Peningkatan
+efektivitas
+kinerja
+
+Menyederhanaka
+n proses kinerja
+
+Sikap
+Penggunaa
+n (Attitude
+Toward
+Using)
+
+Kenyamanan
+berinteraksi
+Senang
+menggunakan
+Menikmati
+penggunaan
+
+Mudah mendapatkan teman baru
+dan
+inspirasi
+dalam
+mengembangkan produk bisnis
+
+1. Tampilan kualitas visual produk
+bisnis menyenangkan karena dapat
+dilihat dengan jelas
+
+Jurnal Administrasi Bisnis (JAB)|Vol. 26 No. 1September2015|
+administrasibisnis.studentjournal.ub.ac.id
+
+4
+
+Tidak
+membosankan
+Mempunyai fitur
+yang membantu
+
+Perilaku
+Untuk
+Tetap
+Menggunak
+an
+(Behavioral
+Intention
+To Use)
+
+Selalu mencoba
+menggunakan
+Berlanjut dimasa
+dating
+
+Kondisi
+Nyata
+Penggunaa
+n Sistem
+(Actual
+System
+Usage)
+
+Frekuensi
+dan
+durasi
+waktu
+penggunaan
+terhadap TIK
+Penggunaan
+teknologi
+sesungguhnya
+dalam
+praktek
+(actual
+technology use)
+
+2. Mudah
+untuk
+memberikan
+komentar dalam foto yang
+ditampilkan
+1. Tampilan foto yang simpel dan
+dengan kualitas foto yang baik
+tidak membuat pusing untuk
+dilihat
+1. Apabila digunakan untuk media
+bisnis online memudahkan untuk
+pengenalan produk
+2. Fitur-fitur yang ada dalam instag
+ram
+dapat
+mempermudah
+pengguna lain untuk membeli
+produk
+3. Dengan memanfaatkan hashtag
+dapat
+memudahkan
+mencari
+ataupun mempromosikan produk
+bisnis
+1. Sekali menggunakan insta-gram,
+akan timbul keinginan untuk terus
+menggunakannya dalam bisnis
+online
+1. Fitur-fitur dalam instagram dapat
+dikembangkan
+lagi
+untuk
+kepentingan
+lain
+dalam
+penggunaannya
+1. Apakah hampir setiap hari
+membuka instagram
+2. menghabiskan waktu Berapa menit
+tiap mengoperasikannya
+1. Instagram merupakan salah satu
+bentuk teknologi canggih dalam
+mendukung praktek bisnis online
+dengan memanfaatkan jejaring
+sosial
+
+Populasi Dan Sampel:
+Populasi dalam penelitian ini adalah
+mahasiswa Ilmu Administrasi Bisnis Universitas
+Brawijaya yang sedang menempuh skripsi. Metode
+pemilihan sampel dilakukan dengan cara purposive
+sampling yaitu pemilihan sampel secara tidak acak
+yang informasinya diperoleh dengan pertimbangan
+tertentu yang pada umumnya disesuaikan dengan
+tujuan atau masalah tertentu. Pertimbangan tersebut
+diantaranya adalah: 1) Ilmu Administrasi
+Universitas Brawijaya yang sedang menempuh
+skripsi; (2)
+Memanfaatkan jejaring sosial
+instagram.
+Jumlah populasi belum diketahui dengan
+pasti jumlahnya karena mahasiswa yang sedang
+menempuh skripsi dan memanfaatkan jejaring
+sosial instagram belum diketahui, maka jumlah
+sampel
+ditentukan
+semaksimal
+mungkin
+berdasarkan pendapat Ferdinand (2002), yang
+mengemukakan bahwa jumlah sampel ditentukan
+dengan jumlah indikator dikali lima sampai
+sepuluh. Penelitian ini menggunakan 17 indikator
+dengan perbandingan 1 : 5 responden, sehingga 17
+indikator x 5 responden = 85 responden (Ferdinand,
+2002). Jadi, jumlah sampel penelitian ini adalah 85
+
+responden dengan harapan jumlah sampel tersebut
+dapat mewakili seluruh populasi yang ada
+Teknik Analisis Data
+1. Analisis Statistik Deskriptif
+Statistik deskriptif dapat digunakan untuk
+menganalisis data dengan mendeskripsikan atau
+menggambarkan data yang telah terkumpul
+sebagaimana adanya tanpa bermaksudd membuat
+kesimpulan yang berlaku untuuk umum atau
+generalisasi (Sugiyono, 2012:147). Teknik analisis
+yang digunakan untuk mendeskripsikan data adalah
+presentase dan rata-rata.
+2. Analisis Statistik Inferensial
+Teknik statistik inferensial biasa digunakan
+untuk penelitian ini yaitu analisis jalur (path
+analysis). Model analisis jalur (path analysis)
+digunakan untuk menganalisis pola hubungan antar
+variable dengan tujuan untuk mengetahui pengaruh
+langsung maupun tidak langsung seperangkat
+variable bebas (eksogen) terhadap variable terikat
+(endogen) (Riduwan dan Kuncoro, 2006:2). Dengan
+menggunakan analisis jalur dapat diketahui
+pengaruh langsung dan tidak langsung antar
+variabel. Pengaruh langsung berarti arah hubungan
+antara dua variabel langsung tanpa melewati
+variabel yang lain, sementara hubungan tidak
+langsung harus melewati variabel yang lain.
+HASIL DAN PEMBAHASAN
+1. Pengaruh peresepsi kemudahan penggunaan
+(perceive ease of use) jejaring sosial Instagram
+terhadap peresepsi kemanfaatan (perceived
+usefulness) jejaring sosial Instagram
+Tabel 2 Rekapitulasi Hasil Sub struktur 1: X1
+terhadap X2
+Variabel
+
+peresepsi
+kemudahan
+penggunaan
+(perceive ease
+use) (X1)
+R2 : 0.558
+
+Standardized
+Coefficients
+
+t hitung
+
+Sig.
+
+Keterangan
+
+0.747
+
+10.229
+
+0.000
+
+Signifikan
+
+of
+
+Sumber: Data primer diolah, 2015.
+Keterangan: Variabel endogen
+adalah
+peresepsi kemanfaatan (perceived usefulness)
+Variabel peresepsi kemudahan penggunaan
+(perceive ease of use) memiliki nilai t hitung 10.229
+pada sig. t sebesar 0,000 yang menghasillkan
+kepuutusan terhadapp Ho ditolak dikarenakan nilai
+sig. t kurang dari 0,05 artinya koefisien analisis jalur
+adalah signifikan. Dengan demikian variabel
+peresepsi kemudahan penggunaan (perceive ease of
+use) memiliki pengaruh signifikan terhadap
+Jurnal Administrasi Bisnis (JAB)|Vol. 26 No. 1September2015|
+administrasibisnis.studentjournal.ub.ac.id
+
+5
+
+peresepsi kemanfaatan (perceived usefulness)
+sehingga H1 :Terdapat pengaruh signifikan positif
+Peresepsi Kemudahan Penggunaan (Perceived
+Usefulness) terhadap Peresepsi Kemanfaatan
+(Perceived Ease Of Use) dapat diterima.
+2. Pengaruh peresepsi kemudahan penggunaan
+(perceive ease of use) jejaring sosial Instagram
+terhadap sikap penggunaan (Attitude Toward
+Using) jejaring sosial Instagram
+
+peresepsi kemanfaatan (perceived usefulness)
+(X2) memiliki pengaruh signifikan terhadap sikap
+penggunaan (Attitude Toward Using) sehingga H3
+:Terdapat pengaruh signifikan positif peresepsi
+kemanfaatan (perceived usefulness) terhadap
+sikap penggunaan (Attitude Toward Using) dapat
+diterima.
+4. Pengaruh sikap penggunaan (Attitude Toward
+Using) jejaring sosial Instagram terhadap
+perilaku untuk menggunakan (behavioral
+intention to use)
+
+Tabel 4 Rekapitulasi hasil Sub struktur 2 X1
+terhaddap X3
+Variabel
+
+peresepsi
+kemudahan
+penggunaan
+(perceive ease of
+use) (X1)
+R2 : 0.600
+
+Standardized
+Coefficients
+
+t hitung
+
+Sig.
+
+Keterangan
+
+0.774
+
+11.148
+
+0.000
+
+Signifikan
+
+Sumber: Data primer diolah, 2015.
+Keterangan: Variabel endogen
+adalah sikap
+penggunaan (Attitude Toward Using) (X3)
+Variabel peresepsi kemudahan penggunaan
+(perceive ease of use) (X1) memiliki nilai t hitung
+11.148 pada sig. t sebesar 0,000 menghasilkan
+keputusan terhadap Ho ditolak dikarenakann nilai
+sig. t kurangg dari 0,05 artinya koefiisien analisis
+jalur adalah siggnifikan. Dengan demikian variabel
+peresepsi kemudahan penggunaan (perceive ease of
+use) memiliki pengaruh signifikan terhadap sikap
+penggunaan (Attitude Toward Using) sehingga H2
+:Terdapat pengaruh signifikan positif Peresepsi
+Kemudahan Penggunaan (Perceived Usefulness)
+terhadap sikap penggunaan (Attitude Toward
+Using) dapat diterima.
+3. Pengaruh peresepsi kemanfaatan (perceived
+usefulness) (X2) jejaring sosial Instagram
+terhadap sikap penggunaan (Attitude Toward
+Using) (X3) jejaring sosial Instagram
+Tabel 3 Rekapitulasi Hasil Sub struktur 3: X2
+terhadap X3
+Variabel
+
+peresepsi
+kemanfaatan
+(perceived
+usefulness)
+(X2)
+R2 : 0.455
+
+Standardized
+Coefficients
+
+t hitung
+
+0.674
+
+8.317
+
+Sig.
+
+0.000
+
+Tabel 5 Rekapitulasi Hasil Sub struktur 4: X3
+terhadap X4
+Variabel
+Standardiz t hitung Sig. Keterang
+ed
+an
+Coefficien
+ts
+
+sikap
+pengguna
+an
+14.68 0.00 Signifik
+(Attitude
+0.850
+8
+0
+an
+Toward
+Using)
+(X3)
+R2 : 0.722
+Sumber: Data primer diolah, 2015.
+Variabel sikap penggunaan (Attitude
+Toward Using) memiliki nilai t hitung 14.688 pada
+sig. t sebesar 0,000 yang menghasilkan keputusan
+terhadap Ho ditolak karena nilai sig. t kurang dari
+0,05 artinya koefisien analisis jalur adalah
+signifikan. Dengan demikian variabel sikap
+penggunaan (Attitude Toward Using) memiliki
+pengaruh signifikan terhadap perilaku untuk
+menggunakan (behavioral intention to use)
+sehingga H4 :Terdapat pengaruh signifikan positif
+sikap penggunaan (Attitude Toward Using)
+terhadap
+perilaku
+untuk
+menggunakan
+(behavioral intention to use) dapat diterima.
+
+Keterangan
+
+Signifikan
+
+Sumber: Data primer diolah, 2015.
+Variabel
+peresepsi
+kemanfaatan
+(perceived usefulness) (X2) memiliki nilai t hitung
+8.317 pada sig. t sebesar 0,000 yang menghasilkan
+keputusan terhadap Ho ditolak karena nilai sig. t
+kurang dari 0,05 artinya koefisien analisis jalur
+adalah signifikan. Dengan demikian variabel
+
+5. Pengaruh perilaku untuk mengggunakan
+(behavioral intention use) jejaring sosial
+Instagram terhadap kondisi nyata penggunaan
+sistem (actual system usage)
+Tabel 6 Rekapitulasi Hasil Sub struktur 5: X4
+terhadap X5
+Variabel
+
+perilaku
+untuk
+mengggunakan
+(behavioral
+intention use) (X4)
+R2 : 0.726
+
+Standardized
+Coefficients
+
+t hitung
+
+Sig.
+
+Keterangan
+
+0.852
+
+14.829
+
+0.000
+
+Signifikan
+
+Sumber: Data primer diolah, 2015.
+Jurnal Administrasi Bisnis (JAB)|Vol. 26 No. 1September2015|
+administrasibisnis.studentjournal.ub.ac.id
+
+6
+
+Keterangan: Variabel endogen adalah kondisi nyata
+penggunaan sistem (actual system usage)
+Variabel perilaku untuk mengggunakan (behavioral
+intention use) memiliiki nilai t hitung 14.829 pada
+sig.t sebesar 0,000 yang menghasilkann keputusan
+terhadap Ho ditolak karena nilai sig. t kurang dari
+0,05 artinya koefisien analisis jalur adalah
+siggnifikan. Dengan demikian variabel perilaku
+untuk mengggunakan (behavioral intention use)
+memiliki pengaruh signifikan terhadap kondisi
+nyata penggunaan sistem (actual system usage)
+sehingga H5: Terdapat pengaruh signifikan positif
+minat perilaku untuk mengggunakan (behavioral
+intention use) terhadap kondisi nyata penggunaan
+sistem (actual system usage) dapat diterima.
+Tabel 7 Hasil pengaruh tidak langsung
+Variabel
+
+Koefisie
+n jalur
+
+X1 – X2
+X1 – X3
+X2 – X3
+X3 – X4
+X4 – X5
+X1 – X4
+
+0,747
+0,744
+0,674
+0,850
+0,852
+-
+
+0,747
+0,744
+0,674
+0,850
+0,852
+-
+
+X1,X3 –
+X4
+
+-
+
+-
+
+Pengaruh
+Langsung
+
+Pengaruh Tidak
+Langsung melalui
+X3
+
+0,744x0,850=0,63
+2
+-
+
+Pengaruh
+Bersama
+(R2m)
+0.920
+
+Sumber: Data primer diolah, 2015
+Pembahasan Hasil Penelitian
+a. Pengaruh Peresepsi Kemudahan Penggunaan
+(Perceived Usefulness)
+terhadap Peresepsi
+Kemanfaatan (Perceived Ease Of Use)
+Dari hasil penelitian ini diketahui bahwa
+Peresepsi Kemudahan Penggunaan (Perceived
+Usefulness)
+berpengaruh signifikan positif
+terhadap Peresepsi Kemanfaatan (Perceived Ease
+Of Use), artinya semakin positif peresepsi
+mahasiswa terhadap kemudahaan penggunaan
+(Perceived Usefulness) jejaring social instagram
+maka peresepsi yang dimiliki mahasiswa tentang
+kemanfaatan (Perceived Ease Of Use) juga akan
+semakin baik. Hasil penelitian ini sesuai dengan
+penelitian Dewi (2010) dan Akbar (2013) yang
+menyatakan bahwa variabel peresepsi kemudahan
+penggunaan mempunyai pengaruh yang signifikan
+terhadap peresepsi kemanfaataan.
+b. Pengaruh peresepsi kemudahan penggunaan
+(perceive ease of use)
+terhadap Sikap
+Penggunaan (Attitude Toward Using)
+Dari hasil penelitian ini diketahui bahwa
+peresepsi kemudahan penggunaan (perceive ease of
+use) berpengaruh signifikan positif terhadap Sikap
+Penggunaan (Attitude Toward Using), artinya
+
+semakin baik peresepsi kemudahan penggunaan
+(perceive ease of use) dalam menggunakan jejaring
+social instagram maka dapat meningkatkan Sikap
+Penggunaan (Attitude Toward Using). Hasil
+Khakim (2013) dan Akbar (2013), yang
+menemukan hubungan yang signifikan antara
+peresepsi kemudahan penggunaan (perceive ease of
+use) terhadap Sikap Penggunaan (AttitudeToward
+Using).
+c. Pengaruh peresepsi kemanfaatan (perceived
+usefulness)
+terhadap Sikap Penggunaan
+(Attitude Toward Using)
+Dari hasil penelitian ini diketahui bahwa
+peresepsi kemanfaatan (perceived usefulness)
+berpengaruh signifikan positif terhadap Sikap
+Penggunaan (Attitude Toward Using), artinya
+semakin baik peresepsi kemanfaatan (perceived
+usefulness) maka dapat meningkatkan Sikap
+Penggunaan (Attitude Toward Using). Hasil
+penelitian ini sesuai hasil penelitian Dewi (2010)
+menyatakan hubungan yang signifikan antara
+peresepsi kemanfaatan (perceived usefulness)
+terhadap Sikap Penggunaan (Attitude Toward
+Using).
+Selain itu, Khakim (2013), juga
+menyatakan bahwa terdapat hubungan yang
+signifikan antara peresepsi kemanfaatan (perceived
+usefulness) terhadap Sikap Penggunaan (Attitude
+Toward Using).
+d. Pengaruh Sikap Penggunaan (Attitude Toward
+Using) jejaring sosial Instagram terhadap
+perilaku untuk menggunakan (behavioral
+intention use) jejaring sosial Instagram
+Hasil penelitian ini menunjukkan bahwa
+Sikap Penggunaan (Attitude Toward Using)
+jejaring sosial Instagram berpengaruh signifikan
+positif terhadap perilaku untuk menggunakan
+(behavioral intention use)
+jejaring sosial
+Instagram, artinya semakin baik sikap penggunaan
+(Attitude Toward Using) maka perilaku untuk
+menggunakan (behavioral intention use) juga akan
+semakin besar. Hasil penelitian ini sesuai hasil
+Dewi (2010), Akbar (2013) dan Khakim (2013)
+menyatakan pada hasil penelitiannya bahwa adanya
+hubungan positif signifikan antara sikap
+penggunaan (Attitude Toward Using) terhadap
+perilaku untuk menggunakan (behavioral intention
+use).
+e. Pengaruh perilaku untuk mengggunakan
+(behavioral intention use) jejaring sosial
+Instagram terhadap kondisi nyata penggunaan
+sistem (actual system usage)
+Hasil penelitian ini menunjukkan bahwa
+perilaku untuk mengggunakan (behavioral
+intention use)
+jejaring sosial Instagram
+Jurnal Administrasi Bisnis (JAB)|Vol. 26 No. 1September2015|
+administrasibisnis.studentjournal.ub.ac.id
+
+7
+
+berpengaruh signifikan positif terhadap kondisi
+nyata penggunaan sistem (actual system usage),
+artinya semakin tinggi kecenderungan mahasiswa
+menggunakan instagram maka akan semakin tinggi
+pula kenyataan penggunaannya. Hasil penelitian ini
+mendukung hasil penelitian Dewi (2010) dan Akbar
+(2013) bahwa minat perilaku untuk mengggunakan
+(behavioral intention use) yang
+dapat
+meningkatkan kondisi nyataa penggunaan sistim
+(actual system usage).
+f. Pengaruh
+tidakk
+langsung
+peresepsii
+kemanfaatann (perceived usefulness),
+terhadap perilaaku untuk menggunakan
+(behavioral intention to use) melalui sikap
+penggunaann (Attitude Toward Using)
+Dari hasil penelitian ini diketahui terdapat
+pengaruh tidak langsung peresepsi kemanfaatan
+(perceived usefulness), terhadap perilaku untuk
+menggunakan (behavioral intention to use)
+melalui sikap penggunaan (Attitude Toward
+Using) yaitu sebesar 0.632. Nilai ini ternyata lebih
+kecil jika dibandingkan dengan pengaruh langsung
+peresepsi kemanfaatan (perceived usefulness),
+terhadap
+perilaku
+untuk
+menggunakan
+(behavioral intention to use). Artinya, peresepsi
+kemanfaatan (perceived usefulness) sudah tinggi
+pada pengguna instagram, tetapi kalau melalui
+sikap penggunaan (Attitude Toward Using)
+pengaruhnya lebih kecil. Artinya, jika peresepsi
+kemanfaatan (perceived usefulness) tinggi
+tetapi terdapat unsur tidak suka dalam diri
+pengguna maka akan dapat menurunkan
+pengaruh peresepsi kemanfaatan (perceived
+usefulness)
+terhadap
+perilaku
+untuk
+menggunakan (behavioral intention to use).
+KESIMPULAN DAN SARAN
+Kesimpulan
+Dari hasil analisis path dapat disimpulkan bahwa:
+a. Variabel peresepsi Kemudahan Penggunaan
+(Perceived Ease Of Use) berpengaruh
+signifikan positif terhadap Peresepsi
+Kemanfaatan (Perceived Usefulness).
+b. Variabel peresepsi kemudahan penggunaan
+(perceive ease of use) memiliki pengaruh
+signifikan positif terhadap
+Sikap
+Penggunaan (Attitude Toward Using).
+c. Variabel peresepsi kemanfaatan (perceived
+usefulness) memiliki pengaruh signifikan
+positif terhadap Sikap Penggunaan (Attitude
+Toward Using).
+d. Variabel Sikap Penggunaan (Attitude
+Toward
+Using) memiliki
+pengaruh
+
+signifikan positif terhadap perilaku untuk
+menggunakan (behavioral intention use).
+e. Variabel perilaku untuk mengggunakan
+(behavioral intention use) memiliki
+pengaruh signifikan positif terhadap kondisi
+nyata penggunaan sistem (actual system
+usage).
+Saran
+Berdasarkan
+kesimpulan
+di
+atas,
+dapat
+dikemukakan saran sebagai berikut:
+Bagi pengguna jejaring sosial instagram
+1) Disarankan agar pengguna jejaring sosial
+instagram agar memanfaatkan sebaik
+mungkin fitur-fitur canggih yang terdapat
+dalam instagram.
+2) Perlunya untuk mengenali lebih mendalam
+tentang bentuk produk yang diinginkan dari
+konsumennya. yakni Pengetahuan mengenai
+merk apa saja yang beredar di pasaran yang
+membuat konsumen tidak memilih pada satu
+merk saja sehingga produsen perlu bersedia
+mengeksplorasi temuan-temuan barunya
+terlebih lagi mencipitakan trend baru atau
+inovasi yang nantinya akan mampu diminati
+oleh konsumen serta memperbanyak
+promosi dalam memasarkan produk di
+instagram.
+3) Memberikan informasi toko online sejelas
+mungkin dengan memberikan alamat toko
+maupun link jejaring sosial lain yang dapat
+dengan mudah diakses pelanggan toko
+online.
+4) Memberikan tampilan semenarik dengan
+memberkan efek-efek foto yang ada di
+instagram agar pengunjung akun toko online
+tersebut tidak bosan-bosan dalam melihat
+foto-foto produk.
+Bagi peneliti selanjutnya
+Bagi penelitian selanjutnya disarakan agar
+menambahkan variable lain diluar variabel yang
+digunakan dalam penelitian ini, ataupun
+mengkombinasikan variable-variabel baru dalam
+mengembangkan instagram sebagai media utama
+dalam mengembangkan bisnis online yang
+terpercaya dan lebih menarik lagi untuk
+dipergunakan.
+DAFTAR PUSTAKA
+Akbar 2013. Penerimaan Dan Penggunaan Situs
+Jejaring Sosial Twitter Di Lingkungan
+Mahasiswa Dengan Pendekatan Technology
+Acceptance Model(TAM)
+Jurnal Administrasi Bisnis (JAB)|Vol. 26 No. 1September2015|
+administrasibisnis.studentjournal.ub.ac.id
+
+8
+
+Chin W Wynne, Todd Peter.1995. “On The use
+Usefullness,ease of use of structural equation
+Modeling in MIS Research : A note of Caution
+”. Management Information System Quarterly,
+21(3)
+Davis FD. Perceived usefulness, perceived ease of
+use, and user acceptance of information
+technology. MIS Q 1989;13(3):319–39.
+Devi, Ni Luh Nyoman Sherina dan Suartana, I
+Wayan. 2014. Analisis Technology Acceptance
+Model (Tam) Terhadap Penggunaan Sistem
+Informasi Di Nusa Dua Beach Hotel & Spa. EJurnal Akuntansi Universitas Udayana 6.1
+(2014): 167-184 ISSN: 2302-8556.
+
+Management Development Conference
+Proceedings, 2(10),pp: 122-129.
+Singarimbun, Masri, Sofian Efendi, 2006. Metode
+Penelitian Survei, Edisi Revisi, Jakarta:
+LP3ES.
+Sugiyono. 2012. Metode Penelitian Kuantitatif
+Kualitatif Dan R&D. Bandung: Alfabeta
+Venkatesh, Viswanath and Fred D. Davis. 2000.
+“A Theoretical Extension of the Technology
+Acceptance Model: Four Longitudinal Field
+Studies”. Management Science 46(2), pp 186204
+
+Ferda, Ahmet, Serkan Benk, & Tamer Budak.
+2011. The Acceptance of Tax Office
+Automation System (VEDOP) By Employees:
+Factorial Validation of Turkish Adapted
+Technology Acceptance Model (TAM).
+International Journal of Economics and
+Finance, 3(6), pp: 107-116.
+Fishbein, M. and Ajzen, I. 1975. "Belief, Attitude,
+Intention and Behavior: An Introduction to
+Theory and Research," Addison-Wesley, Reading, MA.
+Igbaria M,.1994. “An Examination of the factors
+contributing to Micro Computer techenology
+acceptance ”. Journal of Information
+system,Elsiever Science, USA
+Khakim. 2011. Faktor-Faktor Yang
+Mempengaruhi Penerimaan dan
+PenggunaanSoftware Akuntansi MYOB
+Dengan MenggunakanPendekatan Technology
+Acceptance Model (TAM).
+Lee, Y., Kozar, K.A., dan Lrsenm, K.R.T., 2010,
+‘The technology Acceptance Model: Past,
+Presents, and Future’ in Communication of the
+Association for Information System, pp. 752780.
+Riduwan dan Kuncoro, Engkos Achmad, 2006,
+Cara Menggunakan dan Memaknai Analisis
+Jalur (Path Analysis), Bandung: Alfabeta
+Rose, Janelle and Gerard Fogarty. 2006.
+Determinants of perceived usefulness and
+perceived ease of use in The Technology
+Acceptance Model: Senior Consumers Adoption
+of Self- Serving Banking Technologies.
+Academy of World Business, Market-ing &
+Jurnal Administrasi Bisnis (JAB)|Vol. 26 No. 1September2015|
+administrasibisnis.studentjournal.ub.ac.id
+
+9
+
+

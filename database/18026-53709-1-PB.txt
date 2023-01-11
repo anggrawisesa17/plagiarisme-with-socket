@@ -1,0 +1,986 @@
+Jurnal Kesehatan Lingkungan Indonesia
+17 (2), 2018, 87 - 94
+DOI : 10.14710/jkli.17.2.87-94
+
+Analisis Faktor Risiko Kejadian penyakit Tuberculosis Bagi Masyarakat
+Daerah Kumuh Kota Palembang
+Iwan Stia Budi1, Yustini Ardillah1, Indah Purnama Sari1, Dwi Septiawati1
+1 Fakultas
+
+Kesehatan Masyarakat Universitas Sriwijaya
+Coresponding author : Yustini Ardillah, email: yustiniardillah@gmail.com
+
+Info Artikel:Diterima Maret 2018 ; Disetujui Juli 2018 ; Publikasi Oktober 2018
+
+ABSTRAK
+Latar belakang:Tuberculosis atau dikenal dengan TB Paru merupakan penyakit yang mematikan setelah HIVAIDS. Penyakit ini menjadi epidemik di dunia. Indonesia merupakan Negara dengan urutan kedua di dunia
+penderita TB Paru setelah India. Tahun 2016 penderita Tuberculosis mengalami peningkatan dari 9,6 juta
+menjadi 10,5 juta jiwa. Sementara Palembang merupakan Kota dengan prevalensi Tuberculosis tertinggi di
+provinsi Sumatera Selatan
+Metode:Penelitian ini adalah deskriptif analitik dengan pendekatan cross sectional, sampel penelitian ini adalah
+masyarakat yang berobat ke Puskesmas di Kota Palembang. Teknik sampling menggunakan proporsional
+random sampling. Analisis data menggunakan chi-square dan regresi logistic berganda.
+Hasil:Analisis statistik secara bivariabel menyimpulkan bahwa terdapat hubungan antara jenis kelamin PR 0.65
+(0.45 - 0.80), riwayat TB anggota keluarga PR 2.49(1.92 – 3.23),akses informasi PR 2.49(1.92 – 3.23),
+pencahayaan, kelembapan PR 1.57 (1.10 – 2.23), kondisi atap PR 3.57 (2.38 – 5.34), dinding PR 4.96(2.98 –
+8.27), lantai rumah PR 2.46 (1.86 – 3.22), dengan kejadian penyakit Tuberculosis Paru (p<0.05) dan variabel
+kepadatan hunian secara bivariat PR 0.76(0.58 – 1.01) Sedangkan secara multivariabel menemukan bahwa
+kepadatan hunian merupa kan variabel yang paling dominan dengan nilai OR 6.42(1.55-26.63).
+Simpulan:Karakteristik rumah merupakan variabel yang berperan dalam penyebaran penyakit Tuberculosis dan
+kepadatan hunian merupakan faktor dominan kejadian penyakit tersebut. Surveilens terhadap faktor – faktor
+risiko lingkungan pada daerah – daerah yang rentan dengan Tuberculosis perlu dilakukan disertai penyuluhan
+dengan pendekatan keluarga untuk mencegah penyakit Tuberculosis.
+Kata kunci:Tuberculosis; faktor risiko; daerah kumuh
+
+ABSTRACT
+Title: Analysis of Tuberculosis Risk Factors in Slum Area Palembang
+Background:Tuberculosis is a fatal disease after HIV-AIDS. This disease becomes epidemic in the world.
+Indonesia is the second most populous country in the world of pulmonary tuberculosis patients after India. In
+2016, Tuberculosis patients increased from 9,6 million to 10,5 million people. While Palembang Patients TB
+were the highest one in South Sumatra.
+Methods:This research was analytical descriptive with cross sectional approach.Sample was patients who
+visited Puskesmas in Palembang. The sampling technique used proportional random sampling. Data was
+analysed through bivariate analysis by chi-square and multivariate analysis by logistic regression.
+Results:Bivariable statistical analysis concluded that there were relationship among sex with PR 0.65 (0.45 0.80), family history in family with PR 2.49 (1.92 - 3.23), access to information with PR 2.49 (1.92 - 3.23),
+lighting, humidity with PR 1.57 (1.10 - 2.23 ), roof condition with PR 3.57 (2.38 - 5.34), house wall with PR
+4.96 (2.98 - 8.27), home floor PR 2.46 (1.86 - 3.22) with incidence of Tuberculosis Lung disease (p <0.05).
+occupancy density PR 0.76(0.58 – 1.01) While multivariable found that occupancy density is the most dominant
+variable with the value of OR 6.42 (1.55-26.63).
+Conclusion: house Characteristics were variables that took a role in the spread of Tuberculosis disease and
+living house density was the dominant factor of the incidence of the disease. Surveillance of environmental risk
+
+© 2018, JKLI, ISSN: 1412-4939 – e-ISSN: 2502-7085. All rights reserved.
+
+88
+
+Iwan S. B., Yustini A., Indah P. S., Dwi S. / Jurnal Kesehatan Lingkungan Indonesia 17(2), 2018
+
+factors in vulnerable areas with Tuberculosis should be accompanied by familial counseling to prevent
+Tuberculsois disease
+Keywords:Tuberculosis; Risk factors; slum area
+
+PENDAHULUAN
+Tuberculosis atau dikenal dengan TB Paru
+merupakan penyakit yang mematikan setelah HIVAIDS. Penyakit ini menjadi epidemic di dunia.
+Indonesia merupakan Negara dengan urutan kedua
+tertinggi di dunia penderita TB Paru setelah India.
+Tahun 2016 penderita Tuberculosis Paru mengalami
+peningkatan dari tahun sebelumnya dari 9,6 juta jiwa
+menjadi 10,5 juta jiwa. Sejak tahun 2016, tujuan
+program Tuberculosis Paru adalah mengakhiri
+epidemic TB Paru melalui penerapan strategi End TB.
+Strategi tersebut berupa mengurangi kematian akibat
+TB Paru sebesar 90% pada tahun 2030 dan
+memutuskan kejadian kasus baru TB sebesar 80%.1
+Penyakit tuberkulosis paru adalah penyakit
+menular langsung yang disebabkan oleh bakteri
+Mycobacterium tuberculosis yang sebagian besar
+menyerang paru-paru. Penderita tuberkulosis paru
+BTA (+) dapat menularkan pada orang sekelilingnya,
+terutama yang melakukan kontak erat. Setiap
+penderita tuberculosis paru BTA (+) dapat
+menularkan pada 10-15 orang per tahun. Daya
+penularan dari seorang penderita tuberculosis paru
+BTA (+) ditentukan oleh banyak bakteri yang
+dikeluarkan dari paru-paru. Kondisi lingkungan dalam
+rumah yang tidak memenuhi syarat menjadi media
+penularan penyakit tuberculosis paru. Faktor
+lingkungan dalam rumah yang secara statistik
+berhubungan bermakna dengan kejadian penyakit
+tuberkulosis paru adalah ventilasi kamar, kelembaban
+kamar, sinar matahari, dan kepadatan hunian kamar.2
+Pemerintah Indonesia melalui Kementrian
+Kesehatan membuat sasaran strategis pengendalian
+TB hingga 2014 mengacu pada rencana starategis
+yaitu menurunkan prevalensi TB dari 235 per 100.000
+penduduk menjadi 224 per 100.000 penduduk. Saat
+ini diperkirakan ada 1 dari setiap 3 kasus TB yang
+masih belum terdeteksi oleh program.3 Tahun 2013
+WHO memperkirakan di Indonesia terdapat 6.800
+kasus baru TB dengan Multi Drug Resistence (TB
+MDR) setiap tahun. Diperkirakan 2% dari kasus TB
+baru dan 12 % dari kasus TB pengobatan pengulangan
+merupakan kasus TB MDR. Diperkirakan pula lebih
+dari 55% pasien Multi Drug Resistant Tuberculosis
+(MDR TB) belum terdiagnosis atau mendapat
+pengobatan baik dan benar. Rendahnya angka
+penderita TB di suatu wilayah belum tentu
+menggambarkan kondisi yang sebenarnya, hal ini bisa
+disebabkan oleh fasilitas pelayanan kesehatan yang
+belum berani mendiagnosis TB.4
+Kota Palembang merupakan kota dengan
+penderita TB paru terbanyak di Sumatera Selatan.5
+Data TB cure rate dari tahun 2013 ke tahun 2014
+terjadi penurunan sebesar 6% yang berarti
+
+keberhasilan dalam penyembuhan pasien TB Paru
+mengalami penurunan. Walaupun angka keberhasilan
+penyembuhan TB Paru di Kota Palembang memenuhi
+standar WHO yaitu diatas 84%. Selain itu, angka
+penderita TB Paru pada tahun 2014 juga mengalami
+kenaikan dibandingkan tahun sebelumnya.6
+Banyak faktor risiko yang mampu memicu
+timbulnya
+kejadian
+Tuberculosis,
+beberapa
+diantaranya adalah lingkungan. Faktor lingkungan
+merupakan salah satu yang mempengaruhi
+pencahayahaan rumah, kelembapan, suhu, kondisi
+atap, dinding, lantai rumah serta kepadatan hunian.
+Selain itu faktor selain lingkungan berupa, jenis
+kelamin,umur, pendapatan, pengetahuan serta sikap
+terhadap pencegahan TB juga mempengaruhi
+terjadinya penyakit. 7, 8
+Berdasarkan fakta yang telah diuraikan di atas,
+penelitian ini bertujuan untuk menganalisis faktor
+risiko kejadian penyakit Tuberculosis di Kota
+Palembang.
+MATERI DAN METODE
+Penelitian ini merupakan observasional analitik
+dengan rancangan cross sectional dengan kelompok
+pembanding. Populasi adalah semua pasien
+Tuberculosis yang berobat di Puskesmas – puskesmas
+Kota Palembang pada saat penelitian dilakukan yaitu
+dari bulan April sampai September 2016. Sedangkan
+kelompok pembanding adalah tetangga dari pasien
+Tuberculosis. Informed consent dilakukan ketika
+pasien berada di Puskesmas, kemudian dilakukan
+kunjungan ke rumah – rumah pasien tersebut.
+Sampel penelitian ini berjumlah 192 yang
+terdiri dari 96 penderita Tuberculosis dan 96 orang
+tetangga penderita. Technique sampling yang
+digunakan adalah proportional random sampling.
+Daerah Kumuh Palembang merupakan daerah dengan
+luas wilayah yang kecil dan pemukiman penduduk
+yang padat, daerah kumuh tersebut beberapa
+diantaranya merupakan daerah bantaran Sungai
+Musi.Kecamatan yang termasuk daerah kumuh adalah
+kecamatan Seberang Ulu 1 dan Seberang Ulu II,
+sehingga responden dalam penelitian ini adalah
+responden yang berdomisili di dua kecamatan tersebut
+dan berobat di 7 Puskesmas, yaitu Puskesmas 7 Ulu, 4
+Ulu, OPI, Pembina,Nagaswidak,1 Ulu, taman
+bacaaan.
+Variabel penelitian ini berupa karakteristik
+individu dan keluarga yaitu
+jenis kelamin,
+pendapatan keluarga, riwayat keluarga terkena
+Tuberculosis, akses informasi mengenai TB, paparan
+rokok di rumah, umur ,pengetahuan dan sikap
+terhadap pencegahan penyakit Tuberculosis. Variabel
+lainnya yaitu karakteristik lingkungan yang terdiri
+
+© 2018, JKLI, ISSN: 1412-4939 – e-ISSN: 2502-7085. All rights reserved.
+
+Dwi D. A., Surahma A. M. / Jurnal Kesehatan Lingkungan Indonesia 17(2), 2018
+
+dari pencahayaan, kelembapan, suhu, kondisi atap,
+dinding, dan lantai rumah serta kepadatan hunian.
+Variabel karakteristik individu dan keluarga
+diukur dengan menggunakan kuesioner terstruktur
+yang sudah dilakukan validasi terlebih dahulu.
+Responden diukur dengan wawancara oleh tim
+peneliti. Sementara variabel karakteristik lingkungan
+diukur
+dengan
+menggunakan
+alat
+berupa
+thermohygrometer untuk mengukur kelembapan dan
+suhu, luxmeter untuk mengukur pencahayaan, dan
+rollmeter untuk mengukur luas rumah yang
+menghasilkan variabel kepadatan hunian.Selain itu
+juga digunakan checklist untuk melakukan penilaian
+terhadap kondisi rumah berupa atap, dinding dan
+lantai. Semua pengukuran dengan menggunakan alat –
+alat yang telah divalidasi.
+Data penelitian dinalisis secara deskriptif dan
+pengujian hipotesis dilakukan dengan menggunakan
+uji chi square sedangkan analisis multivariate
+menggunakan regresi logistik berganda.
+HASIL DAN PEMBAHASAN
+Karakteristik responden bisa dilihat pada tabel
+1, partisipasi responden dalam bentuk umur bisa
+disimpulkan tidak banyak berbeda. Kedua kategori
+yang terdiri dari < 40 tahun dan ≥ 40 tahun hanya
+berselisih 3.4%. kelompok umur yang lebih muda
+lebih banyak berpartisipasi dalam penelitian ini.
+Variabel jenis kelamin antara laki – laki dan
+perempuan yaitu 1:2 atau wanita 2 kali lebih banyak
+berpartisipasi dalam penelitian ini. Untuk karakteristik
+pekerjaan, dominasi responden (lebih dari setengah
+partisipan) lebih banyak yang tidak bekerja. Kategori
+ibu rumah tangga kami masukkan sebagai kategori
+yang tidak bekerja. Pendapatan keluarga juga
+diwawancarai dalam penelitian ini, cut of point
+
+89
+
+kategori pendapatan berdasarkan dari nilai median
+variabel pendapatan yaitu Rp 1.500.000 dan rumah
+tangga responden dalam penelitian ini lebih banyak
+berpendapatan rendah (< Rp 1.500.000).
+Risiko dari lingkungan keluarga juga dikaji
+dari penelitian ini yaitu berupa paparan asap rokok
+dari keluarga atau penderita sendiri serta riwayat
+penyakit Tuberculosis dari anggota keluarga. Data
+tersebut bisa dilihat pada gambar 1. Riwayat
+Tuberculosis dari anggota keluarga mencapai hampir
+sepertiga dari responden. Keluarga merupakan orang
+yang paling sering berinteraksi dengan penderita
+sehingga menjadi berisiko terkena TB apabila ada
+anggota keluarga yang terkena penyakit tersebut.
+Sedangkan paparan asap rokok, baik sebagai active
+smoker ataupun secondhand smoker di penelitian ini
+mencapai 70.3%. Anggota keluarga mendapat paparan
+asap rokok jika ada anggota keluarga yang merokok.
+
+Gambar 1. Distribusi Faktor Risiko dari Lingkungan
+Keluarga
+
+Tabel 1.Distribusi Frekuensi Responden Faktor Risiko Penyakit Tuberculosis Paru di Slum Area Palembang
+Total
+Presentasi
+Variabel
+Kategori
+(n=192)
+Sosial demografi
+Umur
+< 40 Tahun
+99
+51.6
+≥ 40 Tahun
+93
+48.2
+Jenis Kelamin
+Wanita
+131
+68.2
+Laki – laki
+61
+31.8
+Pekerjaan
+Petani
+3
+1.6
+Pegawai
+75
+39.1
+PNS/POLRI
+5
+2.6
+Pedagang
+8
+4.2
+Tidak bekerja
+101
+52.6
+Pendapatan keluarga
+Rendah
+109
+76.5
+Tinggi
+83
+56.8
+
+Gambaran lingkungan fisik rumah bisa dilihat
+pada gambar 2, variabel – variabel yang diukur adalah
+pencahayaan, kelembaban, suhu, kondisi atap, dinding
+dan lantai serta kepadatan hunian yang dikategorikan
+
+dengan standar dan tidak standard, lebih jelas masing
+– masing nilai cut of point setiap variabel dapat dilihat
+pada tabel 3. Penelitian ini menemukan bahwa rumah
+– rumah pada pemukiman kumuh lebih banyak yang
+
+© 2018, JKLI, ISSN: 1412-4939 – e-ISSN: 2502-7085. All rights reserved.
+
+90
+
+Iwan S. B., Yustini A., Indah P. S., Dwi S. / Jurnal Kesehatan Lingkungan Indonesia 17(2), 2018
+
+tidak memenuhi standar atau syarat, baik dari segi
+pencahayaan, kelembapan, suhu, kondisi atap, dan
+dinding serta lantai. Rumah – rumah tersebut juga
+tidak memenuhi syarat untuk jumlah hunian dalam
+setiap rumah.
+Pengetahuan dan sikap masyarakat terhadap
+pencegahan penyakit Tuberculosis juga dikaji dalam
+penelitian. Penelitian ini menemukan. Gambaran
+
+distribusi frekuensi pengetahuan dan sikap bisa dilihat
+pada gambar 3. Masyarakat lebih banyak yang tidak
+mempunyai pengetahuan yang baik mengenai
+penyebab Tubercuolosis, penularan serta pencegahan
+penyakit ini. Sementara sikap mereka lebih banyak
+yang tidak mendukung dalam upaya – upaya
+pencegahan penyakit ini.
+
+Gambar 2. Grafik Lingkungan Fisik Rumah
+
+Gambar 3. Pengetahuan dan Sikap Masyarakat
+
+Analisis bivariate dari penelitian ini
+menggunakan uji chi square dengan variabel
+bergantung yaitu kejadian penyakit Tuberculosis dan
+variabel bebas yaitu jenis kelamin, pendapatan
+keluarga, riwayat Tuberculosis di keluarga, akses
+informasi, paparan rokok di rumah, pengetahuan dan
+sikap. Sementara variabel lingkungan fisik rumah
+terdiri dari kelembaban, pencahayaan, suhu, kondisi,
+atap, dinding, dan lantai rumah serta kepadatan hunian
+rumah. Ke semua variabel tersebut dianalisis untuk
+menguji hubungan dari masing – masing variabel
+bebas terhadap variabel bergantung. Hasil analisis
+hubungan dapat dilihat pada tabel 2 dan tabel 3. Tabel
+2 menjelaskan hubungan dari variabel – variabel
+lingkungan keluarga sedangkan tabel 3 menjelaskan
+hubungan variabel fisik lingkungan rumah.
+Hasil analisis secara bivariate menemukan
+bahwa ada hubungan antara jenis kelamin dengan
+kejadian penyakit Tuberculosis dengan nilai kekuatan
+hubungan (Prevalence Ratio) yaitu 0.65 dengan
+referensi laki – laki dan jika direferensikan wanita
+dalam variabel ini maka nilai PR menjadi 1,8 yang
+berarti laki – laki mempunyai kemungkinan 1,8 kali
+untuk terkena penyakit Tuberculosis atau dengan
+probabilitas 64%. Di benua Afrika banyak
+tuberkulosis
+terutama
+menyerang
+laki-laki.
+Berdasarkan hasil penelitian di Brazil laki-laki lebih
+besar risikonya untuk terkena Tuberculosis (OR =
+1.82 95% CI 1.28, 2.60). Tuberculosis lebih banyak
+terjadi pada laki-laki dibandingkan dengan wanita
+karena laki-laki sebagian besar mempunyai kebiasaan
+merokok sehingga memudahkan terjangkitnya
+Tuberculosis.9 Merokok diketahui mempunyai
+hubungan dengan meningkatkan risiko untuk
+
+mendapatkan kanker paru-paru, penyakit jantung
+koroner, bronchitis kronik dan kanker kandung kemih.
+Kebiasaan merokok meningkatkan resiko untuk
+terkena TB paru sebanyak 2,2 kali.10 Prevalensi
+merokok pada hampir semua Negara berkembang
+lebih dari 50% terjadi pada laki-laki dewasa,
+sedangkan wanita perokok kurang dari 5%. Dengan
+adanya kebiasaan merokok akan mempermudah untuk
+terjadinya infeksi Tuberculosis. Beberapa perokok
+aktif menghentikan kebiasaan merokok mereka ketika
+mereka menyadari adanya peningkatan keparahan
+penyakit Tuberculosis yang mereka derita.9, 11
+Meskipun, penelitian ini tidak menemukan hubungan
+yang signifikan antara paparan rokok dengan kejadian
+Tuberculosis, tetapi hasil penelitian ini secara
+deskriptif bahwa prevalensi rumah tangga dengan
+paparan asap rokok sebesar 70,3% (gambar 2).
+Selain jenis kelamin pada variabel lingkungan
+keluarga, riwayat Tuberculosis pada anggota keluarga
+lainnya juga secara statistik signifikan berhubungan
+terjadinya penyakit Tuberculosis. Prevalence ratio
+sebesar 2,5 yang berarti kemungkinan masyarakat
+yang mempunyai anggota keluarga yang serumah dan
+terkena TB untuk tertular Tuberculosis sebesar 2,5
+kali. Penelitian sebelumnya Aldridge, Zenner 11
+menemukan bahwa penularan dari anggota keluarga
+sangat
+kuat
+berhubungan
+dengan
+kejadian
+Tuberculosis. Penularan dapat terjadi melalui udara
+(air borne disease) yang mengandung basil TB dalam
+percikan ludah yang dikeluarkan oleh Tuberculosis
+pada waktu mereka batuk, bersin atau pada waktu
+bernyanyi.Bakteri ini bila sering masuk dan terkumpul
+di dalam paru-paru akan berkembang biak menjadi
+banyak (terutama pada orang dengan daya tahan tubuh
+
+© 2018, JKLI, ISSN: 1412-4939 – e-ISSN: 2502-7085. All rights reserved.
+
+Dwi D. A., Surahma A. M. / Jurnal Kesehatan Lingkungan Indonesia 17(2), 2018
+
+yang rendah), dan dapat menyebar melalui pembuluh
+darah atau kelenjar getah bening. Oleh sebab itulah
+infeksi TBC dapat menginfeksi hampir seluruh organ
+tubuh seperti: paru -paru, otak, ginjal, saluran
+pencernaan, tulang, kelenjar getah bening, dan lain lain, meskipun demikian organ tubuh yang paling
+sering terkena yaitu paru –paru.12
+Akses informasi yang didapatkan masyarakat
+juga signifikan berhubungan secara statistik untuk
+kejadian penyakit paru, dengan nilai Prevalence ratio
+2.4. Masyarakat daerah kumuh yang tidak pernah
+mendapatkan akses informasi mengenai Tuberculosis
+berpeluang 2,4 kali terkena penyakit tersebut.
+
+91
+
+Kurangnya
+informasi
+kesehatan
+mengenai
+Tuberculosis di masyarakat merupakan salah satu
+faktor yang mempengaruhi tinggi rendahnya
+pengetahuan masyarakat mengenai Tuberculosis. Oleh
+karena itu ketersediaan dan kemudahan dalam
+mengaksese informasi yang tepat mengenai
+Tuberculosis merupakan salah satu kunci untuk dapat
+menurunkan kasus Tuberculosis di masyarakat. Hal
+tersebut didukung dengan hasil penelitian yang
+menyatakan adanya pengaruh komunikasi, informasi,
+edukasi (KIE) Tuberculosis pada masyarakat terhadap
+pengetahuan
+masyarakat
+mengenai
+penyakit
+Tuberculosis.10,13
+
+Tabel 2. Analisis Statistik Hubungan Variabel Keluarga dengan Penyakit Tuberculosis Paru di Palembang
+Tuberculosis
+Variabel
+Kategori
+PR (95% CI)
+p-value
+Ya
+Tidak
+n
+%
+n
+%
+Wanita
+43
+44.8 67
+69.8
+0.65 (0.45 - 0.80)
+Jenis Kelamin
+0.01*
+Laki – laki
+53
+55.2 29
+30.2
+Referensi
+Rendah
+53
+55.2 56
+58.3
+0.94 (0.71 - 1.25)
+Pendapatan
+0.771
+Keluarga
+Tinggi
+43
+44.8 40
+41.7
+Referensi
+51
+53.1
+9
+9.4
+0.00*
+2.49(1.92 – 3.23)
+Riwayat TB di Ada
+45
+46.9 87
+96.0
+keluarga
+Tidak ada
+Referensi
+62
+64.6 21
+72.9
+Tidak ada
+2.39 (1.76 – 3.25)
+Akses
+0.00*
+Informasi
+34
+35.4 70
+27.1
+Ada
+Referensi
+65
+67.7 26
+53.0
+Ada
+0.88 (0.65 - 1.89)
+Paparan rokok
+0.53
+32
+32.3 15
+46.9
+Tidak ada
+Referensi
+46
+47.9 53
+55.2
+Umur
+< 40 tahun
+0.86 (0.65 - 1.147)
+0.38
+50
+52.1 43
+44.8
+≥ 40 tahun
+Referensi
+54
+56.3 62
+64.6
+Pengetahuan
+Buruk
+0.84(0.64 – 1.12)
+0.30
+42
+42.0
+34
+35.4
+Baik
+Referensi
+55
+57.3 59
+61.5
+Tidak mendukung
+0.91(0.69 – 1.22)
+0.66
+41
+42.7 37
+38.5
+Sikap
+mendukung
+Ket: *(p<0.5)
+Hasil analisis hubungan variabel karakteristik
+rumah terdiri dari pencahayaan, kelembapan, suhu,
+kondisi atap rumah, dinding dan lantai rumah serta
+kepadatan hunian dijelaskan pada tabel 3. Penelitian
+ini menemukan bahwa ada hubungan signifikan
+secara statistik antara varibel pencahayaan,
+kelembapan, kondisi atap, dinding dan lantai rumah.
+Sementara variabel suhu tidak berhubungan secara
+statistik.
+Hasil
+analisis
+varibel
+pencahayaan
+menunjukkan nilai Prevalence Ratio sebesar 1.6.
+Masyarakat yang tinggal di rumah yang memiliki
+pencahayaan yang kurang dari 60 Lux berpeluang 1.6
+kali untuk terkena Tuberculosis. Sinar matahari
+berperan secara langsung dalam mematikan bakteri
+dan mikroorganisme lain yang terdapat di lingkungan
+rumah, dengan demikian sinar matahari sangat
+diperlukan di dalam suatu ruangan rumah terutama
+ruangan tidur, khususnya sinar matahari pagi yang
+dapat menghambat perkembang biakan bakteri
+
+tuberkulosis dan kuman penyakit lainnya.Di luar
+tubuh manusia, Mycobacterium tuberculosa hidup
+baik pada lingkungan yang lembab akan tetapi tidak
+tahan terhadap sinar matahari. bakteri tuberkulosis
+dapat bertahan hidup pada tempat yang sejuk, lembab,
+gelap tanpa sinar matahari sampai bertahun-tahun
+lamanya. Tetapi bakteri tuberkulosis akan mati bila
+terkena sinar matahari, sabun, lisol, karbol dan panas
+api. Bakteri tuberkulosis jika terkena cahaya matahari
+akan mati dalam waktu 2 jam, selain itu bakteri
+tersebut akan mati oleh tincturaiodi selama 5 menit
+dan juga oleh ethanol 80 % dalam waktu 2 sampai 10
+menit serta oleh fenol 5 % dalam waktu 24 jam.14
+Kelembapan juga secara statistik berhubungan
+dengan kejadian. Masyarakat yang tinggal dirumah
+dengan kelembapan yang tinggi berpeluang 2.7 kali
+untuk terkena Tuberculosis. Bakteri Mycobacterium
+tuberculosa seperti halnya bakteri lain akan tumbuh
+dengan subur pada lingkungan dengan kelembaban
+yang tinggi. Air membentuk lebih dari 80% volume
+
+© 2018, JKLI, ISSN: 1412-4939 – e-ISSN: 2502-7085. All rights reserved.
+
+92
+
+Iwan S. B., Yustini A., Indah P. S., Dwi S. / Jurnal Kesehatan Lingkungan Indonesia 17(2), 2018
+
+sel bakteri dan merupakan hal essensial untuk
+pertumbuhan dan kelangsungan hidup sel bakteri.15
+Menurut14, kelembaban udara yang meningkat
+merupakan media yang baik untuk bakteri-bakteri
+patogen termasuk tuberkulosis.
+Kondisi atap rumah, dinding dan lantai
+signifikan secara berhubungan dengan kejadian
+penyakit Tuberculosis. Masyarakat daerah kumuh
+yang tinggal di rumah dengan atap yang tidak
+standard akan berpeluang 3,6 kali terkena
+Tuberculosis dan untuk dinding rumah yang tidak
+standard berpeluang 4,9 kali serta berpeluang 2,5 kali
+
+untuk terkena Tuberculosis.Rumah atau tempat
+tinggal yang buruk (kurang baik) dapat mendukung
+terjadinya penularan penyakit dan gangguan
+kesehatan, diantaranya adalah infeksi saluran nafas.
+Kondisi rumah dapat menjadi salah satu faktor resiko
+penularan penyakit Tuberculosis Paru. atap, dinding
+dan lantai dapat menjadi tempat perkembang biakan
+bakteri. Lantai dan dinding yang sulit dibersihkanakan
+menyebabkan penumpukan debu, sehingga akan
+dijadikan sebagai media yang baik bagi
+berkembangbiaknya
+bakteri
+Mycrobacterium
+tuberculosis 14, 15, 16
+
+Tabel.3 Analisis Statistik Hubungan Karakteristik Lingkungan Rumah
+dengan Kejadian Tuberculosis Paru di Palembang
+Tuberculosis
+Variabel
+Kategori
+Ya
+Tidak
+PR (95% CI)
+n
+%
+n
+%
+< 60 Lux
+72
+75.0 54
+56.3
+1.57 (1.10 – 2.23)
+Pencahayaan
+≥ 60 Lux
+24
+25.0 42
+43.8
+Referensi
+> 60%
+77
+80.2 38
+39.6
+2.71 (1.79 – 4.09)
+Kelembapan
+40-60%
+19 19.8
+58
+60.4
+Referensi
+87
+90.6 86
+89.6
+31-37oC
+1.06(0.65 – 1.74)
+Suhu
+9
+9.4
+10
+10.4
+18 – 30 oC
+Referensi
+76
+79.2 23
+24.0
+Tidak standar
+3.57 (2.38 – 5.34)
+Atap rumah
+20
+86.5 25
+76.0
+Standar
+Referensi
+83
+13.5 71
+26.0
+Tidak standar
+4.96(2.98 – 8.27)
+Dinding rumah
+13
+32.3 15
+74.0
+Standar
+Referensi
+55
+57.3 13
+13.5
+Lantai
+Tidak Kedap
+2.46 (1.86 – 3.22)
+41
+42.7 83
+86.5
+Kedap
+Referensi
+2
+<
+8
+m
+/orang
+57
+59.4
+69
+71.9
+Kepadatan rumah
+0.76(0.58 – 1.01)
+≥ 8 m2/orang
+39
+40.6 27
+28.1
+Referensi
+Ket: *(p<0.05)
+
+Tahap akhir analisis penelitian ini adalah analisis
+multivariate dengan menggunakan regresi logistik
+berganda. Hasil penelitian ini menemukan tiga model
+yang bisa dilihat pada tabel 4. Variabel yang
+dimasukan ke dalam analisis multivariate adalah
+variabel dengan nilai p< 0.25, dengan hasil
+pertimbangan tersebut terdapat delapan variabel yang
+dimasukan dalam analisis ini. Selain statistik, analisis
+multivariat juga mempertimbangkan hubungan secara
+teori. Maka, atas pertimbangan penelitian sebelumnya
+variabel kepadatan hunian juga dimasukan sebagai
+variabel yang akan dianalisis secara multivariat.
+Hasil analisis multivariate dengan permodelan
+menemukan bahwa kepadatan hunian merupakan
+variabel yang paling dominan mempengaruhi kejadian
+penyakit Tuberculosis masyarakat di daerah kumuh
+dengan nilai OR sebesar 6,42. Masyarakat daerah
+kumuh yang tinggal di rumah dengan kepadatan
+hunian < 8 m2/orang berpeluang 6,4 kali terkena
+Tuberculosis. Tingkat penularan tuberkulosis di
+lingkungan keluarga penderita cukup tinggi, dimana
+
+p-value
+0.01*
+0.00*
+1.00
+0.00*
+0.00*
+0.00*
+0.09
+
+seorang penderita rata -rata dapat menularkan kepada
+2-3 orang di dalam rumahnya. Luas lantai bangunan
+rumah sehat harus cukup untuk penghuni didalamnya,
+artinya luas lantai bangunan rumah tersebut harus
+disesuaikan dengan jumlah penghuninya agar tidak
+menyebabkan overload. Orang yang tinggal di dalam
+rumah dengan tingkat kepadatan hunian yang tinggi
+berisiko untuk mudah tertular Tuberculosis 2 kali
+lebih besar dibandingkan orang yang tinggal dirumah
+dengan tingkat kepadatan hunian yang rendah.2
+Rumah dengan tingkat kepadatan hunian yang
+tinggi
+tidaklah
+sehat,
+sebab
+disamping
+menyebabkankurangnya konsumsi oksigen juga bila
+salah satu anggota keluarga terkena penyakit infeksi,
+akan mudah menular kepada anggota keluarga yang
+lain.Persyaratan kepadatan hunian untuk seluruh
+rumah biasanya dinyatakan dalam m2/orang. Luas
+minimum per orang sangat relative tergantung dari
+kualitas bangunan dan fasilitas yang tersedia. Untuk
+rumah sederhana luasnya minimum 8m2/orang. 17, 18
+
+© 2018, JKLI, ISSN: 1412-4939 – e-ISSN: 2502-7085. All rights reserved.
+
+Dwi D. A., Surahma A. M. / Jurnal Kesehatan Lingkungan Indonesia 17(2), 2018
+
+93
+
+Tabel 4. Analisis Multivariat Faktor Risiko Kejadian Penyakit Tuberculosis Paru
+Model 1
+Model 2
+Model 3
+Variabel
+Kategori
+OR (95% CI)
+OR (95% CI)
+OR (95% CI)
+2.90(0.88-9.53)
+Wanita
+2.80 (0.84 - 9.31)
+Jenis Kelamin
+Referensi
+Laki - laki
+Referensi
+0.46 (0.10 – 0.20)* 0.47 (0.11 – 0.20)*
+0.44 (0.10 – 0.20)*
+Anggota keluarga Ada
+dengan TB
+Tidak ada
+Referensi
+Referensi
+Referensi
+Tidak pernah
+0.93 (0.24 – 0.36)* 0.92 (0.24 – 0.36)*
+0.78(0.02-0.29)*
+Akses informasi
+Pernah
+Referensi
+Reference
+Reference
+< 60 Lux
+0.25 (0.47-1.67)
+Pencahayaan
+≥ 60 Lux
+Referensi
+> 60%
+0.13 (0.03-0.54)*
+0.13 (0.03-0.52)*
+0.15 (0.04-0.59)*
+Kelembapan
+40-60%
+Referensi
+Referensi
+Referensi
+Tidak baik
+0.07(0.02 – 0.30)*
+0.08(0.02 – 0.31)*
+0.08(0.02 – 0.31)*
+Atap rumah
+Baik
+Referensi
+Referensi
+Referensi
+Dinding rumah
+Tidak standar
+0.13(0.03 – 0.56)*
+0.13(0.03 – 0.44)*
+0.09(0.02 – 0.35)*
+Standar
+Referensi
+Referensi
+Referensi
+Lantai rumah
+Tidak kedap air
+0.06(0.01 – 0.26)*
+0.06(0.01 – 0.26)*
+0.06(0.01-0.23)*
+Kedap air
+Referensi
+Referensi
+Referensi
+Kepadatan rumah
+< 8 m2/orang
+6.05( 1.27 – 28.65)* 6.05(1.27 28.65)*
+6.42(1.55-26.63)**
+≥ 8 m2/orang
+Referensi
+Referensi
+Referensi
+Ket:
+*(p<0.05),
+**Faktordominan
+
+SIMPULAN
+Slum area merupakan daerah dengan keberadaan
+faktor risiko lingkungan terbanyak untuk terjadinya
+penyakit Tuberculosis. Penelitian ini menemukan
+bahwa faktor lingkungan rumah yang terdiri dari
+pencahayaan, kelembapan, kondisi atap, dinding dan
+lantai signifikan berhubungan dengan kejadian
+penyakit Tuberculosis dan kepadatan hunian menjadi
+faktor yang paling berpengaruh terhadap kejadian
+penyakit tersebut. Slum area menjadi area yang
+berpotensi untuk menjadi wilayah penyebaran
+penderita Tuberculosis dengan keberadaan faktor –
+faktor lingkungan tersebut. Berdasarkan temuan
+penelitian ini, maka kami merekomendasikan untuk
+perlunya pemantauan khusus dari pemerintah
+setempat tentang keadaan fisik rumah dari masyarakat
+serta perlu adanya pendekatan khusus seperti
+pendekatan keluarga untuk menyebarkan informasi
+mengenai pencegahan penyakit Tuberculosis.
+DAFTAR PUSTAKA
+1. WHO. Global Tuberculosis Report 2015. Geneva:
+World Health Organization, 2015.
+2. Versitaria HU, Kusnoputranto H. Tuberkulosis
+Paru di Palembang, Sumatera Selatan. Kesmas:
+National Public Health Journal. 2011;5(5):234-40.
+3. Infodatin. Tuberculosis: Temukan Obati Sampai
+Sembuh. Jakarta: PUSADATIN; 2015.
+4. Kementerian Kesehatan RI. Profil Kesehatan
+Indonesia. Jakarta: Kementerian Kesehatan
+Republik Indonesia, 2014.
+
+5. Dinas Kesehatan Sumsel. Profil Kesehatan
+Sumatera Selatan 2015. Palembang: Dinas
+Kesehatan Sumatera Selatan, 2016.
+6. Dinas Kesehatan Palembang. Profil Kesehatan
+Kota Palembang 2015. Palembang: Dinas
+Kesehatan Palembang; 2016.
+7. Azhar K, Perwitasari D. Kondisi fisik rumah dan
+perilaku dengan prevalensi TB paru di Propinsi
+Dki Jakarta, Banten dan Sulawesi Utara. Media
+Penelitian dan Pengembangan Kesehatan.
+2014;23(4):172-81.
+8. Sayera B, Rahman T, Mohammad Khaja Mafij U,
+Khatun R, Tahmeed A, Rahman M, et al.
+Epidemiology of Tuberculosis in an Urban Slum
+of Dhaka City, Bangladesh. PLoS One.
+2013;8(10):1-8.
+9. Stevens H, Ximenes RA, Dantas OM, Rodrigues
+LC. Risk factors for tuberculosis in older children
+and adolescents: a matched case-control study in
+Recife, Brazil. Emerging themes in epidemiology.
+2014;11(1):11-20.
+10. Greenaway CMDM, Sandoe AMPH, Vissandjee
+BP, Kitai IMBB, Gruner DMD, Wobeser
+WMDM, et al. Tuberculosis: evidence review for
+newly arriving immigrants and refugees. Canadian
+Medical Association Journal. 2011;183(12):E93951.
+11. Aldridge RW, Zenner D, White PJ, Muzyamba
+MC, Loutet M, Dhavan P, et al. Prevalence of and
+risk factors for active tuberculosis in migrants
+screened before entry to the UK: a populationbased cross-sectional study. The Lancet Infectious
+Diseases. 2016;16(8):962-70.
+
+© 2018, JKLI, ISSN: 1412-4939 – e-ISSN: 2502-7085. All rights reserved.
+
+94
+
+Iwan S. B., Yustini A., Indah P. S., Dwi S. / Jurnal Kesehatan Lingkungan Indonesia 17(2), 2018
+
+12. Donald PR, Marais BJ, Barry CE, 3rd. Age and
+the
+epidemiology
+and
+pathogenesis
+of
+tuberculosis. The Lancet. 2010;375(9729):1852-4.
+13. Bele S, Jiang W, Lu H, You H, Fan H, Huang L,
+et al. Population Aging and Migrant Workers:
+Bottlenecks in Tuberculosis Control in Rural
+China. PLoS One. 2014;9(2):1-7.
+14. Prasetyowati I, Wahyuni CU. Hubungan Antara
+Pencahayaan Rumah, Kepadatan Hunian dan
+Kelembaban dan Risiko terjadinya Infeksi TB
+Jurnal Kedokteran Indonesia. 2009;1(1):88-94.
+15. Heriyani F, Sutomo AH, Saleh YDa. Risk Factors
+of Incidence of Pulmonary Tuberculosis in
+Banjarmasin City, Kalimantan, Indonesia.
+International Journal of Public Health Science
+(IJPHS). 2013;2(1):1-6.
+
+16. Corburn J, Hildebrand C. Slum sanitation and the
+social determinants of women’s health in Nairobi,
+Kenya. Journal of environmental and public
+health. 2015;2015(1):1-6.
+17. Haider BA, Akhtar S, Hatcher J. Daily contact
+with a patient and poor housing affordability as
+determinants of pulmonary tuberculosis in urban
+Pakistan.
+International
+journal
+of
+mycobacteriology. 2013;2(1):38-43.
+18. Kirenga BJ, Ssengooba W, Muwonge C,
+Nakiyingi L, Kyaligonza S, Kasozi S, et al.
+Tuberculosis risk factors among tuberculosis
+patients in Kampala, Uganda: implications for
+tuberculosis control. BMC public health.
+2015;15(1):2-7.
+
+© 2018, JKLI, ISSN: 1412-4939 – e-ISSN: 2502-7085. All rights reserved.
+
+

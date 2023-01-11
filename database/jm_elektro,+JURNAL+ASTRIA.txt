@@ -1,0 +1,654 @@
+E-journal Teknik Elektro dan Komputer vol.5 no.2 Januari-Maret 2016, ISSN 2301-8402
+
+Sistem Informasi Perpustakaan Online Berbasis Web
+Astria Firman, Hans F. Wowor, Xaverius Najoan
+Jurusan Teknik Elektro Fakultas Teknik UNSRAT, e-mail : astriafirman@gmail.com
+Abstract – The Faculty of Engineering in Sam Ratulangi Manado
+University already uses a web-based information system. However,
+this system is only accessible by the library’s staff members. Therfore,
+a more capable information system is required. The waterfall
+development methodology is used in the development of the
+application in conjunction with Adobe Dreamweaver for interface
+design. This application is proven to help with automating the
+recording process of lending, returning, acquisition, and generally
+inproving book search time.
+Keywords : Dreamweaver, Library, Information System, Waterfall
+
+Abstrak - Sistem Informasi Perpustakaan Fakultas Teknik
+Universitas Sam Ratulangi Manado sudah menggunakan sistem
+informasi berbasis web. Tetapi sistem ini hanya bisa diakses oleh
+pegawai perpustakaan saja. Oleh karena itu dibutuhkan sistem
+informasi perpustakaan yang memadai, untuk memproses
+pencarian buku secara otomatis dan menghasilkan informasi yang
+cepat dan tepat. Dalam pengembangan sistem informasi yang ada
+pada Perpustakaan Fakultas Teknik Universitas Sam Ratulangi
+Manado digunakan metode waterfall, aplikasi ini dibuat dengan
+menggunakan PHPMyAdmin dan dibantu oleh aplikasi Adobe
+Dreamweaver untuk mendesign tampilan sistem informasi tersebut.
+Aplikasi ini membantu proses pencatatan dengan otomatisasi
+peminjaman, pengembalian, permintaan peminjaman serta
+membantu mempercepat proses pencarian buku untuk anggota
+perpustakaan.
+Kata Kunci : Dreamweaver, Perpustakaan, Sistem Informasi,
+Waterfall
+
+I. PENDAHULUAN
+
+Perkembangan informasi teknologi saat ini telah
+berkembang dengan pesat. Penggunaan website dalam
+menyampaikan informasi sangatlah membantu dan bermanfaat
+bagi
+lembaga-lembaga
+atau
+perusahaan-perusahaan.
+Penyampaian informasi dengan website tidak membutuhkan
+waktu yang lama dan dapat dilakukan darimana saja. Tidak
+dibatasi oleh tempat,waktu dan biaya. Proses mendapatkan
+informasi dari website juge lebih up to date. Informasi yang
+ditampilkan dan disajikan dapat berubah seiring jalannya waktu
+sehingga informasi yang disajikan tidak ketinggalan zaman atau
+terlambat. Kemudahan ini yang membuat website sebagai sarana
+informasi yang digemari user saat ini.
+Membangun Sistem Informasi (SI) perusahaan bukan
+sekadar mengotomatisasi sebagian proses yang secara rutin
+dilakukan, melainkan menciptakan suatu aliran informasi yang
+baru yang secara sistematis dan terintegrasi disusun menjadi
+sebuah sistem yang terpadu. Selaras dengan perkembangan
+teknologi informasi, membangun sebuah sistem informasi
+bertujuan untuk membantu meningkatkan kinerja dan
+operasional kantor.
+
+Perpustakaan adalah sebuah koleksi buku dan majalah.
+Walaupun dapat diartikan sebagai koleksi pribadi perseorangan,
+namun perpustakaan lebih umum dikenal sebagai sebuah koleksi
+besar yang dibiayai dan dioperasikan oleh sebuah kota atau
+institusi, dan dimanfaatkan oleh masyarakat yang rata-rata tidak
+mampu membeli sekian banyak buku atas biaya sendiri. Inilah
+yang disebut dengan perpustakaan konvensional.
+Sistem informasi perpustakaan adalah proses
+komputerisasi untuk mengolah data dalam suatu perpustakaan.
+Semua di proses menggunakan
+software tertentu seperti
+software pengolah database. Petugas perpustakaan dapat selalu
+memonitor tentang ketersediaan buku, daftar buku baru,
+peminjaman buku, dan pengembalian buku.
+Jadi dibandingkan dengan perpustakaan konvensional,
+sistem informasi perpustakaan lebih memudahkan pegawai
+perpustakaan dan pengguna perpustakaan dalam mengelolah dan
+meminjam buku.
+
+II. LANDASAN TEORI
+A. Sistem Informasi
+Manusia hidup di dunia penuh dengan sistem, di
+sekeliling manusia apa yang dilihat sebenarnya adalah kumpulan
+dari suatu sistem. Penerimaan mahasiswa baru, sistem
+perkuliahan, sistem perekonomian, sistem bisnis, sistem
+transportasi dan sebagainya merupakan contoh dari sistem.
+Menurut (McLeod, 2004) sistem adalah sekelompok elelmenelemen yang terintegrasi dengan tujuan yang sama untuk
+mencapai tujuan.
+Menurut (McLeod, 2004) informasi adalah data yang
+diolah menjadi bentuk lebih berguna dan lebih berarti bagi yang
+menerimanya. Informasi juga disebut data yang diproses atau
+data yang memiliki arti. Informasi merupakan data yang telah
+diproses sedemikian rupa sehingga meningkatkan pengetahuan
+seseorang yang menggunakan. Para pembuat keputusan
+memahami bahwa informasi menjadi faktor kritis dalam
+menentukan kesuksesan atau kegagalan dalam suatu bidang
+usaha. Sistem apapun tanpa ada informasi tidak akan berguna,
+karena sistem tersebut akan mengalami kemacetan dan akhirnya
+berhenti. Informasi dapat berupa data mentah, data tersusun,
+kapasitas sebuah saluran informasi, dan sebagainya.
+Sistem informasi merupakan kombinasi teratur dari
+orang-orang, perangkat keras (hardware), perangkat lunak
+(software), jaringan komunikasi, dan sumber daya data yang
+mengumpulkan, mengubah, dan menyebarkan informasi dalam
+sebuah organisasi.
+Adapun pengertian lain sistem informasi adalah suatu sistem di
+dalam suatu organisasi yang mempertemukan kebutuhan
+pengolahan data transaksi harian, mendukung operasi, bersifat
+manajerial dan kegiatan strategi dari suatu organisasi serta
+menyediakan pihak luar tertentu dengan laporan-laporan yang
+diperlukan.
+
+29
+
+E-journal Teknik Elektro dan Komputer vol.5 no.2 Januari-Maret 2016, ISSN 2301-8402
+System
+Information
+Engineering
+Software
+Requirement
+s Analysis
+
+Design
+
+Coding
+
+Testing /
+Verification
+
+Maintenance
+
+Gambar 1. Model proses waterfall
+
+Sistem informasi juga dapat di definisikan sebagai suatu
+sistem yang dibuat oleh manusia yang terdiri dari komponenkomponen dalam organisasi untuk menyajikan informasi. Sistem
+informasi merupakan sistem pembangkit informasi, kemudian
+dengan integrasi yang dimiliki antar sub sistem, maka sistem
+informasi akan mampu menyediakan informasi yang berkualitas,
+tepat, cepat dan akurat sesuai dengan manajemen yang
+membutuhkannya.
+Pada lingkungan berbasis komputer, sistem informasi
+menggunakan perangkat keras dan lunak komputer, jaringan
+telekomunikasi, manajemen basis data, dan berbagai bentuk
+teknologi informasi yang lain dengan tujuan untuk mengubah
+sumber data menjadi berbagai macam informasi yang
+dibutuhkan oleh pemakai.
+Secara sederhana dapat dikatakan bahwa data diolah
+menjadi suatu informasi. Dan pada tahapan selanjutnya, sebuah
+informasi akan menjadi data untuk terciptanya informasi yang
+lain.
+B. PHP
+PHP atau kependekan dari Hypertext Preprocessor
+adalah salah satu bahasa pemrograman open source yang sangat
+cocok atau dikhususkan untuk pengembangan web dan dapat
+ditanamkan pada sebuah skripsi HTML. Bahasa PHP dapat
+dikatakan menggambarkan beberapa bahasa pemrograman
+seperti C, Java, dan Perl serta mudah untuk dipelajari.
+PHP merupakan bahasa scripting server – side, dimana
+pemrosesan datanya dilakukan pada sisi server. Sederhananya,
+serverlah yang akan menerjemahkan skrip program, baru
+kemudian hasilnya akan dikirim kepada client yang melakukan
+permintaan.
+Adapun pengertian lain PHP adalah akronim dari
+Hypertext Preprocessor, yaitu suatu bahasa pemrograman
+berbasiskan kode – kode (script) yang digunakan untuk
+mengolah suatu data dan mengirimkannya kembali ke web
+browser menjadi kode HTML”.
+Menurut Kustiyaningsih (2011:114), “PHP (atau
+resminya PHP: Hypertext Preprocessor) adalah skrip bersifat
+server – side yang ditambahkan ke dalam HTML”.
+
+30
+
+Pada prinsipnya server akan bekerja apabila ada
+permintaan dari client. Dalam hal ini client menggunakan
+kode-kode PHP untuk mengirimkan permintaan ke server.
+Sistem kerja dari PHP diawali dengan permintaan yang
+beasal dari halaman website oleh browser. Berdasarkan URL
+atau alamat website dalam jaringan internet, browser akan
+menemukan sebuah alamat dari webserver, mengidentifikasi
+halaman yang dikehendaki, dan menyampaikan segala informasi
+yang dibutuhkan oleh webserver.
+Selanjutnya webserver akan mencarikan berkas yang
+diminta dan menampilkan isinya di browser. Browser yang
+mendapatkan isinya segera menerjemahkan kode HTML dan
+menampilkannya. Lalu bagaimana apabila yang dipanggil oleh
+user adalah halaman yang mengandung script PHP? Pada
+prinsipnya sama dengan memanggil kode HTML, namun pada
+saat permintaan dikirim ke web-server, web-server akan
+memeriksa tipe file yang diminta user. Jika tipe file yang diminta
+adalah PHP, maka akan memeriksa isi script dari halaman PHP
+tersebut.
+Apabila dalam file tersebut tidak mengandung script
+PHP, permintaan user akan langsung ditampilkan ke browser,
+namun jika dalam file tersebut mengandung script PHP, maka
+proses akan dilanjutkan ke modul PHP sebagai mesin yang
+menerjemahkan script-script PHP dan mengolah script tersebut,
+sehingga dapat dikonversikan ke kode-kode HTML lalu
+ditampilkan ke browser user.
+C. MySQL dan Basis Data
+Menurut Kustiyahningsih (2011:145), “MySQL adalah
+sebuah basis data yang mengandung satu atau jumlah tabel.
+Tabel terdiri atas sejumlah baris dan setiap baris mengandung
+satu atau sejumlah tabel.Tabel terdiri atas sejumlah baris dan
+setiap baris mengandung satu atau sejumlah tabel”.
+Menurut Wahana Komputer (2010:21), MySQL adalah
+database server open source yang cukup popular keberadaannya.
+Dengan berbagai keunggulan yang dimiliki, membuat software
+database ini banyak digunakan oleh praktisi untuk membangun
+suatu project.Adanya fasilitas API (Application Programming
+Interface yang dimiliki oleh MySQL, memungkinkan bermacam
+– macam aplikasi komputer yang ditulis dengan berbagai bahasa
+pemrograman dapat mengakses basis data MySQL.
+Tipe data MySQL, menurut Kustiyahningsih (2011:147),
+“Tipe data MySQL adalah data yang terdapat dalam sebuah tabel
+berupa field – field yang berisi nilai dari data tersebut.Nilai data
+dalam field memiliki tipe sendiri – sendiri”.
+D. Model Proses Waterfall
+Salah satu metode perancangan menurut Pressman
+(1997) yang dapat digunakan adalah Metode Waterfall. Nama
+model ini sebenarnya adalah “Linear Sequential Model”. Model
+ini sering disebut dengan “classic life cycle” atau model
+waterfall. Model ini adalah model yang muncul pertama kali
+yaitu sekitar tahun 1970 sehingga sering dianggap kuno, tetapi
+merupakan model yang paling banyak dipakai didalam Software
+Engineering (SE). Model ini melakukan pendekatan secara
+sistematis dan urut mulai dari level kebutuhan sistem lalu
+menuju ke tahap analisis, desain, coding, testing / verification,
+dan maintenance. Disebut dengan waterfall karena tahap demi
+tahap yang dilalui harus menunggu selesainya tahap sebelumnya
+
+31
+
+E-journal Teknik Elektro dan Komputer vol.5 no.2 Januari-Maret 2016, ISSN 2301-8402
+dan berjalan berurutan. Model Waterfall bisa dilihat pada
+gambar 1.
+E. UML
+Menurut Philippe Kruchten (1995), UML adalah bahasa
+grafis untuk visualizing, specifying, constructing and
+documenting setiap artifak dari sistem perangkat lunak.
+Alistair Cockburn menjelaskan bahwa Usecase
+merupakan kontrak untuk perilaku. Kontrak mendefinisikan
+dengan cara bagaimana suatu aktor menggunakan sistem
+berbasis komputer untuk menyelesaikan permasalahanpermasalahan yang dihadapinya.
+Activity Diagram memodelkan workflow proses bisnis
+dan urutan aktivitas dalam sebuah proses. Diagram ini sangat
+mirip dengan flowchart karena memodelkan workflow dari satu
+aktivitas ke aktivitas lainnya atau dari aktivitas ke status.
+Menguntungkan untuk membuat Activity Diagram pada awal
+pemodelan proses untuk membantu memahami keseluruhan
+proses.
+Activity
+Diagram
+juga
+bermanfaat
+untuk
+menggambarkan parallel behaviour atau menggambarkan
+interaksi antara beberapa use case.
+Sequence diagram menggambarkan interaksi antar
+objek di dalam dan di sekitar sistem (termasuk pengguna,
+display, dan sebagainya) berupa message yang digambarkan
+terhadap waktu. Sequence diagram terdiri atar dimensi vertikal
+(waktu) dan dimensi horizontal (objek-objek yang terkait satu
+sama lain).
+Sequence
+diagram
+biasa
+digunakan
+untuk
+menggambarkan skenario atau rangkaian langkah-langkah yang
+dilakukan sebagai respons dari sebuah event untuk menghasilkan
+output tertentu. Diawali dari apa yang men-trigger aktivitas
+tersebut, proses dan perubahan apa saja yang terjadi secara
+internal dan output apa yang dihasilkan. Masing-masing objek,
+termasuk aktor, memiliki lifeline vertikal. Message digambarkan
+sebagai garis berpanah dari satu objek ke objek lainnya. Pada
+fase desain berikutnya, message akan dipetakan menjadi
+operasi/metoda dari class. Activation bar menunjukkan lamanya
+eksekusi sebuah proses, biasanya diawali dengan diterimanya
+sebuah message.
+ERD merupakan suatu model untuk menjelaskan
+hubungan antar data dalam basis data berdasarkan objek-objek
+dasar data yang mempunyai hubungan antar relasi. ERD untuk
+memodelkan struktur data dan hubungan antar data, untuk
+menggambarkannya digunakan beberapa notasi dan symbol.
+merupakan komponen penyusun ERD.
+Perpustakaan yang dapat dimanfaatkan oleh
+mahasiswa adalah fakultas Teknik Unsrat, Perputakaan Pusat
+Unsrat dan Perpustakaan lainnya yang dapat dimanfaatkan
+berdasarkan rekomendasi dari pimpinan fakutas teknik.
+Mahasiswa yang dapat memanfaatkan fasilitas
+perpustakaan harus terdaftar sebagai mahasiswa padatahun
+kuliah yang berjalan dan melengkapi persyaratan yang
+ditetapkan oleh masing-masing perpustakaan. Khusus
+Perpustakaan di luar fakultas teknik, mahasiswa hanya dapat
+diberikan rekomendasi untuk menjadi anggota perpustakaan jika
+diperlukan.
+Perpustakaan fakultas teknik memiliki luas 250 m2,
+terdiri dari ruang referensi, ruang sirkulasi ruang administrasi,
+dan ruang kepala perpustakaan. Setiap ruangan dilengkapi AC
+
+untuk kenyamanan selama berada di perpustakaan. Jaringan
+LAN computer dapat digunakan untuk penelusuran pustaka,
+akses internet.
+Perpustakaan Fakultas Teknik Menyediakan bahan
+yang diperlukan untuk menunjang kebutuhan informasi
+akademik.
+Layanan perpustakaan dibuka setiap hari kerja dengan
+waktu pelayanan untuk hari Senin-Kamis jam 9:00-15:00 dan
+untuk Hari Jumat 9:00-12:30. Layanan yang disediakan antara
+lain layanan penelusuran pustaka dengan komputer,
+peminjaman, pengembalian, fotocopy bahan pustaka, scan
+peta/gambar, akses internet gratis.
+Jumlah dan jangka waktu peminjaman pustaka adalah 2
+eksemplar selama 1 minggu. Keterlambatan pengembalian akan
+dikenakan denda sebesar Rp. 1.000,- /buku/hari, temasuk hari
+libur.
+Jumlah anggota perpustakaan pada semester genap
+tahun ajaran 2010/2011 berjumlah 2514 orang. Setiap
+mahasiswa Fakultas Teknik berhak menjadi anggota
+perpustakaan dengan membayar iuran perpustakaan dan mengisi
+formulir pendaftaran. Kartu anggota berlaku selama 1 semester.
+Pengelola perpustakaan Fakultas Teknik terdiri dari
+kepala perpustakaan, sekertaris perpustakaan dan tenaga
+administrasi berjumlah 9 orang terdiri dari 4 pustakawan dan 5
+staf penunjang.
+III. METODOLOGI PENELITIAN
+A. Objek dan Lokasi Penelitian
+Objek penelitian ini adalah tentang perancangan
+Perpustakaan online dan bertempat di Perpustakaan Fakultas
+Teknik Universitas Sam Ratulangi Manado. Dalam metodologi
+penelitian penulis melakukan survei langsung ke perpustakaan
+Universitas Sam Ratulangi Manado.
+
+Gambar 2. Kerangka Keja
+
+32
+
+E-journal Teknik Elektro dan Komputer vol.5 no.2 Januari-Maret 2016, ISSN 2301-8402
+B. Framework Penelitian
+Pada gambar 2 menggunakan COBIT Framework
+(Control Objective for Information Related Tecnology) yang
+merupakan kerangka kerja untuk kebutuhan manajemen untuk
+pengukuran dan pengendalian teknologi informasi menyediakan
+alat untuk mengukur kemampuan teknologi informasi yang akan
+senantiasa dikembangkan.
+C. Software Requirements Analysis
+Proses Bisnis
+Proses bisnis adalah suatu kumpulan aktivitas atau
+pekerjaan terstruktur yang saling terkait untuk menyelesaikan
+suatu masalah tertentu atau yang menghasilkan produk atau
+layanan (demi meraih tujuan tertentu).
+External Interface Requirements
+User interface dibuat dengan menggunakan warna dasar
+biru sebagai warna dari Fakultas Teknik, dipadukan dengan
+warna-warna lain yang cocok dengan warna dasar. Perangkat
+keras yang dibutukan untuk tersambung dengan sistem yaitu
+printer yang akan berfungsi sebagai alat cetak. Diperlukan
+adanya jaringan lokal untuk mengakses sistem yang akan
+dikembangkan.
+Functional Requirements
+Pengguna dan admin dapat melakukan Login dengan
+menggunakan id masing masing beserta password. Pengguna
+dan admin dapat melakukan logout untuk keluar dari aplikasi.
+Pengguna dapat mencari katalog buku yang tersedia pada
+perpustakaan. Admin dapat melakukan manajemen data yaitu
+pinjam, tambah, dan hapus. Dalam hal ini buku-buku yang
+tersedia. Admin dapat melakukan manajemen peminjaman
+beserta proses pengembalian. Admin dapat mengelolah data
+anggota. Dalam hal ini memberikan id dan password.
+
+Gambar 3. Sistem Informasi Perpustakaan Teknik Unsrat
+
+Non Functional Requirements
+Sistem harus cepat untuk kenyamanan pengguna baik Admin
+maupun pegawai perpustakaan, sehingga desain antarmuka akan
+sederhana. Sistem harus siap menangani akses user yang terdiri
+dari pegawai serta user. pengolahan data hanya
+dilakukan oleh admin sehingga sistem tidak harus
+menggunakan multiple server. Sistem harus bisa diakses kapan
+saja sehingga server harus dalam keadaan aktif 24 jam x 7 hari.
+Dengan desain yang sederhana sistem dapat diakses walaupun
+kualitas jaringan sedang down. Keamanan sistem serta data
+harus terjamin sehingga dibutuhkan sistem login dengan
+enkripsi.
+Sistem Informasi Perpustakaan Fakultas Teknik Universitas
+Sam Ratulangi Manado merupakan studi kasus dari tugas akhir
+ini. Sistem informasi ini memiliki fitur-fitur seperti yang terlihat
+pada gambar 3. Pada sistem informasi ini masih memiliki
+kelemahan hanya bisa diakses oleh pegawai perpustakaan saja.
+Sehingga penulis membuat system informasi yang bisa diakses
+oleh pegawai perpustakaan dan anggota yang terdaftar.
+D.
+
+Design
+Tahapan selanjutnya adalah menganalisa kebutuhan sistem.
+Sistem dirancang dengan client server. Untuk rancangan aplikasi
+akan didesain menggunakan Dreamweaver dan database dibuat
+menggunakan database Mysql. Gambaran sistem ini akan
+dipaparkan dengan menggunakan UML.
+Gambar 4 adalah usecase diagram yang merupakan
+gambaran desain keseluruhan sistem perpustakaan. Terdiri dari
+dua aktor yaitu Pegawai sebagai admin dan Pengguna
+perpustakaan. Kedua aktor bisa melakukan login dan logout
+untuk masuk ke sistem, kemudian pegawai bisa mengelola
+peminjaman, manajemen buku yang meng-extend usecase
+hapus, pinjam dan tambah. Pegawai juga bisa menambah
+anggota perpustakaan. Sedangkan Pengguna bisa melakukan
+pencarian buku dan melihat daftar buku.
+
+Gambar 4. Use case diagram
+
+33
+
+E-journal Teknik Elektro dan Komputer vol.5 no.2 Januari-Maret 2016, ISSN 2301-8402
+
+Gambar 7. Home
+
+Gambar 8. Katalog Buku
+Gambar 5. ERD
+
+IV PEMBAHASAN
+
+Gambar 6. Form Login
+
+Pada gambar 5 dapat dilihat ERD dari sistem
+perpustakaan yang memuat seluruh tabel. Tabel pustakawan dan
+tabel peminjaman memiliki koneksi dengan tiga tabel yang lain.
+Pustakawan berhubungan dengan tabel log (many to many).
+Tabel peminjaman berhubungan dengan tabel anggota (many to
+one), tabel buku (many to one) dan tabel telat (many to many).
+Sedangkan tabel config dan kas tidak berhubungan dengan tabel
+yang lain karena tabel kas hanya menyimpan saldo akhir
+perpustakaan tanpa menampilkan sejarah saldo dan tabel konfig
+hanya merupakan tabel untuk menyimpan konfigurasi.
+Setelah mengetahui kebutuhan sistem dan fungsi yang
+dibutuhkan, tahapan selanjutnya adalah membuat antarmuka dari
+sistem. Interface dibuat minimalis agar terkesan mudah di
+operasikan.
+E.
+
+Construction
+Tahap ini adalah proses pembuatan Aplikasi web,
+tampilan dari website dibuat dengan menggunakan
+Dreamweaver degan dibantu dengan CSS untuk mempercantik
+tampilan, Hasil dari Dreamweaver berupa file HTML dan CSS,
+kemudian dilakukan pengkodean dengan bahasa PHP pada file
+yang telah dihasilkan sebelumnya. Kode-kode PHP adalah untuk
+mengakses database MySQL, Kontrol pengguna, input data
+lewat proses form, pemerosesan data-data, serta menampilkan
+output pada halaman web.
+
+Coding PHP Sript
+Config.php berisi konfogurasi dan koneksi database.
+Terdapat fungsi sambung yang akan melakukan koneksi
+database dan fungsi tutup yang akan mengakhiri suatu koneksi
+database. Skrip ini akan digunakan oleh semua skrip lain yang
+memerlukan koneksi ke database. Masuk.php merupakan skrip
+untuk melakukan login untuk admin dan pengunjung jika login
+berhasil index.php akan dikunjungi. Index.php skrip ini
+merupakan halaman beranda, yang pertama dikunjungi admin
+setelah berhasil melakukan login. Berisi link-link ke halamanhalaman lain. Anggota.php Skrip ini mengatur data-data anggota
+perpustakaan. Di dalam skrip ini terdapat perintah perintah insert
+data, hapus data dan import data. Skrip ini juga akan
+menampilkan daftar anggota melalui select table anggota sesuai
+dengan kata kunci dan kategori pencarian.
+Form Login
+Untuk mengakses Sistem Informasi Perpustakaan online
+ini Pengguna harus memasukan id beserta password-nya pada
+form login. form masuk dapat diakses dengan cara menekan link
+login pada halaman index. Gambar form login dapat dilihat pada
+gambar 6.
+Administrator atau Anggota perpustakaan lain harus
+memasukkan id serta password yang telah terdaftar sebelumnya.
+Pada saat tombol ini ditekan maka sistem akan memeriksa data
+pada tabel user dan melakukan pengalihan ke halaman home
+untuk admin. Jika pengguna memasukkan data yang salah maka
+akan menampilkan pesan error.
+Halaman Home
+
+Setelah admin sukses melakukan login sistem akan
+mengalihkan ke halaman Home yang berfungsi sebagai
+pusat kegiatan admin . Pada halaman home terdapat menumenu sebagai berikut, Katalog buku; yang memuat daftar
+buku yang ada pada perpustakaan Fatek Unsrat.
+
+34
+
+E-journal Teknik Elektro dan Komputer vol.5 no.2 Januari-Maret 2016, ISSN 2301-8402
+
+Gambar 12. Log aktivitas
+Gambar 9. Tambah Buku
+
+Gambar 13. Data anggota
+Gambar 10. Import
+
+Gambar 14. Form Database
+
+Form Import Data Buku
+Selain dengan cara form data, admin juga dapat
+melakukan input buku dengan cara melakukan import data buku
+dari file excell atau file dengan format csv. Form ini berfungsi
+untuk mengimport buku baru. Hanya admin saja yang bisa
+mengimport buku baru pada katalog buku. selengkapnya dapat
+dilihat pada gambar 10.
+
+Gambar 11. Peminjaman
+
+Beserta fasilitas tambah dan import buku untuk admin.
+Peminjaman; merupakan fitur untuk melakukan peminjaman
+dan pengembalian buku. Untuk tampilan selengkapnya dapat
+dilihat pada gambar 7.
+Halaman Katalog Buku
+Form ini merupakan salah satu fitur yang ada pada
+halaman home yang menampilkan semua data buku yang ada
+pada aplikasi perpustakaan. User bisa mencari buku yang ingin
+dipinjam. Administrator dapat menambah buku dengan form
+atau dengan melakukan import data buku. Halaman katalog buku
+dapat dilihat pada gambar 8.
+Halaman Tambah Buku
+Form ini berfungsi untuk menambahkan buku baru
+beserta informasi masing-masing buku. Hanya admin saja yang
+bisa menambahkan buku baru pada katalog buku. Admin harus
+memasukan data buku baru dan setelah admin menekan tombol
+tambah maka data yang dimasukan akan disimpan dalam
+database. selengkapnya dapat dilihat pada gambar 9.
+
+Form Peminjaman
+Pada gambar 11 adalah Form peminjaman berfungsi
+untuk memperlihatkan data-data peminjaman dan untuk
+pengembalian buku yang dipinjam oleh anggota perpustakaan.
+Untuk mengelolah peminjaman admin harus menekan salah satu
+daftar buku kemudian akan keluar form pengembalian, menu –
+menu yang ada adalah pengembalian dan pengembalian semua
+buku.
+Form Log Aktivitas
+Form log/aktivitas adalah fitur administratif yang
+berfungsi untuk memperlihatkan seluruh riwayat kegiatan admin
+dan anggota agar proses yang terjadi pada Sistem menjadi lebih
+transparan. Daftar kegiatan ditampilkan dalam bentuk tabel yang
+paling terbaru berada di atas tabel. selengkapnya dapat dilihat
+pada gambar 12
+Halaman Data Anggota
+Form data anggota berfungsi untuk memperlihatkan
+daftar beserta data-data anggota perpustakaan yang telah
+terdaftar sebelumnya sebagai anggota perpustakaan. Jika
+anggota sudah tidak terdaftar lagi dan perlu pembersihan maka
+admin dapat menghapus anggota tersebut dengan menekan
+
+35
+
+E-journal Teknik Elektro dan Komputer vol.5 no.2 Januari-Maret 2016, ISSN 2301-8402
+
+Gambar 15. Pengaturan
+Gambar 17. Pengunjung
+
+TABEL I TESTING
+
+Gambar 16. Peminjaman
+
+tombol hapus pada record yang dimaksud. Terdapat juga menu
+tambah dan import data anggota. Jika admin menambahkan
+anggota baru, anggota tersebut akan langsung mendapatkan id
+dan password yang digunakan untuk login. Untuk import data
+menggunakan data CSV. selengkapnya pada gambar 13.
+Form Database
+Form database berfungsi untuk membackup database
+dari aplikasi perpustakaan ini kemudian akan menghasilkan file
+mandiri yang dapat disimpan sebagai backup atau arsip. Admin
+hanya perlu menekan tombol backup seperti terlihat pada
+gambar 14.
+Form Pengaturan
+Form pengaturan adalah fitur khusus administrator
+yang berfungsi untuk mengisi data-data konfigurasi standar dan
+tampilan dari sistem aplikasi perpustakaan ini. Terdiri dari nama
+perpustakaan, alamat perpustakaan, dan aturan
+lama
+peminjaman. selengkapnya dapat dilihat pada gambar 15.
+Form Pengembalian
+Form pengembalian berfungsi untuk mengembalikan
+buku yang telah di pinjam melalui sistem aplikasi perpustakaan
+ini. Tapi pengembalian dari sistem aplikasi ini hanya akan
+dilakukan oleh pegawai perpustakaan setelah buku yang di
+pinjam, dikembalikan langsung oleh peminjam ke perpustakaan.
+Admin harus menekan tombol pengembalian buku.
+selengkapnya dapat dilihat pada gambar 16.
+Form Pengunjung
+Form pengunjung ini muncul pada awal sistem aplikasi.
+Form ini berfungsi untuk mempermudah pengunjung atau tamu
+yang bukan anggota bisa mengetahui daftar buku yang terdapat
+dalam Perpustakaan Fakultas Teknik Universitas Sam Ratulangi
+Manado, tanpa harus mendaftar terlebih dahulu sebagai anggota.
+selengkapnya dapat dilihat pada gambar 17.
+Testing
+Pada tahap ini dilakukan untuk menghasilkan software
+yang harus benar-benar sesuai dengan kebutuhan yang sudah
+
+didefinisikan sebelumnya. TABEL I adalah hasil testing dari
+fitur-fitur Sistem Informasi yang dibuat.
+V KESIMPULAN DAN SARAN
+
+A. Kesimpulan
+Dari penelitian ini telah dirancang dan dihasilkan suatu
+“Sistem Informasi Perpustakaan Online Berbasis Web”. Sistem
+informasi ini dirancang berdasarkan studi kasus Perpustakaan
+Teknik Universitas Sam Ratulangi. Manfaat dari sistem
+informasi ini adalah sebagai berikut : Penulis mencoba
+memberikan kemudahan bagi petugas/pengelola dalam
+melakukan proses pengolahan data dan laporan kepada pimpinan
+dengan mudah dan lebih akurat. Penulis mencoba membuat
+sistem informasi yang mempermudah mahasiswa mencari data
+buku, informasi peminjaman buku dan melakukan pengajuan
+pendaftaran anggota perpustakaan yang bisa dilakukan dengan
+menggunakan jaringan internet Penulis mencoba membantu
+petugas/pengelolah yang ada untuk memiliki Sistem Informasi
+berbasis Web.
+
+E-journal Teknik Elektro dan Komputer vol.5 no.2 Januari-Maret 2016, ISSN 2301-8402
+B.
+
+Saran
+
+Diharapkan para pengembang dan para mahasiswa yang
+akan membangun suatu sistem dapat menggunakan sistem
+informasi ini. Diharapkan aplikasi ini dapat diintegrasikan
+dengan sistem informasi yang telah ada di Perpustakaan Fakultas
+Teknik Universitas Sam Ratulangi Manado.
+DAFTAR PUSTAKA
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+
+A. B. Ladjamudin, Analisis dan Desain Sistem Informasi, Tangerang:
+Graha Ilmu, 2005.
+B. Sutedjo Dharma Oetomo, Perancangan & Pembangunan Sistem
+Informasi, Yogyakarta: ANDI, 2006.
+D. H. Setiabudi, Visual Studio, Jakarta: PT. Gramedia, 2003.
+H. M. Jogiyanto , Analisis dan Desain Informasi: Pendekatan Terstruktur
+Teori dan Praktik Aplikasi Bisnis, Yogyakarta: Andi, 2005.
+J. Simarmata & Iman Paryudi, Basis Data, Yogyakarta: ANDI, 2005.
+R. McLeod, Sistem Informasi Manajemen, Jakarta: PT. Prenhallind, 2004.
+T. Sutabri, Konsep Sistem Informasi, Jakarta: ANDI, 2012.
+Yakub, Pengantar Sistem Informasi, Yogyakarta: Graha Ilmu, 2012.
+Y. Kustiyahningsih, D. Rosa, Pemrograman Basis Data Berbasis WEB
+Menggunakan PHP dan Mysql, Yogyakarta: Graha Ilmu, 2011.
+
+36
+
+

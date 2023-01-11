@@ -1,0 +1,10743 @@
+TA/TL/2018/0841
+
+TUGAS AKHIR
+
+ANALISIS PENGARUH CURAH HUJAN TERHADAP
+KUALITAS AIR PARAMETER MIKROBIOLOGI DAN
+STATUS MUTU AIR DI SUNGAI CODE,
+YOGYAKARTA
+Diajukan Kepada Universitas Islam Indonesia untuk Memenuhi Persyaratan
+Memperoleh Derajat Sarjana (S1) Teknik Lingkungan
+
+PUTRI NURJANAH
+14513073
+
+PROGRAM STUDI TEKNIK LINGKUNGAN
+FAKULTAS TEKNIK SIPIL DAN PERENCANAAN
+UNIVERSITAS ISLAM INDONESIA
+YOGYAKARTA
+2018
+
+i
+
+TUGAS AKHIR
+
+ANALISIS PENGARUH CURAH HUJAN TERHADAP
+KUALITAS AIR PARAMETER MIKROBIOLOGI DAN
+STATUS MUTU AIR DI SUNGAI CODE,
+YOGYAKARTA
+Diajukan Kepada Universitas Islam Indonesia untuk Memenuhi Persyaratan
+Memperoleh Derajat Sarjana (S1) Teknik Lingkungan
+
+Disusun Oleh :
+PUTRI NURJANAH
+14513073
+Disetujui,
+Dosen Pembimbing:
+
+Any Juliani, S.T., M.Sc. (Res. Eng.)
+Tanggal:
+
+Dr. Joni Aldilla Fajri, S.T., M.Eng.
+Tanggal:
+
+Mengetahui,
+Ketua Prodi Teknik Lingkungan FTSP UII
+
+Eko Siswoyo, S.T., M.Sc.ES., Ph.D.
+Tanggal:
+ii
+
+TUGAS AKHIR
+
+ANALISIS PENGARUH CURAH HUJAN TERHADAP
+KUALITAS AIR PARAMETER MIKROBIOLOGI DAN
+STATUS MUTU AIR DI SUNGAI CODE,
+YOGYAKARTA
+Diajukan Kepada Universitas Islam Indonesia untuk Memenuhi Persyaratan
+Memperoleh Derajat Sarjana (S1) Teknik Lingkungan
+
+Disusun Oleh :
+
+PUTRI NURJANAH
+14513073
+
+Telah diperiksa dan disetujui oleh:
+
+iii
+
+PERNYATAAN
+
+Dengan ini saya menyatakan bahwa:
+
+1. Karya tulis ini adalah asli dan belum pernah diajukan untuk mendapatkan
+gelar akademik apapun, baik di Universitas Islam Indonesia maupun di
+perguruan tinggi lainnya.
+2. Karya tulis ini adalah merupakan gagasan, rumusan dan penelitian saya
+sendiri, tanpa bantuan pihak lain kecuali arahan Dosen Pembimbing.
+3. Dalam karya tulis ini tidak terdapat karya atau pendapat orang lain, kecuali
+secara tertulis dengan jelas dicantumkan sebagai acuan dalam naskah
+dengan disebutkan nama penulis dan dicantumkan dalam daftar pustaka.
+4. Program software komputer yang digunakan dalam penelitian ini
+sepenuhnya
+
+menjadi
+
+tanggungjawab
+
+saya,
+
+bukan
+
+tanggungjawab
+
+Universitas Islam Indonesia. (apabila menggunakan software khusus)
+5. Pernyataan ini saya buat dengan sesungguhnya dan apabila di kemudian hari
+terdapat penyimpangan dan ketidakbenaran dalam pernyataan ini, maka
+saya bersedia menerima sangsi akademik dengan pencabutan gelar yang
+sudah diperoleh, serta sangsi lainnya sesuai dengan norma yang berlaku di
+perguruan tinggi.
+Yogyakarta,
+
+Juni 2018
+
+Yang membuat pernyataan,
+
+Putri Nurjanah
+NIM: 14513073
+
+iv
+
+KATA PENGANTAR
+
+Puji dan syukur penulis panjatkan kehadirat Allah SWT yang telah
+melimpahkan rahmat, karunia dan kasih sayangNya sehingga penulis dapat
+menyelesaikan tugas akhir dengan baik dan tepat pada waktunya. Shalawat serta
+salam semoga tetap tercurahkan kepada junjungan Nabi Besar Muhammad SAW,
+kepada keluarganya, sahabatnya, hingga kepada semua umatnya.
+Penulisan tugas akhir diajukan dalam rangka memenuhi salah satu syarat
+untuk memperoleh gelar sarjana (S1) pada Program Studi Teknik Lingkungan,
+Fakultas Teknik Sipil dan Perencanaan, Universitas Islam Indonesia. Adapun judul
+tugas akhir yang diajukan penulis yaitu “Analisis Pengaruh Curah Hujan terhadap
+Kualitas Air Parameter Mikrobiologi dan Status Mutu Air di Sungai Code,
+Yogyakarta”.
+Penyusunan tugas akhir ini tidak terlepas dari bantuan, bimbingan serta
+dukungan dari berbagai pihak. Oleh karena itu, pada kesempatan ini penulis ingin
+menyampaikan rasa terima kasih yang sedalam – dalamnya kepada:
+1. Kedua orang tua, papa dan mama, Bapak Ir. Muhammad Amin Santoso dan
+Ibu Hilda Trisnawati, S.Pd yang sangat penulis cintai dan kasihi atas segala
+doa, dukungan, motivasi, kasih sayang dan cinta serta ketulusan hati yang
+selalu diberikan kepada penulis sehingga penulis dapat menyelesaikan tugas
+akhir ini dengan baik dan tepat pada waktunya.
+2. Bapak Dr. Joni Aldilla Fajri, S.T., M.Eng., selaku pembimbing tugas akhir
+yang telah memberikan bimbingan, arahan, serta waktunya selama
+penelitian dan penyusunan laporan tugas akhir.
+3. Ibu Any Juliani, S.T., M.Sc. (Res. Eng.), selaku dosen pembimbing
+akademik sekaligus pembimbing tugas akhir yang telah bersedia
+meluangkan waktu serta memberikan masukan dalam penyusunan tugas
+akhir.
+
+v
+
+4. Ibu Dr. Suphia Rahmawati, S.T., M.T., selaku dosen penguji yang telah
+bersedia meluangkan waktu serta memberikan masukan serta saran terkait
+tugas akhir ini.
+5. Kakak dan adik, Nur Aini Fadilah, S.Farm, Apt., Muhammad Taufiq Akbar,
+S.Pd dan Muhammad Irfan Rahman yang sangat penulis cintai dan sayangi
+yang telah memberikan doa, dukungan dan motivasi sehingga penulis tetap
+semangat dalam menyelesaikan tugas akhir tepat waktu.
+6. Laboran laboratorium kualitas lingkungan Teknik Lingkungan UII yang
+telah memberikan arahan serta membantu selama proses penelitian di
+laboratorium.
+7. Seluruh dosen dan staff di lingkungan Teknik Lingkungan UII yang telah
+berperan penting dari awal masa perkuliahan hingga selesainya tugas akhir
+ini.
+8. Rekan – rekan Teknik Lingkungan UII 2014 atas dukungan, saran dan
+masukan yang diberikan kepada penulis.
+9. Semua pihak yang telah membantu penulis dalam penyusunan tugas akhir
+yang tidak dapat penulis sebutkan satu per satu.
+
+Semoga Allah SWT selalu memberikan perlindungan dan membalas segala
+kebaikan hati kepada semuanya. Akhir kata penulis menyadari bahwa tugas akhir
+ini masih terdapat banyak kekurangan, oleh karena itu kritik dan saran yang
+membangun diharapkan oleh penulis untuk perbaikan di masa mendatang dan
+semoga tugas akhir ini dapat memberikan informasi serta bermanfaat bagi
+semuanya.
+
+Yogyakarta, 3 Juni 2018
+
+Penulis
+
+vi
+
+ABSTRACT
+
+Code River is one of the rivers in Special Region of Yogyakarta that flows
+through Yogyakarta city and across a densely populated area along the riverbank
+which has an impact on increasing the contamination in the river. One of the causes
+of water contamination in the Code River is the input of domestic waste which
+decreased the water quality, especially the microbiological parameters. The
+presence of microorganisms such as total coliform and fecal coliform can degrade
+the water quality so it can not be used for certain needs. Changes in weather
+patterns can also affect the water quality especially in urban areas. The occurrence
+of rainfall in a certain level can facilitate the transport of bacteria into the river
+causing changes in water quality which indicated by microbial contamination level
+in the watershed. This study aims to analyze the influence of rainfall on the water
+quality based on microbiological parameters and water quality status using
+Pollution Index method in the Code River. Samples from the river were collected in
+the rainy season using purposive sampling method and analyzed for the presence
+of total coliform and fecal coliform by using MPN method, while the statistic
+analysis was performed using correlation test. The result showed a very strong
+positive correlation (r = 0,800 - 1,000) between rainfall and microbiological
+parameters (total coliform and fecal coliform) in the Code River and significant at
+level 5 %. The water quality status included in the category of moderate polluted
+(5.0 <PIj ≤ 10) based on the standard criteria of water quality class II according
+to DIY Governor Regulation No. 20 of 2008 and showed a strong to very strong
+positive correlation (r = 0,700 - 1,000) between rainfall and the Pollution Index.
+
+Keywords: Water Quality, Microbiological Parameters, Rainy Season, Water
+Quality Status, Code River
+
+vii
+
+ABSTRAK
+
+Sungai Code merupakan salah satu sungai di Daerah Istimewa Yogyakarta
+yang mengalir membelah kota Yogyakarta dan melintasi kawasan padat
+permukiman di sepanjang pinggir sungai yang berdampak pada peningkatan
+pencemaran di sungai tersebut. Salah satu penyebab pencemaran air Sungai Code
+adalah adanya masukan limbah domestik yang mengakibatkan penurunan kualitas
+air terutama parameter mikrobiologi. Kehadiran mikroorganisme seperti total
+coliform dan fecal coliform dapat menurunkan kualitas air sungai sehingga tidak
+dapat dimanfaatkan untuk peruntukan tertentu. Perubahan pola cuaca juga dapat
+mempengaruhi masalah kualitas air terutama di daerah perkotaan. Terjadinya
+hujan dengan tingkat tertentu diduga dapat memfasilitasi pengangkutan bakteri ke
+dalam sungai sehingga menyebabkan perubahan kualitas air yang ditunjukkan oleh
+tingkat pencemaran mikroba di daerah aliran sungai. Penelitian ini bertujuan
+untuk menganalisis pengaruh curah hujan terhadap kualitas air Sungai Code
+berdasarkan parameter mikrobiologi serta status mutu air melalui Indeks
+Pencemaran. Lokasi pengambilan sampel air dengan menggunakan metode
+purposive sampling dan dilakukan analisis konsentrasi total coliform dan fecal
+coliform menggunakan metode MPN, sedangkan analisis statistik dilakukan
+dengan menggunakan uji korelasi. Hasil uji korelasi menunjukkan bahwa terdapat
+hubungan positif dengan tingkat sangat kuat (r = 0,800 – 1,000) antara curah hujan
+dan parameter mikrobiologi (total coliform dan fecal coliform) di Sungai Code
+serta memiliki perbedaan yang signifikan pada taraf 5%. Hasil status mutu air
+Sungai Code pada musim hujan diketahui termasuk dalam kategori cemar sedang
+(5,0 < PIj ≤ 10) berdasarkan peruntukan sungai kelas II menurut Peraturan
+Gubernur Daerah Istimewa Yogyakarta Nomor 20 Tahun 2008 serta menunjukkan
+tingkat korelasi positif kuat hingga sangat kuat (r = 0,700 – 1,000) dan signifikan
+antara curah hujan dan nilai Indeks Pencemaran .
+
+Kata kunci: Kualitas Air, Parameter Mikrobiologi, Musim Hujan, Status Mutu Air,
+Sungai Code.
+
+viii
+
+DAFTAR ISI
+
+HALAMAN JUDUL........................................................................................ i
+HALAMAN PENGESAHAN .......................................................................... ii
+SURAT PERNYATAAN KEASLIAN TULISAN ......................................... iv
+KATA PENGANTAR ..................................................................................... v
+ABSTRAK ....................................................................................................... vii
+DAFTAR ISI .................................................................................................... ix
+DAFTAR TABEL ............................................................................................ xii
+DAFTAR GAMBAR ....................................................................................... xiii
+DAFTAR LAMPIRAN .................................................................................... xv
+
+BAB I PENDAHULUAN ................................................................................ 1
+1.1 Latar Belakang ....................................................................................... 1
+1.2 Rumusan Masalah .................................................................................. 3
+1.3 Tujuan .................................................................................................... 4
+1.4 Ruang Lingkup ....................................................................................... 4
+1.5 Manfaat .................................................................................................. 4
+
+BAB II TINJAUAN PUSTAKA ...................................................................... 5
+2.1 Sungai Code ........................................................................................... 5
+2.2 Pencemaran Air Sungai .......................................................................... 6
+2.3 Kualitas Perairan Sungai ........................................................................ 6
+2.4 Parameter Kualitas Air Mikrobiologi..................................................... 7
+2.5 Hubungan Curah Hujan dan Kualitas Air Sungai .................................. 9
+2.6 Baku Mutu Kualitas Air Sungai ............................................................. 11
+2.7 Indeks Pencemaran................................................................................. 12
+
+BAB III METODE PENELITIAN................................................................... 13
+3.1 Diagram Alir Penelitian ......................................................................... 13
+ix
+
+3.2 Lokasi dan Waktu Penelitian ................................................................. 14
+3.3 Pengumpulan Data ................................................................................. 22
+3.4 Metode Pengambilan Sampel Air .......................................................... 23
+3.5 Pengujian Sampel Air ............................................................................ 23
+3.5.1 Parameter Mikrobiologi ................................................................. 23
+3.5.2 Parameter Fisika dan Kimia ........................................................... 26
+3.6 Analisis Data .......................................................................................... 26
+3.6.1 Analisis Hubungan Curah Hujan terhadap Kualitas Air ............... 26
+3.6.2 Analisis Status Mutu Air Metode Indeks Pencemaran (IP) ........... 29
+
+BAB IV ANALISIS DATA DAN PEMBAHASAN ....................................... 31
+4.1 Analisis Curah Hujan dan Parameter Kualitas Air ................................ 31
+4.1.1 Curah Hujan ................................................................................... 31
+4.1.2 Debit ............................................................................................... 32
+4.1.3 Kualitas Air Parameter Mikrobiologi............................................. 34
+4.1.3.1 Total Coliform .................................................................... 34
+4.1.3.2 Fecal Coliform ................................................................... 36
+4.1.3.3 Escherichia coli.................................................................. 39
+4.1.4 Kualitas Air Parameter Fisika dan Kimia ...................................... 40
+4.1.4.1 Suhu.................................................................................... 41
+4.1.4.2 Total Suspended Solid (TSS) ............................................. 42
+4.1.4.3 Total Dissolved Solid (TDS) .............................................. 44
+4.1.4.4 pH ....................................................................................... 46
+4.1.4.5 Oksigen Terlarut (DO) ....................................................... 47
+4.1.5 Analisis Pengaruh Curah Hujan terhadap Kualitas Air Parameter
+Mikrobiologi di Sungai Code ......................................................... 49
+4.1.5.1 Konsentrasi Total Coliform dan Fecal Coliform pada Musim
+Penghujan ........................................................................... 49
+4.1.5.2 Analisis hubungan antara Curah Hujan dan Kualitas Air
+Parameter Mikrobiologi ..................................................... 51
+4.2 Status Mutu Air Sungai Code ................................................................ 56
+
+x
+
+4.2.1 Analisis Status Mutu Air Sungai Code .......................................... 56
+4.2.2 Analisis Hubungan antara Curah Hujan dan Indeks Pencemaran .. 59
+4.3 Perbandingan Data Primer dan Data Sekunder Kualitas Air
+Parameter Mikrobiologi di Sungai Code ................................................ 62
+
+BAB V PENUTUP ........................................................................................... 65
+5.1 Kesimpulan ............................................................................................ 65
+5.2 Saran....................................................................................................... 65
+
+DAFTAR PUSTAKA ...................................................................................... 67
+
+xi
+
+DAFTAR TABEL
+
+Tabel 4.1 Hasil Uji Korelasi dan Signifikansi antara Curah Hujan dan
+Kualitas Air Parameter Mikrobiologi............................................... 51
+Tabel 4.2 Nilai Indeks Pencemaran di Sungai Code ........................................ 57
+Tabel 4.3 Status Mutu Air Berdasarkan Site di Sungai Code .......................... 57
+Tabel 4.4 Status Mutu Air Berdasarkan Waktu Pengambilan Sampel
+di Sungai Code ................................................................................. 58
+Tabel 4.5 Hasil Uji Korelasi dan Signifikansi antara Curah Hujan dan Indeks
+Pencemaran ...................................................................................... 59
+
+xii
+
+DAFTAR GAMBAR
+
+Gambar 3.1 Diagram Alir Penelitian ............................................................... 13
+Gambar 3.2 Lokasi Sampling ........................................................................... 15
+Gambar 3.3 Site 1 (Jembatan Gantung Boyong) ............................................. 16
+Gambar 3.4 Site 2 (Jembatan Kamdanen)........................................................ 17
+Gambar 3.5 Site 3 (Jembatan Pogung) ............................................................. 18
+Gambar 3.6 Site 4 (Jembatan Sardjito) ............................................................ 19
+Gambar 3.7 Site 5 (Jembatan Jambu) .............................................................. 20
+Gambar 3.8 Site 6 (Jembatan Dewa Bronto) ................................................... 21
+Gambar 3.9 Site 7 (Jembatan Pandeyan) ......................................................... 22
+Gambar 4.1 Grafik Curah Hujan ...................................................................... 31
+Gambar 4.2 Debit Air Sungai Code ................................................................. 33
+Gambar 4.3 Konsentrasi Total Coliform di Sungai Code ................................ 35
+Gambar 4.4 Konsentrasi Fecal Coliform di Sungai Code................................ 37
+Gambar 4.5 Konsentrasi E. coli di Sungai Code.............................................. 39
+Gambar 4.6 Suhu Air Sungai Code .................................................................. 41
+Gambar 4.7 Konsentrasi TSS Air Sungai Code ............................................... 43
+Gambar 4.8 Konsentrasi TDS Air Sungai Code .............................................. 45
+Gambar 4.9 pH Air Sungai Code ..................................................................... 47
+Gambar 4.10 Konsentrasi DO Air Sungai Code .............................................. 48
+Gambar 4.11 Konsentrasi Total Coliform di Sungai Code pada Musim
+Penghujan ................................................................................... 50
+Gambar 4.12 Konsentrasi Fecal Coliform di Sungai Code pada Musim
+Penghujan ................................................................................... 50
+Gambar 4.13 Hubungan antara Curah Hujan dan Konsentrasi Total Coliform
+di Sungai Code .......................................................................... 53
+Gambar 4.14 Hubungan antara Curah Hujan dan Konsentrasi Fecal Coliform
+di Sungai Code .......................................................................... 54
+
+xiii
+
+Gambar 4.15 Hubungan antara Curah Hujan dan Indeks Pencemaran
+di Sungai Code ............................................................................. 61
+Gambar 4.16 Grafik Data Primer Kualitas Air Parameter Mikrobiologi
+di Sungai Code .......................................................................... 62
+Gambar 4.17 Grafik Data Sekunder Kualitas Air Parameter Mikrobiologi
+di Sungai Code .......................................................................... 63
+
+xiv
+
+DAFTAR LAMPIRAN
+
+Lampiran 1
+
+Data Hasil Pengujian Parameter Mikrobiologi
+
+Lampiran 2
+
+Data Hasil Pengujian Parameter Fisika dan Kimia
+
+Lampiran 3
+
+Tabel Boxplot
+
+Lampiran 4
+
+Hasil Uji Statistik Korelasi
+
+Lampiran 5
+
+Hasil Indeks Pencemaran
+
+Lampiran 6
+
+Tabel MPN 333 Menurut Formula Thomas
+
+Lampiran 7
+
+Tabel Distribusi t
+
+Lampiran 8
+
+Lampiran Peraturan Gubernur DIY Nomor 20 Tahun 2008
+
+Lampiran 9
+
+Data Sekunder Kualitas Air Sungai Code
+
+Lampiran 10
+
+Pengamatan Media Mikrobiologi
+
+xv
+
+BAB I
+PENDAHULUAN
+
+1.1
+
+Latar Belakang
+Sungai merupakan salah satu sumber air yang banyak dimanfaatkan dalam
+
+berbagai aspek kehidupan, salah satunya untuk memenuhi kebutuhan hidup
+manusia dalam beraktivitas. Sungai digunakan untuk menunjang berbagai kegiatan
+seperti pertanian, industri maupun domestik yang membutuhkan pasokan air dalam
+jumlah tertentu. Secara ekologi sungai juga memiliki peranan penting sebagai
+sebuah ekosistem perairan yang terbuka dan mengalir dimana dari hulu ke hilir
+sungai memperoleh input yang berasal dari lingkungan berupa limbah domestik,
+limbah industri serta input lain yang berasal dari gangguan bencana alam
+(Imroatushshoolikhah et al., 2014). Hal tersebut dapat menyebabkan terjadinya
+penurunan kualitas air sungai akibat meningkatnya beban pencemar sehingga akan
+berdampak pada keberlangsungan hidup manusia serta berpengaruh pada
+kehidupan biota perairan.
+Sungai Code merupakan salah satu sungai di Provinsi Daerah Istimewa
+Yogyakarta yang mengalir membelah kota Yogyakarta dan melintasi kawasan
+pemukiman yang cukup padat di pinggir sungai. Peningkatan laju pertumbuhan
+penduduk menjadikan kawasan Sungai Code sebagai sasaran untuk dijadikan
+daerah permukiman berdampak pada peningkatan pencemaran air di Sungai Code
+yang ditandai dengan terjadinya penurunan kualitas air sungai (Brontowiyono et
+al., 2013).
+Tingkat pencemaran di Sungai Code termasuk tinggi diantara sungai –
+sungai lainnya di Yogyakarta. Menurut penelitian yang dilakukan oleh Puspitasari
+(2009), penyebab pencemaran Sungai Code berasal dari berbagai sumber seperti
+limbah domestik, limbah perhotelan, industri tekstil, percetakan dan limbah rumah
+sakit. Hal tersebut ditunjukkan dengan menurunnya nilai parameter kualitas air di
+Sungai Code seperti parameter fisika, kimia dan mikrobiologi.
+
+1
+
+2
+
+Parameter mikrobiologi merupakan parameter yang digunakan untuk
+menilai baik atau buruknya kualitas suatu perairan berdasarkan konsentrasi
+mikroorganisme yang terdapat di dalamnya. Menurut Sastrawijaya (2000) bakteri
+coliform utamanya yang berasal dari bakteri golongan coli merupakan mikroba
+yang sering dijadikan sebagai indikator biologi untuk menentukan adanya
+pencemaran pada suatu perairan.
+Parameter mikrobiologi meliputi bakteri total coliform dan fecal coliform
+umumnya dipengaruhi oleh adanya masukan limbah domestik dari aktivitas
+penduduk di sekitar sungai. Menurut Brontowiyono et al. (2013), sungai Code
+menunjukkan kualitas air terburuk terutama ditinjau dari konsentrasi bakteri
+coliform tinja yang terdeteksi paling tinggi di sungai tersebut.
+Limbah domestik yang berasal dari kegiatan rumah tangga serta limbah sisa
+industri memiliki suatu mineral berkonsentrasi tinggi yang mempengaruhi
+pertumbuhan mikroorganisme di badan sungai (Volk dan Wheeler, 1993).
+Kehadiran bakteri fecal coliform dalam suatu perairan juga menunjukkan bahwa
+pencemaran berasal dari sumber kotoran manusia dan hewan (Ouseph et al., 2009).
+Kehadiran mikroorganisme pada air sungai mempengaruhi penurunan kualitas air
+untuk parameter mikrobiologi sehingga air tidak dapat dimanfaatkan untuk
+peruntukan tertentu, selain itu juga akan menimbulkan masalah sanitasi dan sangat
+berpotensi menimbulkan berbagai macam penyakit yang berdampak buruk bagi
+kesehatan manusia dikarenakan air tercemar oleh bakteri yang bersifat patogen.
+Perubahan pola cuaca dapat memperburuk masalah kualitas air terutama di
+daerah perkotaan. Dalam penelitian Shehane et al. (2005) menyatakan bahwa
+terjadinya hujan dengan pola curah hujan tertentu dapat memfasilitasi
+pengangkutan bakteri ke dalam perairan alami, sehingga menyebabkan penurunan
+kualitas air yang ditunjukkan oleh tingkat pencemaran mikroba di daerah aliran
+sungai pesisir kota di Florida. Curah hujan dengan tingkat tertentu diperkirakan
+dapat meningkatkan beban pencemar di sungai dikarenakan air limpasan yang
+berasal dari permukaan serta mengandung senyawa – senyawa organik ikut masuk
+ke dalam sungai dan kemungkinan dapat menurunkan kualitas air tersebut.
+
+3
+
+Menurunnya kualitas air pada suatu perairan salah satunya dapat diketahui
+melalui status mutu air. Menurut Keputusan Menteri Lingkungan Hidup Nomor 115
+Tahun 2003, status mutu air adalah tingkat kondisi mutu air yang menunjukkan
+kondisi cemar atau kondisi baik pada suatu sumber air dalam waktu tertentu dengan
+membandingkan dengan baku mutu air yang ditetapkan. Pengukuran mutu air
+melibatkan beberapa parameter seperti parameter fisika, kimia dan mikrobiologi.
+Adapun metode yang digunakan untuk mengetahui status mutu air Sungai Code
+dalam penelitian ini adalah Indeks Pencemaran.
+Berdasarkan uraian tersebut maka akan dilakukan analisis untuk
+mengetahui seberapa berpengaruh tingkat curah hujan terhadap kualitas air di
+Sungai Code terutama terhadap parameter mikrobiologi serta beberapa parameter
+pendukung lain untuk mengetahui status mutu air dalam kaitannya dengan
+pencemaran yang terjadi di Sungai Code dengan menggunakan Indeks Pencemaran
+serta hubungannya dengan curah hujan.
+
+1.2
+
+Rumusan Masalah
+Berdasarkan uraian latar belakang di atas, maka permasalahan yang
+
+melatarbelakangi penelitian yaitu curah hujan merupakan salah satu faktor yang
+dapat menyebabkan perubahan kualitas air sungai, dimana curah hujan dengan
+tingkat tertentu dapat menjadi salah satu media pengangkutan bakteri serta
+mikroorganisme lain ke dalam perairan. Padatnya permukiman penduduk di pinggir
+sungai juga turut memperparah kondisi kualitas air dimana limbah domestik yang
+berasal dari kegiatan rumah tangga dapat dengan mudah masuk ke sungai ketika
+turun hujan sehinggga kualitas air menjadi menurun, hal ini juga akan berdampak
+pada status mutu air sungai tersebut.
+Oleh karena itu, rumusan masalah yang diangkat dalam penelitian adalah
+bagaimana pengaruh curah hujan terhadap kualitas air Sungai Code berdasarkan
+parameter mikrobiologi yaitu total coliform, fecal coliform dan Escherichia coli
+serta status mutu air sungai tersebut.
+
+4
+
+1.3
+
+Tujuan Penelitian
+Tujuan dari penelitian ini adalah sebagai berikut:
+1. Menganalisis pengaruh curah hujan terhadap kualitas air Sungai Code
+berdasarkan parameter mikrobiologi.
+2. Menganalisis status mutu air Sungai Code dengan menggunakan metode
+Indeks Pencemaran serta pengaruh curah hujan terhadap Indeks
+Pencemaran.
+
+1.4
+
+Ruang Lingkup
+Ruang lingkup dalam penelitian mencakup hal – hal berikut:
+1. Pengaruh curah hujan terhadap kualitas air mikrobiologi yang berasal
+dari sumber non-point source serta Indeks Pencemaran di Sungai Code.
+2. Analisis kualitas air dilakukan saat musim penghujan yaitu dari bulan
+Desember 2017 sampai
+
+dengan bulan Maret
+
+2018, dengan
+
+menggunakan data curah hujan sebagai data sekunder yang diperoleh
+dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Daerah
+Istimewa Yogyakarta.
+
+1.5
+
+Manfaat
+Manfaat penelitian adalah sebagai berikut:
+1. Sebagai informasi mengenai pengaruh curah hujan terhadap kualitas air
+parameter mikrobiologi di Sungai Code.
+2. Memberikan informasi terkini mengenai kualitas air Sungai Code
+ditinjau dari parameter mikrobiologi saat musim penghujan serta
+sebagai bahan evaluasi bagi masyarakat dan industri yang berada di
+daerah aliran Sungai Code sehubungan dengan pemanfaatan dan
+kegiatan di sekitar Sungai.
+
+BAB II
+TINJAUAN PUSTAKA
+
+2.1
+
+Sungai Code
+Sungai adalah suatu alur atau wadah air alami dan/atau buatan berupa
+
+jaringan pengaliran air beserta air di dalamnya, mulai dari hulu (mata air) sampai
+muara yang dibatasi kanan dan kirinya oleh garis sempadan (BPLHD Yogyakarta,
+2014). Sungai menjadi salah satu sumber air yang pemanfaatannya banyak
+digunakan untuk memenuhi kebutuhan hidup manusia dan makhluk hidup lainnya.
+Sungai dapat dikatakan sebagai ekosistem terpenting bagi manusia karena sungai
+menyediakan air bagi manusia untuk menunjang berbagai kegiatan seperti
+pertanian, industri maupun domestik (Siahaan, et al., 2011).
+Dalam bidang ekonomi sungai berperan secara strategis bagi masyarakat
+dan daerah, sebagai contoh sungai dapat dimanfaatkan sebagai sumber air minum,
+bahan baku industri, irigasi pertanian, sarana budidaya perikanan dan dapat
+digunakan sebagai pembangkit tenaga listrik daerah (Imroatushshoolikhah, 2013).
+Salah satu sungai yang berada di Daerah Istimewa Yogyakarta yaitu Sungai
+Code. Sungai ini melintasi tiga kabupaten yaitu Kabupaten Sleman, Kota
+Yogyakarta dan Kabupaten Bantul. Sungai Code terletak di bagian tengah Kota
+Yogyakarta memiliki panjang total sungai sekitar 41 km, sedangkan bagian tengah
+alur sungai yang melintas di Kota Yogyakarta adalah sepanjang 8,73 km (BPLHD
+Yogyakarta, 2014). Sebelum memasuki kota Yogyakarta, Sungai Code melewati
+areal pertanian kemudian melintasi pusat kota yang padat permukiman yang
+memungkinkan jumlah sumber pencemar akan mengalami peningkatan (Sukirno,
+et.al., 2007).
+Meningkatnya laju pertumbuhan penduduk serta kegiatan pembangunan
+ekonomi menyebabkan terjadinya perubahan tata guna lahan di sekitar Sungai Code
+dengan kecenderungan perubahan ekosistem sungai yang ditunjukkan dengan
+terjadinya penurunan kuantitas dan kualitas air di Sungai Code (Brontowiyono, et
+al., 2013). Rata – rata pencemaran air di Sungai Code disebabkan oleh aktivitas
+
+5
+
+6
+
+penduduk di sekitar sungai yang umumnya berasal dari buangan berupa limbah
+domestik, limbah sisa industri, limbah rumah sakit dan sebagainya (Puspitasari,
+2009).
+
+2.2
+
+Pencemaran Air Sungai
+Pencemaran air menurut Peraturan Pemerintah Republik Indonesia Nomor
+
+82 Tahun 2001 adalah masuknya atau dimasukkannya makhluk hidup, zat, energi
+dan atau komponen lain ke dalam air oleh kegiatan manusia, sehingga kualitas air
+turun sampai ke tingkat tertentu yang menyebabkan air tidak dapat berfungsi sesuai
+dengan peruntukannya.
+Sumber pencemaran air terbagi menjadi dua yaitu point source (titik tetap)
+dan non-point source (titik tidak tetap). Sumber pencemar point source antara lain
+saluran limbah industri, fasilitas pengolahan air limbah, sistem tangki septik dan
+sumber lain yang membuang langsung polutan ke sumber air. Pencemar yang
+bersumber dari point source bersifat lokal, sementara efek yang ditimbulkan dapat
+ditentukan berdasarkan karakteristik spesial kualitas air. Biasanya volume
+pencemar dari point source relatif tetap. Sumber pencemar non-point source yaitu
+dapat berupa kumpulan point source dalam jumlah yang banyak dan lebih sulit
+untuk diidentifikasi. Sebagai contoh limpasan dari daerah permukiman (domestik),
+limpasan dari daerah pertanian yang mengandung pestisida dan pupuk, dan
+limpasan dari daerah perkotaan (Effendi, 2003).
+
+2.3
+
+Kualitas Perairan Sungai
+Kualitas air sungai sangat dipengaruhi oleh komponen penyusunnya dan
+
+juga masukan komponen yang berasal dari permukiman di sekitar sungai. Perairan
+yang melintasi daerah pemukiman mendapat masukan limbah berupa bahan organik
+lebih banyak yang rata – rata berasal dari aktivitas penduduk. Oleh karena itu,
+keberadaan ekosistem sungai merupakan bagian yang tidak dapat dipisahkan
+dengan keadaan lingkungan fisik dan lingkungan sosial disekitarnya (Alaerts dan
+Santika, 1987).
+
+7
+
+Indikator air telah tercemar ditandai dengan adanya perubahan yang dapat
+diamati seperti warna, bau dan rasa; suhu; pH; timbulnya endapan, koloidal dan
+bahan pelarut; adanya mikroorganisme; serta meningkatnya radioaktivitas air
+lingkungan (Wardhana, 2004). Indikator kualitas kimia air yang sering digunakan
+diantaranya adalah BOD (Biochemical Oxygen Demand), COD (Chemical Oxygen
+Demand), DO (Dissolved Oxygen), pH, CO2 terlarut, bahan padat tersuspensi dan
+bahan-bahan tersuspensi organik, padatan total, Nitrogen dan Fosfor, logam berat
+dan padatan anorganis (Indarsih et al., 2011).
+Beberapa parameter yang digunakan untuk mengukur kualitas air meliputi
+parameter fisika, kimia, dan biologi.
+
+
+Parameter Fisika
+Parameter fisika air yang sangat menentukan kualitas air antara lain suhu,
+warna, bau, rasa, kekeruhan, padatan terlarut, jumlah padatan tersuspensi,
+dan daya hantar listrik.
+
+
+
+Parameter Kimia
+Beberapa parameter kimia sebagai indikator untuk menentukan kualitas air
+yaitu pH, oksigen terlarut, BOD, COD, amoniak, nitrit, nitrat, posphat,
+konsentrasi dari zat-zat kalium, magnesium, mangan, besi, sulfida, sulfat,
+minyak, lemak serta logam berat (Riyadi, 1984).
+
+
+
+Parameter Biologi
+Organisme yang dapat dijadikan indikator pencemaran dalam suatu perairan
+yaitu seperti bakteri, plankton, ganggang dan ikan tertentu. Cara
+pengukuran yang dilakukan pada setiap parameter berbeda-beda sesuai
+dengan keadaannya (Sasongko, 2006).
+
+2.4
+
+Parameter Kualitas Air Mikrobiologi
+Pencemaran mikrobiologi menjadi permasalahan kualitas air yang penting
+
+di seluruh dunia. Dampak manusia pada kategori pencemaran ini sangat terlihat dan
+beberapa kegiatan yang berhubungan dengan manusia serta jumlah populasi
+penduduk yang semakin meingkat telah mempengaruhi kondisi lingkungan
+perairan. Industrialisasi dan pertanian yang ekstensif telah menyebabkan
+
+8
+
+peningkatan polusi dan perubahan hidromorfologi di banyak daerah aliran sungai
+(Páll, 2013).
+Bakteri adalah salah satu penanda ideal pencemaran mikroba perairan
+permukaan karena dapat merespon cepat terhadap adanya perubahan lingkungan.
+Total coliform, fecal coliform dan Escherichia coli dari berbagai lokasi tercemar
+yang berbeda di lingkungan tropis ditentukan untuk menguji kemampuan indikasi
+mereka untuk kontaminasi tinja (Byamukama et al., 2000). Fecal coliform dan
+Enterococci usus adalah indikator yang baik untuk menilai pencemaran feses dan
+potensi keberadaan agen patogen terutama yang disebabkan oleh limbah yang tidak
+diolah yang berasal dari lahan pertanian dan padang rumput (Páll, 2013).
+Lingkungan perairan sangat mudah tercemar oleh mikroorganisme patogen
+yang berasal dari permukiman, pertanian serta peternakan. Indikator tercemarnya
+suatu badan air biasanya ditandai oleh adanya bakteri yang masuk dalam golongan
+fecal coliform. Bakteri tersebut merupakan golongan coliform yang hidup di dalam
+kotoran manusia dan hewan dan umumnya digunakan untuk menilai higienitas
+suatu perairan (Effendi, 2003).
+Menurut Alcamo (2001), bakteri coliform adalah kelompok bakteri gram
+negatif yang tidak bisa membentuk spora, berbentuk bacillus dan terdapat di dalam
+usus halus manusia. Kelompok bakteri ini juga bersifat aerobik dan aerobik
+fakultatif, dan berkemampuan untuk memfermentasi laktosa dengan pembentukan
+gas CO2 pada suhu 35 oC, selama 48 jam inkubasi (Madigan et al., 2012). Bakteri
+coliform dibedakan atas dua kelompok yaitu fecal coliform, misalnya Escherichia
+coli, dan coliform non-fecal, misalnya Enterobacter aerogenes. Fecal coliform
+adalah bakteri coliform yang berasal dari tinja manusia atau hewan, sedangkan
+coliform non-fecal adalah bakteri coliform yang terdapat pada hewan atau tanamantanaman yang telah mati (Fardiaz, 1993). Keberadaan bakteri coliform dan fecal
+coliform di dalam air menunjukkan kemungkinan adanya mikroba yang bersifat
+enteropatogenik dan toksigenik yang dapat membahayakan kesehatan (Widiyanti
+dan Ristiati, 2004).
+Bakteri Escherichia coli atau E. coli merupakan salah satu indikator spesifik
+untuk pencemaran bakteri fecal di daerah tropis dan beriklim sedang. Pemeriksaan
+
+9
+
+densitas bakteri dalam air dapat memberikan suatu pendekatan untuk menilai
+kualitas suatu perairan (Hamuda dan Patkó, 2011).
+Bakteri E. coli merupakan bakteri yang bersifat fakultatif anaerob dan
+memiliki tipe metabolisme fermentasi dan respirasi tetapi pertumbuhannya paling
+banyak di bawah keadaan anaerob, namun beberapa E. coli juga dapat tumbuh
+dengan baik pada suasana aerob. E. coli terdapat juga di alam terbuka hidup di
+dalam tanah. Apabila terjadi pencemaran (umumnya pencemar organik yang
+ditandai dengan BOD tinggi), tanah menjadi media pertumbuhan yang baik untuk
+bakteri ini dan menyebabkan peningkatan konsentrasi E. coli dalam tanah. Saat
+hujan turun atau salju mencair, semakin banyak bakteri ini yang dapat terbawa oleh
+air tanah masuk ke sungai. Hal ini mengakibatkan konsentrasi E. coli akan
+terdeteksi tinggi di air tanah dan sungai sehingga mengindikasikan adanya
+pencemaran tanah dan sungai (Sutiknowati, 2016).
+Bakteri E. coli dominan dapat ditemukan di dalam kotoran manusia dan
+hewan. Bakteri ini dikenal memiliki ratusan strain baik yang tidak berbahaya
+maupun yang berbahaya. Salah satu strain yang dikenal paling patogen yaitu E. coli
+O157:H7. Bakteri E. coli pada dasarnya memiliki sifat patogen yang tidak
+berbahaya dan bermanfaat pada tubuh manusia, yaitu antara lain berfungsi untuk
+menguraikan sisa makanan yang sudah tidak digunakan lagi. Namun jika bakteri
+ini berkembang terlalu banyak, maka akan menjadi penyebab timbulnya suatu
+penyakit antara lain adalah diare, saluran kemih dan radang selaput otak pada bayi
+(Jonsson dan Agerberg, 2015).
+
+2.5
+
+Hubungan Curah Hujan dan Kualitas Air Sungai
+Pada penelitian yang dilakukan oleh Bae (2013), dampak kejadian curah
+
+hujan terhadap kualitas air sungai yang diteliti
+
+pada Sungai Hwang, Korea
+
+menyebutkan bahwa jumlah kejadian curah hujan dan frekuensi curah hujan
+merupakan isu utama yang mempengaruhi kualitas air sungai. Jumlah curah hujan
+tertentu, dalam penelitian tersebut yaitu 30 mm, dapat membawa polutan dari
+permukaan ke badan air. Peristiwa curah hujan setelah musim kemarau panjang
+mempercepat degradasi kualitas air karena polutan dapat terakumulasi pada daerah
+
+10
+
+permukaan pada musim kemarau. Secara keseluruhan, pengelolaan air hujan untuk
+kejadian curah hujan dilakukan tepat setelah musim kering jangka panjang , hal ini
+mengingat karakteristik daerah aliran sungai harus ditetapkan untuk memiliki
+pengelolaan yang tepat untuk kualitas air sungai. Selain itu, diketahui bahwa tingkat
+curah hujan yang tinggi juga meningkatkan debit aliran sungai di Sungai Hwang
+tersebut.
+Perubahan pola cuaca dapat memperparah kualitas air di daerah perkotaan.
+Pola cuaca lokal, termasuk terjadinya badai, dapat memudahkan pengangkutan
+bakteri dan virus ke perairan alami, sehingga menyebabkan penurunan kualitas air.
+Densitas mikroba secara signifikan berkolerasi dengan peningkatan curah hujan dan
+aliran sungai di muara. Curah hujan yang deras dapat mengakibatkan fasilitas
+pengolahan air limbah dan sistem septik meluap dengan cara mengurangi efesiensi
+saluran pembuangan di tanah jenuh, yang dapat menyebabkan masukya kotoran
+langsung ke daerah aliran sungai (Shehane et al., 2005).
+Berdasarkan penelitian Coulliette (2008), diketahui bahwa pada lokasi
+penelitian yaitu di Newport River Estuary (NPRE), Easthern North Carolina, USA
+mengalami penurunan kualitas air pada saat terjadi hujan. Limpasan air hujan
+menjadi salah satu penyumbang utama polusi fecal di lokasi tersebut sehingga
+mengalami peningkatan konsentrasi fecal. Lain halnya dengan penelitian yang
+dilakukan oleh Hill (2006) di Bayou Dorcheat, North Louisiana mengenai pengaruh
+curah hujan pada tahun berbeda terhadap fecal coliform yang menyatakan bahwa
+tingkat fecal coliform di Bayou Dorcheat tidak secara signifikan dipengaruhi oleh
+curah hujan.
+Dalam penelitian Raharjo (2013), parameter kualitas air yang dapat
+dipengaruhi oleh curah hujan bulanan diantaranya kekeruhan, kandungan sulfat,
+dan khlorida. Curah hujan bulanan yang besar akan mengakibatkan erosi yang besar
+dan selanjutnya akan menjadi koloid liat yang terlarut sehingga berakibat pada
+naiknya tingkat kekeruhan di sumber air baku Way Kuripan. Selain itu pada Daerah
+Aliran Sungai (DAS) Kuripan tersebut koloid liat tersebut diprediksi mempunyai
+kandungan sulfat cukup banyak yang merupakan hasil dekomposisi, sedangkan
+
+11
+
+untuk pH air baku di sungai Way Kuripan tidak terpengaruh dengan curah hujan
+bulanan di wilayah tersebut.
+
+2.6
+
+Baku Mutu Kualitas Air Sungai
+Baku mutu kualitas air mengikuti kriteria yang terdapat pada Peraturan
+
+Gubernur Daerah Istimewa Yogyakarta No. 20 Tahun 2008 mengenai baku mutu
+air di Provinsi Daerah Istimewa Yogyakarta.
+Menurut Peraturan Gubernur Daerah Istimewa Yogyakarta No. 20 Tahun
+2008, baku mutu air merupakan ukuran batas atau kadar makhluk hidup, zat, energi,
+atau komponen yang ada atau harus ada dan atau unsur pencemar yang ditenggang
+keberadaannya di dalam air. Pengelompokkan air ke dalam kelas air didasarkan atas
+mutu air dengan melihat kondisi kualitas air berdasarkan parameter – parameter
+yang diuji.
+Kualitas air dikelompokkan berdasarkan kelas air, yaitu peringkat kualitas
+air yang dinilai masih layak untuk dimanfaatkan bagi peruntukan tertentu
+(Peraturan Gubernur DIY No.20 Tahun 2008). Klasifikasi Mutu Air dalam terbagi
+menjadi empat kelas sebagai berikut:
+
+
+Kelas I: air yang peruntukannya dapat digunakan untuk air baku air minum,
+dan atau peruntukan lain yang mempersyaratkan mutu air yang sama dengan
+kegunaan tersebut.
+
+
+
+Kelas II: air yang peruntukannya dapat digunakan untuk prasarana/sarana
+rekreasi air, pembudidayaan ikan air tawar, peternakan, air untuk mengairi
+pertanaman, dan atau peruntukan lain yang mempersyaratkan mutu air yang
+sama dengan kegunaan tersebut.
+
+
+
+Kelas III: air yang peruntukannya dapat digunakan untuk pembudidayaan
+ikan air tawar, peternakan, air untuk mengairi pertanaman, dan atau
+peruntukan lain yang mempersyaratkan mutu air yang sama dengan
+kegunaan tersebut.
+
+
+
+Kelas IV: adalah air yang peruntukannya dapat digunakan untuk mengairi
+pertanaman dan atau peruntukan lain yang mempersyaratkan mutu air yang
+sama dengan kegunaan tersebut.
+
+12
+
+Kriteria mutu air berdasarkan kelas untuk parameter mikrobiologi sesuai
+dengan Peraturan Gubernur Daerah Istimewa Yogyakarta No.20 Tahun 2008
+adalah sebagai berikut:
+ Parameter Total Coliform (Jumlah/100 ml)
+Kelas I = 1000; Kelas II = 5000; Kelas III = 10000; Kelas IV = 10000
+ Parameter Fecal Coliform (Jumlah/100 ml)
+Kelas I = 100; Kelas II = 1000; Kelas III = 2000; Kelas IV = 2000
+
+2.7
+
+Indeks Pencemaran
+Salah satu bentuk upaya dalam sistem pengelolaan sumberdaya air adalah
+
+dengan melakukan evaluasi tingkat pencemaran air secara berkala untuk
+mengetahui kualitas suatu perairan tertentu. Metode Indeks Pencemaran (IP)
+merupakan salah satu metode analisis kualitas air yang diterapkan di Indonesia
+untuk mengevaluasi sejauh mana tingkat pencemaran di suatu perairan. Metode ini
+merupakan hasil perhitungan relatif antara hasil pengamatan terhadap baku mutu
+yang berlaku. Metode IP terdiri atas indeks rata-rata dan indeks maksimum dimana
+unsur pencemar utama penyebab terjadinya penurunan kualitas air ditunjukkan oleh
+nilai indeks maksimum (Marganingrum et al., 2013).
+Pengelolaan kualitas air berdasarkan Indeks Pencemaran (IP) dapat menjadi
+solusi dalam menilai kualitas badan air untuk peruntukan tertentu serta sebagai
+bahan masukan pada pengambil keputusan agar dapat melakukan tindak lanjut
+dalam memperbaiki kualitas air akibat kehadiran senyawa pencemar. Dalam
+metode IP meliputi berbagai kelompok parameter kualitas air yang independent dan
+bermakna (Keputusan Menteri Negara Lingkungan Hidup No. 115 Tahun 2003).
+Metoda IP secara langsung menghubungkan tingkat ketercemaran dengan
+bisa atau tidaknya sungai dipakai untuk penggunaan tertentu dan dengan nilai
+beberapa parameter tertentu. Evaluasi terhadap nilai IP adalah sebagai berikut:
+0
+
+≤ PIj ≤ 1,0
+
+→ memenuhi baku mutu (kondisi baik)
+
+1,0 < PIj ≤ 5,0
+
+→ cemar ringan
+
+5,0 < PIj ≤ 10
+
+→ cemar sedang
+
+PIj > 10
+
+→ cemar
+
+BAB III
+METODE PENELITIAN
+
+3.1
+
+Diagram Alir Penelitian
+Secara umum penelitian ini terdiri atas beberapa tahap yang dapat dilihat
+
+pada Gambar 3.1.
+Mulai
+
+Survey Lokasi dan
+Penentuan Titik Sampling
+
+Pengambilan
+Sampel Air
+
+Uji In-Situ Parameter
+Fisika-Kimia
+
+Uji Laboratorium
+Parameter
+Mikrobiologi
+
+Analisis dan
+Pengolahan Data
+
+Evaluasi Indeks
+Pencemaran
+
+Uji Statistik Korelasi
+dan Regresi
+
+Penyusunan Laporan
+
+Gambar 3.1 Diagram Alir Penelitian
+
+13
+
+14
+
+3.2
+
+Lokasi dan Waktu Penelitian
+Penelitian ini berlokasi di daerah aliran Sungai Code, Daerah Istimewa
+
+Yogyakarta. Penentuan lokasi pengambilan sampel dengan menggunakan metode
+purposive sampling yaitu dilakukan melalui observasi di sekitar aliran Sungai Code
+dengan menyesuaikan terhadap tujuan penelitian yakni menganalisis pengaruh
+curah hujan terhadap parameter kualitas air mikrobiologi, dimana rata – rata site
+yang dipilih berada di daerah padat permukiman sehingga diharapkan akan terlihat
+apakah curah hujan berpengaruh terhadap konsentrasi kontaminan non-point source
+melalui limpasan permukaan yang terjadi saat hujan, selain itu dipertimbangkan
+juga kemudahan akses, biaya dan efisiensi waktu dalam pengambilan sampel air di
+lapangan. Site pengambilan sampel yang dipilih juga merupakan representasi dari
+kondisi lingkungan di sekitar sungai tersebut. Sampel air selanjutnya diuji di
+Laboratorium Kualitas Lingkungan Teknik Lingkungan Fakultas Teknik Sipil dan
+Perencanaan Universitas Islam Indonesia
+Penelitian ini dilakukan pada musim penghujan mulai dari bulan Desember
+2017 hingga Maret 2018 dengan frekuensi pengambilan sampel sebanyak dua kali
+per bulannya untuk melihat variasi kualitas air sungai dalam bulan tersebut serta
+kaitannya dengan fluktuasi curah hujan yang mungkin terjadi selama penelitian
+berlangsung.
+
+15
+
+Gambar 3.2 Lokasi Sampling
+
+Deskripsi lokasi pengambilan sampel dalam penelitian ini adalah sebagai
+berikut:
+ Jembatan Gantung Boyong (Site 1)
+Jembatan Gantung Boyong merupakan lokasi sampling yang berhulu di
+Gunung Merapi dan berada di Dusun Boyong, Kecamatan Pakem,
+Kabupaten Sleman, Daerah Istimewa Yogyakarta. Site ini terletak pada
+garis lintang 7°38'17.11"S dan garis bujur 110°24'21.70"T. Kondisi
+lingkungan sekitar sungai masih didominasi oleh lahan hijau, pepohonan
+dan tumbuh – tumbuhan serta belum adanya permukiman di sepanjang
+pinggir sungai.
+
+16
+
+Gambar 3.3 Site 1 (Jembatan Gantung Boyong)
+ Jembatan Kamdanen (Site 2)
+Jembatan Kamdanen merupakan site 1 dan berada di Jalan Kapten Haryadi,
+Kelurahan Sinduharjo, Kecamatan Ngaglik, Kabupaten Sleman, Daerah
+Istimewa Yogyakarta. Site ini terletak pada garis lintang 7°43'21.43"S dan
+garis bujur 110°23'21.39"T. Kondisi lingkungan pada site ini yaitu terdapat
+sawah untuk peruntukan pertanian, pepohonan dan tumbuh – tumbuhan,
+mulai terdapat permukiman di sekitar pinggir sungai serta beberapa saluran
+drainase yang berasal dari aktivitas pertanian serta rumah penduduk.
+
+17
+
+Gambar 3.4 Site 2 (Jembatan Kamdanen)
+ Jembatan Pogung (Site 3)
+Jembatan Pogung berada di Jalan Jembatan Baru UGM,
+
+Kelurahan
+
+Sinduadi, Kecamatan Mlati, Kabupaten Sleman, Daerah Istimewa
+Yogyakarta. Site ini terletak pada garis lintang 7°45'44.53"S dan garis bujur
+110°22'14.39"T. Kondisi lingkungan pada site ini didominasi oleh
+permukiman penduduk, ruko dan pertokoan, penginapan, rusunawa yang
+terdapat di dekat jembatan serta beberapa restoran. Pada site ini ditemui
+banyak saluran drainase dari permukiman penduduk yang langsung
+mengarah ke badan sungai. Pada lokasi ini dibagi menjadi dua site yaitu site
+3 dan site 3b. Site 3b digunakan untuk melihat adanya input dari saluran –
+saluran drainase disepanjang sungai tersebut
+
+18
+
+Gambar 3.5 Site 3 (Jembatan Pogung)
+ Jembatan Sardjito (Site 4)
+Jembatan Sardjito berada di Jalan Prof. Dr. Sardjito, Kelurahan
+Cokrodiningratan, Kecamatan Jetis, Kota Yogyakarta, Daerah Istimewa
+Yogyakarta. Site ini terletak pada garis lintang 7°46'42.48"S dan garis bujur
+110°22'13.51"T. Kondisi lingkungan pada site ini didominasi oleh
+permukiman penduduk dan penginapan. Lokasi ini juga dekat dengan rumah
+sakit dan universitas.
+
+19
+
+Gambar 3.6 Site 4 (Jembatan Sardjito)
+ Jembatan Jambu (Site 5)
+Jembatan Jambu berada di Jalan Mas Suharto, Kelurahan Bausasran,
+Kecamatan Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta. Site
+ini terletak pada garis lintang 110°22'13.51"T dan garis bujur
+110°22'11.03"T. Kondisi lingkungan pada site ini yaitu sangat padat akan
+permukiman penduduk di pinggir sungai, selain itu juga terdapat hotel,
+motel dan pusat perbelanjaan. Pada lokasi ini juga ditemui jamban umum
+yang berada dekat dengan sungai, pipa – pipa saluran pembuangan yang
+berasal dari permukiman penduduk serta sampah – sampah yang berceceran
+di sungai.
+
+20
+
+Gambar 3.7 Site 5 (Jembatan Jambu)
+ Jembatan Dewa Bronto (Site 6)
+Jembatan Dewa Bronto berada di Jalan Kolonel Sugiono, Kelurahan
+Brontokusuman, Kecamatan Mergangsan, Kota Yogyakarta, Daerah
+Istimewa Yogyakarta. Site ini terletak pada garis lintang 7°48'55.78"S dan
+garis bujur 110°22'28.76"T. Kondisi lingkungan di sekitar site ini dipadati
+oleh permukiman penduduk, ruko dan pertokoan, berbagai jenis industri
+serta pom bensin yang terletak tidak jauh dari lokasi sampling. Pada site ini
+juga terdapat aktivitas penambangan pasir yang dilakukan di Sungai Code.
+
+21
+
+Gambar 3.8 Site 6 (Jembatan Dewa Bronto)
+
+ Jembatan Pandeyan (Site 7)
+Jembatan Pandeyan berada di Jalan Imogiri Barat, Kelurahan Bangunharjo,
+Kecamatan Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta. Site
+ini terletak pada garis lintang 7°51'5.43"S dan garis bujur 7°51'5.43"S.
+Kondisi lingkungan di sekitar site ini yaitu terdapat permukiman penduduk,
+persawahan untuk kegiatan pertanian serta pabrik tahu yang terletak tidak
+jauh dari lokasi sampling.
+
+22
+
+Gambar 3.9 Site 7 (Jembatan Pandeyan)
+
+3.3
+
+Pengumpulan Data
+Data yang dikumpulkan dalam penelitian mencakup data primer dan data
+
+sekunder.
+
+
+Data primer yaitu data yang diperoleh melalui analisis secara in-situ
+serta uji laboratorium. Data primer terdiri atas hasil uji serta parameter
+mikrobiologi (Total Coliform, Fecal Coliform dan Escherichia coli),
+parameter fisika (debit, suhu, Total Suspended Solid dan Total
+Dissolved Solid ) dan parameter kimia (pH dan Dissolved Oxygen).
+Pengujian parameter fisika dan kimia dalam penelitian digunakan
+sebagai data untuk mengetahui kualitas air sungai secara umum dan
+status mutu air melalui indeks pencemaran bersama dengan parameter
+mikrobiologi. Parameter mikrobiologi selanjutnya digunakan untuk
+mengetahui pengaruh curah hujan terhadap parameter kualitas air
+mikrobiologi di Sungai Code melalui uji korelasi statistik.
+
+
+
+Data sekunder dalam penelitian ini yaitu berupa data curah hujan untuk
+masing – masing waktu pengambilan sampel selama penelitian yang
+
+23
+
+diperoleh dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG)
+Daerah Istimewa Yogyakarta, serta data sekunder kualitas air Sungai
+Code oleh Badan Lingkungan Hidup (BLH) Daerah Istimewa
+Yogyakarta.
+
+3.4
+
+Metode Pengambilan Sampel Air
+Metode pengambilan sampel air Sungai Code dilakukan secara langsung
+
+mengunakan metode grab sampling yaitu metode pengambilan sampel sesaat yang
+menunjukkan karakteristik air hanya pada saat itu (Effendie, 2003). Tata cara
+pengambilan sampel air merujuk pada SNI 6989.59:2008 mengenai metode
+pengambilan contoh air permukaan. Secara umum tata cara pengambilan sampel
+sebagai berikut:
+Proses pengambilan sampel air untuk kedalaman tertentu diambil dengan
+menggunakan alat water sampler tipe horizontal. Proses pengambilan sampel untuk
+parameter mikrobiologis dilakukan dengan cara yang steril untuk menghindari
+kontaminasi. Pengambilan sampel air untuk parameter fisika dan kimia dilakukan
+dengan menggunakan jerigen yang telah disiapkan. Wadah tempat penyimpanan
+sampel kemudian diberi label dan dibawa ke laboratorium untuk diuji.
+
+3.5
+
+Pengujian Sampel Air
+Pemeriksaan sampel air meliputi parameter utama yaitu mikrobiologi yang
+
+diuji di laboratorium serta parameter fisika dan kimia yang diuji secara in-situ dan
+uji laboratorium.
+
+3.5.1 Parameter Mikrobiologi
+a. Total Coliform dan Fecal Coliform
+Parameter mikrobiologi yang diuji dalam penelitian meliputi bakteri
+total coliform dan fecal coliform. metode yang digunakan dalam penelitian
+yaitu metode MPN (Most Probable Number) yang merupakan uji untuk
+mendeteksi sifat fermentatif coliform dalam sampel. Perhitungan
+
+24
+
+mikroorganisme dalam metode MPN berdasarkan data kualitatif hasil
+pertumbuhan mikroorganisme pada medium cair spesifik dalam seri tabung
+sehingga diperoleh kisaran data kuantitatif jumlah mikroorganisme tersebut.
+Secara umum pengujian dengan metode MPN dilakukan dengan
+menggunakan medium cair di dalam tabung reaksi yang berisi tabung
+durham, selanjutnya perhitungan dilakukan dengan melihat jumlah tabung
+positif yang ditunjukkan dengan terbentuknya gas atau timbulnya
+kekeruhan di dalam tabung durham. Metode MPN dalam penelitian ini yaitu
+menggunakan ragam LB (Lactose Broth) III yang diperuntukkan untuk
+specimen yang diperkirakan memiki angka kuman tinggi, yang biasa
+diperiksa dengan cara ini antara lain yaitu sumur, air mata air, air sungai, air
+hujan, air kolam renang dan sebagainya (Soemarno, 2000).
+Pada penelitian ini sampel diencerkan sampai diperoleh variasi yang
+pas pada pembacaan tabung positif. Analisis bakteri total coliform dan fecal
+coliform sebagai berikut:
+
+
+
+
+Specimen air yang diencerkan di tanam dalam media:
+-
+
+3 tabung LB triple strength masing – masing 10 ml.
+
+-
+
+3 tabung LB single strength masing – masing 1 ml.
+
+-
+
+3 tabung LB single strength masing – masing 0,1 ml.
+
+Uji pendugaan (Presumptive test) dilakukan dengan menginkubasi
+media LB sebagai media tumbuh bakteri dengan suhu 37 0C selama
+48 jam. Tabung yang menghasilkan gas menunjukkan adanya
+bakteri coliform positif, lalu diuji ke tahap selanjutnya yaitu uji
+penegasan.
+
+
+
+Uji penegasan (confirmed test). Dari hasil uji pendugaan yang
+positif lalu diinokulasikan pada media uji penegas Brilliant Green
+Lactose Bile broth (BGLB) sebagai media selektif. Untuk Total
+Coliform diinkubasi pada suhu 37 0C selama 48 jam, sedangkan
+untuk Fecal Coliform diinkubasi pada suhu 44 0C – 44,5 0C selama
+24 jam. untuk fecal coliform selama 48 jam ± 3 jam. Tabung –
+tabung yang positif gas dari pengujian total coliform dan fecal
+
+25
+
+coliform kemudian dicocokkan dengan tabel MPN untuk
+memperoleh indeks MPN.
+
+
+Perhitungan jumlah bakteri coliform dari masing – masing pengujian
+dengan menggunakan seri 3 tabung mengacu pada indeks MPN 333
+menurut Formula Thomas (Soemarno, 2000).
+Secara umum pengujian dengan metode MPN dilakukan dengan
+
+menggunakan medium cair di dalam tabung reaksi yang berisi tabung
+durham, selanjutnya perhitungan dilakukan dengan melihat jumlah tabung
+positif yang ditunjukkan dengan terbentuknya gas atau timbulnya
+kekeruhan di dalam tabung durham. Metode MPN dalam penelitian ini yaitu
+menggunakan ragam LB (Lactose Broth) III yang diperuntukkan untuk
+specimen yang diperkirakan memiki angka kuman tinggi, yang biasa
+diperiksa dengan cara ini antara lain yaitu sumur, air mata air, air sungai, air
+hujan, air kolam renang dan sebagainya (Soemarno, 2000).
+
+b. Eshecrichia coli
+Kuantifikasi kontaminasi bakteri E. coli dengan menggunakan
+media selektif Chromocult Coliform Agar (CCA). Menurut penelitian
+Byamukama et al. (2000), media ini terbukti efisien dan layak untuk
+menentukan pencemaran feses di daerah yang diteliti dalam waktu 24 jam.
+Secara umum pengujian untuk bakteri E.coli dengan metode isolasi
+bakteri menggunakan media CCA yaitu dengan menyiapkan sampel uji ke
+dalam botol steril 100 ml, kemudian dilakukan pengenceran terhadap
+sampel, dalam penelitian ini digunakan pengenceran 10 -1 – 10-2. Sampel
+yang telah diencerkan diambil sebanyak 1 ml ke dalam cawan petri secara
+steril, lalu dituangkan media CCA dengan menggunakan metode pour plate,
+yakni teknik menumbuhkan mikroorganisme di dalam media agar dengan
+cara mencampurkan media agar yang masih berbentuk cair dengan kultur
+bakteri sehingga sel-sel tersebut dapat menyebar secara merata di dalam
+agar (Harley dan Presscot, 2002). Selanjutnya media diinkubasi selama 24
+
+26
+
+jam pada suhu 37 0C. Bakteri E.coli ditandai oleh terbentuknya koloni
+berwana biru tua pada agar.
+
+3.5.2
+
+Parameter Fisika dan Kimia
+Parameter fisika dan kimia yang diuji dalam penelitian ini antara lain debit,
+
+suhu, Total Suspended Solid (TSS), Total Dissolved Solid (TDS), pH dan Dissolved
+Oxygen (DO). Debit diukur menggunakan alat Current meter untuk mengukur
+kecepatan arus, selanjutnya diukur kedalaman dan lebar sungai. Pengukuran suhu
+dilakukan bersamaan dengan TDS menggunakan TDS meter merk Hanna yang juga
+dapat mendeteksi suhu air. TSS diuji secara gravimetri berdasarkan SNI-06-6989.32004 di laboratorium. pH diukur dengan menggunakan indikator universal,
+sedangkan DO diuji berdasarkan SNI-06-6989.14-2004 di laboratorium .
+
+3.6
+
+Analisis Data
+Analisis data yang digunakan dalam penelitian ini mecakup analisis statistik
+
+korelasi untuk mengetahui hubungan antara curah hujan dan parameter kualitas air
+mikrobiologi serta analisis status mutu air menggunakan metode Indeks
+Pencemaran (IP) untuk mengetahui kualitas air Sungai Code.
+
+3.6.1
+
+Analisis Hubungan Curah Hujan terhadap Kualitas Air
+Pada penelitian ini dilakukan analisis secara kuantitatif mengenai hubungan
+
+antara curah hujan dan hasil pengujian kualitas air mikrobiologi di Sungai Code
+dengan menggunakan metode korelasi.
+
+a. Korelasi Pearson
+Analisis korelasi dilakukan dengan melihat seberapa kuat hubungan
+antara variabel bebas (curah hujan) dan variabel terikat (kualitas air Sungai
+Code) berdasarkan derajat kekuatan dengan melihat besaran koefisien
+korelasi yang berkisar dari -1 sampai dengan +1. Apabila koefisien korelasi
+yang diperoleh -1, maka hubungan antar variabel adalah negatif, sebaliknya
+apabila koefisien korelasi yang diperoleh +1, maka menunjukkan hubungan
+
+27
+
+positif dan hubungan yang terjadi sangat kuat (Gunawan, 2015). Berikut
+merupakan rumus perhitungan metode korelasi Pearson:
+
+r=
+
+𝑁 Σ𝑋𝑌− Σ𝑋 Σ𝑌
+√{𝑁 Σ𝑋 2 − (Σ𝑋)2 }{𝑁 Σ𝑌 2 − (Σ𝑌)2}
+
+Keterangan:
+r
+
+= Koefisien korelasi
+
+N
+
+= Jumlah data
+
+X
+
+= Skor variabel X (bebas)
+
+Y
+
+= Skor variabel Y (terikat)
+
+Interpretasi koefisien korelasi adalah sebagai berikut:
+0,000 – 0,199 = Sangat Lemah
+0,200 – 0,399 = Lemah/rendah
+0,400 – 0,599 = Cukup
+0,600 – 0,799 = Kuat
+0,800 – 1,000 = Sangat kuat
+
+b. Uji Signifikansi (Uji t-student )
+Uji signifikansi dilakukan untuk mengetahui apakah koefisien
+korelasi signifikan atau bermakna. Ketentuan dalam pengambilan
+keputusan yaitu jika nilai t hitung > t tabel, maka koefisien koelasi
+dinyatakan signifikan, sebaliknya jika t hitung < t tabel, maka koefisien
+korelasi tidak signifikan (Gunawan, 2015).
+Pengujian taraf signifikansi untuk koefisien korelasi menggunakan
+rumus berikut ini:
+
+𝑟 √𝑁−2
+
+r = √1− 2
+𝑟
+
+Keterangan:
+t
+
+= Distribusi t-student
+
+28
+
+r
+
+= Koefisien korelasi
+
+N
+
+= Jumlah Data
+
+c. Regresi dan Koefisien Determinasi (R2)
+Analisis regresi merupakan salah satu metode dalam statistika yang
+dapat digunakan untuk mengetahui pola hubungan antara variabel
+independen dan variabel dependen. Analisis regresi berdasarkan pola
+hubungannya terbagi atas regresi linier dan regresi non-linier.
+ Regresi linier: digunakan menentukan fungsi linier (garis lurus) yang
+paling sesuai dengan kumpulan titik data (x n,yn) yang diketahui.
+Persamaan regresi linier sederhana sebagai berikut.
+Y = a + b (X)
+Σ𝑌 − 𝑏 (Σ𝑋)
+𝑛
+n (ΣX𝑌) − (Σ𝑋)(Σ𝑌)
+𝑏=
+𝑛 (Σ𝑋 2 )(Σ𝑋)2
+𝑎=
+
+Dimana: a = konstanta; b = koefisien regresi; Y = variabel dependen;
+X = variabel independen; n = jumlah data.
+ Regresi non-linier: regresi non-linier merupakan suatu bentuk regresi
+yang melihat hubungan antara variabel independen (X) dengan variabel
+dependen (Y), yang tidak bersifat linier. Suatu model disebut model
+regresi non-linier jika variabel – variabelnya berpangkat. Contoh model
+regresi non-linier diantaranya power, polinomial, eksponensial, dan
+sebagainya. Dari model regresi non-linier yang diperoleh akan dilihat
+fungsi yang paling sesuai dengan kumpulan data yang diketahui.
+Regresi power: 𝑦 = 𝑎𝑥 𝑏
+Regresi eksponensial: 𝑦 = 𝑎𝑒 𝑏𝑥
+Regresi polinomial: 𝑦 = 𝑎0 + 𝑎1 𝑥 + 𝑎2 𝑥 2 + ⋯ + 𝑎𝑟 𝑥 𝑟
+Dimana pada persamaan tersebut nilai a dan b merupakan konstanta.
+
+29
+
+Secara parsial tingkat pengaruh variabel independen terhadap
+variabel dependen dapat dilihat dengan menggunakan nilai koefisien
+determinasi (R2). Koefisien determinasi merupakan kuadrat dari koefisien
+korelasi yang dijadikan sebagai ukuran dalam mengetahui kemampuan dari
+tiap – tiap variabel yang digunakan. Koefisien determinasi menjelaskan
+proporsi variasi dalam variabel dependen (Y) yang dijelaskan oleh hanya
+satu variabel independen (lebih dari satu variabel bebas) secara bersamaan.
+Koefisien determinan memiliki kisaran antara nol sampai dengan
+satu (0 ≤ R2 ≤ 1). Hal ini berarti bila R2 = 0 menunjukkan bahwa tidak ada
+pengaruh antara variabel independen terhadap variabel dependen, jika
+adjusted R2 semakin besar mendekati 1 menunjukkan semakin kuatnya
+pengaruh variabel independen terhadap variabel dependen dan jika adjusted
+R2 semakin kecil atau bahkan mendekati nol, maka semakin kecil pula
+pengaruh variabel independen terhadap variabel dependen.
+Kriteria yang digunakan dalam melakukan analisis koefisien
+determinasi adalah sebagai berikut:
+
+
+Nilai koefisien determinasi mendekati nol (0), berarti pengaruh
+variabel independen terhadap variabel dependen lemah.
+
+
+
+Nilai koefisien determinasi mendekati satu (1), berarti pengaruh
+variabel independen terhadap variabel dependen kuat.
+
+(Sugiyono, 2013).
+
+3.6.2
+
+Analisis Status Mutu Air Metode Indeks Pencemaran (IP)
+Analisis kualitas perairan di Sungai Code dilakukan melalui perhitungan
+
+dengan menggunakan metode Indeks Pencemaran. Pada metode ini nilai parameter
+yang terukur di sungai dibandingkan dengan baku mutu air untuk peruntukan, yaitu
+sesuai dengan baku mutu air yang tercantum dalam Peraturan Gubernur Daerah
+Istimewa Yogyakarta No. 20 Tahun 2008 tentang Baku Mutu Air di Provinsi
+Daerah Istimewa Yogyakarta. Pemilihan metode ini atas pertimbangan yang
+menyesuaikan dengan tujuan penelitian yaitu agar dapat membandingkan kualitas
+
+30
+
+air pada musim penghujan berdasarkan fluktuasi curah hujan selama pengambilan
+sampel di lapangan.
+Dalam penerapannya metode IP menggunakan berbagai parameter yang
+dikur dalam pengambilan sampel, sehingga diperoleh nilai rata – rata keseluruhan
+pencemaran relatif yang diakibatkan oleh parameter kualitas air yang diukur.
+Berdasarkan Keputusan Menteri Lingkungan Hidup No.15 Tahun 2003, rumus
+perhitungan nilai Indeks Pencemaran adalah sebagai berikut:
+
+PIj =√
+
+2
+2
+− (𝐶𝑖 /𝐿𝑖𝑗 )
+𝑀
+𝑅
+
+(𝐶𝑖 /𝐿𝑖𝑗 )
+
+2
+
+Keterangan:
+PIj
+
+= Indeks pencemaran bagi peruntukan (j)
+
+Ci
+
+= Parameter kualitas air di lapangan (i)
+
+Lij
+
+= Konsentrasi parameter kualitas air yang dicantumkan
+dalam baku mutu peruntukan Air (j)
+
+(Ci/Lij)M = Nilai Ci/Lij Maksimum
+(Ci/Lij)R
+
+= Nilai Ci/Lij Rata-rata
+
+Hasil perhitungan Indeks Pencemaran selanjutnya dianalisis
+berdasarkan ketentuan berikut:
+0
+
+≤ PIj ≤ 1,0
+
+→ memenuhi baku mutu (kondisi baik)
+
+1,0 < PIj ≤ 5,0
+
+→ cemar ringan
+
+5,0 < PIj ≤ 10
+
+→ cemar sedang
+
+PIj > 10
+
+→ cemar berat
+
+Setelah nilai indeks pencemaran diperoleh, selanjutnya akan dilihat
+kondisi kualitas air selama musim penghujan berdasarkan fluktuasi curah
+hujan pada saat pengambilan sampel.
+
+BAB IV
+ANALISIS DATA DAN PEMBAHASAN
+
+4.1
+
+Analisis Curah Hujan dan Parameter Kualitas Air
+Analisis curah hujan dalam penelitian ini digunakan sebagai data untuk
+
+mengetahui pengaruh curah hujan terhadap parameter kualitas air mikrobiologi.
+
+4.1.1
+
+Curah Hujan
+Data curah hujan dalam penelitian ini diperoleh dari Badan Meteorologi,
+
+Klimatologi dan Geofisika (BMKG) Daerah Istimewa Yogyakarta. Berikut ini
+merupakan curah hujan selama penelitian dari bulan Desember 2017 sampai dengan
+Maret 2018.
+
+120
+
+Curah Hujan (mm/hari)
+
+100
+
+97,4
+
+80
+60
+40
+
+25,5
+17,4
+
+20
+
+11
+
+6,6
+0
+
+2,75
+
+Mar I
+
+Mar II
+
+0
+Des I
+
+Jan I
+
+Jan II
+
+Feb I
+
+Feb II
+
+Gambar 4.1 Grafik Curah Hujan
+
+Curah hujan yang diperoleh selama penelitian dari bulan Desember I hingga
+Maret II cenderung fluktuatif. Curah hujan dari bulan Desember I sampai dengan
+Maret II berturut – turut adalah 97,4 mm/hari, 11 mm/hari, 17,4 mm/hari, 25,5
+mm/hari, 6,6 mm/hari, 0 mm/hari dan 2,75 mm/hari.
+
+31
+
+32
+
+Berdasarkan grafik curah hujan (Gambar 4.1) dapat terlihat bahwa curah
+hujan tertinggi terjadi pada bulan Desember I yaitu 97,4 mm/hari dan terendah pada
+bulan Maret I yaitu 0 mm/hari.
+Menurut Handoko (1994), curah hujan sangat bervariasi berdasarkan tempat
+dan waktu, selain itu intensitas dan volumenya dapat mengalami perubahan dengan
+cepat (Galvan et al., 2013). Distribusi hujan yang terjadi pada suatu wilayah dapat
+mengalami peningkatan dan penurunan dalam rentang waktu tertentu. Beberapa
+faktor yang dapat mempengaruhi penyebaran dan keragamannya antara lain seperti
+letak geografi, topografi dan aliran udara atas (Hilario et al., 2009).
+Dalam penelitian ini curah hujan merupakan salah satu faktor yang dapat
+mempengaruhi kualitas air sungai, dimana curah hujan yang tinggi dapat menjadi
+salah satu media pengangkutan polutan dari permukaan seperti bakteri serta
+mikroorganisme lain ke dalam sungai (Shehane et al., 2005). Permukiman
+penduduk yang padat di sepanjang pinggir sungai juga mempengaruhi kondisi
+kualitas air terutama limbah domestik dari kegiatan rumah tangga dapat dengan
+mudah masuk ke sungai ketika turun hujan sehinggga mempengaruhi kualitas air
+sungai. Curah hujan dengan tingkat tertentu juga mampu menyapu kandungan dan
+kontaminan yang berada di permukaan tanah ke sungai sehingga hal tersebut dapat
+berdampak pada jumlah kontaminan dan zat pencemar yang masuk ke sungai
+melalui limpasan permukaan oleh air hujan.
+
+4.1.2
+
+Debit
+Data debit diukur secara in situ pada saat musim penghujan dengan
+
+mengukur kecepatan, tinggi dan lebar sungai. Pada penelitian ini diukur debit dari
+site 1 hingga site 6. Pada site 7 tidak dilakukan pengukuran debit dikarenakan lokasi
+yang tidak memungkinkan untuk dijangkau oleh alat ukur.
+
+33
+
+4
+3,5
+
+Debit (m3/detik)
+
+3
+2,5
+2
+1,5
+1
+0,5
+0
+SITE 1
+
+SITE 2
+
+SITE 3
+
+SITE 3B
+
+SITE 4
+
+SITE 5
+
+SITE 6
+
+n site 1 = 3; n site 3b = 5; n site 2 – 6 = 7
+
+Gambar 4.2 Debit Air Sungai Code
+
+Dari hasil penelitian diperoleh debit air Sungai Code berkisar antara 0,228
+m3/det – 3,694 m3/det. Rata – rata debit dari site 1 hingga site 6 berturut – turut
+adalah 0,470 m3/det, 0,439 m3/det, 1,163 m3/det, 0,996 m3/det, 1,865 m3/det, 2,447
+m3/det dan 2,796 m3/det. Berdasarkan grafik (Gambar 4.2) menunjukkan bahwa
+rata – rata debit dari site 1 hingga site 6 mengalami peningkatan. Rata – rata debit
+tertinggi berada pada site 6 yaitu 2,796 m3/det dengan nilai maksimum mencapai
+3,694 m3/det, sedangkan rata – rata debit terendah berada pada site 2 yaitu 0,439
+m3/det dengan nilai minimum 0,228 m3/det.
+Menurut Wahid (2009), terdapat beberapa faktor yang mempengaruhi debit
+sungai diantaranya yaitu topografi (kemiringan lereng), tanah (jenis tanah), hutan
+(luas penutupan hutan), non hutan (luas penutupan non hutan) dan intensitas curah
+hujan. Pada penelitian ini debit air Sungai Code mengalami peningkatan dari hulu
+ke hilir, hal ini dapat disebabkan oleh keadaan topografi seperti daerah dengan
+permukaan miring yang menyebabkan aliran permukaan yang deras dan besar
+dibandingkan dengan daerah datar. Kondisi lingkungan bagian hulu juga
+mempengaruhi nilai debit dimana semakin banyak pohon atau lahan hijau maka air
+dapat terserap sehingga akan mengurangi runoff yang dapat mempengaruhi
+
+34
+
+besarnya debit sungai. Adanya urbanisasi dan aktivitas penduduk yang ramai pada
+beberapa site juga turut merubah keadaan sifat Daerah Aliran Sungai (DAS) seperti
+adanya masukan limbah domestik dan industri sehingga debit semakin tinggi.
+Dalam penelitian ini curah hujan yang bervariasi selama periode sampling
+dapat berpengaruh terhadap variasi debit Sungai Code.
+
+4.1.3
+
+Kualitas Air Parameter Mikrobiologi
+Pengukuran kualitas air parameter mikrobiologi di Sungai Code meliputi
+
+total coliform, fecal coliform dan Escherichia coli (E.coli). Pengujian kualitas air
+untuk total coliform dan fecal coliform menggunakan metode Most Probable
+Number (MPN) yaitu uji yang mendeteksi sifat fermentatif coliform dalam sampel
+yang ditunjukkan dengan terbentuknya gas atau gelembung dalam tabung durham
+yang dihitung sebagai tabung positif. Pengujian bakteri E.coli dilakukan dengan
+metode isolasi bakteri menggunakan media selektif yaitu Chromocult Coliform
+Agar yang mendeteksi bakteri E.coli berdasarkan warna pada koloni yang terbentuk
+yaitu ditandai dengan warna biru tua.
+
+4.1.3.1 Total Coliform
+Total coliform merupakan bakteri yang biasanya ditemukan di lingkungan
+air dan tanah yang mana telah dipengaruhi oleh air permukaan serta limbah yang
+berasal dari buangan kotoran manusia dan hewan. Berikut ini disajikan hasil
+pengujian konsentrasi total coliform di Sungai Code pada Gambar 4.3.
+
+35
+
+Total Coliform (MPN/100 ml)
+
+10.000.000
+
+1.000.000
+
+100.000
+
+10.000
+
+1.000
+
+100
+SITE 1
+
+SITE 2
+
+SITE 3
+
+SITE 3B
+
+SITE 4
+
+SITE 5
+
+SITE 6
+
+SITE 7
+
+n site 1 = 3; n site 3b = 5; n site 2 – 7 = 7
+
+Gambar 4.3 Konsentrasi Total Coliform di Sungai Code
+
+Berdasarkan hasil penelitian diperoleh konsentrasi total coliform berkisar
+antara 7 x 103 MPN/100 ml – 1898 x 103 MPN/100 ml. Rata – rata konsentrasi total
+coliform dari site 1 hingga site 7 berturut – turut yaitu 9 x 103 MPN/100 ml, 41 x
+103 MPN/100 ml, 95,29 x 103 MPN/100 ml, 80,20 x 103 MPN/100 ml, 115,57 x 103
+MPN/100 ml, 186 x 103 MPN/100 ml, 213,86 x 103 MPN/100 ml dan 417,14 x 103
+MPN/100 ml. Dari grafik (Gambar 4.3) terlihat bahwa rata – rata konsentrasi total
+coliform dari site 1 hingga site 7 semakin tinggi. Rata – rata konsentrasi total
+coliform tertinggi berada pada site 7 yaitu 417,14 x 10 3 MPN/100 ml dengan nilai
+maksimum mencapai 1898 x 103 MPN/100 ml, sedangkan rata – rata konsentrasi
+total coliform terendah berada pada site 1 yaitu 9 x 10 3 MPN/100 ml dengan nilai
+minimum 7 x 103 MPN/100 ml.
+Konsentrasi total coliform yang mengalami peningkatan dari titik 1 ke titik
+7 menunjukkan bahwa dari hulu ke hilir konsentrasi total coliform semakin tinggi.
+Tingginya konsentrasi total coliform tersebut disebabkan oleh buangan limbah
+
+36
+
+domestik dan non domestik di sekitar sungai yang berasal dari permukiman yang
+padat di sekitar sungai dan industri setempat. Selain itu, pada site 7 juga merupakan
+bagian hilir sehingga memperoleh masukan beban pencemar lain yang terbawa oleh
+aliran air sungai dari site sebelumnya dimana aliran air semakin deras ketika debit
+meningkat. Hal ini juga sesuai dengan Kunarso (2005) yang mengatakan bahwa
+kandungan bakteri coliform di suatu perairan relatif lebih tinggi pada daerah yang
+menjadi muara aliran air. Sementara itu rendahnya konsentrasi total coliform pada
+site 1 berhubungan dengan rona lingkungan di sekitar lokasi pengambilan sampel
+dimana masih didominasi oleh lahan hijau, pepohonan dan tumbuh – tumbuhan di
+sekitar sungai serta belum ada permukiman yang memadati di sepanjang pinggir
+sungai. Dalam penelitian ini site 3 dibagi menjadi dua bagian yaitu site 3 dan site
+3b. Site 3b dimaksudkan untuk melihat pengaruh input dari saluran drainase setelah
+melewati site 3. Dari hasil pengujian diperoleh konsentrasi total coliform di site 3b
+memiliki konsentrasi tidak jauh beda dengan site 3, hal ini dapat dipengaruhi oleh
+kondisi lingkungan saat sampling yang diperkirakan input dari saluran drainase
+pada waktu pengambilan sampel tidak begitu berpengaruh terhadap konsentrasi
+bakteri di sungai sehingga tidak terlihat perbedaan yang signifikan.
+Secara keseluruhan konsentrasi total coliform di Sungai Code telah melebihi
+baku mutu air menurut Peraturan Gubernur DIY No. 20 Tahun 2008, dimana baku
+mutu air kelas II mensyaratkan konsentrasi total coliform dalam air sungai
+maksimal 5000 MPN/100 ml.
+
+4.1.3.2 Fecal Coliform
+Fecal coliform merupakan bakteri yang termasuk dalam kelompok total
+coliform yang secara spesifik dapat ditemukan dalam saluran usus dan feses
+manusia serta hewan berdarah panas. Keberadaan fecal coliform pada suatu
+perairan merupakan indikasi yang lebih akurat mengenai ada atau tidaknya
+kontaminasi limbah domestik berupa limbah kotoran manusia ataupun hewan, hal
+ini dikarenakan sumber dari fecal coliform lebih spesifik daripada sumber
+kelompok bakteri total coliform. Berikut ini merupakan konsentrasi fecal coliform
+di Sungai Code yang dapat dilihat pada Gambar 4.4 berikut.
+
+37
+
+Fecal coliform (MPN/100 ml)
+
+1.000.000
+
+100.000
+
+10.000
+
+1.000
+
+100
+SITE 1
+
+SITE 2
+
+SITE 3
+
+SITE 3B
+
+SITE 4
+
+SITE 5
+
+SITE 6
+
+SITE 7
+
+n site 1 = 3; n site 3b = 5; n site 2 – 7 = 7
+
+Gambar 4.4 Konsentrasi Fecal Coliform di Sungai Code
+
+Berdasarkan hasil penelitian diperoleh konsentrasi fecal coliform berkisar
+antara 4 x 103 MPN/100 ml – 139 x 103 MPN/100 ml. Rata – rata konsentrasi fecal
+coliform dari site 1 hingga site 7 berturut – turut adalah 4 x 103 MPN/100 ml, 19,14
+x 103 MPN/100 ml, 25,86 x 103 MPN/100 ml, 20,40 x 103 MPN/100 ml, 30,43 x 103
+MPN/100 ml, 37,43 x 103 MPN/100 ml, 53,57 x 103 MPN/100 ml dan 56,57 x 103
+MPN/100 ml. Berdasarkan grafik (Gambar 4.4) terlihat bahwa rata – rata
+konsentrasi fecal coliform dari site 1 hingga site 7 mengalami kenaikan. Rata – rata
+konsentrasi fecal coliform tertinggi berada pada site 7 yaitu 56,57 x 10 3 MPN/100
+ml dengan nilai maksimum mencapai 116 x 103 MPN/100 ml, sedangkan rata – rata
+konsentrasi fecal coliform terendah berada pada site 1 yaitu 4 x 103 MPN/100 ml
+dengan nilai minimum 4 x 103 MPN/100 ml.
+Dari hasil penelitian terlihat bahwa konsentrasi bakteri fecal coliform juga
+mengalami peningkatan dari site 1 hingga site 7. Hal ini dapat dipengaruhi oleh
+kondisi lingkungan di sekitar daerah aliran sungai. Bakteri fecal coliform
+merupakan bakteri yang mengindikasikan telah terjadinya pencemaran akibat
+
+38
+
+kotoran manusia ataupun hewan di perairan. Konsentrasi fecal coliform cukup
+tinggi pada site 6 dan site 7 diperkirakan karena site tersebut merupakan lokasi
+pengambilan sampel yang telah memasuki daerah perkotaan yang padat
+permukiman penduduk di sekitar pinggiran sungai serta industri. Pada site yang
+masuk dalam bagian hulu konsentrasi fecal coliform cenderung rendah dikarenakan
+keadaan lokasi masih didominasi oleh lahan hijau dan belum padat pemukiman
+penduduk. Hal ini sesuai dengan hasil penelitian Feliatra (2002) di Perairan Muara
+Sungai Bantan Tengah Bengkalis Riau yang menunjukkan bahwa kepadatan bakteri
+colitinja tertinggi ditemukan di titik pengambilan sampel yang letaknya lebih dekat
+dengan lokasi pemukiman penduduk dibandingkan dengan titik yang lain. Dalam
+penelitian ini pengujian fecal coliform juga melihat konsentrasi site 3b untuk
+melihat pengaruh input dari saluran drainase setelah melewati site 3, yang diketahui
+bahwa konsentrasi fecal coliform rata – rata memiliki konsentrasi yang sama
+dengan site 3, hal ini dapat dipengaruhi oleh kondisi saat sampling yang
+diperkirakan input dari saluran drainase pada waktu pengambilan sampel tidak
+begitu banyak sehingga tidak terdapat perbedaan konsentrasi dengan site 3.
+Banyaknya aktivitas yang dilakukan penduduk terutama aktivitas MCK
+(Mandi Cuci Kakus) turut meningkatkan frekuensi pemasukan limbah ke sungai
+sehingga konsentrasi fecal coliform juga tinggi. Berdasarkan data Strategi Sanitasi
+Kota Yogyakarta (SSK) 2013 – 2017 menjelaskan bahwa masih terdapat
+masyarakat Yogyakarta yang buang air besar di sungai, saluran terbuka atau tempat
+lain yang bukan di jamban (Buang air besar sembarangan/BABS). Hal ini biasanya
+terjadi pada masyarakat yang tempat tinggalnya dekat dengan sungai ataupun
+saluran terbuka. Diketahui terdapat sebesar 0,22% dari penduduk Kota Yogyakarta
+yang masih mempunyai kebiasaan BABS. Selain itu masih ditemui masyarakat
+yang menggunakan jamban dengan tangki septik yang tidak layak seperti cubluk,
+tangki yang bocor ataupun rusak. Permasalahan sanitasi lainnya yaitu keterbatasan
+kapasitas instalasi pengolahan air limbah (IPAL) regional khususnya pengelolaan
+air limbah domestik. Terdapat sekitar 2,09% masyarakat yang memiliki tangki
+septik tidak layak.
+
+39
+
+Diketahui dari hasil penelitian bahwa konsentrasi fecal coliform di Sungai
+Code juga telah melebihi baku mutu air menurut Peraturan Gubernur DIY No. 20
+Tahun 2008, dimana baku mutu air kelas II memperbolehkan konsentrasi fecal
+coliform dalam air sungai maksimal 1000 MPN/100 ml.
+
+4.1.3.3 Escherichia coli (E. coli)
+E.coli merupakan spesies utama yang termasuk dalam kelompok fecal
+coliform dan salah satu bakteri spesifik yang digunakan sebagai indikator terjadinya
+pencemaran air yang disebabkan oleh kotoran manusia ataupun hewan. Keberadaan
+bakteri E.coli pada suatu perairan menandakan bahwa perairan tersebut telah
+tercemar dan mengalami penurunan kualitas air serta adanya patogen dalam air.
+Berikut ini merupakan hasil pengujian konsentrasi E. coli di sepanjang Sungai
+Code.
+
+10.000
+
+E.coli (CFU/100 ml)
+
+1.000
+
+100
+
+10
+
+1
+SITE 1
+
+SITE 2
+
+SITE 3
+
+SITE 3B
+
+SITE 4
+
+SITE 5
+
+SITE 6
+
+n site 1 – 7 = 4
+
+Gambar 4.5 Konsentrasi E.coli di Sungai Code
+
+SITE 7
+
+40
+
+Hasil penelitian menunjukkan konsentrasi E.coli berkisar antara 33
+CFU/100 ml – 3500 CFU/100 ml. Rata – rata konsentrasi E.coli dari site 1 hingga
+site 7 berturut – turut adalah 33 CFU/100 ml, 192 CFU/100 ml, 475 CFU/100 ml,
+500 CFU/100 ml, 608 CFU/100 ml, 1317 CFU/100 ml, 1833 CFU/100 ml dan 833
+CFU/100 ml. Berdasarkan grafik (Gambar 4.5) menunjukkan bahwa rata – rata
+konsentrasi E. coli mengalami peningkatan dari site 1 hingga site 6 dan menurun di
+site 7. Rata – rata konsentrasi E. coli tertinggi terdapat pada site 6 yaitu 1833
+CFU/100 ml dengan nilai maksimum mencapai 3500 CFU/100 ml, sedangkan rata
+– rata konsentrasi E. coli terendah terdapat pada site 1 yaitu 33 CFU/100 ml dengan
+nilai minimum 33 CFU/100 ml.
+Dari hasil penelitian terlihat bahwa konsentrasi bakteri E. coli mengalami
+peningkatan dari site 1 hingga site 6, lalu menurun pada site 7. Bakteri E. coli
+merupakan bakteri yang menjadi indikator telah pencemaran akibat kotoran
+manusia ataupun hewan di perairan, dan umumnya bakteri ini banyak ditemukan di
+dalam usus besar manusia dan hewan. Konsentrasi E. coli tertinggi pada site 6
+diduga karena site tersebut merupakan lokasi yang padat permukiman penduduk di
+sepanjang pinggir sungai sehingga mendapat banyak input limbah domestik yang
+berasal dari aktivitas rumah tangga. Pada bagian hulu konsentrasi E.coli cenderung
+lebih rendah dikarenakan keadaan lokasi masih didominasi oleh lahan hijau serta
+masukan limbah dari aktivitas manusia tidak banyak. Konsentrasi E. coli yang
+menurun di site 7 dapat disebabkan oleh kondisi lingkungan di sekitar sungai
+dimana pada site tersebut permukimannya tidak sepadat site 6 serta masih terdapat
+lahan pertanian di dekat site tersebut.
+Secara keseluruhan penggunanan lahan sepanjang aliran Sungai Code dapat
+mempengaruhi konsentrasi E.coli dimana sebagian besar merupakan daerah padat
+pemukiman yang diduga dapat berkontribusi meningkatkan beban pencemar
+terutama limbah domestik yang berasal dari aktivitas manusia.
+
+4.1.4
+
+Kualitas Air Parameter Fisika dan Kimia
+Kualitas fisik dan kimia air sungai yang diukur dalam penelitian ini meliputi
+
+suhu, TSS, TDS, pH dan oksigen terlarut.
+
+41
+
+4.1.4.1 Suhu
+Suhu adalah parameter fisik suatu badan air yang memiliki peran penting
+karena dapat mempengaruhi reaksi kimia dan laju reaksi, kehidupan akuatik serta
+sesuai atau tidaknya penggunaan air untuk peruntukan tertentu (Metcalf and Eddy,
+1979). Adanya perubahan suhu pada suatu perairan berpengaruh terhadap proses
+fisika, kimia, dan biologis dalam air. Kenaikan suhu air akan menimbulkan
+beberapa akibat seperti menurunnya jumlah oksigen terlarut di dalam air,
+peningkatan kecepatan reaksi kimia, terganggunya kehidupan biota air dan jika
+batas suhu yang maksimal terlewati maka dapat mematikan kehidupan makhluk
+hidup di dalam air (Fardiaz, 1992).
+
+40
+
+Suhu (0C)
+
+30
+
+20
+
+10
+SITE 1
+
+SITE 2
+
+SITE 3
+
+SITE 3B
+
+SITE 4
+
+SITE 5
+
+SITE 6
+
+SITE 7
+
+n site 1 = 3; n site 3b = 5; n site 2 – 7 = 7
+
+Gambar 4.6 Suhu Air Sungai Code
+
+Berdasarkan grafik pada Gambar 4.6 terlihat bahwa suhu air Sungai Code
+berkisar antara 25,1 ºC – 33,2 ºC. Diketahui rata – rata suhu air dari site 1 hingga
+site 7 berturut – turut adalah 25,9 ºC, 27,6 ºC, 28,3 ºC, 28,9 ºC, 29,5 ºC, 30,6 ºC
+30,3 ºC dan 29,2 ºC. Suhu tertinggi terdapat pada site 5 dengan rata – rata 30,6 ºC
+
+42
+
+dan nilai maksimum mencapai 33,2 ºC, sedangkan suhu terendah terdapat pada site
+1 dengan rata – rata 25,9 ºC dan minimum 25,1 ºC.
+Menurut Barus (2004), suhu di perairan dipengaruhi oleh berbagai faktor,
+seperti intensitas cahaya matahari, pertukaran panas antara air dengan udara
+sekeliling dan faktor penutupan oleh pepohonan. Suhu air yang rendah pada site 1
+dapat disebabkan karena kondisi lingkungan yang didominasi oleh lahan hijau,
+pepohonan dan tumbuh – tumbuhan, selain itu pengambilan sampel air pada site 1
+juga dilakukan pada pagi hari sehingga suhu cenderung rendah. Adapun variasi
+suhu air Sungai Code juga dipengaruhi oleh faktor cuaca pada saat pengambilan
+sampel yang cenderung kurang stabil dimana ada saat cuaca mendung dan cuaca
+cerah. Terjadinya hujan pada saat sampling juga turut mempengaruhi suhu dimana
+hal ini mengakibatkan suhu udara menurun sehingga suhu air menjadi rendah.
+Menurut Fardiaz (1992), perubahan suhu dapat berpengaruh terhadap
+proses biologis dalam air, dimana kenaikan suhu air tertentu dapat mengganggu
+kehidupan makhluk hidup dalam air. Bedasarkan hasil penelitian, kondisi rata – rata
+suhu air Sungai Code pada setiap site masih berada dalam kisaran yang dapat
+ditoleransi oleh organisme akuatik. Hal ini sejalan dengan pernyataan Effendi
+(2003) yang menyatakan bahwa kisaran suhu yang optimum untuk pertumbuhan
+organisme pada perairan yaitu berkisar antara 20 ºC – 30 ºC.
+
+4.1.4.2 Total Suspended Solid (TSS)
+Total Suspended Solid (TSS) atau padatan tersuspensi terdiri atas partikel –
+partikel yang memiliki ukuran dan berat lebih kecil dari pada sedimen, seperti tanah
+liat, sel-sel mikroorganisme, bahan – bahan organik tertentu dan lain – lain (Fardiaz,
+1992). Adanya kadar Total Suspended Solid menjadi suatu ciri terjadinya proses
+erosi yang dapat meningkatkan tingkat kekeruhan pada suatu perairan (Yanti,
+2017).
+Hasil pengukuran TSS air Sungai Code disajikan pada Gambar 4.7 berikut.
+
+43
+
+100
+
+TSS (mg/L)
+
+80
+
+60
+
+40
+
+20
+
+0
+SITE 1
+
+SITE 2
+
+SITE 3
+
+SITE 3B
+
+SITE 4
+
+SITE 5
+
+SITE 6
+
+SITE 7
+
+n site 1 = 3; n site 3b = 5; n site 2 – 7 = 7
+
+Gambar 4.7 Konsentrasi TSS Air Sungai Code
+
+Berdasarkan Gambar 4.7 terlihat bahwa konsentrasi TSS di Sungai Code
+berkisar antara 10 mg/L – 97 mg/L. Rata – rata konsentrasi TSS dari site 1 hingga
+site 7 berturut – turut yaitu 12 mg/L, 26,14 mg/L, 43,43 mg/L, 46,80 mg/L, 50,57
+mg/L, 66,29 mg/L, 72,14 mg/L dan 62,14 mg/L. Diketahui rata – rata konsentrasi
+TSS tertinggi terdapat pada site 6 yaitu 72,14 mg/L dengan konsentrasi maksimum
+mencapai 97 mg/L, sedangkan konsentrasi TSS terendah terdapat pada site 1
+dengan rata – rata 12 mg/L dan konsentrasi minimum yaitu 10 mg/L.
+Dari hulu ke hilir terlihat konsentrasi TSS semakin meningkat yang
+kemudian sedikit menurun pada site terakhir. Tingginya nilai konsentrasi TSS dapat
+disebabkan oleh banyaknya padatan yang berasal dari limbah domestik serta
+industri di sekitar Sungai Code sehingga mempengaruhi kejernihan air sungai
+tersebut. Rendahnya konsentrasi TSS di beberapa site dapat dikarenakan kondisi
+lingkungan di sekitar sungai yang masih terdapat lahan hijau serta memperoleh
+tambahan oksigen dari proses fotosintesis tanaman air.
+Menurut Effendi (2003), kandungan TSS yang terdiri dari pasir halus,
+lumpur serta jasad renik terutama disebabkan oleh terjadinya kikisan tanah yang
+
+44
+
+terbawa masuk ke badan air. Pengambilan sampel air yang dilakukan saat musim
+penghujan kemungkinan turut mempengaruhi konsentrasi TSS air Sungai Code
+karena pada musim tersebut mudah terjadi erosi tanah sehingga dapat
+meningkatkan konsentrasi TSS pada air sungai. Kandungan TSS yang berlebih
+dapat menyebabkan terjadinya kekeruhan serta berpengaruh pada proses
+fotosintesis dikarenakan terhalangnya sinar matahari
+
+untuk masuk ke dalam
+
+perairan (Effendi, 2003).
+Berdasarkan baku mutu air kelas II Peraturan Gubernur DIY No. 20 Tahun
+2008, konsentrasi yang diperbolehkan untuk TSS yaitu 50 mg/L, sehingga
+konsentrasi TSS yang memenuhi baku mutu yaitu site 1 – site 3b.
+
+4.1.4.3 Total Dissolved Solid (TDS)
+Total Dissolved solid (TDS) atau total padatan terlarut adalah padatan –
+padatan padatan yang berukuran lebih kecil daripada padatan tersuspensi. Padatan
+ini terdiri dari senyawa-senyawa organik dan anorganik yang larut air, mineral dan
+garam-garamnya, misalnya air buangan industri yang mengadung mineral – mineral
+tertentu serta air buangan rumah tangga dan industri yang mengandung sabun,
+deterjen dan surfaktan yang larut dalam air (Fardiaz, 1992). Nilai TDS yang tinggi
+juga menunjukkan bahwa sedimen yang terlarut dan tingkat kekeruhan air juga
+tinggi (Arisanty et al., 2017).
+Berikut ini merupakan hasil pengukuran konsentrasi TDS di Sungai Code.
+
+45
+
+300
+250
+
+TDS (mg/L)
+
+200
+150
+100
+50
+0
+SITE 1
+
+SITE 2
+
+SITE 3
+
+SITE 3B
+
+SITE 4
+
+SITE 5
+
+SITE 6
+
+SITE 7
+
+n site 1 = 3; n site 3b = 5; n site 2 – 7 = 7
+
+Gambar 4.8 Konsentrasi TDS Air Sungai Code
+Berdasarkan hasil pengukuran diperoleh konsentrasi TDS di Sungai Code
+berkisar antara 103 mg/L – 277 mg/L. Rata – rata konsentrasi TDS dari site 1 hingga
+site 7 berturut – turut yaitu 109,67 mg/L, 121,35 mg/L, 172 mg/L, 194,60 mg/L,
+187,57 mg/L, 193,43 mg/L, 224,57 mg/L dan 230,37 mg/L. Diketahui rata – rata
+konsentrasi TDS tertinggi terdapat pada site 7 yaitu 230,37 mg/L dengan
+konsentrasi maksimum mencapai 277 mg/L, sedangkan konsentrasi TSS terendah
+terdapat pada site 1 dengan rata – rata 109,67 mg/L dan konsentrasi minimum yaitu
+103 mg/L.
+Pada grafik (Gambar 4.8) terlihat bahwa konsentrasi TDS dari hulu ke hilir
+semakin meningkat. Menurut Effendi (2003), konsentrasi TDS di suatu perairan
+dapat dipengaruhi oleh limpasan dari tanah dan pelapukan batuan. Tingginya
+konsentrasi TDS dapat disebabkan oleh aktivitas penduduk di sekitar sungai dimana
+permukiman penduduk semakin padat dari hulu ke hilir, sehingga buangan limbah
+baik domestik maupun industri semakin meningkat. Hal ini sesuai dengan
+pernyataan Setiari et al. (2012) yang menyatakan bahwa keberadaan TDS di
+perairan disebabkan terutama oleh adanya sisa-sisa bahan anorganik dan molekul
+sisa – sisa air buangan, seperti molekul sabun, deterjen dan surfaktan yang larut
+dalam air. Rendahnya nilai TDS pada site 1 dan site 2 dikarenakan lokasi site yang
+
+46
+
+tidak padat permukiman dibandingkan dengan site lainnya serta rendahnya aktivitas
+yang menghasilkan limbah organik maupun anorganik di sekitar sungai. Hal ini
+sesuai dengan pernyataan Yazwar (2008) bahwa rendahnya konsentrasi TDS pada
+suatu perairan dikarenakan lokasi perairan yang jauh dari segala aktivitas manusia
+sehingga limbah yang masuk ke perairan sangat minim bahkan tidak ada.
+Konsentrasi TDS di Sungai Code secara keseluruhan masih berada di bawah
+baku mutu air yang disyaratkan untuk kelas II menurut Peraturan Gubernur DIY
+No. 20 Tahun 2008 yaitu 1000 mg/L.
+
+4.1.4.4 pH
+Nilai pH dalam suatu perairan dapat menjadi indikator adanya
+keseimbangan dan dapat mempengaruhi ketersediaan unsur-unsur kimia dan unsurunsur hara yang berguna bagi kehidupan vegetasi akuatik, selain itu pH air juga
+berperanan penting bagi kehidupan fauna air seperti ikan dan sebagainya yang
+hidup di perairan tersebut (Asdak, 2010).
+pH air normal berkisar antara 6,5 - 7,5 yang memenuhi syarat untuk suatu
+kehidupan. pH bersifat asam jika nilainya di bawah pH normal, sedangkan jika nilai
+pH di atas normal maka bersifat basa. Air limbah dan buangan industri dapat
+mempengaruhi pH air yang akhirnya akan berdampak pada kehidupan organisme
+di dalam air (Wardhana, 2004).
+Berdasarkan hasil pengukuran pH di Sungai Code diperoleh nilai pH
+berkisar antara 6 – 8. Nilai pH menunjukkan kecenderungan yang hampir sama di
+setiap site. Rata – rata nilai pH dari site 1 hingga site 7 berturut – turut adalah 6,7,
+6,9, 7,0, 7,0, 7,0, 7,0, 7,1 dan 7,1. Hasil rata – rata nilai pH menandakan bahwa nilai
+pH air Sungai Code bersifat normal dan masuk dalam rentang pH 6 – 9 sesuai baku
+mutu air kelas II menurut Peraturan Gubernur No. 20 Tahun 2008.
+
+47
+
+9
+8
+7
+
+Des I
+
+pH
+
+6
+
+Jan I
+
+5
+
+Jan II
+
+4
+
+Feb I
+
+3
+
+Feb II
+
+2
+
+Mar I
+
+1
+
+Mar II
+
+0
+1
+
+2
+
+3
+
+3b
+
+4
+
+5
+
+6
+
+7
+
+Site
+
+Gambar 4.9 pH Air Sungai Code
+
+4.1.4.5 Oksigen Terlarut (DO)
+Oksigen terlarut (DO) memiliki peran dalam proses oksidasi dan reduksi
+bahan organik dan anorganik sehingga berperan penting sebagai indikator kualitas
+perairan (Salmin, 2005). Semakin besar nilai oksigen terlarut maka derajat
+pengotoran menjadi relatif kecil (Sugiharto, 1987). Adapun kadar oksigen terlarut
+dalam air tergantung pada beberapa proses diantaranya pergerakan massa air,
+percampuran, aktivitas fotosintesis dan respirasi serta masukan limbah ke badan air
+(Effendi, 2003).
+Hasil pengukuran konsentrasi oksigen terlarut (DO) air Sungai Code
+disajikan pada Gambar 4.10 berikut.
+
+48
+
+10
+
+DO (mg/L)
+
+8
+
+6
+
+4
+
+2
+
+0
+SITE 1
+
+SITE 2
+
+SITE 3
+
+SITE 3B
+
+SITE 4
+
+SITE 5
+
+SITE 6
+
+SITE 7
+
+n site 1 = 3; n site 3b = 5; n site 2 – 7 = 7
+
+Gambar 4.10 Konsentrasi DO Air Sungai Code
+
+Berdasarkan hasil pengukuran konsentrasi DO dari site 1 hingga site 7
+diperoleh nilai berkisar antara 4,24 mg/L – 7,63 mg/L. Rata – rata konsentrasi DO
+dari site 1 hingga site 7 masing – masing secara berurutan adalah 6,64 mg/L, 6,30
+mg/L, 6,24 mg/L, 4,49 mg/L, 5,82 mg/L, 5,51 mg/L, 5,02 mg/L dan 5,09 mg/L.
+Secara keseluruhan tidak terdapat perbedaan yang begitu jauh antar konsentrasi DO
+di setiap site, selain itu juga terlihat bahwa rata – rata konsentrasi DO dari hulu ke
+hilir mengalami penurunan. Adapun DO terendah terdapat pada site 5 dengan rata
+– rata 5,02 mg/L dan tertinggi pada site 1 dengan rata – rata 6,64 mg/L. Pada
+Gambar 4.10 juga terlihat bahwa konsentrasi DO di site 3b mengalami penurunan
+dari site 3, hal ini karena letak site 3b yang dipilih setelah melewati saluran – saluran
+drainase. Menurut Pelczar dan Chan (1988), konsentrasi oksigen terlarut tidak
+terlalu berpengaruh terhadap pertumbuhan bakteri coliform, hal ini dikarenakan
+bakteri tersebut merupakan bakteri anaerob fakultatif yang dapat hidup dengan
+ataupun tanpa oksigen.
+Menurunnya konsentrasi DO menunjukkan adanya pencemaran bahan –
+bahan organik yang berasal industri dan aktivitas manusia yang terdapat di sekitar
+
+49
+
+lokasi penelitian. Menurut Effendi (2003), proses dekomposisi bahan organik dan
+oksidasi bahan anorganik dapat mempengaruhi jumlah oksigen terlarut dalam suatu
+perairan. Menurunnnya kandungan oksigen terlarut dari hulu ke hilir di Sungai
+Code mengindikasikan terjadinya peningkatan proses dekomposisi bahan organik
+dan oksidasi bahan anorganik akibat meningkatnya buangan limbah di sekitar
+sungai tersebut. Pada site yang termasuk bagian hulu terlihat bahwa konsentrasi DO
+cenderung lebih tinggi, hal ini dikarenakan lokasi tersebut masih didominasi oleh
+lahan hijau dan belum banyak aktivitas manusia yang menghasilkan limbah yang
+dapat menurunkan konsentrasi oksigen terlarut.
+Diketahui bahwa rata – rata konsentrasi DO di Sungai Code telah melewati
+nilai batas baku mutu air kelas II menurut Peraturan Gubernur DIY No. 20 Tahun
+2008 yang mensyaratkan nilai DO maksimal 4 mg/L.
+
+4.1.5
+
+Analisis Pengaruh Curah Hujan terhadap Kualitas Air Parameter
+Mikrobiologi di Sungai Code
+Pada penelitian ini dilakukan analisis lebih lanjut terhadap curah hujan dan
+
+parameter kualitas air mikrobiologi yang meliputi total coliform dan fecal coliform
+untuk mengetahui pengaruh curah hujan terhadap konsentrasi mikroba di Sungai
+Code. Data yang digunakan dalam analisis ini yaitu data site 2, site 3, site 4, site 5,
+site 6 dan site 7 dimana data dari keenam site tersebut merupakan data kontinu yang
+diperoleh selama penelitian pada musim penghujan mulai dari bulan Desember
+2017 hingga Maret 2018 dengan frekuensi pengambilan sampel dua kali per bulan.
+
+4.1.5.1 Konsentrasi Total Coliform dan Fecal Coliform pada Musim
+Penghujan
+Konsentrasi total coliform dan fecal coliform di Sungai Code dari bulan
+Desember I – Maret II bervariasi. Berikut merupakan grafik konsentrasi total
+coliform dan fecal coliform berdasarkan waktu pengambilan sampel di Sungai Code
+pada musim penghujan.
+
+50
+
+Total Coliform (MPN/100 ml)
+
+10.000.000
+
+1.000.000
+
+100.000
+
+10.000
+
+1.000
+Des
+
+Jan I
+
+Jan II
+
+Feb I
+
+Feb II
+
+Mar I
+
+Mar II
+
+n Des - Jan I = 6; n Jan II - Feb I = 7; n Feb II - Mar II= 8
+
+Gambar 4.11 Konsentrasi Total Coliform di Sungai Code pada Musim Penghujan
+
+Fecal Coliform (MPN/100 ml)
+
+1.000.000
+
+100.000
+
+10.000
+
+1.000
+
+100
+Des
+
+Jan I
+
+Jan II
+
+Feb I
+
+Feb II
+
+Mar I
+
+n Des - Jan I = 6; n Jan II - Feb I = 7; n Feb II - Mar II= 8
+
+Gambar 4.12 Konsentrasi Fecal Coliform di Sungai Code
+pada Musim Penghujan
+
+Mar II
+
+51
+
+Hasil penelitian menunjukkan bahwa rata – rata konsentrasi total coliform
+dari bulan Desember I – Maret II berturut – turut yaitu 555 x 103 MPN/100 ml,
+103,17 x 103 MPN/100 ml, 132,71 x 103 MPN/100 ml, 201,29 x 103 MPN/100 ml,
+86,63 x 103 MPN/100 ml, 54,75 x 103 MPN/100 ml dan 61,50 x 103 MPN/100 ml.
+Rata – rata konsentrasi total coliform tertinggi terdapat pada bulan Desember I yaitu
+555 x 103 MPN/100 ml dan terendah pada bulan Maret I yaitu 54,75 x 103 MPN/100
+ml. Untuk konsentrasi fecal coliform diperoleh rata – rata dari bulan Desember I –
+Maret II berturut – turut adalah 80,17 x 103 MPN/100 ml, 31,83 x 103 MPN/100 ml,
+32,57 x 103 MPN/100 ml, 40,57 x 103 MPN/100 ml, 24,50 x 103 MPN/100 ml, 17,25
+x 103 MPN/100 ml dan 19,63 x 103 MPN/100 ml. Rata – rata konsentrasi fecal
+coliform tertinggi juga terdapat pada bulan Desember I yaitu 80,17 x 103 MPN/100
+ml dan terendah pada bulan Maret I yaitu 17,25 x 103 MPN/100 ml.
+
+4.1.5.2 Analisis Hubungan antara Curah Hujan dan Kualitas Air Parameter
+Mikrobiologi
+Pada penelitian ini untuk mengetahui tingkat hubungan antara curah hujan
+dan konsentrasi kualitas air parameter mikrobiologi (total coliform dan fecal
+coliform) dilakukan uji korelasi (r) dan uji signifikansi (t hitung) serta pendekatan
+pada besarnya nilai koefisien determinasi (R2). Berikut ini hasil uji korelasi dan
+signifikansi setiap site di Sungai Code yang disajikan dalam Tabel 4.1.
+
+Tabel 4.1 Hasil Uji Korelasi dan Signifikansi antara Curah Hujan dan Kualitas
+Air Parameter Mikrobiologi
+Total Coliform
+Site
+2
+3
+4
+5
+6
+7
+
+Nilai
+Koefisien
+Korelasi (r)
+0,951
+0,944
+0,981
+0,957
+0,922
+0,988
+
+Fecal Coliform
+
+Nilai Signifikansi
+(t hitung)
+
+Nilai Koefisien
+Korelasi (r)
+
+6,882
+6,882
+11,177
+7,375
+5,338
+14,294
+
+0,985
+0,986
+0,961
+0,998
+0,999
+0,934
+
+Nilai
+Signifikansi (t
+hitung)
+12,750
+13,222
+7,758
+35,485
+42,592
+5,858
+
+52
+
+Berdasarkan Tabel 4.1 diketahui bahwa nilai koefisien korelasi (r) untuk
+parameter total coliform dan fecal coliform di setiap site termasuk dalam rentang
+nilai koefisien korelasi 0,800 – 1,000 yang berarti hubungan antara curah hujan dan
+parameter tersebut menunjukkan tingkat hubungan sangat kuat dengan arah
+hubungan positif, dimana jika curah hujan meningkat maka diikuti oleh konsentrasi
+total coliform dan fecal coliform yang juga meningkat.
+Selanjutnya, untuk mengetahui apakah koefisien korelasi tersebut signifikan
+atau tidak maka dilakukan pengujian taraf signifikansi dengan menggunakan uji t.
+Pada pengujian ini digunakan taraf signifikansi sebesar 5% (α = 0,05) dengan
+tingkat kepercayaan 95% sehingga diperoleh nilai t tabel sebesar 2,5706 (db = n –
+2 = 7 – 2 = 5). Apabila t hitung > t tabel, maka koefisien korelasi dinyatakan
+signifikan, sebaliknya jika t hitung < t tabel, maka koefisien korelasi tidak
+signifikan. Berdasarkan hasil uji signifikasi pada Tabel 4.1 menunjukkan bahwa
+secara keseluruhan nilai t hitung lebih besar dari t tabel sehingga hasil koefisien
+korelasi dinyatakan signifikan pada taraf 5%.
+Dalam penelitian ini untuk melihat seberapa besar tingkat pengaruh variabel
+bebas (curah hujan) terhadap variabel terikat (total coliform dan fecal coliform)
+secara parsial digunakan koefisien determinasi (R2). Koefisien determinasi adalah
+kuadrat dari koefisien korelasi yang digunakan sebagai ukuran untuk mengetahui
+kemampuan dari setiap variabel yang digunakan dalam penelitian, dimana jika nilai
+koefisien determinasi mendekati 1 maka pengaruh variabel bebas terhadap variabel
+terikat kuat (Sugiyono, 2013).
+Hubungan curah hujan dan kualitas air parameter mikrobiologi (total
+coliform dan fecal coliform) dapat dilihat pada Gambar 4.13 dan Gambar 4.14
+
+53
+
+Gambar 4.13 Hubungan antara Curah Hujan dan Konsentrasi Total Coliform di
+Sungai Code
+
+54
+
+Gambar 4.14 Hubungan antara Curah Hujan dan Konsentrasi Fecal Coliform di
+Sungai Code
+
+55
+
+Pada penelitian ini dibandingkan nilai koefisien determinasi (R 2) dari
+hubungan antara curah hujan dengan masing – masing parameter mikrobiologi
+yaitu total coliform dan fecal coliform yang paling terbesar atau mendekati 1 pada
+regresi linier dan regresi non-linier polinomial untuk memperoleh model yang
+sesuai dalam merepresentasikan hubungan antara curah hujan dan parameter
+mikrobiologi tersebut. Dari hasil analisis diperoleh nilai R 2 terbesar ditunjukkan
+oleh hasil regresi non-linier polinomial untuk setiap site di Sungai Code dengan rata
+– rata nilai R2 mendekati 1. Sebagai contoh hasil regresi non-linier pada site 2 untuk
+parameter total coliform diperoleh persamaannya yaitu y = -11,544x2 + 1962,7x +
+13457 dengan nilai R2 sebesar 0,9851 dimana nilai tersebut mendekati 1, hal ini
+juga berarti terdapat sekitar 98,51% konsentrasi total coliform dapat dijelaskan oleh
+curah hujan, sedang sisanya 1,49% adalah faktor lain yang tidak dapat dijelaskan
+oleh curah hujan. Hal serupa juga terdapat parameter fecal coliform, misalnya pada
+site 2 regresi non-linier polinomial dengan persamaan y = -2,3512x2 + 611,59x +
+8671,2 menunjukkan nilai R2 sebesar 0,9862 dimana nilai R2 mendekati 1, hal ini
+juga berarti bahwa sekitar 98,62% konsentrasi fecal coliform dapat dijelaskan oleh
+curah hujan dan sisanya 1,38% merupakan faktor lain yang tidak dapat dijelaskan
+oleh curah hujan.
+Curah hujan dengan tingkat tertentu memiliki kemampuan dalam membawa
+beban pencemar seperti limbah domestik dari permukaan tanah serta sumber
+pencemar nonpoint source lain yang dibawa oleh limpasan permukaan masuk ke
+sungai sehingga mempengaruhi konsentrasi total coliform dan fecal coliform di
+Sungai Code. Dalam penelitian Leight et al. (2016) mengenai hubungan musim
+terhadap kepadatan bakteri fecal pada perairan di Maryland ditemukan bahwa curah
+hujan yang intens dapat mempengaruhi konsentrasi bakteri coliform di dalam air.
+Sedangkan menurut Kosasih et al. (2009) arah aliran air berkaitan dengan
+pergerakan bakteri fecal coliform dimana pergerakannya akan mengikuti arah aliran
+air tersebut sehingga pengambilan sampel yang dilakukan setelah terjadi hujan
+kemungkinan besar akan mempengaruhi jumlah bakteri pada sampel yang diambil.
+Bakteri fecal dapat masuk ke perairan melalui aliran sungai serta limpasan air hujan
+sehingga jumlah bakteri akan semakin tinggi pada saat hujan (Feliatra, 2002).
+
+56
+
+4.2
+
+Status Mutu Air Sungai Code
+Sungai dapat dikatakan tercemar jika tidak dapat digunakan sesuai dengan
+
+peruntukan sebagaimana mestinya. Menurut Mahyudin (2015), tingkat pencemaran
+pada suatu sumber air dalam waktu tertentu dapat ditunjukkan melalui status mutu
+air dengan cara membandingkannya dengan baku mutu air yang berlaku.
+4.2.1
+
+Analisis Status Mutu Air Sungai Code
+Pada penelitian ini dilakukan analisis status mutu air berdasarkan pada
+
+pedoman penentuan status mutu air yang ditetapkan oleh Kementerian Lingkungan
+Hidup Nomor 115 Tahun 2003 dengan mengunakan metode Indeks Pencemaran
+(Pollution Index). Analisis kualitas air berdasarkan Indeks Pencemaran (IP) ini
+dapat digunakan sebagai dasar dalam pengambilan keputusan agar dapat menilai
+kualitas badan air untuk suatu peruntukan.
+Indeks Pencemaran mencakup perhitungan berbagai parameter kualitas air.
+Pada penelitian ini parameter utama yang dijadikan tolak ukur untuk menganalisis
+status mutu air Sungai Code adalah total coliform dan fecal coliform, dengan
+parameter pendukung lain seperti pH, TDS, TSS, DO yang selanjutnya akan
+dibandingkan dengan kriteria baku mutu air sesuai peruntukan kelas II berdasarkan
+Peraturan Gubernur DIY No. 20 Tahun 2008.
+Nilai Indeks Pencemaran di Sungai Code adalah sebagai berikut.
+
+57
+
+Tabel 4.2 Nilai Indeks Pencemaran di Sungai Code
+
+Nilai Indeks Pencemaran (Pij)
+Site
+
+Des I
+
+Jan I
+
+Jan II
+
+Feb I
+
+Feb II
+
+Mar I
+
+Mar II
+
+2,95
+2,96
+2,96
+1
+6,94
+5,08
+5,67
+5,65
+5,08
+3,89
+4,44
+2
+7,37
+5,70
+5,67
+6,34
+5,71
+5,13
+6,65
+3
+5,67
+6,37
+5,73
+5,14
+5,15
+3b
+7,30
+6,19
+6,37
+6,46
+6,10
+5,67
+6,01
+4
+8,09
+6,37
+7,30
+7,41
+6,35
+6,05
+6,10
+5
+8,81
+6,73
+7,31
+7,42
+6,46
+6,22
+6,44
+6
+10,37
+7,34
+7,34
+8,06
+6,89
+5,75
+6,10
+7
+*Keterangan: Pengambilan data site 1 dimulai pada bulan Februari minggu ke-2 dan site
+3b dimulai pada bulan Januari minggu ke-II.
+
+Tabel 4.3 Status Mutu Air Berdasarkan Site di Sungai Code
+
+Site
+
+Nilai Indeks
+Pencemaran
+
+Status Mutu Air
+
+1
+2
+3
+3b
+4
+5
+6
+7
+
+2,96
+5,25
+6,08
+5,61
+6,30
+6,81
+7,06
+7,41
+
+Cemar Ringan
+Cemar Sedang
+Cemar Sedang
+Cemar Sedang
+Cemar Sedang
+Cemar Sedang
+Cemar Sedang
+Cemar Sedang
+
+58
+
+Tabel 4.4 Status Mutu Air Berdasarkan Waktu Pengambilan Sampel di Sungai
+Code
+Bulan
+Des I
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+
+Nilai Indeks
+Pencemaran
+8,15
+6,24
+6,48
+6,82
+5,66
+5,10
+5,48
+
+Status Mutu Air
+Cemar Sedang
+Cemar Sedang
+Cemar Sedang
+Cemar Sedang
+Cemar Sedang
+Cemar Sedang
+Cemar Sedang
+
+Berdasarkan hasil analisis menggunakan metode Indeks Pencemaran (IP)
+diperoleh rata – rata nilai Indeks Pencemaran air Sungai Code selama musim
+penghujan dari site 1 hingga site 7 berkisar antara 2,96 – 7,41, sedangkan
+berdasarkan waktu pengambilan sampel dari bulan Desember I sampai dengan
+Maret II berkisar antara 5,45 – 8,15. Rata – rata nilai IP tertinggi terdapat pada bulan
+Desember I yaitu 8,15 sedangkan nilai IP terendah terdapat pada bulan Maret I yaitu
+5,45.
+Secara umum diketahui bahwa nilai Indeks Pencemaran di Sungai Code
+meningkat dari hulu ke hilir. Aktivitas penduduk dan kegiatan industri di sekitar
+Sungai Code turut mempengaruhi nilai indeks pencemaran dikarenakan hasil
+buangan berupa limbah domestik maupun industri akan menjadi lebih banyak pada
+lokasi yang padat permukiman sehingga konsentrasi pencemar menjadi lebih tinggi,
+sedangkan kondisi lingkungan di bagian hulu masih terdapat lahan hijau seperti
+sawah dan pepohonan serta masukan limbah domestik yang tidak banyak
+dibandingkan dengan bagian hilir.
+Hasil evaluasi terhadap nilai Indeks Pencemaran sesuai baku mutu
+peruntukan sungai kelas II berdasarkan Peraturan Gubernur DIY No. 20 Tahun
+2008 menunjukkan bahwa status mutu air Sungai Code masuk dalam katagori
+kondisi cemar sedang (5,0 < PIj ≤ 10). Menurut Ratnaningsih (2010), air dengan
+status cemar sedang hanya dapat digunakan untuk keperluan perikanan dan
+
+59
+
+peternakan serta pertanian dan usaha perkantoran dengan terlebih dahulu
+melakukan proses pengolahan untuk meminimalkan pencemaran.
+4.2.2
+
+Analisis Hubungan antara Curah Hujan dan Indeks Pencemaran
+Pada penelitian ini dilakukan analisis hubungan antara curah hujan dan nilai
+
+Indeks Pencemaran di Sungai Code untuk mengetahui bagaimana pengaruh curah
+hujan terhadap Indeks Pencemaran di Sungai Code selama musim penghujan.
+Berdasarkan hasil analisis korelasi pada Tabel 4.6 diperoleh nilai koefisien
+korelasi (r) antara curah hujan dan nilai Indeks Pencemaran di Sungai Code selama
+musim penghujan yaitu bernilai positif dan berkisar antara 0,780 – 0,961 dimana
+hal ini menunjukkan bahwa hubungan antara curah hujan dan Indeks Pencemaran
+di Sungai Code memiliki tingkat hubungan kuat hingga sangat kuat. Hasil uji
+signifikasi juga menunjukkan bahwa koefisien korelasi tersebut signifikan pada
+taraf 5% (t hitung > t tabel, t tabel = 2,5706).
+
+Tabel 4.5 Hasil Uji Korelasi dan Signifikansi antara Curah Hujan dan Indeks
+Pencemaran
+
+Site
+
+Koefisien
+Korelasi (r)
+
+Signifikansi
+(t hitung)
+
+2
+3
+4
+5
+6
+7
+
+0,886
+0,780
+0,955
+0,863
+0,961
+0,954
+
+4,273
+2,788
+7,196
+3,826
+7,725
+7,102
+
+Besar tingkat pengaruh curah hujan sebagai variabel bebas terhadap Indeks
+Pencemaran sebagai variabel terikat secara parsial digunakan koefisien determinasi
+(R2) yaitu dengan melihat nilai koefisien determinasi yang mendekati 1 maka
+pengaruh variabel bebas terhadap variabel terikat kuat (Sugiyono, 2013).
+Pada penelitian ini dilihat hubungan curah hujan terhadap nilai Indeks
+Pencemaran dengan membandingkan nilai koefisien determinasi (R 2) yang paling
+
+60
+
+terbesar atau mendekati 1 pada regresi linier dan regresi non-linier polinomial untuk
+memperoleh model yang sesuai dalam merepresentasikan hubungan antara curah
+hujan dan parameter mikrobiologi tersebut. Dari hasil analisis diperoleh nilai R 2
+terbesar ditunjukkan oleh hasil regresi non-linier polinomial untuk Indeks
+Pencemaran pada seluruh site di Sungai Code dengan rata – rata nilai R2 mendekati
+1. Sebagai contoh hasil regresi non-linier pada Indeks Pencemaran site 2 dengan
+persamaan y = -0,0006x2 + 0,0819x + 4,2112 dan nilai R2 sebesar 0,9387 dimana
+nilai tersebut mendekati 1 yang menunjukkan bahwa terdapat sekitar 93,87%
+Indeks Pencemaran pada site tersebut dapat dijelaskan oleh curah hujan, sedang
+sisanya 6,13% adalah faktor lain yang tidak dapat dijelaskan oleh curah hujan.
+
+61
+
+Gambar 4.15 Hubungan antara Curah Hujan dan Indeks Pencemaran di
+Sungai Code
+
+62
+
+4.3
+
+Perbandingan Data Primer dan Data Sekunder Kualitas Air Parameter
+Mikrobiologi di Sungai Code
+Pada penelitian ini dibandingkan data primer hasil pengukuran kualitas air
+
+terutama parameter mikrobiologi (total coliform dan fecal coliform) yang diuji oleh
+peneliti dengan data sekunder hasil pemantauan kualitas air parameter mikrobiologi
+Sungai Code yang dilakukan oleh Badan Lingkungan Hidup (BLH) Daerah
+Istimewa Yogyakarta di bulan musim penghujan. Perbandingan data primer dan
+sekunder kualitas air berdasarkan parameter mikrobiologi dapat dilihat pada
+Gambar 4.16 dan Gambar 4.17 berikut.
+
+10.000.000
+1.000.000
+
+76.000
+
+MPN/100 ml
+
+100.000
+10.000
+
+438.000
+
+271.000
+38.000
+
+10.000
+4.000
+
+7.000
+4.000
+
+Feb-18
+
+Mar-18
+
+72.000
+
+95.000
+21.000
+
+26.000
+
+1.000
+100
+10
+1
+Feb-18
+
+Mar-18
+
+Feb-18
+
+Mar-18
+
+Hulu (Jembatan Boyong) Tengah (Jembatan Jambu) Hilir (Jembatan Pandeyan)
+Total Coliform MPN/ 100 ml
+
+Fecal Coliform MPN/ 100 ml
+
+Gambar 4.16 Grafik Data Primer Kualitas Air Parameter Mikrobiologi
+di Sungai Code
+
+63
+
+10.000.000
+1.100.000
+1.100.000
+460.000
+240.000
+93.000
+150.000
+100.000
+21.00015.000 23.000
+21.000
+9.000 9.000 9.000
+9.000
+10.000
+4.000 4.000 4.000
+460.000
+
+MPN/100 ml
+
+1.000.000
+
+1.000
+100
+10
+1
+Feb-15 Feb-16 Mar-17 Feb-15 Feb-16 Mar-17 Feb-15 Feb-16 Mar-17
+Hulu (Jembatan Boyong)
+
+Tengah (Jembatan
+Sayidan)
+
+Total Coliform MPN/ 100 ml
+
+Hilir (Jembatan Pasar)
+
+Fecal Coliform MPN/ 100 ml
+
+Gambar 4.17 Grafik Data Sekunder Kualitas Air Parameter Mikrobiologi
+di Sungai Code
+Berdasarkan Gambar 4.16 dan Gambar 4.17 terlihat bahwa kualitas air pada
+musim penghujan yang diperoleh dari data primer dan sekunder menunjukkan hasil
+yang bervariasi pada setiap perwakilan segmen sungai. Untuk parameter
+mikrobiologi terlihat bahwa pada bagian hulu konsentrasi total coliform dan fecal
+coliform antara data primer dan sekunder menunjukkan hasil yang tidak jauh beda.
+Pada data primer diperoleh konsentrasi total coliform berkisar antara 7.000
+MPN/ml – 10.000 MPN/ml dan pada data sekunder konsentrasi total coliform rata
+– rata berada pada kisaran 9000 MPN/ml, sedangkan untuk konsentrasi fecal
+coliform tidak ada perbedaan antara data primer dan sekunder yaitu 4.000 MPN/ml.
+Pada bagian tengah terlihat bahwa konsentrasi total coliform pada data sekunder
+cenderung lebih tinggi dibandingkan dengan data primer yaitu hingga mencapai
+460.000 MPN/ml sedangkan hasil data primer hanya 271.000 MPN/ml dan
+konsentrasi fecal coliform lebih tinggi pada data primer hingga mencapai 38.000
+MPN/ml dan pada data sekunder yaitu 21.000 MPN/ml. Pada bagian hilir terlihat
+bahwa konsentrasi total coliform pada data sekunder cenderung lebih tinggi hingga
+
+64
+
+mencapai 1.100.000 MPN/ml sedangkan pada data primer hanya 438.000 MPN/ml
+dan untuk konsentrasi fecal coliform hingga mencapai 240.000 MPN/ml dan pada
+data primer yaitu 72.000 MPN/ml. Diketahui juga bahwa konsentrasi total coliform
+dan fecal coliform di Sungai Code baik dari data primer maupun data sekunder telah
+melebihi baku mutu air untuk semua peruntukan kelas menurut Peraturan Gubernur
+DIY No. 20 Tahun 2008.
+Perbedaan konsentrasi parameter mikrobiologi antara data primer dan
+sekunder dapat dipengaruhi oleh waktu, kondisi lingkungan pada saat pengambilan
+sampel di lapangan serta aktivitas manusia yang menghasilkan limbah di sekitar
+sungai tersebut.
+
+BAB V
+PENUTUP
+
+5.1
+
+Kesimpulan
+Kesimpulan dari penelitian mengenai analisis pengaruh curah hujan
+
+terhadap kualitas air parameter mikrobiologi di Sungai Code adalah sebagai
+berikut:
+1. Hasil analisis korelasi mengenai pengaruh curah hujan terhadap kualitas air
+parameter mikrobiologi meliputi total coliform serta fecal coliform di
+Sungai Code menunjukkan bahwa terdapat hubungan positif dengan tingkat
+hubungan sangat kuat (r = 0,800 – 1,000) antara curah hujan dengan
+konsentrasi total coliform dan fecal coliform di Sungai Code dan signifikan
+pada taraf 5% serta nilai koefisien determinasi (R 2) pada regresi non-linier
+polinomial mendekati 1.
+2. Hasil analisis status mutu air Sungai Code selama musim penghujan dengan
+menggunakan Indeks Pencemaran menunjukkan bahwa Sungai Code masuk
+dalam katagori kondisi cemar sedang (5,0 < PIj ≤ 10) sesuai peruntukan
+sungai kelas II berdasarkan Peraturan Gubernur Daerah Istimewa
+Yogyakarta Nomor 20 Tahun 2008 serta menunjukkan hasil korelasi positif
+antara curah hujan dan Indeks Pencemaran Sungai Code dengan tingkat
+hubungan kuat hingga sangat kuat (r = 0,700 – 1,000) dan signifikan pada
+taraf 5% serta serta nilai koefisien determinasi (R 2) pada regresi non-linier
+polinomial mendekati 1.
+
+5.2
+
+Saran
+1. Penelitian ini dapat dilanjutkan dengan membandingkan kualitas air
+mikrobiologi saat musim hujan dan musim kemarau agar dapat terlihat
+perbedaan yang lebih detail terkait kualitas sungai pada musim yang
+berbeda.
+
+65
+
+66
+
+2. Untuk masyarakat dan industri yang terdapat di sekitar Sungai Code agar
+lebih menjaga dan memperhatikan kelestarian lingkungan dalam melakukan
+berbagai aktivitas seperti buang air besar pada tempat yang seharusnya
+(jamban) dan melakukan proses pengolahan limbah terlebih dahulu sebelum
+dibuang ke sungai.
+3. Pemerintah agar dapat secara rutin melakukan pemeriksaan dan
+pengawasan terkait limbah yang akan dibuang ke sungai khususnya oleh
+industri sekitar sehingga limbah tersebut memenuhi baku mutu dan
+diharapkan dapat mengurangi beban pencemar di Sungai Code. Selain itu,
+perlu adanya penyuluhan intensif kepada masyarakat dalam rangka
+meningkatkan pengetahuan terkait pencemaran di Sungai Code dan
+dampaknya bagi lingkungan dan kesehatan sehingga diharapkan dapat
+meningkatkan kesadaran masyarakat untuk menjaga kebersihan Sungai
+Code.
+
+DAFTAR PUSTAKA
+
+Alaerts, G. dan Santika, SS. 1987. Metoda Penelitian Air. Usaha Nasional:
+Surabaya.
+Alcamo, I. E. 2001. Fundamentals of Microbiology. Jones and Bartlett: Boston.
+Arisanty, Deasy., Shidarta A. dan Nurul Huda. 2017. Analisis Kandungan Bakteri
+Fecal Coliform pada Sungai Kuin Kota Banjarmasin. Majalah
+Geografi Indonesia.Vol. 31. No. 2. Hal 51-60.
+Asdak, Chay. 2010. Hidrologi dan Pengelolaan Daerah Aliran Sungai. Gajah
+Mada University Press: Yogyakarta.
+Badan Lingkungan Hidup Daerah Istimewa Yogyakarta. 2018. Data Kualitas Air
+Sungai DIY. https://blh.jogjaprov.go.id/detailpost/data-kualitas-airsungai diakses pada tanggal 16 Mei 2018.
+Badan Meteorologi Klimatologi dan Geofisika. 2018. Laporan Iklim Harian.
+https://www.bmkg.go.id/cuaca/prakiraan-cuaca
+indonesia.bmkg?Prov=06&NamaProv=DI%20Yogyakarta. diakses pada
+tanggal 31 Maret 2018.
+Badan Pengelola Lingkungan Hidup Provinsi Daerah Istimewa Yogyakarta. 2014.
+Status Lingkungan Hidup Daerah Kota Yogyakarta Tahun 2014.
+Yogyakarta.
+Badan Standarisasi Nasional Indonesia. 2008. SNI 6989.57- 2008 tentang Metoda
+Pengambilan Contoh Air Permukaan. BSN: Jakarta
+Badan Standarisasi Nasional Indonesia. 2004. SNI 06-6989.3-2004 tentang Air
+dan Air Limbah – Bagian 3: Cara Uji Padatan Tersuspensi Total
+(Total Suspended Solid, TSS) Secara Gravimetri. BSN: Jakarta
+Badan Standarisasi Nasional Indonesia. 2004. SNI 06-6989.14-2004 tentang Air
+dan Air Limbah – Bagian 14: Cara Uji Oksigen Terlarut Secara
+Yodometri (Modifikasi Azida). BSN: Jakarta
+Bae, Hun Kyun. 2013. Changes of River Quality Responded to Rainfall Events.
+Environment and Ecology Research. Vol. 1. No.1. Hal 21-25
+Barus, T. A. 2004. Pengantar Limnologi Studi Tentang Ekosistem Air Daratan.
+USU Press: Medan.
+
+67
+
+68
+
+Brontowiyono, Widodo. et al. 2013. Strategi Penurunan Pencemaran Limbah
+Domestik di Sungai Code DIY. Jurnal Sains dan Teknologi Lingkungan.
+Vol. 5. No. 1. Hal 36-47.
+Byamukama, Dennis. et al. 2000. Determination of Escherichia coli with
+Chromocult Coliform Agar Showed a High Level of Discrimination
+Efficiency for Differing Fecal Pollution Levels in Tropical Waters of
+Kampala, Uganda. Journal of Applied and Environmental Microbiology.
+Vol. 66. No. 2. Hal. 864-868.
+Coullitte, Angela D. dan Rachel T. Noble. 2008. Impacts of Rainfall on the Water
+Quality of the Newport River Estuary (Easthern North Carolina,
+USA. Journal of Water and Health. Vol. 6. No. 4. Hal. 473-482.
+Effendi, H. 2003. Telaah Kualitas Air Bagi Pengelolaan Sumber Daya dan
+Lingkungan Perairan. Kanisius : Yogyakarta.
+Fardiaz, Srikandi. 1992. Polusi Air dan Udara. Kanisius: Yogyakarta.
+Fardiaz, Srikandi. 1993. Analisis Mikrobiologi Pangan. PT. Raja Grafindo
+Persada: Jakarta Utara.
+Feliatra. 2002. Sebaran Bakteri Escherichia coli di Perairan Muara Sungai
+Bantan Tengah Bengkalis Riau. Jurnal Biogen. Vol 1. Hal 178-181.
+Galvan, L. et al. 2013. Rainfall Estimation in SWAT: an Alternative Method to
+Simulate Orographic Precipitation. Journal of Hydrology. Vol. 509. No.
+1. Hal. 257-265.
+Gunawan, Muhammad Ali. 2015. Statistik Penelitian Bidang Pendidikan,
+Psikologi dan Sosial. Parama Publishing: Yogyakarta.
+Hamuda, Hosam E. A. F. B dan Patko I. 2012. Ecological Monitoring of Danube
+Water Quality in Budapest Region. American Journal Environmental
+Science. Vol. 8. No. 10. Hal 202-211.
+Handoko. 1994. Klimatologi Dasar. Institut Pertaninan Bogor: Bogor.
+Harley, J. P. dan Prescott L.M. 2002. Laboratory Exercise in Microbiology, 5th
+Edition. The McGraw – Hill Publisher: USA.
+Hilario, F. et al. 2009. El Niño Southern Oscillation in the Philippines: Impacts,
+Forecasts, and Risk Management. Phillippine Journal of Development.
+Vol. 36. No. 1. Hal. 9-34.
+
+69
+
+Hill, Dagne D. et al. 2006. The Impact of Rainfall on Fecal Coliform Bacteria
+in Bayou Dorcheat (North Louisiana). International Journal of
+Environmental Research and Public Health. Vol. 3. No. 1. Hal. 114-117.
+
+Imroatushshoolikhah, Setyawan P. dan Slamet S. 2014. Kajian Kualitas Air
+Sungai Code Provinsi Daerah Istimewa Yogyakarta. Majalah Geografi
+Indonesia. Vol. 28. No.1. Hal. 23-32.
+Indarsih, Widayati., Slamet S. dan M. Widyastuti. 2011. Kajian Kualitas Air
+Sungai Bedog Akibat Pembuangan Limbah Cair Sentra Industri
+Batik Desa Wijirejo. Majalah Geografi Indonesia. Vol. 25. No. 1. Hal
+40-54.
+Jonsson, A. & Agerberg, S. 2015. Modelling of E. Coli Transport in an
+Oligotrophic River in Northern Scandinavia. Ecological Modelling.
+Vol. 306. Hal. 145-151.
+Kosasih, B.R., Samsuhadi dan Astuty N.I. 2009. Kualitas Air Tanah Di
+Kecamatan Tebet Jakarta Selatan Ditinjau Dari Pola Sebaran
+Escherichia coli. Jurnal Teknologi Lingkungan. Vol. 5. No.1. Hal. 12 -18.
+Kunarso, D. H. 2005. Penelitian Kondisi Bakteriologi di Perairan Muara
+Sungai Digul dan Laut Arafura, Irian Jaya. Dalam: Subagja, J. et al.
+Prosiding Seminar Nasional dan Kongres Biologi XIII. Himpunan Biologi
+Indonesia dan Fakultas Biologi UGM, Yogyakarta. Hal. 182–185.
+Leight, A. K. et al. 2011. Climate Relationships to Fecal Bacterial Densities in
+Maryland Shellfish Harvest Waters . Water Research. Vol. 89. Hal 270281.
+Madigan, M. T. et al. 2012. Biology of Microorganism 13th Edition. Pearson: San
+Fransisco.
+Mahyudin, Soemarno dan Tri Budi Prayogo. 2015. Analisis Kualitas Air Dan
+Strategi Pengendalian Pencemaran Air Sungai Metro di Kota
+Kepanjen Kabupaten Malang. J – Pal. Vol. 6. No.2. Hal. 2087-3522.
+Marganingrum, Dyah. et al. 2013. Diferesiasi Sumber Pencemar Sungai
+Menggunakan Pendekatan Metode Indeks Pencemar (IP) (Studi
+Kasus: Hulu DAS Citarum). Riset Geologi dan Pertambangan. Vol. 23.
+No. 1. Hal 37-48.
+Metcalf and Eddy, 1979. Wastewater Engineering: Treatment, Disposal, Reuse.
+McGraw- Hill Book Company: New York.
+
+70
+
+Ouseph, P. P. et al. 2009. Occurance and Distribution of Some Enteric Bacteria
+Along the Southern Coast of Kerala. Indian Journal of Marine Sciences.
+Vol. 38. No. 1. Hal 97-103.
+Páll, Emőke. et al. 2013. Human Impact on The Microbiological Water Quality
+of The Rivers. Journal of Medical Microbiology. Vol. 62. No. 11. Hal
+1635-1640.
+Pelczar, M. J dan Chan E. C. S. 1988. Dasar-Dasar Mikrobiologi. Universitas
+Indonesia Press : Jakarta.
+Pemerintah Kota Yogyakarta. 2017. Dokumen Informasi Kinerja Pengelolaan
+Lingkungan Hidup Daerah Kota Yogyakarta Tahun 2017.
+Yogyakarta.
+Pemerintah Kota Yogyakarta. 2017. Strategi Sanitasi Kota Yogyakarta 2013 –
+2017. Yogyakarta.
+Pemerintah Provinsi Daerah Istimewa Yogyakarta. 2008. Peraturan Gubernur
+Daerah Istimewa Yogyakarta Nomor 20 Tahun 2008 tentang Baku
+Mutu Air di Provinsi Daerah Istimewa Yogyakarta. Yogyakarta.
+Pemerintah Republik Indonesia. 2003. Keputusan Menteri Negara Lingkungan
+Hidup Republik Indonesia Nomor 115 Tahun 2003 tentang Pedoman
+Penentuan Status Mutu Air. Jakarta.
+Puspitasari, Dinarjati Eka. 2009. Dampak Pencemaran Air terhadap Kesehatan
+Lingkungan dalam Perspektif Hukum Lingkungan (Studi Kasus
+Sungai Code di Kelurahan Wirogunan Kecamatan Mergangsan dan
+Kelurahan Parwirodirjan Kecamatan Gondomanan Yogyakarta.
+Mimbar Hukum. Vol. 21. No. 1. Hal. 23-34.
+Raharjo, Ismadi., Iskandar Z. dan Suprapto. Dewi. 2013. Pengaruh Curah Hujan
+terhadap Kualitas Air Sungai Way Kuripan sebagai Sumber Air
+Baku Perusahaan Daerah Air Minum (PDAM) Way Rilau. Jurnal
+Ilmiah Teknik Pertanian. Vol. 5. No. 2. Hal. 77-85.
+Ratnaningsih, Dewi. 2010. Implementasi Metode Storet terhadap Kualitas Air
+Sungai di Indonesia. Ecolab. Vol. 4. No. 1. Hal. 1-54.
+Riyadi, S. 1984. Pencemaran Air. Karya Anda: Surabaya.
+Salmin. 2005. Oksigen Terlarut (DO) dan Kebutuhan Oksigen Biologi (BOD)
+sebagai Salah Satu Indikator untuk Menentukan Kualitas Perairan.
+Jurnal Oseana. Vol. 30. No. 3. Hal. 21-26.
+
+71
+
+Sasongko, A. L. 2006. Kontribusi Air Limbah Domestik Penduduk di Sekitar
+Sungai Tuk terhadap Kualitas Air Sungai Kaligarang serta Upaya
+Penanganannya. Tesis. Program Magister Ilmu Lingkungan. Universitas
+Dipenegoro. Semarang.
+Sastrawijaya, A. Tresna. 2000. Pencemaran Lingkungan. Rineka Cipta: Jakarta.
+Setiari, M., M.S. Mahendra dan Suyasa W. 2012. Identifikasi Sumber Pencemar
+dan Analisis Kualitas Air Tukad Yeh Sungi di Kabupaten Tabanan
+dengan Metode Indeks Pencemaran. Jurnal Ilmu Lingkungan. Vol. 7.
+No. 1. Hal 40-46.
+Shehane, S. D. et al. 2005. The Influence of Rainfall on the incidence of
+Microbial Faecal Indicators and the Dominant Sources of faecal
+Pollution in Florida River. Journal of Applied Microbiology. Vol. 98.
+No. 1. Hal 1127-1136.
+Siahaan, Ratna. et al. 2011. Kualitas Air Sungai Cisadane, Jawa Barat – Banten.
+Jurnal Ilmiah Sains. Vol. 11. No. 2. Hal 268-273.
+Soemarno. 2000. Isolasi dan Identifikasi Bakteri Klinik. Akademi Analis
+Kesehatan Yogyakarta Departemen Kesehatan Republik Indonesia:
+Yogyakarta.
+Subarkah, Iman. 1978. Hidrologi untuk Perencanaan Bangunan Air. Idea
+Dharma: Bandung.
+Sugiharto. 1987. Dasar – Dasar Pengolahan Air Limbah. Universitas Indonesia:
+Jakarta.
+Sugiyono. 2013. Metode Penelitian Kuantitatif, Kualitatif dan R&D. Alfabeta:
+Bandung.
+Sukirno, Bambang Irianto dan Sri Muniarsih. 2007. Evaluasi Logam dalam Air
+dan Sedimen Sungai Code dengan Teknik AAN (Tahap 2). Prosiding
+PPI – PDIPTN.Yogyakarta, 10 Juli 2007. Hal 183-189.
+Sutiknowati, Lies Indah. 2016. Bioindikator Pencemar, Bakteri Escherichia coli.
+Oseana. Vol. 41. No. 4. Hal 63-71.
+Volk dan Wheeler. 1993. Mikrobiologi Dasar I. Erlangga: Jakarta.
+Wahid, Abdul. 2009. Analisis Faktor – Faktor yang Mempengaruhi Debit
+Sungai Mamasa. Jurnal SMARTek. Vol. 7. No. 3. Hal. 204-218.
+
+72
+
+Wardhana, Wisnu. 2004. Dampak Pencemaran Lingkungan (Edisi Revisi). Andi
+Offset: Surabaya.
+Widiyanti, N. L. P, M. dan Ristiati N. P. 2004. Analisis Kualitatif Bakteri
+Koliform Pada Depo Air Minum Isi Ulang di Kota Singaraja Bali.
+Jurnal Ekologi Kesehatan. Vol. 3. No.1. Hal 64-73.
+Yanti, Elyta Vivi. 2017. Dinamika Musiman Kualitas Air di Daerah Sungai
+Kahayan Kalimantan Tengah. Ziraa’ah. Vol. 42. No. 2. Hal. 107-118.
+Yazwar. 2008. Keanekaragaman Plankton dan Keterkaitannya dengan
+Kualitas Air di Parapat Danau Toba. Tesis. Sekolah Pascasarjana.
+Universitas Sumatera Utara. Medan.
+
+LAMPIRAN
+
+LAMPIRAN 1
+
+DATA HASIL PENGUJIAN PARAMETER MIKROBIOLOGI
+
+
+
+Total Coliform (Metode MPN)
+
+Bulan
+
+Desember I
+
+Januari I
+
+Januari II
+
+Februari I
+
+Site
+1
+2
+3
+3b
+4
+5
+6
+7
+1
+2
+3
+3b
+4
+5
+6
+7
+1
+2
+3
+3b
+4
+5
+6
+7
+1
+2
+3
+3b
+4
+5
+6
+
+Jumlah Tabung (+) Gas pada
+Penanaman
+3 x 10 ml
+
+3 x 1 ml
+
+3 x 0,1 ml
+
+Indeks
+MPN /
+100 ml
+
+3
+3
+3
+3
+3
+3
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+2
+3
+3
+3
+3
+3
+2
+2
+1
+2
+3
+2
+1
+2
+2
+2
+3
+3
+2
+1
+2
+2
+2
+3
+3
+
+1
+0
+1
+2
+2
+3
+1
+0
+2
+2
+0
+3
+0
+1
+1
+2
+0
+1
+2
+1
+2
+2
+3
+1
+1
+
+95
+190
+271
+438
+438
+1898
+26
+76
+72
+116
+190
+139
+46
+95
+95
+116
+190
+271
+116
+58
+116
+116
+139
+271
+271
+
+Jumlah
+Total
+Coliform /
+100 ml
+95.000
+190.000
+271.000
+438.000
+438.000
+1.898.000
+26.000
+76.000
+72.000
+116.000
+190.000
+139.000
+46.000
+95.000
+95.000
+116.000
+190.000
+271.000
+116.000
+58.000
+116.000
+116.000
+139.000
+271.000
+271.000
+
+Bulan
+
+Februari II
+
+Maret I
+
+Maret II
+
+Site
+7
+1
+2
+3
+3b
+4
+5
+6
+7
+1
+2
+3
+3b
+4
+5
+6
+7
+1
+2
+3
+3b
+4
+5
+6
+7
+
+Bulan
+Des I
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Rata - rata
+
+1
+10
+7
+10
+9,00
+
+Jumlah Tabung (+) Gas pada
+Penanaman
+3 x 10 ml
+
+3 x 1 ml
+
+3 x 0,1 ml
+
+Indeks
+MPN /
+100 ml
+
+3
+2
+2
+3
+3
+3
+3
+3
+3
+1
+2
+3
+3
+3
+3
+3
+3
+2
+2
+3
+3
+3
+3
+3
+3
+
+3
+0
+3
+2
+2
+2
+2
+2
+2
+0
+1
+1
+1
+1
+2
+2
+2
+0
+1
+0
+0
+1
+2
+2
+2
+
+2
+0
+0
+1
+1
+1
+2
+2
+3
+1
+0
+0
+0
+1
+0
+1
+1
+0
+1
+2
+2
+1
+1
+2
+1
+
+438
+10
+27
+95
+95
+95
+116
+116
+139
+7
+15
+46
+46
+58
+76
+95
+95
+10
+20
+49
+49
+58
+95
+116
+95
+
+Jumlah
+Total
+Coliform /
+100 ml
+438.000
+10.000
+27.000
+95.000
+95.000
+95.000
+116.000
+116.000
+139.000
+7.000
+15.000
+46.000
+46.000
+58.000
+76.000
+95.000
+95.000
+10.000
+20.000
+49.000
+49.000
+58.000
+95.000
+116.000
+95.000
+
+Total Coliform (x 103 MPN/100 ml)
+Site
+2
+3
+3b
+4
+5
+6
+7
+95
+190
+271
+438
+438
+1898
+26
+76
+72
+116
+190
+139
+46
+95
+95
+116
+190
+271
+116
+58
+116
+116
+139
+271
+271
+438
+27
+95
+95
+95
+116
+116
+139
+15
+46
+46
+58
+76
+95
+95
+20
+49
+49
+58
+95
+116
+95
+41,00
+95,29 80,20 115,57 186,00 213,86 417,14
+
+
+
+Fecal Coliform (Metode MPN)
+
+Bulan
+
+Desember
+I
+
+Januari I
+
+Januari II
+
+Februari I
+
+Februari II
+
+Site
+1
+2
+3
+3b
+4
+5
+6
+7
+1
+2
+3
+3b
+4
+5
+6
+7
+1
+2
+3
+3b
+4
+5
+6
+7
+1
+2
+3
+3b
+4
+5
+6
+7
+1
+2
+3
+3b
+
+Jumlah Tabung (+) Gas pada
+Penanaman
+3 x 10 ml
+
+3 x 1 ml
+
+3 x 0,1 ml
+
+3
+3
+3
+3
+3
+3
+1
+2
+3
+2
+2
+3
+2
+2
+2
+2
+2
+3
+3
+2
+2
+2
+2
+2
+3
+3
+1
+2
+2
+2
+
+1
+1
+1
+2
+2
+2
+1
+2
+0
+2
+2
+1
+1
+1
+1
+2
+3
+1
+1
+2
+2
+2
+3
+3
+1
+1
+0
+1
+2
+2
+
+0
+1
+0
+0
+3
+2
+2
+0
+0
+2
+3
+1
+1
+1
+1
+2
+1
+0
+1
+0
+2
+2
+1
+2
+1
+2
+0
+0
+0
+0
+
+Indeks
+MPN /
+100 ml
+46
+58
+46
+76
+139
+116
+15
+21
+29
+31
+37
+58
+20
+20
+20
+31
+33
+46
+58
+21
+31
+31
+33
+38
+58
+72
+4
+
+15
+21
+21
+
+Jumlah
+Fecal
+Coliform /
+100 ml
+46.000
+58.000
+46.000
+76.000
+139.000
+116.000
+15.000
+21.000
+29.000
+31.000
+37.000
+58.000
+20.000
+20.000
+20.000
+31.000
+33.000
+46.000
+58.000
+21.000
+31.000
+31.000
+33.000
+38.000
+58.000
+72.000
+4.000
+15.000
+21.000
+21.000
+
+Bulan
+
+Maret I
+
+Maret II
+
+Site
+4
+5
+6
+7
+1
+2
+3
+3b
+4
+5
+6
+7
+1
+2
+3
+3b
+4
+5
+6
+7
+
+Jumlah Tabung (+) Gas pada
+Penanaman
+3 x 10 ml
+
+3 x 1 ml
+
+3 x 0,1 ml
+
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+3
+2
+1
+2
+2
+2
+2
+2
+2
+2
+
+3
+2
+3
+3
+0
+0
+1
+1
+2
+2
+0
+2
+0
+0
+1
+1
+2
+3
+3
+3
+
+0
+2
+1
+3
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+
+Bulan
+Des I
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Rata - rata
+
+1
+4
+4
+4
+4,00
+
+2
+46
+15
+20
+21
+15
+7
+10
+19,14
+
+Indeks
+MPN /
+100 ml
+27
+31
+33
+44
+4
+
+7
+15
+15
+21
+26
+29
+21
+4
+
+10
+15
+15
+26
+27
+33
+27
+
+Fecal Coliform (x 103 MPN/100 ml)
+Site
+3
+3b
+4
+5
+58
+46
+76
+21
+29
+31
+20
+20
+31
+33
+31
+31
+33
+38
+21
+21
+27
+31
+15
+15
+21
+26
+15
+15
+26
+27
+25,86
+20,40 30,43 37,43
+
+Jumlah
+Fecal
+Coliform /
+100 ml
+27.000
+31.000
+33.000
+44.000
+4.000
+7.000
+15.000
+15.000
+21.000
+26.000
+29.000
+21.000
+4.000
+10.000
+15.000
+15.000
+26.000
+27.000
+33.000
+27.000
+
+6
+139
+37
+46
+58
+33
+29
+33
+53,57
+
+7
+116
+58
+58
+72
+44
+21
+27
+56,57
+
+
+
+Escherichia coli (Metode Pour Plate dengan media CCA)
+E.coli (CFU/100 ml) – Pengenceran 10-2
+
+Bulan
+Feb I
+Feb II
+Mar I
+Mar II
+Rata - rata
+
+Site
+1
+0
+33
+33
+67
+33
+
+2
+167
+233
+233
+133
+192
+
+3
+200
+1.033
+267
+400
+475
+
+3b
+233
+1.067
+267
+433
+500
+
+4
+300
+1.333
+333
+467
+608
+
+5
+533
+1.600
+1.400
+1.733
+1317
+
+6
+700
+1.667
+1.467
+3.500
+1833
+
+7
+567
+733
+1.200
+833
+833
+
+LAMPIRAN 2
+
+DATA HASIL PENGUJIAN PARAMETER FISIKA DAN KIMIA
+
+
+
+Debit Air Sungai Code
+
+3
+2,817
+1,040
+1,276
+1,367
+0,731
+0,244
+0,665
+1,163
+
+Debit (m3/det)
+Site
+3b
+4
+3,209
+1,920
+1,291
+2,162
+1,732
+2,668
+0,921
+1,744
+0,334
+0,630
+0,702
+0,722
+0,996
+1,865
+
+5
+3,615
+2,530
+2,934
+3,115
+2,207
+0,651
+2,074
+2,447
+
+6
+3,694
+2,885
+3,090
+3,335
+2,332
+1,937
+2,302
+2,796
+
+7
+-
+
+3
+27,7
+27,8
+27
+28,7
+28,7
+29,3
+28,9
+28,3
+
+Suhu (0C)
+Site
+3b
+4
+28,5
+29,2
+27,3
+27,3
+28,5
+28,8
+28,6
+30,3
+29,5
+30,5
+30,4
+32
+28,9
+29,5
+
+5
+28,1
+31,2
+29,5
+30,5
+31,1
+30,9
+33,2
+30,6
+
+6
+28,2
+29,1
+28,6
+29,8
+32,5
+32
+31,7
+30,3
+
+7
+28,4
+28,3
+28,1
+29,1
+30,7
+29,9
+30,2
+29,2
+
+Bulan
+Des I
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Rata - rata
+
+
+
+1
+0,525
+0,435
+0,45
+0,470
+
+2
+1,143
+0,306
+0,395
+0,486
+0,263
+0,228
+0,255
+0,439
+
+Suhu Air Sungai Code
+
+Bulan
+Des I
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Rata - rata
+
+1
+25,1
+27,2
+25,5
+25,9
+
+2
+26
+26,9
+27,5
+27,6
+28
+28,5
+28,8
+27,6
+
+
+
+TSS Air Sungai Code
+
+Bulan
+Des I
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Rata - rata
+
+
+
+1
+11
+15
+10
+12,0
+
+2
+
+3
+
+36
+28
+28
+31
+23
+18
+19
+26,1
+
+68
+43
+46
+54
+38
+26
+29
+43,4
+
+5
+
+6
+
+7
+
+93
+71
+80
+82
+57
+39
+42
+66,3
+
+97
+76
+83
+88
+76
+43
+42
+72,1
+
+90
+68
+72
+76
+53
+38
+38
+62,1
+
+5
+
+6
+
+7
+
+215
+188
+212
+214
+179
+172
+174
+193,4
+
+265
+220
+232
+242
+218
+192
+203
+224,6
+
+277
+215
+249
+261
+208
+201
+202
+230,4
+
+5
+7
+8
+7
+7
+7
+6
+7
+7,0
+
+6
+7
+8
+7
+7
+8
+7
+7
+7,1
+
+7
+7
+8
+7
+7
+7
+6
+7
+7,1
+
+TDS Air Sungai Code
+
+Bulan
+Des I
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Rata - rata
+
+
+
+TSS (mg/L)
+Site
+3b
+4
+80
+49
+57
+51
+66
+60
+46
+45
+31
+32
+34
+37
+46,8
+50,6
+
+1
+118
+108
+103
+109,7
+
+2
+
+3
+
+131
+122
+123
+125
+119
+113
+116
+121,4
+
+185
+177
+178
+182
+173
+153
+156
+172,0
+
+TDS (mg/L)
+Site
+3b
+4
+221
+187
+200
+192
+238
+199
+188
+179
+169
+166
+178
+169
+194,6
+187,6
+
+pH Air Sungai Code
+pH
+Site
+
+Bulan
+Des I
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Rata - rata
+
+1
+7
+6
+7
+6,7
+
+2
+6
+8
+7
+8
+7
+6
+7
+6,9
+
+3
+7
+8
+6
+7
+7
+7
+7
+7,0
+
+3b
+7
+7
+7
+7
+7
+7,0
+
+4
+7
+8
+6
+7
+7
+7
+7
+7,0
+
+
+
+DO Air Sungai Code
+
+Bulan
+Des I
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Rata - rata
+
+1
+6,78
+6,78
+6,36
+6,64
+
+2
+
+3
+
+7,63
+5,09
+6,78
+7,20
+6,78
+5,51
+5,09
+6,30
+
+6,78
+5,93
+6,78
+6,78
+5,51
+5,51
+6,36
+6,24
+
+DO (mg/L)
+Site
+3b
+4
+6,36
+6,36
+4,24
+4,24
+5,09
+4,24
+4,66
+4,49
+
+5,09
+6,36
+5,09
+5,09
+6,36
+5,82
+
+5
+
+6
+
+7
+
+6,36
+4,66
+4,24
+6,78
+5,09
+5,09
+6,36
+5,51
+
+5,93
+4,24
+4,66
+5,09
+4,66
+4,66
+5,93
+5,02
+
+6,78
+4,66
+4,24
+5,09
+4,24
+5,09
+5,51
+5,09
+
+LAMPIRAN 3
+
+TABEL BOXPLOT
+
+ Tabel Boxplot Total Coliform per Site
+Value
+Des
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Statistic
+Max
+Q1
+Median
+Q3
+Min
+For Chart
+Max (Top
+whisker)
+Q1
+Median
+Q3
+Min
+(Bottom
+whisker)
+
+Site 1
+10000
+7000
+10000
+Site 1
+10000
+8500
+10000
+10000
+7000
+Site 1
+
+Site 2
+95000
+26000
+46000
+58000
+27000
+15000
+20000
+Site 2
+95000
+23000
+27000
+52000
+15000
+Site 2
+
+Site 3
+190000
+76000
+95000
+116000
+95000
+46000
+49000
+Site 3
+190000
+62500
+95000
+105500
+46000
+Site 3
+
+Site 3b
+95000
+116000
+95000
+46000
+49000
+Site 3b
+116000
+49000
+95000
+95000
+46000
+Site 3b
+
+Site 4
+271000
+72000
+116000
+139000
+95000
+58000
+58000
+Site 4
+271000
+65000
+95000
+127500
+58000
+Site 4
+
+Site 5
+438000
+116000
+190000
+271000
+116000
+76000
+95000
+Site 5
+438000
+105500
+116000
+230500
+76000
+Site 5
+
+Site 6
+438000
+190000
+271000
+271000
+116000
+95000
+116000
+Site 6
+438000
+116000
+190000
+271000
+95000
+Site 6
+
+Site 7
+1898000
+139000
+116000
+438000
+139000
+95000
+95000
+Site 7
+1898000
+105500
+139000
+288500
+95000
+Site 7
+
+0
+
+43000
+
+84500
+
+21000
+
+143500
+
+207500
+
+167000
+
+1609500
+
+8500
+1500
+0
+
+23000
+4000
+25000
+
+62500
+32500
+10500
+
+49000
+46000
+0
+
+65000
+30000
+32500
+
+105500
+10500
+114500
+
+116000
+74000
+81000
+
+105500
+33500
+149500
+
+1500
+
+8000
+
+16500
+
+3000
+
+7000
+
+29500
+
+21000
+
+10500
+
+ Tabel Boxplot Total Coliform per Bulan
+Value
+Des
+Site 1
+Site 2
+95000
+Site 3
+190000
+Site 3b
+Site 4
+271000
+Site 5
+438000
+Site 6
+438000
+Site 7
+1898000
+Statistic
+Des
+Max
+1898000
+Q1
+210250
+Median
+354500
+Q3
+438000
+Min
+95000
+For Chart
+Des
+Max
+1460000
+Q1
+210250
+Median
+144250
+Q3
+83500
+Min
+115250
+
+Jan I
+26000
+76000
+72000
+116000
+190000
+139000
+Jan I
+190000
+73000
+96000
+133250
+26000
+Jan I
+56750
+73000
+23000
+37250
+47000
+
+Jan II
+46000
+95000
+95000
+116000
+190000
+271000
+116000
+Jan II
+271000
+95000
+116000
+153000
+46000
+Jan II
+118000
+95000
+21000
+37000
+49000
+
+Feb I
+58000
+116000
+116000
+139000
+271000
+271000
+438000
+Feb I
+438000
+116000
+139000
+271000
+58000
+Feb I
+167000
+116000
+23000
+132000
+58000
+
+Feb II
+10000
+27000
+95000
+95000
+95000
+116000
+116000
+139000
+Feb II
+139000
+78000
+95000
+116000
+10000
+Feb II
+23000
+78000
+17000
+21000
+68000
+
+Mar I
+7000
+15000
+46000
+46000
+58000
+76000
+95000
+95000
+Mar I
+95000
+38250
+52000
+80750
+7000
+Mar I
+14250
+38250
+13750
+28750
+31250
+
+Mar II
+10000
+20000
+49000
+49000
+58000
+95000
+116000
+95000
+Mar II
+116000
+41750
+53500
+95000
+10000
+Mar II
+21000
+41750
+11750
+41500
+31750
+
+ Tabel Boxplot Fecal Coliform per Site
+Value
+Des
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Statistic
+Max
+Q1
+Median
+Q3
+Min
+For Chart
+Max (Top
+whisker)
+Q1
+Median
+Q3
+Min
+(Bottom
+whisker)
+
+Site 1
+-
+
+Site 1
+4000
+4000
+4000
+4000
+4000
+Site 1
+
+Site 2
+46000
+15000
+20000
+21000
+15000
+7000
+10000
+Site 2
+46000
+12500
+15000
+20500
+7000
+Site 2
+
+Site 3
+58000
+21000
+20000
+31000
+21000
+15000
+15000
+Site 3
+58000
+17500
+21000
+26000
+15000
+Site 3
+
+Site 3b
+20000
+31000
+21000
+15000
+15000
+Site 3b
+31000
+15000
+20000
+21000
+15000
+Site 3b
+
+Site 4
+46000
+29000
+31000
+33000
+27000
+21000
+26000
+Site 4
+46000
+26500
+29000
+32000
+21000
+Site 4
+
+Site 5
+76000
+31000
+33000
+38000
+31000
+26000
+27000
+Site 5
+76000
+29000
+31000
+35500
+26000
+Site 5
+
+Site 6
+139000
+37000
+46000
+58000
+33000
+29000
+33000
+Site 6
+139000
+33000
+37000
+52000
+29000
+Site 6
+
+Site 7
+116000
+58000
+58000
+72000
+44000
+21000
+27000
+Site 7
+116000
+35500
+58000
+65000
+21000
+Site 7
+
+0
+
+25500
+
+32000
+
+10000
+
+14000
+
+40500
+
+87000
+
+51000
+
+4000
+0
+0
+
+12500
+2500
+5500
+
+17500
+3500
+5000
+
+15000
+5000
+1000
+
+26500
+2500
+3000
+
+29000
+2000
+4500
+
+33000
+4000
+15000
+
+35500
+22500
+7000
+
+0
+
+5500
+
+2500
+
+0
+
+5500
+
+3000
+
+4000
+
+14500
+
+4000
+4000
+4000
+
+ Tabel Boxplot Fecal Coliform per Bulan
+Value
+Site 1
+Site 2
+Site 3
+Site 3b
+Site 4
+Site 5
+Site 6
+Site 7
+Statistic
+Max
+Q1
+Median
+Q3
+Min
+For Chart
+Max
+Q1
+Median
+Q3
+Min
+
+Des
+46000
+58000
+46000
+76000
+139000
+116000
+Des
+139000
+49000
+67000
+106000
+46000
+Des
+33000
+49000
+18000
+39000
+3000
+
+Jan I
+15000
+21000
+29000
+31000
+37000
+58000
+Jan I
+58000
+23000
+30000
+35500
+15000
+Jan I
+22500
+23000
+7000
+5500
+8000
+
+Jan II
+20000
+20000
+20000
+31000
+33000
+46000
+58000
+Jan II
+58000
+20000
+31000
+39500
+20000
+Jan II
+18500
+20000
+11000
+8500
+0
+
+Feb I
+21000
+31000
+31000
+33000
+38000
+58000
+72000
+Feb I
+72000
+31000
+33000
+48000
+21000
+Feb I
+24000
+31000
+2000
+15000
+10000
+
+Feb II
+4000
+15000
+21000
+21000
+27000
+31000
+33000
+44000
+Feb II
+44000
+19500
+24000
+31500
+4000
+Feb II
+12500
+19500
+4500
+7500
+15500
+
+Mar I
+4000
+7000
+15000
+15000
+21000
+26000
+29000
+21000
+Mar I
+29000
+13000
+18000
+22250
+4000
+Mar I
+6750
+13000
+5000
+4250
+9000
+
+Mar II
+4000
+10000
+15000
+15000
+26000
+27000
+33000
+27000
+Mar II
+33000
+13750
+20500
+27000
+4000
+Mar II
+6000
+13750
+6750
+6500
+9750
+
+ Tabel Boxplot E. coli per Site
+Value
+Des
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Statistic
+Max
+Q1
+Median
+Q3
+Min
+For Chart
+Max (Top
+whisker)
+Q1
+Median
+Q3
+Min
+(Bottom
+whisker)
+
+Site 1
+0
+33
+33
+67
+Site 1
+66,67
+25,00
+33,33
+41,67
+0,00
+Site 1
+
+Site 2
+167
+233
+233
+133
+Site 2
+233,33
+158,33
+200,00
+233,33
+133,33
+Site 2
+
+Site 3
+200
+1033
+267
+400
+Site 3
+1033,33
+250,00
+333,33
+558,33
+200,00
+Site 3
+
+Site 3b
+233
+1067
+267
+433
+Site 3b
+1066,67
+258,33
+350,00
+591,67
+233,33
+Site 3b
+
+Site 4
+300
+1333
+333
+467
+Site 4
+1333,33
+325,00
+400,00
+683,33
+300,00
+Site 4
+
+Site 5
+533
+1600
+1400
+1733
+Site 5
+1733,33
+1183,33
+1500,00
+1633,33
+533,33
+Site 5
+
+Site 6
+700
+1667
+1467
+3500
+Site 6
+3500,00
+1275,00
+1566,67
+2125,00
+700,00
+Site 6
+
+Site 7
+567
+733
+1200
+833
+Site 7
+1200,00
+691,67
+783,33
+925,00
+566,67
+Site 7
+
+25
+
+0
+
+475
+
+475
+
+650
+
+100
+
+1375
+
+275
+
+25,00
+8,33
+8,33
+
+158,33
+41,67
+33,33
+
+250,00
+83,33
+225,00
+
+258,33
+91,67
+241,67
+
+325,00
+75,00
+283,33
+
+1183,33
+316,67
+133,33
+
+1275,00
+291,67
+558,33
+
+691,67
+91,67
+141,67
+
+25
+
+25
+
+50
+
+25
+
+25
+
+650
+
+575
+
+125
+
+ Tabel Boxplot Debit per Site
+Value
+Des
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Statistic
+Max
+Q1
+Median
+Q3
+Min
+For Chart
+Max (Top
+whisker)
+Q1
+Median
+Q3
+Min
+(Bottom
+whisker)
+
+Site 1
+0,525
+0,435
+0,45
+Site 1
+0,525
+0,4425
+0,45
+0,4875
+0,435
+Site 1
+
+Site 2
+1,143
+0,306
+0,395
+0,486
+0,263
+0,228
+0,255
+Site 2
+1,143
+0,259
+0,306
+0,4405
+0,228
+Site 2
+
+Site 3
+2,817
+1,040
+1,276
+1,367
+0,731
+0,244
+0,665
+Site 3
+2,817
+0,698
+1,04
+1,3215
+0,244
+Site 3
+
+Site 3b
+-
+
+Site 3b
+1,732
+0,702
+0,921
+1,291
+0,334
+Site 3b
+
+Site 4
+3,209
+1,920
+2,162
+2,668
+1,744
+0,630
+0,722
+Site 4
+3,209
+1,233
+1,92
+2,415
+0,63
+Site 4
+
+Site 5
+3,615
+2,530
+2,934
+3,115
+2,207
+0,651
+2,074
+Site 5
+3,615
+2,1405
+2,53
+3,0245
+0,651
+Site 5
+
+Site 6
+3,694
+2,885
+3,090
+3,335
+2,332
+1,937
+2,302
+Site 6
+3,694
+2,317
+2,885
+3,2125
+1,937
+Site 6
+
+Site 7
+Site 7
+0
+#NUM!
+#NUM!
+#NUM!
+0
+Site 7
+
+0,0375
+
+0,7025
+
+1,4955
+
+0,441
+
+0,794
+
+0,5905
+
+0,4815
+
+#NUM!
+
+0,4425
+0,0075
+0,0375
+
+0,259
+0,047
+0,1345
+
+0,698
+0,342
+0,2815
+
+0,702
+0,219
+0,37
+
+1,233
+0,687
+0,495
+
+2,1405
+0,3895
+0,4945
+
+2,317
+0,568
+0,3275
+
+#NUM!
+#NUM!
+#NUM!
+
+0,0075
+
+0,031
+
+0,454
+
+0,368
+
+0,603
+
+1,4895
+
+0,38
+
+#NUM!
+
+Site 5
+28,1
+31,2
+29,5
+30,5
+31,1
+30,9
+33,2
+Site 5
+33,2
+30
+30,9
+31,15
+28,1
+Site 5
+
+Site 6
+28,2
+29,1
+28,6
+29,8
+32,5
+32
+31,7
+Site 6
+32,5
+28,85
+29,8
+31,85
+28,2
+Site 6
+
+Site 7
+28,4
+28,3
+28,1
+29,1
+30,7
+29,9
+30,2
+Site 7
+30,7
+28,35
+29,1
+30,05
+28,1
+Site 7
+
+1,291
+1,732
+0,921
+0,334
+0,702
+
+ Tabel Boxplot Suhu per Site
+Value
+Des
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Statistic
+Max
+Q1
+Median
+Q3
+Min
+For Chart
+Max (Top
+whisker)
+Q1
+Median
+Q3
+Min
+(Bottom
+whisker)
+
+Site 1
+25,1
+27,2
+25,5
+Site 1
+27,2
+25,3
+25,5
+26,35
+25,1
+Site 1
+
+Site 2
+26
+26,9
+27,5
+27,6
+28
+28,5
+28,8
+Site 2
+28,8
+27,2
+27,6
+28,25
+26
+Site 2
+
+Site 3
+27,7
+27,8
+27
+28,7
+28,7
+29,3
+28,9
+Site 3
+29,3
+27,75
+28,7
+28,8
+27
+Site 3
+
+Site 3b
+-
+
+Site 3b
+30,4
+28,5
+28,6
+29,5
+27,3
+Site 3b
+
+Site 4
+28,5
+29,2
+27,3
+28,8
+30,3
+30,5
+32
+Site 4
+32
+28,65
+29,2
+30,4
+27,3
+Site 4
+
+0,85
+
+0,55
+
+0,5
+
+0,9
+
+1,6
+
+2,05
+
+0,65
+
+0,65
+
+25,3
+0,2
+0,85
+
+27,2
+0,4
+0,65
+
+27,75
+0,95
+0,1
+
+28,5
+0,1
+0,9
+
+28,65
+0,55
+1,2
+
+30
+0,9
+0,25
+
+28,85
+0,95
+2,05
+
+28,35
+0,75
+0,95
+
+0,2
+
+1,2
+
+0,75
+
+1,2
+
+1,35
+
+1,9
+
+0,65
+
+0,25
+
+27,3
+28,5
+28,6
+29,5
+30,4
+
+ Tabel Boxplot TSS per Site
+Value
+Des
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Statistic
+Max
+Q1
+Median
+Q3
+Min
+For Chart
+Max (Top
+whisker)
+Q1
+Median
+Q3
+Min
+(Bottom
+whisker)
+
+Site 1
+11
+15
+10
+Site 1
+15
+10,5
+11
+13
+10
+Site 1
+
+Site 2
+36
+28
+28
+31
+23
+18
+19
+Site 2
+36
+21
+28
+29,5
+18
+Site 2
+
+Site 3
+68
+43
+46
+54
+38
+26
+29
+Site 3
+68
+33,5
+43
+50
+26
+Site 3
+
+Site 3b
+-
+
+2
+
+6,5
+
+10,5
+0,5
+2
+0,5
+
+Site 3b
+66
+34
+46
+57
+31
+Site 3b
+
+Site 4
+80
+49
+51
+60
+45
+32
+37
+Site 4
+80
+41
+49
+55,5
+32
+Site 4
+
+Site 5
+93
+71
+80
+82
+57
+39
+42
+Site 5
+93
+49,5
+71
+81
+39
+Site 5
+
+Site 6
+97
+76
+83
+88
+76
+43
+42
+Site 6
+97
+59,5
+76
+85,5
+42
+Site 6
+
+Site 7
+90
+68
+72
+76
+53
+38
+38
+Site 7
+90
+45,5
+68
+74
+38
+Site 7
+
+18
+
+9
+
+24,5
+
+12
+
+11,5
+
+16
+
+21
+7
+1,5
+
+33,5
+9,5
+7
+
+34
+12
+11
+
+41
+8
+6,5
+
+49,5
+21,5
+10
+
+59,5
+16,5
+9,5
+
+45,5
+22,5
+6
+
+3
+
+7,5
+
+3
+
+9
+
+10,5
+
+17,5
+
+7,5
+
+Site 5
+215
+188
+212
+214
+179
+172
+174
+Site 5
+215
+176,5
+188
+213
+172
+Site 5
+
+Site 6
+265
+220
+232
+242
+218
+192
+203
+Site 6
+265
+210,5
+220
+237
+192
+Site 6
+
+Site 7
+277
+215
+249
+261
+208
+201
+202
+Site 7
+277
+204,8
+215
+255
+201
+Site 7
+
+57
+66
+46
+31
+34
+
+ Tabel Boxplot TDS per Site
+Value
+Des
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Statistic
+Max
+Q1
+Median
+Q3
+Min
+For Chart
+Max (Top
+whisker)
+Q1
+Median
+Q3
+Min
+(Bottom
+whisker)
+
+Site 1
+118
+108
+103
+Site 1
+118
+105,5
+108
+113
+103
+Site 1
+
+Site 2
+131
+122
+123
+125
+119
+113
+116
+Site 2
+131
+117,74
+122
+124
+113
+Site 2
+
+Site 3
+185
+177
+178
+182
+173
+153
+156
+Site 3
+185
+164,5
+177
+180
+153
+Site 3
+
+Site 3b
+-
+
+Site 3b
+238
+178
+188
+200
+169
+Site 3b
+
+Site 4
+221
+187
+192
+199
+179
+166
+169
+Site 4
+221
+174
+187
+195,5
+166
+Site 4
+
+5
+
+7
+
+5
+
+38
+
+25,5
+
+2
+
+28
+
+22
+
+105,5
+2,5
+5
+
+117,74
+4,26
+2
+
+164,5
+12,5
+3
+
+178
+10
+12
+
+174
+13
+8,5
+
+176,5
+11,5
+25
+
+210,5
+9,5
+17
+
+204,8
+10,2
+40
+
+2,5
+
+4,74
+
+11,5
+
+9
+
+8
+
+4,5
+
+18,5
+
+3,8
+
+200
+238
+188
+169
+178
+
+ Tabel Boxplot DO per Site
+Value
+Des
+Jan I
+Jan II
+Feb I
+Feb II
+Mar I
+Mar II
+Statistic
+Max
+Q1
+Median
+Q3
+Min
+For Chart
+Max (Top
+whisker)
+Q1
+Median
+Q3
+Min
+(Bottom
+whisker)
+
+Site 1
+6,78
+6,78
+6,36
+Site 1
+6,781
+6,569
+6,781
+6,781
+6,357
+Site 1
+
+Site 2
+7,63
+5,09
+6,78
+7,20
+6,78
+5,51
+5,09
+Site 2
+7,63
+5,3
+6,78
+6,99
+5,09
+Site 2
+
+Site 3
+6,78
+5,93
+6,78
+6,78
+5,51
+5,51
+6,36
+Site 3
+6,78
+5,72
+6,36
+6,78
+5,51
+Site 3
+
+Site 3b
+4,24
+4,24
+5,09
+4,24
+4,66
+Site 3b
+5,085
+4,238
+4,238
+4,662
+4,238
+Site 3b
+
+Site 4
+6,36
+6,36
+5,09
+6,36
+5,09
+5,09
+6,36
+Site 4
+6,36
+5,09
+6,36
+6,36
+5,09
+Site 4
+
+Site 5
+6,36
+4,66
+4,24
+6,78
+5,09
+5,09
+6,36
+Site 5
+6,78
+4,875
+5,09
+6,36
+4,24
+Site 5
+
+Site 6
+5,93
+4,24
+4,66
+5,09
+4,66
+4,66
+5,93
+Site 6
+5,93
+4,66
+4,66
+5,51
+4,24
+Site 6
+
+Site 7
+6,78
+4,66
+4,24
+5,09
+4,24
+5,09
+5,51
+Site 7
+6,78
+4,45
+5,09
+5,3
+4,24
+Site 7
+
+0
+
+0,64
+
+0
+
+0,423
+
+0
+
+0,42
+
+0,42
+
+1,48
+
+6,569
+0,212
+0
+
+5,3
+1,48
+0,21
+
+5,72
+0,64
+0,42
+
+4,238
+0
+0,424
+
+5,09
+1,27
+0
+
+4,875
+0,215
+1,27
+
+4,66
+0
+0,85
+
+4,45
+0,64
+0,21
+
+0,212
+
+0,21
+
+0,21
+
+0
+
+0
+
+0,635
+
+0,42
+
+0,21
+
+LAMPIRAN 4
+
+HASIL UJI STATISTIK KORELASI
+Rumus Korelasi:
+r=
+
+𝑵 𝚺𝑿𝒀− 𝚺𝑿 𝚺𝒀
+√{𝑵 𝚺𝑿𝟐 − (𝚺𝑿)𝟐 }{𝑵 𝚺𝒀𝟐 − (𝚺𝒀)𝟐 }
+
+Keterangan:
+r
+
+= Koefisien korelasi
+
+N
+
+= Jumlah data
+
+X
+
+= Skor variabel X (bebas)
+
+Y
+
+= Skor variabel Y (terikat)
+
+Rumus Uji Signifikansi:
+r=
+
+𝒓 √𝑵−𝟐
+√𝟏− 𝒓𝟐
+
+Keterangan:
+t
+
+= Distribusi t-student
+
+r
+
+= Koefisien korelasi
+
+N
+
+= Jumlah Data
+
+ Hasil Uji Korelasi Curah Hujan terhadap Konsentrasi Total Coliform
+
+
+Site 2
+
+SITE 2
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Konsentrasi
+Site 2 (Y)
+95000
+26000
+46000
+58000
+27000
+15000
+20000
+287000
+
+XY
+
+X2
+
+Y2
+
+9253000
+286000
+800400
+1479000
+178200
+0
+55000
+12051600
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,9
+
+9025000000
+676000000
+2116000000
+3364000000
+729000000
+225000000
+400000000
+16535000000
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+0,951062295
+6,882347566
+
+SUMMARY OUTPUT SITE 2
+Regression Statistics
+Multiple R
+0,951062295
+R Square
+0,90451949
+Adjusted R Square
+0,885423388
+Standard Error
+9542,023609
+Observations
+7
+Standard
+Upper
+Lower
+Upper
+t Stat
+P-value Lower 95%
+Error
+95%
+95,0%
+95,0%
+22888,65628 4464,561 5,126743 0,003686 11412,1363 34365,18 11412,14 34365,18
+789,1653038 114,6651 6,882348 0,000991 494,409194 1083,921 494,4092 1083,921
+
+Coefficients
+Intercept
+X Variable 1
+
+
+
+Site 3
+
+SITE 3
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Konsentrasi
+Site 3 (Y)
+190000
+76000
+95000
+116000
+95000
+46000
+49000
+667000
+
+0,943887356
+6,390564976
+
+XY
+
+X2
+
+Y2
+
+18506000
+836000
+1653000
+2958000
+627000
+0
+134750
+24714750
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+36100000000
+5776000000
+9025000000
+13456000000
+9025000000
+2116000000
+2401000000
+77899000000
+
+SUMMARY OUTPUT SITE 3
+Regression Statistics
+Multiple R
+0,951062295
+R Square
+0,90451949
+Adjusted R Square
+0,885423388
+Standard Error
+9542,023609
+Observations
+7
+Standard
+Upper
+Lower
+Upper
+t Stat
+P-value Lower 95%
+Error
+95%
+95,0%
+95,0%
+22888,65628 4464,561 5,126743 0,003686 11412,1363 34365,18 11412,14 34365,18
+789,1653038 114,6651 6,882348 0,000991 494,409194 1083,921 494,4092 1083,921
+
+Coefficients
+Intercept
+X Variable 1
+
+
+
+Site 4
+
+SITE 4
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Konsentrasi
+Site 4 (Y)
+271000
+72000
+116000
+139000
+95000
+58000
+58000
+809000
+
+XY
+
+X2
+
+Y2
+
+26395400
+792000
+2018400
+3544500
+627000
+0
+159500
+33536800
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+73441000000
+5184000000
+13456000000
+19321000000
+9025000000
+3364000000
+3364000000
+1,27155E+11
+
+0,980567824
+11,17653193
+
+SUMMARY OUTPUT SITE 4
+Regression Statistics
+Multiple R
+0,980567824
+R Square
+0,961513257
+Adjusted R Square
+0,953815909
+Standard Error
+16095,81178
+Observations
+7
+
+Intercept
+X Variable 1
+
+Coefficients Standard t Stat
+P-value Lower 95% Upper
+Lower
+Upper
+Error
+95%
+95,0%
+95,0%
+65958,65199 7530,975 8,758316 0,000322 46599,6656 85317,64 46599,67 85317,64
+2161,776757 193,4211 11,17653
+0,0001 1664,57207 2658,981 1664,572 2658,981
+
+
+
+Site 5
+
+SITE 5
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Konsentrasi
+Site 5 (Y)
+438000
+116000
+190000
+271000
+116000
+76000
+95000
+1302000
+
+XY
+
+X2
+
+Y2
+
+42661200
+1276000
+3306000
+6910500
+765600
+0
+261250
+55180550
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+1,91844E+11
+13456000000
+36100000000
+73441000000
+13456000000
+5776000000
+9025000000
+3,43098E+11
+
+0,956982239
+7,375161518
+
+SUMMARY OUTPUT SITE 5
+Regression Statistics
+Multiple R
+0,956982239
+R Square
+0,915815006
+Adjusted R Square
+0,898978007
+Standard Error
+41222,45686
+Observations
+7
+Standard
+Upper
+Lower
+Upper
+t Stat
+P-value Lower 95%
+Error
+95%
+95,0%
+95,0%
+102154,6479 19287,33 5,296463 0,003201 52574,9812 151734,3 52574,98 151734,3
+3653,392251 495,3644 7,375162 0,00072 2380,0176 4926,767 2380,018 4926,767
+
+Coefficients
+Intercept
+X Variable 1
+
+
+
+Site 6
+
+SITE 6
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Konsentrasi
+Site 6 (Y)
+438000
+190000
+271000
+271000
+116000
+95000
+116000
+1497000
+
+XY
+
+X2
+
+Y2
+
+42661200
+2090000
+4715400
+6910500
+765600
+0
+319000
+57461700
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+1,91844E+11
+36100000000
+73441000000
+73441000000
+13456000000
+9025000000
+13456000000
+4,10763E+11
+
+0,922354595
+5,338365279
+
+SUMMARY OUTPUT SITE 6
+Regression Statistics
+Multiple R
+0,922354595
+R Square
+0,850737998
+Adjusted R Square
+0,820885598
+Standard Error
+52011,44489
+Observations
+7
+
+Intercept
+X Variable 1
+
+
+
+Standard
+Upper
+Lower
+Upper
+Coefficients
+Error
+t Stat
+P-value Lower 95%
+95%
+95,0%
+95,0%
+137283,2386 24335,33 5,641314 0,002428 74727,285 199839,2 74727,28 199839,2
+3336,553562 625,0141 5,338365 0,003093 1729,90367 4943,203 1729,904 4943,203
+
+Site 7
+
+SITE 7
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Konsentrasi
+Site 7 (Y)
+1898000
+139000
+116000
+438000
+139000
+95000
+95000
+2920000
+
+XY
+
+X2
+
+Y2
+
+184865200
+1529000
+2018400
+11169000
+917400
+0
+261250
+200760250
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+3,6024E+12
+19321000000
+13456000000
+1,91844E+11
+19321000000
+9025000000
+9025000000
+3,8644E+12
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+0,987983706
+14,29364867
+
+SUMMARY OUTPUT SITE 7
+Regression Statistics
+Multiple R
+0,987983706
+R Square
+0,976111804
+Adjusted R Square
+0,971334164
+Standard Error
+112442,2186
+Observations
+7
+Standard
+Upper
+Lower
+Upper
+t Stat
+P-value Lower 95%
+Error
+95%
+95,0%
+95,0%
+-26104,43797 52609,93 -0,49619 0,640801 -161342,56 109133,7 -161343 109133,7
+19313,60763 1351,202 14,29365 3,02E-05 15840,2321 22786,98 15840,23 22786,98
+Coefficients
+
+Intercept
+X Variable 1
+
+ Hasil Uji Korelasi Curah Hujan terhadap Konsentrasi Fecal Coliform
+
+
+Site 2
+
+SITE 2
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Konsentrasi
+Site 2 (Y)
+46000
+15000
+20000
+21000
+15000
+7000
+10000
+134000
+0,984967525
+12,75014018
+
+XY
+
+X2
+
+Y2
+
+4480400
+165000
+348000
+535500
+99000
+0
+27500
+5655400
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+2116000000
+225000000
+400000000
+441000000
+225000000
+49000000
+100000000
+3556000000
+
+SUMMARY OUTPUT SITE 2
+Regression Statistics
+Multiple R
+0,984967525
+R Square
+0,970161024
+Adjusted R Square
+0,964193229
+Standard Error
+2431,713882
+Observations
+7
+Standard
+Upper
+Lower
+Upper
+t Stat
+P-value Lower 95%
+Error
+95%
+95,0%
+95,0%
+10592,16996 1137,76 9,309668 0,000241 7667,46403 13516,88 7667,464 13516,88
+372,5789624 29,22156 12,75014 5,28E-05 297,462556 447,6954 297,4626 447,6954
+
+Coefficients
+Intercept
+X Variable 1
+
+
+
+Site 3
+
+SITE 3
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Konsentrasi
+Site 3 (Y)
+58000
+21000
+20000
+31000
+21000
+15000
+15000
+181000
+
+XY
+
+X2
+
+Y2
+
+5649200
+231000
+348000
+790500
+138600
+0
+41250
+7198550
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+3364000000
+441000000
+400000000
+961000000
+441000000
+225000000
+225000000
+6057000000
+
+0,985999505
+13,22210018
+
+SUMMARY OUTPUT SITE 3
+Regression Statistics
+Multiple R
+0,985999505
+R Square
+0,972195025
+Adjusted R Square
+0,96663403
+Standard Error
+2767,073497
+Observations
+7
+Standard
+Upper
+Lower
+Upper
+t Stat
+P-value Lower 95%
+Error
+95%
+95,0%
+95,0%
+15767,06022 1294,67 12,17844 6,6E-05 12439,0058 19095,11 12439,01 19095,11
+439,6550168 33,25153 13,2221 4,42E-05 354,179246 525,1308 354,1792 525,1308
+
+Coefficients
+Intercept
+X Variable 1
+
+
+
+Site 4
+
+SITE 4
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Konsentrasi
+Site 4 (Y)
+46000
+29000
+31000
+33000
+27000
+21000
+26000
+213000
+
+XY
+
+X2
+
+Y2
+
+4480400
+319000
+539400
+841500
+178200
+0
+71500
+6430000
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+2116000000
+841000000
+961000000
+1089000000
+729000000
+441000000
+676000000
+6853000000
+
+0,960886421
+7,758308804
+
+SUMMARY OUTPUT SITE 4
+Regression Statistics
+Multiple R
+0,960886421
+R Square
+0,923302715
+Adjusted R Square
+0,907963257
+Standard Error
+2387,864178
+Observations
+7
+Standard
+Upper
+Lower
+Upper
+t Stat
+P-value Lower 95%
+Error
+95%
+95,0%
+95,0%
+25319,40244 1117,244 22,66238 3,11E-06 22447,4361 28191,37 22447,44 28191,37
+222,6217423 28,69462 7,758309 0,000569 148,859867 296,3836 148,8599 296,3836
+
+Coefficients
+Intercept
+X Variable 1
+
+
+
+Site 5
+
+SITE 5
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Konsentrasi
+Site 5 (Y)
+76000
+31000
+33000
+38000
+31000
+26000
+27000
+262000
+
+XY
+
+X2
+
+Y2
+
+7402400
+341000
+574200
+969000
+204600
+0
+74250
+9565450
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+5776000000
+961000000
+1089000000
+1444000000
+961000000
+676000000
+729000000
+11636000000
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+0,998020483
+35,48500519
+
+SUMMARY OUTPUT SITE 5
+Regression Statistics
+Multiple R
+0,998020483
+R Square
+0,996044885
+Adjusted R Square
+0,995253861
+Standard Error
+1203,057046
+Observations
+7
+Standard
+Upper
+Lower
+Upper
+t Stat
+P-value Lower 95%
+Error
+95%
+95,0%
+95,0%
+25655,09607 562,8913 45,57736 9,6E-08 24208,138 27102,05 24208,14 27102,05
+513,0054621 14,45696 35,48501 3,34E-07 475,842652 550,1683 475,8427 550,1683
+
+Coefficients
+Intercept
+X Variable 1
+
+
+
+Site 6
+
+SITE 6
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Konsentrasi
+Site 6 (Y)
+139000
+37000
+46000
+58000
+33000
+29000
+33000
+375000
+0,998624716
+42,59175279
+
+SUMMARY OUTPUT SITE 6
+Regression Statistics
+Multiple R
+0,998624716
+R Square
+0,997251324
+Adjusted R Square
+0,996701588
+Standard Error
+2236,61213
+Observations
+7
+
+XY
+
+X2
+
+Y2
+
+13538600
+407000
+800400
+1479000
+217800
+0
+90750
+16533550
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+19321000000
+1369000000
+2116000000
+3364000000
+1089000000
+841000000
+1089000000
+29189000000
+
+Standard
+Upper
+Lower
+Upper
+t Stat
+P-value Lower 95%
+Error
+95%
+95,0%
+95,0%
+27299,63192 1046,475 26,08722 1,55E-06 24609,5816 29989,68 24609,58 29989,68
+1144,740595 26,87705 42,59175 1,35E-07 1075,65094 1213,83 1075,651 1213,83
+
+Coefficients
+Intercept
+X Variable 1
+
+
+
+Site 7
+
+SITE 7
+
+Total
+
+Curah
+Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Konsentrasi
+Site 7 (Y)
+116000
+58000
+58000
+72000
+44000
+21000
+27000
+396000
+
+XY
+
+X2
+
+Y2
+
+11298400
+638000
+1009200
+1836000
+290400
+0
+74250
+15146250
+
+9486,76
+121
+302,76
+650,25
+43,56
+0
+7,5625
+10611,89
+
+13456000000
+3364000000
+3364000000
+5184000000
+1936000000
+441000000
+729000000
+28474000000
+
+0,93426071
+5,858454709
+
+SUMMARY OUTPUT SITE 7
+Regression Statistics
+Multiple R
+0,93426071
+R Square
+0,872843074
+Adjusted R Square
+0,847411689
+Standard Error
+12426,26674
+Observations
+7
+Standard
+Upper
+Lower
+Upper
+t Stat
+P-value Lower 95%
+Error
+95%
+95,0%
+95,0%
+36494,49725 5814,053 6,276946 0,001507 21548,9989
+51440
+21549
+51440
+874,8118224 149,3247 5,858455 0,002054 490,960535 1258,663 490,9605 1258,663
+
+Coefficients
+Intercept
+X Variable 1
+
+ Hasil Uji Korelasi Curah Hujan terhadap Indeks Pencemaran di
+Sungai Code.
+
+
+Site 2
+
+IP SITE 2
+
+Total
+
+Curah Hujan (X) Nilai IP (Y)
+XY
+X2
+6,94
+97,4
+675,956 9486,76
+5,08
+11
+55,88
+121
+5,67
+17,4
+98,658
+302,76
+5,65
+25,5
+144,075 650,25
+5,08
+6,6
+33,528
+43,56
+3,89
+0
+0
+0
+4,44
+2,75
+12,21
+7,5625
+160,65
+36,75
+1020,31 10611,89
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Y2
+48,1636
+25,8064
+32,1489
+31,9225
+25,8064
+15,1321
+19,7136
+198,6935
+
+0,886022667
+4,273140132
+
+SUMMARY OUTPUT IP 2
+Regression Statistics
+Multiple R
+0,886022667
+R Square
+0,785036166
+Adjusted R
+Square
+0,742043399
+Standard Error
+0,497459913
+Observations
+7
+Lower
+Upper
+Lower
+Upper
+95%
+95%
+95,0%
+95,0%
+0,232753589 20,03731 5,72E-06 4,065443 5,262068 4,065443 5,262068
+0,005977905 4,27314 0,007915 0,010178 0,040911 0,010178 0,040911
+
+Coefficients Standard Error
+Intercept
+X Variable 1
+
+4,663755461
+0,025544424
+
+t Stat
+
+P-value
+
+
+
+Site 3
+
+IP SITE 3
+
+Total
+
+Curah Hujan (X) Nilai IP (Y)
+XY
+X2
+7,37
+97,4
+717,838 9486,76
+5,7
+11
+62,7
+121
+5,67
+17,4
+98,658
+302,76
+6,34
+25,5
+161,67
+650,25
+5,71
+6,6
+37,686
+43,56
+5,13
+0
+0
+0
+6,65
+2,75
+18,2875 7,5625
+160,65
+42,57
+1096,84 10611,89
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Y2
+54,3169
+32,49
+32,1489
+40,1956
+32,6041
+26,3169
+44,2225
+262,2949
+
+0,780148329
+2,788490722
+
+SUMMARY OUTPUT IP 3
+Regression Statistics
+Multiple R
+0,780148329
+R Square
+0,608631415
+Adjusted R
+Square
+0,530357698
+Standard Error
+0,516521874
+Observations
+7
+Lower
+Upper
+Lower
+Upper
+95%
+95%
+95,0%
+95,0%
+0,241672377 23,52031 2,59E-06 5,06297 6,305447 5,06297 6,305447
+0,00620697 2,788491 0,038514 0,001353 0,033264 0,001353 0,033264
+
+Coefficients Standard Error
+Intercept
+X Variable 1
+
+5,684208206
+0,017308077
+
+t Stat
+
+P-value
+
+
+
+Site 4
+
+IP SITE 4
+
+Total
+
+Curah Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+XY
+X2
+Nilai IP (Y)
+7,3
+711,02 9486,76
+6,19
+68,09
+121
+6,37
+110,838 302,76
+6,46
+164,73
+650,25
+6,1
+40,26
+43,56
+5,67
+0
+0
+6,01
+16,5275 7,5625
+44,1
+1111,47 10611,89
+
+Y2
+53,29
+38,3161
+40,5769
+41,7316
+37,21
+32,1489
+36,1201
+279,3936
+
+0,954960788
+7,196248042
+
+SUMMARY OUTPUT IP 4
+Regression Statistics
+Multiple R
+0,954960788
+R Square
+0,911950107
+Adjusted R
+Square
+0,894340128
+Standard Error
+0,165936622
+Observations
+7
+Lower
+Upper
+Lower
+Upper
+95%
+95%
+95,0%
+95,0%
+0,077639109 76,90296 7,04E-09 5,771099 6,170255 5,771099 6,170255
+0,001994037 7,196248 0,000807 0,009224 0,019475 0,009224 0,019475
+
+Coefficients Standard Error
+Intercept
+X Variable 1
+
+
+
+5,970677082
+0,014349582
+
+t Stat
+
+P-value
+
+Site 5
+
+IP SITE 5
+
+Total
+
+Curah Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Nilai IP (Y)
+XY
+X2
+8,09
+787,966 9486,76
+6,37
+70,07
+121
+7,3
+127,02
+302,76
+7,41
+188,955 650,25
+6,35
+41,91
+43,56
+6,05
+0
+0
+6,1
+16,775
+7,5625
+47,67
+1232,7 10611,89
+
+Y2
+65,4481
+40,5769
+53,29
+54,9081
+40,3225
+36,6025
+37,21
+328,3581
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+0,863347011
+3,825726797
+
+SUMMARY OUTPUT IP 5
+Regression Statistics
+Multiple R
+0,863347011
+R Square
+0,745368061
+Adjusted R
+Square
+0,694441673
+Standard Error
+0,435569932
+Observations
+7
+Lower
+Upper
+Lower
+Upper
+95%
+95%
+95,0%
+95,0%
+0,20379625 31,16071 6,39E-07 5,826562 6,874312 5,826562 6,874312
+0,005234182 3,825727 0,012301 0,00657 0,033479 0,00657 0,033479
+
+Coefficients Standard Error
+Intercept
+X Variable 1
+
+
+
+6,350436604
+0,020024549
+
+t Stat
+
+P-value
+
+Site 6
+
+IP SITE 6
+
+Total
+
+Curah Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Nilai IP (Y)
+XY
+X2
+8,81
+858,094 9486,76
+6,73
+74,03
+121
+7,31
+127,194 302,76
+7,42
+189,21
+650,25
+6,46
+42,636
+43,56
+6,22
+0
+0
+6,44
+17,71
+7,5625
+49,39
+1308,87 10611,89
+
+0,960572561
+7,725461513
+
+SUMMARY OUTPUT IP 6
+Regression Statistics
+Multiple R
+0,960572561
+R Square
+0,922699645
+Adjusted R
+Square
+0,907239573
+Standard Error
+0,272791247
+Observations
+7
+
+Y2
+77,6161
+45,2929
+53,4361
+55,0564
+41,7316
+38,6884
+41,4736
+353,2951
+
+Lower
+Upper
+Lower
+Upper
+95%
+95%
+95,0%
+95,0%
+0,12763469 50,72689 5,63E-08 6,146415 6,802606 6,146415 6,802606
+0,003278093 7,725462 0,00058 0,016898 0,033751 0,016898 0,033751
+
+Coefficients Standard Error
+Intercept
+X Variable 1
+
+
+
+6,47451048
+0,025324785
+
+t Stat
+
+P-value
+
+Site 7
+
+IP SITE 7
+
+Total
+
+Curah Hujan (X)
+97,4
+11
+17,4
+25,5
+6,6
+0
+2,75
+160,65
+
+Koefisien korelasi (r)
+Uji signifikansi (t)
+
+Nilai IP (Y)
+XY
+X2
+10,37
+1010,038 9486,76
+7,34
+80,74
+121
+7,34
+127,716
+302,76
+8,06
+205,53
+650,25
+6,89
+45,474
+43,56
+5,75
+0
+0
+6,1
+16,775
+7,5625
+51,85
+1486,27 10611,89
+
+Y2
+107,5369
+53,8756
+53,8756
+64,9636
+47,4721
+33,0625
+37,21
+397,9963
+
+0,953843416
+7,102322362
+
+SUMMARY OUTPUT IP 7
+Regression Statistics
+Multiple R
+0,953843416
+R Square
+0,909817262
+Adjusted R
+Square
+0,891780714
+Standard Error
+0,501354462
+Observations
+7
+Lower
+Upper
+Lower
+Upper
+95%
+95%
+95,0%
+95,0%
+0,234575786 27,39041 1,21E-06 5,82213 7,028122 5,82213 7,028122
+0,006024705 7,102322 0,000857 0,027302 0,058276 0,027302 0,058276
+
+Coefficients Standard Error
+Intercept
+X Variable 1
+
+6,425126211
+0,042789396
+
+t Stat
+
+P-value
+
+LAMPIRAN 5
+
+HASIL INDEKS PENCEMARAN
+
+SITE 1
+
+Parameter
+pH
+TDS
+TSS
+DO
+Total Coliform
+Fecal Coliform
+
+20-Feb
+Lix
+Satuan
+6-9
+1000
+mg/L
+50
+mg/L
+4
+mg/L
+5000
+mg/L
+1000
+mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+Ci
+7
+118
+11
+6,78
+10000
+4000
+
+11-Des
+Lix
+Satuan
+6-9
+1000
+mg/L
+50
+mg/L
+4
+mg/L
+5000
+mg/L
+1000
+mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Parameter
+Ci
+pH
+6
+TDS
+131
+TSS
+36
+DO
+7,63
+SITE 2 Total Coliform 95000
+Fecal Coliform 46000
+
+Ci/Lix
+0,13
+0,12
+0,22
+0,02
+2,00
+4,00
+
+Ci/Lix baru
+Parameter
+0,13
+pH
+0,12
+TDS
+0,22
+TSS
+0,02
+DO
+2,51
+Total Coliform
+4,01
+Fecal Coliform
+7,01
+1,17
+4,01
+2,95
+Cemar Ringan
+
+Ci/Lix Ci/Lix baru Parameter
+1
+1
+pH
+0,13
+0,13
+TDS
+0,72
+0,72
+TSS
+0,01
+0,01
+DO
+19,00
+7,39 Total Coliform
+46,00
+9,31 Fecal Coliform
+18,57
+3,10
+9,31
+6,94
+Cemar Sedang
+
+16-Mar
+Lix
+Satuan
+6-9
+1000
+mg/L
+50
+mg/L
+4
+mg/L
+5000
+mg/L
+1000
+mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+Ci
+6
+108
+15
+6,78
+7000
+4000
+
+09-Jan
+Lix
+Satuan
+6-9
+1000
+mg/L
+50
+mg/L
+4
+mg/L
+5000
+mg/L
+1000
+mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Ci
+8
+122
+28
+5,09
+26000
+15000
+
+Ci/Lix
+0,13
+0,12
+0,56
+0,16
+5,20
+15,00
+
+Ci/Lix
+1,00
+0,11
+0,30
+0,02
+1,40
+4,00
+
+Ci/Lix baru
+Parameter
+1,00
+pH
+0,11
+TDS
+0,30
+TSS
+0,02
+DO
+1,73
+Total Coliform
+4,01
+Fecal Coliform
+7,17
+1,19
+4,01
+2,96
+Cemar Ringan
+
+Ci/Lix baru Parameter
+0,13
+pH
+0,12
+TDS
+0,56
+TSS
+0,16
+DO
+4,58 Total Coliform
+6,88 Fecal Coliform
+12,43
+2,07
+6,88
+5,08
+Cemar Sedang
+
+Ci
+7
+123
+28
+6,78
+46000
+20000
+
+30-Mar
+Lix
+Satuan
+6-9
+1000
+mg/L
+50
+mg/L
+4
+mg/L
+5000
+mg/L
+1000
+mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+Ci
+7
+103
+10
+6,36
+10000
+4000
+
+29-Jan
+Lix
+6-9
+1000
+50
+4
+5000
+1000
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Satuan
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+Ci/Lix
+0,33
+0,10
+0,20
+0,05
+2,00
+4,00
+
+Ci/Lix baru
+0,33
+0,10
+0,20
+0,05
+2,51
+4,01
+7,21
+1,20
+4,01
+2,96
+Cemar Ringan
+
+Ci/Lix Ci/Lix baru
+0,33
+0,33
+0,12
+0,12
+0,56
+0,56
+0,02
+0,02
+9,20
+5,82
+20,00
+7,51
+14,36
+2,39
+7,51
+5,57
+Cemar Sedang
+
+13-Feb
+20-Feb
+16-Mar
+30-Mar
+Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru
+pH
+8
+6-9
+0,00 0,00
+pH
+7
+6-9
+0,13 0,13
+pH
+6
+6-9
+1,00 1,00
+pH
+7
+6-9
+0,33
+0,33
+TDS
+125 1000 mg/L 0,13 0,13
+TDS
+119 1000 mg/L 0,12 0,12
+TDS
+113 1000 mg/L 0,11 0,11
+TDS
+116 1000 mg/L 0,12
+0,12
+TSS
+31
+50 mg/L 0,62 0,62
+TSS
+23
+50 mg/L 0,46 0,46
+TSS
+18
+50 mg/L 0,36 0,36
+TSS
+19
+50 mg/L 0,38
+0,38
+DO
+7,20
+4
+mg/L 0,04 0,04
+DO
+6,78
+4
+mg/L 0,02 0,02
+DO
+5,51
+4
+mg/L 0,12 0,12
+DO
+5,09
+4
+mg/L 0,16
+0,16
+Total Coliform 58000 5000 mg/L 11,60 6,32 Total Coliform 27000 5000 mg/L 5,40 4,66 Total Coliform 15000 5000 mg/L 3,00 3,39 Total Coliform 20000 5000 mg/L 4,00
+4,01
+Fecal Coliform 21000 1000 mg/L 21,00 7,61 Fecal Coliform 15000 1000 mg/L 15,00 6,88 Fecal Coliform 7000 1000 mg/L 7,00 5,23 Fecal Coliform 10000 1000 mg/L 10,00 6,00
+Jumlah
+14,72
+Jumlah
+12,27
+Jumlah
+10,21
+Jumlah
+11,00
+Rata-rata
+2,45
+Rata-rata
+2,05
+Rata-rata
+1,70
+Rata-rata
+1,83
+Maksimum
+7,61
+Maksimum
+6,88
+Maksimum
+5,23
+Maksimum
+6,00
+Pij
+5,65
+Pij
+5,08
+Pij
+3,89
+Pij
+4,44
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Ringan
+
+11-Des
+Parameter
+Ci
+Lix Satuan
+pH
+7
+6-9
+TDS
+185
+1000 mg/L
+TSS
+68
+50
+mg/L
+DO
+6,78
+4
+mg/L
+SITE 3 Total Coliform 190000 5000 mg/L
+Fecal Coliform 58000 1000 mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+09-Jan
+Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan
+0,33
+0,33
+pH
+8
+6-9
+0,19
+0,19
+TDS
+177
+1000 mg/L
+1,36
+1,67
+TSS
+43
+50
+mg/L
+0,02
+0,02
+DO
+5,93
+4
+mg/L
+38,00
+8,90 Total Coliform 76000 5000 mg/L
+58,00
+9,82 Fecal Coliform 21000 1000 mg/L
+Jumlah
+20,92
+Rata-rata
+3,49
+Maksimum
+9,82
+Pij
+7,37
+Cemar Sedang
+Keterangan
+
+29-Jan
+Ci/Lix Ci/Lix baru Parameter
+0,27
+0,27
+pH
+0,18
+0,18
+TDS
+0,86
+0,86
+TSS
+0,09
+0,09
+DO
+15,20
+6,91 Total Coliform
+21,00
+7,61 Fecal Coliform
+15,91
+2,65
+7,61
+5,70
+Cemar Sedang
+
+Ci
+6
+178
+46
+6,78
+95000
+20000
+
+Lix
+6-9
+1000
+50
+4
+5000
+1000
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Satuan
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+Ci/Lix Ci/Lix baru
+1,00
+1,00
+0,18
+0,18
+0,92
+0,92
+0,02
+0,02
+19,00
+7,39
+20,00
+7,51
+17,02
+2,84
+7,51
+5,67
+Cemar Sedang
+
+13-Feb
+20-Feb
+16-Mar
+30-Mar
+Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru
+pH
+7
+6-9
+0,27 0,27
+pH
+7
+6-9
+0,20 0,20
+pH
+7
+6-9
+0,33 0,33
+pH
+7
+6-9
+0,33 0,33
+TDS
+182 1000 mg/L 0,18 0,18
+TDS
+173 1000 mg/L 0,17 0,17
+TDS
+153 1000 mg/L 0,15 0,15
+TDS
+156 1000 mg/L 0,16 0,16
+TSS
+54
+50 mg/L 1,08 1,17
+TSS
+38
+50 mg/L 0,76 0,76
+TSS
+26
+50 mg/L 0,52 0,52
+TSS
+29
+50 mg/L 0,58 0,58
+DO
+6,78
+4
+mg/L 0,02 0,02
+DO
+5,51
+4
+mg/L 0,12 0,12
+DO
+5,51
+4
+mg/L 0,12 0,12
+DO
+6,36
+4
+mg/L 0,05 0,05
+Total Coliform 116000 5000 mg/L 23,20 7,83 Total Coliform 95000 5000 mg/L 19,00 7,39 Total Coliform 46000 5000 mg/L 9,20 5,82 Total Coliform 49000 5000 mg/L 9,80 5,96
+Fecal Coliform 31000 1000 mg/L 31,00 8,46 Fecal Coliform 21000 1000 mg/L 21,00 7,61 Fecal Coliform 15000 1000 mg/L 15,00 6,88 Fecal Coliform 15000 1000 mg/L 15,00 6,88
+Jumlah
+Jumlah
+Jumlah
+Jumlah
+17,92
+16,26
+13,83
+12,84
+Rata-rata
+Rata-rata
+Rata-rata
+Rata-rata
+2,99
+2,71
+2,30
+6,42
+Maksimum
+Maksimum
+Maksimum
+Maksimum
+8,46
+7,61
+6,88
+6,88
+Pij
+Pij
+Pij
+Pij
+6,34
+5,71
+5,13
+6,65
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+
+Parameter
+pH
+TDS
+TSS
+DO
+SITE 3b Total Coliform
+Fecal Coliform
+
+29-Jan
+Lix
+6-9
+1000
+50
+4
+5000
+1000
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Ci
+7
+200
+57
+4,24
+95000
+20000
+
+Satuan
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+13-Feb
+Ci/Lix baru Parameter
+Ci
+Lix Satuan
+0,33
+pH
+7
+6-9
+0,20
+TDS
+238
+1000 mg/L
+1,28
+TSS
+66
+50
+mg/L
+0,23
+DO
+4,24
+4
+mg/L
+7,39
+Total Coliform 116000 5000 mg/L
+7,51 Fecal Coliform 31000
+1000 mg/L
+Jumlah
+16,95
+Rata-rata
+2,82
+Maksimum
+7,51
+Pij
+5,67
+Cemar Sedang
+Keterangan
+
+Ci/Lix
+0,33
+0,20
+1,14
+0,23
+19,00
+20,00
+
+Ci/Lix
+0,33
+0,24
+1,32
+0,23
+23,20
+31,00
+
+Ci/Lix baru Parameter
+0,33
+pH
+0,24
+TDS
+1,60
+TSS
+0,23
+DO
+7,83
+Total Coliform
+8,46
+Fecal Coliform
+18,69
+3,11
+8,46
+6,37
+Cemar Sedang
+
+20-Feb
+Lix Satuan
+6-9
+1000 mg/L
+50
+mg/L
+4
+mg/L
+5000 mg/L
+1000 mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+Ci
+7
+188
+46
+5,09
+95000
+21000
+
+Ci/Lix
+0,33
+0,19
+0,92
+0,16
+19,00
+21,00
+
+Ci/Lix baru
+0,33
+0,19
+0,92
+0,16
+7,39
+7,61
+16,61
+2,77
+7,61
+5,73
+Cemar Sedang
+
+Parameter
+pH
+TDS
+TSS
+DO
+Total Coliform
+Fecal Coliform
+
+16-Mar
+Lix
+Satuan
+6-9
+1000
+mg/L
+50
+mg/L
+4
+mg/L
+5000
+mg/L
+1000
+mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+Ci
+7
+169
+31
+4,24
+46000
+15000
+
+11-Des
+Parameter
+Ci
+Lix Satuan
+pH
+7
+6-9
+TDS
+221
+1000 mg/L
+TSS
+80
+50
+mg/L
+DO
+6,36
+4
+mg/L
+SITE 4 Total Coliform 271000 5000 mg/L
+Fecal Coliform 46000 1000 mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Ci/Lix
+0,33
+0,17
+0,62
+0,23
+9,20
+15,00
+
+Ci/Lix baru
+Parameter
+0,33
+pH
+0,17
+TDS
+0,62
+TSS
+0,23
+DO
+5,82
+Total Coliform
+6,88
+Fecal Coliform
+14,06
+2,34
+6,88
+5,14
+Cemar Sedang
+
+09-Jan
+Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan
+0,33
+0,33
+pH
+8
+6-9
+0,22
+0,22
+TDS
+187
+1000 mg/L
+1,60
+2,02
+TSS
+49
+50
+mg/L
+0,05
+0,05
+DO
+6,36
+4
+mg/L
+54,20
+9,67 Total Coliform 72000 5000 mg/L
+46,00
+9,31 Fecal Coliform 29000 1000 mg/L
+Jumlah
+21,61
+Rata-rata
+3,60
+Maksimum
+9,67
+Pij
+7,30
+Cemar Sedang
+Keterangan
+
+30-Mar
+Lix
+Satuan
+6-9
+1000
+mg/L
+50
+mg/L
+4
+mg/L
+5000
+mg/L
+1000
+mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+Ci
+7
+178
+34
+4,66
+49000
+15000
+
+Ci/Lix
+0,33
+0,18
+0,68
+0,20
+9,80
+15,00
+
+Ci/Lix baru
+0,33
+0,18
+0,68
+0,20
+5,96
+6,88
+14,22
+2,37
+6,88
+5,15
+Cemar Sedang
+
+29-Jan
+Ci/Lix Ci/Lix baru Parameter
+0,27
+0,27
+pH
+0,19
+0,19
+TDS
+0,98
+0,98
+TSS
+0,05
+0,05
+DO
+14,40
+6,79 Total Coliform
+29,00
+8,31 Fecal Coliform
+16,59
+2,77
+8,31
+6,19
+Cemar Sedang
+
+Ci
+6
+192
+51
+5,09
+116000
+31000
+
+Lix
+6-9
+1000
+50
+4
+5000
+1000
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Satuan
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+Ci/Lix Ci/Lix baru
+1,00
+1,00
+0,19
+0,19
+1,02
+1,04
+0,16
+0,16
+23,20
+7,83
+31,00
+8,46
+18,68
+3,11
+8,46
+6,37
+Cemar Sedang
+
+13-Feb
+20-Feb
+16-Mar
+30-Mar
+Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru
+pH
+7
+6-9
+0,13 0,13
+pH
+7
+6-9
+0,13 0,13
+pH
+7
+6-9
+0,33 0,33
+pH
+7
+6-9
+0,67
+0,67
+TDS
+199 1000 mg/L 0,20 0,20
+TDS
+179 1000 mg/L 0,18 0,18
+TDS
+166 1000 mg/L 0,17 0,17
+TDS
+169 1000 mg/L 0,17
+0,17
+TSS
+60
+50 mg/L 1,20 1,40
+TSS
+45
+50 mg/L 0,90 0,90
+TSS
+32
+50 mg/L 0,64 0,64
+TSS
+37
+50 mg/L 0,74
+0,74
+DO
+6,36
+4
+mg/L 0,05 0,05
+DO
+5,09
+4
+mg/L 0,16 0,16
+DO
+5,09
+4
+mg/L 0,18 0,18
+DO
+6,36
+4
+mg/L 0,05
+0,05
+Total Coliform 139000 5000 mg/L 27,80 8,22 Total Coliform 95000 5000 mg/L 19,00 7,39 Total Coliform 58000 5000 mg/L 11,60 6,32 Total Coliform 58000 5000 mg/L 11,60 6,32
+Fecal Coliform 33000 1000 mg/L 33,00 8,59 Fecal Coliform 27000 1000 mg/L 27,00 8,16 Fecal Coliform 21000 1000 mg/L 21,00 7,61 Fecal Coliform 26000 1000 mg/L 26,00 8,07
+Jumlah
+Jumlah
+Jumlah
+Jumlah
+18,59
+16,92
+15,25
+16,03
+Rata-rata
+Rata-rata
+Rata-rata
+Rata-rata
+3,10
+2,82
+2,54
+2,67
+Maksimum
+Maksimum
+Maksimum
+Maksimum
+8,59
+8,16
+7,61
+8,07
+Pij
+Pij
+Pij
+Pij
+6,46
+6,10
+5,67
+6,01
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+
+11-Des
+Parameter
+Ci
+Lix
+Satuan
+pH
+7
+6-9
+TDS
+215
+1000 mg/L
+TSS
+93
+50
+mg/L
+DO
+6,36
+4
+mg/L
+SITE 5 Total Coliform 438000 5000 mg/L
+Fecal Coliform 76000
+1000 mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+09-Jan
+Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix
+Satuan
+0,33
+0,33
+pH
+8
+6-9
+0,22
+0,22
+TDS
+188
+1000 mg/L
+1,86
+2,35
+TSS
+71
+50
+mg/L
+0,10
+0,10
+DO
+4,66
+4
+mg/L
+87,60
+10,71 Total Coliform 116000 5000 mg/L
+76,00
+10,40 Fecal Coliform 31000 1000 mg/L
+Jumlah
+24,11
+Rata-rata
+4,02
+Maksimum
+10,71
+Pij
+8,09
+Cemar Berat
+Keterangan
+
+29-Jan
+Ci/Lix Ci/Lix baru Parameter
+0,20
+0,20
+pH
+0,19
+0,19
+TDS
+1,42
+1,76
+TSS
+0,20
+0,20
+DO
+23,20
+7,83 Total Coliform
+31,00
+8,46 Fecal Coliform
+18,63
+3,10
+8,46
+6,37
+Cemar Sedang
+
+Ci
+7
+212
+80
+4,24
+271000
+46000
+
+Lix
+6-9
+1000
+50
+4
+5000
+1000
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Satuan
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+Ci/Lix Ci/Lix baru
+0,33
+0,33
+0,21
+0,21
+1,60
+2,02
+0,23
+0,23
+54,20
+9,67
+46,00
+9,31
+21,78
+3,63
+9,67
+7,30
+Cemar Sedang
+
+13-Feb
+20-Feb
+16-Mar
+30-Mar
+Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru
+pH
+7
+6-9
+0,20 0,20
+pH
+7
+6-9
+0,13 0,13
+pH
+6
+6-9
+1,00 1,00
+pH
+7
+6-9
+0,33
+0,33
+TDS
+214 1000 mg/L 0,21 0,21
+TDS
+179 1000 mg/L 0,18 0,18
+TDS
+172 1000 mg/L 0,17 0,17
+TDS
+174 1000 mg/L 0,17
+0,17
+TSS
+82
+50 mg/L 1,64 2,07
+TSS
+57
+50 mg/L 1,14 1,28
+TSS
+39
+50 mg/L 0,78 0,78
+TSS
+42
+50 mg/L 0,84
+0,84
+DO
+6,78
+4
+mg/L 0,02 0,02
+DO
+5,09
+4
+mg/L 0,16 0,16
+DO
+5,09
+4
+mg/L 0,16 0,16
+DO
+6,36
+4
+mg/L 0,05
+0,05
+Total Coliform 271000 5000 mg/L 54,20 9,67 Total Coliform 116000 5000 mg/L 23,20 7,83 Total Coliform 76000 5000 mg/L 15,20 6,91 Total Coliform 95000 5000 mg/L 19,00 7,39
+Fecal Coliform 58000 1000 mg/L 58,00 9,82 Fecal Coliform 31000 1000 mg/L 31,00 8,46 Fecal Coliform 26000 1000 mg/L 26,00 8,07 Fecal Coliform 27000 1000 mg/L 27,00 8,16
+Jumlah
+Jumlah
+Jumlah
+Jumlah
+21,99
+18,04
+17,10
+16,95
+Rata-rata
+Rata-rata
+Rata-rata
+Rata-rata
+3,67
+3,01
+2,85
+2,83
+Maksimum
+Maksimum
+Maksimum
+Maksimum
+9,82
+8,46
+8,07
+8,16
+Pij
+Pij
+Pij
+Pij
+7,41
+6,35
+6,05
+6,10
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+
+11-Des
+Lix Satuan
+6-9
+1000 mg/L
+50
+mg/L
+4
+mg/L
+5000 mg/L
+1000 mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Parameter
+Ci
+pH
+7
+TDS
+265
+TSS
+97
+DO
+5,93
+SITE 6 Total Coliform 438000
+Fecal Coliform 139000
+
+09-Jan
+Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan
+0,33
+0,33
+pH
+8
+6-9
+0,27
+0,27
+TDS
+220
+1000 mg/L
+1,94
+2,44
+TSS
+76
+50
+mg/L
+0,09
+0,09
+DO
+4,24
+4
+mg/L
+87,60
+10,71 Total Coliform 190000 5000 mg/L
+139,00
+11,72 Fecal Coliform 37000 1000 mg/L
+Jumlah
+25,55
+Rata-rata
+4,26
+Maksimum
+11,72
+Pij
+8,81
+Cemar Sedang
+Keterangan
+
+Ci/Lix Ci/Lix baru Parameter
+0,07
+0,07
+pH
+0,22
+0,22
+TDS
+1,52
+1,91
+TSS
+0,23
+0,23
+DO
+38,00
+8,90 Total Coliform
+37,00
+8,84 Fecal Coliform
+20,17
+3,36
+8,90
+6,73
+Cemar Sedang
+
+Ci
+7
+232
+83
+4,66
+271000
+46000
+
+29-Jan
+Lix
+6-9
+1000
+50
+4
+5000
+1000
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Satuan
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+Ci/Lix Ci/Lix baru
+0,33
+0,33
+0,23
+0,23
+1,66
+2,10
+0,20
+0,20
+54,20
+9,67
+46,00
+9,31
+21,84
+3,64
+9,67
+7,31
+Cemar Sedang
+
+13-Feb
+20-Feb
+16-Mar
+30-Mar
+Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru
+pH
+7
+6-9
+0,20 0,20
+pH
+8
+6-9
+0,00 0,00
+pH
+7
+6-9
+0,33 0,33
+pH
+7
+6-9
+0,67
+0,67
+TDS
+242 1000 mg/L 0,24 0,24
+TDS
+218 1000 mg/L 0,22 0,22
+TDS
+192 1000 mg/L 0,19 0,19
+TDS
+203 1000 mg/L 0,20
+0,20
+TSS
+88
+50 mg/L 1,76 2,23
+TSS
+76
+50 mg/L 1,52 1,91
+TSS
+43
+50 mg/L 0,86 0,86
+TSS
+42
+50 mg/L 0,84
+0,84
+DO
+5,09
+4
+mg/L 0,16 0,16
+DO
+4,66
+4
+mg/L 0,20 0,20
+DO
+4,66
+4
+mg/L 0,20 0,20
+DO
+5,93
+4
+mg/L 0,09
+0,09
+Total Coliform 271000 5000 mg/L 54,20 9,67 Total Coliform 116000 5000 mg/L 23,20 7,83 Total Coliform 95000 5000 mg/L 19,00 7,39 Total Coliform 116000 5000 mg/L 23,20 7,83
+Fecal Coliform 58000 1000 mg/L 58,00 9,82 Fecal Coliform 33000 1000 mg/L 33,00 8,59 Fecal Coliform 29000 1000 mg/L 29,00 8,31 Fecal Coliform 33000 1000 mg/L 33,00 8,59
+Jumlah
+Jumlah
+Jumlah
+Jumlah
+22,32
+18,74
+17,29
+18,22
+Rata-rata
+Rata-rata
+Rata-rata
+Rata-rata
+3,72
+3,12
+2,88
+3,04
+Maksimum
+Maksimum
+Maksimum
+Maksimum
+9,82
+8,59
+8,31
+8,59
+Pij
+Pij
+Pij
+Pij
+7,42
+6,46
+6,22
+6,44
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+
+11-Des
+Parameter
+Ci
+Lix Satuan
+pH
+7
+6-9
+TDS
+277
+1000 mg/L
+TSS
+90
+50
+mg/L
+DO
+6,78
+4
+mg/L
+SITE 7 Total Coliform 1898000 5000 mg/L
+Fecal Coliform 116000 1000 mg/L
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+09-Jan
+Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan
+0,33
+0,33
+pH
+8
+6-9
+0,28
+0,28
+TDS
+215
+1000 mg/L
+1,80
+2,28
+TSS
+68
+50
+mg/L
+0,02
+0,02
+DO
+4,66
+4
+mg/L
+379,60
+13,90 Total Coliform 139000 5000 mg/L
+116,00
+11,32 Fecal Coliform 58000 1000 mg/L
+Jumlah
+28,12
+Rata-rata
+4,69
+Maksimum
+13,90
+Pij
+10,37
+Cemar Berat
+Keterangan
+
+29-Jan
+Ci/Lix Ci/Lix baru Parameter
+0,13
+0,13
+pH
+0,22
+0,22
+TDS
+1,36
+1,67
+TSS
+0,20
+0,20
+DO
+27,80
+8,22 Total Coliform
+58,00
+9,82 Fecal Coliform
+20,25
+3,37
+9,82
+7,34
+Cemar Sedang
+
+Ci
+7
+249
+72
+4,24
+116000
+58000
+
+Lix
+6-9
+1000
+50
+4
+5000
+1000
+Jumlah
+Rata-rata
+Maksimum
+Pij
+Keterangan
+
+Satuan
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+Ci/Lix Ci/Lix baru
+0,33
+0,33
+0,25
+0,25
+1,44
+1,79
+0,23
+0,23
+23,20
+7,83
+58,00
+9,82
+20,25
+3,37
+9,82
+7,34
+Cemar Sedang
+
+13-Feb
+20-Feb
+16-Mar
+30-Mar
+Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan Ci/Lix Ci/Lix baru Parameter
+Ci
+Lix Satuan
+pH
+7
+6-9
+0,07
+0,07
+pH
+7
+6-9
+0,07
+0,07
+pH
+6
+6-9
+1,00
+1,00
+pH
+7
+6-9
+TDS
+261
+1000 mg/L 0,26
+0,26
+TDS
+208
+1000 mg/L 0,21
+0,21
+TDS
+201
+1000 mg/L 0,20
+0,20
+TDS
+202
+1000 mg/L
+TSS
+76
+50
+mg/L 1,52
+1,91
+TSS
+53
+50
+mg/L 1,06
+1,13
+TSS
+38
+50
+mg/L 0,76
+0,76
+TSS
+38
+50
+mg/L
+DO
+5,09
+4
+mg/L 0,16
+0,16
+DO
+4,24
+4
+mg/L 0,23
+0,23
+DO
+5,09
+4
+mg/L 0,16
+0,16
+DO
+5,51
+4
+mg/L
+Total Coliform 438000 5000 mg/L 87,60 10,71 Total Coliform 139000 5000 mg/L 27,80 8,22 Total Coliform 95000 5000 mg/L 19,00 7,39 Total Coliform 95000 5000 mg/L
+Fecal Coliform 72000 1000 mg/L 72,00 10,29 Fecal Coliform 44000 1000 mg/L 44,00 9,22 Fecal Coliform 21000 1000 mg/L 21,00 7,61 Fecal Coliform 27000 1000 mg/L
+Jumlah
+Jumlah
+Jumlah
+Jumlah
+23,40
+19,07
+17,13
+Rata-rata
+Rata-rata
+Rata-rata
+Rata-rata
+3,90
+3,18
+2,85
+Maksimum
+Maksimum
+Maksimum
+Maksimum
+10,71
+9,22
+7,61
+Pij
+Pij
+Pij
+Pij
+8,06
+6,89
+5,75
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+Cemar Sedang
+Keterangan
+
+Ci/Lix Ci/Lix baru
+0,33
+0,33
+0,20
+0,20
+0,76
+0,76
+0,12
+0,12
+19,00
+7,39
+27,00
+8,16
+16,97
+2,83
+8,16
+6,10
+Cemar Sedang
+
+LAMPIRAN 6
+
+TABEL MPN 333 MENURUT FORMULA THOMAS
+Jumlah Tabung (+) Gas pada Penanaman
+3 x 10 ml
+3 x 1 ml
+3 x 0,1 ml
+0
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+3
+0
+1
+0
+0
+1
+1
+0
+1
+2
+0
+1
+3
+0
+2
+0
+0
+2
+1
+0
+2
+2
+0
+2
+3
+0
+3
+0
+0
+3
+1
+0
+3
+2
+0
+3
+3
+1
+0
+0
+1
+0
+1
+1
+0
+2
+1
+0
+3
+1
+1
+0
+1
+1
+1
+1
+1
+2
+1
+1
+3
+1
+2
+0
+1
+2
+1
+1
+2
+2
+1
+2
+3
+1
+3
+0
+1
+3
+1
+1
+3
+2
+1
+3
+3
+2
+0
+0
+2
+0
+1
+2
+0
+2
+
+Indeks MPN
+per 100 ml
+0
+3
+6
+9
+3
+6
+9
+12
+6
+9
+12
+16
+9
+13
+16
+19
+4
+7
+11
+14
+7
+11
+15
+18
+11
+15
+19
+23
+15
+19
+23
+27
+10
+
+14
+19
+
+Jumlah Tabung (+) Gas pada Penanaman
+3 x 10 ml
+3 x 1 ml
+3 x 0,1 ml
+2
+0
+3
+2
+1
+0
+2
+1
+1
+2
+1
+2
+2
+1
+3
+2
+2
+0
+2
+2
+1
+2
+2
+2
+2
+2
+3
+2
+3
+0
+2
+3
+1
+2
+3
+2
+2
+3
+3
+3
+0
+0
+3
+0
+1
+3
+0
+2
+3
+0
+3
+3
+1
+0
+3
+1
+1
+3
+1
+2
+3
+1
+3
+3
+2
+0
+3
+2
+1
+3
+2
+2
+3
+2
+3
+3
+3
+0
+3
+3
+1
+3
+3
+2
+3
+3
+3
+
+Indeks MPN
+per 100 ml
+24
+15
+20
+25
+30
+21
+
+26
+31
+37
+27
+33
+38
+44
+29
+
+39
+49
+60
+46
+58
+72
+86
+76
+95
+116
+139
+190
+271
+438
+≥1898
+
+LAMPIRAN 7
+
+TABEL DISTRIBUSI t
+
+LAMPIRAN 8
+
+LAMPIRAN PERATURAN GUBERNUR DIY NOMOR 20 TAHUN 2008
+
+LAMPIRAN 9
+
+DATA SEKUNDER KUALITAS AIR SUNGAI CODE
+
+2015
+
+LAMPIRAN 10
+
+PENGAMATAN MEDIA MIKROBIOLOGI
+
+Tabung positif pada uji pendugaan
+
+Tabung positif pada uji penegasan
+
+Koloni E.coli pada media CCA
+
+

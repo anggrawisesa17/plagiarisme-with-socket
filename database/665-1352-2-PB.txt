@@ -1,0 +1,569 @@
+Volume 2 No 1 – 2016
+ijse.bsi.ac.id
+
+IJSE – Indonesian Journal on Software Engineering
+
+Sistem Informasi Pelayanan Puskesmas Berbasis Web
+Jenie Sundari
+Sekolah Tinggi Manajemen Informatika dan Komputer Nusa Mandiri
+Jenie.jni@bsi.ac.id
+
+ABSTRACT - Patient information systems in health centers is an information system that has a queue,
+registration and medical records of the patient. As for the performance of the system in patient care in
+health centers in generally not optimal because it is still in the processing of patient data and medical
+records are still using books or manuals. Therefore care patients at health centers become ineffective and
+inefficient, because bookkeeping making slow reporting. Method development of patient care systems in
+health centers is waterfall method with the design tools ERD ( Entity Relationship Diagram ) and LRS (
+Logical Record Structure). Implementation of the program using the PHP language with using MySQL
+database. Patient care information system designed aiming to establish a computerized information
+system , making it easier for the health centers process patient data and patient medical records to be
+reported.
+ABSTRAKSI - Sistem informasi pasien pada puskesmas adalah sistem informasi yang mempunyai
+kegiatan antrian, registrasi, dan rekam medis pasien. Adapun kinerja sistem dalam pelayanan pasien
+yang berjalan pada puskesmas secara umum belum optimal karena masih pada pengolahan data pasien
+dan data rekam medis masih menggunakan media pembukuan atau manual. Maka pelayanan pasien
+pada puskesmas menjadi tidak efektif dan efisien, karena media pembukuan memperlambat pembuatan
+laporan. Metode pengembangan sistem pelayanan pasien pada puskesmas menggunakan metode
+waterfall dengan alat perancangan ERD (Entity Relationship Diagram) dan LRS (Logical Record
+Structure). Implementasi program menggunakan bahasa PHP dengan database menggunakan MySQL.
+Sistem informasi pelayanan pasien dirancang bertujuan untuk membangun sistem informasi yang
+terkomputerisasi, sehingga memudahkan pihak puskesmas mengolah data pasien dan rekam medis
+pasien hingga menjadi laporan.
+Kata Kunci : Sistem Informasi, E-Service, ERD, LRS, PHP.
+I.
+
+PENDAHULUAN
+Dampak dari perkembangan dunia
+Teknologi Informasi dan Komunikasi (TIK) pada
+saat ini peningkatan akses terhadap internet
+mulai mengubah gaya hidup manusia dalam
+berbagai aspek, baik itu di dalam bidang
+ekonomi, politik, hingga kehidupan sosial
+masyarakat saat ini sudah diwarnai dengan
+kecanggihan dunia Teknologi Informasi dan
+Komunikasi.
+Berdasarkan
+dari
+data
+Asosiasi
+Penyelenggara Jasa Internet (APJII) dan Badan
+Pusat Statistik (BPS) melakukan kerjasama
+survey pengguna internet pada tahun 2014,
+dapat terlihat bahwa penyedia pelayanan
+elektronik pada pelanggan cukup menonjol.
+Berikut adalah data statistik pengguna internet di
+Indonesia tahun 2014:
+ISSN : 2461‐0690
+
+Sumber : www.apjii.or.id (2014)
+Gambar I.1
+Data Statistik Pengguna Internet
+Dari Gambar I.1 terlihat penyedia pelayanan
+elektronik bagi pelanggan yaitu 61.23 %. Angka
+persentase tersebut dapat membuktikan bahwa
+cukup banyak pengguna internet membutuhkan
+penyedia pelayanan elektronik pada sekarang
+ini.(APJII dan BPS, 2014)
+44
+
+Volume 2 No 1 – 2016
+ijse.bsi.ac.id
+
+IJSE – Indonesian Journal on Software Engineering
+
+Dampak
+dari
+kemunculan
+serta
+perkembangan pelayanan elektronik di dalam
+lingkungan publik dapat terlihat melalui
+kehadiran virtual service atau yang sering kita
+kenal dengan istilah Electronic Service (EService). E-Service ini merupakan layanan
+melalui internet yang biasanya mengacu pada
+peran teknologi dalam memfasilitasi pelayanan
+yang membuat mereka lebih dari layanan
+elektronik.
+Dengan
+pembuatan
+layanan
+elektronik (e-service) tentunya akan memberikan
+manfaat yang positif bagi para badan publik.
+Para badan publik dapat dengan mudah
+melakukan pelayanan ke berbagai daerah yang
+diinginkan dengan memanfaatkan jaringan
+internet yang ada.
+Di dukung dengan peraturan undangundang No. 14 tahun 2008, tentang Keterbukaan
+Informasi Publik adalah salah satu hukum
+Indonesia yang di keluarkan pada tahun 2008
+dan diundangkan pada tanggal 30 April 2008
+dan mulai berlaku dua tahun setelah
+diundangkan. Undang-undang yang terdiri dari
+64 pasal ini pada intinya memberikan kewajiban
+kepada setiap badan publik untuk membuka
+akses
+bagi
+setiap
+pemohon informasi
+publik untuk mendapatkan informasi publik,
+kecuali beberapa informasi tertentu. Beberapa
+puskesmas sudah mulai melakukan persiapan
+awal untuk menuju Open Puskesmas.
+
+II.
+
+KAJIAN LITERATUR
+
+Wibisono (2012) melakukan penelitian pada
+Puskesmas
+di
+daerah
+Demak,
+bahwa
+Puskesmas-Puskesmas ini tiap harinya melayani
+puluhan pasien yang datang. Saat ini sistem
+pengolahan data pasien tiap bagian masih
+dikerjakan dengan cara sistem manual atau
+belum
+memanfaatkan
+sistem
+informasi
+Puskesmas. Dengan masih digunakannya
+sistem manual dan beberapa puskesmas sudah
+menggunakan Simpuskesmas, maka muncul
+berbagai permasalahan dalam pengolahan data
+pasiennya. Masalah-masalah ini diantaranya
+adalah tingginya tingkat kesalahan dalam
+pengolahan data pasien (data pendaftaran, data
+pemeriksaan,
+data
+rujukan,
+dan
+data
+laboratorium) dan lambatnya proses pelayanan
+pasien misalnya pendataan dan pencarian data
+pasien. Masalah lain lagi yaitu puskesmaspuskesmas
+yang
+sudah
+menggunakan
+Simpuskesmas tidak mempunyai kseragaman
+system, karena tiap Puskesmas melakukan
+ISSN : 2461‐0690
+
+swadaya sendiri-sendiri untuk pengadaan
+SIMPUS. Penggunaan Simpuskesmas dengan
+teknologi komputer untuk pengolahan data
+pasien sangat diperlukan, karena dapat
+memberikan
+beberapa
+keuntungan
+dan
+kemudahan dalam pelayanan pasien antara lain:
+mempercepat pelayanan, informasi yang lebih
+akurat, pencarian data lebih cepat, pembuatan
+laporan yang lebih cepat serta keseragaman
+Sistem Informasi Manajemen Puskesmas di
+wilayah Kabupaten Demak.. Dengan adanya
+program
+Simpuskesmas
+berbasis
+cloud
+computing
+kinerja
+Puskesmas
+dapat
+ditingkatkan, sehingga kualitas dan mutu
+pelayanan menjadi meningkat.
+Fitri Nur Rohmah (2013) dalam jurnalnya
+Kesehatan adalah salah satu bagian terpenting
+dalam kehidupan manusia, harta benda yang
+berlimpah tidak akan berarti bila tidak memiliki
+kesehatan yang baik. Oleh karena itu, untuk
+menunjang agar kesehatan dapat terjaga
+dengan baik muncul berbagai fasilitas kesehatan
+masyarakat dan salah satu dari berbagai fasilitas
+kesehatan adalah Puskesmas.
+Pada saat zaman sudah semakin maju seperti
+sekarang ini, kebutuhan akan informasi yang
+tepat dan akurat sangat dibutuhkan, baik di
+instansi pemerintah, perkantoran, dunia kerja
+maupun di dunia kesehatan. Saat ini komputer
+adalah sebagai alat yang berguna untuk
+mengolah data menjadi sebuah informasi yang
+tepat, akurat dan mempunyai daya guna, dan
+memiliki
+peranan
+yang
+penting
+dalam
+menyediakan informasi yang diperlukan.
+Adanya kemajuan teknologi komputer sekarang
+ini kita diberikan beberapa alternatif dalam
+mengolah informasi, salah satunya yaitu dengan
+menggunakan informasi berbasis we. Adanya
+pelayanan yang cepat dan informatif berarti
+meningkatkan mutu pelayanan kepada pasien
+dan untuk mengembangkan sarana manajemen
+jasa Puskesmas Pleret Bantul, maka perlu
+diadakan
+pengendalian
+informasi
+yang
+memadai. Lebih khususnya pada bagian
+pendataan,
+pengolahan
+data
+hendaknya
+dilaksanakan secara cermat cepat dan teratur
+sehingga
+tidak
+menimbulkan
+lambatnya
+informasi data yang akan dihasilkan.
+Pelayanan
+Menurut Wasistiono (2001) pelayanan
+adalah pemberian jasa baik oleh pemerintah,
+pihak swasta atas nama pemerintah ataupun
+pihak swasta kepada masyarakat, dengan atau
+45
+
+Volume 2 No 1 – 2016
+ijse.bsi.ac.id
+
+IJSE – Indonesian Journal on Software Engineering
+
+tanpa pembayaran guna memenuhi kebutuhan
+dan kepentingan masyarakat. Menurut S.
+Lukman (2004) dalam Sagita(2010), pelayanan
+adalah suatu kegiatan atau urutan kegiatan yang
+terjadi dalam interaksi langsung antara
+seseorang dengan orang lain atau mesin secara
+fisik, dan menyediakan kepuasan pelanggan.
+Website
+Menurut Hidayat, (2010:2) website atau
+situs dapat diartikan sebagai kumpulan
+halaman-halaman yang digunakan untuk
+menampilkan informasi teks, gambar diam atau
+gerak, animasi, suara, dan atau gabungan dari
+semuanya, baik yang bersifat statis maupun
+dinamis yang membentuk satu rangkaian
+bangunan yang saling terkait, yang masingmasing dihubungkan dengan jaringan-jaringan
+halaman”.
+Menurut Simarmata, (2010:51) website
+dapat diartikan sebagai alat bantu untuk
+menciptakan sistem informasi global yang
+mudah berdasarkan hypertext.
+
+Analisa Kebutuhan Sistem
+Pada saat ini sistem registrasi dan
+pengambilan nomor antrian pasien puskesmas
+masih
+menggunakan
+sistem
+penerimaan
+manual, dimana pasien dan petugas harus
+bertemu langsung dalam melakukan registrasi
+dan mengambil nomor antrian untuk menemui
+dokter. Hal tersebut dinilai kurang efektif dalam
+perkembangan teknologi yang semakin canggih.
+Rancangan sistem ini diharapkan mampu
+mempermudah
+proses
+registrasi
+dan
+pengambilan nomor antrian pasien yang
+dilakukan oleh pihak puskesmas. Karena proses
+registrasi dan pengambilan nomor secara online
+ini dilakukan melalui sistem berbasis web.
+IV.
+HASIL DAN PEMBAHASAN
+4.1 Rancangan Basis Data
+A. ntity Relationship Diagram (ERD)
+
+III. Metode Penelitian
+Metode penelitian yang digunakan dalam
+pengembangan perangkat lunak adalah mdel
+waterfall, yaitu model yang menyediakan
+pendekatan alur hidup perangkat lunak secara
+sekuensial atau terurut dimulai dari analisa,
+desain, pengkodean, pengujian dan tahap
+pendukung menurut Rosa A.S (2014:25)
+1. Analisa sistem
+Menganalisa sistem proses pembuatan berita
+sampai dengan penyebaran berita
+2. Desain
+Desain perangkat lunak termasuk struktur
+data, arsitektur perangkat lunak, representasi
+antar muka, dan prosedur pengkodean.
+3. Pengkodean
+Desain ditranslasikan kedalam program
+komputer sesuai dengan desain yang telah
+dibuat.
+4. Pengujian
+Pengujian pada perangkat lunak dari segi
+logika dan fungsional
+5. Pendukung dan Pemeliharaan
+Tahap pendukung atau pemeliharaan dapat
+mengulangi
+proses
+pengembangan
+perangkat lunak kembali.
+ISSN : 2461‐0690
+
+Gambar IV.1.
+Entity Relationship Diagram (ERD)
+
+B.
+
+Logical Relational Structure (LRS)
+
+46
+
+Volume 2 No 1 – 2016
+ijse.bsi.ac.id
+
+IJSE – Indonesian Journal on Software Engineering
+
+Gambar IV.4. Halaman Admin
+3.
+
+Halaman Pengunjung
+Halaman pengunjung disini adalah
+halaman untuk pengunjung web yang belum
+menjadi pasien dimana pengunjung tersebut
+dapat melihat jadwal dokter dan informasi terkait
+puskesmas. Adapun halaman ini memungkinkan
+pengujung tersebut melakukan pendaftaran
+sebagai pasien.
+Gambar IV.2.
+Logical Relational Structure (LRS)
+4.2 Hasil
+1.
+
+Halaman Login Admin
+Admin harus melakukan login terlebih
+dahulu untuk dapat mengelolah dan mengubah
+data didalam halaman admin.
+Gambar IV.5. Halaman Pengunjung
+4.
+
+Halaman Tambah Data Obat
+Halaman tambah data obat disini ialah
+halaman yang dikelola oleh admin, dimana
+admin dapat menambah suatu data obat baru
+guna menambah stok obat yang baru.
+
+Gambar IV.3.
+Halaman Login Admin
+2.
+
+Halaman Admin
+Halaman admin disini berfungsi untuk
+mengelola dan mengubah data obat, data
+dokter, data ruangan, data petugas, rekam
+medis dan laporan – laporan transaksi yang
+terjadi pada proses berjalannya sistem rekam
+medis hingga cetak resep untuk pasien.
+
+ISSN : 2461‐0690
+
+Gambar IV.6. Halaman Tambah Data Obat
+5.
+
+Halaman Pasien
+Halaman pasien disini adalah halaman
+bagi pengunjung yang telah menjadi pasien,
+dimana pasien dapat melakukan pengambilan
+nomor antrian. Namun juga dapat melihat
+informasi yang terkait pada puskesmas
+47
+
+Volume 2 No 1 – 2016
+ijse.bsi.ac.id
+
+IJSE – Indonesian Journal on Software Engineering
+
+8.
+
+Halaman Rekam Medis
+Halaman rekam medis disini ialah
+sebagai transaksi dimana admin atau petugas
+melakukan pengiputan nama dokter dan pasien
+serta hasil diagnosa dokter dan juga obat –
+obatan yang akan di input kedalam nota resep.
+
+Gambar IV.7. Halaman Pasien
+6.
+
+Halaman Daftar Pasien
+Pada Halaman ini bagi pengunjung yang
+belum terdaftar sebagai pasien, dapat mendaftar
+sebagai pasien baru dengan mengisi tiap kolom
+yang disediakan.
+
+Gambar IV.10. Halaman Rekam Medis
+9.
+
+Gambar IV.8. Halaman Daftar Pasien
+
+Halaman Jadwal Dokter
+Pada halaman ini pengunjung dan
+pasien melihat jadwal dokter yang sedang
+bertugas pada puskesmas berserta jam praktek
+dan ruangannya dan juga dapat melakukan
+reservasi kepada dokter yang dituju. Jika
+melakukan ambil nomor antrian hanya pasien
+yang dapat melakukan pengambilan nomor dan
+pengunjung akan di arahkan ke halaman
+pendaftaran pasien.
+
+7.
+
+Halaman Tambah Jadwal Dokter
+Halaman tambah jadwal dokter disini
+ialah sebagai inputan jadwal dokter dimana
+admin melakukan pengiputan nama dokter dan
+nama ruangan yang digunakan serta hari, jam
+awal dan akhir praktek dokter. Kemudian data
+tersebut akan tersimpan kedalam database dan
+akan tampil ke halaman pasien di antar muka
+jadwal dokter.
+
+Gambar IV.11. Halaman Jadwal Dokter
+10.
+
+Gambar IV.9. Halaman Tambah Jadwal
+Dokter
+
+ISSN : 2461‐0690
+
+Halaman Cetak Nomor Urut Pasien
+Pada halaman ini pasien mencetak
+nomor urut yang akan dibawa ke puskesmas
+untuk berobat kepuskesmas. Di halaman cetak
+nomor urut pasien akan tercetak nama pasien
+yang akan berobat, nama dokter, nama ruangan,
+tanggal buka praktek dan jam prakter dokter.
+
+48
+
+Volume 2 No 1 – 2016
+ijse.bsi.ac.id
+
+IJSE – Indonesian Journal on Software Engineering
+
+Gambar IV.12. Cetak Nomor Urut Pasien
+V.
+
+KESIMPULAN
+Dari
+pembahasan
+mengenai
+perancangan e – service pada puskesmas.
+Penulis menyimpulkan dari keseluruhan pokok
+bahasan yaitu sebagai berikut:
+a. Aplikasi sistem informasi perancangan eservice ini merupakan sebuah aplikasi yang
+bermanfaat dalam media informasi sebagai
+bentuk perkembangan teknologi dan
+informasi.
+b. Perancangan e – service pada puskesmas
+yang di ajukan memberi suatu alternatif
+pemecahan
+masalah
+dalam
+sistem
+registrasi dan pengambilan nomor untuk
+pasien.
+c. Dengan dibuatnya web ini, pasien dapat
+dengan mudah melihat informasi mengenai
+jadwal dokter yang ada serta informasi
+terkait puskesmas.
+d. Dengan adanya website ini dapat
+meningkatkan efektifitas dan efisiensi dari
+segi pelayanan, waktu dan biaya pada
+puskesmas.
+e. Komputerisasi
+dapat
+menjadi
+solusi
+alternatif dari pemecahan masalah dalam
+pengolahan
+data
+registrasi
+dan
+pengambilan nomor antrian pasien.
+REFERENSI
+[1] A.S, Rosa dan Shalahuddin, M. 2013.
+Rekayasa perangkat lunak terstruktur dan
+berorientasi objek. Bandung : Informatika
+[2] Hidayat. Rahmat. 2010. Cara praktis
+membangun website gratis. Jakarta : PT.
+Elex Media Komputindo Kompas, Gramedia
+[3] Simarmata. Janner.
+2010. Rekayasa
+perangkat lunak. Yogyakarta : CV. Andi
+Offset
+[4] Wasistiono, Danu. 2001. Kapita Selekta
+Manajemen Pemerintahan Daerah
+[5] Wibisono, Setyawan dan Siti Munawaroh.
+Sistem
+Informasi
+Puskesmas
+
+ISSN : 2461‐0690
+
+(Simpuskesmas) berbasis Cloud Computing.
+Jurnal Teknologi Informasi DINAMIK Vol 17
+No. 2 2012
+[6] Rohmah, Fitri Nur. Sistem Informasi
+Pelayanan Kesehatan berbasis Web di
+Puskesmas Pleret Bantul. Di ambil dari
+:http://
+http://repository.amikom.ac.id/files/Publikasi
+_09.11.2901.pdf (05 Juni 2015)
+[7] Gunawa Susanto, Sukadi, Sistem Informasi
+Rekam Medis Pada Rumah Sakit Umum
+Daerah (RSUD) Pacitan Berbasis Web
+Base, Vol 3, No 4 (2011): Speed 12 – 2011
+[8] Hendik Mulyanarko Bambang Eka Purnama
+Sukadi, Pembangunan Sistem Informasi
+Billing Pada Rumah Sakit Umum Daerah
+(Rsud) Kabupaten Pacitan Berbasis Web,
+JTIK Vol 4, No 2 (2013): Agustus
+[9] Bambang Eka Purnama (2011), Cara
+Mudah Membuat Web Dengan Wordpress,
+Mahameru Press, Yogyakarta
+[10] Bambang Eka Purnama (2014), Cara
+Mudah Membuat Web Dengan CMS
+Wordpress Pada Domain dan Hosting
+Gratisan, Graha Ilmu, Yogyakarta
+[11] Bambang Eka Purnama (2016), Konsep
+Dasar Internet, Graha Ilmu, Yogyakarta
+[12] Bambang Eka Purnama, Sri Hartati
+(2012), Convenience and Medical Patient
+Database Benefits and Elasticity for
+Accessibility Therapy in Different Locations,
+(IJACSA) International Journal of Advanced
+Computer Science and Applications, Vol. 3,
+No. 9, 2012
+[13] Bambang Eka Purnama, Ahmad Ashari
+(2013), Distributed Data Patient In Medical
+Record Information System, International
+Journal Of Scientific & Technology Research
+(IJSTR) Volume 2, Issue 8, August 2013
+[14] Muhammad Multazam, Bambang Eka
+Purnama, Influence Of Classified Ad On
+Google Page Rank And Number Of Visitors,
+Journal of Theoretical and Applied
+Information Technology, Vol. 81. No. 2 –
+2015
+[15] Karya Gunawan, Bambang Eka Purnama
+(2015), Implementation of Location Base
+Service on Tourism Places in West Nusa
+Tenggara by using Smartphone, (IJACSA)
+International Journal of Advanced Computer
+Science and Applications, Vol. 6, No. 8,
+2015
+
+49
+
+

@@ -1,0 +1,966 @@
+Jurnal Keteknikan dan Sains (JUTEKS) – LPPM UNHAS
+Vol. 1, No.1, Juni 2018
+
+23
+
+IMPLEMENTASI APLIKASI RUMAH PINTAR BERBASIS ANDROID DENGAN
+ARDUINO MICROCONTROLLER
+Muhamad Muslihudin1*), Willy Renvillia2), Taufiq3), Andreas Andoyo4), Fery Susanto5)
+1,2,3,4
+
+Prodi Sistem Informasi, STMIKPringsewu Lampung
+Prodi Teknik Informatika, STMIKSurya Intan Lampung Utara
+E-mail1*) : muslihudinstmikpsw@gmail.com
+2)
+renvilliawilly@gmail.com
+Jl. Wisma Rini No. 09 pringsewu Lampung
+Telp (0729) 22240, Website : www.stmikpringsewu.ac.id
+
+5
+
+ABSTRAK
+
+Smart home adalah salah satu dari sistem pengedali rumah yang mememberikan
+kenyamanan kepada pemilik rumah untuk mengendalikan peralatan elektronik menggunakan
+android. Konsep dari smart home adalah sebuah sistem yang ditujukan untuk rumah agar kita
+dapat tinggal dengan nyaman. Konsep ini dapat diterapkan dengan mengatur peralatan
+elektronik pada rumah kita. Dengan pengembangan teknologi kita dapat mengambil
+keuntungan dari android sebagai home controller. Sistem saklar pada lampu dapat digantikan
+dengan menggunakan perangkat relay dan di kendalikan melalui sebuah perangkat
+mikrokontroler berbasis jaringan sehingga dapat terhubung ke smart phone yang telah
+terinstall program pengendali smart home.
+Kata Kunci: smart home, relay, mikrokontroler, smart phone.
+ABSTRACT
+Smart Home is one of the house control system that gives convenience to the house owner to
+control electronic devices using android. The smart home concept is a system aimed at our
+house so that we can comfortably live there. This concept can be applied by managing the
+electronic devices in our house. With the development of the technology we can take
+advantage from android to serve as a home controller. Switch system in lamp can be replaced
+by using relay devices and controlled by a network -based microcontroller so it can be
+connected to a smart phone that has a smart home controller program installed.
+Keywords : smart home, relay, microcontroller, smartphone
+1.
+1.1
+
+PENDAHULUAN
+
+Latar Belakang
+Perkembangan teknologi saat ini
+berkembang sangat pesat, dan dapat
+dirasakan dalam dunia industry maupun
+masyarakat. Salah satunya yaitu dengan
+pemanfaatan teknologi yang ada, seperti
+pembuatan rumah pintar (Smart Home).
+Rumah pintar atau lebih dikenal dengan
+istilah smart home adalah sebuah tempat
+tinggal atau kediaman yang menghubungkan
+jaringan komunikasi dengan peralatan listrik
+yang
+dimungkinkan dapat dikontrol,
+
+dimonitor atau diakses dari jarak jauh. Smart
+home juga dapat meningkatkan efisiensi,
+kenyamanan
+dan
+keamanan
+dengan
+menggunakan teknologi secara otomatis
+(Grabowski and Dziwoki 2009).
+Dwisnanto
+Putro
+(2014)
+hasil
+penelitian didapatkan bahwa perancangan
+shading device (perangkat bayangan) yang
+digunakan untuk sinar matahari langsung
+yang masuk pada rumah tinggal. Secara
+otomatis perangkat ini akan menutup dan
+membuka jendela rumah berdasarkan
+parameter yang ditentukan. Nilai masukan
+parameter
+yang
+digunakan
+untuk
+
+E-ISSN : 2621 - 7376
+
+Jurnal Keteknikan dan Sains (JUTEKS) – LPPM UNHAS
+Vol. 1, No.1, Juni 2018
+
+mengendalikan yaitu nilai cahaya, nilai suhu
+dan kelembapan pada ruangan(Putro 2014).
+Menurut penelitian Imam Abdul Rozaq
+dan Noor Yulita Dwi Setyaningsih (2017)
+bahwa dengan menggunakan dua mode yaitu
+mode manual dan mode otomatis, dengan
+perincian cara pengendalian pada masingmasing beban. Pertama untuk lampu pada
+kondisi otomatis akan menggunakan LDR
+sehingga tidak perlu menyalakan lampu pada
+malam hari dan mematikan lampu pada siang
+hari. Pada kondisi manual, pada tombol
+ditekan pertama untuk menyalakan lampu
+dan ditekan yang kedua akan mematikan
+lampu. Hasil penelitan menunjukkan bahwa
+alat bekerja dengan baik, dimana untuk
+kondisi kendali otomatis, pada waktu kondisi
+siang hari maka lampu akan mati dan pada
+kondisi malam hari maka lampu akan
+menyala,
+kemudian
+untuk
+kondisi
+manualnya, pada sistem dapat dilakukan
+kendali dengan menggunakan remote sejauh
+90 meter(Rozaq Imam Abdul 2017) .
+Fauzan
+Masykur
+dan
+Fiqiana
+Prasetiyowati (2016). Aplikasi rumah pintar
+(smart home) pengendali peralatan elektronik
+rumah tangga berbasis web.Kontrol peralatan
+elektronik dapat dilakukan dengan aplikasi
+rumah pintar (smart home) pengendali
+peralatan elektronik rumah tangga berbasis
+web dan dapat dikontrol dengan jarak jauh.
+Aplikasi rumah pintar (smart home) ini dapat
+mempermudah pengguna dalam mengontrol
+peralatan elektronik rumah tangga seperti
+lampu, AC dan TV sehingga dapat
+mengurangi adanya pemborosan listrik ketika
+pengguna lupa untuk mematikan peralatan
+elektronik rumah tangga ketika keadaan
+diluar rumah atau dimanapun pengguna
+berada. Aplikasi ini menggunakan Raspberry
+Pi yang berfungsi sebagai server yang akan
+menghubungkan antara hardware dan
+software yang dikontrol melalui web sebagai
+interface yang digunakan pengguna untuk
+memasukan input dan menghasilkan output.
+Pembuatan web ini menggunakan sistem
+operasi Rasbian dimana software yang
+digunakan adalah PHP5. Fitur yang ada pada
+web ini adalah berupa 6 tombol, dimana 3
+tombol berwarna biru sebagai aturan on dan
+
+24
+
+3 tombol berwarna merah sebagai aturan off
+(Masykur and Prasetiyowati 2016).
+Permasalahan yang dihadapi oleh
+penghuni rumah biasa adalah ketakutan
+ketika hendak pergi meninggalkan rumah.
+Karena ketika rumah ditinggal, pemilik
+rumah,terkadang akan memikirkan apakah
+alat elektronik ada yang masih hidup atau
+sudah dimatikan semua dan apakah rumah
+aman? Penggunaan aplikasi rumah pintar
+(smart home) akan memudahkan pemilik
+rumah ketika akan berpergian jauh tanpa
+harus memikirkan keadaan rumah. Serta
+penggunaan rumah pintar (smart home) ini
+meningkatkan
+efisiensi,
+kenyamanan,
+keamanan
+serta
+penghematan
+biaya
+pembayaran listrik.
+1.2
+
+Rumusan Masalah
+Berdasarkan penjelasan pada latar
+belakang masalah yang telah dikemukakan,
+maka rumusan masalahnya adalah bagaimana
+membuat suatu sistem kendali lampu rumah
+secara otomatis berbasis android?
+1.3
+
+Tujuan Penelitian
+Adapun tujuan penelitian yang ingin
+dicapai yaitu untuk menghasilkan suatu
+aplikasi yang mempermudah penghuni
+rumah untuk menghidupkan lampu melalui
+android. Serta mempermudah penyandang
+cacat fisik dan orang tua yang susah berdiri
+agar lebih mudah dalam menghidupkan
+lampu tanpa perlu menekan tombol saklar
+yang ada di dinding.
+1.4
+
+Manfaat Penelitian
+Adapun manfaat dari penelitian ini
+
+adalah:
+1. Meningkatkan
+efisiensi,
+kenyamanan
+dan
+keamanan
+dengan menggunakan teknologi
+secara otomatis.
+2. Menghemat biaya listrik.
+3. Mengurangi pemborosan listrik.
+II.
+
+LANDASAN TEORI
+
+2.1
+
+Sistem Informasi
+Sistem informasi merupakan kombinasi
+teratur
+dari
+orang-orang,
+hardware,
+E-ISSN : 2621 - 7376
+
+Jurnal Keteknikan dan Sains (JUTEKS) – LPPM UNHAS
+Vol. 1, No.1, Juni 2018
+
+software,jaringan komunikasi, dan sumber
+daya data yang mengumpulkan, mengubah,
+dan menyebarkan informasi dalam sebuah
+organisasi. Manusia bergantung pada sistem
+informasi untuk melakukan komunikasi
+dengan peralatan fisik (hardware), instruksi
+pemrosesan
+informasi
+atau
+prosedur
+(software),jaringan komunikasi (network),
+dan data (data resources)(O’Brien James
+2007). Sistem Informasi adalah kombinasi
+dari manusia, fasilitas atau alat teknologi,
+media, prosedur dan pengendalian yang
+bermaksud menata jaringan komunikasi yang
+penting, proses atas transaksi-transaksi
+tertentu dan
+rutin yang
+membantu
+manajemen dan pemakai intern maupun
+ekstern dan menyediakan dasar pengambilan
+keputusan yang tepat (John Nash 1995).
+Definisi Android
+(Hartati et al. 2017) android adalah
+sebuah sistem operasi pada handphone yang
+bersifat terbuka dan berbasis Linux. Android
+menyediakan platform terbuka (open source)
+sehingga
+memudahkan
+bagi
+para
+pengembang untuk menciptakan aplikasi
+mereka
+sendiri
+android
+awalnya
+dikembangkan oleh Android, Inc., dengan
+dukungan Google, yang kemudian android
+dibeli oleh Google pada tahun 2005.
+(Samsudin, Imam 2018) Sistem operasi ini
+dirilis secara resmi pada tahun 2007,
+bersamaan dengan didirikannya Open
+Handset Alliance (Budi, Imam, and Arif
+2012).
+2.3
+
+2.4
+
+Definisi Arduino
+(Silvia, Haritman, and Muladi 2014)
+Arduino Uno adalah suatu papan elektronik
+yang mengandung mikrokontroler ATMega
+328 (sebuah keping yang secara fungsional
+bertindak seperti sebuah komputer). Piranti
+ini dapat dimanfaatkan untuk mewujudkan
+rangkaian elektronik dari yang sederhana
+hingga yang kompleks. Pengendalian LED
+hingga
+pengontrolan
+robot
+dapat
+diimplementasikan dengan menggunakan
+papan berukuran relatif kecil ini. Arduino
+Uno memiliki 14 digital pin input / output
+yang mana 6 pin dapat digunakan sebagai
+outputPWM, 6 analog input, crystal
+
+25
+
+osilator16MHz, koneksi USB, jack power,
+kepala ICSP dan tombol reset. Hal tersebut
+adalah semua yang diperlukan untuk
+mendukung
+sebuah
+rangkaian
+mikrokontroler.
+2.5
+
+Definisi MIT App Inventor
+MIT App Inventor adalah tool
+pemrograman
+berbasis
+blok
+yang
+memungkinkan semua orang, bahkan
+pemula, untuk memulai pemrograman dan
+membangun aplikasi yang berfungsi penuh
+untuk perangkat Android. MIT App Inventor
+ini dikembangkan oleh Google dan MIT
+untuk mengenalkan dan mengembangkan
+pemrograman android (Riza 2002).
+2.6
+
+Definisi Bluetooth Module
+Bluetooth module merupakan module
+koneksi nirkabel pada frekuensi 2.4GHz
+dengan default koneksi hanya sebagai
+SLAVE.Module Bluetooth ini sangat mudah
+digunakan dengan mikrokontroler untuk
+membuat aplikasi wireless. Jarak efektif
+module Bluetooth sebesar 10 meter,
+meskipun dapat mencapai lebih dari 10 meter
+tetapi kualitas koneksi akan berkurang
+(Setiawan 2010).
+2.7 Definisi Module Relay
+Module relay merupakan suatu piranti
+yang menggunakan elektromagnetik untuk
+mengoperasikan seperangkat kontak saklar.
+Susunan sederhana module relay terdiri dari
+kumparan kawat penghantar yang dililitkan
+pada inti besi. Bila kumparan diberi energi,
+medan magnet yang terbentuk menarik
+amatur berporos yang digunakan sebagai
+pengungkit mekanisme saklar (Jaelani
+Iskandar, St, and Eng 2016).
+III. METODE PENELITIAN
+3.1
+
+Tahap Pengumpulan Data
+a. Metode Observasi
+Pada tahap observasi ini, peneliti
+melakukan suatu pengamatan secara
+langsung terhadap rumah yang belum
+menggunakan aplikasi smart home.
+Kemudian peneliti akan melakukan
+analisis system apa yang dibutuhkan
+untuk memecahkan masalah yang
+E-ISSN : 2621 - 7376
+
+Jurnal Keteknikan dan Sains (JUTEKS) – LPPM UNHAS
+Vol. 1, No.1, Juni 2018
+
+dialami pemilik rumah yang belum
+menggunakan aplikasi smart home.
+b. Metode
+Penelitian
+Studi
+Eksperimen
+Pada tahap ini, peneliti akan
+melakukan
+penelitian
+dengan
+menggunakan software dan hardware
+yang dirancang kinerjanya, lalu
+dilakukan
+pengujian
+terhadap
+pembuatan aplikasi. Setelah itu aplikasi
+akan dianalisa, apakah aplikasi sudah
+sesuai dengan keinginan atau belum.
+Jika sudah sesuai dengan keinginan
+maka akan disimpulkan hasil yang
+didapatkan.
+c. Metode Kepustakaan
+Pada tahap penelitian ini, peneliti
+juga
+menggunakan
+metode
+kepustakaan yang berupa internet dan
+media cetak.Media internet dapat
+berupa jurnal, E-Book, sedangkan
+media cetak berupa buku-buku materi.
+3.2 Metode Pengembangan Sistem
+Informasi
+I Wayan Rata (2007) menyatakan
+bahwa pengembangan sistem informasi
+adalah suatu proses memodifikasi atau
+mengubah
+bagian-bagian
+atau
+keseluruhan sistem informasi. Proses
+ini
+membutuhkan
+komitmen
+substansial mengenai waktu, sumber
+daya
+dan
+aktivitas
+yang
+berkesinambungan[13].
+(Muhammad Muslihudin 2016)
+Pengembangan
+sistem
+informasi
+dengan pendekatan tradisional yaitu
+SDLC (Systems Development Life
+Cycle).
+SDLC
+merupakan
+pengembangan yang berfungsi sebagai
+sebuah
+mekanisme
+untuk
+mengidentifikasikan perangkat lunak.
+Tahapan dalam pengembangan
+sistem dinamakan System Development
+Life Cycle, karena setiap tahapan
+sistem
+akan
+dikerjakan
+secara
+berurutan dari perencanaan, analisis,
+desain, implementasi dan perawatan.
+
+26
+
+Berikut adalah gambaran dari System
+Development Life Cycle:
+Perancangan Sistem
+
+Analisa Sistem
+
+Desain Sistem
+
+Implementasi
+Sistem
+
+Perawatan Sistem
+
+Gambar 3.2. Bagan System
+Development Life Cycle
+3.3
+
+Kerangka Pikir Penelitian
+Kerangka pikir dalam penelitian ini
+menjelaskan tentang perancangan sistem
+informasi berbasis android tentang rumah
+pintar (smart home).Penelitian ini bertujuan
+untuk memudahkan penghuni rumah tinggal
+biasa dan orang yang memiliki cacat fisik
+serta lansia, agar lebih mudah untuk
+mengendalikan peralatan elektronik rumah
+tangga
+yang salah satunya
+adalah
+pengendalian pada lampu.
+Mulai
+
+Identifikasi Masalah
+
+Kajian Pustaka
+
+Pengumpulan Data
+
+Perancangan Aplikasi
+
+Pengujian Sistem
+Ya
+
+Ada
+Kesalahan
+Tidak
+
+Implementasi dan
+Evaluasi Masalah
+
+Hasil dan Kesimpulan
+
+Selesai
+
+Gambar 3.3 Diagram flowchart
+Pada gambar 3.3 menggambarkan
+bahwa proses untuk membuat sebuah
+penelitian yaitu mengidentifikasi masalah,
+melakukan kajian pustaka, mengumpulkan
+data, merancang aplikasi, pengujian sistem,
+apabila terjadi masalah pada sistem maka
+E-ISSN : 2621 - 7376
+
+Jurnal Keteknikan dan Sains (JUTEKS) – LPPM UNHAS
+Vol. 1, No.1, Juni 2018
+
+akan dilakukan perancangan ulang kembali,
+jika tidak ada masalah pada sistem maka
+dilakukan
+implementasi
+sistem
+dan
+mengevaluasi hasil dan menyimpulkan hasil
+penelitian.
+IV.
+4.1
+
+HASIL DAN PEMBAHASAN
+
+Perancangan Sistem
+
+27
+
+Gambar 4.1.1 Diagram Use Case
+4.1.2.Diagram Activity
+Activity diagram merupakan gambaran
+sebuah rangkaian aliran dari aktivitas yang
+digunakan untuk mendeskripsikan aktivitas
+lainnya seperti use case atau interaksi.
+
+Aplikasi rumah pintar (smart home)
+dapat digunakan untuk mengendalikan
+peralatan elektronik rumah tangga seperti
+lampu.Pengguna dapat mengendalikan lampu
+menggunakan
+sebuah
+aplikasi
+yang
+terhubung dengan mikrokontroler.Berikut
+adalah gambaran dari rangkaian aplikasi
+rumah pintar (smart home).
+Aplikasi
+Smarthome
+
+Mikrokontroller
+Arduino Uno
+
+Peralatan
+Elektronik
+
+Lampu
+
+Gambar 4.1 Rangkaian Aplikasi Smarthome
+
+4.1.1.Diagram Use Case
+Use case diagram merupakan abstraksi
+dari interaksi antara sistem dan actor. Use
+case bekerja dengan cara mendeskripsikan
+tipe interaksi antara user dalam sebuah
+sistem dengan sistemnya sendiri melalui
+sebuah cerita bagaimana sistem itu dipakai.
+Sabungkan Bluetooth
+
+Tekan Tombol On 1
+
+Lampu 1 Menyala
+
+Tekan Tombol On 2
+
+Lampu 2 Menyala
+
+Tekan Tombol On 3
+
+Lampu 3 Menyala
+
+Tekan Tombol On 4
+
+Lampu 4 Menyala
+
+Tekan Tombol On All
+
+Semua Lampu Menyala
+
+Tekan Tombol Off 1
+
+Lampu 1 Mati
+
+Tekan Tombol Off 2
+
+Lampu 2 Mati
+
+Tekan Tombol Off 3
+
+Lampu 3 Mati
+
+Tekan Tombol Off 4
+
+Lampu 4 Mati
+
+Tekan Tombol Off
+All
+
+Semua Lampu Mati
+
+User
+
+E-ISSN : 2621 - 7376
+
+Jurnal Keteknikan dan Sains (JUTEKS) – LPPM UNHAS
+Vol. 1, No.1, Juni 2018
+
+28
+
+yang dikirim antara object serta interaksi
+antara object.
+
+Hidupkan Bluetooth
+[Tidak Aktif]
+
+Sambungkan
+Bluetooth
+Bluetooth
+
+Menu Utama
+
+: User
+
+[Aktif]
+
+Menu
+Lampu
+
+1 : Menyambungkan Bluetooth()
+2 : Masuk ke menu aplikasi()
+3 : Memilih menu lampu()
+
+Menghubungkan bluetooth smartphone ke module bluetooth mikrokontroler
+4 : Menampilkan menu lampu()
+
+Kendali Lampu
+
+Tekan Tombol On
+1
+
+Lampu 1 Menyala
+
+Gambar 4.1.3 Squence Diagram
+Tekan Tombol On
+2
+
+Lampu 2 Menyala
+
+Tekan Tombol On
+3
+
+Lampu 3 Menyala
+
+Tekan Tombol On
+4
+
+Lampu 4 Menyala
+
+Tekan Tombol On
+All
+
+Semua Lampu Menyala
+
+Tekan Tombol
+Off 1
+
+Lampu 1 Mati
+
+Tekan Tombol
+Off 2
+
+Lampu 2 Mati
+
+4.2. Desain Antar Muka
+Halaman awal pada aplikasi ini
+sebelum user harus menyambungkan koneksi
+bluetooth pada smartphone yang akan
+dikoneksikan dengan module bluetooth yang
+ada pada mikrokontroler, yaitu sebagai
+berikut:
+
+Gambar 4.2.1 Tampilan awal
+menyambungkan Bluetooth
+Tekan Tombol
+Off 3
+
+Lampu 3 Mati
+
+Tekan Tombol
+Off 4
+
+Lampu 4 Mati
+
+Tekan Tombol
+Off All
+
+Semua Lampu Mati
+
+Halaman kedua pada aplikasi ini, user
+harus
+memilih
+alamat
+bluetooth
+mikrokontroler yang sudah terhubung dengan
+smartphone, yaitu sebagai berikut:
+
+Gambar 4.1.2 Activity Diagram
+4.1.3.Diagram Squence
+Squence diagram merupakan diagram
+yang menggambarkan kolaborasi dinamis
+antara sejumlah object. Squence diagram
+berguna untuk menunjukkan rangkaian pesan
+
+Gambar 4.2.2 Alamat bluetooth pada
+mikrokontroler
+
+E-ISSN : 2621 - 7376
+
+Jurnal Keteknikan dan Sains (JUTEKS) – LPPM UNHAS
+Vol. 1, No.1, Juni 2018
+
+Ketika user sudah terhubung dengan
+mikrokontroler, maka pada halaman ketiga
+ini user akan diberikan pilihan lampu mana
+yang akan dihidupkan. Halaman ketiga ini
+merupakan saklar yang akan digunakan
+untuk menghidupkan lampu, yaitu sebagai
+berikut:
+
+29
+
+Gambar 4.3.2 Ketika lampu 1 dan 4
+dinyalakan
+
+Gambar 4.3.3 Ketika semua lampu
+dinyalakan
+
+Gambar 4.2.3 Tampilan saklar pada
+smartphone
+4.3. Implementasi
+Berikut merupakan hasil implementasi
+dari
+proses
+menghidupkan
+lampu
+menggunakan aplikasi smart home. User
+akan diberikan pilihan akan menghidupkan
+lampu mana terlebih dahulu.
+
+4.4. Analisa Hasil Penelitian
+Berikut merupakan hasil pengujian
+pengontrolan lampu menggunakan aplikasi
+pada smartphone.
+No
+1.
+2.
+3.
+4.
+5.
+
+Jenis
+Peralatan
+Lampu 1
+Lampu 2
+Lampu 3
+Lampu 4
+On /Off all
+
+Kondisi
+On
+Off
+Berhasil Berhasil
+Berhasil Berhasil
+Berhasil Berhasil
+Berhasil Berhasil
+Berhasil Berhasil
+
+Tabel 4.4 Pengujian Pengontrolan
+
+Gambar 4.3.1 Ketika lampu belum
+dihidupkan
+
+4.5. Quisioner
+Pada penelitian ini, peneliti juga
+melakukan quisioner kepada 10 pengguna
+aplikasi tentang aplikasi smart home yang
+telah dibuat. Berikut adalah table quisioner:
+Pada table quisioner diatas yang telah
+diberikan kepada 10 orang dapat ditarik
+kesimpulan bahwa:
+1. Dari 10 orang yang mengisi
+quisioner, sebanyak 70% orang
+setuju bahwa aplikasi ini sudah
+layak untuk digunakan. Sedangkan
+30% orang tidak setuju.
+2. Dari 10 orang yang mengisi
+quisioner, semua setuju bahwa
+aplikasi ini 100% cocok untuk
+semua usia.
+3. Dari 10 orang yang mengisi
+quisioner, sebanyak 80% orang
+E-ISSN : 2621 - 7376
+
+Jurnal Keteknikan dan Sains (JUTEKS) – LPPM UNHAS
+Vol. 1, No.1, Juni 2018
+
+memahami dengan mudah langkahlangkah menggunakan aplikasi ini.
+Sedangkan sebanyak 20% orang
+merasa kurang memahami dalam
+menggunakan aplikasi ini.
+4. Dari 10 orang yang mengisi
+quisioner, sebanyak 100% setuju
+bahwa mereka merasa terbantu
+dengan adanya aplikasi ini.
+5. Dari 10 orang yang mengisi
+quisioner, sebanyak 80% orang
+tidak
+ada
+kesulitan
+dalam
+menggunakan
+aplikasi
+ini.
+Sedangkan sebanyak 20% orang
+kesulitan
+dalam
+menggunakan
+aplikasi ini.
+6. Dari 10 orang yang mengisi
+quisioner, 100% orang mengatakan
+belum pernah menggunakan aplikasi
+seperti ini sebelumnya.
+7. Dari 10 orang yang mengisi
+quisioner, sebanyak 80% orang
+setuju bahwa aplikasi ini sangat
+membantu
+lansia
+untuk
+menghidupkan lampu. Sedangkan
+sebanyak 20% orang tidak setuju.
+8. Dari 10 orang yang mengisi
+quisioner, bahwa 100% orang setuju
+jika aplikasi ini perlu diperbaiki.
+9. Dari 10 orang yang mengisi
+quisioner, sebanyak 80% orang
+tertarik memiliki aplikasi pengontrol
+lampu ini. Sedangkan sebanyak 20%
+orang mengatakan tidak ingin
+memiliki aplikasi ini.
+10. Dari 10 orang yang mengisi
+quisioner, sebanyak 80% orang
+setuju bahwa aplikasi ini sudah bisa
+memberi
+kemudahan
+bagi
+pengguna. Sedangkan 20% orang
+tidak setuju.
+V.
+5.1
+
+Penutup
+
+Kesimpulan
+Dari hasil penelitian ini dapat ditarik
+kesimpulan bahwa dengan perkembangan
+teknologi dapat memungkinkan orang lain
+untuk membuat rumah pintar sesuai dengan
+keinginan dan kebutuhan. Penggunaan
+
+30
+
+arduino dan pemanfaatan android dapat
+memudahkan untuk pengendalian alat
+elektronik seperti lampu, sehingga dapat
+mengurangi pemborosan listrik serta
+mempermudah pekerjaan rumah.
+5.2 Saran
+Pada penelitian ini, peneliti menyadari
+bahwa masih banyak kekurangan pada
+aplikasi smart home ini.Untuk itu peneliti
+berharap pada penelitian selanjutnya dapat
+memperbaiki dan mengembangkan aplikasi
+ini lebih baik lagi.
+DAFTAR PUSTAKA
+Budi, Raharjo, Heryanto Imam, and Haryono
+Arif. 2012. Mudah Belajar Java Mudah
+Belajar
+Java.
+http://elib.unikom.ac.id/files/disk1/578/j
+bptunikompp-gdl-aamsitifat-28858-6unikom_a-i.pdf.
+Grabowski, Mateusz, and Grzegorz Dziwoki.
+2009. “The IEEE Wireless Standards as
+an Infrastructure of Smart Home
+Network.”
+Communications
+in
+Computer and Information Science 39:
+302–9.
+Hartati, Sri et al. 2017. “Sistem Aplikasi
+Educhat Stmik Pringsewu Berbasis
+Android Sebagai Media Komunikasi
+Dan Informasi.” Jurnal Teknosi
+UNAND 3(1): 143–52.
+Jaelani Iskandar, Sherwin R U A Sompie,
+Dringhuzen J Mamahit St, and M Eng.
+2016. “Rancang Bangun Rumah Pintar
+Otomatis Berbasis Sensor Suhu, Sensor
+Cahaya, Dan Sensor Hujan.” 5(1).
+John Nash, F. 1995. “Pengertian Sistem
+Informasi.”
+Kusumastuti, Meirina Cherta, and Soni Agus
+Irwandi. 2012. “Investigasi Empat
+Faktor Kontingensi Sebagai Variabel
+Moderating
+Terhadap
+Partisipasi
+Pemakai Dan Kepuasan.” 2(2): 139–50.
+Masykur, Fauzan, and Fiqiana Prasetiyowati.
+2016. “Aplikasi Rumah Pintar ( Smart
+Home ) Pengendali Peralatan Elektronik
+Rumah Tangga Berbasis Web.” Jurnal
+Sains, Teknologi dan Industri 3(1): 51–
+58.
+E-ISSN : 2621 - 7376
+
+Jurnal Keteknikan dan Sains (JUTEKS) – LPPM UNHAS
+Vol. 1, No.1, Juni 2018
+
+31
+
+Muhammad Muslihudin, Oktafianto. 2016.
+Analisi Dan Perancangan Sistem
+Informasi
+Menggunakan
+Model
+Terstruktur Dan UML. Yogyakarta:
+Andi Offset.
+O’Brien James, M. Marakas George. 2007.
+Management
+Information
+System.
+McGraw-Hill/Irwin.
+Putro, M dwisnanto. 2014. “Perancangan
+Shading Device Pada Smart Home.” Ejournal Teknik Elektro dan Komputer.
+Riza, Arifudin. 2002. “Modul Pelatihan
+Pembuatan
+Aplikasi
+Android
+Menggunakan MIT App Inventor.”
+(April): 1–14.
+Rozaq Imam Abdul, Setyaningsih Noor
+Yulita Dwi. 2017. “Efesiensi Energi
+Smart Home ( Rumah Pintar ) Berbasis
+Remote Relay Dan LDR ( Light
+Dependent Resistant ).” 8(1): 363–68.
+Samsudin, Imam, Muhamad Muslihudin.
+2018. “Implementasi Web Government
+Dalam Meningkatkan Potensi Produk
+Unggulan Desa Berbasis Android.”
+JTKSI 1(2): 10–16.
+Setiawan, Evan Taruna. 2010. “Pengendalian
+Lampu Rumah Berbasis Mikrontroler
+Arduino Menggunakan Smartphone
+Android.” TI-Atma STMIK Atma Luhur
+Pangkalpinang: 1–8.
+Silvia, Ai Fitri, Erik Haritman, and Yuda
+Muladi. 2014. “Rancang Bangun Akses
+Kontrol Pintu Gerbang Berbasis
+Arduino Dan Android.” Electrans 2014
+13(1): 1–10.
+
+E-ISSN : 2621 - 7376
+
+

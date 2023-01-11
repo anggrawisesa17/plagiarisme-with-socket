@@ -1,0 +1,560 @@
+Jurnal Neo-bis
+
+Volume 9, No. 2, Des 2015
+
+KLASIFIKASI JENIS-JENIS BISNIS E-COMMERCE
+DI INDONESIA
+
+Mahir Pradana
+Universitas Telkom Bandung
+E-mail: mahirpradana@telkomuniversity.ac.id, mahir.pradana@gmail.com
+
+ABSTRAK
+
+Masyarakat Indonesia, khususnya yang berada di daerah perkotaan, sangat tidak
+terpisahkan dari internet, karena hampir segala aktifitas selalu melibatkan internet dan
+teknologi informasi. Jadi, tak heran jika internet kini menjadi kebutuhan pokok bagi
+sebagian kalangan, terutama bagi mereka yang menggunakan internet untuk keperluan
+bisnis (e-commerce). E-commerce didefinisikan sebagai proses pembelian, penjualan,
+mentransfer atau bertukar produk, jasa atau informasi melalui jaringan komputer melalui
+internet. Dengan aktivitas bisnis secara e-commerce, maka perusahaan dapat memperluas
+aktivitas dan menjangkau konsumen dengan lebih mudah. Juga proses transaksi yang
+selama ini sifatnya konvensional menjadi lebih modern dengan tersedianya transaksi
+online. Masyarakat kolektif, misalnya di negara-negara Asia seperti India dan Indonesia,
+lebih bergantung pada interaksi sosial daripada mereka yang hidup dalam masyarakat
+yang berorientasi individualistis. Jika menghubungkan karakteristik masyarakat Indonesia
+dengan jenis-jenis interaksi bisnis, kurang lebih variasi bisnis e-commerce di Indonesia
+bisa dibagi menjadi beberapa macam, antara lain listing, shopping mall, marketplace,
+toko online, toko online di media sosial dan crowdsourcing/crowdfunding. Artikel ini
+bertujuan untuk membahas lebih dalam tentang jenis-jenis bisnis e-commerce serta
+pengembangan teori sistem informasi yang mendasarinya.
+
+Kata Kunci: e-commerce, sistem informasi manajemen, pemanfaatan sistem informasi,
+kepuasan pengguna, nilai teknologi informasi.
+
+ABSTRACT
+Indonesian people, especially those living in urban areas, are inseparable from
+the Internet, because almost all activities involve internet and information technology.
+Thus, no wonder if the internet has become a basic requirement for some people,
+especially those who use the internet for business purposes (e-commerce). E-commerce is
+defined as the process of buying, selling, transferring or exchanging products, services or
+information through computer networks via the internet. With e-commerce as business
+activities, the company can expand and reach consumers more easily. They can also
+process conventional transactions to be more modern with the availability of online
+transactions. Collective society, for example in Asian countries such as India and
+Indonesia, depend more social interaction than those who live in the individualisticoriented community. Connecting the characteristics of Indonesian society with the types
+
+32
+
+Jurnal Neo-bis
+
+Volume 9, No. 2, Des 2015
+
+of business interactions, more or less variations of e-commerce business in Indonesia can
+be divided into several types, namely listings, shopping mall, marketplace, online stores,
+online stores on social media and crowdsourcing / crowdfunding. This article aims to
+discuss more about the types of business e-commerce as well as the development of the
+underlying information systems theory.
+
+Keywords: e-commerce, management information systems, use of information systems,
+user satisfaction, value of information technology.
+
+PENDAHULUAN
+
+Internet atau world wide web (www) telah secara dramatis mempengaruhi
+perilaku bisnis. Pasar, industri, dan bisnis sedang berubah memenuhi tuntutan ekonomi
+dan teknologi. Teknologi informasi (IT) sekarang dimanfaatkan untuk mendorong
+aktivitas bisnis dan pasar. Di zaman sekarang, internet menjadi mekanisme komunikasi
+yang kuat dan bisa memfasilitasi penyempurnaan dan pengolahan transaksi bisnis. Hal ini
+telah menyebabkan perubahan substansial dalam industri.
+Pemanfaatan internet dalam dunia bisnis lebih dikenal dengan istilah ‘electronic
+commerce’. Definisi electronic commerce (e-commerce) menurut Laudon & Laudon
+(2009) adalah suatu proses membeli dan menjual produk-produk secara elektronik oleh
+konsumen dan dari perusahaan ke perusahaan dengan komputer sebagai perantara
+transaksi bisnis. E-commerce berguna dalam mengurangi biaya administrasi dan waktu
+siklus proses bisnis, dan meningkatkan hubungan dengan kedua mitra bisnis dan
+pelanggan.
+Lebih lanjut, e-commerce berarti transaksi paperless dimana inovasi seperti
+pertukaran data elektronik, surat elektronik, papan buletin elektronik, transfer dana
+elektronik dan teknologi berbasis jaringan lainnya diterapkan berdasarkan jaringan.
+Umumnya, e-commerce adalah strategi komersial baru yang mengarah pada peningkatan
+kualitas produk dan layanan dan perbaikan ditingkat layanan penyediaan sementara link
+persyaratan organisasi, pemasok, dan konsumen ke arah mengurangi biaya (Shaw, 2012).
+E-commerce adalah pendekatan baru dalam dunia bisnis secara elektronik dan
+menggunakan jaringan dan internet. Dengan cara ini proses jual beli atau pertukaran
+produk, jasa dan informasi melalui komputer melakukan komunikasi dan jaringan
+termasuk internet (Turban et al., 2006).
+Artikel ini bertujuan untuk mengkaji teori-teori e-commerce sehtinya dapat
+diklasifikasikan jenis-jenis e-commerce sesuai dengan teori-teori yang dikumpulkan dari
+berbagai penelitian sebelumnya. Tujuan akhir dari pembahasan ini adalah agar klasifikasi
+e-commerce tersebut dapat digunakan untuk menjelaskan fenomena e-commerce yang
+sedang marak di Indonesia pada saat ini. Selain itu, agar tulisan ini dapat digunakan
+sebagai acuan untuk penelitian-penelitian selanjutnya di ranah sistem informasi
+manajemen, khususnya dengan topik online business atau e-commerce.
+
+33
+
+Jurnal Neo-bis
+
+Volume 9, No. 2, Des 2015
+
+METODE
+Tulisan ini dikhususkan sebagai pembahasan konseptual, dimana penulis
+mengkaji teori-teori yang dikumpulkan dari berbagai penelitian sebelumnya. Setelah itu,
+kumpulan teori akan dibuat suatu formulasi konsep baru, dimana e-commerce akan
+dikelompokkan menjadi beberapa jenis yang berbeda-beda, sesuai dengan teori-teori
+bisnis dan sistem informasi. Dengan demikian, diharapkan tulisan ini dapat menjadi
+landasan bagi penelitian-penelitian selanjutnya, baik pengkajian secara empiris,
+deskriptif, maupun konseptual.
+
+HASIL DAN PEMBAHASAN
+E-commerce didefinisikan sebagai proses pembelian, penjualan, mentransfer atau
+bertukar produk, jasa atau informasi melalui jaringan komputer melalui internet (Kozinets
+et al., 2010). Dengan mengambil bentuk-bentuk tradisional dari proses bisnis dan
+memanfaatkan jejaring sosial melalui internet, strategi bisnis dapat berhasil jika
+dilakukan dengan benar, yang akhirnya menghasilkan peningkatan pelanggan, kesadaran
+merk dan pendapatan. Keputusan pembelian pelanggan dipengaruhi oleh persepsi,
+motivasi, pembelajaran, sikap dan keyakinan. Persepsi dipantulkan pada bagaimana
+pelanggan memilih, mengatur, dan menginterpretasikan informasi untuk membentuk
+pengetahuan. Motivasi tercermin dari keinginan pelanggan untuk memenuhi kebutuhan
+mereka sendiri.
+Menurut Hoffman and Fodor (2010), e-commerce dapat berjalan dengan baik
+apabila dijalankan berdasarkan prinsip 4C, yaitu: connection (koneksi), creation
+(penciptaan), consumption (konsumsi) dan control (pengendalian). Prinsip-prinsip ini
+dapat memotivasi konsumen yang mengarah pada return of investment (ROI) perusahaan,
+yang diukur dengan partisipasi aktif seperti feedback atau review konsumen, dan share
+atau merekomendasikan kepada pengguna lain.
+
+Telah disebutkan di atas, bahwa teknologi saat ini memungkinkan kita untuk
+melakukan pemasaran apapun dengan bantuan internet. Oleh karena itu, dunia mengakui
+konsep baru aktivitas bisnis, yaitu dengan cara online. Salah satu keuntungan dalam
+menggunakan sumber internet untuk berhubungan dengan pelanggan adalah pengiriman
+data yang cepat dan informasi antara orang yang terlibat (Kozinets et al., 2010).
+Enam dimensi keberhasilan sistem informasi menurut DeLone & McLean (2004)
+yang dapat diterapkan juga pada lingkungan e-commerce adalah sebagai berikut:
+1. Kualitas Sistem dalam lingkungan Internet. Dimana karakteristik sistem ecommerce dapat diukur sesuai kegunaan, ketersediaan, kehandalan, kemampuan
+beradaptasi, dan waktu respon (misalnya, waktu download dan proses data).
+2. Kualitas Informasi dalam menangkap isu konten e-commerce. Jaringan konten harus
+dipersonalisasi, lengkap, relevan, mudah dimengerti, dan aman jika calon pembeli
+atau pemasok memulai transaksi melalui internet.
+3. Kualitas layanan. Dukungan keseluruhan disampaikan oleh penyedia layanan,
+terlepas dari apakah dukungan tersebut disampaikan oleh departemen sistem
+informasi atau unit organisasi baru atau mungkin secara outsourcing ke penyedia
+layanan internet.
+
+34
+
+Jurnal Neo-bis
+
+Volume 9, No. 2, Des 2015
+
+4. Penggunaan. Diukur dari kunjungan ke situs web dan navigasi dalam situs tersebut
+untuk pencarian informasi dan pelaksanaan transaksi.
+5. Kepuasan Pengguna. Ini merupakan cara penting untuk mengukur pendapat
+pelanggan dalam sistem e-commerce dan harus mencakup seluruh yang pengalaman
+pelanggan dalam siklus pembelian, pembayaran, sampai penerimaan produk maupun
+layanan.
+6. Manfaat. Ini juga penting, karena penting untuk menangkap keseimbangan dampak
+positif dan negatif dari e-commerce pada pelanggan, pemasok, karyawan, organisasi,
+pasar, industri, ekonomi, dan bahkan masyarakat secara keseluruhan.
+Menurut Schradi (2009), ada dua cara untuk melakukan pemasaran online, yaitu
+pasif dan aktif. Menggunakan pemasaran online pasif berarti sebuah perusahaan
+membangun sebuah website yang menyediakan informasi kepada pelanggan tanpa
+melakukan kegiatan yang signifikan untuk menjangkau pelanggan. Sedangkan pemasaran
+online aktif melakukan sebaliknya, yaitu perusahaan berusaha untuk mencapai pembeli
+potensial di internet. Dengan mengambil keuntungan dari teknologi internet, perusahaan
+memiliki kemudahan dalam mempromosikan dan menyampaikan informasi tentang merk
+mereka (Kaplan & Haenlein, 2012).
+Boyd dan Ellison (2007) mengungkapkan bahwa interaksi di internet dapat
+berupa kolaborasi (misalnya: situs desainer grafis), content community (masyarakat
+konten) contohnya: situs klub penggemar / fan club), dan dunia video game virtual
+(misalnya: DOTA dan World of Warcraft). Semua jenis website partisipatif memiliki
+berbagai tingkat kehadiran sosial tinggi, tetapi bersifat rendah pada pengungkapan diri.
+Alasan dibalik ini adalah karena para pengguna internet tidak selalu mengungkapkan
+identitas mereka di dunia maya.
+
+Gambar 1: Klasifikasi Pengguna Internet berdasarkan Self Presentation & Disclosure
+(Kaplan & Haenlein, 2012)
+Menurut Sandhusen (2008), terdapat tiga pihak stakeholder dalam bisnis, yaitu:
+pertama, adalah pelaku bisnis, dalam hal ini perusahaan. Simbol untuk elemen ini adalah
+‘B’ (business). Kedua, adalah konsumen, yaitu pengguna bisnis barang dan jasa yang
+digambarkan dengan huruf ‘C’. Terakhir, adalah pemangku kepentingan berupa
+pemerintah, yang digambarkan dengan huruf ‘G’ (government).
+35
+
+Jurnal Neo-bis
+
+Volume 9, No. 2, Des 2015
+
+Selanjutnya, jenis-jenis interaksi antara para pelaku bisnis dapat disimak pada
+tabel di bawah ini:
+
+Tabel 1: Bentuk-Bentuk Interaksi di Dunia Bisnis
+Nomor
+
+Nama
+
+Penjelasan
+
+1
+
+B2B (Business to Business)
+
+Transaksi bisnis antara pelaku bisnis dengan
+pelaku bisnis lainnya. Dapat berupa
+kesepakatan spesifik yang mendukung
+kelancaran bisnis.
+
+2
+
+B2C (Business to Consumer)
+
+Aktivitas yang dilakukan produsen kepada
+konsumen secara langsung.
+
+3
+
+C2C (Consumer to Consumer)
+
+Aktivitas bisnis (penjualan) yang dilakukan
+oleh individu (konsumen) kepada individu
+(konsumen) lainnya.
+
+4
+
+C2B (Consumer to Business)
+
+C2B merupakan model bisnis dimana
+konsumen
+(individu)
+menciptakan
+dan membentuk nilai akan proses bisnis.
+
+5
+
+B2G (Busines to Government)
+
+Merupakan turunan dari B2B, perbedaannya
+proses ini terjadi antara pelaku bisnis dan
+instansi pemerintah
+
+G2C (Government to
+Consumer)
+
+Merupakan hubungan atau interaksi antara
+pemerintah dengan masyarakat. Konsumen,
+dalam hal ini masyarakat, dapat dengan
+mudah menjangkau pemerintah sehingga
+memmperoleh kemudahan dalam pelayanan
+sehari-hari.
+
+6
+
+Sumber: Sandhausen, 2008
+
+Pertumbuhan belanja online juga telah mempengaruhi struktur industri. Ecommerce telah merevolusi cara bertransaksi berbagai bisnis, seperti toko buku dan agen
+perjalanan. Umumnya, perusahaan besar dapat menggunakan skala ekonomi dan
+menawarkan harga yang lebih rendah.
+Individu atau pelaku bisnis yang terlibat dalam e-commerce, baik itu pembeli
+maupun penjual mengandalkan teknologi berbasis internet untuk melaksanakan transaksi
+mereka. E-commerce memiliki kemampuan untuk memungkinkan transaksi kapan saja
+dan di mana saja. Kekuatan e-commerce memungkinkan hambatan-hambatan geofisika
+menghilang (Blut et al., 2015).
+Kim et al., (2011) berpendapat bahwa konteks budaya membentuk penggunaan
+teknologi komunikasi dan pola penggunaan situs jaringan sosial. Mereka berpendapat
+bahwa aviditas media bisa jadi berbeda di negara-negara yang berbeda, sesuai dengan
+karakteristik budaya negara masing-masing. Masyarakat kolektif, misalnya di negara-
+
+36
+
+Jurnal Neo-bis
+
+Volume 9, No. 2, Des 2015
+
+negara Asia seperti India dan Indonesia, lebih bergantung pada interaksi sosial daripada
+mereka yang hidup dalam masyarakat yang berorientasi individualistis (Hofstede, 2001).
+Namun, selain beberapa perbedaan, motif yang mendasari dasar untuk menggunakan
+internet (mencari teman, dukungan sosial, hiburan, informasi, dan kenyamanan) bisa
+menjadi mirip antar satu negara dengan negara lainnya dengan budaya yang berbeda
+Jika menghubungkan karakteristik masyarakat Indonesia dengan jenis-jenis
+interaksi bisnis (lihat Tabel 1), kurang lebih variasi bisnis e-commerce di Indonesia bisa
+diklasifikasikan seperti pada Tabel 2 di bawah ini:
+
+Tabel 2: Klasifikasi Bisnis E-Commerce di Indonesia
+Nomor
+
+Jenis Website ECommerce
+
+Penjelasan
+
+Contoh (di
+Indonesia)
+
+Kelompo
+k
+Interaksi
+
+1
+
+Listing / iklan baris
+
+Berfungsi sebagai OLX,
+sebuah
+platform berniaga.com
+yang mana para
+individu
+dapat
+memasang barang
+jualan
+mereka
+secara
+gratis.
+Pendapatan
+diperoleh dari iklan
+premium.
+Jenis
+iklan baris seperti
+ini
+cocok bagi
+penjual yang hanya
+ingin
+menjual
+barang
+dengan
+kuantitas kecil.
+
+B2C,
+C2C
+
+2
+
+Online Marketplace
+
+Ini adalah model tokopedia.com,
+bisnis
+dimana bukalapak.com
+website
+yang
+bersangkutan tidak
+hanya
+membantu
+mempromosikan
+barang
+dagangan
+saja,
+tapi
+juga
+memfasilitasi
+transaksi
+uang
+secara
+online.
+Seluruh
+transaksi
+online
+harus
+difasilitasi
+oleh
+website
+yang
+bersangkutan
+
+C2C
+
+37
+
+Jurnal Neo-bis
+
+Volume 9, No. 2, Des 2015
+
+3
+
+Shopping Mall
+
+Model bisnis ini blibli.com,
+mirip
+dengan zalora.com
+marketplace, tapi
+penjual yang bisa
+berjualan
+disana
+haruslah
+penjual
+atau brand ternama
+karena
+proses
+verifikasi
+yang
+ketat.
+
+B2B,
+B2C
+
+4
+
+Toko Online
+
+Model bisnis ini lazada.com,
+cukup sederhana, bhinneka.com
+yakni sebuah toko
+online
+dengan
+alamat
+website
+(domain) sendiri di
+mana
+penjual
+memiliki
+stok
+produk
+dan
+menjualnya secara
+online
+kepada
+pembeli.
+
+B2C
+
+5
+
+Toko online di media
+sosial
+
+Banyak penjual di
+Indonesia
+yang
+menggunakan situs
+media sosial seperti
+Facebook, Twitter
+dan
+Instagram
+untuk
+mempromosikan
+barang
+dagangan
+mereka.
+
+Siapapun yang
+berjualan
+dengan media
+sosial
+
+C2C
+
+6
+
+Jenis-Jenis website
+crowdsourcing dan
+crowdfunding
+
+Website dipakai
+sebagai platform
+untuk
+mengumpulkan
+orang-orang dengan
+skill yang sama atau
+untuk penggalangan
+dana secara online.
+
+kitabisa.com,
+wujudkan.com
+
+C2B
+
+Sumber: http://id.techinasia.com, dengan beberapa perubahan
+E-commerce memungkinkan untuk meningkatkan keseluruhan nilai bisnis
+perusahaan. Oleh karena itu, sangat perlu untuk memahami ciri-ciri dan jenis-jenis bisnis
+e-commerce yang berbeda-beda. Namun, biaya kesempatan bisa terjadi, jika strategi lokal
+tidak cocok untuk pasar baru, perusahaan bisa kehilangan pelanggan potensial.
+Ada juga beberapa bisnis online yang menggunakan beberapa model bisnis di
+atas pada saat bersamaan. Contohnya jenis-jenis bisnis yang memiliki toko-toko online
+B2C mereka sendiri serta marketplace yang memverifikasi penjualnya terlebih dahulu
+38
+
+Jurnal Neo-bis
+
+Volume 9, No. 2, Des 2015
+
+(Luckman, 2014). Membandingkan situs e-commerce satu dengan yang lainnya hanya
+dapat dilakukan apabila mereka memiliki model bisnis yang serupa.
+
+SIMPULAN
+Perdagangan elektronik, umumnya ditulis sebagai e-commerce, adalah
+perdagangan produk-produk atau jasa dengan menggunakan jaringan komputer,
+khususnya memanfaatkan teknologi Internet. Perdagangan elektronik modern biasanya
+menggunakan internet (world wide web - www.) untuk setidaknya satu bagian dari siklus
+hidup transaksi ini, meskipun juga dapat menggunakan jenis aktivitas lain, seperti
+manajemen operasi atau pembayaran konvensional.
+Bisnis E-commerce dapat menggunakan beberapa prinsip atau bahkan semua hal
+berikut:
+
+
+
+
+
+
+Situs web belanja online untuk penjualan ritel langsung ke konsumen.
+Partisipasi dalam pasar online, yang fokusnya memproses bisnis-ke-konsumen (B2C)
+atau konsumen-ke-konsumen (C2C).
+Penjualan business to business (B2B).
+Mengumpulkan dan menggunakan data demografi melalui kontak web dan media
+sosial.
+Pertukaran data elektronik business-to-business (B2B)
+
+Dengan aktivitas bisnis secara e-commerce, maka perusahaan dapat memperluas
+aktvitas dan menjangkau konsumen dengan lebih mudah. Juga proses transaksi yang
+selama ini sifatnya konvensional menjadi lebih modern dengan tersedianya transaksi
+online.
+Penelitian ini memberi gambaran konseptual mengenai jenis-jenis e-commerce di
+Indonesia. Untuk penelitian selanjutnya, perlu adanya pengujian secara empiris baik
+secara kualitatif maupun kuantitatif, sehingga ditemukan informasi seperti jenis-jenis ecommerce apa yang paling efektif digunakan dalam berbisnis, atau tipe seperti apa yang
+paling banyak digunakan di Indonesia.
+
+DAFTAR PUSTAKA
+
+39
+
+Jurnal Neo-bis
+
+Volume 9, No. 2, Des 2015
+
+Blut, Markus and Frennea, Carly and Mittal, Vikas and Mothersbaugh, David L. (2015): How
+Procedural, Financial and Relational Switching Costs Affect Customer Satisfaction,
+Repurchase Intentions, and Repurchase Behavior: A Meta-Analysis. International Journal of
+Research in Marketing.
+Boyd, D. M., & Ellison, N. B. (2007). Social Network Sites: Definition, History, and
+Scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. Retrieved
+on: 2012-01-30.
+Delone, William H., and Ephraim R. Mclean. "Measuring e-commerce success: Applying the
+DeLone & McLean information systems success model."International Journal of Electronic
+Commerce 9.1 (2004): 31-47.
+Hoffman, Donna L., and Marek Fodor. "Can you measure the ROI of your social media
+marketing." MIT Sloan Management Review 52.1 (2010): 41-49.
+Hofstede, Geert H., and Geert Hofstede. Culture's consequences. SAGE Publications,
+Incorporated, 2001.
+Kaplan , A.M and Michael Haenlein (2012): Users of the world, unite! The challenges and
+opportunities of Social Media, Business Horizons (2010) 53, p. 59—68.
+Kim, Yoojung, Dongyoung Sohn, and Sejung Marina Choi (2011): "Cultural difference in
+motivations for using social network sites: A comparative study of American and Korean
+college students." Computers in Human Behavior 27.1 (2011): 365-372.
+Kozinets, Robert V., et al. "Networked narratives: Understanding word-of-mouth marketing in
+online communities." Journal of marketing 74.2 (2010): 71-89.
+Kotler, Philip, and Gerald Zaltman (1971): "Social marketing: an approach to planned social
+change." The Journal of Marketing: 3-12.
+Laudon, Ken, and Jane Laudon (2009): Management Information Systems: International Edition,
+11/E. Pearson Higher Education, 2009.
+Luckman, Enricko (2014): 5 Model E-Commerce di Indonesia, https://id.techinasia.com/5-modelbisnis-ecommerce-di-indonesia/
+Schradi, B. (2009): Online Marketing Internet Lexikon [online] Available from:
+http://www.symweb.de/glossar/online-marketing__169.htm [Accessed 23 March 2010].
+Sandhusen, Richard (2008). Marketing. Hauppauge, N.Y: Barron's Educational Series.
+p. 520. ISBN 0-7641-3932-0
+Shao, G. (2009) "Understanding the appeal of user-generated media: a uses and gratification
+perspective", Internet Research, Vol. 19 Iss: 1, pp.7 – 25, University of Alabama,
+Tuscaloosa, Alabama, USA)
+Shaw, Michael, et al., (2012): eds. Handbook on electronic commerce. Springer Science &
+Business Media.
+Turban, Efrain, et al. (2006) "E-commerce: A managerial perspective." Low Price Edition : 180183.
+
+40
+
+

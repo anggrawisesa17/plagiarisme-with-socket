@@ -1,0 +1,727 @@
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+
+ANALISIS POTENSI EKONOMI DI SEKTOR DAN SUB SEKTOR
+PERTANIAN, KEHUTANAN DAN PERIKANAN KOTA TOMOHON
+Steeva Tumangkeng
+Jurusan Ekonomi Pembangunan, Fakultas Ekonomi dan Bisnis
+Universitas Sam Ratulangi, Manado 95115, Indonesia
+Email: steevatumangkeng@yahoo.co.id
+ABSTRAK
+Tujuan utama pembangunan ekonomi daerah adalah untuk meningkatkan kesejahteraan
+masyarakat dengan cara peningkatan jumlah dan jenis peluang kerja untuk masyarakat setempat.
+Dalam upaya untuk mencapai tujuan tersebut, pemerintah daerah harus mampu membuat prediksi
+tentang semua potensi sumberdaya yang ada, pemerintah daerah dan masyarakatnya harus secara
+bersama-sama mengambil inisiatif pembanguan daerah. Tujauan penelitian mengetahui sektor dan
+subsubsektor ekonomi apa yang paling potesial dan berdaya saing untuk dikembangkan sebagai
+penunjang pertumbuhan ekonomi di Kota Tomohon. Metode penelitian yang digunakan analisis
+Shift Share dan LQ. Hasil perhitungan Shift Share Sub sektor yang menjadi penyumbang terbesar
+adalah Pertanian, Peternakan, Perburuan dan Jasa Pertanian dan juga Sub subsektor yang menjadi
+penyumbang terbesar adalah subsubsektor perkebunan, peternakan, tanaman hortikultura dan
+tanaman pangan. Hasil perhitungan LQ pada tabel diatas selama periode 2010 sampai 2016 di Kota
+Tomohon yang memiliki nilai LQ>1 atau basis/unggulan adalah sub sektor Pertanian, Peternakan,
+Perburuan dan Jasa Pertanian dengan nilai LQ rata-rata sebesar 1,38% dan juga yang memiliki LQ>1
+adalah sub subsektor Tanaman Hortikultura yang memiliki nilai LQ rata-rata 2,32% kemudian sub
+subsektor peternakan dengan nilai LQ rata-rata sebesar 2,74% terakhir sub subsektor jasa pertanian
+dan perburuan yang memiliki nilai LQ rata-rata 1,38%.
+
+Kata Kunci : Shift Share, Location Quation dan PDRB
+
+Steeva Tumangkeng
+
+127
+
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+
+1. PENDAHULUAN
+
+Latar belakang
+Pembangunan ekonomi daerah merupakan serangkaian kegiatan yang dilakukan
+pemerintah daerah bersama dengan masyarakat dalam mengelola dan memanfaatkan
+sumber daya yang ada dan membentuk suatu pola kemitraan antara pemerintah daerah
+dengan sektor swasta untuk menciptakan suatu lapangan kerja baru dan merangsang
+perkembangan pertumbuhan ekonomi dalam wilayah tersebut. Oleh karena itu, pemerintah
+daerah beserta partisipasi masyarakatnya dan dengan menggunakan sumber daya yang ada
+harus mampu menaksir potensi sumber daya yang diperlukan untuk merancang dan
+membangun perekonomian daerah (Arsyad,1999).
+Tujuan utama pembangunan ekonomi daerah adalah untuk meningkatkan
+kesejahteraan masyarakat dengan cara peningkatan jumlah dan jenis peluang kerja untuk
+masyarakat setempat. Dalam upaya untuk mencapai tujuan tersebut, pemerintah daerah
+harus mampu membuat prediksi tentang semua potensi sumberdaya yang ada, pemerintah
+daerah dan masyarakatnya harus secara bersama-sama mengambil inisiatif pembanguan
+daerah. Oleh karena itu pemerintah daerah beserta partisispasi masyarakatnya dan dengan
+menggunakan sumber daya yang ada harus mampu mengeksplorasi potensi sumber daya
+yang diperlukan untuk merancang dan membangun perekonomian daerah (Arsyad, 2009).
+Dengan demikian aspek pertumbuhan ekonomi daerah menjadi salah satu indikator
+penilaian keberhasilan pelaksanaan pembangunan ekonomi di suatu wilayah yang diukur
+dari besaran nilai tambah bruto (gross value added) yang timbul dari seluruh sektor
+perekonomian di suatu wilayah dalam jangka waktu tertentu atau disebut dengan Produk
+Domestik Regional Bruto (PDRB).
+Untuk memacu laju pertumbuhan ekonomi regional serta meningkatkan
+kontribusinya terhadap total Produk Domestik Regional Beruto (PDRB), maka
+pembangunan sektor unggulan dapat dijadikan sebagai penggerak pembangunan ekonomi
+(Elsjamina 2014). Sektor unggulan dapat diartikan sebagai sektor yang mampu mendorong
+pertumbuhan atau perkembangan bagi sektor-sektor lainnya, baik sektor yang menyuplai
+inputnya maupun sektor yang memanfaatkan output sektor unggulan tersebut sebagai input
+dalam proses produksinya (Widodo, 2006).
+Kota Tomohon populer di sebut dengan kota bunga potensi Kota Tomohon yang
+besar di sektor pertanian memberikan peluang kepada pemerintah dalam mengembangkan
+potensi yang ada seperti program festival flower yang diakan setiap tahunnya dan juga
+potensi-potensi pariwisata yang ada kuliner yang mampu menarik masyarakat lokal
+maupun wisatawan mengunjungi Kota Tomohon. Selain itu juga memberikan peluang
+kesempatan kerja bagi masyarakat yang ada di Kota Tomohon dengan potensi yang
+dikembangkan. Pertumbuhan ekonomi daerah dapat dijadikan sebagai indikator
+
+Steeva Tumangkeng
+
+128
+
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+
+kesejahteraan masyarakat. Todaro (2000) mengatakan bahwa proses pertumbuhan ekonomi
+mempunyai kaitan erat dengan perubahan struktural dan sektoral yang tinggi.
+Potensi ekonomi yang ada disetiap daerah perlu digali dan dimanfaatkan secara
+efektif dan efisien untuk menunjang pembangunan dan pertumbuhan ekonomi di wilayah
+tersebut. Pengembangan potensi ekonomi sektor ungglan yang memberikan kontribusi
+terbesar terhadap kemajuan ekonomi daerah merupakan prioritas kebijakan yang harus
+dilaksanakan. Manfaat mengetahui sektor unggulan, yaitu mampu memberikan indikasi
+bagi perekonomian secara nasional dan regional. Sektor unggulan dipastikan memiliki
+potensi lebih besar untuk tumbuh lebih cepat dibandingkan sektor lainnya dalam suatu
+daerah terutama adanya faktor pendukung terhadap sektor unggulan tersebut yaitu
+akumulasi modal, pertumbuhan tenaga kerja yang terserap, dan kemajuan teknologi
+(technological progress) (Fachrurrazy, 2009).
+Tinjauan Pustaka
+Pembangunan Ekonomi Daerah
+Pembangunan ekonomi daerah adalah suatu proses dimana pemerintah daerah dan
+masyarakat mengelola sumber daya yang ada dan membentuk suatu pola kemitraan antara
+pemerintah daerah dengan sektor swasta untuk menciptakan suatu lapangan kerja baru dan
+merangsang perkembangan kegiatan ekonomi dalam wilayah tersebut (Arsyad, 1999).
+Secara umum tujuan pembangunan ekonomi adalah sebagai berikut: pertama,
+mengembangkan lapangan kerja bagi penduduk yang ada sekarang. Kedua, mencapai
+peningkatan ekonomi daerah. Ketiga, mengembangkan basis ekonomi dan kesempatan
+kerja yang beragam.
+Sirojuzilam (2008:16) mendefinisikan pembangunan ekonomi adalah suatu proses
+yang bersifat multidimensional, yang melibatkan kepada perubahan besar, baik terhadap
+perubahan struktur ekonomi, perubahan sosial, mengurangi atau menghapuskan
+kemiskinan, mengurangi ketimpangan, dan pengangguran dalam konteks pertumbuhan
+ekonomi. Pembangunan ekonomi yang efisien membutuhkan secara seimbang perencanaan
+yang teliti mengenai penggunaan sumberdaya-sumberdaya yang ada. Melalui perencanaan
+pembangunan ekonomi daerah, suatu daerah dapat dilihat secara keseluruhan sebagai suatu
+unit ekonomi yang didalamnya terdapat berbagai unsur yang berinteraksi satu dengan yang
+lain. Beberapa teori pembangunan daerah antara lain (Aryad, 1999:116) :
+1. Teori Ekonomi Neo Klasik, teori ini memberikan dua konsep pokok dalam
+pembangunan daerah yaitu keseimbangan dan mobilitas faktor-faktor produksi.
+Artinya sistem perekonomian akan mencapai keseimbangan alamiah jika
+modalnya bisa mengalir tanpa restriksi atau pembatasan. Biasanya modal akan
+mengalir dari daerah yang mempunyai upah yang tinggi ke daerah dengan upah
+yang rendah.
+2. Teori Basis Ekonomi, teori ini menyatakan bahwa faktor utama pertumbuhan
+ekonomi suatu daerah berhubungan dengan permintaan barang dan jasa dari luar
+daerah. Pertumbuhan industri-industri yang menggunakan sumberdaya lokal
+dengan orientasi eksporakan menghasilkan kekayaan daerah dan menciptakan
+Steeva Tumangkeng
+
+129
+
+Jurnal Berkala Ilmiah Efisiensi
+
+3.
+
+4.
+
+5.
+
+6.
+
+Volume 18 No. 01 Tahun 2018
+
+peluang kerja. Dalam teori ini dijelaskan bahwa perekonomian daerah dibagi
+menjadi dua yaitu (a) Sektor basis : sektor perekonomian yang dapat digunakan
+untuk memenuhi kebutuhan daerah sendiri dan kebutuhan daerah lain maupun
+ekspor (b) Sektor non basis : sektor perekonomian yang hanya dapat digunakan
+untuk memenuhi daerah sendiri. Kelemahan teori ini adalah perekonomian
+didasarkan pada permintaan eksternal, yang dapat menyebabkan ketergantungan
+yang sangat tinggi terhadap kekuatan-kekuatan pasar secara nasional maupun
+global.
+Teori Lokal, lokasi merupakan suatu faktor yang mempengaruhi pertumbuhan
+ekonomi suatu daerah. Hal ini sesuai jika dikaitkan dengan pengembangan
+kawasan industri. Perusahaan cenderung meminimumkan biaya dengan cara
+memilih lokasi yang memaksimumkan peluangnya untuk mendekati pasar
+danbahan baku.
+Teori Tempat Sentral, teori ini menganggap bahwa ada hirarki tempat. Setiap
+tempat sentral didukung oleh sejumlah tempat yang lebih kecil yang menyediakan
+sumberdaya. Tempat sentral merupkan suatu pemukiman yang menyediakan jasajasa bagi penduduk daerah yang mendukungnya.
+Teori Kausasi Kumulatif, kondisi daerah-daerah di sekitar kota yang semakin
+buruk merupakan konsep dasar dari teori kausatif kumulatif. Kekuatan-kekuatan
+pasar cenderung memperparah kesenjangan antara daerah-daerah tersebut. Daerah
+yang maju akan megalami akumulasi kenggulan kompetitif dibanding daerahdaerah yang terbelakang. Hal ini oleh Myrdal disebut sebagai backwash effects.
+Teori Daya Tarik Industri, dalam teori ini dinyatakan bahwa suatu masyarakat
+dapat memperbaiki posisi pasarnya terhadap industrialisasi melalui pemberian
+subsidi dan insentif.
+
+Pertumbuhan Ekonomi Regional(Wilayah)
+Pertumbuhan ekonomi wilayah adalah pertambahan pendapatan masyarakat yang
+terjadi di wilayah tersebut, yaitu kenaikan seluruh nilai tambah yang terjadi di wilayah
+tersebut. Pertambahan pendapatan itu diukur dalam nilai rill, artinya diukur dalam harga
+konstan. Hal itu juga menggambarkan balas jasa bagi faktor-faktor produksi yang
+beroperasi di daerah tersebut. Kemakmuran suatu wilayah selain ditentukan oleh besarnya
+nilai tambah yang tercipta di wilayah tersebut juga oleh seberapa besar terjadi transfer
+payment yaitu bagian pendapatan yang mengalir ke luar wilayah atau mendapat aliran dana
+dari luar wilayah (Richardson, 1991: 125).
+Menurut Sirojuzilam (2008:26) perbedaan pokok antara analisis pertumbuhan
+perekonomian nasional dan analisis pertumbuhan daerah adalah bahwa yang
+dititikberatkan dalam analisis tersebut belakangan adalah perpindahan faktor (factors
+movement). Kemungkinan masuk dan keluarnya arus perpindahan tenaga kerja dan modal
+menyebabkan terjadinya perbedaan tingkat pertumbuhan ekonomi regional. Perkembangan
+dan pertumbuhan ekonomi daerah akan lebih cepat apabila memiliki keuntungan absolute
+kaya akan sumber daya alam dan memiliki keuntungan komparatif apabila daerah tersebut
+lebih efisien dari daerah lain dalam melakukan kegiatan produksi dan perdagangan.
+
+Steeva Tumangkeng
+
+130
+
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+
+Teori pertumbuhan ekonomi wilayah menganalisis suatu wilayah sebagai suatu
+sistem ekonomi terbuka yang berhubungan dengan wilayah-wilayah lain melalui arus
+perpindahan faktor-faktor produksi dan pertukaran komoditas. Pembangunan dalam suatu
+wilayah akan mempengaruhi pertumbuhan wilayah lain dalam bentuk permintaan sektor
+untuk wilayah lain yang akan mendorong pembangunan wilayah tersebut atau suatu
+pembangunan ekonomi dari wilayah lain akan mengurangi tingkat kegiatan ekonomi di
+suatu wilayah serta interrelasi
+Pertumbuhan ekonomi wilayah adalah pertambahan pendapatan masyarakat yang
+terjadi di wilayah tersebut, yaitu kenaikan seluruh nilai tambah yang terjadi di wilayah
+tersebut. Adapun macam-macam teori pertumbuhan wilayah adalah sebagai berikut
+(Tarigan, 2004:47):
+1. Teori Ekonomi Klasik, sistim ekonomi pasar bebas akan menciptakan efisiensi,
+membawa ekonomi dalan kondisi full employment, dan menjamin pertumbuhan
+ekonomi sampai tercapai posisi stationer (stationary state). Teori ini membahas
+tentang kebebasan seluas luasnya dalam menentukan kegiatan ekonomi yang
+dirasa paling baik dilakukan.
+2. Teori Harrod-Domar dalam sistem regional, faktor-faktor produksi atau hasil
+produksi yang berlebihan dapat diekspor dan yang kurang dapat diimpor. Impor
+dan tabungan adalah kebocoran–kebocoran dalam menyedot output daerah.
+Sedangkan ekspor dan investasi dapat membantu dalam menyedot output kapasitas
+penuh dari faktor-faktor produksi yang ada di daerah tersebut. Kelebihan tabungan
+yang tidak terinvestasikan secara lokal dapat disalurkan ke daerah-daerah lain yang
+tercemin dalam surplus ekspor. Apabila pertumbuhan tenaga kerja melebihi dari
+apa yang yang diserap oleh kesempatan kerja lokal maka migrasi neto dapat
+menyeimbangkannya.
+3. Teori pertumbuhan Neo-klasik, teori ini sering disebut dengan teori Solow-Swan
+yang menyatakan bahwa dalam banyak hal mekanisme pasar dapat menciptakan
+keseimbangan sehingga pemerintah tidak perlu terlalu mencampuri pasar. Campur
+tangan pemerintah hanya sebatas kebijakan fiskal dan kebijakan moneter. Suatu
+daerah akan mengimpor modal jika tingkat pertumbuhan modalnya lebih kecil dari
+rasio tabungan domestik terhadap modal. Dalam pasar sempurna marginal
+productivity of labour (MPL) adalah fungsi langsung tapi bersifat terbalik dari
+marginal productivity of capital (MPK). Hal ini bisa dilihat dari nilai rasio modal
+tenaga kerja.
+4. Teori Jalur Tepat (Turnpike), setiap wilayah perlu melihat sektor atau komoditi apa
+yang memiliki potensi besar dan dapat dikembangkan secara cepat, baik karena
+potensi alam maupun sektor potensi itu memiliki competitive advantage untuk
+dikembangkan.
+Teori Basis Ekonomi (Economic Base Theory)
+
+Steeva Tumangkeng
+
+131
+
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+
+Teori basis ekonomi ini menyatakan bahwa faktor penentu utama pertumbuhan
+ekonomi suatu daerah adalah berhubungan langsung dengan permintaan barang dan jasa
+dari luar daerah (Arsyad, 2002:116). Teori basis ini digolongkan ke dalam dua sektor yaitu
+sektor basis dan sektor non basis.
+Sektor basis merupakan sektor yang melakukan aktifitas berorientasi ekspor keluar
+batas wilayah perekonomian yang bersangkutan. Sektor basis memiliki peran penggerak
+utama (primer mover) dalam pertumbuhan suatu wilayah. Semakin besar ekspor suatu
+wilayah semakin maju pertumbuhan wilayah. Setiap perubahan yang terjadi pada sektor
+basis menimbulkan efek ganda dalam perekonomian regional. Sedangkan sektor non basis
+adalah sektor yang menyediakan barang dan jasa untuk masyarakat di dalam batas wilayah
+perekonomian bersangkutan.
+Luas lingkup produksi dan pemasaran bersifat lokal. Inti dari teori ini adalah bahwa
+arah dan pertumbuhan suatu wilayah ditentukan oleh ekspor wilayah tersebut. Strategi
+pembangunan daerah yang muncul berdasarkan teori ini
+adalah penekanan terhadap arti penting bantuan (aid) kepada dunia usaha yang mempunyai
+pasar secara nasional maupun internasional. Implementasi kebijakannya mencakup
+pengurangan hambatan/ batasan terhadap perusahaan-perusahaan yang berorientasi ekspor
+yang ada dan akan didirikan di daerah tersebut.
+Untuk menganalisis basis ekonomi suatu wilayah digunakan analisis Location
+Quotient (LQ). LQ digunakan untuk mengetahui seberapa besar tingkat spesialisasi sektor
+basis atau unggulan dengan cara membandingkan peranannya dalam perekonomian daerah
+tersebut dengan peranan kegiatan atau industri sejenis dalam perekonomian regional
+(Emilia, 2006:24).
+LQ (Location Quotient) menggunakan rasio total nilai PDRB disuatu daerah
+(kabupaten/kota) dibandingkan dengan rasio PDRB pada sektor yang sama di wilayah
+referensi (provinsi/nasional).
+Pengertian Sektor Unggulan
+Sektor unggulan adalah sektor yang salah satunya dipengaruhi oleh keberadaan
+faktor anugerah (endowment factors). Selanjutnya faktor ini berkembang lebih lanjut
+melalui kegiatan investasi dan menjadi tumpuan kegiatan ekonomi. Kriteria sektor
+unggulan akan sangat bervariasi. Hal ini didasarkan atas seberapa besar peranan sektor
+tersebut dalam perekonomian daerah, diantaranya: pertama, sektor unggulan tersebut
+memiliki laju tumbuh yang tinggi; kedua, sektor tersebut memiliki angka penyerapan
+tenaga kerja yang relatif besar; ketiga, sektor tersebut memiliki keterkaitan antar sektor
+yang tinggi baik ke depan maupun kebelakang; keempat, dapat juga diartikan sebagi sektor
+yang mampu menciptakan nilai tambah yang tinggi (Sambodo dalam Usya, 2006).
+2. METODE PENELITIAN
+
+Steeva Tumangkeng
+
+132
+
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+
+Ruang Lingkup Penelitian
+Pada penelitian kali ini menggunakan metode kuantitatif yang memakai data kurun
+waktu (times series) dan data waktu yang digunakan yaitu 2010 sampai 2017. Penelitian
+ini dilaksanakan di Kota Tomohon. Penelitian ini bertujuan untuk menganalisis potensi
+sektor ekonomi di Kota Tomohon.
+Metode Analisis Data
+Untuk mendapatkan pemetaan komoditas unggulan yang dominan dari yang
+berada di Kabupaten Minahasa , maka diperlukan beberapa tahapan analisis. Berikut
+tahapan analisis yang dilakukan yaitu :
+1. Analisis Location Quotient (LQ) digunakan untuk menentukan sektor basis dan
+non basis dalam perekonomian wilayah Kota Tomohon.
+2. Analisis Shift Share adalah salah satu teknik kuantitatif yang biasa digunakan
+untuk menganalisis perubahan struktur ekonomi daerah relatif terhadap
+struktur wilayah administratif.
+Analisis Location Quotient (LQ)
+Analisis Location Quotient di gunakan karena memiliki kebaikan berupa alat
+analisis yang sederhana yang dapat menunjukkan struktrur perekonomian suatu daerah dan
+industri substitusi impor potensial atau produk yang bisa dikembangkan untuk ekspor dan
+menunjukkan industri potensial untuk di analisis lebih lanjut.Alat analisis Location
+Quetiont dimaksudkan untuk mengidentifikasi dan merumuskan komposisi dan pergeseran
+sektor basis suatu wilayah dengan menggunakan data Produk Domestik Regional Bruto
+(PDRB) sebagai indikator pertumbuhan wilayah (Adisasmita, 2005:29).
+Analisis ini digunakan untuk mengetahui komoditas basis pada masing-masing
+kecamatan di wilayah penelitian. Teknik analisis yang digunakan adalah Location Quotient
+(LQ), yaitu perbandingan antara besarnya peranan komoditas tersebut secara nasional atau
+pada wilayah yang lebih luas sehingga diperoleh derajat relatif spesialisasi suatu
+komoditas. Secara sistematis perhitungan LQ dinyatakan sebagai berikut:
+𝐒𝐢/𝐒
+𝑳𝑸 =
+𝐍𝐢/𝐧
+Keterangan:
+LQ
+= Nilai Location Quotient (LQ).
+Si
+= PDRB sektor i di Kota studi
+S
+= PDRB total di Kota studi
+Ni
+= PDRB sektor i di Provinsi Sulawesi Utara
+N
+= PDRB total di Provinsi Sulawesi Utara
+Jika hasil perhitungannya menunjukkan LQ > 1, berarti tingkat spesialisasi sektor
+i di Kota studi lebih besar di banding sektor yang sama pada Provinsi Sulawesi Utara berarti
+merupakan sektor basis dan berpotensi untuk ekspor, sedangkan LQ < 1, berarti tingkat
+
+Steeva Tumangkeng
+
+133
+
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+
+spesialisasi sektor i di Kota studi lebih kecil di banding sektor yang sama pada Provinsi
+Sulawesi Utara berarti bukan sektor basis (sektor lokal/impor). Bila LQ=1 berarti tingkat
+spesialisasi sektor i di Kota studi sama dengan sektor yang sama pada Provinsi Sulawesi
+Utara.
+Teknik ini memiliki asumsi bahwa semua penduduk di suatu daerah mempunyai
+pola permintaan yang sama dengan pola permintaan nasional (regional). Bahwa
+produktivitas tiap pekerja di setiap sektor industri di daerah adalah sama dengan
+produktivitas pekerja dalam industri nasional. Setiap industri menghasilkan barang yang
+homogen pada setiap sektor, dan bahwa perekonomian bangsa yang bersangkutan adalah
+suatu perekonomian tertutup (Kartikaningdyah, 2013)
+Analisis Shift Share
+Analisis ini menggambarkan kinerja sektor-sektor di suatu wilayah di bandingkan
+dengan kinerja perekonomian nasional/regional. Tujuan dalam analisis yaitu untuk
+menentukan kinerja atau produktivitas perekonomian suatu daerah dengan daerah atasnya
+yang menjadi acuan. Misalkan dengan membandingkan Kota Tomohon dengan Propinsi
+Sulawesi Utara.
+Cara perhitungan Shift Share ini adalah sebagai berikut :
+SS = G – R
+G = Ert – Ero
+R = Ero*(Ent / Eno)
+S = Ert – (Ent / Eno) *Ero
+Di mana :
+SS = Shift Share
+Ert = Tingkat pertumbuhan daerah Kota Tomohon pada tahun t
+Ero = Tingkat pertumbuhan daerah pada tahun ke-0
+Ent = Tingkat pertumbuhan regional Provinsi Sulawesi Utara tahun t
+Eno = Tingkat pertumbuhan regional tahun ke-0
+G = Pertumbuhan
+R = Pertumbuhan daerah kalau ia mengikuti pertumbuhan nasional.
+Sedangkan untuk melihat pengaruh sektor industri atau sektoral nasional
+daerahnya di gunakan Proportional Shift (PS) atau dengan kata lain apakah pola atau
+struktur industri di daerah itu mengikuti pola atau struktur industri nasional atau tidak,
+maka dapat di lihat melalui Proportional Shift .
+Cara perhitungannya adalah sebagai berikut :
+PS = [ ( 𝐸𝑛𝑡 𝑖 / 𝐸𝑛𝑜 𝑖 ) – ( Ent / Eno ) * Ero
+Di mana :
+Sp = Shift Proporsional
+Ent = Pertumbuhan Regional periode akhir sektor i
+Eno = Pertumbuhan Daerah periode awal Sektor i
+
+Steeva Tumangkeng
+
+134
+
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+
+Apabila perhitungan Proportional Shift (PS) menghasilkan tanda positif, artinya
+bahwa sektor tersebut tumbuh lebih cepat di banding perekonomian yang di jadikan acuan.
+Sebaliknya jika proportional shift menghasilkan tanda negatif, maka artinya sektor tersebut
+tumbuh lebih lambat di bandingkan perekonomian yang di jadikan acuan.
+
+3. HASIL PENELITIAN DAN PEMBAHASAN
+Hasil Analisis LQ
+Analisis Location Quetiont (LQ) digunakan untuk mengetahui sektor – sektor
+ekonomi manakah yang termasuk basis atau berpotensi ekspor dan manakah yang termasuk
+sektor non basis. Hal tersebut dapat terlihat jika LQ menunjukan angka lebih dari satu
+(LQ>1) berarti sektor tersebut merupakan sektor basis, sektor tersebut memiliki
+keunggulan yang komparatif yang dapat membantu mengembangkan perekonomian
+daerah. Kemudian jika hasil menunjukan angka kurang dari satu (LQ<1) berarti sektor
+tersebut bukan merupakan sektor basis, sektor tersebut hanya mampu memenuhi kebutuhan
+yang ada di daerahnya sendiri dan belum mampu untuk di ekspor ke luar daerah. (Ghalib,
+2005:169 dalam Fadlan 2010).
+Hasil Perhitungan LQ (Location Quetient) Sektor Ekonomi
+Kota Tomohon 2010-2016
+Sektor Ekonomi
+2010
+1. Pertanian, Peternakan, Perburuan
+1,35
+dan Jasa Pertanian
+a. Tanaman Pangan
+0,75
+b. Tanaman Hortikultura
+2,56
+c. Perkebunan
+0,99
+d. Peternakan
+2,91
+e. Jasa Pertanian dan Perburuan
+1,40
+2. Kehutanan dan Penebangan Kayu
+0,01
+3. Perikanan
+0,28
+Pertanian, Kehutanan, dan
+1,00
+Perikanan
+Sumber : Hasil Olah Data
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+Rata-rata
+
+Ket
+
+1,39
+
+1,39
+
+1,40
+
+1,41
+
+1,38
+
+1,37
+
+1,38
+
+Basis
+
+0,78
+2,31
+1,07
+2,71
+1,39
+0,01
+0,26
+
+0,82
+2,27
+1,01
+2,73
+1,40
+0,01
+0,26
+
+0,83
+2,31
+1,00
+2,76
+1,42
+0,01
+0,26
+
+0,84
+2,31
+0,99
+2,75
+1,42
+0,01
+0,26
+
+0,81
+2,26
+0,97
+2,68
+1,33
+0,01
+0,26
+
+0,79
+2,24
+0,98
+2,62
+1,29
+0,01
+0,25
+
+0,80
+2,32
+1,00
+2,74
+1,38
+0,01
+0,26
+
+Non Basis
+Basis
+Non Basis
+Basis
+Basis
+Non Basis
+Non Basis
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+1,00
+
+Berdasarkan hasil perhitungan LQ pada tabel diatas selama periode 2010 sampai
+2016 di Kota Tomohon yang memiliki nilai LQ>1 atau basis/unggulan adalah sub sektor
+Pertanian, Peternakan, Perburuan dan Jasa Pertanian dengan nilai LQ rata-rata sebesar
+1,38% dan juga yang memiliki LQ>1 adalah sub subsektor Tanaman Hortikultura yang
+memiliki nilai LQ rata-rata 2,32% kemudian sub subsektor peternakan dengan nilai LQ
+rata-rata sebesar 2,74% terakhir sub subsektor jasa pertanian dan perburuan yang memiliki
+nilai LQ rata-rata 1,38%. Sektor-sektor inilah yang merupakan sektor basis atau unggulan,
+sangat berpotensi untuk di kembangkan dan bisa menjadi sumber daya untuk mendorong
+perekonomian Kota Tomohon karena memiliki kekuatan dan prospek yang baik dimasa
+datang.
+Steeva Tumangkeng
+
+135
+
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+
+Analisis Shift Share (SS)
+Analisis Shift Share merupakan teknik yang sangat berguna dalam menganalisis
+perubahan struktur ekonomi daerah dibandingkan dengan perekonomian nasional. Tujuan
+analisis ini sendiri adalah untuk menentukan kinerja atau produktivitas kerja perekonomian
+daerah dengan membandingkanya dengan daerah yang lebih besar (region/nasional).
+
+Hasil Perhitungan Analisis Shift Share (SS)
+Kota Tomohon Tahun 2010-2016
+Sektor Ekonomi
+1. Pertanian, Peternakan, Perburuan dan Jasa
+Pertanian
+a. Tanaman Pangan
+b. Tanaman Hortikultura
+c. Perkebunan
+d. Peternakan
+e. Jasa Pertanian dan Perburuan
+2. Kehutanan dan Penebangan Kayu
+3. Perikanan
+Pertanian, Kehutanan, dan Perikanan
+
+National
+Share
+
+Proportional
+Shift
+
+Differential
+Shift
+
+1.040.401
+
+(53.105,0)
+
+371.130,8
+
+1.358.427
+
+157.518
+254.228
+328.962
+282.857
+16.837
+342
+91.977
+1.132.720
+
+(154.664,8)
+218.139,8
+(8.808,1)
+281.653,6
+10,8
+(374,3)
+23.322,5
+0
+
+87.680,0
+(99.703,7)
+68.121,8
+(61.800,9)
+(1.644,2)
+(43,8)
+(24.503,3)
+315.565,4
+
+90.533
+372.664
+388.276
+502.709
+15.204
+(76)
+90.796
+1.448.286
+
+Dij
+
+Sumber : Hasil Olah Data
+
+Dari pengolahan data terdapat hasil analisis yaitu:
+1. Pengaruh pertumbuhan ekonomi Sulawesi Utara terhadap perekonomian Kota
+Tomohon mempunyai nilai positif terhadap semua sektor dan sub sektor
+Pertanian, Kehutanan, dan Perikanan dengan jumlah nilai output sebesar
+1.132.720. Hasil tersebut berarti bahwa perekonomian sektor dan sub sektor
+Pertanian, Kehutanan, dan Perikanan mengalami pertumbuhan yang lebih cepat
+daripada rata – rata pertumbuhan Provinsi Sulawesi Utara. Sub sektor yang
+menjadi penyumbang terbesar adalah Pertanian, Peternakan, Perburuan dan Jasa
+Pertanian dan juga Sub subsektor yang menjadi penyumbang terbesar adalah
+subsubsektor perkebunan, peternakan, tanaman hortikultura dan tanaman pangan.
+2. Menurut pergeseran proporsional (Proportional Shift) secara keseluruhan
+perekonomian sektor dan sub sektor Pertanian, Kehutanan, dan Perikanan Kota
+Tomohon belum mengalami kemajuan karena dilihat dari hasil Proportional Shift
+yang negatif dan mendapatkan hasil PDRB yaitu 0.
+3. Melalui pergeseran diferensial (Differential Shift) perkembangan perekonomian
+Kota Tomohon sudah mempunyai daya saing yang tinggi atau cepat terhadap
+kemajuan perekonomian Sulawesi Utara karena hasil mendapat hasil 315.565,4.
+4. Perekonomian Kota Tomohon mendapatkan hasil yang sangat positif terhadap nilai
+Dij selama kurun waktu 2010-2016 karena mengalami kenaikan nilai absolute serta
+keunggulan kinerja perekonomian daerah dengan sebesar 1.448.286.
+
+Steeva Tumangkeng
+
+136
+
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+4. PENUTUP
+
+Kesimpulan
+1. Berdasarkan hasil perhitungan LQ pada tabel diatas selama periode 2010 sampai
+2016 di Kota Tomohon yang memiliki nilai LQ>1 atau basis/unggulan adalah sub
+sektor Pertanian, Peternakan, Perburuan dan Jasa Pertanian dengan nilai LQ ratarata sebesar 1,38% dan juga yang memiliki LQ>1 adalah sub subsektor Tanaman
+Hortikultura yang memiliki nilai LQ rata-rata 2,32% kemudian sub subsektor
+peternakan dengan nilai LQ rata-rata sebesar 2,74% terakhir sub subsektor jasa
+pertanian dan perburuan yang memiliki nilai LQ rata-rata 1,38%. Sektor-sektor
+inilah yang merupakan sektor basis atau unggulan, sangat berpotensi untuk di
+kembangkan dan bisa menjadi sumber daya untuk mendorong perekonomian Kota
+Tomohon karena memiliki kekuatan dan prospek yang baik dimasa datang.
+2. Berdasarkan hasil Shift Share Sub sektor yang menjadi penyumbang terbesar
+adalah Pertanian, Peternakan, Perburuan dan Jasa Pertanian dan juga Sub subsektor
+yang menjadi penyumbang terbesar adalah subsubsektor perkebunan, peternakan,
+tanaman hortikultura dan tanaman pangan. Sub Sektor dan Sub Subsektor
+ekonomi ini yang harus diprioritaskan dalam pembangunan ekonomi regional Kota
+Tomohon agar di masa mendatang baik pertumbuhan maupun daya siang serta
+keunggulan kompetitif sektoral-nya semakin meningkat.
+Saran
+Bagi pemerintah Kota Tomohon diharapkan lebih memperhatikan untuk melihat
+sub – sub sektor pertanian yang dapat menunjang perkembangan pertumbuhan
+perekonomian daerah dan memberikan prioritas utama terhadap sub – sub sektor yang
+mampu bersaing dengan sektor yang sama di daerah yang lain serta memberikan perhatian
+terhadap sub – sub sektor non basis sebagai penunjang sub sektor basis. Bagi pemerintah
+untuk membuat program kebijakan yang sesuai dengan keadaan daerah serta
+memperhatikan sektor unggulan dalam melakukan perencaaan agar dapat meningkatkan
+pendapatan daerah.
+
+DAFTAR PUSTAKA
+Arsyad, L. (1999) Pengantar Perencanaan dan Pembangunan Ekonomi Daerah, Edisi
+Pertama, BPFE, Yogyakarta.
+Arsyad, Lincolin. “Pengantar Perencanaan Ekonomi Daerah (edisi kedua)” .Yogyakarta:
+BPFE. 2002
+Adisasmita, Rahardjo. 2005. Dasar-dasar Ekonomi Wilayah. Penerbit Graha Ilmu.
+Fachrurrazy, (2009), “ Analisis Peenentuan Sektor Unggulan Perekonomian Wilayah
+Kabupaten Aceh Utara dengan Pendekatan Sektor Pembentuk APBD”,Medan
+Latuny, Elsjamina. 2014. Analisis Sektor Ungglan di Propinsi Maluku. Fakultas Ekonomi
+Universitas Pattimura
+
+Steeva Tumangkeng
+
+137
+
+Jurnal Berkala Ilmiah Efisiensi
+
+Volume 18 No. 01 Tahun 2018
+
+Richardson, H.W. 1991. Dasar-dasar Ilmu Ekonomi Regional. Lembaga Penerbit FEUI.
+Jakarta
+Sirojuzilam, 2008. Disparitas Ekonomi dan Perencanaan Regional, Ketimpangan Ekonomi
+Wilayah Barat dan Wilayah Timur Provinsi Sumatera Utara. Pustaka Bangsa Press
+Sambodo, M.T., 2002. Analisis Sektor Unggulan Propinsi Kalimantan Barat.Jurnal
+Ekonomi dan Pembangunan Vol. X No.2 2002. Pusat PenelitianEkonomi Lembaga
+Ilmu Pengetahuan Indonesia Jakarta
+Todaro, Michael P. 2000. Pembangunan Ekonomi di Dunia Ketiga. Erlangga. Jakarta
+Tarigan, Robinson. 2004. Perencanaan Pembangunan Wilayah. Jakarta: PT Bumi Aksara.
+Widodo, Tri. 2006. Perencanaan Pembangunan Aplikasi Komputer. UPP STIM YKPN
+Yogyakarta.
+
+Steeva Tumangkeng
+
+138
+
+

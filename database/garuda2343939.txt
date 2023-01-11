@@ -1,0 +1,387 @@
+JURNAL INFORMATION SYSTEM
+
+Volume I, Nomor 2, November 2021, Page 54-60
+Email : jis@unkris.ac.id
+ISSN 2807-7849 (media online)
+Available Online at https://journal.teknikunkris.ac.id/index.php/jis
+
+Rancang Bangun Aplikasi Penjualan Rumah Berbasis Android
+1
+
+Nur Azis1, Andika Mawa Rizki2
+Fakultas Teknik, Sistem Informasi, Universitas Krisnadwipayana, Jakarta, Indonesia
+2
+PT. American Standard, Jakarta, Indonesia
+1
+Email: nuraziz@unkris.ac.id, 2andi.rizki1928@gmail.com
+
+Abstrak Aplikasi penjualan rumah berbasis android ini dibuat dengan tujuan mempermudah dalam kebutuan
+informasi mengenai jenis atau model rumah disamping itu harga, letak, model dan lain-lain. Bagi penjual atau
+marketing adalah sebagai wadah dalam memasarkan atau memperkenalkan produk-produk atau rumah yang akan
+dipasarkan atau ditawarkan kecalon pembeli. Adapun aplikasi yang dibangun adalah berbasis android disamping
+mudah dalam penyampaian informasi juga dikarenakan banyak sekali saat ini masyarakat memiliki headphone
+android sehingga memberi keuntungan tersendiri dan juga dapat menyasar semua lapisan masyarakat.
+Kata Kunci: Aplikasi; Rumah; Andorid; Marketing; Masyarakat.
+Abstract This android-based home sales application was created with the aim of making it easier for information
+needs about the type or model of the house besides the price, location, model and others. For sellers or marketing,
+it is a forum for marketing or introducing products or homes that will be marketed or offered to potential buyers.
+The application that is built is based on Android, besides being easy in conveying information, it is also because a
+lot of people currently have Android headphones so that it gives its own advantages and can also target all levels
+of society.
+Keywords: Application; Home; Android; Marketing; Society.
+
+1. PENDAHULUAN
+Rumah merupakan tempat berlindung dan beristirahat serta tempat berkumpul bagi keluarga[1]. Saat ini
+ada beberapa masyarakat atau penduduk yang masih susah dalam mencari informasi perumahan yang dapat
+dipercaya. Karena ada beberapa agen properti yang merahasiakan alamat properti[2] hal tersebut terkadang
+menjadi tanda tanya tersendiri bagi Sebagian calon pembeli. Disamping hal tersebut, biasanya penjualan
+perumahan dilakukan dengan memasang papan iklan[3] hal tersebut dinilai kurang terlihatnya bentuk nyata dari
+rumah tersebut, sehingga menyulitkan pembeli yang ingin melihat bentuk rumah[4]. Dengan adanya aplikasi
+banyak kelebihan dan keuntungan bagi penjual maupun pembeli[5]. Adapun salah satu aplikasi yang dibangun
+adalah berbasis Android. Karena Aplikasi android sekarang ini banyak digunakan untuk mendukung kegiatan
+tertentu sesuai dengan kebutuhan yang diinginkan oleh pengguna[6] disamping hal tersebut dengan adanya
+aplikasi memudahkan dalam mengakses informasi[7].
+Sedangkan pengertian Android merupakan sebuah sistem operasi bergerak (mobile operating system) yang
+mirip dengan sistem oleh operasi Linux, namun telah dimodifikasi[8]. Seiring berjalannya waktu, Android telah
+berevolusi menjadi sistem yang luar biasa dan banyak diminati oleh pengguna smartphone karena mempunyai
+banyak kelebihan[1]. Saat ini pengguna smartphone di Indonesia terus meningkat[9], Indonesia akan melampaui
+100 juta pengguna smartphone aktif pada tahun 2018 yang menjadikan negara pengguna smartphone terbesar ke
+empat didunia setelah China, India & Amerika Serikat[10]. Berdasarkan teori serta penelitian yang sudah
+dilakukan terdahulu bahwa menggunakan media online tersebut sebagai media massa yang interaktif dibandingkan
+media konvensional[11]. Diharapkan dalam penelitian ini dapat menjawab atau memberi solusi mengenai
+permasalan dibidang pemasaran[12], informasi[13] dibisnis properti[14].
+
+2. METODOLOGI PENELITIAN
+2.1 Tahapan Penelitian
+Adapun tahapan proses penelitian tersaji pada gambar 1. Pada tahapan ini di gambarkan proses penelitian
+dari awal sampai akhir.
+
+Nur Azis, Copyright © 2021, JIS, Page 54
+Submitted: 10/11/2021; Accepted: 15/11/2021; Published: 23/11/2021
+
+JURNAL INFORMATION SYSTEM
+
+Volume I, Nomor 2, November 2021, Page 54-60
+Email : jis@unkris.ac.id
+ISSN 2807-7849 (media online)
+Available Online at https://journal.teknikunkris.ac.id/index.php/jis
+
+Gambar 1. Tahapan Alur Penelitian
+Penjelasan Gambar 1. Tahapan Alur Penelitian
+a. Identifikasi Masalah
+Pada tahap ini penelitian difokuskan dengan mencari hal-hal yang berkatian[15] dengan pemasaran,
+penyampaian informasi mulai dari pengumpulan data terkait Analisa dilapangan serta landasan teori
+untuk mendukung penelitian dengan mempelajari penelitian-penelitian terdahulu yang berkaitan dengan
+bisnis property.
+b. Rumusan Masalah
+Pada tahapan ini, dilakukan perumusan masalah berdasarkan masalah yang sudah di identifikasi. Yaitu
+merupakan penjabaran dari identifikasi masalah seperti pertanyaan lengkap dan terfperinci tentang ruang
+lingkup masalah yang akan diteliti berdasarkan identifikasi masalah tersebut[16].
+c. Pengumpulan Data & Survey
+Survei merupakan suatu bentuk aktifitas yang sudah menjadi kebiasaan pada masyarakat, dan banyak
+diantaranya berpengalaman dengan riset ini sebagai suatu bentuk yang tersendiri atau yang lainnya[17]
+d. Tahap Penentuan Perangkat Lunak
+Pada tahapan ini peneliti melakukan analisa dan menentukan bahasa pemrograman serta software yang
+dapat medukung penelitian serta dapat diimplementasikan dengan studi kasus yang diteliti
+e. Tahap Perancangan Tampilan
+Pada tahapan ini dilakukan perancangan perangkat lunak berupa desain database, antarmuka dan
+perancangan sistem dengan menerjemahkan spesifikasi kebutuhan perangkat lunak kedalam desain UML
+sehingga akan memudahkan dalam melakukan pengembangan perangkat lunak dan melakukan
+komunikasi dengan pengelola publikasi ilmiah[18].
+f. Tahapan Pembuatan Aplikasi
+Tahapan ini adalah tahapan pembangunan sistem yang dilakukan berdasarkan masukan berupa desain
+UML yang telah dibuat pada tahapan perancangan sistem ( tahap elaboration ). Pada tahap ini dilakukan
+implementasi dari desain UML kedalam kode pemrograman[18].
+g. Pengujian Aplikasi
+Pada Tahapan ini, merupakan tahapan terakhir dalam penelitian ini, dengan mencari tau apakah penelitian
+ini berhasil atau belum berhasil[16].
+h. Implementasi Sistem.
+Tahap implementasi sistem merupakan tahap pembuatan program dengan menggunakan bahasa
+pemrograman yang sesuai kebutuhan sistem.Sehingga pada tahap ini dibahas beberapa tampilan halaman
+hasil implementasi sistem[19]
+
+3. HASIL DAN PEMBAHASAN
+Implementasi Aplikasi Penjualan Rumah Berbasis Android adalah tahap penerapan sekaligus pengujian
+bagi sistem baru serta merupakan tahap dimana aplikasi siap dioperasikan pada keadaan yang sebenarnya,
+efektifitas sistem baru akan diketahui secara pasti, juga untuk semua kelebihan dan kekurangan sistem dan aplikasi
+program.
+3.1
+
+Analisa Sistem
+Tahap analisa sistem merupakan tahapan yang sangat penting, maka pendekatan yang dilakukan adalah
+mendefinisikan masalah pada sistem yang sedang berjalan berdasarkan prosedur-prosedur yang ada. Dengan
+demikian, akan diketahui permasalahannya serta kesulitan apa saja yang dihadapi oleh sistem yang sedang
+berjalan, apa saja pengaruhnya dan hal apa yang harus diperhatikan validasinya terhadap sasaran sistem yang akan
+dirancang.
+
+Nur Azis, Copyright © 2021, JIS, Page 55
+Submitted: 10/11/2021; Accepted: 15/11/2021; Published: 23/11/2021
+
+JURNAL INFORMATION SYSTEM
+
+Volume I, Nomor 2, November 2021, Page 54-60
+Email : jis@unkris.ac.id
+ISSN 2807-7849 (media online)
+Available Online at https://journal.teknikunkris.ac.id/index.php/jis
+
+3.1.1 Analisa Sistem Berjalan
+Sistem yang sedang berjalan saat ini masih menggunakan cara manual yaitu, pembeli mendapatkan
+informasi penjualan rumah melalui brosur yang ia dapatkan, jika pembeli tersebut tertarik maka ia akan
+menghubungi pihak marketing untuk membeli rumah (transaksi).
+START
+
+MELIHAT BROSUR
+
+TERTARIK?
+
+YA
+
+MEMILIH TIPE RUMAH
+
+CEK HARGA RUMAH
+TIDAK
+
+TIDAK
+
+COCOK?
+
+YA
+
+HUBUNGI MARKETING
+
+TRANSAKSI
+
+END
+
+Gambar 2. Analisa Sistem Berjalan
+3.1.2. Analisa Sistem Usulan.
+Pada analisa usulan dapat dijelaskan bahwa aplikasi yang dirancang sudah menggambarkan proses
+transaksi jual beli rumah, dalam rancangan aplikasi tersebut juga mempermudah dalam proses pembelian rumah
+oleh calon pembeli. Proses yang terjadi pada rancangan usulan tersebut adalah pembeli memilih rumah yang
+sudah tersedia pada aplikasi, jika pembeli sudah memlih rumah mana yang akan dibeli maka sistem akan
+menampilkan harga dari rumah tersebut. Dalam hal tersebut pembeli kembali diberikan kesempatan untuk
+menimbang dalam pembelian rumah, apakah harga dari rumah tersebut sudah sesuai atau tidak. Jika sesuai maka
+sistem akan memberikan kontak dari penjual rumah yang dapat dihubungi.
+
+Nur Azis, Copyright © 2021, JIS, Page 56
+Submitted: 10/11/2021; Accepted: 15/11/2021; Published: 23/11/2021
+
+JURNAL INFORMATION SYSTEM
+
+Volume I, Nomor 2, November 2021, Page 54-60
+Email : jis@unkris.ac.id
+ISSN 2807-7849 (media online)
+Available Online at https://journal.teknikunkris.ac.id/index.php/jis
+START
+
+LIST RUMAH YANG
+DIJUAL
+
+MEMILIH RUMAH
+
+SESUAI?
+
+YA
+
+MENAMPILKAN HARGA
+RUMAH
+TIDAK
+TIDAK
+
+SESUAI?
+
+YA
+
+MENAMPILKAN KONTAK
+PENJUAL RUMAH
+
+END
+
+Gambar 3. Analisa Sistem Usulan
+3.2
+
+Implementasi Program
+
+Gambar 4. Halaman Login
+Pada halaman login user harus mengisikan username dan password terlebih dahulu sebelum dapat
+menggunakan aplikasi ini. Jika user belum memiliki akun maka ia dapat membuatnya dengan memilih tombol
+daftar yang tersedia pada halaman tersebut. Pada halaman ini juga menyediakan fitur lupa password yang mana
+akan membantu user untuk mendapatkan passwordnya kembali.
+
+Nur Azis, Copyright © 2021, JIS, Page 57
+Submitted: 10/11/2021; Accepted: 15/11/2021; Published: 23/11/2021
+
+JURNAL INFORMATION SYSTEM
+
+Volume I, Nomor 2, November 2021, Page 54-60
+Email : jis@unkris.ac.id
+ISSN 2807-7849 (media online)
+Available Online at https://journal.teknikunkris.ac.id/index.php/jis
+
+Gambar 5. Halaman Sign Up
+Pada halaman ini user mengisikan data-data yang dibutuhkan seperti username, nama lengkap, password,
+email, dan nomor telpon (dengan format kode negara “+62” untuk negara indonesia).
+
+Gambar 6. Halaman Beranda
+
+Nur Azis, Copyright © 2021, JIS, Page 58
+Submitted: 10/11/2021; Accepted: 15/11/2021; Published: 23/11/2021
+
+JURNAL INFORMATION SYSTEM
+
+Volume I, Nomor 2, November 2021, Page 54-60
+Email : jis@unkris.ac.id
+ISSN 2807-7849 (media online)
+Available Online at https://journal.teknikunkris.ac.id/index.php/jis
+
+Pada halaman ini user disuguhkan dengan list dari rumah-rumah yang ditawarkan, untuk melihat detail
+rumah user hanya perlu meng-klik gambar dari rumah yang diingikan maka secara otomatis aplikasi akan
+menampilkan halaman detail rumah. Pada halaman ini juga terdapat beberapa tombol yang mana fungsi dari
+masing-masing tombol adalah membuka side-menu aplikasi dan membuka halaman tambah rumah.
+
+Gambar 7. Halaman Detail Rumah
+Pada halaman ini aplikasi menampilkan halaman yang berisikan gambar, harga, dan kategori dari sebuah
+rumah. Pada halaman ini terdapat beberapa tombol yang berfungsi unutk melihat profil penjual serta melakukan
+panggilan ke penujual untuk menanyakan lokasi dari rumah yang dijual, harga rumah, dan kondisi wilayah dari
+rumah tersebut.
+3.3. Pengujian Sistem
+Metode pengujian terhadap fungsionalitas atau kegunaan sebuah aplikasi ini. Mengunakan black box
+testing. Black box testing adalah pengujian yang dilakukan sepenuhnya dengan hanya menilai kebutuhan dan
+spesifikasi software. Adapun hasil pengujian tersebut tersaji pada Tabel dibawah ini :
+Target Pengujian
+Fungsi yang diuji
+Hasil Yang Diinginkan
+Hasil Pengujian
+Tombol Profil pada Menu Membuka Halaman Log In
+Menampilkan Halaman Log In
+Berhasil
+Aplikasi
+Button Sign Up
+Membuka Halaman Sign Up Menampilkan Halaman Sign
+Berhasil
+Up
+Button Forgot Password
+Membu Halaman Recovery Menampilkan
+Halaman
+Berhasil
+Password
+Recovery Password
+Halaman
+Recovery Mengirimkan
+Password Menampilkan Halaman Log In
+Berhasil
+Password
+berdasarkan
+e-mail
+pengguna
+Halaman Log In
+Log In Pengguna
+Menampilkan
+Halaman
+Berhasil
+Beranda User
+Button
+Back-Halaman Kembali Halaman Beranda Menampilkan
+Halaman
+Berhasil
+Log In
+Aplikasi
+Beranda Aplikasi
+
+Nur Azis, Copyright © 2021, JIS, Page 59
+Submitted: 10/11/2021; Accepted: 15/11/2021; Published: 23/11/2021
+
+JURNAL INFORMATION SYSTEM
+
+Volume I, Nomor 2, November 2021, Page 54-60
+Email : jis@unkris.ac.id
+ISSN 2807-7849 (media online)
+Available Online at https://journal.teknikunkris.ac.id/index.php/jis
+
+Halaman Sign Up
+
+Registrasi Akun Pengguna
+
+Menampilkan
+Halaman
+Beranda User (Recent Items)
+
+Berhasil
+
+4. KESIMPULAN
+Berdasarkan penelitian yang dilakukan terhadap sistem informasi penjualan rumah atau property berbasis
+online didapat kesimpulan yaitu telah dibuat aplikasi yang dimana setiap user baik itu penjual atau calon pembeli
+dapat melakukan pencarian, memasang iklan rumah yang akan ditawarkan, disamping itu calon pembeli dapat
+melihat detail rumah yang dipasarkan dan dapat menghubungi team marketing dari rumah yang diminati.
+
+REFERENCES
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13]
+[14]
+[15]
+[16]
+[17]
+[18]
+[19]
+
+R. Muhammad, T. Listyorini, and A. Latubessy, “PENERAPAN TEKNOLOGI AUGMENTED REALITY PADA
+APLIKASI KATALOG RUMAH BERBASIS ANDROID,” Pros. SNATIF Ke-1, pp. 267–274, 2014.
+S. Adam, A. S. M. Lumenta, and J. R. Robot, “Implementasi Teknologi Augmented Reality Pada Agen Penjualan
+Rumah,” E-Journal Tek. Elektro Dan Komput., vol. 3, no. 5, pp. 19–25, 2014.
+F. R. Arfianto and F. Nugrahanti, “Rancang Bangun Aplikasi Penjualan Perumahan Berbasis Web Pada Cv. Grand
+Permata Residence Magetan,” Semin. Nas. Teknol. Inf. dan Komun., vol. 1, no. 2017, p. 1, 2018.
+P. B. A. A. Putra, “Implementasi Augmented Reality Pada Media Promosi Penjualan Rumah,” J. Teknol. Inf. J.
+Keilmuan dan Apl. Bid. Tek. Inform., vol. 14, no. 2, pp. 142–149, 2020, doi: 10.47111/jti.v14i2.1163.
+Apriyanto and Y. Christiana, “Perancangan Aplikasi Penjualan Mainan Anak Secara Online,” IJCIT (Indonesian J.
+Comput. Inf. Technol., vol. 3, no. 1, pp. 110–121, 2018, [Online]. Available:
+https://ejournal.bsi.ac.id/ejurnal/index.php/ijcit/article/view/3765.
+C. Rozikin and Purwantoro, “RANCANG BANGUN APLIKASI SUPPORTING SALES PENJUALAN RUMAH
+DI PERUMAHAN BERBASIS ANDROID,” Techno Xplore, vol. 3, no. 2, pp. 52--67, 2018, [Online]. Available:
+http://dx.doi.org/10.1053/j.gastro.2014.05.023%0Ahttps://doi.org/10.1016/j.gie.2018.04.013%0Ahttp://www.ncbi.nl
+m.nih.gov/pubmed/29451164%0Ahttp://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5838726%250A
+http://dx.doi.org/10.1016/j.gie.2013.07.022.
+N. Azis, “ANALISA DAN PERANCANGAN KONSEP APLIKASI BIRDSHIELD,” J. Inf. Syst., vol. I, no. I, pp.
+6–11, 2021.
+H. Matlubah, A. Anekawati, and Ngadi, “Aplikasi Mobile Learning Berbasis Smartphone Android Sebagai Sumber
+Belajar Mahasiswa Program Studi Pendidikan Ipa Universitas Wiraraja Sumenep,” Lentera Sains (lensa), vol. 6, no.
+2, pp. 85–98, 2016.
+S. Gifary and L. K. N, “Adalah Sebuah Media Baru Dalam Proses Komunikasi.,” J. Sosioteknologi, vol. 14, no. 2,
+2015.
+Ramaita, Armaita, and P. Vandelis, “Hubungan Ketergantungan Smartphone Dengan Kecemasan (Nomophobia),” J.
+Kesehat., vol. 10, no. 2, p. 89, 2019, doi: 10.35730/jk.v10i2.399.
+R. Asse, Azlam, “Strategi Pemasaran Online (Studi Kasus Facebook Marketing Warunk Bakso Mas Cingkrank di
+Makassar),” J. Komun., vol. 7, no. 2, pp. 219–231, 2018.
+E. Supramono, “Price dan Promotion .,” J. Terap. Manaj. dan Bisnis, vol. 1, no. 1, pp. 19–27, 2015.
+N. Azis, “Perbandingan Dan Prediksi Kelulusan Mahasiswadengan Metode Algoritma Vfi,” Semin. Nas. Teknol.
+2018, pp. 847–852, 2018.
+W. P. Widharta and S. Sugiharto, “PENYUSUNAN STRATEGI DAN SISTEM PENJUALAN DALAM RANGKA
+MENINGKATKAN PENJUALAN TOKO DAMAI,” Manaj. Pemasar. PETRA, vol. 2, no. 1, pp. 1–15, 2013, doi:
+10.4135/9781452229669.n3693.
+B. Kusumo and N. Azis, “Rancang Bangun Alat Penyiram Sayuran Hidroponik Menggunakan Arduino Mega 2560,”
+J. Media Inform. Budidarma, vol. 5, no. 1, pp. 124–128, 2021, doi: 10.30865/mib.v5i1.2584.
+N. Azis, Herwanto, and F. Ramadhani, “Implementasi Speech Recognition Pada Aplikasi E-Prescribing
+Menggunakan Algoritme Convolutional Neural Network,” J. Media Inform. Budidarma, vol. 5, no. April, pp. 460–
+467, 2021, doi: 10.30865/mib.v5i2.2841.
+F. C. S. Adiyanta, “Hukum dan Studi Penelitian Empiris: Penggunaan Metode Survey sebagai Instrumen Penelitian
+Hukum Empiris,” Adm. Law Gov. J., vol. 2, no. 4, pp. 697–709, 2019, doi: 10.14710/alj.v2i4.697-709.
+Y. P. W. Simaremare, A. Pribadi, S. Radityo, and P. Wibowo, “Perancangan dan Pembuatan Aplikasi pada Jurnal
+SISFO,” Tek. Pomits, vol. 2, no. 3, pp. 470–475, 2013.
+N. M. Astiti and N. L. Ratniasih, “Sistem Pendukung Keputusan Pemberian Kredit Pada Lembaga Perkreditan Desa
+Pejeng,” J. Sist. Dan Inform., vol. 12, no. 2, pp. 112–121, 2018.
+
+Nur Azis, Copyright © 2021, JIS, Page 60
+Submitted: 10/11/2021; Accepted: 15/11/2021; Published: 23/11/2021
+
+

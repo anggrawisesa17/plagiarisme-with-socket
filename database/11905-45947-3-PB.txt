@@ -1,0 +1,1217 @@
+JEKK
+KKK
+K
+
+Jurnal Epidemiologi Kesehatan Komunitas
+7 (1), 2022, 382-393
+
+Hubungan Gaya Hidup dengan Kesehatan Mental Remaja di Indonesia
+(Analisis Data Global School-Based Student Health Survey Indonesia 2015)
+Silfia Dini Pratiwi*, Ratna Djuwita*
+
+*
+
+Program Studi Magister Epidemiologi, Fakultas Kesehatan Masyarakat, Universitas Indonesia,
+**
+Departemen Epidemiologi, Fakultas Kesehatan Masyarakat, Universitas Indonesia
+
+ABSTRACT
+Background: Mental health disorders are one of the main risk factors for causing pain and death in
+adolescents. Symptoms of mental health disorders can be anxiety, depression, sleep disorders, suicidal
+or self-harm ideas, and attempted suicide. Poor mental health is a severe health problem, especially in
+adolescents. Mental health is affected by multiple factors, including daily behavior and individual
+lifestyle.
+Methods: This study aimed to find out the relationship between lifestyle and mental health of
+adolescents in Indonesia. This study used secondary data from Indonesia's Global School-Based
+Student Health Survey in 2015. The population of this study was 9.628 students aged 11-18 years in
+Indonesia. This research sample was obtained by the total sampling method. This study used
+multivariate analysis of cox regression and large associations expressed with Prevalence Ratio (PR)
+with 95% Confidence Interval.
+Result: The prevalence of adolescents in Indonesia with mental health disorders is 9,4%. Multivariate
+analysis test results showed there was a significant relationship between lifestyle and adolescent mental
+health in Indonesia (PR= 1,47, 95% CI: 1,31 – 1,65) after being controlled by gender, socioeconomic
+status, and bullying.
+Conclusion : The school and parents are advised to work together to prevent mental health disorders
+in adolescents.
+
+Keywords : Mental Health; Mental Health Disorders; Lifestyle; Adolescent.
+
+*Penulis korespondensi, silfia.dini@ui.ac.id
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+383
+
+Pendahuluan
+Dalam beberapa tahun terakhir, kesehatan
+mental telah dianggap penting untuk mencapai
+tujuan pembangunan global yaitu dengan
+dimasukannya kesehatan mental dalam SDG
+(Sustainable Development Goals).1 Kondisi
+gangguan kesehatan mental meningkat di
+seluruh dunia, ada kenaikan 13% kondisi
+gangguan
+kesehatan
+mental
+dan
+penyalahgunaan zat terlarang pada beberapa
+dekade terakhir hingga tahun 2017. Kondisi
+gangguan kesehatan mental dapat menyebabkan
+1 dari 5 tahun hidup dengan kecacatan.
+Gangguan kesehatan mental menyumbang
+sekitar 14% pada beban penyakit global, dengan
+depresi dan kecemasan sebagai penyebab
+disabilitas di seluruh dunia.2
+Kesehatan mental yang terganggu
+merupakan salah satu faktor risiko utama
+penyebab kesakitan dan kematian pada remaja.3
+Gejala gangguan mental dapat berupa ansietas
+atau kecemasan, depresi, gangguan tidur, ide
+bunuh diri atau menyakiti diri sendiri dan
+percobaan bunuh diri.4 Kondisi mental yang
+buruk merupakan masalah kesehatan yang berat,
+khususnya pada remaja dan sebagian besar
+masalah kesehatan mental dimulai sejak usia 14
+tahun.
+Kesehatan mental dipengaruhi oleh
+berbagai faktor, termasuk perilaku sehari-hari
+yang dapat diubah oleh individu.5 Informasi
+mengenai pengaruh gaya hidup terhadap gejala
+depresi dan gangguan kesehatan mental lainnya
+masih sedikit.6 Gaya hidup sehat dapat
+mengurangi kerentanan remaja terhadap stres
+dan dapat meningkatkan kesejehateraan
+mental.7,8 Kerangka hasil tentang penelitian
+kesehatan masyarakat di Inggris menyatakan
+bahwa program gaya hidup sehat yang bertujuan
+untuk meningkatkan aktivitas fisik dan
+memperbaiki pola makan atau diet, dapat
+meningkatkan kesehatan mental.2 Sedangkan
+penelitian Ferreira (2016) menyebutkan bahwa
+remaja pada tingkat akhir lebih memiliki
+kemungkinan untuk tidak bergerak (perilaku
+menetap). Remaja pada masa ini kemungkinan
+memiliki lebih banyak mata pelajaran dan
+tekanan akademis yang besar sehingga
+memperpanjang waktu duduk mereka dan
+menggantikan waktu untuk aktivitas fisik.9
+
+Gaya hidup yang tidak sehat seperti
+konsumsi alkohol dan merokok meningkatkan
+risiko keinginan bunuh diri.7 Gaya hidup yang
+berisiko lebih cenderung berhubungan dengan
+usia muda atau remaja, jenis kelamin laki-laki,
+tingkat pendidikan yang rendah, dan gangguan
+mental. Selain itu, gaya hidup yang berisiko
+berhubungan dengan kesehatan yang dinilai diri
+sendiri. Misalnya, kondisi kesehatan yang
+positif berkorelasi dengan tidak atau minim
+konsumsi alkohol dan merokok, serta dengan
+gizi yang sehat dan aktivitas fisik yang tinggi.10
+Penelitian yang dilakukan oleh Hoare
+menyatakan bahwa seseorang yang memiliki
+gangguan kesehatan mental lebih cenderung
+mengkonsumsi makanan yang tidak sehat
+sehingga mempengaruhi berat badan. Perilaku
+berisiko yang didapat pada saat remaja dapat
+berlanjut hingga dewasa.11
+Penelitian mengenai kesehatan mental
+remaja cukup banyak. Namun, penelitian
+mengenai gaya hidup terkait kesehatan mental
+masih kurang. Penelitian ini bertujuan
+mengetahui hubungan gaya hidup dengan
+kesehatan mental remaja di Indonesia
+berdasarkan GSHS tahun 2015. Sehingga dapat
+digunakan sebagai acuan untuk upaya
+pencegahan dan mengatasi gangguan kesehatan
+mental remaja di Indonesia.
+Metode
+Penelitian ini menggunakan desain crosssectional dengan pendekatan kuantitatif
+menggunakan data sekunder GSHS tahun 2015.
+GSHS Indonesia tahun 2015 menggunakan
+teknik two-stage cluster sampling (sekolah dan
+kelas). Pemilihan sampel sekolah pada GSHS
+Indonesia 2015 menggunakan “PC Sample
+School Selection Algorithm” sehingga diperoleh
+total sekolah sebanyak 75 sekolah dari 3
+wilayah di Indonesia meliputi Sumatra, JawaBali, Luar Sumatra Jawa-Bali dalam 26 provinsi
+dan 68 kabupaten/kota di Indonesia dan
+pemilihan sampel kelas menggunakan teknik
+systematic sampling. Populasi target pada
+penelitian ini adalah seluruh remaja sekolah
+tingkat SMP dan SMA berusia 11-18 tahun di
+Indonesia pada tahun 2015. Populasi sumber
+adalah remaja sekolah tingkat SMP dan SMA
+berusia 11-18 tahun di Indonesia yang menjadi
+responden dalam Global School-Based Student
+
+©2022, JEKK, All Right Reserved
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+384
+
+Health Survey Indonesia tahun 2015, yaitu
+sebesar 11.142. Populasi eligible adalah remaja
+sekolah tingkat SMP dan SMA usia 11-18 tahun
+di Indonesia yang menjadi responden dalam
+Global School-Based Student Health Survey
+
+Indonesia tahun 2015 dan memenuhi kriteria
+inklusi penelitian, yaitu 9.682 anak SMP-SMA.
+Populasi eligible akan masuk dalam penelitian
+(Gambar 1).
+
+Gambar 1. Alur Pemilihan Sampel
+Variabel independen pada penelitian ini
+adalah gaya hidup. Variabel gaya hidup
+merupakan komposit dari 8 variabel, yaitu:
+konsumsi buah, konsumsi sayur, konsumsi
+makanan cepat saji, konsumsi minuman
+berkarbonasi, kebiasaan merokok, konsumsi
+alkohol, aktivitas fisik, dan perilaku menetap.
+Skor maksimal dari variabel gaya hidup adalah
+8. Nilai skoring dari 8 variabel akan diakumulasi
+dan dirata-rata untuk setiap responden.
+Selanjutnya akan dilakukan uji analisis
+normalitas pada data tiap responden
+menggunakan uji normalitas Skewness &
+Kurtosis dan diperoleh hasil bahwa data tidak
+terdistribusi normal (P <0,05) sehingga
+pengkategorian variabel gaya hidup ditentukan
+dengan nilai median. Gaya hidup akan
+dikategorikan menjadi gaya hidup tidak sehat
+
+jika total skor responden < median dan gaya
+hidup sehat jika total skor responden > median.
+Variabel kesehatan mental pada penelitian
+ini adalah komposit dari variabel kesepian
+(kondisi pelajar hampir setiap saat/selalu merasa
+kesepian), variabel kecemasan (kondisi pelajar
+hampir setiap saat/selalu merasa khawatir
+hingga sulit tidur) dan variabel upaya bunuh diri
+(kondisi pelajar yang > 1 kali pernah
+melakukan upaya bunuh diri) yang dirasakan
+dalam 12 bulan terakhir.12 Kemudian kesehatan
+mental akan dikategorikan memiliki gangguan
+kesehatan mental jika skor total responden > 1
+dan tidak memiliki gangguan kesehatan mental
+jika skor total responden < 1.12
+Variabel kovariat pada penelitian ini
+terdiri dari umur, jenis kelamin, status sosialekonomi dan bullying. Umur dikelompokan
+
+©2022, JEKK, All Right Reserved
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+385
+
+menjadi kelompok umur 11-14 tahun dan 15-18
+tahun dan jenis kelamin (laki-laki dan
+perempuan). Pada GSHS Indonesia tidak
+terdapat variabel mengenai status sosialekonomi. Namun berdasarkan penelitian
+Hasumi et al., mengalami kelaparan dapat
+dijadikan sebagai proksi status sosialekonomi.13 Status sosial-ekonomi pada
+penelitian ini dilihat dari variabel mengalami
+kelaparan dengan pengkategorian status sosialekonomi tinggi menengah (tidak pernah/ jarang/
+kadang-kadang mengalami kelaparan) dan
+status sosial-ekonomi rendah (sering/selalu
+mengalami kelaparan). Variabel bullying
+dikategorikan menjadi mengalami bullying dan
+tidak mengalami bullying. Analisis pada
+penelitian ini terdiri dari analisis univariat,
+
+bivariat dan multivariat. Analis bivariat
+menggunakan uji chi-square untuk melihat
+untuk mengetahui kemakanaan hubungan
+secara statistik. Jika p value < 0,05 maka
+terdapat hubungan bermakna secara statistik. PR
+digunakan untuk mengetahui derajat hubungan
+dengan membandingkan risiko pada kelompok
+terpajan dan kelompok tidak terpajan yaitu
+dengan menentukan derajat kepercayaan (CI).
+Analisis multivariat menggunakan analisis cox
+regresi model kausal dengan confidence interval
+95%.
+Penelitian ini telah mendapatkan izin dari
+Komisi Etik Riset dan Pengabdian Masyarakat
+Fakultas Kesehatan Masyarakat Universitas
+Indonesia (Nomor: Ket-365/UN2.F10.D11/
+PPM.00.02/2021).
+
+Tabel 1. Karakteristik dan Perilaku Remaja di Indonesia
+Karakteristik dan Perilaku Remaja
+Umur
+11-14 tahun
+15-18 tahun
+Jenis Kelamin
+Laki-laki
+Perempuan
+Status Sosial-Ekonomi
+Tinggi-menengah
+Rendah
+Bullying
+Tidak
+Ya
+
+Hasil
+Tabel 1 mendeskripsikan mengenai
+karakteristik dan perilaku gaya hidup remaja di
+Indonesia. Sebagian besar remaja pada
+penelitian ini berumur 11-14 tahun (66,82%)
+dan jumlah perempuan (52,6%) lebih banyak
+dari pada laki-laki yaitu (47,4%). Mayoritas
+remaja pada penelitian ini memiliki status
+sosial-ekonomi adalah pada status sosialekonomi tinggi-menengah (96,05%) dan tidak
+pernah mengalami bullying (79,9%).
+Berdasarkan komponen gaya hidup,
+mayoritas remaja pada penelitian ini jarang
+mengkonsumsi buah (84,73%). Sebagian besar
+remaja sering mengkonsumsi sayur (57,62%).
+Sebanyak 12,12% remaja sering mengkonsumsi
+makanan cepat saji. Lebih banyak remaja yang
+jarang mengkonsumsi makananan cepat saji
+
+N (n=9.628)
+
+Weighted (%)
+
+6.057
+3.571
+
+66,82%
+33,18%
+
+4.273
+5.355
+
+47,4%
+52,6%
+
+9.248
+380
+
+96,05%
+3,95%
+
+7.703
+1.925
+
+79,9%
+20,1%
+
+(87,88%). Remaja yang jarang mengkonsumsi
+minuman berkarbonasi lebih banyak yaitu
+(73,28%) dari pada remaja yang sering
+mengkonsumsi
+minuman
+berkarbonasi
+(26,72%). Mayoritas remaja pada penelitian ini
+tidak
+merokok
+(89,43%)
+dan
+tidak
+mengkonsumsi
+alkohol (95,14%). Remaja
+cenderung kurang melakukan aktivitas fisik
+(87,32%). Sebanyak 28,16% remaja memiliki
+perilaku menetap tinggi. Setelah dikomposit 8
+variabel di atas, sebagian besar remaja memiliki
+gaya hidup sehat (71,84%) dan sisanya memiliki
+gaya hidup tidak sehat (28,16%) (Tabel 2).
+Berdasarkan
+komponen
+variabel
+kesehatan mental, mayoritas remaja pada
+penelitian ini tidak mengalami kesepian
+(94,02%) dan sisanya (5,98) mengalami
+kesepian dalam 12 bulan terakhir. Hal serupa
+
+©2022, JEKK, All Right Reserved
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+386
+
+juga dengan kecemasan, sebanyak 95,72%
+remaja pada penelitian ini tidak mengalami
+kecemasan dalam 12 bulan terakhir sedangkan
+yang mengalami kecemasan sebesar 4,28%.
+Hampir seluruh remaja pada penelitian ini tidak
+melakukan upaya bunuh diri (99,26%) dan
+
+0,74% pernah berupaya bunuh diri. Setelah
+dikomposit 3 variabel di atas, sebanyak 9,4%
+remaja pada penelitian ini memiliki gangguan
+kesehatan mental dan mayoritas remaja di
+Indonesia tidak memiliki gangguan kesehatan
+mental (90,6%) (Tabel 3).
+
+Tabel 2. Gaya Hidup Remaja di Indonesia
+Karakteristik Gaya Hidup Remaja
+Konsumsi Buah
+Sering
+Jarang
+Konsumsi Sayur
+Sering
+Jarang
+Konsumsi Makanan Cepat Saji
+Jarang
+Sering
+Konsumsi Minuman Berkarbonasi
+Jarang
+Sering
+Kebiasaan Merokok
+Tidak Merokok
+Merokok
+Konsumsi Alkohol
+Tidak
+Ya
+Aktivitas Fisik
+Cukup
+Kurang
+Perilaku Menetap
+Rendah
+Tinggi
+Gaya Hidup
+Sehat
+Tidak Sehat
+
+N (n=9.628)
+
+Weighted (%)
+
+1.397
+8.231
+
+15,27%
+84,73%
+
+5.391
+4.237
+
+57,62%
+42,38%
+
+8.494
+1.134
+
+87,88%
+12,12%
+
+7.048
+2.580
+
+73,28%
+26,72%
+
+8.689
+939
+
+89,43%
+10,57%
+
+9.155
+473
+
+95,14%
+4,86%
+
+1.212
+8.416
+
+12,68%
+87,32%
+
+7.052
+2.576
+
+72,58%
+27,42%
+
+6.902
+2.726
+
+71,84%
+28,16%
+
+N (n=9.628)
+
+Weighted (%)
+
+9.051
+577
+
+94,02%
+5,98%
+
+9.212
+416
+
+95,72%
+4,28%
+
+9.562
+66
+
+99,26%
+0,74%
+
+8.720
+908
+
+90,6%
+9,4%
+
+Tabel 3. Kesehatan Mental Remaja di Indonesia
+Karakteristik Kesehatan Mental Remaja
+Kesepian
+Tidak
+Ya
+Kecemasan
+Tidak
+Ya
+Upaya Bunuh Diri
+Tidak
+Ya
+Kesehatan Mental
+Tidak memiliki gangguan
+Memiliki gangguan
+
+©2022, JEKK, All Right Reserved
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+387
+
+Pada tabel 4, gaya hidup yang merupakan
+komposit dari 8 variabel (konsumsi buah,
+konsumsi sayur, konsumsi makanan cepat saji,
+konsumsi minuman berkarbonasi, kebiasaan
+merokok, konsumsi alkohol, aktivitas fisik, dan
+perilaku
+menetap)
+memiliki
+proporsi
+mengalami gangguan kesehatan mental pada
+remaja dengan gaya hidup tidak sehat adalah
+sebesar 12,76%, lebih tinggi dibandingkan
+proporsi remaja yang memiliki gaya hidup sehat
+(8,08%).
+Perbedaaan
+proporsi
+tersebut
+signifikan secara statistik (p-value < 0,05).
+Proporsi mengalami gangguan kesehatan
+mental pada umur 15-18 tahun lebih tinggi
+(11,2%) dari pada umur 11-14 tahun (8,5%).
+Perbedaaan proporsi tidak tersebut signifikan
+secara statistik (p-value > 0,05). Proporsi
+mengalami gangguan kesehatan mental mental
+pada perempuan sedikit lebih tinggi (9,47%)
+dibanding pada laki-laki (9,31%). Perbedaaan
+proporsi tersebut tidak signifikan secara statistik
+(p-value < 0,05). Proporsi mengalami gangguan
+kesehatan mental pada remaja dengan status
+sosial-ekonomi rendah adalah 24,52%, lebih
+
+tinggi dari pada proporsi remaja dengan status
+sosial-ekonomi tinggi-menengah (8,79%).
+Perbedaan tersebut signifikan secara statistik
+(p-value < 0,05). Proporsi remaja mengalami
+gangguan kesehatan mental pada remaja yang
+mengalami bullying adalah 19,01% dan pada
+remaja yang tidak mengalami bullying adalah
+sebanyak 6,98%. Perbedaan tersebut signifikan
+secara statistik (p-value < 0,05).
+Pada tabel 5, variabel yang masuk
+permodelan akhir multivariat adalah gaya hidup,
+jenis kelamin, status sosial-ekonomi dan
+bullying.
+Hasil
+analisis
+multivariat
+menunjukkan bahwa hubungan gaya hidup tidak
+sehat dengan mengalami gangguan kesehatan
+mental secara statistik signifikan dengan PR
+sebesar 1,47 (95%CI: 1,31 - 1,65) dan p-value =
+0,0001 artinya remaja yang memiliki gaya hidup
+tidak sehat memiliki kecenderungan berisiko
+1,47 kali lebih tinggi untuk mengalami
+gangguan kesehatan mental dibandingkan
+dengan remaja yang memiliki gaya hidup sehat
+setelah dikontrol dengan jenis kelamin, status
+sosial-ekonomi dan bullying.
+
+Tabel 4. Hubungan Karakteristik, Perilaku, dan Gaya Hidup dengan Kesehatan Mental
+Remaja di Indonesia.
+Variabel
+Gaya Hidup
+Tidak Sehat
+Sehat
+Umur
+15-18 tahun
+11-14 tahun
+Jenis Kelamin
+Perempuan
+Laki-laki
+Status Sosial-Ekonomi
+Rendah
+Menengah-Tinggi
+Bullying
+Ya
+Tidak
+
+Kesehatan Mental
+Mengalami
+Tidak Mengalami
+Gangguan
+Gangguan
+
+p-value
+
+346 (12,76%)
+562 (8,08%)
+
+2.380 (87,24%)
+6.340 (91,92%)
+
+0,0001
+
+394 (11,2%)
+514 (8,5%)
+
+3.177 (88,8%)
+5.543 (91,5%)
+
+0,0001
+
+523 (9,47%)
+385 (9,31%)
+
+4.832 (90,53%)
+3.888 (90,69%)
+
+0,21
+
+97 (24,52%)
+811 (8,79%)
+
+283 (75,48%)
+8.437 (91,21%)
+
+0,0001
+
+357 (19,01%)
+551 (6,98%)
+
+1.568 (80,99%)
+7.152 (93,02%)
+
+0,0001
+
+Pembahasan
+Prevalensi remaja pada penelitian ini yang
+mengalami gangguan kesehatan mental pada
+penelitian ini adalah 9,4%, lebih kecil
+dibandingkan prevalensi gangguan kesehatan
+mental emosional pada remaja usia >15 tahun
+
+pada Riskesdas tahun 2018 (9,8%) dan lebih
+tinggi jika dibandingkan dengan hasil Riskesdas
+tahun 2013 (6%).14 Sedangkan dalam penelitian
+cross-sectional Mubasyiroh dkk menunjukkan
+prevalensi gejala mental emosional sebesar
+
+©2022, JEKK, All Right Reserved
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+388
+
+60,17%, lebih tinggi dibandingkan prevalensi
+pada penelitian ini.12 Selain itu prevalensi
+kecemasan, kesepian dan upaya bunuh diri pada
+remaja di Namibia secara berturut adalah
+14,5%, 22,7% dan 22,7%, lebih tinggi dari
+prevalensi komposit gangguan kesehatan
+mental pada penelitian ini.15 Berdasarkan
+analisis multivariat tahap akhir, hubungan gaya
+hidup dengan kesehatan mental remaja di
+Indonesia tahun 2015 memiliki asosiasi PR
+sebesar 1,47 (95%CI: 1,31 - 1,65) setelah
+dikontrol dengan jenis kelamin, status sosialekonomi dan bullying. Penelitian crosssectional hampir serupa dilakukan oleh Peltzer
+dan Pengpid di Namibia tahun 2015
+menunjukkan bahwa terdapat hubungan gaya
+hidup dengan kesehatan mental yang terbagi
+dalam 3 kategori, yaitu kecemasan, kesepian
+dan ide bunuh diri. Asosiasi gaya hidup dengan
+
+kecemasan pada remaja sekolah di Namibia
+tahun 2015 adalah 1,15 (95%CI: 1,05-1,27),
+dengan kesepian sebesar 1,15 (95%CI: 1,071,24) dan dengan upaya percobaan bunuh diri
+sebesar 1,11 (95%CI: 1,03-1,20).15 Sejalan juga
+dengan penelitian yang dilakukan Rao et al.
+asosiasi gaya hidup dengan kecemasan adalah
+sebesar 1,81 (95%CI: 1,22-2,70) dan asosiasi
+gaya hidup dengan keinginan bunuh diri sebesar
+3,03 (95%CI: 1,57-5,84).16 Penelitian ini
+menunjukkan bahwa gabungan efek dari
+perilaku gaya hidup tidak sehat memiliki
+hubungan yang kuat dengan gangguan
+kesehatan mental berupa kecemasan, kesepian
+dan upaya bunuh diri. Selain itu, terdapat
+kemungkinan meningkatnya masalah kesehatan
+mental dengan meningkatnya jumlah perilaku
+gaya hidup tidak sehat.
+
+Tabel 5. Hasil Model Akhir Gaya Hidup Setelah Dikontrol dengan Seluruh Kovariat
+Variabel
+Gaya Hidup (tidak sehat)
+Jenis Kelamin (perempuan)
+Status Sosial-Ekonomi (rendah)
+Bullying (ya)
+
+Berdasarkan penelitian korelasional
+cross-sectional dan deskriptif yang dilakukan
+Yoo dan Kim (2020) konsumsi alkohol
+berhubungan persepsi stress, gangguan mood
+dan ide bunuh diri. Selain itu terdapat pula
+hubungan perilaku menetap dengan persepsi
+stress.17 Dalam Nurwijaya dan Ikawati (2009),
+alkohol ini memiliki efek buruk terhadap otak
+bagian hipokasmus. Bagian ini sangat penting
+selama masa remaja karena berhubungan
+dengan memori, proses belajar dan regulasi
+emosi.18
+Perilaku menetap secara signifikan
+berhubungan dengan persepsi stress. Waktu
+menetap telah diketahui memiliki hubungan
+dengan kesehatan mental emosional remaja.
+Dalam penelitian Dendup disebutkan bahwa
+remaja yang melaporkan rasa kesepian dan
+keinginan bunuh diri lebih cenderung tidak
+berpindah atau memiliki perilaku yang
+menetap.11 Remaja yang berada di kelas yang
+lebih tinggi memiliki peluang yang lebih besar
+untuk berada pada keadaan menetap (perilaku
+
+PR
+1,47
+1,17
+2,32
+2,56
+
+SE
+0,085
+0,085
+0,197
+0,184
+
+95% CI
+1,31 – 1,65
+1,01 – 1,35
+1,96 – 2,76
+2,21 – 2,97
+
+P-value
+0,0001
+0,032
+0,0001
+0,0001
+
+menetap). Remaja di kelas lanjutan mungkin
+memiliki lebih banyak mata pelajaran
+akademis/modul untuk dilakukan, tekanan
+akademis yang lebih besar dan terkait stres yang
+dapat memperpanjang waktu duduk dan
+menggantikan waktu aktivitas fisik.9
+Penelitian cross-sectional yang dilakukan
+Tanihata et al. menunjukkan bahwa remaja yang
+merokok memiliki risiko 1,5 kali untuk
+mengalami gangguan kesehatan mental.19 Gaya
+hidup yang tidak sehat seperti konsumsi alkohol
+dan merokok meningkatkan risiko keinginan
+bunuh diri.7 Selanjutnya, merokok memiliki
+hubungan signifikan dengan depresi pada
+remaja di Korea. Perokok berisiko 1,3 kali lebih
+besar untuk mengalami depresi dibanding nonperokok. Selain itu, perokok memiliki risiko 1,5
+kali lebih besar untuk mengalami kecemasan
+dibandingkan non-perokok (0 < 0,05).20
+Berdasarkan penelitian Koivusilta et al.
+merokok mungkin merupakan tanda stres yang
+disebabkan
+oleh
+kelebihan
+beban
+pengembangan pribadi dan sosial atau
+
+©2022, JEKK, All Right Reserved
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+389
+
+kegagalan untuk memenuhi harapan peran
+sosial. Tekanan untuk berhasil secara akademis
+telah diidentifikasi sebagai sumber stres yang
+penting bagi remaja. Merokok dikaitkan dengan
+berbagai macam masalah kesehatan mental,
+seperti depresi. Hal ini menunjukkan bahwa
+perilaku gaya hidup berisiko, masalah kesehatan
+dan kurangnya sumber daya untuk pencapaian
+pendidikan mungkin terkait erat sudah pada
+tahap awal kehidupan remaja.21
+Konsumsi buah dan konsumsi sayur pada
+penelitian ini memiliki efek protektif dengan
+gangguan kesehatan mental remaja. Penelitian
+meta-analisis yang dilakukan Liu et al (2016)
+menunjukkan bahwa terdapat asosiasi terbalik
+konsumsi buah dengan depresi.22 Studi crosssectional yang dilakukan Hong dan Peltzer
+(2017) juga menyatakan bahwa asupan buah,
+sayur dan sarapan secara teratur (perilaku diet
+sehat) terbukti secara positif berhubungan
+dengan berhubungan negatif dengan stres yang
+dirasakan, tekanan mental dan depresi.23
+Konsumsi minuman bersoda berhubungan
+dengan kesehatan mental remaja. Berbanding
+terbalik dengan penelitian yang dilakukan Jacob
+et al (2020) konsumsi minuman berkarbonasi
+sekali sehari dalam 30 hari terakhir tidak
+memiliki hubungan dengan gangguan kesehatan
+mental. Namun terdapat hubungan antara
+konsumsi minuman berkabornasi dengan
+kesehatan mental jika remaja mengkonsumsi
+minuman berkarbonasi 3 kali sehari dalam 30
+hari terakhir.24 Konsumsi minuman bersoda
+sering berhubungan dengan kesulitan tidur,
+gangguan tidur dan ketidakpuasaan kualitas
+tidur. Kandungan gula yang tinggi pada
+minuman bersoda dapat mempengaruhi suasana
+hati dan meningkatkan gejala depresi. yang
+berhubungan dengan masalah tidur di kalangan
+remaja. Gula yang ditambahkan dapat
+menggantikan konsumsi makanan kaya nutrisi
+mikro, yang penting untuk kesejahteraan mental
+remaja. Selain itu, minuman ringan sering kali
+mengandung kafein, yang dikenal sebagai
+stimulan dan berkaitan dengan masalah kurang
+tidur, gangguan tidur, dan kantuk di siang hari
+di kalangan remaja.25
+Penelitian cross-sectional Park et al.
+(2018), di Korea Selatan remaja yang
+mengkonsumsi makanan cepat saji atau
+minuman ringan yang berlebih memiliki
+
+kemungkinan untuk merasakan kepuasan tidur
+0,81 kali lebih rendah. Konsumsi makanan cepat
+saji berhubungan dengan kesehatan fisik dan
+mental yang buruk. Sering mengkonsumsi
+makanan cepat saji memiliki efek yang
+merugikan terhadap kesehatan fisik individu,
+seperti penyebab disfungsi endotel, peradangan,
+dan penyakit kardiovaskular. Kesehatan fisik
+yang menurun dapat memengaruhi kesehatan
+mental, misalnya depresi. Selain itu, konsumsi
+makanan cepat saji berkaitan dengan
+kebahagiaan rendah, depresi yang lebih tinggi,
+dan tekanan kejiwaan (yaitu kekhawatiran,
+depresi, kebingungan, insomnia, kecemasan,
+agresi, dan perasaan tidak berharga). Namun,
+stres dan depresi juga dapat meningkatkan
+konsumsi makanan cepat saji dan dapat
+menyebabkan masalah kesehatan fisik.26
+Pada penelitian ini, faktor jenis kelamin
+berhubungan dengan gaya hidup dan kesehatan
+mental remaja. Hal ini sejalan dengan penelitian
+cross-sectional Mubasyiroh dkk menyebutkan
+bahwa remaja perempuan berisiko 1,9 kali lebih
+besar
+(OR=1,9,
+95%
+CI
+1,67-2,16)
+dibandingkan remaja laki-laki. Remaja
+perempuan lebih berisiko untuk tenggelam
+dalam depresi. Perempuan sangat rentan
+terhadapnya gangguan makan seperti anoreksia
+dan bulimia, kerentanan ini berasal dari
+hubungan self-image remaja putri terutama
+bentuk tubuh yang negatif dan menjadi bagian
+dari kecemasan mendalam atas citra tubuh yang
+didorong oleh budaya dan stereotip media
+tentang kecantikan feminin.27 Dalam Santrock,
+masa puber yang terjadi pada remaja perempuan
+lebih cepat dibandingkan remaja laki-laki
+sehingga remaja perempuan lebih cenderung
+mengalami
+berbagai
+perubahan
+dari
+pengalaman dan masalah hidup.28 Berdasarkan
+penelitian Dendup, frekuensi perempuan untuk
+mengkonsumsi makanan cepat saji lebih besar
+dibanding laki. Hal serupa juga dengan
+frekuensi konsumsi minuman bersoda sering
+yang cenderung lebih besar pada perempuan.
+Kecenderungan risiko untuk mengalami
+gangguan kesehatan mental berupa upaya bunuh
+diri pada perempuan yang memiliki perilaku
+menetap tinggi 1,37 kali lebih tinggi dibanding
+dengan laki-laki.29 Pada penelitian Liu dkk
+(2015), kesepian merupakan determinan penting
+pada laki-laki sedangkan perilaku bunuh diri
+
+©2022, JEKK, All Right Reserved
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+390
+
+memiliki asosiasi lebih kuat pada perempuan
+dibanding pada laki-laki. Kesepian merupakan
+faktor penting dalam perilaku menetap di antara
+laki-laki karena laki-laki cenderung merasa
+kesepian dibandingkan perempuan.30
+Pada penelitian ini status sosial-ekonomi
+(SSE) memiliki hubungan dengan gaya hidup
+dan kesehatan mental remaja. Hal ini sejalan
+dengan penelitian Evans et al. yang menyatakan
+bahwa remaja dengan SSE yang lebih rendah
+memiliki lebih banyak gejala masalah kesehatan
+mental.31 SSE yang rendah juga dikaitkan
+dengan perilaku gaya hidup yang berisiko.
+Dalam penelitian Koivusilta et al. disebutkan
+bahwa interaksi antara SES dan gaya hidup yang
+berhubungan dengan kesehatan mungkin timbul
+dari masalah ekonomi dan faktor kontekstual
+lainnya, misalnya makanan sehat yang
+cenderung lebih mahal sehingga membatasi
+kemungkinan masyarakat tidak mampu untuk
+menjaga pola makan yang sehat.21 Hal ini
+sejalan juga dengan studi yang dilakukan
+Escarce bahwa efek kumulatif dari SES pada
+keluarga, lingkungan, sekolah, dan perawatan
+kesehatan menjamin bahwa remaja yang tidak
+mampu dan berpenghasilan rendah saat di usia
+dewasa cenderung memiliki kesehatan yang
+lebih buruk, terlibat dalam perilaku yang lebih
+berisiko dan lebih berbahaya, dan dengan
+pencapaian pendidikan yang lebih rendah dan
+prospek karir yang lebih terbatas.32
+Faktor bullying juga berhubungan dengan
+gaya hidup dan kesehatan mental remaja.
+Sejalan dengan tudi cross-sectional Hawker dan
+Bulton menyatakan bahwa anak-anak yang
+menjadi target bullying menunjukkan tandatanda kesulitan seperti depresi dan kecemasan
+33
+. Selain itu, studi Le et al. menyebutkan bahwa
+murid sekolah yang menjadi korban bullying
+memiliki lebih banyak gejala depresi dan
+tekanan psikologis, dan melaporkan ideasi
+bunuh diri dibandingkan siswa yang tidak
+terlibat bullying. Remaja yang mengalami
+tingkat bullying yang tinggi secara signifikan
+memiliki risiko untuk melakukan upaya bunuh
+diri.34 Dalam penelitian Turagabeci et al.,
+perilaku gaya hidup memiliki hubungan dengan
+bullying. Merokok, konsumsi alkohol dan
+perilaku seksual yang aktif dapat meningkatan
+risiko untuk mengalami bullying dan
+kekerasan/cedera. Pencegahan merokok dan
+
+penggunaan alkohol selama remaja perlu
+dilakukan tidak hanya untuk mengurangi efek
+samping langsung terhadap kesehatan tetapi
+juga karena hubungan tidak langsung dengan
+masalah sosial, termasuk bullying dan
+kekerasan. Selain itu, manfaat nutrisi yang baik
+berimplikasi pada penurunan rasio risiko relatif
+terhadap sering mengalami bullying dan
+mengalami kekerasan baik pada perempuan
+maupun laki-laki. Nutrisi yang baik sangat
+penting untuk percepatan pertumbuhan selama
+remaja.35
+Terdapat beberapa keterbatasan dalam
+penelitian ini, yaitu adanya temporal ambiguity
+karena penelitian ini menggunakan desain studi
+cross-sectional sehingga sulit menentukan
+hubungan sebab-akibat. Oleh karena itu, tidak
+dapat mengetahui antara eksposur dan outcome
+mana yang mendahului, yaitu mungkin remaja
+yang sudah mengalami gangguan kesehatan
+mental lebih berpotensi untuk mengadopsi gaya
+hidup tidak sehat seperti kebiasaan diet yang
+buruk, gaya hidup tidak aktif secara fisik,
+terlibat dalam merokok atau mengkonsumsi
+alkohol. Selain itu, pengumpulan data pada
+penelitian GSHS menggunakan sistem SRQ
+sehingga kemungkinan berpotensi memiliki
+bias informasi dan bias seleksi. Namun sifat
+anonim dari pengisian kuesioner GSHS ini
+diharapkan dapat meminimalisir bias yang
+terjadi.16 Selanjutnya, data mengenai kesehatan
+mental pada GSHS ini hanya berasal dari 1
+pernyataan untuk setiap variabelnya sehingga
+bisa dikatakan cukup lemah. Akan tetapi dapat
+dijadikan sebagai gambaran untuk mengetahui
+kesehatan mental remaja sekolah di Indonesia.
+Kesimpulan
+Ada hubungan gaya hidup dengan
+kesehatan mental remaja di Indonesia tahun
+2015 setelah dikontrol dengan jenis kelamin,
+status sosial-ekonomi dan bullying dengan PR
+1,47 (95%CI: 1,31 – 1,65).
+
+©2022, JEKK, All Right Reserved
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+391
+
+Ucapan Terima Kasih
+
+7.
+
+Rodelli M, De Bourdeaudhuij I, Dumon E,
+Portzky G, DeSmet A. 2018. Which healthy
+lifestyle factors are associated with a lower
+risk of suicidal ideation among adolescents
+faced with cyberbullying? Prev Med.
+113:32–40.
+
+8.
+
+Cairns KE, Yap MBH, Pilkington PD, Jorm
+AF. 2014. Risk and protective factors for
+depression that adolescents can modify: A
+systematic review and meta-analysis of
+longitudinal studies. J Affect Disorders.
+169 :61–75.
+
+9.
+
+Ferreira RW, Rombaldi AJ, Ricardo LIC,
+Hallal PC, Azevedo MR. 2016. Prevalence
+of sedentary behavior and its correlates
+among primary and secondary school
+students. Revista Paulista de Pediatria.
+34(1):56–63.
+
+Penulis mengucapkan terima kasih kepada
+WHO atas kesempatan yang diberikan untuk
+menganalisis data GSHS Indonesia 2015 dan
+semua pihak yang telah membantu dalam
+penelitian ini.
+Daftar Pustaka
+1.
+
+2.
+
+3.
+
+WHO. 2018. Adolescent Mental Health
+[Internet]. [cited 2021 Mar 31]. Available
+from:
+https://www.who.int/
+newsroom/factsheets/detail/adolescent-mentalhealth.
+Liu MW, Chen QT, Towne SD, Zhang J,
+Yu HJ, Tang R, et al. 2020. Fruit and
+vegetable intake in relation to depressive
+and anxiety symptoms among adolescents
+in 25 low- and middle-income countries. J
+Affect Disorders. 261:172–80.
+Kusumawardani N, Rachmalina, Wiryawan
+Y, Anwar A, Handayani K, Mubsayiroh R,
+et al. 2015. Perilaku Berisiko Kesehatan
+pada Pelajar SMP dan SMA di Indonesia.
+Badan Litbangkes Kementrian Kesehatan
+Republik Indonesia.
+
+4.
+
+Davies T, Craig T. 2009. ABC Kesehatan
+Mental. Jakarta: EGC.
+
+5.
+
+Maenhout L, Maenhout L, Peuters C,
+Peuters C, Cardon G, Compernolle S, et al.
+2020. The association of healthy lifestyle
+behaviors with mental health indicators
+among adolescents of different family
+affluence in Belgium. BMC Public Health.
+20(1):1–14.
+
+6.
+
+Yi X, Liu Z, Qiao W, Xie X, Yi N, Dong X,
+et al. 2020. Clustering effects of health risk
+behavior on mental health and physical
+activity in Chinese adolescents. Health
+Qual Life Out. 18(1):1–11.
+
+10. Atzendorf J, Apfelbacher C, Gomes De
+Matos E, Kraus L, Piontek D. 2018.
+Patterns of multiple lifestyle risk factors
+and their link to mental health in the
+German adult population: A cross-sectional
+study. BMJ Open. 8(12).
+11. Dendup T, Putra IGNE, Dorji T, Tobgay T,
+Dorji G, Phuntsho S, et al. 2020. Correlates
+of sedentary behaviour among Bhutanese
+adolescents : Findings from the 2016
+Global School-based health survey. Child
+Youth Serv Rev. 119.
+12. Mubasyiroh R, Suryaputri IY, Tjandrarini
+DH. 2017. Determinan Gejala Mental
+Emosional Pelajar SMP-SMA di Indonesia
+Tahun 2015. Buletin Penelitian Kesehatan.
+45(2).
+13. Hasumi T, Ahsan F, Couper CM, Aguayo
+JL, Jacobsen KH. 2012. Parental
+involvement and mental well-being of
+Indian adolescents. Indian Pediatr.
+49(11):915–8.
+
+©2022, JEKK, All Right Reserved
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+392
+
+14. Kemenkes RI. 2018. Laporan Nasional
+RISKESDAS 2018. p. 583.
+15. Peltzer K, Pengpid S. 2017. Lifestyle and
+mental health among school-going
+adolescents in namibia. J Psychol Afr.
+27(1):69–73.
+16. Rao S, Shah N, Jawed N, Inam S, Shafique
+K. 2015. Nutritional and lifestyle risk
+behaviors and their association with mental
+health and violence among Pakistani
+adolescents : Results from the National
+Survey of 4583 individuals Health
+behavior, health promotion and society.
+BMC Public Health. 15(1):1–10.
+
+22. Liu X, Yan Y, Li F, Zhang D. 2016. Fruit
+and vegetable consumption and the risk of
+depression: A meta-analysis. Nutrition.
+32(3):296–302.
+23. Hong SA, Peltzer K.2017. Dietary
+behaviour, psychological well-being and
+mental distress among adolescents in
+Korea. Child Adol Psych Men. 11(1):1–12.
+24. Jacob L, Stubbs B, Koyanagi A. 2020.
+Consumption of carbonated soft drinks and
+suicide
+attempts
+among
+105,061
+adolescents aged 12–15 years from 6 highincome, 22 middle-income, and 4 lowincome countries. Clin Nutr. 39(3):886–92.
+
+17. Yoo H, Kim N. 2020. Factors associated
+with lifestyle habits and mental health
+problems in korean adolescents: The Korea
+national health and nutrition examination
+survey 2017–2018. Int J Environ Res and
+Pu.17(24):1–15.
+
+25. Khan A, Uddin R. 2020. Is consumption of
+fast-food and carbonated soft drink
+associated with anxiety-induced sleep
+disturbance among adolescents? A
+population-based study. Clin Nutr. 36 :
+162–5.
+
+18. Nurwijaya H, Ikawati Z.2009. Bahaya
+Alkohol
+dan
+Cara
+Mencegah
+Kecanduannya. Jakarta: PT Elex Media
+Komputindo.
+
+26. Park S, Rim SJ, Lee JH. 2018. Associations
+between dietary behaviours and perceived
+physical and mental health status among
+Korean adolescents. Nutrition and
+Dietetics. 75(5):488–93.
+
+19. Tanihata T, Kanda H, Osaki Y, Ohida T,
+Minowa M, Wada K, et al. 2015. Unhealthy
+Lifestyle, Poor Mental Health, and Its
+Correlation Among Adolescents: A
+Nationwide Cross-Sectional Survey. AsiaPacific Journal of Public Health. 27(2).
+20. Byeon H. 2015. Association among
+smoking, depression, and anxiety: Findings
+froma representative sample of Korean
+adolescents. PeerJ. 2015(10):1–12.
+21. Koivusilta LK, Rimpelä AH, Rimpelä MK.
+1999.
+Health-related
+lifestyle
+in
+adolescence - Origin of social class
+differences in health? Health Educ Res.
+14(3):339–55.
+
+27. UNICEF. Early and late adolescence
+[Internet]. [cited 2021 May 24]. Available
+from:https://www.unicef.org/sowc2011/pd
+fs/Early-and-late-adolescence.pdf
+28. Santrock
+JW.
+2007.
+Adolescent
+Perkembangan Remaja (Alih Bahasa
+Shinto B. Adelar & Sherly Saragih).
+Jakarta: Erlangga.
+29. Dendup T, Putra IGNE, Dorji T, Tobgay T,
+Dorji G, Phuntsho S, et al. 2020. Correlates
+of sedentary behaviour among Bhutanese
+adolescents: Findings from the 2016 Global
+School-based health survey. Child Youth
+Serv Rev. 119:105520.
+
+©2022, JEKK, All Right Reserved
+
+Pratiwi., et al., JEKK. 7 (1) 2022
+
+393
+
+30. Yen CF, Yang P, Wang PW, Lin HC, Liu
+TL, Wu YY, et al. 2014. Association
+between school bullying levels/types and
+mental health problems among Taiwanese
+adolescents. Compr Psychiat. 55 (3) : 405 –
+13.
+31. Boe T, Petrie KJ, Sivertsen B, Hysing M.
+2019. Interplay of subjective and objective
+economic well-being on the mental health
+of Norwegian adolescents. SSM - Popul
+Health. 9:100471.
+32. Escarce. 2003. Socioeconomic Status and
+the Fates of Adolescents. Health Serv Res.
+33. Arseneault L, Bowes L, Shakoor S. 2010.
+Bullying victimization in youths and mental
+health problems: Much ado about nothing?
+Psychol Med. 40(5):717–29.
+34. Le HTH, Nguyen HT, Campbell MA,
+Gatton ML, Tran NT, Dunne MP. 2017.
+Longitudinal associations between bullying
+and mental health among adolescents in
+Vietnam. Int J Public Health. 62(1):51–61.
+35. Turagabeci AR, Nakamura K, Takano T.
+2008.
+Healthy
+lifestyle
+behaviour
+decreasing risks of being bullied, violence
+and injury. PLoS ONE. 3(2):1–6.
+
+©2022, JEKK, All Right Reserved
+
+

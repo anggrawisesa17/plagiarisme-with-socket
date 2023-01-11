@@ -1,0 +1,1493 @@
+USABILITY TESTING UNTUK MENGUKUR PENGGUNAAN WEBSITE
+INSPEKTORAT KOTA PALEMBANG
+
+Eko Saputra1, Zanial Mazalisa2, Ria Andryani3
+Mahasiswa Universitas Bina Darma1, Dosen Universitas Bina Darma2,3
+JalanJenderal Ahmad Yani No.12 Palembang
+
+E-mail : ekosaputra10142071@yahoo.co.id1
+ABSTRACT: Web -based public services is now becoming an important part in the success of a government
+agency , but from these web-based services are still many who felt it difficult to use or not of interest to its users
+and is not working properly . The reason websites need to be measured to determine the quality of a web site in
+terms of users and standardization of government that is based on the implementation guide local government
+web sites issued by the Ministry of Communications of the Republic of Indonesia in 2003 . These measurements
+can use the method of usability testing or interoperability testing . According to Jacob Nielson ( 2003) ,
+usability testing (usability testing ) based on five components: learn ( learnability ) , efficient ( efficiency) , easy
+to remember ( memorability ) , safe to use or reduce error rate ( errors ) and have high levels of satisfaction
+(satisfaction ) . Based on the above descriptions , the authors take the title of " Usability Testing To Measure
+Website Usage Palembang Inspectorate " .
+Keywords : Measure, Usability Testing, Website
+ABSTRAK: Layanan publik berbasis web saat ini sudah menjadi bagian penting dalam menunjang keberhasilan
+suatu instansi pemerintah, tetapi dari layanan berbasis web ini masih banyak yang dirasakan sulit untuk
+digunakan atau tidak menarik untuk penggunanya serta tidak berfungsi sebagaimana mestinya. Alasan situs web
+perlu di ukur untuk mengetahui kualitas situs web dari segi pengguna dan dari standarisasi pemerintahan yaitu
+berdasarkan panduan penyelenggaraan situs web pemerintahan daerah yang dikeluarkan oleh Kementrian
+Komunikasi Republik Indonesia tahun 2003. Pengukuran ini bisa menggunakan metode usability testing atau uji
+ketergunaan. Menurut Jacob Nielson (2003), pengujian kebergunaan (usability testing) berdasarkan lima
+komponen yaitu dipelajari (learnability), efisien (efficiency), mudah diingat (memorability), aman untuk
+digunakan atau mengurangi tingkat kesalahan (errors) dan memiliki tingkat kepuasan
+(satisfaction).vBerdasarkan uraian-uraian di atas maka penulis mengambil judul yaitu “Usability Testing Untuk
+Mengukur Penggunaan Website Inspektorat Kota Palembang”.
+Kata Kunci : Mengukur , Usability Testing, Website
+
+1.
+
+komunikasi menjadi lebih cepat, mudah
+
+PENDAHULUAN
+Teknologi informasi diharapkan
+
+dapat menjadi media yang paling efektif
+untuk
+
+mencari
+
+dan
+
+menyebarkan
+
+informasi. Dengan penerapan teknologi
+informasi khususnya internet, membuat
+proses
+
+penyebaran
+
+informasi
+
+dan
+
+dan murah serta tanpa batasan jarak dan
+waktu.
+
+Internet
+
+diterapkan
+
+kedalam
+
+berbagai
+
+bidang
+
+kehidupan
+
+manusia,
+
+termasuk bidang pemerintahan dengan
+adanya e-Government.
+Pelaksanaan
+
+e-government
+
+berdasarkan
+
+Instruksi Presiden No 3 tahun 2003
+Eko Saputra| Jurnal Teknik Informatika
+Universitas Bina Darma, Palembang
+Maret 2014
+
+tentang kebijakan dan strategi nasional
+
+tulisan inspektorat Kota Palembang. Menu
+
+pengembangan
+
+e-government
+
+yang
+
+atas terdapat link beranda, informasi,
+
+pemikiran
+
+tentang
+
+biodata pegawai, dokumen, galeri foto,
+
+pemanfaatan
+
+teknologi
+
+situs terkait, pelayanan dan alamat kontak.
+
+komunikasi dan informasi dalam proses
+
+Sedangkan isi content tengah terdiri dari
+
+pemerintahan
+
+yang
+
+gambar
+
+meningkatkan
+
+efisiensi,
+
+transparansi
+
+serta
+
+berangkat
+
+dari
+
+pertimbangan
+
+diyakini
+
+akan
+
+kegiatan
+
+inspektorat
+
+Kota
+
+efektifitas,
+
+Palembang dan berita terkini. Menu kiri
+
+akuntabilitas
+
+terdiri dari kalender, pilihan bahasa, waktu
+
+pemerintahan.
+
+palembang, jadwal sholat, pengunjung dan
+
+Sedangkan tujuan utama pelaksanaannya
+
+daftar link. Menu kanan terdiri dari telepon
+
+adalah
+
+penting, SMS Online, Jajak Pendapat,
+
+penyelenggaraan
+
+untuk
+
+peningkatkan
+
+kualitas
+
+layanan publik secara efektif dan efisien.
+Saat ini telah banyak instansi
+
+sedangkan footer terdiri gambar foto yang
+terdapat
+
+link.
+
+Struktur
+
+situs
+
+web
+
+pemerintah pusat dan pemerintah daerah
+
+inspektorat Kota Palembang ini dapat
+
+otonom yang berinisiatif mengembangkan
+
+dilhat pada lampiran.
+
+pelayanan
+
+publik
+
+melalui
+
+jaringan
+
+Layanan publik berbasis web saat
+
+komunikasi dan informasi dalam bentuk
+
+ini sudah menjadi bagian penting dalam
+
+situs web termasuk juga inspektorat Kota
+
+menunjang keberhasilan suatu instansi
+
+Palembang. Inspektorat Kota Palembang
+
+pemerintah, tetapi dari layanan berbasis
+
+merupakan
+
+perangkat
+
+Kota
+
+web ini masih banyak yang dirasakan sulit
+
+Palembang
+
+sebagai
+
+pengawas
+
+untuk digunakan atau tidak menarik untuk
+
+daerah
+unsur
+
+penyelenggaraan Pemerintahan Daerah.
+
+penggunanya
+
+Inspektorat
+
+sebagaimana mestinya. Alasan situs web
+
+inspektur
+
+dipimpin
+yang
+
+bertanggung
+
+oleh
+
+berada
+
+jawab
+
+seorang
+
+dibawah
+
+kepada
+
+serta
+
+tidak
+
+berfungsi
+
+dan
+
+perlu di ukur untuk mengetahui kualitas
+
+Walikota
+
+situs web dari segi pengguna dan dari
+
+melalui Sekretaris Daerah. Alamat situs
+
+standarisasi
+
+web Inspektorat Kota Palembang yaitu
+
+berdasarkan
+
+http://inspektorat.palembang.go.id.
+
+situs web pemerintahan daerah yang
+
+Struktur situs web inspektorat Kota
+Palembang
+
+terdiri
+
+dari
+
+header
+
+yang
+
+bergambar logo kota palembang dan
+
+pemerintahan
+panduan
+
+yaitu
+
+penyelenggaraan
+
+dikeluarkan oleh Kementrian Komunikasi
+Republik
+
+Indonesia
+
+tahun
+
+2003.
+
+Pengukuran ini bisa menggunakan metode
+Eko Saputra| Jurnal Teknik Informatika
+Universitas Bina Darma, Palembang
+Maret 2014
+
+usability testing atau uji ketergunaan.
+
+di isi oleh responden yang akan menilai
+
+Menurut Jacob Nielson (2003), pengujian
+
+web inspektorat.
+
+kebergunaan
+
+(usability
+
+testing)
+
+berdasarkan
+
+lima
+
+learnability,
+
+efficiency,
+
+memorability,
+
+errors
+
+satisfaction.
+
+Berdasarkan
+
+dan
+
+uraian-uraian
+
+di
+
+komponen
+
+atas
+
+yaitu
+
+maka
+
+penulis
+
+mengambil judul yaitu “Usability Testing
+Untuk Mengukur Penggunaan Website
+
+3.
+
+HASIL
+Dr Tom DeMarco dalam thesis Zhou
+
+(2009)
+
+mengatakan
+
+website adalah seberapa baik sebuah situs
+web yang dirancang dan seberapa baik
+desain
+
+bertemu
+
+untuk
+METODOLOGI PENELITIAN
+
+dengan
+
+metode
+
+Usability
+
+Testing,
+
+Zurriyadi
+
+(2008:2),
+
+tahap-tahap
+
+dilakukan
+
+dalam
+
+mengukur
+
+tingkat
+
+Menurut
+yang
+
+usability
+
+Tampilan dari web site Kota Palembang
+yang
+
+beralamat
+
+http://inspektorat.palembang.go.id seperti
+dibawah ini.
+
+melakukan
+
+1. Halaman Beranda
+
+dengan
+
+penggunaan
+
+dibangun dari bahasa scripting PHP.
+
+testing diantaranya menentukan evaluator,
+survei
+
+kepuasan
+
+website Inspektorat Kota Palembang yang
+
+Dalam penelitian ini menggunakan
+
+penelitian
+
+kualitas
+
+pengguna. Hasil dari usability testing
+
+Inspektorat Kota Palembang”.
+2.
+
+Definisi
+
+kuisioner,
+
+melakukan pemilihan fungsi, membuat
+
+Halaman
+
+beranda
+
+merupakan
+
+tugas usability testing, menyusun skrip
+
+halaman
+
+usability test, melaksanakan usability test
+
+Inspektorat Kota Palembang ditampilkan,
+
+dengan wawancara, melakukan analisa
+
+tampilanya seperti gambar dibawah ini.
+
+pertama
+
+ketika
+
+situs
+
+web
+
+data dari hasil usability test dan survey,
+menyusun rekomendasi perbaikan aplikasi,
+dimana
+
+dalam
+
+pengumpulan
+
+data
+
+diperlukan observasi langsung ke kantor
+inspektorat Palembang, lalu melakukan
+wawancara,
+
+selanjutnya
+
+pertanyaan-pertanyaan
+
+yang
+
+memberikan
+telah
+
+di
+
+rangkum dalam suatu kuisioner yang akan
+Gambar 1. Halaman Beranda
+Eko Saputra| Jurnal Teknik Informatika
+Universitas Bina Darma, Palembang
+Maret 2014
+
+2. Halaman Visi dan Misi
+Pada
+
+halaman
+
+visi
+
+dan
+
+misi
+
+merupakan halaman isinya tentang tentang
+visi dan misi dari inspektorat Kota
+Palembang, tampilannya seperti gambar
+dibawah ini.
+
+Gambar 3. Halaman Program Kerja
+3.1.
+
+Menentukan Evaluator
+Evaluator
+
+testing
+
+untuk
+
+pengujian
+mengukur
+
+usability
+penggunaan
+
+website Inspektorat Kota Palembang yaitu
+Pengguna Awam, Pengguna Aktif dan
+Pengguna Terampil. Rusidi (2011:2)
+Gambar 2. Halaman Simbol Daerah
+3.2.
+3. Halaman Program Kerja
+
+Melakukan Survei Dengan
+Kuisioner
+
+Pada
+
+halaman
+
+program
+
+kerja
+
+merupakan
+
+halaman
+
+isinya
+
+tentang
+
+Pemilihan responden ini didasarkan
+pada
+
+isian
+
+pertanyaan
+
+dan
+
+Secara
+
+ketiga
+
+rinci
+
+identitas
+
+program kerja, tampilannya seperti gambar
+
+responden.
+
+level
+
+dibawah ini.
+
+pengguna tersebut di ambil dari 3 level
+pengguna.
+Tabel 1 Responden
+
+Responden
+
+Nama
+
+Pekerjaan
+
+Umur
+
+Jenis Kelamin
+
+1
+
+Vrengky Artha
+
+Mahasiswa
+
+22 Tahun
+
+Laki-Laki
+
+2
+
+Irwan Rizmyade
+
+Pegawai
+
+24 Tahun
+
+Laki-Laki
+
+3
+
+Bagus Ari Susandi
+
+Staff IT
+
+22 Tahun
+
+Laki-Laki
+
+Eko Saputra| Jurnal Teknik Informatika
+Universitas Bina Darma, Palembang
+Maret 2014
+
+3.3.
+
+Melakukan Pemilihan Fungsi
+
+3.4.
+
+Pemilihan fungsi secara umum
+
+Membuat Tugas Usability Test
+Membuat tugas usability testing
+
+berdasarkan metode usability testing yaitu
+
+yang akan ditanyakan kepada responden
+
+mudah dipelajari, efisiensi, mudah diingat,
+
+yang telah dipilih bersarkan learnability,
+
+perlindungan terhadap kesalahan, dan
+
+efficiency,
+
+kepuasan.
+
+satisfaction, setiap komponen tersebut
+
+memorability,
+
+errors
+
+dan
+
+dibuat skrip agar tugas yang dibuat tidak
+melebihi 60 menit.
+Tabel 2 Waktu Pengujian
+Responden
+
+3.5.
+
+Nama
+
+Pekerjaan
+
+Waktu Pengujian
+
+1
+
+Vrengky Artha
+
+Mahasiswa
+
+60 Menit
+
+2
+
+Irwan Rizmyade
+
+Pegawai
+
+60 Menit
+
+3
+
+Bagus Ari Susandi
+
+Staff IT
+
+60 Menit
+
+3.6.
+
+Menyusun Skrip Usability Test
+Membuat tugas usability testing
+
+yang akan ditanyakan kepada responden
+yang telah dipilih, lalu kuisionernya akan
+dibagikan
+
+kepada
+
+responden
+
+untuk
+
+Melaksanakan
+
+Usability
+
+Test
+
+Dengan Melakukan Wawancara
+Rekaputlasi
+
+jawaban
+
+responden
+
+berdasarkan kuesioner yang di sebarkan
+
+diberikan nilai sebagai bahan acuan dalam
+
+kepada respoden awam, respondek aktif
+
+membuat
+
+dan responden terampil untuk melakukan
+
+usability
+
+test
+
+script
+
+ini
+
+menggunakan usability test script dari
+Steven Krug (2006:1).
+
+pengujian
+
+situs
+
+web
+
+http://inspektorat.palembang.go.id.
+
+Eko Saputra| Jurnal Teknik Informatika
+Universitas Bina Darma, Palembang
+Maret 2014
+
+3.7.
+
+Melakukan analisa data hasil
+
+Dari
+
+usability test dan survei
+
+prosentasenya, berapa persen yang ketemu
+
+“Formulir
+
+Uji
+
+point
+
+Task
+
+dihitung
+
+dan berapa persen yang tidak ketemu. Dari
+
+Menghitung prosentase pada Task
+pada
+
+setiap
+
+setiap point Task pada setiap subbagian
+
+Ketergunaan”.
+
+dihitung subtotal prosentasenya dan yang
+
+Perhitungan ini dilakukan dengan merubah
+
+terakhir
+
+kedalam bentuk angka dari setiap jawaban
+
+adalah
+
+menghitung
+
+total
+
+prosentase dari keseluruhan jawaban yang
+
+dengan aturan angka 1 (satu) apabila
+
+diberikan responden baik dari jawaban
+
+jawaban “bisa ditemukan” atau tanda
+
+yang bisa dijawab dan jawaban yang tidak
+
+centang (√) dan angka 0 (nol) diberikan
+
+bisa dijawab.
+
+kepada jawaban “tidak bisa ditemukan”.
+
+Tabel 3 Presentase Jawaban Responden
+No.
+
+Responden
+(dalam angka)
+
+Pertanyaan
+
+Learnability
+1
+Apakah tulisan teks yang
+digunakan untuk halaman tersebut
+mudah dan jelas bagi anda,
+mengapa?
+2
+Apakah menu-menu yang ada
+cukup mudah untuk dipahami ?
+uraikan.
+3
+Apakah anda menemukan menu
+download pada halaman ini ?
+dapatkah anda menemukan menu
+search ataupun browsing ?
+Total
+Efficiency
+4
+Apakah saat menu yang anda klik
+dapat menampilkan dengan
+cepat? Uraikan
+5
+Apakah saat diketikan pada mesin
+pencarian judul langsung
+ditampilkan?
+6
+Saat anda ingin mendownload,
+apakah diberikan informasi
+tentang format file dan ukurannya
+?
+Total
+Memorability
+7
+Apakah nama halaman website
+yang sedang anda kunjungi,
+tuliskan nama alamatnya ?
+8
+Apakah alamat tersebut di tulis
+menggunakan huruf kecil ?
+9
+Apakah alamat mengandung
+underline ?
+
+Tidak
+ditemukan
+(%)
+
+R1
+
+R2
+
+R3
+
+Ditemukan
+(%)
+
+1
+
+1
+
+1
+
+100
+
+0
+
+1
+
+1
+
+1
+
+100
+
+0
+
+1
+
+1
+
+1
+
+100
+
+0
+
+100
+
+0
+
+1
+
+1
+
+1
+
+100
+
+0
+
+1
+
+0
+
+0
+
+33,33
+
+66,66
+
+1
+
+1
+
+0
+
+66,66
+
+33,33
+
+66,66
+
+33,33
+
+1
+
+1
+
+1
+
+100
+
+0
+
+1
+
+1
+
+1
+
+100
+
+0
+
+0
+
+0
+
+0
+
+0
+
+100
+
+Eko Saputra| Jurnal Teknik Informatika
+Universitas Bina Darma, Palembang
+Maret 2014
+
+10
+
+Apakah halaman ini
+menggunakan animasi gambar?
+Uraikan
+
+Total
+Error
+11
+
+12
+
+13
+
+14
+
+Apakah anda menemukan link
+yang anda klik error ? tuliskan link
+tersebut.
+Apakah terdapat pesan yang jelas
+terhadap link yang error tersebut ?
+uraikan
+Apakah anda menemukan saat di
+klik menu tidak memberikan
+respon apapun ?
+Apakah anda menemukan adanya
+under reconstruction dari
+berberapa menu atau link yang
+ditampilkan dalam halaman ini ?
+
+Total
+Satisfaction
+15
+Apakah anda ingin mengunjungi
+halaman ini kembali? Jika iya apa
+yang anda cari
+16
+Apakah yang anda dapatkan
+selama berkunjung ke halaman ini
+?
+17
+Apakah menurut anda informasi
+disajikan dalam halaman ini
+uptodate ?
+18
+Dapatkah anda menemukan
+kelengkapan lain yang
+mendukung seperti file share,
+chat, mailis dan lainnya ?
+19
+Tuliskan menu yang anda
+butuhkan yang belum terdapat
+pada halaman ini tetapi anda
+temui pada halaman yang pernah
+anda kunjungi ?
+Total
+Total Keseluruhan
+
+Dari
+
+0
+
+perhitungan
+
+1
+
+0
+
+41,66
+
+1
+
+100
+
+0
+
+1
+
+1
+
+1
+
+100
+
+0
+
+1
+
+1
+
+1
+
+100
+
+0
+
+1
+
+1
+
+1
+
+100
+
+0
+
+100
+
+0
+
+0
+
+1
+
+0
+
+33,33
+
+66,66
+
+1
+
+1
+
+1
+
+100
+
+0
+
+0
+
+0
+
+0
+
+0
+
+100
+
+1
+
+0
+
+0
+
+33,33
+
+66,66
+
+1
+
+1
+
+1
+
+100
+
+0
+
+53,33
+75,67
+
+46,66
+24,33
+
+persentase
+
+Menurut
+
+untuk
+
+Kota
+
+58,33
+1
+
+kuantitatif
+
+Inspektorat
+
+66,66
+
+1
+
+jawaban respoden pada usability testing
+mengukur
+
+33,33
+
+untuk
+
+Arikunto,
+hasil
+
+Tabel
+
+perhitungan
+
+penggunaan
+
+website
+
+terhadap kuesioner pada Usability Testing
+
+Palembang
+
+dapat
+
+Untuk Mengukur Penggunaan Website
+
+disimpulkan bahwa 75,67 % pertanyaan
+
+Inspektorat Kota Palembang yaitu:
+
+mampu di jawab oleh responden (jawaban
+dapat ditemukan). 24,33 % pertanyaan
+tidak dapat terjawab oleh responden (
+
+Skor
+
+Kualifikasi
+
+Hasil
+
+85-100%
+
+Sangat Baik (SB)
+
+Berhasil
+
+jawaban tidak ditemukan).
+Eko Saputra| Jurnal Teknik Informatika
+Universitas Bina Darma, Palembang
+Maret 2014
+
+65-84%
+
+Baik (B)
+
+Berhasil
+
+(Memorability) diperoleh angka 58,33%,
+
+55-64%
+
+Cukup (C)
+
+Tidak Berhasil
+
+untuk tingkat kesalahan (Error) diperoleh
+
+0-54%
+
+Kurang (K)
+
+Tidak Berhasil
+
+angka
+
+100%
+
+dan
+
+tingkat
+
+kepuasan
+
+(Satisfaction) diperoleh angka 53,33%
+Dengan
+
+perhitungan
+
+sebagai
+b.
+
+berikut :
+Nilai =
+
+Tidak Berhasil Ditemukan
+Sedangkan untuk semua task yang
+
+Skor
+Jumlah Responden
+
+tidak dapat di selesaikan oleh responden
+adalah sebagai berikut, untuk proses
+kemudahan
+
+Nilai = 100 = 33,3
+3
+3.8.
+
+dengan
+
+Menyusun
+
+Rekomendasi
+
+angka
+
+(Learnability)
+
+kemudahan
+
+diingat
+
+(Memorability) diperoleh angka 58,33%,
+untuk tingkat kesalahan (Error) diperoleh
+
+Perbaikan Aplikasi
+
+angka
+Berdasarkan
+
+dipelajari
+
+analisa
+
+100%
+
+dan
+
+tingkat
+
+kepuasan
+
+yang
+
+(Satisfaction) diperoleh angka prosentase
+
+dihasilkan, maka disusun rekomendasi
+
+untuk seluruh task atau pertanyaan yang
+
+yang tidak ditemukan dalam perbaikan
+
+dapat dikerjakan oleh responden dari
+
+aplikasi yang telah di nilai dari 3
+
+setiap
+
+responden dengan tingkat level yang
+
+pertanyaan yang tidak dapat diselesaikan
+
+berbeda, terutama dari aspek usability.
+
+responden adalah 24,33%.
+
+3.9.
+
+4.
+
+Kategori Tugas
+Dari
+
+pertanyaan
+
+beberapa
+yang
+
+tugas
+
+diberikan
+
+dan
+
+SIMPULAN
+
+kepada
+
+diperoleh hasil yaitu prosentase usability
+testing
+
+untuk
+
+website
+
+Inspektorat
+
+Learnability
+
+mengukur
+Kota
+
+penggunaan
+Palembang.
+
+sebesar 100 % pertanyaan
+
+Kemudahan
+
+mampu di jawab 0% pertanyaan tidak
+
+dipelajari (Learnability) diperoleh angka
+
+dapat terjawab oleh responden, efficiency
+
+100%, efisiensi (Efficiency) diperoleh
+
+sebesar 66,66 % pertanyaan mampu di
+
+angka
+
+jawab 33,33 % pertanyaan tidak dapat
+
+66,66%,
+
+proses
+
+75,67%
+
+Dalam penelitian yang dilakukan ini
+
+Berhasil Ditemukan
+Untuk
+
+adalah
+
+atau
+
+responden terbagi menjadi dua yaitu:
+a.
+
+aspek
+
+kemudahan
+
+diingat
+
+Eko Saputra| Jurnal Teknik Informatika
+Universitas Bina Darma, Palembang
+Maret 2014
+
+terjawab oleh responden, memorability
+sebesar 58,33 % pertanyaan mampu di
+jawab 41,66% pertanyaan tidak dapat
+terjawab oleh responden, error sebesar
+100 % pertanyaan mampu di jawab 0%
+pertanyaan tidak dapat terjawab oleh
+responden,
+
+satisfaction
+
+sebesar
+
+53,33
+
+pertanyaan mampu di jawab 46,66%
+pertanyaan tidak dapat terjawab oleh
+responden.
+
+Jadi
+
+hasil
+
+keseluruhaan
+
+jawaban responden sebesar 75,67 %
+pertanyaan mampu di jawab, perseentase
+24,33 % pertanyaan tidak dapat terjawab
+oleh responden, dari hasil tersebut dapat
+disimpulkan bahwa website Inspektorat
+Kota Palembang baik.
+DAFTAR RUJUKAN
+Arikunto, S. (2009). Prosedur Penelitian
+Suatu Pendekatan Praktik. Edisi
+Revisi 6. Jakarta : Rineka Cipta.
+Krug, Steve, (2006), Don’t Make Me Think! A
+Common Sense Approach to Web
+Usability, New Riders, California.
+Nielson, Jacob, Usability 101:Introduction to
+usability. Diakses November 2011 dari
+http://www.useit.com/alertbox/200308
+25.html
+Rusidi. (2011). Evaluasi Website EGovernment Instansi Pemerintah
+Daerah Kabupaten Ogan Komering
+Ulu Dan Ogan Komering Ulu
+Timur.
+
+Eko Saputra| Jurnal Teknik Informatika
+Universitas Bina Darma, Palembang
+Maret 2014
+
+

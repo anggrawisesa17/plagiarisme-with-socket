@@ -1,0 +1,640 @@
+ISSN 2303-0356
+Hal. 51-60
+
+Jurnal Akuntansi
+Vol. 7, No.1, Februari 2017
+
+PENGARUH GENDER, PENGHARGAAN FINANSIAL DAN
+PERTIMBANGAN PASAR KERJA TERHADAP MINAT MAHASISWA
+AKUNTANSI UNTUK BERKARIR MENJADI AKUNTAN PUBLIK DAN NON
+AKUNTAN PUBLIK
+Astri Wulan Dary 1), Fitrawati Ilyas 2)
+Fakultas Ekonomi dan Bisnis, Universitas Bengkulu1,2)
+Astriwulan12@gmail.com, fitrawatiilyas@yahoo.com
+ABSTRACT
+The aim of this research is to examine and analyze the Influence of Gender, Financial Reward and Job
+Market considerations on intention of Accounting Students in Bengkulu City to have a career become Public
+Accountant and Non Public Accountant. This research is empirical research with quantitative approach which
+involves the use of statistical analysis. This research is using the primary data. Samples in this research consist
+of 160 accounting students of 1 public and 3 private Universities in Bengkulu City. The tool used in this research
+is logistic regression with SPSS software version 16. This study found that gender affect on the accounting
+students intention in Bengkulu City to have a career become public accountant and non public accountant, but
+financial reward and job market considerations this could not provide empirical evidence on the accounting
+students interest in bengkulu city to have a career become public accountant and non public accountant.
+Keywords : Gender, Financial Reward and Job Market Considerations. The Interest to have a career become
+Public Accountant and Non Public Accountant
+
+PENDAHULUAN
+Latar Belakang Permasalahan
+Salah satu aspek penting dalam kehidupan manusia dewasa yang sehat adalah karir.
+Ketepatan menentukan dan memilih karir menjadi titik penting dalam perjalanan hidup
+manusia, oleh karenanya karir seseorang berkontribusi besar bagi diri sendiri dan merupakan
+inti dari nilai dasar dan tujuan hidup seseorang. Pemilihan karir yang tepat sesuai minat dan
+bakat yang dimiliki seseorang merupakan tahap awal dalam pembentukan karir.
+Pilihan karir bagi lulusan akuntansi tidak tertutup pada profesi akuntansi saja, banyak
+pilihan profesi yang dapat diselami oleh mereka tergantung faktor-faktor yang
+melatarbelakanginya. Misalkan seseorang yang mempunyai latar belakang pendidikan
+akuntansi atau S1 memiliki beberapa pilihan alternatif, antara lain yaitu melanjutkan untuk
+mengikuti pendidikan profesi akuntansi atau melanjutkan jenjang akademik S2 maupun
+langsung berkecimpung dalam dunia kerja. Dalam dunia kerja juga terdapat berbagai profesi
+yang dapat dijalankan oleh seorang sarjana akuntansi yaitu akuntan perusahaan, akuntan
+pemerintahan atau akuntan pendidik, akuntan publik. Jumlah akuntan publik di Indonesia saat
+ini secara kuantitas masih jauh dari kebutuhan jasa bagi dunia usaha. Berdasarkan data Institut
+Akuntan Publik Indonesia hanya sekitar 1.022 akuntan yang berpraktik sebagai akuntan
+publik pada tahun 2015, sedangkan sarjana yang memegang gelar akuntan melebihi jumlah
+50.000 orang (Lukman, 2015). Dari jumlah akuntan publik di Indonesia pada umumnya
+didominasi oleh laki-laki yang berjumlah lebih kurang 791 orang, hanya sedikit perempuan
+yang memilih profesi menjadi akuntan publik sekitar lebih kurang 231 orang.
+Sementara dalam memilih pekerjaan seseorang pasti mempertimbangkan gaji, upah
+maupun insentif dari hasil pekerjaannya atau bisa disebut penghargaan financial. Khususnya
+dalam profesi akuntan publik, karena kantor akuntan publik memiliki cara sendiri dalam
+51
+
+Pengaruh Gender, Penghargaan Finansial ……..
+Astri Wulan Dary dan Fitrawati Ilyas
+
+memberikan gaji kepada auditornya. misalnya, jika proyek klien yang ditangani oleh kantor
+akuntan publik banyak, maka akuntan publik mendapatkan gaji yang besar. Namun
+sebaliknya, semakin sedikit proyek klien yang dikerjakan oleh akuntan publik maka akan
+semakin kecil pula gaji yang akan didapatkan.
+Pertimbangan pasar kerja menjadi salah satu alasan yang berpengaruh terhadap minat
+seseorang dalam berkarir. Profesi yang memiliki pasar kerja yang luas akan lebih diminati
+dari pada profesi dengan pasar kerja yang kecil (Zaid, 2015). penelitan Lukman (2015)
+menunjukan bahwa nilai-nilai intrinsik, persepsi mahasiswa dan pengaruh orang tua terhadap
+kecenderungan mahasiswa untuk bekerja sebagai akuntan publik itu berpengaruh signifikan,
+sementara gender, pertimbangan pasar kerja tidak memiliki pengaruh yang signifikan.
+Sedangkan hasil penelitian Zaid, (2015) ini menunjukan bahwa tidak terdapat pengaruh
+gender terhadap minat mahasiswa akuntansi untuk berkarir menjadi akuntan publik. Namun
+untuk penghargaan finansial dan pertimbangan pasar kerja berpengaruh signifikan terhadap
+minat mahasiswa akuntansi untuk berkarir menjadi Akuntan Publik. Sedangkan, gender,
+penghargaan finansial, dan pertimbangan pasar kerja secara bersama-sama berpengaruh
+terhadap minat Mahasiswa Akuntansi untuk berkarir menjadi Akuntan Publik.
+Landasan Teori dan Pengembangan Hipotesis
+The Theory of Reasoned Action (TRA)
+Menurut Law (2010) The Theory of reasoned action (TRA) model menjelaskan suatu
+asal-usul di bidang psikologi sosial. Model ini dikembangkan oleh Fishbein dan Ajezen dalam
+Law (2010) yang mengatakan bahwa perilaku seseorang ditentukan oleh niat. Niat itu sendiri
+ditentukan oleh sikap dan norma-norma subjektif mereka terhadap perilaku. Attitude (Law,
+2010) dijelaskan sebagai sikap terhadap perilaku yang dituangkan dalam perasaan positif atau
+negatif secara individu dalam bertindak. Hal ini ditentukan melalui penilaian dari keyakinan
+seseorang mengenai konsekuensi yang timbul dari perilaku dan evaluasi keinginan
+konsekuensi. Secara formal, sikap keseluruhan dapat dinilai sebagai akumulasi dari penilian
+keinginan konsekuensi tertentu dari individu untuk semua konsekuensi yang diharapkan dari
+perilaku (Law, 2010). Sedangkan Subjective norms adalah didefinisikan sebagai persepsi
+individu dari orang-orang penting untuk individu berpikir untuk melakukan pemikiran
+mereka. Kontribusi pendapat setiap rujukan yang diberikan dipertimbangkan dengan motivasi
+bahwa seseorang harus memenuhi keinginan rujukan itu. Oleh karena itu, secara keseluruhan
+norma subjektif dapat dinyatakan sebagai jumlah atau akumulasi dari penilaian motivasi
+persepsi tertentu bagi individu untuk semua acuan yang relevan (Law, 2010).
+Hubungan Attitudes dan Subjects Norms dalam keinginan berprilaku seseorang dapat
+digambarkan seperti dibawah ini.
+Gambar 2.1 : The Theory of Reasoned Action Model
+Attitude
+toward act
+or behavior
+
+Behaviora
+intention
+
+Subjective
+norm
+Sumber : Fishbein dan Ajzen dalam Law (2010)
+
+52
+
+Jurnal Akuntansi
+Vol. 7, No.1, Februari 2017
+
+ISSN 2303-0356
+Hal. 51-60
+
+Lebih lanjut Law (2010) menjelaskan bahwa TRA digunakan sebagai model yang
+berhubungan antara attitudes dan pemilihan karir seseorang. Model ini memberikan suatu
+social psychological framework yang berguna menjelaskan jenis-jenis perilaku (Ajzen and
+Fishbein, 1980; Sheppard et al., 1988; Sable et al., 2006 dalam Law 2010), dan telah
+direkomendasikan sebagai suatu yang kerangka yang berguna untuk eksaminasi variabelvariabel yang mempengaruhi pemilihan karir (Cohen and Hanno, 1993 dalam Law 2010).
+TRA yang mencirikan perilaku manusia sebagai sesuatu yang “disengaja” (intentional) dan
+rasional (rational). Dengan demikian, TRA dapat memprediksi bahwa niat siswa untuk
+mengejar karir menjadi akuntan publik maupun non akuntan publik harus sangat terkait
+dengan attitude dan subjectives norms terhadap karir tersebut. Dimana persepsi mahasiswa
+akan mempengaruhi minat berkarir menjadi akuntan publik dan non akuntan publik yang di
+pilih, dimana kelompok perilaku terdapat penghargaan finansial dan kelompok subjectives
+norms terdapat pertimbangan pasar kerja. Sedangkan gender memiliki keterkaitan dengan
+attitude dan subjectives norms.
+Pengembangan Hipotesis
+1. Gender
+Women’s Studies Encyclopedia dalam Mufidah (2003:3) menjelaskan gender sebagai
+suatu konsep kultural yang berupaya membuat perbedaan dalam hal peran, perilaku,
+mentalitas, dan karakteristik emosional antara laki-laki dan perempuan yang berkembang
+dalam masyarakat. Peran gender sangat penting dampaknya dalam tiap aktivitas yang
+dilakukan oleh manusia, dan dalam hal karir menjadi akuntan publik ini kadang orang
+berpandangan bahwa mungkin perempuan tidak telalu bagus jika menjadi akuntan publik
+dilihat dari jenis pekerjaan yang dapat menyita waktu perempuan mengurus keluarganya
+(Ernawati: 2004). Hal ini berbeda dengan yang diungkapkan oleh Law (2010) yang meneliti
+di Hong Kong menyebutkan bahwa kebanyakan wanita yang memasuki profesi akuntan
+publik. Dari uraian diatas, dirumuskan hipotesis sebagai berikut:
+H1 : Gender mempunyai pengaruh terhadap Minat Mahasiswa Akuntansi untuk Berkarir
+Menjadi Akuntan Publik dan non Akuntan Publik.
+2. Penghargan finansial
+Penghargaan Finansial merupakan pertimbangan pertama seorang mahasiswa dalam
+pemilihan karir yang akan dipilih sebagai akuntan publik maupun non akuntan publik.
+Penghargaan finansial yang diperoleh sebagai kontraprestasi dari pekerjaan telah diyakini
+secara mendasar bagi sebagian besar perusahaan sebagai daya tarik utama untuk memberikan
+kepuasan kepada karyawannya (Aprilyan: 2011). Menurut penelitian Zaid (2015)
+penghargaan finansial berpengaruh signifikan terhadap minat mahasiswa menjadi akuntan
+publik, hal ini berarti apabila penghargaan finansial semakin baik maka mengakibatkan minat
+mahasiswa menjadi akuntan publik semakin besar. Sedangkan menurut Suyono (2014)
+menunjukan bahwa variabel penghargaan finansial secara parsial berpengaruh signifikan
+terhadap pemilihan karir sebagai akuntan publik. Semakin tinggi penghasilan yang
+ditawarkan, semakin besar pula minat mahasiswa untuk memilih profesi tersebut. Akuntan
+merupakan salah satu profesi dengan penghasilan yang relative tinggi dibandingkan dengan
+profesi lainnya. untuk itu peneliti berpendapat ada pengaruh antara penghasilan dengan minat
+mahasiswa akuntansi untuk berkarir sebgai akuntan publik.
+H2 : Penghargaan Finasial mempunyai Pengaruh terhadap minat mahasiswa menjadi Akuntan
+Publik dan non Akuntan Publik.
+
+53
+
+Pengaruh Gender, Penghargaan Finansial ……..
+Astri Wulan Dary dan Fitrawati Ilyas
+
+3. Pertimbangan pasar kerja
+Pertimbangan pasar kerja berhubungan erat dengan pekerjaan yang dapat diakses di
+masa yang akan datang. Pekerjaan yang memiliki pasar kerja yang lebih luas akan lebih
+diminati dari pada pekerjaan yang pasar kerjanya kecil. Menurut Lukman (2015)
+Pertimbangan masa depan suatu karir yang mudah diakses atau tersedia yang mana akan
+ditekuni dan dijalankan pada masa depan merupakan harapan yang dipengaruhi oleh
+ketersediaan karir dipasar tenaga kerja. Begitu pula hasil penelitian Aprilyan (2011) yang
+menemukan bahwa faktor pertimbangan pasar kerja merupakan faktor yang mempengaruhi
+mahasiswa dalam memilih profesi sebagai akuntan publik. Sedangkan menurut Suyono
+(2014) menunjukan bahwa variabel pertimbangan pasar kerja secara parsial berpengaruh
+signifikan terhadap pemilihan karir sebagai akuntan publik dan non akuntan publik. Dari
+uraian diatas, dirumuskan hipotesis sebagai berikut.
+H3: Pertimbangan pasar kerja mempunyai pengaruh terhadap minat mahasiswa akuntansi
+untuk berkarir menjadi akuntan publik dan non Akuntan Publik.
+Metode Penelitian
+Penelitian ini menggunakan penelitian kuantiatif dan sumber data yang digunakan dalam
+penelitian ini diperoleh dari hasil penyebaran kuesioner. Populasi dalam penelitian ini adalah
+mahasiswa akuntansi dan metode pengambilan sampel menggunakan random sampling dan
+sampel dalam penelitian ini sebanyak 160 responden. Metode analisis data yang digunakan
+adalah regresi logistik. Taraf signifikansi yang digunakan adalah 5%.
+
+HASIL DAN PEMBAHASAN
+Data Deskripsi
+Penelitian ini menggunakan data primer yang diperoleh dengan cara survey dan
+menyebarkan kuesioner kepada responden. Kuesioner tersebut dibagikan kepada sampel yang
+memenuhi criteria sampel. Populasi dalam penelitian ini adalah mahasiswa se-Kota Bengkulu
+yang terdiri dari Univeristas Bengkulu, Universitas Muhammadiyah Bengkulu, Universitas
+Dehasen, dan Universitas Hazairin. Dimana mahasiswa yang menjadi criteria yaitu
+mahasiswa sangkatan tahun 2012.
+
+Tabel 4.1
+Rincian Tingkat Pengembalian Kuesioner
+Rincian
+Jumlah (Eks)
+Persentase (%)
+180
+100
+Kuesioner yang disebar
+165
+87,5
+Kuesioner yang dikembali
+Kuesioner yang tidak kembali
+15
+12,5
+Keusioner yang tidak dapat diolah
+
+5
+
+4,16
+
+Kuesioner yang dapat digunakan
+(dianalisis)
+Sumber : data Primer diolah, 2016
+
+160
+
+100
+
+Berdasarkan table 4.1 di atas, Jumlah kuesioner yang disebarkan dalam penelitian
+adalah 180 eksemplar. Dari jumlah yang disebarkan kepada responden, ada 165 kuesioner
+yang kembali, sebanyak 15 kuesioner tidak kembali dan 5 kuesioner tidak dapat digunakan.
+54
+
+ISSN 2303-0356
+Hal. 51-60
+
+Jurnal Akuntansi
+Vol. 7, No.1, Februari 2017
+
+Adapun alasan tidak dapat digunakan karena responden mengisi jawaban tidak lengkap dan
+tidak memenuhi kriteria sampel yang ditetapkan.
+Statistik Deskriptif
+Statistik deskriptif memberikan gambaran atau deskripsi suatu data yang dilihat dari
+nilai rata-rata (mean), standar deviasi, minimum, dan maksimum. Tabel 4.3 menyajikan hasil
+statistik deskriptif untuk variabel bebas dan variabel kontrol pada penelitian ini adalah sebagai
+beriku:
+Tabel 4.3
+Statistik Deskriptif Variabel Penelitian
+Variabel
+GENDER
+Minat Akuntan Publik
+
+n
+
+Kisaran
+Aktual
+
+Mean
+Teoritis
+
+Mean
+Aktual
+
+Std. Deviasi
+
+0-1
+
+0,5
+
+0,43
+
+0,497
+
+0-1
+
+0,5
+
+0,74
+
+0,442
+
+Minat Non Akuntan Publik
+
+39
+
+0-1
+0-1
+
+Total
+PENGHARGAAN
+FINANSIAL
+Minat Akuntan Publik
+Minat Non Akuntan Publik
+Total
+
+160
+
+0-1
+
+0,000
+
+0,5
+
+0,51
+
+0,502
+
+121
+
+5-25
+
+12-25
+
+15
+
+19,84
+
+2,944
+
+39
+160
+
+5-25
+5-25
+
+14-24
+12-25
+
+15
+15
+
+19,00
+19,64
+
+2,328
+2,820
+
+10-25
+
+15
+
+19,71
+
+2,853
+
+15-25
+10-25
+
+15
+15
+
+20,46
+19,89
+
+2,624
+2,810
+
+PERTIMBANGAN PASAR
+KERJA
+Minat Akuntan Publik
+Minat Non Akuntan Publik
+Total
+
+121
+
+Kisaran
+Teoritis
+
+121
+39
+160
+
+5-25
+5-25
+5-25
+
+Sumber: Data primer diolah, 2016
+Berdasarkan tabel 4.3 di atas menunjukan deskriptif semua variabel dari 160 responden
+yang menjadi sampel penelitian. Variabel gender, penghargaan finansial dan pertimbangan
+pasar kerja diklasifikasikan menjadi dua yaitu minat mahasiswa akuntansi sekota Bengkulu
+dalam memlilih karir menjadi akuntan publik ada sebanyak 121 orang dan minat non akuntan
+publik sebanyak 39 orang. Pada variabel gender klasifikasi minat akuntan publik mempunyai
+nilai minimum 0 dan nilai maksimum 1 karena variabel gender adalah variabel dummy, nilai 0
+menandakan bahwa laki-laki sedangkan nilai 1 menandakan perempuan. Minat menjadi
+akuntan publik pada mahasiswa laki-laki berjumlah 69 orang dan perempuan berjumlah 52
+orang dengan total 121 orang yang berminat menjadi akuntan publik, yang berarti minat
+menjadi akuntan publik didominasi oleh laki-laki. Variabel gender pada klasifikasi minat
+menjadi akuntan publik menunjukan rata-rata aktual adalah 0,43 yang lebih kecil dari nilai
+teoritisnya 0,5. Standar deviasi pada variabel gender adalah 0,497 yang menunujkkan bahwa
+jawaban dari responden bervariasi.
+Variabel gender Pada minat non akuntan publik mempunyai nilai minimum 0 dan nilai
+maksimum 1 karena variabel gender adalah variabel dummy, nilai 0 menandakan bahwa lakilaki sedangkan nilai 1 menandakan perempuan. Minat non akuntan publik pada mahasiswa
+laki-laki berjumlah 10 orang dan perempuan berjumlah 29 orang, yang berarti minat non
+akuntan publik didominasi oleh perempuan. Variabel gender pada klasifikasi minat menjadi
+55
+
+Pengaruh Gender, Penghargaan Finansial ……..
+Astri Wulan Dary dan Fitrawati Ilyas
+
+akuntan publik menunjukan rata-rata aktual adalah 0,74 yang lebih kecil dari nilai teoritisnya
+0,5. Standar deviasi pada variabel gender adalah 0,442 yang menunujkkan bahwa jawaban
+dari responden bervariasi.
+Variabel gender mempunyai nilai minimum 0 dan nilai maksimum 1 karena variabel
+gender adalah variabel dummy, nilai 0 menandakan bahwa laki-laki sedangkan nilai 1
+menandakan perempuan. Variabel gender pada klasifikasi minat menjadi akuntan publik
+maupun non akuntan publik menunjukan rata-rata aktual adalah 0,51 yang lebih kecil dari
+nilai teoritisnya 0,5. Standar deviasi pada variabel gender adalah 0,502 yang menunujkkan
+bahwa jawaban dari responden bervariasi.
+Penghargaan finansial pada klasifikasi minat mahasiswa menjadi akuntan publik
+menunujukan rata-rata aktual sebesar 19,84 yang lebih besar dari nilai teoritis yaitu 15.
+Standar deviasi pada variabel penghargaan finansial adalah 2,944 yang menunujkkan bahwa
+jawaban dari responden bervariasi. Penghargaan finansial pada klasifikasi minat mahasiswa
+non akuntan publik menunujukan rata-rata aktual sebesar 19,00 yang lebih besar dari nilai
+teoritis yaitu 15. Standar deviasi pada variabel penghargaan finansial adalah 2,328 yang
+menunujkkan bahwa jawaban dari responden bervariasi.
+Penghargaan finansial pada klasifikasi minat mahasiswa menjadi akuntan publik
+maupun non akuntan publik menunujukan rata-rata aktual sebesar 19,64 yang lebih besar dari
+nilai teoritis yaitu 15. Standar deviasi pada variabel penghargaan finansial adalah 2,820 yang
+menunujkkan bahwa jawaban dari responden bervariasi. Pertimbangan Pasar kerja pada
+klasifikasikan minat mahasiswa menjadi akuntan publik menujukkan rata-rata actual sebesar
+19,71 yang lebih besar dari nilai teoritisnya yaitu 15. Standar deviasi pertimbangan pasar
+kerja adalah 2,853 yang menunjukan bahwa jawaban responden bervariasi.
+Pertimbangan Pasar kerja pada klasifikasikan minat mahasiswa non akuntan publik
+menujukkan rata-rata aktual sebesar 20,46 yang lebih besar dari nilai teoritisnya yaitu 15.
+Standar deviasi pertimbangan pasar kerja adalah 2,624 yang menunjukan bahwa jawaban
+responden bervariasi. Pertimbangan Pasar kerja pada klasifikasi minat mahasiswa menjadi
+akuntan publik maupun non akuntan publik menunujukan rata-rata aktual sebesar 19,89 yang
+lebih besar dari nilai teoritisnya yaitu 15. Standar deviasi pertimbangan pasar kerja adalah
+2,624 yang menunjukan bahwa jawaban responden bervariasi.
+Pengujian Hipotesis
+Penelitian ini bertujuan untuk menjelaskan faktor-faktor yang mempengaruhi minat
+mahasiswa akuntansi berkarir menjadi akuntan publik dan non akuntan publik. Hipotesis
+tersebut dalam penelitian ini diuji dengan menggunakan regresi logistik. Untuk menguji
+kelayakan model dalam penelitian ini dengan melihat perbandingan nilai -2 log likehood awal
+(hasil block number 0) dengan nilai -2 log likehood (hasil block number 1).
+Tabel 4.6
+Likelihood Overall Fit Block
+Iteration
+-2 log likehood
+Step 0
+1
+177,717
+Step 1
+1
+163,929
+2
+161,405
+3
+161,348
+4
+161,348
+5
+161,348
+Sumber: Data primer yang diolah, 2016
+
+56
+
+ISSN 2303-0356
+Hal. 51-60
+
+Jurnal Akuntansi
+Vol. 7, No.1, Februari 2017
+
+Pengujian pada block number 0 (pengujian dengan memasukkan semua prediktor)
+memperoleh nilai -2 log likehood awal 177,717. Nilai tersebut menunjukkan bahwa tidak
+mengalami penurunan (tetap) yang berarti model belum dapat menjelaskan hubungan variabel
+bebas dengan variabel terikatnya. Sedangkan pada block number 1 diperoleh nilai -2 log
+likehood sebesar 161,348. Hal ini menunjukkan bahwa adanya penurunan nilai -2 log
+likehood, sehingga memungkinkan adanya hubungan antara variabel independen dengan
+variabel dependennya.
+Table 4.7
+Model Summary
+Step
+
+-2 Log
+likelihood
+
+Cox & Snell R Nagelkerke R
+Square
+Square
+
+1
+161.348a
+.097
+.145
+a. Estimation terminated at iteration number 5 because
+parameter estimates changed by less than ,001.
+Nilai hasil Nagelkerke R Square dapat dijelaskan oleh variabel independen sebesar
+14,5%, sementara sisanya 85,5% dapat dijelaskan oleh variabel lain yang tidak digunakan
+pada penelitian ini. Setelah mendapat model regresi logistik yang fit yang tidak memerlukan
+modifikasi model, maka pengujian hipotesis dapat dilakukan. Untuk menerimaan atau
+penolakan hipotesis didasarkan pada tingkat signifikansi (α) 0,05 (5%) dengan kriteria apabila
+nilai signifikan (Sig.) > tingkat signifikansi (α), maka H0 diterima atau Ha ditolak.
+Sebaliknya, apabila nilai signifikan (Sig.) < tingkat signifikansi (α), maka H0 ditolak atau Ha
+diterima.
+
+Tabel 4.7
+Hasil Regresi Logistik
+Variabel
+Koefisien
+Sig.
+Ket.
+Gender (X1)
+-1,380
+0,001
+Diterima
+Penghargaan Finansial (X2)
+0,079
+0,249
+Ditolak
+Pertimbangan Pasar Kerja X(3)
+-0,111
+0,134
+Ditolak
+Constanta
+2,643
+0,227
+Sumber: Data primer yang diolah, 2016
+Bentuk persamaan regresi logistik dapat ditulis sebagai berikut:
+LogY=2,643+(-1,380)X1+0,079X2+(-0,111)X3+е
+Hasil Pengujian Hipotesis
+1. Gender (X1)
+Hasil pengujian hipotesis menunjukan bahwa gender memiliki nilai signifikansi sebesar
+0,001. Nilai sig. 0,001 < 0,05 menunjukan bahwa variabel gender terbukti memiliki pengaruh
+terhadap minat mahasiswa akuntansi berkarir menjadi akuntan publik dan non akuntan publik
+sehingga hipotesis diterima. Artinya Hasil penelitian ini konsisten dengan penelitian yang
+dilakukan oleh Ernawati (2004) yang menunjukan bahwa gender memiliki pengaruh
+signifikan terhadap pemilihan karir menjadi akuntan publik dan Peran gender sangat penting
+dampaknya dalam tiap aktivitas yang dilakukan oleh manusia. Hal ini berbeda dengan yang
+diungkapkan oleh Law (2010) dalam The Theory of reasoned action yang meneliti di Hong
+Kong menyebutkan bahwa kebanyakan wanita yang memasuki profesi akuntan publik.
+57
+
+Pengaruh Gender, Penghargaan Finansial ……..
+Astri Wulan Dary dan Fitrawati Ilyas
+
+Jadi, perbedaan gender pada saat ini menjadi hambatan bagi seseorang dalam
+menemukan profesi dan karir yang mereka geluti. Karena telah dibuktikan pada hasil statistik
+deskriptif yang menunjukkan bahwa kebanyakan laki-laki yang memilih profesi akuntan
+publik. Sedangkan perempuan memilih profesi non akuntan publik. Karena, kemungkinan
+perempuan tidak telalu bagus jika menjadi akuntan publik dilihat dari jenis pekerjaan yang
+dapat menyita waktu perempuan mengurus keluarganya.
+2. Penghargaan Finansial
+Hasil pengujian hipotesis menunjukan bahwa penghargaan finasial memiliki nilai
+signifikansi sebesar 0,249. Nilai sig. 0,249 > 0,05 menunjukan bahwa variabel penghargaan
+finansial terbukti tidak memiliki pengaruh terhadap minat mahasiswa akuntansi berkarir
+menjadi akuntan publik dan non akuntan publik sehingga hipotesis ditolak. Artinya, yang
+menyebabkan hasil ini tidak signifikan terhadap minat mahasiswa akuntansi berkarir menjadi
+akuntan publik dan non akuntan publik karena ada jawaban beberapa responden yang tidak
+setuju dengan pernyataan mengenai gaji awal yang tinggi dan kemungkinan ini lah yang
+menyebabkan mahasiswa ingin mendapatkan variasi pengalaman kerja terlebih dahulu. Hasil
+penelitian ini konsisten dengan penelitian yang dilakukan oleh Chan (2012) yang
+menunjukkan bahwa penghargaan finansial tidak berpengaruh terhadap minat mahasiswa
+akuntansi Sekota Bengkulu menjadi akuntan publik dan non akuntan publik. Namun, tidak
+konsisten dengan penelitian yang dilakukan Law (2010) menunjukkan bahwa hasil pengaruh
+yang negatif dan tidak signifikan terhadap mahasiswa yang berniat menjalani karier pada
+CPA dan profesi akuntansi lainnya.
+3. Pertimbangan Pasar Kerja
+Hasil pengujian hipotesis menunjukan bahwa pertimbangan pasar kerja memiliki nilai
+signifikansi sebesar 0,134. Nilai sig. 0,134 > 0,05 menunjukan bahwa variabel pertimbangan
+pasar kerja terbukti tidak memiliki pengaruh terhadap minat mahasiswa akuntansi berkarir
+menjadi akuntan publik dan non akuntan publik sehingga hipotesis ditolak. Artinya, yang
+menyebabkan hasil tidak signifikan adalah adanya jawaban responden yang tidak setuju
+dengan pernyataan pada setiap item pertanyaan yakni 12 responden yang tidak setuju dengan
+pernyataan lapangan kerja yang mudah diakses dari 160 responden, 14 responden yang tidak
+setuju dengan pernyataan keamanan kerjanya lebih terjamin tidak mudah di PHK, 12
+responden yang tidak setuju dengan pernyataan karir tesebut dapat memperluas akses dan
+pengetahuan isu-isu dunia bisnis dan akuntansi terkini dan 13 responden yang tidak setuju
+bahwa pekerjaan ini memebrikan pilihan jenis pekerjaan yang luas. Hal ini mengindikasikan
+bahwa kurangnya informasi terkait pertimbangan pasar kerja akuntan publik dan non akuntan
+publik dan pekerjaan tersebut dianggap tidak luas. Hasil penelitian yang dilakukan oleh Chan
+(2012), Sartika (2014), Lukman (2015) yang menunjukkan bahwa pertimbangan pasar kerja
+tidak berpengaruh terhadap minat mahasiswa akuntansi menjadi akuntan publik dan non
+akuntan publik.
+PENUTUP
+Berdasarkan hasil penelitian dan pembahasan yang telah dikemukakan pada bab sebelumnya,
+dapat ditarik kesimpulan sebagai berikut :
+1. Laki-laki cenderung memilih akuntan publik dan perempuan memilih non akuntan publik,
+maka gender memiliki pengaruh terhadap minat mahasiswa akuntansi berkarir menjadi
+akuntan publik dan non akuntan publik di Perguruan Tinggi Negeri dan Perguruan Tinggi
+Swasta.
+
+58
+
+ISSN 2303-0356
+Hal. 51-60
+
+Jurnal Akuntansi
+Vol. 7, No.1, Februari 2017
+
+2. Penghargaan Finansial tidak memiliki pengaruh terhadap minat mahasiswa akuntansi
+berkarir menjadi akuntan publik dan non akuntan publik di Perguruan Tinggi Negeri dan
+Perguruan Tinggi Swasta.
+3. Pertimbangan Pasar Kerja tidak memiliki pengaruh terhadap minat mahasiswa akuntansi
+berkarir menjadi akuntan publik dan non akuntan publik di Perguruan Tinggi Negeri dan
+Perguruan Tinggi Swasta.
+Keterbatasan dan Saran
+a. Keterbatasan
+1. Karena di PTS dan PTN mahasiswa dikumpulkan hanaya yang bisa dihubungi oleh
+peneliti dan bagian akademik, kebanyakan dari responden adalah mahasiswa yang
+telah lulus dari mata kuliah tersebut, sehingga pengetahuan hal yang diuji sudah
+terlupakan.
+2. Jumlah sampel yang tidak sama, sehingga menyebabkan variance data cenderung
+tidak homogen. Karena data cenderung tidak homogen maka data terdistribusi tidak
+normal.
+b. Saran
+Adapun saran yang diberikan untuk penelitian yang akan datang sebagai berikut:
+1. Untuk penelitian selanjutnya disarankan untuk mengembangkan penelitian ini dengan
+juga meneliti faktor-faktor lain yang berpengaruh terhadap pemilihan karir sebagai
+akuntan publik yang tidak diteliti oleh peneliti. Di samping itu juga menambah metode
+lain di luar kuesioner untuk mengatasi kelemahan-kelemahan yang mungkin terdapat
+pada metode kuesioner.
+2. Penelitian selanjutnya dapat menggunakan sampel di seluruh perguruan tinggi di
+Provinsi Bengkulu sehingga dapat dibandingkan tingkat perbedaan pemahaman
+terhadap suatu konsep akuntansi antara seluruh perguruan tinggi di Provinsi Bengkulu.
+3. Penelitian selanjutnya diharapkan dapat membuat peneliti ini tidak hanya penelitian
+kuantitatif melainkan gabungan dengan penelitian kualitatif.
+
+DAFTAR PUSTAKA
+Aprilyan, Lara Absara. 2011. Faktor-faktor yang mempengaruhi mahasiswa akuntansi dalam
+pemilihan karir menjadi Akuntan Publik. Jurnal Ilmiah Mahasiswa Akuntansi.
+Chan, Andi Setiawan. 2012. Analisis faktor-faktor yang mempengaruhi pemilihan karir
+menjadi Akuntan publik oleh mahasiswa Jurusan Akuntansi. Jurnal Ilmiah Mahasiswa
+Akuntansi. (1.1). hal. 53-58
+Ernawati dan Edi Wibowo. 2004. Pengaruh Gender Terhadap Keinginan Mahasiswa
+Akuntansi dalam Memilih Profesi Akuntan Publik dan Non Akuntan Publik. Jurnal
+Ekonomi dan Kewirausahaan. 4 (I).Hlm. 56-65.
+Law, Philip K. 2010. A theory of reasoned action model of accounting students’ career choice
+in public accounting practices in the post-Enron. Journal of Applied Accounting
+Research.(11.1). hal. 58-73
+Lukman, Hendro. 2015. Pengaruh Nilai Intrisik, Gender, Parental influence, persepsi
+mahasiswa dan pertimbangan pasar kerja dengan pendekatan Theory Of Reasoned
+Action Model terhadap pemilihan karir sebagai akuntan publik bagi Mahasiswa
+59
+
+Pengaruh Gender, Penghargaan Finansial ……..
+Astri Wulan Dary dan Fitrawati Ilyas
+
+Perguruan Tinggi Swasta di Jakarta. Proceding Simposium Nasional Akuntansi 18
+Medan.
+Mufidah. 2003. Paradigma Gender. Malang: Bayu media Publishing
+Sartika, Meli. 2014. Faktor-Faktor yang Mempengaruhi Minat Pemilihan Karir Sebagai
+Akuntan Publik dan Non Akuntan Publik. Skripsi Bengkulu: Universitas Bengkulu
+Zaid, Muhammad Ikhwan. 2015. Pengaruh Gender, Penghargaan Finansial, dan Pertimbangan
+Pasar Kerja terhadap Minat Mahasiswa Akuntansi untuk Berkarir Menjadi Akuntan
+Publik. Universitas Negeri Yogyakarta. Jurnal Ilmiah Mahasiswa Akuntansi
+
+60
+
+

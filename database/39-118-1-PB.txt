@@ -1,0 +1,1244 @@
+Jurnal Ilmiah Faktor Exacta
+
+Vol. 4 No. 1 Maret 2011
+
+TRANSFORMASI UKM KE BISNIS ONLINE DENGAN
+INTERNET MARKETING TOOLS
+Kursehi Falgenti
+falgent@gmail.com
+081315177738
+Program Studi Teknik Informatika – Fakultas Teknik, Matematika dan IPA
+Universitas Indraprasta PGRI
+
+Abstract. One of the efforts by the government, in this case Ministry of Cooperative and
+SMEs to introduce the world of internet marketing to the SMEs is to facilitate the trading
+board in www.indonesian-products.biz. This effort is to identify SME to conduct
+transactions online. There are still many other aspects in the internet marketing world to
+be known by SMEs. This paper will discuss low cost techniques and tools which can be
+exploited in the marketing of SME products and services. One is utilizing tools from
+Google. Other techniques are also needed to be able to dominate the Internet market.
+This paper will be accompanied by a company that has successfully sold Air Conditioner
+components over the Internet by utilizing marketing techniques and tools of internet.
+Key Words: UKM, Internet Marketing, bisnis online
+Bhagwat,2006) Salah satuya tidak
+melaksanakan praktek-praktek dan
+pengetahuan Sistem Informasi yang
+layak dan tepat. Dalam era globalisasi
+saat ini, kelangsungan hidup UKM di
+tentukan oleh pengetahuan mereka
+untuk mengerti dan mengakui pentingya
+Sistem Informasi.
+Penggunaan komputer untuk
+aktivitas usaha UKM masih terbilang
+kecil, menurut Budi Wahyu Jati,
+Country Manager Intel Indonesia, baru
+27% yang memiliki dan memanfaatkan
+komputer.
+Itupun
+belum
+dapat
+memanfaatkannya secara maksimal
+untuk mendukung aktivitas usaha
+mereka (Kedaulatan Rakyat, 2004).
+Penelitian lain yang berkaitan untuk
+melihat lebih lanjut penggunaan
+komputer untuk akses internet oleh
+UKM di Yogyakarta(Fathul Wahid,
+2007), hasilnya hanya 34,5 % UKM
+yang mengakses internet. Fathul wahid
+juga meneliti tujuan pelaku
+UKM
+mengakses internet di Indonesia.
+Hasilnya dapat dilihat pada tabel di
+bawah ini:
+
+PENDAHULUAN
+Pasca krisis 1997, UKM
+cenderung bertahan dibanding usaha
+besar yang mengalami keterpurukan.
+Perkembangannya dapat
+dibuktikan
+dengan semakin bertambahnya jumlah
+UKM tiap tahun. Jumlah usaha
+kecilnya pada tahun 2008 mencapai 520
+ribu unit, naik dari 498 ribu unit tahun
+2007. Sedangkan usaha menengah
+menjadi 40 ribu unit, dari 38 ribu unit
+tahun 2007(BPS, 2009).
+Walaupun
+ada
+kenaikan
+kuantitas, dalam perjalananya para
+pelaku UKM selama ini mengalami
+hambatan
+dalam
+mengembangkan
+usahanya. Dari penelitain terdahulu
+(Effendi Ishak, 2005) dapat diketahui
+hambatan yang sering ditemui para
+pelaku usaha kelas UKM adalah
+masalah
+pemodalan,
+pengelolaan
+manajemen bisnis, standar mutu produk,
+kesulitan penetrasi pasar dan promosi,
+kesulitan distribusi produk, dan belum
+menggunakan TIK yang tepat.
+Lebih
+lanjut
+tentang
+Karakteristik
+UKM
+dalam
+memanfaatkan TIK menurut (Sharma &
+
+62
+
+Jurnal Ilmiah Faktor Exacta
+
+No
+
+Vol. 4 No. 1 Maret 2011
+
+Tabel 1. Penggunaan Internet Oleh UKM di Indonesia
+Penggunaan
+
+%
+
+1
+
+Mencari Informasi pasar
+
+92,16
+
+2
+
+Mencari Informasi desain
+
+80,39
+
+3
+4
+
+Memasarkan Produk
+Komunikasi dengan mitra usaha
+
+60,8
+58,8
+
+5
+
+Komunikasi dengan konsumen
+
+45,1
+
+6
+
+Memfasilitasi pemesanan online
+
+37,3
+
+7
+
+Komunikasi dengan pemasok
+
+37,3
+
+8
+
+Transaksi online
+
+29,4
+
+(Sumber: Majalah PIP, edisi 281/Januari/Tahun XXIV/2007)
+dan Vadica melakukan riset tahun 2004
+untuk mengetahui faktor-faktor utama
+penentu suksesnya UKM menjalankan
+bisnis online di Atlantic, Canada. Dalam
+riset ini mereka mengirim kuesioner ke
+450 UKM di Atlantic Canada, bertujuan
+mengetahui
+faktor
+faktor
+yang
+mempengaruhi suksesnya menjalankan
+bisnis online. Setelah data dianalisa hasil
+yang mengejutkan ditemukan dalam
+riset tersebut:
+1. Memiliki akses broadband atau
+internet kecepatan tinggi tidak
+mempengaruhi
+suksesnya
+bisnis online
+2. Memiliki website tidak banyak
+berpengaruh dalam suksesnya
+pemanfaataan e-bisnis
+
+Kecilnya jumlah UKM yang
+mengunakan
+internet
+berhubungan
+dengan penetrasi internet di Indonesia
+yang hanya 12,5%, dibandingkan
+dengan Negara Asia lainya Indonesia
+jauh tertinggal. Penetrasi internet di
+China 29,9%, di Thailand 24,4%
+Philiphina
+dan
+Malaysia
+65,7%(internetworldstats.com).
+Data
+penetrasi internet ini berkaitan berkaitan
+juga dengan jumlah E- Commerce
+(B2B+B2C) hanya 0,08% dari total
+perdagangan di Indonesia (Konferensi
+Inaicta, 2010).
+Walaupun pelaku bisnis online
+masih sedikit, Ricardus Eko Indrajit
+(eBizzAsia,
+2007)
+berpendapat:
+Optimisme mengenai diterapkannya eBusiness di Indonesia masih cukup
+besar,
+hanya
+saja
+mungkin
+percepatannya tidak setinggi yang
+terjadi di negara-negara lain karena
+masih
+rendahnya
+HDI
+(Human
+Development Index)
+masyarakat
+Indonesia. Dibandingkan Negara maju
+kemampuan tulis baca masyarakat
+Indonesia
+masih rendah, sehinga
+penyerapan informasi terbaru di bidang
+teknologi informasi sangat lambat.
+Agar UKM Indonesia sukses
+bertransformasi ke bisnis online kita
+bisa belajar dari negara Canada. Di
+Canada UKM sudah banyak yang
+bertransformasi ke bisnis online. Davies
+
+“Fasilitator” memegang peranan
+utama dalam menggerakkan UKM ke
+dunia internet, Menggunakan teknologi
+internet lebih maju adalah kunci sukses
+di bisnis online. Fasilitator ini
+didefinsikan oleh Davis seseorang di
+luar atau di dalam organisaasi yang
+mengerti dunia internet. Bisa seorang
+frontdesk atau seorang konsultan yang
+membuat websites perusahaan. Faktor
+yang terpenting adalah fasilitator
+dipercaya sumber pengetahuanya dan
+memiliki kapabilitas membantu UKM
+mengarungi kompleksitas internet.
+
+63
+
+Jurnal Ilmiah Faktor Exacta
+
+Vol. 4 No. 1 Maret 2011
+
+tanah dan bangunan tempat usaha.
+(Wikipedia Indonesia, Maret 2006).
+Menurut pemerintah sebagaimana
+tercantum pada UU No. 20 Tahun 2008
+tentang Usaha Mikro, Kecil, dan
+Menengah; usaha kecil memilki aset Rp
+50 juta s/d Rp 500 juta dan omset Rp
+300 juta s/d Rp 2,5 milyar(depkop.go.id)
+Dari definisi tersebut, maka
+UKM seringkali dipandang sebagai
+peluang
+kecil
+yang
+membawa
+keuntungan. Produktivitas Usaha kecil
+hanya Rp 418 Juta, Usaha Menegah
+hanya Rp 7.395 Juta jauh sekali di
+bawah perusahaan besar Rp 190.409
+Juta(Konverensi Inaicta,2010). Namun
+bila dikelola dengan baik dan di bina
+dengan efektif, tentu UKM dapat
+meningkatkan Produktivitasnya
+Melemahnya nilai rupiah tahun
+1997 telah menjatuhkan perekonomian
+negara, namun ketika perusahaanperusahaan besar bangkrut, UKM justru
+menjadi
+alternatif
+terbaik
+bagi
+pengembangan perekonomian.
+Peran pemerintah
+Mengingat pentingnya peran
+UKM, pemerintah melalui Kementrian
+Negera Koperasi dan UKM mendirikan
+trading board, yaitu infrastruktur
+promosi
+dan
+pemasaran
+dengan
+menggunakan teknologi informasi dan
+Komunikasi (TIK) berbasis web dengan
+fasilitas sell offer dan buy offer bagi
+buyer mancanegara, trading board ini
+dapat
+diakses
+di
+alamat:
+www.Indonesian-products.biz
+Trading board ini telah memuat
+2776 webpage koperasi dan UKM
+eksportir/potensial eksportir. Pelaku
+UKM dapat memanfaatkan trading
+board ini setelah memenuhi syaratsyarat yang di tetapkan, kemudian
+mengisi formulir yang telah disediakan
+dan menghubungi pengelola trading
+board kementrian Koperasi dan UKM.
+Sebagai
+Pembina
+UKM,
+pemerintah lebih mengarahkan UKM
+untuk melakukan transaksi online atau
+E-commerce, masih banyak aspek lain
+
+Berbeda dengan Davis, Daniel John
+Doiron menilai google memegang
+peranan penting sebagai fasilitator
+internet marketing (Doiron, 2010).
+Google memungkinkan pasar UKM
+terlibat dalam internet marketing
+melalui pengenalan tools dan fasilitas
+seperti google Analytics dan google
+Adword,
+google Trend, google
+Webmaster tools.
+Pengetahuan akan tools dari google
+ini sangat penting dalam proses
+tranformasi pemasaran produk melalui
+web milik UKM, karena itu penulis akan
+memulai tulisan pegenanalan internet
+marketing tool ini dengan membahas
+tools milik google ini, juga parameterparameter dasar SEO yg populer saat ini
+seperti, publikasi melalui Portal Jasa,
+situs jejaring sosial dan Email
+marketing. Investasi melalui fasilitator
+dari google ini lebih murah dan terbukti
+berhasil membantu pelaku UKM sukses
+di bisnis online.
+Teknik dan alat internet marketing
+yang dibahas di tulisan ini tidak meliputi
+optimasi pada website, tapi teknik dan
+alat yang dimanfaat diluar website.
+Optimasi di dalam website sebenarnya
+berkaitan dengan topik yang kita bahas,
+tapi semua itu termasuk untuk
+memperkuat fungsi website.
+Setelah membaca tulisan ini
+diharapkan pembaca dapat mengetahui
+perangkat dan teknik yang tersedia
+dalam
+internet marketing dan bisa
+menjadi fasilitator dalam membantu
+transformasi bisinis UKM ke bisnis
+online. Terakhir, UKM manapun yang
+akan menggunakan internet marketing
+tool ini harus mempunyai rencana
+strategis dan evaluasi yang kritis untuk
+mencapai pertumbuhan di bisnis online.
+PEMBAHASAN
+Usaha Kecil dan Menengah
+(disingkat UKM) adalah sebuah istilah
+yang mengacu pada jenis usaha kecil
+yang memiliki kekayaan bersih paling
+banyak Rp. 200.000.000 tidak termasuk
+
+64
+
+Jurnal Ilmiah Faktor Exacta
+
+Vol. 4 No. 1 Maret 2011
+
+yang
+belum
+tersentuh
+dalam
+pemanfaatan internet, seperti peran
+internet sebagai media komunikasi dan
+pemanfaatan internet sebagai strategi
+branding untuk UKM belum dilakukan.
+Mengenai langkah yang diambil
+pemerintah ini, Amalia E. Maulana
+(www.inilah.com, 2010) berpendapat,
+pemanfaatan internet untuk transaksi
+online ini memilik tingkat kesulitan
+yang tinggi dibandingkan dengan
+memanfaatkan media lain yang ada di
+internet, seperti email dan Situs jejaring
+sosial. Strategi branding melalui media
+internet dapat dilakukan melalui
+website, blog, e-forum, jejaring sosial
+seperti Facebook, Twitter, YouTube,
+dan Komunitas. Amalia menambahkan,
+pemerintah belum mendukung dan
+membina UKM untuk memanfaatkan
+media baru secara benar dan secara
+maksimal.
+Melihat
+kembali
+hasil
+penelitian fathul Wahid pada tabel 1
+diatas, kita dapat mengetahui kecilnya
+
+Tahap
+an
+0
+
+pemanfaatan internet untuk media
+komunikasi, terutama dengan konsumen
+hanya 45% dan komunikasi dengan
+pemasok
+hanya
+37%.
+Aktivitas
+komunikasi dengan konsumen ini
+dilakukan dengan mengggunakan media
+seperti email atau instan messengers/
+voice mesengger, peningkatan aktivitas
+komunikasi
+menjadi penting karena
+biasanya konsumen yang puas dengan
+suatu produk atau layanan akan
+merekomendasikanya ke pihak lain.
+Disini letak peran strategis internet
+sebagai media komunikasi sering
+diabaikan
+Transformasi kebisnis online
+Sebelum masuk ke bisnis online,
+UKM hanya mengandalkan cara-cara
+konvensional
+dalam
+memasarkan
+produknya, ada beberapa tahapan yang
+dilalui UKM untuk dapat sukses
+mentranformasikan bisnisnya ke dunia
+Online. Seperti dapat dilihat pada tabel 2
+di bawah ini.
+
+Tabel 2. Proses Transformasi Ke Bisnis Online
+Dekripsi
+Judul
+Belum Menggunakan
+internet
+
+1
+
+E-Mail
+
+2
+
+Web-site
+
+3
+
+E-Commerce
+
+Bisnis belum memiliki akses internet.
+Mengakses informasi, layanan online dan menggunakan
+email. Belum memiliki website, browsing di web, tapi
+tidak memiliki sarana yang memadai untuk akses
+komunikasi internal dan eksternal.
+Memilik website tapi tidak menunjang kemajuan bisnis
+karena hanya memiki informasi dasar tentang bisnis.
+Bergantung pada inisiatif pelanggan untuk menjajaki
+kerja sama. Dapat membali barang dan jasa secara
+online
+Pelanggan memiliki akses ke katalog produk dan jasa.
+Pesanan dan pembayaran dengan sistem online.
+Mengurangi biaya dan dengan hanya menggunakan
+akses internet standar. Website tidak terkoneksi ke
+sistem internal dan setiap order di lakukan secara
+manual.
+
+65
+
+Jurnal Ilmiah Faktor Exacta
+
+4
+
+5
+
+Vol. 4 No. 1 Maret 2011
+
+E-Business
+
+Telah memiliki sistem layanan bisnis terpadu seperti
+sistem pemesanan, produksi, jasa antar, akuntansi dan
+pemasaran terintegrasi ke sistem bisnis lainnya. Tanpa
+menghabiskan banyak waktu dan biaya
+
+Transformed
+Organizations
+
+Sistem informasi terbuka bagi para pelanggan, pemasok,
+dan mitra usaha. Teknologi internet mendorong proses
+internal dan eksternal lebih efektif dan efisien.
+Berdasarkan jaringan kerja diantara perusahaan dan
+mitra bisnis
+
+Sumber: Cisco led Information Age study on E-commerce and Small Business (Martin and
+Matlay, 2001)
+Pada tahap selanjutnya jenis
+usaha yang ada dalam kategori ini
+adalah usaha menengah yang sudah
+memiliki sistem pelayanan bisnis
+terpadu seperti apalikasi SAP. Tidak
+mustahil jenis usaha kecil berkembang
+menjadi usaha menegah.
+
+Tahap pertama dimulai dengan
+menggunakan akses
+internet untuk
+berkirim email dan mengakses sumber
+informasi pasar dengan browser. Pada
+tahap pertama ini, UKM dapat
+memaksimalkan
+pengunaan
+media
+email, web, e-forum dan situs jejaring
+sosial. Tahap awal dalam proses
+transformasi
+ke
+bisnis
+online
+membutuhkan waktu yang panjang dan
+usaha yang maksimal menguasai teknik
+dan cara-cara memasarkan produk di
+internet yang terus berkembang.
+Tahap kedua memiliki website
+sendiri berisi informasi dasar yang
+belum menunjang kemajuan bisnis.
+Memiliki website tapi tidak memiliki
+pengetahuan
+untuk
+memasarkanya
+menjadikan website tersebut tidak
+efektif, bagaimana mungkin penggunaa
+internet dapat melihat informasi di
+halaman
+web
+bila
+tidak
+mempromosikanya?
+dengan
+memaksimalkan tools yang disediakan
+google dan menggunakan teknik-teknik
+memasarkan alamat web,
+trafik
+kunjungan web dapat ditingkatkan,
+peluang mendapatkan pembelipun lebih
+banyak
+Tahap
+ketiga bisa dengan
+memanfaatkan trading board yang telah
+disediakan pemerintah atau membuat
+aplikasi e-commerce sendiri pada
+website.
+Tahap
+pemanfaatan
+ecommerce
+ini akan efektif apabila
+website kita sudah memiliki trafik tinggi
+
+Internet Marketing
+Internet
+marketing,
+juga
+disebut sebagai i-marketing, web
+marketing, pemasaran online, atau
+eMarketing, adalah segala usaha yang
+dilakukan untuk melakukan pemasaran
+suatu produk atau jasa melalui atau
+menggunakan
+media
+Internet(Wikipedia:2010)
+Perkembangan
+pengguna
+internet Indonesia meningkat tajam
+dalam beberapa tahun ini, menurut
+internetwordstats.com
+tahun
+2000
+terdapat 2 Juta pengguna internet di
+Indonesia, tahun 2010 ini pengguna
+internet di Indonesia sudah mencapai 30
+juta pengguna dan menempati urutan ke
+5 terbesar negara pengguna internet di
+asia.
+Peningkatan tajam pengguna
+internet memiliki relevansi dengan
+pertumbuhan terknik dan tools yang
+tersedia untuk bisnis online. Dengan
+beragam alat bantu yang tersedia, saat
+yang tepat untuk UKM mempromosikan
+produk melalui websitenya dan sukses di
+dunia online.
+Taknik dan dan Peralatan Internet
+Marketing
+
+66
+
+Jurnal Ilmiah Faktor Exacta
+
+Vol. 4 No. 1 Maret 2011
+
+situs web dan keefektifan pemasaran.
+Fiturnaya
+mudah
+digunakan
+membuat
+pengguna
+dapat
+menganalisa data kunjungan dengan
+mudah dan cepat. Untuk bisa
+menggunakan
+tool
+ini
+harus
+mendaftarkan account email ke
+www.google.com/analytics
+Selain
+memanfaatkan
+fitur
+diatas ,Google Analytics akan
+membuat halaman web kita akan
+sering dikunjungi oleh mesin pencari,
+nantinya akan memudahkan website
+kita terindeks di mesin pencari.
+Mesin
+pencari
+google
+akan
+melakukan analisa terhadap situs kita
+malalui script yang di pasang di
+halaman web diantara tag <HTML>/
+- /<HTML>
+
+Di sini hanya akan di bahas teknik
+dan alat internet marketing diluar web
+itu sendiri, artinya teknik-teknik internet
+marketing pada halaman website seperti
+optimasi meta tag meta. tag, optimasi
+judul dan penambahan fungsi lain pada
+web tidak dibahas. Bunafit Nugroho
+telah membahas beberapa teknik dan
+tool yang bisa dimanfaatkan dari google
+diantaranya google analytics, google
+Adword, google trends, dan google
+webmaster tools (Nugroho, B & Suryana
+N 2010: 47-65). Sebelum bisa
+menggunakan tools dari google kita
+harus memilki account email di
+gmail.com.
+1. Google Analytics
+Google Analytics merupakan
+solusi analisis web yang memberikan
+informasi rinci tentang kunjungan
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-18873905-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type ='text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl': 'http://www') + '.googleanalytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</html>
+2. Google Adword dan Google Trends
+
+Melalui tools ini UKM dapat
+menganalisa keyword yang akan di
+gunakan di websitenya berapa
+banyak volume pencarian lokal untuk
+keyword misalnya untuk keyword
+“hiasan dinding” hasilnya dapat
+dilihat di bawah ini:
+
+Fasilitas ini disediakan oleh
+google
+untuk
+mengetahui
+keyword(kata kunci) yang paling
+populer saat ini. Tools ini bisa di
+akses di www.adword.google.com.
+
+67
+
+Jurnal Ilmiah Faktor Exacta
+
+Vol. 4 No. 1 Maret 2011
+
+Gambar 1. Tampilan Hasil Pencarian Untuk Kata Kunci “hiasan dinding”
+Volume pencarian bulanan
+untuk kata kunci “hiasan dinding”
+cukup banyak 2900
+900 pencarian,
+pencarian UKM
+bisa menggunakan kata kunci ini
+sebagai tag websitenya. Sebelum
+memasukkan
+informasi
+tentang
+produk kehalaman web, perlu
+dilakukan analisa keyword untuk
+menemukan kata kunci yang tepat,
+yaitu yang
+ang paling banyak di cari
+melalui google.com.
+Adword juga menyediakan
+men
+fasilitas promosi website berbayar,
+mengiklan website dengan membayar
+perklik
+halaman
+web
+yang
+diiklankan. Biaya registrasinya Rp
+100 ribu. Setelah itu google akan
+mengiklankan web yang kita
+
+registrasikan di mesin pencari, iklan
+akan muncul apabilaa keyword yang
+kita daftarkan sesuai dengan keyword
+yang dimasukkan ke mesin pencari
+misalnya “hiasan dinding” dan
+“kaligrafi”, semakin tinggi nilai uang
+yang dibayarkan semakin tinggi
+prioritas iklan yang kita tawarkan
+muncul di mesin pencari
+Google trend dapat diakses
+melalui
+www.google.co.id/trends
+Melalui google trend kita bisa
+melihat trend keyword yang kita
+gunakan,, misalnya trend untuk kata
+kunci “hiasan” dan “kaligrafi
+kaligrafi” tahun
+2009 didunia hasilnya dapat ddilihat
+dibawah ini:
+
+68
+
+Jurnal Ilmiah Faktor Exacta
+
+Vol. 4 No. 1 Maret 2011
+
+Gambar 2. Tampilan Hasil Perbandingan Kata Kunci Hiasan dan Kaligrafi
+Dari data diatas dapat kita lihat
+lebih
+banyak
+yang
+mencari
+menggunakan keyword kaligrafi dari
+pada keyword
+eyword hiasan dan pencarian
+terbanyak untuk keyword kaligrafi
+dari negara Indonesia sedangkan
+keyword hiasan paling banyak dicari
+di malaysia. UKM dapat melakukan
+perbandingan berbagai keyword
+sesuai dengan barang atau jasa yang
+ditawarkan.
+3. Webmaster tools
+Webmaster tools adalah layanan
+gatis dari google untuk webmaster.
+Layanan ini memberi kemudahan
+kemud
+bagi webmaster memeriksa status
+webnya,, apakah sudah terindeks di
+google atau belum.. Selain
+S
+itu juga
+berfungsi
+memudahkan
+memengoptimalkan
+visibilitas
+website terhadap mesin pencari
+Tools ini dapat diakses dialamat
+https://www.google.com/webmasters
+/tools/. Webmaters
+ebmaters tools akan
+memberitahukan pemilik urutan list
+kata kunci yang paling banyak
+digunakan
+an orang mencari data lewat
+mesin pencari, jadi website kita
+
+ditemukan berdasarkan kata kkunci
+yang ditampilkan olah dash
+dashboard
+webmaster tools.
+Webmaster tools ini juga
+menyediakan berbagai layanan untuk
+mengkonfigurasi
+konfigurasi website seperti
+layanan pembuatan sitemaps, crawler
+Access untuk menghapus URL yang
+sudah terindeks oleh mesin pencari
+tapi pemilik website telah menghapus
+atau mengganti link alamat tersebut,
+tools ini juga mempunyai fasilitas
+merubah target lokasi
+okasi pengunjung
+berasarkan negara, masih banyak
+fasilitas
+lagi
+yag
+disediakan
+berfungai memudahkan
+udahkan webmaster
+dalam mengelola websitenya
+websitenya.
+Selain google, yahoo
+ahoo juga
+mempunyai yahoo! Site explorer
+untuk para webmaster.. Layanan ini
+menampilkan informasi situ
+situs yang di
+indeks mesin pencari yahoo!. Sama
+dengan webmaster tools milik
+google, yahoo! Site Explorer juga
+memilki fasilitas konfigurasi website
+agar dapat terindeks di mesin pencari
+yahoo.com..
+Untuk
+dapat
+menggunakan fasilitas ini harus
+
+69
+
+Jurnal Ilmiah Faktor Exacta
+
+Vol. 4 No. 1 Maret 2011
+
+5. Portal Jasa
+Dulu, iklan baris online menjadi
+pilihan
+orang
+mempromosikan
+produk dan jasa, kini iklan baris
+online jarang digunakan, karena
+informasi yang bisa ditampilkan
+terbatas. sekarang muncul portalportal yang lebih dinamis. Pengguna
+bisa menyimpan file gambar dan
+informasi produk lainya.
+UKM juga bisa memanfaatkan
+portal ini untuk mempromosikan
+web dan produknya. Salah satu portal
+jasa yang trafiknya tinggi adalah
+88db.com,
+peringkat
+305
+di
+alexa.com, menurut alexa.com 39%
+dari trafik 88db.com berasal dari
+id.88db.com, artinya hampir 40%
+pengunjungnya dari indonesia. Portal
+dengan trafik tinggi akan sering
+dikunjungi mesin pencari, dengan
+beriklan di portal jasa seperti
+88db.com ini akan mempercepat
+halaman kita di indeks di halaman
+pertama search engine.
+Ada beberapa tempat alternatif
+untuk mengiklankan produk gratis,
+seperti plasa.com, tokobagus.com
+dan oxl.co.id. disarankan agar
+terlebih dahulu melihat ranking web
+tempat beriklan di situs terpercaya
+seperti alexa.com, agar iklan yang
+kita pasang lebih bayak di kunjungi
+oleh calon pembeli
+6. Situs Jejaring sosial
+Aktif di sistus jejaring sosial
+menjadi tren yang terus berkembang
+pesat, Facebook adalah salah satu
+situs
+yang
+paling
+banyak
+penggunanya, sampai dengan bulan
+juli 2010 pengguna facebook sudah
+mencapai 500 juta orang. Facebook
+menjadi pasar yang sangat besar
+untuk mengiklankan produk dan jasa.
+Mengiklan kan melalui wall sangat
+terbatas, pilihan terbaik adalah
+mengikuti program iklan berbayar .
+Selain facebook forum seperti
+kaskus juga berkembang pesat,
+pengguna kaskus lebih dari 2 juta
+
+terdaftar dengan email account
+@yahoo.com
+Bing, Situs pencari milik
+microsoft juga memiliki Bing
+Webmaster
+Center,
+alamatnaya
+www.bing.com/webmaster.
+untuk
+dapat memanfaatkan fasilitas ini
+harus registrasi dengan Windows
+Live ID(hotmail, messenger, Live,
+Xbox2. Fasilitas yang disediakan
+oleh bing hampir sama dengan
+Google Webmaster tools dan Yahoo!
+Site Explorer.
+4. Web direktori
+Web direktori adalah layanan
+yang mengelompokkan beberapa
+website ke sebuah direktori atau
+katagori. Dengan mendaftarkan web
+kita ke banyak web directory
+menjadikan alamat web kita memiliki
+banyak link, semakin banyak web
+kita terhubung ke alamat web lain
+akan
+membantu
+menaikan
+peringkatnya. Salah satu web yang
+menyediakan jasa web directory
+adalah www.alamatweb.com, web
+direktori ini khusus berisi direktori
+alamat
+website
+Indonesia,
+didalamnya
+terdapat
+berbagai
+kategori diantaranya produk, jasa dan
+informasi seputar website dalam
+negeri. Saat pendaftaran harus
+mengisi form yang disediakan.
+Setelah dikirim, data akan di
+verifikasi oleh pengelola. Selesai
+diverifikasi URL alamat web kita
+akan ditampilkan disalah satu
+kategori yang ada.
+Web direktori luar negeri yang
+besar dan gratis salah satunya adalah
+www.dmoz.org. Dmoz juga dikaitkan
+dengan google direktori, untuk dapat
+masuk ke sini tidak gampang, banyak
+sekali web yang tidak disetujui oleh
+pengelola, bila sukses memasukkan
+alamat website ke dmoz.com dijamin
+akan meningkatkan trafik dan page
+rank website.
+
+70
+
+Jurnal Ilmiah Faktor Exacta
+
+Vol. 4 No. 1 Maret 2011
+
+Hal penting yang harus diingat
+adalah memberikan informasi cara
+penerima
+dapat
+menghentikan
+penerimaan email, Hal ini penting
+karena penerima email mungkin
+pernah tertarik untuk menerima email
+marketing saja namun seiring waktu
+ini dapat berubah. Jika mereka tidak
+lagi tertarik pada email ini, mereka
+mungkin mulai melihat email sebagai
+spam
+melalui
+informasi
+cara
+unsubscribe
+dapat
+digunakan
+penerima untuk berhenti menerima
+newsletter.
+UKM
+Yang
+Telah
+Berhasil
+Bertranformasi Ke Bisnis Online
+Sumber mandiri adalah adalah
+toko yang menjual Air Conditioner (AC)
+dan komponennnya, didirikan oleh
+Bapak Denny Chandra tahun 1999 di
+Mangga
+Besar. Tahun
+2004
+sumber mandiri mulai menggunakan
+program aplikasi akutansi
+dalam
+menjalankan bisnisnya. Tahun 2006
+sumber mandiri mulai membuat website
+www.sumbermandiri.com.
+Bapak Denny sadar akan
+pentingnya internet untuk memasarkan
+komponen AC dan refrigerator, usaha
+yang sejak awal serius di gelutinya.
+Suhu udara Jakarta yang sangat panas
+menjadi alasan utama Pak
+Denny
+memilih bidang usaha penjualan
+komponen AC ini. Beliau serius
+memasarkan usahanya melalui internet.
+Seminar-seminar
+tentang
+internet
+marketing sering diikutinya. Berbekal
+ilmu dari seminar dan dorongan teman
+yang lebih dulu terjun ke bisnis online
+Pak Denny mulai mengelola websitenya.
+Seorang web desainer di pekerjakan
+untuk
+mengelola
+halaman
+www.sumbermandiri.com. Teknik dan
+perangakat internet marketing digunakan
+untuk menaikkan ranking web ini Di
+mesin pencari google.
+Perlahan
+usahanya
+mulai
+menampakkan hasil, sampai tahun 2010
+ini beliau
+telah memiliki 4 toko di
+seluruh Jakarta, mempekerjakan 50
+
+orang. Kaskus juga menyediaka FJB
+( Forum Jual Beli) khusus untuk
+transaksi jual beli. Selain gratis
+kaskus juga menyediakan rekening
+bersama (Rekber) untuk membantu
+dan menjamin keamanan transaksi di
+kaskus.us. selain forum jual beli juga
+ada forum konsultasi melalui forum
+seperti ini kita juga bisa belajar dari
+senior-senior
+yang
+sudah
+berpengalaman di dunia online
+marketing
+7. E-mail marketing
+Email marketing adalah tools
+yang paling gampang dan mudah
+dalam mempromosikan produk. Tapi
+perlu trik dan seni tersendiri
+membuat email yang persuasif.
+Banyak orang yang mengangap iklan
+melaui e-mail adalah SPAM. Hasil
+survey
+oleh
+situs
+www.
+convinceandconvert.com
+merilis
+fakta-fakta tentang email tahun 2010,
+dikutip oleh onggo (2010) sebagai
+berikut 43% resipien meng-klik
+tombol Spam karena tertipu nama
+"dari" atau alamat email, 69% dari
+resipien email melaporkan email
+sebagai spam hanya karena kalimat
+yang tertulis pada kolom subject,
+21% resipien email melaporkan
+email
+sebagai
+sebuah
+spam,
+meskipun mereka tahu ini bukan
+spam. 35% resipien email membuka
+email berdasarkan kalimat pada
+kolom subjek.
+Sebaliknya pembeli potensial
+akan senang menerima email
+marketing yang memberikan sesuatu
+yang bernilai. Email yang berisi
+artikel mendalam, tips berguna atau
+ulasan produk yang tepat.
+Selain itu, e-newsletter yang
+ditawarkan melalui email dapat
+menarik khusus untuk pembeli
+potensial.
+E-newsletter
+berisi
+dokumen dari potongan email
+marketing
+tradisional
+dan
+memberikan
+banyak
+informasi
+tambahan ke penerima email.
+
+71
+
+Jurnal Ilmiah Faktor Exacta
+
+Vol. 4 No. 1 Maret 2011
+
+orang karyawan. Penjualan melalui
+internet telah menyumbangkan 40% dari
+pemasukanya. Suatu pencapaian yang
+luar biasa
+Didunia
+maya
+sumbermandiri.com
+juga
+banyak
+
+diakses, situs ini menduduki peringkat
+pertama di search engine google.com
+untuk search query “spare parts ac” dan
+urutan kedua untuk search query "spare
+part ac”
+
+Gambar 3. Website milik PT. Sumber Mandiri
+Toko Sumber Mandiri sudah
+berhasil memanfaatkanya pearangakat
+dan
+Teknik
+Internet
+Marketing.
+Diharapakan banyak UKM yang dapat
+meniru cara-cara yang dilakukanya agar
+sukses di bisnis online.
+
+PENUTUP
+Selain cara-cara yang telah
+penulis paparkan diatas, masih ada
+beberapa tools dan alat yang dapat
+dimanfaatkan untuk memasarkan web,
+perkembangan teknik dan perangkat
+internet tools ini meningkat berbanding
+dengan
+pertumbuhan
+penggunaan
+internet. UKM di Indonesia harus
+mengikuti
+perkembanganya
+dan
+memanfaatkanya untuk memasarkan
+websitenya agar kita tidak tertinggal
+jauh dari negara lain.
+Diharapakan
+dengan
+memanfaatkan internet dengan teknik
+dan
+perangkat
+terkini
+dalam
+memasarkan produk dan website UKM,
+akan menigkatkan produktivitas unit
+usahanya. Disinilah letak peran strategis
+UKM, diberdayakan agar bisa masuk
+dan ambil bagian di dunia online.
+Dengan berkembangnya bisnis online
+akan berkontribusi pada pertumbuhan
+ekonomi nasional
+
+DAFTAR PUSTAKA
+Davis, C., Lin, C., & Vladica, F.2005.
+State of e-Business in SMEs in
+Atlantic Canada in 2005. Paper
+presented at the annual Atlantic
+Schools of Business conference,
+Halifax, N.S., Canada.
+Doiron, Daniel John. 2010. Internet
+Marketing and SMEs in ECommerce Adoption and
+Small Business in the Global
+Marketplace:
+Tools
+for
+Optimization Brychan Thomas
+and Geoff Simmons (eds)
+Effendi Ishak. 2005. Artikel: Peranan
+Informasi Bagi Kemajuan
+UKM. Kedaulatan Rakyat.
+Yogyakarta
+
+72
+
+Jurnal Ilmiah Faktor Exacta
+
+Vol. 4 No. 1 Maret 2011
+
+Persaingan Global. Kedaulatan
+Rakyat. Yogyakarta.
+Nugroho B & Suryana N. 2010. TIPS &
+Trik
+Menguasai
+SEO,
+Yogyakarta: penerbit Alif Media
+Onggo, Julius Bob. 2010. Artikel: 15
+Fakta Email 2010. BJO
+Consulting,
+http://bjoconsulting.blogs.com
+Wahid, F. & Indarti, N. 2007. Rendah,
+Adopsi Teknologi Informasi
+oleh UKM di Indonesia
+majalah PIP, No. 281 2007
+Wikipedia. 2010. Usaha Kecil dan
+Menengah.
+http://id.wikipedia.org/wiki/
+Usaha_Kecil_
+dan_Menengah di akses
+Oktober 2010
+________, 2010. Artikel: UKM Perlu
+Strategi Branding,
+
+Indrajit, Ricardus Eko. 2003. Kolom
+Question and Answer, Majalah
+Ebizz Asia vol. 1 no. 7,
+Http://www.ebizzasia.com/01072003/q&a,0107.htm
+Kemenkop dan UKM. 2010. Peran
+Pemerintah Menyiapkan Jalur
+Pembinaan dan Akselerasi
+Para Calon Indutriawan /
+Koperasi dan UKM Digital.
+Diseminarkan Pada Konferensi
+INAICTA
+–
+2010.
+http://www.inaicta.web.id/kateg
+ori/unduhan/
+Martin & Matlay Martin.2001. Cisco led
+Information Age study on Ecommerce and Small Business.
+cisco Company
+M. K., Sharma & R. Bhagwat. 2006.
+Performance measurements in
+the
+implementation
+of
+information systems in small
+and medium-sized enterprises:
+A framework and empirical
+analysis. Measuring Business
+Excellence, page 8-10
+M. Suyanto. 2005. Artikel: Aplikasi IT
+untuk UKM Menghadapi
+
+http://www.inilah.com/read
+/detail/373641/ukm-perluinternet-dan-strategibranding diakses Desember
+2010
+
+73
+
+

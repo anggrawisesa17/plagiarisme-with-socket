@@ -1,0 +1,1275 @@
+JPK 5(1), 2019: 42-49
+
+Jurnal Profesi Keguruan
+https://journal.unnes.ac.id/nju/index.php/jpk
+
+Analisis Kesalahan Siswa dalam Menyelesaikan Soal Cerita Bangun Datar
+Berdasarkan Newman’s Error Analysis (NEA)
+Firda Amelia Safitri, Titik Sugiarti, dan Fajar Surya Hutama
+Universitas Jember
+Email: firdaameliasafitri@gmail.com, titiksugiarti.fkip@unej.ac.id, fajarsurya.fkip@unej.ac.id
+Received: March 2019; Accepted: March 2019; Published: June 2019
+Abstrak
+Tujuan dari penelitian ini adalah untuk mengetahui kesalahan yang dilakukan siswa dan faktor
+penyebabnya dalam menyelesaikan soal cerita. Metode yang digunakan dalam mengetahui letak
+kesalahan siswa adalah metode NEA. Jenis penelitian ini adalah penelitian deskriptif dengan pendekatan
+kualitatif. Pengumpulan data pada penelitian ini menggunakan tes dan wawancara. Responden dalam
+penelitian ini adalah siswa kelas IV B SDN Karangrejo 02 Jember yang terdiri dari 34 orang siswa. Hasil
+analisis data berdasarkan NEA yang didapatkan adalah kesalahan membaca 13,3%, kesalahan
+memahami soal 10,89%, kesalahan transformasi 27,62%, kesalahan keterampilan proses 15,73%, dan
+kesalahan menulis jawaban 32,45%. Faktor penyebab dari kesalahan yang dilakukan siswa adalah minat
+belajar yang kurang, ketidaktelitian siswa, kurangnya penguasaan bahasa, tidak pahamnya konsep, tidak
+paham dalam mengoperasikan perhitungan, dan ketidakbiasaan siswa dalam menuliskan kesimpulan
+dan satuan pada akhir jawaban. Kesimpulan yang didapatkan adalah siswa banyak mengalami kesalahan
+menulis jawaban karena ketidaktelitian siswa dan tidak paham konsep.
+Kata kunci: NEA, Soal Cerita Bangun Datar, Faktor Penyebab Kesalahan.
+Abstract
+The purpose of this study is to find out the mistakes made by students and their causal factors in solving
+story problems. The method used to find out where the students are wrong is the NEA method. This type
+of research is descriptive research with a qualitative approach. Data collection in this study used tests
+and interviews. Respondents in this study were students of class IV B SDN Karangrejo 02 Jember
+consisting of 34 students. The results of data analysis based on the NEA obtained were 13.3% reading
+errors, 10.89% understanding errors, 27.62% transformation errors, 15.73% process skill errors, and
+32.45% answer writing errors. The causes of the mistakes made by students are lack of interest in
+learning, inaccuracy of students, lack of mastery of language, lack of understanding of concepts, lack of
+understanding in operating calculations, and unfamiliarity in writing conclusions and units at the end of
+the answer. The conclusion is that many students experience mistakes writing answers because of
+students' inaccuracy and not understanding the concept.
+Keywords: NEA, Solved Flat Story Problem, Factors Causing Errors.
+
+PENDAHULUAN
+Hasil studi Trend in International Mathematics and Science Study (TIMSS) menunjukkan Indonesia menempati peringkat ke 44 dari
+49 negara untuk pembelajaran matematika (Nizam, 2016:21). Pada tahun 2015 ini Indonesia
+mengikuti TIMMS yang pertama kali untuk kelas IV Sekolah Dasar (SD). Berdasarkan data
+tersebut, dapat diketahui bahwa pendidikan
+matematika di Indonesia masih rendah. Menurut Skemp (1996:32), matematika merupakan
+bahasa simbol tentang berbagai gagasan.
+Simbol-simbol tersebut memiliki fungsi-fungsi
+tertentu. Fungsi tersebut mencakup merekam
+pengetahuan, komunikasi konsep-konsep, mengingat kembali informasi dan pengertian.
+
+Hudojo (1998:30) juga berpendapat bahwa
+matematika merupakan ide abstrak yang diberi
+simbol-simbol dan tersusun secara hirarkis dan
+menggunakan penalaran deduktif. Berdasarkan pendapat tersebut dapat disimpulkan
+bahwa matematika merupakan bidang ilmu
+yang terdiri dari simbol-simbol yang memiliki
+fungsi tertentu, memiliki berbagai pola dan
+hubungan antara elemen-elemen saling terkait
+satu dengan lainnya serta dalam penyelesaiannya menggunakan penalaran deduktif.
+Keterkaitan tersebut disebabkan karena matematika merupakan pengetahuan yang terstruktur, dimana pada pembahasan setiap topik
+tidak dapat berdiri sendiri, namun terkait
+dengan topik sebelumnya yang telah dipelajari.
+42
+
+“siswa dalam menyelesaikan soal cerita tidak
+terbiasa dengan menulis informasi yang
+terdapat di dalam soal, membaca soal dengan
+tergesa-gesa dan kurang teliti dalam menghitung”. Salah satu cara untuk mengetahui faktor
+penyebab kesalahan siswa dalam menyelesaikan soal cerita dan kesalahan yang
+dilakukan siswa dalam menyelesaikan soal tersebut adalah dengan menganalisis lembar
+kerja siswa. Metode yang digunakan untuk
+menganalisis letak kesalahan siswa dalam menyelesaikan soal cerita bangun datar yaitu
+metode NEA.
+Rumusan masalah dari penelitian ini
+adalah sebagai berikut (1) apa sajakah kesalahan yang dilakukan siswa kelas IV B SDN Karangrejo 02 Jember tahun pelajaran 2018/2019
+dalam menyelesaikan soal cerita bangun datar
+berdasarkan NEA?; (2) apakah faktor penyebab kesalahan siswa kelas IV B SDN Karangrejo 02 Jember tahun pelajaran 2018/2019
+dalam menyelesaikan soal?. Tujuan penelitian
+ini adalah (1) untuk mengetahui kesalahan
+yang dilakukan siswa kelas IV B SDN Karangrejo 02 Jember tahun pelajaran 2018/2019
+dalam menyelesaikan soal cerita bangun datar
+berdasarkan NEA; (2) untuk mengetahui faktor
+penyebab kesalahan siswa kelas IV B SDN Karangrejo 02 Jember tahun pelajaran 2018/2019
+dalam menyelesaikan soal. Berdasarkan rumusan masalah dan tujuan penelitian tersebut
+maka, dapat diketahui bahwa dengan adanya
+pemberian soal cerita kepada siswa dapat
+membantu siswa maupun guru untuk mengetahui tingkat pemahaman konsep terhadap
+suatu materi, mengetahui letak kesalahan
+siswa, dan faktor penyebabnya sehingga, untuk
+permasalahan tersebut dapat diminimalisir.
+
+Pada dasarnya, matematika kurang
+diminati oleh siswa karena matematika memiliki
+beberapa konsep dan prinsip yang harus
+dikuasai. Semenjak di SD siswa telah diperkenalkan dengan konsep dan prinsip dasar matematika. Pada kenyataannya, saat ini konsep
+dan prinsip matematika tersebut belum dapat
+dipahami siswa dengan baik dan benar, sehingga dapat menyebabkan kesalahan siswa
+dalam menyelesaikan soal cerita. Apalagi jika
+berhubungan dengan soal bangun datar (Mulyadi, 2015:372). Padahal, maksud dari pemberian soal cerita adalah ingin mengenalkan
+siswa dengan pemanfaatan ilmu matematika
+baik konsep dan prinsip matematika dalam kehidupan sehari-hari. Salah satu materi yang
+dapat diterapkan dalam soal cerita adalah
+bangun datar.
+Materi pembelajaran bangun datar di kelas IV terdapat pada tema 4 “Berbagai Pekerjaan” yang terdiri dari 3 subtema yaitu (1) subtema 1, subtema 2 dan subtema 3 yang
+masing-masing terdapat pada pembelajaran 2,
+4, dan 5. Kompetensi Dasar (KD) yang terdapat
+pada tema 4 ini adalah KD 3.9 menjelaskan dan
+menentukan keliling dan luas persegi, persegi
+panjang, dan segitiga serta hubungan pangkat
+dua dengan akar pangkat dua. Materi tersebut
+cocok digunakan untuk mengetahui jenis
+kesalahan yang dilakukan siswa berdasarkan
+NEA karena permasalahan yang diberikan
+kepada siswa kurang bervariasi dan kurangnya
+pemahaman siswa dalam hubungan akar dua
+dan pangkat dua serta materi tersebut merupakan salah satu materi yang harus dikuasai oleh
+siswa agar dapat melanjutkan materi di tema
+selanjutnya. Berdasarkan hasil wawancara
+yang telah dilakukan bersama guru kelas di
+SDN Karangrejo 02 Jember bahwa tidak semua
+siswa memahami konsep dan prinsip bangun
+datar, apalagi jika soal yang diberikan kepada
+mereka dalam bentuk cerita.
+Pada tahun pelajaran 2018/2019 mulai
+semester gasal SDN Karangrejo 02 khususnya
+kelas IV dan III baru menggunakan kurikulum
+2013, sehingga untuk materi bangun datar telah
+diajarkan di kelas III pada tahun pelajaran
+2017/2018 semester genap dengan menggunakan Kurikulum Tingkat Satuan Pendidikan
+(KTSP). Jadi, pada kelas IV saat ini mengulang
+kembali materi yang telah diajarkan, namun
+data yang didapatkan mengenai hasil belajar
+siswa kurang memuaskan. Jika dipersentasekan maka sekitar 40% dari 34 siswa kelas
+IV B di SDN Karangrejo 02 dapat mengerjakan
+soal cerita dengan baik dan benar namun, 60%
+dari 34 siswa kelas IV B tersebut belum dapat
+menyelesaikan soal cerita dengan baik dan
+benar. Hasil wawancara dengan beberapa
+siswa kelas IV B dapat disimpulkan bahwa
+
+METODE PENELITIAN
+Jenis penelitian yang digunakan adalah
+penelitian deskriptif menggunakan pendekatan
+kualitatif. Tatang (2012:208) berpendapat
+bahwa “penelitian deskriptif terbatas pada
+usaha mengungkapkan suatu masalah/keadaan/peristiwa sebagaimana adanya sehingga
+bersifat sekadar untuk mengungkapkan fakta”.
+Masyhud (2016:27) juga berpendapat mengenai penelitian kualitatif yaitu “penelitian yang
+lebih menekankan pada aspek pemahaman
+secara mendalam terhadap suatu masalah dari
+pada melihat suatu pemasalahan untuk
+penelitian generalisasi”. Penelitian ini dilaksanakan di SDN Karangrejo 02 Jember. Subjek
+penelitian ini adalah kelas IV B SDN Karangrejo
+02 Jember pada tahun pelajaran 2018/2019.
+Subjek penelitian berjumlah 34 siswa yang
+terdiri dari 15 orang siswa laki-laki dan 19 orang
+siswa perempuan. Metode pengumpulan data
+pada penelitian ini yaitu metode tes dan metode
+43
+
+wawancara.
+Pengumpulan data melalui tes dilakukan
+dengan memberikan instrumen tes yang terdiri
+dari seperangkat pertanyaan/soal untuk memperoleh data mengenai kemampuan siswa terutama pada aspek kognitif (Lestari dan Yudhanegara, 2027:232). Metode tes digunakan untuk mengetahui letak kesalahan yang dilakukan siswa dalam menyelesaikan soal cerita,
+sedangkan metode wawancara digunakan
+untuk mengetahui faktor penyebab dari kesalahan siswa dalam menyelesaikan soal cerita.
+Data yang dianalisis dalam penelitian ini adalah
+sebagai berikut.
+
+Persentase Jenis Kesalahan Siswa
+Persentase jenis kesalahan siswa ini
+digunakan untuk mengetahui seberapa besar
+jenis kesalahan. Menurut Ali (1984:184)
+menyatakan bahwa untuk mengetahui persentase jenis kesalahan siswa dapat menggunakan rumus sebagai berikut.
+Pi =
+
+× 100%
+
+Keterangan:
+P = persetanse kesalahan
+i = jenis kesalahan
+n = banyaknya kesalahan pada setiap jenis
+N = banyaknya kesalahana untuk seluruh kategori kesalahan.
+Sutejo (dalam Isnaini, Sugiarti, dan Indah, 2013:94) kategori persentase kesalahan
+disajikan dalam Tabel 2 berikut.
+
+Validasi Instrumen Penelitian
+Menurut Hobri (2010:52-53) langkah pertama yang dilakukan dalam menghitung tingkat
+kevalidan instrumen adalah mencari rata-rata
+nilai hasil validasi dengan rumus sebagai berikut.
+
+Tabel 2 Kategori Persentase Kesalahan
+Persentase
+Klasifikasi
+K
+
+Ii =
+Keterangan:
+Ii = nilai rata-rata untuk aspek ke-i
+Vji = data nilai dari validator ke j terhadap indikator ke-i
+j = validator 1, 2, 3;
+i = indikator 1, 2, . . . (sebanyak indikator)
+n = banyaknya validator
+Langkah kedua yaitu menghitung nilai rerata total untuk semua aspek dengan rumus sebagai berikut.
+
+Tidak valid
+
+2 ≤ Vα < 3
+
+Kurang valid
+
+3 ≤ Vα < 4
+
+Valid
+
+Vα = 4
+
+Sangat valid
+
+25%
+
+Kecil
+
+25%
+
+K
+
+40%
+
+Cukup
+
+40%
+
+K
+
+55%
+
+Tinggi
+
+55%
+
+Sangat tinggi
+
+Triangulasi Data
+Triangulasi data merupakan sebuah perbandingan dari sumber data yang berbeda, informasi yang diperoleh dari sumber data I dicek
+silang pada sumber data II (Ali dan M. Ansori,
+2014:138). Triangulasi data pada penelitian ini
+yaitu dengan melakukan perbandingan antara
+hasil tes soal siswa dengan hasil wawancara
+kepada siswa.
+
+Tabel 1 Kriteria Validitas Instrumen
+
+1 ≤ Vα < 2
+
+K
+
+Analisis Data Hasil Wawancara
+Analisis data hasil wawancara ini
+dilakukan
+secara
+deskriptif
+yaitu
+(1)
+mendengarkan hasil rekaman wawancara; (2)
+menyalin hasil rekaman ke dalam bentuk tulisan; (3) menganalisis hasil wawancara dengan
+cara mengidentifikasi dan mengkategorikan
+hasil wawancara untuk mengetahui kesalahankesalahan siswa dalam menyelesaikan soal
+cerita berdasarkan NEA dan faktor penyebab
+kesalahan; (4) menyimpulkan hasil wawancara.
+
+Keterangan:
+Vα = nilai rerata total untuk semua aspek
+Ii = rerata nilai untuk aspek ke-i
+i = aspek yang dinilai; 1, 2, 3, ...
+k = banyaknya aspek
+Menurut Hobri (2010: 52-53) kriteria validitas instrumen disajikan dalam Tabel 1.
+
+Tingkat Kevalidan
+
+Sangat kecil
+
+10%
+
+K
+
+Vα =
+
+Nilai V
+
+10%
+
+Kesimpulan
+Penarikan kesimpulan berasal dari hasil
+analisis data yang telah dilakukan pada tahap
+sebelumnya
+
+Analisis Data Hasil Tes
+Analisis data hasil tes yaitu menganalisis
+jawaban siswa sesuai dengan indikator kesalahan menurut NEA, sehingga dapat mengetahui
+letak kesalahan siswa dalam menyelesaikan
+soal tersebut.
+
+HASIL DAN PEMBAHASAN
+Soal cerita merupakan salah satu soal
+yang tergolong ke dalam soal pemecahan ma-
+
+44
+
+salah. Ellerton & Clements (1991:193) berpendapat bahwa pemecahan masalah sangat
+berhubungan dengan masalah semantik. Semantik merupakan studi tentang menelaah
+makna pengertian dan penggunaan serangkaian kata-kata atau uraian verbal, yang
+harus menentukan operasi hitung yang dibutuhkan (Tarigan, 1995:7). Ellerton & Clements
+(dalam Karnasih, 2015:38) juga berpendapat
+bahwa pentingnya soal cerita terletak pada sentralisasi bahasa dalam pembelajaran matematika. Kesimpulan yang dapat diambil dari
+pendapat tersebut adalah literasi bahasa perlu
+dikembangkan mulai sejak dini agar kesalahan
+dan kesulitan dalam menyelesaikan soal dapat
+diminimalisir.
+Metode
+yang
+digunakan
+dalam
+menganalisis hasil pekerjaan siswa adalah
+metode NEA. Metode NEA ini merupakan
+metode yang memiliki lima tahapan spesifik dalam menganalisis letak kesalahan siswa dalam
+menyelesaikan permasalahan yang terdapat di
+dalam soal cerita dan menganalisis penyabab
+kesalahan yang dilakukan oleh siswa dalam
+menyelesaikan soal. Metode ini menekankan
+pada pentingnya bahasa terhadap pengembangan konsep matematika (Ellerton dan
+Clements, 1996). Hal ini selaras dengan pendapat Newman (1977) yaitu ketajaman bahasa
+diperlukan untuk menyelesaikan permasalahan
+yang dihadapi dalam soal.
+Penelitian ini, mewajibkan siswa dalam
+pengerjaannya menggunakan langkah-langkah
+NEA. Menurut Newman (dalam Clement &
+Ellerton, 1996:1) langkah-langkah NEA sebagai
+berikut.
+a. Tolong bacakan pertanyaan tersebut untuk saya. (Please read the question to me)
+b. Katakan apa yang diminta oleh pertanyaan
+untuk kamu kerjakan. (Tell me what the
+question is asking you to do)
+c. Katakan metode apa yang akan kamu
+gunakan untuk menemukan dan menjawab pertanyaan. (Tell me method you can
+use to find and answer to the question)
+d. Tunjukkan langkah-langkah penyelesaian
+yang kamu gunakan untuk mendapatkan
+jawaban. Ucapkan dengan lantang dan
+tunjukkan langkah-langkah penyelesaian
+soal tersebut agar orang lain dapat
+mengetahui dan memahaminya. (Show
+me how you worked out the answer to the
+question. Explain to me what you are doing
+as you do it)
+e. Tuliskan jawaban dari pertanyaan tersebut. (Now write down your answer to the
+question).
+Langkah-langkah tersebut dapat diringkas menjadi (a) membaca pertanyaan (read-
+
+ing), (b) memahami makna dari suatu permasalahan (comprehension), (c) transformasi (transformation), (d) keterampilan proses (process
+skill), dan (e) penulisan jawaban (encoding).
+Prakitipong dan Nakamura (2006:113) berpendapat bahwa jenis-jenis kesalahan yang
+sering dilakukan siswa dalam menyelesaikan
+soal cerita dibagi menjadi 2 yaitu (1) kelancaran
+linguistik dan pemahaman konseptual; (2)
+proses matematika yakni meliputi kesalahan
+transformasi, kesalahan keterampilan proses,
+dan kesalahan penulisan jawaban. Menurut
+Singh (2010:266-267) jenis kesalahan tersebut
+dapat diuraikan sebagai berikut.
+a. Kelancaran linguistik (kesalahan membaca) yaitu kesalahan membaca terjadi
+ketika siswa gagal memahami kata atau
+simbol.
+b. Kesalahan memahami soal yaitu siswa
+mampu membaca soal namun gagal paham dalam memahami soal, maka siswa
+tersebut gagal dalam mencoba solusi-solusi yang ada.
+c. Kesalahan transformasi yaitu siswa belum
+dapat mengidentifikasi operasi matematika dengan tepat.
+d. Kesalahan keterampilan proses yaitu
+meskipun operasi matematika yang akan
+digunakan dalam menyelesaikan masalah
+telah benar diidentifikasi oleh siswa, namun siswa tersebut belum tentu dapat
+melaksanakan prosedur pengoperasian
+dengan benar.
+e. Kesalahan menulis jawaban yaitu siswa
+masih dapat melakukan kesalahan walaupun telah dapat memecahkan permasalahan, kesalahan yang dapat dilakukan
+siswa adalah kesalahan menuliskan maksud dari jawaban yang ia maksudkan.
+Indikator dari jenis kesalahan yang
+dilakukan siswa dalam menyelesaikan soal
+cerita bangun datar berdasarkan Newman’s Error Analysis (NEA) disajikan dalam Tabel 3.
+Tabel 3 Indikator Jenis Kesalahan dalam Menyelesaikan
+Soal
+Jenis
+Kesalahan
+
+Indikator
+a)
+b)
+
+Kesalahan
+Membaca
+(Masalah
+Kelancaran
+Linguistik)
+
+c)
+
+a)
+Kesalahan
+Memahami
+Soal
+
+b)
+
+c)
+
+45
+
+Siswa tidak dapat membaca.
+Siswa tidak dapat membaca
+tulisan berupa kata atau simbol dengan tepat pada soal
+bangun datar.
+Siswa dapat membaca
+dengan baik, namun tidak
+dapat mengetahui maksud
+dari kata atau simbol pada
+soal bangun datar (informasi
+yang terdapat pada soal).
+Tidak mampu menuliskan informasi yang terkandung dalam soal.
+Kurang tepat dalam menuliskan informasi yang terdapat
+dalam soal.
+Dapat menuliskan informasi
+yang terdapat di dalam soal,
+
+Simbol
+a1
+a2
+
+a3
+
+b1
+
+b2
+
+b3
+
+Jenis
+Kesalahan
+
+Indikator
+
+a)
+
+b)
+Kesalahan
+Transformasi
+c)
+
+a)
+
+b)
+
+Kesalahan
+Keterampilan
+Proses
+
+c)
+
+a)
+
+b)
+Kesalahan
+Menulis Jawaban
+
+c)
+
+d)
+
+namun informasi tersebut ditulis dalam bentuk simbol
+yang mereka buat sendiri
+dan tidak diberi keterangan.
+Siswa tidak dapat menentukan operasi hitung atau
+pendekatan yang akan
+digunakan.
+Salah menentukan langkahlangkah yang harus
+dikerjakan pertama kali.
+Dapat menentukan rumus
+dengan benar, namun tidak
+dapat melaksanakan
+langkah-langkah
+penyelesaiannya.
+Siswa tidak dapat
+mengoperasikan perhitungan
+dengan benar.
+Siswa dapat mengoperasikan perhitungan, namun belum paham dengan aturan
+dalam pengoperasian perhitungan.
+Siswa dapat mengoperasikan perhitungan dengan
+benar, namun tidak dapat
+menyelesaikan soal dengan
+utuh (hanya dapat menyelesaikan setengah dari
+permasalahan yang ada di
+dalam soal).
+Kesalahan menuliskan jawaban karena ketidaktelitian
+siswa.
+Kesalahan dalam menuliskan kesimpulan dari jawaban
+yang telah didapatkan.
+Siswa tidak dapat menuliskan jawaban karena kesalahan siswa dalam menyelesaikan soal pada tahap
+sebelumnya.
+Siswa tidak dapat menuliskan satuan pada akhir jawaban.
+
+Tabel 4 Hasil Perhitungan Persentase Kesalahan pada
+Setiap Jenis Kesalahan Berdasarkan Tahapan NEA.
+
+Simbol
+
+Total
+(%)
+
+Persentase Kesalahan (%)
+Tahapan NEA
+a. Kesalahan
+membaca
+b. Kesalahan
+memahami
+soal
+c. Kesalahan
+transformasi
+d. Kesalahan
+keterampilan proses
+e. Kesalahan
+menulis jawaban
+
+c1
+
+c2
+
+c3
+
+Soal 1
+
+Soal
+2
+
+Soal
+3
+
+Soal
+4
+
+Soal
+5
+
+2,92
+
+2,32
+
+2,92
+
+2,62
+
+2,52
+
+13,3
+
+2,42
+
+1,41
+
+3,02
+
+1,92
+
+2,12
+
+10,89
+
+6,15
+
+5,04
+
+5,65
+
+5,54
+
+5,24
+
+27,62
+
+3,33
+
+3,02
+
+3,43
+
+2,82
+
+3,13
+
+15,73
+
+6,45
+
+6,65
+
+6,45
+
+6,55
+
+6,35
+
+32,45
+
+21,27
+
+18,44
+
+21,47
+
+19,45
+
+19,36
+
+100
+
+d1
+Total
+
+d2
+
+Berdasarkan hasil tersebut dapat
+diketahui bahwa jenis kesalahan terbanyak
+yang dilakukan siswa dalam menyelesaikan
+soal cerita bangun datar berdasarkan tahapan
+NEA adalah kesalahan menulis jawaban
+dengan persentase 32,45%.
+
+d3
+
+Faktor Penyebab Kesalahan
+Faktor penyebab kesalahan siswa dalam
+menyelesaikan soal adalah sebagai berikut.
+a. Kesalahan membaca, faktor penyebabnya
+adalah kurangnya penguasaan bahasa
+yaitu siswa dapat membaca dengan lancar
+namun tidak dapat mengetahui maksud
+dari kata yang terdapat dalam soal,
+ketidaktelitian siswa, siswa tergesa-gesa
+dalam membaca, dan ketidakbiasaan
+siswa membaca soal yang panjang atau
+soal cerita
+b. Kesalahan memahami soal, faktor penyebabnya adalah kurangnya penguasaan
+bahasa, lemahnya mental siswa disebabkan karena siswa mudah putus asa
+dalam menuliskan informasi yang terdapat
+dalam soal dan mereka kebanyakan
+menuliskan yang diketahui dan ditanyakan
+dengan menyalin langsung dari soal (tidak
+dapat menuliskan dalam bentuk simbol
+matematikanya), minat belajar yang
+kurang, ketidaktelitian siswa, dan ketergesah-gesahan siswa dalam membaca
+c. Kesalahan transformasi, faktor penyebabnya adalah kelemahan mental siswa,
+ketidakbiasaan siswa dalam menuliskan
+cara yang digunakan untuk menyelesaikan
+soal, dan ketidakpahaman siswa tentang
+konsep bangun datar , akar dua, dan
+pangkat dua.
+d. Kesalahan keterampilan proses, faktor
+penyebabnya adalah kelemahan mental
+
+e1
+
+e2
+
+e3
+
+e4
+
+Faktor penyebab kesalahan pada
+penelitian ini hanya membahas tentang faktor
+internal. Menurut Hamalik (dalam Yeni,
+2015:15), kelemahan kognitif siswa dalam memahami materi dan soal-soal matematika,
+dapat disebabkan oleh beberapa faktor yaitu:
+(a) minat belajar yang kurang; (b) kurangnya
+penguasaan bahasa, (c) kesehatan siswa yang
+kurang memadai. Faktor kognitif ini juga
+disebabkan oleh kurang semangatnya siswa
+dalam belajar, kelemahan mental siswa terhadap menyelesaikan soal serta kebiasaan
+siswa yang malas belajar.
+Hasil yang diperoleh dari penelitian ini
+adalah sebagai berikut.
+Hasil Perhitungan Persentase Setiap Jenis
+Kesalahan Berdasarkan Tahapan NEA
+Hasil perhitungan persentase setiap
+jenis kesalahan berdasarkan tahapan NEA
+disajikan dalam Tabel 4.
+
+46
+
+siswa, minat belajar yang kurang disebabkan karena siswa kurang menyukai pembelajaran matematika (pada awal pembelajaran mereka banyak mengeluh dan
+berkata “saya tidak bisa”), ketidaktelitian
+siswa, dan ketidakpahaman siswa dalam
+mengoperasikan perhitungan.
+e. Kesalahan menulis jawaban, faktor penyebabnya adalah siswa malas belajar, kelemahan mental siswa dan ketidaktelitian
+siswa dalam menghitung, siswa tidak
+terbiasa menuliskan kesimpulan dari hasil
+yang didapatkan serta tidak terbiasa dalam menuliskan satuan pada akhir jawaban.
+Hasil Perhitungan Persentase Kesalahan
+pada Setiap Indikator Jenis Kesalahan
+Hasil perhitungan persentase kesalahan
+yang dilakukan siswa pada setiap indikator
+jenis kesalahan disajikan pada tabel 5.
+Tabel 5 Hasil Perhitungan Persentase Kesalahan pada
+Setiap Indikator Jenis Kesalahan
+Indikator
+Jenis
+Kesala
+han
+(j)
+a1
+
+Persentase
+Kesalahan
+Siswa pada
+Setiap Indikator Jenis
+Kesalahan
+
+Banyaknya Siswa yang Menjawab Salah
+
+Soa
+l1
+
+Soa
+l2
+
+Soa
+l3
+
+Soa
+l4
+
+Soa
+l5
+
+Pj
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Pa1
+
+0
+
+Klasifikasi
+
+Sangat
+kecil
+Sangat
+kecil
+
+a2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Pa2
+
+0
+
+a3
+
+29
+
+23
+
+29
+
+26
+
+25
+
+Pa3
+
+13,3
+
+b1
+
+4
+
+3
+
+5
+
+3
+
+4
+
+Pb1
+
+1,92
+
+b2
+
+20
+
+11
+
+25
+
+16
+
+17
+
+Pb2
+
+8,97
+
+b3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Pb3
+
+0
+
+c1
+
+18
+
+16
+
+25
+
+15
+
+24
+
+Pc1
+
+9,88
+
+c2
+
+29
+
+21
+
+26
+
+27
+
+23
+
+Pc2
+
+12,70
+
+Kecil
+
+c3
+
+14
+
+13
+
+5
+
+13
+
+5
+
+Kc3
+
+5,04
+
+Sangat
+kecil
+
+d1
+
+25
+
+21
+
+26
+
+19
+
+22
+
+Pd1
+
+11,39
+
+d2
+
+3
+
+4
+
+4
+
+3
+
+5
+
+Pd2
+
+1,92
+
+d3
+
+5
+
+5
+
+4
+
+6
+
+4
+
+Pd3
+
+2,42
+
+e1
+
+0
+
+4
+
+2
+
+5
+
+3
+
+Pe1
+
+1,41
+
+e2
+
+0
+
+5
+
+2
+
+5
+
+2
+
+Pe2
+
+1,41
+
+e3
+
+32
+
+27
+
+30
+
+27
+
+29
+
+Pe3
+
+14,62
+
+Kecil
+
+e4
+
+32
+
+30
+
+30
+
+28
+
+29
+
+Pe4
+
+15,02
+
+Kecil
+
+Total
+
+211
+
+183
+
+213
+
+194
+
+192
+
+Kecil
+Sangat
+kecil
+Sangat
+kecil
+Sangat
+kecil
+Sangat
+kecil
+
+Kecil
+Sangat
+kecil
+Sangat
+kecil
+Sangat
+kecil
+Sangat
+kecil
+
+menulis jawaban akhir sebanyak 32 kali kesalahan, kesalahan transformasi sebanyak 31 kali
+kesalahan, kesalahan memahami soal sebanyak 11 kali kesalahan, dan tidak terdapat
+kesalahan dalam membaca soal. Penelitian
+yang dilakukan Humaerah (2017) menunjukkan
+hasil penelitian dari 37 siswa yaitu kesalahan
+membaca 17%, kesalahan memahami konsep
+74%, kesalahan transformasi 83%, kesalahan
+keterampilan proses 87%, kesalahan jawaban
+akhir 100%. Penelitian yang dilakukan Ariyanti
+dan Puput (2016) menunjukkan hasil untuk soal
+kategori mudah, siswa melakukan kesalahan
+penarikan kesimpulan 62,5%, memahami masalah 12,5%, kesalahan membaca 6,25%,
+transformasi 6,25%, dan tidak melakukan
+kesalahan pada keterampilan proses. Pada
+soal kategori susah, siswa melakukan kesalahan transformasi 62,5%, kesalahan memahami
+31,25%, kesalahan membaca 6,25%, kesalahan keterampilan proses dan kesimpulan 0%.
+Berdasarkan hasil penelitian ini dan hasil
+penelitian yang relevan didapatkan bahwa
+siswa masih banyak yang melakukan kesalahan dalam menyelesaikan soal cerita baik dari
+siswa SD, SMP, dan SMA. Hal ini mengharuskan siswa untuk mendapatkan perhatian khusus dari guru matematika dalam menyelesaikan soal cerita sehingga tingkat
+kesalahan yang sering dilakukan siswa dapat
+menurun. Guru seharusnya sering memberikan
+soal-soal cerita agar siswa menjadi terbiasa dalam membaca, memahami informasi yang terdapat dalam soal, melatih siswa berpikir untuk
+menemukan informasi penting dalam soal, dan
+untuk memperdalam pemahaman siswa tentang bangun datar. Guru juga dapat menerapkan metode NEA sebagai salah satu pedoman
+dalam menyelesaikan soal cerita agar dapat
+mempermudah guru dan siswa serta dapat
+membiasakan siswa untuk teliti dalam mengerjakan soal dan menuliskan langkahlangkah penyelesaian, dan jawaban dengan
+lengkap.
+SIMPULAN
+Berdasarkan hasil penelitian tersebut
+dapat disimpulkan bahwa terdapat banyak
+siswa kelas IV B SDN Karangrejo 02 Jember
+yang melakukan kesalahan dalam menyelesaikan soal cerita bangun datar berdasarkan
+NEA. Kesalahan yang paling banyak dilakukan
+adalah yang pertama kesalahan menulis
+jawaban 32,45%, kedua kesalahan transformasi 27,62%, ketiga kesalahan keterampilan
+proses 15,73%, keempat kesalahan membaca
+13,3%, dan yang terakhir adalah kesalahan
+memahami soal 10,89%. Indikator jenis
+kesalahan yang paling banyak dilakukan siswa
+berdasarkan NEA adalah indikator (e4) yaitu
+
+100
+
+Berdasarkan tabel diatas dapat dilihat
+bahwa kesalahan yang paling banyak dilakukan siswa adalah (e4) yaitu siswa tidak dapat
+menuliskan satuan pada akhir jawaban
+memiliki persentase 15,02%.
+Terdapat beberapa penelitian yang relevan dalam penelitian ini yaitu sebagai berikut.
+Penelitian yang dilakukan oleh Asmarani
+(2016) menunjukkan hasil kesalahan yang
+sering dilakukan siswa SMP 2015/2016 yaitu
+kesalahan keterampilan proses, dan kesalahan
+
+47
+
+siswa tidak dapat menuliskan satuan pada akhir
+jawaban dengan persentase 14,02%. Faktor
+penyebab kesalahan siswa yaitu minat belajar
+yang kurang, ketidaktelitian siswa, kurangnya
+penguasaan bahasa, tidak pahamnya konsep,
+tidak paham dalam mengoperasikan perhitungan, dan ketidakbiasaan siswa dalam menuliskan kesimpulan dan satuan pada akhir
+jawaban.
+
+Isnaini, Sugiarti, dan Indah. 2013. Penerapan
+Pembelajaran Kooperatif Tipe Snow Ball
+Throwing untuk Mengurangi Kesalahan
+Menyelesaikan Soal Persamaan Kuadrat
+Siswa Kelas X SMK Negeri 1 Jember
+Tahun Ajaran 2012/2013. Kadikma. 4
+(3):91-102. Diakses tanggal 2 Oktober
+2018,
+pada
+http://bit.ly/kategoripersentasekesalahan
+Karnasih, Ida. 2015. Analisis Kesalahan
+Newman Pada Soal Matematis. Jurnal
+Paradikma. 8 (1): 38-42. Medan. Diakses
+tanggal 19 Agustus 2018, pada
+http://bit.ly/Newmanspadasoalmatematis
+.
+Lestari, Karunia Eka dan Yudhanegara. 2017.
+Penelitian
+Pendidikan
+Matematika.
+Bandung: PT Refika Aditama.
+Masyhud. 2016. Metode Penelitian Pendidikan.
+Edisi
+ke
+5.
+Jember:
+Lembaga
+Pengembangan Manajemen dan Profesi
+Kependidikan (LPMPK).
+Mulyadi, Riyanti, dan S. Subanti. 2015. Analisis
+Kesalahan dalam Menyelesaikan Soal
+Cerita Pada Materi Luas Permukaan
+Bangun Ruang Berdasarkan Newman’s
+Error Analysis (NEA) Ditinjau dari
+Kemampuan Spasial. Jurnal Elektronik
+Pembelajaran Matematika. 3 (4):370382. Diakses tanggal 5 Juli 2018, pada
+http://bit.ly/Newmanspasial.
+Nizam. 2016. Ringkasan Hasil-Hasil Asesmen
+Belajar dari Hasil UN, PISA, TIMSS,
+INAP. Pusat Penilaian Pendidikan,
+Badan Peneliti dan Pengembangan,
+Kementerian
+Pendidikan
+dan
+Kebudayaan. Diakses tanggal 11
+September
+2018,
+pada
+http://bit.ly/2pisamathematic.
+Prakitipong and Nakamura. 2006. Analisys of
+Mathematics Performanceof Grade Five
+Students in Thailand Using Newman
+Procedure. Journal of International
+Cooperationin Education. 9 (1): 11-113.
+Hiroshima University. Diakses tanggal 7
+September
+2018,
+pada
+http://bit.ly/2matematikadenganmetoden
+ea.
+Runtukahu, Tombokan dan Kandou. 2014.
+Pembelajaran Matematika Dasar Bagi
+Anak Berkesulitan Belajar. Yogyakarta:
+Ar-Ruzz Media.
+Singh, Rahman, dan Hoon. 2010. The Newman
+Procedure for Analyzing Primary Four
+Pupils Errors on Written Mathematical
+Tasks: A Malaysia Perspective. Procedia
+Social
+and
+Behavioral
+Sciences:
+University Technology MARA, Shah
+Alam, Malaysia. Diakses tanggal 8
+September
+2018,
+pada
+
+DAFTAR PUSTAKA
+Ali. 1984. Penelitian Pendidikan Prosedur dan
+Strategi. Bandung: Angkasa.
+Ali dan M. Ansori. 2014. Metodelogi dan
+Aplikasi Riset Pendidikan. Jakarta: Bumi
+Aksara.
+Ariyanti dan Puput. 2016. Newman’s Error
+Analysis (NEA) Materi Volume Bangun
+Ruang Kelas V SD Negeri Dukuhturi 01
+Kecamatan Bumi Ayu Tahun Pelajaran
+2015/2016. Dialektika P. Matematika. 3
+(2):45-47. Universitas Peradaban-Jawa
+Tengah. Diakses tanggal 19 Agustus
+2018,
+pada
+http://bit.ly/2BangunRuangNEA.
+Asmarani. 2016. Analisis Kesalahan Siswa Di
+Kelas VII SMP Aloysius Turi Tahun
+Ajaran 2015/2016 dalam Menyelesaikan
+Soal Cerita Matematika Pada Topik
+Bilangan Bulat Berdasarkan Metode
+Analisis Kesalahan Newman. Skripsi.
+Yogyakarta: Universitas Sanata Dharma.
+Diakses tanggal 5 Juli 2018, pada
+https://repository.usd.ac.id/8050/.
+Clements, M. A (Ken) dan Nerida F. Ellerton.
+1996. The Newman Procedural for
+Analysing
+Errors
+on
+Written
+Mathematical Tasks. University of
+Newcastle: Faculty of Education.
+Diakses tanggal 24 Agustus 2018, pada
+http://bit.ly/2NEAProcedural.
+Ellerton N. F. & Clements, M. A. 1991.
+Mathematics in Language: A review of
+language factors in mathematics
+learning. Geelog, Vic: Deakin University.
+Hobri.
+2010.
+Metodelogi
+Penelitian
+Pengembangan
+(Aplikasi
+pada
+Penelitian Matematika). Jember: Pena
+Salsabila.
+Hudojo. 1998. Strategi Belajar Mengajar.
+Malang: IKIP.
+Humaerah. 2017. Analisis Kesalahan Peserta
+didik dalam Menyelesaikan Soal-Soal
+Pada Materi Geometri dengan Prosedur
+Newman
+Kelas
+VIII
+MTs.
+Muhammadiyah Tanetea Kabupaten
+Jeneponto. Skripsi. Makasar: Universitas
+Islam Negeri Allauddin. Diakses tanggal
+5
+Juli
+2018,
+pada
+http://bit.ly/2GeometriNEA.
+48
+
+http://bit.ly/2matematikanea2.
+Skemp, R. R. 1996. The psychology of
+mathematics. London: Pinguin Books.
+Tarigan.
+1995.
+Pengajaran
+Semantik.
+Bandung: Angkasa.
+Tatang. 2012. Ilmu Pendidikan. Bandung: CV.
+Pustaka Setia.
+Yeni, Ety. M. 2015. Kesulitan Belajar
+Matematika di Sekolah Dasar. Jupendas.
+2 (2): 1-10. Universitas Almuslim.
+Diakses tanggal 9 September 2018,
+pada http://bit.ly/kesulitanmatematika.
+
+49
+
+

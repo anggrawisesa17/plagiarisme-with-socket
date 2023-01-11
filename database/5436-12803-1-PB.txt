@@ -1,0 +1,1503 @@
+JEQU
+
+http://jurnal.untirta.ac.id/index.php/Ekonomi-Qu
+
+Vol. 9, No. 1, Apr 2019
+
+p-ISSN: 2089-4473 e-ISSN: 2541-1314
+
+PENGARUH INDEKS PEMBANGUNAN MANUSIA TERHADAP
+TINGKAT PENGANGGURAN DI PROVINSI BANTEN
+Dwi Mahroji, email: d_mahroji@yahoo.com
+Jurusan Ekonomi Pembangunan STIE Pandu Madania
+Iin Nurkhasanah, email: iin.nurkhasanah23@gmail.com
+Jurusan Ekonomi Pembangunan STIE Pandu Madania
+
+ABSTRACT
+
+The purpose of the study is to determine the effect of Human Development Index (HDI)
+investment and District Minimum Wage (MSE) to the unemployment rate in Banten Province and
+to determine the effect of Human Development Index (HDI), investment and District Minimum
+Wage (MSE) collectively to the unemployment rate in Banten Province. The method used in this
+research is panel data analysis method with Fixed Effect Model approach. The result of panel data
+analysis showed that the variable of Human Development Index (HDI) has significant and negative
+effect on 5% level to unemployment rate, investment variable has negative and significant effect
+on 5% level to unemployment rate, District Minimum Wage (MSE) has negative effect and
+significant at 5% level to unemployment rate and collectively variable of Human Development Index
+(HDI), investment and District Minimum Wage (MSE) have significant effect to unemployment rate
+in Banten Province.
+Keywords: Unemployment Rate, Human Development Index (HDI) investment and District
+Minimum Wage (MSE).
+
+ABSTRAK
+
+Tujuan penelitian adalah untuk mengetahui pengaruh Indeks Pembangunan Manusia (IPM)
+investasi dan Upah Minimum Kabupaten/kota (UMK) terhadap tingkat pengangguran di Provinsi
+Banten dan untuk mengetahui pengaruh Indeks Pembangunan Manusia (IPM), investasi dan Upah
+Minimum Kabupaten/kota (UMK) secara bersama-sama terhadap tingkat pengangguran di Provinsi
+Banten. Metode yang digunakan pada penelitian ini yaitu metode analisis data panel dengan
+pendekatan Fixed Effect Model. Hasil analisis data panel pada menunjukkan bahwa variabel Indeks
+Pembangunan Manusia (IPM) berpengaruh signifikan dan negatif pada taraf 5% terhadap tingkat
+pengangguran, variabel investasi berpengaruh negatif dan signifikan pada taraf 5% terhadap
+tingkat pengangguran, Upah Minimum Kabupaten/kota (UMK) berpengaruh negatif dan signifikan
+pada taraf 5% terhadap tingkat pengangguran dan secara bersama-sama variabel Indeks
+Pembangunan Manusia (IPM), investasi dan Upah Minimum Kabupaten/kota (UMK) berpengaruh
+signifikan terhadap tingkat pengangguran di Provinsi Banten.
+Kata Kunci: Tingkat Pengangguran, Indeks Pembangunan Manusia (IPM), Investasi dan Upah
+Minimum Kabupaten/kota (UMK).
+
+51
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+PENDAHULUAN
+
+Pembangunan ekonomi merupakan upaya perubahan struktural yang bertujuan
+untuk meningkatkan produktivitas dan menciptakan kesempatan kerja yang pada
+akhirnya akan meningkatkan pendapatan penduduk. Pembangunan ekonomi
+merupakan proses multidimensional yang melibatkan bermacam-macam perubahan
+mendasar atas struktur sosial, sikap-sikap masyarakat dan institusi-institusi nasional
+disamping tetap mengejar akselerasi pertumbuhan ekonomi, penanganan
+ketimpangan wilayah, pengentasan kemiskinan serta penurunan tingkat
+pengangguran (Todaro, 2003).
+Pertumbuhan ekonomi merupakan salah satu indikator yang penting dalam
+menilai kinerja suatu perekonomian, terutama untuk melakukan analisis tentang hasil
+pembangunan ekonomi yang telah dilaksanakan suatu negara atau suatu daerah.
+Pertumbuhan ekonomi suatu negara atau suatu wilayah yang terus menunjukkan
+peningkatan menggambarkan bahwa perekonomian negara atau wilayah tersebut
+berkembang dengan baik. Pertumbuhan ekonomi belum dapat dikatakan berhasil jika
+beban sosial semakin berat, distribusi pendapatan tidak merata, jumlah penduduk di
+bawah garis kemiskinan semakin meningkat serta masih tingginya tingkat
+pengangguran (Noviyanti, 2014).
+Indonesia sebagai negara berkembang dengan jumlah penduduk yang tinggi
+memiliki potensi pasar yang cukup besar dilihat dari sisi input tenaga kerja. Jumlah
+penduduk yang besar dapat menggerakkan pasar dari sudut permintaan melalui
+multiplier effect karena adanya aggregat demand yang tinggi. Sebagai sumber tenaga
+kerja, jumlah penduduk yang besar dapat menjadi penggerak perekonomian dari sisi
+penawaran. Namun, pertumbuhan jumlah penduduk yang semakin meningkat apabila
+tidak diimbangi dengan peningkatan kesempatan kerja akan mengakibatkan
+terjadinya masalah ketenagakerjaan seperti semakin tinggi angka pengangguran yang
+dapat meningkatkan probabilitas kemiskinan, kriminalitas dan fenomena sosialekonomi di masyarakat (Wahyuni, 2005).
+Masalah pengangguran merupakan salah satu masalah yang cukup serius
+dihadapi oleh negara berkembang seperti Negara Indonesia. Menurut Alghofari, 2010
+menyatakan bahwa pengangguran terjadi sebagai akibat dari tingginya tingkat
+perubahan angkatan kerja yang tidak diimbangi dengan adanya lapangan pekerjaan
+yang cukup luas serta penyerapan tenaga kerja yang cenderung kecil persentasenya.
+Hal ini disebabkan oleh rendahnya tingkat pertumbuhan penciptaan lapangan kerja
+untuk menampung tenaga kerja yang siap bekerja.
+Salah satu indikator yang dapat digunakan untuk mengukur pengangguran
+adalah Tingkat Pengangguran Terbuka (TPT). Besarnya nilai TPT memberikan indikasi
+besarnya penduduk usia kerja yang termasuk dalam pengangguran. Menurut Badan
+Pusat Statistik (BPS) Indonesia (2016), pengangguran terbuka yaitu terdiri dari
+mereka yang tidak mempunyai pekerjaan, sedang mencari pekerjaan, mempersiapkan
+usaha dan mereka yang tidak mencari pekerjaan karena merasa tidak mungkin
+mendapatkan pekerjaan serta mereka yang sudah mempunyai pekerjaan tetapi belum
+mulai bekerja. Besarnya tingkat pengangguran di Indonesia dari tahun 2011-2015
+terlihat pada Gambar 1.1 berikut ini:
+
+52
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+7.48
+
+2011
+
+6.13
+
+6.17
+
+5.94
+
+2012
+
+2013
+
+2014
+
+6.18
+
+2015
+
+Sumber: BPS Indonesia, 2016
+Gambar 1.1
+Tingkat Pengangguran di Indonesia Tahun 2011-2015 (Persen)
+
+Berdasarkan Gambar 1.1 menunjukkan bahwa tingkat pengangguran di
+Indonesia berfluktuasi tiap tahunnya. Tingkat pengangguran tertinggi di Indonesia
+selama tahun 2011-2015 terjadi pada tahun 2011 sebesar 7,48%, kemudian menurun
+sampai 6,13% pada tahun 2012, namun pada tahun 2015 mengalami peningkatan
+menjadi 6,18%.
+Pulau Jawa sebagai pusat pertumbuhan ekonomi dan sebagai pusat kawasan
+industri harusnya mampu menyerap tenaga kerja sehingga dapat mengurangi
+tingginya tingkat pengangguran. Hal ini dapat dilihat dari besarnya kontribusi sektor
+industri di Pulau Jawa yang mampu menyumbang sebesar 58% terhadap PDB
+nasional. Selain itu, sektor industri di Pulau Jawa mampu menjadi leading sector
+dengan kontribusi sebesar 29,87% terhadap PDRB. Sedangkan wilayah lain masih
+belum bisa berkontribusi banyak, seperti Pulau Sumatera dan Kalimantan hanya
+berkontribusi 24% dan 9% (BPS Indonesia, 2016). Berbeda halnya dengan pulaupulau lain yang berada di wilayah tengah dan timur Indonesia, meskipun wilayah dan
+potensi alamnya cukup luas namun kontribusinya terhadap perekonomian nasional
+masih sangat kecil (Gambar 1.2).
+
+53
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+24%
+Jawa
+Maluku dan Papua
+Bali dan Nusa Tenggara
+Sulawesi
+
+9%
+
+58%
+
+Kalimantan
+Sumatera
+
+5%
+
+2%
+
+2%
+
+Sumber: BPS Indonesia, 2016
+
+Gambar 1.2
+Kontribusi Sektor Industri Terhadap PDB Nasional Tahun 2015 (Persen)
+
+Provinsi Banten merupakan salah satu provinsi di Pulau Jawa yang mempunyai
+peran penting dalam penyerapan tenaga kerja di Indonesia. Hal ini mengingat bahwa
+sejumlah kawasan industri di Provinsi Banten sebagai percontohan dalam
+pembangunan kawasan industri di luar Pulau Jawa. Melalui pembangunan kawasan
+industri yang terintegrasi sangat penting dalam mendorong pertumbuhan industri dan
+ekonomi nasional karena mampu menyediakan lapangan kerja yang luas bagi
+lingkungan sekitar sehingga masalah pengangguran dapat teratasi (BPS Indonesia,
+2016).
+Berdasarkan Tabel 1.1 menunjukkan bahwa Provinsi Banten memiliki tingkat
+pengangguran tertinggi di Pulau Jawa selama periode 2011-2015. Pada tahun 2011
+tingkat pengangguran di Provinsi Banten mencapai 13,74% kemudian terus
+mengalami penurunan hingga tahun 2014 hanya mencapai 9,07% dan pada tahun
+2015 mengalami kenaikan hingga mencapai 9,55%. Namun, angka tersebut masih
+cukup besar jika dibandingkan dengan tingkat pengangguran nasional pada tahun
+2015 hanya sebesar 6,18%. Hal ini menunjukkan masih tingginya tingkat
+penganguran terbuka di Provinsi Banten karena belum mencapai penggunaan tenaga
+kerja penuh (full employment).
+Tabel 1.1
+Tingkat Pengangguran di Pulau Jawa Tahun 2011-2015 (Persen)
+Tahun
+Provinsi
+
+Rata-Rata
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+DKI Jakarta
+
+11.69
+
+9.67
+
+8.63
+
+8.47
+
+7.23
+
+9.14
+
+Jawa Barat
+
+9.96
+
+9.08
+
+9.16
+
+8.45
+
+8.72
+
+9.07
+
+Jawa Tengah
+
+7.07
+
+5.61
+
+6.01
+
+5.68
+
+4.99
+
+5.87
+
+54
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+DI Yogyakarta
+
+4.39
+
+3.90
+
+3.24
+
+3.33
+
+4.07
+
+3.79
+
+Jawa Timur
+
+5.38
+
+4.11
+
+4.30
+
+4.19
+
+4.47
+
+4.49
+
+Banten
+
+13.74
+
+9.94
+
+9.54
+
+9.07
+
+9.55
+
+10.37
+
+Sumber: BPS Indonesia, 2016
+
+Menurut Kepala Dinas Tenaga Kerja dan Transmigrasi (Disnakertrans) Provinsi
+Banten, mengatakan bahwa pemerintah Provinsi Banten berupaya secara konsisten
+membuka peluang 1 juta lapangan kerja. Pelatihan dan pendampingan juga terus
+dilakukan serta membuka job fair di daerah serta memberikan pelatihan kepada
+lulusan SMK melalui Balai Latihan Kerja (BLK) (Disnakertrans Banten, 2016). Namun,
+kerja keras pemerintah belum memberikan hasil yang maksimal, hal ini terlihat bahwa
+pada tahun 2015 Provinsi Banten menempati posisi tertinggi pertama jika
+dibandingkan dengan 33 Provinsi lain di Indonesia yakni mencapai 9,55% dari jumlah
+penduduk Banten, kemudian diikuti dengan Provinsi Aceh sebesar 9,43%. Sedangkan
+tingkat pengangguran terendah berada di Provinsi Bali hanya mencapai 1,99%
+(Gambar 1.3).
+9.43
+
+9.55
+
+8.72
+
+7.83
+6.716.89
+
+7.23
+6.296.20
+6.07
+4.915.14
+4.34
+
+9.33
+
+9.03
+
+8.08
+
+7.50
+5.69
+
+5.15 4.92
+4.54
+3.83
+
+4.99
+4.47
+4.07
+
+5.68
+
+5.95
+5.55
+4.65
+4.10
+3.35
+
+6.05
+3.99
+
+Papua
+
+Papua Barat
+
+Maluku
+
+Maluku Utara
+
+Gorontalo
+
+Sulawesi Barat
+
+Sulawesi Selatan
+
+Sulawesi Tenggara
+
+Sulawesi Utara
+
+Sulawesi Tengah
+
+Kalimantan Utara
+
+Kalimantan Timur
+
+Kalimantan Selatan
+
+Kalimantan Barat
+
+Kalimantan Tengah
+
+Nusa Tengggara Timur
+
+Bali
+
+Nusa Tenggara Barat
+
+Banten
+
+Jawa Timur
+
+DI Yogyakarta
+
+Jawa Barat
+
+Jawa Tengah
+
+DKI Jakarta
+
+Kepulauan Riau
+
+Lampung
+
+Kepulauan Bangka Belitung
+
+Bengkulu
+
+Sumatera Selatan
+
+Riau
+
+Jambi
+
+Sumatera Barat
+
+Aceh
+
+Sumatera Utara
+
+1.99
+
+Sumber: BPS Indonesia, 2016
+
+Gambar 1.3
+Tingkat Pengangguran Menurut Provinsi di Indonesia Tahun 2015 (Persen)
+
+Menurut Wahyuni (2005) salah satu faktor yang menyebabkan tingginya
+tingkat pengangguran disebabkan oleh tingginya pertumbuhan jumlah penduduk.
+Pada dasarnya, peningkatan jumlah penduduk memiliki dua sisi yang berbeda. Jumlah
+penduduk yang besar merupakan modal dalam pencapaian tujuan pembangunan
+nasional, tetapi di sisi lain dengan pengaturan yang tidak tepat, jumlah penduduk
+yang besar dapat menimbulkan permasalahan penduduk yang sangat krusial terutama
+dibidang ketenagakerjaan. Tingginya pertumbuhan penduduk apabila tidak disertai
+dengan Sumber Daya Manusia (SDM) yang berkualitas maka mereka tidak mampu
+menempati lapangan pekerjaan yang tersedia di wilayah tersebut. Kualitas sumber
+
+55
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+daya manusia dapat diukur melalui besarnya angka Indeks Pembangunan Manusia
+(IPM).
+Indeks Pembangunan Manusia (IPM) merupakan suatu angka yang mengukur
+capaian pembangunan manusia berbasis sejumlah komponen dasar kualitas hidup
+yang dapat mempengaruhi tingkat produktivitas yang dihasilkan oleh seseorang
+(Saputra, 2011). Menurut Badan Pusat Statistik Indonesia (2016), menjelaskan bahwa
+indeks pembangunan manusia dibangun melalui pendekatan tiga dimensi dasar.
+Dimensi tersebut mencakup umur panjang dan hidup sehat, pengetahuan, dan
+standar hidup layak.
+Menurut Badan Pusat Statistik Indonesia (2016), dalam mengukur dimensi
+kesehatan digunakan angka harapan hidup, selanjutnya untuk mengukur dimensi
+pengetahuan digunakan indikator angka harapan lama sekolah. Adapun untuk
+mengukur dimensi hidup layak digunakan indikator kemampuan daya beli masyarakat
+terhadap sejumlah kebutuhan pokok yang dilihat dari rata-rata besarnya pengeluaran
+per kapita sebagai pendekatan pendapatan yang mewakili capaian pembangunan
+untuk dapat hidup layak.
+Menurut Napitupulu (2007), indeks pembangunan manusia memuat tiga
+dimensi penting dalam pembangunan yaitu terkait dengan aspek pemenuhan
+kebutuhan akan hidup panjang umur dan hidup sehat, untuk mendapatkan
+pengetahuan dan mampu memenuhi standar hidup layak. Semakin baik tingkat
+kesehatan tenaga kerja, pengetahuan yang tinggi dan memperoleh hidup yang layak,
+maka hasil kerja akan semakin bagus dan berkualitas, justru sebaliknya semakin buruk
+keadaaan tenaga kerja, maka hasil pekerjaannya akan semakin buruk pula atau tidak
+berkualitas. Hal ini menunjukkan bahwa tiga dimensi penting dalam pembangunan
+manusia menjadi indikator untuk menilai kuliatas sumber daya manusia yang siap
+untuk berkerja sehingga mampu mengurangi tingginya tingkat pengangguran di suatu
+wilayah. Perkembangan besarnya nilai Indeks Pembangunan Manusia (IPM) di Pulau
+Jawa pada tahun 2011-2015 terlihat pada Tabel 1.2 berikut ini:
+Tabel 1.2
+Indeks Pembangunan Manusia di Pulau Jawa Tahun 2011-2015 (Indeks)
+Provinsi
+
+Tahun
+
+Rata-Rata
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+DKI Jakarta
+
+76.98
+
+77.53
+
+78.08
+
+78.39
+
+78.99
+
+77.99
+
+Jawa Barat
+
+66.67
+
+67.32
+
+68.25
+
+68.80
+
+69.50
+
+68.11
+
+Jawa Tengah
+
+66.64
+
+67.21
+
+68.02
+
+68.78
+
+69.49
+
+68.03
+
+DI Yogyakarta
+
+75.93
+
+76.15
+
+76.44
+
+76.81
+
+77.59
+
+76.58
+
+Jawa Timur
+
+66.06
+
+66.74
+
+67.55
+
+68.14
+
+68.95
+
+67.49
+
+Banten
+
+68.22
+
+68.92
+
+69.47
+
+69.89
+
+70.27
+
+69.35
+
+Sumber: BPS Indonesia, 2016
+
+56
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+Berdasarkan Tabel 1.2 menunjukkan bahwa Indeks Pembangunan Manusia (IPM)
+enam provinsi di Pulau Jawa terus mengalami peningkatan selama tahun 2011-2015.
+Provinsi Banten memiliki nilai rata-rata IPM tertinggi ke tiga di Pulau Jawa setelah
+Provinsi DKI Jakarta dan Provinsi DI Yogyakarta yaitu sebesar 69.35%. Sedangkan untuk
+Provinsi Jawa Barat, Provinsi Jawa Tengah dan Provinsi Jawa Timur masing-masing
+sebesar 68.11%, 68.03% dan 67.49%. Hal ini menunjukkan bahwa kualitas
+pembangunan manusia di Provinsi Banten sudah cukup baik, namun tingkat
+pengangguran selama tahun 2011-2015 masih menempati posisi tertinggi pertama jika
+dibandingkan dengan lima provinsi lainnya di Pulau Jawa (Tabel 1.1).
+Menurut hasil penelitian yang dilakukan oleh Burhanudin (2015) mengenai
+hubungan indeks pembangunan manusia dengan tingkat pengangguran menyimpulkan
+bahwa indeks pembangunan manusia memiliki pengaruh yang signifikan dan negatif
+terhadap tingkat pengangguran. Hal ini menjelaskan bahwa semakin tinggi angka indeks
+pembangunan manusia pada suatu wilayah maka akan menyebabkan tingkat
+pengangguran semakin menurun dan sebaliknya apabila indeks pembangunan manusia
+rendah akan berdampak pada tingginya tingkat pengangguran di wilayah tersebut.
+Menurut Teori pertumbuhan baru menekankan pentingnya peranan pemerintah
+dalam meningkatkan pembangunan modal manusia ( human capital) dan pengembangan
+untuk meningkatkan produktivitas manusia. Melalui investasi pendidikan diharapkan
+akan mampu meningkatkan kualitas sumber daya manusia yang diperlihatkan dengan
+meningkatnya pengetahuan dan keterampilan seseorang. Semakin tinggi kualitas
+manusia, maka pengetahuan dan keahlian juga akan meningkat sehingga akan
+mendorong peningkatan produktivitas kerjanya. Perusahaan akan memperoleh hasil
+yang lebih banyak dengan memperkerjakan tenaga kerja dengan produktivitas yang
+tinggi, sehingga dengan penyerapan tenaga kerja yang semakin banyak menyebabkan
+berkurangnya tingkat pengangguran (Todaro. 2000).
+Hubungan indeks pembangunan manusia dengan tingkat pengangguran juga
+dijelaskan oleh Todaro (2000), bahwa pembangunan manusia merupakan tujuan
+pembangunan itu sendiri. Pembangunan manusia memainkan peranan kunci dalam
+membentuk kemampuan sebuah negara dalam menyerap teknologi modern untuk
+mengembangkan kapasitasnya agar tercipta kesempatan kerja untuk mengurangi
+jumlah pengangguran dan pada akhirnya akan tercipta pertumbuhan serta
+pembangunan yang berkelanjutan. Hal ini menunjukkan bahwa dengan pembangunan
+manusia yang diukur melalui besarnya nilai IPM akan berdampak pada rendahnya
+tingkat pengangguran di suatu wilayah.
+Indikator-indikator ekonomi lain yang mempunyai hubungan dengan tingkat
+pengangguran selain indeks pembangunan manusia diantaranya investasi dan Upah
+Minimum Kabupaten/kota (UMK) yang berlaku. Apabila di suatu negara memiliki
+investasi yang menjadi salah satu komponen dalam pertumbuhan ekonomi mengalami
+kenaikan, diharapkan akan berhubungan pada penurunan tingkat pengangguran, hal ini
+diikuti dengan tingkat upah. Jika tingkat upah naik akan berhubungan pada penurunan
+tingkat pengangguran pula. Sedangkan tingkat inflasi yang tinggi akan berhubungan
+pada tingkat pengangguran (Sukirno, 2008).
+Penelitian yang membahas tentang tingkat pengangguran telah banyak dilakukan
+seperti Sisnita (2017) dengan judul analisis faktor-faktor yang mempengaruhi tingkat
+pengangguran terbuka di Provinsi Lampung menyimpulkan bahwa jumlah penduduk dan
+57
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+indeks pembangunan manusia berpengaruh secara signifikan sedangkan upah minimum
+tidak berpengaruh signifikan terhadap pengangguran terbuka di Provinsi Lampung tahun
+2009-2015. Pada penelitian yang dilakukan oleh Kristiyana (2011) menyimpulkan bahwa
+variabel tingkat inflasi berpengaruh signifikan dengan arah negatif sedangkan variabel
+upah minimum kabupaten/kota dan pertumbuhan ekonomi berpengaruh positif dan
+signifikan terhadap pengangguran terbuka di Provinsi Jawa Tengah. Namun, hasil
+penelitian yang dilakukan oleh Komalasari (2014) dengan judul “Determinants Of
+Unemployment: Empirical Evidences from 7 Province in Indonesia” menunjukkan hasil
+yang berbeda dengan penelitian yang dilakukan oleh Kristiyana bahwa variabel
+pertumbuhan ekonomi dan upah minimum tidak berpengaruh signifikan terhadap
+pengangguran di Indonesia tahun 2004-2012.
+Berdasarkan tingginya tingkat pengangguran di Provinsi Banten jika dibandingkan
+dengan wilayah sekitar di Pulau Jawa selama tahun 2011-2015 bahkan pada tahun 2015
+menempati posisi pertama pada tingkat nasional sebesar 9,55% sedangkan kualitas
+sumber daya manusia di Provinsi Banten yang diukur berdasarkan nilai Indeks
+Pembangunan Manusia (IPM) selama tahun 2011-2015 menempati posisi tertinggi
+ketiga jika dibandingkan dengan wilayah sekitar di Pulau Jawa serta banyaknya faktor
+yang mempengaruhi tingkat pengangguran, maka dalam penelitian ini variabel Indeks
+Pembangunan Manusia (IPM) digunakan sebagai variabel utama yang mempengaruhi
+tingkat pengangguran sedangkan variabel investasi dan Upah Minimum Kabupaten/kota
+(UMK) sebagai variabel kontrol yang mempengaruhi tingkat pengangguran.
+TINJAUAN LITERATUR
+Konsep Pengangguran
+Pengangguran merupakan suatu persoalan yang banyak terjadi di suatu wilayah
+khususnya pada negara berkembang. Menurut Sukirno (2008) pengangguran adalah
+suatu keadaan dimana seseorang yang tergolong dalam angkatan kerja ingin
+mendapatkan pekerjaan tetapi belum memperolehnya. Menurut Simanjuntak (2003),
+mengatakan bahwa pengangguran yaitu orang berusia angkatan kerja yang tidak
+bekerja sama sekali atau bekerja kurang dari dua hari selama seminggu sebelum
+pencacahan dan berusaha memperoleh pekerjaan. Sedangkan menurut Badan Pusat
+Statistik Indonesia (2016) pengangguran yaitu terdiri dari mereka yang tidak
+mempunyai pekerjaan, sedang mencari pekerjaan, mempersiapkan usaha dan mereka
+yang tidak mencari pekerjaan karena merasa tidak mungkin mendapatkan pekerjaan
+serta mereka yang sudah mempunyai pekerjaan tetapi belum mulai bekerja.
+Pengangguran terjadi karena adanya ketidakseimbangan di pasar tenaga kerja.
+Pada pasar tenaga kerja dikenal kurva permintaan dan penawaran tenaga kerja. Kurva
+permintaan tenaga kerja menunjukkan jumlah tenaga kerja yang diminta/dipekerjakan
+oleh perusahaan dan memiliki kemiringan negatif pada tingkat upah tertentu, sedangkan
+kurva penawaran tenaga kerja menunjukkan jumlah tenaga kerja yang akan ditawarkan
+oleh rumah tangga dan berslope positif terhadap upah. Keseimbangan pasar akan
+tercapai apabila terjadi suatu keadaan dimana jumlah tenaga kerja yang diminta sama
+dengan jumlah tenaga kerja yang ditawarkan pada tingkat upah tertentu (Widiyati,
+2016). Hal ini menujukkan bahwa apabila jumlah tenaga kerja yang ditawarkan melebihi
+58
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+jumlah tenaga kerja yang diminta maka akan mengakibatkan pengangguran. Pada
+Gambar 2.1 berikut ini menggambarkan keseimbangan yang terjadi di pasar tenaga
+kerja.
+Upah
+Pengangguran
+
+SL
+
+W1
+W*
+W2
+
+DL
+O
+
+L*
+
+Ld
+
+Ls
+
+Tenaga kerja
+
+Sumber: Borjas, George J, 2008
+Gambar 2.1
+Kurva Keseimbangan di Pasar Tenga Kerja
+
+Berdasarkan Gambar 2.1 menunjukkan bahwa keseimbangan pasar tenaga kerja
+berada pada titik W*L*. Jika upah berada di atas tingkat keseimbangan (W1) maka
+jumlah penawaran tenaga kerja akan melebihi jumlah permintaannya. Jika upah berada
+di bawah tingkat keseimbangan (W2) maka jumlah permintaan tenaga kerja lebih besar
+daripada jumlah penawaran tenaga kerja. Ketidakseimbangan inilah yang disebut
+dengan pengangguran.
+Teori pertumbuhan baru menekankan pentingnya meningkatkan pembangunan
+modal manusia (human capital) dan pengembangan untuk meningkatkan produktivitas
+manusia. Melalui investasi pendidikan diharapkan akan mampu meningkatkan kualitas
+sumber daya manusia yang diperlihatkan dengan meningkatnya pengetahuan dan
+keterampilan seseorang sehingga akan mendorong peningkatan produktivitas kerjanya.
+Peningkatan produktivitas dapat mempengaruhi kesempatan kerja yaitu dengan adanya
+peningkatan produktivitas maka terjadi penurunan biaya produksi per unit barang.
+Penurunan biaya produksi per unit barang akan menurunkan harga per unit barang. Jika
+harga barang turun maka permintaan terhadap barang naik yang akan mendorong
+pengusaha untuk menambah permintaan tenaga kerja, sehingga dengan penyerapan
+tenaga kerja yang semakin banyak dapat mengurangi tingkat pengangguran (Todaro,
+2000).
+Menurut Nanang (2004), Produktivitas tenaga kerja menentukan kondisi
+permintaan tenaga kerja, apabila produktivitas tenaga kerja itu rendah otomatis akan
+menurunkan pencapaian target perusahaan. Produktivitas yang rendah akan membuat
+perusahaan melakukan Pemutusan Hubungan Kerja (PHK) dengan para tenaga kerja
+sehingga akan meningkatkan tingkat pengangguran di suatu wilayah. Menurut Abbas
+(2010) kompetensi yang dibutuhkan di dunia kerja yang diberikan oleh pendidikan pada
+59
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+dasarnya terkait dengan lima hal yaitu: motif atau penggerak, kecepatan bereaksi,
+gambaran diri pribadi, informasi seseorang yang diperoleh pada bidang tertentu dan
+kemampuan melaksanakan tugas secara fisik maupun mental (skill). Tenaga kerja yang
+berkualitas dan lebih mempunyai kemampuan akan lebih dihargai jika dibandingkan
+dengan tenaga kerja yang kurang mampu. Tingkat pendidikan yang merupakan salah
+satu indikator dari IPM berpengaruh terhadap tingkat pengangguran karena jika tenaga
+kerja berpendidikan rendah akan sulit mendapat pekerjaan sehingga akan berdampak
+pada bertambahnya tingkat pengangguran.
+Menurut Teori Keynes menjelaskan bahwa masalah pengangguran timbul
+disebabkan oleh adanya permintaan agregat yang rendah. Permintaan agregat
+merupakan seluruh permintaan terhadap barang dan jasa yang terjadi dalam suatu
+perekonomian. Ketika penawaran tenaga kerja mengalami peningkatan maka upah akan
+turun dan penurunan upah tersebut akan mengakibatkan kerugian bukan
+menguntungkan karena penurunan upah tersebut menggambarkan daya beli
+masyarakat terhadap suatu barang. Daya beli masyarakat yang merupakan salah satu
+indikator dalam IPM yang rendah akan mengakibatkan perusahaan menurunkan jumlah
+produksinya dan tidak dapat menyerap kelebihan tenaga kerja sehingga permintaan dan
+penawaran tenaga kerja hampir tidak pernah seimbang dan pengangguran sering terjadi
+(Sukirno, 2005).
+Menurut Keynes hubungan antara permintaan agregat dengan penyerapan tenga
+kerja dijelaskan pada Gambar 2.2 dibawah ini:
+Permintaan
+Agregat
+
+D2
+
+ADF
+
+D1
+
+O
+
+L1
+
+L2
+
+Lf
+
+Penyerapan
+Tenaga Kerja
+
+Sumber: Keynes, John Maynard 1924
+Gambar 2.2
+Fungsi Permintaan Agregat dan Penyerapan Tenaga Kerja
+
+Berdasarkan Gambar 2.2 dapat dilihat bahwa total permintaan agregat adalah
+D1L1 pada tingkat penyerapan tenaga kerja OL1, kemudian total permintaan agregat
+meningkat menjadi D2 L2 dengan tingkat penyerapan tenaga kerja ke OL2. OLf adalah
+60
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+tingkat pekerjaan penuh (full employment). Awalnya, permintaan agregat (ADF)
+meningkat tajam seiring kenaikan penyerapan tenaga kerja yang disebabkan oleh
+permintaan masyarakat sehingga meningkatkan penerimaan penjualan produsen.
+Peningkatan penerimaan penjualan produsen memicu produsen untuk meningkatkan
+output sehingga diperlukan tambahan tenaga kerja yang mengakibatkan penurunan
+tingkat pengangguran.
+Berdasarkan Hukum Okun (Okun’s Law) salah satu faktor yang menyebabkan
+pengangguran adalah kekurangan pengeluaran agregat. Hukum Okun’s menjelaskan
+bahwa setiap adanya peningkatan terhadap persentase pengangguran dalam suatu
+negara maka hal tersebut akan setara dengan terjadinya penurunan besarnya GDP
+sebesar 2 persen. Menurut Mankiw (2006) bahwa pertumbuhan ekonomi melalui GDP
+yang meningkat diharapkan dapat menyerap tenaga kerja karena dengan kenaikan
+pendapatan nasional dapat meningkatkan produksi. Hal ini mengindikasikan bahwa
+penurunan GDP dapat dikaitkan dengan tingginya tingkat pengangguran di suatu
+wilayah. Hubungan antara pertumbuhan ekonomi (GDP) dengan pengangguran
+dijelaskan pada Gambar 2.3 dibawah ini:
+GDP Rill
+
+Garis titik sebaran
+tiap pengamatan
+
+O
+
+Pengangguran
+
+Sumber: Mankiw, 2006
+Gambar 2.3
+Kurva Okun’s Law
+
+Berdasarkan Gambar 2.3 menjelaskan bahwa terdapat hubungan negatif antara
+pertumbuhan ekonomi dengan pengangguran, hal ini terbukti dilihat dari garis titik
+sebaran tiap pengamatan serta kurvanya berslope negatif. Hal ini menunjukkan apabila
+pertumbuhan PDB meningkat maka akan meningkatkan pertumbuhan lapangan kerja
+yang secara tidak langsung akan menurunkan tingkat pengangguran di negara
+berkembang dan sebaliknya jika GDP rill menurun akan meningkatkan pengangguran.
+Menurut Sukirno (2000) bahwa salah satu faktor yang dapat menurunkan tingkat
+pengangguran yaitu besarnya investasi. Investasi adalah pengeluaran atau
+pembelanjaan penanaman modal dan perlengkapan produksi untuk menambah
+kemampuan memproduksi barang dan jasa yang tersedia dalam perekonomian. Melalui
+kegiatan investasi memungkinkan masyarakat untuk terus-menerus meningkatkan
+61
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+kegiatan ekonomi dan kesempatan kerja, meningkatkan permintaan agregat dan
+pendapatan nasional. Menurut Aqil, 2014 bahwa investasi memiliki peran penting dalam
+pembentukan lapangan pekerjaan, dengan adanya investasi akan menambah
+persediaan barang modal, hal ini akan berpengaruh ada peningkatan kapasitas produksi
+dan menciptakan kesempatan kerja yang pada akhirnya akan menurunkan tingkat
+pengangguran. Berdasarkan jenisnya, investasi dibagi menjadi dua jenis yaitu investasi
+yang sumber dananya berasal dari luar negeri atau disebut dengan Penanaman Modal
+Asing (PMA) dan investasi yang bersumber dari dalam negeri atau Penanaman Modal
+Dalam Negeri (PMDN).
+Menurut Mankiw (2003) bahwa pengangguran juga disebabkan oleh kekakuan
+upah yaitu kegagalan upah dalam menyeimbangkan penawaran dan permintaan tenaga
+kerja. Salah satu hal yang menyebabkan kekakuan upah adalah undang-undang
+kebijakan upah minimum. Menurut Badan Pusat Statistik Indonesia (2016), upah
+minimum adalah suatu penerimaan bulanan minimum sebagai imbalan dari pengusaha
+kepada karyawan untuk suatu pekerjaan atau jasa yang telah atau akan dilakukan dan
+dinyatakan dalam bentuk uang yang ditetapkan atas dasar suatu persetujuan atau
+peraturan perundang-undangan serta dibayarkan atas dasar suatu perjanjian kerja
+antara pengusaha.
+Menurut Suparmoko (dalam Kristiyana, 2011) menjelaskan bahwa penetapan
+upah minimum akan memberikan dampak pada permintaan dan penawaran tenaga
+kerja. Penetapan upah minimum akan mengurangi tingkat permintaan tenaga kerja dan
+akan menaikan penawaran tenaga kerja sehingga menyebabkan meningkatnya jumlah
+pengangguran. Sehingga dapat disimpulkan bahwa terdapat hubungan positif antara
+upah minimum dan pengangguran. Dampak kebijakan upah minimum dapat dijelaskan
+melalui Gambar 2.4 berikut ini:
+Upah Minimum
+Supply
+
+Pengangguran
+Upah
+Minimum
+
+W*
+
+Demand
+O
+
+Ed
+
+E*
+
+Es
+
+Tenaga kerja
+
+Sumber: Borjas, George J, 2008
+Gambar 2.4
+Dampak Kebijakan Upah Minimum
+
+Berdasarkan Gambar 2.4 menunjukkan bahwa pada awalnya pasar tenaga kerja
+berada pada keseimbangan dengan tingkat upah W* dan tenaga kerja E*. Kemudian
+62
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+pemerintah mengenakan upah minimum sebesar W1. Selanjutnya diasumsikan bahwa
+upah minimum berlaku secara umum sehingga semua pekerja yang berada pada
+angkatan kerja terkena peraturan. Ketika pemerintah menetapkan upah terendah pada
+titik W1, permintaan tenaga kerja turun ke titik Ed. Sebagai akibat dari upah minimum
+beberapa pekerja akan kehilangan pekerjaannya dan menjadi pengangguran sebesar
+E*- Ed. Tingkat upah yang tinggi untuk mempekerjakan pegawai menyebabkan
+penambahan pegawai sebesar E*- Es yang masuk ke dalam pasar tenaga kerja tidak
+dapat menemukan pekerjaan dan akan menambah jumlah pengangguran.
+Konsep Indeks Pembangunan Manusia (IPM)
+Konsep pembangunan manusia merupakan pembangunan yang dilakukan
+menitikberatkan pada pembangunan sumber daya manusia yang seiring dengan
+pertumbuhan ekonomi. Pembangunan sumber daya manusia secara fisik dan mental
+mengandung makna peningkatan kapasitas dasar penduduk yang kemudian akan
+memperbesar kesempatan untuk dapat berpartisipasi dalam proses pembangunan yang
+berkelanjutan. Indeks Pembangunan Manusia (IPM) merupakan salah satu indikator
+untuk menilai keberhasilan pembangunan manusia di suatu wilayah (BPS Indonesia,
+2016).
+Menurut United Nation Development Programme (UNDP Indonesia), indikatorindikator yang dipilih untuk mengukur dimensi Indeks Pembangunan Manusia (IPM)
+adalah:
+1.
+
+Longevity, diukur dengan variabel harapan hidup saat lahir atau life expectancy
+of birth dan angka kematian bayi per seribu penduduk.
+
+2.
+
+Educational Achievement, diukur dengan dua indikator, yaitu melek huruf
+penduduk usia 15 tahun ke atas (adult literacy rate) dan tahun rata-rata
+bersekolah bagi penduduk 25 ke atas (the mean years of schooling).
+
+3.
+
+Access to resource, dapat diukur secara makro melalui PDB rill per kapita dengan
+terminologi purchasing power parity dalam dolar AS dan dapat dilengkapi dengan
+tingkatan angkatan kerja.
+
+Menurut Badan Pusat Statistik Indonesia (BPS Indonesia, 2016), Penghitungan
+metodologi nilai Indeks Pembangunan Manusia (IPM) sejak tahun 2011 telah mengalami
+perubahan. Terdapat beberapa indikator yang berubah diantaranya yaitu:
+1. Angka melek huruf pada metode lama diganti dengan angka harapan lama
+sekolah
+2. Produk Domestik Bruto (PDB) per kapita diganti dengan Produk Nasional Bruto
+(PNB) per kapita.
+Beberapa alasan yang dijadikan dasar perubahan metodologi penghitungan
+Indeks Pembangunan Manusia (IPM) diantaranya yaitu:
+1.
+
+Beberapa indikator sudah tidak tepat untuk digunakan dalam penghitungan IPM
+yaitu indikator angka melek huruf sudah tidak relevan dalam mengukur
+pendidikan secara utuh karena tidak dapat menggambarkan kualitas pendidikan.
+63
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+Selain itu, karena angka melek huruf disebagian besar daerah sudah tinggi,
+sehingga tidak dapat membedakan tingkat pendidikan antar daerah dengan baik
+dan indikator PDB per kapita tidak dapat menggambarkan pendapatan
+masyarakat pada suatu wilayah.
+2.
+
+Penggunaan rumus rata-rata aritmatik dalam penghitungan IPM menggambarkan
+bahwa capaian yang rendah di suatu dimensi dapat ditutupi oleh capaian tinggi
+dari dimensi lain.
+
+Beberapa keunggulan penghitungan besarnya nilai Indeks Pembangunan
+Manusia (IPM) dengan metode baru yaitu:
+1. Menggunakan indikator yang lebih tepat dan dapat membedakan dengan baik
+(diskriminatif) yaitu:
+a. Memasukkan rata-rata lama sekolah dan angka harapan lama sekolah,
+dapat diperoleh gambaran yang lebih relevan dalam pendidikan dan
+perubahan yang terjadi.
+b. PNB menggantikan PDB karena lebih menggambarkan pendapatan
+masyarakat pada suatu wilayah.
+2. Menggunakan rata-rata geometrik dalam menyusun IPM dapat diartikan bahwa
+capaian satu dimensi tidak dapat ditutupi oleh capaian di dimensi lain. Artinya,
+untuk mewujudkan pembangunan manusia yang baik, maka ketiga dimensi ini
+harus memperoleh perhatian yang sama besar karena sama pentingnya.
+Menurut Badan Pusat Statistik Indonesia (2016), indeks pembangunan manusia
+dibangun melalui pendekatan tiga dimensi dasar. Dimensi tersebut mencakup umur
+panjang dan hidup sehat, pengetahuan dan standar hidup layak. Dalam mengukur
+dimensi kesehatan digunakan angka harapan hidup, selanjutnya untuk mengukur
+dimensi pengetahuan digunakan indikator angka harapan lama sekolah. Adapun untuk
+mengukur dimensi hidup layak digunakan indikator kemampuan daya beli masyarakat
+terhadap sejumlah kebutuhan pokok yang dilihat dari rata-rata besarnya Produk
+Nasional Bruto (PNB) per kapita.
+Rumus umum yang digunakan untuk menghitung Indeks Pembangunan Manusia
+(Saputra, 2011) adalah sebagai berikut:
+
+IPM 
+Dimana:
+
+1
+Indeks  1  Indeks  2  Indeks  3 
+3
+
+X1 = Indeks kesehatan
+X2 = Indeks pendidikan
+X3 = Indeks daya beli masyarakat
+Menurut Perserikatan Bangsa-Bangsa (PBB) dalam Saputra (2011), menetapkan
+peringkat kinerja pembangunan manusia pada skala 0,0-100 dengan kategori sebagai
+berikut:
+1.
+
+IPM lebih dari 80,0 : Tinggi
+64
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+2.
+
+IPM antara 66,0-79,9
+
+:Menengah atas
+
+3.
+
+IPM antara 50,0-65,9
+
+: Menengah bawah
+
+4.
+
+IPM kurang dari 50,0
+
+: Rendah
+
+Hubungan Indeks Pembangunan Manusia dengan Pengangguran
+Teori pertumbuhan baru menjelaskan bahwa peningkatan pembangunan
+manusia melalui pembangunan modal manusia (human capital) yang tercermin dalam
+tingkat pendidikan dan kesehatan dapat meningkatkan produktivitas manusia sehingga
+akan meningkatkan permintaan tenaga kerja dan penurunan pada tingkat
+pengangguran. Menurut Teori Keynes bahwa melalui peningkatan daya beli masyarakat
+yang menunjukkan peningkatan dalam permintaan agregat dapat mempengaruhi
+kesempatan kerja. Apabila permintan agregat rendah maka perusahaan akan
+menurunkan jumlah produksinya dan tidak dapat menyerap kelebihan tenaga kerja
+sehingga permintaan dan penawaran tenaga kerja hampir tidak pernah seimbang dan
+pengangguran sering terjadi. Menurut Hukum Okun (Okun’s Law) bahwa melalui
+peningkatan produktivitas yang disebabkan oleh meningkatnya indeks pembangunanan
+manusia akan mendorong pertumbuhan ekonomi yang meningkat. Peningkatan dalam
+pertumbuhan ekonomi diharapkan dapat meningkatkan kesempatan kerja dan
+peningkatan permintaan tenaga kerja sehingga banyak masyarakat yang dapat terserap
+di pasar tenaga kerja yang pada akhirnya dapat mengurangi tingkat pengangguran.
+Berdasarkan beberapa teori pengangguran yang telah dijelaskan sebelumnya
+maka dapat disimpulkan bahwa Indeks Pembangunan Manusia (IPM) dengan
+pengangguran mempunyai hubungan yang negatif melalui tiga indikator yaitu
+pendidikan, kesehatan dan daya beli masyarakat akan suatu barang dan jasa yang dapat
+menyebabkan pergeseran terhadap permintaan tenaga kerja. Apabila nilai IPM suatu
+wilayah tinggi akan mengakibatkan penurunan tingkat pengangguran dan sebaliknya
+ketika nilai IPM rendah dapat meningkatkan tingkat pengangguran di suatu wilayah
+tersebut. Keadaan ini dapat dilihat pada Gambar 2.5 berikut ini:
+Upah
+
+S
+A
+
+B
+
+C
+
+Kebijakan Upah
+Minimum
+
+E2
+W2
+
+E1
+
+W1
+
+D2
+D1
+O
+
+L3
+
+Borjas, George J, 2008
+
+L1
+
+L2
+
+L4
+
+Tenaga kerja
+
+Sumber:
+65
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+Gambar 2.5
+Pergeseran Kurva Permintaan Tenaga Kerja
+
+Berdasarkan Gambar 2.5 menunjukkan bahwa kurva permintaan tenaga kerja
+adalah D1 dan kurva penawaran tenaga kerja adalah S1 dengan titik E1 sebagai titik
+keseimbangan dengan upah sebesar W1 dan jumlah tenaga kerja sebesar L1. Setelah
+terjadi peningkatan permintaan tenaga kerja akibat dari meningkatnya IPM maka kurva
+permintaan tenaga kerja bergeser ke kanan dari D1 menjadi D2 dengan titik
+keseimbangan menjadi E2. Sebelum IPM meningkat, tingkat pengangguran sebesar L3L4
+atau sebesar titik AC, Kemudian setelah IPM meningkat yang ditandai dengan kenaikan
+permintaan tenaga maka tingkat pengangguran turun sebesar L1L4 atau sebesar titik BC.
+
+METODE PENELITIAN
+Objek pada penelitian ini terdiri dari tingkat pengangguran sebagai variabel
+dependen sedangkan Indeks Pembangunan Manusia (IPM), investasi dan Upah
+Minimum Kabupaten/kota (UMK) sebagai variabel independen. Jenis data yang
+digunakan dalam penelitian ini berupa data sekunder yang diperoleh dari internet
+melalui website resmi yang dipublikasikan yaitu Badan Pusat Statistik (BPS) Indonesia
+dan Provinsi Banten serta data pendukung yang diperoleh dari referensi jurnal
+penelitian.
+Metode analisis data pada penelitian ini menggunakan metode data panel yaitu
+data dengan menggabungkan antara data runtun waktu dan data silang. Menurut
+(Nachrowi, 2006) terdapat tiga estimasi model yang akan dipilih diantaranya Common
+Effect Model (CEM), Fixed Effect Model (FEM) dan Random Effect Model (REM). Dalam
+memilih model yang paling tepat untuk regresi data panel terdapat beberapa pengujian
+yang dapat dilakukan antaranya yaitu Chow Test dan Hausmant Test.
+Menurut Suharyadi (2009), untuk mendeteksi pelanggaran asumsi terdapat
+empat asumsi yang harus terpenuhi diantaranya yaitu normalitas, multkolinearitas,
+heteroskedastisitas dan autokorelasi. Sedangkan, uji hipotesis pada penelitian ini yaitu
+uji t statistik, uji F statistik, dan uji determinasi. Berdasarkan tujuan dari penelitian ini
+maka secara matematis model yang digunakan adalah:
+TP=α+β1IPMit+β2INVit+β3UMKit+ε
+Dimana:
+TP
+:Tingkat Pengangguran
+IPM :Indeks Pembangunan Manusia
+INV :Investasi
+UMK :Upah Minimum Kabupaten/kota.
+HASIL DAN PEMBAHASAN
+Estimasi data panel memiliki tiga pendekatan yaitu Common Effect Model (CEM),
+Fixed Effect Model (FEM), dan Random Effect Model (REM). Dalam menentukan model
+penelitian ini menggunakan Chow Test dan Hausman Test. Berdasarkan hasil ke-2 uji
+tersebut menunjukkan bahwa Fixed Effect Model lebih tepat digunakan pada penelitian
+66
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+ini. Hasil estimasi data panel menggunakan Fixed Effect Model dapat dilihat pada tabel
+berikut ini:
+Tabel 4.3
+Regresi Data Panel Fixed Effect Model (FEM)
+
+Variabel Dependen = Tingkat Pengangguran (TP)
+Variabel Independen = Indeks Pembangunan Manusia (IPM), Investasi (INV) dan
+Upah Minimum Kabupaten/Kota (UMK)
+Variabel
+C
+IPM
+INV
+UMK
+Kabupaten Pandeglang
+Kabupaten Lebak
+Kabupaten Tangerang
+Kabupaten Serang
+Kota Tangerang
+Kota Cilegon
+Kota Serang
+Kota Tangerang Selatan
+
+R-squared
+Adjusted R-squared
+S.E. of regression
+F-statistic
+Prob(F-statistic)
+R-squared
+Sum squared resid
+
+Koefisien
+Std. Error
+7.476910
+3.345985
+-2.345112
+2.031292
+-0.060505
+0.008458
+-0.424266
+0.173149
+Koefisien Fixed Effect
+-0.219916
+-0.256127
+0.135307
+0.134124
+0.086631
+0.117791
+0.048790
+-0.046600
+
+t-Statistik
+2.234592
+-1.154493
+-7.153236
+-2.450299
+
+Weighted Statistics
+0.852468 Mean dependent var
+0.767112 S.D. dependent var
+0.070305 Sum squared resid
+8.815659 Durbin-Watson stat
+
+Prob.
+0.0033
+0.0257
+0.0000
+0.0205
+
+1.218637
+0.435184
+0.153341
+2.024639
+
+0.000002
+
+Unweighted Statistics
+0.724534 Mean dependent var
+0.146113 Durbin-Watson stat
+
+1.004689
+1.659449
+
+Sumber: Output Eviews7
+
+Berdasarkan hasil estimasi data panel menggunakan Fixed Effect Model (FEM)
+pada Tabel 4.3 diperoleh nilai determinasi (Adjusted R2) Weighted Statistics sebesar
+0.767112 yang menunjukkan bahwa 76.7112% tingkat pengangguran pada
+kabupaten/kota di Provinsi Banten dapat dijelaskan oleh variabel independen pada
+penelitian ini sedangkan sisanya 23,2888% dijelaskan oleh variabel lain diluar model
+pada penelitian ini. Hasil estimasi ini diperkuat dengan nilai probabilitas F-statistik yang
+signifikan pada tingkat kepercayaan 5 % yaitu sebesar 0.000002 yang menunjukkan
+bahwa semua variabel independen berpengaruh secara nyata terhadap variabel
+dependen sehingga model penduga sudah layak untuk menduga parameter yang ada
+dalam fungsi.
+Dalam pemilihan metode data panel pada penelitian ini menggunakan Chow Test
+dan Hausman Test. Hasil dari ke-2 pengujian tersebut adalah sebagai berikut:
+67
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+1. Chow Test, digunakan untuk memilih apakah model yang tepat digunakan pada
+penelitian yaitu Common Effect Model atau Fixed Effect Model. Hasil pengujian
+diperoleh nilai F-statistik sebesar 11.321787 lebih besar dari n nilai d.f yaitu sebesar
+(7,29) dan probabilitas Cross-Section F sebesar 0,0000 yang lebih kecil dari taraf
+nyata 5%. Berdasarkan hal tersebut model yang baik digunakan pada penelitian ini
+yaitu Model Fixed Effect
+2. Hausmant Test, digunakan untuk memilih apakah Model Random Effect atau Model
+Fixed Effect yang akan digunakan pada penelitian. Berdasarkan hasil pengujian
+diperoleh nilai Chi-Square statistik sebesar 43.572986 dan nilai Chi-Square tabel
+sebesar 7,81. Berdasarkan hasil tersebut maka dapat disimpulkan bahwa model yang
+baik digunakan pada penelitian ini yaitu Fixed Effect.
+Hasil Uji Asumsi Klasik
+Hasil dari ke-4 uji asumsi klasik tersebut adalah sebagai berikut:
+1. Uji Normalitas
+Berdasarkan hasil uji normalitas diperoleh nilai Jarque-Bera sebesar 0,510891, nilai
+tersebut lebih kecil dari nilai Chi-Square yaitu 7,82 dan nilai probability sebesar 0,774571
+lebih besar dari taraf nyata 5%. Hal ini dapat disimpulkan bahwa residual terdistribusi
+dengan normal.
+2. Uji Multikolinearitas
+Berdasarkan hasil uji multikolinearitas menunjukkan bahwa setiap variabel
+independen yaitu Indeks Pembangunan Manusia (IPM), investasi dan Upah Minimum
+Kabupaten/kota (UMK) memiliki nilai Correlation Matrix kurang dari 0,80. Hal ini dapat
+disimpulkan bahwa pada model penelitian ini tidak mengandung multikolinearitas.
+3. Uji Heteroskedastisitas
+Berdasarkan hasil uji heteroskedastisitas diperoleh nilai Sum Squared pada Weighted
+Statistics sebesar 0.153341 dan nilai Sum Squared pada Unweighted Statistics sebesar
+0.146113. Nilai yang diperoleh bahwa Sum Squared pada Weighted Statistics lebih besar
+dari nilai Sum Squared pada Unweighted Statistics sehingga model regresi data panel
+pada penelitian ini tidak terdeteksi adanya heteroskedastisitas.
+4. Uji Autokorelasi
+Berdasarkan hasil uji autokorelasi diperoleh nilai Durbin-Watson yaitu sebesar
+2.024639 dengan nilai n = 40 dan k = 3, maka diperoleh nilai tabel Durbin-Watson yaitu
+dL sebesar 1,119 dan dU sebesar 1,924. Hal ini atas menujukkan bahwa nilai DurbinWatson berada pada daerah dU dan 4-dU. Berdasarkan hal tersebut maka dapat
+disimpulkan bahwa pada model regresi data panel pada penelitian ini tidak terdapat
+autokorelasi.
+Pengaruh Indeks
+Pengangguran
+
+Pembangunan
+
+Manusia
+
+(IPM)
+
+Terhadap
+
+Tingkat
+
+Berdasarkan hasil regresi data panel dengan pendekatan Fixed Effect Model
+(FEM) menunjukkan bahwa Indeks Pembangunan Manusia (IPM) berpengaruh signifikan
+68
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+dengan arah yang negatif terhadap tingkat pengangguran. Apabila indeks pembangunan
+manusia meningkat maka tingkat pengangguran di Provinsi Banten akan menurun.
+Hal ini sesuai dengan teori yang dijelaskan oleh (Todaro, 2000) bahwa melalui
+meningkatkan pembangunan modal manusia (human capital) dan pengembangan untuk
+meningkatkan produktivitas manusia. Melalui investasi pendidikan diharapkan akan
+mampu meningkatkan kualitas Sumber Daya Manusia (SDM) yang diperlihatkan dengan
+meningkatnya pengetahuan dan keterampilan seseorang sehingga akan mendorong
+peningkatan produktivitas kerjanya. Peningkatan produktivitas dapat mempengaruhi
+kesempatan kerja yaitu dengan adanya peningkatan produktivitas maka terjadi
+penurunan biaya produksi per unit barang. Penurunan biaya produksi per unit barang
+akan menurunkan harga per unit barang. Jika harga barang turun maka permintaan
+terhadap barang naik yang akan mendorong pengusaha untuk menambah permintaan
+tenaga kerja, sehingga dengan penyerapan tenaga kerja yang semakin banyak dapat
+mengurangi tingginya tingkat pengangguran.
+Pengaruh Investasi Terhadap Tingkat Penganguran
+Berdasarkan hasil regresi data panel dengan Fixed Effect Model (FEM)
+menunjukkan bahwa variabel investasi berpengaruh signifikan dengan arah yang negatif
+terhadap tingkat pengangguran. Hal ini dapat diartikan bahwa semakin besar investasi
+yang ditanam maka akan menurunkan tingkat pengangguran dan begitu juga
+sebaliknya.Hasil pada penelitan ini sesuai dengan Teori Harrod-Domar yang menjelaskan
+bahwa investasi tidak hanya menciptakan permintaan tetapi juga meningkatkan
+kapasitas produksi. Peningkatan produksi akan menciptakan kesempatan kerja yang
+selanjutnya akan meningkatkan permintaan tenaga kerja. Ketika permintaan tenaga
+kerja meningkat maka tingkat pengangguran akan menurun.
+Pengaruh Upah
+pengangguran
+
+Minimum
+
+Kabupaten/Kota
+
+(UMK)
+
+Terhadap
+
+Tingkat
+
+Berdasarkan hasil regresi data panel menggunakan Fixed Effect Model
+menunjukkan bahwa variabel Upah Minimum Kabupaten/kota (UMK) berpengaruh
+negatif dan signifikan terhadap tingkat pengangguran di Provinsi Banten. Hal ini dapat
+diartikan bahwa apabila Upah Minimum Kabupaten/kota (UMK) meningkat maka tingkat
+pengangguran di Provinsi Banten akan menurun.
+Hasil pada penelitian ini sesuai dengan Teori model dual sektor yang menyatakan
+bahwa turunnya tingkat pengangguran ini disebabkan karena setelah terdapat kebijakan
+upah minimum yang meningkat setiap tahunnya menyebabkan permintaan tenaga kerja
+di sektor formal lebih sedikit sehingga masyarakat memilih berpindah ke sektor informal.
+Berpindahnya masyarakat ke sektor informal maka mereka akan tetap mendapatkan
+pekerjaan dan tidak kehilangan pekerjaannya (Wijaya, 2014).
+Estimasi data panel memiliki tiga pendekatan yaitu Common Effect Model (CEM),
+Fixed Effect Model (FEM), dan Random Effect Model (REM). Dalam menentukan model
+penelitian ini mengunakan Chow Test dan Hausman Test. Berdasarkan hasil ke-2 uji
+tersebut menunjukkan bahwa Fixed Effect Model lebih tepat digunakan pada penelitian
+ini.
+69
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+Hasil estimasi data panel menggunakan Fixed Effect Model (FEM) diperoleh nilai
+koefisien intersep (C) yaitu 7.476910, koefisien Indeks Pembangunan Manusia (IPM)
+yaitu -2.345112, koefisien investasi (INV) yaitu -0.060505 dan koefisien Upah Minimum
+Kabupaten/kota (UMK) sebesar -0.424266. Nilai determinasi (Adjusted R2) Weighted
+Statistics sebesar 0.767112 yang menunjukkan bahwa 76.7112 persen tingkat
+pengangguran pada kabupaten/kota di Provinsi Banten dapat dijelaskan oleh variabel
+bebas pada penelitian ini sedangkan sisanya 23,2888 persen dijelaskan oleh variabel
+lain diluar model pada penelitian ini. Hasil estimasi ini diperkuat dengan nilai probabilitas
+F-statistik yang signifikan pada tingkat kepercayaan 5 % (0,05) yaitu sebesar 0.000002
+yang menunjukkan bahwa semua variabel bebas berpengaruh secara nyata terhadap
+variabel terikat.
+SIMPULAN DAN SARAN
+Berdasarkan hasil dan pembahasan pada penelitian ini dapat disimpulkan sebagai
+berikut:
+1. Variabel Indeks Pembangunan Manusia (IPM) berpengaruh negatif dan signifikan
+terhadap tingkat pengangguran di Provinsi Banten. Hal ini menunjukkan bahwa
+semakin besar nilai Indeks Pembangunan Manusia (IPM) maka semakin kecil
+tingkat pengangguran.
+2. Variabel investasi berpengaruh negatif dan signifikan terhadap tingkat
+pengangguran di Provinsi Banten. Hal ini berarti bahwa semakin besar nilai
+investasi maka semakin kecil tingkat pengangguran.
+3. Variabel Upah Minimum Kabupaten/kota (UMK) berpengaruh signifikan dengan
+arah negatif terhadap tingkat pengangguran di Provinsi Banten. Hal ini berarti
+bahwa semakin tinggi Upah Minimum Kabupaten/kota (UMK) maka semakin kecil
+tingkat pengangguran.
+4. Variabel Indeks Pembangunan Manusia (IPM), investasi dan Upah Minimum
+Kabupaten/kota (UMK) secara bersama-sama berpengaruh signifikan terhadap
+tingkat pengangguran di Provinsi Banten. Hal ini terlihat dari besarnya nilai Fstatistik yaitu 8.815659 dan nilai probabilitasnya sebesar 0.000002 < taraf 5%.
+Berdasarkan kesimpulan pada penelitian ini, maka penulis memberikan saran,
+baik kepada pemerintah maupun kepada pembaca diantaranya:
+1. Pemerintah Provinsi Banten diharapkan lebih memperhatikan pembangunan
+manusia. Melalui peningkatan pembangunan manusia diharapkan dapat
+meningkatkan kualitas manusia dan pada akhirnya dapat mengurangi tingginya
+tingkat pengangguran yang terjadi di Provinsi Banten.
+2. Pemerintah Provinsi Banten hendaknya berinvestasi yang berorientasi pada padat
+karya. Dengan melakukan investasi padat karya diharapkan dapat menyerap
+besarnya angkatan kerja yang siap bekerja sehingga masalah pengangguran di
+Provinsi Banten dapat berkurang.
+70
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+3. Penelitian ini diharapkan dapat digunakan sebagai acuan dalam melakukan
+penelitian lanjutan dengan kasus yang sama dan dengan penambahan data,
+menggunakan metode lain atau dengan menambahkan variabel yang diduga dapat
+mempengaruhi tingkat pengangguran sehingga diperoleh informasi yang lebih
+akurat.
+REFERENSI
+Abbas. (2010). Strategi dan Pilihan Mengajar Berbasis Sekolah. Jakarta. Grassindo.
+Aqil, Muhammad dkk. (2014). Determinants Of Unemployment In Pakistan . Ejournal of
+Physical and Social Sciences, 4(4).
+Borjas, George. 2008. Labor Economics. McGraw-Hill Irwin. United States.
+Gilarso, T. 2004. Pengantar Ilmu Ekonomi Makro. Yogyakarta. Kanisius.
+Gujarati, Damodar N. 2006. Essentials Of Econometrics. Jakarta: Erlangga.
+Juanda, Bambang. 2009. Metodologi Penelitian Ekonomi dan Bisnis. Edisi Kedua. Bogor.
+IPB Press.
+Komalasari, Yeyen dan Trimurti, Christimulia Purnama (2014). Determinants of
+Unemployment: Empirical Evidences From 7 Province In Indonesia. Ejournal
+Ekonomi Pembangunan, 2(8). Universitas Udayana. Bali.
+Mankiw, N.Gregory. 2003, Teori Makro Ekonomi, Edisi Kelima, Alih Bahasa. Imam
+Nurmawan, Penerbit Erlangga, Jakarta.
+Nachrowi D, Hardius Usman. 2006. Pendekatan Populer dan Praktis Ekonometrika Untuk
+Analisis Ekonomi dan Keuangan. Jakarta: Fakultas Ekonomi Universitas
+Indonesia.
+Nanang, Fattah. 2004. Konsep Manajemen Berbasis Sekolah dan Dewan Sekolah.
+Bandung. Bani Quraisy.
+Napitulu, Apriliyah S. 2007. Pengaruh Indikator Komposit Indeks Pembangunan Manusia
+Terhadap Penurunan Penduduk Miskin di Sumatera Utara. Fakultas Ekonomi.
+Universitas Sumatera Utara.
+Nurcholis, Muhammad. 2014. Analisis Pengaruh Pertumbuhan Ekonomi, Upah Minimum
+
+dan Indeks Pembangunan Manusia Terhadap Tingkat Pengangguran di Provinsi
+Jawa Timur Tahun 2008-2014. Jurnal Ekonomi Pembangunan, 12(1). Universitas
+Muhammadiyah Malang.
+
+Rahmadin, dkk. (2013). Pengaruh Investasi dan Pertumbuhan Ekonomi Terhadap
+Tingkat Pengangguran di Provinsi Aceh. Jurnal Ilmiah Ekonomi, 1(4). Universitas
+Syiah Kuala. Banda Aceh.
+Simanjuntak, Payaman J. 2001. Ekonomi Sumber Daya Manusia. Lembaga Penerbit
+Fakultas Ekonomi Universitas Indonesia. Jakarta.
+Simanjuntak, Payaman J. 2003. Produktivitas Kerja Pengertian dan Ruang Lingkupnya.
+Prisma. Jakarta.
+71
+
+Jurnal Ekonomi-Qu
+
+Vol. 9, No. 1, April 2019
+
+(Jurnal Ilmu Ekonomi)
+
+Sisnita, Aisyah. 2017. Analisis Faktor-Faktor yang Mempengaruhi Tingkat Pengangguran
+Terbuka di Provinsi Lampung (Periode 2009-2015). Karya Ilmiah. Universitas
+Muhammadiyah Yogyakarta
+Sugiyono. 2010. Metode Penelitian Kuantitatif Kualitatif & RDN. Bandung: Alfabeta.
+Suharyadi dan Purwanto. 2009. Statistika untuk Ekonomi dan Keuangan Modern. Edisi
+Kedua. Jakarta: Salemba Empat.
+Sukirno, Sadono. 2008. Makro Ekonomi Modern. Jakarta: PT. Raja Grafindo Pestada.
+Todaro, Michael P. 2003. Pembangunan Ekonomi di Dunia Ketiga. Edisi Kedelapan.
+Jakarta: Erlangga.
+
+72
+
+

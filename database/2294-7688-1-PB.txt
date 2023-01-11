@@ -1,0 +1,932 @@
+Analitika: Jurnal Magister Psikologi UMA, Vol. 11 (1) Juni (2019)
+ISSN: 2085-6601 (Print), ISSN: 2502-4590 (Online),
+DOI: http://dx.doi.org/10.31289/analitika.v11i1.2294
+
+ANALITIKA
+Jurnal Magister Psikologi UMA
+Available online http://ojs.uma.ac.id/index.php/ analitika
+
+Trend Literasi Kesehatan Mental
+Trend of Mental Health Literacy
+Azmul Fuady Idham*1), Puji Rahayu2), Azzah A. As-Sahih3),
+Syurawasti Muhiddin4) & M. Arief Sumantri5)
+1) 2) 5) Fakultas Psikologi, Universitas Airlangga, Indonesia
+3) 4) Official member of Halo Jiwa, Indonesia
+
+Diterima: 5 Maret 2019, disetujui: 24 Juni 2019, dipublish: 29 Juni 2019
+*Corresponding author: E-mail: azmulpsy@gmail.com
+Abstrak
+Penelitian ini merupakan preliminary study, bertujuan untuk mengetahui trend literasi kesehatan mental pada
+mahasiswa Indonesia. Menggunakan pendekatan kuantitatif dengan analisis deskriptif dan tidak bertujuan untuk
+menggeneralisasi suatu populasi diwilayah tertentu. Pengukuran mengadopsi alat ukur Mental Health Literacy
+yang dikembangkan oleh Jung, Strenberg & Davis, sebanyak 501 mahasiswa dari berbagai provinsi terlibat dalam
+penelitian ini.. Hasil penelitian menunjukkan bahwa sebagian besar mahasiswa (54,1%) memiliki tingkat literasi
+kesehatan mental yang tinggi, dalam penelitian ini juga tidak didapatkan perbedaan literasi kesehatan mental
+antara laki-laki dan perempuan. Di Indonesia, penelitian literasi kesehatan mental masih belum banyak dilakukan,
+perlu diadakannya penyebaran informasi secara massif mengenai kesehatan mental baik melalui media online dan
+cetak. Meningkatnya mental health literacy secara otomatis akan meningkatkan pengetahuan individu terhadap
+penanganan gangguan mental, baik pada diri sendiri maupun ketika memberikan pertolongan pertama pada
+individu lain, sehingga dampak dari meningkatnya literasi kesehatan mental tidak hanya pada mahasiswa, tetapi
+juga mencakup seluruh lapisan masyarakat lainnya.
+Kata kunci: Kesehatan Mental, Literasi Kesehatan Mental
+
+Abstract
+This research is a preliminary study, aiming to determine the mental health literacy trend in Indonesian college
+students. Using a quantitative approach with descriptive analysis and not aiming at generalizing a population in a
+particular region. Measurements adopted by the Mental Health Literacy measure developed by Jung, Strenberg &
+Davis, as many as 501 students from various provinces were involved in this study. The results showed that most
+students (54.1%) had a high level of mental health literacy in this study also found no difference in mental health
+literacy between men and women. In Indonesia, mental health literacy research is still not much done, it is necessary to
+hold massive information dissemination on mental health through both online and print media. The increasing of
+mental health literacy will increase individual knowledge of the handling of mental disorders, good to himself and also
+when giving first aid to other individuals, so that the impact of increasing mental health literacy is not only for college
+students, but also covers all the other layers of society.
+Keywords: Mental Health, Mental Health Literacy
+
+How to Cite: Idham, A.F., Rahayu, P., As-Sahih, A.A., Muhiddin, S., Sumantri, M.A. (2019), Trend Literasi
+Kesehatan Mental, Analitika: Jurnal Magister Psikologi UMA, 11 (1): 12 – 20
+
+12
+
+Azmul Fuady Idham, Puji Rahayu, Azzah A. As-Sahih,
+Syurawasti Muhiddin & M. Arief Sumantri, Trend Literasi Kesehatan Mental
+
+PENDAHULUAN
+Kesehatan mental telah mendapat
+perhatian berlebih dalam pembangunan
+kesehatan global, mengingat dampak
+serius yang diakibatkan oleh lemahnya
+kondisi kesehatan mental. World Health
+Organization (2012) menunjukkan Studi
+Global Burden of Disease yang dilakukan
+oleh IMHE (The Institute for Health
+Metrics and Evaluation) perihal peta
+beban penyakit di seluruh dunia, data
+years lost due to disability (YLD) dari
+studi tersebut menyebutkan bahwa 6
+dari 20 jenis gangguan yang dianggap
+paling bertanggung jawab sebagai
+penyebab disabilitas adalah gangguan
+mental (Ridlo & Zein, 2018).
+Salah satu bentuk gangguan
+mental yang cukup menyita perhatian
+dunia adalah depresi, data terakhir dari
+World Health Organization (2017),
+menunjukkan jumlah kasus depresi di
+Indonesia mencapai 9.162.886 kasus
+atau 3,7% dari populasi. Zisook (dalam
+Pedrelli, Nyer, Yeung, Zulauf, & Wilens,
+2015) menemukan bahwa lebih dari
+setengah pada semua kasus depresi
+terjadi pada masa kanak-kanak, remaja,
+dan dewasa awal. Depresi juga
+merupakan masalah kesehatan mental
+yang umum terjadi pada mahasiswa
+dengan
+tingkat
+prevalensi
+7-9%
+(Eisenberg, Hunt & Speer dalam Pedrelli,
+dkk., 2015). Tahun 2012, penelitian cross
+sectional study yang dilakukan oleh
+Maulida pada 32 mahasiswa program
+sarjana yang melakukan konseling
+menemukan bahwa 15.6% mahasiswa
+mengalami depresi minimal, 21.9%
+mengalami depresi ringan, 46.9%
+mahasiswa depresi sedang, dan 15.6%
+mahasiswa mengalami depresi berat.
+
+Kebanyakan mahasiswa yang mengalami
+masalah umum dalam kesehatan mental
+cenderung melaporkan sikap negatif dan
+intensi yang rendah untuk mencari
+konseling (Cheng, McDermott & Lopez,
+2015).
+Jorm, Korten, Jacomb, Rodgers
+Christensen, & Pollitt (1997) kemudian
+mencetuskan istilah literasi kesehatan
+mental (mental health literacy) yang
+merupakan faktor penting berkaitan
+dengan
+aspek-aspek
+kepedulian
+terhadap kesehatan mental, termasuk
+perilaku mencari bantuan, menolong
+orang yang memiliki gangguan kesehatan
+mental dan stigma (Jung, Sternberg &
+Davis, 2016). Literasi kesehatan mental
+merupakan
+pengetahuan
+dan
+kepercayaan tentang gangguan mental
+yang
+membantu
+individu
+untuk
+mengenali, mengelola dan mencegah
+gangguan mental tersebut. Semakin
+tinggi pemahaman masyarakat terkait
+kesehatan mental, mereka semakin dapat
+mendeteksi gangguan mental dan
+mengelolanya secara efektif (Jorm dkk.,
+1997).
+Jorm
+(2012)
+kemudian
+menyempurnakan
+definisi
+literasi
+kesehatan mental (mental health
+literacy)
+dengan
+memasukkan
+pengetahuan yang bermanfaat bagi
+kesehatan mental seseorang, termasuk
+pengetahuan tentang mengenali dan
+mencegah gangguan mental, strategi selfhelp yang efektif untuk masalah ringan
+hingga sedang, serta keterampilan untuk
+memberikan pertolongan pertama ketika
+membantu
+orang
+lain.
+Dengan
+meningkatkan mental health literacy
+maka pengetahuan terhadap penanganan
+gangguan mental, baik pada diri sendiri
+
+13
+
+Analitika: Jurnal Magister Psikologi UMA, 11 (1) (2019): 12 - 20
+
+maupun dalam memberikan pertolongan
+pertama pada orang lain akan semakin
+meningkat. Jorm (2012) mengungkapkan
+bahwa individu dengan mental health
+literacy tinggi lebih mungkin mengenali
+penyakit mental dan mengidentifikasi
+sumber perawatan yang tepat ketimbang
+individu dengan mental health literacy
+rendah yang cenderung menggunakan
+strategi koping yang tidak tepat seperti
+penggunaan alkohol dan obat-obatan
+lainnya. Penelitian ini merupakan
+preliminary study yang bertujuan untuk
+mengetahui trend literasi kesehatan
+mental pada mahasiswa Indonesia.
+Diharapkan dengan penelitian ini,
+terdapat data yang dapat menjadi dasar
+dalam merumuskan kebijakan ataupun
+rencana-rencana
+strategis
+terkait
+kesehatan mental.
+METODE PENELITIAN
+Penelitian
+ini
+menggunakan
+variabel tunggal, yaitu mental health
+literacy dengan pendekatan kuantitatif.
+Pengambilan data dimulai pada tanggal 9
+Oktober 2018 hingga 7 Januari 2019
+dengan menyebarkan kuesioner secara
+online melalui pesan elektronik maupun
+sosial media. Penelitian ini tidak
+dimaksudkan untuk menggeneralisasi
+suatu
+populasi
+wilayah
+tertentu,
+sehingga
+pengisian
+kuesioner
+dibebaskan agar dapat diisi oleh
+mahasiswa Indonesia dari berbagai
+daerah. Pengukuran mengadopsi alat
+ukur Mental Health Literacy Scale dari
+Jung dkk.,(2016) yang digunakan untuk
+mengetahui tingkat literasi kesehatan
+mental dan kebutuhan terhadap edukasi
+kesehatan mental (Jung dkk., 2016). Alat
+ukur MHL terdiri dari tiga dimensi yaitu,
+
+knowledge
+(pengetahuan),
+belief
+(kepercayaan), dan resource (sumber
+daya).
+HASIL DAN PEMBAHASAN
+Jumlah responden yang berhasil
+terkumpul sebanyak 501 mahasiswa,
+berasal dari berbagai Perguruan Tinggi
+di Indonesia dengan berbagai latar
+bidang ilmu. Mahasiswa dipilih sebagai
+responden
+berdasarkan
+penelitianpenelitian sebelumnya menunjukkan
+bahwa tingkat literasi kesehatan mental
+juga berhubungan erat dengan tingkat
+usia dan pendidikan (dalam Furnham &
+Swami, 2018).
+Sebelum melakukan kategorisasi
+tingkat mental health literacy pada
+responden, terlebih dahulu ditampilkan
+data demografi responden. Berikut
+bawah ini merupakan rincian data
+karakteristik demografi dari responden.
+Tabel 1.
+Jenis Kelamin
+Jenis Kelamin
+
+Frekuensi
+
+Persentase
+
+Laki-Laki
+Perempuan
+Total
+
+78
+423
+501
+
+15.6%
+84.4%
+100%
+
+Berdasarkan tabel frekuensi,
+jumlah total responden terbanyak adalah
+perempuan dengan jumlah 423 (84,4%),
+kemudian jumlah responden laki-laki
+sebanyak 78 mahasiswa (15,56 %).
+Tabel 2.
+Asal Provinsi
+Provinsi
+Jawa Timur
+DKI Jakarta
+Sulawesi
+Selatan
+
+Frekuensi
+
+Persentase
+
+98
+69
+
+19.6 %
+13.8 %
+
+62
+
+12.4 %
+
+14
+
+Azmul Fuady Idham, Puji Rahayu, Azzah A. As-Sahih,
+Syurawasti Muhiddin & M. Arief Sumantri, Trend Literasi Kesehatan Mental
+Sumatera
+Utara
+Jawa Barat
+Jawa Tengah
+Kalimantan
+Selatan
+Yogyakarta
+Tidak
+Disebutkan
+Kuliah Di Luar
+Negeri
+Sumatera
+Barat
+Aceh
+Banten
+Sulawesi
+Tengah
+Bangka
+Belitung
+Kalimantan
+Timur
+Bali
+Nusa Tenggara
+Barat
+Gorontalo
+Jambi
+Jawa Tengah
+Kepulauan
+Riau
+Lampung
+Nusa Tenggara
+Timur
+Papua
+Riau
+Sumatera
+Selatan
+Total
+
+53
+
+10.6 %
+
+44
+31
+
+8.8 %
+6.2 %
+
+27
+
+5.4 %
+
+23
+
+4.6 %
+
+21
+
+4.2 %
+
+17
+
+3.4 %
+
+15
+
+3.0 %
+
+13
+5
+
+2.6 %
+1.0 %
+
+4
+
+0.8 %
+
+3
+
+0.6 %
+
+3
+
+0.6 %
+
+2
+
+0.4 %
+
+2
+
+0.4 %
+
+1
+1
+1
+
+0.2 %
+0.2 %
+0.2 %
+
+1
+
+0.2 %
+
+1
+
+0.2 %
+
+1
+
+0.2 %
+
+1
+1
+
+0.2 %
+0.2 %
+
+1
+
+0.2 %
+
+501
+
+100 %
+
+Berdasarkan tabel frekuensi,
+jumlah total responden terbanyak
+berasal dari Jawa Timur dengan jumlah
+98 (19,6%), kemudian DKI Jakarta
+sebanyak 69 (13,8%), Sulawesi Selatan
+sebanyak 62 (12,4%), Sumatera Utara
+sebanyak 53 (10,6%), Jawa Barat
+sebanyak 44 (8,8%) hingga yang paling
+sedikit dari Sumatera Selatan sebanyak 1
+mahasiswa (0,2%).
+Tabel 3.
+Range Usia
+Range Usia
+
+Frekuensi
+
+Persentase
+
+17-20 tahun
+21-25 tahun
+26-29 tahun
+
+227
+235
+31
+
+45.3 %
+46.9 %
+6.2 %
+
+30- tahun
+Tidak disebutkan
+Total
+
+7
+1
+501
+
+1.4 %
+0.2 %
+100 %
+
+Berdasarkan tabel frekuensi,
+jumlah total responden terbanyak
+berada pada rentang usia 17-20 tahun
+sebanyak 227 mahasiswa (45,3%),
+kemudian 21 hingga 25 tahun sebanyak
+235 (46,9%), 26-29 tahun sebanyak 31
+(6,2%), dan diatas 30 tahun sebanyak 7
+mahasiswa (0,2%).
+Tabel 4.
+Tingkat Mental Health Literacy
+
+Tinggi
+Rendah
+Total
+
+Frekuensi
+
+Percent
+
+Valid
+Percent
+
+Cumulative
+Percent
+
+271
+230
+501
+
+54.1
+45.9
+100.0
+
+54.1
+45.9
+100.0
+
+54.1
+100.0
+
+Pada tabel frekuensi terlihat
+jumlah mahasiswa dengan tingkat
+literasi kesehatan mental tinggi sebanyak
+271 mahasiswa (54,1 %) dan sebanyak
+230 mahasiswa (45,9 %) memiliki
+tingkat literasi kesehatan mental (mental
+health literacy) rendah.
+
+Pada Bar charts percent dapat
+terlihat perbandingan dari frekuensi
+mahasiswa yang memiliki mental health
+literacy tinggi dan rendah.
+
+15
+
+Analitika: Jurnal Magister Psikologi UMA, 11 (1) (2019): 12 - 20
+Tabel 5
+Uji Perbedaan
+Hasil
+Mann-Whitney U
+Wilcoxon W
+Z
+Asymp. Sig. (2-tailed)
+
+15887.000
+18968.000
+-.522
+.602
+
+a. Grouping Variable: Jenis_K
+
+Hasil dari uji perbedaan Mann
+Whitney menunjukkan nilai Asymp. Sig
+.(2-tailed) sebesar nilai 0,602 lebih besar
+dari 0,05 sehingga dapat disimpulkan
+bahwa tidak terdapat perbedaan antara
+perempuan dan laki-laki terkait tingkat
+literasi kesehatan mental. Untuk lebih
+mengetahui
+seberapa
+tren
+topik
+mengenai literasi kesehatan mental di
+Indonesia, peneliti menggunakan grafik
+dari Google Trends, berikut dibawah ini
+tampilan grafik pencarian “literasi
+kesehatan mental” melalui situs online di
+Indonesia dalam kurun waktu 5 tahun
+terakhir, diakses pada tanggal 25-022019:
+
+Dari gambar di atas, terlihat
+bahwa dalam kurun waktu lima tahun,
+dari lima kota teratas yang ditampilkan
+oleh google trends, diketahui bahwa
+jumlah pencarian topik dengan kata
+kunci mental health adalah 0% selain
+Yogyakarta (22%) dan Sulawesi Selatan
+(8%). Pencarian dengan kata kunci
+‘kesehatan mental’ menempati posisi
+teratas di Sumatera Barat (70%), disusul
+oleh Aceh (61 %) dan Lampung (59%).
+Pencarian dengan kata ‘kesehatan jiwa’
+paling banyak di Sulawesi Selatan (52%).
+Sementara itu, pencarian dengan kata
+‘literasi kesehatan mental’ dan ‘literasi’
+adalah 0% pada lima kota teratas.
+SIMPULAN
+Perhitungan MHL menunjukkan
+bahwa jumlah mahasiswa dengan tingkat
+literasi kesehatan mental yang tinggi
+(271 atau sebesar 54,1 %) lebih banyak
+dari jumlah keseluruhan. Penelitian ini
+setidaknya berkorelasi dengan penelitian
+Gorczynski Sims-schouten, Hill, & Wilson
+(2017), dimana secara keseluruhan
+mahasiswa dengan literasi kesehatan
+mental tinggi lebih memungkinkan
+dalam mencari bantuan terkait masalah
+kesehatan mental, baik secara langsung
+maupun melalui cara lainnya. Gorczynski
+dkk., (2017) juga menambahkan bahwa
+meskipun banyak mahasiswa yang
+
+16
+
+Azmul Fuady Idham, Puji Rahayu, Azzah A. As-Sahih,
+Syurawasti Muhiddin & M. Arief Sumantri, Trend Literasi Kesehatan Mental
+
+berusaha keras dalam mengidentifikasi
+gejala permasalahan kesehatan mental,
+namun terdapat 42,3 % mahasiswa yang
+tidak
+mengetahui
+tempat
+untuk
+menemukan sumber daya yang memadai.
+Seperti dikemukakan oleh Hunt &
+Eisenberg (dalam Rafal, Gatto & Debate,
+2018) keterlambatan penanganan pada
+individu yang mengalami gangguan
+mental dapat berdampak negatif pada
+hubungan sosial, produktifitas serta
+kesuksesan akademiknya.
+Selanjutnya,
+rata-rata
+usia
+mahasiswa berada pada fase remaja
+akhir menuju dewasa awal (17 hingga 25
+tahun) yang merupakan fase produktif
+dalam kehidupan manusia, hal ini
+memungkinkan mahasiswa untuk lebih
+aktif mencari bantuan. Mereka yang
+menunjukkan niat untuk mencari
+bantuan terkait masalah kesehatan
+mental paling menyukai sumber yang
+berasal dari media online, keluarga dan
+teman ketimbang dari profesional medis
+seperti dokter umum. Saat ini era digital
+semakin
+berkembang,
+proses
+penyebaran informasi semakin cepat
+sehingga pengembangan E-Mental Health
+dalam berbagai wujud pemanfaatan
+teknologi dalam bidang promosi dan
+intervensi kesehatan mental sekiranya
+penting untuk dilakukan, semisal aplikasi
+layanan konseling online dan website
+yang
+berisi
+berbagai
+macam
+pengetahuan terkait gangguan mental
+dan cara penanganannya. Kebanyakan
+responden penelitian ini, berasal dari
+provinsi-provinsi di wilayah Indonesia
+Barat dan Tengah yang identik dengan
+kota-kota besar di Indonesia (Jawa
+Timur, DKI Jakarta, Sulawesi Selatan,
+Sumatera Utara, dan Jawa Barat). Hasil
+
+review dari Furnham & Hamid (2014)
+juga menunjukkan bahwa semakin
+berkembang suatu daerah, semakin
+tinggi pula literasi kesehatan mental
+masyarakatnya dimana daerah yang
+berkembang
+pada
+umumnya
+menerapkan fasilitas yang mendukung,
+termasuk layanan kesehatan mental.
+Pada penelitian ini, tidak ada
+perbedaan antara literasi kesehatan
+mental pada laki-laki dan perempuan
+sedangkan dalam penelitian lainnya,
+ditemukan adanya perbedaan MHL
+berdasarkan gender,dimana perempuan
+cenderung memiliki literasi kesehatan
+mental yang lebih baik dibandingkan
+laki-laki (dalam Furnham & Swami,
+2018). Studi-studi yang telah dilakukan
+juga menunjukkan hasil yang konsisten
+bahwa laki-laki pada berbagai level usia,
+keragaman etnis, dan latar belakang
+sosial, umumnya cenderung kurang
+menunjukkan perilaku mencari bantuan
+(help-seeking)
+profesional
+untuk
+mengatasi masalah kesehatan fisik dan
+mentalnya (Komiya, Good, & Sherrod,
+2000; Addis & Mahalik, 2003). Oleh
+karena itu beberapa implikasinya juga
+ditemukan dalam penelitian lain, bahwa
+laki-laki lebih cenderung menyarankan
+perawatan oleh diri sendiri untuk
+menangani gangguan mentalnya (Jorm,
+Nakane, Christensen, Yoshioka, Griffiths,
+& Wata, 2005) dan kecil kemungkinan
+untuk diberitahu tentang penyebabpenyebab gangguan mental (Wang,
+Adair, Fick, Lai, Evans, Perry, &
+Addington, 2007), sedang perempuan
+tampak lebih cenderung mendukung
+penjelasan psikologis tentang faktor yang
+menyebabkan gangguan mental, serta
+lebih terbuka terhadap pemberian
+
+17
+
+Analitika: Jurnal Magister Psikologi UMA, 11 (1) (2019): 12 - 20
+
+intervensi psikologis (Wang dkk., 2007).
+Berbagai faktor dikaitkan dengan literasi
+kesehatan mental dan perilaku mencari
+bantuan yang kurang pada laki-laki,
+diantaranya adalah attitude terhadap
+perilaku mencari bantuan yang kurang
+positif karena laki-laki cenderung
+menghindari
+untuk
+membicarakan
+tentang kejadian yang menimbulkan
+tekanan dan perasaan sakit yang
+dialaminya. Attitude yang kurang positif
+ini berkaitan dengan adanya norma
+maskulinitas dan stigma (LindingerSternart,
+2015),
+dimana
+norma
+maskulinitas (laki-laki) disebagian besar
+budaya-budaya didunia terkonstruksi
+sebagai sosok yang harus terlihat kuat,
+tidak emosional dan mandiri.
+Sebuah review terkait literasi
+kesehatan mental telah memaparkan
+bahwa faktor-faktor demografis memiliki
+hubungan dengan tinggi rendahnya
+tingkat literasi kesehatan mental. Usia
+yang lebih tua, kualifikasi pendidikan
+yang rendah, religiusitas, serta kurang
+atau tidak adanya pengalaman menderita
+gangguan
+mental
+kesemuanya
+diasosiasikan dengan literasi kesehatan
+mental yang rendah (dalam Furnham &
+Swami, 2018).
+Pada penelitian ini,
+responden merupakan mahasiswa S1
+dan S2 yang tentunya dengan kualifikasi
+pendidikan yang lebih tinggi lebih
+memungkinkan akses yang lebih besar
+terhadap informasi-informasi terkait
+kesehatan mental, baik dari universitas
+maupun
+sumber-sumber
+informasi
+lainnya.
+Seperti
+halnya
+Compton,
+Hankerson-Dyson & Broussard (2011)
+yang sangat menekankan pentingnya
+literasi kesehatan bukan hanya untuk
+
+individu dengan gangguan mental tetapi
+juga untuk keluarga dan para profesional
+kesehatan mental, beserta komunitaskomunitas
+yang
+mungkin
+belum
+memiliki pengalaman atau kurang dalam
+pengetahuan (awam) terkait gangguan
+mental, maka perkembangan teknologi
+informasi & komunikasi sebenarnya
+dapat dimanfaatkan untuk membantu
+masyarakat dalam upaya mencegah dan
+menangani gangguan mental. Upaya
+pencarian informasi-informasi terkait
+kesehatan mental di Indonesia sendiri
+memang telah aktif meskipun belum
+cukup besar, persentase terbesar
+pencarian informasi dengan kata kunci
+“kesehatan mental” baru mencapai 70%,
+itupun hanya mencover 1 provinsi dari
+34 provinsi yang ada di Indonesia
+berdasarkan tampilan google trends,
+padahal penggunaan media sosial,
+aplikasi smartphone dan online lainnya
+dapat
+sangat
+membantu
+dalam
+mengurangi kesenjangan besar antara
+kebutuhan & penanganan nyata pada
+kesehatan mental (Kohn, dalam Becker,
+2016), oleh karena itu sekiranya
+pengembangan E-Mental Health di
+Indonesia sangat perlu untuk terus
+ditingkatkan.
+Penelitian ini sendiri dilakukan
+hanya dalam range generalisasi secara
+umum, jadi tidak menggeneralisasi
+populasi dalam suatu wilayah tertentu,
+sehingga untuk penelitian-penelitian
+selanjutnya diharapkan agar lebih
+spesifik melakukan penelitian mengenai
+literasi kesehatan mental pada satu
+wilayah dan komunitas tertentu sehingga
+penelitian mengenai mental health
+literacy (literasi kesehatan mental) akan
+lebih luas dan beragam, terutama pada
+
+18
+
+Azmul Fuady Idham, Puji Rahayu, Azzah A. As-Sahih,
+Syurawasti Muhiddin & M. Arief Sumantri, Trend Literasi Kesehatan Mental
+
+masyarakat awam yang diasumsikan
+rentan pada permasalahan kesehatan
+mental, karna 6 dari 20 jenis gangguan,
+yang dianggap paling bertanggung jawab
+sebagai penyebab disabilitas adalah
+gangguan mental (dalam Ridlo & Zein,
+2018).
+Hasil penelitian menunjukkan
+dari keseluruhan jumlah responden,
+sebanyak 271 mahasiswa (54,1 %) dari
+501 mahasiswa memiliki tingkat literasi
+kesehatan mental yang tinggi. Sehingga
+dapat disimpulkan bahwa sebagian besar
+mahasiswa dalam penelitian ini memiliki
+tingkat literasi dan kebutuhan edukasi
+yang tinggi akan kesehatan mental.
+DAFTAR PUSTAKA
+Addis, Michael E & Mahalik, James R. (2003).
+Men, Masculinity, and the Contexts of
+Help Seeking. American Psychologist, 58
+(1), 5 - 14. DOI: 10.1037/0003-066X.58.1.5
+Becker,
+D.
+(2016).
+E-Mental
+Health:
+Contributions, Challenges, and Research
+Opportunities from a Computer Science
+Perspective dalam Encyclopedia of EHealth and Telemedicine, Chapter: 71. IGI
+Global.
+Cheng, H. L., McDermott, R. C., & Lopez, F. G.
+(2015). Mental health, self-stigma, and
+help-seeking intentions among emerging
+adults: An attachment perspective. The
+Counseling Psychologist, 43(3), 463-487.
+Compton, M. T., Hankerson-Dyson, D., &
+Broussard, B. (2011). Development, item
+analysis, and initial reliability and validity
+of a multiple-choice knowledge of mental
+illnesses test for lay samples. Psychiatry
+research, 189(1), 141-148.
+Furnham, A. & Swami, V. (2018). Mental health
+literacy: A review of what it is and why it
+matters. DOI: 10.1037/ipp0000094
+Google Trends. Literasi Kesehatan Mental.
+Diakses pada Februari 25, 2019 dari:
+https://trends.google.com/trends/
+Gorczynski, P., Sims-schouten, W., Hill, D. &
+Wilson, J.C. (2017). Examining mental
+health literacy, help seeking behaviours,
+and mental health outcomes in UK
+university students. The Journal of Mental
+
+Health Training, Education and Practice,
+12(2),
+111-120,
+https://doi.org/10.1108/JMHTEP-05-20160027.
+Jorm, A. F., Korten, A. E., Jacomb, P. A.,
+Christensen, H., Rodgers, B., & Pollitt, P.
+(1997). ‘Mental health literacy. a survey of
+the public’s ability to recognise mental
+disorders and their beliefs about the
+effectiveness of treatment. Med J Aust,
+166(4), 182-186.
+Jorm, A. F., Nakane, Y., Christensen, H.,
+Yoshioka, K., Griffiths, K. M., & Wata, Y.
+(2005). Public beliefs about treatment and
+outcome
+of mental disorders:
+a
+comparison of Australia and Japan. BMC
+medicine, 3(1), 12.
+Jorm, A. F. (2012). Mental health literacy:
+Empowering the community to take
+action for better mental health. American
+Psychologist, 67(3), 231.
+Jung, H., von Sternberg, K., & Davis, K. (2016).
+Expanding a measure of mental health
+literacy: Development and validation of a
+multicomponent mental health literacy
+measure. Psychiatry research, 243, 278286.
+Komiya, N., Good, G. E., & Sherrod, N. B. (2000).
+Emotional openness as a predictor of
+college students’ attitudes toward seeking
+psychological help. Journal of Counseling
+Psychology,
+47,
+138-143.
+http://dx.doi.org/10.1037/00220167.47.1.138.
+Lindinger-Sternart, S. (2015). Help-seeking
+behaviors of men for mental health and
+the
+impact
+of
+diverse
+cultural
+backgrounds. Int'l J. Soc. Sci. Stud., 3, 1.
+Maulida, A. (2012). Gambaran tingkat depresi
+pada mahasiswa program sarjana yang
+melakukan konseling di BKM UI. Skripsi.
+Fakultas Ilmu Keperawatan Universitas
+Indonesia.
+Pedrelli, P., Nyer, M., Yeung, A., Zulauf, C., &
+Wilens, T. (2015). College students:
+mental health problems and treatment
+considerations. Academic Psychiatry,
+39(5), 503-511.
+Rafal, G., Gatto, A., & DeBate, R. (2018). Mental
+health literacy, stigma, and help-seeking
+behaviors among male college students.
+Journal of American college health, 66(4),
+284-291
+Ridlo, I.A & Zein, R.A. (2018). Arah Kebijakan
+Kesehatan Mental: Tren Global dan
+Nasional
+
+19
+
+Analitika: Jurnal Magister Psikologi UMA, 11 (1) (2019): 12 - 20
+serta
+
+Tantangan Aktual. Buletin Penelitian
+Kesehatan, 46 (1), 45 - 52.
+Wang, J., Adair, C., Fick, G., Lai, D., Evans, B.,
+Perry, B. W., ... & Addington, D. (2007).
+Depression literacy in Alberta: findings
+from a general population sample. The
+Canadian Journal of Psychiatry, 52(7), 442449.
+World Health Organization (2017, July 04).
+Depression. Diakses pada 17 Mei, 2018
+dari:
+http://www.who.int/mental_health/mana
+gement/depression/en/
+
+20
+
+

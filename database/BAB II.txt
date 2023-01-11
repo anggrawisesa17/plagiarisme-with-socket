@@ -1,0 +1,1988 @@
+19
+
+BAB II
+LANDASAN TEORI
+A.
+
+Sistem Informasi Akuntansi
+Menurut Robert A. Laitch dan Roscoe Bavis Sistem Informasi adalah
+suatu sistem di dalam suatu organisasi yang mempertemukan kebutuhan
+pengolahan transaksi harian, mendukung operasi, bersifat manajerial, dan
+kegiatan strategi dari suatu organisasi dan menyediakan
+
+pihak tertentu
+
+dengan laporan-laporan yang diperlukan.18 Sehingga adapun yang dimaksud
+dengan Sistem Informasi Akuntansi (SIA) adalah kumpulan sumber daya,
+seperti manusia dan peralatan, yang dirancang untuk mengubah data
+keuangan dan data lainnya ke dalam informasi, dimana informasi tersebut
+dikomunikasikan kepada para pembuat keputusan.19 Kemudian Simkin
+menegaskan lebih lanjut bahwa Sistem Infromasi Akuntansi bukanlah
+sistem yang mengharuskan adanya penggunaan komputer, sistem informasi
+akuntansi merupakan sebuah pengembangan dari siklus akuntansi secara
+umum.20
+B.
+
+Fungsi Penggunaan Sistem Informasi Akuntansi
+Adapun fungsi dari penggunaan sistem informasi akuntansi adalah
+sebagai berikut:
+
+18
+
+Kusrini, Tuntunan Praktis Membangun Sistem Informasi Akuntansi dengan Visual Basic
+dan Miscrosoft SQL Server, (Yogyakarta : Penerbit Andi, 2009), hlm. 8
+19
+George H. Bodnar dan William S. Hoopwood, Sistem Informasi Akuntansi ,Edisi 9,
+Diterjemahakan oleh Julian Agung Saputra dan Lilis Setiwati, ( Yogyakarta : Andi, 2014), hlm. 3
+20
+Taufan Adi Kurniawan, Sistem Informasi Akuntansi dengan Pendekatan Simulasi,
+(Yogyakarta : Penerbit Deepublish, 2020), hlm. 1
+
+19
+
+20
+
+1.
+
+Mendukung aktivitas perusahaan sehari-hari
+Agar dapat tetap eksis, perusahaan harus terus beroperasi
+dengan melakukan sejumlah aktivitas bisnis yang peristiwanya disebut
+sebagai transaksi seperti melakukan pembelian, penyimpanan, proses
+produksi, penjualan dan lain sebaginya. Informasi akuntansi akan
+mendukung setiap kegiatan perusahaan karena dapat dijadikan acuan
+untuk menjalankan aktivitas operasionalnya.
+
+2.
+
+Mendukung proses pengambilan keputusan
+Keberadaaan SIA tentunya akan mempermudah ketersediaan
+informasi akuntansi yang diperlukan dalam proses pengambilan
+keputusan untuk masa depan perusahaan.
+
+3.
+
+Membantu pengelolaan perusahaan dalam memenuhi tanggung
+jawabnya kepada pihak ekternal
+Setiap perusasaan harus memenuhi tanggung jawabnya secara
+hukum. Salah satu tanggung jawab penting adalah keharusannya
+memberikan informasi kepada pemakai yang berada diluar perusahaan
+yaitu stakeholder yang meliputi pemasok, pelanggan, pemegang
+saham, kreditor, investor, pemerintah, dan serikat kerja.21
+
+C.
+
+Kualitas Informasi Akuntansi
+Informasi adalah data yang telah diolah /diproses untuk disajikan
+sesuai dengan kebutuhan pemakainya. Infomasi memiliki nilai apabila dapat
+meningkatkan pengetahuan dan keyakinan pemakai informasi dalam
+21
+
+Kurnia Cahya Lestari dan Arni Muarifah Amri, Sistem Informasi Akuntansi Beserta
+Contoh Penerapan SIA Sederhana dalam UMKM, ( Yogyakarta : Penerbit Deepublish, 2020),hlm.
+3
+
+21
+
+pengambilan keputusan.
+
+Informasi akuntansi yang berkualitas harus
+
+memenuhi beberapa syarat, antara lain:22
+1.
+
+Perbandingan antara manfaat dan biaya
+Manfaat laporan keuangan paling tidak harus sama dengan biaya
+untuk membuat laporan tersebut. Biaya laporan sebuah akuntansi
+tidak boleh lebih besar daripada manfaat yang diterima oleh pemakai
+informasi tersebut.
+
+2.
+
+Dapat dimengerti
+Dinyatakan dalam bentuk dan dengan istilah yang disesuaikan
+dengan batas pengertian atau pengetahuan pemakai.
+
+3.
+
+Relevan
+Diberi metode pengukuran dan pelaporan akuntansi keuangan
+yang akan membantu para pemakai dalam pengambilan keputusan
+yang memerlukan penggunaan data akuntansi.
+
+4.
+
+Dapat dipercaya
+Informasi akuntansi tergantung pada tiga hal, antara lain :
+a.
+
+Dapat diuji: informasi harus dapat diuji kebenarannya oleh para
+penguji independen dengan menggunakan metode pengukuran
+yang sama.
+
+b.
+
+Netral: diarahkan pada kebutuhan umum pemakai dan tidak
+tergantung pada kebutuhan dan keinginan pihak-pihak tertentu.
+
+22
+
+Aldila Septiana, “Pengantar Akuntansi : Konsep Dasar dan Praktik Untuk Perusahaan
+Jasa & Dagang”, (Pamekasan : Duta Media Publishing, 2016), hlm. 3
+
+22
+
+c.
+
+Menyajikan yang seharusnya: informasi harus berasal dari dari
+keadaan ekonomi atau kejadian yang seharusnya terjadi.
+
+5.
+
+Nilai prediksi
+Informasi tentang keadaan keuangan masa sekarang atau kinerja
+masa lalu bisa memiliki nilai prediksi.
+
+6.
+
+Feedback (umpan balik)
+Berupa prediksi, pembenaran, atau penolakan atas perencanaan
+sebelumnya.
+
+7.
+
+Tepat waktu
+Informasi harus disampaikan sedini mungkin agar dapat
+digunakan sebagai dasar pengambilan keputusan.
+
+8.
+
+Dapat dibandingkan/konsisten
+Bila dibandingkan, dimaksudkan agar
+
+pembaca
+
+laporan
+
+keuangan dapat lebih mudah mengetahui persamaan dan perbedaan
+antara perusahaan-perusahaan yang bersangkutan.
+9.
+
+Materiality (cukup berarti)
+Tuntutan prinsip-prinsip akuntansi bisa diabaikan jika suatu
+laporan keuangan dianggap penting bagi pemakai laporan keuangan
+tersebut. Jadi, tuntutan prinsip akuntansi bisa diabaikan selama tidak
+menyebabkan kesalahan laporan keuangan yang mempengaruhi
+keputusan pembaca laporan.23
+
+23
+
+Aldila Septiana, “Pengantar Akuntansi : Konsep Dasar dan Praktik Untuk Perusahaan
+Jasa & Dagang”, (Pamekasan : Duta Media Publishing, 2016), hlm. 2-4.
+
+23
+
+D.
+
+Pemakai Informasi Akuntansi
+Pemakai informasi akuntansi dapat dibedakan menjadi dua, yaitu:
+1.
+
+Pihak Intern
+Pihak intern adalah pihak-pihak yang berhubungan secara
+langsung dengan keungan perusahaan. Adapaun pihak intern ini
+sendiri adalah pemilik dan menager perusahaan. Informasi ini berguna
+untuk mengetahui perkembangan perusahaan dan sebagai acuan untuk
+pengambilan keputusan.
+
+2.
+
+Pihak Ektern
+Pihak ektern adalah pihak yang berkepentingan dengan
+perusahaan,namun tidak secara langsung dalam membuat keputusan
+dan kebijakan operasional perusahaan. Adapun pihak ektern meliputi:
+a.
+
+Investor
+Informasi akuntansi digunakan untuk memutuskan apakah
+akan mempertahankan atau melepaskan kepemilikan modalnya.
+
+b. Kreditur
+Informasi akuntansi sebagai bahan pertimbangan dalam
+rangka mengukuru likuiditas perusahaan, dan memutuskan
+apakah akan memberikan kredit kepada perusahaan.
+c.
+
+Pemerintah
+Informasi
+
+akuntansi
+
+digunakan
+
+untuk
+
+menetapkan
+
+kebijakan perpajakan, dan sebagai dasar untuk menyusun statistik
+pendapatan nasional.
+
+24
+
+d. Karyawan atau serikat pekerja
+Informasi akuntansi digunakan untuk mengukur stabilitas
+dan profitabilitas entitas serta untuk menilai kemampuan entitas
+dalam memberikan balas jasa atau gaji dan berbagai keputusan
+ketenagakerjaan.
+e.
+
+Pelanggan
+Informasi
+
+akuntandi
+
+digunakan
+
+untuk
+
+mengevaluasi
+
+hubungan mereka dengan entitas dan membuat keputusan tentang
+kemungkinan hubungan masa depan
+f.
+
+Masyarakat sekitar
+Informasi akuntansi digunakan untuk mengetahui mengenai
+manfaat sosial (CSR) dan penyediaan lapangan pekerjaan.24
+
+E.
+
+Pengalaman
+Pengalaman adalah suatu hal yang pernah terjadi, dan berlangsung
+secara terus menerus. Terdapat hubungan yang erat antara pengalaman dan
+berfikir. Pengalaman itu sendiri memiliki dua sifat yaitu aktif dan pasif.
+Pengalaman yang bersifat aktif berarti berusaha, mencoba, dan mengubah.
+Sedangkan pengalaman pasif berarti menerima dan mengikuti.25
+Adanya peristiwa yang pernah terjadi terkait dengan usaha yang
+dimilikinya, maka para pengusaha akan mengambil keputusan-keputusan
+yang terbaik untuk masa depan perusahaan. Pengalaman berusaha untuk
+memperoleh banyak pembelajaran tentang informasi apa saja yang
+24
+
+Sochib, “Pengantar Akuntansi 1”, (Yogyakarta: Penerbit Deepublish, 2018),hlm.7-8,
+Trianto Ibnu Badar al-Tabany, Desain Pengembangan Belajar Tematik, (Jakarta :
+Penerbit Kencana, 2013), hlm. 47
+25
+
+25
+
+dibutuhkan dan digunakan dalam pengambilan keputusan. Pengusaha akan
+membutuhkan informasi yang lebih banyak untuk disiapkan dan digunakan
+untuk pengambilan keputusan apabila tingkat komplekstisitas usaha dan
+persaingan semakin ketat.
+Pengalaman dalam operasional perusahaan atau lamanya perusahaan
+beroperasi
+
+berdasarkan
+
+pada
+
+bisnis
+
+yang
+
+sudah
+
+dijalankan
+
+akan
+
+mengindikasi kebutuhan akan informasi akuntansi sangat diperlukan
+(Nicholss dan Holmes 1988). Hasil penelitian yang dilakukan oleh Ira
+Purwati dan Gunasti Hudiwinarsih (2012) menunjukkan pengalaman
+mempunyai pengaruh terhadap persepsi pengusaha kecil atas informasi
+akuntansi.26
+F.
+
+Tingkat Pendidikan
+Menurut Undang-undang Nomor 20 Tahun 2003 tentang Sistem
+Pendidikan Nasional dijelaskan pada Pasal 1 bahwa pendidikan adalah
+usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses
+pembelajaran agar peserta didik secara aktif mengembangkan potensi di
+rinya untuk memiliki
+
+kekuatan spiritual keagamaan, pengendalian diri,
+
+kepribadian, kecerdasan, akhlak mulia serta keterampilan yang diperlukan
+untuk masyarakat, bangsa dan Negara.27
+Selanjutnya
+
+dalam
+
+Pasal
+
+3,
+
+Pendidikan
+
+berfungsi
+
+untuk
+
+mengembangkan kemampuan dan membentuk watak serta peradaban
+26
+
+Imam Ariono dan Bambang Sugiyanto, Analisis Faktor-Faktor yang Mempengaruhi
+Persepsi Atas Informasi Akuntansi Keuangan, Journal Of Economic, Management,Accounting adn
+Technology(JEMATech), Vol. 1 No. 1, Agustus 2018, hlm. 1-14
+27
+Undang-Undang Republik Indonesia Nomor 20 Tahun 2003, diakses melalui
+http://lppks.kemdikbud.go.id/uploads/pengumuman/uu_no_20_tahun_2003.pdf
+
+26
+
+bangsa yang bermartabat dalam rangka mencerdaskan kehidupan bangsa.
+Menurut KBBI, pendidikan merupakan proses pengubahan sikap dan tata
+laku seseorang atau kelompok orang dalam usaha mendewasakan manusia
+melalui upaya pengajaran dan pelatihan.28
+Pada dasarnya, pendidikan merupakan kegiatan pembelajaran baik itu
+langsung maupun tak
+
+langsung dimana
+
+memiliki
+
+manfaat
+
+untuk
+
+meningkatkan budi pekerti dan pikiran serta mampu memberikan kemajuan
+dalam kehidupan. Adapun kegiatan pendidikan ini bisa berupaya
+pembelajaran disekolah ataupun berupa pelatihan-pelatihan ketrampilan.
+Tingkat pendidikan adalah tahapan pendidikan yang ditetapkan berdasarkan
+tingkat perkembangan peserta didik, tujuan yang akan dicapai, dan
+kemampuan yang dikembangkan.29
+Pendidikan yang sudah dilalui oleh pemilik usaha akan berkaitan
+dengan pemahaman mengenai usaha yang dijalankan dan bagaimana
+pemahamannya terhadap pentingnya suatu informasi akuntansi. Tingkat
+pendidikan adalah tahapan dasar yang ditetapkan berdasarkan tingkat
+perkembangan peserta didik, tujuan yang dicapai dan kemampuan yang
+dikembangkan. Tingkat pendidikan formal terdiri atas pendidikan dasar,
+pendidikan menengah, dan peneididkan tinggi. Tingkat pendidikan pemilik
+usaha dapat mempengaruhi kebutuhan atas suatu standar akuntansi pada
+suatu UMK, semakin tinggi pendidikan pemilik, maka pemahaman
+
+28
+
+Undang-Undang Republik Indonesia Nomor 20 Tahun 2003, diakses melalui
+http://lppks.kemdikbud.go.id/uploads/pengumuman/uu_no_20_tahun_2003.pdf
+29
+Duwi Handoko, dkk. Pendidikan Kewarganegaraan, (Pekanbaru : Penerbit Hawa dan
+Ahwa, 2020).hlm. 7
+
+27
+
+mengenai bisnis semakin baik pula. Pemilik akan mengambil langkah yang
+tepat untuk mempertahankan bisnisnya.
+Penelitian yang dilakukan oleh Sitorus (2017) menyatakan bahwa
+tingkat pendidikan berpengaruh terhadap penggunaan informasi akuntansi.
+Semakin tinggi tingkat pendidikan maka semakin baik pula penggunaan
+informasi akuntansi.30
+G.
+
+Motivasi
+Motivasi merupakan akar kata dari Bahasa Latin movpre, yang berarti
+gerak atau dorongan untuk bergerak atau yang menggerakkan. Motivasi
+meruapakn salah satu hal yang mempengaruhi perilaku manusia. Menurut
+Mc. Donald, motivasi adalah perubahan energi dalam diri (pribadi)
+seseorang yang ditandai dengan timbulnya perasaan dan reaksi untuk
+mencapai tujuan.31
+Amstrong menjelaskan bahwasannya, motivasi adalah sesuatu yang
+membuat orang bertindak atau berperilaku dalam cara-cara tertentu. Lebih
+jauh lagi Amstrong juga menegaskan bahwa motivasi muncul dalam dua
+bentuk dasar yaitu motivasi buatan (extrinsic) dan motivasi hakiki
+(intrinsic). Yang dimaksud dengan motivasi buatan adalah hal-hal dari luar
+diri sendiri yang memberikan dorongan untuk bertindak. Sedangkan
+
+30
+
+Saut Djosua Henrianto Sitorus, Pengaruh Layar Belakang Pendidikan dan Pengetahuan
+Tentang Akuntansi Terhadap Penggunaan Sistem Informasi Akuntansi pada Pedagang di Wilayah
+Keluruhan Helvetia Tengah Medan, At-Tawssuth, Volume 2 Nomor 2, 2017.
+31
+Raja Maruli Tua Sitorus, Pengaruh Komunikasi Antar Pribadi Pimpinan Terhadap
+Motivasi Kerja, (Surabaya : Scopindo Media Pustaka, 2020), hlm 56.
+
+28
+
+motivasi hakiki adalah faktor-faktor dari dlam diri yang mempengaruhi
+untuk bergerak ke arah tertentu.32
+Penggunaan informasi akuntansi dalam suatu usaha atau bisnis akan
+selalu dipengaruhi oleh motivasi pelaku usaha atau bisnis dalam
+menjalankan kegiatan usahanya. Whetyningtyas (2016) menyatakan bahwa
+motivasi secara umum timbul ketika pelaku kegiatan mengetahui kebutuhan
+dan kekurangannya, kemudian mencari cara untuk memuaskan kebutuhan
+itu. Perilaku tersebut akan diarahkan pada tujuan yang diharapkan, sehingga
+akan berengaruh pada kinerjanya. Kemudian pelaku usaha akan menilai
+kembali kebutuhannya setelah melihat hasil yang diperoleh dari kinerjanya
+tersebut. Penggunaan informasi akuntansi akan meningkat karena pemilik
+usaha mengetahui kebutuhan informasi tersebut dalam pengambilan
+keputusan bisnis.33
+H.
+
+Skala Usaha
+Kemampuan pemilik usaha dalam mengelola usahanya dengan
+mempertimbangkan seberapa besar harta yang dimiliki, berapa karyawan
+yang dipekerjakannya, serta pendapatan yang mampu dihasilkan akan
+mencerminkan skala usaha yang dimilkinya. Skala usaha dapat dijadikan
+sebagai
+
+salah
+
+salu
+
+indikator
+
+penilaian
+
+mengenai
+
+seberapa
+
+jauh
+
+perkembangan sebuah usaha. Adanya pertambahan pendapatan dari waktu
+32
+
+Moh Saiful Bahri, Pengaruh Kepemimpinan, Lingkungan Kerja, Budaya Organisasi dan
+Motivasi Terhadap Kepuasa Kerja yang Berimplikasi Terhadap Kinerja Dosen, (Surabaya : CV
+Jakad Pblishing, 2018), hlm. 46.
+33
+Aprilia Whetyningtyas, Determinan Penggunaan Informasi Akuntansi Pada
+Usaha Kecil Menengah (UKM), Media Ekonomi dan Manajemen, Volume 31 Nomor .2,
+Juli 2016.
+
+29
+
+kewaktu sehingga mampu meningkatkan jumlah harta yang dimiliki oleh
+perusahaan akan menggambarkan usaha yang sudah berkembang dari
+usaha kecil menjadi usaha menengah bahkan menjadi kategori usaha
+besar.34 Perubahan skala usaha ini tentunya akan berimbas dengan proporsi
+informasi akuntansi yang disediakan dan digunakan. Sehingga semakin
+besar suatu usaha maka semakin besar pula informasi akuntansi yang
+disediakan dan digunakan, atau dapat dikatakan sebagai hubungan positif.
+Jumlah pendapatan atau penjualan yang dihasilkan perusahaan dapat
+menunjukkan perputaran aset atau modal yag dimiliki oleh perusahaan,
+sehingga semakin bersar pendapatan atau penjualan maka semakin besar
+pula tingkat komplektisitas perusahaan dalam menggunakan informasi
+akuntansi.35
+I.
+
+Umur Usaha
+Umur usaha berkaitan dengan lamanya suatu usaha telah berdiri atau
+beroperasi. Umur usahanya juga mengindikasikan seberapa kuat
+perusahaan menghadapi persaingan dan bertahan dalam industrinya.
+Semakin lama perusahaan berdiri maka suatu usaha akan semakin
+memiliki kinerja yang unggul ditandai dengan peningkatan aset dan
+penjualan perusahaan.36
+
+34
+
+Diyah Probulan, Determinan Penggunaan Sistem Informasi Akuntansi pada UMKM di
+Kabupaten Jember, Prosiding Seminar Nasional, 2016.
+35
+Muhammad Aditya Kurniawan, dkk., Analisis Faktor-Faktor yang Mempengaruhi
+Penggunaan Informasi Akuntansi pada Usaha UMKM (Studi Empiris pada UMKM di Kota
+Malang), Jurnal Riset Ilmiah Akuntansi, Vol.09. No. 02, Agustus 2020.
+36
+Syarifah Rahmawati, Konfilk Keagenan dan Tata Kelola Perusahaan di Indonesia,
+(Banda Aceh: Syiah Kuala University Press, 2017), hlm. 79
+
+30
+
+Umur usaha akan memberikan gambaran seberapa lama usaha sudah
+berjalan. Semakin lama usaha itu mampu berjalan dapat diasumsikan
+bahwa usaha berkembang menuju arah yang lebih baik. Semakin lama
+usaha bertahan maka semakin banyak pula pengalaman yang didapat
+dalam dunia bisnis mengenai apa saja strategi-strategi yang dilakukan
+pelaku usaha dalam menghadapi persaingan bisnis dan keadaan ekonomi.
+Holmes dan Nicholss menyatakan bahwa penyediaan informasi
+akuntansi dipengaruhi oleh usia usaha. Hasil penelitian tersebut
+memperlihatkan bahwa perusahaan yang berdiri kurang dari 10 tahun akan
+lebih banyak menyediakan informasi akuntansi staturoty, informasi
+akuntansi anggaran, dan informasi tambahan. Lebih lanjut dijelaskan
+bahwa semakin muda usia perusahaan terdapat kecenderungan untuk
+menyatakan informasi akuntansi yang ekstensif untuk tujuan membuat
+keputusan dibandingkan perusahaan yang lebih tua usahanya.37 Hasil
+penelitian Nirwana (2019), Susilowati
+
+(2017), dan Budiman (2015)
+
+menyatakan bahwa umur usaha berpengaruh terhadap penggunaan
+informasi akuntansi usaha mikro, kecil, dan menengah.
+J.
+
+Usaha Mikro Kecil (UMK)
+1.
+
+Pengertian Usaha Mikro Kecil
+Secara umum, pengertian UMK adalah usaha produktif yang
+dimiliki dan dikelola oleh perorangan maupun badan usaha yang telah
+
+37
+
+Fitriani, dkk., Analisis Faktor-Faktor yang Mempengaruhi Penggunaan Informasi
+Akuntansi Pada Usaha Mikro, Kecil, dan Menengah (Studi Empiris pada UMKM di Kecamtan
+Tembalang, Kota Semarang), Prosiding Mahasiswa Seminar Nasional Unimus, Volume 2, 2019.
+
+31
+
+memenuhi kriteria sebagai usaha mikro. UMK merupakan upaya
+pengembangan usaha tertentu untuk mempercepat pemulihan ekonomi
+perekonomia untuk mewadahi progam prioritas dan pengembangan
+berbagai sektor dan potensi.38
+Berdasarkan Undang-Undang Nomor 20 Tahun 2008 tentang
+Usaha Mikro, Kecil, dan Menengah dijelaskan sebagai berikut :
+1)
+
+Usaha Mikro adalah usaha produktif yang dimiliki oleh orang
+pribadi dan/atau badan usaha yang memenuhi kriteria usaha
+mikro yang telah diatur dalam Undang-Undang ini.
+
+2)
+
+Usaha Kecil adalah usaha ekonomi prodfukti yang berdiri
+sendiri, yang dilakukan oleh orang perorangan atau badan usaha
+yang bukn merupakan anak perusahaan atau bukan cabang
+peusahaan yang dimiliki, dikuasai, atau menjadi bagian baik
+langsung maupun tidak langsung dari Usaha Menengah atau
+Usaha Besar yang memenuhi kriteria Usaha Kecil sebagaimana
+dimaksud dalam Undang-Undang ini.39
+
+2.
+
+Kriteria Usaha Mikro Kecil
+Adapun kriteria usaha mikro kecil (UMK) berdasarkan
+Undang-Undang Nomor 20 Tahun 2008 B adalah sebagai berikut :
+a.
+
+38
+
+Kriteria Usaha Mikro adalah sebagai berikut:
+
+Hadion Wijaya, dkk., “Digitalisasi UMKM”, ( Sumatera Barat : Penerbit Insan Cendekia
+Mandiri, 2020), hlm. 137.
+39
+Undang-Undang Nomor 20 Tahun 2008, diakses melalui
+https://www.ojk.go.id/sustainable-finance/id/peraturan/undang-undang/Pages/Undang-UndangRepublik-Indonesia-Nomor-20-Tahun-2008-Tentang-Usaha-Mikro,-Kecil,-dan-Menengah.aspx ,
+pada tanggal 17 November 2020.
+
+32
+
+1) Memiliki kekayaan bersih paling banyak Rp50.000.000,00
+(lima puluh juta rupiah) tidak termasuk tanah dan bangunan
+tempat usaha; atau
+2) Memiliki
+
+hasil
+
+penjualan
+
+tahunan
+
+paling
+
+banyak
+
+Rp300.000.000,00 (tiga ratus juta rupiah).
+b.
+
+Kriteria Usaha Kecil adalah sebagai berikut:
+1) Memiliki kekayaan bersih lebih dari Rp50.000.000,00 (lima
+puluh
+
+juta
+
+rupiah)
+
+sampai
+
+dengan
+
+paling
+
+banyak
+
+Rp500.000.000,00 (lima ratus juta rupiah) tidak termasuk
+tanah dan bangunan tempat usaha; atau
+2) Memiliki hasil penjualan tahunan lebih dari Rp300.000.000,00
+(tiga ratus juta rupiah) sampai dengan paling banyak
+Rp2.500.000.000,00 (dua milyar lima ratus juta rupiah).40
+K.
+
+Standar Akuntansi Keuangan Entitas Mikro Kecil dan Menengah
+(SAK EMKM)
+SAK EMKM adalah standar akuntansi yang telah disusun oleh
+Ikatan Akuntan Indonesia demi terpenuhinya kebutuhan akan pelaporan
+keuangan bagi usaha dalam kategori mikro, kecil, dan menengah. Adapun
+definisi secara kualitatif mengenai EMKM para pelaku usaha dapat
+mengacu pada UU No 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan
+Menengah. SAK ini dirancang untuk digunakan oleh usaha yang tidak atau
+
+40
+
+Undang-Undang Nomor 20 Tahun 2008, diakses melalui
+https://www.ojk.go.id/sustainable-finance/id/peraturan/undang-undang/Pages/Undang-UndangRepublik-Indonesia-Nomor-20-Tahun-2008-Tentang-Usaha-Mikro,-Kecil,-dan-Menengah.aspx ,
+pada tanggal 17 November 2020.
+
+33
+
+dapat dikatakan belum mampu untuk melakukan pemenuhan syarat
+akuntansi berdasarkan SAK ETAP. Sehingga adanya standar ini akan
+mempermudah bagi para pelaku usaha untuk membuat laporan keuangan
+yang lebih sederhana. Untuk SAK EMKM ini sudah berlaku secara efektif
+tanggal 1 Januari 2018.41
+L.
+
+Faktor-Faktor yang Mempengaruhi Penggunaan Informasi Akuntansi
+Ada beberapa faktor yang mempengaruhi penggunaan informasi
+akuntansi. Adapun faktor-faktor tersebut meliputi :
+1.
+
+Motivasi
+Motivasi berhubungan dengan sikap dan perilaku dalam
+aktivitas dan pekerjaannya. Istilah motivasi berasal dari bahasa latin,
+yakni movare yang berarti menggerakkan (to move). Ray William
+dalam artikel Psychology Today, mendefinisikan motivasi sebagai
+kecenderungan untuk berperilaku dengan cara bertujuan untuk
+mencapai kebutuhan yang spesifik dan yang tidak terpenuhi, dan
+memiliki keinginan untuk mencapainya, dan motivasi sebagai
+kekuatan batin yang mendorong individu untuk mencapai tujuan
+pengorganisasian individu.42
+Teori motivasi yang paling terkenal adalah hierarki kebutuhan
+(hierarchy of need) milik Abraham Maslow. Beliau membuat
+hipotesis bahwa dalam setiap diri manusia terdapat lima hierarki
+
+41
+
+Ikatan Akuntan Indonesia, SAK EMKM (Standar Akuntansi Keuangan Entitas Mikro,
+Kecil, dan Menengah), diakses melalui http://iaiglobal.or.id/v03/standar-akuntansikeuangan/emkm., Pada tanggal 19 November 2020.
+42
+Timtius Duha, Motivasi Untuk Kinerja, (Yogyakarta : Penerbit Deepublish, 2020), hlm.
+42
+
+34
+
+kebutuhan yaitu fisiologis (rasa lapar, haus, berlindung, seksual, dan
+kebutuhan fisik lainnya), rasa aman (rasa ingin dilindungidari bahaya
+fisik dan emosional), sosial (kasih sayang, kepemilikan, dan
+persahabatan), penghargaan (faktor-faktor penghargaan internal
+seperti hormat diri, pencapaian, dan lainnya), dan aktualisasi diri
+(dorongan untuk menjadi seseorang sesuai dengan kecakapannya).
+Maslow memisahkan lima kebutuhan ke dalam urutan-urutan
+yang lebih tinggi dan lebih rendah. Kebutuhan fisiologis dan rasa
+aman dideskripsikan sebagai kebutuhan tingkat rendah dan kebutuhan
+sosial,penghargaan, dan aktualisasi diri sebagai kebutuhan tingkat
+atas. Perbedaan antara kedua tingkatan tersebut didasarkan pada
+sumber pemikiran bahwa kebutuhan tingkat atas dipenuhi secara
+internal, sementara kebutuhan tingkat rendah dominan dipenuhi secara
+eksternal.43
+Berdasarkan perspektif manajerial teori penguatan akan sangat
+berpengaruh ketika ia menyadari manfaat atau konsekuensi positif dari
+penyediaan informasi akuntansi dalam mengambil suau keputusan.
+Demikian juga motivasi seorang pengelola perusahaan untuk
+menyediakan informasi akuntansi akan dipengaruhi oleh seberapa
+besar manfaat dari informasi yang disajikan. Semakin tinggi tingkat
+
+43
+
+Stephen P. Robbins, dan Timoty A. Judge, Perilaku Organisasi, Penerjemah : Diana
+Angelica,dkk, (Jakarta : Salemba Empat, 2008), 223-224
+
+35
+
+penggunaan informasi akuntansi, maka akan memotivsi pemilik untuk
+menyediakan informasi akuntansi yang semakin lengkap dan dalam.44
+2.
+
+Persepsi Urgensi Keberadaaan Informasi Akuntansi
+Persepsi atau perception dalam Bahasa Ingggris berasal dari
+Bahasa Latin yaitu perceptio dari percipere yang artinya menerima
+atau mengambil. Nitisusastro menjelaskan bahwa persepsi merupakan
+suatu proses yang timbul akibat adanya sensasi dimana sensasi adalah
+aktivitas merasakan atau menyebabkan emosi yang menggemberikan.
+Sedangkan menurut Pareek, persepsi merupakan sebagai proses
+menerima, menyeleksi, mengorganisasikan, mengartikan, menguji,
+dan memberikan reaksi pada rangsangan panca indra atau data.45
+Persepsi urgensi keberadaan informasi akuntansi yang dimaksud
+adalah persepsi para pelaku usaha terhadap urgensi keberadaan
+informasi akuntansi bagi pelaku usaha yang mengetahui manfaat dari
+informasi akuntansi tentukan mengatakan bahwa akuntanasi penting
+untuk untuk diterapkan dalam usaha mereka. Namun sayangnya, bagi
+pelaku usaha mikro kecil dan menengah (UMKM) sebagian dari
+merekan beranggapan bahwa kegiatan akuntansi akan memakan waktu
+serta biaya apabila diterapkan dalam usaha mereka, terlebih mereka
+menganggap bahwa kegiatan usaha yang merekan jalani adalah usaha
+
+44
+
+Sri Mulyani, Persepsi Urgensi Keberadaan Informasi Akuntansi pada Penggunaan
+Informasi Akuntansi, Syariah Papper Accounting FEB UMS, 2016, hlm. 1-6
+45
+Onan Marakeli Sinegar, dkk., Persepsi Masyarakat Terhadap Bank Syariah, (Medan :
+Penerbit Puspantara, 2016), hlm. 11
+
+36
+
+keliarga dan tidak terlalu rumit apabila dijalankan tanpa adanya
+informasi akuntansi.46
+3.
+
+Pelatihan Akuntansi
+Pelatihan adalah proses pembelajaran yang lebih menekankan
+praktek daripada teori yang dilakukan seseorang atau kelompok
+dengan
+
+menggunakan
+
+pendekatan
+
+berbagai
+
+pembelajaran
+
+dan
+
+bertujuan untuk meningkatkan kemampuan dalam satu atau beberapa
+jenis ketrampilan tertentu.47
+Pelatihan akuntansi biasanya diselenggarakan oleh suatu
+lembaga pendidikan luar sekolah maupun lembaga pendidikan tinggi,
+balai pelatihan departemen atau dinas tertentu. Pelatihan akuntansi
+akan menambah wawasan para pengusaha mengenai bagaimana
+mereka harus melakukan pembukuan seperti apa. Seperti penelitian
+yang dilakukan oleh Muliana dkk (2017) menyatakan bahwa pelatihan
+dan pendidikan memberikan pengaruh positif terhadap kinerja sistem
+informasi akuntansi.48
+4.
+
+Tingkat Pendidikan
+Secara bahasa pendidikan berasal dari bahasa Yunani,
+paedogogy yang mengandung makna seorang anak yang pergi pulang
+
+46
+
+Dito Aditia Darma Nasution dan Puja Rizky Ramadhan, Monograf : Persepsi Usaha
+Mikro Kecil dan Menengah tentang Akuntansi di Kecamatan Datuk Bandar Kota Tanjung Balai,
+(Ponorogo : Uwais Inspirasi Indonesia, 2019), hlm. 13
+47
+Budi Santoso, Skema dan Mekanisme Pelatihan, (Jakarta : Terangi, 2010), hlm. 1
+48
+I Kadek Muliana, dkk., Pengaruh Partisipasi Pemakai Sistem Informasi Akuntansi,
+Dukungan Manajemen Puncak, Pendidikan dan Pelatiihan pada Kinerja Sistem Informasi
+Akuntansi dengan Komplektisitas Kinerja sebagai Variabel Pemoderasi, Jurnal Ekonomi dan
+Bisnis Universitas Udaya, Volume 6 Nomor 6, 2017, hlm. 1-28.
+
+37
+
+sekolah diantar oleh seorang nelayan. Kemudian, dalama bahasa
+Romawi pendidikan diistilahkan sebagai educate yang berarti
+mengeluarkan sesuatu yang berada di dalam. Sedangkan dalam bahasa
+Inggris pendidikan diistilahkan to educate yang berarti memperbaiki
+moral dan melatih intelektual. Pendidikan adalah segala pengalaman
+belajar yang berlangsung dalam segala lingkungan dan sepanjang
+hidup.49
+Tingkat pendidikan atau jenjang pendidikan adalah tahapan
+pendidikan yang ditetapkan berdasarkan tingkat perkembangan
+peserta didik, tujuan yang akan dicapai, dan kemampuan yang
+dikembangkan.50 Semakin tinggi tingkat pendidikan maka semakin
+baik pula pemahaman mengenai pentingnya informasi akuntansi
+dalam menyokong kegiatan usahanya. Seperti penelitian yang
+dilakukan oleh Anggraini (2020), Novianti (2018), Zulkarnaeni (2019)
+bahwasannya tingkat pendidikan berpengaruh signifikan terhadap
+penggunaan informasi akuntansi.
+5.
+
+Skala Usaha
+Skala
+
+usaha
+
+merupakan
+
+kemampuan
+
+perusahaan
+
+dalam
+
+mengelola usahanya dengan melihat berapa jumlah karyawan yang
+dipekerjakan dan berapa besar pendapatan yang diperoleh perusahaan
+dalam satu periode akuntansi. Jumlah pendapatan atau penjualan yang
+49
+
+Abdul Kadir dkk., Dasar-Dasar Pendidikan, (Jakarta : Prenadamedia Group, 2015), hlm.
+
+59
+50
+
+Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 tentang Sistem Pendidikan
+Nasional, diakses melalui http://luk.staff.ugm.ac.id/atur/UU20-2003Sisdiknas.pdf, pada tanggal 30
+November 2020.
+
+38
+
+dihasilkan perusahaan dapat
+
+menunjukkan perputaran asset atau
+
+modal yang dimiliki oleh perusahaan
+
+sehingga semakin besar
+
+pendapatan atau penjualan yang diperoleh perusahaan semakin besar
+pula tingkat kompleksitas perusahaan dalam menggunakan informasi
+akuntansi.
+
+Jumlah karyawan dapat menunjukkan berapa kapasitas
+
+perusahaan
+
+dalam mengoperasionalkan usahanya, semakin besar
+
+jumlah karyawan semakin besar tingkat kompleksitas perusahaan,
+sehingga informasi akuntansi sangat dibutuhkan.51
+6.
+
+Umur Perusahaan
+Umur menentukan cara berpikir, bertindak dan berperilaku
+perusahaan
+
+dalam melakukan operasionalnya. Selain itu umur
+
+mengakibatkan perubahan pola pikir dan tingkat kedewasaan
+perusahaan tersebut dalam mengambil
+
+sikap atas setiap tindakan-
+
+tindakannya. Begitu pula dengan perusahaan kecil dan menengah,
+apabila
+
+pimpinan/
+
+manajer
+
+menginginkan
+
+perubahan
+
+atau
+
+peningkatan, maka harus mempunyai pola pikir yang luas. Untuk itu
+langkah yang perlu diambil adalah dengan perlu adanya penyiapan
+dan penggunaan
+
+informasi akuntansi, hal itu agar tidak terjadi
+
+kelemahan dalam praktek
+
+akuntansi. Umur perusahaan sangat
+
+berpengaruh terhadap penyiapan informasi akuntansi.
+Menurut
+
+Holmes
+
+dan
+
+Nicholls
+
+pada
+
+Helmiyati
+
+(2020)
+
+memperlihatkan bahwa penyediaan informasi akuntansi dipengaruhi
+51
+
+Candra Kristian, Pengaruh Skala Usaha, Umur Perusahaan, Pendidikan Pemilik
+Terhadap Pengunaan Informasi Akuntansi Pada Usaha Kecil Menengah di Kabupaten Blora,
+diakses melaui http://lib.unnes.ac.id/2719/1/7143.pdf pada tanggal 01 Desember 2020.
+
+39
+
+oleh usia usaha. Hasil penelitian itu menyatakan bahwa perusahaan
+yang berdiri selama 10 tahun atau kurang, menyediakan lebih banyak
+informasi akuntansi
+
+statutory, informasi akuntansi anggaran,
+
+informasi akuntansi tambahan untuk digunakan dalam pengambilan
+keputusan, berbeda dengan perusahaan yang berdiri selama 11-20
+tahun. Studi ini juga menyatakan bahwa semakin muda usia
+perusahaan terdapat kecenderungan untuk menyatakan informasi
+akuntansi yang ekstensif untuk tujuan membuat keputusan yang
+dibandingkan dengan perusahaan yang lebih tua usianya.52
+7.
+
+Pengalaman Kerja
+Pengalaman kerja adalah seluruh kegiatan dan aktivitas
+seseorang yang diperoleh melalui pendidikan, pekerjaan, ataupun
+tugas dalam kurun waktu tertentu.53 Semakin banyak aktifitas atau
+pengalaman seseorang dalam berorganisasi dan semakin tinggi
+pengalaman kerja maka kepribadian berwirausaha
+
+pada sektor
+
+UMKM akan semakin tinggi. Orang yang memiliki pengalaman
+sebelumnya dalam berwirausaha akan memiliki minat lebih besar
+dalam mengembangkan usahanya dibandingkan orang yang belum
+memiliki pengalaman
+
+52
+
+dalam berwirausaha serta lebih mampu
+
+Fitrih Helmiyati, dkk, Implikasi Penggunaan Informasi Akuntansi dalam Pengambilan
+Keputusan Melalui Variabel Pengetahuan Akuntansi, Kepribadian Wirausaha, dan Umur Usaha,
+Jounal of Business, Management and Accounting, Volume 2, Nomor 1, Desember 2020.
+53
+Imam Mohtar, Hubungan Antara Motivasi dan Pengalaman Kerja dengan Kinerja Guru
+Madrasah, (Ponorogo : Uwais Inspirasi Indonesia,2019), hlm. 15
+
+40
+
+memanfaatkan berbagai informasi untuk menentukan keputusan yang
+akan dilakukan berkaitan dengan usaha yang dijalankannya.54
+8.
+
+Pengetahuan Akuntansi
+Menurut
+
+Prakoso
+
+pengetahuan
+
+akuntansi
+
+merupakan
+
+pengetahuan tentang ilmu akuntansi yang dimiliki oleh pelaku bisnis
+guna mengelola usahanya dan supaya dapat melakukan pembukuan
+laporan keuangan sesuai standar yang
+
+berlaku dari usaha yang
+
+dijalankan. Rendahnya pengetahuan akuntansi pemilik menyebabkan
+banyak perusahaan kecil yang mengalami kegagalan. Hal tersebut
+dapat terjadi karena lemahnya para pemilik atau manajer perusahaan
+memahami mengenai proses akuntansi dalam perkembangan bisnis.
+Oleh sebab itu pengetahuan akuntansi menjadi penting untuk bisa
+menggunakan
+
+akuntansi
+
+karena
+
+dapat
+
+membantu
+
+dalam
+
+mempertimbangkan dan menilai informasi akuntansi melalui wawasan
+dan pengalaman yang dimiliki mengenai akuntansi. Tingkat
+pengetahuan akuntansi ini dapat dilihat dari tingkat pengetahuan
+deklaratif dan pengetahuan prosedural para pelaku bisnis UKM.55
+
+54
+
+Fitrih Helmiyati, dkk, Implikasi Penggunaan Informasi Akuntansi dalam Pengambilan
+Keputusan Melalui Variabel Pengetahuan Akuntansi, Kepribadian Wirausaha, dan Umur Usaha,
+Jounal of Business, Management and Accounting, Volume 2, Nomor 1, Desember 2020.
+55
+Enung Nurhayati dan Lia Dwi Martika, Pengaruh Pengetahuan Akuntansi dan Skala
+Usaha Terhadap Penggunaan Informasi Akuntansi pada Usaha Kecil Menengah (UKM) di
+Kabupaten Kuningan, Jurnal Riset Keuangan dan Akuntansi, Volume 1 Nomor 1, Desember 2015.
+
+41
+
+M.
+
+Penelitian Terdahulu
+Tabel 2.1
+Penelitian Terdahulu
+Variabel yang Hasil Penelitian
+Diteliti
+
+Nama
+Author
+
+Judul (Tahun)
+
+Awanda
+Nirwana dan
+Dendi
+Purnama56
+
+Pengaruh
+Jenjang
+Pendidikan,
+Skala
+Usaha,
+dan Lama Usaha
+Terhadap
+Penggunaan
+Informasi
+Akuntansi pada
+UMKM
+di
+Kecamatan
+Ciawigebang
+(2019)
+
+Variabel
+independen :
+jenjang
+pendidikan,
+skala
+usaha,
+dan
+lama
+usaha.
+Variabel
+dependen
+:
+penggunaan
+informasi
+akuntansi
+
+Jenjang
+pendidikan, skala
+usaha, dan lama
+usaha memiliki
+pengaruh positif
+terhadap
+penggunaan
+informasi
+akuntansi.
+
+Desi
+Susilowati,
+dkk.57
+
+Faktor-Faktor
+yang
+Mempengaruhi
+Penggunaan
+Informasi
+Akuntansi pada
+Usaha
+Mikro
+Kecil Menengah
+(Survei
+pada
+UMKMdi
+Kecamatan
+Aikmel Lombok
+Timur),
+
+Variabel
+Independen:
+jenjang
+pendidikan,
+ukuran usaha,
+lama
+usaha,
+dan
+masa
+memimpin.
+Variabel
+dependen:
+penggunaan
+informasi
+akuntansi
+
+Jenjang
+pendidikan,
+ukuran
+usaha,
+lama usaha, dan
+masa memimpin
+perusahaan baik
+secara
+parsial
+maupun simultan
+memiliki
+pengaruh
+yang
+signifikan
+terdahap
+penggunaan
+informasi
+akuntansi.
+
+56
+
+Persamaan
+dan
+Perbedaan
+Persamaan :
+tiga variabel
+independen
+sama dengan
+peneliti.
+Cangkupan
+penelitian
+sama dalam
+lingkup satu
+kecamatan.
+Perbedaan:
+ada dua
+variabel
+independen
+yang berbeda.
+Lokasi
+penelitian
+berbeda. Jenis
+penelitian
+berbeda.
+Persamaan:
+terdapat tiga
+variabel yang
+sama. Jenis
+penelitian
+sama.
+Cangkupan
+penelitian
+sama dalam
+lingkup satu
+kecamatan.
+Perbedaan:
+Ada variabel
+penelitian
+yang berbeda.
+Lokasi
+
+Awanda Nirwana dan Dendi Purnama, Pengaruh Jenjang Pendidikan, Skala Usaha, dan
+Lama Usaha Terhadap Penggunaan Informasi Akuntansi pada UMKM di Kecamatan
+Ciawigebang, Jurnal Riset Keuangan dan Akuntansi, Vol. 5 no. 4, Februari 2019, hlm. 1-11.
+57
+Desi Susilowti dkk., Faktor-Faktor yang Mempengaruhi Penggunaan Informasi
+Akuntansi pada Usaha Mikro Kecil Menengah (Survei pada UMKMdi Kecamatan Aikmel Lombok
+Timur), Jurnal Aplikasi Akuntansi, Vol. 2 No. 1, Oktober 2017, hlm. 1-20.
+
+42
+
+Imam Ariono
+dan
+Bambang
+Sugiyanto.58
+
+Analisis FaktorFaktor
+yang
+Mempengaruhi
+Persepsi
+Atas
+Informasi
+Akuntansi
+Keuangan
+
+Variabel
+independen:
+sikap,
+kepribadian,
+motivasi,
+pengalaman,
+tingkat
+pendidikan,
+dan
+persepsi
+pengusaha.
+Variabel
+dependen:
+penggunaan
+informasi
+akuntansi
+
+Sikap,
+kepribadian,
+motivasi,
+pengalaman,
+tingkat
+pendidikan, dan
+persepsi
+pengusaha
+memilik pengaruh
+positif terhadap
+penggunaan
+informasi
+akuntansi.
+
+Nita
+Andriyani
+Budiman dan
+Zuliyati.59
+
+Faktor-Faktor
+yang
+Mempengaruhi
+Penggunaan
+Informasi
+Akuntansi
+(Studi
+pada
+UMKM
+Kain
+Tenun
+Ikat
+Troso Jepara)
+
+Variabel
+independen:
+pendidikan
+terakhir
+manajer atau
+pemilik, umur
+usaha,
+pelatihan
+akuntansi,
+skala usaha dan
+masa
+memimpin.
+Variabel
+dependen
+:
+penggunaan
+informasi
+akuntansi
+
+Terdapat
+pengaruh
+signifikan
+pendidikan
+terakhir manajer
+atau
+pemilik,
+umur usaha, dan
+pelatihan
+akuntansi,
+sedangkan skala
+usaha dan masa
+memimpin
+perusahaan
+berpengaruh tidak
+signifikan
+terhadap
+penggunaan
+informasi
+akuntansi.
+
+58
+
+penelitian
+tidak sama.
+Persamaan:
+ada variabel
+independen
+yang sama
+yaitu
+motivasi,
+pengalaman,
+dan tingkat
+pendidikan.
+Perbedaan:
+hanya fokus
+pada UMKM
+industri
+makanan.
+Lokasi
+penelitian
+tidak sama.
+Sebagian
+variabel yang
+diteliti tidak
+sama.
+Persamaan:
+ada tiga
+variabel yang
+sama.
+Perbedaan:
+Lokasi
+penelitian
+berbeda.
+Terdapat tiga
+variabel yang
+tidak sama.
+Penelitian
+hanya fokus
+pada satu
+jenis usaha.
+
+Imam Ariono dan Bambang Sugiyanto, Analisis Faktor-Faktor yang Mempengaruhi
+Persepsi Atas Informasi Akuntansi Keuangan, Journal Of Economic, Management,Accounting
+adn Technology(JEMATech), Vol. 1 No. 1, Agustus 2018, hlm. 1-14.
+59
+Nita Andriyani Budiman dan Zuliyati, Faktor-Faktor yang Mempengaruhi Penggunaan
+Informasi Akuntansi (Studi pada UMKM Kain Tenun Ikat Troso Jepara), Buletin Ekonomi, Vol.
+13 No. 1, April 2015, hlm. 1-10.
+
+43
+
+I Gusti Ayu
+Asri
+Pramesti,
+dkk.60
+
+Faktor-Faktor
+yang
+Mempengaruhi
+Penggunaan
+Informasi
+Akuntansi pada
+UMKM
+di
+Kecamatan
+Aibiansemal
+
+Variabel
+independen:
+pendidikan,
+ukuran usaha,
+lama
+usaha,
+dan
+jenis
+usaha.
+Variabel
+dependen:
+penggunaan
+informasi
+akuntansi
+
+Jenis
+usaha
+berpengaruh
+positif terhadap
+penggunaan
+informasi
+akuntansi,
+sedangkan
+jenjang
+pendidikan,
+ukuran usaha, dan
+lama usaha tidak
+berpengaruh
+terhadap
+penggunaan
+informasi
+akuntansi.
+
+Delfina
+Novianti,
+dkk.61
+
+Pengaruh
+Tingkat
+Pendidikan,
+Pelatihan
+Akuntansi,
+Umur
+Usaha,
+dan Skala Usaha
+Pelaku UMKM
+terhadap
+Penggunaan
+Informasi
+Akuntansi
+Di
+Kecamatan
+Purwokerto
+Utara.
+
+Variabel
+independen:
+tingkat
+pendidikan,
+umur
+usaha,
+skala
+usaha,
+dan pelatihan
+akuntansi
+
+Tingkat
+pendidikan dan
+pelatihan
+akuntansi
+berpengaruh
+positif terhadap
+penggunaan
+informasi
+akuntansi,
+sedangkan umur
+usaha dan skala
+usaha
+tidak
+berpengaruh
+terhadap
+penggunaan
+informasi
+akuntansi.
+
+Variabel
+independen:
+pendidikan
+
+pengetahuan
+akuntansi
+pemilik, budaya
+
+Nurul Aini Faktor-Faktor
+Yolanda,
+yang
+dkk.62
+Mempengaruhi
+60
+
+Persamaan:
+terdapat tiga
+variabel
+independen
+yang sama.
+Cangkupan
+penelitian
+sama-sama
+dalam satu
+kecamatan
+Perbedaaan:
+Terdapat
+variabel
+independen
+yang berbeda.
+Lokasi
+penelitian
+tidak sama.
+Persamaan:
+terdapat tiga
+variabel
+independen
+yang sama.
+Cangkupan
+penelitian
+sama dala
+satu
+kecamatan.
+Perbedaan:
+terdapat
+variabel
+independen
+yang berbeda.
+Lokasi
+penelitian
+berbeda.
+Persamaan:
+terdapat tiga
+variabel
+
+I Gusti Ayu Asri Pramesti, dkk., Faktor-Faktor yang Mempengaruhi Penggunaan
+Informasi Akuntansi pada UMKM di Kecamatan Aibiansemal, Accounting Profession Journal
+(ApaJI), Vol. 1 No.1, Juli 2019, hlm. 1-9.
+61
+Delfina Novianti, dkk., Pengaruh Tingkat Pendidikan, Pelatihan Akuntansi, Umur
+Usaha, dan Skala Usaha Pelaku UMKM terhadap Penggunaan Informasi Akuntansi Di
+Kecamatan Purwokerto Utara, Jurnal Ekonomi, Bisnis, dan Akuntansi (JEBA), Vol. 20 No. 3
+Tahun 2018, hlm. 1-14.
+62
+Nurul Aini Yolanda, dkk., Faktor-Faktor yang Mempengaruhi Penggunaan Informasi
+Akuntansi pada UMKM dengan Ketidakpastian Lingkungan sebagai Variabel Moderasi (Studi
+Empiris Pada UMKM di Kabupaten Kuantan Singingi), Jurnal Akuntansi Ekuangan dan Bisnis,
+Vol. 13 No. 1, 1 Mei 2020, hlm. 1-10
+
+44
+
+Penggunaan
+Informasi
+Akuntansi pada
+UMKM dengan
+Ketidakpastian
+Lingkungan
+sebagai Variabel
+Moderasi (Studi
+Empiris
+Pada
+UMKM
+di
+Kabupaten
+Kuantan
+Singingi),
+(2020)
+
+pemilik,
+pengetahuan
+akuntansi
+pemilik,
+budaya
+perusahaan,
+umur
+usaha,
+skala
+usaha,
+dan pelatihan
+akuntansi.
+Variabel
+dependen:
+penggunaan
+informasi
+akuntansi.
+Variabel
+moderasi:
+ketidakpastian
+lingkungan.
+
+perusahaan, skala
+usaha,
+dan
+pelatihan
+akuntansi
+berpengarruh
+signifikasn
+terhadap
+penggunaan
+informasi
+akuntansi
+pada
+UMKM.
+Sedangkan
+pendidikan
+pemilik dan umur
+usaha
+tidak
+berpengaruh
+terhadap
+penggunaan
+informasi
+akuntansi
+ada
+UMKM. Analisis
+regresi moderat
+menunjukkan
+bahwa
+ketidakpastian
+lingkungan dapat
+memoderasi
+pendidikan
+pemilik,
+pengetahuan
+akuntansi
+pemilik, budaya
+perusahaan, dan
+pelatihan
+akuntansi
+terhadap
+penggunaan
+informasi
+akuntansi.
+Ketidakpastian
+lingkungan tidak
+memoderasi umur
+usaha dan skala
+usaha
+terhadap
+penggunaan
+informasi
+akuntansi.
+
+penelitian
+yang sama.
+Perbedaan:
+terdapat
+beberapa
+variabel
+penelitian
+yang berbeda.
+Lokasi
+penelitan
+berbeda.
+Adanya
+variabel
+moderasi.
+
+45
+
+Rikah63
+
+Perbandingan
+Faktor
+yang
+Mempengaruhi
+Penggunaan
+Informasi
+Akuntansi Pada
+Usaha UKM di
+Desa dan di
+Kota ( Studi
+Kasus
+Usaha
+UKM
+Kabupaten
+Rembang)
+(2019)
+
+Variabel
+independen:
+pendidikan
+pemilik, skala
+usaha,
+umur
+perusahaan,dan
+pelatihan
+akuntansi.
+Variabel
+dependen:
+penggunaan
+informasi
+akuntansi
+
+Ade
+Setiawan64
+
+Faktor-Faktor
+yang
+Mempengaruhi
+Usaha Kecil dan
+Menengah
+(UKM) dalam
+Menggunaan
+Informasi
+Akuntansi
+(2019)
+
+Variabel
+independen:
+latar belakang
+pendidikan
+pemilik, umur
+usaha,
+dan
+omzet usaha.
+Variabel
+dependen:
+penggunaan
+informasi
+akuntansi.
+
+63
+
+pendidikan
+pemilik,
+umur
+usaha,
+dan
+pelatihan
+akuntansi
+berpengaruh
+positif terhadap
+penggunaan
+informasi
+akuntansi.
+Sedangkan skala
+tidak berpengaruh
+siginifikan
+terhadap
+penggunaan
+informasi
+akuntansi. Serta
+perbandingan
+UKM kota dan
+UKM
+desa
+terhadap
+penerapan sistem
+informasi
+akuntansi tidak
+jauh
+berbeda,
+bahkan sebagian
+memiliki
+kesamaan.
+Latar
+belakang
+pendidikan
+pemilik,
+umur
+usaha, dan omzet
+usaha
+berpengaruh
+terhadap
+penggunaan
+informasi
+akuntansi
+sedangkan skala
+usaha
+tidak
+berpengaruh
+terhadap
+penggunaan
+informasi
+
+Persamaan:
+terdapat
+variabel
+independen
+yang sama.
+Perbedaan:
+terdapat
+beberapa
+variabel yang
+tidak sama.
+Adanya
+perbandingan
+UKM di kota
+dan di desa.
+Lokasi
+penelitian
+tidak sama.
+
+Persamaan:
+terdapat tiga
+variabel
+independen
+yang sama.
+Perbedaaan:
+terdapat satu
+varibale yang
+berbeda.
+Lokasi
+penelitian
+tidak sama.
+
+Rikah, Perbandingan Faktor yang Mempengaruhi Penggunaan Informasi Akuntansi
+Pada Usaha UKM di Desa dan di Kota ( Studi Kasus Usaha UKM Kabupaten Rembang), Jurnal
+Ilmiah Ekonomi Fokus Ekonomi, Volume 14 Nomor 1, Juni 2019, hlm 159-169.
+64
+Ade Setiawan, Faktor-Faktor yang Mempengaruhi Usaha Kecil dan Menengah (UKM)
+dalam Menggunaan Informasi Akuntansi, Jurnal Teknologi dan Terapan Bisnis, Volume 2 Nomor
+1, Maret 2019, hlm. 1-11.
+
+46
+
+akuntansi.
+Patricia
+Dhiana
+Paramita65
+
+N.
+
+Pengaruh
+Pendidikan
+Akuntansi dan
+Pengalaman
+Akuntansi
+terhadap
+Penggunaan
+Informasi
+Akuntansi
+Dimoderasi Self
+Efficacy
+pada
+Usaha Kecil dan
+Menengah
+(Studi
+Kasus
+Pada UKM di
+Jalan
+Lampersari dan
+Jalan Sompok
+Semarang)
+(2018)
+
+Variabel
+independen:
+pendidikan
+akuntansi dan
+pengetahuan
+akuntansi.
+Variabel
+dependen:
+penggunaan
+informasi
+akuntansi.
+Variabel
+moderasi: self
+efficacy
+
+pendidikan
+akuntansi
+dan
+pengetahuan
+akuntansi secara
+parsial
+berpengaruh
+positif
+dan
+signifikan
+terhadap
+penggunaan
+informasi
+akuntansi.
+Self
+efficacy
+memoderasi
+pengaruh
+pendidikan
+akuntansi
+dan
+pengetahuan
+akuntansi
+terhadap
+penggunaan
+informasi
+akuntansi.
+
+Persamaan:
+tidak ada
+Perbedaan:
+Variabel
+independen
+tidak sama.
+Lokasi
+penelitian
+tidak sama.
+Cangkupan
+penelitian
+tidak sama.
+Adanya
+variabel
+moderasi self
+efficacy
+
+Kerangka Konseptual
+Kerangkan konseptual merupakan suatu sistem yang terpadu yang
+berisi tentang konsep-konsep yang diteliti dan hubungan antar konsep
+tersebut.66
+Berdasarkan landasan teori dan penelitian terdahulu, maka penelitian
+yang berjudul “ Faktor-Faktor yang Mempengaruhi Penggunaan Informasi
+Akuntansi pada Usaha Mikro Kecil dan Menengah di Kecamatan Ngunut
+Kabupaten Tulungagung” ini dapat dikembangkan kerangka konseptual
+
+65
+
+Patricia Dhiana Paramita, “Pengaruh Pendidikan Akuntansi dan Pengalaman Akuntansi
+terhadap Penggunaan Informasi Akuntansi Dimoderasi Self Efficacy pada Usaha Kecil dan
+Menengah (Studi Kasus Pada UKM di Jalan Lampersari dan Jalan Sompok Semarang)”, Jurnal
+Ekonomi dan Bisnis Kontemporer, 2018, hlm. 1-16.
+66
+Subagyo, Metode Penelitian Ekonomi Islam, (Jakarta : Alim’s Publishing, 2017), hlm. 50
+
+47
+
+sebagai berikut.
+Gambar 2.1
+Kerangka Konseptual Penelitian
+O.
+Pengalaman
+
+P.
+
+(X1)
+H1
+
+Q.
+Pengalaman
+
+Tingkat Pendidikan
+
+R. (X1)
+
+H2
+
+(X2)
+
+S.
+Motivasi
+
+T.
+
+U.
+
+H3
+
+Penggunaan
+Informasi Akuntansi
+
+(X3)
+H4
+
+V.
+Skala Usaha
+W. (X4)
+
+H5
+
+X.
+Umur Usaha
+
+Y.
+
+(X5)
+
+Z.
+H6
+Sumber : Diolah oleh peneliti, tahun 2020
+
+O. Hipotesis Penelitian
+Hipotesis adalah jawaban sementara terhadap masalah yang masih
+bersifat praduga karena masih harus dibuktikan kebenarannya.67
+Hipotesis dalam penelitian ini adalah sebagai berikut :
+1.
+
+67
+
+H1: Pengalaman berpengaruh terhadap penggunaan informasi akuntansi
+
+Sandu Siyoto, “Dasar Metodologi Penelitian”, (Yogyakarta : Literasi Media Publishing,
+2015), hlm. 56.
+
+48
+
+pada usaha mikro kecil di Kecamatan Ngunut Kabupaten Tulungagung.
+2.
+
+H2: Tingkat pendidikan berpengaruh terhadap penggunaan informasi
+akuntansi pada usaha mikro kecil di Kecamatan Ngunut Kabupaten
+Tulungagung.
+
+3.
+
+H3: Motivasi berpengaruh terhadap penggunaan informasi akuntansi
+pada usaha mikro kecil di Kecamatan Ngunut Kabupaten Tulungagung.
+
+4.
+
+H4: Skala usaha berpengaruh terhadap penggunaan informasi akuntansi
+pada usaha mikro kecil di Kecamatan Ngunut Kabupaten Tulungagung.
+
+5.
+
+H5: Umur usaha berpengaruh terhadap penggunaan informasi akuntansi
+pada usaha mikro kecil di Kecamatan Ngunut Kabupaten Tulungagung.
+
+6.
+
+H6: Pengalaman, tingkat pendidikan, motivasi, skala usaha, dan umur
+usaha
+
+secara
+
+bersama-sama
+
+berpengaruh
+
+terhadap
+
+penggunaan
+
+informasi akuntansi pada usaha mikro kecil di Kecamatan Ngunut
+Kabupaten Tulungagung.
+
+

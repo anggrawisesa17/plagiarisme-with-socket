@@ -1,0 +1,442 @@
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+Rancang Bangun Aplikasi Monitoring Santri Berbasis
+Android
+Nirwana Hendrastuty1), Yusril Ihza2)
+
+1
+
+Program Studi Sistem Informasi, FTIK Universitas Teknokrat Indonesia
+2
+Program Studi Informatika, FTIE Universitas Teknologi Yogyakarta
+1
+Jl. H.ZA Pagaralam, No 9-11, Bandarlampung
+2
+
+1
+
+Jl. Ring Road Utara, Jombor Lor, Yogyakarta
+
+Email: nirwanahendrastuty@teknokrat.ac.id, 2yusril713@gmail.com
+Abstract
+Pesantren is an educational institution, which accommodates students and is fostered to have the ability,
+intelligence, and skills to achieve educational goals. However, so far, most of the supervision of students is
+only carried out by the boarding school. . Information about the development of the students' learning
+process is usually only received by parents once a semester, namely when they receive report cards. Usually
+the violations committed include absenteeism, grades, late payment of tuition fees, and cases of other
+violations committed by students. This certainly does not provide many solutions because parents do not
+provide supervision from the start.
+This study aims to build an android-based student monitoring application. So that parents or guardians
+of students can see the progress of their children by entering the National Student Identification Number
+(NISN) as a username and password which must be entered in the form of the student's date of birth in the
+format dd/mm/yyyy. The data collection method used in this study used the observation method, namely
+observing directly the academic processing process in schools and the literature study method by studying
+reference books, articles and the internet related to Android-based smartphone applications in monitoring
+students. The system design used in this research is based on OOP using UML. The UML designs that are
+built are Usecase Diagrams, Sequence Diagrams, Activity diagrams and Class diagrams.
+.
+
+Keyword: Monitoring, Android Application, UML, Islamic Boarding School.
+Abstrak
+Pesantren merupakan lembaga pendidikan, yang menampung peserta didik dan dibina agar
+memiliki kemampuan, kecerdasan, dan keterampilan sehingga tercapainya tujuan pendidikan.
+Namun selama ini pengawasan terhadap santri sebagian besar hanya dilakukan oleh pihak pondok.
+Informasi tentang perkembangan proses belajar santri biasanya hanya diterima orang tua sekali
+dalam satu semester yakni saat terima raport. Biasanya pelangaran yang dilakukan meliputi absensi,
+nilai, keterlambatan pembayaran uang SPP, dan kasus-kasus pelanggaran lain yang dilakukan santri.
+Hal ini tentu tidak memberikan banyak solusi karena orang tua tidak memberikan pengawasan sejak
+awal.
+Penelitian ini bertujuan untuk membangun aplikasi monitoring siswa berbasis android.
+Sehingga orang tua atau wali dari santri dapat melihat perkembangan anaknya dengan cara
+mengasukkan nomor induk siswa nasional (NISN) sebagai username dan pasword yang harus
+dimasukan berupa tanggal lahir santri dengan format dd/mm/yyyy. Metode pengumpulan data yang
+digunakan pada penelitian ini menggunakan metode observasi yaitu mengamati secara langsung
+21
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+proses pengolahan akademik di sekolah dan metode studi pustaka dengan mempelajari referensi
+buku, artikel dan internet yang berhubungan dengan aplikasi smartphone berbasis android
+dalam me-monitoring santri. Rancangan sistem yang digunakan pada penelitian ini berbasis OOP
+yaitu menggunakan UML. Rancangan UML yang dibangun adalah Usecase Diagram, Sequence
+Diagram, Activity diagram dan Class diagram.
+Kata Kunci: Monitoring, Aplikasi Android, UML, Pondok Pesantren.
+
+1. PENDAHULUAN
+Pesantren adalah sebuah pendidikan tradisional yang para siswanya tinggal bersama dan belajar
+di bawah bimbingan guru yang lebih dikenal dengan sebutan kiai dan mempunyai asrama untuk
+tempat menginap santri. Santri tersebut berada dalam kompleks yang juga menyediakan masjid
+untuk beribadah, ruang untuk belajar, dan kegiatan keagamaan lainnya. Kompleks ini biasanya
+dikelilingi oleh tembok untuk dapat mengawasi keluar masuknya para santri sesuai dengan
+peraturan yang berlaku [1]. Seiring dengan perkembangan zaman yang terus berkembang, terjadi
+perubahan pada kebutuhan manusia [2]. Beberapa pesantren menginginkan sebuah sistem yang
+dapat memberikan informasi segala aktivitas santri selama mondok sehingga dapat menambah
+kepercayaan orang tua untuk menempatkan anaknya dalam Pesantren.
+Namun, selama ini pengawasan terhadap santri sebagian besar hanya dilakukan oleh pihak
+sekolah. Dengan tingkat kesibukan yang tinggi, orang tua minim melakukan memonitor terhadap
+perkembangan anak-anaknya di sekolah. Informasi tentang perkembangan proses belajar santri
+biasanya hanya diterima orang tua sekali dalam satu semester yakni saat terima raport. Jika siswa
+melakukan pelanggaran, maka pihak sekolah akan memanggil orang tua dengan cara mengirimkan
+surat panggilan. Biasanya pelangaran yang dilakukan meliputi absensi, nilai, keterlambatan
+pembayaran uang SPP, dan kasus-kasus pelanggaran lain yang dilakukan santri. Hal ini tentu tidak
+memberikan banyak solusi karena orang tua tidak memberikan pengawasan sejak awal. Kondisi
+pengawasan seperti ini dilakukan terhadap santri tidak sesuai dengan kemajuan teknologi yang
+berkembang saat ini [3].
+Aplikasi ini dapat mempermudah orang tua dan guru dalam melakukan pengawasan terhadap
+santri. Orang tua bisa melakukan proses monitoring proses belajar anak-anaknya dengan perangkat
+Android. Android adalah sistem operasi berbasis Linux yang dirancang untuk perangkat bergerak
+layar sentuh seperti telepon pintar dan komputer tablet [4]. Sistem ini bisa diakses dengan
+melakukan login dengan Nomor Induk Siswa. Setelah login, orang tua bisa melihat nilai, absensi,
+pembayaran uang sekolah, prestasi atau kasus-kasus yang dilakukan oleh anaknya di sekolah. Pihak
+sekolah bisa memberikan laporan yang akurat, dan orang tua murid bisa mendapat informasi
+perkembangan anak secara real. Menurut [5] bahwa aplikasi pantau santri memudahkan orang tua
+dalam memperoleh informasi santri selama mondok sehingga orang tua dapat memperoleh data
+santri lebih detail, sedangkan penelitian yang dilakukan oleh[6] Hasil pengujian sistem
+menggunakan blacbox hasilnya 100% baik dan hasil pengujian tingkat penerimaan pengguna
+menggunakan User Application Development (UAT) menunjukkan bahwa menerima adanya
+Aplikasi Monitoring Kegiatan Santri dengan tingkat penerimaan sebesar 88,3%. Pada penelitian [7]
+menjelaskan bahwa dengan adanya sistem monitoring santri, wali santri dapat melihat
+perkembangan hafalan yang dilakukan santri pada pondok pesantren riyadhussolihiin, point prestasi
+dan juga point pelanggaran yang telah dibuat di dalam web, sudah dapat membantu wali santri
+untuk mengetahui prestasi dan pelanggaran apa saja dilakukan santri di pondok pesantren, dan izin
+pulang sudah dapat membantu wali santri untuk mengurus perizinan pulang santri sehingga tidak
+perlu datang ke pondok pesantren.
+22
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+Maka dari itu dengan berkembangnya teknologi sekarang serta penggunaan gadget Android
+yang semakin banyak digunakan oleh manusia, berdasarkan latar belakang penelitian di atas maka
+peneliti merancang sebuah rancangan yang berjudul “Aplikasi Monitoring Santri Berbasis
+Android”.
+
+2. METODE PENELITIAN
+2.1 Metode Penelitian
+Metode pengumpulan data yang dipakai pada penelitian untuk aplikasi ini adalah metode
+observasi dan studi pustaka.
+a. Observasi
+Observasi yang dilakukan yaitu mengamati secara langsung proses pengolahan akademik di
+sekolah untuk memperoleh gambaran yang jelas mengenai permasalahan yang diteliti.
+b. Studi Pustaka
+Melakukan pengumpulan data dengan mempelajari referensi buku, artikel dan internet
+yang berhubungan dengan aplikasi smartphone berbasis android dalam me-monitoring
+santri.
+2.2 Analisis Masalah
+Dalam sebuah pesantren selain kegiatan akademik namun juga memiliki kegiatan
+kepesantrenan, sehingga mengharuskan santri tinggal mondok di dalam lingkungan pesantren dan
+jauh dari pantauan orangtua, dan sebagai orangtua juga memiliki tanggungjawab dalam memantau
+segala aktifitas anaknya didalam pesantren sehingga orangtua mampu turut serta dalam membina
+anaknya walau mengharuskannya memberikan sebagian besar amanahnya kepada para pembina.
+Namun fakta yang terjadi dilapangan, khususnya di pesantren Nurul Ikhwan Maros, justru
+orangtua santri sulit mendapatkan informasi yang lengkap tentang anaknya, baik itu di sebabkan
+karena keterbatasan waktu yang dimiliki oleh pembina maupun orangtua dalam membicarakan
+tentang santri yang terkadang dalam jangka waktu yang lama baru mendapatkan informasi, dan juga
+sebagai manusia biasa yang memiliki akal justru terkadang mengalami lupa, sehingga informasi
+mengenai aktifitas santri dalam kegiatan kepesantrenan tidak sepenuhnya di miliki orangtua karena
+faktor lamanya informasi yang telah didapatkan oleh pembina dan juga karena media penyimpanan
+yang dimiliki untuk menyimpan data aktivitas santri masih terbatas dan rawan terjadinya hilangnya
+data.
+2.3 Rancangan Sistem
+Pada penelitian ini, perancangan system menggunakan UML (Unified Modelling language).
+UML merupakan bahasa visual untuk pemodelan dan komunikasi mengenai sebuah sistem dengan
+menggunakan diagram dan teks-teks pendukung. UML adalah salah satu standar bahasa yang
+banyak digunakan di dunia industry untuk mendefinisikan requirement, membuat analisis dan
+desain, serta menggambarkan arsitektur dalam pemrograman berorientasi objek [8]. UML yang
+digunakan pada perancangan sistem yang akan dibangun terdiri dari Use Case Diagram dan
+Sequence Diagram.
+2.2.1 Use Case Diagram
+Use case merupakan gambaran skenario dari interaksi antara pengguna (user) dengan sistem
+[9]. Use Case mendeskripsikan sebuah interaksi antara satu atau lebih aktor dengan sistem
+informasi yang akan dibuat. Dapat dikatakan use case digunakan untuk mengetahui fungsi apa saja
+yang ada di dalam sistem informasi dan siapa saja yang berhak menggunakan fungsi-fungsi
+23
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+tersebut. Sistem ini terdapat 2 aktor yaitu admin, dan orang tua. Use case diagram untuk admin
+ditunjukkan pada Gambar 1, sedangkan use case diagram untuk orang tua santri dapat dilihat pada
+Gambar 2.
+
+Gambar 1 Use case diagram admin
+
+24
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+Gambar 2 Use case diagram orang tua santri
+2.2.2 Sequence diagram
+Pada tahap ini Sequence Diagram menjelaskan secara detil urutan proses yang dilakukan
+sistem untuk mencapai tujuan dari use case [10]. Interaksi yang terjadi antar class, operasi apa saja
+yang terlibat, urutan antar operasi, dan informasi yang diperlukan oleh masing-masing operasi.
+Adapun operasi yang terjadi yaitu:
+a. Sequence Diagram untuk melihat tentang Santri
+
+25
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+Gambar 3 Sequence diagram tentang santri
+b. Sequence diagram untuk memilih jadwal absensi
+
+Gambar 4 Sequence diagram untuk memilih jadwal absensi
+
+c. Sequence diagram untuk melihat informasi tentang pesantren
+
+26
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+Gambar 5 Sequence diagram untuk melihat informasi tentang pesantren
+
+3. HASIL DAN PEMBAHASAN
+3.1 Implementasi Sistem
+Sistem yang dibuat pada website memiliki 2 modul yaitu modul sebagai Administrator dan
+modul sebagai Pembina/Guru. Administrator berfungsi untuk mengelola data-data mulai dari data
+pembina, data santri, data mata pelajaran, dan data kelas. Tugas pembina pesantren adalah mencatat
+kegiatan santri, mulai dari absensi sehari-hari pada mata pelajaran, kegiatan yang berupa hafalan
+Al-Qur’an, prestasi dari santri serta pelanggaran dari santri. Sistem yang dibangun berbasis Model
+View Controller atau biasa juga disebut MVC. Model-View-Controller (MVC) adalah sebuah
+konsep yang diperkenalkan oleh penemu Smalltalk (Trygve Reenskaug) untuk meng-enkapsulasi
+data bersama dengan pemrosesan (model), mengisolasi dari proses manipulasi (controller) dan
+tampilan (view) untuk direpresentasikan pada sebuah user interface Definisi teknis dari arsitektur
+[11]. MVC dibagi menjadi tiga lapisan. Selain itu, fungsi dari website tersebut juga sebagai web
+servis untuk menyambungkan data-data santri ke dalam android.
+3.1.1 Model
+Model bertugas untuk mengatur, menyiapkan, memanipulasi dan mengorganisasikan data (dari
+database) sesuai dengan instruksi dari controller. Berikut pada Gambar 6 merupakan potongan
+syntaks untuk pembuatan model pada sistem yang telah dibuat.
+
+27
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+<?php
+namespace App;
+use Illuminate\Contracts\Auth\MustVerifyEmail;
+use Laravel\Passport\HasApiTokens;
+use Illuminate\Foundation\Auth\User as Authenticatable;
+use Illuminate\Notifications\Notifiable;
+class User extends Authenticatable
+{
+use HasApiTokens, Notifiable;
+protected $fillable = [
+'name', 'email', 'password', 'api_token'
+];
+protected $hidden = [
+'password', 'remember_token',
+];
+protected $casts = [
+'email_verified_at' => 'datetime',
+];
+}
+
+Gambar 6 Implementasi model
+3.1.2 View
+View bertugas untuk menyajikan informasi (yang mudah dimengerti) kepada user sesuai
+dengan instruksi dari controller. Berikut pada Gambar 7 merupakan potongan syntaks untuk
+pembuatan View pada system yang telah dibuat.
+@extends('layouts.global')
+@section('title')Tambah Data Pembina @endsection
+@section('content')
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-md-5">
+<div class="shadow p-3 mb-5 bg-white rounded">
+<h4>Data Pembina</h4>
+<hr>
+@if (session('status'))
+<div class="alert alert-success">
+{{ session('status') }}
+</div>
+@endif
+<form method="POST" action="{{route('pembina.store')}}">
+@csrf Gambar 7 Implementasi View
+
+28
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+3.1.3 Controller
+Controller bertugas untuk mengatur apa yang harus dilakukan model, dan view mana yang
+harus ditampilkan berdasarkan permintaan dari user. Namun, terkadang permintaan dari user tidak
+selalu memerlukan aksi dari model. Misalnya seperti menampilkan halaman form untuk registrasi
+user. Berikut pada Gambar 8 merupakan potongan syntaks untuk pembuatan Controller pada system
+yang telah dibuat.
+<?php
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Hash;
+use App\User;
+class PembinaController extends Controller
+{
+/**
+* Display a listing of the resource.
+*
+* @return \Illuminate\Http\Response
+*/
+public function __construct()
+{
+$this->middleware('auth');
+}
+public function index()
+{
+$pembina = DB::table('tb_pembina')
+->join('users', 'users.id', '=', 'tb_pembina.user_id')
+->select('tb_pembina.*', 'users.email')
+->paginate(20);
+return view('pembina.index', ['pembina' => $pembina]);
+}
+...
+}
+
+Gambar 8 Implentasi Controller
+3.2 Implementasi Android
+Aplikasi pada android hanya terdiri atas satu pengguna, yaitu dikhususkan untuk orang tua
+santri. Untuk masuk kedalam sistem android orang tua cukup menginputkan nomor induk dari
+santri pada username dan password. Pada aplikasi android, orang tua dapat melihat kegiatan apa
+saja yang dilakukan oleh anaknya selama dalam pesantren. Adapun kegiatan-kegiatan dari
+pesantren terdiri dari presensi mata pelajaran umum dan ekstrakurikuler, data hafalan santri, data
+prestasi santri, dan data pelanggaran dari santri. Pada aplikasi android tersebut, orang tua juga dapat
+melihat tunggakan spp dari anaknya masing-masing. Tools yang digunakan untuk membuat aplikasi
+29
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+android adalah Android Studio dengan bahasa pemrograman Java.
+Mengakses database server dibutuhkan web servis atau API (Application Programming
+Interface) dengan menggunakan HTTP request POST dan GET. Parsing data web servis
+menggunakan JSON (Javascript Object Notation). API atau Application Programming Interface
+adalah sebuah interface yang dapat menghubungkan aplikasi satu dengan aplikasi lainnya. Jadi, API
+berperan sebagai perantara antar berbagai aplikasi berbeda, baik dalam satu platform yang sama
+atau lintas platform [12].
+Perumpamaan yang bisa digunakan untuk menjelaskan API adalah seorang pelayan di restoran.
+Tugas pelayan tersebut adalah menghubungkan tamu restoran dengan juru masak. Tamu cukup
+memesan makanan sesuai daftar menu yang ada dan pelayan memberitahukannya ke juru masak.
+Nantinya, pelayan akan kembali ke tamu tadi dengan masakan yang sudah siap sesuai pesanan.
+Adapun implementasi dari HTTP request dapat dilihat pada Gambar 9.
+public JSONObject makeHttpRequest(String url, String method,
+List<NameValuePair> params) {
+// Making HTTP request
+try {
+// check for request method
+if(method == "POST"){
+// request method is POST
+// defaultHttpClient
+DefaultHttpClient httpClient = new DefaultHttpClient();
+HttpPost httpPost = new HttpPost();
+httpPost.setURI(new URI(url));
+httpPost.setEntity(new UrlEncodedFormEntity(params));
+HttpResponse httpResponse = httpClient.execute(httpPost);
+HttpEntity httpEntity = httpResponse.getEntity();
+is = httpEntity.getContent();
+}else if(method == "GET"){
+...
+
+}
+Gambar 9 Get data from server
+3.2.1 Implementasi Halaman Login
+Implementasi halaman login pada android merupakan tampilan awal ketika membuka aplikasi
+dengan cara memasukkan username dan password yang berupa nomor induk dari santri. Desain dari
+halaman login pada android menggunakan xml file. Implementasi halaman login android dapat
+dilihat pada
+
+30
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+Gambar 10 Implementasi halaman login pada android
+3.2.2 Implementasi Halaman Menu Android
+Menu pada aplikasi android terdiri dari visi misi, sejarah pesantren, data pembina, data dari
+santri, spp, hafalan Al-Qur’an, prestasi, pelanggaran dan logout. Implementasi halaman menu
+android ditunjukkan pada Gambar 11.
+
+Gambar 11 Implementasi Halaman Menu Android
+31
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+3.2.3 Implementasi Halaman Prestasi Santri
+Implementasi halaman prestasi berfungsi untuk menampilkan prestasi apa saja yang telah dicapai
+oleh santri tersebut. Adapun implementasi halaman prestasi santri dapat dilihat pada Gambar 12.
+
+Gambar 12 Implementasi Halaman Prestasi Santri
+3.2.4 Implementasi Halaman Absensi
+Implementasi halaman prestasi berfungsi untuk menampilkan prestasi apa saja yang telah dicapai
+oleh santri tersebut. Adapun implementasi halaman absensi santri dapat dilihat pada Gambar 13.
+
+Gambar 13 Implementasi Halaman Absensi
+
+32
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+3.2.5 Implementasi Halaman Hafalan Al-Quran
+Implementasi halaman hafalan Al-Qur’an berfungsi untuk menampilkan data hafalan Qur’an
+santri. Adapun implementasi halaman hafalan Al-Quran santri ditunjukkan pada Gambar 14.
+
+Gambar 14 Implementasi Halaman Hafalan Al-Quran Santri
+
+4. KESIMPULAN
+4.1 Kesimpulan
+Dari hasil penelitian yang telah dilakukan disimpulkan bahwa:
+1. Dari hasil pengujian, aplikasi menu-menu dan tombol yang ada di aplikasi berfungsi
+dengan baik dan efisien.
+2. Aplikasi monitoring santri berbasis android yang telah dibangun dapat membantu orang
+tua santri dalam memperoleh informasi santri selama masa pondok dalam pesantren,
+sehingga orang tua santri dapat memperoleh informasi secara detail. Selain itu aplikasi
+monitoring juga dapat membantu melihat informasi tentang pesantren, pembina serta
+kegiatan-kegiatan apa saja yang dilakukan oleh santri selama di pondok pesantren.
+3. Aplikasi ini juga memudahkan pembina dalam merekap seluruh kegiatan santri mulai dari
+presensi santri di setiap kegiatan proses belajar mengajar, prestasi yang dicapai santri,
+hafalan Quran santri, dan lain sebagainya.
+4.2 Saran
+Berdasarkan simpulan dan analisis yang telah dilakukan, maka terdapat saransaran sebagai
+berikut:
+1. Penelitian ini dapat dijadikan referensi untuk penelitan selanjutnya
+2. Penelitian ini juga dapat ditambahkan lagi berbagai fitur agar lebih menarik.
+3. Penelitian selanjutnya dapat mengunggah aplikasi ke playstore sehingga lebih mudah
+untuk mendapatkan aplikasi
+
+33
+
+JDMSI, Vol. 2, No. 2, 2021, 21-34, ISSN: 2745-8458
+
+REFERENCES
+[1] Z. Dhofier, Tradisi Pesantren Studi tentang Pandangan Hidup Kyai. Jakarta: LP3ES, 1983.
+[2] S. Styawati, F. Ariany, D. Alita, and E. R. Susanto, “Pembelajaran Tradisional Menuju Milenial : Pengembangan
+Aplikasi Berbasis Web Sebagai Penunjang Pembelajaran E-Learning Pada Man 1 Pesawaran,” J. Soc. Sci. Technol.
+Community Serv. JSSTCS, vol. 1, no. 2, Oct. 2020, doi: 10.33365/jsstcs.v1i2.816.
+[3] S. Styawati and F. Ariany, “Sistem Monitoring Tumbuh Kembang Balita/Batita di Tengah Covid-19 Berbasis
+Mobile,” J. Inform. Univ. Pamulang, vol. 5, no. 4, p. 490, Dec. 2021, doi: 10.32493/informatika.v5i4.7067.
+[4] “Android Overview | Open Handset Alliance.” http://www.openhandsetalliance.com/android_overview.html
+(accessed Aug. 18, 2021).
+[5] M. I. Hidayat, “Aplikasi Monitoring Aktivitas Santri Berbasis Android (Studi Kasus : Pesantren Modern Ulul AlBab Makassar),” Universitas Islam Negeri Alauddin, Makassar, Skripsi, 2016.
+[6] S. Ariska, “Aplikasi Monitoring Kegiatan Santri Berbasis Android Pada Pondok Pesantren Dar El Hikmah,”
+Universitas Islam Negeri Sultan Syarif Kasim, Pekanbaru, Skripsi, 2019.
+[7] F. F. Rahmawati, A. Zaidiah, and I. N. Isnainiyah, “Sistem Monitoring Kegiatan Santri Pada Pondok Pesantren
+Riyadhussholihiin Kabupaten Pandeglang,” p. 13, 2020.
+[8] R. A. S and M. Salahuddin, Rekayasa Perangkat Lunak Terstruktur dan Berorientasi Objek. Yogyakarta:
+Informatika, 2015.
+[9] D. M. Kroenke, Database Processing Jilid 1 Edisi 9 : Dasar-dasar Desain, dan Implementasi 1, 9th ed. Jakarta
+Timur: Erlangga, 2008.
+[10] F.- Sonata, “Pemanfaatan UML (Unified Modeling Language) Dalam Perancangan Sistem Informasi E-Commerce
+Jenis Customer-To-Customer,” J. Komunika J. Komun. Media Dan Inform., vol. 8, no. 1, p. 22, Jun. 2019, doi:
+10.31504/komunika.v8i1.1832.
+[11] P. Simanjuntak and A. Kasnady, “Analisis Model View Controller (Mvc) Pada Bahasa Php,” p. 11, 2016.
+[12] “API:
+Pengertian,
+Fungsi,
+dan
+Cara
+Kerjanya,”
+Niagahoster
+Blog,
+Oct.
+24,
+2020.
+https://www.niagahoster.co.id/blog/api-adalah/ (accessed Aug. 18, 2021).
+
+34
+
+

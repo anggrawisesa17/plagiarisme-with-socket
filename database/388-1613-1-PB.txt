@@ -1,0 +1,559 @@
+Jurnal Teknologi dan Sistem Informasi (JTSI)
+Vol. 1, No. 2, Desember 2020, 42 - 49
+E-ISSN: 2746-3699
+available online at:http://jim.teknokrat.ac.id/index.php/JTSI
+
+SISTEM INFORMASI AKUNTANSI PENGENDALIAN INTERNAL
+TERHADAP PENJUALAN (STUDI KASUS : CV. ANUGRAH PS)
+Andi Ilham Rahmansyah1, Dedi Darwis2
+Sistem Informasi, Fakultas Teknik dan Ilmu Komputer, Universitas Teknokrat Indonesia 1
+Sistem Informasi Akuntansi, Fakultas Teknik dan Ilmu Komputer, Universitas Teknokrat Indonesia.2
+andiilham09@gmail.com1, dedikomdat@gmail.com2
+Received: (7 November 2020) Accepted: (12 Desember 2020) Published: (23 Desember 2020)
+
+Abstract
+CV. Anugrah PS is a distributor shop for selling animal feed located in Tanjung Bintang, South
+Lampung. The process of recording financial accounting at CV. This PS gift is not grouped so
+that it makes it difficult for employees to know the expenses and cash income of CV. Anugrah PS
+Based on the results of a survey evaluating current accounting transactions, it is necessary to
+record and view financial data in the ledger so that it affects the income or profit earned. System
+development method using Prototype method and system design using UML. Implementation of
+this system using Sublime Text and MySQL as a database, and system testing using ISO 9126.
+The results achieved are financial accounting information systems. This system is built based on
+the web to connect managed data between employees and leaders without having to deliver
+report files. With this built system aims to manage store financial data both cash receipts and
+cash disbursements. And produce reports needed by CV. PS.
+Keywords: Financial Information System, UML, ISO 9126
+
+Abstrak
+CV. Anugrah PS merupakan toko distributor penjualan pakan ternak yang berada di Tanjung
+Bintang, Lampung Selatan. Proses pencatatan akuntansi keuangan di CV. Anugrah PS ini belum
+terkelompok sehingga mengakibatkan karyawan kesulitan untuk mengetahui pengeluaran dan
+pemasukan kas CV. Anugrah PS Berdasarkan hasil survey mengevaluasi transaksi akuntansi
+yang berjalan dikarnakan harus mencatat dan melihat data keuangan didalam buku besar
+sehingga mempengaruhi pendapatan ataupun laba yang didapat. Metode pengembangan sistem
+menggunakan metode Prototype dan perancangan sistem menggunakan UML. Implementasi
+sistem ini menggunakan Sublime Text dan MySQL sebagai database, serta pengujian sistem
+menggunakan ISO 9126. Hasil yang dicapai yaitu sistem informasi akuntansi keuangan. Sistem
+ini dibangun berbsis web untuk menguhubungkan data yang dikelola antara karyawan dan
+pimpinan tanpa harus menghantarkan berkas laporan. Dengan adanya system yang dibangun ini
+bertujuan untuk mengelola data keuangan toko baik penerimaan kas, dan pengeluaran kas. Serta
+menghasilkan laporan yang dibutuhkan oleh CV. Anugrah PS.
+Kata Kunci: Sistem Informasi Keuangan, UML, ISO 9126
+To cite this article:
+Rahmansyah, Darwis, (2020). Sistem Informasi Akuntansi Pengendalian Internal Terhadap Penjualan (Studi Kasus : CV. ANUGRAH
+PS). Jurnal Teknologi dan Sistem Informasi, Vol (1), 42 - 49
+
+42
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 2, 42 - 49
+
+1. Pendahuluan
+
+didalam perusahaan. Begitupun penyebaran
+informasi yang tidak efektif membuat konsumen
+sulit untuk mengetahui informasi stok pakan yang
+dijual.
+Berkembangnya usaha-usaha perdagangan
+maka sebuah aplikasi akuntansi penjualan secara
+terkomputerisasi juga digunakan untuk menangani
+proses transaksi penjualan. Perusahaan tersebut
+melakukan proses transaksi penjualan dengan
+menggunakan sistem pembayaran secara tunai dan
+kredit sehingga dapat termasuk dalam kategori
+akuntans perusahaan [4]. Sistem informasi
+akuntansi sangat penting untuk mendukung
+kelangsungan perkembangan suatu perusahaan [5].
+Solusi dari masalah pengelolaan data
+penjualan maka akan dibangun sistem akuntansi
+dalam proses penjualan. Sistem ini dibangun
+berbasis web untuk menghubungkan data yang
+dikelola antara karyawan dan pimpinan tanpa harus
+mengantarkan berkas laporan. Dengan adanya
+sistem ini bertujuan untuk mengetahui keuangan
+perusahaan apakah perusahaan mengalami laba atau
+rugi sehingga dapat menormalkan penjualan, serta
+sistem yang dibangun memfasilitasi prosesnya
+transaksi penjualan agar lebih mudah, lebih
+menghemat waktu untuk menghitung jumlah pakan
+keluar, menginformasi yang lengkap mengenai
+informasi barang untuk memaksimalkan jalinan
+hubungan konsumen melalui pelayanan aplikasi
+penjualan.
+
+Teknologi sudah menjadi bagian tidak
+terpisahkan
+dalam
+kehidupan
+manusia.
+Perkembangan teknologi yang pesat saat ini sangat
+membantu dan mempermudah segala bidang
+kehidupan terutama pada pengelolaan Sistem
+Informasi Akuntansi. Kebutuhan bisnis yang
+semakin
+meningkat
+berpengaruh
+terhadap
+persaingan bisnis dibanyak perusahaan yang
+memanfaatkan teknologi untuk mengelola
+keuangan perusahaan [1]. Sistem informasi
+akuntansi merupakan suatu sistem informasi yang
+harus digunakan di setiap perusahaan seperti
+pengolahan transaksi atau subsistem dari akuntansi
+manajemen, akuntansi produksi, sumber daya
+manusia, keuangan dan lain lain sehingga
+tergantung kepada fungsi bisnis di dalam organisasi
+perusahaan [2].
+Sistem informasi akuntansi pada bagian
+keuangan sangat berhubungan dengan fungsi yang
+pengelolaan kegiatan arus dana ke dalam
+perusahaan. Kegiatan aruskas sendiri berupa dana
+diperlukan untuk mendukung kegiatan keuangan
+perusahaan sehingga pengontrolan terhadap arus
+dana sangat diperlukan agar penggunannya bisa
+efektif tanpa danya manipulasi. Sistem akuntansi
+dapat diolah sehingga dapat dijadikan bahan
+pertimbangan dalam berkembangnya suatu perusahaan. Sehingga memiliki peran yang sangat penting
+dalam suatu perusahaan untuk mengetahui kegiatan
+yang dilakukan dalam sebuah perusahaan [3]
+CV. Anugrah PS merupakan toko distributor
+penjualan pakan ternak yang berada di Tanjung
+Bintang, Lampung Selatan. Jenis pakan ternak yang
+dijual yaitu pakan ternak ayam antara lain merk
+ABS ayam buras super, Comfeed, Benefeed Cal 9,
+G 11 Crumble, dan beberapa jenis pakan lainnya.
+CV. Anugrah PS juga menjual obat ternak ayam
+yaitu obat paket nasa, viterna, dan vitamin. Selain
+itu juga CV. Anugrah PS menjual tempat ransum
+ayam (makanan ayam). Proses pencatatan akuntansi
+penjualan di CV. Anugrah PS masih dilakukan
+secara manual yaitu hanya menggunakan nota
+transaksi, sehingga kesulitan untuk mengevaluasi
+transaksi akuntansi yang berjalan dikarenakan
+masih berdasarkan nota sehingga memengaruhi
+pendapatan ataupun laba yang didapat. Tidak
+adanya laporan keuangan seperti kas masuk dan kas
+keluar dikarenakan masih melihat buku besar dan
+nota transaksi penjualan sehingga masih rentan
+terjadi kehilangan data. Berdasarkan masalah yang
+ada pada proses akuntansi yang berjalan maka dapat
+mengakibatkan kerugian perusahaan dikarenakan
+keuangan masuk dan keluar tidak diperhatikan
+
+2.
+
+Tinjauan Pustaka
+
+2.1.
+
+Sistem Informasi Akuntansi
+Menurut Mulyadi (2015) mengemukakan
+bahwa sistem informasi akuntansi yang telah dibuat
+oleh pihak manajemen untuk kebutuhan pengelolaan perusahaan harus memuat tujuan tujuan lain.
+2.2.
+
+Laporan Keuangan
+Menurut Bambang Riyanto (2018) keuangan
+merupakan sarana pengomunikasian informasi
+keuangan utama kepada pihak-pihak di luar
+perusahaan untuk menggambarkan kondisi
+keuangan dan hasil usaha suatu perusahaan pada
+saat tertentu atau jangka waktu tertentu. Berdasarkan Undang-Undang nomor 43 tahun 2009, arsip
+adalah sebuah rekaman kegiatan dalam berbagai
+bentuk dan media sesuai dengan perkembangan
+teknologi informasi dan yang dibuat dan diterima
+oleh sebuah perusahaan atau organisasi.
+2.3.
+
+Prototype
+Prototype adalah suatu versi sistem potensial
+yang disediakan bagi pengembang dan calon
+
+43
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 2, 42 - 49
+
+pengguna yang dapat memberikan gambaran
+bagaimana kira-kira sistem tersebut akan berfungsi
+bila telah disusun dalam bentuk yang lengkap.
+Proses dalam memproduksi suatu prototype disebut
+prototyping [8]. Empat Metode prototyping adalah
+menghasilkan prototype secepat mungkin, bahkan
+dalam satu malam dan memperoleh umpan balik
+dari pengguna yang memungkinkan prototype
+untuk ditingkatkan secepat mungkin. Proses ini
+diulang beberapa kali sehingga menghasilkan
+prototype yang dianggap sempurna.
+1
+
+Mengidentifikasi
+Kebutuhan Pemakai
+
+2
+
+Mengembangkan
+Prototype
+
+Tidak
+Prototype
+Dapat
+diterima..?
+
+3
+
+Gambar 2. Kerangka Penelitian
+Desain Sistem
+Untuk mewujudkan sistem yang lebih baik
+dalam sistem pengendalian dokumen maka akan
+dirancang sebuah program untuk sistem informasi
+pengendalian dokumen yang menggunakan
+Usecase Diagram.
+3.2.
+
+Ya
+
+4
+
+Gunakan Prototype
+
+Gambar 1. Pengembangan Prototyp [8]
+
+3.2.1. Usecase Diagram
+Berikut ini merupakan gambaran Use Case
+Diagram pada pengendalian dokumen dapat dilihat
+pada gambar 3.
+
+2.4.
+
+Pengujian ISO 9126
+Salah satu tolak ukur kualitas perangkat
+lunak adalah ISO 9126, yang dibuat oleh
+International Organization for Standardization
+(ISO)
+dan
+International
+Electrotechnical
+Commission (IEC). ISO 9126 mendefinisikan
+kualitas produk perangkat lunak, model,
+karakteristik mutu, dan metrik terkait yang
+digunakan untuk mengevaluasi dan menetapkan
+kualitas sebuah produk software [9].
+3.
+
+Metode Penelitian
+
+3.1.
+
+Kerangka Penelitian
+Kerangka pemikiran merupakan alur utama
+dari penelitian dengan urutan yang dapat dilihat
+pada gambar 2:
+
+Gambar 3. Use Case
+3.2.2. Activity Diagram
+Berikut ini gambaran Activity Diagram pada
+pengendalian dokumen dapat dilihat pada gambar 4.
+
+44
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 2, 42 - 49
+
+Gambar 6 Menu Login
+4.1.2. Menu Utama Admin
+Halaman ini menampilkan sebuah tampilan
+pembuka yang berisikan menu utama yang dapat
+diakses oleh bagian admin, pada menu ini terdapat
+menu beranda, menu, dapat dilihat pada gambar 7.
+
+Gambar 4. Activity Diagram
+3.2.3. Class Diagram
+Berikut ini gambaran Class Diagram pada
+pengendalian dokumen dapat dilihat pada gambar 5.
+
+Gambar 7. Menu Utama
+4.1.3. Menu Akun
+Menu Akun biaya adalah menu untuk
+menginputkan data jenis akun biaya. Dapat dilihat
+pada gambar 8.
+
+Gambar 5 Class Diagram
+4.
+
+Hasil dan Pembahasan
+
+4.1. Implementasi Sistem
+4.1.1. Menu Login
+Halaman ini menampilkan admin dan user
+yang sudah terdaftar ke sistem dengan input
+username dan password. Pada menu login ini
+terdapat tombol login untuk masuk kedalam sistem.
+Dapat dilihat pada gambar 6 dibawah ini.
+
+Gambar 8. Menu Akun
+4.1.4. Menu Sub Akun
+Menu Sun Akun biaya adalah menu untuk
+menginputkan data jenis sub akun biaya. Dapat
+dilihat pada gambar 9.
+
+45
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 2, 42 - 49
+
+Gambar 12. Menu Produk
+
+Gambar 9. Menu Sub Akun
+
+4.1.8. Menu Barang Masuk
+Menu barang masuk adalah menu untuk
+menginputkan data barang masuk. Dapat dilihat
+pada gambar 13.
+
+4.1.5. Menu Kategori
+Menu kategori adalah menu untuk
+menginputkan data kategori. Dapat dilihat pada
+gambar 10.
+
+Gambar 13. Menu Barang Masuk
+Gambar 10. Menu Kategori
+
+4.1.9. Menu Barang Keluar
+Menu barang keluar adalah menu untuk
+menginputkan data barang keluar. Dapat dilihat
+pada gambar 14.
+
+4.1.6. Menu Satuan
+Menu satuan adalah menu untuk
+menginputkan data satuan. Dapat dilihat pada
+gambar 11.
+
+Gambar 14. Menu Barang Keluar
+4.1.10. Menu Jurnal
+Menu jurnal adalah menu untuk
+menginputkan data jurnal. Dapat dilihat pada
+gambar 15.
+
+Gambar 11. Menu Satuan
+4.1.7. Menu Produk
+Menu produk adalah menu untuk
+menginputkan data produk. Dapat dilihat pada
+gambar 12.
+
+46
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 2, 42 - 49
+
+Gambar 15. Menu Jurnal
+
+Gambar 18. Menu Laporan Jurnal
+
+4.1.11. Menu Laporan Pembelian
+Menu laporan pembelian adalah menu untuk
+mencetak laporan kas keluar. Dapat dilihat pada
+gambar 16.
+
+4.1.14. Menu Laporan Buku Besar
+Menu laporan buku besar adalah menu untuk
+mencetak laporan buku besar. Dapat dilihat pada
+gambar 19.
+
+Gambar 19. Menu Laporan Buku Besar
+Gambar 16. Menu Laporan Pembelian
+
+4.1.15. Menu Laporan Laba Rugi
+Menu laporan laba rugi adalah menu untuk
+mencetak laporan laba rugi. Dapat dilihat pada
+gambar 20.
+
+4.1.12. Menu Laporan Penjualan
+Menu laporan penjualan adalah menu untuk
+mencetak laporan kas masuk. Dapat dilihat pada
+gambar 17.
+
+Gambar 20. Menu Laporan Laba Rugi
+4.1.16. Menu Laporan Neraca
+Menu laporan neraca adalah menu untuk
+mencetak laporan neraca. Dapat dilihat pada
+gambar 21.
+
+Gambar 17. Menu Laporan Penjualan
+4.1.13. Menu Laporan Jurnal
+Menu laporan jurnal adalah menu untuk
+mencetak laporan jurnal. Dapat dilihat pada gambar
+18.
+
+47
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 2, 42 - 49
+
+Gambar 24. Menu Grafik Stok Barang
+
+Gambar 21. Menu Laporan Neraca
+4.2.
+
+Hasil Keseluruhan Pengujian ISO 9126
+Berikut ini merupakan hasil keseluruhan dari
+pengujian ISO 9126 secara keseluruhan pada
+aplikasi dapat dilihat pada tabel 1.
+
+4.1.17. Menu Grafik Barang Masuk
+Menu grafik barang masuk adalah menu
+untuk melihat grafik barang masuk. Dapat dilihat
+pada gambar 22.
+
+Tabel 1. Hasil Keseluruhan Pengujian ISO 9126
+
+Berdasarkan hasil pengujian ISO 9126 yang
+telah dilakukan dengan melibatkan 3 responden
+bahwa kesimpulan kualitas kelayakan perangkat
+lunak yang dihasilkan secara keseluruhan mempunyai
+skala “Sangat Baik” dan menurut Sanusi (2012)
+dinilai layak untuk diterapkan.
+
+Gambar 22. Menu Grafik Barang Masuk
+
+4.3.
+
+Hasil Pembahasan
+Pembahasan dari pembuatan sistem
+informasi akuntansi penjualan dapat mengelola data
+penjualan secara cepat dan menampilkan informasi
+stok tanpa harus merekap satu-persatu, serta mudah
+dalam pembuatan laporan dikarenakan dapat dicetak
+secara priode. Dalam mengevaluasi sistem yang
+dibangun metode pengembangan sistem prototype,
+dan rancangan sistem menggunakan UML yaitu
+dengan model perancangan Usecase Diagram,
+Activity Diagram. Sistem ini diimplementasikan
+menggunakan aplikasi sublime text dan MySQL
+sebagai database. Hasil pengujian ISO 9126 yang
+telah dilakukan dengan melibatkan 3 responden
+bahwa kesimpulan kualitas kelayakan perangkat
+lunak yang dihasilkan secara keseluruhan mempunyai
+skala 92.87%.
+
+4.1.18. Menu Grafik Barang Keluar
+Menu grafik barang keluar adalah menu
+untuk melihat grafik barang keluar. Dapat dilihat
+pada gambar 23.
+
+Gambar 23. Menu Grafik Barang Keluar
+4.1.19. Menu Grafik Stok Barang
+Menu grafik stok barang adalah menu untuk
+melihat grafik stok barang. Dapat dilihat pada
+gambar 24
+
+5.
+5.1.
+
+Kesimpulan dan Saran
+
+Kesimpulan
+Berdasarkan hasil pembahasan yang telah
+dilakukan, maka dapat disimpulkan sebagai berikut :
+1. Penerapan sistem pengendalian internal
+untuk pengelolaan data akuntansi penjualan
+pada CV. Anugrah PS dimulai dari
+penginputan data akun, jenis akun, data
+
+48
+
+Jurnal Teknologi dan Sistem Informasi (JTSI), Vol: 1, No: 2, 42 - 49
+
+barang masuk, barang keluar, jurnal, produk,
+dan data kategori produk, sehingga
+menghasilkan laporan akuntansi sesuai
+dengan proses penjualan. Penerapan sistem
+pengendalian internal ini dirancang dengan
+UML dan diimplementasikan menggunakan
+aplikasi sublime text dan MySQL sebagai
+database.
+Sistem yang dibangun dapat membantu CV.
+Anugrah PS dalam mengetahui data
+akuntansi penjualan ataupun laba yang
+didapat secara cepat tanpa harus melihat
+nota satu-persatu dikarenakan dapat
+mencetak laporan pendapatan secara
+periode.
+
+[2]
+
+Saran
+Beberapa saran yang dapat di sampaikan
+pada akhir dari penelitian ini adalah sebagai berikut:
+1. Menggunakan aplikasi Mobile
+2. Membuat aplikasi e-commarce
+
+[5]
+
+2.
+
+[3]
+
+[4]
+
+.
+5.2.
+
+[6]
+
+Daftar Pustaka
+[1]
+
+[7]
+
+Setiawansyah, H. Sulistiani, And D. Darwis,
+“Penerapan Metode Agile Untuk Pengembangan Online Analytical Processing
+(OLAP) Pada Data Penjualan (Studi Kasus :
+CV Adilia Lestari )”, Jurnal CoreIT: Jurnal
+Hasil Penelitian Ilmu Komputer dan
+Teknologi Informasi, Vol. 6, No. 1, Pp. 50–
+56, 2020.
+
+[8]
+[9]
+
+49
+
+D. Darwis, F. D. Apriyanti, And E. R.
+Susanto, “Perancangan Sistem Informasi
+Akuntansi
+Pengeluaran
+Operasional
+Perusahaan (Study Kasus : PT Sari Segar
+Husada ),” Jurnal Teknokompak, Vol. 13,
+No. 1, Pp. 1–6, 2019.
+V. Fitriana Et Al., “Sistem Informasi
+Akuntansi Keuangan Perusahaan Jasa
+Outsourcing Studi Kasus : Pt . Cakrawala
+Matra Indonesia,” J. Penelit. Tek. Inform.,
+Vol. 1, No. 1, Pp. 1–6, 2017.
+A. Vidiasari And D. Darwis, “Perancangan
+Sistem Informasi Akuntansi Penjualan
+Kredit Buku Cetak (Studi Kasus : CV Asri
+Mandiri)”, J. Madani, Vol. 3, No. 1, Pp. 1–
+12, 2020.
+D. Darwis, D. Wahyuni, And D. Dartono,
+“Sistem Informasi Akuntansi Pengolahan
+Dana Kas Kecil Menggunakan Metode
+Imprest
+Pada
+PT
+Sinar
+Sosro
+Bandarlampung,” JTSI, Vol. 1, No. 1, Pp.
+15–21, 2020.
+Mulyadi, Akuntansi Biaya, Edisi Keli.
+Yogyakarta: Andi, 2015.
+Bambang Riyanto, Manajemen Lembaga
+Keuagan. Yogyakarta: Bpfe, 2018.
+R. Mcload, Sistem Informasi Manajemen.
+Yogyakarta: Graha Ilmu, 2017.
+A. Abran, R. E. Al-Qutaish, J.-M.
+Desharnais, And N. Habra, “Iso-Based
+Models To Measure Software Product
+Quality,” Softw. Qual. Meas. – Concepts
+Approaches, Pp. 61–96, 2018.
+
+4
+
+

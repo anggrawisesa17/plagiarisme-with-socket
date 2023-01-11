@@ -1,0 +1,694 @@
+120, EDU-MAT: Jurnal Pendidikan Matematika, Volume 7, Nomor 2, Oktober 2019, hlm. 120 – 129
+
+ANALISIS KESALAHAN SISWA
+DALAM MENYELESAIKAN SOAL CERITA MATEMATIKA
+BERDASARKAN LANGKAH PENYELESAIAN POLYA
+Nur Rofi’ah1, Hidayah Ansori2, Siti Mawaddah3
+1,2,3Pendidikan Matematika FKIP Universitas Lambung Mangkurat, Banjarmasin
+
+E-mail: nurrofiah18@gmail.com,ansori@ulm.ac.id, stmawaddah@ulm.ac.id
+DOI: 10.20527/edumat.v7i2.7379
+Abstrak: Soal cerita matematika seringkali dianggap sulit oleh para siswa, sehingga
+seringkali terdapat banyak kesalahan yang dibuat oleh siswa dalam menjawab soal
+cerita matematika. Tujuan dari penetian ini adalah menganalisis jenis kesalahan
+yang dibuat oleh siswa dalam menyelesaikan soal cerita matematika berdasarkan
+langkah penyelesaian Polya. Penelitian ini menggunakan metode penelitian
+deskriptif dengan pendekatan kuantitatif. Siswa kelas VII SMP Negeri Se-Kecamatan
+Banjarmasin Tengah merupakan Populasi dari penelitian ini. Pengambilan sampel
+dilakukan menggunakan teknik simple random sampling sehingga diambil sampel
+dari lima sekolah dengan jumlah 422 siswa. Teknik pengumpulan data memakai tes
+soal uraian serta dianalisis berdasarkan langkah penyelesaian Polya. Data dianalisis
+menggunakan statistik deskriptif. Hasil penelitian menunjukkan bahwa terdapat
+empat jenis kesalahan yang dilakukan siswa kelas VII SMP Negeri di Kecamatan
+Banjarmasin Tengah dalam menyelesaikan soal cerita materi Aritmatika Sosial
+berdasarkan langkah penyelesaian Polya yaitu kesalahan memahami masalah
+termasuk ke dalam kesalahan dengan kategori kecil. Sedangkan, kesalahan menyusun rencana, kesalahan menyelesaikan perencanaan, dan kesalahan memeriksa
+kembali termasuk ke dalam kesalahan dengan kategori cukup tinggi.
+Kata kunci: analisis kesalahan, soal cerita matematika,langkah penyelesaian Polya.
+Abstract: Mathematical word problems are often considered difficult by students, so
+there are many mistakes made by students in answering mathematical word
+problems. The research aim is to analyze the types of errors made by students in
+solving mathematical word problems based on Polya's completion steps. This
+research uses descriptive research method with quantitative approach. VII grade
+students of SMP Negeri in Central Banjarmasin District are the population of this
+study. Simple random sampling technique was used in the research so that five
+schools with a total 422 students had been choosen. Data collection techniques used
+test (essay questions) and it was analyzed based on Polya's completion steps. Data
+were analyzed using descriptive statistics. The results showed that there were four
+types of errors made by VII grade students of SMP Negeri in Central Banjarmasin
+District in solving mathematical word problems about Social Arithmetic based on
+Polya's completion steps, namely error in understanding problems included in errors
+with small categories. Meanwhile, error in planning, error in completing plans, and
+error in re-checking are included in the errors with a fairly high category.
+Keywords: error analysis, mathematical word problems, Polya's completion steps
+
+120
+
+Nur Rofi’ah, Hidayah Ansori, Siti Mawaddah, Analisis Kesalahan Siswa ......
+
+PENDAHULUAN
+Pendidikan ialah aktivitas yang
+dilakukan secara sadar dengan tujuan
+mengembangkan kualitas seseorang dalam
+suatu sistem pendidikan yang integral.
+Peningkatan mutu pendidikan dapat dilakukan di sekolah dengan memberikan pembekalan berbagai mata pelajaran kepada
+siswa, salah satunya adalah matematika
+(Djamarah, 2010).
+Mengingat matematika memiliki
+peranan yang sangat esensial, maka pemerintah dan ahli pendidikan matematika memberikan perhatian khusus terhadap peningkatan sistem pembelajaran matematika.
+Runtukahu & Kandou (2016) menyatakan
+bahwa dalam dunia pendidikan, terutama
+dalam pendidikan matematika untuk memecahkan berbagai masalah matematika dapat
+menggunakan pemecahan masalah sebagai
+pendekatan pembelajaran.
+Pada pembelajaran matematika
+berbasis masalah biasanya merupakan soal
+cerita matematika berwujud soal yang
+memuat permasalahan-permasalahan kontekstual yang bertalian dengan kegiatan
+sehari-hari siswayang dapat dituntaskan
+dengan memakai matematika. Dengan
+penggunaan soal cerita pada pembelajaran
+matematika diharapkan siswa dapat memiliki
+kemampuan pemecahan masalah sehingga
+dapat menggunakaannya sebagai landasan
+dalam memecahkan masalah dalam kehidupan sehari-hari. Pada kenyataannya berlandaskan dari observasi selama Praktik
+Pengajaran di SMP Negeri 26 Banjarmasin,
+ditemukan banyak sekali siswa yang kesulitan menyelesaikan permasalahan matematika. Terbukti saat peneliti melaksanakan
+evaluasi ketika pembelajaran di kelas banyak jawaban siswa yang tidak tepat, khususnya pada soal cerita matematika. Siswa
+akan menyelesaikan tugas yang diberikan
+dengan jawaban yang asal jadi, karena bagi
+
+121
+
+mereka matematika adalah persoalan
+hitung-hitungan yang harus dicari jawaban
+akhirnya tanpa memikirkan langkah-langkah
+yang harus digunakan.
+Hasil pengamatan tersebut diperjelas dengan hasil diskusi peneliti bersama
+guru matematika pada beberapa SMP
+Negeri di Banjarmasin yang membenarkan
+jika banyak sekali siswa yang merasa kesulitan ketika menjawab soal uraian terkhusus
+soal matematika berbentuk cerita. Siswa
+tidak terbiasa menjawab soal matematika
+berbentuk cerita dengan langkah yang runtut
+dan lengkap dikarenakan tidak dibiasakannya siswa untuk menggunakan langkahlangkah yang lengkap saat latihan di kelas.
+Untuk mata pelajaran matematika menuntut
+siswa fokus memperhatikan setiap langkah
+mengerjakan sangat sulit dan mereka yang
+malas untuk membaca menimbulkan berbagai macam kesalahan pada memecahkan
+permasalahan yang disediakan.
+Kesalahan yang ditimbulkan oleh
+siswa pada saat menyelesaikan soal cerita
+matematika ini bisa menjadi suatu petunjuk
+guna mengambarkan bagaimana penguasaan materi siswa pada peemasalahan
+tersebut. Untuk dapat mengetahui kesalahan
+yang ditimbulkan oleh siswa perlu dilakukannya identifikasi dengan mendetail. Untuk
+memudahkan identifikasi kesalahan yang
+dilakukan siswa, peneliti menggunakan klasifikasi kesalahan berdasarkan langkah
+penyelesaianoleh George Polya.
+Penelitian tentang analisis kesalahan berdasarkan langkah penyelesaian
+Polya pernah diterapkan pada beberapa
+penelitian yaitu diantaranya penelitian oleh
+Hidayah (2016) dengan judul “Analisis
+Kesalahan Siswa dalam Menyelesaikan Soal
+Cerita SPLDV Berdasarkan Langkah Penyelesaian Polya”. Sejalan dengan penelitian
+Wati, dkk (2017) dengan judul “Analisis
+Kesalahan Siswa dalam Menyelesaikan
+
+122, EDU-MAT: Jurnal Pendidikan Matematika, Volume 7, Nomor 2, Oktober 2019, hlm. 120 – 129
+
+Masalah Matematika Menggunakan Langkah
+Polya Siswa Kelas VII SMP”.
+Berlandaskan yang telah dipaparkan, maka peneliti tertarik untuk meneliti
+penelitian yang relevan dengan dikemas
+dalam penelitian deskriptif kuantitatif yang
+berjudul “Analisis Kesalahan Siswa dalam
+Menyelesaikan Soal Cerita Matematika
+Berdasarkan Langkah Penyelesaian
+Polya”.
+Adapun tujuan dari penelitian ini
+ialah untuk menganalisis jenis-jenis kesalahan yang ditimbulkan oleh siswa kelas VII
+SMP Negeri Se-Kecamatan Banjarmasin
+Tengah tahun pelajaran 2018/2019 dalam
+menyelesaikan soal cerita matematika
+berdasarkan langkah penyelesaian Polya.
+Soal cerita matematika ialah soal
+yang mengaitkan dengan permasalahan
+kontekstual dan mewajibkan siswa untuk
+berpikir secara lebih dalam sehingga siswa
+cakap dalam memahami sehingga siswa
+dapat menetapkan hal yang diketahui serta
+ditanyakan pada soal, serta menyelesaikannya dengan langkah yang pas sehingga
+memperoleh hasil yang akurat.
+Analisis kesalahan merupakan kegiatan untuk menguraikan penyimpangan
+yang terjadi dan digunakan untuk mengidentifikasi penyebab kesalahan siswa ketika
+mereka menyelesaikan masalah. Sehingga
+dari banyaknya penyebab kesalahan tersebut maka perlu dilakukannya analisis kesalahan menurut langkah penyelesaian Polya
+dalam mengkategorikan kesalahan yang
+ditimbulkan oleh siswa pada saat menjawab
+soal matematika berwujud cerita.
+Berdasarkan langkah-langkah Polya
+di atas maka jenis-jenis kesalahan berdasarkan langkah Polya menurut Fitriyah (2016)
+sebagai berikut: Kesalahan yang dikarenakan siswa gagal memahami soal, yang ditandai dengan siswa salah atau tidak menulis
+data yang diketahui dan ditanyakan dalam
+
+permasalahan. Kesalahan kedua yaitu dikarenakan siswa tidak bisa menyusun rencana
+siasat yang dipakai dalam pemecahan
+permasalahan, yang ditandai dengan siswa
+salah atau tidak bisa menuliskan rumus yang
+hendak dipakai guna menyelesaikan masalah. Kesalahan ketiga ialah dikarenakan
+siswa salah atau tidak dapat melaksanakan
+strategi yang sudah ditetapkan, yang
+ditandai dengan tidak bisa menyelesaikan
+perhitungan pada jawaban soal. Kesalahan
+yang terakhir dikarenakan siswa tidak dapat
+memeriksa kembali jawaban mereka, yang
+ditandai dengan siswa salah atau tidak bisa
+menuliskan kembali hasil yang mereka
+peroleh.
+Berdasarkan
+kesalahan
+yang
+dilakukan oleh siswa maka bisa diketahui
+faktor yang menyebabkan siswa membuat
+kesalahan pada saat menjawab soal cerita
+matematika. Kesalahan siswa adalah langkah utama untuk mengetahui kesulitan siswa
+dalam belajar matematika. Adapun
+Runtukahu & Kandou (2016) menyatakan
+ada beberapa karakteristik kesulitan belajar
+matematika diantaranya kurangnya kemampuan matematika dini, kesulitan pada
+bahasa dan membaca, kesulitan pada
+konsep arah dan waktu, serta kesulitan
+matematika lain.
+METODE PENELITIAN
+Penelitian ini menggunakan metode
+deskriptif dengan pendekatan kuantitatif.
+Penelitian ini akan mendeskripsikan kesalahan siswa dalam menyelesaikan soal cerita
+matematika berdasarkan langkah penyelesaian Polya pada siswa kelas VII SMP
+Negeri di Kecamatan Banjarmasin Tengah.
+Siswa kelas VII SMP Negeri di
+Kecamatan Banjarmasin Tengah merupakan
+populasi dari riset ini yang terdiri dari enam
+sekolah. Dari enam sekolah pada populasi
+dipilih lima sekolah sebagai sampel pene-
+
+Nur Rofi’ah, Hidayah Ansori, Siti Mawaddah, Analisis Kesalahan Siswa ......
+
+litian dan satu sekolah sebagai tempat uji
+validitas dengan memakai teknik simple
+random sampling. Kelas yang dipilih untuk
+sampel dari masing-masing sekolah dipilih
+menggunakan teknik simple random
+sampling dengan menggunakan tiga kelas
+pada tiap sekolah.
+Adapun guna menentukan jumlah
+sampel minimum yang representatif, digunakan rumus Slovin (Prasetyo & Jannah, 2014)
+sebagai berikut.
+
+Keterangan:
+= jumlah sampel minimum
+= jumlah populasi
+= kekeliruan sampling (diambil = 5%)
+Sehingga
+diperoleh
+jumlah
+sampel minimum dalam penelitian pada
+SMP Negeri di Kecamatan Banjarmasin
+tengah adalah sebagai berikut.
+
+123
+
+Sehingga didapatkan sampel minimum yang representatif adalah sebanyak
+314 orang siswa kelas VII SMP Negeri di
+Kecamatan Banjarmasin Tengah. Adapun
+sebanyak 422 siswa yang berasal dari 15
+kelas pada lima SMP Negeri di Kecamatan
+Banjarmasin Tengah merupakan sampel
+pada penelitian ini.
+Pelaksanaan penelitian ini bertepatan pada semester genap tahun ajaran
+2018/2019, selama kurun waktu 1 bulan
+dimulai dari uji validitas soal pada tanggal 1
+April 2019 dan diakhiri pada tanggal 30 April
+2019. Bertempat di SMP Negeri di Kecamatan Banjarmasin Tengah. Distribusi populasi dan tempat penelitian ditampilkan pada
+Tabel 1 berikut.
+
+Tabel 1 Distribusi Populasi dan Tempat Penelitian
+Populasi Penelitian
+SMP Negeri 1 Banjarmasin
+SMP Negeri 2 Banjarmasin
+SMP Negeri 6 Banjarmasin
+SMP Negeri 9 Banjarmasin
+SMP Negeri 10 Banjarmasin
+SMP Negeri 26 Banjarmasin
+Teknik pengumpulan data menggunakan teknik tes. Data yang didapatkan
+adalah data jenis–jenis kesalahan yang
+dilakukan siswa berdasarkan langkah
+penyelesaian masalah Polya dan data
+persentase masing-masing kesalahan guna
+mengetahui jenis kesalahan yang sering
+dibuat oleh siswa.
+
+Keterangan
+Tempat Penelitian
+Tempat Validitas
+Tempat Penelitian
+Tempat Penelitian
+Tempat Penelitian
+Tempat Penelitian
+Mengidentifikasi kesalahan-kesalahan yang ditimbulkan oleh siswa pada
+penyelesaian soal cerita matematika bisa
+dilakukan dengan melihat proses penyelesaian yang ditulis siswa dan diidentifikasi
+sesuai dengan indikator kesalahan siswa
+berdasarkan langkah penyelesaian Polya
+yang disajikan pada Tabel 2.
+
+124, EDU-MAT: Jurnal Pendidikan Matematika, Volume 7, Nomor 2, Oktober 2019, hlm. 120 – 129
+
+Tabel 2 Indikator Kesalahan Siswa Berdasarkan Langkah Penyelesaian Polya
+Kesalahan pada
+Langkah
+Memahami
+Masalah
+
+Merencanakan
+penyelesaian
+
+Menyelesaikan
+perencanaan
+
+Memeriksa
+Kembali
+
+Indikator
+1. Siswa salah dalam menentukan apa yang diketahui pada soal.
+2. Siswa salah dalam menentukan apa yang ditanyakan pada soal.
+3. Siswa tidak menuliskan apa yang diketahui pada soal.
+4. Siswa tidak menuliskan apa yang ditanyakan pada soal.
+1. Siswa salah dalam menentukan rumus yang tepat untuk menjawab soal
+cerita.
+2. Siswa menuliskan rumus yang digunakan dengan tidak lengkap.
+3. Siswa tidak menuliskan rumus yang digunakan dalam soal.
+1. Siswa salah dalam menyelesaikan langkah-langkah penyelesaian.
+2. Siswa melakukan kesalahan saat memasukkan hal-hal yang diketahui ke
+dalam rumus.
+3. Siswa melakukan kesalahan dalam melakukan perhitungan atau komputasi.
+4. Siswa melakukan kesalahan karena tidak dapat menyelesaikan perhitungan
+untuk menentukan jawaban soal.
+5. Siswa melakukan kesalahan karena tidak dapat menyelesaikan langkah
+penyelesaian dengan lengkap.
+6. Siswa tidak menuliskan langkah-langkah yang digunakan dalam
+penyelesaian soal.
+1. Siswa melakukan kesalahan dalam penarikan kesimpulan sesuai dengan
+yang ditanyakan pada soal.
+2. Siswa menuliskan kesimpulan tidak sesuai dengan permasalahan yang
+diberikan.
+3. Siswa tidak menuliskan kembali hasil penyelesaian yang diperoleh.
+
+Penelitian ini menggunakan analisis
+data kuantitatif statistika deskriptif. Guna
+melihat besarnya persentase dari kesalahan
+pada setiap langkah yang ditimbulkan oleh
+siswa menurutPolya bisa memakai analisis
+data kuantitatif.
+Kesalahan yang ditimbulkan siswa
+dalam menjawab soal cerita matematika
+dapat dipersentasekan denganmemakai
+rumus berikut (Nilasari, Hobri, & Lestari,
+2014).
+
+Dimana:
+= persentase masing-masing kategori
+kesalahan
+= banyaknya kesalahan untuk masingmasing kategori kesalahan
+= banyaknya kesalahan untuk seluruh
+kategori kesalahan
+Adapun Tabel 3 berikut menyajikan
+klasifikasi persentase jenis kesalahan yang
+ditimbulkan oleh siswa menurut Sutejo.
+
+124
+
+Nur Rofi’ah, Hidayah Ansori, Siti Mawaddah, Analisis Kesalahan Siswa ......
+
+125
+
+Tabel 3 Klasifikasi Persentase Jenis Kesalahan
+Persentase
+
+Kategori
+Sangat tinggi
+Tinggi
+Cukup tinggi
+Kecil
+Sangat Kecil
+(Nilasari, Hobri, & Lestari, 2014)
+
+HASIL DAN PEMBAHASAN
+Berdasarkan hasil dari riset yang
+telah dilaksanakan dengan membagikan soal
+tes uraian sebanyak 2 (dua) butir soal
+
+kepada sampel penelitian yang berjumlah
+422 siswa, diperoleh hasil rekapitulasi
+kesalahan siswa yang ditampilkandalam
+Tabel 4 berikut.
+
+Tabel 4 Rekapitulasi Kesalahan yang Dilakukan Siswa
+
+Butir Soal
+
+Memahami
+
+Letak Kesalahan pada Langkah
+Merencanakan Menyelesaikan
+
+26,74
+
+2823
+
+Memeriksa
+
+1
+288 20,99 344
+25,07
+344
+26,75 372
+2
+295 20,33 395
+27,22
+395
+26,05 383
+Jumlah
+Kesalahan
+583 20,65 739
+26,18
+739
+26,39 755
+Per Langkah
+Keterangan:
+Jenis Kesalahan
+Memahami
+: Kesalahan dalam langkah memahami soal.
+Merencanakan : Kesalahan dalam langkah menyusun rencana.
+Menyelesaikan : Kesalahan pada langkah menyelesaikan perencanaan.
+Memeriksa
+: Kesalahan pada langkah memeriksa kembali jawaban.
+: Frekuensi Kesalahan
+: Persentase Kesalahan
+Hasil penelitian pada tes soal cerita
+matematika memperlihatkan jika terdapat
+banyak sekali kesalahan yang dibuat oleh
+siswa pada saat menjawab soal cerita
+matematika. Kesalahan yang dibuat oleh
+siswa terdiri dari 4 (empat) jenis kesalahan
+menurut langkah penyelesaian Polya.
+1. Kesalahan pada langkah memahami
+masalah
+Polya (2004) menyatakan dalam
+memahami masalah dimulai dengan
+memahami bahasa dan istilah pada soal dan
+
+27,11
+26,40
+
+Jumlah
+Kesalahan
+Per Butir
+Soal
+1372
+1451
+
+merumuskan hal yang diketahui, lalu
+memastikan hal yang diketahui tersebut
+memadaiguna menentukan hal yang ingin
+didapatkan pada soal.
+Hasil analisis menunjukkan hasil
+persentase kesalahan memahami masalah
+sebesar 20,65%. Kesalahan pada langkah
+memahami masalah ini termasuk ke dalam
+kesalahan berkategori rendah, yang artinya
+kesalahan yang terdapat pada langkah ini
+masih cenderung sedikit dibanding kesalahan lainnya. Pada analisis jawaban siswa,
+
+126, EDU-MAT: Jurnal Pendidikan Matematika, Volume 7, Nomor 2, Oktober 2019, hlm. 120 – 129
+
+kesalahan yang paling banyak muncul adalah siswa tidak mencantumkan secara lengkap data yang ditanyakan, siswa tidak
+menuliskan jawaban secara lengkap pada
+penyelesaian soal karena siswa berhenti
+mengerjakan penyelesaian saat pertanyaan
+pertama terjawab. Siswa melupakan pertanyaan kedua yang juga harus dijawab dikarenakan tidak mencantumkan data yang
+ditanyakan secara menyeluruh. Kesalahan
+yang biasanya muncul berikutnya dapat
+berupa siswa keliru dalam menuliskan data
+yang diketahui atau ditanyakan, sehingga
+siswa juga keliru dalam memasukkan data
+yang disajikan pada rumus yang akan
+digunakan, sehingga menyebabkan kesalahan pada langkah menyelesaikan perencanaan.
+Adapun faktor yang menyebabkan
+kesalahan pada langkah memahami masalah ini adalah kurangnya kemampuan dalam
+bahasa dan membaca. Runtukahu & Kandou
+(2016) memaparkan “Anak yang memiliki
+kemampuan bahasa dan membaca yang
+kurang akan bingung jika dihadapkan
+dengan istilah-istilah matematika, seperti
+tambah, kurang, meminjam, dan nilai tempat
+terlebih dengan soal-soal cerita”. Dalam hal
+ini faktor kesalahan adalah adanya kesulitan
+belajar anak karena kurang memahami
+struktur bahasa soal cerita.
+2. Kesalahan pada langkah menyusun
+rencana
+Polya (2004) menyatakan siswa
+dapat membuatperencanaan ketika siswa
+tahu, atau setidaknya tahu secara garis
+besar perhitungan atau konstruksi mana
+yang harus siswa lakukan untuk mendapatkan hal yang tidak diketahui. Polya menyatakan bahwa pencapaian utama dalam
+pemecahan masalah adalah untuk menyusun ide rencana. Dalam hal penyusunan
+rencana ini Polya juga menyatakan bahwa
+sulit untuk memiliki ide yang baik untuk
+
+menyusun rencana jika siswa memiliki
+pengetahuan yang sedikit tentang subjek,
+dan tidak mungkin untuk memiliki ide yang
+baik jika kita tidak memiliki pengetahuan
+sama sekali. Dalam langkah ini siswa
+dihapkan bisa mencantumkan rumus yang
+setelahnya bisa diselesaikan dengan
+mensubstitusikan data yang sudah diketahui.
+Hasil analisis data menunjukkan
+hasil persentase kesalahan dalam langkah
+menyusun rencana adalah sebesar 26,18%.
+Kesalahan pada langkah memahami masalah ini termasuk ke dalam kesalahan berkategori cukup tinggi, yang artinya kesalahan
+yang terdapat pada langkah ini termasuk
+kesalahan yang frekuensinya cukup banyak
+dari pada kesalahan pada langkah memahami masalah sebelumnya. Pada hasil
+analisis didapatkan bahwa kebanyakan
+kesalahan yang ditemukan adalah siswa
+kurang lengkap dan keliru dalam menuliskan
+rumus sehingga kesalahan pada langkah ini
+menyebabkan kesalahan juga pada langkah
+penyelesaian perencanaan dan pada langkah memeriksa kembali. Serta ditemukan
+beberapa kesalahan siswa tidak menuliskan
+rumus sehingga siswa tidak tahu bagaimana
+melanjutkan ke langkah selanjunya.
+Adapun faktor yang menyebabkan
+kesalahan pada langkah ini adalah kurangnya ketelitian dan pengetahuan tentang
+materi prasyarat yang berhubungan dengan
+permasalahan yang disediakan. Dan juga,
+masihterbatasnya kemampuan yang dipunya
+oleh siswa pada tahap memanipulasi dan
+mengkonstruksikan data yang diketahui dan
+ditanyakan untuk membuat rencana rumus
+yang hendak dipakai dalam langkah selanjutnya yaitu menyelesaikan perencanaan.
+Sebagaimana yang dinyatakan oleh
+Runtukahu & Kandou (2016) bahwa “Jika
+keterampilan prasyarat tidak dimiliki,
+pengajaran matematika akan percuma saja
+diberikan, matematika sangat terstruktur,
+
+Nur Rofi’ah, Hidayah Ansori, Siti Mawaddah, Analisis Kesalahan Siswa ......
+
+yang mana satu kemampuan merupakan
+prasyarat bagi kemampuan berikutnya”.
+3. Kesalahan pada langkah menyelesaikan
+perencanaan
+Menurut Polya (2014) dalam
+langkah ini siswa menjalankan operasi
+penghitungan dengan menggunakan konsep
+ataupun teorema yang cocok dengan
+permasalahan yang diberikan.Lalu siswa
+dapat mensubstitusikan data yang diketahui
+ke dalam rumus yang sudah didapatkan di
+langkah membuat perencanaan penyelesaian. Selanjutnya siswa bisa mengerjakan
+langkah-langkah penyelesaian sehingga
+permasalahan tersebut dapat terselesaikan.
+Hasil analisis menunjukkan hasil
+persentase kesalahan dalam tahap menyusun rencana adalah sebesar 26,39%.
+Kesalahan pada langkah menyelesaikan
+masalah ini merupakan kesalahan yang
+berkategori cukup tinggi, yang mana
+merupakan kesalahan yang lebih banyak
+dibandingkan kesalahan pada langkahlangkah sebelumnya. Adapun kesalahan
+yang paling sering muncul adalah kesalahan
+dalam langkah menyelesaikan perencanaan
+ini adalah siswa melakukan kesalahan pada
+operasi hitung dikarenakan kurangnya
+ketelitian dan kurangnya kemampuan prasyarat seperti pada operasi perkalian dan
+penjumlahan. Dimana kesalahan yang
+muncul juga disebabkan kesalahan siswa
+pada langkah-langkah sebelumnya.
+Sehubungan dengan langkah
+penyelesaian rencana ini, Hartini (2008)
+menjabarkan bahwa “Dalam menyelesaikan
+soal cerita, terlebih yang berupa soal uraian,
+siswa diharapkan dapat menuliskan serta
+menjelaskan secara runtut proses penyelesaian masalah yang diberikan dengan cara
+memilih dan mengidentifikasi kondisi dan
+konsep yang relevan, mencari generalisasi,
+merumuskan rencana penyelesaian dan
+
+127
+
+mengorganisasi keterampilan yang telah
+dimiliki sebelumnya”. Namun pada penelitian
+ini kebanyakan siswa tidak menuliskan
+proses penyelesaian masalah secara runtut
+dan lengkap, serta siswa belum mampu
+menetapkan konsep serta kondisi yang
+relevan dengan soal yang diberikan,
+sehingga terdapat banyak kesalahan pada
+tahap menyelesaikan perencanaan.
+Kesalahan pada langkah ini umumnya disebabkan oleh kurangnya kemampuan
+matematika dini. Sebagaimana menurut
+Runtukahu & Kandou (2016) kemampuan
+matematika dini siswa yang berupa kemampuan menghitung, pengetahuan awal siswa
+tentang konsep penjumlahan, dan sebagainya yang seharusnya dimiliki sejak usia
+sebelum sekolah yang mana berperan
+penting terhadap kemampuan siswa dalam
+menyelesaikan
+perencanaan.
+Sejalan
+dengan langkah sebelumnya, kesalahan
+pada langkah ini juga disebabkan karena
+kurangnya kemampuan prasyarat siswa
+tentang operasi perhitungan, dimana
+pentingnya kemampuan prasyarat tersebut
+guna menunjang langkah penyelesaian ini.
+4. Kesalahan pada langkah memeriksa
+kembali
+Pada langkah ini siswa diharapkan
+agar berusaha untuk memeriksa kembali
+setiap tahap pada langkah sebelumnya
+dengan teliti. Polya (2004) menyatakan jika
+banyak manfaat yang didapatkan dengan
+meluangkan waktu guna memeriksa kembali
+penyelesaian yang sudah dilakukan.Salah
+satunya adalah demi menghindari kesalahan
+yang mungkin saja terjadi.
+Hasil analisis menunjukkan hasil
+persentase kesalahan pada langkah memeriksa kembali adalah sebesar 26,74%. Kesalahan pada langkah memeriksa kembali ini
+berkategori cukup tinggi dankesalahan ini
+merupakan yang terbanyak ditimbulkan oleh
+
+128, EDU-MAT: Jurnal Pendidikan Matematika, Volume 7, Nomor 2, Oktober 2019, hlm. 120 – 129
+
+siswa dari pada kesalahan lainnya.Dalam
+langkah ini kesalahan terbanyak yang
+ditimbulkan oleh siswa yaknidalam menuliskan kesimpulan dengan tidak lengkap
+dikarenakan terjadi kesalahan dalam
+mencantumkan hal yang ditanyakan pada
+langkah memahami masalah, jadi menyebabkan kesalahan pada langkah penyelesaian masalah khususnya langkah memeriksa kembali. Kesalahan siswa pada langkah-langkah sebelumnya juga berpengaruh
+terhadap kesalahan pada tahap ini, sehingga
+siswa menarik kesimpulan yang salah juga.
+Kemudian, ditemukan beberapa kesalahan
+pada langkah ini dimana siswa tidak
+menuliskan kesimpulan.
+Dalam menyelesaikan soal cerita
+berbentuk cerita, Hartini (2018) menjabarkan
+bahwa “Kompetensi yang harus dimiliki
+siswa dalam menyelesaikan soal cerita
+diantaranya yaitu kemampuan siswa untuk
+menarik kesimpulan dari hasil perhitungan
+yang siswa lakukan dan mengaitkannya
+dengan soal awal yang akan diselesaikan”.
+Dalam hal ini masih kurangnya kemampuan
+siswa dalammenyimpulkanhasil jawaban
+yang sudah ditemukan. Siswa cenderung
+lebih banyak tidak menuliskan kesimpulan
+dikarenakan tidak terbiasa memeriksa kembali hasil jawaban mereka. Serta banyaknya
+kesalahan penulisan kesimpulan disebabkan
+oleh kesalahan siswa dalam menyelesakan
+masalah pada langkah-langkah sebelumnya.
+PENUTUP
+Berdasarkan hasil dari penelitian
+yang sudah dipaparkan, dapat disimpulkan
+yakni: (1) kesalahan pada langkah memahami masalah termasuk ke dalam kategori
+kecil, (2) kesalahan pada langkah merencanakan penyelesaian merupakan kesalahan berkategori cukup tinggi, (3) kesalahan
+pada langkah menyelesaikan perencanaan
+merupakan kesalahan berkategori cukup
+
+tinggi, (4) kesalahan pada langkah memeriksa kembali merupakan kesalahan berkategori cukup tinggi.
+Berlandaskan hasil dari riset yang
+telah dipaparkan, saran yang bisa disampaikan yakni:
+(1) Bagi siswa: melihat masih adanya siswa yang banyak melakukan kesalahan
+berdasarkan langkah penyelesaian
+masalah Polya, maka diharapkan siswa
+agar belajar lebih rajin khususnya
+dalam berlatih menjawab soal cerita.
+(2) Bagi guru: agarlebih membiasakan
+siswa dalam menyelesaikan soal cerita
+matematika serta memberikan bimbingan dalam menyelesaikannya dan
+hasil penelitian ini dapat dijadikan
+sebagai evaluasi untuk mengetahui
+sejauh mana siswa sudah memahami
+materi yang diberikan.
+(3) Bagi peneliti: diharapkan dapat dilaksanakan penelitian lanjutan berkenaan
+dengan kesalahan yang ditimbulkan
+oleh siswa dalam menjawab permasalahan berlandaskan langkah penyelesaian Polya, agar penelitiannya bisa
+lebih mendalam.
+
+DAFTAR RUJUKAN
+Djamarah, S. B. (2010). Guru dan Anak Didik
+dalam Interaksi Edukatif. Jakarta:
+Rineka Cipta.
+Fitriyah, N. N. (2016). Analisis Kemampuan
+Pemecahan Masalah dan Kesalahan
+Siswa Kelas VII dalam Menyelesaikan Soal Cerita pada Materi Segi
+Empat Melalui PBL. (Unpublished
+undergraduate thesis). Universitas
+Negeri Semarang, Semarang.
+Hartini. (2008). Analisis Kesalahan Siswa
+Menyelesaikan Soal Cerita pada
+Kompetensi Dasar Menemukan Sifat
+
+Nur Rofi’ah, Hidayah Ansori, Siti Mawaddah, Analisis Kesalahan Siswa ......
+
+dan Menghitung Besaran-besaran
+segi Empat Siswa Kelas VII semester
+II SMP IT Nur Hidayah Surakarta
+Tahun Pelajaran 2006/2007. (Unpublished master thesis). Universitas
+Sebelas Maret, Surakarta.
+Nilasari, T. F., Hobri, & Lestari, N. D. (2014).
+Analisis Kesalahan Siswa Berdasarkan Kategori Kesalahan Watson
+dalam Menyelesaikan Soal-soal Himpunan Kelas VII D SMP Negeri 11
+Jember. (Online). http://repository.
+unej.ac.id/bitstream/handle/1234 567
+89/64146/TRISTIAN%20FEBRIANA
+
+129
+
+%20NILASARI.pdf?sequence=1.
+Diakses tanggal 15 Maret 2019.
+Polya, G. (2004). How to Solve It a
+newaspect of mathematical method.
+United Stases of America: Princeton
+Science Library.
+Prasetyo, B., & Jannah, M. L. (2014).
+Metode Penelitian Kuantitatif: Teori
+dan Aplikasi. Depok: Rajagrafindo
+Persada.
+Runtukahu, J., & Kandou, S. (2014).
+PembelajaranMatematika Dasar bagi
+Anak Berkesulitan Belajar. Yogyakarta: Ar-ruzz Media.
+
+

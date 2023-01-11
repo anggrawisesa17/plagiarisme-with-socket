@@ -1,0 +1,1259 @@
+Journal of Fisheries Resources Utilization Management and Technology
+Volume 2, Nomor 1, Tahun 2013, Hlm 1-10
+Online di : http://www.ejournal-s1.undip.ac.id/index.php/jfrumt
+
+ANALISIS BIOEKONOMI IKAN PELAGIS
+PADA USAHA PERIKANAN TANGKAP
+DI PELABUHAN PERIKANAN PANTAI TAWANG
+KABUPATEN KENDAL
+Dhiya Rifqi Rahman*), Imam Triarso, dan Asriyanto
+Program Studi Pemanfaatan Sumberdaya Perikanan, Jurusan Perikanan
+Fakultas Perikanan dan Ilmu Kelautan, Universitas Diponegoro
+Jl. Prof. Soedarto, Tembalang (email : dhiyarifqirahman@yahoo.com)
+
+ABSTRAK
+Perairan Kabupaten Kendal merupakan salah satu wilayah penyebaran ikan pelagis yang
+cukup potensial yang kelestarian sumberdayanya dapat terancam. Tujuan dari penelitian ini adalah
+untuk menganalisis aspek biologi dan ekonomi tingkat pemanfaatan sumberdaya ikan pelagis di
+Pelabuhan Perikanan Pantai Tawang Kabupaten Kendal yang meliputi produksi ikan pelagis per
+usaha penangkapan, Maximum Sustainable Yield (MSY), Maximum Economic Yield (MEY), dan
+Open Access Equilibrium (OAE). Penelitian ini dilaksanakan pada bulan Maret-April 2012. Materi
+penelitian ini adalah unit usaha perikanan tangkap yang mendaratkan hasil tangkapan ikan pelagis
+di PPP Tawang. Metode penelitian yang digunakan adalah metode deskriptif yang bersifat studi
+kasus dengan jumlah sampel 30 nelayan. Metode analisa data yang digunakan adalah metode time
+series dan metode bioekonomi model Gordon-Schaefer. Hasil penelitian menunjukkan bahwa nilai
+rata-rata Catch per Unit Effort (CPUE) sumberdaya ikan pelagis pada tahun 2007-2011 di PPP
+Tawang Kabupaten Kendal adalah 0,417 ton/trip. Produksi optimal (Copt) pada Maximum
+Sustainable Yield (MSY) sebesar 307,168 ton/tahun dengan effort optimum (Eopt) 490 trip/tahun.
+Produksi optimal (Copt) pada Maximum Economic Yield (MEY) sebesar 307,008 ton/tahun dan
+effort optimum (Eopt) sebesar 479 trip/tahun. Produksi optimal (Copt) pada Open Access
+Equilibrium (OAE) sebesar 27,342 ton/tahun dan effort optimum (Eopt) sebesar 958 trip/tahun.
+Tingkat pemanfaatan rata-rata sumberdaya ikan pelagis selama 5 tahun terakhir di PPP Tawang
+Kabupaten Kendal sebesar 85,57%.
+Kata Kunci : Sumberdaya Ikan Pelagis; Bioekonomi; PPP Tawang Kabupaten Kendal
+
+ABSTRACT
+Kendal Regency Seawaters is one of distribution area of potential pelagical fish. If there
+is no control in the resources utilization, the resources will be threaten. This research aims were
+to analyze biological and economic aspect of the utilization of the pelagic fish in Tawang fishing
+port Kendal Regency Seawaters which includes Catch per Unit Effort (CPUE), Maximum
+Sustainable Yield (MSY), Maximum Economic Yield (MEY), and Open Access Equilibrium (OAE).
+This research conducted in March-April 2012. Research material was unit of fishing industries
+was put pelagical fish target in Tawang fishing port. Research method was case study descriptive
+method. Sampling method was purposive sampling with 30 samples obtained. Data analysis
+method used time series and bioeconomic method – Gordon-Schaefer Model. This study showed
+that the average of Catch per Unit Effort (CPUE) pelagical fish potency rate for 2007-2011 in
+Tawang fishing port Kendal Regency Seawaters is 0, 417 tonnes/trip. The optimum product (Copt)
+of the Maximum Sustainable Yield (MSY) was 307,168 tonnes per year with optimum effort (Eopt)
+was 490 trip per year. The optimum product (Copt) of the Maximum Economic Yield (MEY) was
+307,008 tonnes per year with optimum effort (Eopt) was 479 trip per year. The optimum product
+(Copt) of the Open Access Equilibrium (OAE) was 27,342 tonnes per year with optimum effort
+(Eopt) was 958 trip per year. The pelagical fish resource utilization rate during the last 5 years in
+Tawang fishing port Kendal Regency has an average rating of 85,57%.
+Keywords : Pelagical Fish Resource; Bioeconomic; Tawang Fishing Port Kendal Regency
+
+*) Penulis Penanggung Jawab
+
+1
+
+Journal of Fisheries Resources Utilization Management and Technology
+Volume 2, Nomor 1, Tahun 2013, Hlm 1-10
+Online di : http://www.ejournal-s1.undip.ac.id/index.php/jfrumt
+
+PENDAHULUAN
+Perairan
+Kabupaten
+Kendal
+merupakan
+salah
+satu
+wilayah
+penyebaran ikan demersal dan pelagis
+yang cukup potensial di perairan Utara
+Jawa Tengah. Pemanfaatan sumberdaya
+ikan hingga kini diusahakan oleh
+nelayan dengan menggunakan berbagai
+macam alat tangkap seperti jaring
+Rampus, Dogol, jaring Klitik, jaring
+Ampera, jaring Cakalang, Bubu, jaring
+Milinium, jaring Arad, Pukat Kantong
+Mini dan jaring Cantrang.
+Salah satu basis utama industri
+perikanan tangkap di Kabupaten Kendal
+berdasarkan data statistik adalah
+Pelabuhan Perikanan Pantai Tawang
+yang memiliki jumlah usaha perikanan
+tangkap
+yang
+dicirikan
+dengan
+penggunaan sarana penangkapan perahu
+motor tempel serta kapal motor
+berukuran kurang dari 30 GT tahun
+2011 berjumlah 867 unit dari 1404 unit
+perahu motor tempel dan 26 unit kapal
+motor yang ada di Kabupaten Kendal
+(DKP Kendal, 2011). Oleh karena itu,
+sumberdaya perikanan tangkap di
+Kabupaten Kendal perlu dikelola dengan
+benar sehingga didapatkan manfaat
+secara optimal dan lestari.
+Seiring dengan usaha untuk
+meningkatkan pemanfaatan sumberdaya
+perikanan dalam bidang penangkapan,
+maka nampak sekali telah terjadi
+fluktuasi jumlah hasil tangkapan tiap
+tahun khususnya ikan pelagis di daerah
+Kendal. Menurut Purnomo (2002),
+dikatakan dalam penelitian analisis
+potensi dan permasalahan sumberdaya
+ikan pelagis kecil di perairan Utara Jawa
+Tengah dengan menggunakan model
+surplus produksi schaefer, bahwa ratarata nilai tingkat pemanfaatan mencapai
+90,75%, sedangkan berdasarkan hasil
+perhitungan tersebut jika didasarkan
+pada kesepakatan internasional yang
+tertuang pada Code of Conduct for
+Responsible Fisheries (CCRF), maka
+sumberdaya yang boleh ditangkap hanya
+sekitar 80% dari potensi yang ada
+(Nikijuluw, 2002).
+Hal ini mengindikasikan adanya
+tingkat pemanfaatan sumberdaya ikan
+
+*) Penulis Penanggung Jawab
+
+pelagis di perairan Utara Jawa Tengah
+telah berada dalam kondisi overfishing.
+Hal ini diduga karena jumlah stok ikan
+yang semakin berkurang serta armada
+penangkapan yang semakin meningkat.
+Oleh karena itu perlu dilakukan
+penelitian
+mengenai
+tingkat
+pemanfaatan dilihat dari aspek biologi
+dan ekonomi di perairan Utara Jawa
+Tengah khususnya Kabupaten Kendal
+karena perairan Kabupaten Kendal
+memiliki potensi perikanan yang
+semakin berkembang.
+Permasalahan tersebut di atas
+perlu dikaji, baik dari segi biologi
+maupun ekonomis yaitu dengan
+pendekatan
+bioekonomi
+GordonSchaefer untuk mengetahui nilai MSY,
+MEY, dan OAE dengan memasukkan
+aspek
+ekonomi
+(modal,
+biaya,
+penyusutan,
+pendapatan,
+dan
+keuntungan) serta kendala biologi dalam
+pengelolaan sumberdaya perikanan.
+Tujuan penelitian ini adalah:
+1. Menganalisis aspek biologi dan
+ekonomi
+tingkat
+pemanfaatan
+sumberdaya ikan pelagis pada usaha
+perikanan tangkap di PPP Tawang
+Kabupaten Kendal yang meliputi
+produksi ikan pelagis per usaha
+penangkapan atau Catch per Unit
+Effort
+(CPUE),
+Maximum
+Sustainable Yield (MSY), Maximum
+Economic Yield (MEY), dan Open
+Access Equilibrium (OAE); dan
+2. Mengetahui tingkat pemanfaatan
+sumberdaya perikanan pelagis pada
+usaha perikanan tangkap di PPP
+Tawang Kabupaten Kendal.
+METODE PENELITIAN
+Materi yang digunakan dalam
+penelitian ini adalah unit usaha
+perikanan tangkap yang mendaratkan
+hasil tangkapan ikan pelagis di PPP
+Tawang Kabupaten Kendal.
+Lokasi yang digunakan untuk
+penelitian adalah PPP Tawang, desa
+Gempolsewu, Kecamatan Rowosari,
+Kabupaten Kendal.
+Metode yang digunakan dalam
+penelitian adalah metode deskriptif yang
+
+2
+
+Journal of Fisheries Resources Utilization Management and Technology
+Volume 2, Nomor 1, Tahun 2013, Hlm 1-10
+Online di : http://www.ejournal-s1.undip.ac.id/index.php/jfrumt
+
+bersifat studi kasus. Studi Kasus atau
+penelitian kasus merupakan penelitian
+tentang status subjek penelitian yang
+berkenaan dengan suatu fase spesifik
+atau khas dari keseluruhan personalitas
+(Nazir, 2005). Studi yang dilakukan
+dalam penelitian ini bertujuan untuk
+memberikan gambaran secara mendetail
+dari suatu status mengenai jumlah
+produksi hasil tangkapan ikan pelagis
+dan upaya unit alat tangkap yang
+digunakan dengan cara melakukan
+pengamatan
+langsung
+di
+lokasi
+penelitian, yang meliputi perairan
+Kabupaten Kendal dengan kebiasaan
+nelayan mengoperasikan alat tangkap
+ikan pelagis sejauh 3 mil dari garis
+pantai hingga 12 mil laut.
+Metode pengambilan sampel
+yang
+digunakan
+adalah
+metode
+purposive sampling atau metode yang
+dilakukan secara sengaja berdasarkan
+pertimbangan karakteristik tertentu yang
+dianggap mempunyai sangkut paut
+dengan karakteristik populasi yang
+sudah diketahui sebelumnya (Umar,
+2004). Karakteristik yang ada di daerah
+penelitian tersebut, yaitu nelayan yang
+mempergunakan alat tangkap dengan
+target hasil tangkapan ikan pelagis yang
+berasal dari daerah perairan Kabupaten
+Kendal. Diharapkan dengan metode ini,
+hasil penelitian yang diperoleh dapat
+memberikan gambaran hasil yang sesuai
+dengan keadaan di lapangan.
+Untuk
+mengetahui
+besarnya
+ukuran sampel yang akan dipilih atau
+diambil digunakan metode pengambilan
+sampel agar diketahui ketepatannya.
+Sampel diambil sebesar 10% dari total
+individu populasi yang diteliti. Bilamana
+sampel sebesar 10% dari populasi
+dianggap besar (lebih dari 30) maka
+alternatif yang bisa digunakan adalah
+mengambil sampel sebanyak 30 individu
+(Sugiharto dalam Ardianto, 2009).
+Sedangkan berdasarkan data jumlah
+usaha perikanan di PPP Tawang yang
+dicirikan dengan penggunaan sarana
+penangkapan perahu motor tempel serta
+kapal motor berukuran kurang dari 30
+GT tahun 2011 berjumlah 867 unit dari
+1404 unit perahu motor tempel dan 26
+
+*) Penulis Penanggung Jawab
+
+unit kapal motor yang ada di Kabupaten
+Kendal (DKP Kendal, 2011). Oleh
+karena itu, sesuai dengan Sugiharto
+dalam Ardianto (2009) jumlah nelayan
+yang diambil sebagai responden dalam
+penelitian ini sebanyak 30 responden
+yang terdiri dari 8 nelayan jaring
+Rampus dan jaring nelayan Dogol, 7
+nelayan jaring Ampera dan Pukat
+Kantong Mini.
+Data yang dikumpulkan dalam
+penelitian ini berupa data primer dan
+data sekunder. Data primer adalah data
+yang didapatkan secara langsung dari
+obyek penelitian yaitu dengan observasi
+dan wawancara. Data sekunder adalah
+data yang didapatkan dari publikasi dan
+dokumentasi yang bersumber dari
+instansi atau dinas yang terkait
+Pada penelitian ini dilakukan
+analisis data dengan melakukan
+perhitungan standarisasi alat tangkap
+untuk mendapatkan alat tangkap standar
+diperlukan standarisasi alat tangkap
+yang
+dilakukan dengan ketentuan
+sebagai berikut:
+1. Menentukan CPUE standar
+Alat tangkap yang dijadikan standar
+dipilih alat tangkap yang memiliki data
+lengkap secara runtut waktu (time
+series) serta mempunyai CPUE terbesar.
+2. Menghitung fishing power index
+(FPI)
+a. Alat tangkap yang dijadikan
+standar dipilih alat tangkap yang
+memiliki data lengkap secara
+runtut waktu (time series) serta
+mempunyai CPUE terbesar.
+b. Hitung FPI dari masing – masing
+alat tangkap.
+c. Nilai faktor daya tangkap atau FPI
+dari alat tangkap yang dijadikan
+standar adalah 1, sedangkan FPI
+dari alat tangkap lain bervariasi
+dengan alat tangkap standar
+dijadikan sebagai pembanding.
+d. Nilai FPI dapat diperoleh melalui
+persamaan Gullan (1983) :
+CPUE r = Catch r / Effort r
+CPUE s = Catch s / Effort s
+FPI i = CPUE r / CPUE s
+i = 1, 2, 3, … k
+Di mana :
+
+3
+
+Journal of Fisheries Resources Utilization Management and Technology
+Volume 2, Nomor 1, Tahun 2013, Hlm 1-10
+Online di : http://www.ejournal-s1.undip.ac.id/index.php/jfrumt
+
+CPUE r = total hasil tangkapan per
+upaya tangkap dari alat
+tangkap
+yang
+distandarisasi
+CPUE s = total hasil tangkapan per
+upaya tangkap dari alat
+tangkap yang dijadikan
+standar
+FPI i = fishing power index dari alat
+tangkap ke i
+3. Menghitung CPUE standar
+Nilai FPI i selanjutnya digunakanntuk
+menghitung total upaya standar yaitu:
+
+pada persamaan fungsinya. Terdapat
+tiga kondisi keseimbangan dalam model
+Gordon-Schaefer yaitu, MSY (Maximum
+Sustainable Yield), MEY (Maximum
+Economic Yield), dan OAE (Open
+Access Equilibrium) (Wijayanto, 2008).
+Analisis Bioekonomi Statis
+berbasis model Gordon-Schaefer dapat
+dilakukan dengan metode regresi linier,
+dengan persamaan sebagai berikut:
+CPUE = α – βE
+Dalam regresi linier sederhana
+menurut Sudjana (2003), rumus
+dasarnya adalah sebagai berikut:
+
+i
+
+E=
+
+ FPIi.Ei
+
+ x. y    x  y 
+a=
+n x   x 
+n  xy   x  y 
+b=
+n  x   x 
+2
+
+i 1
+
+Di mana :
+E = total effort atau jumlah upaya
+tangkap dari alat tangkap yang di
+standarisasi dan alat tangkap
+standar
+Ei = effort dari alat tangkap yang
+distandarisasi dan alat tangkap standar
+Analisis
+bioekonomi
+statis
+berbasis
+model
+Gordon-Schaefer,
+dikembangkan
+oleh
+Schaefer
+menggunakan
+fungsi
+pertumbuhan
+logistik yang dikembangkan oleh
+Gordon. Model fungsi pertumbuhan
+logistik tersebut dikombinasikan dengan
+prinsip ekonomi, yaitu dengan cara
+memasukkan faktor harga per satuan
+hasil tangkap dan biaya per satuan upaya
+
+2
+
+2
+
+Dimana:
+Y : variabel terikat
+a:
+intercept (konstanta, nilai Y jika
+X=0)
+X : variabel bebas
+b : slope (kemiringan garis
+regresi)
+Sehingga
+rumus
+untuk
+menghitung tiga kondisi keseimbangan
+dapat dilihat pada Tabel 1.
+
+Tabel 1. Rumus Tiga Kondisi Keseimbangan Gordon-Schaefer
+MSY
+MEY
+2
+Hasil tangkapan (C)
+a / 4b
+aEMEY - b(EMEY)2
+Upaya penangkapan (E)
+a / 2b
+(pa-c) / (2pb)
+Total penerimaan (TR)
+CMSY . p
+CMEY . p
+Total pengeluaran (TC)
+c.EMSY
+c.EMEY
+Keuntungan
+TRMSY - TCMSY
+TRMEY - TCMEY
+Sumber: Wijayanto (2008)
+Tingkat pemanfaatan dinyatakan
+dengan persen (%) dapat diperoleh
+dengan menggunakan rumus ( Garcia, et
+al, 1989) :
+TP(i) = C(i ) x 100 %
+CMEY/MSY
+
+*) Penulis Penanggung Jawab
+
+2
+
+2
+
+OAE
+aEOAE - b(EOAE)2
+(pa-c) / (pb)
+COAE . p
+c.EOAE
+TROAE - TCOAE
+
+dimana :
+TP(i) = Tingkat pemanfaatan tahun ke- i
+C(i) = Total catch (hasil tangkapan)
+tahun ke-i
+MEY = Maximum Economic Yield
+MSY = Maximum Sustainable Yield
+
+4
+
+Journal of Fisheries Resources Utilization Management and Technology
+Volume 2, Nomor 1, Tahun 2013, Hlm 1-10
+Online di : http://www.ejournal-s1.undip.ac.id/index.php/jfrumt
+
+CPUE (Kg/Trip)
+
+HASIL DAN PEMBAHASAN
+PPP Tawang berdasarkan Peraturan
+tertinggi pada tahun 2008 yaitu 0,619
+Daerah Pemerintah Kabupaten Kendal
+ton/trip dan terendah pada tahun 2009
+Nomor 25 Tahun 2007 tentang Rencana
+yaitu 0,247 ton/trip. Nilai CPUE tersebut
+Tata Ruang Wilayah Kabupaten Kendal,
+berfluktuatif dari tahun 2007-2011. Hal
+Desa Gempolsewu termasuk Wilayah
+ini terjadi karena selama periode tahun
+Pengembangan Perikanan III Kabupaten
+tersebut terjadi penambahan dan
+Kendal dan ditetapkan sebagai kawasan
+pengurangan jumlah upaya penangkapan
+pengembangan
+perikanan tangkap,
+(effort).
+pengembangan industri pengolahan
+Menurut Nabunome (2007), jika
+ikan atau industri kecil berbasis kelautan
+dihubungkan antara CPUE dan effort
+(agromarine industry).
+(trip), maka semakin besar effort, CPUE
+Hasil tangkapan yang didaratkan di
+akan semakin berkurang, sehingga
+PPP Tawang tersebut terdiri dari
+produksi semakin berkurang. Artinya
+beberapa jenis sumberdaya ikan yang
+bahwa CPUE berbanding terbalik
+ada di perairan Kabupaten Kendal,
+dengan effort di mana dengan setiap
+antara lain sumberdaya ikan pelagis dan
+penambahan effort maka makin rendah
+ikan demersal. Sumberdaya ikan pelagis
+hasil Catch per Unit Effort (CPUE). Hal
+terdiri dari ikan tongkol, tengiri,
+ini disebabkan meningkatnya kompetisi
+kembung, jui dan teri (Wijayanto, 2008).
+antar alat tangkap yang beroperasi
+Untuk mengetahui perhitungan
+dimana kapasitas sumberdaya yang
+CPUE harus dilakukan standarisasi alat
+terbatas dan cenderung mengalami
+tangkap
+terlebih
+dulu
+karena
+penurunan akibat usaha penangkapan
+berdasarkan data produksi terjadi lebih
+yang terus meningkat.
+dari satu alat tangkap yang bisa
+Berdasarkan nilai CPUE dan
+digunakan untuk menangkap ikan
+produksi
+total
+yang
+cenderung
+pelagis. Penstandaran alat tangkap perlu
+mengalami penurunan tiap tahunnya
+diketahui adanya jumlah trip sehingga
+maka hal tersebut mengindikasikan
+nantinya akan diketahui nilai CPUE
+bahwa perairan Kabupaten Kendal telah
+masing-masing alat tangkap sehingga
+mengalami lebih tangkap (overfishing).
+akan diketahui nilai FPI. Standart alat
+Menurut Nabunome (2007), bahwa salah
+tangkap yang digunakan adalah Pukat
+satu ciri overfishing adalah grafik
+Kantong Mini karena produksinya setiap
+penangkapan dalam satuan waktu
+tahun dan nilai CPUE yang didapat
+berfluktuasi atau tidak menentu dan
+adalah lebih besar dibandingkan dengan
+penurunan produksi secara nyata,
+alat tangkap yang lain. Berdasarkan
+mengatakan bahwa kejadian tangkap
+nilai CPUE tiap tahun yang didapat
+lebih sering dapat dideteksi dengan
+maka dapat dilihat fluktuasi nilai CPUE
+penurunan hasil Catch per Unit Effort
+tersebut dari tahun 2007-2011 pada
+(CPUE) dengan melihat trend CPUE
+Gambar 1. Berdasarkan Gambar 1,
+yang dapat dilihat pada Gambar 1.
+diperoleh nilai CPUE ikan pelagis
+700.00
+619.38
+600.00
+488.21
+500.00
+400.00
+396.45
+338.36
+300.00
+247.25
+200.00
+100.00
+0.00
+2007
+2008 Tahun2009
+2010
+2011
+Gambar 1. Grafik Fluktuasi CPUE Ikan Pelagis di PPP Tawang Kabupaten Kendal Tahun
+2007-2011
+
+*) Penulis Penanggung Jawab
+
+5
+
+CPUE (kg/Trip)
+
+Journal of Fisheries Resources Utilization Management and Technology
+Volume 2, Nomor 1, Tahun 2013, Hlm 1-10
+Online di : http://www.ejournal-s1.undip.ac.id/index.php/jfrumt
+
+700.00
+600.00
+500.00
+400.00
+300.00
+200.00
+100.00
+0.00
+
+619.38
+
+488.21
+396.45
+338.36
+
+247.25
+
+R² = 0.8097
+-
+
+200
+
+400
+600
+800
+1,000
+Effort (Trip)
+Gambar 2. Grafik Trend CPUE Ikan Pelagis di PPP Tawang Kabupaten Kendal
+Berdasarkan
+Gambar
+2,
+menunjukkan grafik hubungan CPUE
+dan
+effort,
+dimana
+dengan
+menggunakan program Microsoft Office
+Excel 2007 menghasilkan nilai koefisien
+determinasi atau R2 = 0,809. Hal tersebut
+menunjukkan
+bahwa
+koefisien
+determinasinya (R2) sebesar 0,809 atau
+81 %. Hal tersebut berarti variasi atau
+naik turunnya CPUE sebesar 81 %
+disebabkan oleh naik turunnya nilai
+effort, sedangkan sisanya 19 %
+disebabkan oleh variabel lain yang tidak
+dibahas di dalam model. Nilai keeratan
+(koefisien korelasi/R) hubungan antara
+CPUE dan effort adalah 0,899 yang
+berasal dari √0,809. Hal tersebut
+menandakan bahwa CPUE dan effort
+memiliki nilai keeratan yang tinggi atau
+kuat antara CPUE dan effort, karena
+koefisien korelasinya terletak berkisar
+antara 0,7 < KK ≤ 0,9 (Hasan dalam
+Novita, 2011).
+Menurut Widodo dan Suadi
+(2006), Maximum Suistainable Yield
+(MSY) adalah hasil tangkapan terbesar
+yang dapat dihasilkan dari tahun ke
+tahun oleh suatu perikanan. Konsep
+MSY didasarkan atas suatu model yang
+sangat sederhana dari suatu populasi
+ikan yang dianggap sebagai unit tunggal.
+Maximum Sustainable Yield (MSY)
+merupakan parameter pengelolaan yang
+dihasilkan alam pengkajian sumberdaya
+perikanan.
+Pendugaan
+parameter
+tersebut dibutuhkan data tingkat
+produksi tahunan (time series) (Susanto,
+2006).
+Parameter
+keseimbangan
+ekonomi, meliputi biaya penangkapan
+
+*) Penulis Penanggung Jawab
+
+per upaya penangkapan dan harga ikan
+pelagis. Biaya penangkapan terdiri dari
+biaya tetap per tahun dan biaya variabel
+dalam trip atau tahun. Komponen biaya
+tetap terdiri dari nilai depresiasi perahu,
+mesin, serta alat tangkap, biaya
+perawatan perahu, mesin, dan alat
+tangkap dan biaya perijinan, sedangkan
+biaya tidak tetap terdiri dari biaya
+operasional dan biaya retribusi dapat
+dilihat
+pada
+lampiran.
+Biaya
+penangkapan ikan pelagis, didapatkan
+dari rata-rata biaya total per alat tangkap
+berdasarkan keterangan 30 orang
+responden yang mengoperasikan alat
+tangkap jaring Dogol, jaring Ampera,
+jaring Cantrang, jaring rampus dan
+Pukat Kantong Mini. Berikut perincian
+biaya penangkapan ikan pelagis dengan
+alat tangkap Pukat Kantong Mini di PPP
+Tawang Kabupaten Kendal.
+Biaya penangkapan per tahun,
+diperoleh
+dari
+rata-rata
+biaya
+penangkapan per upaya penangkapan
+dikali dengan rata-rata jumlah upaya
+penangkapan per tahun. Pada alat
+tangkap Pukat Kantong Mini diperoleh
+rata-rata biaya operasional penangkapan
+dalam tiap trip yaitu sebesar Rp
+668.571,-. Perincian biaya penangkapan
+ikan pelagis di PPP Tawang Kabupaten
+Kendal dapat dilihat pada Tabel 2.
+Karena sumberdaya ikan pelagis
+terdiri dari banyak macamnya, maka
+sebelum melakukan perhitungan total
+penerimaan dan pengeluaran dari MSY,
+MEY, dan OAE, maka dilakukan
+perhitungan proporsi harga ikan pelagis
+yang dapat dilihat pada Tabel 3.
+
+6
+
+Journal of Fisheries Resources Utilization Management and Technology
+Volume 2, Nomor 1, Tahun 2013, Hlm 1-10
+Online di : http://www.ejournal-s1.undip.ac.id/index.php/jfrumt
+
+Tabel 2. Biaya Penangkapan per Tahun Ikan Pelagis dengan Alat Tangkap Pukat Kantong
+Mini di PPP Tawang Kabupaten Kendal
+Biaya Penangkapan
+Jumlah (Rp/tahun)
+Jumlah (Rp/trip)
+(per tahun)
+Biaya Tetap
+103.968
+-Biaya Penyusutan
+13.931.712
+284.890
+-Biaya Perawatan
+38.175.260
+374
+-Biaya Perijinan
+50.000
+Biaya Tidak Tetap
+-Biaya Operasional
+Jumlah
+
+89.684.082
+141.841.170
+
+Tabel 3. Harga Ikan Pelagis setelah Diproporsi
+Harga
+Jenis Ikan
+ikan
+Proporsi (%)
+(Rp/kg)
+Kembung
+11.167
+13
+Tenggiri
+35.250
+40
+Tongkol
+24.750
+28
+Jui
+5.333
+6
+Teri
+6.500
+7
+Selar
+6.167
+7
+Jumlah Rata-rata
+89.167
+100
+Tabel 4. Hasil Perhitungan MSY, MEY, dan OAE Ikan Pelagis
+α
+: 1.253,45
+c
+: 668.571
+β
+: 1,28
+P
+: 23.423
+MSY
+MEY
+Hasil tangkapan (C)
+Upaya penangkapan (E)
+Total penerimaan (TR)
+Total pengeluaran (TC)
+Keuntungan
+
+307.168
+490
+7.194.790.181
+327.676.685
+6.867.113.495
+
+307.008
+479
+7.191.059.286
+320.214.896
+6.870.844.390
+
+Berdasarkan Tabel 4, hasil
+tangkap optimal dan upaya penangkapan
+optimal merupakan keluaran dari model
+bioekonomi. Keluaran yang menjadi
+pembanding dari kondisi terkendali
+yaitu MSY, yang menggambarkan
+keseimbangan lestari suatu perairan,
+yaitu pada kondisi produksi lestari
+maksimum dari keseimbangan ikan
+pelagis secara biologi yang dapat
+ditangkap. Hasil model bioekonomi
+dengan kondisi terkendali (MEY)
+diperoleh produksi optimal (Copt)
+sebesar 307,008 ton/tahun dan upaya
+penangkapan optimum (Eopt) sebesar
+
+*) Penulis Penanggung Jawab
+
+668.571
+1.057.803
+
+Harga ikan
+pelagis setelah
+diproporsi (Rp)
+1.398
+13.935
+6.870
+319
+474
+426
+23.423
+
+OAE
+
+Aktual
+
+27.342
+958
+640.429.793
+640.429.793
+-
+
+262.761
+653
+6.154.641.534
+436.576.863
+5.718.064.671
+
+479
+trip/tahun,
+dengan
+tingkat
+keuntungan atau manfaat ekonomi
+sebesar Rp 6.870.844.390. Pada
+keseimbangan
+MSY
+(Maximum
+Sustainable Yield), diperoleh produksi
+optimal
+(Copt)
+sebesar
+307,168
+ton/tahun, dan upaya penangkapan
+optimum (Eopt) sebesar 490 trip/tahun,
+dengan tingkat keuntungan atau manfaat
+ekonomi sebesar Rp 6.867.113.495.
+Sedangkan pada dalam keadaan OAE
+(Open Access Equilibrium), diperoleh
+jumlah produksi (C) sebesar 27,342
+ton/tahun dengan upaya penangkapan
+lebih besar dari upaya penangkapan (E)
+
+7
+
+Journal of Fisheries Resources Utilization Management and Technology
+Volume 2, Nomor 1, Tahun 2013, Hlm 1-10
+Online di : http://www.ejournal-s1.undip.ac.id/index.php/jfrumt
+
+MSY dan MEY yaitu dengan jumlah
+958 trip/tahun dimana apabila usaha
+penangkapan berada dalam keadaan
+OAE (Open Access Equilibrium) maka
+akan mengalami kerugian karena upaya
+penangkapan
+bertambah
+namun
+produksi penangkapan sedikit. Berikut
+kurva produksi lestari terlihat pada
+Gambar 3.
+Berdasarkan Gambar 3, terlihat
+bahwa semua tahun memiliki jumlah trip
+yang melebihi EMSY, yaitu pada tahun
+2007, 2008, 2009, 2010 dan 2011 yaitu
+berturut-turut sebesar 649, 495, 773, 666
+dan 684 trip dengan produksi berturutturut 219.472 kg, 306.832 kg, 191.058
+kg, 325.267 kg dan 271.174 kg. Jadi
+dengan demikian, pada tahun 2007,
+2008, 2009, 2010 dan 2011 berdasarkan
+EMSY, penangkapan sumberdaya ikan
+pelagis di PPP Tawang Kabupaten
+Kendal telah terjadi overfishing atau
+sudah melebihi batas lestarinya.
+Hal
+tersebut
+dikarenakan
+jumlah
+alat tangkap serta armada
+penangkapan ikan khususnya ikan
+pelagis mengalami kenaikan, di mana
+alat tangkap jaring Rampus mengalami
+kenaikan tajam pada tahun 2009 yaitu
+dari 18 buah menjadi 357 buah di tahun
+2011.
+Kenaikan jumlah alat tangka
+tersebut berbanding lurus dengan
+naiknya jumlah trip penangkapan,
+Sehingga produksi ikan pelagis semakin
+kecil dengan upaya yang semakin
+meningkat. Selain itu penurunan
+produksi ikan pelagis ini dapat
+disebabkan oleh adanya pencemaran
+lingkungan perairan.
+Tingkat
+pemanfaatan
+sumberdaya ikan pelagis dapat diketahui
+setelah didapatkan CMSY. Tingkat
+pemanfaatan dihitung dengan cara
+mempersenkan jumlah hasil tangkapan
+pada tahun tertentu terhadap nilai TAC
+
+*) Penulis Penanggung Jawab
+
+(Total Allowable Catch) atau jumlah
+tangkapan yang diperbolehkan. Jumlah
+tangkapan yang diperbolehkan (JTB)
+tersebut adalah 80% dari potensi
+maksimum lestarinya (CMSY) (FAO
+Code of Conduct for Responsible
+Fisheries, 1995 dalam Dahuri, 2008).
+Berikut ini tingkat pemanfaatan
+sumberdaya ikan pelagis di PPP Tawang
+Kabupaten Kendal dapat dilihat pada
+Gambar
+4.
+Berdasarkan
+hasil
+perhitungan tersebut di atas, jika
+didasarkan
+pada
+kesepakatan
+internasional yang tertuang pada Code of
+Conduct for Responsible Fisheries
+(CCRF), maka sumberdaya yang boleh
+ditangkap hanya sekitar 80% dari
+potensi yang ada (Nikijuluw, 2002).
+Tingkat
+pemanfaatan
+sumberdaya ikan pelagis selama 5 tahun
+terakhir di PPP Tawang Kabupaten
+Kendal mempunyai nilai rata-rata
+sebesar 85,57%. Hal ini menunjukkan
+bahwa kondisi tingkat pemanfaatan
+sudah melebihi ketentuan CCRF atau
+sudah overfishing.
+Pada Gambar 4 di atas dapat
+dilihat bahwa 2010 memiliki nilai
+tingkat pemanfaatan terbesar dengan
+nilai tingkat pemanfaatan mencapai
+105,92% dengan total produksi sebesar
+325.627 Kg diikuti tahun 2008 yang
+memiliki nilai tingkat pemanfaatan
+sebesar 99,92% dengan total produksi
+sebesar 306.832 Kg serta pada tahun
+2009 memiliki tingkat pemanfaatan
+terendah sebesar 62,22% dengan total
+produksi
+sebesar
+191.058
+Kg
+dibandingkan empat tahun yang lain.
+Hal ini mengindikasikan dengan nilai
+rata-rata tingkat pemanfaatan sebesar
+85,57% dengan nilai rata-rata produksi
+sebesar 262.760,6 Kg sudah berada
+dalam keadaan
+overfishing pada
+produksi ikan pelagis di perairan
+Kabupaten Kendal.
+
+8
+
+Journal of Fisheries Resources Utilization Management and Technology
+Volume 2, Nomor 1, Tahun 2013, Hlm 1-10
+Online di : http://www.ejournal-s1.undip.ac.id/index.php/jfrumt
+
+350000
+
+2010
+
+Produksi (Ton)
+
+300000
+
+2008
+
+250000
+200000
+
+2011
+2007
+2009
+
+150000
+100000
+50000
+0
+0
+
+200
+
+400
+
+600
+800
+Effort (Trip)
+
+1000
+
+1200
+
+Tingkat Pemanfaatan (%)
+
+Gambar 3. Kurva Produksi Lestari Sumberdaya Ikan Pelagis di PPP Tawang
+Kabupaten Kendal
+120.00
+105.92
+100.00
+99.92
+88.31
+80.00
+71.47
+62.22
+60.00
+40.00
+20.00
+0.00
+2007
+
+2008
+
+2009
+2010
+2011
+Tahun
+Gambar 4. Grafik Tingkat Pemanfaatan Sumberdaya Ikan Pelagis di PPP Tawang
+Kabupaten Kendal Tahun 2007-2011
+KESIMPULAN DAN SARAN
+Berdasarkan hasil penelitian dapat
+ditarik kesimpulan sebagai berikut:
+1. Analisis aspek biologis dan
+ekonomis pada usaha penangkapan
+ikan pelagis pada usaha perikanan
+tangkap dengan alat tangkap
+standar Pukat Kantong Mini di
+perairan Kabupaten Kendal adalah
+sebagai berikut:
+Nilai rata-rata Catch per Unit
+Effort (CPUE) pada tahun 20072011 di perairan Kabupaten
+Kendal adalah 0,714 ton/trip.
+Produksi optimal (Copt) pada
+Maximum Sustainable Yield
+(MSY)
+sebesar
+307,168
+ton/tahun
+dengan
+effort
+optimum (Eopt) 490 trip/tahun.
+Produksi optimal (Copt) pada
+Maximum
+Economic
+Yield
+(MEY)
+sebesar
+307,008
+ton/tahun dan effort optimum
+(Eopt) sebesar 479 trip/tahun.
+
+*) Penulis Penanggung Jawab
+
+Produksi optimal (Copt) pada Open
+Access Equilibrium (OAE)
+sebesar 27,342 ton/tahun dan
+effort optimum (Eopt) sebesar
+958 trip/tahun.
+2.
+Tingkat
+pemanfaatan
+sumberdaya ikan pelagis memiliki ratarata nilai sebesar 85,57% di mana di
+tahun 2010 dan 2008 memiliki nilai
+tingkat pemanfaatan sebesar 105,92%
+dan 99,92%. Hal ini mengindikasikan
+sudah terjadinya keadaan overfishing
+pada produksi ikan pelagis di perairan
+Kabupaten Kendal.
+Berdasarkan hasil dan kesimpulan
+yang didapatkan pada penelitian tesebut
+di atas, maka saran yang dapat diberikan
+adalah sebagai berikut:
+1. Perlu
+dilakukan
+penyuluhan
+mengenai overfishing oleh pihak
+Pelabuhan
+Perikanan
+Pantai
+Tawang Kabupaten Kendal kepada
+nelayan setempat.
+
+9
+
+Journal of Fisheries Resources Utilization Management and Technology
+Volume 2, Nomor 1, Tahun 2013, Hlm 1-10
+Online di : http://www.ejournal-s1.undip.ac.id/index.php/jfrumt
+
+2.
+
+Perlu pengadaan bantuan berupa
+kapal besar dan alat tangkap yang
+lebih ramah lingkungan sehingga
+nantinya jalur penangkapan tidak
+hanya terbatas di jarak sejauh 12
+mil saja, sehingga diharapkan
+eksploitasi di area penangkapan 12
+mil dapat terjaga kelestarianya.
+
+Universitas
+Semarang.
+
+Nikijuluw, V.P.H. 2002. Rezim
+Pengelolaan
+Sumberdaya
+Perikanan. Pustaka Cidesindo,
+Jakarta.
+Novita, Lusi Andriani. 2011. Analisis
+Potensi dan Tingkat Pemanfaatan
+Sumberdaya Ikan Demersal di
+Perairan Kabupaten Pekalongan,
+Semarang. [Skripsi].
+
+DAFTAR PUSTAKA
+Ardianto,
+SW.
+2009.
+Analisa
+Manajemen Operasi Penangkapan
+Ikan Dilihat dari Aspek Produksi
+di PPN Prigi Trenggalek Jawa
+Timur, Semarang [Skripsi].
+
+Purnomo, Hari. 2002. Analisis Potensi
+dan Permasalahan Sumberdaya
+Ikan Pelagis Kecil di Perairan
+Utara Jawa Tengah. [Tesis].
+Program
+Pasca
+Sarjana
+Universitas
+Diponegoro,
+Semarang
+
+Dahuri, Rokhmin. 2008. 14 Jurus
+Membangun Perikanan Tangkap
+di Indonesia. Majalah Samudra
+Edisi 59, Jakarta.
+Dinas
+
+Diponegoro,
+
+Kelautan
+dan
+Perikanan
+Kabupaten
+Kendal.
+2011.
+Perikanan
+Dalam
+Angka
+Kabupaten Kendal Tahun 2011.
+
+Sudjana. 2003. Teknik Analisis Regresi
+dan Korelasi Bagi Para Peneliti.
+Tarsito, Bandung.
+
+Garcia S, P.Sparre and J.Csirke, 1989.
+Estimating Surplus Production
+and Maximum Sustainable Yield
+from Biomass Data when Catch
+and Effort 53 Time Series are not
+Available. Fisheries Research, 8
+(1989) 13-23.
+
+Sugiharto, D.S. 2006. Metode Statistika.
+PT. Gramedia Pustaka Utama.
+Jakarta.
+
+Gulland, J.A., 1983. The Fish
+Resources of
+The Ocean.
+Fishing News Book Ltd. London.
+
+Susanto. 2006. Kajian Bioekonomi
+Sumberdaya Kepiting Rajungan
+(Portunus Pelagicus L) di
+Perairan
+Kabupaten
+Maros,
+Sulawesi
+Selatan.
+Jurnal
+Agrisistem, Desember 2006, 2(2):
+61-62.
+
+Hasan, Iqbal. 2005. Pokok-Pokok Materi
+Statistik
+2
+(Statistik
+Inferensif) Edisi Kedua.
+Bumi Aksara, Jakarta.
+
+Umar, Husein. 2004. Metode Penelitian
+untuk Skripsi dan Thesis Bisnis.
+Rajawali Press, PT. Raja Grafindo
+Persada, Jakarta.
+
+Moh, Nazir. 2005. Metode Penelitian.
+Ghalia Indonesia, Jakarta.
+
+Widodo, Johanes dan Suadi. 2006.
+Pengelolaan
+Sumberdaya
+Perikanan Laut. Gajah Mada
+University Press, Yogyakarta.
+
+Nabunome, Welhelmus. 2007. Model
+Analisis
+Bioekonomi
+dan
+Pengelolaaan Sumberdaya Ikan
+Demersal (Studi Empiris di Kota
+Tegal), Jawa Tengah. [Tesis].
+Program
+Pasca
+Sarjana
+
+*) Penulis Penanggung Jawab
+
+Wijayanto, Dian. 2008. Buku Ajar
+Bioekonomi Perikanan. FPIK
+UNDIP. ISBN 978.979.704.641.5,
+Semarang.
+
+10
+
+

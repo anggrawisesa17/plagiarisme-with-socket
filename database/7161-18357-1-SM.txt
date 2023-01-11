@@ -1,0 +1,434 @@
+Analisis Kesalahan Menyelesaikan.... (Puspita Rahayuningsih&Abdul Qohar) 109
+
+ANALISIS KESALAHAN MENYELESAIKAN SOAL CERITA SISTEM
+PERSAMAAN LINEAR DUA VARIABEL (SPLDV) DAN SCAFFOLDINGNYA BERDASARKAN ANALISIS KESALAHAN NEWMAN PADA SISWA
+KELAS VIII SMP NEGERI 2 MALANG
+ERROR ANALYSIS IN SOLVING WORD PROBLEM ABOUT TWO VARIABLE LINEAR
+EQUATIONS AND ITS SCAFFOLDING BASED ON NEWMAN ERROR ANALYSIS ON
+STUDENTS GRADE VII OF MALANG STATE JUNIOR HIGH SCHOOL
+Puspita Rahayuningsih, Abdul Qohar
+Jurusan Matematika FMIPA Universitas Negeri Malang
+E-mail : puspitarahayu11@yahoo.com
+Abstrak
+Penelitian ini bertujuan untuk mendeskripsikan bentuk-bentuk kesalahan yang dilakukan siswa
+dalam menyelesaikan soal cerita tentang Sistem Persamaan Linear Dua Variabel (SPLDV) dan
+scaffolding-nya berdasarkan tahapan analisis kesalahan Newman. Data diperoleh dari hasil tes,
+wawancara, dan proses pemberian scaffolding. Berdasarkan hasil penelitian, bentuk-bentuk kesalahan
+yang dilakukan siswa adalah kesalahan pada tahap comprehension, transformation, process skill, dan
+encoding. Sedangkan bentuk scaffolding yang dilakukan adalah explaining, reviewing, restructuring, dan
+developing conceptual thinking.
+Kata kunci: analisis kesalahan, newman, scaffolding, SPLDV
+Abstract
+This study aimed to describe forms of errors made by students in solving word problems about two
+variable linear equations system and its scaffolding based on error analysis stage of Newman. Data
+obtained from the results of tests, interviews and the process of scaffolding. Based on the results, forms
+the error made by students was an error on the stage of comprehension, transformation, process skills
+and encoding. While the scaffolding types undertaken was explaining, reviewing, restructuring, and
+developing conceptual thinking.
+
+PENDAHULUAN
+Matematika adalah ilmu yang berkenaan dengan konsep abstrak. Konsep-konsep
+abstrak itu merupakan salah satu dari hakikat
+matematika. Herman Hudojo (2005) mengemukakan bahwa hakikat matematika berkenaan dengan ide-ide, struktur-struktur, dan hubungan-hubungannya yang diatur menurut
+urutan yang logis. Sementara Soedjadi (2000)
+menyatakan bahwa sering dikatakan bahwa
+matematika sekolah adalah unsur-unsur atau
+bagian-bagian dari matematika yang dipilih
+berdasarkan atau berorientasi kepada kepentingan kependidikan dan perkembangan
+
+IPTEK. Hal tersebut menunjukkan bahwa matematika sekolah tidaklah sepenuhnya sama
+dengan matematika sebagai ilmu. Terdapat
+perbedaan antara matematika sekolah dengan
+matematika secara umum.
+Matematika sekolah berorientasi pada
+kepentingan kependidikan, yaitu pada proses
+pembelajaran di sekolah. Artinya, matematika
+sekolah dipilih sedemikian sehingga dapat
+mendukung pencapaian tujuan pendidikan
+atau pembelajaran matematika tertentu. Salah
+satu tujuan pembelajaran matematika tersebut
+adalah mengembangkan keterampilan pemecahan masalah.
+
+110 Jurnal Pendidikan Matematika dan Sains Tahun II, No. 2, Desember 2014
+
+Menurut Herman Hudojo (2005:123)
+keterampilan memecahkan masalah harus dimiliki siswa. Keterampilan tersebut akan dimiliki para siswa bila guru mengajarkan bagaimana memecahkan masalah yang efektif
+kepada siswa-siswanya. Oleh karena itu, jika
+siswa mengalami kesulitan dalam menyelesaikan masalah matematika, maka sebaiknya guru memberikan cara-cara yang efektif dalam
+memecahkan masalah agar siswa tidak akan
+merasa kesulitan dalam memecahkan masalah
+dan tidak menganggap bahwa soal-soal matematika adalah soal-soal yang sulit. Pemberian
+bantuan dengan berupa dukungan kepada siswa yang mengalami kesulitan dalam menyelesaikan masalah didasarkan pada konsep Vygotsky tentang assisted-learning. Ini merupakan teknik pemberian dukungan belajar yang
+pada tahap awal diberikan secara lebih terstruktur, kemudian secara berjenjang menuntut siswa ke arah kemandirian belajar. Bantuan atau dukungan yang demikian ini disebut
+scaffolding.
+Anghileri (2006) mengusulkan tiga tingkatan dari penggunaan scaffolding yang merupakan dukungan dalam pembelajaran matematika, yaitu level 1 (environmental provisions (classroom organization). Pada level paling dasar ini, bantuan guru adalah menyiapkan lingkungan belajar di kelas seperti pengaturan kelompok atau lembar kerja siswa. Dalam pengaturan kelompok siswa akan secara
+mandiri menyelesaikan masalah dengan saling bertukar pikiran. Bantuan dapat pula berupa petunjuk atau perintah di LKS untuk
+membantu siswa menyelesaikan masalah. Level 2 (explaining, reviewing, and restructuring). Explaining (menjelaskan) merupakan cara yang dilakukan untuk mencapaikan ide atau
+konsep yang digunakan pada penyelesaian soal. Reviewing (memeriksa kembali) merupakan cara yang dilakukan guru untuk mendorong siswa agar lebih mengerti dan memahami masalah yang akan diselesaikan. Restructuring (membangun kembali pemahaman)
+
+adalah cara yang dilakukan guru dalam membangun ulang pengetahuan-pengetahuan siswa
+yang telah dimiliki untuk menyelesaikan soal.
+Pada level 3 (developing conceptual thinking)
+ini, guru mengarahkan siswa untuk meningkatkan daya pikir secara konseptual. Interaksi
+guru dan siswa yaitu dengan menciptakan kesempatan untuk mengungkapkan pemahaman
+siswa. Selanjutnya, siswa akan dilibatkan dalam wawancara konseptual yang dapat meningkatkan daya pikir.
+Berdasarkan hasil observasi yang dilakukan di SMP Negeri 2 Malang, materi yang
+dianggap sulit oleh siswa kelas VIII adalah
+materi Sistem Persamaan Linear Dua Variabel
+(SPLDV) dengan bentuk soal cerita. Oleh karena itu, perlu dianalisis bentuk kesalahan-kesalahan yang dilakukan oleh siswa Kelas VIII
+SMP Negeri 2 Malang dalam menyelesaikan
+soal cerita pada materi SPLDV dan juga bagaimana bentuk scaffolding yang diberikan.
+Adapun tahapan-tahapan analisis kesalahan
+yang sesuai dan yang dapat dilakukan pada
+bentuk soal cerita adalah tahapan analisis kesalahan menurut Newman. Menurut Muksar
+dkk (2009), metode analisis Newman memiliki lima tahapan untuk menentukan kesalahankesalahan yang mungkin dilakukan siswa dalam menyelesaikan masalah berbentuk soal
+cerita, yaitu (1) tahap membaca (reading) (2)
+tahap memahami (comprehension) (3) tahap
+transformasi (transformation) (4) tahap keterampilan proses (process skill), dan (5) tahap
+penulisan jawaban (encoding).
+METODE PENELITIAN
+Penelitian ini merupakan penelitian kualitatif yang dimaksudkan untuk meneliti kondisi objek penelitian secara alamiah dengan
+peneliti sebagai instrumen kunci (Sugiyono,
+2013:7). Data penelitian ini merupakan data
+verbal. Dalam penelitian ini kedudukan peneliti sebagai instrumen sekaligus pengumpul
+data. Selain itu peneliti berperan sebagai
+pengamat penuh untuk mengamati secara
+
+Analisis Kesalahan Menyelesaikan.... (Puspita Rahayuningsih&Abdul Qohar) 111
+
+langsung kegiatan siswa pada saat penelitian.
+Penelitian ini dilaksanakan di SMP Negeri 2
+Malang pada Kelas VIII-J. Data hasil tes dijadikan sebagai data awal. Selanjutnya dilakukan wawancara terhadap enam subjek penelitian dan diberikan scaffolding bila melakukan
+kesalahan dalam menyelesaikan soal cerita
+terkait materi SPLDV.
+Pada penelitian ini, observasi dilakukan
+untuk mendapatkan data tentang materi-materi yang dianggap sulit oleh siswa pada semester gasal, nilai siswa pada ulangan harian terkait materi SPLDV, dan jenis-jenis soal yang
+banyak dikerjakan secara salah oleh siswa.
+Setelah dilakukan observasi dan ditentukan
+kelas penelitian, selanjutnya diberikan tes pada siswa Kelas VIII-J. Tes ini digunakan untuk menentukan siswa yang akan diwawancarai berdasarkan skor tes yang diperoleh. Selain itu, tes juga digunakan untuk menentukan
+bentuk-bentuk kesalahan yang dilakukan siswa dalam menyelesaikan soal tes tersebut. Soal tes berbentuk soal cerita yang terdiri atas tiga soal yang masing-masing dengan kategori
+mudah, sedang, dan sulit.
+Berdasarkan hasil tes, dipilih enam siswa untuk diwawancara. Dari enam siswa tersebut, dua siswa, yaitu S1 dan S2, memiliki
+skor tertinggi (Kelompok I), S3 dan S4 memiliki skor sedang (Kelompok II), dan S4 dan
+S5 memiliki skor terendah (Kelompok III).
+Pemberian scaffolding dilakukan untuk memberikan bantuan kepada siswa yang mengalami kesalahan dalam menyelesaikan soal cerita. Pemberian bantuan dengan scaffolding mengacu pada level-level scaffolding yang dikemukakan oleh Anghileri (2006) dengan fokus
+tentang kesalahan siswa menyelesaikan soal
+cerita berdasarkan tahapan Newman.
+Data hasil penelitian yang diperoleh dianalisis dengan menggunakan teknik analisis
+data kualitatif model alir (flow model) yang
+dikembangkan oleh Milles dan Huberman
+(1992:18) yang terdiri atas tiga tahapan sebagai berikut.
+
+1. Mereduksi data, yaitu rangkaian proses
+yang meliputi kegiatan pemilihan, penyederhanaan, pemfokusan, dan pentransformasian data yang diperoleh mulai dari
+awal pengumpulan data sampai penyusunan laporan penelitian. Data-data yang diperoleh pada awal pengumpulan data adalah hasil tes siswa. Data-data tersebut direduksi untuk menentukan data yang digunakan sebagai data awal dari subjek penelitian.
+2. Menyajikan data, yaitu penjabaran dan
+penggambaran kesalahan-kesalahan yang
+dilakukan siswa dalam menyelesaikan soal cerita dan penjabaran dari bentuk-bentuk scaffolding yang diberikan kepada siswa sesuai dengan tahap kesalahan yang
+dilakukan.
+3. Menarik kesimpulan, yaitu memberikan
+penjelasan makna dari data yang telah disajikan. Data yang disajikan dalam bentuk
+penjabaran atau penggambaran dari bentuk-bentuk kesalahan yang dilakukan siswa dan bentuk-bentuk scaffolding yang
+diberikan.
+HASIL DAN PEMBAHASAN
+Hasil penelitian dalam penelitian ini
+adalah bentuk-bentuk kesalahan yang dilakukan keenam subjek penelitian dalam menyelesaikan soal cerita terkait materi SPLDV dan
+jenis scaffolding yang diberikan. Bentuk kesalahan yang dilakukan S1 adalah pada soal nomor 2 adalah tidak menuliskan keterangan pada jawaban akhir pada soal. Pada soal nomor
+3, jenis kesalahannya adalah kesalahan dalam
+menyusun persamaan dan kesalahan dalam
+menyusun persamaan. Bantuan yang diberikan kepada S1 untuk soal nomor 2 adalah dengan memberikan petunjuk atau perintah untuk mengoreksi keterangan yang ada pada jawaban akhir soal nomor 2 tersebut. Bantuan
+yang diberikan untuk soal nomor 3 adalah dengan memberikan pertanyaan dan perintah
+agar S1 berpikir ulang dengan informasi-
+
+112 Jurnal Pendidikan Matematika dan Sains Tahun II, No. 2, Desember 2014
+
+informasi yang diberikan oleh soal sehingga
+S1 dapat memisalkan dengan benar.
+Bentuk-bentuk kesalahan yang dilakukan S2 adalah pada soal nomor 2, yaitu kurang tepat dalam menyusun pemisalan, salah
+dalam menyusun persamaan, dan tidak lengkap dalam menuliskan jawaban akhir. Pada
+soal nomor 3, kesalahan yang dilakukan adalah dalam menyusun persamaan, kesalahan
+dalam pemisalan, perhitungan tidak sampai
+akhir, dan tidak ada penulisan jawaban akhir.
+Bentuk scaffolding yang diberikan kepada S2
+pada soal nomor 1 adalah memberikan pertanyaan atau perintah untuk melakukan refleksi
+terhadap jawaban yang telah dituliskan. Untuk soal nomor 3, scaffolding yang diberikan
+adalah dengan memberikan pertanyaan-pertanyaan atau perintah untuk mengoreksi ulang
+hasil pekerjaannya. Selain itu, bentuk scaffolding lainnya adalah bantuan tentang bagaimana cara menyelesaikan soal nomor 3.
+Bentuk-bentuk kesalahan yang dilakukan S3 pada soal nomor 2 adalah tidak lengkap dalam menyusun persamaan, tidak menyajikan tahap-tahap penyelesaian, dan kesalahan dalam memberikan jawaban akhir. Pada
+soal nomor 3, kesalahan yang dilakukan S3
+adalah tidak menuliskan persamaan, kesalahan memilih metode penyelesaian, kesalahan
+dalam tahapan penyelesaian, dan kesalahan
+pada akhir. Bentuk scaffolding yang dilakukan adalah dengan memberikan pertanyaanpertanyaan atau perintah yang meminta siswa
+untuk memikirkan ulang dan membantu siswa
+dalam proses berpikir. Untuk soal nomor 3,
+peneliti memberikan scaffolding dalam bentuk meminta S3 untuk menyusun pemisalan,
+yaitu dengan mengecek ulang dan memberikan contoh soal dengan jenis yang sama.
+Bentuk-bentuk kesalahan yang dilakukan S4 pada soal nomor 2 adalah tidak menyusun pemisalan, tidak menyusun persamaan, dan salah dalam memilih metode. Pada soal nomor 3, S4 salah dalam menyusun persamaan dan menuliskan persamaan pada bagian
+
+bagian diketahui. Bentuk scaffolding yang diberikan pada S4 untuk soal nomor 2 adalah
+dengan memberikan contoh lain agar S4 dapat
+menyusun persamaan yang sesuai dengan soal. Untuk soal nomor 3, bentuk scaffolding
+yang dilakukan adalah dengan memberikan
+pertanyan-pertanyaan pancingan agar S4 lebih
+seksama dalam menggali dan menerima informasi yang ada pada soal dan dengan memberikan contoh lain yang sesuai.
+Bentuk-bentuk kesalahan yang dilakukan S5 pada soal nomor 1 adalah tidak membuat pemisalan dan menuliskan persamaan
+menggunakan variabel. Pada soal nomor 2,
+kesalahan yang dilakukan adalah tidak membuat pemisalan, tidak menyusun persamaan,
+tidak menggunakan metode penyelesaian beserta tahapan-tahapannya, dan tidak menuliskan jawaban akhir. Pada soal nomor 3, kesalahan yang dilakukan adalah kesalahan dalam
+menuliskan informasi soal, penyusunan persamaan, dan kesalahan dalam metode yang digunakan, dan pada kemampuan mengoperasikan bilangan, dan juga penulisan jawaban.
+Bentuk scaffolding yang diberikan untuk kesalahan pada soal nomor 1 pada S3 adalah dengan meminta untuk memeriksa ulang
+dan membangun ulang pemahaman mengenai
+soal sehingga dapat menyusun persamaan dengan benar. Pada soal nomor 2, bentuk scaffolding yang diberikan adalah dengan memberikan penjelasan mengenai maksud soal dan
+memberikan pertanyaan yang bersifat untuk
+mengingatkan kembali konsep terkait.
+Bentuk-bentuk kesalahan yang dilakukan S6 pada soal nomor 1 adalah kesalahan
+dalam mengoperasikan bilangan dan variabel.
+Selain itu, siswa ini juga memberikan jawaban langsung tanpa ada proses atau tahapan
+pada metode.
+Pada soal nomor 2, kesalahan yang dilakukan S6 adalah tidak membuat pemisalan, tidak menyusun persamaan, tidak menggunakan metode penyelesaian beserta tahapan-tahapan yang digunakan, dan tidak menuliskan
+
+Analisis Kesalahan Menyelesaikan.... (Puspita Rahayuningsih&Abdul Qohar) 113
+
+jawaban akhir. Pada soal nomor 3, kesalahan
+yang dilakukan adalah menuliskan informasi
+yang tidak lengkap, tidak membuat pemisalan, kesalahan dalam menyusun persamaan,
+kesalahan dalam menuliskan tahapan penyelesaian, dan kesalahan dalam menuliskan jawaban akhir.
+Pada soal nomor 1, bentuk scaffolding
+yang diberikan adalah pemberian petunjuk
+atau perintah untuk meneliti ulang pekerjaannya dalam mengoprasikan variabel dan bilangan. Pada soal nomor 2, bentuk scaffolding
+yang diberikan adalah dengan memberikan
+contoh kasus lain yang relevan dengan soal
+dan memberikan pertanyaan-pertanyaan pancingan. Pada soal nomor 3, bentuk scaffolding
+yang diberikan adalah dengan memberikan
+contoh soal lain dalam kehidupan sehari-hari.
+Penelitian ini mendeskripsikan upaya
+membantu kesulitan siswa dalam menyelesaikan soal cerita terkait materi SPLDV dengan
+menggunakan scaffolding yang mengacu pada
+tahapan Newman. Peneliti mengaitkan dengan
+tiga tingkatan scaffolding yang dikemukakan
+Anghileri (2006) meskipun tidak menggunakan semua tingkatan dalam pemberian bantuan tersebut dengan mengingat kondisi siswa,
+dan letak kesalahan siswa. Selain itu materi
+yang dibahas dalam penelitian ini juga mempengaruhi pada tingkatan mana saja scaffolding dapat diberikan kepada siswa.
+Pemberian scaffolding yang dimaksud
+adalah pemberian bantuan kepada siswa untuk
+mengatasi kesalahan-kesalahan yang dilakukan siswa pada tiap tahapan Newman, sehingga pada tahap-tahap berikutnya dimungkinkan
+siswa akan melakukan kesalahan lagi dan tidak dapat menyelesaikan soal. Soal yang diberikan adalah soal cerita materi SPLDV. Menurut Bruner (Wiwin Dwi Setiyoningsih,
+2013) scaffolding sebagai suatu proses untuk
+membantu siswa dalam menuntaskan masalah
+tertentu melampaui kapasitas perkembangannya melalui bantuan dari seorang guru atau
+orang lain yang memiliki kemampuan yang
+
+lebih. Dalam penelitian ini, fokus pembahasan
+adalah pada kesalahan yang dilakukan siswa
+dalam menyelesaikan soal cerita terkait materi
+SPLDV berdasarkan tahapan Newman, yaitu:
+(1) membaca (reading); (2) memahami (comprehension); (3) transformasi (transformation); (4) kemampuan proses (process skill);
+(5) penulisan jawaban akhir (encoding).
+Pada tahapan membaca (reading), menurut Prakitipong dan Nakamura (2006:114),
+siswa dikatakan telah mencapai tahap membaca (reading) apabila siswa dapat membaca
+masalah. Dengan demikian pada tahap ini siswa mengetahui arti dari kalimat-kalimat pada
+masalah yang diberikan. Kesalahan diklasifikasikan dalam tahap membaca, jika siswa tidak dapat membaca beberapa penulisan suatu
+atau beberapa dari kata dalam soal cerita materi SPLDV. Dalam penelitian ini, ketika dilakukan wawancara, tampak semua subjek tidak
+melakukan kesalahan dalam tahapan membaca.
+Pada tahap memahami (comprehension), menurut Prakitipong dan Nakamura
+(2006:114), siswa dikatakan telah mencapai
+tahap ini apabila siswa dapat menjelaskan apa
+permasalahannya. Pada tahap ini siswa dapat
+memahami konteks masalah yang diberikan
+dan mengetahui apa yang akan dicarinya. Kesalahan pemahaman (comprehension) terjadi
+jika siswa tidak mengetahui atau tidak menuliskan keterangan-keterangan yang ada pada
+soal atau maksud dari soal tersebut dan apa
+yang akan dilakukan siswa untuk menyelesaikan soal cerita terkait materi SPLDV. Pada tahap ini kesalahan yang dilakukan siswa adalah dalam menuliskan yang diketahui pada soal nomor 3, yaitu menyusun persamaan yang
+salah dan menuliskannya pada bagian yang
+diketahui. Selain itu, kesalahan dalam menuliskan hal yang ditanyakan dalam soal, tidak
+menuliskan yang diketahui dengan lengkap,
+dan tidak menuliskan yang ditanyakan sama
+sekali juga termasuk dalam bentuk kesalahan
+memahami (comprehension).
+
+114 Jurnal Pendidikan Matematika dan Sains Tahun II, No. 2, Desember 2014
+
+Bentuk scaffolding yang diberikan berupa bimbingan kepada siswa yang melakukan
+kesalahan. Menurut Anghileri (2006), terdapat tiga tingkatan dalam pemberian scaffolding. Pada tahapan memahami (comprehension), digunakan tingkatan kedua, yaitu explaining, reviewing, and restructuring. Pada
+tingkatan ini, yang bantuan atau bentuk scaffolding yang diberikan berupa penjelasan (explaining), yaitu dengan menjelaskan maksud
+dari soal kepada siswa, mengulas ulang (reviewing) yaitu dengan memberikan contoh
+yang lain agar siswa lebih mengerti dan memahami permasalahan yang ada, dan merestrukturisasi pemahaman (restructuring) dengan membangun ulang pengetahuan-pengetahuan siswa yang telah dimiliki untuk menyelesaikan soal.
+Tahapan transformasi (transformation)
+sangat penting dalam menyelesaikan soal
+SPLDV. Siswa telah mencapai tahap ini ketika siswa dapat memilih metode yang digunakan dan dapat menyusun persamaan-persamaan linear dua variabel yang sesuai dengan soal
+(Prakitipong dan Nakamura, 2006:114), sehingga kesalahan transformasi (transformation) terjadi jika siswa tidak dapat menentukan metode apa yang digunakan dan tidak dapat menyusun persamaan linear dua variabel
+sesuai dengan keterangan dalam soal. Kesalahan pada tahap transformasi (transformation),
+yaitu salah dalam menyusun satu persamaan,
+tidak disusunnya persamaan sama sekali, kesalahan dalam memilih metode yang digunakan, dan tidak melakukan pemisalan sehingga
+penyusunan persamaan tidak menggunakan
+variabel.
+Bentuk scaffolding yang diberikan pada
+tahap transformasi (transformation) berada
+pada level kedua, yaitu explaining, reviewing,
+and restructuring dan level ketiga, yaitu developing conceptual thingking, seperti yang dikemukakan oleh Anghileri (2006). Bentuk
+scaffolding lainnya adalah pengecekan ulang
+(reviewing) tentang maksud soal. Selain itu
+
+bentuk scaffolding yang diberikan adalah dengan membangun ulang pemahaman (restructuring) terhadap maksud soal dengan memberikan contoh-contoh lain yang lebih sederhana
+dan mengaitkannya dengan soal yang telah dikerjakan siswa. Untuk pengulasan kembali
+(reviewing) siswa diminta untuk mengeoreksi
+atau mengulas kembali pekerjaannya. Selain
+itu bentuk scaffolding yang diberikan mencapai pada level ketiga, yaitu developing conceptual thingking. Dalam hal ini dikembangkan pemikiran siswa dalam memisalkan.
+Tahapan kemampuan proses (process
+skill) merupakan tahapan dalam menentukan
+persamaan dan mengoprasikan bilangan dan
+variable yang diperlukan dalam menyelesaikan soal atau menemukan jawaban akhir soal.
+Prakitipong dan Nakamura (2006:114) menjelaskan bahwa jika siswa dapat melakukan
+proses perhitungan matematis secara benar
+dengan tahapan yang benar untuk menyelesaikan masalah itu, maka siswa tersebut mencapai tahap ketrampilan proses (processs skills).
+Kesalahan terjadi ketika siswa tidak dapat menentukan tahapan-tahapan yang akan dilakukan dan tidak dapat melakukan operasi-operasi hitung yang sesuai dan benar secara sistematis untuk mendapatkan jawaban akhir yang
+diinginkan. Kesalahan pada tahap kemampuan proses (process skill) yang dilakukan siswa
+adalah tidak menuliskan tahapan-tahapan dalam menyelesaikan soal, tidak melanjutkan
+proses tahapan berikutnya dalam menemukan
+jawaban akhir yang benar, tidak melakukan
+tahapan dengan lengkap sehingga jawaban
+yang ditemukan tidak tepat, kesalahan dalam
+memproses bilangan, dan kesalahan dalam
+memproses variabel.
+Setelah pemberian scaffolding dalam
+menyusun persamaan-persamaan yang diberikan pada saat wawancara, apabila siswa dapat
+melakukan process skill tanpa melakukan kesalahan lagi, maka tidak perlu dilakukan
+pemberian scaffolding pada tahap process
+skill. Meski demikian, setelah pemberian
+
+Analisis Kesalahan Menyelesaikan.... (Puspita Rahayuningsih&Abdul Qohar) 115
+
+scaffolding untuk menyusun persamaan, tetap
+ada siswa yang melakukan kesalahan pada tahap kemampuan proses, sehingga harus diberikan scaffolding pada tahap ini. Hal ini menunjukkan bahwa siswa melakukan kesalahan
+pada tahap kemampuan proses (process skill).
+Bentuk scaffolding yang diberikan pada
+tahap kemampuan proses (process skill) adalah dengan memberikan restrukturasi (restructuring) dengan cara mengaitkan pengetahuan-pengetahuan yang telah dimiliki siswa
+mengenai arti penulisan variabel dan sifat distributif pada perkalian dalam memproses bilangan. Selain itu, bentuk scaffolding lainnya
+adalah dengan memberikan ulasan kembali
+(reviewing), yaitu mengecek kembali pekerjaan siswa dengan melihat proses yang dilakukan dalam mengoprasikan bilangan-bilangan
+yang terlibat.
+Penulisan jawaban merupakan tahapan
+yang paling akhir dilakukan dalam menyelesaikan soal cerita terkait materi SPLDV. Pada
+tahap ini siswa menuliskan jawaban dengan
+memberikan keterangan-keterangan sesuai dengan yang diminta soal. Prakitipong dan Nakamura (2006:114) menjelaskan bahwa siswa
+telah mencapai tahap ini apabila siswa dapat
+menuliskan jawaban secara tepat dan lengkap.
+Oleh karena itu, siswa dikatakan melakukan
+kesalahan dalam tahap ini, jika siswa kurang
+lengkap dalam penulisan jawaban dari soal
+cerita tersebut dengan tidak diberikan keterangan dari jawaban tersebut sesuai dengan apa
+yang ditanyakan pada soal. Kesalahan dalam
+menuliskan jawaban, yaitu tidak lengkap dalam menuliskan jawaban akhir.
+Berdasarkan hasil tes, terdapat beberapa
+siswa yang tidak menuliskan jawaban akhir
+sama sekali. Tidak adanya penulisan jawaban
+akhir yang dilakukan siswa tersebut disebabkan mereka tidak menjawab sama sekali soalsoal tersebut, sehingga tidak ada hasil yang
+diperoleh dari perhitungan untuk dituliskan
+pada jawaban akhir. Hal tersebut juga diperkuat ketika wawancara. Setelah siswa dapat
+
+melakukan proses perhitungan secara matematis dan menemukan hasil akhir yang benar,
+siswa tersebut dapat menuliskan jawaban
+akhir dengan benar dan lengkap tanpa ada kesalahan atau bantuan dari peneliti. Dengan demikian, hal itu pada dasarnya bukan merupakan kesalahan penulisan jawaban yang dilakukan oleh siswa tersebut. Bentuk scaffolding
+yang diberikan berupa ulasan kembali (reviewing), yaitu meminta siswa untuk mengecek ulang jawaban dan meminta siswa untuk
+mengoreksi apakah sudah sesuai dengan yang
+diinginkan soal.
+SIMPULAN DAN SARAN
+Berdasarkan hasil penelitian dapat disimpulkan bahwa hasil analisis bentuk-bentuk
+kesalahan siswa SMPN 2 Malang kelas VIII-J
+dalam menyelesaikan soal cerita terkait materi
+SPLDV berdasarkan tahapan analisis kesalahan Newman adalah pada tahapan pemahaman (comprehension), yaitu siswa tidak menuliskan bagian yang diketahui atau ditanyakan, salah dalam menuliskan bagian tersebut,
+dan tidak lengkap dalam menuliskannya. Pada
+tahapan transformasi (transformation), siswa
+salah dalam memisalkan, salah dalam menyusun persamaan, dan salah dalam penyelesaiannya. Pada tahap kemampuan proses (process
+skill) siswa masih melakukan kesalahan, yaitu
+tidak melakukan tahapan matematis dan salah
+dalam memanipulasi variabel atau bilangan.
+Sedangkan pada tahap akhir, yaitu penulisan
+jawaban (encoding), kesalahan yang dilakukan siswa adalah tidak lengkap dalam menuliskan jawaban akhir dengan tidak menuliskan
+keterangan yang sesuai dengan yang diinginkan soal.
+Pada kesalahan yang dilakukan siswa
+pada tahap pemahaman (comprehension),
+bentuk scaffolding yang diberikan adalah dengan memberikan penjelasan mengenai maksud dan tujuan soal (explaining), memberikan
+pertanyaan-pertanyaan pancingan atau ulasan
+tentang maksud dari soal (reviewing), dan
+
+116 Jurnal Pendidikan Matematika dan Sains Tahun II, No. 2, Desember 2014
+
+memberikan contoh masalah yang serupa lalu
+mengaitkannya dengan masalah yang dihadapi siswa (restructuring). Pada tahap transformasi (transformation), bentuk scaffolding
+yang diberikan adalah dengan memberikan
+pertanyaan atau perintah agar siswa lebih memahami soal dan dengan mengulas soal tersebut (reviewing), memberikan contoh soal
+yang dikaitkan dengan masalah yang telah diselesaikan siswa (restructuring), dan mengembangkan cara berpikir konseptual dengan memberikan arahan untuk membuat pemisalan yang tidak seperti biasa (developing
+conceptual thingking).
+Pada tahap kemampuan proses (process
+skill), bentuk scaffolding yang diberikan adalah dengan meminta siswa untuk meneliti
+kembali hasil pekerjaan (reviewing), dan
+membangun pemahaman ulang apabila siswa
+tidak memahami konsep (restructuring). Untuk tahapan terakhir, yaitu penulisan jawaban
+akhir (encoding), bentuk scaffolding yang diberikan adalah meminta siswa untuk mengecek kembali pekerjaannya (reviewing).
+Berdasarkan hasil penelitian ini guru disarankan untuk memberikan soal cerita secara
+rutin dalam kegiatan pembelajaran. Hal ini
+dapat melatih siswa untuk menyusun kalimat
+atau model matematika yang sesuai dengan
+soal yang dapat mempermudah siswa dalam
+menyelesaikan masalah tersebut dengan melakukan perhitungan matematis yang sesuai. Selain itu, dengan frekuensi yang sering dalam
+pemberian dan pembahasan soal cerita dalam
+kegiatan pembelajaran, siswa terlatih dalam
+berpikir atau menalar soal dan terlatih dalam
+melakukan perhitungan matematis yang melibatkan variabel.
+DAFTAR PUSTAKA
+Anghileri, J. 2006. Scaffolding Practices that
+Enhance
+Mathematics
+Learning.
+
+Journal of Mathematics
+Education. (9). 33-52.
+
+Teacher
+
+Herman Hudojo. 2005. Pengembangan
+Kurikulum
+dan
+Pembelajaran
+Matematika.
+Malang:
+Universitas
+Negeri Malang Press.
+Miles, M. B, & Huberman, A. M. 1992.
+Analisis Data Kualitatif. Terjemahan
+oleh Tjetjep Rohandi Rohidi. Jakarta:
+Universitas IndonesiaI Press.
+Muksar, dkk. 2009. Peningkatan Kemampuan
+Bahasa Inggris dan Hasil Belajar
+Matematika Dasar I Mahasiswa
+Bilingual melalui Penerapan Metode
+Analisis Kesalahan Newman. Penelitian
+tidak diterbitkan. Malang: FMIPA
+Universitas Negeri Malang.
+Prakitipong, N & Nakamura, S. 2006.
+Analysis of Mathematics Performance
+of Grade Five Students in Thailand
+Using Newman Prosedure. Journal of
+International Cooperative in Education.
+Vol.9. No.1. Hal: 111-122. Hiroshima
+University.
+Soedjadi. 2000. Kiat Pendidikan Matematika
+di Indonesia (Konstatasi Keadaan Masa
+Kini Menuju Harapan Masa Depan).
+Jakarta: Ditjen Depdiknas.
+Sugiyono.
+2013.
+Metode
+Penelitian
+Kuantitatif Kualitatif dan R & D.
+Bandung: Alfabeta.
+Wiwin Dwi Setiyoningsih. 2013. Diagnosis
+Kesulitan Siswa Kelas X-A SMA Negeri
+1 Garum dan Pemberian Scaffolding
+dalam Menyelesaikan Masalah Dimensi
+Tiga. Tesis tidak diterbitkan. Malang:
+Program Pasca Sarjana Universitas
+Negeri Malang.
+
+

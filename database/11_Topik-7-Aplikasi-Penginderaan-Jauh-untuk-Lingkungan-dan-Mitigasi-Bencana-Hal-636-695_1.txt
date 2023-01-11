@@ -1,0 +1,1136 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/324280839
+
+Pemanfaatan Data Satelit Cuaca Generasi Baru Himawari 8 Untuk Mendeteksi
+Asap Akibat Kebakaran Hutan dan Lahan di Wilayah Indonesia (Studi
+Kasus:Kebakaran Hutan dan Lahan di Pulau...
+Research · December 2015
+DOI: 10.13140/RG.2.2.27568.05120
+
+CITATION
+
+READS
+
+1
+
+4,148
+
+2 authors:
+Bony Septian Pandjaitan
+
+Andersen Panjaitan
+
+Meteorological Climatological and Geophysical Agency
+
+Meteorological Climatological and Geophysical Agency
+
+13 PUBLICATIONS 7 CITATIONS
+
+2 PUBLICATIONS 3 CITATIONS
+
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+Cloud Properties View project
+
+Mesoscale Convective System View project
+
+All content following this page was uploaded by Bony Septian Pandjaitan on 08 April 2018.
+
+The user has requested enhancement of the downloaded file.
+
+SEE PROFILE
+
+SEMINAR NASIONAL PENGINDERAAN JAUH 2015
+ORAL PRESENTATION
+
+Pemanfaatan Data Satelit Cuaca Generasi Baru Himawari 8 Untuk
+Mendeteksi Asap Akibat Kebakaran Hutan dan Lahan di Wilayah
+Indonesia (Studi Kasus:Kebakaran Hutan dan Lahan di Pulau Sumatera
+dan Kalimantan Pada Bulan September 2015)
+Bony Septian Pandjaitan1,*) dan Andersen Panjaitan2
+1
+
+Stasiun Meteorologi Klas I Sepinggan Balikpapan, BMKG
+2
+Sub Bidang Pengelolaan Citra Satelit, BMKG
+
+*)
+
+E-mail: bonyvanariel@gmail.com, bonyseptian89@gmail.com
+
+ABSTRAK-Satelit yang digunakan untuk mendeteksi sebaran asap beserta pergerakannya umumnya mempunyai jenis
+polar orbital dengan resolusi spasial yang bagus dan mepunyai banyak jumlah kanal panjang gelombang,namun lemah
+dalam resolusi temporal. Sedangkan, jenis satelit geostationary orbital (Satelit MTSAT) dapat menghasilkan citra tiap
+jam dalam 1 hari, namun hanya memiliki jumlah 5 kanal yang menyebabkan satelit MTSAT kurang maksimal
+mendeteksi asap. Satelit Himawari 8 yang sudah beroperasi pada tahun 2015 sebagai penerus satelit MTSAT memiliki
+16 kanal dan menghasilkan data tiap 10 menit. Pada makalah ini, penulis mencoba mengkaji kemampuan satelit
+Himawari 8 dalam mendeteksi asap dengan studi kasus wilayah Sumatera dan Kalimantan pada September 2015. Data
+yang digunakan terdiri dari data satelit Himawari 8 tiap 10 menit, data modis level 1B satelit Terra dan Aqua, data
+laporan cuaca stasiun cuaca BMKG, dan data hotspot. Pada kajian ini, penulis membandingkan hasil citra RGB false
+colour (1 kanal visible dan 2 kanal Near Infrared)antara satelit Himawari 8 dengan modis satelit Terra dan Aqua, lalu
+setelah itu membandingkannya terhadap data laporan asap dari stasiun cuaca BMKG dan sebaran hotspot. Berdasarkan
+hasil penelitian, menunjukkan pola citra yang hampir sama antara citra RGB false colourHimawari 8 dengan RGB false
+colourmodis yaitu pola kecoklatan untuk asap yang terdiri dari kombinasi kanal 3 (0,64μm) dengan nilai 0,2 – 0,55
+sebagai komponen merah, kanal 4 (0,86μm) dengan nilai 0,3 – 0,58 sebagai komponen hijau, dan kanal 6 (2,3μm) nilai
+0,04 – 0,21 sebagai komponen biruserta lokasinya yang sesuai dengan laporan asap dari stasiun cuaca dan data hotspot.
+Kata kunci:Asap, himawari 8, satelit, kanal visibel, kanal near infrared
+ABSTRACT–TheSatellites which are often used to detect the spread of smoke and movement generally have polar
+orbital types which have good spatial resolution and have more number of channel wavelengths but weak in temporal
+resolution. Meanwhile, the type of geostationary orbital satellite (MTSAT Satellite) can produce images per hour in 1
+day but it only has 5 channels that cause the MTSAT is not optimal to detect the smoke. Himawari 8 who is already
+operating in 2015 as a successor to the MTSAT satellite has 16 channels, and produce data every 10 minutes. In this
+paper, the authors tried to assess the ability of satellite Himawari 8 in detecting smoke with the case studies in Sumatra
+and Kalimantan in September 2015. The data of this reserach consist of Himawari 8 satellite data every 10 minutes, the
+level 1B data of MODIS Terra and Aqua satellites, the weather report data of BMKG weather station, and hotspot
+data. On this study, the authors compared the results of RGB false color image (1visible channel and 2 Near
+Infraredchannel) between Himawari 8 and Terra-Aqua satellites and then compared it to the smoke report data from
+BMKG weather stations and hotspot data. Based on the results of the study showed a similar pattern image between
+RGB false color image of Himawari 8 with the RGB false color of MODIS that result brownish pattern for smoke which
+consist of a combination of channel 3 (0,64μm) with the value of 0.2 to 0.55 as the red component , channel 4 (0,86μm)
+with the value of 0.3 to 0.58 as a green component, and channel 6 (2,3μm) with the value of 0.04 to 0.21 as the blue
+component and then the location is coresponding to the report of smoke from a weather station and hotspot data.
+Keywords: Smoke, himawari 8, satellite, visible channel, near infrared channel
+
+1.
+
+PENDAHULUAN
+
+Kebakaran hutan dan lahan adalah bencana yang sering berulang terjadi setiap tahun di wilayah Indonesia
+mulai dari jaman pra kemerdekaan hingga pasca kemerdekaan (Dephut, 2013). Wilayah Indonesia yang
+sering terjadi kebakaran hutan maupun lahan yang berada di PulauSumatera antara lain adalah Riau, Jambi,
+Sumatera Utara, dan Sumatera Selatan, sedangkan yang beradadi Pulau Kalimantan antara lain adalah
+Kalimantan Barat, Kalimantan Timur, dan Kalimantan Selatan. (Bahri 2002; Zubaidah et al., 2014). Periode
+bulan terjadinya kebakaran lahan dan hutan di Indonesia biasanya terjadipada musim kemarau, yaitu pada
+bulan Agustus,September, dan Oktober, maupun pada masaperalihan atau transisi (Bahri 2002; Rianawati,
+2005; Syaufina dan Sukmana, 2008). Kondisi tersebut akan semakin buruk apabila saat bersamaan dengan
+
+- 636 -
+
+SEMINAR NASIONAL PENGINDERAAN JAUH 2015
+
+kemunculan fenomena El Nino Southern Oscillation(ENSO) seperti yang terjadi pada tahun1997, 2002,
+2004, dan 2006 (Adiningsih et al. 2008). Kejadian kebakaran hutan dan lahan menghasilkan penyebaran asap
+yang merupakan salah satu sumber pencemaran udara yang dapat mengganggu kesehatan manusia
+(Yuningsih, 2015).
+Kemajuan ilmu pengetahuan alam dan teknologi pada periode sekarang ini mempermudah manusia untuk
+memantau penyebaran asap akibat kebakaran hutan dan lahan, salah satunya dengan memanfaatkan satelit
+cuaca maupun lingkungan. Banyak penelitian untuk memantau penyebaran asap dengan menggunakan satelit
+yang telah dilakukan antara lain oleh Tjahjaningsih et al. (2005), Xie et al. (2009), dan masih banyak lagi.
+Namun, hampir semua penelitian tersebut menggunakan pemanfaatan data satelit dengan jenis polar orbital
+yang bagus pada resolusi spasial dan punya banyak jumlah kanal panjang gelombang namun kurang bagus
+dalam resolusi temporal.Sedangkan, jenis satelit geostationer orbital misalnya satelit MTSAT bisa
+menghasilkan citra tiap jam dalam 1 hari namun hanya memiliki jumlah 5 kanal yang menyebabkan satelit
+MTSAT kurang maksimal dalam mendeteksi asap. Walaupun begitu, Satelit Himawari 8 yang sudah
+beroperasi pada tahun 2015 sebagai penerus satelit MTSAT telah memiliki 16 kanal dan menghasilkan data
+tiap 10 menit (JMA, 2015). Oleh karena itu, pada penelitian ini, penulis mencoba mengkaji kemampuan
+satelit Himawari 8 dalam mendeteksi asap dengan menggunakan teknik RGBfalse colour yaang sudah biasa
+dilakukan untuk data modis satelit Terra-Aqua dengan mengambil studi kasus wilayah Sumatera dan
+Kalimantan pada bulan September 2015.
+
+1.1 Sensor MODIS Terra dan Aqua
+
+MODIS merupakan salah satu sensor utama dalam sistem pengamatan bumi dari NASA (National
+Aeronautics and Space Administration) yang berada pada Satelit Terra dan Satelit Aqua (Barnes et al., 2002;
+Salomonson et al., 2002). Satelit Terra dan Aqua dioperasikan dalam polar orbital pada ketinggian 705 km.
+MODIS melakukan pengamatan bumi dengan 36 kanal, yang mencakup rentang panjang gelombang 0,414,2 μm antara lain VIS, NIR, Short- and Middle- Wavelength Infrared (SMIR), danLong- Wavelength
+Infrared (LWIR)(Che et al., 2005). MODIS memiliki 3 resolusi spasial yang berbeda yaitu 250 m (Band 1-2),
+500 m (Band 3-7), dan 1 km (Band 8-36). MODIS adalah sebuah cross-track scanning radiometerdengan
+dua sisi cermin scan yang berotasi pada rentang sudut scan ± 55o, menghasilkan cakupan 2.330 km dalam
+arah scan dan 10 km di trek arah setiap scan (Xiong et al., 2007).
+Tabel 1. Karakteristik Kanal Panjang GelombangModis
+(Sumber: http://modis.gsfc.nasa.gov/about/specifications.php)
+Kegunaan Utama
+
+Kanal
+
+Land/Cloud/AerosolsBoundaries
+
+1
+
+0,620 –0,670
+
+0,25
+
+Vis
+
+2
+
+0,841 –0,876
+
+0,25
+
+NIR
+
+3
+
+0,459 –0,479
+
+0,50
+
+Vis
+
+4
+
+0,545 – 0,565
+
+0,50
+
+Vis
+
+5
+
+1,230 – 1,250
+
+0,50
+
+NIR
+
+6
+
+1,628 – 1,652
+
+0,50
+
+NIR
+
+7
+
+2,105 – 2,155
+
+0,50
+
+NIR
+
+8
+
+0,405 – 0,420
+
+1,00
+
+Vis
+
+9
+
+0,438 – 0,448
+
+1,00
+
+Vis
+
+10
+
+0,483 – 0,493
+
+1,00
+
+Vis
+
+Land/Cloud/Aerosols Properties
+
+Ocean Color/Phytoplankton/Biogeochemistry
+
+Panjang Gelombang Resolusi (km)
+(μm)
+
+- 637 -
+
+Jenis Panjang
+gelombang
+
+Pemanfaatan Data Satelit Cuaca Generasi Baru Himawari 8 Untuk Mendeteksi Asap Akibat Kebakaran Hutan dan Lahan di
+Wilayah Indonesia. StudiKasus: Kebakaran Hutan dan Lahan di Pulau Sumatera dan Kalimantan Pada Bulan September 2015
+(Pandjaitan, B., et al.)
+
+11
+
+0,526 – 0,536
+
+1,00
+
+Vis
+
+12
+
+0,546 – 0,556
+
+1,00
+
+Vis
+
+13
+
+0,662 – 0,672
+
+1,00
+
+Vis
+
+14
+
+0,673 – 0,683
+
+1,00
+
+Vis
+
+15
+
+0,743 – 0,753
+
+1,00
+
+NIR
+
+16
+
+0,862 – 0,877
+
+1,00
+
+NIR
+
+17
+
+0,890 – 0,920
+
+1,00
+
+NIR
+
+18
+
+0,931 – 0,941
+
+1,00
+
+NIR
+
+19
+
+0,915 - 0,965
+
+1,00
+
+NIR
+
+20
+
+3.660 - 3.840
+
+1,00
+
+SMIR
+
+21
+
+3.929 - 3.989
+
+1,00
+
+SMIR
+
+22
+
+3.929 - 3.989
+
+1,00
+
+SMIR
+
+23
+
+4.020 - 4.080
+
+1,00
+
+SMIR
+
+24
+
+4.433 - 4.498
+
+1,00
+
+SMIR
+
+25
+
+4.482 - 4.549
+
+1,00
+
+SMIR
+
+26
+
+1.360 - 1.390
+
+1,00
+
+SMIR
+
+27
+
+6.535 - 6.895
+
+1,00
+
+LWIR
+
+28
+
+7.175 - 7.475
+
+1,00
+
+LWIR
+
+Cloud Properties
+
+29
+
+8.400 - 8.700
+
+1,00
+
+LWIR
+
+Ozone
+
+30
+
+9.580 - 9.880
+
+1,00
+
+LWIR
+
+Surface/CloudTemperature
+
+31
+
+10.780 - 11.280
+
+1,00
+
+LWIR
+
+32
+
+11.770 - 12.270
+
+1,00
+
+LWIR
+
+33
+
+13.185 - 13.485
+
+1,00
+
+LWIR
+
+34
+
+13.485 - 13.785
+
+1,00
+
+LWIR
+
+35
+
+13.785 - 14.085
+
+1000
+
+LWIR
+
+36
+
+14.085 - 14.385
+
+1000
+
+LWIR
+
+AtmosphericWater Vapor
+
+Surface/CloudTemperature
+
+AtmosphericTemperature
+
+Cirrus CloudsWater Vapor
+
+Cloud TopAltitude
+
+- 638 -
+
+SEMINAR NASIONAL PENGINDERAAN JAUH 2015
+
+1.2 Advanced Himawari Imager (AHI) Satelit Himawari 8
+Satelit Himawari 8 sebagai generasi baru dari satelit MTSAT dilengkapi sensor bernama Advanced
+Himawari Imager (AHI), yang memiliki resolusi temporal, spektral dan spasialnya lebih baik dibandingkan
+seri sebelumnya. Himawari 8 memiliki 16 kanal yang terdiridari 3 kanal visibel, 3 kanal infra merah-dekat
+atau near infrared (NIR) dan 10 kanal Infrared (IR). Untuk resolusispasial pada Himawari 8 terdiri dari
+0.5km dan 1Km untuk kanal cahaya tampak (visible), 2 km untuk data kanal IR serta 1 km dan 2 km untuk
+data kanal NIR. Untuk resolusi temporal, Himawari 8 memiliki resolusi tiap 10 menit untuk pengamatan
+global dan 2,5 menit sekali untuk pengamatan khusus. Selain itu dengan memanfaatkan kanal yang sangat
+banyak yang dimiliki satelit Himawari 8, maka para penggunanya dapat membuat produk RGB (red green
+blue) dengan mengkombinasikan beberapa kanal (Kushardono, 2012).
+Tabel 1. Karakteristik Kanal Panjang GelombangAHI
+(Sumber: https://www.meted.ucar.edu/satmet/himawari_ahi)
+Kanal AHI Himawari: Informasi dari Panjang Gelombang, Resolusi, dan Contoh Penggunaannya
+Jenis Panjang
+gelombang
+
+Kanal
+
+Vis
+
+1
+
+0.47
+
+1
+
+Daytime aerosols di daratan, coastal water mapping
+
+2
+
+0.51
+
+1
+
+Water/ocean color, termasuk deteksi terhadap algal blooms;
+memungkinkantrue color imagery ketika dikombinaskan dengan
+kanal biru dan merah (Kanal visible 1 dan 3)
+
+3
+
+0.64
+
+0.5
+
+Daytime cloud, kabut, insolasi, angin
+
+4
+
+0.86
+
+1
+
+Daytime vegetation, bekas kebakaran, aerosol sepanjang perairan,
+angin
+
+5
+
+1.6
+
+2
+
+Fase Daytime cloud-topdan ukuran partikel, salju
+
+6
+
+2.3
+
+2
+
+Daytime land/cloud properties, ukuran partikel, vegetasi, salju
+
+SW IR
+
+7
+
+3.9
+
+2
+
+Permukaan dan awan, kabut pada malam hari, api, angin
+
+IR (WV)
+
+8
+
+6.2
+
+2
+
+Uap air atmosfer level tinggi, angin, curah hujan
+
+9
+
+6.9
+
+2
+
+Uap air atmosfer level menengah, angin, curah hujan
+
+10
+
+7.3
+
+2
+
+Uap air level rendah, angin, SO2
+
+11
+
+8.6
+
+2
+
+Total water untuk stabilitas, fase awan, dust, SO2, curah hujan
+
+12
+
+9.6
+
+2
+
+Total column ozone, turbulensi, angin
+
+13
+
+10.4
+
+2
+
+Permukaan dan awan
+
+14
+
+11.2
+
+2
+
+Imagery, sea surface temperature (SST), awan, curah hujan
+
+15
+
+12.4
+
+2
+
+Total column water vapor, ash, SST
+
+16
+
+13.3
+
+2
+
+Suhu udara, tinggi dan jumlah awan
+
+Near-IR
+
+LW IR
+
+Panjang
+Resolusi
+Gelombang
+(km)
+Tengah (µm)
+
+SW: Shortwave LW: Longwave
+
+Contoh Penggunaan
+
+WV: Water vapor
+
+- 639 -
+
+Pemanfaatan Data Satelit Cuaca Generasi Baru Himawari 8 Untuk Mendeteksi Asap Akibat Kebakaran Hutan dan Lahan di
+Wilayah Indonesia. StudiKasus: Kebakaran Hutan dan Lahan di Pulau Sumatera dan Kalimantan Pada Bulan September 2015
+(Pandjaitan, B., et al.)
+
+2.
+
+METODE
+
+Data yang digunakan dalam penelitian ini terdiri atas:
+a. Data satelit Himawari 8 kanal 3 (0,64μm), kanal 4 (0,86μm), dan kanal 6 (2,3μm) selama bulan
+September 2015 dalam format sataid (.z) dari subbid pengelolaan citra satelit BMKG
+b. Data modis level 1B satelit Terra dan Aquaselama bulan September 2015
+c. Data laporan cuaca stasiun cuaca BMKG di Sumatera dan Kalimantanselama bulan September 2015
+d. Data hotspot di Sumatera dan Kalimantan selama bulan September 2015
+Dalam pengolahan data satelit Himawari 8, maka digunakanlah perangkat lunak Sataid GMSLPD untuk
+bisa menghasilkan citra RGB kombinasi dari kanal 3, 4, dan 6. Sedangkan untuk data modis dari satelit Terra
+dan Aqua, maka digunakanlah perangkat lunak HYDRA agar bisa menghasilkan citra RGB kombinasi dari
+kanal 1, 2, dan 7.
+SATAID (Satellite Animation and Interactive Diagnosis) adalah perangkat lunakyang dikembangkan
+JMA (Japan Meteorological Agency) yang berfungsi untuk menampilkan data binary dari satelit MTSAT
+menjadi suatu citra atau gambar. SATAIDtelah lama digunakan sebagai alat operasional di JMA untu
+kanalisis cuaca harian. Salah satu variasi dari aplikasi SATAID adalah GMSLPD yang awalnya digunakan
+untuk melakukan analisis siklon tropis (Tanaka, 2009). Namun dengan adanya satelit Himawari 8 sebagai
+generasi baru dari satelit MTSAT, maka GMSLPD juga digunakan untuk pengolahan data satelit tersebut
+yang memiliki 16 kanal untuk menghasilkan citra RGB.
+HYDRA (Hyper-spectral dataviewer for Development of Research Applications) adalah perangkat lunak
+yang dikembangkan oleh Universityof Wisconsin’s Space Science and Engineering Center (SSEC) yang
+berfungsi untuk mengolah dan menampilkan data multispektral dan hyperspektral dari beberapa satelit
+dengan jenis polar orbital (misalnya satelit Aqua dan Terra) ke dalam bentuk citra atau gambar baik citra
+single channel maupun citra RGB hasil kombinasi beberapa kanal satelit Terra dan Aqua (Rink et al.., 2007).
+RGB (Red Green Blue) merupakan sebuah konsep model warna dimana suatu warna yang ada berasal
+dari 3 warna primer (primary colour) yaitu merah (red), hijau (green), dan biru (blue). Kombinasi dari 3
+warna primer tersebut menghasilkan warna-warna turunan (secondary colour) kuning, magenta, cyan, coklat,
+hitam dan putih. Dalam pengolahan data citra satelit, teknik RGB digunakan untuk menggabungkan
+beberapa kanal panjang gelombang yang berbeda agar mendapatkan suatu produk citra yang berisi informasi
+yang lebih baik daripada yang didapatkan dari citra 1 kanal saja. Banyak jenis RGB dari kombinasi beberapa
+kanal yang digunakan dalam menghasilkan suatu produk informasi yang salah satunya adalah false colour
+RGB yang biasa digunakan pada data modis satelit Terra dan Aqua dalam mendeteksi penyebaran asap dari
+kebakaran lahan dan hutan dengan mengkombinasikan kanal 1 (0,65μm) sebagai komponen merah, kanal 2
+(0,86μm) sebagai komponen hijau, dan kanal 7 (2,13μm) sebagai komponen biru(Comet, 2013).
+Alur yang dilakukan penulis dalam penelitian ini adalah sebagai berikut:
+a. Pengumpulan berbagai data penelitian (himawari 8, modis terra-aqua, laporan cuaca, dan hotspot)
+b. Melakukan pengolahan citra RGB false colour (0,65μm; 0,86μm; 2,13μm) untuk modis satelit TerraAqua dengan menggunakan perangkat lunak HYDRA serta memilih tanggal dan jam citra yang memiliki
+pola berwarna kecokelatan di Sumatera dan Kalimantan untuk dilanjutkan dibandingkan dengan citra
+RGB false colour(0,64μm; 0,86μm; 2,3μm)dari satelit Himawari 8
+c. Melakukan pemilihan data Himawari 8 yang memiliki tanggal dan jam yang hampir sama dengan citra
+RGB modis yang sudah terpilih sebelumnya.
+d. Melakukan pengolahan citra RGB false colour untuk modis satelit Himawari 8 dengan menggunakan
+perangkat lunak Sataid GMSLPD serta menandai wilayah yang memiliki pola warna kecokelatan yang
+secara teori menunjukkan asap kebakaran hutan dan lahan
+e. Membandingkan antara lokasipola kecokelatan dari produk RGB false colour Himawari 8 dengan pola
+kecokelatan dari RGB false colour modis, dimana bila sesuai maka pola kecokelatan yang terdapat di
+RGB false colour Himawari 8 merupakan pola asap kebakaran
+f. Memperkuat hasil analisis pola sebaran asap hasil RGB Himawari 8 dengan data cuaca stasiun cuaca
+BMKG dan data sebaran hostpot.
+
+- 640 -
+
+SEMINAR NASIONAL PENGINDERAAN JAUH 2015
+
+Lokasi penelitian yang dipilih dalam penelittian ini yaitu wilayah Pulau Sumatera dan Kalimantan
+
+(A)
+Gambar 1. Peta lokasi penelitian. (a) Sumatera, dan (b) Kalimantan
+(Sumber:www.bnpb.go.id)
+
+3.
+
+(B)
+
+HASIL PEMBAHASAN
+
+3.1 Analisis Citra RGB Himawari 8 untuk Pola Sebaran Asap Pulau Sumatera
+
+(A)
+Gambar 2. Citra RGB false colourPulau Sumatera Tanggal 02 September 2015 untuk data
+(a)Himawari 8jam 06.50 utc dan
+(b) modis Aqua jam 06.45 utc
+
+(B)
+
+Hasil pengolahan data Himawari 8 menggunakan perangkat lunak Sataid GMSLPD dan pengolahan data
+MODIS Aqua menggunakan perangkat lunak HYDRA untuk mewakili sampleuntuk wilayah Sumatera
+disajikan pada Gambar 2 dan 4. Berdasarkan Gambar 2a, terlihat bahwa pola dengan warna kecoklatan
+hasildari Himawari 8 pada tanggal 2 September 2015 jam 06.50 utc mempunyai pola yang menyerupai pola
+warna kecoklatan pada Gambar 2b hasil dari MODIS Aquapada tanggal 2 September 2015 jam 06.45 utc.
+Pola warna kecoklatan dari hasil citra RGB false colour dari data MODIS Terra-Aqua dengan
+menggabungkan kanal 1 (0,65μm) sebagai komponen merah, kanal 2 (0,86μm) sebagai komponen hijau, dan
+kanal 7 (2,13μm) sebagai komponen biru mengindikasikan pola keberadaan asap hasil kebakaran (Comet,
+2013).
+
+- 641 -
+
+Pemanfaatan Data Satelit Cuaca Generasi Baru Himawari 8 Untuk Mendeteksi Asap Akibat Kebakaran Hutan dan Lahan di
+Wilayah Indonesia. StudiKasus: Kebakaran Hutan dan Lahan di Pulau Sumatera dan Kalimantan Pada Bulan September 2015
+(Pandjaitan, B., et al.)
+
+Gambar 3. Peta sebaran hotspot tanggal 2 September 2015
+(Sumber:Subbidang Pengelolaan Citra Satelit BMKG)
+
+Selanjutnya, untuk memperkuat hasil analisis pola kecoklatan hasil RGB false colourdari Himawari 8
+merupakan indikasi pola sebaran asap, maka wilayah dengan pola kecoklatan pada pulau Sumatera tersebut
+dibandingkan dengan wilayah penyebaran hotspotdi Pulau Sumatera pada tanggal yang sama. Berdasarkan
+Gambar 3, terlihat bahwa sebaran hotspotdi Sumatera memiliki wilayah yang hampir sama dengan wilayah
+kecoklatan hasil RGB false colour dari Himawari 8 pada Gambar 2a. Berdasarkan data stasiun cuaca BMKG
+di wilayah Sumatera (stasiun Pekanbaru, Jambi, Rengat, dan Palembang) menunjukkan pada saat itu tercatat
+cuaca berasap.
+Berdasarkan beberapa hasil analisis diatas, maka satelit Himawari 8 pada tanggal 2 September 2015 jam
+06.50 utc dapat mendeteksi sebaran asap kebakaran di Pulau Sumatera dengan pola berwarna kecoklatan
+pada citra RGB false colour.
+
+(A)
+Gambar 4. Citra RGB false colour Pulau Sumatera Tanggal 11 September 2015untuk data
+(a) Himawari 8 jam 03.50 utc
+dan (b) modis Terra jam 03.45 utc.
+
+(B)
+
+Berdasarkan Gambar 4a, terlihat bahwa pola dengan warna kecoklatan hasil dari Himawari 8 pada tanggal
+11 September 2015 jam 03.50 utc mempunyai pola yang menyerupai pola warna kecoklatan pada Gambar 4b
+hasil dari MODIS Terrapada tanggal 11 September 2015 jam 03.45 utc. Pola warna kecoklatan dari hasil
+citra RGB false colour dari data MODIS Terra-Aqua dengan menggabungkan kanal 1 (0,65μm) sebagai
+komponen merah, kanal 2 (0,86μm) sebagai komponen hijau, dan kanal 7 (2,13μm) sebagai komponen biru
+mengindikasikan pola keberadaan asap hasil kebakaran (Comet, 2013).
+
+- 642 -
+
+SEMINAR NASIONAL PENGINDERAAN JAUH 2015
+
+Gambar 5. Peta sebaran hotspot tanggal 11 September 2015
+(Sumber:Subbidang Pengelolaan Citra Satelit BMKG)
+
+Selanjutnya, untuk memperkuat hasil analisis pola kecoklatan hasil RGB false colourdari Himawari 8
+merupakan indikasi pola sebaran asap, maka wilayah dengan pola kecoklatan pada pulau Sumatera tersebut
+dibandingkan dengan wilayah penyebaran hotspotdi Pulau Sumatera pada tanggal yang sama. Berdasarkan
+Gambar 5, terlihat bahwa sebaran hotspotdi Sumatera memiliki wilayah yang hampir sama dengan wilayah
+kecoklatan hasil RGB false colourdari Himawari 8 pada Gambar 4a. Berdasarkan data stasiun cuaca BMKG
+di wilayah Sumatera (stasiun Pekanbaru, Jambi, Rengat, dan Palembang) menunjukkan pada saat itu tercatat
+cuaca berasap.
+Berdasarkan beberapa hasil analisis diatas, maka satelit Himawari 8 pada tanggal 11 September 2015
+jam 03.50 utc dapat mendeteksi sebaran asap kebakaran di Pulau Sumatera dengan pola berwarna kecoklatan
+pada citra RGB false colour.
+
+3.2 Analisis Citra RGB Himawari 8 untuk Pola Sebaran Asap Pulau Kalimantan
+
+(A)
+Gambar 6. Citra RGB false colour Pulau Kalimantan Tanggal 10 September 2015 untuk data
+(a) Himawari 8 jam 03.00 utc
+dan (b) modis Terra jam 03.00 utc.
+
+(B
+
+Hasil pengolahan data Himawari 8 menggunakan perangkat lunak Sataid GMSLPD dan pengolahan data
+MODIS Terra menggunakan perangkat lunak HYDRA untuk mewakili sampleuntuk wilayah Kalimantan
+disajikan pada Gambar 6 dan 8.
+Berdasarkan Gambar 6a, terlihat bahwa pola dengan warna kecoklatan hasil dari Himawari 8 pada tanggal
+10 September 2015 jam 03.00 utc mempunyai pola yang menyerupai pola warna kecoklatan pada Gambar 6b
+hasil dari MODIS Terrapada tanggal 10 September 2015 jam 03.00 utc di wilayah Kalimantan. Pola warna
+kecoklatan dari hasil citra RGB false colour dari data MODIS Terra-Aqua dengan menggabungkan kanal 1
+
+- 643 -
+
+Pemanfaatan Data Satelit Cuaca Generasi Baru Himawari 8 Untuk Mendeteksi Asap Akibat Kebakaran Hutan dan Lahan di
+Wilayah Indonesia. StudiKasus: Kebakaran Hutan dan Lahan di Pulau Sumatera dan Kalimantan Pada Bulan September 2015
+(Pandjaitan, B., et al.)
+
+(0,65μm) sebagai komponen merah, kanal 2 (0,86μm) sebagai komponen hijau, dan kanal 7 (2,13μm)
+sebagai komponen biru mengindikasikan pola keberadaan asap hasil kebakaran (Comet, 2013).
+
+Gambar 7. Peta sebaran hotspot tanggal 10 September 2015
+(Sumber:Subbidang Pengelolaan Citra Satelit BMKG)
+
+Selanjutnya, untuk memperkuat hasil analisis pola kecoklatan hasil RGB false colourdari Himawari 8
+merupakan indikasi pola sebaran asap, maka wilayah dengan pola kecoklatan pada pulau Kalimantan
+tersebut dibandingkan dengan wilayah penyebaran hotspotdi Pulau Kalimantan pada tanggal yang sama.
+Berdasarkan Gambar 7, terlihat bahwa sebaran hotspotdi Kalimantan memiliki wilayah yang hampir sama
+dengan wilayah kecoklatan hasil RGB false colourdari Himawari 8 pada Gambar 6a. Berdasarkan data
+stasiun cuaca BMKG di wilayah Kalimantan (stasiun Pangkalanbun, Palangkaraya, Muaratewe dan Sampit)
+menunjukkan pada saat itu tercatat cuaca berasap.
+Berdasarkan beberapa hasil analisis diatas, maka satelit Himawari 8 pada tanggal 10 September 2015
+jam 03.00 utc dapat mendeteksi sebaran asap kebakaran di Pulau Kalimantan dengan pola berwarna
+kecoklatan pada citra RGB false colour.
+
+(A)
+Gambar 8. Citra RGB false colour Pulau Kalimantan Tanggal 21 September 2015 untuk data
+(a) Himawari 8 jam 05.40 utc
+dan (b) modis Aqua jam 05.40 utc
+
+(B)
+
+Berdasarkan Gambar 8a, terlihat bahwa pola dengan warna kecoklatan hasil dari Himawari 8 pada tanggal
+21 September 2015 jam 05.40 utc mempunyai pola yang menyerupai pola warna kecoklatan pada Gambar 8b
+hasil dari MODIS Aquapada tanggal 21 September 2015 jam 05.40 utc. Pola warna kecoklatan dari hasil
+citra RGB false colour dari data MODIS Terra-Aqua dengan menggabungkan kanal 1 (0,65μm) sebagai
+komponen merah, kanal 2 (0,86μm) sebagai komponen hijau, dan kanal 7 (2,13μm) sebagai komponen biru
+mengindikasikan pola keberadaan asap hasil kebakaran (Comet, 2013).
+
+- 644 -
+
+SEMINAR NASIONAL PENGINDERAAN JAUH 2015
+
+Gambar 9. Peta sebaran hotspot tanggal 21 September 2015
+(Sumber:Subbidang Pengelolaan Citra Satelit BMKG)
+
+Selanjutnya, untuk memperkuat hasil analisis pola kecoklatan hasil RGB false colourdari Himawari 8
+merupakan indikasi pola sebaran asap, maka wilayah dengan pola kecoklatan pada pulau Kalimantan
+tersebut dibandingkan dengan wilayah penyebaran hotspotdi Pulau Kalimantan pada tanggal yang sama.
+Berdasarkan Gambar 9, terlihat bahwa sebaran hotspotdi Kalimantan memiliki wilayah yang hampir sama
+dengan wilayah kecoklatan hasil RGB false colourdari Himawari 8 pada Gambar 8a. Berdasarkan data
+stasiun cuaca BMKG di wilayah Kalimantan (stasiun Pangkalanbun, Palangkaraya, Muaratewe dan Sampit)
+menunjukkan pada saat itu tercatat cuaca berasap.
+Berdasarkan beberapa hasil analisis diatas, maka satelit Himawari 8 pada tanggal 21 September 2015
+jam 05.40 utc dapat mendeteksi sebaran asap kebakaran di Pulau Kalimantan dengan pola berwarna
+kecoklatan pada citra RGB false colour.
+
+3.3 Analisis Citra RGB Himawari 8 untuk Pola Sebaran Asap Pulau Kalimantan dan
+Sumatera
+
+(A)
+(B)
+Gambar 10. Citra RGB false colour Pulau Sumatera dan Kalimantan Tanggal 8 September 2015 untuk data
+(a) Himawari 8 jam 06.10 utc
+dan (b) modis Aqua jam 06.10 utc
+
+Hasil pengolahan data Himawari 8 menggunakan perangkat lunak Sataid GMSLPD dan pengolahan data
+MODIS Terra menggunakan perangkat lunak HYDRA untuk mewakili sampleuntuk wilayah Sumatera dan
+Kalimantan disajikan pada Gambar 10 dan 12.
+Berdasarkan Gambar 10a, terlihat bahwa pola dengan warna kecoklatan hasil dari Himawari 8 pada
+tanggal 8 September 2015 jam 06.10 utc mempunyai pola yang menyerupai pola warna kecoklatan pada
+Gambar 10b hasil dari MODIS Terra pada tanggal 8 September 2015 jam 06.10 utc di wilayah Sumatera dan
+Kalimantan. Pola warna kecoklatan dari hasil citra RGB false colour dari data MODIS Terra-Aqua dengan
+menggabungkan kanal 1 (0,65μm) sebagai komponen merah, kanal 2 (0,86μm) sebagai komponen hijau, dan
+
+- 645 -
+
+Pemanfaatan Data Satelit Cuaca Generasi Baru Himawari 8 Untuk Mendeteksi Asap Akibat Kebakaran Hutan dan Lahan di
+Wilayah Indonesia. StudiKasus: Kebakaran Hutan dan Lahan di Pulau Sumatera dan Kalimantan Pada Bulan September 2015
+(Pandjaitan, B., et al.)
+
+kanal 7 (2,13μm) sebagai komponen biru mengindikasikan pola keberadaan asap hasil kebakaran (Comet,
+2013).
+
+Gambar 11. Peta sebaran hotspot tanggal 8 September 2015
+(Sumber:Subbidang Pengelolaan Citra Satelit BMKG)
+
+Selanjutnya, untuk memperkuat hasil analisis pola kecoklatan hasil RGB false colourdari Himawari 8
+merupakan indikasi pola sebaran asap, maka wilayah dengan pola kecoklatan pada pulau Kalimantan
+tersebut dibandingkan dengan wilayah penyebaran hotspotdi Pulau Sumatera dan Kalimantan pada tanggal
+yang sama. Berdasarkan Gambar 11, terlihat bahwa sebaran hotspotdi Kalimantan memiliki wilayah yang
+hampir sama dengan wilayah kecoklatan hasil RGB false colourdari Himawari 8 pada Gambar 10a.
+Berdasarkan data stasiun cuaca BMKG di wilayah Sumatera (stasiun Pekanbaru, Jambi, Rengat, dan
+Palembang) dan Kalimantan (stasiun Pangkalanbun, Palangkaraya, Muaratewe dan Sampit) menunjukkan
+pada saat itu tercatat cuaca berasap.
+Berdasarkan beberapa hasil analisis diatas, maka satelit Himawari 8 pada tanggal 8 September 2015 jam
+06.10 utc dapat mendeteksi sebaran asap kebakaran di Pulau Sumatera dan Kalimantan dengan pola
+berwarna kecoklatan pada citra RGB false colour.
+
+(A)
+(B)
+Gambar 12. Citra RGB false colour Pulau Sumatera dan Kalimantan Tanggal 22 September 2015 untuk data
+(a) Himawari 8 jam 03.30 utc
+dan (b) modis Terra jam 03.25 utc
+
+Berdasarkan Gambar 12a, terlihat bahwa pola dengan warna kecoklatan hasil dari Himawari 8 pada
+tanggal 22 September 2015 jam 03.30 utc mempunyai pola yang menyerupai pola warna kecoklatan pada
+Gambar 12b hasil dari MODIS Terra pada tanggal 22 September 2015 jam 03.30 utc di wilayah Sumatera
+dan Kalimantan. Pola warna kecoklatan dari hasil citra RGB false colourdari data MODIS Terra-Aqua
+dengan menggabungkan kanal 1 (0,65μm) sebagai komponen merah, kanal 2 (0,86μm) sebagai komponen
+hijau, dan kanal 7 (2,13μm) sebagai komponen biru mengindikasikan pola keberadaan asap hasil kebakaran
+(Comet, 2013).
+
+- 646 -
+
+SEMINAR NASIONAL PENGINDERAAN JAUH 2015
+
+Gambar 13. Peta sebaran hotspot tanggal 22 September 2015
+(Sumber:Subbidang Pengelolaan Citra Satelit BMKG)
+
+Selanjutnya, untuk memperkuat hasil analisis pola kecoklatan hasil RGB false colourdari Himawari 8
+merupakan indikasi pola sebaran asap, maka wilayah dengan pola kecoklatan pada pulau Kalimantan
+tersebut dibandingkan dengan wilayah penyebaran hotspotdi Pulau Sumatera dan Kalimantan pada tanggal
+yang sama. Berdasarkan Gambar 13, terlihat bahwa sebaran hotspotdi Kalimantan memiliki wilayah yang
+hampir sama dengan wilayah kecoklatan hasil RGB false colourdari Himawari 8 pada Gambar 12a.
+Berdasarkan data stasiun cuaca BMKG di wilayah Sumatera (stasiun Pekanbaru, Jambi, Rengat, dan
+Palembang) dan Kalimantan (stasiun Pangkalanbun, Palangkaraya, Muaratewe dan Sampit) menunjukkan
+pada saat itu tercatat cuaca berasap.
+Berdasarkan beberapa hasil analisis diatas, maka satelit Himawari 8 pada tanggal 22 September 2015
+jam 03.30 utc dapat mendeteksi sebaran asap kebakaran di Pulau Sumatera dan Kalimantan dengan pola
+berwarna kecoklatan pada citra RGB false colour.
+
+3.4 Analisis Nilai Reflektan Kanal RGB False Colour Himawari 8 Untuk Pola Asap
+
+(A)
+(B)
+(C)
+Gambar 14. Grafiknilai reflektanHimawari 8 Pulau SumateraTanggal 2 September 2015 untuk data
+(a)kanal 3 (0,64μm) sebagai komponen merah (red)
+(b) kanal 4 (0,86μm) sebagai komponen hijau (green)
+(c) kanal 6 (2,3μm) dan sebagai komponen biru (blue)
+
+Setelah menganalisis pola asap yang berwarna coklat pada citra RGB false colour Himawari 8, maka
+selanjutnya dilakukan analisis nilai masing-masing kanal yang membentuk pola asap RGB false
+colourdengan melakukan crosssection pada wilayah sebaran asap yang berwarna kecoklatan tersebut.
+Berdasarkan Gambar 14, terlihat bahwa tanggal 2 September 2015di Pulau Sumatera untuk kanal 3 (0,64μm)
+memiliki nilai dengan rentang antara 0,25 – 0,35. Untuk kanal 4 (0,86μm) memiliki nilai dengan rentang
+antara 0,30 – 0,42. Untuk kanal 6 (2,3μm) memiliki nilai dengan rentang antara 0,04 – 0,11. Jika dilihat
+grafik ketiga kanal tersebut, maka kanal 4 (0,86μm) memiliki grafik nilai yang sedikit lebih tinggi
+
+- 647 -
+
+Pemanfaatan Data Satelit Cuaca Generasi Baru Himawari 8 Untuk Mendeteksi Asap Akibat Kebakaran Hutan dan Lahan di
+Wilayah Indonesia. StudiKasus: Kebakaran Hutan dan Lahan di Pulau Sumatera dan Kalimantan Pada Bulan September 2015
+(Pandjaitan, B., et al.)
+
+dibandinkankanal 3 (0,64μm). Untuk kanal 6 (2,3μm) memiliki grafik nilai jauh paling rendah dibandingkan
+kedua kanal lainnya.
+
+(A)
+(B)
+(C)
+Gambar 15. Grafik nilai reflektan Himawari 8 Pulau Sumatera Tanggal 11 September 2015 untuk data
+(a)kanal 3 (0,64μm) sebagai komponen merah (red)
+(b) kanal 4 (0,86μm) sebagai komponen hijau (green)
+(c) kanal 6 (2,3μm) dan sebagai komponen biru (blue)
+
+Berdasarkan Gambar 15, terlihat bahwa terlihat bahwa tanggal 11 September 2015 di Pulau
+Sumaterauntuk kanal 3 (0,64μm) memiliki nilai dengan rentang antara 0,32 – 0,55. Untuk kanal 4 (0,86μm)
+memiliki nilai dengan rentang antara 0,37 – 0,58. Untuk kanal 6 (2,3μm) memiliki nilai dengan rentang
+antara 0,08 – 0,21. Jika dilihat grafik ketiga kanal tersebut, maka kanal 4 (0,86μm) memiliki grafik nilai yang
+sedikit lebih tinggi dibandinkan kanal 3 (0,64μm). Untuk kanal 6 (2,3μm) memiliki grafik nilai jauh paling
+rendah dibandingkan kedua kanal lainnya.
+
+(A)
+(B)
+(C)
+Gambar 16. Grafik nilai reflektan Himawari 8 Pulau Kalimantan Tanggal 10 September 2015 untuk data
+(a)kanal 3 (0,64μm) sebagai komponen merah (red)
+(b) kanal 4 (0,86μm) sebagai komponen hijau (green)
+(c) kanal 6 (2,3μm) dan sebagai komponen biru (blue)
+
+Berdasarkan Gambar 16, terlihat bahwa terlihat bahwa tanggal 10 September 2015 di Pulau Kalimantan
+untuk kanal 3 (0,64μm) memiliki nilai dengan rentang antara 0,26 – 0,43. Untuk kanal 4 (0,86μm) memiliki
+nilai dengan rentang antara 0,34 – 0,47. Untuk kanal 6 (2,3μm) memiliki nilai dengan rentang antara 0,08 –
+0,15. Jika dilihat grafik ketiga kanal tersebut, maka kanal 4 (0,86μm) memiliki grafik nilai yang sedikit lebih
+
+- 648 -
+
+SEMINAR NASIONAL PENGINDERAAN JAUH 2015
+
+tinggi dibandinkan kanal 3 (0,64μm). Untuk kanal 6 (2,3μm) memiliki grafik nilai jauh paling rendah
+dibandingkan kedua kanal lainnya.
+
+(A)
+(B)
+(C)
+Gambar 17. Grafik nilai reflektan Himawari 8 Pulau Kalimantan Tanggal 21 September 2015 untuk data
+(a)kanal 3 (0,64μm) sebagai komponen merah (red)
+(b) kanal 4 (0,86μm) sebagai komponen hijau (green)
+(c) kanal 6 (2,3μm) dan sebagai komponen biru (blue)
+
+Berdasarkan Gambar 17, terlihat bahwa terlihat bahwa tanggal 21 September 2015 di Pulau Kalimantan
+untuk kanal 3 (0,64μm) memiliki nilai dengan rentang antara 0,2 – 0,52. Untuk kanal 4 (0,86μm) memiliki
+nilai dengan rentang antara 0,30 – 0,55. Untuk kanal 6 (2,3μm) memiliki nilai dengan rentang antara 0,04 –
+0,13. Jika dilihat grafik ketiga kanal tersebut, maka kanal 4 (0,86μm) memiliki grafik nilai yang sedikit lebih
+tinggi dibandinkan kanal 3 (0,64μm). Untuk kanal 6 (2,3μm) memiliki grafik nilai jauh paling rendah
+dibandingkan kedua kanal lainnya.
+
+4.
+
+KESIMPULAN
+
+Berdasarkan beberapa hasil analisis yang telah dilakukan diatas, maka dapat disimpulkan bahwaselama
+bulan September 2015 terdapat pola citra RGB false colour Himawari 8 yang hampir sama dengan yang
+dihasilkan dari citra RGB false colour MODIS Terra-Aqua yaitu pola kecoklatan untuk mengindikasikan
+asap hasil kebakaran lahan maupun hutan yang diperkuat lagi dengan hasil analisis bahwa lokasi pola dengan
+warna kecoklatan tersebut sesuai dengan laporan keadaan cuaca berasap dari beberapa stasiun cuaca BMKG
+di wilayah Sumatera dan Kalimantan serta sesuai dengan sebaran hotspot yang muncul.Satukomposisi RGB
+yang menggunakan band dengan range spektral yang samaakanmenghasilkankomposisiwarna yang
+samawalauberbedawahana, yang dalam makalah ini menggunakan komposisi Red = band visible, Green dan
+Blue = band NIR. Hal tersebut merupakanpendekatan yang baik, karenamudahdandapatlangsungditerapkan.
+Berdasarkan beberapa hasil analisis nilai masing-masing kanal yang membentuk pola asap pada produk
+RGB false colour Himawari 8, dapat disimpulkan juga bahwa, pola warna coklat tersebut terdiri dari
+kombinasi kanal 3 (0,64μm) dengan rentang nilai antara 0,2 – 0,55 sebagai komponen merah (red), kanal 4
+(0,86μm) dengan rentang nilai antara 0,3 – 0,58 sebagai komponen hijau (green), dan kanal 6 (2,3μm)
+dengan rentang nilai antara 0,04 – 0,21sebagai komponen biru (blue).
+Hal ini menandakan bahwa teknik RGB false colour yang sebelumnya dipakai untuk mendeteksi sebaran
+asap melalui data MODIS Terra-Aqua, dapat juga diterapkan untuk mendeteksi sebaran asap kebakaran
+menggunakan data satelit generasi baru Himawari 8 yang memiliki kelebihan pada resolusi temporal yaitu
+bisa menghasilkan data setiap 10 menit sekali dan bisa dimanfaatkan untuk monitoring sebaran asap secara
+berkelanjutan oleh para Stake Holder.
+
+UCAPAN TERIMAKASIH
+Pada akhir penelitian ini, penulis ingin mengucapkan terimakasih yang banyak kepada kepala sub-bidang
+pengelolaan citra satelit BMKG beserta staff yang telah membantu penulis dalam penyediaan dan diskusi
+tentang data satelit Himawari 8 yang diterima BMKG dari JMA serta kepada kepala laboratorium
+
+- 649 -
+
+Pemanfaatan Data Satelit Cuaca Generasi Baru Himawari 8 Untuk Mendeteksi Asap Akibat Kebakaran Hutan dan Lahan di
+Wilayah Indonesia. StudiKasus: Kebakaran Hutan dan Lahan di Pulau Sumatera dan Kalimantan Pada Bulan September 2015
+(Pandjaitan, B., et al.)
+
+meteorologi STMKG yang telah memberi akses penulis untuk mengunduh data modis satelit TerraAquamenggunakan jaringan internet laboratorium meteorologi STMKG.
+
+DAFTAR PUSTAKA
+Adiningsih, E.S., Roswintiarti, O., Buono, A., Suwarsono, Ramadhan, A., Ismail, A., dan Dyahwathi, N. (2008).
+Climatic Change and Fire Risks inIndonesia. Final Report Submitted to Center for International Forestry Research
+(CIFOR) Bogor Indonesia.
+Bahri, S. (2002). Kajian Penyebaran Kabut Asap Kebakaran Hutan dan Lahan di Wilayah Sumatera Bagian Utara dan
+Kemungkinan Mengatasinya dengan TMC.Jurnal Sains & Teknologi Modifikasi Cuaca, 3(2):99-104.
+Barnes, W.L., Xiong, X., dan Salomonson, V.V. (2002). Status of Terra MODIS and Aqua MODIS. Geoscience and
+Remote Sensing Symposium. Proceedings of IGARSS. 2(24-28):970-972.
+Che, N., Xiong, X., Guenther, B., Barnes, W.L., dan Salomonson, V.V. (2005). Five years of Terra MODIS on-orbit
+spatial characterization. Proceedings of SPIE, vol. 5882,58821A.
+Comet
+(2013) Multispectral
+Satellite
+Aplications
+:RGB
+Product
+Explained.
+Diakses
+melalui
+https://www.meted.ucar.edu/satmet/multispectral_topics/rgb/index.htm.
+Dephut (1997). Sejarah Kebakaran Hutan dan Lahan di Indonesia. Diakses pada http://www.dephut.go.id/neosis/
+indofire/index.php/indofire/info_detail/43 [22 September 2015]
+JMA (2015). Himawari User’s Guide. Diakses melalui http://www.jma-net.go.jp/msc/en/support/index.html.
+Kushardono, D. (2012). Kajian Satelit Penginderaan Jauh CuacaGenerasi Baru Himawari 8 dan 9. Jurnal Inderaja Vol. 3
+No.5, Desember 2012.
+Rianawati, F. (2005). Kajian Faktor Penyebab dan Upaya Pengendalian Kebakaran Lahan Gambut oleh Masyarakat di
+Desa Salat Makmur Kalimantan Selatan. Jurnal Hutan Tropis Borneo No.17, September 2005: 51-59.
+Rink, T., Menzel, P.W., Gumley, L., dan Strabala, K. (2007). Introducing HYDRA2 – a Multispectral Data Analysis
+Toolkit for Suomi NPP and EOS. Diakses melalui https://cimss.ssec.wisc.edu/itwg/itsc/itsc19/program/papers
+/1p_19_rink.pdf
+Salomonson, V.V., Barnes, W.L., Xiong, X., Kempler, S., dan Masuoka, E. (2002). An Overview of the Earth
+Observing System MODIS Instrument and Associated Data Systems Performance. Geoscience and Remote Sensing
+Symposium.Proceedings of IGARSS. 2:1174-1176.
+Syaufina, L., dan Sukmana, A. (2008). Tinjauan Penyebab Utama Kebakaran Hutan di Daerah Danau Toba. Laporan
+kajian kebakaran hutan di Danau Toba. Centre of Forest and Nature Conservation Research and Development
+(CFNCRD) dan International Tropical Timber Organization (ITTO)PD 394/06 REV.1 (F). Bogor.
+Tanaka, Y. (2009). SATAID-Powerful Toolfor Satellite Analysis. RSMC Tokyo-Typhoon Center, Japan Meteorology
+Agency(JMA).
+Tjahjaningsih, A., Sambodo, A.K., dan Prasasti, I. (2005). Analisis Sensivitas Kanal-Kanal Modis Untuk Deteksi Titik
+Api dan Asap Kebakaran. Pertemuan Ilmiah Tahunan MAPIN XIV ”Pemanfaatan Efektif Penginderaan Jauh Untuk
+Peningkatan Kesejahteraan Bangsa”, 14 – 15 September 2005. Surabaya.
+Xie, Y. (2009). Detection of Smoke and Dust Aerosols Using Multi-sensor Satellite Remote Sensing Measurements.A
+dissertation submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy at George
+Mason University.
+Xiong, X., Che, N., Barnes, W., Xie, Y., Wang, L., dan Qu, J.J. (2006). Status of Aqua MODIS Spatial Characterization
+and Performance.Proceeding of SPIE. Vol.6361,63610T.
+Yuningsih, R. (2015). Kebijakan Kesehatan Dalam Pengendalian Dampak Karhutla. Info Singkat Kesejahteraan sosial
+Vol. VII, No. 18/II/P3DI/September/2015.
+Zubaidah, A., Vetrita, Y., dan Khomarudin, M. (2014). Validasi Hotspot Modis di Wilayah Sumatera dan Kalimantan
+Berdasarkan Data Penginderaan Jauh Spot-4 Tahun. Jurnal Penginderaan Jauh 2(1):1-14.
+*) Makalah ini telah diperbaiki sesuai dengan saran dan masukan pada saat diskusi presentasi ilmiah
+BERITA ACARA
+PRESENTASI ILMIAH SINASINDERAJA 2015
+Moderator
+Judul Makalah
+Pemakalah
+Jam
+Tempat
+Diskusi
+:
+
+: Dr. Wikanti Asriningrum, M.Si.
+: Pemanfaatan Data Satelit Cuaca Generasi Baru Himawari 8 Untuk Mendeteksi Asap Akibat
+Kebakaran Lahan di Wilayah Indonesia (Studi Kasus: Kebakaran Lahan di Pulau Sumatera
+dan Kalimantan Pada Bulan September 2015)
+: Bony Septian Pandjaitan
+: 15.30 – 16.30 WIB
+: Ball Room 2 & 3 (Lt.1)
+
+- 650 -
+
+SEMINAR NASIONAL PENGINDERAAN JAUH 2015
+
+Mahdi Kartasasmita (LAPAN)
+Satu komposisi RGB yang menggunakan band dengan range spektral yang sama akan menghasilkan komposisi warna
+yang sama walau berbeda wahana. Apa yang anda lakukan memiliki penedekatan yang baik, karena mudah dan dapat
+langsung diterapkan
+Jawaban:
+Band-band yang digunakan untuk membentuk komposit RGB antara data Modis dengan Himawari memiliki
+karakteristik dan komposit yang sama, yakni Red = band visible, Blue = band NIR. Karenannya kenampakan warna
+coklat pada lahan yang terbakar dan putih pada asap akibat kebakaran memiliki kenampakan yang sama
+
+- 651 -
+
+View publication stats
+
+

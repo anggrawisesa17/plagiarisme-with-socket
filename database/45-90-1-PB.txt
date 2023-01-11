@@ -1,0 +1,985 @@
+INFORMATIKA edisi September 2014 Vol 1. No.2
+
+ISSN 2337 - 5213
+
+ANALISIS PENGARUH DISIPLIN KERJA, MOTIVASI KERJA DAN KOMITMEN ORGANISASI
+TERHADAP KINERJA KARYAWAN UNIVERSITAS SLAMET RIYADI SURAKARTA
+SL. Triyaningsih
+Fakultas Ekonomi Universitas Slamet Riyadi Surakarta
+
+ABSTRACT
+Target of this research is; to test the significance of the influence of labor discipline, motivation, and
+organizational commitment partially and simultaneously on the performance of employees at the University of
+Slamet Riyadi Surakarta. This research type is quarantitative, that is in research which aim to abtain get
+satisfaction from a hypothesis by using predicted parametere test (test t) to test question instrument used by
+validity test and Reliability test. While classic assumption test which used by Multikoliniretas, Autocorelation,
+Heterokesdastisitas and Normalitas. Based on the results obtained by multiple linear regression equation:
+Y = -1,704 + 0,427X1 + 0,471X2 + 0,231X3. The results of the t test for variables work discipline obtained p-value
+0.000 <0.05, work motivation obtained p-value 0.000 <0.05 and organizational commitment obtained p-value
+0.000 <0.05. Thus there is a positive and significant effect of work discipline, work motivation and
+organizational commitment partially on the performance of employees at the University of Slamet Riyadi
+Surakarta. F test results obtained p-value 0.000 <0.05 so there is a positive and significant effect of work
+discipline, work motivation and organizational commitment to employee performance simultaneously at the
+University of Slamet Riyadi Surakarta. Result from assumption classical test conclude used regression model in
+this research donot happened. Multicolineritas, Autocorelation, Heteroskedastititas and than can be said.
+Key word : work discipline, motivation, organizational commitment employee performance.
+A. PENDAHULUAN.
+Peningkatan kualitas pendidikan tinggi
+merupakan suatu keharusan universal yang harus
+dijalankan oleh semua pendidikan tinggi yang
+diselenggarakan oleh pemerintah maupun
+swasta. Perguruan tinggi sesuai dengan visi dan
+misinya merupakan institusi penggarap dan
+penghasil sumber daya manusia unggul sebagai
+jembatan di dalam menghasilkan produk
+berkualitas untuk mampu berkompetisi di pasar
+Global.
+Universitas Slamet Riyadi (UNISRI)
+Surakarta berperan serta dalam usaha Pendidikan
+Nasional yaitu sebagai wadah penyelenggara
+pendidikan tinggi di bawah Yayasan Perguruan
+Tinggi Slamet Riyadi, yang didirikan pada tanggal
+20 Juni 1980, dengan akte notaries R. Moelyatno,
+SH. Memiliki tenaga edukatif 147 orang serta
+tenaga administrasi sejumlah 118 orang. UNISRI
+saat ini memiliki enam fakultas, sebelas Program
+Studi serta Pasca Sarjana dengan program Studi
+Magister Manajemen, Magister Hukum, dan
+Magister Administrasi Publik. Persaingan yang
+semakin ketat di antara perguruan tinggi, maka
+perguruan tinggi dituntut dapat memberikan
+pelayanan yang baik. Perguruan tinggi termasuk
+pelayanan jasa yang harus memberikan
+
+pelayanan prima perlu memperhatikan kinerja
+karyawan, sehingga karyawan dapat menjalankan
+tugas kewajibannya dengan sebaik-baiknya.
+Kinerja pada dasarnya adalah apa yang
+dilakukan atau tidak dilakukan karyawan. Kinerja
+karyawan mempengaruhi seberapa banyak
+karyawan memberi kontribusi kepada organisasi
+(Mathis, 2002: 78). Hal ini menunjukkan bahwa
+faktor sumber daya manusia merupakan unsur
+penting dan turut menentukan berhasil atau
+tidaknya suatu organisasi. Oleh karena itu tujuan
+organisasi dapat tercapai, apabila didukung
+sumber daya manusia yang berkualitas. Salah satu
+indikator sumber daya manusia yang berkualitas
+dapat dilihat dalam performance karyawan yang
+ditunjukkan dari perilaku kerja yang efektif,
+efisien, produktif serta memiliki integritas yang
+tinggi.
+Demikian juga UNISRI dalam upaya
+melakukan perbaikan manajemen dan kualitas
+sumber daya manusia pada umumnya bertujuan
+untuk meningkatkan kinerja karyawan, supaya
+lembaga dapat mengetahui faktor apa saja yang
+mempengaruhi kinerja karyawan. Ada beberapa
+hal yang menyebabkan meningkatnya kinerja
+karyawan, namun peneliti mencoba mengkaji
+masalah mengenai disiplin kerja, motivasi kerja
+31
+
+INFORMATIKA edisi September 2014 Vol 1. No.2
+
+dan komitmen organisasi yang dipersepsikan
+merupakan faktor yang mempengaruhi kinerja
+karyawan Universitas Slamet Riyadi Surakarta.
+Faktor disiplin yang baik mencerminkan besarnya
+tanggung jawab seseorang terhadap tugas-tugas
+yang diberikan kepadanya. Hal tersebut
+mendorong gairah kerja, semangat kerja dan
+terwujudnya tujuan perusahaan, karyawan dan
+masyarakat (Malayu SP. Hasibuan, 2005: 193).
+Dengan demikian, kedisiplinan yang dimiliki oleh
+seseorang memiliki peran penting dalam
+kinerjanya. Seseorang dengan tingkat kedisiplinan
+yang tinggi akan lebih produktif dibandingkan
+dengan seseorang yang memiliki tingkat
+kedisiplinan rendah, karena semangat kerja,
+gairah kerja dan tanggung jawab terhadap
+pekerjaan dan tugas-tugasnya akan mendorong
+untuk bekerja dengan semaksimal mungkin.
+Motivasi kerja karyawan adalah suatu
+perangsang keinginan dan daya gerak yang
+menyebabkan seorang karyawan bersemangat
+dalam menjalankan tugas organisasi karena
+terpenuhi kebutuhanannya. Karyawan yang
+bersemangat dalam menjalankan tugas organisasi
+disebabkan telah terpenuhinya kebutuhannnya
+seperti gaji yang cukup, keamanan dalam bekerja,
+bebas tekanan dari pimpinan maupun rekan
+sekerja, dan kebutuhan lainnya, hal ini akan
+berdampak pada kepuasan kerja karyawan yang
+akhirnya mampu menciptakan kinerja dengan
+baik.
+Komitmen organisasi mencerminkan
+bagaimana seorang individu mengidentifikasikan
+dirinya dengan organisasi dan terikat dengan
+tujuan-tujuannya. Pimpinan disarankan untuk
+meningkatkan kepuasan kerja dengan tujuan
+untuk mendapatkan tingkat komitmen yang lebih
+tinggi. Selanjutnya, komitmen yang lebih tinggi
+dapat mempermudah terwujudnya produktivitas
+yang lebih tinggi.
+Berdasarkan latar belakang masalah di
+atas, maka tujuan dari penelitian ini adalah
+menganalisis signifikansi pengaruh disiplin kerja,
+motivasi kerja dan komitmen organisasi terhadap
+kinerja karyawan Universitas Slamet Riyadi
+Surakarta.
+B. LANDASAN TEORI
+1. Disiplin Kerja
+Disiplin berasal dari kata “Disciple”
+yang artinya suatu keadaan tertib dan dengan
+senang
+hati
+mengikuti
+ajaran-ajaran
+pemimpinnya, itulah mula-mula disebut
+disiplin. Istilah tersebut kemudian sering
+
+ISSN 2337 - 5213
+
+dipakai dalam bidang industri atau pekerjaan
+yang disebut dengan disiplin kerja. Apabila kita
+amati secara cermat dalam kehidupan
+organisasi, para bawahan tidak selalu
+berperilaku sesuai dengan tujuan dan
+ketentuan yang berlaku. Untuk mengetahui
+lebih lanjut tentang disiplin maka penulis
+kemukakan pendapat Wursanto
+yang
+menyatakan : Disiplin yakni ketaatan pada
+segala apa yang menjadi ketentuan dalam
+organisasi, baik tertulis maupun berupa janji
+belaka, bahwa tanpa ketaatan semacam itu
+maka segala apa yang menjadi tujuan
+organisasi tidak akan tercapai. (I.G. Wursanto,
+2004: 23).
+Dari pendapat tersebut terlihat adanya
+suatu ketaatan pada aturan yang berlaku dan
+tuntutan
+adanya
+kesanggupan
+untuk
+menghayati. Adanya ketaatan tersebut berupa
+suatu sikap yang dimanifestasikan dalam
+wujud tingkah laku dan perbuatan, sehingga
+aturan-aturan, patokan-patokan, normanorma atau tata tertib yang berlaku
+dilaksanakan secara sadar dan pegawai bisa
+mengendalikan diri dari perbuatan yang
+tercela.
+Mengingat begitu pentingnya sikap
+disiplin maka perlu kiranya tiap-tiap karyawan
+mengetahui dan mengerti dengan pasti
+prinsip-prinsip disiplin kerja yang sehat.
+Landasan falsafah disiplin yang sehat meliputi:
+1) Kemauan untuk menyelaraskan tindakan
+dengan tata tertib yang telah ditentukan. 2)
+Bersedia dan mau memperbaiki tindakantindakan yang tidak patut disertai rasa taat
+pada pimpinan. 3) Bersedia dan mau
+menerima segala tindakan korektif perlu
+diterima sebagai usaha untuk menentukan
+mental. 4) Tindakan disiplin hendaknya tidak
+terlalu keras tetapi harus cukup mampu untuk
+membawa perbaikan. 5) Karyawan perlu
+menyadari bahwa setiap organisasi kerja itu
+perlu diatur sedemikian rupa sehingga tidak
+semua kemauan dan keinginan perseorangan
+dapat dilakukan, setiap karyawan dipimpin
+untuk bekerja secara teratur dan berusaha
+memenuhi tujuan kerja yang telah ditetapkan
+bersama. (I.G. Wursanto, 2004: 63).
+Disiplin kerja yang baik merupakan
+suatu sikap yang diwujudkan dalam perilaku,
+sehingga dapat dicapai suatu keadaan yang
+tertib. Ada beberapa faktor yang mendasari
+disiplin yang baik seperti : 1) Pengetahuan dan
+32
+
+INFORMATIKA edisi September 2014 Vol 1. No.2
+
+kesadaran para karyawan terhadap peraturan
+yang berlaku. 2) Ketaatan dan kepatuhan
+terhadap peraturan-peraturan yang berlaku. 3)
+Pengertian dan kesadaran para karyawan
+terhadap arah dan tujuan perusahaan. 4)
+Kemampuan pengendalian diri dari sikap
+setiap karyawan. 5) Kepemimpinan yang
+bersifat terbuka. 6) Adanya kepercayaan
+terhadap diri sendiri yang melihat pada diri
+setiap karyawan. 7) Adanya hubungan
+manusiawi yang harmonis dalam organisasi/
+perusahaan (Kuncoro Hadi, 2000: 32).
+2. Motivasi Kerja
+Motivasi berasal dari kata latin movere
+yang berarti dorongan atau menggerakkan.
+Motivasi (motivation) dalam manajemen
+hanya ditujukan pada sumber daya manusia
+umumnya dan bawahan khususnya. Motivasi
+mempersoalkan
+bagaimana
+caranya
+mengarahkan daya dan potensi bawahan, agar
+mau bekerja sama secara produktif berhasil
+mencapai dan mewujudkan tujuan yang telah
+ditentukan. Berikut ini adalah pengertianpengertian motivasi kerja menurut para ahli,
+diantaranya yaitu:
+Motivasi kerja menurut Stephen P.
+Robbin (2006: 214) bahwa : Motivasi
+merupakan proses yang berperan pada
+intensitas, arah, dan lamanya berlangsung
+upaya individu ke arah pencapaian tujuan.
+Motivasi kerja menurut Malayu S.P. Hasibuan
+(2005: 141) bahwa: Motivasi kerja adalah hal
+yang menyebabkan, menyalurkan, dan
+mendukung perilaku manusia, supaya mau
+bekerja giat dan antusias mencapai hasil kerja
+yang optimal. Motivasi kerja menurut Kusnadi
+(2002: 330) adalah upaya-upaya yang
+memunculkan semangat dari dalam orang itu
+sendiri melalui fasilitas penyediaan kepuasan.
+Dari pengertian di atas bahwa motivasi
+kerja merupakan suatu keahlian dalam
+mengarahkan atau mengendalikan dan
+menggerakan seseorang untuk melakukan
+tindakan akan perilaku yang diinginkan
+berdasarkan sasaran-sasaran yang sudah
+ditetapkan untuk mencapai tujuan tertentu.
+Motivasi akan dipengaruhi oleh
+adanya kebutuhan-kebutuhan pribadi dan
+tujuan dari orang atau kelompok orang yang
+ingin dipenuhi. Dengan kata lain tujuan
+perseorangan dalam setiap organisasi
+berpengaruh dalam menentukan tercapainya
+tujuan yang diinginkan oleh organisasi. Karena
+
+ISSN 2337 - 5213
+
+itu sudah sepantasnya bila tujuan-tujuan
+perseorangan atau pegawai dalam suatu
+organisasi diperhatikan atau mendapat
+pemuasan untuk merealisir apa yang menjadi
+tujuan organisasi sebagai keseluruhan.
+Seorang pimpinan yang sadar akan tanggung
+jawabnya
+harus
+menyadari
+keadaan/kenyataan itu karena berhasil
+tidaknya ia mencapai hasil itu melalui
+bawahan, juga tergantung pada apa yang akan
+diberikan untuk memenuhi kebutuhan
+bawahan.
+3. Komitmen Organisasi
+Komitmen organisasi adalah “suatu
+keadaan di mana seorang karyawan memihak
+organisasi tertentu serta tujuan dan
+keinginannya
+untuk
+mempertahankan
+keanggotaan dalam organisasi” (Stephen P.
+Robbins & Timothy A. Judge, 2008: 100).
+Komitmen terhadap organisasi artinya lebih
+dari sekedar keanggotaan formal, karena
+meliputi sikap menyukai organisasi dan
+kesediaan untuk mengusahakan tingkat upaya
+yang
+lebih
+tinggi
+bagi
+kepentingan
+organisasinya demi pencapaian tujuan.
+Berdasarkan definisi ini, dalam komitmen
+organisasi tercakup unsur loyalitas terhadap
+organisasi, keterlibatan dalam pekerjaan, dan
+identifikasi terhadap nilai-nilai dan tujuan
+organisasi.
+Selanjutnya pengertian lain mengenai
+komitmen organisasi yaitu: Komitmen
+terhadap organisasi melibatkan tiga sikap yaitu
+: 1) Identifikasi dengan tujuan organisasi, 2)
+Perasaan keterlibatan dalam tugas-tugas
+organisasi, dan 3) Perasaan setia terhadap
+organisasi. Hal ini berarti karyawan yang komit
+terhadap organisasi memandang nilai dan
+kepentingan mengintegrasikan tujuan pribadi
+dan organisasi, sehingga tujuan organisasi
+merupakan tujuan pribadinya. Pekerjaan yang
+menjadi
+tugasnya
+dipahami
+sebagai
+kepentingan pribadi dan memiliki keinginan
+untuk selalu loyal demi kemajuan organisasi
+(Sopiah, 2008: 156).
+Pengertian lain mengenai komitmen
+karyawan adalah “Merupakan suatu keadaan
+dimana seorang karyawan memihak pada
+suatu organisasi tertentu dan tujuantujuannya serta berminat memelihara
+keanggotaan dalam organisasi itu” (Robbins,
+2003: 140). Pendapat lain menyatakan
+mengenai komitmen karyawan terhadap
+33
+
+INFORMATIKA edisi September 2014 Vol 1. No.2
+
+organisasi yaitu: “Komitmen karyawan adalah
+tingkat kepercayaan dan penerimaan tenaga
+kerja terhadap tujuan organisasi dan
+mempunyai keinginan untuk tetap berada di
+dalam organisasi tersebut” (Mathis dan
+Jackson, 2004: 92).
+Berdasarkan pendapat di atas dapat
+disimpulkan bahwa komitmen organisasi
+merupakan sikap mengenai loyalitas pekerja
+terhadap organisasi dan merupakan proses
+yang berkelanjutan dari anggota organisasi
+untuk mengungkapkan perhatiannya pada
+organisasi dan hal tersebut berlanjut pada
+kesuksesan dan kesejahteraan.
+Komitmen
+karyawan
+terhadap
+organisasi dibedakan menjadi tiga dimensi
+terpisah, yaitu: a) Komitmen Afektif (affective
+commitment) adalah perasaan emosional
+untuk organisasi dan keyakinan dalam nilainilainya.
+b)
+Komitmen
+Berkelanjutan
+(continuance commitmen) adalah nilai
+ekonomi yang dirasa bertahan dengan sebuah
+organisasi
+bila
+dibandingkan
+dengan
+meninggalkan
+organisasi
+tersebut.
+c)
+Komitmen normative (normative commitment)
+adalah komitmen untuk bertahan dengan
+organisasi untuk alasan-alasan moral atau etis
+(Stephen P. Robbins dan Timothy A. Judge,
+2008: 101).
+Ada 3 (tiga) strategi untuk membentuk
+komitmen karyawan terhadap perusahaan,
+yaitu: 1) Menciptakan rasa kepemilikan
+terhadap perusahaan dengan meningkatkan
+kepercayaan di seluruh anggota perusahaan
+bahwa mereka benar-benar (secara jujur)
+diterima oleh manajemen sebagai bagian dari
+perusahaan. Banyak cara yang bisa dilakukan
+untuk itu, mengajak karyawan perusahaan
+untuk terlibat memutuskan penciptaan dan
+pengembangan
+produk
+baru,
+terlibat
+memutuskan perubahan rancangan kerja dan
+sebagainya. Bila mereka merasa terlibat dan
+semua idenya dipertimbangkan maka muncul
+perasaan kalau mereka ikut berkontribusi
+terhadap pencapaian hasil. Apalagi ditambah
+dengan kepercayaan kalau hasil yang
+diperoleh perusahaan akan kembali pada
+kesejahteraan
+mereka
+pula.
+Sehingga
+karyawan mempercayai bahwa ada guna dan
+manfaat yang mereka kontribusikan dalam
+bekerja di perusahaan. 2) Menciptakan
+semangat dalam bekerja, cara ini dapat
+dilakukan dengan lebih mengkonsentrasikan
+
+ISSN 2337 - 5213
+
+pada pengelolaan faktor-faktor motivasi
+instrinsik dan menggunakan berbagai cara
+perancangan
+pekerjaan.
+Menciptakan
+semangat kerja bawahan bisa dengan cara
+meningkatkan kualitas kepemimpinan yaitu
+menumbuhkan kemauan manajer dan
+supervisor untuk memperhatikan sepenuhnya
+motivasi dan komitmen bawahan melalui
+pemberian delegasi tanggung jawab dan
+pendayagunaan ketrampilan bawahan. 3)
+Keyakinan dalam manajemen, cara ini mampu
+dilakukan manakala perusahaan benar-benar
+telah menunjukkan dan mempertahankan
+kesuksesan.
+Manajemen
+yang
+sukses
+menunjukkan kepada bawahan bahwa
+manajemen tahu benar kemana perusahaan
+ini akan dibawa, tahu dengan pasti bagaimana
+cara membawa perusahaan mencapai
+keberhasilannya,
+dan
+kemampuan
+menerjemahkan rencana ke dalam realitas.
+Pada konteks ini karyawan akan melihat
+bagaimana
+ketegaran
+dan
+kekuatan
+perusahaan dalam mencapai tujuan hingga
+sukses, kesuksesan inilah yang membawa
+dampak kebanggaan pada diri karyawan.
+Apalagi mereka sadar bahwa keterlibatan
+mereka dalam mencapai kesuksesan itu cukup
+besar dan sangat dihargai oleh manajemen
+(Susanto, 2011: 40).
+4. Kinerja Karyawan
+Kata kinerja merupakan terjemahan
+dari bahasa Inggris, work performance atau
+job performance tetapi dalam bahasa
+Inggrisnya
+sering
+disingkat
+menjadi
+performance saja. Kinerja dalam bahasa
+Indonesia disebut juga prestasi kerja. Kinerja
+atau prestasi kerja (performance) diartikan
+sebagai ungkapan kemampuan yang didasari
+oleh pengetahuan, sikap, ketrampilan dan
+motivasi dalam menghasilkan sesuatu.
+Masalah kinerja selalu mendapat perhatian
+dalam manajemen karena sangat berkaitan
+dengan produktivitas lembaga atau organisasi
+(Malayu SP. Hasibuan, 2005: 89).
+Berdasarkan
+pengertian
+kinerja
+tersebut
+maka
+faktor
+utama
+yang
+mempengaruhi kinerja adalah kemampuan
+dan kemauan. Memang diakui bahwa banyak
+orang mampu tetapi tidak mau sehingga tetap
+tidak menghasilkan kinerja. Demikian pula
+halnya banyak orang mau tetapi tidak mampu
+juga tetap tidak menghasilkan kinerja apa-apa.
+Sedangkan pengertian lain mengenai kinerja
+34
+
+INFORMATIKA edisi September 2014 Vol 1. No.2
+
+yaitu
+”Suatu
+pencapaian
+persyaratan
+pekerjaan tertentu yang akhirnya secara
+langsung dapat tercermin dari output yang
+dihasilkan baik kuantitas maupun kualitasnya”
+(Henri Simamora, 2004: 423).
+Dari pendapat tersebut di atas, maka
+dapat disimpulkan bahwa apabila seorang
+pegawai telah memiliki kemampuan dalam
+penguasaan bidang pekerjaannya, mempunyai
+minat untuk melakukan pekerjaan tersebut,
+adanya kejelasan peran dan motivasi
+pekerjaan yang baik, maka orang tersebut
+memiliki landasan yang kuat untuk berprestasi
+lebih baik.
+Unsur prestasi karyawan yang dinilai
+oleh setiap organisasi atau perusahan tidaklah
+selalu sama, tetapi pada dasarnya unsur-unsur
+yang dinilai itu mencakup seperti hal-hal di
+atas. Demikian juga untuk menilai kinerja
+karyawan, unsur-unsur yang telah dipaparkan
+di atas dapat digunakan oleh manajer untuk
+melakukan penilaian namun tentu saja
+berkaitan
+dengan
+profesinya
+sebagai
+karyawan.
+Dalam
+melaksanakan
+tugasnya,
+karyawan tidak berada dalam lingkungan yang
+kosong. Karyawan merupakan bagian dari
+sebuah “mesin besar” dalam organisasi, dan
+karena itu ia terikat pada rambu-rambu yang
+telah ditetapkan dalam organisasi mengenai
+apa yang mesti dilakukannya. Hal seperti biasa
+dimanapun,
+namun
+dalam
+konteks
+profesionalisme karyawan dimana profesi
+dianggap sebagai pekerjaan profesional, maka
+karyawan dituntut untuk profesional dalam
+melaksanakan tugasnya.
+Adapun
+faktor-faktor
+yang
+mempengaruhi kinerja: 1) Efektivitas dan
+efisiensi. Bila suatu tujuan tertentu akhirnya
+bisa dicapai, kita boleh mengatakan bahwa
+kegiatan tersebut efektif tetapi apabila akibatakibat yang tidak dicari kegiatan mempunyai
+nilai yang penting dari hasil yang dicapai
+sehingga mengakibatkan ketidak puasan
+walaupun efektif dinamakan tidak efisien.
+Sebaliknya bila akibat yang dicari-cari tidak
+penting atau remeh maka kegiatan tersebut
+efisien. 2) Otoritas (wewenang). Arti otoritas
+adalah sifat dari suatu komunikasi atau
+perintah dalam sustu organisasi formal yang
+dimiliki (diterima) oleh seorang anggota
+organisasi kepada anggota yang lain untuk
+melakukan suatu kegiatan kerja sesuai dengan
+
+ISSN 2337 - 5213
+
+kontribusinya
+(sumbangan
+tenaganya).
+Perintah tersebut menyatakan apa yang boleh
+dilakukan dan yang tidak boleh dilakukan
+dalam organisasi tersebut. 3) Disiplin. Disiplin
+kegiatan karyawan yang bersangkutan dalam
+menghormati perjanjian kerja dengan
+organisasi di mana dia kerja. 4) Inisiatif yaitu
+berkaitan dengan daya dan kreativitas dalam
+bentuk ide untuk merencanakan sesuatu yang
+berkaitan dengan tujuan organisasi. Jadi,
+inisiatif adalah daya dorong kemajuan yang
+bertujuan untuk mempengaruhi kinerja
+organisasi (S. Dharma, 2005: 32).
+C. METODE PENELITIAN
+Jenis
+penelitian
+ini
+merupakan
+penelitian survey pada karyawan Universitas
+Slamet Riyadi Surakarta. Populasi dalam
+penelitian ini adalah seluruh karyawan Universitas
+Slamet Riyadi Surakarta yang berjumlah 130
+orang yang terdiri dari Karyawan Universitas
+bagian pusat, karyawan fakultas dan karyawan
+bagian Pascasarjana. Sampel yang digunakan
+sebanyak 30 responden, dengan teknik
+pengambilan sampel menggunakan proportional
+random sampling. Teknik analisis data
+menggunakan uji instrument, uji asumsi klasik,
+analisis regresi linier berganda, uji t, uji F
+(ketepatan model) dan koefisien determinasi.
+D. HASIL DAN PEMBAHASAN
+1. Uji Validitas dan Reliabilitas Instrumen
+Hasil Uji Validitas semua item pertanyaan valid
+karena nilai probabilitas < 0,05 dan hasil uji
+Reliabilitas semua item variabel dinyatakan
+reliabel karena nilai Cronbach Alpha
+menunjukkan > 0,60, maka semua variabel
+dikatakan reliabel.
+2. Uji Asumsi Klasik
+Uji asumsi klasik bertujuan untuk menguji
+apakah model regresi linier bebas dari adanya
+bias atau penyimpangan sehingga dipereoleh
+regresi yang benar BLUE (Best Linier Unbiased
+Estimation).
+a. Uji Multikoliniritas
+Hasil uji menunjukkan besarnya nilai
+tolerance untuk semua variabel > 0,1 dan
+nilai VIF masing-masing variabel <10 maka
+tidak terjadi multikoliniritas.
+b. Uji Autokorelasi
+Pengujian ada tidaknya autokorelasi pada
+model regresi dilakukan dengan Run test.
+Hasil uji menunjukkan P value sebesar
+0,853 > 0,05 yang berarti tidak terjadi
+autokorelasi antar nilai residual.
+35
+
+INFORMATIKA edisi September 2014 Vol 1. No.2
+
+ISSN 2337 - 5213
+
+c. Uji Heterokedastisitas
+Pengujian
+Heterokedastisitas
+dalam
+penelitan ini dilakukan dengan Glejser Test
+dengan P value masing-masing variabel >
+0,05, maka model regresi tidak terjadi
+heteroskedastisitas.
+d. Uji Normalitas
+
+Pengujian normalitas dilakukan dengan uji
+Kosmogorov – Smianov, hasil pengujian
+menunjukkan P value sebesar 0,722 > 0,05,
+maka data residual berdistribusi normal.
+3. Analisis Regresi Linier Berganda
+Berdasarkan hasil analisis regresi linier
+berganda dapat disampaikan dalam tabel
+berikut:
+
+a
+Coefficients
+
+Unstandardized
+Standardized
+Coefficients
+Coefficients
+Model
+B
+Std. Error
+Beta
+1
+(Constant)
+-1.704
+2.451
+Disiplin Kerja
+.427
+.076
+.481
+Motivasi Kerja
+.471
+.083
+.480
+Komitmen Organisasi
+.231
+.055
+.203
+
+t
+-.695
+5.656
+5.693
+4.194
+
+Sig.
+.493
+.000
+.000
+.000
+
+a. Dependent Variable: Kinerja Karyawan
+
+Berdasarkan hasil analisis regresi linier
+berganda diperoleh nilai konstanta -1,704,
+koefisien regrei variabel disiplin kerja (X1) =
+0,427, koefisien regresi variabel motivasi kerja
+(X2) = 0,471, koefisien regrei variabel
+komitmen organisasi (X3) = 0,231. Dengan
+demikian dapat dituliskan persamaan regresi
+sebagai berikut :
+Y = -1,704 + 0,427X1 + 0,471X2 + 0,231X3
+E. PENGUJIAN HIPOTESIS
+Hipotesis 1 yang diuji menyatakan :
+Terdapat pengaruh yang positif dan signifikan
+disiplin kerja, motivasi kerja dan komitmen
+organisasi secara parsial terhadap kinerja
+karyawan di Universitas Slamet Riyadi Surakarta
+1. Pengujian Hipotesis Parsial
+
+a. Hasil uji disiplin kerja diperoleh p value
+0,000 < 0,05 berarti Ho ditolak.
+b. Hasil uji motivasi kerja diperoleh p value
+0,000 < 0,05 berarti Ho ditolak.
+c. Hasil uji komitmen organisasi diperoleh p
+value 0,000 < 0,05 berarti Ho ditolak.
+Dengan
+demikian
+hipotesis
+yang
+menyatakan “Terdapat pengaruh yang
+positif dan signifikan disiplin kerja, motivasi
+kerja dan komitmen organisasi secara
+parsial terhadap kinerja karyawan di
+Universitas Slamet Riyadi Surakarta”,
+didukung data.
+2. Pengujian Secara Simultan
+Berdasarkan hasil data dapat disampaikan
+dalam tabel berikut:
+ANOVAb
+
+Model
+1
+
+Regression
+Residual
+Total
+
+Sum of
+Squares
+1510.800
+94.667
+1605.467
+
+df
+3
+26
+29
+
+Mean Square
+503.600
+3.641
+
+F
+138.313
+
+Sig.
+.000a
+
+a. Predictors: (Constant), Komitmen Organisasi, Motivasi Kerja, Disiplin Kerja
+b. Dependent Variable: Kinerja Karyawan
+
+Hasil analisis diperoleh probabilitas value
+sebesar 0,000 < 0,05 maka Ho ditolak berarti
+ada pengaruh yang signifikan variabel bebas
+yaitu disiplin kerja (X1), motivasi kerja (X2), dan
+komitmen organisasi (X3) secara simultan
+terhadap variabel terikat yaitu kinerja
+
+karyawan di Universitas Slamet Riyadi
+Surakarta.
+Sehingga hipotesis yang berbunyi: “Terdapat
+pengaruh yang signifikan disiplin kerja (X1),
+motivasi kerja (X2), dan komitmen organisasi
+(X3) secara simultan terhadap variabel terikat
+36
+
+INFORMATIKA edisi September 2014 Vol 1. No.2
+
+ISSN 2337 - 5213
+
+yaitu kinerja karyawan di Universitas Slamet
+Riyadi Surakarta”, didukung data.
+3. Pengujian yang Dominan.
+Berdasarkan hasil analisis regresi ditunjukkan
+besarnya nilai t hitung dan p value dari
+masing-masing variabel bebas sebagai berikut:
+(1) Nilai t hitung variabel disiplin kerja sebesar
+5,665 dengan p value 0,000, (2) Nilai t hitung
+variabel motivasi kerja sebesar 5,693 dengan p
+value 0,000,
+(3) Nilai t hitung variabel
+komitmen organisasi sebesar 4,194 dengan p
+value 0,000;
+
+Berdasarkan hasil di atas diketahui bahwa
+variabel motivasi kerja memiliki nilai
+t
+hitung yang paling besar dibandingkan dengan
+variabel lainnya.
+Dengan demikian hipotesis yang menyatakan
+variabel motivasi kerja mempunyai pengaruh
+yang dominan terhadap kinerja karyawan di
+Universitas Slamet Riyadi Surakarta, didukung
+data.
+4. Uji Koefisien Determinasi
+Berdasarkan hasil analisis data dapat
+disampaikan
+dalam
+tabel
+berikut:
+
+Model Summary
+Model
+1
+
+R
+.970a
+
+R Square
+.941
+
+Adjusted
+R Square
+.934
+
+Std. Error of
+the Estimate
+1.90815
+
+a. Predictors: (Constant), Komitmen Organisasi, Motivasi
+Kerja, Disiplin Kerja
+
+Dari hasil perhitungan diperoleh nilai Adjusted
+R Square = 0,934 berarti diketahui bahwa
+pengaruh yang diberikan oleh variabel bebas
+yaitu disiplin kerja (X1), motivasi kerja (X2), dan
+komitmen organisasi (X3) terhadap variabel
+terikat yaitu kinerja karyawan (Y) di Universitas
+Slamet Riyadi Surakarta sebesar 93,4%
+sedangkan sisanya (100% - 93,4%) = 6,6%
+dipengaruhi oleh faktor-faktor lain diluar
+variabel yang diteliti.
+F. PEMBAHASAN HASIL PENELITIAN.
+1. Pengaruh disiplin kerja (X1) terhadap kinerja
+karyawan (Y).
+Berdasarkan hasil analisis data diperoleh
+kesimpulan ada pengaruh yang positif dan
+signifikan disiplin kerja (X1) terhadap kinerja
+karyawan (Y) di Universitas Slamet Riyadi
+Surakarta.
+Hal tersebut dapat peneliti jelaskan
+bahwa apabila semakin baik tingkat disiplin
+kerja karyawan seperti ketepatan waktu dalam
+menyelesaikan tugas, tingkat kehadiran sesuai
+jam kerja yang ditentukan, kesungguhan kerja,
+ketertiban berpakaian, ketaatan dalam
+menjalankan prosedur dan aturan yang
+berlaku,
+kesempurnaan
+hasil
+kerja,
+penggunaan fasilitas dengan penuh tanggung
+jawab maka akan dapat meningkatkan kinerja
+karyawan.
+2. Pengaruh motivasi kerja (X2) terhadap kinerja
+karyawan (Y).
+Berdasarkan hasil analisis data
+diperoleh kesimpulan ada pengaruh yang
+
+positif dan signifikan motivasi kerja (X2)
+terhadap kinerja karyawan (Y) di Universitas
+Slamet Riyadi aSurakarta.
+Hal tersebut dapat peneliti jelaskan
+bahwa semakin tinggi tingkat motivasi kerja
+karyawan maka akan dapat meningkatkan
+kinerja karyawan. Guna meningkatkan
+motivasi kerja karyawan, maka perusahaan
+dapat memotivasi kerja karyawan dengan cara
+pemberian upah yang adil dan layak,
+pemberian kesempatan untuk maju/promosi,
+adanya
+pengakuan
+sebagai
+individu,
+pemberian keamanan kerja, menyediakan
+tempat kerja yang baik adanya penerimaan
+oleh kelompok, adanya perlakuan yang wajar
+dan adanya pengakuan akan prestasi, maka
+dapat meningkatkan kinerja karyawan.
+3. Pengaruh komitmen organisasi (X3) terhadap
+kinerja karyawan (Y).
+Berdasarkan hasil analisis data
+diperoleh kesimpulan ada pengaruh yang
+positif dan signifikan komitmen organisasi (X3)
+terhadap kinerja karyawan (Y) di Universitas
+Slamet Riyadi Surakarta.
+Hal tersebut dapat peneliti jelaskan
+bahwa semakin baik komitmen organisasi yang
+dimiliki oleh karyawan, seperti adanya
+keyakinan yang kuat dan penerimaan atas nilai
+tujuan organisasi, adanya keinginan yang pasti
+untuk mempertahankan keikutsertaan dalam
+organisasi, penerimaan terhadap tujuan
+organisasi, keinginan untuk bekerja keras dan
+memiliki hasrat untuk bertahan menjadi
+37
+
+INFORMATIKA edisi September 2014 Vol 1. No.2
+
+bagian dari organisasi, maka
+meningkatkan kinerja karyawan.
+
+ISSN 2337 - 5213
+
+dapat
+
+G. KESIMPULAN.
+Hasil penelitian ini menunjukkan bahwa
+kinerja karyawan di Universitas Slamet Riyadi
+Surakarta dipengaruhi oleh disiplin kerja, motivasi
+kerja dan komitmen organisasi. Temuan
+penelitian ini menunjukkan bahwa semakin tinggi
+disiplin kerja, motivasi kerja dan komitmen
+organisasi yang dimiliki oleh karyawan Universitas
+Slamet Riyadi Surakarta akan meningkatkan
+kinerja karyawan.
+Hasil penelitian juga membuktikan
+bahwa ketiga variabel yaitu disiplin kerja, motivasi
+kerja dan komitmen organisasi berpengaruh
+positif dan signifikan baik secara parsial maupun
+secara simultan terhadap kinerja karyawan
+Universitas Slamet Riyadi Surakarta.
+H. KETERBATASAN.
+Penelitian ini terbatas hanya menguji
+disiplin kerja, motivasi kerja dan komitmen
+organisasi terhadap kinerja karyawan, untuk
+penelitian selanjutnya dapat menggunakan
+variabel independen yang lain, misalnya budaya
+organisasi, kepemimpinan, lingkungan kerja,
+komunikasi organisasi dan lain sebagainya.
+I. SARAN.
+1. Hendaknya
+pimpinan
+dalam
+usaha
+meningkatkan
+kinerja
+karyawan
+perlu
+meningkatkan motivasi kerja, karena dari hasil
+analisis variabel motivasi kerja merupakan
+yang
+dominan
+mempengaruhi
+kinerja
+karyawan, misalnya dengan memberikan
+pujian maupun penghargaan kepada karyawan
+yang berprestasi.
+2. Selain itu pimpinan juga perlu memperhatikan
+variabel disiplin kerja misalnya pemberian
+kepercayaan
+kepada
+bawahan
+dalam
+melaksanakan berbagai tugas.
+
+3. Kepada para karyawan, hendaknya dapat
+meningkatkan disiplin kerja dan motivasi kerja,
+karena peningkatan disiplin kerja dan motivasi
+kerja tersebut sangat penting, karena tanpa
+motivasi kerja yang tinggi, serta disiplin kerja
+yang kurang baik, maka kinerja karyawan tidak
+akan meningkat. Kinerja karyawan yang
+rendah pada gilirannya akan menyebabkan
+mutu kerja yang rendah.
+DAFTAR PUSTAKA
+Djarwanto Ps dan Pangestu Subagyo, 2000, Statistik
+Induktif, Yogyakarta: BPFE UGM.
+Henri Simamora, 2004, Manajemen Sumber Daya
+Manusia, Yoyakarta: STIE YKPN.
+Imam Ghozali, 2005, Aplikasi Analisis Multivariate
+dengan program SPSS, Badan. Semarang:
+Penerbit Universitas Diponegoro.
+I.G. Wursanto, 2004, Dasar-dasar Ilmu Organisasi,
+Yogyakarta: Andi Offset.
+Kusnadi, 2002, Masalah, Kerjasama, Konflik dan
+Kinerja. Malang : Torada
+Malayu SP. Hasibuan, 2005, Manajemen Sumber
+Daya Manusia, Ed. Revisi, Jakarta: Bumi
+Aksara.
+Mathis, 2002, Pengembangan Sumber Daya Insani.
+Jakarta: Gunung Agung.
+Sondang P. Siagian, 2002, Manajemen Sumber Daya
+Manusia, Jakarta: Penerbit Bumi Aksara.
+Sopiah, 2008, Perilaku Organisasi, Yogyakarta: Andi
+Offset.
+Stephen P. Robbins, 2006, Perilaku Organisasi, alih
+bahasa Benjamin Molan, Edisi Bahasa
+Indonesia, Klaten: Intan Sejati.
+Stephen P. Robbins & Timothy A. Judge, 2008,
+Perilaku Organisasi, Jakarta: Indeks Kelompok
+Gramedia.
+Suharsimi Arikunto, 2006, Prosedur Penelitian Suatu
+Pendekatan Praktek, Jakarta: Rineka Cipta.
+Sutrisno Hadi, 2002, Metodologi Reserarch,
+Yogyakarta: BPFE-UGM.
+
+38
+
+

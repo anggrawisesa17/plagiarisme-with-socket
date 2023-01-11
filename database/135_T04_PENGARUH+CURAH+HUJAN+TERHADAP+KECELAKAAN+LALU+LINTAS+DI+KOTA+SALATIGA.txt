@@ -1,0 +1,641 @@
+Prosiding Simposium Forum Studi Transportasi antar Perguruan Tinggi ke-24
+Universitas Indonesia – Universitas Pembangunan Jaya, 4-6 November 2021
+
+PENGARUH CURAH HUJAN TERHADAP KECELAKAAN
+LALU LINTAS DI KOTA SALATIGA
+Ricky Dwi Iswahyudi
+Rekayasa Sistem Transportasi Jalan
+Politeknik Keselamatan Transportasi Jalan
+Jl. Semeru No.3, Kota Tegal, Jawa Tengah 52125
+082229465481
+rickyiswahyudi10@gmail.com
+
+Shaveila Putri Adindira
+Rekayasa Sistem Transportasi Jalan
+Politeknik Keselamatan Transportasi Jalan
+Jl. Semeru No.3, Kota Tegal, Jawa Tengah 52125
+082326618885
+shaveilaanindira@gmail.com
+
+Febrianti Silfi Alief Rizqi
+Rekayasa Sistem Transportasi Jalan
+Politeknik Keselamatan Transportasi Jalan
+Jl. Semeru No.3, Kota Tegal, Jawa Tengah 52125
+089501856389
+silfi395@gmail.com
+
+Yogi Oktopianto
+Prodi DIV Rekayasa Sistem Transportasi Jalan
+Politeknik Keselamatan Transportasi Jalan
+Jl. Semeru No.3, Kota Tegal, Jawa Tengah 52125
+0852733627225
+Yogi.oktopianto@pktj.ac.id
+
+Abstract
+Rainfall that occurs irregularly and is difficult to predict has an influence on various aspects of life, one of
+which is traffic accidents. The purpose of this study was to determine the effect of rainfall on traffic accidents
+and its prevention efforts against traffic accidents. The method used in this study is an empirical juridical
+approach using primary data and secondary data, then analyzed qualitatively descriptively. The results of this
+study indicate that there is an effect of rainfall on traffic accidents by 27.6%, meaning that with 27.6% there is
+sufficient evidence that rainfall has an influence on the rate of traffic accidents in Salatiga City with
+recommendations that can be done are to reduce speed, turn on the hazard, or through other routes, check the
+vehicle and the health of the driver before traveling, and use personal protective equipment in the form of a
+raincoat.
+Keywords: Rainfall, traffic accidents, influence, prevention, recommendation.
+Abstrak
+Curah hujan yang terjadi secara tidak teratur dan susah diprediksi memberikan pengaruh terhadap berbagai
+aspek kehidupan, salah satunya terhadap kecelakaan lalu lintas. Tujuan dilakukannya penelitian ini adalah
+untuk mengetahui dampak curah hujan terhadap kecelakaan lalu lintas dan upaya pencegahannya terhadap
+kecelakaan lalu lintas. Metode dalam penelitian ini menggunakan metode pendekatan yuridis empiris dengan
+menggunakan data primer dan data sekunder, kemudian di analisis secara kualitatif deskriptif. Hasil penelitian
+ini menunjukkan terdapat pengaruh curah hujan terhadap kecelakaan lalu lintas sebesar 27,6%, artinya dengan
+27,6% cukup bukti bahwa curah hujan memiliki pengaruh terhadap tingkat kecelakaan lalu lintas di Kota
+Salatiga dengan rekomendasi yang dapat dilakukan adalah mengurangi kecepatan, menyalakan hazard, atau
+melewati jalur lain serta upaya pencegahan dengan mengecek kendaraan dan kesehatan pengendara sebelum
+melakukan perjalanan, serta menggunakan alat pelindung diri berupa jas hujan.
+Kata Kunci: Curah hujan, kecelakaan lalu lintas, pengaruh, pencegahan, rekomendasi.
+
+135
+
+Iswahyudi, et al.
+
+PENDAHULUAN
+Kecelakaan lalu lintas adalah peristiwa di jalan yang terjadi secara tidak terduga dan
+melibatkan kendaraan dengan atau tanpa pengguna jalan lain secara tidak disengaja yang
+menimbulkan korban jiwa dan atau kerugian harta benda (UU No. 22 Tahun 2009). Beberapa
+faktor yang menjadi penyebab kecelakaan lalu lintas diantaranya: faktor manusia, faktor
+kondisi jalan, faktor kendaraan dan faktor alam. Data kecelakaan lalu lintas (laka lantas)
+menunjukkan bahwa pada periode ke 31 tahun 2020 terjadi insiden kecelakaan lalu lintas
+dengan jumlah 1.234 kejadian. Dari kejadian tersebut sebanyak 189 orang meninggal dunia,
+luka berat 142 orang, dan luka ringan 1.070 orang, serta kerugian material sebanyak 1.6
+miliar. Sedangkan periode ke 32 di tahun yang sama terjadi kecelakaan sebanyak 1.234
+kejadian dengan korban meninggal dunia sebanyak 210 orang, kemudian luka berat
+sebanyak 181 orang, luka ringan sebanyak 1.464 orang serta menyebabkan kerugian materil
+sebesar Rp2,2 miliar. Wilayah yang memiliki jumlah kecelakaan lalu lintas paling tinggi
+yaitu Polda Jawa Tengah dengan jumlah angka laka lantas sebanyak 396 kejadian,
+meninggal dunia sebanyak 35 orang, luka berat sebanyak 12 orang, luka ringan sebanyak
+481 orang, kerugian materil sebesar Rp3.2 juta (Media Indonesia, 2020).
+Curah hujan adalah jumlah air hujan yang jatuh ke permukaan bumi dalam pada wilayah
+tertentu dalam kurun waktu tertentu. Curah hujan diukur dalam rentang atau jangka waktu
+perharian, perbulanan, atau pertahunan. Beberapa faktor-faktor lain yang menjadi pengaruh
+curah hujan diantaranya faktor garis lintang, ketinggian tempat, jaraksumber air, perbedaan
+suhu tanah, dan luas daratan (Ganiz Rickza Octari, 2015). Indonesia memiliki kondisi
+fisiografis meliputi posisi lintang, ketinggian, pola angin, sebaran bentang darat dan
+perairan, serta pegunungan yang tinggi ikut berpengaruh terhadap variasi dan macam curah
+hujan di Indonesia sehingga dalam hal ini curah hujan tidak dapat diprediksi bahkan BMKG
+yang ahli dalam bidang meteorologi skala nasional pun kadang kala tetap saja mengalami
+kegagalan dalam meramalkan fenomena cuaca (Tukidi, 2010).
+Berdasarkan fisiografis wilayah Indonesia mempengaruh unsur-unsur iklim/cuaca yang
+menghasilkan 3 (tiga) jenis curah hujan. Tiga jenis tersebut yaitu tipe ekuatorial, tipe monsun
+dan tipe lokal. Tipe curah hujan ekuatorial memiliki proses yang berhubungan dengan
+pergerakan zona konvergensi ke utara dan selatan mengikuti pergerakan semu matahari,
+sedangkan tipe monsun memiliki proses yang dipengaruhi oleh adanya tiupan angin musim
+(Angin Musim Barat), dan tipe lokal berpengaruhi pada kondisi lingkungan fisik setempat,
+yakni adanya bentang perairan sebagai sumber penguapan dan pegunungan yang tinggi
+sebagai daerah tangkapan hujan (Tukidi,2010).
+Kota Salatiga merupakan kota di Provinsi Jawa Tengah yang berada di bagian tengah,
+berbatasan, dan dikelilingi oleh wilayah Kabupaten Semarang. Salatiga berletak sangat
+strategis, karena dilewati jalur jaringan perekonomian skala besar, baik jalur jaringan jalan
+nasional maupun jalur jaringan jalan regional (Ardi Pradana, 2013). Untuk rata-rata curah
+hujan pada kota Salatiga pada akhir tahun 2020 cenderung meningkat. Dikhawatirkan, dari
+tingginya curah hujan yang terjadi secara terus-menerus akan menimbulkan dampak
+tersendiri bagi kehidupan masyarakat. Terutama untuk sarana dan prasarana jalan yang dapat
+rusak dan menghambat jalannya sektor transportasi khususnya angkutan barang
+
+136
+
+Iswahyudi, et al.
+
+Di negara maju penyebab utama kematian pada semua kelompok umur, kecuali bagi mereka
+yang berusia senja adalah kecelakaan lalu lintas dan negara berkembang pun mengalami hal
+yang sama (Umi Senggargasi, 2017). Secara umum tingkat kepemilikan kendaraan diikuti
+dengan meningkatnya kecelakaan lalu lintas. Tingkat keselamatan diukur dengan jumlah
+korban akibat kecelakaan. Dalam hal ini dilakukan beberapa penelitian diantaranya
+penelitian yang dilakukan Rakhmani (2013) didapatkan bahwa emosi dalam berpikir dengan
+mengendarai sepeda motor di jalan, ditambah dengan kurangnya pengetahuan tentang
+mengemudi sering menyebabkan hal yang fatal dan berpeluang terjadi kecelakaan di jalan
+raya, biasanya pada usia remaja yang sering mengalami kecelakaan akibat faktor ini.
+Penelitian lain yang dilakukan oleh Kartika (2009) menyebutkan bahwa kecelakaan yang
+disebabkan oleh pengendara mengantuk dikarenakan pengendara tidak merasa bahwa
+dirinya mengantuk, sehingga mereka memaksakan dirinya untuk tetap mengendarai motor.
+Mengantuk juga disebabkan karena pengendara terlalu banyak menghirup gas karbon hasil
+pembakaran kendaraan lain sehingga hal ini memengaruhi daya kerja otak dan menimbulkan
+efek mengantuk (Raymond, 2008). Penelitian yang telah dilakukan oleh Siswanto (2003)
+dan Suraji (2005) tentang karakteristik kecelakaan sepeda motor yang dilakukan di Kota
+Malang didapatkan bahwa kendaraan yang sering mengalami kecelakaan adalah sepeda
+motor. Kurangnya antisipasi pengemudi serta ketrampilan berkendara yang bervariasi
+merupakan penyebab utama terjadinya kecelakaan. Kemudian penelitian yang dilakukan
+oleh Hendtlass tahun 2004 menunjukkan bahwa salah satu cara untuk menurunkan angka
+kecelakaan yaitu dengan menyalakan lampu utama pada sepeda motor di siang hari.
+Untuk pengaruh curah hujan terhadap kecelakaan lalu lintas di Indonesia belum pernah
+dilakukan, maka dari itu perlu dilakukan penelitian mengenai sebearapa besar pengaruh
+curah hujan terhadap kecelakaan lalu lintas agar dapat mengetahui upaya pencegahan yang
+sesuai sehingga dapat menekan jumlah korban jiwa yang akibat oleh kecelakaan lalu lintas.
+Hal ini sesuai dengan penelitian Andrey dan Yagar (1993) menemukan bahwa curah hujan
+meningkatkan frekuensi kecelakaan di tiga kota Kanada dan Satterhwaite (1976)
+menemukan bahwa hujan lebat menggandakan risiko kecelakaan di California. Curah hujan
+menyebabkan dampak operasional seperti kinerja kendaraan (misalnya traksi),
+kemampuan/perilaku pengemudi, strategi penanganan jalan, pengaturan waktu sinyal lalu
+lintas, pengendalian batas kecepatan, pendukung keputusan evakuasi, dan koordinasi
+kelembagaan ((FHWA), 2014).
+Chi-square disebut juga dengan Kai Kuadrat. Uji Chi-square adalah salah satu jenis uji
+komparatif non parametris yang dilakukan pada dua variabel, di mana skala data kedua
+variabel adalah nominal (Sutrisno, 2000). Jika dari 2 variabel salah satunya skala nominal,
+maka dilakukan uji Chi-square dengan acuan uji pada derajat yang terendah. Uji Chisquare
+merupakan uji non parametris yang sering digunakan. Dalam hal ini dilakukannya uji square
+untuk mengetahui hubungan pernah tidak seseorang mengalami kecelakaan dengan tingkat
+kecelakaan di Kota Salatiga.
+Regresi merupakan pengukur hubungan antara dua variabel atau lebih yang dinyatakan
+dalam bentuk hubungan atau fungsi. Dalam regresi harus ada ketergantungan antara variabel
+satu dengan variabel lainnya. Kedua variabel dalam regresi bermakna kausal atau saling
+berpengaruh (Kurniawan, 2016).
+Persamaan regresi dirumuskan dengan: (Riduwa,2011)
+137
+
+Iswahyudi, et al.
+
+Y = a + bX
+Di mana:
+Y : subjek variabel terikat yang diproyeksikan ; X : Variabel bebas yang mempunyai nilai
+tertentu untuk diprediksikan ; a : Nilai konstanta harga Y jika X = 0 ; b : Nilai arah sebagai
+penentu ramalan (prediksi) yang menunjukkan nilai peningktan (+) atau nilai penurunan (-)
+variabel Y
+b = (n.∑XY- ∑X .∑Y)/(n.∑X^2-(∑X)^2 )
+
+a = (∑Y- b.∑X )/n
+
+Tujuan yang ingin dicapai dari penelitian ini adalah mengetahui seberapa besar pengaruh
+curah hujan terhadap tingkat kecelakaan lalu lintas serta beberapa upaya mengatasi
+kecelakaan lalu lintas akibat curah hujan sehingga jumlah korban jiwa ataupun kerugian
+harta benda dapat diminimalisir.
+
+METODE PENELITIAN
+Metode penelitian yang digunakan yaitu dengan pendekatan yuridis empiris dengan
+menggunakan data primer dan data sekunder, kemudian di analisis secara kualitatif
+deskriptif. Pendekatan yuridis empiris dalam penelitian ini bermaksud menganalisis
+permasalahan dengan menggabungkan bahan-bahan hukum (data sekunder) dengan data
+primer di lapangan. Sedangkan analisis secara deskriptif kualitatif merupakan sebuah
+metode penelitian yang memanfaatkan data kualitatif berupa hasil kuesioner atau
+pengamatan dan dijabarkan secara deskriptif. Sampel yang kita dapatkan dipilih secara acak
+agar data yang didapat benar adanya sesuai dengan kondisi sebenarnya. Untuk data primer
+sendiri, penelitian yang dilakukan dengan menyebarkan kuesioner dikarenakan pandemi
+Covid-19. Kemudian, studi literatur serta pengumpulan data sekuder yang mendukung
+penelitian.
+
+HASIL DAN PEMBAHASAN
+Dalam penelitian ini, kami mengambil data sekunder berupa data kecelakaan lalu lintas serta
+data curah hujan salah satu contoh kota yang akan dijadikan sebagai bahan analisis data
+dalam menentukan seberapa besar pengaruh hujan terhadap kecelakaan lalu lintas yang
+terjadi di Kota Salatiga.
+Untuk jumlah sampel responden yang kita ambil sebanyak 85 orang dengan kategori yang
+berbeda-beda. Orang yang didominasi oleh anak SMA, mahasiswa serta warga sipil secara
+acak khususnya yang berdomisili Salatiga dan sekitarnya. Untuk rentang usia para responden
+bervariasi mulai dari usia 18 tahun sampai 45 tahun dan sebagian besar bermobilitas
+menggunakan sepeda motor serta pernah mengalami kecelakaan.
+Berikut data-data hasil survei mengenai pengaruh curah hujan terhadap kecelakaan lalu
+lintas.
+
+138
+
+Iswahyudi, et al.
+
+Gambar 1. Kendaraan yang Sering Mengalami Kecelakaan
+
+Gambar 2. Pernah atau Tidaknya Responden Mengalami Kecelakaan
+
+Tabel 1. Penyebab Kecelakaan
+Penyebab
+Jumlah
+kecelakaan
+Jalan yang licin
+
+49
+
+Pandangan tidak jelas
+
+29
+
+Panas menyengat
+
+10
+
+Tidak terganggu
+
+1
+
+Semuanya
+
+1
+
+Dari diagram di atas, menurut beberapa responden kuesioner kita dengan persentase sebesar
+93,3 % menjawab kendaraan yang sering mengalami kecelakaan adalah sepeda motor.
+H0: Tidak ada hubungan antara pernah atau tidak pernah terjadinya kecelakaan dengan
+penyebab kecelakaan di Salatiga
+H1: Ada hubungan antara pernah atau tidak pernah terjadinya kecelakaan dengan penyebab
+kecelakaan di Salatiga
+α = 5%
+Tabel 2. Tabel Chi-Square Tests
+
+139
+
+Iswahyudi, et al.
+
+Value
+
+df
+
+Asymptotic
+Significance
+(2-sided)
+
+Pearson Chi-Square
+
+90.000a
+
+4
+
+.000
+
+Likelihood Ratio
+
+10.988
+
+4
+
+.027
+
+Linear-by-Linear Association
+
+8.602
+
+1
+
+.003
+
+N of Valid Cases
+
+90
+
+Keputusan: karena p-value ketiga statistic uji < α (5%), maka tolak H0
+Kesimpulan pengujian: Dengan taraf kepercayaan 95%, cukup bukti bahwa terdapat
+hubungan antara pernah atau tidaknya kecelakaan dengan penyebab kecelakaan lalu lintas.
+Berikut data curah hujan dan frekuensi tahun 2017 sampai 2020 di Kota Salatiga.
+
+Bulan
+Januari
+Februari
+Maret
+April
+Mei
+Juni
+Juli
+Agustus
+September
+Oktober
+November
+Desember
+
+Bulan
+Januari
+Februari
+Maret
+April
+Mei
+Juni
+Juli
+Agustus
+September
+Oktober
+November
+Desember
+
+Tabel 3. Curah Hujan Tahun 2017 dan 2018
+Tahun 2017
+Tahun 2018
+Curah
+Tingkat
+Bulan
+Curah
+Tingkat
+Hujan
+Kecelakaan
+Hujan
+Kecelakaan
+42.33
+29.00
+18.17
+21.36
+18.83
+8.00
+8.50
+35.50
+7.82
+22.00
+24.67
+
+5
+7
+7
+5
+9
+9
+6
+5
+16
+4
+4
+5
+
+Januari
+Februari
+Maret
+April
+Mei
+Juni
+Juli
+Agustus
+September
+Oktober
+November
+Desember
+
+20.77
+15.53
+16.00
+13.46
+7.57
+10.50
+6.00
+13.00
+24.10
+22.13
+
+8
+7
+6
+5
+6
+6
+11
+9
+7
+12
+12
+24
+
+Tabel 4. Curah Hujan Tahun 2019 dan 2020
+Tahun 2019
+Tahun 2020
+Curah
+Tingkat
+Bulan
+Curah
+Tingkat
+Hujan
+Kecelakaan
+Hujan
+Kecelakaan
+20.29
+19.86
+23.69
+36.70
+34.30
+49.00
+14.11
+18.69
+
+26
+21
+16
+23
+35
+25
+17
+32
+23
+25
+29
+24
+
+Januari
+Februari
+Maret
+April
+Mei
+Juni
+Juli
+Agustus
+September
+Oktober
+November
+Desember
+
+24.44
+26.37
+33.50
+29.54
+24.18
+27.00
+24.00
+26.00
+10.50
+20.00
+13.92
+25.44
+
+23
+17
+15
+12
+14
+18
+14
+21
+25
+23
+23
+17
+
+Sumber: (Badan Pusat Statistik Salatiga, Rata-rata Curah Hujan 2017-2020)
+Catatan: Bulan yang tidak ada curah hujannya tidak diikutkan dalam pengujian hipotesis
+140
+
+Iswahyudi, et al.
+
+H0: Tidak ada hubungan antara curah hujan tingkat kecelakaan di Salatiga
+H1: Ada hubungan antara curah hujan dan tingkat kecelakaan di Salatiga
+α = 5%
+Regression Analysis: Kecelakaan Versus Curah Hujan
+Regression Equation
+Kecelakaan = 8.44 + 0.276 Curah Hujan
+
+Source
+Regression
+Curah Hujan
+Error
+Lack-of-Fit
+Pure Error
+Total
+
+Tabel 5. Analysis of Variance
+DF Adj SS Adj MS F-Value P-Value
+1
+1
+39
+38
+1
+40
+
+285.8
+285.8
+2498.1
+2317.6
+180.5
+2784.0
+
+285.85
+285.85
+64.05
+60.99
+180.50
+
+4.46
+4.46
+
+0.041
+0.041
+
+0.34
+
+0.906
+
+Keputusan: karena p-value curah hujan (0,041) < α (5%), maka tolak H0
+Kesimpulan pengujian: Dengan taraf kepercayaan 95%, cukup bukti bahwa curah hujan
+mempengaruhi kecelakaan lalu lintas sebesar 27,6%.
+Koefisien b pada persamaan regresi menunjukkan seberapa besar pengaruh atau kontribusi
+variable prediktor terhadap variable respon. Dalam kasus ini curah hujan sebagai variable
+prediktor dan kecelakaan sebagai variable respon. Pada persamaan regresi nilai a sebesar
+8,44 artinya jika curah hujan = 0 maka kecelakaan yang terjadi sebesar 8,44. Sedangkan nilai
+b (koefisien regresi) sebesar 0,276, artinya curah hujan berkontribusi sebesar 27,6% terhadap
+kecelakaan lalu lintas di Kota Salatiga
+Dalam hal ini perubahan musim sulit untuk diprediksi, sehingga banyak kecelakaan lalu
+lintas yang sering terjadi terutama pada musim hujan. Kendaraan yang sering menimbulkan
+kecelakaan lalu lintas adalah sepeda motor. Berdasarkan gambar 1 setelah dilakukan
+pengambilan kuisioner secara acak kecelakaan lalu lintas yang sering terjadi yang
+disebabkan oleh curah hujan yaitu sepeda motor. Penyebab terjadinya kecelakaan di musim
+hujan karena faktor kondisi jalannya seperti jalan licin seperti pada table 1 yang diakibatkan
+adanya genangan hujan, faktor dari kendaraannya seperti selip ban atau pecah ban ketika
+berkendara ataupun dari faktor manusianya sendiri seperti kurang fokus atau kurang sehat
+dalam berkendara. Pengemudi perlu sedikit mengurangi kecepatan saat hujan ringan dan
+lebih signifikan saat hujan deras karena hilangnya jarak pandang yang disebabkan oleh
+intensitas hujan (Terrance L. Jackson, 2016). Dalam hal ini perlu dilakukan upaya
+pencegahan antara lain mengecek kendaraan dan kesehatan pengendara sebelum melakukan
+perjalanan, serta menggunakan alat pelindung diri berupa jas hujan dengan rekomendasi
+mengurangi kecepatan, menyalakan hazard, atau melewati jalur lain.
+
+141
+
+Iswahyudi, et al.
+
+KESIMPULAN
+Dari hasil analisis survei yang dilakukan bahwa kecelakaan lalu lintas yang disebabkan oleh
+musim hujan terjadi karena faktor kondisi jalan seperti jalan licin karena adanya genangan
+hujan, faktor dari kendaraannya seperti selip ban atau pecah ban ketika berkendara ataupun
+dari faktor manusianya sendiri seperti kurang fokus atau kurang sehat dalam berkendara
+serta hilangnya jarak pandang akibat intensitas hujan. Analisis data untuk pengaruh curah
+hujan terhadap kecelakaan lalu lintas sebesar 27,6%. Artinya Kecelakaan lalu lintas di Kota
+Salatiga akibat pengaruh curah hujan sebesar 27,6% dengan catatan bulan yang tidak ada
+curah hujannya tidak diikutkan dalam pengujian hipotesis serta data musim kemarau tidak
+diikutkan dalam perhitungan. Beberapa rekomendasi upaya pencegahan dengan cara
+mengecek kendaraan dan kesehatan pengendara sebelum melakukan perjalanan, serta
+menggunakan alat pelindung diri berupa jas hujan dengan rekomendasi mengurangi
+kecepatan, menyalakan hazard, atau melewati jalur lain.
+
+DAFTAR PUSTAKA
+Andrey J, Yagar S. 1993. Analisis temporal risiko kecelakaan terkait hujan. Anal Asam
+Sebelumnya. 25:465 472.
+Badan Pusat Statistik. (2019). Rata-rata Curah Hujan 2017-2019.Badan Pusat Statistik Kota
+Salatiga.
+Diakses
+6
+Juli
+2021
+melalui
+https://salatigakota.bps.go.id/indicator/151/106/1/rata-rata-curah-hujan.html.
+[FHWA] Administrasi Jalan Raya Federal. 2014. Program manajemen cuaca jalan:
+bagaimana apakah peristiwa cuaca memengaruhi jalan? [dikutip 11 Juli 2021]. http://
+www.ops. fhwa.dot.gov/weather/q1_roadimpact.htm
+Jackson, T. L., & Sharifah, H. o. (2016). Rainfall impacts on traffic safety: rain-related fatal
+crashes in Texas. Geomatics, Natural Hazards and Risk, 7(2), 834-860.
+https://doi.org/10.1080/19475705.2014.984246.
+Kartika, M. 2009. Kecelakaan Lalu Lintas Pada Pengendara Sepeda Motor Di Wilayah
+Depok Tahun 2008. Fakultas Kesehatan Masyarakat. Universitas Indonesia, Jakarta.
+Diakses melalui www.digilib.ui.ac.id tanggal 1 Maret 2013..
+Kurniawan, R dan Yuniarto, B.2016. Analisis Regresi : Dasar dan Penerapannya Dengan R.
+Jakarta : KENCANA.
+Media Indonesia. (2020, 11 Agustus). Kecelakaan Lalu Lintas Tunjukkan Tren Kenaikan.
+Media
+Indonesia.
+Diakses
+pada
+6
+Juli
+2021
+melalui
+https://mediaindonesia.com/megapolitan/335863/kecelakaan-lalu-lintas-tunjukkantren-kenaikan
+Negara, Igo Cahya dan Agung Prabowo, 2018. Penggunaan Uji Chi-Square Untuk
+Mengetahui Pengaruh Tingkat Pendidikan Dan Umur Terhadap Pengetahuan Penasun
+Mengenai HIV-AIDS Di Provinsi DKI Jakarta. Purwokerto : FMIPA Unsoed
+Octari, G.R., Suhaedi, D. dan Noersomadi. 2015. Model Estimasi Curah Hujan Berdasarkan
+Suhu Puncak Awan Menggunakan Inversi Nonlinear. Prosiding Penelitian SPeSIA.
+Diakses
+pada
+11
+Juli
+2021
+melalui
+http://karyailmiah.unisba.ac.id/index.php/matematika/article/download/667/pdf.
+Polres Salatiga. (2018). Banyaknya Kecelakaan Lalu Lintas di Wilayah Hukum Polres
+Salatiga.
+Dataku.
+Diakses
+6
+Juli
+2021
+melalui
+https://dataku.salatiga.go.id/dss/dss_6_22.
+
+142
+
+Iswahyudi, et al.
+
+Pradana, A., Setijowarno, D., & Hapsari, E. (2013). Pengembangan Transportasi Kota
+Salatiga.
+Piblikasiilmiah.Ums.Ac.Id,
+191200.https://publikasiilmiah.ums.ac.id/bitstream/handle/11617/11539/t191.pdf?sequen
+ce=1.
+Raymond, A. 2008. Gambaran Faktor-Faktor Penyebab Kecelakaan Kendaraan Bermotor Di
+Wilayah Jakarta Timur Bulan Januari-Maret Tahun 2008.
+Riduwan dan Sunarto. 2011. Pengantar Statistika Untuk Penelitian: Pendidikan, Sosial,
+Komunikasi, Ekonomi, dan Bisnis. Bandung: ALFABETA.
+Setyowati, D. L., Firdaus, A. R., & Rohmah, N. (2018). Factor Cause of Road Accidents at
+Senior High School Students in Samarinda. The Indonesian Journal of Occupational
+Safety and Healty, 7(March), 329-338. https://doi.org/10/20473/ijosh.v7i3.2018.329.
+Suraji, A. dan Siswanto. 2003. Analysis of motorcycle accident in urban area, Proceeding of
+International Conference on Civil Engineering, Brawijaya University Malang.
+Indonesia.
+Tukidi. (2010). Karakter Curah Hujan Di Indonesia. Jurnal Geografi, 7(2), 136145.https://doi.org/10.15294/jg.v7i2.84.
+Undang-Undang Republik Indonesia. (2009). Undang-Undang Republik Indonesia No. 22
+Tahun 2009 Tentang Lalu Lintas dan Angkutan Jalan. Undang-Undang Republik
+Indonesia,
+2003.
+https://dx.doi.org/10.1016/B978-0-12-849873-6.000017%0Ahttp://saber.uvc.ve/ojs/index.php/rev_venes/article/view/1112%0Ahttps://www
+.bps.go.id/dynamictable/2018/05/18/1337/persentase-panjang-jalan-tol-yangberoperasi-menurut-operatornya-2014.html.
+Umi, E dan Sa’diyah, N.K. 2017.
+Kajian Terhadap Faktor-Faktor Penyebab Kecelakaan
+Lalu Lintas Dalam Upaya Perbaikan Pencegahan Kecelakaan Lalu Lintas. Perspektif.
+Volume 22 (3), hal 238 – 247.
+
+143
+
+

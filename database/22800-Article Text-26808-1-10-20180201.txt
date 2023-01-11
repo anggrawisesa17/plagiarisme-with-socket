@@ -1,0 +1,769 @@
+Jurnal Ilmu Manajemen Volume 6 Nomor 1 – Jurusan Manajemen Fakultas Ekonomi Universitas Negeri Surabaya
+
+2018
+
+PENGARUH PERPUTARAN MODAL KERJA, UKURAN PERUSAHAAN, LEVERAGE
+DAN LIKUIDITAS TERHADAP PROFITABILITAS PERUSAHAAN ANIMAL FEED DI
+BEI PERIODE 2012-2015
+Debby Ayu Puspita
+Universitas Negeri Surabaya
+deayu2805@gmail.com
+
+Ulil Hartono
+Universitas Negeri Surabaya
+ulilhartono@unesa.ac.id
+
+Abstract
+Manufacturing companies profitability in Indonesia were affected by financial factors which can be measured from
+financial ratio. The aim of this study is to analyze whether variables such as working capital turnover, firm size,
+leverage and liquidity have an influence on corporate profitability as measured by using ROA. Population in this
+study is Animal Feed companies which listed in IDX to quarterly period of 2012-2015, that are 4 companies. Sample
+was taken using saturated sampling method, because amount sample under 30 or for research that wants to make
+generalizations with low error rate. Data analysis techniques in this study using the classical assumption test,
+multiple linear regression analysis and hypothesis testing. The data obtained will then be calculated using SPSS.
+The results showed that there are 2 variables that Working Capital Turnover and Liquidity have a significant
+positive influence on profitability. Conversely variable Firm Size has a significant negative influence on
+profitability. As for the leverage variable has no significant effect on profitability. These results show that only
+variable of Working Capital Turnover and Liquidity are high influence in the achievement of profit at Animal Feed
+company which listed in IDX to quarterly period of 2012-2015.
+Keyword: Working Capital Turnover, Firm Size, Leverage, Liquidity, Profitability
+
+Sedangkan perusahaan manufaktur yang mengalami
+kenaikan nilai EPS yaitu perusahaan chemicals dan wood
+industries. Penurunan yang sangat drastis terjadi pada tahun
+2014 dari perusahaan manufaktur animal feed dari hasil EPS
+tahun sebelumnya. Penurunan juga terjadi pada perusahaan
+cement hanya sedikit dari hasil EPS sebelumnya. Sedangkan
+perusahaan manufaktur yang mengalami glass,cement,
+porcelain, ceramics, metal and allied products, animal feed,
+plastics & packaging, pulp & paper. Sedangkan perusahaan
+chemicals menunjukkan nilai EPS antara tahun 2013 dan
+2014 mengalami kestabilan.
+
+PENDAHULUAN
+Perusahaan
+manufaktur
+ialah
+perusahaan
+yang
+mengkonvensi dari bahan mentah menjadi bahan jadi
+kemudian dijual yang bertujuan agar mendapat profit yang
+tinggi (Kapoor, 2014: 322). Perusahaan yang go public
+bertujuan untuk meningkatkan kemakmuran pemegang
+saham atau pemilik melalui peningkatan nilai organisasi atau
+perusahaan. Pengukuran tingkat efektifitas manajemen dapat
+dilihat pada profit yang didapatkan dari pendapatan investasi
+dan penjualan, hal tersebut bisa dilakukan dengan cara
+memperhatikan seberapa besar keuntungan yang dimiliki
+(Weston dan Brigham, 1999: 64). Syafri (1999 : 304)
+mengemukakan bahwa profitabilitas sebuah perusahaan ialah
+bagaimana perusahaan memperoleh keuntungan melalui
+sumber yang tersedia contoh: kas, kegiatan penjualan,
+jumlah pegawai, modal dan sebagainya.
+
+Penurunan yang sangat drastis terjadi pada tahun 2015
+terjadi pada perusahaan manufaktur metal and allied
+products. Penurunan juga terjadi pada perusahaan
+manufaktur animal feed dan wood industries hingga
+mencapai nilai negatif. Sehingga dapat disimpulkan bahwa
+nilai EPS dari semua perusahaan manufaktur mengalami
+fluktuasi, kecuali pada perusahaan manufaktur animal feed
+yang menunjukkan nilai EPS dari tahun 2012 hingga tahun
+2015 mengalami penurunan yang drastis.
+
+Berdasarkan tahun 2012 nilai EPS dari perusahaan cement
+memiliki nilai tertinggi dan perusahaan chemicals memiliki
+nilai terendah. Selanjutnya pada tahun 2013 sektor yang
+mengalami penurunan adalah perusahaan manufaktur
+glass,cement, porcelain, ceramics, metal and allied products,
+animal feed, plastics and packaging, pulp and paper.
+
+Pada penelitian Azlina (2009) dan Raheeman, dkk (2010)
+perputaran modal kerja memiliki pengaruh positif terhadap
+
+1
+
+Debby Ayu Puspita, Pengaruh Perputaran Modal Kerja, Ukuran Perusahaan, Leverage dan Likuiditas terhadap Profitabilitas
+Perusahaan Animal Feed di BEI Periode 2012-2015
+
+profitabilitas, oleh sebab itu apabila penjualan meningkat
+akan diikuti dengan meningkatnya perputaran modal kerja.
+
+perusahaan terhadap technology, intellectual property dan
+asset. Untuk menjelaskan pengaruh leverage dan likuiditas
+terhadap profitabilitas perusahaan juga menggunakan teori
+critical resources. Oleh sebab itu, teori critical resources
+mengindikasikan bahwa semakin tinggi skala perusahaan
+maka profitabilitas juga akan meningkat dan sebaliknya.
+Sedangkan untuk variabel leverage mengenai pengendalian
+oleh pemilik perusahaan terhadap hutang perusahaan dengan
+profitabilitas dipengaruhi oleh biaya kewajiban hutang
+Sebaliknya teori critical resource yang berhubungan dengan
+likuiditas adalah jika jumlah aset lancar cukup melampaui
+tingginya hutang lancar, maka perusahaan dapat memenuhi
+kewajiban hutang dan profitabilitas akan meningkat.
+
+Menurut penelitian Azlina (2009) ukuran perusahaan
+berpengaruh negatif terhadap profitabilitas, dengan naiknya
+total aset perusahaan tidak semua perusahaan sanggup
+mengoptimalkan profitabilitas, oleh karena itu tingkat
+profitabilitas perusahaan menurun. Penelitian oleh Sari dan
+Noor (2016) mengemukakan bahwa leverage tidak dapat
+mempengaruhi profitabilitas perusahaan. Karena perusahaan
+yang memiliki hutang tinggi namun tidak mampu
+dimanfaatkan untuk aktivitas operasional maka peluang
+perusahaan dalam menghasilkan laba akan rendah dn hutang
+tersebut akan menjadi beban bagi perusahaan karena harus
+menanggung bunga dan pokok pinjaman.
+
+Profitabilitas
+
+Berdasarkan penelitian Saleem, dkk (2011) dan Wibowo
+(2012) menunjukkan bahwa likuiditas berpengaruh positif
+terhadap profitabilitas perusahaan. Karena apabila
+perusahaan menggunakan likuiditas sebagai modal kerja
+dalam mengantisipasi pembayaran hutang harus segera
+dibayarkan.
+
+Profitabilitas ialah kemampuan perusahaan untuk
+menghasilkan keuntungan selama periode tertentu (Riyanto,
+2001). Rasio profitabilitas ialah rasio yang menunjukkan
+pengaruh gabungan dari likuiditas, pengelolaan hutang dan
+pengelolaan aset terhadap hasil operasional perusahaan
+(Weston dan Brigham, 1999). Dalam penelitian ini
+menggunakan alat ukur ROA karena suatu perusahaan
+mampu menghasilkan aset dan profit dengan cara
+membandingkan laba bersih setelah pajak terhadap total aset
+perusahaan
+
+Berdasarkan fenomena yang ada, maka peneliti ingin
+meneliti tentang “Pengaruh Perputaran Modal Kerja,
+Ukuran Perusahaan, Leverage, dan Likuiditas Terhadap
+Profitabilitas Perusahaan Animal Feed di BEI Kuartal
+Periode 2012-2015”. Penelitian ini bertujuan untuk
+mengetahui seberapa tinggi pengaruh dari masing-masing
+variabel terhadap profitabilitas perusahaan. Maka dari itu,
+perusahaan dapat mengambil kebijkan terbaik demi
+kelangsungan hidup perusahaan.
+
+KAJIAN PUSTAKA
+HIPOTESIS
+
+DAN
+
+Perputaran Modal Kerja
+Kas yang diinvestasikan sebagai modal kerja hingga kembali
+menjadi kas biasa digunakan rasio perputaran modal kerja.
+Tingginya tingkat perputaran dilihat dari semakin pendek
+periode tersebut. Berapa lama periode perputaran modal
+kerja tergantung dari masing-masing komponen modal kerja
+tersebut (Riyanto, 1995). Menurut Munawir (2002)
+keefektifan modal kerja dinilai dengan menggukan rasio
+antara total penjualan dengan jumlah modal kerja rata-rata
+yang diperoleh perusahaan (dalam jumlah rupiah).
+
+PENGEMBANGAN
+
+Teori Keagenan
+Agency theory ialah hubungan kontrak antara principal dan
+agent sebagai pelaku utama (Jensen dan Meckling, 1976 :
+305). Dalam membuat keputusan, prinsipal menyewa
+individu atau organisasi lain sebagai agen (Brigham dan
+Houston, 2006:26). Masalah keagenan yang dihadapi
+investor mengacu pada kesulitan investor untuk memastikan
+dananya agar tidak disalahgunakan untuk mendanai kegiatan
+yang tidak menguntungkan.
+
+Ukuran Perusahaan
+Salah satu faktor yang menentukan kemampuan perusahaan
+untuk menghasilkan keuntungan disebut ukuran perusahaan
+yang biasa digunakan sebagai alat ukur rasio keuangan. Agar
+perusahaan dapat menghasilkan produk dengan tingkat biaya
+rendah maka perlu memperhatikan firm size perusahaan itu
+tinggi. Karena tingkat biaya yang rendah merupakan unsur
+untuk mencapai laba yang diharapkan sesuai dengan standar
+yang telah ditetapkan.
+
+Teori Critical Resource
+Rajan dan Zingales (2001) menjelaskan beberapa faktor yang
+ditentukan ukuran perusahaan dengan pengendalian pemilik
+
+2
+
+Jurnal Ilmu Manajemen Volume 6 Nomor 1 – Jurusan Manajemen Fakultas Ekonomi Universitas Negeri Surabaya
+
+2018
+
+H2 :Ukuran perusahaan berpengaruh positif terhadap
+profitabilitas pada sub manufaktur perusahaan animal
+feed di BEI periode 2012-2015
+
+Leverage
+Leverage adalah n perimbangan antara total hutang dengan
+modal sendiri suatu perusahaan yang menunjukkan
+kemampuan perusahaan dalam menggunakan utang untuk
+membiayai investasi. Rasio leverage ialah rasio untuk
+mengukur sampai seberapa jauh aset perusahaan dibiayai
+dengan hutang (Riyanto, 2001). Sesuai dengan teori critical
+resource yang menyatakan semakin tinggi rasio ini maka
+semakin tinggi biaya yang harus ditanggung perusahaan
+untuk memenuhi kewajiban yang dimilikinya, dengan tujuan
+dapat menurunkan profitabilitas perusahaan.
+
+Pengaruh Leverage terhadap Profitabilitas
+Suatu perusahaan yang terlalu tinggi melakukan pendanaan
+aset dari hutang dapat menyebabkan semakin tinggi debt to
+total asset yang berarti semakin tinggi resiko keuangannya.
+Semakin tinggi biaya yang harus dikeluarkan akan
+menyebabkan adanya risiko gagal bayar (Van Horne, 2009:
+202). Berdasarkan dari teori critical resource menyatakan
+bahwa leverage menekankan pendanaan hutang bagi
+perusahaan dengan menunjukkan persentase aset perusahaan.
+
+Likuiditas
+Menurut Munawir (2002) menjelaskan suatu perusahaan
+dengan current ratio 200% terkadang sudah memuaskan,
+tetapi jumlah modal kerja dan tingginya rasio tergantung
+pada beberapa faktor yang tidak dapat ditentukan seluruh
+perusahaan. Jangka pendek tingkat keamanan atau
+kemampuan untuk membayar hutang ditunjukkan oleh
+Current ratio Dasar perbandingan itu ditunjukkan dengan
+jumlah aset lancar cukup yang melampaui tingginya
+kewajiban lancar, sehingga saat dilakukan likuiditas dari aset
+lancar maka dapat dikonversikan menjadi uang kas untuk
+memenuhi kewajibannya.
+
+H3 :Leverage berpengaruh negatif terhadap profitabilitas
+pada perusahaan animal feed di BEI periode 2012-2015
+Pengaruh Likuiditas terhadap Profitabilitas
+Likuiditas menunjukkan aktivitas operasional perusahaan
+membutuhkan tingkat ketersediaan modal kerja. Semakin
+tinggi likuiditas semakin rendah profitabilitas dan
+sebaliknya. Rasio lancar menunjukkan kemampuan
+perusahaan untuk membayar kewajiban jangka pendeknya
+(Horne dan Wachowicz, 2009). Berdasarkan dari critical
+resource yang menyatakan bahwa perusahaan yang memiliki
+rasio lancar yang semakin tinggi, maka perusahaan
+mempunyai kemampuan untuk memenuhi kewajiban jangka
+pendeknya. Pada umumnya suatu current ratio yang rendah
+lebih banyak beresiko daripada current ratio yang tinggi, hal
+tersebut menunjukkan pimpinan perusahaan menggunakan
+aset lancar dengan efektif bila perputaran piutang dari
+persediaan ditingkatkan sampai pada tingkat maksimum.
+Total kas yang diperlukan sesuai dari jumlah uang yang
+diperlukan untuk membayar hutang lancar, biaya lain-lain,
+dan pengeluaran darurat.
+
+Pengaruh Perputaran Modal Kerja (WCT) terhadap
+Profitabilitas
+Berdasarkan agency theory ialah suatu hubungan yang
+terjadi antara principal dan agent sebagai pelaku utama
+(Jensen & Meckling, 1976). Efisiensi modal kerja dapat
+dilihat dari perputaran persediaan, perputaran modal kerja,
+dan perputaran piutang. Semakin pendek periode perputaran
+modal kerja makin cepat perputarannya, sehingga
+perusahaan dapat meningkatkan profitabilitas.
+H1 :Perputaran modal kerja berpengaruh positif terhadap
+profitabilitas pada perusahaan animal feed di BEI
+periode 2012-2015
+
+H4 :Current ratio berpengaruh positif terhadap profitabilitas
+pada perusahaan animal feed di BEI periode 2012-2015
+
+METODE PENELITIAN
+Pengaruh Ukuran Perusahaan terhadap Profitabilitas
+Jenis data penelitian menurut Wijaya (2012: 20) berdasarkan
+tipenya dibedakan menjadi dua yaitu data kualitatif dan
+kuantitatif. Penelitian ini menggunakan data kuantitatif
+karena menggunakan data yang berbentuk angka.
+
+Penekankan pengendalian pemilik perusahaan terhadap
+sumber daya perusahaan seperti aset, kekayaan intelektual
+dan teknologi sebagai faktor-faktor yang menentukan ukuran
+perusahaan telah dijelaskan dalam teori critical resource
+agar dapat melakukan investasi aset lancar atau aset tetap
+dan juga memenuhi permintaan produk guna memperluas
+pangsa pasar.
+
+Sugiyono (2012: 80) mendefinisikan populasi terdiri atas
+obyek atau subyek yang memiliki kualitas dan karakteristik
+tertentu yang ditetapkan oleh peneliti untuk dijadikan
+
+3
+
+Debby Ayu Puspita, Pengaruh Perputaran Modal Kerja, Ukuran Perusahaan, Leverage dan Likuiditas terhadap Profitabilitas
+Perusahaan Animal Feed di BEI Periode 2012-2015
+
+referensi. Perusahaan Animal Feed yang listing di BEI
+berjumlah 4 perusahaan akan dijadikan sebagai populasi
+penelitian.
+
+menangkap sinyal positif dengan mempertimbangkan
+kestabilan nilai aset dibandingkan penjualan dan nilai
+kapitalisasi pasar hal tersebut dapat dimanfaatkan
+perusahaan untuk meningkatkan profitabilitas. Mengenai
+ukuran suatu perusahaan, maka penelitian ini menggunakan
+rumus natural log (in) dari total aset sebagai alat ukur
+variabel ukuran perusahaan (Harianto dan Sudomo, 1998 :
+317).
+
+Sugiyono (2013:240) salah satu teknik pengumpulan data
+adalah dokumentasi, kumpulan dokumen yang dihasilkan
+dimulai dari pengumpulan hingga pengelolaan data.
+Teknik yang digunakan dalam pengambilan sampel
+menggunakan metode sampling jenuh. Teknik penentuan
+sampel jika populasi yang digunakan semua anggota disebut
+Sampling jenuh (Sugiyono, 2011:68). Hal tersebut biasa
+digunakan untuk penelitian dengan jumlah sampel dibawah
+30 atau agar tingkat kesalahan rendah.
+
+Firm Size = LN (Total Aset)
+Leverage
+Leverage adalah rasio yang menggambarkan kemampuan
+perusahaan menggunakan dananya untuk meningkatkan
+pengembalian aset. Variabel leverage dalam penelitian ini
+menggunakan indikator rasio debt to Asset ratio (DAR)
+karena DAR menunjukkan kemampuan perusahaan dalam
+mengembalikan hutang jangka panjangnya, dan apabila
+terjadi kerugian tidak merugikan kreditur.
+
+Teknik analisis menggunakan perhitungan variabel yang
+yang sesuai definisi operasional variabel, seperti uji asumsi
+klasik (normalitas, multikolinieritas, heterokedastisitas, dan
+autokorelasi), uji regresi linear berganda, dan uji hipotesis
+(uji parsial t).
+Profitabilitas
+
+DAR =
+
+Rasio profitabilitas dalam penelitian menggunakan ROA
+dinotasikan dengan Y karena merupakan rasio terpenting
+yang menunjukkan kemampuan perusahaan dalam
+menghasilkan profit dari aset.
+
+× 100%
+
+Likuiditas
+Rasio yang menunjukkan bagaimana suatu perusahaan itu
+mampu dalam memenuhi kewajiban jangka pendek yang
+harus segera dipenuhi perusahaan biasa disebut likuiditas.
+Dalam penelitian ini menggunakan Current Ratio sebagai
+indikator untuk menghitung rasio likuiditas terhadap
+profitabilitas
+yang
+diperoleh
+perusahaan
+karena
+memperhatikan bagaimana suatu perusahaan mampu dalam
+mengembalikan hutang jangka pendek, dengan asumsi
+bahwa aset lancar dikonversikan ke dalam kas (Hanafi,
+2009).
+
+ROA =
+Perputaran Modal Kerja
+Perputaran modal kerja yaitu banyaknya penjualan yang di
+dapat perusahaan (dalam jumlah rupiah) dijadikan salah satu
+rasio untuk menilai keefektifan modal kerja (Munawir,
+2002). Tingkat penjualan yang tinggi akan memberikan
+keuntungan yang lebih tinggi sehingga akan mempengaruhi
+profitabilitas perusahaan. Formulasi dari Working Capital
+Turnover (WCT) adalah sebagai berikut :
+
+Current Ratio=
+
+× 100%
+
+HASIL DAN PEMBAHASAN
+WCT =
+
+Hasil Uji Asumsi Klasik
+
+Ukuran Peruasahaan
+
+Normalitas
+
+Ukuran perusahaan adalah tingkat seberapa besar atau
+kecilnya perusahaan untuk mendapatkan keuntungan yang
+diperoleh berdasarkan total aset perusahaan. Pertumbuhan
+yang besar pada suatu perusahaan akan mempermudah
+memasuki pasar modal karena para investor dapat
+
+Hasil output SPSS uji statistik non-parametrik One-Sample
+Kolmogorov-Smirnov dengan jumlah N berjumlah 64
+menunjukkan bahwa tingginya signifikansi nilai residual
+yakni 0,193 lebih besar daripada 0,05. Hal tersebut dapat
+diartikan bahwa nilai residual berdistribusi normal.
+
+4
+
+Jurnal Ilmu Manajemen Volume 6 Nomor 1 – Jurusan Manajemen Fakultas Ekonomi Universitas Negeri Surabaya
+
+2018
+
+Dari hasil perhitungan tersebut, maka dapat diambil
+kesimpulan bahwa model persamaan regresi penelitian ini
+adalah sebagai berikut.
+
+Multikolineritas
+Dari hasil uji multikolinearitas dengan memperhatikan dari
+nilai tolerance dengan lawannya variance inflation factor
+(VIF) untuk mengetahui ada tidaknya multikolinieritas
+dalam model regresi. Jika nilai tolerance > 0,10 dan
+Variance Inflation Factor (VIF) < 10, maka dinyatakan tidak
+terjadi gejala multikolonieritas.
+
+ROA= 50,685+0,417WCT−16,511FS+2,150CR+e
+
+Hasil Uji Hipotesis
+Hasil Uji Statistik t
+
+Heteroskedastisitas
+Nilai signifikansi dari WCT menunjukkan nilai 0,001 < 0,05
+sehingga dapat ditarik kesimpulan bahwa WCT berpengaruh
+positif terhadap ROA. Koefisien regresi dari WCT
+menunjukkan hasil yang positif pula, hal ini menunjukkan
+pengaruh positif antara WCT dengan ROA. Jadi, dapat
+disimpulkan bahwa Ha diterima dan Ho ditolak.
+
+Dari hasil uji heterokedastisitas dengan menggunakan uji
+Glejser menunjukkan bahwa nilai signifikansi masingmasing variabel independen di atas tingkat kepercayaan 0,05
+atau 5%. Sehingga dapat disimpulkan bahwa tidak adanya
+gejala heteroskedastisitas. Tujuan Glejser menyatakan untuk
+meregresi nilai absolut residual terhadap variabel
+independen. Jika secara statistik tidak signifikan
+mempengaruhi variabel independen, maka tidak ada indikasi
+terjadi heteroskedastisitas (Ghozali, 2013: 138).
+
+Nilai signifikansi dari FS menunjukkan nilai 0,003 < 0,05
+sehingga dapat ditarik kesimpulan bahwa FS berpengaruh
+negatif terhadap ROA. Koefisien regresi dari FS
+menunjukkan hasil yang negatif, hal ini menunjukkan
+pengaruh negatif antara FS dengan ROA. Jadi, dapat diambil
+kesimpulan bahwa Ha ditolak dan Ho diterima.
+
+Autokorelasi
+Hasil dari Uji Run Test yang dilakukan menunjukkan bahwa
+nilai Asymp. Sig. (2-tailed) 0,001 < 0,05 maka dapat
+disimpulkan bahwa adanya gejala autokorelasi. Untuk
+mengatasi data yang terdapat gejala autokorelasi yaitu
+dengan cara mentransformasi data ke dalam bentuk nilai Ln.
+setelah penyembuhan menunjukkan nilai Asymp. Sig. (2tailed) 0,149 > 0,05 yang berarti Ho diterima maka dapat
+disimpulkan bahwa tidak terdapat gejala autokorelasi.
+
+Nilai signifikansi dari LEV menunjukkan nilai 0,371 > 0,05
+sehingga dapat diartikan bahwa LEV tidak berpengaruh
+terhadap ROA. Koefisien regresi dari LEV menunjukkan
+hasil yang negatif, hal ini menunjukkan LEV tidak
+dipengaruhi ROA. Jadi, dapat diartikan bahwa Ha ditolak
+dan Ho diterima.
+Nilai signifikansi dari CR menunjukkan nilai 0,000 < 0,05
+sehingga dapat disimpulkan bahwa CR berpengaruh positif
+terhadap ROA. Koefisien regresi dari CR menunjukkan hasil
+yang positif, hal ini menunjukkan pengaruh positif antara CR
+dengan ROA. Jadi, dapat disimpulkan bahwa Ho ditolak dan
+Ha diterima.
+
+Hasil Uji Regresi Linear Berganda
+Tabel 1. Hasil Uji Regresi Linear Berganda
+
+Model
+1 (Constant)
+Ln_WCT
+Ln_FS
+
+Unstandardized
+Coefficients
+Std.
+B
+Error
+
+Sig.
+
+50.685
+
+17.539
+
+.006
+
+.417
+
+.122
+
+.001
+
+-16.511
+
+5.237
+
+.003
+
+Ln_LEV
+
+-.264
+
+.292
+
+.371
+
+Ln_CR
+
+2.150
+
+.540
+
+.000
+
+Pengaruh
+Perputaran
+Profitabilitas Perusahaan
+
+Modal
+
+Kerja
+
+terhadap
+
+Hasil uji hipotesis menunjukkan bahwa variabel perputaran
+modal kerja berpengaruh positif terhadap profitabilitas pada
+perusahaan Animal Feed periode kuartal 2012-2015 yang
+listing di BEI. Berdasarkan hasil perputaran modal kerja dari
+PT. Charoen Pokphand Indonesia pada tahun 2012 sebesar
+2,77 dengan nilai profitabilitas 0,17. Sedangkan pada tahun
+2013 mengalami penurunan menjadi 2,62 dengan nilai
+profitabilitas 0,12. Selain itu, PT. JAPFA Comfeed Indonesia
+pada tahun 2012 hasil perputaran modal kerja 3,55 dengan
+nilai profitabilitas 0,07. Sedangkan pada tahun 2013
+
+Sumber : hasil output SPSS, diolah penulis
+
+5
+
+Debby Ayu Puspita, Pengaruh Perputaran Modal Kerja, Ukuran Perusahaan, Leverage dan Likuiditas terhadap Profitabilitas
+Perusahaan Animal Feed di BEI Periode 2012-2015
+
+mengalami penurunan menjadi 2,87 dengan nilai
+profitabilitas 0,04. Data penelitian ini juga di dukung oleh
+PT. Malindo Feedmill pada tahun 2013 nilai perputaran
+modal kerja 110,1 dengan nilai profitabilitas 0,09.
+Sedangkan pada tahun 2014 mengalami penurunan yang jauh
+menjadi 18,79 dengan nilai profitabilitas 0,01. Dari data
+tersebut dapat disimpulkan bahwa jika perputaran modal
+kerja mengalami penurunan maka profitabilitas perusahaan
+juga semakin menurun.
+
+Pengaruh Likuiditas terhadap Profitabilitas Perusahaan
+
+Hasil uji hipotesis secara parsial menunjukkan bahwa
+variabel ukuran perusahaan berpengaruh negatif terhadap
+profitabilitas (ROA) pada perusahaan Animal Feed periode
+kuartal 2012-2015 yang listing di BEI. Berdasarkan
+penelitian ini adalah PT. Sierad Produce pada tahun 2014
+nilai ukuran perusahaan sebesar 28,69 dan memiliki nilai
+profitabilitas 0,00 atau tidak mengalami keuntungan sama
+sekali. Sedangkan pada tahun 2015 nilai ukuran perusahaan
+mengalami penurunan 28,47 akan tetapi nilai profitabilitas
+mengalami peningkatan sebesar 0,12. Dari data tersebut
+dapat disimpulkan bahwa jika nilai ukuran perusahaan
+menurun maka profitabilitas masih dapat meningkat. Karena
+sumber daya masih dapat memanajemen agar perusahaan
+tetap dapat mengalami keuntungan.
+
+Dari hasil uji hipotesis secara parsial menunjukkan bahwa
+variabel likuiditas berpengaruh positif terhadap profitabilitas
+(ROA) pada perusahaan Animal Feed periode kuartal 20122015 yang listing di BEI. Berdasarkan hasil penelitian yang
+menunjukkan pengaruh positif terhadap profitabilitas adalah
+PT. Charoen Pokphand Indonesia yang mengalami
+penurunan secara berurutan dari tahun 2013 hingga tahun
+2015 sebesari 3,8; 3,07; 2,6 yang diikuti menurunnya nilai
+profitabilitas secara berurutan dari tahun 2013 hingga tahun
+2015 sebesar 0,12; 0,07; 0,05. Hal tersebut juga terjadi pada
+PT. JAPFA Comfeed Indonesia yang mengalami penurunan
+secara berurutan dari tahun 2013 hingga 2015 sebesar 2,37;
+1,81; 1,73. yang diikuti menurunnya nilai profitabilitas
+secara berurutan dari tahun 2013 hingga tahun 2015 sebesar
+0,04; 0,02; 0,00. Pada PT. Malindo Feedmill tahun 2012
+memiliki nilai CR 1,39 dengan nilai profitabilitas 0,22.
+Sedangkan pada tahun 2013 mengalami penurunan 1,13
+diikuti menurunnya nilai profitabilitas 0,09. Pada PT. Sierad
+Produce tahun 2014 memiliki nilai CR sebesar 1,4 dengan
+nilai profitabilitas 0,00 atau tidak mendapat keuntungan
+sama sekali. Sedangkan pada tahun 2015 nilai CR
+mengalami peningkatan 1,16 diikuti meningkatnya nilai
+profitabilitas 0,12. Dari data tersebut dapat disimpulkan
+bahwa CR berpengaruh positif terhadap profitabilitas
+perusahaan.
+
+Pengaruh Leverage terhadap Profitabilitas Perusahaan
+
+KESIMPULAN
+
+Hasil uji hipotesis secara parsial menunjukkan bahwa
+variabel leverage tidak berpengaruh terhadap profitabilitas
+(ROA) pada perusahaan Animal Feed periode kuartal 20122015 yang listing di BEI. Berdasarkan hasil penelitian
+menunjukkan PT. Sierad Produce pada tahun 2012 memiliki
+nilai leverage sebesar 0,56 dengan nilai profitabilitas 0,01.
+Sedangkan pada tahun 2013 nilai leverage mengalami
+peningkatan 0,59 akan tetapi tidak diikuti nilai profitabilitas
+yang menunjukkan penurunan hingga mencapai 0,00 yang
+berarti tidak mendapat keuntungan sama sekali. Pada tahun
+2014 nilai leverage mengalami penurunan kembali sebesar
+0,56 dengan tidak diikuti nilai profitabilitas yang masih
+konsisten yaitu 0,00 atau tidak mengalami keuntungan .
+Sedangkan pada tahun 2015 nilai leverage kembali
+meningkat 0,62 yang diikuti dengan nilai profitabilitas yang
+meningkat 0,12. Dari data tersebut dapat disimpulkan bahwa
+leverage tidak berpengaruh terhadap profitabilitas
+perusahaan.
+
+Berdasarkan pembahasan penelitian ini menghasilkan
+beberapa kesimpulan, antara lain bahwa variabel perputaran
+modal kerja berpengaruh positif terhadap profitabilitas.
+Ukuran perusahaan berpengaruh negatif terhadap
+profitabilitas. Leverage tidak berpengaruh terhadap
+profitabilitas. Likuiditas berpengaruh positif terhadap
+profitabilitas.
+
+Pengaruh Ukuran Perusahaan terhadap Profitabilitas
+Perusahaan
+
+Bagi perusahaan yang menjadi objek penelitian ini agar lebih
+memperhatikan faktor perputaran modal kerja dan likuiditas
+yang memiliki pengaruh positif untuk membuat strategi
+dalam menjalankan aktivitas perusahaan, agar profitabilitas
+perusahaan dapat meningkat. Sedangkan untuk faktor ukuran
+perusahaan yang memiliki pengaruh negatif terhadap
+profitabilitas perusahaan harus memiliki cara khusus
+mengelola faktor – faktor tersebut agar dapat digunakan
+perusahaan untuk lebih mudah mengetahui tingkat penjualan
+produktivitas yang sesuai dengan pangsa pasar.
+Bagi investor dengan adanya penelitian ini dengan adanya
+informasi terkait faktor-faktor yang perlu diperhatikan untuk
+
+6
+
+Jurnal Ilmu Manajemen Volume 6 Nomor 1 – Jurusan Manajemen Fakultas Ekonomi Universitas Negeri Surabaya
+
+meningkatkan profitabilitas perusahaan terkait dari variabel
+perputaran modal kerja dan likuiditas yang sangat
+mempengaruhi profitabilitas perusahaan dapat dijadikan
+sebagai referensi pertimbangan Sehingga informasi tersebut
+dapat dijadikan dasar keputusan untuk melakukan investasi
+oleh investor.
+
+2018
+
+IDX. (2017). Laporan Keuangan dan Tahunan Perusahaan
+Tercatat
+(online).
+(http://www.idx.co.id/id/beranda/perusahaantercatat/la
+porankeuangandantahunan.aspx, diakses pada 17 Mei
+2017, pukul 13.52 WIB)
+Jensen, Michael C and Meckling, W.H. (1976). Theory of
+the Firm: Managerial Behavior, Agency Costs and
+Ownership Structure. Journal of Financial Economics.
+3(4) : 305-360
+
+Bagi peneliti selanjutnya dapat menambahkan terkait
+variabel yang terdapat dalam penelitian ini untuk mencari
+dan membaca referensi variabel yang mampu mempengaruhi
+profitabilitas seperti perputaran modal kerja (WCT), firm
+size, leverage (DAR) dan likuiditas (CR). Dengan adanya
+hasil Adjust R² Square sebesar 33,4% yang tergolong masih
+rendah, maka perlu dilakukan model analisis yang lebih
+variatif, berdasarkan model analisis dengan metode regresi
+linier berganda terdapat beberapa kekurangan antara lain
+ketergantungan dengan mengutamakan pengujian yang wajib
+dipenuhi terlebih dahulu. Dan memperhatikan metode
+pemilihan sampel yang diteliti, sehingga tidak ditemukan
+kesulitan menganalisis variabel-variabel yang digunakan
+dalam penelitian.
+
+Kapoor, P. H. (2014). Pengantar Bisnis. Edisi 11. Jakarta :
+Salemba Empat
+Kusuma, Hadri. (2005). Size Perusahaan dan Profitabilitas :
+Kajian Empiris terhadap Perusahaan Manufaktur yang
+Terdaftar di Bursa Efek Jakarta. Jurnal Ekonomi
+Pembangunan : Universitas Islam Indonesia.
+Munawir, S. (2002). Analisis informasi Keuangan. Edisi
+Kedua. Yogyakarta: YPKN
+Raheman, Abdul., Afza, T., and Abdul, Q. (2010). Working
+Capital Management and Corporate Performance of
+Manufacturing Sector in Pakistan. Interdisciplinary
+Journal of Contemporary Research In Business. 2(7)
+
+DAFTAR PUSTAKA
+Azlina, Nur. (2009). Pengaruh tingkat perputaran modal
+kerja, struktur modal dan skala perusahaan terhadap
+profitabilitas. Jurnal Pendidikan Ekonomi Bisnis.
+1(2): 107-114
+
+Rajan, R. and L. Zingales. (2001). The firm as a dedicated
+hierarchy: A theory of the origins and growth of firms.
+Quarterly Journal of Economics.
+
+Brigham, F. E. and J. F. Houston. (2006). Dasar-Dasar
+Manajemen Keuangan Essentials of Financial
+Management. Jakarta: Salemba Empat.
+
+Riyanto, Bambang. (2001). Dasar-dasar Pembelanjaan
+Perusahaan. Edisi Kedua, Cetakan Kesembilan.
+Yogyakarta: BPFE.
+
+Febria. (2013). Pengaruh Leverage dan Ukuran Perusahaan
+terhadap Profitabilitas. Jurnal Dinamika Manajemen.
+3(1): 49-58
+
+Sari, dan Noor. (2016). Pengaruh leverage terhadap
+profitabilitas pada perusahaan manufaktur yang
+terdaftar di BEI periode 2010-2013. Jurnal
+Manajemen dan Akuntansi. 16(1)
+
+Ghozali, Imam. (2013). Analisis Multivariate Dengan
+Menggunakan SPSS. Semarang : BP Universitas
+Diponegoro
+
+Saleem, Qasim., and Rehman, R. U. (2011). Impacts of
+liquidity ratios on profitability (Case of oil and gas
+companies of Pakistan). Interdisciplinary Journal of
+Research in Business. 1(7): 95-98
+
+Harianto, dan Sudomo. (1998). Perangkat dan Teknik
+Analisa Investasi di Pasar Modal Indonesia. Jakarta:
+PT. Bursa Efek Indonesia
+
+Sugiyono. (2012). Metode Penelitian Bisnis (pendekatan
+kuantitatif, kualitatif, dan R&D). Bandung: CV
+Alfabeta.
+
+Horne, dan Wachowicz, JR. (2009). Prinsip-Prinsip
+Manajemen Keuangan. Jakarta : Salemba Empat
+IDX.
+(2017).
+Publikasi
+LQ45
+(online).
+(https://www.idx.co.id/id-id/beranda/publikasi/lq45.aspx,
+diakses pada 8 Mei 2017, pukul 07.34 WIB)
+
+7
+
+Debby Ayu Puspita, Pengaruh Perputaran Modal Kerja, Ukuran Perusahaan, Leverage dan Likuiditas terhadap Profitabilitas
+Perusahaan Animal Feed di BEI Periode 2012-2015
+
+Syafri, Sofyan. (1999). Analisa Kritis Atas Laporan
+Keuangan. Edisi Pertama. Jakarta: PT. Raja Grafindo
+Persada
+
+Wibowo, dan Wartini. (2012). Efisiensi modal kerja,
+likuiditas, dan leverage terhadap profitabilitas
+perusahaan manufaktur di BEI. Jurnal Dinamika
+Manajemen. 3(1): 49-58
+
+Van Horne. (2009). Prinsip-Prinsip Manajemen Keuangan.
+Jakarta : Salemba Empat
+Weston, J. Fred dan Eugene F. Brigham. (1999). Dasardasar Manajemen Keuangan. Diterjemahkan oleh A.
+Q Khalid. Jakarta: Erlangga
+
+8
+
+

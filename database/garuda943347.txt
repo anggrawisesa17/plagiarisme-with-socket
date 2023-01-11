@@ -1,0 +1,2676 @@
+WARTAZOA Vol. 12 No. 2 Th. 2002
+
+KEAMANAN PANGAN ASAL TERNAK: SUATU TUNTUTAN DI ERA
+PERDAGANGAN BEBAS
+SJAMSUL BAHRI, INDRANINGSIH, R. WIDIASTUTI, T.B. MURDIATI, dan R. MARYAM
+Balai Penelitian Veteriner, P.O. Box 151, Bogor 16114
+ABSTRAK
+Issue keamanan pangan, termasuk keamanan pangan asal ternak saat ini terus berkembang menjadi issue global yang
+sangat strategis sehingga sering dimanfaatkan secara efektif oleh berbagai negara dalam menghambat masuknya produk-produk
+peternakan impor yang bermutu rendah dan tidak aman untuk dikonsumsi. Oleh karena itu berbagai negara berupaya untuk
+menghasilkan atau memperoleh pangan asal ternak yang bermutu dan berdaya saing tinggi serta aman untuk dikonsumsi.
+Makalah ini mengulas berbagai faktor yang dapat mempengaruhi mutu dan keamanan produk peternakan pada setiap rantai
+penyediaan pangan tersebut. Dari serangkaian proses penyediaan pangan asal ternak, maka pada proses pra-produksi lebih
+banyak faktor penting yang mempengaruhi mutu dan keamanan produk ternak yang dihasilkannya, karena berbagai sumber
+kontaminan dan penyakit setiap saat dapat terjadi pada proses ini. Berbagai data penyakit, cemaran dan residu pada produk
+ternak dalam negeri juga dibahas. Diungkapkan pula bahwa dampak negatif dari keberadaan penyakit, residu dan cemaran atau
+kontaminasi pangan asal ternak antara lain berupa kerugian ekonomi yang berkaitan dengan perdagangan, menyebabkan
+gangguan kesehatan pada manusia, serta dampak sosial politik yang cukup meresahkan. Upaya menghasilkan produk peternakan
+atau pangan asal ternak yang bermutu dan aman untuk dikonsumsi dapat dilakukan dengan menerapkan sistem jaminan mutu
+berupa HACCP pada setiap mata rantai penyediaan pangan tersebut (GAP, GHP, GMP, GDP, dan GRP). Sementara itu untuk
+menjamin produk ternak asal impor yang beredar di Indonesia bermutu baik dan aman serta halal untuk dikonsumsi, maka perlu
+dilakukan pengawasan yang ketat didukung oleh sarana, prasarana dan perangkat hukum yang memadai.
+Kata kunci: Keamanan pangan, produk ternak, perdagangan bebas, HACCP
+
+ABSTRACT
+FOOD SAFETY FOR ANIMAL PRODUCTS: THE NEED IN THE INTERNATIONAL FREE TRADE
+Issues of food safety, includes the food safety for the animal products grows to inhibit the incoming of low quality imported
+animal product which is unsafe for human being. Therefore several countries enhance to produce high quality of animal product
+and safe to be consumed. This paper reviews several factors that distribute to the quality and food safety in every single chain of
+the preparation of animal products. In pre-production step, many factors involve to the quality and safety because several
+contaminants and diseases can be happened in this step. Several data of diseases and contaminants which causes the negative
+impacts on economic, political and health will be provided in this paper. An effort to produce high quality and safe animal
+products can be done by implementing the HACCP in every step of preparation of it (GAP, GHP, GMP, GDP, and GRP). To
+assure the distribution of high quality and halal of imported animal products in Indonesia, it is necessary to give more strict
+regulation which is supported by infrastructure, facilities, human resources development and law enforcement.
+Key words: Food safety, animal products, international free trade, HACCP
+
+PENDAHULUAN
+Salah satu tujuan pembangunan di Indonesia
+ditekankan kepada pembangunan sumber daya manusia
+(SDM) yang merupakan subyek sekaligus obyek dalam
+proses pembangunan masyarakat Indonesia secara
+keseluruhan. Hal ini tersurat di dalam GBHN 19992004 maupun pada GBHN tahun-tahun sebelumnya.
+Keadaan ini menggambarkan bahwa peningkatan
+kualitas SDM sangat strategis, karena pada gilirannya
+dengan SDM yang berkualitas akan mendukung
+pembangunan ekonomi nasional dengan lebih cepat.
+
+Tujuan tersebut akan dapat dicapai antara lain
+apabila kebutuhan dasar manusia berupa pemenuhan
+gizi masyarakat Indonesia dapat terpenuhi. Dalam hal
+ini kebutuhan akan protein perlu dipacu untuk
+mengimbangi kecukupan kalori yang relatif lebih
+mudah untuk dapat dicapai. Protein merupakan suatu
+zat gizi yang kehadirannya di dalam tubuh mutlak
+diperlukan baik sebagai protein fungsional maupun
+sebagai pembangun struktur (pertumbuhan), terutama
+pada anak-anak usia di bawah lima tahun, dimana laju
+pertumbuhan dan pengembangan otaknya sangat tinggi.
+Selain protein nabati, maka kebutuhan akan protein
+hewani juga perlu mendapat perhatian karena protein
+
+47
+
+SJAMSJUL BAHRI et al.: Keamanan Pangan Asal Ternak: Suatu Tuntutan di Era Perdagangan Bebas
+
+hewani mengandung berbagai asam amino yang lebih
+mendekati susunan asam amino yang dibutuhkan
+manusia, sehingga akan lebih mudah dicerna serta lebih
+efisien pemanfaatannya (ANONIMOUS, 1982).
+Standar nasional pada tahun 1993 mentargetkan
+konsumsi protein asal hewani sebesar 6,0 gram per
+kapita per hari. Dari target tersebut konsumsi rata-rata
+protein asal ternak baru dicapai sebesar 4,46 gram per
+kapita per hari pada PELITA VI yang setara dengan
+7,55 kg daging, 2,5 kg telur dan 6,19 kg susu per kapita
+per tahun (SUTIRTO, 1997). Pada Widyakarya Nasional
+Pangan dan Gizi VI tahun 1998 target konsumsi protein
+asal hewani tidak terlalu berbeda dengan standar
+nasional pada tahun 1993.
+Sebelum masa krisis ekonomi melanda Indonesia,
+trend kebutuhan atau permintaan akan praduk ternak
+meningkat secara signifikan (nyata), terutama
+permintaan akan daging. Meningkatnya permintaan
+produk ternak saat itu belum dapat diimbangi oleh
+pertumbuhan penyediaan daging dan susu, sehingga
+sebagian kekurangannya dipenuhi dari impor, oleh
+karena itu kebutuhan daging asal impor pada tahun
+1997 hampir mencapai 47.000 ton (SUDARDJAT, 1997).
+Di masa krisis yang berkepanjangan ini impor
+produk peternakan terutama daging dan susu masih
+terus berlangsung dengan volume yang lebih rendah
+karena daya beli masyarakat Indonesia melemah.
+Dengan daya beli yang melemah, maka pemerintah
+mencari berbagai sumber pasokan baru dengan harga
+yang lebih murah, tetapi maksud tersebut malah
+menimbulkan berbagai isu seperti rencana impor
+daging India yang berdampak kepada polemik PMK
+(Penyakit Mulut dan Kuku). Demikian juga rencana
+impor daging Irlandia telah melahirkan polemik Mad
+cow (sapi gila), sedangkan pencemaran Dioksin pada
+daging ayam dan produk ternak lainnya asal Belgia dan
+Belanda sempat meresahkan masyarakat kita. Semua
+polemik yang timbul umumnya berkaitan dengan
+masalah keamanan pangan yang dikhawatirkan akan
+berdampak kepada kesehatan masyarakat/konsumen.
+Di awal tahun 2000 ini sebagian masyarakat Jawa
+Barat khususnya di kabupaten Purwakarta dan
+sekitarnya telah merasakan dampaknya akibat
+mengkonsumsi daging burung unta yang tertular
+penyakit Anthrax. Bahkan akhir-akhir ini muncul isu
+kekhawatiran terhadap produk asal rekayasa genetika.
+Terakhir isu daging ayam tidak halal dari Amerika
+dengan mutu yang rendah sempat menimbulkan
+keresahan masyarakat indonesia.
+Permasalahan-permasalahan tersebut menggambarkan
+betapa pentingnya masalah keamanan pangan asal
+ternak yang akan berdampak tidak hanya terhadap
+kesehatan konsumen tetapi juga akan berdampak
+kepada perdagangan domestik dan global serta
+perekonomian negara yang terlibat dalam perdagangan
+tersebut. Dampak dari keinginan mengimpor daging
+
+48
+
+murah telah menimbulkan ekses negatif dengan
+meningkatnya pemasukan produk-produk asal ternak
+kelas dua atau tiga yang terdiri dari hati sapi dan jeroan
+lainnya serta daging paha bawah ayam, leher dan
+bagian-bagian lainnya yang di negeri asalnya kurang
+disukai (tidak dikonsumsi).
+Sesungguhnya selain kebutuhan kuantitatif
+terhadap kebutuhan daging, telur dan susu, masyarakat
+luas juga telah semakin sadar akan pentingnya pangan
+asal ternak yang berkualitas yang menyangkut aspek
+gizi dan kesehatan dalam arti produk tersebut aman,
+bebas dari cemaran mikroba, bahan kimia atau cemaran
+yang dapat mengganggu ketentraman batin. Pangan
+asal ternak yang tidak memenuhi persyaratan mutu dan
+keamanan tidak hanya menyebabkan gangguan
+kesehatan atau kematian (seperti kasus Antraks) tetapi
+juga dapat mempengaruhi pertumbuhan fisik dan
+inteligensia (seperti kasus Mad cow). Oleh karena itu
+isu keamanan pangan asal ternak merupakan isu
+strategis yang perlu mendapat perhatian kita semua,
+produsen, petugas, konsumen dan pemegang kebijakan.
+Diperkirakan pada abad ke-21 ini dimana
+perdagangan bebas telah diberlakukan secara luas maka
+tuntutan kualitas dan keamanan pangan asal ternak
+akan merupakan persyaratan mutlak yang tidak dapat
+ditawar-tawar lagi.
+Tujuan dari penulisan makalah ini adalah untuk:
+1.
+
+2.
+3.
+
+Memberikan pemahaman kepada pelaku yang
+terlibat dalam mata rantai penyediaan pangan asal
+ternak mulai dari produsen hingga konsumen
+tentang pentingnya keamanan pangan asal ternak
+terhadap kesehatan masyarakat serta untuk
+meningkatkan daya saing pasar dalam negeri
+maupun luar negeri pada era perdagangan bebas.
+Memberikan pemahaman bahwa pangan asal
+ternak selain sebagai bahan pangan juga sebagai
+komoditas dagang yang perlu mendapat perhatian.
+Memberikan
+pemahaman
+bahwa
+untuk
+menghasilkan pangan asal ternak yang berkualitas
+dan aman perlu diterapkan upaya-upaya
+pengamanan di setiap mata rantai produksi, antara
+lain dengan menerapkan konsep HACCP (Hazard
+Analysis Critical Control Point).
+
+PANGAN ASAL TERNAK DAN PENGERTIAN
+KEAMANAN PANGAN
+Di dalam Undang-undang (UU) tentang pangan,
+yaitu UU No. 7 tahun 1996 disebutkan bahwa yang
+dimaksud dengan pangan adalah segala sesuatu yang
+berasal dari sumber hayati dan air, baik yang diolah
+maupun tidak diolah yang diperuntukkan sebagai
+makanan atau minuman bagi konsumsi manusia,
+termasuk bahan tambahan pangan (food additive),
+bahan baku pangan, dan bahan lain yang digunakan
+
+WARTAZOA Vol. 12 No. 2 Th. 2002
+
+dalam proses persiapan, pengolahan dan pembuatan
+makanan atau minuman.
+Bila ditinjau dari sumber asalnya, maka bahan
+pangan hayati terdiri dari bahan pangan nabati (asal
+tumbuhan) dan bahan pangan hewani (asal ternak dan
+ikan). Jadi yang dimaksud dengan bahan pangan asal
+ternak adalah bahan pangan hewani yang tidak
+termasuk ikan. Dalam hal ini utamanya adalah telur,
+susu, daging dan edible portion lainnya asal ternak
+ruminansia, babi dan ayam. Sifat bahan pangan hayati
+ini pada umumnya mudah rusak baik akibat perubahan
+di dalam bahan itu sendiri (faktor internal) maupun
+akibat adanya kerusakan dari luar (faktor eksternal).
+Pengertian keamanan pangan menurut UU tentang
+pangan No. 7 tahun 1996 adalah kondisi dan upaya
+yang diperlukan untuk mencegah pangan dari
+kemungkinan cemaran biologis (mikrobiologis), kimia
+dan benda-benda lain yang dapat mengganggu,
+merugikan dan membahayakan kesehatan manusia.
+Pada dasarnya keamanan pangan (food safety)
+merupakan hal yang kompleks dan berkaitan erat
+dengan aspek toksisitas, mikrobiologis, kimia, status
+gizi dan ketentraman batin. Masalah keamanan pangan
+bersifat dinamis seiring dengan berkembangnya
+peradaban manusia yang meliputi aspek sosial budaya,
+kesehatan, kemajuan IPTEK dan segala yang terkait
+dengan kehidupan manusia.
+Sebagai contoh bahwa masalah keamanan pangan
+ini bersifat dinamis dan sejalan dengan kemajuan
+IPTEK adalah munculnya isu kekhawatiran pangan
+asal rekayasa genetika atau genetically modified
+organism (GMO) maupun modified living organism
+(MLO) yang dahulu belum terpikirkan.
+KEAMANAN PANGAN DI ERA
+PERDAGANGAN BEBAS
+Hasil perundingan putaran Uruguai yang diikuti
+oleh 125 negara anggota WTO pada tahun 1994
+memiliki dampak yang sangat luas mencakup
+kesepakatan dan keputusan mengenai perdagangan
+internasional berupa GATT (General Agreement on
+Tarrif and Trade). Dalam keputusan tersebut dicapai
+juga mengenai kesepakatan aplikasi tindakan sanitary
+and phytosanitary (SPS) yang mengatur tindakan
+perlindungan keamanan pangan dalam bidang
+kesehatan hewan dan tumbuhan yang perlu dijalankan
+oleh negara-negara anggota WTO termasuk Indonesia.
+Tujuan dari ketentuan ini adalah untuk melindungi
+kehidupan manusia dari resiko yang ditimbulkan oleh
+bahan makanan tambahan (additives) dalam pangan,
+cemaran (contaminants), racun (toxins) atau organisme
+penyebab penyakit dalam makanan atau dari penyakit
+zoonosis. Oleh karena itu dalam perjanjian ini
+ditegaskan bahwa setiap negara harus melakukan upaya
+untuk menjamin keamanan pangan bagi konsumen dan
+
+mencegah penyebaran hama. dan penyakit pada hewan
+dan tumbuhan.
+Dengan diberlakukannya GATT dan adanya WTO
+serta terbentuknya perdagangan bebas ASEAN (AFTA)
+yang akan diberlakukan pada tahun 2003 dan juga
+APEC (Asia Pasifik) pada tahun 2020, maka dapat
+diperkirakan
+persaingan
+dalam
+perdagangan
+internasional akan semakin ketat. Oleh karena itu
+pangan asal ternak sebagai komoditas dagang dituntut
+keamanannya agar memiliki daya saing yang tinggi
+pada era perdagangan bebas ini, sehingga pada
+gilirannya akan ikut memberikan sumbangan yang
+berarti dalam peningkatan pertumbuhan ekonomi
+nasional.
+Sebagai sumber protein hewani, pangan asal
+ternak mempunyai keterkaitan yang erat dengan upaya
+meningkatkan pembangunan SDM, yaitu meningkatkan
+daya intelektualnya melalui perbaikan gizi protein
+hewani. Apabila bahan pangan asal ternak tidak
+memenuhi persyaratan mutu dan keamanan, maka
+selain dapat menyebabkan gangguan kesehatan atau
+kematian, juga dapat mempengaruhi pertumbuhan fisik
+dan inteligensia masyarakat yang mengkonsumsi
+pangan tersebut. Oleh karena itu dengan adanya
+tuntutan kualitas hidup dan kehidupan yang semakin
+meningkat, maka pembangunan peternakan tidak hanya
+dituntut untuk meningkatkan kuantitas pangan, tetapi
+juga dituntut untuk dapat menyediakan bahan pangan
+asal ternak yang berkualitas dan aman bagi konsumen.
+Untuk dapat memenuhi tuntutan keamanan
+pangan, maka Pemerintah Indonesia telah merespons
+secara positif dengan menerbitkan Undang-Undang
+tentang Pangan, yaitu UU No. 7 tahun 1996 pada
+tanggal 14 Nopember 1996. Dalam UU ini telah
+diantisipasi
+kemungkinan
+untuk
+menghadapi
+persaingan perdagangan pangan global, antara lain
+dengan menempatkan masalah keamanan pangan
+dalam satu Bab tersendiri yang mencerminkan bahwa
+keamanan pangan merupakan masalah yang penting
+untuk selalu diperhatikan selain masalah-masalah
+lainnya.
+RANTAI PENYEDIAAN PANGAN
+ASAL TERNAK
+Untuk mendapatkan bahan pangan asal ternak
+dengan mutu yang baik dan aman perlu diketahui mata
+rantai dalam penyediaan pangan (daging, telur dan
+susu) tersebut mulai dari farm/peternak sampai
+transportasi yang digolongkan sebagai pre-harvest food
+safety program, yang dilanjutkan dengan proses
+pemotongan di rumah potong hewan (RPH),
+pengolahan, pemasaran dan penyajian kepada
+konsumen atau post harvest food safety program.
+Selanjutnya secara lebih rinci tindakan yang dilakukan
+pada setiap mata rantai dalam penyediaan pangan asal
+
+49
+
+SJAMSJUL BAHRI et al.: Keamanan Pangan Asal Ternak: Suatu Tuntutan di Era Perdagangan Bebas
+
+ternak (daging, telur dan susu) perlu diketahui sehingga
+nantinya
+dapat
+diantisipasi
+tindakan-tindakan
+pengawasannya.
+Pre-harvest food safety program
+Produsen
+(peternak/farm)
+
+¨
+
+Transpor
+
+Rantai penyediaan pangan berupa daging sedikit
+berbeda dengan rantai penyediaan pangan berupa telur
+maupun pangan berupa susu yang masing-masing
+digambarkan pada Gambar 1−3.
+
+Post-harvest food safety program
+¨
+
+Prosesor
+(RPH)
+
+Distributor
+
+¨
+
+¨
+
+Pengecer
+
+¨
+
+Konsumen
+
+Gambar 1. Garis besar rantai penyediaan daging
+
+Pre-harvest food safety program
+Produsen
+(peternak/farm)
+
+Pengumpulan/
+¨ penangan telur
+
+Post-harvest food safety program
+¨
+
+Prosesor
+Pengepakan/
+Penyimpanan
+
+¨ Distributor
+
+¨
+
+Pengecer
+
+¨
+
+Konsumen
+
+Gambar 2. Garis besar rantai penyediaan telur
+
+Pre-harvest food safety program
+Produsen
+(peternak/farm)
+
+¨
+
+Pemerahan/
+milking
+
+Post-harvest food safety program
+¨
+
+Transportasi
+
+¨
+
+Pengolahan/
+Penyimpanan
+
+Distributor/
+¨ Pengecer
+
+¨ Konsumen
+
+Gambar 3. Garis besar rantai penyediaan susu
+
+Bagan pada Gambar ini menjelaskan tentang
+rantai penyediaan produk ternak, mulai dari farm
+sampai kepada konsumen menurut Food Animal
+Production Medicine Consortium (1993) dengan
+sedikit modifikasi.
+Proses Pra-produksi (Pre-harvest food safety program)
+Pada proses pra-produksi yang dimulai dari
+farm/peternak atau produsen terdapat berbagai faktor
+yang dapat menentukan kualitas akhir dari produk
+ternak tersebut. Beberapa faktor yang perlu
+diperhatikan pada tahap pra-produksi antara lain:
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+
+50
+
+Lingkungan dimana ternak dipelihara meliputi
+keadaan tanahnya dan air yang digunakan, udara
+sekitar peternakan serta sanitasi.
+Pakan atau bahan pakan yang dipergunakan.
+Tenaga kerja yang terlibat, menyangkut kesehatan
+dan tanggung jawab.
+Bahan kimia yang dipergunakan, seperti pestisida,
+desinfektan dan lain-lainnya.
+Obat-obat hewan yang dipergunakan.
+Keberadaan dan keadaan hewan lainnya dan
+tanaman liar.
+Status penyakit hewan menular termasuk penyakit
+zoonosis.
+Sistem manajemen yang diterapkan.
+
+Faktor-faktor tersebut sangat menentukan dalam
+menghasilkan produk asal ternak yang bermutu dan
+aman untuk konsumsi manusia. Apabila faktor-faktor
+tersebut dapat dikontrol dengan baik sehingga tidak
+merugikan pertumbuhan dan kesehatan ternak yang
+dipelihara, maka dengan sendirinya akan memberikan
+dampak positif atau nilai tambah karena:
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+i.
+
+Produk ternak lebih terjamin keamanannya.
+Konsumen lebih terjamin dan lebih percaya
+terhadap mutu daging yang dihasilkan.
+Konsumen akan membeli dengan harga yang lebih
+tinggi.
+Produk asal ternak yang berupa daging dapat
+bersaing di pasar internasional ditinjau dari aspek
+mutu dan keamanannya.
+Cemaran mikroba dan bahan kimia dapat
+dikurangi.
+Meningkatkan kesehatan dan kesejahteraan hewan
+atau ternak.
+Hewan atau ternak tumbuh lebih cepat dan dapat
+dijual lebih cepat.
+Dapat mengurangi jumlah atau bagian produk
+ternak yang ditolak atau dimusnahkan pada waktu
+prosesing sehingga menambah keuntungan.
+Dapat mengurangi dan mencegah penyakit yang
+menular ke manusia sehingga mengurangi biaya
+kesehatan masyarakat baik secara individu maupun
+nasional.
+
+WARTAZOA Vol. 12 No. 2 Th. 2002
+
+Proses Pasca Produksi (Post harvest food safety Program)
+Daging sapi
+Setelah ternak siap untuk dipasarkan atau dipanen
+dagingnya, maka ternak tersebut selanjutnya akan
+menjalani proses transportasi dari peternak atau farm
+untuk sampai di rumah pemotongan hewan. Beberapa
+tahapan kegiatan yang perlu dilakukan pada proses
+pasca produksi daging, antara lain:
+a.
+b.
+c.
+
+d.
+
+Pemeriksaan ante mortem, pada masa pemulihan
+kondisi atau masa istirahat minimal 12 jam
+sebelum dipotong.
+Proses pemotongan atau penyembelihan yang
+dilakukan menurut tata cara Islam sesuai dengan
+Fatwa Majelis Ulama Indonesia.
+Proses pelepasan kulit, pengeluaran jeroan,
+pembelahan karkas, yang diikuti dengan
+pemeriksaan post mortem terhadap daging dan
+bagian-bagian lainnya secara utuh yang dapat
+dilanjutkan dengan pemeriksaan laboratorium bila
+diperlukan.
+Kemudian daging dilayukan dengan meniriskannya selama 8 jam.
+
+Setelah pelayuan dan penirisan selesai, maka
+dilanjutkan dengan dua alternatif tahapan kegiatan,
+yaitu:
+1.
+
+2.
+
+Proses pengangkutan karkas dengan kendaraan
+yang memenuhi persyaratan, dilanjutkan dengan
+peredaran atau penjualan daging di tempat yang
+memenuhi syarat dan telah ditentukan, dan
+akhirnya sampai kepada konsumen.
+proses pelepasan tulang (deboning) yang
+dilanjutkan
+dengan
+pengepakan
+daging,
+pendinginan
+dan
+dilanjutkan
+dengan
+pengangkutan mempergunakan kendaraan yang
+memenuhi syarat, dan terakhir daging diedarkan
+atau dipasarkan pada konsumen di tempat yang
+memenuhi syarat dan telah ditentukan.
+
+Apabila setiap tahapan kegiatan dalam proses
+pasca produksi daging tersebut dilakukan secara
+terkontrol sehingga persyaratan yang ditentukan selalu
+terpenuhi, maka sudah dapat dipastikan akan diperoleh
+daging yang bermutu baik dan aman untuk dikonsumsi
+Susu
+Untuk memperoleh produk susu yang baik, maka
+perlu dilakukan pemeriksaan terhadap kesehatan ternak
+dan juga kesehatan lingkungannya. Pada tahap
+pemerahan perlu diperhatikan higienis pekerja,
+peralatan yang akan digunakan, penampung susu dan
+sanitasi tempat pemerahan terutama kandang.
+
+Penangan yang perlu diperhatikan pada pasca produksi
+susu ini terutama pada saat transportasi, pengumpulan
+susu yang higienis dan melakukan uji mutu susu
+dengan pengukuran berat jenis susu, total kandungan
+protein dan lemak, serta pengukuran jumlah kuman.
+Perlu juga mendeteksi kandungan residu obat hewan
+dan senyawa kimia lainnya. Sebagai pembanding harus
+mengacu kepada SNI No. 01-6366-2000 tentang
+keberadaan cemaran mikroba dan Batas Maksimum
+Residu (BMR) pada produk ternak termasuk susu.
+Daging ayam
+Seperti halnya pada pemrosesan daging sapi,
+maka proses pemotongan ayam di Rumah Pemotongan
+Unggas (RPU) atau Tempat Pemotongan Ayam (TPA)
+juga harus mengikuti prosedur standar yang telah
+dibakukan mulai dari pemeriksaan ante mortum,
+pemotongan secara halal, pemeriksaan post mortum
+sampai dengan pengepakan, penyimpanan dan
+pendistribusiannya. RPU sebaiknya mengikuti
+ketentuan SNI tentang RPU, yaitu SNI 01-6-61601999.
+Telur ayam
+Penggunaan obat perlu diperhatikan dan harus
+digunakan secara rasional. Selain itu, pakan yang
+diberikan harus bebas kontaminan bahan toksik
+(cemaran pestisida, logam berat, mikotoksin), serta
+bahan-bahan toksik lainnya. Pada umumnya mutu dan
+keamanan telur ayam untuk dikonsumsi sangat
+ditentukan pada saat proses Pra-produksi. Cemaran
+Salmonella pada telur dapat terjadi pada proses Pasca
+Produksi apabila higienis di peternakan dan pada saat
+pengumpulan dan penyimpanan kurang diperhatikan.
+Oleh karena itu kebersihan telur dan penyimpanannya
+perlu diperhatikan dengan baik agar tidak terinfeksi
+oleh mikroba maupun oleh berbagai jenis kapang/
+jamur.
+BAHAYA ATAU HAZARD
+YANG DAPAT MEMPENGARUHI
+KEAMANAN PANGAN ASAL TERNAK
+Bahaya atau hazard yang berkaitan dengan
+keamanan pangan asal ternak dapat terjadi pada setiap
+mata rantai mulai dari saat pra-produksi di tingkat
+peternak/farm atau produsen maupun pada proses pasca
+produksi sampai saat produk tersebut didistribusikan
+dan disajikan kepada konsumen. Bahaya atau hazard
+tersebut terdiri atas: (1). penyakit ternak; (2). penyakit
+yang ditularkan melalui pangan atau yang disebut food
+borne diseases; serta (3). cemaran atau kontaminasi
+kimiawi dan bahan toksik lainnya.
+
+51
+
+SJAMSJUL BAHRI et al.: Keamanan Pangan Asal Ternak: Suatu Tuntutan di Era Perdagangan Bebas
+
+Penyakit - penyakit Ternak Menular
+Penyakit ternak menular yang dimaksud di sini
+adalah penyakit yang umumnya terjadi pada proses praproduksi, yaitu penyakit yang dapat menyerang ternak
+yang sedang dalam proses pemeliharaan. Penyakitpenyakit ini selain berpengaruh terhadap kesehatan
+ternak itu sendiri, juga berpengaruh terhadap mutu dan
+keamanan dagingnya. Oleh karena hazard semacam ini
+terjadi pada saat proses Pra-produksi (di farm), maka
+upaya mengatasinya juga harus ditangani pada saat
+ternak masih di farm tersebut dengan menerapkan pola
+pengamanan sesuai dengan ketentuan yang berlaku.
+Antraks
+Antraks merupakan penyakit hewan bersifat
+zoonosis yang disebabkan oleh kuman Bacillus
+anthracis. Di luar tubuh hewan, kuman ini membentuk
+spora yang dapat hidup selama bertahun-tahun. Tanah
+atau lingkungan yang telah tercemar spora kuman ini
+sangat potensial untuk mengakibatkan penyakit kepada
+ternak, manusia atau bahan pangan lainnya. Oleh
+karena itu lokasi peternakan atau pemukiman
+seharusnya bebas dari cemaran spora atau kuman
+antraks. Ternak yang terserang penyakit ini tidak boleh
+dipotong apalagi dikonsumsi. Pencegahannya dapat
+dilakukan dengan vaksinasi.
+BSE (Bovine Spongioform Encephalopathy)
+BSE atau yang lebih dikenal dengan sebutan
+penyakit Sapi Gila atau Mad Cow merupakan penyakit
+dari kelompok penyakit Transmissible Spongioform
+Encephalopathy (TSE). Penyakit ini menyerang
+susunan syaraf pusat sapi dan menyebabkan kerusakan
+sel-sel syaraf (neuron) yang bersifat progresif dengan
+terbentuknya lubang-lubang (vakuolisasi) sel-sel syaraf
+terutama pada bagian grey matter dari otak. Kerusakan
+sel-sel syaraf ini selalu disertai dengan akumulasi
+protein tertentu yang dikenal juga protein prion
+sehingga penyakit ini dikenal juga dengan prion
+Diseases.
+Penyakit ini dapat juga menyerang manusia yang
+disebut Creutzfeldt Jacob Disease (CJD) atau AlZheimer Disease (AD). Data Epidemiologi menunjukkan
+bahwa munculnya CJD varian baru di Eropa erat
+kaitannya dengan merebaknya penyakit BSE di daerah
+yang sama. Berdasarkan data tersebut terlihat bahwa
+penyakit sapi gila dapat menular dari hewan ke
+manusia dapat melalui makanan, obat-obatan atau
+kosmetika yang terkontaminasi atau berasal dari ternak
+yang menderita BSE.
+Berdasarkan laporan WHO dan laporan OIE pada
+tahun 2001 (Tabel l), kasus BSE terjadi di Inggris
+dengan jumlah 7228 kasus pada 1989. Pada laporan
+tersebut, BSE telah terjadi di 19 negara Eropa dan satu
+
+52
+
+negara Asia, yaitu Jepang sebanyak 3 kasus yang
+terjadi pada tahun 2001. Jadi penyakit sapi gila pertama
+kali dilaporkan di Inggris pada bulan Nopember 1986
+dan sampai dengan Mei 1995 sudah terjadi 148.200
+kasus yang terjadi pada 32.385 peternakan.
+Virus Nipah (Encephalitis)
+Virus nipah merupakan salah satu penyebab
+radang otak (encephalitis) yang belum lama ini
+mewabah di Malaysia dan telah menelan korban lebih
+dari 100 orang meninggal dunia. Penyakit ini berkaitan
+dengan ternak babi dan orang-orang yang pernah
+kontak langsung dengan ternak babi (petenak, pekerja
+peternakan atau pekerja rumah potong hewan) adalah
+orang-orang yang menderita penyakit radang otak
+tersebut.
+Selain Malaysia, di Singapura juga terjadi kasus
+penyakit yang sama dan menyerang l1 orang yang
+menangani babi impor dari Malaysia. Mula-mula kasus
+tersebut diidentifikasi penyebabnya adalah Japanese B
+Encephalitis (JE) tetapi setelah dilakukan penelitian
+oleh Center for Disease Control and Prevention (CDC)
+USA dengan menggunakan mikroskop elektron
+ditemukan bentuk virus yang konsisten dengan
+paramyxovirus
+dan
+selanjutnya
+dengan
+uji
+immunofluorescent terhadap biakan sel yang diinfeksi
+dengan virus tersebut menunjukkan bahwa virus tadi
+memiliki persamaan dengan Hendra virus asal
+Australia (DARMINTO et al., 1999). Namun dari hasil
+analisis biologi molekuler (dengan nucleotide
+sequencing) dinyatakan bahwa virus penyebab wabah
+di Malaysia tersebut memiliki persamaan dengan
+Hendra virus (ANONIMOUS, 1999), sehingga disebut
+Hendra-like virus. Virus tersebut diisolasi dari
+kampung Sungai Nipah, maka penyakit tersebut
+dikenal dengan nama Nipah virus.
+Salah satu cara untuk mencegah tertularnya
+penyakit radang otak dari Malaysia ke Indonesia adalah
+dengan memperketat pangawasan lalu lintas ternak
+(khususnya babi dan daging babi) di setiap point of
+entry dengan sistem karantina yang ketat.
+Tuberculosis
+Penyakit tuberkulosis (TBC) disebabkan oleh
+kuman Mycobacterium tuberculose dapat menyerang
+berbagai jenis ternak termasuk sapi. Di alam terdapat
+tiga tipe dari kuman tersebut yaitu tipe human, bovine
+dan tipe avian. Bagian tubuh yang terserang biasanya
+saluran pernafasan (paru-paru), pleura dan kelenjar
+pertahanan. Keberadaan penyakit ini dapat diketahui
+dari adanya lesio berupa tuberkel atau nodul-nodul
+yang bagian dalamnya berwarna kekuningan dengan
+masa yang kental. Bila lesio masih sedikit maka karkas
+masih dapat dikonsumsi setelah bagian organ yang
+terserang dibuang. Karkas tidak dapat dikonsumsi
+
+WARTAZOA Vol. 12 No. 2 Th. 2002
+
+apabila telah terjadi lesio yang menyeluruh, biasanya
+hewan terlihat sangat kurus. Susu yang tertular kuman
+ini sebaiknya tidak dikonsumsi.
+
+mencolok adalah lesio pada bagian mulut dan kuku.
+Hewan dari daerah terinfeksi dilarang untuk
+ditransportasikan ke daerah lain yang masih bebas.
+Karkas masih dapat dikonsumsi dengan pengawasan
+setelah bagian-bagian kepala, jeroan dan kaki yang
+terserang penyakit dibuang atau direbus. Pencegahan
+penyakit dapat dilakukan dengan vaksinasi.
+
+Penyakit radang paha
+Penyakit ini disebabkan oleh kuman Clostridium
+chauvoei biasanya menyerang sapi dan domba.
+Penyakit bersifat akut dengan gejala klinis
+pembengkakan pada jaringan sub kutan terutama di
+bagian bahu dan paha yang bila ditekan terasa seperti
+ada gas atau udara yang berpindah-pindah. Pada
+pemeriksaan pasca mati terlihat adanya zat berupa
+gelatin berwarna kuning, terlihat perdarahan dan
+adanya gas atau udara. Otot berwarna merah kehitaman
+dan oedematous pada sekitar daerah yang membengkak
+dengan tempat udara di bagian tengahnya. Karkas dari
+hewan yang terserang penyakit ini tidak boleh
+dikonsumsi atau dipasarkan. Pencegahan dapat
+dilakukan dengan vaksinasi.
+
+Sistiserkosis pada sapi
+Penyakit ini disebabkan oleh Cysticercus bovis
+yaitu cyste dari cacing dewasa Taenia saginata yang
+hidup di usus. Sistiserkosis ini bermukim di otot
+terutama bagian rahang, jantung, diaphragma dan otototot lainnya. Di dalam otot, sistiserkosis ini dibungkus
+oleh kapsula berupa jaringan ikat, sehingga dapat hidup
+sampai lebih dari 5 tahun. Bila infestasi parasit tidak
+terlalu banyak, maka otot-otot yang terkena saja yang
+dibuang, sedangkan bagian lainnya dapat dikonsumsi.
+Bila cyste cukup banyak sebaiknya karkas direbus
+dahulu atau tidak dikonsumsi. Kasus sistiserkosis
+terjadi di Bali yaitu dari 6 kasus yang dilaporkan 2
+kasus diantaranya terjadi di Denpasar (SUTISNA, 1994).
+Prevalensi taenasis di daerah Padang Sambian adalah
+3,2% (ROSIDI et al., 1981 ).
+
+Penyakit mulut dan kuku
+Agen penyebab penyakit mulut dan kuku adalah
+virus dengan berbagai tipe. Penyakit ini menyerang
+ternak berkuku genap termasuk sapi. Gejala klinis yang
+Tabel 1. Jumlah kasus BSE yang dilaporkan pada 20 Negara
+Negara
+
+Tahun
+1989
+
+1990
+
+1991
+
+1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+Austria
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2001
+1
+
+Balgia
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+6
+
+3
+
+9
+
+46
+
+Czech Rer.
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+46
+
+Denmark
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+6
+
+Finlandia
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+Perancis
+
+0
+
+5
+
+0
+
+1
+
+4
+
+3
+
+12
+
+6
+
+18
+
+31
+
+161
+
+285
+
+Jerman
+
+0
+
+0
+
+0
+
+1
+
+0
+
+3
+
+0
+
+0
+
+2
+
+0
+
+0
+
+7
+
+125
+
+Yunani
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+Irlandia
+
+15
+
+14
+
+17
+
+18
+
+16
+
+19
+
+16
+
+73
+
+80
+
+83
+
+91
+
+149
+
+220
+
+Italia
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+48
+
+Jepang
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+3
+
+Liechtenstein
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+Luxembourg
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+Belanda
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+2
+
+2
+
+2
+
+17
+
+Portugal
+
+0
+
+1
+
+1
+
+1
+
+3
+
+12
+
+14
+
+29
+
+30
+
+106
+
+170
+
+163
+
+67
+
+Slovakia
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+4
+
+Spanyol
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+82
+
+Swiss
+
+0
+
+2
+
+8
+
+15
+
+29
+
+64
+
+68
+
+45
+
+38
+
+14
+
+50
+
+33
+
+37
+
+Inggris
+
+7226
+
+14407
+
+25359
+
+37280
+
+35090
+
+24436
+
+14562
+
+8149
+
+4393
+
+3235
+
+2300
+
+1443
+
+526
+
+53
+
+SJAMSJUL BAHRI et al.: Keamanan Pangan Asal Ternak: Suatu Tuntutan di Era Perdagangan Bebas
+
+Penyakit
+Pangan
+
+Bakterial
+
+Yang
+
+Ditularkan
+
+Melalui
+
+Penyebab utama penyakit pada manusia yang
+ditularkan melalui pangan adalah bakteri atau yang
+disebut microbial food borne disease. Penularan
+penyakit dapat terjadi karena beberapa faktor
+(ANONIMOUS, 1995), yaitu:
+a.
+b.
+c.
+d.
+e.
+
+Terdapat agen penyebab pada saat pengolahan
+makanan yang ditularkan melalui bahan makanan,
+pekerja atau hewan.
+Kontaminasi silang melalui tangan, permukaan
+peralatan atau pakaian.
+Adanya makanan atau pangan yang berperan
+sebagai media perantara.
+Penyimpanan makanan atau pangan pada suhu
+ruangan lebih dari 2 jam.
+Adanya manusia sebagai subjek yang rentan.
+
+Kejadian penyakit ini dapat timbul melalui infeksi
+oleh bakterinya sendiri atau melalui intoksikasi oleh
+toksin yang dihasilkan bakteri yang bersangkutan.
+Beberapa penyakit bakterial yang dapat ditularkan
+melalui pangan yaitu:
+
+pengeringan, terutama dalam bentuk spora. Sumber
+penularan adalah kotoran manusia maupun hewan yang
+mencemari air dan tanah serta tanaman. Kontaminasi
+dapat terjadi melalui air dan serangga yang langsung
+kontak pada daging. Keracunan pada manusia terjadi
+akibat toksin yang dihasilkan oleh mikroba bentuk
+vegetatif yang hidup di dalam saluran pencernaan
+manusia yang terinfeksi.
+Intoksikasi Staphylococcus
+Agen penyebabnya adalah Staphylococcus aureus
+yang berbiak dalam bahan pangan dan menghasilkan
+toksin. Penyakit menimbulkan gejala sakit berupa
+mual, muntah dan diare. Sumber pencemar S. aureus
+adalah selaput lendir hidung dan kulit hewan maupun
+manusia yang sewaktu-waktu dapat mencemari bahan
+pangan karena tindakan yang tidak hygienis.
+Campylobacteriosis
+Agen penyebabnya adalah Campylobacter jejuni
+yang menimbulkan gejala sakit berupa demam, sakit
+kepala, pegal linu, diare, sakit perut dan mual. Kuman
+ini dapat ditemukan pada daging segar atau daging
+setengah masak.
+
+Salmonellosis
+Agen penyebabnya adalah Salmonella sp. yang
+terdiri dari banyak serotipe. Sumber penularan berasal
+dari kotoran manusia maupun hewan dan air yang
+terkontaminasi oleh limbah tersebut. Kuman ini sering
+ditemukan dalam bahan makanan asal hewan seperti
+daging termasuk daging sapi, daging unggas dan telur.
+Salmonellosis merupakan penyakit yang terdapat
+hampir di seluruh dunia. Penyakit ditularkan dari
+hewan kepada manusia melalui makanan yang
+terkontaminasi oleh kuman salmonella tersebut.
+Salmonella typhimurium merupakan spesies yang
+paling banyak ditemukan pada manusia maupun hewan
+demikian juga Salmonella enteritidis. Hewan yang
+positif salmonella akan menjadi sumber kontaminasi di
+lingkungan sekitarnya. Kontaminasi dapat terjadi
+selama transportasi, di tempat pemotongan hewan,
+dalam prosesing, dan pada saat distribusi produk ternak
+tersebut. Daging atau produk ternak lain yang diketahui
+telah tercemar oleh salmonella tidak dianjurkan untuk
+dikonsumsi. Pencegahan dapat dilakukan dengan
+tindakan hygienis. Dari 480 sampel intestin kambing
+dan domba dari Rumah Potong Hewan (RPH) Bogor
+dan DKI, didapatkan 15 isolat, sedangkan dari 61
+sampel karkas didapatkan 1 isolat (SRI POERNOMO, 1986).
+Enteritis Clostridium perfringens
+Bakteri ini bersifat anaerobik, dapat ditemukan
+dalam bentuk vegetatif atau bentuk spora. Bakteri
+relatif tahan terhadap proses pemanasan dan
+
+54
+
+Hemorrhagic Colitis
+Penyakit ini disebabkan oleh Escherichia coli
+serotipe O157:H7 yang banyak dijumpai di air yang
+terkontaminasi oleh kotoran manusia. Kuman ini
+memproduksi toksin yang menyebabkan Hemorrhagic
+Colitis. Daging mentah dapat tercemar oleh kuman ini.
+Gejala sakit berupa kejang perut, diare kadang kala
+berdarah, mual, muntah, serta ada kalanya disertai
+demam yang ringan. Pada umumnya proses penularan
+dan pencemaran bakterial ke dalam daging terjadi pada
+waktu proses pasca produksi berlangsung yaitu mulai
+saat pemotongan, pengulitan, pengeluaran jeroan
+sampai dengan proses pengangkutan dan pemasaran
+kepada konsurnen. Hal tersebut terjadi terutama bila
+prosedur-prosedur hygienis diabaikan.
+Cemaran (kontaminan) kimiawi dan bahan toksik
+lainnya
+Daging, susu dan telur sebagai bahan pangan
+selain dapat tercemar oleh mikroorganisme, juga dapat
+tercemar/terkontaminasi oleh berbagai obat-obatan,
+senyawa kimia dan toksin baik pada waktu proses
+praproduksi maupun pada saat proses produksi sedang
+berlangsung.
+Cemaran atau residu obat
+Residu obat seperti antibiotika dapat dijumpai di
+dalam daging apabila pemakaian obat-obatan hewan
+
+WARTAZOA Vol. 12 No. 2 Th. 2002
+
+tidak sesuai dengan petunjuk yang diberikan, misalnya
+waktu henti obat tidak dipatuhi menjelang hewan akan
+dipotong. Demikian juga dengan penggunaan obatobatan untuk pemacu pertumbuhan yang seharusnya
+dihentikan beberapa hari menjelang hewan akan
+dipotong. Residu obat-obat hewan ini umumnya terjadi
+sebagai akibat penggunaannya pada saat hewan dalam
+pemeliharaan, baik untuk tujuan pencegahan atau
+pengendalian penyakit maupun untuk memacu
+pertumbuhan atau meningkatkan efisiensi pakan, yang
+dapat diberikan melalui suntikan, air minum maupun
+melalui pakan.
+Keberadaan residu obat yang melewati batas
+maksimum residu yang telah ditetapkan, akan
+menyebabkan daging dan susu tersebut menjadi tidak
+aman untuk dikonsumsi karena dapat menimbulkan
+reaksi alergis, keracunan, resistensi mikroba tertentu
+atau mengakibatkan gangguan fisiologis pada manusia.
+Penilaian terhadap daging, susu dan telur tergantung
+dari derajat/kadar residu dan macam residu yang
+ditemukan pada produk asal ternak tersebut. Bila kadar
+residu obat berada di atas batas maksimum residu yang
+diperbolehkan, maka sebaiknya produk asal ternak
+tersebut tidak dikonsumsi apalagi untuk ekspor. Pada
+
+Tabel 2 memperlihatkan keberadaan residu obat hewan
+berupa antibiotika pada beberapa produk peternakan.
+Cemaran bahan-bahan kimia
+Adanya berbagai bahan kimia dapat ditemui di
+dalam daging, susu dan telur, baik yang didapat pada
+waktu proses pra-produksi maupun karena kontaminasi
+pada waktu proses produksi berlangsung. Bahan-bahan
+kimia yang diperoleh pada waktu ternak dipelihara
+antara lain berbagai mikotoksin seperti aflatoksin
+(Tabel 3) yang dapat mengkontaminasi pakan ternak,
+juga senyawa-senyawa toksik lainnya seperti pestisida
+(Tabel 4 dan 5) dan logam berat (Tabel 6) yang juga
+dapat mengkontaminasi pakan dan pada gilirannya
+akan tertimbun di dalam jaringan tubuh ternak yang
+mengkonsumsi pakan tersebut. Senyawa kimia
+terutama pestisida akan tertimbun di berbagai jaringan
+tubuh hewan seperti jaringan lemak dan hati, baik
+sebagai residu asal atau sebagai metabolit. Sementara
+itu bahan-bahan kimia yang diperoleh pada waktu
+proses produksi berlangsung biasanya akibat
+pemrosesan yang kurang higienis pada rantai
+pemrosesan tersebut.
+
+Tabel 2. Beberapa data residu antibiotika yang melampaui BMR pada produk ternak di Indonesia
+Jenis antibiotika
+
+Daging ayam (ppm)
+
+Telur (ppm)
+
+Hati Broiler (ppm)
+
+Susu Segar (ppm)
+
+Oksitetrasiklin
+Tetrasiklin
+Klortetrasiklin
+Sulfonamida*
+
+>0,1 (65/93)1
+>0,1 (28/93)1
+>0,1 (4/50)2
+
+>0,1 (19/19)2
+
+0,7085 (25/30)4
+-
+
+>0,1 (64/91)3
+>0,1 (5/91)3
+>0,2 (58/91)3
+-
+
+Sumber: 1. MURDIATI et al. (1998)
+2. DEWI et al. (1997)
+3. BAHRI et al. (1992)
+4. DARSONO (1996)
+
+Tabel 3. Residu aflatoksin pada produk ternak di Indonesia
+Komoditi
+Telur Ayam ras (Jabar-Jatim) (n=100)
+Telur Ayam buras (Jabar-Jatim) (n=30)
+Telur Itik (Jabar-Jatim) (n=20)
+Daging ayam Broiler (Jabar) (n=31)
+Hati ayam Broiler (Jabar) (n=31)
+Daging sapi (Jabar) (n=30)
+Hati sapi (Jabar) (n=20)
+Susu (Jabar) (n=12)
+
+AFB1 (ng/g)
+
+AFM1 (ng/g)
+
+Sumber
+
+<0,01-0,1
+0-0,1
+Tt-0,37
+Tt-0,012 (0,002)*
+0,001-0,019 (0,007)*
+0,456-1,139
+0,33-1,44
+-
+
+Tt-0,123
+Tt-1,07
+Tt-1,50
+0,45-65,46 (7,364)*
+0,67-33,67 (12,072)*
+<0,1*
+<0,1*
+0,045-0,18 ng/ml
+
+2
+2
+2
+3
+3
+4
+4
+1
+
+Sumber: 1. BAHRI et al. (1994)
+2. MARYAM et al. (1994)
+3. MARYAM (1996)
+4. WIDIASTUTI et al. (2000)
+
+55
+
+SJAMSJUL BAHRI et al.: Keamanan Pangan Asal Ternak: Suatu Tuntutan di Era Perdagangan Bebas
+
+Tabel 4. Beberapa residu pestisida pada produk ternak di Indonesia
+Jenis pestisida
+
+Daging ayam1)
+(ppb)
+
+Daging sapi swalayan2)
+(ppb)
+
+Daging sapi pasar
+tradisional2) (ppb)
+
+Susu3)
+(ppb)
+
+Lindan
+Endosulfan
+Klorpirifos
+Ronel
+DDT & met
+Diazinon
+Heptaklor
+Aldrin
+
+0,02-10,76
+tt-101,44
+0,06-0,28
+0,08-0,54
+2,65-1,84
+0,72-4,39
+tt-26,29
+
+tt-6,50
+tt-1,75
+tt-0,15
+tt-0,27
+tt-0,36
+tt-1,08
+-
+
+tt-0,842
+tt-0,042
+tt-0,11
+tt-0,054
+tt-0,09
+tt-0,88
+tt-0,076
+
+0,0001-0,293
+0,176-0,256
+0,002-0,029
+0,011-0,35
+-
+
+Sumber: 1).MURDIATI, et al. (1998)
+2) WIDIASTUTI, et al. (1999)
+3) INDRANINGSIH, et al. (1999)
+
+Tabel 5. Cemaran residu pestisida pada telur (ppm)
+Jenis telur
+
+Endosulfan
+
+Lindan
+
+DDT
+
+Aldrin
+
+Diazinon
+
+Ronel
+
+Telur itik (63)
+Telur ayam ras (60)
+Telur ayam buras (60)
+Telur Puyuh (10)
+
+0,001-0,008
+0,001-0,073
+0,001-0,263
+-
+
+0,001-0,0107
+0,001-0,063
+0,001-0,005
+tt-0,067
+
+0,001-0,564
+0,109-0,205
+0,002-0,894
+0,052-0,527
+
+0,001-0,005
+-
+
+0,008-0,305
+0,001-0,999
+-
+
+0,001-0,15
+-
+
+Sumber: INDRANINGSIH, et al. (1988)
+
+Tabel 6. Beberapa data residu logam berat pada telur dan daging sapi di Jawa (ppm)
+Produk ternak dan asalnya
+
+Cd
+
+Cu
+
+Zn
+
+Pb
+
+Sumber
+
+Telur ayam (Sukabumi)
+Telur ayam (Tangerang)
+Daging sapi (RPH-Jabar)
+Daging sapi (RPH-Jatim)
+
+0,0274-0,0763 (n=30)
+
+-
+
+-
+
+-
+
+2
+
+0,0298-0,2675 (n=30)
+
+-
+
+-
+
+-
+
+2
+
+0,1-0,5 (n=57)
+
+0,7-6,3 (n=64)
+
+69-281 (n=64)
+
+2,2-6,2 (n=64)
+
+1
+
+0,14-0,36 (n=41)
+
+0,79-4,89 (n=41)
+
+66-220 (n=31)
+
+1,28-3,28 (n=41)
+
+1
+
+Sumber: 1. DARMONO (1998)
+2. RACHMAWATI et al.(1998)
+
+Pencemaran Dioksin pada produk asal ternak
+Cemaran kimia pada produk asal ternak yang
+cukup menghebohkan terjadi pada tahun 1999, yaitu
+pada kasus pencemaran dioksin di Belgia dimana pada
+pengujian telur ayam mengandung 265-773 pg/g
+lemak, pada daging ayam potong mengandung 536
+pg/g, sedangkan dioksin pada daging babi mengandung
+1 pg/g lemak. Batas ambang maksimal kandungan
+dioksin adalah 1 pg/g lemak (PUTRO, 1999). Akibatnya
+pada pertengahan tahun 1999 untuk sementara Belgia
+dilarang memasarkan (antar negara atau ekspor) semua
+daging babi, daging sapi, susu dan produk olahannya,
+daging ayam dan semua produk sampingannya,
+khususnya yang berasal dari ternak-ternak yang
+
+56
+
+dipelihara antara tanggal 25 Januari 1999 sampai
+dengan 1 Juni 1999. Selain itu semua daging ayam dan
+produk-produk daging maupun susu yang diproduksi di
+Belgia telah ditarik dari peredaran dan dimusnahkan.
+Kasus pencemaran dioksin ini telah menimbulkan
+ketakutan (food scare) di kalangan konsumen apalagi
+penyebaran pakan ternak yang terkontaminasi oleh
+dioksin tersebut telah meluas ke empat negara eropa
+(Belgia, Belanda, Perancis dan Jerman).
+Dioksin bukanlah senyawa pestisida, tetapi
+terbentuk sebagai hasil samping dari proses pembuatan
+pestisida (herbisida) yang lebih berbahaya dari pada
+pestisidanya sendiri. Senyawa dioksin ini sangat toksik
+bersifat karsinogenik, dosis toksiknya sangat rendah.
+
+WARTAZOA Vol. 12 No. 2 Th. 2002
+
+BEBERAPA KASUS CEMARAN PANGAN ASAL
+TERNAK DI INDONESIA
+Sebagaimana telah diungkapkan pada Bab
+sebelumnya bahwa cemaran pada pangan asal ternak
+dapat berasal dari cemaran mikrobiologis, cemaran
+toksin alami, cemaran obat dan cemaran bahan kimia
+lainnya. Pada kesempatan ini dilaporkan beberapa
+kasus cemaran pangan asal ternak yang terjadi di
+Indonesia.
+Cemaran Mikrobiologis
+Antraks
+Cemaran daging oleh kuman antraks di Indonesia
+terjadi akibat ternak terserang penyakit antraks pada
+proses pra-produksi di tingkat peternak. Umumnya
+manusia terkena antraks oleh karena mengkonsumsi
+produk ternak yang tertular antraks tersebut maupun
+
+akibat berhubungan (kontak langsung) dengan agen
+penyakitnya pada saat ternak terkena antraks. Kasus
+antraks pada ternak di Indonesia dapat dilihat pada
+Tabel 7. Sementara itu beberapa kasus antraks pada
+manusia di Indonesia dapat dilihat pada Tabel 8.
+Cemaran Salmonella
+Hasil pengamatan selama 7 tahun (1989-1997)
+terhadap cemaran berbagai serotipe kuman salmonella
+pada produk-produk asal ternak di Indonesia cukup
+memprihatinkan karena jumlah kuman salmonella yang
+dapat di isolasi cukup banyak sehingga potensial untuk
+mengganggu kesehatan masyarakat (lihat Tabel 9).
+Lebih-lebih lagi apabila produk ternak tersebut akan
+memasuki pasar global. Data ini menunjukkan bahwa
+sanitasi di tingkat produsen dan pengolah produk asal
+ternak belum memadai dan perlu ditingkatkan agar
+produk tersebut mempunyai daya saing yang tinggi.
+
+Tabel 7. Beberapa kasus antraks pada ternak di Indonesia
+Daerah Kasus
+
+Tahun Kejadian (jumlah kasus)
+
+Sumber
+
+1885 (*)
+
+1, 2
+
+1885 (*); 1910 (*)
+
+1, 2
+
+Bali
+Sumatera Selatan
+Lampung
+
+1885 (*)
+
+1, 2
+
+Jawa Barat
+
+1885(*);1916;1937;1941;1955;1956;1960 (*) 19701986(109 ekor); 1999/2000
+
+1, 2, 3
+
+Sumatera Barat
+
+1885(*);1914;1927/28
+
+1, 2
+
+Kalimantan Timur
+
+1885(*)
+
+1, 2
+
+Kalimantan Barat
+
+1885(*)
+
+1, 2
+
+NTT
+
+1885(*)
+
+1, 2
+
+1899(*);1900;1990-1994 (+ 1300 ekor sapi)
+
+1, 2, 3
+
+1910 (*)
+
+1, 2
+
+Jawa Tengah
+Jambi
+Bengkulu
+
+1914(*)
+
+1, 2
+
+Sumatera Utara
+
+1930(*)
+
+1, 2
+
+Sulawesi Selatan
+
+1930(*)
+
+1, 2
+
+Sulawesi Tenggara
+
+1931/32(*)
+
+1, 2
+
+Irian Jaya
+
+1983(*)
+
+4
+
+Nusa Tenggara Timur
+
+1996(*)
+
+5
+
+Keterangan: *Jumlah kasus tidak tercatat secara tepat
+1. SOEMANEGARA (1958)
+2. MANSJOER (1961)
+3. MARTINDAH et al. (1995)
+4. RONOHARDJO et al. (1984)
+5. POERWADIKARTA et al. (1996)
+
+57
+
+SJAMSJUL BAHRI et al.: Keamanan Pangan Asal Ternak: Suatu Tuntutan di Era Perdagangan Bebas
+
+Tabel 8. Beberapa Kasus Antraks pada manusia di Indonesia
+Daerah Kejadian
+
+Tahun Kejadian (jumlah kasus)
+
+Purwakarta, Jabar
+P.Rote-NTT
+Kalaka, Kendari Sultra
+Kendari Sultra
+Kendari Sultra
+Kendari Sultra
+Purwakarta – Jabar
+Karawang – Jabar
+Bekasi – Jabar
+Semarang – Jateng
+Boyolali – Jateng
+Kudus – Jateng
+Kab. Ngada –NTT
+Purwakarta – Jabar
+
+1992 (*)
+1922(*)
+1932 (*)
+1969 (80 Orang)
+1973 (7 orang)
+1977 (240 orang)
+1975-1994 (30 orang)
+1983-1985 (36 orang)
+1983-1985 (47 orang)
+1990-1993 (71 orang)
+1990-1993 (54 orang)
+1994 (1 orang)
+1996 (24 Orang)
+1999-200 (>20 orang)
+
+Sumber
+1
+1
+2
+1,6
+1,6
+6
+3
+3
+3
+3
+3
+3
+4
+5
+
+Keterangan: *Jumlah Kasus tidak tercatat secara tepat
+1. SOEPARWI (1922)
+2. MANSJOER (1961)
+3. MARTINDAH et al. (1995)
+4. POERWADIKARTA et al. (1996)
+5. WIDARSO et al. (2000)
+6. SUPARTUA (1984)
+
+Cemaran Kimiawi
+Cemaran kimiawi pada produk peternakan seperti
+daging, susu dan telur dapat terjadi akibat adanya
+penggunaan obat-obatan, penggunaan bahan aditif dan
+cemaran senyawa kimia dan toksin pada pakan. Hal ini
+dapat terjadi baik pada waktu proses praproduksi
+maupun pada saat proses produksi sedang berlangsung.
+Cemaran atau residu obat
+Dari data yang diperoleh berdasarkan survei yang
+telah dilakukan, terlihat bahwa produk peternakan
+seperti daging, telur, dan susu ditemukan adanya residu
+obat seperti antibiotika golongan tetrasiklin dan
+sulfonamida (Tabel 2). Umumnya golongan tetrasiklin
+lebih banyak ditemukan dengan kandungan yang cukup
+tinggi. Keberadaan residu obat yang melewati batas
+
+maksimum residu yang telah ditetapkan, akan
+menyebabkan daging dan susu tersebut menjadi tidak
+aman untuk dikonsumsi karena dapat menimbulkan
+reaksi alergis, keracunan, resistensi mikroba tertentu
+atau mengakibatkan gangguan fisiologis pada manusia.
+Cemaran bahan-bahan kimia
+Berdasarkan survei terhadap produk peternakan
+(daging, susu dan telur) cemaran kimiawi lainnya
+berupa cemaran pestisida, logam berat dan aflatoksin
+juga ditemukan pada produk-produk tersebut (Tabel 3,
+4, 5 dan 6). Hal ini disebabkan oleh adanya cemaran
+pada pakan ternak, sehingga menyebabkan adanya
+residu pada produk ternak. Cemaran ini dapat terjadi
+pada waktu proses pra-produksi maupun karena
+kontaminasi pada waktu proses produksi berlangsung.
+
+Tabel 9. Cemaran Salmonella spp pada beberapa spesimen komoditas ternak di Indonesia pada tahun 1989-1996
+Jumlah kasus
+
+Komoditas ternak
+Ayam
+Itik
+Telur
+Babi
+Sapi
+
+89/90
+
+90/91
+
+91/92
+
+92/93
+
+93/94
+
+94/95
+
+95/96
+
+49
+1
+69
+28
+
+56
+30
+-
+
+73
+46
+20
+4
+
+131
+49
+85
+21
+
+75
+33
+70
+6
+
+239
+50
+-
+
+205
+55
+13
+26
+-
+
+Sumber: SRI POERNOMO dan BAHRI (1998)
+
+58
+
+Total
+828
+233
+219
+95
+59
+
+WARTAZOA Vol. 12 No. 2 Th. 2002
+
+DAMPAK NEGATIF CEMARAN PANGAN
+ASAL TERNAK
+Pengaruhnya Terhadap Perdagangan Domestik dan
+Global
+Dampak negatif terbesar yang berupa kerugian
+ekonomi dari cemaran pangan asal ternak adalah
+berupa hambatan atau penolakan terhadap berbagai
+komoditas produk ternak oleh negara pengimpor. Hal
+seperti ini telah terjadi pada kasus penyakit Sapi Gila
+(Mad Cow) atau BSE dimana Pemerintah Inggris
+mengalami kerugian jutaan Pound Sterling karena
+ratusan ribu ekor sapi di Inggris harus dimusnahkan
+dalam rangka memberantas penyakit tersebut. Selain
+itu Inggris juga kehilangan pasar luar negerinya
+(ekspornya) yang telah diraih sebelumnya. Kerugian
+lainnya berupa efek multiplier yang diakibatkannya,
+terutama terhadap permasalahan sosial ekonomi di
+dalam negerinya. Kerugian semacam ini dengan skala
+yang lebih ringan juga terjadi pada wabah penyakit
+PMK di beberapa negara di Eropa termasuk Inggris
+pada awal tahun 2001, dan beberapa negara Amerika
+Latin (Argentina dan Brasil), serta beberapa negara
+Asia seperti Cina, Korea, Taiwan dan Malaysia. Kasus
+lain yang juga menimbulkan kerugian Pemerintah
+Inggris adalah akibat terjadinya cemaran kuman Salmonella
+pada telur di Inggris beberapa tahun yang lalu.
+Pada kasus cemaran Dioksin pada produk ternak
+berupa daging, telur dan susu serta produk olahannya
+asal Belgia dan beberapa negara Eropa lainnya (seperti
+Belanda), maka Belgia telah menderita kerugian yang
+cukup signifikan. Hal ini dikarenakan Belgia harus
+menarik produk-produk yang tercemar tersebut, serta
+mengganti kerugian yang diakibatkannya. Selain itu
+juga dikenakan larangan untuk mengekspor produkproduk peternakan dalam waktu yang cukup lama.
+Baru-baru ini pada awal tahun 1999 Malaysia
+mengalami kerugian yang mencapai jutaan dollar
+Amerika akibat terjadinya wabah penyakit “virus
+Nipah” yang menyerang ternak babi dan Manusia.
+Kerugian terjadi karena sekitar satu juta ekor babi di
+Malaysia harus dimusnahkan dalam upaya mengatasi
+(memberantas) penyakit tersebut. Sementara itu
+kerugian lain yang lebih besar adalah berupa penutupan
+ekspor babi ke Singapura dimana sebelumnya Malaysia
+merupakan pemasok daging babi utama bagi
+Singapura, yaitu sekitar 80% keperluan daging babi
+Singapura berasal dari Malaysia. Demikian juga
+dengan
+kerugian-kerugian
+lainnya
+berupa
+permasalahan sosial ekonomi di dalam negerinya
+sebagai akibat dari efek multiplier dari kasus wabah
+tersebut.
+Pada kasus penyakit Antraks yang menyerang
+ternak kambing/domba dan Manusia di Kabupaten
+Bogor pada awal tahun 2001 telah menyebabkan
+
+terganggunya pasar lokal kambing/domba di wilayah
+Jabotabek. Kelesuan pasar tersebut terutama terjadi
+pada menjelang hari raya kurban, sehingga sempat
+meresahkan sejumlah pedagang kambing/domba dan
+sapi di wilayah Jabotabek.
+Dampak Terhadap Kesehatan Manusia
+Pada kasus Penyakit Sapi Gila (BSE) di Inggris
+dan beberapa negara Eropa lainnya telah menyebabkan
+kematian sejumlah orang. Dikhawatirkan hal ini masih
+akan terus berlangsung karena masa inkubasi dari
+penyakit ini baru akan terlihat setelah lebih dari 5 tahun.
+Hal demikian telah menimbulkan keresahan dikalangan
+masyarakat Eropa, terutama masyarakat Inggris.
+Pada kasus wabah penyakit “virus Nipah” di
+Malaysia (antara tahun 1998 – 1999) telah terjadi
+kematian lebih dari 100 orang yang umumnya bekerja
+atau berhubungan dengan ternak babi yang terinfeksi
+penyakit tersebut. Penyakit ini sangat fatal, menular
+langsung melalui kontak dengan bagian-bagian tubuh
+babi yang tertular.
+Pengaruh terhadap kesehatan manusia yang
+mengkonsumsi daging burung unta yang terinfeksi
+kuman Antraks telah terjadi pada lebih dari 20 orang di
+Kabupaten Purwakarta pada tahun 1999 – 2000.
+Demikian juga kematian beberapa orang di Kabupaten
+Bogor pada akhir tahun 2000 dan awal tahun 2001
+diduga kuat sebagai akibat mengkonsumsi daging
+kambing/domba yang terserang penyakit Antraks.
+Dampak Terhadap Aspek Sosial Politik
+Pada kasus telur yang tercemar Salmonella di
+Inggris di akhir tahun sembilan puluhan telah
+menimbulkan protes keras masyarakat kepada
+Pemerintah Inggris. Kejadian tersebut telah berakibat
+kepada pengunduran diri pejabat teras Inggris yang
+bertanggung jawab terhadap permasalahan tersebut.
+Demikian juga pada kasus cemaran dioksin pada
+produk ternak di Belgia berdampak kepada
+pengunduran diri Menteri Pertanian Belgia.
+Pada kejadian wabah penyakit “virus Nipah” di
+Malaysia sempat menimbulkan kepanikan masyarakat
+disekitar wabah, sehingga terjadi pengungsian besarbesaran dari keluarga yang bermukim di sekitar
+peternakan babi yang terserang wabah tersebut. Hal ini
+juga mengakibatkan terjadinya keresahan dari
+masyarakat luas di Malaysia karena wabah tersebut
+berlangsung cukup lama.
+Pada kasus Antraks yang menyerang burung unta
+di Purwakarta (1999 − 2000) dan wabah Antraks pada
+domba/kambing di Kabupaten Bogor (2000 − 2001)
+telah menimbulkan berbagai keresahan di masyarakat
+setempat. Kejadian ini sempat menimbulkan berbagai
+polemik yang cukup berkepanjangan diantara birokrat,
+
+59
+
+SJAMSJUL BAHRI , et al.: Keamanan Pangan Asal Ternak: Suatu Tuntutan di Era Perdagangan Bebas
+
+pengusaha dan masyarakat. Bahkan media massa ikutikutan memanfaatkannya sebagai berita utama yang
+menambah hangatnya suasana polemik tersebut.
+Dampak lain yang ditanggung Pemerintah, Industri
+dan Masyarakat
+Dampak negatif lain akibat cemaran pangan asal
+ternak adalah berupa: (1) biaya perawatan korban yang
+ditanggung pemerintah maupun masyarakat; (2) pihak
+Industri atau pengusaha mengalami penurunan
+produksi, bahkan pada kasus Antraks pada burung unta
+di Purwakarta telah menyebabkan tutupnya usaha
+peternakan tersebut; (3) kerugian masyarakat peternak
+atau Pengusaha akibat kematian ternaknya dalam
+jumlah besar baik akibat penyakit maupun akibat
+pemusnahan (stamping out); (4) menurunnya
+produktivitas manusia yang terserang penyakit tersebut;
+dan (5) kehilangan jiwa atau kematian.
+UPAYA-UPAYA PENGAMANAN PANGAN
+ASAL TERNAK
+Peraturan-peraturan Pendukung
+Untuk lebih menjamin bahwa daging sapi yang
+akan dikonsumsi oleh masyarakat benar-benar aman
+dan memenuhi persyaratan hygienis serta halal, maka
+pemerintah perlu mengaturnya baik dalam bentuk
+Undang-undang, Peraturan Pemerintah, Keputusan
+Presiden, Keputusan Menteri, Keputusan Dirjen atau
+aparat-aparat pemerintah lainnya yang ditunjuk
+mempunyai wewenang untuk itu. Di bawah ini
+disajikan peraturan-peraturan penting yang berkaitan
+dengan upaya-upaya penyediaan daging sapi maupun
+produk ternak lainnya yang bermutu, aman dan halal
+untuk dikonsumsi masyarakat maupun untuk ekspor.
+a). Undang-undang No. 6 tahun I967, tentang
+ketentuan-ketentuan pokok peternakan dan
+kesehatan hewan.
+b). Peraturan Pemerintah No. 22 tahun 1983, tentang
+kesehatan masyarakat vetenner.
+c). Keputusan Menteri Pertanian No. 555 tahun 1986,
+tentang syarat-syarat RPH dan Usaha Pemotongan
+Hewan.
+d). Peraturan Pemerintah R.I. No. 15 tahun 1991,
+tentang Standar Nasional Indonesia.
+e). Keputusan Presiden No. 12 tahun 1991, tentang
+Penyusunan, Penerapan dan Pengawasan Standar
+Nasional Indonesia.
+f). Peraturan Pemerintah R.I. No. 78 tahun 1992,
+tentang Obat Hewan.
+g). Keputusan Ketua Dewan Standarisasi Nasional
+No. 0l8/IV.2.06/H.K.01.04/ 5/92, tentang Sistem
+Standarisasi Nasional.
+
+60
+
+h). Keputusan Menteri Pertanian No. 413 tahun 1992,
+tentang pemotongan hewan potong dan
+pengamanan daging serta hasil ikutannya.
+i). Keputusan Menteri Pertanian No.303/Kpts/0T.201/4/94,
+tentang
+kebijaksanaan
+dalam
+pembinaan,
+pengolahan dan pemasaran hasil pertanian melalui
+standarisasi, sertifikasi dan akreditasi melalui
+sistem standarisasi pertanian.
+j). Keputusan Menteri Pertanian No. 466 tahun 1994,
+tentang loka penguji mutu produk peternakan.
+k). Undang Undang No. 7 tahun 1996, tentang
+pangan.
+l). SNI 01-6-6160-1999 tentang RPU (Rumah
+Pemotongan Unggas)
+
+m). SNI 01-6366-2000 tentang Batas Cemaran Mikroba
+dan BMR dalam bahan makanan asal hewan.
+Masih banyak lagi peraturan lainnya yang
+berkaitan dengan keamanan pangan termasuk daging,
+telur dan susu.
+Pengamanan Daging Impor
+Pengawasan daging impor diatur oleh Surat
+Keputusan Menteri Pertanian. Pengawasan dimulai
+sejak bahan tersebut masih berada di negara asalnya
+sampai dipasarkan di wilayah Indonesia. Beberapa
+persyaratannya, antara lain adalah:
+Penilaian terhadap negara asal
+Penilaian terhadap negara asal adalah untuk
+menilai status penyakit hewan menular yang ada di
+negara tersebut. Penilaian juga dilakukan terhadap
+RPH yang dipergunakan dalam proses produksi dari
+daging tersebut, kualitas daging, cara pemotongan,
+pengemasan dan pengangkutannya. Termasuk juga
+jaminan sertifikat kesehatan hewannya, sertifikat halal
+dan dokumen-dokumen lain yang mendukung. Aspek
+lainnya yang dinilai yaitu adanya cemaran atau residu
+obat dan bahan kimia lainnya termasuk juga bahan
+pengawet.
+Pengawasan di pelabuhan
+Pengawasan daging yang masuk ke Indonesia
+melalui pelabuhan laut maupun udara ditangani oleh
+petugas karantina setempat. Dalam hal ini yang berhak
+membuka segel dan memeriksa daging tersebut adalah
+petugas karantina, terutama terhadap kelengkapan
+dokumen dan kondisi dari daging tersebut.
+Peredaran daging impor
+Peredaran daging impor di dalam negeri setelah
+diperbolehkan masuk oleh petugas karantina juga perlu
+diatur oleh pemerintah.
+
+WARTAZOA Vol. 12 No. 2 Th. 2002
+
+Pemeriksaan atau pemantauan daging impor ini
+meliputi kesehatan, kelayakan dan pengujian
+laboratoris secara berkala dengan metoda sampling
+acak yang mencakup importir, negara asal, jenis
+daging, merek dagang dan keterangan tempat
+pengambilan, apakah di penyimpanan, pengangkutan
+atau pemasaran.
+
+2.
+3.
+
+4.
+Penerapan
+Konsep
+HACCP
+Penyediaan Daging Sapi
+
+Pada
+
+Proses
+
+Hazard Analysis Critical Control Point (HACCP)
+merupakan suatu sistem keamanan pangan yang
+berperan sebagai tindakan preventif yang efektif untuk
+menjamin keamanan pangan. Konsep HACCP ini dapat
+diterapkan pada seluruh mata rantai produksi makanan.
+Meskipun aplikasi HACCP pada umumnya dilakukan
+di dalam industri pengolahan pangan, tetapi pada
+prinsipnya dapat dilakukan mulai dari produksi bahan
+baku sampai pemasaran dan distribusi (FARDIAZ,
+1996). Pada tiap-tiap mata rantai pangan dilakukan
+analisis yang seksama terhadap aliran proses untuk
+menentukan tingkat bahaya dan titik pengendalian
+kritis atau Critical Control Point (CCP).
+HACCP adalah suatu sistem jaminan mutu dan
+keamanan yang didasarkan pada anggapan bahwa
+bahaya dapat timbul pada berbagai titik dalam setiap
+tahap produksi, dan bahaya tersebut sebetulnya dapat
+dikendalikan. Pengertian bahaya ini merupakan titik
+kerawanan terhadap pencemaran, baik yang bersifat
+mikrobiologi, kimia, maupun fisik yang sangat
+potensial dalam menimbulkan bahaya bagi kesehatan
+manusia. Dari titik kritis inilah tindak pengawasan
+dimulai, dengan tujuan untuk mengeliminasi,
+mencegah atau memperkecil sampai pada tingkat yang
+tidak membahayakan.
+Sebenarnya
+konsep
+HACCP
+ini
+telah
+diperkenalkan di Amerika Serikat pada tahun
+1971/1972, namun Codex Alimentarius Commission
+baru mengadopsi/menerapkan konsep ini untuk industri
+pangan pada tahun 1993. Di Indonesia sendiri beberapa
+perusahaan atau industri yang berkaitan dengan pangan
+telah menerapkan konsep HACCP seperti Rumah
+Pemotongan Ayam "Suri Chicken" (DAWANI, 1996),
+Charoen Pokphand (JOGYA, 1999), McDonald's
+Indonesia (NOVIA-RIO, 1996), dan P.T. Indofood
+Sukses Makmur (SILOWATI, I996).
+Pada pelaksanaan HACCP pada dasarnya terdapat
+7 prinsip yang perlu diperhatikan, yaitu:
+1.
+
+Mengidentifikasi hazard atau bahaya dan
+memperkirakan bahaya yang ditimbulkan (hazard
+analysis) pada mata rantai pangan serta
+menetapkan langkah-langkah pengendaliannya
+sampai pada tingkat yang tidak membahayakan.
+
+5.
+6.
+7.
+
+Penetapan titik pengendalian kritis (CCP) yang
+dibutuhkan untuk mengendalikan bahaya yang
+mungkin terjadi.
+Penetapan limit kritis yang harus dipenuhi untuk
+setiap CCP dengan menetapkan kriteria-kriteria
+atau persyaratan tertulis dan jelas sehingga mudah
+dimengerti oleh operator.
+Penetapan prosedur untuk memantau atau
+memonitor setiap CCP sehingga diketahui apakah
+pengawasan pada setiap CCP telah dilaksanakan.
+Penetapan tindakan koreksi yang harus dilakukan
+jika terjadi penyimpangan selama pemantauan.
+Penetapan sistem pencatatan yang efektif yang
+merupakan dokumen penting program HACCP.
+Penetapan prosedur verifikasi untuk membuktikan
+bahwa sistem HACCP telah berhasil atau masih
+efektif.
+
+Selain 7 prinsip penting yang perlu diketahui pada
+penerapan HACCP, ada 12 langkah penting yang perlu
+dipahami pada waktu pelaksanaannya (operasional),
+yaitu:
+1.
+
+Pembentukan Tim HACCP yang terdiri dari staf
+dengan berbagai keahlian.
+2. Penjelasan produk secara lengkap termasuk
+komposisi pangan dan pendistribusiannya.
+3. Identifikasi sasaran pengguna makanan atau
+konsumen.
+4. Penetapan bagan alir yang menguraikan proses
+produksi.
+5. Penerapan, pemeriksaan bagan alir operasional.
+6. Identifikasi bahaya pada setiap mata rantai serta
+menentukan cara pencegahan dan pengawasannya.
+7. Penetapan dan identifikasi titik tindak pengawasan.
+8. Penetapan batas kritis CCP, yaitu batas toleransi
+yang harus dipenuhi untuk menjamin bahwa CCP
+secara efektif mengendalikan bahaya.
+9. Penetapan sistem monitoring/pemantauan untuk
+setiap CCP.
+10. Melakukan tindakan koreksi jika terjadi
+penyimpangan pada waktu monitoring.
+11. Recording/pencatatan dan dokumentasi program
+HACCP.
+12. Penetapan prosedur verifikasi program HACCP.
+Penerapan HACCP pada proses produksi daging
+di RPH atau di RPU untuk ayam perlu disertai dengan
+gambar Bagan Alir. Dari Bagan alir tersebut dapat
+ditentukan titik-titik kritis dari tiap-tiap mata rantai
+proses produksi. Juga dapat ditentukan resiko potensial
+yang diperkirakan akan terjadi pada tahap-tahap kritis
+tersebut. Dengan demikian tindakan pengawasan juga
+dapat ditetapkan untuk menanggulangi atau
+memperkecil terjadinya bahaya. Selanjutnya ditentukan
+prosedur atau langkah-langkah pengawasan dan
+
+61
+
+SJAMSJUL BAHRI , et al.: Keamanan Pangan Asal Ternak: Suatu Tuntutan di Era Perdagangan Bebas
+
+pencegahan agar tindak pengawasan dapat berjalan
+dengan efektif.
+Berdasarkan
+langkah-tangkah yang
+harus
+diterapkan pada konsep HACCP, maka proses
+selanjutnya adalah penetapan limit kritis seperti pada
+langkah kedelapan, yang dilanjutkan hingga langkah
+terakhir. Konsep HACCP ini juga dapat diterapkan
+untuk mendapatkan susu dan telur yang aman.
+Pengamanan dengan fokus pada proses praproduksi
+Oleh karena keamanan pangan dimulai pada saat
+ternak dipelihara di tingkat petenak/farm, maka
+keamanan dan kualitas ternak dan hasilnya (produknya)
+sangat tergantung pada keamanan dari pakan dan
+sumber-sumber pakan, air dan lingkungan sekitar
+ternak tersebut. Oleh karena itu produk ternak relatif
+telah aman apabila pada proses pra-produksi dilakukan
+hal-hal berikut: (1) pada proses pemeliharaan ini
+penyakit-penyakit ternak dikontrol dengan baik secara
+biologik dengan menghindari penggunaan bahan-bahan
+kimia/obat-obatan berbahaya secara berlebihan; (2)
+kemudian makanannya juga terkontrol, yaitu bebas dari
+cemaran mikrobiologis, kimia dan bahan-bahan
+berbahaya lainnya; (3) demikian juga dengan sumber
+air yang digunakan terkontrol bebas dari logam-logam
+berat berbahaya maupun mikroorganisme patogen; (4)
+petugas farm atau personel sebaiknya dibatasi, tidak
+setiap orang boleh ke luar masuk farm setiap saat,
+dengan maksud untuk menghindari stres pada ternak,
+juga mencegah penularan/kontaminasi penyakit dari
+petugas farm; dan (5) Sementara itu lingkungan
+termasuk tanah lokasi setempat telah diketahui bukan
+merupakan daerah wabah penyakit tertentu. Upayaupaya demikian akan menjamin keamanan dari ternak
+maupun produk ternak yang akan dihasilkan.
+KESIMPULAN DAN SARAN
+Dari berbagai uraian yang telah dikemukakan,
+terlihat bahwa keamanan pangan menjadi isu yang
+strategis pada perdagangan bebas dewasa ini karena
+menyangkut aspek komersial (perdagangan domestik
+dan global) dan aspek kesehatan manusia. Dampak dari
+ketidak amanan produk asal ternak akan
+mengakibatkan kerugian ekonomi (perdagangan
+terhambat), gangguan kesehatan manusia, dan aspek
+sosial politik yang luas. Dengan demikian keamanan
+pangan ternak merupakan tuntutan yang tidak dapat
+ditawar-tawar lagi pada abad ke 21 ini. Untuk
+mendapatkan pangan asal ternak yang aman maka di
+setiap mata rantai penyediaan pangan asal ternak harus
+diterapkan sistem jaminan mutu, yaitu GAP (Good
+Agricultural Practices), GHP (Good Handling
+
+62
+
+Practices), GMP (Good Manufacturing Practices),
+GDP (Good Distribution Practices) dan GRP (Good
+Retailing Practices).
+DAFTAR PUSTAKA
+ANONIMOUS. 1982. Laporan Lokakarya Peranan Protein
+dalam Pembangunan Bangsa Tim Protein - IPB.
+ANONIMOUS. 1995. Peningkatan Peranan Pemerintah Dalam
+Pengawasan Bahan Makanan Asal Hewan:
+Memperkenalkan Konsep HACCP. Manual Kesmavet
+No. 45/1995: 1-18.
+ANONIMOUS. 1999. Outbreak of Hendra-like Virus Malaysia
+and Singapore 1998-1999. Center for Disease
+Control and Prevention (CDC), April 9, 1999. 8(13):
+265-269.
+ANONIMOUS. 2000. Laporan Khusus: Kasus Anthrax Akibat
+Keteledoran Vaksinasi. Infovet. Ed. 067: 30-33.
+BAHRI, S., OHIM, dan R. MARYAM. 1994. Residu Aflatoksin
+M1 pada Air Susu Sapi dan Hubungannya Dengan
+Keberadaan Aflatoksin B1 pada Pakan Sapi. Dalam
+Kumpulan Makalah Lengkap Kongres Nasional
+Perhimpunan Mikologi Kedokteran Manusia dan
+Hewan Indonesia I dan Temu Ilmiah, Bogor, 21-24
+Juli 1994. P: 269-275.
+BAHRI, S., R. MARYAM., YUNINGSIH, dan T.B. MURDIATI.
+1992. Residu Tetrasiklin, Klortetrasiklin dan
+Oksitetrasiklin pada Susu Segar asal Beberapa DATI
+II di Jawa Tengah. Laporan Intern BALITVET
+kepada Dirjen Peternakan, DEPTAN (Tidak
+dipublikasi).
+DARMINTO dan S. BAHRI. 1996. “Mad Cow” dan Penyakit
+Sejenis Lainnya pada Hewan dan Manusia. Jurnal
+Penelitian Pengembangan Pertanian. 25 (4):81-89.
+DARMINTO, S. BAHRI, dan M. SAEFULLOH. 1999. Penyakitpenyakit Zoonosis Yang Berkaitan Dengan
+Encephalitis. Wartazoa. 9(1): 21-29.
+DARMONO. 1998. Konsentrasi Logam (Cu, Zn, Pd, Cd)
+Dalam Daging Sapi dan Hasil Olahannya. Prosiding
+Seminar Hasil-hasil Penelitian Veteriner. 18: 207212.
+DARSONO, R. 1996. Deteksi residu oksitetrasiklin dan
+gambaran patologi anatomi hati dan ginjal ayam
+kampung dan ayam broiler yang dijual di lima pasar
+Kodya Surabaya. Media Kedokteran Hewan. 12 (3):
+178-182.
+DAWANI, A. 1996. Penerapan HACCP di Rumah Pemotongan
+Ayam "Suri Chicken". Prosiding Seminar Sehari
+Pengawasan Hasi1 Peternakan Untuk Meningkatkan
+Daya Saing Pasar. Jakarta, 16 Januari 1996.
+DEWI, A.A.S., D.M.N. DHARMA, dan I. K.K. SUPARTIKA.
+1997. Survei Residu Obat Golongan Sulfonamida
+Pada Daging di Bali dan Mataram. Bulletin Veteriner.
+IX (47): 19-37.
+
+WARTAZOA Vol. 12 No. 2 Th. 2002
+
+DITJENNAK. 1995. Kebijakan Mengenai Keamanan dan
+Kualitas Daging Indonesia Manual Kesmavet: No.
+45/1995: 94-131.
+HARDJOUTOMO, S., M.B. POERWADIKARTA, dan E.
+MARTINDAH. 1995. Anthrax Pada Hewan dan
+Manusia di Indonesia. Prosiding Seminar Nasional
+Peternakan dan Veteriner. Cisarua Bogor, 7-8 Nopember
+1995. Pusat Penelitian dan Pengembangan Peternakan.
+P:302-318.
+INDRANINGSIH, R. MARYAM, R. MILTON, and R.B.
+MARSHALL. 1988. Organochlorine pesticide residues
+in bird eggs. Penyakit Hewan. Vol. XX(36): 98-100.
+INDRANINGSIH, R. WIDIASTUTI, YUNINGSIH, dan Z. ARIFIN.
+1999. Dampak pencemaran pestisida terhadap
+lingkungan dan produk peternakan di Jawa Barat.
+Prosiding Seminar Nasional Teknik Kesehatan
+Lingkungan. Bandung. Aula Barat Institut Teknologi
+Bandung. Oktober 1999. P: 231-238.
+MANSJOER, M. 1961. Anthrax in Man and Animals in
+Indonesia. Comm. Vet. Bogor. 5: 61-79.
+MARTINDAH, E., S. WAHYUWARDANI, dan A. NURHADI. 1995.
+Laporan Teknis Penelitian Tahun Anggaran
+1994/1995. Studi Retrospektif Antraks di Daerah
+Endemis (Jawa Tengah). Balai Penelitian Veteriner,
+Bogor.
+MARYAM, R. 1996. Residu aflatoksin dan metabolitnya dalam
+daging dan hati ayam. Prosiding Temu Ilmiah
+Nasional Bidang Veteriner, Bogor. 12-13 Maret 1996.
+p: 336-339.
+MARYAM, R., INDRANINGSIH, YUNINGSIH, T. B. SASTRAWAHANA,
+dan I. NOOR. 1994. Laporan survei penelitian residu
+aflatoksin dan pestisida pada bahan pangan asal
+ternak. Laporan Penelitian. Balai Penelitian
+Veteriner, Bogor.
+MURDIATI, T. B., INDRANINGSIH, dan S. BAHRI. 1998.
+Contamination of animal products by pesticides and
+antibiotics. In: Seeking Agricultural Produce Free of
+Pesticide Residues. ACIAR Proceedings No.85.
+Kennedy, I.R., J.H.Skerritt, G.I. Johnson, and E.
+Highley (eds).p: 115-121.
+NOVIA-RIO. 1996. Penerapan HACCP untuk Meningkatkan
+Profit Pada Industri Makanan. Prosiding Seminar
+Sehari Pengamanan Hasil Peternakan Untuk
+Meningkatkan Daya Saing Pasar. Jakarta, 16
+Januari 1996.
+POERWADIKARTA, M.B., S. HARDJOUTOMO, dan S. BAHRI.
+1996. Antraks di Kabupaten Ngada, Propinsi Nusa
+Tenggara Timur 1996: Peneguhan Diagnosis Antraks
+di Laboratorium Balitvet, Bogor. Makalah disajikan
+pada Rapat Teknis dan Pertemuan Ilmiah. Direktorat
+Bina Kesehatan Hewan, Yogyakarta, 20–21
+September 1996.
+PUTRO, S. 1999. Percemaran Dioksin Pada Daging Ayam di
+Belgia. Laporan Atase pertanian Indonesia di Belgia.
+
+RACHMAWATI, S., DARMONO, A. SAFUAN, dan Z. ARIFIN.
+1998. Hubungan Antara Kandungan Kadmium Dalam
+Pakan dan Telur Ayam Petelur. Prosiding Seminar
+Hasil-hasil Penelitian Veteriner. l8: 232-238.
+RONOHARDJO, P., C. KOESHARYONO. G. SIMANDJUNTAK, dan
+K. BARKAH. 1984. Penyakit Radang Limpa (Anthrax)
+Pada Babi di Kabupaten Paniai, Irian Jaya. Penyakit
+Hewan. 16 (28): 238-241.
+ROSIDI, R., C. KOESHARJONO. S.M. GINDO, C. HARDJONO, R.
+SAHLAN, dan S.S. MARGONO. 1981. Taenasis di Bali
+daerah trasnmigrasi Seputih Raman di Lampung
+Tengah dan Wudhi Agung di Sulawesi Utara pp: 379382. Kumpulan Makalah Seminar Parasitologi
+Nasional II. 24-27 Juni 1981.
+SILOWATI, S. 1996. Penerapan HACCP Pada Industri
+Pengolahan Makanan. Prosiding Seminar Sehari
+Pengamanan Hasi1 Peternakan Untuk Meningkatkan
+Daya Saing Pasar. Jakarta, 16 Januari 1996.
+SOEMARNEGARA, R. Md. T. 1958. Ichtisar Singkat dari
+Penyakit Radang Limpa, Penyakit Ngorok dan
+Radang Paha di Indonesia. Hemera Zoa 65: 95-109.
+SOEPARWI, M. 1922. Over een Miltvvuurruitbraak Bij
+Mensch en Dier. Ned. Ind. Bl. v. Diergeneesk. 33:163.
+SRI POERNOMO dan S. BAHRI. 1998. Salmonella Serotyping
+Conducted at the Bogor Research Institute for
+Veterinary Science during April 1989-March 1996.
+Proceedings of the Third Asia-Pacific Symposium on
+Thypoid Fever and Other Salmonellosis. Denpasar,
+Bali. December 8-10, 1997. p. 133-142.
+SUDRADJAT, S. 1997. Penawaran, Permintaan dan Konsumsi
+Protein Hewani Asal Ternak. Makalah disampaikan
+pada Seminar Pra-Widya Karya Pangan dan Gizi.
+Jakarta 28 Oktober 1997.
+SUPARTUA, MADE. 1984. Laporan Kejadian Penyakit Yang
+Diduga Antraks di Kendari Menjelang Akhir 1984.
+Subdin Kesehatan Hewan. Dinas Peternakan DT I
+Sulawesi Tenggara.
+SUTIRTO, E. 1997. Pemberdayaan Peternakan Rakyat dan
+Industri Peternakan Menuju Pasar Bebas: Pokok
+Bahasan Ternak Potong. Prosiding Seminar Nasional
+dan Veteriner. Bogor, 7-8 Januari 1997. p: 19-30.
+SUTISNA, P. 1994. Sistiserkosis di Bali. Laporan 6 kasus.
+Majalah Ilmiah UNUD. 21 (41): 5-9.
+WIDARSO, H.S., T. WANDRA, dan W.H. PURBA. 2000.
+Kejadian Luar Biasa (KLB) Antraks pada burung
+unta di Kabupaten Purwakarta bulan Desember 1999
+dan dampaknya pada masyarakat. Makalah di
+presentasikan pada seminar dan pameran teknologi
+veteriner. Pusat Penelitian dan Pengembangan
+Peternakan, Jakarta 14-15 Maret 2000.
+WIDIASTUTI, R. 2000. Residu aflatoksin pada daging dan hati
+sapi di pasar tradisional dan swalayan di Jawa Barat.
+Prosiding Seminar Nasional Peternakan dan
+Veteriner, Bogor 18-19 Oktober 1999. Pusat
+Penelitian dan Pengembangan Peternakan. Bogor. p:
+609-613.
+
+63
+
+SJAMSJUL BAHRI , et al.: Keamanan Pangan Asal Ternak: Suatu Tuntutan di Era Perdagangan Bebas
+
+WIDIASTUTI, R., T.B. MURDIATI, INDRANINGSIH, YUNINGSIH,
+dan DARMONO. 1999. Penelitian Residu Antibiotika
+dan hormon pertumbuhan dalam produk peternakan.
+Laporan Teknis Penelitian TA 1998/1999. Balai
+Penelitian Veteriner.
+
+64
+
+WINARNO, F.G. 1996. Undang-undang tentang Pangan.
+Kumpulan Makalah Pada Musyawarah 11 dan
+Seminar
+Ilmiah
+Persatuan
+Ahli
+Teknologi
+Laboratorium Kesehatan Indonesia. Jakarta, 25-26
+Nopember 1996.
+
+

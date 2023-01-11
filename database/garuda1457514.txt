@@ -1,0 +1,336 @@
+JURNAL INFORMATIKA Vol 4, No. 1, Januari 2010
+
+PENGGUNAAN MICROCONTROLLER SEBAGAI PENDETEKSI POSISI
+DENGAN MENGGUNAKAN SINYAL GSM
+Anna Nur Nazilah Chamim
+Politeknik PPKP Yogyakarta
+E-mail : anna_nnc@yahoo.co.id
+ABSTRAK
+Alat penentu posisi yang dikembangkan di dunia Internasional saat ini adalah
+berupa GPS (Global Positioning System). Dengan system ini, suatu objek dapat
+ditentukan dimana posisinya dengan koordinat yang tepat. Sistem ini mempunyai
+kinerja dengan cara mengirimkan sinyal gelombang mikro ke bumi yang diterima
+oleh alat penerima di bumi yang dapat digunakan untuk menentukan posisi,
+kecepatan, arah, dan waktu. Paper ini akan membahas tentang penggunaan mobile
+phone sebagai pendeteksi dengan memanfaatkan sinyal GSM sebagai media
+komunikasinya dan microcontroller sebagai alat untuk membaca sinyal yang dikirim
+maupun diterima oleh mobile phone. Sinyal dikirim melalui mobile phone kemudian
+dibaca oleh penerima yang diintegrasikan dengan rangkaian IC mikrokontroller
+dimana terdapat IC memori dan rangkaian pemicu yang mengeksekusi SMS diterima,
+kemudian melakukan pembacaan dan pengiriman perintah. Perintah yang dikirimkan
+disini berupa kode lokasi dimana penerima berada. Kode lokasi ini menunjukkan
+keberadaan BTS terdekat. Sehingga pengirim akan mendapatkan SMS balasan yang
+menginformasikan BTS terdekat. Pendeteksi posisi disini masih menggunakan kode
+BTS, belum merupakan koordinat penerima. Pada pengembangan lebih lanjut
+diharapkan kode yang dikirim telah berupa kode koordinat objek penerima.
+Kata kunci : mikrokontroller, pendeteksi posisi, sinyal GSM
+
+1. PENDAHULUAN
+Pemanfaatan sinyal yang digunakan untuk media komunikasi saat ini telah
+banyak berkembang. Media komunikasipun telah banyak mulai dari yang
+berbentuk kabel dan nirkabel. Saat ini penentu posisi yang dikembangkan di dunia
+internasional adalah berupa GPS (Global Positioning System). Alat ini dapat
+menentukan dimana posisi dari suatu objek dengan koordinat yang tepat. Global
+Positioning System (GPS) adalah satu-satunya sistem navigasi satelit yang
+berfungsi dengan baik. Sistem ini menggunakan 24 satelit yang mengirimkan
+sinyal gelombang mikro ke Bumi. Sinyal ini diterima oleh alat penerima di
+permukaan, dan digunakan untuk menentukan posisi, kecepatan, arah, dan waktu.
+Saat ini manfaat dari GPS adalah berguna untuk keperluan militer, navigasi,
+Sistem Informasi Geografis, Sistem pelacakan kendaraan, Pemantau gempa. Disini
+kita akan mencoba untuk merancang suatu alat pendeteksi posisi, dimana
+memanfaatkan sinyal GSM sebagai media komunikasinya dan dengan
+menggunakan mobile phone sebagai alat untuk mendeteksi posisi serta
+mikrokontroller sebagai alat untuk membaca sinyal yang dikirimkan ataupun
+diterima oleh mobile phone.
+
+430
+
+JURNAL INFORMATIKA Vol 4, No. 1, Januari 2010
+
+2. KAJIAN PUSTAKA
+2.1. Blok Diagram
+Alur kerja dari system ini digambarkan dalam blok diagram sebagai berikut :
+Mobile
+Phone
+
+IC Mikrokontroller
+
+IC
+Memory
+
+Gambar 1. Alur Kerja Sistem
+1. Mikrokontroller
+Mikrokontroler adalah sebuah system komputer yang seluruh atau
+sebagian besar elemennya dikemas dalam satu chip IC, sehingga sering
+disebut single chip microcomputer. Mikrokontroler merupakan system
+computer yang mempunyai satu atau beberapa tugas yang sangat spesifik.
+Elemen mikrokontroler tersebut diantaranya adalah:
+a. Pemroses (processor)
+b. Memori,
+c. Input dan output
+Kadangkala pada microcontroller ini beberapa chip digabungkan
+dalam satu papan rangkaian. Perangkat ini sangat ideal untuk mengerjakan
+sesuatu yang bersifat khusus, sehingga aplikasi yang diisikan ke dalam
+komputer ini adalah aplikasi yang bersifat dedicated. Jika dilihat dari harga,
+microcontroller ini harga umumnya lebih murah dibandingkan dengan
+komputer lainnya, karena perangkatnya relatif sederhana.
+Microcontroller telah banyak digunakan di industri, walaupun
+penggunaannya masih kurang dibandingkan dengan penggunaan Programable
+Logic Control (PLC), tetapi microcontroller memiliki beberapa keuntungan
+dibandingkan dengan PLC. Ukuran microcontroller lebih kecil dibandingkan
+dengan suatu modul PLC sehingga peletakannya dapat lebih flexible.
+Microcontroller telah banyak digunakan pada berbagai macam peralatan
+rumah tangga seperti mesin cuci. Sebagai pengendali sederhana,
+microcontroller telah banyak digunakan dalam dunia medik, pengaturan lalulintas, dan masih banyak lagi. Contoh alat ini diantaranya adalah komputer
+yang digunakan pada mobil untuk mengatur kestabilan mesin, alat untuk
+pengatur lampu lalu lintas.
+Secara teknis hanya ada 2 mikrokontroler yaitu RISC dan CISC, dan
+masing-masing mempunyai keturunan/keluarga
+sendiri-sendiri. RISC
+kependekan dari Reduced Instruction Set Computer : instruksi terbatas tapi
+memiliki fasilitas yang lebih banyak CISC kependekan dari Complex
+Instruction Set Computer : instruksi bisa dikatakan lebih lengkap tapi dengan
+fasilitas secukupnya. Tentang jenisnya banyak sekali ada keluarga Motorola
+dengan seri 68xx, keluarga MCS51 yang diproduksi Atmel, Philip, Dallas,
+keluarga PIC dari Microchip, Renesas, Zilog. Masing-masing keluarga juga
+masih terbagi lagi dalam beberapa tipe. Jadi sulit sekali untuk menghitung
+jumlah mikrokontroler.
+Yang perlu diketahui antara satu orang dengan orang lain akan berbeda
+dalam hal kemudahan dalam mempelajari. Jika Anda terbiasa dengan bahasa
+pemrograman BASIC Anda bisa menggunakan mikrokontroler BASIC Stamp,
+
+431
+
+JURNAL INFORMATIKA Vol 4, No. 1, Januari 2010
+
+jika Anda terbiasa dengan bahasa pemrograman JAVA Anda bisa
+menggunakan Jstamp, jika Anda terbiasa dengan bahasa pemrograman C++
+bisa Anda manfaatkan untuk keluarga MCS51 dan masih banyak lagi.
+Mikrokontroler mempunyai ruang alamat tersendiri yang disebut
+memori. Memori dalam mikrokontroler terdiri atas memori program dan
+memori data dimana keduanya terpisah, yang memungkinkan pengaksesan
+data memori dan pengalamatan 8 bit, sehingga dapat langsung disimpan dan
+dimanipulasi oleh mikrokontroler dengan kapasitas akses 8 bit. Program
+memori tersebut bersifat hanya dapat dibaca (ROM/EPROM). Sedangkan
+untuk data memori kita dapat menggunakan memori eksternal (RAM).
+
+Gambar 2. Ruang alamat Memori
+Di dalam mikrokontroler terdapat register-register yang memiliki
+fungsi yang khusus (Specilal Function Register). Sebagai contoh, untuk
+keluarga MCS-51 memiliki SFR dengan alamat 80H sampai FFH.
+Skema dari sebuah mikrokontroler dapat dilihat dari contoh berikut :
+
+Gambar 3. Skema mikrokontroler
+
+432
+
+JURNAL INFORMATIKA Vol 4, No. 1, Januari 2010
+
+2. GSM
+Global System for Mobile Communication (GSM) merupakan sebuah
+teknologi komunikasi selular yang bersifat digital. Global System for Mobile
+communication (GSM) adalah sebuah standar global untuk komunikasi
+bergerak digital. Teknologi GSM banyak diterapkan pada mobile
+communication, khususnya handphone. Teknologi ini memanfaatkan
+gelombang mikro dan pengiriman sinyal yang dibagi berdasarkan waktu,
+sehingga sinyal informasi yang dikirim akan sampai pada tujuan. GSM
+dijadikan standar global untuk komunikasi selular sekaligus sebagai teknologi
+selular yang paling banyak digunakan orang di seluruh dunia. GSM adalah
+nama dari sebuah group standarisasi yang dibentuk di Eropa tahun 1982
+untuk menciptakan sebuah standar bersama telpon bergerak selular di Eropa
+yang beroperasi pada daerah frekuensi 900 MHz.
+GSM sendiri mulai diimplementasikan di negara eropa pada awal
+tahun 1990-an. Pemakaian GSM kemudian meluas ke Asia dan benua
+Amerika. Pada saat ini GSM merupaka teknologi komunikasi bergerak yang
+paling banyak digunakan di seluruh dunia. Pada akhir tahun 2005, pelanggan
+GSM di dunia sudah mencapai 1,5 billion pelanggan dan merupakan teknologi
+yang paling banyak digunakan.
+Secara umum, network element dalam arsitektur jaringan GSM dapat
+dibagi menjadi:
+a. Mobile Station (MS)
+b. Base Station Sub-system (BSS)
+c. Network Sub-system (NSS),
+d. Operation and Support System (OSS)
+Secara bersama-sama, keseluruhan network element di atas akan
+membentuk sebuah PLMN (Public Land Mobile Network). GSM, sebagai
+sistem telekomunikasi selular digital memiliki keunggulan yang jauh lebih
+banyak dibanding sistem analog, di antaranya:
+a. Kapasitas sistem lebih besar, karena menggunakan teknologi digital dimana
+penggunaan sebuah kanal tidak hanya diperuntukkan bagi satu pengguna
+saja. Sehingga saat pengguna tidak mengirimkan informasi, kanal dapat
+digunakan oleh pengguna lain.
+b. Sifatnya yang sebagai standar internasional memungkinkan international
+roaming
+c. Dengan teknologi digital, tidak hanya mengantarkan suara, tapi
+memungkinkan servis lain seperti teks, gambar, dan video.
+d. Keamanan sistem yang lebih baik
+e. Kualitas suara lebih jernih dan peka.
+Bagaimanapun, keunggulan GSM yang beragam pantas saja
+membuatnya menjadi sistem telekomunikasi selular terbesar penggunanya di
+seluruh dunia.
+
+433
+
+JURNAL INFORMATIKA Vol 4, No. 1, Januari 2010
+
+Gambar 4. Komponen GSM
+3. Mobile Phone
+Mobile Station (MS) adalah perangkat yang digunakan oleh pelanggan
+untuk melakukan pembicaraan. Secara umum sebuah Mobile System terdiri
+dari :
+a. Mobile Equipment (ME) atau handset
+b. Subscriber Identity Module (SIM) atau Sim cardhttp://mobileindonesia.net/wpcontent/uploads/2007/06/gsmarc6.JPG
+
+Gambar 5. SIM Card dan Handset
+Mobile Equipment (ME) atau handset adalah perangkat GSM yang
+berada di sisi pelanggan yang berfungsi sebagai terminal transceiver
+(pengirimdan penerima sinyal) untuk berkomunikasi dengan perangkat GSM
+lainnya. Secara international, ME diidentifikasi dengan IMEI (International
+Mobile Equipment Identity) dan data IMEI ini disimpan oleh EIR untuk
+keperluan authentikasi, apakah mobile equipment yang bersangkutan dijinkan
+untuk melakuan hubungan atau tidak.
+4. IC Memory
+IC memori sering disebut juga dengan RAM, dimana dapat dilakukan
+kegiatan pembacaan, penghapusan dan penulisan pada komponen tersebut. IC
+memori pendukung dari suatu system mikrokontroler yang juga dijadikan
+sebagai memori eksternal dari system tersebut memiliki kapasitas yang
+berbeda-beda, dimana memiliki kapasitas mulai 2 kb.
+
+434
+
+JURNAL INFORMATIKA Vol 4, No. 1, Januari 2010
+
+Sebagai contoh untuk IC memori yang digunakan dalam rangkaian ini
+ada;ah IC AT24C64 yang mampu menyimpan 10 kali penyimpanan data.
+3. Perancangan dan Analisis Rangkaian
+3.1. Perangkat Keras
+Rangkaian dari microcontroller sebagai pendeteksi posisi dengan
+menggunakan sinyal GSM terdiri dari rangkaian sebagai berikut :
+
+HP
+
+IC AT89C55 WD
+
+Pemicu
+
+EEPROM AT24C64
+
+Gambar 6. Rangkaian mikrokontroler sebagai pendeteksi posisi
+Dari rangkian diatas dapat kita ketahui bahwa HP/ Mobile Phone berfungsi
+sebagai pengirim dan penerima sinyal. Sinyal yang dikirim atau diterima adalah
+sinyal GSM. Pemilihan sinyal GSM ini dikarenakan kemudahan dalam akses data
+dan tipe mobile phone GSM lah yang paling memungkinkan.
+
+Gambar 7. Rangkaian IC AT89C55WD
+IC mikrokontroler disini digunakan sebagai pusat pengendali system. Dimana
+operasi perintah baik pengiriman maupun pendeteksian sinyal dilakukan disini.
+Mikrokontroler ini didukung dengan fasilitas tambahan seperti memori eksternal,
+serial EEPROM, untai oscillator pengendali mikrokontroler dan antarmuka
+komunikasi serial. IC ini digunakan untuk mendeteksi konektifitas terhadap Base
+Terminal (Handphone), pendeteksi adanya SMS perintah yang datangdari
+terminal, mengolah PDU SMS menjadi informasi teks dan atau mengolah
+informasi teks menjadi PDU SMS, serta mampu membaca dan mengontrol
+
+435
+
+JURNAL INFORMATIKA Vol 4, No. 1, Januari 2010
+
+beberapa jalur input/output. IC mikrokontroler ini berfungsi untuk memproses data
+ataupun sinyal yang masuk sebagai input. IC ini mempunyai kapasitas yang besar
+untuk menyimpan data dan berfungsi sebagai jalur lalu lintas untuk keseluruhan
+perintah yang diberikan. Output sebaiknya diberi lampu indicator untuk
+mengetahui apakah perintah telah berjalan dengan baik.
+Rangkaian input ke mikrokontroler adalah rangkaian Mobile Phone yang
+dihubungkan secara serial dengan mikrokontroler. Konektor yang digunakan
+adalah DB9 yang dihubungkan ke kaki pengirim (TX) dan penerima (RX) dari
+mikrokontroler.
+
+Gambar 8. Rangkaian memori
+Memori penyimpan data eksternal dalam rangkaian ini menggunakan IC
+AT24C64 yang memiliki kemampuan untuk menyimpan sebanyak 10 data.
+Sedangkan untuk rangkaian pemicu mikrokontroler menggunakan rangkaian
+transistor PC817, dimana pada rangkaian ini, input dari sebuah sensor ataupun
+saklar akan menjadikan transistor aktif sehingga memberikan sinyal input ke
+mikrokontroler.
+
+Gambar 9. Rangkaian input
+3.2. Perangkat Lunak
+Program dapat dibuat dengan berbagai macam bahasa pemrograman,
+diantaranya bahasa Basic, Java, Pascal maupun C++. Dalam rangkaian ini,
+program dibuat dengan menggunakan bahasa Basic dengan menggunakan
+BASCOM. Kemudian program yang telah dibuat diubah ke dalam kode-kode
+biner/ bahasa mesin yang kita sebut dengan proses compile. Selanjutnya, program
+diisikan ke dalam Flash PEROM yang ada di dalam chip mikrokontroler. Berikut
+diagram alir dari rangkaian ini :
+
+436
+
+JURNAL INFORMATIKA Vol 4, No. 1, Januari 2010
+
+Gambar 10. Flowchart program utama
+Program ini berjalan dengan adanya SMS yang masuk yeng kemudian alat
+akan mengadakan proteksi panjang SMS, SMS yang memenuhi syarat akan
+dikodekan, setelah dikodekan, program akan melakukan pengecekan password,
+apakah benar atau salah. Bila password benar, maka data waktu akan dikirim ke IC
+memori ekternal (AT24C64), dan perintah akan dikeluarkan melalui output
+mikrokontroler dan kemudian disimpan di RAM. Data waktu adalah data yang
+didapat dari hasil pengkodean SMS.
+Kemudian akan dilakukan subrutin cek dan baca SMS. Subrutin ini dimulai
+dengan mengirimkan perintah untuk mendeteksi keberadaan SMS di dalam
+memori handphone. Jika tidak ada SMS, maka alat akan terus menerus
+mengirimkan perintah ini. Dan jika ada SMS di memori handphone, maka
+handphone akan membalas perintah tadi.
+
+437
+
+JURNAL INFORMATIKA Vol 4, No. 1, Januari 2010
+
+Data yang mengalir dari atau ke SMS Centre berupa PDU. PDU adalah
+kode berisi bilangan-bilangan heksadesimal yang mencerminkan bahasa I/O. PDU
+terdiri dari beberapa header, header tersebut berupa header dari SMS yang
+diterima dan header dari SMS yang dikirim. Data PDU tidak hanya berisi pesan
+teks, tetapi dapat berupa nomor pengirim, nomor SMS-Centre, waktu pengiriman,
+dan sebagainya.
+Kemudian sebrutin yang lain yang harus dilakukan adalah subrutin
+mengeluarkan perintah ke port. Subrutin ini digunakan untuk mengeluarkan
+perintah ke port output mikrokontroler. Isi SMS yang diubah ke dalam kode ASCII
+yang tersimpan di RAM akan diubah ke dalam kode heksa. Data heksa inilah yang
+akan dikirim ke port output mikrokotroler.
+
+Gambar 11. Subrutin perintah ke port output
+4. SIMPULAN
+Pendeteksi posisi dengan menggunakan IC mikrokontroler ini sangat
+berguna bagi berbagai penerapan pengendalian. Hal ini dilakukan dengan
+mengirimkan perintah menggunakan sinyal GSM yang ada pada mobile phone
+yang kemudian dibaca oleh penerima. Kemudian dengan menggunakan rangkaian
+IC mikrokontroler yang diintegrasikan dengan penerima dimana terdapat IC
+memori dan rangkaian pemicu yang mengeksekusi SMS diterima, kemudian
+melakukan pembacaan dan pengiriman perintah. Perintah yang dikirimkan disini
+berupa lokasi dimana penerima berada. Kode yang dikirimkan berupa lokasi
+dimana dia berada yang ditunjukkan dengan keberadaan BTS terdekat. Sehingga
+pengirim akan mendapatkan SMS balasan yang menginformasikan BTS terdekat.
+Informasi yang dikirimkan dapat berupa data yang terdapat pada IC memori,
+dimana data tersebut merupakan data 10 lokasi yang dilewati oleh penerima.
+Pendeteksian posisi disini masih menggunakan kode BTS, belum
+merupakan koordinat penerima, sehingga pada pengembangannya nanti
+diharapkan kode yang dikirim telah berupa kode koordinat/ titik posisi objek
+
+438
+
+JURNAL INFORMATIKA Vol 4, No. 1, Januari 2010
+
+penerima. Penggunaan sinyal CDMA masih sangat dimungkinkan untuk
+pengembangan lebih lanjut. Aplikasi yang diperoleh dari rangkaian ini adalah pada
+pengaman kendaraan, pengandalian jarak jauh menggunakan SMS dan lain
+sebagainya.
+DAFTAR PUSTAKA
+[1] Agfianto Eko Putra. 2002. Belajar Mikrokontroller. Gava Media. Yogyakarta.
+[2] Bustam Khang, Ir. 2002. Trik Pemrograman Aplikasi Berbasis SMS. Elex Media
+Komputindo.
+[3] Milman and Halkias. 1971. Integrated Circuits. McGraw-Hill.
+[4] http://mobileindonesia.net/2007/06/11/global-system-for-mobile-communicationgsm/
+[5] http://www.kelas-mikrokontrol.com/e_book/e_book.htm
+
+439
+
+

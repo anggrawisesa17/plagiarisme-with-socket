@@ -1,0 +1,520 @@
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+Perancangan Aplikasi M-Magazine Berbasis Android Sebagai
+Sarana Mading Sekolah Menengah Atas
+Apriade Voutama1, Elfina Novalia2
+1
+
+Ilmu Komputer, Sistem Infomasi, Universitas Singaperbangsa Karawang, Karawang, Indonesia
+Ilmu Komputer, Sistem Infomasi, Universitas Putra Indonesia YPTK Padang, Padang, Indonesia
+Email: 1,aprilaprimob@gmail.com, 2elfinanovalia@rocketmail.com
+
+2
+
+Abstrak−Mading adalah salah satu jenis media komunikasi masal tulis yang paling sederhana yang sering disebut sebagai
+majalah dinding, salah satu penerapan mading adalah di Sekolah yang dijadikan tempat atau sumber informasi bagi siswa
+untuk mengetahu informasi Sekolah baik informasi akademik, pengumuman, ekstrakurikuler, dan lain sebagaianya. Salah satu
+masalah yang terjadi adalah kurang daya minat siswa dalam melihat dan membaca mading dan hanya sebahagian kecil siswa
+yang tahu akan informasi sekolah sehingga tidak semua siswa tahu informasi-informasi terbaru sekolah. Dari masalah yang
+terjadi dengan mengikuti zaman yang serba digital sekarang ini maka perlu adanya inovasi guna merangsang daya minat siswa
+terhadap sebuah mading yaitu dengan merancang aplikasi M-Magazine berbasis android dengan akses secara mudah baik bagi
+para siswa maupun bagi para guru hanya berbekal smartphone yang mereka punya aplikasi ini bisa di akses kapan saja dan
+dimana saja. Aplikasi M-Magazine adalah aplikasi android dengan memanfaatkan beberapa bahasa pemrograman seperti
+Eclipse adalah IDE untuk mengembangkan perangkat di Platform seperti smartaphone yang di peruntukkan untuk
+pengguna/user, bahasa pemrograman PHP (Hypertext Preprocessor) untuk merancang halaman panel admin sebagai control
+dari aplikasi, dan MySql yang digunakan sebagai database aplikasi. Dengan adanya aplikasi M-Magazine ini maka seluruh
+jajaran sekolah baik guru, para siswa, staf sekolah bisa menggunakan dan mendapatkan informasi terbaru dari mading berbasis
+digital ini dengan mudah serta tidak adanya batasan bagi pengguna aplikasi untuk berbagi informasi baik secar tempat maupun
+waktu sehingga seluruh pengguna bisa mengakses kapan saja dan dimana saja lebih cepat dan efektif.
+Kata Kunci: Mading, M-Magazine, Android, Digital, Sekolah.
+
+Abstract− Wall magazine is one of the simplest types of mass-written communication media which is often referred to as
+wall magazines, one of the applications of wall magazine is in schools which are used as a place or source of information for
+students to find out school information both academic information, announcements, extracurricular activities, and so on. One
+of the problems that occurs is the lack of student interest in seeing and reading wall magazine and only a small proportion of
+students who know school information so not all students know the latest school information. From the problems that occur
+with following today's digital era, there is a need for innovation to stimulate student interest in wall magazine, namely by
+designing an Android-based M-Magazine application with easy access for both students and teachers only armed with the
+smartphone they have. have this application can be accessed anytime and anywhere. The M-Magazine application is an
+android application that utilizes several programming languages such as Eclipse is an IDE for developing devices on platforms
+such as smartaphones which are intended for users, the PHP programming language (Hypertext Preprocessor) for designing
+admin panel pages as control of applications, and MySql which is used as an application database. With the M-Magazine
+application, all school levels, both teachers, students, school staff can easily use and get the latest information from digitalbased wall magazine and there are no restrictions for application users to share information both place and time so that all
+users can access anytime and anywhere more quickly and effectively.
+Keywords: Wall Magazine, M-Magazine, Android, Digital, School.
+
+1. PENDAHULUAN
+Teknologi Informasi dan Komputer saat ini mengalami perkembangan yang sangat pesat, baik dari segi hardware
+maupun software. Perkembangan Teknologi Informasi ini disambut hangat oleh berbagai bidang kehidupan
+masyarakat misalkan bidang bisnis, kehidupan sosial, termasuk bidang pendidikan. Salah satu contoh adalah
+terciptanya smartphone dan internet. Pemanfaatan smartphone dalam kehidupan masyarakat semakin berkembang
+dan bahkan setiap orang memiliki smartphone sebagai ini media komunikasi dan mendapatkan informasi. Jika
+dulu orang memanfaatkan komputer sebatas alat pengolah data, maka sekarang dengan menggunakan komputer
+dan didukung oleh kecanggihan teknologi seperti smartphone memungkinkan penggunakan akan menggunakan
+smartphone ini sebagai alat penyebar informasi dan komunikasi di kalangan masyarakat sedangkan internet yang
+disudah bisa diakses melalui gawai ini dapat menyajikan banyak informasi tanpa memerlukan biaya dan waktu
+yang banyak serta kemudahan dalam mengakses atau pengoperasiannya yang dapat dilakukan oleh siapapun.
+Salah satu hasil dari kemajuan teknologi informasi adalah dengan adanya pembuatan M-Magazine yang
+digunakan sebagai media pembelajaran, media informasi dan banyak hal lain yang dapat dimanfaatkan. Hal ini
+
+104
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+dapat dilakukan dimana saja, kapan saja kita perlukan untuk mencari informasi yang kita inginkan tanpa adanya
+batasan ruang dan waktu.
+Berdasarkan perancagan aplikasi M-Magazine, maka perlu adanya perumusan masalah yang jelas supaya
+peracangan aplikasi ini sesuai dengan tujuan yang hendak dicapai, diantaranya: (1) Apakah aplikasi m-magazine
+dapat beroperasi dan dijalankan pada perangkat android?, (2) Apakah dengan adanya m-magazine, proses berbagi
+pengetahuan antar siswa dapat dilakukan dengan baik?, (3) Bagaimana m-magazine dapat mempermudah siswa
+untuk melihat dan mencari informasi mengenai kegiatan sekolah?, (4) Bagaimana membuat m-magazine yang
+user friendly berbasis client - server bermanfaat bagi siswa maupun guru di Sekolah?
+Berdasarkan rumusan masalah yang telah disebutkan sebelumnya, maka dapat dikemukan tujuan dari
+penelitian ini sebagai berikut: (1) Merancang sebuah aplikasi M-Magazine yang dapat terintegrasi di smartphone
+dan dapat beroperasi sesuai dengan tujuan yang diharapkan. (2) Menerapkan ilmu pengetahuan yang di dapat
+sebagai acuan dalam menciptakan sebuah aplikasi m-magazine. (3) Mengimplementasikan serta menampilkan mmagazine Sekolah pada smartphone sehingga dapat dimanfaatkan oleh siswa dan guru. (4) Memberikan informasi
+dan pengetahuan secara efektif dan efisien.
+1.1 Informasi (Mading)
+Majalah Dinding atau biasa disebut Mading adalah media komunikasi masal sederhana untuk mencipatkan
+komunikasi antarpihak dalam lingkup tertentu seperti di Sekolah. Peranan majalah dinding yang penting adalah
+sebagai salah satu fasilitas kegiatan siswa secara fisikal dan faktual serta memiliki sejumlah fungsi,
+yaitu:informatif, komunikatif, rekreatif, dan kreatif[1].
+Salah satu peranan tersebut adalah Informasi berbasis digital, Informasi merupakan hasil pengolahan data
+dari satu atau berbagai sumber, yang kemudian diolah, sehingga memberikan nilai, arti dan manfaat. Proses
+pengolahan data ini memerlukan teknologi baik teknologi seperti komputer maupun hanya mesin ketik [1]. Selain
+itu, pada proses pengolahan data, untuk dapat menghasilkan informasi juga dilakukan proses verifikasi secara
+akurat, spesifik dan tepat waktu. Hal ini penting agar informasi dapat memberikan nilai dan pemahaman kepada
+pengguna [1][2]. Pada gambar 1 berikut ini diilustrasikan proses pengolahan data menjadi informasi:
+
+Gambar 1. Proses Pengolahan Informasi [1]
+Selain itu informasi juga didefenisikan sebagai hasil dari pengolahan data dalam suatu bentuk yang lebih
+berguna dan lebih berarti bagi penerimanya yang menggambarkan suatu kejadian- kejadian (event) yang nyata
+(fact) yang digunakan untuk mengambil keputusan[2]. “Sistem Informasi Data Penduduk Pada Pedesaan
+Bogoharjo Kecamatan Ngadirjo Kabupaten Pacitan”. Indonesia Journal on Networking and Security, IJNS
+Volume 2 No 4- Oktober 2013).
+Data diolah dengan menggunakan suatu proses tertentu melalui suatu model informasi [2]. Penerima akan
+menerima informasi tersebut untuk membuat suatu keputusan dan melakukan tindakan yang akan mengakibatkan
+munculnya sejumlah data lagi. Data tersebut akan ditangkap sebgai input, diproses kembali melalui suatu model
+dan seterusnya sehingga membentuk suatu siklus. Siklus inilah yang disebut dengan Siklus Informasi (Information
+Cycle) [2].
+
+105
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+1.2 Mobile
+Mobile diartikan sebagai perpindahan yang mudah dari satu tempat ke tempat lain, misalnya telepon mobile berarti
+bahwa terminal telepon yang dapat berpindah dengan mudah dari satu tempat ke tempat lain tanpa terjadi
+pemutusan atau terputusnya komunikasi [3]. Aplikasi adalah program yang digunakan orang untuk melakukan
+sesuatu pada sistem komputer. Dan sistem aplikasi mobile merupakan aplikasi yang dapat digunakan walaupun
+pengguna berpindah dengan mudah dari satu tempat ke tempat lain- lain tanpa terjadi pemutusan atau terputusya
+komunikasi.
+Aplikasi adalah program yang digunakan orang untuk melakukan sesuatu pada sistem komputer[2]. Dan
+sistem aplikasi mobile merupakan aplikasi yang dapat digunakan walaupun pengguna berpindah dengan mudah
+dari satu tempat ke tempat lain- lain tanpa terjadi pemutusan atau terputusya komunikasi.
+Webview adalah sebuah component yang ada di dalam sistem operasi android yang berfungsi untuk memuat
+sebuah tampilan website ke dalam bentuk tampilan mobile web. Webview menampilkan secara serupa dengan
+tampilan sesungguhnya di dekstop. Mobile web bertujuan untuk mengakses layanan data secara wireless dengan
+menggunakan perangkat mobile seperti handphone, pda dan perangkat portable yang tersambung ke sebuah
+jaringan telekomunikasi selular[3].
+Mobile Application adalah proses pengembangan aplikasi untuk perangkat genggam seperti PDA,asisten
+digital perusahaan atau telepon genggam. Aplikasi ini sudah ada pada telepon selama manufaktur, atau
+didownload oleh pelanggan dari toko aplikasi dan dari distribusi perangkat lunak mobile platform yang lain[4].
+1.3 Android
+Android adalah sebuah sistem operasi untuk perangkat mobile berbasis linux yang mencakup sistem operasi,
+middleware dan aplikasi. Android menyediakan platform terbuka bagi para pengembang untuk menciptakan
+aplikasi. Android merupakan generasi baru flatform mobile, flatform yang memberikan pengembangan sesuai
+dengan yang diharapkan. Sistem operasi yang mendasari android dilisensikan di bawah GNU, General Public
+Lisensi Versi 2 (GPLv2), yang sering dikenal dengan istilah “copyleft” lisensi di mana setiap perbaikan pihak
+ketiga harus terus jatuh di bawah terms. Android didistribusikan di bawah lisensi Apache Software
+(ASL/Apache2), yang memungkinkan untuk distribusi kedua dan seterusnya[3].
+Pengembangan aplikasi Android diperbolehkan untuk mendistribusikan aplikasi mereka dibawah skema lisensi
+apapun yang mereka inginkan. Pengembang memiliki beberapa pilihan dalam membuat aplikasi yang berbasis
+Android. Namun kebanyakan pengembang menggunakan Eclipse sebagai IDE untuk merancang aplikasi mereka.
+Hal ini dikarenakan Eclipse mendapat dukungan langsung dari Google untuk menjadi IDE pengembangan aplikasi
+Android. Aplikasi Android dapat dikembangkan pada berbagai sistem operasi, diantaranya adalah Windows XP/
+Vista/7/8/10, MacOS X (MacOS X10.48 atau yang lebih baru), dan Linux. Android menjadi sistem operasi mobile
+yang populer hingga saat ini karena sifat platform android yang terbuka bagi para pengembang untuk
+mengembangkan aplikasi buatan sendiri[3].
+Arsitektur yang tersedia pada sistem operasi Android adalah sebagai berikut (Muhammad Sadeli, 2014:7-8):
+a. Linux Kernel
+Digunakan Google untuk membangun sistem android yang mencakup memory management, security
+setting, power management dan beberapa driver hardware.
+b. Android Runtime
+Terdiri dari Core Libraries dan Dalvik Virtual Machine.
+c. Libraries
+Android menyertakan satu set library-library dalam bahasa C/C++ yang digunakan pada komponenkomponen Android.
+d. Application Framework
+Programmer memiliki akses penuh untuk memanfaatkan API (Android Protocol Interface) dala mengatur
+fungsi-fungsi dasar smartphone.
+e. Application
+Merupakan fungsi teratas Android dan fungsi yang paling sering di akses bagi para pengguna
+1.4 Android Mysql
+Beberapa aplikasi yang dapat dikategorikan sebagai aplikasi client server database. Android sebagai client akan
+berhubungan dengan mysql server dengan perantara php, secara konsep dasar dapat dilihat pada gambar
+berikut[4].
+
+106
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+Gambar 2. Mekanisme Android Device []
+1.5 Magazine
+Menurut Weiner (2007), etimologi magazine diambil dari bahasa Perancis yaitu magasin, yang berasal dari bahasa
+Italia yaitu magazzino, yang berarti gudang. Digital magazine adalah sebuah media yang mendistribusikan konten
+dari majalah elektronik baik dengan meniru versi majalah cetak atau tidak (menurut Silva 2011). Dimana
+memudahkan pembaca untuk membaca majalah dimana saja dan kapan saja tanpa repot dengan hanya
+menggunakan Smartphone, tablet dan kindle.
+
+2. METODE PENELITIAN
+2.1 Metodologi Penelitian
+Perancangan aplikasi M-Magazine mengacu kepada siklus hidup pengembangan sistem yang sering disebut SDLC
+(Systems Development Life Cycle), dalam rekayasa sistem dan rekayasa perangkat lunak adalah proses pembuatan
+dan pengubahan sistem serta model dan metodologi yang digunakan untuk mengembangkan sistem- sistem
+tersebut[5]. Konsep ini umumnya merujuk pada sistem komputer atau informasi. SDLC atau Software
+Development Life Cycle atau sering di sebut System Development Life Cycle adalah proses mengembangkan atau
+mengubah suatu sistem perangkat lunak dengan menggunakan model-model dan metodologi dalam
+mengembangkan sistem [7]. Tahap-tahap yang ada pada SDLC adalah pada gambar berikut[7]:
+
+a.
+b.
+c.
+
+d.
+
+Gambar 3. Tahapan SDLC
+Perencanaan (Planning)
+Mengembangkan rencana manajemen proyek dan dokumen perencanaan lainnya.
+Analisa Kebutuhan (requirements analysis)
+Menganalisa kebutuhan pemakai sistem perangkat lunak (user) dan mengembangkan kebutuhan user.
+Membuat dokumen fungsional.
+Tahap Desain Sistem (Design System)
+Pada tahap ini sistem analisa sudah mendapatkan gambaran tentang sistem yang akan di buat.
+Mentransformasikan kebutuhan detail menjadi kebutuhan yang sudah lengkap, dokumen desain sistem fokus
+pada bagaimana dapat memenuhi fungsi-fungsi yang dibutuhkan.
+Implementasi Sistem (Implemantation System)
+Termasuk pada persiapan implementasi, implementasi perangkat lunak pada lingkungan user dan
+menjalankan resolusi dari permasalahan yang teridentifikasi dari fase integrasi dan pengujian. Pada tahap
+ini sistem sudah siap untuk dioperasikan.
+
+107
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+2.2 Tahapan Penelitian
+Berdasarkan acuan SDLC maka metode penelitian ini menggunakan model Prototyping Model dengan tahapan
+sebagai berikut[6].
+
+Gambar 4. Kerangka kerja Penelitian
+a.
+b.
+c.
+
+d.
+
+e.
+
+Study Literatur
+Memperjalari literatur-literatur yang berhubungan dengan penelitian baik teori dan konsep, dengan mencari
+referensi yang relefan dengan kasus penelitian baik dari buku, jurnal, artikel laporan penelitian, internet.
+Pengumpulan Data
+Proses pengumpulkan data dan mengukur informasi tentang variabel yang ditargetkan dari penelitian ini,
+seperti pengumpulan data di Sekolah.
+Analisis masalah kebutuhan
+Pada tahap analisa masalah ini dilakukan beberapa metode di antaranya yaitu metode deskriptif, dalam
+metode ini dilakukan pengumpulan data, disusun dan dikelompokkan, dianalisa, dan memberikan
+gambaran dari masalah penelitian. Sehingga dari analisa masalah tersebut data ditarik sebuah kesimpulan
+untuk mendapatkan suatu solusi penyelesaian masalah.
+Desain dan Pengembangan Aplikasi
+Tahapan desain adalah proses membuat kerangka rancangan dengan menggunakan model atau alat bantu
+peracangan kemudian diterjemahkkan kedalam bentuk aplikasi dengan memanfaatkan bahasa
+pemrograman.
+Testing dan Implementasi program
+Pada tahap ini dilakukan pengujian dari aplikasi M-Magazine yang sudah dibangun dengan melakukan
+beberapa mengujian serta evaluasi dengan aplikasi yang dibuat bisa di implementasikan.
+
+2.3 Alat Bantu Perancangan
+Perkembangan teknik pemrograman berorientasi objek saat ini, terdapat sebuah standarisasi bahasa pemodelan
+untuk pembangunan perangkat lunak yang dibangun menggunakan teknik pemrograman berorientasi objek yaitu
+Unified Modeling Language (UML)[7]. UML muncul karena adanya kebutuhan pemodelan visual untuk
+menspesifikasikan, menggambarkan, membangun dan dokumentasi dari sistem perangkat lunak. UML merupakan
+bahasa visual untuk pemodelan dan komunikasi mengenai sebuah sistem dengan menggunakan diagram dan teksteks pendukung[7]. Pada tahun 1997, UML diakomodasi oleh Object Management Group (OMG), sehingga UML
+telah memberikan kontribusinya yang berfungsi melakukan pemodelan. UML adalah sekumpulan spesifikasi yang
+dikeluarkan oleh OMG [7].
+UML (Unified Modeling Language) adalah salah satu standar bahasa yang banyak digunakan di dunia
+industri untuk mendefenisikan requirement, membuat analisis dan desain, serta menggambarkan arsitektur dalam
+pemrograman beriontasi objek (A.S Rossa, Salahuddin. M, ”Rekayasa Perangkat Lunak”, 2013:133). UML tebaru
+adalah UML 2.3 yang terdiri dari 4 macam spesifikasi, yaitu Diagram Interchange Specification, UML
+Infrastructure, UML Superstructure dan Object Constraint Language [7]. UML (Unified Modeling Language)
+terdiri dari 13 macam diagram yang dikelompokkan dalam 3 kategori.
+
+108
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+3. HASIL DAN PEMBAHASAN
+3.1 Pemodelan Aplikasi M-Magazine
+Berdasarkan kerangka kerja penelitian sebelumnya yang sudah dijelaskan, dalam perancangan ini digunakan
+beberapa pemodalan diagram UML (Unified Modeling Language), untuk mempermudah perancangan aplikasi
+seperti Usecase Diagram, Activity Diagram, Sequense Diagram, Class Diagram, dalam Diagram Pendukung
+lainnya sehingga dapat menjadi gambaran awal perancangan dari aplikasi tersebut[8].
+3.1.1 Use Case Diagram
+Use case Diagram, menggambarkan bagaimana seseorang akan menggunakan atau memanfaatkan sistem,
+sedangkan aktor adalah seseorang atau sesuatu yang berinteraksi dengan sistem. Adapun yang bertindak sebagai
+aktor dalam m-magazine ini adalah,admin, member, dan guest (pengunjung)[8]. Dan event dalam use case
+diagram yang akan terjadi didalam sistem antara para aktor dengan use case sebagai berikut:
+
+Gambar 5. Perancangan Use Case M-Magazine
+Keterangan:
+a. Admin dapat melakukan pengolahan atau manajemen terhadap data-data yaitu meliputi pengolahaan data
+artikel (tambah artikel, update artikel, edit artikel, dan hapus artikel), pengolahan data kategori artikel
+(tambah kategori, update kategori, edit kategori dan hapus kategori),pengolahaan data pesan(lihat pesan dan
+hapus pesan), pengolahaan data user (lihat detail user,aktif user,non-aktif user dan hapus user), dan admin
+juga dapat menghapus komentar dari artikel yang telah di post oleh guest.
+b. Member memiliki hak user yang hampir sama dengan admin yang membedakan hanya member biasa tidak
+bisa mengaktifkan maupun menonaktifkan user lain.
+c. Guest hanya dapat melihat artikel yang telah di posting oleh admin maupun member serta guest juga dapat
+mengirim pesan kepada admin maupun member lewat menu contact us dan member dapat mengirim
+komentar pada suatu artikel.
+d. Guest dapat mendaftar untuk menjadi member dengan masuk ke formregister yang telah di sediakan pada
+menu aplikasi setelah mendaftar guest menunggu konfimasi dari admin.
+
+109
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+3.1.2 Activity Diagram
+Pada diagram activity diagram guest menggambarkan segala aktivitas yang bisa dilakukan oleh guest
+terhadap sistem yang dimulai dengan masuk aplikasi m-magazine terlebih dahulu barulah bisa memilih aktivitas
+pengelolaan menu pada halaman m-magazine.
+
+Gambar 6. Perancangan Activity Guest
+Pada diagram activity diagram member, menggambarkan segala aktivitas yang bisa dilakukan oleh member
+terhadap sistem yang dimulai dengan melakukan login terlebih dahulu barulah bisa memilih aktivitas yang akan
+dilakukan melalui menu-menu pilihan yang ada.
+
+Gambar 7. Perancangan Activity Member
+
+110
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+3.1.3 Sequence Diagram
+Sequence diagram digunakan untuk menggambarkan perilaku pada sebuah scenario secara detail menurut
+waktu. Diagram ini menunjukkan sejumlah contoh objek dan pesan yang diletakkan diantara objek-objek di
+dalam use case. Admin dapat melakukan pengelolah user seperti mengaktifkan, menonaktifkan,menghapus dan
+melihat detail user, dapat dilihat pada
+
+Gambar 8. Perancangan Sequence Admin mengelola User
+3.1.4 Class Diagram
+Seperti langkah dalam menentukan use case sebelum menentukan class apa saja yang terdapat dalam Mmagazine, terlebih dahulu ditentukan requirement fungsi dari class yang dibutuhkan seperti yang tercantum pada
+tabel dibawah ini.
+Tabel 1. Requirement Fungsi dan Class Entity
+No
+
+Requirement
+
+Class Entity
+
+1
+
+Masuk kedalam M-magazine admindan harus melakukan login terlebih
+dahulu, dengan memasukkan username serta password. Dan guest dapat
+melihat langsung m-magazine tanpa harus login.
+
+Admin
+Member
+Guest
+
+2
+
+Administrator dapat menambahkan,mengedit dan menghapus artikel,
+menambah,mengedit,dan menghapus kategori dan administrator dapat
+melihat detail, mengaktif dan menon-aktifkan user,sedangkan member
+hanya dapat melihat detail user,administrator dan member dapat melihat
+dan menghapus pesan yang dikirim guest, sebelumnya harus login
+terlebih dahulu.
+Sedangkan guest dapat membaca artikel yang telah di posting oleh admin
+atau member tanpalogin.
+
+Admin
+Member
+Guest
+
+3
+
+Admin dapat membalas pesan yang dikirim guest lewat e-mail, dan
+menghapus pesan tersebut setelah login.
+Sedangkan guest dapat mengirim pesan, dan dapat mengomentari artikel
+yang telah di post oleh admin atau member tanpa harus login.
+
+Admin
+Member
+Guest
+
+111
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+Gambar 9. Perancangan Class Diagram M-Magazine
+3.2 Implementasi Program
+Pengujian terhadap sistem dilakukan untuk mengetahui sejauh mana aplikasi M-Magazine yang dirancang
+dapat mengatasi masalah, serta untuk mengetahui hubungan antar komponen sistem. Dengan demikian langkahlangkahnya sebagai berikut.
+a.
+
+Layout Panel Admin
+Layout home atau menu utama adalah halaman yang pertama kali muncul saat aplikasi di buka. Layout ini
+merupakan interface utama yang menghubungkan user dengan website ini. Terdiri dari menu home, profil
+sekolah (sejarah sekolah, visi misi, struktur organisasi), artikel (news, seminar, event, akademik), contact
+us, registrasi dan terdapat menu login. Pada saat admin melakukan login yang tersedia terdiri dari menu
+home, profil sekolah (sejarah sekolah, visi-misi, struktur organisasi), setting artikel, setting menajemen
+dimana pada setting menajemen ini hanya admin yang dapat mengaktifkan atau menonaktifkan user, dan
+terdapat menu login seperti gambar layout menu utama dapat dilihat seperti gambar berikut.
+
+Gambar 9. Tampilan Panel Admin
+b.
+
+Admin mengelolah Artikel
+Pada halaman ini admin dapat melakukan hapus atau edit terhadap artikel yang dikirim oleh member seperti
+gambar berikut.
+
+112
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+Gambar 10. Tampilan Admin mengelolah Artikel
+c.
+
+Layout Utama Member di Android
+Layout home atau menu utama adalah halaman yang pertama kali muncul saat aplikasi di smarthphone di
+buka. Gambar layout menu utama dapat dilihat seperti pada gambar berikut.
+
+Gambar 11. Tampilan utama member di Android
+d.
+
+Layout Login Member Dan Guest
+Pada layout ini berisikan login member dan guest. Gambar login pada member dengan klik masuk
+sedangkan guest dengan klik register bisa dilihat pada gambar berikut.
+
+Gambar 12. Tampilan login member
+
+113
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+e.
+
+Layout Manajemen Member
+Layout Manajemen Member berisikan list data member. Dan member dapat melihat aktif dan tidak aktifnya
+anggota member yang lain. Gambar layout manajemen member dapat dilihat pada gambar berikut ini.
+
+Gambar 13. Tampilan Manajemen member
+
+4. KESIMPULAN
+Berdasarkan hasil yang diperoleh dari penelitian aplikasi M-magazine maka dapat diambil beberapa
+kesimpulan sebagai berikut.
+a. Perubahan dari yang berbentuk mading atau majalah dinding sudah berevolusi ke teknologi digital dengan
+perubahan dan inovasi menjadi sebuah mading berbasiskan android.
+b. Memanfaatkan teknologi di era digital ini dapat membantu Sekolah dalam menyampaikan dan berbagi
+informasi tanpa terbatas ruang dan waktu sehingga dapat melakukan penyebaran info mading lebih cepat
+dan efektif.
+c. Dengan adanya aplikasi M-magazine, dapat meningkatkan efektifitas dan efesiensi penyampaian informasiinformasi kegiatan Sekolah sehingga apapun yang berhubungan mengenai mading Sekolah dapat diakses
+dengan mudah.
+d. Proses berbagi informasi menjadi lebih menarik dengan bantuan M-magazine yang menggunakan Java
+Mobile, Php dan menggunakan database MySQL.
+e. Dengan adanya sistem penyimpanan data atau informasi pada database, maka data dan informasi yang
+diperlukan dapat tersimpan dengan baik.
+f. Dapat berbagi informasi baik itu dari segi ilmu maupun pengalaman serta fitur-fitur didalam aplikasi ini
+secara umum dapat berjalan dengan baik sesuai dengan yang ditetapkan.
+g. Lebih memaksimalkan pemanfaatan penggunaan smartphone sebagai salah satu perkembangan teknologi.
+Agar penerapan sistem yang baru ini dapat berjalan dengan baik maka berikut adalah beberapa saran untuk
+pengembangan lebih lanjut mengenai aplikasi M-magazine, beberapa saran-saran dalam penggunaan sistem yang
+baru ini Jika aplikasi M-magazine berbasis android ini diimplementasikan dan dikembangkan lebih lanjut maka
+dapat memberikan fasilitas mengenai informasi yang lebih baik lagi untuk siswa maupun pihak Sekolah dan juga
+diperlukan adanya maintenance dan pengembangan terhadap aplikasi M-magazine tersebut agar dapat digunakan
+secara berkelanjutan selama dibutuhkan.
+
+UCAPAN TERIMAKASIH
+Terima kasih disampaikan kepada pihak-pihak yang telah mendukung terlaksananya penelitian ini terutama
+kepada Sekolah SMA Negeri 5 Padang yang sudah memberikan waktu dan kesempatan melakukan obeservasi
+dan mengumpulan data sehingga terciptanya inovasi terbaru revolusi majalah dinding menjadi manding digital
+berbasiskan android yang memberikan perubahan pesat terhadap pemnafaatan teknologi. Serta kepada temanteman terkait yang telah membantu proses penelitian ini sampai dengan selesai.
+
+114
+
+Jurnal TEKNO KOMPAK, Vol. 15, No. 1, P-ISSN: 1412-9663, E-ISSN : 2656-3525, Hal. 104-115
+
+REFERENCES
+[1]
+
+Pratama, I Putu Agus Eka,” Sistem Informasi Dan Implementasinya.” Informatika, Bandung, 2014.
+
+[2]
+
+Sutabari, Tata, “Analisis Sistem Informasi.” Andi, Jakarta, 2012.
+
+[3]
+
+Wijaya ,Bhakti Destian, Fenty E.M.A, dan Andrew Fiade, “Implementasi Json Parsing Pada Aplikasi Mobile ECommerce” , Jurnal Pseudocode, vol. 2 no. 1, 2015.
+
+[4]
+
+Sadeli, Muhammad, “Toko Buku Online dengan Android.” Maxikom, Palembang. 2014.
+
+[5]
+
+Nugraha W, Syarif M, Dhermawan, “Penerapan Meotode SDLC Waterfall dalam Sistem Informasi Inventory Barang
+Berbasis Dekstop,” JUSIM (Jurnal Sistem Informasi Musirawas), vol. 03 no. 01, 2018.
+
+[6]
+
+Priyudi A, Yudhana A, “Implementasi Googe Maps Pada Sistem Informasi Pariwisata Kabupaten Dompu
+Menggunakan Model Software Development life Cycle (SDLC)”, Jurnal Mobile and Forensics (MF), vol. 1 no. 2,
+2019.
+
+[7]
+
+A S, Rosa dan M. Shalahuddin, “Rekayasa Perangkat Lunak.” Informatika, Bandung, 2013.
+
+[8]
+
+Tohari, Hamim, “Astah (Analisa serta Perancangan Sistem Informasi melalui Pendekatan UML)”. Andi, Yogyakarta,
+2014.
+
+[9]
+
+Prihandoyo M.T, “Unified Modeling Language (UML) Model Untuk Pengembangan Sistem Informasi Akademik
+Berbasis Web,” Jurnal Informatika (JPIT), vol. 03 no.01, 2018.
+
+[10]
+
+Rubiati N, “Aplikasi Informasi Pelayanan Fitness Pada Golden Fitness Center Dumai dengan Bahasa pemrograman
+PHP,” Jurnal Informatika, Manajemen dan Komputer, vol. 10 no.1, 2018.
+
+[11]
+
+Aswanti N, “Sistem Informasi Penjualan Tas berbasis Web dengan Pemodelan UML,” Kumpulan Jurnal ilmu
+Komputer (KLIK), vol 04 no. 01, 2017.
+
+[12]
+
+Hidayatullah, Priyanto dan Jauhari Khairul Kawistara,“Pemrograman Web,” Informatika, Bandung, 2014.
+
+[13]
+
+Rakhmah S.N, “Pembuatan Aplikasi E-Hadits Pada Smartphone Berbasis Java Eclipse,”, Simposium Nasional Ilmu
+Pengetahuan dan Teknologi (SIMNASIPTEK), hal A-62, 2016
+
+[14]
+
+Surmayanti, “Penggunaan Bahasa Pemrograman Java Editor Eclipse Helios untuk palikasi English Conversation Pada
+Mobilephone Berbasis Operation System android,” Jurnal Teknologi Informasi & Pendidikan, vol. 9 no. 3, 2016
+
+[14]
+
+Ismawan F, “Hasil Ekstraksi Algoritma Principal Component Analysis (PCA) untuk Pengenalan Wajah dengan
+Bahasa Pemograman Java Eclipse IDE,” Jurnal Sisfotek Global, Vol. 5 no. 1, 2015.
+
+115
+
+

@@ -1,0 +1,951 @@
+163
+
+Analisis Interferensi Frekuensi Radar Cuaca CBand di Indonesia
+Eko Wardoyo
+Badan Meteorologi Klimatologi dan Geofisika, Jakarta
+ekowardoyo@yahoo.com
+Abstrak
+
+Pada World Radio Conference 2003 (WRC-03), The International
+Telecomunications Union (ITU) merekomendasikan alokasi baru untuk
+frekuensi bebas pada spectrum, 5470 – 5725 MHz. Sebagaimana
+diketahui beberapa system berjalan seperti Radar cuaca, Radar Satelite
+dan radar militer memiliki potensi untuk terinterferensi dengan alokasi
+baru ini. Sehingga untuk meminimalisir potensi gangguan pada radar
+sistem tersebut maka ditetapkan suatu algoritma yang disebut Dynamic
+Frequency Selection (DFS). Badan Meteorologi Klimatologi dan
+Geofisika (BMKG) hingga akhir tahun 2012 mengoperasikan 27 Radar
+Cuaca C-Band dengan Frekuensi kisaran 5 GHz (5.6 – 5.65) Ghz.
+Penelitian ini dilakukan untuk mengetahui potensi Interferensi Frekuensi
+operasional Radar Cuaca C-Band di Indonesia dengan menerapkan
+metode Silent Mode pada radar cuaca untuk mendapatkan data sumber
+interferensi, pengukuran frekuensi di lingkungan operasional radar dan
+upaya proteksinya dengan melakukan analisis teknik terhadap spesifikasi
+operasional radar C-Band yang di Operasikan BMKG dengan parameter
+algoritma DFS sehingga dapat diketahui efektifitas kinerja DFS-ETSI
+dalam memproteksi Radar C-Band BMKG. Selain itu juga dilakukan
+diskusi dan analisis regulasi dan peraturan perundang-undangan dalam
+tataran internasional dan nasional khususnya terkait operasional Radar CBand. Sehingga diketahui adanya kelemahan pada algoritma DFS yang
+ada dan disampaikan saran perubahan serta usulan proteksi radar C-Band
+kepada regulator telekomunikasi di Indonesia
+Kata Kunci: Radar, Meteorologi, Interferensi, Frekuensi, Cuaca, CBand, ITU, ETSI, DFS
+Received January 2014
+Accepted for Publication May 2014
+
+1. PENDAHULUAN
+World Radio Confrence 2003 (WRC03), The International Telecomunications
+Union (ITU) merekomendasikan alokasi baru untuk frekuensi bebas pada
+spectrum, 5470 – 5725 MHz. Sebagaimana diketahui beberapa system berjalan
+seperti Radar cuaca, Radar Satelite dan Radar Militer memiliki potensi untuk
+
+164
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+
+terinterferensi dengan alokasi baru ini. Sehingga untuk meminimalisir potensi
+gangguan pada radar sistem tersebut maka ditetapkan suatu algoritma yang disebut
+Dynamic Frequency Selection (DFS). Algoritma ITU DFS ini sama dengan standar
+algoritma yang telah ditetapkan dan digunakan di Eropa sebelumnya oleh
+European Telecommunication Standards Institute (ETSI). Standar algoritma yang
+ditetapkan oleh ITU dan ETSI ternyata tidak mampu memberikan proteksi yang
+permanen bagi potensi interferensi pada operasional radar. Pemerintah Amerika
+menyatakan bahwa algoritma pada DFS-ETSI tidak mampu melindungi radar
+militer Amerika, sehingga pada Juli tahun 2006 The Federal Communications
+Commisions (FCC), The National Telecommunications And Information
+Administration (NTIA) dan Industri RLAN bekerjasama untuk merevisi algoritma
+DFS dan menerapkannya khusus untuk wilayah Amerika dalam upaya melindungi
+operasional radar C-band khususnya radar militer.
+Saat ini Badan Meteorologi Klimatologi Dan Geofisika (BMKG) telah
+mengoperasikan 27 Radar cuaca C-Band di seluruh Indonesia, yang diharapkan
+akan mampu menunjang operasional MEWS yang mengemban misi mengurangi
+resiko kerugian materi dan jiwa yang diakibatkan oleh kondisi cuaca ekstrim.
+Radar cuaca ini beroperasi pada Band 5600-5650 MHz, berdasarkan Dokumen
+IEEE 802.11a, frekuensi ini masuk pada alokasi frekuensi free yang dapat
+dipergunakan secara bersama. Pertumbuhan teknologi komunikasi berbasis
+nirkabel di Indonesia yang sangat pesat membuka peluang terjadinya potensi
+interferensi pada operasional radar cuaca yang dapat menimbulkan kerancuan pada
+hasil pengamatan radar cuaca sehingga mengakibatkan gangguan terhadap analisa
+prakiraan cuaca. Dalam mencari data dan fakta terkait isyu interferensi pada radar
+cuaca BMKG, maka dilakukan wawancara dan pengamatan langsung melalui citra
+produk pengamatan radar yang dioperasikan BMKG. Dari 27 radar cuaca yang
+dioperasikan BMKG, baru 14 lokasi yang telah diintegrasikan sehingga
+pengamatan awal dilakukan dikantor pusat BMKG. Dari hasil pemantauan pada
+citra radar dari Web Site Integrasi Radar Cuaca BMKG di
+www.radar.bmkg.go.id/bmkg2 terdapat 8 (delapan) radar cuaca yang memiliki
+potensi dugaan interferensi, yaitu Aceh, Palembang, Medan, Jakarta, Surabaya,
+Denpasar, Manado dan yang terbaru adalah Radar Semarang.
+Berdasarkan latar belakang masalah di atas, dapat diidentifikasi permasalahan
+yang berkaitan dengan interferensi Frekuensi pada radar cuaca C-Band khususnya
+pada radar cuaca BMKG adalah sebagai berikut :
+a) Potensi interferensi pada operasional radar cuaca semakin meningkat
+seiring dengan pertumbuhan industri telekomunikasi di Indonesia
+b) Belum adanya regulasi dalam tataran nasional yang mengatur penggunaan
+frekuensi 5 GHz.
+c) BMKG sebagai operator Radar C-band belum memiliki regulasi internal
+tentang batasan system operasional radar cuaca C-Band yang berhubungan
+dengan parameter DFS standard ITU-ETSI.
+Dari indentifikasi permasalahan diatas maka didapatkan permasalahan yaitu
+“Bagaimana memproteksi Radar Cuaca C-Band dari potensi interferensi pada
+penggunaan spektrum bersama di frekuensi 5 GHz?”. Dari permasalahan utama
+tersebut dijabarkan dalam sub permasalahan sebagai berikut :
+
+ISSN 2085-4811
+
+Eko Wardoyo, Analisis Interferensi Frekuensi Radar Cuaca C-Band di Indonesia
+
+165
+
+1. Adakah regulasi yang mengatur tentang penggunaan spektrum frekuensi
+pada band radar cuaca khususnya C-BAND radar baik tataran
+internasional maupun nasional?
+2. Faktor apa sajakah yang menyebabkan potensi interferensi pada radar
+cuaca BMKG ?
+3. Adakah kelemahan pada metode DFS dalam proteksi interferensi pada
+radar C-Band ?
+4. Bagaimana memperbaiki kelemahan yang ada pada DFS untuk melindungi
+radar C-Band dari interferensi?
+5. Bagaimana Regulasi yang harus diterapkan di Indonesia tentang
+penggunaan spektrum 5 GHz?
+Tujuan dari penelitian ini adalah mendapatkan data pasti tentang potensi
+interferensi pada frekuensi operasional radar C-Band di indonesia, memberikan
+deskripsi tentang karakteristik echo interferensi radar pada output produk radar
+cuaca sehingga dapat menghindarkan kesalahan interpretasi citra radar.
+Mengumpulkan data dan analisa tentang regulasi telekomunikasi yang ada dalam
+tataran Internasional maupun nasional terkait penggunaan sharing frekuensi di
+kanal 5 GHz, dan memberikan usulan dari aspek teknis dan regulasi terkait upaya
+perlindungan frekuensi operasional radar cuaca C-Band.
+2. KAJIAN PUSTAKA
+2.1 Radar
+Radar kependekan dari radio detection and ranging. Radar merupakan sistem
+gelombang elektromagnetik yang digunakan untuk mendeteksi, mengukur jarak
+dan membuat map benda-benda seperti pesawat terbang, kendaraan bermotor dan
+informasi cuaca/hujan. Gelombang radio/sinyal yang dipancarkan dari suatu benda
+dapat ditangkap oleh radar kemudian dianalisa untuk mengetahui lokasi dan bahkan
+jenis benda tersebut. Walaupun sinyal yang diterima relatif lemah, namun radar
+dapat dengan mudah mendeteksi dan memperkuat sinyal tersebut.
+Tahun 1865 seorang ahli fisika Inggris “James Clerk Maxwell“ mengembangkan
+dasar-dasar teori tentang elektromagnetik. Dan satu tahun kemudian, “Heinrich
+Rudolf Hertz” seorang ahli fisika Jerman berhasil membuktikan teori Maxwell
+dengan menemukan gelombang elektro magnetik. Penggunaan gelombang
+elektromagnetik untuk mendeteksi keberadaan suatu benda, pertama diterapkan
+oleh Christian Hülsmeyer pada tahun 1904 dengan memper tunjukkan kebolehan
+mendeteksi kehadiran dari suatu kapal pada cuaca berkabut tebal, tetapi belum
+sampai mengetahui jarak kapal tersebut.
+Pada tahun 1921 “Albert Wallace Hull” menemukan Magnetron sebagai tabung
+pemancar sinyal/ transmitter efisien. Tahun 1922 “A. H. Taylor and L.C.Young”
+dan tahun 1930 L. A. Hyland dari Laboratorium Riset kelautan Amerika Serikat,
+berturut-turut berhasil menempatkan transmitter pada kapal kayu dan pesawat
+terbang untuk pertama kalinya.
+Sebelum Perang Dunia II yakni antara tahun 1934 hingga 1936, ilmuwan dari
+Amerika, Jerman, Prancis dan Inggris mengembangkan sistem radar. Namun
+setelah Perang Dunia II sistem radar berkembang sangat pesat, baik tingkat resolusi
+ISSN 2085-4811
+
+166
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+
+dan portabilitas yang lebih tinggi, maupun peningkatan kemampuan sistem radar
+sebagai pertahanan militer. Hingga saat ini sistem radar sudah lebih luas lagi
+penggunaannya yakni meliputi kendali lalu lintas udara (Air Traffic Control),
+pemantau cuaca dan jalan.
+Radar pada umumnya beroperasi dengan menyebar tenaga elektromagnetik
+terbatas di dalam piringan antena yang bertujuan untuk menangkap sinyal dari
+benda yang melintas pada daerah tangkapan yang bersudut 20o – 40o. Ketika suatu
+benda masuk dalam daerah tangkapan antena, maka sinyal yang ditangkap akan
+diteruskan ke pusat sistem radar dan akan diproses hingga benda tersebut nantinya
+akan tampak dalam layar monitor/display.
+2.2 Radar Cuaca
+Doppler Radar Cuaca (TDWR) sistem, diperkenalkan pada tahun 1993,
+menyediakan pengukuran kuantitatif dari gust front , windshear, microbursts, dan
+deteksi dini bahaya cuaca lainnya yang digunakan untuk meningkatkan
+keselamatan operasi di bandara. Radar meteorologi adalah salah satu kunci dari
+stasiun permukaan yang digunakan untuk pengamatan meteorologi dan monitoring
+lingkungan, dan memegang peranan yang sangat penting dalam menyiapkan
+peringatan dini terhadap kondisi ekstrim, seperti banjir, puting beliung dan badai
+yang dapat membahayakan populasi dan merusak infrastruktur dan perekonomian.
+Pada prakteknya tidak semua echo yang ditangkap oleh radar cuaca merupakan
+echo fenomena meteorologi yang diharapkan, karena terdapat echo yang berasal
+dari objek non meteorologi atau yang umum di kenal sebagai ground cluter.
+
+Gambar 1. Output Display hasil pengamatan radar cuaca.
+
+Saat ini BMKG telah mengoperasikan 24 Radar cuaca C-Band di seluruh
+Indonesia, yang diharapkan akan mampu menunjang operasional MEWS yang
+mengemban misi mengurangi resiko kerugian materi dan jiwa yang diakibatkan
+oleh kondisi cuaca ekstrim. Radar cuaca ini beroperasi pada Band 5600-5650
+MHz, dan berdasarkan Dokumen IEEE 802.11a, frekuensi ini masuk pada alokasi
+frekuensi free yang dapat dipergunakan secara bersama. Pertumbuhan teknologi
+ISSN 2085-4811
+
+Eko Wardoyo, Analisis Interferensi Frekuensi Radar Cuaca C-Band di Indonesia
+
+167
+
+komunikasi berbasis nirkabel di Indonesia yang sangat pesat membuka peluang
+terjadinya potensi interferensi pada operasional radar cuaca yang dapat
+menimbulkan kerancuan pada hasil pengamatan radar cuaca sehingga
+mengakibatkan gangguan terhadap analisa prakiraan cuaca.
+2.2.1 Spesifikasi Radar Cuaca BMKG
+Saat ini Badan Meteorologi Klimatologi Dan Geofisika (BMKG) telah
+mengoperasikan 27 Radar cuaca C-Band di seluruh Indonesia, yang diharapkan
+akan mampu menunjang operasional MEWS yang mengemban misi mengurangi
+–
+resiko kerugian materi dan jiwa yang diakibatkan
+oleh kondisi cuaca ekstrim.
+
+Gematronik
+
+EEC
+
+Baron
+
+Vaisala
+
+•
+•
+
+Total 27 Radar
+Range Radar 150 Km
+
+Gambar 2 Jaringan pengamatan Radar cuaca C-band BMKG hingga tahun 2012
+
+Meskipun terdiri dari merk radar yang berbeda, namun secara umum keseluruhan
+radar cuaca yang dioperasikan BMKG memiliki spesifikasi system dan Hardware
+yang sama yaitu :
+Spesifikasi teknis unit Transmitter dan Receiver
+Transmitter Type
+Modulator Type
+Operating Frequency
+Ground Clutter Suppresion
+Pulse repetition frequency PRF
+Pulse width / Pulse Duration
+Peak Power
+Operating Frequency PRF
+Noise Figure
+Sensitivity (MDS)
+Component and Technology
+
+TRANSMITTER
+Coaxial Magnetron
+Solid State
+Tunable pada range min 5500 – 5700 MHz
+35 Db minimum
+Minimal 500 – 1200 Hz (Software controlled)
+Selectable within a range min 0.5 – 2.0 us
+350 KW minimum
+RECEIVER
+Min 5500 – 5700 MHz
+30 dB Maximum
+-111 dBm atau kurang
+Reciever harus built in dengan menggunakan technology terbaru
+
+Spesifikasi Teknis Radar Signal Processor
+Processor Type
+A/D conversion level
+Signal Processing
+
+CPU Board 32 bit, 25 MHz
+Minimal 14 bit Resolution
+Doppler system
+Signal processor harus berbasis digital proccesors
+
+ISSN 2085-4811
+
+168
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+Signal Processor Product
+
+Pulse Pair Processing
+Time Domain Clutter filter
+Calculation of RAW Data
+Output
+Dual PRF Mode
+Intensity Thresholding
+SQI Thresholding
+CSR Thresholding
+Speckle Removal
+
+Spesifikasi Unit Antena
+Reflector Type
+Feedhorn Type
+Beam width
+Gain
+Operating Frequency
+Polarization
+Side Lobes supression
+Azimuth Rotating Rate
+Azimuth PointingAccuracy
+Azimuth Display Resolution
+Elevation Movement Range
+Manual Mode
+Automatic Mode
+Motor
+Safety Devices
+
+Type
+
+2.3
+
+REFLECTOR
+Solid surface parabolic
+Rectangular / circular corrugated Horn
+1° max
+44 dB min
+5500 – 5700 MHz minimum
+Linear Horizontal
+27 dB minimum
+PEDESTAL
+0 – 5 RPM minimum
+± 0.1°
+± 0.1°
+- 1° to + 90°
+0° to + 90°
+Long Life
+Safe switch on pedestal and servo control panel Acces door
+interlock
+SERVO AMPLIFIER
+Solid-state two axis
+
+Spektrum Frekuensi Radio
+
+Spektrum frekuensi radio adalah sumber daya alam terbatas, dan ketersediaan
+Spectrum frekuensi akan memainkan peranan penting bagi keberhasilan suatu
+aplikasi. Untuk itu diperlukan suatu regulasi yang mengatur pemanfaatan spectrum
+frekuensi, di Indonesia terdapat beberapa regulasi yang mengatur tentang
+pemanfaatan spectrum frekuensi untuk aplikasi-aplikasi teknologi telekomunikasi.
+Beberapa di antaranya adalah sebagai berikut :
+1. UU 36/1999 Tentang Telekomunikasi
+2. PP 53/2000 Tentang Penggunaan Spectrum Frekuensi radio dan Orbit
+Satelit,
+3. Keputusan Menteri Perhubungan No. 5 Tahun 2001 tentang
+Tabel Alokasi Frekuensi Indonesia. Diperbarui dengan Permen Kominfo
+No. 29/PER/M.KOMINFO/07/ 2009
+4. Keputusan Dirjen Postel no: 155/2005 Tentang SOP Perijinan Frekuensi
+5. UU No. 31/2009 Tentang Meteorologi, Klimatologi dan Geofisika,
+
+ISSN 2085-4811
+
+Eko Wardoyo, Analisis Interferensi Frekuensi Radar Cuaca C-Band di Indonesia
+
+169
+
+khususnya pasal 63,64, dan 96 terkait frekuensi Operasional MKG
+Pada World Radio Confrence 2003 (WRC03), The International
+Telecomunications Union (ITU) merekomendasikan alokasi baru untuk frekuensi
+bebas pada spectrum, 5470 – 5725 MHz. Sebagaimana diketahui beberapa system
+berjalan seperti Radar cuaca, Radar Satelite dan Radar Militer memiliki potensi
+untuk terinterferensi dengan alokasi baru ini. Sehingga untuk meminimalisir
+potensi gangguan pada radar sistem tersebut maka ditetapkan suatu algoritma yang
+disebut Dynamic Frequency Selection (DFS). Algoritma ITU DFS ini sama dengan
+standar algoritma yang telah ditetapkan dan digunakan di Eropa sebelumnya oleh
+European Telecommunication Standards Institute (ETSI).
+Filter bertugas menyaring sinyal yang terletak pada wilayah spektrum yang
+berbeda-beda. Filter akan meloloskan sinyal yang memiliki frekuensi pada wilayah
+lolos dari filter ini (pass band) dan menahan atau menolak sinyal-sinyal yang
+berada di luar wilayah lolos (stop band).
+DFS diterapkan untuk penggunaan dua spektrum non lisensi band frekuensi,
+yaitu band 5252-5350 MHz dan 5470 – 5725 MHZ. 15 chanel alokasi diatur secara
+spesifik oleh IEEE, dapat dilihat pada tabel berikut ini.
+Tabel 1 Chanel Alokasi 5 GHz IEEE dan Frekuensi dengan penerapan Fungsi DFS
+
+Berdasarkan tabel alokasi chanel diatas maka dapat dilihat pada frekuensi
+operasional radar C Band yang dioperasikan BMKG antara 5600 – 5650 MHz tak
+kurang 4 chanel yang bersinggungan secara langsung yaitu chanel 120, 124, 128
+dan chanel 132. Dengan kondisi regulasi yang ada khususnya pada frekuensi 5
+GHz maka potensi interferensi frekuensi pada radar cuaca C-Band sangat besar,
+terlebih tidak di adopsinya persyaratan implementasi DFS pada perangkat 802.11a
+dan 802.11h di Indonesia.
+Standar algoritma yang ditetapkan oleh ITU dan ETSI ternyata tidak secara
+langsung mampu memberikan proteksi yang permanent bagi potensi interferensi
+pada operasional radar. Pemerintah Amerika menyatakan bahwa algoritma pada
+DFS-ETSI tidak mampu melindungi radar Militer Amerika, sehingga pada Juli
+tahun 2006 The Federal Communications Commisions (FCC), The National
+Telecommunications And Information Administration (NTIA) dan Industri RLAN
+bekerjasama untuk merevisi algoritma DFS dan menerapkannya khusus untuk
+wilayah Amerika.
+
+ISSN 2085-4811
+
+170
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+
+Berdasarkan data yang disampaikan oleh Phillipe Tristant (Frequency Manager
+of Meteo France) pada ITU/WMO seminar on Use of Radio Spectrum for
+Meteorology pada September 2009 terdapat 12 negara yang melaporkan kasus
+interferensi pada radar cuaca dengan standarisasi yang di terapkan oleh ITU/ETSI.
+Eumetnet (Europe Meteorologycal Network) yang beranggotakan 24 negara hingga
+saat ini terus menerima beberapa laporan terkait interferensi pada radar cuaca,
+sehingga secara berkelanjutan berusaha mencari solusi terbaik baik bagi
+operasional radar C-Band dan Industri telekomunikasi.
+2.4 Dynamic Frequency Selection (DFS)
+Sebagai proliferasi meningkat perangkat nirkabel, kebutuhan untuk berbagi
+spektrum radio dengan sistem radio lain menjadi perhatian penting. Badan
+pengawas Internasional telah mulai mengatur kebijakan pada Wireless Wide Area
+Network (WWAN) dalam meminimalkan gangguan pada sistem radio incumbent,
+terutama deteksi radio dan sistem radar, dimana mekanisme diperlukan untuk
+mendeteksi dan menghindari saluran frekuensi yang digunakan oleh sistem radar
+disebut Dinamis. Frequency Selection.
+Munculnya pasar nirkabel 802.11a dan 802.11h serta dorongan untuk membuka
+penggunaan spektrum yang tidak berlisensi dengan menetapkan persyaratan
+Frequency Selection Dinamis (DFS) untuk semua device/perangkat, sebuah
+mekanisme untuk memungkinkan perangkat berlisensi untuk menggunakan pita
+frekuensi 5 GHz sudah dialokasikan untuk sistem radar tanpa menyebabkan
+gangguan kepada frekuensi operasional radar. Konsep DFS adalah perangkat
+memiliki kemampuan untuk mendeteksi keberadaan sistem radar pada saluran yang
+mereka gunakan dan, jika ditemukan frekuensi radar, maka device akan
+mengosongkan saluran tersebut dan memilih alternatif saluran pada chanel yang
+lainnya.
+
+Gambar 3 Alur proses kerja DFS dalam memilih kanal frekuensi.
+
+ISSN 2085-4811
+
+Eko Wardoyo, Analisis Interferensi Frekuensi Radar Cuaca C-Band di Indonesia
+
+171
+
+Persyaratan peraturan untuk DFS, bersama dengan persyaratan untuk Power
+Transmit Control (TPC) dan loading saluran seragam, telah diadopsi di Eropa,
+Amerika Serikat, dan banyak wilayah geografis lainnya.
+Standarisasi Algoritma DFS yang ditetapkan oleh ITU-ETSI terus mengalami
+perkembangan dan perubahan seiring dengan laporan tetap terjadinya interferensi
+pada beberapa radar cuaca dan radar militer yang beroperasi di 5 GHz.
+Tabel 2
+
+Perubahan algoritma ini diharapkan akan mampu melindungi radar system dari
+potensi interferensi.
+2.5
+
+Teori Interferensi
+
+Interferensi adalah penjumlahan superposisi dari dua gelombang cahaya atau lebih
+yang menimbulkan pola gelombang yang baru.Jika pada suatu tempat bertemu dua
+buah gelombang, maka resultan gelombang di tempat tersebut sama dengan jumlah
+dari kedua gelombang tersebut. Peristwa ini di sebut sebagai prinsip superposisi linear.
+Gelombang-gelombang yang terpadu akan mempengaruhi medium. pengaruh yang
+ditimbulkan oleh gelombang-gelombang yang terpadu tersebut disebut interferensi
+gelombang.
+Dengan menggunakan konsep fase, dapat kita katakan bahwa interferensi konstruktif
+(saling menguatkan) terjadi bila kedua gelombang yang berpadu memiliki fase yang
+sama. Amplitudo gelombang paduan sama dengan dua kali amplitudo tiap gelombang.
+Interferensi destruktif (saling meniadakan) terjadi bila kedua gelombang yang berpadu
+berlawanan fase. Amplitudo gelombang paduan sama dengan nol.
+Interferensi pada radar cuaca, terjadi pada saat dua system yang memiliki
+frekuensi operasional yang sama (joe, 2005;Brandao et al, 2005). Radar
+mendapatkan jarak suatu objek dengan mengukur beda waktu antara transmit dan
+echo kembali, berdasarkan prinsip kerja ini maka radar akan menampilkan satu
+ISSN 2085-4811
+
+172
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+
+berkas echo yang bersifat tetap dari hasil pantulan signal interferensi. Pada display
+radar akan tampak berkas tetap pada posisi yang sama secara terus menerus.
+
+Gambar 4 Pola Interferensi pada output pengamatan radar Cuaca.
+
+3. ANALISA DAN PEMBAHASAN
+3.1 Metoda Penelitian
+Indikasi interferensi radar cuaca di Indonesia dan BMKG khususnya tidak
+terinventarisasi dengan baik mengingat isyu interferensi pada radar cuaca dinilai
+memiliki nilai kebenaran yang nihil oleh sebagian orang, meskipun hal ini pernah
+diangkat dan dilaporkan oleh teknisi operator radar.
+Dalam mencari data dan fakta terkait isyu interferensi pada radar cuaca BMKG,
+maka dilakukan wawancara dan pengamatan langsung melalui citra produk
+pengamatan radar yang dioperasikan BMKG. Dari 24 radar cuaca yang
+dioperasikan BMKG, baru 14 lokasi yang telah diintegrasikan sehingga
+pengamatan awal dilakukan dikantor Pusat BMKG.. Dari hasil pemantauan pada
+citra radar dari Web Site Integrasi Radar Cuaca BMKG di
+www.radar.bmkg.go.id/bmkg2 terdapat 8 (delapan) radar cuaca yang memiliki
+potensi dugaan interferensi, yaitu Aceh, Palembang, Medan, Jakarta, Surabaya,
+Denpasar, Manado dan yang terbaru adalah Radar Semarang.
+Berdasarkan temuan pada display radar cuaca Semarang, terhitung sejak tanggal
+3 Agustus 2011 terdapat seberkas objek tetap pada sisi Utara Radar cuaca yang
+diyakini bukan merupakan echo dari objek yang diharapkan pada pengamatan radar
+cuaca.
+
+ISSN 2085-4811
+
+Eko Wardoyo, Analisis Interferensi Frekuensi Radar Cuaca C-Band di Indonesia
+
+173
+
+Gambar 5 Display Radar Cuaca Semarang sejak tanggal 3 Agustus 2011.
+
+Echo tetap dalam tanda lingkaran berwarna merah seperti yang ditunjukkan pada
+gambar diatas telah diamati secara terus menerus selama 1 (satu) bulan sejak
+pertama kali tampak pada radar cuaca Semarang, dan meski cuaca dalam area
+pengamatan radar cuaca semarang dalam kondisi cerah, echo tersebut tetap tampak
+dengan jelas pada output display radar. Dengan fakta ini ditarik kesimpulan awal
+bahwa radar Baron semarang telah mengalami interferensi, dikarenakan objek yang
+berada pada arah 200 bersifat tetap dan memiliki pola yang tidak seperti lazimnya
+echo yang tampil dari reflektifitas dari echo meteorologi yang berpola lebih
+dinamis.
+Fenomena seperti ini juga tampak di beberapa radar yang ada di indonesia tanpa
+mengenal merk radar, baik Radar EEC maupun Radar Gematronik. Echo tetap yang
+diduga merupakan interferensi frekuensi terbesar adalah pada radar Tangerang dan
+Medan dimana terdapat lebih dari lima objek tetap yang selalu tampil baik dalam
+kondisi clear maupun berawan. Hal ini juga terdapat pada Radar Surabaya,
+Denpasar, Manado dan Palembang, meskipun untuk Palembang terdapat dugaan
+ada perangkat keras yang tidak terinstall secara baik atau kurang presisi karena echo
+yang tampil tidak tetap dan inkonsisten.
+Jika diperhatikan pada gambar 6, khususnya pada radar cuaca Tangerang dan
+Medan terdapat echo yang bersifat tetap dan konstan secara terus menerus tak kenal
+musim. Tampilan seperti ini sudah lama terjadi hingga sulit untuk ditentukan kapan
+awal gangguan dimulai.
+Demikian pula halnya dengan echo yang ada di radar surabaya. Pada kasus radar
+Denpasar echo yang didapatkan pada bulan Mei 2011 hanya bersifat temporer
+selama kurang lebih satu minggu, berdasarkan informasi yang didapatkan dari
+teknisi lokal yang berkoordinasi dengan pihak terkait bahwa pada lokasi tersebut
+pada 17 - 25 Mei 2011 terdapat kapal pesiar berbendera Australia yang sedang
+melakukan aktifitas wisata di perairan Bali.
+Sedangkan untuk Radar Palembang echo yang unik timbul bersifat sesaat dan
+tidak tetap sehingga ada dugaan terdapat koneksi hardware yang kurang presisi
+ataupun kerusakan pada part encoder yang mengakibatkan pengolahan echo tidak
+dapat maksimal dan menimbulkan interpretasi yang salah pada software radar.
+
+ISSN 2085-4811
+
+174
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+
+Gambar 6 Objek terduga interferensi dari beberapa radar cuaca.
+
+Berdasarkan data awal tersebut, maka ditentukan lokasi penelitian awal
+investigasi interferensi frekuensi radar adalah pada Radar Semarang mengingat
+awal timbulnya echo non meteorologi diketahui, sehingga untuk menghimpun
+informasi terkait interferensi dan penarikan kesimpulan awal lebih mudah.
+Teknik yang digunakan dalam penelitian ini adalah dengan metode “Listen-Only
+Test”, dengan memposisikan transmiter radar dalam posisi off sedangkan Receiver
+on. Kemudian berdasarkan teknik ujicoba, dan informasi dan kesimpulan yang
+didapat pada radar cuaca Semarang akan diuji pada radar Tangerang. Teknik ListenOnly dilakukan untuk mendapatkan Informasi awal posisi dan arah objek
+interference.
+
+ISSN 2085-4811
+
+Eko Wardoyo, Analisis Interferensi Frekuensi Radar Cuaca C-Band di Indonesia
+
+175
+
+3.1.1 Radar Semarang
+Dugaan awal echo non meteorologi pada radar Semarang berada di sisi Utara
+radar pada posisi awal di Laut, informasi awal yang berhasil didapatkan, bahwa
+pada lokasi tersebut terdapat terminal apung pengisian Bahan Bakar Gas (BBG)
+Pertamina.
+Metoda “Listen-Only Test” yang dilakukan untuk memastikan echo yang tampil
+pada Radar Semarang yaitu dengan me-non aktifkan radiasi (transmitter) radar
+sedangkan kondisi receiver tetap dalam posisi On. Dalam kondisi normal
+seharusnya display pada radar tidak menampakkan echo apapun mengingat tidak
+ada radiasi yang dipancarkan radar, namun faktanya echo terduga interferensi
+tersebut tetap terlihat. Hal ini menguatkan keyakinan bahwa potensi interferensi
+frekuensi pada Radar Semarang adalah Fakta yang terbukti.
+
+Gambar 7 Perbandingan Output pda display radar saat dilakukan “Listen-Only Test”.
+
+Berdasarkan hasil analisa pada kedua gambar diatas, maka didapatkan data awal
+sumber interferensi berada di sekitar laut Jawa pada posisi 200. Dengan data ini
+dilakukan pengumpulan informasi tentang kegiatan yang ada di lepas pantai utara
+Jawa tersebut, dimana terdapat stasiun terapung pengisian bahan bakar gas. Setelah
+dilakukan observasi dilokasi tersebut tidak terdapat peralatan yang terindikasi
+mampu menimbulkan interferensi pada radar. Hal ini cukup membingungkan
+mengingat sumber potensi interferensi yang didapatkan dari awal reflektifitas
+terdapat di tengah laut.
+Dalam perjalanan menuju ke tower radar cuaca Semarang penulis melalui satu
+menara telekomunikasi yang cukup besar dan searah dengan sumber interferensi
+pada jarak yang cukup dekat dengan menara radar semarang. Sehingga timbulkan
+dugaan mungkin sumber interferensi sebenarnya berasal dari titik ini. Untuk
+membuktikan kecurigaan ini maka dilakukan sedikit modifikasi pada parameter
+pengamatan radar cuaca semarang khususnya pada elevasi operasional radar. Jika
+pada gambar a. diatas echo yang didapat adalah pada elevasi operasi normal radar
+cuaca yaitu pada elevasi 0,50, maka parameter elevasi ini akan diubah pada elevasi
+00.
+Dengan melakukan perubahan pada parameter ini ternyata hasil yang ditemukan
+pada tampilan echo radar pada saat dilakukan pembesaran area maka didapatkan
+informasi baru tentang titik awal objek tetap tersebut berada di daratan dengan jarak
+< 500 m.
+
+ISSN 2085-4811
+
+176
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+
+Gambar 8 Koordinat titik awal kemunculan echo interferensi Radar Semarang.
+
+Dengan informasi baru ini maka dilakukan pengukuran lokasi pada Menara BTS
+yang diduga menjadi sumber echo interferensi pada radar. Dari hasil pengukuran
+pada menara milik Telkom terduga sumber Interferensi dengan menggunakan
+Global Positioning System (GPS) didapatkan koordinat yang sama dengan
+koordinat sumber echo interferensi dari radar Semarang.
+
+Gambar 9 Pengukuran koordinat Menara Telekomunikasi terduga Sumber Interferensi
+
+ISSN 2085-4811
+
+Eko Wardoyo, Analisis Interferensi Frekuensi Radar Cuaca C-Band di Indonesia
+
+177
+
+Dari hasil pengukuran yang dilakukan pada menara Telekomunikasi terduga
+sumber interferensi didapatkan koordinat yang sesuai dengan koordinat titik awal
+sumber interferensi sebagai mana ditunjukkan radar. Hasil pengukuran ini
+memberikan setitik harapan dalam mencari sumber interferensi pada radar cuaca
+BMKG, karena dengan data ini diharapakan akan mampu menjadi dasar dan bukti
+yang cukup kuat bahwa interferensi pada frekuensi operasional radar cuaca BMKG
+adalah benar terjadi dan memerlukan pemikiran yang cepat dan akurat untuk
+menentukan tindakan apa yang akan ditempuh dalam melindungi operasional radar
+cuaca dalam menunjang operasional MEWS (Meteorological Early Warning
+System).
+3.1.2 Radar Tangerang
+Dengan metode yang didapatkan dari hasil investigasi awal pada radar
+Semarang, maka dilakukan pengukuran yang sama untuk memastikan bahwa
+metode yang sama dapat dipergunakan dan di implementasikan pada Radar EEC
+Tangerang.
+
+Radiasi on
+
+radiasi off
+Gambar 10 Perbandingan output display radar kasus Tangerang
+
+Dari hasil test yang dilakukan dipastikan bahwa metode dapat berjalan dan
+didapatkan data awal sumber lebih dari satu sumber interfereni yang terdapat pada
+radar tangerang. Dengan melakukan proses zooming pada display radar diketahui
+sumber interferensi berada sangat dekat dengan menara radar cuaca, dimana
+sebagian besar sumber interferensi dimulai pada kisaran 300 – 500 meter.
+Berdasarkan pengamatan visual pada lingkungan menara Radar Cuaca
+Tangerang pada sisi Barat Menara banyak terdapat Menara BTS besar dalam jarak
+yang sangat dekat. Keberadaan Menara BTS yang sangat dekat dengan Menara
+Radar cuaca BMKG ini tidak hanya menimbulkan potensi Interferensi pada
+frekuensi operasional Radar cuaca, tetapi menyebabkan Obstacle pada radar. Hal
+ini dapat dilihat pada output produk radar cuaca BMKG, dimana terdapat blank area
+di titik lokasi Menara BTS. Kondisi tower Radar yang sangat dekat dengan menara
+telekomunikasi adalah sangat merugikan dari sisi operasional radar cuaca, karena
+tidak saja berpotensi terjadinya interferensi tetapi menara telekomunikasi ini
+mengakibatkan terhalangnya /obstacel pada operasional radar hal ini dapat dilihat
+dari adanya objek output pada display radar yang terpotong, hal ini dapat dilihat
+dengan nyata pada saat kondisi cuaca berawan atau saat hujan.
+
+ISSN 2085-4811
+
+178
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+
+3.1.3 Radar Bengkulu
+Pola interferensi yang ditemukan pada radar cuaca Bengkulu saat instalasi radar
+yang memiliki power sangat besar yang berasal sector 3400, echo tetap ini awalnya
+diduga interferensi berasal dari radar cuaca Padang yang berjarak kurang dari 250
+kilometer, karena posisinya tetap searah dengan posisi radar cuaca Padang.
+Sehingga dilakukan kordinasi dengan teknisi radar Padang untuk menon-aktifkan
+trasmiter radar guna memastikan sumber interferensi tersebut. Setelah transmitter
+radar cuaca Padang dimatikan ternyata echo interferensi masih tetap terlihat
+sehingga dipastikan terjadi interferensi dari perangkat lain.
+
+Gambar 11
+
+Dalam menentukan sumber interferensi digunakan metode yang sama dengan
+menambahkan metode direct finding antenna. Yaitu dengan mengarahkan antenna
+radar pada posisi sumber interferensi dan menghidupkan transmitter sehingga
+didapatkan arah dan kekuatan beserta posisi interferensi.
+
+Gambar 12 Pengukuran Echo Interferensi melalui aplikasi Ravis
+
+3.1.4 Radar Pontianak
+Radar ini memiliki type dan merk yang sama dengan radar Tangerang, sehingga
+pengumpulan data dilakukan dengan melakukan pengukuran frekuensi yang berada
+di lingkungan operasional radar Pontianak. Pengukuran dilakukan bersama dengan
+ISSN 2085-4811
+
+Eko Wardoyo, Analisis Interferensi Frekuensi Radar Cuaca C-Band di Indonesia
+
+179
+
+petugas Balai Monitoring Kota Pontianak, yang saat pengukuran dilakukan sedang
+melakukan pengawasan terhadap proses pemindahan frekuensi operasional BWA
+di Kalimantan Barat dari 2,3 GHz yang akan digunakan untuk operasional WIMAX
+ke frekuensi 5,8 GHz.
+
+Gambar 13 Pengukuran Frekuensi di wilayah operasional Radar Pontianak
+
+Berdasarkan hasil pengukuran didapatkan bahwa sumber interferensi pada radar
+cuaca Pontianak disebabkan oleh salah satu penyelenggara BWA dengan nama
+SSID tr_al dan device yang dipergunakan adalah UBNT yang juga banyak dipakai
+oleh penyelenggara lainnya. Berdasarkan informasi dari Tim Balai Monitoring
+pengelola SSID tr_al ini adalah penyelenggara BWA yang berijin resmi yang
+frekuensi operasional resminya di kanal 5,8 GHz.
+Tim Monitoring sempat melakukan kordinasi hingga ke Dirjen Postel Pusat
+untuk mengambil langkah terkait interferensi di wilayah ini, dan mendapatkan
+informasi bahwa tindakan hanya dapat dilakukan jika pelapor dalam hal ini BMKG
+telah melaporkan dan memiliki ijin penggunaan Frekuensi 5.6 GHz terlebih lagi
+penyelenggara BWA tersebut memiliki ijin meskipun beroperasi di frekuensi yang
+tidak seharusnya.
+3.2 Benchmark
+Proteksi frekuensi operasional radar cuaca, merupakan isyu internasional yang
+hingga saat ini masih menjadi perdebatan yang belum berakhir. Berdasarkan
+Keputusan bersama pada WRC – 03 tentang proteksi Radar Cuaca dengan
+kewajiban menerapkan algoritma DFS, yang pada kenyataannya tidak mampu
+secara optimal melindungi frekuensi radar C-Band. Sehingga beberapa usulan
+disampaikan dengan melakukan modifikasi pada algoritma DFS, Penambahan
+beberapa perangkat filtering pada receiver Radar, hingga perubahan pada
+frekuensi operasional radar cuaca.
+Dalam perjalanannya ternyata algoritma DFS yang ditetapkan belum mampu
+melindungi radar cuaca dari interferensi, sehingga dibeberapa negara seperti
+Amerika, Canada dan Australia membuat regulasi tersendiri guna memproteksi
+Radar cuaca. Kepedulian yang tinggi atas kelangsungan operasional Radar cuaca
+dibeberapa negara dikarenakan kesadaran akan pentingnya radar dalam menunjang
+nowcasting dan deteksi dini potensi cuaca ekstrim yang merugikan masyarakat
+banyak.
+3.2.1 Canada
+Dalam upaya melindungi operasional radar cuaca, canada membentuk satu tim
+khusus untuk melakukan riset terkait interferensi pada radar cuaca di Canada,
+ISSN 2085-4811
+
+180
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+
+kesedaran akan pentingnya pengamatan radar cuaca dinegara ini memberikan
+kemudahan dalam mewujudkan proteksi tersebut.
+Proteksi Frekuensi radar cuaca dilakukan dengan dua pendekatan, yaitu dengan
+melakukan proteksi pada kanal spektrum 5470 – 5725 MHZ dan menseleksi secara
+ketat terhadap semua device yang beroperasi pada kisaran 5 GHz dengan
+memastikan dilengkapi fungsi DFS yang telah disesuaikan dengan operasional pada
+radar Canada.
+3.2.2 Australia
+Sejak tahun 2004 setelah WRC-03 BOM Australia melakukan pengkajian secara
+detail dalam mencari solusi guna melindungi operasional radar cuaca C Band yang
+mereka operasikan terkait regulasi sharing frekuensi pada 5 Ghz. Bekerjasama
+dengan otoritas telekomunikasi Australia, BOM ( Berau of Meteorology) berhasil
+melakukan proteksi terhadap 6 chanel spektrum pada alokasi chanel yang ada pada
+5 Ghz. Hal ini dilakukan untuk melindungi frekuensi operasional radar cuaca di
+Australia.
+Meski secara resmi telah diberikan proteksi tidak serta merta mampu melindungi
+oprasional radar dari interferensi frekuensi lainnya, berdasarkan laporan yang ada
+ditemukan beberapa kasus interferensi pada radar cuaca.
+3.2.3 Amerika
+Amerika adalah negara pertama yang melakukan konfirmasi tentang kelemahan
+algoritma DFS standar ETSI yang dinyatakan tidak mampu melidnungi radar
+mereka dari interferensi dari pengguna lainnya.
+Selama kurang lebih 2 tahun lamanya, kementrian perdagangan dan pertahanan
+Amerika Serikat melakukan riset khusus terkait interferensi radar cuaca C-Band.
+Hal ini dilakukan karena dengan menerapkan standarisasi DFS berdasarkan
+algoritma ETSI tidak mampu secara optimal melindungi operasional radar cuaca
+dan radar militer Amerika.
+Riset pengembangan Algoritma DFS yang diterapkan dan menjadi standar di
+negara ini dikembangkan oleh beberapa institusi seperti NTIA (National
+Telecommunications and Information Administration)
+dan FCC (Federal
+Communications Commision) sehingga menghasilkan satu standar DFS yang
+memiliki karakteristik yang berbeda dengan Standar ETSI.
+Tak hanya menerapkan standar DFS yang disesuaikan dengan karakteristik
+operasional radar C-band, FCC juga melakukan pengawasan dan penindakan secara
+ketat terhadap penggunaan frekuensi ini.
+
+3.3 Diskusi
+3.3.1 Diskusi Internal BMKG
+Diskusi dilakukan dengan mengangkat tentang potensi interferensi radar C-Band
+ynag dioperasikan BMKG khususnya dan inventarisasi frekuensi operasional
+sebagai upaya untuk mengajukan perlindungang frekuensi operasional MKG
+kepada regulator.
+Dalam diskusi diketahui adanya potensi interferensi operasional lain yang
+dipergunakan oleh BMKG antara lain Frekuensi Statelit Receiver, Radio Sonde dan
+ISSN 2085-4811
+
+Eko Wardoyo, Analisis Interferensi Frekuensi Radar Cuaca C-Band di Indonesia
+
+181
+
+Frekuensi Komunikasi Pemantau Gempa Bumi.
+Hasil dari diskusi ini disepakati untuk melakukan inventarisasi Frekuensi yang
+dipergunakan untuk Operasioanal dan diseminasi oleh BMKG dan melakukan
+kordinasi dengan KemKOMINFO melalui SDPPI untuk mengajukan dan
+mendapatkan perlindungan Frekuensi operasional BMKG sesuai dengan amanat
+UU dan Peraturan yang berlaku.
+3.3.2 Diskusi dengan SDPPI
+Berdasarkan diskusi internal BMKG maka dilakukan inventarisasi dan
+pengajuan perlindungan frekuensi operasional MKG khususnya membahas tentang
+interferensi pada radar C-Band melalui Dirjen SDPPI. Dalam prosesnya dilakukan
+diskusi internal membahas interferensi yang terjadi pada frekuensi radar dan satelit
+cuaca, dan disimpulkan bahwa upaya perlindungan harus diawali dengan
+pendaftaran ijin operasional frekuensi radar cuaca. Namun mengingat frekuensi 5
+GHz adalah frekuensi free dan unlicensed maka pihak SDPPI menyatakan kesulitan
+yang dihadapi dalam mengatasi permasalahan ini sehingga disarankan agar BMKG
+mengganti Band radar yang digunakan untuk mempermudah upaya perlindungan
+mengingat di kanal X- Band dan S Band pengguna yang ada di Indonesia semua
+sudah terdaftar dalam database frekuensi KEMKOMINFO.
+3.4 Analisa dan Pembahasan
+3.4.1 Analisis Kelemahan DSF
+Persyaratan peraturan untuk DFS, bersama dengan persyaratan untuk Power
+Transmit Control (TPC) dan loading saluran seragam, telah diadopsi di Eropa,
+Amerika Serikat, dan banyak wilayah geografis lainnya. Keberhasilan DFS dalam
+mengenali frekuensi operasional disuatu daerah berhubungan langsung dengan
+beberapa parameter operasional radar yang dipergunakan, parameter tersebut
+adalah sebagai berikut:
+1.
+
+Pulse Width
+
+2. Pulse Repetition Frequency
+3. Burst length
+4. Scan strategy
+
+Berdasarkan standar ETSI, DFS menggunakan konsep mode Chanel Availibility
+Check (CAC) dimana master devices akan melakukan pengecekan sinyal radar pada
+lingkungan operasional sebelum menggunakan suatu chanel. Secara default CAC
+dilakukan saat awal pertama kali devices master dipergunakan, dengan durasi
+selama 60 detik.
+Permasalahan utama dari tidak efektifnya implementasi persyaratan DFS EN 301
+893 (V1.2.3) yang diluncurkan pada Agustus 2003 dalam upaya melindungi
+frekuensi operasional Radar C-Band adalah secara default konfigurasi fungsi DFS
+ini pada perangkat Wifi adalah Off (tidak aktif), sehingga diperlukan aktifasi oleh
+administrator jaringan saat mengkonfigurasi perangkat tersebut sedangkan isyu dan
+kewajiban mengaktifkan DFS tidak pernah diajarkan pada training perangkat
+tersebut.
+3.4.2 Analisis Regulasi penggunaan spektrum 5 GHz di Indonesia
+Sharing frekuensi pada spektrum 5 GHz dilakukan atas desakan Wi-fi Alliance
+ISSN 2085-4811
+
+182
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+
+sejak tahun 1999 karena desakan kebutuhan akan alokasi spektrum frekuensi yang
+memiliki bandwidth yang lebar. Dengan mempertimbang resiko interferensi
+terhadap beberapa system yang sudah berjalan di frekuensi ini maka diperlukan
+penelitian dan pertimbangan bertahun-tahun hingga pada WRC-03 diputuskan
+untuk melakukan sharing frekuensi di Spektrum 5 GHz.
+Dalam Upaya melindungi beberapa system yang telah berjalan dan sebagai
+pengguna utama, maka ditetapkan persyaratan yang harus dipenuhi pada semua
+perangkat 802.11° yang akan dikembangkan ataupun dipasarkan Yaitu DFS
+(Dynamic Frequency Selections) dan TPC (Transmit Power Control).
+Radar Cuaca C-Band merupakan salah satu pengguna utama di band frekuensi 5
+GHz sebagaimana dimaksudkan dalam ITU-R Recommendation M-1650.
+
+4. KESIMPULAN DAN SARAN
+4.1 Kesimpulan
+1.
+2.
+3.
+
+4.
+
+Interferensi pada radar cuaca yang terjadi pada Radar C-Band adalah fakta nyata yang benar
+terjadi.
+Interferensi disebabkan oleh device/perangkat wifi yang beroperasi pada frekuensi 5 Ghz,
+dimana fungsi DFS sebagaimana disyaratkan oleh ITU-ETSI tidak diaktifkan.
+Frekuensi Operasional Radar Cuaca BMKG Belum pernah didaftarkan sehingga proteksi
+terhadap Frekuensi Operasional Radar cuaca sebagaimana dimaksud dalam UU 31/2009
+belum dapat dilakukan.
+Belum ada regulasi dalam tatanan nasional yang mengadopsi aturan WRC-03 yang
+mengatur tentang sharing frekuensi 5 Ghz, yang spesifik mengatur kewajiban mengaktifkan
+DFS pada proses sertifikasi perangkat yang beroperasi pada frekuensi ini.
+
+4.2 Saran
+1. Untuk melindungi kinerja dan hasil pengamatan Radar cuaca yang sangat
+penting maka diperlukan penelitian lebih lanjut pada setiap radar site yang
+
+ISSN 2085-4811
+
+Eko Wardoyo, Analisis Interferensi Frekuensi Radar Cuaca C-Band di Indonesia
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+183
+
+terindikasi mengalami interferensi, khususnya untuk memastikan letak
+sumber interferensi, jumlah, serta jenis dan spesifikasi device Wifi yang
+dipergunakan yang mengakibatkan interferensi.
+Perlu pengkajian lebih lanjut terhadap lokasi Tower Radar Cuaca Tangerang
+dan Medan, mengingat pada dua lokasi tersebut terdapat interferensi yang
+sangat besar.
+Diperlukan pengajuan draft perlindungan terhadap penggunaan Frekuensi
+5.6 – 5,65 Ghz untuk operasional radar cuaca BMKG kepada pemerintah
+dan instansi terkait.
+Koordinasi dengan Badan Regulasi Telekomunikasi (BRTI) dan
+Depkominfo diperlukan untuk menerapkan aturan standar jarak terdekat
+dengan Tower Radar Cuaca yang di ijinkan agar tidak saling mengganggu
+operasional ( UU No 36/1999)
+Diperlukan koordinasi dan kerjasama yang lebih baik dengan instistusi dan
+regulator Telekomunikasi serta Pemerintah Daerah khususnya sehingga
+dapat di capai lingkungan pengamatan yang ideal bagi Radar cuaca BMKG.
+Hal ini diperlukan mengingat regulasi terhadap pembangunan menara
+telekomunikasi (BTS) diatur dalam Perda, sehingga berbeda di setiap
+daerah.
+Penentuan Lokasi Pembangunan Radar Cuaca hendaknya dikoordinasikan
+dengan pemda setempat khususnya berkaitan dengan desain Tata Ruang dan
+kebijakan pembangunan menara telekomunikasi
+untuk mencegah
+terjadinya gangguan halangan/obstacel menara komunikasi.
+
+ISSN 2085-4811
+
+184
+
+IncomTech, Jurnal Telekomunikasi dan Komputer, vol.5, no.2, Mei 2014
+
+DAFTAR PUSTAKA
+[1]
+
+K. Daniel Wong ( 2005 ). Wireless Internet Telecommunications. Boston: Artech.House
+
+[2]
+
+Mathew S. Gast. (2005). 802.11 Wireless Networks: The Definitive Guide, 2nd Edition. O’Reilly
+
+[3]
+
+Joe Paul. (2005).Radio Local area Network (RLAN) and C-Band Weather Radar Interference Studies:Proceedings of
+the AMS Radar Conference on Meteorology, New Mexico.
+
+[4]
+
+Frank H. Sanders, Robert L. Sole, Brent L. Bedford, David Franc, Timothy Pawlowitz (2006). Effects of RF
+Interference on Radar Receivers, NTIA Report
+
+[5]
+
+John Carroll, Frank Sanders, Robert Sanders, (2010). Interference Effects and Interference-limit Criteria for Radar
+Receivers: Proceedings IEEE Electromagnetic Compatibility Confrence, Ft. Lauderdale, FL.
+
+[6]
+
+Seyed Javad Kazemitabar, (2011). Coping with Interference in Wireless Networks, Springer Dordrecht Heidelberg
+London New York.
+
+[7]
+
+Zoltan Horvath, David Varga, (2009). Channel allocation techique for Eliminating Interference caused by RLANs on
+Meteorological Radars in 5 GHz band: INFOCOMMUNICATIONS JOURNAL VOLUME LXIV. • 2009/III.
+
+[8]
+
+André L. Brandão
+Ottawa.
+
+[9]
+
+WMO-ITU (2009), Handbook Use of Radio Spectrum for meteorology; Weather, Water and Climate Monitoring and
+Prediction Edition 2008: Radio Communication Bureau Switzerland, Geneva.
+
+2004, 5GHz RLAN Interference on Active Meteorological Radars, CFC Conference CRC –
+
+[10]
+http://www.itu.int/net/itu_search/index.aspx?cx=001276825495132238663%3Anqzm45z846q&cof=FORID%3
+A9&ie=UTF-8&q=rlan+5+ghz&sa=Search&siteurl=www.itu.int%2FITU-R%2Findex.asp%3Fcategory%3Dstudygroups%26rlink%3Drcpm-wrc-11-studies%26lang%3Den&ref=denysetia.wordpress.com%2Fregulasi-spektrumfrekuensi-radio-indonesia%2Fworld-radiocommunication-conference-2012%2F
+
+ISSN 2085-4811
+
+

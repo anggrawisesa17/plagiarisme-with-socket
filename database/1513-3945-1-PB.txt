@@ -1,0 +1,1577 @@
+Warta Penelitian Perhubungan 2020, 32 (2): 93-102
+
+Studi Simulasi Model Kecelakaan Pengendara Mobil untuk
+Meningkatkan Keselamatan Lalu Lintas di Daerah Perkotaan
+Imma Widyawati Agustin*1, Christia Meidiana2 dan Sri Muljaningsih3
+Fakultas Teknik, Universitas Brawijaya1,2
+Jl. MT. Haryono 167, Kota Malang, 65145, Jawa Timur, Indonesia
+
+Fakultas Ekonomi dan Bisnis, Universitas Brawijaya3
+Jl. Veteran, Kota Malang, 65145, Jawa Timur, Indonesia
+E-mail: immasaitama@ub.ac.id*
+Diterima: 28 Februari 2020, disetujui: 26 November 2020, diterbitkan online: 31 Desember 2020
+
+Abstrak
+Berbagai permasalahan transportasi yang sering dialami dengan kepadatan lalu lintas yang tinggi salah satunya adalah
+kecelakaan lalu lintas. Kecelakaan lalu lintas di Kota Surabaya pada tahun 2017 tercatat sebanyak 1.338 kejadian
+kecelakaan. Jumlah kejadian kecelakaan ini didominasi oleh kendaraan pribadi seperti sepeda motor dan mobil. Penelitian
+ini bertujuan membuat model peluang kecelakaan mobil di Kota Surabaya yang didasarkan pada data karakteristik jalan
+dan karakteristik pengendara untuk mengetahui tindakan yang tepat dalam menurunkan angka kecelakaan mobil. Metode
+yang digunakan dalam penelitian ini adalah analisis generalized linear model (GLM) untuk melihat model peluang
+kecelakaan mobil berdasarkan karakteristik jalan dan regresi logistik biner untuk melihat model peluang kecelakaan mobil
+berdasarkan karakteristik pengendara mobil. Penelitian ini difokuskan pada six ruas jalan yang memiliki tingkat
+kecelakaan tertinggi dan sedang, serta diwakilkan dengan 348 responden pengendara mobil. Dari hasil analisis GLM
+didapatkan model peluang kecelakaan McA = 𝑒𝑒 4,5 − 0,707 Lebar badan jalan yang menunjukkan bahwa hanya lebar badan jalan
+yang mempengaruhi peluang kecelakaan mobil. Hal ini dapat diintepretasikan bahwa jika lebar badan jalan memiliki
+peningkatan 10% dari lebar badan jalan sebelumnya, maka model pendekatan dengan GLM memprediksi akan terjadi
+peningkatan jumlah kecelakaan mobil sebanyak 84 korban. Dari hasil analisis regresi logistik biner didapatkan model
+peluang kecelakaan di mana perilaku pengendara yang mempengaruhi peluang kecelakaan mobil adalah membawa surat
+berkendara seperti SIM dan STNK (X 3.6), mematuhi lampu lalu lintas (X3.10), memberi tanda berbelok/darurat (X3.11),
+menggunakan sabuk pengaman (X3.12), dan mengantuk saat mengendarai (X3.13).
+Kata kunci: Model kecelakaan, pengendara mobil, generalized-linear-model, Kota Surabaya.
+
+Abstract
+Simulation Study of Car Accident Model to Improve Traffic Safety in the Urban Area: Various transportation problems
+that are often experienced with high traffic density, one of which is a traffic accident. The number of accidents is dominated
+by private vehicles such as motorbikes and cars. This study aimed to make a car accident model in Surabaya Ciy based on
+the road and the driver characteristics to find out the right actions in reducing the number of car accidents. The study used
+the analysis of generalized linear model (GLM) and binary logistic regression. It focused on six road segments that have
+the highest and moderate accident rates, and it was represented by 348 respondents of car drivers. The results of the GLM
+analysis obtained a probability model of McA = 𝒆𝒆𝟒𝟒,𝟓𝟓 − 𝟎𝟎,𝟕𝟕𝟎𝟎𝟕𝟕 𝑹𝑹𝑹𝑹𝑹𝑹𝑹𝑹 𝑾𝑾𝑾𝑾𝑹𝑹𝑾𝑾𝑾𝑾 which shows only the w idth o f the roa d body th at
+affects the chances of a car accident. It can be interpreted that if the road width has increased by 10% from the previous
+road width, the GLM approach model predicts an increase in the number of car accidents by 84 victims. Furthermore, the
+driver ’s behavior that affects the chances of a car accident include carrying a driver license and vehicle registration (X3.6),
+obeying a traffic light (X3.10), giving a turning/emergency sign (X3.11), using a seat belt (X3.12), and being drowsy when
+driving (X3.13).
+Keywords : Accident model, car driver, generalized-linear-model, Surabaya City.
+
+1. Pendahuluan
+Tingkat keparahan tersangka kecelakaan mobil di
+Kota Surabaya didominasi oleh kelompok tersangka
+dengan cedera ringan sebanyak 473 (70%), sedangkan
+persentase terendah ada pada kelompok keparahan
+cedera sebanyak 83 (12%) [1]. Hasil penelitian dari [2]
+bertujuan untuk menjadi acuan berpikir tentang
+interaksi manusia dan kendaraan, dengan melihat
+kemajuan yang ada sekarang dan dalam skenario saat
+ini yang akan menjadikan kendaraan di pasar yang
+
+sangat berbeda dari apa yang kita gunakan saat ini.
+Ditemukan bahwa cedera ringan lebih kecil
+kemungkinannya untuk dilaporkan daripada cedera
+serius di Republik Ceko, Prancis, dan Yunani,
+sedangkan kasus sebaliknya terjadi di Belanda dan
+Inggris [3]. Dalam proyek ‘in safety’, fokus utama
+adalah pada langkah-langkah yang tidak terlalu jauh
+dari pasar. Langkah-langkah yang lebih inovatif dapat
+dibayangkan dan harus dikembangkan. Penilaian
+keamanan atas tindakan yang tidak ada, berdasarkan
+kesamaan dengan tindakan infrastruktur, adalah opsi
+
+doi: http://dx.doi.org/10.25104/warlit.v32i2.1513
+0852-1824/ 2580-1082 ©2020 Sekretariat Badan Penelitian dan Pengembangan Perhubungan.
+Artikel ini open access dibawah lisensi CC BY-NC-SA (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Nomor akreditasi: (RISTEKDIKTI) 10/E/KPT/2019 (Sinta 2).
+
+Imma Widyawati Agustin, Christia Meidiana, Sri Muljaningsih
+
+Warta Penelitian Perhubungan 2020, 32 (2): 93-102
+
+yang dapat diambil. Pada tahap selanjutnya dalam
+proyek, data dari kegiatan pemodelan dan evaluasi
+situs percontohan dapat digunakan untuk penilaian
+efek keselamatan [4]. Temuan menarik terkait
+dengan parameter yang mencerminkan pengalaman
+kecelakaan pengemudi, di mana terbukti bahwa
+responden dapat membedakan antara kecelakaan
+yang terjadi di daerah perkotaan versus pedesaan,
+serta kecelakaan antara pengemudi versus
+penumpang [5]. Mengingat adanya insiden
+kecelakaan jalan, penting untuk memperhatikan
+persimpangan dan pejalan kaki. Lebih dari 50%
+kecelakaan perkotaan terjadi di persimpangan
+dengan keterlibatan jumlah pejalan kaki yang
+signifikan [6].
+
+adalah kendaraan seperti bus, truk, dan transportasi
+berat lainnya [10].
+Jumlah kendaraan yang tinggi ini dapat memicu
+peningkatan kecelakaan lalu lintas di Kota Surabaya.
+Kecelakaan lalu lintas di Kota Surabaya pada tahun
+2017 tercatat sebanyak 1.338 kecelakaan [11]. Jumlah
+kecelakaan didominasi oleh kendaraan pribadi
+seperti sepeda motor dan mobil. Mobil berada di
+posisi kedua yang menyumbang aliran pergerakan
+transportasi terbanyak setelah sepeda motor di Kota
+Surabaya. Meskipun jumlah kecelakaan lalu lintas
+yang disebabkan oleh mobil tidak sebanyak sepeda
+motor, mobil dapat menyebabkan tingkat keparahan
+kecelakaan lalu lintas yang lebih besar daripada
+sepeda motor [12]. Dari 1.338 kecelakaan di Kota
+Surabaya, kecelakaan lalu lintas yang disebabkan
+oleh mobil pada 2017 berjumlah 461 kecelakaan
+dengan kondisi 71 orang meninggal dan 47 orang
+terluka parah [11]. Oleh karena itu, perlu dilakukan
+studi lebih lanjut tentang cara meningkatkan
+keselamatan lalu lintas, terutama bagi pengendara
+untuk mengurangi terjadinya kecelakaan lalu lintas
+yang tinggi.
+
+Sangat menarik untuk dicatat bahwa pengemudi
+yang menginginkan batas kecepatan lebih tinggi
+adalah mereka yang lebih sering melanggar batas
+kecepatan. Batas kecepatan yang tidak tepat adalah
+pembenaran umum semua batas kecepatan;
+beruntungnya ini hanya ditemukan secara signifikan
+untuk jalan perkotaan. Temuan ini mengarah pada
+kesimpulan bahwa pada jalan non-perkotaan, semua
+yang melampaui batas kecepatan, sadar bahwa
+mereka melanggar batas yang mereka anggap tepat
+[6]. Dalam eksperimen yang melibatkan peristiwa tak
+terduga dan beberapa peristiwa berulang, setidaknya
+dalam beberapa kasus, dapat merancang secara
+berulang sehingga data perilaku yang dikumpulkan
+dari pengaturan ini dapat digunakan bersama dengan
+data dari pengaturan yang tidak terduga. Dengan
+menggunakan prosedur ini, seseorang dapat secara
+signifikan meningkatkan jumlah data yang
+dikumpulkan, sesuatu yang sangat berguna,
+misalnya, pemodelan pengendara mobil [7].
+Pelatihan pertolongan pertama berbasis pengalaman,
+yang berfokus pada pengetahuan dan keterampilan,
+serta pengaturan psikologis, adalah pengetahuan
+bagi pengemudi yang tidak efektif yang dapat
+membantu mengurangi jumlah kematian dan cedera
+serius pada kesehatan yang disebabkan oleh
+kecelakaan lalu lintas [8].
+
+Perbedaan karakteristik pengemudi mobil seperti
+aspek sosial ekonomi, pergerakan, dan perilaku dapat
+mempengaruhi peluang terjadinya kecelakaan lalu
+lintas [13]. Berdasarkan data tingkat kecelakaan dan
+faktor kecelakaan lalu lintas di atas, perlu dikaji
+kemungkinan model kecelakaan yang melibatkan
+karakteristik jalan dan pengendara di Kota Surabaya.
+Lokasi penelitian berada di jalan dengan tingkat
+kecelakaan tertinggi hingga sedang dari semua jalan
+di Kota Surabaya.
+Kecelakaan lalu lintas menurut [14] adalah
+peristiwa tak terduga dan tidak disengaja di jalan
+yang melibatkan kendaraan dengan atau tanpa
+pengguna jalan lain yang mengakibatkan korban
+manusia dan/atau kerugian harta benda. Menurut
+[15], kecelakaan lalu lintas dapat disebabkan oleh
+berbagai faktor, termasuk faktor pengemudi (faktor
+manusia), faktor kendaraan, faktor jalan, dan faktor
+lingkungan. Faktor manusia dalam tabrakan
+kendaraan mencakup semua faktor yang berkaitan
+dengan perilaku pengemudi dan pengguna jalan lain
+yang dapat berkontribusi pada tabrakan. Contoh-
+
+Kecelakaan lalu lintas sering terjadi di beberapa
+kota besar. Kota memiliki aliran pergerakan yang
+sangat tinggi karena kota merupakan pusat dari
+semua kegiatan masyarakat dalam melakukan
+berbagai kegiatan ekonomi. Kota Surabaya adalah
+kota metropolitan terbesar kedua setelah Jakarta di
+negara Indonesia. Masalah transportasi di kota-kota
+besar seperti Surabaya adalah pertumbuhan jumlah
+kendaraan yang terus meningkat dari tahun ke tahun,
+yang rata-rata di atas 3%. Selain itu, pembangunan
+infrastruktur atau peningkatan jumlah dan lebar
+jalan masih sangat kecil, yaitu kira-kira di bawah 1%
+per tahun [9]. Jumlah kendaraan di Kota Surabaya
+mencapai 2.126.168 unit dengan persentase
+kendaraan bermotor 78%, mobil 16%, dan 6% sisanya
+
+Tabel 1. Wilayah Studi Penelitian
+Rata-Rata
+Kecelakaan
+
+Klasifikasi
+Kecelakaan
+
+Jalan Ahmad Yani
+
+22.5
+
+Tertinggi
+
+Jalan Dr. Ir. H. Soekarno
+
+11
+
+Sedang
+
+Jalan Raya Darmo
+
+8
+
+Sedang
+
+Jalan Raya Diponegoro
+
+9
+
+Sedang
+
+Jalan Raya Mastrip
+
+16.75
+
+Tertinggi
+
+Jalan Tambak Osowilangun
+
+10.75
+
+Sedang
+
+Ruas Jalan
+
+Sumber: Hasil Analisis, 2019
+
+94
+
+Warta Penelitian Perhubungan 2020, 32 (2): 93–102
+
+Imma Widyawati Agustin, Christia Meidiana, Sri Muljaningsih
+
+contoh yang mencakup perilaku pengemudi
+termasuk penglihatan dan ketajaman pendengaran,
+kemampuan untuk mengambil keputusan, dan
+kecepatan reaksi terhadap perubahan kondisi
+lingkungan dan jalan. Keyakinan dalam keterampilan
+mengemudi akan tumbuh di luar kendali sehingga
+potensi dan kemungkinan kecelakaan bahkan lebih
+besar [16].
+
+Tabel 2. Klasifikasi Rentang Nilai Berdasarkan Rata Rata Kejadian Kecelakaan
+
+Perbedaan karakteristik pengemudi seperti aspek
+sosial ekonomi, pergerakan, dan perilaku dapat
+mempengaruhi peluang terjadinya kecelakaan lalu
+lintas yang disebabkan oleh faktor pengemudi [13].
+Faktor manusia yang disebabkan oleh perilaku
+pengemudi mobil sangat mempengaruhi kejadian
+kecelakaan mobil di Kota Surabaya. Penyebab utama
+adalah faktor kurangnya disiplin pengguna jalan,
+yaitu pengemudi yang mengendarai kendaraan
+melampaui batas kecepatan dan pejalan kaki yang
+tidak berhati-hati [17].
+
+Sumber: Arta et al, 2017
+
+=
+
+Keterangan:
+
+22,5−0,25
+3
+
+= 7,42
+
+15,33-22,50
+
+2
+
+Terpilih
+
+Sedang
+
+7,68-15,33
+
+4
+
+Terpilih
+
+Terendah
+
+0,25-7,67
+
+337
+
+Tidak
+
+2.1 Teknik Analisis
+
+Generalized Linear Model (GLM) digunakan
+untuk
+membuat
+model
+kecelakaan
+mobil
+berdasarkan karakteristik jalan. Langkah-langkah
+dalam melakukan analisis Generalized Linier Model
+(Gambar 1) adalah sebagai berikut:
+
+Wilayah studi penelitian ditentukan berdasarkan
+klasifikasi kecelakaan mobil di Kota Surabaya pada
+tahun 2014-2017 yang terbagi menjadi tertinggi,
+sedang, dan terendah [20]. Penentuan interval kelas
+dilakukan menggunakan rumus Sturgess, seperti
+berikut:
+𝑘𝑘
+
+Tertinggi
+
+Keterangan
+
+Penentuan objek sampel yang akan diamati
+dalam penelitian ini yaitu berdasarkan populasi
+kepemilikan kendaraan mobil di Kota Surabaya
+dalam satu tahun terakhir. Jumlah kepemilikan
+kendaraan mobil di Kota Surabaya sampai tahun
+2016 adalah sebesar 348.115 pemilik kendaraan
+mobil yang didapat berdasarkan data Kota Surabaya
+dalam Angka Tahun 2017. Jumlah sampel ditentukan
+berdasarkan tabel Isaac dan Michael dengan asumsi
+tingkat ketepatan data 95%. Jumlah sampel yang akan
+digunakan dalam penelitian adalah sebesar 348
+responden. Selanjutnya sampel tersebut akan
+didistribusikan ke dalam enam ruas jalan yang
+memiliki tingkat kecelakaan mobil sedang dan
+tertinggi di Kota Surabaya Tahun 2014-2017. Jumlah
+tersebut ditentukan dengan melihat rata-rata
+kecelakaan mobil pada masing-masing ruas jalan
+[21]. Distribusi sampel penelitian dapat dilihat pada
+Tabel 3.
+
+2. Metodologi
+
+𝑋𝑋𝑋𝑋−𝑋𝑋𝑋𝑋
+
+Total
+Jalan
+
+studi penelitian. Dua ruas jalan tergolong dalam
+klasifikasi jalan dengan tingkat kecelakaan tertinggi
+dan empat ruas jalan tergolong dalam klasifikasi
+tingkat kecelakaan sedang.
+
+Data kecelakaan mobil tahun 2017 menunjukkan
+bahwa 31,10% pengemudi tidak memiliki SIM saat
+mengemudi [11]. Selain itu, dalam penelitian lain di
+Pontianak dengan 94 responden, perilaku yang
+mengakibatkan kecelakaan adalah mengemudi
+dengan kecepatan tinggi sebesar 67%, tidak secara
+rutin merawat kendaraan sebesar 44,7%, dan
+mengemudi saat kondisi jalan gelap sebesar 17% [18].
+Selain faktor manusia, faktor jalan juga memicu
+kecelakaan lalu lintas berdasarkan penelitian yang
+dilakukan di Kabupaten Banjarmasin Tengah tahun
+2015, di mana terdapat jalan yang sering mengalami
+kecelakaan lalu lintas seperti jalan gelap di 18 jalan
+dari 21 jalan, jalan tanpa spidol/rambu di 7 jalan dari
+21 jalan, lubang di 4 jalan dari 21 jalan, dan jalan
+banjir di 4 jalan dari 21 jalan [19].
+
+𝐾𝐾𝐾𝐾 =
+
+Rata-Rata
+Kecelakaan
+
+Klasifikasi
+
+2.1.1 Mengumpulkan data
+Salah satu komponen yang penting dalam
+penelitian
+adalah
+proses
+peneliti
+dalam
+pengumpulan data. Kesalahan yang dilakukan dalam
+
+(1)
+
+Tabel 3. Distribusi Jumlah Sampel Penelitian
+
+Ki : Panjang kelas interval yang digunakan
+
+Rata-Rata
+Kecelakaan
+
+Proporsi
+Sampel
+
+Jumlah
+Responden
+
+Jalan Ahmad Yani
+
+22.5
+
+348*29%
+
+100
+
+Jalan Dr. Ir. H.
+Soekarno
+
+11
+
+348*14%
+
+49
+
+Jalan Raya Darmo
+
+8
+
+348*10%
+
+36
+
+Jalan Raya Diponegoro
+
+9
+
+348*12%
+
+40
+
+Jalan Raya Mastrip
+
+16.75
+
+348*21%
+
+75
+
+Jalan Tambak
+Osowilangun
+
+10.75
+
+348*14%
+
+48
+
+Ruas Jalan
+
+Xt : Nilai tertinggi suatu data yang diperoleh
+Xr : Nilai terendah suatu data yang diperoleh
+K : Jumlah pembagian kelas yang diinginkan
+
+Tabel 2 menunjukkan ruas jalan yang menjadi
+fokus penelitian memiliki rata-rata kecelakaan
+berkisar antara 7,68 sampai 22,50. Dari total 343 ruas
+jalan di Kota Surabaya yang pernah mengalami
+kecelakaan mobil tahun 2014 sampai tahun 2017,
+terdapat enam ruas jalan yang terpilih menjadi lokasi
+
+Sumber: Hasil Analisis, 2019
+95
+
+Imma Widyawati Agustin, Christia Meidiana, Sri Muljaningsih
+
+Warta Penelitian Perhubungan 2020, 32 (2): 93-102
+
+statistik yang mana tujuannya adalah untuk
+menduga atau mengestimasi parameter. Sebagai
+contoh, rata-rata penjualan yang diperoleh dari
+populasi keseluruhan adalah parameter, sedangkan
+rata-rata penjualan dari suatu sampel yang
+representatif adalah statistik. Statistik ini yang
+dijadikan sebagai penduga parameter.
+2.1.4 Pengujian Linieritas
+Uji linieritas merupakan syarat sebelum
+dilakukan uji Generalized Linier Models. Secara
+umum, uji linieritas bertujuan untuk mengetahui
+apakah dua variabel mempunyai hubungan yang
+linier secara signifikan atau tidak. Data yang baik
+seharusnya memiliki hubungan yang linier antara
+variabel independen dan variabel dependen.
+2.1.5 Identifikasi Distribusi Variabel Dependen dan
+Pemilihan Fungsi Link
+Identifikasi variabel dependen perlu dilakukan
+dengan fitting distribution, yaitu mencocokan data
+pada kurva distribusi. Setelah distribusi variabel
+dependen diketahui, kemudian ditentukan fungsi
+link yang berkaitan dengan distribusi tersebut.
+
+Sumber: Hasil Analisis, 2019
+
+Gambar 1. Proses Analisis GLM
+
+proses pengumpulan data akan membuat proses
+analisis menjadi sulit. Selain itu hasil dan kesimpulan
+yang akan didapat pun akan menjadi rancu apabila
+pengumpulan data dilakukan tidak dengan benar.
+Pengumpulan data dilakukan untuk memperoleh
+informasi yang dibutuhkan dalam rangka mencapai
+tujuan penelitian. Proses pengumpulan data
+ditentukan oleh variabel-variabel yang ada dalam
+hipotesis. Pengumpulan data dilakukan terhadap
+sampel yang telah ditentukan sebelumnya.
+
+2.1.6 Pemodelan Generalized Linier Model
+Melakukan pemodelan Generalized Linier Model
+dengan memasukan semua variabel independen dan
+dependen. Menggunakan uji parameter untuk
+menyeleksi parameter yang masuk ke dalam model,
+selanjutnya menggunakan uji kecocokan model
+untuk menyeleksi model yang signifikan.
+2.1.7 Pemilihan Model Terbaik
+
+2.1.2 Menentukan variabel dependen dan variabel
+independen
+
+Metode pemilihan model GLM terbaik ini
+digunakan untuk memilih model yang paling tepat
+untuk menjelaskan hubungan antara variabel
+dependen (y) dan variabel independen (x). Pada
+setiap hubungan antara variabel Y dan variabel X
+terdapat
+beberapa
+model
+yang
+mampu
+menggambarkan beberapa kriteria untuk pemilihan
+model terbaik, antara lain Akaike’s Information
+Criterian (AIC), Bayesian Information Criterion (BIC),
+dan Root Mean Square Error (RMSE). Memilih model
+terbaik berdasarkan nilai AIC, BIC, dan RMSE terkecil.
+
+Variabel independen (independent variable)
+adalah tipe variabel yang menjelaskan atau
+mempengaruhi variabel yang lain. Variabel dependen
+(dependent variable) adalah tipe variabel yang
+dijelaskan
+atau
+dipengaruhi
+oleh
+variabel
+independen. Kedua tipe variabel ini merupakan
+kategori variabel penelitian yang paling sering
+digunakan dalam penelitian karena mempunyai
+kemampuan aplikasi yang luas. Dari data yang
+diperoleh
+pada
+proses
+pengumpulan
+data,
+selanjutnya peneliti harus mengklasifikasikan dan
+menentukan data yang termasuk ke dalam variabel
+independen dan data yang termasuk dalam variabel
+dependen. Penentuan kedua variabel ini berdasarkan
+teori keilmuan terkait.
+
+Generalized Linier Models (GLM) bertujuan
+untuk mengetahui hubungan sebab-akibat, pengaruh
+dari variabel independen terhadap variabel
+dependen. Keunggulan GLM dibandingkan dengan
+regresi linier biasa terletak pada distribusi (bentuk
+kurva) variabel dependen. Variabel dependen pada
+GLM tidak diisyarakatkan berdistribusi normal
+(kurva lonceng simetris), akan tetapi distribusidistribusi yang termasuk keluarga eksponensial,
+yaitu Binomial, Poisson, Binomial Negative, Normal,
+Gamma, Invers Gaussian. Metode ini digunakan
+karena kecelakaan mobil tidak dapat diprediksi
+kejadiannya baik waktu, lokasi, maupun pengaruh
+penyebab kecelakaan tersebut [22]. Model yang
+
+2.1.3 Statistika Deskriptif
+Pada deskripsi data, diberikan ukuran tendensi
+pusat, ukuran posisi, dan ukuran variasi, yang
+kesemuanya menggambarakan karakteristik data.
+Ukuran numerik yang menggambarkan beberapa
+karakteristik dari populasi adalah parameter,
+sedangkan ukuran numerik yang menggambarkan
+karakteristik dari data pengamatan (sampel) adalah
+96
+
+Warta Penelitian Perhubungan 2020, 32 (2): 93–102
+
+Imma Widyawati Agustin, Christia Meidiana, Sri Muljaningsih
+
+digunakan pada analisis ini berupa persamaan
+eksponensial.
+McA = k FLOW βθ EXP (β1X1+ β2X2+ β3X3+...)
+
+(2)
+
+Di mana McA adalah jumlah kecelakaan yang
+melibatkan pengendara mobil per tahun 2014-2017,
+FLOW adalah volume lalu lintas dalam satuan
+smp/jam. Sementara itu, k dan β adalah parameterparameter yang akan diestimasi dan x adalah variabel
+penjelas.
+Uji validitas digunakan untuk memastikan
+validnya suatu instrumen penelitian yang bersifat
+deskriptif atau dapat dijelaskan dengan melibatkan
+variabel atau konsep yang tidak bisa diukur secara
+langsung. Uji validitas yang digunakan adalah metode
+spearmen rho. Uji reliabilitas digunakan untuk
+mengetahui sejauh mana hasil pengukuran tetap
+konsisten, jika pengukuran dilakukan dua kali atau
+lebih terhadap gejala dan alat ukur yang sama. Uji
+reliabiltas menggunakan teknik Cronbach’s Alpha di
+mana variabel x yang reliabel memiliki kriteria
+instrumen dengan koefisien (r) > 0,6 [23].
+Binari Logistik digunakan untuk membuat model
+peluang kecelakaan berdasarkan karakteristik
+pengendara mobil (Gambar 2). Regresi logistik biner
+menggunakan variabel respon dikotomi, yaitu 1
+sebagai kejadian dan 0 untuk tidak ada kejadian.
+Regresi Logistik digunakan dikarenakan nilai
+kemungkinan variabel dependennya berada pada
+rentang 0-1. Hal ini membedakan dengan regresi
+linier biasa di mana nilai variabel respon (dependen)nya bernilai < 0 atau > 1. Variabel yang digunakan
+dalam penelitian ini terdiri dari variabel respon (y)
+dan variabel penjelas (x). Variabel respon merupakan
+variabel untuk mengetahui peluang pengendara
+mobil mengalami kecelakaan. Variabel penjelas
+merupakan sub-aspek dari karakteristik pengendara
+aspek perilaku. Pembentukan model logit didasarkan
+pada fungsi peluang logistik kumulatif yang
+dispesifikasikan sebagai berikut:
+𝑃𝑃(𝑖𝑖) = 𝐹𝐹(𝛽𝛽0 + 𝛽𝛽1 𝑋𝑋1𝑖𝑖 ) =
+
+1
+
+1+𝑒𝑒 −𝑧𝑧
+
+=
+
+1
+
+1+𝑒𝑒 −�𝛽𝛽0 +𝛽𝛽1 𝑋𝑋𝑙𝑙𝑙𝑙 �
+
+Sumber: Hasil Analisis, 2019
+
+Gambar 2. Proses Regresi Logistik
+
+terdapat pada ruas jalan ini tercatat sebesar 9675,23
+smp/jam dengan kecepatan arus bebas sebesar 43,60
+km/jam. Jalan ini memiliki median jalan dan bahu
+jalan dengan lebar masing-masing 1,5 meter untuk
+median jalan dan 1 meter untuk bahu jalan (Tabel 4
+dan Gambar 3).
+Jalan Ahmad Yani terdapat di antara Kecamatan
+Wonocolo dan Kecamatan Gayungan memiliki lebar
+25 meter yang terbagi menjadi dua jalur utama, di
+mana jalur sebelah barat memiliki dua fungsi sebagai
+jalur lambat dan jalur cepat untuk arus menerus.
+Jumlah lajur mencapai sepuluh lajur dengan tujuh
+Tabel 4. Karakteristik Jalan Ahmad Yani
+Karakteristik
+
+(3)
+
+Tipe Jalan
+
+Selanjutnya, berdasarkan pembentukan model
+logit di atas, maka struktur model yang digunakan
+dalam kajian ini adalah sebagai berikut:
+
+𝑃𝑃(𝑖𝑖) =
+
+1
+
+1+𝑒𝑒 −(𝛽𝛽0 +𝛽𝛽1 𝑥𝑥1 +𝛽𝛽0 +𝛽𝛽2 𝑥𝑥2 +𝛽𝛽0 +𝛽𝛽3 𝑥𝑥3 +⋯ )
+
+Panjang Jalan
+
+(4)
+
+Dengan:
+
+P(i) = Peluang kejadian kecelakaan
+E
+
+= Bilangan alam (2,71828)
+
+β
+
+= Koefisien variabel penjelas (predictor)
+
+X
+
+24,5 Meter
+
+Lebar Lajur
+
+2,5 Meter
+
+Jumlah Lajur
+
+10 Lajur
+
+Lebar Bahu
+
+2 Meter
+
+Lebar Median
+
+2 Meter
+
+Jumlah Arah
+Volume Lalu Lintas
+
+3. Hasil dan Pembahasan
+Jalan Ahmad Yani memiliki fungsi jalan Arteri
+Primer dengan tipe jalan 10/2 D. Panjang badan jalan
+sebesar 9731,03 meter dengan lebar badan jalan
+keseluruhan lajur 25 meter. Volume lalu lintas yang
+
+Arteri Primer
+4 Arah
+9675,23 Smp/jam
+
+Kecepatan Arus
+
+43.60 Km/jam
+
+Perkerasan Jalan
+
+Aspal
+
+Kondisi Bahu Jalan
+
+Aspal
+
+Sumber: Hasil Analisis, 2019
+97
+
+9731,03 Meter
+
+Lebar Jalur Efektif
+
+Fungsi/ Hierarki
+
+= Variabel penjelas (predictor)
+
+10/2 D
+
+Imma Widyawati Agustin, Christia Meidiana, Sri Muljaningsih
+
+Warta Penelitian Perhubungan 2020, 32 (2): 93-102
+
+Sumber: Hasil Analisis, 2019
+
+Gambar 3. Karakteristik Jalan Ahmad Yani
+
+lajur berada di sebelah barat untuk memberikan
+tingkat pelayanan tinggi terhadap arus yang masuk
+dari luar Kota Surabaya, sedangkan jalur sebelah
+timur hanya memiliki tiga lajur yang merupakan
+jalan utama mengarah ke Kota Malang (Gambar 3 dan
+Gambar 4).
+
+pengaruh yang signifikan terhadap
+kecelakaan mobil di Kota Surabaya.
+
+terjadinya
+
+Berdasarkan hasil analisis terhadap 348
+responden pengendara mobil di Kota Surabaya di
+dapatkan mayoritas memiliki kriteria maksud tujuan
+pergerakan
+bekerja/sekolah/kuliah
+dengan
+persentase sebesar 59%, 57% untuk kelompok
+pengendara mobil dengan jarak tempuh 5-10 km,
+61% untuk kelompok pengendara mobil dengan
+
+Gambar 5 merupakan salah satu contoh kondisi
+geometrik persimpangan jalan yang terdapat di ruas
+Jalan Ahmad Yani berbelok ke arah Jalan Gayung
+Kebonsari Raya.
+Berdasarkan hasil analisis terhadap 348
+pengendara mobil di Kota Surabaya di dapatkan
+bahwa mayoritas memiliki kriteria jenis kelamin lakilaki dengan persentase sebesar 59.8%, 40% untuk
+kelompok usia di bawah 25 tahun, 54% untuk
+kelompok pendidikan terakhir di perguruan tinggi,
+52% untuk kelompok pekerjaan karyawan swasta,
+41% untuk kelompok penghasilan Rp 2.500.001-Rp
+5.000.000, 78% untuk status kepemilikan mobil milik
+sendiri, 57% untuk kelompok jumlah kepemilikan
+mobil 1 buah, dan 62% untuk kelompok ukuran
+rumah tangga lebih dari 3 orang.
+
+Sumber: Hasil Analisis, 2019
+
+Gambar 4. Jalan Ahmad Yani
+
+Dari seluruh analisis tabulasi silang pada sub
+aspek sosial ekonomi (Tabel 5), didapatkan hasil yang
+menyatakan bahwa seluruh sub-aspek memiliki
+Tabel 5. Tingkat Signifikansi Aspek Sosial Ekonomi
+terhadap Pengalaman Kecelakaan
+p-value
+
+Keterangan
+
+Jenis Kelamin
+
+0,037
+
+Signifikan
+
+X1.2
+
+Usia
+
+0,031
+
+Signifikan
+
+3
+
+X1.3
+
+Pendidikan Terakhir
+
+0,037
+
+Signifikan
+
+4
+
+X1.4
+
+Pekerjaan
+
+0,016
+
+Signifikan
+
+5
+
+X1.5
+
+Penghasilan
+
+0,019
+
+Signifikan
+
+6
+
+X1.6
+
+Status Kepemilikan
+Mobil
+
+0,021
+
+Signifikan
+
+7
+
+X1.7
+
+Jumlah Mobil
+
+0,029
+
+Signifikan
+
+8
+
+X1.8
+
+Ukuran rumah
+tangga
+
+0,015
+
+Signifikan
+
+No
+
+Notasi
+
+1
+
+X1.1
+
+2
+
+Variabel
+
+Sumber: Hasil Analisis, 2019
+
+Sumber: Hasil Analisis, 2019
+
+Gambar 5. Karakteristik Geometrik Persimpangan
+Jalan Ahmad Yani - Gayung Kebonsari Raya
+98
+
+Warta Penelitian Perhubungan 2020, 32 (2): 93–102
+
+Imma Widyawati Agustin, Christia Meidiana, Sri Muljaningsih
+
+Tabel 6. Tingkat Signifikansi Aspek Pergerakan
+terhadap Pengalaman Kecelakaan
+
+perawatan atau perbaikan mobil, 49% pengendara
+yang membawa surat berkendara (SIM dan STNK),
+59% pengendara yang memiliki kecepatan rata-rata di
+atas 80 km/jam, 55% pengendara yang menggunakan
+handphone atau headset saat mengendarai, 60%
+pengendara yang makan atau minum saat
+mengendarai, 65% pengendara yang mematuhi
+lampu
+lalu
+lintas,
+70%
+pengendara
+yang
+menggunakan tanda berbelok atau darurat, 66%
+pengendara yang menggunakan sabuk pengaman,
+29% pengendara yang mengantuk saat mengendarai,
+dan 36% pengendara yang bersenda gurau saat
+mengendarai (Tabel 7).
+
+No
+
+Notas
+i
+
+Variabel
+
+p-value
+
+Keteranga
+n
+
+1
+
+X2.1
+
+Maksud Tujuan
+Pergerakan
+
+0,026
+
+Signifikan
+
+2
+
+X2.2
+
+Jarak Tempuh
+
+0,025
+
+Signifikan
+
+3
+
+X2.3
+
+Waktu Tempuh
+
+0,023
+
+Signifikan
+
+4
+
+X2.4
+
+Waktu Memulai
+Pergerakan
+
+0,018
+
+Signifikan
+
+5
+
+X2.5
+
+Intensitas
+Penggunaan Mobil
+
+0,015
+
+Signifikan
+
+Dari seluruh analisis tabulasi silang pada subaspek perilaku (Tabel 7), didapatkan hasil bahwa
+hanya enam sub-aspek perilaku yang memiliki
+pengaruh signifikan terjadinya kecelakaan mobil di
+Kota Surabaya.
+
+waktu tempuh 15-30 menit, 67% untuk kelompok
+pengendara mobil dengan waktu memulai
+pergerakan pukul 05.00 – 08.59, dan 45% untuk
+kelompok pengendara mobil dengan intensitas
+penggunaan mobil rutin (5-7 hari) dan sedang (3-4
+hari).
+
+Model peluang kecelakaan mobil berdasarkan
+karakteristik jalan yang dapat dibentuk adalah McA =
+𝒆𝒆𝟒𝟒,𝟓𝟓 − 𝟎𝟎,𝟕𝟕𝟕𝟕𝟕𝟕 𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋 𝐛𝐛𝐛𝐛𝐛𝐛𝐛𝐛𝐛𝐛 𝐣𝐣𝐣𝐣𝐣𝐣𝐣𝐣𝐣𝐣 , di mana McA adalah jumlah
+kecelakaan mobil dan lebar badan jalan adalah lebar
+badan jalan dalam meter.
+
+Dari seluruh analisis tabulasi silang pada subaspek pergerakan (Tabel 6), diketahui bahwa seluruh
+sub-aspek memiliki pengaruh yang signifikan
+terhadap terjadinya kecelakaan mobil di Kota
+Surabaya.
+
+Hasil permodelan peluang di atas menunjukan
+lebar badan jalan mempengaruhi jumlah kecelakaan
+mobil. Intepretasi dari model tersebut adalah bahwa
+jika lebar badan jalan memiliki peningkatan 10% dari
+lebar badan jalan sebelumnya, maka model
+pendekatan dengan GLM memprediksi akan terjadi
+peningkatan jumlah kecelakaan mobil sebanyak 84
+korban. Permodelan peluang kecelakaan pada
+penelitian ini diawali dengan melakukan uji validitas.
+Variabel yang sudah dinyatakan valid dan konsisten
+akan dilanjutkan ke tahap berikutnya yaitu
+
+Berdasarkan hasil analisis terhadap 348
+responden pengendara mobil di Kota Surabaya,
+didapatkan bahwa mayoritas memiliki perilaku
+dengan persentase sebesar 48% pengendara yang
+mengikuti kursus mengemudi, 71% pengendara yang
+memiki pengalaman mengendarai lebih dari dua
+tahun, 71% pengendara yang mengetahui fungsi
+marka dan rambu lalu lintas, 58% pengendara yang
+mengetahui dan memeriksa kondisi mesin mobil,
+49% pengendara yang memiliki kemampuan
+
+Tabel 7. Tingkat Signifikansi Aspek Perilaku terhadap Pengalaman Kecelakaan
+p-value
+
+No
+
+Notasi
+
+Variabel
+
+1
+
+X3.1
+
+Mengikuti Kursus Mengemudi
+
+0,954
+
+Tidak Signifikan
+
+2
+
+X3.2
+
+Pengalaman Mengendarai Lebih dari 2 Tahun
+
+0,835
+
+Tidak Signifikan
+
+3
+
+X3.3
+
+Mengetahui Fungsi Marka & Rambu Lalu Lintas
+
+0,711
+
+Tidak Signifikan
+
+4
+
+X3.4
+
+Mengetahui dan Memeriksa Kondisi Mesin
+
+0,414
+
+Tidak Signifikan
+
+5
+
+X3.5
+
+Memiliki Kemampuan Perawatan atau Perbaikan Mobil
+
+0,992
+
+Tidak Signifikan
+
+6
+
+X3.6
+
+Membawa Surat Berkendara (SIM dan STNK)
+
+0,000
+
+Signifikan
+
+7
+
+X3.7
+
+Kecepatan Rata-Rata > 80 km/jam
+
+0,034
+
+Signifikan
+
+8
+
+X3.8
+
+Menggunakan Handphone atau Headset saat Mengendarai
+
+0,078
+
+Tidak Signifikan
+
+9
+
+X3.9
+
+Makan atau Minum saat Mengendarai
+
+0,103
+
+Tidak Signifikan
+
+10
+
+X3.10
+
+Mematuhi Lampu Lalu Lintas
+
+0,000
+
+Signifikan
+
+11
+
+X3.11
+
+Menggunakan Tanda Berbelok atau Darurat
+
+0,000
+
+Signifikan
+
+12
+
+X3.12
+
+Menggunakan Sabuk Pengaman
+
+0,000
+
+Signifikan
+
+13
+
+X3.13
+
+Mengantuk saat Mengendarai
+
+0,000
+
+Signifikan
+
+14
+
+X3.14
+
+Bersenda Gurau saat Mengendarai
+
+0,548
+
+Tidak Signifikan
+
+Sumber: Hasil Analisis, 2019
+
+99
+
+Keterangan
+
+Imma Widyawati Agustin, Christia Meidiana, Sri Muljaningsih
+
+dimasukkan ke dalam persamaan Regresi Logistik
+Biner dan didapatkan hasil permodelan pada masingmasing ruas jalan adalah: Jalan Ahmad Yani yaitu
+𝑌𝑌𝐽𝐽𝐽𝐽. 𝐴𝐴ℎ𝑚𝑚𝑚𝑚𝑚𝑚 𝑌𝑌𝑌𝑌𝑌𝑌𝑌𝑌 = (3,021 – 1,845(𝑋𝑋3.6 ) − 2,976 (𝑋𝑋3.10 )
+−3,516 (𝑋𝑋3.12 ) − 3,289 (𝑋𝑋3.13 )).
+
+Jalan Dr. Ir. H. Soekarno yaitu
+
+𝑌𝑌𝐽𝐽𝐽𝐽.𝐷𝐷𝐷𝐷.𝐼𝐼𝐼𝐼.𝐻𝐻.𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = (1,712 – 2,012(𝑋𝑋3.11 ) −
+2,377 (𝑋𝑋3.12 )).
+
+Jalan Raya Darmo yaitu
+
+𝑌𝑌𝐽𝐽𝐽𝐽.𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 = �0,851 + 2,960(𝑋𝑋3.2 ) − 2,728 (𝑋𝑋3.6 )�.
+
+Jalan Raya Diponegoro yaitu
+
+𝑌𝑌𝐽𝐽𝐽𝐽. 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 = �3,202 − 3,811(𝑋𝑋3.10 ) −
+3,683 (𝑋𝑋3.12 )�.
+Jalan Raya Mastrip yaitu
+
+𝑌𝑌𝐽𝐽𝐽𝐽.𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀 = �1,856 – 2,551(𝑋𝑋3.10 ) − 3,328 (𝑋𝑋3.12 ) −
+3,343 (𝑋𝑋3.13 )�.
+
+Jalan Tambak Osowilangun yaitu
+
+𝑌𝑌𝐽𝐽𝐽𝐽.𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 = �3,556 − 3,549 (𝑋𝑋3.10 ) −
+3,323 (𝑋𝑋3.12 )�.
+
+Permodelan kecelakaan mobil di Kota Surabaya
+adalah dengan menggabungkan hasil permodelan
+dari kedelapan ruas jalan wilayah studi yaitu Jalan
+Ahmad Yani, Jalan Dr. Ir. H. Soekarno, Jalan Darmo,
+Jalan Diponegoro, Jalan Mastrip, dan Jalan Tambak
+Osowilangon. Berikut hasil penggabungan model
+peluang kecelakaan mobil berdasarkan karakteristik
+pengendara:
+𝑌𝑌𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = �1,743 − 1,081 (𝑋𝑋3.6 ) − 1,341 (𝑋𝑋3.10 )
+− 2,446(𝑋𝑋3.11 ) − 2,339 (𝑋𝑋3.12 )
+− 1,304 (𝑋𝑋3.13 )�
+
+Di mana, Y: berupa nilai kejadian kecelakaan mobil, X3.6:
+Membawa surat berkendara (SIM dan STNK), X3.10:
+Mematuhi lampu lalu lintas, X3.11: Memberi tanda
+berbelok/darurat, X3.12: Menggunakan sabuk pengaman,
+X3.13: Mengantuk saat mengendarai.
+
+Dari persamaan yang telah terbentuk di atas, maka
+permodelan
+dapat
+diintepretasikan
+bahwa
+konstantanya adalah sebesar 1,743. Artinya, jika
+variabel perilaku pengendara yang berpengaruh pada
+permodelan nilainya konstan atau diabaikan, maka
+dapat diartikan bahwa terdapat 1 pengendara mobil
+yang mengalami kecelakaan di Kota Surabaya.
+Koefisien
+regresi
+variabel
+membawa
+surat
+berkendara (SIM dan STNK) (𝑋𝑋3.6 ) adalah sebesar 1,081. Artinya, jika pengendara memiliki perilaku
+membawa surat berkendara (SIM dan STNK), maka
+pengendara
+tersebut
+berpengaruh
+dalam
+menurunkan tingkat kecelakaan dikarenakan
+memiliki nilai koefisien variabel negatif (-). Koefisien
+regresi variabel mematuhi lampu lalu lintas (𝑋𝑋3.10 )
+adalah sebesar -1,341. Artinya, jika pengendara
+mematuhi lampu lalu lintas, maka pengendara
+
+Warta Penelitian Perhubungan 2020, 32 (2): 93-102
+
+tersebut berpengaruh dalam menurunkan tingkat
+kecelakaan dikarenakan memiliki nilai koefisien
+variabel negatif (-). Koefisien regresi variabel
+memberi tanda berbelok/darurat (𝑋𝑋3.11 ) adalah
+sebesar -2,446. Artinya, jika pengendara memiliki
+perilaku memberi tanda berbelok/darurat, maka
+pengendara
+tersebut
+berpengaruh
+dalam
+menurunkan tingkat kecelakaan dikarenakan
+memiliki nilai koefisien variabel negatif (-). Koefisien
+regresi variabel menggunakan sabuk pengaman
+(𝑋𝑋3.12 ) adalah sebesar -2,339. Artinya, jika pengendara
+memiliki perilaku menggunakan sabuk pengaman,
+maka pengendara tersebut berpengaruh dalam
+menurunkan tingkat kecelakaan dikarenakan
+memiliki nilai koefisien variabel negatif (-). Koefisien
+regresi variabel mengantuk saat mengendarai (𝑋𝑋3.13 )
+adalah sebesar -1,304. Artinya, jika pengendara
+memiliki perilaku mengantuk saat mengendarai,
+maka pengendara tersebut berpengaruh dalam
+menurunkan tingkat kecelakaan dikarenakan
+memiliki nilai koefisien variabel negatif (-).
+Perhitungan
+simulasi
+peluang
+penurunan
+kecelakaan mobil dilakukan setelah didapatkan hasil
+dari permodelan peluang kecelakaan pengendara
+mobil di Kota Surabaya. Perhitungan simulasi ini
+bertujuan untuk melihat apakah hasil permodelan
+yang didapatkan telah sesuai dengan kondisi saat ini
+serta
+memprediksi
+kondisi
+terbaik
+untuk
+menurunkan tingkat kecelakaan di Kota Surabaya.
+Simulasi permodelan ini hanya dilakukan pada model
+peluang kecelakaan mobil berdasarkan karakteristik
+jalan. Perhitungan model dilakukan dengan
+memasukkan jumlah pengendara yang memilih
+variabel yang signifikan pada permodelan kecelakaan
+mobil di Kota Surabaya yaitu membawa surat
+berkendara (SIM dan STNK) (𝑋𝑋3.6 ), mematuhi lampu
+lalu lintas (𝑋𝑋3.10 ), memberi tanda berbelok/darurat
+(𝑋𝑋3.11 ), menggunakan sabuk pengaman (𝑋𝑋3.12 ), dan
+mengantuk (𝑋𝑋3.13 ).
+
+Terdapat 176 pengendara yang memilih jawaban
+tidak membawa surat berkendara (SIM dan STNK)
+dan sisanya ada 172 pengendara yang membawa
+surat berkendara (SIM dan STNK) (𝑋𝑋3.6 ). 121
+pengendara memilih jawaban tidak mematuhi lampu
+lalu lintas dan sisanya ada 227 pengendara yang
+mematuhi lampu lalu lintas (𝑋𝑋3.10 ). 104 pengendara
+memilih
+jawaban
+tidak
+memberi
+tanda
+berbelok/darurat dan sisanya ada 244 pengendara
+yang memberi tanda berbelok/darurat (𝑋𝑋3.11 ). 120
+pengendara memilih jawaban tidak menggunakan
+sabuk pengaman dan sisanya ada 228 pengendara
+yang menggunakan sabuk pengaman (𝑋𝑋3.12 ). 100
+pengendara memilih jawaban tidak mengantuk dan
+sisanya ada 248 pengendara yang mengantuk (𝑋𝑋3.13 ).
+
+100
+
+𝒀𝒀𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = �1,743 − 1,081 (𝑋𝑋3.6 ) − 1,341 (𝑋𝑋3.10 )
+− 2,446(𝑋𝑋3.11 ) − 2,339 (𝑋𝑋3.12 ) − 1,304 (𝑋𝑋3.13 )�
+𝒀𝒀𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = �1,743 − 1,081 (2) − 1,341 (2) − 2,446(2)
+− 2,339 (2) − 1,304 (2)�.
+
+Warta Penelitian Perhubungan 2020, 32 (2): 93–102
+
+Imma Widyawati Agustin, Christia Meidiana, Sri Muljaningsih
+
+𝒀𝒀𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = −15,279.
+
+Nilai permodelan Y Kota Surabaya = -15,279 ≈ 15, yang berarti terdapat penurunan 15 pengendara
+mobil yang tidak mengalami kecelakaan mobil di
+Kota Surabaya. Sementara itu, untuk Y aktual
+pengendara yang tidak mengalami kecelakaan mobil
+di Kota Surabaya adalah 136 pengendara mobil.
+Tahap selanjutnya adalah melakukan perhitungan
+rumus peluang regresi logistik berdasarkan
+permodelan kecelakaan mobil yang telah dihasilkan
+di Kota Surabaya adalah
+𝑃𝑃(𝒊𝒊) =
+
+𝟏𝟏
+
+𝟏𝟏+𝒆𝒆−(𝒀𝒀)
+
+=
+
+99,99%.
+
+𝟏𝟏
+
+𝟏𝟏+(𝒆𝒆−𝒀𝒀 𝑲𝑲𝑲𝑲𝑲𝑲𝑲𝑲 𝑺𝑺𝑺𝑺𝑺𝑺𝑺𝑺𝑺𝑺𝑺𝑺𝑺𝑺𝑺𝑺) )
+
+=
+
+𝟏𝟏
+
+𝟏𝟏+(𝒆𝒆−𝟏𝟏𝟏𝟏,𝟐𝟐𝟐𝟐𝟐𝟐) )
+
+=
+
+Berdasarkan hasil perhitungan simulasi dapat
+diketahui bahwa peluang tidak mengalami
+kecelakaan pada pengendara mobil di Kota Surabaya
+berdasarkan variabel-variabel yang berpengaruh
+pada permodelan adalah sebesar 99.99%.
+
+pendekatan dengan GLM memprediksi akan terjadi
+peningkatan jumlah kecelakaan mobil sebanyak 84
+korban. Dari hasil analisis regresi logistik biner
+didapatkan hasil model peluang kecelakaan mobil
+berdasarkan karakteristik pengendara sebagai
+berikut: 𝒀𝒀
+= �1,743 − 1,081
+(𝑋𝑋 3.6) − 1,341 (𝑋𝑋 3.10) − 2,446(𝑋𝑋 3.11) − 2,339 (𝑋𝑋 3.12)
+−
+1,304 (𝑋𝑋 3.13)� di mana Y adalah nilai kejadian
+kecelakaan mobil. X3.6 adalah membawa surat
+berkendara (SIM dan STNK). Artinya, jika pengendara
+memiliki perilaku membawa surat berkendara (SIM
+dan STNK), maka pengendara tersebut berpengaruh
+dalam menurunkan tingkat kecelakaan karena
+dianggap sudah disiplin dalam aturan berkendara
+dan dikarenakan memiliki nilai koefisien variabel
+negatif. X3.10 adalah mematuhi lampu lalu lintas. X3.11
+adalah memberi tanda berbelok/darurat. X3.12 adalah
+menggunakan sabuk pengaman, dan X3.13 adalah
+mengantuk saat mengendarai.
+
+4. Kesimpulan
+Terdapat enam ruas jalan yang memiliki tingkat
+kecelakaan mobil dengan klasifikasi tertinggi dan
+sedang yaitu pada Jalan Ahmad Yani, Jalan Dr. Ir. H.
+Soekarno, Jalan Raya Darmo, Jalan Raya Diponegoro,
+Jalan Raya Mastrip, dan Jalan Raya Tambak
+Osowilangun. Rata-rata fungsi jalan tersebut
+tergolong jalan arteri dan kolektor.
+Berdasarkan hasil analisis tabulasi silang
+(crosstabs) didapatkan hasil sebagai berikut: (a)
+Aspek sosial ekonomi yang memiliki pengaruh
+signifikan terjadinya kecelakaan mobil meliputi jenis
+kelamin, usia, pendidikan terakhir, pekerjaan,
+penghasilan, status kepemilikan mobil, jumlah
+kepemilikan mobil, dan ukuran rumah tangga. (b)
+Aspek pergerakan yang memiliki pengaruh signifikan
+terjadinya kecelakaan mobil meliputi maksud tujuan
+pergerakan, jarak tempuh, waktu tempuh, waktu
+memulai pergerakan, dan intensitas penggunaan
+mobil. (c) Aspek perilaku yang memiliki pengaruh
+signifikan terjadinya kecelakaan mobil meliputi
+membawa surat berkendara (SIM dan STNK),
+kecepatan rata-rata > 80 km/jam, mematuhi lampu
+lalu lintas, menggunakan tanda berbelok atau
+darurat, menggunakan sabuk pengaman, dan
+mengantuk saat mengendarai
+Dari hasil analisis Generalized Linear Model
+didapatkan hasil model peluang kecelakaan mobil
+berdasarkan karakteristik jalan sebagai berikut: McA
+= 𝒆𝒆𝟒𝟒,𝟓𝟓 − 𝟎𝟎,𝟕𝟕𝟕𝟕𝟕𝟕 𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋 𝐛𝐛𝐛𝐛𝐛𝐛𝐛𝐛𝐛𝐛 𝐣𝐣𝐣𝐣𝐣𝐣𝐣𝐣𝐣𝐣 . di mana: McA adalah
+Jumlah kecelakaan mobil, lebar badan jalan adalah
+lebar badan jalan dalam meter. Hasil permodelan
+peluang ini menunjukan bahwa hanya lebar badan
+jalan yang mempengaruhi jumlah kecelakaan mobil
+di Kota Surabaya. Dapat diintepretasikan bahwa jika
+lebar badan jalan memiliki peningkatan 10% dari
+lebar badan jalan sebelumnya, maka model
+
+Ucapan Terima Kasih
+Penulis mengucapkan terima kasih kepada
+semua anggota penelitian yang terlibat dalam
+penelitian pemodelan kecelakaan pengendara
+mobil di Kota Surabaya. Juga kepada tim
+laboratorium EIIS Jurusan Perencanaan Wilayah
+dan Kota yang tidak dapat penulis sebutkan satu
+atas kerjasamanya.
+persatu, terima kasih banyak
+Penulis juga mengucapkan terima kasih kepada
+Universitas Brawijaya atas hibah penelitian
+unggulan yang diberikan kepada penulis.
+
+Daftar Pustaka
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+101
+
+I. W. Agustin, “Analysis of Car Accident at the Location
+of Black-Spot and Rating for Accident-Prone Roads in
+Surabaya,” 2019, .
+S. Damiani, E. Deregibus, and L. Andreone, “Drivervehicle interfaces and interaction: Where are they
+going?,” Eur. Transp. Res. Rev., 2009, .
+G. Yannis, E. Papadimitriou, A. Chaziris, and J.
+Broughton, “Modeling road accident injury underreporting in Europe,” Eur. Transp. Res. Rev., 2014, .
+M. Wiethoff et al., “A methodology for improving road
+safety by novel infrastructural and invehicle
+technology combinations,” Eur. Transp. Res. Rev.,
+2012, .
+C. Antoniou, “A stated-preference study of the
+willingness-to-pay to reduce traffic risk in urban vs.
+rural roads,” Eur. Transp. Res. Rev., 2014, .
+F. Russo and A. Comi, “From the analysis of European
+accident data to safety assessment for planning: the
+role of good vehicles in urban area,” Eur. Transp. Res.
+Rev., 2017, .
+G. Yannis, G. Louca, S. Vardaki, and G. Kanellaidis,
+“Why do drivers exceed speed limits,” Eur. Transp.
+Res. Rev., 2013, .
+O. Benderius, G. Markkula, K. Wolff, and M. Wahde,
+“Driver behaviour in unexpected critical events and in
+repeated exposures – A comparison,” Eur. Transp. Res.
+Rev., 2014, .
+
+Imma Widyawati Agustin, Christia Meidiana, Sri Muljaningsih
+
+[9]
+
+V. Kureckova, V. Gabrhel, P. Zamecnik, P. Rezac, A.
+Zaoral, and J. Hobl, “First aid as an important traffic
+safety factor – evaluation of the experience–based
+training,” Eur. Transp. Res. Rev., 2017, .
+[10] Aloisius de Rozari and Yudi Hari Wibowo, “Faktorfaktor Yang Menyebabkan Kemacetan Lalu Lintas di
+Jalan Utama Kota Surabaya,” J. Penelit. Adm. Publik,
+2015, .
+[11] Badan Pusat Statistik Surabaya, “Kota Surabaya Dalam
+Angka Tahun 2016,” Badan Pusat Statistik Surabaya,
+2017.
+[12] Polantas Kota Surabaya, “Data Kepolisian Kecelakaan
+Lalu Lintas.” Polantas Surabaya, Surabaya, 2017.
+[13] T. Permanawati, H. Sulistio, and A. Wicaksono, “Model
+Peluang Kecelakaan Sepeda Motor Berdasarkan
+Karakteristik Pengendara (Studi Kasus: Surabaya,
+Malang dan Sragen ),” J. Rekayasa Sipil, 2010.
+[14] Kementerian Perhubungan, “Undang-Undang Nomor
+22 Tahun 2009 Tentang Lalu Lintas Dan Angkutan
+Jalan,”
+Kementerian
+Perhubungan,
+2009.
+https://peraturan.go.id/peraturan/index-lembarannegara.html?LembaranNegaraSearch%5Bjenis_peratu
+ran_id%5D=&LembaranNegaraSearch%5Bnomor%5D=
+22&LembaranNegaraSearch%5Btahun%5D=2009&Lem
+baranNegaraSearch%5Btentang%5D=.
+[15] E. Wiranto, A. Setyawan, and A. Sumarsono,
+“EVALUASI TINGKAT KERAWANAN KECELAKAAN
+PADA RUAS JALAN BOYOLALI - AMPEL KM 29+000 34+000,” Matriks Tek. Sipil, vol. Volume 2 N, no. 2,
+2014.
+
+Warta Penelitian Perhubungan 2020, 32 (2): 93-102
+
+[16] Hermawan, S. Agung, Haryadi, Bambang, Kushardjoko,
+and Wahyudi, “Hubungan Uji Berkala Kendaraan
+Bermotor Dengan Kecelakaan Lalu Lintas Di Kota
+Cirebon,” Universitas Diponegoro, 2013.
+[17] A. Zanuardi and H. Suprayitno, “Analisa Karakteristik
+Kecelakaan Lalu Lintas di Jalan Ahmad Yani Surabaya
+melalui Pendekatan Knowledge Discovery in
+Database,” J. Manejemen Aset Infrastruktur Fasilitas,
+2018, .
+[18] I. Arfan and W. Wulandari, “Studi Epidemiologi
+Kejadian Kecelakaan Lalu Lintas Di Kota Pontianak,” J.
+Vokasi Kesehat., 2018, .
+[19] M. Azizirrahman, E. Normelani, and D. Arisanty,
+“Faktor Penyebab Terjadinya Kecelakaan Lalu Lintas
+Pada Daerah Rawan Kecelakaan di Kecamatan
+Banjarmasin Tengah Kota Banjarmasin,” J. Pendidik.
+Geogr., vol. 2 Nomor 3, 2015.
+[20] I. Benny Gede, D. Arta, and E. Saraswati, “Kajian
+Spasial Tingkat Kerawanan Kecelakaan Lalu Lintas di
+Sebagian Ruas Jalan Kota Denpasar,” J. Bumi Indones.,
+vol. 6 Nmor 2, 2017.
+[21] N. Zuriah, Metodologi Penelitian Sosial dan
+Pendidikan (Teori - Aplikasi ). Jakarta: Bumi Aksara,
+2006.
+[22] A. Suraji, N. Tjahjono, and Widodo, “Analisis Faktor
+Kendaraan Sepeda Motor terhadap Kecelakaan Lalu
+Lintas.” 2010.
+[23] A. E. Sujianto, Analisis Statistik dengan SPSS 16.0.
+Jakarta. Jakarta: Prestasi Pustaka, 2009.
+
+102
+
+

@@ -1,0 +1,1781 @@
+2009
+
+Rizki Suhendar Putra, dkk., Pengaruh Penggunaan Media Pembelajaran Berbasis ….
+
+PENGARUH PENGGUNAAN MEDIA PEMBELAJARAN BERBASIS
+APLIKASI ANDROID TERHADAP HASIL BELAJAR SISWA
+Rizki Suhendar Putra, Nanik Wijayati dan F. Widhi Mahatmanti
+Jurusan Kimia FMIPA Universitas Negeri Semarang
+Gedung D6 Lantai 2 Kampus Sekaran Gunungpati Semarang, 50229, Telp. (024)8508035
+E-Mai : rizkisuhendar1194@gmail.com
+
+ABSTRAK
+Penelitian ini bertujuan untuk mengetahui pengaruh penggunaan media pembelajaran
+berbasis aplikasi android terhadap hasil belajar kimia pada materi kelarutan dan hasil kali
+kelarutan di SMA Negeri 1 Lemahabang, Kabupaten Cirebon. Desain penelitian yang
+digunakan adalah pretest-posttest-group design dengan sistem pengambilan sampel
+menggunakan cluster random sampling. Subjek penelitian adalah dua kelas yang terdiri dari
+kelas kontrol yaitu XI MIPA 3 dan kelas eksperimen yaitu XI MIPA 2. Perlakuan pada dua kelas
+sampel dibedakan dengan penggunaan media pembelajaran berbasis aplikasi android pada
+kelas eksperimen sedangkan pada kelas kontrol tidak. Instrumen yang digunakan adalah
+instrumen tes soal uraian dan non tes berupa angket tanggapan siswa. Hasil penelitian
+menunjukkan bahwa: (1) uji t terhadap hasil belajar dengan diperoleh thitung = 1,98 lebih besar
+dari
+ttabel = 1,66 diperkuat dengan nilai N-gain dari kelas eksperimen sebesar 0,71
+dibandingkan kelas kontrol sebesar 0,54 maka rata –rata nilai kelas eksperimen lebih baik
+dibanding kelas kontrol, (2) pengunaan media pembelajaran berbasis aplikasi android memiliki
+pengaruh sebesar 60,16% terhadap hasil belajar dan (3) media pembelajaran berbasis aplikasi
+android mendapat respon positif bagi siswa dengan hasil angket sebesar 80,05 %.
+Kata kunci: aplikasi android, hasil belajar siswa, media pembelajaran
+ABSTRACT
+This research aimed to determine the effect of using learning media android-based
+application for chemistry learning of solubility and solubility product in SMA Negeri 1
+Lemahabang, Cirebon District. This research use pretest-posttest-group design and sampling
+was selected by cluster random sampling method. Subjects formed by two classes,
+experimental class and control class. Different treatment applied at two classes sample by using
+learning media android-based application on experimental class while control class do not. The
+instrument used are essay test instruments and student respon questionnaire. The result
+showed that: (1) t test from learning achievment obtained tcount =1.98 is bigger than value of ttable
+= 1.66 and N-gain from experiment class is 0,71 that bigger than N-gain from control class 0.54,
+thus the average value of learning achievment of experiment class better than control class, (2)
+by using the learning media application showed the coefficient of determination 60.16% for
+student learning achievment, and (3) positive responses given by students for learn using media
+android-based application with questionnaire values obtained 80.05%.
+Keywords: android-based application, learning achievment, learning media
+PENDAHULUAN
+Kegiatan
+merupakan
+
+itu sendiri salah satunya adalah aspek
+belajar
+proses
+
+mengajar
+pembentukan
+
+kognitif.
+
+Aspek
+
+kognitif
+
+merupakan
+
+kemampuan inteektual siswa dalam berpikir,
+
+pemahaman diri siswa akan ilmu dan
+
+mengetahui
+
+perkembangan baik secara pengetahuan,
+
+masalah. Menurut Bloom (1956) aspek
+
+psikis maupun sosial. Tujuan dari proses
+
+kognitif memiliki tujuan domain yang terdiri
+
+pembelajaran meliputi berbagai aspek yang
+
+atas
+
+ditetapkan sebagai hasil dari pembelajaran
+
+(knowledge),
+
+enam
+
+dan
+
+bagian
+
+memecahkan
+
+yaitu
+
+suatu
+
+pengetahuan
+pemahaman
+
+2010
+
+Jurnal Inovasi Pendidikan Kimia, Vol. 11, No. 2, 2017, halaman 2009-2018
+
+(comperhenssion), penerapan (application),
+
+beberapa
+
+analisis (analysis), sintesis (synthetis), dan
+
+kesulitan dalam menyerap materi yang
+
+evaluasi (evaluation).
+
+bersumber dari buku maupun tampilan
+
+faktor
+
+diantaranya
+
+adalah
+
+Tujuan mata pelajaran kimia ber-
+
+powerpoint yang ada. Guru pun masih
+
+dasarkan standar isi mata pelajaran kimia
+
+menggunakan metode konvensional dalam
+
+SMA/MA (Permendiknas RI Nomor 22,
+
+mengajar
+
+2006) adalah agar siswa memiliki kem-
+
+kecenderungan
+
+ampuan memahami konsep, prinsip, hukum,
+
+motivasi dalam diri siswa ketika melakukan
+
+dan teori kimia serta saling keterkaitan dan
+
+kegiatan pembelajaran. Motivasi merupakan
+
+penerapannya
+
+menyelesaikan
+
+penentu intensitas usaha belajar siswa,
+
+masalah dalam kehidupan sehari-hari dan
+
+sebagai daya penggerak dan menjamin
+
+teknologi. Pada kenyataannya, siswa sering
+
+kelangsungan belajar siswa sehingga tujuan
+
+mengalami kesulitan dalam mempelajari
+
+yang dikehendaki dapat tercapai (Prasetyo,
+
+ilmu kimia. Kesulitan yang dihadapi oleh
+
+et al., 2015).
+
+siswa
+
+dalam
+
+untuk
+
+mempelajari
+
+ilmu
+
+kimia
+
+sehingga
+
+siswa
+
+memiliki
+
+dan
+
+kurangnya
+
+malas
+
+Perkembangan
+
+ilmu
+
+pengetahuan
+
+dikarenakan konsep- konsep dalam ilmu
+
+dan teknologi mengarah pada perubahan
+
+kimia
+
+yang semakin signifikan dan menuju era
+
+bersifat
+
+abstrak
+
+(Chandrasegaran, et al., 2008).
+Penelitian
+
+ini
+
+praktis.
+
+dilaksanakan
+
+pada
+
+Dalam
+
+perkembangan
+
+sektor
+
+pendidikan,
+
+teknologi
+
+informasi
+
+materi kelarutan dan hasil kali kelarutan.
+
+merambah pada sistem pengelolaan dan
+
+Istilah kelarutan (solubility) digunakan untuk
+
+juga
+
+menyatakan jumlah maksimal zat yang
+
+Pemanfaatan
+
+dapat larut dalam sejumlah tertentu pelarut.
+
+bervariasi menjadi tantangan guru dalam
+
+Kelarutan (khususnya untuk zat yang sukar
+
+melaksanakan tugasnya sebagai pengajar
+
+–1
+
+di sekolah dalam rangka mencapai tujuan
+
+larut) dinyatakan dalam satuan gram.L
+–1
+
+atau mol.L . Materi kelarutan terdiri dari
+
+sistem
+
+pembelajaran
+media
+
+di
+
+yang
+
+kelas.
+semakin
+
+pembelajaran (Purbasari, et al., 2012).
+Pemanfaatan
+
+beberapa sub materi diantaranya adalah
+
+smartphone
+
+yang
+
+pengertian kelarutan, tetapan hasil kali
+
+terbilang mudah dibawa, mudah diakses
+
+kelarutan,
+
+dan
+
+hubungan
+
+kelarutan
+
+dengan
+
+terjangkau
+
+sebagai
+
+media
+
+tetapan hasil kali kelarutan, pengaruh ion
+
+pembelajaran
+
+senama
+
+hubungan
+
+dampak bagi siswa (Kim, et al., 2013).
+
+kelarutan dengan pH, penggunaan konsep
+
+Selain sarana yang tergolong baru, siswa
+
+kelarutan pada pemisahan zat dan konsep
+
+akan lebih tertarik untuk menggunakan
+
+pengendapan (Purba, 2006).
+
+sarana yang sifatnya “kekinian” dan biasa
+
+terhadap
+
+kelarutan,
+
+Hasil survei dan observasi yang
+dilakukan di SMA Negeri 1 Lemahabang
+Kabupaten
+
+Cirebon,
+
+didapatkan
+
+dengan
+
+akan sangat
+
+dalam
+
+keadaaan
+
+siswa
+
+memberikan
+
+di
+
+kehidupan
+
+sehari–hari.
+
+bahwa
+
+Rumusan masalah dalam penelitian
+
+kesulitan siswa dalam memahami materi
+
+ini adalah: (1) Adakah perbedaan hasil
+
+kimia di sekolah disebabkan oleh beberapa
+
+belajar antara siswa yang menggunakan
+
+Rizki Suhendar Putra, dkk., Pengaruh Penggunaan Media Pembelajaran Berbasis ….
+dan
+
+tidak
+
+menggunakan
+
+media
+
+2011
+
+menggunakan instrumen berupa soal essay
+
+pembelajaran berbasis aplikasi android di
+
+yang
+
+SMA Negeri 1 Lemahabang? (2) Apakah
+
+kemampuan
+
+penggunaan media pembelajaran berbasis
+
+sedangkan metode non tes menggunakan
+
+aplikasi
+
+pengaruh
+
+instrumen angket tanggapan siswa yang
+
+terhadap peningkatan hasil belajar siswa
+
+digunakan untuk mengetahui respon siswa
+
+kelas XI SMA Negeri 1 Lemahabang pada
+
+terhadap penggunaan media pembelajaran
+
+ranah kognitif ? dan (3) Bagaimana respon
+
+berbasis aplikasi android.
+
+siswa
+
+android
+
+terhadap
+
+memiliki
+
+untuk
+
+kognitif
+
+mengetahui
+
+kimia
+
+siswa,
+
+media
+
+Selain itu pengumpulan data juga
+
+aplikasi
+
+diperoleh dari dokumentasi, yaitu untuk
+
+android terhadap hasil belajar kimia siswa di
+
+mengetahui hasil belajar siswa sebelumnya
+
+SMA Negeri 1 Lemahabang?
+
+di SMA Negeri 1 Lemahabang, Kabupaten
+
+pembelajaran
+
+penggunaan
+
+digunakan
+
+kimia
+
+Penelitian
+
+ini
+
+berbasis
+
+bertujuan
+
+untuk
+
+Cirebon. Beberapa instrumen pendukung
+
+mengetahui besar pengaruh dan respon
+
+juga
+
+siswa
+
+diantaranya
+
+terhadap
+
+pembelajaran
+
+penggunaan
+
+media
+
+berbasis aplikasi
+
+androiid
+
+digunakan
+
+dalam
+
+adalah
+
+penelitian
+
+silabus,
+
+ini
+
+rencana
+
+pelaksanaan pembelajaran, lembar validasi
+
+terhadap hasil belajar siswa di SMA Negeri
+
+media
+
+dan
+
+1 Lemahabang Kabupaten Cirebon.
+
+pembelajaran,
+
+rencana
+dan
+
+pelaksanaan
+
+storyboard
+
+media
+
+pembelajaran.
+METODE PENELITIAN
+
+Data penelitian hasil belajar kognitif
+
+Penelitian ini dilakukan di SMA Negeri
+
+dianalisis secara statistik parametrik yaitu
+
+1 Lemahabang, Kabupaten Cirebon. Desain
+
+dihitung
+
+penelitian ini yaitu pretest-posttest-group
+
+normalitas, uji kesamaan dua varians, uji t,
+
+design,
+
+uji N-gain, analisis pengaruh antar variabel,
+
+dengan
+
+metode
+
+pengambilan
+
+dengan
+
+uji
+
+homogenitas
+
+dan
+
+sampel cluster random sampling. Variabel
+
+dan
+
+bebas dalam penelitian ini adalah data hasil
+
+(Arikunto,
+
+pretest dan posttest dari kelas eksperimen
+
+bertujuan untuk mengetahui pengaruh dan
+
+dan kelas kontrol lalu diuji normalitas dan
+
+seberapa
+
+homogenitas untuk mengetahui data nilai
+
+media
+
+pembelajaran
+
+yang
+
+android
+
+terhadap
+
+didapat
+
+berdistribusi
+
+normal
+
+dan
+
+homogen.
+
+penentuan
+
+koefisien
+
+2006).
+
+besar
+
+determinasi
+
+Pengujian
+
+pengaruh
+
+penggunaan
+
+berbasis
+
+hasil
+
+tersebut
+
+belajar
+
+aplikasi
+siswa.
+
+Kemudian untuk hasil angket tanggapan
+
+Sampel yang dipilih adalah kelas XI
+
+siswa dianalisis secara deskriptif kuantitatif
+
+MIPA 2 sebagai kelas eksperimen dengan
+
+dengan menghitung presentase rata–rata
+
+perlakuan
+
+tanggapan siswa dari hasil angket.
+
+media
+
+pembelajaran
+
+pembelajaran
+
+menggunakan
+
+berbasis
+
+aplikasi
+
+android dan kelas XI MIPA 3 sebagai kelas
+kontrol tanpa perlakuan.
+
+HASIL DAN PEMBAHASAN
+Karakteristik pembeda utama pada
+
+Metode pengumpulan data dilakukan
+
+pembelajaran yang diterapkan pada kelas
+
+dengan metode tes dan non tes. Metode tes
+
+eksperimen dan kelas kontrol adalah dalam
+
+2012
+
+Jurnal Inovasi Pendidikan Kimia, Vol. 11, No. 2, 2017, halaman 2009-2018
+
+penggunaan media pembelajaran berbasis
+
+metode
+
+aplikasi
+
+perangkat
+
+Beberapa tampilan menu pada aplikasi
+
+pembelajaran lainnya seperti guru, standar
+
+android yang digunakan dapat dilihat pada
+
+kompetensi, tujuan pembelajaran, materi,
+
+Gambar 1.
+
+android.
+
+Sedangkan
+
+(a)
+
+pembelajaran
+
+(b)
+
+dan
+
+soal
+
+sama.
+
+(c)
+
+(d)
+(e)
+(f)
+Gambar 1. (a) tampilan awal,(b) tampilan menu, (c) tampilan materi animasi, (d) tampilan
+materi tabel, (e)tampilan soal interaktif, (f) tampilan soal evaluasi
+
+Keaktifan, ketertarikan dan interaksi
+yang terjadi baik dikelas eksperimen dan
+kelas
+
+kontrol
+
+sama.
+
+terhadap materi kelarutan dan hasil kali
+kelarutan.
+
+pelaksanaan
+
+Tahap
+
+berikutnya
+
+adalah
+
+pembelajaran disesuaikan dengan rencana
+
+pelaksanaan
+
+pembelajaran
+
+dengan
+
+pelaksanaan pembelajaran yang terbagi
+
+perlakuan yang berbeda terhadap kedua
+
+menjadi 5 pertemuan. Pada pertemuan awal
+
+kelas sampel. Kelas eksperimen diberikan
+
+siswa diberikan soal pretest yang telah diuji
+
+perlakuan
+
+cobakan
+
+dan
+
+validitasnya.
+
+media
+
+Pemberian
+
+pretest
+
+pada
+
+kelas
+
+android sedangkan untuk kelas kontrol tidak
+
+eksperimen maupun kelas kontrol bertujuan
+
+menggunakan media pembelajaran berbasis
+
+untuk mengetahui kondisi awal penge-
+
+aplikasi
+
+tahuan dan pemahaman konsep siswa
+
+pertemuan baik kelas eksperimen maupun
+
+dihitung
+baik
+
+kelas
+
+pembelajaran
+
+pembelajaran
+
+android.
+kontrol
+
+menggunakan
+
+berbasis
+
+Selanjutnya
+
+diberikan
+
+aplikasi
+
+di
+
+posttest
+
+akhir
+untuk
+
+2013
+
+Rizki Suhendar Putra, dkk., Pengaruh Penggunaan Media Pembelajaran Berbasis ….
+mengetahui
+aspek
+
+seberapa
+
+kognitif
+
+besar
+
+siswa
+
+perubahan
+
+setelah
+
+terhadap penggunaan media pembelajaran
+
+diberi
+
+berbasis aplikasi android. Rata–rata nilai
+
+perlakuan. Di akhir, khusus untuk kelas
+
+pretest dan postest siswa dapat dilihat pada
+
+eksperimen diberikan angket tanggapan
+
+Gambar 2.
+
+siswa untuk mengetahui
+
+respon siswa
+
+80
+70
+rentang nilai
+
+60
+50
+40
+
+PRETEST
+
+30
+
+POSTTEST
+
+20
+10
+0
+Eksperimen
+
+kelompok sampel
+
+Kontrol
+
+Gambar 2. Perbandingan nilai kelas eksperimen dan kontrol
+Hasil pretest dan posttest siswa pada
+kelas eksperimen dan kelas kontrol
+
+kelas eksperimen memperoleh nilai sebesar
+
+yang
+
+0,71 dengan kriteria tinggi sedangkan untuk
+
+tercantum pada Gambar 2 menunjukkan
+
+kelas kontrol sebesar 0,54 dengan kriteria
+
+adanya perbedaan yang cukup besar. Hasil
+
+sedang.
+
+Penggunaan
+
+pretest kelas eksperimen memiliki rata–rata
+
+berbasis
+
+ICT
+
+nilai sebesar 14,29 lebih kecil dibandingkan
+
+teknologi yang dekat dengan siswa pada
+
+dengan rata–rata nilai pretest kelas kontrol
+
+masa ini memberikan ketertarikan tersendiri
+
+yaitu sebesar 21,55. Akan tetapi pada hasil
+
+bagi siswa untuk mengakses materi yang
+
+posttest menunjukkan hasil yang berbeda.
+
+terdapat dalam aplikasi sehingga intensitas
+
+Rata–rata nilai posttest yang didapat kelas
+
+belajar siswa semakin meningkat. Intensitas
+
+eksperimen
+
+belajar
+
+70,10
+
+dan
+
+lebih
+
+besar
+
+media terbarukan
+
+dengan
+
+yang
+
+memanfaatkan
+
+semakin
+
+tinggi
+
+akan
+
+dibandingkan dengan rata–rata nilai posttest
+
+berdampak pada hasil belajar siswa dan
+
+kelas kontrol yaitu sebesar 63,79. Rata–rata
+
+memiliki
+
+nilai yang diperoleh kelas eksperimen dan
+
+peningkatan hasil belajar siswa (Prasetyo,
+
+kelas control berbeda, akan tetapi tidak
+
+et al., 2015).
+
+terpaut
+
+terlalu
+
+jauh.
+
+Pembuktian
+
+kemungkinan
+
+besar
+
+dalam
+
+Data yang didapat dari hasil pretest
+
+yang
+
+dilakukan dalam analisis data membutuhkan
+
+dan
+
+pula analisis N-gain untuk menguatkan
+
+dilakukan
+
+pengaruh penggunaan media pembelajaran
+
+pengujian normalitas, homogenitas dan uji
+
+berbasisa
+
+kesamaan
+
+plikasi
+
+android.
+
+Hasil
+
+pada
+
+analisis N-gain terhadap hasil belajar pada
+
+posttest
+
+sebelum
+
+pengujian
+dua
+
+diuji
+
+tahap
+
+varians.
+
+hipotessis
+awal
+
+Data
+
+yaitu
+hasil
+
+2014
+
+Jurnal Inovasi Pendidikan Kimia, Vol. 11, No. 2, 2017, halaman 2009-2018
+
+perhitungan
+
+uji
+
+homogenitas
+
+dan
+
+uji
+
+normalitas tercantum pada Tabel 1.
+
+pretest dan posttest sebesar 6,69 dan 1,35
+segingga dapat dinyatakan bahwa data hasil
+
+dan
+
+pretest dan posttest kelas eksperimen dan
+
+normalitas data diperoleh harga X2hitung dari
+
+kelas kontrol homogen sehingga data yang
+
+nilai pretest kelas eksperimen dan kelas
+
+didapat dapat diuji menggunakan uji t pada
+
+kontrol sebesar 6,15 dan 3,60 dan posttest
+
+analisis perbedaan rata–rata hasil belajar
+
+8,38 dan 4,17 yang berada pada daerah
+
+siswa
+
+Data
+
+kritik
+
+2
+X tabel
+
+hasil
+
+uji
+
+homogenitas
+
+12,59 sehingga data tersebut
+
+dalam
+
+pembuktian
+
+hipotesis
+
+penelitian.
+
+berdistribusi normal. Dan homogenitas data
+.
+Tabel 1. Hasil uji normalitas dan homogenitas
+No
+
+Kelas
+
+1
+2
+
+Eksperimen
+Kontrol
+Homogenitas
+
+Pretest
+6,15
+8,38
+6,69
+
+Postest
+3,60
+4,17
+1,35
+
+Keterangan
+12,59
+
+Normal/Normal
+Normal/Normal
+Homogen/Homogen
+
+Pengujian kesamaan dua varians,
+
+artinya rata-rata hasil belajar kognitif kelas
+
+nilai F yang diperoleh dari perhitungan
+
+eksperimen lebih tinggi daripada rata-rata
+
+dikonsultasikan
+
+hasil belajar kognitif kelas kontrol.
+
+dengan
+
+Ftabel
+
+yang
+
+mempunyai taraf signifikansi ( ) = 5%.
+
+Pengujian selanjutnya adalah dengan
+
+Untuk α = 5%, dengan dk = 2-1 = 1
+
+menghitung koefisien biserial dan koefisien
+
+diperoleh Ftabel = 3,98. Fhitung yang diperoleh
+
+determinasi untuk mengetahui seberapa
+
+adalah 1,43. Karena Fhitung< Fa(k-1)(n-k)
+
+besar
+
+maka Ho diterima, jadi kedua kelompok
+
+bebasis aplikasi android terhadap hasil
+
+mempunyai
+
+belajar siswa.
+
+varians
+
+yang
+
+sama
+
+atau
+
+pengaruh
+
+media
+
+pembelajaran
+
+Hasil perhitungan koefisien
+
+korelasi biserial dan koefisien determinasi
+
+homogen.
+Setelah data yang didapat berdistribusi
+
+dari data posttest diperoleh untuk koefisien
+
+normal dan homogen, maka pengujian
+
+korelasi
+
+terhadap hipotesis dapat dilakukan dengan
+
+determinasi
+
+menggunakan
+
+perhitungan menunjukkan bahwa pengaruh
+
+uji
+
+t
+
+untuk
+
+menghitung
+
+sebesar
+
+0,77
+
+sebesar
+
+60,16%.
+
+berbasis
+
+koefisien
+Hasil
+
+perbedaan rata–rata dari kelas eksperimen
+
+media
+
+dan kelas kontrol. Kriteria pengujian yaitu
+
+terhadap hasil belajar siswa cukup besar
+
+Ho diterima jika thitung ≤ ttabel . Nilai ttabel dapat
+
+yaitu 60,16%. Koefisien determinasi dari
+
+dilihat pada daftar distribusi t dengan dk =
+
+penggunaan media pembelajaran berbasis
+
+n1 + n2 – 2 dan taraf signifikansi 5% dan dk
+
+aplikasi android terhadap hasil belajar siswa
+
+= 42 + 42 – 2 = 82 adalah ttabel = 1,66 dan
+
+digambarkan pada Gambar 3.
+
+diperoleh thitung = 1,98. Karena thitung> ttabel
+
+pembelajaran
+
+dan
+
+android
+
+Rizki Suhendar Putra, dkk., Pengaruh Penggunaan Media Pembelajaran Berbasis ….
+pengaruh media
+
+2015
+
+pengaruh lainnya
+
+40%
+
+60%
+
+Gambar 3. Persentase koefisien determinasi
+
+Hasil koefisien determinasi yang didapat
+
+lingkungan sekolah maupun di luar sekolah,
+
+mengacu pada indeks determinasi hasl
+
+dan
+
+posttest dari kelas eksperimen dan kelas
+
+motivasi, kemauan dan lain sebagainya
+
+kontrol. Pengujian koefisien korelasi biserial
+
+(Azizah dan Sudarmin, 2012).
+
+juga
+
+faktor interen
+
+siswa
+
+seperti
+
+yang cukup besar dikarenakan adanya
+
+Angket tanggapan siswa yang telah
+
+perbedaan rentang jumlah siswa yang
+
+diberikan pada kelas eksperimen untuk
+
+mendapat nilai diatas standar kelulusan
+
+mengetahui
+
+untuk kelas eksperimen lebih besar dengan
+
+terhadap penggunaan media pembelajaran
+
+jumlah siswa yang mendapat nilai diatas
+
+berbasis android. Angket yang diberikan
+
+standar sebanyak 24 siswa sedangkan
+
+merupakan angket dengan skala Linkert
+
+untuk kelas kontrol sebanyak 13 siswa.
+
+yang memuat lima klasifikasi penilaian.
+
+Pengujian koefisien korelasi biserial dengan
+
+Angket terdiri dari delapan pernyataan
+
+hasil yang diperoleh sebesar 0,77 dan
+
+terkait kesan dan perspektif siswa terhadap
+
+koefisien
+
+60,16%
+
+media pembelajaran berbasis android yang
+
+menunjukkan pengaruh penggunaan media
+
+digunakan selama proses pembelajaran.
+
+pembelajaran
+
+Hasil yang didapat tiap pernyataan pada
+
+determinasi
+
+berbasis
+
+sebesar
+
+aplikasi
+
+android
+
+memiliki pengaruh yang signifikan terhadap
+
+bagaimana
+
+respon
+
+siswa
+
+angket dapat dilihat pada Tabel 2.
+
+hasil belajar siswa walaupun perbedaan
+
+Angket tanggapan siswa merpakan
+
+nilai terendah dan nilai tertinggi dari kedua
+
+umpan balik siswa terhadap media yang
+
+kelas tersebut tidak terpaut terlalu jauh.
+
+digunakan yang berisi pernyataan terkait
+
+Hasil belajar siswa juga dipengaruhi oleh
+
+hasil dari keseluruhan proses pembelajaran
+
+beberapa faktor lain yang ditunjukkan dalam
+
+(Ismawati, et
+
+presentase koefisien determinasi sebesar
+
+tanggapan
+
+39,84% diantaranya adalah faktor guru,
+
+presentase yang cukup besar di masing–
+
+fasilitas yang tersedia, faktor sosial baik di
+
+masing pernyataan.
+
+al.,
+
+2013). Hasil
+
+angket
+
+siswa
+
+menunjukkan
+
+angka
+
+2016
+
+Jurnal Inovasi Pendidikan Kimia, Vol. 11, No. 2, 2017, halaman 2009-2018
+Tabel 2. Hasil Angket Tiap Pernyataan
+skor
+
+No
+
+Aspek yang dinilai
+
+1
+
+Penyajian media membuat saya tertarik untuk membacanya
+
+2
+
+3
+
+4
+5
+
+6
+
+7
+8
+
+Saya merasa senang jika pembelajaran menggunakan media
+ini
+Cakupan materi yang ada dalam media jelas dan runtut
+sehingga mudah saya pahami
+Penggunaan media dalam kegiatan pembelajaran lebih
+mudah untuk saya memahami pelajaran
+Bahasa
+
+yang digunakan
+
+dalam
+
+presentase
+
+kriteria
+
+157
+
+74,76
+
+setuju
+
+167
+
+79,52
+
+setuju
+
+160
+
+76,19
+
+setuju
+
+170
+
+80,95
+
+setuju
+
+166
+
+79,05
+
+setuju
+
+170
+
+80,95
+
+setuju
+
+170
+
+80,95
+
+setuju
+
+185
+
+88,10
+
+total
+
+media komunikatif
+
+dan
+
+mudah di pahami
+Latihan soal interaktif yang terdapat pada media membuat
+saya tertarik untuk mengerjakannya
+Media ini mendorong rasa ingin tahu saya terhadap materi
+dan keaktifan saya dalam belajar
+Media ini mempermudah saya dalam mempelajari materi
+kimia
+
+sangat
+setuju
+
+Presentase terkecil didapat pada poin 1
+
+penggunaan media pembelajaran berbasis
+
+dan presentase terbesar didapat pada poin
+
+ICT dalam bentuk aplikasi android dapat
+
+8. Analisis deskriptif terhadap hasil angket
+
+meningkatkan motivasi belajar siswa dan
+
+dapat
+
+membuat pembelajaran menjadi lebih aktif
+
+menunjukkan
+
+ketertarikan
+
+siswa
+
+kecenderungan
+terhadap
+
+media
+
+dan
+
+menarik
+
+sehingga
+
+menumbuhkan
+
+pembelajaran adalah pada kemudahan
+
+kemauan belajar siswa yang berdampak
+
+akses
+
+yang
+
+pada meningkatnya hasil belajar siswa.
+
+mudah dipahami oleh siswa. Penggunaan
+
+Juga hasil penelitian yang dilakukan oleh
+
+bahasa dan tampilan isi juga memiliki
+
+Valk, et al., (2010) bahwa penggunaan
+
+presentase yang cukup tinggi. Data yang
+
+media
+
+didapat secara keseluruhan didapatkan
+
+android memberikan gairah baru, rasa
+
+presentase angket yang didapat adalah
+
+senang
+
+sebesar 80,05% yang termasuk dalam
+
+selama proses pembelajaran berlangsung
+
+kategori baik. Sehingga dapat disimpulkan
+
+sehingga menimbulkan ketertarikan siswa
+
+bahwa penggunaan media pembelajaran
+
+dalan pelaksanaan kegiatan belajar (Hirsh-
+
+berbasis aplikasi android mendapat respon
+
+Pasek, et al., 2015).
+
+dan
+
+penyampaian
+
+materi
+
+pembelajaran
+
+dan
+
+berbasis
+
+ketertarikan
+
+untuk
+
+aplikasi
+
+siswa
+
+positif dari siswa.
+Hasil penelitian ini sesuai dengan yang
+telah dilakukan oleh Prasetyo, et al.,(2015)
+dan Nurrokmah, et al., (2013) bahwa
+
+SIMPULAN
+Penggunaan
+
+media
+
+pembelajaran
+
+berbasis aplikasi android terhadap hasil
+
+Rizki Suhendar Putra, dkk., Pengaruh Penggunaan Media Pembelajaran Berbasis ….
+belajar siswa pada materi kelarutan dan
+hasil
+
+kali
+
+kelarutan dapat
+
+disimpulkan
+
+menjadi beberapa poin yaitu: (1) Terdapat
+perbedaan yang signifikan antara rata–rata
+hasil belajar siswa kelas kontrol dan kelas
+eksperimen yang ditunjukkan dengan uji t
+
+2017
+
+Chandrasegaran, A. L., Treagust, D. F. dan
+Mocerino, M., 2008, An Evaluation
+of a Teaching Intervention to
+Promote Students’ Ability to Use
+Multiple Levels of Representation
+When Describing and Explaining
+Chemical Reaction”s, Research in
+Science Education, Vol 38, No 2,
+Hal 237–248.
+
+dengan thitung sebesar 1,98 yang lebih besar
+debandingkan dengan ttabel sebesar 1,66
+yang berada pada daerah penolakan Ho
+dan nilai N-gain dengan selisih yang cukup
+besar yaitu 0,71 dengan kriteria tinggi untuk
+kelas eksperimen dan 0,54 dengan kriteria
+sedang
+
+untuk
+
+kelas
+
+kontrol,
+
+(2)
+
+Penggunaan media pembelajaran berbasis
+aplikasi android memiliki pengaruh yang
+signifikan pada hasil belajar siswa yang
+ditunjukkan dengan harga koefisien korelasi
+biserial
+
+sebesar
+
+determinasi
+
+0,77
+
+sebesar
+
+dan
+
+koefisien
+
+60,16%
+
+dengan
+
+kategori signifikan dan (3) Penggunaan
+media
+
+pembelajaran
+
+berbasis
+
+Hirsh-Pasek, K., Zosh, J.M., Golinkoff,
+R.M., Gray, J.H., Robb,M.B., dan
+Kaufman,
+J.,
+2015,
+Putting
+Education in ”Educational” apps:
+Lessons From teh Science of
+Learning, Psychological Science in
+the Public Interest, Vol 16, No 1,
+Hal. 3-34.
+
+aplikasi
+
+android memiliki pengaruh yang positif
+
+Ismawati, R., Saptorini, dan Wijayati, N.,
+2013,
+Pengaruh
+Model
+Pembelajaran Inkuiri Berstrategi
+React Terhadap Hasil Belajar Kimia
+Siswa SMA Kelas XI, Jurnal Inovasi
+Pendidikan Kimia Vol 7, No 1, Hal.
+1044-1050.
+Kim, D., Rueckert, D., Kim, D.J., dan Seo,
+D., 2013. Students’ preceptions and
+experiences of mobile learning,
+Language
+Learning
+dan
+Technology, Vol 17, No 3, Hal. 5273.
+
+dalam proses pembelajaran ditunjukkan
+dengan data hasil angket sebesar 80,05%
+yang termasuk pada kategori baik dan
+mendapat respon positif selama proses
+pembelajaran.
+DAFTAR PUSTAKA
+Arikunto, S., 2006, Prosedur Penelitian
+Suatu Pendekatan Praktik. Jakarta:
+Rineka Cipta.
+Azizah, I.F. dan Sudarmin, 2012,Kontribusi
+Media Interaktif pada Contextual
+Teaching berorientasi Learning
+Community terhadap hasil Belajar
+siswa,Jurnal Inovasi Pendidikan
+Kimia Vol 6., No 1, Hal. 903-908.
+Bloom,
+B.S.,
+1956,
+Taxonomy
+of
+Educational Objectives Volume I:
+Cognitive domain, New York: McKay.
+
+Nurrokmah, I.E. dan Sunarto, W., 2013,
+Pengaruh Penerapan Virtual Lab
+Berbasis Inkuiri Terhadap Hasil
+Belajar Siswa,
+Chemistry
+in
+Education, Vol 2, No 1, Hal. 201208.
+Prasetyo, Y.D., Yektyastuti, R., Solihah, M.,
+Ikhsan, J. dan Sugiyarto, K.H.,
+2015,
+Pengaruh
+penggunaan
+media pembelajaran kimia berbasis
+aplikasi
+android
+terhadap
+peningkatan motivasi siswa SMA,
+Seminar Nasional Pendidikan Sains
+V, UNS.
+Purba, M., 2006, Kimia untuk SMA Kelas
+XI, Jakarta: Erlangga.
+Purbasari, R., Kahfi, M. dan Yunus, M.,
+2012, Pengembangan Aplikasi
+Android
+sebagai
+Media
+Pembelajaran Matematika pada
+
+2018
+
+Jurnal Inovasi Pendidikan Kimia, Vol. 11, No. 2, 2017, halaman 2009-2018
+Materi Dimensi Tiga untuk Siswa
+SMA Kelas X, Jurnal Pendidikan
+Matematika, Vol 1, No 2, Hal. 3-11.
+
+Valk, J.H., Rashid, A.T., dan Elder, L.,
+2010,Using Mobile Phones to
+Improve Educational Outcomes:An
+Analysis of Evidence from Asia,
+International Review of Research in
+Open and Distance Learning,Vol.
+11, No 1, Hal. 117-140.
+
+

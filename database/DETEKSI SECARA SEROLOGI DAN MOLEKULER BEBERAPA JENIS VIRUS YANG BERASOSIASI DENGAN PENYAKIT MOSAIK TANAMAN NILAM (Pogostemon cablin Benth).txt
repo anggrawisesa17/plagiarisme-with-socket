@@ -1,0 +1,962 @@
+Jurnal Littri 19(3), September 2013. Hlm. 130
+- 138 LITTRI VOL. 19 NO. 3, SEPTEMBER 2013 : 130 - 138
+JURNAL
+ISSN 0853-8212
+
+DETEKSI SECARA SEROLOGI DAN MOLEKULER BEBERAPA JENIS VIRUS YANG
+BERASOSIASI DENGAN PENYAKIT MOSAIK TANAMAN NILAM (Pogostemon cablin Benth)
+Serological and PCR Detection of Virus(es)
+Associated with Mosaic Symptoms on Patchouli Plant (Pogostemon cablin Benth)
+MIFTAKHUROHMAH1), GEDE SUASTIKA2), dan TRI ASMIRA DAMAYANTI2)
+1)
+
+Balai Penelitian Tanaman Rempah dan Obat
+Jalan Tentara Pelajar No. 3, Bogor 16111
+2)
+Departemen Proteksi Tanaman, Fakultas Pertanian, Institut Pertanian Bogor
+Jalan Kamper, Kampus Dramaga Bogor 16680
+e-mail: miftah_tia05@yahoo.co.id
+
+(Diterima Tgl. 28-2-2013 - Disetujui Tgl. 13-9-2013)
+ABSTRAK
+Penyakit mosaik pada tanaman nilam disebabkan oleh beberapa
+jenis virus, yaitu Potyvirus, Potexvirus, Cucumber mosaic virus (CMV),
+dan Broad bean wilt virus 2 (BBWV2). Penelitian ini bertujuan untuk
+mengidentifikasi secara serologi dan molekuler virus-virus yang
+berasosiasi dengan gejala mosaik pada nilam di KP. Manoko, KP. Cicurug
+dan lahan petani di Cijeruk. Sampel daun nilam baik yang menunjukkan
+gejala mosaik atau pun tidak diambil dari setiap lokasi penanaman
+masing–masing sebanyak 30 sampel. Kejadian penyakit ditentukan melalui
+deteksi serologi dengan Direct-ELISA dan Indirect-ELISA terhadap sampel
+menggunakan empat antiserum, yaitu CMV, Cymbidium mosaic virus
+(CymMV), Potyvirus, dan BBWV2. Deteksi molekuler dengan RT-PCR
+dilakukan untuk mengonfirmasi virus baru yang ditemukan. Hasil
+penelitian menunjukkan bahwa gejala infeksi virus yang ditemukan pada
+nilam bervariasi, yaitu mosaik lemah, mosaik kuning hijau, mosaik dengan
+penebalan, mosaik dengan malformasi daun, dan bintik kuning. Secara
+serologi, kejadian virus pada setiap kebun bervariasi. Di KP Manoko,
+Potyvirus dan BBWV2 lebih dominan (100%) dibandingkan CymMV. Di
+KP Cicurug, kejadian Potyvirus dan CMV terlihat lebih dominan (83,3 dan
+80%) dibandingkan BBWV2 dan CymMV, sedangkan di Cijeruk, BBWV2
+lebih dominan (90%) dari Potyvirus (50%) dan CMV (13,3%). Hasil RTPCR dengan primer degenerate BBWV, diidentifikasi BBWV2 pada
+sampel daun nilam dari Manoko, Cicurug, dan Cijeruk, sedangkan dengan
+primer general Potexvirus, diidentifikasi CymMV hanya dari sampel daun
+nilam dari asal Manoko. Hasil penelitian ini merupakan laporan pertama
+tentang BBWV2 dan CymMV pada tanaman nilam di Jawa Barat yang
+mengindikasikan bahwa virus merupakan kendala utama pada perbenihan
+nilam yang harus segera diatasi.
+Kata kunci: BBWV2, CymMV, mosaik, Pogostemon cablin Benth, PCR
+
+ABSTRACT
+Mosaic symptoms on patchouli plant are associated with several
+viruses, i.e. Potyvirus, Potexvirus, CMV, and BBWV2. The objective of
+the study was to detect virus(es) associated with mosaic symptoms on
+patchouli at the the patchouli seed nurseries, in Manoko, Cicurug, and
+Cijeruk. Thirty leaf samples either showing typical symptomatic mosaic or
+asymptomatic were taken from each location. Serological testing by
+Direct-ELISA and Indirect-ELISA using four antisera namely CMV,
+Cymbidium mosaic virus (CymMV), Potyvirus, and BBWV2 was carried
+out to test the incidence of each virus. Molecular detection by RT-PCR was
+performed to confirm the new virus(es). The results showed that symptoms
+
+130
+
+of virus infection were found vary, i.e. weak mosaic, green yellow mosaic,
+mosaic with thickening, mosaic with leaf malformations, and yellow spot.
+Based on the serological detection, virus(es) incidence varied at each seed
+nurseries. In Manoko, Potyvirus, and BBWV2 were more dominant
+(100%) compared with CymMV. In Cicurug, Potyvirus and CMV were
+more dominat (83.3 and 80%) compared with BBWV2 and CymMV.
+While in Cijeruk, BBWV2 was the most dominant (90%) than Potyvirus
+(50%) and CMV(13.3%). Result of RT-PCR with degenerate primers pair
+of BBWV was succesfully identified BBWV2 from Manoko, Cicurug, and
+Cijeruk samples, whereas by using Potexvirus general primary, CymMV
+was identified only from Manoko samples. BBWV2 and CymMV were
+first reported to infect patchouli in West Java. The result indicate that
+virus(es) are the major constraint on patchouli seed that should be
+managed immediately.
+Key words: BBWV2, CymMV, mosaic, Pogostemon cablin Benth, PCR
+
+PENDAHULUAN
+Nilam (Pogostemon cablin Benth) merupakan
+tanaman penghasil minyak atsiri yang menjadi salah satu
+sumber devisa Indonesia. Minyak nilam dalam dunia
+perdagangan internasional dikenal sebagai patchouli oil.
+Minyak nilam banyak digunakan sebagai bahan fiksatif
+dalam pembuatan parfum, sabun, dan kosmetik. Indonesia
+menyuplai kurang lebih 70% kebutuhan minyak nilam
+dunia dengan volume ekspor rata-rata di atas 1.000 ton per
+tahun dan hasil devisa rata-rata di atas 20 juta US $
+(BARANI, 2008). Hal ini mengakibatkan tingginya minat
+petani untuk mengembangkan tanaman nilam. Pada tahun
+2009 luas areal penanaman nilam seluas 24.535 ha;
+meningkat sebesar 9,79% dari tahun sebelumnya. Namun,
+produktivitas nilam masih rendah, yaitu sebesar 0,11 ton/ha.
+Pada tahun 2010, terjadi penurunan luas penanaman sebesar
+4,53% menjadi 23.472 ha, dan penurunan produktivitas
+sebesar 0,09 ton/ha (DIREKTORAT JENDERAL PERKEBUNAN,
+2012).
+Penurunan produktivitas nilam diduga karena adanya
+
+MIFTAKHUROHMAH et al. : Deteksi secara serologi dan molekuler beberapa jenis virus
+
+serangan hama dan penyakit. Salah satu patogen penting
+pada tanaman nilam adalah virus. Beberapa virus yang
+dilaporkan menyerang tanaman nilam adalah Patchouli
+mottle virus (PatMoV) dan Peanut stripe virus (PStV) yang
+tergolong ke dalam genus Potyvirus (NATSUAKI et al., 1994;
+SINGH et al., 2009), Patcouli mild mosaic virus (PatMMV)
+yang tergolong ke dalam genus Fabavirus (NATSUAKI et al.,
+1994), serta Patchouli virus X (PatVX), yang tergolong ke
+dalam genus Potexvirus (FILHO et al., 2002). Pada
+pertanaman nilam di Jawa Tengah ditemukan PatMoV yang
+berasosiasi dengan gejala mosaik (SUMARDIYONO et al.,
+1996), sedangkan di Cianjur dan Bogor gejala mosaik pada
+nilam berasosiasi dengan CMV dan Potyvirus (SUKAMTO et
+al., 2007).
+Penyakit mosaik diketahui telah menjadi kendala
+utama pada pertanaman nilam di Jawa dan Sumatera Barat.
+Kejadian penyakit mosaik akibat infeksi Potyvirus
+diperkirakan berkisar antara 30–50%, sedangkan di Jawa
+Tengah akibat infeksi Broad bean wilt virus 2/BBWV2
+(anggota genus Fabavirus) berkisar 40% (NOVERIZA et al.,
+2012a). Penyakit mosaik menyebabkan penurunan bobot
+terna basah sebesar 7,87-34,65%, bobot terna kering
+sebesar 0,62-40,42% dan penurunan kadar patchouli
+alcohol sebesar 0,72-5,06% (NOVERIZA et al., 2012b).
+Usaha pengendalian virus pada tanaman harus
+dilakukan secara terpadu, di antaranya dengan memusnahkan/menghindarkan sumber inokulum, mengendalikan
+vektor, dan melindungi tanaman dari infeksi. Salah satu
+cara untuk menghindar dari sumber inokulum adalah
+dengan menggunakan bahan tanaman yang sehat, bebas
+dari infeksi virus. Penggunaan benih nilam bebas virus di
+samping efektif mengendalikan virus juga dapat
+meningkatkan biomassa (1,5-3,5 kali) dan hasil minyak
+atsiri (1,5-5,1 kali) dibandingkan dengan pertanaman nilam
+yang menggunakan bahan tanaman terinfeksi virus
+(SUGIMURA et al., 1995). Untuk itu, upaya untuk
+memastikan benih nilam bebas dari virus sangatlah penting
+dan memerlukan metode diagnosis yang sensitif (MAKKOUK
+dan KUMARI, 2006).
+Ada beberapa metode untuk mendeteksi virus, yaitu
+berdasarkan sifat-sifat biologi dan bagian dari partikel
+virus, yaitu asam nukleat. Deteksi berdasarkan asam
+nukleat dapat dilakukan secara serologi dan molekuler.
+Salah satu teknik serologi adalah adalah Enzyme-Linked
+Immunosorbent Assay (ELISA), sedangkan teknik molekuler
+yang umum digunakan adalah Polymerase Chain Reaction
+(PCR) (NAIDU dan HUGHES, 2003).
+Kebun benih nilam di Kebun Percobaan (KP) Manoko
+(Lembang), KP Cicurug (Sukabumi), dan kebun petani di
+Cijeruk (Bogor) cukup luas dan menjadi salah satu sumber
+benih utama. Hasil pengamatan awal di ketiga kebun benih
+tersebut ditemukan gejala penyakit mosaik yang diduga
+berasosiasi dengan virus. Keberadaan virus pada kebun
+benih nilam tersebut dikhawatirkan akan berdampak buruk
+pada pengembangan perbenihan nilam dan produksi
+minyak nilam.
+
+Penelitian bertujuan untuk mengidentifikasi secara
+serologi dan molekuler virus yang berasosiasi dengan gejala
+mosaik pada tanaman nilam.
+
+BAHAN DAN METODE
+Penelitian dilakukan di laboratorium Virologi Institut
+Pertanian Bogor, dari Januari sampai Juli 2012. Sampel
+daun tanaman nilam diambil dari kebun benih nilam KP
+Cicurug, KP Manoko, dan lahan petani di Cijeruk, baik
+yang bergejala mosaik maupun tidak. Dari setiap lokasi
+diambil 30 sampel daun nilam muda, 5 di antaranya dari
+tanaman sehat dan sisanya dari tanaman bergejala mosaik.
+Pengambilan sampel daun dilakukan secara acak, baik pada
+tanaman yang sehat maupun yang sakit. Sampel daun
+dibungkus pelepah batang pisang kemudian dimasukkan ke
+dalam plastik untuk menjaga kesegarannya hingga tiba di
+laboratorium. Di laboratorium, daun ditimbang sebanyak
+0,1 g untuk setiap sampel, dimasukkan ke plastik tebal
+kemudian disimpan di suhu -800C sampai digunakan untuk
+deteksi serologi dan molekuler. Di lapang, dilakukan
+dokumentasi gejala untuk keperluan deskripsi gejala
+mosaik, yaitu lemah sampai parah, dan gejala penebalan
+daun ataupun daun mengecil, seperti diuraikan oleh
+NOVERIZA et al. (2012a).
+Deteksi Serologi
+Berdasarkan penelitian di dalam dan luar negeri,
+deteksi virus–virus yang ditemukan pada tanaman nilam,
+yaitu Potyvirus, BBWV2, Potexvirus, dan CMV,
+menggunakan antiserum universal Potyvirus, antiserum
+spesifik BBWV2 dan Cymbidium mosaic virus/CymMV
+(DSMZ), serta antiserum spesifik CMV (Agdia). Antiserum
+general Potexvirus tidak tersedia, maka deteksi awal
+Potexvirus dilakukan secara molekuler. Setelah diketahui
+jenis virus yang menginfeksi adalah CymMV maka deteksi
+secara serologi dilakukan menggunakan antiserum
+CymMV.
+Sampel daun nilam yang didapatkan dari setiap lokasi
+sebanyak 30 sampel dibuat menjadi 6 sampel komposit dan
+setiap komposit terdiri atas 5 sampel. Penggunaan sampel
+komposit bertujuan untuk meminimalkan sampel yang
+dideteksi dan penggunaan bahan-bahan ELISA, khususnya
+antiserum. Selanjutnya, apabila sampel komposit
+menunjukkan hasil positif maka uji serologi dilanjutkan
+terhadap setiap individu sampel dari sampel komposit
+positif tersebut.
+Prosedur direct-ELISA BBWV2 dan CymMV dan
+metode indirect-ELISA Potyvirus mengacu pada protokol
+yang dibuat oleh produsen antiserum DSMZ (Jerman),
+sedangkan indirect-ELISA CMV dilakukan sesuai protokol
+yang dibuat oleh Agdia (USA). Prosedur direct-ELISA
+tersebut mengikuti cara CLARK dan ADAMS (1977),
+sedangkan prosedur indirect-ELISA mengikuti cara KOENIG
+(1981).
+
+131
+
+JURNAL LITTRI VOL. 19 NO. 3, SEPTEMBER 2013 : 130 - 138
+
+Akumulasi virus secara kuantitatif dibaca dengan
+pada panjang gelombang 405 nm. Hasil
+pembacaan dinilai positif apabila nilai absorbannya 1,5-2
+kali lebih besar daripada nilai absorban sampel dari
+tanaman sehat (MATTHEWS, 1993, dalam DAMAYANTI,
+2004).
+
+ELISA READER
+
+µl reaksi campuran yang terdiri dari H2O bebas nuklease
+(3,2 µl), bufer RT 10x (1 µl), DTT 50 mM (0,35 µl), dNTP
+10 mM (2 µl), M MuLV Rew (Fermentas) (0,35 µl), RNase
+I (0,35 µl), Oligo d(T) 10 mM (0,75 µl), dan RNA template
+(2 µl) selama 1 jam pada suhu 42oC.
+Amplifikasi DNA dengan PCR
+
+Deteksi Molekuler
+Deteksi molekuler dilakukan terhadap BBWV2 dan
+CymMV. Deteksi dan identifikasi secara molekuler
+mengikuti prosedur NAIDU dan HUGHES (2003).
+Ekstraksi RNA
+Ekstraksi RNA total dilakukan dengan menggunakan
+Xprep Plant RNA mini kit dengan prosedur sesuai anjuran
+PKT-Philekorea Technology.
+
+Sepasang primer degenerate untuk BBWV1 dan
+BBWV2 (Tabel 1) digunakan dalam deteksi awal BBWV2
+pada nilam. Dengan primer ini, ukuran produk yang
+didapatkan sebesar 323 bp, yang merupakan bagian dari Cterminal Large Coat Protein (LCP) sampai N-terminal
+Short Coat Protein (SCP) (KONDO et al., 2005). Untuk
+mendeteksi Potexvirus pada nilam digunakan sepasang
+primer universal Potexvirus, yang mengamplifikasi bagian
+RNA dependent RNA polymerase (RdRp/replikase)
+(MIGLINO et al., 2011) seperti pada Tabel 1.
+
+Konstruksi cDNA (complementary DNA)
+Reverse transcription-PCR (RT-PCR) dilakukan
+untuk membuat cDNA dengan menggunakan enzim reverse
+transcriptase. Adapun reaksi RT-PCR dilakukan dalam 10
+Tabel 1. Primer-primer yang digunakan untuk deteksi virus-virus penyebab gejala mosaik pada tanaman nilam
+Table 1. Primers used for detection virus(es) causes mosaic symptoms on patchouli plant
+No.
+No.
+1
+2
+
+Pasangan Primer
+Primer Base
+BBWVVSSP
+BBWVKMRM
+Potex4
+Potex5
+
+Urutan Basa
+Base sequence
+5’-GTBTCDAGTGCTYTD GAAGG-3’
+5’-TDGWDCCATCVAG ICKCATTTT-3’
+5’-AGCATGGCGCCATCTTGTGACTG-3’
+5’-CTGAAGTCACAATGGGTGAAGAA-3’
+
+Ukuran DNA
+Size DNA
+323 pb
+280 pb
+
+Referensi
+Reference
+KONDO et al.,
+2005
+MIGLINO et al.,
+2011
+
+Tabel 2. Program PCR setiap primer yang digunakan untuk kegiatan PCR
+Table 2. PCR programe for each primer used for PCR
+No.
+No.
+1
+2
+
+Pasangan Primer
+Primer Base
+BBWVVSSP
+BBWVKMRM
+Potex4
+Potex5
+
+Program PCR
+PCR Programme
+95oC (5 menit); 35 siklus terdiri dari 95oC (1 menit), 51oC (1 menit),
+dan 72oC (1 menit); diakhiri 72oC (5 menit)
+94oC (2 menit); 35 siklus terdiri dari 94oC (30 detik), 55oC (1 menit),
+dan 72oC (1 menit); diakhiri 72oC (5 menit)
+
+cDNA yang dihasilkan dari hasil RT-PCR
+diamplifikasi dalam reaksi campuran dengan total volume
+25 µl yang terdiri dari H20 (9,5 µl), PCR mix 2x (Go Green
+Taq Master Mix, Promega) (12,5 µl), primer forward 10
+mM (1 µl), primer reverse 10 mM (1 µl), dan cDNA (1 µl).
+Program PCR diatur sesuai dengan primer yang digunakan
+(Tabel 2). Kontrol positif primer Potex 4 dan Potex 5
+digunakan CymMV dari anggrek.
+Visualisasi DNA
+Sampel DNA hasil amplifikasi PCR dimasukkan ke
+dalam sumuran gel agarose 1,5 % + ethidium bromida (0,5
+132
+
+Referensi
+Reference
+KONDO et al.,
+2005
+MIGLINO et al.,
+2011
+
+µl/10 ml 0,5x TBE) kemudian dielektroforesis pada 50 Volt
+selama 50 menit. Hasil visualisasi dilihat di bawah
+transilluminator ultraviolet dan didokumentasi dengan
+kamera digital.
+Perunutan Susunan Nukleotida
+Perunutan susunan nukleotida menggunakan mesin
+sequencer ABI-Prism 3100-Avant Genetic Analyzer di
+laboratorium Pusat Penelitian dan Pengembangan PT.
+Genetika Science, Indonesia. Hasil sekuen dianalisis
+menggunakan software BLAST (www.ncbi.nml.niv.gov)
+(ALTSCHUL et al., 1990).
+
+MIFTAKHUROHMAH et al. : Deteksi secara serologi dan molekuler beberapa jenis virus
+
+banyak mengandung virus. Akibatnya, sel-sel daun
+memendek (NURHAYATI, komunikasi pribadi).
+Gejala awal mosaik lemah sulit dibedakan karena
+perubahan warna yang terjadi hanya terlihat samar-samar
+sehingga perlu pengamatan secara seksama. Gejala mosaik
+lemah diduga merupakan awal infeksi virus. Gejala infeksi
+PatMoV (Potyvirus) pada pertanaman nilam di Jepang
+menyebabkan gejala belang lemah, sedangkan infeksi
+PatMMV menyebabkan gejala mosaik lemah. Gejala yang
+lebih parah pada tanaman nilam akan terjadi apabila
+tanaman terinfeksi ganda beragam jenis virus seperti
+PatMoV dan PatMMV (NATSUAKI et al., 1994). Infeksi
+PStV (Potyvirus) pada pertanaman nilam di India
+menyebabkan gejala mosaik yang khas pada daun nilam
+(SINGH et al., 2009).
+Penelitian sebelumnya menunjukkan bahwa gejala
+mosaik pada tanaman nilam di Bogor, Cianjur, Sukabumi,
+dan Garut (Jawa Barat), Pakpak Barat (Sumatera Utara),
+dan Pasaman Barat (Sumatera Barat) disebabkan oleh
+Potyvirus secara tunggal, sedangkan gejala mosaik yang
+ditemukan di Brebes (Jawa Tengah) disebabkan oleh infeksi
+tunggal BBWV2 (NOVERIZA et al., 2012a). Hasil penelitian
+ini menunjukkan bahwa gejala mosaik bisa disebabkan oleh
+dua macam virus. Dengan demikian, deteksi virus tidak
+bisa dilakukan hanya berdasarkan gejala saja, tetapi harus
+dilanjutkan dengan deteksi lebih lanjut, baik dengan teknik
+serologi maupun molekuler.
+
+HASIL DAN PEMBAHASAN
+Gejala Infeksi Virus pada Nilam
+Infeksi virus pada pertanaman nilam di KP. Cicurug,
+KP. Manoko, dan lahan petani di Cijeruk menunjukkan
+beberapa variasi gejala mosaik, yaitu tidak bergejala,
+mosaik lemah, bintik kuning, mosaik hijau muda hijau tua,
+penebalan pada warna hijau tua yang menyebabkan daun
+terlihat bergelombang, mosaik dengan perubahan bentuk
+pada daun (malformasi), serta mosaik hijau tua dan kuning
+(Gambar 1). Beragam gejala mosaik tersebut ditemukan di
+semua lokasi pengambilan sampel, sedangkan gejala bintik
+kuning ditemukan pada tanaman nilam di KP. Cicurug.
+Berdasarkan pengamatan secara sekilas di lapang,
+keparahan penyakit mosaik berkisar 70-90%.
+Gejala mosaik dapat didefinisikan sebagai terjadinya
+perubahan warna yang tidak merata pada daun. Perubahan
+warna terjadi karena serangan virus tidak merata ke seluruh
+sel-sel daun. Infeksi virus menyebabkan klorofil daun rusak
+sehingga warna daun berubah menjadi kuning atau hijau
+muda. Pada infeksi parah, gejala mosaik sering disertai
+dengan terjadinya perubahan bentuk dan permukaan daun,
+seperti daun mengecil dan bergelombang. Daun menjadi
+bergelombang karena bagian daun yang berwarna hijau
+muda atau kuning menipis dibandingkan yang berwarna
+hijau (yang normal). Pada bagian yang menipis inilah lebih
+
+a
+
+b
+
+c
+
+bb
+
+d
+dd
+
+cc
+
+f
+
+e
+ff
+
+h
+
+g
+gg
+
+h
+h
+
+Gambar 5. Gejala infeksi virus di lapangan. a. tidak bergejala; b dan c. mosaik lemah; d-g. variasi gejala mosaik; h. bintik
+kuning
+Figure 5. Symptoms of viral infection on the leaves of patchouli. a. asymtomatic; b and c. weak mosaic; d-g. variations of
+mosaic symptom; h. yellow spots
+Berdasarkan hasil deteksi secara serologi, gejala
+mosaik dapat disebabkan oleh infeksi 2-4 virus. Oleh
+karena itu, identifikasi jenis virus tidak bisa dilakukan
+berdasarkan deskripsi gejala saja.
+
+Untuk mendapatkan gejala yang khas dari setiap
+infeksi virus, maka perlu dilakukan pemurnian virus pada
+tanaman indikator virus kemudian dilakukan inokulasi ke
+tanaman nilam yang sehat dan diamati karakteristik
+
+133
+
+JURNAL LITTRI VOL. 19 NO. 3, SEPTEMBER 2013 : 130 - 138
+
+gejalanya. Dalam penelitian ini tidak dilakukan pengamatan
+gejala infeksi virus secara individu, namun hanya dilakukan
+pengamatan tanaman bergejala mosaik dan deteksi virus
+yang berasosiasi dengan gejala yang ditemukan di lapang.
+Kejadian Penyakit Virus pada Pertanaman Nilam
+Potyvirus lebih dominan pada tanaman nilam di KP.
+Manoko dan Cicurug, BBWV2 di Cijeruk dan KP Manoko,
+serta CMV di KP Cicurug. CymMV hanya ditemukan di
+Manoko dan di Cicurug dengan tingkat kejadian rendah,
+yaitu 3,33% (Tabel 3). Hasil ini menunjukkan bahwa
+penyebaran virus telah merata pada ketiga lokasi sumber
+benih nilam dengan kejadian yang tinggi. Hal ini diduga
+disebabkan oleh kondisi lingkungan yang mendukung
+(suhu, kelembaban, dan vektor) serta virus yang lebih
+virulen. Hasil serupa dilaporkan pada nilam varietas
+Lhokseumawe dan Tapak Tuan di kebun Unit Pelayanan
+Benih Sebar (UPBS) Balai Penelitian Tanaman Rempah
+dan Obat (Balittro) yang terdeteksi Potyvirus secara
+serologi (NOVERIZA et al. 2012b). Hasil ini menunjukkan
+bahwa varietas-varietas tanaman nilam yang dimiliki oleh
+Balittro rentan terhadap infeksi virus. Selain ketahanan
+tanaman, infeksi virus di lapangan juga dipengaruhi oleh
+penyebaran virus. Keberadaan vektor di lapang paling
+
+berperan dalam penyebaran virus karena selain membawa
+virus ke tanaman, juga menularkan virus dari tanaman sakit
+ke tanaman sehat (AGRIOS, 2005). Aphis gossypii sebagai
+salah satu hama pada tanaman nilam, berperan sebagai
+vektor Potyvirus, CMV, dan BBWV. Keberadaan vektor
+yang membawa tiga virus ini diduga merupakan penyebab
+meluasnya infeksi beberapa virus pada tanaman nilam.
+Berdasarkan deteksi secara serologi, terlihat bahwa
+infeksi virus pada pertanaman nilam di ketiga lokasi
+mencapai 100%, lebih tinggi dari pengamatan berdasarkan
+gejala (70-90%). Hal ini terjadi karena pada tanaman yang
+tidak bergejala, juga terdeteksi terinfeksi oleh Potyvirus,
+CMV, BBWV2, dan CymMV, baik secara tunggal maupun
+campuran. Infeksi tanpa gejala pada tanaman nilam juga
+ditemukan di Brazil yang disebabkan oleh PatVX
+(Potexvirus) (FILHO et al., 2002). Selain itu, PatMMV dan
+PatMoV terdeteksi juga pada tanaman nilam di Jepang yang
+tidak bergejala (NATSUAKI et al., 1994).
+Deteksi Potexvirus secara serologi telah dilakukan
+terhadap sampel nilam dari Cianjur dan Bogor, namun tidak
+ada sampel yang bereaksi positif (SUKAMTO et al., 2007).
+Ditemukannya CymMV di KP. Manoko dan Cicurug
+merupakan laporan pertama infeksi CymMV pada tanaman
+nilam.
+
+Tabel 3. Kejadian Potyvirus, BBWV2, CymMV, dan CMV berdasarkan deteksi serologi pada pertanaman nilam di KP.
+Manoko, Cicurug, dan Cijeruk.
+Table 3. Disease insidence of Potyvirus, BBWV2, CymMV, and CMV based on serological test in patchouli cultivation in
+Manoko, Cicurug and Cijeruk research garden
+Lokasi
+Location
+Manoko
+Cicurug
+Cijeruk
+
+Potyvirus
+100
+83,33
+50,00
+
+Kejadian/30 sample (%)
+Insidence/30 of sample (%)
+BBWV2
+CymMV
+100
+3,33
+73,33
+3,33
+90,00
+0
+
+Deteksi Broad bean wilt virus 2 (BBWV2) dan
+Cymbidium mosaic virus (CymMV) secara Molekuler
+Broad bean wilt virus 2/BBWV2
+Hasil deteksi secara RT-PCR dengan primer
+menunjukkan bahwa DNA BBWV2 berhasil diamplifikasi
+dan berukuran 323 pb (Gambar 2). Hasil BLAST terhadap
+sekuen nukleotida BBWV2 isolat asal Cicurug
+menunjukkan memiliki kemiripan sebesar 90% dengan
+isolat BBWV2 asal Singapura, dengan kode aksesi
+AF225954 (Tabel 4). Hasil ini menunjukkan bahwa isolat
+yang ditemukan adalah BBWV2.
+BBWV1 dan BBWV2 merupakan tipe Fabavirus
+(MURPHY et al., 1995 dalam YI-JUN et al., 2000) yang
+memiliki kisaran inang luas, seperti basil (Ocimum
+basilicum) (SANTZ et al., 2001), gentian (Gentiana scabra)
+(KOBAYASHI et al., 2005), Micania micrantha (WANG et
+
+134
+
+CMV
+0
+80,00
+13,33
+
+al., 2008), gadung Cina (Dioscorea opposita Thunb.), dan
+cabai (Capsicum annum) (LEE et al., 2000). Broad bean wilt
+I ditularkan secara efektif oleh Myzus persicae dan A.
+gossypii (BELLIURE et al., 2009).
+Anggota Fabavirus yang menyebabkan gejala mosaik
+pada tanaman nilam di Jepang adalah PatMMV. Virus ini
+memiliki kemiripan dengan BBWV, baik secara morfologi
+partikel, berat molekul CP, dan serologi. Namun demikian,
+PatMMV mempunyai kisaran inang yang berbeda sehingga
+PatMMV dikategorikan sebagai spesies baru anggota
+Fabavirus (NATSUAKI et al., 1994). Fabavirus yang
+menginfeksi pertanaman nilam di Indonesia berdasarkan
+analisa BLAST merupakan BBWV2, bukan PatMMV.
+PatMMV akhir-akhir ini diklasifikasikan sebagai salah satu
+strain BBWV2 karena perbedaan gen CP-nya hanya
+berkisar antara 3-21% dengan BBWV2 (FAUQUET et al.,
+2005).
+
+MIFTAKHUROHMAH et al. : Deteksi secara serologi dan molekuler beberapa jenis virus
+
+M
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 11
+
+323 pb
+
+Gambar 2. Hasil visualisasi RT-PCR dengan primer BBWVVSSP dan BBWVKMRM pada gel agarose 1,5 %: M. Marker
+100 pb; 1. kontrol negatif; 2-3. isolat dari Manoko, positif; 4. isolat Manoko, negatif; 5-7. isolat dari Cicurug
+positif; 8-11. isolat dari Cijeruk positif
+Figure 2. Visualization result of PCR with primers BBWVSSP and BBWVKMRM on 1.5 % agarose gel: M. Marker 100 bp
+(base pairs); 1. negative control; 2-3. Manoko isolates, positive; 4. Manoko isolates, negative; 5-7. Cicurug
+isolates, positive; 8-11. Cijeruk isolates, positive
+Tabel 4. Hasil BLAST sekuen nukleotida isolat BBWV2 asal KP Cicurug
+Table 4. The BLAST nucleotide sequence from BBWV2 Cicurug isolates
+No
+No
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Asal Isolat BBWV2
+BBWV2 origin
+isolate
+Singapura
+Jepang
+Korea Selatan
+Cina
+Korea Selatan
+Taiwan
+Jepang
+Jepang
+Cina
+Cina
+
+Inang
+Host
+Megakepasma erythroclamys
+Cabai
+Cabai
+Lada
+Kacang babi
+Salvia dorisiana
+Chinese yam
+Gentiana triflora
+Bupleurum chinense
+Tomat
+
+Cymbidium mosaic virus/CymMV
+Hasil RT-PCR dengan primer universal Potexvirus
+menunjukkan bahwa Potexvirus ditemukan pada sampel
+nilam dari Manoko dengan tingkat kemiripan 95-98%
+dengan isolat CymMV asal anggrek dan vanili (Gambar 3
+dan Tabel 5). CymMV merupakan virus penting pada
+tanaman anggrek di beberapa negara. Selain tanaman
+anggrek, CymMV juga dilaporkan menginfeksi tanaman
+panili (GRISONI et al., 2004). Di Indonesia, CymMV
+
+Homologi
+Homology
+(%)
+90
+88
+88
+86
+85
+78
+78
+79
+79
+77
+
+Aksesi
+Accession
+AF225954
+AB018698
+JX183234
+HQ283390
+AB161178
+EF392660
+AB207244
+AB746939
+FJ485685
+JQ855708
+
+dilaporkan menginfeksi tanaman anggrek Cymbidium,
+Phalaenopsis, Dendrobium, dan Oncydium, menyebabkan
+gejala mosaik dan nekrotik pada daun (LAKANI et al.,
+2011). Namun demikian, infeksi CymMV pada tanaman
+nilam belum pernah dilaporkan. Dengan demikian, dengan
+ditemukannya CymMV di Manoko dan Cicurug,
+merupakan laporan pertama infeksi CymMV pada tanaman
+nilam.
+
+135
+
+JURNAL LITTRI VOL. 19 NO. 3, SEPTEMBER 2013 : 130 - 138
+
+M
+
+1
+
+2
+
+3
+
+280 pb
+
+Gambar 3. Hasil visualisasi PCR dengan primer general Potexvirus pada gel agarose 1,5%. M. marker 100 pb; 1. kontrol
+negatif; 2. kontrol positif, CymMV asal Anggrek; 3. isolat Manoko; 6. isolat Cicurug; 7. isolat Cijeruk
+Figure 3. The visualization result of PCR with general primers of Potexvirus on 1.5% agarose gel. M. 100 bp marker; 1.
+negative control; 2. Positive control, CymMV on orchid; 3. Manoko isolates, positive; 6. Cicurug isolate; 7.
+Cijeruk isolate
+Tabel 5. Hasil BLAST sekuen nukleotida isolat CymMV asal KP Manoko
+Table 5. The BLAST result of nucleotide sequence from CymMV Manoko isolates
+No
+No
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Asal Isolat CymMV
+CymMV
+isolate origin
+Hawai
+Cina
+India
+Meksiko
+Jepang
+Taiwan
+Perancis
+Cina
+Singapura
+
+Inang
+Host
+
+Homologi (%)
+Homology (%)
+
+Aksesi
+Accession
+
+Dendrobium
+Phalaenopsis
+Phaius tancarvilleae
+Encyclia sp.
+Cymbidium
+Phalaenopsis
+Vanili
+Vanili
+Cattleya
+
+98
+97
+96
+96
+96
+95
+95
+95
+95
+
+EF125180
+JQ860108
+AJ849639
+HQ393960
+AB197937
+EU314803
+AM236040
+HQ681906
+U62963
+
+KESIMPULAN DAN SARAN
+Gejala mosaik pada tanaman nilam di tiga kebun
+benih (KP Manoko, KP Cicurug, dan kebun Cijeruk)
+bervariasi, yaitu mosaik lemah, bintik kuning, mosaik hijau
+muda hijau tua, mosaik kuning bergelombang, mosaik
+dengan perubahan bentuk pada daun (malformasi), dan
+mosaik hijau tua kuning. Berdasarkan deteksi serologi,
+gejala mosaik diakibatkan oleh infeksi tunggal maupun
+campuran beberapa jenis virus seperti Potyvirus, BBWV2,
+CymMV, dan CMV. Konfirmasi hasil deteksi serologi
+secara molekuler menggunakan primer degenerate BBWV
+dan primer universal Potexvirus positif BBWV2 dan
+CymMV. Hasil analisis BLAST menunjukkan bahwa isolat
+Potexvirus asal KP. Manoko yang ditemukan memiliki
+kemiripan sebesar 98% dengan isolat CymMV dari
+
+136
+
+beberapa negara, sedangkan BBWV2 asal KP. Cicurug
+memiliki kemiripan sebesar 90% dengan BBWV2 asal
+Singapura. Kegiatan penelitian ini perlu dilanjutkan dengan
+penelitian ekobiologi setiap virus dan identifikasi secara
+molekuler virus-virus baru yang ditemukan.
+
+UCAPAN TERIMA KASIH
+Ucapan terima kasih disampaikan kepada Badan
+Litbang Pertanian yang telah memberikan kesempatan
+untuk melakukan studi Pascasarjana di IPB dan biaya yang
+diberikan untuk penelitian ini.
+
+MIFTAKHUROHMAH et al. : Deteksi secara serologi dan molekuler beberapa jenis virus
+
+DAFTAR PUSTAKA
+AGRIOS N. 2005. Plant Pathology. Fifth Edition. New York
+
+(US) : Elsevier Academic Press. hlm 743.
+ALTSCHUL, S.F., W. GISH, W. MILLER, E.W. MYERS, D.J. LIPMAN.
+
+1990. Basic local alignment search tool. J. Mol.
+Biol. 215 : 403-410.
+BARANI, A.M. 2008. Strategi pengembangan nilam di
+Indonesia.
+Prosiding
+Seminar
+Nasional
+Pengendalian Terpadu Organisme Pengganggu
+Tanaman Jahe dan Nilam. Balai Penelitian
+Tanaman Obat dan Aromatik. hlm 7-14.
+BELLIURE, B., M.G. ZAMBRANO, I. FERRIOL, M. LA SPINA, L.
+ALCACER, D.E. DEBRECZENI, and L. RUBIO. 2009.
+
+Comparative transmission efficiency of two
+Broad bean wilt virus 1 isolates by Myzus
+persicae
+and
+Aphis
+gossypii.
+Short
+Communication. Journal of Plant Pathology.
+91(2): 475-478.
+CLARK, M.F. and A.N. ADAMS. 1977. Characteristics of the
+microplate method of enzyme-linked immunosorbent assay for the detection of plant viruses.
+Journal of General Virology. 34: 475-483.
+DAMAYANTI. 2004. Pencirian Gen Protein Selubung
+Zucchini Yellow Mosaic Potyvirus pada Tanaman
+Kaboca (Cucurbita maxima Duch.) dengan
+Analisis Restriksi. Departemen Hama dan
+Penyakit Tumbuhan. Fakultas Pertanian. IPB.
+Hlm. 20.
+DIREKTORAT JENDERAL PERKEBUNAN. 2012. Statistik
+Perkebunan Indonesia. Tree Crop Estate
+Statistics of Indonesia. 2010-2012. Tanaman
+Semusim (Seasonal Crop): Akar Wangi
+(Vetiver), Jarak Kepyar (Castor Bean), Nilam
+(Patchouli), Tanaman Penghasil Serat (Producing
+Fiber Crop), Sereh Wangi (Citronella). Jakarta
+(ID): Direktorat Jenderal Perkebunan. hlm 35-54.
+FAUQUET, C.M., M.A. MAYO, J. MANILOFF, U. DESSELBERGER,
+and L.A. BALL. 2005. Virus Taxonomy:
+Classification and Nomenclature of Viruses. New
+York (US): Elsevier Academic Press. hlm 8121095.
+FILHO, P.E.M., R.O. RESENDE, M.I. LIMA, and E.W. KITAJIWA.
+2002. Patchouli virus X, a new Potexvirus from
+Pogostemon cablin. Annals of Applied. Biology.
+141: 267-274.
+GRISONI, M., F. DAVIDSON, C. HYDRONDELLE, K. FARREYROL,
+M.L. CARUANA, and M. PERASON. 2004. Nature,
+
+insidence, and symptomatology of viruses
+infecting Vanilla tahitensis in French Polysenia.
+Plant Disease. 88: 119-124.
+KOBAYASHI, Y.O., A. KOBAYASHI, K. HAGIWARA, H. UGA, Y.
+MIKOSHIBA, T. NAITO, Y. HONDA, and T. OMURA.
+
+2005. Gentian mosaic virus: a new spesies in the
+genus Fabavirus. Phytopathology. 95: 192-197.
+KOENIG, R. 1981. Indirect ELISA methods for the broad
+specificity detection of plant viruses. J. Gen.
+Virol. 55: 53-62. http://vir.sgmjournals.org/cgi/
+
+content/abstract /55/1/53. [diunduh Tgl 22 April
+2011].
+KONDO, T., S. FUJI, K. YAMASHITA, D.K. KANG, dan M.U.
+CHANG. 2005. Broad bean wilt virus 2 in Yams.
+Journal of General Plant Pathology. 71: 441-443.
+LAKANI, I., G. SUASTIKA, T.A. DAMAYANTI, and N. MATTJIK.
+2011. Molecular characterization of Cymbidium
+mosaic virus (CymMV) infecting orchid in Java,
+Indonesia. An Abstract. Journal of International
+Society for Southeast Asian Agricultural
+Sciences. 17(1): 227-273.
+LEE, U., J.S. HONG, J.K. CHOI, K.C. KIM, Y.S. KIM, I.S. CURTIS, H.G.
+NAM, and P.O. LIM. 2000. Broad bean wilt virus
+
+causes necrotic symptoms and generates
+defective RNAs in Capsicum annuum.
+Phythopatology. 90: 1390-1395.
+MAKKOUK, K. and S. KUMARI. 2006. Molecular diagnosis of
+plant viruses. Arab Journal of Plant Protection.
+24: 135-138.
+MIGLINO, R., K.L. DRUFFEL, A.R. VAN SCHADEWIJK, and H.R.
+PAPPU. 2011. Molecular characterization of
+Allium Virus X, a new potexvirus in the family
+Alphaflexiviridae infecting ornamental allium.
+Archives Virology. 156: 2113-2115. DOI
+10.1007/s0075-011-1109-6.
+http://link.springer.com/article/10.1007/ s007.
+NAIDU, R.A. and J.D.A. HUGHES. 2003. Methods for the
+detection of plant viral diseases in plant virology
+in sub-Saharan Africa. Proceedings of Plant
+Virology. Nigeria. http://old.iita.org/cms/details/
+virology/pdf_files/233-260.pdf. [diunduh Tgl 16
+Juni 2011]. hlm. 233-260.
+NATSUAKI, K.T., K. TOMARU, S. USHIKU, Y. ICHIKAWA, Y.
+SUGIMURA, T. NATSUAKI, S. OKUDO, and M.
+TERANAKA. 1994. Characterization of two
+
+viruses isolated from patchouli in Japan. Plant
+Disease. 78: 1094-1097.
+NOVERIZA, R., G. SUASTIKA, S.H. HIDAYAT, and U.
+KARTOSUWONDO. 2012a. Potyvirus associated
+with mosaic disease on patchouli (Pogostemon
+cablin Benth) plants in Indonesia. Journal of
+International Society for Southeast Asian
+Agricultural Sciences. 18 (1): 131-146.
+NOVERIZA, R, G. SUASTIKA, S.H. HIDAYAT, dan U.
+KARTOSUWONDO. 2012b. Pengaruh infeksi virus
+mosaik terhadap produksi dan kadar minyak tiga
+varietas nilam. Buletin Penelitian Tanaman
+Rempah dan Obat. 23(1): 93-101.
+SANTZ, N.T., T.H. CHEN, P.Y. LAI. 2001. A newly discovered
+mosaic disease of bush busil (Ocimum basilicum)
+in Taiwan. Plant Pathology Bulletin. 10 : 155164.
+SINGH, M.K., V. CHANDEL, V. HALLAN, R. RAM, and A.A. ZAIDI.
+2009. Occurrence of Peanut stripe virus on
+patchouli and raising of virus-free patchouli
+plants by meristem tip culture. Journal of Plant
+Disease and Protection. 116(1): 2-6.
+
+137
+
+JURNAL LITTRI VOL. 19 NO. 3, SEPTEMBER 2013 : 130 - 138
+
+SUGIMURA, Y., B.F. PADAYHAG, M.S. CENIZA, N. KAMATA, S.
+EGUCHI, T. NATSUAKI, and S. OUDA. 1995.
+
+Essential oil production increased by using virusfree patchouli plants derived from meristem-tip
+culture. Plant Pathology. 44: 510-515.
+SUKAMTO, I.B. RAHARDJO, and Y. SULYO. 2007. Detection of
+Potyvirus on patchouli plant (Pogostemon cablin
+BENTH) from Indonesia. Proceeding of
+International Seminar on Essential Oil. Jakarta.
+hlm. 72–77.
+SUMARDIYONO, Y.B., S. SULANDARI, dan S. HARTONO. 1996.
+Penyakit
+mosaik
+kuning
+pada
+nilam
+(Pogostemon cablin). Risalah Kongres Nasional
+XII dan Seminar Ilmiah. Perhimpunan
+
+138
+
+Fitopatologi
+Indonesia.
+Yogyakarta,
+6-8
+September 1993. hlm 912-916.
+WANG, R.L., L.W. DING, Q.Y. SUN, J. LI, Z.F. XU, and S.L. PENG.
+2008. Genome sequence and characterization of
+a new virus infecting Micania micrantha H.B.K.
+Archives Virology. 153: 1765-1770.
+YI-JUN, Q., Z. XUE-PING, T. XIAO-RONG, and L. DE-BAO. 2000.
+Characterization and RNA2 nucleotide sequence
+of Broad bean wilt virus 2 isolates P158. Journal
+of Zhejiang University (Science). 1(4): 437-441.
+
+

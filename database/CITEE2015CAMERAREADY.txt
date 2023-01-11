@@ -1,0 +1,911 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/281497363
+
+PERKEMBANGAN DAN MASA DEPAN TELEMEDIKA DI INDONESIA
+Conference Paper · September 2015
+
+CITATIONS
+
+READS
+
+2
+
+18,363
+
+4 authors, including:
+Budi Setiawan Santoso
+Universitas Gunadarma
+7 PUBLICATIONS 25 CITATIONS
+SEE PROFILE
+
+All content following this page was uploaded by Budi Setiawan Santoso on 06 September 2015.
+The user has requested enhancement of the downloaded file.
+
+PERKEMBANGAN DAN MASA DEPAN TELEMEDIKA DI
+INDONESIA
+Budi Setiawan Santoso1, Medina Rahmah2, Trisnanti Setiasari3, Puji Sularsih4
+Jurusan Sistem Informasi, Fakultas Ilmu Komputer dan Teknologi Informasi - Universitas Gunadarma
+Jalan Margonda Raya No. 100 Pondok Cina, Depok 16424 Indonesia
+[1budisetiawansantoso, 2mdsmalleyes, 3trisnanti_ina]@student.gunadarma.ac.id, 4puji@staff.gunadarma.ac.id
+Abstract—The rapid development of information technology
+has spread to various sectors including health, one of the
+example is the world of telemedicine. Telemedicine is the use
+of information and communication technology (which
+includes telecommunications, computer, and electronics) in
+the biomedical field to send and or receive a variety of medical
+information from one place to another in order to improve
+clinical care in the diagnosis and treatment of health and
+medical education. Telemedicine, especially for public health
+care, more likely to have an important influence for
+developing countries such as Indonesia when compared to
+developed countries. Telemedicine in Indonesia has grown
+significantly, where the world telemedicine has evolvedsince
+the early 90s century. Telemedicine is growing very rapidly,
+due to the rapid development of the areas that support it, the
+availability of infrastructure and technology, increased
+understanding of the perpetrator to these areas, as well as the
+real need to solve the problem of public health services.
+Various types of applications presented are recording and
+reporting, outbreak management, electronic prescribing,
+tuberculosis patient management, mobile telemedicine system,
+e-psychology, mobile e-health, various types of e-health
+systems with imageprocessing, as well as open-EHR system.
+The method used in this study is to perform a variety of
+literature review on the development of telemedicine
+technology that has been developed in Indonesia. Seeing to
+the impact of existing and development, the use of
+telemedicine in Indonesia continues to experience a variety of
+advances, as well as the need sustained attention to the
+development and implementation of telemedicine in
+Indonesia.
+Keywords-Indonesia; Information; Health; Technology;
+Telemedicine.
+Abstrak—Kemajuan teknologi informasi yang pesat telah
+menyebar ke berbagai sektor termasuk kesehatan, salah
+satunya adalah dunia telemedika. Telemedika adalah
+penggunaan teknologi informasi dan komunikasi (termasuk
+telekomunikasi, komputer, dan elektronika) di bidang
+biomedika untuk mengirim dan menerima berbagai informasi
+kedokteran dari tempat satu ke tempat lainnya guna
+meningkatkan pelayanan klinis dalam mendiagnosa dan
+terapi kesehatan serta pendidikan medis. Telemedika, untuk
+pelayanan kesehatan masyarakat, berpeluang memiliki
+pengaruh yang lebih penting bagi negara berkembang seperti
+Indonesia bila dibandingkan dengan negara maju.
+Telemedika di Indonesia sudah berkembang cukup signifikan,
+dimana telemedika telah berkembang sejak abad 90-an.
+Telemedika berkembang sangat pesat, diakibatkan oleh
+pesatnya perkembangan bidang-bidang yang mendukungnya,
+tersedianya prasarana dan sarana teknologi, meningkatnya
+pemahaman pelaku terhadap bidang-bidang tersebut, serta
+kebutuhan nyata untuk menyelesaikan masalah pelayanan
+kesehatan masyarakat. Berbagai jenis aplikasi yang
+dikemukakan adalah pencatatan & pelaporan, pengelolaan
+wabah, resep elektronik, pengelolaan pasien TBC, sistem
+
+telemedika bergerak, e-psychology, mobile e-health, berbagai
+jenis sistem e-health dengan pengolahan citra, serta sistem
+open-EHR. Metode pada pembahasan ini adalah dengan
+melakukan berbagai kajian pustaka mengenai perkembangan
+teknologi telemedika yang telah dikembangkan di Indonesia
+Melihat perkembangan dan dampak yang ada, penggunaan
+telemedika di Indonesia terus mengalami berbagai kemajuan
+dan perlu memperoleh perhatian yang berkelanjutan untuk
+pengembangan dan penerapannya di Indonesia.
+Kata kunci-Indonesia; Informasi; Kesehatan; Teknologi;
+Telemedika.
+
+I.
+
+PENDAHULUAN
+
+Perkembangan teknologi informasi yang semakin
+meningkat membuat dampak yang cukup besar dalam
+seluruh aspek kehidupan dan membawa manusia saat ini
+masuk ke dalam era globalisasi, dimana pada era ini
+manusia memerlukan informasi yang terbaru dengan
+cepat, praktis, efisien dan akurat serta dapat diandalkan,
+salah satunya adalah pada bidang kesehatan. Kesehatan
+merupakan salah satu kebutuhan dasar setiap manusia.
+Semakin banyak dan beragamnya penyakit yang diderita
+manusia yang berkaitan dengan perubahan gaya hidup
+yang dipengaruhi oleh kemajuan jaman, menyebabkan
+kebutuhan manusia akan pelayanan kesehatan semakin
+meningkat.
+Teknologi informasi dan komunikasi memiliki
+potensi yang besar untuk menghadapi masalah yang
+dimiliki oleh negara berkembang maupun negara yang
+sedang berkembang dengan menyediakan akses cepat,
+cost effective, dan perawatan kesehatan yang berkualitas.
+Salah satu pengembangan teknologi informasi dan
+komunikasi dalam bidang kesehatan, adalah telemedika.
+Telemedika adalah perubahan dan tantangan terbesar
+yang akan mempengaruhi penyediaan layanan kesehatan
+secara mendalam pada abad ke 21 ini. Hal ini adalah
+sebuah kegiatan multidisiplin ilmu yang membutuhkan
+keahlian dari bidang telekomunikasi, perawatan
+kesehatan dan teknologi informasi [1].
+Teknologi
+telemedika dapat membantu penderita penyakit serta
+lembaga kesehatan untuk saling berbagi informasi
+dengan mudah dan cepat. Dewasa ini kemajuan dunia
+Information and Communication Technology (ICT) yang
+berbasis komputer telah berkembang dan menjadi bagian
+yang tidak terpisahkan dari dunia kesehatan [2].
+Penggunaan teknologi pada dunia kesehatan seperti
+sistem pelaporan
+dan
+dokumentasi,
+registrasi,
+pembayaran, sistem pelayanan kesehatan langsung
+seperti monitoring pasien dan pemberian obat, menjadi
+
+lebih mudah, cepat dan akurat dengan adanya
+perkembangan teknologi yang ada.
+Selama ini baik di puskesmas (pusat kesehatan
+masyarakat) maupun rumah sakit di Indonesia pada
+khususnya, pelayanan rekam medisnya masih dilakukan
+secara manual yaitu berbasis kertas (paper based
+document) [3]. Hal tersebut secara tidak langsung akan
+membebani kinerja tim medis yang seharusnya hanya
+memeriksa dan merawat pasien, namun mereka juga
+harus campur tangan masalah manajemen data rekam
+medis. Hal tersebut menyebabkan tim medis tidak dapat
+menjalankan tugasnya dengan baik dan pada akhirnya
+sering muncul kasus atas keluhan pasien mengenai
+buruknya pelayanan suatu pusat kesehatan masyarakat.
+Telemedika di Indonesia sudah berkembang cukup
+signifikan belakangan ini. Penggunakan telemedika di
+Indonesia telah dimulai sejak tahun 90an. Pada era
+tersebut, perkembangan dunia telemedika masih
+menggunakan teknologi telepon standar. Di era sekarang
+telemedika sudah berkembang lebih pesat. Penggunaan
+ICT dalam dunia telemedika tidak terbatas pada saat
+pasien di rawat di ruangan. Makin berkembangnya dunia
+telemedika dan makin banyaknya pemilik ICT dan alat
+pendukungnya, makin luasnya area jangkauan ICT dalam
+dunia telemedika merupakan suatu tantangan dan
+sekaligus peluang dalam mendukung upaya pelayanan
+kesehatan bagi pasien.
+Kemajuan teknologi telemedika ini telah banyak
+berkembang dan sangat membantu kemajuan kesehatan
+masyarakat secara luas, oleh karena itu masih banyak
+terdapat tantangan dan dibutuhkan lebih banyak inovasiinovasi kedepan dalam memajukan teknologi telemedika
+di Indonesia. Mengingat akan hal ini, maka dibutuhkan
+dukungan sepenuhnya dari berbagai kalangan, baik
+pemerintah, instansi kesehatan maupun dari berbagai
+pihak, sehingga pengembangan dan penerapan dunia
+telemedika di Indonesia dapat terus semakin maju.
+II.
+
+(audio-video interaktif dua arah, komputer, dan telemetri)
+dengan melibatkan dokter, pasien dan pihak-pihak lain
+[5].
+Menurut Fong [6], istilah telemedika berasal dari
+deskripsi sederhana yaitu kata 'tele' yang berarti jarak
+atau jauh dari bahasa Yunani, sehingga telemedika adalah
+memberikan pelayanan kesehatan dari jarak jauh.
+A. Tipe-Tipe Telemedika
+Benang merah dari semua aplikasi telemedika adalah
+seorang klien dari beberapa jenis (seperti pasien atau para
+pekerja kesehatan) memperoleh pendapat dari seseorang
+yang memiliki keahlian lebih di dalam bidang nya yang
+relevan, ketika pihak-pihak tersebut dipisahkan dalam
+ruang, dalam waktu maupun keduanya. Telemedika dapat
+diklasifikasikan atas dasar [7] :
+ Interaksi antara klien dan ahli, dan
+ Jenis informasi yang ditranmisikan
+Jenis interaksi biasanya diklasifikasikan sebagi proses
+perekaman yang dilalukan real-time atau tersinkronisasi.
+Pada saat terdahulu, informasi diperoleh dan disimpan
+dalam beberapa format, sebelum dikirim, oleh sarana
+yang tepat, untuk interpretasi seorang ahli pad beberapa
+waktu kemudian. Email adalah metode untuk
+penyimpanan dan pengintegrasian. Secara kontras, dalam
+interaksi realtime, tidak ada penundaan yang cukup
+antara informasi yang dikumpulkan, ditransmisikan dan
+ditampilkan. Komunikasi interaktif antara masing-masing
+individu pada suatu tempat sangat dimungkinkan. Video
+Conference adalah metode yang paling umum dari
+sebuah interaksi realtime.
+
+TERMINOLOGI
+
+Perkembangan teknologi informasi mulai merambah
+dunia kesehatan. Tidak ada definisi mutlak dari
+telemedika, arti sebenarnya adalah penanganan kesehatan
+dari segala jarak. Salah satu definisi telemedika yang
+diungkapkan oleh Soegijoko [4] : “Sebagai salah satu
+bidang dalam ruang - lingkup teknik biomedika,
+telemedika (telemedicine) dapat diartikan sebagai
+penggunaan teknologi informasi dan komunikasi
+(termasuk pula elektronika, tele-komunikasi, komputer,
+informatika) untuk men-transfer (mengirim dan/atau
+menerima) informasi kedokteran, guna meningkatkan
+pelayanan klinis (diagnosa dan terapi) serta pendidikan.”
+Telemedika adalah praktik kesehatan dengan
+memakai komunikasi audio visual dan data. termasuk
+perawatan, diagnosis, konsultasi dan pengobatan serta
+pertukaran data medis dan diskusi ilmiah jarak jauh.
+Telemedika memiliki cakupan yang luas, meliputi
+penyediaan pelayanan kesehatan (termasuk klinis,
+pendidikan dan pelayanan administrasi) jarak jauh,
+melalui transfer informasi (audio, video, grafik), dengan
+menggunakan
+perangkat–perangkat
+telekomunikasi
+
+Gambar 1. Klasifikasi sistem untuk bagian telemedika [7]
+
+Informasi yang ditransmisikan antara dua buah lokasi
+dapat berwujud dalam berbagai bentuk, diantaranya
+adalah data dan teks, audio, gambar dan video.
+Mengkombinasikan tipe interaksi dan tipe dari informasi
+untuk
+ditransmisikan
+menjadikan
+telemedika
+diklasifikasikan seperti gambar 1. Pada beberapa aplikasi,
+seperti teleradiologi, sebuah teknik yang melibatkan
+transmisi dari radiograf digital antara institusi satu
+dengan yang lain, hal ini dimungkinkan untuk sebuah
+interaksi untuk dilakukan dalam perekaman sebelumnya
+maupun secara realtime; persyaratan terakhir dimana
+seorang ahli bersedia untuk memberikan opini nya
+sebagai sebuah gambar yang diambil dan ditransmisikan.
+Menurut relasi diantara para petugas kesehatan satu
+dengan yang lain dan pasien, Nakajima, et. al telah
+mendefinisikan klasifikasi metode untuk dunia
+telemedika. Pengklasifikasian sesuai dari titik awal dari
+
+relasi antara sebuah kegiatan operasi medis dan hukum
+yang berlaku. Pengklasifikasian dibagi menjadi [8] :
+ Dokter dengan dokter (opini kedua) Perawat dengan
+dokter (Telekonsultasi)
+ Pasien dengan dokter (Perawatan pasien secara
+langsung atau observasi medis jarak jauh
+ Pasien dengan perawat (Telehomecare)
+ Pasien dengan apoteker (Telefarmasi)
+
+berkeinginan untuk menerima perawatan kesehatan
+dirumah (untuk rehabilitasi atau layanan untuk penyakit
+parah sebagai contohnya). Dua jalur komunikasi utama
+dibutuhkan untuk implementasi dari perawatan homecare
+tersebut. Satu diantara kedua tersebut adalah jalur
+komunikasi yang mentransmisikan data biologis dari
+sang pasien ke pusat layanan homecare untuk kegiatan
+telehomecare yang disediakan oleh seorang perawat.
+Jalur komunikasi lain digunakan untuk konsultasi oleh
+seorang perawat dengan seorang dokter dalam keadaan
+terjadinya sebuah anomali yang ditemukan pada pasien.
+Dokter menetapkan untuk mengirim sebuah ambulans
+untuk pasien, ahli obat-obatan, atau saran kepada pasien
+untuk mengunjungi rumah sakit, berdasarkan data yang
+ditransmisikan.
+III.
+
+Gambar1. Klasifikasi Telemedika [8]
+
+Istilah dari opini kedua merujuk pada pertanyaan sang
+dokter untuk saran dan konsultasi dengan seorang
+spesialis kesehatan dengan menggunakan jalur
+telekomunikasi seperti telepatologi dan teleradiologi.
+Opini kedua dapat termasuk didalam nya pengertian yang
+lebih luas dari istilah konsultasi. Sementara itu,
+Pelayanan Pasien Secara Langsung (Direct Patient Care
+atau DPC) atau Observasi Medis Jarak Jauh (Remote
+Medical Observation atau RMO) didefinisikan sebagai
+penggunaan jalur telekomunikasi secara langsung untuk
+memeriksa seorang pasien. Aplikasi DPC atau RMO
+diperbolehkan selama memenuhi persyaratan yang ada.
+Sebagai contoh, DPC di Jepang dipertimbangkan sebagai
+layanan penyembuhan medis ketika dua kondisi berikut
+diadakan, yaitu seorang pasien dalam keadaan stabil
+dengan penyakit kronis dilakukan pemeriksaan ulang dan
+pasien berada di pulau terpencil atau di area yang
+terisolasi atau dalam keadaan darurat dan disana tidak
+terdapat alternatif lain. Aturan dasar yang diaplikasikan
+dalam pemeriksaan dan hubungan dokter-pasien adalah
+bahwa dokter mengadakan pemeriksaan pasien dengan
+bertatap muka. Lebih lanjut, DPC melalui penggunaan
+jalur telekomunikasi tersebut dipertimbangkan untuk
+melengkapi pemeriksaan dengan bertatap muka. Sebagai
+tambahan pada klasifikasi yang telah dispesifikan diatas,
+seorang perawat berusaha untuk memeriksa status
+kesehatan dari pasien home-care yang diklasifikasikan
+sebagai telehomecare dan layanan yang berelasi pada
+semua aspek dari resep dan layanan antar obat
+diklasifikasikan sebagai layanan telefarmasi.
+Aturan prinsipal dari teknologi komunikasi yang
+dipekerjakan dalam layanan rumahan adalah untuk
+menyediakan bantuan untuk pasien yang memiliki
+kesulitan untuk mengunjugi rumah sakit (terkait faktor
+ekonomi, kekurangan sarana transportasi, atau alasan
+individu lainnya dan situasi-situasi lain) dan pasien yang
+
+METODOLOGI
+
+Metode yang digunakan dalam penulisan ini adalah
+studi literatur. Literatur yang digunakan merupakan
+jurnal terkait yang telah dipublikasikan oleh lembaga
+jurnal lokal maupun internasional. Tahapan yang
+dilakukan
+adalah
+pengumpulan
+jurnal terkait,
+pengkajian ulang terhadap jurnal, dan pembahasan.
+IV.
+
+PERKEMBANGAN TELEMEDIKA
+
+Penggunaan telemedika menawarkan peluang yang
+sangat besar secara umum, telemedika dapat menjadi
+lebih bermanfaat bagi negara berkembang dimana akses
+pada palayanan dasar mendapat perhatian terutama. Salah
+satu peluang terbesar dibidang telemedika saat ini adalah
+bertambah besarnya akses pada layanan kesehatan.
+Menyediakan akses layanan kesehatan bagi populasi
+negara – negara berkembang sangat memiliki potensi
+yang besar untuk memenuhi kebutuhan yang belum
+terpenuhi sebelumnya dan secara positif berdampak pada
+pelayanan kesehatan selanjutnya [9]. Berbagai
+perkembangan teknologi telemedika telah dilakukan
+cukup lama, bahkan saat ini pengembangannya masih
+terus dilanjutkan dan ditingkatkan. Pengembangan
+telemedika di dunia telah berpengaruh pada layanan
+kesehatan saat ini, dan bahkan sangat memengaruhi
+perkembangan telemedika di negara-negara berkembang
+seperti Indonesia.
+A. Perkembangan Telemedika di Dunia
+Perkembangan telemedika telah denganjelas terjadi
+sekitar 20-30 tahun terakhir seiring dengan adanya
+kemajuan dalam bidang teknologi informasi di dunia.
+Sejarah awal telemedika jauh lebih tua dari
+perkembangan telemedika saat ini. Aktivitas medis
+dilakukan dengan adanya perbedaan jarak, dan dengan
+berbagai informasi yang ditransmisikan di dalamnya [7].
+Telemedika dalam bentuk modern dimulai pada
+tahun 1960-an dalam bagian besar yang didorong oleh
+kemajuan teknologi di sektor kemiliteran dan ruang
+angkasa, serta adanya
+beberapa
+individu yang
+menggunakan berbagai peralatan teknologi komersial
+yang tersedia [10]. Contoh tonggak awal dari
+perkembangan telemedika termasuk didalamnya adalah
+
+penggunaan televisi untuk memfasilitasi antara spesialis
+di lembaga psikiatri dandokter umum di sebuah rumah
+sakit jiwa milik negara [11], dan ketentuan nasihat dari
+ahli kesehatan dari rumah sakit untuk pendidikan ke
+pusat medis bandara [12].
+Kemajuan terbaru, peningkatan ketersediaan dan
+pemanfaatan teknologi informasi oleh populasi di dunia
+secara umum telah telah menjadi pengaruh besar dari
+dunia telemedika dilebih dari satu dekade yang lalu,
+secara cepat telah menciptakan kemungkinan baru untuk
+layanan kesehatan. Penggantian dari form isian analog
+untuk
+mengkomunikasikan dengan metode digital,
+dikombinasikan dengan penurunan drastis terhadap
+biaya dari teknologi informasi dan komunikasi, telah
+memicu
+ketertarikan
+yang
+luas di dalam
+pengaplikasian telemedika diantarakesehatan untuk
+membayangkan dan mengimplementasikan
+langkah
+baru dan lebih efisien dalam menyediakan pelayanan
+[13]. Perkenalan dan pempopuleran dari penggunaan
+internet telah secara lebih maju mempercepat langkah
+perkembangan dunia teknologi dan informasi, begitupula
+mengembangkan cakupan dari telemedika untuk
+mencakup aplikasi berbasis web (seperti email,
+telekonsultasi dan seminar melalui internet) dan
+pendekatan multimedia (seperti penggambaran digital
+dan video). Perkembangan-perkembangan ini telah
+memimpin pembuatan dari permadani aplikasi
+telemedika yang kaya yang dunia akan gunakan.
+B. Perkembangan Telemedika di Indonesia
+Di Indonesia sudah mulai menggunakantelemedika
+sejak tahun 90an, dan saat ini telah mengalami
+perkembangan yang signifikan. Berkembangnya beragam
+aplikasi
+sistem
+telemedika
+berbasis Teknologi
+Informasi dan Komunikasi (TIK) di Indonesia semakin
+mempermudah penyelesaian
+masalah nyata
+yang
+dihadapi dalam meningkatkan pelayanan kesehatan
+masyarakat. Namun, sejauh ini banyak aplikasi
+telemedika yang dikembangkan di Indonesia hanya
+digunakan untuk keperluan pendidikan dan belum
+diterapkan di bidang medis pemerintahan. Berikut ini
+merupakan pembahasan singkat tentang beberapa sistem
+telemedika dan e-health serta beragam aplikasinya yang
+telah dilakukan dan dikembangkan di Indonesia.
+1) Telenursing [14]
+Telenursing adalah penggunaan teknologi dalam
+keperawatan untuk meningkatkan perawatan bagi
+pasien.” (Skiba, 1998). Telenursing memudahkan dalam
+memperoleh pelayanan kesehatan jarak jauh melalui
+video conference, video phone, dan sebagainya sehingga
+dapat dijangkau oleh pasien dengan kendala jarak jauh,
+pasien lansia, pasien penyakit kronis yang dirawat
+dirumah, dan lain-lain. Penerapan telenursing paling
+banyak adalah melalui telepon dalam triase dan home
+care. Dalam praktek telenursing, perawat tetap
+melaksanakan tahapan proses keperawatan yaitu perawat
+terus
+mengkaji
+pasien,
+menentukan
+dignosis
+keperawatan, merencanakan intervensi dan mengevaluasi
+hasil asuhan keperawatan, yang dilakukan dengan
+
+menggunakan teknologi moderen seperti internet,
+komputer, telepon, alat penilaian digital dan peralatan
+telemonitoring.
+Telenursing dalam keperawatan banyak diterapkan
+di
+negara-negara maju seperti Amerika, Kanada,
+Australia dan Inggris, sementara penerapan telenursing
+di Indonesia masih terbatas di bidang pendidikan. Hal
+ini lebih disebabkan karena infrastruktur yang belum
+memadai, di Indonesia belum memiliki kompetensi
+telehealth sebagai aspek legal dalam memberikan
+perawatan kepada pasiendan belum adanya sistem
+keamanan yang menjamin kerahasiaan data pasien dalam
+penerapan telenursing. Di Indonesia, telenursing sejauh
+ini dikembangkan untuk keperluan pendidikan.
+Contohnya yang dikembangkan oleh Universitas Gadjah
+Mada (UGM) adalah e-lisa yang merupakan model elearning yang terintegrasi antara fakultas-fakultas di
+UGM. Fakultas Keperawatan Universitas Pembangunan
+Nasional
+Veteran
+Jakarta
+dan
+Universitas
+Muhammadiyah Yogyakarta juga mengembangkan
+model
+pembelajaran e-learning untuk mendukung
+proses pendidikan keperawatan.
+2) Sistem Telemedika Puskesmas
+Sejak tahun 1997, Program Studi Teknik Biomedis Institut Teknologi Bandung (ITB) telah memusatkan
+usahanya dalam pengembangan dan implementasi ICT
+berbasis telemedika dan e-health systems untuk
+pelayanan kesehatan masyarakat. Sistem telemedika ini
+terdiri dari beberapa PC sebagai stasiun medis yang
+tehubung dengan suatu jaringan lokal (LAN) atau
+internet. Sistem telemedika puskesmas ini berfungsi
+untuk melakukan pencatatan dan pelaporan data,
+telekonsultasi, telekoordinasi, telediagnosis sederhana
+pada suatum puskesmas[15].
+3) Sistem Telemedika untuk Pengelolaan Wabah
+Untuk
+membantu
+pelaksanaan
+pengelolaan
+(manajemen)
+wabah
+(outbreak
+management,
+biosurveillance), dapat digunakan sistem e-health:
+berbasis web (internet), berbasis jaringan telepon selular,
+dankombinasi keduanya. Sistem telemedika manajemen
+wabah ini terdiri dari sebuah stasiun monitor (komputer
+dengan perangkat lunak aplikasi dan basis data),
+sejumlah stasiun pelapor, dan jaringan telekomunikasi
+berupa jaringan internet dan/atau jaringan telepon selular
+
+Gambar2. Diagram blok sederhana sistem ehealthberbasis web, untuk
+pengelolaan wabah [16]
+
+TBC dapat mengikuti sampai tahap akhir terapi
+pengobatannya.
+
+4) Sistem Resep Elektronik (e-Prescription System)
+[17]
+
+6) Sistem m-Health (Mobile e-Health)
+Sistem ehealth jenis ini mengutamakan penggunaan
+jaringan telepon selular, yang di banyak negara makin
+berkembang pesat, dengan jumlah pengguna yang terus
+meningkat, serta biaya yang makin terjangkau.
+Peningkatan jumlah dan jenis aplikasi telepon selular di
+sisi teknologi, dapat memberikan berbagai jenis inovasi
+untuk pengembangan aplikasi pelayanan kesehatan
+masyarakat. Kunci utama pengembangan system mhealth ini adalah: pemahaman yang baik tentang
+pelayanan kesehatan berikut permasalahannya, fasilitas
+(features) teknologi dan infrastruktur jaringan yang
+tersedia, kerjasama sinergis berbagai pihak, serta inovasi
+yang dikembangkan secara konsisten dan berkelanjutan.
+Berbagai jenis aplikasi yang telah dikembangkan
+berbagai fihak misalnya: portable & ambulatory ECG,
+EEG, temperatur; berbagai aplikasi berbasis SMS, sistem
+pencatatan & pelaporan dan monitoring. Selain itu, juga
+berbagai jenis aplikasi sistem m-Health untuk pengelolan
+kesehatan ibu dan anak, serta Sistem Informasi Pelayanan
+Kesehatan Masyarakat (SIPKM)[17, 19].
+
+Perangkat
+keras sistem resepelektronik dapat
+terdiri atas sebuah komputer PC sampai ke suatu jaringan
+komputer dengan sejumlah PC yang terhubung dalam
+suatu jaringan lokal (local area network, LAN). Gambar
+4menunjukkan diagram blok sistem resep elektronik
+dengan 8 buah komputer, yang telah digunakan di
+puskesmas Babakan Sari di Bandung. Sistem resep
+elektronik ini pada dasarnya berfungsi sebagai sistem
+pencatatan, pengolahan dan pelaporan data pasien dan
+data obat (electronic medical record = EMR),
+diintegrasikan dengan suatu modul perangkat lunak resep
+elektronik. Perangkat lunak modul resep elektronik
+terutama berfungsi untuk: memberikan informasi
+farmakologi tentang setiap obat
+yang
+tersedia,
+melakukan test reaksi obat merugikan, melakukan test
+duplikasi obat, membantu perhitungan dosis obat,
+melakukan proses administrasi penggunaan dan
+pelaporan obat.
+
+Gambar3. Sistem Registrasi & Identifikasi Pasien Berbasis Biometrik
+[Kelompok Keahlian Teknik Biomedika – ITB, 2009]
+
+5) Sistem e-Health untuk Manajemen Penyakit TBC
+Sistem e-health [17, 18] untuk manajemen penyakit
+TBC ini dikembangkan berbasis internet dan mobile
+phone yang dapat digunakan untuk mengelola pasien
+TBC di puskesmas atau di rumah sakit. Sistem e-health
+berupa modul perangkat lunak ini dikembangkan dengan
+tiga fungsi utama, yaitu: pencatatan dan pelaporan data
+pasien TBC, basis data pasien TBC berbasis web,dan
+system pengiriman pesan singkat melalui jaringan
+telepon selular sebagai pengingat jadwal pengobatan
+pasien selama 6 bulan. Perangkat keras system ini terdiri
+dari computer dan mikroskop digital sederhana. Prosedur
+baku penanganan TBC yaitu DOTS (directly observed
+treatment short-course) digunakan untuk mendukung
+proses diagnosis dan terapi pasien TBC. Dengan adanya
+system ini diharapkan dapat mengurangi jumlah pasien
+TBC yang tidak melanjutkan pengobatannya karena
+beberapa faktor yang mempengaruhi, sehingga pasien
+
+7) Sistem e-Health berbasis Pengolahan Citra
+Banyak kegiatan pengembangan dan penerapan
+teknologi pengolahan citra (image processing & medical
+imaging) serta memanfaatkannya dalam bidang e-health
+untuk mendapatkan manfaat yang lebih besar bagi
+peningkatan pelayanan kesehatan masyarakat [20].
+Kegiatan dalam hal ini meliputi akuisisi citra medis
+dengan mengkonversi ke format digital, proses
+pengolahan citra dalam arti luas, pengiriman dan
+penyimpanan, de-kompresi citra, interpretasi citra medis,
+serta tindak lanjut. Hal terpenting dalam setiap tahap
+proses tidak boleh terjadi kesalahan dan/atau kehilangan
+informasi kedokteran dan perlu ditunjukan melalui tahap
+uji-coba klinis.
+Berbagai contoh aplikasi sistem e-health yang
+termasuk dalam kelompok ini, antara lain adalah:
+pencatatan dan identifikasi pasien berbasis biometrik,
+deteksi dini osteoporosis dan osteoarthritis (banyak
+metoda), deteksi diabetic retinopathy, tele-diagnosis
+katarak, teledermatologi, tele-radiologi, studi tentang gait
+analysis, pengembangan algoritma dan perangkat lunak
+pengolahan citra untuk berbagai fungsi pendukung tahap
+diagnosa. Beberapa contoh aplikasi sistem e-health
+berbasis pengolahan citra ditunjukkan pada gambar 4, 5
+dan 6.
+
+“gratis” (misalnya: e-mail, Yahoo Messenger, Skype).
+Tergantung pada jenis aplikasi dan situasi pada saat
+tertentu, fasilitas tersebut dapat dimanfaatkan dalam
+melaksanakan beberapa macam konsultasi psikologi
+dalam batas-batas tertentu. Tahap awal uji-coba sistem epsychology telah dilakukan dengan hasil yang cukup
+baik, meskipun langkah perbaikan lebih lanjut perlu
+dilakukan [23].
+
+Gambar4. Proses Pengolahan Citra untuk Deteksi Osteoporosis [Kelompok
+Keahlian Teknik Biomedika –ITB, 2009]
+
+8) Sistem Telemedika Bergerak (Mobile Telemedicine
+System with Multi Communication Links)
+Gambar 7 adalah diagram blok sederhana sistem
+telemedika bergerak tersebut [21, 22]. Sistem telemedika
+bergerak terdiri atas dua bagian, yaitu base unit dan
+mobile unit. Gambar 8 adalah Prototipe dari sistem
+telemedika bergerak telah direalisasikan di ITB. Selain
+digunakan dalam kendaraan seperti ambulans, sistem
+telemedika bergerak dengan multi communication links
+juga dapat dimanfaatkan sebagai puskesmas keliling yang
+dapat menjangkau daerah terpencil untuk memberikan
+pelayanan kesehatan secara merata.
+
+Gambar5. Simplified block diagram of the mobile telemedicine system with Multi
+Communication Links [Soegijoko, S. 2010]
+
+Gambar 8. Prototip Sistem Telemedika Bergerak [Soegijoko, S. 2010]
+
+9) Sistem e-Psychology (Cyber Psychology)
+Berbagai jenis sistem komunikasi berbasis internet
+yang bersifat interaktif makin banyak tersedia secara
+
+10) Open EHR, Open MRS System
+Sistem e-health ini memanfaatkan perangkat lunak
+yang bersifat open source dengan beberapa pengembang
+berbeda. Untuk membuat suatu sistem e-health dengan
+EMR (electronic medical record) yang mempunyai
+format tertentu, kita harus memilih sejumlah modul
+tertentu dan menyusunnya sehingga menghasilkan “paket
+perangkat lunak” bersifat open source yang dikehendaki.
+Dengan system tersebut diharapkan dapat dihasilkan
+suatu sistem e-health dapat “bekerja-sama” dengan
+sistem lain dengan format medical record yang berbeda.
+V.
+
+TREN MASA DEPAN TELEMEDIKA
+[14][24][25]
+
+Berkembangnya
+jenis
+perawatan,
+semakin
+bertambahnya populasi manusia dan bertambahnya
+masyarakat dunia yang mengalami penyakit kronis
+menyebabkan dibutuhkannya sumber daya yang banyak
+agar dapat menanggulangi (menutupi) kebutuhan
+tersebut. Dengan adanya teknologi telemedika yang
+terbaru dapat membantu petugas medis dalam merawat,
+memberikan pelayanan medis dan menanggulangi
+masalah tersebut. Perbaikan teknologi telemedika
+disarankan agar mendapatkan framework yang lebih baik
+sehingga menghasilkan pengetahuan yang relevan dan
+mendapatkan solusi yang lebih spesifik. Alasan - alasan
+tersebut merupakan bukti bahwa telemedika sangat
+memiliki peluang untuk dikembangkan sehingga
+kedepannya akan banyak sekali aplikasi dari teknologi
+telemedika yang akan muncul.
+Saat ini penggunaan telemedika tentunya sangat
+membantu dan memiliki tren tersendiri. Adapun
+Telehealth bentuk pengembangan (perluasan) dari
+telemadika yang menjadi salah satu tren tersebut.
+Berdasarkan asosiasi telemedika Amerika, Telehealth
+merupakan penggunaan informasi medis yang diubah
+dari satu situs ke bentuk lainnya melalui alat komunikasi
+elektronik untuk memperbaiki pasien. Contoh dari
+aplikasi Telehealth adalah aplikasi ODL (Observation of
+Daily Living), aplikasi store dan forward, aplikasi realtime, dan aplikasi remote patient monitoring.
+Untuk mengetahui kesehatan dari seorang pasien
+dapat dilakukan observasi mudah dengan melakukan
+obseravsi kegiatan rutin sehari - hari dari pasien. Aplikasi
+ODL mendukung kegiatan observasi tersebut. Sehingga
+setiap pasien memiliki data kesehatan secara personal
+(Personal Health Record). Dalam aplikasis store and
+forward, lebih banyak menggunakan media seperti,
+gambar, audio, dan video. Observasi kehidupan sehari hari dan data klink pasien akan diambil dan disimpan di
+dalam komputer atau mobile device si pasien. Nantinya
+
+data tersebut akan ditransmisikan secara aman ke lokasi
+pihak spesialis yang akan mempelajari data tersebut.
+Aplikasi Real-Time mungkin yang menjadi tren saat ini.
+Aplikasi ini memungkinkan terjadinya komunikasi dua
+arah secara langsung menggunakan audio dan video
+dalam komunikasi tersebut.
+Video call dan teleconference merupakan beberapa bentuk dari aplikasi
+real-time ini.
+Dari penjelasan di atas, beberapa contoh aplikasi
+Telehealth di masa depan memungkinkan alat observasi
+ditempatkan ke dalam tubuh si pasien sehingga
+mendapatkan hasil observasi (informasi kesehatan
+pasien) lebih cepat dan tepat. Ilmuwan Universitas
+Stanford telah mendemonstrasikan sebuah alat yang
+cukup kecil ‘berenang’ melalui vena. US Food and Drug
+Administration juga membenarkan bahwa microchip
+dapat ditambahkan ke dalam pil sehingga dapat
+melakukan pengawasan secara langsung kepada pasien.
+Berdasarkan informasi yang didapat, Telenursing
+merupakan tren dan isu pelayanan keperawatan di
+Indonesia di tahun 2020 mendatang. Telenursing telah
+diterapkan di negara maju dan menurut beberapa
+penelitian menunjukan bahwa, Telenursing dapat
+meningkatkan kepuasan masyarakat terhadap pelayanan
+kesehatan. Pelayanan keperawatan melalui telenursing
+dinilai lebih efektif dan efisien karena pesatnya
+perkembangan dan kemudahan akses teknologi informasi
+saat ini, sehingga kualitas dari pelayanan kesehatan yang
+profesional dapat dirasakan oleh masyarakat.
+Penerapan
+telemedika
+di
+Indonesia
+dirasa
+membutuhkan waktu yang cukup lama. Hal tersebut
+timbul karena terdapat beberapa kendala yang harus
+diselesaikan secara matang, seperti infrastuktur, aspek
+legal dan keamanan. Infrastruktur untuk beberapa daerah
+kecil di Indonesia masih dirasa belum memadai, seperti
+akses jaringan listrik yang belum teratur. Meninjau dari
+belum memadainya pengadaan infrastruktur secara
+umum, maka begitupun yang terjadi dalam hal kurang
+memadainya infrastruktur bagi telemedika. Untuk aspek
+legal, di Indonesia masih belum memiliki undang –
+undang yang pasti mengatur penggunaan telemedika,
+namun yang ada saat ini hanya pengaturan undang –
+undang terkait telematika secara umum. Masalah
+keamanan pun menjadi pertimbangan, dikarenakan
+kemungkinan pencurian data pasien yang dapat dilakukan
+melalui media internet sangatlah besar.
+VI.
+
+KESIMPULAN
+
+Telah disajikan gambaran singkat tentang konsep
+telemedika serta berbagai implementasi dan pengalaman
+di Indonesia. Perlunya keadilan sosial dalam hal keadilan
+pelayanan kesehatan bagi seluruh masyarakat di
+Indonesia sebagai hal yang sangat penting dalam
+pengembangan bangsa secara terus-menerus. Penggunaan
+telemedika akan cocok untuk memenuhi hal tersebut.
+Bagaimanapun, diperlukan usaha-usaha strategis untuk
+mengimplementasikan semenjak aplikasi teknologi
+telemedika membutuhkan hubungan antara para pekerja
+kesehatan, penyedia jasa telekomunikasi dan pemerintah.
+Peluang berkembangnya telemedika di Indonesia sangat
+
+besar, namun masih terdapat kendala dalam
+pembangunan infrasturktur dan keamanan data. Sehingga
+diperlukan kerjasama antara pengembang sistem
+telemedika dengan pihak pemerintah untuk kemajuan
+pelayan kesehatan masyarakat di Indonesia. Kerjasama
+yang berkesinambungan dan sinergis berbagai pihak dari
+berbagai disiplin ilmu yang beragam merupakan syarat
+utama berhasilnya usaha pemanfaatan teknologi
+telemedika di Indonesia serta di berbagai negara
+berkembang yang lain.
+DAFTAR PUSTAKA
+[1]
+
+Wright, D. 1998. Telemedicine and Developing Countries (Report
+of Study Group 2 of ITU Development Sector). Journal of
+Telemedicine and Telecare, vol. 4 suppl. 2, 1998.
+[2] Lee Seon ah. 2010. Clinical information system quality
+information tool for nursing care service. Thesis. University of
+Illionis at Chicago. Chicago.
+[3] Keputusan
+Menteri Kesehatan Republik Indonesia. 2007.
+Standar Profesi Perekam Medis dan Informasi Kesehatan – bagian
+C
+no.2b
+:
+bentuk
+pelayanan
+rekam
+medis,
+No:377/Menkes/SK/III/2007, MenKes Republik Indonesia,
+Jakarta.
+[4] Soegijoko, S. 2010. Perkembangan Terkini Telemedika dan EHealth serta Prospek Aplikasinya di Indonesia. Seminar
+Nasional Aplikasi Teknologi Informasi 2010 (SNATI2010),
+ISSN: 1907-5022.
+[5] Idris, S. 1992. Pengantar Teknologi Pengolahan Susu, Animal
+Husbandry Project, Universitas Brawijaya, Malang.
+[6] Fong, B., Fong, A.C.M, Li, C.K. 2011.Telemedicine Technologies
+: Information Technologies in Medicine and Telehealth (1st
+edition). United Kingdom: John Willey & Sons.
+[7] John, Craig.,Victor, Patterson. 2005.Introduction to the practice
+of telemedicine. Journal of Telemedicine and Telecare 2005; 11:
+3–9
+[8] Nakajima, I., et. al. 2001. 2001b, IP- ECG for Telehomecare, ITU
+Telecom Africa.
+[9] Brandling-Bennett HA et al. 2005.Delivering health care in
+rural Cambodia via store-and-forward telemedicine: a pilot study.
+Telemedicine Journal and e-Health,11(1):56–62.
+[10] Currell R et al. 2000. Telemedicine versus face to face patient
+care: effects on professional practice and health care outcomes.
+Cochrane Database of Systematic Reviews. Issue 2. Art. No.:
+CD002098.
+[11] Benschoter RA, Eaton MT, Smith P.1965. Use of videotape to
+provide
+individual
+instruction
+in
+techniques
+of
+psychotherapy. Academic Medicine,1965, 40(12):1159–1161.
+[12] Dwyer
+TF.
+1973.
+Telepsychiatry: psychiatric
+consultation by interactive television. American Journal of
+Psychiatry, 1973, 130:865–869.
+[13] Craig J,
+Patterson
+v.
+2005.Introduction to the
+practice
+of
+telemedicine.
+4.
+Journal
+of
+Telemedicine and Telecare, 2005,11(1):3–9.
+[14] Murdiyanti, Dewi.
+2012.
+Studi Analisis Penerapan
+Telenursing Sebagai Salah Satu Cara Menyediakan Pelayanan
+Keperawatan Dalam Era Teknologi Informasi. Universitas
+Indonesia, Depok.
+[15] Soegijardjo
+Soegijoko,
+ICTApplications in eHealth: ImprovingCommunity Healthcare Services To Awards
+Achieving the MDGs, United Nations Roundtable on ‘Governance
+and Applications of ICT for Achieving the MDGs’, The United
+Conference Centre, Bangkok (Thailand), 9 – 10December
+2009.
+[16] Soegijardjo Soegijoko, J. Hasugian, T.S. Barkah, Internet and
+Mobile Phone – Based eHealth Systems for Outbreak
+Management and Safe Motherhood Program in Community
+Health
+Center
+Environment,
+Med-eTel 2009, Luxembourg, 1 – 4 April2009.
+
+[17] Irma Melyani Puspitasari, Lily I.Octovia, Ira Dewi Jani,
+Soegijardjo Soegijoko. An m-Health System with Integrated ePrescription,
+Tuberculosis
+Management
+and
+Family
+Planning Promotion for Primary Health Care Level in
+Indonesia,‘SHOPS
+&
+m-Health
+Alliance
+Online
+Conference’, 5 May2010.
+[18] Hendi Handian R., Lily Indriani, Soegijardjo Soegijoko,
+Development of Simple E-Health System for Tuberculosis
+Management at Community Health Center Level in Indonesia,
+Med-e-Tel 2009, Luxembourg, 1– 4 April 2009.
+[19] Soegijardjo
+Soegijoko,
+Arga Aridarma, Irma Melyani
+Puspitasari.Preliminary Evaluation on Experimental m-Health
+System to Support Mother and Child Care Promotion for
+Community Health Centers in Indonesia. ‘SHOPS & m- Health
+Alliance Online Conference’, 5May 2010.
+[20] Kelompok
+Keahlian
+Teknik
+Biomedika
+–
+ITB, Laporan Tahunan 2009.
+
+View publication stats
+
+[21] Sutjiredjeki E., Soegijardjo Soegijoko, Mengko T.R.,
+Tjondronegoro S., Astami K., Muhammad H.U., Suherman.
+Application of A Mobile Telemedicine System with Multi
+Communication Links for Disaster Reliefs in Indonesia. World
+Congress on Medical Physics and Biomedical Engineering 2009,
+Munich (Germany), September 2009.
+[22] Soegijardjo
+Soegijoko.
+Mobile Telemedicine System with
+Multi
+Communication
+Links for
+DevelopingCountries.
+Telemedicine and IT Infrastructure At Hospital Build Asia –
+Exhibition and Congress 2010, Singapore, 12 – 13 May 2010.
+[23] Witriani S., Soegijardjo Soegijoko.Preliminary Evaluations of
+Internet – based System for e-Psychology Applications in
+Indonesia. Med-e-Tel2009, Luxembourg, 1 – 4 April 2009.
+[24] Anonim. 2012. Telemedicine - A Keyto Health Service of The
+Future. Denmark: The Danish Agency for Digitisation.
+[25] Anonim. 2014. Trends in Telehealth.United State. NTT Data.
+
+

@@ -1,0 +1,671 @@
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+SISTEM PENGARSIPAN SURAT BAGIAN ORGANISASI DAN TATALAKSANA
+PADA KANTOR BUPATI LABUHANBATU BERBASIS WEB
+Oleh :
+Novika Julianti Simanjuntak,Sudi Suryadi,Gomal J.Y Silaen
+Akademi Manajemen Informatika KomputerLabuhan Batu
+Nofysimanjuntak@gmail.com1), soesoe@gmail.com2), gomalsilaenpanggomal@gmail.com3)
+
+ABSTRAK
+
+Sistem informasi pengarsipan surat pada kantor Kantor Bupati Labuhanbatu bagian Organisasi
+dan Tatalaksana ( ORTALA ) saat ini masih dilakukan secara konvensional yang masih menggunakan
+buku agenda . Untuk membuat surat keluar atau surat masuk, sub bagian harus meminta no surat ke
+bagian umum, hal ini berdampak pada proses pembuatan surat keluar maupun surat masuk menjadi
+lama.
+Sistem informasi pengarsipan surat pada kantor Kantor Bupati Labuhanbatu bagian Organisasi
+dan Tatalaksana ( ORTALA ) yang akan dikembangkan berbasis web sehingga dapat dijalankan
+melalui komputer personal (PC) maupun Laptop. Sistem ini menggunakan Bahasa pemrograman PHP
+dan MySQL sebagai sistem manajemen basis data.
+Sistem pengarsipan surat pada Kantor Bupati bagian Organisasi dan Tatalaksana ini diharapkan
+dapat mempermudah dalam penatausahaan arsip, baik arsip surat masuk maupun surat keluar. Hasil
+akhir dari penelitian ini berupa aplikasi sistem informasi pengarsipan surat yang berguna untuk
+penatausahaan arsip berbasis web pada Kantor Bupati Labuhanbatu bagian Organisasi dan
+Tatalaksana ( ORTALA ).
+Kata Kunci :Web,Php,Arsip,Mysql
+ABSTRACT
+
+Information system of letter archiving at Labuhanbatu Regent Office office of Organization and
+Management Division (ORTALA) is still done conventionally which still use agenda book. To make
+outgoing or incoming mail, the sub-section should ask for a letter to the general section, this will have
+an impact on the process of making outgoing and incoming mails long.
+Information system of letter archiving at Labuhanbatu Regent office office of Organization and
+Management (ORTALA) which will be developed web based so that it can be run through personal
+computer (PC) and Laptop. This system uses PHP and MySQL programming languages as database
+management system.
+The letter filing system at the Regent's Office of Organizational and Management Section is
+expected to facilitate the administration of the archives, both incoming and outgoing mail archives.
+The end result of this research is the application of information archiving system of mail which is
+useful for the administration of web-based archive at Labuhanbatu Regent Office of Organization and
+Management (ORTALA).
+Keywords : Web,Php,Arsip,Mysql
+1. PENDAHULUAN
+Perkembangan teknologi informasi diera
+globalisasi sangat mempengaruhi kinerja dan
+memungkinkan berbagai kegiatan untuk dapat
+dilaksanakan dengan cepat, tepat dan akurat,
+sehingga
+akhirnya
+akan
+meningkatkan
+produktivitas.
+Arsip adalah kumpulan dari surat-menyurat
+yang terjadi dikarenakan adanya pekerjaan, aksi,
+transaksi dokumen yang disimpan sehingga
+
+ketika dibutuhkan dapat dipersiapkan untuk
+melaksanakan tindakan selanjutnya.
+Dalam arsip juga terdapat pencatatan,
+penyimpanan, pengolahan tentang segala surat.
+Di dalam pekerjaan menyimpan arsip tidak
+hanya menyimpan saja, tetapi menyangkut
+penempatan dan penemuan kembali.
+Penyimpanan arsip dikatakan baik apabila
+pada waktu diperlukan dapat di ketemukan
+dengan mudah, cepat dan tepat.
+26 | P a g e
+
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+Arsip juga berperan penting pada Kantor
+Bupati Labuhanbatu yaitu bagian Organisasi dan
+Tatalaksana
+(ORTALA)
+karena
+sangat
+berpengaruh dalam menunjang kelancaran
+jalannya pengelolaan atau pengarsipan surat.
+
+II. LANDASAN TEORI
+2.1 Pengertian Sistem
+Menurut Hartono (2013:9) dalam (Fajarianto,
+Iqbal, & Cahya, 2017), ”Sistem adalah suatu
+himpunan dari berbagai bagian atau elemen, yang
+saling berhubungan secara terorganisasi berdasar
+fungsi-fungsinya, menjadi satu kesatuan.”
+Dari pernyataan di
+atas dapat
+disimpulkan bahwa sistem dapat didefenisikan
+sebagai suatu kesatuan yang terdiri dari dua atau
+lebih komponen elemen atau subsistem yang
+berinteraksi untuk mencapai suatu tujuan.
+2.2 Pengertian Informasi
+Menurut Menurut Taufiq (2013:15)
+dalam (Fajarianto et al., 2017), “Informasi adalah
+data-data yang diolah sehingga memiliki nilai
+tambah dan bermanfaat bagi pengguna.”
+Jadi, informasi adalah kumpulan datadata yang telah diolah menjadi sebuah bentuk
+atau keputusan yang lebih berguna dan berarti
+bagi yang menerimanya, sehingga menigkatkan
+pengetahuan seseorang yang menggunakan data
+tersebut.
+2.3 Pengertian Sistem Informasi
+Menurut Sutabri (2012:46) dalam
+(Fajarianto et al., 2017), “Sistem Informasi
+adalah suatu sistem di dalam suatu organisasi
+yang mempertemukan kebutuhan pengolah
+transaksi harian yang mendukung fungsi operasi
+organisasi yang bersifat managerial dengan
+kegiatan strategi dari suatu organisasi untuk
+dapat menyediakan kepada pihak luar tertentu
+dengan laporan-laporan yang diperlukan.”
+Jadi, Sistem informasi dapat diartikan
+sebuah kombinasi dari manusia, fasilitas atau alat
+teknologi, media, prosedur dan pengendalian atas
+kegiatan kegiatan tertentu yang menghasilkan
+sebuah informasi yang dapat dimanfaatkan oleh
+pemakainya.
+2.4 Pengertian Arsip
+Arsip adalah suatu proses mulai dari
+penciptaan,
+penerimaan,
+pengumpulan,
+pengaturan, pengendalian, pemeliharaan dan
+perawatan serta penyimpanan menurut sistem
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+tertentu. Saat dibutuhkan dapat dengan cepat dan
+tepat ditemukan.
+Menurut Utomo (2012:1) dalam (Basic,
+Sumsel, & Cabang, 2017), “ Arsip adalah
+rekaman kegiatan atau peristiwa dalam berbagai
+bentuk dan media, yang sangat penting dalam
+pelaksanaan
+kehidupan
+bermasyarakat,
+berbangsa, dan bernegara.”
+2.5 Pengertian Surat
+Surat adalah alat komunikasi antara dua
+pihak yang berupa tulisan dalam kertas atau
+lainnya. Tujuan utama seseorang menulis surat
+tidak lain adalah untuk mengkomunikasikan atau
+menginformasikan suatu gagasan dan pikirannya
+kepada pihak lain, baik atas nama pribadi atau
+yang lainnya.
+Menurut Luqman & Kunci (2013),
+“Surat merupakan suatu sarana komunikasi
+tertulis
+untuk
+menyampaikan
+informasi,
+pernyataan, atau pesan kepada pihak lain yang
+mempunyai keperluan kegiatan dengan bentuk
+tertentu.”
+2.6 Pengertian Database
+Menurut Bambang Hariyanto (2004)
+dalam (Jurusan, Informatika, Jurusan, &
+Informatika, 2014), “ Database adalah
+kumpulan data (elementer) yang secara logic
+berkaitan
+dalam
+mempresentasikan
+fenomena/fakta secara terstruktur dalam
+domain tertentu untuk mendukung aplikasi
+dalam sistem tertentu”.
+Dari pernyataan di atas dapat
+disimpulkan bahwa database adalah
+kumpulan data yang disimpan secara
+sistematis di dalam komputer yang dapat
+diolah atau dimanipulasi menggunakan
+perangkat lunak untuk menghasilkan
+informasi.
+2.7 Pengertian Website
+Menurut Rahmadi (2013:1) dalam
+(Syarif, 2017), “Website adalah sejumlah
+halaman web yang memiliki topik saling terkait,
+terkadang disertai pula dengan berkas-berkas
+gambar, atau jenis-jenis berkas lainnya.
+Dari teori di atas dapat ditarik
+kesimpulan bahwa website adalah teknologi
+yang menggunakan internet yang berisi informasi
+dari file-file yang saling memilki hubungan.
+
+27 | P a g e
+
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+2.8 Appserv
+Menurut (Fujiyati, 2015), “Appserv
+adalah alat Open Source untuk windows dengan
+Apache, MySql, PHP dan penambahan lainya,
+dimana aplikasi ini diatur secara otomatis yang
+memungkinkan untuk menjalankan server web.
+Berdasarkan pendapat diatas dapat
+ditarik kesimpulan bahwa appserv adalah
+software basis data, MySQL, PHP, phpMyAdmin
+yang dilengkapi dengan server apache.
+2.9 PHP
+PHP (Hypertext Preprocessor) adalah
+bahasa pemrograman yang digunakan secara luas
+untuk
+penanganan
+pembuatan
+dan
+pengembangan sebuah web dan biasa digunakan
+pada HTML.
+Menurut (Yulianto, 2015), “PHP adalah
+singkatan dari PHP Hypertext Preprocessor yang
+digunakan sebagai bahasa script server-side
+dalam pengembangan web yang disisipkan pada
+dokumen HTML.”
+2.10 Notepad++
+Notepad++ adalah sebuah text editor
+yang sangat berguna bagi setiap orang dan
+khususnya bagi para developer dalam membuat
+program.
+Menurut (Husain & Informatika, 2018),
+“Notepad++ adalah Program bawaan dari
+Windows yang biasa digunakan untuk menulis
+keterangan-keterangan yang penting dari
+program aplikasi seperti halnya lisensi program
+atau yang lainnya.”
+2.11 Data Flow Diagram (DFD)
+Menurut (Kristanto, 2008) dalam
+(Afyenni, Jurusan, Informasi, & Negeri,
+2014), “Data Flow Diagram (DFD) adalah
+suatu model logika data atau proses yang
+dibuat untuk menggambarkan darimana asal
+data, dan kemana tujuan data yang keluar
+dari sistem, dimana data disimpan, proses
+apa yang menghasilkan data tersebut, dan
+interaksi antara data yang tersimpan, dan
+proses yang dikenakan pada data tersebut.”
+2.12 ERD (Entity Relational Diagram)
+Menurut (Rumah, Hb, & Anin,
+n.d.), “ERD adalah diagram yang
+menggambarkan hubungan antara entityentity
+yang
+terdapat
+dalam
+Staff
+administrasi, dan Pimpinan. Berikut adalah
+konseptual dari context diagram atau disebut
+juga dengan level 0 (zero).”
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+2.13 Pengertian Flowchart
+Menurut (Selular, 2013), “Flowchart
+adalah gambaran urutan kegiatan dari suatu
+sistem perangkat produksi dari awal hingga
+akhir.
+Jadi, flowchart adalah bagan simbolsimbol tertentu yang menggambarkan urutan
+proses secara mendetail serta hubungan
+antara suatu proses dengan proses lainnya
+dalam suatu program.
+
+III. METODOLOGI PENELITIAN
+Adapun metode yang digunakan untuk
+mengumpulkan data pada penelitian ini adalah
+sebagai berikut :
+1. Metode Observasi
+Metode observasi yaitu pengumpulan
+data dengan mengadakan pengamatan
+atau peninjauan langsung di lapangan
+sehingga kita mendapatkan data yang
+aktual dari hasil penelitian yang
+dilakukan.
+2. Metode Studi Pustaka
+Metode
+ini
+dilakukan
+dengan
+mempelajari bahan-bahan referensi yang
+berkaitan atau mendukung dalam
+penyelesaian masalah melalui buku-buku
+dan internet mengenai permasalahan
+yang dibahas.
+3. Metode Wawancara
+Metode
+wawancara
+yaitu proses
+memperoleh keterangan untuk tujuan
+penelitian dengan cara tanya jawab
+dengan
+pihak
+Kantor
+Bupati
+Labuhanbatu bagian Organisasi dan Tata
+Laksana ( ORTALA ) yang berkaitan
+dengan permasalahan yang sedang
+diteliti yaitu pengarsipan surat menyurat.
+
+3.1 Metode Perancangan Sistem
+Metode Perancangan SDLC (System
+Development Life Cycle).
+SDLC adalah tahapan-tahapan pekerjaan yang
+dilakukan oleh analis sistem dan programmer
+dalam membangun sistem informasi. System
+Development Life Cycle (SDLC) adalah tahapan
+aktivitas yang harus dikerjakan oleh pengembang
+sistem untuk menghasilkan sebuah sistem yang
+dapat dioperasikan pada organisasi pemakai
+sistem.
+28 | P a g e
+
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+Gambar 3.1 Rancangan Sistem
+3.2 Contex Diagram
+Diagram konteks memiliki gambaran
+seperti hubungan intraksi antara entitas luar
+dengan sistem, hubungan tersebut digambarkan
+dengan aliran data yang mengalir dan lingkungan
+luar setiap (entittas luar) kedalam sistem atau
+sebaliknya.
+
+Gambar 3.3 Data Flow Diagram ( DFD )
+
+3.4 Rancangan Keluaran ( Output )
+Rancangan keluaran ( Output ) adalah
+tampilan hasil akhir dari sistem informasi yang
+sedang berjalan dan dapat dilihat. Rancangan
+keluaran ( output ) laporan surat masuk dan surat
+keluar digunakan untuk menyajikan seluruh data
+surat masuk dan surat keluar. Berikut adalah
+gambaran rancangan keluaran sistem informasi
+kearsipan surat :
+1. Rancangan data surat masuk
+
+Gambar 3.4 Desain Data Surat Masuk
+Gambar 3.2 Contex Diagram
+
+3.3 Data Flow Diagram ( DFD )
+Data Flow Diagram (DFD) adalah alat
+pembuatan
+model
+yang
+memungkinkan
+profesional sistem untuk menggambarkan sistem
+sebagai suatu jaringan proses fungsional yang
+dihubungkan satu sama lain dengan alur data,
+baik secara manual maupun komputerisasi. DFD
+ini sering disebut juga dengan nama Bubble
+chart, Bubble diagram, model proses, diagram
+alur kerja, atau model fungsi.
+
+2. Rancangan Data Surat Keluar
+
+Gambar 3.5 Desain Data Surat Masuk
+
+29 | P a g e
+
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+3.5 Rancangan Masukan ( Input )
+Rancangan masukan ( input ) untuk
+sistem yang diusulkan terdiri dari rancangan form
+login, rancangan form input data dan form upload
+file.
+
+4. Rancangan Form Data Surat Keluar
+
+1. Rancangan Form Login
+
+Gambar 3.49 Tampilan Surat Keluar
+
+Gambar 3.6 Tampilan Login
+2. Rancangan Form Menu Utama
+
+3.6 Entity Relationship Diagram
+Entity Relationship Diagram merupakan
+suatu model untuk menjelaskan hubungan antar
+data dalam basis data berdasarkan objek-objek
+dasar data yang mempunyai hubungan antar
+relasi.
+
+Gambar 3.7 Tampilan Menu Utama
+
+3. Rancangan Form Data Surat Masuk
+
+Gambar 3.10 Entity Relationship Diagram
+
+Gambar 3.8 Tampilan Data Surat Masuk
+
+30 | P a g e
+
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+3.7 Rancangan Sistem
+1. Flowchart Login
+
+3. Flowchart Menu Input
+
+Gambar 3.11 Flowchart Login
+
+Gambar 3.13 Flowchart Menu Input
+
+2.Form Menu Utama
+
+4. Flowchart Menu Laporan
+
+Gambar 3.12 Flowchart Menu Utama
+Gambar 3.14 Flowchart Menu Laporan
+
+31 | P a g e
+
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+5. Flowchart Menu Output
+
+Gambar 3.15 Flowchart Menu Output
+
+6. Flowchat Menu Input Data Surat
+Masuk
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+7. Flowchat Menu Input Data File Surat
+Masuk
+
+Gambar 3.17 Flowchart Input Data File
+Surat Masuk
+
+3.8 Rancangan Interface
+Rancangan antar muka ( interface )
+merupakan mekanisme komunikasi antara
+pengguna (user) dengan sistem yang memberikan
+informasi kepada pengguna (user) untuk
+membantu mengarahkan alur penelusuran
+masalah sampai ditemukan suatu solusi.
+1. Struktur Menu
+Struktur menu merupakan bentuk utama dari
+suatu rancangan program yang berfungsi untuk
+memudahkan dalam menjalankan suatu program
+sesuai dengan kebutuhannya. Berikut adalah
+struktur menu dari Sistem Informasi Pengarsipan
+Surat pada Kantor Bupati Labuhanbatu bagian
+Organisasi dan Tata Laksana ( ORTALA ):
+
+Gambar 3.16 Flowchart Input Data Surat
+Masuk
+
+Pada gambar ini aksi yang terjadi yaitu
+menampilkan proses input data surat masuk,
+mulai dari simpan data, edit data dan hapus data
+surat masuk.
+32 | P a g e
+
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+4.2 Menu Utama
+Form menu utama adalah kumpulan
+menu-menu dari program tersebut setelah
+berhasil login. Di dalam menu utama akan
+tersedia tampilan, Home, Surat Masuk, Surat
+Keluar, Pencarian, Laporan dan Log Out.
+
+Gambar 3.17 Struktur Menu
+
+IV. HASIL DAN PEMBAHASAN
+Gambar 4.2 Form Menu Utama
+4.1 Form Login
+Form login merupakan awal dari
+pembukaan program yang berguna untuk
+membukan user/admin.
+
+4.3 Masukan ( Input ) Surat Masuk
+1. Menu Input Data Surat Masuk
+Form
+input
+surat
+masuk
+merupakan sistem yang berguna untuk
+menginputkan data yang ingin kita simpan
+dalam program , dengan cara mengisi tabel
+No.surat, tanggal surat, asal surat, tujuan
+surat, keterangan dan file surat masuk.
+
+Gambar 4.1 Form Login
+
+From login berfungsi sebagai keamanan sistem
+yang di khususkan bagi seorang admin. Dalam
+from terdapat dua kotak teks yaitu kota teks
+“username“ dan kotak text “passwoard” dan
+kemudian tombol button yaitu login. Ketika di
+klik login maka akan masuk kedalam sistem
+tersebut
+
+Gambar 4.3 Form Input Data Surat Masuk
+
+33 | P a g e
+
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+2. Menu Tambah Data
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+2. Menu Tambah Data Surat Keluar
+
+Gambar 4.3 Form Tambah Data
+
+3.
+
+Menu Edit Data Surat Masuk
+Gambar 4.6 Form Tambah Surat Keluar
+3. Menu Edit Data Surat Keluar
+
+Gambar 4.4 Form Edit Surat Masuk
+
+4.4 Masukan ( Input ) Surat Keluar
+1. Menu Input Data Surat Keluar
+Input data surat keluar digunakan untuk
+melakukan pengolahan input data surat keluar
+yang ada pada Kantor Bupati Labuhanbatu
+bagian Organisasi dan Tata Laksana (ORTALA).
+
+Gambar 4.7 Form Edit Surat Keluar
+5. Menu Pencarian Surat Masuk dan
+Surat Keluar
+
+Gambar 4.5 Form Input Data Surat Keluar
+
+Gambar 4.8 Form Pencarian
+
+34 | P a g e
+
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+Pilih aksi “Cetak Laporan” maka hasilnya :
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+Barri, M. W. H., Lumenta, A. S. M., Wowor, A.,
+& Elektro-ft, J. T. (2015). Perancangan
+Aplikasi SMS GATEWAY Untuk
+Pembuatan Kartu Perpustakaan di
+Fakultas Teknik Unsrat, 23–28.
+Basic, V., Sumsel, B., & Cabang, B. (2017).
+SISTEM INFORMASI
+DOKUMENTASI DAN KEARSIPAN
+BERBASIS CLIENT-SERVER PADA
+BANK SUMSEL BABEL CABANG
+SEKAYU Ekkal Prasetyo Program
+Studi Teknik Informatika Politeknik
+Sekayu Email
+excal.polsky@gmail.com, VII(2), 1–10.
+
+Gambar 4.9 Form Cetak Laporan
+
+V. PENUTUP
+A. Kesimpulan
+Kesimpulan yang dapat diambil dari
+pembuatan Tugas Akhir ini adalah :
+1. Dengan adanya sistem komputerisasi ini
+semua pekerjaan akan lebih mudah di
+selesaikan.
+2. Sistem Informasi ini mempunyai
+kemampuan yang baik untuk diterapkan
+karena pengolahan datanya lebih
+otomatis, tersimpan dengan aman dan
+jika terjadi kesalahan pada sistem dapat
+diketahui lebih cepat sehingga lebih
+efektif dan efisien serta akurat.
+3.
+B.Saran
+Untuk meningkatkan efektivitas dan efesiensi
+dalam pengolahan sistem informasi Kantor
+Bupati Labuhanbatu bagian Organisasi dan Tata
+Laksana ( ORTALA ) sebagai berikut :
+1. Menu-menu yang terdapat dalam
+program masih terlalu sederhana, untuk
+itu diperlukan pengembangan sistem
+yang lebih sempurna.
+2. Perlu adanya seni tampilan dalam
+program, sehingga program lebih
+kelihatan menarik.
+DAFTAR PUSTAKA
+Afyenni, R., Jurusan, D., Informasi, T., &
+Negeri, P. (2014). PERANCANGAN
+DATA FLOW DIAGRAM UNTUK
+SISTEM INFORMASI SEKOLAH (
+STUDI KASUS PADA SMA
+PEMBANGUNAN LABORATORIUM
+UNP ), 2(1).
+
+Fajarianto, O., Iqbal, M., & Cahya, J. T. (2017).
+Sistem Penunjang Keputusan Seleksi
+Penerimaan Karyawan Dengan Metode
+Weighted Product, 7(1), 49–55.
+Fujiyati, O. Y. (2015). Sistem Informasi
+Pengolahan Data Kependudukan Desa
+Purwoasri, 7(1), 1–8.
+Husain, A., & Informatika, P. S. (2018). PADA
+ASOSIASI DAERAH PENGHASIL
+MIGAS, 2(3).
+Jurusan, D., Informatika, T., Jurusan, M., &
+Informatika, T. (2014). Jurnal
+Momentum ISSN : 1693-752X SISTEM
+INFORMASI INVENTORY OBAT
+PADA RUMAH SAKIT UMUM
+DAERAH ( RSUD ) PADANG Jurnal
+Momentum ISSN : 1693-752X
+Luqman, M., & Kunci, K. (2013). Journal Speed
+– Sentra Penelitian Engineering dan
+Edukasi – Volume 5 No 3 - 2013 ijns.org, 5(3), 21–27.
+MEMBANGUN APLIKASI E-LIBRARY
+MENGGUNAKAN HTML, PHP
+SCRIPT, DAN MYSQL DATABASE
+Rini Sovia dan Jimmy Febio. (2011),
+6(2), 38–54.
+Nur, E., Romadhoni, A., Widiyaningtyas, T.,
+Pujianto, U., Elektro, T., Teknik, F., …
+Fax, T. (2015). IMPLEMENTASI
+MODEL WATERFALL PADA
+PENGEMBANGAN SISTEM
+INFORMASI ALUMNI SMKN 1
+JENANGAN PONOROGO,
+(November), 2–3.
+35 | P a g e
+
+Novika Julianti Duha 1) Sudi Suryadi 2) Gomal Juni Yanris 3)
+
+Pt, P., & Ternak, P. (2014). Perancangan
+Aplikasi Gudang, 11–18.
+Rumah, L., Hb, S., & Anin, S. A. (n.d.). No Title,
+129–140.
+
+Informatika : Jurnal Ilmiah AMIK Labuhan Batu
+Vol 5 No. 3/September /2017
+
+PERANGKAT LUNAK
+PENGOLAHAN DATA DISTRIBUSI
+OBAT- OBATAN DI PT . ANUGRAH
+PHARMINDO LESTARI BERBASIS
+WEB
+
+Selular, T. (2013). No Title, 4(2), 1–7.
+Syarif, M. (2017). Implementasi Algoritma
+String Matching Dalam Pencarian Surah
+Dan Ayat Dalam Al-Quran Berbasis
+Web. Ijns.org Indonesian Journal on
+Networking and Security, 6(2).
+Yulianto, R. E. (2015). Jurnal Momentum ISSN :
+1693-752X REKAYASA
+
+36 | P a g e
+
+

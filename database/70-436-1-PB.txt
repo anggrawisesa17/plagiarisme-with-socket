@@ -1,0 +1,3098 @@
+Jurnal Teknologi Pendidikan
+Vol: 06/02 Desember 2018.
+Online ISSN: 2622-4283, Print ISSN: 2338-9184
+
+http://dx.doi.org/10.31800/jtp.kw.v6n2.p122--136
+
+DAMPAK PEMANFAATAN APLIKASI
+ANDROID DALAM PEMBELAJARAN BANGUN
+RUANG
+The Impact of The Utilization of Android Application in Learning Space
+Elisabeth Wiwik Sri Mulyani
+SMP Negeri 1 Sragen
+Jalan Raya Sukowati 162 Sragen Jawa Tengah 5721
+Pos-el: elisabeth_wsm@yahoo.com
+INFORMASI ARTIKEL
+
+ABSTRACT:
+
+Riwayat Artikel:
+Diterima : 28 Juni 2018
+Direvisi : 13 November 2018
+Disetujui : 19 November 2018
+
+The purpose of this study was to know the impact of the
+utilization of android applications in learning mathematics
+in SMPN-1 Sragen. This classroom action research was
+conducted in two cycles,each cycle beginned with planning,
+action, observation, and reflection. The data in this study
+was the assessment of the learning process obtained from
+learners in the activity and assessment at the end of the
+cycle. Then, the data was analyzed to know whether the
+utilization of android application in teaching space has been
+successful or not. There was an increase in students'
+learning achievement in understanding mathematics after
+having utilized the android applications. Before the action,
+only 18 students (56.25%) completed their learning and
+increased to be 22 students (68.75%) on the first cycle. In
+the second cycle, the number of students completed their
+learning was 31 students (96.87%). The use of android
+application for class IX students B SMPN-1 Sragen had
+improved the students’ learning achievement. Before the
+action, the average knowledge of students was 75.16 and
+their average skill was 70.63. In the first cycle, the average
+knowledge of students is 78.59 and their average skills is
+72.5. In the second cycle, of average knowledge 88.13
+average skills 86.88. The conclusion, the utilization of
+android application in teaching the space learning content
+improved the students learning achievement. Teachers are
+suggested to utililize the android application or other
+appropriate media in learning-teaching activities.
+
+Keywords:
+3D object, learning media,
+android apps
+Kata kunci:
+bangun ruang, media
+pembelajaran, aplikasi
+android
+
+K- JTP: Vol. 06, No.02/Desember 2018. 122
+
+ABSTRAK
+Fokus masalah yang menjadi pembahasan di dalam
+tulisan ini adalah dampak dari pemanfaatan aplikasi
+android dalam pembelajaran matematika tentang
+bangun ruang sisi lengkung di SMPN-1 Sragen.
+Tujuan penelitian ini adalah untuk mengetahui
+dampak dari pemanfaatan aplikasi android dalam
+pembelajaran matematika tentang bangun ruang sisi
+lengkung di SMPN-1 Sragen. Metode penelitian
+tindakan kelas ini dilaksanakan dengan dua siklus, di
+mana setiap siklus diawali dengan perencanaan,
+tindakan, observasi, dan refleksi. Data dalam
+penelitian ini berupa penilaian proses yang diperoleh
+dari peserta didik dalam beraktivitas dan penilaian
+pada akhir siklus. Kemudian, data dianalisis untuk
+memperoleh gambaran tentang berhasil-tidaknya
+pembelajaran yang telah dilakukan. Hasil penelitian
+menunjukkan ada peningkatan hasil belajar peserta
+didik dalam memahami bangun ruang sisi lengkung
+setelah belajar menggunakan aplikasi android.
+Sebelum tindakan, yang tuntas 18 peserta didik
+(56,25%), pada siklus pertama 22 peserta didik
+(68,75%). Pada siklus kedua, peserta didik yang
+tuntas belajarnya 31 orang (96,87%). Penggunaan
+aplikasi android pada peserta didik kelas IX B SMPN
+1 Sragen terbukti dapat meningkatkan hasil belajar
+peserta
+didik.
+Sebelum
+tindakan,
+rata-rata
+pengetahuan 75,16 dan rata-rata keterampilan 70,63.
+Pada siklus pertama, rata-rata pengetahuan
+meningkat menjadi 78,59 dan rata-rata keterampilan
+72,5. Kemudian, pada siklus kedua, rata-rata
+pengetahuan meningkat menjadi 88,13 dan rata-rata
+keterampilan meningkat menjadi 86,88. Simpulan
+dari penelitian ini adalah bahwa pemanfaatan
+aplikasi android pada materi bangun ruang
+meningkatkan hasil belajar peserta didik. Disarankan
+agar guru menggunakan aplikasi android atau media
+lain yang tepat dalam pembelajaran.
+
+K- JTP: Vol. 06, No.02/Desember 2018. 123
+
+PENDAHULUAN
+
+berkualitas. Menciptakan pembelajar-
+
+Latar belakang dari tulisan ini adalah
+
+an inovatif bisa dilakukan dengan
+
+pembelajaran
+
+cara
+
+matematika
+
+sebagai
+
+di
+
+antaranya
+
+memanfaatkan
+
+salah satu mata pelajaran di SMP
+
+aplikasi android pada materi bangun
+
+yang memiliki peran penting dalam
+
+ruang bagi kelas IX SMP. Artinya,
+
+memenuhi kebutuhan hidup peserta
+
+mengukur daya serap/kemampuan
+
+didik (Batubara, 2017: 13). Strategi
+
+serap ilmu masing-masing peserta
+
+pembelajaran dengan memanfaatkan
+
+didik. Contoh, sebagian peserta didik
+
+teknologi sangat diperlukan dalam
+
+ada
+
+menunjang
+
+menyerap ilmu dengan mengguna-
+
+terwujudnya
+
+seluruh
+
+yang
+
+berkemampuan
+
+kompetensi yang dimuat di dalam
+
+kan
+
+Kurikulum 2013.
+
+kemampuan
+
+Dalam hal ini,
+
+visual
+
+atau
+
+dalam
+
+mengandalkan
+
+penglihatan,
+
+auditori
+
+matematika merupakan salah satu
+
+atau kemampuan mendengar, dan
+
+ilmu yang memiliki peranan yang
+
+kinestetik.
+
+Hal
+
+tersebut
+
+harus
+
+cukup besar dalam perkembangan
+
+disesuaikan
+
+pula
+
+dengan
+
+upaya
+
+suatu bangsa khususnya perkem-
+
+penyeimbangan fungsi otak kiri dan
+
+bangan
+
+dan
+
+otak kanan yang akan mengakibatkan
+
+teknologi. Dengan alasan tersebut
+
+proses renovasi mental, di antaranya
+
+perlu
+
+ilmu
+
+pengetahuan
+
+adanya
+
+mengantisipasi
+
+upaya
+
+untuk
+
+membangun rasa percaya diri peserta
+
+tantangan
+
+masa
+
+didik.
+
+depan yang lebih rumit dan komplek,
+salah
+
+satunya
+
+Salah
+
+satu
+
+faktor
+
+yang
+
+rendahnya
+
+kualitas
+
+adalah
+
+dengan
+
+menyebabkan
+
+peningkatan
+
+perhatian
+
+terhadap
+
+pembelajaran adalah belum diman-
+
+pendidikan
+
+dan
+
+pembelajaran
+
+faatkannya berbagai sumber belajar
+
+matematika, sehingga mampu mem-
+
+secara maksimal, baik oleh guru
+
+bekali peserta didik dalam penerapan
+
+maupun peserta didik. Pada kenya-
+
+matematika
+
+taannya, guru jarang memanfaatkan
+
+dan
+
+keterampilan
+
+matematika untuk menjawab perma-
+
+android
+
+salahan yang ada (Dewi, 2014: 2).
+
+mereka memahami bahwa strategi
+
+Ilmu pengetahuan dan teknologi
+
+walaupun
+
+sebenarnya
+
+pembelajaran
+
+seperti
+
+ini
+
+berkembang sangat pesat termasuk
+
+membantu
+
+tingkat
+
+penguasaan
+
+dalam perancangan sebuah bahan
+
+peserta
+
+belajar bagi peserta didik SMPN-1
+
+pelajaran. Android merupakan salah
+
+Sragen sehingga menuntut adanya
+
+satu
+
+suatu perkembangan dan pening-
+
+digunakan
+
+katan
+
+sumber
+
+belajar
+
+didik
+
+sistem
+
+sangat
+
+terhadap
+operasi
+
+pada
+
+materi
+
+yang
+
+media
+
+bisa
+
+nirkabel.
+
+yang
+
+K- JTP: Vol. 06, No.02/Desember 2018. 124
+
+Dalam hal ini media yang digunakan
+
+melakukan
+
+adalah handphone (Ependi, 2015: 110).
+
+maka terjadi dua aktivitas, yaitu
+
+Dewasa
+dengan
+
+ini,
+
+android
+
+pembelajaran
+sudah
+
+banyak
+
+aktivitas
+
+aktivitas
+mengajar
+
+belajar.
+
+pembelajaran,
+dan
+
+Aktivitas
+
+aktivitas
+mengajar
+
+digunakan seperti halnya penelitian
+
+menyangkut peranan seorang guru
+
+Juraman (2014: 1) yang menyimpul-
+
+dalam konteks mengupayakan ter-
+
+kan bahwa penggunaan
+
+aplikasi
+
+ciptanya jalinan komunikasi harmonis
+
+android oleh peserta didik sangat
+
+antara mengajar itu sendiri dengan
+
+bermanfaat dalam pembelajaran dan
+
+pembelajar.
+
+cukup
+
+menyangkut aktivitas peserta didik
+
+efektif
+
+untuk
+
+mengakses
+
+Aktivitas
+
+belajar
+
+informasi edukasi. Oleh karena itu,
+
+untuk
+
+memperoleh
+
+hasil
+
+belajar
+
+pemanfaatan
+
+android
+
+berupa
+
+perpaduan
+
+antara
+
+aspek
+
+mempermudah
+
+kognitif,
+
+afektif,
+
+diharapkan
+
+aplikasi
+akan
+
+dan
+
+psikomotor
+
+peserta didik menerima dan mema-
+
+secara proporsional. Aktivitas siswa
+
+hami materi pelajaran di satu sisi,
+
+yang
+
+serta di sisi lain juga mempermudah
+
+mengerjakan tugas, berdiskusi, dan
+
+guru
+
+mengumpulkan data (Widodo, 2013:
+
+menyampaikan
+
+materi
+
+pelajaran.
+
+dapat
+
+diamati
+
+misalnya
+
+32).
+
+Tujuan pembelajaran akan lebih
+
+Rumusan masalah yang menjadi
+
+mudah dicapai dan diharapkan juga
+
+fokus pembahasan di dalam tulisan
+
+akan dapat meningkatkan prestasi
+
+ini adalah, bagaimana dampak dari
+
+belajar peserta didik. Pemanfaatan
+
+pemanfaatan aplikasi android dalam
+
+android ini juga menarik perhatian
+
+pembelajaran
+
+peserta didik untuk belajar. Peman-
+
+bangun ruang
+
+faatan aplikasi android di kelas dapat
+
+SMPN-1 Sragen? Tujuan penelitian ini
+
+membantu peserta didik yang kesulit-
+
+adalah untuk mengetahui dampak
+
+an memahami materi pelajaran yang
+
+dari pemanfaatan aplikasi android
+
+dinilai sulit selama ini (Marlinda,
+
+dalam
+
+2015: 396).
+
+tentang bangun ruang sisi lengkung
+
+Kemudahan belajar diberikan
+melalui kombinasi antara pembelajaran
+
+individual
+
+personal
+
+dengan
+
+matematika
+
+tentang
+
+sisi lengkung di
+
+pembelajaran
+
+matematika
+
+di SMPN-1 Sragen.
+Android adalah sebuah sistem
+operasi
+
+untuk
+
+perangkat
+
+mobile
+
+pengalaman (Sulaeman, 2015: 74).
+
+berbasis Linux yang dirancang untuk
+
+Seorang guru harus mengenal sifat-
+
+perangkat
+
+sifat
+
+khas
+
+pembelajaran.
+
+bergerak layar
+
+sentuh
+
+dari
+
+setiap
+
+media
+
+seperti telepon pintar dan komputer
+
+Bila
+
+seorang
+
+guru
+
+tablet (Murtiwiyati, 2013: 2). Melalui
+
+K- JTP: Vol. 06, No.02/Desember 2018. 125
+
+mobile-learning peserta didik dapat
+
+penyiapan
+
+mengakses materi pembelajaran dan
+
+(Mamentu, 2013: 58).
+
+informasi dari mana saja dan kapan
+
+Perangkat
+
+saja.
+
+Peserta
+
+menunggu
+
+didik
+
+waktu
+
+pembelajaran
+pembelajaran
+
+tidak
+
+perlu
+
+disahkan
+
+oleh
+
+kepala
+
+sekolah,
+
+tertentu
+
+untuk
+
+dimonitor
+
+dan
+
+dievaluasi
+
+untuk
+
+belajar atau pergi ke tempat tertentu
+
+wujud
+
+untuk
+
+belajar.
+
+media
+
+pelaksanaanya
+
+berdasarkan
+
+Mereka
+
+dapat
+
+standar ketuntasan minimal peserta
+
+menggunakan
+
+teknologi
+
+mobile-
+
+didik
+
+wireless
+
+untuk
+
+keperluan
+
+belajar
+
+kelulusan
+
+mereka,
+
+baik
+
+formal
+
+maupun
+
+pengembangan proses pembelajaran
+
+informal. Jumlah perangkat mobile
+
+berkelanjutan (Mamentu, 2013: 58).
+
+lebih
+
+Personal
+
+Perencanaan pembelajaran dirancang
+
+Computer (PC). Perangkat mobile lebih
+
+dalam bentuk Rencana Pelaksanaan
+
+mudah dioperasikan daripada PC.
+
+Pembelajaran (RPP) yang mengacu
+
+Perangkat mobile dapat digunakan
+
+pada
+
+sebagai media belajar (Yuntoto, 2015:
+
+pembelajaran meliputi penyusunan
+
+8).
+
+dan
+
+rencana pelaksanaan pembelajaran
+
+mobile
+
+dan penyiapan media dan sumber
+
+banyak
+
+daripada
+
+Masyarakat yang memiliki
+
+menggunakan
+
+perangkat
+
+dan
+
+standar
+
+serta
+
+kompetensi
+
+untuk
+
+standar
+
+isi.
+
+perbaikan
+
+Perencanaan
+
+semakin banyak. Hal ini membuka
+
+belajar,
+
+perangkat
+
+peluang
+
+penggunaan
+
+perangkat
+
+pembelajaran, dan skenario pembe-
+
+teknologi
+
+bergerak
+
+dalam dunia
+
+lajaran. Penyusunan RPP disesuaikan
+
+pendidikan. Penggunaan perangkat
+
+dengan
+
+bergerak
+
+yang digunakan, misalnya menginte-
+
+(mobile-device)
+
+dalam
+
+pendekatan
+
+penilaian
+
+pembelajaran
+
+proses pembelajaran kemudian dike-
+
+grasikan
+
+android
+
+nal
+
+lajaran.
+
+Penyusunan
+
+sebagai
+
+mobile-learning (Amin,
+
+dalam
+
+pembeprogram
+
+2015: 13). Pengguna internet dan juga
+
+pembelajaran
+
+gadget-mobile
+
+pelaksanaan pengajaran berjalan lebih
+
+kalangan
+
+didominasi
+
+usia
+
+muda,
+
+oleh
+sehingga
+
+bertujuan
+
+agar
+
+lancar dan hasilnya lebih baik.
+
+memungkinkan untuk memanfaatan
+
+Penelitian sebelumnya pernah
+
+piranti mobile untuk pembelajaran
+
+dilakukan oleh Juraman (2014: 14)
+
+(Sulisworo, 2014: 57). Sebelum guru
+
+yang
+
+melaksanakan kegiatan pembelajaran
+
+pemanfaatan smartphone android oleh
+
+dengan android tentu memerlukan
+
+peserta
+
+persiapan. Pada tahap perencanaan
+
+informasi
+
+adalah
+
+sebagian besar peserta didik sudah
+
+penyusunan
+
+RPP,
+
+pengembangan bahan belajar, dan
+
+menyatakan
+didik
+
+dalam
+
+edukasi
+
+memanfaatkan
+
+bahwa
+mengakses
+
+efektif
+
+android
+
+karena
+untuk
+
+K- JTP: Vol. 06, No.02/Desember 2018. 126
+
+mengakses informasi edukasi dan
+
+dipakai untuk mengatasi masalah
+
+banyak mendukung aktivitas peserta
+
+pembelajaran adalah dengan aplikasi
+
+didik
+
+dalam
+
+yang
+
+(2016:
+
+58) juga
+
+pembelajaran.
+telah
+
+Irfan
+
+melakukan
+
+dipasang
+
+pada
+
+smartphone
+
+android (Prasetia, 2017: 219).
+
+penelitian tentang manfaat gadget
+dalam
+
+pembelajaran.
+
+Pemanfaatan
+
+gadget dalam belajar oleh peserta
+
+METODE PENELITIAN
+Penelitian
+ini
+menggunakan
+
+didik sudah efektif dalam mencari
+
+Penelitian Tindakan Kelas (PTK) yang
+
+bahan pembelajaran, latihan-latihan
+
+merupakan
+
+soal dan pembahasan.
+
+bersifat reflektif oleh pelaku tindakan.
+
+Kehadiran mobile-learning yang
+menggunakan
+
+media
+
+elektronik
+
+bentuk
+
+kajian
+
+yang
+
+Penelitian ini memakai penelitian
+tindakan karena penelitian tindakan
+
+telepon pintar ini ditujukan sebagai
+
+kelas
+
+suplemen pembelajaran yang ada dan
+
+lebih sesuai dengan tugas pokok dan
+
+memberikan
+
+kepada
+
+fungsi guru, meningkatkan kualitas
+
+peserta didik untuk belajar sendiri
+
+pembelajaran, meningkatkan kualitas
+
+mengenai
+
+peserta didik, serta mencapai tujuan
+
+kesempatan
+materi
+
+yang
+
+kurang
+
+dikuasai di mana pun dan kapan pun.
+
+merupakan
+
+penelitian
+
+yang
+
+pembelajaran atau pendidikan.
+
+Hal ini tentu dapat memberikan
+
+Subyek penelitian ini adalah
+
+pengalaman yang berbeda dalam
+
+peserta didik kelas IX B semester 1
+
+proses
+
+SMPN-1
+
+pembelajaran
+
+bagi peserta
+
+Sragen
+
+tahun
+
+pelajaran
+
+didik (Iqbal, 2016: 21). Di masa yang
+
+2017/2018. Jumlah peserta didik yang
+
+akan datang, pengguna android akan
+
+berperanserta dalam PTK ini 32 orang
+
+semakin
+
+terdiri dari 20 perempuan dan 12 laki-
+
+bertambah
+
+cepat
+
+setiap
+
+laki. Obyek penelitian
+
+harinya di seluruh dunia.
+Kalangan pengajar dan peserta
+didik
+
+semakin
+
+butuh
+
+informasi
+
+dengan
+
+cepat
+
+untuk
+
+menunjang
+
+peningkatan
+
+ini
+
+adalah
+
+kualitas pembelajaran
+
+matematika dengan topik bangun
+ruang
+
+sisi
+
+lengkung
+
+dengan
+
+proses belajar mengajar di sekolah
+
+menggunakan model pembelajaran
+
+maupun di kampus. Kini peserta
+
+aplikasi
+
+didik tidak lagi hanya mendengar
+
+dilaksanakan
+
+informasi yang disampaikan
+
+Agustus 2017.
+
+dari
+
+android.
+pada
+
+Penelitian
+
+ini
+
+bulan
+
+Juli-
+
+Instrumen pengumpulan data
+
+gurunya, tetapi peserta didik dapat
+dengan mudah mendapatkan infor-
+
+yang
+
+digunakan
+
+masi hasil penelitian terbaru. Salah
+
+pengamatan,
+
+satu media pembelajaran yang sering
+
+lapangan. Yang perlu dikemukakan
+
+tes,
+
+adalah
+
+lembar
+
+dan catatan
+
+K- JTP: Vol. 06, No.02/Desember 2018. 127
+
+adalah uraian tentang bagaimana
+
+didik
+
+pelaksanaan atau implementasi dari
+
+kegiatan pembelajaran.
+
+masing-masing jenis instrumen yang
+
+selama
+Teknik
+
+berlangsungnya
+
+analisis
+
+data
+
+yang
+
+ditentukan. Dalam observasi, peneliti
+
+digunakan adalah analisis deskriptif
+
+lebih banyak menggunakan salah
+
+komparatif, penyajian data, penarikan
+
+satu dari panca inderanya yaitu
+
+simpulan, serta verifikasi refleksi.
+
+indera
+
+penglihatan.
+
+Analisis
+
+deskriptif
+
+observasi
+
+akan
+
+lebih
+
+digunakan
+
+karena hasil penilaian
+
+informasi
+
+yang
+
+hendak
+
+prestasi
+
+belajar
+
+Instrumen
+efektif
+
+jika
+
+diambil
+
+komparatif
+
+peserta
+
+didik
+
+berupa kondisi atau fakta alami,
+
+dibandingkan antara kondisi awal,
+
+tingkah
+
+laku
+
+dan
+
+hasil
+
+kerja
+
+siklus pertama, dan siklus kedua.
+
+situasi
+
+alami.
+
+Setelah
+
+responden
+
+dalam
+
+Sebaliknya,
+
+instrumen
+
+mempunyai
+
+keterbatasan
+
+menggali
+
+informasi
+
+dibandingkan,
+
+dapatlah
+
+observasi
+
+diketahui seberapa besar kenaikan
+
+dalam
+
+atau penurunan hasil belajar peserta
+
+berupa
+
+didik.
+
+yang
+
+pendapat atau persepsi dari subyek
+yang diteliti.
+
+Penyajian data setelah direduksi
+dan dikelompokkan dalam berbagai
+
+Instrumen
+
+tes
+
+menggunakan
+
+pola dideskripsikan dalam bentuk
+
+yang sudah ada dan baku dengan
+
+kata-kata untuk melihat gambaran
+
+tujuan
+
+mengetahui
+
+keseluruhan atau bagian tertentu.
+
+kemampuan peserta didik sehingga
+
+Penyajian data ini ditulis dalam
+
+peneliti
+
+paparan data.
+
+untuk
+dapat
+
+merencanakan
+
+tindakan yang akan diambil dalam
+
+Adapun tes hasil belajar peserta
+
+memperbaiki proses pembelajaran.
+
+didik
+
+Pemberian
+
+ketuntasan
+
+tindakan
+
+dilakukan
+
+melalui dua siklus
+
+dan
+
+evaluasi
+
+dilakukan
+
+siklus
+
+untuk
+
+di akhir
+
+diolah
+
+untuk
+
+dengan
+
+mengukur
+
+menggunakan
+
+rumus ketuntasan belajar. Kegiatan
+pembelajaran
+
+dikatakan
+
+mengetahui hasil belajar peserta didik
+
+apabila
+
+pada setiap siklus. Tes adalah suatu
+
+individual telah memperolah nilai 75
+
+alat pengumpul informasi, bersifat
+
+atau
+
+lebih resmi karena penuh dengan
+
+dikatakan tuntas belajar jika lebih dari
+
+batasan-batasan.
+
+80% peserta didik mendapat nilai di
+
+Catatan
+untuk
+
+lapangan
+
+digunakan
+
+mendokumentasikan
+
+peserta
+
+lebih,
+
+dan
+
+didik
+
+berhasil
+
+secara
+
+secara
+klasikal
+
+atas 75. Di samping itu, dilakukan
+
+secara
+
+juga metode analisis deskriptif yang
+
+keseluruhan kualitas pembelajaran,
+
+merupakan pemaparan dari hasil
+
+aktivitas guru, dan aktivitas peserta
+
+penerapan
+
+pembelajaran
+
+dengan
+
+K- JTP: Vol. 06, No.02/Desember 2018. 128
+
+aplikasi android. Rumus rata-rata
+
+kegiatan tindakan ini akan diuraikan
+
+digunakan
+
+lebih lanjut pada bagian berikut ini.
+
+untuk
+
+mengetahui
+
+dan
+
+peningkatan
+
+Pendahuluan. Kegiatan-kegiatan
+
+pemahaman peserta didik terhadap
+
+yang akan dilakukan pada bagian
+
+materi bangun ruang sisi lengkung
+
+pendahuluan
+
+antara siklus satu dengan siklus
+
+menyiapkan
+
+lainnya.
+
+psikis dan fisik untuk mengikuti
+
+perkembangan
+
+adalah:
+peserta
+
+(1)
+
+guru
+
+didik
+
+secara
+
+Menyimpulkan dan memverifi-
+
+keseluruhan proses pembelajaran, (2)
+
+kasi. Dari kegiatan reduksi dilakukan
+
+melalui kegiatan tanya jawab, peserta
+
+penyimpulan akhir yang selanjutnya
+
+didik
+
+diikuti dengan kegiatan verifikasi
+
+kembali oleh guru tentang contoh-
+
+atau
+
+contoh bangun ruang sisi lengkung
+
+pengujian
+
+terhadap
+
+temuan
+
+ilmiah.
+Indikator kinerja dalam peneliti-
+
+diingatkan
+
+dalam
+
+kehidupan
+
+peserta
+
+didik
+
+atau
+
+dijelaskan
+
+sehari-hari,
+
+mengamati
+
+(3)
+
+contoh
+
+an tindakan kelas ini ditetapkan oleh
+
+gambar diagram lingkaran, (4) guru
+
+SMPN-1 Sragen, yaitu: (1) kualitas
+
+mengajukan pertanyaan, “Dapatkah
+
+pembelajaran mencapai kriteria baik,
+
+kalian menyebutkan contoh bangun
+
+(2)
+
+ruang sisi lengkung dalam kehidupan
+
+nilai rata-rata pengetahuan dan
+
+keterampilan 75, dan (3) persentase
+ketuntasan belajar  80%.
+
+sehari-hari?”.
+Kegiatan
+
+berikutnya
+
+yang
+
+Penelitian ini dilandasi prinsip
+
+dilakukan adalah (5) peserta didik
+
+kolaboratif dan kooperatif sehingga
+
+diberi permasalahan yang berkaitan
+
+penyiapan
+
+dipandang
+
+dengan bangun ruang sisi lengkung
+
+perlu dilakukan pada kegiatan awal.
+
+dalam kehidupan sehari-hari yang
+
+Melakukan diskusi dengan teman
+
+terkait dengan materi pelajaran yang
+
+sejawat guru matematika tentang
+
+sedang
+
+desain atau strategi pembelajaran
+
+kamu berapa luas selimut tabung?”,
+
+pada
+
+sisi
+
+(6) guru menegaskan tujuan yang
+
+dengan
+
+akan dipelajari hari ini, dan (7) guru
+
+partisipan
+
+materi
+
+lengkung
+
+bangun
+
+yang
+
+ruang
+
+diikuti
+
+penyusunan rencana kegiatan.
+Serangkaian kegiatan tindakan
+
+dibahas,
+
+yaitu:
+
+”Tahukah
+
+menyampaikan cakupan materi.
+Kegiatan Inti.
+
+Tahap pertama
+
+yang akan dilakukan dapat dikelom-
+
+yang dilaksanakan pada kegiatan inti
+
+pokkan ke dalam: (1) Pendahuluan,
+
+adalah mengamati yaitu peserta didik
+
+(2)
+
+mengamati contoh bangun ruang sisi
+
+Kegiatan Inti, dan (3) Penutup.
+
+Selanjutnya,
+
+ketiga
+
+rangkaian
+
+lengkung dalam kehidupan seharihari yang ditampilkan guru.
+
+K- JTP: Vol. 06, No.02/Desember 2018. 129
+
+Tahap kedua adalah menanya di
+
+peserta didik tentang materi yang
+
+mana guru memberikan pertanyaan
+
+dipelajari,
+
+pancingan, sebagai contoh: ”Setelah
+
+mengerjakan latihan soal pada buku
+
+mengamati
+
+teks.
+
+bangun
+
+ruang
+
+yang
+
+disajikan, berapakah luas selimut
+tabung,
+
+dan
+
+Pada
+
+peserta
+
+tahap
+
+didik
+
+kelima
+
+yaitu
+
+langkah-
+
+mengkomunikasikan. Salah seorang
+
+langkah menentukan luas selimut
+
+peserta didik mempresentasikan hasil
+
+tabung?”. Peserta didik merumuskan
+
+diskusi/pekerjaan
+
+pertanyaan terkait dengan perma-
+
+didik
+
+salahan yang diajukan guru dan cara
+
+tanggapan
+
+atas
+
+presentasi
+
+apa saja yang bisa digunakan untuk
+
+disajikan,
+
+baik
+
+dalam
+
+menghitung luas selimut tabung.
+
+melakukan konfirmasi atau klarifikasi
+
+Tahap
+
+bagaimana
+
+maka
+
+adalah
+
+lainnya
+
+Peserta
+
+memberikan
+yang
+
+bertanya,
+
+tahap
+
+maupun
+
+melengkapi
+
+informasi
+
+mengumpulkan data dan informasi
+
+ataupun
+
+tanggapan
+
+lainnya;
+
+untuk menjawab semua pertanyaan
+
+sedangkan guru memberi umpan
+
+yang diajukan. Peserta didik diminta
+
+balik atau konfirmasi.
+
+untuk
+
+ketiga
+
+yang
+
+mereka.
+
+mengumpulkan
+
+informasi
+
+dengan
+
+data
+
+dan
+
+menggunakan
+
+Kegiatan
+
+penutup
+
+dilakukan
+
+dengan cara peserta didik bersama-
+
+bantuan buku peserta didik yang
+
+sama
+
+diunduh dari Portal Rumah Belajar
+
+kesimpulan
+
+melalui fitur Buku Sekolah Elektronik
+
+langkah menyajikan data ke dalam
+
+di laman https://belajar.kemdikbud.
+
+bentuk diagram lingkaran. Setiap
+
+go.id serta aplikasi android bangun
+
+kelompok
+
+datar dan ruang. Peserta didik secara
+
+penghargaan
+
+berkelompok
+
+aktivitas kelompok. Untuk menge-
+
+saling
+
+bertukar
+
+dengan
+
+guru
+
+membuat
+
+mengenai
+
+langkah-
+
+diberikan
+
+perolehan
+
+berkaitan
+
+pendapat tentang alternatif penye-
+
+tahui
+
+lesaian permasalahan yang ada.
+
+secara individu guru memberikan
+
+Tahap keempat adalah tahap
+mengasosiasi/menganalisis data atau
+
+pemahaman
+
+dengan
+
+peserta
+
+didik
+
+tugas mandiri (PR) yang berkaitan
+dengan materi yang baru dipelajari.
+
+informasi di mana peserta didik
+menyimpulkan
+
+langkah-langkah
+
+HASIL DAN PEMBAHASAN
+
+untuk menentukan cara mencari luas
+
+Hasil dan pembahasan penelitian
+
+selimut bangun ruang sisi lengkung,
+
+yang dilakukan pada tiap langkah
+
+dan
+
+hasil
+
+(sebelum tindakan, siklus pertama,
+
+penyelesaian permasalahan. Untuk
+
+dan siklus kedua) dapat dikemuka-
+
+mengetahui
+
+kan berikut ini.
+
+kemudian
+
+menuliskan
+
+tingkat
+
+pemahaman
+
+K- JTP: Vol. 06, No.02/Desember 2018. 130
+
+Sebelum Tindakan
+
+Siklus Pertama
+
+Sebelum tindakan, guru mem-
+
+siklus
+
+pertama,
+
+pembelajaran
+
+diawali
+
+dengan
+
+heterogen. Peserta didik melakukan
+
+melakukan
+
+motivasi
+
+dengan
+
+diskusi.
+
+menggunakan
+
+aplikasi
+
+android.
+
+disampaikan
+
+dengan
+
+bentuk
+
+kelompok
+Hasil
+
+yang
+
+bersifat
+
+refleksi
+
+sebelum
+
+Pada
+
+dilakukan tindakan, selama kegiatan
+
+Penjelasan
+
+pembelajaran berlangsung, sebagian
+
+bantuan papan tulis dan dilanjutkan
+
+besar peserta didik cenderung kurang
+
+dengan
+
+berminat
+
+pembelajaran. Pada siklus kedua,
+
+menyelesaiakan
+
+soal-soal
+
+pengamatan
+
+kualitas
+
+latihan. Oleh karena itu, guru harus
+
+pembelajaran
+
+selalu mengingatkan peserta didik
+
+melakukan motivasi dengan menggu-
+
+agar mereka mengerjakan soal-soal
+
+nakan aplikasi android, penjelasan
+
+latihan. Di samping kurang berminat
+
+dilakukan
+
+mengerjakan soal-soal latihan, peserta
+
+powerpoint, dan dilanjutkan dengan
+
+didik juga kurang memperhatikan
+
+pengamatan kualitas pembelajaran.
+
+penjelasan guru, kurang bersemangat
+
+diawali
+
+dengan
+
+dengan
+
+Hasil
+
+bantuan
+
+observasi
+
+pascasiklus
+
+dan cenderung pasif, tidak aktif
+
+pertama, tampaklah bahwa peserta
+
+dalam mengemukakan pendapat atau
+
+didik sudah mulai tampak aktif
+
+bertanya dalam mengikuti proses
+
+dalam
+
+pembelajaran. Minat untuk bertanya
+
+walaupun belum seluruhnya. Peserta
+
+juga kurang karena peserta didik
+
+didik lebih aktif dalam bertanya
+
+cenderung pasif pada waktu guru
+
+apabila mereka merasa tidak bisa
+
+memberikan pertanyaan atau saat
+
+mengerjakan soal latihan.
+
+guru memberikan tugas.
+
+didik lebih aktif dalam menyelesaikan
+
+Minat
+
+belajar
+
+dan
+
+bertanya
+
+kegiatan
+
+pembelajaran
+
+Peserta
+
+soal-soal tentang bilangan berpang-
+
+peserta didik dalam pembelajaran
+
+kat.
+
+kurang, ditandai dengan banyaknya
+
+cenderung memperlihatkan pening-
+
+peserta didik yang cenderung pasif
+
+katan
+
+dan kurang berminat untuk
+
+antusias
+
+segera
+
+Peserta
+
+didik
+
+kinerjanya.
+
+yang
+Mereka
+
+menyelesaikan
+
+malas
+lebih
+
+soal-soal
+
+menyelesaikan masalah sewaktu guru
+
+tentang bangun ruang sisi lengkung.
+
+memberikan pertanyaan atau tugas
+
+Selama kegiatan pembelajaran, mulai
+
+selama
+
+dari
+
+pembelajaran
+
+berlangsung.
+
+awal
+
+sampai
+
+dengan
+
+akhir
+
+Hasil belajar rata-rata pengetahuan
+
+kegiatan, peserta didik tampak aktif
+
+peserta didik adalah 75,16. Rata-rata
+
+dan komunikatif.
+
+keterampilan adalah 70,63. Persentase
+
+Hasil
+
+ketuntasan 18 peserta didik (56,25%).
+
+refleksi
+
+pada
+
+pertama dapat diketahui
+
+siklus
+bahwa
+
+K- JTP: Vol. 06, No.02/Desember 2018. 131
+
+kelompok peserta didik masih sama
+
+Sebagian besar peserta didik sangat
+
+dengan sebelum dilakukan tindakan.
+
+memahami apa yang harus mereka
+
+Dalam kegiatan pembelajaran, peserta
+
+lakukan. Peserta didik berani meng-
+
+didik sudah mulai tampak aktif
+
+ungkapkan pendapat dan bertanya.
+
+walaupun belum seluruhnya. Guru
+
+Hasil refleksi pada siklus kedua
+
+menjelaskan
+
+tugas
+
+yang
+
+harus
+
+dapat diketahui bahwa kelompok
+
+dikerjakan
+
+peserta
+
+didik
+
+secara
+
+peserta
+
+kelompok,
+
+yaitu
+
+menanya,
+
+mengamati,
+
+mengumpulkan
+
+data,
+
+didik
+
+masih
+
+sama
+
+yaitu
+
+kelompok yang bersifat heterogen.
+Selama kegiatan pembelajaran, mulai
+
+mengeksplorasi, mengasosiasi, dan
+
+dari
+
+berdiskusi menentukan materi, serta
+
+kegiatan, peserta didik tampak aktif
+
+melaporkan hasil diskusi. Peserta
+
+dan
+
+didik
+
+peserta didik telah memahami apa
+
+lebih
+
+lesaikan
+
+aktif dalam
+
+soal-soal
+
+menye-
+
+latihan.
+
+awal
+
+sampai
+
+komunikatif
+
+dengan
+karena
+
+akhir
+setiap
+
+Ada
+
+yang harus dikerjakan dalam model
+
+kecenderungan peningkatan kinerja
+
+pembelajaran aplikasi android. Untuk
+
+di kalangan peserta didik yang malas.
+
+memperoleh
+
+kesimpulan
+
+terhadap
+
+Hasil belajar rata-rata penge-
+
+materi pembelajaran yang dibahas,
+
+tahuan 78,59 dan keterampilan 72,5.
+
+peserta didik berdiskusi menentukan
+
+Persentase
+
+peserta
+
+materi notasi ilmiah dan bentuk akar,
+
+rata-rata
+
+serta melaporkan hasil diskusi.
+
+ketuntasan
+
+22
+
+didik (68,75%). Kenaikan
+
+pengetahuan dari siklus awal ke
+
+Hasil
+
+belajar
+
+rata-rata
+
+siklus pertama adalah 3,43 di mana
+
+pengetahuan 88,13 dan keterampilan
+
+rata-rata keterampilan naik 1,87 dan
+
+86,88 dengan persentase ketuntasan
+
+ketuntasan naik 12,5%.
+
+31 siswa (96,88%). Kenaikan rata-rata
+
+Siklus Kedua
+
+pengetahuan dari siklus pertama ke
+
+Pada siklus kedua, tiap peserta
+didik telah memahami apa yang
+harus
+
+dikerjakan
+
+dalam
+
+model
+
+pembelajaran aplikasi android. Hasil
+
+siklus
+
+kedua
+
+9,54.
+
+Rata-rata
+
+keterampilan juga naik sebesar 14,38
+dan ketuntasan naik sebesar 28,13%.
+Berdasarkan pengamatan, maka
+
+kedua
+
+dapat dibuat diagram rata-rata hasil
+
+diperoleh gambaran suasana kelas
+
+belajar peserta didik dari siklus awal
+
+observasi
+
+pada
+
+siklus
+
+yang terkendali. Pada saat kegiatan
+pembelajaran,
+melakukan
+
+peserta
+
+kegiatan
+
+menggunakan
+
+didik
+
+aktif
+
+pembelajaran
+
+aplikasi
+
+sampai dengan siklus kedua pada
+gambar 1.
+
+android.
+
+K- JTP: Vol. 06, No.02/Desember 2018. 132
+
+tuntas 18 peserta didik (56,25%). Pada
+
+Hasil Belajar
+88.13
+
+100
+80
+
+75.16
+
+78.59
+70.63
+
+siklus pertama, peserta didik yang
+86.88
+
+72.5
+
+tuntas sebanyak 22 peserta didik
+
+60
+
+(68,75%), dan pada siklus kedua
+
+40
+
+peserta didik yang tuntas sebanyak 31
+
+20
+
+peserta didik (96,875%). Dilihat dari
+
+0
+sebelum
+tindakan
+
+siklus pertama siklus kedua
+
+ketuntasan belajar dari siklus pertama
+sampai dengan siklus kedua terdapat
+
+pengetahuan
+
+peningkatan.
+
+keterampilan
+
+Kualitas pembelajaran mening-
+
+Gambar 1: Rata-Rata Hasil Belajar
+
+kat dari siklus awal hingga siklus
+Sebelum
+
+dapat
+
+kedua ditandai dengan: (1) keteram-
+
+bahwa rata-rata penge-
+
+pilan peserta didik bertanya sudah
+
+tahuan 75,16 dan keterampilan 70,63.
+
+baik, (2) guru baik dalam memberi
+
+Pada siklus pertama dapat diketahui
+
+penguatan,
+
+rata-rata
+
+dan
+
+mengadakan variasi, (4) guru mampu
+
+keterampilan 72,5. Pada siklus kedua,
+
+menjelaskan, (5) guru baik dalam
+
+rata-rata
+
+membuka dan menutup pelajaran, (6)
+
+diketahui
+
+tindakan
+
+pengetahuan
+pengetahuan
+
+78,59
+88,13
+
+dan
+
+(3)
+
+guru baik dalam
+
+keterampilan 86,88. Dari siklus awal
+
+guru
+
+ke siklus pertama ada kenaikan rata-
+
+diskusi kelompok kecil, dan (7) guru
+
+rata pengetahuan sebesar 3,43
+
+baik dalam mengelola kelas, baik
+
+dan
+
+baik
+
+dalam
+
+keterampilan sebesar 1,87. Dari siklus
+
+dalam
+
+pertama ke siklus kedua,
+
+maupun perorangan.
+
+kenaikan
+
+mengajar
+
+membimbing
+
+kelompok
+
+kecil
+
+rata-rata pengetahuan sebesar 9,54
+SIMPULAN
+
+dan keterampilan 14,38.
+
+Ketuntasan Belajar
+100
+80
+60
+40
+20
+0
+
+96.875
+56.25
+
+68.75
+
+Penggunaan aplikasi android terbukti
+dapat memberikan dampak positif
+dalam pembelajaran yaitu meningkatkan
+
+kualitas
+
+pembelajaran
+
+mata
+
+pelajaran matematika tentang topik
+sebelum
+tindakan
+
+siklus Pertama Siklus Kedua
+
+Gambar 2: Persentase Ketuntasan Belajar
+
+Dilihat dari persentase ketuntasan belajar, sebelum tindakan yang
+
+bangun ruang sisi lengkung di kelas
+IXB SMPN-1 Sragen. Dilihat dari
+ketuntasan belajar sebelum tindakan
+peserta didik yang tuntas belajarnya
+sebanyak 18 anak (56,25%),
+
+pada
+
+siklus pertama, peserta didik yang
+
+K- JTP: Vol. 06, No.02/Desember 2018. 133
+
+tuntas belajarnya sebanyak 31 anak
+
+pertama, rata-rata capaian nilai yang
+
+(96,875%). Dilihat dari ketuntasan
+
+berupa pengetahuan 78,59 dan rata-
+
+belajar dari sebelum tindakan sampai
+
+rata
+
+dengan
+
+keterampilan 72,5. Kemudian, pada
+
+siklus
+
+kedua
+
+terdapat
+
+peningkatan.
+Dari
+
+capaian
+
+nilai
+
+yang
+
+berupa
+
+siklus kedua, rata-rata capaian nilai
+
+siklus
+
+awal
+
+ke
+
+siklus
+
+yang berupa pengetahuan 88,13 dan
+
+pertama, ada kenaikan ketuntasan
+
+rata-rata capaian nilai yang berupa
+
+belajar
+
+keterampilan 86,88.
+
+sebesar 12,50%. Demikian
+
+juga halnya dari siklus pertama ke
+siklus
+
+kedua,
+
+ada
+
+kenaikan
+
+Dari
+pertama
+
+siklus
+ada
+
+awal
+
+ke
+
+kenaikan
+
+rata-rata
+
+ketuntasan belajar sebesar 28,13%.
+
+pengetahuan
+
+Kualitas pembelajaran meningkat dari
+
+kenaikan
+
+sebelum tindakan sampai dengan
+
+sebesar 1,87. Dari siklus pertama ke
+
+siklus kedua yang ditandai dengan;
+
+siklus kedua ada kenaikan rata-rata
+
+(1)
+
+didik
+
+pengetahuan
+
+guru
+
+kenaikan
+
+keterampilan
+
+bertanya
+
+sudah
+
+peserta
+baik,
+
+(2)
+
+memberi penguatan sudah baik, (3)
+guru
+
+sudah
+
+cukup
+
+baik
+
+dalam
+
+sebesar
+
+siklus
+
+3,43
+
+rata-rata
+
+dan
+
+keterampilan
+
+sebesar
+
+9,54
+
+rata-rata
+
+dan
+
+keterampilan
+
+sebesar 14,38.
+Saran-saran yang dapat diajukan
+
+mengadakan variasi pembelajaran, (4)
+
+adalah
+
+guru mampu menjelaskan, (5) guru
+
+diharapkan dapat: (1) mengembang-
+
+sudah cukup baik dalam membuka
+
+kan kemampuan bernalar melalui
+
+dan menutup pelajaran, (6) guru
+
+pemanfaatan
+
+aplikasi
+
+sudah
+
+melakukan
+
+eksplorasi
+
+cukup
+
+baik
+
+dalam
+
+bahwa
+
+peserta
+
+didik
+
+android,
+dan
+
+membimbing diskusi kelompok kecil,
+
+eksperimen sebagai alat pemecahan
+
+(7) guru sudah cukup baik dalam
+
+masalah melalui pola pikir dan model
+
+mengelola kelas, baik dalam mengajar
+
+matematika,
+
+kelompok kecil maupun perorangan.
+
+komunikasi melalui simbol, tabel,
+
+Penggunaan
+
+aplikasi
+
+android
+
+serta
+
+sebagai
+
+alat
+
+grafik, diagram dalam menjelaskan
+
+pada peserta didik kelas IX B SMPN-1
+
+gagasan,
+
+dan
+
+(2)
+
+Sragen, terbukti dapat meningkatkan
+
+penalaran
+
+pada
+
+pola,
+
+hasil belajar peserta didik. Sebelum
+
+melakukan manipulasi matematika
+
+tindakan dapat diketahui rata-rata
+
+dalam
+
+capaian
+
+nilai
+
+pengetahuan
+capaian
+
+keterampilan
+
+sifat
+
+atau
+
+generalisasi,
+
+yang
+
+berupa
+
+menyusun bukti, atau menjelaskan
+
+dan
+
+rata-rata
+
+gagasan dan pernyataan matematika
+
+yang
+
+berupa
+
+berdasarkan
+
+siklus
+
+memanfaatkan aplikasi android.
+
+75,16
+
+nilai
+
+membuat
+
+menggunakan
+
+70,63.
+
+Pada
+
+pengalaman
+
+belajar
+
+K- JTP: Vol. 06, No.02/Desember 2018. 134
+
+Di samping saran kepada peserta
+didik, para guru juga diharapkan
+dapat: (1) menunjukkan pemahaman
+konsep matematika yang dipelajari,
+menjelaskan keterkaitan antar konsep
+dan mengaplikasikan konsep atau
+algoritma,
+
+secara
+
+luwes,
+
+akurat,
+
+efisien, dan tepat dalam pemecahan
+masalah
+
+melalui
+
+memanfaatkan
+
+android, dan (2) merencanakan dan
+memanfaatkan
+dalam
+
+aplikasi
+
+kegiatan
+
+android
+
+belajar-mengajar
+
+secara teratur sehingga peserta didik
+mendapatkan
+dari
+
+pengalaman
+
+sumber
+
+belajar
+
+belajar
+yang
+
+berhubungan dengan materi di luar
+guru.
+Kepala sekolah atau pengelola
+sekolah diharapkan dapat memfasilitasi pemanfaatan aplikasi android
+untuk pembelajaran dan memberikan
+kesempatan
+
+kepada
+
+guru
+
+untuk
+
+mengikuti pelatihan memanfaatkan
+aplikasi android agar mereka dapat
+memanfaatkannya di dalam kegiatan
+pembelajaran.
+Pustaka Acuan
+Amin, AK. 2015. Pengembangan Media
+Pembelajaran Berbentuk Aplikasi
+Android Berbasis Weblog Untuk
+Meningkatkan
+Hasil
+Belajar
+Mahasiswa Pendidikan Matematika
+IKIP
+PGRI
+Bojonegoro,
+(Penelitian dilakukan pada
+Mata
+Kuliah
+Metode Statistika
+Tahun
+Ajaran 2014/2015). Jurnal Magistra
+
+No. 94 Th. XXVII Desember 2015
+ISSN 0215-9511.
+Batubara, HH. 2017. Pengembangan
+Media Pembelajaran Matematika
+berbasis Android untuk Peserta didik
+SD/MI. Jurnal Muallimuna. Vol. 3,
+No. 1, Oktober 2017.
+Dewi, NWDP. 2014. Pengembangan
+Perangkat Pembelajaran Matematika
+dengan
+Pendekatan
+Scientific
+Berorientasi Teknologi Informasi dan
+Komunikasi untuk Meningkatkan
+Kemampuan Pemecahan Masalah dan
+Penalaran Peserta didik, e-Journal
+Program Pascasarjana Universitas
+Pendidikan Ganesha Program
+Studi Matematika. Vol. 3 Tahun
+2014
+Ependi. 2015. Pemanfaatan Teknologi
+Berbasis Android sebagai Media
+Belajar Matematika Anak Sekolah
+Dasar. Jurnal Ilmiah Matrik Vol. 17
+No. 2, Agustus 2015, hal. 109 -122.
+Iqbal. 2016. Perancangan Media
+Pembelajaran Aplikasi Fisika pada
+Pokok Bahasan Fluida Statis untuk
+Peserta didik SMA Berbasiss Android.
+Jurnal Pendidikan Sains Indonesia,
+Vol. 04, No. 02, tahun 2016 hlm. 2024, http://jurnal.unsyiah. ac.id/jpsi
+Irfan, M. 2016. Pemanfaatan Gadget
+dalam Pembelajaran Matematika serta
+Pengaruhnya pada Mahasiswa yang
+Mengalami
+Math
+Anxiety
+di
+Universitas Sarjana Wiyata Taman
+Siswa pada Mata Kuliah Persamaan
+Diferensial. Jurnal Pembelajaran
+Matematika. Vol. III No. 1, Januari
+2016.
+Juraman, SR. 2014. Pemanfaatan
+Smartphone
+Android
+oleh
+
+K- JTP: Vol. 06, No.02/Desember 2018. 135
+
+Mahapeserta didik Ilmu Komunikasi
+dalam Mengakses Informasi Edukatif
+(Studi pada Mahapeserta didik Ilmu
+Komunikasi Fispol Unsrat). Journal
+Unsrat. Vol. III. No. 1. Tahun 2014.
+Mamentu. 2013. Manajemen Pendidikan
+dan Pengajar Pada SMA Negeri
+Remboken
+Kabupaten
+Minahasa.
+IOSR Journal of Research &
+Method in Education (IOSR-JRME)
+Vol. 3, Issue 5. Nov–Dec. 2013, PP
+58-66, e-ISSN: 2320–7388, p-ISSN:
+2320–737X.
+Marlinda, Linda. 2015. Pengaruh CD
+Education dan Animasi Berbasis
+Android
+Sebagai
+Alat
+Bantu
+Pembelajaran untuk Meningkatkan
+Minat Belajar Peserta Didik SMU
+IPA.
+Prosiding
+Simposium
+Nasional Inovasi dan Pembelajaran
+Sains 2015 (SNIPS 2015) tgl. 8 dan
+9 Juni 2015, Bandung, Indonesia.
+Murtiwiyati. 2013. Rancang Bangun
+Aplikasi
+Pembelajaran
+Budaya
+Indonesia untuk Anak Sekolah Dasar
+Berbasis Android. Jurnal Ilmiah
+Komputasi. Vol. 12, No. 2,
+Desember 2013, ISSN: 1412-9434.
+Prasetia, Eko Jhon Veri. 2017.
+Perancangan dan Pembuatan Aplikasi
+Media
+Pembelajaran
+Perakitan
+Komputer Berbasis Android. Jurnal
+Pendidikan
+dan
+Teknologi
+Informasi. Vol. 4, No. 2, Oktober
+2017, Hal. 219-229. ISSN ng: LPPM
+UPI YPTK Padang.
+Sulaeman.
+2015.
+Pengemabngan
+Kurikulum 2013 dalam Paradigma
+Pembelajaran Kontemporer. Jurnal
+Islamadina, Vol. XIV, No. 1, Maret
+2015. Hal. 71-95.
+
+Sulisworo, D. 2014. Pengembangan
+Sistem Manajemen Pembelajaran
+Kooperatif Secara Mobile Berbasis
+Sistem Operasi Android. Indonesian
+Journal
+of
+Curriculum
+and
+Educational Technology Studies
+(IJCETS). Vol. 3, No.1, Thn 2014.
+Hal. 56-63
+Widodo. 2013. Peningkatan Aktivitas
+Belajar dan Hasil Belajar Siswa
+dengan Metode Problem Based
+Learning pada Siswa Kelas VIIA MTS
+Negeri Donomulyo Kulon Progo
+Tahun Pelajaran 2012/2013. Jurnal
+Fisika Indonesia. Vol XVII. No: 49,
+Edisi April 2013. ISSN : 1410-2994.
+Yuntoto, Singgih. 2015. Pengembangan
+Aplikasi Android Sebagai Media
+Pembelajaran Kompetensi Pengoperasian Sistem Pengendali Elektronik
+Pada Peserta Didik Kelas XI SMKN 2
+Pengasih.
+Skripsi.
+Yogyakarta:
+Universitas Negeri Yogyakarta.
+
+K- JTP: Vol. 06, No.02/Desember 2018. 136
+
+

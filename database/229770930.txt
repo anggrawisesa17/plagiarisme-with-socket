@@ -1,0 +1,1882 @@
+View metadata, citation and similar papers at core.ac.uk
+
+brought to you by
+
+CORE
+
+provided by ejournal.nusamandiri.ac.id (STMIK Nusa Mandiri)
+
+Jurnal Pilar Nusa Mandiri Vol.XII, No.2 September 2016
+
+SISTEM INFORMASI PERPUSTAKAAN SEKOLAH BERBASIS WEB
+Diah Puspitasari
+Program Studi Manajemen Informatika
+AMIK BSI Bekasi
+Jl. Cut Mutiah No.88, Bekasi 17111.
+diah.puspitasari@bsi.ac.id
+Abstract The school library should be managed
+properly in order to provide a good service to
+members, librarians, and leadership in the search
+for reference. Good service can be seen on the
+convenience of members to obtain information
+quickly and accurately. Changes in data processing
+forms manually to the library, computer-based
+data processing to be the solution to overcome the
+delays and difficulties managing detailed
+information data is a collection of books that exist.
+With the development of data communications
+technology, information systems can be built as a
+school library system library information online
+(web-based). The purpose of this study is to create
+a library of web-based information system that can
+provide information library that is fast, precise,
+and accurate information to members, librarians,
+and leadership. The method used in this research is
+the System Development Life Cycle (SDLC) with the
+Waterfall model. The waterfall model (waterfall) is
+often called the linear sequential model (sequential
+linear) or classic live groove (classic life cycle). The
+result of the school system web-based information
+library can help simplify data processing clerk in
+the library as well as the information generated
+can be used for decision support that is conducted
+by the principal.
+Intisari Perpustakaan sekolah harus dikelola
+dengan baik agar dapat memberi pelayanan yang
+baik kepada anggota, petugas perpustakaan, dan
+pimpinandalam mencari referensi. Pelayanan
+yang baik dapat dilihat pada kemudahan anggota
+mendapatkan informasi yang cepat dan akurat.
+Perubahan
+bentuk
+pengolahan
+data
+perpustakaan yang manual ke pengolahan data
+yang berbasis komputer menjadi solusi untuk
+mengatasi keterlambatan informasi dan kesulitan
+pengelolaan detail data koleksi buku-buku yang
+ada.
+Dengan
+perkembangan
+teknologi
+komunikasi data, system informasi perpustakaan
+sekolah dapat dibangun sebagai sistem informasi
+perpustakaan online (berbasis web).Tujuan
+dilakukannya penelitian ini adalah untuk
+menciptakan
+sebuah
+sistem
+informasi
+perpustakan berbasis
+web yang
+dapat
+memberikan informasi perpustakaan yang cepat,
+tepat, dan akurat untuk anggota, petugas
+perpustakaan, dan pimpinan. Metode penelitian
+yang digunakan dalam penelitian ini adalah
+
+metode System Development Life Cycle (SDLC)
+dengan model Waterfall. Model air terjun
+(waterfall) sering juga disebut model sekuensial
+linier (sequential liniear) atau alur hidup klasik
+(classic life cycle). Hasilnya sistem informasi
+perpustakaan sekolah berbasis web ini dapat
+mempermudah
+petugas
+dalam
+proses
+pengolahan data perpustakaan serta informasi
+yang dihasilkan dapat digunakan sebagai
+pendukung pengambilan keputusan yang
+dilakukan oleh Pimpinan
+Kata Kunci : Berbasis Web, Perpustakaan
+Sekolah, Sistem Informasi.
+PENDAHULUAN
+Pendidikan merupakan salah satu pilar
+untuk menunjang kemajuan suatu bangsa. Proses
+belajar mengajar menjadi proses yang sangat
+penting dalam pengembangan dunia pendidikan.
+Untuk menunjang proses belajar mengajar
+tesebut diperlukan referensi baca yang baik
+berupa buku, kamus, majalah dan sumbersumber bacaan lain.
+Sarana Perpustakaan dibangun untuk
+menyimpan koleksi buku-buku atau sumber
+bacaan. Koleksinya diperbarui untuk mengikuti
+perkembangan ilmu pengetahuan. Demikian
+halnya di lembaga pendidikan formal seperti
+sekolah. Perpustakaan merupakan sarana wajib
+yang harus ada.
+Perpustakaan sekolah harus dikelola
+dengan baik agar dapat memberi pelayanan yang
+baik kepada anggota, petugas perpustakaan, dan
+pimpinan. Pelayanan yang baik dapat dilihat pada
+kemudahan anggota mendapatkan informasi
+yang cepat dan akurat. Jika pengolahan data
+perpustakaan masih dilakukan secara manual
+maka terdapat beberapa kendala yaitu lamanya
+mencari buku yang dicari, kesulitan petugas
+perpustakaan dalam mengelola data peminjaman
+dan pengembalian karena harus selalu membuka
+catatan sehingga rentan terhadap kesalahan,
+kemudian semakin berjalannya waktu, petugas
+juga kesulitan memeriksa buku-buku yang
+semakin banyak dan yang sudah tidak perlu
+digunakan lagi.
+Perubahan bentuk pengolahan data
+perpustakaan yang manual ke pengolahan data
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+227
+
+228
+
+Jurnal Pilar Nusa Mandiri Vol. XII, No.1 Maret 2016
+
+yang berbasis komputer menjadi solusi untuk
+mengatasi keterlambatan informasi dan kesulitan
+pengelolaan detail data koleksi buku-buku yang
+ada.
+Dengan
+perkembangan
+teknologi
+komunikasi data, system informasi perpustakaan
+sekolah dapat dibangun sebagai sistem informasi
+perpustakaan online (berbasis web).
+Tujuan dan Manfaat Penelitian
+Tujuan dilakukannya penelitian ini adalah
+untuk menciptakan sebuah sistem informasi
+perpustakan berbasis
+web yang
+dapat
+memberikan informasi perpustakaan yang cepat,
+tepat, dan akurat untuk anggota, petugas
+perpustakaan, dan pimpinan.
+Maanfaat dari penelitian ini adalah
+diperolehnya kemudahan bagi anggota untuk
+mendapatkan buku-buku yang diperlukan,
+kemudahan untuk petugas perpustakaan
+mengolah data peminjaman, pengembalian, dan
+pemeliharaan koleksi buku sampai dihasilkannya
+informasi perpustakaan yang akan dipakai untuk
+pimpinan
+sebagai
+sumber
+pengeambilan
+keputusan. Sistem informasi yang berbasis web
+ini tentunya juga memberi kemudahan untuk
+mengaksesnya secara langsung kapan dan
+dimanapun sehingga tidak harus datang atau
+menunggu jam buka perpustakaan
+BAHAN DAN METODE
+A. Sistem Informasi.
+Menurut Mcleod (2001) Sistem Informasi
+merupakan sistem yang mempunyai kemampuan
+untuk mengumpulkan informasi dari semua
+sumber dan menggunakan berbagai media untuk
+menampilkan informasi. Sistem informasi
+merupakan sebuah sistem di dalam suatu
+organisasi yang mempertemukan berbagai
+kebutuhan proses pengolahan transaksi harian,
+membantu & mendukung seluruh kegiatan
+operasi, bersifat manajerial dari suatu organisasi
+& membantu memperlancar penyediaan laporan
+yang dibutuhkan.
+B. Sistem Informasi Perpustakaan.
+Sistem Informasi Perpustakaan menurut
+Gordon B.Davis (2003), Sistem Informasi adalah
+suatu sistem di dalam suatu organisasi yang
+mempertemukan kebutuhan pengolahan data
+harian, penunjang kegiatan dalam penyimpanan
+data, dan menyediakan pihak luar tertentu
+dengan laporan-laporan yang diperlukan.Sistem
+Informasi Perpustakaan (SIPERPUS) merupakan
+perangkat lunak yang didesain khusus untuk
+mempermudah pendataan koleksi perpustakaan,
+katalog, data anggota/peminjam, transaksi dan
+sirkulasi koleksi perpustakaan.
+
+C. Pemrograman.
+Pemrograman adalah proses menulis,
+menguji dan memperbaiki serta memelihara
+kode yang membangun sebuah komputer. Kode
+ini ditulis dalam berbagai bahasa pemrograman.
+Tujuan dari pemrograman adalah untuk
+membuat suatu program yang dapat melakukan
+suatu perhitungan atau pekerjaan sesuai dengan
+keinginan program (Yasin, 2012). Pemrograman
+merupakan sebuah seni dalam menggunakan
+satu atau lebih algoritma yang saling
+berhubungan dengan menggunakan sebuah
+bahasa pemrograman tertentu sehingga menjadi
+sebuah program komputer
+D. Bahasa Pemrograman.
+1. PHP Hypertext Preprocessor (PHP)
+Menurut Sibero (2012), “PHP adalah
+pemograman (interpreter) adalah proses
+penerjemahan baris sumber menjadi kode mesin
+yang dimengerti komputer secara langsung pada
+saat baris kode dijalankan”.PHP atau yang
+memiliki
+kepanjangan
+PHP
+Hypertext
+Preprocessor,
+merupakan
+suatu
+bahasa
+pemrograman
+yang
+difungsikan
+untuk
+membangun suatu website dinamis. PHP
+menyatu dengan kode HTML, HTML digunakan
+sebagai pembangun atau pondasi dari kerangka
+layout web, sedangkan PHP difungsikan sebagai
+prosesnya, sehingga dengan adanya PHP
+tersebut, sebuah web akan sangat mudah di
+maintenance.
+2. HyperText Markup Language (HTML)
+HyperText Markup Language merupakan
+suatu metode untuk mengimplementasikan
+konsep hypertext dalam suatu naskah atau
+dokumen. HTML sendiri bukan tergolong pada
+suatu bahasa pemrograman karena sifatnya yang
+hanya memberikan tanda (marking up) pada
+suatu naskah teks dan bukan sebagai program.
+3. Cascading Style Sheet (CSS).
+Cascading Style Sheet (CSS) adalah suatu
+bahasa style sheet yang digunakan untuk
+mengatur tampilan suatu dokumen yang ditulis
+dalam bahasa markup. Penggunaan yang paling
+umum dari CSS adalah untuk memformat
+halaman web yang ditulis dengan HTML dan
+XHTML. Walaupun demikian, bahasanya sendiri
+dapat dipergunakan untuk semua jenis dokumen
+XML termasuk SVG dan XUL. Spesifikasi CSS
+diatur oleh World Wide Web Consortium (W3C).
+E. Unified Modelling Language (UML).
+UML (Unified Modelling Language) adalah
+salah standar bahasa yang banyak digunakan di
+dunia industri untuk mendefinisikan requirement,
+membuat
+analisis
+&
+desain,
+serta
+menggambarkan arsitektur dalam pemrograman
+berorientasi objek (Sukamto dan Shalahuddin,
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+Jurnal Pilar Nusa Mandiri Vol.XII, No.2 September 2016
+
+2013). Pada perkembangan teknik pemrograman
+berorientasi objek, munculah sebuah standarisasi
+bahasa
+pemodelan
+untuk
+pembangunan
+perangkat lunak yang dibangun dengan
+menggunakan teknik pemrograman berorientasi
+objek, yaitu Unified Modelling Language (UML).
+UML merupakan bahasa visual untuk pemodelan
+dan komunikasi mengenai sebuah sistem dengan
+menggunakan diagram dan teks-teks pendukung.
+E. Basis Data.
+Basis data adalah kumpulan data yang
+saling berhubungan secara logikal serta deskripsi
+dari data tersebut, yang dirancang untuk
+memenuhi
+kebutuhan
+informasi
+suatu
+organisasi(Connoly dan Begg, 2010).Membangun
+basis data adalah langkah awal dari pembuatan
+sebuah aplikasi. Keberhasilan dalam membangun
+basis data akan menyebabkan program lebih
+mudah dibaca, mudah dikembangkan dan mudah
+mengikuti perkembangan perangkat lunak.
+Berikut ini adalah komponen-komponen yang
+terdapat dalam basis data, yaitu : Tabel, Field,
+Record, Primary Key, Foreign Key dan Index.
+1. MySQL
+MySQL adalah salah satu jenis database
+server yang sangat terkenal dan banyak
+digunakan untuk membangun aplikasi web yang
+menggunakan database sebagai sumber dan
+pengolahan datanya (Arief, 2011). MySQL
+merupakan database yang pertama kali didukung
+oleh bahasa pemrograman script untuk internet
+(PHP dan Perl). MySQL dan PHP dianggap sebagai
+pasangan software pembangun aplikasi web yang
+ideal. MySQL lebih sering digunakan untuk
+membangun aplikasi berbasis web, umumnya
+pengembangan aplikasinya menggunakan bahasa
+pemrograman script PHP.
+
+2. Entity Relationship Diagram (ERD).
+Entity Relationship Diagram (ERD) adalah
+suatu rancangan atau bentuk hubungan suatu
+kegiatan di dalam sistem yang berkaitan langsung
+dan mempunyai fungsi di dalam proses tersebut.
+ERD adalah suatu pemodelan dari basis data
+relasional yang didasarkan atas persepsi di dalam
+dunia nyata, dunia ini senantiasa terdiri dari
+sekumpulan objek yang saling berhubungan
+antara satu dengan yang lainnya. Suatu objek
+disebut entity dan hubungan yang dimilikinya
+disebut relationship. Suatu entity bersifat unik
+dan memiliki atribut sebagai pembeda dengan
+entity lainnya (Yasin, 2012).
+3. Logical Record Structure (LRS).
+Sebuah model sistem yang digambarkan
+dengan sebuah diagram-ER akan mengikuti pola/
+aturan pemodelan tertentu dalam kaitannya
+
+dengan konversi ke LRS, maka perubahan yang
+terjadi adalah mengikuti aturan - aturan berikut
+ini : Setiap entitas akan diubah kebentuk kotak,
+Sebuah atribut relasi disatukan dalam sebuah
+kotak bersama entitas jika hubungan yang terjadi
+pada diagram-ER 1:M (relasi bersatu dengan
+cardinality M) atau tingkat hubungan 1:1 (relasi
+bersatu dengan cardinality yang paling
+membutuhkan referensi), sebuah relasi dipisah
+dalam sebuah kotak tersendiri (menjadi entitas
+baru) jika tingkat hubungannya M:M (many to
+many) dan memiliki foreign key sebagai primary
+key yang diambil dari kedua entitas yang
+sebelumnya saling berhubungan (Hasugian dan
+Shidiq, 2012).
+F. Pengertian Perpustakaan.
+Adapun pengertian perpustakaan menurut
+Sutarno (2003) perpustakaan adalah sarana
+lembaga pendidikan yang sangat demokratis
+karena menyediakan sumber belajar sesuai
+dengan kebutuhan masyarakat, dan melayaninya
+tanpa membedakan suku bangsa, agama yang
+dianut, jenis kelamin, latar belakang dan tingkat
+sosial, umur dan pendidikan serta perbedaan
+lainnya.
+Metode penelitian
+Metode penelitian yang digunakan dalam
+penelitian ini adalah metode System Development
+Life Cycle (SDLC) dengan model Waterfall. Model
+air terjun (waterfall) sering juga disebut model
+sekuensial linier (sequential liniear) atau alur
+hidup klasik (classic life cycle). Model air terjun
+menyediakan pendekatan alur hidup perangkat
+lunak secara sekuensial atau terurut dimulai dari
+analisis, desain, pengodean, pengujian, dan tahap
+pendukung (support).
+
+Gambar 1. Model Waterfall.
+A. Analisis.
+Proses pengumpulan kebutuhan dilakukan
+secara insentif untuk menspesifikasikan
+kebutuhan perangkat lunak agar dapat
+dipahami perangkat lunak seperti apa yang
+dibutuhkan oleh user. Spesifikasi kebutuhan
+perangkat lunak ini perlu untuk di
+dokumentasikan.Analisa kebutuhan Sistem
+diperlukan untuk memahami dasar dari
+program yang akan dibuat, ruang lingkup
+informasi dan fungsi-fungsi yang dibutuhkan.
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+229
+
+230
+
+Jurnal Pilar Nusa Mandiri Vol. XII, No.1 Maret 2016
+
+Untuk itu diperlukan analisa kebutuhan
+Sistem, pada tahap ini penulis menganalisa
+dokumen-dokumen yang didapat dari
+perpustakaan sekolah. Dokumen yang
+dianalisa diantaranya adalah data anggota,
+data buku, data peminjaman buku dan data
+pengembalian buku. Penulis mengumpulkan
+informasi dari dokumen ini yang kemudian
+akan dikembangkan ke dalam website. Ini
+dianggap sebagai titik utama dari proses
+pengerjaan web desain.
+B. Desain.
+Proses multi langkah fokus pada desain
+pembuatan
+program
+perangkat
+lunak
+termasuk struktur data, arsitektur perangkat
+lunak, representasi antarmuka, dan prosedur
+pengodean. Tahap ini mentranslasi kebutuhan
+perangkat lunak dari tahap analisis kebutuhan
+ke
+representasi
+desain
+agar
+dapat
+diimplementasikan menjadi program pada
+tahap selanjutnya. Desain perangkat lunak
+yang dihasilkan pada tahap ini juga perlu
+didokumentasikan.Tahap penyusunan proses
+dalam menjalankan proses bisnis untuk
+memenuhi kebutuhan sesuai dengan hasil
+analisa kebutuhan. Tahap desain sistem
+informasi perpustakaan berbasis web dalam
+perancangan ini menggunakan bahasa
+pemodelan UML (Unified Modelling Language),
+ERD (Entity Relationship Diagram) dan LRS
+(Logical Record Structure) berdasarkan hasil
+pengumpulan
+informasi
+dan
+analisa
+kebutuhan pengguna.
+C. Pengkodean.
+Desain harus ditranslasikan kedalam program
+perangkat lunak. Hasil dari tahap ini adalah
+program komputer sesuai dengan desain yang
+telah dibuat pada tahap desain.Di dalam
+pemecahan masalah ini digunakan teknik
+modular, top down dan button up. Bahasa
+program
+yang
+digunakan
+dalam
+pengembangan
+sistem
+informasi
+perpustakaan sekolah berbasis web ini adalah
+bahasa pemrograman PHP menggunakan
+basis data MYSQL dalam aplikasi XAMPP
+dengan mengacu pada analisis desain yang
+telah dibuat.
+D. Pengujian.
+Pengujian fokus pada perangkat lunak secara
+dari segi lojic dan fungsional dan memastikan
+bahwa semua bagian sudah diuji. Hal ini
+dilakukan untuk meminimalisir kesalahan
+(error) dan memastikan keluaran yang
+dihasilkan
+sesuai
+dengan
+yang
+diinginkan.Pengujian sistem dilakukan setelah
+proses penulisan kode program selesai
+
+dilakukan, untuk memastikan bahwa program
+yang dibuat sesuai dengan apa yang telah
+dirancang serta memastikan agar tidak ada
+error. Metode yang digunakan adalah black
+box testing.
+HASIL DAN PEMBAHASAN
+A. Analisa Sistem Berjalan.
+1. Proses Bisnis Peminjaman Buku.
+Pada saat siswa datang ke perpustakaan
+memilih buku yang ingin dipinjam, siswa
+menyerahkan buku dan kartu anggota kepada
+petugas perpustakaan. Petugas menerima buku
+dan kartu anggota. Kemudian petugas mencatat
+data peminjaman di dalam buku data
+peminjaman dan petugas menyimpan kartu
+anggota. Petugas menyerahkan buku kepada
+siswa dan siswa menerima buku.
+
+Gambar 2. Activity Diagram Peminjaman buku.
+2. Proses Bisnis Pengembalian Buku.
+Pada saat siswa ingin mengembalikan buku
+kepada
+petugas
+perpustakaan,
+siswa
+menyerahkan buku kepada petugas. Petugas
+menerima buku dan mengecek status buku di
+dalam buku data peminjaman, jika terlambat
+pengembalian siswa membayar denda kepetugas
+dan petugas mencatat denda kedalam buku
+denda. Jika tidak petugas mencatat data
+pengembalian ke dalam buku data peminjaman.
+Lalu petugas mengembalikan kartu anggota
+kepada siswa, dan siswa menerima kartu
+anggota.
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+Jurnal Pilar Nusa Mandiri Vol.XII, No.2 September 2016
+
+231
+
+4. Proses Bisnis Penerimaan Buku.
+Buku yang dikirimkan oleh penerbit /
+distributor
+kemudian
+diperiksa
+untuk
+disesuaikan dengan pengajuan. Jika sudah sesuai
+petugas
+perpustakaan
+menerima
+dan
+EA 9.0 Unregistered
+Trial Version faktur
+EA 9.0 Unregistered
+Trial Version
+menandatangani
+dan surat
+jalan. EA 9.0 Unregistered
+Kemudian mencatat buku yang masuk ke
+perpustakaan.
+EA 9.0 Unregistered
+Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+act Penerimaan
+
+EA 9.0 UnregisteredPetugas
+TrialPerpustakaan
+Version EA 9.0 Unregistered
+Trial Version EA 9.0 Unregistered
+Distributor
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Mulai
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Menerima dan
+
+Mengirimkan
+
+EA 9.0 UnregisteredMemeriksa
+Trial Version
+EA 9.0 Unregistered
+Buku Trial Version EA 9.0 Unregistered
+Buku
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Tanda Tangan
+Surat Jalan dan
+Faktur
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Gambar 3. Activity Diagram Pengembalian Buku.
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+
+3. Proses Bisnis Pengajuan Buku.
+Mencatat Data
+Untuk melengkapi koleksi buku baru EA
+atau
+9.0 UnregisteredBukuTrial
+Yang Version
+masuk
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+mengganti buku yang sudah rusak, petugas
+melakukan pengajuan pengadaan buku ke
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Pimpinan. Setelah pengajuandi setujui Pimpinan
+maka petugas perpustakaan mengirimkan surat
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Version EA 9.0Trial
+Unregistered
+Version
+EA 9.0 UnregisteredTrial
+Trial Version
+Version EA 9.0 Unregistered
+EA 9.0 Trial
+Unregistered
+VersionTrialEA
+9.0 Unregistered
+ke Distributor Buku.
+Selesai
+
+act Pengajuan
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Version EA 9.0Trial
+Unregistered
+Version
+EA 9.0 UnregisteredTrial
+Trial Version
+Version EA 9.0 Unregistered
+EA 9.0 Trial
+Unregistered
+VersionTrialEA
+9.0 Unregistered
+Petugas Perpustakaan
+
+Pimpinan
+
+Distributor
+
+Gambar
+5.
+Activity
+Diagram
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Version
+EA 9.0Trial
+Unregistered
+Version
+EA 9.0Penerimaan
+UnregisteredTrial
+Trial Buku.
+Version EA 9.0 Unregistered
+EA 9.0 Trial
+Unregistered
+VersionTrialEA
+9.0 Unregistered
+Version
+
+B. Analisa Kebutuhan Pengguna.
+Sistem informasi perpustakaan sekolah
+TIdak Acc
+Membuat Surat
+berbasis
+web dimana
+pencarian
+buku,
+PengajuanTrial
+Buku Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version
+EA 9.0 Unregistered
+pengolahan
+data dan
+tidak EA 9.0 Unregistered
+EA 9.0 Unregistered
+Trial Version
+EA 9.0transaksi
+Unregisteredsudah
+Trial Version
+manual. Siswa dapat melakukan pencarian buku
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trialdan
+Version baca
+EA 9.0 Unregistered
+Trial Versionmelalui
+EA 9.0 Unregistered
+Trial Version
+buku
+online
+media
+EA 9.0 Unregistered
+Trial
+Version
+EA 9.0 Unregistered
+Trialbrowser
+Version EA 9.0 Unregistered
+Meminta
+Terima Surat
+dengan cara login ke dalam website
+Persetujuan
+Pengajuan
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trialperpustakaan
+Version EA 9.0 Unregistered
+Trial Version
+EA 9.0 Unregistered
+Trial Versiondan
+sekolah
+untuk
+peminjaman
+EA 9.0 Unregistered
+Trial
+Version
+EA
+9.0
+Unregistered
+Trial
+Version EA 9.0 Unregistered
+pengembalian buku diperpustakaan.
+Mulai
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Version EA 9.0Trial
+Unregistered
+Version
+EA 9.0 UnregisteredTrial
+Trial Version
+Version EA 9.0 Unregistered
+EA 9.0 Trial
+Unregistered
+VersionTrialEA
+9.0 Unregistered
+
+Acc
+EA 9.0 Unregistered Trial Version
+EAPersetujuan
+9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version
+EA 9.0 Unregistered
+Trial Version
+EA 9.0
+Unregistered Trial Version EA 9.0 Unregistered
+1. Kebutuhan
+pengguna
+anggota.
+
+a. Anggota
+dapat
+anggota.
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version
+EA 9.0 Unregistered
+Trialmelihat
+Version EAprofil
+9.0 Unregistered
+Trial Version
+Menerima
+Pengajuan Ke
+b.
+Anggota
+dapat
+melihat
+dan
+mencari
+data EA 9.0 Unregistered
+EA
+9.0
+Unregistered
+Trial
+Version
+EA
+9.0
+Unregistered
+Trial
+Version
+Pengajuan
+Distibutor
+buku.
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version
+c. Anggota
+dapat membaca
+buku online.
+EA 9.0 Unregistered
+Trial Version
+EA 9.0 Unregistered
+Trial Version EA 9.0 Unregistered
+d. Anggota dapat mengisi data kunjungan.
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Selesai
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Gambar
+Activity
+Pengajuan
+EA 9.0 Unregistered
+Trial4.Version
+EA 9.0 Diagram
+Unregistered Trial
+Version EA 9.0Buku.
+Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+ISSN
+1978-1946
+Sistem
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0
+Unregistered
+Trial Version EA| 9.0
+UnregisteredInformasi
+Trial Version EA Perpustakaan
+9.0 Unregistered Trial Version…
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+
+232
+
+Jurnal Pilar Nusa Mandiri Vol. XII, No.1 Maret 2016
+
+Gambar 6. Use Case Diagram Anggota.
+2. Kebutuhan Pengguna Petugas Perpustakaan.
+a. Admin dapat mengelola data pengguna.
+b. Admin dapat mengelola data anggota.
+c. Admin dapat mengelola data buku.
+d. Admin dapat melakukan pengajuan buku.
+e. Admin dapat Mencatat Penerimaan Buku.
+
+f. Admin dapat mengelola data Peminjaman.
+g. Admin dapat mengelola data Pengembalian.
+h. Admin dapat mengelola data E-Book.
+i. Admin dapat mengelola laporan.
+
+uc Use Case Model
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered T
+
+Kelola Data
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Trial Version EA 9.0 Unregistered T
+Pengguna
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial
+Version
+EA 9.0 Unregistered T
+Kelola
+Data
+Anggota
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered T
+«extend»
+
+Kelola Data Buku
+
+«extend»
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Trial Version EA 9.0 Unregistered T
+«extend»
+
+EA 9.0 Unregistered Trial Version Login
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered T
+Pengaj uan Buku
+
+«extend»
+
+EA 9.0 Unregistered
+Petugas Perpustakaan
+Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered T
+«extend»
+
+Catat Penerimaan
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered
+Trial Version
+«extend»
+Buku EA 9.0 Unregistered T
+«extend»
+
+«extend»
+EA 9.0 Unregistered Trial Version EA
+9.0 Unregistered Trial Version EA 9.0 Unregistered T
+Kelola Data
+Pengembalian
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered T
+Kelola Data EBook
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered T
+Kelola Laporan
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered T
+
+GambarEA
+7. Use
+Diagram Admin.Trial Version EA 9.0 Unregistered T
+EA 9.0 Unregistered Trial Version
+9.0Case
+Unregistered
+
+ISSN 1978-1946
+| Sistem
+Informasi
+Perpustakaan
+… Trial Version EA 9.0 Unregistered T
+EA 9.0 Unregistered
+Trial
+Version
+EA 9.0
+Unregistered
+
+EA 9.0 Unregistered Trial Version EA 9.0 Unregistered Trial Version EA 9.0 Unregistered T
+
+Jurnal Pilar Nusa Mandiri Vol.XII, No.2 September 2016
+
+C. Perancangan.
+1. Activity Diagram.
+a. Halaman Anggota.
+
+Gambar 8. Activity Diagram Halaman Anggota.
+b. Halaman admin mengelola data buku.
+
+Gambar 9. Activity Diagram Halaman admin mengelola data buku
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+233
+
+234
+
+Jurnal Pilar Nusa Mandiri Vol. XII, No.1 Maret 2016
+
+c. Halaman admin mengelola data pengajuan.
+act Pengaj uan Buku
+Petugas Perpustakaan
+EA 9.0 Unregistered
+T rial Version
+
+Sistem
+EA 9.0 Unregistered
+T rial Version
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+M ul ai
+
+EA 9.0 Unregistered T rial Version
+Buka Halaman
+Pengaj uan
+
+Tampil Halaman
+Pengaj uan
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+Pilih Tindakan
+
+EA 9.0 Unregistered T rial Version
+Cari
+
+M asukkan Nomor
+Pengaj uan
+
+EA 9.0 Unregistered T rial Version
+Ya
+
+T i dak
+
+EA 9.0 Unregistered T rial Version
+T am bah
+
+M asukkan Data
+Pengaj uan
+
+Cari Data Pengaj uan
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+Ada ?
+
+EA 9
+
+Ya
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+EA 9.0 Unregistered T rial Version
+Tampil Data
+Pengaj uan
+
+EA 9.0 Unregistered
+T rial Version
+Ya
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA Simpan
+9.0 Unregistered
+T rial Version
+Data
+
+EA 9
+
+T i dak
+
+Submit
+
+EA 9.0 Unregistered T rial Version
+Hapus
+
+Pilih Data Yang Akan
+Di Hapus
+
+Pengaj uan
+
+EA 9.0 Unregistered T rial Version
+Tampil Surat
+Pengaj uan
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0
+Unregistered
+T rial Version
+Hapus
+Data
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+Joi n
+
+EA 9.0 Unregistered T rial Version
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+Sel esai
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+EA 9.0 Unregistered
+T rial
+Version
+EA mengelola
+9.0 Unregistered
+Gambar 10. Activity
+Diagram
+Halaman admin
+data pengajuan. T rial Version
+
+EA 9
+
+d. Halaman
+admin mengelola data
+EA
+9.0 Unregistered
+Tpenerimaan.
+rial Version
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+act Penerimaan Buku
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+Petugas Perpustakaan
+EA 9.0 Unregistered
+Trial Version
+
+EA 9.0 Unregistered T rial Version
+
+Sistem
+EA 9.0 Unregistered
+Trial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+EA
+rial Version
+EA 9.0
+9.0 Unregistered
+Unregistered T
+Trial
+Version
+
+EA 9.0 Unregistered
+Unregistered Trial
+T rial Version
+Version
+
+EA 9
+9
+EA
+
+M ul ai
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered Trial Version
+
+EA 9
+
+Buka Halaman
+EA 9.0 Unregistered
+T rial Version
+
+Halaman
+EA 9.0 Tampil
+Unregistered
+T rial Version
+
+EA 9
+
+EA 9.0 Unregistered Trial Version
+Penerimaan
+
+Penerimaan
+
+EA 9
+
+EA 9.0
+9.0 Unregistered
+Unregistered T
+Trial
+Version
+EA
+rial Version
+
+EA 9.0
+EA
+9.0 Unregistered
+Unregistered Trial
+T rial Version
+Version
+
+EA
+EA 9
+9
+
+EA
+rial Version
+EA 9.0
+9.0 Unregistered
+Unregistered T
+Trial
+Version
+
+EA
+9.0 Unregistered
+Unregistered Trial
+T rial Version
+Version
+EA 9.0
+
+EA 9
+9
+EA
+
+Pilih Tindakan
+
+Cari Data Penerimaan
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+EA 9.0 Unregistered Trial Version
+
+EA 9.0 Unregistered Trial Version
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+M asukkan Nomor
+EA 9.0
+9.0 Unregistered
+Unregistered
+Trial
+Version
+EA
+T
+rial Version
+Penerimaan
+
+Ada ?
+EA 9.0
+EA
+9.0 Unregistered
+Unregistered Trial
+T rial Version
+Version
+
+EA
+EA 9
+9
+
+EA 9.0 Unregistered
+T rial Version
+T i dak
+
+EA 9.0 Unregistered
+T rial Version
+Ya
+
+EA 9
+EA
+9
+
+Cari
+
+Ya
+
+EA 9.0 Unregistered Trial Version
+
+EA 9.0 Unregistered Trial Version
+
+EA 9.0 Unregistered
+T rial Version
+T am bah
+
+EA 9.0
+
+T rial Version
+
+EA 9
+
+EA 9.0 Unregistered
+Trial
+Version
+Penerimaan
+Ya
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered Trial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+EA
+rial Version
+EA 9.0
+9.0 Unregistered
+Unregistered T
+Trial
+Version
+
+EA
+Unregistered Trial
+T rial Version
+Version
+EA 9.0 Unregistered
+
+EA 9
+9
+EA
+
+M asukkan Data
+
+T i dak
+
+Submit
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered Trial Version
+Hapus
+
+Tampil Data
+Unregistered
+Penerimaan
+
+Simpan Data
+Penerimaan
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered Trial Version
+
+EA 9
+
+EA 9
+
+EA 9
+
+EA 9.0 Unregistered
+T rial
+Version
+Pilih
+Data Yang
+Akan
+
+EA 9.0 Unregistered T rial Version
+
+Di Hapus
+EA 9.0 Unregistered Trial
+Version
+EA 9.0 Unregistered T rial Version
+
+EA 9.0
+Unregistered
+Trial Version
+Penerimaan
+EA 9.0
+Unregistered T rial Version
+
+EA
+9
+EA 9
+
+EA
+rial Version
+EA 9.0
+9.0 Unregistered
+Unregistered T
+Trial
+Version
+
+EA
+9.0 Unregistered
+Unregistered Trial
+T rial Version
+Version
+EA 9.0
+
+EA 9
+9
+EA
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered T rial Version
+
+EA 9
+
+EA 9.0 Unregistered Trial Version
+
+EA 9.0 Unregistered Trial Version
+
+EA 9
+
+EA 9.0 Unregistered T rial Version
+
+EA 9.0 Unregistered
+T rial Version
+Joi n
+
+EA 9
+
+EA 9.0
+9.0 Unregistered
+Unregistered T
+Trial
+Version
+EA
+rial Version
+
+EA 9.0
+EA
+9.0 Unregistered
+Unregistered Trial
+T rial Version
+Version
+
+EA
+EA 9
+9
+
+EA 9.0 Unregistered T rial Version
+
+Sel esai
+EA 9.0 Unregistered
+T rial Version
+
+EA 9.0 Unregistered Trial Version
+
+EA 9
+EA
+9
+
+Gambar 11. Activity
+Diagram
+Halaman admin
+data penerimaan. Trial Version
+EA 9.0 Unregistered
+Trial
+Version
+EAmengelola
+9.0 Unregistered
+
+EA 9
+
+EA 9.0 Unregistered Trial Version
+
+EA 9
+
+EA 9.0 Unregistered Trial Version
+
+Tampil Surat
+
+Hapus Data
+
+EA 9.0 Unregistered Trial Version
+
+EA 9
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+EA 9.0 Unregistered Trial Version
+
+EA 9.0 Unregistered Trial Version
+
+EA 9
+
+EA 9.0 Unregistered Trial Version
+
+EA 9.0 Unregistered Trial Version
+
+EA 9
+
+Jurnal Pilar Nusa Mandiri Vol.XII, No.2 September 2016
+
+e. Halaman admin mengelola data pengunjung.
+
+Gambar 12. Activity Diagram Halaman admin mengelola data pengunjung
+f. Halaman admin mengelola data peminjaman
+
+Gambar 13. Activity Diagram Halaman admin mengelola data peminjaman
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+235
+
+236
+
+Jurnal Pilar Nusa Mandiri Vol. XII, No.1 Maret 2016
+
+g. Halaman admin mengelola data pengembalian
+
+Gambar 14. Activity Diagram Halaman admin mengelola data pengembalian
+2. Pemodelan Basis Data.
+a. Entity Relationship Diagram (ERD).
+lahir
+jenis
+
+tempat
+
+alamat
+
+jk
+
+nama
+
+email
+TglTerima
+
+NoTerima
+
+JumlahTerima
+password
+
+hp
+NoPengajuan
+
+id_anggota
+
+foto
+SubTotal
+
+Total
+
+jumlah
+
+Penerimaan
+
+tgl_kembali
+
+anggota
+KdPetugas
+no_kembali
+
+no_pinjam
+
+no_pinjam
+
+1
+
+M
+
+tgl_pinjam
+
+Proses
+
+peminjaman
+
+jumlah
+
+M
+
+menghasilkan
+
+1
+
+pengembalian
+
+NoPengajuan
+
+1
+
+id_buku
+KdPetugas
+
+1
+
+N
+
+id_anggota
+
+M
+
+N
+
+Pengajuan
+
+terkena
+
+buku
+
+Dapat
+
+ISBN
+
+NoPengajuan
+
+1
+IdBuku
+TglPengajuan
+
+SubTotal
+
+tanggal
+
+halaman
+
+judul
+
+jumlah
+
+Total
+JumlahBuku
+
+denda
+
+thn_terbit
+
+peroleh
+
+penerbit
+
+id_buku
+
+kategori
+
+no_kembali
+
+denda
+
+Gambar 15. Entity Relationship Diagram Sistem Informasi Perpustakaan
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+id_denda
+
+tgl
+
+Jurnal Pilar Nusa Mandiri Vol.XII, No.2 September 2016
+
+b. Logical Record Structure.
+Anggota
+Id_Anggota (PK)
+Password
+Nama
+Jk
+Tempat
+Lahir
+Jenis
+Alamat
+Email
+Hp
+Foto
+
+Pengembalian
+No_Kembali (PK)
+Tgl_Kembali
+Jumlah
+No_pinjam (FK)
+
+No_Kembali
+
+Id_Denda (PK)
+Tgl
+Jml_denda
+No_Kembali (FK)
+
+No_Pinjam
+
+Buku
+
+Peminjaman
+
+Id_Anggota
+
+No_Pinjam (PK)
+Tgl_Pinjam
+Jumlah
+Id_buku
+Id_anggota
+
+Penerimaan
+No_Terima (PK)
+TglTerima
+JumlahTerima
+NoPengajuan (FK)
+Subtotal
+Total
+KdPetugas
+
+Denda
+
+Pengajuan
+
+Id_Buku
+
+Id_Buku (PK)
+Judul
+Terbit
+Penerbit
+Halaman
+Jumlah
+Peroleh
+Kategori
+Tanggal
+
+DetailPengajuan
+
+NoPengajuan (PK)
+TglPengajuan
+Total
+KdPetugas
+
+NoPengajuan
+
+NoPengajuan (FK)
+Id_Buku (FK)
+Jumlah
+SubTotal
+
+Id_Buku
+
+NoPengajuan
+
+Gambar 16. Logical Record Structure Sistem Informasi Perpustakaan
+3. Arsitektur Perangkat Lunak.
+a. Component Diagram.
+Component diagram menggambarkan struktur
+dan hubungan antar komponen piranti lunak,
+termasuk
+ketergantungan
+diantaranya.
+Component diagram juga dapat berupa interface
+yang berupa kumpulan layanan yang disediakan
+oleh component untuk component lainnya.
+
+bagian software yang berjalan pada hardware
+yang digunakan untuk mengimplementasikan
+sebuah sistem dan keterhubungan antara
+komponen hardware tersebut.
+
+Gambar 18. Deployment Diagram Sistem
+Informasi Perpustakaan
+
+Gambar 17. Component Diagram Sistem
+Informasi Perpustakaan
+b. Deployment Diagram.
+Deployment diagram menggambarkan tata letak
+sistem secara fisik, yang menampakan bagian-
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+237
+
+238
+
+Jurnal Pilar Nusa Mandiri Vol. XII, No.1 Maret 2016
+
+C. User Interface.
+1. Tampilan login anggota dan admin.
+
+4. Tampilan transaksi peminjaman.
+
+Gambar 19. Login Anggota dan Admin.
+2. Tampilan input data anggota.
+
+Gambar 22. Form Transaksi Peminjaman.
+5. Tampilan Laporan Data Peminjaman Buku
+
+Gambar 20. Form Input Data Anggota.
+3. Tampilan input data buku.
+Gambar 23. Laporan data peminjaman buku.
+6. Tampilan Laporan Data Pengembalian Buku
+
+Gambar 21. Form Input Data Buku.
+
+Gambar 24. Laporan data pengembalian buku.
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+Jurnal Pilar Nusa Mandiri Vol.XII, No.2 September 2016
+
+7. Tampilan Laporan Data Pengajuan Buku
+2. Pengujian Form Input Transaksi Peminjaman.
+Tabel 2. Pengujian form transaksi peminjaman
+
+Gambar 25. Laporan data pengajuan buku.
+8. Tampilan Laporan Data Penerimaan Buku.
+
+KESIMPULAN.
+
+Gambar 26. Laporan data penerimaan buku.
+D. Pengujian.
+1.Pengujian Form Login
+Tabel 1. Pengujian form Login
+
+Berdasarkah hasil penelitian yang telah
+dilakukan, maka dapat diambil kesimpulan
+sebagai berikut :
+1. Dengan
+adanya
+sistem
+informasi
+perpustakaan ini mempermudah petugas
+dalam mengolah data peminjaman dan
+pengembalian buku sampai pembuatan
+laporan.
+2. Sistem
+informasi
+perpustakaan
+ini
+merupakan sarana yang efektif untuk
+mempermudah anggota dalam proses
+pencarian buku dan membaca buku online.
+Berdasarkan hasil evaluasi terhadap
+proses dan hasil analisa dari sistem informasi
+perpustakaan ini terdapat saran untuk pengguna
+sistem dan dalam pengembangan sistem ini agar
+lebih baik di masa yang akan datang antara lain
+adalah :
+1. Dalam menggunakan komputer sangat
+diperlukan ketelitian dan kedisiplinan dari
+pengguna, terutama dalam hal penyimpanan
+data harus benar-benar valid dan sesuai
+dengan ketentuan yang benar.
+2. Mengingat pentingnya data-data yang
+dipergunakan, sebaiknya dilakukan backup
+data atau menyalin file dan data lain kedalam
+perangkat ini seperti hardisk atau flashdisk
+untuk menghindari kerusakan atau hilangnya
+file.
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+239
+
+240
+
+Jurnal Pilar Nusa Mandiri Vol. XII, No.1 Maret 2016
+
+3. Sistem informasi ini harus selalu dilakukan
+pembaharuan program dan pengecekan
+kembali, akan sistem yang diusulkan untuk
+menjaga dan meningkatkan kualitas sistem.
+REFERENSI
+Arief, M.Rudianto. 2011. Pemrograman Web
+Dinamis Menggunakan Php dan Mysql.
+Yogyakarta: ANDI.
+Arip Aryanto (2013), Pembuatan Sistem
+Informasi
+Perpustakaan
+SMP
+Muhammadiyah 7 Surakarta, Indonesian
+Jurnal on Computer Science - Speed
+(IJCSS) 15 FTI UNSA Vol 10 No 1 –
+Februari 2012 - ijcss.unsa.ac.id, ISSN :
+1979-9330.
+Connolly, Thomas and Begg, Carolyn. (2010).
+Database Systems A Practical Approach to
+Design, Implementation, and Management
+Fifth Edition. Boston: Pearson Education.
+F.K Sibero, Alexander. 2012. Kitab Suci Web
+Progamming. Yogyakarta:Mediakom.
+Gordon B. Davis. 2003. Sistem Informasi
+Manajemen. Yogyakarta:Andi.
+Hasugian, Humisar. Shidiq, Ahmad Nur. Rancang
+Bangun Sistem Informasi Industri Kreatif
+Bidang Penyewaan Sarana Olahraga. ISBN
+: 979-26-0255-0. Seminar Nasional
+Teknologi Informasi & Komunikasi
+Terapan 2012. 23 Juni 2012. Hal : 606612.
+Diambil
+dari
+:
+http://publikasi.dinus.ac.id/index.php/se
+mantik/article/viewFile/215/169.
+Mcleod, Raymond, 2001, Sistem Informasi
+Manajemen, Jakarta, PT. Prenhallindo.
+Sukamto, Rosa Ariani. Shalahuddin, M. 2013.
+Rekayasa Perangkat Lunak. Bandung:
+Informatika.
+Sulastri,
+Perancangan
+Sistem
+Informasi
+Perpustakaan Pada Sekolah Menengah
+Pertama (SMP) Negeri 4 Karangtengah,
+Indonesian Jurnal on Computer Science –
+Speed (IJCSS) 11 Vol 9 No 2 – Agustus
+2012 , ISSN 1979 – 9330.
+Sutarno, 2003. Perpustakaan dan Masyarakat. Ed.
+1. Jakarta: Yayasan Obor Indonesia.
+Yasin, Verdi. 2012. Rekayasa Perangkat Lunak
+Berorientasi Objek. Jakarta: Mitra Wacana
+Media.
+
+BIODATA PENULIS
+Diah Puspitasari, M.Kom.
+Staff pengajar pada AMIK BSI
+Jakarta dan STMIK Nusa
+Mandiri.
+Dan
+sekarang
+menjabat sebagai Kepala
+BAAK BSI, Aktif mengajar
+sampai saat ini dan selalu
+membantu mahasiswa dalam
+melakukan penelitian dan
+Membimbing mahasiswa Skripsi.
+
+ISSN 1978-1946 | Sistem Informasi Perpustakaan …
+
+

@@ -1,0 +1,1377 @@
+Trikonomika
+
+Volume 10, No. 2, Desember 2011, Hal. 139–147
+ISSN 1411-514X
+
+Pengaruh Inflasi, Suku Bunga, dan Jumlah Uang Beredar
+terhadap Nilai Tukar
+Zulki Zulkifli Noor
+Program Pascasarjana Program Studi Magister Manajemen Universitas Winaya Mukti
+Jl. Turangga Raya no. 25 Bandung
+E-Mail: ake_zulkifli@yahoo.com
+
+ABSTRACT
+The general objective of this study was to know how far the effect to changing of Rupiah’s Exchange
+Rate to American Dollar by three factor of economic: inflation rate, interest rate and money supply, and also
+to know its causality link. The evaluations are carried out by several data of inflation rate, interest rate and
+money supply from that two country. A multiple regression was done to determine how far the effect of the
+variables above. Some statistical test, that is related to regression, was done too. Also Granger’s causality test
+was done to know the causality link. Based upon data analyzed in this study, there are some conclusions as
+follow: (1) if inflation rate, interest rate and money supply is used partially, there is no significant influence or
+effect on changing of exchange rate. (2) in other way, if those factor is integrated in using of analysis, there
+is quite significant. (3) and the last, for interest rate and money supply have causality relation to changing of
+exchange rate, but not inflation rate.
+Keywords: inflation, interest rate, money supply, exchange rate.
+
+ABSTRAK
+Tujuan umum dari penelitian ini adalah untuk mengetahui seberapa jauh efek terhadap perubahan nilai
+tukar Rupiah terhadap Dollar Amerika oleh tiga faktor ekonomi: tingkat inflasi, tingkat bunga dan jumlah uang
+beredar, dan juga untuk mengetahui hubungan kausalitasnya. Evaluasi dilakukan oleh beberapa data tingkat
+inflasi, tingkat bunga dan jumlah uang beredar dari dua negara. Regresi berganda dilakukan untuk menentukan
+seberapa jauh pengaruh dari variabel-variabel di atas. Beberapa uji statistik, yang berhubungan dengan regresi,
+dilakukan juga. Uji kausalitas Granger juga itu dilakukan untuk mengetahui link kausalitas. Berdasarkan data
+yang dianalisis dalam penelitian ini, ada beberapa kesimpulan sebagai berikut: (1) jika tingkat inflasi, tingkat
+bunga dan jumlah uang beredar digunakan sebagian, tidak ada pengaruh signifikan atau efek pada perubahan
+nilai tukar. (2) dengan cara lain, jika dipergunakan faktor yang terintegrasi maka menghasilkan hasil yang
+cukup signifikan. (3) dan untuk tingkat suku bunga dan jumlah uang beredar memiliki hubungan kausalitas
+dengan perubahan nilai tukar, tetapi tingkat inflasi.
+Kata kunci: inflasi, tingkat suku bunga, jumlah uang beredar, nilai tukar.
+
+139
+
+PENDAHULUAN
+
+Proses globalisasi menyebabkan kegiatan atau
+
+aktivitas ekonomi sekarang menjadi satu kesatuan
+global (globally unified). Perubahan yang terjadi pada
+ekonomi suatu negara, secara cepat mempengaruhi
+ekonomi negara lain terutama negara-negara yang
+menjadi partner ekonomi atau mempunyai hubungan
+ekonomi yang sangat erat.
+Perubahan-perubahan dalam aktivitas ekonomi
+ini biasanya tercermin dalam perubahan atau
+fluktuasi nilai mata uang. Tentu saja, konsekuensinya
+bagi perusahaan-perusahaan multinasional atau
+perusahaan-perusahaan eksportir atau importir akan
+menghadapi kecemasan depresiasi atau apresiasi.
+Belum lagi mengantisipasi aktivitas para spekulan
+mata uang yang kadang cukup signifikan mem­
+pengaruhi nilai mata uang.
+Secara umum yang mempengaruhi nilai tukar
+adalah faktor fundamental, faktor teknis, faktor
+psikologis dan faktor spekulasi, sedangkan secara
+tidak langsung penawaran (supply) dan permintaan
+(demand) dari suatu mata uang dipengaruhi oleh
+neraca pembayaran (balance of payment), tingkat
+inflasi, tingkat suku bunga, tingkat pendapatan,
+peraturan dan kebijakan pemerintah.
+Berdasarkan sudut pandang teori makroekonomi,
+ada empat faktor yang dapat mempengaruhi nilai tukar,
+yaitu tingkat suku bunga, tingkat inflasi, peredaran
+uang dan neraca pembayaran. Ketiga faktor yang
+pertama merupakan faktor-faktor yang sangat penting
+dalam mempengaruhi atau menentukan nilai tukar.
+Neraca pembayaran merupakan faktor yang cukup
+kompleks, karena mempertimbangkan lebih banyak
+faktor ekonomi dibanding ketiga lainnya (Miranda S.,
+1993)
+Pengaruh tingkat inflasi terhadap kurs mata uang
+asing dapat dijelaskan dengan purchasing power
+parity theory (PPP) atau teori kesamaan daya beli.
+PPP absolut, yang juga disebut law of one price
+(LOP) menyatakan bahwa harga suatu barang atau
+produk yang sama di dua negara yang berbeda akan
+sama pula dinilai dalam mata uang yang sama. Jika
+ada perbedaan harga dalam mata uang yang sama,
+maka akan ada perubahan permintaan sehingga harga
+barang juga berubah. Konsekuensinya perubahan
+harga yang terjadi akan berakibat pada penyesuaian
+nilai tukar.
+
+140
+
+Trikonomika
+
+Vol. 10, No. 2, Desember 2011
+
+Interest Rate Parity Theory (IRP) atau teori IRP
+adalah salah satu teori yang paling dikenal dalam
+keuangan internasional yang menerangkan bagaimana
+hubungan bursa mata uang asing dengan pasar uang
+internasional. Teori ini menyatakan bahwa perbedaan
+tingkat bunga pada pasar uang internasional akan
+cenderung sama dengan forward rate premium atau
+discount.
+Dalam kenyataannya, korelasi antara tingkat
+bunga, inflasi dan nilai tukar tidaklah signifikan,
+karena dipengaruhi secara simultan oleh kejadian
+baru dan informasi yang sama (Kulkarni, 2008).
+Karena setiap kali ada perubahan yang terjadi akan
+selalu diikuti oleh penyesuaian-penyesuaian yang
+akan dilakukan.
+Beberapa studi mengenai perilaku pembentukan
+harga atau inflasi telah banyak dilakukan di beberapa
+negara, yang umumnya dengan menggunakan
+pendekatan ekonometrik/makro dan data agregat
+(Quah and Vahey, 1995; Gali, 1999; Bullard and
+Keating, 1995�����������������������������������
+)����������������������������������
+. ��������������������������������
+Studi berikutnya memperlengkapi
+hasil penelitian yang telah di­lakukan sebelumnya,
+yaitu dengan mengakomodir beberapa aspek antara
+lain perilaku pembentukan upah di pasar input,
+perilaku kegiatan di sektor wholesale, serta penekanan
+analisis pada kekakuan harga (price rigidity). Secara
+umum, kedua studi tersebut menyimpulkan bahwa
+inflasi di Indonesia lebih disebabkan oleh dorongan
+biaya (cost-push), yang umumnya dipicu oleh
+kenaikan administered price, pajak, upah minimum,
+dan depresiasi rupiah. Sementara
+����������������������������
+itu, tekanan sisi
+permintaan tidak begitu kuat, kecuali pada perayaan
+hari besar keagamaan. Temuan penting lainnya adalah
+pembuktian mengenai perilaku kekakuan harga yang
+bersifat downward rigidity (���������������
+Riyatno, 2007).
+Dari sisi Bank Indonesia, kuatnya pengaruh
+tekanan dari sisi penawaran tersebut mengimplikasi­
+kan pentingnya penerapan kebijakan moneter.
+Dalam hal ini, pengaruh kebijakan moneter
+terhadap struktur biaya dapat dibagi menjadi tiga
+saluran, yaitu expected inflation, nilai tukar, dan
+suku bunga. Kebijakan yang bersifat ekspansioner
+dapat menyebabkan terjadinya depresiasi yang pada
+gilirannya dapat menaikan harga-harga produk
+manufacturing melalui peningkatan harga bahan
+baku yang diimpor. Kebijakan tersebut juga dapat
+meningkatkan ekspektasi inflasi baik secara langsung
+melalui sisi permintaan agregat maupun secara tidak
+
+Zulki Zulkifli Noor
+
+langsung melalui peningkatan harga barang-barang
+tradable. Di lain pihak ongkos perusahaan dapat
+jadi turun melalui penurunan pembayaran bunga
+atas kredit perbankan. Oleh karena itu, efek bersih
+suatu kebijakan moneter terhadap struktur ongkos
+perusahaan sangat tergantung pada besaran efek nilai
+tukar dan ekspektasi inflasi yang berbanding terbalik
+dengan efek dari suku bunga. Selain itu, dengan
+karakteristik downward rigidity, Bank Indonesia perlu
+berhati-hati dalam mengimplementasikan kebijakan
+yang bersifat kontraktif (���������������
+Atmadja��������
+, 2002).
+Masalah di atas dapat dirumuskan sebagai
+berikut:���������������������������������������
+��������������������������������������
+a) Bagaimana dampak perubahan tingkat
+inflasi, tingkat suku bunga dan money supply
+secara parsial yang menyebabkan perubahan nilai
+tukar Rupiah terhadap Dollar Amerika? b) Berapa
+perubahan nilai tukar Rupiah terhadap Dollar Amerika
+yang sebenarnya dengan didasarkan pada ketiga
+faktor secara bersama-sama ditambah dengan faktor
+perubahan nilai tukar pada periode sebelumnya? c)
+Bagaimana hubungan sebab akibat (kausalitas) antara
+perubahan nilai tukar pada periode sebelumnya?
+
+METODE
+Dari beberapa faktor atau indikator ekonomi
+yang sering digunakan adalah tingkat inflasi,
+tingkat suku bunga dan money supply. Dari sekian
+banyak teori, tingkat inflasi mempunyai atau dapat
+mempengaruhi nilai tukar mata uang pada pasar
+uang. Penelitian Achsani et. al. (2010) menunjukkan
+bahwa di negara Asia, inflasi mempunyai pengaruh
+yang signifikan terhadap nilai tukar. Begitu pula
+dengan tingkat suku bunga dan money supply yang
+juga dapat mempengaruhi nilai tukar mata uang.
+Namun dengan keterbasan dan kekurangan ketiga
+faktor secara terpisah atau parsial, maka untuk dapat
+menentukan nilai tukar mata uang yang lebih baik,
+maka akan dilakukan dengan melakukan penggunaan
+faktor tingkat inflasi, tingkat suku bunga dan money
+supply.
+Inflasi merupakan kenaikan harga-harga umum
+secara berkelanjutan, yang merupakan salah satu
+variabel ekonomi makro penting, karena mem­
+pengaruhi kesejahteraan penduduk suatu negara. Inflasi
+yang tinggi mengimplikasikan penurunan daya beli,
+sehingga kemampuan masyarakat untuk menikmati
+
+barang dan jasa semakin berkurang, dengan kata lain
+kesejahteraan berkurang. Sehubungan dengan itu,
+para pembuat kebijakan di negara-negara seluruh
+dunia berusaha sebisa mungkin mengendalikan inflasi
+(���������������
+Taylor, 1995).�
+Menurut Dornbusch-Fisher (1998), dampak inflasi
+terhadap perekonomian antara lain, yaitu semakin
+tingginya biaya memegang uang kartal, sehingga
+permintaan uang kartal akan berkurang, perubahan
+nilai riil dari aktiva yang ditetapkan dalam bentuk
+nominal, terjadinya redistribusi kekayaaan yang besar
+antar sektor yang ada seperti dari sektor perusahaan
+ke sektor rumah tangga meningkatnya kemiskinan,
+dan meningkatkan nilai riil pembayaran pajak. Selain
+itu menurut Makiw (1999) inflasi menyebabkan
+beberapa biaya sosial dalam perekonomian baik
+inflasi yang diharapkan maupun inflasi yang tidak
+diharapkan, yaitu: penurunan jumlah uang yang
+dipegang, sehingga menimbulkan shoeleather cost
+dari inflasi; mendorong perusahaan lebih sering
+mengubah harga, di mana akan menambah biaya
+yang harus dikeluarkan perusahaan, menimbulkan
+distorsi dalam pajak yang dibebankan, menimbulkan
+ketidaknyamanan hidup dengan seringnya terjadi
+perubahan harga, terjadinya redistribusi kekayaan
+antar individu, dan menimbulkan ketidakpastian bagi
+kreditor dan debitor (��������������
+Hamdy, 2009).�
+Terdapat banyak penjelasan mengenai sebabsebab inflasi dan terdapat banyak pula alternatif model
+untuk menjelaskan proses inflasi. Pada umumnya
+disepakati bahwa dalam jangka panjang inflasi
+merupakan fenomena moneter (Zyblock, 2005). Akan
+tetapi, hasil penelitian Tang (2008) menunjukkan
+bahwa di Malaysia inflasi tidak selalu merupakan
+fenomena moneter. Namun demikian, dalam horizon
+yang relevan dengan kebijakan moneter, inflasi dapat
+pula disebabkan oleh variabel-variabel lain. Kejutankejutan yang meningkatkan permintaan agregat relatif
+terhadap penawaran agregat dapat memicu inflasi.
+Kejutan-kejutan terhadap variabel-variabel nominal
+domestik, seperti upah atau harga-harga impor dapat
+meningkatkan biaya produksi dan dengan demikian
+juga meningkatkan inflasi. Selain itu, pergerakan
+dalam nilai tukar dapat mempengaruhi inflasi melalui
+harga impor dan melalui pengaruhnya terhadap
+ekspektasi dan prilaku penetapan harga (price-setting
+behaviour) oleh para pelaku ekonomi.
+
+Pengaruh Inflasi, Suku Bunga, dan Jumlah Uang Beredar
+terhadap Nilai Tukar
+
+141
+
+Metode analisa yang akan digunakan adalah
+regresi linier berganda, yang di mana akan diperoleh
+persamaan sebagai berikut:
+%ER = a + b(%ERi–l) + c(M1h – M1f) + d(ih – if) +
+e(Eh – Ef)
+Dimana:
+ih		 = tingkat suku bunga di Indonesia
+if		 = tingkat suku bunga di Amerika Serikat
+Eh		 = tingkat inflasi di Indonesia
+Ef		 = tingkat inflasi di Amerika Serikat
+M1h		 = money supply di Indonesia
+M1f		 = money supply di Amerika Serikat
+%ER = Perubahan nilai tukar Rupiah terhadap Dollar
+%ERi-1 = Perubahan nilai tukar Rupiah terhadap
+Dollar periode sebelumnya
+Lalu dilakukan uji durbin watson untuk me­
+meriksa ada atau tidaknya autokorelasi, sebab dalam
+asumsi regresi linier adalah tidak terdapatnya auto­
+korelasi. Lalu uji t dilakukan untuk menguji apakah
+masing-masing variabel bebas dapat memberi
+signifikansi terhadap variabel terikat secara terpisah
+serta uji F yang dilakukan untuk menguji pengaruh
+secara bersama-sama semua variabel bebas terhadap
+variabel terikat. Terakhir adalah uji kausalitas
+(Granger’s Causality test) untuk melihat ada tidaknya
+hubungan kausalitas (Gujarati, 1995).
+
+HASIL
+PPP, IRP, dan Money Supply
+Seperti yang telah disebutkan, pendekatan secara
+teoritis adalah dengan membandingkan perubahan
+nilai tukar Rupiah terhadap Dollar Amerika secara
+terpisah berdasarkan faktor tingkat suku bunga yang
+terkait dengan teori interest rate parity (IRP), faktor
+inflasi yang terkait dengan teori purchasing power
+parity (PPP) dan faktor money supply
+Dengan Pendekatan berdasarkan tingkat inflasi
+saja, sebelumnya dapat dilihat pada Tabel 1. Seperti
+dilihat pada Tabel 1., maka perubahan nilai tukar tidak
+dapat didasarkan pada tingkat inflasi saja. Contoh,
+seperti pada tahun 2009 untuk quarter pertama
+dengan menggunakan teori PPP perubahan nilai tukar
+
+142
+
+Trikonomika
+
+Vol. 10, No. 2, Desember 2011
+
+seharusnya adalah 1,46% namun pada perubahan
+sesungguhnya yang terjadi adalah sekitar 6,76%.
+Atau kalau kita tarik mundur pada tahun 2008 quarter
+ketiga, dengan menggunakan teori PPP perubahan
+nilai tukar seharusnya adalah –2,77%, namun pada
+perubahan sesungguhnya yang terjadi adalah sekitar
+23,79%.
+Lalu dengan pendekatan berdasarkan tingkat
+suku bunga saja, ada baiknya melihat terlebih dahulu
+pada Tabel 2. Seperti dilihat pada Tabel 2., maka
+perubahan nilai tukar tidak dapat didasarkan pada
+tingkat suku bunga saja. Contoh, seperti pada tahun
+2009 untuk quarter kedua dengan menggunakan teori
+IRP perubahan nilai tukar seharusnya adalah 5,47%,
+namun pada perubahan sesungguhnya yang terjadi
+adalah sekitar 15,57% atau kalau kita tarik mundur
+pada tahun 2008 quarter ketiga, dengan menggunakan
+teori IRP perubahan nilai tukar seharusnya adalah
+7,2% namun pada perubahan sesungguhnya yang
+terjadi adalah sekitar –14,46%.
+Lalu dengan pendekatan berdasarkan faktor
+money supply saja, ada baiknya melihat terlebih
+dahulu pada Tabel 3. Seperti dilihat pada Tabel 3.,
+maka perubahan nilai tukar tidak dapat didasarkan
+pada perubahan money supply saja. Contoh, seperti
+pada tahun 2009 untuk quarter kedua dengan
+menggunakan pendekatan perubahan money supply,
+perubahan nilai tukar seharusnya adalah 7,92%
+namun pada perubahan sesungguhnya yang terjadi
+adalah sekitar 12,57%. Atau kalau kita tarik mundur
+pada tahun 2008 quarter kedua, dengan menggunakan
+perubahan money supply, perubahan nilai tukar
+seharusnya adalah 0,17%, namun pada perubahan
+sesungguhnya yang terjadi adalah sekitar –23,15%.
+Dari ketiga hasil tersebut, maka terlihat bahwa
+dengan menggunakan ketiga faktor tersebut secara
+terpisah tidak dapat menentukan perubahan nilai tukar
+yang terjadi. Banyak perbedaan-perbedaan yang ada
+antara nilai tukar yang seharusnya dengan nilai tukar
+yang sebenarnya.
+Dari uji-uji yang telah dilakukan serta
+perhitungan-perhitungan statistik maka diperoleh
+persamaan regresi sebagai berikut:
+%ER = –1,104 + 0,140(%ERi–l) + 1,942(M1h – M1f) +
+0,008(ih – if) + 0,344(Eh – Ef)
+
+Zulki Zulkifli Noor
+
+Tabel 1. Perbandingan PPP dengan perubahan nilai tukar sebenarnya
+Nilai Tukar
+Rupiah / 1 US$
+
+Change(%)
+
+1,96
+
+0,89
+
+2402,0
+
+0,80
+
+0,38
+
+0,62
+
+0,24
+
+2431,9
+
+1,24
+
+0,38
+
+2,92
+
+2,54
+
+3269,0
+
+34,42
+
+Q4
+
+0,47
+
+3,01
+
+2,54
+
+5402,5
+
+65,26
+
+Q1
+
+0,19
+
+19,20
+
+19,01
+
+8550,0
+
+58,26
+
+Q2
+
+0,56
+
+18,30
+
+17,74
+
+14950,0
+
+74,85
+
+Q3
+
+0,37
+
+20,10
+
+19,73
+
+10850,0
+
+–27,42
+
+Q4
+
+0,37
+
+4,78
+
+4,41
+
+8000,0
+
+–26,27
+
+Q1
+
+0,37
+
+4,76
+
+4,39
+
+8725,0
+
+9,06
+
+Q2
+
+1,01
+
+–0,67
+
+–1,68
+
+6705,0
+
+–23,15
+
+Q3
+
+0,55
+
+–2,22
+
+–2,77
+
+8300,0
+
+23,79
+
+Q4
+
+0,64
+
+–0,09
+
+–0,73
+
+7100,0
+
+–14,46
+
+Q1
+
+0,99
+
+2,45
+
+1,46
+
+7580,0
+
+6,76
+
+Q2
+
+1,08
+
+1,04
+
+–0,04
+
+8760,0
+
+15,57
+
+Q3
+
+0,80
+
+2,24
+
+1,44
+
+8775,0
+
+0,17
+
+Q4
+
+0,53
+
+2,84
+
+2,31
+
+9675,0
+
+10,26
+
+Q1
+
+0,96
+
+2,94
+
+1,98
+
+9752,0
+
+0,80
+
+Q2
+
+1,04
+
+0,03
+
+-1,01
+
+11390,0
+
+16,80
+
+Kuartal
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Tingkat Inflasi
+
+Eh – Ef
+
+Tahun
+
+USA
+
+Indonesia
+
+Q1
+
+1,07
+
+Q2
+Q3
+
+Tabel 2. Perbandingan PPP dengan perubahan nilai tukar sebenarnya
+Nilai Tukar
+Rupiah / 1 US$
+
+Change(%)
+
+11,07
+
+6,07
+
+2402,0
+
+0,80
+
+5,00
+
+10,50
+
+5,50
+
+2431,9
+
+1,24
+
+Q3
+
+5,00
+
+22,00
+
+17,00
+
+3269,0
+
+34,42
+
+Q4
+
+5,00
+
+20,00
+
+15,00
+
+5402,5
+
+65,26
+
+Q1
+
+5,00
+
+27,75
+
+22,75
+
+8550,0
+
+58,26
+
+Q2
+
+5,00
+
+58,00
+
+53,00
+
+14950,0
+
+74,85
+
+Q3
+
+5,00
+
+68,76
+
+63,76
+
+10850,0
+
+–27,42
+
+Q4
+
+4,50
+
+38,44
+
+33,94
+
+8000,0
+
+–26,27
+
+Q1
+
+4,73
+
+37,84
+
+33,11
+
+8725,0
+
+9,06
+
+Q2
+
+4,75
+
+22,05
+
+17,30
+
+6705,0
+
+–23,15
+
+Q3
+
+5,09
+
+13,02
+
+7,93
+
+8300,0
+
+23,79
+
+Q4
+
+5,31
+
+12,51
+
+7,20
+
+7100,0
+
+–14,46
+
+Q1
+
+5,68
+
+11,03
+
+5,35
+
+7580,0
+
+6,76
+
+Q2
+
+6,27
+
+11,74
+
+5,47
+
+8760,0
+
+15,57
+
+Q3
+
+6,52
+
+13,62
+
+7,10
+
+8775,0
+
+0,17
+
+Q4
+
+6,47
+
+14,53
+
+8,06
+
+9675,0
+
+10,26
+
+Q1
+
+5,59
+
+15,82
+
+10,23
+
+9752,0
+
+0,80
+
+Q2
+
+4,33
+
+16,65
+
+12,32
+
+11390,0
+
+16,80
+
+Kuartal
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Tingkat Suku Bunga
+
+Ih - If
+
+Tahun
+
+USA
+
+Indonesia
+
+Q1
+
+5,00
+
+Q2
+
+Pengaruh Inflasi, Suku Bunga, dan Jumlah Uang Beredar
+terhadap Nilai Tukar
+
+143
+
+Tabel 3. Perbandingan perubahan pada money supply
+dengan perubahan nilai tukar sebenarnya
+Tahun
+
+Kuartal
+
+Nilai Tukar
+Rupiah / 1 US$
+
+Change(%)
+
+2006
+
+Q1
+
+2402,0
+
+Q2
+
+2007
+
+2008
+
+2009
+
+2010
+
+Indonesia
+
+0,80
+
+–2,00
+
+–0,82
+
+1,18
+
+2431,9
+
+1,24
+
+–0,32
+
+10,04
+
+10,36
+
+Q3
+
+3269,0
+
+34,42
+
+–0,45
+
+–5,28
+
+–4,83
+
+Q4
+
+5402,5
+
+65,26
+
+3,57
+
+18,24
+
+14,67
+
+Q1
+
+8550,0
+
+58,26
+
+–1,98
+
+25,44
+
+27,41
+
+Q2
+
+14950,0
+
+74,85
+
+–0,07
+
+11,41
+
+11,47
+
+Q3
+
+10850,0
+
+–27,42
+
+–0,41
+
+–6,32
+
+–5,91
+
+Q4
+
+8000,0
+
+–26,27
+
+4,71
+
+–1,33
+
+–6,04
+
+Q1
+
+8725,0
+
+9,06
+
+–2,13
+
+4,45
+
+6,59
+
+Q2
+
+6705,0
+
+–23,15
+
+0,07
+
+0,25
+
+0,17
+
+Q3
+
+8300,0
+
+23,79
+
+–1,00
+
+11,48
+
+12,48
+
+Q4
+
+7100,0
+
+–14,46
+
+–5,54
+
+5,51
+
+–0,03
+
+Q1
+
+7580,0
+
+6,76
+
+–3,50
+
+0,02
+
+3,53
+
+Q2
+
+8760,0
+
+15,57
+
+–0,56
+
+7,36
+
+7,92
+
+Q3
+
+8775,0
+
+0,17
+
+–1,19
+
+1,19
+
+2,38
+
+Q4
+
+9675,0
+
+10,26
+
+2,25
+
+20,49
+
+18,24
+
+Q1
+
+9752,0
+
+0,80
+
+–0,44
+
+–9,08
+
+–8,64
+
+Q2
+
+11390,0
+
+16,80
+
+1,33
+
+7,93
+
+6,60
+
+Uji Durbin-Watson
+Seperti yang telah disebutkan pada bab sebelum­
+nya, di mana asumsi yang mendasari suatu pengujian
+di dalam regresi linier harus memenuhi asumsi dasar
+bahwa tidak terdapat autokorelasi antara variabel
+bebas yang satu dengan variabel bebas yang lainnya.
+Dalam uji ini diperoleh nilai D = 2,332. Pada tabel
+Durbin-Watson terdapat dua nilai, yaitu nilai bawah
+(dl) dan nilai atas (du). Jika nilai D yang diperoleh
+berada di atas nilai du, maka tidak terjadi autokorelasi,
+sedangkan jika nilai D berada dibawah nilai dl, maka
+terjadi autokorelasi. Dengan menggunakan level
+of significance = 0,01 dan k = 4 (jumlah variabel
+dikurang 1) didapat nilai dl = 0,61 dan du = 1,60.
+Karena nilai D yang diperoleh adalah 2,332, maka
+nilai ini terletak di atas nilai du, sehingga dengan kata
+lain tidak terjadi autokorelasi dalam regresi ini.
+
+Trikonomika
+
+M1h M1f
+
+USA
+
+PEMBAHASAN
+
+144
+
+Change M1 (%)
+
+Vol. 10, No. 2, Desember 2011
+
+Uji -t
+Uji t dilakukan untuk melihat apakah koefisienkoefisien masing-masing variabel bebas signifikan
+atau tidak terhadap variabel tak bebas secara terpisah.
+Dalam uji t harus ditentukan derajat kebebasan (df)
+yang di mana diperoleh dari jumlah sampel dikurangi
+jumlah regresor (variabel). Pada penelitian ini didapat
+derajat kebebasan adalah 13 (18 – 5 = 13). Dengan level
+of significance = 0,01, dan tα/2 = 0,005, maka didapat
+nilai t-tabel adalah 3,012. Dari hasil perhitungan
+nilai t untuk semua variabel berada di bawah nilai
+t-tabel, sehingga dari hal ini dapat diartikan bahwa
+semua variabel bebas, yaitu inflasi suku bunga dan
+money supply tidak signifikan terhadap variabel tak
+bebas dalam hal ini perubahan nilai tukar Rupiah
+terhadap Dollar Amerika secara parsial atau terpisah.
+Oleh karena itu, harus dilakukan pengujian dalam hal
+ini uji-F untuk melihat secara bersama-sama cukup
+signifikan mempengaruhi nilai tukar.
+
+Zulki Zulkifli Noor
+
+Uji -F
+Adapun tujuan dari Uji-F ini adalah seperti
+disebutkan sebelumnya adalah untuk mengetahui
+adanya signifikansi terhadap perubahan nilai tukar
+Rupiah terhadap Dollar Amerika, jika ketiga variabel
+bebas digunakan secara bersama-sama. Dalam uji-F
+ini, jika nilai F hitung lebih kecil dari nilai F yang
+diperoleh dari tabel, maka hipotesis yang dibuat
+dapat diterima. Dari perhitungan yang ada, diperoleh
+nilai F adalah sebesar 2,97145 dan nilai F tabel
+yang diperoleh dengan sedikit tabulasi adalah 14,31.
+Seperti dilihat, nilai F hitung ternyata lebih kecil dari
+nilai F tabel, sehingga dapat diartikan bahwa bahwa
+ada signifikansi terhadap variable tak bebas dalam
+hal ini perubahan nilai tukar Rupiah terhadap Dollar
+Amerika yang disebabkan oleh ketiga faktor bebas
+secara bersamaan dalam hal ini tingkat inflasi, suku
+bunga dan money supply ditambah dengan perubahan
+nilai tukar sebelumnya.
+Dari persamaan regresi di atas menujukan bahwa
+perubahan nilai tukar pada periode sebelumnya
+menunjukan memiliki hubungan positif, yaitu sebesar
+0,140%, sedangkan selisih perubahan money supply
+antara Indonesia dan Amerika akan menyebabkan
+perubahan nilai tukar sebesar 1,942%. Tingkat
+suku bunga antara Indonesia dan Amerika akan
+menyebabkan perubahan nilai tukar sebesar 0,008%
+dan tingkat inflasi antara Indonesia dan Amerika akan
+menyebabkan perubahan nilai tukar sebesar 0,344%.
+Hasil tersebut dapat dijelaskan dengan
+menggunakan beberapa teori di antaranya adalah
+teori Purchasing Power Parity (PPP theory) yang
+menjelaskan bahwa jika harga barang di luar negeri
+turun sedangkan harga barang domestik tetap,
+maka barang impor relatif menjadi lebih murah,
+sehingga permintaannya akan naik. Kondisi ini akan
+mendorong mata uang domestik mengalami depresiasi
+atau mata uang asing mengalami apresiasi. Teori
+lainnya menjelaskan bagaimana hubungan tingkat
+suku bunga dengan perubahan nilai tukar yang dapat
+dijelaskan bahwa perubahan tingkat suku bunga akan
+menyebabkan perubahan dalam expected return dari
+investasi keuangan. Semakin tinggi suku bunga di
+suatu negara maka akan meningkatkan expected
+return investasi keuangan di negara tersebut dan
+akan menyebabkan masuknya aliran dana dari luar
+negeri, yang pada akhirnya akan dapat menimbulkan
+
+penguatan terhadap nilai tukar mata uang domestik
+terhadap mata uang asing. Hubungan lainnya adalah
+antara jumlah uang beredar dengan perubahan nilai
+tukar dapat dijelaskan bahwa sesuai dengan teori
+moneter, semakin banyak jumlah uang beredar di suatu
+negara akan menyebabkan peningkatan harga-harga
+(inflasi). Pengingkatan inflasi akan menyebabkan mata
+uang suatu negara mengalami depresiasi. Perubahan
+yang disebabkan oleh setiap variabel bebas tersebut
+harus dilakukan secara simultan atau bersama-sama,
+tidak dapat dilihat dari satu-persatu variabel bebas
+tersebut.
+Berdasarkan perhitungan yang telah dilakukan
+untuk faktor nilai tukar pada periode sebelumnya,
+perubahan money supply, dan tingkat suku bunga
+didapat nilai uji-F berturut-turut adalah 6,143 untuk
+perubahan nilai tukar periode sebelumnya 4,05909
+untuk perubahan money supply, dan 11,90719 untuk
+tingkat suku bunga, sehingga dari nilai-nilai tersebut
+yang di mana berada di bawah nilai F-tabel yang
+sebesar 14,31, maka dapat diartikan untuk ketiga
+faktor ini terhadap perubahan nilai tukar terjadi
+bilateral causality, sedangkan untuk faktor inflasi
+didapat nilai F sebesar 22,38732, sehingga untuk
+faktor ini tidak terjadi hubungan kausalitas pada arah
+sebaliknya.
+Hasil analisis mengindikasikan bahwa tingkat
+inflasi, suku bunga dan jumlah uang beredar
+mempunyai hubungan positif dengan perubahan nilai
+tukar, namun dengan pengaruh yang sebagian besar
+tidak signifikan. Di lain pihak, faktor-faktor di luar
+variabel bebas ternyata lebih banyak mempengaruhi
+pergerakan nilai tukar rupiah terhadap Dollar Amerika
+(Madura, 2009). Faktor-faktor lain dapat saja
+merupakan faktor ekonomi yang tidak diakomodasi
+dalam penelitian ini atau dapat juga merupakan
+faktor-faktor non ekonomi, seperti politik, hankam,
+konsistensi dalam penegakan hukum, sosial budaya,
+dan sebagainya. Karena pergerakan nilai tukar mata
+uang rupiah di Indonesia ternyata bukan merupakan
+dominasi faktor ekonomi saja, maka tanggung jawab
+pengendalian nilai tukar bukan hanya berada pada
+pemegang otoritas moneter ataupun instansi yang
+bergerak dalam sektor ekonomi saja, tetapi juga
+merupakan tanggung jawab dari instansi lainnya
+(yang beraktivitas di luar bidang ekonomi) dalam
+menciptakan kondisi yang dapat menunjang proses
+
+Pengaruh Inflasi, Suku Bunga, dan Jumlah Uang Beredar
+terhadap Nilai Tukar
+
+145
+
+pencapaian nilai tukar seperti yang telah ditargetkan.
+Untuk itu, maka perlu adanya pembagian tugas
+yang jelas dan terarah antar lembaga negara dengan
+kebijakan-kebijakan pemerintah yang komprohensif,
+baik di bidang ekonomi maupun di bidang non
+ekonomi, hingga terciptanya sinergi.
+Lebih lanjut, kebijakan perubahan suku bunga
+SBI yang kerapkali digunakan oleh bank sentral
+dengan maksud mengendalikan nilai tukar rupiah
+terhadap dolar Amerika ternyata tidak mampu secara
+signifikan mempengaruhi perubahan nilai tukar rupiah.
+Hal ini secara ekonomi antara lain dapat disebabkan,
+karena adanya kebijakan bank sentral Amerika yang
+kadangkala juga menggunakan instrumen yang sama
+(dengan fedfund-nya) dalam mempertahankan nilai
+tukar Dollar Amerika terhadap mata uang asing
+lainnya, dan karena tingginya tingkat inflasi yang
+terjadi di Indonesia. Selain itu, juga karena tingkat
+bunga di pasar uang domestik yang tinggi, yang
+tercipta karena pengaruh dari tingginya suku bunga
+SBI, ternyata tidak mampu secara signifikan menarik
+aliran dana masuk dari luar negeri.
+
+KESIMPULAN
+Dari pengujian statistik yang telah dilakukan,
+diperoleh hasil di mana ketika ketiga faktor yang
+digunakan secara bersama ditambah faktor perubahan
+nilai tukar pada periode atau kurun waktu sebelumnya,
+akan memberikan pengaruh pada perubahan nilai
+tukar. Perubahan nilai tukar periode sebelumnya,
+perubahan selisih money supply Indonesia dan
+Amerika, selisih terhadap suku bunga antara
+Indonesia dan Amerika, selisih inflasi Indonesia dan
+Amerika akan menyebabkan perubahan dalam nilai
+tukar Rupiah terhadap Dollar Amerika.
+Dalam penelitian ini, digunakan faktor-faktor
+yang sangat umum digunakan dan mudah dalam
+pemahaman, sehingga masa yang akan datang
+berbeda dengan yang diperkirakan dari persamaan
+regresi yang diperoleh. Ini disebabkan dalam ekonomi
+terlalu banyak faktor yang harus dipertimbangkan
+selain kompleksitas dari masalah ekonomi itu sendiri.
+Selain itu juga keterbatasan data yang diperoleh,
+dapat juga membuat penelitian ini, dimasa yang akan
+datang dapat lebih disempurnakan dengan menambah
+jumlah data. Selain itu, dari penelitian ini diharapkan
+
+146
+
+Trikonomika
+
+Vol. 10, No. 2, Desember 2011
+
+dapat menjadi awal untuk melakukan penelitianpenelitian lain dengan objek-objek penelitian yang
+lain seperti dengan perubahan nilai tukar Rupiah dan
+Yen Jepang, atau dengan negara-negara lain yang di
+mana merupakan mitra bisnis dan ekonomi negara
+Indonesia.
+
+DAFTAR PUSTAKA
+Achsani, N. A., Fauzi, A. J. 2010. The Relationship
+between Inflation and Real Exchange Rate:
+Comparative Study between ASEAN+3, The EU
+and North America. European Journal of Economics
+Finance and Administrative Sciences, 18: 69-76.
+Atmadja, Adwin Surja. 2002. Analisa Pergerakan
+Nilai Tukar Rupiah Terhadap Dollar Amerika
+Setelah diterapkannya Kebijakan Sistem Nilai
+Tukar Mengambang Bebas di Indonesia. Jurnal
+Akuntansi & Keuangan, 4(1).
+Bortov, E., dan Bodnar, G. M. 1994. Firm Valuation,
+Earning Expectation and the Exchange Rate
+Exposure Effect. Journal of Finance.
+Bullard, J. and Keating, J. W. 1995. The Long Run
+Relationship between Inflation and Output
+in Postwar Economics. Journal of Monetary
+Economics, 36:477-496.
+Erawati, Neny dan Richrd Llewelyn. 2000.
+Analisa Pergerakan Suku Bunga dan Laju
+Ekspektasi Inflasi untuk Menentukan Kebijakan
+Moneter di Indonesia. Jurnal Manajemen dan
+Kewirausahaan, 4.
+Gali, Jordi and Gertler, Mark. 1999. Inflation
+Dynamics: A Structural Econometric Analysis.
+Journal of Monetary Economics, 44: 195-222.
+Goeltom, Miranda S. 1998. Manajemen Nilai Tukar di
+Indonesia dan Permasalahannya. Buletin Ekonomi
+Moneter Dana Perbankan, 1(2) Bank Indonesia,
+Jakarta.
+Gujarati, Damodar N. 1995. Basic Econometrics.
+Third Edition. New York: The McGraw-Hill
+Companies.
+Haryanto, Riyatno. 2007. Pengaruh Suku Bunga
+Sertifikat Bank Indonesia dan Nilai Kurs terhadap
+risiko sistematik saham perusahaan di BEJ. Jurnal
+Keuangan dan Bisnis. 5(1): 24-40.
+Hady, Hamdy. 2009. Ekonomi Internasional (Buku
+Kedua, Edisi Revisi). Jakarta: Ghalia Indonesia.
+
+Zulki Zulkifli Noor
+
+Ma, C. K., dan Kao, W. 1990. On Exchange Rate
+Changes and The Distribution of Industry Value.
+Journal of International Business Studies.
+Madura, Jeff. 2009. International Financial
+Management (6th edition). USA: South-Western
+College Publishing.
+Mudji Utami dan Mudjilah Rahayu. 2003. Peranan
+Profitabiliatas, Suku Bunga, Inflasi dan Nilai Tukar
+dalam Mempengaruhi Pasar Modal Indonesia
+Selama Krisis Ekonomi. Jurnal Manajemen dan
+Kewirausahaan, 5 (2): 123-131.
+Quah, Danny and Vahey, Shaun. 1995. Measuring
+Core Inflation. The Economic Journal, 105(432):
+1130-1144.
+
+Schiller, Bradley R. 1996. Essentials Of Economics (2nd
+edition). New York: The McGraw-Hill Companies.
+Tang, Chor Foon. 2008. Is Inflation always a Monetary
+Phenomenon in Malaysia?. Journal of Social
+Economics, 29(5): 411-425.
+Taylor, Mark, P. 1995. The Economics of Exchange
+Rates. Journal of Economic Literature, XXXVIII
+(March): 13-47.
+Wahana Komputer Semarang. 2002. 10 Model
+Penelitian dan Pengolahannya dengan SPSS
+10.01. Yogyakarta: Andi dan Wahana Komputer.
+Zyblock, Myles. 2005. Inflation is always and
+Everywhere a Monetary Phenomenon. John
+Mauldin’s “Outside the Box”, 1(21).
+
+Pengaruh Inflasi, Suku Bunga, dan Jumlah Uang Beredar
+terhadap Nilai Tukar
+
+147
+
+

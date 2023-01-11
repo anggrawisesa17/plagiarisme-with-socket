@@ -1,0 +1,750 @@
+(Jurnal Teknologi Informasi) Vol.2, No.1. Juni 2018
+
+P-ISSN 2580-7927 | E-ISSN 2615-2738
+
+Implementasi E-Arsip Pada Program Studi Teknik Informatika
+Muhammad Dedi Irawan1, Selli Aprilla Simargolang2
+1,2
+
+Teknik informatika, universitas asahan
+Jl Jend.Ahmad Yani, Kisaran, Sumatera Utara 21216, Indonesia
+1
+
+temansejati.dedi@gmail.com, 2sellygolang@gmail.com
+
+Abstrak - Pembuatan Implementasi E-Arsip pada Program Studi Teknik Informatika ini diupayakan untuk
+kesempurnaan dalam penyelenggaraan kearsipan yang selama ini belum bersifat terpadu, dan seringkali pengelolaan
+dokumen-dokumen masih dilakukan secara manual. Sehingga membuat pekerjaan menjadi tidak efektif dan efisien
+ketika dihadapkan pada kebutuhan informasi yang cepat. Metode pengumpulan data yang digunakan adalah melalui
+observasi dan studi pustaka. Berdasarkan tinjauan teori, analisis serta implementasi pemograman yang digunakan
+dengan bahasa pemgoraman PHP dengan editor Notepad ++ dan database menggunakan XAMPP, sehingga
+menghasilkan pemograman e-arsip yang berbasiskan web, yang dapat digunakan secara langsung pada Program
+Studi Teknik Informatika yang dapat membantu proses penyelenggara kearsipan yang sesuai dengan prinsip.
+Sehingga nantinya dalam proses pencarian data dan informasi arsip menjadi lebih mudah, dan lebih akurat.
+Kata Kunci - E-Arsip, Implementasi, Web
+
+I. PENDAHULUAN
+Terdapat beberapa instansi-instansi yang belum
+mengikuti perkembangan dalam pengeolaan arsip.
+Dalam pengelolaannya instasi-intasi tersebut tidak
+terlalu memperhatikan pengelolaan arsip khususnya
+arsip berbasis elektronik. Dan hasil dari sebagian besar
+masih berupa arsip jenis kertas. Hal ini mengakibatkan
+pada banyaknya arsip kertas. Sehingga menimbulkan
+berbagai masalah terkait dengan tempat penyimpanan,
+biaya pemeliharaan, tenaga pengelola, fasilitas,
+ataupun faktor lain yang bisa menyebabkan kerusakan
+arsip.
+Oleh sebab itu pemanfaatan teknologi informasi dan
+komunikasi dalam berupa media komputer juga
+menjadi alasan mengapa arsip harus dikelola secara
+elektronik. Dengan adanya media elektronik seperti
+komputer dan aplikasi-aplikasi berbasiswa desktop
+maupun web dapat membantu proses pengelolaan dan
+pengurusan arsip akan menjadi lebih mudah dan tidak
+akan memakan waktu lama. Pemanfaatan komputer
+dapat menjadikan arsip konvensional menjadi digital
+atau juga dapat menciptakan arsip elektronik.
+Penggunaan media elektronik dalam pengelolaan arsip
+inilah yang sering disebut sebagai Sistem Pengarsipan
+Elektronik (Electronic Filing System) yang
+berbasiskan pada penggunaan komputer.
+
+segala hal yang kita kerjakan dalam rutinitas harian.
+Dalam administrasi dan manajemen arsip berperan
+sangat vital sebagai bahan untuk perencanaan, bahan
+pengawasan dan pelaporan, bahan utama pengambilan
+keputusan dalam suatu organisasi dan tanpa arsip tidak
+mungkin suatu organisasi dapat beroperasi dengan
+tertib, teratur dan lancar. Pengelolaan arsip yang tidak
+teroganisir dengan baik akan menyulitkan kita pada
+saat kita memerlukan kembali atau memanfaatkan
+kembali data tersebut, terutama dalam pencarian
+datanya, terlebih lagi jika kita sedang membutuhkan
+data tersebut dalam waktu yang tergesa-gesa.
+C. Tujuan Penyimpanan Arsip
+Menurut Haryadi (dalam Fauziah Latif dan Aditya
+Wirangga Pratama, 2015), tujuan penyimpanan arsip
+adalah sebagai pusat ingatan dan informasi jika berkas
+diperlukan sebagai keterangan, memberi data kepada
+pegawai yang memerlukan data mengenai hasil-hasil
+kegiatan dan pekerjaan pada masa lampau,
+memberikan keterangan vital, sesuai dengan ketentuan
+perundang-undangan.
+D. Pengertian E-Arsip
+Menurut publikasi kominfo (dalam Rita Prima
+Bendriyanti dan Leni Natalia Zulita, 2012), e-arsip
+adalah sebuah sistem kearsipan secara elektronis yang
+dapat digunakan oleh staf atau pegawai instansi
+pemerintahan sebagai suatu alat yang berguna dalam
+memantau dan mengelola hal-hal yang berkaitan
+dengan sistem kearsipan baik berbentuk berkas, folder,
+audio, visual.
+
+II. LANDASAN TEORI
+A. Pengertian Implementasi
+Menurut Rimaru (dalam Rita Prima Bendriyanti
+dan Leni Natalia Zulita, 2012),
+implementasi
+merupakan suatu proses mendapatkan suatu hasil yang
+sesuai dengan tujuan atau sasaran kebijakan itu
+sendiri. Dimana pelaksana kebijakan melakukan suatu
+aktivitas atau kegiatan.
+
+E. Manfaat Manajemen Arsip Elektronik
+Menurut Fauziah Latif dan Aditya Wirangga
+Pratama (2015), beberapa manfaat penggunaan sistem
+pengelolaan secara elektonik yang mendorong
+sebagian besar organisasi untuk mengimplementasikan manajemen arsip elektronik diantaranya adalah:
+1. Cepat ditemukan dokumen tanpa meninggalkan
+meja kerja dan memungkinkan pemanfaatan
+arsip.
+
+B. Pengertian Arsip
+Menurut Normah (2017), arsip merupakan
+hal yang paling utama dan mendasar yang harus
+diperhatikan dalam segala jenis kegiatan administrasi,
+manajemen dalam suatu organisasi dikarenakan arsip
+merupakan data informasi yang tersimpan mengenai
+67
+
+(Jurnal Teknologi Informasi) Vol.2, No.1. Juni 2018
+
+2. Pengindeksan yang fleksibel dan Pencarian
+dengan mencari file berdasarkan kata kunci
+maupun nama file dan ditemukan nya dalam
+bentuk full text dokumen secara full-text,
+3. Kita hanya dapat melihat dilayar monitor atau
+print-nya tanpa dapat mengubahnya. Sehingga
+kecil kemungkinan file akan hilang.
+4. Resiko rusak nya dokumen kertas atau buram
+karena usia dapat diminimalisir karena
+tersimpan secara digital.
+5. Lebih accountable menuju good governance
+karena manajemen pengawasan yang lebih
+mudah, cepat.
+6. Mudah memback-up data kedalam media
+penyimpanan yang
+compatible dalam
+melakukan recovery data.
+
+P-ISSN 2580-7927 | E-ISSN 2615-2738
+
+G. Pengertian Implementasi E-Arsip
+Menurut Wallace (dalam Rita Prima Bendriyanti
+dan Leni Natalia Zulita, 2012), sistem kearsipan
+adalah untuk kepentingan operasional dengan asas
+bahwa hanya informasi yang tepat digunakan oleh
+orang yang tepat dan untuk kepentingan tepat pada
+waktu yang tepat dengan biaya serendah mungkin
+dengan rangkaian subsistem dalam manajemen
+kearsipan yang bekerja sama untuk mencapai tujuan
+agar arsip tertata dalam unit-unit informasi siap pakai.
+Sistem kearsipan harus bisa mencakup semua
+subsistem dalam manajemen kearsipan. Manajemen
+kearsipan dimaknai sebagai pelaksanaan fungsi-fungsi
+manajeman di dalam rangka mengelola keseluruhan
+daur hidup arsip. Daur hidup arsip mencakup proses
+penciptaan,
+pendistribusian,
+penggunaan,
+penyimpanan arsip aktif, pemindahan arsip,
+penyimpanan arsip inaktif, pemusnahan, dan
+penyimpanan arsip permanen.
+Pengertian implementasi e-arsip dapat suatu
+proses yang dinamis dalam melakukan kegiatan
+kearsipan untuk memantau dan mengelola hal-hal
+yang berkaitan dengan sistem kearsipan.
+
+F. Kelebihan dan Kekurangan Pengelolaan Arsip
+Elektronik
+Menurut Machsun Rifauddin (2016), adapun
+diantara kelebihan pengelolaan arsip elektonik antara
+lain:
+1. Proses pencarian dokumen lebih cepat, tanpa
+harus meninggalkan meja kerja.
+2. Arsip elektronik hanya dapat dilihat di layar
+monitor atau dicetak tanpa dapat mengubahnya.
+Sehingga kemungkinan file akan hilang sangat
+kecil.
+3. Kenggunakan media penyimpanan elektonik
+berbasis digital. Sehingga menghemat tempat
+penyimpanan dan dapat
+meminimalisir
+kerusakan dokumen.
+4. Dengan memanfaatkan teknologi internet.
+Berbagi dokumen dapat dilakukan secara
+mudah.
+5. Orang lain yang tidak mempunyai otoritas tidak
+dapat untuk mengaksesnya. Karena Keamanan
+terjaga, dengan protect atau pasword sesuai
+keinginan pengelolanya, maka Mudah dalam
+melakukan recovery data, dengan cara
+memback-up
+data
+kedalam
+media
+penyimapanan yang compatible.
+
+H. Pengertian Web
+Menurut M.Rudyanto Arief (dalam Medi
+Suhartanto, 2012), web adalah salah satu aplikasi yang
+berisikan dokumen-dokumen multimedia didalamnya
+yang menggunakan protokol HTTP (hyper text
+transfer protocol) dan dalam mengunakan perangkat
+lunak yang disebut browser.. Browser (perambah)
+adalah aplikasi yang mampu menjalankan dokumendokumen web dengan cara diterjemahkan. Prosesnya
+dilakukan oleh komponen yang terdapat didalam
+aplikasi browser yang biasa disebut web engine.
+Semua dokumen web ditampilkan dengan cara
+diterjemahkan. Beberapa jenis browser yang populer
+saat ini di antaranya : Internet Exspoler yang
+diperoduksi oleh Microsoft, Mozila Firefox, Opera
+dan Safari yang diperoduksi oleh Aplle
+I. Pengertian PHP (Hypertext Preprocessor)
+PHP adalah bahasa pemprograman script
+server-side yang didesain untuk mengembangkan web.
+Disebut bahasa pemprograman server side karena PHP
+diproses pada komputer server. PHP (Hypertext
+Preprocessor) adalah bahasa script yang dapat dipakai
+untuk membuat program situs web dinamis. Hal ini
+berbeda dibandingkan dengan bahasa pemrograman
+client-side seperti JavaScript yang diproses pada web
+browser (client). (Madcoms. 2016:2)
+
+Sedangkan kekurangan pengelolaan arsip elektronik
+antara lain:
+1. Dibutukan SDM yang berkompeten dibidang
+kearsipan dan teknologi Informasi.
+2. Kemungkinan kerusakan file dapat terjadi
+setiap saat, misalnya terhapusnya file secara
+permanen karena tidak sengaja karena
+kesalahan SDM nya dan server terserang oleh
+virus.
+3. Apabila proteksi tidak kuat dapat terjadi
+kemungkinan untuk di manipulasinya file.
+4. Teknologi informasi baru berkembang sangat
+pesat. Sehingga terkadang media penyimpanan
+file tidak comfortable/support .
+
+J. Pengertian Database
+Menurut Cosmas Eko Suharyanto, Dkk (2017),
+basis data atau database adalah kumpulan data
+terstruktur. Sehingga dapat menambahkan, mengakses,
+dan memproses data yang tersimpan dalam database
+komputer, untuk membuat database dibutuhkan sistem
+manajemen basis data (database management system).
+77
+
+(Jurnal Teknologi Informasi) Vol.2, No.1. Juni 2018
+
+K. Pengertian MySQL
+Menurut Sutaji (dalam Sri Haryanti dan Tri Irianto,
+2011), MySQL adalah sistem managemen database
+SQL yang bersifat Open Source dan paling populer
+saat ini. Database ini dibuat untuk keperluan sistem
+database yang cepat, handal dan mudah digunakan.
+Sistem database MySQL mendukung beberapa fitur
+seperti multithreaded, multi-user dan SQL database
+managenen sistem (DBMS).. (Madcoms. 2016:2).
+Pemodelan Berorientasi Objek Menggunakan
+Unified Modeling Language (UML)
+Menurut Windu Gata (dalam Ade Hendini,
+2016), UML merupakan metodologi dalam
+mengembangkan sistem berorientasi objek dan juga
+merupakan alat untuk mendukung pengembangan
+sistem. UML juga merupakan Bahasa spesifikasi
+standar yang dipergunakan untuk mendokumentasikan,
+menspesifikasikan dan membanngun perangkat lunak.
+Alat bantu yang digunakan dalam perancangan
+berorientasi objek berbasiskan UML adalah sebagai
+berikut:
+
+P-ISSN 2580-7927 | E-ISSN 2615-2738
+
+6.
+
+Collaboration Diagram
+Diagram ini bersifat dinamis. Diagram kolaborasi
+adalah diagram interaksi yang menekankan
+organisasi struktural dari objek–objek yang
+menerima serta mengirim pesan (message).
+
+7.
+
+Diagram Komponen (Component Diagram)
+Component diagram menggambarkan struktur
+fisik dari kode, pemetaan pandangan logis dari
+kelas proyek untuk kode aktual di mana logika
+ini dilaksanakan.
+
+8.
+
+Deployment Diagram
+Deployment diagram memberikan gambaran dari
+arsitektur fisik perangkat lunak, perangkat keras,
+dan artefak dari sistem. Deployment diagram
+dapat dianggap sebagai ujung spektrum dari
+kasus penggunaan, menggambarkan bentuk fisik
+dari sistem yang bertentangan dengan gambar
+konseptual dari pengguna dan perangkat
+berinteraksi dengan sistem.
+
+L.
+
+III. METODE PENELITIAN
+1.
+
+2.
+
+3.
+
+4.
+
+Use Case Diagram
+Use case digunakan untuk mengetahui fungsi apa
+saja yang ada di dalam sistem informasi dan
+siapa saja yang berhak menggunakan fungsifungsi tersebut. Use case diagram merupakan
+pemodelan untuk kelakuan (behavior) sistem
+informasi yang akan dibuat.
+
+A.
+
+Metodologi Penelitian
+Metode penelitian ini adalah suatu cara yang
+digunakan untuk mendapatkan informasi yang
+dibutuhkan dalam menyusun penelitian. Dalam
+penyusunan ini, peneliti menggunakan beberapa
+metode untuk mendapatkan informasi yang
+dibutuhkan.
+
+Diagram Aktivitas (Activity Diagram)
+Activity Diagram menggambarkan workflow
+(aliran kerja) atau aktivitas dari sebuah sistem
+atau proses bisnis.
+
+B.
+
+Kerangka Kerja Penelitian
+Adapun kerangka kerja yang peneliti lakukan
+dapat dilihat dari gambar di bawah ini:
+
+Diagram Urutan (Sequence Diagram)
+Sequence Diagram menggambarkan kelakuan
+objek pada use case dengan mendeskripsikan
+waktu hidup objek dan pesan yang dikirimkan
+dan diterima antar objek.
+
+Pengumpulan Data
+
+Diagram Kelas (Class Diagram)
+Diagram Kelas (Class Diagram) merupakan
+hubungan antar kelas dan penjelasan detail tiaptiap kelas di dalam model desain dari suatu
+sistem, juga memperlihatkan aturan-aturan dan
+tanggung jawab entitas yang menentukan
+perilaku sistem.
+
+Analisa
+
+Desain
+
+Implementasi
+5.
+
+Package Diagram
+Package Diagram (diagram paket) adalah
+sekelompok elemen-elemen model.sebuah paket
+dapat berisi elemen-elemen model yang
+berlainan, termasuk untuk paket-paket untuk
+menciptakan/ menggambarkan sifat hiraki.
+Sebuah paket diberi nama yang menggambarkan
+isinya
+
+Laporan
+Gambar 1 Kerangka Kerja
+
+78
+
+(Jurnal Teknologi Informasi) Vol.2, No.1. Juni 2018
+
+P-ISSN 2580-7927 | E-ISSN 2615-2738
+
+C.
+
+Objek Penelitian
+Adapun objek penelitian yang peneliti lakukan
+adalah Arsip Program Studi Teknik Informatika
+Universitas Asahan.
+D.
+
+Operasional Variabel
+Operasional variabel dalam penelitian ini adalah
+bagaimana mengelola dokumen dengan menggunakan
+bahasa pemograman berbasis web, variabel yang
+digunakan adalah sebagai berikut :
+1. Surat Masuk.
+2. Surat Keluar.
+E.
+
+Metode Analisa Sistem
+Dalam penelitian ini, peneliti akan menganalisa
+sistem yang akan dirancang menggunakan UML
+(Unified Modeling Language), yang menggambarkan
+aliran sistem secara menyeluruh mulai dari user yang
+terkait sampai kepada aktivitas dan input yang
+dilakukan dalam sistem.
+Pada tahap ini dibuat pemodelan kebutuhan
+sistem informasi dengan menggunakan Use Case
+diagram, Activity Diagram, Sequence Diagram dan
+Class Diagram, package Diagram, Collaboration
+Diagram, Component Diagram, dan Deployment
+Diagram.
+
+Gambar 2 Use Case Diagram
+2. Activity Diagram
+Perancangan Activity Diagram admin dan umum
+mengambarkan bagaimana alur aktivitas yang terjadi
+antara kaprodi dan sekretaris untuk melakukan
+aktivitas dalam proses akses informasi yang ada pada
+sistem, Adapun gambarnya seperti berikut:
+
+IV.ANALISIS DAN IMPLEMENTASI
+Analisa Sistem Berjalan
+Sistem yang sebelumnya yang berjalan masih
+menggunakan proses manual yaitu dengan pendataan
+pada microsoft excel, office dan buku agenda manual
+dalam mendata surat masuk dan keluar atau arsip
+lainnya. Hal ini tentu sangat rumit dan tidak efektif
+dalam mengelola arsip. Maka perlu menggunakan
+sistem arsip berbasis web yang dapat membantu dalam
+proses manajemen arsip agar dapat membantu
+program studi teknik informatika dalam mengelola
+surat dengan baik, cepat dan akurat.
+A.
+
+Gambar 3 Activity Diagram Kaprodi
+
+B. Analisis Data
+Analisis data adalah berupa data apa saja yang
+dapat diolah dalam sistem arsip. Dalam sistem arsip
+data yang dapat diolah adalah data surat masuk, surat
+keluar, data KHS atau KHS mahasiswa serta
+dokumen-dokumen yang lain yang sipatnya penting.
+Semua data tersebut dapat diarsipkan dengan mudah
+dan lebih efektif serta efesien.
+C. Perancangan Sistem
+1. Use Case Diagram
+Perancangan
+model
+dengan
+use
+case
+menggambarkan perilaku sistem yang dibuat. Dalam
+sistem pendukung keputusan yang peneliti buat,
+terdapat 2 aktor yaitu kaprodi dan sekretaris.
+
+Gambar 4 Activity Diagram Sekretaris
+3.
+
+Class Diagram
+Dari perancangan diagram akan dapat diketahui
+bagaimana hubungan antara tabel didalam database
+dan proses input apa saja yang ada didalamnya. Untuk
+gambar dapat dilihat dibawah ini.
+
+79
+
+(Jurnal Teknologi Informasi) Vol.2, No.1. Juni 2018
+
+P-ISSN 2580-7927 | E-ISSN 2615-2738
+
+Gambar 8 Deployment Diagram
+Gambar 4.4 Class Diagram
+
+6. Component Diagram
+Dari perancangan diagram akan dapat diketahui
+bagaimana menggambarkan modul perangkat lunak
+dengan antar muka, Untuk lebih jelas perhatikan
+gambar berikut :
+
+Gambar 5 Class Diagram
+4. Sequence Diagram
+Sequence diagram merupakan mengambarkan
+aktivitas kaprodi dan sekretaris didalam sebuah sistem
+yang dibangun agar proses jalannya sistem dapat
+dipahami oleh kaprodi dan sekretaris. Untuk lebih
+jelas perhatikan gambar berikut :
+
+Gambar 9 Component Diagram
+7. Package Diagram
+Dari perancangan diagram akan dapat diketahui
+bagaimana menggambarkan sekelompok elemenelemen model, Untuk lebih jelas perhatikan gambar
+berikut :
+
+Gambar 6 Sequence Diagram Kaprodi
+
+Gambar 10 Package Diagram
+6. Collaboration Diagram
+Dari perancangan diagram akan dapat diketahui
+bagaimana menggambarkan interaksi dari objek-objek
+yang menerima dan mengirim pesan, Untuk lebih jelas
+perhatikan gambar berikut :
+
+Gambar 7 Sequence Diagram Sekretaris
+5. Deployment Diagram
+Dari perancangan diagram akan dapat diketahui
+bagaimana menggambarkan processor pada diagram,
+Untuk lebih jelas perhatikan gambar berikut :
+80
+
+(Jurnal Teknologi Informasi) Vol.2, No.1. Juni 2018
+
+P-ISSN 2580-7927 | E-ISSN 2615-2738
+
+Gambar 11 Collaboration Diagram
+
+Gambar 14 Tampilan Menu Referensi Klasifikasi
+Surat
+
+D. Implementasi
+Pada implementasi sistem ini menjelaskan
+penjabaran tentang sistem yang digunakan dalam
+pembuatan sistem arsip, adapun bentuk rancangannya
+adalah sebagai berikut :
+
+4. Tampilan Menu Cetak Surat Masuk dan Keluar
+Halaman ini berfungsi untuk mencetak data buku
+agenda surat masuk yang dikirim dari tempat lain yang
+ditujukan ke program studi teknik informatika, Untuk
+detail perhatikan gambar berikut ini:
+
+1. Tampilan Menu Halaman Login
+Halaman login adalah tampilan form untuk login
+oleh kaprodi dan sekretaris kedalam sistem arsip surat.
+
+Gambar 15 Tampilan Menu Cetak Surat Masuk dan
+keluar
+5. Tampilan Menu Buku Agenda Surat Masuk dan
+Surat Keluar
+Halaman ini berfungsi untuk melihat data buku
+agenda surat masuk dan surat keluar yang telah
+diinputkan.
+
+Gambar 12 Tampilan Menu Halaman Login
+2. Tampilan Halaman Utama Kaprodi
+Pada halaman ini merupakan halaman utama
+kaprodi. Pada halaman ini kaprodi dapat mengelola
+data arsip surat yang meliputi kelola referensi surat,
+cetak surat, buku agenda dan pengaturan lainnya.
+
+Gambar 16 Tampilan Menu Buku Agenda Surat
+Masuk dan Surat Keluar
+Gambar 13 Tampilan Halaman Utama Kaprodi
+6. Tampilan Menu Pengaturan Instansi Pengguna
+Halaman pengaturan ini berfungsi untuk mengatur
+profil pengguna aplikasi arsip secara otomatis agar
+dapat melakukan perubahan.
+
+3. Tampilan Menu Referensi Klasifikasi Surat
+Halaman ini berfungsi untuk mengatur nomor
+referensi surat yang ada pada fakultas.
+
+81
+
+(Jurnal Teknologi Informasi) Vol.2, No.1. Juni 2018
+
+P-ISSN 2580-7927 | E-ISSN 2615-2738
+
+Gambar 20 Tampilan Menu Referensi Klasisfikasi
+Surat
+Gambar 17 Tampilan Menu Pengaturan Instansi
+Pengguna
+
+10. Tampilan Menu Catat Surat Masuk
+Halaman ini berfungsi untuk bagian sekretaris
+dalam proses mencatat surat masuk yang diterima oleh
+program studi teknik informatika.
+
+7. Tampilan Menu Pengaturan Manajemen Akun
+Pada halaman ini berfungsi untuk mengatur
+akun username dan password admin dan juga user
+bagian umum. Untuk lebih detail perhatikan gambar
+berikut ini.
+
+Gambar 21 Tampilan Menu Catat Surat Masuk
+Gambar 18 Tampilan Menu Pengaturan Manajemen
+Akun
+
+11. Tampilan Hasil Input Surat Masuk
+Halaman ini berfungsi untuk bagian sekretaris
+untuk mengelola penginputan surat. Surat yang sudah
+di input dengan data yang sesuai maka akan dapat
+dilihat hasilnya pada halaman ini.
+
+8. Tampilan Halaman Utama Sekretaris
+Halaman ini merupakan halaman utama sekretaris
+untuk mengelola data surat masuk yang terdiri dari
+proses pencatatan surat dan buku agenda.
+
+Gambar 19 Tampilan Halaman Utama Sekretaris
+9. Tampilan Menu Referensi Klasisfikasi Surat
+Pada halaman ini berfungsi untuk mengelola
+referensi penomoran surat yang ada pada program
+studi teknik informatika. Untuk lebih detail perhatikan
+gambar berikut.
+
+Gambar 22 Tampilan Hasil Input Surat Masuk
+
+12. Tampilan Menu Catat Surat Keluar
+Halaman ini berfungsi pada bagian sekretaris
+untuk mencatat surat keluar yang akan dikirim keluar
+dari fakultas.
+
+82
+
+(Jurnal Teknologi Informasi) Vol.2, No.1. Juni 2018
+
+B. Saran
+Berdasarkan pembahasan yang telah peneliti
+lakukan, peneliti memberikan saran untuk dapat
+membantu proses pengolahan data arsip, yaitu sebagai
+berikut :
+1. Diharapkan aplikasi ini tidak hanya
+digunakan pada Program Studi Teknik
+Informatika, tetapi juga digunakan pada
+Fakultas.
+2. Untuk kedepannya aplikasi ini diharapkan
+bisa
+dikembangkankan
+sehingga
+penyelenggara kearsipan dapat dilaksanakan
+sesuai dengan prinsip, kaedah dan standar
+kearsipan.
+
+Gambar 23 Tampilan Menu Catat Surat Keluar
+13. Tampilan Hasil Input Surat Keluar
+Halaman ini berfungsi untuk melihat hasil
+inputan data surat keluar yang sebelumnya pernah di
+input oleh operator bagian umum dan hasilnya akan
+tampil pada halaman ini.
+
+DAFTAR PUSTAKA
+[1] Ade Hendini. 2016. “Pemodelan Uml
+SistemInformasi Monitoring Penjualan Dan Stok
+Barang
+(Studi
+Kasus:
+Distro
+Zhezha
+Pontianak)”. Jurnal Khatulistiwa Informatika,
+Vol IV No 2. 107-116.
+[2] Ajeng Puspitasari Rahastri. 2015. “Perancangan
+Dan Implementasi Sistem Informasi Sekolah
+(Studi Kasus Smp N 2 Patikraja Banyumas)”.
+Jurnal E-Proceeding Of Applied Science, Vol 1
+No 3. 2660-2666, ISSN : 2442-5826.
+[3] Angga Reza Palevi, Krisnawati. 2013. “Analisis
+Dan Perancangan Sistem Informasi Penerimaan
+Peserta Didik Baru Berbasis Website Pada Smp
+Negeri 2 Mojosongo Boyolali”. Jurnal Ilmiah
+DASI, Vol 14 No 04. 1-6, ISSN: 1411-3201.
+[4] Cosmas Eko Suharyanto, Joni Eka Chandra,
+Fergyanto E Gunawan. 2017. “Perancangan
+Sistem
+Informasi
+PenggajianTerintegrasi
+Berbasis Web (Studi Kasus di Rumah Sakit St.
+Elisabeth)”. Jurnal Teknologi dan Sistem
+Informasi, Vol 3 No 2. 225-232.
+[5] Fauziah Latif, Aditya Wirangga Pratama. 2015.
+“Perancangan Sistem Informasi Manajemen
+Arsip Elektronik (E-Arsip) Berbasis Microsoft
+Access Pada PT. HI-TEST”. Jurnal Akuntansi,
+Ekonomi dan Manajemen Bisnis, Vol 3 No 1. 2131, ISSN: 2337-7887.
+[6] Hasan Abdurahaman, Asep Ririh Riswaya. 2014.
+“Aplikasi Pinjaman Pembayaran Kredit Pada
+Bank Yudha Bhakti”. Jurnal Computech dan
+Bisnis, Vol 8 No 2. 61-69, ISSN: 2337-7887.
+[7] Liza Yulianti dan Harry Aspriono. 2011. Website
+Unit Pelaksana Teknis Dinas (Uptd) Puskesmas
+Jembatan Kecil Kota Bengkulu Menggunakan
+Adobe Dreamweaver Cs3, Jurnal Media Infotama
+Vol. 7 No. 2.
+
+Gambar 24 Tampilan Hasil Input Surat Keluar
+
+V.PENUTUP
+A. Kesimpulan
+Dari penjelasan yang telah diuraikan dapat
+ditarik kesimpulan mengenai hal-hal dasar yang sangat
+erat kaitannya dengan implementasi e-arsip, maka
+dapat disimpulkan sebagai berikut :
+1.
+
+2.
+
+3.
+
+4.
+
+P-ISSN 2580-7927 | E-ISSN 2615-2738
+
+Aplikasi e-arsip memiliki fungsi scan yang
+kegunaan menginputkan scan surat yang
+ingin disimpan sehingga dapat menimalkan
+kehilangan dan rusaknya dokumen-dokumen
+penting.
+Proses pencarian data dan informasi arsip
+pada program studi teknik informatika
+menjadi lebih mudah sehingga mudah
+ditemukan.
+Aplikasi yang dihasilkan cukup akurat dan
+cukup valid, sehingga dapat membantu proses
+penyelenggara kearsipan yang sesuai dengan
+prinsip.
+Aplikasi ini dikelola oleh kaprodi dan
+sekretaris.
+
+83
+
+(Jurnal Teknologi Informasi) Vol.2, No.1. Juni 2018
+
+[8] Machsun Rifauddin. 2016. Pengelolaan Arsip
+Elektronik Berbasis Teknologi, Jurnal Khizanah
+Al-Hikmah, Vol. 4 No. 2.
+[9] Medi Suhartanto. 2012. Pembuatan Website
+Sekolah Menengah Pertama Negeri 3 Delanggu
+Dengan Menggunakan Php Dan MySQL, Jurnal
+Speed – Sentra Penelitian Engineering dan
+Edukasi, Vol. 4 No. 1.
+[10] Normah. 2017. Sistem Informasi Pengelolaan
+Administrasi Kearsipan
+Berbasis Teknologi
+Informasi dan Komunikasi dengan Efiling
+System, jurnal sistem informasi STMIK antar
+bangsa, Vol. VI No.1.
+[11] Rani Kurniasari. 2013. Sistem Pengelolaan Arsip
+Elektronik
+Serta
+Dampaknya Terhadap
+Efektifitas Penyimpanan Dan Penemuan Kembali
+Arsip, jurnal Widya Cipta, Vol. V No. 1.
+[12] Rita Prima Bendriyanti dan Leni Natalia Zulita.
+2012. Implementasi E-Arsip
+Pada Kanwil
+Kementerian Agama Provinsi Bengkulu, Jurnal
+Media Infotama, Vol. 8 No.1.
+[13] Sri Haryanti dan Tri Irianto. 2011. Rancang
+Bangun Sistem Informasi E- Commerce Untuk
+Usaha Fashion Studi Kasus Omah Mode Kudus,
+Jurnal Speed – Sentra Penelitian Engineering dan
+Edukasi, Vol. 3 No. 1.
+[14] Tim Madcoms. (2016). Pemprograman PHP dan
+MySQL Untuk Pemula. Edisi Pertama.
+Yogyakarta : Andi Offset.
+
+84
+
+P-ISSN 2580-7927 | E-ISSN 2615-2738
+
+

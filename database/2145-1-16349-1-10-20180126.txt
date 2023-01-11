@@ -1,0 +1,1056 @@
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+Vol. 2, No. 9, September 2018, hlm. 3110-3117
+
+e-ISSN: 2548-964X
+http://j-ptiik.ub.ac.id
+
+Evaluasi Usability pada Aplikasi Go-Jek Dengan Menggunakan Metode
+Pengujian Usability
+Muhammad Ismail Farouqi1, Ismiarta Aknuranda2, Admaja Dwi Herlambang3
+Program Studi Sistem Informasi, Fakultas Ilmu Komputer, Universitas Brawijaya
+Email: 1kiki.farouqi@gmail.com, 2i.aknuranda@ub.ac.id, 3herlambang@ub.ac.id
+Abstrak
+PT. Gojek Indonesia (GO-JEK) merupakan salah satu perusahaan yang menciptakan aplikasi ojek online
+di Indonesia. aplikasi GO-JEK semakin berkembang pesat sehingga telah diunduh sebanyak lebih dari
+10 juta kali. Walaupun telah diunduh lebih dari 10 juta kali namun tetap ada beberapa pengguna yang
+mengeluh mengenai aplikasi GO-JEK tersebut. Dari beberapa umpan balik (feedback) pengguna
+tersebut, aplikasi GO-JEK masih memiliki masalah yang terjadi di para penggunanya. Permasalahan
+tersebut merupakan bagian dari masalah usability yang ada pada aplikasi GO-JEK. Untuk itu diperlukan
+penggalian masalah yang lebih komprehensif agar dapat mendalami masalah-masalah yang terjadi pada
+pengguna aplikasi GO-JEK. Perlu diketahui juga sudah sejauh mana tingkat usability pada aplikasi GOJEK. Tingkat usability perlu diketahui untuk menjelaskan usability pada aplikasi GO-JEK sudah berada
+pada tingkatan mana dari sisi pengguna. Penelitian ini memberikan hasil evaluasi untuk mengetahui
+permasalahan usability dan tingkat usability yang ada pada aplikasi GO-JEK menggunakan metode
+pengujian usability. Hasil yang didapatkan dari penelitian ini menunjukkan bahwa terdapat lima
+permasalahan usability yang ada pada aplikasi GO-JEK. Selain itu hasil tingkat usability yang terdiri
+dari tingkat kemudahan adalah sebesar 100%. tingkat kecepatan adalah sebesar 0,01 goals/sec. tingkat
+kesalahan adalah sebesar 0,1 dan tingkat kepuasan adalah sebesar 60% - 70%.
+Kata kunci: aplikasi ojek online, GO-JEK, usability, pengujian usability
+
+Abstract
+PT. Gojek Indonesia (GO-JEK) is one of the companies that created taxibike online application in
+Indonesia. GO-JEK applications are growing rapidly so that has been downloaded more than 10 million
+times. Although it has been downloaded more than 10 million times but there are still some users who
+complain about the application of GO-JEK. From some user feedback, the GO-JEK app still has a
+problem in its users. These problems are part of the usability problem that existed in GO-JEK
+applications. Therefore, we need a more comprehensive problem digging in order to deepen the
+problems that occur to users of the application GO-JEK. Please also note how far the level of usability
+in the application GO-JEK. The usability level needs to be known to explain the usability of the GOJEK app already at what level from the user side. This study provides evaluation results to determine
+the usability problems and usability levels that exist in the GO-JEK application using usability testing
+method. The results obtained from this study indicate that there are five usability problems that exist in
+the GO-JEK application. In addition, the usability level which consists of the level of convenience is
+100%. the speed rate is of 0.01 goals / sec. the error rate is 0.1 and the satisfaction rate is 60% - 70%.
+Keywords: taxibike online app, GO-JEK, usability, usability testing
+
+layanan seperti jasa layanan ojek (GO-RIDE),
+layanan antar makanan (GO-FOOD), layanan
+antar kurir (GO-SEND) dan lain-lain. GO-JEK
+telah berkembang pesat sehingga semakin
+banyak pengguna yang menggunakan aplikasi
+tersebut dengan telah diunduh sebanyak lebih
+dari 10 juta kali (Google, 2017).
+Walaupun telah diunduh lebih dari 10 juta
+
+1. PENDAHULUAN
+PT. Gojek Indonesia (GO-JEK) merupakan
+salah satu perusahaan yang menciptakan aplikasi
+ojek online di Indonesia. GO-JEK telah menjadi
+alternatif transportasi yang menjanjikan untuk
+masyarakat. Aplikasi GO-JEK memiliki banyak
+Fakultas Ilmu Komputer
+Universitas Brawijaya
+
+3110
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+kali namun tetap ada beberapa pengguna yang
+mengeluh mengenai aplikasi GO-JEK tersebut.
+Salah satu pengguna mengatakan akurasi GPS
+masih sering melenceng walaupun sinyal sudah
+bagus lalu ada juga pengguna yang mengatakan
+peta pada aplikasi kurang diperbaharui sehingga
+susah untuk memantau posisi pengemudi
+kemudian ada pengguna yang berpendapat tidak
+dapat memasukkan alamat yang tepat dan
+akhirnya harus mengisi alamat secara manual di
+fitur catatan (Google, 2017).
+Permasalahan tersebut merupakan bagian
+dari masalah usability yang ada pada aplikasi
+GO-JEK. Usability mengacu kepada bagaimana
+pengguna yang menggunakan produk tersebut
+dapat menyelesaikan tugasnya dengan cepat dan
+mudah (Dumas & Redish, 1999). Dari beberapa
+umpan balik (feedback) pengguna tersebut,
+aplikasi GO-JEK masih memiliki masalah yang
+terjadi di para penggunanya. Untuk itu
+diperlukan penggalian masalah yang lebih
+komprehensif agar dapat mendalami masalahmasalah yang terjadi pada pengguna aplikasi
+GO-JEK.
+Dengan permasalahan usability yang masih
+ada pada aplikasi GO-JEK maka perlu diketahui
+juga sudah sejauh mana tingkat usability pada
+aplikasi GO-JEK. Tingkat usability perlu
+diketahui untuk menjelaskan usability pada
+aplikasi GO-JEK sudah berada pada tingkatan
+mana dari sisi pengguna. Tingkat usability dapat
+diketahui dengan melakukan pengukuran sejauh
+mana tingkat kemudahan, tingkat kecepatan,
+tingkat kesalahan, serta tingkat kepuasan
+pengguna. Pengukuran tersebut dapat diketahui
+dengan melakukan evaluasi.
+Menurut Dix et al pada tahun 2004 evaluasi
+merupakan bagian integral dari proses
+perancangan dan harus dilakukan sepanjang
+siklus hidup desain. Tujuannya adalah untuk
+menguji fungsionalitas dan kegunaan desain dan
+untuk mengidentifikasi dan memperbaiki
+masalah. Evaluasi juga bisa mencoba untuk
+menentukan sikap pengguna dan respon
+terhadap sistem. Evaluasi dapat dilakukan di
+laboratorium khusus atau di tempat kerja
+pengguna, dan mungkin atau mungkin tidak
+melibatkan partisipasi aktif dari pihak desain
+user.
+Metode
+yang
+digunakan
+untuk
+menyelesaikan permasalahan yang ada adalah
+dengan melakukan pengujian usability.
+Pengujian usability adalah salah satu kategori
+metode dalam evaluasi usability yang
+mengobservasi pengguna terhadap sebuah
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+3111
+
+desain kemudian diambil datanya lalu dianalisa.
+Biasanya, selama tes, peserta akan mencoba
+menyelesaikan tugas, sementara pengamat
+melihat, mendengar dan membuat catatan.
+Tujuannya adalah untuk mengidentifikasi
+masalah usability, mengumpulkan data kualitatif
+dan kuantitatif dan menentukan kepuasan
+pengguna dengan produk (HSS, 2014).
+Penelitian ini bertujuan untuk menggali
+permasalahan usability apa saja yang ada pada
+aplikasi GO-JEK Indonesia dan mengevaluasi
+tingkat usability pada aplikasi GO-JEK
+Indonesia yang termasuk mengukur sejauh mana
+tingkat kemudahan, tingkat kecepatan, tingkat
+kesalahan, dan tingkat kepuasan pengguna pada
+aplikasi GO-JEK Indonesia.
+2. METODOLOGI
+Metodologi penelitian yang digunakan
+dalam evaluasi usability pada aplikasi GO-JEK
+menggunakan metode pengujian usability akan
+dibahas secara sistematik melalui langkahlangkah yang spesifik untuk digunakan dalam
+menyelesaikan masalah penelitian. Tahap-tahap
+penelitian ini disajikan pada Gambar 1
+
+Gambar 1 Diagram Alir Metodologi Penelitian
+
+Studi literatur dilakukan untuk mendukung
+penyelesaian masalah dan tercapainya tujuan
+penelitian. Langkah ini dilakukan dengan
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+melakukan studi pustaka yang berkaitan dengan
+penelitian evaluasi usability pada aplikasi GOJEK menggunakan metode pengujian usability.
+Sumber studi pustaka yang digunakan berupa
+buku, jurnal, laporan penelitian, skripsi yang
+sudah ada, serta hasil pencarian di internet
+Pelaksanaan evaluasi dibagi menjadi tiga
+bagian yaitu pengujian usability, wawancara,
+dan kuesioner. Pengujian usability digunakan
+untuk menggali permasalahan usability yang ada
+pada aplikasi, mengukur sejauh mana tingkat
+kemudahan pengguna dalam menyelesaikan
+tugas pada menggunakan aplikasi, sejauh mana
+tingkat kecepatan yang diperlukan pengguna
+dalam mencari informasi yang dibutuhkan pada
+aplikasi, serta sejauh mana tingkat kesalahan
+yang dilakukan oleh pengguna pada aplikasi.
+Menurut Nielsen (2000), untuk mengidentifikasi
+permasalahan dalam desain sebuah sistem cukup
+menggunakan lima orang. Pengujian dengan
+lima orang memungkinkan anda menemukan
+masalah usability lebih dari 80% dan jika anda
+menggunakan lebih banyak peserta tes maka
+peningkatannya tidak terlalu signifikan yaitu
+hanya 20% (Nielsen, 2000). Teknik sampling
+yang digunakan adalah sampling kuota yaitu
+teknik yang digunakan untuk menentukan
+sampel dari populasi yang memiliki ciri-ciri
+tertentu sampai jumlah (kuota) yang diinginkan
+terpenuhi (Hidayat, 2017).
+Suatu pengujian usability diperlukan adanya
+skenario tugas. Skenario tugas adalah tindakan
+yang anda minta peserta untuk mengambil
+antarmuka yang ingin dilakukan pengujian
+(Nielsen, 2014). Berikut adalah skenario tugas
+yang di tentukan oleh peneliti : “Anda berencana
+untuk pergi ke suatu tempat pada hari ini. Anda
+butuh kendaraan untuk mencapai tujuan anda
+dari tempat anda sekarang. Lakukanlah
+pemesanan ojek pada aplikasi GO-JEK ke tujuan
+yang anda inginkan dari tempat anda sekarang
+dengan menggunakan pembayaran cash”.
+Tugas ini dipilih berdasarkan fitur utama
+yang berada pada aplikasi GO-JEK yaitu fitur
+GO-RIDE. Adapun perihal dan bagian-bagian
+yang dievaluasi dalam pengujian usability yaitu
+dengan melihat fitur utama GO-JEK (fitur GORIDE). Bagian tersebut nantinya akan dilakukan
+identifikasi masalah usability dan pengukuran
+usability. Pengukuran usability dilihat dari
+sukses atau tidaknya pengguna melakukan suatu
+tugas,
+lama
+waktu
+pengguna
+dalam
+menyelesaikan sebuah tugas serta jumlah
+kesalahan yang dilakukan oleh pegguna.
+Tugas ini diberikan kepada lima peserta di
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+3112
+
+kota Surabaya yang berusia antara 15 tahun
+sampai 64 tahun (usia produktif). Persyaratan
+dalam mengikuti pengujian usability ini adalah
+peserta
+memiliki
+pengetahuan
+tentang
+penggunaan telepon cerdas dan pengguna belum
+pernah menggunakan aplikasi GO-JEK atau
+pengguna baru. Setelah peserta menyelesaikan
+tugas yang ada, langkah selanjutnya adalah
+melakukan wawancara dengan menanyakan
+kepada pengguna sesuai dengan kerangka
+pertanyaan yang sudah dibuat.
+Wawancara dilakukan untuk melakukan
+pengumpulan data yang diperlukan terkait
+masalah-masalah yang dialami peserta ketika
+menggunakan aplikasi GO-JEK. Wawancara
+akan dilakukan kepada lima responden yang
+telah selesai melakukan pengujian usability.
+Pertanyaan akan dibagi menjadi tiga kategori
+yaitu pertanyaan yang berkaitan dengan
+perasaan, pertanyaan yang berkaitan dengan
+pengalaman atau perilaku, dan pertanyaan yang
+berkaitan dengan pendapat atau nilai.
+Selanjutnya peneliti akan membagikan
+kuesioner System Usability Scale kepada
+pengguna aplikasi GO-JEK secara online
+menggunakan google form yang berisi data diri
+berupa alamat email, jenis kelamin, umur, dan
+frekuensi pemakaian fitur layanan ojek pada
+aplikasi GO-JEK dalam sebulan serta 10
+pertanyaan system usability scale. Menurut
+Rummel responden yang diperlukan untuk
+mengisi kuesioner SUS cukup dengan 30 orang
+asalkan
+responden
+termotivasi
+untuk
+berpartisipasi (Rummel, 2015). Namun untuk
+meningkatkan reliabilitas data yang didapatkan
+maka peneliti akan menggunakan total 100
+responden. Kuesioner ini di tujukan kepada
+pengguna yang sudah pernah menggunakan fitur
+layanan ojek pada aplikasi GO-JEK. Pengguna
+mengisi kuesioner yang sudah dibagikan
+berdasarkan pengalamannya (apa yang dilihat
+dan dirasakan) pada saat menggunakan aplikasi
+GO-JEK Indonesia.
+Data yang diperoleh melalui pengujian
+usability, wawancara dan pengisian kuesioner
+selanjutnya akan diolah agar mendapatkan hasil
+evaluasi. Pada analisis hasil evaluasi, terdapat
+dua metode analisis berdasarkan data yang
+diperoleh yaitu kualitatif dan kuantitatif.
+Data kualitatif didapatkan melalui tahapan
+pengujian usability dan wawancara kepada
+responden. Jawaban peserta dari hasil
+wawancara
+akan
+diidentifikasi
+untuk
+menemukan masalah yang muncul. Masalah apa
+yang ada pada saat peserta melakukan tugas
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+yang diberikan. Data tersebut kemudian
+dianalisis secara manual dengan membuat kode
+masalah, deskripsi masalah dan peserta yang
+mengalami masalah tersebut. Kemudian
+dilakukan rangkuman dengan bahasa secara
+formal terkait permasalahan yang didapatkan.
+Peneliti juga akan menjelaskan bagaimana
+peserta tersebut dapat mengalami masalah ketika
+mengerjakan tugas yang diberikan.
+Data kuantitatif didapatkan melalui tahapan
+pengujian usability dan kuesioner. Pada data
+pengujian usability akan dilakukan perhitungan
+terhadap 3 aspek yaitu learnability, efficiency,
+dan error. Untuk data kuesioner akan dilakukan
+perhitungan pada aspek satisfaction.
+Dari hasil analisis evaluasi terhadap objek
+yang dievaluasi maka akan dihasilkan penarikan
+kesimpulan. Setelah diambil kesimpulan, lalu
+dituliskan saran yang ditujukan untuk untuk
+memperbaiki kekurangan atau kesalahan yang
+terjadi dan menyempurnakan penelitian serta
+memberikan pertimbangan apabila akan
+dilakukan penelitian selanjutnya.
+3. HASIL
+Terdapat dua jenis data yang dihasilkan pada
+analisis data yaitu secara kualitatif dan
+kuantitatif. Data kualitatif yang dihasilkan yaitu
+permasalahan-permasalahan yang terdapat pada
+sistem dan data kuantitatif yang dihasilkan
+adalah tingkat usability pada sistem yang dinilai
+dengan angka.
+Tabel 1 menjelaskan permasalahan usability
+apa saja yang dialami oleh peserta selama
+pengujian usability yang dihasilkan melalui
+wawancara. Kemudian akan dijelaskan mengapa
+permasalahan tersebut bisa muncul pada saat
+menyelesaikan tugas.
+Tabel 1. Permasalahan dari hasil wawancara
+Kode
+Masalah
+
+Deskripsi
+
+Peserta
+
+M01
+
+Aplikasi tidak memberikan
+informasi kepada peserta
+apakah perlu mengontak
+pengemudi terlebih dahulu
+atau sebaliknya.
+
+P1
+
+M02
+
+Halaman
+rating
+yang
+ditampilkan
+secara
+terus
+menerus
+setelah
+selesai
+perjalanan
+mengganggu
+kenyamanan peserta.
+
+P2
+
+M03
+
+Peta yang ada pada aplikasi
+kurang detail sehingga tidak
+bisa mengarahkan ke tujuan
+
+P3
+
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+3113
+yang benar-benar tepat dan
+hanya bisa mengarahkan ke
+jalan yang tampil pada peta
+sehingga pengemudi perlu
+menanyakan lagi tujuan yang
+dimaksud oleh peserta.
+
+M04
+
+Pilihan menu yang banyak
+pada
+halaman
+beranda
+membuat
+peserta
+menghabiskan waktu lebih
+banyak untuk memahami
+pilihan menu tersebut.
+
+M05
+
+Bahasa yang digunakan pada
+aplikasi
+kurang
+dapat
+dipahami peserta.
+
+P3
+
+P5
+
+Pada masalah dengan kode M01 yang
+dialami oleh peserta satu terjadi dikarenakan
+peserta mengetahui dapat menghubungi
+pengemudi dengan memilih call/message setelah
+melakukan pemesanan tetapi karena di aplikasi
+tidak ada informasi yang mengharuskan peserta
+atau pengemudi yang perlu menghubungi
+terlebih dahulu maka peserta ragu-ragu untuk
+menghubungi pengemudi tersebut karena
+peserta beranggapan pengemudi tersebut akan
+menghubunginya terlebih dahulu. Maka dari itu
+terjadi keraguan pada peserta satu apakah
+peserta yang perlu menghubungi pengemudi
+terlebih dahulu atau sebaliknya.
+Pada masalah dengan kode M02 yang
+dialami oleh peserta dua terjadi karena peserta
+dua merupakan salah satu pengguna yang tidak
+berkenan untuk memberikan rating. Menurut
+peserta dua halaman rating tidak wajib untuk
+diisi. Halaman rating yang muncul terus menerus
+setelah perjalanan membuat dirinya terganggu
+karena itu adalah hal yang sifatnya tidak wajib.
+Peserta juga mengatakan jika hasil rating bisa
+menjadi tidak valid apabila tidak diisi oleh orang
+yang menggunakan layanan ojek tersebut.
+Peserta dua mengatakan rating bisa diisi oleh
+orang lain apabila telepon cerdas tersebut
+dipakai tidak hanya oleh satu orang melainkan
+lebih dari satu orang.
+Pada masalah dengan kode M03 yang
+dialami oleh peserta tiga terjadi karena peserta 3
+tidak dapat melihat jalan yang menjadi
+tujuannya pada peta yang ada di aplikasi GOJEK. Hal tersebut membuat peserta tiga
+menentukan lokasi tujuan yang kurang akurat
+karena mengarahkan ke jalan yang hanya tampil
+pada peta sehingga peserta tiga mengatakan peta
+yang ada pada aplikasi kurang detail dan peserta
+tiga harus mengkonfirmasi alamat tujuan yang
+sebenarnya pada pengemudi.
+Pada masalah dengan kode M04 yang
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+dialami oleh peserta tiga terjadi karena ada
+berbagai macam pilihan menu pada halaman
+beranda. Peserta tiga mengatakan perlu
+memahami terlebih dahulu pilihan menu yang
+ada di halaman beranda tersebut. Maka dari itu
+diperlukan waktu bagi peserta tiga dalam
+memahami pilihan menu yang ada pada halaman
+beranda.
+Pada masalah dengan kode M05 yang
+dialami oleh peserta lima terjadi karena peserta
+lima kurang memahami bahasa yang digunakan
+pada aplikasi GO-JEK yaitu bahasa inggris. Dari
+hal tersebut peserta mengalami kebingungan
+dalam bahasa untuk menyelesaikan tugas yang
+diberikan. Dari kebingungan yang dialami
+tersebut maka peserta lima menyarankan bahasa
+pada aplikasi diganti menjadi bahasa Indonesia
+saja.
+Data kuantitatif didapatkan dari hasil
+pengujian usability dan kuesioner. Data tersebut
+berupa
+keberhasilan
+pengguna
+dalam
+menyelesaikan tugas, waktu yang pengguna
+habiskan dalam menyelesaikan tugas, kesalahan
+yang pengguna lakukan saat menyelesaikan
+tugas dan jawaban dari responden kuesioner.
+Kemudian data tersebut akan di hitung dengan
+menggunakan success rate (1), time based
+efficiency (2), error rate (3), dan system usability
+scale.
+Tabel 2. Keberhasilan Peserta Pengujian Usability
+Peserta
+Tugas
+Lakukanlah
+pemesanan
+ojek pada aplikasi GO-JEK
+ke tujuan yang anda
+inginkan dari tempat anda
+sekarang
+dengan
+menggunakan pembayaran
+cash.
+
+𝑆𝑢𝑐𝑐𝑒𝑠𝑠 𝑅𝑎𝑡𝑒 =
+100%
+(1)
+
+P
+1
+
+P
+2
+
+P
+3
+
+P
+4
+
+P
+5
+
+S
+
+S
+
+S
+
+S
+
+S
+
+Lakukanlah
+pemesanan
+ojek
+pada aplikasi GOJEK ke tujuan yang
+anda inginkan dari
+tempat
+anda
+sekarang
+dengan
+menggunakan
+pembayaran cash.
+
+P1
+
+P2
+
+P3
+
+P4
+
+P5
+
+72
+
+63
+
+160
+
+121
+
+122
+
+𝑇𝑖𝑚𝑒 𝐵𝑎𝑠𝑒𝑑 𝐸𝑓𝑓𝑒𝑐𝑖𝑒𝑛𝑐𝑦 =
+
+𝑆𝑢𝑐𝑐𝑒𝑠𝑠+(𝑃𝑎𝑟𝑡𝑖𝑎𝑙 𝑆𝑢𝑐𝑐𝑒𝑠𝑠×0.5)
+𝑇𝑜𝑡𝑎𝑙 𝑇𝑎𝑠𝑘
+
+×
+
+5
+× 100%
+5
+= 100%
+
+Success rate digunakan untuk menganalisis
+tugas yang berhasil dilakukan oleh pengguna
+agar mengetahui tingkat kemudahan pengguna
+dalam menyelesaikan tugas pada saat
+menggunakan aplikasi.
+Tabel 3. Durasi Waktu Peserta Pengujian Usability
+Waktu (detik)
+
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+∑𝑅
+𝑗=1
+
+∑𝑁
+𝑖=1
+
+𝑛𝑖𝑗
+𝑡𝑖𝑗
+
+(2)
+
+𝑁𝑅
+
+1
+1
+1
+1
+1
+( +
++
++
++
+)
+72
+63
+160
+121
+122
+=
+1×5
+= 0,01 goals/sec
+
+Time based efficiency digunakan untuk
+menganalisa waktu yang dibutuhkan oleh
+pengguna dalam menyelesaikan tugas. Hasil
+yang didapatkan dari cara ini merupakan nilai
+yang absolut. Hasil ini berguna untuk
+mengetahui tingkat kecepatan yang diperlukan
+pengguna dalam mencari informasi yang
+dibutuhkan.
+Tabel 4. Kesalahan Peserta Pengujian Usability
+Tugas
+Lakukanlah
+pemesanan
+ojek
+pada aplikasi GOJEK ke tujuan yang
+anda inginkan dari
+tempat
+anda
+sekarang dengan
+menggunakan
+pembayaran cash.
+
+P
+1
+
+P
+2
+
+Error
+P
+P
+3
+4
+
+P
+5
+
+0
+
+1
+
+1
+
+1
+
+𝐷𝑒𝑓𝑒𝑐𝑡𝑖𝑣𝑒 𝑟𝑎𝑡𝑒 =
+
+=
+
+Tugas
+
+3114
+
+0
+
+𝑇𝑜𝑡𝑎𝑙 𝐷𝑒𝑓𝑒𝑐𝑡𝑠
+𝑇𝑜𝑡𝑎𝑙 𝑂𝑝𝑝𝑜𝑟𝑡𝑢𝑛𝑖𝑡𝑖𝑒𝑠
+
+Total
+Error
+
+3
+
+(3)
+
+3
+6×5
+= 0,1
+=
+
+Error rate merupakan cara untuk
+mengetahui tingkat kesalahan pada peserta
+pengujian usability. Langkah yang perlu
+dilakukan adalah menghitung total peluang yang
+dimiliki oleh tugas tersebut. Setelah peluang
+untuk setiap tugas didefinisikan, langkah
+selanjutnya
+adalah
+menghitung
+jumlah
+kesalahan untuk tugas yang dilakukan peserta
+ketika proses menyelesaikan tugas. Setelah itu
+hitung error rate untuk tugas tersebut.
+Analisis System Usability Scale digunakan
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+12
+10
+8
+6
+4
+2
+0
+
+11
+99
+5
+
+6
+
+7
+
+88
+
+5
+
+3
+2
+2
+11 11
+1
+
+6
+
+5
+2
+
+3
+1
+
+2
+
+1
+
+25
+45
+52,5
+57,5
+62,5
+67,5
+72,5
+77,5
+82,5
+87,5
+92,5
+97,5
+
+Jumlah Responden
+
+untuk mengetahui tingkat kepuasan pengguna
+pada aplikasi GO-JEK. Langkah pertama yang
+dilakukan adalah dengan menghitung nilai skor
+tiap pernyataan untuk setiap responden. Nilai
+skor tiap pernyataan untuk masing-masing
+Pernyataan dengan urutan angka ganjil, dapat
+dihitung dengan rumus, (xi - 1). Sedangkan,
+untuk urutan pernyataan yang genap, dapat
+dihitung dengan rumus (5 – xi), dengan xi
+merupakan angka pada skala Likert yang dipilih
+oleh responden. . Setelah tiap pernyataan ganjil
+dan genap dihitung dengan rumus tersebut
+kemudian jumlahkan hasil tiap pernyataan lalu
+hasil perjumlahan dikalikan dengan 2,5. Jumlah
+skor untuk masing-masing responden akan
+berkisar diantara 0-100. Gambar 2 menunjukkan
+nilai SUS yang dihasilkan dari setiap responden.
+
+Nilai SUS
+
+Gambar 2. Hasil Nilai SUS Untuk Setiap
+Responden
+
+Langkah selanjutnya adalah menjumlahkan
+seluruh nilai SUS yang telah didapatkan setiap
+responden dan kemudian di rata-rata. Hasil nilai
+SUS yang didapatkan adalah sebesar 74,1.
+Setelah mengetahui nilai SUS untuk 100
+responden maka tahap berikutnya adalah dengan
+melakukan proses normalisasi sehingga nilai
+SUS tersebut bisa diubah ke dalam persentase
+berdasarkan grafik yang telah dibuat oleh Jeff
+Sauro (2011). Persentase yang dihasilkan dari
+nilai SUS 74,1 berada pada rentang 60% – 70%.
+Setelah semua nilai kuantitatif didapatkan
+kemudian
+akan
+dilakukan
+pembahasan
+mengenai pengukuran usability yang termasuk
+learnability, efficiency, error, dan satisfaction.
+Tingkat kemudahan pengguna dalam
+menyelesaikan tugas pada saat menggunakan
+sistem aplikasi GO-JEK Indonesia. Bagian ini
+mengacu pada definisi Nielsen pada tahun 2012
+yang mengatakan bahwa learnability merupakan
+komponen yang mengukur sejauh mana
+kemudahan pengguna dalam menyelesaikan
+tugas-tugas pada saat pertama kali menggunakan
+sistem. Pada analisis kuantitatif di penelitian ini
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+3115
+
+success rate merupakan cara untuk menganalisa
+tugas yang berhasil dilakukan oleh pengguna.
+Mengacu pada penjelasan Jeff Sauro (2013)
+yang mengatakan learnability bisa diukur
+dengan
+kemampuan
+pengguna
+ketika
+menyelesaikan sebuah tugas maka hasil success
+rate
+dapat
+merepresentasikan
+tingkat
+kemudahan pengguna dalam menyelesaikan
+tugas pada saat menggunakan sistem aplikasi
+GO-JEK Indonesia. Dengan hasil ini dapat
+dikatakan bahwa tingkat kemudahan pengguna
+dalam menyelesaikan tugas pada saat
+menggunakan
+sistem
+aplikasi
+GO-JEK
+Indonesia adalah sebesar 100% sesuai hasil
+success rate yang didapatkan. Hasil ini
+menunjukkan bahwa seluruh pengguna berhasil
+menyelesaikan tugasnya. Dari hasil 100%
+tersebut maka aspek learnability pada aplikasi
+GO-JEK sudah bisa dikatakan sangat baik.
+Pengguna tidak gagal melakukan tugas di
+aplikasi walaupun baru pertama kali
+menggunakan aplikasi tersebut.
+Tingkat kecepatan pengguna dalam mencari
+informasi yang dibutuhkan pada aplikasi GOJEK Indonesia. Bagian ini mengacu pada
+definisi Nielsen pada tahun 2012 yang
+mengatakan bahwa effeciency merupakan
+komponen yang mengukur kecepatan dan
+ketepatan pengguna ketika mengakses suatu
+sistem. Pada analisis kuantitatif di penelitian ini
+time based effeciency digunakan untuk
+menganalisa waktu yang dibutuhkan oleh
+pengguna untuk menyelesaikan tugas. Mengacu
+pada penjelasan Hornbæk (2006) yang
+mengatakan effeciency bisa diukur dengan waktu
+yang dibutuhkan pengguna untuk menyelesaikan
+satu aktivitas (time completion rate) maka hasil
+time based effeciency dapat merepresentasikan
+tingkat kecepatan pengguna dalam mencari
+informasi yang dibutuhkan pada aplikasi GOJEK Indonesia. Dengan hasil ini dapat dikatakan
+bahwa tingkat kecepatan pengguna dalam
+mencari informasi yang dibutuhkan pada
+aplikasi GO-JEK Indonesia adalah sebesar 0,01
+goals/sec sesuai hasil time based effeciency yang
+didapatkan. Hasil ini menunjukkan bahwa
+pengguna dapat menyelesaikan tugas sebanyak
+0,01 tiap detiknya berdasarkan keseluruhan
+waktu yang dihabiskan seluruh pengguna untuk
+menyelesaikan tugas yaitu 538 detik.
+Tingkat kesalahan yang dilakukan oleh
+pengguna pada aplikasi GO-JEK Indonesia.
+Bagian ini mengacu pada definisi Nielsen pada
+tahun 2012 yang mengatakan bahwa errors
+merupakan komponen yang mengukur seberapa
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+banyak kesalahan yang pengguna lakukan dalam
+menggunakan sistem. Pada analisis kuantitatif di
+penelitian ini error rate digunakan untuk
+menganalisa kesalahan yang dilakukan oleh
+pengguna yang terjadi pada saat menyelesaikan
+tugas. Mengacu pada penjelasan Hornbæk
+(2006) yang mengatakan errors bisa diukur
+dengan jumlah kesalahan yang dilakukan
+pengguna selama melakukan satu aktivitas maka
+hasil error rate dapat merepresentasikan tingkat
+kesalahan yang dilakukan oleh pengguna pada
+aplikasi GO-JEK Indonesia. Dengan hasil ini
+dapat dikatakan bahwa tingkat kesalahan yang
+dilakukan oleh pengguna pada aplikasi GO-JEK
+Indonesia adalah sebesar 0,1 sesuai hasil error
+rate yang didapatkan. Hasil ini menunjukkan
+bahwa keseluruhan pengguna hanya melakukan
+3 kesalahan dari kemungkinan 30 kesalahan
+yang dapat terjadi. Menurut Sauro pada tahun
+2012 rata-rata kesalahan yang pengguna lakukan
+ketika menyelesaikan tugas adalah 0,7. Dari
+hasil yang didapatkan yaitu 0,1 tidak melebihi
+angka 0,7 maka dari itu kesalahan yang
+dilakukan oleh pengguna masih bisa dikatakan
+wajar.
+Tingkat kepuasan pengguna pada aplikasi
+GO-JEK Indonesia. Bagian ini mengacu pada
+definisi Nielsen pada tahun 2012 yang
+mengatakan bahwa satisfaction merupakan
+komponen yang mengukur sejauh mana
+kepuasan pengguna dengan sistem yang mereka
+gunakan. Pada analisis kuantitatif di penelitian
+ini kuesioner system usability scale (SUS)
+digunakan untuk menganalisa kepuasan
+pengguna terhadap aplikasi GO-JEK Indonesia.
+Mengacu pada penjelasan Sergeev (2010) yang
+mengatakan satisfaction bisa diukur dengan
+kuesioner system usability scale (SUS) maka
+hasil system usability scale (SUS) dapat
+merepresentasikan tingkat kepuasan pengguna
+pada aplikasi GO-JEK Indonesia. Dengan hasil
+ini dapat dikatakan bahwa tingkat kepuasan
+pengguna pada aplikasi GO-JEK Indonesia
+adalah berkisar diantara 60% - 70% sesuai hasil
+satisfaction yang didapatkan. Hasil ini
+menunjukkan bahwa tingkat kepuasan pengguna
+pada aplikasi GO-JEK Indonesia layak
+mendapatkan nilai B dari rentang nilai F sampai
+ke A berdasarkan dari grafik Jeff Sauro (2011).
+Nilai B sudah cukup baik jika didasarkan dari
+penilaian huruf F sampai A. Maka dari itu aspek
+satisfaction dapat dikatakan sudah cukup baik
+untuk aplikasi GO-JEK. Aplikasi GO-JEK sudah
+dapat membuat para responden puas terhadap
+layanan ojek yang dimilikinya.
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+3116
+
+4. KESIMPULAN
+Berdasarkan hasil penelitian dan analisis
+yang telah dilakukan pada evaluasi usability
+pada aplikasi GO-JEK menggunakan metode
+pengujian usability, maka kesimpulan yang
+dapat diambil yaitu permasalahan usability yang
+ditemukan pada aplikasi GO-JEK adalah sebagai
+berikut, aplikasi tidak memberikan informasi
+kepada peserta apakah perlu mengontak
+pengemudi terlebih dahulu atau sebaliknya,
+halaman rating yang ditampilkan secara terus
+menerus setelah selesai perjalanan mengganggu
+kenyamanan peserta, peta yang ada pada aplikasi
+kurang detail sehingga tidak bisa mengarahkan
+ke tujuan yang benar-benar tepat dan hanya bisa
+mengarahkan ke jalan yang tampil pada peta
+sehingga pengemudi perlu menanyakan lagi
+tujuan yang dimaksud oleh peserta, pilihan menu
+yang banyak pada halaman beranda membuat
+peserta menghabiskan waktu lebih banyak untuk
+memahami pilihan menu tersebut, dan yang
+terkahir adalah bahasa yang digunakan pada
+aplikasi kurang dapat dipahami peserta.
+Berikutnya adalah tingkat usability pada
+aplikasi GO-JEK Indonesia. Pertama adalah
+aspek learnability yaitu tingkat kemudahan
+pengguna dalam menyelesaikan tugas pada saat
+menggunakan
+sistem
+aplikasi
+GO-JEK
+Indonesia adalah sebesar 100% sesuai hasil
+success rate yang didapatkan. Hasil ini
+menunjukkan bahwa seluruh pengguna berhasil
+menyelesaikan tugasnya dan bisa dikatakan
+sangat baik. Kedua adalah aspek efficiency yaitu
+tingkat kecepatan pengguna dalam mencari
+informasi yang dibutuhkan pada aplikasi GOJEK Indonesia adalah sebesar 0,01 goals/sec
+sesuai hasil time based effeciency yang
+didapatkan. Hasil ini menunjukkan bahwa
+pengguna dapat menyelesaikan tugas sebanyak
+0,01 tiap detiknya berdasarkan keseluruhan
+waktu yang dihabiskan seluruh pengguna untuk
+menyelesaikan tugas yaitu 538 detik. Ketiga
+adlah aspek errors yaitu tingkat kesalahan yang
+dilakukan oleh pengguna pada aplikasi GO-JEK
+Indonesia adalah sebesar 0,1 sesuai hasil error
+rate yang didapatkan. Hasil ini menunjukkan
+bahwa keseluruhan pengguna hanya melakukan
+3 kesalahan dari kemungkinan 30 kesalahan
+yang dapat terjadi dan masih dalam tingkat
+kesalahan yang wajar. Terakhir adalah aspek
+satisfaction yaitu tingkat kepuasan pengguna
+pada aplikasi GO-JEK Indonesia adalah berkisar
+diantara 60% - 70% sesuai hasil satisfaction
+yang didapatkan. Hasil ini menunjukkan bahwa
+
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer
+
+tingkat kepuasan pengguna pada aplikasi GOJEK Indonesia layak mendapatkan nilai B dari
+rentang nilai F sampai nilai A. Nilai B sudah
+cukup baik bila dilihat dari rentang nilai F ke A.
+DAFTAR PUSTAKA
+Dix, A., Finlay J., Abowd, G. D. & Beale R.
+2004. Human-Computer Interaction Third
+Edition. England:Pearson.
+Dumas, J. S. & Redish, J. C. 1999. A Practical
+Guide to Usability Testing. Portland OR,
+USA: intellect tm Tersedia di: Google
+Books
+<
+https://books.google.co.id/books?id=4lge5
+k_F9EwC&pg=PA3&hl=id&source=gbs_t
+oc_r&cad=3#v=onepage&q&f=false>
+[Diakses 29 November 2016]
+Google, 2017. Google Play. Tersedia di : <
+https://play.google.com/store/apps/details?i
+d=com.gojek.app> [Diakses 5 Maret 2017]
+Hidayat, A. 2017. Penjelasan Teknik Sampling
+dalam Penelitian. Tersedia di : <
+https://www.statistikian.com/2017/06/tekni
+k-sampling-dalam-penelitian.html/>
+[Diakses 1 November 2017]
+Hornbæk, K. 2006. Current practice in
+measuring usability: Challenges to usability
+studies and research. International journal
+of human-computer studies, 64(2), 79-102.
+HSS (U.S. Department of Health and Human
+Services). 2014. How To & Tools:
+Usability Testing. Tersedia di :
+<www.usability.gov/how-to-andtools/methods/usability-testing.html>
+Nielsen, J. 2000. Why You Only Need to Test
+with
+5
+Users.
+Tersedia
+di
+:
+<https://www.nngroup.com/articles/whyyou-only-need-to-test-with-5-users/>
+[Diakses 8 Juni 2017]
+Nielsen, J. 2012. Usability 101: Introduction to
+Usability.
+Tersedia
+di
+:
+<https://www.nngroup.com/articles/usabili
+ty-101-introduction-to-usability/> [Diakses
+20 Mei 2017]
+Nielsen, J. 2014. Turn User Goals into Task
+Skenarios for Usability Testing. Tersedia di
+: <https://www.nngroup.com/articles/taskscenarios-usability-testing/> [Diakses 15
+April 2017]
+Rummel, B., 2015. Quick UX Assessment? Start
+Fakultas Ilmu Komputer, Universitas Brawijaya
+
+3117
+with System Usability Scale. Tersedia di :
+<https://experience.sap.com/skillup/quickux-assessment-start-with-the-systemusability-scale/> [Diakses 2 Juni 2017]
+
+Sauro, J. 2013. How to Measure Learnability.
+Tersedia
+di
+:
+<
+https://measuringu.com/measurelearnability/> [Diakses 20 Mei 2017]
+Sauro, J., 2011. Measuring Usability with
+System Usability Scale (SUS). Tersedia di :
+< https://measuringu.com/sus/> [Diakses 4
+Juni 2017]
+Sergeev, A. 2010. User Interface Design, UX
+Research and Usability Evaluation.
+
+Tersedia di : < http://ui-designer.net/uidesigner/usability/satisfaction.htm>
+[Diakses 25 Mei 2017]
+
+

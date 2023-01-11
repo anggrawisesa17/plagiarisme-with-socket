@@ -1,0 +1,415 @@
+Jurnal TEKNO KOMPAK, Vol. 12, No. 2, 2018, 57-61. ISSN 1412-9663 (print)
+
+SISTEM INFORMASI AKUNTANSI PENERIMAAN DAN PENGELUARAN
+KAS PADA KPRI ANDAN JEJAMA KABUPATEN PESAWARAN
+Damayanti1), M.Yusuf Hernandez2)
+1)
+
+Sistem Informasi, Universitas Teknokrat Indonesia
+Sistem Informasi Akuntansi, Universitas Teknokrat Indonesia
+Jl. H.ZA Pagaralam, No 9-11, Labuhan ratu, Bandarlampung
+Email : damayanti@teknokrat.ac.id1), yusuf.hernandez11@gmail.com2)
+2)
+
+kebutuhan manusia terhadap teknologi dan informasi
+disegala bidang. Adapun kelebihan yang didapat dari
+pengolahan data menggunakan sistem terkomputerisasi
+yaitu dapat mengolah data dengan cepat dan akurat,
+dapat mengolah data dalam kapasitas besar, dapat
+menyimpan arsip atau file dengan baik tanpa
+menggunakan tempat yang banyak. Perusahaan telah
+menggunakan sistem komputer untuk mencatat semua
+transaksi sehingga data tersedia secara otomatis, lebih
+efektif dan efisien bagi perusahaan (Erteria, N. W., dkk,
+2016). Menurut Diana, A dan Setiawati, L (2010),
+Sistem Informasi akuntansi adalah sistem yang bertujuan
+untuk mengumpulkan dan memproses data serta
+melaporkan informasi yang berkaitan dengan transaksi
+keuangan (Mulyadi, 2016)
+
+Abstrak
+KPRI Andan Jejama adalah merupakan salah satu
+koperasi di Lampung yang bergerak di bidang jasa
+simpan pinjam. Seperti koperasi pada umumnya yang
+menerapkan sistem informasi penerimaan dan
+pengeluaran kas. Penerimaan kas pada KPRI Andan
+Jejama salah satunya berasal dari angsuran piutang
+anggota, sedangkan pengeluaran kas diantaranya
+pemberian pinjaman kepada anggota dan biaya
+oprasional kantor. Dalam proses penerimaan dan
+pengeluaran kas dibutuhkan dokumen awal yang
+digunakan yaitu dokumen yang berisi tentang data
+anggota dan data karyawan. Bagian bidang keuangan
+bertugas untuk mencatat data anggota yang ingin
+melakukan penyetoran pinjaman dan mencatat bukti kas
+masuk serta membuat jurnal penerimaan kas dan
+pengeluaran kas perbulan menggunakan microsoft excel.
+Kemudian diserahkan kepada bagian bidang pembukuan
+untuk dicatat dalam buku besar. Penyimpanan bukti
+penerimaan kas dan bukti pengeluaran kas belum
+menggunakan database management system. Hal
+tersebut menjadi kendala ketika pencarian data saat
+dibutuhkan karena dokumen tersebut ditumpuk sehingga
+penyampaian informasi yang dibutuhkan oleh bagian
+bidang pembukuan dan pimpinan seringkali mengalami
+keterlambatan. Untuk mengatasi masalah tersebut maka
+dibangun sistem informasi akuntansi penerimaan dan
+pengeluaran kas pada KPRI Andan Jejama dengan
+menggunakan metode pengembangan sistem waterffal.
+Pengumpulan data menggunakan teknik observasi,
+wawancara dan studi pustaka. Pada tahap requirement
+analysis dan defenisi melakukan analisis kebutuhan
+sistem. Hasil penelitian ini menghasilkan aplikasi sistem
+akuntansi penerimaan dan pengeluaran kas pada KPRI
+Andan Jejama. Sehingga membantu memudahkan
+karyawan dalam pengelolaan data penerimaan kas dan
+pengeluaran kas, mempercepat dalam penyajian laporan
+dan mempermudah dalam proses pencarian data kas
+masuk dan kas keluar pada KPRI Andan Jejama
+Kabupaten Pesawaran.
+
+Pada saat ini KPRI Andan Jejama bergerak di bidang
+jasa simpan pinjam. Penerimaan kas pada KPRI Andan
+Jejama salah satunya berasal dari angsuran piutang
+anggota, sedangkan pengeluaran kas diantaranya
+pemberian pinjaman kepada anggota dan biaya
+oprasional kantor. Dalam proses penerimaan dan
+pengeluaran kas dibutuhkan dokumen awal yang
+digunakan yaitu dokumen yang berisi tentang data
+anggota dan data karyawan. Bagian bidang keuangan
+bertugas untuk mencatat data anggota yang ingin
+melakukan penyetoran pinjaman dan mencatat bukti kas
+masuk serta membuat jurnal penerimaan kas dan
+pengeluaran kas perbulan menggunakan microsoft excel.
+Kemudian diserahkan kepada bagian bidang pembukuan
+untuk dicatat dalam buku besar. Penyimpanan bukti
+penerimaan kas dan bukti pengeluaran kas belum
+menggunakan database management system. Hal
+tersebut menjadi kendala ketika pencarian data saat
+dibutuhkan karena dokumen tersebut ditumpuk sehingga
+penyampaian informasi yang dibutuhkan oleh bagian
+bidang pembukuan dan pimpinan seringkali mengalami
+keterlambatan. Sistem informasi penerimaan dan
+pengeluaran kas penting bagi KPRI Andan Jejama.
+Dengan sistem informasi penerimaan kas dan
+pengeluaran kas diharapkan akan meningkatkan
+efektifitas dan efisiensi kerja. Sehingga membantu
+memudahkan karyawan dalam pengelolaan data
+penerimaan kas dan pengeluaran kas, mempercepat
+dalam penyajian laporan dan mempermudah dalam
+proses pencarian data kas masuk dan kas keluar pada
+KPRI Andan Jejama Kabupaten Pesawaran. Seperti
+halnya pada penelitian Damayanti dan Sulistiani, Heni
+
+Kata kunci: Sistem informasi akuntansi, penerimaan
+kas, pengeluaran kas, kas masuk, kas keluar.
+
+I. Pendahuluan
+Perkembangan teknologi komputer saat ini telah
+berkembang secara pesat seiring dengan meningkatnya
+57
+
+Jurnal TEKNO KOMPAK, Vol. 12, No. 2, 2018, 57-61. ISSN 1412-9663 (print)
+
+(2017) Sistem penerimaan kas dapat mempermudah
+dalam pencarian data, mempermudah dan mempercepat
+dalam penyajian laporan sehingga pimpinan dapat segera
+mengambil keputusan berdasarkan laporan yang
+diterima. Sistem informasi akuntansi penerimaan dan
+pengeluaran kas dapat dilaksanakan secara sistematis
+(Saifudin, Ardani, F. P, 2017).
+
+Selain analisis kebutuhan sistem juga dilakukan analisis
+pada sistem berjalan pada KPRI Andan Jejama pada kas
+keluar dan kas masuk. Dimulai dari karyawan
+memberikan bukti pembelian, pembelian tersebut
+merupakan pengeluaran bagi bidang keuangan,
+kemudian bidang keuangan membuatkan bukti
+pengeluaran kas 3 rangkap, bukti pengeluaran kas 1 dan
+2 di arsipkan menurut tanggal dan bukti pengeluaran kas
+3 di serahkan ke karyawan (penerima). Lalu bukti
+pengeluaran kas 1 dan 2 yang di arsipkan kemudian di
+inputkan kedalam komputer dengan menggunakan
+microsoft excel kemudian setelah akhir bulan bidang
+keuangan mencetak jurnal pengeluaran kas, kemudian
+bidang keuangan mengirimkan bukti pengeluaran kas 1,
+2 dan jurnal pengeluaran kas ke pimpinan untuk di
+lakukan otorisasi, setelah di otorisasi oleh pimpinan,
+pimpinan mengirimkan kembali ke bagian bidang
+keuangan untuk di arsipkan menurut tanggal. Prosedur
+sistem pengeluaran kas saat ini pada KPRI Andan
+Jejama dapat dilihat pada gambar 1.
+
+II. Pembahasan
+Sistem informasi penerimaan dan pengeluaran kas pada
+KPRI Andan Jejama dibangun dengan menggunakan
+metode pengembangan sistem waterffal dengan tahapan
+requirement analysis dan defenisi, system and software
+design, implementasi and unit testing, integration and
+system testing, maintenance (Sommerville, 2011). Pada
+penelitian ini tidak sampai pada tahap maintenance.
+Metodologi pengembangan sistem adalah metodemetode, prosedur-prosedur, konsep-konsep pekerjaan
+dan aturan-aturan untuk mengembangkan suatu sistem
+informasi (Sutabri, 2012). Pengumpulan data
+menggunakan teknik observasi, wawancara dan studi
+pustaka.
+
+Sistem Berjalan Kas Keluar
+Bidang Keuangan
+
+Pada tahap requirement analysis dan defenisi dengan
+melakukan analisis kebutuhan sistem dimana terdiri dari
+dua yaitu kebutuhan fungsional dan non fungsional.
+
+Pimpinan
+
+Mulai
+1
+Slip Pembayaran Bukti
+Pembelian
+
+Slip pembayaran
+
+JPKK
+BPKK 1
+
+A. Analisis Kebutuhan fungsional
+Analisis kebutuhan fungsional adalah kebutuhan
+yang berisi proses-proses dan informasi apa saja yang
+nantinya dilakukan dan dihasilkan oleh sistem.
+Dalam kebutuhan fungsional ini, aplikasi yang
+dirancang sesuai dengan kebutuhan yang diharapkan
+dapat berjalan pada KPRI Andan Jejama. Berikut
+analisis kebutuhan fungsional:
+1. Sistem dapat mengolah data anggota
+2. Sistem dapat mengolah data karyawan.
+3. Sistem dapat mengolah data kas masuk, data kas
+keluar, data saldo kas,
+4. Sistem dapat menampilkan laporan jurnal kas
+masuk
+5. Sistem dapat menampilkan laporan jurnal kas
+masuk
+6. Sistem dapat menyajikan bukti penerimaan kas
+
+BPKK 2
+
+Membuat
+BPKK
+
+BPKK 1
+
+Melakukan
+Otorisasi
+
+BPKK 2
+BPKK 3
+
+OTO JPKK
+Diserahkan Ke
+Karyawan
+
+OTO BPKK 1
+OTO BPKK 2
+Input BPKK
+Hardiks
+2
+
+Mencetak JPKK
+
+JPKK
+
+JPKK = JURNAL PENGELUARAN
+KAS KELUAR
+
+BPKK 1
+2
+
+BPKK 2
+
+BPKK = BUKTI PENGELUARAN
+KAS KELUAR
+
+OTO JPKK
+
+B. Analisis Kebutuhan Non Fungsional
+Analisis kebutuhan non fungsional adalah kebutuhan
+yang berisi properti yang dimiliki oleh sistem
+meliputi kebutuhan perangkat keras dan perangkat
+lunak. Perangkat keras yang digunakan yaitu
+Monitor, Hardisk minimal 320GB, Processor Intel
+Core 2 Duos, RAM (Random Access Memory)
+minimal 4GB, Mouse, Keyboard dan Printer.
+Sedangkan Spesifikasi perangkat lunak yang
+dibutuhkan yaitu Windows 7, Netbeans IDE 8.0,
+Database MySQL dan I-Report 6. Selain itu
+dilakukan analisis sistem penerimaan dan
+pengeluaran kas yang berjalan saat ini.
+
+1
+
+OTO BPKK 1
+OTO BPKK 2
+
+T
+
+Selesai
+
+Gambar 1. Flowchart Sistem Berjalan Kas Keluar
+Sumber: KPRI Andan Jejama
+Pemodelan sistem menggunakan use case dan activity
+diagram. Use Case atau diagram use case merupakan
+pemodelan untuk kelakuan (behavior) sistem informasi
+yang akan dibuat. Use case mendeskripsikan sebuah
+
+58
+
+Jurnal TEKNO KOMPAK, Vol. 12, No. 2, 2018, 57-61. ISSN 1412-9663 (print)
+
+interaksi antara satu atau lebih aktor dengan sistem
+informasi yang akan dibuat (Rossa dan Shalahuddin,
+2014). Berikut activity diagram pada sistem informasi
+penerimaan dan pengeluaran kas pada KPRI Andan
+Jejama. Activity diagram digunakan untuk menunjukkan
+siapa melakukan apa dengan teknik partition dapat
+dilihat pada gambar 2. Pada sistem ini terdapat dua aktor
+yaitu: Bagian keuangan dan pimpinan. Bagian keuangan
+melakukan login, setelah melakukan login bagian
+keuangan dapat mengolah data anggota, data karyawan,
+data kas masuk, dan kas keluar. Selanjutnya bidang
+keuangan dapat mengolah laporan jurnal penerimaan kas
+dan laporan jurnal pengeluaran kas. Sedangkan pimpinan
+hanya dapat melihat laporan jurnal penerimaan kas dan
+laporan jurnal pengeluaran kas.
+
+Gambar 3. Tampilan Menu Login
+2.
+
+Tampilan Menu Utama
+Form utama merupakan halaman utama yang terdiri
+dari File, master, transaksi, laporan. Untuk
+menampilkan program yang diinginkan dapat di
+klik pada sub menu pada menu utama. Form Menu
+Utama dapat dilihat pada gambar berikut
+
+Gambar 4. Menu Utama
+
+Gambar 2. Activity Diagram
+
+3. Tampilan Menu Anggota
+Form data anggota merupakan form yang berisikan
+tentang data anggota. Form ini digunakan ketika
+akan menambah, mengubah, mencari, dan
+menghapus data anggota. Selain itu, user juga dapat
+melakukan pencarian data untuk proses yang sudah
+inputkan. Adapun data yang terdapat dalam form
+data anggota adalah kode anggota, dan nama
+anggota. Data anggota dapat dilihat pada gambar
+berikut ini:
+
+III. Hasil Penelitian
+Hasil penelitian ini adalah sebuah aplikasi sistem
+penerimaan dan pengeluaran kas pada KPRI Andan
+Jejama yang terdiri dari menu-menu sebagai beikut:
+1. Menu Login
+Menu Form Login merupakan tampilan awal untuk
+masuk ke menu utama, dengan memilih user dan
+memasukan password, maka user dapat mengakses
+program Sistem penerimaan dan pengeluaran kas
+pada KPRI Andan Jejama Pesawaran. Apa bila
+password salah, maka user tidak dapat mengakses
+program aplikasi Sistem penerimaan dan pengeluaran
+kas pada KPRI Andan Jejama. Form Login dapat
+dilihat pada gambar berikut ini :
+
+Gambar 5. Tampilan Menu Anggota
+59
+
+Jurnal TEKNO KOMPAK, Vol. 12, No. 2, 2018, 57-61. ISSN 1412-9663 (print)
+
+4. Tampilan Menu Karyawan
+Form Data karyawan merupakan form yang berisikan
+tentang data karyawan. Form ini digunakan ketika
+akan menambah, mengubah, mencari, dan
+menghapus data karyawan. Adapun data yang
+terdapat dalam Form Data karyawan dapat dilihat
+pada gambar berikut ini:
+
+Gambar 8. Tampilan Menu Kas Keluar
+
+7. Tampilan Laporan Jurnal Pengeluran Kas
+
+Gambar 6. Tampilan Menu Karyawan
+5. Tampilan Menu Kas Masuk
+Form Data transaksi merupakan form yang berisikan
+tentang data transaksi. Form ini digunakan ketika
+akan baru, simpan, mengubah, menghapus, cetak,
+dan keluar. Form Data kas masuk dapat dilihat pada
+gambar berikut ini
+
+Gambar 9. Tampilan Laporan Jurnal Pengeluaran Kas
+Gambar 7. Tampilan Menu Kas Masuk
+8. Tampilan Laporan Jurnal Penerimaa kas
+6. Tampilan Menu Kas Keluar
+Form Data transaksi Kas Keluar merupakan form
+yang berisikan tentang data transaksi. Form ini
+digunakan ketika akan baru, simpan, cetak, dan
+keluar. Form Data kas masuk dapat dilihat pada
+gambar berikut ini :
+
+Gambar 10. Tampilan Laporan Jurnal Penerimaan Kas
+
+60
+
+Jurnal TEKNO KOMPAK, Vol. 12, No. 2, 2018, 57-61. ISSN 1412-9663 (print)
+
+Meningkatkan
+Pengendalian
+Internal
+Atas
+Pendapatan Pada RSUP Dr. Kariadi Semarang’.
+Jurnal Riset Akuntansi Keuangan, Vol. 2 No. 2.,
+Sutabri, T. (2012) Analisa Sistem Informasi. Yogyakarta:
+Andi Yogyakarta.
+Sommerville, 2011, Software Engenering, United State
+of America, Pearson Education.
+
+9. Tampilan Bukti Penerimaan Kas
+
+Gambar 11. Slip Penerimaan Kas
+IV. Kesimpulan
+Berdasarkan penelitian yang telah dilakukan maka dapat
+disimpulkan bahwa dengan adanya aplikasi sistem
+infromasi penerimaan dan pengeluaran kas pada KPRI
+Andan Jejama dapat memudahkan karyawan dalam
+pengelolaan data penerimaan kas dan pengeluaran kas,
+mempercepat
+dalam
+penyajian
+laporan
+dan
+mempermudah dalam proses pencarian data kas masuk
+dan kas keluar pada KPRI Andan Jejama Kabupaten
+Pesawaran sehingga dapat meningkatkan efektifitas dan
+efisiensi kerja.
+Daftar Pustaka
+Damayanti dan Sulistiani, H. (2017) ‘Sistem Informasi
+Pembayaran Biaya Sekolah Pada sd Ar-raudah
+Bandar Lampung’, Jurnal TeknoInfo, Vol. 11, No.
+2, 1-5.
+Diana, A dan Setiawan, L. (2010) Sistem Informasi
+Akuntansi. Yogyakarta: Andi.
+Esteria, N. W., dkk, (2016) ‘Analisis Sistem Akuntansi
+Penerimaan dan Pengeluaran Kas Pada PT Hasjrat
+Abadi Manado. Jurnal Berkala Ilmiah Efisiensi
+Vol. 16 No. 04, 1087-1097
+Mulyadi, (2016) Sistem Akuntansi. Edisi Keempat.
+Salemba empat. Jakarta
+Rosa, A.S., dan Shalahudin. (2013) Rekayasa Perangkat
+Lunak Terstruktur dan Berorientasi Objek. Modula,
+Bandung
+Syaifudin dan Ardani, F.P. (2017) ‘Sistem Informasi
+Akuntansi Penelrimaan dan Pengeluran dalam
+
+61
+
+

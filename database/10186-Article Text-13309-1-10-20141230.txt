@@ -1,0 +1,1578 @@
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+PENGARUH PROFITABILITAS, UKURAN PERUSAHAAN,
+PERTUMBUHAN ASET, DAN STRUKTUR ASET TERHADAP
+STRUKTUR MODAL
+LUSIA INSIROH
+Jurusan Manajemen, Fakultas Ekonomi, Universitas Negeri Surabaya,
+Kampus Ketintang Surabaya 60231
+E-mail:lusiainsiroh@gmail.com
+Abstract:The variables analyzed in this study are profitability, firm
+size, asset growth and asset structure Real estate and Property
+companies listed as sample, in which period the observations 20082012. The sample of this study is 23 companies. samples were taken
+by using purposive sampling method. multiple linear regression model
+by collecting data used in this study as a method of research
+analysis. The results showed that the structure of assets has a
+significant negative effect on the capital structure, while profitability,
+firm size, and growth of assets has no effect on the capital structure.
+Four independent variables simultaneously significant effect on the
+capital structure. The result of t-test shows that only structure of asset
+affect the capital structure significantly, while the result of F-test
+shows that the independent variabels affect five comma eight
+percentand ninety four comma two percent influenced by other
+factors not included in other research models.
+Keywords: capital structure, profitability, firm size, asset growth, and
+the structure of assets.
+PENDAHULUAN
+Kondisi perekonomian yang
+tidak menentu sekarang ini, membuat
+banyak perusahaan baik yang
+berskala
+besar
+maupun
+kecil
+menaruh perhatiannya pada masalah
+manajemen pendanaan di samping
+masalah-masalah
+ini
+seperti
+produksi, pemasaran, dan personalia
+dalam usaha mencapai tujuan
+perusahaan. Tujuan utama dari
+perusahaan yaitu memaksimalkan
+kekayaan pemegang saham atau
+dapat juga diartikan memaksimalkan
+harga saham perusahaan (Brigham
+dan Houston, 2001:16).
+Para investor tentunya akan
+memilih perusahaan yang mampu
+menghasilkan tingkat pengembalian
+modal yang tinggi serta dapat terus
+menerus
+mempertahankan
+dan
+meningkatkan
+tingkat
+pertumbuhannya. Dengan adanya hal
+
+979
+
+tersebut, adanya persaingan dalam
+dunia
+bisnis
+menuntut
+setiap
+perusahaan
+untuk
+mempunyai
+keunggulan
+kompetitif
+dari
+perusahaan lain. Dalam menghadapi
+kondisi demikian, setiap perusahaan
+dituntut untuk mampu membaca dan
+melihat situasi yang terjadi sehingga
+dapat melakukan pengelolaan fungsifungsi manajemen dengan baik di
+bidang produksi, bidang pemasaran,
+dan
+harus
+mampu
+mengelola
+keuangannya dengan baik agar
+dapat lebih unggul dalam persaingan
+dan dalam pengelolaan keuangan
+harus
+dapat
+menjamin
+keberlangsungan usaha perusahaan.
+Meningkatkan
+nilai
+perusahaan salah satunya dapat
+dilakukan
+melalui
+peningkatan
+kemakmuran kepemilikan atau para
+pemegang saham. Keberadaan para
+pemegang saham dan peranan
+manajemen sangatlah penting dalam
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+menentukan besar keuntungan yang
+nantinya akan diperoleh. Dalam
+menjalankan usahanya perusahaan
+memerlukan modal yang merupakan
+bagian dari keseluruhan dalam
+perusahaan. Adanya kebutuhan akan
+modal
+sangat
+penting
+dalam
+membangun
+dan
+menjamin
+kelangsungan perusahaan, selain
+dengan adanya faktor pendukung
+lainnya. Modal merupakan aspek
+penting dalam suatu perusahaan
+karena baik dalam pendirian bisnis
+maupun pengembangannya, modal
+sangatlah diperlukan. Oleh karena itu
+perusahaan
+harus
+menentukan
+seberapa besar modal yang akan
+diperlukan
+untuk
+membiayai
+bisnisnya. Sumber dana dapat
+dibedakan menjadi sumber dana
+perusahaan dari dalam (intern) dan
+sumber dana perusahaan dari luar
+(ekstern) (Riyanto, 2001:281).
+Struktur
+modal
+suatu
+perusahaan
+dipengaruhi
+oleh
+beberapa faktor, yaitu tingkat bunga,
+stabilitas dari earning, susunan dari
+aset, kadar risiko dari aset, besarnya
+jumlah modal yang dibutuhkan,
+keadaan
+pasar
+modal,
+sifat
+manajemen dan besarnya suatu
+perusahaan (Riyanto, 2001:297).
+Menurut Brigham dan Houston
+(2001:43) terdapat beberapa faktor
+yang
+mempengaruhi
+keputusan
+struktur modal perusahaan, antara
+lain : stabilitas penjualan, struktur
+aset, leverage operasi, tingkat
+pertumbuhan, profitabilitas, pajak,
+pengawasan, sifat manajeman, sikap
+kreditur dan konsultan, kondisi pasar,
+kondisi internal perusahaan dan
+fleksibilitas keuangan.
+Dalam penelitian ini penulis
+memilih
+Sektor Real Estate dan
+Properti yang terdaftar di BEI periode
+2008-2012 sebagai obyek penelitian,
+merupakan bisnis yang bergerak
+dalam
+bidang
+pengembangan
+properti dan bangunan, seperti
+Apartemen, Perumahan, Rukan dan
+Office Space, Ruko dan Mall, Tanah
+Kavling, dan Town House. Semakin
+980
+
+banyaknya pertambahan populasi
+yang disertai tingginya taraf hidup
+dan kemudahan dalam memperoleh
+tempat tinggal nyaman membuat
+kebutuhan
+masyarakat
+akan
+perusahaan ini semakin tinggi
+sehingga bisnis ini sangat menarik
+bagi para investor dalam melakukan
+investasi. Penelitian ini memilih
+industri Real Estate dan Properti
+karena industri tersebut cenderung
+menggunakan hutang lebih besar di
+bandingkan dengan sektor lainnya.
+Keadaan perekonomian dunia
+yang mengalami ketidakstabilan pada
+periode tahun 2008-2012 menjadi
+sebuah fenomena yang sangat luar
+biasa sehingga berdampak pada
+terjadinya krisis global yang pada
+akhirnya menjadi ancaman bagi
+berbagai perusahaan dan tidak
+terlepas pada perusahaan Real
+Estate dan Properti, ditambah
+dengan tingginya persaingan pada
+industri ini tentunya akan menambah
+tantangan bagi manajemen untuk
+mendapatkan modal tambahan. Agar
+memiliki daya saing yang kuat,
+perusahaan Real Estate dan Properti
+dihadapkan pada kondisi untuk dapat
+lebih
+transparan
+dalam
+mengungkapkan
+informasi
+perusahaannya pada pihak yang
+berkepentingan,
+sehingga
+akan
+membantu pengambilan keputusan
+dalam
+mengantisipasi
+kondisi
+ekonomi yang sering berubah, agar
+perkembangan industri Real Estate
+dan Properti nasional mengalami
+pertumbuhan usaha yang baik.
+Pada tahun 2008 inflasi di
+Indonesia di mata pasar masih tinggi
+yang mencapai angka 11,6. Hal ini
+juga didukung berdasarkan hasil
+survei oleh Bank Indonesia terhadap
+perkiraan ekonomi tahunan yang
+meliputi pertumbuhan ekonomi, nilai
+tukar, pertumbuhan ekspor dan
+impor, defisit PDB dan lain-lainnya.
+Namun pada tahun 2009 inflasi
+mengalami penurunan yang cukup
+jauh perbedaannya bila dibandingkan
+tahun 2008 yaitu hanya mencapai
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+2,78. Pada tahun 2010 inflasi
+mengalami kenaikan lagi namun
+tetap masih dibawah angka inflasi
+pada 2008 yaitu 6,96. Pada tahun
+2011 kembali lagi inflasi mengalami
+penurunan yaitu 3,79. Pada tahun
+2012 angka inflasi mengalami
+kenaikan sedikit yaitu 4,30. Jadi bila
+dilihat perbandingannya antara tahun
+2008 hingga 2012, inflasi tertinggi
+terjadi pada tahun 2008 dan pada
+tahun
+berikutnya
+mengalami
+penurunan dan kenaikan yang tidak
+melebihi total pada tahun 2008.
+Karena adanya tingkat inflasi, maka
+Bank Indonesia menaikkan suku
+bunga, dan suku bunga menurunkan
+nilai hutang pada sub sektor Real
+Estate dan Properti.
+Penelitian sebelumnya, Utami
+(2009)
+yang
+meneliti
+tentang
+pengaruh
+profitabilitas
+terhadap
+struktur modal hasil penelitiannya
+menunjukkan bahwa profitabilitas
+berpengaruh positif terhadap struktur
+modal. Hasil tersebut berbeda
+dengan yang dilakukan Indrajaya et
+al., (2011), yang menyatakan bahwa
+profitabilitas berpengaruh negatif
+terhadap struktur modal. Semakin
+profitable
+perusahaan,
+maka
+perusahaan cenderung mengurangi
+proporsi utangnya. Semakin besar
+profit perusahaan, maka semakin
+besar pula kemampuan perusahaan
+untuk
+membiayai
+kebutuhan
+investasinya dari sumber internal
+(seperti laba ditahan).
+Muhajir dan Triyono (2011)
+yang meneliti tentang pengaruh
+ukuran perusahaan terhadap struktur
+modal
+hasil
+penelitiannya
+menunjukkan
+bahwa
+ukuran
+perusahaan
+berpengaruh
+positif
+terhadap struktur modal. Perusahaan
+yang besar akan lebih aman dalam
+memperoleh
+hutang
+karena
+perusahaan
+mampu
+dalam
+pemenuhan hutang dengan adanya
+diversifikasi yang lebih luas dan arus
+kas yang stabil dan struktur
+modalnya juga akan meningkat.
+Berbeda dengan penelitian uang
+981
+
+dilakukan oleh Firnanti (2011) ukuran
+perusahaan
+yang
+besar
+tidak
+menjamin
+kelangsungan
+hidup
+perusahaan
+maupun
+lancarnya
+kegiatan operasional perusahaan.
+Dengan
+demikian,
+ukuran
+perusahaan tidak menjamin minat
+investor maupun kreditur dalam
+menanamkan
+dananya
+ke
+perusahaan oleh karena itu, ukuran
+perusahaan tidak mempengaruhi
+struktur modal.
+Deesomsak et al., (2004)
+menguji
+pengaruh
+antara
+pertumbuhan perusahaan terhadap
+struktur
+modal
+dimana
+hasil
+penelitiannya menunjukkan bahwa
+pertumbuhan berpengaruh negatif
+terhadap struktur modal. Perusahaan
+pertumbuhan
+yang
+tinggi
+menggunakan lebih sedikit utang
+karena
+mereka
+tidak
+ingin
+mengekspos diri untuk kemungkinan
+pembatasan yang dikenakan oleh
+pemberi pinjaman. Berbeda dengan
+penelitian yang dilakukan oleh
+Firnanti (2011) menyatakan bahwa
+pertumbuhan terhadap struktur modal
+dimana
+hasil
+penelitiannya
+menunjukkan bahwa pertumbuhan
+berpengaruh positif terhadap struktur
+modal.
+Perusahaan
+yang
+berkembang membutuhkan biaya
+yang tinggi untuk pertumbuhannya.
+Muhajir dan Triyono (2011)
+meneliti tentang pengaruh struktur
+aset terhadap struktur modal hasil
+penelitiannya menunjukkan bahwa
+struktur aset berpengaruh negatif
+terhadap terhadap struktur modal.
+Dengan demikian semakin tinggi
+struktur aset (yang berarti semakin
+besar aset tetap) maka penggunaan
+modal sendiri akan semakin tinggi
+(modal asing semakin sedikit)
+dengan kata lain struktur modalnya
+semakin rendah. Yuke dan Hadri
+(2005) dalam Muhajir dan Triyono
+(2011). Hasil tersebut berbeda
+dengan penelitian yang dilakukan
+oleh Indrajaya et al., (2011), yang
+menyatakan bahwa Struktur aset
+struktur aset berpengaruh positif
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+terhadap terhadap struktur modal.
+Menurut Adrianto dan Wibowo (2007)
+dalam Indrajaya et al., (2011), aset
+berwujud yang semakin besar akan
+menunjukkan
+kemampuan
+perusahaan
+dalam
+memberikan
+jaminan yang lebih tinggi, sehingga
+dengan
+mengasumsikan
+semua
+faktor lain konstan, perusahaan akan
+meningkatkan
+utang
+untuk
+mendapatkan
+keuntungan
+dari
+penggunaan utang.
+Adanya
+fenomena
+dan
+perbedaan hasil penelitian terdahulu
+(reseach gap) mengenai faktor-faktor
+yang berpengaruh terhadap struktur
+modal, yang menunjukkan adanya
+perbedaan hasil penelitian sehingga
+perlu dilakukan penelitian lanjutan.
+Penulis ingin melakukan penelitian
+tentang
+faktor-faktor
+yang
+berpengaruh terhadap struktur modal
+yaitu dengan menggunakan variabel
+ukuran perusahaan, pertumbuhan
+aset, profitabilitas, dan struktur aset
+terhadap struktur modal pada sektor
+real estate dan properti pada tahun
+2008-2012.
+Hasil penelitian terdahulu
+menunjukkan bahwa masih ada
+perbedaan hasil penelitian (research
+gap) mengenai faktor-faktor yang
+berpengaruh terhadap struktur modal
+yaitu dengan menggunakan variabel
+ukuran perusahaan, pertumbuhan
+aset, profitabilitas, dan struktur aset
+terhadap struktur modal, sehingga
+penelitian
+ini
+dilakukan
+untuk
+mengetahui dan menganalisis lebih
+lanjut tentang faktor-faktor yang
+berpengaruh terhadap struktur modal
+yaitu dengan menggunakan variabel
+ukuran perusahaan, pertumbuhan
+aset, profitabilitas, dan struktur aset
+terhadap struktur modal yang listing
+di BEI periode 2008-2012.
+KAJIAN PUSTAKA
+Pecking Order Theory
+Perusahaan
+yang
+ingin
+berkembang selalu membutuhkan
+modal yang salah satunya diperoleh
+982
+
+dari hutang hal ini sesuai dengan
+pecking
+order
+theory.
+Namun
+demikian, perusahaan tidak mudah
+untuk memperoleh pinjaman, karena
+harus menganalisis lebih dahulu
+apakah memang sudah tepat untuk
+berhutang. Jika sumber-sumber dari
+internal, seperti modal sendiri atau
+laba ditahan masih kurang, maka
+perusahaan
+dapat
+melakukan
+pinjaman. Untuk itu, perlu dianalisis
+untung ruginya bila melakukan
+pinjaman.
+Menurut Brealey et al., (2008:
+25),
+pecking
+order
+theory
+menyatakan bahwa “Perusahaan
+dengan tingkat profitabilitas yang
+tinggi justru tingkat hutangnya
+rendah, dikarenakan perusahaan
+yang
+profitabilitas
+yang
+tinggi
+memiliki sumber dana internal yang
+berlimpah”. Dalam pecking order
+theory ini tidak terdapat struktur
+modal yang optimal. Dalam memilih
+sumber pendanaan antara lain: 1)
+Perusahaan lebih memilih untuk
+menggunakan sumber dana dari
+dalam atau pendanaan internal
+daripada pendanaan eksternal. Dana
+internal tersebut diperoleh dari laba
+ditahan yang dihasilkan dari kegiatan
+operasional perusahaan. 2) Jika
+pendanaan eksternal diperlukan,
+maka perusahaan akan memilih
+pertama kali mulai dari sekuritas
+yang paling aman, yaitu hutang yang
+paling rendah resikonya, turun
+kehutang yang lebih beresiko,
+sekuritas hybrid seperti obligasi
+konversi, saham preferen, dan yang
+terakhir saham biasa.
+Pecking
+order
+theory
+menyatakan
+bahwa
+perusahaan
+dengan dengan tingkat pertumbuhan
+yang cepat harus lebih banyak
+mengandalkan pada modal eksternal.
+Dengan
+demikian
+perusahaan
+dengan tingkat pertumbuhan yang
+tinggi cenderung lebih banyak
+menggunakan hutang (Firnanti, 2011)
+Pecking order theory dalam
+penelitian ini digunakan untuk
+menjelaskan
+hubungan
+antara
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+profitabilitas, dan pertumbuhan aset
+terhadap struktur modal.
+Trade-off Theory
+Esensi trade-off theory dalam
+struktur
+modal
+adalah
+penyeimbangan
+manfaat
+dan
+pengorbanan yang timbul sebagai
+akibat penggunaan hutang. Sejauh
+manfaat lebih besar, tambahan
+hutang masih diperkenankan. Apabila
+pengorbanan karena penggunaan
+hutang sudah lebih besar, maka
+tambahan hutang sudah tidak
+diperbolehkan (Brigham & Houston,
+2001.
+Trade-off
+theory
+telah
+mempertimbangkan berbagai faktor
+seperti
+corporate
+tax,
+biaya
+kebangkrutan, dan personal tax
+dalam menjelaskan mengapa suatu
+perusahaan memilih struktur modal
+tertentu Husnan (2003).
+Semakin besar perusahaan
+akan menyebabkan financial distress
+cost perusahaan semakin rendah
+(karena risiko kebangkrutan juga
+semakin rendah), dan hal ini akan
+menyebabkan kapasitas penggunaan
+utang
+yang
+optimal
+semakin
+meningkat dalam Indrajaya et al.,
+(2011).
+Trade-off
+theory
+dalam
+penelitian ini digunakan untuk
+menjelaskan
+hubungan
+antara
+ukuran perusahaan danstruktur aset
+terhadap struktur modal.
+Profitabilitas, Ukuran Perusahaan,
+Pertumbuhan Aset, Struktur Aset
+dan Struktur Modal
+Dalam penelitian ini rasio yang
+digunakan adalah long term debt to
+equity
+ratio
+yaitu
+pendanaan
+perusahaan menggunakan hutang.
+Long Term Debt to Equity Ratio
+merupakan sumber dana pinjaman
+yang bersumber dari hutang jangka
+panjang. Rasio ini digunakan untuk
+mengukur
+besar
+kecilnya
+penggunaan hutang jangka panjang
+dibandingkan modal sendiri (Sudana,
+983
+
+2009:207). Peningkatan hutang pada
+gilirannya akan mempengaruhi besar
+kecilnya laba bersih yang tersedia
+bagi
+para
+pemegang
+saham
+termasuk dividen yang diterima
+karena kewajiban untuk membayar
+hutang lebih diutamakan daripada
+pembagian dividen.
+Profitabilitas
+yang
+tinggi
+menjadikan perusahaan
+mampu
+mendanai kegiatan operasionalnya
+dengan dana yang berasal dari dana
+internal
+perusahaan.
+Maka
+perusahaan tidak terlalu memerlukan
+dana dari hutang.
+Semakin besar perusahaan,
+kecenderungan untuk memakai dana
+eksternal juga semakin besar. Hal
+tersebut dikarenakan perusahaan
+besar memiliki kebutuhan dana yang
+besar dan salah satu alternatif
+pemenuhan dananya adalah dengan
+menggunakan dana eksternal yaitu
+dengan
+menggunakan
+hutang.
+Perusahaan
+lebih
+memilih
+menggunakan dana eksternal untuk
+memenuhi kebutuhan dana karena
+dinilai dana internal yang tidak
+mencukupi
+untuk
+operasional
+perusahaan.
+Perusahaan
+yang
+tumbuh
+dengan cepat harus lebih banyak
+mengandalkan diri pada modal
+eksternal. Lebih jauh, biaya emisi
+yang terkait dalam penjualan saham
+biasa melebihi biaya yang terjadi
+ketika
+menjual
+utang,
+yang
+selanjutnya mendorong perusahaan
+yang tumbuh dengan pesat untuk
+mengandalkan diri pada utang.
+Namun pada waktu yang sama
+perusahaan-perusahaan ini sering
+kali menghadapi ketidakpastian yang
+lebih
+besar
+yang
+cenderung
+mengurangi keinginan mereka untuk
+menggunakan utang.
+Perusahaan
+yang
+struktur
+asetnya memiliki perbandingan aset
+tetap jangka panjang lebih besar
+akan menggunakan hutang jangka
+panjang lebih banyak karena aset
+tetap yang ada dapat digunakan
+sebagai jaminan hutang (Brigham
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+dan Houston, 2001:188). Dengan
+demikian
+struktur
+aset
+dapat
+digunakan
+untuk
+menentukan
+seberapa besar hutang jangka
+panjang yang dapat diambil dan hal
+ini akan berpengaruh juga terhadap
+penentuan besarnya struktur modal.
+Proporsi aset yang besar akan
+mempengaruhi leverage yang tinggi.
+Berdasarkan kajian teoritis dan
+empiris maka dapat dirumuskan
+hipotesis sebagai berikut :
+Hipotesis Penelitian
+Sesuai dengan masalah yang
+dirumuskan dan landasan teori yang
+dikemukakan maka hipotesis yang
+diajuakan dalam penelitian ini adalah
+H1:
+Profitabilitas
+berpengaruh
+terhadap struktur modal
+pada perusahaan real estate
+dan properti yang terdaftar di
+BEI periode 2008-2012.
+H2:
+Ukuran
+perusahaan
+berpengaruh
+terhadap
+struktur
+modal
+pada
+perusahaan real estate dan
+properti yang terdaftar di BEI
+periode 2008-2012.
+H3:
+Pertumbuhan
+aset
+berpengaruh
+terhadap
+struktur
+modal
+pada
+perusahaan real estate dan
+properti yang terdaftar di BEI
+periode 2008-2012.
+H4:
+Struktur aset berpengaruh
+terhadap struktur modal
+pada perusahaan real estate
+dan properti yang terdaftar di
+BEI periode 2008-2012.
+METODE
+Penelitian ini menggunakan
+jenis penelitian kausal yang bertujuan
+untuk mendapatkan bukti hubungan
+sebab akibat (hubungan kausal)
+(Malhotra 2009:100). Rancangan
+penelitian
+dapat
+diklasifikasikan
+menjadi dua yaitu eksploratif dan
+konklusif (Malhotra, 2009:89). Riset
+konklusif adalah riset yang dirancang
+984
+
+untuk membantu pembuat keputusan
+dalam menentukan, mengevaluasi,
+serta memilih rangkaian tindakan
+yang harus diambil pada situasi
+tertentu (Malhotra, 2009:90). Tujuan
+dari riset konklusif Malhotra (2009:90)
+adalah
+menguji
+hipotesis
+dan
+hubungan secara spesifik. Penelitian
+konklusif
+bersifat
+formal
+dan
+terstruktur karena didasarkan atas
+sampel besar representatif dan data
+yang dihasilkan dianalisis secara
+kuantitatif (Malhotra, 2009:90).
+Variabel dalam penelitian ini
+ada dua yaitu variabel dependen dan
+variabel
+independen.
+Variabel
+dependen adalah variabel struktur
+modal dan variabel independen
+adalah
+profitabilitas,
+ukuran
+perusahaan, pertumbuhan aset, dan
+struktur aset.
+Menurut Riyanto (2001:296)
+struktur modal adalah perimbangan
+atau perbandingan antara modal
+asing (jangka panjang) dengan modal
+sendiri.
+Untuk menghitung rasio ini,
+maka di gunakan persamaan :
+Long Term Debt to Equity Ratio =
+Riyanto
+(2001:35)
+memberikan definisi profitabilitas
+adalah menunjukkan kemampuan
+perusahaan untuk menghasilkan laba
+selama periode tertentu. Rumus
+perhitungan Return on Asets (ROA)
+menurut
+Kasmir
+(2010:201)
+adalah:Return on Asets (ROA)
+=
+Ukuran
+Perusahaan
+merupakan ukuran atau besarnya
+asetyang dimiliki perusahaan. Rumus
+perhitungan
+ukuran
+perusahaan
+menurut Indrajaya et al., (2001)
+adalah:
+Size = Ln (Total aset)
+Saidi (2004) dalam Muhajir
+dan Triyono (2011) Pertumbuhan
+dinyatakan sebagai pertumbuhan
+total aset diamana pertumbuhan aset
+masa lalu akan menggambarkan
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+profitabilitas yang akan datang dan
+pertumbuhan yang datang. Rumus
+perhitungan
+ukuran
+perusahaan
+menurut Utami (2009) adalah:
+Percentage change in total asets
+=
+adalah perimbangan atau
+perbandingan baik dalam artian
+absolute maupun dalam artian
+relative antar aset lancar dan aset
+tetap
+(Riyanto,2001:22).Rumus
+perhitungan
+ukuran
+perusahaan
+menurut Indrajaya et al., (2011)
+adalah:
+Struktur Aset =
+
+berpengaruh
+tidak
+berpengaruh
+terhadap struktur modal dengan nilai
+sig -1,242 > 0,05. Struktur aset
+berpengaruh
+negatif
+terhadap
+struktur modal dengan nilai sig 0,039
+< 0,05.
+Koefisien determinasi (R2)
+dalam penelitian ini dengan nilai
+adjusted R square sebesar 0,058atau
+5,8 %. Hal ini menunjukkan bahwa
+5,8 % profitabilitas dipengaruhi oleh
+profitabilitas, ukuran perusahaan,
+pertumbuhan aset, dan struktur aset.
+Sedangkan 94,2% dipengaruhi oleh
+variabel lain diluar model.
+PEMBAHASAN
+Pengaruh Profitabilitas terhadap
+Struktur Modal
+
+HASIL
+Setelah memenuhi uji asumsi
+klasik kemudian dilakukan analisis
+regresi linier berganda dengan hasil
+yang terdapat pada tabel 1 sebagai
+berikut.
+Tabel 1. Hasil Analisis Regresi Linier
+Berganda
+Variab
+el
+
+LTDtE
+R
+
+Unstandardi
+zed
+Coefficients
+B
+0,078
+
+ROA
+
+0,001
+
+SIZE
+
+0,012
+
+PA
+
+0,011
+
+SA
+
+0,014
+
+T
+
+Sig
+
+0,43
+7
+0,13
+8
+1,93
+1
+1,24
+2
+2,08
+8
+
+0,66
+3
+
+Adjus
+tR
+Squa
+re
+0,058
+
+0,89
+1
+0,05
+6
+0,21
+7
+0,03
+9
+
+Sumber: Output SPSS, 2014
+
+Hasil dari uji t menunjukkan
+variabel profitabilitas berpengaruh
+negatif
+terhadap struktur modal
+dengan sig 0,663 > 0,05. Variabel
+ukuran
+perusahaan
+tidak
+berpengaruh terhadap struktur modal
+dengan nilai sig 0,891 > 0,05.
+Variabel
+pertumbuhan
+aset
+
+985
+
+Profitabilitas
+adalah
+kemampuan
+perusahaan
+dalam
+memperoleh
+laba.
+Profitabilitas
+adalah hasil akhir dari sejumlah
+kebijakan dan keputusan manajemen
+perusahaan. Dengan demikian dapat
+dikatakan profitabilitas perusahaan
+merupakan kemampuan perusahaan
+dalam menghasilkan laba bersih dari
+aktivitas yang dilakukan pada periode
+akuntansi. Brigham dan Houston
+(2001:42), menyatakan bahwa tingkat
+pengembalian yang tinggi dari
+aktivitas perusahaan memungkinkan
+perusahaan
+untuk
+membiayai
+sebagian
+besar
+kebutuhan
+pendanaan dengan dana yang
+dihasilkan secara internal.
+Berdasarkan hasil analisis
+data menunjukkan profitabilitas tidak
+berpengaruh
+terhadap
+struktur
+modal.
+Dengan
+meningkatnya
+profitabilitas perusahaan maka akan
+menurunkan hutang perusahaan
+sebagai dari akibat semakin tingginya
+aktivitas aktivitas perusahaan yang
+menandakan adanya prospek dan
+peluang yang semakin bagus untuk
+terus meningkatkan pendapatan.
+Ketika aktivitas perusahaan semakin
+tinggi sehingga produknya mampu
+menembus pasar yang ditargetkan
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+dan akan mendatangkan keuntungan
+yang semakin tinggi sehingga
+perusahaan tidak perlu mengambil
+dana dari luar untuk membiayai
+operasionalnya.
+Hasil ini didukung oleh teori
+pecking order yang menjelaskan
+alasan perusahaan lebih menyukai
+dana internal untuk membiayai
+operasional perusahaan. Hasil ini
+sesuai dengan penelitian yang
+dilakukan oleh Hossain dan Ali
+(2012) bahwa profitabilitas tidak
+berpengaruh
+terhadap
+struktur
+modal.
+Pengaruh
+Ukuran Perusahaan
+terhadap Struktur Modal
+Ukuran perusahaan adalah
+skala besar kecilnya perusahaan
+ditentukan
+oleh
+total
+aset.
+Perusahaan yang lebih besar dimana
+sahamnya tersebar luas akan lebih
+berani mengeluarkan saham baru
+dalam
+memenuhi
+kebutuhannya
+untuk
+membiayai
+pertumbuhan
+penjualannya
+dibandingkan
+perusahaaan yang lebih kecil.
+Sehingga
+semakin
+besar
+perusahaan, kecenderungan untuk
+memakai dana eksternal juga
+semakin
+besar.
+Hal
+tersebut
+dikarenakan
+perusahaan
+besar
+memiliki kebutuhan dana yang besar
+dan salah satu alternatif pemenuhan
+dananya
+adalah
+dengan
+menggunakan dana eksternal yaitu
+dengan
+menggunakan
+hutang.
+Sehingga semakin besar ukuran
+perusahaan kecenderungan untuk
+menggunakan hutang lebih besar
+untuk memenuhi kebutuhan dananya
+dari pada perusahaan kecil.
+Hasil penelitian menunjukkan
+bahwa variabel ukuran perusahaan
+tidak berpengaruh terhadap struktur
+modal. Hal ini disebabkan karena
+jumlah aset tidak lancar sebesar Rp 7
+9.285.187.983 yang lebih banyak di
+bandingkan aset lancar. Dalam
+penelitian ini pada PT Bhuwanatala
+Indah Permai Tbk jumlah aset lancar
+
+986
+
+Rp 9 9.118.444.967 yang digunakan
+untuk investasi sedikit. Sehingga
+banyaknya
+jumlah
+aset
+tidak
+menjadikan kreditur tertarik untuk
+memberikan
+pinjaman
+modal.
+Sehingga
+harapan
+kreditur
+mendapatkan jaminan hutang atas
+jumlah aset yang dimiliki perusahaan
+semakin kecil. Hal ini bisa menjadi
+sinyal
+bagi
+kreditur
+bahwa
+perusahaan tidak cukup mampu
+untuk mengembalikan hutang saat
+jatuh tempo. Hasil ini sesuai dengan
+penelitian yang dilakukan oleh
+Firnanti
+(2011) bahwa ukuran
+perusahaan
+tidak
+berpengaruh
+terhadap struktur modal.
+Pengaruh
+Pertumbuhan
+terhadap Struktur Modal
+
+Aset
+
+Pertumbuhan aset adalah
+perubahan
+(peningkatan
+atau
+penurunan) total aset yang dimiliki
+oleh perusahaan. Pertumbuhan aset
+dihitung
+sebagai
+presentase
+perubahan aset pada tahun tertentu
+terhadap tahun sebelumnya.
+Berdasarkan hasil analisis
+data menunjukkan struktur aset
+berpengaruh
+negatif
+terhadap
+struktur aset. Hal ini mengindikasikan
+bahwa
+perubahan
+peningkatan
+maupun penurunan suatu aset yang
+diperoleh perusahaan setiap waktu
+tidak akan mempengaruhi pihak
+manajemen
+dalam
+pengambilan
+keputusan pendanaan dalam rangka
+pemenuhan
+kebutuhan
+dana
+perusahaan, karena manajer dalam
+mengambil
+keputusan
+lebih
+mementingkan laba perusahaan dari
+pada aset yang dimiliki. Manajemen
+dan pemegang saham cenderung
+sependapat dengan perusahaan
+yang
+mempunyai
+kesempatan
+investasi yang kuat. Tetapi bagi
+perusahaan
+yang
+tidak
+ada
+kesempatan
+investasi,
+hutang
+memberikan batas biaya agensi
+dengan pertimbangan manajerial,
+pengukuran
+variabel
+tingkat
+pertumbuhan
+perusahaan
+dapat
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+diukur dangan melihat investasi yang
+dilakukan oleh perusahaan. Hasil ini
+sesuai dengan penelitian yang
+dilakukan oleh Utami (2009) bahwa
+pertumbuhan aset tidak berpengaruh
+terhadap struktur modal.
+Pengaruh Struktur Aset terhadap
+Struktur Modal
+Struktur
+aset
+adalah
+perimbangan atau perbandingan baik
+dalam artian absolute maupun dalam
+artian relative antar aset lancar dan
+aset tetap (Riyanto,2001:22). Struktur
+aset dapat dipandang dari obyek
+operasional yang pada dasarnya
+menggolongkan
+aset
+dalam
+perbandingan
+tertentu
+untuk
+keperluan
+operasi
+utama
+perusahaan. Untuk keperluan ini,
+struktur aset dapat dipandang dari 2
+sisi yaitu aset yang harus tersedia
+untuk
+operasional
+perusahaan
+selama
+periode
+akuntansi
+berlangsung serta yang harus
+disediakan
+untuk
+operasional
+perusahaan
+secara
+permanen.
+Berdasarkan hasil analisis data
+menunjukkan
+struktur
+aset
+berpengaruh
+negatif
+terhadap
+struktur aset. Hal ini mengindikasikan
+bahwa perusahaan industri sebagian
+besar modalnya tertanam dalam
+aktiva tetap akan mengutamakan
+pemenuhan modalnya dari modalnya
+yang permanen yaitu modal sendiri
+sedangkan hutang sifatnya hanya
+sebagai pelengkap. Hal ini didukung
+oleh Muhajir dan Triyono (2011) yang
+menyatakan bahwa kebanyakan
+perusahaan
+sebagian
+besar
+modalnya tertanam dalam aset tetap
+akan mengutamakan pemenuhan
+modalnya dari modalnya yang
+permanen yaitu modal sendiri
+sedangkan hutang sifatnya hanya
+sebagai pelengkap. Dengan demikian
+semakin tinggi struktur aktiva (yang
+berarti semakin besar aktiva tetap)
+maka penggunaan modal sendiri
+akan semaki tinggi (modal asing
+
+987
+
+semakin sedikit) dengan kata lain
+struktur modalnya semakin rendah.
+KESIMPULAN
+Penelitian ini berfokus pada
+pengujian atas mengenai pengaruh
+profitabilitas, ukuran perusahaan,
+pertumbuhan aset, dan struktur aset
+terhadap struktur modal pada sektor
+real estate and property yang
+terdaftar di BEI periode 2008-2012.
+Maka
+penulis
+mendapatkan
+kesimpulan atas jawaban dan
+beberapa pertanyaan yang terdapat
+pada rumusan masalah yang menjadi
+acuan dasar bagi maksud dan tujuan
+dari penelitian ini, antara lain sebagai
+berikut:
+Pengaruh profitabilitas, ukuran
+perusahaan, pertumbuhan aset, dan
+struktur aset secara simultan atau
+bersama-sama
+berpengaruh
+terhadap struktur modal.
+Profitabilitas (ROA) tidak memiliki
+pengaruh signifikan terhadap Struktur
+Modal
+(LTDtER).
+Dengan
+meningkatnya
+profitabilitas
+perusahaan maka akan menurunkan
+hutang perusahaan sebagai dari
+akibat semakin tingginya aktivitas
+aktivitas
+perusahaan
+yang
+menandakan adanya prospek dan
+peluang yang semakin bagus untuk
+terus meningkatkan pendapatan.
+Hasil ini didukung oleh teori pecking
+order yang menjelaskan alasan
+perusahaan lebih menyukai dana
+internal untuk membiayai operasional
+perusahaan.
+Ukuran Perusahaan (SIZE) tidak
+memiliki
+pengaruh
+signifikan
+terhadap Struktur Modal (LTDtER).
+Hal ini disebabkan karena jumlah
+aset tidak lancar yang lebih banyak di
+bandingkan aset lancar. Jumlah aset
+lancar
+yang
+digunakan
+untuk
+investasi
+sedikit.
+Sehingga
+banyaknya
+jumlah
+aset
+tidak
+menjadikan kreditur tertarik untuk
+memberikan pinjaman modal.
+Pertumbuhan Aset (PA) tidak
+memiliki
+pengaruh
+signifikan
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+terhadap Struktur Modal (LTDtER).
+Manajemen dan pemegang saham
+cenderung
+sependapat
+dengan
+perusahaan
+yang
+mempunyai
+kesempatan investasi yang kuat.
+Tetapi bagi perusahaan yang tidak
+ada kesempatan investasi, hutang
+memberikan batas biaya agensi
+dengan pertimbangan manajerial,
+pengukuran
+variabel
+tingkat
+pertumbuhan
+perusahaan
+dapat
+diukur dangan melihat investasi yang
+dilakukan oleh perusahaan.
+Struktur Aktiva (SA)
+memiliki
+pengaruh signifikan dan negatif
+terhadap Struktur Modal (LTDtER).
+Hal ini mengindikasikan bahwa
+perusahaan industri sebagian besar
+modalnya tertanam dalam aktiva
+tetap
+akan
+mengutamakan
+pemenuhan modalnya dari modalnya
+yang permanen yaitu modal sendiri
+sedangkan hutang sifatnya hanya
+sebagai pelengkap.
+Atas hasil penelitian tersebut,
+maka
+penulis
+menyampaikan
+beberapa saran yang diharapkan
+dapat memberikan manfaat bagi
+pihak-pihak yang berkepentingan
+dengan penelitian ini. Saran yang
+dapat penulis berikan adalah:
+Bagi Perusahaan atau Emiten
+Pengelola perusahaan dan manajer
+agar
+menetapkan
+kebijakan
+keuangan
+perusahaan
+dimasa
+mendatang
+yang
+sebaiknya
+mempertimbangkan
+kebijakankebijakan apa saja yang berkaitan
+dengan struktur modal sehingga
+keputusan yang diambil adalah
+keputusan yang terbaik untuk kinerja
+manajemen
+keuangan
+dimasa
+mendatang.
+Bagi Investor para investor
+sebaiknya
+mempertimbangkan
+kondisi perusahaan atau gambaran
+mengenai struktur aset terhadap
+struktur modal pada perusahaan real
+estate dan properti yang terdaftar di
+BEI tahun 2008-2009. Sehingga
+investor dapat meminimalisir risiko
+saat mengambil keputusan investasi.
+
+988
+
+Bagi
+Peneliti
+selanjutnya
+penelitian ini menggunakan sampel
+dari perusahaan real estate dan
+propertiyang terdaftar di Bursa Efek
+Indonesia periode 2008-2012. Pada
+penelitian selanjutnya sebaiknya
+menggunakan sampel dan periode
+berbeda yang diharapkan dapat
+memperoleh hasil yang berbeda.
+UCAPAN TERIMA KASIH
+Keberhasilan penelitian jurnal
+ilmiah manajemen ini tidak lepas dari
+bantuan bimbingan, serta dorongan
+dari
+berbagai
+pihak.
+Penulis
+menyampaikan terimakasih kepada
+Dr. Ulil Hartono SE., M.Si. selaku
+dosen pembimbing skripsi dan jurnal
+ilmiah ini. Selain itu penulis juga
+mengucapkan terima kasih kepada
+keluarga dan teman-teman yang
+selama
+ini
+turut
+membantu
+menyelesaikan penelitian ini.
+DAFTAR PUSTAKA
+Brealey, Myers, Marcus.2008. DasarDasar Manajemen Keuangan.
+Perusahaan,
+Jilid
+1.
+Jakarta:Erlangga.
+Brigham F. Eugene, Houston F
+Joel.2001.
+Manajemen
+Keuangan. Jakarta: Erlangga.
+Deesomsak. et al., 2004. The
+Determinants
+of
+Capital
+Structure: Evidence from The
+Asia Pacific Region. Jurnal
+Multinational
+Financial
+Management 14: 387-405.
+Firnanti, Friska.
+2011. Faktorfaktor yang mempengaruhi
+Struktur Modal Perusahaan
+Manufaktur di Bursa Efek
+Indonesia.Stei Trisakti .Jurnal
+Bisnis dan Akuntansi 13 (2):
+119-128.
+Hossain Faruk dan Ayub Ali. 2012.
+Impact of Firm Specific
+Factors on Capital Structure
+Decision: an Empirical Study
+of
+Bangladesh
+companies.International
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+Journal of Business Research
+and Management (IJBRM)3.
+Husnan, Suad. 2003. Manajemen
+Keuangan
+Teori
+dan
+Penerapan
+(Keputusan
+Jangka
+Pendek),
+Edisi
+keempat. Yogyakarta: BPFE.
+Indrajaya. et al., 2011. Pengaruh
+Struktur
+Aktiva,
+Ukuran
+Perusahaan,Tingkat
+Pertumbuhan,
+Profitabilitas,
+dan Resiko Bisnis terhadap
+Struktur Modal: Studi Empiris
+pada
+Perusahaan Sektor
+Pertambangan yang Listing di
+Bursa Efek Indonesia. Jurnal
+Akurat Jurnal Ilmiah Akuntansi
+06.
+Kasmir. 2010. Pengantar Manajemen
+Keuangan. Jakarta: Kencana
+Prenda Media Group.
+Kasmir. 2010. Analisis Laporan
+Keuangan.
+Jakarta:
+PT.
+Rajagrafindo Persada.
+Malhotra, Naresh K. 2009. Riset
+
+989
+
+Pemasaran
+Pendekatan
+Terapan:
+Jilid
+1,
+Edisi
+Keempat. Jakarta: PT Indeks.
+Muhajir dan Triyono. 2011.FaktorFaktor yang Mempengaruhi
+Struktur Modal Perusahaan
+Manufaktur pada Bursa Efek
+Indonesia Periode 20052009. Fakultas Ekonomi
+Universitas Muhammadiyah
+Semarang.
+Riyanto, Bambang. 2001. DasarDasar
+Pembelanjaan
+Perusahaan.Yogyakarta:
+BPFE.
+Sudana, I Made. 2009. Manajemen
+Keuangan Teori dan Praktek.
+Surabaya:
+Airlangga
+University Press.
+Utami Endang Sri. 2009. FaktorFaktor yang Mempengaruhi
+Struktur Modal Perusahaan
+Manufaktur.
+Universitas
+Mercu Buana, Yogyakarta. 7
+(1):
+39-47.
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Lusia Insiroh; Pengaruh Profitabilitas,Ukuran …
+
+990
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+

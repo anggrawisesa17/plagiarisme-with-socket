@@ -1,0 +1,589 @@
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+PENERAPAN METODE WATERFALL
+PADA SISTEM INFORMASI INVENTORI PT. PANGAN SEHAT SEJAHTERA
+Muhamad Tabrani1, Eni Pudjiarti2
+1
+
+Tehnik Informatika, STMIK Nusa Mandiri Jakarta
+Email: muhammad.mtb@bsi.ac.id
+2
+Tehnik Informatika, STMIK Nusa Mandiri Jakarta
+Email: enipudjiarti@nusamandiri.ac.id
+
+ABSTRACT
+The goods inventory data processing in PT. Pangan Sehat Sejahtera is still using an application
+program that has not been fully integrated, meaning that in terms of recording and processing can
+only be accessed by one ministry that warehouse admin. As a distributor company with multi
+branches, the reports from branch office to main office have been converted in a such from the
+inventory application into Microsoft Office Excel form. The reports in excel form should be sent to
+main office’s by email everyday. This system makes the main office can’t get the updated inventory
+data as soon as possible. PT. Pangan Sehat Sejahtera has been using the Internet. The utilization of
+Information Technology can be maximized by building a web-based goods inventory system
+applications that can be accessed by the main office and the branch offices. The application was
+built using the Macromedia Dreamweaver, PHP programming language, and database MySQL.
+This application can be used by PT. Pangan Sehat Sejahtera especially the warehouse clerk to
+inventory the products in the warehouse. This inventory includes recording, processing, storage,
+and reporting the inventory data warehouse. With web-based, main office can see the reports from
+branch office and know the inventory data of each branch office quickly, precisely, and accurately.
+Keywords: Sales Information System, Data Processing, Inventory.
+ABSTRAK
+Pengolahan data inventori barang di PT. Pangan Sehat Sejahtera masih menggunakan suatu aplikasi
+program yang belum terintegrasi secara penuh, artinya dari segi pencatatan dan pengolahannya hanya
+bisa diakses oleh satu departemen saja yaitu admin gudang. Sebagai perusahaan distributor dengan
+multi cabang, pelaporan dari kantor cabang ke kantor pusat dilakukan dengan cara mengkonversi data
+inventori dari aplikasi tersebut ke dalam Microsoft Office Excel. Setiap hari laporan dalam format
+Excel tersebut harus dikirim ke pihak kantor pusat via email. Sistem tersebut menjadikan pihak kantor
+pusat tidak dapat mengetahui data inventori masing-masing kantor cabang dengan cepat. PT. Pangan
+Sehat Sejahtera telah terhubung jaringan Internet. Pemanfaatan Teknologi Informasi dapat
+dimaksimalkan dengan membangun aplikasi sistem inventori barang berbasis web yang dapat diakses
+oleh pihak kantor pusat dan kantor cabang. Aplikasi dibangun dengan menggunakan Macromedia
+Dreamweaver, bahasa pemrograman PHP, dan database MySQL. Aplikasi ini dapat digunakan pihak
+PT. Pangan Sehat Sejahtera terutama petugas bagian gudang dalam menginventarisasi produk yang
+ada di gudang. Inventarisasi ini meliputi pencatatan, pengolahan, penyimpanan, dan pelaporan data
+inventori gudang. Dengan berbasis web, pihak kantor pusat dapat melihat pelaporan dari kantor
+cabang dan dapat mengetahui data inventori masing-masing kantor cabang dengan cepat, tepat, dan
+akurat.
+Kata Kunci: Perancangan Sistem Informasi, Pengolahan Data, Persediaan.
+1.
+PENDAHULUAN
+Persaingan ekonomi sektor perdagangan semakin pesat, sesuai dengan publikasi Badan Pusat Statistik
+pada sebuah siaran pers, “Neraca perdagangan Indonesia pada April 2014 mengalami defisit sebesar
+US$ 1,96 miliar setelah pada bulan sebelumnya mencatat surplus sebesar US$ 0,67 miliar” (Peter
+Jacobs, No.16/43/DKom). Sehingga perlunya pemikiran yang semakin kritis atas pemanfaatan sumber
+dana dan sumber daya yang ada. Pada dasarnya perusahaan yang didirikan memiliki tujuan, dan
+tujuan utama perusahaan adalah bagaimana perusahaan dapat menjaga kelangsungan hidupnya dan
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+30
+
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+menjaga usahanya agar tetap dapat bertahan dan berkembang maka diperlukan upaya untuk
+penyempurnaan, meliputi peningkatan, produktifitas, cepat waktu serta mudah dipahami untuk
+penyampaian tujuan perusahaan dalam segala bentuk persaingan.
+Pada sebuah perusahaan atau instansi besar maupun kecil selalu ada inventori barang untuk semua
+proses transaksi, dengan sistem inventori yang baik berpengaruh sekali bagi perkembangan dan
+kemajuan suatu perusahan atau instansi terutama yang bergerak dalam bidang perdagangan. Sistem
+inventori yang kurang baik akan berpengaruh terhadap aspek lain, seperti kurangnya kepercayaan
+konsumen atau pelanggan terhadap perusahaan.
+PT. Pangan Sehat Sejahtera salah satu perusahaan penjualan makanan olahan daging, sistem yang
+digunakan pada perusahan ini yaitu aplikasi program desktop, yang mana pelaporan antar divisi
+dilakukan dengan cara menyalin data inventori dari aplikasi program desktop tersebut ke dalam
+Microsoft Office Excel. Setiap hari laporan dalam format Excel tersebut harus dikirim via email.
+sehingga memungkinkan terjadinya banyak kesalahan yaitu selisih antara stok barang pembelian yang
+ada dengan transaksi penjualan serta akan memakan waktu yang lama dalam perhitungan dan
+penyajian informasi inventori barang kepada pimpinan.
+2.
+TINJAUAN PUSTAKA
+2.1 Konsep Dasar Web
+Pembuatan penelitian ini tidak terlepas dari teori-teori yang mendukung dalam mempelajari serta
+merancang sebuah web. Sebelum penulis merancang sebuah web, penulis mempersiapkan apa saja
+yang akan digunakan, yaitu Aphace web server, Macromedia Dreamwever CS5, database MySQL,
+dan browser sebagai media internet. Penulis menggunakan apache sebagai server web. Untuk server
+aplikasinya penulis menggunakan Macromedia Dreamwever MX2004 yang berfungsi sebagai editor.
+Sementara untuk server database-nya menggunakan MySQL dan untuk mengaksesnya penulis
+menggunakan program browser berupa Mozilla Firefox sebagai media internet.
+2.1.1 Internet
+Menurut Wismakarma (2009:1) mengemukakan bahwa “Internet adalah suatu jaringan komputer
+global terbentuk dari jaringan-jaringan komputer lokal dan regional, memungkinkan komunikasi data
+antar komputer-komputer yang terhubung ke jaringan tersebut”. Internet yang kita kenal saat ini
+pertama kali dikembangkan pada tahun 1969 dengan nama ARPA Net (US Defense Advanced
+Research Project Agancy) oleh departetmen Pertahanan Amerika Serikat (Febrian, 2008:27). Kejadian
+ini berlangsung selama dua bulan setelah Neil Amstrong melangkah ke bulan. ARPA Net dibangun
+dengan sasaran untuk membuat jaringan komputer terbesar untuk menghindari pemusatan informasi
+disatu titik yang dipandang rawan untuk dihancurkan apabila terjadi peperangan. Di Indonesia
+jaringan internet mulai dikembangkan tahun 1983 di Universitas Indonesia berupa UI Net oleh Dr.
+Joseph F.P Luhukay. Ketika itu dia baru menamatkan program doktor Filosopi Ilmu Komputer di
+Amerika Serikat (Oetomo, 2007:23).
+2.1.2 Website
+Menurut Ardhana (2012:3) menyimpulkan bahwa: Website atau Situs Web adalah sejumlah halaman
+web yang memiliki topik saling terkait, terkadang disertai pula dengan berkas-berkas gambar, video,
+atau berkas lainnya. Situs web merupakan kumpulan dari halaman web yang sudah dipublikasikan di
+jaringan internet dan memiliki domain/URL (Unifed Resource Locator) yang dapat diakses semua
+pengguna internet dengan cara mengetikan alamatnya. Ditinjau dari aspek content atau isi, web dapat
+dibagi menjadi 2 jenis, yaitu web statis dan web dinamis. Selain dari sisi content/isi, web statis dan
+web dinamis dapat dilihat dari aspek teknologi yang digunakan untuk membuat jenis web tersebut.
+2.2 Bahasa Pemrograman
+2.2.1 HTML (Hyper Text MarkupLanguage)
+Menurut Ardhana (2012:42) “HTML atau Hyper Text Markup Language merupakan suatu bahasa
+yang dikenali oleh web browser untuk menampilkan informasi seperti teks, gambar, animasi bahkan
+video”. Untuk dapat membuat website dengan baik maka langkah awal yang harus dilakukan yaitu
+mengenal kode-kode dasar HTML yang sering digunakan oleh programmer web professional. Kode
+HTML memiliki aturan dan struktur penulisan tersendiri yang disebut tag HTML. Tag adalah kode
+yang digunakan untuk memoles (mark-up) teks menjadi file HTML. Setiap tag diapit dengan tanda
+kurung runcing. Ada tag pembuka dan tag penutup, yang membedakan tag penutup ditandai dengan
+tanda garis miring (slash) di depan awal tulisannya. Dokumen html merupakan dokumen yang
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+31
+
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+disajikan dalam web browser dan biasanya hanya untuk menampilkan informasi maupun interface.
+Secara umum, dokumen web dibagi menjadi dua bagian, yaitu head dan body, sehingga setiap
+dokumen html harus mempunyai pola dasar.
+2.2.2 CSS (Cascading Style Sheet)
+Menurut Ardhana (2012:108) CSS atau Cascading Style Sheet merupakan salah satu bahasa
+pemrograman web untuk mengendalikan beberapa komponen dalam sebuah web sehingga akan lebih
+terstruktur dan seragam. Sama halnya styles dalam aplikasi pengolahan kata seperti Microsoft Word
+yang dapat mengatur beberapa style, misalnya heading, subbab, bodytext, footer, images, dan style
+lainnya untuk dapat digunakan bersama-sama dalam beberapa berkas (files). Pada umumnya CSS
+dipakai untuk memformat tampilan halaman web yang dibuat dengan bahasa HTML dan XHTML.
+CSS dapat mengendalikan ukuran gambar, warna bagian tubuh pada teks, warna table, ukuran border,
+warna border, warna hyperlink, warna mouse-over, spasi antar paragraf, spasi antar teks, margin kiri,
+kanan, atas, bawah, dan parameter lainnya. CSS adalah bahasa style sheet yang digunakan untuk
+mengatur tampilan dokumen. Dengan adanya CSS memungkinkan kita untuk menampilkan halaman
+yang sama dengan format yang berbeda.
+2.2.3 Macromedia Dreamweaver
+Saat ini sudah banyak program aplikasi web editor yang memudahkan orang untuk membuat website
+dengan mudah dan cepat. Salah satu program aplikasi web editor tersebut adalah Macromedia
+Dreamweaver 8. Menurut Firdaus (2007:15) mengemukakan bahwa “Macromedia Dreamweaver 8
+adalah sebuah perangkat lunak yang dapat digunakan oleh setiap orang untuk belajar bagaimana
+membuat web dengan mudah. Cara penggunaanya juga sangat sederhana dan gampang dimengerti”.
+Salah satu kekuatan Macromedia Dreamweaver 8 ini adalah kemampuannya mendukung
+pemrograman script server side seperti Active Server Pages (ASP), ASP.NET, ColdFusion, Java
+Server Pages (JSP) dan PHP. Selain itu, tentunya mendukung pemrograman client side yang sangat
+terkenal dan banyak dipakai orang, yakni HTML dan JavaScript. Banyak jenis web editor yang dapat
+mengelola file PHP, dari shareware sampai dengan yang freeware dan memiliki kemampuan untuk
+mendukung pemrograman server side dan client side. Server side digunakan untuk memproses data
+yang berhubungan dengan server seperti pengolahan database, sedangkan client side merupakan
+bahasa pemrograman tambahan Sebagai editor Dreamweaver mempunyai sifat yang WYSIWYG,
+artinya apa yang kamu lihat akan kamu peroleh (What You See Is What You Get). Dengan kelebihan
+ini, seorang programer dapat langsung melihat hasil buatannya tanpa harus dibuka di browser.
+2.2.4 PHP (Personal Home Page)
+Menurut Ardhana (2012:88), ”PHP atau Pesonal Home Page merupakan bahasa pemrograman
+berbasis server-side yang dapat melakukan parsing script php menjadi script web sehingga dari sisi
+client menghasilkan suatu tampilan yang menarik. PHP merupakan pengembangan dari FI atau Form
+Interface yang dibuat oleh Rasmus Lerdoff pada tahun 1995”. Berbeda dengan HTML, kode PHP
+tidak diberikan langsung oleh server ketika ada permintaan dari sisi client namun dengan cara
+pemrosesan dari sisi server. Kode PHP disisipkan pada kode HTML. Perbedaan dari kode (script)
+HTML dan PHP yaitu setiap kode PHP ditulis selalu diberi tag pembuka yaitu <? Dan pada akhir
+kode PHP diberi tag penutup yaitu ?>. PHP sangat berperan besar ketika ingin membuat website
+keren yang dinamis karena dapat melakukan banyak hal, seperti membaca file, menulis file,
+menampilkan gambar, animasi atau movie, dan yang paling pokok adalah dapat melakukan koneksi
+terhadap database.
+2.3 Basis Data
+2.3.1 MySQL
+Menurut Firdaus (2007:56) “MySQL adalah database yang menghubungkan script php menggunakan
+perintah query dan escape character yang sama dengan php”. Selain itu ia bersifat open source (anda
+tidak perlu membayar untuk menggunakanya) pada berbaggai platform (kecuali untuk jenis
+enterprise, yang bersifat komersial). Perangkat lunak mysql sendiri bisa didownload dari
+http://www.mysql.com. Mysql termasuk jenis RDMS (Relation Database Management System).
+Itulah sebabnya istilah seperti table, baris, kolom digunakan dalam mysql. Pada mysql sebuah
+database mengusung satu atau sejumlah table. Tabel terdiri atas sejumlah baris dan setiap baris
+mengandung satu atau beberapa kolom. Mysql merupakan software yang dikembangkan oleh
+komunitas umum, dan hak cipta untuk kode sumber dimiliki oleh penulisnya masing- masing. Mysql
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+32
+
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+dimiliki dan disponsori oleh sebuah perusahaan komersial swedia yaitu Mysql AB. beberapa
+kelebihan mysql antara lain;
+1.
+Free (bebas di download)
+2.
+Stabil dan tangguh
+3.
+Fleksibel dengan berbagai pemograman
+4.
+Security yang baik
+5.
+Kemudahan manajemen database
+6.
+Mendukung transaksi
+7.
+Perkembangan software yang cukup cepat.
+2.3.2 Apache2Triad
+Menurut Suprianto (2008:1) ”Apache2triad merupakan web server yang digunakan oleh PHP,
+berfungsi menampilkan hasil proses script PHP ke komputer browser dalam bentuk tag HTML”. Web
+Server merupakan server yang menangani komunikasi data pada internet melalui jalur word wide web
+(www) atau html (Hypertext Markup Language). Web server merupakan inti dari server- server di
+internet karena sebagian besar layanan komunikasi berupa HTTP. Pada kenyataanya apabila kita
+mengakses internet maka layanan yang banyak digunakan adalah web service yaitu layanan berbasis
+web. Layanan http dapat digunakan karena kita melakukan request pada host yang ada di internet dan
+host tersebut menanggapinya dengan mengirimkan informasi yang kita butuhkan berupa kode-kode
+html yang akan dirubah ke bentuk halaman browser oleh web. Apache pertama kali didesain pada
+system Unix, tetapi pada versi berikutnya apache dapat dijalankan dalam sistem windows.
+2.4 Model Pengembangan Perangkat Lunak
+Pada pengembangan penulis menngunakan metode Air terjun (WaterFall) Menurut Rosa dan M.
+Shalahuddin (2013:28) Model SDLC air terjun (waterfall) sering juga disebut model sekuensial linier
+(sequential linier) atau alur hidup klasik (classic life cycle). Model air terjun menyediakan pendekatan
+alur hidup perangkat lunak secara sekuential atau terurut dimulai dari analisis, desain, pengkodean,
+pengujian, dan tahap pendukung (support).
+1.
+Analisis Kebutuhan Perangkat Lunak
+Proses pengumpulan kebutuhan dilakukan secara intensif untuk menspesifikasikan kebutuhan
+perangkat lunak agar dapat dipahami perangkat lunak seperti apa yang dibutuhkan oleh user.
+Spesifikasi kebutuhan perangkat lunak pada tahap ini perlu untuk didokumentasikan.
+2.
+Desain
+Desain perangkat lunak adalah proses multi langkah yang fokus pada desain pembuatan
+program perangkat lunak termasuk struktur data, arsitektur perangkat lunak, representasi
+antarmuka, dan prosedur pengkodean. Tahap ini mentrannslasi kebutuhan perangkat lunak dari
+tahap analisis kebutuhan ke representasi desain agar dapat diimplementasikan menjadi program
+pada tahap selanjutnya. Desain perangkat lunak yang dihasilkan pada tahap ini juga perlu
+didokumentasikan.
+3.
+Pembuatan Kode Program
+Desain harus ditranslasikan kedalam program perangkat lunak. Hasil dari tahap ini adalah
+program komputer sesuai dengan desain yang telah dibuat pada tahap desain.
+4.
+Pengujian
+Pengujian fokus pada perangkat lunak secara dari segi lojik dan fungsional dan memastikan
+bahwa semua bagian sudah diuji. Hal ini dilakukan untuk meminimalisir kesalahan (error) dan
+memastika keluaran yang dihasilkan sesuai dengan yang diinginkan.
+5.
+Pendukung atau Pemeliharaan (maintenance)
+Tidak menutup kemungkinan sebuah perangkat lunak mengalami perubahan ketika sudah
+dikirimkan ke user. Perubahan bisa terjadi karena adanya kesalahan yang muncul dan tidak
+terdeteksi saat pengujian atau perangkat lunak harus beradaptasi dengan lingkungan baru.
+Tahap pendukung atau pemeliharaan dapat mengulangi proses pengembangan mulai dari
+analisis spesifikasi untuk perubahan perangkat lunak yang sudah ada, tapi tidak untuk membuat
+perangkat lunak baru.
+2.5 Tool Program
+Perancangan suatu website tidak terlepas dari penggunaan peralatan pendukung (tools program).
+Peralatan pendukung dalam perancangan website bisa menambah kemudahan dalam memperoleh
+prosedur-prosedur yang akan dipakai pada website tersebut.
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+33
+
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+2.5.1 Struktur Navigasi
+Menurut Purnama (2006:12) ”Struktur navigasi adalah struktur atau alur dari sebuah program yang
+biasanya digunakan untuk menghubungkan halaman-halaman web yang berdasarkan elemen-elemen
+yang digunakan dalam aplikasi web”. Struktur navigasi merupakan rancangan hubungan dari
+beberapa area yang berbeda dan dapat membantu mengorganisasikan seluruh elemen dengan
+pemberian perintah dan pesan. Peta navigasi memiliki ciri khas yang membedakannya menurut
+kebutuhan objek, kemudahan pemakaian, keinteraktifannya dan kemudahan yang membuatnya
+berpengaruh terhadap pembuatan aplikasi multimedia. Beberapa jenis struktur navigasi adalah
+sebagai berikut :
+1.
+Linear
+Suatu jalur (Linear) merupakan struktur yang hanya mempunyai satu rangkaian cerita
+yang berurutan. Struktur ini menampilkan satu demi satu tampilan layar secara berurutan
+menurut urutannya. Tampilan yang dapat ditampilkan pada struktur jenis ini adalah satu
+halaman sebelumnya atau satu halaman sesudahnya tidak dapat dua halaman sebelumnya
+atau dua halaman sesudahnya. Pada struktur ini tidak diperkenankan adanya percabangan.
+2.
+Non Linear
+Struktur tidak berturut (Non Linear) merupakan pengembangan dari struktur Linear. Pada
+struktur ini diperkenankan membuat percabangan. Percabangan yang dibuat pada struktur
+Non Linear ini berbeda dengan percabangan pada struktur Hirarki, karena pada
+percabangan Non Linear ini walaupun terdapat percabangan, tetapi tiap-tiap tampilan
+mempunyai kedudukan yang sama, tidak ada Master page dan Slave Page.
+3.
+Hirarki
+Struktur Hierarchical merupakan suatu struktur yang mengandalkan percabangan untuk
+menampilkan data berdasarkan kriteria tertentu. Tampilan pada menu pertama akan
+disebut sebagai Master Page (halaman utama), halaman utama ini akan mempunyai
+halaman percabangan yang dikatakan Slave Page (halaman pendukung). Jika salah satu
+halaman pendukung dipilih atau diaktifkan, maka tampilan tersebut akan bernama Master
+Page (halaman utama kedua), dan seterusnya. Pada struktur ini tidak diperkenankan
+adanya tampilan secara Linear.
+4.
+Campuran
+Struktur penjejakan campuran (Composite) merupakan gabungan dari ketiga struktur
+sebelumnya yaitu Linear, Non Linear, Hierarchical. Struktur ini juga biasa disebut
+struktur bebas. Jika suatu tampilan membutuhkan percabangan, maka dapat dibuat
+percabangan, dan bila dalam percabangan tersebut terdapat suatu tampilan yang sama
+kedudukannya maka dapat dibuat struktur Linear dalam percabangan tersebut. Struktur
+ini banyak digunakan dalam pembuatan aplikasi karena struktur ini dapat memberikan
+interaktifitas yang lebih tinggi.
+2.5.2 ERD (Entity Relationship diagram)
+Menurut Simarmata (2010:67) adalah “alat pemodelan data utama dan akan membantu mengoranisasi
+data dalam suatu proyek ke dalam entitas-entitas dan menentukan hubungan antar entitas. Dalam
+Entity Relationship Diagram (ERD) terdapat beberapa komponen seperti:
+1.
+Entity
+Entity merupakan objek yang dapat dibedakan dengan yang lain dalam dunia nyata. Dalam
+entity ada yang disebut sebagai entity set yaitu kumpulan dari entity yang sejenis.
+2.
+Atribut
+Atribut adalah karakteristik dari entity atau relationship, yang menyediakan penjelasan detail
+tentang entity atau relationship tersebut. Atribut digambarkan dalam bentuk oval.
+3.
+Relasi
+Relasi adalah hubungan yang terjadi antara satu atau lebih entity.
+4.
+Kardinalitas (Derajat Relasi)
+Kardinalitas relasi menunjukkan jumlah maksimum entitas yang dapat berelasi dengan entitas
+pada himpunan entitas lain.
+2.5.3 LRS (Logical Record Structure)
+Menurut Ladjamudin (2006: 210) terdapat dua aturan dalam melakukan transformasi E-R Diagram ke
+Logical Record Structure (LRS). Dua aturan tersebut yaitu:
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+34
+
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+1.
+
+Setiap entity akan diubah kebentuk sebuah kotak dengan nama entity berada diluar kotak dan
+atribut berada didalam kotak.
+2.
+Sebuah relasi kadang disatukan dalam sebuah kotak bernama entity, kadang dipisah dalam
+sebuah kotak tersendiri.
+Aturan pokok diatas akan sangat dipengaruhi oleh elemen yang menjadi titik perhatian utama pada
+langkah transformasi yaitu cardinality/kardinalitas.
+3.
+HASIL DAN PEMBAHASAN
+3.1 Tinjauan Perusahaan
+Dengan ekspansi yang cepat, pada tahun 2002, Penjualan dan distribusi dilakukan oleh PT. Pangan
+Sehat Sejahtera, selain penjualan dan distribusi PT. Pangan Sehat Sejahtera juga bertanggung jawab
+untuk semua kegiatan pemasaran. Selama bertahun-tahun perjalanannya, termasuk menghadapi tahun
+yang sulit dari krisis ekonomi pada tahun 1998, perusahaan telah mencatat sejumlah ekspansi pasar
+strategis di seluruh nusantara. Mulai dari cakupan pemasaran yang sangat kecil di Jakarta pada tahun
+1995, perusahaan memperluas pasarnya ke tanah Jawa dengan menunjuk CV. Langgeng Lestari pada
+tahun 1996. Ekspansi pasar mulai berguling ke Jawa Barat, Jawa Tengah, Pulau Sumatera,
+Kalimantan, dan Sulawesi, serta PT. Pangan Mitra Sejahtera untuk wilayah akses Jawa Timur dan
+Bali. Akhirnya pada tahun 2008, perusahaan telah membangun cold storage modern yang
+beralamatkan di Komp. Jababeka I Blok J No 7C Jln Jababeka VI Cikarang Industrial Estate-Bekasi.
+3.2 Analisa Kebutuhan
+3.2.1 Kebutuhan Pengguna
+Dalam aplikasi ini terdapat tiga pengguna yang dapat saling berinteraksi dalam lingkungan sistem,
+yaitu: Bagian Pembelian, Bagian Penjualan, Dan Manajerial. Ketiga pengguna tersebut memiliki
+karakteristik interaksi dengan sistem yang berbeda-beda dan memiliki kebutuhan informasi yang
+berbeda-beda, seperti berikut:
+1.
+Skenario Kebutuhan Bagian Pembeliaan
+a)
+Mengelola data Supplier
+b)
+Membuat permintaan barang
+c)
+Mengelola data barang masuk
+d)
+Mengecek laporan stok barang
+e)
+Membuat laporan barang masuk
+f)
+Membuat laporan supplier
+2.
+Skenario Kebutuhan Penjualan
+a)
+Mengelola data pelanggan
+b)
+Mengelola data pengeluaran barang
+c)
+Mengelola pengembalian barang (retur)
+d)
+Mengecek laporan stok barang
+e)
+Membuat laporan pengeluaran barang
+f)
+Membuat laporan pelanggan
+3.
+Skenario Kebutuhan Manajer
+Hanya dapat melihat akses semua laporan modul
+3.2.2 Kebutuhan Sistem
+1.
+Pengguna harus melakukan login terlebih dahulu untuk dapat mengakses aplikasi ini dengan
+memasukan username dan password agar privasi masing-masing pengguna tetap terjaga
+keamananya.
+2.
+Pengguna harus melakukan logout setelah selesai menggunakan aplikasi.
+3.
+Bagian pembelian input master data supplier.
+4.
+Bagian pembelian input data pembelian barang.
+5.
+Bagian pembelian melakukan laporan data barang.
+6.
+Bagian penjualan melakukan input data pelanggan.
+7.
+Bagian penjualan melakukan input data pengeluaran dan retur barang.
+8.
+Sales membuat laporan data pelanggan dan data pengeluaran.
+9.
+Sistem melakukan kalkulasi stok barang.
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+35
+
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+3.3 Rancangan Perangkat Lunak
+3.3.1 Rancangan Halaman Index
+
+Gambar 1. Rancangan Halaman Index
+3.3.2 Rancangan Halaman pembelian
+
+Gambar 2. Rancangan Halaman Pembelian
+3.4 Rancangan Basis Data
+3.4.1 ERD (Entity Relationship Diagram (ERD)
+
+Gambar 3. Entity Relationship Diagram (ERD)
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+36
+
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+3.4.2 Logical Relational Structure (LRS)
+
+Gambar 4. Logical Relation Structure (LRS)
+3.5 Rancangan Struktur Navigasi
+3.5.1 Implementasi dan pengujian unit user
+
+Gambar 5. Logical Relation Structure (LRS)
+3.5.2 Implementasi dan pengujian unit pembelian
+
+Gambar 6. Logical Relation Structure (LRS)
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+37
+
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+3.6 Implementasi dan Pengajuan Unit
+3.6.1 Implementasi halaman Index
+
+Gambar 7. Implementasi Halaman Index
+3.6.2 Implementasi halaman Bagian Pembelian
+
+Gambar 8. Implementasi Halaman bagian pembelian
+3.6.3 Implementasi halaman transaksi pembelian
+
+Gambar 9. Implementasi Halaman transaksi pembelian
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+38
+
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+3.7 Sfesifikasi Sistem Komputer
+Mengatur tentang penggunaan dari perangkat keras dan perangkat lunak yang akan digunakan dalam
+sistem usulan dan penggambarannya dalam bentuk konfigurasi komputer.
+3.7.1 Spesifikasi Perangkat Keras
+Perangakat keras merupakan sarana fisik yang di pergunakan untuk dapat menghasilkan data,
+program dan keluaran. Dan agar program dapat berjalan sesuai dengan karakteristik tersebut dengan
+perangkat keras yang dibutuhkan minimal:
+1.
+Server
+a)
+CPU
+Processor intel® Pentium Core 2 Duo.
+RAM DDR3 4 GB.
+Harddisk 500 GB.
+b)
+Mouse
+c)
+Keyboard
+d)
+Monitor dengan resolusi layar minimum 1024x768.
+e)
+Koneksi internet dengan kecepatan 3 Mbps
+2.
+Client
+a)
+CPU
+Processor intel® Pentium Core 2 Duo.
+RAM DDR3 1 GB.
+Harddisk 160 GB.
+b)
+Mouse
+c)
+Keyboard
+d)
+Monitor dengan resolusi layar minimum 1024x768.
+e)
+Koneksi internet dengan kecepatan 3 Mbps
+3.7.2 Spesifikasi Perangkat Lunak
+Perangkat lunak atau disebut software adalah komponen non fisik yang terdiri dari kumpulan program
+yang di buat terstruktur datanya. Agar dapat berjalan diperlukan system operasi yang mendukung
+program aplikasi yang berfungsi untuk mengatur data dan dapat disimpan di dalam hardisk serta dapat
+tercetak. Agar program dapat berjalan sesuai dengan karakteristik tersebut, dibutuhkan perangkat
+lunak dengan syarat minimal:
+1.
+Server
+a)
+Sistem operasi
+Sistem operasi yang umum digunakan seperti: Microsoft Windows atau linux (Ubuntu,
+Fedora, dll)
+b)
+Aplikasi bundle web server seperti: Xampp, WampServer, php, Apache2Triad yang
+terdiri dari beberapa komponen
+c)
+Aplikasi Web Lihatr Seperti Mozilla Firefox, Opera, Safari, Internet explorer,
+Google Chrome.
+2.
+Client
+a)
+Sistem operasi yang umum digunakan seperti: Microsoft Windows atau linux
+(Ubuntu, Fedora, dll)
+b)
+Aplikasi Web Lihatr Seperti Mozilla Firefox, Opera, Safari, Internet explorer,
+Google Chrome.
+4.
+KESIMPULAN
+Dengan adanya sistem informasi perssedian barang pada PT. Pangan Sejahtera, Saya dapa menambil
+kesimpulan sebagai:
+1.
+Implementasi dari Sistem Informasi Persediaan Barang ini dapat mendata aset secara akurat
+dan sesuai antara data pada pembukuan dengan kenyataan fisik barang yang ada.
+2.
+Database aset dihasilkan dari penetapan dan migrasi data sebagai hasil dari pengembangan
+database Inventory.
+3.
+Pembuatan laporan data aset yang akurat.
+4.
+Pengolahan data yang terkomputerlisasi akan memeprcepat pengolahan data serta dapat
+menghemat waktu pemprosesan transaksi
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+39
+
+Jurnal Inkofar * Volume 1 No. 2, Desember 2017 * ISSN: 2615-3645 (Print) / 2581-2920 (Online)
+Tersedia secara online di: http://www.politeknikmeta.ac.id/meta/ojs/
+
+5.
+DAFTAR PUSTAKA
+Sommerville, Ian , 2007, Software Engineering–Eight Edition, AddisonWesley, Massachussets.
+Ardhana, YM Kusuma. 2012. PHP Menyelesaikan Website 30 Juta. Jakarta: Jasakom.
+Binanto, Iwan. 2010. Multimedia Digital Dasar Teori + Pengembangannya. Yogyakarta : Andi Offset.
+Febrian, Jack. 2008. Menggunakan Internet. Bandung : Informatika.
+Firdaus. 2007. PHP & MySQL dengan Dreamweaver. Palembang: Maxikom
+Kadir, Abdul. 2009. Dasar Pemrograman Web Dinamis Menggunakan PHP (Revisi). Yogyakarta:
+ANDI.
+Oetomo, Budhi. 2007. Pengantar Teknologi Informasi Internet. Yogyakarta : Andi Offset.
+Purnama. 2006. Panduan Pengembangan Diri. Jakarta : Badan Standar Nasional Pendidikan dan Pusat
+Kurikulum.
+Rosa, A. S. dan M Shalahuddin 2013. Rekayasa Perangkat Lunak Terstruktur dan Berorientasi
+Objek. Bandung: Informatika.
+Simarmata, Janner., dan Imam Prayudi. 2010. Basis Data. Yogyakarta: CV. Andi Offset.
+Suprianto, Dodit. 2008. Buku Pintar Pemograman PHP. Jakarta : Oase Media.
+Wismakarma, Komang. 2009. Membuat Catalog Online Dengan PHP dan CSS. Yogyakarta :
+Lokomedia.
+Ladjamudin, Al Bahra. 2006, Rekayasa Perangkat Lunak, Penerbit Graha Ilmu, Yogyakarta.
+
+© 2017, Jurnal InkofarAll Rights Reserved
+
+40
+
+

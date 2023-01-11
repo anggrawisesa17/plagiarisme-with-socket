@@ -1,0 +1,555 @@
+ANALISIS SIKLON TROPIS MANGGA DAN DAMPAKNYA
+TERHADAP KONDISI CUACA DI INDONESIA
+Regina Dara Ninggar1,*) dan Diana Cahaya Siregar2
+1
+Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah II Tangerang Selatan
+2
+Stasiun Meteorologi Raja Haji Fisabilillah Tanjungpinang
+*)
+
+Korespondensi: regibuzz@gmail.com
+
+ABSTRACT
+Tropical cyclones can trigger convective activity between the atmosphere and the ocean, thus affecting convective
+clouds active growth. TC Mangga, which occurred in May 2020 in the Indian Ocean region, affects Indonesia's
+significant weather patterns so that a study on TC Mangga is needed. This study examines the development
+conditions of convective clouds based on the interpretation of gradient winds and satellite imagery from Fengyun
+and Himawari 8. Daily rainfall data and Wave watch-III was used to interpreting the impact that TC Mangga
+could have during the growing period of tropical cyclones or tropical depression phases. TC Mangga triggers the
+forming of shear, low-pressure areas, eddy. The interpretation of satellite imagery shows that there are thick
+convective clouds that form in the Indian Ocean waters with albedo values ranging from 0.55 to 0.83, and the
+observed cloud top temperatures are colder than -70 oC. The indirect effect of TC Mangga activation is the
+occurrence of rain events with moderate to heavy intensity accompanied by strong winds in several areas of
+Sumatra Island and Java Island, as well as the potential for high waves ranging from 2.5 to 6.0 meters in the
+waters of the southern Java Island and West Sumatra Island waters.
+Keywords: Tropical cyclone, satellite imagery, high waves
+
+ABSTRAK
+Kejadian siklon tropis dapat memicu konvektifitas antara atmosfer dan lautan sehingga berdampak terhadap
+giatnya pertumbuhan awan konvektif. TC Mangga yang aktif pada bulan Mei 2020 di wilayah Samudra Hindia
+memberikan dampak terhadap pola cuaca signifikan di wilayah Indonesia, sehingga kajian mengenai TC Mangga
+perlu dilakukan. Penelitian ini mengkaji kondisi pertumbuhan awan-awan konvektif berdasarkan interpretasi
+angin gradien dan citra satelit dari Fengyun dan Himawari. Data curah hujan harian dan Wavewatch-III digunakan
+untuk menginterpretasikan dampak yang dapat ditimbulkan oleh TC Mangga pada pada masa tumbuh siklon tropis
+atau fase depresi tropis. TC Mangga memicu pembentukan daerah belokan angin (shear), daerah bertekanan
+rendah (low area), serta pusaran tertutup (Eddy). Interpretasi citra satelit menunjukkan adanya awan konvektif
+cukup tebal yang terbentuk di wilayah perairan Samudra Hindia dengan nilai albedo berkisar 0,55 hingga 0,83
+dan suhu puncak awan yang teramati lebih dingin dari -70 oC. Dampak tidak langsung dari aktivasi TC Mangga
+yaitu adanya kejadian hujan dengan intensitas sedang hingga lebat disertai angin kencang di beberapa wilayah
+Pulau Sumatera dan Pulau Jawa, serta adanya potensi gelombang tinggi berkisar 2,5 – 6,0 meter di wilayah
+perairan Pulau Jawa sebelah selatan dan perairan Pulau Sumatera sebelah barat.
+Kata kunci: Siklon tropis, citra satelit, gelombang tinggi
+
+PENDAHULUAN
+Siklon tropis dapat terjadi akibat
+adanya kondisi massa udara yang hangat dan
+lembab di suatu wilayah perairan, sehingga
+dapat menyebabkan kondisi atmosfer menjadi
+labil. Kondisi tersebut dapat memicu
+konvektifitas antara atmosfer dan lautan
+sehingga
+berdampak
+terhadap
+giatnya
+pertumbuhan awan-awan konvektif. Perubahan
+yang
+terjadi
+pada
+atmosfer
+dapat
+Jurnal Widya Climago, Vol.2 No.2, November 2020
+Email : jurnalwidyaclimago@gmail.com
+
+mempengaruhi kondisi lautan, sebaliknya
+kondisi lautan juga dapat mempengaruhi
+dinamika atmosfer. Siklon tropis membutuhkan
+kontribusi perbekalan energi khususnya
+konvergensi arus udara yang cukup lembab
+pada troposfer menengah hingga lapisan yang
+lebih tinggi. Pemanasan global di wilayah
+perairan dekat dengan Benua Maritim
+Indonesia (BMI) dapat mengindikasikan
+peningkatan kejadian suatu siklon tropis
+(Suryantoro, 2009). Pada dasarnya, wilayah
+   69  
+
+Indonesia yang terletak di daerah ekuator bukan
+daerah lintasan siklon. Aktivasi suatu siklon
+tropis di Samudra Hindia yang terjadi di sekitar
+wilayah Indonesia dapat memberikan dampak
+cuaca signifkan ketika pergerakannya menjauhi
+maupun mendekati wilayah Indonesia.
+Siklon tropis dapat menyebabkan
+bencana hidrometeorologi, seperti hujan lebat
+disertai angin kencang yang dapat memicu
+kejadian banjir dan tanah longsor. Riyanto, dkk.
+(2020) menyatakan dalam penelitiannya bahwa
+siklon tropis Savannah secara tidak langsung
+telah merubah morfologi mikro kelerengan dari
+karst window Kalingko akibat adanya
+longsoran tanah yang terjadi akibat gerusan
+banjir. Hidayat dan Efendi (2017) menganalisis
+dampak
+siklon
+tropis
+Yvette
+yang
+menyebabkan kejadian angin kencang di
+wilayah Semarang namun tidak memberikan
+dampak hujan lebat akibat adanya pertumbuhan
+awan konvektif yang cukup banyak pada saat
+aktivasi siklon. Selain itu, siklon tropis dapat
+meningkatkan konsentrasi klorofil-a pada
+daerah perairan yang dilintasinya seperti hasil
+penelitian yang dilakukan oleh Gaol, dkk.
+(2018) menunjukkan nilai konsentrasi klorofila di Laut Timor mengalami peningkatan
+berkisar 0.4 – 5 mg/m3 setelah siklon tropis
+Frances melintasi wilayah tersebut.
+Pada bulan Mei 2020, siklon tropis
+Mangga atau TC Mangga yang aktif di wilayah
+Samudra Hindia memberikan dampak secara
+tidak langsung terhadap pola cuaca signifikan
+di wilayah Indonesia. Beberapa situs daring
+menunjukkan kerusakan yang terjadi akibat
+aktivasi siklon tropis Mangga, seperti: kondisi
+angin kencang telah menumbangkan beberapa
+pohon di wilayah Australia bagian barat
+(SCMP, 2020), potensi terjadinya gelombang
+tinggi
+di
+sekitar
+perairan
+Australia
+(Yahoonews, 2020), dan kejadian hujan lebat di
+beberapa wilayah Indonesia (Kompas, 2020).
+Dampak terpenting yang perlu diperhatikan
+dari aktivasi suatu siklon yaitu adanya
+kemungkinan timbulnya korban jiwa, sehingga
+perlunya pemahaman
+yang mendalam
+mengenai fenomena siklon tropis untuk
+meminimalisir
+kerugian
+yang
+dapat
+Jurnal Widya Climago, Vol.2 No.2, November 2020
+Email : jurnalwidyaclimago@gmail.com
+
+ditimbulkan. Hasil yang ingin dicapai dalam
+penelitian ini adalah diketahuinya dampak dari
+aktivasi TC Mangga terhadap wilayah-wilayah
+Indonesia yang berada dekat dengan pusat
+siklon.
+
+DATA DAN METODE
+Data yang digunakan dalam penelitian
+ini adalah data curah hujan harian pada tanggal
+20-23 Mei 2020 di wilayah Bengkulu,
+Sumatera Selatan, Lampung, Jambi, Banten,
+DKI Jakarta, dan Jawa Barat yang diperoleh
+dari AWS Center BMKG. Analisis data
+Wavewatch-III yang diperoleh dari http://petamaritim.bmkg.go.id/render/ digunakan untuk
+menginterpretasikan kondisi tinggi gelombang
+di sekitar wilayah perairan Pulau Sumatera dan
+Pulau Jawa pada tanggal 20 – 23 Mei 2020.
+Data streamline yang digunakan pada
+penelitian ini diperoleh dari Bureau of
+Meteorology
+(BOM)
+diakses
+melalui
+http://www.bom.gov.au/australia/charts/index.
+shtml. Data satelit Himawari-8 (H-08) kanal IR
+dan Fengyun-4A (FY-4A) kanal True Color
+digunakan untuk melihat kondisi awan-awan
+konvektif yang terbentuk pada saat aktifitas TC
+Mangga pada tanggal 21 dan 22 Mei 2020. Data
+H-08 diperoleh dari BMKG, sedangkan data
+FY-4A
+diperoleh
+dari
+http://rsapp.nsmc.org.cn/geofy/. Data H-08 dan
+wavewatch-III diolah menggunakan software
+GrADS (The Grid Analysis and Display
+System).
+Penelitian ini akan mengkaji analisis
+streamline untuk melihat pola angin dan
+konsentrasi pergerakan massa udara di wilayah
+mana saat TC Mangga melintasi wilayah
+Samudra Hindia. Selanjutnya, akan dianalisis
+kondisi awan-awan konvektif yang terbentuk di
+sekitar pusat siklon menggunakan analisis citra
+satelit. Awan konvektif seperti awan
+Cumulonimbus dapat memicu terjadinya cuaca
+ekstrem seperti hujan lebat yang dapat disertai
+angin kencang. Untuk mengetahui kondisi tidak
+langsung dari TC Mangga terhadap wilayah
+Indonesia, akan dilakukan analisis terhadap
+curah hujan yang tercatat di beberapa wilayah
+   70  
+
+Indonesia dimana akan dipetakan secara spasial
+menggunakan software ArcGIS (Geographic
+Information System). Selain itu, pada penelitian
+ini akan dilakukan analisis tinggi gelombang di
+beberapa wilayah perairan pesisir barat dari
+Pulau Sumatera dan pesisir selatan dari Pulau
+Jawa.
+
+HASIL DAN PEMBAHASAN
+Klimatologis gangguan tropis di
+Indonesia menghasilkan perbedaan pada
+variabilitas curah hujan yang dibawa oleh
+monsun Asia dan Australia. Sistem cuaca yang
+dihasilkan
+oleh
+suatu
+siklon
+dapat
+meningkatkan kecepatan angin yang melintasi
+wilayah Indonesia. Siklon tropis merupakan
+badai sirkuler yang dapat menimbulkan angin
+perusak hingga daerah sejauh 250 mil dari pusat
+siklon (Habibie, dkk., 2018). Kecepatan angin
+yang tinggi menghasilkan curah hujan di atas
+rata-rata hingga kejadian hujan ekstrem. Curah
+hujan yang terjadi di beberapa wilayah
+Indonesia sebagai dampak tidak langsung
+akibat siklon yang aktif di wilayah Samudra
+Hindia.
+
+Gambar 1. Lintasan TC Mangga (TCWC Jakarta,
+2020)
+
+Badan Meterologi Klimatologi dan Geofisika
+(BMKG) melalui Tropical Cyclone Warning
+Centre (TCWC) Jakarta merilis lintasan
+pergerakan TC Mangga yang aktif pada tanggal
+21 dan 22 Mei 2020 dengan masa hidup siklon
+selama lebih kurang 30 jam (Gambar 1). TC
+Mangga menjadi tanggung jawab TCWC
+Jurnal Widya Climago, Vol.2 No.2, November 2020
+Email : jurnalwidyaclimago@gmail.com
+
+Jakarta untuk memantau perkembangannya
+selama kurang lebih 12 jam, selanjutnya
+menjadi tanggung jawab TCWC Perth,
+Australia dikarenakan pergerakan siklon mulai
+menjauhi wilayah Indonesia pada tanggal 22
+Mei 2020.
+Berdasarkan peta streamline (Gambar
+2), daerah bertekanan rendah (997 hPa) terlihat
+di Samudra Hindia di sebelah barat dari Pulau
+Sumatera pada tanggal 21 Mei 2020 pukul
+00.00 UTC. Kondisi lautan yang semakin
+lembab memicu tekanan rendah yang terbentuk
+semakin labil dan berkembang menjadi TC
+Mangga sekitar pukul 12.00 UTC dengan
+tekanan berkisar 998 hPa dan angin maksimum
+yang tercatat berkisar 35 knots. TC Mangga
+menarik massa udara di sekitar Samudra Hindia
+menuju siklon. Tarikan massa udara terjadi
+secara konvergen. Pola angin gradien
+menunjukkan bahwa TC Mangga memicu
+pembentukan daerah belokan angin (shear) di
+sekitar Pulau Sumatera bagian barat dan Pulau
+Jawa bagian barat dan selatan. Adanya tekanan
+rendah di sebelah selatan Jawa Timur dan
+pusaran tertutup (Eddy) di sebelah barat Papua
+Barat juga menarik massa udara menuju pusat
+siklon. Hal ini memberikan pengaruh signifikan
+terhadap pertumbuhan awan-awan konvektif di
+sekitar wilayah pertumbuhan siklon. TC
+Mangga mulai memasuki kondisi punah pada
+tanggal 23 Mei 2020 dimana daerah bertekanan
+rendah mulai melemah dan mulai bergerak ke
+arah tenggara – selatan menjauhi wilayah
+Indonesia. Akibatnya pertumbuhan awan-awan
+konvektif mulai berkurang di sekitar wilayah
+Pulau Sumatera dan Pulau Jawa.
+Penelitian ini mengkaji kondisi
+pertumbuhan awan-awan konvektif pada saat
+aktivasi TC Mangga menggunakan interpretasi
+citra satelit FY-4A dan H-08 seperti yang
+ditunjukkan pada Gambar 3 dan 4. Terdapat
+kumpulan awan konvektif yang cukup tebal di
+wilayah perairan Samudra Hindia (sekitar 93
+o
+BT; 10 oLS). Semakin tinggi nilai albedo awan
+yang teramati, maka semakin tebal awan yang
+terbentuk pada wilayah tersebut (Siregar dkk.,
+2019).
+   71  
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Gambar 2. Peta streamline tanggal (a) 21 Mei 2020 pukul 00.00 UTC; (b) 21 Mei 2020 pukul 12.00 UTC; (c)
+22 Mei 2020 pukul 12.00 UTC; (d) 23 Mei 2020 pukul 00.00 UTC (BoM, 2020)
+
+Gambar 3. Citra satelit FY-4A true color tanggal 21 Mei 2020 pukul 19.00 UTC, 20.00 UTC, 21.00 UTC,
+23.00 UTC (NSMC, 2020)
+Jurnal Widya Climago, Vol.2 No.2, November 2020
+Email : jurnalwidyaclimago@gmail.com
+
+   72  
+
+Tutupan awal tebal yang cukup luas yang
+teramati pada Gambar 3 memiliki nilai albedo
+berkisar 0,55 hingga 0,83. Hal tersebut
+mengindikasikan adanya pertumbuhan awan
+Cumulonimbus.
+Pada
+dasarnya,
+awan
+Cumulonimbus yang terbentuk berpeluang
+memicu terjadinya cuaca buruk seperti hujan
+dan angin kencang. Suhu puncak awan tipe
+cumuliform yang terbentuk ketika aktivasi TC
+Mangga dapat dianalisis menggunakan citra
+satelit H-08 kanal IR seperti yang ditunjukkan
+pada Gambar 4. Warna yang semakin gelap
+
+menunjukkan suhu puncak awan yang semakin
+dingin. Awan-awan konvektif yang teramati
+memiliki suhu puncak awan yang lebih dingin
+dari -70 oC. Ketika TC Mangga pada fase
+matang, nilai albedo maksimum yang teramati
+pada awan cumuliform berkisar 0,83 dengan
+suhu puncak awan mencapai -100 oC.
+Pertumbuhan awan tipe cumuliform semakin
+giat secara vertikal menunjukkan permukaan
+awan yang teramati akan semakin kasar dengan
+suhu puncak awan yang semakin dingin.
+
+Gambar 4. Citra satelit H-08 IR tanggal 21 Mei 2020 pukul 19.10 UTC, 20.20 UTC, 21.40 UTC, 22.00 UTC
+(Pengolahan data, 2020)
+
+Konvektifitas yang cukup kuat antara
+lautan
+dan
+atmosfer
+menyebabkan
+pertumbuhan awan-awan konvektif cukup
+banyak.
+Pertumbuhan awan
+konvektif
+menyebabkan peluang terjadinya hujan cukup
+besar. Pertumbuhan awan konvektif yang
+terjadi akibat adanya daerah belokan angin
+yang terbentuk akibat aktivasi TC Mangga
+berdampak terhadap hujan yang terjadi di
+beberapa wilayah Indonesia. Pengaruh dampak
+tidak langsung dari TC Mangga dapat dilihat
+pada Gambar 5. Pemetaan spasial dari data
+Jurnal Widya Climago, Vol.2 No.2, November 2020
+Email : jurnalwidyaclimago@gmail.com
+
+curah hujan harian di beberapa wilayah
+Indonesia, seperti: Bengkulu, Jambi, Sumatera
+Selatan, Lampung, Banten, DKI Jakarta, dan
+Jawa Barat menunjukkan telah terjadi hujan
+dengan intensitas ringan hingga sedang pada
+saat TC Mangga aktif. Hujan dengan intensitas
+sedang hingga lebat terjadi saat masa tumbuh
+siklon tropis atau pada fase depresi tropis. Hal
+tersebut dapat dilihat pada peta curah hujan
+harian spasial yang tercatat pada tanggal 22 Mei
+2020. Ketika TC Mangga mulai memasuki
+masa punah, pertumbuhan awan konvektif tidak
+   73  
+
+segiat di hari-hari sebelumnya sehingga tidak
+ada peningkatan curah hujan signifikan dimana
+hujan sangat ringan dominan yang tercatat di
+beberapa wilayah Indonesia pada tanggal 23
+Mei 2020.
+Dampak tidak langsung dari TC
+Mangga yang dapat diamati yaitu kondisi tinggi
+gelombang yang terjadi di sekitar wilayah
+Samudra Hindia. Berdasarkan Gambar 6,
+potensi gelombang tinggi berkisar berkisar 2,5
+– 4,0 meter terjadi di wilayah perairan: Selat
+Sunda, Banten, Pangandaran, Jawa Barat,
+Cilacap, dan Yogyakarta. Potensi gelombang
+tinggi berkisar 4,5 – 6,0 meter terjadi di wilayah
+perairan: Mentawai, Bengkulu, Lampung, dan
+Banten bagian selatan. Gelombang tinggi yang
+
+tercatat pada tanggal 20 Mei 2020 terjadi
+sebagai dampak dari pertumbuhan tekanan
+rendah yang sangat labil dan mulai berkembang
+menjadi TC Mangga pada tanggal 21 - 22 Mei
+2020. Kondisi TC Mangga yang mulai punah
+pada tanggal 23 Mei 2020 masih berdampak
+terhadap kondisi tinggi gelombang di sekitar
+perairan Pulau Sumatera dan Pulau Jawa.
+Gelombang tinggi yang terjadi dapat
+memberikan dampak terhadap aktivitas
+transportasi laut. Selain gelombang tinggi, TC
+Mangga juga memicu potensi angin kencang di
+sekitar wilayah pesisir Pulau Sumatera bagian
+barat dan pesisir Pulau Jawa bagian selatan
+(Gambar 2.).
+
+Gambar 5. Peta analisis curah hujan harian tanggal 20–23 Mei 2020 (Pengolahan data, 2020)
+
+Jurnal Widya Climago, Vol.2 No.2, November 2020
+Email : jurnalwidyaclimago@gmail.com
+
+   74  
+
+Gambar 6. Peta sebaran tinggi gelombang tanggal 20- 23 Mei 2020 (Pengolahan data, 2020)
+
+Hal tersebut terjadi sebagai dampak adanya
+perbedaan tekanan yang cukup signifikan di
+kawasan sekitar TC Mangga sehingga membuat
+wilayah tersebut memiliki kecepatan angin
+yang cukup kencang.
+
+KESIMPULAN
+TC Mangga yang tumbuh di Samudra
+Hindia (sekitar 93 oBT; 10 oLS) memiliki masa
+hidup selama 30 jam (21 – 22 Mei 2020). Pola
+angin gradien menunjukkan bahwa TC Mangga
+memicu pembentukan daerah belokan angin
+(shear) di sekitar Pulau Sumatera bagian barat
+dan Pulau Jawa bagian barat dan selatan, daerah
+bertekanan rendah (Low Area) di sebelah
+selatan Jawa Timur dan pusaran tertutup (Eddy)
+di sebelah barat Papua Barat juga menarik
+massa udara menuju pusat siklon yang
+memberikan pengaruh signifikan terhadap
+pertumbuhan
+awan-awan
+konvektif.
+Berdasarkan interpretasi citra satelit FY-4A dan
+H-08, dapat diketahui kumpulan awan
+konvektif cukup tebal terbentuk di wilayah
+Jurnal Widya Climago, Vol.2 No.2, November 2020
+Email : jurnalwidyaclimago@gmail.com
+
+perairan Samudra Hindia memiliki nilai albedo
+berkisar 0,55 hingga 0,83 dengan suhu puncak
+awan lebih dingin dari -70 oC.
+Pengaruh dampak tidak langsung dari
+TC Mangga yaitu adanya kejadian hujan sedang
+hingga lebat disertai dengan angin kencang
+yang terjadi pada masa tumbuh siklon tropis
+atau fase depresi tropis di beberapa wilayah
+Indonesia, seperti: Bengkulu, Jambi, Sumatera
+Selatan, Lampung, Banten, DKI Jakarta, dan
+Jawa Barat. Selain itu, potensi gelombang
+tinggi berkisar 2,5 – 4,0 meter dapat terjadi di
+wilayah perairan: Selat Sunda, Banten,
+Pangandaran, Jawa Barat, Cilacap, dan
+Yogyakarta sedangkan potensi gelombang
+tinggi 4,5 – 6,0 meter dapat terjadi di wilayah
+perairan: Mentawai, Bengkulu, Lampung, dan
+Banten bagian selatan.
+
+DAFTAR PUSTAKA
+Aminatun, S. & Anggraheni, D. (2018).
+Pengaruh Badai tropis Cempaka
+Terhadap Kejadian Tanah Longsor di
+   75  
+
+Kabupaten Bantul Yogyakarta. Jurnal
+Teknologi Rekayasa. Volume 3 No. 1.
+Fibriantika, E. & Alhaqq, R. I. (2018). Analisis
+Profil Vertikal Pada Siklon Tropis
+Cempaka
+dan
+Dahlia.
+Jurnal
+Meteorologi dan Geofisika. Volume 19
+No. 2.
+Gaol, A. L., Siadari, E. L., Ryan, M., &
+Kristianto, A. (2018). Dampak Siklon
+Tropis Frances Terhadap Upwelling Laut
+Timor
+dan
+Sekitarnya.
+Jurnal
+Meteorologi Klimatologi dan Geofisika.
+Volume 5 No. 3.
+Habibie, M. N., Noviati, S., & Harsa, H. (2018).
+Pengaruh Siklon Tropis Cempaka
+Terhadap Curah Hujan Harian di
+Wilayah Jawa dan Madura. Jurnal
+Meteorologi dan Geofisika. Volume 19
+No. 1.
+Hidayat, A. M. & Efendi, U. (2017). Analisis
+Kejadian Angin Kencang Pra dan Pasca
+Kejadian
+Siklon
+Yvette
+Serta
+Pengaruhnya Terhadap Curah Hujan di
+Semarang. Prosiding Seminar Nasional
+Fisika dan Aplikasinya. 22 Juli 2017.
+Bake Sawala Kampus Universitas
+Padjajaran.
+Kompas. (2020). BMKG Deteksi Siklon Tropis
+Mangga, Waspada Dampak Cuaca
+Ekstrem. Diakses pada tanggal 16
+Agustus
+2020.
+https://www.kompas.com/sains/read/20
+20/05/22/120100223/bmkg-deteksisiklon-tropis-mangga-waspada-dampakcuaca-ekstrem
+Riyanto, I. A., Cahyadai, A., Ramadhan, F.,
+Naufal, M., Widyastuti, M., & Adji, T.
+N. (2020). Dampak Siklon Tropis
+
+Jurnal Widya Climago, Vol.2 No.2, November 2020
+Email : jurnalwidyaclimago@gmail.com
+
+Savannah
+pada
+Karst
+window
+Kalinongko,
+Karst
+Gunungsewu,
+Kabupaten Gunungkidul, Indonesia.
+Jurnal Geografi. Volume 17 No. 2.
+SCMP. (2020). Wild Storm Lashes Perth, as exTropical Cyclone Mangga uproots and
+Causes Power Outages in Western
+Australia. Diakses pada tanggal 16
+Agustus
+2020.
+https://www.scmp.com/news/asia/austra
+lasia/article/3085899/50000-people-leftwithout-power-after-worst-storm-decade
+Siregar, D. C., Kharisma, S., Haq, B. E. A., &
+Ninggar, R. D. (2019). Identifikasi
+Kejadian Kecelakaan Kapal Berbasis
+Analisis Faktor Cuaca dan Citra Satelit
+(Studi Kasus Tanggal 18 Juni 2018 di
+Danau Toba). Jurnal Fisika Indonesia.
+Volume 23 No. 2.
+Suryantoro, A. (2009). Pemanasan Global dan
+Hubungannya dengan Siklon Tropis
+Observasi Radar Presipitasi Satelit
+TRMM. Prosiding Semibar Nasional
+Penelitian, Pendidikan, dan penerapan
+MIPA. 16 Mei 2009. Universitas Negeri
+Yogyakarta.
+Syaifullah, M. D. (2015). Siklon Tropis,
+Karakteristik dan Pengaruhnya di
+Wilayah Indonesia Pada Tahun 2012.
+Jurnal Sains dan Teknologi Modifikasi
+Cuaca. Volume 16 No. 2.
+Yahoonews. (2020). 60,000 without Power as
+Mangga Arrives in Western Australia.
+Diakses pada tanggal 16 Agustus 2020.
+https://news.yahoo.com/westernaustralia-alert-approaching-tropical172643483.html  
+  
+
+   76  
+
+

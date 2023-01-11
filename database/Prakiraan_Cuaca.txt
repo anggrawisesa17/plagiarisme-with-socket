@@ -1,0 +1,762 @@
+ANALISIS DAN PENGEMBANGAN SISTEM
+METODE PRAKIRAAN CUACA
+DI BIDANG INFORMASI METEOROLOGI
+Achmad Zakir
+achmadzakir@yahoo.com
+
+ABSTRAK
+Cuaca selalu berubah, karena itu disadari bahwa memperkirakan cuaca tidak mudah
+karena di samping harus memahami sifat atmosfer atau dinamika atmosfer, diperlukan
+juga pengalaman dan keberanian dalam membuat keputusan suatu prakiraan. Namun
+demikian pendekatan-pendekatan dalam membuat prakiraan cuaca sudah banyak
+dikembangkan oleh negara maju meskipun pendekatan-pendekatan tersebut tidak
+sepenuhnya sesuai dengan keadan cuaca pada lintang tropis seperti Indonesia.
+Umumnya metode yang digunakan untuk memprakirakan cuaca bersifat subjektif yaitu
+dengan mengintepretasikan data pengamatan dan data model prakiraan. Metode
+prkiraan cuaca yang subjektif ini mempunyai kelemahan sehingga perlu disempurnakan
+agar menjadi metode yang semi objektif, tujuannya adalah meningkatkan keakurasian
+prakiraan cuaca. Metode ini mempertimbangkan faktor subjektif dan objektif yang
+memanfaatkan paremeter data pengamatan tekanan udara, data suhu udara, data satelit
+dan juga data satelit cuaca. Parameter cuaca tersebut nantinya dintegrasikan dan
+menjadi metode prakiraan cuaca semi objektif, hasil dari metode prakiraan cuaca semi
+objektif ini menunjukan adanya peningkatan keakurasian prakiraan cuaca dari 70 %
+menjadi 83 -86 %,
+
+Kata kunci: metode prakiraan cuaca semi objektif
+
+PENDAHULUAN
+Seiring dengan meningkatnya fenomena cuaca ekstrim dan kejadian bencana alam
+yang diakibatkan oleh faktor cuaca cenderung terus meningkat, seperti persitiwa banjir
+di Bengawan Solo serta tanah longsor di Karanganyar Jawa Tengah. Disisi lain
+
+2
+
+masyarakat saat ini memerlukan informasi cuaca yang tepat dan cepat diterima oleh
+masyarakat, untuk itu BMG diminta dan diharapkan dapat lebih intensif lagi untuk
+memantau, menyediakan dan memberikan informasi prakiraan cuaca yang sesuai
+dengan kebutuhan masyarakat terutama informasi cuaca ekstrim yang diperkirakan akan
+menimbulkan banjir dan longsor.
+Cuaca selalu berubah, karena itu disadari bahwa memperkirakan cuaca tidak mudah
+karena di samping harus memahami sifat atmosfer atau dinamika atmosfer, diperlukan
+juga pengalaman dan keberanian dalam membuat keputusan suatu prakiraan. Namun
+demikian pendekatan-pendekatan dalam membuat prakiraan cuaca sudah banyak
+dikembangkan oleh negara maju meskipun pendekatan-pendekatan tersebut tidak
+sepenuhnya sesuai dengan keadan cuaca pada lintang tropis seperti Indonesia. Secara
+umum dalam membuat prakiraan cuaca harus menggunakan;
+-
+
+data hasil pengamatan dan
+
+-
+
+prosedur serta metode prakiraan cuaca yang digunakan.
+
+Berdasarkan pengamatan dan pengalaman penulis selama menjadi prakirawan cuaca,
+data pengamatan yang tersedia belum sepenuhnya dimanfaatkan karena data yang biasa
+digunakan seperti tekanan udara dan angin dianalisa dengan mempetakan kemudian
+dibuat garis konturnya untuk memperoleh pola-pola keadaan cuaca saat itu yang
+selanjutnya dari pola-pola tersebut dapat memberi petunjuk tentang sifat ciri cuaca yang
+ada. Data kuantitatif dari data pengamatan juga tidak digunakan sebagai inputan objektif
+dalam membuat prakiraan cuaca.
+
+Sedangkan metode yang saat ini dipakai adalah
+
+metode dengan mengintepretasikan data hasil pengamatan dan data model prakiraan
+cuaca atau NWP (Numerical Weather Prediction).
+Metode ini mempunyai kelemahan, karena setiap prakirawan akan menghasilkan
+
+3
+
+intepretasi yang berbeda-beda, dengan demikian metode ini bersifat subjketif
+Meskipun sistem prakiraan cuaca bersifat subjektif, dari hasil laporan kegiatan
+projek tahun 2006, ketepatan prakiraan cuaca untuk tingkat nasional mencapai 70%.
+
+TINJAUAN PUSTAKA
+Cuaca didefinisikan sebagai keadaan sesaat atmosfer yang tidak mengenal batas
+wilayah administrasi pemerintahan dan negara, dengan demikian itu informasi cuaca
+dituntut untuk bersifat umum dan menyeluruh bebas dari rahasia.
+Di Indonesia informasi prakiraan cuaca yang sudah dikenal oleh masyarakat adalah,
+berawan, cerah dan hujan. Sementara itu untuk terjadinya hujan dikaitkan dengan proses
+fisis dan dinamika atmosfer diketahui melalui parameter-parameternya seperti adanya
+massa udara, gaya vertikal dan energi.
+Hasil penelitian Suryadi (1993) menunjukan bahwa keadaan cuaca di Indonesia
+dipengaruhi oleh jenis masa udara yang terdapat disekitar wilayah Indonesia dan karena
+itu perlu mengetahui pola tekanan udara yang ada di Asia dan Australia. Disamping itu
+untuk memantau penjalaran masa udara (Adveksi) digunakan parameter suhu udara baik
+pada lapisan 23.000 feet (850 mb) dan 32.000 feet (200 mb), dari data ini dapat
+diketahui daerah antisklonal atau siklonal. Keadaan cuaca di Indonesia juga dipengaruhi
+oleh ;
+-
+
+Fenomena Badai Tropis atau vorteks. Keberadaan siklon tropis akan
+menggangu sistem cuaca dari keadaan semulanya
+
+-
+
+Palung, dapat diketahui melalui citra satelit yang ditandai dengan
+sederetan awan yang memanjang. Dikatakan kuat bila bila deretan
+awan tersebut terlihat pada dan tidak terputus sebaliknya dikatakan
+
+4
+
+lemah bila deretan awan tampak tidak begitu jelas
+-
+
+Konvergensi, adalah daerah pertemuan angin dimana kecepatan
+anginnya semakin kecil. Konvergensi dengan wilayah yang luas
+disebut Interconvergence Zone (ITCZ) yang biasanya diakibatkan
+oleh keberadaan badai tropis yang tumbuh disekitarnya.
+
+-
+
+Shearline, adalah daerah belokan angin dimana kecepatan anginnya
+lebih rendah dibandingkan dengan daeran sekitarnya. (lampiran 8)
+
+Untuk memprkirakan cuaca tidak cukup memperhatikan parameter cuaca dalam
+skala regional, melainkan diperlukan juga parameter dalam skala lokal. Pada skala lokal
+ini dipakai untuk mengetahui faktor konvektivitas suatu daerah, dimana dimanfaatkan
+untuk mengetahui daerah pertumbuhan awan vertikal. Wilson and Scoggins (1976)
+mengatakan seorang ahli cuaca harus memperhatikan indeks labilitas udara untuk
+memahami pola cuaca konvektif, dengan menggunakan SWEAT INDEX (SEVERE
+WEATHER THREAT); yang rumusan seperti berikut;
+SWEAT = 12Td
+
+850
+
++ 20(TT - 49) + 2f
+
+850
+
++f
+
+500
+
++ 125(s + 0.2);
+
+Dimana,
+-
+
+Td adalah suhu udara basah (dew point)
+
+-
+
+TT adalah adalah total indeks kestabilan udara
+
+-
+
+f adalah kecepatan angin dalam knot
+
+-
+
+angka 850 dan 500 mb adalah lapisan 850 mb dan 500 mb
+
+-
+
+s adalah Sin (arah kecepatan angina dlm derajat)
+
+klasifikasi SWEAT menurut Wilson jika;
+≥ 250, indikasi ada konvektif
+< 250, tidak ada konvektif
+
+Djuric (1994 ), konvektivitas udara dapat dipantau dengan cara menghitung energi
+yang dimiliki oleh partikel uap air, disebut Convective Available Potential Energy
+
+5
+
+(CAPE), klasifikasi yang digunakannya adalah sebagai berikut;
+
+CAPE <1000, konvektif lemah
+CAPE 1000 – 2500, konvektif sedang
+CAPE >2500, konvektif kuat
+
+Prinsip Dasar Memprakirakan Cuaca.
+Secara umum prinsip dasar prakiraan cuaca yang sudah lama dilakukan oleh prakirawan
+BMG adalah seperti pada gambar berikut;
+
+Gambar 1. prinsip dasar prakiraan
+
+METODELOGI PENELITIAN
+Metodelogi yang digunakan pada tulisan ini adalah ;
+1. Studi Pustaka yaitu mempelajari sistim analisa dan prakiraan cuaca yang
+sedang berjalan baik di kantor BMG maupun kantor meteorologi di luar
+negeri.
+
+6
+
+2. Tehnik Observasi, tehnik pengamatan
+
+langsung, dimana penulis juga
+
+merangkap sebagai pelaku pembuat prakiraan cuaca.
+3. Analisa Sistem Yang Sedang Berjalan, dilakukan untuk mengetahui
+kelemahan sistem prakiraan cuaca yang sedang berjalan, lingkup analisis
+sistem yang dimaksud meliputi metode prakiraan cuaca yang sedang berjalan
+4. Memperivikasi metode prakiraan cuaca dengan data hasil pengamatan
+5. Model Diagram Alir Proses, teknik gambar yang digunakan adalah diagram
+alir proses yang menjelaskan sistim prakiraan cuaca yang sedang berjalan
+dan rancangan metode prakiraan cuaca semi objektif dengan memasukan
+beberapa parameter data seperti; Tekanan udara permukaan dan suhu udara
+lapisan 850 mb dan 200 mb, data citra satelit, model prakiraan yang terdiri
+dari angin, vortisitas, cape, sweat, kelembapan udara pada lapisan 700 mb
+
+HASIL DAN PEMBAHASAN
+1. Rancangan Sistem
+Pengembangan sistem baru adalah memperbaiki atau meyempurnakan sistem
+prakiraan cuaca yang sudah berjalan dengan menambahkan beberapa komponen sistem.
+Pada sistem prakiraan cuaca ini nantinya metode prakiraan cuacanya bersifat semi
+objektif, pengertian semi objektif adalah kuantitatif dari beberapa parameter cuaca ikut
+dihitung dalam membuat prakiraan cuaca.
+Mengingat bahwa cuaca setiap saat selalu berubah dan cuaca disuatu tempat juga
+akan berbeda-beda, maka pada rancangan sistem prakiraan cuaca terdiri dari beberapa
+komponen sistem seperti pada komponen model prakiraan ditambah faktor lokal, citra
+satelit dan radar, serta parameter suhu.
+
+7
+
+Berikut rancangan sistem membuat prakiraan cuaca;
+
+Gambar 2. Sistem baru Prakiraan cuaca
+
+8
+
+2. Rancangan Prosedur Prakiraan Cuaca
+Prosedur prakiraan cuaca ini dirancang setelah membandingkan
+
+dengan kantor
+
+meteorologi di negara maju seperti Sydney Asutralia, Canada dan pertimbangan dari
+badan meteorologi dunia (World Meteorological Organization).
+
+Gambar 3 Prosedur baru prakiraan cuaca
+
+9
+
+3. Rancangan Metode Prakiraan Cuaca
+Prakiraan cuaca yang dimaksud pada tulisan ini adalah prakiraan cuaca jangka
+pendek yang berlaku hanya sampai 24 jam kedepan. Setelah merancang sistem dan
+prosedur prakiraan cuaca kemudian membuat metode semi objektif dengan memasukan
+angka dari beberapa parameter-parameter cuaca, proses pembuatan prakiraan cuaca
+dengan metode ini juga menggunakan data pengamatan, penginderaan jarak jauh dan
+model prakiraan, untuk memudahkan dalam perancangan, pembuatan meode dibagi
+empat tahap;
+-
+
+Tahap pertama menggunakan data tekanan udara permukaan dan
+data udara atas pada lapisan 850 dan 200 mb
+
+-
+
+Tahap kedua menggunakan data citra satelit
+
+-
+
+Tahap ketiga menggunakan data model yang terdidri angin,
+vortisitas, sweat, cape dan kelemban udara
+
+-
+
+tahap keempat merupakan gabungan dari tahap pertama, tahap kedua
+dan tahap ketiga
+
+4. Metode Integrasi Prakiraan Cuaca
+Metode ini merupakan gabungan dari tahap pertama,tahap kedua dan tahap ketiga,
+hasil gabungan dari ketiga metode tersebut. Dengan mempertimbangkan faktor-faktor
+yang mempengaruhi pertumbuhan awan dan hujan, maka pada tahap keempat ini
+menghasilkan kriteria peluang hujan disertai petir, hujan tanpa petir (hujan), berawan
+dan cerah, adapun metode diagramnya seperti berikut:
+
+10
+
+Gambar 4 Prakiraan cuaca dengan integrasi metode
+
+11
+
+Dari gambar 4 terdapat 21 parameter cuaca yang akan digunakan untuk membuat
+kriteria cuaca yang akan terjadi, dari 11 parameter dikembangkan menjadi 28 kriteria
+cuaca yang akan dipakai untuk memprakirakan cuaca. Dari gambar tersebut juga
+menunjukan ada faktor subjektif dan faktor objektif. Faktor subjektif terdiri dari
+parameter siklon tropis, palung, konvergensi dan vortisitas, sedangkan faktro objektf
+terdiri dari tekanan udara, suhu udara, sweat, cape dan kelembapan.
+Dari metode prakiraan cuaca ini terlihat setiap parameter mempunyai lebih dari satu
+pilihan kriteria, maka dalam membuat prakiraan cuaca yang digunakan hanya satu
+pilihan yang sesuai dengan keadaan cuaca yang dianalisa. Jumlah keseluruhan kriteria
+yang akan digunakan sebagai dasar pertimbangan prakiraan cuaca berjumlah 12 krietria.
+Untuk mendapatkan kriteria mana yang sesuai dengan keadaan cuaca yang terjadi,
+seperti hujan, berawan, cerah dan hujan disertai petir maka penulis mengguji dengan
+data keadaan cuaca yang sebenarnya terjadi. Setelah mendapat kriteria yang sesuai
+dengan keadaan sebenarnya, kemudian dibuat tabel kriteria yang akan digunakan untuk
+prakiraan cuaca.
+
+50
+
+Tabel . Kriteria prakiraan cuaca
+Prakiraan dengan tekanan udara, suhu udara dan citra satelit
+No
+
+P1A P1B P2A P2B
+
+S
+
+A
+
+T1
+
+T2
+
+T3
+
+T4
+
+TC 1 TC 2 TC 3 PL1 PL2 PL3
+
+1
+
+Hujan dis ertai petir
+
+x
+
+x
+
+x
+
+x
+
+x
+
+2
+
+Hujan
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+3
+
+4
+
+Model prakiraan
+
+Kriteria Cuaca
+
+Cerah
+
+Berawan
+
+x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+x
+x
+x
+
+x
+x
+
+x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+x
+
+x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+x
+
+x
+
+VT1 VT2 S W 1 S W 2 C P1 C P2 C P3 RH1 RH2
+
+x
+
+x
+
+x
+
+K3
+
+x
+
+x
+
+x
+
+x
+
+K2
+
+x
+
+x
+
+x
+
+K1
+
+x
+x
+x
+
+Kombinasi lain berawan
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+13
+
+Keterangan :
+P1A = ada sumber massa udara di Asia
+P1B = tidak ada sumber masa udara di Asia
+P2A = ada massa udara yang ditarik ke Australia
+P2B = tidak ada masa udara yang ditarik ke Australia
+A = Antisiklonal
+S = Siklonal
+T1 = rambatan suhu udara pd lapisan 850 mb mencapai ≤ -1 oC
+T2 = rambatan suhu udara pd lapisan 850 mb mencapai > -1 oC
+T3 = rambatan suhu udara pd lapisan 200 mb mencapai ≤ -2 oC
+T4 = rambatan suhu udara pd lapisan 200 mb mencapai > - 2 oC
+TC1 = ada siklon tropis tapi menjauhi daerah prakiraan
+TC2 = ada siklon tropis tapi mendekati daerah prakiraan
+TC3 = tidak ada siklon tropis disekitar daerah prakiraan
+PL1 = ada palung kuat disekitar daerah prakiraan
+PL2 = ada palung lemah disekitar daerah prakiraan
+PL3 = tidak ada palung disekitar daerah prakiraan
+K1 = ada konvergensi / sheraline kuat
+K2 = ada konvergensi /shearline lemah
+K3 = tidak ada konvergensi
+S W1 = tidak ada konvektif
+SW2 = ada indikasi konvektif
+
+14
+
+VT1 = udara cenderung bergerak keatas
+VT2 = udara cenderung bergerak kebawah
+CP1 = energi konvektif kurang
+CP2 = energi konvektif besar
+CP2 = energi konvektif sangat besar
+RH1 = uap air pada ketinggian 700 mb cukup membentuk awan
+RH2 = uap air pada ketinggian 700 mb tidak cukup membentuk awan
+Dari metode prakiraan cuaca yang dirancang tersebut terdiri dari 9 unsur yaitu :
+
+
+
+
+
+
+
+
+
+
+Tekanan udara
+Suhu udara
+Siklon Tropis
+Palung
+Angin
+Vortisitas
+Sweat
+Cape
+Kelembaban
+
+Metode prakiraan cuaca semi objektif ini diujicobakan terhadap data pengamatan
+yang hasilnya meningkat dibandingkan dengan metode subjektif yaitu mencapai
+83 – 86 %
+KESIMPULAN DAN SARAN
+
+15
+
+Kesimpulan
+1. Metode prakiraan cuac semi objektif terdiri dari;
+-
+
+inputan data objektif
+
+yang terdiri dari data pengamatan
+
+permukaan dan udara atas seperti tekanan udara, angin,
+kelembapan dan energi.
+-
+
+inputan data subjektif dari data penginderaan jarak jauh seperti
+data citra satelit
+
+-
+
+menggunakan lebih dari satu model prakiraan cuaca.
+
+2. Tingkat akurasi prakiraan cuaca dengan menggunakan intgerasi metode
+meningkat dari 70 % menjadi 83 - 86 %
+
+Saran
+Faktor intensitas hujan agar dipertimbangkan dalam masukan pembuatan
+prakiraan dan juga faktor waktu supaya dapat mengetahui kapan hujan akan
+terjadi?
+
+16
+
+DAFTAR PUSTAKA
+A. Randy, 1988, A Review of Static Stability Indices and Related
+Thermodynamic Parameters, Illinois State Water Surver, USA
+F. Eric, 2003, Results of Large-Scale Weather Forecast Accuracy Study of
+Major Internet Weather Forecast Providers, Intellovations, LLC
+James Block and J. Foerster, 2006, Integrating New Weather Technology
+in Forecast Operations at Meteorologix, AMS annual, Atlanta
+Jogiyanto, H. M, 1999, Analisis dan Design Sistem Informasi: Pendekatan
+Terstruktur Teori dan Praktek Aplikasi Bisnis, Edisi kedua, Andi
+Offset
+McLeod Jr, Reymond, 2001, Sistem Informasi Manajemen, edisi delapan, PT
+Intan Sejati, Klaten
+Suryadi, 1986, Tehnik Dasar Analisa dan Prakiraan Cuaca, buletin MG, Jakarta
+Tata Sutabri, 2003, Analisa Sistem Informasi, Andi Offset, Jogyakarta
+Tavri, D. Mahyuzir, 1989, Analisa Perancangan Sistem Pengolahan Data, PT
+Elex Media Komputindo, Jakarta
+
+17
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+

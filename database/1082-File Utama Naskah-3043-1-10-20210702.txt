@@ -1,0 +1,573 @@
+e-ISSN 2721-3188 │ p-ISSN 2721-3714
+
+Volume 2 Nomor 2, Juli 2021
+
+PENERAPAN ALGORITMA K-NEAREST NEIGHBOR (KNN) DALAM
+MEMPREDIKSI DAN MENGHITUNG TINGKAT AKURASI
+DATA CUACA DI INDONESIA
+Muhammad Yusuf Rizqon Rangkuti1*, Muhamamd Valensyah Alfansyuri2, Wawan Gunawan3
+1), 2), 3)
+Teknik Informatika, Fakultas Ilmu Komputer, Universitas Mercu Buana
+1*
+41518010138@student.mercubuana.ac.id, 241518010126@student.mercubuana.ac.id
+3
+wawan.gunawan@mercubuana.ac.id
+ABSTRACT
+Indonesia is a country that has a very large disaster-prone area, so that it can be dubbed the 1001 disaster
+country. It was recorded that throughout January 2020 there were 518 earthquakes, while in February 2020
+there were an increase of 799 earthquakes. It is not just earthquakes that occur in Indonesia, floods, landslides,
+extreme rainfall, and very drastic temperature changes that occur in Indonesia every year.
+Hydroclimatologically, Indonesia is also affected by the phenomenon of ENSO (EL_Nino Southern Oscillation)
+and La Nina, resulting in floods, landslides, drought, and low temperatures (cold). This research will
+implement the K-NN Algorithm in Predicting and Calculating the Level of Accuracy of Weather Data in
+Indonesia. The data used is 3623 data which is then divided into training data and testing data with a ratio of
+80: 20, 80% for training data or as much as 2898 data from 3623 data and for testing data as much as 20%
+or as much as 725 data from 3623 data. produce a prediction with a data accuracy rate of 0.8993 or about
+89%. With a data accuracy rate of 89%, it is hoped that it can help predict temperature and weather in
+Indonesia, so that it can help breeders and farmers to reduce the risk of crop failure and disadvantage.
+Keywords: Weather prediction, Level of accuracy, K-Nearest Neighbor
+
+ABSTRAK
+Indonesia merupakan negara yang memiliki derah rawan bencana sangat besar, sehingga bisa di juluki sebagai
+negara 1001 bencana. Tercatat sepanjang bulan januari 2020 terdapat 518 gempa, sementara pada bulan
+februari 2020 mengalami kenaikan sampai 799 gempa. Bukan hanya gempa saja yang terjadi di Indonesia
+banjir, longsor, curah hujan ekstrim, sampai perubahan suhu yang sangat drastic terjadi di Indonesia setiap
+tahunnya. Secara hidroklimatologis Indonesia juga terkena dampak dengan adanya fenomena ENSO (EL_Nino
+Southern Oscillation) dan La Nina sehingga terjadinya bencana banjir, tanah longsor, kekeringan, dan suhu
+yang rendah (dingin). Pada penelitian ini akan dilakukan Penerapan Algoritma K-NN dalam Memprediksi dan
+Menghitung Tingkat Akurasi Data Cuaca di Indonesia. Data yang digunakan sebanyak 3623 data yang
+kemudian dibagi menjadi data training dan data testing dengan perbandingan 80 : 20 , 80 % untuk data training
+atau sebanyak 2898 data dari 3623 data dan untuk data testing sebanyak 20% atau sebanyak 725 data dari 3623
+data. menghasilkan suatu prediksi dengan tingkat akurasi data sebesar 0,8993 atau sekitar 89%. Dengan tingkat
+akurasi data sebesar 89% diharapkan dapat membantu memprediksi suhu dan cuaca di Indonesia, sehingga
+dapat membantu peternak dan petani untuk mengurangi resiko dari gagal panen dan kerugian.
+
+Kata Kunci: Prediksi Cuaca, Tingkat Akurasi, K-Nearest Neighbor
+PENDAHULUAN
+Indonesia merupakan negara yang sangat subur
+namun wilayahnya rawan terhadap bencana alam.
+Setiap tahunnya Indonesia mengalami banyak
+sekali bencana, mulai dari gunung meletus, tsunami
+dan gempa bumi. Secara geografis, Indonesia
+terletak pada pertemuan 4 lempeng tektonik dunia,
+yaitu lempeng benua Asiadan benua Australia, serta
+
+lempeng samudera Hindia dan samudera Pasifik,
+hal inilah yang membuat Indonesia rawan akan
+bencana alam [1]. Tercatat sepanjang bulan januari
+2020 terdapat 518 gempa, sementara pada bulan
+februari 2020 mengalami kenaikan sampai 799
+gempa [2]. Selain mengakibatkan kematian, gempa
+bumi juga mengakibatkan kerugian yang sangat
+besar [3]. Namun tidak hanya gempa saja yang
+
+11
+
+Volume 2 Nomor 2, Juli 2021
+
+terjadi di Indonesia, ada juga gunung meletus, curah
+hujan yang ekstreme, dan perubahan suhu yang
+drastis. Selain itu secara hidroklimatologis
+Indonesia juga terdampak dengan adanya fenomena
+ENSO (EL-Nino Southern Oscillation) dan La Nina
+sehingga berimbas pada terjadinya bencana banjir,
+tanah longsor, kekeringan, angin puting beliung dan
+suhu yang rendah (dingin) [4].
+Ada juga faktor penyebab terjadinya perubahan
+iklim di Indonesia diantaranysa, efek gas rumah
+kaca, pemanasan global, kerusakan lapisan ozon,
+kerusakan fungsi hutan, penggunaan CFC yang
+tidak terkontrol, dan gas buang industry [5]. Hal ini
+tentu saja mempengaruhi banyak faktor di
+Indonesia salah satunya adalah faktor pertanian dan
+peternakan, dimana kemungkinan kerugian akibat
+gagal panen dan hewan ternak mati saat suhu dingin
+tinggi. Kondisi ini pernah dirasakan oleh Indonesia
+berupa kejadian banjir dan kekeringan sehingga
+menyebabkan kerusakan tanaman padi sawah pada
+periode tahun 1989-2007 cukup signifikan.
+Perubahan pola curah hujan dan kenaikan suhu
+udara menyebabkan produksi pertanian menurun
+secara signifikan. Kejadian iklim ekstrem berupa
+banjir dan kekeringan menyebabkan tanaman yang
+mengalami puso semakin tinggi [6] Rendahnya
+suhu menandakan tanda datangnya puncak musim
+kemarau, hal ini di pertegas oleh Deputi Bidang
+Klimatologi BMKG, Drs. HERIZAL, M.Si 2
+“semakin cerah langit dimusim kemarau akan
+semakin dingin udara dirasakan pada malam dan
+menjelang pagi hari” (Herizal, 2020). Adapun
+penyebab dinginnya suhu di Indonesia menurut
+BMKG: 1. Kandungan Uap Air di Atmosfer
+Rendah Kandungan uap air di atmosfer yang cukup
+rendah di wilayah Indonesia bagian selatan
+menyebabkan radiasi gelombang Panjang dari bumi
+yang dapat menghatngatkan atmosfer bumi lapisan
+bawah, terlepas ke angkasa. Hal ini menyebakan
+penurunan suhu di permukaan bumi [7]. 2. Angin
+dari Selatan Kondisi atmosfer yang cukup kering
+ditambah dengan kecepatan angin dari selatan
+Indonesia yang cukup kuat sehingga menyebabkan
+udara di Indonesia semakin dingin [7].
+Suhu dingin di Indonesia biasanya terjadi pada
+bulan Juli– Agustus sampai dengan menjelang
+bulan September dan biasanya terjadi pada puncak
+musim kemarau, BMKG juga memprediksi awal
+musim kemarau 2021 terjadi antara bulan Mei-Juni
+[8], tentu dengan masuknya musim kemarau
+otomatis suhu di Indonesia kemungkinan menurun
+hal ini tentu harus dipersiapkan terutama bagi para
+petani dan peternak di Indonesia. semakin
+meningkatnya intensitas fenomena cuaca yang
+ekstrim. Perubahan iklim merupakan salah satu
+ancaman yang sangat serius terhadap sektor
+
+e-ISSN 2721-3188 │ p-ISSN 2721-3714
+
+pertanian dan potensial mendatangkan masalah
+baru bagi keberlanjutan produksi pangan dan sistem
+produksi pertanian pada umumnya [6]. Tahun 2019
+terdapat penelitian yang membahas mengenai
+Algoritma KNN dengan memprediksi curah hujan
+dan temperature untuk tanaman padi. Pemanfaatan
+TIK dibidang pertanian sering disebut dengan
+Electronic Agriculture (e-Agriculture) [9].
+Informasi pertanian adalah aplikasi terbaik dari
+pengetahuan yang akan mendorong dan
+menciptakan peluang untuk pembangunan dan
+mengurangi kemiskinan. Dalam penelitian tersebut
+Teknik pengumpulan data menggunakan Teknik
+wawancara dan observasi dimana data yang diolah
+diproses menggunakan algoritma K-NN, data yang
+digunakan berasal dari Balai Pusat Statistik. Untuk
+data 3 curah dikumpulkan dari tahun 2000 sampai
+dengan 2010, sedangkan untuk temperature dari
+tahun 2000 dan 2001.
+Berdasarkan hasil analisis data periode 30 tahun
+terakhir (1981-2010), secara klimatologis wilayah
+Indonesia memiliki 407 pola iklim, dimana 342
+pola merupakan Zona Musim (ZOM) dimana
+terdapat perbedaan yang jelas antara periode musim
+hujan dan periode musim kemarau (umumnya pola
+Monsun), sedangkan 65 pola lainnya adalah NonZona Musim (Non ZOM). Daerah Non ZOM pada
+umumnya memiliki 2 kali puncak hujan dalam
+setahun (pola Ekuatorial) atau daerah dimana
+sepanjang tahun curah hujannya tinggi atau rendah
+[10]. Maka dengan munculnya masalah ini, kami
+berinisiatif mengadakan sebuah penelitian dengan
+mengambil sebuah tema yang berjudul : “Penerapan
+Algoritma K-NN Dalam Memprediksi dan
+Menghitung Tingkat Akurasi Data Cuaca di
+Indonesia” Semoga dengan penelitian ini, dapat
+memprediksi suhu dan menghitung tingkat akurasi
+data cuaca di Indonesia, sehingga dapat bermanfaat
+bagi semua kalangan di Indonesia terutama
+peternak dan petani.
+TINJAUAN PUSTAKA
+Implementasi Algoritma K-Nearest Neighbor
+(K-NN) sebelumnya pernah digunakan untuk
+memprediksi Curah hujan dan temperature tanaman
+padi [11]. Pada penelitian di jelaskan data yang
+digunakan diambil dari Balai Pusat Statistik
+dikumpulkan dari tahun 2000 sampai dengan 2010
+lalu data tersebut di hubungkan dengan beberapa
+faktor yang mempengaruhi curah hujan dan
+temperature antara lain Fenomena La Nina El Nino
+dan daerah pertemuan angin antar tropis. Data yang
+didapat kemudian di klasifikasikan sehingga
+menghasilkan sebuah kesimpulan bahwa dengan
+algoritma K-NN dapat menghasilkan informasi
+
+12
+
+e-ISSN 2721-3188 │ p-ISSN 2721-3714
+
+Volume 2 Nomor 2, Juli 2021
+
+mengenai curah hujan dan temperature untuk
+musim tanam tanaman padi berikutnya.
+Setelah itu Model Algoritma K-Nearest
+Neighbor (K-NN) untuk Prediksi Kelulusan
+Mahasiswa oleh [12]. Pada penelitian ini
+menggunakan atribut umur, Indeks Prestasi
+Semester 1 sampai dengan 8. Yang dihasilkan dari
+penelitian ini adalah nmendapatkan nilai akurasi
+dan AUC dari algoritma klasifikasi data mining
+dengan menggunakan algoritma K-NN. Dalam
+penelitian ini dalam memprediksi kelulusan
+mahasiswa dengan menggunakan algoritma
+klasifikasi data mining K-Nearest Neighbor dengan
+mengklaster data k=1, k=2, k=3, k=4, dan k=5.
+Hasil yang diperoleh dengan cluster data k=5
+accuracy adalah 85,15% dan nilai AUC adalah
+0.888 adalah akurasi paling tinggi.
+
+METODE PENELITIAN
+Penelitian ini termasuk penelitian kuantitatif.
+Penelitian kuantitatif adalah penelitian berdasarkan
+data numerik dan cara analisisnya secara matematis
+atau dengan teknik statistik. Permasalahan
+kuantitatif memiliki cakupan wilayah yang luas dan
+tingkat variasi yang kompleks. Dalam penelitian
+kuantitatif instrument atau atribut yang dibutuhkan
+telah ditentukan sebelumnya dan tertata dengan
+baik. Pendekatan kuantitatif memunculkan
+kesulitan dalam mengontrol variabel-variabel lain
+yang dapat berpengaruh terhadap proses penelitian
+baik secara langsung maupun tidak langsung. Untuk
+menciptakan validitas yang tinggi juga diperlukan
+kecermatan dalam proses penentuan sampel,
+pengambilan data, dan penentuan alat analisisnya.
+Penelitian ini menggunakan data 10 tahun terakhir
+mulai dari tahun 2010 sampai tahun 2019 dan
+merupakan data sekunder. Data sekunder
+merupakan data yang dikumpulkan oleh pihak lain
+dan telah didokumentasikan sehingga dapat
+digunakan pihak lain.
+Pada penelitian ini peneliti mengumpulkan data
+dari website National Centers for Environmental
+Information. Tempat atau cakupan wilayah dalam
+penelitian ini adalah Indonesia karena dalam
+penelitian ini akan memprediksi perubahan suhu
+yang terjadi di Indonesia dalam kurun waktu 10
+tahun terakhir. Penelitian ini menggunakan metode
+algoritma K-NN untuk memprediksi perubahan
+suhu dan mengukur tingkat akurasi dari prediksi
+tersebut. Penggambaran penggunaan metode knn
+misalnya kita akan memprediksi tahun 2015 apakah
+termasuk tahun yang akan mengalami penurunan
+suhu atau peningkatan suhu. Dengan algoritma KNN kita bisa menentukannya dengan melibatkan
+kondisi cuaca seperti curah hujan, kelembapan,
+
+suhu minimum, dan suhu maksimum, yang terjadi
+setiap harinya dengan memperhitungkan rata-rata
+suhu tahunan yang disekitar tahun tersebut
+(tetangganya).
+HASIL DAN PEMBAHASAN
+Dalam memprediksi dan menghitung tingkat
+akurasi data cuaca di Indonesia ada beberapa tahap
+yang perlu dilakukan, mulai dari tahap persiapan
+data, tahapan membersihkan data, tahapan proses
+data, sampai dengan tahapan pembanding mana
+tingkat akurasi yang terbaik jika menggunakan
+parameter K (tetangga terdekat) secara acak.
+4.1. Persiapan Data (Preparing Data)
+Pada tahap ini data dipersiapkan untuk di proses,
+data yang didapat berasal dari website National
+Centers for Environmental Information di mana
+data yang didapat adalah data cuaca di Indonesia.
+Data yang digunakan memiliki 3.623 data dan
+memiliki 28 atribut yaitu : STATION, DATE,
+LATITUDE,
+LONGITUDE,
+ELEVATION,
+NAME, TEMP, TEMP_ATTRIBUTES, DEWP,
+DEWP_ATTRIBUTES,
+SLP,
+SLP_ATTRIBUTES, STP, STP_ATTRIBUTES,
+VISIB,
+VISIB_ATTRIBUTES,
+WDSP,
+WDSP_ATTRIBUTES, MXSPD, GUST, MAX,
+MAX_ATTRIBUTES,
+MIN,
+MIN_ATTRIBUTES,
+PRCP,
+PRCP_ATTRIBUTES, SNDP, FRSHTT, seperti
+nampak pada gambar 1.
+
+Gambar 1. Dataset sebelum dilakukan
+pembersihan data
+Data yang akan diprediksi adalah data TEMP,
+dikarenakan record di dalam atribut berbeda-beda
+agar mudah memprediksinya record dikelompokan
+menjadi 3 kelompok yaitu:
+1.
+2.
+
+3.
+
+Untuk suhu < = 70 Fahrenheit dikelompokan
+menjadi suhu 70 fahrenheit 10.
+Untuk suhu > 70 sampai dengan < 80
+Fahrenheit dikelompokan menjadi suhu 75
+fahrenheit.
+Untuk suhu > = 80 Fahrenheit dikelompokan
+menjadi suhu 80 fahrenheit.
+
+13
+
+Volume 2 Nomor 2, Juli 2021
+
+4.2. Pembersihan Data (Cleaning Data)
+Pada tahap ini data yang sudah di kelompokan
+menjadi 3 kelompok di bersihkan dari atribut yang
+tidak terpakai dan dilakukan pengecekan apakah
+ada record file yang kosong atau tidak. Atribut yang
+tidak
+terpakai
+yaitu:
+'Unnamed:
+0','STATION','NAME', 'TEMP_ATTRIBUTES',
+'DEWP',
+'DEWP_AT
+TRIBUTES',
+'SLP','SLP_ATTRIBUTES',
+'STP',
+'STP_ATTRIBUTES',
+'VISIB',
+'
+VISIB_ATTRIBUTES',
+'WDSP_ATTRIBUTES','GUST',
+
+e-ISSN 2721-3188 │ p-ISSN 2721-3714
+
+sampai menghasilkan suatu prediksi dan tingkat
+akurasi dari data cuaca di Indonesia. Pertama data
+set yang sudah melalui proses pembersihan data,
+akan ditentukan variable dependen dan independen.
+Hal ini bertujuan untuk mengetahui mana variable
+yang mempengaruhi (independen) dan variable
+mana yang di pengaruhi (dependen) yang nantinya
+akan digunakan untuk prediksi dan menghitung
+tingkat akurasi seperti pada gambar 4.
+
+'MAX_ATTRIBUTES',
+'MIN_ATTRIBUTES','PRCP_ATTRIBUTES',
+'SNDP', 'FRSHTT' Dari 28 atribut, dipangkas
+menjadi 10 atribut dapat dilihat pada gambar 2 di
+bawah ini:
+
+Gambar 4. Proses penentuan variable
+Independen dan Dependen
+
+Gambar 2. Dataset setelah dilakukan
+pembersihan dari atribut yang tidak terpakai
+Setelah memangkas atribut yang tidak terpakai,
+lalu selanjutnya dilakukan pengecekan apakah ada
+record data yang kosong, hal ini berguna agar saat
+melakukan prediksi tidak terjadi error seperti yang
+ditampilkan pada gambar 3.
+
+Gambar 3. Proses pengecekan apakah ada data
+yang kosong (tidak ada data yang kosong)
+4.3. Tahap Proses (Processing Data)
+Setelah melalui tahap persiapan data dan tahap
+pembersihan data, lalu tahap selanjutnya adalah
+tahap proses data. Dalam tahap ini data di proses
+
+Lalu tahap selanjutnya adalah membagi data
+menjadi data training dan data testing
+(generalisasi), perbandingan data training dan data
+testing adalah 80:20 dari 3623 data. Data training
+sendiri digunakan untuk melatih model algoritma
+sedangkan untuk data testing sendiri digunakan
+untuk mengetahui perfoma algoritma jika ada data
+baru yang belum pernah diliat sebelumnya. Untuk
+data training sebanyak 2.898 data dan untuk data
+testing sebanyak 725 data seperti yang ditampilkan
+pada gambar 5.
+
+Gambar 5. Proses membagi data menjadi data
+Training dan data Testing
+Setelah membagi data menjadi 2, yaitu data
+training dan data testing tahap selanjutnya adalah
+mengklasifikasikan K-NN yang nantinya digunakan
+untuk memprediksi dan menghitung tingkat
+akurasi.
+1. from
+sklearn.neighbors
+KNeighborsClassifier
+2. knn = KNeighborsClassifier()
+3. knn.fit (X_train, y_train)
+
+import
+
+14
+
+Volume 2 Nomor 2, Juli 2021
+
+e-ISSN 2721-3188 │ p-ISSN 2721-3714
+
+Tahap selanjutnya adalah melakukan prediksi,
+dimana prediksi dilakukan terhadap data test (20%
+dari total data) seperti pada gambar 6.
+
+Gambar 6. Proses prediksi (hanya menampilkan
+50 data dari 20% data test)
+
+Gambar 8. Proses mencari tingkat akurasi
+terbaik menggunakan K 1-10
+
+Setelah melakukan prediksi, tahap menghitung
+tingkat akurasi dilakukan sebagai penilaian
+terhadap hasil prediksi dari data test. Hal ini
+bertujuan untuk mengetahui seberapa cocok data
+sebenarnya dengan data yang di prediksi dalam set
+pengujian pada gambar 7.
+
+Gambar 9. Grafik perbandingan tingkat
+akurasi menggunakan K 1-10
+Gambar 7. Proses menghitung tingkat akurasi
+dari data testing prediksi
+Dari hasil perhitungan tingkat akurasi
+didapatkan skor prediksi sebesar 0,8993 atau sekitar
+89%, skor ini terbilang sangat besar dimana tingkat
+akurasi hampir 100%. Hal ini dikarenakan K-NN
+sendiri tangguh terhadap data training yang noisy
+dan lebih efektif bila data testingnya berukuran
+besar, jadi algoritma K-NN ini sangat cocok untuk
+data set yang berukuran besar dikarenakan semakin
+besar data testingnya kinerja algoritma K-NN
+semakin baik.
+
+Setelah dilakukan perbandingan menggunakan
+parameter K dengan nilai 1-10, diantara nilai K 110 didapatkan akurasi terbaik sebesar 0.9020 atau
+90% dengan nilai parameter K nya 9. Dengan
+tingkat akurasi data 90% ke akuratan data testing
+dengan data training hampir menyentuh sempurna.
+
+4.4. Tahap Perbandingan (Comparing Data)
+Setelah dihitung tingkat akurasinya, lalu
+dilakukan pembanding untuk mencari tingkat
+akurasi terbaik jika nilai K (Tetangga terdekat)
+secara acak. Untuk nilai K sendiri berfungsi sebagai
+parameter tetangga terdekat, dimana untuk K-NN
+parameter K default-nya bernilai 2. Saat melakukan
+perbandingan parameter K bernilai 1-10 pada
+gambar 8.
+
+KESIMPULAN DAN SARAN
+Algoritma KNN sendiri adalah bagian dari
+machine learning yang sangat membantu dalam
+menyelesaikan masalah. Di Indonesia sendiri
+penerapan machine learning sangat beragam, mulai
+dari bidang kesehatan, ekonomi, pertanian,
+meteorologi, klimatologi dan lainnya. Machine
+learning sendiri sangat membantu dalam
+memprediksi dan menghitung tingkat akurasi,
+
+Gambar 10. Hasil akurasi terbaik menggunakan
+nilai K=9
+
+15
+
+Volume 2 Nomor 2, Juli 2021
+
+contohnya dalam memprediksi suhu dan
+menghitung tingkat akurasi data cuaca di Indonesia.
+Cuaca dan suhu sulit sekali di prediksi, dengan
+Machine Learning memprediksi cuaca lebih mudah
+berdasarkan data-data yang ada sebelumnya
+dikarenakan salah satu Teknik machine learning
+adalah
+Supervised.
+Pembentukan
+model
+menggunakan algoritma K-NN untuk membantu
+memprediksi suhu dan menghitung tingkat akurasi
+data cuaca di Indonesia. Data yang digunakan
+sebanyak 3623 data yang kemudian dibagi menjadi
+data training dan data testing dengan perbandingan
+80: 20, 80 % untuk data training atau sebanyak 2898
+data dari 3623 data dan untuk data testing sebanyak
+20% atau sebanyak 725 data dari 3623 data.
+Menghasilkan suatu prediksi dengan tingkat akurasi
+data sebesar 0,8993 atau sekitar 89%. Hasil dari
+prediksi menujukan adanya perubahan suhu secara
+signifikan setiap tahunnya hal ini biasanya ditandai
+dengan meningkatnya suhu selama 7-10 hari
+kedepan lalu setelahnya ada penurunan suhu sekitar
+1-3 fahrenheit selama 1-2 hari lalu suhu kemudian
+meningkat lagi, hal ini tentu saja sangat berbahaya
+bagi para peternak dan petani karena dapat merusak
+hasil panen dan resiko hewan ternak mati karena
+suhu tinggi. Dengan tingkat akurasi data sebesar
+89% diharapkan dapat membantu memprediksi
+suhu dan cuaca di Indonesia, sehingga dapat
+membantu
+peternak
+dan
+petani
+untuk
+mengantisipasi akan datangnya suhu dingin
+sehingga dapat mengurangi resiko dari gagal panen
+dan kerugian.
+REFERENSI
+[1] A. Riki, (2018). “4 Alasan Kenapa di
+Indonesia Sering Terjadi Gempa Bumi,”
+www.idntimes.com.
+[2] A. perdana Putra, (2020). “Kenapa Sering
+Terjadi
+Bencana
+di
+Indonesia?,”
+www.pahamify.com.
+[3] Statista, “Global earthquake death toll from
+
+e-ISSN 2721-3188 │ p-ISSN 2721-3714
+
+2000 to 2015 Published by Statista Research
+Department, Sep 30, 2016 The statistic shows
+the global death toll due to earthquakes from
+2000 to 2015. Around 9,624 people died
+worldwide in 2015 as a result of earthquakes.
+E,” www.statista.com, 2016. .
+[4] H. Hadi and U. (2020). Hamzanwadi,
+“INTERNALISASI KARAKTER PEDULI
+LINGKUNGAN
+DAN
+TANGGAP
+BENCANA”.
+[5] Y. Nurhanisah, (2019). “Mengenal Perubahan
+Iklim,
+Faktor,
+dan
+Dampaknya,”
+www.indonesiabaik.id.
+[6] I. M. Sudarma and A. R. As-syakur, “Dampak
+Perubahan Iklim Terhadap Sektor Pertanian
+Di Provinsi Bali,” SOCA J. Sos. Ekon. Pertan.,
+no.
+February,
+p.
+87,
+2018,
+doi:
+10.24843/soca.2018.v12.i01.p07.
+[7] L. A. Azanella, (2020). “Suhu Dingin di
+Indonesia:
+Penyebab,
+Wilayah
+yang
+Mengalami,
+dan
+Tips
+Kesehatan,”
+www.kompas.com.
+[8] R. Putratama, (2020). “Awal Musim Hujan
+2020/2021
+Mulai
+Akhir
+Oktober,”
+www.bmkg.go.id.
+[9] J. S. Arie, (2019). “Implementasi Algoritma
+KNN Dalam Memprediksi Curah Hujan dan
+Temperatur Untuk Tanaman Padi,” vol. 8, no.
+1, pp. 11–20
+[10] BMKG, (2017). “Prakiraan Awal Musim
+Kemarau 2017,” pp. 1–129.
+[11] N. Reflan, A. Aflahah, Kusrini, and Juwari,.
+“Implementasi Metode K-Nearest Neighbor
+(Knn) Untuk Memprediksi Varietas Padi
+Yang Cocok Untuk Lahan Pertanian,” J. Inf.
+Politek. Indonusa Surakarta, 2018. vol. 4, pp.
+2–8,
+[12] A. Rohman, “Model Algoritma K-Nearest
+Neighbor (K-NN) Untuk Prediksi Kelulusan
+Mahasiswa,” Neo Tek., vol. 1, no. 1, 2015, doi:
+10.37760/neoteknika.v1i1.350.
+
+16
+
+

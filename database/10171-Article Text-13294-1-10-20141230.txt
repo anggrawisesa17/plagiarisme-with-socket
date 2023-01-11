@@ -1,0 +1,1971 @@
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+PENGARUH KEPEMILIKAN MANAJERIAL, KEPEMILIKAN INSTITUSIONAL,
+LEVERAGE, FIRM SIZE DAN CORPORATE SOCIAL RESPONSIBILITY
+TERHADAP NILAI PERUSAHAAN PADA PERUSAHAAN HIGH
+PROFILE YANG TERDAFTAR DI BURSA EFEK INDONESIA
+PERIODE TAHUN 2008-2012
+FEBRINA WIBAWATI SHOLEKAH
+LINTANG VENUSITA
+Jurusan Manajemen, Fakultas Ekonomi, Universitas Negeri Surabaya,
+Kampus Ketintang Surabaya 60231
+E-mail : febrimiss@yahoo.co.id
+Abstract : The research aims to exemine the influence of managerial
+ownership, institutional ownership, leverage, firm size, and corporate
+social responsibility on firm value. The samples at this research are
+high profile companies listed in Indonesian Stock Exchange during
+period of 2008-2012. Data used from annual report.Technique
+analysis used multiple linear regression. The results showing that
+there are three independent variables that affect the dependent
+variable is managerial ownership, CSR, Leverage is influence firm
+value. Institutional ownership is not effect on firm value. institutional
+investors with small shareholdings will perform weak oversight of the
+managerial decisions and actions, which may affect managerial
+decisions rise and fall of the value of the company. Firm size has not
+influence on firm value. Due to the increase in total assets owned by
+the company may not necessarily increase the value of the company
+in the eyes of investors.
+Keywords: corporate values, managerial ownership, institutional
+ownership, leverage, firm size and corporate social
+responsibility.
+PENDAHULUAN
+Tujuan
+normatif
+dari
+memaksimumkan
+kekayaan
+pemegang saham dapat diwujudkan
+dengan memaksimumkan nilai pasar
+perusahaan. Memaksimumkan nilai
+pasar perusahaan sama dengan
+memaksimalkan harga pasar saham
+perusahaan yang sudah go public
+(Sudana,
+2011:7).
+Kategori
+perusahaan high profile termasuk
+dalam kategori perusahaan go public.
+Menurut Hackston dan Milne (1996),
+perusahaan high profile adalah
+perusahaan
+yang
+memiliki
+sensitivitas yang tinggi terhadap
+lingkungan,
+resiko
+politik
+dan
+persaingan yang ketat. Menurut
+Global Reporting Initiative’s (GRI)
+Tujuan perusahaan saat ini
+tidak hanya memburu keuntungan
+
+795
+
+ekonomi (profit) namun juga untuk
+kesejahteraan orang (people), dan
+memiliki
+keperdulian
+terhadap
+kelestarian lingkungan hidup (planet)
+Nugroho (2007) dalam Permanasari
+(2010)
+CSR
+merupakan
+bentuk
+tanggungjawab perusahaan dalam
+memperbaiki kesenjangan sosial dan
+kerusakan lingkungan yang terjadi
+akibat
+aktivitas
+operasional
+perusahaan. Semakin banyak bentuk
+pertanggungjawaban yang dilakukan
+perusahaan terhadap lingkungannya,
+maka image perusahaan menjadi
+meningkat. Investor lebih berminat
+pada perusahaan yang memiliki citra
+yang baik di masyarakat karena
+semakin baiknya citra perusahaan,
+loyalitas konsumen semakin tinggi
+sehingga
+dalam
+waktu
+lama
+penjualan perusahaan akan membaik
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+dan profitabilitas perusahaan juga
+meningkat. Jika perusahaan berjalan
+lancar, maka nilai saham perusahaan
+akan
+meningkat
+(Retno
+dan
+Priantinah, 2012).
+Kesadaran
+tentang
+pentingnya mempraktikkan CSR ini
+menjadi tren global seiring dengan
+semakin
+maraknya
+kepedulian
+masyarakat global terhadap produkproduk ramah lingkungan yang diatur
+oleh Undang-undang No. 40 Pasal 74
+Tahun 2007 tentang Perseroan
+Terbatas mengenai Tanggung Jawab
+Sosial dan Lingkungan.
+Terdapat beberapa contoh
+kasus, terkait permasalahan yang
+muncul dikarenakan perusahaan
+dalam melaksanakan operasinya
+kurang
+memperhatikan
+kondisi
+lingkungan dan sosial di sekitarnya,
+khususnya
+perusahaan
+yang
+aktivitasnya
+berkaitan
+dengan
+pengelolaan sumber daya alam.
+Sebagai contoh, PT. Freeport
+Indonesia di Papua dan PT. Lapindo
+Brantas di Sidoarjo, Jawa Timur
+(www.kompas.com).
+Penelitian yang dilakukan
+oleh Tamayo dan Servaes (2012),
+menunjukkan hubungan antara CSR
+activities
+berpengaruh
+positif
+terhadap firm value. Hal ini
+menunjukkan bahwa kegiatan CSR
+bisa meningkatkan nilai perusahaan
+dengan kesadaran masyarakat yang
+tinggi, seperti yang ditunjukkan oleh
+intensitas iklan. Hasil berbeda
+dikemukakan
+oleh
+Retno
+dan
+Priantinah (2012) yang menunjukkan
+pengungkapan
+CSR
+tidak
+berpengaruh
+terhadap
+nilai
+perusahaan.
+Kepemilikan manajerial yang
+rendah
+menyebabkan
+pihak
+manajemen lebih mementingkan
+kepentingannya sendiri dari pada
+kepentingan perusahaan Novitasari
+(2011). Hal ini sesuai dengan Chen
+dan Ho (2000) yang menunjukkan
+kepemilikan manajerial berpengaruh
+negatif terhadap nilai perusahaan.
+Penelitan tersebut tidak sesuai
+796
+
+dengan Wahyudi dan Pawestri (2006)
+dalam penelitiannya menemukan
+bahwa
+kepemilikan
+manajerial
+berpengaruh
+terhadap
+nilai
+perusahaan.
+Endraswati
+(2012)
+menemukan bahwa semakin tinggi
+kepemilikan institusional berpengaruh
+terhadap
+semakin
+tinggi
+nilai
+perusahaan
+dan
+kepemilikan
+institusional
+berpengaruh
+positif
+terhadap nilai perusahaan. Tetapi
+hasil berbeda dikemukakan oleh
+Wahyudi dan Pawestri (2006)
+menguji
+pengaruh
+kepemilikan
+institusional
+terhadap
+nilai
+perusahaan dan didapatkan bahwa
+kepemilikan
+institusional
+tidak
+berpengaruh
+terhadap
+nilai
+perusahaan.
+Semakin besar ukuran atau
+skala perusahaan maka akan
+semakin mudah pula perusahaan
+memperoleh sumber pendanaan baik
+yang bersifat internal maupun
+eksternal.
+Ukuran
+dinyatakan
+berpengaruh signifikan terhadap nilai
+perusahaan Nuraina (2012). Hasil
+berbeda ditunjukkan oleh Chen
+(2000) yang menemukan bahwa
+ukuran perusahaan perpengaruh
+negatif signifikan terhadap nilai
+perusahaan.
+Pratiwi (2011) menemukan
+bahwa leverage berpengaruh negatif
+dan signifikan. Hutang yang besar
+akan menjadi resiko bagi investor
+sehingga akan direaksi secara
+negatif oleh investor yang berdampak
+pada penurunan nilai perusahaan.
+Hasil berbeda ditunjukkan Ming dan
+Zuwe (2011), menemukan bahwa
+terdapat hubungan positif dan
+signifikan antara leverage dan nilai
+perusahaan.
+Pengaruh
+positif
+leverage terhadap nilai perusahaan
+cenderung lebih kuat ketika kualitas
+keuangan perusahaan lebih baik.
+Hasil penelitian terdahulu
+menunjukkan bahwa masih terdapat
+perbedaan hasil penelitian (research
+gap) mengenai faktor-faktor yang
+mempengaruhi
+nilai
+perusahaan
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+perusahaan,
+sehingga
+dalam
+penelitian ini melakukan penelitian
+lebih
+lanjut
+tentang
+pengaruh
+kepemilikan manajerial, kepemilikan
+institusional, leverage, firm size dan
+corporate
+social
+responsibility
+terhadap nilai perusahaan pada
+perusahaan
+high
+profile
+yang
+terdaftar di Bursa Efek Indonesia
+periode tahun 2008-2012.
+KAJIAN PUSTAKA
+Agency Theory (Teori Keagenan)
+Teori keagenan membahas
+isu-isu yang berkaitan dengan
+hubungan principal dan agent, serta
+adanya pemisahaan kepemilikan
+(ownership)
+dan
+pengendalian
+(control) dalam badan usaha. Teori
+keagenan menganalisa kepentingan
+dan perilaku dari pihak yang
+bertindak
+sebagai
+pembuat
+keputusan bagi pihak lain yang
+bertindak
+sebagai
+pemberi
+wewenang kepada pihak pertama
+dengan maksud agar pihak pertama
+bertindak dan membuat keputusan
+sesuai
+dengan
+kepentingannya
+selaku pemberi wewenang.
+Signaling Theory
+Menurut Jogiyanto (2007:392)
+informasi
+yang
+dipublikasikan
+sebagai suatu pengumuman akan
+memberikan signal bagi investor
+dalam
+pengambilan
+keputusan
+investasi. Jika pengumuman tersebut
+mengandung nilai positif, maka
+diharapkan pasar akan bereaksi pada
+waktu pengumuman tersebut diterima
+oleh pasar. Pada waktu informasi di
+umumkan dan semua pelaku pasar
+sudah menerima informasi tersebut,
+pelaku
+pasar
+terlebih
+dahulu
+mengintepretasikan
+dan
+menganalisis
+informasi
+tersebut
+sebagai signal baik (good news) atau
+signal buruk (bad news). Jika
+informasi tersebut sebagai signal baik
+bagi investor, maka terjadi perubahan
+dalam volume perdagangan saham.
+797
+
+Peckhing Order Theory
+Pecking
+Order
+Theory
+mendasarkan
+pada
+asimetri
+informasi,
+suatu
+istilah
+yang
+menunjukkan bahwa manajemen
+mempunyai informasi yang lebih
+banyak dari pada pemodal publik.
+Manajemen mempunyai informasi
+yang lebih banyak dari pemodal
+karena manajemen yang mengambil
+keputusan-keputusan
+keuangan,
+yang menyusun berbagai rencana
+perusahaan. Dimana perusahaan
+lebih menyukai penerbitan utang
+dibandingkan ekuitas, jika pendanaan
+internal tidak mencukupi Myers et al.,
+(2008:25).
+Legitimasi Theory
+Menurut
+Hadi
+(2011),
+legitimasi
+merupakan
+sistem
+pengolahan
+perusahaan
+yang
+berorientasi
+pada
+keberpihakan
+masyarakat (society), pemerintah,
+individu dan kelompok masyarakat.
+Untuk itu, sebagai suatu sistem yang
+mengedepankan
+keberpihakan
+kepada
+masyarakat,
+operasi
+perusahaan harus sesuai dengan
+harapan masyarakat.
+Nilai Perusahaan
+Menurut Sartono (2001:9),
+kemakmuran pemegang saham akan
+meningkat apabila harga saham yang
+dimilikinya meningkat. Harga pasar
+saham juga menunjukkan nilai
+perusahaan, itu artinya jika apabila
+harga saham meningkat maka nilai
+perusahaan juga meningkat. Nilai
+perusahaan
+yang
+tinggi
+menggambarkan
+kesejahteraan
+pemiliknya. Menurut Husnan dan
+Pudjiastuti (2006), nilai perusahaan
+adalah sama dengan nilai saham
+(jumlah lembar saham dikalikan
+dengan
+nilai
+pasar
+perlembar
+ditambah dengan nilai pasar utang).
+Bedasarkan
+beberapa
+pendapat dari para ahli dapat di
+simpulkan nilai perusahaan adalah
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+nilai yang menggambarkan tingkat
+kesejahteraan pemegang saham.
+Indikator
+yang
+dipakai
+untuk
+mengukur nilai perusahaan adalah
+rasio Tobin’s Q yang merupakan
+suatu cara yang digunakan untuk
+meramal investasi masa depan.
+Kepemilikan Manajerial
+Kepemilikan
+manajerial
+didefinisikan sebagai prosentase
+suara yang berkaitan dengan saham
+dan option yang dimiliki oleh manajer
+dan direksi suatu perusahaan. Dalam
+laporan
+keuangan
+yang
+dipublikasikan
+oleh
+emiten
+kepemilikan saham dilaporkan dalam
+bentuk prosentase. Proksi yang
+digunakan
+untuk
+menghitung
+kepemilikan
+manajerial
+menggunakan MOWN, yaitu jumlah
+saham yang dimiliki oleh manajemen
+dibagi jumlah saham yang beredar
+(Haruman, 2008).
+Kepemilikan Institusional
+Kepemilikan
+institusional
+adalah saham perusahaan yang
+dimiliki
+oleh
+institusi
+seperti
+perusahaan asuransi, dana pensiun,
+pemerintah, perusahaan investasi,
+dan kepemilikan institusional lain.
+Kepemilikan institusional memiliki arti
+penting
+dalam
+memonitor
+manajemen karena dengan adanya
+kepemilikan oleh institusional akan
+mendorong peningkatan pengawasan
+yang lebih optimal Tarjo (2008).
+Proksi yang digunakan untuk
+menghitung kepemilikan institusional
+menggunakan INST, yaitu jumlah
+saham yang dimiliki oleh institusional
+dibagi jumlah saham yang beredar
+(Haruman, 2008).
+Leverage
+Rasio
+leverage
+menggambarkan
+sumber
+dana
+operasi
+yang
+digunakan
+oleh
+perusahaan. Rasio leverage juga
+menunjukkan risiko yang dihadapi
+
+798
+
+perusahaan, dimana semakin besar
+risiko yang dihadapi oleh perusahaan
+maka
+ketidakpastian
+untuk
+menghasilkan laba di masa depan
+juga akan makin meningkat (Tarjo,
+2008). Salah satu faktor penting
+dalam unsur pendanaan adalah
+hutang
+(leverage).
+Solvabilitas
+(leverage)
+digambarkan
+untuk
+melihat
+sejauh
+mana
+aset
+perusahaan dibiayai oleh hutang
+dibandingkan dengan modal sendiri
+(Weston
+dan
+Copeland,1992).
+Perusahan dengan rasio leverage
+yang rendah memiliki risiko leverage
+yang lebih kecil.
+Leverage
+dapat
+diukur
+dengan Debt to Equity Ratio (DER).
+Leverage dengan menggunakan
+Debt
+to
+Equity
+Ratio
+untuk
+menunjukkan perbandingan antara
+hutang
+dengan
+modal
+sendiri
+(Husnan dan Pudjiastuti, 2006:70)
+Firm Size
+Ukuran
+perusahaan
+menggambarkan
+besar
+kecilnya
+suatu perusahaan yang dapat dinilai
+dari total aset yang dimiliki, jumlah
+penjualan, rata-rata total penjualan
+dan rata-rata aset. Jadi ukuran
+perusahaan menunjukkan
+besar
+kecilnya perusahaan yang dapat
+dilihat dari besar kecilnya modal yang
+digunakan dan total aset yang
+dimiliki. Ukuran perusahaan dapat
+diproksi melalui Ln total aset.
+Corporate Social Responsibility
+CSR
+merupakan
+bentuk
+tanggung jawab perusahaan dalam
+memperbaiki kesenjangan sosial dan
+kerusakan lingkungan yang terjadi
+akibat
+aktivitas
+operasional
+perusahaan Retno dan Priantinah
+(2012). Semakin banyak bentuk
+pertanggungjawaban yang dilakukan
+perusahaan terhadap lingkungannya,
+image
+perusahaan
+menjadi
+meningkat. Investor lebih berminat
+pada perusahaan yang memiliki citra
+yang baik di masyarakat karena
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+semakin baiknya citra perusahaan,
+loyalitas konsumen semakin tinggi
+sehingga
+dalam
+waktu
+lama
+penjualan perusahaan akan membaik
+dan profitabilitas perusahaan juga
+meningkat. Jika perusahaan berjalan
+lancar, maka nilai saham perusahaan
+akan
+meningkat.
+CSR
+diukur
+menggunakan
+Corporate
+Sosial
+disclousure Index (CSDI) yang sesuai
+dengan GRI.
+Kepemilikan
+Manajerial,
+Kepemilikan
+Institusional,
+Leverage, Firm Size, Corporate
+Social Responsibility dan Nilai
+Perusahaan
+Kepemilikan manajerial akan
+mengurangi
+agency
+cost
+dan
+mensejajarkan
+kepentingan
+manajamen dan pemegang saham
+(outsider ownership), sehingga akan
+memperoleh manfaat langsung dari
+keputusan
+yang
+diambil
+serta
+menanggung
+kerugian
+sebagai
+konsekuensi
+dari
+pengambilan
+keputusan yang salah Jensen dan
+Meckling (1976). Sesuai dengan
+penelitian dari Wahyudi dan Pawestri
+(2006)
+menemukan
+bahwa
+kepemilikan
+manajerial
+memiliki
+pengaruh terhadap nilai perusahaan
+secara langsung ataupun melalui
+keputusan pendanaan namun lebih
+banyak pengaruh tidak langsung
+melaui keputusan pendanaan. Hasil
+ini serupa dengan Rustendi dan
+Jimmi (2008) dalam penelitiannya
+menemukan
+bahwa kepemilikan
+manajerial
+berpengaruh
+positif
+terhadap
+nilai
+perusahaan.
+Berdasarkan uraian di atas dapat
+disimpulkan
+bahwa
+kepemilikan
+manjerial berpengaruh terhadap nilai
+perusahaan.
+Kepemilikan
+institusional
+merupakan salah satu alat yang
+dapat digunakan untuk mengurangi
+agency conflict. Semakin tinggi
+tingkat kepemilikan institusional maka
+semakin kuat tingkat pengendalian
+yang dilakukan oleh pihak eksternal
+
+799
+
+terhadap
+perusahaan
+sehingga
+agency cost yang terjadi di dalam
+perusahaan semakin berkurang dan
+nilai perusahaan juga dapat semakin
+meningkat (Nuraina, 2012). Dengan
+adanya konsentrasi kepemilikan,
+maka para pemegang saham besar
+seperti kepemilikan institusional akan
+dapat memonitor tim manajemen
+secara lebih efektif dan nantinya
+dapat
+meningkatkan
+nilai
+perusahaan. Selain itu, pemilik
+institusional
+akan
+berusaha
+melakukan usaha-usaha positif guna
+meningkatkan
+nilai
+perusahaan
+miliknya
+(Mutia,
+2010).
+Dapat
+disimpulkan
+bahwa
+kepemilikan
+institusional berpengaruh terhadap
+nilai perusahaan.
+Leverage dapat dipahami
+sebagai penaksir dari resiko yang
+melekat pada suatu perusahaan.
+Artinya, leverage yang semakin besar
+menunjukkan risiko investasi yang
+semakin besar pula. Perusahan
+dengan rasio leverage yang rendah
+memiliki risiko leverage yang lebih
+kecil. Semakin besar hutang akan
+semakin besar potensi kegagalan
+hutang yang bisa mengarahkan
+perusahaan
+pada
+kebangkrutan
+usaha. Investor memiliki persebsi
+negatif terhadap hutang yang besar
+dan cenderung memilih investasi
+pada perusahaan dengan resiko
+hutang yang rendah. Keadaan ini
+akan menyebabkan harga saham
+perusahaan menjadi turun yang
+berdampak terhadap turunnya nilai
+perusahaan (Pratiwi, 2011). Dapat
+disimpulkan
+bahwa
+leverage
+berpengaruh
+terhadap
+nilai
+perusahaan.
+Firm size menggambarkan
+besar kecilnya suatu perusahaan
+yang dapat dinyatakan dengan total
+aset atau total penjualan bersih. Aset
+mencerminkan
+kekayaan
+yang
+dimiliki oleh perusahaan, semakin
+besar
+aset
+perusahaan
+maka
+semakin
+besar
+kesempatan
+perusahaan untuk tumbuh dan
+berkembang. Hal ini dimungkinkan
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+karena dengan aset yang besar
+perusahaan
+mempermudah
+perusahaan
+untuk
+memperoleh
+sumber pendanaan, terutam modal
+dari dalam perusahaan sendiri.
+Pendanaan yang baik akan membuat
+perusahaan lebih mudah melakukan
+ekspansi usaha serta menjalin
+kerjasama dengan perusahaan lain
+yang nantinya dapat membuat
+perusahaan tumbuh lebih besar.
+Apabila informasi mengandung nilai
+positif, maka diharapkan akan ada
+reaksi positif dari pengguna informasi
+pada waktu informasi tersebut
+diterima (Jogiyanto, 2007:79).
+Hal
+ini
+sesuai
+dengan
+penelitian dari Nuraina (2012) yang
+menyatakan
+bahwa
+ukuran
+berpengaruh signifikan terhadap nilai
+perusahaan. Hasil tersebut didukung
+oleh Pratiwi (2011) yang menemukan
+bahwa
+ukuran
+perusahaan
+perpengaruh
+positif
+signifikan
+terhadap nilai perusahaan. Dapat
+disimpulkan
+bahwa
+firm
+size
+berpengaruh
+terhadap
+nilai
+perusahaan.
+CSR
+merupakan
+bentuk
+tanggung jawab perusahaan dalam
+memperbaiki kesenjangan sosial dan
+kerusakan lingkungan yang terjadi
+akibat
+aktivitas
+operasional
+perusahaan. Para konsumen akan
+lebih mengapresiasi perusahaan
+yang
+mengungkapkan
+CSR
+dibandingkan dengan perusahaan
+yang tidak mengungkapkan CSR,
+mereka akan membeli produk yang
+sebagian laba dari produk tersebut
+disisihkan untuk kepentingan sosial
+lingkungan. Hal ini akan berdampak
+positif terhadap perusahaan, selain
+membangun image yang baik di mata
+para stakeholder karena kepedulian
+perusahaan
+terhadap
+sosial
+lingkungan, juga akan menaikkan
+laba perusahaan melalui peningkatan
+penjualan. Dengan demikian nilai
+profitabilitas akan tinggi, dan akan
+menarik perhatian para investor
+untuk investasi serta pengaruh bagi
+
+800
+
+peningkatan kinerja saham di bursa
+efek (Hadi, 2011).
+Hal
+ini
+sesuai
+dengan
+penelitian dari Tamayo dan Servaes
+(2013), menguji pengaruh CSR
+(Corporate Social Responsibility)
+activities terhadap firm value dimana
+hasil penelitiannya menunjukkan
+hubungan antara CSR activities
+mempengaruhi
+firm
+value.
+Mendukung penelitian Tamayo dan
+Servaes
+(2013),
+penelitian
+Kusumadilaga (2010) menunjukkan
+bahwa besar kecilnya praktik CSR
+mempengaruhi peningkatan nilai
+perusahaan.
+Berdasarkan kajian teoritis
+dan empiris maka dapat dirumuskan
+hipotesis sebagai berikut :
+H1 : Kepemilikan
+manajerial
+berpengaruh
+terhadap
+nilai
+perusahaan
+H2 : Kepemilikan
+institusional
+berpengaruh
+terhadap
+nilai
+perusahaan
+H3 : Leverage berpengaruh terhadap
+nilai perusahaan
+H4 : Firm Size berpengaruh terhadap
+nilai perusahaan
+H₅ : CSR berpengaruh terhadap nilai
+perusahaan
+METODE
+Jenis
+penelitian
+yang
+digunakan dalam penelitian ini adalah
+penelitian kausal kuantitatif. Dimana
+riset deskriptif bertujuan menguraikan
+sesuatu sedangkan riset kausal
+digunakan untuk mendapatkan bukti
+hubungan sebab akibat. Jenis data
+yang digunakan yaitu data sekunder
+berupa Anual Report dan Capital
+Market Directory (ICMD) perusahaan
+high profile yang yang diperoleh dari
+Bursa Efek Indonesia.
+Populasi dari penelitian ini
+adalah perusahaan high profile yang
+terdaftar di Bursa Efek Indonesia
+(BEI) periode tahun 2008-2012.
+Pengambilan
+sampel
+dalam
+penelitian ini dilakukan dengan
+metode purposive sampling yaitu
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+metode pengambilan sampel yang
+memenuhi kriteria dan diperoleh 8
+perusahaan high profile sebagai
+sampel.
+Variabel dependen dalam
+penelitian ini adalah nilai perusahaan
+diproksikan dengan Tobin’s q.
+Sedangkan variabel independen
+dalam
+penelitian
+ini
+adalah
+kepemilikan manjerial, kepemilikan
+institusional, leverage, firm size dan
+corporate social responsibility.
+Nilai perusahaan merupakan
+nilai yang menggambarkan tingkat
+kesejahteraan pemegang saham.
+Nilai perusahaan diproksikan dengan
+rasio Tobin’s Q sebagai berikut
+(Thomsen, 2004) yaitu :
+Kepemilikan
+manajerial
+adalah kepemilikan saham oleh
+manajemen perusahaan yang diukur
+dengan MOWN yaitu jumlah saham
+yang dimiliki oleh manajemen dibagi
+jumlah saham yang beredara yang
+diproksikan
+sebagai
+berikut
+(Haruman, 2008):
+MOWN
+
+Kepemilikan
+institusional
+adalah tingkat kepemilikan saham
+oleh institusional lain, diukur oleh
+proporsi
+saham
+yang
+dimiliki
+institusional pada akhir tahun yang
+dinyatakan
+dalam
+presentase.
+Kepemilikan
+institusional
+diukur
+dengan INST yang di proksikan
+sebagai berikut (Haruman, 2008):
+
+Ukuran
+perusahaan
+menunjukkan
+besar
+kecilnya
+perusahaan yang dapat dilihat dari
+besar kecilnya modal yang digunakan
+dan total assets yang dimiliki. Ukuran
+perusahaan dapat diproksi melalui Ln
+total aset (TA) dengan persamaan
+Sari (2012):
+Size = Ln natural (total aset)
+CSR adalah bentuk tanggung
+jawab
+perusahaan
+dalam
+memperbaiki kesenjangan sosial dan
+kerusakan lingkungan yang terjadi
+akibat aktivitas operasional. Dalam
+penelitian ini variabel independen
+CSR diukur menggunakan Corporate
+Sosial Disclousure Index (CSDI) yang
+sesuai
+dengan
+GRI.
+Rumus
+perhitungan CSDI adalah sebagai
+berikut (Haniffa dan Cookee, 2005):
+
+Teknik analisis data yang
+digunakan dalam penelitian ini adalah
+analisis regresi linier berganda yang
+sebelumnya dilakukan uji asumsi
+klasik. Uji asumsi klasik yang terdiri
+dari
+uji
+normalitas,
+uji
+multikolinearitas, uji autokorelasi dan
+uji heteroskedatisitas. Teknik analisis
+regresi linear berganda diolah
+dengan
+menggunakan
+program
+Statistical Program For Social
+Science
+(SPSS)
+18.
+Setelah
+memenuhi uji asumsi klasik dilakukan
+uji
+signifikansi
+simultan,
+uji
+signifikansi
+parsial,
+persamaan
+regresi dan uji koefisien determinasi
+(Ghozali, 2013).
+
+INST
+
+Leverage merupakan rasio
+yang mengukur seberapa jauh
+persahaan menggunakan hutang.
+Leverage dapat diukur menggunakan
+Debt to Equity Ratio (DER) dengan
+persamaan
+
+801
+
+HASIL
+Berdasarkan hasil uji asumsi
+klasik yang terdiri dari uji normalitas
+yang menggunakan uji KolmogorovSmirnov (KS), PP Plot dan histogram,
+diperoleh nilai KS sebesar 0,195
+dimana nilainya lebih besar dari 0,05
+sehingga dapat disimpulkan bahwa
+data berdistribusi normal. Pengujian
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+menggunakan
+PP
+Plot
+dan
+histogram, diperoleh analisis grafik
+dengan histogram dan grafik P-P plot
+menunjukkan
+bahwa
+grafik
+memberikan pola distribusi normal
+dikarenakan
+grafik
+histogram
+berbetuk lonceng dan grafik P-P plot
+menunjukkan titik-titik
+menyebar
+mendekati garis diagonal. Hasil uji
+multikolinieritas menunjukkan nilai
+tolerance lebih dari 0,1 dan nilai VIF
+kurang dari 10 sehingga disimpulkan
+bahwa
+tidak
+terjadi
+gejala
+multikolinieritas. Hasil uji autokorelasi
+menggunakan uji Durbin watson
+dengan nilai Durbin Watson sebesar
+1.313 dimana persamaan yang
+sesuai dl < dw > du = 1.235 < 1.313
+>1.7859, maka dapat diartikan bahwa
+persamaan tersebut ragu – ragu atau
+tidak terdapat autokorelasi positif.
+Karena hasil yang tidak memenuhi
+persyaratan dilakukan pengujian
+Runt-Test (RT), didapat kan hasil
+Runt-Test (RT) sebesar 0,519
+dimana nilainya lebih besar dari 0,05
+sehingga disimpulkan bahwa tidak
+terjadi gejala autokorelasi. Hasil uji
+heterokedastisitas
+menggunakan
+spearman’s rho dimana masingmasing variabel mempunyai nilai
+signifikansi lebih dari 0,05 sehingga
+dapat disimpulkan tidak terjadi gejala
+heteroskedastisitas.
+Analisis
+regresi
+linier
+berganda didapatkan hasil pada tabel
+1 sebagai berikut :
+Tabel 1. Hasil Analisis Regresi
+Linier Berganda
+Variabel
+Regresi
+Manajerial
+Institusional
+Leverage
+Size
+CSR
+
+Nilai
+Sig.
+F
+0,007
+
+Nilai
+Sig. t
+
+T
+
+0.010
+0.287
+0.002
+0.323
+0.012
+
+2.719
+- 1.082
+-3.404
+-1.003
+2.648
+
+(R2)
+
+PEMBAHASAN
+Pengaruh Kepemilikan Manajerial
+terhadap Nilai Perusahaan
+
+.273
+
+Sumber: Output SPSS
+Berdasarkan analisis regresi
+linier berganda pada tabel 1
+didapatkan hasil bahwa uji F sebesar
+0,007 dimana nilai tersebut kurang
+dari 0,05 menunjukkan bahwa secara
+bersama-sama variabel independen
+yaitu
+kepemilikan
+manjerial,
+
+802
+
+kepemilikan institusional, leverage,
+firm size, CSR berpengaruh terhadap
+variabel
+dependen
+yaitu
+nilai
+perusahaan.
+Uji t menunjukkan hasil
+bahwa
+kepemilikan
+manajerial
+berpengaruh
+terhadap
+nilai
+perusahaan dimana tingkat signifikasi
+0,010
+<
+0,005.
+Kepemilikan
+institusional
+tidak
+berpengaruh
+terhadap nilai perusahaan dimana
+tingkat signifikasi 0,287 > 0,005.
+Leverage berpengaruh terhadap nilai
+perusahaan dimana tingkat signifikasi
+0,002 < 0,05. Firm size tidak
+berpengaruh
+terhadap
+nilai
+perusahaan dimana tingkat signifikasi
+0,323 > 0,05. CSR berpengaruh
+terhadap nilai perusahaan dimana
+tingkat signifikasi 0,012 < 0,05.
+Persamaan
+regresi
+yang
+diperoleh
+dari
+hasil
+penelitian
+tersebut adalah sebagai berikut :
+Y= 5.184 + 0.123Xı - 0.003X₃ +
+0.59X₅
+Besar R² adalah 0,273 atau
+27,3 %, artinya perubahan yang
+terjadi pada variabel kepemilikan
+manajerial, kepemilikan institusional,
+leverage, firm size dan CSR akan
+memengaruhi
+variabel
+nilai
+perusahaan sebesar 27,3% dan
+sisanya sebesar 72,7% berasal dari
+pengaruh variabel lain di luar
+persamaan regresi.
+
+Berdasarkan hasil analisis
+data didapatkan bahwa kepemilikan
+manajerial berpengaruh terhadap
+nilai perusahaan. Jika dilihat dari
+arah hubungannya memiliki pengaruh
+positif yang artinya semakin tinggi
+jumlah saham yang dimiliki oleh
+pihak manajemen perusahaan maka
+semakin tinggi pula nilai perusahaan.
+Jensen dan Meckling (1976)
+menyatakan salah satu cara untuk
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+mengurangi agency cost adalah
+dengan meningkatkan kepemilikan
+saham oleh manajemen. Proporsi
+kepemilikan saham yang dikontrol
+oleh manajer dapat mempengaruhi
+kebijakan perusahaan. Kepemilikan
+manajerial
+akan
+mensejajarkan
+kepentingan
+manajamen
+dan
+pemegang
+saham
+(outsider
+ownership),
+apabila
+perusahaan
+tersebut berhasil maka manajemen
+akan memperoleh manfaat langsung
+namun sebaliknya akan menanggung
+kerugian sebagai konsekuensi dari
+pengambilan keputusan yang salah.
+Maka manajemen cenderung lebih
+giat untuk kepentingan pemegang
+saham yang notabennya adalah
+dirinya
+sendiri.
+Peningkatan
+kepemilikan saham oleh manajemen
+menyebabkan penurunan agency
+cost sehingga akan meningkatkan
+laba
+perusahaan.
+Dengan
+peningkatan permintaan saham akan
+berimbas kepada peningkatkan nilai
+perusahaan.
+Penelitian ini sesuai dengan
+penelitian yang di lakukan Wahyudi
+dan
+Pawestri
+(2006)
+yang
+menyatakan
+bahwa
+kepemilikan
+manajerial berpengaruh terhadap
+nilai
+perusahaan.
+Selain
+itu,
+penelitian ini juga sesuai dengan
+penelitian
+yang
+dilakukan
+Sofyaningsih dan Hardininfsih (2011)
+bahwa
+perusahaan
+dengan
+kepemilikan manajerial yang lebih
+tinggi memiliki kecenderungan nilai
+pasar saham yang lebih tinggi, yang
+membuktikan bahwa agency conflict
+bisa diatasi dengan memasukkan
+manajer dalam struktur kepemilikan
+saham.
+Pengaruh
+Institusional
+Perusahaan
+
+Kepemilikan
+terhadap
+Nilai
+
+Berdasarkan hasil analisis
+data didapatkan bahwa kepemilikan
+institusional
+tidak
+berpengaruh
+terhadap nilai perusasahaan. Dengan
+prosentase
+tingkat
+kepemilikan
+803
+
+institusional yang kecil, pengawasan
+pada pihak manajemen dirasa kurang
+optimal dimana pengawasan oleh
+pihak
+institusional
+tidak
+akan
+berpengaruh
+terhadap
+tingkatp
+pengambilan
+keputusan
+oleh
+manajemen. Dimana naik turunnya
+nilai perusahaan dapat ditentukan
+dari keputusan pihak manajemen.
+Hasil penelitian ini sesuai
+dengan penelitian yang dilakukan
+Wahyudi dan Pawestri (2006) yang
+menyebutkan
+bahwa
+struktur
+kepemilikan
+institusional
+tidak
+berpengaruh terhadap keputusan
+keuangan maupun nilai perusahaan.
+Didukung dengan penelitian dari Hitt
+et al., (1997:291) menyatakan
+semakin
+meningkatnya
+jumlah
+pemegang saham dengan jumlah
+kepemilikan saham yang relatif kecil
+menyebabkan investor institusional
+kurang
+melakukan
+pengawasan
+terhadap aktivitas keputusan manajer
+di setiap perusahaan, dimana
+keputusan
+manajerial
+dapat
+mempengaruhi naik turunnya nilai
+perusahaan.
+Pengaruh Leverage terhadap Nilai
+Perusahaan
+Berdasarkan hasil analisis
+data didapatkan bahwa kepemilikan
+manajerial
+berpengaruh
+negatif
+terhadap nilai perusasahaan. Hasil
+penelitian ini menunjukkan bahwa
+semakin besar tingkat hutang yang
+dimiliki perusahaan maka akan
+semakin besar pula resiko investasi
+yang akan berimbas pada penurunan
+nilai perusahaan. Perusahaan yang
+menggunakan hutang mempunyai
+kewajiban atas beban bunga dan
+beban pokok pinjaman. Penggunaan
+hutang (external financing) memilki
+risiko yang cukup besar atas tidak
+terbayarnya
+hutang,
+sehingga
+penggunaan
+hutang
+perlu
+memperhatikan
+kemampuan
+perusahaan dalam menghasilkan
+laba.
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+Hasil penelitian ini sesuai
+dengan penelitian dari Pratiwi (2011)
+yang menyatakan bahwa leverage
+berpengaruh negatif terdahap nilai
+perusahaan dan sesuai dengan trade
+off theory yang dikemukakan oleh
+Myers et al., (2008:24) teori ini
+menganggap bahwa semakin tinggi
+hutang maka semakin tinggi beban
+kebangkrutan
+yang
+ditanggung
+perusahaan. Semakin besar hutang,
+semakin besar pula kemungkinan
+terjadinya perusahaan tidak mampu
+membayar kewajiban tetap berupa
+bunga dan pokoknya. Oleh sebab itu,
+perusahaan harus sangat hati-hati
+dalam
+menentukan
+hutangnya
+karena peningkatan penggunaan
+hutang akan menentukan nilai
+perusahaannya.
+Pengaruh Firm Size terdahap Nilai
+Perusahaan
+Berdasarkan hasil analisis
+data didapatkan bahwa firm size tidak
+berpengaruh
+terhadap
+nilai
+perusasahaan. Hasil penelitian ini
+menunjukkan bahwa perusahaan
+yang memiliki ukuran perusahaan
+yang kecil tidak berarti harga saham
+yang dimilikinya rendah. Investor
+tidak melihat apakah saham yang
+akan dibelinya merupakan saham
+perusahaan
+besar
+atau
+kecil,
+sehingga harapan investor terhadap
+return saham di masa mendatang
+tidak terpengaruh oleh besar kecilnya
+perusahaan. Apabila saham tersebut
+memiliki kecenderungan harga yang
+akan terus mengalami kenaikan,
+investor akan memutuskan untuk
+membeli saham tersebut meskipun
+saham tersebut merupakan saham
+perusahaan kecil, sehingga nilai
+perusahaan tidak dipengaruhi oleh
+besar kecilnya ukuran perusahaan.
+Penelitian ini sesuai dengan
+Sari (2005) yang berpendapat bahwa
+kenaikan
+aset
+yang
+dimiliki
+perusahaan belum tentu mampu
+meningkatkan nilai perusahaan dan
+bisa jadi perusahaan dengan nilai
+804
+
+aset kecil mampu meningkatkan nilai
+perusahaan karena memberikan
+keuntungan yang optimal.
+Pengaruh
+Corporate
+Social
+Responsibility (CSR) terhadap
+Nilai Perusahaan
+Berdasarkan hasil analisis
+data
+didapatkan
+bahwa
+CSR
+berpengaruh
+terhadap
+nilai
+perusasahaan. Hasil penelitian ini
+menunjukkan bahwa peningkatan
+CSR terhadap masyarakat akan
+mencipkan citra yang baik terhadap
+perusahaan, Investor lebih berminat
+pada perusahaan yang memiliki citra
+yang baik di masyarakat karena
+semakin baiknya citra perusahaan,
+loyalitas konsumen semakin tinggi
+sehingga
+dalam
+waktu
+lama
+penjualan perusahaan akan membaik
+dan profitabilitas perusahaan juga
+meningkat. Jika perusahaan berjalan
+lancar, maka nilai saham perusahaan
+akan meningkat dan berdampak
+kepada
+peningkatan
+nilai
+perusahaan.
+Penelitian ini sesuai dengan
+teori Legitimasi yaitu keadaaan
+psikologi
+keberpihakan
+orang,
+pemerintah, individu dan kelompok
+orang yang sangat peka terhadap
+gejala lingkungan sekitarnya baik fisik
+maupun non fisik. Dimana ketika
+keberpihakan masyarakat terhadap
+perusahaan semakin baik maka
+kegiatan operasional perusahaan
+yang
+berhubungan
+dengan
+lingkungan masyarakat akan semakin
+mudah. Kegiatan operasional yang
+bejalan lancar akan membuat
+perusahaan akan semakin baik dan
+berdampak pada peningkatan harga
+saham perusahaan, dimana hal
+tersebut akan meningkatkan nilai
+perusahaan.
+KESIMPULAN
+Kepemilikan
+manajerial
+berpengaruh
+terhadap
+nilai
+perusahaan. Proporsi kepemilikan
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+saham yang dikontrol oleh manajer
+dapat
+mempengaruhi
+kebijakan
+perusahaan. Kepemilikan manajerial
+akan mensejajarkan kepentingan
+manajamen dan pemegang saham
+(outsider ownership), dimana akan
+manajemen cenderung lebih giat
+untuk kepentingan pemegang saham
+yang notabennya adalah dirinya
+sendiri. Peningkatan kepemilikan
+saham
+oleh
+manajemen
+menyebabkan penurunan agency
+cost sehingga akan meningkatkan
+laba
+perusahaan.
+Dengan
+peningkatan permintaan saham akan
+berimbas kepada peningkatkan nilai
+perusahaan.
+Kepemilikan institusional tidak
+berpengaruh
+terhadap
+nilai
+perusahaan. Dengan prosentase
+tingkat kepemilikan institusional yang
+kecil, pengawasan pada pihak
+manajemen dirasa kurang optimal
+dimana pengawasan oleh pihak
+institusional tidak akan berpengaruh
+terhadap
+tingkat
+pengambilan
+keputusan oleh manajemen. Dimana
+naik turunnya nilai perusahaan dapat
+ditentukan dari keputusan pihak
+manajemen.
+Leverage
+berpengaruh
+terhadap nilai perusahaan. Semakin
+besar tingkat hutang yang dimiliki
+perusahaan maka akan semakin
+besar pula resiko investasi yang akan
+berimbas pada penurunan nilai
+perusahaan.
+Perusahaan
+yang
+menggunakan hutang mempunyai
+kewajiban atas beban bunga dan
+beban pokok pinjaman. Penggunaan
+hutang (external financing) memilki
+risiko yang cukup besar atas tidak
+terbayarnya
+hutang,
+sehingga
+penggunaan
+hutang
+perlu
+memperhatikan
+kemampuan
+perusahaan dalam menghasilkan
+laba.
+Firm size tidak berpengaruh
+terhadap
+nilai
+perusahaan.
+perusahaan yang memiliki ukuran
+perusahaan yang kecil tidak berarti
+harga saham yang dimilikinya
+rendah. Investor tidak melihat apakah
+805
+
+saham
+yang
+akan
+dibelinya
+merupakan saham perusahaan besar
+atau kecil, sehingga harapan investor
+terhadap return saham di masa
+mendatang tidak terpengaruh oleh
+besar kecilnya perusahaan. Apabila
+saham
+tersebut
+memiliki
+kecenderungan harga yang akan
+terus mengalami kenaikan, investor
+akan memutuskan untuk membeli
+saham tersebut meskipun saham
+tersebut
+merupakan
+saham
+perusahaan kecil, sehingga nilai
+perusahaan tidak dipengaruhi oleh
+besar kecilnya ukuran perusahaan.
+CSR berpengaruh terhadap
+nilai perusahaan. Peningkatan CSR
+terhadap
+masyarakat
+akan
+menciptakan citra yang baik terhadap
+perusahaan, Investor lebih berminat
+pada perusahaan yang memiliki citra
+yang baik di masyarakat karena
+semakin baiknya citra perusahaan,
+loyalitas konsumen semakin tinggi
+sehingga
+dalam
+waktu
+lama
+penjualan perusahaan akan membaik
+dan profitabilitas perusahaan juga
+meningkat. Jika perusahaan berjalan
+lancar, maka nilai saham perusahaan
+akan meningkat dan berdampak
+kepada
+peningkatan
+nilai
+perusahaan.
+Bagi investor yang ingin
+menanamkan modalnya pada suatu
+perusahaan sebelum melakukan
+investasi hendaknya memperhatikan
+kebijakan perusahaan mengenai
+presentase kepemilikan manajerial,
+kepemilikan institusional, leverage,
+CSR dan ukuran perusahaan.
+DAFTAR PUSTAKA
+Aryani, Dewi. 2011. Kasus Freeport,
+Hilangnya Nurani Pemerintah
+(http://oase.kompas.com)
+BEI. 2012. IDX Yearly Statistics 2008
+- 2012. Indonesia Stock
+Exchange.
+Brigham, E. F. dan Houston, J. F.
+2001. Manajemen Keuangan,
+Edisi Delapan.
+Jakarta:
+Erlangga.
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+Endraswati, Hikmah. 2012. Pengaruh
+Struktur Kepemilikan Dan
+Kebijakan Dividen Terhadap
+Nilai Perusahaan Dengan
+Kebijakan Hutang Sebagai
+Variabel Moderating Pada
+Perusahaan Di Bei. Skripsi
+dipublikasikan.
+STAIN
+Salatiga
+Ghozali, Imam. 2013. Aplikasi
+Analisis Multivariate dengan
+program SPSS. Semarang:
+Badan Penerbit Universitas
+Diponegoro
+Hackston, D. dan Milne, M . J. 1996.
+Some Determinants of Social
+and
+Enviromental
+Disclousures in New Zeland
+Companies.
+Accounting,
+Auditing
+&
+Accountability
+Journal, 9(1): 77-108.
+Hadi, Nor. 2011. Corporate Social
+Responsibility.
+Yogyakarta:
+Graha ilmu
+Haniffa, R.M., dan T.E. Cookee.
+2005, The Impact Of Culture
+And Governance
+On
+Corporate
+Social
+Reporting.
+Journal
+of
+Accounting
+and
+Public
+Policy, 4(2): 391- 430.
+Haruman, Tedi. 2008. Pengaruh
+Struktur
+Kepemilikan
+Terhadap
+Keputusan
+Keuangan
+dan
+Nilai
+Perusahaan.
+Simposium
+Nasional
+Akuntansi
+XI,
+Pontianak.
+Hitt, Michael A et al., 1997.
+Manajemen strategis. Jakarta:
+Erlangga.
+Husnan,
+Suhad
+dan
+Enny
+Pudjiastuti.
+2006.DasarDasar Manajemen
+Keuangan.
+Edisi
+Lima.
+Yogyakarta: BPFE
+Jensen, M dan Meckling, W. 1997.
+Theory of
+the Firm:
+Manajerial Behavior Agency
+Cost,
+and
+Ownership
+Structure, Journal of Finance
+Economics, 3(4): 305-360.
+
+806
+
+Jogiyanto. 2007. Teori Poertofolio
+dan
+Analisis
+Investasi.
+Yogyakarta:BPFE.
+Kusumadilaga,
+Rimba.
+2010.
+Pengaruh Corporate Social
+Responsibility
+Terhadap
+Nilai Perusahaan Dengan
+Profitabilitas
+Sebagai
+Variabel Moderating. Skripsi
+dipublikasikan.
+Semarang.
+Universitas Diponegoro.
+Myers et al., 2008.
+Dasar-dasar
+Manajemen Keuangan, Jilid
+2. Jakarta:
+Erlangga
+Ming Chang Cheng dan Zuwe Ching
+Tzeng. 2011. The Effect of
+Leverage on Firm Value and
+How The Firm Financial
+Quality Influence on This
+Effect. World Journal of
+Management, 3(2): 30-53.
+Mutia, Fitri Mega. 2010. Analisis
+Faktor-Faktor
+Yang
+Mempengaruhi
+Kebijakan
+Hutang Dan Pengaruhnya
+Terhadap Nilai Perusahaan.
+Tesis. Semarang: UNDIP
+Nugroho, Yanuar. 2007. Dilema
+Tanggung Jawab Korporasi
+Kumpulan
+Tulisan.
+(www.unisosdem.org)
+Nuraina, Elva. 2012. Pengaruh
+Kepemilikan
+Institusional
+Dan
+Ukuran
+Perusahaan
+Terhadap Kebijakan Hutang
+Dan Nilai Perusahaan (Studi
+Pada
+Perusahaan
+Manufaktur
+Yang
+Terdaftar Di Bei).
+Jurnal
+Bisnis dan Ekonomi (JBE),
+19(2): 110 – 125
+Novitasari, Endang. 2011. Implikasi
+Struktur
+Kepemilikan
+Terhadap Nilai Perusahaan :
+Dengan Kebijakan Dividen
+Sebagai Variabel Intervening
+Pada Perusahaan Go Public
+Di Bursa Efek Indonesia
+(BEI). Skripsi dipublikasikan.
+Surabaya: STIE Perbanas.
+Permanasari, Wien Ika. 2010.
+Pengaruh
+Kepemilikan
+Manajemen,
+Kepemilikan
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+Febrina Wibawati Sholekah dan Lintang Venusita; Pengaruh Kepemilikan Manajerial ...
+
+Institusional, dan Corporate
+Social
+Responsibility
+Terhadap Nilai Perusahaan.
+Skripsi
+dipublikasikan.
+Semarang: UNDIP.
+Pratiwi, Natassia Louise Elok Anggi.
+2011.
+Pengaruh
+Struktur
+Kepemilikan, Likuiditas,
+Growth, Size, dan Leverage
+Terhadap Nilai Perusahaan.
+Skripsi
+dipublikasikan.
+Surakarta:
+Universitas
+Sebelas Maret.
+Retno M, Reny Dyah dan Denies
+Priantinah. 2012. Pengaruh
+Good
+Corporate
+Governance
+dan
+Pengungkapan
+Corporate
+Social
+Responsibility
+Terhadap Nilai Perusahaan.
+Jurnal Nominal, 1(1): 84-103.
+Rustendi, Tedi dan Farid Jimmi.
+2008. Pengaruh Hutang dan
+Kepemilikan Manajerial
+Terhadap Nilai Perusahaan
+Pada
+Perusahaan
+Manufaktur. Jurnal
+Akuntansi FE Unsil, 3(1): 411422.
+Sari, Reza Kumala. 2005. FaktorFaktor yang Berpengaruh
+Terhadap Nilai Perusahaan
+dengan Investasi Sebagai
+Variabel Moderating. Tesis
+tidak
+diterbitkan.
+Universitas Diponegoro.
+Sari, Rizkia Anggita. 2012. Pengaruh
+Karakteristik
+Perusahaan
+Terhadap Corporate Social
+Responsibility
+Disclosure
+Pada
+Perusahaan
+Manufaktur
+yang Terdaftar
+Di Bursa Efek Indonesia.
+Jurnal Nominal, 1(1): 124140.
+Sartono, Agus. 2001. Manajemen
+keuangan,
+Edisi
+Ketiga.
+Yogyakarta:BPFE
+Sheng Syan Chen dan Kim Wai Ho.
+2000. Corporate diversification,
+ownership structure, and firm
+value The Singapore evidence.
+International
+Review
+of
+807
+
+Financial Analysis, 9(1): 315326.
+Sudana, I Made. 2011. Manajemen
+Keuangan Perusahaan Teori
+& Praktik. Jakarta: PT.
+Gelora Aksara Pratama.
+Sofyaningsih, Sri dan Pancawati
+Hardiningsih. 2011. Struktur
+Kepemilikan, Kebijakan
+Dividen, Kebijakan Utang
+Dan
+Nilai
+Perusahaan
+Ownership
+Structure,
+Dividend Policy And Debt
+Policy
+And Firm Value.
+Jurnal Dinamika Keuangan
+Dan Perbankan, 3(1): 68 –
+87.
+Tamayo, Ane dan Henri Servaes.
+2012.
+The
+Impact
+of
+Corporate
+Social
+Responsibility
+on
+Firm
+Value: The Role of Customer
+Awareness. Management
+Science Journal.
+Tarjo. 2008. Pengaruh Konsentrasi
+Kepemilikan Institusiona dan
+Leverage
+Terhadap
+Manajemen
+Laba,Nilai
+Pemegang saham serta Cost
+of Equity Capital. Simposium
+Nasioanal
+Akuntansi
+XI.
+Pontianak.
+Thomsen, Steen. 2004. Blockholder
+Ownership, Dividends and
+Firm Value in Continental
+Europe. European Business
+Organization Law Review,
+6(2).
+Wahyudi, Untung dan Prawestri,
+Hartini Prasetyaning. 2006.
+Implikasi
+Struktur
+Kepemilikan Terhadap Nilai
+Perusahaan
+dengan
+Keputusan
+Keuangan
+Sebagai Variabel Intervening.
+Simposium
+Nasional
+Akuntansi 9.KAKPM 17.
+Weston, J. Fred dan Thomas E.
+Copeland. 1992. Manajemen
+Keuangan.
+Edisi
+kedelapan, jilid dua. Jakarta :
+Erlangga
+
+Jurnal Ilmu Manajemen | Volume 2 Nomor 3 Juli 2014
+
+

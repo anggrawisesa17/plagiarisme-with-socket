@@ -1,0 +1,1136 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/318909013
+
+ANALISIS POTENSI PEREKONOMIAN SEKTOR
+PERTANIAN, KEHUTANAN, DAN PERIKANAN
+SERTA PERTAMBANGAN DAN...
+Conference Paper · December 2016
+CITATIONS
+
+READS
+
+0
+
+392
+
+4 authors, including:
+Moh. Dede
+Universitas Pendidikan Indonesia
+4 PUBLICATIONS 0 CITATIONS
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+GIS and Crime View project
+
+All content following this page was uploaded by Moh. Dede on 04 August 2017.
+
+The user has requested enhancement of the downloaded file.
+
+Prosiding Seminar Nasional
+
+Epicentrum 5.5 | Bandung, 13 Desember 2016
+
+Optimalisasi Sumber Daya Alam Matra Darat dan Matra Lautan
+untuk Ketahanan Pangan dan Kesehatan dalam Konteks Nasionalisme
+
+ANALISIS POTENSI PEREKONOMIAN SEKTOR PERTANIAN, KEHUTANAN, DAN
+PERIKANAN SERTA PERTAMBANGAN DAN PENGGALIAN
+DI PANTURA JAWA BARAT
+Moh. Dede1, Rizal Sahidin Banyu Sewu2 , Meisa Yutika3, Fatich Ramadhan4
+1
+
+Pendidikan Geografi, Universitas Pendidikan Indonesia
+Jalan Dr. Setiabudhi No. 229 Bandung 40254, m.dede.geo@gmail.com
+2
+
+Ilmu Ekonomi dan Studi Pembangunan, Universitas Padjadjaran
+Jalan Dipati Ukur No. 35 Bandung 40132, jovanadriandavion@gmail.com
+3
+
+Hukum Ekonomi Syariah, Universitas Islam Negeri Sunan Gunung Djati
+Jalan A.H. Nasution No. 105 Bandung 40614, meisa.eca8@gmail.com
+4
+
+Pendidikan Geografi, Universitas Pendidikan Indonesia
+Jalan Dr. Setiabudhi No. 229 Bandung 40254, fatich35@gmail.com
+
+ABSTRAK
+Kekayaan sumber daya alam di Indonesia begitu melimpah, baik di darat maupun perairan yang
+menjadi penggerak ekonomi di tingkat daerah hingga nasional. Salah satu provinsi yang
+menyumbang produk domestik regional bruto (PDRB) terbanyak adalah Jawa Barat (14,17 persen).
+Sebanyak 33,88 persen PDRB Jawa Barat berasal dari wilayah pantura yang terdiri atas Kabupaten
+Bekasi, Kabupaten Cirebon, Kabupaten Indramayu, Kabupaten Karawang, Kabupaten Subang, dan
+Kota Cirebon. Pantura Jawa Barat dikenal sebagai wilayah sentra pertanian, kehutanan, dan
+perikanan serta pertambangan dan penggalian. Penelitian ini bertujuan untuk mengetahui potensi
+optimalisasi berbagai sektor yang bertumpu pada sumber daya alam darat dan perairan di Pantura
+Jawa Barat. Metode penelitian yang digunakan adalah ex post facto dengan menggunakan data dari
+Badan Pusat Statistik (BPS) tahun 2011 hingga 2015 yang dianalisis menggunakan ‘multiplier effect‘
+model Tiebout (dengan ‘Locational Quotient‘ atau LQ), Model Rasio Pertumbuhan (MRP) yang terdiri
+atas Rasio Pertumbuhan Wilayah Studi (RPs) dan Rasio Pertumbuhan Wilayah Referensi (RPr), dan
+analisis ‘overlay‘. Berdasarkan analisis ini diketahui bahwa pemanfaatan sumber daya darat dan
+perairan di berbagai sektor yang tercermin dari pertambangan dan penggalian sebagai sektor
+unggulan di Pantura Jawa Barat dengan nilai multiplier effect (LQ), RPs, dan RPr selama lima tahun
+sebesar 22,50 (1,87), 1,40, dan -0,15. Hal ini berarti sektor pertambangan dan penggalian merupakan
+spesialisasi ekonomi di Pantura Jawa Barat. Melalui penelitian ini diharapkan memberikan
+pemahaman bagi pemerintah dan masyarakat dalam rangka optimalisasi pemanfataan sumber daya
+alam darat dan perairan guna menggairahkan marwah pembangunan yang berkelanjutan.
+Kata Kunci: analisis overlay, LQ, multiplier effect, MRP, Pantura Jawa Barat
+
+A.
+
+PENDAHULUAN
+
+Indonesia merupakan negara yang kaya akan sumber daya alam, baik yang tersebar di darat
+(terestrial) maupun di perairan (akuatis). Keberadaan sumber daya alam darat dan perairan dalam
+perekomian nasional secara langsung tergambar pada sumbangan sektor pertanian, kehutananan,
+dan pertambangan serta sektor pertambangan dan penggalian terhadap Produk Domestik Bruto
+(PDB) atau Gross National Product (GNP) dengan rata-rata tahunan sebesar 23,16 persen dalam
+rentang tahun 2011 s.d. 2015 (BPS, 2015 hlm. 67-70). Hal ini menjadikan kekayaan sumber daya alam
+terestrial dan akuatis di Indonesia berpotensi sebagai pasar investasi baru di dunia selain Brazil, Peru,
+Rusia, dan Afrika Selatan yang sering disebut sebagai Commodity-Rich Countries dengan pangsa pasar
+
+ISSN: 2580-1333
+Halaman 100 dari 108
+Departemen Pendidikan Geografi, Fakultas Pendidikan Ilmu Pengetahuan Sosial
+Universitas Pendidikan Indonesia
+
+Seminar Nasional Epicentrum 5.5 | http://geografi.upi.edu/
+
+Indonesia yang terdiri atas bahan baku (10 persen) dan energi (17 persen) (S&P Global Division, 2011
+hlm. 16-20; David, 2011; Sauter, dkk., 2012).
+Produk Domestik Bruto (PDB) di suatu negara merupakan hasil gabungan dari berbagai
+produk domestik bruto pada tingkat regional yang dikenal sebagai Produk Domestik Regional Bruto
+(BPS Jawa Barat, 2016 hlm. 1). Salah satu provinsi yang menyumbang produk domestik regional bruto
+(PDRB) terbanyak yaitu 14,17 persen bagi PDB Nasional pada tahun 2013 dengan presentase sektor
+pertanian, kehutanan, dan perikanan serta sektor pertambangan dan penggalian sebesar 10,25
+persen (Kementerian Koordinator Bidang Perekonomian Republik Indonesia, 2013). Di Jawa Barat
+sendiri, terdapat kawasan Pantura Jawa Barat yang menyumbangkan 33,88 persen nilai PDRB.
+Kenyataannya, Hanya sekitar 12 persen PDRB Pantura Jawa Barat berasal dari sektor primer, seperti
+pertanian, kehutanan, perikanan, pertambangan, dan penggalian, padahal lebih dari 30 persen
+wilayahnya merupakan lahan yang dimanfaatkan pada sektor-sektor tersebut (BPS Kabupaten
+Bekasi, 2016 hlm. 92; BPS Kabupaten Cirebon, 2016 hlm. 92; BPS Kabupaten Indramayu, 2016 hlm. 67;
+BPS Kabupaten Subang, 2016 hlm. 61; BPS Kota Cirebon, 2016 hlm. 72). Secara geografis, Pantura
+Jawa Barat memiliki potensi pertanian dan perikanan yang tinggi sebagai wilayah dataran rendah dan
+pesisir bila dibandingkan dengan wilayah yang memiliki corak pegunungan (Sultani, 2016 hlm. 14).
+Oleh karena itu, penentuan pengembangan berbagai sektor unggulan di suatu wilayah baik
+bersifat regional maupun nasional dalam rangka awal optimalisasi pembangunan harus dilakukan.
+Hal ini diharapkan agar sesuai dengan misi Provinsi Jawa Barat yang tertuang dalam Rencana
+Pembangunan Jangka Menengah Daeerah Tahun 2013-2018 yaitu membangun perkonomian serta
+meningkatnya pembangunan ekonomi regional di Jawa Barat dapat terwujud dengan baik (Pemprov
+Jawa Barat, 2013 hlm. V-3).
+Atas dasar hal tersebut, tujuan penelitian pada artikel ini dimaksudkan untuk mengetahui
+potensi optimalisasi berbagai sektor ekonomi yang bertumpu pada sumber daya alam darat dan
+perairan di Pantura Jawa Barat. Dengan lingkup bahwa berbagai macam pemanfaatan sumber daya
+alam darat dan perairan di berbagai sektor tercermin di sektor pertanian, kehutanan, dan perikanan
+serta sektor pertambangan dan penggalian yang didasarkan pada nilai pendapatan pada masingmasing sektor yang memberikan sumbangsih berarti terhadap perekenonomian (Raven, Hassenzahl,
+dan Berg, 2013 hlm. 30).
+
+B.
+
+METODE PENELITIAN
+
+Penelitian ini menggunakan data PDRB dari Badan Pusat Statistik (BPS) tahun 2011 hingga
+2015 meliputi Kabupaten Bekasi, Kabupaten Cirebon, Kabupaten Indramayu, Kabupaten Karawang,
+Kabupaten Subang, Kota Cirebon, dan Provinsi Jawa Barat yang kemudian dianalisis menggunakan
+multiplier effect model Tiebout, Locational Quotien atau LQ, Model Rasio Pertumbuhan (MRP) yang
+terdiri atas Rasio Pertumbuhan Wilayah Studi (RPs) dan Rasio Pertumbuhan Wilayah Referensi (RPr),
+dan analisis overlay yang kemudian diinterpretasikan oleh penulis. Metode penelitian yang
+digunakan adalah ex post facto mempergunakan data PDB dan PDRB dengan nilai harga konstan,
+karena nilai harga konstan mampu menunjukan laju pertumbuhan ekonomi secara riil dan
+menyeluruh pada setiap sektor dari tahun ke tahun tanpa terpengaruh oleh inflasi (BPS Jawa Barat,
+2016 hlm. 2). Selain itu, pemilihan penggunaan data pendapatan (PDRB) merupakan pilihan terbaik
+bila didandingkan dengan data tenaga kerja. Hal ini terjadi karena bobot dan distribusi tenaga kerja
+berbeda-beda dan dipengaruhi oleh SDM (Tarigan, 2015 hlm. 31).
+
+Halaman 101 dari 108
+
+Seminar Nasional Epicentrum 5.5 | http://geografi.upi.edu/
+
+Gambar 1. Kerangka Operasional
+C.
+
+TINJAUAN TEORITIS
+
+1. Multiplier Effect dan Locational Quotient
+Dalam teori basis ekonomi, perkembangan suatu wilayah ditentukan oleh besarnya
+permintaan ekspor (demand) oleh sektor basis (Tarigan, 2015 hlm. 28; Mankiw, 2012 hlm. 556).
+Sedangkan sektor non basis merupakan sektor yang mencukupi kebutuhan internal wilayah tersebut
+saja atau subsisten (Dicken dan Lloyd, 1990 hlm. 390).
+Penentuan kemampuan tiap sektor ekonomi (basis dan non basis) dapat menggunakan
+locational quotient (LQ) sebagai sebagai langkah awal untuk memahami sektor basis disuatu wilayah
+sebagai pemacu pertumbuhan (Gantara dan Achamadi, 2012 hlm. 1). Sedangkan, multiplier effect atau
+pengganda basis didasarkan pada hubungan berbagai sektor pembentuk ekonomi yang saling terkait
+serta memiliki ketergantungan dalam ekonomi di suatu wilayah. Sehingga, setiap perubahan pada
+sektor basis sebagai salah satu sektor pembentuk ekonomi, akan mempengaruhi perubahan struktur
+ekonomi secara keseluruhan di suatu wilyah (Manacika, 2010 hlm. 11; Sukma 2015 hlm. 104).
+Perhitungan multiplier effect dan locational quotient dapat dilakukan dengan menggunakan
+data pendapatan atau ketenagakerjaan, baik dalam bentuk tunggal maupun data berseri (data
+series).
+
+a.
+
+Menentukan Sektor Basis dan Non Basis dengan LQ
+
+Dengan ketentuan, jika nilai LQ > 1 maka sektor tersebut merupakan sektor basis, tetapi
+apabila nilai LQ ≤ 1 disebut sebagai sektor non basis (Tarigan, 2015 hlm. 35; Muta’ali, 2015 hlm. 95).
+
+b.
+
+Menentukan Nilai Pengganda Basis (PB)
+PB
+
+𝑌𝑡𝑜𝑡𝑎𝑙
+𝑌𝑏𝑎𝑠𝑖𝑠
+
+1
+𝑌 𝑛𝑜𝑛 𝑏𝑎𝑠𝑖𝑠
+1−
+𝑌 𝑡𝑜𝑡𝑎𝑙
+
+Nilai pengganda basis yang tinggi diinterpretasikan sebagai kemampuan kinerja
+sektor basis dalam menunjang kinerja sektor non basis yang menyebabkan pertumbuhan
+dan pembangunan wilayah menjadi tinggi. Nilai pengganda basis ditentukan oleh YTotal
+merupakan PDRB Total, YBasis merupakan pendapatan sektor basis, Ynon basis merupakan pendapatan
+sektor non basis, dan LQ adalah Locational Quotient
+
+Halaman 102 dari 108
+
+Seminar Nasional Epicentrum 5.5 | http://geografi.upi.edu/
+
+2. Analisis Model Rasio Pertumbuhan (MRP)
+Analisis Model Rasio Pertumbuhan (MRP) Analisis MRP merupakan alat analisis untuk
+melihat deskripsi kegiatan atau sektor ekonomi yang potensial berdasarkan pada kriteria
+pertumbuhan struktur ekonomi wilayah baik eksternal maupun internal (Nisa, 2014 hlm. 55). Analisis
+MRP ini dibagi lagi ke dalam dua kriteria, yaitu Rasio Pertumbuhan Wilayah Studi (RPs) dan Rasio
+Pertumbuhan Wilayah Referensi (RPr). Berikut ini penjelasan beberapa kriteria dalam analisis MRP.
+a. Rasio pertumbuhan wilayah studi (RPs) yaitu perbandingan antara pertumbuhan pendapatan.
+Dalam hal ini ialah pertumbuhan PDRB sektor i di wilayah kajian dengan pertumbuhan
+pendapatan PDRB sektor i di wilayah referensi (kabupaten/kota/kawasan terhadap Provinsi).
+⁄
+⁄
+Keterangan :
+∆Eij
+= Perubahan PDRB sektor i di wilayah
+Eij
+= PDRB sektor i di wilayah j pada awal tahun penelitian
+∆Ein
+= Perubahan PDRB sektor i secara nasional/provinsi
+Ein
+= PDRB sektor i secara nasional/provinsi pada awal tahun penelitian
+Jika RPs lebih besar dari 1 maka RPs dikatakan (+), berarti pertumbuhan suatu sektor
+produksi tertentu di tingkat kabupaten atau kota lebih tinggi dari pertumbuhan sektor produksi
+tertentu provinsi dan jika RPs lebih kecil dari 1 dikatakan (-), berarti pertumbuhan suatu sektor
+produksi tertentu di tingkat kabupaten/kota/kawasan lebih rendah dari pertumbuhan sektor provinsi
+(Sabar, 2015 hlm. 54).
+b. Rasio pertumbuhan wilayah referensi (RPr) yaitu perbandingan antara laju pertumbuhan
+pendapatan kegiatan i di wilayah referensi dengan laju pertumbuhan total kegiatan (PDRB)
+wilayah referensi (Provinsi).
+⁄
+⁄
+Keterangan:
+∆Ein
+= Perubahan PDRB sektor i secara nasional/provinsi
+Ein
+= PDRB sektor i secara nasional/provinsi pada awal tahun penelitian
+∆En
+= Perubahan PDRB nasional/provinsi
+En
+= Total PDRB nasional/Provinsi pada awal tahun penelitian
+Jika nilai RPr > 1 diberi notasi positif (+) yang menunjukkan pertumbuhan suatu sektor
+tertentu dalam wilayah referensi (provinsi/nasional) lebih tinggi dari pertumbuhan PDRB total
+wilayahnya, sedangkan nilai RPr < 1 diberi notasi negatif (-) yang menunjukkan pertumbuhan suatu
+sektor tertentu dalam wilayah referensi (provinsi/nasional) lebih rendah dari pertumbuhan PDRB
+total wilayahnya (Putra, 2013 hlm. 37).
+
+3. Analisis Overlay
+Analisis Overlay digunakan untuk menentukan sektor unggulan dengan menggabungkan
+alat analisis untuk menyaring hasil analisis yang paling baik. Nilai positif (+) merupakan sektor
+unggulan dan begitu juga sebaliknya (Sabar, 2015 hlm. 54). Notasi positif berarti koefisien komponen
+lebih dari satu dan negatif kurang dari satu.
+Terdapat tiga kriteria dalam analisis overlay (Sabar, 2015 hlm. 54-55), yaitu :
+a. RPr, RPs, dan LQ ketiganya bernilai positif (+), berarti sektor tersebut mempunyai potensi
+daya saing kompetitif maupun komparatif yang lebih unggul dibanding sektor yang sama di
+tingkat provinsi.
+
+Halaman 103 dari 108
+
+Seminar Nasional Epicentrum 5.5 | http://geografi.upi.edu/
+
+b.
+c.
+
+RPr bernilai negatif (-), sedangkan RPs dan LQ bernilai positif (+), berarti sektor tersebut
+merupakan spesialisasi kegiatan ekonomi di kabupaten/kota/kawasan.
+RPr, RPs, dan LQ ketiganya bernilai negatif (-), berarti sektor tersebut kurang memiliki daya
+saing kompetitif maupun komparatif yang lebih unggul dibandingkan sektor yang sama
+pada tingkat provinsi.
+
+D. HASIL DAN PEMBAHASAN
+Demi kemudahan penyajian data hasil analisis, maka nama tiap-tiap sektor dan wilayah
+Administrasi di Pantura Jawa Barat disingkat dengan kode-kode pada tabel 1.
+Tabel 1. Keterangan Singkatan Nama Wilayah dan Sektor Kajian
+Singkatan
+
+Jenis
+
+Keterangan
+
+KB
+
+Wilayah Administrasi
+
+Kabupaten Bekasi
+
+KC
+
+Wilayah Administrasi
+
+Kabupaten Cirebon
+
+KI
+
+Wilayah Administrasi
+
+Kabupaten Indramayu
+
+KK
+
+Wilayah Administrasi
+
+Kabupaten Karawang
+
+KS
+
+Wilayah Administrasi
+
+Kabupaten Subang
+
+KoC
+
+Wilayah Administrasi
+
+Kota Cirebon
+
+PKP
+
+Sektor Ekonomi
+
+Pertanian, Kehutanan, dan Perikanan
+
+PP
+
+Sektor Ekonomi
+
+Pertambangan dan Penggalian
+
+1. Locational Quotient (LQ) dan Pengganda Basis (PB) di Pantura Jawa Barat
+Berdasarkan pengolahan data, diketahui bahwa Nilai LQ (Locational Quotient) pada sektor
+pertanian, kehutanan, dan perikanan (PKP) sebesar 0,77 (sektor non basis) serta sektor
+pertambangan dan penggalian (PP) sebesar 1,87 (sektor basis) selama tahun 2011 hingga 2015. Oleh
+karena itu, di kawasan Pantura Jawa Barat didapatkan bahwa sektor pertambangan dan penggalian
+yang menjadi sektor basis di kawasan Pantura Jawa Barat. Hasil selengkapnya disajikan pada tabel 2.
+Tabel 2. Sektor Pertanian, Kehutanan, dan Perikanan (PKP) serta Sektor Pertambangan dan
+Penggalian (PP) di Kawasan Pantura Jawa Barat Tahun 2011 hingga 2015
+LQ Kawasan Pantura Jawa Barat
+KB
+
+KC
+
+KI
+
+KK
+
+KS
+
+KoC
+
+Rataan
+LQ
+
+2011
+
+0,17
+
+2,04
+
+1,62
+
+0,49
+
+3,30
+
+0,04
+
+1,28
+
+0,74
+
+-
+
+PP
+
+2011
+
+0,87
+
+0,58
+
+5,19
+
+1,35
+
+5,73
+
+0,00
+
+2,29
+
+1,80
+
++
+
+PKP
+
+2012
+
+0,17
+
+2,12
+
+1,75
+
+0,48
+
+3,54
+
+0,04
+
+1,35
+
+0,75
+
+-
+
+PP
+
+2012
+
+0,78
+
+0,64
+
+6,41
+
+1,20
+
+4,88
+
+0,00
+
+2,32
+
+1,82
+
++
+
+PKP
+
+2013
+
+0,18
+
+2,17
+
+1,86
+
+0,49
+
+3,59
+
+0,04
+
+1,39
+
+0,77
+
+-
+
+PP
+
+2013
+
+0,63
+
+0,71
+
+7,14
+
+1,27
+
+5,22
+
+0,00
+
+2,50
+
+1,86
+
++
+
+PKP
+
+2014
+
+0,17
+
+2,18
+
+1,93
+
+0,49
+
+3,69
+
+0,04
+
+1,42
+
+0,78
+
+-
+
+PP
+
+2014
+
+0,63
+
+0,74
+
+7,33
+
+1,30
+
+5,58
+
+0,00
+
+2,60
+
+1,91
+
++
+
+PKP
+
+2015
+
+0,17
+
+2,17
+
+2,07
+
+0,49
+
+3,91
+
+0,05
+
+1,48
+
+0,81
+
+-
+
+PP
+
+2015
+
+0,64
+
+0,77
+
+7,85
+
+1,30
+
+5,62
+
+0,00
+
+2,70
+
+1,98
+
++
+
+Rata-Rata LQ Sektor PKP Kawasan Pantura Jawa Barat (Non Basis)
+
+0,77
+
+-
+
+Rata-Rata LQ Sektor PP Kawasan Pantura Jawa Barat (Basis)
+
+1,87
+
++
+
+Sektor
+
+Tahun
+
+PKP
+
+LQ
+Kawasan
+
+Notasi
+
+Halaman 104 dari 108
+
+Seminar Nasional Epicentrum 5.5 | http://geografi.upi.edu/
+
+Tabel 3. PB Sektor Pertanian, Kehutanan, dan Perikanan (PKP) serta Sektor Pertambangan dan
+Penggalian (PP) di Kawasan Pantura Jawa Barat Tahun 2011 hingga 2015
+PB Wilayah Kawasan Jawa Barat
+KB
+
+KC
+
+KI
+
+KK
+
+KS
+
+KoC
+
+Rataan
+PB
+
+2011
+
+-
+
+5,44
+
+6,84
+
+-
+
+3,37
+
+-
+
+5,22
+
+0,74
+
+-
+
+PP
+
+2011
+
+-
+
+-
+
+6,50
+
+25,04
+
+5,89
+
+-
+
+15,77
+
+1,80
+
+18,73
+
+PKP
+
+2012
+
+-
+
+5,68
+
+6,67
+
+-
+
+3,38
+
+-
+
+5,24
+
+0,75
+
+-
+
+PP
+
+2012
+
+-
+
+-
+
+5,91
+
+32,63
+
+7,97
+
+-
+
+15,50
+
+1,82
+
+PKP
+
+2013
+
+-
+
+5,80
+
+6,38
+
+-
+
+3,35
+
+-
+
+5,18
+
+0,77
+
+21,51
+-
+
+PP
+
+2013
+
+-
+
+-
+
+5,71
+
+34,15
+
+7,91
+
+-
+
+15,92
+
+1,86
+
+PKP
+
+2014
+
+-
+
+6,17
+
+6,25
+
+-
+
+3,31
+
+-
+
+5,24
+
+0,78
+
+PP
+
+2014
+
+-
+
+-
+
+5,61
+
+35,26
+
+7,46
+
+-
+
+16,11
+
+1,91
+
+PKP
+
+2015
+
+-
+
+6,71
+
+6,19
+
+-
+
+3,22
+
+-
+
+5,37
+
+0,81
+
+24,03
+-
+
+PP
+
+2015
+
+-
+
+-
+
+5,53
+
+37,34
+
+7,59
+
+-
+
+16,82
+
+1,98
+
+24,98
+
+Sektor
+
+Tahun
+
+PKP
+
+Rata-Rata PB Kawasan
+
+LQ
+Kawasan
+
+PB
+Kawasan
+
+23,24
+-
+
+22,50
+
+Berdasarkan tabel 2, diketahui bahwa sektor pertanian, kehutanan, dan perikanan yang
+menjadi sektor basis hanya berada di 3 wilayah, yaitu Kabupaten Cirebon (2,13), Kabupaten
+Indramayu (1,84), dan Kabupaten Subang (3,60). Sedangkan, pada sektor pertambangan dan
+penggalian terlihat yang menjadi sektor basis, terjadi di 3 Kabupaten, yaitu Kabupaten Indramayu
+(6,78), Kabupaten Karawang (1,28), dan Kabupaten Subang (5,40). Selain itu, dari tabel 2 juga dapat
+diketahui bahwa wilayah dataran fluvial di Kabupaten Bekasi dan Kota Cirebon sudah tidak
+diorientasikan untuk kegiatan di sektor primer. Hal ini yang menyebabkan kedua sektor tersebut
+(PKP dan PP) sudah tidak menjadi sektor basis.
+Guna mengetahui dampak pengganda basis sektor unggulan di kawasan Pantura Jawa
+Barat, digunakanllah analisis multiplier effect. Dari analisis ini, diketahui bahwa sektor pertanian,
+kehutanan, dan perikanan tidak mempunyai pengganda basis atau PB karena LQ wilayah tersebut
+terhadap Jawa Barat yang tidak terpenuhi. Sedangkan sektor pertambangan dan penggalian (PP)
+memilki nilai PB sebesar 22,50. Hal ini berarti setiap perubahan 1 angka pada sektor PP akan
+mengakibatkan perubahan pada sektor non basis sebesar 22,50 kali. Hasil selengkapnya mengenai
+pengganda basis di kawasan Pantura Jawa Barat tersaji pada tabel 3.
+Berdasarkan tabel tersebut pula, diketahui bahwa Kabupaten Karawang memiliki
+pengganda basis sebesar 33,8 dengan laju perubahan sebesar 12,3 dari tahun 2011 hingga 2015 pada
+sektor pertambangan dan penggalian, angka ini menunjukan bahwa sektor tersebut merupakan
+sektor unggulan. Bahkan laju perubahan nilai PB di Kabupaten Karawang diatas PB kawasan Pantura
+Jawa Barat yang memiliki nilai sebesar 6,25.
+
+2. Model Rasio Pertumbuhan (MRP) di Pantura Jawa Barat
+Melalui analisis model rasio pertumbuhan, diketahui bahwa sektor pertambangan dan
+penggalian (pp) memiliki pertumbuhan yang rendah di tingkat provinsi, tetapi mempunyai
+pertumbuhan yang tinggi di tingkat kawasan Panturan Jawa Barat. Sedangkan sektor pertanian,
+kehutanan, dan perikanan memiliki pertumbuhan yang rendah baik di Pantura Jawa Barat maupun
+Provinsi Jawa Barat. Hasil selengkapnya mengenai model rasio pertumbuhan di Pantura Jawa Barat
+dan Provinsi Jawa Barat tersaji pada tabel 4 dan 5.
+
+Halaman 105 dari 108
+
+Seminar Nasional Epicentrum 5.5 | http://geografi.upi.edu/
+
+Tabel 4. RPs Sektor Pertanian, Kehutanan, dan Perikanan (PKP) serta Sektor Pertambangan dan
+Penggalian (PP) di Kawasan Pantura Jawa Barat Tahun 2011 hingga 2015
+RPs dan Notasi Kawasan Pantura Jawa Barat Tahun 2011 s.d. 2015
+
+Sektor
+
+KB
+
+Not.
+
+KC
+
+Not.
+
+KI
+
+Not.
+
+KK
+
+Not.
+
+KS
+
+Not.
+
+KoC
+
+Not.
+
+PKP
+
+-1,78
+
+-
+
+-0,21
+
+-
+
+2,00
+
++
+
+0,00
+
+-
+
+0,87
+
+-
+
+0,40
+
+-
+
+PP
+
+6,35
+
++
+
+-1,82
+
+-
+
+-3,09
+
+-
+
+2,85
+
++
+
+3,90
+
++
+
+0,00
+
++
+
+Tabel 5. MRP Sektor Pertanian, Kehutanan, dan Perikanan (PKP) serta Sektor Pertambangan dan
+Penggalian (PP) di Kawasan Pantura Jawa Barat Tahun 2011 hingga 2015
+Sektor
+
+RPs Pantura Jawa Barat
+
+RPr Provinsi Jawa Barat
+
+Nilai
+
+Notasi
+
+Nilai
+
+Notasi
+
+PKP
+
+0,58
+
+-
+
+0,14
+
+-
+
+PP
+
+1,41
+
++
+
+-0,15
+
+-
+
+3. Analisis Overlay di Pantura Jawa Barat
+Analisis overlay menggunakan LQ rata-rata sebagai kriteria kontribusi selama periode 2011
+hingga 2015. Sedangkan untuk kriteria pertumbuhan menggunakan analisis MRP, tepatnya
+menggunakan nilai RPs rata-rata selama periode 2011 hingga 2015 di Pantura Jawa Barat.
+Tabel 6. Hasil Analisis Overlay Sektor Pertanian, Kehutanan, dan Perikanan (PKP) serta Sektor
+Pertambangan dan Penggalian (PP) di Kawasan Pantura Jawa Barat
+Tahun 2011 hingga 2015
+
+Sektor
+PKP
+PP
+
+RPs Pantura
+Jawa Barat
+Nilai
+Notasi
+0,58
+1,41
++
+
+RPr Provinsi
+Jawa Barat
+Nilai
+Notasi
+0,14
+-0,15
+-
+
+LQ Pantura
+Jawa Barat
+Nilai
+Notasi
+0,77
+1,87
++
+
+Hasil
+Overlay
+--+-+
+
+Berdasarkan analisis ini, diketahui bahwa sektor pertanian, kehutanan, dan perikanan di
+Kawasan Pantura Jawa Barat kurang memiliki daya saing kompetitif maupun komparatif yang lebih
+unggul dibandingkan dengan sektor yang sama di Provinsi Jawa Barat. Sementara itu, sektor
+pertambangan dan penggalian merupakan spesialisasi kegiatan ekonomi di kawasan Pantura Jawa
+Barat. Dari analisis ini pula terlihat bahwa sektor yang langsung bertumpu pada pemanfataan sumber
+daya alam di kawasan Pantura Jawa Barat belum memliki daya saing kompetitif maupun komparatif
+yang lebih unggul dibanding sektor yang sama di tingkat Provinsi Jawa Barat. Hal ini menunjukan
+bahwa optimalisasi pemanfaatan sumber daya alam baik terrestrial dan akuatis di Pantura Jawa
+Barat masih belum optimal dan hanya unggul pada sektor pertambangan dan penggalian.
+
+E.
+
+PENUTUP
+
+Hasil penelitian ini menunjukan bahwa sektor basis yang bertumpu secara langsung dengan
+sumber daya alam baik terrestrial dan akuatis di kawasan Pantura Jawa Barat bertumpu pada sektor
+pertambangan dan penggalian selama periode 2011 hingga 2015. Sektor ini memiliki pengganda basis
+22,50. Selain itu, berdasarkan analisis model rasio pertumbuhan juga diketahui bahwa sektor
+pertambangan dan penggalian di kawasan Pantura Jawa Barat memilki pertumbuhan yang melebihi
+pertumbuhan sektor yang sama di Provinsi Jawa Barat. Akhirnya, semua model analisis tersebut
+disatukan dalam bentuk analisis overlay yang menujukan bahwa sektor pertambangan dan
+
+Halaman 106 dari 108
+
+Seminar Nasional Epicentrum 5.5 | http://geografi.upi.edu/
+
+penggalian di Pantura Jawa Barat memiliki potensi daya saing yang unggul di Provinsi Jawa Barat.
+Diharapkan melalui penelitian ini mampu meningkatkan marwah dan upaya pembangunan ekonomi
+yang bertumpu pada sektor-sektor unggulan, khususnya yang berbasis pada optimalisasi
+pemanfataan sumber daya alam baik di tingkat regional maupun nasional dapat berjalan dengan baik
+dan berkelanjutan.
+
+F.
+
+DAFTAR PUSTAKA
+
+Badan Pusat Statistik [BPS]. (2015). Produk Domestik Bruto Indonesia Triwulanan 2011-2015. Jakarta:
+BPS.
+Badan Pusat Statistik Kabupaten Bekasi [BPS Kab. Bekasi]. (2016). Produk Domestik Regional Bruto
+Kabupaten Bekasi menurut Lapangan Usaha 2011-2015. Bekasi: BPS Kab. Bekasi.
+Badan Pusat Statistik Kabupaten Cirebon [BPS Kab. Cirebon]. (2016). Produk Domestik Regional Bruto
+Kabupaten Cirebon menurut Lapangan Usaha 2011-2015. Sumber: BPS Kab. Cirebon.
+Badan Pusat Statistik Kota Cirebon [BPS Kota Cirebon]. (2016). Produk Domestik Regional Bruto Kota
+Cirebon menurut Lapangan Usaha 2011-2015. Cirebon: BPS Kota Cirebon.
+Badan Pusat Statistik Kabupaten Indramayu [BPS Kab. Indramayu]. (2016). Produk Domestik Regional
+Bruto Kabupaten Indramayu menurut Lapangan Usaha 2011-2015. Indramayu BPS Kab.
+Indramayu.
+Badan Pusat Statistik Provinsi Jawa Barat [BPS Jawa Barat]. (2016). Produk Domestik Regional Bruto
+Provinsi Jawa Barat menurut Lapangan Usaha 2011-2015. Bandung: BPS Prov. Jabar.
+Badan Pusat Statistik Kabupaten Karawang [BPS Kab. Cirebon]. (2016). Produk Domestik Regional
+Bruto Kabupaten Karawang menurut Lapangan Usaha 2011-2015. Karawang: BPS Kab. Cirebon.
+Badan Pusat Statistik Kabupaten Subang [BPS Kab. Cirebon]. (2016). Produk Domestik Regional Bruto
+Kabupaten Subang menurut Lapangan Usaha 2011-2015. Sumber: BPS Kab. Subang.
+David. (2011). Top Resource-Rich Countries with Exposure to Emerging Markets. Tersedia [dalam
+jaringan] http://topforeignstocks.com/2011/07/30/top-resource-rich-countries-with-exposureto-emerging-markets/. Diakses 4 Desember 2016.
+Gantara, W. P. dan T. Achmadi. (2012). “Model Pengembangan Wilayah Untuk Pembangunan
+Pelabuhan: Studi Kasus Pantai Selatan Jawa Timur”. Jurnal Teknik Pomits (Publikasi Ilmiah
+Online Mahasiswa ITS), Vol. 1, No. 1, hlm. 1-6.
+Kementerian Koordinator Bidang Perekonomian Republik Indonesia. (2013). DKI Jakarta, Jawa Timur,
+dan Jawa Barat Penyumbang Terbesar PDB Kuartal IV-2013. Tersedia [dalam jaringan]
+https://www.ekon.go.id/berita/view/dki-jakarta-jawa-timur-dan.516.html.
+Diakses
+4
+Desember 2016.
+Lloyd, P. E. dan P. Dicksen. (1990). Location in Space (Theoretical Perspectives in Economic Geography).
+New York: Harper & Row.
+Manacika, I. K. (2010). Dampak Pariwisata Terhadap Permintaan Output Sektor Pertanian di Provinsi
+Bali. Tesis Program Pasca Sarjana, Universitas Udayana.
+Mankiw, N. G. (2012). Essentials of Economic. Mason: Cengage Learning.
+Muta'ali, L. (2015). Teknik Analisis Regional. Yogyakarta: Badan Penerbit Fakultas Geografi UGM.
+Nisa, H. (2014). Analisis Potensi dan Pengembangan Wilayah Kabupaten Lebak Provinsi Banten. Skripsi
+Fakultas Ekonomi dan Bisnis, Universitas Diponegoro.
+Pemerintah Provinsi Jawa Barat [Pemprov Jawa Barat]. (2013). Rencana Pembangunan Jangka
+Menengah Daerah Provinsi Jawa Barat. Bandung: Bappeda Jabar.
+Putra, A. N. (2013). Analisis Potensi Ekonomi Kabupaten dan Kota Di Provinsi Daerah Istimewa
+Yogyakarta. Skripsi Fakultas Ekonomi dan Bisnis, Universitas Islam Negeri Syarif Hidayatullah.
+Raven, P. H., D. M. Hassenzahl, dan L. R. Berg. (2013). Environment. New York: Jhon Wiley and Sons.
+
+Halaman 107 dari 108
+
+Seminar Nasional Epicentrum 5.5 | http://geografi.upi.edu/
+
+S&P Global Division. (2011). S&P Global BMI, S&P/IFCI Methodology. New York: S&P Dow Jones Indices
+LLC.
+Sabar, W. (2015). “Sektor Potensial Pengembangan Ekonomi Wilayah”. Jurnal EcceS (Economics,
+Social, and Development Studies), Vol 2 (1), hlm. 48-61.
+Sauter, M. B., C. B. Stockdale, dan P. Ausick. (2012). The World’s Most Resource-Rich Countries.
+Tersedia [dalam jaringan] http://247wallst.com/special-report/2012/ 04/18/the-worlds-mostresource-rich-countries/ . Diakses 4 Desember 2016.
+Sukma, A. F. (2015). “Efek Pengganda Infrastruktur Pekerjaan Umum dalam Perekonomian Provinsi
+Bali”. Jurnal Perencanaan Wilayah dan Kota, vol. 26, no. 2, hlm. 100-110, Agustus 2015. DOI:
+10.5614/jpwk.2015.26.2.3
+Sultani, A. M. (2016). “Pengembangan Wilayah Berbasis Pendekatan Sosial Ekonomi di Kabupaten
+Barru Provinsi Sulawesi Selatan”. Jurnal Planomadani, vol. 5 (1) 2016. ISSN 2301 - 878X.
+Syahrullah, D. (2012). Analisis pengaruh Produk Domestik Regional Bruto (PDRB), Pendidikan, dan
+Pengangguran terhadap Kemiskinan di Provinsi Banten Tahun 2009-2012. Skripsi Fakultas
+Ekonomi dan Bisnis.
+Tarigan, R. (2015). Ekonomi Regional: Teori dan Aplikasi. Jakarta: Bumi Aksara.
+
+Halaman 108 dari 108
+View publication stats
+
+

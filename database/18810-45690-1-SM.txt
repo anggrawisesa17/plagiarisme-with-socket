@@ -1,0 +1,940 @@
+INTUISI 10 (3) (2018)
+INTUISI
+JURNAL PSIKOLOGI ILMIAH
+http://journal.unnes.ac.id/nju/index.php/INTUISI
+Terindeks DOAJ: 2541-2965
+
+EKSPLORASI JENIS PERMASALAHAN KLIEN KONSULTASI ONLINE:
+POTENSI PENGEMBANGAN MEDIA DIGITAL DALAM PELAYANAN KESEHATAN MENTAL
+Nurlita Wijayanti1, Fikri Tahta Nurul Fiqih2, Mohamad Rifky Anugrah Pratama3, Retno
+Setyaningsih4, Diany Ufieta Syafitri5
+Fakultas Psikologi, Universitas Islam Sultan Agung
+Info Artikel
+Abstrak
+Sejarah Artikel:
+Diterima
+20 September 2018
+Disetujui 27 Oktober 2018
+Dipublikasikan
+30 November 2018
+
+Keywords:
+Mental health
+disorders, Online
+consultation,
+Psychological problems
+
+Pelayanan psikologi di Indonesia masih menerima stigma negatif dari masyarakat yang membuat mereka enggan
+menemui psikolog dan diperparah dengan terbatasnya layanan psikologi yang terjangkau baik dari segi finansial
+maupun lokasi. Untuk menjembatani hal tersebut, maka mulai bermunculan beberapa teknologi berupa situs dan
+aplikasi konsultasi online melalui media internet. Aplikasi konsultasi online yang diulas di sini adalah Lift Up.
+Penelitian ini bertujuan untuk memberikan gambaran terkait ragam permasalahan yang dapat diproses dari
+konsultasi online Lift Up dan menunjukkan bahwa media digital mampu memberikan akses pelayanan kesehatan
+mental yang mudah. Metode yang digunakan adalah kualitatif dengan koding dan kategorisasi data. Terdapat 144
+email konsultasi yang dikategorikan menjadi 10 jenis permasalahan yaitu masalah akademik, organisasi,
+pekerjaan, konflik intrapersonal, konflik interpersonal, gejala gangguan psikologis, keuangan, masalah dengan
+hubungan transendental, gejala fisiologis, dan gejala psikologis yang berdampak pada perilaku destruktif.
+Pengguna aplikasi ini juga dikategorikan berdasarkan usia, yaitu <21 tahun, 21-40 tahun, dan >40 tahun. Hasilnya
+menunjukkan bahwa masalah yang lebih banyak dialami oleh sebagian besar subjek antara lain: masalah
+hubungan interpersonal (34,05 %), masalah hubungan intrapersonal (17,67 %), dan gejala gangguan psikologis
+(17,24 %). Hasil eksplorasi ini menunjukkan bahwa media digital mampu menjadi wadah bagi masyarakat untuk
+mengungkapkan berbagai permasalahan psikologis. Ini menunjukkan potensi pengembangan media digital
+sebagai sarana pelayanan kesehatan mental di Indonesia. Hasil eksplorasi ini juga dibahas melalui perspektif
+perkembangan, di mana di setiap tahap perkembangan ada isu-isu psikologis tertentu yang biasa menjadi
+permasalahan.
+
+Abstract
+Psychological services in Indonesia are still facing negative stigmas from the people which make them reluctant
+to go to psychologist and it doesn’t help when these psychological services are hard to attain whether
+financially or location wise. To mediate this problem, a number of technologies such as online consultation
+websites and application started to appear in the internet. The online consultation app discussed here is called
+Lift Up. The aim of this research was to give a general picture of the variety of problems that could be
+processed from the online consultation Lift Up, and show that digital media could give easier access to mental
+health services. The method used in this research was qualitative research using coding and data
+categorization. There were 144 consultation emails that was categorized into 10 types of problems, they are
+academic, organization, work, intrapersonal conflict, interpersonal conflict, symptomps of psychological
+disorder, finance, problems with trancedental relationship, physiological symptomps, and psychological
+symptomps that would cause destructive behaviors. The user of this app was also categorized based on their
+age, which are <21 years old, 21-40 years old, and >40 years old. Results showed that the most common
+problems the subjects had was: interpersonal relationship problems (34.05%), intrapersonal relationship
+problems (17.67%), and symptomps of psychological disorder (17.24%). The result of this exploration showed
+that digital media could become a means for the people to express their psychological problems. This proved
+the potential of developing digital media as a means for mental health services in Indonesia. The result of this
+exploration was also discussed in the perspective of developmental psychology, where in each phase of
+development there are certain psychological issues that has to be attend to.
+
+© 2018 Universitas Negeri Semarang
+
+
+Alamat korespondensi:
+Fakultas Psikologi, Universitas Islam Sultan Agung
+Jl. Raya Kaligawe KM. 4, Semarang, Jawa Tengah, Indonesia
+nurlitawijayanti@std.unissula.ac.id
+
+210
+
+p-ISSN 2086-0803
+e-ISSN 2541-2965
+
+PENDAHULUAN
+Pencarian
+bantuan
+(help-seeking)
+merupakan sikap seseorang dalam mencari
+bantuan untuk mengatasi gangguan kesehatan
+mental yang dialami. Sayangnya, ada
+beberapa penghambat bagi seseorang untuk
+mencari bantuan, antara lain stigma dan
+rendahnya pengetahuan tentang gangguan
+kesehatan mental. Stigma
+merupakan
+anggapan yang salah tentang suatu hal dan
+memberikan keyakinan spesifik untuk diikuti
+secara kontinu. Stigma dapat terbentuk karena
+minimnya pengetahuan tentang gangguan
+mental, cara pencarian bantuan, dan bertahan
+pada
+penanganan
+yang
+tidak
+menyembuhkan.Pelayanan
+konseling
+merupakan salah satu hal yang mendapatkan
+stigma. Banyak yang beranggapan bahwa
+orang yang melakukan konseling adalah orang
+yang tidak dapat diharapkan, tidak dapat
+dipercaya, memiliki emosi yang tidak stabil,
+tidak tertarik pada hal tertentu, dan tidak
+percaya diri (Vogel, Wade, & Hackler, 2007).
+Stigma tersebut akan memunculkan rasa
+keberhargaan diri yang rendah (low self
+esteem), tidak memiliki motivasi, dan seakan
+tidak memiliki harapan apa pun (Xu, et al.,
+2016).
+Konseling merupakan proses bicara
+yang dilakukan oleh konselor untuk
+membantu
+klien
+menemukan
+jalan
+penyelesaian masalahnya (Ifdil, 2011). Inti
+dari proses konseling sendiri adalah
+mengurangi distres, kecemasan, dan dampak
+buruk
+dari
+peristiwa
+yang
+dialami
+klien(Mallen, Vogel, Rochlen, & Day, 2005).
+Melihat fenomena tersebut, para ahli
+berinisiatif
+untuk
+lebih
+mendekatkan
+pelayanan
+kesehatan
+mental
+kepada
+masyarakat
+melalui konseling online.
+Konseling onlineatau e-konseling adalah cara
+pemberian pelayanan konseling melalui media
+yang berbasis elektronik (Ifdil, 2013).
+Di luar negeri, konseling online
+mencakup psikoterapi dan terapi (Chesster &
+Glass, 2007); sedangkan di Indonesia, konsep
+
+pelayanan konseling onlinebelumbanyak
+digunakan seperti di luar negeri. Konseling
+onlinelebih populer di kalangan guru pelajaran
+Bimbingan
+Konseling
+(BK)
+daripada
+masyarakat luas. Konseling online memiliki
+manfaat,
+yaitumemudahkan
+klien
+mendapatkan akses pelayanan konseling
+(Rochlen, Zack, & Speyer, 2004). Selain
+aspek kemudahannya, konseling online
+diciptakan dengan
+tetap memperhatikan
+aspek privasi klien (Stifel, Brown, Jimerson,
+&
+Dowdy,
+2013).
+Meskipun
+demikian,penggunaan konseling online tidak
+efektif untuk klien dengan kriteria: pasien
+yang sedang dirawat atau mereka yang
+mengalami gangguan mental berat, memiliki
+gagasan bunuh diri, pemikiran bahwa dirinya
+mengidap gangguan, kepribadian borderline,
+atau orang yang memiliki riwayat medis;
+sedangkan klien yang cocok dengan konseling
+online antara lain: pasien rawat jalan dalam
+pengawasan, dapat membantu terapi bagi
+orang
+yang
+sedang
+dalam
+tahap
+pengembangan diri, kecanduan alkohol pada
+anak-anak dan remaja, gangguan kecemasan,
+malu, dan rasa bersalah (Rochlen, Zack, &
+Speyer, 2004). Ada prediksi bahwa kebutuhan
+konseling online di Indonesia akan meningkat,
+mengingat perkembangan teknologi yang
+semakin maju dan ada beberapa media yang
+potensial sebagai tempatkonseling online,
+seperti website, telepon, e-mail, atau video
+conferencing (Ifdil, 2013). Salah satu fasilitas
+konseling online yang ada dan sedang
+dikembangkan adalah Lift Up.Lift Up
+merupakan aplikasi yang digagas oleh
+mahasiswa Psikologi bersama mahasiswa
+Teknik Informatika Universitas Islam Sultan
+Agung, Semarang pada tahun 2017dengan
+dana hibah dari Program Kreativitas
+Mahasiswa Direktorat Pendidikan Tinggi. Lift
+Up diciptakan dengan tujuan agar masyarakat
+Indonesiamenjadi terbuka wawasannya akan
+sehat mental dan mendapatkan pelayanan
+konsultasi yang mudah diakses.
+
+211
+
+Adapun tujuan penelitian ini yaitu
+untuk mengeksplorasi jenis permasalahan
+klien
+yang
+mampu
+ditangani
+oleh
+psikolog/konselor
+melalui
+konseling
+onlineLift Up. Hasil kajiannya dapat
+bermanfaat
+menjadi bahan pertimbangan
+untuk mengembangkan media digital sebagai
+pelayanan kesehatan mental dan akses
+termudah untuk konseling.
+METODE
+Metode
+yang digunakan
+dalam
+penelitian ini adalah metode kualitatif.
+Metode kualitatif adalah penelitian yang
+memfokuskan kajiannnya pada masalah
+berdasarkan tingkat urgensinya (Sugiyono,
+2014).Penelitian ini mengkaji data yang
+diperoleh dari menu Konsultasi Lift Upuntuk
+mengetahui varian jenis masalah yang dapat
+ditangani melalui konseling online. Subjek
+yang diambil merupakan pengguna aplikasi
+Lift Up yang memanfaatkan menu Konsultasi.
+Data yang digunakan dalam penelitian ini
+sebanyak 144 konsultasi, yang memiliki
+penyebaran usia: <21 tahun sebanyak 79
+orang, 21-40 sebanyak 61 orang, dan >40
+tahun sebanyak 4 orang; serta penyebaran asal
+daerah klien meliputi provinsi Jawa Tengah
+(88 klien), Jawa Barat (9 klien), Jawa Timur
+(2 klien), Bali (4 klien), Sulawesi Tenggara (2
+klien), Papua, (4 klien), Jambi (1 klien), Riau
+(1 klien), Sumatera Utara (2 klien), D.I
+Yogyakarta (2 klien), D.K.I Jakarta (4 klien),
+Kalimantan Tengah (1 klien), dan sisanya
+tidak terdeteksi.
+
+psikologis berdampak pada perilaku destruktif
+(0,43%). Hasilnya dapat diperinci sebagai
+berikut:
+Masalah Akademik
+40, 74%
+<21 tahun
+21-40 tahun
+>40 tahun
+
+59, 26%
+
+Gambar 1. Masalah Akademik
+
+Jenis permasalahan akademik: cemas
+dan tidak percaya diri pada kemampuan diri
+sendiri; sulit membagi waktu belajar; stres
+karena tugas-tugas sekolah, finansial, dan
+kegiatan sekolah; merasa putus asa serta tidak
+termotivasi.
+Masalah Organisasi
+50%
+<21 tahun
+21-40 tahun
+>40 tahun
+
+50%
+
+Gambar 2. Masalah Organisasi
+
+Jenis permasalahan organisasi: tidak
+mampu membuat prioritas dan mengharapkan
+penghargaan dari anggota lain.
+Masalah Pekerjaan
+12, 5%
+
+<21 tahun
+
+21-40 tahun
+
+>40 tahun
+
+HASIL PENELITIAN DAN
+PEMBAHASAN
+dikategorisasikan menjadi 10 kategori,
+antara lain masalah: akademik (11,64%),
+organisasi (0,86%), pekerjaan (3,45%),
+hubungan intrapersonal (17,67%), hubungan
+interpersonal (34,05%), gejala gangguan
+psikologis (17,24%), keuangan (4,74%),
+hubungan transendental (0,86%), gangguan
+fisiologis (6,47) dan gejala gangguan
+
+87, 5%
+
+Gambar 3. Masalah Pekerjaan
+
+Jenis permasalahan pekerjaan: cemas
+tidak mendapatkan pekerjaan, pekerjaan yang
+dipilih tidak sesuai dengan harapan orang tua,
+bermasalah dengan pimpinan, merasa belum
+dapat memenuhi ekspektasi pekerjaan, dan
+masalah-masalah tersebut disertai dengan
+kepanikan dan kecemasan.
+
+212
+
+oleh teman, serta berpikir negatif terhadap
+teman; dengan orang lain: takut bersosialisasi.
+Subjek usia >40 tahun: masalah terkait
+hubungan antara orang tua dan anak.
+
+Masalah Hubungan Intrapersonal
+43, 92%
+<21 tahun
+21-40 tahun
+
+Masalah Gejala Gangguan Psikologis
+
+>40 tahun
+
+35%
+
+56, 1%
+
+<21 tahun
+
+Gambar 4. Masalah Hubungan Intrapersonal
+
+21-40 tahun
+
+Jenis
+permasalahan
+hubungan
+intrapersonal: subjek yang berusia <21 tahun:
+kebingungan untuk memahami dan mengatasi
+masalah, ragu dalam mengambil keputusan;
+usia 21-40 tahun: merasa terbebani dengan
+keputusannya sendiri, menyesal jika subjek
+tidak melakukan keinginan atau hasil yang
+diharapkan tidak sesuai dengan kenyataan,
+bimbang untuk memilih solusi.
+Masalah Hubungan Interpersonal
+5,06%
+<21 tahun
+21-40 tahun
+>40 tahun
+
+41,77%
+
+53,16%
+
+Gambar 5. Masalah Hubungan Interpersonal
+
+Jenis
+permasalahan
+hubungan
+interpersonal: <21 tahun: masalah yang
+berhubungan dengan orang tua, seperti kurang
+terbuka antara orang tua dan anak; masalah
+dengan saudara seperti memiliki kebencian;
+dengan lawan jenis berupa rasa cemas,
+khawatir, dan galau terhadap pacar; masalah
+dengan teman misalnya merasa dijauhi dan
+berpikir negatif tentang teman-temannya; dan
+masalah dengan orang lain seperti sulit
+berbicara di depan orang banyak. Subjek usia
+21-40 tahun: masalah yang berhubungan
+dengan orang tua: konflik dengan orang tua
+sejakterjadi perceraian dan hubungan antar
+orang tua dan anak yang kurang baik; dengan
+lawan jenis: bermasalah dengan pacar, merasa
+jauh dari Tuhan sejak berpacaran, dan takut
+untuk jatuh cinta lagi; dengan teman: trauma
+akibat bullying, dikecewakan dan ditinggal
+
+>40 tahun
+
+65%
+
+Gambar 6. Masalah Gejala Gangguan Psikologis
+
+Jenis permasalahan gejala gangguan
+psikologis yang dirasakan oleh subjek
+berusia:<21 tahun: cemas, stres, dan depresi
+karena masalah percintaan, takut dan panik
+dengan atau tanpa alasan, gelisah, perubahan
+emosi yang tidak terkendali, merasa inferior
+dan menyendiri, takut terhadap kritikan,
+trauma karena bullying, tidak tahu cara
+mengatasi masalahnya; 21-40 tahun: stres,
+putus asa, tidak percaya diri, penurunan
+konsentrasi, rasa bersalah yang berlebihan,
+kesepian, gelisah, cemas, panik, dan takut
+bersosialisasi, sulit bercanda, masih trauma
+dengan bullying yang pernah dialami.
+Masalah Keuangan
+36, 36%
+<21 tahun
+21-40 tahun
+>40 tahun
+
+63, 64%
+
+Gambar 7. Masalah Keuangan
+
+Jenis permasalahan keuangan: subjek
+usia <21 tahun: hutang, membagi prioritas
+pengeluaran; usia21-40 tahun: kebutuhan dana
+pendidikan dan keluarga, serta kesulitan
+mencari pekerjaan.
+
+213
+
+Masalah Hubungan Transendental
+100%
+<21 tahun
+21-40 tahun
+>40 tahun
+
+Gambar 8. Masalah Transendental
+
+Jenis
+permasalahan
+hubungan
+transendental: merasa jauh dengan Tuhannya
+karena kegiatan organisasi dan setelah
+menjalin hubungan cinta dengan lawan jenis.
+Masalah Gangguan Fisiologis
+6, 67%
+
+46, 67%
+<21 tahun
+21-40 tahun
+>40 tahun
+
+46, 67%
+
+Gambar 9. Masalah Gangguan Fisiologis
+
+Jenis
+permasalahan
+gangguan
+fisiologis: pusing, sakit-sakitan, sulit tidur
+karena gelisah, cemas, jantung sering
+berdebar, tubuh bereaksi terhadap stres saat
+berkumpul dengan lingkungan sosial.
+Masalah Gejala Gangguan Psikologis
+Berdampak pada Perilaku Destruktif
+100%
+
+<21 tahun
+21-40 tahun
+>40 tahun
+
+Gambar 10. Masalah Gejala Gangguan
+Psikologis Berdampak pada perilaku destruktif)
+
+Jenis permasalahan gejala gangguan
+psikologis yang berdampak pada perilaku
+destruktif: memukul dan melempar barang
+saat mengalami stres serta putus asa.
+Berdasarkan hasil diatas, dapat
+diketahui bahwa masalah terbanyak yang
+dialami olehklien konsultasi online aplikasi
+Lift
+Up
+adalah
+masalah
+hubungan
+interpersonal (34,05%), masalah hubungan
+
+intrapersonal (17,67%), dan gejala gangguan
+psikologis (17,24%). Masalah dengan angka
+tertinggi
+pertama
+adalah
+hubungan
+interpersonal. Hal ini dapat dilihat pada
+Gambar 5 yang menunjukan bahwa masalah
+ini dialami oleh subjek pada rentang usia<21
+tahun, 21-40 tahun, dan >40 tahun. Pada
+subjek remaja yang berusia<21 tahun,
+masalah yang dihadapi antara lain: sulit
+berhubungan dengan orang tua; masalah
+dengan saudara terkait rasa benci; bermasalah
+dengan lawan jenis (percintaan)seperti cemas
+dan galau terhadap hubungan mereka; serta
+memiliki pemikiran negatif terhadap teman.
+Hal tersebut terjadi karena secara psikologis
+remaja masih mengalami perkembangan yang
+penuh dengan pergejolakan, warna, dan
+dinamika (Sofiah, 2012).Masalah hubungan
+interpersonal pada remaja sering berkaitan
+dengan masalah pengaturan emosinya. Dalam
+masa remaja ini, subjek mengalami
+perkembangan dengan ciri-ciri khusus, seperti
+susah diatur dan kondisi emosi yang mudah
+terpancing (Maslichah Raichatul Janah, 2014).
+Menurut Papalia, Old, dan Feldman,
+subjek usia 21 hingga 40 tahun termasuk
+kedalam usia dewasa muda (Papalia, Old, &
+Feldman, 2008). Pada usia ini subjek
+menghadapi masalah yang lebih kompleks.
+Hal tersebut disebabkan karena subjek telah
+memiliki kemampuan untuk mengambil
+keputusan yang bertujuan untuk menunjukan
+kedudukannya dalam kehidupan (Ninawati,
+2005).Pada usia ini umumnya hubungan
+interpersonal yang terjalin bersifat intim
+(intimacy), seperti hubungan dengan orang
+tua, keluarga, teman, dan lawan jenis. Namun,
+subjek
+dalam
+penelitian
+ini
+justru
+menunjukkan sebaliknya. Subjek mengalami
+hambatan dalam tugas perkembangannya dan
+mengalami fase isolasi atau penghindaran
+(isolation) (Handidini Agusdwitanti, 2015).
+Pada dasarnya subjek telah memiliki
+kemampuan untuk memahami esensi terkait
+jati diri mereka karena subjek telah melalui
+tahap perkembangan remaja. Perlu diketahui
+
+214
+
+juga bahwa masalah hubungan interpersonal
+tidak akan terjadi apabila subjek mampu
+membuka diri; saling merespon satu sama
+lain; serta menghadirkan sikap penerimaan
+dan
+penghargaan
+yang
+saling
+menguntungkan(Handidini
+Agusdwitanti,
+2015); serta konflik hubungan interpersonal
+juga
+dapat
+disebabkan
+adanya
+ketidaksepahaman
+yang
+menyebabkan
+komunikasi tidak berjalan lancar dan
+memunculkan persoalan yang berujung pada
+perdebatan bagi subjek(Widiasavitri, 2016).
+Masalah hubungan interpersonal yang
+muncul pada usia >40 tahunlebih fokus pada
+masalah sikap orang lain terhadap keluarga
+subjek dan masalah hubungan antara orang
+tua dengan anaknya. Menurut teori
+perkembangan Erikson, pada rentang usia 40
+hingga
+50
+tahun
+merupakan
+fase
+perkembangan generativitas versus stagnansi,
+yang dalam prosesnya melibatkan peran
+subjek sebagai pemerhati generasi berikutnya.
+Pengamatan subjek akan fokus pada cara
+mempertahankan kondisi keluarga dan
+generasi mudanya agar senantiasa berada
+dalam kehidupan yang kondusif (Santrock,
+2011).
+Masalah tertinggi kedua adalah
+masalah hubungan intrapersonal. Elkind dan
+Postman dalam(Magitojaya, Sinolungan, &
+David, 2015) menyatakan bahwa fenomena
+yang akhir-akhir ini dialami remaja adalah
+berkembangnya kesamaan perlakuan dan
+harapan terhadap remaja. Remaja mengalami
+stres karena perubahan sosial yang cepat dan
+membingungkan serta harapan masyarakat
+yang menginginkan mereka melakukan peran
+dewasa.
+Tekanan-tekanan
+tersebut
+memunculkan masalah masalah seperti
+kegagalan di sekolah, penyalahgunaan obatobatan, depresi dan bunuh diri. Kondisi
+tersebut mendorong masalah intrapersonal
+pada remaja.Pada remajayang berusia <21
+tahun, masalah yang muncul yaitu berupa
+kebingungan dalam memahami, memaknai,
+dan mengatasi masalah serta ragu dalam
+
+mengambil keputusan yang solutif atas
+masalah. Menurut Erikson,masa ini masuk
+dalam tahap indentity vs role confusion,
+sehinggaremaja mulai mencari jati diri
+(Papalia, Old, & Feldman, 2008). Erikson
+menyatakan bahwa remaja yang memiliki
+identitas tidak jelas akan menjadi tertekan dan
+kurang percaya diri, sehingga masalahmasalah seperti kebingungan mengenai
+masalah yang mereka hadapi dan keraguan
+dalam memutuskan sesuatu akan muncul.
+Masalah yang dihadapi pada subjek
+yang memiliki rentang usia21-40 tahun
+(dewasa muda) yaitu ada keinginan untuk
+menjadi mandiri, tetapi mereka justru merasa
+terbebani; menyesal jika keinginan/hasil yang
+diharapkan tidak sesuai dengan harapan;ragu
+mencari dan memilih solusi; dan tidak mampu
+melaksanakan solusi yang diperoleh. Menurut
+Erikson, individu pada tahap intimacy vs
+isolationmemiliki tugas perkembangan yang
+berkaitan dengan relasi terhadap orang lain
+dan mereka sudah menemukan jati
+dirinya(Papalia, Olds, & Feldman, 2008).
+Sehingga individu yang berhasil melewati
+tahap sebelumnya dan tahap ini akan mampu
+untuk membuat sebuah keputusan ketika ia
+memiliki sebuah masalah atau pilihan.
+Melihat dari hasil penelitian, nampak bahwa
+subjek
+masih
+mengalami
+hambatan
+perkembangan dari tahap sebelumnya yaitu
+kebingungan untuk menentukan jalan
+hidupnya, seperti terbebani oleh masalah yang
+ingin diselesaikan sendiri dan kebingungan
+dalam mencari dan memilih solusi. Menurut
+Erikson, jika kondisi tersebut terus
+berlanjut,individu akan terisolasi dan terpaku
+pada kegiatan dan pikirannya sendiri (selfabsorb)(Papalia, Old, & Feldman, 2008).
+Masalah terbanyak pada urutan ketiga
+adalah masalah gejala gangguan psikologis.
+Masalah
+gejala
+gangguan
+psikologis
+ditemukan pada rentang usia remaja <21
+tahun dan 21-40 tahun. Pada subjek berusia
+remaja, masalah gejala gangguan psikologis
+yang dihadapi berupa stres, kecemasan, takut,
+
+215
+
+panik, dan depresi. Ada pun penyebab dari
+gangguan tersebut seperti masalah percintaan,
+tidak mampu mengontrol emosi, merasa
+inferior, cenderung menyendiri, dan tidak
+mengetahui
+cara
+mengatasi
+masalah
+psikologisnya. Hal ini serupa dengan teori
+yang menyatakan bahwa remaja mengalami
+perubahan-perubahan karena mengalami
+peralihan dari masa kanak-kanak ke remaja,
+seperti perubahan biologis, psikologis, dan
+perkembangan
+sosial.
+Perubahan
+itu
+menyebabkan remaja membentuk tuntutan
+terhadap dirinya sendiri atau orang lain, dan
+jika tidak terpenuhi akan mengganggu
+kesehatan
+mentalnya.
+Remaja
+juga
+menghadapi masalah emosionalitas, seperti
+afek negatif yang tidak diimbangi dengan
+kendali emosi yang baik. (Oldehinkel,
+Hartman, Ferdinand, Verhulst, & Ormel,
+2007). Remaja yang mengalami hambatan
+untuk menyelesaikan masalahnya akan
+berimplikasi pada penemuan jati dirinya dan
+terhambat
+untuk
+melanjutkan
+tugas
+perkembangan
+pada
+fase
+kehidupan
+selanjutnya (dewasa muda) (Santrock, 2011).
+Subjek dengan rentang usia 21-40 tahun
+masih
+berpeluang
+mengalamigangguan
+kesehatan mental. Penelitian sebelumnya
+menyebutkan bahwa onset pertama pada
+sebagian besar gangguan mental terjadi di usia
+24 tahun (Hunt & Eisenberg, 2010). Stresorstresor yang membuat subjek mengalami
+stres, cemas, dan beberapa gangguan emosi
+antara lain: pengalaman traumatis seperti
+bullying, ketakutan untuk bersosialisasi, dan
+menyadari
+bahwa
+dirinya
+mengalami
+penurunan konsentrasi. Menurut Erikson,
+pada rentang usia 21 hingga 40 tahun
+merupakan fase keintiman dan isolasi, di
+mana selama fase tersebut terjadi perubahan
+pikiran dan perasaan yang mendorong subjek
+untuk berkomitmen dengan orang lain, baik
+dalam hubungan romantis, persahabatan, dan
+kerja (Berk, 2012). Jika hubungan tersebut
+tidak dapat terjalin dengan baik, maka kualitas
+hubungannya justru menjadi stresor dan
+
+merasa terkucilkan (Santrock, 2011). Masalah
+yang biasa terjadi berhubungan dengan
+kemampuan adaptasi dengan orang tua,
+teman, keuangan, pemikiran masa depan, dan
+merasa isolatif (Torres, Otero, Bustamante,
+Blanco, Diae, & Vizquez, 2017).
+Berdasarkan hasil yang diperoleh dari
+menu Konsultasi Lift Up diketahui bahwa ada
+beberapa permasalahan yang dapat ditangani
+oleh psikolog/konselor melalui konseling
+online, seperti permasalahan akademik,
+organisasi, pekerjaan, hubungan intrapersonal,
+hubungan interpersonal, gejala gangguan
+psikologis,
+keuangan,
+hubungan
+transendental, gangguan fisiologis, dan gejala
+gangguan psikologis yang berdampak pada
+perilaku destruktif.Kebanyakan subjek yang
+memiliki permasalahan tersebut mengalami
+kesulitan untuk menemukan orang lain atau
+pihak yang dianggap mampu untuk membantu
+subjek mengatasi masalahnya, dan dengan
+kehadiran pelayanan konseling online seperti
+Lift Up membuat mereka menjadi lebih
+terbuka. Hal ini menunjukkan bahwa
+kehadiran
+konseling
+online
+mampu
+dimanfaatkan sebagai upaya mengurangi
+stigma terhadap gangguan kesehatan mental
+dan subjek beralih pada upaya pencarian
+bantuan kesehatan mental.
+Terlebih, secara umum masalah yang
+dikonsultasikan merupakan masalah nonklinis hingga klinis sedang, sehingga masih
+memungkinkan untuk dikonsultasikan secara
+online. Dengan demikian, adanya aplikasi Lift
+Up mampu memberi wadah pada masyarakat
+untuk berkonsultasi online, ditambah kondisi
+masyarakat era masa kini sangat dekat dengan
+smartphone yang mempermudah penggunaan
+konseling online tersebut. Penelitian tentang
+konseling online di Indonesia masih belum
+berkembang, terlebih pada layanan konseling
+online yang digunakan oleh masyarakat secara
+luas. Oleh karena itu, penelitian ini memiliki
+kekurangan seperti terbatasnya subjek
+penelitian, sehingga perlu dilakukan penelitian
+lebih lanjut dengan subjek penelitian dari
+
+216
+
+berbagai
+layanan
+konsultasi
+online.
+Diharapkan dengan cakupan subjek yang lebih
+luas akan memberi hasil yang lebih objektif
+atas segala permasalahan mental/psikologis
+yang ada.
+SIMPULAN
+Konsultasi online dapat menjadi wadah
+bagi masyarakat untuk mengkonsultasikan
+masalah-masalah yang mereka hadapi.
+Masalah-masalah
+yang
+dikonsultasikan
+melalui pelayanan konseling online secara
+umum bukan masalah yang bersifat klinis.
+Masalah yang paling sering diterima dalam
+data penelitian ini antara lain masalah
+hubungan interpersonal, masalah hubungan
+intrapersonal, dan gejala gangguan psikologis.
+Hal tersebut menunjukkan bahwa sebenarnya
+masyarakat membutuhkan fasilitas yang
+mudah diakses untuk membantu mereka
+mengatasi
+masalah
+mentalnya,
+sehinggapengembangan
+media
+digital
+diperlukan sebagai pelayanan kesehatan
+mental secara online.
+DAFTAR PUSTAKA
+Berk, L. E. (2012). Development through The
+Life Span (Dari Dewasa Awal sampai
+Menjelang Ajal). Yogyakarta: Pustaka
+Belajar.
+Chesster, A., & Glass, C. A. (2007). Online
+Counseling: A Descriptive Analysis
+of Therapy Services on the Internet.
+British Journal of Guidance and
+Counseling , 145-160.
+Handidini Agusdwitanti, S. M. (2015).
+Kelekatan dan Intimasi pada Dewasa
+Awal. Jurnal Psikologi, 8(1), 18-24.
+Hunt, J., & Eisenberg, D. (2010). Mental
+Health Problems and Help-Seeking
+Behavior Among College Students.
+Jurnal of Adolescent Health , 3-10.
+Ifdil. (2013). Konseling Online sebagai Salah
+Satu Bentuk Pelayanan E-Konseling.
+Jurnal Konseling dan Pendidikan ,
+15-21.
+
+Ifdil.
+
+(2011). Penyelenggaraan Layanan
+Konseling Online sebagai Salah Satu
+Bentuk
+Pelayanan
+E-Konseling.
+International Seminar & Workshop
+Contemporary
+and
+Creative
+Counseling Techniques: How to
+Improve Your Counseling Skills and
+to be More Creative in Counseling
+Session, (hal. 1-9). Bandung.
+Magitojaya, G. B., Sinolungan, J. S., & David,
+L. (2015). Perbandingan kecemasan
+siswa yang melakukan perilaku
+kenakalan remaja di sma swadharma
+mopugad dan sma swadharma werdhi
+agung kecamatan dumoga kabupaten
+bolaang mongondow. Jurnal eBiomedik , 839-844.
+Mallen, M. J., Vogel, D. L., Rochlen, A., &
+Day, S. X. (2005). Online Counseling:
+Reviewing the Literature From a
+Counseling Psychology Framework.
+The Counseling Psychologist , 819870.
+Maslichah Raichatul Janah, H. R. (2014).
+Emotion Regulation to Reducing
+Aggresive Behavior in Resolving
+Interpersonal Conflict on Student
+SMK.
+Jurnal
+Pendidikan
+Administrasi Publik dan Bisnis, Sosial
+dan Politik, 9(1), 56-62.
+Ninawati,
+F.
+I.
+(2005).
+Gambaran
+Kesejahteraan
+Psikologis
+Pada
+Dewasa Muda Ditinjau dari Pola
+Attachment. Jurnal Psikologi, 3(1),
+44-64.
+Oldehinkel, A. J., Hartman, C. A., Ferdinand,
+R. F., Verhulst, F. C., & Ormel, J.
+(2007). Effortfull Control as Modifier
+of the Assosiation between Negative
+Emotionality and Adolescents Mental
+Health Problems . Developement and
+Psychopathology , 523-539.
+Papalia, D. E., Old, S. W., & Feldman, R. D.
+(2008). Human Development. Jakarta:
+Kencana.
+
+217
+
+Rochlen, A. B., Zack, J. S., & Speyer, C.
+(2004). Online Therapy: Review of
+Relevant Definitions, Debates, and
+Current Empirical Support. Journal of
+Clinical Psychology , 269-283.
+Santrock,
+J.
+W.
+(2011).
+Live-Span
+Development. New York: McGrawHill.
+Sofiah, L. S. (2012). Religiusitas, Kecerdasan
+Emosional dan Kenakalan Remaja.
+Jurnal Psikologi, 7(2), 562-584.
+Stifel, S. W., Brown, J. A., Jimerson, S. R., &
+Dowdy, E. (2013). Integrating Email
+Communication with Counseling at
+School . School Mental Health , 110118.
+Sugiyono.
+(2014).
+Metode
+Penelitian
+Kuantitatif, Kualitatif, dan R&D.
+Bandung: Alfabeta.
+Torres, C., Otero, P., Bustamante, B., Blanco,
+V., Diae, O., & Vizquez, F. L. (2017).
+Mental Health Problems and Related
+Factors in Ecuadorian College
+
+Students. International Journal of
+Environmental Research and Public
+Health , 2-14.
+Vogel, D. L., Wade, N. G., & Hackler, A. H.
+(2007). Perceived Public Stigma and
+the Willingness to Seek Counseling:
+The Mediating Roles of Self-Stigma
+and Attitudes Towards Counseling.
+Journal of Counseling Psychology ,
+40-50.
+Widiasavitri, R. D. (2016). Hubungan Antara
+Trust dengan Konflik Interpersonal
+Pada Dewasa Awal yang enjalani
+Hubungan Pacara Jarak Jauh. Jurnal
+Psikologi Udayana, 3(1) , 10-19.
+Xu, Z., Muller, M., Heekren, K.,
+Theodoridou, A., Dvosky, D.,
+Metzler, S., et al. (2016). SelfLabelling and Stigma as Predictors of
+Attitudes Towards Help-Seeking
+Among People at Risk of Psychosis:
+1-year Follow Up. Eur Arch
+Psychiatry Clin Neurosci , 79-82.
+
+218
+
+

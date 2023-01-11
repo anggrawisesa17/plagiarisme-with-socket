@@ -1,0 +1,1380 @@
+Jurnal Kimia Valensi Vol. 4 No. 2, November 2014 (109-120)
+
+ISSN : 1978 - 8193
+
+Karakteristik Fisikokimia Gelatin Kulit Ikan Sapu-Sapu
+(Hyposarcus pardalis) Hasil Ekstraksi Asam
+Sandra Hermanto*, M. Rafi Hudzaifah, Anna Muawanah
+Program Studi Kimia, Fakultas Sains dan Teknologi UIN Syarif Hidayatullah Jakarta
+Jl. Ir. H. Juanda No. 95 Ciputat Jakarta 15412
+*Email: hermantokimia@uinjkt.ac.id
+
+Abstrak
+Pemanfaatan kulit ikan sebagai sumber alternatif gelatin menjadi kajian yang cukup menarik
+terlebih dengan adanya isu dan kekhawatiran mengenai status kehalalan gelatin. Penelitian ini
+bertujuan untuk mengeksplorasi potensi kulit ikan sapu-sapu (Hyposarcus pardalis) sebagai
+sumber alternatif gelatin yang dilanjutkan dengan pengujian sifat fisikokimia sebagai parameter
+standar kualitas gelatin. Proses ekstraksi gelatin dilakukan dengan merendam kulit ikan sapu-sapu
+dalam asam fosfat 2%,4%,6% (v/v) dan asam asetat 2%,4%,6% (v/v) dengan perbandingan kulit
+ikan:asam (1:3) dan lama perendaman 16 jam kemudian dilanjutkan dengan ekstraksi air hangat
+pada suhu 700C selama 2 jam. Analisis total randemen dan karakteristik struktur molekul gelatin
+dilakukan pada tahap awal dan dilanjutkan dengan pengujian sifat fisikokimianya meliputi uji
+proksimat (kadar air, abu, protein lemak dan kadar logam), uji viskositas, uji titik leleh, uji titik
+gel, uji pH, uji titik isoelektrik dankekuatan gel.Hasil penelitian menunjukkan bahwa perendaman
+dengan asam fosfat 4% menghasilkan rendemen terbanyak (11.6%).Hasil analisis FTIR pada
+kedua perlakuan menunjukkan spektrum gelatin yang memiliki kemiripan dengan spektrum FTIR
+gelatin babi. Pengujian sifat fisikokimia menunjukkan gelatin hasil ekstraksi asam fosfat 4%
+memiliki pH 4.78, titik isoelektrik 8.37, titik gel 11.50C, titik leleh 27 0C, viskositas 12.7 cP,
+kekuatan gel 416.57 bloom kadar air 7.5%, kadar abu 9.4%, kadar lemak 10.3% dan kadar protein
+66.6%. Hasil pengujian kadar logam berat (Hg 0.012 mg/Kg, Pb 7.69 mg/Kg, Cd 2.49 mg/Kg, Cu
+0.99 mg/Kg dan Zn 11.10 mg/Kg) menunjukkan kandungan logam berat pada gelatin hasil
+ekstraksi asam fosfat masih berada dibawah ambang batas kecuali untuk logam Cd dan Pb dimana
+menurut SNI 7387:2009 kadar maksimum Cd 0.1 mg/Kg, Hg 0.5 mg/Kg, Pb 0.3 mg/Kg. Secara
+keseluruhan sifat fisikokimia gelatin kulit ikan sapu-sapu sudah memenuhi standar mutu gelatin
+kecuali untuk kadar abu, kadar lemak, viskositas dan kekuatan gel yang nilainya lebih tinggi dari
+yang dipersyaratkan.
+Kata kunci: Ekstraksi, gelatin, hidrolisis asam, hyposarcus pardalis
+
+Abstract
+The benefit of fish skin as an alternative source of gelatin has been chalanging today through the
+issues and regarding to the halal status of gelatin. This study aims to explore the potential use of
+Sapu-sapu fish skin (Hyposarcus pardalis) as an alternative source of gelatins. Physicochemical
+properties determinated as a standard quality of gelatin. Fish skin gelatin carried out by pretreated
+sapu-sapu fish skin in phosporic acid 2%, 4%, 6% (v/v) and acetic acid 2 %,4 %,6 % (v/v)
+independently for 16 hours continued by water extraction on 70 0C for 2 hours. The yield of
+gelatin and characteristic of molecular structure analyzed by FTIR though analysis of
+physicochemical properties consist of proximate (moisture, ash , fat and protein assay), viscosity,
+melting point, gelling point, pH, isoelectric point and gel strength. The results showed that fish
+skin gelatin extracted in phosphoric acid 4% had bigest randemen (11.6%) and close similarly with
+molecular structure characteristic of porcine skin gelatin as a standard. Phsycochemical properties
+of fish skin gelatin from phosphoric acid 4 % extracted had pH 4.78, Isoelectric Point 8.37, gelling
+point 11.5 0C, melting point 27 0C, viscosity 12.7 cP, gel strength 416.57 bloom, moisture 7.5 %,
+ash content 9.4 % , 10.3 % fat and 66.6 % protein content. While the results of heavy metal (Hg
+0.0012 mg/Kg, Pb 7.69 mg/Kg, Cd 2.49 mg/kg, Cu 0.99 mg/Kg, Zn 11.10 mg/Kg) are still bellow
+the limit allowable in SNI 7387:200 except for Cd and Pb with not allowed on processed food fish.
+Overall physicochemical properties of sapu-sapu fish skin gelatin meet the quality standard of
+gelatin except for ash and fat content, viscosity and gel stength.
+
+109
+
+Karakteristik Fisikokimia Gelatin Kulit Ikan
+
+Hermanto, et.al.
+
+Keywords : acid pretreatment, extraction, gelatin, , Hyposarcus pardalis
+
+1. PENDAHULUAN
+Gelatin merupakan protein larut air
+yang diperoleh dari hidrolisis parsial kolagen
+yang banyak digunakan untuk berbagai
+keperluan industri, baik industri pangan
+maupun non-pangan karena memiliki sifat
+yang khas, yaitu dapat berubah secara
+reversibel dari bentuk sol ke gel,
+mengembang dalam air dingin, dapat
+membentuk film, mempengaruhi viskositas
+suatu bahan, dan dapat melindungi sistem
+koloid (Sukkwai et al. 2011).
+Dalam industri pangan, gelatin
+digunakan sebagai pembentuk busa (whipping
+agent), pengikat (binder agent), penstabil
+(stabilizer), pembentuk gel (gelling agent),
+perekat (adhesive), peningkat viskositas
+(viscosity agent), pengemulsi (emulsifier),
+finning agent,crystal modifier, dan pengental
+(thickener). Gelatin juga digunakan dalam
+industri non-pangan seperti industri farmasi,
+fotografi,
+kosmetik,
+dan
+industri
+kertas.Gelatin dapat digunakan dalam bahan
+pembuat kapsul, pengikat tablet dan pastilles,
+gelatin
+sponge,
+surgical
+powder,
+suppositories, medical research, plasma
+expander, dan mikroenkapsulasi dalam bidang
+farmasi. Gelatin dalam industri fotografi
+digunakan sebagai pengikat bahan peka
+cahaya, dan pada industri kosmetik, gelatin
+digunakan untuk menstabilkan emulsi pada
+produk-produk shampo, penyegar dan lotion,
+sabun (terutama yang cair), lipstik, cat kuku,
+busa cukur, krim pelindung sinar matahari
+(Hermanianto 2004).
+Di Indonesia, kebutuhan gelatin masih
+didominasi oleh produk luar yang diimpor dari
+negara-negara penghasil gelatin. Menurut
+Wahyuni (2009), Indonesia mengimpor lebih
+dari 6.200 ton gelatin (tahun 2003) atau senilai
+US$ 6.962.237 dari berbagai negara (Perancis,
+Jepang, India, Brazil, Jerman, Cina,
+Argentina, dan Australia) dengan harga jual
+rata-rata di pasar dalam negeri mencapai Rp
+
+60.000 hingga Rp 70.000 setiap kilogramnya
+(LPPOM
+2008).
+Laporan
+terkini
+mengindikasikan produksi gelatin dunia
+mendekati angka 326.000 ton per tahun,
+dimana gelatin dari kulit babi sebesar 46%,
+dari sapi sebesar 29.4%, dari tulang sapi
+sebesar 23.1% dan dari sumber lain sebesar
+1.5% (Karim 2009).
+Tingginya kebutuhan akan gelatin
+impor jelas sangat memprihatinkan terutama
+bagi masyarakat Indonesia yang mayoritas
+muslim, karena sumber gelatin impor sebagian
+besar masih menggunakan kulit babi dan jika
+ditinjau dari aspek kehalalannya babi
+termasuk hewan yang diharamkan untuk
+dikonsumsi, sedangkan penggunaan sapi
+sebagai bahan baku gelatin juga menimbulkan
+kekhawatiran dalam bidang kesehatan karena
+adanya wabah penyakit yang dibawa oleh
+ternak seperti kontaminasi Bovine Spongiform
+Encephalopathy (BSE) dalam gelatin sapi
+meski telah terdapat pernyataan dari Scientific
+Steering Committeee of The European Union
+bahwa resiko tersebut mendekati nol
+(Cheowet al. 2007).
+Untuk mengatasi ketergantungan akan
+gelatin impor perlu dicari alternatif produksi
+gelatin dari sumber yang halal misalnya
+pembuatan gelatin dari kolagen yang berasal
+dari kulit ikan (Haug et al. 2003). Kulit ikan
+dapat dimanfaatkan sebagai sumber gelatin
+alternatif dan telah banyak dilaporkan pada
+penelitian-penelitian terkini (Gudmundsson
+2002; Go´mez-Guille´n et al. 2005). Menurut
+Surono et al. (1994) tulang dan kulit ikan
+sangat potensial sebagai sumber gelatin
+karena mencakup 10%-20% dari total berat
+tubuh ikan. Jaswir (2007), mengatakan bahwa
+gelatin dari ikan bisa berkualitas setara dengan
+babi jika pengolahannya tepat dan akurat.
+Salah satu kulit ikan yang berpotensi
+untuk digunakan sebagai sumber gelatin
+adalah kulit ikan sapu-sapu, karena ikan sapusapu memiliki kelimpahan yang banyak dan
+110
+
+Jurnal Kimia Valensi Vol. 4 No. 2, November 2014 (109-120)
+
+bukan merupakan ikan konsumsi serta
+memiliki nilai ekonomis yang masih relatif
+rendah. Bagi sebagian besar petani, ikan sapusapu dianggap sebagai hama karena
+merupakan kompetitor ikan budi daya baik
+dalam habitat maupun makanan juga dapat
+merusak pemijahan ikan lain disekitarnya.
+Jika dibandingkan dengan gelatin dari hewan
+mamalia, gelatin ikan memiliki beberapa
+perbedaan sifat antara lain titik leleh dan
+kekuatan gelnya relatif lebih rendah dari
+gelatin mamalia (Karimetal. 2008), namun
+demikian gelatin ikan menunjukkan viskositas
+yang tinggi dari gelatin mamalia (Leuenberger
+1991). Atas dasar hal tersebut, pemanfaatan
+kulit ikan sapu-sapu diharapkan dapat menjadi
+solusi alternatif untuk memproduksi gelatin
+dari sumber yang murah dan halal.
+Untuk menentukan kualitas gelatin
+kulit ikan sapu-sapu sesuai dengan standar
+yang dipersyaratkan, produk gelatin hasil
+ekstraksi dikarakterisasi sifat fisikokimianya
+melalui pengujian proksimat (kadar air, kadar
+abu, kadar protein, dan kadar lemak), serta uji
+lainnya meliputi uji viskositas, kekuatan gel,
+derajat keasaman (pH), titik isoelektrik
+protein, titik leleh, kandungan logam berat (Pb
+dan Hg), karakteristik gugus fungsi dan uji
+organoleptik yang hasilnya dibandingkan
+dengan gelatin komersial. Dari hasil penelitian
+ini diharapkan dapat memberikan kontribusi
+dalam penyediaan sumber gelatin halal
+melalui pemanfaatan kulit ikan sapu-sapu
+sebagai komoditas yang kurang memiliki nilai
+ekonomis.
+
+2. METODE PENELITIAN
+Alat dan bahan
+Isolasi dan karakterisasi gelatin
+dilakukan di Pusat Laboratorium Terpadu
+(PLT) Universitas Islam Negeri Syarif
+Hidayatullah Jakarta. Bahan baku yang
+digunakan adalah kulit ikan sapu-sapu yang
+diperoleh dari pasar ikan di daerah Manggarai,
+Jakarta Selatan. Bahan lain yang digunakan:
+Gelatin komersil (halal gelatin) dari Shanghai
+111
+
+ISSN : 1978 - 8193
+
+Al-Amin Biotech Co. Ltd., serbuk porcine
+gelatin tipe A (No. katalog: G8150) dan
+bovine gelatin tipe B (No. katalog: G1393)
+Sigma-Aldrich, aquades, asam fosfat (H3PO4),
+asam asetat teknis 98%, untuk ekstraksi
+gelatin dan Na2CO3, NaOH, Na2S2O3, HCl,
+K2SO4, HgO, H2SO4, HClO4, HNO3, air
+suling, aseton, dan H3BO3, natrium asetat serta
+kertas saring whatman 41 untuk karakterisasi
+produk gelatin.
+Peralatan yang digunakan antara lain
+wadah tahan asam, pisau, gunting, kain saring,
+panci kaca, kompor, pengaduk, waterbath
+incubator dan oven untuk ekstraksi gelatin,
+timbangan digital, pH meter, gelas ukur,
+loyang kaca, grinder, termometer, sentrifuse
+Sorval, grinder, botol film, pipet volumetrik,
+tabung reaksi, labu Erlenmeyer, tabung
+Soxhlet, tanur, cawan, desikator, Rheoner RE
+3305, Kett Digital Whitenes Powder C-100,
+Brookfield
+Syncro-Lectric
+Viskometer,
+magnetic stirrer, dan kjeltec system untuk
+karakterisasi dan uji organol gelatin.
+Preparasi
+2009)
+
+Bahan Baku (Martianingsih,
+
+Ikan sapu-sapu segar diambil kulitnya
+dan dibersihkan dari daging, sisik dan lapisan
+luar yang mengandung lemak yang masih
+menempel. Kulit kemudian dicuci dengan air
+mengalir hingga bersih. Kulit bersih
+dimasukkan dalam wadah dan ditutup rapat,
+kemudian disimpan dalam freezer (-20oC)
+untuk preparasi dan analisis gelatin
+berikutnya.
+Ekstraksi Gelatin (Pelu et al. 1998)
+Kulit yang telah disimpan dalam
+lemari pendingin dicuci dengan air
+mengalir.Kulit kemudian direndam dengan air
+panas 60-700C selama 1-2 menit.Kulit lalu
+ditiriskan dan dipotong kecil-kecil kemudian
+dicuci dengan air mengalir. Kulit ditimbang ±
+30 gram kemudian direndam dalam larutan
+asam (asetat dan fosfat) dengan perbandingan
+kulit ikan dan asam 1 : 4. Konsentrasi asam
+yang digunakan adalah 2, 4 dan 6% (v/v)
+
+Karakteristik Fisikokimia Gelatin Kulit Ikan
+
+dengan lama perendaman masing-masing 16
+jam.Setelah
+mengalami
+swellling
+(pengembangan) kulit ikan kemudian dicuci
+hingga pH netral (5-6).Selanjutnya dilakukan
+ekstraksi dalam air panas pada suhu 60 ºC ± 3
+ºC selama 2 jam dengan ratio bobot kulit ikan
+dan aquades adalah 1 : 3. Filtrat yang
+diperoleh dari proses ekstraksi selanjutnya
+disaring dengan menggunakan kain saring,
+kemudian dikeringkan menggunakan oven
+pada suhu 55ºC selama 48 jam (2 hari).
+Total Rendemen (AOAC 1995)
+Rendemen
+diperoleh
+dari
+perbandingan antara berat serbuk kering
+gelatin yang dihasilkan dengan berat bahan
+segar (kulit yang telah dicuci bersih).
+Besarnya rendemen dapat diperoleh dengan
+rumus :
+Rendemen(%)
+
+=
+
+�
+
+�
+
+ℎ
+
+��
+
+�
+�
+
+� � �
+��
+
+x100%
+
+Analisis FTIR (Martianingsih 2009)
+Analisis FTIR digunakan untuk
+mengetahui gugus fungsi-gugus fungsi khas
+dari gelatin yang telah dipreparasi. Sampel
+gelatin yang digunakan ialah serbuk gelatin
+yang diperoleh melalui variasi proses
+perendaman dalam larutan asam fosfat dan
+asetat 2%, 4% dan 6% (v/v). 2 mg sampel
+dicampurkan dalam 100 mg serbuk kalium
+bromida (KBr) dan dihomogenkan kemudian
+dibuat cakram KBr. Selanjutnya sampel
+discan dalam alat FTIR pada range 4000-500
+cm-1 dengan resolusi 4 cm-1.Serapan IR yang
+dihasilkan dibandingkan dengan gelatin
+komersil.
+Karakterisasi Sifat Fisikokimia Gelatin
+Karakterisasi gelatin kulit ikan sapusapu meliputi uji fisikokimia yaitu viskositas,
+kekuatan gel, derajat keasaman (pH), titik
+isoelektrik protein, titik leleh, kandungan
+logam berat (Pb dan Hg) dan karakteristif
+gugus fungsi yang dianalisis dengan FTIR dan
+dibandingkan hasilnya dengan gelatin
+
+Hermanto, et.al.
+
+komersial. Analisis proksimat dilakukan pada
+perlakuan terbaik dari masing-masing
+konsentrasi asam asetat dan asam fosfat.Hasil
+terbaik dari penelitian ini dilanjutkan dengan
+pengujian organoleptik yang meliputi warna,
+tekstur penampakan, dan nilai keseluruhan
+yang dibandingkan dengan gelatin komersial.
+Uji viskositas gelatin (AOAC 1995)
+Larutan gelatin dengan konsentrasi
+6.67% (b/b) disiapkan dengan aquades (7 gr
+gelatin ditambah 105 ml aquades) kemudian
+larutan
+diukur
+viskositasnya
+dengan
+menggunakan alat Brookfield Syncro-Lectric
+Viscometer. Pengukuran dilakukan pada suhu
+60 ºC dengan laju geser 60 rpm menggunakan
+spindel.Hasil pengukuran dikalikan dengan
+faktor konversi. Pengujian ini menggunakan
+spindle no.1 dengan faktor konversinya adalah
+1, nilai viskositas dinyatakan dalam satuan
+centipoise (cP).
+Kekuatan Gel (Stevens et al. 1995)
+Kekuatan gel dilakukan secara
+objektif dengan menggunakan alat Rheoner
+RE 3305. Tingkat kekuatan gel dinyatakan
+dengan satuan bloom yang berarti besarnya
+gaya tekan untuk memecah deformasi produk.
+Sebelum digunakan alat disetting agar sesuai
+dengan jenis produk yang akan diukur gelnya
+karena standar setting untuk setiap produk
+berbeda, jarak yang digunakan adalah 400 x
+0.01 mm, kecepatan 0.5 mm/s, sensitifitas 0.2
+v dan silinder probe 5 mm. Cara kerja alat ini
+yaitu silinder probe 5 mm tidak bergerak,
+meja tempat untuk meletakkan contoh yang
+bergerak ke atas mendekati jarum penusuk,
+tekanan dilakukan sebanyak satu kali. Hasil
+pengukuran akan tercetak dalam kertas
+berbentuk histogram.
+Derajat Keasaman (pH) (AOAC 1986)
+Serbuk gelatin sebanyak 0.2 gr
+didispersi dalam 20 ml aquades pada suhu 80
+ºC.Contoh dihomogenkan dengan magnetic
+stirer.Kemudian diukur derajat keasamannya
+(pH) pada suhu kamar dengan pH meter.
+112
+
+Jurnal Kimia Valensi Vol. 4 No. 2, November 2014 (109-120)
+
+ISSN : 1978 - 8193
+
+dimasukkan ke dalam teflon beker dan
+ditambahkan 1.5 ml HClO4 dan 3.5 ml HNO3,
+kemudian teflon beker ditutup dan biarkan
+selama 24 jam. Selanjutnya teflon beker dan
+contoh dipanaskan di atas penangas air dengan
+suhu 60-70 ºC selama ± 2-3 jam (sampai
+larutan jernih) (bila contoh tidak semua larut,
+ditambahkan lagi HClO4 dan 3.5 ml HNO3).
+Kemudian
+ditambahkan
+ke
+dalamnya
+sebanyak 3 ml air suling bebas ion dan
+dipanaskan kembali hingga larutan hampir
+kering, selanjutnya didinginkan pada suhu
+ruang.Kemudian ditambahkan 1 ml HNO3
+pekat dan diaduk pelan-pelan.Selanjutnya
+ditambahkan 9 ml air suling bebas ion, dan
+dilakukan pengukuran menggunakan atomic
+absorption spectrophotometri menggunakan
+nyala udara esitelin.
+
+Titik Leleh (AOAC 1986)
+Larutan gelatin dengan konsentrasi
+6.67% (b/b) disiapkan dengan aquades.
+Contoh diinkubasi pada suhu 10 ºC selama 17
+± 2 jam. Pengukuran titik leleh dilakukan
+dengan cara memanaskan gel gelatin dalam
+waterbath. Diatas gel gelatin tersebut
+diletakkan gotri dan ketika gotri jatuh ke dasar
+gel gelatin maka suhu tersebut merupakan
+suhu titik leleh.
+Titik Isoelektrik Protein (AOAC 1986)
+Sebanyak 0.2 gr contoh ditambah
+dengan 40 ml aquades sebagai pelarut dengan
+kisaran pH 4.5-10.5 (interval 0.5). Pengaturan
+pH dilakukan dengan menambah NaOH 0,5 N
+untuk menaikkan pH dan HCl 0.5 N untuk
+manurunkan pH. Setelah kondisi tercapai
+dilanjutkan dengan pengadukan selama 30
+menit untuk menyempurnakan reaksi. Larutan
+yang dihasilkan dipisahkan dengan bagian
+yang tidak larut dengan cara disentrifuse,
+kemudian disaring dengan menggunakan
+kertas saring whatman 41. Filtrat dianalisis
+kadar nitrogennya dengan metode mikrokjeldahl. Kadar nitrogen terlarut yang paling
+rendahditentukan sebagai daerah isoelektrik
+(pl).
+
+3. HASIL DAN PEMBAHASAN
+Hasil Ekstraksi Gelatin Kulit Ikan SapuSapu
+Ekstraksi gelatin dari kulit ikan sapusapu dilakukan dengan menggunakan larutan
+asam fosfat dan asam asetat dengan
+konsentrasi masing-masing 2%, 4%, 6% (v/v)
+dengan lama perendaman 16 jam. Hasil
+ekstraksi masing-masing perlakuan diperoleh
+total randemen sebagaimana terlihat pada
+tabel 1.
+
+Analisis Proksimat
+Analisis proksimat meliputi uji kadar
+air, kadar abu, kadar protein kadar lemak dan
+kandungan logam berat. Semua parameter
+pengujian mengacu pada standar AOAC,
+(1995) untuk prosedur pengujian gelatin
+kecuali untuk pengujian kadar logam berat.
+
+Pada perendaman dengan asam fosfat
+terlihat kecendrungan nilai rendemen semakin
+meningkat
+seiring
+dengan
+tingginya
+konsentrasi demikian juga yang terjadi pada
+perendaman
+dengan
+asam
+asetat.
+Kecendrungan naiknya rendemen dengan
+meningkatnya
+konsentrasi
+asam
++
+dimungkinkan karena banyaknya ion H yang
+berinteraksi dengan struktur tropokolagen.
+
+Kandungan Logam Berat (Martianingsih,
+2009)
+Serbuk gelatin sebanyak 2 gr
+
+Tabel 1. Total rendemen gelatin ikan sapu-sapu (Hyposarcus pardalis)
+
+113
+
+No
+
+Konsentrasi (%)
+
+Waktu (Jam)
+
+1
+2
+3
+
+2
+4
+6
+
+16
+16
+16
+
+Rendemen (%)
+Asam Asetat
+Asam Fosfat
+1.37
+4.53
+1.6
+11.6
+2.46
+11.4
+
+Karakteristik Fisikokimia Gelatin Kulit Ikan
+
+Struktur kolagen yang berbentuk tripel heliks
+akan kehilangan struktur tripel heliksnya
+karena ikatan hidrogen didalam kolagen dan
+ikatan antara tropokolagen melemah, sehingga
+kolagen terkonversi dan menjadi bentuk yang
+ideal untuk diekstraksi (Martianingsihetal.
+2009).
+Reaksi pemutusan ikatan kovalen
+pada struktur tropokolagen akan lebih mudah
+dilakukan dalam suasana asam dan dengan
+kekuatan ionik yang lebih besar. Namun
+demikian konsentasi asam yang terlalu besar
+akan menghasilkan strukur gelatin dengan
+massa molekul relatif yang lebih rendah dan
+viskositasnya semakin berkurang. Penggunaan
+kedua jenis larutan asam dilakukan untuk
+menghasilkan gelatin dengan kualitas yang
+baik. Selain itu juga penggunaan asam fosfat
+dan asam asetat dikarenakan keduanya
+merupakan asam lemah sehingga diharapkan
+tidak akan mendenaturasi secara total kolagen
+yang akan dikonversi menjadi gelatin.
+Ekstraksi dengan air hangat akan
+meneruskan pemutusan ikatan-ikatan silang,
+serta untuk merusak ikatan hidrogen yang
+menjadi faktor penstabil struktur kolagen.
+Ikatan-ikatan hidrogen yang dirusak dan
+ikatan-ikatan kovalen yang dipecah akan
+mendestabilkan tripel helik melalui transisi
+helik ke gulungan dan menghasilkan konversi
+yang larut air (Gambar 1).
+
+Hermanto, et.al.
+
+keberhasilan proses isolasi gelatin. Analisis
+yang
+digunakan
+untuk
+mengetahui
+karakteristik struktur molekul gelatin adalah
+dengan analisis FTIR untuk mengetahui
+apakah gelatin hasil ekstraksi memiliki
+kemiripan dengan struktur gelatin komersial
+(pembanding).
+Gelatin seperti umumnya
+merupakan protein yang terdiri dari senyawa
+karbon, hidrogen, gugus hiroksil (OH), gugus
+karbonil (C=O), dan gugus amina (NH).
+Berdasarkan
+karakteristik
+gugus
+fungsinya, serapan khas gelatin dibagi
+menjadi 4 bagian, yaitu daerah serapan amida
+A pada bilangan gelombang 3600-2300 cm-1,
+amida I pada bilangan gelombang 1636-1661
+cm-1, amida II pada bilangan gelombang 15601335 cm-1, dan amida III pada bilangan
+gelombang 1300-1200 cm-1 (Muyongga et al.
+2004.
+
+Amida III
+
+Amida II
+Amida A
+
+Amida I
+
+Karakteristik Struktur Molekul Gelatin
+
+Gambar 2 Profil spektrum FTIR gelatin
+ikan (Institute of Chemistry,
+University of Tartu, Estonia)
+
+Gambar 1 Proses perusakan struktur kolagen
+dengan ekstraksi asam(Go´mezGuille´n et al. 2005)
+
+Karakteristik
+struktur
+merupakan salah satu penciri
+
+molekul
+penentu
+
+Hasil analisis FTIR pada semua
+perlakuan menunjukkan pola serapan khas
+gelatin yang relatif sama walaupun dengan
+intensitas yang berbeda yaitu serapan amida
+A, amida I, amida II dan amida III, seperti
+yang terdapat pada tabel 2 dan tabel 3.
+
+114
+
+Jurnal Kimia Valensi Vol. 4 No. 2, November 2014 (109-120)
+
+ISSN : 1978 - 8193
+
+Tabel 2 Puncak serapan FTIR gelatin hasil perendaman asam fosfat
+Asam
+Fosfat
+(v/v)
+2%
+4%
+6%
+Gelatin
+Babi
+
+Amida A
+(3600-2300 cm-1)
+
+Amida I
+(1636-1661 cm-1)
+
+Amida II
+(1560-1335 cm-1)
+
+Amida III
+(1300-1200 cm-1)
+
+3319.69 dan
+2939.01
+3306.78 dan
+2960.26
+3302.72 dan
+2939.89
+3303.27 dan
+2960.89
+
+1648.30
+
+1540.80, 1450 dan
+1335.06
+1539.17, 1452.14
+dan 1334.33
+1539.74, 1452.17
+dan 1334.76
+1543.88, 1453.48
+dan 1333.75
+
+1244.25
+
+1645.56
+1647.28
+1649.76
+
+1242.12
+1242.51
+1244.12
+
+Tabel 3 Puncak serapan FTIR gelatin hasil perendaman asam asetat
+Asam
+Asetat
+(v/v)
+2%
+
+Amida A
+(3600-2300 cm-1)
+
+Amida I
+(1636-1661 cm-1)
+
+Amida II
+(1560-1335 cm-1)
+
+Amida III
+(1300-1200 cm-1)
+
+3318.09
+
+1654.08
+
+1244.26
+
+4%
+
+3307.37 dan
+2961.94
+3303.03 dan
+2958.67
+3303.27 dan
+2960.89
+
+1654.27
+
+1548.13, 1454.64
+dan 1336.52
+1544.91, 1451.38
+dan 1335.63
+1540.80, 1450
+dan ν 1335.06
+1543.88, 1453.48
+dan 1333.75
+
+6%
+Gelatin
+Babi
+
+1648.30
+1649.76
+
+Berdasarkan hasil analisis FTIR
+(Gambar 3) karakteristik struktur molekul
+gelatin hasil perendaman asam fosfat 4%
+memiliki kemiripan struktur dengan gelatin
+babi (komersial). Namun demikian diantara
+keduanya terlihat bahwa intensitas peak pada
+
+1244.18
+1244.25
+1244.12
+
+masing-masing bilangan gelombang yang
+spesifik relatif berbeda. Hal ini kemungkinan
+juga mempengaruhi sifat fisikokimia diantara
+keduanya seperti nilai viskositas dan kekuatan
+gelnya dimana proporsi kolagen dan gelatin
+keduanya juga relatif berbeda.
+
+Gambar 3 Kemiripan spektrum FTIR gelatin babi dengan gelatin kulit ikan sapu-sapu hasil perendaman asam
+fosfat 4%
+
+115
+
+Jurnal Kimia Valensi Vol. 4 No. 2, November 2014 (109-120)
+
+Sifat Fisikokimia Gelatin
+Pengujian sifat fisikokimia gelatin
+dilakukan pada sampel gelatin hasil ekstraksi
+dengan jumlah randemen terbesar yaitu
+gelatin hasil ekstraksi asam hosfat 4%.Hasil
+pengujian sifat fsisikokimia pada sampel
+adalah seperti terlihat pada tabel 4.
+Tabel 4 Sifat Fisikokimia gelatin
+Parameter
+
+Nilai
+
+*Standar yang
+disyaratkan
+
+Kadar Air (%)
+
+7.5
+
+Maks. 15
+
+Kadar Abu (%)
+
+9.4
+
+0.3 - 2
+
+Kadar Protein (%)
+
+66.6
+
+> 90
+
+Kadar Lemak (%)
+
+10.3
+
+<5
+
+Viskositas (cP)
+
+12.7
+
+15-75
+
+Kekuatan
+Gel(Bloom)
+
+416.7
+
+50-300
+
+4.78
+
+3.8-5.5
+
+Titik Leleh ( C)
+
+27
+
+< 35
+
+Titik Isoelektrik
+
+8.37
+
+7 – 9 (Tipe A)
+
+pH
+o
+
+*) (GMIA 2012)
+
+Berdasarkan tabel 4, terlihat sebagian
+besar paramater fisikokimia gelatin sudah
+memenuhi standar yang dipersyaratkan seperti
+kadar air, pH, titik leleh dan titik isoelektrik.
+Rendahnya kadar air gelatin kulit ikan sapusapu ini disebabkan oleh proses perendaman
+asam yang relatf singkat yaitu selama 16 jam,
+dimana jumlah air yang diserap sangat sedikit
+dan kehilangan air selama proses pengeringan
+gelatin yang dihasilkan dari kulit ikan sapusapu hasil ekstraksi asam fosfat 4% terbentuk
+setelah dikeringkan pada suhu 55oC selama 48
+jam.
+Nilai pH gelatin merupakan salah satu
+parameter penting dalam standar mutu gelatin.
+Pengukuran nilai pH larutan gelatin penting
+dilakukan karena pH larutan gelatin
+mempengaruhi sifat-sifat yang lainya seperti
+viskositas dan kekuatan gel (Astawanet
+al.2002). Menurut GMIA (2012) pH gelatin
+tipe A berkisar antara pH 3.8-5.5. Hasil
+pengukuran nilai pH gelatin kulit ikan sapu116
+
+ISSN : 1978 - 8193
+
+sapu hasil isolasi asam fosfat 4% memiliki pH
+asam yaitu 4.78 yang masih berada dalam
+rentang pH gelatin tipe A.
+Rendahnya nilai pH gelatin kulit ikan
+sapu-sapu hasil ekstraksi asam fosfat 4%
+diakibatkan oleh tingginya konsentrasi asam
+fosfat yang digunakan.Hal ini diduga karena
+masih ada sisa-sisa asam fosfat yang
+digunakan pada saat perendaman yang
+terbawa pada saat ekstraksi, sehingga
+mempengaruhi tingkat keasaman (pH) gelatin
+yang dihasilkan.Namun demikian gelatin
+dengan pH rendah mempunyai keuntungan
+yaitu
+tahan
+terhadap
+kontaminasi
+mikroorganisme (Hajarwati 2005).
+Namun demikian untuk parameter
+lainnya seperti kadar abu, kadar lemak,
+viskositas dan kekuatan gel nilainya belum
+sesuai dengan yang dipersyaratkan. Hasil
+Pengukuran kadar abu gelatin kulit ikan sapusapu adalah 9.4%. Hasil ini lebih tinggi
+dibandingkan kadar abu maksimun yang
+diatur dalam SNI06-3735-1995 yaitu di bawah
+3.25%. Abu adalah zat mineral organik yang
+tidak ikut terbakar dalam proses pembakaran
+zat organik .Mineral tersebut diantaranya
+adalah natrium, klor, kalsium, fosfor,
+magnesium, belerang dan logam berat
+(Winarno 1997). Nilai kadar abu suatu bahan
+pangan menunjukkan besarnya jumlah mineral
+yang terkandung dalam suatu bahan pangan
+tersebut. Tingginya kadar abu gelatin kulit
+ikan
+kemungkinan
+disebabkan
+oleh
+keberadaan logam-logam berat seperti Cd, Pb,
+Cu dan Zn dan logam lainnya seperti Mg dan
+Ca yang merupakan mineral yang banyak
+ditemukan dalam daging ikan yang memiliki
+titik didih di atas 550 0C.
+Kadar lemak menjadi salah satu
+parameter
+penting
+penentu
+kualitas
+gelatin.Penentuan
+kadar
+lemak
+perlu
+dilakukan karena lemak berpengaruh terhadap
+perubahan mutu gelatin selama penyimpanan.
+Kerusakan lemak yang utama diakibatkan
+oleh proses oksidasi sehingga timbul bau dan
+rasa tengik yang disebut dengan proses
+ketengikan. Lemak berhubungan dengan mutu
+karena kerusakan lemak dapat menurunkan
+
+Jurnal Kimia Valensi Vol. 4 No. 2, November 2014 (109-120)
+
+nilai gizi serta menyebabkan penyimpangan
+rasa dan bau (Winarno 1997).Gelatin yang
+bermutu
+tinggi
+diharapkan
+memiliki
+kandungan lemak yang rendah bahkan
+diharapkan tidak mengandung lemak (de Man
+1997).
+Hasil pengukuran kadar lemak gelatin
+kulit ikan sapu-sapu hasil ekstraksi asam
+fosfat 4% relatif cukup besar yaitu 10.3 %.
+Besarnya kadar lemak ini bertolak belakang
+dengan standar yang dipersyaratkan GMIA
+(2012), dimana kadar lemak gelatin sebaiknya
+tidak melebihi 5% dari total berat gelatin.
+Tingginya kadar lemak kemungkinan karena
+factor perlakuan (treatment) selama proses
+pembuatan gelatin baik pada tahap
+pembersihan kulit (degreasing) hingga pada
+tahap penyaringan filtrat hasil ekstraksi
+yangbelum cukup optimal. Tingginya kadar
+lemak yang dihasilkan juga mengindikasikan
+bahwa perlu ada perlakuan khusus yang
+dilakukan untuk menghilangkan lemak pada
+kulit ikan sapu-sapu yang dikenal sangat keras
+misalnya dengan melakukan pretretmen
+dengan peredaman dalam larutan basa dengan
+suhu dan waktu yang optimum pada tahap
+preparasi awal.
+Paramater lainnya yang juga pentng
+dan menjadi standar penentu kualitas gelatin
+adalah nilai viskositas dan kekuatan gel.
+Kekuatan gel sangat penting dalam penentuan
+perlakuan yang terbaik dalam proses ekstraksi
+gelatin. Pembentukan gel (gelatinisasi)
+merupakan suatu fenomena penggabungan
+atau pengikatan silang rantai-rantai polimer
+membentuk jalinan tiga dimensi yang
+kontinyu, sehingga dapat menangkap air di
+dalamnya menjadi suatu struktur yang
+kompak dan kaku yang tahan terhadap aliran
+di bawah tekanan.Kemampuan inilah yang
+menyebabkan
+gelatin
+sangat
+luas
+penggunaannya, baik dalam bidang pangan,
+farmasi, dan biadang-bidang lainnya.
+Mekanisme yang tepat tentang
+pembentukan gel dari sol gelatin masih belum
+diketahui. Molekul-molekul secara individu
+bergabung dalam lebih dari satu bentuk
+kristalin membentuk jalinan tiga dimensi yang
+117
+
+ISSN : 1978 - 8193
+
+menjerat cairan dan berikatan silang secara
+kuat sehingga menyebabkan terbentuknya gel
+(Gudmundsson
+2002).
+Pendinginan
+mengakibatkan transisi struktur gulungan
+yang acak menjadi struktur helik yang baru
+dan akan memperkuat kekuatan gel gelatin
+yang dihasilkan. Struktur helik yang baru
+terbentuk tersebut tidak sama dengan struktur
+asli kolagen, karena terbatasnya jumlah tripel
+helik yang terbentuk kembali. Pembentukkan
+kembali tripel helik mengakibatkan adanya
+junction zones. Junction zones terjadi pada
+gelatin dalam bentuk sol ke gel yang dapat
+dilihat pada gambar 4.
+
+Gambar
+
+4
+
+Junction zones pada molekul
+gelatin(Martianingsih 2009)
+
+Hasil pengukuran kekuatan gel pada
+serbuk gelatin kulit ikan sapu-sapu hasil
+perlakuan ekstraksi asam fosfat 4% adalah
+416.57 bloom, nilai ini lebih tinggi dari yang
+dipersyaratkan dalam GMIA (2012) untuk
+gelatin tipe A yaitu 50–300 bloom. Tingginya
+nilai kekuatan gel ini menunjukkan bahwa
+proses perendaman dengan asam fosfat 4%
+belum cukup optimum dalam mengkonversi
+struktur tropokolagen yang berbentuk tripel
+heliks menjadi struktur gelatin yang memiliki
+struktur alfa heliks. Hal tersebut juga
+diperkuat dengan hasil analisis FTIR dimana
+profil spektrum gelatin gelatin ikan sapu-sapu
+hasil ekstraksi masih mengandung struktur
+tropokolagen pada daerah amida III.
+Di sisi lain, nilai viskositas gelatin
+ikan sapu-sapu yang diperoleh 12.7 mPa.s
+atau sama dengan 12.7 cP.Nilai tersebut
+melebihi standar yang dipersyaratkan menurut
+Britis Standard (1975) yaitu 1.5-7 cP. Namun
+
+Karakteristik Fisikokimia Gelatin Kulit Ikan
+
+apabila mengacu pada GMIA (2012), gelatin
+kulit ikan sapu-sapu memiliki nilai viskositas
+di bawah standar yaitu 15 cP. Perbedaan nilai
+viskositas bisa disebabkan oleh karena proses
+ekstraksi dan komposisi bahan baku yang
+digunakan dimana masing-masing bahan
+memiliki tingkat kekuatan ikatan silang
+tropokolagen yang berbeda-beda selain juga
+faktor usia, genetik dan faktor lingkungan.
+Lemahnya ikatan silang menyebabkan
+kolagen mudah terhidrolisis, hidrolisis ini
+dapat menurunkan berat molekul gelatin yang
+pada akhirnya akan menurunkan viskositas
+larutan gelatin (Choi etal.2000).Viskositas
+merupakan sifat fisik gelatin yang penting
+setelah kekuatan gel, karena viskositas
+mempengaruhi sifat fisik lainnya seperti titik
+leleh, titik gel, dan stabilitas emulsi.Viskositas
+gelatin yang tinggi menghasilkan laju
+pelelehan dan pembentukan gel yang lebih
+tinggi
+dibandingkan
+gelatin
+yang
+viskositasnya rendah, dan untuk stabilitas
+emulsi gelatin diperlukan viskositas yang
+tinggi (Choietal. 2000).
+Hasil pengujian kadar logam berat
+gelatin kulit ikan sapu-sapu ditampilkan pada
+tabel 5.
+Tabel 5 Kandungan logam berat pada gelatin kulit
+ikan sapu-sapu hasil perendaman asam
+fosfat 4 %
+Jenis Logam
+
+Raksa (Hg)
+Timbal (Pb)
+Kadmium (Cd)
+Tembaga (Cu)
+Seng (Zn)
+
+Gelatin Kulit
+Ikan SapuSapu
+0.012 mg/Kg
+7.69 mg/Kg
+2.49 mg/Kg
+0.99 mg/Kg
+11.10 mg/Kg
+
+Total
+logam berat *)
+Maks. 50 mg/Kg
+Maks. 50 mg/Kg
+Maks. 50 mg/Kg
+Maks. 30 mg/Kg
+Maks. 100 mg/Kg
+
+*SNI (06-3735-1995)
+
+Berdasarkan tabel 5terlihat bahwa
+kadar logam berat gelatin kulit ikan sapu-sapu
+memiliki nilai yang masih relatif rendah
+apabila dibandingkan dengan SNI 06-37351995. Namun demikian jika mengacu pada
+SNI 7387:2009 untuk pangan hasil olahan
+
+Hermanto, et.al.
+
+ikan, kadar Pb dan Cd pada gelatin sudah
+melewati ambang batas dimana kadar logam
+berat yang diperbolehkan adalah Cd 0,1
+mg/Kg, Hg 0,5 mg/Kg, Pb 0,3 mg/Kg.
+Mengacu pada standar tersebut sebaiknya
+untuk pengolahan kulit ikan sapu-sapu
+menjadi gelatin, sumber atau tempat ikan
+sapu-sapu hidup perlu diperhatikan. Selain itu
+perlu juga dilakukan treatment untuk
+menghilangkan kandungan logam berat
+tersebut misalnya melalui perendaman dalam
+larutan basa karena sebagian besar logam akan
+terendapkan dalam larutan basa. Namun
+terlepas dari kadar logam berat yang tinggi
+pada ikan sapu-sapu, ikan sapu-sapu juga
+mengandung mineral yang penting seperti Zn
+dan Cu.
+
+4. SIMPULAN
+Ekstraksi gelatin dari kulit ikan sapusapu dengan perendaman dalam asam fosfat
+4% selama 16 jam menghasilkan total
+rendemen terbesar yaitu 11.6% (w/w) dengan
+karakteristik struktur molekul yang relatif
+mirip dengan spektrum FTIR gelatin babi
+(komersial).
+Sifat fisikokimia gelatin kulit ikan
+sapu-sapu hasil perendaman asam fosfat 4%
+sudah memenuhi standar yang dipersyaratkan
+dalam SNI No.06-3735-1995dan GMIA
+(2012) kecuali untuk kadar abu, kadar lemak,
+viskositas dan kekuatan gelnya yang relatif
+lebih tinggi dari nilai yang dipersyaratkan.
+Saran
+1. Untuk meningkatkan standar kualitas
+gelatin dari kulit ikan sapu-sapu perlu
+dilakukan penelitian lebih lanjut dengan
+mengoptimasi
+waktu
+dan
+suhu
+perendaman serta perlakuan awal yang
+sedikit berbeda (misalnya melalui
+perendaman dalam larutan basa/NaOH)
+untuk menghilangkan logam berat dan
+menghasilkan struktur gelatin sesuai
+dengan standar mutu yang dipersyaratkan.
+2. Perlu dilakukan karakterisasi lebih lanjut
+misalnya melalui analisis bobot molekul
+gelatin dengan SDS-PAGE dan uji indeks
+emulsi untuk memperoleh informasi yang
+lebih lengkap mengenai karakteristik
+gelatin yang dihasilkan.
+118
+
+Jurnal Kimia Valensi Vol. 4 No. 2, November 2014 (109-120)
+
+Daftar Pustaka
+[AOAC].1995. Official Methods of Analysis of
+The Association of Analytical Chemist.
+Washington.
+Apriyantono, H. A, (2003): Makalah Halal: Kaitan
+Antara Syar’i, Teknologi, dan Sertifikasi,
+www.indohalal.com/doc-halal2.html
+Baker RC, Hahn PW, Robbins KR. 1994.
+Fundamentals of New Food Product
+Development. New York (US): Ersevier
+Science B.V.
+[BSN].SNI. 063735. 1995. 1995.Mutu dan Cara
+Uji Gelatin. Jakarta (ID): Dewan
+Standarisasi Mutu Pangan.
+Charley H. 1982. Encyclopedia of food science
+and technology.Vol 2. New York (US):
+John Wiley and Sons.
+Cheow CS, NorizahMS, KyawZY,Howell NK.
+2007. Preparation and characterisation of
+gelatins from the skins of sin croaker
+(Johnius dussumieri) and shortfin scad
+(Decapterus macrosoma). Food Chemistry.
+101(1): 386-391.
+Choi SS, Regenstein JM. 2000. Physicochemical
+and sensory characteristic of fish gelatin. J.
+Food Sci. 65(2): 194–199.
+de Man JM. 1997.Kimia Makanan. Terjemahan. K.
+Padmawinata. Bandung(ID): Penerbit ITB.
+Fahrul.2005. Kajian Ekstraksi Gelatin dari Kulit
+Ikan Tuna (Thunnus alalunga) dan
+Karakteristiknya Sebagai Bahan Baku
+Industri Farmasi.Bogor (ID): IPB.
+FriessW,Lee G. 1996. Basic thermoanalytical
+studies
+of
+insoluble
+collagen
+matrices.Biomaterials.17 (23) : 2289–2294.
+
+ISSN : 1978 - 8193
+
+Grossman S, BergmanM. 1991.Process for the
+Production
+of
+Gelatin
+from Fish
+Skins.European Paten Application 0436266
+A1.
+Gudmundsson M. 2002.Rheological properties of
+gelatin.Journal of Food Science. 67(6)
+GudmundssonM, Hafsteinssen H. 1997. Gelatin
+from Cod Skin as Affected by Chemical
+Treatments.Journal of Food Science.
+621(47): 37-39.
+Hajarwati. 2006. Sifat fisika dan kimia gelatin
+tulang sapi dengan perendaman asam
+klorida pada konsentrasi dan lama
+perendaman yang berbeda. [Tesis]. Bogor
+(ID):
+Sekolah
+Pasca
+SarjanaInstitut
+Pertanian Bogor.
+Haug IJ, Kurt ID, Olav S. 2004.Physical behaviour
+of
+fish
+gelatin-k-carrageenan
+mixtures.Journal
+Carbohydrate
+Polymers.56:11-19.
+Hermanianto J. 2004. Gelatin: Keajaiban dan
+Kehalalannya. Jakarta (ID): [diunduh pada
+2012 Oktober 18]. Tersedia pada:
+www.modules.php.htm.
+Hinterwaldner, R. 1977. Technology of gelatin
+manufactureIn: Ward AG, Courts A (ed.).
+The
+science
+and
+Technology
+of
+Gelatin.New York (US): Academic Press.
+Institute of Chemistry, University of Tartu,
+Estonia. http://tera.chem.ut.ee/IR_spectra/
+index.php?option=com
+content&view=article&id=102&Itemid=70
+didownload tanggal 12 Nopember 2013.
+Irawan MD.2009.Studi Perbandingan Kualitas
+Gelatin Dari Limbah Kulit Ikan Tuna
+(Thunnus spp.), Kulit Ikan Pari (Dasyatis
+sp.) dan Tulang Ikan Hiu (Carcarias sp.)
+sebagai Alternatif Penyedia Gelatin Halal.
+[Skripsi]. Malang (ID): Fakultas Perikanan,
+Universitas Brawijaya.
+
+[GMAP] Gelatin Manufacture Association of Asia
+Pacific.2005.About Gelatin. [Internet].
+Jakarta(ID): [diunduh pada 2011 September
+01].
+Tersedia
+padahttp://www.gmapgelatin.com/about_gel
+atin.html.
+
+Jaswir. I, 2007. Memahami Gelatin.Jakarta (ID):
+[diunduh pada 2012 Juni 07]. Tersedia pada:
+www.beritaiptek.com.
+
+[GMIA]Gelatin Manufacturers Institute of
+America.2012.Gelatin Handbook.New York
+(US): GMIAInc.
+
+Judoamidjojo RM. 1974.Dasar Teknologi dan
+Kimia Kulit.Bogor (ID): Fakultas Teknologi
+Hasil Pertanian IPB.
+
+Geltech. 2002. What is Gelatin.Jakarta (ID):
+[diunduh pada 2012 Oktober 18]. Tersedia
+pada: http://www.Geltech.co.za/gltn1.html.
+
+KarimAA, Bhat R. 2008. Fish Gelatin: Properties.
+Challenges, and Prospects As An
+Alternative To Mammalian Gelatins. Food
+hydrocolloids, 23: 563-576; 656.
+
+Go´mez-Guille´n MC, Gime´nez P, Montero.2005.
+Extraction of gelatin from fish skins by high
+pressure
+treatment.Journal
+of
+Food
+Hydrocolloids. 19: 923–928.
+
+119
+
+Karim AA, Bhat R.2009. Review Fish Gelatin:
+Properties. Challenges.And Prospects As
+An
+Alternative
+To
+Mammalian
+
+Karakteristik Fisikokimia Gelatin Kulit Ikan
+Gelatins.Trends
+in
+Food
+andTechnology.19: 644-656.
+
+Science
+
+Kottelat M, Whitten AJ, Kartikasari SN,
+Wiroatmadja S. 1993. Ikan Air Tawar
+Indonesia Bagian Barat dan Sulawesi.
+Jerman (DE): Periplus Edition.
+Lagler KF, Bardach JE, MillerRR, PassinoDRM.
+1977. Ichtiology 2nd ed. New York (US):
+John Wiley and Sons.
+LeuenbergerBH. 1991. Investigation of viscosity
+and gelation properties of different
+mammalian and fish gelatins. Food
+Hydrocolloids. 5(4): 353–361.
+LPPOM. 2008. Halal menentramkan umat. Jurnal
+Halal. 72.
+Martianingsih N, Atmaja L.2009. Analisis Sifat
+Kimia, Fisik, Dan Termal Gelatin Dari
+Ekstraksi Kulit Ikan Pari (Himantura
+Gerrardi) Melalui Variasi Jenis Larutan
+Asam.[Skripsi].Surabaya (ID): Jurusan
+Kimia Fakultas Matematika dan Ilmu
+Pengetahuan Alam, Institut Teknologi
+Sepuluh Nopember.
+Muyonga JH, Cole CGB, DuoduKG. 2004. Fourier
+transform infrared (FTIR) spectroscopic
+study of acid soluble collagen and gelatin
+from skins and bones of young and adult
+Nile
+perch
+(Lates
+niloticus).Food
+Chemistry.86(3): 325-332.
+Nurilmala M. 2004. Kajian potensi limbah tulang
+ikan keras (Teleostei) sebagai sumber
+gelatin dan analisis karakteristiknya.[Tesis].
+Bogor (ID): Sekolah Pasca Sarjana Institut
+Pertanian Bogor.
+Pelu H, Harwanti S, Chasanah E. 1998. Ekstraksi
+gelatin dari kulit ikan tuna melalui proses
+asam.
+Jurnal
+Penelitian
+Perikanan
+Indonesia. 4(2): 66-74.
+Prystupa DA, Donald AM. 1996. Infrared study of
+gelatin conformations in gel and sol
+states.Polymer Gels and Networks. 4: 87–
+110.
+Puspawati NMIN, Simpen, INS Miwada.
+2012.Isolasi Gelatin dari Kulit Kaki Ayam
+
+Hermanto, et.al.
+Broiler danKarakterisasi Gugus Fungsinya
+dengan Spektrofotometri FTIR.Denpasar
+(ID): Jurusan Kimia, Fakultas MIPA dan
+Fakultas Peternakan, Universitas Udayana.
+Schrieber R, Gareis H. 2007. Gelatin handbook:
+Theory and industrial practice. Weinheim
+(AU): Wiley-VCH Verlag GmbH &
+Co.KGaA.
+Sopian, I. 2002.Analisis Sifat Fisik, Kimia dan
+Fungsional Gelatin yang Diekstrak dari
+Kulit dan Tulang Ikan Pari.[Skripsi].Bogor
+(ID):Fakultas Teknologi Pertanian IPB.
+Stevens, P., Wijaya, I. and Paterson, J. (1995).
+Modelling
+of
+Physical Properties of
+Gelatin: Gel Strength. Food Australia, 47
+(4), 167-172.
+SukkwaiS, Kijroongrojana K, Benjakul S. 2011.
+Extraction of gelatin from bigeye snapper
+(Priacanthus tayenus)skin for gelatin
+hydrolysate production.International Food
+Research Journal.18(3): 1129-1134.
+Surono, Djazuli N, Budianto D, Widarto,
+Ratnawati, Aji US, Suyui AM, Sugiran.
+1994.Penerapan
+Paket
+Teknologi
+Pengolahan Gelatin dari Ikan Cucut.
+Jakarta (ID): Laporan Balai Pengembangan
+dan Pengendalian Mutu Hasil Perikanan.
+Surono,
+DjazuliN,
+BudiyantoD,
+Widarto,
+Ratnawati, Aji US, Suyuni AM, Sugiran.
+1994.
+Penerapan
+Paket
+Teknologi
+Pengolahan Gelatin dari Ikan Cucut. Jakarta
+(ID): Laporan BBMHP.
+Wahyuni Mita, Peranginangin Rosmawat. 2009.
+Perbaikan Daya Saing Industri Pengolahan
+Perikanan Melalui Pemanfaatan Limbah
+Non Ekonomis Ikan Menjadi Gelatin,
+(www.ikanmania.wordpress.com).
+Winarno FG.1997. Kimia Pangan dan Gizi. Jakarta
+(ID): PT Gramedia Pustaka Utama.
+Yunanto A. 2000. Luas Relung Dan Tumpang
+Tindih Makanan Dan Habitat Antara Ikan
+Sapu-Sapu (Hyposarcus pardalis) Dengan
+Ikan Lainnya Di Situ Cigudeg, Kabupaten
+Bogor. [Skripsi].Fakultas Perikanan dan
+Ilmu Kelautan, Institut Pertanian Bogor.
+
+120
+
+

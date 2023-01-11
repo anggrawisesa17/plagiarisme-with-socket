@@ -1,0 +1,391 @@
+Vol 8 No. 1 , 2020
+©2020 Ilmu Komputer Unila Publishing Network All Rights Reserved
+
+Jurnal Komputasi
+
+Aplikasi Web Pemetaan Wilayah Kelayakan Tanam Jagung Berdasarkan Hasil
+Panen di Kabupaten Lampung Selatan
+1Agung
+
+Tri Prastowo, 2*Dedi Darwis & 3Nurhuda Budi Pamungkas
+
+1,2,3
+
+Fakultas Teknik dan Ilmu Komputer, Universitas Teknokrat Indonesia, Bandar Lampung, Indonesia
+e-mail : 1agung.tri.prastowo@teknokrat.ac.id, 2darwisdedi@teknokrat.ac.id, 3nurhuda.budi@teknokrat.ac.id
+
+Abstract — South Lampung Regency is a district with the capital city of Kalianda which dominates agricultural areas,
+one of which is corn. With the corn harvest spread in each district in the South Lampung Regency, it will attract investors
+to invest or invest in corn farming in the South Lampung region. This application was built with the aim of making it
+easier for the community and potential investors to see the potential of the sub-district corn planting area based on the
+yield in the form of map visualization to make it easier to find the location of the area to be planted with corn. The result
+of this application is a web-based system in the form of map visualization to show potential areas for planting corn. Based
+on the results of tests conducted, this application has a percentage score of 85.96% meaning this application is very good
+to be implemented.
+Keywords: Corn Crops, Geographic Information Systems, South Lampung, Web
+
+1. PENDAHULUAN
+Seiring dengan perkembangan dan kemajuan teknologi informasi mendorong para masyarakat untuk
+menggunakan internet sebagai sarana penyedia informasi yang cepat dan tepat. Salah satu kebutuhan informasi
+yang dibutuhkan masyarakat dan para calon investor adalah kebutuhan informasi tentang sektor pertanian yang
+ada di wilayah Propinsi Lampung [1]. Salah satu wilayah pertanian yang cukup pesat perkembangannya di
+Propinsi Lampung adalah Kabupaten Lampung Selatan, Kabupaten ini memiliki luas wilayah sebesar 2.007,01
+km2, Kabupaten Lampung Selatan berada pada posisi antara 1050 sampai dengan 1050450 Bujur Timur dan
+50150 sampai dengan 60 Lintang Selatan[2]. Sektor pertanian yang paling banyak di Kabupaten Lampung
+Selatan adalah singkong dan jagung, kedua jenis tanaman hasil pertanian ini menyumbang banyak kontribusi
+bagi kemajuan masyarakat Lampung Selatan.
+Berdasarkan data dari Badan Pusat Statistik tahun 2019 hasil dari pertanian jagung di Kabupaten Lampung
+Selatan menampilkan hasil panen jagung yang bervariasi pada setiap kecamatan. Dengan hasil panen jagung
+yang tersebar di tiap kecamatan pada wilayah Kabupaten Lampung Selatan maka akan menarik para investor
+untuk menanamkan modal atau berinvestasi di bidang pertanian jagung di wilayah Lampung Selatan. Namun
+kendala para calon investor adalah menemukan kecamatan atau daerah yang paling berpotensi dan subur untuk
+ditanami jagung karena data yang tersedia di Badan Pusat Statistik (BPS) wilayah Lampung Selatan tidak
+menunjukkan secara detail kecamatan atau daerah mana yang sangat memiliki potensi untuk hasil panen
+jagung yang sangat baik. Untuk mempermudah calon investor dalam menemukan potensi daerah tanam jagung
+diperlukan alat berbasis teknologi dan aplikasi agar pencarian lokasi dapat lebih mudah dan tepat sasaran sesuai
+kebutuhan calon investor [3]. Salah satu teknologi yang dapat dikembangkan untuk memenuhi kebutuhan
+calon investor tanam jagung di wilayah Lampung Selatan adalah aplikasi Sistem Informasi Geografis (SIG)
+[4], [5]. Dengan menggunakan SIG dan memanfaatkan teknologi Global Position System (GPS) maka akan
+mempermudah calon investor dalam menemukan lokasi lahan tanam jagung yang berpotensi [6], [7].
+SIG merupakan sebuah sistem yang mengolah data tentang informasi spasial dan memiliki kemampuan untuk
+menyimpan, membangun, mengelola dan menampilkan informasi secara visual dalam bentuk grafis. SIG
+bekerja menggunakan perangkat komputer untuk menganalisis dan menghasilkan data bereferensi peta atau
+21
+
+Vol 8 No. 1 , 2020
+©2020 Ilmu Komputer Unila Publishing Network All Rights Reserved
+
+Jurnal Komputasi
+
+data geospasial [8]. Komponen yang harus ada untuk membangun SIG adalah Perangkat Keras (Hardware),
+Perangkat Lunak (Software), Data (Spasial dan Non Spasial), Manusia dan Metode [9].
+Aplikasi SIG untuk lahan tanaman jagung akan lebih akurat dengan adanya klasterisasi dan pemetaan wilayah
+[10], untuk membuat klasterisasi diperlukan beberapa fitur yang saling berkaitan yaitu luas panen (Ha),
+produksi(ton) dan tahun panen. Pada penelitian ini yang dilakukan adalah mengkombinasikan antara metode
+klasterisasi untuk membuat pemetaan wilayah daerah potensial penghasil jagung dan Sistem Informasi
+Geografis berbasis web untuk visualisasi peta hasil klasterisasi untuk mempermudah calon investor tanam
+jagung dalam melihat wilayah perkecamatan di Kabupaten Lampung Selatan.
+
+2. METODOLOGI PENELITIAN
+2.1. Tahapan Penelitian
+Tahapan penelitian merupakan gambaran tentang langkah-langkah dalam menyelesaikan masalah penelitian.
+Tahapan penelitian yang dilakukan pada penelitian ini dapat dilihat pada Gambar 1.
+
+Gambar 1. Tahapan Penelitian
+
+Penjelasan tahapan penelitian :
+1. Mengumpulkan data hasil panen jagung
+22
+
+Vol 8 No. 1 , 2020
+©2020 Ilmu Komputer Unila Publishing Network All Rights Reserved
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+Jurnal Komputasi
+
+Pada tahap ini, dikumpulkan data hasil panen jagung dari masing-masing kecamatan yang siap diolah
+untuk keperluan penelitian. Data yang diambil adalah data yang bersumber dari Badan Pusat Statistik
+(BPS) Lampung Selatan tahun 2017-2019.
+Analisis Data
+Pada tahap ini dibagi menjadi dua yaitu :
+a. Menganalisis data hasil panen berdasarkan tahun di mana data yang akan diteliti adalah data hasil
+panen 3 tahun terakhir.
+b. Menganalisis data berdasarkan kecamatan yaitu data yang diambil untuk penelitian ini adalah data
+hasil panen jagung dari masing-masing kecamatan yang ada di wilayah lampung selatan.
+Penentuan Fitur
+Fitur merupakan variabel yang dibentuk untuk proses klasterisasi atau pengelompokkan wilayah hasil
+panen jagung. Fitur yang digunakan pada panelitian ini adalah luas panen (Ha), produksi(ton) dan tahun
+panen.
+Analisis dan Perancangan Aplikasi
+Tahapan ini merupakan tahapan dimulainya pembangunan aplikasi, dimulai dari tahapan analisis dengan
+cara mengumpulkan kebutuhan sistem secara fungsional maupun non fungsional untuk mempermudah
+tahapan selanjutnya yaitu perancangan sistem menggunakan use case diagram untuk memodelkan
+aplikasi dan perancangan basis data.
+Membangun Aplikasi SIG
+Tahapan ini merupakan tahapan inti dari penelitian ini yaitu membangun aplikasi. Program yang dibuat
+berbasis website sehingga mempermudah admin pengguna aplikasi (calon investor) dalam memetakan
+wilayah tanaman penghasil jagung.
+Pemetaan Menggunakan Google Maps
+Aplikasi ini memanfaatkan Google Maps API untuk mempermudah dalam pemetaan wilayah agar data
+hasil panen jagung dapat ditampilkan dalam bentuk peta agar dapat dengan mudah mencari titik lokasi
+dan informasi lainnya yang dibutuhkan oleh pengguna.
+Menguji Aplikasi
+Setelah aplikasi selesai dibangun, untuk mengukur apakah program sudah sesuai dengan kebutuhan maka
+dilakukan proses pengujian menggunakan metode pengujian black box yaitu pengujian berfokus pada
+fungsionalitas aplikasi meliput : functionality, reliability, usability, dan efficiency.
+Evaluasi Hasil
+Tahapan ini merupakan proses akhir dari penelitian yaitu evaluasi hasil pengujian dan kelayakan
+penerapan aplikasi untuk dapat digunakan oleh masyarakat yang membutuhkan.
+
+2.2. Metode Pengumpulan Data
+Metode pengumpulan data yang dilakukan dalam penelitian ini, yaitu :
+1. Wawancara (Interview)
+Metode pengumpulan data atau informasi dilakukan dengan cara bertanya langsung kepada Badan Pusat
+Statiktik (BPS) Lampung Selatan.
+2. Observasi (Observation)
+Kegiatan yang dilakukan adalah pengamatan langsung kelokasi daerah pertanian jagung di wilayah
+Lampung Selatan, mengamati secara langsung lokasi yang diteliti. Hal ini dimaksudkan untuk
+memperoleh gambaran yang jelas tentang daerah penghasil jagung.
+3. Tinjauan Pustaka (Literature Review)
+Tinjauan pustaka dilakukan dengan cara mempelajari berbagai laporan-laporan ilmiah dan doumen atau
+sumber bacaan serta buku-buku yang berkaitan atau berhubungan dengan topik penelitian.
+
+3. HASIL DAN PEMBAHASAN
+3.1. Analisis Kebutuhan Sistem
+23
+
+Vol 8 No. 1 , 2020
+©2020 Ilmu Komputer Unila Publishing Network All Rights Reserved
+i.
+
+Jurnal Komputasi
+
+Kebutuhan Fungsional
+1. Sistem dapat login ke aplikasi dengan dua hak akses yaitu admin yang akan dikelola oleh BPS
+Lampung Selatan dan Pengunjung yaitu masyarakat atau calon investor tanaman jagung.
+2. Sistem harus dapat mengelola data kecamatan yang ada di Lampung Selatan
+3. Sistem harus dapat mengolah data hasil panen jagung pada masing-masing kecamatan
+4. Sistem harus dapat menyimpan perhitungan hasil klasterisasi untuk keperluan pemetaan
+5. Sistem harus dapat menampilkan data kelayakan potensi dari masing-masing kecamatan
+6. Sistem harus dapat menampilkan informasi hasil kelayakan pada tiap kecamatan secara visual
+menggunakan google maps API
+
+ii.
+
+Kebutuhan Non Fungsional
+
+Untuk perancangan aplikasi ini digunakan kebutuhan non fungsional berupa perangkat keras dan
+perangkat lunak, yaitu :
+1. Perangkat Keras
+Spesifikasi perangkat keras yang digunakan dalam perancangan aplikasi ini adalah sebagai
+berikut :
+a. Processor Intel(R) Core(TM) i3- 2.40GHz
+b. Hardisk 320 GB atau berkapasitas lebih besar.
+c. Memori RAM 1 GB atau lebih besar
+d. Printer Canon MP287
+2. Perangkat Lunak
+Spesifikasi perangkat lunak yang dibutuhkan dalam perancangan aplikasi ini adalah sebagai
+berikut :
+a. Sistem Operasi Windows 7/8/10
+b. Dreamweaver
+c. Database MySQL
+d. Xampp V3.2.1
+e. Mozila Firefox / Google Chrome
+3.2. Use Case Diagram
+Use Case digunakan untuk mempermudah dalam pembuatan aplikasi, use case juga menjelaskan bagaimana
+setiap aktor berinteraksi dan menunjukkan fungsionalitas dari masing-masing pengguna. Use case diagram
+pada aplikasi ini dapat dilihat pada Gambar 2.
+
+24
+
+Vol 8 No. 1 , 2020
+©2020 Ilmu Komputer Unila Publishing Network All Rights Reserved
+
+Jurnal Komputasi
+
+Gambar 2. Use Case Diagram
+
+3.3. Tampilan Program
+Hasil penelitian ini yaitu mengimplementasikan sistem agar dapat digunakan. Setelah melakukan analisa,
+desain dan pengkodean menggunakan Framework Codeigniter 3.5.1 didukung database MySQL, maka sistem
+yang sudah jadi akan digunakan, namun sebelum di gunakan sistem harus di lakukan testing terlebih dahulu,
+hal ini dimaksudkan apakah sistem berjalan dengan baik sehingga tujuan pembuatan sistem berguna dalam
+informasi kelayakan tanam jagung pada kabupaten lampung selatan.. Sistem yang telah dianalisis dan didesain,
+selanjutnya sistem dapat diimplementasikan (diterapkan). Tahap implementasi sistem merupakan tahap di
+mana sistem siap untuk dioperasikan. Berikut beberapa tampilan program yang siap diimplementasikan :
+
+25
+
+Vol 8 No. 1 , 2020
+©2020 Ilmu Komputer Unila Publishing Network All Rights Reserved
+
+Jurnal Komputasi
+
+1. Form Login
+Form login adalah awal ketika memasuki menu admin untuk mengolah data hasil panen yang dapat dilihat
+pada gambar, maka pengguna harus memasukan username dan password yang telah tersimpan pada sistem,
+tampilan halaman login dapat dilihat pada Gambar 3.
+
+Gambar 3. Form Login
+
+2. Form Menu Utama
+Form menu utama adalah tampilan awal ketika masuk sebagai admin pada sistem kelayakan tanam jagung.
+Tampilan menu utama dapat dilihat pada Gambar 4.
+
+Gambar 4. Tampilan Form Menu Utama
+
+Berikut penjelasan mengenai tampilan pada Gambar 4 :
+1. Menu about adalah menu tentang informasi dari Badan Pusat Statitik (BPS) Lampung Selatan.
+2. Menu master data untuk mengelola data kecamatan, hasil panen.
+3. Menu mapping untuk mengahasilkan informasi kelayakan secara geografis menggunakan google
+map.
+4. Menu account untuk mengolah data admin.
+3. Form Tampilan Mapping / Pemetaan Hasil Panen Jagung
+Tampilan mapping adalah tampilan inti dari informasi geografis menggunakan goggle maps API. Pada
+mapping ini menampilkan informasi kelayakan dari masing-masing kecamatan berdasarkan hasil
+26
+
+Vol 8 No. 1 , 2020
+©2020 Ilmu Komputer Unila Publishing Network All Rights Reserved
+
+Jurnal Komputasi
+
+pengelompokkan / klasterisasi yang telah tersimpan didatabase. Tampilan mapping dapat dilihat pada Gambar
+5.
+
+Gambar 5. Tampilan Pemetaan Hasil Panen Jagung
+
+Pada informasi Gambar 5 dapat terlihat bahwa kecamatan yang berpotensi untuk ditanami jagung adalah yang
+menampilkan simbol ceklis, sedangkan wilayah yang terdapat tanda silang maka wilayah tersebut tidak
+berpotensi untuk ditanami jagung.
+4. Form Tampilan Grafik Hasil Panen
+Tampilan form grafik hasil panen menampilkan informasi tentang jumlah hasil panen keseluruhan yang ada
+dikabupaten lampung selatan secara grafik pada setiap kecamatan. Tampilan grafik dapat dilihat pada Gambar
+6.
+
+Gambar 6. Tampilan Grafik Hasil Panen
+
+5. Form Tampilan Kelayakan Hasil Panen Jagung
+Tampilan form kelayakan menampilkan informasi tentang hasil perhitungan klasterisasi dari data hasil panen
+yang diolah sehingga menghasilkan suatu informasi kelayakan pada masing-masing kecamatan dikabupaten
+lampung selatan. Tampilan hasil kelayakan dapat dilihat pada Gambar 7.
+27
+
+Vol 8 No. 1 , 2020
+©2020 Ilmu Komputer Unila Publishing Network All Rights Reserved
+
+Jurnal Komputasi
+
+Gambar 7. Tampilan Hasil Kelayakan Tanam Jagung
+
+3.4. Pengujian Aplikasi
+Pengujian dilakukan dengan menggunakan metode black box testing dengan menggunakan empat aspek yaitu
+: Functionality, Reliability, Usability dan efficiency. Pengujian ini melibatkan 20 responden yang terdiri dari
+admin BPS Lampung Selatan dan masyarakat umum / calon investor. Hasil pengujian dapat dilihat pada Tabel
+1.
+Tabel 1. Hasil Pengujian
+Aspek
+
+SkorAktual
+
+SkorIdeal
+
+% Skor Aktual
+
+Kriteria
+
+Functionality
+
+805
+
+900
+
+89,44%
+
+Sangat Baik
+
+Reliability
+
+416
+
+500
+
+83,2%
+
+Baik
+
+Usability
+
+735
+
+800
+
+91,87%
+
+Sangat Baik
+
+Efficiency
+
+238
+
+300
+
+79,33%
+
+Baik
+
+Total
+
+2194
+
+2500
+
+85,96%
+
+Sangat Baik
+
+Berdasarkan informasi pada Tabel 1 dapat disimpulkan bahwa tingkat kualitas perangkat lunak secara
+keseluruhan dalam kriteria Sangat Baik, dengan persentase 85,96%. Aspek kualitas tertinggi adalah
+berdasarkan aspek Usability dengan persentase sebesar 91,87%, selajutnya aspek Functionality dengan
+persentase 89,44%. Aspek Reliability dengan persentase sebesar 83,2%, sedangkan aspek kualitas terendah
+adalah dari aspek Efficiency dengan persentase sebesar 79,33%.
+
+4. KESIMPULAN
+Berdasarkan hasil dari penelitian yang telah dilakukan maka dapat disimpulkan bahwa Aplikasi Web Pemetaan
+Wilayah Kelayakan Tanam Jagung Berdasarkan Hasil Panen di Kabupaten Lampung Selatan dapat
+menampilkan wilayah yang berpotensi ditanami jagung dan tidak berpotensi ditanami jagung berdasarkan
+kecamatan. Berdasarkan hasil pengujian yang dilakukan sistem ini memiliki nilai skor aktual sebesar 85,96%
+artinya sistem ini sudah sangat baik dan layak untuk diimplementasikan.
+28
+
+Vol 8 No. 1 , 2020
+©2020 Ilmu Komputer Unila Publishing Network All Rights Reserved
+
+Jurnal Komputasi
+
+UCAPAN TERIMA KASIH
+Ucapan terimakasih kami sampaikan kepada Kementerian Riset dan Teknologi / Badan Inovasi Nasional yang
+telah memberikan hibah Penelitian Dosen Pemula (PDP) tahun pelaksanaan 2020.
+
+DAFTAR PUSTAKA
+[1] D. Darwis., Aplikasi Kelayakan Lahan Tanam Singkong Berdasarkan Hasil Panen Berbasis Mobile,
+Jurnal Teknoinfo, Vol.10. No.1., pp. 1-6, 2016.
+[2] BPS. (2019) Pertanian dan Pertambangan. [Online]. Available: https://lampungselatankab.bps.go.id/
+[3] A. Susanto., A. Kharis., T. Khotimah., Sistem Informasi Geografis Pemetaan Lahan Pertanian dan
+Komoditi Hasil Panen Kabupaten Kudus, Jurnal Informatika, Vol.10. No.2., pp. 1233-1243, 2016.
+[4] A.F.O. Pasaribu., D. Darwis., A. Irawan., A. Surahman., Sistem Informasi Geografis untuk Pencarian
+Lokasi Bengkel Mobil di Wilayah Kota Bandar Lampung, Jurnal Teknokompak, Vol.13. No.2., pp. 1-16,
+2019.
+[5] D. Susilowati., L.E. Sudiati., Rancang Bangun Sistem Informasi Geografis untuk Pemetaan Pertanian
+Jagung di Dinas Pertanian Tanaman Pangan dan Peternakan Kabupaten Pati Berbasis Website, STIMIKIA,
+Vol.2. No.2., pp. 103-112, 2016.
+[6] I. Irnawati., I.K. Sardiana., I. Lanya., Aplikasi Remote Sensing dan Geographic Information System untuk
+Pemetaan Komoditas Unggulan di Kabupaten Badung, Agrotrop, Vol.9. No.1., pp. 69-81, 2019.
+[7] D. Darwis., A.F.O Pasaribu., H. Sulistiani., Y.R. Putra., Aplikasi Sistem Informasi Geografis Pencarian
+Puskesmas di Kabupaten Lampung Timur, Jurnal Komputer dan Informatika, Vol.15. No.1., pp. 159170, 2020.
+[8] G.S Ogato., A. Bantider., K. Abebe., D. Geneletti., Geographic information system (GIS)-Based
+multicriteria analysis of flooding hazard and risk in Ambo Town and its watershed, West shoa zone,
+oromia regional State, Ethiopia Gemechu, Journal of Hydrology: Regional Studies., pp. 1-18, 2020.
+[9] B.R Eldita., D. Kurniawan., F.E Febriansyah., Aplikasi Sistem Informasi Geografis Objek Wisata
+Berbasis Mobile Android pada Dinas Kepemudaan, Olahraga dan Pariwisata (Bidang Pariwisata) Kota
+Metro, Jurnal Komputasi, Vol.6. No.1., pp. 54-63, 2018.
+[10] O. Dwipurwani., Aplikasi Twostep Cluster Analysis dan Biplot pada Pengelompokkan Provinsi di
+Indonesia Berdasarkan Tanaman Padi, Jagung, Ubi Kayu, Seminar Nasional Matematika dan Pendidikan
+Matetmatika, Universitas Negeri Yogyakarta, 2016.
+
+29
+
+

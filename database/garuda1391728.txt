@@ -1,0 +1,1257 @@
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+POTENSI DAN PELUANG PENGEMBANGAN USAHA
+PERIKANAN TANGKAP DI PANTURA JAWA TENGAH
+Potency and Development Opportunity of Bussines Capture Fisheries
+in North Coastal of Central Java
+Imam Triarso
+Program Studi Pemanfaatan Sumberdaya Perikanan, Jurusan Perikanan
+FPIK-UNDIP
+Email : imam_triarso@yahoo.com
+Diserahkan tanggal 31 Agustus 2012, Diterima tanggal 2 November 2012
+ABSTRAK
+Potensi sumberdaya perikanan tangkap di Indonesia, termasuk di pantura Jawa Tengah terindikasi
+telah mengalami tangkap lebih (overfishing). Kondisi ini salah satunya disebabkan oleh tekanan
+penangkapan yang didominasi oleh perikanan tangkap skala kecil yang banyak beroperasi di perairan
+pantai. Oleh sebab itu, pengelolaan dan pemanfaatan sumberdaya perikanan tangkap di pantura Jawa
+Tengah ke depan sudah saatnya dilakukan rasionalisasi dan menentukan kebijakan yang berkaitan dengan
+peningkatan armada perikanan tangkap yang mampu beroperasi di lepas pantai yang masih memberikan
+peluang pengembangan usaha perikanan tangkap. Tujuan penelitian ini adalah untuk menganalisis
+seberapa tinggi potensi dan tingkat pemanfaatan sumberdaya perikanan tangkap di pantura Jawa Tengah
+dan peluang pengembangan usaha perikanan tangkap tersebut di masa yang akan datang. Metode yang
+digunakan dalam penelitian ini adalah metode survei dan observasi lapangan di masing-masing
+kabupaten/kota pantura Jawa Tengah sebagai daerah penerima bantuan kapal >30 GT yang meliputi
+Kabupaten Pekalongan, Kota Pekalongan, Kabupaten Batang, Kabupaten Pati, dan Kabupaten Rembang.
+Analisis data untuk menduga potensi dan peluang pengembangan usaha perikanan tangkap di waktu yang
+akan datang dilakukan dengan menggunakan model bioekonomi dari Gordon-Schaefer (Sparre and
+Venema, 1999) berdasarkan data time series produksi ikan dan upaya penangkapan dari tahun 2006-2009.
+Hasil penelitian menunjukkan potensi sumberdaya perikanan tangkap di pantura Jawa Tengah, termasuk
+di beberapa kabupaten/kota pantura Jawa Tengah terindikasi telah mengalami overfishing. Pemanfaatan
+sumberdaya perikanan tangkap yang overfishing tersebut terbukti tidak efisien, karena dengan tingkat
+upaya penangkapan lebih besar dari EMSY, namun hasil tangkapannya justru lebih kecil dibandingkan
+CMSY, di mana dalam kurun waktu 2006 – 2009 produksi perikanan di pantura Jawa Tengah berkisar
+153,698-195,636 ton. Dengan kondisi potensi sumberdaya perikanan tangkap di pantura Jawa Tengah
+tersebut, maka program bantuan kapal sebesar >30 GT dari pemerintah yang diperuntukan untuk
+mengurangi tekanan perikanan tangkap merupakan peluang pengembangan usaha perikanan tangkap.
+Meski demikian perlu dilakukan perbaikan, terutama dalam hal spesifikasi kapal dan perlengkapannya
+serta peningkatan pelabuhan perikanan yang memadai untuk fishing base dari kapal-kapal tersebut
+sehingga tujuan peningkatan produksi dan kelestarian sumberdaya ikan dapat dicapai untuk meningkatkan
+pendapatan nelayan.
+Kata kunci: produksi perikanan, model bioekonomi, pengelolaan perikanan tangkap skala kecil.
+ABSTRACT
+The research on capture fisheries resources in north coastal of Central Java were to anticipate
+amount produce and effort of capture fisheries. Usefulness from this research expected to earn as
+reference of management of small scale fisheries and consideration alternative which can be taken for
+local government of Central Java Province. Primary data were collected from local fishers, while
+secondary data were collected from district and Marine and Fishery Services Central Java Province.
+Data series of 2006 to 2009 were also analyzed by bioeconomic analysis with surplus production model.
+The result indicate that condition of capture fisheries resources in North Coastal of Central Java were
+overfishing, included its several regency/city adjacent areas. The effort in developing fish capture has
+reached its boredom circumstance so this situation needs better maintenance and control toward the
+capturing activities. The policiy expected to minimize exploitation of fishery resources on coastal area,
+and the vessel can more further to off shore and oceanic area. The government as a policy maker on
+6
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+fisheries management for coastal fisheries must applicable precautionary approach by focusing on
+biology and economic aspects.
+Key words : fisheries product, bio-economic model, small scale fisheries management.
+\
+PENDAHULUAN
+telah mengalami tangkap lebih (overfishing).
+Sektor perikanan memiliki peranan
+Kondisi ini terlihat dari hasil penelitian Komisi
+strategis dalam pembangunan nasional. Ditinjau
+Nasional Pengkajian Stok Sumberdaya Ikan
+dari potensi sumberdaya alam, Indonesia
+Laut (1998) dan Merta dkk. (1999), bahwa
+dikenal sebagai negara maritim terbesar di dunia
+tingkat pemanfaatan sumberdaya perikanan laut
+karena memiliki potensi kekayaan sumberdaya
+di L. Jawa telah mencapai sebesar 130%.
+perikanan yang relatif besar. Sektor perikanan
+Demikian pula dengan hasil kajian pendugaan
+juga menyerap banyak tenaga kerja, mulai dari
+sumberdaya dan ekologi di perairan Brebes
+kegiatan penangkapan, budidaya, pengolahan,
+hingga Semarang yang telah dilakukan beberapa
+distribusi dan perdagangan. Oleh karena itu,
+tahun yang lalu secara jelas mengindikasikan
+pembangunan sektor perikanan tidak dapat
+bahwa sustainabilitas perikanan tangkap
+diabaikan oleh pemerintah Indonesia.
+terancam oleh overfishing yang ditandai dengan
+Di
+Jawa
+Tengah,
+pembangunan
+hasil tangkapan ikan yang cenderung menurun
+perikanan telah dilaksanakan dari tahun ke
+dan ukuran ikan hasil tangkapan yang semakin
+tahun, di mana potensi perikanan dan kelautan
+kecil dari tahun ke tahun (Triarso, 2004).
+telah dimanfaatkan untuk berbagai macam
+Dengan telah menipisnya potensi lestari
+kegiatan pembangunan. Namun demikian
+sumberdaya ikan di perairan pantai, maka hasil
+pembangunan perikanan di Jawa Tengah,
+tangkap nelayan menjadi semakin rendah
+khususnya perikanan laut di daerah pantai Utara
+sehingga
+pendapatan
+merekapun
+dapat
+(pantura) Jawa Tengah akhir-akhir ini
+dikatakan jauh dari cukup untuk meningkatkan
+menunjukkan kondisi yang dilematis dan
+kesejahteraannya. Oleh sebab itu, pengelolaan
+krusial.
+Tuntutan
+peningkatan
+produksi
+dan pemanfaatan sumberdaya perikanan laut di
+perikanan dan pendapatan masyarakat nelayan
+Jawa Tengah ke depan sudah saatnya dilakukan
+yang dilakukan dengan meningkatkan kapasitas
+rasionalisasi dan menentukan kebijakan yang
+perikanan ternyata justru telah memperburuk
+berkaitan dengan peningkatan armada perikanan
+keadaan, di mana yang terjadi adalah sebaliknya
+tangkap yang mampu beroperasi di lepas pantai
+yaitu penurunan produksi yang berakibat pada
+sehingga nantinya tidak saja kelestarian
+rendahnya pendapatan yang diperoleh sebagian
+sumberdaya ikan akan lebih terjaga, tetapi
+besar masyarakat nelayan.
+keberlangsungan usaha perikanan tangkap yang
+Pembangunan perikanan tangkap pada
+dilakukan oleh banyak nelayan di pantura Jawa
+hakekatnya ditujukan untuk meningkatkan
+Tengah juga lebih terjamin.
+kesejahteraan masyarakat, khususnya nelayan
+Berdasarkan usulan Gubernur Provinsi
+dan sekaligus untuk menjaga kelestarian
+Jawa Tengah kepada Presiden RI pada acara
+sumberdaya ikan serta lingkungannya. Tujuan
+Rakor Gubernur tanggal 2-3 Februari 2010, dan
+tersebut dewasa ini
+diperluas cakupannya
+sesuai dengan Inpres No. 1 Tahun 2010 tentang
+sehingga tidak hanya untuk meningkatkan
+Percepatan Pelaksanaan Prioritas Pembangunan
+kesejahteraan nelayan dan menjaga kelestarian
+Nasional Tahun 2010 yang di dalamnya terdapat
+sumberdaya
+ikan,
+tetapi
+juga
+untuk
+program Ketahanan Pangan Nasional, maka
+meningkatkan kontribusi Sub Sektor Perikanan
+pada tahun 2010 Pemerintah Provinsi Jawa
+Tangkap terhadap pembangunan perekonomian
+Tengah melalui Dinas Kelautan dan Perikanan
+nasional (pro growth),
+dan membantu
+Provinsi Jawa Tengah, telah melaksanakan
+mengatasi krisis multidimensi yang sedang
+Pekerjaan Pembangunan Kapal Ikan >30 GT
+melanda negara kita, baik dalam bentuk
+yang diperuntukkan bagi nelayan tradisional di
+penyediaan lapangan kerja (pro job),
+pantura Jawa Tengah. Dengan adanya bantuan
+penerimaan devisa melalui ekspor, penerimaan
+kapal ini diharapkan dapat mengurangi tekanan
+negara bukan pajak, maupun untuk pengentasan
+eksploitasi perikanan tangkap skala kecil di
+kemiskinan (pro poor).
+daerah pantai sehingga akan dapat memberikan
+Saat ini tingkat pemanfaatan potensi
+peluang pengembangan usaha perikanan
+sumberdaya perikanan laut di perairan pantai
+tangkap dengan tujuan untuk meningkatkan
+Utara (pantura) Jawa Tengah mulai dari
+pendapatan dan taraf hidup nelayan.
+Kabupaten Brebes di bagian Barat hingga
+Berdasarkan fenomena tersebut di atas,
+Kabupaten Rembang di bagian Timur ditengarai
+maka tujuan penelitian ini adalah untuk
+7
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+menganalisis seberapa tinggi potensi dan tingkat
+pemanfaatan sumberdaya perikanan tangkap di
+pantura
+Jawa
+Tengah
+dan
+peluang
+pengembangan usaha perikanan tangkap
+tersebut di masa yang akan datang.
+
+Di mana F(X) adalah pertumbuhan alami, X
+adalah jumlah stok ikan, K adalah carrying
+capacity atau daya dukung lingkungan dan r
+adalah intrinsic growth rate. Untuk mencari
+pertumbuhan alami yang maksimal, maka dapat
+dilakukan melalui turunan pertama sama dengan
+nol pada persamaan F(X). Di sisi lain, hasil
+tangkapan ikan atau catch (C) dipengaruhi oleh
+jumlah stok ikan (X), dan upaya penangkapan
+atau effort (E) yang dilakukan. Kegiatan
+penangkapan ikan mengikuti persamaan berikut
+:
+C (E, X) = qEX
+
+METODA PENELITIAN
+Pengumpulan Data
+Kajian ini tergolong sebagai penelitian
+terapan (applied research) yang diaplikasikan
+pada bidang perikanan.. Menurut Kuncoro
+(2004), penelitian terapan merupakan penelitian
+yang menyangkut aplikasi teori untuk
+memecahkan masalah tertentu.
+Metode yang digunakan dalam penelitian
+ini adalah metode survei dan observasi lapangan
+di masing-masing kabupaten/kota pantura Jawa
+Tengah sebagai daerah penerima bantuan kapal
+>30 GT yang meliputi Kabupaten Pekalongan,
+Kota
+Pekalongan,
+Kabupaten
+Batang,
+Kabupaten Pati, dan Kabupaten Rembang.
+Dalam survei ini dilakukan pengumpulan data,
+baik data primer maupun data sekunder dengan
+menggunakan metoda wawancara yang disertai
+dengan daftar kuesioner. Pada masing-masing
+kabupaten/kota tersebut dilakukan pengambilan
+data primer dan sekunder guna mengetahui
+kondisi saat ini untuk masukan dalam
+melakukan evaluasi/penilaian pada kegiatan
+pelaksanaan bantuan kapal >30 GT bagi nelayan
+Jawa Tengah tahun 2010.
+Dengan
+memperhatikan
+wilayah
+pengelolaan perikanan di mana kapal bantuan
+>30 GT melakukan aktivitas penangkapan ikan,
+selanjutnya
+dilakukan
+analisis
+dengan
+menggunakan model bioekonomi dari GordonSchaefer (Sparre and Venema, 1999) guna
+mendapatkan gambaran mengenai potensi
+sumberdaya ikan dan peluang pengembangan
+usaha perikanan tangkap di waktu yang akan
+datang. Sedangkan. untuk mendapatkan
+informasi yang komprehensip, maka pada
+pelaksanaannya dilakukan FGD terhadap
+kelompok penerima bantuan kapal serta
+stakeholders terkait.
+
+Di mana q adalah konstanta dari koefisien daya
+tangkap. Keseimbangan akan terjadi apabila
+antara pertumbuhan alami sebanding dengan
+laju penangkapan atau dX/dt = F(X) – C (E, X)
+= 0. Oleh karena itu, persamaannya menjadi
+sebagai berikut :
+
+X
+
+rX 1 =  = qEX = 0
+K
+
+ qE 
+X = K 1 =
+
+r 
+
+ qE 
+C = qKE 1 =
+
+r 
+
+Selanjutnya, persamaan C pada kondisi
+keseimbangan F(X) dan C(E, X) dapat
+disederhanakan menjadi :
+C = E - E2
+CPUE =  - E
+Di mana  = qK dan  = q2 K / r. Untuk
+mendapatkan hasil tangkapan optimal yang
+lestari atau maximum sustainable yield (MSY),
+maka perlu dilakukan dengan menurunkan
+persamaan C terhadap E sama dengan nol, yaitu
+dC/dE = 0, sehingga diperoleh persamaan effort
+dan catch yang optimal sebagai berikut ini :
+
+Analisis Data
+Dalam model bioekonomi GordonSchaefer, stok sumber daya ikan mengikuti
+kurva pertumbuhan logistik, di mana laju
+pertumbuhan surplus didefinisikan sebagai
+berikut :
+
+F ( X ) = rX (1 =
+
+EMSY =  / 2 
+CMSY = 2 / 4 
+
+X
+)
+K
+
+HASIL DAN PEMBAHASAN
+
+8
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+Keragaan Perikanan Tangkap di Jawa
+Tengah
+Menurut Dinas Kelautan dan Perikanan
+Provinsi Jawa Tengah (2005), perikanan Jawa
+Tengah di dominasi oleh sumberdaya perikanan
+tangkap dari laut. Potensi sumberdaya ikan yang
+tersebar di perairan Jawa Tengah sekitar
+1,873,530 ton tahun-1 meliputi Laut Jawa sekitar
+796,640 ton tahun-1 dan Samudera Hindia
+sekitar 1,076,890 ton tahun-1, terkandung di
+dalamnya meliputi ikan pelagis besar (tuna,
+hiu), pelagis kecil, demersal, ikan hias, ikan
+karang,
+udang,
+kepiting,kerang-kerangan,
+teripang, dan lain-lain.
+Beberapa jenis alat tangkap yang
+digunakan oleh para nelayan Jawa Tengah
+adalah pukat tarik, pukat kantong, pukat cincin,
+jaring insang, jaring angkat, pancing, alat
+pengumpul, dan alat tangkap lainnya dengan
+jumlah total alat tangkap pada tahun 2005
+sebanyak 39,407 unit. Sedangkan armada
+penangkapan yang beroperasi di perairan Jawa
+Tengah 26,597 buah yang terdiri dari perahu
+
+tanpa motor, motor tempel, dan kapal motor.
+Armada penangkapan pada perikanan
+laut pada tahun 2005 mencapai 18,790 armada,
+terdiri dari perahu tanpa motor, motor tempel
+dan kapal motor, dengan jarak tempuh berkisar
+3-12 mil. Seiring dengan adanya kondisi
+overfishing di pantai Utara Jawa Tengah yang
+berpengaruh pada menurunnya jumlah amada
+penangkapan dan produksi hasil tangkapan,
+maka telah terjadi peralihan usaha penangkapan
+ke jalur >12 mil dengan ukuran armada >30 GT
+(daerah fishing ground hingga ke perairan
+Bengkulu/Sumatra, Kalimantan dan Sulawesi),
+yang terkonsentrasi pada hasil tangkapan ikan
+berkomoditas ekspor atau bernilai jual tinggi.
+Saat ini armada penangkapan tersebut telah
+dilengkapi pula dengan peralatan navigasi
+modern dan mesin pendingin ikan di kapal.
+
+Gambar 1. Grafik Perkembangan Jumlah Armada Perikanan Laut di Jawa Tengah Tahun 2001 - 2005
+Sebagian besar armada penangkapan
+perikanan laut berukuran 0-5 GT dan motor
+tempel dengan jumlah armada sebanyak 16,119
+(85.78%) yang beroperasi di jalur A dan B, di
+mana jumlah terbanyak di daerah Kabupaten
+Rembang. Armada penangkapan berukuran 5-10
+GT (2.84%) dan 10-30 GT tersebar di daerah
+Cilacap dengan alat tangkap jarring Lampara,
+Cantrang, Gillnet, Gill net millennium, Gill net
+monofilament, Mini Purse Seine. Sedangkan
+armada > 30 GT (4.76%) banyak tersebar di
+Pekalongan dan 4.85% adalah perahu tanpa
+motor.
+
+stok sumberdaya ikan Laut Jawa adalah sebagai
+berikut :
+
+Udang 55,000 ton
+
+Ikan demersal 258,000 ton
+
+Ikan pelagis kecil 458,.820 ton
+
+Ikan pelagis besar 143,410 ton
+Wilayah perairan Indonesia terbagi
+menjadi 10 (sepuluh) Wilayah Pengelolaan
+Perikanan (WPP), termasuk
+salah satunya
+adalah WPP Laut Jawa. Dari berbagai WPP
+yang ada, kondisi stok sumberdaya ikan
+bervariasi keadaannya, mulai dari uncertain,
+over exploited, fully exploited, moderately
+exploited dan under exploited. Pemerintah perlu
+memberi perhatian khusus pada stok
+sumberdaya ikan yang sudah pada tingkat status
+over exploited dan fully exploited. Sebagai
+contoh, sumberdaya ikan yang telah mengalami
+
+Potensi dan Peluang Pengembangan Usaha
+Perikanan Tangkap
+Komisi Nasional Pengkajian Stok
+Sumberdaya Ikan (1999) mengestimasi kondisi
+9
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+fully exploited antara lain : sumberdaya ikan
+pelagis kecil pada WPP Selat Malaka, demersal
+pada WPP Laut Cina Selatan, demersal dan
+udang pada WPP Laut Jawa, demersal pada
+WPP Laut Flores-Selat Makasar, pelagis besar
+pada WPP Teluk Tomini dan Laut Maluku,
+demersal, udang dan pelagis besar pada WPP
+Samudera Hindia A serta semua jenis
+sumberdaya ikan pada WPP Samudera Hindia
+B. Kondisi fully exploited merupakan kondisi
+tingkat penangkapan padat, namun masih bisa
+dilakukan penangkapan tetapi dengan kehati-
+
+hatian (precautionary). Sedangkan sumberdaya
+ikan yang mengalami over exploited, antara lain
+: sumberdaya ikan demersal dan udang pada
+WPP Selat Malaka, pelagis kecil pada WPP
+Laut Cina Selatan, pelagis kecil pada WPP Laut
+Jawa, udang pada WPP Laut Flores-Selat
+Makasar serta pelagis besar pada WPP
+Samudera Pasifik dan Laut Sulawesi. Kondisi
+over exploited merupakan kondisi pada saat
+tingkat penangkapan sangat padat sehingga
+tidak bisa dilakukan penambahan upaya
+penangkapan lagi.
+
+Tabel 1. Persentase Armada Penangkapan yang Beroperasi di Jalur Penangkapan dan Jenis Alat di Jawa
+Tengah
+
+Pada uraian berikut ini dipaparkan hasil
+analisis potensi dan peluang pengembangan
+usaha perikanan tangkap di pantura Jawa
+Tengah
+maupun
+pada
+lokasi-lokasi
+kabupaten/kota sebagai daerah penerima
+bantuan kapal >30 GT.
+Hasil analisis surplus produksi dengan
+menggunakan
+model
+Gordon-Schaefer
+diperoleh nilai pada Tabel 2. Analisis ini
+berasumsi bahwa sumberdaya ikan di pantura
+Jawa Tengah bersifat single stock. Fungsi
+
+produksi ikan di pantura Jawa Tengah
+mengikuti formula: C= 9,038417982 E- 9,46545
+X 10-5 E2 dengan R2 sebesar 74%, dimana C
+adalah produksi atau catch dengan satuan ton
+per tahun, serta E adalah upaya penangkapan
+atau fishing effort dengan satuan trip per tahun.
+Nilai R2 tersebut relatif tinggi secara statistik
+untuk pendugaan hubungan C dan E. Formula di
+atas dapat disederhanakan menjadi CPUE =
+9.038417982
+–
+9.46545
+X
+105E.
+
+Tabel 2. Analisis Surplus Produksi di Pantura Jawa Tengah
+Keterangan
+
+Nilai
+
+A
+B
+R2
+E MSY
+C MSY
+
+9.038417982
+9.46545E-05
+74%
+47,744
+215,766
+
+Hasil analisis menunjukkan tingkat
+upaya penangkapan level MSY (EMSY) sebesar
+47,744 trip Purse seine per tahun, di mana
+Purse seine dijadikan alat tangkap standar.
+Upaya penangkapan level MSY tersebut secara
+teoritis akan menghasilkan produksi sebesar
+215,766 ton per tahun. Apabila diperbandingkan
+
+dengan upaya penangkapan aktual, nampak
+bahwa perikanan di pantura Jawa Tengah telah
+mengalami overfishing. Sebagai gambaran,
+selama tahun 2006-2009 upaya penangkapan
+berkisar antara 54,245-73,459 setara trip Purse
+seine.
+10
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+Tabel 3. Produksi dan Upaya Penangkapan di Pantura Jawa Tengah
+Tahun
+Produksi (ton)
+Effort Standar (trip Purse seine)
+
+2006
+
+2007
+
+2008
+
+2009
+
+177,982
+70,106
+
+153,698
+60,750
+
+174,831
+54,245
+
+195,636
+73,459
+
+Pemanfaatan sumberdaya ikan yang
+overfishing terbukti tidak efisien, karena dengan
+tingkat upaya penangkapan lebih besar dari
+EMSY, namun hasil tangkapannya justru lebih
+kecil dibandingkan CMSY, di mana dalam kurun
+
+waktu 2006–2009 produksi perikanan di pantura
+Jawa Tengah berkisar 153,698–195,.636 ton.
+Hubungan antara C dan E perikanan tangkap di
+pantura Jawa Tengah dapat dilihat pada Gambar
+2.
+
+Gambar 2. Hubungan C dan E di Pantura Jawa Tengah
+Tingkat
+pemanfaatan
+sumberdaya
+perikanan tangkap di pantura Jawa Tengah
+sesuai dengan perhitungan di atas terindikasi
+telah mengalami overfishing. Oleh karena itu,
+pengelolaan sumberdaya ikan pesisir di pantura
+Jawa Tengah perlu penanganan khusus agar
+pemanfaatan sumberdaya ikan bersifat ramah
+lingkungan
+dan
+menjaga
+kelestarian
+sumberdaya
+ikan.
+Kondisi
+sumberdaya
+perikanan tangkap di pantura Jawa Tengah yang
+overfishing tersebut perlu mendapat perhatian
+dari pemerintah. Kalau tingkat penangkapan
+tidak dikontrol dengan optimal, maka
+pemanfaatan sumberdaya ikan di pantura Jawa
+Tengah akan tidak efisien, dan mengganggu
+kelestarian sumberdaya ikan.
+Berdasarkan uraian di atas, nampak
+bahwa sumberdaya ikan di WPP Laut Jawa,
+termasuk di pantura Jawa Tengah sudah relatif
+padat dalam kegiatan penangkapan ikan. Oleh
+karena itu, diperlukan ekspansi kegiatan
+penangkapan dari artisanal fisheries ke
+perikanan yang lebih modern dengan fishing
+ground lepas pantai. Dengan melihat kondisi
+potensi sumberdaya ikan tersebut di atas, maka
+program bantuan kapal sebesar >30 GT yang
+diperuntukan untuk mengurangi tekanan
+perikanan di pantura Jawa Tengah merupakan
+
+peluang pengembangan usaha perikanan
+tangkap yang sesuai dengan tuntutan kondisi
+sumberdaya ikan di pantura Jawa Tengah,
+dengan catatan perlu dilakukan perbaikan,
+terutama dalam hal spesifikasi kapal dan
+perlengkapannya serta pelabuhan perikanan
+yang menjadi fishing base dari kapal tersebut
+agar program bantuan kapal tersebut lebih
+optimal dan sesuai dengan tujuan yang ingin
+dicapai.
+Untuk gambaran potensi dan tingkat
+pemanfaatan sumberdaya ikan secara lebih
+spesifik per daerah kabupaten/kota penerima
+bantuan kapal >30GT dapat dilihat pada uraian
+selanjutnya.
+Kabupaten Pekalongan
+Hasil analisis surplus produksi dengan
+menggunakan
+model
+Gordon-Schaefer
+diperoleh nilai seperti pada Tabel 4. Analisis ini
+berasumsi bahwa sumberdaya ikan di
+Kabupaten Pekalongan bersifat single stock.
+Fungsi produksi ikan di Kabupaten Pekalongan
+mengikuti formula: C= 0.72258216 E- 2.29929
+X 10-5 E2 dengan R2 sebesar 49%, di mana C
+adalah produksi atau catch dengan satuan ton
+per tahun, serta E adalah upaya penangkapan
+atau fishing effort dengan satuan trip per tahun.
+10
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+Formula di atas dapat disederhanakan menjadi
+
+CPUE = 0.72258216 – 2.29929 X 10-5 E.
+
+Tabel 4. Analisis Surplus Produksi di Kabupaten Pekalongan
+Keterangan
+
+Nilai
+
+A
+B
+R2
+E MSY
+C MSY
+
+0.72258216
+2.29929E-05
+49%
+15,713
+5,677
+
+Hasil analisis menunjukkan tingkat
+upaya penangkapan level MSY (EMSY) sebesar
+15,713 trip Arad per tahun, di mana Arad
+dijadikan alat tangkap standar. Upaya
+penangkapan level MSY tersebut secara teoritis
+akan menghasilkan produksi sebesar 5,677 ton
+per tahun. Apabila diperbandingkan dengan
+
+upaya penangkapan aktual, nampak bahwa
+potensi sumberdaya perikanan tangkap di
+Kabupaten Pekalongan telah mengalami
+overfishing. Sebagai gambaran, selama kurun
+waktu 2006–2009 upaya penangkapan berkisar
+antara 10,154 – 38,544 setara trip Arad.
+
+Tabel 5. Produksi dan Upaya Penangkapan
+di Kabupaten Pekalongan
+Tahun
+Produksi (ton)
+Effort Standar (trip Arad)
+Pemanfaatan sumberdaya ikan yang
+overfishing terbukti tidak efisien. Dengan
+tingkat upaya penangkapan lebih besar dari
+EMSY, namun hasil tangkapannya justru lebih
+kecil dibandingkan CMSY, di mana dalam kurun
+
+2006
+
+2007
+
+2008
+
+2009
+
+1,.843
+25,473
+
+1,551
+13,558
+
+1,715
+10,154
+
+1,764
+38,544
+
+waktu 2006 – 2009 produksi perikanan
+Kabupaten Pekalongan berkisar 1,551–1,843
+ton. Hubungan antara C dan E perikanan
+tangkap di Kabupaten Pekalongan dapat dilihat
+pada Gambar 3.
+
+Ton
+MSY
+
+8000.0
+7000.0
+6000.0
+5000.0
+4000.0
+3000.0
+2000.0
+1000.0
+0.0
+-
+
+10,000
+
+20,000
+
+30,000
+
+40,000
+
+Gambar 3. Hubungan C dan E di Kabupaten Pekalongan
+Kondisi perikanan tangkap di Kabupaten
+perikanan tangkap di Kabupaten Pekalongan
+Pekalongan yang overfishing, perlu mendapat
+adalah relatif beralasan yang dapat memberikan
+perhatian dari pemerintah. Kalau tingkat
+peluang pengembangan usaha perikanan
+penangkapan tidak dikontrol dengan optimal,
+tangkap di Kabupaten Pekalongan.
+maka pemanfaatan sumberdaya ikan Kabupaten
+Pekalongan akan tidak efisien, dan mengganggu
+Kota Pekalongan
+kelestarian sumberdaya ikan. Dengan melihat
+Perikanan tangkap Kota Pekalongan
+kondisi ini, program bantuan kapal >30 GT
+didominasi perikanan lepas pantai dengan trip
+yang diperuntukan untuk mengurangi tekanan
+penangkapan lebih dari satu hari. Oleh karena
+2
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+itu, daerah tangkapannya (fishing ground) tidak
+hanya di perairan pesisir Kota Pekalongan,
+namun bisa ke berbagai daerah lain. Kondisi ini
+yang menjadi penyebab analisis surplus
+produksi tidak bisa diaplikasikan pada
+perikanan tangkap di Kota Pekalongan. Dengan
+demikian, khusus pada kasus Kota Pekalongan,
+
+analisis surplus produksi dapat menggunakan
+pendekatan perairan yang lebih luas, misalnya
+pantura Jawa Tengah yang terindikasi sudah
+mengalami overfishing. Sebagai gambaran,
+perkembangan
+produksi
+dan
+upaya
+penangkapan distandarisasi (Purse seine sebagai
+standar) dapat dilihat pada tabel berikut.
+
+Tabel 6. Produksi dan Upaya Penangkapan
+Kota Pekalongan
+Tahun
+Produksi (ton)
+Effort Standar (trip Purse seine)
+
+2006
+
+2007
+
+2008
+
+2009
+
+34,642
+4,659
+
+31,477
+4,858
+
+31,675
+4,203
+
+33,045
+4,312
+
+Dengan melihat kondisi ini bahwa
+perikanan pesisir di pantura Jawa Tengah yang
+secara umum telah mengalami overfishing,
+maka program bantuan kapal >30 GT yang
+diperuntukan untuk mengurangi tekanan
+perikanan tangkap di pantura Jawa Tengah,
+termasuk di Kota Pekalongan, dapat dinilai
+relatif beralasan sebagai peluang pengembangan
+usaha perikanan tangkap.
+
+diperoleh nilai seperti pada Tabel 7. Analisis ini
+berasumsi bahwa sumberdaya ikan Kabupaten
+Batang bersifat single stock. Fungsi produksi
+ikan di Kabupaten Batang mengikuti formula:
+C= 5.612155 E- 0.000366 E2 dengan R2 sebesar
+93%, di mana C adalah produksi atau catch
+dengan satuan ton per tahun, serta E adalah
+upaya penangkapan atau fishing effort dengan
+satuan trip per tahun. Nilai R2 tersebut relatif
+tinggi secara statistik untuk pendugaan
+Kabupaten Batang
+hubungan C dan E. Formula di atas dapat
+Hasil analisis surplus produksi dengan
+disederhanakan menjadi CPUE = 5.612155 –
+menggunakan
+model
+Gordon-Schaefer
+0.000366 E.
+Tabel 7. Analisis Surplus Produksi di Kabupaten Batang
+Keterangan
+A
+B
+R2
+E MSY
+C MSY
+
+Nilai
+5.612155
+0.000366
+93%
+7,675
+21,538
+
+Hasil analisis menunjukkan tingkat
+upaya penangkapan level MSY (EMSY) sebesar
+7,675 trip Rawai tetap dasar per tahun, di mana
+Rawai tetap dasar dijadikan alat tangkap
+standar. Upaya penangkapan level MSY
+tersebut secara teoritis akan menghasilkan
+produksi sebesar 21,538 ton per tahun. Apabila
+diperbandingkan dengan upaya penangkapan
+aktual, nampak bahwa potensi sumberdaya
+perikanan tangkap di Kabupaten Batang telah
+mengalami overfishing. Sebagai gambaran,
+selama kurun waktu 2006–2009 upaya
+
+penangkapan berkisar antara 7,347–9,301 setara
+trip Rawai tetap dasar.
+Pemanfaatan sumberdaya ikan yang
+overfishing terbukti tidak efisien. Dengan
+tingkat upaya penangkapan lebih besar dari
+EMSY terlihat bahwa hasil tangkapannya masih
+sedikit lebih besar bila dibandingkan dengan
+CMSY, di mana dalam kurun waktu 2006–2009
+produksi perikanan di Kabupaten Batang
+berkisar 1,551–1,843 ton. Hubungan antara C
+dan E dapat dilihat pada gambar 4.
+
+Tabel 8. Produksi dan Upaya Penangkapan
+13
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+di Kabupaten Batang
+Tahun
+Produksi (ton)
+Effort Standar (trip Rawai tetap dasar)
+
+2006
+
+2007
+
+2008
+
+2009
+
+20,293
+7,602
+
+18,455
+8,277
+
+22,854
+7,347
+
+23,296
+9,301
+
+Gambar 4. Hubungan C dan E di Kabupaten Batang
+Kondisi potensi sumberdaya perikanan
+tangkap di Kabupaten Batang yang overfishing
+perlu mendapat perhatian dari pemerintah.
+Kalau tingkat penangkapan tidak dikontrol
+dengan optimal, maka pemanfaatan sumberdaya
+ikan di Kabupaten Batang akan tidak efisien dan
+mengganggu kelestarian sumberdaya ikan.
+Dengan melihat kondisi ini, maka program
+bantuan kapal >30 GT yang diperuntukan untuk
+mengurangi tekanan sumberdaya perikanan
+tangkap di Kabupaten Batang adalah relatif
+beralasan untuk peluang pengembangan usaha
+perikanan tangkap di masa mendatang.
+
+penangkapan level MSY tersebut secara teoritis
+akan menghasilkan produksi sebesar 53,272 ton
+per tahun. Apabila diperbandingkan dengan
+upaya penangkapan aktual, nampak bahwa
+potensi sumberdaya perikanan tangkap di
+Kabupaten Pati belum mengalami overfishing.
+Sebagai gambaran selama kurun waktu 2006 –
+2009 upaya penangkapan berkisar antara 1,077
+– 1,800 setara trip Purse seine.
+Pemanfaatan sumberdaya ikan di
+Kabupaten Pati terbukti masih dapat
+ditingkatkan.
+Dengan
+tingkat
+upaya
+penangkapan lebih kecil dari EMSY terlihat
+bahwa hasil tangkapannya juga lebih kecil
+dibandingkan CMSY, di mana dalam kurun waktu
+2006–2009 produksi perikanan Kabupaten Pati
+berkisar 22,480–31,133 ton. Hubungan antara C
+dan E perikanan tangkap di Kabupaten Pati
+dapat dilihat pada Gambar 5.
+Peluang pengembangan usaha perikanan
+tangkap di Kabupaten Pati masih dapat
+ditingkatkan, akan tetapi perlu mendapat
+perhatian dari pemerintah. Kalau tingkat upaya
+penangkapan tidak dikontrol dengan optimal,
+maka pemanfaatan sumberdaya ikan di
+Kabupaten Pati akan tidak efisien dan
+mengganggu kelestarian sumberdaya ikan.
+Dengan melihat kondisi ini, maka program
+bantuan kapal > 30 GT yang diperuntukan untuk
+mengurangi tekanan sumberdaya perikanan
+tangkap di Kabupaten Pati adalah relatif
+beralasan sebagai peluang pengembangan usaha
+perikanan tangkap di daerah ini. ]
+
+Kabupaten Pati
+Hasil analisis surplus produksi dengan
+menggunakan model Schaefer diperoleh nilai
+pada Tabel 9. Analisis ini berasumsi bahwa
+sumberdaya ikan di Kabupaten Pati bersifat
+single stock. Fungsi produksi ikan Kabupaten
+Pati mengikuti formula: C= 26.02223143 E0.003177842 E2 dengan R2 sebesar 37%, di
+mana C adalah produksi atau catch dengan
+satuan ton per tahun, serta E adalah upaya
+penangkapan atau fishing effort dengan satuan
+trip per tahun.
+Formula di atas dapat disederhanakan
+menjadi
+CPUE = 26.02223143 – 0.003177842 E.
+Hasil analisis menunjukkan tingkat
+upaya penangkapan level MSY (EMSY) sebesar
+4,094 trip Purse seine per tahun, di mana Purse
+seine dijadikan alat tangkap standar. Upaya
+
+Tabel 9. Analisis Surplus Produksi di Kabupaten Pati
+14
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+Keterangan
+
+Nilai
+
+A
+B
+
+26.02223143
+0.003177842
+
+R2
+E MSY
+C MSY
+
+37%
+4,.094
+53,272
+
+Tabel 10. Produksi dan Upaya Penangkapan
+di Kabupaten Pati
+Tahun
+Produksi (ton)
+Effort Standar (trip Purse seine)
+
+Ton
+
+2006
+
+2007
+
+2008
+
+2009
+
+22,480
+1,800
+
+24,120
+1,677
+
+31,067
+1,114
+
+31,133
+1,077
+
+MSY
+
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+-
+
+2,000
+
+4,000
+
+6,000
+
+8,000
+
+Trip
+
+Gambar 5. Hubungan C dan E di Kabupaten Pati
+Kabupaten Rembang
+mengikuti formula: C= 4.561286884 E-2.37568
+Hasil analisis surplus produksi dengan
+X 10-5 E2 dengan R2 sebesar 46%, di mana C
+adalah produksi atau catch dengan satuan ton
+menggunakan
+model
+Gordon-Schaefer
+diperoleh nilai seperti terlihat pada Tabel 11.
+per tahun, serta E adalah upaya penangkapan
+Analisis ini berasumsi bahwa sumberdaya ikan
+atau fishing effort dengan satuan trip per tahun.
+di Kabupaten Rembang bersifat single stock.
+Formula di atas dapat disederhanakan menjadi
+Fungsi produksi ikan di Kabupaten Rembang
+CPUE = 4.561286884 – 2.37568X 10-5 E.
+Tabel 11. Analisis Surplus Produksi di Kabupaten Rembang
+Keterangan
+
+Nilai
+
+A
+B
+R2
+E MSY
+C MSY
+
+4.561286884
+2.37568E-05
+46%
+95,999
+218,941
+
+Hasil analisis menunjukkan tingkat
+upaya penangkapan level MSY (EMSY) sebesar
+95,999 trip jaring Insang Hanyut per tahun, di
+mana jaring Insang Hanyut dijadikan alat
+tangkap standar. Upaya penangkapan level
+MSY tersebut secara teoritis akan menghasilkan
+
+produksi sebesar 218,941 ton per tahun. Apabila
+diperbandingkan dengan upaya penangkapan
+aktual, nampak bahwa potensi sumberdaya
+perikanan tangkap di Kabupaten Rembang
+belum
+mengalami
+overfishing.
+Sebagai
+gambaran selama kurun waktu 2006 – 2009
+15
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+upaya penangkapan berkisar antara 5,099 –
+
+223,756 setara trip jaring Insang Hanyut.
+
+Tabel 12. Produksi dan Upaya Penangkapan
+di Kabupaten Rembang
+Tahun
+Produksi (ton)
+Effort Standar (trip jaring Insang Hanyut)
+Pemanfaatan sumberdaya perikanan
+tangkap yang belum overfishing terbukti masih
+dapat ditingkatkan. Dengan tingkat upaya
+penangkapan jauh lebih kecil dari EMSY namun
+terlihat bahwa hasil tangkapannya juga lebih
+kecil
+dibandingkan
+
+2006
+
+2007
+
+2008
+
+2009
+
+40,576
+223,756
+
+27,057
+202,612
+
+32,372
+83,462
+
+40,449
+5,099
+
+CMSY, di mana dalam kurun waktu 2006–2009
+produksi perikanan di Kabupaten Rembang
+berkisar 27,057–40,576 ton. Hubungan antara C
+dan E perikanan tangkap di Kabupaten
+Rembang dapat dilihat pada Gambar 6.
+
+Ton
+300,000
+
+MSY
+
+250,000
+200,000
+150,000
+100,000
+50,000
+0
+
+40000
+
+80000
+
+120000
+
+160000
+
+200000
+
+Trip
+
+Gambar 6. Hubungan C dan E di Kabupaten Rembang
+Kondisi sumberdaya perikanan tangkap
+di Kabupaten Rembang masih mempunyai
+peluang untuk dapat ditingkatkan, namun perlu
+mendapat perhatian dari pemerintah. Kalau
+upaya penangkapannya tidak dikontrol dengan
+optimal, maka pemanfaatan sumberdaya ikan di
+Kabupaten Rembang akan tidak efisien, dan
+mengganggu kelestarian sumberdaya ikan.
+Dengan melihat kondisi ini, maka program
+bantuan kapal >30 GT yang diperuntukan untuk
+mengurangi tekanan perikanan pantai sehingga
+memberikan peluang pengembangan usaha
+perikanan tangkap di Kabupaten Rembang ke
+daerah penangkapan lepas pantai yang masih
+potensial.
+
+KESIMPULAN\
+Kesimpulan yang dapat diambil dari
+penelitian ini adalah :
+1.
+Potensi sumberdaya perikanan tangkap
+di pantura Jawa Tengah terindikasi sudah
+mengalami overfishing, salah satunya
+dikarenakan oleh padatnya unit-unit
+penangkapan ikan yang umumnya
+berupa motor tempel dan kapal motor
+skala kecil yang berukuran <30 GT
+sehingga
+operasi
+penangkapannya
+terbatas pada perairan pantai dan
+kurangnya aktivitas penangkapan di
+perairan lepas pantai.
+
+16
+
+Jurnal Saintek Perikanan Vol. 8, No. 2, 2013 : 6-17
+
+2.
+
+Adanya bantuan kapal penangkap ikan
+yang berbobot mati >30 GT diharapkan
+dapat mengurangi kepadatan operasi
+penangkapan dan memberikan peluang
+pengembangan usaha perikanan tangkap
+di pantura Jawa Tengah, dengan asumsi
+terjadi replacement sebagian kapal yang
+berukuran <30 GT menjadi kapal yang
+berukuran > 30 GT.
+Dilihat dari data keragaan perikanan
+tangkap di Jawa Tengah, khususnya di
+kabupaten/kota yang mendapat bantuan
+kapal >30 GT, menunjukkan bahwa
+hanya 2 kabupaten/kota yang tersedia
+sarana
+dan
+prasarana
+pelabuhan
+perikanan yang bisa digunakan untuk
+sandar kapal bantuan >30 GT, yaitu PPN
+Pekalongan di Kota Pekalongan dan PPP
+Klidang Lor di Kabupaten Batang,
+sedangkan 3 kabupaten/kota lainnya
+kondisinya kurang memadai, seperti PPP
+Wiradesa di Kabupaten Pekalongan, PPP
+Banyutowo di Kabupaten Pati dan PPP
+Sarang di Kabupaten Rembang. Untuk
+itu maka perlu peningkatan sarana dan
+prasarana pelabuhan bagi pengembangan
+perikanan tangkap di pantura Jawa
+Tengah di masa yang akan datang.
+
+serta pihak-pihak lain yang telah banyak
+memberikan kontribusi dalam penelitian ini.
+
+UCAPAN TERIMA KASIH
+Penulis mengucapkan terima kasih
+kepada Dinas Kelautan dan Perikanan Provinsi
+Jawa Tengah yang telah memberikan bantuan
+dana penelitian melalui program Ketahanan
+Pangan Nasional. Tidak lupa ucapan terima
+kasih juga penulis sampaikan kepada rekanrekan Tim Peneliti yaitu Ir. Bambang Argo
+Wibowo, M.Si., Ir. Abdul Rosyid, M.Si., Dian
+Wijayanto, S.Pi., M.M., M.S.E. dan Huda, S.Pi.
+
+Sparre P.E. Ursin and S.C. Venema. 1999.
+Introduction in Tropical Fish Stock
+Assesment. Part I-Manual. FAO Fish.
+Tech. Pap. (360/1) : 376 page.
+
+3.
+
+DAFTAR PUSTAKA
+Dinas Kelautan dan Perikanan Provinsi Jawa
+Tengah. 2006. Statistik Perikanan
+Tangkap Jawa Tengah 2007, Semarang.
+____. 2007. Statistik Perikanan Tangkap Jawa
+Tengah 2008, Semarang.
+____. 2008. Statistik Perikanan Tangkap Jawa
+Tengah 2009, Semarang.
+____. 2009. Statistik Perikanan Tangkap Jawa
+Tengah 2010, Semarang.
+Komisi Nasional Pengkajian Stok Sumberdaya
+Ikan. 1998. Potensi dan Penyebaran
+Sumber Daya Ikan Laut di Perairan
+Indonesia. Komnas Pengkajian Stok
+Sumberdaya Ikan – LIPI, Jakarta.
+Kuncoro, M. 2003. Metode Riset untuk Bisnis
+dan Ekonomi. Penerbit Erlangga, Jakarta.
+Merta, I.G.S., J. Widodo dan S. Nurhakim.
+1999. Sumberdaya Ikan Pelagis. Buku II.
+Ditjen Perikanan Departemen Pertanian,
+Jakarta.
+
+Triarso, I. 2004. Study on Total Alllowable
+Catch
+Determination.
+Coastal
+Community Developmnet and Fisheries
+Resources Management Project Central
+Java. Directorat General of Capture
+Fisheries, Ministry Affairs and Fisheries,
+Jakarta.
+
+17
+
+

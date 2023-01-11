@@ -1,0 +1,1677 @@
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+PEMBANGUNAN SISTEM INFORMASI ALUMNI BERBASIS WEB
+PADA PROGRAM STUDI TEKNIK INFORMATIKA
+UNIVERSITAS DIPONEGORO
+Yusi Ardi Binarso1, Eko Adi Sarwoko2, dan Nurdin Bahtiar3
+Program Studi Teknik Informatika Jurusan Matematika
+Fakultas Sains dan Matematika
+Universitas Diponegoro
+chibi.yukito89@gmail.com
+
+Abstract
+Informatics Engineering Major of Diponegoro University in Faculty of Sains and Math is a course that
+have graduated many students who have competency at information technology. However, the communicator
+unavailability between alumnus, make other alumnus information obtaining or information sharing, such as
+job vacancies, difficult. With the utilization of internet technology, a Web-Based Alumnus Information
+System can be used as a communicator between the alumnus and make information distribution become
+quickly and easily. The Web-Based Alumnus Information System at Informatics Engineering Major of
+Diponegoro University was built using Waterfall model, PHP as programming language, and MySQL as
+database management system. The Web-Based Alumnus Information System can help the Informatics
+Engineering Program on alumnus data management, report making, and facilitate the alumnus to obtain
+information about other alumnus, news about campus, job vacancies, and scholarship.
+Keywords : Information System, Web-Based Alumnus Information System, alumnus, Informatics
+Engineering, waterfall model
+1. Pendahuluan
+Program Studi Teknik Informatika Universitas
+Diponegoro merupakan salah satu program studi
+yang terdapat pada Fakultas Sains dan
+Matematika Universitas Diponegoro Semarang.
+Sebagai program studi yang masih muda,
+Program Studi Teknik Informatika Universitas
+Diponegoro selalu meningkatkan mutu dan
+kualitasnya agar mampu menjadi program studi
+unggulan yang mampu bersaing di tingkat
+nasional dan dikenal di tingkat internasional.
+Meskipun masih muda, Program Studi Teknik
+Informatika Universitas Diponegoro setiap tahun
+meluluskan
+mahasiswa-mahasiswa
+yang
+kompeten. Namun belum tersedianya sebuah
+portal untuk berkomunikasi antar alumni,
+membuat alumni mengalami kesulitan dalam
+memperoleh informasi mengenai alumni lain atau
+dalam berbagi informasi seperti lowongan
+pekerjaan.
+Perkembangan teknologi informasi, khususnya
+internet, yang sangat pesat dalam satu dasawarsa
+terakhir ini membuat komunikasi dan persebaran
+informasi menjadi lebih cepat dan mudah, tanpa
+ada batasan ruang dan waktu. Dengan kemudahan
+
+yang ditawarkan, membuat internet sebagai media
+yang tepat untuk menyatukan para alumni
+Program Studi Teknik Informatika Universitas
+Diponegoro.
+Oleh karena itu, diperlukan sistem informasi
+alumni berbasis web yang dapat membantu para
+alumni untuk dapat berinteraksi dengan sesama
+alumni ataupun dengan pihak program studi
+sehingga memudahkan alumni dalam memperoleh
+biodata alumni, informasi lowongan pekerjaan,
+serta berita terkini mengenai perkembangan
+program studi.
+Tugas akhir ini akan merancang dan membangun
+sebuah Sistem Informasi Alumni Berbasis Web
+yang dapat memfasilitasi alumni untuk dapat
+berinteraksi dengan alumni lain, serta membantu
+alumni dan program studi untuk memperoleh
+informasi yang dibutuhkan. Sistem Informasi
+Alumni Berbasis Web pada Program Studi Teknik
+Informatika Universitas Diponegoro akan
+dikembangkan dengan menggunakan model
+proses waterfall.
+Fitur-fitur pada Sistem Informasi Alumni
+Berbasis Web yang akan dibangun meliputi:
+1) Otorisasi Pengguna
+72
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+2) Pendaftaran Alumni
+3) Update Data Alumni
+4) Pelaporan
+5) Papan Berita
+a) Seputar Program Studi
+b) Seputar Alumni
+6) Info
+a) Lowongan Pekerjaan
+b) Info Beasiswa
+7) Agenda
+8) Searching
+9) Pengiriman Pesan
+10) Saran
+2. Dasar Teori
+Dasar Teori berisi kumpulan studi pustaka yang
+berhubungan dengan topik tugas akhir. Dasar
+teori ini meliputi Pengertian Sistem Informasi,
+Konsep Rekayasa Perangkat Lunak, Metode
+Pengembangan Sistem, Konsep Client-Server,
+Sekilas Mengenai Internet, dan Bahasa
+Pemrograman dan Perangkat Lunak Pembangun
+Sistem.
+
+model RAD, model inkremental, model spiral,
+model pengembangan konkuren, model
+metode formal, dan model teknik generasi
+keempat [14].
+2.3. Metode Pengembangan Sistem
+Model waterfall merupakan salah satu model
+proses yang mengambil kegiatan proses dasar
+seperti spesifikasi, pengembangan, validasi
+dan evolusi, dan merepresentasikannya
+sebagai fase-fase proses yang berbeda seperti
+spesifikasi
+persyaratan,
+perancangan
+perangkat lunak, implementasi, pengujian, dan
+seterusnya [16]. Tahapan model waterfall
+dapat dilihat pada gambar 2.1.
+Analisis dan definisi
+persyaratan
+Perancangan sistem
+dan perangkat lunak
+Implementasi dan
+pengujian unit
+Integrasi dan
+pengujian sistem
+Operasi dan
+pemeliharaan
+
+2.1. Pengertian Sistem Informasi
+Sistem dapat didefinisikan dengan dua
+pendekatan yaitu [11]:
+1) Dengan pendekatan prosedur, sistem dapat
+didefinisikan sebagai kumpulan dari
+prosedur-prosedur yang mempunyai tujuan
+tertentu.
+2) Pendekatan komponen, sistem dapat
+didefinisikan sebagai kumpulan dari
+komponen yang saling berhubungan satu
+dengan yang lainnya membentuk satu
+kesatuan untuk mencapai tujuan tertentu.
+Sedangkan informasi adalah data yang diolah
+menjadi bentuk yang berguna bagi para
+pemakainya.
+Sehingga Sistem Informasi
+dapat diartikan sebagai kumpulan komponen
+yang saling berhubungan satu dengan lainnya
+yang bertujuan untuk menghasilkan informasi.
+2.2. Konsep Rekayasa Perangkat Lunak
+Menurut IEEE, definisi rekayasa perangkat
+lunak adalah aplikasi dari sebuah pendekatan
+disiplin dan sistematis kepada pengembangan,
+operasi, dan pemeliharaan perangkat lunak
+yaitu aplikasi dari rekayasa perangkat lunak
+[14].
+Model proses untuk rekayasa perangkat lunak
+dipilih berdasarkan sifat aplikasi dan
+proyeknya, metode dan alat-alat bantu yang
+akan dipakai, kontrol, serta penyampaian yang
+dibutuhkan. Model-model proses untuk
+software engineering seperti model sekuensial
+linier atau waterfall model, model prototipe,
+
+Gambar 2.1 Model Waterfall [16]
+Sekalipun memiliki kelemahan, tetapi secara
+signifikan paradigma ini lebih baik daripada
+pendekatan yang bersifat sembarangan
+(haphazard)
+dalam
+mengembangkan
+perangkat lunak [14]. Bahkan pendekatan
+dengan paradigma ini masih digunakan untuk
+pengembangan perangkat lunak, terutama jika
+merupakan bagian dari sistem proyek rekayasa
+yang lebih besar [16].
+2.3.1. Tahap Analisis dan Definisi
+Persyaratan
+Tahap analisis dan defnisi persyaratan
+mendiskripsikan semua fungsi dari hasil
+penemuan kebutuhan pengguna berdasarkan
+observasi dan wawancara yang dilakukan
+kepada alumni dan pihak program studi untuk
+mendapatkan spesifikasi sistem atau sering
+disebut dengan SRS (Software requirements
+System). Tiap SRS harus dapat diuji pada
+tahapan pengujian setelah perangkat lunak
+yang dibangun sudah selesai.
+Hasil yang diperoleh pada tahapan analisis
+model meliputi pemodelan data, pemodelan
+fungsional, dan pemodelan tingkah laku
+2.3.1.1. Pemodelan Data
+Pemodelan
+data
+berfungsi
+untuk
+mendeskripsikan objek data utama yang akan
+diproses oleh sistem, komposisi dari masingmasing objek data, dan atribut apa yang
+73
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+menggambarkan objek tersebut dan hubungan
+antara
+objek
+data
+tersebut.
+Untuk
+mendeskripsikan berbagai hal tersebut,
+metode pemodelan data menggunakan ERD
+(Entity Relationship Diagram).
+Beberapa tools yang digunakan dalam
+pemodelan data, antara lain:
+1) ERD (Entity Relationship Diagram)
+Model data ERD (Entity Relationship
+Diagram) merupakan diagram yang
+menggambarkan keterhubungan antar
+objek-objek data [20].
+Model data ERD (Entity Relationship
+Diagram) terbagi menjadi beberapa
+konsep dasar, yaitu:
+1) Entitas
+Objek di dunia nyata yang dapat
+dibedakan dari semua objek lain.
+2) Atribut
+Atribut adalah properti deskriptif yang
+dimiliki oleh masing-masing anggota
+dari sebuah himpunan entitas [15].
+Atribut dibagi menjadi dua, yaitu
+atribut key (identifier) dan atribut nonkey (descriptor).
+3) Relasi
+Relasi menunjukan hubungan diantara
+entitas – entitas yang berasal dari
+sejumlah himpunan entitas yang
+berbeda [20].
+4) Kardinalitas
+Kardinalitas
+merupakan
+jumlah
+maksimum entitas dimana entitas
+tersebut dapat berelasi dengan entitas
+pada himpunan entitas yang lain [20].
+Ada empat macam kardinalitas, yaitu:
+a)
+Satu ke satu (one to one)
+b) Satu ke banyak (one to many)
+c) Banyak ke satu (many to one)
+d) Banyak ke banyak (many to many)
+2) DOD (Data Object Description)
+DOD menyimpan semua atribut entitas
+dan relasi yang muncul pada ERD,
+menjelaskan lebih detail mengenai
+hubungan entitas satu dengan yang lain
+yang dihubungkan dengan himpunan
+relasi, dan menjelaskan lebih detail
+mengenai atribut, kardinalitas, serta skema
+relasionalnya.
+3) Data Dictionary (Kamus Data)
+Kamus Data merupakan sebuah daftar
+yang terorganisasi dari elemen data yang
+berhubungan dengan sistem, dengan
+definisi yang tegar dan teliti sehingga
+pemakai dan analis sistem akan memiliki
+
+pemahaman yang umum mengenai input,
+output, komponen penyimpanan [14].
+2.3.1.2. Pemodelan Fungsional
+Pemodelan
+fungsional
+mendiskripsikan
+seluruh fungsi yang terdapat dalam perangkat
+lunak dengan menggunakan alat bantu berupa
+Data Flow Diagram (DFD). DFD adalah
+sebuah teknik grafis yang menggambarkan
+aliran informasi dan transformasi yang
+diaplikasikan saat data bergerak dari input
+menjadi output [14].
+DFD dapat terdiri atas beberapa level,
+semakin rendah levelnya, semakin rinci
+fungsinya. Komponen-komponen Data Flow
+Diagram (DFD), yaitu:
+1) Proses
+Komponen proses menggambarkan bagian
+dari sistem yang mentransformasikan input
+menjadi output.
+2) Data Flow / Alur Data
+Data flow atau suatu alur data digambarkan
+dengan anak panah, yang menunjukkan
+arah menuju ke dan keluar dari suatu
+proses. Alur data ini digunakan untuk
+menerangkan perpindahan data atau paket
+data / informasi dari satu bagian sistem ke
+bagian lainnya.
+3) Data Store
+Komponen ini digunakan untuk membuat
+model sekumpulan paket data dan diberi
+nama dengan kata benda jamak, misalnya
+Mahasiswa. Data store ini biasanya
+berkaitan dengan penyimpanan data,
+seperti file atau database. Suatu data store
+dihubungkan dengan alur data hanya pada
+komponen proses, tidak dengan komponen
+DFD lainnya.
+4) External Entity
+External entity atau Entitas Luar bertugas
+untuk berkomunikasi dengan sistem yang
+sedang dikembangkan. External entity
+dapat berupa orang, sekelompok orang,
+organisasi,
+departemen
+di
+dalam
+organisasi, atau perusahaan yang sama
+tetapi di luar kendali sistem yang sedang
+dibuat modelnya.
+2.3.1.3. Pemodelan Tingkah Laku
+Pemodelan tingkah laku berfungsi untuk
+menunjukkan bagaimana sistem berperilaku
+atau menggambarkan perubahan keadaan
+(state) pada sistem sebagai akibat dari
+aktivitas eksternal. Pemodelan tingkah laku
+dapat dimulai dengan mengidentifikasi semua
+state yang dihasilkan oleh sistem dan
+selanjutnya menspesifikasikan event atau
+74
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+kejadian yang menyebabkan perubahan dari
+state satu ke state yang lain [9].
+Untuk menggambarkan alir aktivitas yang
+terjadi pada sistem yang sedang dirancang dan
+bagaimana sistem berinteraksi dengan
+pengguna, dapat menggunakan activity
+diagram. Activity Diagram merupakan
+ilustrasi sederhana mengenai apa yang terjadi,
+kegiatan apa saja yang dapat dilakukan secara
+paralel, dan
+apakah
+ada jalur alternatif
+dalam bentuk workflow [6].
+2.3.2. Tahap Perancangan Sistem dan
+Perangkat Lunak
+Perancangan sistem menentukan bagaimana
+sistem akan memenuhi tujuan tersebut, terdiri
+dari aktivitas desain yang menghasilkan
+spesifikasi sistem yang memenuhi persaratan
+fungsional yang dikembangkan dalam proses
+analisis sistem. Tahap perancangan meliputi :
+1) Perancangan data
+Mentransformasikan model data yang
+dihasilkan oleh proses analisis menjadi
+struktur data yang dibutuhkan pada saat
+pembuatan program (coding).
+2) Perancangan Proses / Fungsi
+Perancangan Proses / Fungsi akan
+melakukan perancangan seperti desain
+program dan prosedur.
+3) Perancangan antar muka
+Mendefinisikan bagaimana pengguna dan
+perangkat lunak berkomunikasi dalam
+menjalankan fungsionalitas perangkat
+lunak.
+2.3.3. Tahap Implementasi dan Pengujian
+Unit
+Pada tahap ini, perancangan perangkat lunak
+direalisasikan sebagai serangkaian program
+atau unit program. Desain program
+diterjemahkan ke dalam kode-kode dengan
+menggunakan bahasa pemrograman yang
+sudah ditentukan. Program yang dibangun
+langsung diuji secara unit untuk memastikan
+bahwa setiap unit telah
+memenuhi
+spesifikasinya.
+2.3.4. Tahap Integrasi dan Pengujian
+Sistem
+Unit program atau program individual
+diintegrasikan menjadi sebuah kesatuan sistem
+dan
+kemudian
+dilakukan
+pengujian.
+Pengujian dilakukan untuk menemukan
+kesalahan-kesalahan dan memastikan bahwa
+input yang dimasukkan akan memberikan
+hasil aktual yang sesuai dengan output yang
+dibutuhkan.
+
+Proses pengujian menggunakan black-box.
+Black-box
+atau
+pengujian
+fungsional
+merupakan
+pengujian
+yang
+kondisi
+pengujiannya dikembangkan berdasarkan pada
+fungsionalitas
+perangkat lunak, tester
+membutuhkan informasi mengenai data
+masukan dan mengamati data keluaran tetapi
+tidak mengetahui bagaimana program bekerja
+[12].
+2.3.5. Tahap Operasi dan Pemeliharaan
+Tahap ini biasanya merupakan fase siklus
+hidup yang paling lama. Sistem diterapkan
+(diinstal)
+dan
+dipakai.
+Pemeliharaan
+mencakup koreksi dari beberapa error yang
+tidak diketemukan pada tahapan sebelumnya,
+perbaikan atas implementasi unit sistem dan
+pengembangan pelayanan sistem, sementara
+persyaratan-persyaratan baru ditambahkan.
+2.4. Konsep Client-Server
+Client-server merupakan sebuah paradigma
+dalam teknologi informasi yang merujuk
+kepada cara untuk mendistribusikan aplikasi
+ke dalam dua pihak yaitu pihak client dan
+pihak server. Gambaran konsep client-server
+dapat dilihat pada gambar 2.2.
+
+Gambar 2.2 Konsep Client-Server
+Client menerima instruksi dari pengguna
+melalui interface yang disediakan, merubah
+format instruksi ke bentuk yang dapat
+dimengerti oleh database server, dan
+mengirimkannya melalui jaringan ke server
+yang dituju. Sedangkan komponen server
+digunakan untuk pemrosesan, penyimpanan,
+dan manajemen data, serta bertugas untuk
+menerima request dari client, mengolahnya,
+dan mengembalikan hasil pemrosesan tersebut
+kepada client [3]. Client akan menerima
+informasi hasil pemrosesan data yang
+dilakukan server dan menampilkannya kepada
+pengguna, dengan menggunakan aplikasi yang
+berinteraksi dengan pengguna.
+2.5. Sekilas Mengenai Internet
+Interconnected Network atau yang lebih
+populer dengan sebutan Internet sebuah sistem
+komunikasi global yang menghubungkan
+komputer-komputer dan jaringan-jaringan
+komputer di seluruh dunia. Setiap komputer
+dan jaringan terhubung secara langsung
+maupun tidak langsung ke beberapa jalur
+utama yang disebut internet backbone dan
+75
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+dibedakan satu dengan yang lainnya
+menggunakan unique name yang biasa disebut
+dengan alamat Internet Protocol (IP).
+Komputer dan jaringan dengan berbagai
+platform yang mempunyai perbedaan dan ciri
+khas masing-masing (Unix, Linux,Windows,
+Mac, dll) bertukar informasi dengan sebuah
+protokol standar yang dikenal dengan nama
+TCP/IP
+(Transmission
+Control
+Protocol/Internet Protocol) [18].
+Protokol adalah sekumpulan aturan (standar)
+yang yang mengatur atau mengijinkan
+terjadinya
+hubungan, komunikasi,
+dan
+perpindahan data antara dua atau lebih
+titik komputer [13].
+TCP Berfungsi untuk melakukan transmisi
+data per-segmen yang berarti paket data
+dipecah ke dalam jumlah yang sesuai dengan
+besaran paket kemudian dikirim satu per satu
+hingga selesai. [2].
+Alamat IP yang bahasa awamnya bisa disebut
+dengan kode pengenal komputer pada
+jaringan. Setiap komputer yang terhubung ke
+jaringan internet setidaknya harus memiliki
+satu buah alamat IP dan alamat IP tersebut
+harus unik karena tidak boleh ada
+komputer/server/perangkat jaringan lainnya
+menggunakan alamat IP yang sama di dalam
+jaringan internet [2].
+2.6. Bahasa Pemrograman dan Perangkat
+Lunak Pembangun Sistem
+Bahasa pemrograman yang digunakan untuk
+membangun Sistem Informasi Alumni
+berbasis Web pada Program Studi Teknik
+Informatika ini adalah HTML, PHP, CSS,
+Javascript, serta menggunakan XAMPP
+sebagai perangkat lunak yang mendukung
+pembangunan sistem dan framework PHP
+bernama CodeIgniter untuk mempermudah
+proses pembangunan.
+2.6.1. Pengertian HTML
+HTML (Hyper Text Markup Language)
+sebenarnya
+bukan
+sebuah
+bahasa
+pemrograman, karena HTML adalah bahasa
+mark up. HTML digunakan untuk mark up
+(penanda) terhadap suatu dokumen teks.
+Simbol mark up yang digunakan oleh HTML
+ditandai dengan tanda lebih kecil (<) dan
+tanda lebih besar (>). Kedua tanda ini disebut
+tag. Tag yang digunakan sebagai tanda
+penutup diberi karakter garis miring (</..>).
+
+2.6.2. Pengertian PHP
+PHP (Hypertext Preprocessor) merupakan
+bahasa scripting yang tergabung menjadi satu
+dengan HTML dan dijalankan pada server
+side atau semua perintah yang diberikan akan
+secara penuh dijalankan pada server,
+sedangkan yang dikirimkan ke klien (browser)
+hanya berupa hasilnya saja [19].
+Sintak dan semantik PHP memiliki kesamaan
+dengan bahasa C, JAVA, PERL, dengan
+menambahkan tambahan tag <?php sebagai
+pembuka dan diakhiri dengan ?>, pasangan
+kedua kode inilah yang berfungsi sebagai tag
+kode PHP. Berdasarkan tag inilah pihak
+server dapat memahami kode PHP dan
+kemudian memprosesnya, hasilnya dikirim ke
+browser.
+2.6.3. Pengertian CSS
+CSS (Cascading Style Sheet) adalah stylesheet
+language
+yang
+digunakan
+untuk
+mendeskripsikan penyajian dari dokumen
+yang dibuat dalam mark up language. CSS
+merupakan sebuah dokumen yang berguna
+untuk melakukan pengaturan pada komponen
+halaman web, inti dari dokumen ini adalah
+memformat halaman web standar menjadi
+bentuk web yang memiliki kualitas yang lebih
+indah dan menarik.
+2.6.4. Pengertian Javascript
+Javascript adalah bahasa yang berbentuk
+kumpulan skrip yang fungsinya digunakan
+untuk menambahkan interaksi antara halaman
+web dengan pengunjung halaman web.
+Javascript dijalankan pada sisi klien yang akan
+memberikan kemampuan fitur-fitur tambahan
+halaman web yang lebih baik dibandingkan
+fitur-fitur yang terdapat pada HTML [19].
+2.6.5. Sekilas Mengenai XAMPP
+XAMPP adalah sebuah software web server
+Apache yang didalamnya sudah tersedia
+database server MySQL dan mendukung PHP
+programming. XAMPP merupakan singkatan
+dari X(untuk empat sistem operasi), Apache,
+MySQL, PHP, Perl [5].
+Penjelasan mengenai Apache dan MySQL
+adalah sebagai berikut:
+1) Sekilas mengenai Apache
+Apache merupakan salah satu modul
+dalam perangkat lunak XAMPP yang
+berfungsi sebagai web server. Aplikasi ini
+tersedia untuk berbagai sistem operasi,
+termasuk Unix, GNU, FreeBSD, Linux,
+Solaris, Novell NetWare, AmigaOS, Mac
+76
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+OS X, Microsoft Windows, OS / 2, TPF,
+dan eComStation [8].
+2) Sekilas Mengenai MySQL
+SQL ini merupakan bahasa standar yang
+digunakan
+untuk
+relational
+database
+management systems (RDBMS). Pernyataanpernyataan SQL digunakan untuk melakukan
+beberapa tugas seperti update data atau
+menampilkan data dari basis data. Untuk dapat
+melakukan
+tugas
+tersebut
+diperlukan
+perangkat lunak Database Management
+Systems (DBMS) seperti MySQL, Oracle,
+Microsoft SQL Server, Microsoft Access, dan
+sebagainya. Setiap software
+database
+mempunyai bahasa perintah / sintaks yang
+berbeda, namun pada prinsipnya mempunyai
+arti dan fungsi yang sama [10].
+2.6.6. Sekilas Mengenai CodeIgniter
+CodeIgniter merupakan aplikasi open source
+yang berupa framework dengan model MVC
+(Model, View, Controller) untuk membangun
+website dinamis dengan menggunakan PHP.
+Framework dapat diartikan sebagai kumpulan
+dari fungsi-fungsi/prosedur-prosedur dan
+class-class untuk tujuan tertentu yang sudah
+siap digunakan sehingga bisa lebih
+mempermudah dan mempercepat pekerjaan
+seorang pemrograman, tanpa harus membuat
+fungsi atau class dari awal [17].
+MVC (Model View Controller) memisahkan
+pengembangan
+aplikasi
+berdasarkan
+komponen utama yang membangun sebuah
+aplikasi seperti manipulasi data (model), user
+interface (View), dan bagian yang menjadi
+kontrol aplikasi (Controller) [17]. Konsep
+MVC (Model View Controller) dapat dilihat
+pada gambar 2.3.
+
+3.1. Gambaran Umum
+Aplikasi ini akan digunakan sebagai media
+penyebaran informasi antar alumni dan untuk
+mengolah data guna mendapatkan informasi
+mengenai alumni yang dibutuhkan oleh prodi.
+Pengguna dari Sistem Informasi Alumni
+Berbasis Web ini adalah:
+1) Administrator merupakan pihak yang
+ditunjuk oleh prodi sebagai pengelola
+Sistem Informasi Alumni Berbasis Web
+yaitu pihak Himpunan Mahasiswa Teknik
+Informatika.
+2) Member adalah alumni Program Studi
+Teknik
+Informatika
+Universitas
+Diponegoro.
+3) Pengunjung adalah pengguna yang hanya
+dapat melihat berita-berita yang tertera
+pada halaman web.
+3.2. Perspektif Sistem yang Akan
+Dibangun
+Sistem yang akan dibangun adalah Sistem
+Informasi Alumni Teknik Informatika
+(SIANIF) Berbasis Web. Seperti yang telah
+dijelaskan bahwa administrator adalah pihak
+Himpunan Mahasiswa Teknik Informatika.
+Administrator memiliki otoritas untuk
+melakukan pengelolaan data secara penuh dan
+pembuatan laporan.
+Sedangkan yang
+bertindak sebagai member adalah alumni yang
+telah melakukan registrasi, member memiliki
+otoritas untuk mencatatkan berita dan
+informasi. Alumni yang belum melakukan
+pendaftaran dapat dikategorikan sebagai
+pengunjung dan memiliki otoritas terbatas
+pada
+melihat
+berita
+dan
+informasi.
+Administrator, member, dan pengunjung
+terhubung dengan server melalui jaringan
+internet. Perspektif Sistem Informasi Alumni
+Teknik Informatika (SIANIF) dapat dilihat
+pada gambar 3.1.
+
+Gambar 2.3 Konsep MVC (Model
+Controller View) [17]
+3. Analisis dan Definisi Persyaratan
+Pada Analisi dan Definisi Persyaratan akan
+dijelaskan kebutuhan untuk membangun sistem,
+yang meliputi gambaran umum dari sistem yang
+dikembangkan, perspektif produk, kebutuhan
+data, kebutuhan fungsi, dan kebutuhan antarmuka
+dari pengembangan implementasi Sistem
+Informasi Alumni Berbasis Web.
+
+Gambar 3.1 Perspektif Sistem Informasi
+Alumni Teknik Informatika (SIANIF)
+Proses pendaftaran member dimulai
+dengan pencatatan data awal alumni oleh
+77
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+administrator. Kemudian alumni dapat
+melakukan registrasi sebagai member
+dengan mengisi form yang terdapat pada
+sistem. Alumni yang belum melakukan
+pendaftaran, atau dapat disebut sebagai
+pengunjung, mempunyai otoritas untuk
+melihat berita dan informasi saja.
+
+3.3. Spesifikasi Kebutuhan Perangkat
+Lunak
+
+Sistem akan melakukan pengecekan data
+pendaftaran ke dalam basis data yang telah
+dicatatkan oleh administrator untuk
+memastikan bahwa pendaftar tersebut
+merupakan alumni Program Studi Teknik
+Informatika
+Universitas
+Diponegoro.
+Apabila terdapat pada basis data, maka
+alumni tersebut akan terdaftar sebagai
+member non aktif dan kemudian sistem
+akan mengirimkan email verifikasi dan
+data login ke alamat email yang telah
+didaftarkan pada saat registrasi. Member
+non aktif memiliki otoritas seperti
+pengunjung sehingga belum dapat
+melakukan pengubahan data pribadi dan
+pencatatan berita.
+
+3.4. Kebutuhan Data
+
+Member non aktif dapat berubah status
+menjadi member aktif setelah melakukan
+verifikasi email yang dicatatkan pada saat
+pendaftaran dan diharuskan login terlebih
+dahulu dengan menggunakan data login
+yang tertera pada email verifikasi. Setelah
+berubah status menjadi member aktif,
+member dapat melakukan pengubahan data
+pribadi, pencatatan berita, agenda, dan
+komentar. Member juga dapat melakukan
+pengiriman pesan kepada member lain atau
+kepada administrator. Alur pendaftaran
+yang merupakan salah satu proses penting
+dalam Sistem Informasi Alumni Berbasis
+Web dapat dilihat pada gambar 3.2.
+
+Gambar 3.2 Activity Diagram Pendaftaran
+Alumni SIANIF
+
+Dalam membangun sistem perangkat lunak
+dibutuhkan spesifikasi kebutuhan perangkat
+lunak untuk untuk menentukan fitur-fitur apa
+saja yang diperlukan dan yang diharapkan
+nantinya sebagai acuan pengendalian batasan
+sistem yang akan dibangun.
+Spesifikasi
+kebutuhan perangkat lunak Sistem Informasi
+Alumni Teknik Informatika dijelaskan pada
+tabel 3.1.
+
+Kebutuhan data untuk pengembangan
+perangkat lunak dideskripsikan dengan
+menggunakan ERD (Entity Relationship
+Diagram), DOD (Data Object Description),
+dan kamus data dari database.
+Tabel 3.1 Software Requirements
+Specification (SRS) Sistem Informasi Alumni
+Teknik Informatika (SIANIF)
+No.
+
+SRS ID
+
+Deskripsi
+
+1
+
+SRS – SIANIF – F01
+
+2
+
+SRS – SIANIF – F02
+
+3
+4
+5
+6
+7
+
+SRS – SIANIF – F03
+SRS – SIANIF – F04
+SRS – SIANIF – F05
+SRS – SIANIF – F06
+SRS – SIANIF – F07
+
+8
+
+SRS – SIANIF – F08
+
+9
+
+SRS – SIANIF – F09
+
+10
+
+SRS – SIANIF – F10
+
+11
+
+SRS – SIANIF – F11
+
+12
+
+SRS – SIANIF – F12
+
+13
+
+SRS – SIANIF – F13
+
+14
+
+SRS – SIANIF – F14
+
+Fungsi untuk otentikasi pengguna.
+Fungsi untuk pengelolaan pendaftaran member
+(alumni).
+Fungsi untuk fasilitas pengelolaan data.
+Fungsi untuk update data alumni.
+Fungsi untuk reset password.
+Fungsi untuk ganti password.
+Fungsi untuk fasilitas pencarian data alumni.
+Fungsi untuk manajemen data berita dan
+penampilan judul berita terkini.
+Fungsi untuk manajemen data agenda dan
+penampilan agenda yang akan berlangsung.
+Fungsi untuk penambahan komentar.
+Fungsi untuk fasilitas pengiriman pesan antar
+member.
+Fungsi untuk fasilitas pengiriman saran bagi
+pengunjung.
+Fungsi untuk penampilan grafik dan tabel
+laporan sesuai kategori yang dipilih.
+Fungsi untuk fasilitas pencetakan laporan
+sesuai kategori yang dipilih.
+
+3.4.1. ERD (Entity Relationship Diagram)
+Model data ERD (Entity Relationship
+Diagram)
+merupakan
+diagram
+yang
+menggambarkan keterhubungan antar objekobjek data [20]. Himpunan entitas yang
+digunakan pada pengembangan Sistem
+Informasi Alumni Teknik Informatika dapat
+dilihat pada tabel 3.2.
+Tabel 3.2 Himpunan Entitas pada Sistem
+Informasi Alumni Teknik Informatika
+No.
+
+Entitas
+
+1.
+
+Wisuda
+
+2.
+
+Pertanyaan Keamanan
+
+3.
+
+Alumni
+
+4.
+
+Berita
+
+5.
+
+Agenda
+
+Deskripsi
+Keterangan wisuda yang dilaksanakan.
+Daftar pertanyaan keamanan untuk me-reset
+password
+Alumni Prodi Teknik Informatika
+Universitas Diponegoro
+Berita atau informasi berupa lowongan,
+beasiswa dan informasi lain.
+Agenda kegiatan yang dilakukan alumni atau
+
+78
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+
+6.
+
+Komentar
+
+7.
+
+Pesan
+
+8.
+
+Saran
+
+9.
+
+Profil
+
+prodi.
+Komentar yang diberikan pada berita atau
+agenda.
+Pesan yang dikirimkan antar alumni.
+Saran yang dikirimkan pengunjung kepada
+administrator.
+Keterangan mengenai profil prodi.
+
+Berdasarkan entitas di atas, maka dapat buat
+Model data DOD dengan contoh relasi
+melantik yang menghubungkan entitas
+Wisuda dan Alumni seperti pada gambar 3.3.
+
+Gambar 3.3 DOD Himpunan Relasi Melantik
+Penjabaran skema relasional, kardinalitas dan
+diagram skema dari gambar 3.4 adalah sebagai
+berikut:
+1) Skema relasional :
+Wisuda
+(idWisuda, bulan, tahun, jumlahPeserta)
+Alumni
+(NIM, namaLengkap, password, email,
+tgLahir, jenisKelamin, noTelp, alamatAsal,
+kotaAsal, alamatSekarang, kotaSekarang,
+instansi, jabatan, judulTA, lamaTA,
+tglLulus, lamaStudi, IPK, foto, jawabanPK,
+kunciAktivasi, statusAktif)
+melantik (idWisuda, NIM)
+2) Kardinalitas :
+1-N, maksudnya adalah setiap wisuda
+dapat melantik banyak alumni, dan setiap
+alumni hanya dapat dilantik pada satu kali
+periode wisuda.
+3.4.2. Data Dictionary (Kamus Data)
+Contoh kamus data untuk entitas Wisuda dan
+Alumni yang digunakan berdasarkan pada
+ERD (Entity Relationship Diagram) Sistem
+Informasi Alumni Teknik Informatika adalah
+sebagai berikut:
+1) Data Wisuda
+Wisuda = @idWisuda + bulan + tahun +
+jumlahPeserta
+@ idWisuda = { integer }
+bulan
+= [ Januari| … |Desember ]
+tahun
+= [ 2000| ... |2999 ]
+jumlahPeserta = { integer }
+integer
+= [ 0-9 ]
+2) Data Alumni
+Alumni = @NIM + namaLengkap +
+password + email + tglLahir +
+jenisKelamin + noTelp +
+alamatAsal + kotaAsal +
+alamatSekarang + kotaSekarang +
+instansi + jabatan + judulTA +
+lamaTA + tglLulus + lamaStudi +
+
+IPK + foto + jawabanPK +
+kunciAktivasi + statusAktif +
+idWisuda + idPertanyaan
+@NIM
+= 1{ character }14
+namaLengkap = 1{ character }50
+password
+= 1{ character }50
+email
+= 1{ character }25
+tglLahir
+= date
+jenisKelamin = [ L | P ]
+noTelp
+= 1{ character }20
+alamatAsal
+= 1{ character }100
+kotaAsal
+= 1{ character }20
+alamatSekarang
+= 1{ character }100
+kotaSekarang = 1{ character }20
+instansi
+= 1{ character }50
+jabatan
+= 1{ character }50
+judulTA
+= 1{ character }250
+lamaTA
+= { integer }
+tglLulus
+= date
+lamaStudi
+= { integer }
+IPK
+= decimal
+foto
+= 1{ character }50
+jawabanPK
+= 1{ character }20
+kunciAktivasi = 1{ character }65
+statusAktif
+= [ aktif | non aktif ]
+idWisuda
+= *dapat dilihat pada Data
+Wisuda*
+idPertanyaan = *dapat dilihat pada Data
+Pertanyaan_Keamanan*
+character
+= [ A-Z | a-z | 0-9 | | ]
+integer
+= [ 0-9 ]
+3.5. Kebutuhan Fungsi
+Pada subbab ini akan dijelaskan mengenai
+DCD (Data Context Diagram) dan DFD
+(Data Flow Diagram) yang digunakan untuk
+menganalisa kebutuhan fungsi pada Sistem
+Informasi Alumni Teknik Informatika.
+3.5.1. DCD (Data Context Diagram)
+Data Context Diagram adalah DFD Level 0
+yang berfungsi memetakan model lingkungan,
+yang menggambarkan mengenai sistem yang
+dipresentasikan dengan lingkaran tunggal
+akan melakukan proses atau pengolahan data
+terhadap sejumlah masukan data dari entitas
+luar, yaitu Administrator, Member, dan
+Pengunjung. DCD Sistem Informasi Alumni
+Teknik Informatika dapat dilihat pada gambar
+3.4.
+
+79
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+
+Gambar 3.5 DFD level 2 Pendaftaran Alumni
+4. Perancangan Sistem dan Perangkat Lunak
+
+Gambar 3.4 DCD Sistem Informasi
+Alumni Teknik Informatika
+
+Pada subbab ini dijelaskan perancangan untuk
+membangun sistem yang meliputi perancangan
+data, perancangan fungsi, dan perancangan
+antarmuka dari pengembangan Sistem Informasi
+Alumni Teknik Informatika.
+
+3.5.2. DFD level 1
+
+4.1. Perancangan Data
+
+Pada DFD level 1 Sistem Informasi Alumni
+Teknik Informatika ini terdiri atas 4 proses
+utama, yaitu:
+a) Otentikasi,
+menangani
+pembagian
+kewenangan
+hak
+akses
+pengguna
+berdasarkan pengelompokan hak akses
+user setelah melakukan login pada sistem
+yang dibangun.
+b) Pendaftaran Alumni, menangani proses
+pendaftaran alumni hingga alumni tersebut
+terdaftar sebagai member.
+c) Manajemen Data, proses mengelola data
+yang ada sesuai dengan otoritas masingmasing user.
+d) Laporan, menangani proses manajemen
+pembuatan dan pencetakan laporan data
+alumni.
+
+Rancangan data terdiri atas Conceptual Data
+Model (CDM) dan Physical Data Model
+(PDM). Pembuatan Conceptual Data Model
+(CDM) merupakan tahap indentifikasi dan
+analisa kebutuhan-kebutuhan data. Tipe data
+dari CDM bersifat general dan tidak spesifik.
+Physical Data Model (PDM) merupakan
+perancangan
+database
+secara
+fisik,
+tipe data pada PDM bersifat lebih khusus dan
+spesifik. Perancangan PDM merupakan
+representasi fisik / sebenarnya dari database.
+Physical Data Model menggunakan sejumlah
+tabel untuk menggambarkan data dan
+hubungan antardata tersebut.
+Rancangan
+Physical Data Model (PDM)
+Sistem
+Informasi Alumni Teknik Informatika dapat
+dilihat pada Gambar 4.1.
+
+3.5.3. DFD level 2
+DFD level 2 adalah hasil dekomposisi dari
+proses yang terdapat pada DFD level 1
+menjadi proses – proses yang lebih detail. Ada
+beberapa proses pada DFD level 1 yang
+diturunkan ke dalam DFD level 2, salah
+satunya adalah Proses Pendaftaran Alumni.
+Proses Pendaftaran Alumni didekomposisi
+menjadi beberapa proses, yaitu:
+a) Pencatatan Data Pendaftaran : merupakan
+proses mencatatkan data pendaftaran yang
+dilakukan alumni ke dalam basis data
+alumni.
+b) Pengecekan Data Pendaftar : merupakan
+proses pencocokan data pendaftar dengan
+data yang terdapat pada basis data alumni.
+c) Pengecekan Kunci Aktivasi : merupakan
+proses pengecekan kunci aktivasi yang
+dikirimkan alumni.
+DFD Level 2 Pendaftaran Alumni dapat
+dilihat pada gambar 3.5.
+
+Gambar 4.1 Physical Data Model (PDM)
+Sistem Informasi Alumni Teknik Informatika
+4.2. Perancangan Fungsi
+Perancangan fungsi diperoleh dari spesifikasi
+kebutuhan perangkat lunak yang telah dibuat
+sebelumnya. Tabel 4.1 merupakan kerunutan
+antara kebutuhan dan rancangan fungsi.
+Tabel 4.1 Matriks Kerunutan Fungsi dan
+Spesifikasi Kebutuhan Perangkat Lunak
+80
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+
+No.
+1
+2
+3
+4
+5
+6
+7
+
+SRS ID
+
+Deskripsi
+
+SRS – SIANIF
+– F01
+SRS – SIANIF
+– F02
+SRS – SIANIF
+– F03
+SRS – SIANIF
+– F04
+SRS – SIANIF
+– F05
+SRS – SIANIF
+– F06
+SRS – SIANIF
+– F07
+
+Fungsi untuk otentikasi
+pengguna.
+Fungsi untuk pengelolaan
+pendaftaran member (alumni).
+Fungsi untuk fasilitas
+pengelolaan data.
+Fungsi untuk update data
+alumni.
+
+8
+
+SRS – SIANIF
+– F08
+
+9
+
+SRS – SIANIF
+– F09
+
+10
+
+SRS – SIANIF
+– F10
+
+11
+
+SRS – SIANIF
+– F11
+
+12
+
+SRS – SIANIF
+– F12
+
+13
+
+14
+
+Fungsi untuk reset password.
+Fungsi untuk ganti password.
+
+No
+Fungsi
+
+Nama
+Fungsi
+
+FS - 1
+
+Otentikasi
+
+Pendaftaran
+Alumni
+Manajemen
+FS - 3
+Data
+Update Data
+FS - 3.1.
+Alumni
+Reset
+FS - 3.1.
+Password
+Ganti
+FS - 3.1.
+Password
+Pencarian
+FS - 3.1.
+Data Alumni
+FS - 2
+
+Fungsi untuk fasilitas
+pencarian data alumni.
+Fungsi untuk manajemen data
+Manajemen
+berita dan penampilan judul
+FS - 3.2
+Data Berita
+berita terkini.
+Fungsi untuk manajemen data
+Manajemen
+agenda dan penampilan agenda FS - 3.3
+Data Agenda
+yang akan berlangsung.
+Manajemen
+Fungsi untuk penambahan
+FS - 3.4 Data
+komentar.
+Komentar
+Fungsi untuk fasilitas
+Manajemen
+pengiriman pesan antar
+FS - 3.6
+Data Pesan
+member.
+
+Fungsi untuk fasilitas
+Manajemen
+pengiriman saran bagi
+FS - 3.9
+Data Saran
+pengunjung.
+Fungsi untuk penampilan
+Tampil
+SRS – SIANIF
+grafik dan tabel laporan sesuai FS - 4 Grafik dan
+– F13
+kategori yang dipilih.
+Tabel
+Fungsi untuk fasilitas
+SRS – SIANIF
+Cetak
+pencetakan laporan sesuai
+FS - 4
+– F14
+Laporan
+kategori yang dipilih.
+
+4.3. Perancangan Antarmuka
+Antarmuka merupakan jembatan yang
+menghubungkan
+user
+dengan
+sistem.
+Perancangan antarmuka akan menunjukkan
+bagaimana administrator, member, dan
+pengunjung dapat berinteraksi dengan sistem.
+Interaksi tersebut berupa proses memasukkan
+data ke sistem dan menampilkan informasi ke
+pengguna. Contoh perancangan antarmuka
+untuk halaman beranda dapat dilihat pada
+gambar 4.2.
+
+Gambar 4.3 Rancangan Antarmuka Form
+Register
+5. Implementasi Sistem
+Tahap implementasi Sistem Informasi Alumni
+Berbasis Web pada Program Studi Teknik
+Informatika Universitas Diponegoro meliputi
+beberapa hal antara lain implementasi perangkat
+keras dan perangkat lunak, implementasi
+rancangan
+data,
+implementasi
+rancangan
+antarmuka, dan implementasi rancangan fungsi.
+5.1. Implementasi Perangkat Keras dan
+Perangkat Lunak
+Spesifikasi perangkat keras yang digunakan
+dalam membangun Sistem Informasi Alumni
+Berbasis Web Program Studi Teknik
+Informatika Universitas Diponegoro adalah
+sebagai berikut:
+1) Notebook AMD TurionTM X2 Dual-Core
+Mobile RM-70 (2 CPUs), kecepatan
+prosesor 2.0GHz
+2) Memori 3GB
+3) Harddisk 160 GB
+4) Monitor LCD 14 inci dengan resolusi
+1280x800
+Perangkat lunak yang digunakan dalam
+membangun Sistem Informasi Alumni
+Berbasis Web Program Studi Teknik
+Informatika Universitas Diponegoro antara
+lain sebagai berikut:
+1) Sistem Operasi Windows 7 Professional 32
+bit
+2) XAMPP for Windows 1.7.1
+3) Browser : Firefox Mozilla dan Google
+Chrome
+5.2. Implementasi Perancangan Basis Data
+
+Gambar 4.2 Rancangan Antarmuka Halaman
+Halaman Register berfungsi untuk melakukan
+pendaftaran sehingga pengunjung memiliki
+hak akses sebagai member.
+Rancangan
+antarmuka halaman Register dapat dilihat
+pada gambar 4.3.
+
+Implementasi
+perancangan
+basis
+data
+merupakan perubahan dari hasil proses
+perancangan data ke dalam bentuk struktur
+data sehingga dapat digunakan pada Sistem
+Informasi Alumni Berbasis Web.
+Tabel 5.1 Daftar Tabel Sistem Informasi
+Alumni Teknik Informatika (SIANIF)
+No
+Atribut
+1 Wisuda
+
+Kolom
+idWisuda
+
+Tipe Data
+Integer
+
+Deskripsi Isi
+Keterangan wisuda
+
+81
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+
+2
+
+Alumni
+
+bulan
+tahun
+jumlahPeserta
+NIM
+idWisuda
+idPertanyaan
+namaLengkap
+password
+email
+tglLahir
+jenisKelamin
+noTelp
+alamatAsal
+kotaAsal
+alamatSekarang
+kotaSekarang
+instansi
+jabatan
+judulTA
+lamaTA
+tglLulus
+lamaStudi
+IPK
+foto
+jawabanPK
+kunciAktivasi
+statusAktif
+
+Varchar(10)
+Char(4)
+Integer
+Varchar(14)
+Integer
+Integer
+Varchar(50)
+Varchar(50)
+Varchar(30)
+Date
+Char(1)
+Varchar(20)
+Varchar(100)
+Varchar(20)
+Varchar(100)
+Varchar(20)
+Varchar(50)
+Varchar(50)
+Varchar(250)
+Smallint
+Date
+Smallint
+Decimal(3,2)
+Varchar(50)
+Varchar(20)
+Varchar(65)
+Varchar(9)
+
+yang dilaksanakan.
+
+Data mengenai
+Alumni Prodi
+Teknik
+Informatika
+Universitas
+Diponegoro
+
+Contoh implementasi perancangan basis data
+tabel Wisuda dan Alumni dapat dilihat pada
+tabel 5.1.
+5.3. Implementasi Perancangan Fungsi
+
+Gambar 5.1 Implementasi Antarmuka
+Halaman Beranda Pengunjung
+Halaman Register berfungsi untuk melakukan
+pendaftaran sehingga alumni memiliki hak
+akses
+sebagai
+member.
+Implementasi
+antarmuka halaman Register dapat dilihat
+pada gambar 5.2.
+
+Implementasi perancangan fungsi merupakan
+hasil transformasi dari proses perancangan
+fungsi yang telah dijelaskan pada bab
+sebelumnya. Setiap fungsi diterjemahkan ke
+dalam bahasa program dan disimpan dengan
+ekstensi file .php pada folder controller
+framework CodeIgniter sebagai pengontrol.
+5.4. Implementasi Perancangan
+Antarmuka
+Implementasi
+perancangan
+antarmuka
+merupakan penerapan hasil rancangan
+antarmuka pada Sistem Informasi Alumni
+Berbasis Web pada Program Studi Teknik
+Informatika Universitas Diponegoro seperti
+yang telah dijelaskan pada subbab desain
+antarmuka. Contoh implementasi antarmuka
+untuk halaman beranda dapat dilihat pada
+gambar 5.1.
+
+Gambar 5.2 Implementasi Antarmuka Form
+Register
+6. Pengujian Sistem
+Pengujian
+dilakukan
+untuk
+menemukan
+kesalahan-kesalahan dan memastikan bahwa input
+yang dimasukkan akan memberikan hasil aktual
+yang sesuai dengan output yang dibutuhkan.
+Pengujian dilakukan pada persyaratan fungsional
+perangkat lunak (black-box) dengan memasukkan
+serangkaian kondisi masukan yang sesuai dengan
+fungsional program dan dilakukan dengan
+menggunakan koneksi jaringan lokal. Pengujian
+black box diterima jika fitur-fitur yang ada pada
+perangkat lunak memenuhi spesifikasi kebutuhan
+sistem yang telah diidentifikasi sebelumnya.
+Berdasarkan hasil pengujian, dapat disimpulkan
+bahwa Sistem Informasi Alumni Berbasis Web
+pada Program Studi Teknik Informatika
+Universitas Diponegoro (SIANIF) telah sesuai
+dengan persyaratan perangkat lunak yang
+didefinisikan, yaitu:
+1) Dapat melayani otentikasi pengguna.
+2) Dapat menangani pendaftaran member
+(alumni).
+82
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+3) Mampu memfasilitasi pengelolaan data.
+4) Dapat menangani update data alumni.
+5) Mampu memfasilitasi reset password.
+6) Mampu memfasilitasi ganti password.
+7) Mampu memfasilitasi pencarian data alumni.
+8) Dapat melakukan manajemen data berita dan
+penampilan judul berita terkini.
+9) Dapat melakukan manajemen data agenda dan
+penampilan agenda yang akan berlangsung.
+10) Dapat menangani penambahan komentar.
+11) Mampu memfasilitasi pengiriman pesan antar
+member.
+12) Mampu memfasilitasi pengiriman saran bagi
+pengunjung.
+13) Dapat menampilkan grafik dan tabel laporan
+sesuai kategori yang dipilih.
+14) Mampu memfasilitasi pencetakan laporan
+sesuai kategori yang dipilih.
+7. Penutup
+Bab ini berisi kesimpulan yang diambil berkaitan
+dengan sistem informasi yang dibangun serta
+saran yang berguna untuk pengembangan Sistem
+Informasi Alumni Berbasis Web pada Program
+Studi Teknik Informatika Universitas Diponegoro
+lebih lanjut.
+
+memudahkan interaksi antar alumni. Selain itu
+juga diharapkan memiliki fitur penyajian
+laporan data alumni yang lebih kompleks
+sehingga informasi yang dihasilkan lebih
+lengkap.
+Daftar Pustaka
+[1] Alamsyah, Andry. 2003. Pengantar
+Javascript. Diakses
+dari http://www.ilmukomputer.com pada 21
+Maret 2012 pukul 11.17.
+[2] Ariyanti, Siti Wittty. 2012. Pengertian
+Internet, Protokol, TCP, IP dan TCP/IP.
+Diakses
+dari http://49012035siti.wordpress.com pada
+28 Agustus 2012 pukul 08.21.
+[3] Christianto, Noel. 2011. Pengertian ClientServer. Diakses
+dari http://zafnatpaneyah.blogspot.com/2011
+/10/pengertian-client-server.html
+pada 27 Agustus pukul 19.35.
+[4] Debi. 2009. Apa Itu Localhost. Diakses
+dari http://mazdeby.wordpress.com
+pada 28 Agustus 2012 pukul 09.57.
+
+7.1. Kesimpulan
+Kesimpulan yang dapat diambil dalam
+pembuatan tugas akhir ini adalah dihasilkan
+sebuah Sistem Informasi Alumni Berbasis
+Web pada Program Studi Teknik Informatika
+Universitas Diponegoro yang dikembangkan
+dengan model proses waterfall yang meliputi
+tahap Analisis dan Definisi Persyaratan,
+Perancangan Sistem, Implementasi Sistem,
+dan Pengujian Sistem.
+Sistem Informasi Alumni Berbasis Web ini
+dapat membantu para alumni untuk dapat
+berinteraksi dengan sesama alumni ataupun
+dengan pihak program studi sehingga
+memudahkan alumni dalam memperoleh
+biodata alumni lain, informasi beasiswa,
+lowongan pekerjaan, serta berita terkini
+mengenai perkembangan program studi.
+Sistem Informasi Alumni Berbasis Web ini
+juga dapat membantu pihak program studi
+untuk mengetahui perkembangan para alumni
+dan membantu membuat rekapitulasi data
+alumni dengan cepat.
+
+[5] Dudul, Kak. 2012. Pengertian XAMPP.
+Diakses dari http://www.maniacms.web.id
+pada 28 Agustus 2012 pukul 08.03.
+[6] Ericsson, Maria. 2004. Activity Diagrams:
+What They Are and How to Use Them.
+Diakses
+dari http://www.ibm.com/developerworks/ra
+tional/library/2802.html
+pada 1 Mei 2012 pukul 08.00.
+[7] Febriani. 2005. Analisis dan Perancangan.
+Diakses dari febriani.staff.gunadarma.ac.id
+pada 21 Maret 2012 pukul 11.26.
+[8] Foundation, The Apache Software. 2011.
+Apache HTTP Server Project. Diakses
+dari http://httpd.apache.org/ABOUT_APAC
+HE.html pada 17 Agustus 2012 pukul 13.45.
+[9] Hartatik, Erna Sri. Konsep dan Prinsip
+Analisis, dan Pemodelan Analsis. Diakses
+dari http://amethyst070188.wordpress.com
+pada 27 Agustus 2012 pukul 17.14.
+
+7.2. Saran
+Pada pengembangan lebih lanjut, Sistem
+Informasi Alumni Berbasis Web pada Program
+Studi
+Teknik
+Informatika
+Universitas
+Diponegoro diharapkan memiliki fitur
+komunikasi
+yang
+lebih
+luas
+untuk
+
+[10] Irmansyah, Faried. 2003. Pengantar
+Database. Diakses
+dari http://www.ilmukomputer.com
+pada 21 Maret 2012 pukul 11.23.
+
+83
+
+Journal of Informatics and Technology, Vol 1, No 1, Tahun 2012, p 72-84
+http://ejournal-s1.undip.ac.id/index.php/joint
+[11] Jogiyanto. 2003. Sistem Teknologi Informasi.
+Yogyakarta : Andy Offset.
+[12] Lewis, William E. 2005. Software Testing
+and Continuous Quality Improvement.
+Second Edition. Florida : Auerbach
+Publications.
+
+[17] Supono. 2010. CodeIgniter Framework
+PHP. Diakses
+dari http://supono.wordpress.com/2010/04/1
+6/codeigniter-framework-php/
+pada 18 Mei 2012 pukul 11.18.
+
+[13] Ocha. 2007. Pengertian TCP/IP. Diakses
+dari http://0ch4.wordpress.com/
+pada 28 Agustus 2012 pukul 09.03.
+
+[18] Widodo, Aris Puji. 2009. Chapter I
+Pendahuluan. Diakses
+dari http://www.scribd.com/doc/11382213/P
+emrogram-WEB-Jeda pada 28 Agustus 2012
+pukul 08.36.
+
+[14] Pressman, Roger S. 2001. Software
+Engineering : A Practitioner’s Approach
+Fifth Edition. New York : McGraw - Hill
+Companies. Inc.
+
+[19] Widodo, Aris Puji, dkk. 2006. Bahan Ajar
+Pemrograman
+Internet.
+Prodi
+Ilmu
+Komputer Jurusan Matematika Fakultas
+MIPA Universitas Diponegoro.
+
+[15] Silberschatz, dkk. 2002. Database System
+Concepts 4th Edition. Singapura : McGraw
+Hill
+
+[20]
+
+[16] Sommerville,
+Ian.
+2000.
+Engineering. Jakarta: Erlangga.
+
+Software
+
+Widodo, Aris Puji, Djalal ER Riyanto, dan
+Beta Noranita. 2004. Buku Ajar Basis
+Data. Jurusan Matematika Fakultas MIPA
+Universitas Diponegoro.
+
+84
+
+

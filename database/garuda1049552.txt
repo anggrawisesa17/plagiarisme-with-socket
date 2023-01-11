@@ -1,0 +1,1047 @@
+Jurnal Evolusi Volume 6 No 1 - 2018
+
+APLIKASI PEMBELAJARAN ILMU TAJWID BERBASIS ANDROID
+1)
+
+Vadlya Maarif, 2) Hidayat Muhammad Nur, 3) Wati Rahayu
+1)
+
+Sistem Informasi, STMIK Nusa Mandiri Jakarta
+vadlya.vlr@nusamandiri.ac.id
+2)
+Manajemen Informatika, AMIK BSI Purwokerto
+hidayat.hmm@bsi.ac.id
+3)
+Teknik Informatika, AMIK BSI Purwokerto
+watiraha2109@bsi.ac.id
+
+Abstract - Tajwid science is a very important science for Muslims who will learn to read the Qur'an
+properly and correctly. Most Muslims have difficulty memorizing various kinds of knowledge of tajwid
+and applying it when confronted with reading the Qur'an, or most only know a little science of tajwid
+and rarely apply it when reading the Qur'an. Utilization of mobile devices is now developed by using
+android operating system technology that allows the use of mobile to create applications based on
+android operating system that can run on mobile devices that support android platform. The
+application of tajwid science based on android contains tajwid science materials along with examples
+of correct tajwid law pronunciation and equipped with sample of the reading. This application of tajwid
+science allows users to see examples and hear from the applications used to make it easier for
+Muslims, children, adolescents and parents who have limited time to learn easily and can be used
+anytime, considering the mobile technology that has been widely used. In addition users can measure
+their learning ability with practice questions that are already available.
+Keywords: Science of Tajwid, Learn Al Qur’an, Android Apps
+Abstrak - Ilmu tajwid merupakan ilmu yang sangat penting bagi umat Islam yang akan belajar
+membaca Al-Qur’an dengan baik dan benar. Sebagian besar umat muslim mengalami kesulitan dalam
+menghafal berbagai macam jenis ilmu tajwid dan menerapkannya saat dihadapkan dengan bacaan
+Al-Qur’an, atau sebagian besar hanya mengetahui sedikit ilmu tajwid dan jarang menerapkannya saat
+membaca Al-Qur’an. Pemanfaatan perangkat mobile sekarang sudah berkembang dengan
+menggunakan teknologi sistem operasi android yang memungkinkan penggunaan mobile untuk
+membuat aplikasi berbasis sistem operasi android yang dapat dijalankan pada perangkat mobile yang
+mendukung android platform. Aplikasi ilmu tajwid berbasis android memuat materi ilmu tajwid disertai
+contoh pelafalan hukum tajwid yang benar dan dilengkapi dengan contoh bacaannya. Aplikasi ilmu
+tajwid ini memungkinkan pengguna melihat contoh dan mendengar dari aplikasi yang digunakan
+sehingga mempermudah bagi umat Islam baik anak-anak, remaja maupun orang tua yang mempunyai
+keterbatasan waktu untuk belajar dengan mudah dan dapat digunakan kapan saja, mengingat
+teknologi mobile yang sudah banyak digunakan. Selain itu pengguna dapat mengukur kemampuan
+belajarnya dengan soal-soal latihan yang sudah tersedia.
+Kata Kunci: Ilmu Tajwid, Belajar Al Qur’an, Aplikasi Android
+A. PENDAHULUAN
+Ilmu tajwid adalah dasar untuk membaca
+Al-Qur’an yang baik dan benar, serta ilmu
+tajwid merupakan ilmu yang mempelajari
+bagaimana
+cara
+membunyikan
+atau
+mengucapkan huruf-huruf yang terdapat dalam
+kitab suci Al-Qur’an. Jadi dalam membaca AlQur’an harus tepat dan benar lafal
+pengucapannya sesuai aturan yang sah,
+karena jika salah dalam membaca atau
+melafalkannya akan memberi arti yang
+berbeda. Mempelajari ilmu tajwid adalah
+fardhu kifayah. Artinya apabila disuatu tempat,
+wilayah, atau negeri telah ada umat muslim
+yang ahli dalam ilmu tajwid, dimana orang
+dapat bertanya kepadanya, maka kewajiban
+itu telah terpenuhi. Namun, membaca AlISSN: 2338 - 8161
+
+Qur’an menurut ketentuan ilmu tajwid
+hukumnya fardhu ain. Artinya, setiap orang
+yang membaca Al-Qur’an harus dengan
+bacaan yang baik dan benar sesuai dengan
+ketentuan ilmu tajwid.
+Sebagian besar umat muslim mengalami
+kesulitan dalam menghafal berbagai macam
+jenis ilmu tajwid dan menerapkannya saat
+membaca Al-Qur’an, atau sebagian besar
+hanya mengetahui sedikit ilmu tajwid dan
+jarang menerapkannya saat membaca AlQur’an, serta melihat dari usia mereka yang
+sudah terlalu tua tentu akan merasa malu jika
+harus datang ke guru agama atau guru
+mengaji dan merasa terlambat untuk belajar
+ilmu tajwid kembali. Selain itu umat muslim
+kurang tertarik untuk mempelajari tentang ilmu
+91
+
+Jurnal Evolusi Volume 6 No 1 - 2018
+
+tajwid disebabkan oleh banyak hal, misalkan
+aktivitas yang sangat padat sehingga
+mengakibatkan tidak adanya cukup waktu
+untuk mempelajari ilmu tajwid.
+Seiring dengan tingkat mobilitas yang
+tinggi, beberapa tahun terakhir tengah marak
+perangkat bergerak atau mobile device. Salah
+satu perangkat mobile yang paling pesat
+adalah Handphone, dimana hampir setiap
+orang memilikinya. Handphone yang sedianya
+sebagai alat komunikasi, saat ini sudah lebih
+dari fungsi dasarnya. Berbagai macam fitur
+telah ditanamkan, seperti pengolah gambar
+dan video, pengolah dokumen dan lain
+sebagainya. Hal ini tak lepas dari penggunaan
+sistem operasi pada handphone. Layaknya
+pada komputer, handphone pun dapat di instal
+berbagai macam aplikasi yang diinginkan.
+Salah satu sistem operasi yang digunakan
+di berbagai perangkat mobile adalah Android.
+Android memiliki tujuan utama untuk
+memajukan inovasi piranti telepon bergerak
+agar pengguna mampu mengeksplorasi
+kemampuan dan menambah pengalaman
+lebih dibandingkan dengan platform mobile
+lainnya. Hingga saat ini android terus
+berkembang, baik secara sistem maupun
+aplikasinya. Hal ini menjadikan masyarakat
+baik orang tua, remaja hingga anak-anak
+sudah menggunakan handphone bersistem
+operasi android dalam kehidupan sehari-hari
+karena sangat mudah didapatkan dan
+harganya juga sangat terjangkau.
+Oleh sebab itu salah satu solusi yang dapat
+diambil adalah dengan mengembangkan
+aplikasi ilmu tajwid berbasis android. Dalam
+dunia
+pendidikan,
+aplikasi
+ini
+dapat
+dimanfaatkan sebagai tambahan panduan
+belajar
+untuk
+mendukung
+proses
+pembelajaran. Pengembangan aplikasi ilmu
+tajwid berbasis android akan membantu
+meningkatkan minat dan juga memudahkan
+umat muslim baik anak-anak, remaja maupun
+orang tua yang ingin belajar tentang ilmu
+tajwid secara mandiri, kapanpun dan
+dimanapun berada tanpa rasa malu karena
+usia yang sudah terlalu dewasa atau terlalu
+tua untuk belajar. Berdasarkan latar belakang
+permasalahan diatas maka penulis bermaksud
+membuat Tugas Akhir dengan judul: ”Aplikasi
+Pembelajaran Ilmu Tajwid Berbasis Android”.
+B. TINJAUAN PUSTAKA
+1. Aplikasi
+Pengertian aplikasi menurut Kamus Besar
+Bahasa Indonesia (KBBI) adalah penerapan
+dari rancang sistem untuk mengolah data yang
+menggunakan aturan atau ketentuan bahasa
+pemrograman tertentu. Aplikasi adalah suatu
+program komputer yang dibuat untuk
+ISSN: 2338 - 8161
+
+mengerjakan dan melaksanakan tugas khusus
+dari user (pengguna).
+
+2. Pembelajaran
+Menurut Sagala (2009:61) pembelajaran
+adalah “membelajarkan siswa menggunakan
+asas pendidikan maupun teori belajar yang
+merupakan penentu utama keberhasilan
+pendidikan”. Pembelajaran merupakan proses
+komunikasi dua arah. Mengajar dilakukan
+pihak guru sebagai pendidik sedangkan
+belajar oleh peserta didik.
+3. Android
+Menurut Safaat (2012:1) “Android adalah
+sebuah sistem operasi untuk perangkat mobile
+berbasis linux yang mencakup sistem operasi,
+middleware
+dan
+aplikasi.
+Android
+menyediakan platform terbuka bagi para
+pengembang untuk menciptakan aplikasi
+mereka”.
+Android mengalami perkembangan dari
+versi ke versi disesuaikan dengan kebutuhan,
+beberapa versi android yang telah dirilis
+hingga saat ini diantaranya Android versi 1.1
+yang dirilis pada tahun 2008 lalu pada tahun
+yang sama diluncurkan Android versi 1.5
+(Cupcake) dan kemudian Android versi 1.6
+(Donut), Android versi 2.1 yang diberi nama
+Eclair, kemudian pada tahun berikutnya dirilis
+Android versi 2.2 (Froyo), Android versi 2.3
+(Gingerbread), lalu dirilis Android versi 3.0/3.1
+(Honeycomb) yang dirancang khusus untuk
+tablet. Selanjutnya diluncurkan pada akhir
+tahun 2011 Android versi 4.0 (Ice Cream
+Sandwich), kemudian pada tahun 2012 dirilis
+Android versi 4.1 (Jelly Beans) dan Android
+versi 4.4 (Kitkat) pada tahun 2013. Lalu
+diluncurkan Android versi 5.1 (Lollipop),
+Android versi 6.0 (Marshmallow), hingga versi
+terbaru yaitu Android versi 7.0 (Nougat).
+Banyaknya versi android yang dirilis adalah
+pembaharuan dan penambahan fitur-fitur
+sebagai
+penyempurnaan
+dari
+versi
+sebelumnya. Mulai dari android versi 1.1
+sampai android versi 1.6 (Donut) yang
+dilengkapi
+dengan
+pembaharuan
+pada
+kamera, galeri, bluetooth, kontak telepon,
+resolusi display dan jaringan VPN.
+Kemudian pada android versi 2.2 (Eclair)
+sampai android versi 2.3 (Gingerbread)
+dilakukan perubahan pada pengoptimalan
+hardware, dukungan flash pada kamera,
+dukungan HTML5, optimasi kecepatan,
+memori dan dukungan USB tethering atau WiFi hotspot, peningkatan manajemen daya dan
+peningkatan
+performa
+serta
+adanya
+penambahan sensor.
+
+92
+
+Jurnal Evolusi Volume 6 No 1 - 2018
+
+Berbeda dengan android versi sebelumnya,
+android versi 4.0 (Ice Cream Sandwich) dan
+android versi 4.1 (Jelly Beans) memiliki
+kelebihan yaitu adanya platform yang dapat
+berjalan di tablet dan mobile, konsumsi baterai
+yang lebih hemat serta peningkatan performa
+yang lebih signifikan. Sedangkan android versi
+4.4 (Kitkat) lebih ramah terhadap perangkat
+dengan spesifikasi seadanya.
+Perubahan besar yang ada pada android
+versi 5.1 (Lollipop) adalah adanya dukungan
+arsitektur 64 bit sehingga memungkinkan
+penggunaan RAM diatas 3 GB pada perangkat
+hardware. Android versi 6.0 (Marshmallow)
+apabila dilihat dari segi tampilan hampir sama
+dengan android versi 5.1 (Lollipop) hanya saja
+pada versi ini fitur keamanan di OS sudah
+lebih ditingkatkan. Android versi terbaru adalah
+android versi 7.0 (Nougat), pembaharuan pada
+versi ini yaitu adanya penambahan emoji dan
+fitur google assistant serta OS memiliki
+kemampuan 2 bahasa dalam satu waktu.
+4. Android Software Development Kit
+(Android SDK)
+Menurut Safaat (2014:5) mengemukakan
+bahwa, “Android SDK merupakan sebuah tools
+yang diperlukan untuk mengembangkan
+aplikasi berbasis Android menggunakan
+bahasa pemrograman Java”. Pada saat ini
+Android SDK telah menjadi alat bantu dan
+Application Programming Interface (API) untuk
+mengembangkan aplikasi berbasis Android.
+5. Android Studio
+Menurut Herdi (2014) mengemukakan
+bahwa, “Android Studio adalah sebuah IDE
+yang bisa digunakan untuk pengembangan
+aplikasi Android, dan dikembangkan oleh
+Google.
+Android
+Studio
+merupakan
+pengembangkan dari Eclipse IDE, dan dibuat
+berdasarkan IDE Java populer, yaitu IntelliJ
+IDEA.”
+Android Studio merupakan pengembangan
+dari Eclipse IDE, dan dibuat berdasarkan IDE
+Java populer, yaitu IntelliJ IDEA. Android
+Studio direncanakan untuk menggantikan
+Eclipse
+sebagai
+IDE
+resmi
+untuk
+pengembangan aplikasi Android. Android
+Studio mempunyai banyak fitur-fitur baru
+dibandingkan dengan Eclipse IDE. Berbeda
+dengan Eclipse yang menggunakan Ant,
+Android Studio menggunakan Gradle sebagai
+build environment. Fitur-fitur lainnya adalah
+sebagai berikut:
+a) Menggunakan
+Gradle-based
+build
+system yang fleksibel.
+b) Bisa mem-build multiple APK.
+
+ISSN: 2338 - 8161
+
+c) Template
+support
+untuk
+Google
+Services dan berbagai macam tipe
+perangkat.
+d) Layout editor yang lebih bagus.
+e) Built-in support untuk Google Cloud
+Platform,
+sehingga mudah
+untuk
+integrasi
+dengan
+Google
+Cloud
+Messaging dan App Engine.
+f) Import library langsung dari Maven
+repository.
+6. Java
+Menurut Utomo (2013:1) menyimpulkan
+bahwa: Java merupakan salah satu bahasa
+pemrograman yang bersifat multiplatform
+dengan slogan dari para pengembangnya
+adalah ‘Write once run everywhere’ sehingga
+aplikasi yang dikembangkan menggunakan
+bahasa java akan dapat dijalankan pada
+berbagai macam platform atau sistem operasi.
+Hal ini menjadi salah satu solusi dari berbagai
+macam bahasa pemrograman yang ada di
+dunia IT saat ini, yang biasanya hanya dapat
+dijalankan pada satu sistem operasi saja dan
+tidak dapat dijalankan di sistem operasi yang
+lain.
+7. Hierarchy plus Input-Process-Output
+(HIPO)
+Menurut
+Praptiningsih
+(2012:03)
+menerangkan bahwa “HIPO (Hierarchy Plus
+Input Process Output) yaitu alat bantu yang
+digunakan untuk membuat spesifikasi program
+yang merupakan struktur yang berisi diagram
+dimana di dalam program ini berisi input yang
+diproses dan menghasilkan output”.
+8. Flowchart
+Menurut Sitorus (2015:14) menerangkan
+bahwa “Flowchart menggambarkan urutan
+logika dari suatu prosedur pemecahan
+masalah, sehingga flowchart merupakan
+langkah-langkah penyelesaian masalah yang
+dituliskan dalam simbol-simbol tertentu”.
+9. Testing Program (Black Box)
+Menurut
+Soetam
+Rizky
+(2011:264)
+berpendapat bahwa “Black box testing adalah
+tipe testing yang memperlakukan perangkat
+lunak yang tidak diketahui kinerja internalnya.
+Sehingga para tester memandang perangkat
+lunak seperti layaknya sebuah “kotak hitam”
+yang tidak penting dilihat isinya, tapi cukup
+dikenai proses testing di bagian luar”.
+Uji coba black box berusaha untuk
+menemukan kesalahan dalam beberapa
+kategori diantaranya yaitu fungsi-fungsi yang
+salah atau hilang, kesalahan interface,
+kesalahan dalam struktur data atau akses
+
+93
+
+Jurnal Evolusi Volume 6 No 1 - 2018
+
+database eksternal, kesalahan performa dan
+kesalahan inisialisasi dan terminasi.
+C. METODE PENELITIAN
+Metode yang digunakan pada penelitian ini
+yaitu:
+1. Metode observasi, dilakukan dengan
+mengamati secara langsung kegiatan
+belajar ilmu tajwid yang dilakukan di TPA
+(Taman Pendidikan Al-Qur’an).
+2. Metode wawancara, merupakan proses
+tanya jawab secara langsung kepada
+pihak-pihak yang terkait langsung dengan
+kegiatan belajar ilmu tajwid.
+3. Studi Pustaka, pada metode ini dilakukan
+studi pustaka atau mencari referensi dari
+buku, jurnal atau literatur yang berkaitan
+dengan ilmu tajwid dan aplikasi ilmu tajwid.
+
+D. HASIL DAN PEMBAHASAN
+1. Tinjauan Kasus
+Tajwid menurut bahasa (ethimologi) adalah
+memperindah sesuatu. Sedangkan menurut
+istilah adalah mengeluarkan setiap huruf dari
+tempat
+keluarnya
+(mahrojnya)
+dengan
+memberi hak dan mustahaknya. Yang
+dimaksud dengan hak huruf adalah sifat asli
+yang selalu bersama dengan huruf tersebut,
+seperti al-jahr, isti'la, istifal, sedangkan
+mustahak huruf adalah sifat yang nampak
+sewaktu-waktu, seperti tafkhim, tarqiq, ikhfa.
+Secara garis besar ilmu tajwid adalah ilmu
+yang mengajarkan tentang bagaimana cara
+membaca Al Qur’an yang baik dan benar.
+Tujuan ilmu tajwid adalah memelihara bacaan
+Al Qur’an dari kesalahan dan perubahan serta
+memelihara lisan (mulut) dari kesalahan
+membaca.
+Agama
+Islam
+mengajarkan
+bahwa
+membaca Al-Qur’an merupakan salah satu
+ibadah. Baik dan benarnya bacaan Al-Qur’an
+merupakan salah satu syarat kesempurnaan
+ibadah shalat. Rasulullah SAW bersabda:
+“Orang yang membaca Al-Qur’an dengan
+mahir, kelak akan mendapat tempat di dalam
+surga bersama-sama dengan para Rasul yang
+mulia. Sedangkan orang yang membaca AlQur’an tetapi tidak mahir, membacanya
+tertegun-tegun dan tidak lancar, dia akan
+mendapatkan dua pahala”. (Riwayat Bukhori
+dan Muslim dari St. Aisyah ra.)
+Pada dasarnya sebagai umat muslim harus
+mengerti dan memahami arti pentingnya
+mempelajari ilmu tajwid Al Qur’an agar
+mengetahui tata cara membaca Al Qur’an
+dengan tartil, fasih, mengetahui bahwa suatu
+lafazh harus di baca panjang, mengetahui hakhak huruf dan sifat-sifatnya. Banyak umat
+muslim yang baru belajar Al Qur’an maupun
+ISSN: 2338 - 8161
+
+yang sudah mengajarkan Al Qur’an belum
+mengetahui tentang tata cara membaca Al
+Qur’an yang benar. Di masyarakat belajar ilmu
+tajwid hanya menggunakan buku sehingga
+belajar ilmu tajwid terkesan klasik dan sulit.
+Oleh sebab itu diperlukan inovasi dalam
+mempelajari ilmu tajwid.
+Proses pembelajaran agama sedikit demi
+sedikit sudah merambah kedalam penggunaan
+teknologi sebagai media penyampaian ilmu
+agama, sehingga paradigma mempelajari ilmu
+agama yang terkesan klasik dan sulit, saat ini
+menjadi lebih modern dan mudah karena
+hadirnya media baru yang dapat digunakan
+yaitu media teknologi berbasis android.
+Adanya program aplikasi ilmu tajwid
+berbasis android, tentunya akan memberikan
+dampak positif bagi kalangan pelajar maupun
+pengajar, sehingga deskripsi–deskripsi definisi
+aturan membaca Al Qur’an dapat dimengerti
+dengan jelas dan mudah, karena aplikasi yang
+berbasis android tentunya mudah untuk
+dibawa kemana saja dan digunakan dimana
+dan kapan saja serta sangat menarik perhatian
+disemua kalangan, terutama anak-anak
+karena dapat digunakan ketika bermain sambil
+belajar. Aplikasi ini juga dilengkapi dengan
+suara agar mempermudah pengguna dalam
+mempelajari ilmu tajwid secara mandiri.
+2. Spesifikasi Rancangan Program
+Berikut ini mengenai cara kerja aplikasi
+secara umum :
+a) Pada aplikasi ini terdapat 4 menu yaitu
+menu hukum bacaan dimana pada
+menu ini terdapat jenis-jenis hukum
+bacaan. Menu petunjuk, pada menu ini
+terdapat petunjuk penggunaan aplikasi
+ilmu tajwid. Menu quiz, pada menu ini
+pengguna dapat mengerjakan quiz yang
+tersedia. Dan menu keluar untuk keluar
+dari aplikasi.
+b) Pada menu hukum bacaan akan tampil
+jenis-jenis hukum bacaan seperti hukum
+bacaan nun mati, mim mati, mad,
+qalqalah dan waqaf.
+c) Pada menu quiz akan tampil soal dan
+pilihan jawaban,
+setelah
+memilih
+jawaban maka pengguna akan langsung
+mengetahui apakah jawabannya benar
+atau salah melalui pesan teks yang
+tampil setelah memilih jawaban.
+3. Spesifikasi Bentuk Masukan
+Adapun data yang dimasukan pengguna
+pada aplikasi ilmu tajwid adalah sebagai
+berikut:
+Nama Dokumen : Quizpertama.xml
+Fungsi
+: Untuk memilih jawaban dari
+soal yang ditampilkan
+94
+
+Jurnal Evolusi Volume 6 No 1 - 2018
+
+Sumber
+Media
+Bentuk
+
+: Pengguna
+: Handphone Android
+: Gambar 1
+
+Gambar 3. Bentuk keluaran ketika jawaban
+yang dipilih benar
+Gambar 1. Bentuk Masukan
+4. Spesifikasi Bentuk Keluaran
+Adapun data keluaran yang digunakan
+pada aplikasi ilmu tajwid adalah sebagai
+berikut:
+Nama Dokumen : Quizpertama.xml
+Fungsi
+: Untuk menampilkan hasil
+quiz berupa pesan teks. Apabila jawaban
+salah maka akan tampil pesan teks “Jawaban
+Anda Salah”, apabila jawaban benar maka
+akan tampil dialog “Selamat !!! Jawaban anda
+benar” dan juga tombol “ULANGI” untuk
+mengulangi pertanyaan, serta tombol “OKE”
+yang akan menampilkan pesan teks “Selamat”.
+Sumber
+: Pengguna
+Media
+: Handphone Android
+Bentuk
+: Gambar 2 dan Gambar 3
+
+Gambar 2. Bentuk keluaran ketika jawaban
+yang dipilih salah
+
+5. Spesifikasi File
+Pada aplikasi pembelajaran ilmu tajwid
+terdapat beberapa file. Penjelasan rinci
+mengenai file-file tersebut adalah sebagai
+berikut:
+a) Spesifikasi file menu utama
+Nama File
+: MainActivity
+Akronim
+: activity_main.xml
+Fungsi
+: Untuk menampung
+menu-menu lainnya
+Tipe File
+: File Master
+Software
+: Android Studio
+Tabel 1. Tabel Spesifikasi file MainActivity
+No.
+Objek
+Name
+Text
+1.
+LinerarLayou LinearL
+t
+ayout
+2.
+imageView25 imageVi ew25
+3.
+textView2
+textView Belajar Ilmu
+2
+Tajwid
+4.
+Button1
+hbacaan Hukum
+Bacaan
+5.
+Button2
+petunjuk Petunjuk
+6.
+Button3
+quiz
+Quiz
+7.
+Button4
+keluar
+Keluar
+b) Spesifikasi File Hukum Bacaan
+Nama File
+: HukumBacaan
+Akronim
+: hukum_bacaan.xml
+Fungsi
+: Untuk menampung
+menu-menu hukum bacaan
+Tipe File
+: File Master
+Software
+: Android Studio
+Tabel 2. Tabel Spesifikasi File Hukum Bacaan
+No.
+Objek
+Name
+Text
+1.
+LinearL
+LinearLay ayout
+out
+2.
+textView textView
+Hukum
+Bacaan
+3.
+Button1
+nunmati
+Nun
+Mati/Tanwin
+4.
+Button2
+mimmati
+Mim
+
+ISSN: 2338 - 8161
+
+95
+
+Jurnal Evolusi Volume 6 No 1 - 2018
+
+5.
+6.
+7.
+8.
+
+Button3
+Button4
+Button5
+Button6
+
+mad
+qalqalah
+waqaf
+kembali
+
+Mati/Tanwin
+Mad
+Qalqalah
+Waqaf
+Kembali
+
+6. HIPO
+
+c) Spesifikasi File Nun Mati/Tanwin
+Nama File
+: NunMati
+Akronim
+:
+activity_nun_mati.xml
+Fungsi
+: Untuk menampung
+menu-menu nun mati/tanwin
+Software
+: Android Studio
+
+Tabel 3. Spesifikasi File Nun Mati/Tanwin
+No.
+Objek
+Name
+Text
+1.
+LinearLayo LinearLay ut
+out
+2.
+textView4
+textView4 Nun
+Mati/Tanwi
+n
+3.
+imageView imageVie
+33
+w33
+4.
+Button1
+idzhar
+idzhar
+5.
+Button2
+idghom
+idghom
+6.
+Button3
+ikhfa
+ikhfa’
+7.
+Button4
+iqlab
+iqlab
+8.
+Button5
+kembali
+Kembali
+d) Spesifikasi File Mim Mati
+Nama File
+: MimMati
+Akronim
+:
+activity_mim_mati.xml
+Fungsi
+: Untuk menampung
+menu-menu mim mati
+Software
+: Android Studio
+
+No
+.
+1.
+
+Tabel 4. Spesifikasi File Mim Mati
+Objek
+Name
+Text
+
+2.
+3.
+
+LinearLayou
+t
+textView7
+Button1
+
+4.
+
+Button2
+
+5.
+
+Button3
+
+6.
+
+Button5
+
+LinearLay
+out
+textView7
+ikhfasyaf
+awi
+idghommi
+slain
+idzharsya
+fawi
+kembali
+
+Gambar 4. HIPO
+7. Spesifikasi Program
+Spesifikasi program aplikasi ilmu tajwid ini
+adalah sebagai berikut:
+a) Menu Opening
+Nama Program : SplashScreen.java
+Fungsi
+: Merupakan program
+pembuka aplikasi
+Bahasa Program : Java
+Bentuk Tampilan : Gambar 4
+Proses
+:
+Halaman
+yang
+pertama kali muncul ketika aplikasi
+dibuka,
+tampilan awal adalah judul
+aplikasi tersebut.
+
+MIM MATI
+ikhfa’
+syafawi
+idghom
+mislain
+Idzhar
+syafawi
+Kembali
+
+Gambar 5. Tampilan Splashscreen
+ISSN: 2338 - 8161
+
+96
+
+Jurnal Evolusi Volume 6 No 1 - 2018
+
+b) Menu Utama
+Nama Program : MainActivity.java
+Fungsi
+: Merupakan activity
+yang berisi bagian-bagian program yang
+lain.
+Bahasa Program : Java
+Bentuk Tampilan : Gambar 5
+Proses
+: Menu utama akan
+langsung berjalan ketika program dibuka
+oleh pengguna.
+
+Bentuk Tampilan : Gambar 7
+Proses
+: Jika menekan menu
+“Quiz” maka akan ditampilkan soal atau
+quiz berupa soal pilihan ganda.
+
+Gambar 8. Quiz
+
+Gambar 6. Tampilan Menu Utama
+c) Menu Petunjuk
+Nama Program : Petunjuk.java
+Fungsi
+: Untuk menampilkan
+informasi petunjuk penggunaan aplikasi.
+Bahasa Program : Java
+Bentuk Tampilan : Gambar 6
+Proses
+: Jika menekan menu
+“Petunjuk” maka akan menuju halaman
+informasi petunjuk.
+
+e) Menu Nun Mati/tanwin
+Nama Program : NunMati.java
+Fungsi
+: Merupakan activity
+yang berisi menu-menu hukum bacaan
+nun mati/tanwin.
+Bahasa Program : Java
+Bentuk Tampilan : Gambar 8.
+Proses
+: Jika menekan menu
+“Nun Mati” maka akan ditampilkan
+menu-menu hukum bacaan nun mati
+yaitu idzhar, idghom, ikhfa’, iqlab serta
+tombol kembali untuk kembali ke menu
+hukum bacaan.
+
+Gambar 7. Petunjuk
+d) Menu Quiz
+Nama Program : Quizpertama.java
+Fungsi
+: Merupakan petunjuk
+penggunaan aplikasi.
+Bahasa Program : Java
+ISSN: 2338 - 8161
+
+Gambar 9. Nun Mati/Tanwin
+f) Menu Idzhar
+Nama Program
+
+: Idzhar.java
+
+97
+
+Jurnal Evolusi Volume 6 No 1 - 2018
+
+Fungsi
+: Merupakan activity
+yang menampilkan isi tentang idzhar.
+Bahasa Program : Java
+Bentuk Tampilan : Gambar 9
+Proses
+: Jika menekan menu
+“Idzhar” maka akan ditampilkan uraian
+tentang idzhar beserta contoh gambar
+dan suara.
+
+Gambar 11. Ikhfa
+8. Flowchart
+a) Flowchart Menu Utama
+
+Gambar 10. Idzhar
+g) Menu Ikhfa
+Nama Program : Ikhfa.java
+Fungsi
+: Merupakan activity
+yang menampilkan isi tentang ikhfa.
+Bahasa Program : Java
+Bentuk Tampilan : Gambar 10
+Proses
+: Jika menekan menu
+“Ikhfa” maka akan ditampilkan uraian
+tentang ikhfa beserta contoh gambar
+dan suara.
+
+Gambar 12. Flowchart Menu Utama
+Pada flowchart ini menggambarkan alur
+proses yang ada pada menu utama.
+Menu utama terdiri dari tombol hukum
+bacaan, petunjuk, quiz dan keluar. Jika
+dipilih tombol hukum bacaan maka akan
+tampil menu hukum bacaan yang terdiri
+dari nun mati/tanwin, mim mati, mad,
+qalqalah, waqaf dan tombol kembali.
+Jika yang dipilih menu petunjuk maka
+akan tampil petunjuk penggunaan
+
+ISSN: 2338 - 8161
+
+98
+
+Jurnal Evolusi Volume 6 No 1 - 2018
+
+aplikasi. Selanjutnya menu quiz berisi
+soal latihan sebagai evaluasi belajar,
+serta tombol keluar untuk keluar dari
+aplikasi.
+
+Flowchart quiz menggambarkan alur
+yang ada pada menu quiz. Jika dipilih
+menu quiz maka akan tampil soal dan
+terdapat 4 jawaban. Apabila salah satu
+jawaban telah dipilih maka akan tampil
+hasil jawaban.
+
+b) Flowchart Nun Mati/Tanwin
+
+Gambar 13. Flowchart Menu Nun Mati/Tanwin
+Flowchart ini menggambarkan alur
+proses yang ada pada menu nun
+mati/tanwin. Pada menu nun mati/tanwin
+terdapat jenis bacaan nun mati/tanwin
+yaitu bacaan idzhar, idghom, ikhfa’,
+iqlab dan tombol kembali.
+c) Flowchart Menu Quiz
+
+E. KESIMPULAN DAN SARAN
+1. Kesimpulan
+Berdasarkan pembahasan dan hasil yang
+diperoleh, maka dapat disimpulkan sebagai
+berikut:
+a) Aplikasi pembelajaran ilmu tajwid
+berbasis android dapat digunakan oleh
+umat Islam sebagai salah satu alternatif
+pembelajaran
+ilmu
+tajwid
+secara
+mandiri.
+b) Dengan adanya aplikasi pembelajaran
+ilmu tajwid yang dilengkapi dengan
+contoh gambar dan suara, serta kuis
+untuk menguji kemampuan, pengguna
+diharapkan
+dapat
+memaksimalkan
+aplikasi mobile ini sebagai media
+pembelajaran ilmu tajwid yang mudah
+digunakan dan mudah dipahami.
+c) Aplikasi ilmu tajwid dapat dijalankan
+melalui smartphone dengan sistem
+operasi android.
+d) Aplikasi ilmu tajwid dibuat menggunakan
+bahasa
+pemograman
+java
+dan
+dirancang dengan tampilan yang mudah
+dimengerti.
+2. Saran
+Aplikasi pembelajaran ilmu tajwid berbasis
+android yang telah dibuat masih kurang
+sempurna dan masih banyak kekurangan.
+Oleh
+karena
+itu
+aplikasi
+ini
+perlu
+dikembangkan dan disempurnakan lebih
+lanjut. Adapun saran agar aplikasi ini lebih
+menarik sebagai berikut:
+a) Aplikasi
+ilmu
+tajwid
+ini
+dapaat
+dikembangkan ke versi yang lebih baik
+sesuai dengan kemajuan ilmu teknologi.
+b) Untuk menyempurnakan aplikasi ilmu
+tajwid
+dapat
+dilakukan
+dengan
+pembaharuan dan penambahan materi
+yang lebih mendalam serta soal latihan
+tentang ilmu tajwid.
+DAFTAR PUSTAKA
+[1]
+
+Gambar 14. Flowchart Menu Quiz
+
+ISSN: 2338 - 8161
+
+Herdi, Hafizh. 2014. Belajar Membuat
+Aplikasi Menggunakan Android Studio.
+Diambil
+dari:
+https://www.twoh.co/2014/09/28/belajarmembuat-aplikasi-android-menggunakanandroid-studio/ (17 Mei 2017)
+
+99
+
+Jurnal Evolusi Volume 6 No 1 - 2018
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+Hermawan, Stephanus. 2011. Mudah
+Membuat Aplikasi Android.Yogyakarta:
+CV. Andi Offset.
+Praptiningsih. Yulia Eka. 2012. Aplikasi
+Penyewaan Ruangan PT. Simaeru
+Indonesia Raya Dengan Visual Basic 6.0.
+Depok: Universitas Gunadarma, UG
+Jurnal Vol. 6 No. 01, 2012.
+Rizky, Soetam. 2011. Konsep Dasar
+Rekayasa Perangkat Lunak. Jakarta:
+Prestasi Pustaka.
+S. Sagala. 2009. Konsep dan Makna
+Pembelajaran,
+Bandung
+:
+CV.
+ALFABETA.
+Safaat, Nazaruddin. 2014. Pemrograman
+Aplikasi Mobile Smartphone dan Tablet
+PC
+Berbasis
+Android.
+Bandung:
+Informatika.
+Sitorus, Lamhot. 2015. Algoritma dan
+Pemrograman. Yogyakarta: CV. Andi
+Offset.
+Utomo, Eko Priyo. 2013. Cara Cepat dan
+Mudah Belajar Java SE7. Yogyakarta:
+CV. Andi Offset.
+
+ISSN: 2338 - 8161
+
+100
+
+

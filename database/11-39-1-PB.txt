@@ -1,0 +1,441 @@
+1
+
+APLIKASI PEMBELAJARAN TES POTENSI AKADEMIK
+BERBASIS ANDROID
+Ndaru Adi Pratama1 , Catur Hermawan, S.Kom. 2
+Darwan Ali Sampit, 2 Dosen Universitas Darwan Ali Sampit
+Jurusan Sistem Informasi, Fakultas Ilmu Komputer
+Universitas Darwan Ali Sampit, 74322
+
+1 Mahasiswa Universitas
+
+Intisari — Tes Potensi Akademik (TPA) adalah
+sebuah tes yang bertujuan untuk mengetahui bakat dan
+kemampuan seseorang di bidang keilmuan (akademis). Tes ini
+juga sering dihubungkan dengan kecerdasan seseorang. Tes
+Potensi Akademik (TPA) telah menjadi tes standar penyaringan
+Calon Pegawai Negeri Sipil (CPNS), rekrutmen karyawan
+swasta, serta karyawan BUMN. Bahkan kenaikan jabatan
+setingkat
+manajer
+di
+berbagai
+perusahaan
+juga
+mempersyaratkan karyawannya mencapai TPA dengan skor
+minimum tertentu. Tes Potensi Akademik juga umum dipakai
+sebagai tes penerimaan mahasiswa untuk jenjang S1, S2 dan S3.
+Metode penelitian yang akan diterapkan dalam
+penelitian ini yaitu metode pengumpulan data dan metode studi
+kepustakaan. Metode penelitian merupakan faktor pendukung
+yang digunakan dalam penelitian dengan cara melakukan
+pengumpulan berbagai data dari sumber terkait dengan
+pemecahan masalah yang dihadapi dalam penelitan ters ebut.
+Pada penelitian
+ini dikembangkan
+aplikasi
+pembelajaran tes potensi akademik dengan proses perancangan
+menggunakan diagram blok dan diagram flowchart, dan tools
+yang digunakan dalam pengembangan adalah Eclipse, Android
+Developer Tools (ADT) dan Android SDK. Sistem operasi
+Android yang open source dapat dimanfaatkan dalam
+pengembangan sebuah aplikasi, yang dalam hal ini digunakan
+untuk membuat sebuah aplikasi pembelajaran tes potensi
+akademik yang mampu membantu penggunauntuk mengetahui
+kemampuan yang dimilikinya.
+Kata kunci : pembelajaran, android, tes potensi akademik .
+.
+
+I. PENDAHULUAN
+Perkembangan teknologi semakin pesat dan cepat,
+khususnya teknologi informasi dan komunikasi. Hal ini
+membuat manusia bagaikan tak terpisah oleh jarak ruang dan
+waktu. Dengan perkembangan teknologi yang kian maju ,
+manusia dapat membuat berbagai macam peralatan sebagai alat
+bantu dalam menjalankan berbagai aktivitas untuk mendukung
+produktivitas
+Ilmu pengetahuan dan teknologi juga berkembang
+dengan pesat, perangkat smartphone telah mendominas i
+kehidupan sehari-hari manusia dengan berbagai macam
+fasilitas yang di sediakan. Android salah satu sistem operasi
+yang banyak digunakan diperangkat smartphone. Android
+adalah sebuah sistem operasi untuk perangkat mobile berbasis
+linux yang mencakup sistem operasi, middleware dan aplikasi.
+Sejak dibeli oleh Google, Android mengalami pertumbuhan
+yang sangat cepat.
+
+Ndaru Adi Pratama: APLIKASI PEMBELAJARAN TES ....
+
+Tes Potensi Akademik (TPA) adalah sebuah tes yang
+bertujuan untuk mengetahui bakat dan kemampuan seseorang
+di bidang keilmuan (akademis). Tes ini juga sering
+dihubungkan dengan kecerdasan seseorang. Tes Potensi
+Akademik (TPA) telah menjadi tes standar penyaringan Calon
+Pegawai Negeri Sipil (CPNS), rekrutmen karyawan swasta,
+serta karyawan BUMN. Bahkan kenaikan jabatan setingkat
+manajer di berbagai perusahaan juga mempersyaratkan
+karyawannya mencapai TPA dengan skor minimum tertentu.
+Tes Potensi Akademik juga umum dipakai sebagai tes
+penerimaan mahasiswa untuk jenjang S1, S2 dan S3.
+Penerimaan mahasiswa baru merupakan peristiwa
+yang penting bagi hampir seluruh Perguruan Tinggi. Peristiwa
+yang berulang tiap tahun ini dapat dikatakan sebagai titik awal
+proses pencarian sumber daya yang berkualitas, yaitu calon
+mahasiswa. Dengan menerima calon mahasiswa yang
+berkompeten maka akan dapat menunjang mutu dan kualitas
+Perguruan Tinggi itu sendiri.
+Sebelum diterimanya sebagai mahasiswa baru
+terkadang dilakukan sebuah tes. Tes merupakan syarat yang
+bertujuan untuk mengukur kemampuan dasar yang dapat
+memprediksi keberhasilan calon mahasiswa di semua program
+studi, yakni kemampuan penalaran tingkat tinggi (higher order
+thinking). Tes yang biasanya diberikan kepada calon
+mahasiswa baru berupa tes tertulis.
+Calon mahasiswa baru terkadang tidak mengetahui
+tentang jenis soal apa yang akan diberikan oleh pihak panitia
+penerimaan mahasiswa baru. Soal-soal yang diberikan bisa
+berupa mata pelajaran umum sekolah menengah seperti
+Matematika, Bahasa Indonesia, Bahasa Inggris dan lain–lain
+atau bisa juga soal–soal tes potensi akademik. Dan terkadang
+calon mahasiswa baru belum mengetahui tentang tes potensi
+akademik tersebut.
+Salah satu aplikasi dalam pendidikan adalah
+pemanfaatannya untuk pembuatan media pembelajaran. Saat
+ini dalam dunia pendidikan sehubungan dengan pemanfaatan
+media pembelajaran adalah dengan menggunakan berbagai
+media, media yang digunakan yaitu grafis, animasi dan lain
+sebagainya. Maka dari itu diangkatlah sebuah judul “Aplikasi
+Pembelajaran Tes Potensi Akademik Berbasis Android” agar
+dapat digunakan oleh calon-calon mahasiswa baru untuk
+media pembelajaran dan bekal pengetahuan sebelum
+mengikuti tes yang bisa berupa soal-soal tes potensi
+akademik.
+.
+II. LANDASAN TEORI
+2.1 TINJAUAN UMUM
+
+2.1.1 Perngertian Aplikasi
+
+ISSN 2301 - 4156
+
+2
+Aplikasi adalah penggunaan atau penerapan
+suatu konsep yang menjadi pokok pembahasan.
+Aplikasi dapat diartikan juga sebagai program
+komputer yang dibuat untuk menolong manusia
+dalam melaksanakan tugas tertentu. [1]
+
+JNTETI, Vol. nn, No. nn, Bulan20nn
+
+2.1.6
+
+Pengertian DVM
+
+Dalvik Virtual Machine (DVM) adalah
+“register bases” sementara Java Virtual Machine
+(JVM) adalah “stack based”, DVM didesain dan
+ditulis oleh Dan Bornsten dan beberapa engineers
+2.1.2 Pengertian Pembelajaran
+Kamus Besar Bahasa Indonesia (2007 : 17) Google lainnya. Jadi, bisa kita katakan “Dalvik
+mendefinisikan kata pembelajaran berasal dari kata equals(Java) == False”. [4]
+ajar yang berarti petunjuk yang diberikan kepada
+orang supaya diketahui atau diturut, sedangkan 2.1.7 Pengertian Android SDK
+Android SDK adalah tools API (Application
+pembelajaran
+berarti proses,cara, pembuatan
+Programming Interface) yang diperlukan untuk
+menjadikan orang atau makhluk hidup belajar. [2]
+mulai mengembangkan aplikasi pada platform
+Android menggunakan bahasa pemrograman Java.
+2.1.3 Pengertian Tes Potensi Akademik
+Tes Potensi Akademik (TPA) adalah sebuah [4]
+tes yang bertujuan untuk mengetahui bakat dan
+kemampuan
+seseorang di bidang keilmua n
+(akademis). Tes ini juga sering dihubungkan dengan
+kecerdasan seseorang. Tes Potensi Akademik ini
+juga identik dengan tes GRE (Graduate Record
+Examination) yang sudah menjadi standar
+internasional.
+Dalam tes verbal ini kemampuan dan
+kecakapan
+berbahasa
+baik
+penguasaan
+perbendaharaan
+kata, tata bahasa, maupun
+kemampuan memahami teks dari peserta tes diuji
+dengan beragam tes. Tes kuantitatif ditujukan untuk
+mengukur kemampuan mencerna, menganalisis, dan
+menarik kesimpulan serta mengukur tingkat
+kecerdasan, kecermatan,
+sekaligus
+ketelitia n
+seseorang, dalam memandang permasalahan secara
+terpadu (terintegrasi), sistematis, dan menyelur uh
+dari berbagai arah/sudut/segi/sisi. [3]
+2.1.4
+
+Pengertian Android
+Android adalah sebuah sistem operasi untuk
+perangkat mobile berbasis linux yang mencakup
+sistem operasi, middleware dan aplikasi. Android
+menyediakan
+platform
+terbuka
+bagi para
+pengembang untuk menciptakan aplikasi mereka. [4]
+2.1.5
+
+Pengertian ADT
+ADT ( Android Development Tools ) adalah
+plugin yang didesain untuk IDE Eclipse yang
+memberikan
+kita
+kemudahan
+dalam
+mengembangkan
+aplikasi
+android
+dengan
+menggunakan IDE Eclipse [4]
+
+Ndaru Adi Pratama: APLIKASI PEMBELAJARAN TES ....
+
+2.1.8
+
+Pengertian Java
+Java adalah bahasa pemrograman yang dapat
+dijalankan di berbagai komputer termasuk telepon
+genggam. Bahasa ini awalnya dibuat oleh James
+Gosling saat masih bergabung di Sun Microsiste ms
+saat ini merupakan bagian dari Oracle dan dirilis
+tahun 1995. [5]
+2.1.9
+
+Pengertian Diagram Blok
+Diagram blok adalah representasi bergambar
+singkatan dari hubungan sebab dan akibat antara
+input dan output dari sistem fisik. Blok diagram
+sama-sama berguna dalam ilmu manajeme n,
+peradilan pidana dan ekonomi untuk pemodelan dan
+analisis sistem. [6]
+2.1.10 Pengertian Flowchart/Bagan Alir
+Bagan alir (flowchart) adalah bagan (chart)
+yang menunjukan hasil (flow) didalam program atau
+prosedur sistem secara logika. Bagan alir digunaka n
+terutama untuk alat bantu komunikasi dan untuk
+dokumentasi. [7]
+2.1.11 Pengertian Sampling Random
+Sampling ialah cara mengumpulkan data
+dengan jalan mencatat atau meneliti sebagian kecil
+saja dari seluruh elemen yang menjadi objek
+penelitian. Dengan kata lain, sampling adalah cara
+mengumpulkan data dengan mencatat atau meneliti
+sampelnya saja. [8]
+
+ISSN 2301 - 4156
+
+3
+2.2.
+2.2.1
+
+Tinjauan Singkat Software
+Pengertian Eclipse
+Eclipse adalah sebuah IDE (Integrated
+Development Environment) untuk mengembangka n
+perangkat lunak dan dapat dijalankan di semua
+platform (platform-independent). Berikut ini adalah
+sifat dari Eclipse:
+a. Multi-platform: Target sistem operasi Eclipse
+adalah Microsoft Windows, Linux, Solaris,
+AIX, HP-UX dan Mac OS X.
+b. Mulit-language: Eclipse dikembangka n
+dengan bahasa pemrograman Java, akan
+tetapi Eclipse mendukung pengembanga n
+aplikasi berbasis bahasa pemrograma n
+lainnya, seperti C/C++, Cobol, Python, Perl,
+PHP, dan lain sebagainya.
+c. Multi-role: Selain sebagai IDE untuk
+pengembangan aplikasi, Eclipse pun bisa
+digunakan untuk aktivitas dalam siklus
+pengembangan perangkat lunak, seperti
+dokumentasi,
+test
+perangkat
+lunak,
+pengembangan web, dan lain sebagainya. [9]
+
+berjalan. Untuk mengatasi kelemahan dan kekurangan tersebut,
+maka sistem yang ada harus dirombak ulang dan dibuat sebuah
+rancangan sistem yang baru
+
+3.3
+
+Blok Diagram
+Blok diagram dalam Aplikasi Pembelajaran
+Tes Potensi Akademik Berbasis Android :
+
+3.4
+
+Flowchart
+Flowchart dalam Aplikasi Pembelajaran Tes
+
+Potensi Akademik Berbasis Android:
+
+2.2.2
+
+Pengertian Adobe Photoshop
+Photoshop merupakan aplikasi pengolah
+grafik yang mampu bekerja pada dua tipe grafik
+yaitu bitmap dan vektor. Hal ini merupakan
+keunggulan dari aplikasi photoshop karena akan
+memudahkan pengguna dalam membuat, menged it,
+serta mengimpor desain ini. [10]
+2.2.3
+
+Pengertian SQLite
+SQLite adalah paket perangkat lunak publicdomain yang menyediakan sistem manajeme n
+database relasional, atau RDBMS. Sistem database
+relasional yang digunakan untuk menyimpan catatan
+yang ditetapkan pengguna dalam tabel besar. [11]
+III. ANALISIS DAN DESAIN SISTEM
+3.1
+
+Analisis Sistem
+Analisa suatu sistem bertujuan untuk mengetahui
+bagaimana sistem tersebut berjalan. Dengan demikian, dapat
+diketahui dari segi kekurangan maupun kelemahan sebuah
+sistem yang ada didalamnya.
+3.2
+
+Desain Sistem yang diusulkan
+Dari analisis dan deskripsi system diatas telah diketahui
+beberapa kelemahan dan kekurangan pada sistem yang sedang
+
+Ndaru Adi Pratama: APLIKASI PEMBELAJARAN TES ....
+
+ISSN 2301 - 4156
+
+4
+
+3.4 Desain Masukan Dan Keluaran
+Tampilan antar-muka (interface) yang berfungsi sebagai
+media masukan (input) data dan media keluaran (output) hasil
+pengolahan data dalam program aplikasi dirancang dalam
+beberapa bentuk.
+a. Perancangan Antar Muka Halaman Utama
+
+Ndaru Adi Pratama: APLIKASI PEMBELAJARAN TES ....
+
+JNTETI, Vol. nn, No. nn, Bulan20nn
+
+b.
+
+Perancangan Antar Muka Halaman Kategori
+
+c.
+
+Perancangan Antar Muka Halaman Soal
+
+d.
+
+Perancangan Antar Muka Nilai Hasil
+
+ISSN 2301 - 4156
+
+5
+
+IV. IMPLEMENTASI
+
+4. Tampilan Nilai Hasil
+
+1. Tampilan Menu Utama
+
+V. KESIMPULAN
+
+2. Tampilan Pilih Kategori
+
+Simpulan yang dapat diperoleh dari penelitian ini
+adalah sebagai berikut :
+a.
+Aplikasi Pembelajaran Tes Potensi Akademik ini
+dibuat dengan aplikasi android agar dapat
+mempermudah calon mahasiswa baru untuk memilik i
+bekal pengetahuan sebelum mengikuti tes penerimaan
+mahasiswa baru tanpa belajar dalam bentuk buku.
+b.
+Sistem operasi Android yang open source dapat
+dimanfaatkan dalam pengembangan sebuah aplikasi,
+yaitu aplikasi pembelajaran tes potensi akademik yang
+dalam hal ini digunakan untuk membantu para
+pengguna untuk mengetahui potensi akademik yang
+dimilikinya masing-masing.
+c.
+Aplikasi ini menjadi pembelajaran tes potensi
+akademik jenis verbal yang didalamnya terdapat
+empat kategori yaitu, padanan kata, lawan kata,
+persamaan kata dan pengelompokan kata.
+
+3. Tampilan Soal
+
+Ndaru Adi Pratama: APLIKASI PEMBELAJARAN TES ....
+
+ISSN 2301 - 4156
+
+6
+
+JNTETI, Vol. nn, No. nn, Bulan20nn
+REFERENSI
+
+[1] E. Noviansyah, Aplikasi Website Museum
+Nasional Menggunakan Macromedia
+Dreamweaver MX, Jakarta: STIK, 2008.
+[2] M. Thobroni dan A. Mustofa, Belajar &
+Pembelajaran : Pengembangan Wacana Dan
+Praktik Pembelajaran dalam Pembengunan
+Nasional, Jogjakarta: Ar-Ruzz Media, 2011.
+[3] D. S. Prasetyono, “Top Secret Lulus TPA
+untuk S1, S2 dan Sekolah ke Luar Negeri,”
+Yogyakarta, Saufa, 2015.
+[4] N. S. H, Pemrograman Aplikasi Mobile
+Smartphone dan Tablet PC Berbasis Android,
+( Edisi Revisi ) penyunt., Bandung:
+Informatika, 2012.
+[5] B. Raharjo, I. Heryanto dan A. Haryono,
+Mudah Belajar Java, Informatika, Penyunt.,
+Bandung, 2010.
+[6] S. Iqbal, S. Aftab, M. M. Gulzar dan G.
+Abbas, “New Horizons,” Concept Building
+through Block Diagram Using
+Matlab/Simulink, vol. VIII, no. 30, pp. 66-67,
+2010.
+[7] J. Hartono, Analisis Dan Desain, Edisi Ke-III
+penyunt., Yogyakarta: Andi, 2005.
+[8] A. Sudijono, Pengantar Statistika Pendidikan,
+Jakarta: PT. RajaGrafindo Persada, 2009.
+[9] N. S. H, Pemrograman Aplikasi Mobile
+Smartphone dan Tablet PC, Bandung:
+Informatika, 2012.
+[10] H. Komputer, Adobe Photoshop CS5 untuk
+Manipulasi Foto Profesional, Yogyakarta:
+Andi , 2011.
+[11] J. A. Kreibich, Using SQLite, United States of
+America: O’Reilly Media, Inc., 2010.
+[12] H. Subiyakto, Statistika ( Inferen ) Untuk
+Bisnis, Yogyakarta: Bagian Penertiban
+Sekolah Tinggi Ilmu Ekonomi YKPN, 1995.
+[13] E. Siregar dan H. Nara, Teori Dan
+Pembelajaran, Bogor: Ghalia Indonesia, 2011.
+
+Ndaru Adi Pratama: APLIKASI PEMBELAJARAN TES ....
+
+[14] S. Mulyadi, “Membuat Aplikasi Untuk
+Android,” Yogyakarta, Multimedia Center
+Publishing, 2010.
+[15] Z. Arifin, Evaluasi Pembelajaran, Bandung:
+PT. Remaja Rosdakarya, 2012.
+
+ISSN 2301 - 4156
+
+

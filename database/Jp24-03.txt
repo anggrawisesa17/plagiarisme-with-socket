@@ -1,0 +1,1908 @@
+Jurnal Pengurusan 24(2004) 47-77
+
+Relationship between Macroeconomic Variables
+and Stock Market Indices: Cointegration
+Evidence from Stock Exchange of
+Singapore’s All-S Sector Indices
+Ramin Cooper Maysami
+Lee Chuin Howe
+Mohamad Atkin Hamzah
+ABSTRACT
+
+The relationship between macroeconomic variables and stock market returns
+is, by now, well-documented in the literature. However, a void in the literature
+relates to examining the cointegration between macroeconomic variables and
+stock market’s sector indices rather than the composite index. Thus in this
+paper we examine the long-term equilibrium relationships between selected
+macroeconomic variables and the Singapore stock market index (STI), as well
+as with various Singapore Exchange Sector indices—the ﬁnance index, the
+property index, and the hotel index. The study concludes that the Singapore’s
+stock market and the property index form cointegrating relationship with
+changes in the short and long-term interest rates, industrial production,
+price levels, exchange rate and money supply. Implications of the study and
+suggestions for future research are provided.
+ABSTRAK
+
+Hubungan antara pembolehubah makroekonomi dengan pulangan pasaran
+saham, sehingga kini, sudah banyak dihasilkan dalam karya lepas.
+Bagaimanapun, masih terdapat kekosongan dalam literatur ini mengenai
+hubungan kointegrasi antara pembolehubah ekonomi makro dengan
+indeks sektoral dalam pasaran saham berbanding kajian berkatian dengan
+indeks komposit. Justeru itu, dalam kertas ini, kami mengkaji hubungan
+keseimbangan jangka panjang antara beberapa pembolehubah ekonomi
+makro yang terpilih, dengan indeks pasaran saham Singapura (STI) serta
+beberapa indeks sektoral – indeks kewangan, indeks hartanah, dan indeks
+perhotelan. Kajian ini mendapati bahawa pasaran saham Singapura dan
+indeks hartanah menunjukkan hubungan kointegrasi dengan perubahan kadar
+bunga jangka pendek dan jangka panjang juga dengan pengeluaran industri,
+paras harga, kadar tukaran mata wang dan penawaran wang. Implikasi
+kajian dan cadangan kajian untuk masa depan dikemukakan.
+
+48
+
+Jurnal Pengurusan 24
+
+INTRODUCTION
+An efﬁcient capital market is one in which security prices adjust rapidly to
+the arrival of new information and, therefore, the current prices of securities
+reﬂect all information about the security. What this means, in simple terms,
+is that no investor should be able to employ readily available information
+in order to predict stock price movements quickly enough so as to make a
+proﬁt through trading shares.
+Championed by Fama (1970), the efﬁcient market hypothesis (EMH), in
+particular semi-strong form efﬁciency, which states that stock prices must
+contain all relevant information including publicly available information,
+has important implications for policy-makers and the stock-broking industry
+alike.
+Policy makers, for example, should feel free to conduct national
+macroeconomic policies without the fear of inﬂuencing capital formation
+and the stock trade process. Moreover, economic theory suggests that stock
+prices should reﬂect expectations about future corporate performance, and
+corporate proﬁts generally reﬂect the level of economic activities. If stock
+prices accurately reﬂect the underlying fundamentals, then the stock prices
+should be employed as leading indicators of future economic activities,
+and not the other way around. Therefore, the causal relations and dynamic
+interactions among macroeconomic variables and stock prices are important
+in the formulation of the nation’s macroeconomic policy.
+As for the effect of macroeconomic variables such as money supply and
+interest rate on stock prices, the efﬁcient market hypothesis suggests that
+competition among the proﬁt-maximizing investors in an efﬁcient market
+will ensure that all the relevant information currently known about changes
+in macroeconomic variables are fully reﬂected in current stock prices, so
+that investors will not be able to earn abnormal proﬁt through prediction of
+the future stock market movements (Chong and Koh 2003).
+Therefore, since investment advisors would not be able to help investors
+earn above-average returns consistently, except through access to and
+employing insider information, a practice generally prohibited and punishable
+by law, there should be no stock broking industry, if one were to believe
+the conclusions of the EMH.
+In direct contradiction to the conclusions drawn by the EMH, evidence
+that key macroeconomic variables help predict the time series of stock returns
+has accumulated for nearly 30 years. The assault on the conclusions drawn
+from the EMH includes early studies by Fama and Schwert (1977), Nelson
+(1977), and Jaffe and Mandelker (1976), all afﬁrming that macroeconomic
+variables inﬂuence stock returns.
+Concentrating primarily on the US stock exchanges, such early studies
+attempted to capture the effects of economic forces in a theoretical framework
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+49
+
+based on the Arbitrage Pricing Theory (APT) developed by Ross (1976). The
+APT essentially seeks to measure the risk premia attached to various factors
+that inﬂuence the returns on assets, whether they are signiﬁcant, and whether
+they are “priced” into stock market returns. Accordingly, Chen, Roll and Ross
+(1986), having ﬁrst illustrated that economic forces affect discount rates, the
+ability of ﬁrms to generate cash ﬂows, and future dividend payouts, provided
+the basis for the belief that a long-term equilibrium existed between stock
+prices and macroeconomic variables.
+More recently, Granger (1986) and Johansen and Juselius (1990) proposed
+to determine the existence of long-term equilibrium among selected variables
+through cointegration analysis, paving the way for a (by now) preferred
+approach to examining the economic variables-stock markets relationship.
+A set of time-series variables are cointegrated if they are integrated of the
+same order and a linear combination of them is stationary. Such linear
+combinations would then point to the existence of a long-term relationship
+between the variables. An advantage of cointegration analysis is that through
+building an error-correction model (ECM), the dynamic co-movement among
+variables and the adjustment process toward long-term equilibrium can be
+examined.
+Employing this methodology, there has been a growing literature showing
+strong inﬂuence of macroeconomic variables and stock markets, mostly for
+industrialized countries (see, for example, Hondroyiannis and Papapetrou,
+2001; Muradoglu et al. 2001; Fiﬁeld et al. 2000; Lovatt and Ashok 2000;
+and Nasseh and Strauss 2000). Additionally, researchers have begun to turn
+their attention to examining similar relationships in developing countries,
+particularly those in the growth engines of Asia (for example, Maysami and
+Sims 2002, Maysami and Koh 2000).
+The majority, if not all, of such studies have examined the inﬂuence of
+the macroeconomic variables on the composite stock indices of the markets
+under study. A void in the literature, thus, relates to examining the cointegration
+between macroeconomic variables and stock market’s sector indices rather
+than the composite index. This paper aims to complement the literature in
+this area.
+Applying Johansen’s (1990) VECM, the study examines the long-term
+equilibrium relationships between selected macroeconomic variables and (1)
+the Stock Exchange of Singapore (SES) All-S Equities Finance Index, (2)
+the SES All-S Equities Property Index, and (3) the SES All-S Equities Hotel
+Index. Additionally, the study extends Maysami and Koh’s (2000) enquiry
+of the cointegrating relationship between macroeconomic variables and the
+SES All-S Equities Index, by incorporating the effects of market volatility
+during the seven-year period between February 1995 and December 2001.
+The paper begins with a thorough introduction to the literature and
+establishes the theoretical and empirical justiﬁcation for modeling the stock
+
+50
+
+Jurnal Pengurusan 24
+
+market and sector indices using macroeconomic variables. The Johansen’s
+(1990) vector error correction model (VECM) and its estimation procedures
+are discussed next, along with an explanation of macroeconomic variables
+employed in the study. The last section will report and discusses the
+results.
+LITERATURE REVIEW
+Emerging stock markets have been identiﬁed as being at least partially
+segmented from global capital markets. As a consequence, it has been argued
+that local risk factors rather than world risk factors are the primary source
+of equity return variation in these markets. Accordingly, Bilson, Brailsford,
+and Hooper (1999) aimed to address the question of whether macroeconomic
+variables may proxy for local risk sources. They found moderate evidence
+to support this hypothesis.
+Further, they investigated the degree of commonality in exposures across
+emerging stock market returns using a principal components approach, and
+found little evidence of commonality when emerging markets are considered
+collectively. At the regional level, however, considerable commonality was
+shown to exist.
+Maysami and Sims (2002, 2001a, 2001b) employed the Error-Correction
+Modelling technique to examine the relationship between macroeconomic
+variables and stock returns in Hong Kong and Singapore (Maysami and Sim,
+2002b), Malaysia and Thailand (Maysami and Sim 2001a), and Japan and
+Korea (Maysami and Sim 2001b).
+Through the employment of Hendry’s (1986) approach which allows
+making inferences to the short-run relationship between macroeconomic
+variables as well as the long-run adjustment to equilibrium, they analysed
+the inﬂuence of interest rate, inﬂation, money supply, exchange rate and real
+activity, along with a dummy variable to capture the impact of the 1997
+Asian ﬁnancial crisis. The results conﬁrmed the inﬂuence of macroeconomic
+variables on the stock market indices in each of the six countries under study,
+though the type and magnitude of the associations differed depending on the
+country’s ﬁnancial structure.
+Islam (2003) replicated the above studies to examine the short-run
+dynamic adjustment and the long-run equilibrium relationships between four
+macroeconomic variables (interest rate, inﬂation rate, exchange rate, and
+the industrial productivity) and the Kuala Lumpur Stock Exchange (KLSE)
+Composite Index. His conclusions were similar: there existed statistically
+signiﬁcant short-run (dynamic) and long-run (equilibrium) relationships among
+the macroeconomic variables and the KLSE stock returns.
+Ibrahim (1999) also investigated the dynamic interactions between
+the KLSE Composite Index, and seven macroeconomic variables (industrial
+production index, money supply M1 and M2, consumer price index, foreign
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+51
+
+reserves, credit aggregates and exchange rate). Observing that macroeconomic
+variables led the Malaysian stock indices, he concluded that Malaysian stock
+market was informationally inefﬁcient.
+Chong and Koh’s (2003) results were similar: they showed that stock
+prices, economic activities, real interest rates and real money balances in
+Malaysia were linked in the long run both in the pre- and post capital control
+sub periods.
+Mukherjee and Naka (1995) applied Johansen’s (1998) VECM to analyze
+the relationship between the Japanese Stock Market and exchange rate,
+inﬂation, money supply, real economic activity, long-term government bond
+rate, and call money rate. They concluded that a cointegrating relation indeed
+existed and that stock prices contributed to this relation. Maysami and Koh
+(2000) examined such relationships in Singapore. They found that inﬂation,
+money supply growth, changes in short- and long-term interest rate and
+variations in exchange rate formed a cointegrating relation with changes in
+Singapore’s stock market levels.
+Islam and Watanapalachaikul (2003) showed a strong, signiﬁcant long-run
+relationship between stock prices and macroeconomic factors (interest rate,
+bonds price, foreign exchange rate, price-earning ratio, market capitalization,
+and consumer price index) during 1992-2001 in Thailand.
+Hassan (2003) employed Johansen’s (1988, 1991, 1992b) and Johansen
+and Juselius’ (1990) multivariate cointegration techniques to test for the
+existence of long-term relationships between share prices in the Persian
+Gulf region. Using a vector-error-correction model, he also investigated the
+short-term dynamics of prices by testing for the existence and direction of
+intertemporal Granger-causality.
+The analysis of weekly price indices in Kuwait, Bahrain, and Oman
+stock markets showed that: (1) share prices were cointegrated with one
+cointegrating vector and two common stochastic trends driving the series,
+which indicates the existence of a stable, long-term equilibrium relationship
+between them; and (2) prices were not affected by short-term changes but
+were moving along the trend values of each other. Therefore, information
+on the price levels would be helpful for predicting their changes.
+Omran (2003) focused on examining the impact of real interest rates as
+a key factor in the performance of the Egyptian stock market, both in terms
+of market activity and liquidity. The cointegration analysis through error
+correction mechanisms (ECM) indicated signiﬁcant long-run and short-run
+relationships between the variables, implying that real interest rates had an
+impact upon stock market performance.
+Vuyyuri (2005) investigated the cointegrating relationship and the
+causality between the ﬁnancial and the real sectors of the Indian economy
+using monthly observations from 1992 through December 2002. The ﬁnancial
+variables used were interest rates, inﬂation rate, exchange rate, stock return,
+
+52
+
+Jurnal Pengurusan 24
+
+and real sector was proxied by industrial productivity. Johansen (1988)
+multivariate cointegration test supported the long-run equilibrium relationship
+between the ﬁnancial sector and the real sector, and the Granger test showed
+unidirectional Granger causality between the ﬁnancial sector and real sector
+of the economy.
+Maghyereh (2002) investigated the long-run relationship between the
+Jordanian stock prices and selected macroeconomic variables, again by using
+Johansen’s (1988) cointegration analysis and monthly time series data for
+the period from January 1987 to December 2000. The study showed that
+macroeconomic variables were reﬂected in stock prices in the Jordanian
+capital market.
+Gunasekarage, Pisedtasalasai and Power (2004) examined the inﬂuence of
+macroeconomic variables on stock market equity values in Sri Lanka, using
+the Colombo All Share price index to represent the stock market and (1) the
+money supply, (2) the treasury bill rate (as a measure of interest rates), (3)
+the consumer price index (as a measure of inﬂation), and (4) the exchange
+rate as macroeconomic variables.
+With monthly data for the 17-year period from January 1985 to
+December 2001 and employing the usual battery of tests, which included unit
+roots, cointegration, and VECM, they examined both long-run and short-run
+relationships between the stock market index and the economic variables.
+The VECM analysis provided support for the argument that the lagged values
+of macroeconomic variables such as the consumer price index, the money
+supply and the Treasury bill rate have a signiﬁcant inﬂuence on the stock
+market.
+The literature examining the relation of macroeconomic variables on
+individual stock market indices is scarce. Maysami et al. (2005), as intermittent
+illustration, assessed the existence of long-run cointegrating relationship among
+stocks listed dually in the US and Singapore stock markets. In addition, they
+used Johansen’s (1988) VECM, to examine the co-movement between sectoral
+stock indices of the U.S. and Singapore, through examining whether the
+S&P 500 Electronics (Semiconductor) Price Index leads Stock Exchange of
+Singapore’s Electronics Price Index. While their results conﬁrmed the longterm cointegrating sectoral relationships, there was evidence pointing to a
+short-term disequilibria in the prices of dually listed stocks, leading to the
+conclusion that short-run arbitrage opportunities may exist.
+Ta and Teo (1985) had earlier observed high correlation among six
+Singapore sector indices in the period 1975 to 1984 and the overall SES
+market return (e.g. All-S Equities Industrial and Commercial Index, SES All-S
+Equities Finance Index, SES All-S Equities Property Index, SES All-S Hotel
+Index, SES All-S Plantation Index and SES All-S Mining Index). Using daily
+data in examining the relationships, they had concluded that sector returns
+were highly correlated to each other, although such correlations did not remain
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+53
+
+stable over time. Sun and Brannman (1994) similarly found a single long-run
+relationship among the SES All-S Equities Industrial & Commercial Index,
+Finance Index, Hotel Index, and Property Index from 1975 to 1992.
+The current study builds upon and extends the literature through the
+employment of Johansen’s (1988) VECM to examine the long-run equilibrium
+relationship between selected macroeconomic variables and stock market sector
+indices represented on the Stock Exchange of Singapore (recently demutualized
+and renamed the Singapore Exchange (SGX)): the Finance Index, the Property
+Index, and the Hotel Index. The choice of macroeconomic variables and the
+hypothesized relations with the sector indices are discussed next.
+HYPOTHESES
+Based on intuitive ﬁnancial theory (Chen et al. 1986; Fama 1981) coupled with
+the results of previous studies, this article hypothesizes certain relationships
+between short and long-term interest rates, industrial production, price levels,
+exchange rate and money supply with the SES All-S Equities Finance, Property
+and Hotel Sector Indices.
+INTEREST RATE
+
+The simple dividend-discount valuation model may be used to explain the
+impact of economic factors on stock returns. Assuming constant growth in
+dividends,
+P=D1/(k-g)
+
+(1)
+
+where P= stock price, D1= dividends after ﬁrst period, g= constant growth
+rate of the dividends and k= required rate of return on the stock.
+Mukherjee and Naka (1995) hypothesized that changes in both short- and
+long-term government bond rates would affect the nominal risk-free rate and
+thus affect the discount rate. Fama and Schwert (1977) observed that the
+relationship applied to both the current period as well as for lagged values of
+the interest rates. Reily and Brown (2000), however, complicated the matter
+a bit by stating that cash ﬂows from stocks can change along with interest
+rates and it is not certain whether this change in cash ﬂows will augment
+or offset the change in interest rates.
+We hypothesize a negative relationship between interest rates and stock
+prices for the following reasons: (1) interest rates can inﬂuence the level of
+corporate proﬁts which in turn inﬂuence the price that investors are willing
+to pay for the stock through expectations of higher future dividends payment.
+Most companies ﬁnance their capital equipments and inventories through
+borrowings. A reduction in interest rates reduces the costs of borrowing and
+
+54
+
+Jurnal Pengurusan 24
+
+thus serves as an incentive for expansion. This will have a positive effect
+on future expected returns for the ﬁrm; (2) as substantial amount of stocks
+are purchased with borrowed money, hence an increase in interest rates
+would make stock transactions more costly. Investors will require a higher
+rate of return before investing. This will reduce demand and lead to a price
+depreciation.
+INFLATION
+
+The results of studies by Fama and Schwert (1977), Chen, Roll and Ross
+(1986), Nelson (1976) and Jaffe and Mandelker (1976) pointed to a negative
+relation between inﬂation and stock prices. We hypothesize similarly: an
+increase in the rate of inﬂation is likely to lead to economic tightening
+policies, which in turn increases the nominal risk-free rate and hence raises
+the discount rate in the valuation model (equation 1).
+The effect of a higher discount rate would not necessarily be neutralized
+by an increase in cash ﬂows resulting from inﬂation, primarily because cash
+ﬂows do not generally grow at the same rate as inﬂation. DeFina (1991)
+attributes this to nominal contracts that disallow the immediate adjustment of
+the ﬁrm’s revenues and costs. Cash ﬂows would probably decrease initially
+if the cost of inputs adjusts faster to rising inﬂation than output prices.
+EXCHANGE RATES
+
+We hypothesize a positive relation between the exchange rate and stock
+prices. A depreciation of the Singapore dollar will lead to an increase
+in demand for Singapore’s exports and thereby increasing cash ﬂows to
+the country, assuming that the demand for exports is sufﬁciently elastic.
+Alternatively, if the Singapore dollar is expected to appreciate, the market
+will attract investments. This rise in demand will push up the stock market
+level, suggesting that stock market returns will be positively correlated to
+the changes in the exchange rates (Mukherjee and Naka 1995).
+The impact of exchange rate changes on the economy will depend to a
+large extent on the level of international trade and the trade balance. Hence
+the impact will be determined by the relative dominance of import and export
+sectors of the economy.
+INDUSTRIAL PRODUCTION
+
+Tainer (1993) is of the view that the industrial production index is
+procyclical – that is, it rises during economic expansion and falls during
+a recession. It is typically used as a proxy for the level of real economic
+activity, that is, a rise in industrial production would signal economic growth.
+Fama (1990) and Geske and Roll, (1983) hypothesized a similar positive
+relationship through the effects of industrial production on expected future
+cash ﬂows.
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+55
+
+The productive capacity of an economy indeed depends directly on the
+accumulation of real assets, which in turn contributes to the ability of ﬁrms
+to generate cash ﬂow. Chen, Roll and Ross’ (1986) ﬁndings based on a US
+stock portfolio, indicated that future growth in industrial production was a
+signiﬁcant factor in explaining stock returns. Hence, suggesting a positive
+relationship between real economic activities and stock prices. We hypothesize
+similarly. Fama (1981) had earlier found that the growth rate of industrial
+production had a strong contemporaneous relation with stock returns.
+MONEY SUPPLY
+
+Friedman and Schwartz (1963) explained the relationship between money
+supply and stock returns by simply hypothesizing that the growth rate of
+money supply would affect the aggregate economy and hence the expected
+stock returns.
+An increase in M2 growth would indicate excess liquidity available for
+buying securities, resulting in higher security prices. Empirically, Hamburger
+and Kochin (1972) and Kraft and Kraft (1977) found a strong linkage between
+the two variables, while Cooper (1974) and Nozar and Taylor (1988) found
+no relation.
+In the opinion of Mukherjee and Naka (1995), the effect of money supply
+on stock prices is an empirical question. An increase in money supply would
+lead to inﬂation, and may increase discount rate and reduce stock prices
+(Fama, 1981). The negative effects might be countered by the economic
+stimulus provided by money growth, also known as the corporate earnings
+effect, which may increase future cash ﬂows and stock prices. Maysami
+and Koh (2000), who found a positive relationship between money supply
+changes and stock returns in Singapore, further support this hypothesis.
+THE STOCK EXCHANGE OF SINGAPORE
+The Singapore Exchange Ltd (SGX) was formed on December 1, 1999 through
+the merger of the Stock Exchange of Singapore Ltd (SES) and the Singapore
+International Monetary Exchange (SIMEX), thus establishing Asia Paciﬁc’s ﬁrst
+demutualized, integrated securities and derivatives exchange. The origins of
+the Stock Exchange may be traced back to 1930 with the formation of the
+Singapore Stockbrokers’ Association to regulate trading activities in serving
+the public’s interest. A joint exchange under the name of Stock Exchange of
+Malaysia was subsequently formed between Singapore and Malaysia.
+The Stock Exchange of Singapore Ltd (SES) was incorporated on May
+24, 1973, following an ofﬁcial split from the Stock Exchange of Malaysia.
+On October 1980, SES was admitted into the International Foundation of
+
+56
+
+Jurnal Pengurusan 24
+
+Stock Exchanges, marking its advancement in the global arena. In 1986,
+the failure of private and institutional investors to meet their obligations
+on forward contracts on Pan Electric shares resulted in a three-day closure
+of the market. This led to the amendment of the Securities Industry Act of
+1986 to include tighter provisions governing securities operations.
+The ﬁrst test facing the revised Act was on Oct 20, 1987, whereby the
+Straits Times Industrial Index (STI) plunged 261.78 points following the Wall
+Street’s crash on Black Monday. This date marked the biggest one-day drop
+in the history of the SES. Despite the substantial decline in the market, none
+of the SES member ﬁrms experienced ﬁnancial difﬁculty.
+In the early phase of incorporation, listed stocks on the SES Main board
+were classiﬁed into seven industry sections, namely, Industrial and Commercial,
+Finance, Hotel, Property, Plantation, Mining and Debentures Bonds and Loan
+Stocks. The guiding criteria in the selection of the stocks included in each
+of these indices were the liquidity of the shares, the company’s size and its
+proﬁtability. The rapid industrialization and transformation of the Singapore
+economy saw these sectors being replaced or at least complemented by new
+industrial pillars. An example is the introduction of the SES All-S Equities
+Electronics in 1996. On 31 August 1998, SES introduced its new 8-sector
+classiﬁcation of listed companies. The eight industrial sectors are Multiindustry, Manufacturing, Construction, Commerce, Finance, Hotel/Restaurant,
+Property, and Transport/Storage/Communication. Table 1 depicts the most
+recent ﬁnancial conditions of the SGX.
+THE SES ALL-S EQUITIES FINANCE INDEX
+
+Starting September 1994, the Singapore government has embarked on
+an ambitious plan to develop Singapore into a regional and international
+portfolio/fund management center. The SES All-S Equities Finance Index
+tracks the share price performance of all listed ﬁnancial institutions on the
+SGX Main board. Speciﬁcally, it is a composite of banks, ﬁnance companies,
+investment companies and unit trusts, stockbrokers, insurance and other
+ﬁnancial services.
+The Finance Index is one of the sector leaders on the SGX, taking up
+31.7% ordinary shares of total market capitalization as at November 2001.
+Total turnover amounted to $34.09 billion or 32.43% of overall turnover of
+$105.10 billion. A series of recent liberalization measures is likely to result
+in new market entries by large ﬁnancial entities, thus leading to a further
+potential increase in total market capitalization.
+THE SES ALL-S EQUITIES PROPERTY INDEX
+The SES All-S Equities Property Index tracks the share price performance
+of all listed property companies on the SGX Main board, including stocks
+
+Mainboard (S$)
+Mainboard
+S$) + Clob Intl
+Turnover
+Sesdaq
+Xtranet
+
+12,727,584
+1,044,332
+13,771,916
+188,896
+2,025
+
+11,890,129
+1,123,849
+91
+
+Value
+$’000
+
+11,423,464
+466,665
+
+Volume
+’000
+
+May 2005
+
+13,528,247
+1,479,492
+59
+
+13,128,492
+399,755
+
+Volume
+’000
+
+Value
+$’000
+
+16,603,642
+234,814
+1,340
+
+15,312,332
+1,291,310
+
+June 2005
+
+80,383,714
+10,015,387
+1,018
+
+77,248,391
+3,135,323
+
+Volume
+’000
+
+89,070,701
+2,068,957
+22,145
+
+82,386,269
+6,684,432
+
+Value
+$’000
+
+Total for 2005
+
+Source: Stock Exchange of Singapore: http://info.sgx.com/webmktstatistics.nsf/0b0324dae84b770948256dad0009440a/ 2754f8ce1be2fabc4
+
+SGX
+SGX
+(Non
+Total
+SGX
+SGX
+
+Total Turnover
+
+TABLE 1. The Singapore Exchange Statistics
+
+58
+
+Jurnal Pengurusan 24
+
+of companies with residential exposure. The listed companies represent a
+combination of both investment and development ﬁrms. Investment in listed
+Singapore property stocks reported a market capitalization of approximately
+S$17.13 million or about 8.9% of the total market value and a market turnover
+of $6.77 billion in November 2001.
+Despite the consensus that the property market in Singapore has/will
+developed in tandem with the economy, unique demand and supply factors
+(e.g. long gestation period of the construction process, information inefﬁciency
+and the inherent physical structure of property assets) has led to higher
+volatility for property-related stocks (Wang and Liow 2000).
+THE SES ALL-S EQUITIES HOTEL INDEX
+
+The SES All-S Equities Hotel Index tracks the share price performance of
+the 17 listed Hotels on the SGX Main board. At the end of November 2001,
+the market capitalization of Singapore listed hotels stood at $5.08 billion or
+2.64% of the total market capitalization of companies listed. Total turnover
+generated by the hotel sector amounted to $0.33 billion out of the overall
+turnover of $105.1 billion. The hotel industry is closely tied to the tourism
+sector, which has assumed an increasingly important role in Singapore’s
+economic growth. This is reﬂected by the Republic’s attempt to strengthen
+its status as a major convention and exhibition center in the Asia Paciﬁc
+region as well as enhancing its standing as a shoppers’ paradise.
+METHODOLOGY AND DATA
+This section provides an overview of the model employed, the econometric
+tests performed, the source of and the type of data used.
+THE MODEL
+
+Examination of the dynamic relations between macroeconomic variables
+and the various sector indices may be undertaken through either Engle and
+Granger (1987) or Johansen and Juselius (1990) protocols. While Engle and
+Granger’s (1987) two-step error correction model may be used in a multivariate
+context, the Johansen’s (1990) VECM yields more efﬁcient estimators of
+cointegrating vectors. This is because the Johansen’s (1990) VECM is a full
+information maximum likelihood estimation model, which allows for testing
+cointegration in a whole system of equations in one step, without requiring a
+speciﬁc variable to be normalized. This allows researchers to avoid carrying
+over the errors from the ﬁrst- into the second step, unlike the case of Engle
+and Granger’s (1987) methodology. It also allows the avoidance of a priori
+of assumptions of endogenity or exogeniety of variables. The VECM is of
+the form:
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+∆zt = Γ1∑ ∆zt-1 + ... + Γk-1 ∆zt-k+1 + Πzt-k + μt
+
+59
+
+(2)
+
+Where ∆ denotes ﬁrst differences, Γi = -(I-A1-…-Ai), (I = 1, … , k-1), and
+Π= -(I-A1- … -Ak). The short and long-run adjustments to z is speciﬁed by
+the estimates of Γi and Π. Π= αβʹ where α is the speed of adjustment to
+disequilibrium and β is the matrix of long-run coefﬁcients that represents
+up to n-1 cointegration relationship and ensures that zts converge to their
+long-run steady state.
+ESTIMATION
+
+Estimating the
+
+VECM
+
+proceeds in the following manner:
+
+1. Pre-test for stationary and lag-length:
+This is to ensure that the variables are stationary and that shocks are
+only temporary and will dissipate and revert to their long-run mean. The
+tests for stationarity or unit roots employ the augmented Dickey-Fuller (ADF)
+and Phillips-Peron (PP) test performed on the variables in levels and ﬁrst
+differences. Cointegration requires that all the variables be integrated of the
+same order. To test for unit roots, we will use the ADF which tests the null
+hypothesis of
+H 0 : γ = 0 in
+∆yt = a0 + γyt-1
+
++
+
+p
+
+∑ βi ∆yt-i+1
+
++ εt
+
+(3)
+
+to examine whether a unit root exists. The ADF test assumes the asymptotic
+normality of the idiosyncratic error term, εt, in (3).
+The choice of lag-lengths may be decided using Sims likelihood ratio
+test. The appropriate lag length is important as too many lags reduce the
+power of the test due to the estimation of additional parameters and a
+loss of degrees of freedom. In contrast, too few lags may not capture the
+dynamics of the actual error correction process, resulting in poor estimates
+of g and its standard errors. This paper employs the multivariate forms of
+the Akaike information criterion (AIC) and the Schwartz Bayesian criterion
+(SBC) to determine lag lengths. Both are model selection criteria developed
+for maximum likelihood estimation techniques, where:
+AIC
+SBC
+
+= T ln (residual sumi=2of squares) + 2n
+and
+= T ln (residual sum of squares) + n ln (T)
+
+In minimising the AIC and SBC, we minimise the natural logarithm of
+the residual sum of squares adjusted for sample size, n, and the number of
+parameters included, T.
+
+60
+
+Jurnal Pengurusan 24
+
+2. Estimate the model by regressing the ∆z matrix against the lagged
+differences of ∆zt-i and determine the rank of p = ab¢. The eigenvectors
+in b¢ are estimated from the canonical correlations of the set of residuals
+from the regression equations. To determine the rank of p, which will give
+the order of cointegration, r, the characteristic roots or eigenvalues of p, li
+should be estimated.
+We do this by testing the null hypothesis that there are at most r
+cointegration vectors and thus (n-r) unit roots, i.e. H0: λi= 0 where i=
+r+1,..…
+The λ test statistics is
+λtrace = -T
+
+∑
+
+n
+
+log (1-li )
+
+r=0, 1, 2, …, n-2, n-1
+
+(4)
+
+The choice of the number of maximum cointegrating relationships will
+be based on the λtrace test to examine the speciﬁc hypotheses. We will reject
+models where π has full rank as in such a situation, zt is stationary and has
+no unit root and so there is no error correction.
+3. Having determined the order of cointegration, we will select and analyse
+the relevant cointegrating vector and speed of adjustment coefﬁcients.
+Assuming π does not have full rank and there are multiple cointegrating
+vectors, we will choose the ﬁrst eigenvector based on the largest eigenvalue,
+which is regarded as the most useful. Since we consider the natural logarithm
+of the SES All-S Equities Price Index, SES All-S Equities Finance Index, SES
+All-S Equities Property Index and SES All-S Equities Hotel Index to be the
+dependent variable, we will normalise β’ with respect to the coefﬁcients for
+i=r+1
+these indices.
+DATA DESCRIPTION
+
+The monthly time-series were obtained from the Public Access Time-Series
+system, an online-service by the Singapore Department of Statistics. The
+SES All-S Equities indices ﬁgures are obtained from the Singapore Statistics
+published by the Singapore Department of Statistics.
+The brief description for each variable used in the regression and their
+transformation are presented in Table 2.
+Table 3 provides the summary statistics for the variables in levels in ﬁrst
+differences. Monthly observations on the natural logarithms of the SES All-S
+Equities Index, All-S Equities Finance Index, All-S Equities Property Index,
+All-S Equities Hotel Index, consumer price index, industrial production, proxies
+for long and short-run interest rates, money supply (M2), and exchange rates
+from January 1989 to December 2001 are used in this study. The movement
+of the SES All-S Equities indices are provided in the Figure A-D.
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+61
+
+TABLE 2. Deﬁnitions of Variables and Transformation
+
+Variables
+Transformations
+
+Deﬁnitions of Variables
+Deﬁnitions of Transformations
+
+LSESt
+
+Natural logarithm of the index of market-value
+weighted average of month-end closing prices for
+SES All-S Equities shares listed on the SGX.
+
+∆LFNCEt = LFNCEt - LFNCEt-1
+dividend).
+LFNCEt
+SGX.
+∆LFNCEt = LFNCEt - LFNCEt-1
+dividend).
+LPROt
+
+Monthly return on the SES All-S
+Equities Finance Index (ex
+Natural logarithm of the index of market-value
+weighted average of month-end closing prices for
+SES All-S Equities Finance shares listed on the
+Monthly return on the SES All-S
+Equities Finance Index (ex
+Natural logarithm of the index of market-value
+weighted average of month-end closing prices for
+SES All-S Equities Property shares listed on the
+∆LPROt = LPROt - LPROt-1
+Monthly
+
+SGX.
+return on the SES All-S
+Equities Property Index (ex dividend).
+LHOTt
+Natural logarithm of the index of market-value
+weighted average of month-end closing prices for
+SES All-S Equities Hotel shares listed on the
+SGX.
+∆LHOTt = LHOTt - LHOTt-1
+Monthly return
+on the SES All-S Equities
+Hotel
+Index (ex dividend).
+LCPIt
+Natural logarithm of the month-end consumer
+price index.
+∆LCPIt = LCPIt - LCPIt-1
+Monthly-realised inﬂation rate.
+LIPt
+Natural logarithm of the month-end industrial
+production index.
+∆LIPt = LIPt - LIPt-1
+Growth rate of industrial production.
+LLTBt
+Natural logarithm of the month-end yield on 1-year
+inter-bank rates.
+∆LLTBt = LLTBt - LLTBt-1
+Monthly return on 1-year inter-bank rates.
+(long term).
+LSTBt
+Natural logarithm of the month-end 3-month
+inter-bank offer rate.
+∆LSTBt = LSTBt - LSTBt-1
+Monthly return on 3-month inter-bank
+market (short term).
+LM2t
+Natural logarithm of the month-end money supply
+(M2) in Singapore.
+∆LM2t = LM2t - LM2t-1
+Monthly growth rate of money supply
+(M2).
+LSDRt
+Natural logarithm of the month-end exchange rate
+of the Singapore dollar in SDRs (Special Drawing
+Rights) as deﬁned in the International Financial
+
+62
+
+Jurnal Pengurusan 24
+
+EMPIRICAL RESULTS
+UNIT ROOT TESTS
+
+Time series data are often assumed to be non-stationary and thus it is necessary
+to perform a pretest to ensure there is a stationary cointegrating relationship
+among variables to avoid the problem of spurious regression. Based on the
+TABLE
+3. Descriptive
+Statistics
+of Variables
+Levels and
+in First
+Differences
+error
+correction
+mechanism
+as indicated
+byinJohansen
+(1990),
+it is
+necessary
+Variable
+
+Mean
+
+Std Dev
+
+Minimum
+
+Maximum
+
+LSESt
+
+6.114
+
+0.202
+
+5.584
+
+6.505
+
+∆LSESt
+
+0.002
+
+0.067
+
+-0.209
+
+0.232
+
+LFNCEt
+
+6.415
+
+0.517
+
+5.711
+
+7.515
+
+∆LFNCEt
+
+0.009
+
+0.100
+
+-0.302
+
+0.720
+
+LPROt
+
+6.119
+
+0.341
+
+5.106
+
+6.702
+
+∆LPROt
+
+0.001
+
+0.116
+
+-0.386
+
+0.478
+
+LHOTt
+
+6.390
+
+0.211
+
+5.580
+
+6.785
+
+∆LHOTt
+
+0.002
+
+0.086
+
+-0.261
+
+0.626
+
+LCPIt
+
+4.548
+
+0.068
+
+4.394
+
+4.632
+
+∆LCPIt
+
+0.001
+
+0.003
+
+-0.006
+
+0.009
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+63
+
+64
+
+Jurnal Pengurusan 24
+
+for the variables to be of the same order of integration. Although different
+forms of the Johansen tests have been used to detect differing orders of
+integration, it is best not to mix variables with differing orders of integration
+as recommended by the Johansen’s (1990) methodology.
+For the testing of unit roots, the Augmented Dickey-Fuller (ADF) or PhillipsPerron (PP) Tests may be used. The result of the ADF to determine the
+presence of unit roots is reported in Table 5. Since the results of the unit
+root test can be sensitive to the lag length selected, we will select the lag
+length p using the multivariate generalizations of the Akaike Information
+Criteria (AIC). The lag length chosen for each variables based on the lowest
+AIC is also reported in Table 4.
+All the variables reported are stationary at 1% signiﬁcance level based on
+the MacKinnon critical values for unit root test. The ﬁnal vector of variables
+to be included is:
+Yt = (LSESt
+
+LCPIt
+
+LIPt
+
+LSDRt
+
+LSTBt
+
+LM2t
+
+LLTBt)
+
+(5)
+
+for the model examining the cointegration relationship between the SES and
+the macroeconomic variables;
+TABLE 4. Augmented Dickey-Fuller Unit Root Test (sample 1989-2001)
+
+Lags
+
+Estimated a l
+
+Standard Error
+
+2
+2
+
+-0.076068
+-0.953031**
+
+0.026078
+0.130446**
+
+-2.916931
+-7.305925**
+
+LFNCE t
+∆ LFNCEt
+
+2
+2
+
+-0.019523
+-1.015492**
+
+0.015987
+0.137024**
+
+-1.221164
+-7.411061**
+
+LPRO t
+∆ LPROt
+
+2
+2
+
+-0.066760
+-1.029136**
+
+0.028188
+0.132901**
+
+-2.368355
+-7.743630**
+
+LHOT t
+∆ LHOTt
+
+7
+10
+
+-0.121812
+-1.196675**
+
+0.037374
+0.270135**
+
+-3.259266
+-4.429912**
+
+LCPIt 6
+∆ LCPIt
+
+2
+
+-0.013090
+-0.960021**
+
+0.004095
+0.151379**
+
+-3.196382
+-6.341828**
+
+11
+
+-0.031073
+-3.165593**
+
+0.021547
+0.716744**
+
+-1.442103
+-4.416628**
+
+2
+2
+
+-0.038102
+-0.894071**
+
+0.026687
+0.138855
+
+-1.427738
+-6.438871**
+
+LSESt
+
+LIPt
+
+∆ LSESt
+
+13
+∆ LIPt
+
+LLTB t
+∆ LLTB t
+
+t-Statistic for a l=0
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+Yt = (LFNCEt
+
+LCPIt
+
+LIPt
+
+LSDRt
+
+LSTBt
+
+LM2t
+
+65
+
+LLTBt)
+
+(6)
+
+for the integration between the Finance sector and the macroeconomic
+variables;
+Yt = (LPROt
+
+LCPIt LIPt LSDRt
+
+LSTBt
+
+LM2t LLTBt)
+
+(7)
+
+for the integration between the Property sector and the macroeconomic
+variables; and
+Yt = (LHOTt
+
+LCPIt LIPt LSDRt LSTBt
+
+LM2t LLTBt)
+
+(8)
+
+for integration between the Hotel sector and the macroeconomic variables.
+DETERMINATION OF RANK
+
+The next step involves estimating the model and determining the rank of p.
+By testing for cointegration rank we will be able to determine the number
+of cointegrating relations in our model. The model based on the lowest AIC
+was the one with the truncated lag length of p=5 for SES All-S Equities
+Index, p=2 for SES All-S Equities Finance Index, p=5 for SES All-S Equities
+Property Index and p=5 for SES All-S Equities Hotel Index. We report ltrace
+and lmax values and their critical values at both 1% and 5% in Table 5.
+When the results obtained from the λtrace and λmax tests yield different
+conclusions, the λtrace statistic is preferred. This is supported by Cheung
+and Lai (1993) who found that the λtrace test shows more robustness to both
+skewness and excess kurtosis in the residuals than that of the λmax test. The
+results for the λtrace test with the selected lag lengths indicate that there is
+no more than one cointegrating relationship at either the 1% and 5% level
+for all the models speciﬁed. We thus conclude that there is one cointegrating
+vector (i.e. r = 1).
+COINTEGRATION RESULTS
+
+The normalized cointegrating coefﬁcients for the SES All-S Equities Index
+(LSESt) are
+Yt = (LSESt LCPIt LIPt LSDRt LSTBt LM2t LLTBt)
+β1’ = (1.00, -11.66, -4.20, 5.91, -2.51, -4.34, 4.41)
+These values represent long-term elasticity measures, due to logarithmic
+transformation of SES (normalized), CPI, IP, SDR, STB, LM2 and LTB. Thus,
+the cointegration relationship can be re-expressed as:
+LSESt
+
+= 11.66LCPIt + 4.20LIPt - 5.91 LSDRt + 2.51 LSTBt + 4.34
+[-1.58]*
+[-3.68]
+[2.30]
+
+LM2t
+
+[-1.98]
+
+66
+
+Jurnal Pengurusan 24
+TABLE 5. Results and Critical Values for the λtrace and λmax
+
+SES and Macroeconomic Variables based on p=5
+H0
+
+ltrace
+
+CV(trace, 1%)
+
+CV(trace, 5%)
+
+lmax
+
+CV(Max, 1%)
+
+CV(max, 5%)
+
+R=0
+
+170.31**
+
+146.99
+
+136.61
+
+50.52*
+
+54.48
+
+48.45
+
+R≤1
+
+119.79**
+
+114.36
+
+104.94
+
+48.06*
+
+48.17
+
+42.48
+
+R≤2
+
+71.74
+
+85.78
+
+77.74
+
+30.71
+
+41.58
+
+36.41
+
+R≤3
+
+41.02
+
+61.24
+
+54.64
+
+23.70
+
+35.68
+
+30.00
+
+R≤4
+
+17.33
+
+40.49
+
+34.55
+
+10.84
+
+28.83
+
+23.78
+
+R≤5
+
+6.49
+
+23.46
+
+18.17
+
+5.40
+
+21.47
+
+16.87
+
+Finance and Macroeconomic Variables based on p= 2
+H0
+
+ltrace
+
+CV(trace, 1%)
+
+CV(trace, 5%)
+
+lmax
+
+CV(Max, 1%)
+
+CV(max, 5%)
+
+R=0
+
+170.37**
+
+158.49
+
+146.76
+
+52.10*
+
+54.71
+
+49.42
+
+R≤1
+
+118.27**
+
+124.75
+
+114.90
+
+36.09
+
+49.51
+
+43.97
+
+R≤2
+
+82.19
+
+96.58
+
+87.31
+
+31.99
+
+42.36
+
+37.52
+
+R≤3
+
+50.20
+
+70.05
+
+62.99
+
+20.87
+
+36.65
+
+31.46
+
+R≤4
+
+29.33
+
+48.45
+
+42.44
+
+15.07
+
+30.34
+
+25.54
+
+R≤5
+
+14.26
+
+30.45
+
+25.32
+
+11.83
+
+23.65
+
+18.96
+
+Property and Macroeconomic Variables based on p=5
+ltrace
+
+CV(trace, 1%)
+
+CV(trace, 5%)
+
+lmax
+
+CV(Max, 1%)
+
+CV(max, 5%)
+
+R=0
+
+168.03**
+
+158.49
+
+146.75
+
+50.02*
+
+54.71
+
+49.42
+
+R≤1
+
+118.01*
+
+124.75
+
+114.90
+
+40.10
+
+49.51
+
+43.97
+
+R≤2
+
+77391
+
+96.58
+
+87.31
+
+27.31
+
+42.36
+
+37.52
+
+R≤3
+
+50.59
+
+70.05
+
+62.99
+
+21.29
+
+36.65
+
+31.46
+
+H0
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+67
+
+[-2.60]
+- 4.41 LLTBt
+[2.83]
+
+(9)
+
+* t-statistics are shown in [ ]
+The coefﬁcients and cointegrating relations for SES All-S Equities
+Finance, are respectively given as:
+FINANCE:
+Yt = (LFNCEt LCPIt LIPt LSDRt LSTBt LM2t LLTBt)
+
+b1’ = (1.00, -10.99, 0.34, 5.08, -2.28, -1.03, 2.52)
+LFNCEt = 10.99LCPIt - 0.34LIPt - 5.08 LSDRt + 2.28 LSTBt + 1.03 LM2t
+[-2.34]
+[0.49]
+[3.05]
+[-3.16]
+[-0.94]
+- 2.52 LLTBt
+[2.81]
+
+(10)
+
+PROPERTY:
+Yt = (LPROt
+
+LCPIt LIPt LSDRt LSTBt LM2t LLTBt)
+b1’ = (1.00, -18.07, -7.83, 6.76, -5.21, -4.87, 8.12)
+LPROt = 18.07LCPIt + 7.83LIPt – 6.76 LSDRt + 5.21 LSTBt + 4.87 LM2t
+[-1.87]
+[-5.19]
+[2.00]
+[-3.13]
+[-2.29]
+- 8.12 LLTBt
+[3.91]
+
+(11)
+
+HOTEL:
+Yt = (LHOTt
+
+LCPIt LIPt LSDRt LSTBt LM2t LLTBt)
+b1’ = (1.00, 14.76, -4.45, -3.55, 0.87, 0.83, -0.24)
+LHOTt = –14.76LCPIt + 4.45LIPt + 3.55LSDRt – 0.87LSTBt – 0.83LM2t
+[3.24]
+[-5.15]
+[-2.12]
+[1.54]
+[1.23]
++ 0.24 LLTBt
+[-0.34]
+
+(12)
+
+ANALYSIS OF RESULTS
+SES ALL-S EQUITIES INDEX
+
+The coefﬁcients for LCPIt, LIPt, LSTBt, and LM2t are positive, while the signs
+between LSDRt, LLTBt and LSESt are both negative. The intercept term is
+positive.
+Fama and Schwert (1977), Geske and Roll (1983), Chen, Roll and Ross
+
+68
+
+Jurnal Pengurusan 24
+
+(1986) and Mukherjee and Naka (1995) have suggested a negative relation
+between stock returns and inﬂation. These ﬁnding are contrary to the results
+of our study which documents a signiﬁcant positive relationship between
+inﬂation and Singapore stock returns.
+A possible explanation for the positive relationship might be the
+government’s active role in preventing prices escalation as the economy
+continued to improve after the 1997 crisis. Firth (1979) posited that holding
+stocks might be an effective hedge against inﬂation and hence the “Fisher
+effect” would explain this positive correlation. Marshall (1992) stated that
+if inﬂation is caused by money shock, it would lower the rate of interest
+and investors would shift their cash holdings to stocks and bonds in order
+to maximize potential capital gains. The increase in demand would in turn
+raise stock prices. Increases in expected inﬂation may also signal a potential
+increase in real activity, production and hence higher stock returns (Fama
+and Gibbons, 1982).
+There is evidence that stock returns are positively and signiﬁcantly
+related to the level of real economic activity as proxied by the industrial
+production index. Fama (1981) explained this by suggesting that the market
+makes rational forecasts of the real sector, while Chen, Roll and Ross (1986)
+argued that the positive relation reﬂects the value of insuring against real
+systematic production risks. Changes in productive activity, through their
+impact on expected dividends, should in turn inﬂuence stock returns (Maysami
+and Koh 2000).
+Short- and long-term interest rates have signiﬁcant respectively positive
+and negative relations with the Singapore’s stock market based on the results
+of the current study. This is consistent with the ﬁndings of Bulmash and
+Trivoli (1991) in the case of the United States, and by Mukherjee and Naka
+(1995) for Japan. Maysami and Koh (2000) similarly observed a positive
+relationship between the Singapore stock market and short-term interest rates
+while the long-term rate was negative. The reason is probably that long-term
+interest rate serve as a better proxy for the nominal risk-free component used
+in the discount rate in the stock valuation models and may also serve as a
+surrogate for expected inﬂation in the discount rate.
+The positive correlation between money supply changes and stock
+returns is consistent with the ﬁndings of Mukherjee and Naka (1995) who
+attributed a rise in the discount rate to the expansionary effect of money
+supply increase. Fama (1981) explained a spurious, rather than causal, positive
+relation between money supply and stock prices through a simple quantity
+theory model, where money demand is stimulated through increases in real
+activity, which in turn drive stock returns.
+The results of our study support the hypothesis of a positive relationship
+between exchange rate and the Singapore stock market. This is similar to
+the ﬁndings of Maysami and Koh (2000). They explained that with the high
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+69
+
+import and export content in the Singapore’s economy, a stronger domestic
+currency lowers the cost of imported inputs and allows local producers to
+be more competitive internationally. Yip (1996) also explained that a strong
+Singapore dollar limits imported inﬂation and hence is perceived as favourable
+news by the Singapore stock market, thereby generating positive returns.
+SES ALL-S EQUITIES FINANCE INDEX
+
+The coefﬁcients for LCPIt, LSTBt, and LM2t are positive, while those between LIPt,
+LSDRt,, LLTBt, and LFNCEt are negative. The intercept term is also positive.
+The relationships between the ﬁnance index and the macroeconomic variables
+are similar for the Singapore stock market except in the case of the real
+economic activity, which depicts an insigniﬁcant relationship. One possible
+explanation for this maybe the fact that the accumulation of real assets,
+which contributes to the economy’s productive capacity, and investments in
+the ﬁnance sector are viewed as alternative investments.
+The ﬁnance sector is signiﬁcantly affected by changes in inﬂation rates,
+exchange rates, and both short- and long- term interest rates. The impact of
+changes in money supply to the ﬁnance sector is weaker as compared to the
+Singapore’s stock market.
+SES ALL-S EQUITIES PROPERTY INDEX
+
+The coefﬁcients for LCPIt, LIPt, LSTBt, and LM2t are positive, while those
+of LSDRt and LLTBt, are negative. The intercept term is also positive. All
+relations between the property sector and the macroeconomic variables are
+Signiﬁcant.
+The signs of the coefﬁcients are similar to those of the Singapore stock
+market. This is supported by the ﬁndings of Wang and Liow (1999) who
+reported a strong co-movement in the returns of property stocks and the
+general market. Although the property sector reacts in tandem with the stock
+market to changes in the macroeconomic variables, the impact is relatively
+higher. For instance, a 1% increase in real activity would result in a 7.83%
+rise in the property index, while the stock market return would increase by
+4.2%. The higher volatility in the property sector relative to the overall
+market, also coincides with Wang and Liow’s (2000) ﬁndings.
+SES ALL-S EQUITIES HOTEL INDEX
+
+The coefﬁcients for LIPt, LSDRt and LLTBt are positive, while those for LCPIt,
+LSTBt and LM2t are negative. The intercept term is positive. Curiously, the
+signs for all coefﬁcients are opposite of those observed for the Singapore
+stock market, except for real economic activity.
+Based on our results, short- and long-term interest rates as well as the
+money supply do not have signiﬁcant effects on the Singapore Hotel Index.
+
+70
+
+Jurnal Pengurusan 24
+
+The signiﬁcant negative relation between the Hotel sector returns and the
+exchange rate is the result of the fact that depreciation is deemed favourable
+for the Singapore tourism industry as hotel rates will become relatively
+cheaper in terms of foreign currencies and hence would increase demand.
+Justiﬁcation for the government of Singapore’s continuous attempts to control
+inﬂation is given by the results that a 1% rise in inﬂation rate would result in
+a signiﬁcant 14.76% fall in the Hotel index. Controlling inﬂation would ensure
+that tourism remains a competitive sector of the Singapore economy.
+CONCLUSION
+This paper examined the relation between macroeconomic variables and the
+Sector Stock Indices represented by the SES All-S Equities Finance Index, SES
+All-S Equities Property Index and SES All-S Equities Hotel Index, as well
+as the Singapore’s composite stock index, using Johansen’s (1990) VECM, a
+full information maximum likelihood estimation model.
+Our conclusions were that the Singapore stock market and the SES
+All-S Equities Property Index formed signiﬁcant relationships with all
+macroeconomic variables identiﬁed, while the SES All-S Equities Finance
+Index and SES All-S Equities Hotel Index form signiﬁcant relationships only
+with selected variables.
+Speciﬁcally, for the SES All-S Equities Finance Index, real economic
+activity and money supply were not signiﬁcant, and in the case of SES All-S
+Equities Hotel Index, money supply, and short- and long-term interest rates
+were insigniﬁcant.
+The conclusions drawn from the study will be beneﬁcial in two ways: (1)
+whether there exists opportunities for proﬁt from the inefﬁciencies of stock
+market mechanisms in the transfer of information between stock markets,
+and (2) more speciﬁcally, whether “stock picking” could lead to a superior
+earning capability.
+The presence of a cointegrating relationship between macroeconomic
+variables and stock prices brings the conclusions of the efﬁcient market
+hypothesis in doubt. Principally, the behavior of stock market may indeed
+be predicted, contrary to the EMH conclusions and policy-makers may need
+to reevaluate their economic policy if affecting the stock market is not
+something they desire.
+The fact that speciﬁc sectors represented in the SGX are individually
+affected by to different extent by various macroeconomic variables points to the
+possibility of superior returns based on selecting stocks from speciﬁc sectors
+of the economy as information becomes available on speciﬁc macroeconomic
+variables. Additionally, the beneﬁts of diversiﬁcation as suggested by Grubel
+(1968) and Lessard (1973) through selecting stocks from different sectors of
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+71
+
+Singapore economy become evident.
+Policy-makers need to be careful too when trying to inﬂuence the economy
+through changes in macroeconomic variables such as the money supply,
+interest rates, or the exchange rate. While aiming to correct macroeconomic
+ills such as inﬂation or unemployment, they may inadvertently depress the
+stock market, and curtail capital formation which itself would lead to further
+slowdown of the economy.
+Extending the conclusions of this study to other sectors and to other
+markets is a matter of empirical study and one which is worth pursuing.
+Ahlgren, Sjoo, and Zhang, for example, have examined market segmentation,
+information asymmetry and diffusion of the Chinese stock exchanges and
+found evidence of cointegration between A and B share prices for most
+ﬁrms, but not for all. They then used a probit model to identify the ﬁrm
+characteristics that determine whether A and B share prices cointegrate or
+not. Their results showed cointegration was more likely among newly-listed
+ﬁrms and those in the service and manufacturing sectors.
+At the same time, the relationship between macroeconomic variables
+and stock markets, though widely documented, is not universally shown or
+accepted. For example, to the contrary, Cauchie, et al. (2003) examination
+of the determinants of stock returns in the Swiss stock market and showed
+that the statistically determined factors yield a better representation of the
+determinants of stock returns than the macroeconomic variables and that
+stock returns were inﬂuenced by both global and local economic conditions,
+suggesting that the Swiss stock market is an internationally imperfectly
+integrated market.
+Panetta (2003) similarly found the relation between stock returns in
+Italy and the macroeconomic factors to be unstable: not only were the factor
+loadings of individual securities virtually uncorrelated over time, but a high
+percentage of the shares experience a reversal of the sign of the estimated
+loadings.
+Limitations of the study include the fact that the Error Correction Model
+methodology, either as employed by Engle and Granger (1987) or Johansen
+(1990) have been known to be sensitive to the choice of lag lengths. The ADF
+tests are also sensitive to the speciﬁcation of the variables and the lag lengths
+used. For the purpose of comparison, our paper used the same macroeconomic
+variables to test for the relationships on the SES All-S Equities Index and
+the various SES All-S Sector indices. It may be useful for future studies to
+include other economic variables that might affect each sector speciﬁcally.
+Two points are worth noting and may provide grounds for further research.
+First, since cointegration refers to long-run relationships between the variables
+appearing in the cointegrating vector(s), long-term relationship between
+macroeconomic variables and sector indices discovered in this paper, does
+not by itself prove similar relations exit in the short run. Second, Johansen’s
+method is known to be sensitive to the choices of lags and the dimensions.
+
+72
+
+Jurnal Pengurusan 24
+
+Mukherjee and Naka (1995) used 20 years of data while employing seven
+variables. Due to a more limited number of observations, we used six macro
+variables instead. Experimenting with various dimensions and time series
+data may, in itself, be a useful study.
+The study may be extended by employing Engle and Granger’s (1987)
+error correction model so that the short-run dynamics between the variables
+could be addressed, much the same way as Maysami and Sim did in the
+cases of Hong Kong and Singapore (Maysami and Sims 2002b), Malaysia
+and Thailand (Maysami and Sims 2001a), and Japan and Korea (Maysami and
+Sims 2001b), or as Islam (2003) did for the Kuala Lumpur Stock Exchange
+(KLSE) Composite Index.
+However, given that ours was a preliminary investigation without much
+literature precedent, the study concentrated on examining only the long-term
+equilibrium relationship among the macroeconomic variables and sector
+indices. Moreover, although Engle and Granger’s (1987) two-step errorcorrection model may be used in a multivariate context, the VECM yields
+more efﬁcient estimators of cointegrating vectors.
+This is because the VECM is a full information maximum likelihood
+estimation model, which allows for testing for cointegration in a whole
+system of equations in one step and without requiring a speciﬁc variable to
+be normalised. This allowed us to avoid carrying over the errors from the
+ﬁrst into the second step, as will be the case if Engle-Granger’s methodology
+is used.
+Finally, in order to address the limitations of Johansen’s (1990)
+methodology, e.g. problems with the order of integration, Pesaran and Shin
+(1997) proposed the Autoregressive Distributive Lag (ADRL) method. They
+showed that the ARDL model remains valid when the underlying variables
+are non-stationary, provided the variables are cointegrated. Bentzen and
+Engstead (1999) used the ARDL approach to estimated a demand relationship
+for Danish residential energy consumption, and compared the ARDL estimates
+to the estimates obtained using cointegration techniques and error-correction
+models. They concluded that that both quantitavely and qualitatively, the
+ARDL approach and the cointegration/ECM approach give very similar results.
+Nevertheless, further experimentation with the ARDL may prove a worthy
+extension of this study.
+REFERENCES
+
+Abeyratna, G., Pisedtasalasai, A. & Power, D. 2004. Macroeconomic inﬂuence on
+the stock market: evidence from an emerging market in South Asia. Journal of
+Emerging Market Finance 3(3): 85-304.
+Ahlgren, N, Sjoo, B. & Zhang, J. 2003. Market segmentation and information diffusion
+in China’’ stock markets: panel data unit root and cointegration tests on A and B
+share prices. EFMA 2003 Helsinki Meetings. http://ssrn.com/abstract=391563
+Bentzen, J. & Engsted, T. 1999. A Revival of the Autoregressive Distributed Lag
+Model in Estimating Energy Demand Relationships. Aarhus School of BusinessDepartment of Economics Working Paper Series: Paper # 99-7.
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+73
+
+Bilson, C, Brailsford, T. J. & Hooper, V. 1999. Selecting macroeconomic variables
+as explanatory factors of emerging stock market returns. Working Paper Series
+available at http://ssrn.com/abstract=201908
+Bulmash, S. B., & Trivoli, G. W. 1991. Time-lagged interactions between stock
+prices and selected economic variables,” The Journal of Portfolio Management
+17(4): 66-67.
+Cauchie, S., Hoesli, M. & Isakov, D. 2003. The determinants of stock returns
+in a small open economy. EFMA 2003 Helsinki Meetings. http://ssrn.com/
+abstract=391996
+Chen, N. F., Roll, R. & Ross, S. 1986. Economic forces and the stock market. Journal
+of Business 59(3): 83-403.
+Cheung, Y. W. & Lai, K. S. 1993. Finite sample sizes of Johansen’s Likelihood
+Ratio Tests for Cointegration. Oxford Bulletin of Economics and Statistics
+55:13-328.
+Chong, C. S. & Goh, K. L. 2003. Linkages of economic activity, stock prices and
+monetary policy: the case of Malaysia.
+Cooper, R. 1974. Efﬁcient capital markets and the quantity theory of money. Journal
+of Finance 29(3): 887-908.
+DeFina, R. H. 1991. Does inﬂation depress the stock market? Federal Reserve Bank
+of Philadelphia Business Review 1991: 3-12.
+Engle, R. F. & Granger, C. W. J. 1987. Cointegration and error correction representation,
+estimation and testing,” Econometrica 55: 251-276.
+Fama E. F. & Schwert, W.G. 1977. Asset returns and inﬂation. Journal of Financial
+Economics 5: 115-146.
+Fama, E. F. 1981. Stock returns, real Activity, inﬂation and money. The American
+Economic Review 71(4): 45-565.
+Fama, E. F. & Gibbons, M. R. 1982. Inﬂation, real returns and capital investment.
+Journal of Monetary Economics 9: 297-323.
+Fama, E. F. 1990. Stock returns, expected returns and real activity. Journal of Finance
+45(4): 1089-1108.
+Fama, Eugene, 1970. Efﬁcient capital markets: a review of theory and empirical
+work. Journal of Finance 25: 383-417.
+Fiﬁeld S., Power D. & Sinclair C. 2000. A study of whether macroeconomic factors
+inﬂuence emerging market share returns. Global Economy Quarterly 1(1): 315335.
+Firth, M. 1979. The relationship between stock market returns and rates of inﬂation.
+Journal of Finance 34(3): 743-749.
+Friedman, M. & Schwart., A. J. 1963. Money and Business Cycles. Review of
+Economics and Statistics 45 (1): 485.
+Geske, R. & Roll, R. 1983. The ﬁscal and monetary linkage between stock returns
+and inﬂation. Journal of Finance 38(1): 1-33.
+Granger, C. W. J. 1986. Developments in the study of cointegrated economic variables.
+Oxford Bulletin of Economics and Statistics 48: 213-228.
+Grubel, G. H. 1968. Internationally diversiﬁed portfolios: Welfare gains and capital
+ﬂows. American Economic Review 58: 1299-1314.
+Hamburger, M. J. & Kochin, L. A. 1972. Money and stock prices: the channels of
+inﬂuence. Journal of Finance 27(2): 231-249.
+Hassan, A. H. 2003. Financial integration of stock markets in the Gulf: A multivariate
+
+74
+
+Jurnal Pengurusan 24
+
+cointegration analysis. International Journal of Business 8(3).
+Hendry, D. F. 1986. Econometric modeling with cointegrated variables: An overview.
+Oxford Bulletin of Economics and Statistics 48(3) 201-212.
+Hondroyiannis G. & Papapetrou E. 2001. Macroeconomic inﬂuences on the stock
+market. Journal of Economics and Finance 25(1): 33-49.
+Islam, M. 2003. The Kuala Lumpur stock market and economic factors: a generalto-speciﬁc error correction modeling test. Journal of the Academy of Business
+and Economics. available at
+http://www.ﬁndarticles.com/p/articles/mi_m0OGT/is_1_1/ai_113563578
+Islam, S. M. N. & Watanapalachaikul, S. 2003. Time series ﬁnancial econometrics
+of the Thai stock market: a multivariate error correction and valuation model.
+available at
+http://blake.montclair.edu/~cibconf/conference/DATA/Theme2/Australia2.pdf
+Jaffe, J. & Mandelkar, G. 1976. The Fisher effect for risky assets: An empirical
+investigation. Journal of Finance 31: 447-456.
+Johansen, S. & Juselius, K. 1990. Maximum likelihood estimation and inference
+on cointegration with application to the demand for money. Oxford Bulletin of
+Economics and Statistics 52: 169-210.
+Kraft, J. & Kraft, A. Determinants of common stock prices: a time series analysis.
+Journal of Finance 32(2): 417-425.
+Lessard, D. R. 1973. International portfolio diversiﬁcation: a multivariate analysis for
+a group of Latin American countries. Journal of Finance 28: 619-633.
+Lovatt D. & Parikh A. 2000. Stock returns and economic activity: The UK case.
+European Journal of Finance 6(3): 280-297.
+Maghyereh, A. I. 2002. Causal relations among stock prices and macroeconomic
+variables in the small, open economy of Jordan. available at http://ssrn.com/
+abstract=317539.
+Marshall, D. 1992. Inﬂation and asset returns in a monetary economy. Journal of
+Finance 47(4): 315-1343.
+Maysami, R. C., Loo, S. W., & Koh, T. K. 2004. Co-movement among sectoral
+stock market indices and cointegration among dually listed companies. Jurnal
+Pengurusan 23:33-52.
+Maysami, R. C. & Koh, T. S. 2000. A vector error correction model of the Singapore
+stock market. International Review of Economics and Finance 9: 79-96.
+Maysami, R. C. & Sim, H. H. 2002. Macroeconomics variables and their relationship
+with stock returns: error correction evidence from Hong Kong and Singapore.
+The Asian Economic Review 44(1): 69-85.
+Maysami, R. C. & Sim H. H. 2001a. An empirical investigation of the dynamic
+relations between macroeconomics variable and the stock markets of Malaysia
+and Thailand. Jurnal Pengurusan 20: 1-20.
+Maysami, R. C. & Sim H. H. 2001b. Macroeconomic forces and stock returns: a
+general-to-speciﬁc ECM analysis of the Japanese and South Korean markets.
+International Quarterly Journal of Finance 1(1): 83-99.
+Mukherjee, T. K. & Naka, A. 1995. Dynamic relations between macroeconomic
+variables and the Japanese stock market: an application of a vector error correction
+model. The Journal of Financial Research 18(2): 223-237.
+Muradoglu G., Metin K. & Argae R. 2001. Is there a long-run relationship between
+stock returns and monetary variables: evidence from an emerging market. Applied
+Financial Economics VII(6): 641-649.
+
+Relationship between Macroeconomic Variables and Stock Market Indices
+
+75
+
+Nasseh A., & Strauss J. 2000. Stock prices and domestic and international
+macroeconomic activity: A cointegration approach. Quarterly Review of Economics
+and Finance 40(2): 229-245.
+Nelson, C. R. 1976. Inﬂation and rates of return on common stocks. Journal of
+Finance 31(2): 471-483.
+Nozar, H. & Taylor, P. 1988. Stock prices, money supply and interest rates: the
+question of causality. Applied Economics 20: 103-161.
+Omran, M. M. 2003. Time series analysis of the impact of real interest rates on stock
+market activity and liquidity in Egypt: Co-integration and error correction model
+approach. International Journal of Business 8(3).
+Panetta, F. 2002. The stability of the relation between the stock market and
+macroeconomic forces. Economic Notes 31(3): 417.
+Pesaran, M.H. & Shin, Y. 1997. An autoregressive distributed lag modeling approach
+to cointegration analysis. A revised version of a paper presented at the Symposium
+at the Centennial of Ragnar Frisch, The Norwegian Academy of Science and
+Letters, Oslo, March 1995.
+Reily, F, K. & Brown, K. C. 2002. Investment Analysis and Portfolio Management.
+Orlando, USA: The Dryden Press.
+Ross, S. A. 1976. The arbitrage theory of capital asset pricing. Journal of Economic
+Theory 13: 341-360.
+Sun, Q. & Brannman, L. E. 1994. Cointegration and co-movement of SES sector
+prices indices. Working Paper Series 12-94.
+Ta, H. P. & Teo, C. L. 1985. Portfolio diversiﬁcation across industry sectors. Securities
+Industry Review 11(2): 33-39.
+Tainer, E. M. 1993. Using economic indicators to improve investment analysis. New
+York, USA: John Wiley & Sons, Inc.
+Vuyyuri, S. 2005. Relationship between real and ﬁnancial variables in India: A
+cointegration analysis. Available at http://ssrn.com/abstract=711541.
+Wang, L. K. & Liow, K. H. 1999. The behaviour of Singapore property stocks to
+market and interest rate risks. SES Journal 1999: 28-34.
+Wang, L. K. & Liow, K. H. 2000. Singapore’s property stocks: Volatility – good or
+bad? PULSES July 2000: 32-37.
+Yip, P., 1996. Exchange rate management in Singapore. In Economic Policy
+Management in Singapore, ed. Lim Chong Yah, 237-273. Singapore: AddisonWesley.
+Ramin Cooper Maysami
+University of North Carolina at Pembroke
+One, University Drive
+P.O. Box 1510
+Pembroke, North Carolina 28372
+USA
+
+Lee Chuin Howe
+Mohamad Atkin Hamzah
+Research Associate
+Nanyang Business School
+Nanyang Ave.
+
+76
+Singapore 639798
+
+Jurnal Pengurusan 24
+
+

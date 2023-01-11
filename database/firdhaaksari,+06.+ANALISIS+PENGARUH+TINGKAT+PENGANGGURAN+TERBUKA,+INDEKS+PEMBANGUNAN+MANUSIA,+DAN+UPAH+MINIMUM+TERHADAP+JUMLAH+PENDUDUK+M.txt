@@ -1,0 +1,1530 @@
+ANALISIS PENGARUH TINGKAT PENGANGGURAN TERBUKA,
+INDEKS PEMBANGUNAN MANUSIA, DAN UPAH MINIMUM
+TERHADAP JUMLAH PENDUDUK MISKIN DI INDONESIA
+TAHUN 2011-2015
+Shinta Setya Ningrum
+Badan Pertanahan Nasional Kabupaten Banyuwangi
+Email: shintasetyaningrum26@gmail.com
+Abstract
+Poverty continues to be a major problem of the world, especially in developing
+Indonesia. The study has the objective of testing and analyzing Open
+Unemployment Rate, Human Development Index, and Minimum Wage for Poor
+People in Indonesia Year 2011-2015. This type of data uses secondary data
+obtained from Indonesian BPS and also the journal as research support. This
+research uses panel data model and use eviews9. The regression result shows that
+the value of Adjusted R-Square is 0.993546 which means 99.35 percent of the
+variation of the poor population (Y) can be explained by the independent
+variables in the statistical models that TPT, IPM, and minimum wage. While 0.65
+percent of the variation in the number of poor people (Y) is explained by factors
+outside the model.
+Keywords: Human Development Index, Minimum wages, Number of Poor,
+Open Unemployment Rate
+Abstrak
+Kemiskinan terus menjadi masalah utama dunia, khususnya di Indonesia yang
+menjadi negara berkembang. Penelitian memiliki tujuan menguji dan
+menganalisis Tingkat Pengangguran Terbuka, Indeks Pembangunan Manusia, dan
+Upah Minimum terhadap Jumlah Penduduk Miskin di Indonesia Tahun 20112015. Jenis data menggunakan data sekunder yang diperoleh dari BPS Indonesia
+dan juga jurnal sebagai pendukung penelitian. Penelitian ini menggunakan model
+data panel dan menggunakan eviews9. Hasil regresi menunjukkan bahwa nilai
+Adjusted R-Square sebesar 0,993546 yang artinya 99,35 persen variasi jumlah
+penduduk miskin (Y) dapat dijelaskan oleh variabel independen dalam model
+statistik yaitu TPT, IPM, dan upah minimum. Sedangkan 0,65 persen variasi dari
+jumlah penduduk miskin (Y) dijelaskan oleh faktor-faktor diluar model.
+Kata kunci: Indeks Pembangunan Manusia, Jumlah Penduduk Miskin, Tingkat
+Pengangguran Terbuka, Upah Minimum
+PENDAHULUAN
+Kemiskinan
+
+terjadi pada suatu negara dilihat
+terus
+
+menjadi
+
+menjadi permasalahan yang serius,
+
+masalah utama dunia, khususnya di
+
+karena
+
+Indonesia
+
+kemiskinan
+
+yang
+
+berkembang.
+
+menjadi
+
+negara
+
+Kemiskinan
+
+yang
+
+pada
+
+masa
+
+sekarang
+
+membuat
+
+masyarakat
+
+Analisis Pengaruh Tingkat Pengangguran Terbuka.............(Shinta Setya Ningrum)
+Indonesia
+
+tidak
+
+bisa
+
+mencukupi
+
+kehidupannya.
+
+Upah
+
+adalah
+
+sumber
+
+penghasilan, bila sumber penghasilan
+
+Menurut
+
+M.Nasir
+
+(2008)
+
+turun atau tetap maka kesejahteraan
+
+permasalahan kemiskinan merupakan
+
+juga turun atau tetap dan itu juga
+
+permasalahan
+
+kompleks
+
+dan
+
+pasti akan mempengaruhi tingkat
+
+multidimensi.
+
+Kemiskinan
+
+di
+
+kemiskinan. Upah yang diberikan
+
+Indonesia disebabkan oleh berbagai
+
+nyatanya secara riil nilainya cukup
+
+faktor, yaitu tingkat upah kurang,
+
+rendah meskipun secara nominal
+
+tingkat pengangguran yang tinggi,
+
+angkanya cukup tinggi.
+
+dan IPM yang masih kurang. Dapat
+
+Tujuan penelitian ini yaitu
+
+dikatakan miskin apabila belum bisa
+
+untuk menguji dan menganalisis
+
+mencukupi kebutuhannya atau belum
+
+pengaruh
+
+Tingkat
+
+Pengangguran
+
+berpenghasilan.
+
+Terbuka,
+
+Indeks
+
+Pembangunan
+
+merupakan
+
+Manusia,
+
+dan
+
+tergolong
+
+terhadap Jumlah Penduduk Miskin di
+
+Pengangguran
+kondisi
+
+seseorang
+
+angkatan
+
+kerja
+
+menginginkan
+belum
+
+dan
+
+yang
+
+pekerjaan
+
+tetapi
+
+memperoleh
+
+pekerjaan
+
+Upah
+
+Minimum
+
+Indonesia Tahun 2011-2015.
+
+METODE PENELITIAN
+
+tersebut, Sukirno (1997).
+
+Digunakan teknik dokumentasi
+
+IPM membahas penduduk pada
+
+yang merupakan pengumpulan data
+
+suatu wilayah memiliki kesempatan
+
+tertulis melalui instansi yang terkait,
+
+memperoleh hasil pembangunan dari
+
+yaitu
+
+haknya
+
+penelitian merupakan sesuatu bentuk
+
+untuk
+
+mendapatkan
+
+BPS
+
+pendidikan, pendapatan, kesehatan.
+
+memperoleh
+
+Selain itu IPM juga digunakan
+
+ditarik
+
+mengklasifikasikan apakah sebuah
+
+(2011).
+
+negara
+
+termasuk
+
+dalam
+
+kategori
+
+Indonesia.
+
+Variabel
+
+informasi
+
+kemudian
+
+kesimpulannya,
+
+Sugiyono
+
+Adapun definisi operasional
+
+negara maju, negara berkembang
+
+variabel yaitu sebagai berikut:
+
+atau negara terbelakang. Hal tersebut
+
+1. Kemiskinan
+
+menjadi
+
+tolak
+
+ukur
+
+mengetahui
+
+ketidakmampuan
+
+(Y)
+
+adalah
+mencukupi
+
+pengaruh kebijakan ekonomi pada
+
+kebutuhan dasar. Data jumlah
+
+suatu negara.
+
+penduduk miskin menggunakan
+
+Jurnal Ekonomi Pembangunan, Vol. 15, No. 2, Desember 2017
+
+185
+
+Analisis Pengaruh Tingkat Pengangguran Terbuka.............(Shinta Setya Ningrum)
+data jumlah penduduk miskin
+
+yaitu individu (cross section) dan
+
+Indonesia
+
+2011-2015.
+
+waktu (time series), dimana setiap
+
+(dalam persen). Sumber : BPS
+
+unit cross section (individu) diulang
+
+Indonesia.
+
+dalam beberapa periode waktu.
+
+2. TPT
+
+(X1)
+
+tahun
+
+adalah
+
+persentase
+
+Kelebihannya
+
+yaitu
+
+dapat
+
+penduduk dalam angkatan kerja
+
+mengakomodasi keheterogenan antar
+
+yang
+
+mata
+
+individu secara eksplisit. Selain itu,
+
+pencaharian dan sedang mencari
+
+penggabungan antara individu (cross
+
+pekerjaan
+
+masing-masing
+
+section) dan waktu (time series)
+
+provinsi. (dalam persen). Sumber
+
+membuat data panel menjadi lebih
+
+: BPS Indonesia.
+
+informatif, memperbanyak derajat
+
+3. Indeks
+(X2)
+
+tidak
+
+mempunyai
+
+di
+
+Pembangunan
+
+Manusia
+
+bebas
+
+yaitu
+
+capaian
+
+Persamaannya, seperti berikut:
+
+ukuran
+
+pembangunan manusia berbasis
+
+dan
+
+lebih
+
+efisien.
+
+𝑌𝑖 = 𝛽0 + 𝛽1 𝑋1𝑖 + 𝛽2 𝑋2𝑖 + 𝛽3 𝑋3𝑖 + 𝑒𝑖 (1)
+
+sejumlah komponen dasar kualitas
+hidup. Data IPM menggunakan
+data IPM Indonesia tahun 20112015. (dalam persen). Sumber :
+BPS Indonesia.
+4. Upah Minimum (X3) merupakan
+sumber penghasilan, bila sumber
+
+Dimana :
+𝑌𝑖 = jumlah penduduk miskin
+𝛽0 = intersep
+𝑋1𝑖 = tpt
+𝑋2𝑖 = ipm
+𝑋3𝑖 = upah minimum
+
+penghasilan turun atau tetap maka
+
+𝛽1 , 𝛽2, 𝛽3 = koefisien regresi
+
+kesejahteraan juga turun atau
+
+𝒆𝒊 = error term
+Ada tiga model data panel,
+
+tetap dan itu juga pasti akan
+mempengaruhi
+
+tingkat
+
+kemiskinan. Data yang dipakai
+
+yaitu :
+1.
+
+Pooled/Common Effects (CE)
+
+yaitu upah minimum Indonesia
+
+Pooled/common effects adalah
+
+tahun 2011-2015. (dalam Rupiah).
+
+model paling sederhana yang
+
+Sumber : BPS Indonesia.
+
+mengasumsikan bahwa tidak
+
+Pada penelitian ini digunakan
+
+ada
+
+keheterogenan
+
+model data panel. Data panel yaitu
+
+individu
+
+yang
+
+data yang mempunyai dua dimensi
+
+(intersep
+
+sama).
+
+Jurnal Ekonomi Pembangunan, Vol. 15, No. 2, Desember 2017
+
+antar
+
+terobservasi
+Estimasi
+
+186
+
+Analisis Pengaruh Tingkat Pengangguran Terbuka.............(Shinta Setya Ningrum)
+parameter
+
+2.
+
+3.
+
+pooled
+
+model
+
+observasi
+
+dapat
+
+diatasi
+
+menggunakan metode OLS.
+
+menggunakan
+
+Fixed Effects (FE)
+
+model komponen error.
+
+Model Fixed Effects, intersep
+
+Dari ketiga pendekatan diatas
+
+pada regresi dapat dibedakan
+
+ditentukan dengan Uji Chow dan Uji
+
+antar individu karena setiap
+
+Hausman. Selanjutnya, uji hipotesis
+
+individu dianggap mempunyai
+
+(uji
+
+karakteristik tersendiri.
+
+koefisien
+
+Random Effects (RE)
+
+mengetahui kebaikan modelnya.
+
+Random
+
+PEMBAHASAN
+
+Effects
+
+merupakan
+
+t-statistik,
+
+pendekatan
+
+uji
+
+F-statistik,
+
+determinasi)
+
+untuk
+
+model yang terdapat hubungan
+
+Berikut merupakan uji Fixed Effects
+
+error term karena berubahnya
+
+yang digunakan sebagai acuan untuk
+
+waktu
+
+mengerjakan uji hipotesisnya.
+
+karena
+
+perbedaan
+
+Tabel 1. Fixed Effects
+Dependent Variable: Y
+Method: Panel EGLS (Cross-section weights)
+Date: 04/03/17 Time: 22:33
+Sample: 2011 2015
+Periods included: 5
+Cross-sections included: 33
+Total panel (balanced) observations: 165
+Variable
+
+Coefficient Std. Error
+
+t-Statistic
+
+Prob.
+
+C
+X1
+X2
+X3
+
+68.39714 9.082023
+0.073014 0.022934
+-0.865177 0.138702
+1.33E-06 2.57E-07
+
+7.531047
+3.183636
+-6.237663
+5.163386
+
+0.0000
+0.0018
+0.0000
+0.0000
+
+Effects Specification
+Cross-section fixed (dummy variables)
+Weighted Statistics
+R-squared
+0.994923 Mean dependent var
+Adjusted R-squared 0.993546 S.D. dependent var
+S.E. of regression 0.743230 Sum squared resid
+F-statistic
+722.2959 Durbin-Watson stat
+Prob(F-statistic)
+0.000000
+
+18.50421
+11.53453
+71.25836
+1.676583
+
+Unweighted Statistics
+R-squared
+Sum squared resid
+
+0.989022
+74.50472
+
+Mean dependent var 12.25048
+Durbin-Watson stat 1.474326
+
+Sumber: Output Eviews 9
+
+Jurnal Ekonomi Pembangunan, Vol. 15, No. 2, Desember 2017
+
+187
+
+Analisis Pengaruh Tingkat Pengangguran Terbuka.............(Shinta Setya Ningrum)
+Berdasarkan
+
+hasil
+
+estimasi
+
+untuk Fixed Effects secara statistik
+
+H0 .
+
+menolak
+
+FE
+
+lebih
+
+tepat
+
+digunakan.
+
+variabel TPT (X1), IPM (X2), Upah
+
+Berdasarkan hasil pemilihan
+
+Minimum (X3) signifikan. Dimana
+
+model diatas maka digunakan Fixed
+
+nilai probabilitas TPT (X1) sebesar
+
+Effects. Selanjutnya akan dianalisis
+
+0,0018, nilai probabilitas IPM (X2)
+
+lebih lanjut dengan menggunakan uji
+
+sebesar 0,0000, dan nilai probabilitas
+
+hipotesis
+
+(uji
+
+t-statistik,
+
+uji
+
+Upah Minimum (X3) sebesar 0,0000
+
+statistik,
+
+dan
+
+uji
+
+koefisien
+
+< ∝ 0,05.
+
+determinasi).
+
+Tabel 2. Uji Chow
+
+Tabel 4. Nilai Hitung t dan Nilai
+
+Redundant Fixed Effects Tests
+
+Hitung Tiap Variabel
+
+Equation: FE
+
+Vari
+able
+
+Test cross-section fixed effects
+Effects Test
+
+Statistic
+
+d.f.
+
+Prob.
+
+Cross-section F 462.605058 (32,129) 0.0000
+
+C
+X1
+X2
+X3
+
+Coefficie
+nt
+68.39714
+0.073014
+-0.865177
+1.33E-06
+
+F-
+
+Std. Error
+
+t-Statistic
+
+Prob.
+
+9.082023
+0.022934
+0.138702
+2.57E-07
+
+7.531047
+3.183636
+-6.237663
+5.163386
+
+0.0000
+0.0018
+0.0000
+0.0000
+
+Sumber: Output pada Eviews 9
+
+Dari tabel diatas dapat dilihat
+Sumber: Output Eviews 9
+
+Berdasarkan
+
+Uji
+
+Chow,
+
+diperoleh nilai Prob.F = 0,000. Nilai
+Prob.F < ∝ 0,05, menerima H1 .
+Dengan demikian, FE lebih tepat
+
+sebesar 0,0018 < 0,05 maka variabel
+X1 signifikan terhadap (Y). TPT
+berpengaruh positif dan signifikan
+terhadap jumlah penduduk miskin
+
+digunakan.
+
+Indonesia tahun 2011-2015. Nilai
+
+Tabel 3. Uji Hausman
+Correlated Random Effects Hausman Test
+Equation: RE
+Test cross-section random effects
+Chi-Sq.
+Test Summary Statistic
+
+bahwa nilai probabilitas TPT (X1)
+
+Chi-Sq.
+d.f.
+Prob.
+
+probabilitas
+
+IPM
+
+(X2)
+
+sebesar
+
+0,0000 < 0,05 maka variabel X2
+signifikan
+
+terhadap
+
+(Y).
+
+IPM
+
+berpengaruh
+
+positif
+
+dansignifikan
+
+terhadap jumlah penduduk miskin
+
+Cross-section
+random
+1.019912 3
+
+0.7964
+
+Berdasarkan
+
+Hausman,
+
+probabilitas upah minimum (X3)
+
+diperoleh nilai Prob.F = 0,7964.
+
+sebesar 0,0000 < 0,05 maka variabel
+
+Nilai Prob.F > ∝ 0,05, gagal
+
+X3 signifikan terhadap (Y). Upah
+
+Uji
+
+Indonesia tahun 2011-2015. Nilai
+
+minimum berpengaruh positif dan
+
+Jurnal Ekonomi Pembangunan, Vol. 15, No. 2, Desember 2017
+
+188
+
+Analisis Pengaruh Tingkat Pengangguran Terbuka.............(Shinta Setya Ningrum)
+signifikan terhadap jumlah penduduk
+
+miskin sebesar 0,073014 persen dan
+
+miskin Indonesia tahun 2011-2015.
+
+sebaliknya.
+
+Uji F-statistik
+
+Indikator pengangguran dipilih
+
+Berdasarkan hasil pengamatan
+
+berdasarkan
+
+kenyataan
+
+bahwa
+
+data diatas diketahui bahwa nilai df1
+
+indikator tersebut terkait tingkat
+
+sebesar 3 dan df2 = n-k-1 sebesar
+
+pendapatan. Seorang pengangguran
+
+161
+
+(2,66)
+
+∝
+
+pada
+
+(0.05).
+
+tentunya
+
+tidak
+
+mempunyai
+
+Fhitung (722,2959) > Ftabel (2,66)
+
+penghasilan
+
+dengan demikian H1 diterima karena
+
+Kebutuhan masyarakat yang cukup
+
+Fhitung > Ftabel
+
+tinggi
+
+artinya
+
+bahwa
+
+dari
+
+dan
+
+pekerjaan.
+
+bermacam-macam
+
+variabel TPT (X1), IPM (X2), dan
+
+tersebut membuat mereka bekerja
+
+Upah
+
+keras mencukupi kebutuhannya.
+
+Minimum
+
+(X3)
+
+bersama-sama
+
+secara
+
+Yang bisa dilakukan
+
+signifikan
+
+yaitu
+
+mempengaruhi (Y) pada tingkat
+
+bekerja untuk mendapatkan suatu
+
+kepercayaan 95%.
+
+penghasilan,
+
+jika
+
+Uji R-Squared
+
+mereka
+
+tidak
+
+tidak
+
+bekerja
+
+mencukupi
+
+Nilai Adjusted R-Square adalah
+
+kebutuhannya secara baik. Ketika
+
+sebesar 0,993546 yang artinya 99,35
+
+kebutuhan tidak terpenuhi secara
+
+persen variasi (Y) dapat dijabarkan
+
+baik,
+
+pada model statistik yaitu TPT, IPM,
+
+menjadi miskin dan mengakibatkan
+
+dan upah minimum. Sedangkan 0,65
+
+membengkaknya jumlah penduduk
+
+persen variasi dari (Y) dijelaskan
+
+miskin.
+
+dampaknya
+
+mereka
+
+akan
+
+oleh faktor-faktor diluar model.
+
+Pengaruh TPT dan kemiskinan
+
+Pengaruh TPT dengan Jumlah
+
+ini juga sesuai dengan penelitian oleh
+
+Penduduk Miskin
+
+Mufid (2014)
+
+yang
+
+menunjukan
+
+TPT berpengaruh positif dan
+
+bahwa variabel TPT positif dan
+
+signifikan terhadap jumlah penduduk
+
+berpengaruh signifikan terhadap (Y).
+
+miskin Indonesia tahun 2011-2015.
+
+Hal tersebut menyebabkan penduduk
+
+Nilai
+
+berusaha
+
+koefisien
+
+TPT
+
+sebesar
+
+untuk
+
+mempersiapkan
+
+0,073014 memiliki arti bahwa setiap
+
+membuka usaha sendiri, selain itu
+
+kenaikan TPT sebesar 1 persen dapat
+
+juga ada yang sedang menunggu
+
+meningkatkan
+
+untuk
+
+jumlah
+
+penduduk
+
+memulai
+
+Jurnal Ekonomi Pembangunan, Vol. 15, No. 2, Desember 2017
+
+bekerja
+
+yang
+
+189
+
+Analisis Pengaruh Tingkat Pengangguran Terbuka.............(Shinta Setya Ningrum)
+termasuk
+
+dalam
+
+kategori
+
+pengangguran terbuka.
+Jika
+
+kita
+
+mengurangi
+
+tingkat
+
+kemiskinan.
+
+Hasil regresi juga ditunjang dengan
+tinjau
+
+dari
+
+naiknya IPM Indonesia dari tahun ke
+
+perseorangan, pengangguran dapat
+
+tahun sehingga meningkatnya IPM
+
+menyebabkan
+
+dapat mengurangi penduduk miskin
+
+kekacauan
+
+pada
+
+bidang ekonomi dan sosial. Apabila
+
+Indonesia.
+
+pengangguran di suatu negara buruk,
+
+Pengaruh Upah Minimum dengan
+
+akan menimbulkan kekacauan politik
+
+Jumlah Penduduk Miskin
+
+dan
+
+sosial.
+
+Hal
+
+tersebut
+
+Upah minimum berpengaruh
+
+untuk
+
+positif dan signifikan terhadap (Y).
+
+menyebabkan
+
+efek
+
+buruk
+
+kehidupan
+
+dan
+
+pembangunan
+
+Nilai
+
+koefisien
+
+upah
+
+ekonomi jangka panjang.
+
+sebesar
+
+Pengaruh IPM dengan Jumlah
+
+setiap
+
+Penduduk Miskin
+
+sebesar 1 juta rupiah maka dapat
+
+IPM berpengaruh negatif dan
+signifikan
+
+terhadap
+
+(Y).
+
+Nilai
+
+1.33E-06
+
+minimum
+
+kenaikan
+
+menunjukkan
+
+upah
+
+minimum
+
+meningkatkan (Y) sebesar 1.33E-06
+juta rupiah dan sebaliknya.
+
+koefisien IPM sebesar -0,865177 ,
+
+Pengaruh diatas ini juga sesuai
+
+setiap naiknya IPM sebesar 1 persen
+
+dengan penelitian oleh Yuda Satria
+
+dapat mengurangi jumlah penduduk
+
+(2016) yang menunjukan bahwa
+
+miskin sebesar 0,865177 persen dan
+
+variabel upah minimum positif dan
+
+sebaliknya.
+
+signifikan
+
+terhadap
+
+kemiskinan,
+
+Pengaruh IPM ini juga sesuai
+
+sektor terbesar yang mendukung
+
+dengan penelitian oleh Mufid (2014)
+
+perekonomian di Indonesia adalah
+
+yang
+
+menurunnya
+
+sektor
+
+IPM
+
+naik
+
+pertanian merupakan sektor informal.
+
+mengakibatkan naiknya produktifitas
+
+Sektor informal tersebut masih
+
+menunjukkan
+
+kemiskinan
+
+saat
+
+pertanian,
+
+kerja penduduk yang menaikkan
+
+belum
+
+penghasilan.
+
+masyarakat
+
+Dengan meningkatnya suatu
+pendapatan
+
+akan
+
+menyebabkan
+
+masyarakat
+
+mampu
+
+mencukupi
+
+kebutuhannya
+
+serta
+
+dapat
+
+bisa
+
+dimana
+
+sektor
+
+mensejahterakan
+
+Indonesia.
+
+Peneliti
+
+menemukan hubungan positif upah
+minimum dengan jumlah penduduk
+miskin
+pekerjaan
+
+wajar
+
+karena
+
+mayoritas
+
+masyarakat
+
+Indonesia
+
+Jurnal Ekonomi Pembangunan, Vol. 15, No. 2, Desember 2017
+
+190
+
+Analisis Pengaruh Tingkat Pengangguran Terbuka.............(Shinta Setya Ningrum)
+adalah bekerja pada sektor informal
+
+sebesar
+
+dan adanya faktor biaya sosial
+
+sebaliknya.
+
+inflasi.
+
+0,073014
+
+persen
+
+dan
+
+IPM dan Jumlah Penduduk
+
+Banyaknya uang dicetak oleh
+
+Miskin. Dari tabel 1 menunjukkan
+
+pemerintah tidak menyebabkan upah
+
+IPM negatif dan signifikan terhadap
+
+bergantung pada uang dicetak. Jika
+
+(Y). Nilai koefisien IPM sebesar -
+
+pemerintah
+
+menurunkan
+
+inflasi
+
+0,865177, setiap peningkatan IPM
+
+memperlambat
+
+tingkat
+
+sebesar 1 persen dapat megurangi
+
+pertumbuhan uang, para pekerja
+
+(Y) sebesar 0,865177 persen dan
+
+tidak melihat upah naik dengan
+
+sebaliknya.
+
+dengan
+
+cepat. Pada saat inflasi mengalami
+
+Upah Minimum dan Jumlah
+
+kelambatan, perusahaan akan sedikit
+
+Penduduk Miskin. Dari tabel 1
+
+menaikkan
+
+setiap
+
+menunjukkan upah minimum positif
+
+tahunnya dan para pekerja menerima
+
+dan signifikan terhadap (Y). Nilai
+
+upah yang lebih kecil.
+
+koefisien upah minimum sebesar
+
+harga
+
+produk
+
+1.33E-06,
+PENUTUP
+Dari hasil sebelumnya, penulis
+dapat menarik beberapa kesimpulan
+mengenai
+
+tingkat
+
+pengangguran
+
+terbuka,
+
+indeks
+
+pembangunan
+
+manusia,
+
+dan
+
+upah
+
+minimum
+
+terhadap jumlah penduduk miskin di
+Indonesia. Kesimpulan yang dapat
+diambil adalah sebagai berikut:
+
+Miskin. Dari tabel 1 dapat dilihat
+bahwa TPT positif dan signifikan
+terhadap (Y). Nilai koefisien TPT
+0,073014
+
+memiliki
+
+arti
+
+bahwa setiap kenaikan TPT sebesar 1
+persen
+
+dapat
+
+meningkatkan
+
+kenaikan
+
+upah
+
+minimum sebesar 1 juta rupiah maka
+dapat meningkatkan (Y) sebesar
+1.33E-06 juta rupiah dan sebaliknya.
+Berdasarkan hasil penelitian
+maka saran yang disampaikan yaitu
+pemerintah
+
+diharapkan
+
+tanggap
+
+dengan permasalahan kemiskinan,
+tingkat pengangguran terbuka, indeks
+pembangunan manusia, dan upah
+
+TPT dan Jumlah Penduduk
+
+sebesar
+
+setiap
+
+(Y)
+
+minimum.
+
+Bagaimanapun
+
+hal
+
+tersebut menjadi tanggung jawab
+negara. Peneliti berikutnya supaya
+dapat menganalisis variabel-variabel
+lainnya yang dapat mempengaruhi
+kemiskinan.
+
+Oleh
+
+karenanya
+
+diperlukan
+
+penelitian
+
+mendalam
+
+Jurnal Ekonomi Pembangunan, Vol. 15, No. 2, Desember 2017
+
+191
+
+Analisis Pengaruh Tingkat Pengangguran Terbuka.............(Shinta Setya Ningrum)
+dengan data dan metode yang lebih
+lengkap
+
+sehingga
+
+menyempurnakan
+
+hasil
+
+dapat
+penelitian
+
+yang telah ada.
+DAFTAR PUSTAKA
+BPS Indonesia. 2015. Data dan
+Informasi
+IPM Menurut
+Provinsi 1996-2013. Jakarta:
+BPS Indonesia.
+---------------------. 2016. Data dan
+Informasi
+IPM Menurut
+Provinsi 2010-2015. Jakarta:
+BPS Indonesia.
+---------------------. 2013. Data dan
+Informasi Jumlah Penduduk
+Miskin 2007-2012. Jakarta:
+BPS Indonesia.
+---------------------. 2017. Data dan
+Informasi Jumlah Penduduk
+Miskin 2013-2016. Jakarta:
+BPS Indonesia.
+---------------------. 2016. Data dan
+Informasi
+TPT
+Menurut
+Provinsi 1986-2016. Jakarta:
+BPS Indonesia.
+
+---------------------. 2017. Data dan
+Informasi Upah Minimum
+Menurut Provinsi 1997-2016.
+Jakarta: BPS Indonesia.
+---------------------. 2016. Statistik
+Indonesia 2016. Jakarta: BPS
+Indonesia.
+Mufid, Fatkhul Cholili. 2014.
+Analisis
+Pengaruh
+Pengangguran, PDRB, dan
+IPM
+Terhadap
+Jumlah
+Penduduk Miskin. Malang:
+Universitas Brawijaya.
+Nasir, M. 2008. Metode Penelitian.
+Jakarta: Ghalia.
+Sugiyono. 2011. Statistika untuk
+Penelitian.
+Bandung:
+Alfabeta.
+Sukirno, Sadono. 1997. Pengantar
+Teori Makroekonomi. Jakarta:
+Raja Grafindo Persada.
+Yuda, Satria. 2016. Pengaruh Upah
+Minimum dan Distribusi
+Pendapatan
+Terhadap
+Jumlah Penduduk Miskin
+Jatim Tahun 2010-2014.
+Malang:
+Universitas
+Muhammadiyah Malang.
+
+Jurnal Ekonomi Pembangunan, Vol. 15, No. 2, Desember 2017
+
+192
+
+

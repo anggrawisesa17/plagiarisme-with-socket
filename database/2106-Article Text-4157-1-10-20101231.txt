@@ -1,0 +1,278 @@
+Jurnal Pustakawan Indonesia Volume 10 No. 1
+
+TINJAUAN BUKU
+PERPUSTAKAAN DIGITAL : KESINAMBUNGAN DAN DINAMIKA
+mengembangkan dan mengelola perpustakaan digital.
+
+Judul
+
+: Perpustakaan Digital: Kesinambungan dan Dinamika
+Penulis
+: Putu Laxman Pendit
+Dimensi : 18,5 X 26,5 Cm
+Tebal
+: 203 halaman
+Penerbit : Jakarta: Cita Karyakarsa
+Mandiri
+Cetakan : I tahun 2009
+ISBN
+: 978-979-16952-2-0
+Peresensi : Abdul Rahman Saleh
+Tidak banyak buku yang ditulis oleh
+pustakawan di negeri ini, apalagi buku
+yang membahas teknologi informasi.
+Satu diantara yang sedikit tersebut
+adalah buku yang berjudul Perpustakaan
+Digital: Kesinambungan dan Dinamika.
+
+Penulis buku ini patut diacungi dua
+jempol, karena yang menulis buku ini
+adalah dari keluarga “Pustakawan” yaitu
+Ilmuwan Bidang Perpustakaan. Mengapa
+demikian? Pertama, belum pernah
+ditemukan buku teks yang membahas
+perpustakaan digital dalam bahasa
+Indonesia yang ditulis oleh “orang
+perpustakaan”. Kedua, buku ini
+membahas perpustakaan digital dari
+perspektif perpustakaan. Buku ini akan
+“sedikit”
+menghilangkan
+keraguan
+kolega profesi pustakawan yaitu
+“computer
+scientist”
+akan
+kualitas
+pustakawan. Mengapa dikatakan sedikit?
+Karena upaya Putu Laxman Pendit ini
+harus diikuti oleh upaya para pustakawan lainnya untuk meningkatkan
+kualitas
+dan
+“skill”nya
+dalam
+
+Banyak kasus yang menunjukkan bahwa
+perpustakaan digital seolah-olah bukan
+urusan pustakawan, tetapi urusan ahli
+komputer. Padahal jika dilihat dari istilah
+“Perpustakaan Digital” maka pengertian
+istilah tersebut adalah “Perpustakaan”.
+Perpustakaan ini merupakan jawaban
+dari sebuah pertanyaan “apakah sebetulnya perpustakaan digital tersebut?”. Kata
+digital yang mengikuti kata perpustakaan merupakan kata yang menerangkan bahwa bentuk Perpustakaan
+tersebut
+adalah
+Digital.
+Bukan
+perpustakaan yang lain.
+Berbicara soal perpustakaan digital,
+maka kita tidak bisa terlepas dari
+pembicaraan masalah sistem informasi.
+Pada model sistem informasi ada lima
+komponen yang terlibat yaitu perangkat
+keras (hardware), perangkat lunak
+(software), jaringan komputer (netware),
+sumberdaya manusia (brainware) dan data
+(dataware). Buku Putu Laxman Pendit ini
+membahas kelima komponen ini. Tentu
+saja dengan kadar kedalaman yang
+berbeda. Putu lebih banyak menekankan
+pembahasan pada dataware (termasuk
+metadata), dan brainware atau menurut
+istilah Putu adalah “Perangkat Benak”.
+Memang hal ini yang harus dibahas oleh
+penulis yang berasal dari kalangan
+Pustakawan.
+Putu juga mengingatkan bahwa dengan
+berkembangnya perpustakaan digital ini
+akan
+terjadi
+perubahan
+peran
+pustakawan. Pustakawan dalam suatu
+perpustakaan
+mestinya
+melakukan
+transformasi menjadi information navigator
+atau cybernavigator (hal. 23), bukan hanya
+memikirkan bagaimana melakukan
+transaksi sirkulasi. Proses sirkulasi atau
+peminjaman dan pengembalian pada
+perpustakaan
+digital
+juga
+akan
+mengalami perubahan konsep dari yang
+59
+
+Jurnal Pustakawan Indonesia Volume 10 No. 1
+tadinya dengan kata pinjam akan terjadi
+perpindahan fisik koleksi dari perpustakaan kepada pemustaka menjadi
+perpindahan berkas buku (e-book) dari
+perpustakaan ke pemustaka (hal. 23).
+Namun demikian konsep ini menyisakan
+pertanyaan, apakah perpindahan berkas
+seperti ini tidak melanggar “copyright”?
+Terutama jika buku elektronik tersebut
+diproduksi sebagai komoditas bisnis.
+Jika tidak, dikhawatirkan akan terjadi
+penyebaran yang tidak terkendali (abuse)
+terhadap berkas buku elektronik
+tersebut yang tentunya sangat merugikan
+baik
+penulis
+maupun
+penerbit.
+Mungkinkah dikembangkan teknologi
+dimana buku yang “dipinjam” tersebut
+akan secara otomatis “rusak” sesudah
+masa pinjamannya habis (expired)?
+Pada halaman 26 Putu menjelaskan
+proses interaksi antara pengguna
+perpustakaan dengan perpustakaan yang
+seolah-olah hanya melibatkan dua pihak
+saja, padahal sebenarnya masih ada “tiga
+pemeran utama” yang tidak terlihat.
+Penjelasan ini sangat berguna bagi para
+pustakawan yang sebagian besar tidak
+atau belum mengenal TI, sebab para
+pustakawan tersebut beranggapan bahwa
+perpustakaan digital itu bisa berjalan
+dengan sendirinya setelah sistem
+tersebut dibeli.
+Pada bagian lain Putu membahas
+perpustakaan digital dari sisi metodologi
+pengembangan sistem. Beberapa model
+dijelaskan seperti model waterfall, SDLC,
+SSADM dan lain-lain (hal 171 – 184).
+Pembahasan mengenai Adaptive Software
+Development perlu digarisbawahi, karena
+sangat sesuai dengan kondisi kita. Pada
+bagian ini Pak Putu menjelaskan bahwa
+para pengembang software menolak
+membangun software monumental dan
+memilih prinsip pembuatan software
+dengan teknis “tepat guna” (hal. 176).
+Ini sangat cocok dengan kondisi
+Indonesia mengingat sebagian besar
+pustakawan memang belum menguasai
+TI sehingga partisipasi pustakawan
+dalam pengembangan software memang
+sangat minimal. Banyak contoh kasus
+60
+
+dimana pengembangan software yang
+memakan biaya sangat besar akhirnya
+tidak digunakan oleh pustakawan karena
+antara
+kebutuhan
+perpustakaan
+“mungkin” tidak selalu sesuai dengan
+apa yang dibuat oleh pengembang, atau
+pustakawan yang harus menjalankan
+sistem tersebut tidak mampu mengikuti
+perkembangan teknologi yang terjadi.
+Oleh karena itu Putu melengkapi
+pembahasan bukunya dari sisi SDM
+yang mengembangkan dan menangani
+perpustakaan digital ini. Pada bagian ini
+dijelaskan bahwa pertama, sering terjadi
+pada pengembangan sistem, pustakawan
+sering “dilupakan” dan tidak diajak
+dalam merencanakan. Menurut buku ini
+pustakawan dianggap tidak langsung
+berhubungan dengan strategi organisasi.
+Kedua, sebuah penerapan teknologi
+yang bersifat strategis itu sendiri sering
+diartikan dan dipusatkan pada transformasi organisasi lewat pembelajaran
+organisasi yang tidak melibatkan
+pustakawan,
+karena
+pustakawan
+dianggap berada di luar bidangnya.
+Ketiga (dan ini yang harus menjadi
+tantangan bagi para pustakawan),
+manajer senior dalam sebuah organisasi
+cenderung
+menganggap
+bahwa
+pustakawan hanya dapat dikaitkan
+dengan perpustakaan dalam pengertian
+“tradisional”.
+Keempat (ini juga harus menjadi
+perhatian para pustakawan), Pustakawan
+sendiri tidak merasa perlu mengubah
+persepsi itu.
+Kelima, ada pola pikir yang sudah baku
+(mindset) di kalangan pustakawan yang
+sudah tidak cocok lagi dengan perkembangan lingkungan kerja organisasi.
+Salah satunya adalah pustakawan adalah
+penyedia jasa, sementara lingkungan
+kerja membutuhkan mitra kerja, bukan
+penyedia jasa. (hal. 185). Apa yang
+diungkapkan dalam buku ini mengenai
+pustakawan menjadikan tantangan bagi
+para pustakawan dan para pendidik
+pustakawan untuk mengubah persepsi
+seperti yang selama ini terjadi.
+
+Jurnal Pustakawan Indonesia Volume 10 No. 1
+Dari segi fisik dan penampilan buku,
+harus diakui bahwa banyak buku lain
+(terutama buku-buku bidang komputer)
+yang mempunyai penampilan lebih
+menarik. Ukuran buku ini “agak” terlalu
+tinggi, bahkan jika dibandingkan dengan
+buku teks terbitan asing. Penulisan
+dengan dua kolom yang sama dengan
+penulisan jurnal ilmiah memberi kesan
+bahwa buku ini lebih mirip jurnal ilmiah,
+padahal setelah dibaca, maka buku ini
+adalah buku teks. Tidak diketahui
+apakah memang ada maksud tertentu
+dari
+penulis
+ataupun
+penerbit
+menampilkan buku ini mirip dengan
+jurnal ilmiah.
+Dari aspek readability sudah bagus,
+kecuali beberapa gambar yang tampil
+kurang jelas (dan ini diakui oleh
+penerbitnya dengan memberikan lembar
+ralat yang terpisah). Kalaupun harus
+dikritik, maka penggunaan font yang
+terlalu kecil membuat pembaca yang
+sudah berumur agak “kesulitan”
+membaca buku ini.
+
+Akhirnya, dapat dikatakan buku ini
+sangat tepat untuk dijadikan buku teks
+atau buku pegangan wajib bagi
+mahasiswa jurusan perpustakaan, baik
+mahasiswa S1 lebih-lebih mahasiswa S2.
+Mungkin agak sulit dicerna oleh
+mahasiswa tingkat program diploma.
+Walaupun demikian, para pustakawan
+praktisi ada baiknya membaca buku ini
+karena buku ini pasti menggugah
+kesadaran para pustakawan mengenai
+perannya dalam memainkan perpustakaan digital.
+Sekali lagi perlu diberikan apresiasi yang
+sangat tinggi kepada penulis dengan
+terbitnya buku ini yang pasti memperkaya
+khasanah
+bacaan
+bidang
+perpustakaan berbahasa Indonesia yang
+memang masih sangat miskin ini.
+Semoga dengan terbitnya buku ini akan
+menggugah penulis lain untuk menulis
+buku perpustakaan khususnya mengenai
+TI di perpustakaan. (Abdul Rahman
+Saleh, email: rahman@ipb.ac.id).
+
+61
+
+

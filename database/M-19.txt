@@ -1,0 +1,452 @@
+SEMINAR MATEMATIKA DAN PENDIDIKAN MATEMATIKA UNY 2017
+
+M-19
+
+Analisis Kesalahan Siswa Menurut Kastolan Dalam
+Pemecahan Masalah Matematika
+Annisa Sulistyaningsih1, Ellya Rakhmawati2
+Universitas PGRI Semarang1
+Universitas Muhammadiyah Yogyakarta2
+adem.nyesss@gmail.com
+Abstrak—Penulisan dalam makalah ini diperoleh dari hasil penelitian yang sudah
+
+dilakukan oleh penulis dengan latar belakang masalah berupa kesalahan yang
+dilakukan siswa ketika menyelesaikan soal persamaan kuadrat. Adapun beberapa
+faktor yang mempengaruhi terjadinya kesalahan siswa, diantaranya langkah-langkah
+pemecahan masalah yang rumit serta susah untuk dipahami sehingga pemecahan
+masalah dalam matematika merupakan keterampilan yang sangat kompleks.
+Penulisan ini bertujuan untuk mendeskripsikan jenis kesalahan siswa dalam
+menyelesaikan soal persamaan kuadrat. Jenis penulisan ini menggunakan
+pendekatan kualitatif deskripstif. Subjek penulisan adalah siswa kelas X MAN 2
+Semarang. Teknik pengumpulan data menggunakan tes tertulis, observasi,
+wawancara, dan dokumentasi. Penulisan dalam makalah ini menggunakan tahapan
+kesalahan siswa menurut Kastolan dan penyelesaian masalah menurut Polya.
+Penulisan dalam makalah ini telah menyimpulkan bahwa siswa mengalami
+kesalahan konseptual, prosedural, teknik dan peninjauan kembali dalam pemecahan
+masalah pada tahap menyelesaikan, merencakan, melaksanakan serta meninjau
+kembali.
+Kata kunci : Kesalahan, Pemecahan masalah, Persamaan kuadrat
+Abstrak—The writing in this paper are obtained from the results of research already
+
+carried out by the author with a background issue be errors that are done when the
+students solve quadratic equations. As for some of the factors that affect the
+occurrence of errors students, including troubleshooting steps are complicated and
+difficult to understand so that problem solving in mathematics is a very complex
+skills. Writing aims to describe the types of errors the student in resolving the matter
+of quadratic equations. This type of writing using a qualitative approach to
+deskripstif. The subject of writing are students of class X MAN 2 Semarang.
+Engineering data collection using a written test, observation, interviews, and
+documentation. The writing in this paper using the student's fault according to the
+stages of Kastolan and problem resolution according to Polya. The writing in this
+paper has concluded that students encounter errors conceptual, procedural, and
+review techniques in problem solving at the stage finish, plan your own, implement
+and review resumes.
+Keywords: Error, Problem Solving, Quadratic Equations
+
+I.
+A.
+
+PENDAHULUAN
+
+Latar Belakang
+Pendidikan merupakan suatu kegiatan yang menyeluruh dalam kehidupan manusia. Pendidikan
+dapat mengubah pola pikir manusia untuk melakukan suatu perubahan dan memiliki suatu inovasi
+untuk meningkatkan kualitas diri dalam segala aspek kehidupan. Dalam kurikulum pendidikan di
+Indonesia terdapat salah satu mata pelajaran yang diajarkan di sekolah adalah matematika.
+Sulistyarini (2016:1) berpendapat bahwa matematika merupakan salah satu mata pelajaran yang
+wajib ditempuh oleh setiap siswa sejak dibangku sekolah dasar sampai tingkat sekolah menengah.
+Perkembangan matematika semakin pesat, baik dari materi maupun kegunaan. Matematika
+
+PM-123
+
+ISBN. 978-602-73403-2-9 (Cetak)
+
+978-602-73403-3-6 (On-line)
+
+merupakan pengetahuan yang eksak, benar dan langsung menuju sasaran sehingga dapat membentuk
+disiplin dalam berpikir. Matematika dapat melatih seseorang berpikir sederhana, jelas, tepat dan
+cepat. Simbol dan konsep dalam matematika merupakan alat untuk menyatakan pendapat atau
+gagasan dengan ringkas dan memiliki keindahan tersendiri.
+Matematika memiliki peran strategis dalam proses pendidikan karena banyak cabang ilmu lain
+yang memanfaatkan matematika. Namun pada kenyataan, matematika justru dianggap sebagai mata
+pelajaran yang sulit dipahami dan hanya orang tertentu yang dapat mempelajarinya. Anggapan ini
+membuat siswa takut untuk mempelajari matematika sehingga siswa menjadi pasif di dalam
+pembelajaran (Trianto, 2007:25). Tujuan mata pelajaran matematika untuk semua jenjang
+pendidikan dasar dan menengah adalah agar siswa mampu: (1) Memahami konsep matematika,
+menjelaskan keterkaitan antarkonsep, dan mengaplikasikan konsep atau algoritma secara luwes,
+akurat, efisien dan tepat dalam pemecahan masalah; (2) Melakukan manipulasi matematika dalam
+membuat generalisasi, menyusun bukti, atau menjelaskan gagasan dan pernyataan matematika; (3)
+Memecahkan masalah yang meliputi kemampuan memahami masalah, merancang model
+matematika, menyelesaikan model matematika, dan menafsirkan solusi yang diperoleh; (4)
+Mengkomunikasikan gagasan dengan simbol, tabel, diagram, atau media lain untuk memperjelas
+keadaan atau masalah; dan (5) Memiliki sikap menghargai kegunaan matematika dalam kehidupan
+(Depdiknas, 2016).
+Berdasarkan hasil observasi yang telah dilakukan penulis selama kegiatan yang berlangsung di
+MAN 2 Semarang bahwa ketika guru melakukan kegiatan belajar mengajar sesuai dengan metode
+pembelajaran yang tertera pada Kurikulum 2013. Respon siswa dalam menerima pembelajaran
+dengan materi Persamaan Kuadrat kurang menyenangkan, hal ini disebabkan oleh beberapa faktor,
+salah satunya banyak rumus yang menyebabkan siswa merasa jenuh, langkah-langkah pemecahan
+masalah yang rumit serta susah untuk dipahami dan kurang minat siswa dalam pelajaran
+matematika. Di sini, guru berusaha berperan aktif dalam memberikan motivasi belajar pada siswa
+agar siswa menyukai pelajaran matematika.
+Hasil observasi diatas diperkuat oleh hasil wawancara yang mengatakan bahwa: (1). Guru
+mengalami kesulitan ketika harus menerapkan pembelajaran dengan materi Persamaan Kuadrat yang
+dikaitkan dalam kehidupan sehari-hari, (2). Guru berupaya mengubah pola pikir siswa ke dalam
+pelajaran matematika agar siswa tertarik dan menyukai pelajaran matematika, dan (3). Guru harus
+memiliki wawasan luas agar guru bisa membuat soal cerita Persamaan Kuadrat.
+Dalam pembelajaran di kelas seringkali dijumpai beberapa siswa yang mengalami kesulitan
+belajar termasuk pada materi persamaan kuadrat yang disebabkan ketidakpahaman siswa terhadap
+konsep matematika. Diperkuat hasil penelitian Reid dalam (Jamaris, M., 2013:186) yang
+mengatakan bahwa karakteristik anak yang mengalami kesulitan belajar matematika ditandai oleh
+ketidakmampuan dalam memecahkan masalah yang berkaitan dengan aspek–aspek pemahaman
+dalam proses pengelompokkan, menambah dan mengurangi, persepsi visual, persepsi auditori,
+menghitung, dan mentransfer pengetahuan. Kesulitan yang dimaksud ialah kesalahan dalam
+menyelesaikan soal matematika khususnya materi persamaan kuadrat.
+Kesalahan dalam memecahkan masalah matematika sering terjadi, baik secara tertulis dan
+lisan. Selama proses belajar mengajar matematika, siswa akan menghadapi banyak kendala karena
+pemecahan masalah dalam matematika adalah keterampilan yang sangat kompleks. Terkadang siswa
+tahu cara menjawab pertanyaan yang diajukan, namun ceroboh dalam perhitungan. Menurut
+Laporan Studi Matematika dan Ilmu Pengetahuan Internasional Ketiga (Nurdiana, 2014)
+berdasarkan hasil TIMSS pada tahun 1999 siswa Indonesia berada diperingkat ke 32, pada tahun
+2003 berada diperingkat ke 37 dan pada tahun 2007 berada di peringkat ke 35. Mengatakan bahwa
+siswa Indonesia berada di peringkat 34 dari 38 negara di tingkat Internasional. Ini menunjukkan
+penguasaan matematika antar siswa di Indonesia secara keseluruhan masih lemah. Kelemahan ini
+karena proses belajar yang lebih fokus pada hafalan, melibatkan kurang kerjasama dalam kelompok,
+kurang interaksi dan komunikasi. Penguasaan pengetahuan matematika dasar sangat penting dalam
+pengembangan konsep. Tanpa pemahaman yang jelas tentang konsep dasar dan keterampilan yang
+dipelajari pada tahap awal, akan mengakibatkan proses belajar menjadi lebih sulit pada tahap
+
+PM-124
+
+SEMINAR MATEMATIKA DAN PENDIDIKAN MATEMATIKA UNY 2017
+
+selanjutnya. Hal ini terjadi karena proses pembelajaran dalam matematika dikategorikan sebagai
+proses pembelajaran hirarkis (Liew & Wan Muhammad dalam Zakaria, 2010:105).
+Uraian diatas diperkuat dengan hasil penelitian Astrid (2011:31) menyatakan bahwa siswa
+yang mengalami kesulitan belajar berupa siswa yang tidak menyelesaikan tes, siswa yang
+menyelesaikan tes tetapi hasil penyelesaiannya salah dan siswa yang menyelesaikan tes tetapi salah
+dalam menggunakan prosedur. Jika dilihat dari aspek psikologi, menyelesaikan tes yang dilakukan
+siswa masuk ke dalam memori jangka panjang. Di mana memori jangka panjang merupakan
+kemampuan menyimpan informasi yang cenderung menetap atau permanen (King, Laura, A, 2010).
+Senada dengan Taksnomi Bloom (1956: 1) yang mengatakan ranah kognitif berkenaan dengan
+kemampuan berpikir, di mana kompetensi memperoleh Pengetahuan (C1), Pengenalan (C2),
+Pemahaman (C3), Konseptualisasi (C4), Penentuan (C5), Penalaran (C6). Dalam makalah ini
+menjelaskan bahwa siswa telah memiliki pengetahuan matematika sejak dini; namun sejalannya
+waktu, pengetahuan siswa terhadap matematika membutuhkan suatu pemahaman tentang materi
+Persamaan Kuadrat, agar siswa dapat memeroleh pemahaman dengan cara pengetahuan matematika
+yang dimiliki sejak dini. Siswa bukan hanya memiliki pemahaman akan tetapi, arti pentingnya suatu
+penalaran dalam pembelajaran matematika dibutuhkan pemahaman untuk menyelesaikan suatu
+masalah yang dihadapi siswa ketika menyelesaikan soal matematika yang dipelajari siswa.
+B.
+
+Rumusan Masalah
+Permasalahan dalam penulisan makalah ini dapat dirumuskan sebagai berikut:
+“Bagaimana kesalahan yang dilakukan siswa kelas X MAN 2 Semarang Semester Genap
+Tahun Ajaran 2016/2017 dalam menyelesaikan soal matematika materi persamaan kuadrat dengan
+menggunakan analisis tahapan Kastolan ditinjau dari kemampuan matematika siswa?”.
+
+C.
+
+Tujuan Penulisan Makalah
+Tujuan yang ingin dicapai pada penulisan makalah ini sebagai berikut: Untuk mengetahui jenis
+kesalahan yang dilakukan siswa kelas X MAN 2 Semarang semester genap tahun ajaran 2016/2017
+dalam menyelesaiakan soal matematika materi persamaan kuadrat dengan menggunakan analisis
+tahapan Kastolan ditinjau dari kemampuan matematika siswa.
+
+D.
+
+Manfaat Penulisan Makalah
+Manfaat dari penulisan makalah ini adalah sebagai berikut:
+1.
+Manfaat Secara Teoritis
+a. Bagi Ilmu Pengetahuan
+Memberikan sumbangan bagi ilmu pengetahuan, khususnya untuk mengetahui
+kesalahan dalam hal pemecahan masalah yang berkaitan dengan materi Persamaan Kuadrat
+dan dapat menjadikan referensi bagi penelitian sejenis.
+2.
+Manfaat Secara Praktis
+a. Bagi siswa
+Untuk memudahkan siswa dalam mempelajari materi persamaan kuadrat serta
+meminimalkan kesalahan yang dilakukan siswa dalam menyelesaikan soal matematika yang
+diberikan guru.
+b. Bagi guru
+Memberikan informasi kepada guru mengenai jenis kesalahan yang dilakukan siswa
+dalam menyelesaikan soal matematika dengan materi persamaan kuadrat. Guru dapat
+mengukur keberhasilan belajar siswa melalui hasil belajar dan diperlukan suatu evaluasi
+dalam proses belajar mengajar.
+c. Bagi sekolah
+Memberikan sedikit pandangan dan pemikiran terhadap peningkatan kemampuan dalam
+mempelajari matematika, khususnya materi Persamaan Kudrat.
+d. Bagi penulis
+
+PM-125
+
+ISBN. 978-602-73403-2-9 (Cetak)
+
+978-602-73403-3-6 (On-line)
+
+Memberikan informasi tentang jenis kesalahan yang dilakukan siswa dengan tahapan
+Kastolan dalam menyelesaikan masalah matematika yang ditinjau dari kemampuan
+matematika siswa
+II.
+
+METODE PENELITIAN
+
+Penulisan pada makalah ini menggunakan pendekatan kualitatif deskripstif karena
+permasalahan yang akan dibahas harus dengan melakukan studi mendalam terhadap suatu fenomena
+dengan mendeskripsikan secara terperinci dan jelas serta memperoleh data yang mendalam dari
+fokus yang telat diteliti. Penulis menggunakan metode kualitatif dengan mengolah data yang bersifat
+deskriptif. Penelitian kualitatif menurut Sugiyono (2016:1) adalah penelitian yang digunakan untuk
+meneliti kondisi objek yang alamiah, di mana penulis sebagai instrumen kunci, teknik pengumpulan
+data dilakukan secara trianggulasi, anlisis data bersifat induktif dan hasil lebih menekankan makna
+daripada generalisasi. Definisi lain penelitian kualitatif yang dikemukakan oleh Bogdan dan Taylor
+(dalam Gunawan, 2014, 82) adalah prosedur penelitian yang menghasilkan data deskriptif, berupa:
+kata-kata tertulis atau lisan dari belakang individu secara holistik (keutuhan). Kualitatif berkaitan
+dengan sapek kualitas dan nilai atau makna yang terdapat di balik fakta.
+Penentuan subjek penulisan makalah ini dipilih berdasarkan beberapa pertimbangan
+diantaranya: Siswa sebagai subyek yang dipilih penulis telah belajar dan mendapatkan pelajaran
+mengenai materi yang telah ditentukan penulis yaitu Persamaan kuadrat, subyek penulis mudah
+diwawancarai, subyek penulis berpotensi untuk diperoleh informasi sedalam-dalamnya,
+mendapatkan izin serta rekomendasi dari guru mata pelajaran tentang siswa yang mempunyai
+kemampuan komunikasi yang baik, sehingga memudahkan penulis untuk mendapat informasi dalam
+wawancara.
+Teknik yang dilakukan dalam pengumpulan data dari hasil penulisan makalah adalah: (1).
+Observasi dalam penelitian kualitatif maka penulis sebagai partisipan yaitu penulis menampakkan
+peran sebagai observer. Penelitian kualitatif menggunakan observasi partisipan sebagai pengamat
+adalah penulis berpartisipasi dalam aktivitas di tempat penelitian (Creswell, 2014:229-232).
+Observasi dilakukan pada saat proses pembelajaran berlangsung di MAN 2 Semarang. Observasi
+meliputi observasi proses mengajar dari guru mata pelajaran dan observasi siswa, (2). Tes Tertulis
+dilaksanakan pada saat penelitian dengan memberikan soal berbentuk uraian kepada siswa setelah
+sebelumnya mendapatkan materi persamaan kuadrat. Metode tes ini digunakan untuk memperoleh
+data tentang kesalahan yang dilakukan siswa dalam memecahkan soal persamaan kuadrat untuk
+kemudian diteliti, (3). Wawancara yang digunakan adalah wawancara semi tersetruktur menurut
+Sugiyono (2016:135) adalah di mana dalam pelaksanaannya lebih bebas bila dibandingkan dengan
+wawancara tersetruktur. Tujuan wawancara semi tersetruktur untuk menemukan permasalahan
+secara lebih terbuka, di mana pihak yang diajak wawancara diminta pendapat dan ide. Dalam
+melakukan wawancara semi tersetruktur, penulis perlu mendengarkan secara teliti serta mencatat
+apa yang dikemukakan oleh informan serta merekam dengan audiotape lalu mentranskripnya
+(Creswell, 2014:272), (4). Dokumentasi dari pelaksanaan penelitian bertujuan untuk memperolah
+data yang mendukung proses penelitian yaitu daftar nama siswa, daftar nilai siswa, dokumentasi
+proses pelaksanaan penelitian dari awal hingga akhir penelitian.
+Instrumen dalam penulisan makalah ini dikelompokan menjadi dua, yaitu: (1). Instrumen
+utama adalah penulis sendiri. Penulis menggunakan metode wawancara berbasis tugas kepada setiap
+subjek. Sebelum dilakukan wawancara, terlebih dahulu kepada setiap subjek diberikan Tes tertulis,
+(2). Instrumen bantu terdiri atas: soal tes tertulis dan pedoman wawancara. Test tertulis merupakan
+komponen pendukung guna melacak kesalahan apa saja yang dilakukan siswa dalam menyelesaikan
+soal Persamaan Kuadrat. Wawancara berisi butiran pertanyaan yang dibuat penulis guna membantu
+menganalisis kesalahan siswa. Pedoman wawancara serta tes tertulis yang telah divalidasi oleh
+dosen dan guru matematika. Dikatakan dapat digunakan jika telah divalidasi dengan hasil layak
+digunakan. Wawancara yang dilakukan berpedoman pada indikator kesalahan menurut Kastolan
+
+PM-126
+
+SEMINAR MATEMATIKA DAN PENDIDIKAN MATEMATIKA UNY 2017
+
+serta dalam pemecahan masalah menurut Polya. Tes tertulis yang diberikan dua kali dengan tipe soal
+yang sama tetapi berbeda kalimatnya.
+Teknik analisis data yang digunakan dalam penulisan makalah ini adalah teknik analisis data
+kualitatif dari Miles dan Huberman. Miles dan Huberman membagi analisis data dalam penelitian
+kualitatif ke dalam tiga tahap, yaitu: kodifikasi data, penyajian data, dan penarikan
+kesimpulan/verifikasi (Afrizal, 2014:178). Miles dan Huberman (1992:16) mengemukakan bahwa
+aktivitas dalam analisis data, yaitu data reducting, data display, dan conclusion drawing /
+verification.
+Pengujian keabsahan data menggunakan empat kriteria, yaitu: kriteria kredibilitas (derajat
+kepercayaan), transferbilitas (keteralihan), dependabilitas (kebergantungan), dan konfirmabilitas
+(kepastian). Namun yang utama adalah uji kredibilitas data (Sugiyono, 2016:121). Penulisan
+makalah ini hanya menggunakan kriteria kredibilitas atau derajat kebebasan saja. Teknik
+pemeriksaan kredibilitas pada penelitian ini menggunakan triangulasi. Triangulasi adalah teknik
+pemeriksaan keabsahan data, diluar data itu sebagai pembanding terhadap data yang ada. Triangulasi
+yang digunakan pada penulisan makalah ini adalah triangulasi waktu. Proses triangulasi waktu
+dilakukan dengan cara membanding hasil data pengamatan atau observasi, tes tulis dan wawancara
+di waktu yang berbeda dengan subjek yang sama.
+III.
+
+HASIL DAN PEMBAHASAN
+
+Berdasarkan hasil analisis dari jawaban siswa, menunjukkan bahwa tidak semua siswa
+mampu dan juga bersedia mengerjakan soal yang diberikan oleh penulis dikarenakan soal berupa
+soal cerita. Siswa merasa soal cerita susah dipahami dikarenakan guru kurang memberi soal
+berbentuk soal cerita. Gurupun ketika diwawancara, memang kurang memberi soal cerita karena
+guru fokus kepada butir soal yang terdapat pada Ujian Nasional. ketika penulis memberikan soal
+kepada seluruh siswa untuk menentukan sampel yang akan diteliti. Penulis hanya mengambil satu
+sampel dengan beberapa pertimbangan yang ditentukan oleh penulis yaitu siswa yang terdapat
+kesalahan yang sedang saja tidak begitu banyak dan tidak begitu sedikit.
+Subjek IA merupakan salah siswa yang telah dipilih penulis sebagai subjek terdapat
+kesalahan pada kesalahan teknik karena tidak mengetahui serta menjelaskan apa yang ditanyakan.
+Siswa kurang hafal dalam menuliskan rumus dasar namun memahami alurnya. Keinginan untuk
+mencoba dengan rumus lain meskipun sedikit lupa dan mengakibatkan tidak dapat menyelesaikan
+hingga menemukan hasil akhir. Dalam hasil akhir, siswa dengan tingkat kemampuan sedang tidak
+melakukan pemeriksaan kembali karena sudah yakin dengan jawaban dan tidak menuliskan
+kesimpulan hasil akhir.
+Hasil analisis Mulyadi diperkuat lagi dengan hasil analisis Musdhalifah, dkk (2013:5) bahwa
+letak kesalahan siswa meliputi kesalahan memahami masalah, transformasi, komputasi, dan
+penyimpulan jawaban. Kesalahan terbanyak yaitu memahami masalah di mana siswa tidak
+menuliskan apa yang diketahui dan apa yang ditanyakan serta kesalahan penyimpulan jawaban yaitu
+siswa tidak menuliskan kesimpulan jawaban yang didapat.
+Penyebab siswa melakukan kesalahan memahami masalah yaitu siswa kurang memahami
+maksud masalah yang diberikan karena kesulitan atau kendala mengubah kalimat cerita ke model
+matematika dan siswa terbiasa mengerjakan secara langsung pada proses perhitungannya tanpa
+menuliskan apa yang diketahui dan ditanyakan terlebih dahulu. Penyebab kesalahan transformasi
+yaitu siswa terbiasa menyelesaikan secara langsung tanpa menuliskan pemisalan model matematika
+yang dipakai dan siswa kurang teliti dalam menuliskan model matematika yang dipakai dalam
+menyelesaikan masalah. Penyebab kesalahan perhitungan (komputasi) yaitu siswa kurang teliti
+dalam melakukan perhitungan dan siswa kurang memahami operasi bilangan bulat. Penyebab dari
+kesalahan hasil penyimpulan jawaban yaitu pada saat siswa mengalami kesulitan dalam
+menyimpulkan hasil akhir yang dikehendaki dan siswa menganggap hasil perhitungan sebagai
+jawaban akhir dari masalah tersebut.
+
+PM-127
+
+ISBN. 978-602-73403-2-9 (Cetak)
+
+978-602-73403-3-6 (On-line)
+
+Dalam pembelajaran di kelas seringkali dijumpai beberapa siswa yang mengalami kesulitan
+belajar termasuk pada materi persamaan kuadrat yang disebabkan ketidak-pahaman siswa terhadap
+konsep matematika. Diperkuat dengan hasil penelitian Reid dalam (Jamaris, M., 2013:186)
+mengatakan bahwa karakteristik anak yang mengalami kesulitan belajar matematika ditandai oleh
+ketidakmampuan dalam memecahkan masalah yang berkaitan dengan aspek–aspek pemahaman
+dalam proses pengelompokkan, menambah dan mengurangi, persepsi visual, persepsi auditori,
+menghitung, dan mentransfer pengetahuan. Dari kesulitan yang dimaksud diatas adalah kesalahankesalahan dalam menyelesaikan soal matematika khususnya pada materi persamaan kuadrat.
+Adanya kesulitan yang dialami siswa dapat terlihat dari banyak atau sedikitnya kesalahan
+yang dilakukan siswa dalam menyelesaikan soal matematika. Hubungan antara kesalahan dan
+kesulitan dapat diperhatikan pada kalimat seperti ini: “Jika seorang siswa mengalami kesulitan maka
+siswa tersebut akan membuat kesalahan”. Rahmat Basuki dalam (Sahriah, 2012:2) mengatakan
+bahwa kesalahan siswa dalam menyelesaikan soal-soal adalah kesalahan konsep, kesalahan operasi
+dan kesalahan ceroboh, dengan kesalahan dominan adalah kesalahan konsep. Diperkuat oleh
+Kurniasari dalam (Ulifa, 2014:124) mengatakan bahwa kesalahan merupakan suatu bentuk
+penyimpangan terhadap hal yang benar, prosedur yang ditetapkan sebelumnya, atau penyimpangan
+dari suatu yang diharapkan.
+Salah satu strategi untuk mengatasi kesalahan–kesalahan yang dilakukan siswa dalam
+menyelesaikan soal matematika yaitu dengan menerapkan pemecahan masalah. Diperkuat oleh
+NCTM (2000) tentang peran matematika yaitu: (1) mathematical communication; (2) mathematical
+reasoning; (3) mathematical problem solving; (4) mathematical connection; (5) mathematical
+representation. Widodo (2013: 107) mengatakan pemecahan masalah adalah proses yang digunakan
+untuk menyelesaikan masalah. Sebagaimana dikatakan Hudoyo (dalam Widjajanti, 2009: 405) maka
+mengajarkan bagaimana menyelesaikan masalah merupakan kegiatan guru untuk memberikan
+tantangan atau motivasi kepada para siswa agar mereka mampu memahami masalah tersebut,
+tertarik untuk memecahkannya, mampu menggunakan semua pengetahuannya untuk merumuskan
+strategi dalam memecahkan masalah tersebut, melaksanakan strategi itu, dan menilai apakah
+jawabannya benar.
+Kastolan dalam (Khanifah, 2013: 3) menyebutkan bahwa kesalahan dalam matematika dibagi
+menjadi 3 jenis, yaitu kesalahan konseptual, kesalahan prosedural dan kesalahan teknik. Kesalahan
+konseptual merupakan kesalahan yang dilakukan siswa dalam menafsir istilah, sifat, fakta, konsep
+dan prinsip. Kesalahan prosedural merupakan kesalahan dalam menyusun symbol, langkah
+peraturan yang hierarkis dan sistematis dalam menjawab suatu masalah. Kesalahan teknik yang
+dilakukan seperti kesalahan dalam penulisan variabel dan kesalahan memahami soal. Menurut
+metode analisis kesalahan Newman diperkenalkan pertama kali pada tahun 1977 oleh Anne
+Newman yakni seorang guru bidang studi matematika diAustralia (dalam Clement, 1980) yaitu
+tahapan membaca (reading) dan memahami (comprehension) makna suatu permasalahan,
+transformasi (transformation), keterampilan proses (processskill), dan penulisan jawaban
+(encoding).
+Kastolan dalam (Khanifah, 2013:3) membedakan jenis kesalahan menjadi 3 yakni kesalahan
+konseptual, kesalahan prosedural, dan kesalahan teknik. Penulis mengelompokan kesalahan kedalam
+kesalahan konspetual jika: (1) Siswa tidak dapat memilih rumus tersebut dengan benar atau lupa
+terhadap rumus yang harus digunakan; (2) Siswa tidak dapat menerapkan rumus tersebut dengan
+benar. Penulis mengelompokan kesalahan kedalam kesalahan prosedural jika: (1). Ketidaksesuaian
+langkah dalam penyelesaian soal yang diperintahkan; (2). Siswa tidak dapat menyelesaikan soal
+sampai pada bentuk paling sederhana. Penulis mengelompokan kesalahan kedalam kesalahan teknik
+jika: (1). Siswa melakukan kesalahan dalam menghitung nilai dari suatu operasi hitung; (2). Siswa
+melakukan kesalahan dalam penulisan yaitu ada konstanta atau variabel yang terlewat atau
+kesalahan memindahkan konstanta atau variabel dari satu langkah ke langkah berikutnya.
+Suherman, dkk (2003:92) mengemukakan bahwa “suatu masalah biasanya memuat suatu
+situasi yang mendorong seseorang untuk menyelesaikannnya akan tetapi tidak tahu secara langsung
+apa yang harus dikerjakan untuk menyelesaikannya”. Oleh karena itu, jika suatu masalah diberikan
+kepada seorang siswa tersebut dapat mengetahui langsung jawaban dengan benar terhadap persoalan
+
+PM-128
+
+SEMINAR MATEMATIKA DAN PENDIDIKAN MATEMATIKA UNY 2017
+
+yang diberikan, maka persoalan tersebut bukan dikatakan sutau masalah. Berdasarkan uraian diatas
+dapat disimpulkan bahwa masalah adalah suatu situasi yang mendorong seseorang untuk
+menyelesaikannnya akan tetapi tidak tahu secara langsung apa yang harus dikerjakan untuk
+menyelesaikannya. Suatu masalah memuat: (1). Keinginan untuk mengetahui; (2). Tidak adanya
+cara yang jelas untuk mendapatkan penyelesaiannya; dan (3). memerlukan suatu usaha dalam
+menyelesaikannya.
+Kesalahan yang dilakukan siswa ditinjau dari langkah-langkah penyelesaian masalah yaitu
+merujuk pada langkah penyelesaian masalah menurut Polya dalam (Gary L. Musser, 1991:6) sebagai
+berikut: memahami masalah (understand the problem), merancang suatu rencana (devise a plan),
+menyelesaikan rencana (carry out the plan), memeriksa kembali (look back). Tujuan penulisan
+makalah ini adalah untuk mengetahui jenis kesalahan yang dilakukan siswa kelas X MAN 2
+Semarang semester genap tahun ajaran 2016/2017 dalam menyelesaiakan soal matematika materi
+persamaan kuadrat dengan menggunakan analisis tahapan Kastolan serta pemecahan masalah
+menurut Polya.
+IV.
+1.
+
+SIMPULAN DAN SARAN
+
+Simpulan
+Berdasarkan penulisan makalah ini yang telah dilakukan dapat diambil kesimpulan yaitu:
+Subjek IA dengan tingkat kemampuan sedang melakukan kesalahan Teknik dalam tahap
+memahami masalah, melakukan kesalahan konseptual dalam tahap merencanakan, melakukan
+kesalahan konseptual dan prosedural dan melakukan kesalahan dalam penulisan jawaban dalam
+tahap meninjau kembali. Hasil menunjukkan bahwa siswa seringkali mengalami kesalahan
+konseptual, prosedural, teknik dan peninjauan kembali.
+Jenis-jenis kesalahan yang dilakukan siswa dalam menyelesaikan permasalahan yang
+berkaitan dengan persamaan kuadrat.
+a. Kesalahan Memahami Masalah
+1) Kesalahan dengan cara menulis apa yang diketahui dengan gambar atau sketsa karena
+dinaggap lebih cepat dan lebih mudah untuk mengerjakannya.
+2) Kesalahan memahami informasi yang diketahui dari soal karena menganggap soal cerita
+sulit untuk menalar dengan logika.
+b. Kesalahan Merencanakan
+1) Kesalahan dalam menulis dan memahami rumus dasar untuk menyelesaikan soal cerita
+tersebut.
+2) Kesalahan kurang teliti saat membaca dan memahami soal cerita tersebut.
+c. Kesalahan Menyelesaikan
+1) Kesalahan dalam menyelesaikan soal hanya dapat menguasai satu cara saja dan yang lain
+belum menguasai dan lupa.
+2) Kesalahan kurang teliti dalam pengucapan dan tidak bisa membedakan akar dua dan
+kuadrat.
+d. Kesalahan Meninjau Kembali
+1) Kesalahan karena tidak memeriksa kembali jawaban dikarenakan sudah yakin dengan
+jawabannya.
+2) Kesalahan tidak menuliskan kesimpulan hasil akhir karena lupa dan ingin cepat selesai.
+
+2.
+
+Saran
+Berdasarkan simpulan yang diberikan, saran dari penulis adalah guru diharapkan lebih
+banyak memberikan soal berupa sola cerita dalam kehidupan sehari-hari agar siswa terlatih
+dalam menalar dan memahami soal cerita. Guru diharapkan memberikan perhatian yang lebih
+kepada siswa yang memiliki tingkat kemampuan matematis kurang atau rendah sehingga bisa
+
+PM-129
+
+ISBN. 978-602-73403-2-9 (Cetak)
+
+978-602-73403-3-6 (On-line)
+
+mengimbangi siswa yang memiliki kemampuan matematis tinggi. Diharapkan siswa memiliki
+kemauan lebih untuk melatih keterampilannya dalam menyelesaikan permasalahan dengan
+mengerjakan soal-soal. Selama latihan soal alangkah baiknya siswa mengkomunikasikan jenis
+kesulitan yang ditemukan saat mengerjakan soal kepada guru mata pelajaran atau teman sebaya
+yang memiliki kemampuan matematika lebih tinggi.
+
+Daftar Pustaka
+Bloom, Benyamin. 1956. “Taksonomi Bloom (Ranah Kognitif, Afektif, dan Psikomotor) serta Identifikasi Permasalahan
+Pendidikan di Indonesia.”
+[2] Depdiknas. 2003. “Sistem Pendidikan Nasional”. Jakarta: Depdiknas.
+[3] King, Laura A. 2010. “Psikologi Umum (Sebuah Pandangan Apresiatif)”. Jakarta: Salemba Humanika
+[4] Lima, R. N. de, & Tall, D. 2010. “An Example of the fragility of a procedural Approach to solving Equations”. UNIBAN
+(Brazil) and UK (University of Warwick)
+[5] Medan, J.M.U.N., 2014. “Pembelajaran Matematika Sekarang dan yang akan Datang Berbasis Karakter”. Jurnal Didaktik
+Matematika Vol, 1(2).
+[6] National Council of Teachers of Mathematics. 2000. “Principles and Standars for School Mathematics”. Reston, V.A: NCTM
+[7] Sulistyarini, D. A. 2016. “Analisis Kesulitan Siswa SMKK Citra Medika Sukoharjo Dalam Menyelesaikan Soal Bentuk Akar
+dan Alternatif Pemecahannya”. Solo: Universitas Sebelas Maret. Prosiding: ISSN. 2502 – 6526
+[8] Tim Pengembang Kamus Besar Bahasa Indonesia. 2008. Kamus Bahasa Indonesia. Jakarta: Depdiknas.
+[9] Trianto. 2007. “Model Pembelajaran Inovatif”. Jakarta: Bumi Aksara.
+[10] Ulifa, S. N. 2014. “Hasil Analisis Kesalahan Siswa Dalam Menyelesaikan soal Matematika Pada Materi Relasi”. Jurnal
+Pendidikan Matematika STKIP PGRI Sidoarjo, ISSN : 2337-8166, Vol. 2 No. 1,.
+[11] Wibowo. S, 2012. “Media Pembelajaran Persamaan Kuadrat Dan Fungsi Kuadrat Mata Pelajaran Matematika Kelas X”.
+Semarang: Universitas Dian Nuswantoro. Techno.COM, Vol. 11, No. 1, Februari 2012: 28-36.
+[12] Zakaria, E. Ibrahim, Maat, S.M. 2010. “Analysis of Students’ Error in Learning of Quadratic Equations”. International
+Education Studies: Vol. 3, No. 3, Agustus 2010
+[1]
+
+PM-130
+
+

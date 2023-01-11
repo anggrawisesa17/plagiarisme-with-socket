@@ -1,0 +1,781 @@
+ISSN 1693 – 9093
+
+Volume 8, Nomor 3, Oktober 2012
+hal 176 - 185
+
+Pengaruh Tingkat Pengangguran terhadap
+Tingkat Kemiskinan Kabupaten/Kota
+di Provinsi Kalimantan Barat
+Yarlina Yacoub
+Jurusan Ilmu Ekonomi Fakultas Ekonomi Universitas Tanjungpura Pontianak
+Alamat Korespondensi, email: yyarlina@gmail.com
+Abstract-The research looked at the influence of unemployment on poverty districts/cities in
+the province of West Kalimantan. This study tested the 6 (six) hypothesis of the study period of
+6 (six) years, from 2005 to 2010 using panel data in the form of time series data (2005-2010)
+and cross section (12 counties /cities) in the Province West Kalimantan. Model analysis in this
+regresion via SPSS 18.0. Test results with significance level α = 0.05 are summary
+unemployment rate has significant influence on the poverty level, with t value 0,002 <0.05m
+forming a relationship that is opposite (negative), which in theory should be the direction
+(positive).
+Keywords: Unemployment and poverty.
+
+I. Latar Belakang
+Pembangunan dilaksanakan mewujudkan kemakmuran masyarakat melalui pengembangan
+perekonomian mengatasi berbagai permasalahan pembangunan dan sosial kemasyarakatan seperti
+pengangguran dan kemiskinan. Selain pertumbuhan ekonomi, salah satu aspek penting untuk melihat
+kinerja pembangunan adalah seberapa efektif penggunaan sumber-sumber daya yang ada sehingga
+lapangan kerja dapat menyerap angkatan kerja yang tersedia. Pertumbuhan ekonomi yang semakin
+meningkat berarti produksi barang/jasa yang dihasilkan meningkat. Dengan demikian diperlukan
+tenaga kerja semakin banyak untuk memproduksi barang/jasa tersebut sehingga pengangguran
+berkurang dan kemiskinan yang semakin menurun.
+Upaya menurunkan tingkat pengangguran dan menurunkan tingkat kemiskinan adalah sama
+pentingnya. Secara teori jika masyarakat tidak menganggur berarti mempunyai pekerjaan dan
+penghasilan, dan dengan penghasilan yang dimiliki dari bekerja diharapkan dapat memenuhi
+kebutuhan hidup. Jika kebutuhan hidup terpenuhi, maka tidak akan miskin. Sehingga dikatakan
+dengan tingkat pengangguran rendah (kesempatan kerja tinggi) maka tingkat kemiskinan juga rendah.
+Kenyataan yang terjadi, dimana kondisi Kalimantan Barat dengan tingkat pengangguran yang
+relatif rendah dibandingkan dengan Kalimantan lainnya, tetapi tingkat kemiskinan paling tinggi dari
+provinsi Kalimantan lainnya. Berdasarkan data BPS, tahun 2009 tingkat pengangguran terbuka di
+Kalimantan Barat (5,44%) relatif lebih rendah di bandingkan Kalimantan Selatan (6,36%) dan
+Kalimantan Timur (10,83%), lebih tinggi dari Kalimantan Tengah (3,39%). Tingkat kemiskinan
+di Kalimantan Barat (9,30%) lebih tinggi dari Kalimantan lainnya, dimana Kalimantan Tengah
+(7,02%), Kalimantan Selatan (5,12%) dan Kalimantan Timur (7,73%).
+Fenomena lain yang terjadi di Kalimantan Barat adalah penyerapan tenaga kerja tertinggi
+Kabupaten Pontianak (304.761 jiwa) dan terendah Kota Singkawang (68.363 jiwa) tetapi tingkat
+kemiskinan tertinggi Kabupaten Landak (18,65%) dan terendah Kabupaten Sanggau (6,25%).
+Kota/Kabupaten dengan tingkat penyerapan tenaga kerja terbesar ternyata tidak diimbangi dengan
+tingkat kemiskinan yang rendah.
+Pembangunan seharusnya menghasilkan kinerja pembangunan yang semakin baik daerah yang
+diukur dari pertumbuhan ekonomi, pengangguran dan kemiskinan. Tetapi dari variabel makro
+ekonomi yang dicapai, dengan pertumbuhan ekonomi yang mengalami peningkatan, ternyata belum
+sepenuhnya mengatasi permasalahan yang dihadapi daerah kabupaten/kota di Provinsi Kalimantan
+Jurnal EKSOS
+
+Volume 8, 2012
+
+177
+
+Barat. Permasalahan tersebut antara lain pertumbuhan ekonomi yang relatif rendah, pengangguran
+yang relatif tinggi dan kemiskinan yang relatif masih tinggi.
+
+II. Rerangka Teori
+Kesempatan kerja adalah banyaknya orang yang dapat tertampung untuk bekerja pada suatu
+perusahaan atau suatu instansi. “Kesempatan kerja akan menampung semua tenaga kerja yang tersedia
+apabila lapangan pekerjaan yang tersedia mencukupi atau seimbang dengan banyaknya tenaga kerja
+yang tersedia”, (Tambunan, 2001:60). Adapun faktor–faktor yang mempengaruhi perluasan
+kesempatan kerja antara lain : perkembangan jumlah penduduk dan angkatan kerja, pertumbuhan
+ekonomi dan kebijaksanaan mengenai perluasan kesempatan kerja itu sendiri. Tenaga kerja merupakan
+salah satu faktor produksi yang sangat penting disamping sumber alam, modal dan teknologi. Tenaga
+kerja mempunyai peranan yang sangat penting dalam pembangunan, yaitu sebagai pelaku
+pembangunan. Masalah ketenagakerjaan merupakan masalah yang begitu nyata dan dekat dengan
+lingkungan kita. Bahkan, masalah ketenagakerjaan dapat menimbulkan masalah-masalah baru di
+bidang ekonomi maupun nonekonomi. Tingkat pengangguran yang tinggi menyebabkan rendahnya
+pendapatan yang selanjutnya memicu munculnya kemiskinan.
+Secara umum pengertian tenaga kerja adalah menyangkut manusia yang mampu bekerja untuk
+menghasilkan barang atau jasa dan mempunyai nilai ekonomis yang dapat berguna bagi kebutuhan
+masyarakat. Secara fisik kemampuan bekerja diukur dengan usia. Orang dalam usia kerja dianggap
+mampu bekerja. Menurut Undang-Undang No 13 tahun 2003 tentang Ketenagakerjaan, tenaga kerja
+adalah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan jasa, baik untuk
+memenuhi kebutuhan sendiri maupun untuk masyarakat. Di Indonesia, sejak tahun 1998 BPS
+menggunakan usia 15 tahun ke atas sebagai kelompok penduduk usia kerja.
+Menurut Sumarsono (2009: 2-3):”Tenaga kerja atau Sumber Daya Manusia (SDM) menyangkut
+manusia yang mampu bekerja untuk memberikan jasa atau usaha kerja tersebut. Mampu bekerja
+berarti mampu melakukan kegiatan yang mempunyai nilai ekonomis, yaitu bahwa kegiatan tersebut
+menghasilkan barang dan jasa untuk memenuhi kebutuhan masyarakat. Secara fisik kemampuan
+bekerja diukur dengan usia. Dengan kata lain orang yang dalam usia kerja dianggap mampu bekerja.
+Kelompok penduduk dalam usia kerja tersebut dinamakan tenaga kerja atau manpower. Secara singkat
+tenaga kerja didefinisikan sebagai penduduk dalam usia kerja (working age population). Tenaga kerja
+atau manpower terdiri dari angkatan kerja dan bukan angkatan kerja. Angkatan kerja ataupun labour
+force terdiri dari (1) golongan yang bekerja, dan (2) golongan yang menganggur dan mencari
+pekerjaan”.
+Angka pengagguran menurut (Sumarsono,2009:6), “adalah persentase jumlah penganggur terhadap
+jumlah angkatan kerja. Penduduk yang sedang mencari pekerjaan tetapi tidak sedang mempunyai
+pekerjaan disebut penganggur”.
+Tenaga kerja merupakan salah satu faktor terpenting dalam proses produksi, maka dapat dikatakan
+kesempatan kerja akan meningkat bila output meningkat. Sehingga perlu dirumuskan kebijakan yang
+memberi dorongan kepada perluasan kesempatan kerja agar alat–alat kebijakan ekonomi dapat
+mengurangi penganggunran. Kebijakan pembangunan daerah yang pada dasarnya mempunyai fungsi
+dalam perluasan kesempatan kerja apabila dilihat dari pembangunan daerah dan hubungan antara
+daerah. Pada hakekatnya tiap–tiap proyek pembangunan dilakukan dalam suatu daerah dan
+implementasinya harus menjadi komponen pembangunan.
+Kemiskinan umumnya dilukiskan sebagai rendahnya pendapatan untuk memenuhi kebutuhan
+pokok. Di Indonesia pengukuran kemiskinan menggunakan kriteria dari BPS. BPS menentukan
+kriteria kemiskinan menggunakan pendekatan kebutuhan dasar (basic needs). Berdasarkan pendekatan
+kebutuhan dasar, ada 3 indikator kemiskinan yang digunakan, yaitu (1) Headcount Index, (2) indeks
+kedalaman kemiskinan (Poverty Gap Index). (3) indeks keparahan kemiskinan (Poverty Severity
+Index). Headcount Index digunakan untuk mengukur kebutuhan absolut yang terdiri dari dua
+komponen yaitu garis kemiskinan makanan (food line) dan garis kemiskinan non makanan (non food
+line). Garis kemiskinan BPS sebagai dasar untuk perhitungan Headcount index ditentukan berdasarkan
+
+178 Yarlina Yacoub
+
+Eksos
+
+batas pengeluaran minimum untuk konsumsi makanan setara dengan 2100 kalori per hari dan
+konsumsi non makanan.
+Kemiskinan tidak hanya berkenaan dengan tingkat pendapatan tetapi juga dari aspek sosial,
+lingkungan bahkan keberdayaan dan tingkat partisipasi. Sen (1995) menyatakan bahwa “kemiskinan
+jangan dianggap hanya sebagai pendapatan rendah (low income), tetapi harus dianggap sebagai
+ketidakmampuan kapabilitas (capability handicap)”. Menurut Chambers dalam Nanga (2006),
+“kemiskinan terutama di daerah pedesaan (rural poverty) adalah masalah ketidakberdayaan
+(powerlessness), keterisolasian (isolation), kerentanan (vulnarability) dan kelemahan fisik (physical
+weakness), dimana satu sama lain saling terkait dan mempengaruhi. Namun demikian, kemiskinan
+merupakan faktor penentu yang memiliki pengaruh paling kuat dari pada yang lainnya”.
+Berdasarkan pemahaman di tersebut, maka kemiskinan dapat menjadi penentu dan faktor dominan
+yang mempengaruhi persoalan kemanusiaan seperti keterbelakangan, kebodohan, ketelantaran,
+kriminalitas, kekerasan, perdagangan manusia, buta huruf, putus sekolah, anak jalanan, pekerja anak.
+Dengan demikian kemiskinan tidak bisa hanya dipandang dari satu sisi rendahnya pendapatan tetapi
+harus dari banyak aspek yang saling terkait sehingga bersifat multidimensi.
+Sehubungan dengan ini menurut Bellinger (2007): “Konsep kemiskinan melibatkan multidimensi,
+multidefinisi dan alternatif pengukuran. Kemiskinan merupakan satu dari masalah yang sulit untuk
+didefinisikan dan dijelaskan. Secara umum, kemiskinan dapat diukur dalam dua dimensi yaitu dimensi
+income atau kekayaan dan dimensi non-faktor keuangan. Kemiskinan dalam dimensi income atau
+kekayaan tidak hanya diukur dari rendahnya pendapatan yang diterima karena pendapatan rendah
+biasanya bersifat sementara, tetapi juga diukur melalui kepemilikan harta kekayaan seperti lahan bagi
+petani kecil dan melalui akses jasa pelayanan publik. Sedangkan dari dimensi non-faktor keuangan
+ditandai dengan adanya keputusasaan atau ketidakberdayaan yang juga dapat menimpa berbagai
+rumah tangga berpenghasilan rendah”.
+Sehubungan dengan situasi dan ciri kemiskinan dan agar kemiskinan tidak semakin akut, maka
+pemerintah terutama pemerintah daerah harus meletakkan kemiskinan menjadi salah satu persoalan
+mendasar yang harus menjadi pusat perhatian untuk cepat ditanggulangi. Beberapa ahli berpendapat
+pendekatan yang dianggab cukup jitu dalam penanggulangan kemiskinan adalah menciptakan aktivitas
+ekonomi di daerah yang ditandai dengan kemampuan daerah dalam menciptakan pertumbuhan
+ekonomi.
+Perry et al.,(2006) berpendapat: “pertumbuhan ekonomi penting untuk pengentasan kemiskinan.
+Manfaat dari pertumbuhan ekonomi yang cepat akan menyebar ke seluruh segmen dalam masyarakat”.
+Pandangan ini berdasarkan pada teori Trickle Down yang sangat dominan dalam teori-teori
+pembangunan pada era 1950 an dan 1960 an. Teori Trickle Down Effect menyebutkan adanya aliran
+menetes ke bawah, dari kelompok kaya ke kelompok miskin melalui fungsi-fungsi dalam ekonomi.
+Octaviani (2001): “Penelitian tentang pengaruh pengangguran terhadap tingkat kemiskinan di
+Indonesia dengan pendekatan analisis Indeks Forrester Greer & Horbecke”, Hasil penelitiannya
+menyimpulkan bahwa kenaikan angka pengangguran mengakibatkan peningkatan atas angka
+kemiskinan, sebaliknya semakin kecil angka pengangguran akan menyebabkan semakin rendahnya
+tingkat kemiskinan di Indonesia”. Sementara Sasana (2009): “Penelitian ini menganalisa penyerapan
+tenaga kerja, penduduk miskin dan kesejahteraan masyarakat. Penelitian ini dilakukan di
+kabupaten/kota di Provinsi Jawa Tengah tahun 2001-2005, tenaga kerja terserap berpengaruh
+signifikan dan mempunyai hubungan yang positif terhadap kesejahteraan masyarakat”.
+
+III. Metode Penelitian
+Penelitian ini berbasis pada penelitian diskriptif dan eksplanatory. Dikatakan diskriptif karena
+penelitian ini menggambarkan objek yang diteliti (Ruslan, 2006: 12). Selanjutnya penelitian ini
+menguji hubungan antar variabel, maka penelitian ini tergolong penelitian eksplanatory yaitu
+penelitian yang bermaksud untuk menguji dan menjelaskan hubungan antar variabel bebas (exogen
+variable) dan variabel terikat (endogen variable) (Ruslan, 2006:15). Terdapat 2 (dua) variabel yang
+akan diteliti yaitu : tingkat pengangguran dan tingkat kemiskinan, dengan teknik analisis regresi
+melalui bantuan SPSS for windows versi 18.0. Data dalam penelitian ini merupakan data skunder yang
+
+Volume 8, 2012
+
+179
+
+berasal dari BPS, merupakan pooled the data yaitu gabungan antara time series (tahun 2005 - tahun
+2010, selama 6 (enam) tahun dengan cross section 12 (duabelas) kabupaten/kota di Provinsi
+Kalimantan Barat.
+
+IV. Penyajian Data
+Tingkat Pengangguran
+Pengertian pengangguran adalah penduduk yang tidak bekerja tetapi sedang mencari pekerjaan atau
+sedang mempersiapkan suatu usaha atau penduduk yang tidak mencari pekerjaan karena merasa tidak
+mungkin mendapatkan pekerjaan atau yang sudah mempunyai pekerjaan tetapi belum memulai bekerja
+(BPS:2010).
+Tabel 1, menggambarkan tingkat pengangguran terbuka di kabupaten/kota di Provinsi Kalimantan
+Barat selama tahun 2005 sampai tahun 2010, dengan tingkat pengangguran rata-rata 6,43%. Selama
+beberapa tahun, tingkat pengangguran di Kalimantan Barat turun, dimana tahun 2005 sebesar 8,13%
+dan tahun 2010 sebesar 4,62% dan semua kabupaten/kota tingkat penganggurannya turun. Beberapa
+daerah mampu menekan tingkat penganggurannya sehingga turun dengan cukup tinggi. Seperti Kota
+Pontianak tahun 2005 dengan tingkat pengangguran 16,86% dan tahun 2010 turun menjadi 7,79%.
+Kabupaten Bengkayang tahun 2005 tingkat pengangguran 8,52% dan tahun 2010 dengan tingkat
+pengangguran 3,21%. Kabupaten Ketapang tahun 2005 dengan tingkat pengangguran 10,27% dan
+tahun 2010 menjadi 3,90%. Kabupaten Sintang tahun 2005 sebesar 7,03% dan tahun 2010 turun
+menjadi 2,32%. Tahun 2010 hanya Kota Pontianak (7,79%), Kota Singkawang (8,05%) dan
+Kabupaten Pontianak (7,80%) dengan tingkat pengangguran di atas tingkat pengangguran Provinsi
+Kalimantan Barat (4,62%). Sedangkan kabupaten lainnya dengan tingkat pengangguran rendah
+dibawah provinsi. Tingkat pengangguran terendah Kabupaten Melawi (1,33%).
+
+Tabel 1
+Tingkat Pengangguran Terbuka Kabupaten/Kota
+di Provinsi Kalimantan Barat Tahun 2005 – 2010 (%)
+No
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Kabupaten/Kota
+2005
+2006
+2007
+Kab. Sambas
+6,27
+6,85
+6,27
+Kab. Bengkayang
+8,52
+13,57
+5,87
+Kab. Landak
+4,11
+3,92
+3,36
+Kab. Pontianak
+9,72
+12,45
+9,23
+Kab. Sanggau
+8,05
+9,30
+4,39
+Kab. Ketapang
+10,27
+11,12
+5,91
+Kab. Sintang
+7,03
+5,12
+3,58
+Kab. Kapuas Hulu
+3,79
+1,03
+2,24
+Kab. Sekadau
+4,50
+3,74
+3,76
+Kab. Melawi
+0,99
+1,03
+2,60
+Kota Pontianak
+16,86
+15,90
+13,16
+Kota Singkawang
+8,07
+9,16
+11,05
+Kalimantan Barat
+8,13
+8,53
+6,47
+Sumber : BPS Kalimantan Barat (Data Sakernas 2005-2010)
+
+2008
+3,89
+4,71
+4,03
+9,07
+2,80
+4,29
+3,59
+2,27
+2,74
+1,96
+10,21
+10,09
+5,41
+
+2009
+6,09
+4,02
+4,38
+9,75
+3,30
+5,15
+3,12
+1,67
+3,14
+1,82
+9,38
+9,71
+5,44
+
+2010
+4,53
+3,21
+4,61
+7,80
+3,62
+3,90
+2,35
+2,25
+2,31
+1,30
+7,79
+8,05
+4,62
+
+Rata2
+5,65
+6,65
+4,07
+9,67
+5,24
+6,77
+4,13
+2,21
+3,36
+1,40
+12,22
+9,36
+5,89
+
+Kalau diperbandingkan antara daerah kabupaten dengan kota, ternyata tingkat pengangguran di
+Kota Pontianak dan Kota Singkawang relatif lebih tinggi di bandingkan dengan daerah kabupaten. Hal
+ini dikarenakan, sebagai daerah perkotaan tidak bisa menghindari arus urbanisasi (migrasi), sehingga
+perkembangan jumlah penduduk yang cepat diperkotaan tidak diikuti dengan tersedianya lapangan
+
+180 Yarlina Yacoub
+
+Eksos
+
+pekerjaan yang cukup, akibanya timbul pengangguran. Sedangkan untuk daerah kabupaten yang
+sebagian besarnya tingkat pengangguran relatif rendah. Walaupun dengan pendidikan yang relatif
+rendah, tersedianya sektor primer di pedesaan yang untuk memasuki lapangan pekerjaan ini tidak
+dengan persyaratan khusus, sehingga mempermudah penduduk untuk bekerja, dengan demikian
+tingkat pengangguran kabupaten lainnya relatif lebih rendah.
+Tingkat Kemiskinan
+Kemiskinan merupakan salah satu persoalan mendasar, karena kemiskinan menyangkut pemenuhan
+kebutuhan yang paling mendasar dalam kehidupan. Dan kemiskinan merupakan masalah global karena
+kemiskinan merupakan masalah yang dihadapi banyak negara. Kemiskinan juga merupakan problema
+kemanusiaan yang menghambat kesejahteraan dan peradapan, sehingga semua orang sepakat bahwa
+kemiskinan harus ditanggulangi. Strategi penanggulangan kemiskinan berhubungan dengan
+tersedianya data kemiskinan yang akurat, supaya kebijakan yang dilakukan pemerintah menjadi tepat
+sasaran.
+
+Tabel 2
+Tingkat Kemiskinan Kabupaten/Kota
+di Provinsi Kalimantan Barat Tahun 2005 – 2010 (%)
+No
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Kabupaten/Kota
+2005
+2006
+2007
+2008
+2009
+Kab. Sambas
+15,10
+16,77
+14,00
+11,51
+9,96
+Kab. Bengkayang
+13,63
+14,63
+11,88
+9,41
+7,82
+Kab. Landak
+25,87
+27,82
+24,95
+18,65
+15,48
+Kab. Pontianak
+9,82
+10,95
+8,26
+7,81
+5,46
+Kab. Sanggau
+9,84
+10,55
+7,97
+6,25
+4,62
+Kab. Ketapang
+19,23
+20,76
+17,94
+15,21
+13,08
+Kab. Sintang
+19,09
+19,80
+17,10
+13,61
+11,55
+Kab. Kapuas Hulu
+16,90
+17,76
+15,05
+11,44
+9,93
+Kab. Sekadau
+11,76
+12,57
+10,25
+7,66
+6,42
+Kab. Melawi
+20,63
+22,05
+19,50
+14,80
+12,62
+Kota Pontianak
+6,84
+7,15
+6,77
+9,29
+6,38
+Kota Singkawang
+10,33
+8,32
+7,02
+7,89
+6,20
+Kalimantan Barat
+14,24
+15,24
+12,91
+10,87
+9,05
+Sumber : BPS (Data Dan Informasi Kemiskinan Kabupaten/Kota 2005-2010.
+
+2010
+
+Rata2
+
+10,08
+7,82
+14,06
+6,41
+5,02
+13,67
+9,75
+11,39
+6,77
+13,77
+6,62
+6,12
+9,10
+
+12,90
+10,87
+21,14
+8,12
+7,38
+16,65
+15,15
+13,75
+9,24
+17,23
+7,18
+7,65
+11,90
+
+Tabel 2, menggambarkan tingkat kemiskinan kabupaten/kota di Provinsi Kalimantan Barat. Secara
+rata-rata tingkat kemiskinan di Kalimantan Barat 11,90%, artinya 11,90% dari penduduk Kalimantan
+Barat adalah penduduk miskin. Sejak tahun 2005 sampai tahun 2010 rata-rata tingkat kemiskinan
+turun walaupun berfluktuasi. Tahun 2005 tingkat kemiskinan di Kalimantan Barat sebesar 14,24% dan
+tahun 2010 sebesar 9,10%. Secara umum tingkat kemiskinan kabupaten/kota di Provinsi Kalimantan
+Barat turun.
+Ada 7 (tujuh) kabupaten dengan tingkat kemiskinan di atas tingkat kemiskinan rata-rata Provinsi
+Kalimantan Barat yaitu Kabupaten Sambas (12,90%), Kabupaten landak (21,14%), Kabupaten
+Pontianak (21,45%), Kabupaten Ketapang (16,65%), Kabupaten Sintang (15,15%), Kabupaten Kapuas
+Hulu (13,75%) dan Kabupaten Melawi (17,23%). Sedangkan Kabupaten/kota lainnya dengan tingkat
+kemiskinan di bawah tingkat kemiskinan Provinsi Kalimantan Barat. Tahun 2010 tingkat kemiskinan
+tertinggi di kabupaten Landak (14,06%) dan tingkat kemiskinan terendah (5,02%).
+
+Volume 8, 2012
+
+181
+
+V. Diskusi
+Hasil estimasi pengaruh tingkat pengangguran (X) terhadap tingkat kemiskinan (Y) kabupaten/kota
+di Provinsi Kalimantan Barat signifikan. Hal ini terlihat dari nilai probabilita signifikansi sebesar
+0,002 lebih kecil daripada taraf signifikansi yang ditentukan sebesar (α) 0,05 atau 0,002 < 0.05.
+Koefisien betha sebesar -0,405 yang bertanda negatif bermakna bahwa pengaruh tingkat pengangguran
+terhadap tingkat kemiskinan tidak searah, yaitu apabila tingkat pengangguran meningkat berpotensi
+untuk menurunkan tingkat kemiskinan. Sebaliknya apabila tingkat pengangguran menurun maka
+tingkat kemiskinan berpotensi untuk naik, dan pengaruh tersebut signifikan.
+
+Tabel 3
+
+Hasil Pengujian
+Variabel
+Variabel
+Standardized
+Bebas
+Terikat
+Beta
+Tingkat
+Tingkat
+- 0,405
+Pengangguran
+Kemiskinan
+(X)
+(Y)
+Sumber: Data Olahan SPSS 18.0, Tahun 2012.
+
+T
+hitung
+- 3,316
+
+Sig.
+
+Keterangan
+
+0,002
+
+Signifikan
+
+Pengaruh tingkat pengangguran (X) tingkat kemiskinan (Y) kabupaten/kota di Provinsi Kalimantan
+Barat negatif dan signifikan disebabkan oleh sebagian besar tenaga kerja bekerja pada sektor pertanian
+melibatkan hampir seluruh anggota keluarga (tingkat pengangguran yang rendah) tetapi dengan
+penghasilan yang rendah sehingga tidak mencukupi kebutuhan keluarga. Sehingga walaupun dengan
+tingkat pengangguran yang rendah (karena sebagian besar bekerja), namun mereka tetap miskin.
+Fakta hasil pengujian statistik ini didukung oleh fakta empirik dari tingkat pengangguran dan
+tingkat kemiskinan. Hasil pengujian statistik yang menunjukkan pengaruh signifikan tersebut tampak
+pada perbandingan kedua variabel menunjukkan bahwa adanya perbandingan yang tidak searah antara
+tingkat pengangguran dengan tingkat kemiskinan. Secara umum kabupaten/kota dengan tingkat
+pengangguran yang tinggi mempunyai kecenderungan dengan tingkat kemiskinan yang relatif rendah,
+demikian sebaliknya. Hanya beberapa kabupaten dengan tingkat pengangguran yang tinggi dengan
+tingkat kemiskinan yang relatif tinggi dan sebaliknya.
+Untuk kabupaten/kota di Provinsi Kalimantan Barat dengan tingkat pengangguran rata-rata 5,89%
+dan tingkat kemiskinan rata-rata 11,9%. Jika dipetakan hanya ada (4) empat kabupaten yang
+mempunyai pola yang searah yaitu dengan tingkat pengangguran yang relatif tinggi dan tingkat
+kemiskinan yang relatif tinggi adalah Kabupaten Pontianak (9,67% dan 21,45%) serta Kabupaten
+Ketapang (6,77% dan 16,65%). Tingkat pengangguran yang relatif rendah dan tingkat kemiskinan
+yang relatif rendah adalah : Kabupaten Sanggau (5,24% dan 7,38%) serta Kabupaten Sekadau (3,36%
+dan 9,24%).
+Ada 8 (delapan) kabupaten/kota lainnya mempunyai pola yang tidak searah yaitu dengan tingkat
+pengangguran yang relatif tinggi dan tingkat kemiskinan yang relatif rendah adalah Kabupaten
+Bengkayang (6,65% dan 10,87%), Kota Pontianak (12,22% dan 7,18%) dan Kota Singkawang (9,36%
+dan 7,65%). Tingkat pengangguran yang relatif rendah dan tingkat kemiskinan yang relatif tinggi
+adalah Kabupaten Sambas (5,65% dan 12,9%), Kabupaten Landak (4,07% dan 21,14%), Kabupaten
+Sintang (4,13% dan 15,15%), Kabupaten Kapuas Hulu (2,21% dan 13,75%) dan Kabupaten Melawi
+(1,40% dan 17,23%).
+Fakta empiris menunjukkan bahwa bahwa kabupaten/kota di Provinsi Kalimantan Barat yang
+memiliki pola hubungan yang tidak selalu searah antara tingkat pengangguran dan tingkat kemiskinan.
+Tingkat pengangguran yang lebih tinggi ternyata memiliki tingkat kemiskinan yang lebih rendah. Jadi
+dalam kasus ini, hubungan antara pengangguran dan kemiskinan tidak selalu sesuai dengan asumsi
+teori ekonomi yang ada, tetapi memiliki hubungan yang terbalik. Fenomena ini dapat dijelaskan
+sebagai berikut, orang yang menganggur dalam sebuah rumahtangga, tetapi ada anggota rumah tangga
+
+182 Yarlina Yacoub
+
+Eksos
+
+yang lain yang bekerja dengan tingkat pendapatan tinggi sehingga cukup untuk menyokong
+penganggur. Dalam kaitannya dengan kemiskinan, penganggur yang ada di rumahtangga tersebut
+tidak secara otomatis menjadi miskin karena ada anggota keluarga lain yang memiliki pendapatan
+yang cukup untuk mempertahankan keluarganya hidup berada di atas garis kemiskinan.
+Kondisi tersebut (pada tingkat pengangguran yang meningkat dimana tingkat kemiskinan justru
+tidak ikut meningkat) banyak ditemui di daerah perkotaan. Pada saat kelompok bukan angkatan kerja
+(pelajar/mahasiswa) menamatkan pendidikan dan masuk dalam kelompok angkatan kerja, tetapi tidak
+serta merta langsung bekerja, terkadang masa tunggu mendapatkan pekerjaan relatif lama. Selain itu
+ada juga yang sengaja menarik diri dari dunia kerja karena alasan mencari pekerjaan lebih baik.
+Kejadian tersebut akan menciptakan pengangguran (terutama terjadi pengangguran terdidik).
+Walaupun terjadi pengangguran, kehidupan kelompok ini masih ditanggung oleh anggota keluarga
+lain yang berpenghasilan relatif tinggi, dan dengan demikian rata-rata pendapatan masih berada di atas
+garis kemiskinan. Berdasarkan data sakernas tahun 2010 (BPS:2011), dimana dari total pengangguran
+terbuka di Provinsi Kalimantan Barat yang tersebar di seluruh kabupaten/kota, sebanyak 47,86%
+adalah pengangguran terbuka dengan tingkat pendidikan Tamat SLTA ke atas (pengangguran
+terdidik).
+Fakta lain yang menjelaskan pola hubungan antara tingkat pengangguran dan tingkat kemiskinan di
+kabupaten/kota di Provinsi Kalimantan Barat adalah adanya kenyataan besarnya tingkat pengangguran
+tersembunyi (bekerja dengan jam kerja yang rendah). Tahun 2010, hanya sebanyak 56,49% dari
+penduduk yang bekerja yang tersebar di Kabupaten/Kota di Provinsi Kalimantan Barat dengan jam
+kerja penuh (35 jam+) selebihnya dengan jam kerja yang rendah. Berarti cukup besar juga angka
+pengangguran tersembunyi di Kalimantan Barat yaitu sekitar 43,51% dari jumlah tenaga kerja yang
+bekerja. Besarnya jumlah pengangguran tersembunyi berarti juga rendahnya jam kerja riil, sehingga
+akan berakibat pada rendahnya produktivitas. Rendahnya produktivitas tenaga kerja selain ditentukan
+oleh jam kerja juga ditentukan oleh kualitas sumber daya manusia yang tercermin dari rendahnya
+tingkat pendidikan. Walaupun mereka bekerja (tidak menganggur), maka pendapatan yang diterima
+relatif rendah dan dibawah garis kemiskinan. Sehingga walaupun dengan tingkat pengangguran yang
+rendah, tingkat kemiskinan cukup tinggi.
+Fakta lain juga bisa terjadi di Provinsi Kalimantan Barat, yaitu pada kelompok keluarga yang
+sangat miskin, justru tingkat pengangguran rendah. Pada kelompok keluarga miskin ini, sebagian
+besar anggota keluarga bekerja untuk bisa bertahan hidup, terkadang anak-anak juga dilibatkan dalam
+bekerja dengan alasan penghasilan kepala keluarga atau orang tua tidak mencukupi kebutuhan
+keluarga. Sehingga adanya kecendrungan tingkat pengangguran akan rendah. Karena tingkat
+pendidikan yang ditamatkan rendah maka tingkat upah ataupun penghasilan yang mereka terima
+sangat rendah dan dibawah garis kemiskinan. Sehingga walaupun dengan tingkat pengangguran yang
+rendah (karena sebagian besar bekerja), namun mereka tetap miskin. Tahun 2010, dari total angkatan
+kerja yang bekerja, 61,07 % nya berpendidikan SD ke bawah, sehingga pendapatan yang diterima
+rendah.
+Sejalan dengan studi ini, De Fina (2002) berdasarkan penelitian di Amerika Serikat menemukan
+bahwa kemiskinan tidak memiliki korelasi yang kuat dengan pengangguran. Defina lebih lanjut
+menyatakan bahwa keterkaitan antara pengangguran dan kemiskinan sangat dipengaruhi oleh
+bagaimana kemiskinan itu diukur.
+Sehubungan dengan pengukuran kemiskinan berdasarkan telaahan De Fina, di Indonesia
+pengukuran menggunakan konsep kemampuan memenuhi kebutuhan dasar (basic needs approach)
+dalam mengukur kemiskinan. Tahun 2010, penduduk Kalimantan Barat dikatakan tidak miskin jika
+rata-rata pengeluaran perkapita di atas Rp 211.902,-/bulan Batas garis kemiskinan). Yang perlu
+dicermati adalah penduduk yang hampir miskin yang kemungkinan angkanya bisa relatif banyak.
+Penduduk yang tidak menganggur dengan pendapatan sedikit saja di atas garis kemiskian (Rp
+211.902,-/bulan) dalam kategori tidak miskin. Padahal kelompok ini sangat rentan terhadap kenaikkan
+harga (inflasi). Karena jika harga naik pada tahun tersebut, penduduk yang hampir miskin ini akan
+secara riil menjadi miskin. Meskipun menurut data statistik (BPS) di tahun yang bersangkutan, mereka
+ini tidak terdata sebagai penduduk miskin. Selain itu standar garis kemiskinan yang digunakan di
+Indonesia sangat rendah.
+
+Volume 8, 2012
+
+183
+
+Menurut Bank Dunia, bila garis kemiskinan dihitung berdasarkan Purchasing Power Parity (PPP)
+US $ 1 perkapita/hari, persentase kemiskinan di Indonesia adalah sebasar 5,9% pada tahun 2008, lebih
+rendah dari tahun sebelumnya yaitu 6,7%. Sementara itu bila dihitung berdasarkan PPP US $ 2
+perkapita/hari, persentase kemiskinan adalah sebesar 42,6% (Kuncoro, 2010:144).
+Demikian juga dengan pengangguran, di Indonesia pengukuran pengangguran berdasarkan konsep
+BPS yaitu jika 1 jam saja penduduk bekerja dalam 1 minggu, maka sudah dikatakan bekerja. Sehingga
+dengan jam kerja yang rendah, tentunya pendapatan yang diperoleh relatif rendah. Dengan tidak
+menganggur tetapi tetap miskin. Di Kalimantan Barat , walaupun sektor pertanian sebagai
+penyumbang terbesar PDRB (25,00%) tetapi sektor ini juga yang menyerap tenaga kerja paling besar
+(60,43%), sehingga menghasilkan produktivitas paling rendah (Rp 5.828,08) dibandingkan sektor
+lainnya. Dengan produktivitas yang sangat rendah, tidak mengherankan bahwa petani di Kalimantan
+Barat secara rata-rata miskin, walaupun dalam kategori tidak menganggur. Penyebabnya adalah
+kecilnya lahan yang digarap oleh petani. Dengan jumlah lahan yang kecil dan juga jam kerja yang
+rendah serta banyaknya tenaga kerja yang terlibat di sektor ini menyebabkan petani miskin walaupun
+tidak menganggur.
+Hal ini dibuktikan oleh Son dan Kakwani (2006) berdasarkan penelitian dengan menggunakan data
+Brazil. Son dan Kakwani mengadakan penelitian dengan 2 (dua) pendekatan, yaitu menggunakan data
+tingkat pengangguran dengan ukuran pengangguran konvensional dan menggunakan data
+pengangguran dengan ukuran pengangguran yang dimodifikasi. Pengangguran dengan ukuran
+konvensional hasilnya adalah hubungan antara pengangguran dan kemiskinan terlihat tidak signifikan.
+Dengan memodifikasi pengukuran tingkat pengangguran konvensional mereka menemukan bahwa
+korelasi antara tingkat pengangguran dan kemiskinan menjadi signifikan. Penjelasan lain adalah
+bahwa rumahtangga miskin hampir tidak mungkin menjadi penganggur (Oshima 1990). Pernyataan
+Oshima tersebut dapat dipahami mengingat di negara berkembang seperti Indonesia tidak terdapat
+jaminan sosial bagi penganggur, sehingga orang miskin untuk bertahan hidup mau tidak mau harus
+bekerja meskipun hanya beberapa jam seminggu.
+Kajian yang dilakukan di kabupaten/kota di Provinsi Kalimantan Barat ini bertentangan dengan
+teori. Secara teoritis, tingkat kemiskinan akan bergerak mengikuti tingkat pengangguran. Dalam hal
+ini ketika tingkat pengangguran mengalami kenaikan maka secara otomatis tingkat kemiskinan akan
+meningkat. Hubungan yang positif antara kemiskinan dan pengangguran tersebut ditemukan di
+beberapa negara. Kajian yang mendukung teori dan yang bertentangan dengan kajian ini di lakukan di
+Nigeria, misalnya Osinubi (2005) menemukan hubungan yang sangat kuat antara tingkat kemiskinan
+dan tingkat pengangguran. Ketika tingkat pengangguran naik, maka tingkat kemiskinan juga naik dan
+ketika tingkat pengangguran menurun maka tingkat kemiskinan juga ikut turun. Dalam teori, selalu
+ada hubungan antara pengangguran dan kemiskinan. Karena masyarakat yang menganggur tidak
+mempunyai penghasilan dan pengaruhnya adalah pasti miskin.
+
+VI. Simpulan, Implikasi dan Keterbatasan Penelitian
+Simpulan
+1. Tingkat pengangguran berpengaruh signifikan terhadap tingkat kemiskinan kabupaten/kota di
+Provinsi Kalimantan Barat. Data empiris menunjukkan pola hubungan yang tidak selalu searah
+antara tingkat pengangguran dan tingkat kemiskinan.
+2. Penganggur yang ada di rumahtangga tersebut tidak secara otomatis menjadi miskin karena ada
+anggota keluarga lain yang memiliki pendapatan yang cukup untuk mempertahankan keluarganya
+hidup berada di atas garis kemiskinan. Ini terutama terjadi pada pengangguran terdidik dan total
+pengangguran terbuka di Provinsi Kalimantan Barat yang tersebar di seluruh kabupaten/kota,
+sebanyak 47,86% adalah pengangguran terbuka dengan tingkat pendidikan Tamat SLTA ke atas
+(pengangguran terdidik). Disisi lain, kenyataan besarnya tingkat pengangguran tersembunyi
+(bekerja dengan jam kerja yang rendah atau dengan pendidikan yang rendah). Walaupun mereka
+bekerja (tidak menganggur), namun pendapatan yang diterima relatif rendah dan dibawah garis
+
+184 Yarlina Yacoub
+
+Eksos
+
+kemiskinan (angka pengangguran tersembunyi di Kalimantan Barat yaitu sekitar 43,51% dari
+jumlah tenaga kerja yang bekerja).
+3. Pada kelompok keluarga yang sangat miskin, justru tingkat pengangguran rendah karena sebagian
+besar anggota keluarga bekerja untuk bisa bertahan hidup, terkadang anak-anak juga dilibatkan
+dalam bekerja dengan alasan penghasilan kepala keluarga atau orang tua tidak mencukupi
+kebutuhan keluarga, terutama pada keluarga petani dengan pendidikan yang rendah (dari total
+angkatan kerja yang bekerja, 61,07 % nya berpendidikan SD ke bawah, sehingga pendapatan yang
+diterima rendah). Di Kalimantan Barat walaupun sektor pertanian sebagai penyumbang terbesar
+PDRB (25,00% ) tetapi sektor ini juga yang menyerap tenaga kerja paling besar (60,43%) sehingga
+menghasilkan produktivitas paling rendah (Rp 5.828,08) dibandingkan sektor lainnya. Dengan
+produktivitas yang sangat rendah, tidak mengherankan bahwa petani di Kalimantan Barat secara
+rata-rata miskin, walaupun dalam kategori tidak menganggur.
+Saran
+1. Yang berhubungan dengan pengangguran dan kemiskinan, pemerintah daerah perlu peningkatan
+kualitas SDM melalui peningkatan derajat kesehatan masyarakat dan peningkatan akses pendidikan
+sampai ke pelosok daerah. Meningkatkan angka partisipasi sekolah (APK) SD, SMP, SMA dan
+Perguruan Tinggi.
+2. Perlu mengembangkan infrastruktur daerah dan struktur industri yang kokoh dengan menciptakan
+industri turunan untuk mendukung berkembangnya sektor pertanian. Perlu adanya pengembangan
+industri yang berhubungan dengan pengolahan hasil pertanian seperti pengolahan hasil dari
+perkebunan kelapa sawit, karet, perikakan dan peternakan.
+Keterbatasan Studi
+Terdapat keterbatasan yang melingkupi studi ini, yaitu :
+1. Penggunaan data skunder yang diperoleh dari berbagai instansi pemerintah. Ketidakakuratan
+pengumpulan data serta penggunaan pendekatan yang kurang tepat tentunya berpengaruh terhadap
+temuan dalam studi ini.
+2. Periode studi yang relatif pendek yaitu 6(enam) tahun, hal ini menyebabkan analisis permasalahan
+kurang sempurna. Proses pembangunan memerlukan waktu yang cukup panjang untuk dapat dinilai
+hasilnya.
+
+REFERENSI
+Arsyad, Lincolin. 2010. Ekonomi Pembangunan, Yogyakarta: UPP STIM YKPN.
+Badan Pusat Statistik. 2006. Keadaan Angkatan Kerja di Propinsi Kalimantan Barat Tahun 2005.
+Pontianak: Badan Pusat Statistik.
+_________________. 2006a. Data dan Informasi Kemiskinan Kabupaten/KotaTahun 2005. Jakarta:
+Badan Pusat Statistik.
+_________________. 2007. Keadaan Angkatan Kerja di Propinsi Kalimantan Barat Tahun 2006.
+Pontianak: Badan Pusat Statistik.
+_________________. 2007a. Data dan Informasi Kemiskinan Kabupaten/Kota Tahun 2006. Jakarta:
+Badan Pusat Statistik.
+_________________. 2008. Keadaan Angkatan Kerja di Propinsi Kalimantan Barat Tahun 2007.
+Pontianak: Badan Pusat Statistik.
+_________________. 2008a. Data dan Informasi Kemiskinan Kabupaten/Kota Tahun 2007. Jakarta:
+Badan Pusat Statistik.
+
+Volume 8, 2012
+
+185
+
+_________________. 2009. Keadaan Angkatan Kerja di Propinsi Kalimantan Barat Tahun 2008.
+Pontianak: Badan Pusat Statistik.
+_________________. 2009a. Data dan Informasi Kemiskinan Kabupaten/Kota Tahun 2008. Jakarta:
+Badan Pusat Statistik.
+_________________. 2010. Keadaan Angkatan Kerja di Propinsi Kalimantan Barat Tahun 2009.
+Pontianak: Badan Pusat Statistik.
+_________________. 2010a. Data dan Informasi Kemiskinan Kabupaten/Kota Tahun 2009. Jakarta:
+Badan Pusat Statistik.
+_________________. 2011. Keadaan Angkatan Kerja di Propinsi Kalimantan Barat Tahun 2010.
+Pontianak: Badan Pusat Statistik.
+_________________. 2011a. Data dan Informasi Kemiskinan Kabupaten/Kota Tahun 2010. Jakarta:
+Badan Pusat Statistik.
+Bellinger, W. K. 2007. The Economics Analysis of Public Policy. Routledge: Oxon.
+De Fina, Robert H. 2002. The Impact Of Unemployment On Alternatif Poverty Measures, Working
+Paper, Departement Reseach Federal Reserve Bank Of Filadelfia, May 2002.
+Kakwani N, Pernia EM. 2000. What is pro-poor growth? Asian Development Review 18:1, 1-16.
+Octaviani, Dian. 2001. Inflasi, Pengangguran, dan Kemiskinan di Indonesia: Analisis Indeks Forrester
+Greer & Horbecke, Media Ekonomi, Hal. 100- 118, Vol. 7, No. 8.
+Oreggia E Rodriguez and Andres Rodniguez-Pose. 2004. The Regional Return of Public Investment
+Policies in Mexico. Elsevier Ltd. World Development Vol.32, No.9. pp. 1545-1562.
+Oshima, Herry. 1990. Population and Inequality In East Asia, Malayan Economic Review 15: pp. 7-41
+Osinubi, Tokunbo Simbowale. 2005. Macroeconometric Analysis Of Growth, Unemployment and
+Poverty in Nigeria, Pakistan Economic and Social Review. Volume XLIII, No. 2 (Winter
+2005), pp. 249-269.
+Perry GE, Arias OS, Lopez JH, Maloney WF, Serven L. 2006. Poverty Reduction and Growth:
+Virtuous and Vicious Circles. New York: World Bank .
+Ravallion M. 2006. Inequality is Bad for The Poor. World Bank Policy Research Working Paper 3677.
+Ruslan, Rosady. 2006. Metode Penelitian, Jakarta: PT Raja Grafindo Persada.
+Sekretariat Negara RI. 2003. UU No. 13 Tahun 2003 Tentang Pokok Ketenagakerjaan. Jakarta
+Sen A. 1995. A Sosiological Approach to The Meaurement of Poverty: A Reply to Professor Peter
+Townsend. Oxford Economic Papers 37: 669-676.
+Sumarsono, Sonny. 2009. Teori dan Kebijakan Publik Ekonomi Sumber Daya Manusia. Yogyakarta:
+Graha Ilmu.
+Todaro, MP dan Stephen C. Smith. 2004. Pembangunan Ekonomi di Dunia Ketiga 1. Edisi ke
+Delapan, Jakarta: Erlangga.
+Warr P. 2006. Poverty and growth in southeast asia. ASEAN Economic Bulletin 23: 279 – 302.
+World Bank. 2006. Making the New Indonesia Work for the Poor. Jakarta: Indopov.
+
+

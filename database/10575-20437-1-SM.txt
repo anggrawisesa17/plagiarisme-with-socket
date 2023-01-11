@@ -1,0 +1,571 @@
+JURNAL KARYA TEKNIK SIPIL, Volume 4, Nomor 4, Tahun 2015, Halaman 462 – 470
+JURNAL KARYA TEKNIK SIPIL, Volume 4, Nomor 4, Tahun 2015, Halaman 462
+Online di: http://ejournal-s1.undip.ac.id/index.php/jkts
+
+STUDI KASUS FAKTOR PENYEBAB KECELAKAAN LALU LINTAS
+PADA TIKUNGAN TAJAM
+Ryan Manggala, Jeffry Angga J., Djoko Purwanto *), Amelia Kusuma I.*)
+Jurusan Teknik Sipil, Fakultas Teknik, Universitas Diponegoro
+Jl. Prof Soedarto, Tembalang, Semarang. 50239, Telp.: (024)7474770, Fax.: (024)7460060
+ABSTRAK
+Tikungan tajam merupakan lokasi rawan kecelakaan. Jumlah kecelakaan di tikungan 1,5
+hingga 4 kali lebih banyak dari pada di bagian lurus jalan. Penelitian ini bertujuan untuk
+mengevaluasi kondisi geometrik pada beberapa tikungan yang ditinjau dengan peraturan
+geometrik jalan yang berlaku, untuk mengetahui karakteristik kecelakaan, untuk
+mengetahui hubungan pemodelan faktor penyebab kecelakaan, untuk mengetahui faktor
+utama penyebab kecelakaan, dan memberikan rekomendasi pemecahan masalah. Analisis
+yang dilakukan berupa analisis evaluasi kondisi geometrik, analisis karakteristik
+kecelakaan, dan analisis cross tabulation. Berdasarkan evaluasi kondisi geometrik, di
+ketiga tikungan yang ditinjau radius tikungan tidak ada yang memenuhi standar teknis dan
+nilai kecepatan (SMS) hampir 50% jenis kendaraan sampel melebihi batas kecepatan
+perhitungan tikungan SS. Berdasarkan karakteristik kecelakaan, di ketiga tikungan yang
+ditinjau diperoleh hasil bahwa faktor penyebab kecelakaan yang dominan adalah faktor
+manusia (70%). Hasil penelitian hubungan radius dengan tingkat fatalitas menunjukkan
+nilai R Square 0,859 dan hubungan kecepatan dengan tingkat fatalitas R Square-nya 0,91.
+Secara ringkasnya hasil ketiga analisis dapat diketahui faktor utama penyebab kecelakaan
+lalu lintas adalah faktor manusia yang lebih spesifik karena faktor kecepatan dan disusul
+faktor radius tikungan. Beberapa upaya jenis penanganan yang dapat diterapkan adalah
+memasang rambu batas kecepatan di beberapa lokasi khusus, membuat rumble strip
+sebelum masuk tikungan tajam.
+kata kunci : Faktor penyebab kecelakaan, Tikungan tajam, Cross tabulation
+ABSTRACT
+Hairpin curve is an accident prone location. The number of accidents on curve 1,5 to 4
+times much more than on straight road. This study aimed to evaluate the geometric
+conditions on some curve that is reviewed by applicable geometric rules, to determine the
+characteristics of the accidents, to determine the relationship of modeling the causes of
+accidents, to determine the main factors causing traffic accidents, and provide
+troubleshooting recommendations. The analysis that is carried out are analysis of
+geometric condition evaluation, accident characteristics analysis, and cross tabulation
+analysis. Based on the evaluation of the geometric conditions, on all of the third curves
+there are not reach the technical standards because under minimum curve radius and the
+value of SMS of sample vehicle variety more than SS curve calculation speed limit nearly
+*)
+
+Penulis Penanggung Jawab
+
+462
+
+JURNAL KARYA TEKNIK SIPIL, Volume 4, Nomor 4, Tahun 2015, Halaman 463
+
+reach 50%. Based on the characteristics of accidents, on the third curves showed that the
+dominant factor causing accidents is human factor (70%). The results of study relationship
+between curve radius and degree of fatality indicate the value of R Square 0,859,
+meanwhile relationship between speed and degree of fatality indicate the value of R Square
+0,91. The sum of the analysis showed the main factor causing traffic accidents is human
+factor specificly to the speed factor and then continued by curve radius factor. Several
+attempts types of treatment that can be applied is to install speed limit signs in some
+specific locations, make rumble strips before entering the hairpin curves.
+keywords: Factors causing the accident, Hairpin curve, Cross tabulation
+PENDAHULUAN
+Kecelakaan lalu lintas merupakan masalah kesehatan yang sangat serius di dunia yang
+menyebabkan kematian dan berada pada peringkat 9 dunia. Indonesia menempati peringkat
+ke 5 di dunia sebagai negara dengan tingkat kecelakaan lalu lintas tertinggi. Secara umum
+kecelakaan lalu lintas yang terjadi disebabkan oleh beberapa faktor, seperti kelalaian
+manusia, kondisi geometrik jalan, kelaikan kendaraan, dan kondisi lingkungan sekitar.
+Berdasarkan data Korlantas Polri 2011-2013, faktor-faktor penyebab kecelakaan lalu lintas
+terutama akibat tidak tertib sebanyak 27.035 kasus, akibat lengah 21.073 kasus, dan
+melebihi batas kecepatan 9.278 kasus. Data tersebut menunjukkan bahwa faktor manusia
+sangat berpengaruh dalam menyumbang tingkat kecelakaan lalu lintas dan kecepatan
+merupakan bagian dari faktor manusia tersebut. Kecepatan berpengaruh dalam kecelakaan
+lalu lintas, terutama saat berada di tikungan. Jumlah kecelakaan di tikungan jalan 1,5
+hingga 4 kali lebih banyak dari pada di bagian lurus jalan. Kematian dan kerusakan akibat
+kecelakaan lalu lintas yang terjadi di tikungan berkisar 25% hingga 30%. Tikungan tajam
+merupakan lokasi rawan kecelakaan, sementara standar geometrik mengijinkan adanya
+tikungan tajam tetapi hanya untuk jalan fungsi tertentu dengan kecepatan relatif rendah.
+Dalam upaya pencegahan kecelakaan lalu lintas di tikungan tajam, perlu dilakukan
+penelitian kecelakaan sebagai upaya untuk mengungkap dan mengidentifikasi faktor-faktor
+penyebab terjadinya kecelakaan lalu lintas di tikungan tajam. Adapun lokasi studi dari
+penelitian adalah tikungan tajam di Jalan Raya Jatisari, Jalan Raya Jrakahpayung, dan
+Jalan Raya Kandeman, Batang.
+Adapun tujuan penelitian ini adalah untuk :
+- Mengetahui kesesuaian kondisi geometrik jalan pada tikungan yang ditinjau dengan
+peraturan geometrik jalan yang berlaku.
+- Mengetahui karakteristik kecelakaan lalu lintas pada tikungan yang ditinjau.
+- Mengetahui hubungan pemodelan faktor penyebab kecelakaan pada tikungan yang
+ditinjau.
+- Mengetahui faktor utama penyebab kecelakaan lalu lintas pada tikungan yang ditinjau.
+- Memberikan rekomendasi pemecahan masalah untuk meminimalisir kecelakaan
+berdasarkan analisis faktor penyebab kecelakaan lalu lintas pada tikungan yang
+ditinjau.
+METODE PENELITIAN
+Secara umum kerangka konsep penelitian ini dapat dilihat pada Gambar 1 berikut ini.
+463
+
+JURNAL KARYA TEKNIK SIPIL, Volume 4, Nomor 4, Tahun 2015, Halaman 464
+
+Mulai
+
+Identifikasi Masalah
+Observasi Lapangan
+Penetapan Tujuan
+Studi Pustaka
+Pengumpulan Data
+
+Data Sekunder:
+- Data Kecelakaan
+- Data dan Gambar Geometrik Jalan
+- Volume Lalu Lintas Harian Rata-Rata (LHR)
+
+Data Primer:
+- Kondisi atau situasi tikungan tajam yang ditinjau
+- Kelengkapan Prasarana Jalan
+- Jenis dan Kecepatan kendaraan
+
+Data
+cukup
+?
+
+Tidak
+
+Ya
+Pengolahan Data
+
+Ekstraksi dan Pengelompokan Data
+
+Kompilasi Data dan Penelusuran
+
+Analisis dan Pembahasan
+- Analisis evaluasi kondisi geometrik jalan pada tikungan yang ditinjau.
+- Analisis deskriptif karakteristik kecelakaan lalu lintas pada tikungan yang ditinjau.
+- Analisis hubungan pemodelan faktor penyebab kecelakaan pada tikungan yang ditinjau.
+- Penentuan faktor utama penyebab kecelakaan lalu lintas pada tikungan yang ditinjau.
+- Penyusunan rekomendasi pemecahan masalah untuk meminimalisir kecelakaan berdasarkan analisis faktor
+penyebab kecelakaan lalu lintas pada tikungan yang ditinjau.
+Hasil
+- Evaluasi kondisi geometrik jalan pada tikungan yang ditinjau.
+- Karakteristik kecelakaan lalu lintas pada tikungan yang ditinjau.
+- Hubungan pemodelan faktor penyebab kecelakaan pada tikungan yang ditinjau.
+- Faktor utama penyebab kecelakaan lalu lintas pada tikungan yang ditinjau.
+- Rekomendasi pemecahan masalah untuk meminimalisir kecelakaan berdasarkan analisis faktor penyebab
+kecelakaan lalu lintas pada tikungan yang ditinjau.
+Kesimpulan dan Saran
+Selesai
+
+Gambar 1. Kerangka Konsep Penelitian
+464
+
+JURNAL KARYA TEKNIK SIPIL, Volume 4, Nomor 4, Tahun 2015, Halaman 465
+
+HASIL DAN PEMBAHASAN
+Evaluasi Kondisi Geometrik Jalan
+Perbandingan kondisi geometrik jalan bertujuan untuk mengetahui apakah kondisi
+geometrik jalan pada tikungan yang ditinjau sesuai dengan Tata Cara Perencanaan
+Geometrik Jalan Antar Kota No. 038/TBM/1997 ditampilkan dalam Tabel 1 berikut.
+Tabel 1. Hasil Ukur Dan Pengamatan Lapangan Kondisi Geometrik
+Pengamatan dan Pengukuran
+
+Hasil Ukur dan Pengamatan
+Tikungan
+Tikungan
+Tikungan
+Aspek
+Satuan
+Jrakahpayung
+Jatisari
+Kandeman
+Kecepatan Rencana
+km/jam
+70-120
+44,61
+46,25
+48,05
+Radius Tikungan Minimum
+Meter
+210
+75
+90
+100
+Superelevasi Maksimum
+Persen
+10
+7,2
+7
+6,7
+Lebar Bahu Jalan Minimum
+Meter
+2
+2,25
+2,25
+1,3
+Lebar Median Minimum
+Meter
+2
+1,1
+1,3
+2,2
+Lebar Trotoar Minimum
+Meter
+1,5
+1,7
+1,55
+1,55
+Sumber: Hasil Survey Lapangan, Pengukuran, dan Pengamatan, 2015
+Standar Teknis *)
+
+Berdasarkan hasil perbandingan antara hasil pengukuran dan pengamatan lapangan dengan
+standar teknis Tata Cara Perencanaan Geometrik Jalan Antar Kota No. 038/TBM/1997
+yang ditunjukkan Tabel 3, dapat disimpulkan bahwa dari ketiga lokasi tikungan yang
+ditinjau, radius tikungan tidak ada yang memenuhi standar teknis. Radius tikungan yang
+tidak memenuhi standar teknis dapat menjadikan faktor geometrik sebagai faktor penyebab
+kecelakaan. Kemudian untuk kecepatan, dari ketiga lokasi besar kecepatan SMS masih
+dibawah standar batas kecepatan hasil perhitungan tikungan SS. Namun hampir 50% jenis
+kendaraan sampel kecepatannya melebihi batas kecepatan perhitungan tikungan SS. Hal
+tersebut terjadi karena dimungkinkan rambu batas kecepatan belum ada di sekitar lokasi
+tikungan. Dari penjelasan tersebut berarti faktor kecepatan menjadi salah satu faktor
+penyebab kecelakaan.
+Karakteristik Kecelakaan Lalu Lintas di Tikungan Yang Ditinjau
+Hasil analisis karakteristik kecelakaan lalu lintas di tikungan Jrakahpayung, Jatisari, dan
+Kandeman dapat dilihat pada Tabel 2 berikut ini.
+Tabel 2. Rekapitulasi Anatomi Data Kecelakaan Lalu lintas
+Tikungan Jrakahpayung
+Anatomi
+Persentase
+Laka Lalin
+Keterangan
+(%)
+1 Hari kejadian 22,45
+Hari Kamis
+
+54
+
+Tikungan Jatisari
+Tikungan Kandeman
+Persentase
+Persentase
+Keterangan
+Keterangan
+(%)
+(%)
+22,22
+Hari Rabu dan
+20
+Hari Kamis
+Jumat
+Jam 18.00 WIB
+27,78
+Jam 12.00 WIB
+42
+Jam 06.00 WIB
+s/d 24.00 WIB
+s/d 24.00 WIB
+s/d 12.00 WIB
+Kecelakaan
+52,78
+Kecelakaan
+62
+Kecelakaan
+sedang
+sedang
+sedang
+Depan-belakang
+55,17
+Depan-belakang
+55,26
+Depan-belakang
+
+79,59
+
+Tabrakan ganda
+
+No
+
+2 Waktu
+kejadian
+3 Tingkat
+fatalitas
+4 Jenis
+tabrakan
+5 Jumlah
+kendaraan
+
+32,65
+51,02
+
+75
+
+Tabrakan ganda
+
+72
+
+Tabrakan ganda
+
+465
+
+JURNAL KARYA TEKNIK SIPIL, Volume 4, Nomor 4, Tahun 2015, Halaman 466
+
+No
+
+Tikungan Jrakahpayung
+Anatomi
+Persentase
+Laka Lalin
+Keterangan
+(%)
+
+6 Jenis
+25,56
+Sepeda motor
+kendaraan
+7 Jenis korban
+81,63
+Luka ringan
+8 Jenis kelamin 87,01
+Laki-laki
+9 Usia
+43,42
+16-30 Tahun
+10 Faktor
+57,69
+Manusia
+penyebab
+Sumber: Hasil Pengolahan Data, 2015
+
+Tikungan Jatisari
+Persentase
+Keterangan
+(%)
+
+Tikungan Kandeman
+Persentase
+Keterangan
+(%)
+
+59,26
+
+Sepeda motor
+
+47,62
+
+Sepeda motor
+
+74,55
+88,89
+40,32
+79,55
+
+Luka ringan
+Laki-laki
+16-30 Tahun
+Manusia
+
+81,94
+73,56
+44,83
+59,49
+
+Luka ringan
+Laki-laki
+16-30 Tahun
+Manusia
+
+Hubungan Pemodelan Faktor Penyebab Kecelakaan Pada Tikungan Yang Ditinjau
+Hasil analisis hubungan pemodelan faktor penyebab kecelakaan pada tikungan Jatisari,
+tikungan Jrakahpayung, dan tikungan Kandeman yang memiliki korelasi kuat dan sesuai
+dengan model adalah sebagai berikut:
+1. Hubungan kecepatan kendaraan dengan tingkat fatalitas (EAN) sebesar 0,954.
+2. Hubungan radius tikungan dengan tingkat fatalitas (EAN) sebesar 0,927.
+3. Hubungan volume lalu lintas dengan tingkat fatalitas (EAN) sebesar 0,887.
+4. Hubungan radius tikungan dengan kecepatan kendaraan sebesar 0,881.
+
+Gambar 2. Grafik Hubungan Kecepatan
+Dengan EAN
+
+Gambar 3. Grafik Hubungan Radius
+Dengan EAN
+
+Gambar 4. Grafik Hubungan Volume Lalin
+Dengan Total EAN
+
+Gambar 5. Grafik Hubungan Radius
+Dengan Kecepatan Kendaraan
+
+466
+
+JURNAL KARYA TEKNIK SIPIL, Volume 4, Nomor 4, Tahun 2015, Halaman 467
+
+- Gambar 2 menjelaskan nilai R square hubungan kecepatan dengan EAN sebesar 0,91
+berarti semakin besar kecepatan kendaraan di tikungan maka tingkat fatalitas juga akan
+meningkat.
+- Gambar 3 menjelaskan nilai R square hubungan radius tikungan dengan EAN sebesar
+0,86 berarti semakin besar radius tikungan maka tingkat fatalitas akan meningkat, karena
+kecepatan juga meningkat.
+- Gambar 4 menjelaskan nilai R square hubungan volume lalin dengan EAN sebesar 0,78
+berarti semakin besar volume lalu lintas maka tingkat fatalitas akan meningkat.
+- Gambar 5 menjelaskan nilai R square hubungan radius tikungan dengan kecepatan
+sebesar 0,72 berarti semakin besar radius tikungan maka pengendara akan cenderung
+menambah kecepatan kendaraannya.
+Berdasarkan keempat model hubungan tersebut maka dapat disimpulkan bahwa faktor
+utama yang menyebabkan kecelakaan adalah faktor kecepatan kendaraan dan faktor radius
+tikungan yang mempunyai nilai korelasi mendekati 1, setelahnya yaitu faktor volume lalu
+lintas.
+Faktor Utama Penyebab Kecelakaan Lalu Lintas Pada Tikungan Yang Ditinjau
+Faktor penyebab kecelakaan lalu lintas dari hasil analisis deskriptif karakteristik
+kecelakaan lalu lintas, analisis evaluasi kondisi geometrik tikungan dengan peraturan Tata
+Cara Perencanaan Geometrik Jalan Antar Kota No. 038/TBM/1997, analisis hubungan
+pemodelan faktor penyebab kecelakaan di tikungan Jatisari, tikungan Jrakahpayung, dan
+tikungan Kandeman ditampilkan pada Tabel 3 berikut.
+Tabel 3. Rekapitulasi Analisis Faktor Penyebab Kecelakaan
+No.
+
+Nama Analisis
+
+1
+
+Analisis deskriptif karakteristik
+kecelakaan lalu lintas
+Analisis evaluasi kondisi geometrik
+tikungan
+Analisis hubungan pemodelan faktor
+penyebab kecelakaan
+
+2
+3
+
+Faktor Penyebab Kecelakaan Berdasarkan
+Hasil Analisis
+1. Faktor manusia
+2. Faktor kecepatan kendaraan
+1. Faktor radius tikungan
+2. Faktor kecepatan kendaraan
+1. Faktor kecepatan kendaraan
+2. Faktor radius tikungan
+3. Faktor volume lalu lintas
+
+Sumber: Hasil Pengolahan Data, 2015
+
+Berdasarkan Tabel 3 dapat diketahui faktor utama penyebab kecelakaan lalu lintas di
+tikungan Jatisari, tikungan Jrakahpayung, dan tikungan Kandeman adalah faktor kecepatan
+kendaraan karena dari ketiga analisis yang dilakukan menyatakan bahwa faktor kecepatan
+kendaraan yang mempengaruhi kecelakaan tersebut. Akan tetapi faktor radius tikungan
+juga sangat mempengaruhi terjadinya kecelakaan lalu lintas di tikungan Jatisari, tikungan
+Jrakahpayung, dan tikungan Kandeman, sehingga faktor radius tikungan juga merupakan
+faktor utama penyebab kecelakaan lalu lintas.
+
+467
+
+JURNAL KARYA TEKNIK SIPIL, Volume 4, Nomor 4, Tahun 2015, Halaman 468
+
+KESIMPULAN
+Hasil pengolahan dan analisis data yang telah dilakukan di seluruh lokasi penelitian, dapat
+disimpulkan beberapa hal berikut ini:
+1. Berdasarkan evaluasi kondisi geometrik jalan pada tikungan yang ditinjau dengan
+meninjau hasil perbandingan antara hasil pengukuran dan pengamatan lapangan dengan
+standar teknis Tata Cara Perencanaan Geometrik Jalan Antar Kota No. 038/TBM/1997
+dapat disimpulkan sebagai berikut:
+- Radius tikungan tidak ada yang memenuhi standar teknis. Radius tikungan yang tidak
+memenuhi standar teknis menjadikan faktor geometrik sebagai faktor penyebab
+kecelakaan.
+- Jenis kendaraan sampel yang memiliki nilai SMS melebihi batas kecepatan
+perhitungan tikungan SS hampir 50%. Penyimpangan terjadi karena dimungkinkan
+rambu batas kecepatan belum ada di sekitar lokasi tikungan. Dari penjelasan tersebut
+faktor kecepatan menjadi salah satu faktor penyebab kecelakaan.
+2. Berdasarkan hasil analisis deskriptif karakteristik tikungan yang ditinjau adalah sebagai
+berikut:
+- Faktor utama penyebab kecelakaan yang terjadi dari tahun 2010-2014 di seluruh
+tikungan yang ditinjau adalah faktor manusia lebih dari 50%.
+- Pada Tikungan Jrakahpayung dan Kandeman hari Kamis menjadi hari terbanyak
+terjadi kecelakaan sebesar lebih dari 20%, sedangkan tikungan Jatisari pada hari
+Rabu dan Jumat sebesar 22,22%.
+- Waktu kejadian kecelakaan terbanyak berbeda untuk tiap tikungan, yaitu pukul 18.00
+s/d 24.00 (32,65%) pada tikungan Jrakahpayung, pukul 12.00 s/d 24.00 (27,78%)
+pada tikungan Jatisari, dan pukul 06.00 s/d 12.00 WIB (42%) pada tikungan
+Kandeman.
+- Tingkat fatalitas kecelakaan yang terjadi di ketiga tikungan semuanya kecelakaan
+sedang lebih dari 50% dengan jenis tabrakan rear-end dan jumlah kendaraan yang
+terlibat laka yaitu tabrakan ganda sebesar lebih dari 70%.
+- Jenis Kendaraan yang terlibat kecelakaan terbanyak yaitu sepeda motor sebesar lebih
+dari 25% dengan jenis korban luka ringan sebesar lebih dari 70%.
+- Orang yang terlibat kecelakaan mayoritas berusia 16-30 tahun dan berjenis kelamin
+laki-laki.
+3. Berdasarkan hasil analisis hubungan pemodelan faktor penyebab kecelakaan pada
+tikungan Jatisari, tikungan Jrakahpayung, dan tikungan Kandeman yang memiliki
+korelasi kuat dan sesuai dengan model adalah sebagai berikut:
+- Hubungan kecepatan kendaraan dengan tingkat fatalitas (EAN) sebesar 0,954.
+- Hubungan radius tikungan dengan tingkat fatalitas (EAN) sebesar 0,927.
+- Hubungan volume lalu lintas dengan tingkat fatalitas (EAN) sebesar 0,887.
+- Hubungan radius tikungan dengan kecepatan kendaraan sebesar 0,881.
+4. Faktor utama penyebab kecelakaan lalu lintas di tikungan Jatisari, tikungan
+Jrakahpayung, dan tikungan Kandeman adalah faktor kecepatan kendaraan karena dari
+ketiga analisis yang dilakukan menyatakan bahwa faktor kecepatan kendaraan yang
+mempengaruhi kecelakaan tersebut. Selain itu faktor radius tikungan juga sangat
+mempengaruhi terjadinya kecelakaan lalu lintas, sehingga faktor radius tikungan juga
+merupakan faktor utama penyebab kecelakaan lalu lintas.
+5. Rekomendasi jenis penanganan yang dapat diterapkan untuk meminimalisir kecelakaan
+pada tikungan yang ditinjau antara lain:
+468
+
+JURNAL KARYA TEKNIK SIPIL, Volume 4, Nomor 4, Tahun 2015, Halaman 469
+
+-
+
+Memasang rambu batas kecepatan sebelum masuk lokasi tikungan.
+Membuat fasilitas jalan berupa polisi tidur kejut (rumble strip)
+Memasang reflector di bagian median jalan atau di tepi jalur jalan.
+Pengawasan yang lebih efektif dari aparat kepolisian sepanjang hari dan jam kerja.
+Pemeliharaan fasilitas jalan seperti penerangan jalan.
+
+SARAN
+Berdasarkan penelitian yang telah dilakukan, maka disarankan yang dapat dilakukan
+selanjutnya berupa:
+1. Perancangan geometrik jalan untuk tikungan dengan fungsi jalan arteri primer
+sebaiknya tidak menggunakan desain jenis tikungan yang tidak semestinya (tikungan
+Spiral-Spiral).
+2. Perlu adanya fasilitas rambu pembatasan kecepatan menjelang tikungan tajam. Besaran
+nilai pembatasan kecepatan masing-masing lokasi tikungan berbeda satu dengan yang
+lain. Berikut ini besaran pembatasan kecepatan tersebut.
+- Nilai rambu pembatasan kecepatan Tikungan Jrakahpayung sebesar 40 km/jam.
+- Nilai rambu pembatasan kecepatan Tikungan Jatisari sebesar 50 km/jam.
+- Nilai rambu pembatasan kecepatan Tikungan Kandeman sebesar 50 km/jam.
+3. Perlu penambahan lampu penerangan jalan atau mengganti lampu penerangan jalan
+yang kurang maksimal pencahayaannya. Hal ini perlu dilakukan dengan alasan ada
+tikungan yang kecelakaannya sering terjadi pada kondisi jam gelap.
+4. Perlu adanya sosialisasi rutin keselamatan berkendara (safety riding) agar pengemudi
+lebih menyadari pentingnya menjaga keselamatan diri sendiri maupun orang lain.
+Kegiatan ini khususnya ditujukan kepada golongan masyarakat yang teridentifikasi
+paling banayak terlibat dalam kecelakaan sepeda motor yaitu pengendara sepeda motor
+berjenis kelamin laki-laki, pengendara sepeda motor pada rentang usia produktif.
+Sosialisasi ini dapat dilakukan melalui institusi penegak hukum (kepolisian), institusi
+pendidikan, media massa, dan juga menerbitkan buku pedoman keselamatan berkendara
+untuk segenap masyarakat.
+5. Perlunya penegakan hukum yang tegas untuk mendorong pengguna jalan, khususnya
+pengendara kendaraan untuk menggunakan jalan dengan aman dan tertib. Penegakan
+hukum ini bukan hanya berupa penindakan setelah pelanggaran, namun juga berupa
+upaya pencegahan kecelakaan serta penciptaan kondisi jalan yang baik dan layak serta
+lingkungan yang aman dan nyaman bagi pengguna jalan khususnya pengemudi
+kendaraan. Penegakan hukum yang tepat akan dapat mencegah terjadinya kecelakaan.
+DAFTAR PUSTAKA
+Direktorat Jenderal Bina Marga, 1997. Tata Cara Perencanaan Geometrik Jalan Antar
+Kota, Jakarta.
+Indratno, Imam dan Irwinsyah, Rahmat, 1998. “Aplikasi Analisis Tabulasi Silang
+(Croostab) Dalam Perencanaan Wilayah Dan Tata Kota”, JURNAL PWK-48,
+Volume 9, No. 2/Mei 1998, UNISBA.
+Kurniawan, Felix Ade Agusta, 2011. Tugas Akhir Analisis Kecelakaan Tikungan Jalan
+Yogyakarta-Semarang Di Dusun Kedungblondo, Desa Ngipik, Kecamatan
+Pringsurat, Temanggung, Universitas Atma Jaya, Yogyakarta.
+
+469
+
+JURNAL KARYA TEKNIK SIPIL, Volume 4, Nomor 4, Tahun 2015, Halaman 470
+
+Manurung, Jeffry Rio H, 2012. Hubungan Faktor-Faktor Penyebab Dan Akibat
+Kecelakaan lalu Lintas Pada Pengendara Sepeda Motor Di Kota Medan Tahun
+2008-2010, Universitas Sumatera Utara. Medan.
+Mulyono, Agus Taufik, Kushari, Berlian, & Gunawan, Hendra Edi, 2009. “Audit
+Keselamatan Infrastruktur Jalan (Studi Kasus Jalan Nasional KM 78-KM 79 Jalur
+Pantura Jawa, Kabupaten Batang)” JURNAL TEKNIK SIPIL / Volume 16 N0 3 3
+Desember 2009 ISSN 0853-2982, Universitas Gadjah Mada. Yogyakarta.
+Saragih, Paulus Gerhard Gama dan Yusandy Aswad, 2014. Analisa Kecelakaan Lalu
+Lintas Di Kota Pematang Siantar, Universitas Sumatera Utara, Medan.
+Siga, Bertholemeus Lele, 2012. Tugas Akhir Analisis Alinyemen Horizontal Pada
+Tikungan Ring Road Selatan Km 6 Taman Tirto Kasihan, Bantul, DIY Universitas
+Atma Jaya, Yogyakarta.
+Sumarsono, Agus, Pramesti, Florentina Pungi, & Sarwono, Djoko, 2010. Model
+Kecelakaan Lalu Lintas Di Tikungan Karena Pengaruh Konsistensi Alinyemen
+Horizontal Dalam Desain Geometrik Jalan Raya, Universitas Sebelas Maret,
+Surakarta.
+Sutomo, Edi, 2009. Analisa Struktur Tikungan Jalan Raya Berbentuk Spiral Spiral Dengan
+Pendekatan Geometri, Universitas Muhammadiyah Malang, Malang.
+
+470
+
+

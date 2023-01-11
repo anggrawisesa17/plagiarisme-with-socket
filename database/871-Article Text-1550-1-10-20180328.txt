@@ -1,0 +1,1229 @@
+Jurnal Ilmiah Ekonomi dan Bisnis
+Vol. 14. No.1, Maret 2017: 62-71
+EISSN : 2442 – 9813
+ISSN : 1829 – 9822
+
+PENGARUH PEMAHAMAN WAJIB PAJAK, KESADARAN WAJIB
+PAJAK DAN SANKSI PAJAK TERHADAP KEPATUHAN WAJIB
+PAJAK ORANG PRIBADI YANG MELAKUKAN KEGIATAN
+BISNIS ONLINE DI PEKANBARU
+Nelsi Arisandy
+Universitas Islan Negeri Sutan Syarif Kasim Riau
+Jl. Subrantas KM. 15, Rimba Panjang, Tambang, Rimba Panjang, Tambang,
+Kota Pekanbaru, Riau 28293
+E-mail : nelsi_arisandy@yahoo.co.id
+
+Abstract: The purpose of this study is to provide empirical evidence about the influence of
+the taxpayer understanding, awareness of taxpayers and sanction tax compliance with tax
+compliance individual who doing business online activities in Pekanbaru. The type of this
+research is quantitative. The population in this study is an individual taxpayer who live in
+Pekanbaru. The sample in this study is an individual taxpayer who doing business online
+activities.Total sample is 100 respondents.The method of this sample using convenience
+sampling method. The techniques used in this research is multiple linear regression.The
+results of this research show that the partial understanding of the taxpayer does not
+influencesignificantly with individual taxpayer compliance, while awareness of taxpayers and
+sanction tax compliance have significantly affect with the individual taxpayers who doing
+business online. And simultaneously, the understanding of the taxpayer, the taxpayer
+awareness and sanction tax compliance have significantly influence with individual taxpayers
+who doing business online in Pekanbaru.
+Keywords: Understanding of the taxpayer, the taxpayer awareness, Sanctions Taxes,
+Taxpayer Compliance.
+
+PENDAHULUAN
+Perkembangan
+teknologi
+informasi telah membuat berbagai
+perubahan dalam sendi-sendi kehidupan
+masyarakat. Masyarakat sekarang telah
+dimanjakan oleh berbagai macam bentuk
+teknologi yang memudahkan mereka
+dalam melakukan aktivitas sehari-hari.
+Khususnya
+di
+dalam
+transaksi
+perdagangan dikenal suatu model yang
+lagi populer dan menjadi trend
+dikalangan masyarakat termasuk di
+Indonesia. Bentuk perdagangan ini
+dikenal dengan istilahbisnis online.
+Transaksi
+bisnis
+onlinetersebut
+difasilitasi oleh suatu sistem elektronik
+yang
+dikenal
+dengan
+istilah
+internet(Wirdasari, 2009).
+Manfaat
+dan
+keuntungan
+menggunakan
+internetadalah
+untuk
+media promosi dalam rangka untuk
+
+meningkatkan volume penjualan, baik
+untuk
+penjualan
+online
+maupun
+konvensional (Jansen, 2006). Di samping
+keuntungan tersebut, ternyata hasil
+beberapa penelitian menunjukkan bahwa
+efektivitas penggunaan bisnis onlinedalam
+mendongkrak
+peningkatan
+volume
+penjualan dan mempromosikan produkproduk industri cukup tinggi (Supardi,
+2008).
+Transaksi bisnis onlinesekarang ini
+menjadi bahanperbincangan karenasering
+digunakan oleh wajib pajak dalam
+melakukan kegiatan usahanya. Hal ini
+dikarenakan semakinmajunya teknologi
+yang sekarang ini juga menjadi sarana
+yang menguntungkan bagi wajib pajak
+orang pribadi dalam melakukan kegiatan
+usaha. Contohnya dengan melakukan
+penjualan barang dagangan memanfaatkan
+media elekronik melalui jejaring sosial
+
+62
+
+Jurnal Ilmiah Ekonomi dan Bisnis
+
+berupa Twitter, Facebook, Instagram
+dan lain-lain.
+Berbeda
+dengan
+transaksi
+perdagangan biasa, transaksi bisnis
+online memiliki banyak permasalahan
+yang rumit. Salah satunya bisnis jual
+beli produk melalui sistem jaringan
+internet atau online dalam beberapa
+tahun terakhir berkembang sangat pesat,
+namun belum banyak pelaku bisnis itu
+yang melaporkan pajak usahanya
+(Mulyono, 2012). Direktur Jenderal
+Pajak dalam Surat Edaran Nomor
+SE/62/PJ/2013
+tentang
+Penegasan
+Ketentuan Perpajakan Atas Transaksi
+BisnisOnline menegaskan tidak ada
+perbedaan perlakuan perpajakan antara
+transaksi bisnis online dan transaksi
+perdagangan dan/atau jasa lainnya.
+Permasalahannya
+transaksi
+bisnisonlinesulit dikenai pajak karena
+dengan Self Assessement System yang
+dianut oleh sistem perpajakan Indonesia
+yang memberikan kepercayaan kepada
+wajib
+pajak,
+lebih
+menekanpada
+kesadaran wajib pajak itu sendiri untuk
+membayar pajak atas penghasilan yang
+diperoleh dari usahanya. Hal ini
+dikarenakan
+dalam
+transaksi
+bisnisonlinehanya disertai dengan bukti
+transfer uang yang memperlihatkan
+beralihnya uang dari rekening pihak
+pertama ke rekening pihak lain, dan
+tidak menunjukkan bukti terjadinya
+transaksi jual beli yang dikenai pajak.
+Penerimaan pajak di Indonesia
+tergolong
+rendah.
+Salah
+satu
+penyebabnya
+dikarenakan
+tingkat
+kepatuhan wajib pajak yang semakin
+lama
+semakin
+menurun.Penelitian
+tentang kepatuhan wajib pajak telah
+banyak dilakukan. Menurut Pratama
+(2012) wajib pajak patuh adalah wajib
+pajak yang ditetapkan oleh Direktur
+Jenderal Pajak sebagai wajib pajak yang
+memenuhi kriteria tertentu yang dapat
+diberikan pengembalian pendahuluan
+kelebihan pembayaran pajak. Menurut
+Suryadi (2006) kepatuhan wajib pajak
+
+Vol. 14. No.1, Maret 2017: 62-71
+EISSN : 2442 – 9813
+ISSN : 1829 – 9822
+
+dibentuk oleh dimensi pemeriksaan pajak,
+penegakan hukum dan kompensasi pajak.
+Tujuan pemeriksaan adalah untuk menguji
+kepatuhan
+wajib
+pajak
+dalam
+melaksanakan perpajakannya. Kepatuhan
+wajib
+pajak
+memenuhi
+kewajiban
+perpajakkannya meningkatkan
+peneri
+maan negara dan pada gilirannya akan
+meningkatkan besarnya rasio pajak
+(Nurmantu, 2007).
+Adanya ketidak tergalian potensi
+perpajakan ini dapat dilatar belakangi
+karena kurangnya pemahaman wajib
+pajak dalam peraturan perpajakan terkait
+kepatuhan dan kewajiban perpajakannya.
+Sebagaimana
+Hardiningsih
+(2011)
+menjelaskan pemahaman wajib pajak
+terhadapperaturan perpajakan adalah cara
+wajib pajak dalam memahami peraturan
+perpajakan yang telah ada sehingga
+kepatuhan wajib pajaknya meningkat.
+Ini dapat dilihat dalam Syahril
+(2013) yang meneliti tentang pengaruh
+tingkat pemahaman wajib pajak dan
+kualitas pelayanan fiskus terhadap
+kepatuhan wajib pajak PPhorang pribadi
+yang menunjukkan hasil bahwa tingkat
+pemahaman wajib pajak berpengaruh
+signifikan terhadap kepatuhan wajib
+pajak.
+Dalam sistem pemungutan pajak
+self assessment system tentu kesadaran
+wajib pajak menjadi hal yang perlu
+diperhatikan dalam upaya meningkatkan
+tingkat kepatuhan wajib pajak.Kesadaran
+adalah keadaan mengetahui atau mengerti,
+sedangkan perpajakan adalah perihal
+pajak. Sehingga kesadaran perpajakan
+adalah keadaan mengetahui atau mengerti
+perihal pajak. Penilaian positif wajib
+pajak terhadap pelaksanaan fungsi negara
+oleh pemerintah akan menggerakkan
+masyarakat
+untuk
+mematuhi
+kewajibannya untuk membayar pajak.
+Maka dari itu kesadaran wajib
+pajak mengenai perpajakan amatlah
+diperlukan guna meningkatkan kepatuhan
+wajib pajak.Hal ini sejalan dengan
+penelitian Jatmiko (2006) yang meneliti
+
+63
+
+Jurnal Ilmiah Ekonomi dan Bisnis
+Vol. 14. No.1, Maret 2017: 62-71
+EISSN : 2442 – 9813
+ISSN : 1829 – 9822
+
+tentang pengaruh kesadaran wajib pajak
+terhadap
+kepatuhan
+wajib
+pajakmenunjukkan hasil berpengaruh
+positif terhadap kepatuhan wajib pajak.
+Ketentuan umum dan tata cara
+peraturan perpajakan telah diatur dalam
+Undang-Undang,
+tak
+terkecuali
+mengenai sanksi perpajakan.Sanksi
+merupakan hukuman negatif kepada
+orang yang melanggar peraturan,
+sehingga dapat dikatakan bahwa sanksi
+perpajakan adalah hukuman negatif
+kepada orang yang melanggar peraturan
+dengan cara membayar uang. Undangundang dan peraturan secara garis besar
+berisikan hak dan kewajiban, tindakan
+yang
+diperkenankan
+dan
+tidak
+diperkenankan oleh masyarakat. Agar
+undang-undang dan peraturan tersebut
+dipatuhi, maka harus ada sanksi bagi
+pelanggarnya, demikian halnya untuk
+hukum pajak. Dalam undang-undang
+perpajakan dikenal dua macam sanksi,
+yaitu sanksi administrasi dan sanksi
+pidana. sanksi administrasi dapat berupa
+bunga, denda, dan kenaikan. Sanksi
+diperlukan untuk memberikan pelajaran
+bagi pelanggar pajak. Dengan demikian,
+diharapkan agar peraturan perpajakan
+dipatuhi oleh para wajib pajak. Wajib
+pajak akan memenuhi kewajiban
+perpajakan bila memandang bahwa
+sanksi perpajakan akan lebih banyak
+merugikannya (Jatmiko, 2006).
+Penelitian lainnya dilakukan oleh
+Kurnia (2014)yang meneliti pengaruh
+kesadaran wajib pajak, pelayanan fiskus
+dan sanksi pajak terhadap kepatuhan
+wajib pajak orang pribadi menunjukkan
+hasil bahwa kesadaran wajib pajak,
+pelayanan fiskus dan sanksi pajak
+berpengaruh
+signifikan
+terhadap
+kepatuhan wajib pajak.Kesadaran wajib
+pajak atas fungsi perpajakan sebagai
+pembiayaan negara sangat diperlukan
+untuk meningkatkan kepatuhan wajib
+pajak.
+Penelitian dilakukan oleh Utami
+(2013) dengan variabel yang sama yang
+64
+
+meneliti tentang pengaruh kesadaran
+wajib pajak dan sanksi pajak terhadap
+kepatuhan wajib pajak orang pribadi
+menunjukkan hasil bahwa secara parsial
+kesadaran wajib pajak tidak berpengaruh
+terhadap kepatuhan wajib pajak, dan
+sanksi pajak berpengaruh terhadap
+kepatuhan wajib pajak. Sedangkan secara
+simultan,
+keduanya
+berpengaruh
+signifikan terhadap kepatuhan wajib
+pajak. Sanksi pajak memiliki pengaruh
+positif terhadap kepatuhan wajib pajak.
+Penelitian ini direplikasi dari
+Kurnia
+(2014),
+perbedaan
+dengan
+penelitian sebelumnya yaitu mengganti
+variabelpelayanan fiskus menjadi variabel
+pemahaman wajib pajak yang diambil
+dari Syahril (2013) serta objek penelitian
+yang hanya dikhususkan pada wajib pajak
+orang pribadi yang melakukan kegiatan
+bisnis online.
+TINJAUAN PUSTAKA
+Pengertian pajak menurut UndangUndang KUP No. 28 tahun 2007 adalah
+kontribusi wajib kepada negara yang
+terutang oleh orang pribadi atau badan yang
+bersifat memaksa berdasarkan undangundang, dengan tidak mendapatkan imbalan
+secara langsung dan digunakan untuk
+keperluan negara bagi sebesar-besarnya
+kemakmuran rakyat.
+Pajak dipungut berdasarkan normanorma hukum untuk menutup biaya
+produksi barang dan jasa kolektif untuk
+mencapai kesejahteraan umum. Penolakan
+untuk membayar, penghindaran, atau
+perlawanan terhadap pajak pada umumnya
+termasuk pelanggaran hukum. Pajak terdiri
+dari pajak langsung atau pajak tidak
+langsung dan dapat dibayarkan dengan
+uang ataupun kerja yang nilainya setara.
+Kepatuhan pajak adalah suatu
+keadaan dimana Wajib Pajak memenuhi
+semua
+kewajiban
+perpajakan
+dan
+melaksanakan
+hak
+perpajakannya
+(Muliari, 2011).Menurut Suryadi (2006),
+kepatuhan wajib pajak dibentuk oleh
+dimensi pemeriksaan wajib pajak,
+
+Jurnal Ilmiah Ekonomi dan Bisnis
+
+penegakan hukum, dan kompensasi
+pajak. Undang-Undang No. 28 Tahun
+2007 Pasal 4 ayat (1) menyatakan:
+Wajib Pajak wajib mengisi dan
+menyampaikan Surat Pemberitahuan
+dengan benar, lengkap, jelas, dan
+menandatanganinya.
+Kepatuhan wajib pajak dalam
+melaksanakan
+kewajiban
+pajaknya
+menurut
+Undang-Undang
+Republik
+Indonesia Nomor 28 Tahun 2007
+Tentang Ketentuan Umum Dan Tata
+Cara Perpajakan pasal 17 C ayat 2
+didasarkan pada kriteria sebagai berikut:
+1. Tepat
+waktu
+dalam
+menyampaikan
+Surat
+Pemberitahuan
+2. Tidak mempunyai tunggakan
+pajak untuk semua jenis pajak,
+kecualitunggakan pajak yang
+telah memperoleh izin untuk
+mengangsur
+atau
+menunda
+pembayaran pajak.
+3. Laporan Keuangan diaudit oleh
+Akuntan Publik atau lembaga
+pengawasan
+keuangan
+pemerintah dengan pendapat
+Wajar
+Tanpa
+Pengecualian
+selama 3 (tiga) tahun berturutturut, atau dengan pendapat wajar
+dengan pengecualian, sepanjang
+pengecualian
+tersebut
+tidak
+mempengaruhi laba rugi fiskal.
+Selanjutnya ditegaskan bahwa
+seandainya laporan keuangan
+diaudit, laporan audit tersebut
+harus disusun dalam bentuk
+panjang (long form report) dan
+menyajikan rekonsiliasi laba rugi
+komersial dan fiskal, dan
+4. Tidak pernah dipidana karena
+melakukan tindak pidana di
+bidang perpajakan berdasarkan
+putusan pengadilan yang telah
+mempunyai kekuatan hukum
+tetap dalam jangka waktu 5
+(lima) tahun terakhir.
+Maka konteks kepatuhan dalam
+penelitian ini mengandung arti bahwa
+
+Vol. 14. No.1, Maret 2017: 62-71
+EISSN : 2442 – 9813
+ISSN : 1829 – 9822
+
+Wajib Pajak berusaha untuk mematuhi
+peraturan hukum perpajakan yang
+berlaku, baik memenuhi kewajiban
+ataupun
+melaksanakan
+hak
+perpajakannya.
+Resmi (2009) mengatakan bahwa
+pengetahuan dan pemahaman
+akan
+peraturan perpajakan adalah proses dimana
+wajib pajak mengetahui tentang perpajakan
+dan mengaplikasikan pengetahuan itu untuk
+membayar
+pajak.
+Pengetahuan
+dan
+pemahaman peraturan perpajakan yang
+dimaksud mengerti dan paham tentang
+ketentuan umum dan tata cara perpajakan
+yang meliputi tentang bagaimana cara
+menyampaikan Surat Pemberitahuan (SPT),
+pembayaran, tempat pembayaran, denda
+dan batas waktu pembayaran atau pelaporan
+SPT.
+Menurut Ritonga (2011) kesadaran
+adalah perilaku atau sikap terhadap suatu
+objek yang melibatkan anggapan dan
+perasaan serta kecenderungan untuk
+bertindak sesuai objek tersebut. Menurut
+Muliari dalam Arum (2012), kesadaran
+perpajakan adalah suatu kondisi dimana
+wajib pajak mengetahui, memahami dan
+melaksanakan ketentuan perpajakan dengan
+benar dan sukarela.Kesadaran wajib pajak
+dibentuk oleh dimensi persepsi wajib pajak,
+pengetahuan wajib pajak, karakteristik
+wajib pajak dan penyuluhan perpajakan
+(Suryadi, 2006).
+Menurut Undang-Undang KUP
+Nomor 28 Tahun 2007 yang sudah
+dijelaskan yaitu salah satunya mengenai
+sanksi pajak, wajib pajak dapat dikenakan
+sanksi denda yang berupa administrasi,
+bunga, dan sanksi pidana. Sanksi pajak
+merupakan jaminan bahwa ketentuan
+peraturan perundang-undangan perpajakan
+(norma
+perpajakan)
+akan
+dituruti/ditaati/dipatuhi, dengan kata lain
+sanksi perpajakan merupakan alat pencegah
+agar wajib pajak tidak melanggar norma
+perpajakan (Mardiasmo, 2006 dalam
+Muliari, 2010).
+Sanksi pajak dibuat dengan tujuan
+agar wajib pajak takut untuk melanggar
+
+65
+
+Jurnal Ilmiah Ekonomi dan Bisnis
+Vol. 14. No.1, Maret 2017: 62-71
+EISSN : 2442 – 9813
+ISSN : 1829 – 9822
+
+Undang-Undang
+perpajakan.
+Agar
+Undang-Undang dan peraturan tersebut
+dipatuhi, maka harus ada sanksi bagi
+pelanggarnya.
+Mardiasmo
+(2011)
+mengemukakan bahwa sanksi perpajakan
+merupakan jaminan bahwa ketentuan
+peraturanperundang-undangan perpajakan
+(norma perpajakan) akan dituruti, ditaati,
+dan dipatuhi.
+Menurut Lubis (2010) adapula
+sanksi-sanksi perpajakan bagi wajib pajak
+orang pribadi, yaitu sebagai berikut:
+1. Rp.100.000
+apabila
+Surat
+Pemberitahuan (SPT) Masa tidak
+disampaikan atau disampaikan
+tidak sesuai dengan batas waktu,
+misalnya paling lambat 20 hari
+setelah akhir masa pajak.
+2. Sanksi
+bunga
+untuk
+Pajak
+Penghasilan (PPh) wajib pajak
+orang pribadi, yaitu sebesar 2%
+sebulan untuk selama-lamanya 24
+bulan atas jumlah pajak yang
+terutang tidak atau kurang dibayar.
+3. Sanksi pidana bagi wajib pajak
+orang pribadi yang karena
+kealpaannya.
+Dengan
+kata
+lain
+sanksi
+perpajakan merupakan alat pencegah agar
+wajib pajak tidak melanggar norma
+perpajakan.
+Dalam Surat Annisa ayat 59
+disebutkan bahwa bagi siapapun yang
+diberikan amanah maka dia harus
+mematuhinya
+dalam
+amanah
+menunjukkan kemunafikan dan sifat
+bermuka dua. Maka amanah sangat luas
+mencakup amanah harta, ilmu dan
+keluarga. Bahkan dalam beberapa riwayat
+kepemimpinan
+sosial
+dikategorikan
+sebagai amanah ilahi yang besar, dimana
+masyarakat harus berhati-hati dan
+menyerahkannya
+terletak
+pada
+kepemimpinan
+yang
+saleh
+dan
+profesional. Sebaliknya, sumber dari
+kesulitan sosial adalah para pemimpin
+yang tidak saleh dan korupsi.
+Seperti yang tertera dalam
+pengertian pajak yaitu pajak sifatnya
+66
+
+wajib dan bisa dipaksakan oleh pemerintah,
+dengan
+penerapan
+Self
+Assesment
+Systemwajib pajak harusnya sudah paham
+apabila pemerintah memberikan amanah
+sepenuhnya kepada wajib pajak untuk
+melaksanakan kewajiban perpajakannya.
+Maka seperti yang tertera pada surat Annisa
+ayat 59 yang berbunyi:
+
+Artinya:
+Ayat 59 : “Hai orang-orang yang beriman,
+taatilah Allah dan taatlah Rasul (Nya), dan
+ulil amri diantara kamu. Kemudian jika
+kamu berlainan Pendapat tentang sesuatu,
+Maka kembalikanlah ia kepada Allah (Al
+Quran) dan Rasul (sunahnya), jika kamu
+benar-benar beriman kepada Allah dan hari
+kemudian. Yang demikian itu lebih utama
+(bagimu) dan lebih baik akibatnya. (QS.
+Annisa: 59)
+Ayat ini mengatakan kepada kaum
+Mukmin, selain taat kepada Allah dan
+Rasulnya, maka haruslah kalian taat kepada
+para pemimpin yang adil. Karena ketaatan
+itu merupakan kezaliman iman kepada
+Allah dan hari kiamat. Dalam riwayat
+sejarah disebutkan, bahwa Rasul SAW
+ketika berangkat ke perang Tabuk beliau
+melantik
+Imam
+Ali
+AS
+sebagai
+penggantinya di Madinah. Beliau berkata,
+“Wahai Ali Engkau disisiku, seperti Harun
+untuk Musa”. Selanjutnya ayat ini turun dan
+masyarakat
+diperintahkan
+untuk
+menaatinya. Taat kepada pemimpin artinya
+dsini adalah taat kepada pemerintah yang
+mengatur negara Republik Indonesia, jadi
+kita warga negara Indonesia seperti yang
+terkandung dalam surat Annisa ayat 59
+maka wajib hukumnya menaati semua
+aturan yang dibuat pemerintah termasuk
+peraturan diwajibkannya membayar pajak,
+kita harus menaati dan patuh.
+METODE PENELITIAN
+Populasi dalam penelitian ini adalah
+seluruh wajib pajak orang pribadi yang
+
+Jurnal Ilmiah Ekonomi dan Bisnis
+
+berjumlah 143.241 wajib pajak yang ada
+di Pekanbaru. Pengambilan sampel
+dengan
+menggunakan
+metode
+convenience sampling yaitu metode
+pengambilan sampel secara bebas dan
+kondisional tanpa menentukan status, atau
+keadaan
+dari
+responden
+sehingga
+menjadikan peneliti nyaman dan mudah
+dalam mengambil sampel (Sekaran,
+2009). jumlah sampel yang diambil dalam
+penelitian ini adalah sebanyak 100wajib
+pajak orang pribadi yang melakukan
+kegiatan bisnis onlinedi Pekanbaru.
+Jenis data yang digunakan dalam
+penelitian ini, yaitu data primer. Rumus
+matematis dari regresi berganda yang
+digunkana dalam peneltian ini adalah:
+Y = a + b1X1 + b2X2 + b3X3 + e
+Keterangan :
+Y
+= Kepatuhan Wajib Pajak
+a
+= constanta
+b1
+= Koefisien
+regresi
+antara
+pemahaman wajib pajak dengan
+kepatuhan
+wajib pajak
+b2
+= Koefisien
+regresi
+antara
+kesadaran wajib pajak dengan
+kepatuhan wajib pajak
+b3
+= Koefisien regresi antara sanksi
+pajak dengan kepatuhan wajib
+pajak
+X1
+= Variabel Pemhaman Wajib
+Pajak
+X2
+= Variabel Kesadaran Wajib
+Pajak
+X3
+= Variabel Sanksi Pajak
+e
+= error disturbances
+Dalam membuktikan kebenaran uji
+hipotesis yang diajukan digunakan uji
+statistik terhadap output yang dihasilkan
+dari persamaan regresi
+HASIL DAN PEMBAHASAN
+Hasil
+Pengujian hipotesis dilakukan
+dengan menggunkana metode Regresi
+Linear Berganda yang bertujuan untuk
+menguji hubungan pengaruh antara satu
+
+Vol. 14. No.1, Maret 2017: 62-71
+EISSN : 2442 – 9813
+ISSN : 1829 – 9822
+
+variabel terhadap variabel lainnya. Analisis
+data menggunakan teknik statistik multiple
+regression untuk menguji pengaruh
+variabel-variabel independen terhadap
+variabel dependen, yaitu untuk mengetahui
+apakah
+terdapat
+pengaruh
+antara
+pemahaman wajib pajak, kesadaran wajib
+pajak dan sanksi pajak terhadap kepatuhan
+wajib pajak. Analisis regresi linear
+berganda digunakan dalam penelitian ini
+dengan tujuan untuk mengetahui ada
+tidaknya pengaruh variabel bebas terhadap
+variabel terikat. Perhitungan statistik dalam
+analisis regresi linear berganda yang
+digunakan dalam penelitian ini adalah
+dengan menggunakan bantuan program
+komputer SPSS for Windows versi 21.0.
+ringkasan hasil pengolahan data dengan
+menggunakan program SPSS tersebut
+adalah sebagai berikut:
+Tabel 1
+Hasil Uji Regresi Linear Berganda
+Model
+
+Unstandardized
+Coefficients
+B
+Std. Error
+(Constant)22,607 2,383
+x1
+,006
+,061
+1
+-,240
+,104
+x2
+x3
+
+,234
+
+,072
+
+Standardized
+Coefficients
+Beta
+,009
+-,219
+,314
+
+T
+
+Sig.
+
+9,488 ,000
+,091 ,928
+,024
+2,296
+3,235 ,002
+
+a. Dependent Variable: y
+Dari hasil tersebut apabila ditulis dalam
+bentuk unstandardized dari persamaan
+regresinya adalah sebagai berikut :
+Y = a + b1X1 + b2X2 + b3X3 + e
+Y = 22,607 + 0,006X1 – 0,240X2 + 0,234X3 + e
+
+Persamaan regresi tersebut dapat
+dijelaskan sebagai berikut :
+1. Konstanta sebesar 22,108, artinya
+jika Pemahaman Wajib Pajak,
+Kesadaran Wajib Pajak dan Sanksi
+Pajak nilainya adalah 0, maka
+Kepatuhan Wajib Pajak nilainya
+akan
+mengalami
+peningkatan
+sebesar 22,607.
+2. Koefisien
+regresi
+variabel
+Pemahaman Wajib Pajak sebesar
+0,006 artinya jika variabel lain
+nilainya tetap dan Pemahaman
+Wajib Pajak mengalami kenaikan
+sebesar 1%. Maka Kepatuhan
+67
+
+Jurnal Ilmiah Ekonomi dan Bisnis
+Vol. 14. No.1, Maret 2017: 62-71
+EISSN : 2442 – 9813
+ISSN : 1829 – 9822
+
+Wajib Pajak mengalami kenaikan
+sebesar 0,006. Koefisien bernilai
+positif artinya terjadi hubungan
+positif antara Pemahaman Wajib
+Pajak dengan Kepatuhan Wajib
+Pajak tersebut.
+3. Koefisien
+regresi
+variabel
+Kesadaran Wajib Pajak sebesar 0,240 artinya jika variabel
+lainnya tetap dan Kesadaran
+Wajib Pajak mengalami kenaikan
+sebesar 1%. Maka Kepatuhan
+Wajib Pajak mengalami kenaikan
+sebesar -0,240. Koefisien bernilai
+negatif artinya terjadi hubungan
+yang negatif antara Kesadaran
+Wajib Pajak dengan Kepatuhan
+Wajib Pajak tersebut.
+4. Koefisien regresi variabel Sanksi
+Pajak sebesar 0,234 artinya jika
+variabel lain nilainya tetap dan
+Sanksi
+Pajak
+mengalami
+kenaikan sebesar 1%. Maka
+Kepatuhan
+Wajib
+Pajak
+mengalami kenaikan sebesar
+0,234. Koefisien bernilai positif
+artinya terjadi hubungan positif
+antara Sanksi Pajak dengan
+Kepatuhan Wajib Pajak tersebut.
+Semakin
+besar
+pengetahuan
+Sanksi Pajak maka semakin
+meningkat Kepatuhan Wajib
+Pajak.
+Standar error (e) merupakan variabel
+acak
+dan
+mempunyai
+distribusi
+probabilitas. Standar error (e) mewakili
+semua faktor yang mempunyai pengaruh
+terhadap Y tetapi tidak dimasukkan
+dalam persamaan
+Pembahasan
+Pembahasan
+hasil
+penelitian
+berikut ini disesuaikan melalui rumusan
+masalah yang terdapat didalam penelitian
+ini.
+Pengaruh Pemahaman Wajib Pajak
+Terhadap Kepatuhan Wajib Pajak
+Berdasarkan
+hasil
+pengujian
+hipotesis,
+hipotesis
+pertama
+68
+
+yaituPemahaman Wajib Pajak tidak
+berpengaruh secara signifikan terhadap
+Kepatuhan Wajib Pajak Orang Pribadi. Dari
+tabel dapat diketahui bahwa variabel
+independen mempunyai angka signifikansi
+sebesar 0,0525 sehingga angka tersebut
+lebih besar dari 0,05. Dengan demikian H1
+ditolak, hal ini berarti bahwa Pemahaman
+Wajib Pajak tidak berpenagruh signifikan
+terhadap Kepatuhan Wajib Pajak Orang
+Pribadi yang melakukan kegiatan bisnis
+online di Pekanbaru.
+Hal ini menunjukkan bahwa
+semakin tinggi atau rendahnya pemahaman
+wajib pajak,tidak akan mempengaruhi
+kepatuhan wajib pajak itu sendiri.Ini
+dikarenakanmasih banyak wajib pajak yang
+belum paham secara terperinci terkait
+segala peraturan perpajakan yang ada. Dari
+hasil pengamatan peneliti masih banyak
+wajib pajak yang belum mampu untuk
+mengisi SPTnya sendiri.
+Hasil penelitian ini konsisten dengan
+penelitian yang dilakukan oleh Najib (2013)
+dan Pranadata (2014) yang menunjukkan
+hasil bahwa Pemahaman Wajib Pajak tidak
+berpengaruh signifikan terhadap Kepatuhan
+Wajib Pajak Orang Pribadi di kota Batu,
+Malang.
+Pengaruh Kesadaran Wajib Pajak
+Terhadap Kepatuhan Wajib Pajak
+Berdasarkan
+hasil
+pengujian
+hipotesis, hipotesis kedua yaituKesadaran
+Wajib
+Pajakberpengaruh
+signifikan
+terhadap Kepatuhan Wajib Pajak. Dari tabel
+dapat diketahui bahwa variabel independen
+mempunyai angka signifikansi 0,024
+sehingga angka tersebut lebih kecil dari
+0,05. Dengan demikian H2 diterima, hal ini
+berarti bahwa Kesadaran Wajib Pajak
+berpengaruh secara signifikan terhadap
+Kepatuhan Wajib Pajak Orang Pribadi yang
+melakukan kegiatan bisnis online di
+Pekanbaru.
+Apabila wajib pajak sadar akan
+kewajibannya dalam membayar pajak,
+maka akan membuat wajib pajak tersebut
+patuh. Hasil penelitian ini konsisten dengan
+
+Jurnal Ilmiah Ekonomi dan Bisnis
+
+penelitian yang dilakukan oleh Utami
+(2013) yang menunjukkan hasil bahwa
+Kesadaran Wajib Pajak tidak berpengaruh
+signifikan terhadap Kepatuhan Wajib
+Pajak Orang Pribadi di Palembang.
+Pengaruh Sanksi Pajak Terhadap
+Kepatuhan Wajib Pajak
+Berdasarkan
+hasil
+pengujian
+hipotesis, hipotesis ketiga yaituSanksi
+Pajak berpengaruh terhadap Kepatuhan
+Wajib Pajak. Dari tabel dapat diketahui
+bahwa variabel independen mempunyai
+angka signifikansi 0,002 sehingga angka
+tersebut lebih kecil dari 0,05. Dengan
+demikian H3 diterima, hal ini berarti
+bahwa Sanksi Pajak berpengaruh secara
+signifikan terhadap Kepatuhan Wajib
+Pajak Orang Pribadi yang melakukan
+kegiatan bisnis online di Pekanbaru. Hasil
+penelitian ini konsisten dengan penelitian
+yang dilakukan oleh Jatmiko (2006),
+Utami (2013), Kurnia (2014) dan
+Pranadata (2014) yang menunjukkan hasil
+bahwa
+Sanksi
+Pajak
+berpengaruh
+signifikan terhadap Kepatuhan Wajib
+Pajak Ornag Pribadi.
+Menurut Jatmiko (2006) wajib
+pajak akan memenuhi pembayaran pajak
+bila memandang sanksi pajak akan lebih
+merugikannya, berdasarkan hal ini dan
+juga hasil penelitian dapat diartikan
+bahwa wajib pajak memenuhi kewajiban
+perpajakan dikarenakan wajib pajak
+berpikir bahwa sanksi pajak sangat
+merugikannya. Apabila wajib pajak tidak
+memenuhi kewajiban perpajakannya
+sesuai dengan peraturan yang berlaku,
+maka hukuman berupa denda atau pidana
+akan dihadapi oleh wajib pajak. Hal ini
+tentu sangat merugikan bagi wajib pajak,
+sehingga wajib pajak akan takut untuk
+melanggar peraturan perpajakan yang
+berlaku dan akan cenderung patuh
+memenuhi kewajiban perpajakannya.
+KESIMPULAN DAN SARAN
+Tujuan penelitian ini adalah untuk
+menguji
+secara
+empiris
+pengaruh
+
+Vol. 14. No.1, Maret 2017: 62-71
+EISSN : 2442 – 9813
+ISSN : 1829 – 9822
+
+pemahaman wajib pajak, kesadaran wajib
+pajak dan sanksi pajak terhadap kepatuhan
+wajib pajak orang pribadi yang melakukan
+kegiatan bisnis online di Pekanbaru. Dari
+hasil
+pengujian
+hipotesis
+dengan
+menggunakan uji regresi berganda maka
+secara parsial variabel Pemahaman Wajib
+Pajak tidak berpengaruh secara signifikan
+terhadap Kepatuhan Wajib Pajak orang
+pribadi yang melakukan kegiatan bisnis
+online di Pekanbaru. Hal ini menunjukkan
+bahwa semakin tinggi atau rendahnya
+pemahaman wajib pajak, tidak akan
+mempengaruhi tingkat kepatuhan wajib
+pajak itu sendiri.
+Saran yang diberikan adalah
+sebaiknya menambah sampel yang ada se –
+Sumatera dan menambah variabel lainnya
+yang relevan dengan penelitian di atas.
+DAFTAR PUSTAKA
+Al-Qur’an dan Terjemahan Surat Annisa:
+59
+Arum, Harjanti Puspa. 2012. Pengaruh
+Kesadaran Wajib Pajak, Pelayanan
+Fiskus, dan Sanksi Pajak Terhadap
+Kepatuhan Wajib Pajak Orang
+Pribadi yang Melakukan Kegiatan
+Usaha dan Pekerjaan Bebas (Studi
+di
+Wilayah
+KPP
+Pratama
+Cialacap), Universitas Diponegoro
+Semarang.
+Ghozali, Imam. 2009. Aplikasi Analisis
+Multivariance Dengan Program
+SPSS. Semarang : Badan Penerbit
+Universitas Diponegoro.
+Hardiningsih, Pancawati. 2011. FaktorFaktor
+yang
+Mempengaruhi
+Kemauan
+membayar
+Pajak.
+Universitas Stikubank.
+Jansen, B.J. 2006. An Examination Of
+Searcher’s
+Perceptions
+Of
+Nonsponsored And Sponsored
+Links During E-commerce Web
+
+69
+
+Jurnal Ilmiah Ekonomi dan Bisnis
+Vol. 14. No.1, Maret 2017: 62-71
+EISSN : 2442 – 9813
+ISSN : 1829 – 9822
+
+Searching. Journal Of The
+American
+Society
+For
+Information
+Science
+And
+Technology, 57(14):1949–1961.
+
+Jatmiko, Agus Nugroho. 2006. Pengaruh
+Sikap
+Wajib
+Pajak
+pada
+Pelaksanaan
+Sanksi
+Denda,
+Pelayanan Fiskus, dan Kesadaran
+Perpajakan Terhadap Kepatuhan
+Wajib Pajak.Tesis. Semarang:
+Program
+Studi
+Magister
+Akuntansi
+Universitas
+Diponegoro.
+Jotopurnomo, C dan Yenny Mangoting.
+2013. Pengaruh Kesadaran Wajib
+Pajak, Kualitas Pelayanan Fiskus,
+Sanksi Perpajakan, Lingkungan
+Wajib Pajak Berada terhadap
+Kepatuhan Wajib Pajak Orang
+Pribadi di Surabaya.Tax &
+Accounting
+Review,
+Vol.1,
+Nol.1,2013, 1-6.
+
+pengalaman dan penghasilan wp di
+kpp padang. Skripsi. FE Unand.
+Najib, D.F. 2013. Analisis Faktor-Faktor
+Yang Mempengaruhi Kepatuhan
+Wajib Pajak Orang Pribadi Dalam
+Membayar Pajak Penghasilan
+(Studi Kasus Pada Wajib Pajak
+Orang Pribadi pada KPP Pratama
+Malang Utara).Skripsi. Malang:
+Fakultas Ekonomi dan Bisnis
+Universitas Brawijaya.
+Nurmantu,
+Safri.2007.
+Pengantar
+Perpajakan. Jakarta: Granit.
+Pratama, Margareth Ros. 2012, Analisis
+Faktor-faktor yang Mempengaruhi
+Kesadaran Wajib Pajak Orang
+Pribadi
+Terhadap
+Kepatuhan
+Kewajiban Perpajakan di Kota
+Tangerang Selatan, Universitas
+Bina Nusantara, Jakarta.
+Kurnia
+
+Lubis, Irwansyah 2010.Review Pajak:
+Orang Pribadi & Orang Asing.
+Jakarta: Salemba Empat.
+Mardiasmo.
+2011.Perpajakan.
+Yogyakarta: Andi
+Muliari,Setiawan.
+2010.
+Pengaruh
+Persepsi
+Tentang
+Sanksi
+Perpajakan Dan Kesadaran Wajib
+Pajak Pada Kepatuhan Pelaporan
+Wajib Pajak Orang Pribadi Di
+Kantor Pelayanan Pajak Pratama
+Denpasar Timur. Jurnal Fakultas
+Ekonomi Akuntansi Universitas
+Udayana.
+Mulyono, Djoko. 2010. Hukum Pajak,
+Konsep, Aplikasi, dan Penuntun
+Praktis. Yogyakarta: Penerbit
+Andi Offset
+Muslim, Afdilla. 2007. Pengaruh tingkat
+pemahaman,
+pendidikan,
+70
+
+Asrining,Puri. 2014. Pengaruh
+Kesadaran Wajib Pajak, Pelayanan
+Fiskus, dan Sanksi Pajak Terhadap
+Kepatuhan Wajib Pajak Orang
+Pribadi (Studi Kasus pada KPP
+Prtama
+Surakarta).
+Skripsi.
+Program Studi Akuntansi Fakultas
+Ekonomi dan Bisnis Universitas
+Muhammaddiyah Surakarta.
+
+Resmi, Siti. 2009, Perpajakan:Teori dan
+Kasus Buku I. Jakarta: Salemba
+Empat.
+Ritonga,
+
+Pandapotan.
+2011.Analisis
+Pengaruh
+Kesadaran
+dan
+Kepatuhan Wajib Pajak Terhadap
+Kinerja Kantor Pelayanan Pajak
+(KPP) dengan Pelayanan Wajib
+Pajak
+Sebagai
+Variabel
+Intervening di KPP Medan Timur,
+Universitas Islam Sumatera Utara,
+Medan.
+
+Jurnal Ilmiah Ekonomi dan Bisnis
+
+Santoso, Wahyu. 2008. Analisis Risiko
+Ketidakpatuhan Wajib Pajak
+Sebagai
+Dasar
+Peningkatan
+Kepatuhan Wajib Pajak. Jurnal
+Keungan Publik
+
+Vol. 14. No.1, Maret 2017: 62-71
+EISSN : 2442 – 9813
+ISSN : 1829 – 9822
+
+Undang-Undang
+Republik
+Indonesia
+Nomor 28 Tahun 2007 tentang
+KetentuanUmum dan Tata Cara
+Perpajakan.
+Utami,
+
+Sekaran, U. 2009. Metodologi Penelitian
+Untuk Bisnis. Jakarta: Salemba
+Empat.
+Sugiyono. 2012. Metode Penelitian
+Bisnis. Bandung: Alfabeta.
+Supardi, Julian. 2009. Rancang Bangun
+Collaborative System Pemasaran
+Hotel Secara on-line Dengan
+Pendekatan Mediator based.
+Jurnal Sistem Informasi Fasilkom
+Unsri Vol 1 No 2
+Suryadi. 2006. Model Hubungan Kausal
+Kesadaran,
+Pelayanan,
+KepatuhanWajib
+Pajak
+dan
+Pengaruhnya terhadap Kinerja
+Penerimaan
+Pajak.Jurnal
+Keuangan Publik. Vol 4,1,
+Hal.105-121.
+Syahril,
+
+Thia Dwi. 2013. Pengaruh
+Kesadaran Wajib Pajak dan Sanksi
+Pajak Terhadap Kepatuhan Wajib
+Pajak Orang Pribadi pada KPP
+Pratama
+Palembang.
+Skripsi.
+Program Studi Akuntansi STIE
+MDP.
+
+Widayati dan Nurlis. 2010. Faktor-Faktor
+yang Mempengaruhi Kemauan
+Untuk Membayar Pajak Wajib
+Pajak Orang Pribadi yang
+Melakukan Pekerjaan Bebas (Studi
+Kasus pada KPP Pratama Gambir
+Tiga).
+Simposium
+Nasional
+Akuntansi XIII. Purwokerto.
+Wirdasari, Dian. 2009. jurnal tekhnologi ecommerce dalam proses bisnis.
+
+F, 2013. Pengaruh Tingkat
+Pemahaman Wajib Pajak dan
+Kualitas
+Pelayanan
+Fiskus
+Terhadap Tngkat Kepatuhan
+Wajib Pajak PPh Orang Pribadi
+(Studi Empiris pada KPP
+Pratama Kota Solok). Skripsi.
+Program Studi Akuntasi Fakultas
+Ekonomi Universitas Negeri
+Padang.
+
+71
+
+

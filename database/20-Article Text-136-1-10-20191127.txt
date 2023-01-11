@@ -1,0 +1,1290 @@
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+THE ANALYSIS OF THE EFFECTS OF HUMAN DEVELOPMENT INDEX
+AND OPENED UNEMPLOYMENT LEVELS TO THE POVERTY IN
+INDONESIA
+Saparuddin Mukhtar*, Ari Saptono, As’ad Samsul Arifin
+Faculty Of Economics, Universitas Negeri Jakarta, Indonesia
+*saparuddin@unj.ac.id
+Abstract - This study aims to determine the effect of Human Development Index and
+Open Unemployment to poverty in Indonesia. The data in this study are secondary data
+about the human development index, the opened unemployment rate, and the percentage
+of poverty. The data is obtained from panel data of 33 provinces in Indonesia for 4 years
+from 2011 to 2014. The data analysis techniques uses regression analysis by using
+Random Effects based on the results of the Lagrange Multiplier test. The results showes
+that the Human Development Index hasa significant negative effect to poverty.
+Meanwhile, the level of opened unemployment has no significant effect to poverty in
+Indonesia.
+Keywords: Human Development Index, Opened Unemployment Rate, Poverty
+
+ANALISIS PENGARUH INDEKS PEMBANGUNAN MANUSIA DAN TINGKAT
+PENGANGGURAN TERBUKA TERHADAP KEMISKINAN DI INDONESIA
+Abstrak - Penelitian ini bertujuan untuk mengetahui pengaruh Indeks Pembangunan
+Manusia dan Pengangguran Terbuka terhadap kemiskinan di Indonesia. Data yang
+digunakan adalah data sekunder tentang indeks pembangunan manusia, tingkat
+pengangguran terbuka dan presentase kemiskinan. Data diperoleh dari data panel dari 33
+provinsi di Indonesia selama 4 tahun dari tahun 2011 sampai 2014. Teknik analisis data
+menggunakan analisis regresi dengan menggunakan Random Effect berdasarkan hasil uji
+test Lagrange Multiplier. Hasil penelitian menunjukkan bahwa indeks pembangunan
+manusia berpengaruh signifikan negatif terhadap kemiskinan. Sementara itu tingkat
+pengangguran terbuka tidak berpengaruh signifikan terhadap kemiskinan di Indonesia.
+Kata kunci : Indeks Pembangunan Manusia, Tingkat Pengangguran Terbuka, Kemiskinan
+
+77
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+PENDAHULUAN
+Latar Belakang Masalah
+Sebagai permasalahan bagi semua
+negara berkembang, kemiskinan menjadi
+perhatian
+utama
+dalam
+tujuan
+pembangunan di negara berkembang.
+Kemiskinan di Indonesia berdasarkan
+pada jumlah rupiah yang dikonsumsi
+berupa makanan yaitu 2100 kalori per
+orang per hari (dari 52 jenis komuditi
+yang dianggap mewakili pola konsumsi
+penduduk yang berada dilapisan bawah)
+dan konsumsi nonmakanan (dari 45 jenis
+komoditi makanan sesuai kesepakatan
+nasional dan tidak dibedakan antara
+wilayah pedesaan dan perkotaan). Patokan
+kecukupan 2100 kalori itu berlaku untuk
+semua umur, jenis kelamin, dan perkiraan
+tingkat kegiatan fisik, berat badan, serta
+perkiraan status fisiologi penduduk,
+ukuran ini sering disebut dengan garis
+kemiskinan. Penduduk yang memiliki
+pendapatan dibawah garis kemiskinan
+dikatakan dalam kondisi miskin (Badan
+Pusat Statistik, 2010).
+Di Indonesia dari tahun 2011
+sampai 2014 menunjukan penurunan
+tingkat kemiskinan sebesar 1,62% yang
+menunjukan
+penurunan
+tingkat
+kemiskinan yang cukup signifikan, namun
+di beberapa Provinsi di Indonesia
+menunjukan
+tingkat
+presentase
+kemiskinan yang naik seperti di provinsi
+DKI Jakarta, DI Yogyakarta, Banten,
+Bali, Kalimantan Tengah, Sulawesi
+Tengah, Sulawesi Selatan, Sulawesi
+Tengagara, Sulawesi Barat, Maluku
+Utara. Sementara pada Provinsi lainnya di
+Indonesia mengalami naik turunnya
+presentase kemiskinan yang cukup lambat
+salah satunya seperti provinsi bengkulu
+yang mengalami penurunan jumlah
+kemiskinan sebesar 0,04% selama 4
+tahun.
+Permasalahan kemiskinan bisa
+ditimbulkan karena kurangnya sumber
+daya manusia yang berkualitas. Bahwa
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+tersedianya SDM yang berkualitas ini
+merupakan
+syarat
+penting
+bagi
+berlangsungnya pembangunan ekonomi
+secara berkesinambungan (Sjafi’i dan
+Hidayanti, 2009 : 68-69). Maka dari itu
+pemerintah Provinsi Banten juga punya
+perkerjaan besar untuk meningkatkan
+IPM (indeks pembangunan manusia).
+Menurut Mentri Ketenagakerjaan RI
+(Menaker) Muhammad Hanif Dhakiri
+mengatakan, pemerintah terus berupaya
+menekan angka kemiskinan melalui
+pembangunan sumber daya manusia.
+Langkah itu dinilai efektif karena mampu
+memutuskan mata rantai kesenjangan di
+masyarakat, yang mana akan berdampak
+terhadap penurunan angka kemiskinan
+“kenapa
+orang
+miskin?
+Karena
+penghasilannya rendah? Kenapa rendah?
+Karena pekerjaannya tidak berkualitas.
+Kenapa tidak berkualitas? Karena
+pendidikannya rendah sehingga tidak
+mempunyai
+keterampilan.
+Kenapa
+pendidikannya rendah? Karena miskin.
+Berputar seperti lingkaran setan,”
+Indeks Pembangunan Manusia
+(IPM) pada tahun 2011 sampai 2014
+menunjukan pertumbuhan sebesar 1,81%
+yang menunjukan pertumbuhan yang
+cukup baik dan stabil di semua Provinsi di
+Indonesia. Pemerataan antara Provinsi di
+Indonesia merupakan pekerjaan rumah
+yang cukup serius bagi pemerintah,
+ketimpangan presentase antara Provinsi
+DKI Jakarta dan Papua sebesar 21,33%.
+Pemerataan
+pembangunan
+yang
+menopang dalam meningkatkan SDM
+yang baik sangat mempengaruhi tingkat
+Indeks Pembangunan Manusia saat ini.
+Indikator yang berperan penting dalam
+menaikan IPM ialah akses yang mudah
+untuk mendapatkan pendidikan dan
+Kesehatan.
+Maka dari itu peran premerintah
+sangat
+penting
+untuk
+megatasi
+ketimpangan agar IPM yang berkualitas
+dapat tersebar di segala wilayah Provinsi
+78
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+di
+Indonesia
+dengan
+menunjukan
+keberpihakan pemerintah pada mereka
+yang lemah. Selain di sektor pendidikan
+pemerintah
+juga
+berperan
+dalam
+meningkatkan harapan hidup masyarakat.
+Menurut UNDP meskipun usia harapan
+hidup negara-negara didunia terus naik
+secara dramatis, namun tidak diikuti oleh
+kenaikan usia harapan hidup sehat secara
+signifikan.
+Misalkan usia harapan seseorang
+telah mencapai 80 tahun, namun sejak
+umur 70 tahun dia menderita penyakit. Ini
+akan menjadi tantangan bagi Indonesia di
+masa yang akan datang. Defisit BPJS
+kesehatan yang terus membengkak
+apabila kebijakan kesehatan yang bersifat
+promotif dan preventif tidak segera
+dilaksanakan. Jika ketimpangan dalam
+membangun manusia di Indonesia dapat
+teratasi dengan baik dan angka harapan
+hidup bisa dinaikan beserta usia harapan
+hidup yang sehat, dengan cara itu akan
+meningkatkan
+angka
+IPM
+yang
+berkualitas dan merata diseluruh wilayah
+Indonesia.
+Selain peningkatan pertumbuhan
+Pembangunan Manusia yang cepat dan
+pertumbuhan lapangan kerja yang relatif
+lambat
+menyebabkan
+masalah
+pengangguran yang ada di suatu daerah
+menjadi semakin tinggi. besarnya tingkat
+pengangguran yang tinggi merupakan
+ukuran kurang berhasilnya pembangunan
+di suatu negara. Pengangguran dapat
+mempengaruhi
+kemiskinan
+dengan
+berbagai
+cara (Tambunan, 2001).
+Pengangguran
+merupakan
+keadaan
+dimana seseorang yang tergolong dalam
+angkatan kerja iningin mendapatkan
+pekerjaan
+tetapi
+belum
+dapat
+memperolehnya. Ditinjau dari sudut
+individu, pengangguran menimbulkan
+masalah ekonomi dan sosial kepada siapa
+yang
+mengalaminya.
+Ketiadaan
+pendapatan
+menyebabkan
+para
+penganggur
+harus
+mengurangi
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+pengeluaran konsumsinya. Selain itu
+pengangguran juga dapat mengganggu
+taraf kesehatan keluarga (Sadono Sukirno,
+2004:14)
+Tingkat Pengangguran Terbuka
+(TPT) pada tahun 2011 sampai 2014
+menunjukan penurunan sebesar 1,4%
+yang menunjukan penurunan yang cukup
+signifikan terutama pada tahun 2012 turun
+sebesar 0,97%. Pemerataan lagi-lagi
+menjadi pekerjaan rumah yang cukup
+serius bagi pemerintah Indonesia,
+ketimpangan presentase Pengangguran
+Terbuka pada tahun 2014 di beberapa
+Provinsi masih cukup tinggi yang
+angkkanya masih di atas 9% yaitu
+provinsi Aceh, Banten dan Maluku.
+Pemerataan kesempatan kerja berbagai
+sektor di seluruh wilyah Provinsi di
+Provinsi
+adalah
+tantangan
+yang
+sebenarnya yang harus di selesaikan
+pemerintah Indonesia.
+Penelitian yang dilakukan Ahmad
+Syaifullah
+dan
+Nazarudin
+(2017)
+berdasarkan
+hasil
+yang
+diperoleh
+menujukan
+bahwa
+IPM
+memiliki
+pengaruh yang negatif dan tidak
+signifikan terhadap tingkat kemiskinan di
+ASEAN-4. Sedangkan penelitian yang
+dilakukan Levinia Kotambunan, Sutomo
+Wim Palar, & Richard L.H Tumilaar
+(2015) indeks pembangunan manusia
+(IPM) mempunyai pengaruh negatif dan
+signifikan dengan nilai koefisien sebesar –
+1,433856 dan tingakat probabilitas
+sebesar 0,01433%. Selain itu penelitian
+yang dilakukan oleh Dio Syahrullah
+(2014) berdasarkan hasil perhitungan
+menunjukan bahwa TPT berpengaruh
+signifikan
+dan
+positif
+terhadap
+kemiskinan di Provinnsi Banten dengan
+tingkat keyakinan 95% dan nilai
+probabilitas sebesar 0,0006%. Sementara
+itu hasil yang berbeda di daptkan oleh
+Desi Yulianti (2016) berdasarkan hasil
+perhitungan
+menunjukan
+bahwa
+pengangguran
+berpengaruh
+tidak
+79
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+signifikan terhadap tingkat kemiskinan di
+Provinsi DIY. Berdasarkan penelitian
+terdahulu yang mendapatkan hasil yang
+berbeda-beda, maka peneliti ingin
+melakukan pembaharuan dalam penelitian
+pada kedua variabel yaitu IPM dan TPT
+berpengaruh terhadap kemiskinan di
+Indonesia dengan Teknik analisis data
+menggunakan analisis regresi dengan
+menggunakan Random Effect berdasarkan
+hasil uji test Lagrange Multiplier.
+Berdasarkan paparan diatas, dapat
+kita lihat masih tingginya ketimpangan
+yang terjadi pada masalah perbedaan
+angka baik itu kemiskinan, IPM maupun
+TPT yang masih cukup tinggi antara
+Provinsi di Indonesia. Hal ini memiliki
+ketertarikan tersendiri bagi peneliti untuk
+mengetahui seberapa besar pengaruh yang
+ditimbulkan oleh Indeks Pembanguan
+Manusia dan Pengangguran terhadap
+Presentase kemiskinan di Provinsi Banten.
+Hal ini pula yang melatar belakangi
+peneliti untuk melakukan penelitian yang
+berjudul “Analisi Pengaruh Indeks
+Pembangunan Manusia dan Pengangguran
+Kemiskinan di Indonesia”.
+KAJIAN TEORETIK
+Kemiskinan
+Garis kemiskinan yang digunakan
+setiap negara berbeda-beda, sehingga
+tidak ada satu garis kemiskinan yang
+berlaku umum karena adanya perbedaan
+lokasi dan standar kebutuhan hidup.
+Menurut Badan Pusat Statistik (2010),
+penetapan perhitungan garis kemiskinan
+dalam masyarakat adalah masyarakat
+yang berpenghasilan dibawah Rp 7.057
+per orang per hari. Penetapan angka Rp
+7.057 per orang per hari tersebut berasal
+dari perhitungan garis kemiskinan yang
+mencakup kebutuhan makanan dan non
+makanan. Untuk kebutuhan minimum
+makanan digunakan patokan 2.100
+kilokalori per kapita per hari. Sedang
+untuk pengeluaran kebutuhan minimum
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+bukan makanan meliputi pengeluaran
+untuk perumahan, pendidikan, dan
+kesehatan.
+Sedangkan ukuran menurut World
+Bank menetapkan standar kemiskinan
+berdasarkan pendapatan per kapita.
+Penduduk yang pendapatan per kapitanya
+kurang dari sepertiga ratarata pendapatan
+perkapita nasional. Dalam konteks
+tersebut, maka ukuran kemiskinan
+menurut World Bank adalah USD $2 per
+orang per hari.
+Konsep kemiskinan didefinisikan
+secara oprasional oleh Badan Pusat
+Statistik (2016), yaitu kemiskinan
+dipandang sebagai ketidak mampuan dari
+sisi ekonomi untuk memenuhi kebutuhan
+dasar makanan dan bukan makanan yang
+diukur dari sisi pengeluaran. Jadi
+penduduk miskin adalah penduduk yang
+rata-rata pengeluaran perkapita perbulan
+dibawah garis kemiskinan, baik itu
+pengeluaran
+untuk
+makanan
+atau
+nonmakanan. Seseorang dikatakan miskin
+apabila hidupnya serba kekurangan,
+sehingga tidak mampu memenuhi
+kebutuhannya.
+Sementara,
+Menurut
+Soetrisno (2001 : 78) kemiskinan adalah
+menyangkut kemungkinan orang atau
+keluarga miskin untuk melangsungkan
+dan
+mengembangkan
+kegiatan
+perekonomian dalam upaya meningkatkan
+taraf kehidupannya. Kemiskinan yang
+dimaksud diatas adalah ketika seseorang
+atau keluarga miskin melangsungkan
+kegiatan dan pengembangan dalam
+kegiatan ekonomi yang bertujuan untuk
+meningkatkan kualitas hidupnya.
+Berdasarkan beberapa pengertian di
+atas maka dapat disimpulkan bahwa
+kemiskinan merupakan kondisi dimana
+seseorang berpenghasilan yang tidak
+dapat memenuhi kebutuhan makanan
+maupun non makanan. Jadi seseorang
+yang memiliki pengeluaran perbulan yang
+dibawah garis rata-rata kemiskinan. Selain
+itu kemiskinan juga bukan soal
+80
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+pendapatan yang anda dapatkan atau
+seberapa besar pengeluaran yang anda
+gunakan. Kemiskinan memiliki beberapa
+faktor di luar materi, seperti faktor
+pendidikan dan kesehatan yang masih
+sulit dijangkau oleh orang-orang yang
+tidak memiliki akses atau akses yang
+terbatas
+dikarenakan
+kurangnya
+infrastruktur dan geografis.
+Indeks Pembangunan Manusia
+Menurut Badan Pusat Statistik
+(2007), Indeks pembangunan manusia
+(IPM) merupakan ukuran capaian
+pembangunan manusia berbasis sejumlah
+komponen dasar kualitas hidup. IPM
+menggambarkan beberapa komponen,
+yaitu capaian umur panjang dan sehat
+yang mewakili bidang kesehatan; angka
+melek huruf, partisipasi sekolah dan ratarata lamanya bersekolah mengukur
+kinerja pembangunan bidang pendidikan;
+dan kemampuan daya beli masyarakat
+terhadap sejumlah kebutuhan pokok yang
+dilihat dari ratarata besarnya pengeluaran
+per kapita.
+Menurut (Sjafi’i dan Hidayanti,
+2009) Bahwa tersedianya SDM yang
+berkualitas ini merupakan syarat penting
+berlangsungnya pembangunan ekonomi
+secara berkesinambungan. Berdasarkan
+definisi Sjafi’i dan Hidayanti dapat
+disimpulkan bahwa sumber daya manusia
+adalah hal yang sangat penting bagi
+pembangunan suatu perekonomian secara
+berkesinambungan, dengan seperti itu jika
+suatu
+negara
+ingin
+membangun
+perekonomian yang berjangka panjang
+dan saling berkesinambungan maka
+sangat penting untuk meningkatkan
+indeks pembangunan manusia yang akan
+meningkatkan kualitas SDM di suatu
+negara.
+Menurut (Mankiw, 2003) Modal
+manusia
+adalah
+pengetahuan
+dan
+kemampuan yang diperoleh para pekerja
+melalui pendidikan mulai dari program
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+untuk anak-anak sampai dengan pelatihan
+dalam pekerjaan (on the job training)
+untuk para pekerja dewasa. berdasarkan
+definisi Mankiw dapat disimpulkan
+bahwa modal bagi manusia dalam
+meningkatkan kualitas dirinya dalam
+dunia kerja ialah melalui program
+pendidikan mulai dari anak-anak sampai
+dewasa. Maka dari itu modal di sektor
+pendidikan
+sangat
+penting
+untuk
+meningkatkan kualitas sumber daya
+manusia sehingga Indeks pembangunan
+manusia juga meningkat.
+Berdasarkan beberapa pengertian di
+atas maka dapat disimpulkan bahwa
+indeks pembangunan manusia (IPM)
+merupakan pengembangan sumber daya
+manusia
+yang berkualitas dengan
+memberi pendidikan yang baik serta
+pelatihan keterampilan dalam bekerja agar
+dapat meningkatkan perekonomian yang
+berkesinambungan. Dengan seperti itu
+jika suatu negara ingin membangun
+perekonomian yang berjangka panjang
+dan saling berkesinambungan maka
+sangat penting untuk meningkatkan
+indeks pembangunan manusia yang akan
+meningkatkan kualitas SDM di suatu
+negara.
+Pengangguran
+Menurut Sadono Sukirno (2000)
+Pengangguran adalah seseorang yang
+sudah digolongkan dalam angkatan kerja
+yang secara aktif
+sedang mencari
+pekerjaan pada suatu tingkat upah
+tertentu, tetapi tidak dapat memperoleh
+pekerjaan yang diinginkannya. Oleh sebeb
+itu
+Sadono
+Sukino
+membedakan
+pengangguran
+menjadi
+3
+jenis
+berdasarkan
+keadaan
+yang
+menyebabkannya, yaitu :1.Pengangguran
+friksional, yaitu pengangguran yang
+disebabkan oleh tindakan seseorang
+pekerja untuk meninggalkan kerjanya dan
+mencari kerja yang lebih baik atau sesuai
+dengan keinginannya, 2.Pengangguran
+81
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+struktural, yaitu pengangguran yang
+disebabkan oleh adanya perubahan
+struktur
+dalam
+perekonomian,
+3.Pengangguran
+konjungtur,
+yaitu
+pengangguran yang disebabkan oleh
+kelebihan pengangguran alamiah dan
+berlaku sebagai akibat pengurangan
+dalam permintaan agregat.
+Menurut Sadono Sukirno (2004)
+Salah satu faktor penting yang
+menentukan kemakmuran masyarakat
+adalah tingkat pendapatan. Pendapatan
+masyarakat mencapai maksimum apabila
+tingkat penggunaan tenaga kerja penuh
+dapat terwujudkan, sehingga apabila tidak
+bekerja atau menganggur maka akan
+mengurangi pendapatan dan hal ini akan
+mengurangi tingkat kemakmuran yang
+mereka capai dan dapat menimbulkan
+buruknya kesejahteraan masyarakat.
+Berdasarkan beberapa pengertian di
+atas maka dapat disimpulkan bahwa
+pengangguran merupakan permasalahan
+yang memiliki berbagai macam jenisnya,
+baik itu datang dari individu tersebut yang
+memilih menjadi pengangguran atau
+memang yang di sebabkan oleh kelebihan
+tenaga kerja namun kesempatan kerja
+yang sedikit. Dampak dari pengangguran
+tersebut akan mengurangi pendapatan
+individu yang menganggur dan akan
+mengurangi tingkat kemakmuran dan
+kesejahteraan
+bagi
+individu
+atau
+keluarganya.
+Teori vivious circle of poverty
+Teori yang dikembangkan oleh
+(Ragnar
+Nurkse,1953
+dalam
+Kuncoro,2004)
+dalam
+penelitian
+(Irfansyah Yus, 2015) mengatakan “a
+poor country is poor because it is poor”
+yang artinya negara miskin itu miskin
+karena
+dia
+miskin.
+Adanya
+ketidaksempurnaan
+pasar,
+keterbelakangan dan kurangnya modal
+akan menyebabkan produktivitas rendah,
+produktivitas yang rendah mengakibatkan
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+pendapatan yang diterima rendah.
+Rendahnya pendapatan akan berdampak
+pada rendahnya tabungan dan investasi.
+Rendahnya investasi mengakibatkan
+kemiskinan. Maka dari itu, setiap usaha
+untuk mengurangi kemiskinan harus bisa
+memotong lingkaran dan perangkap
+kemiskinan tersebut (Mudrajat Kuncoro,
+2004).
+Perumusan Hipotesis
+Berdasarkan pada kerangka teoritik
+yang telah dipaparkan sebelumnya, maka
+dapat dirumusan beberapa hipotesis
+penelitian sebagai berikut:
+H1 : Indeks Pembangunan Manusia
+mempengaruhi
+negatif
+terhadap
+Kemiskinan
+H2: Tingkat Pengangguran Terbuka
+mempengaruhi
+positif
+terhadap
+Kemiskinan
+H3: Indeks Pembangunan Manusia dan
+Pengangguran Terbuka secara bersamasama mempengaruhi dalam Kemiskinan
+METODOLOGI PENELITIAN
+Tempat dan Waktu Penelitian
+Penelitian dilakukan di Negara
+Indonesia. Indonesia merupakan negara
+yang luas dan memiliki belasan ribu pulau
+sehingga masih banyak wilayah yang
+masyarakatnya hidup dibawah garis
+kemiskinan.
+Indeks
+pembangunan
+manusia yang masih tidak menyeluruh ke
+seluruh wilayah kabupaten/kota yang
+menyebabkan sumber daya manusia yang
+tidak berkualitas dan tidak memiliki daya
+saing yang kuat sehingga tidak majunya
+perekonomian di suatu wilayah. Selain
+itu, kurang berkualitasnya sumber daya
+manusia menyebabkan tingginya tingkat
+pengangguran terbuka di Indonesia.
+Metode Penelitan
+Penelitian ini penulis menggunakan
+pendekatan kuantitatif dengan metode
+analisis regresi data panel bertujuan untuk
+82
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+mengetahui adanya analisis terhadap
+pengaruh perbedaan entitas dan atau
+pengaruh perbedaan periode pengamatan.
+Data diolah menggunakan software
+Eviews 8.
+
+Berdasarkan cara memperolehnya, data
+diambil dari Kantor Badan Pusat Statistik
+(BPS), buku, jurnal, makalah, serta
+sumber-sumber lain yang berkaitan
+dengan penelitian.
+
+Jenis dan Sumber Data
+HASIL DAN PEMBAHASAN
+Berdasarkan sifatnya, data yang
+Teknik Analisis Data
+digunakan
+dalam
+penelitian
+ini
+merupakan data kuantitatif yaitu data
+Pengujian dalam penelitian ini
+yang berupa angka-angka. jenis data yang
+menggunakan SPSS 23. Adapun hasil
+digunakan dalam penelitian ini adalah
+pengujian data adalah sebagai berikut:
+data sekunder pada tahun 2011-2014.
+Uji Persyaratan Awal
+Uji Normalitas
+
+Dari Histogram diatas nilai
+Probability sebesar 0.172412 > 0,05.
+Menurut Winarno, (2009) apabila nilai
+Probabilitasnya di atas 0,05 maka dapat
+
+disimpulkan bahwa H0 ditolak berarti
+data dalam penelitian ini terdistribusi
+dengan normal.
+
+Uji Asumsi Klasik
+Uji Multikolinieritas
+
+Variable
+
+Coefficient
+Variance
+
+Uncentered
+VIF
+
+Centered
+VIF
+
+C
+IPM
+TPT
+
+1.676207
+0.519364
+0.011064
+
+4621.798
+4775.070
+16.03403
+
+NA
+1.110046
+1.110046
+
+Dapat diketahui bahwa tidak ada
+masalah Multikolonieritas, hal ini dapat
+dilihat dari nilai VIF pada gambar diatas
+untuk ke dua variabel independen kurang
+
+dari 10. Menurut Winarno (2015) apabila
+nilai kedua variabel independen kurang
+dari 10 maka data tersebut bebas dari
+masalah multikolinieritas, Dimana nilai
+83
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+dari tabel di atas adalah 1.110046 kurang
+multikolinearitas.
+dari 10. H0 ditolak. Oleh karena itu, data
+disimpulkan
+pada variabel indeks pembangunan
+multikolonieritas.
+manusia dan tingkat pengangguran
+terbuka
+bebas
+dari
+masalah
+Uji Heteroskedasitas
+
+Sehingga
+tidak
+
+dapat
+terjadi
+
+Heteroskedasticity Test: White
+F-statistic
+Obs*R-squared
+Scaled explained SS
+
+1.687348 Prob. F(2,129)
+3.365143 Prob. Chi-Square(2)
+1.686280 Prob. Chi-Square(2)
+
+Tabel diatas memaparkan memaparkan
+hasil residual dengan uji Heterokedastisitas.
+Menurut Winarno (2015) apabila niali Chisquare lebih besar dari 0,05 maka teerdapt
+kesamaan variabel. Dapat diketahui dari tabel
+
+0.1891
+0.1859
+0.4304
+
+di atas bahwa nilai prob. Chi-square sebesar
+0,4304 dimana angka tersebut lebih dari 0,05.
+H0 ditolak sehingga terdapat kesamaan
+variabel dari residual untuk semua
+pengamatan model regresi.
+
+Uji Hipotesis
+Model Regresi Uji Lagrange Multiplier
+
+Secara statistik hasil output Eviews menurut Winarno (2009) apabila
+nilai p-value lebih kecil dari 0,05 maka
+model Random Effect yang dipilih, dari
+hasil tabel di atas di dapatkan bahwa nilai
+p-value = 0.0000 < 5% sehingga H0
+
+ditolak. Model Random Effect lebih
+sesuai dari pada Common Effect untuk
+digunakan sebagai model regresi data
+panel untuk data-data yang ada dalam
+penelitian ini.
+
+84
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+Analisis Regresi Linier Berganda
+
+Variable
+
+Coefficient
+
+Std.
+Error
+
+tStatistic
+
+Prob.
+
+C
+
+5.904392
+
+1.373493
+
+4.298816
+
+0.0000
+
+IPM
+
+-2.717184
+
+0.738400
+
+0.0003
+
+TPT
+
+-0.123035
+
+0.062885
+
+3.679826
+1.956506
+
+S.D.
+
+Rho
+
+0.223725
+
+0.9758
+
+0.035262
+
+0.0242
+
+0.0526
+
+Effects Specification
+
+Crosssection
+random
+Idiosyncratic
+random
+
+Weighted Statistics
+
+R-squared
+Adjusted Rsquared
+S.E.
+of
+regression
+F-statistic
+Prob(Fstatistic)
+
+0.094097
+
+Mean dependent var
+
+0.067345
+
+0.080052
+
+S.D. dependent var
+
+0.036969
+
+0.035458
+
+Sum squared resid
+
+0.162190
+
+6.699676
+
+Durbin-Watson stat
+
+1.304630
+
+0.001705
+
+Unweighted Statistics
+
+R-squared
+
+-0.048182 Mean dependent var
+
+0.857202
+
+Sum squared
+resid
+
+6.595193 Durbin-Watson stat
+
+0.296926
+
+85
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+Menurut (Usman, 2006) metode ini
+perlu diuraikan menjadi error dari komponen
+individu, error untuk komponen waktu dan
+error gabungan. Persamaan random effect
+dapat dirumuskan sebagai:
+KMN = 5.904392 -2.717184IPM 0.123035)TPT + u
+Nilai konstanta sebesar 5.904392
+artinya jika nilai X1(IPM), X2 (TPT) adalah
+0, maka besarnya Y(KMN) memiliki nilai
+sebesar 5.904392. Koefisien regresi variabel
+X1 (IPM) sebesar -2.17 artinya jika nilai
+Indeks Pembangunan Manusia mengalami
+kenaikan 1% sedangkan nilai variabel lain
+tetap, maka nilai Y(KMN) akan mengalami
+penurunan sebesar 2.17. Koefisien bernilai
+negatif artinya terjadi hubungan negatif
+antara Indeks Pembangunan Manusia dengan
+kemiskinan,
+semakin
+tinggi
+Indeks
+Pembangunan
+Manusia
+maka
+nilai
+kemiskinan semakin menurun. Koefisien
+regresi variabel X2 (TPT) sebesar -0.12
+artinya jika nilai Tingkat Pengangguran
+Terbuka mengalami kenaikan 1% sedangkan
+nilai variabel lain tetap, maka nilai Y(KMN)
+akan mengalami penurunan sebesar 0.12.
+Koefisien bernilai negatif artinya terjadi
+hubungan
+negatif
+antara
+Tingkat
+Pengangguran Terbuka dengan kemiskinan.
+Uji F
+Uji F digunakan untuk mengetahui
+apakah variabel independen secara simultan
+berpengaruh signifikan terhadap variabel
+dependen. Nilai Ftabel dapat dilihat pada
+tabel, df 1 = jumlah variabel - 1 atau 3-1=2
+dan df 2 = n-k-1 atau 133-2-1=130. Dengan
+signifikansi 0,05 diperoleh hasil F tabel =
+3,07. Variabel IPM dan TPT secara simultan
+berpengaruh terhadap kemiskinan. Hal ini
+karena nilai F hitung > F tabel (6.699 > 3.07)
+dengan nilai signifikansinya 0,0017 < 0,05.
+Uji t
+Hipotesis pertama yang diajukan pada
+penelitian ini menyatakan bahwa: Indeks
+Pembangunan Manusia (X1) berpengaruh
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+negatif terhadap kemiskinan. Berdasarkan
+hasil uji t yang disajikan dalam tabel di atas,
+Indeks Pembangunan Manusia memiliki t
+hitung sebesar -3.679 dengan tingkat
+signifikansi sebesar 0.0003. Hal ini
+menunjukkan bahwa t hitung lebih besar
+daripada t tabel (3.679 > 1,656) dengan nilai
+signifikansi (0.0003 < 0,05). Sehingga dapat
+disimpulkan bahwa, Indeks Pembangunan
+Manusia berpengaruh negatif signifikan
+terhadap kemiskinan.
+Hipotesis kedua yang diajukan pada
+penelitian ini menyatakan bahwa: Tingkat
+Pengangguran Terbuka (X2) berpengaruh
+Positif terhadap Kemiskinan. Berdasarkan
+hasil uji t yang disajikan dalam tabel diatas,
+Tingkat Pengangguran Terbuka memiliki t
+hitung sebesar -1.956 dengan tingkat
+signifikansi sebesar 0.0526. Hal ini
+menunjukkan bahwa t hitung lebih kecil
+daripada t tabel (1.956 > 1.656) dengan nilai
+signifikansi (0.0526 > 0,05). Sehingga dapat
+disimpulkan bahwa, Tingkat Pengangguran
+Terbuka
+berpengaruh
+Negatif
+tidak
+signifikan terhadap Kemiskinan.
+PEMBAHASAN
+Hipotesis pertama yang diajukan pada
+penelitian ini adalah indeks pembangunan
+manusia berpengaruh signifikan terhadap
+kemiskinan. Berdasarkan hasil uji t yakni
+hasil pengujian parsial antara variabel IPM
+(Indeks Pembangunan Manusia) secara
+parsial berpengaruh terhadap kemiskinan di
+Indonesia. Hal ini karena nilai t hitung lebih
+besar dari t tabel dimana nilainya yaitu -3,67
+lebih dari -1,65 dan probobilitasnya kurang
+dari 0,05 dimana nilai probobilitasnya
+sebesar 0,0003 sehingga HO ditolak. Berarti
+indeks pembangunan manusia memiliki
+pengaruh dan signifikan terhadap kemiskinan
+di Indonesia.
+Pengaruh yang masih sedikit dari
+Indeks Pembangunan Manusia (IPM)
+terhadap kemiskinan dikarenakan masih
+86
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+adanya ketimpangan dalam peningkatan IPM
+di seluruh wilayah Indonesia, selain itu faktor
+kesadaran yang masih rendah di Indonesia
+baik itu dari orang tua atau anak itu sendiri.
+Misalkan saja anak seorang buruh petani
+yang lebih memilih berkerja seperti orang
+tuanya sejak dia kecil dibandingkan
+menuntut ilmu disekolah. Makdari itu
+walaupun pemerintah sudah memberikan
+program 9 tahun sekolah gratis pada tahun itu
+akan percuma jika masyarakatnya tidak
+memiliki kesadaran yang tinggi akan
+pentingnya pendidikan, selain itu kualitas
+dalam pelayanan kesehatan yang tidak
+merata, baik itu dari pelayanan ataupu akses
+yang masih sulit untuk di rasakan oleh
+sebagian wilayah Indonesia.
+Dalam beberapa tahun kedepan
+Indonesia
+akan
+mendapatkan
+bonus
+demografi yang sangat menguntungkan
+perekonomian Indonesia, maka dari itu
+perlunya modal manusia yang memiliki
+pengetahuan dan kemampuan yang diperoleh
+melalui pendidikan, mulai dari program
+untuk anak-anak sampai dengan pelatihan
+dalam pekerjaan untuk para pekerja dewasa.
+Seperti halnya dengan modal fisik, modal
+manusia meningkatkan kemampuan produksi
+barang dan jasa. Untuk meningkatkan level
+modal manusia dibutuhkan investasi dalam
+bentuk guru, perpustakaan dan waktu belajar
+(Mankiw, 2003)
+Hipotesis kedua yang diajukan pada
+penelitian ini adalah tingkat pengangguran
+terbuka berpengaruh dan tidak signifikan
+terhadap
+kemiskinan
+di
+Indonesia.
+Berdasarkan hasil uji t yakni hasil pengujian
+parsial antara variabel TPT (tingkat
+pengangguran terbuka) secara parsial
+berpengaruh terhadap
+kemiskinan di
+Indonesia. Hal ini karena t hitung lebih besar
+dari t tabel dimana nilai t hitungnya sebesar
+1.95 lebih dari 1.65 dan probabilitasnya lebih
+dari 0,05 dimana nilai probabilitasnya yakni
+sebesar 0,0526 lebih dari 0,05 sehingga Ho
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+diterima. Berarti tingkat pengangguran
+terbuka memiliki pengaruh dan tidak
+signifikan terhadap kemiskinan di Indonesia.
+Tidak
+signifikanya
+Tingkat
+Pengangguran Terbuka (TPT) terhadap
+kemiskinan dikarenakan indikator TPT lebih
+ke informal, yaitu mereka yang sedang
+mencari pekerjaan, mempersiapkan usaha,
+mereka yang tidak mencari pekerjaan karena
+merasa tidak mungkin mendapat pekerjaan,
+dan pekerja yang belum memulai bekerja.
+Dari indikator berikut dapat kita lihat bahwa
+Pengangguran Terbuka bukanlah sematamata korban dari kalahnya persaingan dalam
+dunia pekerjaan. Melainkan, pilihan dari dari
+individu masing-masing yang lebih memilih
+menjadi pengusaha dibandingkan bekerja
+atau individu yang lebih memilih tidak
+mencari pekerjaan dikarenakan merasa tidak
+mungkin mendapat pekerjaan dengan
+berbagai
+alasan,
+meskipun
+mereka
+menganggur namun belum tentu mereka akan
+menyumbang
+angka
+kemiskinan
+di
+indonesiam, karena di beberapa tempat
+mereka lebih memilih menganggur atau
+mencoba usaha karena latar belakang
+keluarga juga yag sudah mencukupi atau
+pekerjaan yang tidak sesuai dengan
+keinginannya, baik itu dalam bekerja atau
+upah.
+Menurut Godfrey (1993) bahwa
+kemiskinan
+mungkin
+tidak
+selalu
+berhubungan
+dengan
+masalah
+ketenagakerjaan. Selain itu juga diperkuat
+dengan pendapat Lincolin Arsyad (1997)
+berpendapat bahwa hubungan yang erat
+sekali antara tingginya tingkat pengangguran
+terbuka dan kemiskinan. Bagi sebagian besar
+masyarakat,
+yang
+tidak
+mempunyai
+pekerjaan tetap atau hanya part-time selalu
+berada diantara kelompok masyarakat yang
+sangat miskin. Masyarakat yang bekerja
+dengan bayaran tetap di sektor pemerintah
+dan swasta biasanya termasuk diantara
+kelompok masyarakat kelas menengah
+87
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+keatas. Setiap orang yang tidak mempunyai
+pekerjaan adalah miskin, sedangkan yang
+bekerja secara penuh adalah orang kaya.
+Karena kadangkala ada juga pekerja di
+perkotaan yang tidak bekerja secara sukarela
+karena mencari pekerjaan yang lebih baik
+dan yang lebih sesuai dengan tingkat
+pendidikannya. Mereka menolak pekerjaanpekerjaan yang mereka rasakan lebih rendah
+dan mereka bersikap demikian karena
+mereka mempunyai sumber-sumber lain yang
+bisa membantu masalah keuangan mereka.
+Orang-orang seperti ini bisa disebut
+menganggur tetapi belum tentu miskin. Sama
+juga halnya adalah, banyaknya individu yang
+mungkin bekerja secara penuh per hari, tetapi
+tetap memperoleh pendapatan yang sedikit.
+Banyak pekerja yang mandiri disektor
+informal yang bekerja secara penuh tetapi
+mereka sering masih tetap miskin.
+KESIMPULAN
+Berdasarkan hasil pengolahan data
+mengenai Indeks Pembangunan Manusia dan
+Tingkat
+
+Pengangguran
+
+mempengaruhi
+
+Kemiskinan di Indonesia, dapat diambil
+beberapa kesimpulan sebagai berikut :
+pertama, Berdasarkan analisis dalam model
+random effect menggunakan uji t dapat
+disimpulkan bahwa secara parsial indeks
+pembangunan manusia berpengaruh dan
+signifikan terhadap kemiskinan di Indonesia.
+Kedua, Berdasarkan analisis dalam
+model random effect menggunakan uji t
+dapat disimpulkan bahwa secara parsial
+tingkat pengangguran terbuka berpengaruh
+dan tidak signifikan terhadap kemiskinan di
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+Indonesia.
+Ketiga, Berdasarkan analisis dalam
+model random effect dan menggunakan uji f
+dapat
+
+disimpulkan
+
+pembangunan
+
+manusia
+
+pengangguran
+
+terbuka
+
+bahwa
+
+indeks
+
+dan
+
+tingkat
+
+berpengaruh
+
+dan
+
+signifikan secara bersama-sama terhadap
+kemiskinan di Indonesia.
+DAFTAR PUSTAKA
+Ahmad Sjafi’i dan nur aini Hidayati (2009).
+Genjot anggaran pendidikan-rendam
+kemiskinan, dalam gemari. edisi
+101/tahun X/juni 2009: 68-69
+Arsyad,
+Lincolin.
+(1999).
+Pengantar
+Perencanaan dan Pembangunan Ekonomi
+Daerah. BPFE. Yogyakarta.
+Dio Syahrullah (2014) “Analisis pengaruh
+produk domestik regional bruto (PDRB),
+pendidikan, dan pengangguran terhadap
+kemiskinan di Provinsi Banten tahun
+20092012,”
+Yogyakarta:
+Fakultas
+Ekonomi UGM.
+Kotambunan, L., Palar, S. W., & Richard, L.
+(2016). “Analisis pengaruh benalnja
+modal dan indeks pembangunan manusia
+(IPM) terhdap Kemiskinan di sulawasi
+utara (dalam tahun 2005-2014)”. Jurnal
+Berkala Ilmiah Efesiensi, Vol 16 No.01.
+Kuncoro, Mujarat. (2004). Otonomi dan
+Pembangunan Daerah : Reformasi,
+Perencanaan, Strategi dan Peluang.
+Yogyakarta : Erlangga
+Mankiw N. Gregory, dkk. (2003). Teori
+makroekonomi. Jakarta, Erlangga.
+Odubola israel O. (2015). “Poverty,
+unemployment,
+human
+capital
+development, and growth in Nigeria”. .
+Lagos Stat Umv.
+Soetrisno, loekman. (2001). Kemiskinan,
+perempuan
+dan
+pemberdayaan.
+Yogyakarta, kanisius. Sonu Madan
+(2012) “Human development and
+Poverty – a parspective Across Indian
+states.” Journal Economic of bisnis,
+Vol.49
+Sonu Madan (2012) “Human development and
+88
+
+Jurnal Ecoplan Vol.2 No.2, Oktober 2019, hlm. 77-89
+
+Mukhtar, S., Saptono, A., Arifin, A.S.
+
+Poverty – a parspective Across Indian
+states.” Journal Economic of bisnis,
+Vol.49
+M. Sri Wahyudi. (2010). “Pengaruh produk
+domestik bruto (PDB) dan indeks
+pembangunan manusia (IPM) terhadap
+angka kemiskinan di Indonesia”. Jurnal
+Ekonomi Pembangunan, Hal 357-366.
+Sukirno, Sadono. (2000).
+Makroekonomi
+Modern. Jakarta : PT Raja Grafindo
+Persada.
+Sukirno, Sadono. (2004). Pengantar Teori
+Mikroekonomi. Jakarta : PT Raja
+Grafindo Persada.
+Sylvia Yasmin Supraba (2018) “Analisis
+Pengaruh IPM, pertumbuhan ekonomi,
+pengangguran dan inflasi terhadap
+kemiskinan provinsi daerah instimewa
+yogyakarta.” Fakultas Ekonomi UII
+Tulus H.Tambunan. (2001). Perekonomian
+Indonesia. Jakarta : Penerbit Ghalia
+
+89
+
+

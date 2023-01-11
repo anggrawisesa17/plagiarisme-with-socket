@@ -1,0 +1,1025 @@
+LAPORAN PENELITIAN
+
+Faktor - Faktor yang Berhubungan dengan
+Kejadian Hepatitis C pada Pasangan Seksual
+Pasien Koinfeksi Human Immunodeficiency
+Virus dan Virus Hepatitis C
+Sri Agustini Kurniawati1, Teguh H. Karjadi2, Rino A. Gani3
+
+2
+
+1
+Departemen Ilmu Penyakit Dalam FKUI/ RSCM
+Divisi Alergi-Imunologi, Departemen Ilmu Penyakit Dalam FKUI/ RSCM
+3
+Divisi Hepatologi, Departemen Ilmu Penyakit Dalam FKUI/ RSCM
+
+ABSTRAK
+
+Pendahuluan. Pencegahan transmisi hepatitis C pada pasangan seksual pasien koinfeksi HIV/HCV merupakan upaya
+penatalaksanaan hepatitis C. Namun demikian, belum ada data prevalensi hepatitis C dan faktor yang berhubungan
+dengan transmisi hepatitis C pada pasangan seksual pasien koinfeksi HIV/HCV di Indonesia, sehingga perlu dilakukan
+penelitian untuk memperoleh data tersebut. Penelitian ini bertujuan untuk mengetahui prevalensi hepatitis C dan faktorfaktor yang berhubungan dengan kejadian hepatitis C pada pasangan seksual pasien koinfeksi HIV/HCV.
+Metode. Studi potong lintang pada pasangan heteroseksual pasien koinfeksi HIV/HCV yang berobat di Pokdisus
+RSCM. Faktor yang diteliti meliputi penggunaan narkotika suntik, transfusi darah, status HIV, penggunaan kondom,
+jumlah hubungan seksual, jumlah pasangan seksual, tipe hubungan seksual dan hitung CD4+ pasien koinfeksi HIV/HCV.
+Pengambilan data dilakukan dengan wawancara secara terpisah dan pemeriksaan darah antiHCV total dan antiHIV.
+Analisis statistik dilakukan dengan uji chi-square dan Fisher dan regresi logistik menggunakan program SPSS.
+Hasil. Selama periode Mei-Agustus 2008, diperoleh 119 subyek penelitian pada rentang usia 19-39 tahun (median 26
+tahun) dan 95,8% diantaranya berjenis kelamin perempuan. Didapatkan prevalensi hepatitis C sebesar 10,1%. Hasil analisis
+bivariat kelompok subyek nonpengguna narkotika suntik didapatkan status HIV reaktif dan hubungan seksual nonvaginal
+berhubungan dengan kejadian hepatitis C. Pada hasil analisis multivariat didapatkan hanya tipe hubungan nonvaginal
+yang berhubungan dengan kejadian hepatitis C (adjusted RP 8,051; IK95% 1,215-53,353).
+Simpulan. Prevalensi hepatitis C pada pasangan seksual pasien koinfeksi HIV/HCV sebesar 10,1%. Tipe hubungan nonvaginal
+dan status antiHIV positif dapat meningkatkan risiko terjadinya kejadian hepatitis C sebesar 8 kali. Dibutuhkan studi lanjutan
+dengan sampel yang lebih besar dan desain yang lebih baik untuk menentukan transmisi seksual hepatitis C.
+Kata kunci : virus hepatitis C, transmisi, pasangan seksual, koinfeksi HIV/HCV.
+
+PENDAHULUAN
+Virus hepatitis C merupakan penyebab kedua epidemi
+infeksi virus setelah human immunodeficiency virus (HIV)
+dalam dua dekade terakhir. Sementara itu, koinfeksi human
+immunodeficiency virus dan hepatitis C virus (koinfeksi HIV/
+HCV) merupakan masalah yang diprediksi berkembang
+di masa yang akan datang. Infeksi hepatitis C umumnya
+ditemukan pada pasien HIV karena kedua virus tersebut
+mempunyai kesamaan rute transmisi.1 United Nations
+Programme on HIV/AIDS (UNAIDS)2 melaporkan bahwa
+sebagian besar infeksi HIV di Indonesia terjadi melalui
+penggunaan peralatan suntik yang terkontaminasi.
+Keberhasilan terapi antiretroviral yang efektif (highly
+active antiretroviral therapy/HAART) telah menurunkan
+angka kematian yang disebabkan oleh infeksi-infeksi
+
+oportunistik dan penyakit yang berhubungan dengan
+acquired immunodeficiency syndrome (AIDS) secara
+bermakna.3 Sejak tahun 2004, pemerintah Indonesia
+telah menjalankan program antiretroviral gratis sehingga
+harapan hidup pasien HIV di Indonesia menjadi lebih baik.
+Meningkatnya harapan hidup pasien HIV dan lamanya
+perjalanan alamiah infeksi hepatitis C, menyebabkan
+penyakit hati tahap lanjut akibat koinfeksi virus hepatitis
+C menjadi penyebab utama morbiditas dan mortalitas
+dimasa yang akan datang.3 Hal tersebut mengakibatkan
+penatalaksanaan hepatitis C pada pasien koinfeksi HIV/
+HCV di Indonesia akan menjadi masalah baru seperti yang
+terjadi di negara-negara maju.
+Koinfeksi
+HIV/HCV
+dapat
+menimbulkan
+beberapa dampak baik terhadap perjalanan alamiah
+
+Jurnal Penyakit Dalam Indonesia | Vol. 2, No. 3 | Oktober 2015 | 133
+
+Sri Agustini Kurniawati,Teguh H. Karjadi, Rino A. Gani
+
+penyakit hepatitis C maupun transmisinya. Beberapa
+studi melaporkan bahwa koinfeksi HIV/HCV dapat
+mempercepat progresivitas penyakit ke arah sirosis hati4,5
+dan meningkatkan mortalitas yang berhubungan dengan
+sirosis dekompensata dan karsinoma sel hati.3,6,7 Lebih
+lanjut, beberapa studi juga mendapatkan bahwa koinfeksi
+HIV/HCV dapat meningkatkan risiko transmisi seksual virus
+hepatitis C.8-12
+Hepatitis C paling mudah ditularkan melalui rute
+parenteral seperti penggunaan narkotika suntik13 dan
+transfusi darah14, akan tetapi sulit ditularkan melalui rute
+seksual. Masih terdapat pro kontra mengenai transmisi
+seksual virus hepatitis C. Beberapa studi mendapatkan
+bahwa risiko transmisi seksual hepatitis C memang ada,
+namun risiko tersebut rendah.15-17 Adanya infeksi HIV
+dapat meningkatkan risiko transmisi seksual virus hepatitis
+C. Gabrielli dkk10 dalam studi potong lintang mendapatkan
+prevalensi hepatitis C pada pasangan seksual pengguna
+narkotika suntik dengan koinfeksi HIV/HCV sebesar 9,5%.
+Pada kelompok pasangan seksual dengan status HIV positif
+didapatkan prevalensi hepatitis lebih tinggi dibandingkan
+dengan yang HIV negatif (28,6% vs 12,8%).10 Namun
+beberapa studi mendapatkan bahwa koinfeksi HIV/HCV
+tidak meningkatkan risiko transmisi seksual virus hepatitis
+C.18,19
+Berbagai
+faktor
+diduga
+berperan
+dalam
+meningkatkan risiko transmisi seksual hepatitis C pada
+pasien koinfeksi HIV/HCV. Tingginya kadar HCV RNA darah
+dan rendahnya hitung CD4+ pasien koinfeksi HIV/HCV
+berhubungan dengan meningkatnya transmisi hepatitis
+C.20,21 Faktor-faktor lain yang diduga berhubungan dengan
+transmisi hepatitis C adalah hubungan seksual yang tidak
+aman,22,23 lamanya hubungan seksual, teknik hubungan
+seksual yang merusak mukosa dan adanya penyakit
+menular seksual.23,24 Berdasarkan faktor-faktor tersebut,
+maka penatalaksanaan hepatitis C pada pasien-pasien
+koinfeksi HIV/HCV yang menyeluruh bukan hanya masalah
+pengobatan, namun juga masalah pencegahan transmisi
+hepatitis C kepada pasangan seksual mereka.
+Laporan nasional estimasi populasi dewasa rawan
+terinfeksi HIV tahun 2006 menyatakan bahwa rerata
+prevalensi pasangan pengguna narkotika suntikan yang
+bukan pemakai adalah 13,75% atau sekitar 93.350 orang.25
+Penapisan diagnosis hepatitis C pada kelompok risiko
+tinggi tertular hepatitis C merupakan salah satu bagian
+dari program pencegahan transmisi hepatitis C. Namun
+demikian, di Indonesia, data tentang prevalensi hepatitis
+C dan faktor-faktor yang berhubungan dengan transmisi
+hepatitis C pada pasangan seksual pasien koinfeksi HIV/
+
+134 | Jurnal Penyakit Dalam Indonesia | Vol. 2, No. 3 | Oktober 2015
+
+HCV belum ada. Oleh karena itu, penelitian ini dilakukan
+dengan tujuan untuk mendapatkan prevalensi hepatitis
+C dan faktor-faktor yang berhubungan dengan kejadian
+hepatitis C pada pasangan seksual pasien koinfeksi HIV/
+HCV.
+
+METODE
+Penelitian ini menggunakan desain studi potong
+lintang deskriptif dan analitik pada pasangan seksual pasien
+koinfeksi HIV/HCV yang menjalani rawat jalan dan rawat inap
+di Rumah Sakit dr. Cipto Mangunkusumo (RSCM) Jakarta.
+Penelitian dilakukan selama Mei-Agustus 2008. Sampel
+penelitian berjumlah 119 orang. Pemilihan sampel dilakukan
+dengan cara consecutive sampling dengan kriteria inklusi
+yaitu pasangan tetap heteroseksual yang sudah didiagnosis
+koinfeksi HIV/HCV berdasarkan data rekam medis dan
+pertama kali melakukan hubungan seksual minimal 6 bulan
+atau lebih sebelum dilakukan tes antiHCV total. Pengumpulan
+data dilakukan dengan wawancara terstruktur secara terpisah
+dan konseling tentang HIV/HCV serta dilakukan pengambilan
+sampel darah untuk pemeriksaan antiHCV total dan antiHIV.
+Data yang didapat selanjutnya dianalisis menggunakan
+program SPSS.
+
+HASIL
+Pada penelitian ini didapatkan prevalensi hepatitis
+C sebesar 10,1%. Median usia subyek adalah 26 tahun
+dengan rentang usia 19-39 tahun dan sebagian besar
+subyek berjenis kelamin perempuan. Sebagian besar
+subyek menunjukkan lama berpasangan 0-5 tahun dengan
+rentang 6 bulan hingga 21 tahun. Median kekerapan
+kontak seksual yaitu 2 kali per minggu dan sebagian besar
+subyek baik dengan atau tanpa hepatitis C melaporkan
+jumlah hubungan seksual selama berpasangan kurang dari
+500 kali dengan median 296 kali. Kecenderungan proporsi
+hitung CD4+ pasien koinfeksi HIV/HCV pada kelompok
+subyek dengan hepatitis C hampir sama dengan kelompok
+subyek tanpa hepatitis C. Data karakteristik subjek dapat
+dilihat pada Tabel 1.
+Tabel 2 menggambarkan Rasio Prevalens (RP) faktorfaktor yang berhubungan dengan kejadian hepatitis C pada
+pasangan seksual pasien koinfeksi HIV/HCV. Dari variabel
+yang ada, variabel yang mempunyai risiko terhadap
+kejadian hepatitis C adalah penggunaan narkotika suntik,
+status HIV reaktif, penggunaan kondom yang tidak
+teratur, tipe hubungan nonvaginal, dan jumlah pasangan
+seksual. Namun demikian, dari variabel-variabel tersebut
+yang secara statistik bermakna adalah tipe hubungan
+nonvaginal (p = 0,047).
+
+Faktor - Faktor yang Berhubungan dengan Kejadian Hepatitis C pada Pasangan Seksual Pasien Koinfeksi Human Immunodeficiency Virus dan Virus Hepatitis C
+
+Tabel 1. Karakteristik subyek penelitian
+Variabel
+Jumlah (%) Subyek
+Median Usia
+(rentang dalam
+tahun)
+< 20
+20-29
+30-39
+>39
+Jenis Kelamin
+Laki-laki
+Perempuan
+Lama Berpasangan
+(tahun)
+0-5
+6-10
+11-20
+> 20
+Kekerapan Kontak
+Seksual (x/minggu)
+<1
+1-2
+>2
+Median Jumlah
+Hubungan Seksual
+(rentang dalam kali)
+< 500
+501-1000
+> 1000
+Hitung CD4+ Pasien
+Koinfeksi HIV/HCV
+(sel/uL)
+< 50
+51-100
+101-200
+> 200
+
+Total
+(%)
+
+HCV positif
+n (%)
+
+HCV
+negatif
+n (%)
+
+119 (100)
+226 (19-39 tahun)
+
+12 (10,1)
+
+107 (89,9)
+
+2 (1,7)
+92 (77,3)
+25 (21,0)
+-
+
+0
+9 (9,8)
+3 (12)
+-
+
+2 (100)
+83 (90,2)
+22 (88,0)
+-
+
+Tabel 2. Analisis bivariat faktor-faktor yang berhubungan
+dengan kejadian Hepatitis C
+Variabel
+
+HCV positif HCV negatif
+n (%)
+n (%)
+
+Penggunaan
+Narkotika
+Suntik
+Ya
+
+1 (100,0)
+
+0
+
+11 (9,3)
+
+107 (90,7)
+
+0
+
+5 (100,0)
+
+12 (10,5)
+
+102 (89,5)
+
+Reaktif
+
+10 (14,5)
+
+59 (85,5)
+
+Nonreaktif
+
+2 (4,0)
+
+48 (96,0)
+
+Penggunaan
+Kondom
+Tidak Selalu
+
+11 (11,8)
+
+82 (88,2)
+
+Selalu
+
+1 (3,8)
+
+25 (96,2)
+
+Kekerapan
+Kontak
+Seksual
+≥ 2x/minggu
+
+5 (6,6)
+
+71 (93,4)
+
+< 2x/minggu
+
+7 (16,3)
+
+36 (83,7)
+
+Lama
+Berpasangan
+> 5 tahun
+
+4 (11,8)
+
+30 (88,2)
+
+< 5 tahun
+
+8 (9,4)
+
+77 (90,6)
+
+Jumlah
+Hubungan
+Seksual
+≥ 296 kali
+
+5 (8,3)
+
+55 (91,7)
+
+< 296 kali
+
+7 (11,9)
+
+52 (88,1)
+
+Tipe
+Hubungan
+Seksual
+Nonvaginal
+
+3 (33,3)
+
+6 (66,7)
+
+Vaginal
+
+9 (8,2)
+
+101 (91,8)
+
+Jumlah
+Pasangan
+Seksual
+≥ 2 orang
+
+4 (18,2)
+
+18 (81,8)
+
+< 2 orang
+
+8 (8,2)
+
+89 (91,8)
+
+Hitung CD4+
+Pasien (sel/
+mm3)
+≤ 200
+
+11 (10,0)
+
+99 (90,0)
+
+> 200
+
+1 (11,1)
+
+8 (88,9)
+
+Tidak
+
+84 (70,6)
+29 (24,4)
+5 (4,2)
+1 (0,8)
+
+1 (20,0)
+11 (9,6)
+8 (9,5)
+4 (13,8)
+0
+0
+
+4 (80,0)
+103 (90,4)
+76 (90,5)
+25 (86,2)
+5 (100)
+1 (100)
+
+18 (15,1)
+71 (59,7)
+30 (25,2)
+296
+(16-2120 kali)
+
+4 (22,2)
+6 (8,5)
+2 (6,7)
+
+14 (77,8)
+65 (91,5)
+28 (93,3)
+
+86 (72,3)
+27 (22,7)
+6 (5,0)
+
+9 (10,5)
+3 (11,1)
+0
+
+77 (89,5)
+24 (88,9)
+6 (100)
+
+63 (52,9)
+25 (21,0)
+22 (18,5)
+9 (7,6)
+
+5 (7,9)
+3 (12,0)
+3 (13,6)
+1 (11,1)
+
+58 (92,1)
+22 (88,0)
+19 (86,4)
+8 (88,9)
+
+Pada Tabel 2 juga dapat dilihat bahwa prevalensi
+HIV positif pada penelitian ini adalah 58%. Pada analisis
+bivariat didapatkan hubungan antara status HIV dan hitung
+CD4+ pasien koinfeksi HIV/HCV dengan RP 5,453 (IK95%
+1,082-27,487, p= 0,024). Analisis bivariat juga dilakukan
+terhadap subkelompok subyek nonpengguna narkotika
+suntik dan didapatkan bahwa variabel yang berhubungan
+bermakna dengan kejadian hepatitis C adalah status HIV
+reaktif dan tipe hubungan nonvaginal (Tabel 2).
+Dari uji regresi logistik terhadap variabel-variabel
+di atas (Tabel 2), didapatkan bahwa tipe hubungan
+seksual nonvaginal memiliki hubungan dengan kejadian
+hepatitis C pada pasangan seksual pasien koinfeksi HIV/
+HCV. Didapatkan adjusted RP 8,051 dengan IK 95% 1,215–
+53,353 (p = 0,031). Analisis multivariat pada kelompok
+subyek nonpengguna narkotika suntik mendapatkan hasil
+yang sama seperti pada hasil dengan mengikutkan seluruh
+subyek (Tabel 3).
+
+p
+
+10,73
+(6,11-18,83)
+
+0,101
+
+1,12 (1,05-1,19)
+
+1,000
+
+4,07
+(0,85-19,46)
+
+0,061
+
+3,35
+(0,41-19,46)
+
+0,460
+
+Tranfusi Darah
+Pernah
+Tidak Pernah
+
+5 (4,2)
+114 (95,8)
+
+RP (IK95%)
+
+Status HIV
+
+0,36
+(0,11-1,22)
+
+0,116
+
+1,28
+(0,36-4,58)
+
+0,740
+
+0,68
+(0,20-2,26)
+
+0,522
+
+5,61
+(1,20-26,29)
+
+0,047
+
+2,47
+(0,67-9,10)
+
+0,231
+
+0,89
+(0,10-7,79)
+
+1,000
+
+Tabel 3. Analisis multivariat faktor-faktor yang berhubungan
+dengan kejadian Hepatitis C pada pasangan seksual pasien
+koinfeksi HIV/HCV
+Variabel
+
+Rasio prevalens (IK 95%)
+
+p
+
+Status HIV
+Penggunaan kondom
+Kekerapan kontak seksual
+Tipe hubungan seksual
+Jumlah pasangan seksual
+
+5,503 (0,629-48,161)
+3,109 (0,288-33,580)
+0,214 (0,046-1,003)
+8,051 (1,215-53,353)
+2,437 (0,538-11,040)
+
+0,123
+0,350
+0,050
+0,031
+0,248
+
+Jurnal Penyakit Dalam Indonesia | Vol. 2, No. 3 | Oktober 2015 | 135
+
+Sri Agustini Kurniawati,Teguh H. Karjadi, Rino A. Gani
+
+PEMBAHASAN
+Jumlah pasangan seksual pasien koinfeksi HIV/HCV di
+bagian Ilmu Penyakit Dalam RSCM ternyata tidak sebesar
+seperti yang diperkirakan. Beberapa hal yang dapat
+menjelaskan di luar faktor keterbatasan penelitian, yaitu
+domisili pasangan di luar kota sehingga tidak terjangkau
+oleh peneliti, tidak diperolehnya data pasangan pasien
+koinfeksi HIV/HCV karena sudah meninggal dunia/berpisah
+dan adanya hambatan psikologis dari pasangan yang akan
+diperiksa sehingga kemungkinan kejadian hepatitis C yang
+dilaporkan lebih rendah.
+Pada penelitian ini didapatkan prevalensi hepatitis C
+pada pasangan seksual pasien koinfeksi HIV/HCV sebesar
+10,1%. Angka ini hampir sama dengan yang didapatkan
+pada studi yang dilakukan Lissen dkk9 (9,2%) dan Gabrielli
+dkk10 (9,5%). Hal ini dapat disebabkan oleh kesamaan
+karakteristik subyek pemilihan sampel yaitu pasangan
+seksual dari penyalah guna narkotika suntik tanpa faktor
+risiko parenteral utama seperti pengguna narkotika suntik
+dan transfusi darah. Angka kejadian hepatitis C yang hampir
+sama disebabkan sampel penelitian ini hampir homogen
+(99,2% merupakan nonpengguna narkotika suntik) dan
+transfusi darah yang dilaporkan oleh subyek dilakukan
+setelah diberlakukannya penapisan antiHCV pada darah
+donor. Selain itu, kejadian hepatitis C pada penelitian ini 2,5
+kali lebih tinggi dibandingkan pada studi yang melibatkan
+populasi dewasa pada rumah tangga di Jakarta Pusat
+tahun 1994. Pada studi rumah tangga tersebut, didapatkan
+prevalensi hepatitis C sebesar 3,9%.43 Hal ini dapat
+disebabkan adanya perbedaan populasi penelitian yang
+tidak melibatkan populasi risiko tinggi seperti pengguna
+narkotika suntik, transmisi seksual dan tato.
+Sebagian besar subyek pada penelitian ini berjenis
+kelamin perempuan dengan median usia 26 tahun serta
+tidak terdapat kelompok subyek dengan hepatitis C yang
+mempunyai lama berpasangan lebih dari 10 tahun. Hal
+ini dapat dijelaskan karena subyek penelitian merupakan
+pasangan heteroseksual pasien koinfeksi HIV/HCV dengan
+karakteristik sebagian besar laki-laki usia muda dengan rute
+transmisi penyalah guna narkotika suntik.4 Karakteristik
+ini berbeda dengan penelitian pada pasangan monogami
+pasien hepatitis C kronik yang mendapatkan rerata usia
+pasangan dengan hepatitis C lebih tua (57,1 tahun) dan
+prevalensi hepatitis C meningkat dengan meningkatnya
+lama berpasangan.15 Berdasarkan hal tersebut, maka lama
+berpasangan selama 5 tahun sebagai batasan operasional
+pada penelitian ini.
+Penelitian ini mendapatkan median kekerapan
+kontak seksual yaitu 2 kali per minggu. Data ini lebih tinggi
+
+136 | Jurnal Penyakit Dalam Indonesia | Vol. 2, No. 3 | Oktober 2015
+
+dibandingkan dengan rerata kekerapan kontak seksual
+pada pasangan monogami pasien hepatitis C kronik.34,35
+Oleh karena sebaran yang tidak seimbang dan perbedaan
+karakteristik subyek, maka peneliti menetapkan median
+sebagai batasan operasional variabel kekerapan kontak
+seksual pada penelitian ini.
+Jumlah hubungan seksual menggambarkan
+total hubungan seksual yang terjadi selama subyek
+berpasangan. Variabel ini bergantung pada variabel lama
+berpasangan dan kekerapan kontak seksual. Penelitian
+ini mendapatkan sebaran jumlah hubungan seksual pada
+subyek tidak seimbang dengan median 296 kali. Penelitian
+lain yang menggunakan variabel ini adalah studi kohort
+pada pasangan monogami hepatitis C kronik. Namun pada
+penelitian tersebut tidak didapatkan insidens hepatitis
+C selama follow-up 10 tahun.35 Karena perbedaan
+karakteristik tersebut, maka penelitian ini menetapkan
+median sebagai batasan operasional variabel ini.
+Pada penelitian ini, tidak didapatkan hubungan
+yang bermakna antara penggunaan narkotika suntik
+dan kejadian hepatitis C, meskipun didapatkan risiko
+kejadian 10,7 kali lebih tinggi pada subyek dengan
+pengguna narkotika suntik. Hal ini dapat disebabkan
+oleh cara pengambilan sampel consecutive sampling dan
+karakteristik subyek di Poliklinik Pokdisus yang hampir
+homogen sehingga jumlah subyek dengan penggunaan
+narkotika suntik pada penelitian ini terlalu kecil (<1%).
+Penggunaan narkotika suntik merupakan prediktor yang
+paling kuat terhadap kejadian hepatitis C, meskipun
+demikian variabel ini tidak dapat dianalisis lebih lanjut
+karena tidak adanya subyek dengan pengguna narkotika
+suntik yang tidak tertular hepatitis C.
+Transfusi darah merupakan salah satu faktor yang
+berhubungan dengan kejadian hepatitis C terutama pada
+masa sebelum diberlakukannya penapisan rutin terhadap
+darah/produk darah donor. Pada uji hipotesis tidak
+ditemukan hubungan antara riwayat transfusi produk darah
+dan kejadian hepatitis C. Hal ini dapat disebabkan transfusi
+tersebut dilakukan pada periode pasca penapisan antiHCV
+terhadap darah donor atau besar sampel yang kurang.
+Selain variabel di atas, status HIV merupakan faktor
+yang paling berhubungan dengan kejadian hepatitis C.
+Analisis bivariat pada seluruh sampel mendapatkan bahwa
+tidak ditemukan hubungan yang bermakna antara status HIV
+dengan kejadian hepatitis C (p= 0.061) meskipun terdapat
+peningkatan kejadian hepatitis C 4 kali lebih tinggi pada
+kelompok subyek dengan status HIV reaktif. Hal ini sesuai
+dengan penelitian Lissen9 dan Eyster dkk8 pada pasangan
+seksual pasien koinfeksi HIV/HCV tanpa faktor transmisi
+
+Faktor - Faktor yang Berhubungan dengan Kejadian Hepatitis C pada Pasangan Seksual Pasien Koinfeksi Human Immunodeficiency Virus dan Virus Hepatitis C
+
+parenteral melaporkan meningkatnya risiko kejadian
+hepatitis C 2-4 kali lebih tinggi pada subyek dengan pasangan
+indeks kasus koinfeksi HIV/HCV meskipun secara statistik
+tidak bermakna yang disebabkan oleh jumlah sampel yang
+relatif kecil. Gabrielli dkk10 mendapatkan bahwa transmisi
+seksual HCV lebih sering terjadi bila terdapat HIV pada
+salah satu atau kedua pasangan (p < 0,05). Oleh karena itu,
+peneliti melakukan analisis bivariat hanya pada kelompok
+subyek tanpa risiko penggunaan narkotika suntik (n= 118).
+Hasilnya didapatkan status HIV berhubungan bermakna
+dengan kejadian hepatitis C dan risiko kejadian hepatitis C
+meningkat 2 kali dibandingkan analisis sebelumnya.
+Hubungan antara status HIV positif dengan
+meningkatnya kejadian hepatitis C pada pasangan dapat
+dijelaskan bahwa infeksi HIV secara independen berhubungan
+dengan lebih tingginya kadar HCV RNA serum dan kadar HCV
+RNA yang persisten dibandingkan pada pasien monoinfeksi
+hepatitis C. Lebih tingginya kadar HCV RNA dalam darah
+meningkatkan kadar HCV RNA dalam semen. Meningkatnya
+transmisi seksual pada kelompok homoseksual dengan HIV
+seropositif diduga disebabkan oleh terpajannya partikel virus
+yang berasal dari darah maupun cairan semen jika terjadi
+hubungan seksual yang traumatik.41 Namun, pada analisis
+multivariat didapatkan status HIV tidak berhubungan dengan
+kejadian hepatitis C. Hasil tersebut dapat disebabkan oleh
+besar sampel yang tidak terpenuhi atau adanya interaksi
+dengan faktor-faktor lain.
+Hasil lain yang didapat adalah tingginya prevalensi
+HIV pada subyek yaitu sebesar 58,0%. Hasil ini lebih tinggi
+dibandingkan penelitian Lissen dkk9 yang melaporkan
+prevalensi pada populasi yang sama sebesar 25% maupun
+dengan insidens HIV pada studi kohort oleh Wyld dkk18
+sebesar 40%. Data di atas menunjukkan bahwa HIV lebih
+mudah ditransmisikan kepada pasangannya dibandingkan
+virus hepatitis C (58,0% vs 10,1%). Penelitian ini juga
+mendapatkan hubungan antara status HIV dan hitung CD4+
+pasien koinfeksi dengan peningkatan kejadian 5 kali pada
+hitung CD4+ < 200 sel/uL. Hal ini sesuai dengan penelitian
+oleh Hisada dkk yang melaporkan bahwa transmisi HIV
+berkorelasi positif dengan HIV viral load dan hitung CD4+
+yang lebih rendah. Hasil ini mendukung hipotesis yang
+menyatakan bahwa rendahnya hitung CD4+ dapat berperan
+sebagai petanda untuk derajat viremia yang lebih tinggi
+atau lamanya kadar viremia pada pasien koinfeksi.40
+Penggunaan kondom yang tidak teratur secara teori
+dihubungkan dengan meningkatnya transmisi seksual virus
+hepatitis C. Penelitian ini mendapatkan tidak ada hubungan
+yang bermakna antara penggunaan kondom dengan
+kejadian hepatitis C meskipun terdapat peningkatan
+
+kejadian hepatitis C 3 kali lebih tinggi pada subyek dengan
+riwayat penggunaan kondom yang tidak teratur. Namun,
+berbagai studi sebelumnya melaporkan hasil yang tidak
+konsisten. Rauch dkk22 melaporkan bahwa tidak didapatkan
+adanya hubungan antara perilaku seksual tidak aman
+(penggunaan kondom tidak teratur) dan kejadian hepatitis C
+pada pasangan heteroseksual. Gabrielli dkk10 pada populasi
+pasangan seksual pengguna narkotika dengan hepatitis
+C positif melaporkan bahwa tidak ada hubungan antara
+penggunaan kondom dengan kejadian hepatitis C, namun
+penelitian tersebut memperlihatkan adanya efek protektif
+penggunaan kondom yang teratur pada transmisi seksual
+hepatitis C. Oleh karena itu, variabel penggunaan kondom
+tetap diikutkan dalam analisis multivariat dan didapatkan
+hasil tidak bermakna. Hal ini dapat dijelaskan bahwa
+penggunaan kondom ini sulit dinilai kebenarannya karena
+penelitian ini dilakukan setelah pasien didiagnosis koinfeksi
+HIV/HCV. Selain itu, faktor besar sampel yang kurang dapat
+mempengaruhi kemaknaan statistik pada penelitian ini.
+Pada penelitian ini tidak didapatkan hubungan
+antara kekerapan kontak seksual dan kejadian hepatitis C
+ataupun meningkatnya risiko kejadian hepatitis C. Tidak
+adanya hubungan antara kekerapan kontak seksual dan
+kejadian hepatitis C dapat berarti kekerapan kontak seksual
+bukan merupakan faktor risiko atau disebabkan oleh besar
+sampel yang kurang. Hal tersebut juga dapat terjadi karena
+masih adanya kesulitan dalam mendefinisikan variabel
+tersebut dan cara pengukuran yang akurat.
+Lama berpasangan selalu dihubungkan dengan
+risiko transmisi seksual hepatitis C. Pada uji hipotesis
+tidak ditemukan hubungan antara lama berpasangan dan
+kejadian hepatitis C. Sebabnya, lama berpasangan pada
+dasarnya bukan merupakan faktor risiko pada populasi
+penelitian. Penyebab lainnya yaitu sebagian besar subyek
+mempunyai lama berpasangan kurang dari 5 tahun atau
+dapat juga disebabkan oleh besar sampel yang kurang.
+Selain kedua variabel sebelumnya, penelitian ini juga
+menilai ada tidaknya hubungan antara jumlah hubungan
+seksual dan kejadian hepatitis C. Pada penelitian ini tidak
+didapatkan hubungan antara jumlah hubungan seksual dan
+kejadian hepatitis C. Penelitian-penelitian potong lintang
+sebelumnya tidak pernah menilai variabel ini sehingga
+tidak dapat dibandingkan. Hasil yang tidak bermakna
+pada variabel ini dapat disebabkan oleh kesulitan dalam
+mendefinisikan dan menentukan cara pengukuran variabel
+yang paling mendekati keadaan sesungguhnya.
+Tipe hubungan seksual nonvaginal merupakan salah
+satu faktor yang meningkatkan risiko transmisi seksual
+hepatitis C, sebab secara teori mukosa di daerah anorektal
+
+Jurnal Penyakit Dalam Indonesia | Vol. 2, No. 3 | Oktober 2015 | 137
+
+Sri Agustini Kurniawati,Teguh H. Karjadi, Rino A. Gani
+
+lebih tipis sehingga lebih rentan terjadinya perlukaan
+dan memudahkan transmisi hepatitis C. Sebagian besar
+penelitian yang dilakukan sebelumnya pada pasangan
+heteroseksual pasien koinfeksi HIV/HCV tidak meneliti
+variabel tipe hubungan seksual sebagai faktor risiko.8-12,18,37,40
+Tipe hubungan seksual hanya dilaporkan pada studi atau
+laporan kasus hepatitis C pada populasi homoseksual
+atau studi kohort. Pada uji hipotesis didapatkan hubungan
+antara tipe hubungan seksual nonvaginal dan kejadian
+hepatitis C dengan risiko kejadian 5-6 kali lebih tinggi
+pada subyek dengan faktor risiko tersebut. Pada analisis
+selanjutnya didapatkan hubungan nonvaginal merupakan
+faktor yang paling berpengaruh terhadap kejadian hepatitis
+C. Hal ini sesuai dengan beberapa laporan kasus yang ada.
+Halfon dkk44 melaporkan sebuah kasus hepatitis C akut
+yang disebabkan oleh transmisi seksual pada pasangan
+heteroseksual setelah hubungan seksual anal dan vaginal
+yang dibuktikan dengan analisis filogenetik virus hepatitis
+C. Ghosn dkk23 melaporkan serial kasus hepatitis C akut
+pada kelompok homoseksual dengan HIV positif dan
+mendapatkan adanya hubungan antara perilaku seksual
+risiko tinggi termasuk hubungan anal yang tidak dilindungi,
+bersamaan dengan infeksi sifilis dan transmisi hepatitis C.
+Sedangkan Gotz24 melaporkan pada sebuah kluster infeksi
+hepatitis C akut pada kelompok homoseksual dengan
+HIV positif didapatkan faktor yang berhubungan dengan
+hepatitis C akut adalah teknik seksual yang merusak mukosa
+(fisting) dan infeksi menular seksual LGV. Data-data di atas
+dapat mendukung hipotesis bahwa risiko transmisi seksual
+hepatitis C dapat meningkat jika terjadi kerusakan barrier
+mukosa anorektal yang memfasilitasi masuknya virus
+hepatitis C melalui perlukaan, selain keberadaan HCV RNA
+dalam semen atau pun dalam darah yang tidak diperiksa
+pada penelitian ini.
+Variabel yang juga mempengaruhi transmisi seksual
+hepatitis C adalah pasangan seksual multipel. Penelitian
+ini tidak mendapatkan hubungan antara jumlah pasangan
+seksual dan kejadian hepatitis C. Meskipun demikian pada
+penelitian ini didapatkan meningkatnya risiko kejadian
+hepatitis C 2,2 kali lebih tinggi pada subyek dengan jumlah
+pasangan >2. Hasil yang tidak bermakna pada variabel ini
+dapat disebabkan oleh besar sampel yang kurang atau pun
+perbedaan populasi penelitian.
+Pada uji hipotesis tidak didapatkan hubungan
+antara hitung CD4+ pasien koinfeksi dan kejadian hepatitis
+C. Peneliti juga telah melakukan analisis dengan batas
+hitung CD4+ yang berbeda namun tetap tidak didapatkan
+hubungan yang bermakna. Hal ini tidak sesuai dengan
+penelitian Eyster dkk8 yang melaporkan bahwa rerata
+
+138 | Jurnal Penyakit Dalam Indonesia | Vol. 2, No. 3 | Oktober 2015
+
+hitung CD4+ pada 4 pasangan hemofilia yang menularkan
+HIV dan HCV adalah 125 sel/mul. Perbedaan ini dapat
+dijelaskan dengan teori imunopatogenesis pada infeksi
+hepatitis C. Hitung CD4+ perifer tidak memegang peranan
+di dalam imunopatogenesis hepatitis C. Yang berperan
+terhadap eliminasi virus hepatitis C dalam hepatosit yang
+terinfeksi adalah sel T sitotoksik/CD8+. Stimulasi CD8+ ini
+dipengaruhi oleh CD4+ yang terdapat di dalam jaringan
+hati, bukan CD4+ yang terdapat pada darah perifer.42 Hal ini
+dapat menjelaskan ketidakkonsistenan hubungan antara
+hitung CD4+ perifer dengan terjadinya infeksi hepatitis
+C.19 Oleh karena itu, pemeriksaan yang perlu dilakukan
+adalah HCV viral load sehingga dapat menggambarkan
+derajat infeksius dari penular (pasien koinfeksi HIV/
+HCV) yang merupakan keterbatasan penelitian ini. Hal
+lain yang dapat menjelaskan tidak adanya hubungan
+tersebut adalah hepatitis C pada subyek bukan berasal
+dari pasangannya yaitu pasien koinfeksi HIV/HCV. Namun
+demikian, pada penelitian ini meskipun sumber penularan
+hepatitis C pada subyek tidak dapat ditelusuri lebih lanjut
+karena tidak dilakukan pemeriksaan genotip maupun
+analisis filogenetik, upaya untuk menghilangkan faktor
+risiko transmisi parenteral pada subyek telah dilakukan
+dengan melakukan wawancara tentang faktor risiko
+penularan hepatitis C pada pasangan secara terpisah.
+Selain itu, dengan didapatkan hampir semua subyek
+bukan pengguna narkotika suntikan, maka sangat mungkin
+kejadian hepatitis C berasal dari pasangannya.
+
+SIMPULAN
+Hasil penelitian ini mendapatkan prevalensi hepatitis
+C pada pasangan seksual pasien koinfeksi HIV/HCV sebesar
+10,1%. Tipe hubungan seksual nonvaginal merupakan
+faktor yang berhubungan dengan kejadian hepatitis C pada
+pasangan seksual pasien koinfeksi HIV/HCV. Analisis bivariat
+pada kelompok pasangan seksual pasien koinfeksi HIV/
+HCV nonpengguna narkotika suntik mendapatkan bahwa
+status HIV reaktif dan tipe hubungan seksual nonvaginal
+berhubungan dengan kejadian hepatitis C. Namun
+demikian, berdasarkan analisis multivariat, hanya tipe
+hubungan seksual nonvaginal yang berhubungan dengan
+kejadian hepatitis C pada kelompok tersebut. Penelitian
+ini belum mendapatkan hubungan yang bermakna antara
+penggunaan narkotika suntik, transfusi darah, penggunaan
+kondom, jumlah hubungan seksual, jumlah pasangan
+seksual, dan hitung CD4+ pasien koinfeksi HIV/HCV dengan
+kejadian hepatitis C pada pasangan seksual pasien koinfeksi
+HIV/HCV. Hal ini dapat disebabkan oleh besar sampel yang
+kurang pada penelitian ini.
+
+Faktor - Faktor yang Berhubungan dengan Kejadian Hepatitis C pada Pasangan Seksual Pasien Koinfeksi Human Immunodeficiency Virus dan Virus Hepatitis C
+
+DAFTAR PUSTAKA
+1.
+
+Mohsen AH, Easterbrook P, Taylor CB, Norris S. Hepatitis C and HIV1 coinfection. Gut. 2002;51(4):601-8.
+2. UNAIDS/WHO. AIDS epidemic update. Geneve: UNAIDS/WHO,
+2007.
+3. Anderson K, Chung RT. Hepatitis C virus in the HIV-infected patient.
+Clin Liver Dis 2006;10:303-20.
+4. Benhamou Y, Bochet M, Di Martino V, Charlotte F, Azria F, Coutellier
+A, et al. Liver fibrosis progression in human immunodeficiency
+virus and hepatitis C virus coinfected patients. Hepatology.
+1999;30(4):1054-8.
+5. Sulkowski MS, Thomas DL. Hepatitis C in the HIV-infected person.
+Ann Intern Med. 2003;138(3):197-207.
+6. Braitstein P, Yip B, Montessori V, Moore D, Montaner JSG, Hogg
+RS. Effect of serostatus for hepatitis C virus on mortality among
+antiretrovirally naive HIV-positive patients. CMAJ. 2005;173(2):160-4.
+7. Martin-Carbonero L, Soriano V, Valencia E, Garcia-Samaniego
+J, Lopez M, Gonzalez-Lahoz J. Increasing impact of chronic viral
+hepatitis on hospital admissions and mortality among HIV-infected
+patients. AIDS Res Hum Retroviruses. 2001;17(16):1467-71.
+8. Eyster ME, Alter HJ, Aledort LM, Hatzakis A, JJ. G. Heterosexual cotransmission of hepatitis C virus (HCV) and human immunodeficiency
+virus (HIV). Ann Intern Med. 1991;115(10):764-8.
+9. Lissen E, Alter HJ, Abad MA, Torres Y, Perez-Romero M, Leal M, et
+al. Hepatitis C virus infection among sexually promiscous groups
+and the heterosexual partners of hepatitis C virus infected index
+cases. Eur J Clin Microbiol Infect Dis. 1993;12(11):827-31.
+10. Gabrielli C, Zannini A, Corradini R, Gafa S. Spread of hepatitis C virus
+among sexual partners of HCVAb positive intravenous drug users. J
+Infect. 1994;29(1):17-22.
+11. Tor J, Llibre JM, Carbonell M, Muga R, Ribera A, Soriano V, et al.
+Sexual transmission of hepatitis C virus and its relation with
+hepatitis B virus and HIV. BMJ. 1990;301(6761):1130-3.
+12. Filippini P, Coppola N, Scolastico C, Rossi G, Onofrio M, Sagnelli E,
+et al. Does HIV Infection Favor the Sexual Transmission of Hepatitis
+C? Sex Transm Dis. 2001;28(12):725-9.
+13. Miller CL, Johnston C, Spittal PM, Li K, LaLibert´e N, Montaner JSG,
+et al. Opportunities for prevention: hepatitis C prevalence and
+incidence in a cohort of young injection drug users. Hepatology
+2002;36(3):737-42.
+14. Yen T, Keeffe EB, Ahmed A. The epidemiology of hepatitis C virus
+infection. J Clin Gastroenterol. 2003;36(1):47-53.
+15. Stroffolini T, Lorenzoni U, Menniti-Ippolito F, Infatolino D,
+Chiaramonte M. Hepatitis C virus infection in spouses: sexual
+transmission or common exposure to the same risk factors. Am J
+Gastroenterol. 2001;96(11):3138-41.
+16. Hammer GP, Kellogg TA, McFarland WC, Wong E, Louie B, Williams
+I, et al. Low incidence and prevalence of hepatitis C virus infection
+among sexually active non-intravenous drug-using adults, San
+Francisco, 1997–2000. Sex Transm Dis. 2003;30(12):919-24.
+17. Alary M, Joly JR, Vincellete J, Lavoie R, Turmel B, Remis RS. Lack of
+evidence of sexual transmission of hepatitis C virus in a prospective
+cohort study of men who have sex with men. Am J Public Health.
+2005;95(3):502-5.
+18. Wyld R, Robertson JR, Brettle P, Mellor J, Prescott L, Simmonds P.
+Absence of hepatitis C virus transmission but frequent transmission
+of HIV-1 from sexual contact with doubly-infected individuals. J
+Infect. 1997;35(2):163-6.
+19. Bonacini M, Puoti M. Hepatitis C in patients with human
+immunodeficiency virus infection. Arch Intern Med.
+2000;160(22):3365-73.
+20. Swan T, Raymond D. Hepatitis C virus (HCV) and HIV/HCV
+coinfection: a critical review of research and treatment. New York:
+Treatment Action Group, 2004.
+21. Matthews-Greer JM, Caldito GC, Adley SD, Willis R, Mire AC,
+Jamison RM, et al. Comparison of hepatitis C viral loads in patients
+with or without human immunodeficiency virus. Clin Diagn Lab
+Immunol. 2001;8(4):690-4.
+
+22. Rauch A, Rickenbach M, Weber R, Hirschel B, Tarr PE, Bucher HC, et
+al. Unsafe sex and increased incidence of hepatitis C virus infection
+among HIV-infected men who save with men: the Swiss HIV cohort
+study. Clin Infect Dis. 2005;41(3):395-402.
+23. Ghosn J, Pierre-Francois S, Thibault V, Duvivier C, Tubiana R, Simon
+A, et al. Acute hepatitis C in HIV-infected men who have sex with
+men. HIV Med. 2004(5);5:303-6.
+24. Gotz HM, Doornumb GV, Niestersb HGM, Hollanderce JGD, Thiod
+HB, Zwart OD. A cluster of acute hepatitis C virus infection among
+men who have sex with men – results from contact tracing and
+public health implications. AIDS 2005;19(19):969-74.
+25. KPA Nasional, Depkes RI. Laporan nasional estimasi populasi
+dewasa rawan terinfeksi HIV tahun 2006; 2006.
+26. Gani RA. Hepatitis C. In: Sudoyo AW SB, Alwi I, Kolopaking MS,
+Setiati S, editor. Buku ajar Ilmu Penyakit Dalam. 1 ed. Jakarta: Pusat
+Penerbitan Departemen IPD, 2006. p. 441-4.
+27. Patel K, Muir AJ, McHutchison JG. Diagnosis and treatment of
+chronic hepatitis C infection. BMJ. 2006;332(7548):1013-7.
+28. Reddy SI, Ukomadu C. Viral hepatitis and hepatocellular carcinoma
+in African Americans. Cancer Epidemiol Biomarker Prev.
+2003;12(3):248s-51s.
+29. Alter MJ. Epidemiology of hepatitis C virus infection. World J
+Gastroenterol. 2007;13(17):2436-41.
+30. Carneiro MAS, Martins RMB, Teles SA, Silva SA, Lopes CL, Cardoso
+DDP, et al. Hepatitis C prevalence and risk factors in hemodialysis
+patients in Central Brazil: a survey by polymerase chain reaction and
+serological methods. Mem Inst Oswaldo Cruz. 2001;96(6):765-9.
+31. Alter MJ. Prevention of spread of hepatitis C. Hepatology 2002;36(5
+Suppl 1):s93-8.
+32. Murphy EL, Bryzman SM, Glynn SA, Ameti DA, Thomson RA,
+Williams AE, et al. Risk factors for hepatitis C virus infection in
+United States blood donors. Hepatology. 2000;31(3):756-62.
+33. Neumayr G, Propst A, Schwaighofer H, Judmaier G, Vogel W. Lack of
+evidence for the heterosexual transmission of hepatitis C. Q J Med.
+1999;92(9):505-8.
+34. Vandelli C, Renzo F, Romano L, Tisminetzky S, De Palma M, Stroffolini
+T, et al. Lack of evidence of sexual transmission of hepatitis C among
+monogamous couples: results of a 10-year prospective follow-up
+study. Am J Gastroenterol. 2004;99:855-9.
+35. Tahan V, Karaca C, Yildirim B, Bozbas A, Ozaras R, Demir K, et al.
+Sexual transmission of HCV between spouses. Am J Gastroenterol.
+2005;100(4):821-4.
+36. Terrault NA. Sexual activity as a risk factor for hepatitis C.
+Hepatology. 2002;36(5):s99-s105.
+37. Zylberberg H, Thiers V, Lagorce D, Squadrito G, Leone F, Berthelot
+P, et al. Epidemiological and virological analysis of couples infected
+with hepatitis C virus. Gut. 1999;45(1):112-6.
+38. Corona R, Caprilli F, Tosti ME, Gentili G, Franco E, Zarrati L, et al.
+Risk factors for hepatitis C virus infection among nonintravenousdrug-using heterosexuals attending a clinic for sexually transmitted
+disease in Italy. Int J Infect Dis. 1997;2(1):4-8.
+39. Laurent C, Henzel D, Mulanga-Kabeya C, Maertens G, Lerouze
+B, Delaporte E. Seroepidemiological survey of hepatitis C virus
+among commercial sex workers and pregnent women in Kinshasa,
+Democratic Republic of Congo. Intern J Epidemiol. 2001;30(4):872-7.
+40. Hisada M, O'Brien TR, Rosenberg PS, Goedert JJ. Virus load and
+risk of heterosexual transmission of human immunodeficiency
+virus and hepatitis C virus by men with hemophilia. J Infect Dis.
+2000;181(4):1475-8.
+41. Briat A, Dulioust E, Galimand J, Fontaine H, Chaix M-L, LeturKonirsch H, et al. Hepatitis C virus in the semen of men coinfected
+with HIV-1: prevalence and origin. AIDS. 2005;19(16):1827-35.
+42. Liang TJ, Rehermann B, Seeff LB, Hoofnagle JH. Pathogenesis,
+natural history, treatment, and prevention of hepatitis C. Ann
+Intern Med. 2000;132(4):296-305.
+43. Akbar N, Basuki B, Mulyanto, Garabrant DH, Sulaiman A, Noer S.
+Ethnicity, socioeconomic status, transfusions and risk of hepatitis B
+and hepatitis C infection. J Gastroenterol Hepatol. 1997;12(11):752-7.
+44. Halfon P, Riflet H, Renou C, Quentin Y, Cacoub P. Molecular evidence
+of male-to-female sexual transmission of hepatitis C virus after
+vaginal and anal intercourse. J Clin Microbiol. 2001;39(3):1204-6.
+
+Jurnal Penyakit Dalam Indonesia | Vol. 2, No. 3 | Oktober 2015 | 139
+
+

@@ -1,0 +1,1595 @@
+REFLEKSI HUKUM
+Jurnal Ilmu Hukum
+
+p-ISSN 2541-4984 | e-ISSN 2541-5417
+Volume 3 Nomor 2, April, Halaman 145-160
+DOI: https://doi.org/10.24246/jrh.2019.v3.i2.p145-160
+Open access at: http://ejournal.uksw.edu/refleksihukum
+Penerbit: Fakultas Hukum Universitas Kristen Satya Wacana
+
+PERLINDUNGAN HUKUM TERHADAP KEAMANAN DATA
+KONSUMEN FINANCIAL TECHNOLOGY
+DI INDONESIA
+Kornelius Benuf, Siti Mahmudah, Ery Agus Priyono
+Fakultas Hukum Universitas Diponegoro
+Korespondensi: korneliusbenuf@gmail.com
+Abstrak
+Penelitian ini bertujuan untuk mengetahui perlindungan hukum terhadap keamanan data
+konsumen dalam bisnis Fintech di Indonesia, berdasarkan Peraturan Otoritas Jasa
+Keuangan, dan peraturan terkait. Metode pendekatan yang digunakan adalah yuridis
+normatif. Hasil penelitian menyatakan bahwa, para pihak dalam bisnis Fintech terdiri dari
+penyelenggara bisnis Fintech (produsen) dan pengguna Fintech (konsumen). Hubungan para
+pihak dalam bisnis Fintech terjadi karena adanya perjanjian elektronik. Perlindungan
+terhadap data pribadi konsumen Fintech diatur dalam Peraturan Menteri Komunikasi dan
+Informatika, Peraturan Bank Indonesia dan Peraturan Otoritas Jasa Keuangan. Mengenai
+data yang harus dilindungi telah diatur dalam Surat Edaran Otoritas Jasa Keuangan.
+Kata Kunci: Fintech; Hubungan Hukum; Perlindungan Hukum; Data Pribadi Konsumen.
+Absract
+The aim of this study is to determine legal protection of consumer data security in Indonesia
+Fintech business based on Financial Service Authority (Otoritas Jasa Keuangan-OJK)
+Regulation and other related ordinance. The approach method used in this study is normative
+juridicial. The study result explains that the parties of Fintech business is consisted of
+Fintech organizer (producer) and Fintech user (consumer). The relation among the parties is
+created due to an electronic contract. Basically, the protection of Fintech consumer personal
+data is regulated in Communication and Information Minister Regulation, Bank Indonesia
+Regulation, and Financial Service Authority Regulation. In addition, the protection of data
+was regulated in Financial Service Authority Circular Letter.
+Keywords: Fintech; Legal Relations; Legal Protection; Consumer Personal Data.
+
+146
+
+REFLEKSI HUKUM
+
+PENDAHULUAN
+Perkembangan teknologi informasi
+utamanya interconnection-networking
+(internet), membawa pengaruh besar di
+seluruh lini kehidupan manusia.
+Kehidupan modern saat ini sangat
+bergantung pada kemajuan teknologi.1
+Asosiasi Penyedia Jasa Internet
+Indonesia (APJII) pada tahun 2017
+menyatakan jumlah pengguna internet
+di Indonesia mencapai 143, 26 juta
+jiwa. Tingginya pengguna jasa internet
+di Indonesia juga berdampak pada
+tumbuh pesatnya perusahaan Fintech.
+Kepala Sub Bagian Perizinan Fintech
+Direktorat Pengaturan, Pengawasan,
+dan Perizinan Fintech Otoritas Jasa
+Keuangan
+(OJK),
+Alvin
+Taulu
+mengatakan, bahwa hingga tahun
+2018 total transaksi dari industri
+fintech peer to peer (P2P) lending
+mencapai Rp 26 triliun,2 data lain bisa
+dilihat dari jumlah perusahaan Fintech
+berizin dan terdaftar di OJK per
+Januari 2019, yang berjumlah 99
+perusahaan,3
+sebelumnya
+per
+Desember 2018 jumlah perusahaan
+Fintech
+terdaftar
+adalah
+88
+4
+perusahaan.
+Pesatnya pertumbuhan perusahaan Fintech juga dikarenakan Fintech
+menawarkan beragam layanan keuangan
+yang
+sangat
+membantu
+1
+2
+
+3
+
+4
+
+5
+6
+7
+
+[Vol. 3, No. 2, 2019]
+
+masyarakat dalam menjalankan roda
+perekonomian menjadi lebih efektif
+dan efisien khususnya sektor keuangan.5 Namun dalam pelaksanaannya
+ternyata bisnis Fintech memiliki
+potensi risiko, setidaknya ada dua
+potensi risiko yaitu risiko keamanan
+data konsumen dan risiko kesalahan
+transaksi.6 Kedua risiko tersebut
+kemudian akan membawa kerugian
+pada masing-masing pihak dalam
+bisnis
+Fintech.
+Timbulnya
+aksi
+kejahatan online seperti penyadapan,
+pembobolan dan cybercrime dalam
+transaksi finansial perbankan menjadikan masyarakat menjadi ragu untuk
+melakukan transaksi online.7
+Penelitian ini akan memfokuskan
+pada risiko keamanan data konsumen
+dalam bisnis Fintech di Indonesia.
+Perlindungan terhadap data pribadi
+konsumen Fintech mutlak diperlukan,
+harus ada aturan yang menjamin
+kerahasiaan data pribadi konsumen
+dalam
+bisnis
+Fintech
+(required
+regulatory
+reform
+regarding
+the
+information technology, particularly on
+the protection of misuse of personal
+
+Barda Nawawi Arief ‘Kebijakan Penanggulangan Cyber Crime dan Cyber Sex’ (2005) 1
+Jurnal Law Reform 11, 11.
+Danang Sugianto, ‘Transaksi Fintech di Indonesia Tembus Rp 26 Triliun’ (2019) <https://fin
+ance.detik.com/berita-ekonomi-bisnis/d-4445880/transaksi-fintech-di-indonesia-tembus-rp-26triliun> diakses 28 Februari 2019.
+Publikasi OJK, ‘Penyelenggara Fintech Terdaftar di OJK per Februari 2019’ (2019)
+<https://www.ojk.go.id/id/berita-dan-kegiatan/publikasi/Pages/Penyelenggara-Fintech-Terdaft
+ar-di-OJK-per-Februari-2019.aspx> diakses 28 Februari 2019.
+Publikasi OJK, ‘Penyelenggara Fintech Terdaftar di OJK per Desember 2018’ (2018)
+<https://www.ojk.go.id/id/berita-dan-kegiatan/publikasi/Pages/Penyelenggara-Fintech-Terdaft
+ar-di-OJK-per-Desember-2018.aspx> diakses 21 Januari 2019.
+Farah Margaretha, ‘Dampak Elektronik Banking Terhadap Kinerja Perbankan Indonesia’ (2015)
+19 Jurnal Keuangan dan Perbankan 514, 516.
+OJK, Kajian Perlindungan Konsumen Sektor Jasa Keuangan: Perlindungan Konsumen Pada Fintech
+(Departemen Perlindungan Konsumen OJK 2017) 28.
+Imanuel Adhitya M. Chrismastianto, ‘Analisis SWOT Implementasi Tekonologi Finansial terhadap
+Kualitas Layanan Perbankan di Indonesia’ (2017) 20 Jurnal Ekonomi dan Bisnis 137, 148.
+
+PERLINDUNGAN HUKUM TERHADAP KEAMANAN DATA KONSUMEN FINTECH
+
+data).8 Permasalahan yang ingin
+dibahas yaitu: Bagaimana hubungan
+hukum para pihak dalam bisnis
+Fintech di Indonesia? Bagaimana
+perlindungan
+hukum
+terhadap
+keamanan data konsumen dalam
+bisnis Fintech di Indonesia?
+
+PEMBAHASAN
+Pengaturan
+Indonesia
+
+Bisnis
+
+Fintech
+
+di
+
+Bisnis Fintech merupakan inovasi
+finansial dengan sentuhan teknologi
+modern, yang memanfaatkan perkembangan teknologi informasi untuk
+menciptakan inovasi baru di sektor
+jasa keuangan, yang lebih cepat dan
+mudah digunakan. Financial Technology is a financial product and services
+service through a combination of the
+technology platform and innovative
+business model (Teknologi Finansial
+adalah produk dan layanan jasa
+keuangan melalui kombinasi platform
+teknologi dan model bisnis yang
+inovatif).9 Kegiatan usaha dari bisnis
+Fintech
+adalah
+Layanan
+Jasa
+Keuangan (selanjutnya disebut LJK)
+secara elektronik. Dengan demikian
+bisnis Fintech adalah suatu model
+bisnis yang menyediakan LJK dengan
+memanfaatkan teknologi informasi.
+Fintech is an innovation that involves
+the use of modern technology in the
+field of financial services.10
+Jadi apabila dilihat dari sistem
+kegiatan usaha yang dijalankan, maka
+bisnis Fintech ini menjalankan sistem
+elektronik untuk menjalankan sistem
+8
+
+9
+10
+
+147
+
+LJK kepada konsumennya. Sehingga
+bisnis Fintech terikat pada peraturan
+perundang-undangan tentang sistem
+elektronik dan peraturan tentang LJK.
+Oleh karena itu, bisnis Fintech diatur
+dan
+diawasi
+oleh
+Kementerian
+Komunikasi dan Informatika Republik
+Indonesia (Kemkominfo RI) sebagai
+regulator sistem elektronik dan Bank
+Indonesia serta OJK sebagai regulator
+sistem LJK.
+1. Pengaturan
+Mengenai
+Lingkup Bisnis Fintech
+a.
+
+Ruang
+
+Peraturan Bank Indonesia
+
+Ruang lingkup penyelenggaraan
+Fintech yang diatur dalam Pasal 3 ayat
+(1) Peraturan Bank Indonesia (PBI) No.
+19/12/PBI/ 2017 tentang Penyelenggaraan Fintech
+ini dikategorikan
+menjadi 5 (lima), yaitu:
+1) Sistem
+pembayaran
+(digital
+payment) yang mencakup otorisasi,
+kliring, penyelesaian akhir, dan
+pelaksanaan pembayaran. Contohnya penggunaan teknologi blockchain atau distributed ledger untuk
+penyelenggaraan transfer dana,
+uang elektronik dompet elektronik
+dan mobile payments.
+2) Pendukung pasar, merupakan
+Fintech yang menggunakan teknologi informasi dan/atau teknologi
+elektronik untuk memfasilitasi
+pemberian informasi yang lebih
+cepat dan lebih murah terkait
+dengan produk dan/atau LJK
+kepada masyarakat. Contohnya
+penyediaan data perbandingan
+
+Lastuti Abubakar & Tri Handayani, ‘Financial Technology: Legal Challenges for Indonesia
+Financial Sector’ (IOP Conference Series: Earth and Environmental Science 2018) 175 IOP
+Publishing 1, 4.
+Buckley R. P. and Webster S., ‘Fin-Tech in Developing Countries : Charting New Customer
+Journeys J Capco Inst J Financ Transform’ (2018) 44 Journal of Financial Transformation 1, 19.
+A. Raharjo & T. Sudrajat (Eds.), ‘Fintech Indonesia User Legal Protection in Balance Borrowing
+Money Based on Information Technology’ (2018) 54 SHS Web of Conferences 1, 1.
+
+148
+
+REFLEKSI HUKUM
+
+informasi produk atau LJK.
+3) Manajemen investasi dan manajemen risiko. Contohnya penyediaan
+produk
+investasi
+online
+dan
+asuransi online.
+4) Pinjaman, pembiayaan dan penyediaan modal. Contohnya layanan
+pinjam meminjam uang berbasis
+teknologi informasi (peer to peer
+lending) serta pembiayaan atau
+penggalangan
+dana
+berbasis
+teknologi
+informasi
+(crowdfunding).
+5) Jasa finansial lainnya selain
+keempat
+hal
+yang
+sudah
+disebutkan sebelumnya.
+b. Peraturan Otoritas Jasa Keuangan
+OJK menyelenggarakan sistem
+pengaturan dan pengawasan yang
+terintegrasi terhadap keseluruhan
+kegiatan sektor jasa keuangan, maka
+bisnis Fintech juga merupakan bisnis
+yang diawasi oleh OJK. Pengaturan
+bisnis Fintech di Indonesia pertama
+kali dikeluarkan oleh OJK melalui
+Peraturan Otoritas Jasa Keuangan
+(POJK) No. 77/POJK.01/2016 tentang
+Layanan Pinjam Meminjam Uang
+Berbasis Teknologi Informasi. Pinjam
+meminjam uang berbasis teknologi
+informasi yang artinya startup yang
+menyediakan
+platform
+pinjaman
+11
+secara online atau penyelenggaraan
+layanan
+jasa
+keuangan
+untuk
+mempertemukan pemberi dengan
+penerima pinjaman dalam rangka
+melakukan
+perjanjian
+pinjam
+meminjam dalam mata uang rupiah
+secara langsung melalui sistem
+elektronik
+dengan
+menggunakan
+jaringan internet.
+
+11
+
+12
+
+[Vol. 3, No. 2, 2019]
+
+Pengaturan dan pengawasan OJK
+terhadap bisnis Fintech juga diatur
+dalam POJK No. 13 /POJK.02/2018
+tentang Inovasi Keuangan Digital di
+Sektor Jasa Keuangan, tujuannya
+untuk
+penyelenggaraan
+Inovasi
+Keuangan
+Digital
+(IKD)
+secara
+bertanggung jawab. Pengaturan IKD
+dilakukan dengan tujuan untuk
+mendukung pengembangan IKD yang
+bertanggung
+jawab,
+mendukung
+pemantauan IKD yang efektif, dan
+mendorong sinergi di dalam ekosistem
+digital jasa keuangan sebagaimana
+diatur dalam Pasal 2 ayat (1) dan (2)
+tentang tujuan IKD. Cakupan bisnis
+Fintech dalam POJK ini dibagi menjadi
+delapan jenis sebagaimana diatur
+dalam Pasal 3 yaitu:12
+1) Penyelesaian transaksi, praktiknya
+penyelesaian
+transaksi
+biasa
+disebut juga dengan settlement,
+seperti yang terkait penyelesaian
+investasi.
+2) Penghimpunan
+modal,
+seperti
+equity crowdfunding, virtual exchange and smart contract, serta
+alternative due diligence.
+3) Pengelolaan investasi, antara lain
+advance algorithm, cloud computing, capabilities sharing, open
+source information technology, automated advice and management,
+social trading, dan retail algorithmic
+trading.
+Penghimpunan dan penyaluran
+dana, seperti pinjam meminjam
+berbasis aplikasi teknologi (P2P
+lending), alternative adjudication,
+virtual technologies, mobile 3.0 dan
+third-party application program
+ming interface.
+
+Ferry Hendro Basuki & Hartina Hussein, ‘Analisis SWOT Financial Technology Pada
+Dunia Perbankan Di Kota Ambon (Survey Pada Bank di Kota Ambon)’ (2018) 2
+Jurnal Manajemen dan Bisnis 60, 66.
+Pasal 3 POJK No. 13 /POJK.02/2018.
+
+PERLINDUNGAN HUKUM TERHADAP KEAMANAN DATA KONSUMEN FINTECH
+
+4) Perasuransian, antara lain sharing
+economy,
+autonomous
+vehicle,
+digital distribution dan securitization and hedge fund.
+5) Pendukung pasar, antara lain
+artifial inteligence/ machine learning, machine readble news, social
+sentiment, big data, market information platform and automated
+data collection and analysis.
+6) Pendukung
+keuangan
+digital
+lainnya, antara lain social/ eco
+crowdfunding,
+islamic
+digital
+financing, ewaqf, e-zakat, robo
+advise dan credit scoring.
+7) Aktivitas jasa keuangan lainnya,
+antara lain invoice trading, voucher,
+token,
+dan
+produk
+berbasis
+aplikasi blockchai.
+Membaca aturan yang dikeluarkan oleh 2 (dua) lembaga yang telah
+diuraikan satu persatu di atas dapat
+disimpulkan bahwa ruang lingkup
+bisnis Fintech terdiri dari sistem
+pembayaran/penyelesaian transaksi
+(digital payment); pendukung pasar;
+pinjaman, pembiayaan, dan penyediaan modal/ penghimpunan modal;
+pengelolaan investasi; perasuransian;
+pendukung keuangan digital lainnya;
+dan aktifitas jasa keuangan lainnya.
+Dalam penyelenggaraannya bisnis
+Fintech menggunakan instrumen yaitu
+kontrak elektronik, sehingga harus
+tunduk
+pada
+aturan
+mengenai
+kontrak elektronik yang diatur dalam
+Undang-Undang (UU) No. 19 Tahun
+2016 tentang Perubahan Atas UU No.
+11 Tahun 2008 tentang Informasi dan
+Transaksi Elektronik (selanjutnya
+disebut UU ITE), khususnya Pasal 1
+dan Pasal 18 UU tersebut.
+
+13
+
+14
+
+149
+
+2. Pengaturan Mengenai Kontrak
+Bisnis Fintech oleh Kemkominfo
+Seperti telah dijelaskan sebelumnya bahwa Fintech juga menyelenggarakan sistem elektronik dalam menjalankan usahanya sehingga harus
+tunduk pada aturan yang dikeluarkan
+oleh regulator yang mengatur dan
+mengawasi sistem elektronik yaitu
+Kemkominfo RI. Kemkominfo RI
+mengatur dan mengawasi penyelenggaraan bisnis Fintech di Indonesia
+melalui UU ITE. Pasal yang secara
+langsung berkaitan dengan penyelenggaran bisnis Fintech adalah Pasal 1
+angka 17 dan Pasal 18 yang mengatur
+mengenai kontrak elektronik. Kontrak
+elektronik adalah perjanjian para
+pihak yang dibuat melalui sistem
+elektronik.
+3. Pengaturan mengenai Perlindungan
+Hukum
+Terhadap
+Data
+Konsumen dalam Bisnis Fintech
+a.
+
+Peraturan Menkominfo No. 20
+Tahun 2016 tentang Perlindungan
+Data Pribadi Dalam Sistem
+Elektronik
+
+Data pribadi adalah data perseorangan tertentu yang disimpan,
+dirawat dan dijaga kebenaran serta
+dilindungi kerahasiaannya.13 Perlindungan data pribadi dalam sistem
+elektronik mencakup perlindungan
+terhadap perolehan, pengumpulan,
+pengolahan, penganalisisan, penyimpanan, penampilan, pengumuman,
+pengiriman,
+penyebarluasan
+dan
+pemusnahan data pribadi.14 Pelaksanaan perlindungan
+data pribadi
+dalam
+sistem
+elektronik
+harus
+berdasarkan pada asas penghormatan
+terhadap data pribadi sebagai privasi.
+
+Pasal 1 angka 1 Perkominfo No. 20 Tahun 2016.
+Bandingkan Pasal 3 Perkominfo No. 20 Tahun 2016.
+
+150
+
+REFLEKSI HUKUM
+
+Setiap pemilik data pribadi
+memiliki hak atas datanya dalam
+sistem elektronik. Hak-hak tersebut
+diatur dalam Pasal 26, yaitu: berhak
+atas kerahasiaan data pribadinya;
+mengajukan pengaduan dalam rangka
+penyelesaian sengketa data pribadi
+atas kegagalan perlindungan kerahasiaan data pribadinya oleh penyelenggara
+sistem
+elektronik
+kepada
+menteri; mendapatkan akses atau
+kesempatan untuk mengubah atau
+memperbarui data pribadinya tanpa
+mengganggu sistem pengelolaan data
+pribadi, kecuali ditentukan lain oleh
+ketentuan
+peraturan
+perundangundangan; mendapatkan akses atau
+kesempatan
+untuk
+memperoleh
+historis data pribadinya yang pernah
+diserahkan kepada penyelenggara
+sistem elektronik sepanjang masih
+sesuai dengan ketentuan peraturan
+perundang-undangan; dan meminta
+pemusnahan
+data
+perseorangan
+tertentu miliknya dalam sistem
+elektronik yang dikelola oleh penyelenggara sistem elektronik, kecuali
+ditentukan lain oleh ketentuan
+peraturan perundang-undangan.
+Pengguna
+sistem
+elektronik
+memiliki kewajiban untuk menjaga
+kerahasiaan
+data
+pribadi
+yang
+diperoleh, dikumpulkan, diolah, dan
+dianalisisnya; menggunakan data
+pribadi sesuai dengan kebutuhan
+pengguna saja; melindungi data
+pribadi
+beserta
+dokumen
+yang
+memuat data pribadi tersebut dari
+tindakan penyalahgunaan; dan bertanggung jawab atas data pribadi yang
+terdapat dalam penguasaannya, baik
+penguasaan secara organisasi yang
+menjadi kewenangannya maupun
+perorangan, jika terjadi tindakan
+penyalahgunaan.15
+15
+
+[Vol. 3, No. 2, 2019]
+
+Penyelenggara sistem elektronik
+memiliki kewajiban untuk melakukan
+sertifikasi sistem elektronik yang
+dikelolanya sesuai dengan ketentuan
+peraturan
+perundang-undangan;
+menjaga
+kebenaran,
+keabsahan,
+kerahasiaan, keakuratan dan relevansi serta kesesuaian dengan tujuan
+perolehan, pengumpulan, pengolahan, penganalisisan, penyimpanan,
+penampilan, pengumuman, pengiriman, penyebarluasan dan pemusnahan
+data pribadi; memberitahukan secara
+tertulis kepada pemilik data pribadi
+jika terjadi kegagalan perlindungan
+rahasia data pribadi dalam sistem
+elektronik yang dikelolanya; memiliki
+aturan internal terkait perlindungan
+data pribadi yang sesuai dengan
+ketentuan
+peraturan
+perundangundangan; menyediakan rekam jejak
+audit terhadap seluruh kegiatan
+penyelenggaraan sistem elektronik
+yang dikelolanya; memberikan opsi
+kepada pemilik data pribadi mengenai
+data pribadi yang dikelolanya dapat/
+atau tidak dapat digunakan dan/atau
+ditampilkan oleh/pada pihak ketiga
+atas persetujuan sepanjang masih
+terkait dengan tujuan perolehan dan
+pengumpulan data pribadi; memberikan akses atau kesempatan kepada
+pemilik data pribadi untuk mengubah
+atau memperbarui data pribadinya
+tanpa menganggu sistem pengelolaan
+data pribadi, kecuali ditentukan lain
+oleh ketentuan peraturan perundangundangan;
+memusnahkan
+data
+pribadi sesuai dengan ketentuan
+dalam Peraturan Menteri ini atau
+ketentuan
+peraturan
+perundangundangan lainnya yang secara khusus
+mengatur di masing-masing instansi
+pengawas dan pengatur sektor untuk
+itu; dan menyediakan narahubung
+
+Bandingkan Pasal 27 Perkominfo No. 20 Tahun 2016.
+
+PERLINDUNGAN HUKUM TERHADAP KEAMANAN DATA KONSUMEN FINTECH
+
+(contact
+person)
+yang
+mudah
+dihubungi oleh pemilik data pribadi
+terkait pengelolaan data pribadinya.
+Setiap pihak yang memperoleh,
+mengumpulkan, mengolah, menganalisis, menyimpan, menampilkan, mengumumkan, mengirimkan dan/atau
+menyebarluaskan data pribadi tanpa
+hak atau bertentangan dengan peraturan ini serta peraturan perundangundangan yang lain akan dikenakan
+sanksi administratif berupa peringatan lisan, peringatan tertulis, penghentian sementara kegiatan dan/ atau
+pengumuman di situs dalam jaringan
+(website online).16
+b. POJK No. 13/POJK.02/ 2018
+tentang Inovasi Keuangan Digital
+di Sektor Jasa Keuangan
+Menurut POJK ini, penyelenggara
+bisnis Fintech wajib menjaga kerahasiaan, keutuhan, dan ketersediaan
+data pribadi, data transaksi dan data
+keuangan yang dikelolanya sejak data
+diperoleh hingga data tersebut dimusnahkan.17 Syarat pemanfaatan data
+dan informasi pengguna antara lain:18
+1) memperoleh
+persetujuan
+dari
+pengguna;
+2) menyampaikan batasan pemanfaatan data dan informasi kepada
+pengguna;
+3) menyampaikan setiap perubahan
+tujuan pemanfaatan data dan
+informasi kepada pengguna dalam
+hal terdapat perubahan tujuan
+pemanfaatan data dan informasi;
+dan
+4) media dan metode yang digunakan
+dalam memperoleh data dan
+informasi terjamin kerahasiaan,
+keamanan serta keutuhannya.
+
+16
+17
+18
+
+151
+
+Dalam Pasal 31, penyelenggara
+diwajibkan untuk menerapkan prinsip
+dasar perlindungan konsumen yaitu:
+transparansi, perlakuan yang adil,
+keandalan, kerahasiaan dan keamanan data/informasi konsumen, penanganan pengaduan serta penyelesaian
+sengketa konsumen secara sederhana,
+cepat dan biaya terjangkau. Selain itu,
+penyelenggara juga wajib menyediakan pusat pelayanan konsumen
+berbasis teknologi yang paling sedikit
+terdiri atas penyediaan pusat layanan
+konsumen yang dapat dilaksanakan
+sendiri atau melalui pihak lain. Selain
+kewajiban yang disebutkan dalam
+Pasal 31, penyelenggara memiliki
+kewajiban lain yakni menyediakan
+dan/atau menyampaikan informasi
+terkini kepada OJK dan konsumen
+mengenai aktivitas layanan keuangan
+digital. Informasi tersebut dituangkan
+dalam dokumen atau sarana lain yang
+dapat digunakan sebagai alat bukti.
+Pasal 39 mengatur bahwa setiap
+pihak yang melanggar atau menyebabkan pelanggaran terhadap POJK ini
+akan dikenakan sanksi administratif
+berupa peringatan tertulis, kewajiban
+membayar denda dalam bentuk uang,
+pembatalan persetujuan dan/atau,
+pembatalan pendaftaran. Sanksi yang
+dikenakan OJK ini tidak mengurangi
+ketentuan pidana di sektor jasa
+keuangan. Selain sanksi administratif,
+Pasal 40 mengatur bahwa OJK dapat
+melakukan
+tindakan
+tertentu
+terhadap pelanggaran POJK ini.
+
+Bandingkan Pasal 36 Perkominfo No. 20 Tahun 2016.
+Bandingkan Pasal 30 ayat (1) POJK No. 13/POJK.02/ 2018.
+Bandingkan Pasal 30 ayat (2) POJK No. 13/POJK.02/ 2018.
+
+152
+
+c.
+
+REFLEKSI HUKUM
+
+POJK No. 77 /POJK.01/ 2016
+tentang
+Layanan
+Pinjam
+Meminjam
+Uang
+Berbasis
+Teknologi Informasi
+
+Perlindungan
+data konsumen
+yang berkaitan dengan data pribadi di
+atur dalam Pasal 26. Pasal tersebut
+mewajibkan penyelenggara untuk
+menjaga kerahasiaan data pribadi
+pengguna jasa. Kemudian Pasal 29
+mengatur bahwa penyelenggara wajib
+menerapkan prinsip dasar perlindungan pengguna yaitu transparansi,
+perlakuan yang adil, keandalan,
+kerahasiaan dan keamanan data serta
+penyelesaian
+sengketa
+pengguna
+secara sederhana, cepat dan biaya
+terjangkau.
+Selain kewajiban, penyelenggara
+juga dilarang untuk memberikan data
+dan/atau informasi mengenai pengguna kepada pihak ketiga dengan cara
+apapun kecuali pengguna memberikan persetujuan secara elektronik
+dan/atau karena diwajibkan oleh
+ketentuan
+peraturan
+perundangundangan. Apabila penyelenggara
+melanggar kewajiban dan larangan
+dalam POJK ini, maka akan dikenakan
+sanksi administratif. Sanksi tersebut
+berupa peringatan tertulis, kewajiban
+membayar denda dalam bentuk uang,
+pembatasan kegiatan usaha dan
+pencabutan izin.
+d. POJK
+No.
+1/POJK.07/2013
+tentang Perlindungan Konsumen
+Sektor Jasa Keuangan
+Pasal 2 mengatur mengenai
+prinsip dari perlindungan konsumen
+yang
+harus
+disediakan
+bagi
+konsumen, termasuk didalamnya
+konsumen Fintech sebagai pengguna
+jasa keuangan. Prinsip tersebut
+adalah transparansi, perlakuan yang
+adil, keandalan, kerahasiaan dan
+
+[Vol. 3, No. 2, 2019]
+
+keamanan data/ informasi konsumen,
+penanganan
+pengaduan
+serta
+penyelesaian
+sengketa
+konsumen
+secara sederhana, cepat dan biaya
+terjangkau. Selanjutnya Pasal 31
+mengatur mengenai larangan yang
+berkaitan dengan data konsumen bagi
+Pelaku
+Usaha
+Jasa
+Keuangan
+(selanjutnya disebut PUJK). Larangan
+tersebut adalah tidak memberikan
+data dan/atau informasi mengenai
+konsumennya kepada pihak ketiga
+dengan cara apapun kecuali dengan
+ijin tertulis dari konsumen dan atau
+karena diwajibkan oleh peraturan
+perundang-undangan. Selain larangan, Pasal 49 juga mewajibkan PUJK
+memiliki dan menerapkan kebijakan
+dan prosedur tertulis perlindungan
+konsumen. Kebijakan tersebut wajib
+dituangkan dalam standar prosedur
+operasional yang kemudian dijadikan
+panduan dalam seluruh kegiatan
+operasional PUJK.
+Pelanggaran terhadap POJK ini
+akan dikenakan sanksi administratif
+sebagaimana yang dimaksud dalam
+Pasal 53. Sanksi administratif tersebut
+berupa: peringatan tertulis, denda
+untuk membayar sejumlah uang
+tertentu, pembatasan kegiatan usaha,
+pembekuan kegiatan usaha dan
+pencabutan izin kegiatan usaha.
+Selain POJK ini, pengaturan
+secara khusus mengenai Fintech oleh
+OJK bisa ditemukan dalam Surat
+Edaran Otoritas Jasa Keuangan No.
+14/
+SEOJK.07/2014
+tentang
+Kerahasiaan dan Keamanan Data
+dan/atau Informasi Pribadi Konsumen
+dan Surat Edaran Otoritas Jasa
+Keuangan
+Nomor
+18
+/SEOJK.
+02/2017 tentang Tata Kelola dan
+Manajemen Risiko Teknologi Informasi
+Pada Layanan Pinjam Meminjam Uang
+Berbasis Teknologi Informasi.
+
+PERLINDUNGAN HUKUM TERHADAP KEAMANAN DATA KONSUMEN FINTECH
+
+Hubungan Hukum Para Pihak dalam
+Bisnis Fintech
+Hubungan hukum merupakan
+hubungan yang terhadapnya hukum
+meletakan hak pada satu pihak dan
+meletakan kewajiban pada pihak
+lain.19 Para pihak dalam bisnis Fintech
+secara umum adalah penyelenggara
+bisnis Fintech, yaitu setiap pihak yang
+menyelenggarakan bisnis Fintech dan
+pengguna Fintech, yaitu setiap pihak
+yang menggunakan LJK berbasis
+teknologi informasi atau elektronik.
+Hubungan hukum para pihak dalam
+bisnis Fintech adalah hubungan yang
+terhadapnya hukum meletakan hak
+pada pihak pengguna Fintech dan
+meletakan kewajiban pada pihak lain
+yaitu penyelenggara bisnis Fintech,
+begitu pula sebaliknya.
+Hubungan hukum para pihak
+dalam bisnis Fintech muncul karena
+adanya suatu perjanjian,20 yaitu
+perjanjian elektronik. Bisnis Fintech
+menggunakan media elektronik dalam
+menjalankan kegiatan usahanya yaitu
+memberikan LJK kepada konsumen,
+sehingga perjanjian yang dibuat oleh
+para pihak pun adalah perjanjian
+elektronik. Hubungan hukum dalam
+bisnis Fintech mengikat bagi para
+pihak ketika disetujuinya suatu
+perjanjian elektronik. Penyelenggara
+Fintech, menawarkan produk dan
+layanannya disertai dengan berbagai
+informasi seperti harga, spesifikasi
+barang, nilai rating produk atau jasa
+perusahaan pembuat dan lain-lain
+kepada konsumennya secara online.
+Penerimaan (acceptance) adalah
+suatu komunikasi yang dilakukan
+
+19
+20
+
+21
+
+153
+
+oleh pihak yang ditawarkan sesuatu
+(offeree) kepada pihak yang menawarkan sesuatu (offeror) di mana rangkaian kata-kata atau tindakan yang
+dilakukan secara objektif dapat
+diterjemahkan atau diartikan menyetujui penawaran (offer). Pengguna
+melakukan
+penerimaan
+terhadap
+penawaran dalam bisnis Fintech
+secara elektronik yaitu melaluai e-mail
+atau
+webpage. Dalam hal
+ini
+perusahaan Fintech melalui websitenya telah menyediakan formulir jasa
+keuangan atau produk keuangan yang
+bisa diisi secara langsung oleh calon
+konsumen
+sesuai
+dengan
+yang
+dibutuhkan atau calon konsumen
+diharuskan untuk terlebih dahulu
+membuka akun atau mendaftarkan
+diri menjadi anggota sebelum kemudian mendapatkan formulir dan
+melakukan
+verifikasi
+data
+dan
+21
+approval melalui e-mail.
+Suatu kontrak elektronik sah
+apabila memenuhi Pasal 47 ayat (2),
+Peraturan Pemerintah No. 82 Tahun
+2012 tentang Penyelenggaraan Sistem
+dan Transaksi Elektronik, yaitu:
+1) terdapat kesepakatan para pihak;
+2) dilakukan oleh subjek hukum yang
+cakap atau yang berwenang
+mewakili sesuai dengan ketentuan
+peraturan perundang-undangan
+3) terdapat hal tertentu; dan
+4) objek
+transaksi
+tidak
+boleh
+bertentangan dengan peraturan
+perundang-undangan, kesusilaan
+dan ketertiban umum.
+Syarat sahnya perjanjian elektronik ini sejalan dengan ketentuan Pasal
+1320 KUHPerdata. Perjanjian elektro-
+
+Titik Triwulan Tutik, Hukum Perdata dalam Sistem Hukum Nasional (Kencana 2008) 201.
+E. Santi, B. Budiharto & H. Saptono ‘Pengawasan Otoritas Jasa Keuangan Terhadap Financial
+Technology (Peraturan Otoritas Jasa Keuangan Nomor 77/POJK. 01/2016)’ (2018) 6 Diponegoro
+Law Journal 1, 13.
+Ibid.
+
+154
+
+REFLEKSI HUKUM
+
+nik dalam bisnis Fintech berisi hak
+dan kewajiban para pihak. Berdasarkan Pasal 30 POJK No. 13 Tahun
+2018, kewajiban yaitu: penyelenggara
+wajib menjaga kerahasiaan, keutuhan dan ketersediaan data pribadi,
+data transaksi dan data keuangan
+yang dikelolanya sejak data diperoleh
+hingga data tersebut dimusnahkan;
+pemanfaatan data dan informasi
+pengguna yang diperoleh penyelenggara harus memperoleh persetujuan
+dari pengguna, menyampaikan batasan pemanfaatan data dan informasi
+kepada pengguna, menyampaikan
+setiap perubahan tujuan pemanfaatan
+data kepada pengguna dalam hal ada
+perubahan tujuan pemanfaatan data,
+media dan metode yang dipergunakan
+dalam memperoleh data dan informasi
+terjamin kerahasiaan, keamanan,
+serta keutuhannya. Penyelenggara
+Fintech berhak untuk memastikan
+adanya itikad baik konsumen dan
+mendapatkan informasi dan/atau
+dokumen mengenai konsumen yang
+akurat, jujur, jelas dan tidak menyesatkan. Berdasarkan penelusuran
+yuridis tidak ada pengecualian yang
+dapat ditetapkan pihak produsen terhadap kewajiban menjaga kerahasiaan data pribadi konsumennya. Artinya
+apabila produsen tidak melakukan
+kewajibannya tersebut maka ia telah
+melakukan
+perbuatan
+melawan
+hukum dan bisa dimintakan pertanggungjawabannya.
+Sedangkan kewajiban dari pengguna jasa konsumen Fintech adalah
+memberikan data atau informasi
+pribadi yang benar kepada penyeleng22
+23
+24
+25
+
+[Vol. 3, No. 2, 2019]
+
+gara bisnis Fintech, dengan cara
+mengisi formulir elektronik yang telah
+disediakan penyelenggara dengan
+data pribadi yang benar. Hak
+konsumen Fintech adalah mendapatkan LJK yang ditawarkan oleh
+produsen Fintech dan mendapatkan
+jaminan perlindungan hukum atas
+keamanan data pribadi yang telah
+diserahkan kepada penyelenggara
+Fintech.
+Perlindungan
+Hukum
+Terhadap
+Keamanan Data Konsumen dalam
+Bisnis Fintech
+Salah satu sifat sekaligus tujuan
+hukum itu adalah memberikan
+perlindungan (pengayoman) kepada
+masyarakat.22 Hukum merupakan
+sarana mutakhir dalam mengendalikan berbagai perubahan di masyarakat sehingga perubahan yang ada
+mampu juga mewujudkan pembangunan bangsa dan negara ke arah
+yang lebih positif.23 Hukum mampu
+memberikan solusi atas kemungkinan
+penggunaan dan pemanfaatan iptek
+untuk sebesar-besarnya kemanfaatan
+dan kelangsungan hidup manusia,24
+dalam konteks Fintech, salah satu
+tujuan hukum adalah untuk melindungi
+konsumen.
+Perlindungan
+hukum adalah memberikan pengayoman kepada hak asasi manusia
+yang dirugikan orang lain dan
+perlindungan
+tersebut
+diberikan
+kepada masyarakat agar mereka
+dapat menikmati semua hak-hak yang
+diberikan oleh
+hukum.25 Apabila
+konsumen itu adalah masyarakat,
+
+Bambang Eko Turisno, ‘Perlindungan Konsumen dalam Iklan Obat’ (2012) 41 Jurnal
+Masalah-Masalah Hukum 20, 28.
+Esmi Warassih, ‘Peran Politik Hukum Dalam Pembangunan Nasional’ (2018) 5 Jurnal Gema
+Keadilan 1, 12.
+Sri Redjeki Hartono, ‘Perspektif Hukum Bisnis Pada Era Teknologi’ (Pidato Pengukuhan Guru
+Besar Universitas Diponegoro, 1995).
+Satjipto Raharjo, Ilmu Hukum (PT Citra Aditya Bakti 2006) 20.
+
+PERLINDUNGAN HUKUM TERHADAP KEAMANAN DATA KONSUMEN FINTECH
+
+artinya melindungi konsumen berarti
+juga melindungi masyarakat.26 Salah
+satu bentuk perlindungan hukum
+terhadap konsumen Fintech adalah
+perlindungan terhadap keamanan
+data pribadinya.
+Berdasarkan konsep privasi yang
+dikemukakan
+oleh
+Thomas
+J.
+Imedinghaff, salah satu konsep privasi
+yaitu privasi dari data tentang
+seseorang (privacy of data about
+person), yang artinya hak privasi dapat
+juga mengikat pada informasi mengenai seseorang yang dikumpulkan dan
+digunakan oleh orang lain.27 Berangkat dari konsep “privacy of data about
+person” maka kita ketahui bahwa
+perlindungan terhadap keamanan
+data pribadi merupakan perwujudan
+dari privasi seseorang sehingga sangat
+penting untuk diwujudkan.
+Perlindungan data pada dasarnya
+dapat berhubungan secara khusus
+dengan privasi seperti yang dikemukakan oleh Allan Westin yang untuk
+pertama kali mendefinisikan privasi
+sebagai hak individu, grup atau
+lembaga untuk menentukan apakah
+informasi tentang mereka akan
+dikomunikasikan atau tidak kepada
+pihak lain sehingga definisi yang
+dikemukakan oleh Westin disebut
+dengan information privacy karena
+menyangkut
+informasi
+pribadi.28
+Pendapat Westin ini apabila kita bawa
+dalam konteks bisnis Fintech yang
+berkembang pesat di tengah lajunya
+perkembangan teknologi informasi,
+bisa dipahami bahwa data pribadi
+perlu dilindungi karena data pribadi
+merupakan bagian dari privasi individu, sehingga pemilik data pribadi itu
+26
+27
+
+28
+
+155
+
+sendirilah yang menentukan apakah
+data pribadinya boleh diakses dan
+diketahui oleh orang lain atau tidak.
+Artinya segala data pribadi tesebut
+apabila pihak lain ingin mengetahuinya harus dengan persetujuan pemilik
+data pribadi.
+Keberadaan OJK sebagai lembaga
+pengawas di sektor jasa keuangan,
+diharapkan mampu melindungi konsumen dari PUJK yang dinilai dapat
+merugikan kepentingan konsumen,
+dalam hal ini konsumen Fintech. OJK
+sebagai lembaga yang memiliki
+kewenangan
+mengawasi
+kegiatan
+usaha di sektor jasa keuangan, harus
+mampu melindungi konsumen pengguna jasa keuangan yang menempatkan dananya dan/atau memanfaatkan pelayanan yang tersedia di
+lembaga jasa keuangan. Dalam
+penelitian ini khususnya adalah
+konsumen Fintech. Hal ini seperti
+ditentukan dalam Pasal 4 huruf c UU
+No. 21 Tahun 2011 tentang Otoritas
+Jasa Keuangan yang menyatakan
+bahwa salah satu tujuan dibentuknya
+OJK adalah agar dapat melindungi
+kepentingan konsumen dan masyarakat dalam di sektor jasa keuangan.
+Perlindungan ini dimaksudkan agar
+dapat memberikan rasa aman terhadap konsumen sebagai pengguna jasa
+keuangan. Konsumen Fintech sebagai
+pengguna jasa keungan memiliki hak
+untuk mendapatkan perlindungan
+atas data pribadinya pada perusahaan
+Fintech
+yang
+memberikan
+jasa
+keungan kepadanya.
+Oleh karena itu, OJK melalui
+Surat Edaran Otoritas Jasa Keuangan
+No.
+14/SEOJK.07/2014
+tentang
+
+Janus Sidabalok, Hukum Perlindungan Konsumen di Indonesia (Citra Aditya Bakti 2010) 3.
+Thomas J. Imedinghaff, ed., Online Law The SPA’s Legal Guide to Going Business on The
+Internet (Addison-wesley Developers Press 1996) 269. Dalam Edmon Makarin, Pengantar
+Hukum Telematika (PT. Raja Grafindo Persada 2005)160.
+Alan F. Westin, Privacy and Freedom (London 1967) 7.
+
+156
+
+REFLEKSI HUKUM
+
+Kerahasiaan dan Keamanan Data
+dan/atau
+Informasi
+Pribadi
+Konsumen, data pribadi yang harus
+dilindungi dalam bisnis Fintech di
+Indonesia yaitu:
+1) Data perseorangan, yang harus
+dilindungi: nama, alamat, tanggal
+lahir dan/atau umur, nomor
+telepon, dan/atau nama ibu
+kandung.
+2) Data korporasi, yang harus
+dilindungi: nama, alamat, nomor
+telepon, susunan direksi dan
+komisaris termasuk dokumen
+identitas berupa Kartu Tanda
+Penduduk
+(KTP)/paspor/ijin
+tinggal,
+dan/atau
+susunan
+pemegang saham.
+Sedangkan menurut Surat Edaran
+Otoritas Jasa Keuangan No. 18
+/SEOJK.02/2017, data pribadi yang
+harus dilindungi yaitu:
+1) Perseorangan
+seperti:
+nama,
+alamat domisili, kartu identitas
+(KTP, Surat Ijin Mengemudi (SIM),
+paspor), Nomor Pokok Wajib Pajak
+(NPWP), tanggal lahir dan/atau
+umur, alamat email, IP address,
+nomor telepon, nomor rekening,
+nama ibu kandung, nomor kartu
+kredit, identitas digital (biometrik),
+tanda tangan, riwayat pendidikan,
+riwayat pekerjaan, rekening koran,
+daftar harta kekayaan, data dan
+informasi terkait lainnya.
+2) Korporasi:
+nama
+korporasi,
+alamat, nomor telepon, susunan
+direksi dan komisaris termasuk
+dokumen identitas berupa KTP/
+paspor/izin
+tinggal,
+susunan
+pemegang saham, nomor rekening, rekening koran, daftar aset,
+dokumen perusahaan, data dan
+informasi terkait lainnya.
+3) Data dan informasi non-publik
+yang bersifat material: laporan
+keuangan,
+kinerja
+usaha,
+
+4)
+5)
+
+[Vol. 3, No. 2, 2019]
+
+keputusan manajemen, jumlah
+pelanggan, data dan informasi
+terkait lainnya.
+Data
+dan
+informasi
+terkait
+transaksi keuangan.
+Data
+dan
+informasi
+terkait
+kontrak/perjanjian.
+
+PENUTUP
+Berdasarkan hasil penelitian, para
+pihak dalam bisnis Fintech terdiri dari
+penyelenggara bisnis Fintech atau
+produsen dan pengguna Fintech atau
+konsumen. Hubungan para pihak
+dalam bisnis Fintech terjadi karena
+adanya perjanjian elektronik yaitu
+perjanjian yang dibuat dengan media
+elektronik. Perjanjian elektronik berisi
+hak dan kewajiban para pihak dalam
+bisnis Fintech. Kewajiban penyelenggara Fintech yaitu wajib menjaga
+kerahasiaan, keutuhan dan ketersediaan data pribadi, data transaksi,
+dan data keuangan yang dikelolanya
+sejak data diperoleh hingga data
+tersebut dimusnahkan. Pemanfaatan
+data dan informasi pengguna yang
+diperoleh penyelenggara harus memperoleh persetujuan dari pengguna,
+menyampaikan batasan pemanfaatan
+data dan informasi kepada pengguna,
+menyampaikan setiap perubahan
+tujuan pemanfaatan data dan infomasi kepada pengguna dalam hal
+terdapat perubahan tujuan pemanfaatan data dan informasi, media dan
+metode yang dipergunakan dalam
+memperoleh data dan informasi
+terjamin kerahasiaan, keamanan,
+serta keutuhannya. Penyelenggara
+Fintech berhak untuk memastikan
+adanya itikad baik konsumen dan
+mendapatkan informasi dan/atau
+dokumen mengenai konsumen yang
+akurat, jujur, jelas, dan tidak
+menyesatkan. Kewajiban dari konsu-
+
+PERLINDUNGAN HUKUM TERHADAP KEAMANAN DATA KONSUMEN FINTECH
+
+men Fintech adalah memberikan data
+atau informasi pribadi yang benar
+kepada penyelenggara bisnis Fintech,
+dengan mengisi formulir elektronik
+yang telah disediakan penyelenggara
+dengan data pribadi yang benar. Hak
+dari konsumen Fintech adalah mendapatkan LJK yang ditawarkan oleh
+penyelenggara produsen Fintech, dan
+mendapatkan jaminan perlindungan
+hukum atas keamanan data pribadi
+yang telah diserahkan kepada penyelenggara Fintech.
+Perlindungan hukum terhadap
+data pribadi konsumen Fintech diatur
+oleh Kemkominfo RI melalui Peraturan
+Menkominfo No. 20 Tahun 2016, oleh
+OJK melalui POJK No. 77 Tahun
+2016, POJK No. 13 Tahun 2018 serta
+peraturan pelaksananya, yaitu Surat
+Edaran OJK. Data yang harus
+dilindungi:
+1) Data pribadi perseorangan.
+2) Data pribadi korporasi.
+3) Data dan informasi non-publik
+yang bersifat material.
+4) Data
+dan
+informasi
+terkait
+transaksi keuangan.
+5) Data
+dan
+informasi
+terkait
+kontrak/perjanjian.
+Perlindungan
+data
+pribadi
+merupakan salah salah satu bentuk
+hak privasi yang merupakan hak
+individu sehingga harus dijamin
+negara. Konsep perlindungan data
+pribadi mengisyaratkan bahwa individu memiliki hak untuk menentukan
+berbagi data pribadinya atau tidak.
+Hak privasi melalui perlindungan data
+pribadi sangat penting dan bahkan
+merupakan
+elemen
+kunci
+bagi
+kebebasan dan harga diri individu.
+Perlindungan data pribadi merupakan
+pendorong kuat bagi terwujudnya
+kebebasan politik, spiritual, keagamaan, bahkan kegiatan seksual. Hak
+untuk menentukan nasib sendiri,
+
+157
+
+kebebasan berekspresi dan privasi
+adalah hak-hak yang penting untuk
+menjadikan kita sebagai manusia.
+Dalam kaitannya dengan bisnis
+Fintech, data pribadi konsumen
+Fintech inilah yang harus dilindungi.
+Apabila terjadi pembocoran atas data
+pribadi konsumen ini maka sanksi
+yang telah diatur dalam Peraturan
+Menkominfo RI dan POJK yang telah
+dijelaskan sebelumnya bisa dikenakan kepada pihak yang membocorkan
+data pribadi konsumen tersebut.
+Saran yang dapat diajukan adalah
+OJK harus merevisi POJK tentang
+perlindungan konsumen di sektor jasa
+keuangan, yaitu Pasal 1. Pasal 1 ini
+menurut
+hemat
+penulis
+belum
+mencakup
+penyelenggara
+jasa
+keuangan
+digital
+yaitu
+Fintech,
+sehingga harus dilengkapi. OJK juga
+harus merevisi POJK tentang Layanan
+Pengaduan Konsumen Sektor Jasa
+Keuangan yang harus direvisi yaitu
+Pasal 1, Pasal 1 ini menurut penulis
+belum lengkap karena jenis bisnis
+Fintech yang masuk dalam ketentuan
+tersebut hanya layanan simpan
+pinjam
+berbasis
+TI,
+sedangkan
+menurut hasil penelitian penulis jenis
+bisnis Fintech tidak hanya layanan
+simpan pinjam berbasis teknologi
+informasi saja.
+Penyelenggara LJK digital harus
+mentaati peraturan mengenai penyelenggaraan layanan keuangan digital
+yang dikeluarkan oleh pemerintah (BI,
+OJK, Kemkominfo RI). Penyelenggara
+juga harus menerapkan prinsip
+perlindungan konsumen, dan harus
+menerapkan asas itikad baik dalam
+setiap tindakannya kepada konsumen
+dalam melakukan kegiatan usahanya.
+Pengguna Fintech harus memastikan apakah penyelenggara itu sudah
+terdaftar di OJK atau belum, apabila
+belum sebaiknya jangan ditanggapi.
+
+158
+
+REFLEKSI HUKUM
+
+[Vol. 3, No. 2, 2019]
+
+Pengguna jangan memberikan data
+apapun kepada penyelenggara apabila
+belum diketahui status hukumnya.
+Apabila membuat suatu perjanjian
+dengan penyelenggara harus dibaca
+dan dipahami setiap klausul perjanjian tersebut, apabila dirasa memberatkan lebih baik tidak disetujui.
+Penulis berharap hasil penelitian ini
+bisa
+memberikan
+pencerahan
+terhadap setiap pembaca mengenai
+pentingnya
+perlindungan
+hukum
+terhadap keamanan data pribadi
+konsumen khususnya konsumen
+Fintech di Indonesia.
+
+Artikel Jurnal
+
+DAFTAR BACAAN
+
+Chrismastianto, Imanuel Adhitya W.,
+‘Analisis SWOT
+Implementasi
+Tekonologi Finansial terhadap
+Kualitas Layanan Perbankan di
+Indonesia’ (2017) 20 Jurnal
+Ekonomi Dan Bisnis.
+
+Buku
+Imedinghaff, Thomas J., ed., Online
+Law The SPA’s Legal Guide to
+Going
+Business on The Internet (
+(Addison-wesley Developers Press
+1996).
+Makarin,
+E.,
+Pengantar
+Hukum
+Telematika (PT. Raja Grafindo
+Persada 2005).
+OJK, Kajian Perlindungan Konsumen
+Sektor
+Jasa
+Keuangan:
+Perlindungan Konsumen Pada
+Fintech (Departemen Perlindungan
+Konsumen OJK 2017).
+Raharjo, S., Ilmu Hukum (PT Citra
+Aditya Bakti 2006).
+Sidabalok, J., Hukum Perlindungan
+Konsumen di Indonesia (Citra
+Aditya Bakti 2010).
+Tutik, Titik T., Hukum Perdata dalam
+Sistem Hukum Nasional (Kencana
+2008).
+Westin, Alan F., Privacy and Freedom
+(London 1967).
+
+Abubakar, L., & Handayani, T.,
+‘Financial
+Technology:
+Legal
+Challenges for Indonesia Financial
+Sector’ (2018)175 IOP Publishing.
+Arief,
+Nawawi
+B.,
+‘Kebijakan
+Penanggulangan
+Cyber Crime
+dan Cyber Sex’ (2006) 1 Law
+Reform.
+Basuki, F. H., & Husein, H., ‘Analisis
+SWOT Financial Technology Pada
+Dunia
+Perbankan
+Di
+Kota
+Ambon’ (2018) 2 Manajemen dan
+Bisnis.
+
+Margaretha, F., ‘Dampak Elektronik
+Banking
+Terhadap
+Kinerja
+Perbankan Indonesia’ (2015) 19
+Jurnal Keuangan dan Perbankan.
+P., Buckley R., and S., Webster.,
+‘FinTech
+in
+Developing
+Countries :
+Charting
+New
+Customer Journeys J Capco Inst
+J Financ Transform’ (2018) 44
+Journal
+of
+Financial
+Transformation.
+Raharjo, A., & Sudrajat, T. (Eds.),
+‘Fintech Indonesia User Legal
+Protection in Balance Borrowing
+Money Based on Information
+Technology’ (2018) 54 SHS Web
+of Conferences.
+Santi, E., Budiharto, B., & Saptono,
+H., ‘Pengawasan Otoritas Jasa
+Keuangan Terhadap Financial
+Technology (Peraturan Otoritas
+Jasa Keuangan Nomor 77/POJK.
+01/2016)’ (2018) 6 Diponegoro
+Law Journal.
+
+PERLINDUNGAN HUKUM TERHADAP KEAMANAN DATA KONSUMEN FINTECH
+
+Turisno, Bambang E., ‘Perlindungan
+Konsumen
+dalam
+Iklan
+Obat’ (2012) 41 Masalah-Masalah
+Hukum.
+Warassih, E., ‘Peran Politik Hukum
+Dalam Pembangunan Nasional’
+(2018) 5 Gema Keadilan.
+Internet
+Sugianto, D., ‘Transaksi Fintech di
+Indonesia Tembus Rp 26 Triliun’
+(2019) <https://finance.detik.com
+/berita-ekonomi-bisnis/d-444588
+0/transaksi-fintech-di-indonesiatembus-rp-26-triliun> diakses 28
+Februari 2019.
+Publikasi OJK, ‘Penyelenggara Fintech
+Terdaftar di OJK per Februari
+2019’ (2019)
+<https://www.ojk
+.go.id/id/berita-dan-kegiatan/pu
+blikasi/Pages/Penyelenggara-Fint
+ech-Terdaftar-di-OJK-per-Februa
+ri-2019.aspx> diakses 28 Februari
+2019.
+Publikasi OJK, ‘Penyelenggara Fintech
+Terdaftar di OJK per Desember
+2018’ (2018)
+<https://www.ojk
+.go.id/id/berita-dan-kegiatan/pu
+blikasi/Pages/Penyelenggara-Fint
+ech-Terdaftar-di-OJK-per-Desemb
+er-2018.aspx> diakses 21 Januari
+2019.
+Peraturan Perundang-Undangan
+Undang-Undang Nomor 19 Tahun
+2016 tentang Perubahan Atas
+Undang-Undang Nomor 11 Tahun
+2008 tentang Informasi dan
+Transaksi Elektronik.
+Peraturan Pemerintah Nomor 82
+Tahun
+2012
+tentang
+Penyelenggaraan
+Sistem
+dan
+Transaksi Elektronik.
+Peraturan Bank Indonesia Nomor
+19/12/PBI/2017
+tentang
+
+Penyelenggaraan
+Finansial.
+
+159
+
+Teknologi
+
+Peraturan Otoritas Jasa Keuangan
+Nomor 77 /POJK.01/2016 tentang
+Layanan
+Pinjam
+Meminjam
+Uang
+Berbasis
+Teknologi
+Informasi.
+Peraturan Otoritas Jasa Keuangan RI
+Nomor 13 /POJK.02/2018 tentang
+Inovasi Keuangan Digital di Sektor
+Jasa Keuangan.
+Peraturan Menteri Komunikasi dan
+Informatika Nomor 20 Tahun 2016
+tentang Perlindungan Data Pribadi
+Dalam Sistem Elektronik.
+Surat Edaran Otoritas Jasa Keuangan
+Nomor
+14/SEOJK.07/2014
+tentang
+Kerahasiaan
+dan
+Keamanan
+Data
+dan/atau
+Informasi Pribadi Konsumen.
+Surat Edaran Otoritas Jasa Keuangan
+Nomor
+18/SEOJK.02/2017
+tentang
+Tata
+Kelola
+dan
+Manajemen
+Risiko
+Teknologi
+Informasi Pada Layanan Pinjam
+Meminjam
+Uang
+Berbasis
+Teknologi Informasi.
+Pidato Pengukuhan Guru Besar
+Hartono, Sri R., Perspektif Hukum
+Bisnis Pada Era Teknologi (Pidato
+Pengukuhan
+Guru
+Besar
+Universitas Diponegoro 1995).
+
+160
+
+REFLEKSI HUKUM
+
+[Vol. 3, No. 2, 2019]
+
+

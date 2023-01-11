@@ -1,0 +1,841 @@
+Jurnal Informatika, Vol.III No.1 April 2016
+
+SISTEM INFORMASI MONITORING
+PENGEMBANGAN SOFTWARE PADA TAHAP
+DEVELOPMENT BERBASIS WEB
+Asti Herliana1, Prima Muhamad Rasyid2
+Fakultas Teknik Universitas BSI Bandung1, asti.ala@bsi.ac.id
+Fakultas Teknik Universitas BSI Bandung2, prima1933@gmail.com
+ABSTRACT
+To work in a project, timely is one of the main points of the business aspect. It said the
+major, because it can keep a relationship and trust of costumers. With so many projects
+undertaken have certainly require precision in monitoring. Projects in the field of
+software development has its own problems, ranging from lack of effective mode of
+administration tasks and problems that are not stored properly can hinder the smooth
+development of the software. Companies need to design a system to monitor all the
+activities that occur in the software development phase. By using the information system
+monitoring any information required by systems analysts and programmers have been
+stored properly, ranging from job information, job specifications, constraints that occur
+in the task to estimate when the work is completed. Monitoring information system
+software development at this stage of development is very helpful systems analyst will
+need detailing project progress and improve performance in developing software
+programmer.
+Keywords : Information System, Monitoring, Software Development, Web
+
+ABSTRAK
+Tepat waktu dalam mengerjakan sebuah proyek merupakan salah satu point utama dari
+segi bisnis. Dikatakan utama, karena hal ini dapat menjaga hubungan dan juga
+kepercayaan dari konsumen. Dengan banyaknya proyek yang dikerjakan sudah pasti
+membutuhkan ketelitian dalam melakukan pemantauan. Proyek dibidang pengembangan
+perangkat lunak memiliki permasalahan tersendiri, mulai dari kurang efektifnya cara
+pemberian tugas dan permasalahan yang tidak tersimpan dengan baik dapat menghambat
+lancarnya pengembangan perangkat lunak. Perusahaan perlu merancang sistem untuk
+memantau segala aktifitas yang terjadi pada tahap pengembangan perangkat lunak.
+Dengan menggunakan sistem informasi monitoring setiap informasi yang diperlukan oleh
+sistem analis dan programmer sudah tersimpan dengan baik, mulai dari informasi tugas,
+spesifikasi tugas, kendala yang terjadi dalam mengerjakan tugas sampai perkiraan kapan
+semua tugas selesai. Sistem informasi monitoring pengembangan perangkat lunak pada
+tahap development sangat membantu sistem analis akan kebutuhan yang mendetail
+tentang proyek yang sedang dikerjakan dan meningkatkan kinerja programmer dalam
+mengembangkan perangkat lunak.
+Kata Kunci : Sistem Informasi, Monitoring, Pengembangan Perangkat Lunak, Web
+
+PENDAHULUAN
+Widayati mengemukakan bahwa “Peran
+monitoring adalah untuk mengenali dan
+mengevaluasi perkembangan yang terjadi
+akibat tindakan yaitu mengenali apakah
+pelaksanaan tindakan sesuai dengan
+rencana tindakan dan apakah telah terjadi
+peningkatan dengan adanya tindakan”
+ISSN: 2355-6579
+
+(Widayati, 2008). Berdasarkan hal yang
+dikemukakan oleh Widayati, maka dapat
+dikemukakan
+bahwa
+monitoring
+merupakan salah satu kegiatan vital dalam
+pengerjaan suatu proyek. Boleh dikatakan,
+jika proses monitoring tidak dilakukan
+dengan perhitungan dan kesungguhan,
+dapat dipastikan proyek yang dikerjakan
+41
+
+Jurnal Informatika, Vol.III No.1 April 2016
+akan mengalami banyak kerugian, mulai
+dari kerugian waktu, finansial bahkan bisa
+jadi akan membuat proyek yang sedang
+dijalani dianggap gagal oleh konsumen.
+CV. PassionIT merupakan salah satu
+perusahaan yang bergerak dalam bidang
+pengembangan perangkat lunak dan sudah
+banyak menangani berbagai macam proyek
+pengembangan perangkat lunak, seperti
+Management SDM, E-Commerce, Sisfo
+Kependidikan, Oracle Application, dan
+Mobile Application. Dengan banyaknya
+proyek pengembangan perangkat lunak
+yang sedang dikerjakan, seorang sistem
+analis memiliki kendala untuk melihat
+seberapa jauh tahap pengembangan sudah
+berjalan dikarenakan pencatatan proyek
+yang sedang atau akan dikerjakan masih
+menggunakan spreadsheet dari program
+Microsoft Excel. Pembagian tugas kepada
+programmer
+yang
+berjalan
+pada
+CV.Passion IT juga masih bersifat lisan
+atau dokumen berupa sketsa kasar,
+sehingga pembagian tugas tidak terpetakan
+dengan baik. Dengan tidak terpetakannya
+pembagian tugas dari programmer dengan
+jelas, membuat programmer bisa saja
+mengerjakan lebih dari satu proyek
+pengembangan perangkat lunak. Akibat
+dari hal ini adalah adanya kendala untuk
+melihat kembali apa saja tugas-tugas yang
+sudah diberikan dalam setiap proyek yang
+terlibat, batas waktu pengerjaan, revisirevisi hasil pengujian dari tugas yang
+sudah dikerjakan, dan tingkat kepentingan
+dari tiap-tiap tugas.
+Menurut Mudjahidin dan Putra, tujuan dari
+monitoring adalah mengkaji apakah
+kegiatan kegiatan yang dilaksanakan telah
+sesuai dengan rencana, mengidentifikasi
+masalah yang timbul agar langsung dapat
+diatasi, melakukan penilaian apakah pola
+kerja dan manajemen yang digunakan
+sudah tepat untuk mencapai tujuan,
+mengetahui kaitan antara kegiatan dengan
+tujuan
+untuk
+memperoleh
+ukuran
+kemajuan (Mudjahidin & Putra, 2010).
+Bila menilik dari pengertian monitoring
+tersebut, maka jelas terlihat bahwa sistem
+monitoring di CV.Passion IT tidak berjalan
+dengan baik. Hal ini juga yang dapat
+menyebabkan kinerja dari masing-masing
+divisi menjadi terhambat.
+ISSN: 2355-6579
+
+Berdasarkan
+kajian
+yang
+telah
+dikemukakan tersebut, maka penulis
+menganggap
+permasalah
+sistem
+monitoring disebuah perusahaan penting
+untuk dibahas.
+KAJIAN LITERATUR
+A. Sistem
+Seperti telah diketahui bersama bahwa
+dewasa ini telah banyak para ahli
+mendefinisikan mengenai sistem. Beberapa
+pengertian sistem yang diambil dalam
+penelitian kali ini adalah pengertian yang
+diberikan
+oleh
+Sutabri.
+Sutabri
+memberikan pengertian sistem sebagai
+sekelompok unsur-unsur yang erat
+hubungannya satu dengan yang lain, yang
+berfungsi bersama-sama untuk mencapai
+tujuan tertentu (Sutabri, 2012). Dalam arti
+yang lain, sistem didefinisikan sebagai
+suatu kumpulan atau himpunan dari unsur,
+komponen, atau variabel yang terorganisir,
+saling interaksi, saling tergantung satu
+sama lain, dan terpadu (Mudjahidin &
+Putra, 2010). Pada intinya, sebuah sistem
+adalah sekumpulan entitas (hardware,
+brainware,
+software)
+yang
+saling
+berinteraksi,
+bekerjasama
+dan
+berkolaborasi untuk mencapai tujuan
+tertentu.
+B. Informasi
+Telah banyak tokoh mendefinisikan
+informasi.
+Salah
+satu
+diantaranya
+dikemukakan oleh Jogiyanto. Adapun
+pengertian yang dikemukakan oleh
+Jogiyanto adalah kumpulan data yang
+relevan dan mempunyai arti yang
+menggambarkan suatu kejadian-kejadian
+atau kegiatan-kegiatan (Jogiyanto, 2005).
+Sutabri mendefinisikan informasi sebagai
+data yang telah diklasifikasi atau
+diinterpretasi untuk digunakan dalam
+proses pengambilan keputusan (Sutabri,
+2012). Dengan kata lain, sebuah informasi
+dapat didefinisikan sebagai suatu hasil dari
+pengolahan data dalam suatu bentuk yang
+lebih berguna dan lebih berarti bagi
+penerimanya yang menggambarkan suatu
+kejadian-kejadian yang nyata yang
+digunakan untuk pengambilan keputusan.
+Dalam arti yang lebih singkat, informasi
+merupakan hasil olah dari data sehingga
+42
+
+Jurnal Informatika, Vol.III No.1 April 2016
+menjadi sebuah bentuk yang lain, yang
+lebih berguna bagi penerimanya.
+C. Sistem Informasi
+Pengertian sistem informasi adalah sistem
+yang menyediakan informasi dengan cara
+sedemikian rupa sehingga bermanfaat bagi
+penerima (Nurlalela, 2013). Secara lebih
+detil, sistem informasi dapat didefinisikan
+sebagai seperangkat entitas yang terdiri
+dari hardaware, software dan brainware
+yang
+saling
+bekerjasama
+untuk
+menyediakan data yang diolah sehingga
+berguna dan bermanfaat bagi penerima
+data tersebut.
+D. Monitoring
+Monitoring, dalam bahasa Indonesia
+dikenal dengan istilah pemantauan.
+Monitoring merupakan sebuah kegiatan
+untuk menjamin akan tercapainya semua
+tujuan
+organisasi
+dan
+manajemen
+(Handoko, 1995). Dalam kesempatan lain,
+monitoring juga didefinisikan sebagai
+langkah untuk mengkaji apakah kegiatan
+yang dilaksanakan telah sesuai dengan
+rencana, mengidentifikasi masalah yang
+timbul agar langsung dapat diatasi,
+melakukan penilaian apakah pola kerja dan
+manajemen yang digunakan sudah tepat
+untuk mencapai tujuan, mengetahui kaitan
+antara kegiatan dengan tujuan untuk
+memperoleh ukuran kemajuan (Sutabri,
+2012).
+Dengan kata lain, monitoring merupakan
+salah satu proses didalam kegiatan
+organisasi yang sangat penting yang dapat
+menentukan terlaksana atau tidaknya
+sebuah
+tujuan
+organisasi.
+Tujuan
+dilakukannya monitoring adalah untuk
+memastikan agar tugas pokok organisasi
+dapat berjalan sesuai dengan rencana yang
+telah ditentukan (Aviana, 2012).
+E. Perangkat Lunak
+Perangkat lunak adalah intruksi langsung
+komputer untuk melakukan pekerjaan dan
+dapat ditemukan disetiap aspek kehidupan
+modern dari aplikasi yang kritis untuk
+hidup (life-critical), seperti perangkat
+pemantauan medis dan pembangkit tenaga
+listrik sampai perangkat hiburan, seperti
+video game (Simarmata, 2010). Dalam arti
+yang lebih singkat lagi perangkat lunak
+ISSN: 2355-6579
+
+dapat didefinisikan sebagai sebuah istilah
+dalam
+dunia
+komputer
+yang
+merepresentasikan data yang diformat
+secara khusus, disimpan secara digital dan
+untuk membuatnya diperlukan bahasa
+pemrograman
+tertentu.
+Bahasa
+pemrograman ini kemudian diolah oleh
+sebuah alat yang disebut compiler
+sehingga bahasa pemrograman yang
+berupa perintah yang dibuat oleh
+programmer dapat dimengerti oleh bahasa
+mesin (komputer).
+F. Website
+Website merupakan istilah yang sudah
+tidak asing lagi dewasa ini. Secara umum
+website dapat diartikan sebagai sebuah
+halaman yang tersedia dalam sebuah server
+yang dapat diakses menggunakan jaringan
+internet
+dimana
+didalamnya
+berisi
+bermacam-macam informasi dari suatu
+konten tertentu. Sebuah halaman web yang
+tampil pada jejaring, umumnya dibuat
+melalui serangkaian plain text yang
+dikenal dengan istilah HTML(Hyper Text
+Markup
+Language)
+atau
+XHTML
+(eXtensible
+HyperText
+Markup
+Languange).
+G. Tinjauan Jurnal
+Untuk memperkuat pentingnya penelitian
+yang dilakukan kali ini, berikut ini
+dijabarkan penelitian terdahulu yang
+dijadikan acuan. Adapun penelitian yang
+dimaksud adalah sebagai berikut:
+1. Pada tahun 2010 Mudjahidin dan putra
+melakukan penelitian mengenai sistem
+informasi
+monitoring
+untuk
+perkembangan proyek di dinas Bina
+Marga dan Pemantusan (Bimatus).
+Permasalahan yang diangkat dalam
+penelitian ini adalah pihak Bimatus
+tidak dapat memantau perkembangan
+proyek secara harian karena lapoan
+diberikan bersifat mingguan bahkan
+lebih. Selain itu, permasalahan yang
+terjadi dilapangan adalah pihak Bimatus
+tidak dapat mengetahui permasalahanpermasalahan yang terjadi dengan cepat
+sehingga
+terkadang
+penyelesaian
+terhadap
+permasalahan
+menjadi
+terlambat. Hasil dari penelitian ini
+adalah dengan diciptakannya sebuah
+aplikasi sistem informasi monitoring
+43
+
+Jurnal Informatika, Vol.III No.1 April 2016
+perkembangan proyek berbasis web
+yang digunakan untuk mengelola data
+realisasi dan data rencana sehingga
+pihak Bimatus dapat mengetahui
+apakah pelasksanaan proyek berjalan
+sesuai dengan yang direncanakan atau
+tidak (Mudjahidin & Putra, 2010).
+2. Pada tahun 2011, Ibrahim melakukan
+penelitian mengenai sistem monitoring
+informasi tugas akhir di Fasilkom
+UNSRI. Permasalahan yang dihadapi
+pada sistem yang berjalan adalah sistem
+informasi yang ada masih belum dapat
+melacak posisi proposal saat dalam
+proses pengajuan hingga selesai.
+Permasalahan lain yang juga dihadapi
+sistem
+berjalan
+adalah
+kurang
+efektifnya kinerja administrasi yang
+disebabkan setiap kali ada mahasiswa
+yang menanyakan status proposal tugas
+akhir, administrasi harus berkoordinasi
+terlebih dahulu dengan ketua jurusan.
+Hasil dari penelitian ini adalah dengan
+diciptakannya sebuah aplikasi sistem
+informasi monitoring tugas akhir
+berbasis SMS Gateway yang dapat
+memudahkan
+mahasiswa
+untuk
+mengakses informasi mengenai status
+proposal tugas akhir yang diajukannya.
+Selain itu, aplikasi yang dihasilkan juga
+dapat
+memberitahukan
+kepada
+mahasiswa mengenai jadwal seminar
+tugas
+akhir
+mahasiswa
+yang
+bersangkutan dan juga memberikan
+informasi jika proposal yang diajukan
+telah diterima namun belum diproses
+(Ibrahim, 2011).
+3. Pada tahun 2014 Sanjani, Hartati dan
+Sudarmaningtyas melakukan penelitian
+mengenai sistem informasi penggajian
+karyawan dan remunerasi jasa medik di
+Rumah Sakit Bedah Surabaya. Pada
+penelitian ini, dibahas mengenai
+pentingnya ketepatan baik waktu
+maupun
+remunerasi
+penggajian
+karyawan rumah sakit. Permasalahan
+yang dihadapi adalah jika hasil
+remunerasi tidak sesuai dengan hasil
+perhitungan pekerjaan karyawan yang
+disebabkan oleh sistem yang masih
+serba manual. Hasil dari penelitian ini
+adalah diciptakannya sebuah aplikasi
+monitoring yang terhubung dengan
+basis
+data
+absensi
+karyawan
+ISSN: 2355-6579
+
+berdasarkan sidik jari dan juga
+terhubung dengan sistem basis data
+HMIS sehingga data remunerasi akan
+menghasilkan data yang akurat karena
+dibangun dengan sistem yang otomatis
+(Sanjani, Hartati, & Sudarmaningtya,
+2014).
+METODE PENELITIAN
+Pengumpulan data dapat diartikan sebagai
+proses atau kegiatan yang dilakukan untuk
+mengungkap atau mendapatkan berbagai
+informasi atau kondisi lokasi penelitian
+sesuai
+dengan
+lingkup
+penelitian.
+Pengumpulan data juga bisa diartikan
+sebagai
+sebagai
+proses
+yang
+menggambarkan pengumpulan data secara
+kuantitatif dan kualitatif, beberapa teknik
+yang digunakan dalam mengumpulkan
+data yaitu :
+A. Observasi
+Penulis melakukan pengamatan langsung
+aktifitas apa saja yang dilakukan oleh para
+pekerja yang terlibat dalam pengembangan
+perangkat lunak di CV. PassionIT jalan
+Denpasar no. 68 Antapani, Bandung, mulai
+dari sistem analis hingga programmer agar
+dapat memahami langkah-langkah apa saja
+yang dilakukan. Sehingga sistem informasi
+yang akan dibuat akan berfungsi sebaik
+mungkin.
+B. Studi Pustaka
+Studi pustaka dilakukan untuk menunjang
+metode observasi yang telah penulis
+lakukan dengan cara mengumpulkan
+informasi yang dibutuhkan dan mencari
+referensi-referensi yang berhubungan
+dengan
+observasi
+yang
+dilakukan.
+Referensi-referensi itu bisa didapat dari
+literature, catatan-catatan, laporan dan
+buku-buku yang membahas tentang sistem
+informasi cara mengelola proyek dan buku
+sejenis yang sesuai dengan masalah yang
+akan dipecahkan.
+Model pengembangan sistem yang
+digunakan oleh penulis adalah Waterfall
+Model, “Waterfall model sendiri adalah
+alur pengembangan sistem dimulai dari
+planning,
+analysis,
+design,
+implementation,
+operation
+&
+maintenance.” (Sanjani, Hartati, &
+Sudarmaningtya, 2014), dan tahapan yang
+dilakukan adalah sebagai berikut:
+44
+
+Jurnal Informatika, Vol.III No.1 April 2016
+1. Analisa Kebutuhan Sistem
+Pada tahap analisa kebutuhan sistem
+ditentukan apa saja fungsi yang dibutuhkan
+oleh sistem yang akan dibuat, agar
+permasalahan yang dihadapi dapat
+terselesaikan dengan baik dan data yang
+dihasilkan sesuai dengan yang diharapkan
+oleh pengguna.
+2. Desain
+Hasil dari analisa kebutuhan sistem,
+kemudian diterjemahkan ke dalam desain
+sistem
+yang
+digambarkan
+melalui
+UML(Unified Model Language) dan ERD
+(Entity Relationship Diagram) untuk
+menggambarkan hubungan basis data yang
+saling berinteraksi didalam sistem yang
+akan dibuat.
+3. Code Generation
+Pada tahap code generation ini, dilakukan
+proses memasukan aturan dan kode dalam
+bentuk bahasa pemrograman. Bahasa
+pemrograman yang digunakan dalam
+membuat sistem informasi ini adalah
+bahasa pemrograman PHP dan Framework
+CodeIgniter. Hal ini dimaksudkan agar
+kerangka kerja tersusun dengan rapih.
+4. Testing
+Pada tahap testing digunakan metode
+blackbox testing yang berfokus pada tiaptiap fungsi yang telah dibuat apakah hasil
+yang diharapkan tercapai atau tidak.
+PEMBAHASAN
+Sistem informasi monitoring perangkat
+lunak pada tahap development dapat
+menjadi
+solusi
+dalam
+melihat
+perkembangan kemajuan proyek pada
+tahap tersebut.
+1. UML
+a. Use Case diagram
+Use case diagram digunakan untuk
+menggambarkan interaksi antara actor dan
+use case pada sistem perangkat lunak yang
+akan dikembangkan. Dalam use case yang
+disajikan berikut ini, terdapat empat proses
+utama yang dilakukan dalam sistem
+informasi monitoring yang akan dibuat.
+Secara lebih jelas, use case diagram dari
+program usulan dijelaskan dalam gambar
+1.
+
+ISSN: 2355-6579
+
+Gambar 1
+Use Case Diagram
+b. Activity diagram
+Diagram Activity berfokus pada aktifitasaktifitas yang terjadi yang terkait dalam
+suatu proses tunggal. Jadi dengan kata lain,
+diagram ini menunjukkan bagaimana
+aktifitas-aktifitas tersebut bergantung satu
+sama lain.
+
+Gambar 2
+Activity Diagram
+c. Component Diagram
+Component Diagram menggambarkan
+struktur data hubungan antar komponen
+piranti lunak, termasuk ketergantungan
+(dependency) diantaranya. Component
+diagram juga dapat berupa interface yang
+berupa kumpulan layanan yang disediakan
+oleh komponen lainnya.
+
+45
+
+Jurnal Informatika, Vol.III No.1 April 2016
+menggunakan
+MySQL.
+Sedangkan
+perancangan desain database yang
+menggambarkan hubungan antar tabel
+beserta relasinya menggunakan Entity
+Relationship Diagram (ERD).
+
+Gambar 3
+Component Diagram
+d. Deployment Diagram
+Deployment
+diagram
+memberikan
+gambaran bagaimana sistem secara fisik
+yang terlihat, menampakan bagian-bagian
+software yang berjalan pada bagian-bagian
+hardware. Sistem terdiri dari node-node
+dimana setiap node diwakili oleh sebuah
+kubus. Garis yang menghubungkan antara
+dua kubus menunjukan hubungan diantara
+kedua node tersebut.
+
+Gambar 4
+Deployment Diagram
+2. Database
+Database merupakan kumpulan dari data
+yang saling berhubungan satu dengan yang
+lainnya, tersimpan diperangkat keras
+komputer dan digunakan perangkat lunak
+untuk memanipulasinya. Data perlu
+disimpan di dalam basis data untuk
+keperluan penyediaan informasi lebih
+lanjut. Pembuatan database dan tabel
+ISSN: 2355-6579
+
+46
+
+Jurnal Informatika, Vol.III No.1 April 2016
+
+Gambar 5
+Entity Relationship Diagram Sistem Monitoring Pengembangan Software
+
+Gambar 6
+Logical Record Structure
+
+ISSN: 2355-6579
+
+47
+
+Jurnal Informatika, Vol.III No.1 April 2016
+Hasil implementasi rancangan sistem
+dari program yang dibangun meliputi :
+a. Halaman login
+Pengguna dapat menggunakan
+sistem informasi monitoring setelah
+melakukan login.
+
+Gambar 9
+Tampilan Tambah Project
+
+Gambar 7
+Tampilan Login
+
+Setelah menambahkan data project
+sistem analis dan programmer dapat
+mengakses halaman detail project yang
+berisikan tentang informasi project itu
+sendiri. Dari informasi yg didapat bisa
+diambil keputusan untuk pengelolaan
+project agar lebih efektif dan tepat
+waktu.
+
+b. Tampilan Project
+Setelah pengguna berhasil login, sistem
+analis dan programmer dapat masuk ke
+menu project, di dalamnya berisi
+informasi project yg sedang berjalan
+atau akan dikerjakan.
+
+Gambar 10
+Tampilan Detail Project
+
+Gambar 8
+Tampilan Project
+c. Tampilan Tambah Project
+Sistem analis mengisi detail project
+mulai dari penanggung jawab project,
+tanggal mulai pengerjaan, deadline,
+sampai modul yang harus dikerjakan
+oleh programmer.
+ISSN: 2355-6579
+
+PENUTUP
+Berdasarkan penelitian yang telah
+dilakukan maka dapat disimpulkan
+bahwa :
+1. sistem
+informasi
+monitoring
+pengembangan perangkat lunak
+dapat
+membantu
+mendokumentasikan proyek dengan
+baik sehingga dapat dipantau secara
+realtime oleh sistem analis.
+
+48
+
+Jurnal Informatika, Vol.III No.1 April 2016
+2. Kemajuan pengerjaan proyek dapat
+dilihat sebagai bahan acuan untuk
+diambil sebuah keputusan. Hal
+tersebut dapat membantu sistem
+analis dalam menyimpan informasi
+modul yang harus dikerjakan oleh
+Programmer.
+3. Dengan adanya sistem informasi
+monitoring ini juga memudahkan
+Programmer dalam hal mengambil
+modul yang akan dikerjakan terlebih
+dahulu.
+4. Hal yang tidak kalah pentingnya
+yang dapat dilakukan oleh sistem
+informasi monitoring ini juga adalah
+tersimpannya informasi perbaikan
+modul yang harus diperbaiki dari
+sistem analis untuk diberikan kepada
+programmer.
+Berdasarkan hasil dari penelitian kali
+ini, maka terdapat beberapa saran dari
+penulis untuk pengembangan dari
+penelitian ini. Adapun saran yang
+dimaksud adalah sebagai berikut:
+1. Menambahkan fitur live chat agar
+komunikasi antara sistem analis dan
+programmer dapat dilakukan melalui
+aplikasi ini.
+2. Dapat menambahkan fitur grafik
+kinerja programmer dalam hal
+menyelesaikan tugas yang diberikan.
+3. Untuk membantu sistem informasi
+monitoring ini agar berjalan optimal,
+maka disarankan membuka aplikasi
+yang sedang dikembangkan melalui
+aplikasi ini (live preview).
+REFERENSI
+Aviana, P. S. (2012). Penerapan
+Pengendalian Internal Dalam
+Sistem Informasi Akuntansi
+Berbasis Komputer. Jurnal
+Ilmiah Mahasiswa Akuntansi
+Vol.1 No.4, 65-70.
+Handoko, T. H. (1995). Manajemen
+Personalia dan Sumber Daya
+Manusia. Yogyakarta: BPFE.
+Ibrahim, A. (2011). Pengembangan
+Sistem Informasi Monitoring
+Tugas Akhir Berbasis Short
+Message
+Service
+(SMS)
+Gateway di Fasilkom UNSRI.
+JUSI Vol.1 No.2, 81-92.
+ISSN: 2355-6579
+
+Jogiyanto, H. M. (2005). Analisis dan
+Desain Sistem Informasi Edisi
+Ketiga. Yogyakarta: C.V Andi
+Offset.
+Mudjahidin, & Putra, N. P. (2010).
+Rancang
+Bangun
+Sistem
+Informasi
+Monitoring
+Perkembangan Proyek Berbasis
+Web Studi Kasus Di Dinas Bina
+Marga dan Pemantusan. Jurnal
+Teknik Industri Vol.11 No.1, 7583.
+Nurlalela, F. (2013). Aplikasi SMS
+Gateway
+Sebagai
+Sarana
+Penunjang
+Informasi
+Perpustakaan Pada Sekolah
+Menengah Pertama Negeri 1
+Arjosari. Indonesian Journal on
+Networking and Security Vol.2
+No.4, 20-25.
+Rosa, A. S., & Shalahuddin, M. (2013).
+Rekayasa Perangkat Lunak
+Terstruktur dan Berorientasi
+Objek. Bandung: Informatika.
+Sanjani, L. A., Hartati, S. J., &
+Sudarmaningtya, P. (2014).
+Rancang
+Bangun
+Sistem
+Informasi Penggajian Pegawai
+dan Remunerasi Jasa Medis
+Pada Rumah Sakit Bedah
+Surabaya.
+Jurnal
+Sistem
+Informasi Vol.3 No.1, 87-93.
+Simarmata, J. (2010). Rekayasa
+Perangkat Lunak. Yogyakarta:
+C.V Andi Offset.
+Sutabri, T. (2012). Konsep Sistem
+Informasi. Yogyakarta : C.V.
+Andi Offset.
+Widayati,
+A.
+(2008).
+Penelitian
+Tindakan
+Kelas.
+Jurnal
+Pendidikan Akuntansi Indonesia
+Vol.VI No.1, 87-93.
+BIODATA PENULIS
+PENULIS I
+Asti Herliana adalah merupakan anak
+ke-2 dari pasangan suami istri Bpk.Erie
+Heryanto dan Ibu Elich Carlia(Alm).
+Berkarir sebagai dosen sejak 2007, kini
+menjabat sebagai dosen tetap di
+Universitas BSI Bandung untuk jurusan
+Sistem Informasi. Riwayat pendidikan
+yang dilalui diawali dengan lulus
+49
+
+Jurnal Informatika, Vol.III No.1 April 2016
+jenjang Diploma III di tahun 2007 dari
+AMIK BSI Bandung. Selanjutnya
+menyelesaikan jenjang Strata 1 dari
+Universitas Kebangsaan Bandung pada
+tahun 2009. Pendidikan terakhir yang
+diraih adalah Magister Ilmu Komputer
+di STMIK Nusa Mandiri Jakarta pada
+tahun 2013. Saat ini, jabatan fungsional
+yang dimiliki adalah sebagai asisten ahli
+dengan konsentrasi bidang ilmu yang
+dipilih adalah perancangan basis data.
+Sebagai dosen, terdapat beberapa karya
+penelitian yang telah dihasilkan yang
+menitik beratkan kepada penelitian
+dibidang sistem informasi, perancangan
+basis data dan data mining. Dengan
+berbekal
+kecintaan
+pada
+dunia
+pendidikan, Ibu dari seorang putri ini
+bercita-cita ingin memajukan dunia
+pendidikan Indonesia, sehingga profesi
+pengajar dapat menempati tempat
+terhormat seperti layaknya seorang guru
+di Negara Jepang.
+PENULIS II
+Prima Muhamad Rasyid yang lahir pada
+bulan Agustus 1991 ini merupakan
+Praktisi IT yang memiliki spesialisasi di
+bidang pengembangan perangkat lunak.
+Prima menekuni dunia pemrograman
+PHP dan MySQL semenjak masih
+duduk di bangku SMK. Pada tahun
+2015, Prima menyelesaikan sekolah
+jenjang Strata 1 untuk jurusan Sistem
+Informasi di Universitas BSI Bandung.
+Saat ini Prima berkarir sebagai
+programmer di PassionIT. Selain itu,
+Prima juga aktif mengikuti kegiatan
+komunitas SaungIT dan berbagai forum
+online
+yang
+membahas
+tentang
+pemrograman. Dengan berbekal moto
+hidup “Raihlah ilmu, dan untuk meraih
+ilmu belajarlah untuk tenang dan sabar”,
+di usia yang masih muda, Prima mampu
+untuk bersaing didunia informatika
+dengan para seniornya.
+
+ISSN: 2355-6579
+
+50
+
+

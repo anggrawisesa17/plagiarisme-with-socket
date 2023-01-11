@@ -1,0 +1,332 @@
+Jurnal TEKNOKOMPAK, Vol. 13, No. 2, 2019, 31-34. P-ISSN 1412-9663, E-ISSN 2656-3525
+
+SISTEM INFORMASI BERBASIS WEB UNTUK PENGELOLAAN
+PENERIMA DANA ZAKAT, INFAQ DAN SEDEKAH
+Syahidan Mushab Al-Zikri1), Agus Wantoro2), Zaenal Abidin3) Jon Idrison Molina4)
+1), 2)
+
+S1 Informatika, 3) S1 Sistem Informasi, Universitas Teknokrat Indonesia
+4)
+Teknik Informatika, Universitas Tribuana Kalabahi
+1), 2) 3)
+Jl. H.ZA Pagaralam, No 9-11, Labuhanratu,Bandarlampung
+4) Jl. Soekarno-Hatta Batunirwala, Kalabahi Alor, NTT
+Email : syahidan.m.al@gmail.com1), aguswantoro.ilkom@gmaill.com2),
+zabin@teknokrat.ac.id3), jhonmolina8788@gmail.com4)
+
+Sedekah. Zakat yaitu al-barokatu yang artinya
+keberkahan, al-namaa yang artinya pertumbuhan dan
+perkembangan, ath-thaharatu yang artinya mensucikan,
+dan ash-shalahu yang artinya keberesan (Hafidhuddin,
+2012). Sedangkan Infaq berbeda dengan zakat, infaq
+merupakan pemberian yang tidak ada nishabnya
+sedangkan zakat sebaliknya. Besar kecilnya sangat
+bergantung kepada keuangan dan keikhlasan dalam
+memberi, yang terpenting adalah hak orang lain yang
+ada dalam harta kita sudah dikeluarkan (Hasan, 2016).
+Sedekah menurut terminology syariat, pengertian
+sedekah sama dengan pengertian infaq, termasuk juga
+hukum dan ketentuan-ketentuannya. Sedekah diartikan
+sebagai sebuah pemberian seseorang secara ikhlas
+kepada orang yang berhak menerima yang diiringi juga
+oleh pahala dari Allah (Ghazaly, 2010). Proses
+pengelolaan data IZI Lampung menggunakan Microsoft
+excel untuk pengelolaan data penerima dana zakat, infaq
+dan sedekah nya, mulai dari penginputan pengajuan
+layanan kemudian perhitungan dana yang sudah di
+terima oleh penerima manfaat, hingga proses
+pengelolaan laporan pendayagunaan dana nya.
+Penggunaan sistem aplikasi ini di rasa masih belum
+maksimal dalam pengelolaan data nya yang mana
+mengelola data dalam jumlah yang banyak.
+Permasalahan yang ada dalam sistem ini adalah : (1)
+tampilan penginputan data yang kurang efektif dan
+efisien, (2) membutuhkan waktu untuk pencarian data
+yang tersimpan di dalam folder-folder penyimpanan data
+di komputer, (3) tidak dapat melihat secara visual
+progres perkembangan data, (4) belum adanya sistem
+informasi online yang terpusat untuk bisa di akses kapan
+saja dan di mana saja untuk mempercepat dan
+mempermudah dalam mendapatkan informasi data
+penerima dana zakat, infaq dan sedekah di IZI Lampung.
+Pihak instansi menginginkan sistem pengelolaan data
+yang bisa menggantikan sistem yang sudah ada saat ini,
+dengan harapan memberi kemudahan dan kecepatan
+dalam mengelola data, untuk itu penulis mengusulkan
+penelitian dengan menerapkan framework laravel yang
+berjudul “Penerapan Framework Laravel untuk
+membangun Sistem Pengelolaan Data Penerima Dana
+Zakat, Infaq Dan Sedekah.
+
+Abstrak
+Penelitian ini dilakukan atas dasar kebutuhan akan
+adanya suatu sistem pengelolaan data penerima dana
+zakat, infaq dan sedekah yang dapat digunakan untuk
+mengelola data bagian pendayagunaan (PDG) pada
+Inisiatif Zakat Indonesia (IZI) Lampung. Dalam
+pembangunan sistem ini menggunakan metode model
+waterfall, serta analis sistem yang berjalan
+menggunakan analisis PIECES. Sistem pengelolaan data
+ini dirancang dengan alat pengembangan sistem UML
+(Unified Modeling Language) yang terdiri dari use case
+diagram, activity diagram, sequence diagram dan class
+diagram. Dalam membuat sistem ini menggunakan
+database MySQL dan text editor sublime text 3 dengan
+menggunakan framework laravel dan bahasa
+pemrograman PHP. Pada sistem ini terdapat system
+penginputan data, pencarian data, edit data, update data
+serta pembutan laporan yang memudahkan user dalam
+mencari data, mengubah data serta memperbaharui data
+yang diinginkan. Penerapan dari system ini memberikan
+kemudahan saat proses pengelolaan penginputan data
+penerima dana zakat, infaq dan sedekah serta pencarian
+data dan juga pembuatan laporan nya. Bagian bidang
+PDG tidak harus mengirim data kepada pimpinan,
+karena data sudah ada di database, sehingga pimpinan
+bisa melihat informasi data kapan saja dan di mana saja
+menggunakan smartphone atau komputer.
+Kata kunci : Framework Laravel, Dana Zakat, Infaq
+dan Sedekah
+1. Pendahuluan
+Lembaga Amil Zakat Nasional (LAZNAS) IZI, alasan
+paling penting mengapa IZI dilahirkan adalah adanya
+tekad yang kuat untuk membangun lembaga pengelola
+zakat yang otentik. Dengan fokus dalam pengelolaan
+zakat serta donasi keagamaan lainnya diharapkan IZI
+dapat lebih sungguh-sungguh mendorong potensi besar
+zakat menjadi kekuatan real dan pilar kokoh penopang
+kemuliaan dan kesejahteraan ummat melalui positioning
+lembaga yang jelas, pelayanan yang prima, efektifitas
+program yang tinggi, proses bisnis yang efisien dan
+modern, serta 100% shariah compliance sesuai sasaran
+ashnaf dan maqashid tujuan syariah. IZI Lampung
+mengelolan beberapa layanan seperti Zakat, Infaq dan
+31
+
+Jurnal TEKNOKOMPAK, Vol. 13, No. 2, 2019, 31-34. P-ISSN 1412-9663, E-ISSN 2656-3525
+
+dengan costumer untuk mendapatkan informasi dan datadata yang di perlukan, kemudian mengidentifikasi
+masalah dan kekurangan atau kelemahan pada sistem
+pengelolaan data penerima dana zakat, infaq dan sedekah
+di IZI Lampung yang sedang berjalan saat ini (Presman,
+2010).
+
+2. Pembahasan
+2.1. Landasan Teori
+a.
+Zakat
+Zakat yaitu al-barokatu yang artinya keberkahan, alnamaa yang artinya pertumbuhan dan perkembangan,
+ath-thaharatu yang artinya mensucikan, dan ash-shalahu
+yang artinya keberesan (Hafidhuddin, 2002). Sedangkan
+secara istilah, zakat adalah bagian dari harta dengan
+persyaratan tertentu, yang Allah SWT mewajibkan
+kepada pemiliknya, untuk diserahkan kepada yang
+berhak menerimanya, dengan persyaratan tertentu pula.
+Menurut bahasa, kata zakat berarti tumbuh, berkembang,
+subur atau bertambah. Menurut istilah, zakat dengan
+nama pengambilan tertentu dari harta yang tertentu,
+menurut sifat-sifat tertentu, dan untuk diberikan kepada
+golongan tertentu (Yasin, 2011)
+
+b.
+Planning
+Pada tahap ini dilakukan perencanaan sistem yang akan
+kita buat dari hasil communication (analysis
+requirement) yang sudah di lakukan pada sistem
+pengelolaan data penerima dana zakat, infaq dan sedekah
+di IZI Lampung sebelumnya, tahapan ini akan
+menghasilkan dokumen user requirement atau bisa
+dikatakan sebagai data yang berhubungan dengan
+keinginan user dalam pembuatan system (Presman,
+2010).
+c.
+Modelling
+Pada tahap ini pembuatan model dan desain antar muka
+(interface). Pemodelan menggunakan usecase diagram.
+Pemodelan ini menjelaskan secara garis besar actoractor yang terlibat di dalam sistem pengelolaan data
+penerima dana zakat, infaq dan sedekah di IZI Lampung.
+Pembuatan desain antarmuka (interface) sistem yang
+akan di buat (Presman, 2010).
+
+b. Penerima Zakat (Mustahik)
+Adapun yang berhak menerima zakat seperti yang
+tercantum dalam Al-Qur’an surat at-taubah ayat 60
+dimana ayat tersebut menerangkan bahwa zakat fitrah
+maupun zakat mall diperuntukkan bagi 8 asnaf
+(golongan) yaitu :Orang fakir, yaitu orang yang amat
+sengsara hidupnya, tidak punya harta dan tenaga untuk
+memenuhi penghidupannya (Yasin, 2011)
+c.
+Infaq
+Infaq berbeda dengan zakat, infaq merupakan pemberian
+yang tidak ada nishabnya sedangkan zakat sebaliknya.
+Besar kecilnya sangat bergantung kepada keuangan dan
+keikhlasan dalam memberi, yang terpenting adalah hak
+orang lain yang ada dalam harta kita sudah dikeluarkan
+(Hasan, 2006)
+d. Sedekah
+Sedekah menurut terminology syariat, pengertian
+sedekah sama dengan pengertian infaq, termasuk juga
+hukum dan ketentuan-ketentuannya. Sedekah diartikan
+sebagai sebuah pemberian seseorang secara ikhlas
+kepada orang yang berhak menerima yang diiringi juga
+oleh pahala dari Allah (Ghazaly, 2010)
+2.2. Metode Pengembangan
+Model waterfall adalah model klasik yang bersifat
+sistematis dan berurutan dalam membangun software.
+Berikut ini adalah gambar fase-fase dalam model
+waterfall (Presman, 2010)
+
+Gambar 2. Usecase Diagram
+d. Contruction
+Pada tahap ini mulai dilakukan pengkodingan untuk
+pembuatan sistem yang sudah di buatkan rancangan dan
+pemodelan nya. Setelah koding pembuatan program
+selesai maka akan dilakukan testing terhadap sistem
+yang telah dibuat tadi. Jika menemukan kesalahankesalahan terhadap sistem tersebut untuk kemudian bisa
+diperbaiki (Presman, 2010).
+
+Gambar 1. Model Waterfall (Presman, 2010)
+a.
+Communication
+Kegiatan yang dilakukan pada tahap ini diawali dengan
+datang langsung ke IZI Lampung dan berkomunikasi
+
+32
+
+Jurnal TEKNOKOMPAK, Vol. 13, No. 2, 2019, 31-34. P-ISSN 1412-9663, E-ISSN 2656-3525
+
+1.
+Halaman Beranda
+Pertama pada system adalah halaman beranda yang
+merupakan halaman pertama kali yang akan tampil
+setelah kita ketik link url nya di brouser. Dapat di lihat
+pada gambar 3.
+Gambar 6. Tampilan halaman PDG
+6. Halaman Laporan
+Pada halaman ini PDG bisa melihat list, melihat detail
+dan mencetak laporan lamus berdasarkan data lamus,
+lapors, latahzan, kaki palsu dan RSP yang di inginkan.
+
+Gambar 3. Tampilan halaman home
+2.
+
+Halaman Form Login User
+
+Halaman ini merupakan validasi awal apakah kita
+mempunyai hak akses atau tidak pada sistem ini untuk
+masuk kedalam menu utama setelah berhasil log in, agar
+bisa log in kia harus memasukan e-mail dan password
+yang sudah di buat sebelumnya oleh user dengan benar.
+Dapat di lihat pada gambar 4.
+
+Gambar 7. Tampilan Laporan Lamus
+
+Gambar 8. Halaman Laporan Lapors
+
+Gambar 4. Tampilan halaman log in user
+3.
+Halaman PDG
+Pada halaman ini merupakan halaman yang pertama kali
+akan tampil setelah kita berhasil log in dan akan
+menampilkan beberapa pilihan menu diantaranya : menu
+dashboard, menu master data, menu laporan dan menu
+grafik. Adapun informasi jumlah data dan total bantuan
+lamus, lapors, latahzan, kaki palsu dan RSP. Dapat di
+lihat pada gambar 5.
+
+Gambar 9. Halaman Laporan Latahzan
+
+Gambar 10. Halaman Laporan Kaki Palsu
+
+Gambar 5. Tampilan Halaman PDG
+5.
+Tampilan Halaman PDG Form Menu Data Level
+Pada halaman ini PDG bisa menambah data level,
+mengedit data level, melihat list data level dan
+menghapus data level. Dapat di lihat pada gambar 6.
+
+Gambar 11. Halaman Laporan RSP
+
+33
+
+Jurnal TEKNOKOMPAK, Vol. 13, No. 2, 2019, 31-34. P-ISSN 1412-9663, E-ISSN 2656-3525
+
+7.
+
+Tampilan Halaman Grafik
+Pada halaman ini PDG bisa melihat grafik data
+lamus, lapors, latahzan, kaki palsu dan RSP berdasarkan
+periode.
+
+3.
+
+Kesimpulan
+
+Hasil penelitian dari analisis dan desain pada metode
+penelitian ini, maka dihasilkan sebuah system
+pengelolaan data penerima dana zakat, infaq dan sedekah
+di IZI Lampung. Penerapan sistem ini dapat membantu
+IZI Lampung dalam mengelola data penerima dana
+zakat, infaq dan sedekah. Sistem ini dapat membantu
+PDG dalam mengelola data lamus, lapors, latahzan,
+layanan kaki palsu, layanan RSP. Selain itu sistem
+pengelolaan data penerima dana zakat, infaq dan sedekah
+di IZI Lampung dapat disimpulkan sebagai berikut :
+1. Penggunaan media online dapat mempermudah
+dalam mendapatkan informasi data penerima
+dana zakat, infaq dan sedekah pada IZI
+Lampung.
+2. Penggunaan aplikasi web akan memaksimalkan
+proses pengelolaan data penerima dana zakat,
+infaq dan sedekah pada IZI Lampung agar lebih
+mudah proses penginputan data, pencarian data
+dan pembuatan laporan nya
+3. Sistem yang di bangun menggunakan framewok
+laravel menggunakan alat pengembangan
+sistem UML (Unified Modeling Language).
+Basisdata yang digunakan MySQL dan tools
+Sublime Text 3 dan bahasa pemrograman PHP.
+4. Sistem dapat mengelola data penerima layanan
+dengan cepat mulai dari penginputan data
+sampai pembuatan laporan nya.
+5. Sistem dapat menampilkan data dalam bentuk
+visual grafik.
+6. Sistem dapat di akses online oleh PDG dan
+pimpinan melalui media layanan internet
+(browser) dari komputer atau smartphone untuk
+mempercepat dan mempermudah dalam
+mengelola data dan mendapatkan informasi.
+
+Gambar 12. Halaman Grafik Lamus
+
+Gambar 13. Halaman Grafik Lapors
+
+Gambar 14. Halaman Grafik Latahzan
+
+Daftar Pustaka
+GHAZALY, ABDUL RAHMAN. 2010, Fiqih
+Muamalat, Kencana, Jakarta
+HASAN, M. ALI. 2006, Zakat Dan Infaq : Salah
+Satu Solusi Mengatasi Problema Sosial Di
+Indnesia, Kencana, Jakarta
+
+Gambar 15. Halaman Grafik Kaki Palsu
+.
+
+HAFIDHUDDIN, DIDIN. 2002, Zakat Dalam
+Perekonomian Modern, Gema Insani Press.
+Jakarta
+PRESSMAN, ROGER. S., 2010, Software
+Engineering a Practioner’s Approach
+Edition, McGraw - Hill Higher Education
+Gambar 16. Halaman Grafik RSP
+
+YASIN, AHMAD HADI. 2011, Panduan Zakat
+Praktis, Dompet Dhuafa Republika, Jakarta
+
+34
+
+7th
+
+

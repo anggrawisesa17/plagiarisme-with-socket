@@ -1,0 +1,837 @@
+ANALISIS KESALAHAN SISWA DALAM MENYELESAIKAN
+SOAL-SOAL PADA MATERI HUKUM KIRCHOFF
+DI SMAN 1 MERANTI
+Andika Rahmat, Edy Tandililing, Erwina Oktavianty
+Program Studi Pendidikan Fisika Universitas Tanjungpura, Pontianak
+Email: andikarahmat.herman@gmail.com
+Abstrak: Penelitian ini bertujuan untuk mengungkap kesalahan siswa dalam
+menyelesaikan soal-soal materi hukum Kirchoff. Metode pengumpulan data dalam
+penelitian ini menggunakan tes dan wawancara. Bentuk penelitian berupa penelitian
+survey. Pengambilan sampel menggunakan purposive sampling, pada 24 siswa kelas XI
+IPA SMA Negeri 1 Meranti Tahun Ajaran 2016/2017. Alat pengumpulan data yang
+digunakan adalah tes tertulis yang terdiri dari tiga soal berbentuk essay. Dari hasil
+analisis data diperoleh : (1) Jenis-jenis kesalahan dalam menyelesaikan soal, (2)
+Penyebab kesalahan dalam menyelesaikan soal, (3) Persentase kesalahan dalam
+menyelesaikan soal. Hasil temuan ini diharapkan dapat membantu guru fisika untuk
+mengatasi kesalahan-kesalahan yang dilakukan siswa.
+
+Kata Kunci: Kesalahan Siswa Dalam Menyelesaikan Soal-soal, Hukum
+Kirchoff, Meranti
+Abstract: This study aims to analyze students' mistakes in solving Kirchoff's law matter
+problems. Methods of data collection in this study using tests and interviews. Form of
+research in the form of survey research. Sampling using purposive sampling, on 24
+students class XI IPA SMA Negeri 1 Meranti Academic Year 2016/2017. The data
+collection tool used is a written test consisting of three essay-shaped questions. From the
+data analysis results obtained: (1) Types of errors in solving the problem, (2) Cause of
+error in solving the problem, (3) Percentage of error in solving the problem. These
+findings are expected to help physics teachers to overcome the mistakes made by
+students.
+
+Key Word: Student Error In Problems Solving, Kirchoff Laws, Meranti
+isika adalah ilmu pengetahuan tentang alam yang mempelajari sifat dan segala
+peristiwa alam yang terjadi (Fisika Zone, 2013). Banyak fenomena-fenomena
+di alam yang dapat dijelaskan dengan menggunakan konsep fisika, sehingga fisika
+dapat dianggap sebagai mata pelajaran yang penting untuk dipelajari.
+Dalam mempelajari fisika, siswa harus dapat memahami konsep-konsep
+fisika dan mampu menerapkan dalam aktivitas pemecahan masalah fisika agar
+mencapai keberhasilan belajar. Keberhasilan belajar dapat dilihat dari pencapaian
+hasil belajar. Hasil belajar, menurut Nasution (dalam Pahini, 2013) adalah hasil
+dari suatu interaksi tindak belajar mengajar dan ditunjukkan dengan nilai tes yang
+diberikan guru. Pembelajaran dikatakan berhasil apabila hasil belajarnya tinggi,
+yaitu sama dengan atau lebih dari Kriteria Ketuntasan Minimum (KKM) sebagai
+tolak ukur keberhasilan belajar yang ditetapkan oleh sekolah.
+
+F
+
+2
+
+Akan tetapi, pelajaran fisika cenderung dianggap sulit dan membosankan
+oleh sebagian siswa. Dalam pembelajaran di sekolah jarang diajarkan tentang
+contoh penerapan fisika dalam kehidupan sehari-hari. Sehingga siswa merasa
+fisika merupakan pelajaran yang tidak bermanfaat setelah lulus nantinya. Selain
+itu, pelajaran fisika juga dianggap sulit karena banyak rumus dan hitungan.
+Seperti yang diungkapkan Suparno (2009: 2) bahwa beberapa siswa SMA tidak
+menyukai fisika dan akhirnya memilih jurusan yang tidak ada pelajaran fisika
+karena fisika dianggap menakutkan, sulit dipelajari, banyak hitungan dan rumus.
+Salah satu materi yang dipelajari oleh siswa SMA khususnya kelas X
+adalah Listrik Dinamis khususnya pada sub materi hukum Kirchoff merupakan
+materi yang cukup sulit untuk dipahami. Berdasarkan penyataan dari guru fisika
+di SMA Negeri 1 Meranti, masih banyak dijumpai beberapa kesalahan yang
+dilakukan oleh siswa. Salah satu kesalahan yang dilakukan siswa adalah
+kesalahan dalam menyelesaikan soal pada hukum I Kirchoff dan hukum II
+Kirchoff yang membahas tentang aturan percabangan rangkaian listrik maupun
+aturan pada rangkaian listrik tertutup. Selain kesalahan-kesalahan tersebut, tidak
+menutup kemungkinan masih terdapat kesalahan-kesalahan lain yang dilakukan
+oleh siswa. Hal itu dapat dilihat dari hasil rata-rata ulangan harian di kelas X
+SMA Negeri 1 Meranti pada materi hukum Kirchoff sebesar 45,00 dengan kriteria
+ketuntasan minimal (KKM) yang ditentukan sebesar 75 dan nilai yang tergolong
+rendah pada materi listrik dinamis.
+Tetapi banyaknya kesalahan tersebut sering kali diabaikan, tanpa adanya
+tindak lanjut untuk mengetahui kesalahan-kesalahan yang terjadi pada siswa saat
+mereka mengerjakan soal-soal fisika. Karena kurangnya tindak lanjut untuk
+mengetahui jenis kesalahan-kesalahan yang dilakukan siswa tersebut,
+mengakibatkan kesalahan-kesalahan dalam mengerjakan soal fisika akan terus
+terjadi.
+Beberapa penelitian sebelumnya telah meneliti deskripsi kesalahan siswa
+dalam menyelesaikan soal usaha dan energi ( Rodi, 2010) telah mengungkap ratarata kesalahan menggunakan konsep yang dilakukan siswa sebesar 25,13%,
+kesalahan menentukan satuan 27,68%, kesalahan menentukan rumus 22,56%,
+kesalahan memasukkan angka 9,23%, tidak selesai mengerjakan soal 20%,
+kesalahan dalam mengkonversi satuan 5,13% dan kesalahan dalam menghitung
+1,54%. Secara rata-rata kesalahan fisis yang dilakukan siswa sebesar 20,9%
+sedangkan kesalahan teknis sebesar 3,34%.
+Masalah penelitian yang pertama menunjukkan profil kesalahan siswa
+dalam menyelesaikan soal-soal hukum Kirchoff. Melalui profil ini, peneliti
+mengidentifikasi kemungkinan adanya kesulitan-kesulitan yang dialami siswa
+pada soal-soal tertentu. Masalah kedua membahas mengenai penyebab kesalahan
+siswa dalam menyelesaikan soal-soal hukum Kirchoff. Masalah ketiga membahas
+mengenai persentase kesalahan siswa dalam menyelesaikan soal-soal hukum
+Kirchoff.
+METODE
+Penelitian ini termasuk penelitian deskriptif yang dilaksanakan di SMA
+Negeri 1 Meranti Tahun Ajaran 2016/2017. Metode pengumpulan data dalam
+3
+
+penelitian ini menggunakan tes dan wawancara. Metode tes merupakan metode
+utama yang digunakan dalam pengumpulan data pada penelitian ini, sedangkan
+wawancara merupakan metode bantu sebagai pelengkap yang hasilnya digunakan
+sebagai pembanding.
+Tes dilakukan pada siswa kelas 11 IPA SMA Negeri 1 Meranti Tahun
+Ajaran 2016/2017 yang berjumlah 24 siswa, pemilihan siswa tersebut
+menggunakan teknik purposive sampling untuk mengetahui jenis kesalahan dan
+penyebab kesalahan yang dilakukan siswa dalam menyelesaikan soal-soal pada
+materi hukum Kirchoff. Wawancara dilakukan untuk memperoleh informasi
+penyebab kesalahan yang dilakukan siswa dalam pengerjaan tes.
+HASIL DAN PEMBAHASAN
+Hasil
+Hasil penelitian yang diperoleh berupa profil masing-masing bentuk
+kesalahan fisis dan matematis yang dilakukan siswa dalam menyelesaikan soalsoal hukum Kirchoff. Setelah pelaksanaan tes diperoleh data berupa jawaban
+siswa. Kemudian dari jawaban siswa tersebut dianalisis tiap item soal dan
+dikelompokkan kedalam jenis-jenis kesalahan yang merujuk dari Arcana (dalam
+Fitri, 2007) yaitu kesalahan fisis yang terdiri dari kesalahan menulis rumus,
+kesalahan menulis simbol, kesalahan memasukkan angka, kesalahan mengubah
+satuan, kesalahan matematis yaitu kesalahan dalam menghitung hasil akhir.
+Tabel 1
+Deskripsi Profil Kesalahan Fisis Siswa Dalam Menyelesaikan Soal-Soal
+Hukum Kirchoff.
+Cuplikan jawaban siswa
+
+Jenis kesalahan
+
+Jumla
+h
+8
+
+Kesalahan konsep
+6
+5
+19
+6
+5
+7
+
+Tindak menjawab soal
+Tidak menulis diketahui
+Jumlah
+Tindak menjawab soal
+Tidak menulis diketahui
+
+Kesalahan
+menuliskan simbol
+
+Jumlah
+
+4
+
+22
+4
+
+4
+Kesalahan
+memasukkan
+angka
+
+3
+
+4
+
+Tdak Menjawab
+Jumlah
+Tidak ada satu pun siswa yang menggambar
+arah arus keluar pada I.
+Jumlah
+
+Kesalahan gambar
+
+6
+17
+24
+24
+7
+6
+
+Tidak menjawab
+Kesalahan menulis
+rumus
+
+3
+
+2
+3
+Jumlah
+
+21
+
+Kesalahan
+menghitung
+
+6
+
+5
+
+3
+
+2
+
+Tidak menjawab
+
+6
+17
+
+Jumlah
+
+Berndasarkan Tabel 1 diketahui siswa yang melakukan kesalahan dalam
+menulis konsep sebanyak 19 orang siswa. Untuk kesalahan dalam menuliskan
+simbol 22 siswa yang melakukan kesalahan. Kesalahan memasukkan angka
+sebanyak 17 orang siswa. Kesalahan menggambar merupakan kesalahan yang
+paling banyak dilakukan siswa hampir seluruh siswa yang melakukan kesalahan
+menggambar ini yaitu sebanyak 24 orang siswa. Kesalahan berikutnya yang
+dilakukan siswa adalah kesalahan menulis rumus yaitu sebanyak 21 orang siswa
+yang melakukan kesalahan. Dan yang melakukan kesalahan matematis adalah 17
+orang siswa. Hal ini menunjukkan bahwa pada soal nomor 1 (satu) kesalahan
+yang paling besar yaitu kesalahan fisis.
+Tabel 2
+Kesalahan Siswa Dalam Menyelesaikan Soal Nomor 2
+
+Cuplikan jawaban siswa
+
+Jenis kesalahan
+
+Tidak menjawab
+
+Jumlah siswa
+yang melakukan
+kesalahan
+5
+
+Kesalahan konsep
+Tidak menuliskan yang diketahui
+Jumlah
+
+18
+23
+
+Kesalahan menulis
+simbol
+
+Tidak menjawab
+
+3
+5
+15
+
+Tidak menulis simbol
+Jumlah
+
+23
+6
+
+9
+Kesalahan
+memasukkan
+angka
+
+Tidak menjawab
+Tidak selesai menjawab
+
+7
+
+5
+3
+Jumlah
+
+24
+
+Kesalahan gambar
+
+3
+
+5
+
+Tidak menjawab
+
+4
+
+12
+24
+5
+
+Tidak menggambar
+Jumlah
+Tidak menjawab
+Tidak menulis rumus
+
+5
+Kesalahan menulis
+rumus
+6
+
+7
+
+Jumlah
+
+23
+7
+
+Tidak menjawab
+
+5
+Kesalahan
+menghitung
+
+6
+
+Tidak selesai menjawab
+10
+
+3
+24
+
+Jumlah
+
+Berndasarkan Tabel 2 diketahui siswa yang melakukan kesalahan dalam
+menulis konsep sebanyak 23 orang siswa. Untuk kesalahan dalam menuliskan
+simbol sebanyak 23 orang siswa. Kesalahan memasukkan angka sebanyak 24
+orang siswa. Kesalahan menggambar merupakan kesalahan yang paling banyak
+dilakukan siswa hampir seluruh siswa yang melakukan kesalahan menggambar ini
+yaitu sebanyak 24 orang siswa. Kesalahan berikutnya yang dilakukan siswa
+adalah kesalahan memasukan rumus yaitu sebanyak 23 orang siswa yang
+melakukan kesalahan. Dan yang melakukan kesalahan matematis adalah 24 orang
+siswa. Hal ini menunjukkan bahwa rata-rata kesalahan pada soal nomor 2 (dua)
+yang paling besar yaitu kesalahan matematis.
+Tabel 3
+Kesalahan Siswa Dalam Menyelesaikan Soal Nomor 3
+
+Cuplikan jawaban siswa
+Tidak menulis yang diketahui
+Tidak menjawab
+
+Jenis
+kesalahan
+Kesalahan
+konsep
+
+Jumlah
+Tidak menuliskan simbol
+Tidak menjawab
+
+Kesalahan
+menulis simbol
+Jumlah
+
+Jumlah
+siswa yang
+melakukan
+kesalahan
+6
+8
+14
+6
+8
+2
+16
+
+8
+
+3
+Kesalahan
+memasukkan
+angka
+
+Tidak menjawab
+
+8
+4
+
+Tidak memasukkan angka
+
+2
+Jumlah
+
+17
+3
+
+Tidak menggambar
+Tidak menjawab
+
+Kesalahan
+menggambar
+
+8
+
+1
+
+4
+
+1
+
+Tidak menjawab
+
+Jumlah
+
+17
+8
+
+Tidak menulis rumus
+
+4
+Kesalahan
+menulis rumus
+2
+
+2
+
+1
+Jumlah
+
+17
+9
+
+Tidak menjawab
+
+8
+
+1
+
+4
+
+Kesalahan
+menghitung
+1
+
+2
+
+2
+
+Jumlah
+
+18
+
+Berndasarkan Tabel 3 diketahui siswa yang melakukan kesalahan dalam
+menulis konsep sebanyak 14 orang siswa. Untuk kesalahan dalam menuliskan
+simbol sebanyak 16 orang siswa. Kesalahan memasukkan angka sebanyak 17
+orang siswa. Kesalahan menggambar merupakan kesalahan yang paling banyak
+dilakukan siswa hampir seluruh siswa yang melakukan kesalahan menggambar ini
+yaitu sebanyak 17 orang siswa. Kesalahan berikutnya yang dilakukan siswa
+adalah kesalahan memasukan rumus yaitu sebanyak 17 orang siswa yang
+melakukan kesalahan. Dan yang melakukan kesalahan matematis adalah 18 orang
+siswa. Hal ini menunjukkan bahwa pada soal nomor 3 (tiga) kesalahan yang
+paling besar yaitu kesalahan matematis.
+10
+
+Adapun penyebab kesalahan yang dilakukan siswa dalam menyelesaikan
+soal-soal materi hukum I dan II Kirchoff dapat dilihat pada tabel di bawah ini.
+Tabel 4
+Penyebab Kesalahan Siswa Dalam Menyelesaikan Soal Nomor 1 (Satu) Pada
+Materi Hukum Kirchoff.
+Jenis Kesalahan
+Kesalahan fisis
+
+Penyebab
+
+Tidak
+menuliskan
+simbol
+Tidak
+menuliskan
+Kesaahan menulis Satuan
+satuan
+Kesalahan memasukkan Angka
+Kurang teliti
+Tidak paham konsep
+besar arah arus
+Kesalah gambar atau diagram
+masuk dan arus
+keluar
+Tidak paham rumus
+Kesalahan menulis rumus
+yang digunakan
+Kesalahan matematis
+Tidak teliti dalam
+Kesalahan menghitung
+melakukan
+penjumlahan
+Kesalahan menulis Simbol
+
+Jumlah
+19
+22
+17
+24
+
+%
+85,83%
+79,17%
+91,67%
+70,83%
+100%
+
+21
+
+87,50%
+70,83%
+
+17
+70,83%
+
+Tabel 5
+Penyebab Kesalahan Siswa Dalam Menyelesaikan Soal Nomor 2 (Dua) Pada
+Materi Hukum Kirchoff.
+Jenis Kesalahan
+Kesalahan fisis
+
+Penyebab
+
+Tidak
+menuliskan
+simbol
+Kesaahan menulis Satuan
+Kurang teliti
+Kesalahan memasukkan Angka
+Kurang teliti
+Tidak paham konsep
+Kesalah gambar atau diagram
+besar arah loop
+Tidak paham rumus
+Kesalahan menulis rumus
+yang digunakan
+Kesalahan matematis
+Tidak
+memahami
+konsep perhitungan
+Kesalahan menghitung
+untuk
+hambatan
+yang disusun secara
+seri
+Kesalahan menulis Simbol
+
+Jumlah
+23
+23
+24
+24
+23
+
+%
+97,50%
+95,83%
+95,83%
+100%
+100%
+95,83%
+100%
+
+24
+100%
+
+11
+
+Tabel 6
+Penyebab Kesalahan Siswa Dalam Menyelesaikan Soal Nomor 3 (Tiga) Pada
+Materi Hukum Kirchoff.
+Jenis Kesalahan
+Penyebab
+Jumlah
+%
+Kesalahan fisis
+67,50%
+Kesalahan menulis Simbol
+Kurang teliti
+14
+58,33%
+Kesaahan menulis Satuan
+Kurang teliti
+16
+66,67%
+Kesalahan memasukkan Angka
+Kurang teliti
+17
+70,83%
+Tidak
+paham
+17
+Kesalah gambar atau diagram
+70,83%
+konsep
+Tidak
+paham
+17
+Kesalahan menulis rumus
+rumus
+yang
+70,83%
+digunakan
+Kesalahan matematis
+75%
+Kurang
+cermat
+17
+dalam memberikan
+Kesalahan menghitung
+tanda
+untuk
+75%
+penjumlahan
+tegangan
+Adapun persentase jenis kesalahan yang dilakukan siswa dalam
+menyelesaikan soal-soal materi hukum I dan II Kirchoff dapat dilihat pada tabel
+persentase di bawah ini.
+Tabel 7
+Pesentase Jenis Kesalahan Siswa Dalam Menyelesaikan Soal Nomor 1 (Satu)
+Pada Materi Hukum Kirchoff.
+Jenis Kesalahan
+Kesalahan fisis
+Kesalahan menulis Simbol
+Kesaahan menulis Satuan
+Kesalahan memasukkan Angka
+Kesalah gambar atau diagram
+Kesalahan menulis rumus
+Kesalahan matematis
+Kesalahan menghitung
+
+Jumlah
+19
+22
+17
+24
+21
+17
+
+%
+85,83%
+79,17%
+91,67%
+70,83%
+100%
+87,50%
+70,83%
+70,83%
+
+Tabel 8
+Pesentase Jenis Kesalahan Siswa Dalam Menyelesaikan Soal Nomor 2 (Dua)
+Pada Materi Hukum Kirchoff.
+Jenis Kesalahan
+Kesalahan fisis
+Kesalahan menulis Simbol
+
+Jumlah
+23
+
+%
+97,50%
+95,83%
+12
+
+Jenis Kesalahan
+Kesaahan menulis Satuan
+Kesalahan memasukkan Angka
+Kesalah gambar atau diagram
+Kesalahan menulis rumus
+Kesalahan matematis
+Kesalahan menghitung
+
+Jumlah
+23
+24
+24
+23
+24
+
+%
+95,83%
+100%
+100%
+95,83%
+100%
+100%
+
+Tabel 9
+Pesentase Jenis Kesalahan Siswa Dalam Menyelesaikan Soal Nomor 3 (Tiga)
+Pada Materi Hukum Kirchoff.
+Jenis Kesalahan
+Kesalahan fisis
+Kesalahan menulis Simbol
+Kesaahan menulis Satuan
+Kesalahan memasukkan Angka
+Kesalah gambar atau diagram
+Kesalahan menulis rumus
+Kesalahan matematis
+Kesalahan menghitung
+
+Jumlah
+14
+16
+17
+17
+17
+18
+
+%
+67,50%
+58,33%
+66,67%
+70,83%
+70,83%
+70,83%
+75%
+75%
+
+Pembahasan
+Berdasarkan analisis data, diketahui bahwa dari profil kesalahan siswa
+dalam menyelesaikan soal-soal fisika hukum Kirchoff adalah kesalahan
+menganalisis soal, kesalahan menjawab yang tidak sesuai, kesalahan dalam
+perhitungan matematis, kesalahan dalam menuliskan simbol, kesalahan dalam
+menggambar rangkaian serta kesalahan dalam menuliskan satuan. Pembahasan
+dalam penelitian ini dilakukan dengan cara tes dan wawancara.
+Pembahasan hasil penelitian tentang kesalahan siswa dalam menyelesaikan
+soal-soal hukum Kirchoff adalah sebagai berikut:
+Indikator soal nomor 1 adalah menentukan arah arus pada rangkaian
+terbuka. Berdasarkan data hasil tes, jenis kesalahan terbanyak yang dilakukan
+siswa adalah kesalahan gambar sebanyak 24 orang siswa, kemudian diikuti
+kesalahan simbol sebanyak 22 orang siswa, kesalahan menuliskan rumus
+diperoleh 21 orang siswa yang melakukan kesalahan, kesalahan konsep yakni 19
+orang dan siswa yang melakukan kesalahan serta siswa yang mengalami
+kesalahan memasukkan angka dan kesalahan menghitung yang paling sedikit
+diperoleh yaitu ada 17 orang siswa.
+Berdasarkan hasil wawancara, kesalahan siswa pada soal nomor 1
+disebabkan siswa tidak paham cara menentukan arah arus dan kesulitan dalam
+menggambarkan arah arus tersebut pada hukum 1 Kirchoff, tidak tahu sama sekali
+dengan hukum Kirchoff, dan adanya kesalahan konsep karena siswa tidak
+memperhatikan ketika pembelajaran dan tidak belajar, kesalahan strategi dengan
+langsung menjawab soal tanpa menggambar posisi arah arus pada rangkaian yang
+13
+
+diketahu pada soal terlebih dahulu karena terburu-buru akan mengerjakan soal
+selanjutnya dan siswa dam siswa kurang teliti membaca soal. Kemudian siswa
+juga salah terjemah karena siswa kurang teliti membaca soal. Selain itu, siswa
+juga melakukan kesalahan hitungan karena kurang teliti dalam melakukan operasi
+hitung. Dalam penelitian Dewi Mahayanti (2015) tentang analisis kesalahan siswa
+dalam mengerjakan soal-soal pada materi listrik dinamis, dimana kesalahan dalam
+menuliskan apa yang diketahui dan ditanyakan pada soal ke dalam simbol fisika,
+memahami maksud soal, serta menuliskan data yang diketahui pada soal secara
+tepat ini disebabkan siswa lupa, tidak memahami simbol fisika dari data-data yang
+disebutkan pada soal, dan kurang teliti dalam membaca serta memahami maksud
+soal.
+Indikator soal nomor 2 adalah memformulasikan besaran kuat arus dalam
+rangkaian tertutup sederhana. Berdasarkan data hasil tes, jenis kesalahan
+terbanyak
+yang dilakukan siswa adalah kesalahan gambar, kesalahan
+memasukkan angka dan kesalahan menghitung sebanyak 24 orang siswa,
+kemudian diikuti kesalahan konsep, kesalahan simbol serta kesalahan menghitung
+yaitu sebanyak 23 orang siswa.
+Berdasarkan hasil wawancara, kesalahan siswa pada soal nomor 2
+disebabkan adanya kesalahan gambar, kesalahan memasukkan angka dan
+kesalahan menghitung karena siswa tidak memperhatikan ketika pembelajaran
+dan tidak belajar. Kemudian kesalahan konsep, kesalahan simbol serta kesalahan
+menghitung. Menurut Lerner (1981) beberapa kekeliruan umum yang dilakukan
+anak adalah kekurangan pemahaman tentang simbol, nilai tempat, perhitungan,
+penggunaan proses yang keliru, dan tulisan yang tidak terbaca (Abdurrahman,
+2009: 262).
+Indikator soal nomor 3 adalah memformulasikan besaran tegangan dalam
+rangkaian tertutup sederhana dengan menggunakan hukum II Kirchoff.
+Berdasarkan data hasil tes, jenis kesalahan terbanyak yang dilakukan siswa
+adalah kesalahan menghitung sebanyak 18 orang siswa diikuti kesalahan
+memasukkan angka, kesalahan menggambar dan kesalahan menuliskan rumus
+yaitu sebanyak 17 orang siswa, serta kesalahan menuliskan simbol sebanyak 16
+orang siswa dan yang paling sedikit kesalahan yang dilakukan siswa yaitu
+kesalahan konsep adalah 14 orang siswa yang mengalami kesalahan.
+SIMPULAN DAN SARAN
+Simpulan
+Berdasarkan hasil penelitian, secara umum dapat disimpulkan bahwa Jenis
+kesalahan yang dilakukan oleh siswa dalam menyelesaikan soal-soal hukum
+Kirchoff adalah: (1) Profil Kesalahan (a) Kesalahan menulis simbol, sebanyak
+77,78%. (b) Kesalahan menulis satuan, sebanyak 84,72%. (c) Kesalahan
+memasukkan angka, sebanyak 80,55%. (c) Kesalahan gambar atau diagram,
+sebanyak 90,28%. (d) Kesalahan menulis rumus, sebanyak 84,72%. (e) Kesalahan
+menghitung, sebanyak 81,94%. (2) Penyebab kesalahan yang dilakukann oleh
+siswa dalam menyelesaikan soal-soal hukum Kirchoff adalah: (a) Kesalahan
+menulis simbol, yaitu kesalahan siswa berupa kesalahan dalam menulis simbol,
+yang disebabkan karena tidak memahami simbol fisika yang disebutkan pada soal.
+14
+
+(b) Kesalahan menulis satuan, yaitu kesalahan siswa berupa kesalahan dalam
+menulis satuan, yang disebabkan karena tidak hafalnya siswa pada satuan Sistem
+Internasional (SI) sehingga tidak dapat memahami satuan yang disebutkan pada
+soal. (b) Kesalahan memasukkan angka yaitu kesalahan siswa berupa kesalahan
+dalam menulis angka, yang disebabkan karena angka yang dituliskan tidak tepat.
+(c) Kesalahan gambar yaitu kesalahan siswa berupa kesalahan dalam
+menggambar, yang disebabkan karena siswa tidak memaham maksud soal. (d)
+Kesalahan menulis rumus yaitu kesalahan siswa berupa kesalahan dalam menulis
+rumus, yang disebabkan karena tidak paham rumus apa yang digunakan sehingga
+menghadapi jalan buntu, kemudian diatasi dengan cara memodifikasi rumus yang
+tidak sesuai dengan soal yang ditanyakan. (e) Kesalahan menghitung yaitu
+kesalahan siswa berupa kesalahan dalam operasi hitung, yang disebabkan karena
+tidak teliti dalam melakukan penjumlahan, pengurangan, perkalian ataupun
+pembagian dan merasa kekurangan waktu yang menjadikan siswa tergesa-gesa
+melakukan perhitungan.
+Saran
+Bagi guru, sebagaimana penelitian ini menemukan jenis kesalahan dan
+penyebab kesalahan siswa dalam menyelesaikan soal-soal pada materi hukum
+Kirchoff. Guru sebaiknya sering melatih siswa dalam mengubah satuan, penulisan
+simbol yang benar agar tidak terjadi kesalahan-kesalahan yang dilakukan siswa
+serta menekankan pemahaman siswa terhadap konsep dasar setiap materi fisika
+sehingga siswa tidak cendrung untuk menghafal rumus pada setiap materi yang
+terkadang menjadikannya mudah tidak ingat rumus yang digunakan. Bagi siswa,
+diharapkan lebih memperhatikan dan fokus ketika pelajaran berlansung dan
+diharapkan pada saat proses pembelajaran berlansung, siswa lebih aktif bertanya
+dan lebih sering mengerjakan soal-soal latihan. Bagi peneliti selanjutnya,
+diharapkan dapat mencari solusi dalam mengatasi kesalahan yang dilakukan
+siswa.
+DAFTAR RUJUKAN
+Asmara, Husna. (2004). Penulisan Karya Ilmiah. Pontianak: Fahruna Bahagia
+Pontianak.
+Azwar, Saiffudin. (2003). Metode Penelitian. Yogyakarta: Pustaka Pelajar.
+Fitri, Ezi Diana. (2007). Deskripsi Kesalahan Dalam Menyelesaikan Soal Listrik
+Dinamis pada Siswa Kelas III SMP Negeri 14 Pontianak. Skripsi: FKIP
+UNTAN.
+Idrus, Fahmi. (2006). Kamus Umum Bahasa Indonesia. Surabaya: Greisinda
+Press.
+Nazir, Moh. (1983). Metode Penelitian. Bogor: Ghalia Indonesia.
+Sears dan Zemansky. (2008). Physics for Scientist and Engineers. USA: Harris.
+Sugiyono. (2013). Metode Penelitian Pendidikan Pendekatan Kuantitatif,
+Kualitatif dan R&D. Bandung : Alfabeta.
+15
+
+Suparno, Paul. (2005). Miskonsepsi dan Perubahan Konsep dalam Pendidikan
+Fisika. Jakarta : Grasindo.
+Tansa, Firsta Novinda. (2011). Deskripsi Kesalahan Siswa Dalam Menyelesaikan
+Soal Fluida Dinamis Di Kelas XI IPA SMA Negeri 7 Pontianak.
+Skripsi.Pontianak: FKIP UNTAN.
+Uzen.
+(2010).
+Kesalahan
+Dalam
+Mengejakan
+Soal
+(http://Kanguzen.blogspot.com/2010/05/8-kesalahan-siswa-dalammengerjakan.html, diakses pada tanggal 2 April 2016).
+Zone,
+
+Fisika.
+
+Fisika. (2013). Definisi Fisika dan Manfaat Fisika. (Online).
+(http://fisikazone.com/definisi--fisika-dan-manfaat-fisika/, diakses 2 April
+2016.
+
+16
+
+

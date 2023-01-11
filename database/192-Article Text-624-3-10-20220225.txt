@@ -1,0 +1,766 @@
+JURNAL INFORMASI DAN KOMPUTER
+Volume 9 Nomor 1 Oktober 2021
+
+Jurnal Informasi dan Komputer merupakan Sarana informasi ilmu
+pengetahuan, Tekhnologi dan Komunikasi yang berupa hasil penelitian,
+tulisan ilmiah, Ataupun studi pustaka. Jurnal ini terbit dua kali setahun
+pada bulan April dan Oktober. Berisi hasil penelitian ilmiah di bidang
+informatika yang bertujuan untuk menghubungkan adanya kesenjangan
+antar kemajuan teknologi dan hasil penelitian. Jurnal ini di terbitkan
+pertama kali pada tahun 2013.
+Penanggung Jawab:
+Ketua STMIK Dian Cipta Cendikia
+Kotabumi
+Pembina:
+Ketua STMIK Dian Cipta Cendikia
+Kotabumi
+Ketua Lembaga Penelitian STMIK Dian
+Cipta Cendikia Kotabumi
+Pimpinan Redaksi
+Dwi Marisa Efendi,.S.Kom.,M.Ti
+Redaksi pelaksana
+Rustam,.S.Kom,.M.Ti (STMIK Dian
+Cipta Cendikia Kotabumi)
+Nurmayanti M.Kom (STMIK Dian
+Cipta Cendikia Kotabumi)
+Sukatmi,.S.Kom., M.Kom (AMIK DCC
+Bandar Lampung)
+Sampurna Dadi Riskiono,M.Kom
+(Universitas Teknokrat Indonesia)
+Ifo Wahyu
+Pratama,S.Kom.,M.Ti(AMIK MASTER
+Lampung)
+Mitra Bestari
+Merri Parida.,M.Kom (STMIK Dian
+Cipta Cendikia Kotabumi)
+Amarudin,S.Kom.,M.Eng (Universitas
+Teknokrat Indonesia)
+Didi Susianto.,S.T.,M.Kom (AMIK
+
+DCC Bandar Lampung)
+Alhibarsyah.,S.T.,M.Kom (Stmik Tunas
+Bangsa Bandar Lampung)
+Kemal Farouq Mauladi
+.,S.Kom.,M.Kom (Universitas Islam
+Lamongan)
+Agus Setiawan S.Pd.,M.Eng
+(Universitas Muhammadiyah
+Lamongan)
+Ferrly Ardhy, S.Kom., M.Ti
+(Universitas Aisyah Pringsewu)
+Penerbit : STMIK Dian Cipta Cendikia
+Kotabumi Bekerja Sama Dengan LPPM
+STMIK Dian Cipta Cendikia Kotabumi.
+Alamat Redaksi/Penerbit:
+Jl. Negara No. 3 Candimas Kotabumi
+Lampung Utara
+No Telpon/Fax 0724 23003
+Email : lppm-stmik@dcc.ac.id
+
+PENGANTAR REDAKSI
+Puji syukur dipanjatkan kehadirat Tuhan Yang Maha Esa, atas karunia dan limpahan
+rahmatnya Jurnal Informasi dan komputer (JIK) STMIK Dian Cipta Cendikia Kotabumi
+ini dapat terwujud, sehinga dapat di terbit 2 (dua) kali dalam setahun ini merupakan
+suatu wadah untuk penyebar luasan hasil-hasil penelitian, studi pustaka, karya ilmiah
+yang berkaitan dengan Informatika dan Komputer khususnya bagi dosen-dosen STMIK
+Dian Cipta Cendikia Kotabumi serta umumnya para cendikiawan, praktisi, peneliti ilmu
+Informatika dan Komputer.
+Harapan dengan diterbitkannya Jurnal Informasi dan Komputer (JIK) ini sebagai salah
+satu bentuk sumbangan pemikiran dalam pengembangan ilmu informatika dan
+komputer yang berkaitan dengan kajian-kajian di bidang tekhnologi informatik,
+Komunikasi Data dan Jaringan Komputer, perancangan dan Rekayasa Perangkat Lunak,
+serta ilmu-ilmu yang terkait dengan bidang Informatika dan Komputer lainnya.
+Berkenaan dengan harapan tersebut, kepada para peneliti, dosen dan praktisi yang
+memiliki hasil-hasil penelitian, kajian pustaka, karya ilmiah dalam bidang tersebut
+diatas, dengan bangga redaksi Jurnal Informatika dan Komputer (JIK) menerima naskah
+ringkasan untuk dimuat pada jurnal Informasi dan Komputer (JIK) STMIK Dian Cipta
+Cendikia Kotabumi dengan berpedoman pada penulisan naskah jurnal sebagaimana
+dilampirkan pada halaman belakang (Bagian kulit dalam) buku jurnal ini.
+Mutu dari suatu jurnal ilmiah tidak hanya ditentukan oleh para pengelolanya saja, tetapi
+para penulis dan pembaca jualah yang mempunyai peranan besar dalam meningkatkan
+mutu jurnal Informatika dan Komputer ini. Merujuk pada realita ini kamu sangat
+mengharapkan peran aktif dari peneliti untuk bersama-sama menjaga dan memelihara
+keberlangsungan dari jurnal Informatika dan Komputer STMIK Dian Cipta Cendikia
+Kotabumi ini. Yang juga tidak kalah pentingnya dari partisipasi tersebut diatas, adalah
+saran dan kritik yang membangun dari pembaca yang budiman agar kiranya dapat
+disampaikan langsung kepada redaksi JIK. Saran dan kritik yang membangun akan
+dijadikan masukan dan pertimbangan yang sangat berarti guna peningkatan mutu dan
+kualitas Jurnal Informatika dan Komputer STMIK Dian Cipta Cendikia Kotabumi.
+Tak lupa diucapkan terima kasih yang tak terhingga atas perhatian dan kerjasama dari
+semua pihak yang tak dapat disebutkan satu persatu hingga dapat diterbitkan nya Jurnal
+Informasi dan Komputer (JIK) STMIK Dian Cipta Cendikia Kotabumi. Semoga apa
+yang telah diperbuat untuk kebaikan akan menjadi amal ibadah, amin.
+Kotabumi, 25 April 2021
+
+Dewan Redaksi
+
+JURNAL INFORMASI DAN KOMPUTER
+VOL. 9 NO. 1 THN. 2021
+
+DAFTAR ISI
+Halaman
+Implementasi Framework ITIL 3 Pada Aplikasi Pelayanan Pelanggan Terpadu PT. PLN (PERSERO)
+Wilayah Kotabumi
+Ferly Ardhy, Dwi Marisa Efendi, Mitha Franciska, Nur Aminudin, Rustam,
+Abdullah Umar Faqih Al Ikhsani
+(Universitas Aisyah Pringewu, STMIK Dian Cipta Cendikia Kotabumi) ............................................................. 01-06
+Penerapan Metode Naive Bayes Dalam Menentukan Pengaruh Keaktifan Mahasiswa Berrorganisasi Terhadap
+Presentasi Belajar
+Debby Febriani R Saragih, Heru Satria Tambunan, Jaya Tata Hardinata
+(STIKOM Tunas Bangsa Pematangsiantar Indonesia) .......................................................................................... 07-15
+Penerapan Data Mining Untuk Prediksi Penjualan Pupuk Dengan Metode Algoritma Apriori
+Dwi Marisa Efendi, Sidik Rahmatullah, Asep Afandi, Pakarti Riswanto, Nurmayanti
+(STMIK Dian Cipta Cendikia Kotabumi) ............................................................................................................ 16-21
+Sistem Informasi Pelayanan Administrasi Surat Pengantar Berbasis Website Dengan Framework Codeigniter Guna
+Meningkatkan Kualitas Pelayanan Pada Desa Tambaksari Kidul Kabupaten Banyumas
+Endang Setyawati1, Suyudi, Foustino Asprilla Gunantara, Hadion Wijoyo
+(STIKOM Yos Sudarso Purwokerto, STMIK Dharmapala Riau) ......................................................................... 22-31
+Implementasi Algoritma Naive Bayes Untuk Menentukan Tingkat Kedisiplinan Siswa
+Sidik Rahmatullah, Iko Prastiyo
+(STMIK Dian Cipta Cendikia Kotabumi) ............................................................................................................. 32-44
+Pemanfaatan Framework Codeigniter Untuk Membangun Aplikasi Display Produk Di Alfamart Rajabasa
+Yuli Syafitri1, Yudi Dwi Pramudya, Muhammad Rasid
+(AMIK Dian Cipta Cendikia, STMIK Tunas Bangsa) .......................................................................................... 45-52
+Perbandingan Metode Nearest Neighbor, Ward Dan K-Means Dalam Menentukan Cluster Data Kinerja
+Kantor Unit Bank Abc
+Bambang Suprapto, Henry Simanjuntak, Sulasminarti
+(AMIK Dian Cipta Cendikia Pringsewu) .............................................................................................................. 53-65
+“Aplikasi Computer Basic Test (Cbt) Pada Smk Ma’arif Sukoharjo Kec. Pringsewu Kab. Pringsewu Berbasis Web”
+Rima Mawarni, Dewi Triyanti. Ardiansyah
+(STMIK Dian Cipta Cendikia Kotabumi, AMIK Dian Cipta Cendikia Pringsewu) ............................................. 67-71
+Pengembangan Aplikasi Pencarian Guru Privat Editing Video Berbasis Android
+Nurhasan Nugroho, Riduwan Napianto, Imam Ahmad, Wahyu Ariya Saputra
+(Universitas Bina Bangsa, Universitas Teknokrat Indonesia) ............................................................................... 72-78
+Sistem Penilaian Kinerja Karyawan Dengan Menggunakan Metode Simple Additive Weighting (Saw)
+
+Darsin, Desi Triyana
+(Universitas Megou Pak Tulang Bawang) ............................................................................................................. 79-87
+Aplikasi Belajar Dasar-Dasar Bahasa Isyarat Berbasis Android
+Ngajiyanto, Sigit Mintoro, Melpin Aprido Jenius,
+(STMIK Dian Cipta Cendikia kotabumi) .............................................................................................................. 88-93
+
+PENGEMBANGAN APLIKASI PENCARIAN GURU PRIVAT
+EDITING VIDEO BERBASIS ANDROID
+Nurhasan Nugroho1, Riduwan Napianto2,Imam Ahmad2, Wahyu Ariya Saputra4
+2
+Teknologi Informasi1, Teknik dan Ilmu Komputer 3
+1
+Universitas Bina Bangsa , Universitas Teknokrat Indonesia23
+Jl. Raya Serang - Jakarta, KM. 03 No. 1B, Panancangan, Cipocok Jaya, Serang, Banten
+Fakultas Jl. ZA. Pagar Alam 9 -11, Labuhan Ratu, Bandarlampung, Lampung
+E-mail : nurhasan.nugroho@binabangsa.ac.id, riduwannapianto@teknokrat.ac.id,
+imamahmad@teknokrat.ac.id, wahyuariyasa@gmail.com
+ABSTRAK
+Guru (pendidik) merupakan seorang pembimbing dalam melaksanakan proses belajar mengajar, Guru
+biasanya memiliki tugas yang berbeda-beda sepaerti guru kelas, guru mata pelajaran dan juga guru
+private. Guru private biasanya memberikan materi atau pengajaran secara khusus kepada muridnya
+tidak secara formal seperti disekolah. Terdapat jenis guru private sesuai dengan keahlian masingmasing guru, salah satu nya adalah guru private editing video. Di Bandar Lampung sangat sulit
+mencari informasi terkait guru private editing video menyebabkan murid yang ingin mencari guru
+private editing video kesulitan dan memakan waktu yang cukup lama. Maka pada penelitian ini
+mengembakan aplikasi plikasi berbasis android yang dapat mempermudah menemukan guru privat
+editing video di Bandar Lampung sehingga pencarian guru privat lebih mudah dan cepat. Aplikasi ini
+dikembangkan dengan menggunakan metode pengembangan sistem extreme programming (XP)
+dimana, metode ini dapat selaras dengan perubahan dari sisi desain dan fitur dengan penanganan yang
+fleksibel. Berdasarkan pengujian usability testing menghasikan nilail rata-rata 82,5%, dan masuk
+dalam kategori baik.
+Kata kunci : android, extreme programming, guru privat.
+ABSTRACTS
+The teacher (educator) is a guide in carrying out the teaching and learning process. Teachers usually
+have different tasks such as classroom teachers, subject teachers and private teachers. Private
+teachers usually provide material or teaching specifically to their students not formally like in school.
+There are types of private teachers according to the expertise of each teacher, one of which is a private
+video editing teacher. In Bandar Lampung it is very difficult to find information related to private
+video editing teachers, causing students who want to find private video editing teachers to find it
+difficult and time consuming. So in this study developed an Android-based application that can make it
+easier to find private video editing teachers in Bandar Lampung so that the search for private tutors is
+easier and faster. This application was developed using the extreme programming (XP) system
+development method where, this method can be in tune with changes in design and features with
+flexible handling. Based on usability testing, the average value was 82.5%, and it was in the good
+category.
+Keywords: android, extreme programming, private tutor..
+1. PENDAHULUAN
+Guru (pendidik) berpean untuk membimbing
+didalam pelaksanaan kegiatan belajar
+mengajar. Pendidik haru dapat memastikan
+bahwa peserta didiknya dalam kondisi yang
+
+dimungkinkan terasa nyaman dan dapat
+meyakinkan bahwa kecakapan serta prestasi
+yang diperoleh didapatkahn sehingga dapat
+ditingkatkanya motivasi belajar peserta didik.
+Pendidik atau guru biasanya memiliki jenis
+berbeda-beda diantaranya guru disekolah dan
+
+72 | S T M I K D i a n C i p t a C e n d i k i a K o t a b u m i
+
+guru
+privat.
+Guru
+privat
+biasanya
+memberikan materi atau pengajaran secara
+khusus kepada muridnya tidak secara formal
+seperti disekolah [1]. Terdapat jenis guru
+privat sesuai dengan keahlian masing-masing
+guru, salah satu nya adalah guru privat
+editing video.
+Guru privat editing video ini biasanya hanya
+ada ditempat kursus-kursus tertentu atau juga
+mengajar secara pribadi karena diminta
+secara langsung oleh murid yang ingin
+belajar dirumah. Saat ini untuk mendapatkan
+informasi tentang guru privat khusus nya
+editing video membutuhkan waktu dalam
+pencarian informasi untuk memperolehnya di
+Kota Bandar Lampung. Pada aplikasi
+penyedia layanan belajar yaitu Ruang Guru,
+Pada aplikasi tersebut tidak ada materi terkait
+editing video. Selain itu jika melakukan
+pencarian pada aplikasi olx pada sub kategori
+jasa, untuk layanan guru privat editing video
+juga tidak ditemukan. Hal tersebut
+dikarenakan memang sedikitnya media
+informasi yang memberikan data terkait guru
+privat yang memiliki keahlian dibidang
+editing video. Untuk memeperoleh informasi
+terkait guru privat editing video biasanya
+peserta didik yang inging belajar private
+editing video bertanya kepada teman ataupun
+saudara yang memiliki informasi terkait guru
+privat editing video tersebut. Sehingga perlu
+adanya sebuah aplikasi yang dapat
+mempermudah menemukan guru privat
+editing video di Bandar Lampung sehingga
+pencarian guru privat lebih mudah dan cepat.
+Dengan perkembangan teknologi smartphone
+dewasa ini memiliki peran yang signifikan
+dalam peran dan dukunganya dalam
+memenuhi keinginan dan kebutuhan hampir
+diseluruh
+aspek
+kehidupan
+[2].
+Perkembangan
+teknologi
+yang
+kian
+meningkat pesat, teknologi memiliki
+kelebihan dalam mempermudah masyarakat
+untik
+memberikan
+informasi
+yang
+bermanfaat, salah satunya sistem informasi
+terkait guru privat dengan berbasi mobile
+Android.
+Untuk melakukan pengembangn sistem
+dibutuhkan
+sebuah
+pendekatan
+atau
+metodologi. Metode pengembangan sistem
+yang dapat digunakan salah satunya adalah
+Extreme Programming (XP). XP merupakan
+pendekatan OOP yang digunakan apabila
+pengembang menemui kebutuhan yang
+belum didefinisikan secara jelas ataupun
+
+kebutuhannya yang mengalami perubahan
+yang cepat [3].
+Metode ini mampu bekerja dengan perubahan
+dari sisi desain dan fitur dengan penanganan
+yang fleksibel [4]. Penelitian ini akan
+mengembangkan aplikasi pencarian guru
+privat dengan metode pengembangan sistem
+XP untuk mempermudah siswa dalam
+mencari guru privat khususnya belajar
+tentang editing video dan mempermudah
+bagi guru privat untuk menemukan calon
+siswanya.
+2. METODE PENELITIAN
+Untuk membangun aplikasi pencarian guru
+privat editing video yang akan dikembangkan
+menggunakan metode Extreme Programming
+(XP). XP metode pengembangan software
+yang berdasarkan agile software development
+methodologies
+dimana
+metode
+ini
+mintikberatkan pada pengkodean (coding)
+sebagai aktivitas utama [5]. XP merupakan
+pendekatan pengembangan sistem yang
+berdasarkan requirement yang masih
+berubah-ubah ataupun terjadi perubahan yang
+sangat cepat [6]. XP menawarkan proses
+dalam periode yang cepat serta dapat
+berulang pada setiap tahapan disesuaikan
+terhadap keinginan pengguna [7]. Salah satu
+kelebihan XP adalah dapat menyederhanakan
+setiap prosesnya sehingga metode ini lebih
+adaptif serta fleksibel [8].
+
+Gambar 1. Tahapan Metode Pengembangan
+Extreme Programming (XP)
+2.1. Planning (Perencanaan)
+Langkah awal pada metode XP adalah
+melakukan perencanaan dengan memahami
+
+73 | S T M I K D i a n C i p t a C e n d i k i a K o t a b u m i
+
+konteks bisnis dan kebutuhan pada sistem
+yang dibangun. Dapat dikatakan bahwa hasil
+dari tahapan ini berupa penentuan kebutuhan
+fungsionalitas dari sistem yang akan
+dikembangkan.
+Analisis
+kebutuhan
+fungsional dapat diartikan sebagi pernyataan
+layanan yang dapat dilakukan oleh sistem
+sehingga dapat bereaksi terhadap inputan
+tertentu dan situasi keadaan tertentu [9].
+Kebutuhan fungsional menjelaskan terkait
+kebutuhan dan aktivitas apa yang dapat
+diselesaikan oleh sistem [10]. Fungsionalitas
+didapatkan berdasarkan identifikasi masalah
+dengan tujuan agar diketahui masalah serta
+hambatan untuk mencapai tujuan dari
+organisasi [11].
+2.2. Design (Perancangan)
+Tahap ini memiliki fokus pada rancangan
+sistem sistem. Aplikasi yang akan
+dikembangkan
+menggunakan
+Unified
+Modelling Language (UML) pada desain
+sistemnya. UML merupakan bahasa design
+yang dapat membuat model sertamemberikan
+gambaran hubungan sistem dengan diagram
+[12]. Untuk design aplikasi pencarian guru
+privat menggunakan use case diagram,
+diamana diagram ini memiliki kemampuan
+dalam menggambarkan interaksi antara aktor
+dan sistem [13].
+2.3. Coding (Pengkodean)
+Coding
+merupakan
+tahapan
+dimana
+mengubah desain menjadi aplikasi dengan
+menggunakan kode-kode tertentu yang
+dikenal sebagai bahasa pemrograman [14].
+Pada proses ini pengembang melakukan
+implementasi
+berdasarkan
+apa
+yang
+didapatkan dari analisis serta rancangan
+kemudian diubah menjadi aplikasi dengan
+menggunakan
+coding
+[15].
+Aplikasi
+pencarian guru privat dikembangkan
+menggunakan HTML5 serta Android
+Studio dan MYSQL sebagai database-nya.
+
+dapat mempelajari dan menggunakan sistem
+dalam pencapaian tujuan dan mengukur
+peningkatan kepuasaan pengguna terhadap
+aplikasi serta kegunaanya.
+3. HASIL DAN PEMBAHASAN
+Untuk mengembangkan aplikasi pencarian
+guru privat, sebelumnya harus ditentukan
+yang menjadi kebutuhan dari sistem yang
+dikembangkan. Untuk itu, penentukan
+kebutuhan fungsional menjadi sangat penting.
+Kebutuhan fungsional didapatkan dari
+wawancara dengan calon pengguna dalam hal
+ini masyarakat umum yang membutuhkan
+guru privat khususnya video editing. Berikut
+kebutuhan fungsional dari siswa yang mencari
+guru privat editing video memiliki fitur-fitur
+sebagai berikut:
+a) Sistem harus dapat melakukan proses
+pencarian guru privat.
+b) Sistem harus dapat melakukan proses
+registrasi untuk calon siswa dan juga guru
+privat
+c) Sistem harus dapat melakukan proses
+filter pencarian berdasarkan lokasi dan
+juga pengalaman guru privat.
+d) Sistem
+harus
+dapat
+melakukan
+penyimpanan histori pemesanan guru.
+Dari
+kebutuhan
+fungsional
+tersebut
+selanjutnya dilakukan rancangan sistem.
+Sistem yang dikembangkan terdapat tiga
+pengguna yaitu: admin, guru dan murid.
+Berikut ini gambaran untuk use case diagram
+aplikasi pencarin guru privat editing video.
+
+2.4. Testing (Pengujian)
+Testing
+bertujuan
+untuk
+menemukan
+kesalahan agar dapat mengetahui fungsi dari
+sistem
+dapat
+berjalan
+dan
+bekerja
+sebagaimana mestinya [16]. Pengujian yang
+digunakan usability, dimana pengujian yang
+dilakukan untuk mengetahui pengguna apakah
+
+Gambar 1. Use Case Diagram Aplikasi
+Pencarian Guru Privat
+Dari diagram diatas dapat kita lihat bahwa
+sistem terbagi menjadi tiga hak akses yaitu
+
+74 | S T M I K D i a n C i p t a C e n d i k i a K o t a b u m i
+
+admin, guru dan murid. Admin dapat
+mengolah data guru, data murid, laporan.
+Murid dapat melakukan registrasi, melihat
+pencarian guru,data guru dan profile murid
+sedangkan guru juga dapat melakukan
+registrasi dan juga melihat profile .
+Setelah dilakukan desain langkah selanjutnya
+adalaha implementasi. Pada tahapan ini
+dilakukan pengodean berdasarkan dari desain
+seta analisis kebutuhan yang telah ditetapkan
+[17]. Pada penelitian ini, pengkodean
+menggunakan HTML5 serta Android
+Studio dan MYSQL sebagai database-nya.
+Untuk menggunakan aplikasi, diawali dengan
+halaman login. Pada halaman ini terdapat
+sebuah form login yang digunakan untuk
+memvalidasi user. Halaman ini juga terdapat
+dua button untuk melakukan registrasi guru
+dan juga siswa.
+
+Gambar 3. Tampilan Halaman Registrasi
+Setelah sudah registrasi dan login maka akan
+tampil halaman utama siswa. Menu ini
+merupakan sebuah tampilan yang berisi
+halaman awal yang akan ditampilkan pada user
+siswa saat pertama kali berhasil login.
+
+Gambar 2. Tampilan Halaman Login
+Apabila pengguna belum melakukan registrasi
+makan dapat melakukan registrasi pada halaman
+registrasi. Tampilan halaman registrasi adalah
+sebuah tampilan yang berisi form yang harus diisi
+oleh guru atau siswa agar dapat mengakses atau
+menggunakan aplikasi ini.
+
+Gambar 4. Tampilan Halaman Utama Siswa
+
+75 | S T M I K D i a n C i p t a C e n d i k i a K o t a b u m i
+
+Kemudian, siswa dapat melakukan pencarian
+guru privat melalui tampilan halaman
+pencarian guru privat. Tampilan ini adalah
+sebuah tampilan yang berisi list data guru privat
+yang ada atau telah terdaftar pada sistem.
+
+Setelah memilih guru yang sesuai, makan
+siswa dapat melakukan booking dengan
+melakukan pemesanan. Setelah sudah
+komunikasi dengan guru terkait jadwal,
+waktu dan biaya kursus dapat dimulai dilaur
+dari aplikasi.
+
+Gambar 5. Tampilan Pencarian Guru privat
+Siswa dapat melihat profil guru melalui
+tampilan halaman profile. Tampilan ini berisi
+tentang biodaata guru dari pendidikan sampai
+dengan pengalamanya.
+
+Gambar 7. Tampilan Halaman Booking
+Setelah sistem telah siap digunakan,
+selanjutnya sistem dilakukan pengujian.
+Pengujian dilakukan dengan menggunakan
+usability testing. Pada aspek Usability
+terdapat 4 sub-kriteria yaitu: understandbility
+(dapat dimengerti); learnbility (dapat
+dipelajari); operability (pengoperasian);
+attractiveness (daya tarik) [6]. Pengujian
+menggunakan kuesioner dengan butir
+pertanyaan berdasarkan standar usability
+yang terdiri dari sepuluh (10) pertanyaa.
+Responden yang mengisi kuesioner ada 20
+orang yang terdiri dari 15 calon siswa dan 5
+orang guru privat video editing. Berikut
+grafik persentase hasil pengujian.
+
+Gambar 6. Tampilan Halaman Profile Siswa
+
+76 | S T M I K D i a n C i p t a C e n d i k i a K o t a b u m i
+
+Setuju
+90%
+
+10%
+
+Guru
+dalam
+Memberikan
+Pelajaran Tambahan (LES) Bagi
+Peserta Didik Di Luar Jam
+Pelajaran Sekolah sebagai Wujud
+Implementasi Pengabdian Kepada
+Masyarakat,”
+in
+Prosiding
+Seminar Nasional Pendidikan
+Program
+Pascasarjana
+Universitas PGRI Palembang,
+2019, vol. 2, pp. 493–504.
+
+Tidak Setuju
+
+75%
+25%
+
+85%
+
+15%
+
+80%
+20%
+
+[2] M.
+
+Gambar 8. Hasil Pengujian Usability
+Dari uji usability testing yang menggunakan
+kuesioner memperlihatkan bahwa nilai rataratanya adalah 82,5%, dan masuk pada
+tingkatan baik. Berdasarkan pengelompokan
+persentase: Baik, dengan skala 76%-100%;
+Cukup, dengan skala 56%-75%; Kurang
+Baik, dengan skala 40%-55%, sedangkan
+Tidak Baik, dengan persentase kurang dari
+40% [18].
+4. KESIMPULAN
+Hasil dari penelitian yang dilakukan berupa
+pengembangan aplikasi pencarian guru privat
+berbasis Android dengan dikembangkan
+melalui metode pengembangan sistem extreme
+programming
+(XP)
+yang
+dapat
+mempertemukan antara siswa yang mencari
+guru privat dan guru privat yang mencari
+siswa. Pada aplikasi ini terdapat informasi dan
+profil dari guru privat dari pendidikan sampai
+dengan pengelemenya sehingga siswa dapat
+memilih guru privat editing video yang sesuai.
+Dari hasil pengujian dengan usability testing
+memperlihatkan
+bahwa
+sistem
+dapat
+digunakan dengan mudah dengan hasil ratarata 82,5% responden menyatakan “setuju”,
+dan masuk dalam kategori baik.
+Akan tetapi aplikasi yang dikembangkan
+masih banyak kekurangan Diantaranya adalah
+proses transaksi dan penjadwalan masih
+dilakukan diluar sistem. Untuk itu, saran untuk
+penelitian selanjutnya dapat mengembangkan
+aplikasi sampai dengan transaksi dan
+penjadwalan.
+DAFTAR PUSTAKA
+
+[1] O. Dwi Saputri and Rahmawati, “Peran
+
+Supriadi and L. V. Hignasari,
+“Pengembangan
+Media
+Pembelajaran Berbasis Virtual
+Reality Untuk Meningkatkan
+Hasil Belajar Peserta Didik
+Sekolah
+Dasar,”
+KOMIK
+(Konferensi Nas. Teknol. Inf. dan
+Komputer), vol. 3, no. 1, pp. 578–
+581, 2019.
+
+[3] R. A. Azdy and A. Rini, “Penerapan
+Extremen Programming Dalam
+Pembangunan Aplikasi Pengaduan
+Layanan Pelanggan (PaLaPa)
+Pada Perguruan Tinggi,” J.
+Teknol. Inf. dan Ilmu Komput.
+Vol., vol. 5, no. 2, pp. 197–206,
+2018.
+[4] E. B. Pratama, “Pendekatan Metodologi
+Extreme
+Programming
+pada
+Aplikasi e-Commerce Berbasis MCommerce Studi Kasus: Toko
+Buku An’Nur di Pontianak,” J.
+Khatulistiwa Inform., vol. V, no.
+2, pp. 92–102, 2017.
+[5] P.
+
+Purmasari,
+“Development
+of
+Information
+Systems
+Using
+Extreme Programming Method,”
+Inf. J. Ilm. Bid. Teknol. Inf. dan
+Komun., vol. 3, no. 2, pp. 95–99,
+2018.
+[6] R. I. Borman, A. T. Priandika, and A. R.
+Edison, “Implementasi Metode
+Pengembangan Sistem Extreme
+Programming (XP) pada Aplikasi
+Investasi Peternakan,” JUSTIN
+(Jurnal
+Sist.
+dan
+Teknol.
+Informasi), vol. 8, no. 3, pp. 272–
+277, 2020.
+[7] D.
+
+H.
+
+Pertiwi, “Metode Extreme
+Programming (XP) Pada Website
+
+77 | S T M I K D i a n C i p t a C e n d i k i a K o t a b u m i
+
+Sistem Informasi Franchise LKP
+Palcomtech,” J. Mikrotik, vol. 8,
+no. 1, pp. 86–98, 2018.
+[8] I. Ahmad, R. I. Borman, J. Fakhrurozi, and
+G. G. Caksana, “Software
+Development Dengan Extreme
+Programming (XP) Pada Aplikasi
+Deteksi Kemiripan Judul Skripsi
+Berbasis Android,” J. Invotek
+Polbeng - Seri Inform., vol. 5, no.
+2, pp. 297–307, 2020.
+[9] A. E. Kumala, R. I. Borman, and P.
+Prasetyawan, “Sistem Informasi
+Monitoring Perkembangan Sapi
+Di Lokasi Uji Performance (Studi
+Kasus : Dinas Peternakan Dan
+Kesehatan
+Hewan
+Provinsi
+Lampung),” J. Tekno Kompak,
+vol. 12, no. 1, p. 5, 2018.
+[10] R. I. Borman and H. Fauzi, “Penerapan
+Metode
+Perbandingan
+Eksponensial
+(MPE)
+Dalam
+Sistem Pendukung Keputusan
+Penerimaan
+Beasiswa
+Siswa
+Berprestasi Pada SMK XYZ,”
+CESS J. Comput. Eng. Syst. Sci.,
+vol. 3, no. 1, pp. 17–22, 2018.
+[11] R. I. Borman, I. Yasin, M. A. P. Darma, I.
+Ahmad, Y. Fernando, and A.
+Ambarwari, “Pengembangan Dan
+Pendampingan Sistem Informasi
+Pengolahan Pendapatan Jasa Pada
+PT. DMS Konsultan Bandar
+Lampung,” J. Soc. Sci. Technol.
+Community Serv., vol. 1, no. 2, pp.
+24–31, 2020.
+[12] R. D. Gunawan, T. Oktavia, and R. I.
+Borman, “Perancangan Sistem
+Informasi Beasiswa Program
+Indonesia Pintar (PIP) Berbasis
+Online (Tudi Kasus : SMA N 1
+Kota Bumi),” J. Mikrotik, vol. 8,
+no. 1, pp. 43–54, 2018.
+[13] Y. Wulandari and H. Sulistiani, “Rancang
+Bangun Aplikasi Presensi SMS
+
+Gateway Berbasis Web Dengan
+Framework Codeigniter Pada
+SMKN 1 Trimurjo,” J. Inform.
+dan Rekayasa Perangkat Lunak,
+vol. 1, no. 1, pp. 43–50, 2020.
+[14] M. Melinda, R. I. Borman, and E. R.
+Susanto, “Rancang Bangun Sistem
+Informasi Publik Berbasis Web
+(Studi Kasus : Desa Durian
+Kecamatan
+Padang
+Cermin
+Kabupaten Pesawaran),” J. Tekno
+Kompak, vol. 11, no. 1, p. 1, 2018.
+[15]
+
+R. I. Borman, D. A. Megawaty,
+and A. Attohiroh, “Implementasi
+Metode TOPSIS Pada Sistem
+Pendukung Keputusan Pemilihan
+Biji Kopi Robusta Yang Bernilai
+Mutu Ekspor ( Studi Kasus : PT .
+Indo Cafco Fajar Bulan Lampung
+),” Fountain Informatics J., vol. 5,
+no. 1, pp. 14–20, 2020.
+
+[16]
+
+R.
+
+I. Borman and I. Erma,
+“Pengembangan Game Edukasi
+Untuk Anak Taman Kanak-Kanak
+(TK) Dengan Implementasi Model
+Pembelajaran
+Visualitation
+Auditory Kinestethic (VAK),”
+JIPI (Jurnal Ilm. Penelit. dan
+Pembelajaran Inform., vol. 3, no.
+1, pp. 8–16, 2018.
+
+[17]
+
+T.
+
+Monica and R. I. Borman,
+“Implementasi Konsep Media
+Sosial Dalam Sistem Informasi
+Kegiatan
+Kesiswaan
+(Studi
+Kasus : SMK XYZ),” J. Tekno
+Kompak, vol. 11, no. 2, p. 33,
+2017.
+
+[18] M. H. Sayogo, “Penerapan Model
+Problem Based Learning Dalam
+Proses Pembelajaran Standar
+Kompetensi Mengukur Dengan
+Alat Ukur Mekanik Presisi Di
+Kelas X Smk Negeri Kudu
+Jombang,” J. Pendidik. Tek. Mesin
+UNESA, vol. 5, no. 02, pp. 84–90,
+2016.
+
+78 | S T M I K D i a n C i p t a C e n d i k i a K o t a b u m i
+
+

@@ -1,0 +1,792 @@
+Jurnal Geografi, Edukasi dan Lingkungan (JGEL), Vol. 2, No. 2, Juli 2018:87-96
+ISSN P: 2579 – 8499; E: 2579 – 8510
+Website: http://journal.uhamka.ac.id/index.php/jgel
+
+Pemanfaatan Data Pengamatan Cuaca Berbasis Data Penginderaan
+Jauh Dan Model Cuaca Numerik Untuk Prakiraan Cuaca Dalam
+Mengurangi Risiko Bencana Hidrometeorologi
+Aries Kristianto*, Immanuel Jhonson Arizona Saragih, Muhammad Ryan, Wulan
+Wandarana, Hensatiti Niken Pratiwi, Adelina Lumban Gaol, Khafid Pratama, dan
+Ejha Larasati Siadari
+Program Studi Meterologi, Sekolah Tinggi Meteorologi Klimatologi dan Geofisika, Jakarta
+*Email: aries.kristianto@stmkg.ac.id
+
+Received: 21 01 2018 / Accepted: 19 03 2018 / Published online: 25 07 2018
+ABSTRAK
+Cuaca ekstrem dengan intensitas curah hujan tinggi yang sering terjadi di tanah air
+menjadikan Indonesia memiliki ancaman terhadap bencana hidrometeorologi, seperti
+banjir, kekeringan, badai, dan tanah longsor. Terjadinya perubahan iklim
+mengindikasikan bahwa frekuensi kejadian cuaca ekstrem akan terus meningkat.
+Kejadian bencana hidrometeorologi memiliki dampak yang signifikan terhadap kondisi
+sosial dan ekonomi masyarakat yang terdampak. Mengingat besarnya dampak yang
+ditimbulkan, masyarakat dan pemerintah perlu meningkatkan kesiapsiagaan dalam
+menghadapi terjadinya bencana hidrometeorologi. Salah satu hal yang dapat dilakukan
+oleh BMKG adalah pengembangan teknologi monitoring dan prediksi kebencanaan
+hidrometeorologi, yaitu menggunakan data penginderaan jauh dan model numerik
+cuaca. Berdasarkan hal tersebut, tujuan kajian merupakan untuk menganalisis seberapa
+besar optimalisasi pemanfaatan data penginderaan jauh dan model cuaca numerik untuk
+keperluan prakiraan cuaca ekstrem. Hasil analisis menunjukkan bahwa data
+pengindaraan jauh dan data model numerik cuaca dapat digunakan secara optimal untuk
+keperluan prakiraan cuaca. Selain itu, masih perlu dilakukan pengembangan dan inovasi
+pemanfaatan data penginderaan jauh maupun model numerik cuaca untuk mendukung
+kegiatan pencegahan dan penanggulangan bencana, terutama di bagian
+diseminasi/penyaluran informasi peringatan dini cuaca ekstrem kepada pihak terkait
+maupun kepada masyarakat.
+Kata Kunci: Bencana Hidrometeorologis, Cuaca Ekstrem, Penginderaan Jauh, Model
+
+Numerik
+ABSTRACT
+Extreme weather with high intensity of rainfall that often occurs in the country makes
+Indonesia impact by hydrometeorological disasters, such as floods, droughts, storms,
+and landslides. The occurrence of climate change indicates that the frequency of
+extreme weather events will continue to increase. The incidence of hydrometeorological
+disasters has a significant impact on the social and economic conditions of affected
+communities. Given the magnitude of the impacts, communities and governments need
+to increase preparedness in the face of hydrometeorological disasters. One of the things
+87
+
+Jurnal Geografi, Edukasi dan Lingkungan (JGEL), Vol. 2, No. 2, Juli 2018:87-96
+ISSN P: 2579 – 8499; E: 2579 – 8510
+Website: http://journal.uhamka.ac.id/index.php/jgel
+that can be done by BMKG is the development of monitoring technology and
+hydrometeorology disaster prediction. It is using remote sensing data and weather
+numerical model. The aim of research was analyzed use of remote sensing data and
+numerical weather models for extreme weather forecasts. The result indicated that the
+remote sensing data and numerical weather models has been able to utilize optimally
+for weather forecasts. However, the methods are need improving and inovation to
+support disaster mitigation activity especially for early warning extreme weather for
+goverments and society .
+Hydrometeorological Disaster, Extreme Weather, Remote Sensing,
+Numerical Mode
+Keywords:
+
+PENDAHULUAN
+Bencana merupakan suatu peristiwa
+atau rangkaian peristiwa yang mengancam
+dan
+mengganggu
+kehidupan
+dan
+penghidupan masyarakat yang disebabkan,
+baik oleh faktor alam dan/atau faktor
+nonalam maupun faktor manusia sehingga
+mengakibatkan timbulnya korban jiwa
+manusia, kerusakan lingkungan, kerugian
+harta benda, dan dampak psikologis
+(Undang-Undang No. 24 Tahun 2007
+tentang
+Penanggulangan
+Bencana).
+Berdasarkan
+penyebabnya,
+bencana
+dibedakan menjadi bencana alam, becana
+nonalam, dan bencana sosial. Bencana alam
+adalah bencana yang diakibatkan oleh
+peristiwa atau serangkaian peristiwa yang
+disebabkan oleh alam antara lain berupa
+gempa bumi, tsunami, gunung meletus,
+banjir, kekeringan, angin topan, dan tanah
+longsor (UU No. 24 Tahun 2007).
+Pada bidang meteorologi, dikenal
+adanya bencana hidrometeorologi. Bencana
+hidrometeorologi merupakan bencana yang
+diakibatkan
+oleh
+parameter-parameter
+meteorologi/cuaca, diantaranya curah hujan,
+kelembapan udara, suhu udara, dan angin.
+Contoh bencana hidrometeorologi yang
+terjadi di Indonesia adalah kebakaran hutan,
+banjir, longsor, angin puting beliung, angin
+fohn, dan sebagainya. Menurut Badan
+Nasional Penanggulangan Bencana (BNPB),
+perubahan cuaca hanya merupakan pemicu
+terjadinya
+bencana
+hidrometeorologi,
+sedangkan penyebab utamanya adalah
+kerusakan lingkungan yang masif terjadi
+
+sebagai akibat peningkatan aktivitas manusia
+yang diikuti dengan penurunan daya dukung
+dan daya tampung lingkungan.
+Ditinjau dari frekuensi kejadiannya,
+banjir dan tanah longsor yang diakibatkan
+oleh curah hujan tinggi merupakan kejadian
+bencana hidrometeorologi yang sering
+terjadi di Indonesia. Curah hujan tinggi
+akibat kondisi cuaca ekstrem merupakan
+konsekuensi dari perubahan iklim. Namun,
+curah hujan yang tinggi bukan merupakan
+satu-satunya faktor penyebab terjadinya
+banjir di suatu wilayah. Faktor lingkungan,
+seperti infrastruktur sungai atau drainase
+yang buruk, penggundulan hutan, dan faktor
+lainnya sangat berpengaruh. Berdasarkan
+Gambar 1, data kejadian bencana di
+Indonesia tahun 2002 – 2016, frekuensi
+kejadian bencana tertinggi yaitu bencana
+hidrometerologi seperti: banjir, puting
+beliung, tanah longsor, dan kekeringan.
+(BNPB, 2016).
+
+Gambar 1.
+Grafik jumlah kejadian bencana di
+Indonesia periode tahun 2002-2016 (BNPB)
+
+88
+
+Jurnal Geografi, Edukasi dan Lingkungan (JGEL), Vol. 2, No. 2, Juli 2018:87-96
+ISSN P: 2579 – 8499; E: 2579 – 8510
+Website: http://journal.uhamka.ac.id/index.php/jgel
+data penginderaan jauh dan model cuaca
+numerik untuk keperluan prakiraan cuaca
+ekstrem pencegahan dan penanggulangan
+bencana.
+
+Gambar 2.
+Data jumlah kejadian bencana di
+Indonesia per tanggal 14 Juli 2016 (BNPB)
+
+Sesuai amanat dalam UU No. 31
+Tahun
+2009
+tentang
+Meteorologi,
+Klimatologi,
+dan
+Geofisika,
+Badan
+Meteorologi Klimatologi dan Geofisika
+(BMKG) merupakan satu-satunya lembaga
+negara yang berhak dan wajib melaksanakan
+penyelenggaraan meteorologi, klimatologi,
+dan geofisika. Salah satu tugas pokok dan
+fungsi BMKG adalah mendiseminasikan
+informasi peringatan dini cuaca ekstrem
+untuk keperluan antisipasi dan/atau mitigasi
+bencana sebagai bentuk partisipasi BMKG
+dalam
+mendukung
+pencegahan
+dan
+penanggulangan bencana di Indonesia.
+Sebagai tindak lanjut UU No. 31
+Tahun 2009, Kepala BMKG mengeluarkan
+Peraturan Kepala BMKG (Perka BMKG)
+No. Kep. 009 Tahun 2010 tentang Prosedur
+Standar Operasional Pelaksanaan Peringatan
+Dini, Pelaporan, dan Diseminasi Informasi
+Cuaca Ekstrem. Salah satu mandate BMKG
+dalam Perka BMKG No. Kep. 009 Tahun
+2010
+adalah
+diseminasi
+informasi
+meteorologi yang cepat (fast), tepat
+(precise), akurat (accurate), luas (wide
+coverage),
+dan
+mudah
+dipahami
+(understandable)
+serta
+dapat
+dipertanggungjawabkan.
+Untuk tujuan prakiraan cuaca dalam
+mengurangi risiko bencana hidrometeorologi
+memiliki berbagai metode salah satunya
+yaitu metode penginderaan jauh dan model
+numerik. Oleh karena itu, penelitian ini
+memiliki tujuan
+untuk
+menganalisis
+seberapa besar optimalisasi pemanfaatan
+
+METODE PENELITIAN
+Penelitian ini dilakukan dengan
+metode studi literatur terhadap hasil
+penelitian yang telah dilakukan oleh taruna/i
+STMKG,
+terkait
+pemanfaatan
+data
+pengamatan cuaca berbasis penginderaan
+jauh dan model cuaca numerik untuk
+prakiraan cuaca sebagai bentuk usaha
+mengurangi
+resiko
+bencana
+hidrometeorologi.
+HASIL DAN PEMBAHASAN
+Sistem Operasional Prakiraan Cuaca
+BMKG
+Saat
+ini,
+sistem
+operasional
+meteorologi BMKG secara garis besar
+dikelompokkan menjadi 3 bagian kegiatan,
+yaitu
+pengamatan
+meteorologi
+(observations); analisis dan pembuatan
+prakiraan
+cuaca
+(analysis,
+forecast,
+application); dan diseminasi produk
+prakiraan cuaca (end user products)
+(Gambar 3).
+
+Gambar 3.
+
+Sistem operasional meteorologi
+BMKG
+
+Secara umum, kondisi cuaca di
+wilayah tropis, termasuk Indonesia, adalah
+sulit untuk diprakirakan. Beberapa tantangan
+dalam kegiatan prakiraan cuaca yang
+menyebabkan hal tersebut adalah sebagai
+berikut.
+a.
+Kondisi massa udara relatif homogen
+(meliputi parameter suhu udara,
+89
+
+Jurnal Geografi, Edukasi dan Lingkungan (JGEL), Vol. 2, No. 2, Juli 2018:87-96
+ISSN P: 2579 – 8499; E: 2579 – 8510
+Website: http://journal.uhamka.ac.id/index.php/jgel
+
+b.
+
+c.
+d.
+
+tekanan udara, dan suhu permukaan
+laut/Sea Surface Temperature).
+Efek gangguan cuaca skala meso dan
+lokal
+sangat
+dominan
+(dinamika/perubahan kondisi atmosfer
+relatif cepat).
+Keterbatasan jaringan pengamatan
+meteorologi.
+Keterbatasan keakuratan prakiraan
+cuaca numerik (Numerical Weather
+Prediction) di wilayah tropis.
+
+Peningkatan akurasi prakiraan cuaca,
+saat ini BMKG mengkombinasikan data
+penginderaan jauh, data pengamatan
+permukaan dan udara atas, serta data
+prakiraan cuaca numerik menggunakan
+model cuaca. Data penginderaan jauh
+BMKG diperoleh dari data citra satelit dan
+data radar cuaca. Satelit cuaca yang saat ini
+dominan digunakan oleh BMKG dan
+STMKG adalah satelit Himawari-8 yang
+memiliki resolusi temporal 10 menit,
+sehingga
+mampu
+mengatasi
+dinamika/perubahan kondisi atmosfer yang
+relatif cepat. Selain itu, saat ini BMKG juga
+telah memasang 41 site radar cuaca yang
+tersebar di wilayah Indonesia untuk
+mengatasi keterbatasan jaringan pengamatan
+meteorologi.
+Berdasarkan
+tujuan
+pemanfaatannya, model cuaca numerik yang
+umum digunakan di BMKG maupun
+STMKG
+diklasifikasikan
+menjadi
+3
+kelompok, yaitu model reanalisis yang
+menggunakan data European Center for
+Medium-Range
+Weather
+Forecast
+(ECMWF) maupun data Final Analysis
+(FNL) dari NCEP/NCAR Global Reanalysis
+Products, model prakiraan cuaca yang
+menggunakan data Global Forecast System
+(GFS), serta model prakiraan gelombang.
+Model cuaca numerik yang sering digunakan
+adalah model Weather Research and
+Forecasting-Advanced
+Research
+WRF
+(WRF-ARW), model Wave Watch 3rd
+(WW3), maupun SWAN.
+
+Hasil Penelitian STMKG
+A. Peringatan dini tanah longsor berbasis
+model cuaca numerik dan Artificial
+Intelligence (AI)
+Longsor
+adalah
+berpindahnya
+bebatuan, tanah, atau bangunan/benda-benda
+di atas tanah ke arah bawah karena
+kemiringan dari tanah penampangnya.
+Longsor bisa disebabkan oleh hujan, gempa
+dan kejadian lainnya yang bisa membuat
+kemiringan tanah menjadi tidak stabil.
+Sebagian besar kejadian longsor disebabkan
+oleh tingginya curah hujan, dan faktor
+pemicu lain seperti struktur tanah,
+kemiringan tanah, vegetasi, bebean tanah,
+dan lain - lain.
+Tanah longsor bisa diklasifikasikan
+sesuai dengan tipe gerakan dan material
+yang dibawanya. Gabungan dari semua tipe
+atau beberapanya masuk kategori kompleks
+(Gambar 4).
+
+Gambar 4.
+Klasifikasi tanah longsor
+berdasarkan tipe gerakan dan material di bawahnya
+
+Berdasarkan kondisi lapangan sebab
+akibat terjadi longsor adalah kejadian yang
+non linear. Oleh karena itu, faktor-faktor
+penyebab longsor dan aktivitas gempa bumi
+di cari relasi non linearnya menggunakan
+model non linear seperti Jaringan Syaraf
+Tiruan. Menurut analsis jenis JST yang
+sering digunakan untuk estimasi kerentanan
+tanah longsor adalah Probabilistic Neural
+Network (PNN). Hal ini memanfaatkan
+gaussian kernel antara data masukan dan
+data training, persentase kerentanan tanah
+longsor bisa dihitung. Pada PNN, gaussian
+kernel adalah suatu fungsi yang menentukan
+prediksi atau klasifikasi kejadian di masa
+sekarang atau mendatang berdasarkan
+90
+
+Jurnal Geografi, Edukasi dan Lingkungan (JGEL), Vol. 2, No. 2, Juli 2018:87-96
+ISSN P: 2579 – 8499; E: 2579 – 8510
+Website: http://journal.uhamka.ac.id/index.php/jgel
+kemiripan kejadian dimasa lampau (Gambar
+5 dan 6)
+
+Gambar 5. Struktur PNN
+
+Gambar 6.
+Pengkategorian tanah longsor
+berdasarkan klasifikasi dari PNN (Ermini dkk., 2005)
+
+B. Identifikasi kejadian hujan lebat
+berbasis data penginderaan jauh dan
+model cuaca numerik
+Ningsih (2017), telah melakukan
+penelitian terhadap kejadian hujan lebat
+yang terjadi di Sampit pada tanggal 02 Juni
+2017
+menggunakan
+satelit
+MTSAT
+Himawari-8 dan model Weather Research
+and Forecasting (WRF). Satelit MTSAT
+Himawari-8 memanfaatkan dua jenis sensor
+imager, yaitu sensor visible (VIS) dan
+infrared (IR) dengan kanal (IR1-IR4).
+
+Citra satelit IR1 digunakan untuk
+mengetahui jenis awan berdasarkan suhu
+puncak awan, dimana suhu puncak awan
+yang sangat dingin pada umumnya
+mengindikasikan adanya konvektif kuat
+yang berpotensi menimbulkan hujan lebat.
+Citra VIS memberi informasi tambahan yang
+tidak bisa diperoleh dari citra IR.
+Contohnya, kabut dapat diamati dari citra
+VIS, tetapi tidak pada citra IR ketika kabut
+dan permukaan tanah memiliki suhu yang
+sama. Intensitas pada citra VIS bergantung
+pada albedo/reflektivitas dari permukaan
+atau awan.
+WRF-ARW
+merupakan
+model
+generasi lanjutan sistem prediksi cuaca
+numerik skala meso yang didesain untuk
+kebutuhan
+prediksi
+operasional
+dan
+penelitian atmosfer. Fenomena di atmosfer
+tidak semuanya bisa diselesaikan secara
+eksplisit dengan menggunakan persamaanpersamaan numerik karena fenomenafenoma di atmosfer memiliki skala spasial
+dan temporal lebih kecil dari skala grid dari
+model (sub-grid), sehingga model NWP
+menggunakan
+parameterisasi
+terhadap
+parameter cuaca yang perhitungannya tidak
+bisa dilakukan langsung dengan perhitungan
+matematis.
+C. Analisis output data satelit
+Berdasarkan citra satelit Himawari-8
+tersebut (Gambar 7) yang ditampilkan
+menggunakan aplikasi Satellite Animation
+and Interactive Diagnosis (SATAID)
+menunjukkan kondisi perawanan di wilayah
+Sampit selama 24 jam terdapat pertumbuhan
+awan. Pada tanggal 02 Juni 2017 wilayah
+Sampit ditutupi oleh awan rendah yang
+muncul sejak sore hari jam 09.00 UTC dan
+terus berkembang semakin tebal sampai jam
+12.00 UTC, kemudian menghilang dari jam
+12.00 UTC. Hal ini dapat diindikasikan
+terdapat
+awan
+Cumulonimbus
+yang
+terbentuk pada sore hari hingga malam hari.
+
+91
+
+Jurnal Geografi, Edukasi dan Lingkungan (JGEL), Vol. 2, No. 2, Juli 2018:87-96
+ISSN P: 2579 – 8499; E: 2579 – 8510
+Website: http://journal.uhamka.ac.id/index.php/jgel
+D.
+
+Gambar 7.
+Citra satelit Himawari-8 kanal IR1
+tanggal 02 Juni 2017 (06.00 UTC, 09.00 UTC, 12.00
+UTC dan 15.00 UTC)
+
+Analisis output data model cuaca
+numerik
+1). Analisis streamline lapisan 850 mb
+Hasil analisis streamline lapisan 850 mb
+(Gambar 9), yang ditunjukkan dengan
+lingkaran merah streamline pada tanggal
+02 Juni 2017 pada lapisan 850 mb. Pada
+tanggal 02 Juni 2017 pukul 00.00 sampai
+18.00 UTC menunjukkan adanya belokan
+angin dan konvergensi di wilayah Sampit,
+konvergensi kecepatan anginnya juga
+cenderung melemah yaitu berkisar 0–5
+m/s, sedangkan tanggal 03 Juni 2017
+pukul 00.00 UTC adanya divergensi
+(kecepatan angin meningkat) berkisar 520 m/s.
+
+Berdasarkan analisis klasifikasi jenis
+awan pada citra satelit Himawari (Gambar
+8), indikasi pertumbuhan awan yang
+signifikan dapat terlihat jelas ketika terjadi
+hujan jam 09.00 UTC hingga jam 12.00
+UTC sebagian wilayah Sampit ditutupi oleh
+awan konvektif yang diklasifikasikan
+sebagai awan tebal yang diindikasikan
+sebagai awan Cumulonimbus.
+
+Gambar 9.
+Streamline lapisan 850 mb tanggal
+02 Juni 2017 jam 00.00 UTC, 06.00 UTC, 12.00
+UTC, 18.00 UTC, 21.00 UTC dan tanggal 03 Juni
+2017 pukul 00.00 UTC
+
+Gambar 8.
+Klasifikasi jenis awan citra satelit
+Himawari-8 kanal IR1 tanggal 02 Juni 2017 (06.00
+UTC, 09.00 UTC, 12.00 UTC dan 15.00 UTC)
+
+2). Analisis kelembapan udara
+Berdasarkan analisis kelembapan
+udara (Gambar 10), profil vertikal
+kelembapan udara tanggal 02 Juni 2017 di
+lapisan permukaan sampai lapisan 850 mb
+nilai kelembapannya > 90% dari pukul 00.00
+UTC sampai 11.30 UTC. Pada pukul 11.30
+UTC sampai 00.00 UTC tanggal 03 Juni
+92
+
+Jurnal Geografi, Edukasi dan Lingkungan (JGEL), Vol. 2, No. 2, Juli 2018:87-96
+ISSN P: 2579 – 8499; E: 2579 – 8510
+Website: http://journal.uhamka.ac.id/index.php/jgel
+2017, nilai kelembapannya < 80 % di lapisan
+permukaan 850 mb.
+
+hujan ekstrem pada tanggal dan 02 Juni 2017
+kurang lebih berlangsung lama.
+4) Analisis vortisitas
+
+Gambar 10.
+Profil vertikal kelembapan udara
+tanggal 02 Juni 2017 di Sampit
+
+3). Analisis mixing ratio
+
+Gambar 11. Profil vertikal mixing ratio tanggal 02
+Juni 2017 di Sampit
+
+Berdasarkan analisis profil vertikal
+mixing ratio (Gambar 11), pada tanggal 02
+Juni 2017 hujan terjadi mulai pukul 05.00
+UTC sampai 15.00 UTC. Selanjutnya,
+terjadi hujan kembali dari pukul 23.00 UTC
+sampai 00.00 UTC tanggal 03 Juni 2017.
+Pada tanggal 02 Juni 2017, output WRF
+menunjukkan di setiap waktu udara
+cenderung basah, dengan keadaan atmosfer
+yang cukup basah tersebut, menunjukkan
+kondisi uap air yang cukup banyak untuk
+mendukung proses pembentukan awan-awan
+konvektif yang menyebabkan terjadinya
+
+Gambar 12. Profil vortisitas tanggal 02
+Juni 2017 di Sampit
+Profil
+vortisitas
+(Gambar
+12)
+menunjukan bahwa nilai vortisitas udara di
+wilayah Sampit dapat merepresentasikan
+kondisi udara di wilayah tersebut. Pada
+tanggal 02 Juni 2017 di sampit terjadi hujan
+dari pukul 05.00 UTC sampai pukul 15.00
+UTC. Selanjutnya, terjadi hujan kembali
+pukul 23.00 UTC sampai pukul 00.00 UTC
+tanggal 03 Juni 2017. Ouput WRF pada
+lapisan permukaan 1000 mb menunjukan
+nilai vortisitas negatif ketika hujan masih
+berlangsung sampai jam 12.00 UTC dengan
+nilai vortisitas -10x10-5 s-1 sampai -30x10-5
+s-1. Peluruhan sel awan hujan di mulai pada
+pukul 12.00 UTC sampai pukul 15.00 UTC
+di lapisan permukaan yang di tandai nilai
+vortisitas positif yaitu 10x10-5 s-1 sampai
+30x10-5 s-1. Pada lapisan atas 950 mb sampai
+lapisan 700 mb vortisitas bernilai negatif
+yang besar yaitu -20x10-5 s-1 sampai -50x105 -1
+s
+5)
+Deteksi siklon tropis menggunakan
+Teknik Dvorak
+Siklon tropis adalah sistem tekanan
+rendah yang terbentuk di atas perairan tropis
+yang hangat dan memiliki angin kencang
+(angin bertiup 63 km/jam atau lebih dan
+hembusan lebih dari 90 km/jam) di dekat
+93
+
+Jurnal Geografi, Edukasi dan Lingkungan (JGEL), Vol. 2, No. 2, Juli 2018:87-96
+ISSN P: 2579 – 8499; E: 2579 – 8510
+Website: http://journal.uhamka.ac.id/index.php/jgel
+pusat. Secara teknis mereka didefinisikan
+sebagai sistem tekanan rendah nonfrontal
+dengan skala sinoptik yang berkembang di
+atas perairan hangat yang memiliki konveksi
+terorganisir dan kecepatan angin rata-rata
+maksimum 34 knot atau lebih besar yang
+membentang lebih dari setengah jalan di
+sekitar pusat dan bertahan selama setidaknya
+enam jam.
+Secara umum, syarat terjadinya siklon
+tropis adalah sebagai berikut.
+a)
+Lautan yang luas.
+b)
+Umumnya di atas 10° LU/LS.
+c)
+Suhu muka laut >26,5° C.
+d)
+Shear
+vertikal
+antara
+lapisan
+permukaan dengan lapisan di atasnya
+lemah.
+e)
+Lapisan dekat permukaan sangat labil.
+Siklon tropis dapat memberikan
+dampak tidak lansung yaitu daerah yang
+dilintasi siklon terpengaruh oleh ekor siklon
+atau imbas dari keberadaan siklon utmanya
+yang terdekat dengan posisi siklon. Apabila
+ada siklon, maka terjadi perubahan atau
+dinamika atmosfer ataupun terjadi gangguan
+atmosfer seperti terbentuknya convergence,
+shear, strong convective, divergence, dan
+strong advection. Dampak langsung siklon
+tropis adalah terjadinya angin kencang,
+gelombang tinggi, hujan lebat disertai angin
+kencang. Dampak yang diakibatkan oleh
+siklon bergatung dari intesitas siklon dan
+jaraknya dengan daerah terdampak (Gambar
+13).
+
+Gambar 13.
+Tahap matang siklon tropis NockTen kategori 5 skala Saffir-Simpson yang ditandai
+dengan adanya mata badai
+
+Gambar 14. Grafik irisan melintang siklon
+tropis Nock-Ten kategori 5 skala SaffirSimpson
+
+Berdasarkan analisis Dvorak dapat
+diketahui bahwa intensitas maksimum dari
+siklon tropis Nock-Ten adalah TNumber
+yang mencapai angka 7.0 pada 25 Desember
+2016 jam 00.00 UTC. Penggunaan tabel
+Dvorak T- Number, dapat diketahui bahwa
+pada saat T-Number bernilai 7.0 maka super
+taifun Nock-Ten memiliki prakiraan nilai
+tekanan udara minimum di pusat siklonnya
+mencapai 898 mb. Prakiraan laju angin
+maksimum hingga 140 knots, ekuivalen
+dengan siklon tropis kategori 5 pada skala
+Saffir-Simpson (Ismail, dkk., 2017).
+6)
+
+Deteksi hujan es (hail) berbasis data
+radar cuaca
+
+Gambar 15.
+Tampilan produk CMAX pada
+kejadian hujan es di Jakarta tanggal 22 April 2014
+jam 08.30 UTC (a) dan tanggal 9 Februari 2015 jam
+10.28 UTC (b)
+
+94
+
+Jurnal Geografi, Edukasi dan Lingkungan (JGEL), Vol. 2, No. 2, Juli 2018:87-96
+ISSN P: 2579 – 8499; E: 2579 – 8510
+Website: http://journal.uhamka.ac.id/index.php/jgel
+Deteksi hujan es berbasis data radar
+cuaca dilakukan dengan mentode Severe
+Hail Index (SHI), berdasarkan hasil
+pengamatan radar cuaca Doppler (Ali dan
+Hidayati, 2015). Nilai SHI 30 menit sebelum
+kejadian hujan es di Jakarta menunjukkan
+nilai > 130 Jm-1 s-1 dan meningkat pada saat
+kejadian menjadi > 300 Jm-1 s-1. Nilai
+Probability of Severe Hail (POSH)
+menunjukkan kesesuaian antara perhitungan
+dengan hasil observasi di lapangan. Nilai
+POSH 20-30 menit sebelum kejadian
+menunjukkan nilai probabilitas > 50% dan
+meningkat menjadi > 80% pada saat
+kejadian hujan es (Gambar 15).
+KESIMPULAN
+Berdasarkan hasil penelitian ini
+diketahui bahwa STMKG sebagai wadah
+pengenalan dan pendidikan BMKG, telah
+memanfaatkan
+secara
+optimal
+data
+pengindaraan jauh dan data model numerik
+cuaca untuk keperluan prakiraan cuaca.
+Selain itu, masih perlu dilakukan
+pengembangan dan inovasi pemanfaatan
+data penginderaan jauh maupun model
+numerik cuaca untuk mendukung kegiatan
+pencegahan dan penanggulangan bencana,
+terutama di bagian diseminasi/penyaluran
+informasi peringatan dini cuaca ekstrem
+kepada pihak terkait maupun kepada
+masyarakat.
+DAFTAR PUSTAKA
+Ali, A., & Hidayati, S. (2015). Peringatan
+Dini Potensi Hujan Es Menggunakan
+Metode
+Severe
+Hail
+Index
+Berdasarkan Pengamatan Radar Cuaca
+Doppler. PROSIDING SEMINAR
+NASIONAL FISIKA (E-JOURNAL)
+(Vol. 4, pp. SNF2015-IX).
+Ermini, L., Catani, F., dan Casagli, N.
+(2005). Artificial neural networks
+applied to landslide susceptibility
+assessment. Geomorphology, 66(1-4),
+327-343
+
+Ismail, P., Hidayat, M. N., Siadari, E. L.
+(2017). Analisis Siklon Tropis NockTen Berbasis Data Satelit Himawari.
+Prosiding Seminar Hari Meteorologi
+Dunia STMKG 2017
+Kristianto, A., Saragih, I. J. A., Larasati, G.,
+dan Akib, K. (2017). Identifikasi
+Kejadian Hujan Es Menggunakan
+Citra Radar dan Satelit Cuaca.
+Prosiding
+PIT
+KE-5
+Riset
+Kebencanaan
+IABI
+Universitas
+Andalas, Padang
+Roguna, S., Saragih, I. J. A., Siregar, P. S.,
+& Julius, A. M. (2018). Analysis of
+Impact of Tropical Cyclone Blance on
+Rainfall at Kupang Region Based on
+Atmospheric Condition and Satellite
+Imagery.
+Journal
+of
+Physics:
+Conference Series (Vol. 1011, No. 1,
+p. 012021). IOP Publishing
+Saragih, I. J. A., Meygatama, A. G.,
+Sugihartati, F. M., Sidauruk, M., &
+Mulsandi, A. (2018). Study of
+atmospheric condition during the
+heavy rain event in Bojonegoro using
+weather research and forecasting
+(WRF) model: case study 9 February
+2017. IOP Conference Series:
+Materials Science and Engineering
+(Vol. 332, No. 1, p. 012025). IOP
+Publishing
+Saragih, I. J. A. (2017). Kajian Dinamika
+Atmosfer saat Kejadian Hujan Lebat di
+Wilayah Pesisir Timur Sumatera Utara
+Menggunakan Model WRF-ARW dan
+Citra Satelit Himawari-8. Unnes
+Physics Journal, 6(1), 25-30
+Tjasyono, B. (1991). Pertumbuhan Badai
+Tropis Dan Hubungannya Dengan
+Perairan Panas di Sekitar Indonesia.
+Jurnal Agromet Indonesia, 7(2)
+Perka BMKG No. Kep. 009 Tahun 2010
+tentang Prosedur Standar Operasional
+95
+
+Jurnal Geografi, Edukasi dan Lingkungan (JGEL), Vol. 2, No. 2, Juli 2018:87-96
+ISSN P: 2579 – 8499; E: 2579 – 8510
+Website: http://journal.uhamka.ac.id/index.php/jgel
+Pelaksanaan
+Peringatan
+Dini,
+Pelaporan, dan Diseminasi Informasi
+Cuaca Ekstrem
+Undang-Undang No. 24 Tahun 2007 tentang
+Pengangulangan Bencana
+Undang-Undang No. 31 Tahun 2009 tentang
+Meteorologi,
+Klimatologi,
+dan
+Geofisika
+BMKG, https://www.bmkg.go.id/ diakses
+pada tanggal 30 Mei 2018
+BNPB,
+https://www.bnpb.go.id/home
+/definisi diakses pada tangal 30 Mei
+2018
+
+96
+
+

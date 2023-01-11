@@ -1,0 +1,2298 @@
+Marine Fisheries
+
+P-ISSN 2087-4235
+E-ISSN 2541-1659
+
+Vol. 11, No. 1, Mei 2020
+Hal: 23-38
+
+KINERJA PELABUHAN PERIKANAN NUSANTARA KEJAWANAN CIREBON
+JAWA BARAT
+Performance of Kejawanan Nusantara Fishing Port Cirebon West Java
+Oleh:
+Agus Suherman1, Herry Boesono2, Faik Kurohman3, Abdul Kohar Mudzakir4
+Departemen Perikanan Tangkap, Fakultas Perikanan dan Ilmu Kelautan, Universitas Diponegoro. lpgsuherman2@gmail.com
+Departemen Perikanan Tangkap, Fakultas Perikanan dan Ilmu Kelautan, Universitas Diponegoro. herryboesono@gmail.com
+3 Departemen Perikanan Tangkap, Fakultas Perikanan dan Ilmu Kelautan, Universitas Diponegoro. faikkurohman@undip.ac.id
+4 Departemen Perikanan Tangkap, Fakultas Perikanan dan Ilmu Kelautan, Universitas Diponegoro. akohmud@gmail.com
+1
+
+2
+
+* Korespondensi: lpgsuherman2@gmail.com
+Diterima: 22 Juli 2020; Disetujui: 30 November 2020
+
+ABSTRACT
+The purpose of this study is to analyze operational activities and determinants of Kejawanan
+Nusantara Fishing Port (NFP) performance. This research was conducted from October 2019 to
+March 2020 at the Kejawanan NFP. Data analysis was performed using two methods; the first is a
+descriptive method which is to analyze the operational activities of Kejawanan NFP and the
+assessment of Kejawanan NFP Performance based on guidelines issued by General Director of
+Capture Fisheries Number 20/KEP-DJPT/ 2015; the second is the Structural Equation Model (SEM)
+method, which is to define the determinants of Kejawanan NFP performance. The results of this
+study indicate that the operational activities of Kejawanan NFP continue to increase. Ship visits
+during 2019 increased by 438 times. The production value of landed fish in 2019 was Rp
+147,301,194,670. Compared to 2018, production volume in 2019 decreased as many as 16.63%
+with the amount of 711.9 tonnes. On the other hand, production value from 2018 to 2019 also
+decreased by Rp 26,408,892,685. Performance assessment on 27 criterias based on guidelines
+issued by General Director of Capture Fisheries in 2015 showed that performance of Kejawanan
+NFP ranged between 70.25 and 86.5. During period of study from October 2019 to March 2020 the
+port showed well performances, with the best one was shown in November 2019. Based on SEM
+test results, internal variables have the most influence on Kejawanan NFP performance.
+Keywords: : Fishing Port, Kejawanan, Performance, Structural Equation Model (SEM)
+
+ABSTRAK
+Penelitian ini bertujuan menganalisis aktivitas dan kinerja operasional serta faktor-faktor
+penentu kinerja Pelabuhan Perikanan Nusantara Kejawanan. Penelitian ini dilaksanakan pada
+Oktober 2019 hingga Maret 2020 di PPN Kejawanan. Analisis data dilakukan dengan dua metode;
+pertama metode deskriptif yaitu untuk menganalisis aktivitas operasional dan penilaian kinerja
+operasional berdasarkan Keputusan Direktur Jenderal Perikanan Tangkap tahun 2015 Nomor
+20/KEP-DJPT/ 2015; kedua metode Structural Equation Model (SEM) untuk mengetahui faktor-faktor
+penentu kinerja PPN Kejawanan. Hasil penelitian menunjukkan bahwa aktivitas operasional PPN
+Kejawanan terus mengalami peningkatan. Frekuensi kunjungan kapal pada tahun 2019 adalah 434
+kali. Nilai Produksi ikan yang didaratkan di PPN Kejawanan pada tahun 2019 sejumlah Rp
+147.301.194.670,-. Produksi tahun 2019 bila dibandingkan dengan nilai produksi tahun 2018
+mengalami penurunan sebesar 16,63 % atau setara dengan 711,09 ton, sedangkan nilai produksi
+juga mengalami penurunan dibanding tahun 2018 yaitu sebesar Rp 26.408.892.685,-. Penilaian
+kinerja terhadap 27 kriteria berdasarkan pedoman yang ditetapkan oleh Direktur Jenderal Perikanan
+
+24
+
+Marine Fisheries 11(1): 23-38, Mei 2020
+
+Tangkap tahun 2015 bahwa kinerja operasional PPN Kejawanan adalah sebesar 70,25 – 86,50.
+Selama Oktober 2019 hingga Maret 2020 pelabuhan menunjukkan kinerja baik bahkan pada
+November 2019 kinerjanya sangat baik. Berdasarkan hasil pengujian SEM, internal variabel
+mempunyai pengaruh paling besar terhadap kinerja PPN.
+Kata kunci: Pelabuhan Perikanan, Kejawanan, Kinerja, Structural Equation Model (SEM)
+
+PENDAHULUAN
+Pelabuhan perikanan (PP) memiliki nilai
+strategis untuk pengembangan usaha perikanan
+dan nelayan (Suherman, 2007; Gumilang dan
+Susilawati 2019). Prospek pembangunan PP
+adalah terlaksananya pemerataan pembangunan, perluasan kesempatan kerja dan berkurangnya arus urbanisasi. Hal ini akan meningkatkan taraf hidup dan kesejahteraan rakyat
+pada umumnya dan nelayan pada khususnya.
+Sebagaimana diatur dalam KEPMEN KP Nomor
+6/Kepmen-KP/2018, PP merupakan tempat
+yang terdiri atas daratan dan perairan di
+sekitarnya dengan batas-batas tertentu sebagai
+tempat kegiatan pemerintahan dan kegiatan
+sistem bisnis perikanan yang digunakan sebagai
+tempat kapal perikanan bersandar, berlabuh,
+dan/atau bongkar muat ikan yang dilengkapi
+dengan fasilitas keselamatan pelayaran dan
+kegiatan penunjang perikanan. Apabila fungsi
+pemerintahan dan sistem bisnis perikanan
+tersebut berjalan dengan baik, maka PP akan
+berdaya guna sebagai pusat aktivitas industrialisasi kelautan perikanan yang akan memberikan dampak pada peningkatan pertumbuhan
+ekonomi domestik dan pengentasan kemiskinan. Pelabuhan perikanan yang berfungsi
+dengan baik akan merupakan titik temu (terminal
+point) yang menguntungkan antara kegiatan
+ekonomi di laut dengan kegiatan ekonomi di
+darat (Lubis dan Pane 2012; Lubis dan Pane
+2017; Purnomo et al. 2003; Suherman 2010;
+Suherman dan Dault, 2009; Suherman 2011).
+PPN Kejawanan terletak di Kelurahan
+Lemah Wungkuk, Kota Cirebon, tepatnya pada
+posisi 060-44’-14” LS/1080-34’-53” BT, dan telah
+dilengkapi dengan berbagai sarana seperti sarana pokok, sarana fungsional dan sarana tambahan/penunjang. Secara geografis lokasi PPN
+Kejawanan sangat strategis karena merupakan
+pintu gerbang Jawa Barat bagian timur dan
+dengan mudah menghubungkan daerah pemasaran potensial yaitu Bandung dan Jakarta
+sekaligus sebagai pintu gerbang keluar masuknya arus komoditi barang ekspor impor yang
+berfungsi sebagai pusat perdagangan dan
+industri serta wisatawan domestik maupun asing
+ke Cirebon (Widagdo 2015). PPN Kejawanan
+merupakan salah satu dari dua PPN Tipe B yang
+
+ada di Jawa (Ruswandi dan Gartika 2013;
+Sudirman et al. 2013). Mengingat perannya
+yang sangat strategis dalam pengembangan
+ekonomi wilayah, kinerja PPN Kejawanan perlu
+dikaji dan ditingkatkan agar dapat memberikan
+pelayanan terbaik.
+Beberapa penelitian terkait dengan kinerja PPN Kejawanan telah dilakukan sebelumnya,
+antara lain dilakukan oleh Ramadhani et al.
+(2015) yang mengukur tingkat pemanfaatan
+fasilitas dan strategi pengembangan PPN
+Kejawanan. Penelitian lain juga dilakukan oleh
+Bayyinah et al. (2016) yang mengkaji mengenai
+kepuasan nelayan terhadap pelayanan PPN
+Kejawanan Cirebon, menggunakan pendekatan
+Importance and Performance Analysis (IPA)
+dan Customer Statisfaction Index (CSI)
+dengan 15 atribut penilaian. Selain itu, analisis
+tingkat kepuasan nelayan terhadap pelayanan
+kesyahbandaran juga telah dilakukan oleh
+Supriadi dan Fitri (2019). Selanjutnya,
+Juhaeriyah et al. (2018) telah melakukan kajian
+mengenai perkembangan PPN Kejawanan dan
+kontribusinya terhadap pemberdayaan sosial
+ekonomi masyarakat nelayan Kota Cirebon,
+1994-2011. Sementara itu, Gumilang dan
+Susilawati (2019) telah meneliti terkait analisis
+rantai pasok dalam distribusi hasil tangkapan
+berbasis komoditas unggulan di PPN
+Kejawanan.
+Berdasarkan pada penelitian yang telah
+ada sebelumnya, area pengukuran kinerja yang
+masih belum dilakukan adalah kinerja pengelolaan atau manajemen pelabuhan dalam menjalankan fungsinya. Sehingga, perlu adanya
+sebuah penelitian yang bertujuan untuk menganalisis aktivitas dan kinerja serta mengetahui
+faktor-faktor penentu kinerja PPN Kejawanan.
+
+METODE
+Penelitian ini dilaksanakan pada Oktober
+2019 hingga Maret 2020 di PPN Kejawanan
+dengan memanfaatkan data kuantitatif dan
+kualitatif. Analisis data dilakukan dengan dua
+metode; pertama metode deskriptif untuk menganalisis kinerja PPN Kejawanan (sebagai tujuan
+pertama dari penelitian ini) dan kedua metode
+Structural Equation Model (SEM) yaitu untuk
+
+Suherman et al. – Kinerja Pelabuhan Perikanan …..
+
+mengetahui faktor-faktor penentu kinerja PPN
+Kejawanan. Metode deskripsi dilakukan dengan
+membuat paparan berdasarkan data aktivitas
+operasional (meliputi kunjungan kapal perikanan, data produksi, nilai produksi, penyaluran logistik) PPN Kejawanan, dilanjutkan dengan menilai kinerja operasional berdasarkan Keputusan
+Direktur Jenderal Perikanan Tangkap tahun
+2015 Nomor 20/KEP-DJPT/ 2015. Selanjutnya,
+SEM digunakan dalam menganalisis dan
+mengintrepretasikan data yang telah disesuaikan dengan model yang dikembangkan dalam
+penelitian menggunakan program AMOS 2.2
+(Ghozali 2014). Alat analisis ini dipilih karena
+kemampuannya dalam menguji proses yang
+rumit yang dirangkai secara berhubungan
+(Ferdinand 2006; Deng et al. 2013; Gonçalves
+dan Assumpção 2016; Munim et al. 2018;
+Sharapiyeva et al. 2019; Roring et al. 2020).
+Tahapan proses analisis data menggunakan
+SEM sebagai berikut: mengembangkan model
+berdasar teori; menyusun diagram jalur; menyusun persamaan struktural; memilih jenis input
+matriks dan estimasi model yang diusulkan;
+menilai identifikasi model struktural; menilai kriteria goodness-of-fit; serta menginterpretasi dan
+memodifikasi model.
+Populasi yang menjadi subyek penelitian ialah nelayan, pedagang ikan, pengolah
+ikan dan mitra kerja, serta pegawai PPN
+Kejawanan. Pengumpulan data primer dibantu
+dengan menggunakan daftar kuesioner. Jumlah
+sampel minimum yang dibutuhkan untuk penelitian ini dihitung berdasarkan jumlah indikator
+dan kriteria sampel minimum SEM. Analisis
+SEM membutuhkan sampel sebanyak paling
+sedikit 5 kali jumlah indikator. Jumlah indikator
+yang akan diteliti adalah 20, sehingga jumlah
+minimum respondennya adalah 100 orang (dari
+20 dikali 5). Pada pengujian Chisquere model
+SEM yang sensitif terhadap jumlah sampel
+dibutuhkan sampel yang baik berkisar antara
+100-200 sampel untuk teknik maximum
+likelihood estimation (Ferdinand 2014). Sampel
+yang digunakan dalam penelitian ini sebanyak
+138 responden dan sesuai dengan prosedur
+estimasi Maximum Likehood Estimation Method
+(MLE) mengenai sampel minimum yang diajukan adalah berkisar antara 100 sampai 200
+responden, maka jumlah sampel tersebut telah
+terpenuhi
+
+HASIL
+Aktivitas Operasional
+Kapal perikanan yang datang ke PPN
+Kejawanan terdiri atas kapal-kapal yang bertujuan antara lain: untuk bongkar/pendaratan
+hasil tangkapan ikan, mengisi perbekalan, per-
+
+25
+
+baikan/docking, istirahat serta kapal-kapal yang
+berlindung saat gelombang besar. Frekuensi
+kunjungan kapal perikanan di PPN Kejawanan
+pada tahun 2019 sejumlah 434 kali. Jumlah ini
+mengalami peningkatan 17% dibandingkan
+dengan frekuensi kunjungan kapal pada tahun
+2018 dengan jumlah kunjungan 371 kali
+(Gambar 1). Hal ini dipengaruhi oleh bertambahnya jumlah kapal domisili PPN Kejawanan
+pada tahun 2019. Frekuensi kunjungan kapal
+berdasarkan jenis alat penangkap ikan pada
+tahun 2019 masih didominasi oleh kapal dengan
+alat penangkap ikan (API) bouke ami yakni
+sejumlah 262 kali kunjungan atau 60,4% dari
+total jumlah kunjungan kapal pada tahun 2018.
+Jumlah tersebut mengalami peningkatan apabila
+dibandingkan dengan jumlah kunjungan tertinggi
+pada tahun 2018 yang juga bouke ami
+(sebanyak 197 kali). Hal ini disebabkan oleh
+bergantinya jenis alat penangkap ikan dan
+ukuran kapal setelah program dari pemerintah
+untuk pelaksanaan pengukuran ulang kapal.
+Berdasarkan klasifikasi ukuran GT,
+frekuensi kunjungan kapal tertinggi di PPN
+Kejawanan selama tahun 2019 didominasi oleh
+kapal dengan ukuran ≥ 51 GT sebanyak 51,6%.
+Frekuensi kunjungan kapal tertinggi terjadi pada
+bulan Oktober yaitu 55 kali. Hal ini karena
+banyak kapal datang setelah trip penangkapan
+ikan kedua tahun 2019. Jumlah kapal yang
+mendaratkan hasil tangkapan pada tahun 2019
+yakni 302 kali, mengalami peningkatan 7,1%
+dibandingkan jumlah kapal yang melakukan
+kegiatan bongkar pada tahun 2018 yang
+sejumlah 282 kali (Gambar 1).
+Berdasarkan dokumen laporan tahunan
+PPN Kejawanan (2019) menyebutkan bahwa
+jumlah kapal ikan yang melakukan pendaratan
+ikan jumlahnya dapat lebih banyak, namun sejak
+19 Nopember 2019 kapal-kapal di PPN
+Kejawanan melakukan boikot tidak mau bongkar
+di PPN Kejawanan. Hal ini terkait dangan
+berlakunya Peraturan Wali Kota Cirebon Nomor
+40 Tahun 2019 Tentang Perubahan Atas
+Peraturan Wali Kota Cirebon Nomor 57 Tahun
+2011 Tentang Petunjuk Pelaksanaan Peraturan
+Daerah Kota Cirebon. Sehingga, berimbas
+kepada sampai dengan akhir tahun 2019 tidak
+ada kapal perikanan yang mendaratkan hasil
+tangkapannya di PPN Kejawanan.
+Kapal domisili PPN Kejawanan mengalami kenaikan jumlah dan jenis API yang digunakan, dari 181 unit pada tahun 2018 menjadi
+2019 unit pada tahun 2019, atau mengalami
+peningkatan 21%. Jenis API bouke ami
+merupakan jenis alat penangkap ikan dominan,
+dengan jumlah 120 unit (55% dari total kapal
+domisili tahun 2019). Berdasarkan klasifikasi GT
+
+Marine Fisheries 11(1): 23-38, Mei 2020
+
+26
+
+nya, kapal-kapal di PPN Kejawanan berada
+pada kisaran 21-196 GT. Kapal ukuran 31-60 GT
+mendominasi sebanyak 43% (94 unit kapal).
+Selain itu, terdapat 7 unit kapal andon di PPN
+Kejawanan dengan kisaran ukuran 20-30 GT
+Produksi ikan yang didaratkan di PPN
+Kejawanan pada tahun 2019 mencapai 3.565,03
+ton dengan rincian produksi per jenis alat
+penangkap ikan (API) seperti yang diilustrasikan
+pada Gambar 2. Gambar tersebut menunjukkan
+bahwa jaring insang hanyut dasar/liong bun
+sebesar 185,14 ton, jaring cumi/bouke ami
+sejumlah 1.794,08 ton, pancing cumi sejumlah
+
+462,28 ton, cast net sejumlah 935,94 ton, pukat
+cincin pelagis besar sejumlah 135,49 ton serta
+produksi pukat cincin pelagis kecil sebanyak
+50,90 ton. Sementara itu, total produksi ikan
+yang didaratkan di PPN Kejawanan adalah
+9.981 ton, angka tersebut sudah termasuk produksi ikan yang didatangkan dari luar pelabuhan. Bila dibandingkan dengan produksi pada
+tahun 2018, produksi ikan yang didaratkan di
+PPN Kejawanan mengalami penurunan sebesar
+16,63% atau sebanyak 711,09 ton. Produksi
+ikan yang didaratkan di PPN Kejawanan dapat
+dilihat pada Gambar 3.
+
+900
+800
+700
+
+Kali
+
+600
+500
+400
+300
+200
+100
+2005
+
+2007
+
+2009
+
+2011
+
+Kunjungan Kapal
+
+2013
+
+2015
+
+2017
+
+2019
+
+Pendaratan Ikan
+
+Gambar 1 Kunjungan dan Frekuensi Pendaratan Kapal Perikanan di PPN Kejawanan Tahun 2005 - 2019
+
+2,000,000
+1,800,000
+1,600,000
+1,400,000
+1,200,000
+1,000,000
+800,000
+600,000
+
+400,000
+200,000
+0
+Gill Net
+
+Bouke Ami Cast Net
+
+Pancing
+Cumi
+
+Purse
+Seine
+Pelagis
+Besar
+
+Purse
+Seine
+Pelagis
+Kecil
+
+Gambar 2 Produksi Ikan per Jenis Alat Penangkap Ikan pada Tahun 2019 di PPN Kejawanan.
+
+Suherman et al. – Kinerja Pelabuhan Perikanan …..
+
+27
+
+12,000
+10,000
+
+Ton
+
+8,000
+6,000
+4,000
+2,000
+2005
+
+2007
+
+2009
+
+2011
+
+Total Produksi Ikan
+
+2013
+
+2015
+
+2017
+
+2019
+
+Total Produksi Ikan yang Didaratkan
+
+Total Produksi Ikan dari Perusahaan
+
+Gambar 3 Produksi ikan yang di daratkan di PPN Kejawanan dari Tahun 2005 – 2019.
+
+Nilai Produksi
+
+Penyaluran Air Tawar Bersih
+
+Nilai produksi ikan yang didaratkan di
+PPN Kejawanan pada tahun 2019 sejumlah Rp
+147.301.194.670,-. Nilai produksi tersebut mengalami
+penurunan
+sebesar
+Rp
+26.408.892.685,- dibandingkan tahun 2018.
+
+Jumlah air bersih yang disalurkan di PPN
+Kejawanan pada tahun 2019 sebanyak
+4.075.000 liter, atau mengalami peningkatan
+48,5% apabila dibandingkan dengan penyaluran
+air pada 2018 yang hanya 2.745.000 liter. Pada
+tahun 2019 tercatat 452 kapal mendapatkan
+pelayanan jasa pengisian perbekalan air bersih
+(Gambar 5).
+
+Nilai produksi ikan yang didaratkan
+ditambah dengan nilai produksi ikan dari luar
+pelabuhan di PPN Kejawanan pada tahun 2019
+yaitu Rp 608.433.860,-. Apabila dibandingkan
+dengan nilai produksi ikan pada tahun 2018
+yang mencapai Rp 532.765.235,-, maka pada
+tahun 2019 nilai produksinya mengalami
+peningkatan sebesar 12,5%. Nilai produksi mengalami perubahan setiap bulannya bahkan
+perharinya. Hal ini disebabkan oleh harga ikan
+yang berfluktuasi di lapangan, bergantung
+kepada jenis ikan, ketersediaan stok ikan, mutu
+ikan dan musim. Fluktuasi nilai produksi ikan
+dapat dilihat pada Gambar 4.
+
+Perbekalan
+Perbekalan kapal perikanan merupakan
+kelengkapan yang harus terpenuhi untuk
+operasional penangkapan ikan. Perbekalan
+untuk kapal perikanan mencakup BBM, air tawar
+bersih, bahan makanan, es dan umpan. Namun
+es bukan merupakan konsumsi untuk perbekalan kapal perikanan di PPN Kejawanan karena
+kapal-kapal perikanan di PPN Kejawanan sudah
+dilengkapi dengan freezer sehingga tidak membutuhkan es untuk menjaga kualitas ikan hasil
+tangkapan. Begitu pula dengan umpan, API
+yang digunakan kapal-kapal perikanan di PPN
+Kejawanan yaitu bouke ami, gillnet liong bun,
+gillnet oseanik, dan purse seine tidak memanfaatkan umpan.
+
+Perbekalan Bahan Makanan
+Perbekalan bagi kapal-kapal yang hendak
+melaut mencakup keperluan pangan Anak Buah
+Kapal (ABK), bahan bakar minyak dan stok air
+tawar bersih. Keperluan perbekalan untuk melaut bagi kapal-kapal perikanan, khususnya bahan pangan yang digunakan untuk memenuhi
+kebutuhan pangan perkapalnya sebagian besar
+diperoleh dari luar kawasan pelabuhan dan selama ini telah difasilitasi oleh pemilik atau pengurus kapal.
+
+Bahan Bakar Minyak (BBM)
+PPN Kejawanan melayani pengisian BBM
+subsidi dan non subsidi untuk kapal perikanan.
+Pada Januari 2019 terdapat tiga penyalur BBM
+resmi di PPN Kejawanan, namun sejak dilaksanakan pasar bebas di PPN Kejawanan mulai
+bulan November 2019, jumlah penyalur BBM
+yang dapat melayani kebutuhan perbekalan
+kapal perikanan tidak dibatasi. Berdasarkan
+data yang dihimpun, diketahui bahwa saat
+penelitian dilakukan terdapat 6 penyalur BBM di
+PPN Kejawanan. Jumlah ini dapat terus
+bertambah selama penyalur BBM memenuhi
+persyaratan yang ditetapkan oleh pihak PPN
+
+Marine Fisheries 11(1): 23-38, Mei 2020
+
+28
+
+Kejawanan, salah satunya yaitu adanya faktur
+pajak dan pakta integritas. Pelayanan rekomendasi BBM bersubsidi mengacu kepada Perpres
+No. 191 Tahun 2014. Pada tahun 2019 penyaluran BBM di PPN Kejawanan mencapai 8.762
+ton, meningkat signifikan dari tahun 2018 yang
+hanya mencapai 4.883 ton (Gambar 6).
+
+yang hidup, tumbuh berusaha dan berkembang
+di kawasan pesisir, yakni suatu kawasan transisi
+antara wilayah darat dan laut. Jumlah nelayan
+yang melakukan aktivitas dalam kurun 2005
+hingga 2019 dapat dilihat pada Gambar 7, yang
+menunjukkan bahwa jumlah nelayan terbesar
+diperoleh pada tahun 2019 dan terkecil pada
+tahun 2007.
+
+Masyarakat nelayan adalah masyarakat
+700,000,000
+
+600,000,000
+
+Ribu Rp
+
+500,000,000
+
+400,000,000
+
+300,000,000
+
+200,000,000
+
+100,000,000
+
+0
+2005
+
+2007
+
+2009
+
+2011
+
+Total Nilai Produksi Ikan
+
+2013
+
+2015
+
+2017
+
+2019
+
+Total Nilai Produksi Ikan yang Didaratkan
+
+Total Nilai Produksi Ikan dari Perusahaan
+
+Gambar 4 Nilai Produksi Ikan di PPN Kejawanan dari Tahun 2005 – 2019.
+350,000
+300,000
+250,000
+
+Ton
+
+200,000
+150,000
+100,000
+50,000
+2005
+
+2007
+
+2009
+
+2011
+2013
+Tahun
+
+2015
+
+2017
+
+Gambar 5 Penyaluran air bersih di PPN Kejawanan dari Tahun 2005 – 2019.
+
+2019
+
+Suherman et al. – Kinerja Pelabuhan Perikanan …..
+
+29
+
+10,000
+9,000
+8,000
+7,000
+
+Ton
+
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+2005
+
+2007
+
+2009
+
+2011
+2013
+Tahun
+
+2015
+
+2017
+
+2019
+
+Gambar 6 Penyaluran BBM di PPN Kejawanan dari Tahun 2005 – 2019.
+
+4,500
+4,000
+3,500
+
+Orang
+
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+2005
+
+2007
+
+2009
+
+2011
+2013
+Tahun
+
+2015
+
+2017
+
+2019
+
+Gambar 7 Perkembangan Nelayan di PPN Kejawanan dari Tahun 2005 - 2019
+
+Nilai
+Kinerja
+Operasional
+Untuk
+Parameter Direktorat Jenderal Perikanan
+Tangkap
+
+kinerja yang baik, sementara itu hasil
+penilaian kinerja sangat baik diperoleh pada
+bulan November 2019.
+
+Hasil penilaian kinerja operasional di
+PPN Kejawanan bulan Oktober 2019-Maret
+2020 berpedoman pada Keputusan Direktur
+Jenderal Perikanan Tangkap Nomor 20/KEPDJPT/ 2015 disajikan pada Tabel 1. Penilaian
+kinerja terhadap 27 kriteria tersebut menunjukkan bahwa kinerja operasional PPN
+Kejawanan berkisar antara 70,25-86,50.
+Secara umum, selama periode Oktober 2019
+hingga Maret 2020 pelabuhan menunjukkan
+
+Faktor-Faktor Kinerja PPN Kejawanan
+Model path diagram menggambarkan
+adanya modifikasi model untuk mencapai
+model yang fit (Gambar 8). Dalam model
+tersebut digambarkan pengaruh setiap indikator yang membentuk definisi operasio-nal
+variabel sebagaimana tersaji pada Tabel 2.
+Kemudian dilakukan analisis faktor konfirmatori konstruk Full Model yang menunjukkan
+
+Marine Fisheries 11(1): 23-38, Mei 2020
+
+30
+
+bahwa model tersebut telah memenuhi kriteria fit (Tabel 3), hal ini ditandai dengan nilai
+hasil perhitungan terhadap tiap-tiap indeks
+goodness-of-fit yang telah memenuhi kriteria
+yang ditentukan. Hasil pengujian hipotesis
+dapat dilihat pada Tabel 4, semua hipotesis
+diterima kecuali H6 Kebijakan pemerintah
+berpengaruh positif dan signifikan kinerja
+PPN.
+Berdasarkan hasil pengujian regression weight pada Tabel 4 menggambarkan
+bahwa H1, H2, H3, H4, H5, H6, H7, dan H8
+dinyatakan diterima, karena memiliki nilai
+Critical Ratio (C.R.) di atas 1,96 dan
+Probabilitas di bawah 0,05. H6 dinyatakan
+ditolak karena nilai Critical Ratio (C.R.) di
+bawah 1,96 dan Probabilitas di atas 0,05.
+Selanjutnya untuk mengetahui besarnya nilai
+pengaruh setiap indikator atau dimensi
+pembentuk masing-masing variabel laten dan
+pengaruh antar variabel dapat dianalisis
+dengan koefisien standardized pada hasil uji
+standardized regression weights konstruk full
+model pada Tabel 5.
+Model persamaan struktural berdasarkan hasil tersebut dapat ditulis sebagai
+berikut:
+Variabel
+Endogen
+Internal
+
+=
+=
+
+Variabel Eksogen +
+Error
+0,211 Kebijakan
+Pemerintah + 0,045 ζ
+
+Pelayanan
+PPN
+Kebijakan
+Pemerintah
+Kinerja PPN
+
+0,713 Internal+ 0,212
+Eksternal + 0,570 ζ
+= 0,273 Eksternal +
+0,075 ζ
+= 0,410 Internal + 0,195
+Eksternal + 0,411
+Pelayanan PPN 0,212 Kebijakan
+Pemerintah + 0,619 ζ
+Berdasarkan Tabel 5 dan persamaan
+model tersebut dapat dilihat bahwa setiap
+indikator atau dimensi pembentuk masingmasing variabel laten memiliki pengaruh
+positif dan negatif dengan hasil koefisien
+standardized dari terendah 0,211 hingga
+tertinggi 0,713. Selanjutnya, dalam hubungan
+antar variabel dapat diketahui bahwa
+pengaruh terbesar adalah pengaruh variabel
+Internal terhadap variabel Pelayanan dengan
+koefisien standaridized 0,713, yang artinya
+ketika variabel Internal naik 1, maka akan
+menaikkan variabel Pelayanan sebesar
+0,659. Variabel terbesar yang mempengaruhi
+variabel Kinerja adalah variabel Internal
+dengan koefisien standaridized 0,410, yang
+artinya ketika variabel Internal naik 1 maka
+akan menaikkan variabel Kinerja sebesar
+0,410. Selain itu, variabel Kebijakan Pemerintah berpengaruh negatif dan signifikan
+terhadap variabel Kinerja PPN dengan
+koefisien standaridized -0,212, yang artinya
+ketika variabel Kebijakan Pemerintah naik 1
+maka akan menurunkan variabel Kinerja PPN
+sebesar 0,212.
+
+Gambar 8 Model Path Diagram
+
+=
+
+2
+
+1
+
+5,00
+Baik
+75,00
+
+Ya/Tidak
+Ya/Tidak
+%
+Rp (ratusan juta)
+Kelengkapan
+GT
+m
+cm
+Ada/Tidak Ada
+Kelengkapan
+ha
+GT
+Ton/Hari
+Unit
+%
+Jumlah Kegiatan
+Jumlah Kegiatan
+Hasil
+%
+%
+%
+Unit
+%
+Orang/Bulan
+Perusahaan/Bulan
+
+Aplikasi SPB-online
+
+SHTI
+Realisasi Penyerapan Anggaran
+
+Pendapatan Pelabuhan
+
+Ketersediaan SDM Pengelola Pelabuhan Perikanan
+
+Kapasitas Daya Tampung Kolam Pelabuhan
+
+Panjang Dermaga
+
+Kedalaman Kolam
+
+Sarana Perbaikan (Docking, bengkel)
+
+Kelengkapan Fasilitas Pemasaran & Distribusi Ikan
+
+Ketersediaan Lahan Pelabuhan
+
+Pelayanan Tambat Labuh
+
+Produksi Perikanan
+
+Frekuensi Kunjungan Kapal
+
+STBLKK
+Sosialisasi Dan Bimbingan Teknis
+
+Fasilitasi Penyuluhan, Pengawasan dan Pengendalian
+Sumber Daya Ikan, Perkarantinaan Ikan, Publikasi
+Pelaksanaan K5
+Penyaluran Air Bersih (kapal dan industri pengolahan)
+
+Penyaluran Es (kapal)
+Penyaluran BBM (kapal)
+
+Pelayanan Pengolahan Hasil Perikanan di WKOPP
+
+Pemanfaatan Lahan Pelabuhan
+
+Penyerapan Tenaga Kerja
+Perubahan Jumlah Investor di Pelabuhan Perikanan
+
+3
+4
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+21
+22
+23
+
+24
+
+25
+26
+27
+
+3,00
+
+3,00
+
+2,00
+2,50
+
+4,00
+3,00
+
+4,00
+
+5,00
+4,00
+
+1,25
+
+3,75
+
+5,00
+
+4,00
+
+2,00
+
+2,00
+
+4,00
+
+4,00
+
+0,00
+
+4,00
+
+4,00
+
+2,00
+4,00
+
+2,00
+
+2,00
+
+3,00
+
+3,00
+
+3,00
+3,75
+
+4,00
+3,00
+
+4,00
+
+5,00
+4,00
+
+0,00
+
+3,75
+
+5,00
+
+4,00
+
+2,00
+
+2,00
+
+4,00
+
+4,00
+
+0,00
+
+4,00
+
+4,00
+
+2,00
+4,00
+
+2,00
+
+2,00
+
+SB
+
+86,5
+
+2.827,20
+0 (44)
+
+8.961,61
+
+16,00
+
+80,79
+81,87
+
+Baik
+63,98
+
+4,00
+
+150,00
+4,00
+
+0,90
+
+9,23
+
+253,00
+
+19,02
+
+Lengkap
+
+Ada
+
+300,00
+
+2.018,00
+
+611,00
+
+Lengkap
+
+264,61
+
+Tidak
+85,51
+
+Ya
+
+Ya
+
+Nov
+5,00
+
+B
+
+2.837,41
+0 (44)
+
+8.961,61
+
+16,00
+
+94,27
+99,86
+
+Baik
+100,00
+
+4,00
+
+157,89
+2,00
+
+0,66
+
+11,56
+
+271,00
+
+19,02
+
+Lengkap
+
+Ada
+
+300,00
+
+2.018,00
+
+611,00
+
+Lengkap
+
+295,40
+
+Tidak
+90,66
+
+Ya
+
+Ya
+
+Okt
+5,00
+
+85,5
+
+2.637,91
+0 (44)
+
+8.961,61
+
+16,00
+
+88,71
+83,15
+
+Baik
+76,97
+
+4,00
+
+555,56
+3,00
+
+0,29
+
+1,62
+
+172,00
+
+19,02
+
+Lengkap
+
+Ada
+
+300,00
+
+2.018,00
+
+611,00
+
+Lengkap
+
+152,53
+
+Tidak
+100,00
+
+Ya
+
+Ya
+
+Mar
+26,00
+
+Jumlah
+
+2.555,47
+0 (44)
+
+8.961,61
+
+16,00
+
+49,15
+34,62
+
+Baik
+32,68
+
+5,00
+
+400,00
+2,00
+
+0,48
+
+0
+
+110,00
+
+19,02
+
+Lengkap
+
+Ada
+
+300,00
+
+2.018,00
+
+611,00
+
+Lengkap
+
+258,81
+
+Tidak
+96,81
+
+Ya
+
+Ya
+
+Feb
+17,00
+
+Kesimpulan
+
+2.769,82
+0 (44)
+
+8.961,61
+
+16,00
+
+95,93
+94,34
+
+Baik
+94,18
+
+5,00
+
+223,81
+6,00
+
+0,70
+
+9,51
+
+181,00
+
+19,02
+
+Lengkap
+
+Ada
+
+300,00
+
+2.018,00
+
+611,00
+
+Lengkap
+
+207,36
+
+Ya
+88,35
+
+Ya
+
+Ya
+
+Realisasi
+Des
+Jan
+12,00
+12,00
+
+3,00
+1,00
+
+2.769,97
+0 (44)
+
+8.961,61
+
+16,00
+
+65,73
+67,01
+
+162,75
+8,00
+
+1,65
+
+20,71
+
+399,00
+
+19,02
+
+Lengkap
+
+Ada
+
+300,00
+
+2.018,00
+
+611,00
+
+Lengkap
+
+527,90
+
+Ya
+81,59
+
+Ya
+
+Nov
+25,00
+
+3,00
+1,00
+
+Sumber: PPN Kejawanan, 2020
+
+20
+
+19
+
+18
+
+11
+
+Ya/Tidak
+
+E-Logbook
+
+2
+
+Ya
+
+Kali
+
+Frekuensi Pengiriman Data (PIPP)
+
+Okt
+24,00
+
+1
+
+Unit Satuan
+
+Jenis Kriteria
+
+No
+
+Tabel 1 Hasil Penilaian Kinerja Operasional PPN Kejawanan Oktober 2019 – Maret 2020
+
+B
+
+70,25
+
+3,00
+1,00
+
+3,00
+
+3,00
+
+1,00
+1,25
+
+4,00
+1,00
+
+4,00
+
+5,00
+2,00
+
+0,00
+
+0,00
+
+5,00
+
+4,00
+
+2,00
+
+2,00
+
+4,00
+
+4,00
+
+0,00
+
+4,00
+
+4,00
+
+0,50
+4,00
+
+2,00
+
+2,00
+
+B
+
+80,75
+
+3,00
+1,00
+
+3,00
+
+3,00
+
+3,00
+3,75
+
+4,00
+3,00
+
+3,00
+
+5,00
+3,00
+
+0,00
+
+2,50
+
+5,00
+
+4,00
+
+2,00
+
+2,00
+
+4,00
+
+4,00
+
+0,00
+
+4,00
+
+4,00
+
+0,50
+4,00
+
+2,00
+
+2,00
+
+Nilai
+Des
+Jan
+4,00
+4,00
+
+B
+
+81
+
+3,00
+1,00
+
+3,00
+
+3,00
+
+3,00
+3,75
+
+4,00
+3,00
+
+3,00
+
+5,00
+2,00
+
+0,00
+
+3,75
+
+5,00
+
+4,00
+
+2,00
+
+2,00
+
+4,00
+
+4,00
+
+0,00
+
+4,00
+
+4,00
+
+0,50
+4,00
+
+2,00
+
+2,00
+
+Feb
+4,00
+
+B
+
+83
+
+3,00
+1,00
+
+3,00
+
+3,00
+
+3,00
+3,75
+
+4,00
+2,00
+
+3,00
+
+5,00
+4,00
+
+0,00
+
+3,75
+
+5,00
+
+4,00
+
+2,00
+
+2,00
+
+4,00
+
+4,00
+
+0,00
+
+4,00
+
+4,00
+
+0,50
+4,00
+
+2,00
+
+2,00
+
+Mar
+5,00
+
+Suherman et al. – Kinerja Pelabuhan Perikanan …..
+
+31
+
+Marine Fisheries 11(1): 23-38, Mei 2020
+
+32
+
+Tabel 2 Defenisi Operasional Variabel
+No
+
+Kode
+
+Indikator
+
+1
+2
+3
+4
+
+X1_1
+X1_2
+X1_3
+X1_4
+
+5
+6
+7
+8
+
+X2_1
+X2_2
+X2_3
+X2_4
+
+9
+10
+11
+12
+
+X3_1
+X3_2
+X3_3
+X3_4
+
+13
+14
+15
+
+X4_1
+X4_2
+X4_3
+
+16
+17
+
+Y1_1
+Y1_2
+
+Internal
+Pengelola PPN (pendidikan, ketrampilan, budaya kerja).
+Ketersediaan Anggaran PPN
+Nelayan/Pengolah/Pemasar (pendidikan, ketrampilan, pengalaman)
+Produktivitas Nelayan/Pengolah/Pemasar (teknologi, pendapatan, produksi)
+Eksternal
+Sumberdaya Ikan (Fishing Ground)
+Pasar
+Kondisi Ekonomi
+Perkembangan Teknologi
+Pelayanan
+Pelayanan Produksi
+Pelayanan Industri Perikanan
+Pelayanan Processing
+Pelayanan Pemasaran
+Kebijakan Pemerintah
+UU / Peraturan Pemerintah/Peraturan Menteri
+Otonomi Daerah/Peraturan Gubernur/Peraturan Bupati
+Pelaksanaan/Kerja sama PPN
+Kinerja PPN
+Kesejahteraan Nelayan
+Pengembangan Usaha
+
+18
+
+Y1_5
+
+Pajak/PNBP
+
+19
+
+Y1_6
+
+Produktivitas Kerja
+
+20
+
+Y1_7
+
+Tingkat Penyerapan Tenaga Kerja (Nelayan, Pemasar dan Pengolah, Buruh)
+
+Sumber: Data primer yang diolah, 2020
+Tabel 3 Hasil Uji Model Faktor Konfirmatori Konstruk Full Model
+Kriteria
+
+Cut off Value
+Kecil; X2 dengan df
+
+Chi-square
+215, p: 5 % = 250.207
+CMIN/DF
+< 2,00
+GFI
+Mendekati 1,0
+RMSEA
+≤ 0,08
+AGFI
+Mendekati 1,0
+PNFI
+> 0,50
+PGFI
+≥ 0,50
+Sumber: Data primer yang diolah, 2020
+
+Hasil
+
+Evaluasi Model
+
+238,655
+
+Cukup
+
+1,520
+0,855
+0,062
+0,806
+0,693
+0,639
+
+Baik
+Baik
+Baik
+Baik
+Baik
+Baik
+
+Tabel 4 Regression Weight
+NO
+H1
+H2
+H3
+H4
+H5
+H6
+H7
+H8
+
+HIPOTESIS
+Internal berpengaruh positif dan signifikan terhadap
+pelayanan PPN
+Kebijakan pemerintah berpengaruh positif dan signifikan
+terhadap internal
+Eksternal berpengaruh positif dan signifikan terhadap
+pelayanan PPN
+Eksternal berpengaruh positif dan signifikan terhadap
+kebijakan pemerintah
+Pelayanan PPN berpengaruh positif dan signifikan
+kinerja PPN
+Kebijakan pemerintah berpengaruh positif dan signifikan
+kinerja PPN
+Internal berpengaruh positif dan signifikan terhadap
+kinerja PPN
+Eksternal berpengaruh positif dan signifikan terhadap
+kinerja PPN
+
+Sumber: Data primer yang diolah, 2020
+
+CR
+5,207
+
+P
+0,000
+
+KETERANGAN
+Diterima
+
+1,999
+
+0,046
+
+Diterima
+
+2,413
+
+0,016
+
+Diterima
+
+2,772
+
+0,006
+
+Diterima
+
+2,629
+
+0,009
+
+Diterima
+
+-2,739
+
+0,006
+
+Ditolak
+
+2,420
+
+0,016
+
+Diterima
+
+2,284
+
+0,022
+
+Diterima
+
+Suherman et al. – Kinerja Pelabuhan Perikanan …..
+
+33
+
+Tabel 5 Hasil Uji Standardized Regression Weights Konstruk Full Model
+Kebijakan_Pemerintah
+Internal
+Pelayanan_PPN
+Pelayanan_PPN
+Kinerja_PPN
+Kinerja_PPN
+Kinerja_PPN
+Kinerja_PPN
+
+<--<--<--<--<--<--<--<---
+
+Eksternal
+Kebijakan_Pemerintah
+Internal
+Eksternal
+Kebijakan_Pemerintah
+Pelayanan_PPN
+Internal
+Eksternal
+
+PEMBAHASAN
+Aktivitas operasional PPN Kejawanan
+sangat dinamis dari tahun ke tahun (Gambar
+1 sampai Gambar 7) dan diharapkan dapat
+mengemban dan mengimplementasikan tugas pokok dan fungsinya sehingga mengarah
+kepada terwujudnya pusat pertumbuhan,
+pengembangan ekonomi perikanan berbasis
+perikanan tangkap, perbantuan pelayanan
+publik dan kesyahbandaran perikanan di
+Cirebon. Kondisi PP hingga saat ini merupakan infrastruktur yang dibangun pemerintah
+dengan orientasi pelayanan kepada para
+penguna pelabuhan guna memperlancar kegiatan pemasaran produk perikanan dengan
+harapan kesejahteraan nelayan dapat terwujud (Muninggar 2008). Kunjungan kapal
+sangat terkait dengan tingkat produksi dan
+nilai produksi. Tingginya produksi ikan yang
+didaratkan maka semakin ramai pula kegiatan
+yang terjadi di pelabuhan tersebut, sehingga
+kinerja operasionalnya akan meningkat pula
+(Ngamel et al. 2013). Lebih lanjut Nugraha et
+al. (2019) bahwa kegiatan penangkapan di
+Cirebon masih didominasi oleh nelayan tradisional.
+Hasil analisis SEM menunjukkan bahwa variabel Internal PPN Kejawanan mempunyai pengaruh paling besar terhadap variabel Kinerja PPN Kejawanan (Gambar 8 dan
+Tabel 5). Hal ini menunjukkan bahwa semakin
+tinggi perbaikan ataupun transformasi di Internal (pengelola PPN, nelayan, anggaran dan
+produktivitas) PPN Kejawanan maka semakin
+baik pula Kinerja PPN Kejawanan (SDM
+pengelola, nelayan). Berdasarkan hal tersebut, manajemen PPN diharapkan fokusnya
+melakukan transformasi internal/transformasi
+budaya untuk meningkatkan kinerja dan perbaikan kualitas pelayanan produksi, pelayanan industri perikanan, pelayanan processing, pelayanan pemasaran dan pelayanan distribusi. Apabila hal ini dilakukan
+dengan baik oleh manajemen PPN, maka
+kinerja akan meningkat. Hal tersebut sejalan
+dengan penelitian Obi (2015) bahwa semua
+
+Estimate
+0,320
+0,467
+0,659
+0,157
+0,178
+0,260
+0,334
+0,309
+
+sumber daya seperti uang atau anggaran,
+bahan, teknologi dan metode, sama pentingnya tetapi sumber daya manusia adalah
+yang terpenting karena faktor itulah yang
+memberikan kehidupan dan dinamisme
+kepada faktor-faktor produksi lainnya. Orangorang di dalam organisasi memberikan bakat,
+keterampilan, dan upaya yang sangat menentukan pada keberhasilan kinerja organisasi
+mana pun. Organisasi yang lebih sukses
+adalah organisasi di mana orang atau sumber
+daya manusia menjadi fokus utama manajemen. Begitu pula disebutkan oleh Fadhil
+(2016) bahwa pengetahuan, keterampilan,
+dan sikap adalah komponen kompetensi yang
+merupakan kunci dalam manajemen yang
+memainkan peran penting dan strategis dalam meningkatkan prestasi kerja pegawai.
+Kompetensi karyawan semakin penting
+manfaatnya, karena sumber daya manusia
+adalah harta atau aset berharga yang dimiliki
+perusahaan dan juga yang menentukan keberhasilan perusahaan untuk mencapai
+tujuan. Kinerja perusahaan sangat bergantung pada bagaimana cara menemukan
+orang yang tepat untuk bekerja untuk mereka,
+untuk membimbing karyawan yang dipilih dan
+untuk memastikan kebutuhan mereka
+(Jashari dan Kutllovci 2020; Anderson et al.
+2014).
+Organisasi harus memprioritaskan
+pengembangan elemen manusia untuk memaksimalkan bakat, keterampilan dan kemampuan yang secara otomatis akan mencerminkan keuntungan perusahaan (Okoye
+dan Ezejiofor 2013; Wright et al. 2013; Villajos
+et al. 2019; Arulrajah 2017)
+Upaya untuk meningkatkan kualitas
+layanan harus didasarkan pada pendekatan
+profesional dalam manajemen operasi, khususnya di bidang pengembangan sumber
+daya manusia (Chand 2010; Shen dan Zhu
+2011; Adil 2015). Sementara itu, Diniah et al.
+(2012) menyatakan bahwa keunggulan suatu
+pelayanan bergantung pada keunikan dan
+kualitas yang diperlihatkan oleh pelayanan
+tersebut. Perubahan dan perkembangan
+
+34
+
+Marine Fisheries 11(1): 23-38, Mei 2020
+
+teknologi yang cepat telah menyebabkan
+semua organisasi menghadapi persaingan
+yang ketat. Untuk menjaga kelangsungan
+bisnis dalam lingkungan yang kompetitif serta
+untuk memaksimalkan produktivitas dan
+pendekatan bisnis-sentris ke industri, ekonomi berbasis pengetahuan dan bisnis telah
+mengubah kebijakan organisasi terhadap
+karyawannya. Pengembangan tenaga kerja
+berkinerja tinggi diberikan untuk meningkatkan kemampuan bersaing. Kegiatan tersebut
+meliputi; pengembangan manajemen sumber
+daya manusia, pengembangan staf berkualitas, pelatihan untuk tujuan bisnis, peningkatan motivasi, evaluasi, serta melakukan
+pendekatan strategis dan koheren dengan
+karyawan (Ozkeser 2019).
+Variabel keandalan memberikan pengaruh yang signifikan terhadap kelancaran
+operasional penangkapan ikan. Empat indikator dari variabel keandalan, yaitu: 1) penyediaan BBM bersubsidi untuk kebutuhan operasional penangkapan di kawasan pelabuhan;
+2) keoptimalan pelayanan yang diberikan pihak UPTD kepada nelayan; 3) penyediaan es
+di kawasan pelabuhan; dan 4) penyediaan air
+untuk kebutuhan operasional penangkapan di
+kawasan pelabuhan, menunjukkan bahwa
+rata-rata tingkat kepuasan responden terhadap variabel keandalan berada pada tingkat
+kepuasan rendah (Rahmah et al. 2018).
+Dalam kenyataannya praktek manajemen
+(management practices) tidak selalu mudah
+dan berhasil untuk mempengaruhi orang agar
+berkerja lebih produktif. Globalisasi makin menyadarkan orang untuk lebih memperhatikan
+faktor budaya bangsa, budaya nasional dan
+akhirnya budaya perusahaan dalam sesbuah
+praktek mangemen (Biantoro 2002).
+Transformasi internal untuk meningkatkan kinerja dan perbaikan kualitas pelayanan
+produksi, pelayanan industri perikanan, pelayanan processing, pelayanan pemasaran dan
+pelayanan distribusi berorientasi kepada
+pemenuhan kebutuhan pelanggan. Hal
+tersebut dapat diwujudkan melalui pengelolaan PP dengan memperhatikan beberapa hal
+sebagai berikut:
+1. Selalu bertindak mendekatkan diri kepada
+masyarakat terutama pelanggan dengan
+cara: (a) menanyakan apa yang harus
+dibantu, (b) mendengarkan saran-saran
+mereka, (c) mendorong agar masyarakat
+mencoba memanfaatkan pelayanan instansi pemerintah tanpa kecurigaan.
+2. Secara terus menerus selalu meningkatkan mutu pelayanan (pendekatan
+
+mutu terpadu), dengan memberikan nilai
+tambah (benefit, impact).
+a) Menempatkan masyarakat sebagai
+pengemudi organisasi;
+b) Mengubah perhatian aparatur pemerintah dari berorientasi kepada birokrasi menjadi selalu berorientasi untuk memenuhi kebutuhan masyarakat;
+Secara umum pelayanan di pelabuhan
+perikanan dapat dibedakan ke dalam dua
+kategori. Kategori yang pertama adalah
+pelayanan yang bersifat langsung kepada
+nelayan/pengusaha perikanan untuk menyediakan barang/jasa yang mereka butuhkan.
+Sementara itu, kategori yang kedua adalah
+pelayanan kepada masyarakat umum di
+dalam pelabuhan menggunakan metodologi
+yang lebih bersifat massal (nelayan serta para
+pengusaha perikanan) agar lebih mampu
+memajukan usahanya dengan menggunakan
+berbagai fasilitas yang tersedia di PP
+(Murdiyanto 2004).
+Pelayanan untuk memenuhi keperluan
+pengguna jasa pelabuhan bersifat langsung
+dan kasuistis dalam arti dilakukan secara
+kasus demi kasus. Pelayanan langsung
+sering memerlukan tenaga yang memiliki
+keterampilan tertentu (listrik, las, mesin diesel
+dan lain sebagainya) karena perhatian utama
+adalah supaya apa yang dikehendaki oleh
+pengguna jasa dapat segera dipenuhi dengan
+sebaik-baiknya (prima).
+Pelayanan yang
+diperlukan meliputi berbagai kegiatan mulai
+dari sarana produksi, pemasaran hasil sampai
+dengan distribusinya. Tenaga yang melakukan pelayanan dituntut memiliki keahlian
+tertentu yang diperkuat melalui suatu bentuk
+surat keterangan/sertifikat. Hal ini dimaksudkan agar dapat selalu dilakukan penjenjangan/akreditasi untuk mempertahankan
+atau meningkatkan keterampilan tersebut.
+Dengan demikian, pemberian pelayanan
+umum oleh PP menjadi semakin prima.
+Maka, sertifikasi keterampilan juga dimaksudkan agar penyelenggaraan pelayanan tetap
+berdasarkan atas azas efisiensi serta tidak
+melanggar etika profesi (Murdiyanto 2004).
+Pelayanan umum yang diberikan langsung kepada para pengguna jasa (dapat dilakukan oleh manajemen pelabuhan sendiri,
+atau oleh swasta, tetapi bisa oleh keduanya.
+Efisiensi ditempuh melalui tiadanya kemungkinan monopoli, tercipta iklim persaingan yang
+sehat. Berbagai ketentuan pelayanan umum
+harus jelas terbaca pada setiap tempat
+dimana masyarakat pengguna jasa sering
+berkumpul. Pengumumannya singkat dan
+tidak bersifat larangan serta mengandung
+
+Suherman et al. – Kinerja Pelabuhan Perikanan …..
+
+segala persyaratan yang ditentukan untuk
+memperoleh pelayanan (Murdiyanto 2004).
+Menurut Lubis et al. (2016) bahwa teori
+keagenan menjelaskan bahwa masalah manajemen laba diminimalkan dengan pemantauan melalui Good Corporate Governance
+dapat diterapkan di PP. Untuk meningkatkan
+kinerja manajemen dalam mengawasi atau
+memantau kinerja manajemen dengan tetap
+menjamin akuntabilitas manajemen kepada
+pemegang saham berdasarkan kerangka
+peraturan.
+Menurut Yanti dan Yulisti (2011)
+Otonomi Daerah memberikan kebebasan
+bagi pemerintahan daerah kabupaten sebagai
+pemegang kekuasaan otonom untuk memilih
+menerapkan atau tidak menerapkan retribusi,
+semua tergantung pada kebijaksanaan
+pimpinan di daerah. Penerapan pungutan
+retribusi daerah untuk sektor kelautan dan
+perikanan menjadi salah satu masalah.
+Pendapatan yang diperoleh dari retribusi
+tersebut nantinya akan menjadi salah satu
+pendapatan asli daerah yang akan
+dipergunakan untuk membangun daerah.
+Berlakunya Peraturan Wali Kota Cirebon
+Nomor 40 Tahun 2019 tentang Perubahan
+Atas Peraturan Wali Kota Cirebon Nomor 57
+Tahun 2011 tentang Petunjuk Pelaksanaan
+Peraturan Daerah Kota Cirebon telah
+menyebabkan tidak ada kapal perikanan yang
+mendaratkan hasil tangkapannya di PPN
+Kejawanan. Untuk itu perlu adanya komunikasi dan pendekatan segera ke pelaku
+usaha dari Pemerintah Kota Cirebon dan
+Internal PPN.
+
+KESIMPULAN
+Kesimpulan dari penelitian ini bahwa
+aktivitas operasional PPN Kejawanan terus
+mengalami peningkatan, baik frekuensi kunjungan, produksi dan nilai produksi ikan yang
+di daratkan, serta kinerja yang lebih baik.
+Penilaian kinerja terhadap 27 kriteria tersebut
+menunjukkan bahwa kinerja operasional PPN
+Kejawanan berkisar antara 70,25-86,50.
+Selama Oktober 2019 hingga Maret 2020
+PPN Kejawanan berkinerja baik, bahkan
+November 2019 menunjukkan performa
+sangat baik. Berdasarkan hasil pengujian
+SEM variabel internal mempunyai pengaruh
+paling besar terhadap kinerja PPN. Dengan
+demikian, peningkatkan kualitas SDM/ pengelola PPN (pendidikan, ketrampilan dan budaya kerja), meningkatkan alokasi anggaran
+UPT, meningkatkan kualitas nelayan/-
+
+35
+
+pengolah/pedagang (pendidikan, ketrampilan
+dan pengalaman), meningkatkan produktivitas Nelayan (teknologi, pendapatan dan
+produksi), akan meningkatan kinerja PPN
+Kejawanan.
+
+SARAN
+Internal PPN Kejawanan mempunyai
+pengaruh paling besar terhadap kinerja PPN
+Kejawanan. Untuk itu disarankan manajemen
+PPN Kejawanan melakukan Transformasi
+Budaya. Apabila hal ini dilakukan dengan baik
+oleh manajemen PPN, maka dapat
+meningkatkan kinerja PPN Kejawanan.
+
+UCAPAN TERIMA KASIH
+Ucapan terima kasih dan penghargaan
+diberikan kepada Kepala PPN Kejawanan
+dan Staf, yang telah membantu dalam
+penelitian ini. Terima kasih juga kepada
+editor dan pengelola Marine Fisheries
+Journal-Departemen Pemanfaatan Sumberdaya Perikanan FPIK IPB yang telah
+menelaah dan mereview naskah jurnal ini.
+
+DAFTAR PUSTAKA
+Adil MS. 2015. Strategic Human Resource
+Management Practices and Competitive Priorities of the Manufacturing
+Performance in Karachi. Global Journal
+of Flexible Systems Management.
+16(1): 37-61.
+Anderson N, Potočnik K, Zhou J. 2014.
+Innovation and Creativity in Organizations: A State-Of-Thescience Review,
+Prospective Commentary, and Guiding
+Framework. Journal of Management,
+40(5): 1297–1333.
+Arulrajah AA. 2017. Productivity and Quality
+Management through Human Resource Management: A Systematic Review.
+International Review of Management
+and Business Research. 6(2): 419-437.
+Bayyinah AA, Solihin I, Wisudo SH. 2016.
+Kepuasan Nelayan Terhadap Pelayanan Pelabuhan Perikanan Nusantara
+(PPN) Kejawanan Cirebon. Marine
+Fisheries. 7(1): 33-43.
+Biantoro U. 2002. Pengaruh Praktek
+Manajemen Sumber Daya Manusia
+Terhadap Budaya Organisasi dan
+
+36
+
+Marine Fisheries 11(1): 23-38, Mei 2020
+
+Kinerja Perusahaan. [Disertasi thesis].
+Universitas Airlangga, Surabaya.
+Chand M. 2010. The Impact of HRM Practices
+on Service Quality, Customer Satisfaction and Performance in the Indian
+Hotel Industry. The International
+Journal
+of
+Human
+Resource
+Management. 21(4): 551-566.
+Deng P, Lu S, Xiao H. 2013. Evaluation of the
+Relevance Measure between Ports and
+Regional Economy Using Structural
+Equation Modeling. Journal Transport
+Policy. 27: 123-133.
+Diniah, Mochammad PS, Dede S. 2012.
+Pelayanan
+Pelabuhan
+Perikanan
+Nusantara (PPN) terhadap Kebutuhan
+Operasi Penangkapan Ikan. Jurnal
+Kebijakan Sosial Ekonomi Kelautan
+dan Perikanan. 2(1): 41-49.
+Direktur Jenderal Perikanan Tangkap. 2015.
+Keputusan Direktur Jenderal Perikanan
+Tangkap Nomor 20/KEP-DJPT/ 2015
+Tentang Pedoman Evaluasi Kinerja
+Operasional Pelabuhan Perikanan.
+Fadhil
+
+M. 2016. Pengaruh Kompetensi
+Sumber Daya Manusia Terhadap
+Kinerja Pegawai Pada Balai Latihan
+Kerja
+Industri
+Makasar.
+Jurnal
+Perspektif. 1(1): 70-81.
+
+Ferdinand, A. 2006. Structural Squation
+Modeling Dalam Penelitian Manajemen. Semarang: Badan Penerbit
+Universitas Diponegoro.
+
+Teknologi Kelautan Tropis. 11(3): 807814.
+Jashari A, Kutllovci E. 2020. The Impact of
+Human Resource Management Practices on Organizational Performance
+Case Study: Manufacturing Enterprises
+in Kosovo. Verslas: Teorija ir praktika /
+Business: Theory and Practice. 21(1):
+222-229.
+Juhaeriyah, Sulistiyono ST, Alamsyah. 2018.
+Perkembangan Pelabuhan Perikanan
+Nusantara Kejawanan dan Kontribusinya
+terhadap
+Pemberdayaan
+Sosial Ekonomi Masyarakat Nelayan
+Kota Cirebon, 1994-2011. Indonesian
+Historical Studies. 2(2): 118-135.
+Kementerian Kelautan dan Perikanan. 2018.
+Keputusan Menteri Kelautan dan
+Perikanan Republik Indonesia Nomor
+6/KEPMEN-KP/2018 tentang Rencana
+Induk Pelabuhan Perikanan Nasional.
+49 hlm.
+Lubis A, Torong ZB, Muda I. (2016). The
+Urgency of Implementing Balanced
+Scorecard System on Local Government in North Sumatra – Indonesia.
+International Journal of Applied
+Business & Economic Research,
+14(11): 7575–7590.
+Lubis E, Pane AB. 2012. An Optimum Model
+of Fish Auction in Indonesian Fishing
+Ports
+in
+Accordance
+with
+the
+Characteristics of Fisherman. Journal of
+Coastas Development. 15(3): 282-296.
+
+Ferdinand, A. 2014. Metode Penelitian
+Manajemen. Semarang: Badan Universitas Diponegoro.
+
+Lubis E, Pane AB. 2017. Institusional Model
+of Fish Auction Refunctionalization in
+Indonesia Fishing Ports. AACL Bioflux.
+10(6): 1456 -1465.
+
+Ghozali, I. 2014. Structural Equation
+Modelling, Metode Alternatif dengan
+Partial Least Square (PLS). Edisi 4.
+Semarang: Badan Penerbit Universitas
+Diponegoro.
+
+Murdiyanto B. 2004. Pelabuhan Perikanan
+(Fungsi, Fasilitas, Panduan Operasional,
+Antrian
+Kapal).
+Jurusan
+Pemanfaatan Sumberdaya Perikanan.
+Institut Pertanian Bogor. 132 hlm.
+
+Gonçalves W, Assumpção MRP. 2016.
+Structural Equation Modeling for
+Multivariate Statistical Analysis of the
+Relationship Between Ports and
+Regional Economy. Rev. Téc. Ing.
+Univ. Zulia. 39(7): 126-133.
+
+Munim ZH, Schramm HJ. 2018. The Impacts
+of Port Infrastructure and Logistics
+Performance on Economic Growth: The
+Mediating Role of Seaborne Trade.
+Journal of Shipping and Trade (JST).
+3(1):1-19.
+
+Gumilang AP, Susilawati E. 2019. Supplay
+Chain Analysis in the Distribution of
+Leading Commodity-Based Catches in
+PPN Kejawanan. Jurnal Ilmu dan
+
+Muninggar R. 2008. Analisis Supply Chain
+dalam Aktivitas Distribusi di Pelabuhan
+Perikanan Nusantara Palabuhanratu.
+Buletin PSP. 12(3): 350 – 355.
+
+Suherman et al. – Kinerja Pelabuhan Perikanan …..
+
+Ngamel YA, Lubis E, Pane AB, Solikhin I.
+2013. Kinerja Operasional Pelabuhan
+Perikanan Nusantara Tual. Jurnal
+Teknologi Perikanan dan Kelautan.
+4(2): 155-172.
+Nugraha TS, Khan AMA, Pratama RI, Apriliani
+IM. 2019. Analisis Keterkaitan Parameter Oseanografi Terhadap Upaya
+Penangkapan Ikan Tenggiri (Scomberomorus comerson) yang Didaratkan di
+PPN Kejawanan Cirebon. Jurnal
+Perikanan dan Kelautan. 10(2): 17-21.
+Obi JN. 2015. Effective Human Resources
+Management Practices as the Key to
+Organizational Performance. International Journal of Educational Research,
+Innovations and Methods. 3(1): 1-26.
+Okoye PVC, Ezejiofor RA. 2013. The Effect of
+Human Resources Development on
+Organizational Productivity. International Journal of Academic Research in
+Business and Social Sciences. 3(10):
+250-268.
+Ozkeser B. 2019. Impact of Training on
+Employee Motivation in Human
+Resources Management. Procedia
+Computer Science. 158(2019): 802810.
+Presiden
+Republik
+Indonesia.
+2014.
+Peraturan Presiden Nomor 191 Tahun
+2014 tentang Penyediaan, Pendistribusian dan Harga Jual Eceran Bahan
+Bakar Minyak. LN.2014/NO.399, LL
+SetKab: 16 hlm.
+Pelabuhan Perikanan Nusantara Kejawanan.
+2019.
+Laporan
+Tahunan
+PPN
+Kejawanan Tahun 2019. 97 hlm.
+Purnomo AH, Suryawati SH, Hikmayani Y,
+Reswati E. 2003. Model Pengembangan Industri Perikanan Terpadu
+(studi kasus di wilayah pengembangan
+utama iii, Jawa Tengah). Jurnal
+Penelitian Perikanan Indonesia. 9(6):
+35-56.
+Ramadhani AR, Ismail, Boesono H. 2015.
+Analisis Tingkat Pemanfaatan Fasilitas
+dan Strategi Pengembangan Pelabuhan di Pelabuhan Perikanan Nusantara
+(PPN) Kejawanan, Cirebon, Jawa
+Barat. Journal of Fisheries Resources
+Utilization Management and Technology (JFRUMT). 4(2): 58-68.
+
+37
+
+Roring RO, Djakfar L, Wicaksono A. 2020.
+The Effect of Special Economic Zone
+and International Hub Port Development on the Transportation Infrastructure Provision. International Journal of
+Innovative Technology and Exploring
+Engineering (IJITEE). 9(4): 2588-2596.
+Ruswandi A, Gartika D. 2013. Strategi
+Pengembangan Investasi di Sekitar
+Pelabuhan Perikanan Tipe B di Jawa
+Barat. Jurnal Akuatika. 4(1): 89-101.
+Sharapiyeva MD, Antoni A, Yessenzhigitova
+R. 2019. The Impact of Port TransportLogistics Infrastructure and LPI for
+Economic Growth: on the Example of
+Landlocked
+Countries.
+Scientific
+Journal of Maritime Research 33: 6375.
+Shen J, Zhu CJ. 2011. Effects of Socially
+Responsible Human Resource Management on Employee Organizational
+Commitment. The International Journal
+of Human Resource Management.
+22(15): 3020–3035.
+Sudirman N, Semeidi H, Ruswahyuni. 2013.
+Baku Mutu Air Laut untuk Kawasan
+Pelabuhan dan Indeks Pencemaran
+Perairan di Pelabuhan Perikanan
+Nusantara Kejawanan, Cirebon. Jurnal
+Saintek Perikanan. 9(1): 14-22.
+Suherman, A. 2007. Rekayasa Model
+Pengembangan Pelabuhan Perikanan
+Samudera Cilacap. [Disertasi]. Bogor:
+Program
+Pascasarjana,
+Institut
+Pertanian Bogor. 307 hlm.
+Suherman A, Dault A. 2009. Dampak Sosial
+Ekonomi Pembangunan Dan Pengembangan Pelabuhan Perikanan Nusantara (PPN) Pengambengan Jembrana
+Bali. Jurnal Saintek Perikanan. 4(2): 24
+– 32.
+Suherman A. 2010. Alternatif Strategi
+Pengembangan Pelabuhan Perikanan
+Nusantara Brondong Lamongan Jawa
+Timur. Jurnal Saintek Perikanan. 5(2):
+88-98.
+Suherman A. 2011. Formulasi Strategi
+Pengembangan Pelabuhan Perikanan
+Pengambengan Jembrana. Jurnal
+Marine Fisheries. 2(1): 87-99.
+Supriadi D, Fitri M. 2019. Analisis Tingkat
+Kepuasan Nelayan Terhadap Pelayanan Kesyahbandaran di PPN
+
+38
+
+Marine Fisheries 11(1): 23-38, Mei 2020
+
+Kejawanan Cirebon. Jurnal Barakuda
+45. 1(1): 18-26.
+Supriadi D, Rahayu S, Gumilang AP. 2020.
+Komposisi Hasil Tangkapan dan
+Tingkat Keramahan Jala Cumi (Cast
+net) di PPN Kejawanan Cirebon Jawa
+Barat. Jurnal Barakuda 45. 2(1): 1-9.
+Villajos E, Tordera N, Peiro JM. 2019. Human
+Resource Practices, Eudaimonic WellBeing, and Creative Performance: The
+Mediating Role of Idiosyncratic Deals
+for Sustainable Human Resource
+Management. Sustainability Journal.
+11(24): 1-20.
+
+Widagdo R. 2015. Peran PPN Kejawanan
+Dalam
+Pemberdayaan
+Ekonomi
+Masyarakat Pesisir Kota Cirebon.
+Jurnal Penelitian Hukum dan Ekonomi
+Syariah. 3(1): 44-62.
+Wright PM, Coff R, Moliterno TP. 2013.
+Strategic Human Capital: Crossing the
+Great Divide. Journal of Management.
+40(2): 353-370.
+Yanti
+
+BPI, Yulisti M. 2011. Kebijakan
+Penghapusan Retribusi Perikanan
+(Analisis Penerapan kebijakan di
+Kabupaten
+Pandeglang,
+Provinsi
+Banten) Buletin Sosek Kelautan dan
+Perikanan. 6(1): 14 – 17.
+
+

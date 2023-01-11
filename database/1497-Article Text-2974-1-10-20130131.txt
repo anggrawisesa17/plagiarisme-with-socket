@@ -1,0 +1,2186 @@
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+FAKTOR-FAKTOR YANG MEMPENGARUHI UNDERPRICING SAHAM PADA
+PERUSAHAAN IPO DI BEI PERIODE 2007-2011
+SHOVIYAH NUR AINI
+Jurusan Manajemen, Fakultas Ekonomi, Universitas Negeri Surabaya,
+Kampus Ketintang Surabaya 60231
+cahyaovie@yahoo.com
+Abstract: This research tries to examine the influence of financial
+variables (DER, ROE, and firm’s size) and non-financial variables
+(firm’s age, underwriter’s reputations, auditor’s reputations and the
+use of IPO funds for investment) on underpricing. Underpricing is
+measured using the method of initial return (IR). The sample for this
+research are 78 companies that listed in Indonesia Stock Exchange
+from 2007-2011 as the sample for this research. Purposisve sampling
+method were used topic the samples of this research. The analytical
+methods used in this research were multiple regression. The results
+of this study showed variable auditor’s reputations have negative
+effect on underpricing. Variables DER, ROE, firm’s size, firm’s age,
+underwriter’s reputations and the use of IPO funds for investment do
+not affect the underpricing.
+Keywords: IPO, Underpricing, Financial Information Variables, Non
+Financial Information Variables.
+PENDAHULUAN
+Kebijakan
+pendanaan
+eksternal
+untuk
+melaksanakan
+ekspansi usaha menurut Riyanto
+(2001:214) salah satunya bisa
+didapatkan melalui sarana sumber
+dana pasar modal dengan cara
+melakukan emisi saham atau Initial
+Public
+Offering
+(IPO).
+Namun
+penetapan harga saham perdana
+pada saat IPO sangat sulit, karena
+tidak ada harga pasar sebelumnya
+yang dapat diobservasi untuk dipakai
+sebagai
+penetapan
+harga
+penawaran. Selain itu kebanyakan
+dari emiten mempunyai sedikit atau
+bahkan tidak ada pengalaman
+terhadap penetapan harga ini
+(Basana, 2003). Sehingga emiten
+bekerjasama dengan underwriter
+untuk
+menetapkan
+kesepakatan
+harga saham perdana tersebut.
+Namun ternyata terdapat perbedaan
+kepentingan antara emiten dengan
+underwriter.
+Emiten sebagai pihak yang
+membutuhkan dana menginginkan
+
+88
+
+agar harga saham perdananya tinggi
+dengan harapan emiten dapat
+memperoleh dana sebesar yang
+diharapkan dan secara otomatis
+dapat
+merealisasikan
+proyek
+ekspansi yang akan dilakukan.
+Namun tidak demikian halnya dengan
+underwriter yang berusaha untuk
+meminimalkan resiko penjaminan
+yang menjadi tanggung jawabnya
+dengan menentukan harga yang
+lebih dapat diterima oleh para
+investor di pasar modal dengan
+harapan semua saham perdana yang
+ditawarkan dapat terjual (Handayani,
+2008). Sehingga tidak ada kewajiban
+bagi underwriter untuk membeli
+saham yang ternyata tidak laku
+terjual dengan harga yang sama
+dengan harga IPO sebagai bentuk
+dari tanggung jawab penjaminannya.
+Penentuan harga saham IPO
+secara signifikan lebih rendah
+dibandingkan dengan harga yang
+terjadi di pasar sekunder di hari
+pertama,
+maka
+terjadilah
+underpricing.
+Kondisi
+asymetry
+informasi
+yang
+menyebabkan
+terjadinya
+underpricing,
+dimana
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+underwriter merupakan pihak yang
+memiliki lebih banyak informasi dan
+menggunakan ketidaktahuan emiten
+untuk
+memperkecil
+resiko
+penjaminannya (Nurhidayati, 1998).
+Takarini
+(2007)
+mengungkapkan bahwa fenomena
+underpricing tidaklah menguntungkan
+bagi emiten, karena dana yang
+diperoleh emiten tidak maksimal
+sebab emiten tidak memperoleh dana
+yang lebih besar yang mungkin bisa
+didapatkan oleh emiten untuk
+mendanai ekspansinya. Sehingga
+harapan tentang besarnya dana yang
+diinginkan emiten melalui IPO tidak
+terpenuhi secara maksimal karena
+fenomena underpricing yang terjadi.
+Tetapi dilain pihak menguntungkan
+para investor karena investor bisa
+menikmati return dari pembelian
+saham
+yang
+dilakukannya
+(Kurniawan, 2007). Sebaliknya jika
+terjadi overpricing, maka investor
+akan merugi, karena mereka tidak
+menerima initial return. Dan pada
+kenyataannya tingkat underpricing
+yang terjadi di BEI sangat tinggi
+dengan
+tingkat
+prosentase
+underpricing selalu di atas 60%
+selama tahun 2007-2011.
+Kondisi underpricing tersebut
+perlu diminimalisir oleh emiten agar
+dapat memperoleh harga yang ideal
+atas saham perdananya. Selain itu
+terjadinya
+underpricing
+akan
+menyebabkan
+adanya
+transfer
+kemakmuran (wealth) dari pemilik
+(emiten) kepada para investor
+(Beatty, 1989), karena para investor
+menikmati return dari transaksi
+perdagangan sahamnya, sedangkan
+emiten hanya memperoleh dana
+melalui penjualan saham yang
+diperoleh dari hasil perdagangan
+antara emiten dengan investor di
+pasar perdana saja. Dengan kata lain
+emiten tidak akan memperoleh
+tambahan dana atas transaksi yang
+terjadi di pasar sekunder (Emilia,
+2008). Sehingga apabila hasil
+penawaran perdana rendah maka
+berarti tingkat kemakmuran emiten
+89
+
+juga semakin menurun (Suyatmin,
+2006).
+Terdapat banyak variabel
+independen
+yang
+dapat
+mempengaruhi underpricing. Dari
+banyaknya variabel tersebut, peneliti
+memilih beberapa variabel yang
+sesuai dengan research gap dari
+penelitian sebelumnya yaitu debt to
+equity ratio, return on equity, ukuran
+perusahaan,
+umur
+perusahaan,
+reputasi underwriter dan reputasi
+auditor, serta menambahkan satu
+variabel
+lagi
+yang
+diduga
+berpengaruh terhadap underpricing
+yakni variabel penggunaan dana IPO
+untuk investasi.
+Penelitian
+Trisnaningsih
+(2005) menyatakan bahwa DER
+berpengaruh signifikan terhadap
+underpricing. Namun hasil penelitian
+tersebut
+inkonsisten
+dengan
+penelitian yang dilakukan oleh Amelia
+(2007) dan Kurniawan (2007) yang
+menyatakan bahwa DER tidak
+berpengaruh terhadap underpricing.
+Penelitian Kurniawan (2007)
+menyatakan
+bahwa
+ROE
+berpengaruh
+secara
+signifikan
+terhadap underpricing. Namun hasil
+penelitian
+tersebut
+inkonsisten
+dengan penelitian yang dilakukan
+oleh Amelia (2007) yang menyatakan
+bahwa ROE tidak berpengaruh
+signifikan terhadap underpricing.
+Penelitian Sandhiaji (2004)
+dan Islam (2007) menyatakan bahwa
+variabel
+ukuran
+perusahaan
+berpengaruh signifikan terhadap
+underpricing. Namun hasil penelitian
+tersebut
+inkonsisten
+dengan
+penelitian yang dilakukan oleh
+Kurniawan (2007) dan Amelia (2007)
+yang menyatakan bahwa variabel
+ukuran
+perusahaan
+tidak
+berpengaruh signifikan terhadap
+underpricing.
+Penelitian Sandhiaji (2004)
+menyatakan bahwa variabel umur
+perusahaan memiliki pengaruh yang
+signifikan terhadap underpricing.
+Namun hasil penelitian tersebut
+inkonsisten dengan penelitian yang
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+dilakukan oleh Suyatmin (2006) dan
+Islam (2007) yang menyatakan
+bahwa umur perusahaan tidak
+memiliki pengaruh yang signifikan
+terhadap underpricing.
+Penelitian
+Trisnaningsih
+(2005)
+dan
+Sandhiaji
+(2004)
+menyatakan bahwa variabel reputasi
+underwriter berpengaruh signifikan
+terhadap underpricing. Namun hasil
+penelitian
+tersebut
+inkonsisten
+dengan penelitian yang dilakukan
+oleh
+Suyatmin
+(2006)
+yang
+menyatakan bahwa variabel reputasi
+underwriter
+tidak
+berpengaruh
+signifikan terhadap underpricing.
+Penelitian Suyatmin (2006)
+menyatakan bahwa reputasi auditor
+berpengaruh signifikan terhadap
+underpricing. Namun hasil penelitian
+tersebut
+inkonsisten
+dengan
+penelitian yang dilakukan oleh
+Sandhiaji (2004) yang menyatakan
+bahwa
+reputasi
+auditor
+tidak
+berpengaruh terhadap underpricing.
+Tingginya tingkat underpricing
+saham perdana yang terjadi di BEI,
+maka tujuan utama penelitian ini yaitu
+untuk mengetahui faktor–faktor apa
+saja
+yang
+mempengaruhi
+underpricing. Variabel dependen
+pada
+penelitian
+ini
+adalah
+underpricing yang diukur dengan
+initial return, yang merupakan selisih
+harga saham atau keuntungan yang
+didapat pemegang saham karena
+perbedaan harga saham yang dibeli
+di pasar perdana dengan harga jual
+saham yang bersangkutan di pasar
+sekunder hari pertama (Emilia, 2008).
+Penelitian ini menggunakan
+perusahaan go public yang listing di
+BEI periode 2007-2011 sebagai
+sampel
+penelitiannya.
+Periode
+penelitian dilakukan mulai tahun 2007
+sebab
+pada
+tahun
+tersebut
+merupakan awal dari merger Bursa
+Efek Jakarta (BEJ) dan Bursa Efek
+Surabaya (BES) menjadi BEI.
+Dimana kondisi merger BEI telah
+memiliki pasar yang lebih efisien dan
+likuiditas transaksi saham yang
+
+90
+
+semakin meningkat hingga
+tahun-tahun berikutnya.
+
+pada
+
+KAJIAN PUSTAKA
+Adapun kajian pustaka yang
+mendukung dalam penelitian ini
+antara lain:
+Go Public
+Go Public adalah peristiwa
+penawaran saham yang dilakukan
+oleh perusahaan (emiten) kepada
+masyarakat umum (investor) untuk
+pertama kalinya (Suyatmin, 2006).
+Perusahaan yang memutuskan untuk
+go public, maka perusahaan tersebut
+harus
+menawarkan
+saham
+perdananya ke publik terlebih dahulu
+yang disebut dengan Initial Public
+Offering (IPO) melalui pasar perdana
+sebelum
+terdaftar
+sebagai
+perusahaan publik di BEI.
+Underpricing
+Underpricing
+yaitu
+harga
+saham hari pertama di pasar
+sekunder lebih tinggi dari harga
+saham
+penawaran
+perdananya
+(Triani, 2006). Underpricing terjadi
+karena harga saham IPO yang
+ditetapkan terlalu rendah, sebab
+harga yang terjadi di pasar sekunder
+telah mencerminkan harga dalam
+kondisi
+keseimbangan
+(full
+information).
+Penetepan
+harga
+saham
+perdana
+yang
+rendah
+diakibatkan
+karena
+adanya
+kepentingan yang berbeda antara
+emiten dan underwriter dalam
+mengadakan kesepakatan dalam
+menentukan harga perdana saham.
+Kondisi asymetry informasi dimana
+underwriter merupakan pihak yang
+memiliki lebih banyak informasi dan
+menggunakan ketidaktahuan emiten
+untuk
+memperkecil
+resiko
+penjaminannya.
+Besarnya
+underpricing diukur dengan initial
+return yakni selisih harga saham atau
+keuntungan yang didapat pemegang
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+saham karena perbedaan harga
+saham yang dibeli di pasar perdana
+dengan harga jual saham yang
+bersangkutan di pasar sekunder hari
+pertama. Secara sistematis initial
+return dapat dirumuskan sebagai
+berikut (Triani, 2006) :
+
+Keterangan :
+IR : return awal
+Pt0 : harga penawaran perdana
+Pt1 : harga penutupan pada hari
+pertama di pasar sekunder
+Debt to Equity Ratio
+DER
+yakni
+kemampuan
+perusahaan
+dalam
+memenuhi
+seluruh
+kewajibannya
+yang
+ditunjukkan oleh beberapa bagian
+modal sendiri yang digunakan untuk
+membayar
+hutang
+(Kurniawan,
+2007). Alasan penggunaan DER
+karena lebih menunjukkan hubungan
+antara total utang perusahaan
+dengan besarnya pendanaan yang
+dibiayai oleh ekuitas pemegang
+saham. Rasio DER dapat dihitung
+dengan rumus sebagai berikut :
+
+Return On Equity
+ROE didefinisikan sebagai
+rasio laba bersih terhadap ekuitas
+saham
+biasa
+yang
+mengukur
+pengembalian
+atas
+investasi
+pemegang saham (Brigham dan
+Houston,
+2006:
+109).
+Alasan
+pemilihan ROE karena merupakan
+ukuran
+profitabilitas
+yang
+memberikan informasi kepada para
+investor tentang seberapa besar
+tingkat pengembalian modal investor
+dari perusahaan yang berasal dari
+kinerja
+perusahaan
+dalam
+
+91
+
+menghasilkan laba, sebab ROE
+diasumsikan
+sebagai
+tingkat
+ekspektasi
+pengembalian
+dana
+investor atas dana yang ditanamkan
+pada perusahaan yang IPO. Menurut
+Brigham dan Houston (2006: 109)
+ROE dapat dihitung dengan rumus
+sebagai berikut:
+
+Ukuran Perusahaan
+Ukuran
+perusahaan
+merupakan
+cerminan
+potensi
+perusahaan dalam menghasilkan
+arus kas dan kemampuan untuk
+mengakses informasi yang lebih
+besar.
+Ukuran
+perusahaan
+merupakan nilai yang menentukan
+besar atau kecilnya perusahaan yang
+ditunjukkan dengan total aset yang
+dimiliknya. Penggukuran dengan
+menggunakan total aktiva dianggap
+lebih baik dari total penjualan karena
+total aktiva lebih stabil dari total
+penjualan serta lebih menunjukkan
+kekayaan
+perusahaan
+yang
+digunakan untuk mencapai tujuan
+perusahaan.
+Perusahaan
+yang
+berskala besar cenderung lebih
+dikenal
+masyarakat
+sehingga
+informasi
+mengenai
+prospek
+perusahaan berskala besar lebih
+mudah diperoleh investor daripada
+perusahaan berskala kecil. Variabel
+ukuran perusahaan diukur dengan
+menghitung log natural total aktiva
+tahun terakhir sebelum perusahaan
+tersebut listing (Suyatmin, 2006).
+Umur Perusahaan
+Umur
+perusahaan
+menunjukkan
+seberapa
+lama
+perusahaan mampu bertahan dan
+menjadi bukti perusahaan mampu
+bersaing dan dapat mengambil
+kesempatan bisnis yang ada dalam
+perekonomian. Perusahaan yang
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+beroperasi lebih lama mempunyai
+kemampuan yang lebih besar untuk
+menyediakan informasi perusahaan
+yang lebih banyak dan luas daripada
+yang baru saja berdiri. Informasi ini
+akan bermanfaat bagi investor dalam
+mengurangi tingkat ketidakpastian
+perusahaan (Nurhidayati, 1998).
+Variabel umur perusahaan diukur
+dengan
+lamanya
+perusahaan
+beroperasi yaitu sejak perusahaan itu
+didirikan
+(established
+date)
+berdasarkan akta pendirian sampai
+dengan saat perusahaan melakukan
+IPO (listing date) (Amelia, 2007).
+Reputasi Underwriter
+Underwriter menurut UndangUndang Pasar Modal No. 8 tahun
+1995 adalah pihak yang membuat
+kontrak
+dengan
+Emiten
+untuk
+melakukan Penawaran Umum bagi
+kepentingan Emiten dengan atau
+tanpa kewajiban untuk membeli sisa
+Efek yang tidak terjual. Reputasi
+underwriter
+merupakan
+variabel
+dummy dengan memberikan nilai 1
+untuk underwriter yang bereputasi
+tinggi serta nilai 0 untuk sebaliknya.
+Standar
+pengukuran
+reputasi
+underwriter yang bereputasi tinggi
+berdasarkan perangkingan yang
+terdapat
+di
+IDX
+Fact
+Book
+berdasarkan big five total value
+underwriter (Sulistio, 2005).
+Reputasi Auditor
+Auditor sebagai salah satu
+profesi penunjang pasar modal
+berfungsi melakukan pemeriksaan
+terhadap
+laporan
+keuangan
+perusahaan yang akan melakukan go
+public.
+Reputasi
+auditor
+akan
+berpengaruh
+pada
+kredibilitas
+laporan keuangan ketika perusahaan
+melakukan IPO, sehingga hasil
+pengujian
+auditor
+ini
+sangat
+dibutuhkan oleh para investor untuk
+pengambilan keputusan investasi.
+Reputasi auditor merupakan variabel
+dummy dengan memberikan nilai 1
+
+92
+
+untuk auditor yang prestigious serta
+nilai 0 untuk sebaliknya. Standar
+pengukuran reputasi auditor yang
+prestigious berdasarkan KAP yang
+menjadi partner dari auditor The Big
+Four (Sulistio, 2005).
+Penggunaan
+Investasi
+
+Dana
+
+IPO
+
+untuk
+
+Informasi
+yang
+terdapat
+dalam prospektus salah satunya
+adalah
+informasi
+mengenai
+penggunaan
+dana
+IPO
+yang
+dijelaskan secara presentase dari
+rencana
+kegiatan
+yang
+akan
+dilakukan oleh emiten, yang salah
+satunya adalah rencana penggunaan
+dana IPO untuk investasi. Informasi
+tentang
+spesifikasi
+rencana
+penggunaan
+dana
+hasil
+IPO
+berhubungan dengan keputusan
+investasi para investor di pasar
+modal. Variabel penggunaan dana
+IPO untuk investasi diukur dengan
+presentase dana investasi IPO (Kim,
+1993).
+Hubungan Debt to Equity Ratio
+terhadap Underpricing
+DER merupakan salah satu
+informasi yang penting bagi investor
+untuk menilai resiko suatu nilai
+saham. Nilai DER yang tinggi
+menandakan struktur permodalan
+usaha lebih banyak memanfaatkan
+hutang-hutang
+relatif
+terhadap
+ekuitas, sehingga menunjukan resiko
+financial atau resiko kegagalan
+perusahaan untuk mengembalikan
+pinjaman akan semakin tinggi yang
+nantinya akan mempengaruhi tingkat
+return yang akan diterima oleh
+investor dimasa yang akan datang.
+Semakin tinggi nilai DER berarti
+semakin tinggi resiko saham emiten
+tersebut, maka semakin tinggi pula
+tingkat return yang diharapkan oleh
+investor, yang berarti juga semakin
+tinggi
+tingkat
+underpricingnya
+(Suyatmin, 2006).
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+Hubungan Return On
+terhadap Underpricing
+
+Equity
+
+Nilai ROE yang semakin tinggi
+akan
+menunjukkan
+bahwa
+perusahaan mampu menghasilkan
+laba dimasa yang akan datang dan
+laba merupakan informasi penting
+bagi investor sebagai pertimbangan
+dalam
+menanamkan
+modalnya.
+Semakin besar nilai ROE maka
+mencerminkan resiko perusahaan
+IPO tersebut rendah, sehingga nilai
+ROE yang tinggi dapat mengurangi
+ketidakpastian
+saham
+dimasa
+mendatang
+serta
+menunjukkan
+tingkat keamanan investasi yang
+tinggi, yang berarti juga semakin
+rendah
+tingkat
+underpricingnya
+(Kurniawan, 2007).
+Hubungan Ukuran
+dengan Underpricing
+
+Perusahaan
+
+Perusahaan berukuran besar
+umumnya
+memiliki
+tingkat
+ketidakpastian
+yang
+rendah
+dibandingkan dengan perusahaan
+kecil, karena dengan skala yang
+tinggi maka perusahaan besar
+cenderung tidak dipengaruhi oleh
+pasar, sebaliknya dapat mewarnai
+dan mempengaruhi keadaan pasar
+secara
+keseluruhan.
+Kejelasan
+informasi tentang perusahaan akan
+meningkatkan
+penilaian
+akan
+perusahaan, mengurangi tingkat
+ketidakpastian dan meminimalkan
+tingkat resiko dan underpricing
+(Sulistio, 2005).
+Hubungan
+Umur
+dengan Underpricing
+
+Perusahaan
+
+Perusahaan yang telah lama
+berdiri bisa dipersepsikan sebagai
+perusahaan yang sudah tahan uji
+sehingga kadar resikonya rendah dan
+hal ini bisa menarik investor karena
+diyakini perusahaan yang sudah
+lama berdiri bisa dikatakan lebih
+berpengalaman dalam menghasilkan
+return bagi perusahaan yang pada
+
+93
+
+akhirnya
+berdampak
+pada
+meningkatnya return yang diterima
+oleh investor dalam jangka panjang.
+Sehingga perusahaan yang telah
+lama berdiri akan mengurangi tingkat
+underpricing (Suyatmin, 2006).
+Hubungan Reputasi Underwriter
+dengan Underpricing
+Sulistio (2005) menyatakan
+bahwa underwriter yang bereputasi
+tinggi lebih berpengalaman dan lebih
+profesional dalam menangani IPO
+perusahaan. Menurut Hartono (2005)
+reputasi underwriter yang baik akan
+memberikan sinyal yang baik pula
+pada pasar dan sebaliknya. Sebab
+pasar relatif mengenal underwriter
+yang bereputasi baik, dan pasar
+percaya bahwa underwriter dengan
+reputasi baik tidak akan menjamin
+perusahaan yang berkualitas rendah.
+Sehingga semakin tinggi reputasi
+underwriter maka mencerminkan
+resiko perusahaan IPO tersebut
+rendah serta rendah pula tingkat
+ketidakpastian
+saham
+dimasa
+mendatang,
+sehingga
+tingkat
+underpricingnya pun juga rendah
+(Suyatmin, 2006).
+Hubungan
+Reputasi
+dengan Underpricing
+
+Auditor
+
+Reputasi auditor sangatlah
+berpengaruh
+pada
+kredibilitas
+laporan keuangan ketika perusahaan
+melakukan IPO. Informasi yang ada
+dalam
+prospektus
+tingkat
+kepercayaannya tergantung dari
+pihak auditor yang melakukan audit.
+Semakin tinggi reputasi auditor maka
+semakin baik tingkat kepercayaan
+informasi yang ada dalam prospektus
+(Hartono, 2005). Selain itu auditor
+yang profesional dan berkualitas
+akan mengurangi kesempatan emiten
+untuk
+berlaku
+curang
+dalam
+menyajikan informasi yang tidak
+menyesatkan mengenai prospeknya
+di masa mendatang. Untuk itulah
+laporan keuangan yang reputasinya
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+baik akan lebih dipercaya oleh
+investor dibandingkan dengan yang
+tidak memiliki reputasi baik. Hal ini
+berarti auditor yang memiliki reputasi
+tinggi
+akan
+mengurangi
+ketidakpastian
+IPO
+serta
+mencerminkan resiko perusahaan
+IPO tersebut rendah, serta rendah
+pula tingkat underpricingnya.
+Hubungan Penggunaan Dana IPO
+untuk
+Investasi
+terhadap
+Underpricing
+Investor pada umumnya lebih
+berminat pada perusahaan dengan
+tujuan IPO nya untuk investasi.
+Menurut Kim (1993) dana dari IPO
+yang digunakan oleh perusahaan
+sebagai
+modal
+baru
+dapat
+meningkatkan
+nilai
+perusahaan
+melalui
+peningkatan
+kapasitas
+produksi, disamping itu juga dapat
+menunjukkan komitmen perusahaan
+terhadap rencana ekspansi yang
+mungkin merefleksikan pandangan
+optimis pemilik (investor) terhadap
+perusahaan. Investor juga akan
+mengisyaratkan perusahaan tersebut
+akan semakin berkembang di masa
+yang akan datang dengan tujuan
+investasi yang jelas, dibandingkan
+dengan
+emiten
+yang
+akan
+menggunakan dana hasil IPO nya
+untuk membayar utang. Sehingga,
+perusahaan yang menggunakan
+sebagian dana hasil IPO nya untuk
+keperluan investasi dapat dianggap
+memiliki kualitas yang baik, dapat
+meningkatkan nilai perusahaan dan
+risiko yang dihadapi adalah rendah
+serta tingkat underpricing juga
+rendah (Kim, 1993).
+Dari penjelasan materi-materi
+dan hasil penelitian sebelumnya,
+maka hipotesis yang diajukan dalam
+penelitian ini adalah Debt to Equity
+Ratio (DER), Return On Equity
+(ROE), ukuran perusahaan, umur
+perusahaan, reputasi underwriter,
+reputasi auditor dan penggunaan
+dana IPO untuk investasi mempunyai
+
+94
+
+pengaruh yang signifikan terhadap
+tingkat underpricing.
+METODE
+Penelitian ini merupakan jenis
+penelitian kuantitatif kausal. Sumber
+data
+yang
+digunakan
+dalam
+penelitian ini adalah jenis sumber
+data sekunder yang diperoleh dari
+prospektus perusahaan IPO, laporan
+keuangan, dokumentasi data statistik
+dari Indonesia Stock Exchange RealTime
+Market
+Information
+(ebursa.com) serta dokumen-dokumen
+yang memberikan informasi data
+penelitian yang diperoleh melalui
+situs resmi Bursa Efek Indonesia
+(www.idx.co.id).
+Populasi dalam penelitian ini
+adalah perusahaan yang melakukan
+IPO di BEI periode 2007-2011 yang
+berjumlah 102 perusahaan. Teknik
+pengambilan
+sampel
+dilakukan
+dengan
+menggunakan
+metode
+purposive sampling dengan kriteria
+sebagai berikut: 1) Melakukan IPO di
+BEI mulai dari periode 1 Januari 2007
+sampai dengan 31 Desember 2011,
+2) Mengalami underpricing, 3)
+Memiliki
+data
+harga
+saham
+penawaran perdana dan data harga
+penutupan hari pertama di pasar
+sekunder,
+4)
+Memiliki
+data
+prospektus yang meliputi data
+underwriter
+dan
+auditor
+yang
+digunakan, umur, penggunaan dana
+IPO oleh emiten serta data laporan
+keuangan per 31 Desember dan
+disajikan dalam mata uang rupiah.
+Dengan
+menerapkan
+kriteria
+purposive sampling maka diperoleh
+sampel sebanyak 78 perusahaan.
+Variabel
+yang
+digunakan
+dalam penelitian ini ada dua, yaitu
+variabel bebas dan variabel terikat.
+Variabel bebas dalam penelitian ini
+yaitu
+faktor-faktor
+yang
+mempengaruhi underpricing yang
+meliputi
+DER,
+ROE,
+ukuran
+perusahaan,
+umur
+perusahaan,
+reputasi underwriter, reputasi auditor
+dan penggunaan dana IPO untuk
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+investasi.
+Sedangkan
+variabel
+terikatnya adalah underpricing.
+DER
+adalah
+kemampuan
+perusahaan
+dalam
+memenuhi
+seluruh
+kewajibannya
+yang
+ditunjukkan oleh beberapa bagian
+modal sendiri yang digunakan untuk
+membayar
+hutang.
+Menghitung
+besarnya
+DER
+yaitu
+dengan
+membagi tingkat hutang perusahaan
+terhadap total ekuitas pemegang
+saham.
+ROE didefinisikan sebagai
+rasio laba bersih terhadap ekuitas
+saham
+biasa
+yang
+mengukur
+pengembalian
+atas
+investasi
+pemegang
+saham.
+Menghitung
+besarnya ROE yaitu dengan cara
+membagi laba bersih setelah pajak
+dengan total ekuitas pemegang
+saham.
+Ukuran
+perusahaan
+merupakan
+sesuatu
+yang
+mencerminkan potensi perusahaan
+dalam menghasilkan arus kas dan
+kemampuan
+untuk
+mengakses
+informasi yang lebih besar. Ukuran
+perusahaan
+diukur
+dengan
+menghitung log natural total aktiva
+tahun terakhir sebelum perusahaan
+tersebut listing.
+Umur
+perusahaan
+menunjukkan
+berapa
+lama
+kemampuan
+perusahaan
+dalam
+menjalankan kegiatan usahanya.
+Umur perusahaan diukur dengan
+lamanya perusahaan beroperasi yaitu
+sejak perusahaan itu didirikan
+berdasarkan akta pendirian sampai
+dengan saat perusahaan melakukan
+IPO.
+Underwriter merupakan pihak
+yang membuat perjanjian dengan
+emiten dalam pelaksanaan IPO serta
+bekerjasama
+untuk
+menentukan
+harga saham
+perdana emiten
+tersebut.
+Reputasi
+underwriter
+merupakan variabel dummy dengan
+memberikan nilai 1 untuk underwriter
+yang bereputasi tinggi serta nilai 0
+untuk
+sebaliknya.
+Standar
+pengukuran reputasi underwriter
+yang bereputasi tinggi berdasarkan
+95
+
+perangkingan yang terdapat di IDX
+Fact Book berdasarkan big five total
+value underwriter.
+Auditor merupakan pihak yang
+melakukan audit terhadap laporan
+keuangan emiten yang melakukan
+IPO. Reputasi auditor merupakan
+variabel dummy dengan memberikan
+nilai 1 untuk auditor yang prestigious
+serta nilai 0 untuk sebaliknya.
+Standar pengukuran reputasi auditor
+yang prestigious berdasarkan KAP
+yang menjadi partner dari auditor The
+Big Four.
+Penggunaan dana IPO untuk
+investasi merupakan informasi yang
+terdapat dalam prospektus mengenai
+rencana kegiatan penggunaan dana
+IPO yang akan digunakan oleh
+emiten. Variabel penggunaan dana
+IPO untuk investasi diukur dengan
+presentase dana investasi IPO.
+Variabel
+terikat
+yakni
+underpricing yaitu keadaan dimana
+harga saham hari pertama di pasar
+sekunder lebih tinggi dari harga
+saham
+penawaran
+perdananya.
+Menghitung besarnya underpricing
+yang diukur dengan initial return,
+dengan cara menghitung selisih
+antara harga penutupan pada hari
+pertama saham diperdagangkan di
+pasar sekunder dengan harga
+penawaran perdana dibagi dengan
+harga penawaran perdana yang
+kemudian di presentasekan.
+Teknik analisis data yang
+dilakukan pada penelitian ini adalah
+sebagai berikut: 1) Perhitungan
+variabel dependen dan variabel
+independen, 2) Uji Normalitas, 3) Uji
+Asumsi Klasik, 4) Analisis regresi
+berganda, 5) Uji hipotesis simultan
+(F) dan parsial (t), dan 6) Koefisien
+determinasi (R2).
+HASIL
+Penelitian ini menggunakan
+model regresi berganda sehingga
+harus dipenuhi asumsi-asumsi klasik
+persamaan regresi berganda. yaitu
+berdistribusi normal dan tidak adanya
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+multikolinearitas, autokorelasi dan
+heteroskedastisitas. Uji normalitas
+dilakukan dengan menggunakan uji
+Kolmogorov-Smirnov (K-S), dimana
+nilai KS dalam penelitian ini sebesar
+0,169 yang nilainya lebih dari α=5%
+(0,05) sehingga bisa disimpulkan
+bahwa residual
+dalam
+regresi
+berdistribusi
+normal.
+Uji
+multikolinearitas dapat dilihat dari
+nilai tolerance dan Variance Inflation
+Factor (VIF), dimana dalam penelitian
+ini menunjukkan bahwa masingmasing
+variabel
+memiliki
+nilai
+tolerance lebih dari 0,1 dan nilai VIF
+lebih kecil dari 10 yang mengartikan
+bahwa data dalam model regresi
+bebas gejala multikolinieritas. Uji
+autokorelasi
+dilakukan
+dengan
+menggunakan uji run test, dimana
+dalam penelitian ini menunjukkan
+nilai 0,111 atau > 0,05, hal ini berarti
+bahwa
+tidak
+terjadi
+gejala
+autokolerasi dalam model regresi
+penelitian ini. Uji heteroskedastisitas
+dilakukan dengan menggunakan uji
+spearman’s rho. dimana dalam
+penelitian ini menunjukkan bahwa
+masing-masing variabel independen
+memiliki nilai signifikansi lebih dari
+0,05, sehingga dapat disimpulkan
+bahwa
+tidak
+terjadi
+gejala
+heteroskedastisitas
+pada
+model
+regresi.
+Ringkasan hasil regresi pada
+penelitian ini dapat dilihat pada tabel
+1 dibawah ini :
+Tabel 1 Ringkasan Hasil Analisis
+Regresi Berganda
+Nilai
+Nilai
+Koefisien
+Variabel
+Sig. t Sig.F Determinasi
+Regresi
+0,018
+0,129
+DER
+0,715
+ROE
+0,499
+Ukuran
+0,743
+Umur
+0,866
+Underwriter 0,152
+Auditor
+0,012
+Investasi
+0,781
+Sumber: Diolah Penulis (2012)
+
+96
+
+Berdasarkan Tabel 1, maka
+dapat diambil keputusan dari hasil
+penelitian yakni terdapat pengaruh
+secara simultan antara DER, ROE,
+ukuran
+perusahaan,
+umur
+perusahaan, reputasi underwriter,
+reputasi auditor dan penggunaan
+dana IPO untuk investasi terhadap
+underpricing.
+Secara
+parsial
+variabel
+reputasi auditor berpengaruh negatif
+terhadap underpricing. Namun pada
+pengujian variabel DER, ROE,
+ukuran
+perusahaan,
+umur
+peusahaan, reputasi underwriter dan
+penggunaan
+dana
+IPO
+untuk
+investasi menunjukkan hasil tidak
+terdapat
+pengaruh
+terhadap
+underpricing.
+Nilai koefisien determinan (R2)
+diperoleh sebesar 0,129 atau 12,9%.
+Hal ini mengindikasikan bahwa
+underpricing dipengaruhi oleh DER,
+ROE, ukuran perusahaan, umur
+perusahaan, reputasi underwriter,
+reputasi auditor dan penggunaan
+dana IPO untuk investasi hanya
+sebesar 12,9%, sedangkan sisanya
+sebesar 87,1% dijelaskan oleh
+variabel lain di luar penelitian ini.
+PEMBAHASAN
+Pembahasan
+yang
+akan
+disajikan dalam penelitian ini yakni
+sebagai berikut:
+Pengaruh Debt to Equity Ratio
+terhadap Underpricing
+Pengujian pada penelitian ini
+menunjukkan debt to equity ratio
+tidak
+berpengaruh
+terhadap
+underpricing
+saham
+pada
+perusahaan yang melaksanakan IPO
+2007-2011. Tidak berpengaruhnya
+DER
+terhadap
+underpricing
+disebabkan karena investor lebih
+melihat ke faktor-faktor di luar
+perusahaan
+yang
+dapat
+mempengaruhi seperti krisis global
+2008 yang menyebabkan nilai tukar
+rupiah
+terhadap
+US
+Dollar
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+melambung tinggi, hal ini didukung
+oleh
+alasan
+hasil
+penelitian
+Ardiansyah (2004). Sehingga dalam
+kondisi perekonomian yang tidak
+stabil tersebut maka perusahaan
+yang memiliki pinjaman dalam US
+Dollar, seperti Adaro Energy Tbk
+(ADRO),
+Trada
+Maritime
+Tbk
+(TRAM), Triwira Insanlestari Tbk
+(TRIL), Elnusa Tbk (ELSA), Gozco
+Plantations Tbk (GZCO), Sekawan
+Intipratama Tbk (SIAP) dan Kertas
+Basuki Rachmat Ind. Tbk (KBRI),
+akan berusaha untuk menutup
+pinjamannya dengan dana IPO
+dimana hal tersebut berpengaruh
+terhadap penilaian investor dalam
+keputusan investasinya.
+Pengaruh Return On
+terhadap Underpricing
+
+Equity
+
+Pengujian pada penelitian ini
+menunjukkan return on equity tidak
+berpengaruh terhadap underpricing
+saham pada perusahaan yang
+melaksanakan IPO 2007-2011. Tidak
+berpengaruhnya
+ROE
+terhadap
+underpricing
+disebabkan
+karena
+investor menduga bahwa emiten
+melakukan
+kebijakan
+earnings
+management yang ditujukan untuk
+memberikan sinyal positif kepada
+pasar tentang perusahaan yang
+dikelolanya, hal ini didukung oleh
+alasan hasil penelitian Ardiansyah
+(2004).
+Earnings
+management
+menurut Gumanti (2000) merupakan
+manajemen laba yang senantiasa
+dikaitkan dengan upaya untuk
+mengatur
+pendapatan
+atau
+keuntungan
+untuk
+kepentingankepentingan tertentu yang dilandasi
+oleh faktor-faktor ekonomi tertentu.
+Emiten yang terindikasi melakukan
+kebijakan earnings management
+dilakukan sebagai upaya untuk
+memberikan informasi kinerja yang
+“lebih baik” agar pasar merespon
+kebijakan IPO secara positif (Amin,
+2007).
+Hasil penelitian ini hal ini
+didukung oleh hasil penelitian Amin
+97
+
+(2007) yang menunjukkan bahwa
+perusahaan yang melaksanakan IPO
+terindikasi
+melakukan
+kebijakan
+earnings management tiga tahun
+sebelum pelaksanaan IPO dan tiga
+tahun setelah pelaksanaan IPO.
+Selain itu juga terdapat kasus earning
+management yang terpublikasi di
+www.tempo.co.id,
+yakni
+kasus
+laporan keuangan PT. Kimia Farma
+pada tahun IPO 2001. Dimana Kimia
+Farma diduga kuat melakukan mark
+up laba bersih dalam laporan
+keuangan tahun 2001. Dalam laporan
+tersebut, Kimia Farma menyebut
+berhasil meraup laba sebesar Rp 132
+miliar, namun sebenarnya keuntung
+perusahaan tersebut hanya sebesar
+Rp 99 miliar. Tidak menutup
+kemungkinan bahwa perusahaan IPO
+lainnya juga melaksanakan kebijakan
+earning management tersebut.
+Earning management yang
+dilakukan manajer dapat menjadi
+jebakan IPO bagi investor serta dapat
+menyesatkan publik. Sehingga ROE
+pada saat IPO dianggap tidak
+menggambarkan profitabilitas yang
+sesungguhnya dari emiten karena
+investor menganggap profitabilitas
+yang besar sebagaimana yang
+disajikan dalam prospektus belum
+tentu dapat menunjukkan kinerja
+perusahaan tersebut baik. Sehingga
+hal tersebut berpengaruh terhadap
+keputusan investasi para investor.
+Pengaruh
+Ukuran Perusahaan
+terhadap Underpricing
+Pengujian pada penelitian ini
+menunjukkan ukuran perusahaan
+tidak
+berpengaruh
+terhadap
+underpricing
+saham
+pada
+perusahaan yang melaksanakan IPO
+2007-2011. Tidak berpengaruhnya
+ukuran
+perusahaan
+terhadap
+underpricing
+disebabkan
+karena
+investor
+lebih
+menilai
+kinerja
+perusahaan yang dianggap lebih
+penting
+daripada
+ukuran
+perusahaannya. Kinerja perusahaan
+pada dasarnya merupakan hasil yang
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+dicapai suatu perusahaan dengan
+mengelola sumber daya yang ada
+dalam perusahaan dengan seefektif
+dan
+seefisien
+mungkin
+guna
+mencapai
+tujuan
+yang
+telah
+ditetapkan
+manajemen
+(Hernandiastoro,
+2005).
+Ukuran
+perusahaan tidak akan menjadi
+pertimbangan bagi investor apabila
+tidak dikelola seefektif dan seefisien
+mungkin, sehingga investor lebih
+memperhatikan hasil dari kinerja
+perusahaan tersebut.
+Kinerja perusahaan yang baik
+dari sebuah perusahaan merupakan
+salah satu pertimbangan investor.
+Semakin
+baik
+tingkat
+kinerja
+perusahaan maka diharapkan harga
+saham perusahaan tersebut akan
+meningkat dan akan memberikan
+keuntungan bagi para investor, baik
+keuntungan deviden maupun capital
+gain
+dimana
+hal
+tersebut
+berpengaruh terhadap keputusan
+investasi para investor.
+Pengaruh
+Umur
+Perusahaan
+terhadap Underpricing
+Pengujian pada penelitian ini
+menunjukkan umur perusahaan tidak
+berpengaruh terhadap underpricing
+saham pada perusahaan yang
+melaksanakan IPO 2007-2011. Tidak
+berpengaruhnya umur perusahaan
+terhadap underpricing disebabkan
+karena investor tidak saja menjadikan
+umur sebagai patokan dalam melihat
+kualitas emiten. Dalam dunia bisnis
+yang identik dengan persaingan,
+belum tentu perusahaan yang lebih
+muda mempunyai kinerja atau
+prospek
+yang
+lebih
+jelek
+dibandingkan dengan perusahaanperusahaan yang telah lama berdiri.
+Sebagai contoh dari beberapa
+perusahaan sampel yang memiliki
+umur kurang dari 10 tahun pada saat
+melaksanakan IPO terbukti telah
+dapat mencapai keuntungan yang
+setara atau bahkan lebih besar dari
+perusahaan yang sudah lama berdiri
+pada saat perusahaan tersebut IPO.
+98
+
+Berikut
+adalah
+perbandingannya:
+
+tabel
+
+Tabel 2 Perbandingan umur dengan
+laba bersih emiten
+Emiten
+Emiten
+Laba
+Laba
+umur <
+umur > 10 Bersih
+Bersih
+10 thn
+thn
+(dlm
+(dlm
+juta
+juta Rp)
+Rp)
+ICBP
+KBRI
+(1th)
+1.078.2 (30th)
+57.77
+19
+9
+BRAU
+853.71 SIAP
+(5th)
+3 (13th)
+321
+TBIG
+240.65 BAPA
+(6th)
+7 (15th)
+916
+ABMM
+208.21 ASRI
+(5th)
+1 (14th)
+1.465
+BWPT
+119.81 HOME
+(9th)
+0 (22th)
+1.481
+ADRO
+MCOR
+(4th)
+88.534 (33th)
+2.110
+ARII
+SKYB
+(4th)
+33.432 (15th)
+3.360
+GZCO
+BACA
+(7th)
+25.803 (18th)
+4.887
+Sumber: Diolah Penulis (2012)
+Umur perusahaan tidak selalu
+menjamin
+bahwa
+perusahaan
+tersebut merupakan perusahaan
+yang memiliki kondisi keuangan yang
+sehat. Perusahaan dengan umur
+berapapun dapat mengalami kondisi
+keuangan yang tidak sehat atau
+bahkan kebangkrutan. Suksesnya
+kinerja operasi perusahaan lebih
+terfokus bagaimana perusahaan
+dapat memaksimalkan keuntungan
+dan meminimalkan biaya. Jadi,
+meskipun suatu perusahaan baru
+berdiri,
+namun
+telah
+mampu
+menunjukkan kapabilitasnya maka
+hal tersebut akan berdampak positif
+pada keberhasilan perusahaannya.
+Sehingga hal tersebut berpengaruh
+terhadap keputusan investasi para
+investor.
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+Pengaruh Reputasi Underwriter
+terhadap Kinerja Saham
+Pengujian pada penelitian ini
+menunjukkan reputasi underwriter
+tidak
+berpengaruh
+terhadap
+underpricing
+saham
+pada
+perusahaan yang melaksanakan IPO
+2007-2011. Tidak berpengaruhnya
+reputasi
+underwriter
+terhadap
+underpricing
+disebabkan
+karena
+penggunaan
+underwriter
+yang
+bereputasi baik oleh emiten tidak
+memberikan sinyal bagi investor
+untuk memperkirakan nilai yang
+pantas
+(sesungguhnya)
+bagi
+perusahaan IPO, hal ini didukung
+oleh alasan hasil penelitian Triani
+(2006).
+Reputasi
+underwriter
+memberikan sinyal bagi pasar untuk
+menilai kualitas emiten yang baik
+atau buruk. Reputasi underwriter
+yang baik merupakan sinyal positif
+bagi investor dalam menilai saham
+emiten yang berkualitas baik. Namun
+menurut Hartono (2005) terdapat dua
+syarat sinyal positif yang akan efektif,
+yakni sinyal tersebut harus sampai ke
+calon investor dan dipersepsikan baik
+serta tidak mudah ditiru oleh
+perusahaan yang berkualitas rendah.
+Sedangkan penggunaan underwriter
+yang bereputasi baik relatif mudah
+ditiru oleh semua emiten, sehingga
+investor tidak dapat membedakan
+kualitas emiten yang baik dan yang
+buruk
+dengan
+hanya
+melihat
+underwriter
+yang
+melakukan
+penjaminan emisi pada saham IPO
+(Hartono, 2005). Hal ini hal ini
+didukung oleh hasil penelitian
+Hartono (2005) yang menyatakan
+bahwa reputasi underwriter kurang
+reliable mewakili konstruk sinyal
+positif. Sehingga reputasi underwriter
+mempengaruhi
+keputusan
+para
+investor dalam investasi saham IPO.
+Pengaruh
+Reputasi
+terhadap Underpricing
+
+Auditor
+
+Pengujian pada penelitian ini
+menunjukkan
+reputasi
+auditor
+99
+
+berpengaruh
+signifikan
+negatif
+terhadap underpricing saham pada
+perusahaan yang melaksanakan IPO
+2007-2011. Hasil pengujian ini
+menunjukkan bahwa perusahaan IPO
+yang
+menggunakan
+auditor
+bereputasi
+tinggi
+maka
+akan
+menyebabkan tingkat underpricing
+yang rendah. Semakin tinggi reputasi
+auditor yang digunakan oleh emiten,
+maka semakin bagus karena akan
+menghasilkan tingkat underpricing
+yang rendah yang mengindikasikan
+bahwa keuntungan investor pada hari
+pertama perdagangan saham di
+pasar sekunder tidak terlalu tinggi
+dan kerugian yang dialami emiten
+tidak terlalu tinggi juga.
+Laporan keuangan emiten
+yang diaudit oleh auditor yang
+bereputasi tinggi akan mendapatkan
+perhatian yang positif dari investor
+sebab hasil pengujian auditor ini
+sangat dibutuhkan oleh para investor
+untuk
+pengambilan
+keputusan
+investasi. Reputasi auditor yang
+bagus akan berpengaruh terhadap
+kualitas
+laporan
+keuangan
+perusahaan
+IPO
+yang
+tidak
+menyesatkan serta hal tersebut
+mencerminkan tingkat resiko dan
+ketidakpastian yang rendah dari
+sebuah saham, sehingga tingkat
+underpricingnya juga rendah.
+Pengaruh Penggunaan Dana IPO
+untuk
+Investasi
+terhadap
+Underpricing
+Pengujian pada penelitian ini
+menunjukkan penggunaan dana IPO
+untuk investasi tidak berpengaruh
+terhadap underpricing saham pada
+perusahaan yang melaksanakan IPO
+2007-2011. Tidak berpengaruhnya
+penggunaan
+dana
+IPO
+untuk
+investasi
+terhadap
+underpricing
+disebabkan karena investor lebih
+melihat ke faktor makro seperti krisis
+global 2008. Untuk menilai apakah
+suatu bursa efek cukup baik untuk
+digunakan sebagai lahan investasi,
+para investor biasanya melihat dulu
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+kondisi politik, ekonomi, dan sosial
+dimana bursa efek itu berada
+(Hernendiastoro, 2005).
+Krisis global 2008 dimana
+pada kondisi ekonomi yang tidak
+stabil tersebut mengakibatkan resiko
+ketidakpastian di pasar modal sangat
+besar. Inflasi tinggi yang terjadi
+menyebabkan
+kebijakan
+Bank
+Indonesia untuk menaikkan tingkat
+suku bunga yang membuat investor
+mengalihkan dana investasinya dari
+pasar modal ke pasar uang.
+Peningkatan suku bunga untuk
+mengatasi tekanan inflasi pada
+pertengahan
+tahun
+2008
+menyebabkan minat masyarakat
+untuk menyimpan uangnya di bank
+kembali meningkat. Krisis keuangan
+global yang semakin mencuat pada
+September 2008 direspons dengan
+peningkatan jumlah simpanan yang
+dijamin Pemerintah pada Oktober
+2008
+sehingga
+menambah
+kepercayaan masyarakat terhadap
+perbankan, sehingga deposito pun
+juga kembali meningkat (Bank
+Indonesia, 2008).
+Tabel 3: Perkembangan Deposito
+2006 2007 2008
+Posisi (triliun 615, 666, 824,
+Rp)
+1
+7
+7
+Pertumbuhan
+8,9
+8,4 23,7
+(%)
+Pangsa (%)
+47,8 44,1 47,0
+Sumber : Bank Indonesia
+Pengalihan dana investasi
+dari pasar modal ke pasar uang oleh
+investor tersebut dilakukan untuk
+meminimalisasi
+resiko
+dana
+investasinya dibandingkan dengan
+investasi di pasar modal. Hal tersebut
+menjadi pertimbangan keputusan
+investasi para investor.
+KESIMPULAN
+Penelitian ini dilaksanakan
+dengan tujuan untuk mengetahui
+faktor-faktor
+apa
+saja
+yang
+mempengaruhi
+underpricing.
+Berdasarkan analisis hasil penelitian
+
+100
+
+yang telah dilakukan, maka dapat
+ditarik kesimpulan bahwa hanya
+variabel reputasi auditor yang
+berpengaruh terhadap underpricing,
+sedangkan variabel yang lainnya
+tidak berpengaruh. Variabel reputasi
+auditor
+dengan
+underpricing
+mempunyai hubungan negatif, yang
+artinya
+perusahaan
+IPO
+yang
+menggunakan auditor bereputasi
+tinggi maka akan menyebabkan
+tingkat underpricing yang rendah.
+Saran
+bagi
+penelitian
+selanjutnya
+adalah
+melakukan
+penelitian
+ulang
+terhadap
+underpricing dengan menggunakan
+variabel yang tidak signifikan dalam
+penelitian
+ini
+namun
+dengan
+menggunakan proksi yang berbeda,
+misalnya untuk variabel financial
+leverage dapat menggunakan proksi
+Debt to Total Asset, untuk variabel
+rasio
+profitabilitas
+dapat
+menggunakan proksi Return On
+Asset,
+untuk
+variabel
+ukuran
+perusahaan dapat menggunakan
+proksi total penjualan, dan untuk
+variabel tujuan dana IPO dapat
+menggunakan proksi tujuan dana
+IPO untuk restrukturisasi modal. Hal
+ini diharapkan akan ditemukan hasil
+penelitian baru serta diharapkan pula
+akan ada teori baru yang dapat
+dikembangkan lagi.
+UCAPAN TERIMA KASIH
+Ucapan terima kasih kepada
+Ibu Nadia Asandimitria, S.E., M.M
+selaku dosen pembimbing yang telah
+banyak memberikan masukan dan
+semangat dalam penulisan penelitian
+ini.
+DAFTAR PUSTAKA
+Amelia, Muna dan Saftiana, Yulia.
+2007. „Analisis Faktor-Faktor
+yang
+Mempengaruhi
+Underpricing
+Penawaran
+Umum Perdana (IPO) di Bursa
+Efek Jakarta‟. Akuntabilitas:
+Jurnal
+Penelitian
+dan
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+Pengembangan Akuntansi. Vol.
+1 No. 2. Hal. 103-118.
+Amin, Aminul. 2007. „Pendeteksian
+Earning
+Management,
+Underpricing dan Pengukuran
+Kinerja
+Perusahaan
+Yang
+Melakukan Kebijakan Initial
+Public
+Offering
+(IPO)
+Di
+Indonesia‟.
+Simposium
+Nasional Akuntansi X. Juli. Hal.
+1-30.
+Ardiansyah, Misnen. 2004. „Pengaruh
+Variabel Keuangan terhadap
+Return Awal dan Return 15 hari
+setelah IPO serta Moderasi
+Besaran Perusahaan terhadap
+Hubungan
+antara
+Variabel
+Keuangan dengan Return Awal
+dan Return 15 hari setelah IPO
+di BEJ‟. Jurnal Riset Akuntansi
+Indonesia. Vol. 7 No. 2. Hal.
+125-153.
+Bank Indonesia. 2008. Buku Laporan
+Perekonomian Indonesia 2008.
+Jakarta: Bank Indonesia.
+Basana, Sautma Ronni. 2003.
+„Problem Anomali dalam Initial
+Public Offering (IPO)‟. Jurnal
+Manajemen
+dan
+Kewirausahaan. Vol. 5 No. 2.
+Hal. 181-192.
+Beatty, Randolph. P. 1989. „Auditor
+Reputation and the Pricing of
+Initial
+Public
+Offerings‟.
+Accounting Review. Vol. LXIV
+No. 4. pp. 693-707.
+Brigham, F. Eugene dan Joel, F.
+Houston. 2006. Dasar-dasar
+Manajemen Keuangan Buku 1.
+Edisi
+Kesepuluh.
+Jakarta:
+Salemba Empat.
+Emilia, Sulaiman, Lucky dan Sembel,
+Roy. 2008. „Faktor-Faktor yang
+Mempengaruhi Initial Return 1
+Hari, Return 1 Bulan, dan
+Pengaruh Terhadap Return 1
+Tahun Setelah IPO‟. Journal of
+Applied
+Finance
+and
+Accounting. Vol. 1 No.1. Hal
+116-140.
+Gumanti, Tatang Ary.2000. „Earning
+Management: Suatu Telaah
+Pustaka‟. Jurnal Akuntansi dan
+101
+
+Keuangan. Vol. 2. No. 2. Hal.
+104-115.
+Handayani, Sri Retno. 2008. „Analisis
+Faktor-Faktor
+yang
+Mempengaruhi
+Underpricing
+pada
+Penawaran
+Umum
+Perdana (Studi Kasus pada
+Perusahaan Keuangan yang
+Go Publik di Bursa Efek Jakarta
+Tahun 2000-2006)‟. Tesis tidak
+diterbitkan. Semarang: Magister
+Manajemen,
+Universitas
+Diponegoro.
+Hartono. 2005. „Hubungan Teori
+Signalling dengan Underpricing
+Saham Perdana di Bursa Efek
+Jakarta‟. Jurnal Bisnis dan
+Manajemen. Vol. 5 No. 1. Hal.
+35-50.
+Hernendiastoro,
+Andre.
+2005.
+„Pengaruh Kinerja Perusahaan
+Dan Kondisi Ekonomi Terhadap
+Return Saham Dengan Metode
+Intervalling (Studi Kasus Pada
+Saham-Saham LQ 45)‟. Tesis
+tidak diterbitkan. Semarang:
+Magister
+Manajemen,
+Universitas Diponegoro.
+Islam, MD. Aminul, Ali, Ruhali dan
+Ahmad, Zamri. 2007. „Why
+IPOs
+Are
+Underpriced?
+Evidence From The Dhaka
+Stock Exchange, Bangladesh‟.
+(online). (www.wbiconpro.com).
+diakses pada tanggal 23
+Januari 2012).
+Kim, Jeong Bon, Itzhak Krinsky and
+Jason Lee. 1993. „Motives for
+Going Public and Underpricing:
+New Findings from Korea‟.
+Journal of Business Financial
+and Accounting. January. p.
+195-211.
+Kiymaz, Halil. 2000. „The Initial and
+Aftermarket Performance of
+IPOs in An Emerging Market:
+Evidence from Istanbul Stock
+Exchange‟.
+Journal
+of
+Multinational
+Financial
+Management. Vol. 10. pp. 213227.
+Kristiantari, I Dewa Ayu. 2012.
+„Analisis Faktor-faktor yang
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+Shoviyah Nur Aini; Faktor-Faktor yang Mempengaruhi Underpricing ...
+
+Mempengaruhi
+Underpricing
+Saham
+pada
+Penawaran
+Saham Perdana di Bursa Efek
+Indonesia‟.
+Tesis
+tidak
+diterbitkan. Denpasar: Magister
+Akuntansi,
+Universitas
+Udayana.
+Kurniawan, Benny. 2007. „Analisis
+Pengaruh Variabel Keuangan
+dan Non Keuangan Terhadap
+Initial Return dan Return 7 Hari
+Setelah Initial Public Offerings
+(Studi Empiris: Di Perusahaan
+Non Keuangan yang Listing di
+BEJ Periode 2002-2006)‟. Tesis
+tidak diterbitkan. Semarang:
+Magister
+Manajemen,
+Universitas Diponegoro.
+Nurhidayati, Siti dan Indriantoro, Nur.
+1998. „Analisis Faktor-Faktor
+yang Berpengaruh Terhadap
+Tingkat
+Underpriced
+pada
+Penawaran Perdana di Bursa
+Efek Jakarta‟. Jurnal Ekonomi
+dan Bisnis Indonesia. Vol. 13
+No. 1. Hal. 21-30.
+Riyanto, Bambang. 2001. DasarDasar
+Pembelanjaan
+Perusahaan. Edisi Keempat.
+Yogyakarta: BPFE.
+Sandhiaji, Bram Nugroho. 2004.
+„Analisis Faktor-Faktor yang
+Mempengaruhi
+Tingkat
+Underpricing pada Penawaran
+Umum Perdana (IPO) Perioe
+Tahun 1996-2002 (Studi Kasus
+Pada Perusahaan Manufaktur
+Yang Go Publik di Bursa Efek
+Jakarta Tahun 1996-2002)‟.
+Tesis
+tidak
+diterbitkan.
+Semarang:
+Magister
+Manajemen,
+Universitas
+Diponegoro.
+Sulistio, Helen. 2005. „Pengaruh
+Informasi Akuntansi dan Non
+Akuntansi
+terhadap
+Initial
+Return: Studi pada Perusahaan
+yang Melakukan Initial Public
+Offering di Bursa Efek Jakarta‟.
+Simposium Nasional Akuntansi
+VIII Solo. Hal. 87-99.
+Suyatmin dan Sujadi. 2006. „FaktorFaktor yang Mempengaruhi
+102
+
+Underpricing pada Penawaran
+Umum Perdana di Bursa Efek
+Jakarta‟.
+Benefit:
+Jurnal
+Manajemen dan Bisnis. Vol. 10
+No. 1. Hal. 11-32.
+Takarini, Nurjanti dan Kustini. 2007.
+„Analisis Faktor-Faktor yang
+Mempengaruhi
+Tingkat
+Underpricing pada Penawaran
+Saham Perdana (IPO) pada
+Perusahaan yang Go Public di
+BEJ‟. Jurnal Arthavidya. Tahun
+8 No. 1. Hal. 128-136.
+Triani, Apriliani dan Nikmah. 2006.
+„Reputasi
+Penjamin
+Emisi,
+Reputasi Auditor, Persentase
+Penjamin
+Emisi,
+Ukuran
+Perusahaan dan Fenomena
+Underpricing: Studi Empiris
+pada Bursa Efek Jakarta‟.
+Simposium Nasional Akuntansi
+IX Padang.
+Trisnaningsih, Sri. 2005. „Analisis
+Faktor-Faktor
+yang
+Mempengaruhi
+Tingkat
+Underpricing pada Perusahaan
+yang Go Public di Bursa Efek
+Jakarta‟. Jurnal Akuntansi dan
+Keuangan. Vol. 4 No. 2. Hal.
+195-210.
+
+Jurnal Ilmiah Manajemen | Volume 1 Nomor 1 Januari 2013
+
+

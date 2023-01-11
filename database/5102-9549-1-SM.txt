@@ -1,0 +1,988 @@
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 345
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 345 – 355
+Online di: http://ejournal-s1.undip.ac.id/index.php/jkts
+
+ANALISIS KECELAKAAN LALU LINTAS
+(STUDI KASUS - JALAN RAYA UNGARAN - BAWEN)
+Dendy Wicaksono, Rizky Akbar Fathurochman, Bambang Riyanto*), YI. Wicaksono*)
+Jurusan Teknik Sipil, Fakultas Teknik, Universitas Diponegoro
+Jl. Prof Soedarto, Tembalang, Semarang. 50239, Telp.: (024)7474770, Fax.: (024)7460060
+ABSTRAK
+Kecelakaan lalu lintas merupakan masalah yang membutuhkan penanganan serius
+mengingat besarnya kerugian yang diakibatkannya. Untuk itu kajian yang perlu dilakukan
+adalah melakukan analisis terhadap data kecelakaaan lalu lintas yang ada. Tugas akhir
+ini mengambil lokasi Ruas Jalan Raya Ungaran-Bawen di Kabupaten Semarang. Ruas
+jalan tersebut merupakan jalan arteri yang padat lalu lintasnya. Hal ini disebabkan ruas
+jalan tersebut menghubungkan Semarang sebagai salah satu kota besar di Jawa Tengah
+dengan daerah sekitarnya, misalnya: Solo, Magelang, dan Yogyakarta. Tujuan dari
+penelitian ini adalah untuk mengidentifikasi lokasi & penyebab kecelakaan jalan agar
+dapat memberikan saran upaya untuk mengurangi kecelakaan yang akan terjadi. Analisa
+data yang penulis lakukan untuk mengetahui hubungan antar variabel yang berpengaruh
+terhadap jumlah kecelakaan menggunakan bantuan program komputer SPSS, sedangkan
+untuk penentuan lokasi rawan kecelakaan (blackspot), menggunakan teknik statistik
+kontrol lalu lintas. Kejadian kecelakaan lalu lintas disebabkan oleh beberapa faktor, yaitu
+manusia (pengemudi), lingkungan, kendaraan dan jalan. Dari hasil analisa data, manusia
+merupakan faktor utama penyebab terjadinya kecelakaan (66,89%). Pengemudi yang
+kurang antisipasi adalah perilaku pengemudi yang paling sering menyebabkan terjadinya
+kecelakaan (72,45%). Jenis kecelakaan yang paling sering terjadi adalah tabrak depandepan (50,85%), dengan sepeda motor (53,78%) sebagai kendaraan yang paling sering
+terlibat. Waktu yang paling sering terjadi kecelakaan adalah pukul 12.00-18.00 (31,74%),
+dan profesi pengemudi yang sering terlibat kecelakaan adalah karyawan / swasta
+(61,86%). Lokasi blackspot di ruas jalan Ungaran – Bawen ini ada 6, yaitu Pertigaan
+Citroen (40 kejadian), Pertigaan Lemah Abang (35) kejadian , Pertigaan Ngobo (31
+kejadian), Depan PT Sosro = (27 kejadian), Depan PT Apac Inti Corpora (32 kejadian),
+Pertigaan Bawen (36 kejadian). Kecelakaan yang terjadi di ruas Jalan Raya UngaranBawen dalam kurun waktu 5 tahun (2008-2012) adalah sebanyak 293 kejadian dan 201
+kejadian diantaranya terjadi di titik – titk blackspot, sedangkan sisanya terjadi dengan
+lokasi yang menyebar sepanjang ruas jalan Ungaran – Bawen. Rincian total korban yaitu
+444 orang luka ringan (72,55 %), 78 orang luka berat (12,75 %), dan 90 orang meninggal
+dunia (14,71 %). Berdasarkan data dan kondisi dilapangan kami mempunyai beberapa
+rekomendasi untuk mengurangi tingkat kecelakaan di ruas jalan Ungaran – Bawen yaitu :
+perlu dibuat pembatas jalan atau median dengan bukaan pada simpang dengan tujuan
+untuk mengantisipasi terjadinya kecelakaan tabrak depan-depan, perlu pembuatan
+*)
+
+Penulis Penanggung Jawab
+
+345
+
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 346
+
+putaran balik (U-Turn) di ruas jalan Ungaran – Bawen untuk mempermudah kendaraan
+yang akan putar balik, perlunya pembesaran jari – jari lengkung tikungan pada simpang
+sehingga mengurangi kecelakaan frontal serta memperluas pandangan pengemudi ketika
+akan menikung di simpang, perlunya pemberian penyuluhan tentang keselamatan
+berkendaraan, perlunya diadakan studi untuk pembuatan jalur sepeda motor di ruas Jalan
+Raya Ungaran-Bawen.
+kata kunci : blackspot, kecelakaan, jalan
+ABSTRACT
+Traffic accidents are a serious problem that requires treatment given the magnitude of the
+resulting losses. For this study needs to be done is conducting an analysis of the data
+kecelakaaan existing traffic. This final project took place Unggaran Highway Toll - Bawen
+in Semarang Regency. The roads are arterial roads are congested with traffic. This is due
+to the road connecting Semarang as one of the major cities in Central Java with the
+surrounding areas, for example : Solo, Magelang and Yogyakarta. The purpose of this
+study was to identify the location and cause of road accidents in order to provide
+suggestions efforts to reduce accidents will happen. Analysis of the data by the author to
+determine the relationship between variables that affect the number of accidents using
+SPSS computer program, while for determining the location of the accident - prone
+(blackspot), using statistical techniques of traffic control. Incidence of traffic accidents are
+caused by several factors, namely human (driver), environment, vehicle and road. From
+the data analysis, humans are the main factors causing accidents (66.89%). Driver is less
+anticipated driver behavior most often cause accidents (72.45%). The most frequent type of
+accident happens is hit the front - front (50.85%), with motorcycles (53.78%) as the most
+frequent vehicles involved. The most frequent time of an accident is at 12:00 to 18:00
+(31.74%), and professional drivers who are often involved in accidents are employees /
+private (61.86%). Location blackspots on roads Unggaran - Bawen have 6, which
+Pertigaan Citroen (40 events), Pertigaan Weak Abang (35) events, Pertigaan Ngobo ( 31
+events), Home of PT Sosro = (27 events), Home of PT Apac Inti Corpora (32 events),
+Pertigaan Bawen (36 events) Accident that occurred on Jalan Raya Unggaran - Bawen in
+the next 5 years (2008-2012) is as much 293 events and 201 events which occurred at the
+point - titk blackspot, while the rest occurred with locations spread along roads Unggaran
+- Bawen. Details of the total casualties are 444 people minor injuries (72.55%), 78 people
+were seriously injured (12.75%), and 90 people died (14.71%). Based on the data and the
+field conditions we have several recommendations to reduce the rate of accidents on roads
+Unggaran - Bawen ie : need to be made to the guardrail or median openings at the
+intersection with the aim of anticipating the next hit-and - forward, need to manufacture
+lap behind (U - Turn) on roads Unggaran - Bawen to facilitate vehicle that will turn it
+over, the need for enlargement of the fingers - fingers curved corner at the intersection,
+thereby reducing the frontal crash and will expand the driver's view when cornering at
+intersections, the need for the provision of counseling about driving safety, the need for the
+creation of a study conducted motorcycle lanes on Jalan Raya Unggaran-Bawen.
+keywords: black spot, accident, road
+
+346
+
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 347
+
+PENDAHULUAN
+Dalam suatu negara yang sedang berkembang seperti Indonesia, sektor transportasi sangat
+mempengaruhi laju pembangunan. Trasportasi dengan berbagai macam jenis dan
+jumlahnya mendukung aspek ekonomi, sosial, dan politik. Dalam kurun waktu 10 tahun
+(2001-2011), diketahui bahwa pertumbuhan kepemilikan kendaraan bermotor di Indonesia
+sebesar 15,25% setiap tahunnya (sumber: www.bps.go.id) sedangkan perkembangan
+panjang jalan nasional hanya sebesar 6,85% setiap tahunnya (sumber:
+www.bappenas.go.id). Dari analisis ini diketahui bahwa pertumbuhan kepemilikan
+kendaraan bermotor lebih pesat dari pertambahan panjang jalan yang ada.
+Maraknya berbagai kejadian kecelakaan belakangan ini yang melibatkan moda transportasi
+darat telah sampai pada titik yang mengkhawatirkan. Fakta membuktikan kecelakaan lalu
+lintas merupakan salah satu penyebab kematian terbesar di Indonesia. Dalam kurun waktu
+3 tahun terakhir (2010-2012) telah terjadi 109.038 kecelakaan lalu lintas yang
+mengakibatkan 27.441 orang meninggal dunia (sumber: www.bin.go.id).
+Banyak faktor yang dapat mempengaruhi tingginya angka kecelakaan. Salah satu faktor
+yang penting adalah kondisi lalu lintas, dimana kondisi lalu lintas merupakan akumulasi
+interaksi dari berbagai karakteristik pengemudi, kendaraan, prasarana jalan, maupun
+karakteristik lingkungan.
+Jalan Raya Ungaran-Bawen merupakan jalur utama yang menghubungkan antara kota
+Semarang dengan kota-kota yang berada dibagian selatan pulau Jawa. Disekitar jalan
+tersebut terdapat beberapa tempat wisata, diantaranya adalah kawasan wisata Bandungan,
+Candi Gedong Songo, Umbul Sidomukti dan Gunung Ungaran. Ini menyebabkan daerah
+tersebut ramai dikunjungi oleh wisatawan, baik lokal maupun wisatawan asing. Tidak
+hanya itu, disekitar jalan tersebut juga terdapat pabrik-pabrik besar seperti Ungaran Sari
+Garment, Pepsi, Nissin, Batamtex, dll. yang menyebabkan padatnya lalu lintas setiap
+terjadi pergantian jam kerja pabrik. Oleh sebab itu, di Jalan Raya Ungaran-Bawen terjadi
+mobilisasi yang cukup besar, sehingga meningkatkan volume lalu lintas di jalan tersebut
+dan memunculkan potensi yang cukup besar untuk terjadinya kecelakaan.
+Untuk batasan Jalan Raya Ungaran-Bawen adalah mulai dari gerbang masuk kabupaten
+Semarang (Taman Unyil) pada bagian utara dan Pertigaan Bawen (terminal Bawen) pada
+bagian selatan.
+Tujuan dari penulisan ini adalah untuk mengetahui karakteristik kecelakaan, menganalisa
+dan mengidentifikasi blackspot,serta memberikan rekomendasi pemecahan masalah kepada
+pihak-pihak yang terkait.
+METODOLOGI
+Metodologi penelitian yang dilakukan meliputi pengumpulan data dan analisis data.
+
+347
+
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 348
+
+Pengumpulan Data
+Tahapan pengumpulan data pada penelitian ini dibagi menjadi dua tahapan sesuai dengan
+jenis dan kebutuhan data-data tesebut, secara terperinci dua tahapan tersebut meliputi data
+primer dan sekunder.
+Data Sekunder
+Data sekunder yang diperlukan diantaranya data kecelakaan lalu lintas, data geometri jalan,
+dan data volume lalu lintas.
+Data Primer
+Pada penelitian ini data primer atau data lapangan di kumpulkan langsung melalui survei
+survei lapangan. Data-data yang didapatkan adalah kelengkapan sarana dan prasarana
+(rambu, median, guard rail, dll.), kondisi perkerasan jalan secara visual, dan situasi serta
+kondisi jalan
+Metode Analisis data
+Analisis Kinerja Jalan
+1. Analisis Karakteristik Kecelakaan
+Digunakan untuk mengetahui karakteristik kecelakaan lalu lintas yang terjadi di Jalan
+Raya Ungaran-Bawen. Analisis menggunakan teknik korelasi, dalam hal ini penulis
+menggunakan bantuan software SPSS
+2. Analisis Lokasi Rawan Kecelakaan (Blackspot)
+Dimaksudkan untuk mengetahui titik-titik rawan kecelakaan pada ruas Jalan Raya
+Ungaran-Bawen. Analisis lokasi rawan kecelakaan menggunakan teknik statistik
+kontrol kualitas.
+ANALISIS DAN PEMBAHASAN
+Analisis Karakteristik Kecelakaan Lalu Lintas
+Untuk mengetahui hubungan dan keterkaitan antar variabel kecelakaan, metode analisis
+statistik yang digunakan adalah Korelasi. Dalam melakukan perhitungan tersebut, penulis
+menggunakan Program SPSS. Penggunaan program ini sangat membantu proses analisis
+karena tidak memerlukan perhitungan manual, sehingga lebih efektif dan efisien.
+Dalam bab ini akan disoroti dua aspek untuk analisis korelasi, yaitu apakah data sampel
+yang ada menyediakan cukup bukti bahwa ada kaitan antar variabel. Dan yang kedua, jika
+ada hubungan, seberapa kuat hubungan antar variabel tersebut,
+Variabel yang diujikan yaitu jenis kecelakaan, penyebab kecelakaan, perilaku pengemudi
+penyebab kecelakaan, jenis kendaraan, waktu terjadinya kecelakaan, dan profesi pelaku
+kecelakaan. Data-data tersebut dapat dilhat pada tabel di bawah ini.
+
+348
+
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 349
+
+Tabel 1. Data Jumlah Kecelakaan Dengan Faktor Penyebab
+Tahun
+Pengamatan
+2008
+2009
+2010
+2011
+2012
+
+Jumlah
+Kecelakaan
+67
+34
+39
+72
+81
+
+Faktor
+Pengemudi
+42
+21
+26
+49
+58
+
+Faktor
+Kendaraan
+19
+9
+10
+16
+19
+
+Faktor
+Cuaca
+2
+1
+2
+2
+1
+
+Faktor
+jalan
+4
+3
+1
+5
+3
+
+Sumber: Satlantas Polres Semarang
+
+Tabel 2. Data Jumlah Kecelakaan Yang Disebabkan Faktor Pengemudi Dengan Perilaku
+Tahun
+Pengamatan
+2008
+2009
+2010
+2011
+2012
+
+Jumlah
+Kecelakaan
+42
+21
+26
+49
+58
+
+Kurang
+Antisipasi
+29
+14
+19
+34
+46
+
+Mengantuk
+
+Mabuk
+
+10
+6
+4
+8
+9
+
+1
+0
+0
+2
+0
+
+Tidak
+Tertib
+2
+1
+3
+5
+3
+
+Sumber: Satlantas Polres Semarang
+
+Tabel 3. Data Jumlah Kecelakaan Dengan Jenis Kecelakaan
+Tahun
+Pengamatan
+2008
+2009
+2010
+2011
+2012
+
+Jumlah
+Kecelakaan
+67
+34
+39
+72
+81
+
+Tabrak
+Depan
+32
+15
+17
+45
+40
+
+Tabrak
+Belakang
+12
+9
+9
+11
+21
+
+Tabrak
+Laka
+Samping Tunggal
+16
+5
+6
+4
+9
+2
+12
+3
+15
+5
+
+Laka
+Karambol
+2
+0
+2
+1
+0
+
+Sumber: Satlantas Polres Semarang
+
+Tabel 4. Data Jumlah Kecelakaan Dengan Jenis Kendaraan
+Tahun
+Pengamatan
+2008
+2009
+2010
+2011
+2012
+
+Jumlah
+Kecelakaan
+67
+34
+39
+72
+81
+
+Sepeda
+Pick
+Station
+Sedan Jeep
+Motor
+Up
+69
+22
+8
+3
+1
+41
+6
+5
+5
+3
+36
+12
+11
+3
+2
+88
+15
+15
+9
+0
+79
+17
+7
+13
+1
+
+Bus/
+Minibus
+9
+6
+7
+6
+8
+
+Truck
+17
+9
+11
+17
+21
+
+Sumber: Satlantas Polres Semarang
+
+349
+
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 350
+
+Tabel 5. Data Jumlah Kecelakaan Dengan Waktu Kejadian
+Tahun
+Pengamatan
+2008
+2009
+2010
+2011
+2012
+
+Jumlah
+Kecelakaan
+67
+34
+39
+72
+81
+
+00.00 s/d
+06.00
+7
+4
+6
+11
+14
+
+06.00 s/d
+12.00
+20
+13
+11
+20
+18
+
+12.00 s/d
+18.00
+21
+10
+13
+23
+26
+
+18.00 s/d
+24.00
+19
+7
+9
+18
+23
+
+Sumber: Satlantas Polres Semarang
+
+Tabel 6. Data Jumlah Kecelakaan Dengan Profesi Pelaku Kecelakaan
+Tahun
+Pengamatan
+2008
+2009
+2010
+2011
+2012
+
+Jumlah
+Kecelakaan
+67
+34
+39
+72
+81
+
+PNS / TNI
+/ POLRI
+6
+4
+10
+14
+9
+
+Karyawan/Swasta/
+Pelajar/
+Buruh
+Mahasiswa
+85
+12
+43
+8
+51
+11
+89
+17
+92
+22
+
+Sopir
+26
+20
+12
+30
+23
+
+Sumber: Satlantas Polres Semarang
+
+Setelah data-data tersebut di atas dikorelasikan menggunakan program SPSS, maka
+hasilnya dapat dilihat pada tabel di bawah ini.
+Tabel 7. Korelasi Jumlah Kecelakaan Dengan Faktor Penyebab
+
+Jumlah Kecelakaan
+Faktor Pengemudi
+Faktor Kendaraan
+Faktor Cuaca
+Faktor Jalan
+
+Jumlah Kecelakaan
+Pearson Correlation
+Sig. (1-Tailed)
+1
+,990**
+,001
+,949**
+,007
+,048
+,469
+,601
+,142
+
+N
+5
+5
+5
+5
+5
+
+Tabel 8. Korelasi Jumlah Kecelakaan Yang Disebabkan
+Oleh Faktor Pengemudi Dengan Perilakunya
+
+Jumlah Kecelakaan
+Kurang Antisipasi
+Mengantuk
+Mabuk
+Tidak Tertib
+
+Jumlah Kecelakaan
+Pearson Correlation
+Sig. (1-tailed)
+1
+,998**
+,001
+,760
+,068
+,404
+,250
+,578
+,154
+
+N
+5
+5
+5
+5
+5
+
+350
+
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 351
+
+Tabel 9. Korelasi Jumlah Kecelakaan Dengan Jenis Kecelakaan
+
+Jumlah Kecelakaan
+Tabrak Depan
+Tabrak Belakang
+Tabrak Samping
+Laka Tunggal
+Laka Karambol
+
+Jumlah Kecelakaan
+Pearson Correlation
+Sig. (1-tailed)
+1
+,950**
+,007
+,772
+,063
+,885*
+,023
+,520
+,184
+-,108
+,431
+
+N
+5
+5
+5
+5
+5
+5
+
+Tabel 10. Korelasi Jumlah Kecelakaan Dengan Jenis Kendaraan
+
+Jumlah Kecelakaan
+Sepeda Motor
+Station
+Pick Up
+Sedan
+Jeep
+Bus/Minibus
+Truck
+
+Jumlah Kecelakaan
+Pearson Correlation
+Sig. (1-tailed)
+1
+,984**
+,001
+,737
+,078
+,408
+,247
+,672
+,107
+-,930
+,011
+,337
+,289
+,941**
+,009
+
+N
+5
+5
+5
+5
+5
+5
+5
+5
+
+Tabel 11. Korelasi Jumlah Kecelakaan Dengan waktu Kejadian
+
+Jumlah Kecelakaan
+00.00 s/d 06.00
+06.00 s/d 12.00
+12.00 s/d 18.00
+18.00 s/d 24.00
+
+Jumlah Kecelakaan
+Pearson Correlation
+Sig. (1-tailed)
+1
+,902
+,018
+,875
+,026
+,997**
+,000
+**
+,990
+,001
+
+N
+5
+5
+5
+5
+5
+
+Tabel 12. Korelasi Jumlah Kecelakaan Dengan Profesi Pelaku Kecelakaan
+
+Jumlah Kecelakaan
+PNS / TNI / POLRI
+Karyawan/Swasta/Buruh
+Pelajar/Mahasiswa
+Sopir
+
+Jumlah Kecelakaan
+Pearson Correlation
+Sig. (1-tailed)
+1
+,452
+,222
+**
+,989
+,001
+,887
+,022
+,709
+,090
+
+N
+5
+5
+5
+5
+5
+
+Dari data-data korelasi antar variabel di atas, dilihat dari nilai Pearson Correlation yang
+paling mendekati angka 1, dapat disimpulkan variabel-variabel yang mempunyai korelasi
+paling kuat adalah seperti pada tabel di bawah ini
+
+351
+
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 352
+
+Tabel 13. Korelasi Jumlah Kecelakaan Dengan Variabelnya
+Jenis
+Faktor
+Perilaku
+Jenis
+Waktu
+Kecelakaan Penyebab Pengemudi Kendaraan Kejadian
+Tabrak
+Depan
+Pearson
+Jumlah
+Correlation
+KecelaSig. (1kaan
+tailed)
+
+Faktor
+Kurang
+Pengemudi Antisipasi
+
+Profesi
+Pelaku
+Karyawan/
+12.00 s/d
+Swasta/
+18.00
+Buruh
+
+Sepeda
+Motor
+
+,950**
+
+,990**
+
+,998**
+
+,984**
+
+,997**
+
+,989**
+
+,007
+
+,001
+
+,001
+
+,001
+
+,000
+
+,001
+
+Analisis Lokasi Rawan Kecelakaan (Blackspot)
+Penentuan lokasi rawan kecelakaan (blackspot), penulis mendapatkan enam titik lokasi
+rawan kecelakaan dari Satlntas Polres Semarang yaitu Pertigaan Citroen, Pertigaan Lemah
+Abang, Pertigaan Ngobo, Depan PT Sosro, Depan PT Apacinti dan Pertigaan Bawen,
+tetapi keenam titik tersebut harus dibuktikan kebenarannya menggunakan teknik statistik
+kontrol kualitas, dengan perhitungan seperti di bawah ini.
+Batas Atas
+
+=
+=
+=
+
+λ + 2,576 * ( λ / m)0,5 + (0,829 / m) + ( 1 / 2m)
+4,31 + 2,576 (4,31 / 0,25)0,5 + (0,829 / 0,25) + (1 / 2*0,25)
+20,33
+20
+
+(1)
+
+Tabel 14. Jumlah Kecelakaan di Titik Blackspot
+Lokasi
+Pertigaan Citroen
+Pertigaan Lemah Abang
+Pertigaan Ngobo
+Depan PT Sosro
+Depan PT Apac Inti Corpora
+Pertigaan Bawen
+
+Jumlah Kejadian
+40
+35
+31
+27
+32
+36
+
+Keterangan
+Blackspot
+Blackspot
+Blackspot
+Blackspot
+Blackspot
+Blackspot
+
+Identifikasi Blackspot
+Tabel 15. Identifikasi Blackspot Pertigaan Citroen
+Lokasi
+
+Potensi Kecelakaan
+
+Pertigaan Citroen (STA 25+150 Kota Semarang)
+Banyak kendaraan keluar masuk Pertigaan Citroen
+Banyak orang menyeberang pada jam sibuk
+Banyak angkutan umum ngetem di sembarang tempat
+Macet pada jam-jam sibuk
+Banyak kendaraan mengambil jalur lawan untuk
+mendahului
+
+352
+
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 353
+
+Tabel 16. Identifikasi Blackspot Pertigaan Lemah Abang
+Lokasi
+
+Potensi Kecelakaan
+
+Pertigaan Lemah Abang (STA 25+400 Kota Semarang)
+Banyak kendaraan keluar masuk ke daerah Bandungan
+Banyak kendaraan keluar masuk SPBU
+Banyak orang menyeberang pada jam sibuk
+Banyak angkutan umum ngetem di sembarang tempat
+Kendaraan dengan muatan lebih kadang tidak kuat menanjak
+Macet pada jam-jam sibuk
+Banyak kendaraan mengambil jalur lawan untuk mendahului
+Angkutan umum Bandungan putar arah tepat di pintu masuk
+Bandungan
+
+Tabel 17. Identifikasi Blackspot Pertigaan Ngobo
+Lokasi
+
+Potensi Kecelakaan
+
+Pertigaan Ngobo (STA 26+250 Kota Semarang)
+Banyak kendaraan keluar masuk ke daerah Ngobo
+Banyak kendaraan keluar masuk pertokoan di sekitar Pertigaan
+Ngobo
+Banyak orang menyeberang pada jam sibuk
+Banyak angkutan umum ngetem di sembarang tempat
+Banyatk terdapat kios pedagang kaki lima
+Banyak kendaraan parkir di pinggir jalan
+Macet pada jam-jam sibuk
+Banyak kendaraan mengambil jalur lawan untuk mendahului
+Tabel 18. Identifikasi Blackspot Depan PT Sosro
+
+Lokasi
+
+Potensi Kecelakaan
+
+Depan PT Sosro (STA 28+050 Kota Semarang)
+Banyak kendaraan keluar masuk ke PT Sosro
+Banyak kendaraan keluar masuk pertokoan di depan PT Sosro
+Banyak orang menyeberang pada jam sibuk
+Banyak angkutan umum ngetem di sembarang tempat
+Macet pada jam-jam sibuk
+Banyak kendaraan mengambil jalur lawan untuk mendahului
+Pada saat bukan jam sibuk jalanan cukup lengang, memicu
+pengendara untuk memacu kendaraan lebih cepat
+
+Tabel 19. Identifikasi Blackspot Depan PT Apac Inti Corpora
+Lokasi
+
+Potensi Kecelakaan
+
+Depan PT Apacinti (STA 31+500 Kota Semarang)
+Banyak kendaraan keluar masuk ke PT Apac Inti Corpora
+Banyak kendaraan keluar masuk dari perumahan penduduk
+Banyak orang menyeberang pada jam sibuk
+Banyak angkutan umum ngetem di sembarang tempat
+Macet pada jam-jam sibuk
+Banyak kendaraan mengambil jalur lawan untuk mendahului
+Pada saat bukan jam sibuk jalanan cukup lengang, memicu
+pengendara untuk memacu kendaraan lebih cepat
+Minimnya lampu penerangan jalan
+Jalan bergelombang
+353
+
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 354
+
+Tabel 20 Identifikasi Blackspot Pertigaan Bawen
+Lokasi
+Potensi Kecelakaan
+
+Pertigaan Bawen (STA 34+000 Kota Semarang)
+-Bertemunya tiga lalu lintas utama pada satu simpang
+-Banyak kendaraan keluar masuk dari SPBU
+-Macet pada jam-jam sibuk
+-Banyak kendaraan mengambil jalur lawan untuk mendahului
+
+KESIMPULAN
+Kecelakaan yang terjadi di ruas Jalan Raya Ungaran-Bawen adalah sebanyak 293 kejadian,
+dimana 201 kejadian diantaranya terjadi di blackspot dan sisanya terjadi pada lokasi yang
+berbeda-beda sepanjang ruas jalan Ungaran – Bawen. jenis kecelakaan yang sering terjadi
+adalah tabrakan depan-depan dengan jumlah 149 kejadian (50,85 %), faktor pengemudi
+merupakan penyebab utama yaitu sebesar 196 kejadian (66,89 %), pengemudi kurang
+antisipasi menjadi penyebab terbesar terjadinya kecelakaan yaitu sebesar 142 kejadian
+(72,45 %), profesi pelaku yang paling sering terlibat kecelakaan adalah karyawan/swasta
+yaitu sebesar 360 orang (61,86 %), jenis kendaraan yang paling sering terlibat kecelakaan
+adalah sepeda motor yaitu sebesar 313 kendaraan (53,78 %), waktu yang paling sering
+terjadi kecelakaan adalah antara pukul 12.00-18.00 WIB yaitu sebesar 93 kejadian (31,74
+%), dan titik lokasi rawan kecelakaan (blackspot) ada 6 titik, yaitu di Pertigaan Citroen (40
+kejadian), Pertigaan Lemah Abang (35 kejadian), Pertigaan Ngobo (31 kejadian), Depan
+PT Sosro (27 kejadian), Depan PT Apac Inti Corpora (32 kejadian) dan di Pertigaan
+Bawen (36 kejadian).
+SARAN
+Perlu dibuat pembatas jalan atau median dengan bukaan di setiap simpang. Pembuatan
+pembatas jalan atau median ini bertujuan untuk mengantisipasi terjadinya kecelakaan
+tabrak depan-depan seperti yang sering terjadi pada ruas Jalan Raya Ungaran-Bawen, yaitu
+agar pengemudi tidak menggunakan jalur sebaliknya untuk mendahului, sehingga potensi
+terjadinya kecelakaan dapat diminimalisir. Bukaan pada setiap simpang perlu dilengkapi
+dengan lajur tunggu. Perlu pembuatan putaran balik (U-Turn) di ruas jalan Ungaran –
+Bawen dengsn pertimbangan volume lalu lintas yang sangat padat serta, kelancaraan lalu
+lintas karena mengurangi konflik di Simpang serta mengurangi kecelakaan karena
+kendaraan menjadi satu arah sehingga mengurangi kecelakaan frontal dan mempermudah
+pengemudi yang akan melakukan putar arah. Adapun konsekuensi dari saran ini adalah
+perlunya memperluas lahan karena badan jalan digunakan untuk pembuatan U-turn
+sehingga perlu perluasan lahan di kanan-kiri badan jalan untuk mengganti badan jalan yang
+digunakan untuk pembuatan U-turn. Perlunya pembesaran jari – jari lengkung tikungan
+pada simpang sehingga mengurangi kecelakaan frontal serta memperluas pandangan
+pengemudi ketika akan menikung di simpang. Resiko dari pembesaran jari – jari lengkung
+tikungan pada simpang ini yaitu perlunya pembebasan tanah di daerah simpang dan perlu
+penggusuran / relokasi karena didaerah pojok – pojok simpang didominasi pertokoan.
+Perlunya pemberian penyuluhan tentang keselamatan berkendara di jalan raya untuk para
+karyawan pabrik melihat jumlah pelaku kecelakaan terbanyak berprofesi sebagai
+karyawan/swasta, dan waktu kejadian kecelakaan terbanyak antara pukul 12.00 sampai
+18.00. Di dalam waktu tersebut terdapat jam-jam sibuk yaitu waktu para karyawan pulang
+kerja yaitu sekitar pukul 16.00 sampai 18.00. Perlunya diadakan studi untuk pembuatan
+354
+
+JURNAL KARYA TEKNIK SIPIL, Volume 3, Nomor 2, Tahun 2014, Halaman 355
+
+jalur sepeda motor di ruas Jalan Raya Ungaran-Bawen mengingat jumlah pengguna sepeda
+motor di lokasi tersebut cukup tinggi yaitu sebanyak 113.753 kendaraan (52 %) dan jumlah
+sepeda motor yang terlibat kecelakaan juga cukup dominan yaitu sebanyak 313 kendaraan
+(53,78 %). Perlunya penambahan rambu – rambu lalu lintas dengan ukuran dan posisi yang
+benar sehingga tujuan diadakannya rambu bisa tercapai yaitu untuk mengurangi nilai
+kecelakaan.
+DAFTAR PUSTAKA
+_____________, 1992, Undang Undang Republik Indonesia No. 14 tahun 1992 tentang
+Lalu Lintas dan Angkutan Jalan, Jakarta.
+_____________, 2004, Undang Undang Republik Indonesia No. 34 tahun 2006 tentang
+Jalan, Jakarta.
+_____________, 2005, Peraturan Pemerintah Republik Indonesia No. 43 tahun 1993
+tentang Prasarana dan Lalu Lintas Jalan, Jakarta.
+Departemen Pekerjaan Umum. 1992. Tata Cara Pemasangan Rambu dan Marka Jalan.
+Jakarta
+Departemen Pekerjaan Umum, 1997, Manual Kapasitas Jalan Indonesia (MKJI), Jakarta.
+Departemen Pekerjaan Umum, 1997, Tata Cara Perencanaan Geometrik Jalan Antar
+Kota, Jakarta.
+Departemen Pekerjaan Umum. 2004. Pedoman Perencanaan Bundaran Untuk
+Persimpangan Sebidang. Jakarta.
+Departemen Perhubungan. - . Panduan Penempatan Fasilitas Perlengkapan Jalan. Jakarta.
+Homburger, Wolfgang S. Dkk. 1993. Transportation and Traffic Engineering Handbook,
+Second edition. New Jersey: Institute of Transportation Engineers, Prentice –
+Hall, Inc.
+Marwoto. 2002. Analisis Kecelakaan Lalu Lintas Jalan Tol Krapyak-Srondol Semarang,
+Tesis, Program Pascasarjana, Universitas Diponegoro, Semarang.
+Pignataro, L. J., 1973. Traffic Engineering Theory and Practice. New Jersey: Prentice Hall, Inc.
+Priyanto, S., 1990. Tindak Programatik Penanggulangan Kecelakaan, Konferensi
+Tahunan Teknik Jalan ke-4, Volume 4, Teknik Lalu lintas dan Transportasi.
+Jakarta: Departemen Pekerjaan Umum.
+Pujiastuti, ET, 2005. Pengaruh Geometrik Jalan Terhadap Kecelakaan lalu lintas di Jalan
+Tol, Tesis Magister Teknik Sipil, Program Pascasarjana, Universitas Diponegoro,
+Semarang.
+Sartono,Wardhani, 1993. Penelitian Daerah Rawan Kecelakaan Lalu lintas Pada Ruas
+Jalan Kupang – Atambua di Propinsi Nusa Tenggara Timur, dalam Media Teknik
+No. I tahun XV, UGM, Yogyakarta.
+Sukirman, Silvia. 1999. Dasar-Dasar Perencanaan Geometrik Jalan. Bandung: Nova.
+Tjahyono, Tri, 2011. Analisa Keselamatan Lalu Lintas Jalan. Bandung: Lubuk Agung
+Wibowo, D., dkk., 2005. Analisis Kecelakaan Lalu lintas Pada Ruas Jalan Raya Siliwangi
+– Mangkang Semarang, Simposium VIII FSTPT, Universitas Sriwijaya
+Palembang.
+Wicaksono, YI, 2009, Materi Kuliah Rekayasa Lalu Lintas. Semarang
+Widjajanti, E., 2002. Karakteristik kecelakaan Jalan Tol Jakarta – Cikampek Tahun 2000,
+Simposium ke-5 FSTPT, Universitas Indonesia.
+
+355
+
+

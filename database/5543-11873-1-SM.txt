@@ -1,0 +1,422 @@
+Jurnal Materi dan Pembelajaran Fisika (JMPF)
+Volume 3 Nomor 1 2013 ISSN : 2089-6158
+
+5
+
+ANALISIS KESALAHANDALAM MENYELESAIKANSOAL
+MATERI TERMODINAMIKA PADA SISWASMA
+Deni Monika Sari, Surantoro, Elvin Yusliana Ekawati
+Prodi Pendidikan Fisika, Jurusan PMIPA,
+Fakultas Keguruan dan Ilmu Pendidikan, Universitas Sebelas Maret,
+Jl. Ir. Sutami 36 A, Surakarta, Telp/Fax (0271) 648939
+E-mail: airinata@yahoo.com
+ABSTRAK
+Tujuan penelitian ini adalah untuk menganalisis jenis kesalahan, mengetahui penyebab siswa melakukan kesalahan, dan
+mengetahui cara mengatasi terjadinya kesalahan siswa dalam menyelesaikan soal materi Termodinamika. Metode
+pengumpulan data dalam penelitian ini menggunakan tes, observasi dan wawancara. Tes dan observasi dilakukan
+menggunakan teknik purposive samplingpada 91 siswa kelas XI IPA 3, XI IPA 6, dan XI IPA 7 SMA Negeri 3 Surakarta
+Tahun Ajaran 2011/2012. Wawancara dilakukan dengan pemilihan sampel siswa menggunakan teknik snowball
+sampling. Validitas data pada penelitian kualitatif ini digunakan triangulasi data dan triangulasi metode. Teknik analisis
+data yang digunakan adalah teknik analisis data model Miles dan Huberman, yaitu model analisis interaktif yang
+meliputi: reduksi data, sajian data, dan penarikan kesimpulan serta verifikasinya. Berdasarkan analisis data dan
+pembahasan dalam penelitian ini, dapat disimpulkan: (1) Jenis kesalahan yang dilakukan siswa dalam menyelesaikan soal
+materi Termodinamika adalah: (a) kesalahan terjemahan yang berupa kesalahan dalam menuliskan apa yang diketahui
+dan ditanyakan pada soal ke dalam simbol Fisika, memahami maksud soal, serta menuliskan data yang diketahui pada
+soal secara tepat, (b) kesalahan konsep yang berupa kesalahan dalam memahami konsep usaha yang dilakukan
+lingkungan pada sistem, proses Termodinamika, usaha pada proses Termodinamika, kapasitas kalor, Hukum I
+Termodinamika, perubahan energi dalam, siklus Termodinamika, mesin Carnot, perubahan entropi, dan mesin pendingin,
+serta mengkonversikan ke Satuan Internasional (SI), (c) kesalahan strategi yang berupa kesalahan dalam menggunakan
+data dan dalam penentuan langkah penyelesaian soal, dan (d) kesalahan hitung yang berupa kesalahan dalam melakukan
+operasi hitung. (2) Penyebab kesalahan yang dilakukan oleh siswa adalah: siswa lupa, tidak memahami simbol Fisika dari
+data-data yang disebutkan pada soal, salah mengartikan maksud soal, kurang teliti dalam membaca serta memahami
+maksud soal, kurang belajar, kurang memperhatikan penjelasan guru, tidak berani mengajukan pertanyaan ketika ada
+materi yang belum dipahami, kurang teliti, kurang latihan soal dan variasi dalam latihan soal, terburu-buru, dan
+kekurangan waktu. (3) Cara mengatasi terjadinya kesalahan siswa adalah: (a) guru memberikan motivasi kepada siswa
+dalam kegiatan pembelajaran sehingga siswa menyukai pembelajaran Fisika; lebih sering memberikan latihan dan tugas
+untuk menyelesaikan soal-soal Fisika yang bervariasi disertai pembahasannya; memperjelas konsep yang diberikan
+kepada siswa pada materi Termodinamika serta pengkonversian ke Satuan Internasional (SI); dan lebih sering
+mengingatkan siswa untuk lebih teliti dalam membaca soal, menghitung, serta meneliti kembali pekerjaannya jika telah
+selesai mengerjakan; (b) siswa lebih berkonsentrasi dalam belajar dan aktif dalam kegiatan pembelajaran; lebih rajin
+dalam belajar, mengerjakan soal-soal, dan bertanya kepada guru apabila ada materi yang belum dipahami.
+Kata Kunci: analisis, kesalahan menyelesaikan soal, soal Termodinamika
+
+PENDAHULUAN
+Fisika sangat berperan dalam perkembangan ilmu
+pengetahuan dan teknologi. Hal ini dikarenakan Fisika
+merupakan salah satu cabang ilmu pengetahuan alam (sains)
+yang mempelajari segala fenomena yang terjadi di alam
+semesta. Sehingga dengan mempelajari Fisika berarti juga
+mempelajari hakikat alam semesta. Selain itu, dengan
+mengetahui hakikat termasuk karakteristik alam semesta,
+dapat ditemukan berbagai cara dan alat yang dapat
+mempermudah usaha manusia dalam memenuhi kebutuhan
+hidupnya.
+Berdasarkan hal tersebut, sudah seharusnya Fisika dipelajari
+dan dipahami oleh manusia yang menggantungkan hidupnya
+pada alam. Hal ini dikarenakan mempelajari Fisika berkaitan
+dengan kehidupan sehari-hari. Fisika ditemukan dan
+dikembangkan berdasarkan masalah-masalah yang dihadapi
+manusia terkait dengan kehidupannya. Sehingga Fisika perlu
+dipelajari secara menyenangkan agar lebih mudah
+memahaminya.
+
+Akan tetapi, pelajaran Fisika cenderung dianggap sulit dan
+membosankan oleh sebagian siswa. Dalam pembelajaran di
+sekolah jarang diajarkan tentang contoh penerapan Fisika
+dalam kehidupan sehari-hari. Sehingga siswa merasa Fisika
+merupakan pelajaran yang tidak bermanfaat setelah lulus
+nantinya. Selain itu, pelajaran Fisika juga dianggap sulit
+karena banyak rumus dan hitungan. Seperti yang
+diungkapkan Suparno (2009: 2) bahwa beberapa siswa SMA
+tidak menyukai Fisika dan akhirnya memilih jurusan yang
+tidak ada pelajaran Fisika karena Fisika dianggap
+menakutkan, sulit dipelajari, banyak hitungan dan rumus.
+Pada proses pembelajaran Fisika, siswa dibimbing
+menyelesaikan soal-soal. Tujuan siswa dibimbing
+menyelesaikan soal-soal Fisika adalah agar ketika
+dihadapkan pada soal-soal Fisika, siswa mampu
+menyelesaikannya dengan baik. Akan tetapi, masih terdapat
+siswa yang melakukan kesalahan dalam menyelesaikan soalsoal Fisika. Banyak faktor yang mungkin menyebabkan
+kesalahan yang dilakukan oleh siswa. Faktor-faktor tersebut
+dapat berasal dari dalam atau luar diri siswa. Faktor dari
+dalam diri siswa dapat berupa motivasi, minat, dan bakat
+siswa. Faktor dari luar diri siswa dapat berupa kondisi
+lingkungan, keluarga, guru, teman, dan bahan belajar.
+
+Jurnal Materi dan Pembelajaran Fisika (JMPF)
+Volume 3 Nomor 1 2013 ISSN : 2089-6158
+
+Dalam pendidikan di Indonesia, kemampuan pemahaman
+siswa terhadap materi dilihat dari hasil tes dalam
+menyelesaikan soal, salah satunya pada pembelajaran Fisika.
+Keadaan tersebut dapat membuat siswa gugup dalam
+mengerjakan soal tes Fisika dan secara psikologis hal itu
+berdampak tidak baik untuk kemampuan berfikirnya. Hal ini
+dikarenakan dalam kondisi gugup siswa tidak dapat berfikir
+secara jernih untuk mengerjakan soal tes Fisika sehingga
+sering terjadi kesalahan-kesalahan dalam mengerjakan soal
+tes Fisika.
+Berdasarkan hasil observasi ketika melaksanakan Program
+Pengalaman Lapangan (PPL) di SMA Negeri 3 Surakarta,
+ternyata diketahui beberapa siswa masih melakukan
+kesalahan dalam menyelesaikan soal Fisika. Walaupun soal
+sudah diberikan guru saat latihan soal dalam pembelajaran di
+kelas, siswa masih ada yang melakukan kesalahan dalam
+menyelesaikan soal Fisika ketika diberikan tes. Dalam
+pembelajaran Fisika kelas XI IPA, materi Termodinamika
+merupakan materi yang cukup sulit untuk dipahami.
+Berdasarkan wawancara dengan guru Fisika di SMA Negeri
+3 Surakarta, masih banyak dijumpai beberapa kesalahan yang
+dilakukan oleh siswa dalam menyelesaikan soal materi
+Termodinamika. Salah satu kesalahan yang dilakukan siswa
+adalah kesalahan dalam menggambarkan diagram. Selain itu,
+masih ada siswa yang salah menggunakan rumus. Selain
+kesalahan-kesalahan tersebut, tidak menutup kemungkinan
+masih terdapat kesalahan-kesalahan lain yang dilakukan oleh
+siswa.
+Druxes, et al. mengungkapkan beberapa masalah pelajaran
+Fisika di sekolah (1986: 27-30) sebagai berikut: (1) Fisika
+Tidak Disukai, orang mengangap Fisika tidak bermanfaat
+dalam kehudupan sehari-hari dan sering dianggap hanya
+berisi rumus dan hitungan; (2) Fisika Itu Berat, dalam Fisika
+terdapat materi yang abstrak yang sulit diamati seperti
+relativitas; (3) Pelajaran Fisika Tidak Aktual, dalam
+pembelajaran Fisika di sekolah tidak mengaktualkan
+peristiwa-peristiwa Fisika yang sedang terjadi; dan (4)
+Pelajaran Fisika Itu Eksperimental, dalam pembelajaran
+Fisika diperlukan percobaan/eksperimen untuk memudahkan
+siswa dalam belajar tetapi hal itu merepotkan guru.
+Beberapa hal yang dikemukakan di atas berpengaruh dalam
+pembelajaran Fisika di Sekolah Menengah Atas (SMA), baik
+secara langsung maupun tidak langsung. Hal ini dapat
+membuat siswa melakukan kesalahan dalam menyelesaikan
+soal Fisika. Kesalahan merupakan hal yang wajar terjadi pada
+siswa yang sedang belajar. Akan tetapi, kesalahan-kesalahan
+yang muncul seharusnya dapat diminimalisasikan. Menurut
+Lerner (1981) beberapa kekeliruan umum yang dilakukan
+anak adalah kekurangan pemahaman tentang simbol, nilai
+tempat, perhitungan, penggunaan proses yang keliru, dan
+tulisan yang tidak terbaca (Abdurrahman, 2009: 262).
+Menurut Blando, Kelly, Schneider, dan Sleeman (1989)
+kesalahan terjadi jika siswa berhadapan dengan tugas yang
+sukar sehingga menghadapi jalan buntu, kemudian diatasi
+dengan memodifikasi prosedur yang diketahui dan diterapkan
+pada tugas tersebut. Menurut Matz (1982) kesalahan
+merupakan gangguan yang dapat berupa mal-rule, kesalahan
+sistematik yang merupakan kesalahan umum berkenaan
+dengan pilihan yang salah atas teknik ekstrapolasi,
+pengetahuan dasar yang kurang, dan kesalahan dalam proses
+pemecahan masalah. Pengelompokkan kesalahan menurut
+Sleeman, Kelly, Martinak, Ward, dan Moore (1989) terdiri
+atas: (a) kesalahan tetap, (b) kesalahan yang berkenaan
+
+6
+
+dengan perhatian, (c) mal-rule, dan (d) kesalahan mengingat,
+kesalahan hitung, serta kesalahan tulis (Sriati, 1994: 4-5).
+Penelitian tentangkesalahan yang dilakukan oleh siswa dalam
+menyelesaikan soal Fisika pernah dilakukan oleh Dewi
+(2011: 81-82) pada materi Keseimbangan Benda Tegar. Dari
+hasil penelitian tersebut, ditemukan jenis kesalahan dan
+penyebab kesalahan yang dilakukan oleh siswa yaitu
+kesalahan terjemahan yang disebabkan siswa kurang teliti
+dalam memahami maksud soal, siswa belum paham tentang
+penguraian gaya ke sumbu x dan y, dan siswa cenderung
+mengerjakan soal secara langsung tanpa menggambarkan
+sketsa soal; kesalahan strategi yang disebabkan siswa kurang
+latihan soal sehingga salah dalam menentukan langkah
+penyelesaian soal; kesalahan konsep yang disebabkan siswa
+tidak memahami konsep Momen Gaya dan kurang
+memperhatikan saat diterangkan; kesalahan hitung yang
+disebabkan siswa kurang teliti dalam melakukan operasi
+hitung; kesalahan tanda yang disebabkan siswa belum
+memahami bahwa gaya merupakan besaran vektor yang juga
+memperhatikan arahnya positif atau negatif dan siswa kurang
+teliti; dan kesalahan dalam trigonometri yang disebabkan
+siswa belum memahami konsep trigonometri.
+Penelitian lain tentang kesalahan yang dilakukan oleh siswa
+dalam menyelesaikan soal Fisika dilakukan oleh Anggraheni
+(2012: 76-77) padamateri Cahaya. Dari hasil penelitian
+tersebut, ditemukan jenis kesalahan dan penyebab kesalahan
+yang dilakukan oleh siswa yaitu kesalahan terjemahan yang
+disebabkan siswa tidak memahami data-data yang disebutkan
+dalam soal, tidak memahami simbol-simbol Fisika untuk
+data-data yang disebutkan dalam soal, kurang teliti dalam
+menuliskan apa yang diketahui dan ditanyakan ke dalam
+simbol Fisika, serta tidak memahami gambar pada soal;
+kesalahan strategi yang disebabkan siswa tidak memahami
+langkah yang tepat dalam penyelesaian soal dan kurang
+latihan menyelesaikan soal; kesalahan lonsep yang
+disebabkan siswa kurang maksimal dalam belajar dan tidak
+memperhatikan penjelasan guru; kesalahan hitung yang
+disebabkan siswa kurang terampil dan kurang teliti dalam
+operasi hitung; dan soal tidak direspon yang disebabkan
+siswa tidak mengetahui jawaban soal, tidak memahami
+langkah dalam menyelesaikan soal, dan kurang latihan
+menyelesaikan soal.
+Berdasarkan hasil penelitian yang relevan tentang kesalahan
+siswa dalam menyelesaikan soal dan berbagai masalah yang
+telah disampaikan di atas, maka rumusan masalah pada
+penelitian ini adalah: (1) Apa saja jenis kesalahan yang
+dilakukan oleh siswa dalam menyelesaikan soal materi
+Termodinamika? (2) Apa yang menyebabkan siswa
+melakukan kesalahan dalam menyelesaikan soal materi
+Termodinamika? dan (3) Bagaimana cara mengatasi
+terjadinya kesalahan siswa dalam menyelesaikan soal materi
+Termodinamika?
+METODE PENELITIAN
+Penelitian ini termasuk jenis penelitian deskriptif yang
+melalui pendekatan kualitatif. Penelitian ini dilaksanakan di
+SMA Negeri 3 Surakarta Tahun Ajaran 2011/ 2012. Metode
+pengumpulan data dalam penelitian ini menggunakan tes,
+observasi dan wawancara. Metode tes merupakan metode
+utama yang digunakan dalam mengumpulkan data pada
+penelitian ini, sedangkan observasi dan wawancara
+merupakan metode bantu sebagai pelengkap yang hasilnya
+digunakan sebagai pembanding dalam proses triangulasi.
+
+Jurnal Materi dan Pembelajaran Fisika (JMPF)
+Volume 3 Nomor 1 2013 ISSN : 2089-6158
+Tes dan observasi dilakukan pada siswa kelas XI IPA 3, XI
+IPA 6, dan XI IPA 7 SMA Negeri 3 Surakarta Tahun Ajaran
+2011/2012 yang berjumlah 91 siswa. Pemilihan siswa
+tersebut menggunakan teknik purposive sampling untuk
+mengetahui jenis kesalahan dan penyebab kesalahan yang
+dilakukan siswa dalam menyelesaikan soal-soal Fisika pada
+materi Termodinamika. Wawancara dilakukan untuk
+memperoleh informasi tentang penyebab kesalahan yang
+dilakukan siswa dalam pengerjaan tes. Pemilihan siswa
+menggunakan teknik snowball sampling, yaitu pemilihan
+siswa yang pada awalnya berjumlah sedikit, tetapi ketika
+belum mampu memberikan data yang memuaskan, maka
+perlu dicari siswa lain lagi yang dapat memberikan informasi
+yang lebih mendukung.
+Validitas data pada penelitian kualitatif ini digunakan
+triangulasi data dan triangulasi metode. Teknik analisis data
+yang digunakan dalam penelitian ini menggunakan teknik
+analisis data model Miles dan Huberman, yaitu model
+analisis interaktif yang meliputi: reduksi data, sajian data, dan
+penarikan kesimpulan serta verifikasinya (Sutopo, 2006:
+113).
+HASIL PENELITIAN DAN PEMBAHASAN
+Setelah dilakukan analisis terhadap lembar jawab siswa hasil
+tes tertulis materi Termodinamika, dapat diketahui kesalahankesalahan yang dilakukan siswa dalam menyelesaikan soal
+Fisika materi Termodinamika. Jenis kesalahan yang
+dilakukan siswa adalah kesalahan terjemahan, kesalahan
+konsep, kesalahan strategi, dan kesalahan hitung. Kesalahan
+terjemahan yang dilakukan siswa berupa kesalahan dalam
+menuliskan apa yang diketahui dan ditanyakan pada soal ke
+dalam simbol Fisika, memahami maksud soal, serta
+menuliskan data yang diketahui pada soal secara tepat.
+Kesalahan konsep yang dilakukan siswa berupa kesalahan
+dalam memahami konsep usaha yang dilakukan lingkungan
+pada sistem, proses Termodinamika, usaha pada proses
+Termodinamika, kapasitas kalor, Hukum I Termodinamika,
+perubahan energi dalam, siklus Termodinamika, mesin
+Carnot, perubahan entropi, dan mesin pendingin, serta
+mengkonversikan ke Satuan Internasional (SI). Kesalahan
+strategi yang dilakukan siswa berupa kesalahan dalam
+menggunakan data dan dalam penentuan langkah
+penyelesaian soal. Selain itu, siswa juga tidak memenuhi
+tuntutan soal, menggunakan cara yang rumit dan tidak tepat,
+menggambar satu proses tambahan sehingga menjadi siklus,
+tidak selesai menjawab soal, tidak mengubah P ΔV menjadi
+n R ΔT , tidak menjawab soal, dan salah mengubah
+persamaan. Kesalahan hitung yang dilakukan siswa berupa
+kesalahan dalam melakukan operasi hitung.
+Setelah dilakukan analisis terhadap lembar jawab siswa hasil
+tes Fisika materi Termodinamika menunjukkan bahwa
+terdapat beberapa kesalahan yang dilakukan oleh siswa dalam
+menyelesaikan soal. Untuk menghindari subjektivitas peneliti
+mengenai jenis kesalahan dan penyebab siswa melakukan
+kesalahan dalam menyelesaikan soal-soal Fisika materi
+Termodinamika, maka dilakukan triangulasi data dan
+triangulasi metode melalui pertimbangan dari data hasil tes,
+observasi, dan wawancara. Penyebab kesalahan terjemahan
+adalah siswa lupa, tidak memahami simbol Fisika dari datadata yang disebutkan pada soal, salah mengartikan maksud
+soal, dan kurang teliti dalam membaca serta memahami
+maksud soal. Penyebab kesalahan konsep adalah siswa
+kurang belajar, kurang memperhatikan penjelasan guru, dan
+tidak berani mengajukan pertanyaan ketika ada materi yang
+belum dipahami. Penyebab kesalahan strategi adalah siswa
+
+7
+
+lupa, kurang teliti, kurang latihan soal, kurang variasi dalam
+latihan penyelesaian soal, terburu-buru, dan kekurangan
+waktu. Penyebab kesalahan hitung adalah siswa kurang teliti
+dalam menghitung dan terburu-buru dalam mengerjakan.
+Berdasarkan jenis kesalahan dan penyebab kesalahan yang
+dilakukan siswa dalam menyelesaikan soal Fisika materi
+Termodinamika, maka dapat dikemukakan beberapa cara
+untuk mengatasi terjadinya kesalahan tersebut, yaitu: (1) guru
+diharapkan memberikan motivasi kepada siswa dalam
+kegiatan
+pembelajaran
+sehingga
+siswa
+menyukai
+pembelajaran Fisika; (2) guru diharapkan lebih sering
+memberikan latihan dan tugas untuk menyelesaikan soal-soal
+Fisika yang bervariasi disertai pembahasannya; (3) guru
+diharapkan memperjelas konsep yang diberikan kepada siswa
+pada materi Termodinamika, yaitu konsep usaha yang
+dilakukan lingkungan pada sistem, proses Termodinamika,
+usaha pada proses Termodinamika, kapasitas kalor, Hukum I
+Termodinamika,
+perubahan
+energi
+dalam,
+siklus
+Termodinamika, mesin Carnot, perubahan entropi, dan mesin
+pendingin, serta mengkonversikan ke Satuan Internasional
+(SI); (4) guru diharapkan lebih sering mengingatkan siswa
+untuk lebih teliti dalam membaca soal dan menghitung, serta
+meneliti kembali pekerjaannya jika telah selesai
+mengerjakan; (5) siswa diharapkan lebih berkonsentrasi
+dalam belajar dan aktif dalam kegiatan pembelajaran; dan (6)
+siswa diharapkan lebih rajin dalam belajar, mengerjakan soalsoal, dan bertanya kepada guru apabila ada materi yang
+belum dipahami.
+KESIMPULAN DAN SARAN
+Berdasarkan pada hasil penelitian dan pembahasan, dapat
+disimpulkan: (1) Jenis kesalahan yang dilakukan oleh siswa
+dalam menyelesaikan soal materi Termodinamika adalah: (a)
+Kesalahan terjemahan berupa kesalahan dalam menuliskan
+apa yang diketahui dan ditanyakan pada soal ke dalam simbol
+Fisika, memahami maksud soal, serta menuliskan data yang
+diketahui pada soal secara tepat; (b) Kesalahan konsepberupa
+kesalahan dalam memahami konsep usaha yang dilakukan
+lingkungan pada sistem, proses Termodinamika, usaha pada
+proses Termodinamika, kapasitas kalor, Hukum I
+Termodinamika,
+perubahan
+energi
+dalam,
+siklus
+termodinamika, mesin Carnot, perubahan entropi, dan mesin
+pendingin, serta mengkonversikan ke Satuan Internasional
+(SI); (c) Kesalahan strategi berupa kesalahan dalam
+menggunakan data dan dalam penentuan langkah
+penyelesaian soal; dan (d) Kesalahan hitung berupa kesalahan
+dalam melakukan operasi hitung; (2) Penyebab kesalahan
+siswa dalam menyelesaikan soal materi Termodinamika
+adalah: siswa lupa, tidak memahami simbol Fisika dari datadata yang disebutkan pada soal, salah mengartikan maksud
+soal, kurang teliti dalam membaca serta memahami maksud
+soal; kurang belajar, kurang memperhatikan penjelasan guru,
+tidak berani mengajukan pertanyaan ketika ada materi yang
+belum dipahami; kurang teliti, kurang latihan soal, kurang
+variasi dalam latihan penyelesaian soal, terburu-buru, dan
+kekurangan waktu; (3) Cara mengatasi terjadinya kesalahan
+siswa dalam menyelesaikan soal-soal materi Termodinamika
+adalah: (a) guru memberikan motivasi kepada siswa dalam
+kegiatan
+pembelajaran
+sehingga
+siswa
+menyukai
+pembelajaran Fisika; lebih sering memberikan latihan dan
+tugas untuk menyelesaikan soal-soal Fisika yang bervariasi
+disertai pembahasannya; memperjelas konsep yang diberikan
+kepada siswa pada materi Termodinamika serta
+pengkonversian ke Satuan Internasional (SI); dan lebih sering
+mengingatkan siswa untuk lebih teliti dalam membaca soal,
+menghitung, serta meneliti kembali pekerjaannya jika telah
+selesai mengerjakan; (b) siswa lebih berkonsentrasi dalam
+
+Jurnal Materi dan Pembelajaran Fisika (JMPF)
+Volume 3 Nomor 1 2013 ISSN : 2089-6158
+belajar dan aktif dalam kegiatan pembelajaran; lebih rajin
+dalam belajar, mengerjakan soal-soal, dan bertanya kepada
+guru apabila ada materi yang belum dipahami.
+Berdasarkan hasil penelitian, dapat dikemukakan beberapa
+saran, antara lain: (1) guru sebaiknya menyampaikan konsep
+dasar dari setiap materi dalam mengajar dan tidak hanya
+menyampaikan rumus yang cenderung membuat siswa
+menghafal sehingga mudah lupa; (2) guru hendaknya
+mengajak siswa lebih aktif lagi pada kegiatan pembelajaran,
+sehingga diharapkan agar siswa dapat menanyakan bagianbagian dari materi yang belum dipahami; (3) guru hendaknya
+lebih kreatif dalam membuat variasi bentuk soal sehingga
+membuat siswa menjadi lebih terampil dalam menyelesaikan
+soal-soal Fisika; (4) guru hendaknya memberikan umpan
+balik kepada siswa agar siswa mengetahui kesalahannya dan
+dapat memperbaikinya; (5) guru hendaknya mengingatkan
+siswa untuk lebih meningkatkan ketelitian dalam
+menyelesaikan soal; (6) siswa diharapkan lebih
+berkonsentrasi dalam belajar dan aktif dalam kegiatan
+pembelajaran; (7) siswa diharapkan lebih rajin dalam belajar,
+mengerjakan soal-soal, dan bertanya kepada guru apabila ada
+materi yang belum dipahami; dan (8) siswa diharapkan lebih
+teliti dalam membaca soal dan menghitung.
+DAFTAR PUSTAKA
+Abdurrahman, M. (2009). Pendidikan bagi Anak Berkesulitan
+Belajar. Jakarta: Rineka Cipta.
+Anggraheni, S. (2012). Analisis Kesalahan dalam
+Menyelesaikan Soal Materi Pokok Cahaya pada Siswa
+Kelas VIII SMP Negeri 1 Wonosegoro Tahun Ajaran
+2011/2012. Skripsi Tidak Dipublikasikan, Universitas
+Sebelas Maret, Surakarta.
+Dewi,
+N.D.K.
+(2011).
+Analisis
+Kesalahandalam
+Menyelesaikan Soal Fisika pada Siswa Kelas XI SMA
+Negeri 1 Gemolong Tahun Pelajaran 2010/2011. Skripsi
+Tidak Dipublikasikan, Universitas Sebelas Maret,
+Surakarta.
+Druxes, V.H., Born, G., & Siemsen, F. (1986). Kompendium
+Didaktik Fisika. Terj. Soeparmo. Bandung: Remadja
+Karya. (Buku asli diterbitkan 1983).
+Sriati, A. (1994). Kesulitan Belajar Matematika pada Siswa
+SMA: Pengkajian Diagnostik. Jurnal Kependidikan,
+XXIV (2), 1-11.
+Suparno, P. (2009). Kajian Kurikulum Fisika SMA/MA
+Berdasakan KTSP. Yogyakarta: Universitas Sanata
+Dharma.
+Sutopo, H.B. (2006). Metodologi Penelitian Kualitatif
+Dasar Teori dan Terapannya dalam Penelitian.
+Surakarta: UNS Press.
+
+8
+
+

@@ -1,0 +1,996 @@
+JURNAL AKUNTANSI VOL. 4 NO. 1 JUNI 2016
+
+PENGARUH PROFITABILITAS, STRUKTUR MODAL, KEBIJAKAN
+DEVIDEN, DAN KEPUTUSAN INVESTASI TERHADAP NILAI
+PERUSAHAAN
+(Studi Kasus Perusahaan Manufaktur Yang Go Publik di Bursa Efek Indonesia)
+PERIODE 2010 - 2014
+Sri Ayem*
+Ragil Nugroho
+Program Studi Akuntansi Fukultas Ekonomi
+Universitas Sarjanawiyata Tamansiswa
+*sriayemfeust@gmail.com
+ABSTRACT
+This research aims to find empirical evidence about the influence of profitability on firm
+value. To find empirical evidence about the influence of capital structure on firm value. To find
+empirical evidence about the influence of dividend policy on firm value. To know more about the
+influence of empirical evidence Investment Decision on firm value. To know more about the
+influence of empirical evidence profitability, capital structure, dividend policy and investment
+decisions simultaneously on firm value.
+Variables of this research are Profitability, Capital Structure, Dividend Policy, Investment
+Decisions and firm value. The type of data research is secondary data, it is manufacturing
+company's financial statements the period of 2010 - 2014. The analysis technique used is multiple
+linear regression with a significance level of 5%.
+The research results show that profitability have a positive and significant effect on firm
+value. Capital structure does not affect the firm value. Dividend policy is positive and significant
+effect on firm value. Investment policy and significant positive effect on firm value. Simultaneously
+profitability, capital structure, dividend policy and investment decisions are have significant effect
+on firm value. The effect of profitability, capital structure, dividend policy, and investment decisions
+to firm value by 37.5% while the rest influenced by other factors not included in the research
+model.
+Keywords: Profitability, Capital Structure, Dividend Policy, Investment Decisions and Firm
+Value
+PENDAHULUAN
+Optimalisasi nilai perusahaan dapat
+dicapai melalui pelaksanaan fungsi manajemen
+keuangan, dimana satu keputusan keuangan
+yang diambil akan mempengaruhi keputusan
+keuangan lainnya dan berdampak pada nilai
+perusahaan. Menurut Suad dan Pudjiastuti,
+(2012), manajemen keuangan menyangkut
+penyelesaian atas keputusan penting yang
+diambil perusahaan, antara lain profitabilitas,
+struktur modal, keputusan deviden, dan
+keputusan investasi. Suatu kombinasi yang
+optimal atas keempat faktor tersebut akan
+memaksimumkan nilai perusahaan yang
+
+selanjutnya akan meningkatkan kemakmuran
+kekayaan pemegang saham. Investasi modal
+merupakan salah satu aspek utama dalam
+keputusan investasi selain penentuan komposisi
+aktiva. Keputusan pengalokasian modal ke
+dalam usulan investasi harus dievaluasi dan
+dihubungkan dengan risiko dan hasil yang
+diharapkan.
+Menurut
+signaling
+theory,
+pengeluaran investasi memberikan sinyal positif
+mengenai pertumbuhan perusahaan di masa
+yang akan datang, sehingga dapat meningkatkan
+harga saham yang digunakan sebagai indikator
+nilai perusahaan (Ningsih dan Indarti (2012).
+Keputusan yang menyangkut investasi akan
+31
+
+JURNAL AKUNTANSI VOL. 4 NO. 1 JUNI 2016
+menentukan sumber dan bentuk dana untuk
+pembiayaannya. Masalah yang harus dijawab
+dalam keputusan pendanaan yang dihubungkan
+dengan sumber dana adalah apakah sumber
+internal atau eksternal, besarnya hutang dan
+modal sendiri, dan bagaimana tipe hutang dan
+modal yang akan digunakan, mengingat struktur
+pembiayaan akan menentukan cost of capital
+yang akan menjadi dasar penentuan required
+return yang diinginkan.
+Dalam berinvestasi para investor
+maupun calon investor perlu mengumpulkan
+informasi sebagai salah satu dasar pertimbangan
+dalam pengambilan keputusan investasi di pasar
+modal. Indikator yang biasanya digunakan para
+investor
+adalah
+dengan
+memperhatikan
+profitabilitasnya karena semakin tinggi laba,
+semakin tinggi pula return yang akan diperoleh
+investor. Pengambilan variabel ROE sebagai
+sampel dari indikator profitabilitas dikarenakan
+atas dasar ROE mempunyai keterkaitan yang
+paling kuat untuk dihubungkan dengan variabel
+Tobins’Q yang merupakan sebagai sampel dari
+indikator nilai perusahaan. Dimana ROE
+menunjukan berapa besarnya pengembalian atas
+modal atau equity yang akan dtanamkan oleh
+investor.
+Tobin’s Q yaitu nilai pasar dari suatu
+perusahaan dengan membandingkan nilai pasar
+suatu perusahaan yang terdaftar di pasar
+keuangan dengan nilai penggantian aset (asset
+replacement value) perusahaan (Ningsih dan
+Indarti (2012). Penelitian ini mencoba meneliti
+nilai perusahaan dengan pendekatan harga
+saham dengan menggunakan rasio Tobin’s Q.
+Alasan memilih rasio Tobin’q dalam penelitian
+ini untuk mengukur nilai perusahaan adalah
+karena penghitungan rasio Tobin’s Q lebih
+rasional mengingat unsur-unsur kewajiban juga
+dimasukkan sebagai dasar penghitungan. Saat
+ini dunia usaha sangat tergantung pada masalah
+pendanaan. Struktur modal dalam penelitian ini
+diukur menggunakan DER (debt to equity
+ratio). Penelitian terdahulu masih menunjukkan
+ketidak pastian hubungan antara struktur modal
+terhadap nilai perusahaan. Menurut Rizqia, et
+al. (2013) struktur modal memiliki pengaruh
+positif terhadap nilai perusahaan.
+
+32
+
+Kemampuan
+perusahaan
+dalam
+membayarkan dividen dapat mencerminkan
+nilai perusahaan. Jika pembayaran dividen
+tinggi, maka harga saham juga tinggi yang
+berdampak pada tingginya nilai perusahaan
+begitu juga sebaliknya (Susanti, 2010). Dengan
+demikian, kebijakan dividen merupakan salah
+satu keputusan yang paling penting tentang
+kekhawatiran yang dihadapi oleh perusahaan
+dalam kebijakan dividen adalah seberapa
+banyak pendapatan yang bisa dibayarkan
+sebagai dividen dan seberapa banyak dapat
+dipertahankan. Dalam penelitian ini kebijakan
+dividen diukur dengan DPR (dividend payout
+ratio).
+Kebijakan lain yang berkenaan dengan
+nilai perusahaan adalah keputusan investasi.
+Melakukan kegiatan investasi merupakan
+keputusan tersulit bagi manajemen perusahaan
+karena akan mempengaruhi nilai perusahaan.
+Tujuan dilakukannya keputusan investasi adalah
+mendapat laba yang besar dengan risiko yang
+dapat dikelola dengan harapan dapat
+mengoptimalkan nilai perusahaan (Afzal dan
+Abdul, 2012). Ni Luh Putu Rassri Gayatri dan I
+Ketut Mustanda. (2013) mendapat hasil
+penelitian
+bahwa
+keputusan
+investasi
+berpengaruh
+signifikan
+terhadap
+nilai
+perusahaan.
+Sedangkan
+Hamid
+(2012)
+berpendapat bahwa keputusan investasi tidak
+berpengaruh secara positif dan tidak signifikan
+terhadap
+nilai
+perusahaan.
+Perusahaan
+melakukan
+investasi
+bertujuan
+untuk
+mendapatkan keuntungan di masa yang akan
+datang. Keputusan investasi mempunyai jangka
+waktu yang panjang, sehingga keputusan yang
+diambil harus dipertimbangkan dengan baik,
+karena mempunyai risiko berjangka panjang
+pula. Kesalahan dalam mengadakan peramalan
+akan dapat mengakibatkan kerugian bagi
+perusahaan. Dalam penlitian ini proksi
+kebijakan investasi diukur dengan IOS.
+LANDASAN TEORI
+Pengaruh profitabilitas terhadap nilai
+perusahaan
+Profitabilitas
+adalah
+kemampuan
+perusahaan untuk memperoleh laba. Laba
+diperoleh perusahaan berasal dari penjualan dan
+
+JURNAL AKUNTANSI VOL. 4 NO. 1 JUNI 2016
+investasi
+yang
+dilakukan
+perusahaan.
+Profitabilitas juga merupakan gambaran kinerja
+manajemen dalam mengelola perusahaan.
+Profitabilitas perusahaan dapat dihitung
+menggunakan ROE (return on Equity), dengan
+membagi laba bersih setelah pajak (earnings
+after tax) dengan modal sendiri.
+Semakin tinggi ROE maka semakin
+tinggi
+kemampuan
+perusahaan
+untuk
+menghasilkan keuntungan dan akan membuat
+profitabilitas perusahaan tinggi. Profitabilitas
+yang tinggi akan memberikan sinyal positif bagi
+investor bahwa perusahaan berada dalam
+kondisi yang menguntungkan. Hal ini menjadi
+daya tarik investor untuk memiliki saham
+perusahaan. Permintaan saham yang tinggi akan
+membuat para investor menghargai nilai saham
+lebih besar dari pada nilai yang tercatat pada
+neraca perusahaan, sehingga nilai perusahaan
+pun tinggi. Dengan demikian maka profitabilitas
+memiliki pengaruh positif terhadap nilai
+perusahaan.
+Pengaruh Struktul Modal terhadap nilai
+perusahaan
+Struktur modal didefinisikan sebagai
+keputusan yang menyangkut komposisi
+pendanaan yang dipilih oleh perusahaan.
+Sumber pendanaan di dalam suatu perusahaan
+dibagi menjadi dua kategori yaitu pendanaan
+internal dan pendanaan eksternal. Setiap
+perusahaan akan mengharapkan adanya struktur
+modal optimal, yaitu struktur modal yang dapat
+memaksimalkan nilai perusahaan (value of the
+firm) dan meminimalkan biaya modal (cost of
+capital). Menurut pecking order theory, dana
+eksternal lebih disukai dalam bentuk hutang
+daripada modal sendiri karena dua alasan yaitu
+pertimbangan biaya emisi, dimana biaya emisi
+obligasi lebih murah dibandingkan biaya emisi
+saham baru. Hal ini disebabkan karena
+penerbitan saham baru akan menurunkan harga
+saham lama. Alasan kedua adalah adanya
+kekhawatiran manajer bahwa penerbitan saham
+baru dapat ditafsirkan sebagai kabar buruk oleh
+pemodal yang mengakibatkan menurunnya nilai
+perusahaan.
+Manajer dapat menggunakan hutang
+sebagai sinyal yang lebih terpercaya untuk para
+investor. Ini karena perusahaan yang
+
+meningkatkan hutang dapat dipandang sebagai
+perusahaan yang yakin dengan prospek
+perusahaan di masa yang akan datang. Jadi
+penggunaan hutang merupakan tanda atau sinyal
+positif dari perusahaan yang dapat membuat
+para investor menghargai nilai saham lebih
+besar dari pada nilai yang tercatat pada neraca
+perusahaan, sehingga PBV perusahaan tinggi
+dan nilai perusahaan pun tinggi. meningkatkan
+nilai perusahaan. Dengan demikian maka
+keputusan pendanaan memiliki pengaruh positif
+terhadap nilai perusahaan.
+Pengaruh kebijakan dividen terhadap nilai
+perusahaan
+Pada dasarnya, laba bersih perusahaan
+dapat dibagikan kepada pemegang saham
+sebagai dividen atau ditahan dalam bentuk laba
+ditahan untuk membiayai investasi perusahaan.
+Kebijakan dividen berkaitan dengan kebijakan
+mengenai seberapa besar laba yang diperoleh
+perusahaan akan didistribusikan kepada
+pemegang saham (Titin Herawati (2013).
+Penelitian Wijaya dan Wibawa (2010), dapat
+membuktikan bahwa
+kebijakan dividen
+mempengaruhi nilai perusahaan secara positif.
+Menurut teori information content of dividend,
+investor akan melihat kenaikan dividen sebagai
+sinyal positif atas prospek perusahaan di masa
+depan. Pembagian dividen memberikan sinyal
+perubahan yang menguntungkan pada harapan
+manajer dan penurunan dividen menunjukkan
+pandangan pesimis prospek perusahaan dimasa
+yang akan datang.
+Perusahaan yang dapat memberikan
+dividen tinggi juga akan mendapatkan nilai
+kepercayaan yang tinggi dari para investor,
+karena investor lebih menyukai kepastian
+tentang returns investasinya dan mengantisipasi
+risiko ketidakpastian tentang kebangkrutan
+perusahaan. Dividen yang tinggi akan membuat
+para investor tertarik sehingga meningkatkan
+permintaan saham. Permintaan saham yang
+tinggi akan membuat para investor menghargai
+nilai saham lebih besar dari pada nilai yang
+tercatat pada neraca perusahaan, sehingga PBV
+perusahaan tinggi dan nilai perusahaan pun
+tinggi. Dengan demikian maka kebijakan
+dividen memiliki pengaruh positif terhadap nilai
+perusahaan.
+33
+
+JURNAL AKUNTANSI VOL. 4 NO. 1 JUNI 2016
+Pengaruh keputusan investasi terhadap nilai
+perusahaan
+Keputusan
+investasi
+adalah
+keputusan
+penanaman modal berjangka waktu lama yang
+menyangkut harapan terhadap hasil keuntungan
+yang diperoleh perusahaan di masa yang akan
+datang. Keputusan investasi mempunyai
+dimensi waktu jangka panjang, sehingga
+keputusan yang diambil harus dipertimbangkan
+dengan baik, karena mempunyai risiko
+berjangka panjang pula.
+Signaling teory menjelaskan bahwa
+pengeluaran investasi memberikan sinyal positif
+tentang pertumbuhan perusahaan dimasa yang
+akan datang, sehingga meningkatkan harga
+saham sebagai indikator nilai perusahaan.
+Keputusan investasi dalam penelitian ini
+diproksikan dengan Price Earnings Ratio
+(PER). PER yang tinggi menunjukkan investasi
+perusahaan
+yang
+bagus
+dan
+prospek
+pertumbuhan perusahaan yang bagus sehingga
+
+para investor akan tertarik. Permintaan saham
+yang tinggi akan membuat para investor
+menghargai nilai saham lebih besar dari pada
+nilai yang tercatat pada neraca perusahaan,
+sehingga PBV perusahaan tinggi dan nilai
+perusahaan pun tinggi. Dengan demikian maka
+keputusan investasi memiliki pengaruh positif
+terhadap nilai perusahaan.
+METODOLOGI PENELITIAN
+Jenis penelitian yang digunakan adalah
+kuantitatif yaitu jenis penelitian yang berwujud
+angka-angka yang bersifat statistik (Sugiyono,
+2006). Variabel penelitian ini adalah
+Profitabilitas, Struktur Modal, Kebijakan
+Deviden, Keputusan
+Investasi dan nilai
+perusahaan. Jenis Data penelitian adalah data
+sekuder berupa laporan keuangan perusahaan
+Manufaktur periode tahun 2010 – 2014. Teknik
+analisis yang digunakan adalah regresi linier
+berganda dengan taraf signifikansi 5%.
+
+HASIL DAN PEMBAHASAN
+Gambaran Umum Obyek Penelitian
+Tabel 1
+Prosedur Pemilihan Sampel
+No.
+1
+
+Uraian
+Jumlah
+Total perusahaan Manufaktur yang listing berturut-turut di BEI dari
+65
+tahun 2010 sampai 2014
+2
+Perusahaan yang terkena delisting
+12
+3
+Perusahaan yang tidak mengeluarkan laporan keuangan secara
+22
+lengkap dari 2010 - 2014
+Total sampel Perusahaan
+31
+Total observasi selama 2010 - 2014
+155
+Sumber : http://www.sahamok.com
+Tabel 1. menunjukkan terdapat 31
+sampel perusahaan manufaktur yang memenuhi
+kriteria dari 65 perusahaan manufaktur yang
+listing di BEI selama 2010 sampai 2014, 12
+
+34
+
+perusahaan manufaktur terkena delisting dan 22
+perusahaan tidak melaporkan keuangan secara
+lengkap dari tahun 2010 sampai 2014.
+
+JURNAL AKUNTANSI VOL. 4 NO. 1 JUNI 2016
+Statistik Diskriptif Variabel
+Tabel 2.
+Descriptive Statistics Variabel
+N
+155
+155
+155
+155
+155
+155
+
+Nilai Perusahaan
+Profitabilitas
+Struktur Modal
+Kebijakan Deviden
+Kebijakan Investasi
+Valid N (listwise)
+
+Minimum
+,108
+,010
+,004
+,002
+,030
+
+Tabel 2. menunjukkan bahwa variabel
+nilai perusahaan (Y) memiliki nilai minimum
+sebesar 0,108 dan nilai maksimum sebesar
+11,868, nilai rata-rata sebesar 2,63633dengan
+standar deviasi 2,006867, Profitabilitas (X1)
+memiliki nilai minimum sebesar 0,010 dan nilai
+maksimum sebesar 3,457 nilai rata-rata sebesar
+0,27851 dengan standar deviasi 0, 418488.
+Variabel struktur modal (X2) memiliki nilai
+minimum sebesar 0,004 dan nilai maksimum
+
+Maximum
+11,868
+3,457
+9,040
+2,304
+12,864
+
+Mean Std. Deviation
+2,63633
+2,006867
+,27851
+,418488
+1,39990
+1,571632
+,57165
+,311379
+2,39991
+2,618940
+
+sebesar 9,040, nilai rata-rata sebesar 1,39990
+dengan standar deviasi 1,571632. Variabel
+kebijakan deviden (X3) memiliki nilai minimum
+sebesar 0,002 dan nilai maksimum sebesar
+2,304, nilai rata-rata sebesar 0, 57165 dengan
+standar deviasi 0,311379. Variabel kebijakan
+investasi (X3) memiliki nilai minimum sebesar
+0,030 dan nilai maksimum sebesar 12,864, nilai
+rata-rata sebesar 2,39991 dengan standar deviasi
+2,618940.
+
+Uji Asumsi Klasik
+Uji Normalitas
+Tabel 3.
+Uji Normalitas
+Unstandardized Residual
+N
+Normal Parameters
+
+155
+a,b
+
+Mean
+Std. Deviation
+
+Most Extreme Differences
+
+Kolmogorov-Smirnov Z
+Asymp. Sig. (2-tailed)
+
+,0000000
+1,38811370
+
+Absolute
+
+,094
+
+Positive
+
+,094
+
+Negative
+
+-,034
+1,175
+,127
+
+Tabel 3. menunjukkan bahwa nilai Kolmogrov-Smirnov Z sebesar 1,175 dan nilai Asymp.
+Sig. (2-tailed) sebesar 0,127 (0,127 > 0,05) yang diperoleh model regresi lebih dari  (p> 0,05),
+berarti berdistribusi normal.
+
+35
+
+JURNAL AKUNTANSI VOL. 4 NO. 1 JUNI 2016
+4-du (2,2934), hal ini menunjukkan bahwa
+regresi tidak ada autokorelasi.
+
+Uji Multikolinieritas
+Tabel 4
+Hasil Uji Multikolinieritas
+Model
+1
+
+Collinearity Statistics
+Tolerance
+VIF
+(Constant)
+Profitabilitas
+Struktur Modal
+Kebijakan Deviden
+Kebijakan
+Investasi
+
+,935
+,977
+,890
+,902
+
+1,070
+1,024
+1,123
+1,109
+
+Uji Heterokedastisitas
+Tabel 6
+Hasil Uji Heterokedastisitas
+
+Berdasarkan tabel 4. menunjukkan
+bahwa nilai tolerance untuk variabel
+profitabilitas sebesar 0,935 dengan nilai VIF
+1,070, struktur modal sebesar 0,977 dengan nilai
+VIF 1,024. Kebijakan deviden sebesar 0,890
+dengan nilai VIF 1,123. Kebijakan investasi
+sebesar 0,902 dengan nilai VIF 1,109. Hasil
+diatas semua variabel bebas memiliki nilai VIF
+lebih kecil dari 10, sehingga dapat disimpulkan
+bahwa tidak ada multikolinieritas.
+
+Model
+1
+
+Tabel.5.
+Hasil Uji Autokolerasi
+1,711
+
+(Constant)
+Profitabilitas
+Struktur Modal
+Kebijakan Deviden
+Kebijakan Investasi
+
+3,309
+1,237
+,391
+1,768
+-,236
+
+Sig.
+,001
+,219
+,697
+,080
+,814
+
+Uji heterokedastisitas menggunakan
+uji Glejser. Tabel 4.6. menunjukkan
+bahwa nilai signifikan semua variabel
+bebas lebih besar dari 0,05 (p>0,05), maka
+tidak
+signifikan,
+sehingga
+dapat
+disimpukan
+tidak
+terjadi
+heteroskedastisitas.
+
+Uji Autokolerasi
+
+Nilai Durbin-Watson
+
+t
+
+Keterangan
+Tidak ada
+Autokolerasi
+
+dari hasil output SPSS diatas dapat
+diketahui nilai DW sebesar dl (1,6188 ≤ 1,711 ≤
+Analisis Data
+Regresi Linier Berganda
+Tabel 7
+Hasil Regresi Linier Berganda
+Model
+1
+
+(Constant)
+Profitabilitas
+Struktur Modal
+Kebijakan Deviden
+Kebijakan Investasi
+
+Unstandardized
+Coefficients
+B
+Std. Error
+-,008
+,278
+1,265
+,280
+,104
+,073
+2,230
+,386
+,385
+,054
+
+Standardized
+Coefficients
+Beta
+,264
+,082
+,346
+,425
+
+t
+-,029
+4,516
+1,429
+5,782
+7,150
+
+Sig.
+,977
+,000
+,155
+,000
+,000
+
+Persamaan regresi :
+Y = -0,008 + 1,265X1 + 0,104X2 + 2,230X3+ 0,385X4
+
+1 = 1,265 artinya apabila variabel lain
+dianggap konstan maka setiap kenaikan
+profitabilitas sebesar 1%, maka akan menaikkan
+36
+
+nilai perusahaan sebesar 1,265%. 2 = 0,104
+artinya apabila variabel lain dianggap konstan
+maka setiap kenaikan struktur modal sebesar
+1%, maka akan menaikan nilai perusahaan
+
+JURNAL AKUNTANSI VOL. 4 NO. 1 JUNI 2016
+sebesar 0,104%. 3 = 2,230 artinya apabila
+variabel lain dianggap konstan maka setiap
+kenaikan kebijkan deviden sebesar 1%, maka
+akan menaikan nilai perusahaan sebesar
+2,230%.
+4 = 0,385 artinya apabila variabel
+lain dianggap konstan maka setiap kenaikan
+kebijakan investasi sebesar 1%, maka akan
+menaikan nilai perusahaan sebesar 0,385%.
+Uji t
+Profitabilitas
+p-value profitabilitas sebesar 0,000 <
+0,05 (p<0,05), sehingga Ha diterima Ho ditolak
+atau H1 diterima, yang artinya profitabilitas
+berpengaruh
+signifikan
+terhadap
+nilai
+perusahaan. Pengaruh profitabilitas terhadap
+nilai perusahaan bersifat positif artinya semakin
+besar profitabilitas maka semakin tinggi nilai
+perusahaan. Profitabilitas yang tinggi akan
+memberikan sinyal positif bagi investor bahwa
+perusahaan berada dalam kondisi yang
+menguntungkan atau memiliki kemampuan
+laba, dalam hal ini adalah kemampuan
+perusahaan dalam menghasilkan laba atas modal
+sendiri. Hal ini menjadi daya tarik investor
+untuk memiliki saham perusahaan tersebut,
+sehingga permintaan saham yang tinggi akan
+meningkatkan nilai jual perusahan menjadi
+semakin besar atau nilai perusahaan mengalami
+peningkatan.
+Struktur Modal
+p-value struktur modal sebesar 0,192 >
+0,05 (p>0,05), sehingga Ha ditolak Ho diterima
+atau H2 ditolak, yang artinya struktur modal
+tidak berpengaruh terhadap nilai perusahaan.
+Pengaruh struktur modal terhadap nilai
+perusahaan bersifat positif artinya semakin
+besar struktur modal maka semakin tinggi nilai
+perusahaan. Hal ini menunjukkan perusahaan
+lebih menyukai modal sendiri dalam
+
+berinvestasi dibanding dengan hutang, dengan
+menerbitkan saham-saham baru, yang diyakini
+manajemen lebih efisien.
+Kebijakan Deviden
+p-value kebijakan deviden sebesar 0,000
+< 0,05 (p<0,05), sehingga Ha diterima Ho
+ditolak atau H3 diterima, yang artinya kebijakan
+deviden berpengaruh signifikan terhadap nilai
+perusahaan. Pengaruh kebijakan deviden
+terhadap nilai perusahaan bersifat positif artinya
+semakin besar kebijakan deviden maka semakin
+tinggi nilai perusahaan. Kebijakan dividen
+berkaitan dengan kebijakan mengenai seberapa
+besar laba yang diperoleh perusahaan akan
+didistribusikan kepada pemegang saham.
+Semakin besar laba yang dibagikan kepada
+pemegang saham, maka ketertarikan investor
+dalam perusahaan tersebut semakin besar,
+sehingga meningkatkan nilai perusahaan.
+Kebijakan Investasi
+p-value kebijakan investasi sebesar 0,005
+< 0,05 (p<0,05), sehingga Ha diterima Ho
+ditolak atau H4 diterima, yang artinya kebijakan
+investasi berpengaruh signifikan terhadap nilai
+perusahaan. Pengaruh kebijakan investasi
+terhadap nilai perusahaan bersifat positif artinya
+semakin besar kebijakan investasi maka
+semakin tinggi nilai perusahaan. Pengeluaran
+investasi memberikan sinyal positif tentang
+pertumbuhan perusahaan dimasa yang akan
+datang, sehingga meningkatkan harga saham
+sebagai indikator nilai perusahaan. Semakin
+besar investasi yang ditanamkan perusahaan,
+maka akan semakin tinggi keuntunggan atau
+laba didapat perusahaan, hal ini akan
+mendorong tingginya investor menanmkan
+modalnya diperusahaan tersebut, sehingga akan
+meningkatkan
+nilai
+perusahaan.
+
+37
+
+JURNAL AKUNTANSI VOL. 4 NO. 1 JUNI 2016
+Uji F
+Tabel 8
+Hasil Uji F
+Model
+
+1
+
+Sum of
+Squares
+
+Mean
+Square
+
+df
+
+Regression
+
+323,501
+
+4
+
+80,875
+
+Residual
+
+296,736
+
+150
+
+1,978
+
+Total
+
+620,237
+
+154
+
+Dari tabel diatas dapat dilihat bahwa
+variabel independen yaitu profitabilitas, struktur
+modal, kebijakan deviden, dan kebijakan
+investasi, secara serentak dan signifikan
+
+F
+
+Sig.
+
+40,882
+
+,000
+
+a
+
+berpengaruh terhadap nilai perusahaan yang
+ditunjukkan oleh signifikansi sebesar 0,000
+lebih kecil dari probabilitas kesalahan yaitu
+0,05, sehingga H5 diterima.
+
+Koefisien Determinasi
+Tabel 9
+Hasil Adjusted R Square
+Model
+
+dimension0
+
+1
+
+R
+
+,722
+
+R Square
+
+a
+
+,522
+
+Dari hasil analisis regresi yang
+dilakukan diperoleh adjusted R Square sebesar
+0,509 atau 50,9% yang artinya bahwa pengaruh
+variabel independen yaitu profitabilitas, struktur
+modal, kebijakan deviden, dan kebijakan
+investasi
+terhadap nilai perusahaan sebesar
+50,9% sedangkan sisanya dipengaruhi oleh
+faktor lain yang tidak masuk dalam model
+penelitian.
+HASIL DAN PEMBAHSAN
+Profitabilitas berpengaruh positif dan
+signifikan terhadap nilai perusahaan. Hal ini
+menunjukkan
+bahwa
+semakin
+besar
+profitabilitas suatu perusahaan, maka akan
+semakin besar nilai perusahaan. Hal ini sesuai
+pendapat Husnan (2013), yang menyatakan
+semakin tinggi ROE maka semakin tinggi
+kemampuan perusahaan untuk menghasilkan
+keuntungan dan akan membuat profitabilitas
+perusahaan tinggi. Profitabilitas yang tinggi
+38
+
+Adjusted R
+
+Std. Error of the
+
+Square
+
+Estimate
+,509
+
+1,406500
+
+akan memberikan sinyal positif bagi investor
+bahwa perusahaan berada dalam kondisi yang
+menguntungkan. Hal ini menjadi daya tarik
+investor untuk memiliki saham perusahaan.
+Permintaan saham yang tinggi akan membuat
+para investor menghargai nilai saham lebih
+besar dari pada nilai yang tercatat pada neraca
+perusahaan, sehingga nilai Tobins’Q perusahaan
+tinggi dan nilai perusahaan pun tinggi. Hal ini
+dukung peneliti Nani Martikarini (2013), yang
+menyatakan bahwa profitabilitas yang diukur
+dengan ROE, berpengaruh terhadap nilai
+perusahaan. Semakin besar rasio ROE, maka
+semakin tinggi nilai perusahaan.
+Struktur modal tidak berpengaruh
+terhadap nilai perusahaan. Hal ini menunjukkan
+bahwa perusahaan sampel sebagain besar
+memiliki modal yang kuat, sehingga besarnya
+hutang tidak berpengaruh terhadap nilai
+perusahaan. Hal ini menunjukkan perusahaan
+lebih menyukai modal sendiri dalam
+berinvestasi dibanding dengan hutang, dengan
+
+JURNAL AKUNTANSI VOL. 4 NO. 1 JUNI 2016
+menerbitkan saham-saham baru, yang diyakini
+manajemen lebih efisien. Hal ini dukung
+peneliti
+Titin
+Herawati
+(2013),
+yang
+menyatakan bahwa Kebijakan hutang yang
+diukur dengan rasio DER berpengaruh tidak
+signifikan dan positif terhadap nilai perusahaan.
+
+ini adalah:
+
+Kebijakan deviden berpengaruh positif
+dan signifikan terhadap nilai perusahaan. Hal ini
+menunjukkan bahwa semakin besar deviden
+yang diterima pemegang saham, maka akan
+semakin besar nilai perusahaan. Hal ini sesuai
+pendapat Sofyaningsih dan Hardiningsih, (2011)
+yang menyatakan pada dasarnya, laba bersih
+perusahaan dapat dibagikan kepada pemegang
+saham sebagai dividen atau ditahan dalam
+bentuk laba ditahan untuk membiayai investasi
+perusahaan. Kebijakan dividen berkaitan dengan
+kebijakan mengenai seberapa besar laba yang
+diperoleh perusahaan akan didistribusikan
+kepada pemegang saham. Hal ini dukung
+peneliti Wijaya dan Wibawa (2010), dapat
+membuktikan bahwa
+kebijakan dividen
+mempengaruhi nilai perusahaan secara positif.
+Menurut teori information content of dividend,
+investor akan melihat kenaikan dividen sebagai
+sinyal positif atas prospek perusahaan di masa
+depan. Pembagian dividen memberikan sinyal
+perubahan yang menguntungkan pada harapan
+manajer dan penurunan dividen menunjukkan
+pandangan pesimis prospek perusahaan dimasa
+yang akan datang.
+
+2. Struktur modal tidak berpengaruh terhadap
+nilai perusahaan. Hal ini menunjukkan
+bahwa perusahaan sampel sebagain besar
+memilki modal yang kuat, sehingga besarnya
+hutang tidak berpengaruh terhadap nilai
+perusahaan.
+
+Kebijakan investasi berpengaruh positif
+dan signifikan terhadap nilai perusahaan. Hal ini
+menunjukkan bahwa semakin besar dana yang
+dinvestasikan, maka akan semakin besar nilai
+perusahaan. Hal ini sesuai pendapat Sartono,
+(2001) yang menyatakan pengeluaran investasi
+memberikan sinyal positif tentang pertumbuhan
+perusahaan dimasa yang akan datang, sehingga
+meningkatkan harga saham sebagai indikator
+nilai perusahaan. Hal ini didukung peneliti
+terdahulua Ni Luh Putu Rassri Gayatri dan I
+Ketut Mustanda (2013), yang menyatakan
+keputusan investasi berpengaruh positif dan
+signifikan terhadap nilai perusahaan.
+KESIMPULAN
+Berdasarkan hasil penelitian yang
+dilakukan, maka kesimpulan dalam penelitian
+
+1. Profitabilitas berpengaruh positif dan
+signifikan terhadap nilai perusahaan. Hal ini
+menunjukkan
+bahwa
+semakin
+besar
+profitabilitas suatu perusahaan, maka akan
+semakin besar nilai perusahaan.
+
+3. Kebijakan deviden berpengaruh positif dan
+signifikan terhadap nilai perusahaan. Hal ini
+menunjukkan bahwa semakin besar deviden
+yang diterima pemegang saham, maka akan
+semakin besar nilai perusahaan.
+4. Kebijakan investasi berpengaruh positif dan
+signifikan terhadap nilai perusahaan. Hal ini
+menunjukkan bahwa semakin besar dana
+yang dinvestasikan, maka akan semakin
+besar nilai perusahaan
+5. Secara serentak profitabilitas, struktur modal,
+kebijakan deviden dan kebjakan investasi
+berpengaruh signifikan terhadap nilai
+perusahaan.
+6. Pengaruh profitabilitas, struktur modal,
+kebijakan deviden, dan kebijakan investasi
+terhadap nilai perusahaan sebesar 37,5%
+sedangkan sisanya dipengaruhi oleh faktor
+lain yang tidak masuk dalam model
+penelitian.
+DAFTAR PUSTAKA
+Afzal, Arie dan Abdul Rohman. (2012).
+“Pengaruh
+Keputusan
+Investasi,
+Keputusan Pendanaan, dan Kebijakan
+Dividen terhadap Nilai Perusahaan”.
+Journal of Accounting, 1(2): h:9
+Ghozali,
+
+Imam. (2011). Aplikasi Analisis
+Multivariate Dengan Program SPSS.
+Badan
+Penerbit
+Universitas
+Diponegoro. Semarang.
+
+Hamid. (2012). “Pengaruh Keputusan Investasi,
+Keputusan Pendanaan, Kebijakan
+Deviden, Struktur Kepemilikan Dan
+39
+
+

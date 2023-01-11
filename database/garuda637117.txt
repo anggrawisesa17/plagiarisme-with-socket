@@ -1,0 +1,1254 @@
+PENGARUH CORPORATE GOVERNANCE TERHADAP PROFITABILITAS
+(Studi Pada Perusahaan Perbankan yang Terdaftar di Bursa Efek Indonesia Periode
+2013-2015)
+Agung Santoso Putra
+Nila Firdausi Nuzula
+FakultasIlmuAdministrasi
+UniversitasBrawijaya
+Malang
+E-mail :asantosoputra@gmail.com
+
+ABSTRACT
+This study aims to know the influence of Corporate Governance toward company profitability. Corporate
+Governance in this study is proxied by proportion of independent board, audit committee, manajerial
+ownership and institutional ownership. The company’s profitability is measured by using the Return on
+Equity (ROE) and Return on Asset (ROA). The type of this research is explanatory research with
+quantitative approach. Population of this research is banking company’s who are listed in Indonesia Stock
+Exchange in 2013-2015. The sample selection technique is using purposive sampling method. Type of data
+are used secondary. Data analysis technique in this study is using multiple linier regression analysis. The
+result of this study showed that simultaneously, proportion of independent board, audit committee,
+manajerial ownership and institutional ownership have a siginificant effect on ROA but does not have
+significant effect on ROE. Proportion of independent board does not have a significant effect on ROE and
+ROA. Audit committee does not have a significant effect on ROE and ROA. Manajerial ownership does not
+have a significant effect on ROE and ROA. Institutional ownership does have a significant effect on ROE
+and ROA.
+Keywords: proportion of independent board, audit committee, manajerial ownership and institutional
+ownership, Return on Equity (ROE) and Return on Asset (ROA).
+ABSTRAK
+Penelitian ini bertujuan untuk mengetahui pengaruh Corporate Governance terhadap profitabilitas
+perusahaan. Corporate governance dalam penelitian ini diproksikan dengan proporsi dewan komisaris
+independen, komite audit, kepemilikan manajeril, dan kepemilikan institusional. Profitabilitas perusahaan
+diukur dengan Return on Equity (ROE) dan Return on Asset (ROA). Jenis Penelitian ini adalah explanatory
+research dengan pendekatan kuantitatif. Populasi dalam penelitian ini adalah perusahaan perbankan yang
+terdaftar di Bursa Efek Indonesia tahun 2013-2015. Teknik pemilihan sample yaitu menggunakan purposive
+sampling. Jenis data yang digunakan yaitu data sekuder. Teknik analisis data dalam penelitian ini
+menggunakan analisis regresi linier berganda. Hasil penelitian ini menunjukkan bahwa secara simultan
+variabel proporsi dewan komisaris independen, komite audit, kepemilikan manajeril, dan kepemilikan
+institusional berpengaruh signifikan terhadap ROA namun tidak terhadap ROE. Proporsi dewan komisaris
+independen tidak memiliki pengaruh yang signifikan terhadap ROE dan ROA. Komite audit tidak memiliki
+pengaruh signifikan terhadap ROE dan ROA. Kepemilikan manajerial tidak memiliki pengaruh signifikan
+terhadap ROE dan ROA. Kepemilikan institusional memiliki pengaruh yang signifikan terhadap ROE dan
+ROA.
+Kata kunci : proporsi dewan komisaris independen, komite audit, kepemilikan manajeril,
+kepemilikan institusional Return on Equity (ROE) dan Return on Asset (ROA).
+
+Jurnal Administrasi Bisnis (JAB)|Vol. 47 No.1 Juni 2017|
+administrasibisnis.studentjournal.ub.ac.id
+
+103
+
+A. PENDAHULUAN
+Istilah corporate governance pertama kali
+diperkenalkan oleh Cadburry Committee, Inggris
+di tahun 1922 yang menggunakan istilah tersebut
+dalam laporannya yang kemudian dikenal sebagai
+Cadbury Report(Agoes, 2014:101). Banyak para
+ahli yang mendefinisikan tentang corporate
+governance, tetapi pada intinya corporate
+governance merupakan sebuah sistem yang
+mengatur hubungan antara para stakeholder
+perusahaan, yang berkaitan dengan hak dan
+kewajiban atau dengan kata lain corporate
+governance merupakan suatu sistem yang
+mengarahkan dan mengendalikan perusahaan.
+Pengimplementasian GCG dalam perusahaan
+diharapkan akan memiliki dampak yang positif
+bagi perusahaan.
+Implementasi GCG di Indonesia sampai saat
+ini masih belum memenuhi harapan, oleh karena
+itu penerapan GCG memerlukan komitmen yang
+kuat untuk mewujudkannya (Hamdani, 2016:111).
+Implementasi di Indonesia masih menghadapi
+kendala yang luar biasa sampai saat ini GCG
+belum memberikan solusi tata kelola yang baik
+bagi perusahaan, apabila dibandingkan dengan
+negara-negara Asia lainnya, Indonesia masih
+tertinggal dalam penerapan tata kelola perusahaan.
+Disampaikan pada diskusi panel Universitas
+Trisakti bersama OJK oleh Wulandari bahwa
+realitas terkait dengan implementasi GCG di
+Indonesia menunjukkan hasil assessment terhadap
+corporate governance Indonesia yang belum
+memuaskan dan upaya perbaikan corporate
+governance
+belum
+dilakukan
+secara
+komprehensif. Apabila mengingat kembali krisis
+ekonomi di Indonesia yang terjadi menjelang
+akhir abad ke-20 yang di awali dari krisis moneter
+yang menimpa dunia perbankan Indonesia
+menunjukkan bahwa tata kelola perusahaan di
+Indonesia masih lemah.
+Lemahnya tata kelola perusahaan di sektor
+perbankan dan pemerintahan di Indonesia
+menyebabkan tidak adanya checks and balance
+antara formulasi kebijakan dan pelaksanaan
+kebijakan tersebut. Hal ini terlihat tidak adanya
+pengawasan terhadap pelampauan dan atau
+pelanggaran batas minimum pemberian kredit
+(BMPK), maka ketika terjadi krisis, bank-bank
+dihadapkan oleh permasalahan BMPK yang cukup
+besar (Suta & Musa, 2003:399). Menyadari hal ini
+Bank Indonesia dalam upayanya menata kembali
+manajemen dan kegiatan perbankan di Indonesia
+telah mengeluarkan Peraturan Bank Indonesia
+
+Nomor 8/4/PBI/2006 Tanggal 30 Januari 2006
+tentang implementasi GCG oleh Bank-Bank
+Komersial yang diharapkan dapat meningkatkan
+kinerja perusahaan termasuk kinerja keuangan
+perusahaan. Menurut Hamdani (2016, 2016:127)
+Kinerja keuangan perusahaan ditentukan dari
+sejauh mana perusahaan serius dalam melakukan
+tata kelola perusahaan yang baik, semakin serius
+perusahaan menerapkan GCG maka kinerja
+keuangan perusahaan makin meningkat (Hamdani,
+2016:127).
+Kinerja keuangan merupakan gambaran dari
+apa yang telah dilakukan oleh perusahaan. Kinerja
+keuangan diukur dengan rasio-rasio seperti rasio
+likuiditas, rasio pengungkit, rasio efisiensi, dan
+rasio profitabilitas. Masing-masing rasio memiliki
+karakteristik yang berbeda dan memberikan
+informasi keuangan bagi manajeman atau investor
+mengenai hal yang berbeda pula. Menurut Zabri
+(2015), rasio yang umum digunakan dalam
+pengukuran kinerja keuangan adalah rasio
+profitabilitas yang berupa return on assets (ROA)
+dan return on equity (ROE) karena ukuran rasio
+ini mudah dipahami oleh perusahaan dan rasio
+tersebut benar-benar menggambarkan kinerja
+keuangan perusahaan termasuk perusahaan
+perbankan.
+Penelitian tentang pengaruh corporate
+governance terhadap kinerja keuangan telah
+banyak dilakukan seperti penelitian yang
+dilakukan oleh Zabri (2015) meneliti pengaruh
+corporate governance terhadap kinerja keuangan,
+dalam penelitian ini board size dan board
+independence digunakan sebagai indikator
+corporate governance. Indikator kinerja keuangan
+dalam penelitian yang dilakukan di Malaysia ini
+menggunakan return on assets (ROA)dan return
+on equity (ROE). Penggunaan ROA dan ROE
+sebagai indikator kinerja keuangan karena rasio
+tersebut dipercaya sebagai rasio yang benar-benar
+memperlihatkan kinerja perusahaan dalam tahun
+tertentu dan merupakan rasio yang sangat berguna
+bagi
+para
+pemangku
+kepentingan
+atau
+stakeholder.
+Di Indonesia, Arifani (2013) meneliti
+pengaruh corporate governance terhadap kinerja
+keuangan dengan menggunakan variabel jumlah
+komite audit, proporsi kepemilikan manajerial,
+proporsi kepemilikan institusional, proporsi
+dewan komisaris, dan ROE. Dari hasil penelitian
+ini menunjukkan bahwa terdapat pengaruh antara
+komite audit, kepemilikan institusional, dan
+komisaris independen terhadap kinerja keuangan.
+Jurnal Administrasi Bisnis (JAB)|Vol. 47 No.1 Juni 2017|
+administrasibisnis.studentjournal.ub.ac.id
+
+104
+
+Sedangkan dalam penelitian ini tidak ditemukan
+bahwa kepemilikan manajerial mempunyai
+pengaruh terhadap kinerja keuangan. Laksana
+(2015) juga meneliti pengaruh corporate
+governance terhadap kinerja keuangan. Penelitian
+Laksana (2015) hampir sama dengan penelitian
+yang dilakukan oleh Arifani (2013) yang
+membedakan adalah indikator untuk kinerja
+keuangan dimana Laksana (2015) menggunakan
+ROA untuk indikator kinerja keuangan.
+Berdasarkan latar belakang yang diuraikan dan
+beberapa penelitian di atas, peneliti tertarik untuk
+membuktikan kembali pengaruh corporate
+governance terhadap profitabilitas. Dalam
+penelitian ini, good corporate governance sebagai
+variabel independen diproksikan dengan proporsi
+dewan komisaris independen, komite audit,
+kepemilikan
+manajerial,
+dan
+kepemilikan
+institusional. Profitabilitas sebagai variabel
+dependen diproksikan oleh Return on Equity
+(ROE) dan Return on Assets (ROA). Objek
+penelitian yang digunakan yaitu kelompok
+perusahaan perbankan yang terdaftar di Bursa
+Efek Indonesia tahun 2013-2015.Berdasarkan
+uraian di atas, maka peneliti mengambil judul:
+“Pengaruh Corporate Governance Terhadap
+Profitabilitas ” (Studi Pada Perusahaan
+Perbankan yang Terdaftar Di Bursa Efek
+Indonesia Periode 2013-2015)”.
+B. KAJIAN PUSTAKA
+1. Teori Agensi
+Dalam teori keagenan djelaskan bahwa
+hubungan keagenan adalah sebuah kontrak antara
+manajer (agent) dengan investor (principal).
+Konflik kepentingan antara pemilik dan agen
+terjadi karena kemungkinan agent tidak selalu
+berbuat sesuai dengan kepentingan principal,
+sehingga memicu biaya keagenan (agency cost)
+(Hamdani, 2016:30).
+Asumsi teori ini menyatakan bahwa
+pemisahan antara kepemilikan dan pengelolaan
+perusahaan dapat menimbulkan masalah keagenan
+(agency problem). Pemilik perusahaan akan
+memberikan
+kewenangan
+pada
+pengelola
+(manajer) untuk mengurus jalannya perusahaan
+seperti mengelola dana dan mengambil keputusan
+perusahaan lainnya untuk dan atas nama pemilik
+perusahaan. Pengelola tidak bertindak atas
+kepentingan pemilik, karena adanya perbedaaan
+kepentingan (conflict interest). Dalam teori agensi
+kepemilikan saham sepenuhnya dimiliki oleh
+pemegang saham dan manajer (agen) yang
+diminta
+untuk
+memaksimalkan
+tingkat
+
+pengembalian pemegang saham (Hamdani,
+2016:30).
+2. Good Corporate Governance (GCG)
+Corporate Governance diperkenalkan oleh
+Cadbury Comittee, Inggris di tahun 1922 yang
+menggunakan istilah tersebut dalam laporannya
+yang kemudian dikenal sebagai Cadbury Report.
+Banyak para ahli yang memberikan pengertian
+tentang GCG namun pada intinya GCG
+merupakan suatau perangkat aturan yang
+mengatur hak dan kewajiban antar stakeholder di
+dalam suatu perusahaan dan mengharuskan suatu
+perusahaan untuk melakukan trasnparansi atas
+semua proses di dalam suatu perusahaan. Prinspprinsip GCG adalah transparansi, akuntabilitas,
+responsibilitas, independensu, dan kesetaraan.
+a. Proporsi Dewan Komisaris Independen
+Dewan komisaris independen merupakan
+dewan komisaris yang berasal dari luar
+perusahaan. Jumlah komisaris independen harus
+dapat menjamin agar mekanisme pengawasan
+berjalan secara efektif dan sesuai dengan
+peraturan perundang-undangan. Salah satu dari
+komisaris independen harus mempunyai latar
+belakang akuntansi atau keuangan (KNKG, 2006).
+BAPEPAM menuntut bahwa 30% dari jumlah
+dewan
+komisaris
+haruslah
+independen.
+Perhitungan dewan komisaris independen dengan
+cara
+b. Komite Audit
+Menurut Undang-Undang No.19 tahun 2003
+pasal 70 tentang Badan Usaha Milik Negara
+mengatakan bahwa komisaris BUMN wajib
+membentuk komite audit yang bertugas untuk
+menilai pelaksanaan kegiatan serta hasil audit
+yang dilakukan oleh satuan pengawasan internal
+maupun auditor eksternal. Perhitungan komite
+audit dalam suatu perusahaan dapat diukur dari
+jumlah komite audit perusahaan tersebebut
+(Arifani, 2013).
+c. Struktur Kepemilikan
+Struktur kepemilikan dapat digunakan untuk
+mengurangi agency cost yang bersumber dari
+agency problem. Menurut Jensen & Meckling
+(1976) struktur kepemilikan yang terdiri dari
+kepemilikan institusional dan kepemilikan
+manajerial. Menurut Jensen & Meckling (1976)
+Keberadaan investor institusional dianggap
+mampu menjadi mekanisme monitoring yang
+efektif dalam setiap keputusan yang diambil oleh
+manajer. Sedangkan kepemilikan saham oleh
+manajer dipandang akan menyelaraskan potensi
+perbedaan kepentingan antara pemegang saham
+diluar manajemen, sehingga permasalahan
+keagenan diasumsikan akan hilang apabila
+Jurnal Administrasi Bisnis (JAB)|Vol. 47 No.1 Juni 2017|
+administrasibisnis.studentjournal.ub.ac.id
+
+105
+
+terdapat manajer yang berperan juga sebagai
+pemilik.
+Kepemilikan
+intirusional
+dan
+kepemilikan manajerial dihitung dari persentase
+kepemilikan saham oleh pihak manajerial dan
+pihak institusinal (Arifani, 2013)
+3. Rasio Profitabilitas
+Rasio profitabilitas merupakan salah satu
+rasio dalam analisis laporan keuangan perusahaan.
+Dalam penelitian ini rasio profitabilitas yang
+digunakan adalah return on equity (ROE) dan
+return
+on
+asset
+(ROA).
+Return
+on
+Equity(ROE)merupakan suatu alat ukur dari
+penghasilan (income) yang tersedia bagi para
+pemilik perusahaan baik para pemegang saham
+biasa ataupun saham preferen atas modal yang
+mereka investasikan di dalam perusahaan tersebut
+(Syamsudin, 2009:64). Return on Assets
+(ROA)merupakan rasio yang digunakan untuk
+mengukur kemampuan suatu perusahaan dalam
+memanfaatkan aktiva untuk memperoleh laba,
+sehingga apabila nilai ROA semakin tinggi maka
+dapat dikatakan semakin bagus kinerja perusahaan
+(Syamsuddin, 2009:63).Berdasarkan Surat Edaran
+Bank Indonesia Nomor 13/30/DPNP 2011 rumus
+perhitungan ROE dan ROA untuk perbankan
+adalah sebagai berikut:
+ROE =
+
+Laba Bersih Setelah Pajak
+Rata−rata Ekuitas
+Laba Sebelum Pajak
+
+ROA= Rata−rata Total Aset
+Model Hipotesis
+Model hipotesis dalam penelitian ini adalah
+sebagai berikut:
+Dewan
+Komisaris
+Independen
+
+ROE
+
+Komite
+Audit
+
+Kepemilikan
+manajerial
+
+Kepemilikan
+Institusional
+
+ROA
+
+Keterangan:
+
+Secara Parsial
+Secara Simultan
+
+Gambar 1 Model Hipotesis
+
+Sumber: Data diolah, 2017
+Berdasarkan model hipotesis diatas, maka
+dikembangkan beberapa hipotesis yang akan di uji
+dalam penelitian ini, yaitu sebagai berikut:
+
+H1:
+proporsi dewan komisaris independen,
+komite audit, kepemilikan manajerial, dan
+kepemilikan
+institusional
+secara
+simultan
+berpengaruh signifikan terhadap ROE.
+H2:
+proporsi dewan komisaris independen,
+komite audit, kepemilikan manajerial, dan
+kepemilikan
+institusional
+secara
+simultan
+berpengaruh signifikan terhadap ROA.
+H3:
+proporsi dewan komisaris independen,
+komite audit, kepemilikan manajerial, dan
+kepemilikan
+institusional
+secara
+parsial
+berpengaruh signifikan terhadap ROE.
+H4:
+proporsi dewan komisaris independen,
+komite audit, kepemilikan manajerial, dan
+kepemilikan
+institusional
+secara
+parsial
+berpengaruh signifikan terhadap ROA.
+C. METODE PENELITIAN
+1. Jenis Penelitian
+Jenis penelitian yang digunakan adalah
+penelitian penjelasan (explanatory research)
+dengan pendekatan kuantitatif yang digunakan
+untuk mengetahui dan menjelaskan pengaruh
+corporate governance terhadap profitabilitas.
+corporate governancediproksikan dengan proporsi
+dewan komisaris independen, komite audit,
+kepemilikan
+manajeri,
+dan
+kepemilikan
+institusional. Untuk profitabilitas di prosikan
+dengan ROE dan ROA.
+Metode analisis data yang digunakan dalam
+penelitian ini adalah:
+a. Analisis statistik deskriptif
+b. Uji asumsi klasik
+c. Analisis regresi linier berganda
+Persamaan regresi dalam penelitian ini adalah:
+Y1 = α + β1X1 + β2X2 + β3X3 + β4X4 + e
+Y2 = α + β1X1 + β2X2 + β3X3 + β4X4 + e
+Keterangan:
+Y1 : ROE
+Y2 : ROA
+α
+: Konstanta
+β
+: Koefisien Regresi
+X1 : Proporsi Dewan Komisaris Independen
+X2 : Komite Audit
+X3 : Kepemilikan Manajerial
+X4 : Kepemilikan Institusional
+e
+: Variabel Residual
+D. HASIL DAN PEMBAHASAN
+1. Analisis Regresi Linier Berganda
+Analisis ini digunakan untuk menguji
+pengaruh variabel independen yaitu, proporsi
+dewan komisaris independen (PDKI), komite
+audit (KA), kepemilikan manajerial (KM), dan
+kepemilikan institusional (KI) terhadap variabel
+Jurnal Administrasi Bisnis (JAB)|Vol. 47 No.1 Juni 2017|
+administrasibisnis.studentjournal.ub.ac.id
+
+106
+
+dependen yaitu ROE untuk model regresi 1
+danvariabel
+independen
+proporsi
+dewan
+komisaris independen (PDKI), komite audit
+(KA), kepemilikan manajerial (KM), dan
+kepemilikan institusional (KI) terhadap variabel
+dependen ROA untuk model regresi 2. Berikut
+adalah hasil analisis regrsi linier berganda dari
+masing-masing model:
+Tabel 1 Hasil Analisis Regresi Linier Berganda
+Model Regresi 1
+Variabel
+Koefisien
+Sig
+Keterangan
+Bebas
+Regresi
+(B)
+Constanta
+-18.291
+0.031
+Signifikan
+PDKI (X1)
+45.543
+0.067 Tidak Signifikan
+KA (X2)
+8.925
+0.478 Tidak Signifikan
+KM (X3)
+1.886
+0.330 Tidak Signifikan
+KI (X4)
+36.863
+0.038
+Signifikan
+R
+: 0.464
+R Square
+: 0.216
+Adjusted R Square
+: 0.085
+F hitung
+: 1.649
+Sig. F
+: 0.195
+a
+: 0.05
+N
+: 90
+
+Sumber: Data diolah, 2017
+Berdasarkan tabel 1 didapatkan persamaan regresi
+sebagai berikut:
+Y1 = -18,291 + 45,543XPDKI + 8,925XKA +
+1,886XKM + 36,863XKI + e
+Berikut adalah arti koefisien regresi dari
+setiap variabel dalam penelitian model regresi 1:
+α = nilai konstanta
+nilai konstanta persamaan ini bernilai negatif,
+nilai konstanta yang bernilai negatif
+menunjukkan bahwa variabel dependen Y akan
+berkurang secara konstan jika variabel lainnya
+yaitu proporsi dewan komisaris independen,
+komite audit, kepemilikan manajerial, dan
+kepemilikan institusional, bernilai nol. Nilai α
+menunjukkan apabila tidak ada variabel
+proporsi dewan komisaris independen, komite
+audit, kepemilikan manajerial, dan kepemilikan
+institusional maka nilai ROE sebesar 18,291.
+β1 = Koefisien regresi XPDKI
+Nilai koefisien regresi dari variabel Xpdki
+adalah sebesar 45,543. Nilai ini menunjukkan
+bahwa apabila proporsi dewan komisaris
+independen mengalami peningkatan sebesar
+satu satuan, maka ROE akan naik sebesar
+45,543, dengan asumsi variabel lain dalam
+penelitian ini dianggap konstan.
+β2 = Koefisien regresi XKA
+Nilai koefisien regresi dari variabel XKA adalah
+sebesar 8,925. Nilai ini menunjukkan bahwa
+apabila komite audit mengalami peningkatan
+
+sebesar satu satuan, maka ROE akan naik
+sebesar 8,925 dengan asumsi variabel lain
+dalam penelitian dianggap konstan.
+β3 = Koefisien regresi XKM
+Nilai koefisien regresi dari variabel XKM
+adalah sebesar 1,886. Nilai ini menunjukkan
+bahwa apabila kepemilikan manajerial
+mengalami peningkatan sebesar satu satuan,
+maka ROE akan naik sebesar 1,886 dengan
+asumsi variabel lain dalam penelitian dianggap
+konstan.
+β4 = Koefisien regresi Xki
+Nilai koefisien regresi dari variabel XKi adalah
+sebesar 36,863. Nilai ini menunjukkan bahwa
+apabila kepemilikan institusional mengalami
+peningkatan sebesar satu satuan, maka ROE
+akan naik sebesar 36,863 dengan asumsi
+variabel lain dalam penelitian dianggap
+konstan.
+Nila adjusted R2 sebesar 0,085 ini menunjuk
+bahwa presentase pengaruh variabel independen
+yang terdiri dari proporsi dewan komisaris
+independen, komite audit, kepemilikan manajerial,
+dan kepemilikan institusional terhadap variabel
+dependen return on equity (ROE) sebesar 8,5%,
+sedangkan sisanya sebesar 91,5% dipengaruhi
+oleh variabel lain yang tidak masuk dalam model.
+Tabel 2 Hasil Analisis Regresi Linier Berganda
+Model Regresi 2
+Variabel
+Koefisien
+Sig
+Keterangan
+Bebas
+Regresi
+(B)
+Constanta
+-3.573
+0.070 Tidak Signifikan
+PDKI (X1)
+2.952
+0.473 Tidak Signifikan
+KA (X2)
+-0.728
+0.733 Tidak Signifikan
+KM (X3)
+0.635
+0.061 Tidak Signifikan
+KI (X4)
+9.390
+0.003
+Signifikan
+R
+: 0.602
+R Square
+: 0.362
+Adjusted R Square
+: 0.256
+F hitung
+: 3.411
+Sig. F
+: 0.024
+a
+: 0.05
+N
+: 90
+
+Sumber: Data diolah, 2017
+Berdasarkan tabel 2 didapatkan persamaan regresi
+sebagai berikut:
+Y2 = -3,573 + 2,952XPDKI – 0,728XKA +
+0,635XKM + 9,390XKI + e
+Berikut adalah arti koefisien regresi dari setiap
+variabel dalam penelitian model regresi 2:
+α = nilai konstanta
+nilai konstanta dari persamaan ini bernilai
+negatif, nilai konstanta yang bernilai negatif
+menunjukkan bahwa variabel dependen Y
+Jurnal Administrasi Bisnis (JAB)|Vol. 47 No.1 Juni 2017|
+administrasibisnis.studentjournal.ub.ac.id
+
+107
+
+akan berkurang secara konstan jika variabel
+lainnya yaitu proporsi dewan komisaris
+independen, komite audit, kepemilikan
+manajerial, dan kepemilikan institusional,
+bernilai nol. Nilai α menunjukkan apabila
+tidak ada variabel proporsi dewan komisaris
+independen, komite audit, kepemilikan
+manajerial, dan kepemilikan institusional
+maka nilai ROA sebesar 3,573.
+β1 = Koefisien regresi XPDKI
+Nilai koefisien regresi dari variabel Xpdki
+adalah sebesar 2,952. Nilai ini menunjukkan
+bahwa apabila proporsi dewan komisaris
+independen mengalami peningkatan sebesar
+satu satuan, maka ROA akan naik sebesar
+2,952 dengan asumsi variabel lain dalam
+penelitian ini dianggap konstan.
+β2 = Koefisien regresi XKA
+Nilai koefisien regresi dari variabel XKA
+adalah sebesar -0,728 . Nilai ini menunjukkan
+bahwa apabila komite audit mengalami
+peningkatan sebesar satu satuan, maka ROA
+akan turun sebesar 0,728 dengan asumsi
+variabel lain dalam penelitian dianggap
+konstan.
+β3 = Koefisien regresi XKM
+Nilai koefisien regresi dari variabel XKM
+adalah sebesar 0,635. Nilai ini menunjukkan
+bahwa apabila kepemilikan manajerial
+mengalami peningkatan sebesar satu satuan,
+maka ROA akan naik sebesar 0,635 dengan
+asumsi variabel lain dalam penelitian
+dianggap konstan.
+β4 = Koefisien regresi Xki
+Nilai koefisien regresi dari variabel XKi
+adalah sebesar 9,390. Nilai ini menunjukkan
+bahwa apabila kepemilikan institusional
+mengalami peningkatan sebesar satu satuan,
+maka ROA akan naik sebesar 9,390 dengan
+asumsi variabel lain dalam penelitian
+dianggap konstan.
+nila adjusted R2 sebesar 0,256 ini menunjuk
+bahwa presentase pengaruh variabel independen
+yang terdiri dari proporsi dewan komisaris
+independen, komite audit, kepemilikan manajerial,
+dan kepemilikan institusional terhadap variabel
+dependen return on equity (ROE) sebesar 25,6%,
+sedangkan sisanya sebesar 74,4% dipengaruhi
+oleh variabel lain yang tidak masuk dalam model.
+2. Pengujian Hipotesis
+a. Uji Uji Statistik t
+1) Pengaruh
+Proporsi
+Dewan
+Komisaris
+Indepeden Terhadap ROE
+Pengujian variabel proporsi dewan komisaris
+independen terhadap ROE menunjukkan nilai
+
+thitung (XPDKI) = 1,919 lebih kecil daripada ttabel =
+1,988. Nilai signifikansi (sig) sebesar 0,067> 0,05
+yang berarti bahwa H0 diterima Ha ditolak. Hasil
+ini menunjukkan hipotesis yang menyatakan
+bahwa proporsi dewan komisaris independen
+secara parsial berpengaruh signifikan terhadap
+ROE ditolak.
+2) Pengaruh Komite Audit terhadap ROE
+Pengujian variabel komite audit terhadap ROE
+menunjukkan nilai thitung (XKA)= 0,722 lebih kecil
+dari pada ttabel =1,988. Nilai signifikansi (sig)
+sebesar 0,478> 0,05 yang berarti bahwa H0
+diterima Ha ditolak. Hasil ini menunjukkan
+hipotesis yang menyatakan bahwa komite audit
+secara parsial berpengaruh signifikan terhadapa
+ROE ditolak.
+3) Pengaruh Kepemilikan Manajerial Terhadap
+ROE
+Kepemilikan manajerial menunjukkan nilai
+negatif, menunjukkan adanya hubungan yang
+negatif antara kepemilikan manajerial dengan
+ROE. Kenaikan kepemilikan manajerial akan
+berakibat pada penurunan ROE.Pengujian variabel
+kepemilikan
+manajerial
+terhadap
+ROE
+menunjukkan nilai thitung (XKm)= 0,995 lebih kecil
+dari pada ttabel =1,988. Nilai signifikansi (sig)
+sebesar 0,330> 0,05 yang berarti bahwa H0
+diterima Ha ditolak. Hasil ini menunjukkan
+hipotesis yang menyatakan bahwa kepemilikan
+manajerial secara parsial berpengaruh signifikan
+terhadapa ROE ditolak.
+4) Pengaruh Kepemilikan Institusional Terhadap
+ROE
+Kepemilikan institusional menunjukkan nilai
+negatif, menunjukkan adanya hubungan yang
+negatif antara kepemilikan institusional dengan
+ROE. Kenaikan kepemilikan institusinal akan
+berakibat pada penurunan ROE. Pengujian
+variabel kepemilikan manajerial terhadap ROE
+menunjukkan nilai thitung (XKi)= 2,199lebih besar
+dari pada ttabel =1,988. Nilai signifikansi (sig)
+sebesar 0,038 < 0,05 yang berarti bahwa H0
+ditolak Ha diterima. Hasil ini menunjukkan
+hipotesis yang menyatakan bahwa kepemilikan
+institusinal secara parsial berpengaruh signifikan
+terhadapa ROE diterima.
+5) Pengaruh
+Proporsi
+Dewan
+Komisaris
+Indepeden Terhadap ROA
+Pengujian variabel proporsi dewan komisaris
+independen terhadap ROA menunjukkan nilai
+thitung (XPDKI) =0,730 lebih kecil daripada ttabel =
+1,988. Nilai signifikansi (sig) sebesar 0,473> 0,05
+yang berarti bahwa H0 diterima Ha ditolak. Hasil
+ini menunjukkan hipotesis yang menyatakan
+proporsi dewan komisaris independen secara
+Jurnal Administrasi Bisnis (JAB)|Vol. 47 No.1 Juni 2017|
+administrasibisnis.studentjournal.ub.ac.id
+
+108
+
+parsial berpengaruh signifikan terhadap ROA
+ditolak.
+6) Pengaruh Komite Audit Terhadap ROA
+Pengujian variabel komite audit terhadap ROA
+menunjukkan nilai thitung (XKA)= 0,345 lebih kecil
+dari pada ttabel =1,988. Nilai signifikansi (sig)
+sebesar 0,733> 0,05 yang berarti bahwa H0
+diterima Ha ditolak. Hasil ini menunjukkan
+hipotesis yang menyatakan bahwa komite audit
+secara parsial berpengaruh signifikan terhadapa
+ROA ditolak.
+7) Pengaruh Kepemilikan Manajerial Terhadap
+ROA
+Pengujian variabel kepemilikan manajerial
+terhadap ROA menunjukkan nilai thitung (XKM)=
+1,966 lebih kecil dari pada ttabel =1,988. Nilai
+signifikansi (sig) sebesar 0,061 > 0,05 yang berarti
+bahwa H0 diterima Ha ditolak. Hasil ini
+menunjukkan hipotesis yang menyatakan bahwa
+kepemilikan manajerial secara parsial berpengaruh
+signifikan terhadapa ROA ditolak.
+8) Pengaruh Kepemilikan Institusional Terhadap
+ROE
+Pengujian variabel kepemilikan manajerial
+terhadap ROE menunjukkan nilai thitung (XKI)=
+3,286 lebih besar dari pada ttabel =1,988. Nilai
+signifikansi (sig) sebesar 0,003 < 0,05 yang berarti
+bahwa H0 ditolak Ha diterima. Hasil ini
+menunjukkan hipotesis yang menyatakan bahwa
+kepemilikan
+institusional
+secara
+parsial
+berpengaruh signifikan terhadapa ROE diterima.
+b. Uji Statistik F
+1) Pengaruh Corporate governance Terhadap
+ROE
+Diketahui nilai Fhitung =1,649 lebih kecil dari
+Ftabel (0,05) (4;85) = 2,479015 dan nilai signifikan
+sebesar 0,195 lebih besar dari α=0,05 yang berarti
+bahwa H0 diterima dan Ha ditolak. Hasil ini
+menunjukkan hipotesis yang menyatakan bahwa
+proporsi dewan komisaris independen, komite
+audit, kepemilikan manajerial, dan kepemilikan
+institusional secara simultan atau serempak
+berpengaruh signifikan terhadap ROE ditolak.
+2) Pengaruh Corporate governance Terhadap
+ROA
+Diketahui nilai Fhitung =3,411 lebih kecil dari
+Ftabel (0,05) (4;85) = 2,479015 dan nilai signifikan
+sebesasr 0,024 lebih keci dari α=0,05 yang berarti
+bahwa H0 ditolak dan Ha diterima. Hasil ini
+menunjukkan hipotesis yang menyatakan bahwa
+proporsi dewan komisaris independen, komite
+audit, kepemilikan manajerial, dan kepemilikan
+institusional secara simultan atau serempak
+berpengaruh signifikan terhadap ROA diterima.
+
+3. Pembahasan
+a. Pengaruh Corporate Governance Terhadap
+ROE
+Dari hasil penelitian menunjukkan bahwa
+corporate governance yang diproksikan oleh
+proporsi dewan komisaris independen, komite
+audit, kepemilikan manajerial, dan kepemilikan
+institusional secara simultan tidak berpengaruh
+signifikan dengan kinerja keuangan yang
+diprosikan oleh ROE. Hasil penelitian ini sejalan
+dengan penelitian yang dilakukan oleh Laksanan
+(2012) dan Winata (2010). Menurut Laksanan
+(2012) hal tersebut disebabkan karena rendahnya
+emiten dalam menerapkan good corporate
+governance. Perusahaan cenderung melaksanakan
+good corporate governance untuk memenuhi
+regulasi saja bukan didasarkan pada kesadaran
+pentingnya
+penerapan
+good
+corporate
+governance. Hal lain yang menyebabkan tidak
+adanya pengaruh yang signifikan antara good
+corporate governance dan ROE adalah
+kurangnnya pengetahuan pihak stakeholder
+mengenai penerapan good corporate governance
+dan manfaatnya.
+b. Pengaruh
+Proporsi
+Dewan
+Komisaris
+Independen Terhadap ROE
+Dari hasil penelitian menunjukkan bahwa tidak
+ada pengaruh signifikan antara proporsi dewan
+komisaris
+independen
+dengan
+ROE.Hasil
+penelitian ini sejalan dengan penelitian yang
+dilakukan oleh Zabri (2015) dan Ponnu dan
+Karthigeya (2010) yang juga tidak menemukan
+pengaruh yang signifikan antara proporsi dewan
+komisaris independen terhadap ROE. Menurut
+Zabri (2015) keberadaan komisaris independen
+dalam suatu perusahaan tidak menjamin
+perusahaan melakukan prinsip-prinsip good
+corporate governance yang nantinya berdampak
+positif terhadap ROE.Wehdawati et al. (2015)
+mengatakan
+bahwa
+penambahan
+anggota
+komisaris independen dibentuk hanya sekedar
+pemenuhan ketentuan formalitas perusahaan
+dalam menjalankan GCG, sedangkan pemegang
+saham mayoritas masih memegang peranan
+penting sehingga kinerja dewan komisaris tidak
+membaik, selain itu kegiatan pengawasan yang
+dilakukan oleh komisaris independen belum
+mampu mengurangi agency cost dalam
+perusahaan.
+c. Pengaruh Komite Audit Terhadap ROE
+Hasil penelitian pengaruh komite audit
+terhadap ROE adalah tidak ditemukannya
+pengaruh yang signifikan antara komite audit
+terhadap ROE. Veronica dan Utama (2005) dan
+Shahibah (2017) yang meneliti pengaruh komite
+Jurnal Administrasi Bisnis (JAB)|Vol. 47 No.1 Juni 2017|
+administrasibisnis.studentjournal.ub.ac.id
+
+109
+
+audit terhadap ROE, menyatkan tidak ada
+pengaruh yang signifikan antara komite audit dan
+ROE. Menurut Shahibah (2017) yang meneliti di
+sektor perbankan juga menjelaskan, bahwa komite
+audit dalam suatu perusahaan hanya sebatas untuk
+mengawasi apakah proses oprasional perusahaan
+telah berjalan sesuai dengan peraturan dan tidak
+berusaha untuk meningkatkan kinerja. Selain itu,
+pembentukan komite audit juga cenderung hanya
+dilakukan untuk formalitas saja untuk memenuhi
+regulasi dari pemerintah.
+d. Pengaruh Kepemilikan Manajerial Terhadap
+ROE
+Dari hasil penelitian menunjukkan bahwa
+kepemilikan manajerial tidak memiliki pengaruh
+yang signifikan terhadap ROE. Hasil ini sejalan
+dengan hasil penelitian dari Wehdawati et al.
+(2015) dan Arifani (2013) yang juga tidak
+menemukan pengaruh antara kepemilikan
+manajerial dengan ROE. Menurut Wehdawati et
+al. (2015) dengan adanya kepemilikan manajerial
+dalam perusahaan masih belum mampu
+menyelaraskan kepentingan pemegang saham
+diluar manajeman. Dengan kata lain besarnya
+proporsi saham yang dimiliki oleh pihak
+manajeman tetap tidak bisa mengurangi konflik
+keagenan dalam perusahaan.
+e. Pengaruh Kepemilikan Institusional Terhadap
+ROE
+Dari hasil penelitian menunjukkan bahwa
+kepemilikan institusional
+memiliki pengaruh
+yang signifikan terhadap ROE. Penelitian ini
+sejalan dengan penelitian yang dilakukan oleh
+Arifani (2013) dan Putri (2014) yang juga
+menemukan pengaruh yang signifikan antara
+kepemilikan institusional dengan ROE. Arifani
+(2013) yang menyatakan Kepemilikan saham oleh
+pihak institusional yang lebih besar daripada
+kepemilikan saham manajerial memungkinkan
+pihak institusional untuk menjadi controller atau
+yang mengawasi tindakan manajer sehingga
+manajer tidak bertindak sesuai kepentingannya
+sendiri dan membuat adanya kerjasama antara
+pihak institusional dengan manajer dalam
+meningkatkan kinerja perusahaan.
+f. Pengaruh Corporate Governance Terhadap
+ROA
+Dari hasil penelitian menunjukkan bahwa
+corporate governance yang diproksikan oleh
+proporsi dewan komisaris independen, komite
+audit, kepemilikan manajerial, dan kepemilikan
+institusional yang secara simultanberpengaruh
+signifikan dengan kinerja keuangan yang
+diprosikan oleh ROA. Hasil penelitian ini sejalan
+dengan penelitian yang dilakukan Arifani (2013)
+
+dan Rimardhani (2016). Perusahaan yang mampu
+menerapkan corporate governance dengan baik
+akan memberikan sinyal positif terhadap
+konsumen dan investor, sehingga perusahaan akan
+muda mendapatkan konsumen dan meningkatkan
+harga saham perusahaan. Hal tersebut nantinya
+akan meningkatkan kinerja keuangan. Hasil ini
+sesuai hasl survei yang dilakukan oleh CLSA
+(Credit Lyonnais Securities Asia) yang
+menyatakan perusahaan yang masuk dalam
+rangking 100 teratas dalam penerapan GCG
+memiliki rasio-rasiokeuangan yang sangat baik
+dan memiliki harga saham yang tinggi
+dibandingkan perusahaan yang tidak menerapkan
+GCG (Hamdani, 2016:128).
+g. Pengaruh Proporsi Komisaris Independen
+terhadap ROA
+Dari hasil uji t menunjukkan bahwa tidak ada
+pengaruh signifikan antara proporsi dewan
+komisaris independen dengan ROA. Hasil
+penelitian ini sejalan dengan penelitian yang
+dilakukan oleh Laksana (2015) dan Zabri (2015)
+yang juga tidak menemukan pengaruh yang
+signifikan antara proporsi dewan komisaris
+independen terhadap ROA. Menurut Zabri (2015)
+keberadaan komisaris independen dalam suatu
+perusahaan
+tidak
+menjamin
+perusahaan
+melakukan prinsip-prinsip good corporate
+governance yang nantinya berdampak positif
+terhadap ROA.
+h. Pengaruh Komite Audit Terhadap ROA
+Hasil uji t dalam penelitian ini menunjukkan
+bahwa tidak ditemukan pengaruh signifikan antara
+komite audit dengan ROA. penelitian ini sejalan
+dengan penelitian yang dilakukan oleh Purno
+(2013) dan Rimardhani (2016). Menurut
+Rimardhani (2016) yang juga tidak menemukan
+pengaruh yang signifikan antara komite audit
+dengan ROA, menyatakan tidak adanya pengaruh
+yang signifikan antara komite audit terhadap ROA
+dikarenakan pembentukan komite audit dalam
+suatu perusahaan hanya atas dasar untuk
+pemenuhan regulasi dan kurang optimalnya
+komite audit dalam menjalankan fungsi
+pengawasan dan pengendalian pada manajeman
+perusahaan. Terbukti dari tidak adanya pengaruh
+yang signifikan antara komite audit dengan ROA.
+i. Pengaruh Kepemilikan Manajerial Terhadap
+ROA
+Kepemilikan manajerial juga tidak memiliki
+pengaruh yang signifikan terhadap ROA.
+Penelitian ini sejalan dengan penelitian yang
+dilakukan oleh Wehdawati et al. (2015) dan
+Nuraeni (2010) yang juga tidak menemukan
+pengaruh antara kepemilikan manajeria terhadap
+Jurnal Administrasi Bisnis (JAB)|Vol. 47 No.1 Juni 2017|
+administrasibisnis.studentjournal.ub.ac.id
+
+110
+
+ROA. Menurut Wehdawati et al. (2015) dengan
+adanya kepemilikan manajerial dalam perusahaan
+masih belum mampu menyelaraskan kepentingan
+pemegang saham diluar manajeman. Dengan kata
+lain besarnya proporsi saham yang dimiliki oleh
+pihak manajeman tetap tidak bisa mengurangi
+konflik keagenan dalam perusahaan. Nuraeni
+(2010) yang juga tidak menemukan pengaruh
+kepemilikan manajerial dengan ROA berpendapat
+bahwa hal tersebut disebabkan proporsi
+kepemilikan saham oleh pihak manajerial yang
+masi cenderung sedikit atau kecil, sehingga
+penerapan
+kepemilikan
+manajerial
+untuk
+membantu penyatuan kepentingan antara manajeri
+dan pemilik yang dapat meningkatkan kinerja
+belumberjalan efektif.
+j. Pengaruh Kepemilikan Institusional Terhadap
+ROA
+Hasil penelitian ini menunjukkan bahwa
+kepemilikan saham oleh pihak institusi memiliki
+pengaruh yang signifikan terhadap ROA.Hasil ini
+sejalan dengan hasil penelitian yang dilakukan
+oleh Nuraeni (2010) dan Putri (2014) yang juga
+menemukan pengaruh yang signifikan antara
+kepemilikan institusional dengan ROA. Menurut
+Nuraeni (2010) kepemilikan manajerial mewakili
+suatu sumber kekuatan yang dapat digunakan
+untuk mendorong peningkatan pengawasan yang
+lebih optimal guna mengantisipasi tindakan
+manajer yang tidak sesuai dengan yang
+diharapkan oleh pemilik. Putri (2014) yang juga
+menyatakan kepemilikan saham oleh institusi
+berpengaruh signifikan dengan ROA menjelaskan
+bahwa kepemilikan oleh pihak institusi akan
+meningkatkan pegawasan terhadap entitas bisnis
+tersebut. Karena pihak institusi memiliki
+kepentingan besar terhadap investasinya. Dengan
+demikian maka akan terjadi peningkatan atas
+pengendalian
+terhadap
+kebijakan-kebijakan
+manajeman yang nantinya meningkatkan kinerja
+perusahaan.
+E. KESIMPULAN DAN SARAN
+1. Kesimpulan
+a. Berdasarkan hasil pengujian hipotesis proporsi
+dewan komisaris independen, komite audit,
+kepemilikan
+manajerial,
+kepemilikan
+institusional secara simultan berpengaruh
+signifikan terhadap ROA namun tidak
+signifikan terhadap ROE.
+b. Berdasarkan hasil pengujian hipotesis proporsi
+dewan komisaris independen tidak memiliki
+pengaruh yang signifikan terhadap ROE dan
+ROA.
+
+c. Berdasarkan hasil pengujian hipotesis komite
+audit tidak memiliki pengaruh signifikan
+terhadap ROE dan ROA.
+d. Berdasarkan
+hasil
+pengujian
+hipotesis
+kepemilikan manajerial tidak memiliki
+pengaruh signifikan terhadap ROE dan ROA
+e. Berdasarkan
+hasil
+pengujian
+hipotesis
+kepemilikan institusional memiliki pengaruh
+yang signifikan terhadap ROE dan ROA.
+2. Saran
+a. Bagi seluruh perusahaan khususnya perusahaan
+perbankan, diharapkan menjadikan hasil
+penelitian ini sebagai wacana untuk lebih
+mengoptimalkan penerapan Good Corporate
+Governance dalam pengelolaan perusahaan.
+Karena tata kelola perusahaan yang baik akan
+menarik bagi para investor untuk melakukan
+investasi di perusahaan tersebut.
+b. Bagi pihak manajeman perusahaan diharapkan
+dapat lebih transparan dan akuntabel dalam
+pelaporan
+seluruh
+laporan
+keuangan
+perusahaan. Manajeman merupakan pihak yang
+dipercaya oleh para pemegang saham untuk
+mengelola
+perusahaan.
+Tindakan
+atau
+keputusan yang dijalankan oleh manajeman
+akan
+menentukan
+jalannya
+oprasional
+perusahaan
+dan
+menentukan
+reputasi
+perusahaan tersebut dikalangan Stakeholders.
+c. Bagi pemegang saham diharapkan dapat lebih
+mampu dalam melakukan pengawasan
+terhadap
+manajeman
+dan
+memastikan
+penerapan GCG dengan baik. GCG
+memungkinkan pihak-pihak yang ada dalam
+perusahaan bertindak sesuai dengan fungsinya,
+sehingga proses pengelolaan perusahaan
+berjalan dengan baik dan mengurangi tindakan
+kecurangan.
+d. Bagi peneliti selanjutnya, disarankan untuk
+menambah variabel GCG lainya karena dalam
+penelitian ini hanya menggunakan proporsi
+dewan komisaris independen, komite audit,
+kepemilikan manajerial, dan kepemilikan
+institusional. Variabel profitabilitas juga dapat
+ditambahkan karena penelitian ini hanya
+menggunkan ROE dan ROA saja. Sampel
+penelitian juga dapat ditambahkan untuk
+penelitian selanjutnya, karena semakin banyak
+sampel untuk analisis regresi berganda akan
+semakin baik.
+
+Jurnal Administrasi Bisnis (JAB)|Vol. 47 No.1 Juni 2017|
+administrasibisnis.studentjournal.ub.ac.id
+
+111
+
+DAFTAR PUSTAKA
+Agoes, Sukrisno, & Ardana, I Cenik. 2014. Etika
+Bisnis dan Profesi. Jakarta: Salemba
+Empat.
+
+Laksanan, Chandra L. 2012. Pengaruh
+Penerapan Good Corporate Governance
+Terhadap Kinerja Keuangan.Skripsi.
+Malang: Universitas Brawijaya
+
+Bank Indonesia. Peraturan Bank Indonesia
+Nomor 8/4/PBI/2006 Tentang Pelaksanaan
+Good Corporate Governance Bagi Bank
+Umum. 2006.
+
+Nuraeni, Dini. 2010. Pengaruh Struktur
+Kepemilikan Saham Terhadap Kinerja
+Perusahaan.
+Skripsi.
+Semarang:
+Universitas Diponegoro.
+
+FCGI. 2011. Peranan Dewan Komisaris dan
+Komite Audit dalam Pelaksanaan Good
+Corporate Governance (Tata Kelola
+Perusahaan). Edisi 2, Jilid II, FCGI.
+
+Ponnu, C. H., Karthigeyan, R. M., 2010. Board
+Independence and Corporate Performance:
+Evidence from Malaysia. African Journal
+of BusinessManagement 4(6), 858-868.
+
+Hamdani. 2016. Good Corporate Governance.
+Jakarta: Mitra Wacana Media.
+
+Putri, Intan Lifinda. 2014. Pengaruh Good
+Corporate Governance dan Struktur
+Kepemilikan Terhadap Kinerja Keuangan
+perusahaan.Skripsi. Malang: Universitas
+Brawijaya.
+
+KNKG. 2006. Pedoman Umum Good Corporate
+Governance Indonesia. Jakarta: Komite
+Nasional Kebijakan Governance.
+Otoritas Jasa Keuangan. Peraturan Otoritas Jasa
+Keuangan No.30/POJK.05/2014 Tentang
+Dewam Komisaris Indepeneden. 2014
+Republik Indonesia. 1995. Undang-Undang No.8
+Tahun 1995 Tentang Pasar Modal. Jakarta.
+Suta, I Putu Gede Ary & Musa, Soebowo.2008.
+Membedah Krisis Perbankan. Jakarta: Sad
+Satria Bhakti.
+Syamsuddin, Lukman. 2009. Manajemen
+KeuanganPerusahaan. Jakarta: PT. Raja
+Grafindo Persada.
+Zarkasyi, Wahyudin. 2008. Good Corporate
+Governance:
+Pada
+Badan
+Usaha
+Manufaktur, Perbankan, dan Jasa
+Keuangan Lainnya. Bandung:Alfabeta.
+Jurnal
+Arifani, Rizky. 2013. Pengaruh Good Corporate
+Governance Terhadap Kinerja Keuangan
+Perusahaan (Studi Pada Perusahaan yang
+Tercatat Di Bursa Efek Indonesia).
+Skripsi. Malang: Universitas Brawijaya.
+Jensen, Michael C dan W.H. Meckling. 1976.
+Theory of The Firm: Managerial Behavior,
+Agency Cost, and Ownership Structure.
+Journal of Financial Economics, October,
+1976, V. 3, No. 4, pp. 305-360.
+
+Laksana, jaya. 2015. Corporate Governance dan
+Kinerja
+Keuangan
+(Studi
+Pada
+Perusahaan Perbankan yang Terdaftar Di
+BEI Periode 2008-2012). E-Jurnal
+Akuntansi Universitas Udayana 11.1 2015.
+
+Rimardhani,
+Helfina.
+2016.
+Pengaruh
+Mekanisme Good Corporate Governance
+Terhadap
+Profitabilitas
+perusahaan.
+Skripsi. Malang: Universita Brawijaya.
+Shahibah, Khansa. 2017. Pengaruh Corporate
+Governance Terhadap Kinerja Keuangan
+Perusahaan. Skripsi. Malang: Universitas
+Brawijaya.
+Veronica, Sylvia, & Siddharta U. 2005.
+Pengaruh Struktur Kepemilikan , Ukuran
+Perusahaan, dan Praktek Corporate
+Governance Terhadap Pengelolaan laba.
+Artikel Simposium Nasional Akuntansi
+(SNA) VII, IAI, Solo.
+Wehdawati et al. 2015. Pengaruh Mekanisme
+Good Corporate Governance Dan Struktur
+Kepemilikan Terhadap Kinerja Keuangan
+Perusahaan Manufaktur Yang Terdaftar di
+BEI Tahun 2010-2012. Jurnal Wawasan
+Manajeman, Vol 3 Nomor 3, Oktober
+2015.
+Winata, Melianan Pandu. 2010. Analisis
+Pengaruh Penerapan Good Corporate
+Governance
+Terhadap
+Kinerja
+Perusahaan. Skripsi Malang: Universitas
+Brawijaya.
+Zabri, Shafie Mohamed & Ahmad, Kamila .
+2015.Corporate Governance Practices and
+Firm Performance: Evidence from Top
+100 Public Listed Companies in Malaysia.
+Procedia Economics and Finance 35 (
+2016 ) 287 – 296.
+
+Jurnal Administrasi Bisnis (JAB)|Vol. 47 No.1 Juni 2017|
+administrasibisnis.studentjournal.ub.ac.id
+
+112
+
+

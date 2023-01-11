@@ -1,0 +1,477 @@
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+Developing ICT-Based Learning Model to Improve Learning
+Outcomes IPA of SD Fish Market in Sidoarjo
+Nurdyansyah & Luly Riananda
+Fakultas Agama Islam Universitas Muhammadiyah Sidoarjo
+Jl. Majapahit, 666 B Sidoarjo Telp. 031-8945444; Fax. 031-8949333 e-mail:
+nurdyansyah@umsida.ac.id; Lulyria@yahoo.com
+ABSTRACT
+Based learning ICT (Information Communication and Technology) is learning used
+concept of learning and multimedia computer. Based on observation in class V,
+matter that many are abstract, complex, and difficult. One way that can be done by
+teachers when explaining the material abstract is to develop ICT based learning
+model applied in computer based learning program or CAI (Computer Assisted
+Instruction), computer device that is used as a means to develop and operate media
+that can help teachers and students understand a concept, formulate and practice.
+The research aims to: analyzing the development of ICT based lerning model in
+improving learning outcomes IPA and analyze how much influence the learning
+model based on ICT in improving learning outcomes IPA. This research is the
+developmeny (research and development / R&DThe results of the study as follows:
+1) Development of ICT based learning model in improving learning outcomes IPA,
+follow the steps as follows: a) Determination of the material; b) Determine
+competency standards and basic competence; c) Preparation of indicators; d)
+Decomposition of the material; e) Preparation module. 2) The results of the
+analysis of the t-test against the value of pre test and post test showed t value of
+7,85 and 2,056 t table. So, t is greather than t table (7,85> 2, 056).
+Keywords: ICT based learning, learning outcomes
+
+PENDAHULUAN
+Pembelajaran berbasis ICT (Information Communication and Technology)
+adalah pembelajaran yang berasaskan
+
+konsep pembelajaran komputer dan
+
+multimedia. Pembelajaran berbasis ICT mampu menghadirkan pembelajaran yang
+lebih menarik, menyenangkan, dan dapat meningkatkan hasil belajar. Kemampuan
+pembelajaran berbasis ICT inilah yang kemudian menjadi kebutuhan yang
+mendesak untuk tercapainya kualitas pembelajaran yang mengikuti perkembangan
+zaman dan juga untuk mewujudkan sistem pendidikan yang lebih berkualitas.
+Dalam UU No 20 Tahun 2003 pasal 1 ayat 2 dijelaskan bahwa “Pendidikan
+nasional adalah pendidikan yang berdasarkan Pancasila dan Undang-Undang Dasar
+
+929
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+Negara Republik Indonesia Tahun 1945 yang berakar pada nilai-nilai agama,
+kebudayaan nasional Indonesia dan tanggap terhadap tuntutan zaman.
+Berdasarkan pernyataan itulah, perlu dirancang dan dikembangkan suatu
+model pembelajaran yang sesuai dengan perkembangan ilmu pengetahuan dan
+teknologi. Teknologi ada bukan menggantikan fungsi guru, tetapi justru menjadi
+alat bantu guru dalam menyampaikan materi pelajarannya. Itu sebabnya guru harus
+menguasai ICT dan tidak gaptek. Guru harus mau terus belajar menambah
+pengetahuan dan ketrampilannya serta mampu mengintegrasikan ICT dalam
+pembelajaran yang menyenangkan.Wijaya (2012:193-194)
+Kemajuan ICT/TIK yang begitu cepat di abad ke-21 ini telah mempengaruhi
+berbagai aspek kehidupan, termasuk proses belajar mengajar. Penerapan ICT
+memiliki keunggulan tersedianya informasi secara luas, cepat, tepat, adanya
+kemudahan dalam proses pembelajaran dan dukungan teknologi untuk
+memudahkan proses belajar mengajar. ICT juga memiliki keunggulan khas yaitu
+tidak terbatasi oleh ruang dan waktu.
+Ilmu Pengetahuan Alam (IPA) adalah salah satu mata pelajaran yang terdapat
+di sekolah dasar. Konsep IPA untuk sebagian besar siswa merupakan konsep yang
+sulit. Sehingga seorang guru dikatakan berhasil dalam proses pembelajaran IPA jika
+dia mampu mengubah pembelajaran yang semula sulit menjadi mudah, yang semula
+tidak menarik menjadi menarik, yang semula tidak bermakna menjadi bermakna.
+Wisudawati & Sulistyowati (2014:139).
+
+Berdasarkan KTSP Tahun 2006 ruang lingkup bahan kajian IPA untuk SD/MI
+meliputi aspek-aspek makhluk hidup dan proses kehidupan; benda atau materi,
+sifat-sifat dan kegunaannya; energi dan perubahannya; serta bumi dan alam
+semesta. Di dalam (SK KD IPA SD/MI). Ruang lingkup bahan kajian IPA untuk
+SD/MI tersebut diperdalam dalam Standar Kompetensi dan Kompetensi Dasar pada
+kurikulum IPA untuk kelas I sampai dengan kelas VI secara bertahap sesuai dengan
+tingkat perkembangan siswa, dari materi yang konkrit sampai materi yang abstrak,
+dari materi yang sederhana sampai materi yang rumit.
+Di kelas tinggi seperti kelas V, materi mulai banyak yang abstrak, rumit, dan
+sulit. Salah satu cara yang bisa dilakukan oleh guru ketika menjelaskan materi yang
+abstrak yaitu dengan pengembangan model pembelajaran berbasis ICT yang
+diaplikasikan dalam program pembelajaran berbasis komputer atau CAI (Computer
+930
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+Assisted Instruction), perangkat komputer yang digunakan sebagai sarana untuk
+mengembangkan dan mengoperasikan media pembelajaran yang dapat membantu
+guru dan siswa dalam memahami suatu konsep, merumuskan dan mempraktikkan.
+Michael (2006: 144-145)
+
+TINJAUAN PUSTAKA
+A. Model Pembelajaran
+Trianto (2011:145) berpendapat, model pembelajaran adalah kerangka
+konseptual
+
+yang
+
+melukiskan
+
+prosedur
+
+yang
+
+sistematis
+
+dalam
+
+mengorganisasikan pengalaman belajar untuk mencapai tujuan belajar tertentu,
+dan berfungsi sebagai pedoman bagi para perancang pembelajaran dan para
+pengajar dalam merencanakan aktivitas belajar mengajar.
+Model pembelajaran mempunyai makna yang berbeda dari pendekatan,
+strategi, metode, maupun teknik pembelajaran. A. Sudrajat dalam artikelnya
+yang berjudul “Pengertian Pendekatan, Strategi, Metode, Teknik, Taktik, dan
+Model Pembelajaran” menyatakan bahwa:
+“Pendekatan pembelajaran dapat diartikan sebagai sudut pandang kita terhadap
+proses pembelajaran, yang merujuk pada pandangan tentang terjadinya suatu
+proses yang sifatnya masih umum, di dalamnya mewadahi, menginspirasi,
+menguatkan, dan melatari metode pembelajaran dengan cakupan teoritis
+tertentu. Sedangkan strategi pembelajaran menurut Kemp dalam Sanjaya
+(2006:35) adalah suatu kegiatan pembelajaran yang harus dikerjakan guru dan
+
+siswa agar tujuan pembelajaran dapat dicapai secara efektif dan efisien. Lalu,
+metode pembelajaran dapat diartikan sebagai cara yang digunakan untuk
+mengimplementasikan rencana yang sudah disusun dalam bentuk kegiatan
+nyata dan praktis untuk mencapai tujuan pembelajaran. Dengan demikian
+teknik pembelajaran dapat diartikan sebagai cara yang dilakukan seseorang
+dalam mengimplementasikan metode pembelajaran. Sementara itu, taktik
+pembelajaran merupakan gaya seseorang dalam mengimplementasikan metode
+atau teknik pembelajaran tertentu yang sifatnya individual. Kemudian apabila
+antara pendekatan, strategi, metode, teknik, dan taktik pembelajaran sudah
+terangkai menjadi satu kesatuan yang utuh maka terbentuklah apa yang disebut
+dengan model pembelajaran. Jadi, pada dasarnya model pembelajaran
+931
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+merupakan bentuk pembelajaran yang tergambar dari awal sampai akhir yang
+disajikan secara khas oleh guru.”
+B. Pengembangan Model Pembelajaran
+Terdapat beberapa definisi tentang perancangan model yang rumusnya
+berbeda-beda satu dengan yang lain. Cunningham (1982:5) misalnya
+mengemukakan bahwa merancang model pembelajaran itu ialah menyeleksi
+dan menghubungkan pengetahuan, fakta-fakta, imajinasi-imajinasi, dan asumsiasumsi untuk masa yang akan datang dengan tujuan memvisualisasi dan
+memformulasi hasil yang diinginkan, urutan kegiatan yang diperlukan, dan
+perilaku dalam batas-batas yang dapat diterima dan yang akan digunakan dalam
+dalam kehidupannya baik untuk dirinya maupun untuk kepentingan orang
+banyak.
+Selaras dengan apa yang dikemukakan Cunningham, Steller (1983:68)
+berpendapat, merencanakan model pembelajaran adalah berhubungan dengan
+kesenjangan antara apa yang ada sekarang (what is) dengan bagaimana
+seharusnya (what should be) yang bertalian dengan kebutuhan, penentuan
+tujuan, prioritas, program, dan alokasi sumber. Bagaimana seharusnya adalah
+mengacu pada masa yang akan datang.
+Dari pendapat diatas dapat disimpulkan bahwa merencanakan model
+pembelajaran adalah usaha merubah kegiatan pembelajaran agar pembelajaran
+berjalan dengan mempertimbangkan kondisi pembelajaran melalui bantuan
+metode tertentu untuk menghasilkan output belajar yang efektif, efisien, dan
+mempunyai daya tarik untuk memperdalam apa yang sudah dipelajari.
+C. Pembelajaran Berbasis ICT
+1. Pengertian Pembelajaran Berbasis ICT
+Dalam kamus Oxford, Munir (1009:13) dituliskan bahwa teknologi
+informasi dan komunikasi adalah studi atau penggunaan peralatan
+elektronika terutama komputer, untuk menyimpan, menganalisis dan
+mendistribusikan informasi apa saja, termasuk kata-kata, bilangan, dan
+gambar.
+Dengan begitu, ICT mencakup dua aspek yaitu teknologi informasi
+dan teknologi komunikasi. Teknologi informasi meliputi segala hal yang
+berkaitan dengan proses, penggunaan sebagai alat bantu, manipulasi, dan
+932
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+pengelolaan informasi. Sedangkan teknologi komunikasi adalah segala
+sesuatu yang berkaitan dengan penggunaan alat bantu untuk memproses dan
+mentransfer data dari perangkat yang satu ke lainnya. Jadi teknologi
+informasi dan komunikasi mengandung pengertian luas yaitu segala
+kegiatan yang terkait dengan pemrosesan, manipulasi, pengelolaan,
+pemindahan informasi antar media.
+2. Prinsip-Prinsip Pembelajaran Berbasis ICT
+Prinsip umum penggunaan teknologi, dalam hal ICT adalah sebagai berikut,
+dalam Nurdyansyah&widodo (2015:99).
+a. Efektif dan efisien. Penggunaan ICT harus memperhatikan manfaat dari
+teknologi ini dalam hal mengefektifkan belajar, meliputi pemerolehan
+ilmu, kemudahan dan keterjangkauan, baik waktu maupun biaya;
+b. Optimal. Dengan menggunakan ICT, pembelajaran menjadi bernilai
+“lebih” dari pada tanpa menggunakannya. Nilai lebih yang diberikan
+ICT adalah keluasan cakupan, kekinian (up to date), kemodernan dan
+keterbukaan;
+c. Menarik. Pembelajaran di kelas yang menarik dan memancing
+keingintahuan yang lebih. Pembelajaran yang tidak menarik akan
+berjalan membosankan untuk pembelajaran;
+d. Merangsang daya kreatifitas berpikir pelajar. Dengan menggunakan ICT
+tentu saja diharapkan Siswa mampu menumbuhkan kreatifitasnya
+dengan maksimal.
+Dari penjelasan tersebut kita dapat menyebutkan bahwa tujuan
+ICTakan sejalan dengan tujuan pendidikan itu sendiri ketika digunakan
+dalam pembelajaran. Penggunaan ICT tidak menjadi penghambat dalam
+pembelajaran namun
+
+akan memberi manfaat
+
+yang lebih
+
+dalam
+
+pembelajaran.
+3. Fungsi ICT dalam Pembelajaran
+Teknologi informasi dan komunikasi memiliki tiga fungsi utama yang
+digunakan dalam kegiatan pembelajaran, yaitu dalam Rusli (2009:56):
+a. Teknologi berfungsi sebagai alat (tools), untuk membantu pembelajaran,
+misalnya dalam mengolah kata, angka;
+933
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+b. Teknologi berfungsi sebagai ilmu pengetahuan (science);
+c. teknologi berfungsi sebagai bahan dan alat bantu untuk pembelajaran
+(literacy).
+4. Dampak Positif dan Negatif Pembelajaran yang Menggunakan ICT
+Seiring berkembangnya zaman, ICT semakin digunakan dalam
+pembelajaran, hal itu terjadi karena ICT dirasa membawa keuntungan.
+Dampak positif dari penggunaan ICT dalam pembelajaran antara lain dalam
+Nurdyansyah&Widodo (2015:104):
+a. Siswa jadi lebih mudah dalam belajar, karena kebanyakan siswa lebih
+suka praktek dibandingkan teori;
+b. Guru
+
+lebih
+
+mudah
+
+menyampaikan
+
+materi
+
+dengan
+
+membuat
+
+presentasipresentasi;
+c. Dalam belajar, baik siswa mapun guru akan lebih mudah mencari
+sumber karena adanya internet;
+d. Pembelajaran yang menggunakan ICT bisa dibuat lebih menarik,
+misalnya dengan memunculkan gambar atau suara sehingga siswa lebih
+antusias untuk belajar.
+Segala sesuatu pasti ada dampak positif dan negatif, tidak terkecuali
+pembelajaran yang menggunakan ICT, diantaranya:
+a. Pembelajaran yang menggunakan ICT hanya bisa dilaksanakan oleh
+sekolah yang mampu, bagi sekolah-sekolah yang kurang mampu akan
+ketinggalan, dan siswanya akan kesulitan jika mereka masuk ke sekolah
+lanjutan di kota besar yang sudah sering menggunakan ICT;
+b. Setiap siswa harus mendapat fasilitas yang sama, jadi dalam
+pembelajaran yang menggunakan komputer, setiap siswa harus
+memakai satu komputer. Jika komputer yang dalam kondisi baik hanya
+sebagian, akan ada siswa yang hanya menonton, sehingga mereka tidak
+menguasai penggunaan komputer;
+c. Dalam pembelajaran, siswa yang tidak antusias dalam penerimaan
+materi sering kali lebih suka main game;
+d. Dalam pembelajaran yang menggunakan internet tidak dibatasi, sering
+kali siswa menggunakan internet bukan untuk keperluan belajar,
+misalnya membuka situs youtube, dan lain sebagainya.
+934
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+D. Pembelajaran Berbantuan Komputer (Computer Assisted Instructional)
+Computer Assisted Instructional (CAI) merupakan suatu sistem komputer
+yang dapat menyampaikan pengajaran secara langsung kepada siswa dengan
+cara berinteraksi dengan mata pelajaran yang diprogramkan kepada sistem.
+Sistem komputer menyajikan serangkaian prsogram pengajaran kepada siswa
+baik berupa informasi maupun soal-soal latihan. Menurut Krisnadi, istilah CAI
+umumnya menunjuk pada semua software pendidikan yang diakses melalui
+komputer dimana siswa dapat berinteraksi dengannya.
+CAI merupakan penggunaan komputer sebagai mesin belajar untuk
+mempresentasikan berbagai macam pelajaran yang memiliki karakteristik
+tersendiri dalam upaya mencapai tujuan pendidikan. The Association for
+Education Communications and Technology (AECT 1977), mendefinisikan
+CAI sebagai suatu metode pembelajaran yang menggunakan komputer untuk
+mengajar siswa, dimana komputer tersebut berisi bahan ajar yang didesain
+untuk mengajar, sebagai sumber belajar, dan sebagai alat evaluasi kecakapan
+belajar siswa sampai level yang diinginkan dari kecakapan yang seharusnya
+dikuasai.
+Berdasarkan beberapa definisi diatas, dapat disimpulkan bahwa Computer
+Assisted Instructional (CAI) pada dasarnya merupakan perangkat lunak
+(software) program pembelajaran dengan media komputer sebagai alat
+penyampai pesan yang didesain sebagai sumber belajar dalam kegiatan
+pembelajaran.
+
+E. Hasil Belajar
+1. Pengertian Hasil Belajar
+Hasil belajar adalah kemampuan yang diperoleh anak setelah melalui
+kegiatan belajar. Dalam kegiatan belajar yang terprogram dan terkontrol
+yang disebut sebagai kegiatan pembelajaran, tujuan pembelajaran
+ditetapkan terlebih dahulu oleh guru. Anak yang berhasil dalam belajar
+adalah yang berhasil mencapai tujuan-tujuan pembelajaran atau tujuan
+instructional. Abdurrahman (2003:83).
+935
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+Bloom dalam Suprijono (2009: 6-7) berpendapat, hasil belajar
+mencakup kemampuan kognitif, afektif, dan psikomotorik. Domain kognitif
+adalah knowledge (pengetahuan dan ingatan), comprehension (pemahaman,
+menjelaskan),
+
+application
+
+(menerapkan),
+
+analysis
+
+(menguraikan,
+
+menentukan hubungan), synthesis (mengorganisasikan, merencanakan), dan
+evaluation (menilai). Domain afektif adalah reciving (sikap menerima),
+responding (member respon), valuing (nilai), organization (organisasi),
+characterization (karakteristik). Domain psikomotorik meliputi initiatory,
+preroutine, and rountinized.
+Jadi yang harus diingat, hasil belajar adalah perubahan perilaku secara
+keseluruhan bukan hanya salah satu aspek potensi kemanusiaan saja. Hasil
+belajar dalam kecakapan kognitif itu mempunyai tingkatan. Adapun yang
+dimaksud tingkatan dalam buku Slameto adalah informasi non verbal,
+informasi fakta dan pengetahuan verbal, konsep dan prinsip, dan pemecahan
+masalah dan kreativitas. Slameto (2010:138)
+2. Faktor-Faktor yang Mempengaruhi Hasil Belajar
+Sugihartono (2007: 76-77) menyebutkan faktor-faktor yang mempengaruhi
+hasil belajar, sebagai berikut:
+a. Faktor internal adalah faktor yang ada dalam diri individu. Faktor
+internal meliputi: faktor jasmaniah dan faktor psikologis;
+b. Faktor eksternal adalah faktor yang ada di luar individu. Faktor eksternal
+meliputi: faktor keluarga, sekolah, dan masyarakat.
+
+F. Ilmu Pengetahuan Alam (IPA)
+1. Pengertian IPA
+Ilmu Pengetahuan Alam (IPA) merupakan bagian dari Ilmu
+Pengetahuan atau Sains yang semula berasal dari bahasa Inggris ‘science’.
+Kata scince sendiri berasal dari kata dalam bahasa latin ‘scienta’ yang
+berarti saya tahu. Untuk mendefinisikan IPA tidaklah mudah, karena sering
+kurang dapat menggambarkan secara lengkap pengertian sains sendiri. H.W
+Fowler menjelaskan, IPA adalah pengetahuan yang sistematis dan
+
+936
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+dirumuskan, yang berhubungan dengan gejala-gejala kebendaan dan
+didasarkan terutama atas pengamatan dan deduksi.
+Adapun Wahyana dalam Trianto (2010:136) mengatakan, IPA adalah
+suatu pengetahuan tersusun secara sistematis, dan dalam penggunaannya
+secara umum terbatas pada gejala-gejala alam. Perkembangannya tidak
+hanya ditandai oleh adanya kumpulan fakta, tetapi oleh adanya metode
+ilmiah dan sikap ilmiah.
+Dari penjelasan diatas dapat disimpulkan bahwa IPA adalah suatu
+kumpulan teori yang sistematis, penerapannya secara umum terbatas dengan
+gejala-gejala alam, lahir dan berkembang melalui metode ilmiah seperti
+observasi dan eksperimen serta menuntut sikap ilmiah seperti rasa ingin
+tahu, terbuka, jujur, dan sebagainya.
+G. Karakteristik Siswa Usia SD/MI
+Usia rata-rata anak Indonesia masuk Sekolah Dasar adalah usia 6 tahun
+dan selesai pada usia 12 tahun. Piaget dalam Suardi (2015: 147) berpendapat,
+siswa usia 6 atau 7 – 12 tahun mempunyai perkembangan berfikir pada taraf
+operasional konkrit. Pada tahap ini mereka mengerti aturan dasar logika.
+Bagaimanapun juga, proses berpikir atau operasi pada umumnya melibatkan
+objek yang konkrit daripada ide yang abstrak, sehingga siswa memerlukan
+pengalaman fisik dalam memahami sebuah konsep, seperti memanipulasi benda
+konkrit untuk membentuk pengalaman logika berpikirnya.
+
+METODOLOGI PENELITIAN
+Penelitian ini adalah jenis penelitian Pengembangan. Langkah-langkah
+pelaksanaan penelitian yang dilakukan oleh peneliti meliputi: 1) potensi masalah;
+2) pengumpulan data; 3) desain; 4) validasi desan; 5) revisi produk; 6) uji coba
+produk; 7) revisi produk; 8) uji coba pemakaian; 9) revisi produk; 10) pembuatan
+produk masal.Penelitian ini dilakukan di SD Pasar Ikan Sidoarjo. Populasi dalam
+penelitian adalah seluruh siswa kelas 1 sampai kelas 6 SD Pasar Ikan Sidoarjo.
+Sedangkan sampelnya adalah seluruh siswa kelas 5 dengan jumlah 14 anak. Teknik
+sampling yang digunakan adalah purposive sampling. Sedangkan instrumen yang
+937
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+digunakan dalam penelitian ini adalah: 1)tes yaitu pre test dan post test; 2) observasi
+dan 3) dokumentasi
+
+HASIL DAN PEMBAHASAN
+Model pembelajaran adalah suatu pola atau langkah-langkah pembelajaran
+tertentu yang diterapkan agar tujuan atau kompetensi dari hasil belajar yang
+diharapkan akan cepat dapat dicapai dengan lebih efektif dan efisien. Oleh karena
+itu untuk mencapai hasil belajar yang efektif dan efisien diperlukan adanya variasi
+model pembelajaran.
+Berdasarkan hasil analisis observasi yang dilakukan oleh peneliti
+mengindikasikan diperlukannya variasi model pembelajaran. Salah satu model
+pembelajaran yang dapat dikembangkan adalah model pembelajaran berbasis ICT.
+Dengan media ICT penyampaian materi pelajaran lebih cepat dan mudah, manarik
+bagi siswa, serta pembelajaran lebih menyenangkan.
+Pada tahap pengembangan peneliti menentukan materi yang akan
+dikembangkan dengan media ICT. Materi yang dipilih yaitu materi tentang
+peristiwa alam beserta dampaknya. Alasan peneliti memilih materi ini, karena
+materi peristiwa alam ini merupakan materi yang bersifat abstrak. Sehingga guru
+membutuhkan media ICT untuk memvisualisasikan materi peristiwa alam yang
+bersifat abstrak untuk dilihat secara langsung.
+Pernyataan tersebut selaras dengan pernyataan Adri dalam jurnal Invotek (19)
+bahwa ICT atau multimedia mempunyai fungsi khusus berupa teknologi animasi,
+simulasi dan visualisasi, siswa mendapatkan informasi yang lebih realdari
+informasi yang bersifat abstrak sehingga akan dapat mengembangkan aspek
+kognitifnya.
+Pembelajaran menggunakan ICT terbukti dapat meningkatkan hasil belajar
+siswa. Hal tersebut terlihat dari hasil belajar siswa pada uji coba kelas terbatas
+ataupun uji coba skala diperluas terhadap penggunaan ICT. Ketuntasan belajar
+siswa secara klasikal yang diperoleh pada pre test sebesar 85,71% dan pada post
+test sebesar 92,85%. Persentase tersebut menunjukkan bahwa hasil belajar siswa
+dalam pembelajaran menggunakan model pembelajaran berbasis ICT dapat
+mencapai indikator keberhasilan.
+
+938
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+Faktor yang menyebabkan keefektifan model pembelajaran ICT yang
+diaplikasikan dalam program pembelajaran berbasis komputer atau CAI (Computer
+Assisted Instruction) adalah pengendalian komputer yang berada ditangan siswa.
+Pembelajaran menggunakan komputer mampu mengakomodasi siswa yang lamban
+menerima pelajaran, sehingga apabila pengendalian komputer berada ditangan
+siswa tingkat kecepatan belajar dapat disesuaikan dengan tingkat penguasaan. Hal
+tersebut selaras dengan pendapat Arsyad (2011::10) yang mengemukakan bahwa
+komputer dapat mengakomodasi siswa yang lamban menerima pelajaran, karena
+komputer dapat memberikan iklim yang lebih efektif dengan cara yang lebih
+individual.
+
+KESIMPULAN
+Berdasarkan hasil penelitian didapatkan kesimpulan sebagai berikut:
+1. Pengembangan model pembelajaran berbasis ICT dalam meningkatkan hasil
+belajar IPA untuk langkah-langkahnya dideskripsikan sebagai berikut: a)
+Penentuan materi; b) Menentukan Standar Kompetensi, Kompetensi Dasar; c)
+Pembuatan indikator; d) Penguraian materi; e) Pembuatan modul.
+2. Hasil analisis uji-t terhadap nilai pre test dan post test menunjukkan nilai t
+hitung 7,85 dan t tabel 2,056. Karena t hitung lebih besar dari t tabel
+(7,85>2,056) maka Ha diterima dan Ho ditolak.
+
+DAFTAR RUJUKAN
+Abdurrahman, Mulyono. 2003. Pendidikan Bagi Anak Berkesulitan Belajar.
+Jakarta: Rineka Cipta.
+AECT. 1977. The Definition of Education Technology. Wasington DC.
+Arsyad A. 2011. Media Pembelajaran. Jakarta: PT Rajagrafindo Persada.
+Kusumah,Wijaya. 2012. TIK: Menulis Blog untuk Pendidikan. Jakarta:PT Indeks.
+Michael, Orey. 2006. Education Media and Technology Year Book. London:
+Published in cooperation with the AECT.
+Moh. Suardi. 2015. Belajar dan Pembelajaran. Yogyakarta: Deepublish.
+
+939
+
+Proceedings of International Research Clinic & Scientific Publications of Educational Technology 2016
+
+M. Adri. Strategi Pengembangan Multimedia Instruksional Design, Jurnal Invotek.
+I (VII)
+Munir. 2009. Pembelajaran Jarak Jauh Berbasis Teknologi dan Komunikasi.
+Bandung: Alfabeta.
+Nurdyansyah & Andik Widodo. 2015. Manajemen Sekolah Berbasis ICT.Sidoarjo:
+Nizamia Learning Center.
+Rusli. 2009. Teknologi Komunikasi dan Informasi dalam Pendidikan. Jakarta:
+Gaung Persada.
+Sanjaya, Wina. 2006. Strategi Pembelajaran. Jakarta: Kencana Prenada Media.
+SK KD IPA SD/MI
+Slameto. 2010. Belajar dan Faktor-faktor yang Mempengaruhinya. Jakarta:
+Rineka Cipta.
+Sugihartono. 2007. Psikologi Pendidikan. Yogyakarta: UNY Pres.
+Suprijono, Agus. 2009. Cooperatif Learning. Yogyakarta: Pustaka Pelajar.
+Steller, Arthur W. 1983. Curriculum Planning, Fenwick W. English, (editor),
+Fundamental Curriculum Decitions, Virginia: ASDC.
+Trianto.2011. Desain Pengembangan Pembelajaran Tematik. Jakarta:Kencana
+Prenada Media.
+Widi Wisudawati, Asih & Eka Sulistyowati. 2014. Metodologi Pembelajaran IPA.
+Jakarta: Bumi Aksara.
+Willian G, Cunningham.1982. Systematic Planning for Educational Change, First
+Edition. California:Mayfield Publishing Company.
+
+940
+
+

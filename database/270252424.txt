@@ -1,0 +1,633 @@
+View metadata, citation and similar papers at core.ac.uk
+
+brought to you by
+
+Faktor Exacta 12 (3): 210-218, 2019
+
+CORE
+
+provided by e-Journal Universitas Indraprasta PGRI (Persatuan Guru Republik Indonesia)
+
+p-ISSN: 1979-276X
+e- ISSN: 2502-339X
+DOI: 10.30998/faktorexacta.v12i3.4541
+Femy Mulya M, dkk – Analisis dan Implementasi Data Mining...
+
+Analisis Dan Implementasi Data Mining Menggunakan Algoritma
+Apriori Untuk Meningkatkan Penjualan Pada Kantin Universitas
+Tanri Abeng
+MUHAMAD FEMY MULYA
+NOFITA RISMAWATI
+RAUDHA RIZKY ALIFI
+Program Studi Sistem Informasi
+Tanri Abeng University, Jakarta, Indonesia
+Jl. Swadarma Raya No.58, Ulujami, Pesanggrahan, Jakarta 12250
+Program Studi Informatika
+Universitas Indraprasta PGRI, Jakarta, Indonesia
+Jl. Nangka No. 58 C Tanjung Barat, Jagakarsa, Jakarta 12530
+Program Studi Sistem Informasi
+Tanri Abeng University, Jakarta, Indonesia
+Jl. Swadarma Raya No.58, Ulujami, Pesanggrahan, Jakarta 12250
+Email: femy.mulya@tau.ac.id, novi.9001@gmail.com, raudha.rizky@student.tau.ac.id
+Abstract. Data Mining is used for extracting important information that is hidden
+from large datasets. With data mining, you will get a jewel of knowledge in a large
+amount of data collection. In this study an analysis of data by Data Mining will be
+conducted using the Apriori Algorithm Method to increase sales at the Canteen of
+Tanri Abeng University. This analysis is expected to help sellers in the Tanri
+Abeng University Canteen to plan the sales strategy of the products offered on the
+food menu for sale. A priori algorithm is one part of the analysis of the association,
+this algorithm was chosen to produce an association rule from the results of food
+sales transactions at the Canteen of Tanri Abeng University. In determining the
+association rules, identification of items needs to be done to combine several
+menus that may be purchased by consumers. This determination starts from one
+item to several items, then the item set will produce association rules and trust
+values. Through the calculations contained in the association rules, it can be
+concluded that there are only a few food products purchased with a high
+probability in the sample of food sales transactions in the Canteen of the Tanri
+Abeng University. Thus, the analysis of this association can help prepare what
+types of food stocks are needed in the future so as to reduce the level of food loss
+that is less desirable.
+Key words: Data mining, algoritma apriori, association rule
+
+Abstrak. Data Mining digunakan untuk ekstraksi informasi penting yang
+tersembunyi dari dataset yang besar. Dengan adanya data mining, maka akan
+didapatkan suatu permata berupa pengetahuan di dalam kumpulan data – data yang
+banyak jumlahnya. Pada penelitian ini akan dilakukan suatu analisa terhadap data
+dengan Data Mining menggunakan Metode Algoritma Apriori untuk meningkatkan
+penjualan di Kantin Universitas Tanri Abeng. Analisis ini diharapkan dapat
+membantu Penjual di Kantin Universitas Tanri Abeng untuk merencanakan strategi
+penjualan produk yang ditawarkan pada menu makanan yang dijual. Algoritma
+apriori adalah salah satu bagian dari analisis asosiasi, algoritma ini dipilih untuk
+menghasilkan suatu aturan asosiasi (association rule) dari hasil transaksi penjualan
+
+210
+
+Faktor Exacta 12 (3): 210-218, 2019
+p-ISSN: 1979-276X
+e- ISSN: 2502-339X
+DOI: 10.30998/faktorexacta.v12i3.4541
+Femy Mulya M, dkk – Analisis dan Implementasi Data Mining...
+
+makanan di Kantin Universitas Tanri Abeng. Dalam menentukan aturan asosiasi
+(association rule), identifikasi item-item perlu dilakukan untuk mengkombinasikan
+beberapa menu yang mungkin dibeli oleh konsumen. Penentuan ini dimulai dari
+satu item hingga beberapa item, selanjutnya item set akan menghasilkan aturan
+asosiasi (association rule) dan nilai kepercayaan. Melalui perhitungan yang
+terkandung dalam aturan asosiasi (association rule), maka dapat disimpulkan bahwa
+hanya ada beberapa produk makanan yang dibeli dengan probabilitas tinggi dalam
+sampel transaksi penjualan makanan di Kantin Universitas Tanri Abeng. Dengan
+demikian, analisis asosiasi ini dapat membantu menyiapkan jenis stok makanan apa
+yang dibutuhkan di masa depan sehingga dapat mengurangi tingkat kehilangan
+makanan yang kurang diinginkan.
+Kata Kunci: Data mining, algoritma apriori, association rule
+
+PENDAHULUAN
+Dalam dunia bisnis, persaingan antar perusahaan untuk memasarkan produk tidak
+bisa terlepas dari pemanfaatan teknologi informasi. Dalam memasarkan suatu produk,
+ada beberapa faktor yang sangat berpengaruh terhadap penjualan, salah satunya adalah
+strategi dalam penjualan suatu produk. Dengan strategi penjualan yang baik, maka
+sebuah produk akan terjual dengan cepat, akan tetapi jika strategi yang digunakan
+tidak tepat, maka suatu produk akan menurun dari segi penjualan atau bahkan tidak
+terjual sama sekali. Dalam beberapa contoh kasus penjualan partai besar, banyak
+produsen memiliki stok barang yang terlalu banyak, sedangkan penjualannya tidak
+sebanding, maka penjual akan mendapatkan kerugian. Apalagi dalam sebuah kantin,
+jika menu yang telah di masak tidak habis dibeli oleh konsumen, maka menu masakan
+tersebut akan bersisa. Oleh karena itu, untuk menyediakan menu masakan yang sesuai
+dengan permintaan konsumen pada sebuah kantin perlu melakukan penelitian dan
+perencanaan yang dapat memprediksi permintaan konsumen. Dengan demikian,
+kantin dapat memperoleh keuntungan yang optimal tanpa mengeluarkan biaya
+tambahan. Salah satu sumber informasi yang dapat digunakan untuk membantu
+kegiatan penjualan adalah sistem database berdasarkan transaksi penjualan makanan
+pada Kantin Universitas Tanri Abeng. Adapun cara untuk mendapatkan informasi
+berharga dari data transaksi penjualan adalah dengan menggunakan Metode Data
+Mining.
+Data mining adalah suatu pencarian dan analisa dari jumlah data yang sangat
+besar dan bertujuan untuk mencari arti dari pola dan aturan (Han, Kamber, & Pei,
+2011). Salah satu algoritma yang terdapat pada data mining adalah Algoritma Apriori
+atau bisa disebut juga dengan Market Basket Analysis (MBA). Algoritma Apriori
+merupakan salah satu metode atau teknik yang dapat digunakan dan bermanfaat untuk
+lingkungan marketing. Metode ini digunakan untuk menentukan produk-produk
+manakah yang akan dibeli konsumen secara bersamaan dengan analisa terhadap daftar
+transaksi penjualan (Saraswati, n.d.).
+Dari uraian yang telah diberikan, pada penelitian ini akan dijawab permasalahan
+bagaimana cara meningkatkan penjualan pada Kantin Universitas Tanri Abeng,
+sehinga dapat meminimalisir menu makanan yang tidak laku/habis dijual.
+Tujuan dari penelitian ini adalah untuk menganalisa dan mengimplementasikan
+data mining dengan menggunakan algoritma apriori, sehingga akan meningkatkan
+penjualan makanan pada Kantin Universitas Tanri Abeng, selain itu hasil analisis dan
+implementasi dapat dijadikan sebuah informasi penting dalam pengambilan keputusan
+yang berguna bagi penjual untuk mempersiapkan jenis stok makanan apa yang
+
+211
+
+Faktor Exacta 12 (3): 210-218, 2019
+p-ISSN: 1979-276X
+e- ISSN: 2502-339X
+DOI: 10.30998/faktorexacta.v12i3.4541
+Femy Mulya M, dkk – Analisis dan Implementasi Data Mining...
+
+diperlukan kedepannya sehingga dapat mengurangi tingkat kerugian terhadap
+makanan yang kurang diminati oleh konsumen.
+Data Mining
+Data mining merupakan disiplin ilmu yang mempelajari metode untuk
+mengekstrak pengetahuan atau menemukan pola dari suatu data (Han et al., 2011).
+Data mining sering juga disebut knowledge discovery in database (KDD), adalah
+kegiatan yang meliputi pengumpulan, pemakaian data historis untuk
+menemukan/mencari keteraturan, pola atau hubungan dalam set data berukuran besar.
+Keluaran dari data mining ini, biasa dipakai untuk memperbaiki dalam proses
+pengambilan keputusan di masa depan.
+Pengelompokan Data Mining dibagi menjadi beberapa kelompok yaitu (Maulana
+& Fajrin, 2018):
+a. Deskripsi
+Deskripsi merupakan suatu cara untuk menggambarkan pola dan kecenderungan
+yang terdapat dalam data yang dimiliki.
+b. Estimasi
+Estimasi hampir sama dengan klasifikasi, kecuali variable target estimasi lebih ke
+arah numerik daripada ke arah kategori. Model yang dibangun dengan
+menggunakan record lengkap yang menyediakan nilai variable target sebagai nilai
+prediksi.
+c. Prediksi
+Prediksi adalah menerka/memperkirakan sebuah nilai yang belum diketahui dan
+juga memperkirakan nilai untuk masa mendatang.
+d. Klasifikasi
+Dalam klasifikasi terdapat target variable kategori, misalnya penggolongan
+pendapatan dapat dipisahkan dalam tiga kategori, yaitu tinggi, sedang, dan rendah.
+e. Pengklasteran
+Merupakan pengelompokan record, pengamatan, atau memperhatikan dan
+membentuk kelas objek-objek yang memiliki kemiripan/kesamaan.
+f. Asosiasi
+Asosiasi bertugas menemukan atribut yang muncul dalam satu waktu. Dalam dunia
+bisnis lebih umum disebut analisis keranjang belanja. Tugas asosiasi dalam data
+mining adalah untuk menemukan atribut yang muncul dalam satu waktu secara
+bersamaan (Zahedi & Chandra, 2012).
+Algoritma Apriori
+Algoritma Apriori merupakan suatu algoritma yang diajukan oleh R. Agrawal
+dan R. Srikant pada tahun 1994 pada suatu penelitian yang berguna untuk menemukan
+frequent itemset untuk Boolean association rule. Nama Algoritma Apriori berdasarkan
+fakta bahwa algoritma tersebut menggunakan pengetahuan sebelumnya (prior
+knowledge) dari pencarian frequent itemset mining (Gama, Putra, & Bayupati, 2016).
+Algoritma Apriori merupakan pendekatan iteratif dimana k-itemset digunakan
+untuk mengeksplorasi (k + 1)-itemset. Adapun flowchart dari Algoritma Apriori dapat
+dilihat pada Gambar 1 berikut.
+
+212
+
+Faktor Exacta 12 (3): 210-218, 2019
+p-ISSN: 1979-276X
+e- ISSN: 2502-339X
+DOI: 10.30998/faktorexacta.v12i3.4541
+Femy Mulya M, dkk – Analisis dan Implementasi Data Mining...
+
+Mulai
+
+k=1
+
+Hitung support itemset
+dari k-itemset
+
+Apakah ada itemset yang
+memenuhi support minimal?
+
+ya
+
+k=k+1
+
+Hitung support itemset dari k-itemset hasil kombinasi
+itemset dari (k – 1)-itemset yang memenuhi support
+minimal
+tidak
+
+Apakah ada itemset yang
+memenuhi support minimal?
+
+tidak
+
+ya
+
+Simpan itemset dari k-itemset yang
+memenuhi support minimal
+
+k=k+1
+
+Apakah k > jumlah item?
+
+ya
+
+Selesai
+
+tidak
+
+Hitung support itemset dari k-itemset hasil
+kombinasi itemset dari (k – 1)-itemset yang
+memenuhi support minimal
+
+Gambar 1. Flowchart Algoritma Apriori
+Aturan Asosiasi atau disebut dengan association rules merupakan salah satu
+teknik data mining yang berguna dalam mencari aturan asosiatif dari suatu barang.
+Aturan Asosiasi dibentuk dengan cara menganalisis pola data yang sering muncul
+(frequent pattern) dan dengan menggunakan parameter support dan confidence untuk
+
+213
+
+Faktor Exacta 12 (3): 210-218, 2019
+p-ISSN: 1979-276X
+e- ISSN: 2502-339X
+DOI: 10.30998/faktorexacta.v12i3.4541
+Femy Mulya M, dkk – Analisis dan Implementasi Data Mining...
+
+mengidentifikasi hubungan yang paling penting dan sesuai. Support adalah indikasi
+yang menunjukkan seberapa sering suatu item muncul di dalam suatu database.
+Sedangkan Confidence menunjukkan berapa kali pernyataan tersebut benar (Gunadi &
+Sensuse, 2016). Berikut merupakan penjelasan mengenai support dan confidence pada
+aturan asosiasi.
+1. Support
+Support adalah suatu ukuran yang menunjukkan seberapa besar tingkat
+dominasi suatu item/item set dari keseluruhan transaksi. Ukuran ini akan
+menentukan apakah suatu item/item set layak untuk dicari confidence
+selanjutnya atau tidak.
+𝑆𝑢𝑝𝑝𝑜𝑟𝑡 (𝐴) =
+
+Jumlah Transaksi mengandung A
+Total Transaksi
+
+(1)
+
+Sedangkan nilai support dari 2 item diperoleh dari rumus berikut:
+𝑆𝑢𝑝𝑝𝑜𝑟𝑡 (𝐴 ∩ 𝐵) =
+
+Jumlah Transaksi mengandung A dan B
+Total Transaksi
+
+(2)
+
+2. Confidence
+Confidence adalah suatu ukuran yang menunjukkan hubungan antar 2 (dua)
+item secara conditional seperti: seberapa sering item A dibeli jika orang
+membeli item B.
+𝐶𝑜𝑛𝑓𝑖𝑑𝑒𝑛𝑐𝑒 𝑃(𝐵 | 𝐴) =
+
+Jumlah Transaksi mengandung A dan B
+Jumlah Transaksi mengandung A
+
+(3)
+
+Dalam gambaran umum, Association Rule Mining memiliki dua tahap proses
+yaitu:
+1. Temukan semua frequent item set : anggota frequent item set setidaknya memiliki
+jumlah dalam database sama dengan minimum support yang telah ditentukan di
+awal.
+2. Temukan semua aturan asosiasi yang kuat dari frequent item set aturan asosiasi
+yang dihasilkan harus memenuhi minimum support dan minimum confidence.
+METODE
+Pada penelitian ini akan melakukan tiga buah tahap untuk mendapatkan aturan
+asosiasi pada data transaksi di kantin Universitas Tanri Abeng, yaitu: pengumpulan
+data, praproses data dan yang terakhir penerapan Algoritma Apriori. Adapun detail
+flowchart untuk penelitian ini adalah sebagai berikut:
+
+214
+
+Faktor Exacta 12 (3): 210-218, 2019
+p-ISSN: 1979-276X
+e- ISSN: 2502-339X
+DOI: 10.30998/faktorexacta.v12i3.4541
+Femy Mulya M, dkk – Analisis dan Implementasi Data Mining...
+
+Mulai
+
+Pengumpulan Data
+
+tidak
+
+Apakah Data
+Sudah Lengkap?
+
+ya
+
+Praproses Data:
+- Kategorisasi
+- Pembersihan
+- Transformasi
+
+Penerapan Algoritma Apriori
+
+Selesai
+
+Gambar 2. Flowchart Tahapan Penelitian
+Data yang dikumpulkan adalah data transaksi penjualan makanan pada Kantin
+Universitas Tanri Abeng dari bulan Mei 2019 sampai dengan Juli 2019. Pada tahapan
+praproses data dilakukan tiga buah aktifitas, yaitu: kategorisasi makanan yang dijual,
+pembersihan data dan transformasi data. Selanjutnya pada tahapan Penerapan
+Algoritma Apriori dilakukan dengan melakukan perhitungan secara manual dengan
+menggunakan Microsoft Excel dan untuk mem-verifikasi hasil perhitungan pada
+penelitian ini juga menggunakan tools Rapid Miner Studio. Kemudian untuk Support
+anteseden minimal yang digunakan adalah 20% dan confidence minimal yang
+digunakan adalah 75%. Pada tahap praproses data, pembersihan data dilakukan dengan
+cara menghapus transaksi pembelian makanan yang hanya mengandung satu item
+makanan. Sedangkan transformasi data dilakukan dengan cara merubah bentuk data
+transaksi pembelian makanan menjadi tabel boolean.
+HASIL DAN PEMBAHASAN
+Pengumpulan dan Praproses Data
+Data transaksi penjualan makanan pada Kantin Universitas Tanri Abeng yang
+terkumpul adalah 427 transaksi. Setelah dilakukan praproses data menjadi 380
+transaksi. Menu makanan dikategorikan menjadi tujuh kategori menu makanan, yaitu:
+Es Teh, Nasi Goreng, Indomie, Rendang, Telur Balado, Ayam Goreng dan Nasi.
+Sampel data transaksi pembelian makanan dapat dilihat pada Tabel 1. Sedangkan hasil
+transformasi dapat dilihat pada Tabel 2.
+
+215
+
+Faktor Exacta 12 (3): 210-218, 2019
+p-ISSN: 1979-276X
+e- ISSN: 2502-339X
+DOI: 10.30998/faktorexacta.v12i3.4541
+Femy Mulya M, dkk – Analisis dan Implementasi Data Mining...
+
+Tabel 1. Transaksi Penjualan Pada Kantin Tanri Abeng University
+Transaksi
+1
+2
+3
+4
+5
+6
+7
+8
+9
+...
+427
+
+No
+1
+2
+3
+4
+5
+6
+7
+8
+9
+...
+380
+
+Es
+teh
+1
+1
+1
+1
+0
+1
+1
+0
+0
+...
+0
+
+Item Makanan Yang Dibeli
+Es teh, Nasi goreng
+Es teh, Indomie
+Nasi, Rendang, Es teh
+Nasi, Ayam goreng, Es teh
+Nasi, Rendang
+Indomie, Es teh
+Es teh, Nasi, Telur balado
+Nasi, Rendang, Telur balado
+Nasi, Telur balado, Ayam goreng
+...
+Nasi goreng, Es teh
+
+Tabel 2. Format Tabular/Tabel Boolean
+Nasi
+Telur
+Ayam
+Goreng Indomie Rendang Balado Goreng
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+1
+1
+...
+...
+...
+...
+...
+1
+0
+0
+0
+0
+
+Nasi
+0
+0
+1
+1
+1
+0
+1
+1
+1
+...
+0
+
+Aturan Asosiasi
+Setelah semua pola frekuensi tinggi ditemukan, kemudian dicari aturan asosiasi
+yang memenuhi syarat minimum untuk support dan confidence. Rule yang dipakai
+adalah if x then y, dimana x adalah antecendent dan y adalah consequent. Berdasarkan
+rule tersebut, maka dibutuhkan 2 buah item dimana salah satunya sebagai antecedent
+dan sisanya sebagai consequent.
+Untuk Σ item yang dibeli sekaligus pada If buy Indomie then buy Es teh, ada 145
+transaksi. Jumlah seluruh transaksi adalah 380 transaksi, sehingga support
+antecendent-nya adalah:
+𝑆𝑢𝑝𝑝𝑜𝑟𝑡 =
+
+145
+× 100% = 88,16%
+380
+
+216
+
+Faktor Exacta 12 (3): 210-218, 2019
+p-ISSN: 1979-276X
+e- ISSN: 2502-339X
+DOI: 10.30998/faktorexacta.v12i3.4541
+Femy Mulya M, dkk – Analisis dan Implementasi Data Mining...
+
+Untuk Σ item yang dibeli sekaligus pada If buy Indomie then buy Es teh, ada 145
+transaksi, sedangkan jumlah transaksi yang membeli Indomie adalah 189 transaksi,
+sehingga confidence-nya adalah:
+𝐶𝑜𝑛𝑓𝑖𝑑𝑒𝑛𝑐𝑒 =
+
+145
+× 100% = 76,72%
+189
+
+Dari hasil penerapan Alogritma Apriori didapat 4 (empat) buah aturan asosiasi
+yang memenuhi support antecendent minimal dan confidence minimal. Aturan
+asosiasi tersebut dapat dilihat pada Tabel 3.
+Tabel 3. Aturan Asosiasi
+Support
+Antecendent
+
+Confidence
+
+If buy Indomie then
+buy Es teh
+
+38,16%
+
+76,72%
+
+Perkalian
+(Support *
+Confidence)
+0,29
+
+R2
+
+If buy Telur Balado
+then buy Nasi
+
+35,00%
+
+78,24%
+
+0,27
+
+R3
+
+If buy Ayam Goreng
+then buy Nasi
+If buy Rendang then
+buy Nasi
+
+30,00%
+
+81,43%
+
+0,24
+
+25,00%
+
+84,82%
+
+0,21
+
+Rules
+
+Aturan Asosiasi
+
+R1
+
+R4
+
+Setelah didapat hasil perkalian antara support antecendent dan confidence,
+pilihlah yang hasil perkaliannya paling besar. Hasil yang paling besar dari perkalian
+tersebut merupakan rule yang dipakai pada saat menjual. Maka rule yang di dapat
+pada transaksi pembelian makanan di Kantin Universitas Tanri Abeng adalah:
+1. Jika membeli Indomie, maka akan membeli Es Teh dengan support antecendent
+38,16% dan confidence 76,72%.
+2. Jika membeli Telur Balado, maka akan membeli Nasi dengan support
+antecendent 35,00% dan confidence 78,24%.
+3. Jika membeli Ayam Goreng, maka akan membeli Nasi dengan support
+antecendent 30,00% dan confidence 81,43%.
+4. Jika membeli Rendang, maka akan membeli Nasi dengan support antecendent
+25,00% dan confidence 84,82%.
+PENUTUP
+Simpulan
+Berdasarkan hasil penelitian pada Kantin Universitas Tanri Abeng, didapat
+beberapa simpulan sebagai berikut:
+1. Jika konsumen membeli menu makanan Indomie / Telur Balado / Ayam Goreng /
+Rendang, maka konsumen juga akan membeli menu Es Teh atau Nasi. Oleh sebab
+itu disarankan pada pihak Kantin Universitas Tanri Abeng untuk memperbanyak
+stok makanan untuk menu Indomie, Telur Balado, Ayam Goreng dan Rendang.
+Selain itu, pihak Kantin Universitas Tanri Abeng juga bisa meletakkan menu Nasi /
+Es Teh yang berdekatan dengan menu Indomie, Telur Balado, Ayam Goreng dan
+Rendang.
+
+217
+
+Faktor Exacta 12 (3): 210-218, 2019
+p-ISSN: 1979-276X
+e- ISSN: 2502-339X
+DOI: 10.30998/faktorexacta.v12i3.4541
+Femy Mulya M, dkk – Analisis dan Implementasi Data Mining...
+
+2. Dengan menggunakan perhitungan Algoritma Apriori, hasil proses perhitungan dan
+implementasi dapat dijadikan informasi penting dalam pengambilan keputusan
+yang berguna untuk mempersiapkan jenis stok makanan apa yang diperlukan
+kedepannya sehingga dapat mengurangi tingkat kerugian terhadap makanan yang
+kurang diminati.
+Saran
+Berdasarkan hasil dari penelitian yang telah dilakukan, berikut ini beberapa saran
+untuk pengembangan penelitian ini selanjutnya, antara lain:
+1. Pada penelitian selanjutnya dapat dikembangkan dengan memanfaatkan Algoritma
+Association data mining lainya seperti: Generalized Rule Iduction dan Algoritma
+Hash Based.
+2. Pada penelitian selanjutnya, untuk melakukan proses perhitungan dan verifikasi
+hasil proses perhitungan, bisa menggunakan tools seperti: Matlab atau Weka.
+DAFTAR PUSTAKA
+Gama, A. W. O., Putra, I. K. G. D., & Bayupati, I. P. A. (2016). Majalah ilmiah teknologi
+elektro. Majalah Ilmiah Teknologi Elektro (Vol. 15).
+Gunadi, G., & Sensuse, D. I. (2016). PENERAPAN METODE DATA MINING
+MARKET BASKET ANALYSIS TERHADAP DATA PENJUALAN PRODUK
+BUKU DENGAN MENGGUNAKAN ALGORITMA APRIORI DAN
+FREQUENT PATTERN GROWTH (FP-GROWTH) : STUDI KASUS
+PERCETAKAN PT. GRAMEDIA. Telematika MKOM, 4(1), 118–132.
+Han, J., Kamber, M., & Pei, J. (2011). Data Mining. Concepts and Techniques, 3rd
+Edition (The Morgan Kaufmann Series in Data Management Systems).
+Maulana, A., & Fajrin, A. A. (2018). PENERAPAN DATA MINING UNTUK
+ANALISIS POLA PEMBELIAN KONSUMEN DENGAN ALGORITMA FPGROWTH PADA DATA TRANSAKSI PENJUALAN SPARE PART MOTOR.
+KLIK - KUMPULAN JURNAL ILMU KOMPUTER, 5(1), 27.
+https://doi.org/10.20527/klik.v5i1.100
+Saraswati, R. (n.d.). ABSTRACT THE IMPLEMENTATION OF MARKET BASKET
+ANALYSIS (MBA) METHOD ON E-COMMERCE APLICATION OF ANANDA
+SHOP STUDY CASE.
+Zahedi, Z., & Chandra, C. (2012). Perancangan Program Aplikasi Market Basket
+Analysis untuk Mendukung Persediaan Barang dengan Metode Fuzzy C-Covering.
+ComTech: Computer, Mathematics and Engineering Applications, 3(1), 241.
+https://doi.org/10.21512/comtech.v3i1.2410
+
+218
+
+

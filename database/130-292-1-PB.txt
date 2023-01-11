@@ -1,0 +1,1111 @@
+Arie Setya Putra
+
+Jurnal Informatika, Vol. 13, No.1, Juni 2013
+
+SISTEM INFORMASI MONITORING INVENTORI BARANG
+PADA BALAI RISET STANDARDISASI INDUSTRI
+BANDAR LAMPUNG
+1
+
+Arie Setya Putra, 2Ochi Marshella Febriani
+
+1
+
+Jurusan Sistem Informasi, STMIK Mitra Lampung
+Jurusan Sistem Informasi - Fakultas Ilmu Komputer
+Informatics & Business Institute Darmajaya
+Jl. Z.A Pagar Alam No 93, Bandar Lampung - Indonesia 35142
+Telp. (0721) 787214 Fax. (0721)700261
+e-mail : ochimarshella@gmail.com
+2
+
+ABSTRACT
+Industry Research and Standardization Bandar Lampung or shortened by Industry
+Baristand a Government agency under the Ministry of Industry which was established in
+1975, is engaged in the research , mastery of technology , testing for food products , agroindustry, as well as technical training in order to support the growth of industrial sector in
+Lampung province. However, there are still many obstacles that arise and the absence of
+inventory monitoring system special items resulting in invalid data items due to lack of
+information which supports the above data processing. Center for Standardization and
+Industrial Research of Bandar Lampung need to do a good evaluation of the data by
+monitoring information system to control the inventory items borrowing and returning
+items through inventory monitoring. Monitoring information system of goods inventory
+will be made of a system development.
+Keywords: Monitoring inventory, Information Systems
+
+ABSTRAK
+Balai Riset dan Standardisasi Industri Bandar lampung atau disingkat dengan Baristand
+Industri merupakan Instansi Pemerintah dibawah Departemen Perindustrian yang didirikan
+pada tahun 1975, yang bergerak dibidang riset, penguasaan teknologi, pengujian untuk
+produk pangan, industri agro, serta pelatihan teknik dalam rangka menunjang pertumbuhan
+sector industri dipropinsi Lampung. Akan tetapi masih banyak kendala yang timbul dan
+belum adanya system yang memonitoring inventori barang khusus sehingga terjadi data
+barang yang tidak valid karena tidak adanya informasi yang mendukung atas pengolahan
+data tersebut. Balai Riset Standardisasi dan Industri Bandar Lampung perlu melakukan
+evaluasi data yang baik dengan sistem informasi monitoring inventori barang guna
+mengontrol peminjaman dan pengembalian barang melalui monitoring inventori. Sistem
+informasi monitoring inventori barang akan dibuat suatu sistem pengembangan.
+Kata Kunci: Monitoring inventori, Sistem Informasi
+
+Informatics & Business Institute Darmajaya
+
+90
+
+Arie Setya Putra
+
+Jurnal Informatika, Vol. 13, No.1, Juni 2013
+
+I. PENDAHULUAN
+1.1 Identifikasi Masalah
+
+Informasi
+
+Berdasarkan penelitian yang dilakukan,
+
+Informasi adalah data yang diolah
+
+permasalahan yang sering timbul adalah
+
+menjadi bentuk yang lebih berguna dan
+
+sebagai berikut :
+
+lebih
+
+a. Sistem Informasi atas peminjaman dan
+
+(Jogiyanto, 2005:8).
+
+pengembalian
+terkontrol.
+
+barang
+Sehingga
+
+berakibat
+
+b. Pencarian berkas-berkas yang telah
+dan
+
+pengetikan
+
+ulang
+
+laporan yang ada memerlukan waktu
+lama
+
+dalam
+
+penyampaian
+
+c. Pengolahan data Laporan peminjaman
+dan pengembalian barang tidak tepat
+yang menyebabkan sering
+
+terjadinya Inkonsistensi data.
+d. Belum
+
+menerima
+
+Sistem Informasi
+Sistem
+
+informasi
+
+adalah
+
+suatu
+
+mempertemukan kebutuhan pengolahan
+transaksi harian,
+
+mendukung operasi,
+
+bersifat manajerial dan kegiatan strategi
+dari suatu organisasi dan menyediakan
+pihak luar tertentu dengan laporan-laporan
+
+informasi.
+
+waktu
+
+yang
+
+sistem di dalam suatu organisasi yang
+
+kondisi yang ada.
+
+yang
+
+bagi
+
+kurang
+
+ketidaksesuaian antara laporan dengan
+
+disimpan
+
+berarti
+
+adanya
+
+informasi
+dibutuhkan
+
+data
+
+sehingga
+
+berkas
+
+saat
+cepat,
+
+Membutuhkan waktu yang lama dan
+adanya duplikasi data antar bagian.
+
+adalah
+
+pemantauan
+
+yang
+
+dapat
+
+kecenderungan bahwa pengukuran dan
+evaluasi yang diselesaikan berulang dari
+waktu ke waktu, pemantauan umumnya
+dilakukan untuk tujuan tertentu, untuk
+memeriksa terhadap proses berikut objek
+atau untuk mengevaluasi kondisi atau
+
+Sistem
+Suatu sistem adalah suatu jaringan
+kerja dari prosedur-prosedur yang saling
+berhubungan, berkumpul bersama-sama
+untuk melakukan suatu kegiatan atau
+menyelesaikan
+
+Monitoring
+
+memberikan informasi tentang status dan
+
+penggunaan
+
+terpusat
+
+(Jogiyanto, 2005:11).
+
+suatu
+
+sasaran
+
+tertentu
+
+kemajuan menuju tujuan hasil manajemen
+atas efek tindakan dari beberapa jenis
+antara
+
+lain
+
+tindakan
+
+untuk
+
+mempertahankan manajemen yang sedang
+berjalan (KBBI, 1999)
+
+(Jogiyanto, 2005:1).
+
+Informatics & Business Institute Darmajaya
+
+91
+
+Arie Setya Putra
+
+Jurnal Informatika, Vol. 13, No.1, Juni 2013
+
+DFD (Data Flow Diagram)
+
+membuat informasi tersebut tersediah saat
+
+DFD adalah suatu model logika data
+atau
+
+proses
+
+yang
+
+dibuat
+
+dibutuhkan.
+
+untuk
+
+menggambarkan darimana asal data dan
+
+II. METODE PENELITIAN
+Pada
+
+kemana tujuan data yang keluar dari
+sistem, dimana data disimpan, proses apa
+yang menghasilkan proses tersebut dan
+interaksi antara data yang tersimpan dan
+proses yang dikenakan pada data tersebut.
+
+beberapa
+
+penelitian
+tahapan
+
+ini
+
+yang
+
+dilakukan
+disesuaikan
+
+dengan Metodologi Penelitian Analisis
+dan Desain terstruktur (Structured system
+analysis and desain). Adapun tahapanya
+adalah sebagai berikut :
+
+Bagan Alir Dokumen
+
+1. Perencanaan Sistem.
+
+Bagan alir dokumen (Document
+flowchart) merupakan bagan alir yang
+
+a)
+
+Permintaan
+
+termasuk
+
+tembusan-
+
+tembusannya.
+
+penyusunan/
+
+pengembangan sebuah sistem.
+
+menunjukan arus data dari laporan dan
+formulir
+
+untuk
+
+Sistem yang akan dikembangkan
+pada
+
+permintaan
+
+Koordinator
+
+ini
+
+Umum
+
+adalah
+pada
+
+bagian
+program
+
+peminjaman dan pengembalian tentang
+Bagan
+
+alir
+
+program
+
+(program
+
+flowchart)
+Bagan
+
+program
+
+Barang
+
+serta
+
+(program
+
+menggambarkan arus logika dari data
+akan diperoses kedalam
+
+Bagan alir merupakan alat yang berguna
+bagi programmer untuk mempersiapkan
+program yang rumit.
+
+1. Studi Pustaka
+Studi pustaka dilakukan dengan cara
+mencari sumber teori dan pengetahuan
+tentang penelitian dari buk-buku panduan
+(baik
+
+yang
+
+dimiliki
+
+maupun
+
+dari
+
+perpustakaan) ataupun dari browsing di
+internet sebagai upaya memperkaya dan
+
+Basis Data
+Menurut Date, sistem basis data
+dasarnya
+
+b) Metode Pengumpulan Data
+
+suatu
+
+program mulai dari awal sampai akhir.
+
+pada
+
+Inventori
+
+kebutuhan pembuatan laporan akhir.
+alir
+
+flowchart) adalah bagian flowchart yang
+
+yang
+
+Monitoring
+
+adalah
+
+sistem
+
+memperkuat hasil kajian penelitian
+2. Studi Lapangan
+
+terkomputerisasi yang tujuan utamanya
+adalah
+
+memelihara
+
+informasi
+
+dan
+
+Informatics & Business Institute Darmajaya
+
+92
+
+Arie Setya Putra
+
+Jurnal Informatika, Vol. 13, No.1, Juni 2013
+
+- Wawancara
+
+a. Mengidentifikasi
+
+Wawancara terhadap pihak pihak
+
+ada
+
+pada
+
+masalah
+
+Balai
+
+yang
+
+Riset
+
+yang berkewenangan dalam hal tersebut
+
+Standardisasi
+
+seperti Koordinator Umum dan KaSubag
+
+Lampung
+
+Umum.
+
+kesimpulan
+
+- Observasi
+
+Umum dan KaSubag Umum maka
+
+Observasi terhadap sistem berjalan
+
+secara
+
+Industri
+
+dan
+
+Setelah
+dari
+
+tidak
+
+Bandar
+mendapat
+
+Koordinator
+
+langsung
+
+telah
+
+dan apa saja masalahnya.
+
+mendapat izin untuk lebih jauh
+
+- Pemeriksaan Berkas Dokumen
+
+melakukan penelitian,dalam tahap
+
+Pemeriksaan
+
+file
+
+terkait
+
+pada
+
+ini
+
+mengidentifikasi
+–
+
+milah
+
+adalah
+
+komputer yang mempunyai data atau
+
+memilah
+
+dalam
+
+hal
+
+informasi yang terkait dengan penelitian.
+
+tersebut manakah yang menjadi
+prioritas pengembangan sistem.
+
+3. Melakukan
+(mengetahui
+
+apa
+
+Studi
+
+Kelayakan
+
+yang
+
+sesungguhnya
+
+b. Memahami kerja dari sistem yang
+ada
+
+(Analisis
+
+Prosedur
+
+Kerja
+
+dilakukan oleh sistem dan apa semestinya
+
+Sistem yang Berjalan) Untuk dapat
+
+dilakukan sistem). Sistem yang akan
+
+memahami proses / sub sistem
+
+dikembangkan
+
+yang ada maka perlu dilakukan
+
+pada
+
+Balai
+
+Riset
+
+Standardisasi Industri Bandar Lampung ?
+
+analisis
+
+Ini di sesuaikan dengan kondisi yang ada
+
+digunakan.
+
+dan dibutuhkan antara lain :
+
+terhadap sistem yang ada.
+
+a. Sudah
+
+memiliki
+
+perangkat
+
+pendukung
+
+terhadap
+
+sistem
+
+Adapun
+
+yang
+
+analisis
+
+beberapa
+seperti
+
+komputer
+
+3. Seleksi Sistem
+Tahap seleksi sistem merupakan
+
+b. Sumber daya manusia yang baik
+
+tahap untuk memilih perangkat keras dan
+perangkat lunak untuk sistem informasi.
+
+Keseharusan
+
+mengembangkan
+
+sistem
+
+Tugas
+
+seleksi
+
+sistem
+
+membutuhkan
+
+yang lama menjadi sistem yang lebih baik
+
+pengetahuan
+
+yang cukup
+
+bagi
+
+yang
+
+lagi.
+
+melaksanakannya supaya dapat memenuhi
+kebutuhan rancang bangun yang telah
+
+2. Analisis Sistem
+
+dilakukan.
+
+Pada tahap ini yang akan dilakukan
+adalah :
+Informatics & Business Institute Darmajaya
+
+93
+
+Arie Setya Putra
+
+Jurnal Informatika, Vol. 13, No.1, Juni 2013
+
+III. HASIL DAN PEMBAHASAN
+
+yang berjalan dapat dijelaskan sebagai
+berikut :
+
+Analisis
+menggunakan
+
+Sistem
+alat
+
+yaitu
+
+Berjalan,
+bagan
+
+alir
+
+Sub Sistem Peminjaman Barang
+
+dokumen yang bertujuan menganalisis
+
+Sistem yang berjalan pada Balai
+
+kelemahan sistem yang berjalan, tahap in
+
+Riset dan Standardisasi Industri Bandar
+
+dikerjakan dengan menganalisa sitem
+
+Lampung dapat dilihat pada Gambar 1.
+
+yang berjalan, hasil dari analisa sistem
+
+Gambar 1. Tampilan Bagan Alir Peminjaman Barang
+
+Informatics & Business Institute Darmajaya
+
+94
+
+Arie Setya Putra
+
+Jurnal Informatika, Vol. 13, No.1, Juni 2013
+
+Sub Sistem Pengembalian Barang
+
+Standarisasi Industri Bandar Lampung.
+
+Sistem yang berjalan pada kegiatan
+
+Bagan alir sistem berjalan pengembalian
+
+Pengembalian Barang di Balai Riset dan
+
+barang dapat dilihat pada Gambar 2.
+
+Gambar 2. Tampilan Bagan Alir Pengembalian Barang
+a.
+
+Mengumpulkan
+
+dan
+
+menganalisis
+
+hasil penelitian
+
+1. Kontek Diagram Sistem Yang Di
+
+Usulkan.
+
+Berdasarkan pemahaman sistem diatas
+
+Kontek
+
+maka akan didapatkan data dan informasi
+
+sistem yang diusulkan secara garis
+
+penelitian yang akan dijadikan acuan
+
+besar, sistem yang diusulkan dapat
+
+tahap selanjutnya.
+
+dilihat pada Gambar 3.
+
+Informatics & Business Institute Darmajaya
+
+diagram
+
+menggambarkan
+
+95
+
+Arie Setya Putra
+
+Project Name:
+Project Path:
+Chart File:
+Chart Name:
+Created On:
+Created By:
+Modified On:
+Modified By:
+
+Jurnal Informatika, Vol. 13, No.1, Juni 2013
+
+sistemMonitoringInventorybarang
+e:\dfdochi\
+dfd00001.dfd
+Yourdon - Context Diagram
+Aug-15-2010
+ochi
+Aug-15-2010
+ochi
+
+kasubag
+umum
+
+laporan
+peminjaman +
+kembali
+formulir terisi
+
+formulir 1 +
+ttd mengetahui
+
+rekomendasi
+barang
+kepala
+balai
+0
+formulir
+persyaratan
+2 rangkap
+
+peminjam
+
+formulir ttd
+menyetujui
+
+sistemMonitoringInventorybarang
+
+laporan pinjam
++kembal i
+
+formulir 1
+rangkap +barang
+buku inventaris
+barang
+
+formulir 1
+rangkap +barang
+
+Kordinator
+umum
+barang akan
+dipinjam
+
+formulir 1 +
+acc
+barang
+
+barang
+
+gudang
+
+Gambar 3. Kontek Diagram Usulan Sistem Inventori barang
+
+Tampilan Program Sistem Inventori
+
+b.
+
+Barang
+
+Barang/Perlengkapan
+
+a. Menu Utama
+
+Form Input Data Barang digunakan untuk
+
+Menu utama ini berisikan enam buah
+
+memasukkan data Barang yang ada.
+
+menu yaitu Input Data Perlengkapan,
+
+Tampilan form ini dapat dilihat pada
+
+Input data Pegawai, Input Data Petugas,
+
+Gambar 5.
+
+Pengolahan
+
+data
+
+peminjaman
+
+Form
+
+Input
+
+Data
+
+dan
+
+pengembalian Laporan dan Keluar seperti
+terlihat pada Gambar 4.
+
+Gambar 5. Form Input Data Barang
+
+Gambar 4. Form Menu Utama
+
+Informatics & Business Institute Darmajaya
+
+96
+
+Arie Setya Putra
+
+Jurnal Informatika, Vol. 13, No.1, Juni 2013
+
+c. Form Input Data Transaksi
+
+tombol yang mempunyai fungsi dan
+
+Form Input Data Transaksi
+
+digunakan
+
+untuk memasukkan data transaksi. Form
+
+kegunaan masing-masing. Tampilan form
+ini
+
+dapat
+
+dilihat
+
+pada
+
+Gambar
+
+6.
+
+input data keterampilan terdapat beberapa
+
+Gambar 6. Form Input Data Transaksi Peminjaman
+
+Tampilan detail form input data pengembalian dapat dilihat pada gambar 7.
+
+Gambar 7. Form Input Data Transaksi Pengembalian
+
+baru proses pengolahan data tersebut
+
+IV. KESIMPULAN
+Berdasarkan hasil dan pembahasan
+
+dapat
+
+lebih
+
+baik
+
+karena
+
+kesimpulan dari penelitian ini adalah
+
+terjadinya
+
+sebagai berikut :
+
+diminimalisir dari sebelumnya karena
+
+1. Proses
+
+pembuatan
+
+laporan
+
+dapat
+
+dilakukan secara cepat dan mudah
+
+kesalahan
+
+tingkat
+dapat
+
+berkas yang ada terupdate selalu tanpa
+harus menunggu waktu yang lama.
+
+dengan mencetak file laporan yang
+Informatics & Business Institute Darmajaya
+
+97
+
+Arie Setya Putra
+
+2. Jika
+
+Jurnal Informatika, Vol. 13, No.1, Juni 2013
+
+sewaktu-waktu
+
+diperlukan
+
+informasi tentang monitoring inventori
+
+DAFTAR PUSTAKA
+
+barang maka dapat menyajikan secara
+
+[1]
+
+cepat dan tepat. Berbeda dengan
+pengerjaan sebelumnya yaitu proses
+
+Data. Graha Ilmu : Yogyakarta
+[2]
+
+pengerjaanya masih dilakukan dengan
+cara pencatatan sehinga data yang
+
+Sutanta, Edhy. 2004. Sistem Basis
+
+Haryanto. 2002. Sistem Operasi.
+Andi : Yogyakarta
+
+[3]
+
+Jogiyanto H.M. 2005. Analisis dan
+
+dihasilkan memakan waktu yang lama
+
+Desain Sistem Informasi. Andi :
+
+juga tingkat keakuratan data kecil
+
+Yogyakarta
+
+dengan program aplikasi ini proses
+
+[4]
+
+Kadir, Abdul. 1998. Konsep dan
+
+pengerjaan cepat, data yang dihasilkan
+
+Tuntunan Praktis Basis Data. Andi
+
+memiliki tingkat keakuratan data yang
+
+: Yogyakarta
+
+tinggi.
+
+[5]
+
+3. Sistem Pengolahan data Monitoring
+dan Inventori dapat menghasilkan
+informasi
+
+tentang
+
+pegawai,
+
+Laporan
+
+,laporan
+
+data
+
+Laporan
+Data
+
+Peminjaman
+
+Data. Andi : Yogyakarta
+[6]
+
+Data
+
+Kurniadi, Adi. 2000. Pemrograman
+Microsoft Visual Basic 6. PT Elex
+
+Barang
+
+Media Komputindo: Jakarta
+Sentonius,
+
+Jemmy.
+
+2004.
+
+transaksi Pengembalian yang dilihat
+
+Menguasai
+
+Pembuatan
+
+Laporan
+
+dalam periode tahun dan bulan. Sistem
+
+dengan Crystal Report dalam 24
+
+Informasi
+
+Jam. Andi : Yogyakarta
+
+monitoring
+
+terkomputerisasi
+
+,dan
+
+Simarmata Janner, dkk. 2006. Basis
+
+[7]
+
+yang
+mampu
+
+[8]
+
+menggantikan sistem yang telah ada
+dari
+
+manual
+
+ke
+
+komputerisasi.
+
+Sehingga dalam pengolahan data-data
+
+Kristanto, Andri. 2003. Jaringan
+Komputer. Graha Ilmu
+
+[9]
+
+www.wikipedia.com
+
+[10] Rahman, Abdul Bahry.1996. Novel
+
+monitoring lebih efesien dan dapat
+
+Netware
+
+Untuk
+
+terkontrol secara langsung
+
+Network.
+
+PT
+
+serta
+
+informasi yang didapat lebih baik dan
+akurat.
+
+Lokal
+Elex
+
+Area
+Media
+
+Komputindo : Jakarta
+[11] M.Sudarmo, Drs. Padji.M.A.2006.
+Kamus Istilah Komputer, Teknologi
+Informasi
+
+Dan
+
+Komunikasi.
+
+CV.YRAMA WIDYA : Bandung
+
+Informatics & Business Institute Darmajaya
+
+98
+
+

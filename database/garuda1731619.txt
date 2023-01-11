@@ -1,0 +1,491 @@
+TESLA | VOL. 22 | NO. 1 | MARET 2020 |
+
+STUDI ANALISIS PERKEMBANGAN TEKNOLOGI DAN
+DUKUNGAN PEMERINTAH INDONESIA TERKAIT MOBIL LISTRIK
+Mochammad Aziz1
+Program Studi Teknik Elektro President University
+Email: akuazizmochammad@gmail.com
+Yosua Marcellino1
+Program Studi Teknik Elektro President University
+Email: yosuaelin3@gmail.com
+Intan Agnita Rizki1
+Program Studi Teknik Elektro President University
+Email: intanagnita042@gmail.com
+Sri Anwar Ikhwanuddin1
+Program Studi Teknik Elektro President University
+Email: srianwarikhwanuddin@yahoo.com
+Joni Welman Simatupang1
+Program Studi Teknik Elektro President University
+Email: joniws@ieee.org
+ABSTRACT: Indonesia's population growth is still ongoing and energy demand for transportation continues to increase from
+year to year. Moreover, the use of fossil fueled-based motor vehicle is increasing and filling the city main roads and highways.
+Petroleum which is used as conventional vehicle fuel today is a non-renewable energy. Electric vehicle is one of the means of
+transportation that can meet the needs of the society mobility, but still environmentally friendly because it does not have exhaust
+gas or emissions. There are so many negative effects from exhaust gas or emissions resulting from combustion of conventional
+car engines. Among other negative impacts are on health and human well-being and also the environment. The Indonesian
+government plans seriously in realizing the conversion of electric-based vehicles (EV). However, many people do not know the
+technology used in the electric vehicle yet. In this descriptive-explanatory paper, we will discuss this technology development
+and types of electric vehicle in general, and also a bit of autonomous vehicle. In addition, it was also discussed regarding the
+support of the Indonesian government for public concerns about the lack of facilities for electric vehicle such as public charging
+facilities. In addition, support for policies and other incentive will also be elaborated in this paper. This policies and incentive
+are expected to have a significant impact in-line with the increasing of consumer awareness to switch from conventional cars
+to electric vehicles.
+Keywords: Technology; Electric vehicle; Government support, Fossil fueled-based vehicle.
+ABSTRAK : Pertumbuhan penduduk Indonesia masih terus berlangsung dan kebutuhan energi untuk transportasi terus
+meningkat dari tahun ke tahun. Terlebih penggunaan kendaraan bermotor berbahan bakar fosil (fossil fueled-based motor
+vehicle) semakin meningkat dan memenuhi jalan-jalan raya perkotaan dan tol. Minyak bumi yang digunakan sebagai bahan
+bakar mobil konvensional saat ini merupakan energi yang tidak terbarukan. Mobil listrik merupakan salah satu sarana
+transportasi yang bisa memenuhi kebutuhan mobilitas masyarakat namun tetap ramah lingkungan karena tidak memiliki polusi
+atau emisi gas buang. Banyak sekali dampak negatif dari polusi atau emisi gas buang yang dihasilkan dari pembakaran mesin
+mobil konvensional. Antara lain dampak negatif terhadap kesehatan dan kesejahteraan manusia serta lingkungan hidup.
+Pemerintah Indonesia berencana serius dalam mewujudkan konversi kendaraan berbasis listrik (KBL). Namun masyarakat
+belum mengetahui teknologi yang digunakan pada mobil listrik. Dalam tulisan yang bersifat descriptive- explanatory ini akan
+dibahas mengenai perkembangan teknologi mobil listrik ditambah sedikit tentang kendaraan otomatis (autonomous vehicle).
+Selain itu juga akan membahas dukungan pemerintah Indonesia terhadap mobil listrik sebagai solusi bagi kekuatiran
+masyarakat mengingat fasilitas pengisian umum yang masih minim atas kendaraan mobil listrik. Selain itu dukungan terhadap
+kebijakan dan insentif lainnya pun juga akan dibahas dalam artikel ini. Kebijakan dan insentif ini diharapkan bisa berdampak
+signifikan sejalan dengan meningkatnya kesadaran konsumen untuk beralih dari mobil konvensional menjadi mobil listrik.
+Kata Kunci: Teknologi; Mobil listrik; Dukungan pemerintah, Kendaraan berbahan bakar fosil.
+
+PENDAHULUAN
+khir-akhir ini pemerintah Indonesia sangat mendorong penggunaan mobil listrik. Seperti yang
+pernah disampaikan oleh Presiden Joko Widodo pada acara tahunan industri jasa keuangan tahun
+2020 di grand ballroom The Ritz Carlton Pacific Place (PP) Jakarta, bahwa hanya mobil listrik saja yang
+
+A
+1
+
+Program Studi Teknik Elektro President University
+
+45
+
+Studi Analisis Perkembangan Teknologi dan Dukungan Pemerintah Indonesia Terkait Mobil Listrik
+suatu saat nanti diperbolehkan berlalu-lalang di ibu kota baru [1]. Situs CNN Indonesia yang berjudul
+“Arahan Jokowi, Ibu Kota Baru Eksklusif Mobil Listrik-Otonom” itu, memberitakan tentang kebijakan
+mobil listrik yang akan diterapkan pada ibu kota baru Indonesia. Kebijakan tersebut juga berisi tentang
+larangan penggunaan kendaraan bermotor konvensional dalam kawasan ibu kota baru Indonesia.
+Pernyataan Presiden tersebut di atas diberikan berdasarkan data yang dirilis oleh Badan Pusat
+Statistik (BPS) bahwa jenis kendaraan bermotor di Indonesia telah mencapai 146,8 juta unit pada tahun
+2018, di mana 16,4 juta unit merupakan mobil penumpang [2]. Hal ini menyebabkan terjadinya
+peningkatan yang signifikan atas bahan bakar fosil yang dikonsumsi oleh masyarakat Indonesia, yang
+akan berakibat pula pada meningkatnya polusi gas buang dari kendaraan bermotor. Kota Jakarta pernah
+menempati urutan kedua tingkat (level) udara paling berpolusi di dunia menurut situs AirVisual
+(airvisual.com) pada bulan Agustus 2019 [3].
+Salah satu solusi dalam mengurangi penggunaan kendaraan bermotor (berbahan bakar fosil) ialah
+dengan beralih ke kendaraan berbasis listrik (KBL) seperti mobil listrik. Mobil listrik memiliki beberapa
+keunggulan dibandingkan kendaraan bermotor berbahan bakar fosil (fossil fueled-based vehicle), dan
+salah satunya (yang utama) ialah tidak dihasilkannya gas buang sehingga tidak memberikan
+sumbangsih/kontribusi bagi pemanasan global (carbon footprint) di Indonesia [4]. Dukungan
+pemerintah Indonesia terhadap mobil listrik tercantum dalam Perpres No. 55 Tahun 2019 tentang
+Percepatan Program Berbasis Baterai untuk Transportasi Jalan. Di dalamnya juga dibahas tentang
+insentif yang akan diberikan untuk mendorong percepatan konversi kendaraan berbasis listrik.
+Dalam jurnal yang terdapat pada situs MDPI (Multidisciplinary Digital Publishing Institute)
+berjudul “A Comprehensive Study of Key Electric Vehicle (EV) Components, Technologies” disebutkan
+bahwa sesungguhnya mobil listrik bukanlah sebuah teknologi baru dalam dunia otomotif [5]. Namun,
+sesungguhnya masih banyak masyarakat Indonesia yang belum mengetahui tentang teknologi mobil
+listrik. Tulisan ini berusaha untuk membagikan pengetahuan kepada masyarakat umum supaya lebih
+mengerti tentang teknologi ini (di mana bagian ini akan selanjutnya dideskripsikan dan dibahas di Bab
+3) dan di masa depan bisa ikut mensukseskan rencana pemerintah Indonesia dalam memasyarakatkan
+kendaraan berbasis listrik, khususnya mobil listrik.
+Tujuan Penelitian
+Berdasarkan latar belakang tersebut, maka tujuan dari studi ini adalah untuk mengedukasi masyarakat
+tentang perkembangan teknologi mobil listrik dan bagaimana dukungan pemerintah Indonesia terhadap
+keberadaan kendaraan bermotor/berbasis listrik (KBL) seperti mobil listrik dalam mengurangi dampak
+pemanasan global (global climate change and carbon footprint).
+Rumusan Masalah
+Berikut rumusan masalah yang akan dibahas:
+− Bagaimana sejarah perkembangan teknologi mobil listrik?
+− Apa saja dukungan pemerintah Indonesia terhadap mobil listrik?
+− Jika ada, apa saja kelemahan mobil listrik dibandingkan dengan mobil konvensional?
+
+METODE DAN MATERIAL
+Metodologi penelitian ini adalah survei literatur dari Internet (secondary resources). Dalam
+studi survei yang digunakan adalah Systematic Literature Review (SLR). Dalam proses pencariannya
+digunakan dua kata kunci. Kata kunci pertama adalah ”Electrical Vehicle”. Hasil yang muncul dalam
+pencarian kata kunci pertama mencapai lebih dari tiga juta buku, artikel atau jurnal. Selanjutnya kata
+kunci yang kedua adalah “Dukungan Pemerintah Indonesia Terhadap Mobil Listrik”. Beberapa sumber
+yang didapatkan meliputi jurnal artikel dan buku mencapai 2,8 juta judul buku dan artikel jurnal.
+Sedangkan bila difokuskan hanya kepada file-file pdf, hanya mencapai 400 ribu judul. Kata kunci lain
+yang digunakan adalah “Perpres No. 55 Tahun 2019 tentang Percepatan Program Berbasis Baterai untuk
+Transportasi Jalan”, yang hasil pencariannya sebanyak 44 ribu judul.
+Pencarian difokuskan pada artikel-artikel yang terbit di sejumlah jurnal ilmiah bereputasi.
+Namun selain itu, ada juga beberapa artikel pada situs-situs web yang dapat diandalkan. Dari hasil
+
+46
+
+Mochammad Aziz, Yosua Marcellino, Intan Agnita Rizki, Sri Anwar Ikhwanuddin dan Joni Welman
+Simatupang
+pencarian tersebut, selanjutnya akan dilakukan filtering untuk mendapatkan banyak sumber yang
+penting bahkan terpenting demi tuntasnya penelitian dan penulisan topik ini.
+HASIL PEMBAHASAN (STUDI ANALISIS)
+Sejarah Singkat Perkembangan Mobil Listrik
+Sejatinya inovasi penggunaan mobil listrik pertama telah diperkenalkan pada tahun 1828 dan
+diproduksi pertama pada tahun 1884. Pada tahun 1897-1900 terdapat 28% mobil listrik dari total
+kendaraan yang ada di pasaran. Pada saat itu mobil listrik lebih digemari namun mobil dengan bahan
+bakar minyak mendapatkan kesempatan untuk mencuri pasar disebabkan harga minyak dunia yang
+masih rendah. Mobil listrik pun terlupakan dan ditinggalkan hingga pada tahun 1996 muncul sebuah
+konsep EV1 dari General Motors yang sangat popular dan menjadi salah satu momen kebangkitan mobil
+listrik. Kesuksesan General Motors pun mendorong pembuat mobil terkemuka lainnya untuk ikut dalam
+memperkenalkan produknya di sektor mobil listrik termasuk di antaranya Ford, Toyota, dan Honda
+dengan keunggulannya masing-masing.
+Toyota dengan produknya Prius (Gambar 1) yang merupakan mobil hibrid komersial pertama
+yang diluncurkan pada tahun 1997 di Jepang, sangat sukses dengan total penjualan 18.000 unit pada
+tahun pertama produksi. Untuk saat ini pasar mobil listrik didominasi oleh Nissan Leaf, Chevrolet Volt,
+dan Tesla Model S, sedangkan pasar Cina dalam cengkeraman BYD Auto Co, Ltd (Xi'an Nasional Hitech Zona Pengembangan Industri, Xian, Cina). [5]
+
+■ Gambar 1. Toyota Prius sebagai mobil listrik hibrid komersil pertama di Asia.
+Diluncurkan pada tahun 1997 di Jepang [6].
+
+Perkembangan Teknologi Mobil Listrik
+Memiliki baterai sebagai sumber energi utama merupakan dasar dari mobil listrik. Namun, saat
+ini yang lebih berkembang adalah penggunaan baterai dan bahan bakar minyak bersama-sama untuk
+menggerakkan sebuah mobil. Konsep ini lebih dikenal dengan sebutan hibrid. Secara garis besar kita
+mengenal dua jenis utama dari mobil listrik yaitu Battery Electric Vehicle (BEV) dan Plug-in Hibrid
+Electric Vehicle (PHEV), yang akan dijelaskan secara detail dari segi jenis/tipenya satu persatu [7].
+Battery Electric Vehicle (BEV)
+Hanya mengandalkan energi yang tersimpan dalam kemasan baterai, mobil listrik jenis BEV
+dapat menjangkau jarak tempuh 100 sampai 250 km dalam sekali pengisian daya penuh. Untuk kelas
+yang lebih tinggi, jarak tempuh bisa lebih jauh mencapai 300 sampai 500 km [8]. Rentang jarak tempuh
+ini juga dipengaruhi oleh kondisi dan gaya usia pengemudi, kondisi jalan, iklim, dan jenis baterai.
+Karena hanya mengandalkan daya yang tersimpan di baterai, mobil listrik jenis BEV tidak
+mengeluarkan emisi seperti karbon dioksida (CO2) dan emisi polutan lainnya, seperti logam berat, yaitu
+zat timbal (Pb).
+Ada berbagai macam baterai yang diterapkan pada mobil listrik. Gambar 2 ini menampilkan
+sebuah diagram/plot ragone dari beberapa teknologi baterai yang lebih umum, yang digunakan untuk
+47
+
+Studi Analisis Perkembangan Teknologi dan Dukungan Pemerintah Indonesia Terkait Mobil Listrik
+membandingkan kepadatan energi berbagai (ukuran dan berat) perangkat penyimpanan energi, mulai
+dari Lead-acid, Ni-Cd, Ni-MH, Li ion (PLiON), dan Li metal (smaller size and lighter weight).
+
+■ Gambar 2. Plot ragone dari beberapa teknologi baterai yang digunakan dalam mobil listrik [9].
+
+Baterai pada dasarnya adalah media penyimpanan yang terdiri dari dua elektroda pada elektrolit.
+Elektrolit ini menyediakan media untuk pertukaran ion yang menghasilkan listrik. Masing-masing
+baterai yang ditunjukkan pada Gambar 2 memiliki kelebihan dan kekurangan unik mereka masingmasing, meskipun inovasi terbaru dalam baterai Li-ion telah mendorong mereka untuk menjadi
+pemimpin pasar untuk digunakan di sebagian besar elektronik genggam dan portabel serta kendaraan
+listrik. Hal ini terutama karena energi spesifik mereka (Wh/kg), siklus hidup (life-cycle), dan efisiensi
+yang tinggi. Mereka memiliki kelemahan yang meliputi biaya yang tinggi dan kebutuhan untuk
+keselamatan kompleks dan sistem pemantauannya [9].
+Plug-in Hibrid Electrical Vehicle (PHEV)
+Berbeda dengan BEV yang hanya mengandalkan energi dari penyimpanan baterai, kendaraan
+listrik berjenis Plug-in Hibrid Electrical Vehicle (PHEV) memiliki fleksibilitas yang lebih dalam hal
+sumber bahan bakar. Tentu PHEV memiliki sumber energi listrik yang di simpan pada baterai namun
+selain itu PHEV juga bisa dijalankan dengan menggunakan sumber energi dari pembakaran bahan bakar
+minyak. Ini menjadi salah satu keunggulan kendaraan listrik jenis PHEV. Dalam sebuah studi
+diperkirakan bahwa PHEV yang dijalankan sejauh 40 mil hanya dengan menggunakan sumber energi
+listrik maka akan sebanding dengan 45% pemakaian mesin dengan menggunakan sumber energi dari
+minyak bumi [10].
+Berdasarkan dari penggabungan mesinnya, PHEV dapat dibedakan menjadi 3 jenis yaitu : hibrid
+seri, hibrid paralel, dan hibrid gabungan (kombinasi seri dan paralel).
+Jenis pertama: Hibrid Seri
+Dalam sistem hibrid seri, mesin pembakaran tidak langsung memutarkan roda melainkan motor
+listrik satu-satunya sarana untuk memberikan daya ke roda. Ketika listrik diperlukan dalam jumlah
+besar, maka motor akan menarik listrik dari baterai dan generator. Konfigurasi hibrid seri sudah lama
+ada, contohnya: lokomotif diesel-listrik, mesin pengolah tanah hidrolik, kelompok tenaga diesel-listrik.
+Gambar 3 menampilkan struktur kendaraan PHEV dalam sistem hibrid seri. Contoh mobil jenis ini
+adalah Renault Kangoo.
+
+48
+
+Mochammad Aziz, Yosua Marcellino, Intan Agnita Rizki, Sri Anwar Ikhwanuddin dan Joni Welman
+Simatupang
+
+■ Gambar 3. Struktur kendaraan PHEV dalam sistem hibrid seri [11].
+
+Kelemahan dari kendaraan hibrid seri ini meliputi:
+• Mesin pembakaran, generator dan motor listrik berperan penuh dalam kendaraan. Oleh karena
+itu, berat total, biaya dan ukuran power train cukup besar.
+• Kekuatan dari mesin pembakaran harus dijalankan melalui generator dan motor listrik. Jika
+digunakan untuk jarak jauh, maka total efisiensinya lebih rendah daripada mobil konvensional.
+Sedangkan keuntungan dari kendaraan hibrid seri ini antara lain:
+• Tidak ada hubungan mekanis antara mesin pembakaran dan roda. Kelompok mesin generator
+dapat ditemukan di mana-mana.
+• Ada unsur-unsur mekanik transmisi konvensional motor roda listrik yang terpisah dan dapat
+diimplementasikan dengan mudah.
+• Mesin pembakaran dapat beroperasi dalam rentang rpm (rotation per minute) yang sempit
+bahkan saat mobil berubah kecepatan, mobil hibrid seri relatif paling efisien selama stop-andgo mengemudi dalam perkotaan.
+Jenis kedua: Hibrid Pararel
+Sistem hibrid paralel memiliki mesin pembakaran internal dan sebuah motor listrik secara
+paralel terhubung ke transmisi mekanik seperti ditunjukkan pada Gambar 4. Baterai dapat diisi ulang
+selama berkendara. Sedangkan hubungan mekanisnya adalah tetap antara roda dan motor, dan tidak ada
+kopling, di mana baterai tidak dapat diisi ketika mobil tidak bergerak. Beberapa jenis dari mobil listrik
+paralel adalah Honda Civic dan BMW ActiveHibrid 7series.
+
+49
+
+Studi Analisis Perkembangan Teknologi dan Dukungan Pemerintah Indonesia Terkait Mobil Listrik
+
+■ Gambar 4. Struktur kendaraan PHEV dalam sistem hibrid paralel [11].
+
+Konfigurasi paralel memiliki modus operasi yang beragam seperti yang ditampilkan pada
+Gambar 5.
+
+■ Gambar 5. Empat konfigurasi PHEV dalam sistem hibrid pararel. (a) tenaga listrik saja, kecepatan maksimal
+40 km/jam, cocok sebagai city car. (b) mesin pembakaran dan tenaga listrik. (c) mesin pembakaran dan
+pengisian baterai. (d) regeneratif breaking, di mana motor listrik mengambil keuntungan dari energi kinetik
+kendaran yang bergerak untuk bertindak sebagai generator [11].
+
+50
+
+Mochammad Aziz, Yosua Marcellino, Intan Agnita Rizki, Sri Anwar Ikhwanuddin dan Joni Welman
+Simatupang
+Ada beberapa kelemahan untuk kendaraan hibrid paralel, diantaranya:
+• Sistem yang rumit.
+• Mesin pembakaran tidak beroperasi dalam rentang rpm (rotation per minute) yang sempit atau
+konstan, sehingga efisiensi pada kecepatan putaran menjadi rendah.
+• Mesin pembakaran tidak terpisah dari roda, menyebabkan baterai tidak dapat diisi saat berhenti.
+Sedangkan beberapa keuntungan dari kendaraan jenis hibrid paralel ini adalah:
+• Total efisiensinya tinggi selama berkendara jarak jauh.
+• Fleksibilitasnya tinggi untuk beralih antara tenaga listrik dan mesin pembakaran.
+• Kekuatannya dapat dirancang lebih kecil dibandingkan mesin pembakaran karena hanya satu
+motor listrik atau generator yang diperlukan.
+Jenis ketiga: Hibrid Gabungan
+Sistem hibrid gabungan memiliki fitur dari kedua seri dan paralel. Ada sebuah koneksi ganda
+antara mekanik dan listrik. Kekuatan untuk menggerakkan roda dapat berupa mekanik atau listrik dan
+juga bisa keduanya. Hal ini juga terjadi di hibrid paralel. Tapi prinsip utama di balik sistem gabungan
+adalah meminimalisir kebutuhan dari daya yang disediakan oleh mesin. Gambar 6 menunjukkan struktur
+kendaraan PHEV dalam sistem hibrid gabungan. Beberapa contoh jenis ini adalah Toyota Prius, Auris,
+Lexus CT200h, Lexus RX400h.
+
+■ Gambar 6. Struktur kendaraan PHEV dalam sistem hibrid gabungan [11].
+
+Kelemahan dari kendaraan hibrid gabungan adalah:
+• Sistem yang sangat rumit, dan lebih mahal daripada hibrid paralel.
+• Efisiensi transmisi power train tergantung pada jumlah daya yang dikirim melalui jalur listrik,
+seperti beberapa konversi masing-masing dengan efisiensi mereka sendiri menyebabkan
+efisiensi yang lebih rendah (~ 70%) dibandingkan dengan jalur murni mekanis (~ 98%).
+Sedangkan keuntungannya meliputi:
+• Memiliki fleksibilitas maksimum untuk beralih antara tenaga listrik dan mesin pembakaran.
+• Menekan kebutuhan dari daya yang disediakan oleh mesin memungkinkan untuk desain mesin
+pembakaran lebih kecil, lebih ringan, dan lebih efisien.
+
+Selain itu, diperlukan juga pembahasan tentang teknologi sensor yang terintegrasi dengan teknologi mobil
+listrik, yang akan dijelaskan secara lebih detail dalam Sub-bab 3.2.3 di bawah ini:
+Teknologi Sensor
+Pembahasan teknologi sensor hanya difokuskan pada beberapa sensor lingkungan sekitar kendaraan
+(Radar, Lidar, Ultrasonik dan Kamera) yang dimanfaatkan sebagai alat bantu dalam mendeteksi obyek atau
+benda yang ada di sekitar mobil dengan jarak tertentu untuk penerapan kendaraan otomatis (autonomous
+vehicle) sebagai kelanjutan dari program KBL.
+Radar
+51
+
+Studi Analisis Perkembangan Teknologi dan Dukungan Pemerintah Indonesia Terkait Mobil Listrik
+Radio Detection and Ranging (Radar) merupakan teknologi deteksi objek dan jarak memanfaatkan
+pantulan gelombang radio. Panjang gelombang yang dipancarkan oleh radar sangat bervariasi. Dalam
+sistem radar umum digunakan frekuensi 24 GHz atau 77 GHz. Setiap panjang gelombang atau frekuensi
+memiliki keunggulannya masing-masing. Frekuensi 77 GHz mempunyai keunggulan dengan akurasi
+jarak yang tinggi dan pengukuran kecepatan yang lebih presisi. Sedangkan keuntungan menggunakan
+frekuensi 24 GHz adalah kebutuhan antena yang lebih kecil sehingga meminimalisir terjadinya
+interferensi baik ke luar maupun ke dalam sistem. Perbedaan mendasar dalam pengaplikasian teknologi
+radar yang digunakan sebagai deteksi dengan jarak pendek, menengah atau jauh. Untuk jarak pendek
+pemanfaatan radar dapat digunakan sebagai sistem pembantu parkir, deteksi jalur/lorong, deteksi blind
+spot, kontrol jarak otomatis, alat pandu pengereman dan lain sebagainya. Untuk jarak menengah atau
+jauh radar bisa dimanfaatkan untuk mengidentifikasi situasi bahaya dan mencegah tabrakan.
+Lidar
+Lidar (Light Detection and Ranging) dapat mendeteksi objek sekitar dengan memanfaatkan pantulan
+cahaya. Teknologi lidar dapat dimanfaatkan untuk mengukur properti cahaya yang tersebar dan
+menemukan jarak atau informasi lain dari target yang jauh. Sumber cahaya yang digunakan adalah
+radiasi cahaya yang dihasilkan oleh laser. Laser akan mengirimkan (TX) berkas sinar ke objek yang
+nantinya dipantulkan dan diterima oleh penerima (RX) yang peka terhadap cahaya laser. Cahaya laser
+yang dikirimkan berada di dimensi cahaya tampak ataupun cahaya tak tampak berupa pancaran dan
+penerima inframerah.
+Ultrasonik
+Prinsip kerja perangkat ultrasonik hampir sama dengan teknologi Radar dan Lidar. Ada perbedaan
+frekuensi yang digunakan, di mana teknologi ultrasonik menggunakan pancaran dan penerima suara
+ultra dengan rentang frekuensi di atas rentang suara yang dapat didengar oleh manusia atau > 20 kHz.
+Perangkat ultrasonik akan memancarkan sinyal yang digunakan untuk mengukur jarak terhadap objek
+di depannya.
+Kamera
+Teknologi kamera yang ditanamankan dalam mobil listrik adalah kamera berjenis kamera 360 derajat
+untuk menangkap gambaran langkap kondisi sekitar mobil. Kamera bisa disebut sebagai mata tambahan
+pengemudi untuk melihat situasi di sekitar mobil. Hasil yang didapat oleh kamera dapat langsung
+ditayangkan di monitor pengemudi, atau dengan bantuan sistem pengolahan citra digital dapat secara
+otomatis mendeteksi objek sekitar dan memberi masukan pada sistem kontrol yang selanjutnya
+dieksekusi oleh unit aktuator. Untuk pengembangan teknologi yang lebih tinggi, penerapan sensor
+kamera ini dapat membantu dalam merealisasikan sistem kendaraan otomatis (Autonomous Vehicle).
+Teknologi kendaraan otomatis mungkin bisa menjadi kelanjutan program KBL di masa mendatang,
+namun faktor keselamatan harus menjadi perhatian utama. Di bawah ini diberikan sedikit paragraf
+sebagai penjelasan tambahan terkait teknologi ini.
+Teknologi Kendaraan Otomatis [12]
+Dalam teknologi kendaraan otomatis, mobil dapat mengemudi dengan bantuan sedikit atau tanpa
+kendali manusia. Mobil diintegrasikan dengan perangkat keras (hardware) dan perangkat lunak
+(software) yang di dalamnya telah terprogram dan tertanam sistem cerdas. Autonomous vehicle atau
+kendaraan otomatis menggabungkan berbagai macam sensor serta menganalisis data sensor tersebut
+yang kemudian dapat mendeteksi dan membedakan objek yang berada di lingkungan sekitar kendaraan.
+Dari hasil analisa data tersebut mobil dapat membedakan objek seperti manusia/pejalan kaki ataupun
+benda lain yang berada di sekitarnya untuk menghindari kecelakaan yang tidak diinginkan. Metode
+pengaturan kendali autonomous vehicle menggunakan integrasi perangkat keras dan perangkat lunak
+yang memanfaatkan algoritma sistem kecerdasan buatan berupa machine learning dan deep learning,
+sehingga sistem dapat belajar dan mempelajari berbagai objek dan perilaku kendaraan di berbagai
+kondisi.
+Mengingat banyak perangkat lunak yang sulit untuk digunakan serta sedikit yang dapat belajar,
+ada beberapa perangkat lunak yang telah dianggap bisa untuk memenuhi kebutuhan sistem mobil
+otomatis, seperti JESS (Java Expert System Shell) yang dikembangkan oleh Ernest Friendmant-Hill di
+52
+
+Mochammad Aziz, Yosua Marcellino, Intan Agnita Rizki, Sri Anwar Ikhwanuddin dan Joni Welman
+Simatupang
+Sandia National Laboratories, FuzzyClips & FuzzyJ yang dikembangkan oleh oleh National Research
+Council (NRC) Canada, Subsumption Architecture yang dikembangkan oleh Brooks, AuRA
+(Autonomous Robotic Architecture) yang diproduksi oleh The MissionLab, ARL/PSU oleh The Applied
+Research Laboratory Pennsylvania University, Jet Propulsion Labs ASE oleh The Applied Science Craft
+Experiment, SOAR dan ACTR oleh Cognitive Architecture, dan NIST RCS. Semua sistem tersebut
+dibangun dengan menggunakan salah satu atau gabungan dari bahasa pemrograman Java, C, C++, LISP,
+dan lainnya.
+Sistem lain yang sudah banyak digunakan adalah ADAS (Advanced Driver Assistant System).
+ADAS memungkinkan mobil bergerak semi otomatis. Dikatakan semi-otomatis karena gerakan mobil
+masih selalu dalam pantauan pengemudi/operator meskipun sudah berjalan sendiri sesuai algoritma
+yang diberikan. Sementara sistem akan memberikan arahan dan peringatan kepada pengemudi/operator
+bila ada informasi yang penting atau meminta persetujuan dari pengemudi.
+Dukungan Pemerintah Indonesia Terhadap Mobil Listrik
+Pemerintah sangat serius dalam mendorong berkembangnya industri teknologi mobil listrik.
+Salah satu caranya, dengan memberikan insentif kepada industri dalam rangka percepatan program
+kendaraan berbasis listrik (KBL) atau berbasis baterai. Hal ini tertuang dalam Perpres No. 55/2019
+tentang Percepatan Program KBL Berbasis Baterai untuk Transportasi Jalan [13].
+Insentif yang dimaksud antara lain insentif bea masuk atas impor KBL berbasis baterai yang
+disebut dengan completely knock down (CKD) atau incompletely knock down (IKD) atau komponen
+utama untuk jumlah dan jangka waktu tertentu. Insentif lain juga dapat berupa insentif Pajak Penjualan
+Atas Barang Mewah (PPnBM) yakni pembebasan atau pengurangan pajak pusat dan daerah; bea masuk
+importasi mesin, barang, dan bahan dalam rangka penanaman modal; penangguhan bea masuk dalam
+rangka ekspor; dan insentif bea masuk ditanggung pemerintah atas impor bahan baku dan bahan
+penolong untuk proses produksi.
+Lebih lanjut, terdapat pula insentif untuk pembuatan peralatan satuan pengisian kendaraan
+listrik umum (SPKLU), insentif pembiayaan ekspor, insentif fiskal untuk riset dan pengembangan, tarif
+parkir, keringanan biaya pengisian listrik di SPKLU, dukungan pembiayaan pembangunan SPKLU,
+sertifikasi kompetensi bagi SDM KBL berbasis baterai, dan sertifikasi produk serta standar teknis bagi
+perusahaan industri KBL berbasis baterai. Adapun insentif non-fiskal yang dapat diberikan antara lain
+pengecualian dari pembatasan penggunaan jalan tertentu, pelimpahan hak produksi atas teknologi terkait
+KBL berbasis listrik, dan pembinaan keamanan operasional sektor industri. Terakhir, terdapat insentif
+fiskal dan non-fiskal tambahan bagi industri KBL bermerek nasional.
+Dengan terbitnya Perpres No. 55/2019 tentang Percepatan Program Berbasis Baterai untuk
+Transportasi Jalan tersebut, pemerintah berkomitmen dalam pengembangan sistem energi transportasi
+yang mengarah pada kebijakan kendaraan berbasis listrik (KBL). Yang mendasari komitmen pemerintah
+untuk peralihan kendaraan konvensional ke KBL disebabkan oleh teknologi baru atas energi transportasi
+untuk mengantisipasi proyeksi permintaan bahan bakar minyak yang semakin besar. Dampak utama dari
+peralihan massal transportasi jalan raya ke mobil listrik adalah terjadinya peningkatan kebutuhan energi
+listrik dalam skala besar.
+Sebagai percepatan program KBL, diperlukan dukungan semua pihak agar dapat mengurangi
+faktor penghambat yang menjadi pertimbangan preferensi konsumen dalam memilih KBL, yaitu harga,
+perawatan, dan daya tahan kendaraan serta kesiapan infrastruktur. Melalui fungsi pengawasan, DPR
+dapat berperan untuk memastikan percepatan konversi kendaraan konvensional ke KBL berjalan dengan
+baik yang didukung oleh kesiapan infrastruktur pendukungnya. Selain itu DPR juga berperan
+memastikan kinerja pemerintah dalam pemberian insentif bagi industri dan masyarakat pengguna KBL
+secara tepat sasaran [14].
+Sebagai tindak lanjut khusus dari Perpres 55/2019, Peraturan Gubernur (Pergub) Nomor 3 tahun
+2020 tentang insentif pajak Bea Balik Nama Kendaraan Bermotor (BBN-KB) atas Kendaraan Bermotor
+Listrik Berbasis Baterai diharapkan memacu populasi kendaraan setrum di ibu kota. Karena dengan
+adanya aturan tersebut, kini semua motor maupun mobil listrik murni di wilayah DKI Jakarta (contoh
+penerapan wilayah), tidak akan dikenakan pajak BBN 12,5 persen. Ya, seperti tertuang salam Bab II
+Pasal ayat 2, seluruh kendaraan listrik berbasis baterai tidak akan dikenakan pajak BBN. Benefit lain
+53
+
+Studi Analisis Perkembangan Teknologi dan Dukungan Pemerintah Indonesia Terkait Mobil Listrik
+khusus bagi yang memiliki mobil listrik juga dipastikan akan terbebas dari kebijakan ganjil genap di
+Jakarta [15].
+Kelemahan-kelemahan Mobil Listrik Dibandingkan dengan Mobil Konvensional [16, 17]
+Meski memiliki sejumlah kelebihan, ternyata teknologi mobil listrik juga memiliki banyak kelemahan
+atau kekurangan. Kelemahan-kelemahan ini bisa dikelompokkan dalam 3 kategori utama, yakni biaya
+operasional, kelengkapan infrastruktur, dan performansi atau daya tempuh. Untuk kategori biaya
+operasional, mobil listrik bisa menjadi mahal disebabkan oleh tiga hal: baterai (waktu pengisian baterai
+masih lama, bisa memakan waktu antara 4-6 jam hingga penuh dengan jarak tempuh 160 km, meskipun
+ada juga mobil listrik yang memiliki kapasitas baterai 38,3 kWh dan dapat diisi ulang hingga 80% hanya
+dalam waktu 57 menit, disebut fast-charging (50-kW) dengan jarak tempuh 373 km), daya listrik rumah,
+dan pajak kendaraan mobil listrik. Dari segi kelengkapan infrastruktur, yakni kurangnya tempat
+pengisian bahan bakar umum mobil listrik, dan karena kebutuhan listrik yang cukup besar maka hanya
+bisa dinikmati oleh daerah-daerah tertentu terutama di kota-kota besar yang memiliki jaringan
+kelistrikan yang lebih stabil. Sedangkan dari segi performansi dan daya tempuh, ini bersifat trade-off.
+Di satu sisi, dari segi dimensi yang kecil membuat mobil listrik jadi lebih dinamis, namun hanya cukup
+untuk dua orang penumpang (belum pas untuk mobil keluarga). Sedangkan bila bersifat mobil
+penumpang (seperti SUV yang bertenaga listrik murni), dapat menempuh jarak sejauh 405 km dengan
+satu kali pengisian daya baterai penuh, namun harganya yang masih kurang terjangkau khalayak ramai.
+KESIMPULAN
+Penggunaan mobil listrik pertama telah diperkenalkan pada tahun 1828 dan diproduksi pertama
+pada tahun 1884. Secara garis besar terdapat dua jenis utama dari mobil listrik yaitu Battery Electrical
+Vehicle (BEV) dan Plug-in Hibrid Electrical Vehicle (PHEV). Di mana BEV merupakan mobil listrik
+yang hanya mengandalkan energi yang tersimpan dalam kemasan baterai. Sedangkan PHEV merupakan
+gabungan dari mobil yang memiliki dua sumber energi yaitu energi listrik yang tersimpan pada baterai
+dan sumber energi dari pembakaran bahan bakar minyak.
+Pemerintah Indonesia sangat mendukung pengembangan dan pemasaran mobil listrik dengan
+diterbitkannya Perpres No. 55 Tahun 2019 tentang Percepatan Program Berbasis Baterai untuk
+Transportasi Jalan. Pemerintah berkomitmen dalam pengembangan sistem energi transportasi yang
+mengarah pada kebijakan kendaraan berbasis listrik (KBL). Salah satu cara agar masyarakat tertarik
+menggunakan kendaraan berbasis listrik (KBL) seperti mobil listrik adalah dengan cara memberikan
+insentif seperti pengurangan pajak kendaraan dan bersifat bebas dari program ganjil genap di jalan raya
+seperti di ibukota negara.
+Namun, di samping itu, pemanfaatan teknologi seperti radar, lidar, ultrasonik, dan kamera
+(berbagai macam sensor) untuk mengetahui objek yang ada di sekitar mobil yang dapat diintegrasikan
+dengan perangkat lunak (software) yang terprogram dan tertanam pada sistem cerdas, maka akan dapat
+menggantikan posisi manusia sebagai pengendali dan menjadikan kendaraan otomatis (autonomous
+vehicle). Teknologi ini juga diharapkan bisa menjadi kelanjutan dari program KBL dan sebagai solusi
+mengurangi carbon footprint di masa mendatang.
+
+DAFTAR PUSTAKA
+[1]
+Arahan Jokowi, Ibu Kota Baru Eksklusif Mobil Listrik-Otonom, Tersedia di Internet :
+https://www.cnnindonesia.com/teknologi/20200116181124-384-466028/arahan-jokowi-ibu-kota-barueksklusif-mobil-listrik-otonom (Diakses pada 4 Maret 2020)
+[2]
+Perkembangan Jumlah Kendaraan Bermotor Menurut Jenis, 1949-2018, Tersedia di Internet :
+https://www.bps.go.id/linkTableDinamis/view/id/1133 (Diakses pada 4 Maret 2020)
+[3]
+AirVisual: Paling Berpolusi, Udara Jakarta Pagi Ini Sangat Tidak Sehat! Tersedia di Internet :
+https://news.detik.com/berita/d-4667683/airvisual-paling-berpolusi-udara-jakarta-pagi-ini-sangattidak-sehat (Diakses pada 4 Maret 2020)
+[4]
+Resosudarmo, B.P., D.A. Nurdianto, and A.A. Yusuf (2009), “Greenhouse Gas Emission in
+Indonesia: The Significance of Fossil Fuel Combustion”, in B. Robiani, B.P. Resosudarmo, A.A.
+Alisjahbana, and A. Rosa (eds.), Regional Development, Energy and the Environment in Indonesia,
+Palembang: Indonesian Regional Science Association, pp. 146-159
+54
+
+Mochammad Aziz, Yosua Marcellino, Intan Agnita Rizki, Sri Anwar Ikhwanuddin dan Joni Welman
+Simatupang
+[5
+MDPI (2017), A Comprehensive Study of Key Electric Vehicle (EV) Components,
+Technologies, Challenges, Impacts, and Future Direction of Development, Agustus 2017
+[6]
+https://www.ifixit.com/Device/1997-2000_Toyota_Prius (Diakses pada 4 Maret 2020)
+[7]
+IRENA (2017), Electric Vehicles: technology brief, International Renewable Energy Agency,
+Abu Dhabi., Februari 2017
+[8]
+Grunditz, E.A. and Thiringer, T. Performance Analysis of Current BEVs Based on a
+Comprehensive Review of Specifications. IEEE Trans. Transp. Electr. 2016, 2, 270–289
+[9]
+Y. Miao, P. Hynan, A. von Jouanne, A.Yokochi, Current Li-Ion Battery Technologies in
+Electric Vehicles and Opportunities for Advancements. Energies 2019, 12, 1074
+[10
+T. Markel dan A. Simpson, “Cost-Benefit Analysis of Plug-in Kendaraan Teknologi Hibrid
+Listrik,” 22 International Electric Vehicle Symposium, Yokohama, Jepang. Oktober 2006.
+[11
+Hybrid
+Electrical
+Vehicles,
+Tersedia
+di
+Internet
+:
+http://www.ae.pwr.wroc.pl/filez/20110606094057_HEV.pdf (Diakses pada 4 Maret 2020)
+[12]
+Nuryanto, E., Muhammad, K. (2018). Tinjauan Pengembangan Mobil Listrik Menuju
+Teknologi Autonomous Vehicle, Tersedia di internet:
+https://www.researchgate.net/publication/331370613_Tinjauan_Pengembangan_Mobil_Listrik_Menuj
+u_Teknologi_Autonomous_Vehicle (Diakses pada 03 Mei 2020)
+[13]
+Pemerintah Dorong Industri Mobil Listrik, Ini Deretan Insentifnya, Tersedia di Internet :
+https://otomotif.tempo.co/read/1236301/pemerintah-dorong-industri-mobil-listrik-ini-deretaninsentifnya/full&view=ok (Diakses pada 04 Maret 2020)
+[14]
+A. Wirabrata (2019) Percepatan Program Kendaraan Bermotor Listrik Di Indonesia, Tersedia
+di Internet : https://peraturan.bpk.go.id/Home/Details/116973/perpres-no-55-tahun-2019 (Diakses pada
+03 Mei 2020)
+[15]
+https://kumparan.com/kumparanoto/5-harga-mobil-listrik-di-indonesia-mana-yang-terjangkau1siBtsyVi6f (Diakses pada 15 Mei 2020)
+[16]
+Luthfi Parinduri, Yusmartato, Taufik Parinduri, (2018) Kontribusi Konversi Mobil
+Konvensional Ke Mobil Listrik Dalam Penanggulangan Pemanasan Global, Tersedia di Internet :
+https://jurnal.uisu.ac.id/index.php/jet/article/view/551, (Diakses pada 03 Mei 2020)
+[17]
+https://www.cnnindonesia.com/teknologi/20191227121955-384-460330/indonesia-diserbumobil-mobil-listrik-pada-2020 (Diakses pada 15 Mei 2020)
+
+55
+
+

@@ -1,0 +1,646 @@
+Jurnal Akuntansi Vol.4 No.2 November 2012: 165-174
+
+Analisis Perbandingan Pengaruh Likuiditas, Solvabilitas,
+dan Profitabilitas Terhadap Harga Saham
+pada Perusahaan LQ 45
+Christine Dwi Karya Susilawati
+Dosen Fakultas Ekonomi Jurusan Akuntansi-Univ.Kristen Maranatha
+(Jl. Prof. Drg. Suria Sumantri No. 65, Bandung)
+
+Abstract
+Analysis tool commonly used is ratio analysis. This study uses three ratio analysis,
+the liquidity ratio is represented by the Current Ratio (CR), solvability ratio
+represented by the Debt Equity Ratio (DER), and profitability ratios are represented by
+the Return On Assets (ROA). This study aims to determine & analysis the significant
+influence of financial performance in the liquidity, solvability and profitability
+( CR, DER, and ROA) to the stock price index of LQ45. The sample used as many as
+nineteen companies who always entered the elections LQ45 period 2006-2009. This
+study uses the method of hypothesis testing and processed through single linear
+regression method. The results showed that , solvability and profitability
+( DER & ROA) significantly influence stock prices. The higher influence to stock price
+is ROA as indicator of profitability with R square 40,2%.
+Keywords: Liquidity, Solvability, Profitability, and Stock Price.
+
+Pendahuluan
+Indeks LQ 45 merupakan indikator indeks saham di BEI (Bursa Efek Indonesia) yang
+terdiri dari 45 saham-saham yang paling aktif diperdagangkan atau yang berlikuiditas
+tinggi. Saham yang terdaftar dalam indeks LQ 45 akan berubah setiap periodenya
+bergantung pada tinggi rendahnya perdagangan saham pada emiten-emiten tersebut.
+Hanya saham yang aktif diperdagangkan saja yang akan masuk dalam indeks LQ 45.
+Hal ini berarti indeks LQ 45 merupakan saham dari emiten yang banyak diminati oleh
+para investor, oleh sebab itu indeks LQ 45 dapat dijadikan sebagai acuan dalam menilai
+aktivitas kinerja perdagangan saham di pasar modal.
+Pendekatan fundamental merupakan salah satu cara yang dapat digunakan
+untuk menilai perusahaan. Teknik analisis fundamental tersebut dapat dilakukan dengan
+menggunakan suatu alat ukur, yaitu rasio keuangan. Analisis rasio keuangan didasarkan
+pada data keuangan dan kondisi perusahaan di masa lalu, namun dapat menilai kinerja
+perusahaan di masa yang akan datang. Penelitian Altman (1968) seperti yang dikutip
+oleh Susilawati (2005) menunjukkan bahwa rasio keuangan dari profitabilitas,
+likuiditas, dan solvency dapat memprediksi kebangkrutan perusahaan. Hasil penelitian
+tersebut menginformasikan bahwa ketiga jenis rasio keuangan tersebut sangat penting
+untuk memprediksi kelangsungan hidup perusahaan serta dapat digunakan untuk
+membantu investor dalam pemilihan investasinya.
+165
+
+Jurnal Akuntansi Vol.4 No.2 November 2012: 165-174
+
+Penelitian sebelumnya mengenai faktor-faktor yang mempengaruhi harga
+saham menunjukkan hasil yang bertentangan. Penelitian tersebut antara lain: Penelitian
+yang dilakukan oleh Auliyah dan Hamzah (2006) mengenai Analisis Perusahaan
+Industri dan Ekonomi Makro terhadap Return Saham dan Beta Saham Sariah di BEJ
+menunjukkan bahwa variabel EPS, DPS, CR, ROI tidak berpengaruh secara signifikan
+terhadap return saham, sedangkan penelitian yang dilakukan oleh Prihantini (2009)
+menunjukkan hasil bahwa variabel ROA dan CR berpengaruh positif dan signifikan
+terhadap return saham. Penelitian Lufti (2003) dalam Muhammad (2006) menunjukkan
+bahwa variabel CR, Debt To Total Asset Ratio, NPM, dan ROI merupakan faktor
+fundamental yang paling berpengaruh terhadap harga saham. Dari penelitian-penelitian
+tersebut menunjukkan bahwa current ratio sebagai indikator profitabilitas perusahaan
+menunjukkan pengaruh positif terhadap harga saham, walaupun dari penelitian Auliyah
+dan Hamzah (2006) menunjukan hasil yang tidak ada pengaruh.
+Natarsyah (2000) melakukan penelitian mengenai "Analisis Pengaruh
+Beberapa Faktor Fundamental dan Risiko Sistematik Terhadap Harga Saham." Hasil
+penelitiannya menunjukkan bahwa variabel ROA, ROE, DPR, DER, Book Value
+Pershare dan Indeks Beta berpengaruh positif terhadap harga saham, sedangkan
+penelitian yang dilakukan oleh Hidayat dan Manao (2000) dalam Pribawanti (2007)
+menunjukkan bahwa DER tidak berpengaruh terhadap harga saham. Hasil penelitian
+yang dilakukan oleh Surianti dan Indriantoro (1999) menunjukkan bahwa leverage ratio
+tidak berpengaruh signifikan terhadap harga saham. Dari penelitian-penelitian tersebut
+menunjukkan ketidak konsistenan pengaruh DER sebagai indikator solvabilitas
+perusahaan terhadap harga saham.
+Penelitian yang dilakukan oleh Indah Nurmalasari mengenai "Analisis
+Pengaruh Rasio Profitabilitas Terhadap Harga Saham Emiten LQ 45 Yang Terdaftar
+di Bursa Efek Indonesia Tahun 2005-2008" menunjukkan bahwa secara simultan
+variabel NPM, ROE, ROA, EPS berpengaruh signifikan terhadap harga saham,
+sedangkan secara parsial, hanya variabel ROA dan EPS yang berpengaruh terhadap
+harga saham. Namun penelitian yang dilakukan oleh Sukmawatiningsih (2003) dalam
+Wicaksono (2007) menunjukkan bahwa secara parsial, hanya variabel BV yang
+berpengaruh terhadap harga saham, sedangkan variabel ROA, ROE, DPR, DER tidak
+berpengaruh terhadap harga saham. Dari penelitian-penelitian tersebut menunjukkan
+ketidak konsitenan pengaruh ROA sebagai indikator profitabilitas perusahaan.
+Berdasarkan penelitian-penelitian sebelumnya yang masih menunjukkan hasil
+yang tidak konsisten, maka penulis tertarik untuk melakukan penelitian lebih lanjut
+pada perusahaan LQ 45, dengan judul: “Analisis Perbandingan Pengaruh Likuiditas,
+Solvabilitas, dan Profitabilitas Terhadap Harga Saham pada Perusahaan LQ 45.”
+
+Kerangka Teoritis
+Analisis Laporan Keuangan
+Analisis laporan keuangan (financial statement analysis) adalah aplikasi dari alat dan
+teknik analitis untuk laporan keuangan bertujuan umum dan data-data yang berkaitan
+untuk menghasilkan estimasi dan kesimpulan yang bermanfaat dalam analisis bisnis.
+Analisis laporan keuangan mengurangi ketergantungan pada firasat, tebakan, dan intuisi
+dalam pengambilan keputusan. Analisis ini mengurangi ketidakpastian analisis bisnis.
+Analisis ini tidak mengurangi perlunya penilaian ahli, namun menyediakan dasar yang
+sistematis dan efektif untuk analisis bisnis (Wild et al., 2008:3-4).
+166
+
+Jurnal Akuntansi Vol.4 No.2 November 2012: 165-174
+
+Beberapa alat yang dapat membantu dalam menganalisis laporan keuangan
+(Wild et al., 2008), yaitu:
+1. Analisis laporan keuangan komparatif: Analisis ini dilakukan dengan cara menelaah
+neraca, laporan laba rugi, atau laporan arus kas yang berurutan dari satu periode
+ke periode berikutnya.
+2. Analisis laporan keuangan Common-size: Analisis ini dilakukan dengan cara
+mengelompokkan total suatu akun kemudian membandingkan tiap komponennya
+berdasarkan prosentase tiap komponen terhadap total akun tersebut.
+3. Analisis rasio (ratio analysis): Analisis rasio merupakan salah satu alat analisis
+keuangan yang paling populer dan banyak digunakan. Dalam menggunakan rasio
+keuangan perlu diperhatikan faktor-faktor yang mempengaruhinya. Kegunaan rasio
+tergantung pada keahlian penerapan dan interpretasinya. Rasio bermanfaat bila
+diinterpretasikan dalam perbandingan dengan (1) rasio tahun sebelumnya,
+(2) standar yang ditentukan sebelumnya, (3) rasio pesaing.
+4. Analisis arus kas: Digunakan sebagai alat untuk mengevaluasi sumber dan
+penggunaan dana. Analisis arus kas menyediakan pandangan tentang bagaimana
+perusahaan memperoleh pendanaannya dan menggunakan sumber dananya.
+5. Penilaian Penilaian merupakan hasil penting dari banyak jenis analisis bisnis dan
+laporan keuangan. Penilaian (valuation) biasanya mengacu pada estimasi nilai
+intrinsik sebuah perusahaan atau sahamnya. Dasar penilaian adalah teori nilai
+sekarang (present value theory).
+Jenis-jenis Rasio
+Menurut Harahap (1998), jenis-jenis rasio keuangan yang sering digunakan dalam
+bisnis yaitu:
+1. Rasio likuiditas, menggambarkan kemampuan perusahaan untuk menyelesaikan
+kewajiban jangka pendeknya. Rasio-rasio ini dapat dihitung melalui sumber
+informasi tentang modal kerja yaitu pos-pos aktiva lancar dan utang lancar.
+2. Rasio solvabilitas, menggambarkan kemampuan perusahaan dalam membayar
+kewajiban jangka panjangnya atau kewajiban-kewajibannya apabila perusahaan
+dilikuidasi. Rasio-rasio ini dapat dihitung dari pos-pos yang sifatnya jangka panjang
+seperti aktiva tetap dan utang jangka panjang.
+3. Rasio Rentabilitas/Profitabilitas, menggambarkan kemampuan perusahaan
+mendapatkan laba melalui semua kemampuan, dan sumber daya yang ada seperti
+kegiatan penjualan, kas, modal, jumlah karyawan, jumlah cabang, dan sebagainya.
+4. Rasio Leverage, Rasio ini menggambarkan hubungan antara utang perusahaan
+terhadap modal maupun asset. Rasio ini dapat melihat seberapa jauh perusahaan
+dibiayai oleh utang atau pihak luar dengan kemampuan perusahaan yang
+digambarkan oleh modal (equity). Perusahaan yang baik seharusnya memiliki
+komposisi modal yang lebih besar dari hutang. Rasio ini juga bisa dianggap bagian
+dari rasio Solvabilitas.
+5. Rasio Aktivitas, rasio ini menggambarkan aktivitas yang dilakukan perusahaan
+dalam menjalankan operasinya, baik dalam kegiatan penjualan, pembelian, dan
+kegiatan lainnya.
+6. Rasio Pertumbuhan (Growth), rasio ini menggambarkan prosentase pertumbuhan
+pos-pos perusahaan dari tahun ke tahun.
+7. Rasio Penilaian Pasar (Market Based Ratio), rasio ini merupakan rasio yang lazim
+dan yang khusus dipergunakan di pasar modal yang menggambarkan situasi/keadaan
+prestasi perusahaan di pasar modal, namun tidak berarti bahwa rasio lainnya tidak
+167
+
+Jurnal Akuntansi Vol.4 No.2 November 2012: 165-174
+
+dipakai.
+8. Rasio Produktivitas, jika perusahaan ingin dinilai dari segi produktivitas
+unit-unitnya, maka bisa dihitung dengan menggunakan rasio produktivitas. rasio ini
+menunjukkan tingkat produktivitas dari unit atau kegiatan yang dinilai.
+Likuiditas
+Likuiditas menggambarkan kemampuan perusahaan untuk menyelesaikan kewajiban
+jangka pendeknya. Rasio-rasio ini dapat dihitung melalui sumber informasi tentang
+modal kerja yaitu pos-pos aktiva lancar dan utang lancar. Current Ratio merupakan
+salah satu rasio likuiditas. Current Ratio menunjukkan tingkat keamanan
+(margin of safety) kreditor jangka pendek. Tetapi current ratio yang tinggi belum tentu
+menjamin akan dapat dibayarnya utang perusahaan yang sudah jatuh tempo karena
+proporsi atau distribusi dari aktiva lancar yang tidak menguntungkan (Munawir, 2004).
+Rasio ini dapat dibuat dalam bentuk berapa kali atau dalam bentuk prosentase.
+Apabila rasio lancar ini 1:1 atau 100%, ini berarti bahwa aktiva lancar dapat menutupi
+semua utang lancar. Rasio lancar yang lebih aman adalah jika berada di atas 1 atau
+di atas 100% (Harahap, 1998:301).
+Hal yang paling penting dalam mengukur rasio modal kerja (rasio likuiditas)
+bukanlah pada besar kecilnya perbedaan aktiva lancar dengan utang jangka pendek,
+melainkan harus dilihat pada hubungannya atau perbandingannya yang mencerminkan
+kemampuan mengembalikan utang. Current ratio yang tinggi mungkin menunjukkan
+adanya uang kas yang berlebihan dibandingkan dengan tingkat kebutuhan atau adanya
+unsur aktiva lancar yang rendah likuiditasnya (seperti persediaan) yang berlebihan.
+Current ratio yang tinggi tersebut memang baik dari sudut pandang kreditor, namun
+dari sudut pandang investor, hal ini kurang menguntungkan karena aktiva lancar tidak
+didayagunakan dengan efektif. Sebaliknya, current ratio yang rendah relatif lebih
+riskan, tetapi menunjukkan bahwa manajemen telah mengoperasikan aktiva lancar
+secara efektif (Djarwanto, 2004:150).
+Solvabilitas
+Solvabilitas menggambarkan kemampuan perusahaan dalam membayar kewajiban
+jangka panjangnya atau kewajiban-kewajibannya apabila perusahaan dilikuidasi.
+Rasio-rasio ini dapat dihitung dari pos-pos yang sifatnya jangka panjang seperti aktiva
+tetap dan utang jangka panjang. Debt Equity Ratio merupakan salah satu rasio
+solvabilitas. Sutrisno (2003:249) mengemukakan bahwa rasio utang dengan modal
+sendiri (debt to equity ratio) merupakan imbangan antara utang yang dimiliki
+perusahaan dengan modal sendiri. Semakin tinggi rasio ini berarti modal sendiri
+semakin sedikit dibandingkan dengan utangnya. Bagi perusahaan, sebaiknya besarnya
+utang tidak boleh melebihi modal sendiri agar beban tetapnya tidak terlalu tinggi. Untuk
+pendekatan konservatif, besarnya utang maksimal sama dengan modal sendiri, artinya
+debt to equitynya maksimal 100% atau dengan kata lain, DER akan lebih baik jika
+kurang dari 1 yang mengartikan bahwa perusahaan mampu membayar seluruh utangnya
+dengan modal yang dimiliki (Salim, 2010). Menurut Jusuf (2007), debt equity ratio
+menunjukkan sejauh mana modal sendiri menjamin seluruh utang. Rasio ini juga dapat
+dibaca sebagai perbandingan antara dana pihak luar dengan dana pemilik perusahaan
+yang dimasukkan ke perusahaan.
+
+168
+
+Jurnal Akuntansi Vol.4 No.2 November 2012: 165-174
+
+Profitabilitas
+Profitabilitas, menggambarkan kemampuan perusahaan mendapatkan laba melalui
+semua kemampuan, dan sumber daya yang ada seperti kegiatan penjualan, kas, modal,
+jumlah karyawan, jumlah cabang, dan sebagainya. Return On Assets adalah salah satu
+rasio profitabilitas. Rasio ini sering disebut sebagai rentabilitas ekonomis, yaitu
+merupakan ukuran kemampuan perusahaan dalam menghasilkan laba dengan semua
+aktiva yang dimiliki oleh perusahaan tersebut (Sutrisno, 2003:254). Semakin tinggi nilai
+ROA, dapat diartikan bahwa perusahaan telah efisien dalam menciptakan laba dengan
+cara mengolah dan mengelola semua aset yang dimilikinya (Salim, 2010). Banyak
+orang menganggap bahwa return on assets sama dengan return on investment, namun
+sebenarnya kedua rasio tersebut berbeda, karena dalam Investment hanya ada unsur
+modal pinjaman jangka panjang dan ekuitas, sedangkan Assets dibiayai dari sumber
+pinjaman jangka panjang, ekuitas, dan utang jangka pendek (Samsul, 2006).
+Harga Saham
+Harga saham merupakan harga yang dibentuk dari interaksi para penjual dan pembeli
+saham yang dilatarbelakangi oleh harapan terhadap profit perusahaan. Dalam aktivitas
+di pasar modal, harga saham merupakan faktor yang sangat penting dan harus
+diperhatikan oleh investor dalam melaksanakan investasi, karena harga saham
+menunjukkan nilai suatu perusahaan. Semakin tinggi nilai harga saham semakin tinggi
+pula nilai perusahaan tersebut dan juga sebaliknya. Harga saham di bursa ditentukan
+oleh kekuatan pasar, yang berarti harga saham tergantung dari kekuatan permintaan dan
+penawaran. Kondisi permintaan atau penawaran atas saham yang fluktuatif tiap harinya
+akan membawa pola harga saham yang fluktuatif juga. Pada kondisi dimana
+permintaan saham lebih besar, maka harga saham akan cenderung naik, sedangkan pada
+kondisi dimana penawaran saham lebih banyak maka harga saham akan menurun
+(Saptadi, 2007).
+Indeks LQ 45
+Indeks LQ 45 dibentuk hanya dari 45 saham-saham yang aktif diperdagangkan. Saham
+LQ 45 ini menunjukkan saham yang paling aktif diperdagangkan dibandingkan saham
+yang lainnya. Pertimbangan-pertimbangan yang mendasari pemilihan saham yang
+masuk di LQ 45 (Indeks Likuid 45) adalah likuiditas dan kapitalisasi pasar dengan
+kriteria sebagai berikut (Jogiyanto, 2008):
+1. Selama 12 bulan terakhir, rata-rata transaksi sahamnya masuk dalam urutan 60
+terbesar di pasar reguler
+2. Selama 12 bulan terakhir, rata-rata nilai kapitalisasi pasarnya masuk dalam urutan
+60 terbesar di pasar reguler
+3. Telah tercatat di BEI paling tidak selama 3 bulan.
+
+Metode Penelitian
+Objek Penelitian
+Objek dalam penelitian ini adalah laporan keuangan emiten yang tergabung dalam
+LQ 45 yang telah diaudit dan dipublikasikan di Bursa Efek Indonesia selama periode
+2006-2009, dengan mengambil variabel berupa Current Ratio, Debt Equity Ratio,
+Return On Assets, dan Harga Saham. Harga saham yang digunakan dalam penelitian
+yaitu harga saham penutupan akhir tahun pada periode 2006-2009 (empat tahun).
+169
+
+Jurnal Akuntansi Vol.4 No.2 November 2012: 165-174
+
+Variabel Penelitian
+Variabel penelitian adalah suatu atribut atau sifat atau nilai dari orang, obyek atau
+kegiatan yang mempunyai variasi tertentu yang ditetapkan oleh peneliti untuk dipelajari
+dan ditarik kesimpulannya (Kuncoro, 2003). Dalam penelitian ini memakai dua jenis
+variabel, yaitu variabel independen dan variabel dependen.
+1. Variabel Independen
+Variabel independen merupakan variabel yang mempengaruhi atau yang menjadi
+sebab perubahan atau timbulnya variabel dependen. Adapun yang menjadi variabel
+independen dalam penelitian ini yaitu:
+a. Likuiditas = Current Ratio (X1)
+Current Liabilities = Current Assets
+Current Ratio
+b. Solvabilitas= Debt Equity Ratio (X2)
+Debt Equity Ratio = Total debt
+Total Equity
+c. Profitabilitas= Return On Assets (X3)
+Total Asset = EBIT-Income tax
+Return On Assets
+2.
+
+Variabel Dependen
+Variabel dependen merupakan variabel yang dipengaruhi atau yang menjadi akibat,
+karena adanya variabel bebas. Adapun yang menjadi variabel dependen dalam
+penelitian ini yaitu harga saham penutupan akhir tahun (Y).
+
+Metode Analisis Data
+Metode yang digunakan untuk menganalisis data dalam penelitian ini adalah metode
+regresi linear sederhana (Single Linear Regresion Method).
+Dengan persamaan regresi: 1. Y = β0+ β1.X1+ E
+2. Y = β0+ β2.X2+ E
+3. Y = β0+ β3.X3+ E
+Keterangan :
+β0
+
+= konstanta
+
+β1, β2, dan β3
+
+= koefisien regresi
+
+Y
+
+= harga saham
+
+X1
+X2
+
+= Likuiditas - CR (Current Ratio)
+= Solvabilitas-DER (Debt Equity Ratio)
+
+X3
+E
+
+= Profitabilitas-ROA (Return On Assets)
+= error
+
+170
+
+Jurnal Akuntansi Vol.4 No.2 November 2012: 165-174
+
+Hasil Penelitian dan Pembahasan
+Analisis Pengaruh Likuditas Terhadap Harga Saham
+Hasil uji SPSS dengan SPSS 12 dengan analisis regresi sederhana untuk menguji
+pengaruh langsung variabel independen terhadap variabel dependen (Ghozali, 2009)
+yaitu likuiditas terhadap harga saham LQ 45 menunjukkan tidak ada pengaruh
+signifikan likuiditas dengan indikator current ratio terhadap harga saham, ditunjukkan
+dengan hasil sig. sebesar 0,556 lebih besar daripada p-value=0,05 pada Tabel 1. Hal ini
+sesuai dengan penelitian sebelumnya yang menyatakan bahwa current ratio tidak
+mempunyai pengaruh terhadap harga saham (Aulia dan Hamzah, 2006).
+Tabel 1
+Model Summary
+Model Summaryb
+
+Change Statistics
+Model
+1
+
+R
+,069a
+
+R Square
+,005
+
+Adjusted
+R Square
+-,009
+
+St d. Error of
+the Estimate
+12846,90751
+
+R Square
+Change
+,005
+
+F Change
+,350
+
+df 1
+
+df 2
+1
+
+74
+
+Sig. F Change
+,556
+
+Durbin-W
+atson
+2,216
+
+a. Predictors: (Const ant), LIK_CR
+b. Dependent Variable: HARG_SHM
+
+Analisis Pengaruh Solvabilitas Terhadap Harga Saham
+Hasil uji SPSS dengan SPSS 12 dengan analisis regresi sederhana untuk menguji
+pengaruh langsung variabel independen terhadap variabel dependen (Ghozali, 2009)
+yaitu solvabilitas terhadap harga saham LQ 45 menunjukkan ada pengaruh signifikan
+solvabilitas dengan indikator debt equity ratio terhadap harga saham, ditunjukkan
+dengan hasil sig. sebesar 0,017 lebih kecil daripada p - value=0,05 dengan besar
+pengaruh yang kecil hanya sebesar 7,5% pada Tabel 2.
+Tabel 3. (Tabel koefisien) menunjukkan ada pengaruh negatif solvabilitas terhadap
+harga saham ditunjukkan dengan nilai koefisien regresi yang negative yaitu
+sebesar -3.120,294, maka hasil persamaan regresinya sebagai berikut:
+Y= 373,143 -3.120,294.X1 + E
+Tabel 2
+Model Summaryb
+R
+Square
+
+Adjusted Std. Error ofR SquareF
+R Square the EstimateChange Change
+,075 ,062 12385,47432 ,075
+5,993
+
+Model R
+1
+,274 a
+a.Predictors: (Constant), SOLV_DER
+l
+b.Dependent Variable: HARG_SHM
+
+Change Statistics
+df1
+1
+
+df2
+74
+
+Sig. F
+Change
+,017
+
+Durbin-W
+atson
+2,141
+
+171
+
+Jurnal Akuntansi Vol.4 No.2 November 2012: 165-174
+
+Tabel 3
+Coefficientsa
+
+Model
+1
+
+Unstandardized
+Coeff icients
+B
+Std. Error
+(Constant) 11373,143 2278,743
+SOLV_DER -3120,294 1274,638
+
+Standardized
+Coeff icients
+Beta
+
+t
+4,991
+-2,448
+
+-,274
+
+Sig.
+,000
+,017
+
+95% Confidence Interv al for B
+Correlations
+Lower Bound Upper Bound Zero-order
+Partial
+6832,649
+15913,637
+-5660,066
+-580,523
+-,274
+-,274
+
+Part
+
+Collinearity Statistics
+Tolerance
+VIF
+
+-,274
+
+1,000
+
+a. Dependent Variable: HARG_SHM
+
+Analisis Pengaruh Profitabilitas Terhadap Harga Saham
+Hasil uji SPSS dengan SPSS 12 dengan analisis regresi sederhana untuk menguji
+pengaruh langsung variabel independen terhadap variabel dependen (Ghozali, 2009)
+yaitu profitabilitas terhadap harga saham LQ 45 menunjukkan ada pengaruh signifikan
+profitabilitas dengan indikator return on asset terhadap harga saham, ditunjukkan
+dengan hasil sig. sebesar 0,000 lebih kecil daripada p-valu = 0,05 dengan besar
+pengaruh yang cukup besar sebesar 40,2% pada Tabel 4.
+Tabel 5. (Tabel koefisien) menunjukkan ada pengaruh positif profitabilitas terhadap
+harga saham ditunjukkan dengan nilai koefisien regresi yang positif yaitu sebesar
+424,589, maka hasil persamaan regresinya sebagai berikut:
+Y= 833,771 +424,589.X2 + E
+Tabel 4
+Model Summaryb
+
+Change Statistics
+Model
+1
+
+R
+R Square
+,634a
+,402
+
+Adjusted Std. Error of
+R Square the Estimate
+,394 9956,47340
+
+R Square
+Change F Change
+,402
+49,784
+
+df 1
+
+df 2
+1
+
+Sig. F Change
+74
+,000
+
+Durbin-W
+atson
+2,112
+
+a. Predictors: (Constant), PROF_ROA
+b. Dependent Variable: HARG_SHM
+
+Tabel 5
+Coefficientsa
+
+Model
+1
+(Constant)
+PROF_ROA
+
+Unstandardized
+Coeff icients
+B
+Std. Error
+833,771 1439,101
+424,589
+60,176
+
+Standardized
+Coeff icients
+Beta
+,634
+
+t
+,579
+7,056
+
+95% Confidence Interv al for B
+Correlations
+Sig.
+Lower Bound Upper Bound Zero-order Partial
+,564
+-2033,701
+3701,243
+,000
+304,686
+544,493
+,634
+,634
+
+Part
+,634
+
+Collinearity Statistics
+Tolerance
+VIF
+1,000
+
+1,000
+
+a. Dependent Variable: HARG_SHM
+
+Hasil penelitian ini sesuai dengan hasil penelitian sebelumnya Nurmalasari (2009)
+mengenai "Analisis Pengaruh Rasio Profitabilitas Terhadap Harga Saham Emiten
+LQ 45 Yang Terdaftar di Bursa Efek Indonesia Tahun 2005-2008" menunjukkan bahwa
+secara simultan variabel NPM, ROE, ROA, EPS berpengaruh signifikan terhadap harga
+saham.
+
+172
+
+1,000
+
+Jurnal Akuntansi Vol.4 No.2 November 2012: 165-174
+
+Simpulan dan Saran
+Simpulan
+Dari hasil penelitian diatas dapat disimpulkan :
+1. Variabel yang paling berpengaruh terhadap harga saham LQ 45 adalah
+profitabilitas dengan indikator ROA (Return on Asset ) sebesar 40,2%.
+2. Variabel penelitian solvabilitas menunjukkan pengaruh yang signifikan terhadap
+harga saham LQ 45 hanya pengaruhnya kecil hanya sebesar 7,5%.
+3. Variabel penelitian likuiditas tidak menunjukkan pengaruh terhadap harga saham
+LQ 45.
+Saran
+Dari hasil penelitian yang telah dilakukan, penulis mencoba untuk memberikan
+beberapa saran sebagai berikut:
+1. Bagi investor yang berinvestasi pada saham-saham LQ 45 yang aktif
+diperdagangkan di bursa saham, jika mengharapkan keuntungan pada capital gain
+(dari kenaikan harga saham) untuk keuntungan jangka panjang (tahunan)
+disarankan untuk memperhatikan tingkat profitabilitas perusahaan dengan indikator
+ROA dibanding yang lainnya.
+2. Bagi Perusahaan disarankan untuk lebih memperhatikan kinerja perusahaan
+khususnya pada profitabilitas dan solvabilitas untuk meningkatkan harga jual
+saham agar menarik minat investor untuk aktif berinvestasi pada saham.
+3. Bagi penelitian selanjutnya disarankan untuk diperluas lagi sampel penelitian pada
+rentang tahun yang lebih panjang, ataupu di tambah variabel penelitian lain yang
+mempengaruhi harga saham.
+
+Daftar Pustaka
+Auliyah, Robiatul dan Ardi Hamzah. 2006. Analisis Perusahaan Industri dan Ekonomi
+Makro Terhadap Return Saham dan Beta Saham Sariah di Bursa Efek Jakarta.
+Simposium Nasional Akuntansi 6. Padang.
+Ghozali, Imam. 2009. Aplikasi Analisis Multivariate dengan Program SPSS. Cetakan
+Keempat. Semarang: Badan Penerbit Universitas Diponegoro.
+Harahap, Sofyan Syafri. 1998. Analisa Kritis atas Laporan Keuangan. Jakarta:
+PT Rajagrafindo Persada.
+Hartono, Jogiyanto. 2008. Teori Portofolio dan Analisis Investasi. Edisi Kelima.
+Yogyakarta: BPFE.
+Muhammad, Iman. 2006. Analisis Struktur Modal Terhadap Harga Saham Perusahaan
+Obat-Obatan Terbuka di Bursa Efek Jakarta. Penelitian. Program Studi
+Magister Manajemen. Medan: Universitas Terbuka.
+Munawir, H. S. 2004. Analisa Laporan Keuangan. Edisi Keempat. Yogyakarta: Liberty.
+Natarsyah, Syahib. 2000. Analisis Pengaruh Beberapa Faktor Fundamental dan Risiko
+Sistematik Terhadap Harga Saham: Kasus Pada Industri Barang Konsumsi
+yang Go Public di Pasar Modal Indonesia. Jurnal Ekonomi dan Bisnis
+173
+
+Jurnal Akuntansi Vol.4 No.2 November 2012: 165-174
+
+Indonesia, Vol. 15, No. 3. Jakarta.
+Nurmalasari, Indah. 2009. Analisis Pengaruh Rasio Profitabilitas Terhadap Harga
+Saham Emiten LQ45 Yang Terdaftar di Bursa Efek Indonesia Tahun
+2005-2008. Penelitian. Jakarta:Universitas Gunadarma.
+Pribawanti, Tika Maya. 2007. Analisis Pengaruh Rasio Keuangan Terhadap Total
+Return Saham Pada Perusahaan Industri Manufaktur yang Membagikan
+Deviden di Bursa Efek Jakarta. Penelitian. Semarang: Universitas Negeri
+Semarang.
+Prihantini, Ratna. 2009. Analisis Pengaruh Inflasi, Nilai Tukar, ROA, DER, dan CR
+Terhadap Return Saham. Penelitian, Program Studi Magister Manajemen.
+Semarang: Universitas Diponegoro.
+Salim, Joko. 2010. Cara Gampang Bermain Saham. Jakarta: Visimedia.
+Samsul, Mohamad. 2006. Pasar Modal dan Manajemen Portofolio. Jakarta: Erlangga.
+Sutrisno. 2003. Manajemen Keuangan. Edisi Pertama. Yogyakarta: Ekonisia
+Saptadi, Anung. 2007. Pengaruh Return On Investment (ROI), Price Earnings Ratio
+(PER), dan Earnings Per Share (EPS) Terhadap Harga Saham Pada Perusahaan
+Manufaktur Yang Terdaftar Di Bursa Efek Jakarta. Penelitian. Semarang:
+Universitas Negeri Semarang.
+Susilawati, Christine D. K. “Pengaruh Rasio Keuangan Terhadap Harga Saham Pada
+Perusahaan Manufaktur”. Jurnal Ilmiah Akuntansi, Vol. 4, No. 2, Mei 2005.
+Surianti, Meily dan Nur Indriantoro. 1999. Ketepatan Laba pada Prospectus Penawaran
+Umum Perdana. Jurnal Bisnis dan Akuntansi, Vol.1, No. 1, April: 1-14.
+Wicaksono, Ananto Sarono. 2007. Analisis Pengaruh Rasio Keuangan Terhadap Harga
+Saham Perusahaan yang Terdaftar di Bursa Efek Jakarta. Penelitian.
+Semarang: Universitas Negeri Semarang.
+Wild, John J., K. R. Subramanyam, dan Robert F. Halsey. 2008. Analisis Laporan
+Keuangan, Buku Satu, Edisi Kedelapan. Diterjemahkan oleh Yanivi S.
+Bachtiar dan S. Nurwahyu Harahap. Jakarta: Salemba Empat.
+
+174
+
+

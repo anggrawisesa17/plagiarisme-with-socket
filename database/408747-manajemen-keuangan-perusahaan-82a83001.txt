@@ -1,0 +1,1334 @@
+                MANAJEMEN KEUANGAN PERUSAHAAN
+
+                                    Tim Penulis:
+    Rini Astuti, Budi Rustandi Kartawinata, Enok Nurhayati, Joselina Tuhuteru,
+    Listiana Sri Mulatsih, Agustina Muliyani, Adilla Juita Siska, Rozzana Erziaty,
+Galih Wicaksono, Nurmatias, Hari Nugroho, Drajat Sugiarto, Jennisa Dwina Indriani.
+
+                                  Desain Cover:
+                                  Helmaria Ulfa
+
+                                  Tata Letak:
+                               Handarini Rohana
+
+                                    Editor:
+                                 Aas Masruroh
+
+                                     ISBN:
+                               978-623-459-096-8
+
+                                Cetakan Pertama:
+                                   Mei, 2022
+
+                          Hak Cipta 2022, Pada Penulis
+
+                   Hak Cipta Dilindungi Oleh Undang-Undang
+                                 Copyright © 2022
+                   by Penerbit Widina Bhakti Persada Bandung
+                                 All Right Reserved
+
+ Dilarang keras menerjemahkan, memfotokopi, atau memperbanyak sebagian atau
+                 seluruh isi buku ini tanpa izin tertulis dari Penerbit.
+
+                                    PENERBIT:
+                       WIDINA BHAKTI PERSADA BANDUNG
+                         (Grup CV. Widina Media Utama)
+             Komplek Puri Melia Asri Blok C3 No. 17 Desa Bojong Emas
+            Kec. Solokan Jeruk Kabupaten Bandung, Provinsi Jawa Barat
+
+                       Anggota IKAPI No. 360/JBA/2020
+                       Website: www.penerbitwidina.com
+                         Instagram: @penerbitwidina
+                            PRAKATA
+
+     Berkat rahmat dan karunia Tuhan yang maha esa, setelah melalui
+proses yang begitu panjang dan seleksi naskah yang begitu ketat, akhirnya
+buku yang berjudul Manajemen Keuangan Perusahaan ini dapat
+diterbitkan dan siap untuk sajikan kepada masyarakat luas.
+     Manajemen keuangan merupakan segala aktivitas perusahaan yang
+berkaitan dengan usaha untuk mendapatkan pendanaan yang diperlukan
+dengan biaya minimal dan syarat-syarat yang paling menguntungkan,
+serta usaha untuk menggunakan dana tersebut se-efisien mungkin. Selain
+itu kegiatan manajemen ini juga bertujuan untuk mengelola dana maupun
+aset-aset yang dimiliki perusahaan untuk dimanfaatkan pada hal-hal atau
+kegiatan yang membantu tercapainya tujuan utama perusahaan (profit).
+     Oleh karena itu, seorang profesional di bagian keuangan sebuah
+perusahaan wajib menyediakan informasi tentang aktivitas keuangan bagi
+orang yang berkepentingan, sehingga setiap departemen di perusahaan
+mendapat gambaran mengenai hal apa yang harus dilakukan untuk
+menjaga stabilitas keuangan perusahaan. Kemudian akuntabilitas dalam
+manajemen keuangan merupakan kewajiban hukum dalam sebuah
+perusahaan. Dalam hal ini, dapat diketahui darimana dana di peroleh,
+untuk apa saja dana digunakan serta bagaimana cara perusahaan
+memakai dana tersebut. Pihak-pihak di level manajerial perusahaan harus
+tahu bagaimana akuntabilitas keuangan dalam perusahaan dan
+pengelolaan keuangan serta pajak.
+     Maka dari itu, buku ini hadir dengan harpan dapat menjadi
+peodoman sekaligus bahan referensi baik bagi kalangan akademisi yang
+sedang mengkaji manajemen keuangan perusahaan ataupun praktisi dan
+profesional yang terlibat langsung secara praktis di perusahaan atau pun
+lembaga.
+
+                                                          Mei, 2022
+
+
+                                                          Tim Penulis
+
+                                   iii
+                                       DAFTAR ISI
+
+PRAKATA ······························································································· iii
+DAFTAR ISI ···························································································· iv
+BAB 1 TINJAUAN UMUM MANAJEMEN KEUANGAN ································· 1
+   A. Pendahuluan ······················································································ 2
+   B. Konsep Dasar Manajemen Keuangan ·············································· 3
+   C. Tiga Bidang Keuangan Dalam Manajemen Keuangan ···················· 10
+   D. Karir di bidang Keuangan ································································ 11
+   E. Rangkuman Materi ········································································· 18
+BAB 2 RUANG LINGKUP MANAJEMEN KEUANGAN PERUSAHAAN ·········· 21
+   A. Pendahuluan ···················································································· 22
+   B. Pengertian Manajemen Keuangan Perusahaan ······························ 25
+   C. Tujuan Manajemen Keuangan Perusahaan ····································· 27
+   D. Fungsi Manajemen Keuangan Perusahaan ····································· 29
+   E. Keputusan Investasi ········································································· 30
+   F. Risiko dan Tingkat Pengembalian ···················································· 31
+   G. Tanggung Jawab Manajer Keuangan ··············································· 32
+   H. Peranan Manajemen Keuangan ······················································ 32
+   I. Rangkuman Materi ·········································································· 34
+BAB 3 PERAN MANAJER KEUANGAN ····················································· 39
+   A. Pendahuluan ···················································································· 40
+   B. Manajer, Manajer Keuangan, dan Manajemen Keuangan·············· 41
+   C. Peran Manajer Keuangan ································································ 42
+   D. Tantangan Manajer Keuangan ······················································· 45
+   E. Rangkuman Materi ·········································································· 48
+BAB 4 PERILAKU MANAJEMEN KEUANGAN············································ 53
+   A. Pendahuluan ···················································································· 54
+   B. Keuangan Standar Versus Perilaku Manajemen Keuangan ············ 55
+   C. Definisi Perilaku Manajemen Keuangan ·········································· 59
+   D. Dimensi Perilaku Manajemen Keuangan········································· 60
+   E. Faktor Yang Mempengaruhi Perilaku Manajemen Keuangan ········· 61
+   F. Perilaku Manajemen Keuangan Pada Perusahaan ·························· 65
+   G. Rangkuman Materi ·········································································· 67
+
+                                                   iv
+BAB 5 KONSEP LIKUIDITAS DAN PENGELOLAANNYA ······························ 71
+   A. Pendahuluan ···················································································· 72
+   B. Laporan Akuntansi dan Arus Kas ····················································· 73
+   C. Analisis Laporan Keuangan dan Konsep Likuiditas ·························· 81
+   D. Short-Term Finance dan Net Working Capital································· 81
+   E. Rangkuman Materi ·········································································· 85
+BAB 6 EFISIENSI MODAL KERJA ······························································ 89
+   A. Pendahuluan ···················································································· 90
+   B. Pengertian Modal Kerja ··································································· 92
+   C. Pentingnya Modal Kerja ·································································· 93
+   D. Faktor-Faktor Yang Mempengaruhi Jumlah Modal Kerja················ 95
+   E. Sumber Modal Kerja ········································································ 95
+   F. Penggunaan Modal Kerja································································· 97
+   G. Efisiensi Modal Kerja ······································································· 98
+   H. Pengukuran Efisiensi Modal Kerja ················································· 100
+   I. Rangkuman Materi ········································································ 101
+BAB 7 MANAJEMEN KEBUTUHAN KAS ··················································105
+   A. Pendahuluan ·················································································· 106
+   B. Pengertian Kas ··············································································· 107
+   C. Perencanaan Kas ··········································································· 109
+   D. Manajemen Kebutuhan Kas ·························································· 110
+   E. Faktor Yang Mempengaruhi Besarnya Persediaan Kas ················· 112
+   F. Strategi Dalam Mengelola Kas ······················································· 113
+   G. Menentukan Kas Yang Optimal ····················································· 113
+   H. Model Manajemen Kas EOQ (Economic Order Quantity) ············ 113
+   I. Rangkuman Materi ········································································ 116
+BAB 8 MANAJEMEN PERSEDIAAN ·························································119
+   A. Pendahuluan ·················································································· 120
+   B. Persediaan ···················································································· 122
+   C. Fungsi Persediaan ········································································· 124
+   D. Kelompok-Kelompok Persediaan··················································· 127
+   E. Klasifikasi Dalam Persediaan ······················································· 128
+   F. Ketidakpastian Dalam Persediaan Barang ····································· 136
+   G. Pentingnya Manajemen Persediaan Bagi Bisnis ···························· 137
+
+                                                  v
+   H. Metode Manajemen Persediaan Barang Untuk Bisnis ·················· 137
+   I. Model Kuantitas Pesanan Poduksi ················································ 138
+   J. Sistem Pengendalian Persediaan ·················································· 139
+   K. Mengendalian Waktu ··································································· 139
+   L. Pengaturan Waktu ········································································· 140
+   M. Rangkuman Materi ········································································ 140
+BAB 9 PENGAWASAN ASET TETAP ························································147
+   A. Pendahuluan ·················································································· 148
+   B. Pengertian Aset Tetap ··································································· 149
+   C. Pengertian dan Tujuan Pengawasan Aset Tetap ··························· 151
+   D. Be2ntuk Pengawasan Atas Aset Tetap ·········································· 152
+   E. Pengendalian Internal Atas Aset Tetap ········································· 155
+   F. Pencatatan Atas Aset Tetap ·························································· 158
+   G. Rangkuman Materi ········································································ 159
+BAB 10 DASAR-DASAR PENGANGGARAN MODAL DAN INVESTASI
+PENGGANTIAN ····················································································163
+   A. Pendahuluan ·················································································· 164
+   B. Pentingnya Penganggaran Modal·················································· 165
+   C. Klasifikasi Proyek-Proyek Investasi ················································ 165
+   D. Proses Penganggaran Modal ························································· 166
+   E. Metode Penilaian Investasi ··························································· 167
+   F. Investasi Penggantian ···································································· 177
+   G. Keterbatasan Dana ········································································ 179
+   H. Rangkuman Materi ········································································ 180
+BAB 11 BREAK-EVEN POINT ··································································189
+   A. Pendahuluan ·················································································· 190
+   B. Pengertian Break Even Point ························································· 191
+   C. Asumsi-Asumsi Analisa BEP ··························································· 194
+   D. Penerapan Analisa BEP ·································································· 203
+   E. Rangkuman Materi ········································································ 205
+BAB 12 MANAJEMEN RISIKO KEUANGAN ·············································209
+   A. Pendahuluan ·················································································· 210
+   B. Pengertian Manajemen Keuangan dan Risiko ······························· 211
+   C. Manajemen Risiko Keuangan ······················································· 212
+
+                                                 vi
+   D. Jenis Risiko ····················································································· 213
+   E. Pengelolaan Risiko ········································································ 220
+   F. Rangkuman Materi ········································································ 222
+BAB 13 FINANCIAL DISTRESS ································································224
+   A. Pendahuluan ·················································································· 226
+   B. Pengertian Financial Distress························································· 227
+   C. Indikator Financial Distress···························································· 228
+   D. Jenis-Jenis Financial Distress ························································· 232
+   E. Penyebab Timbulnya Financial Distress ········································ 233
+   F. Cara Mencegah Financial Distress ················································· 235
+   G. Cara Mengatasi Financial Distress ················································· 237
+   H. Pengaruh Financial Distress Terhadap Keuangan ························· 242
+   I. Rangkuman Materi ········································································ 243
+GLOSARIUM ························································································246
+PROFIL PENULIS ···················································································253
+
+
+
+
+                                                   vii
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 1: TINJAUAN UMUM
+MANAJEMEN KEUANGAN
+
+
+
+Rini Astuti, S.E., M.M
+
+Universitas Islam Kadiri Kediri
+  BAB 1
+TINJAUAN UMUM MANAJEMEN
+KEUANGAN
+
+A. PENDAHULUAN
+    Manajemen keuangan penting dipelajari untuk banyak orang yang
+hendak menggunakan uangnya seefektif dan se-efisien mungkin, terlebih
+bagi mereka yang hendak berbisnis, manajemen keuangan adalah salah
+satu bidang yang fokus pada penggunaan modal, uang pinjaman, dan dana
+bisnis lainnya secara efisien dan efektif serta proses pengambilan
+keputusan yang tepat untuk memaksimalkan keuntungan dan
+penambahan nilai suatu entitas. Secara garis besar, manajemen keuangan
+adalah proses kegiatan merencanakan, mengatur, mengarahkan dan
+mengendalikan kegiatan keuangan, seperti pengadaan dan pemanfaatan
+dana perusahaan. Seluruh kegiatan tersebut diterapkan sesuai dengan
+prinsip-prinsip manajemen umum untuk sumber daya keuangan
+perusahaan. Kegiatan atau aktivitas perusahaan diawasi oleh manajemen
+keuangan. Sebab, mereka bertugas untuk mengelola pendanaan modal
+kerja, menggunakannya, mengalokasikan, dan mengelola aset tersebut
+untuk mencapai tujuan utama perusahaan. (rini astuti, mawar ratih k,
+2021)
+    Boleh dikatakan manajemen keuangan adalah kendaraan penting
+untuk perusahaan mencapai tujuan finansialnya. Tidak hanya fokus pada
+keuangan perusahaan, manajemen keuangan juga sumber daya manusia
+(SDM) perusahaan yang menjalankan keuangan. Selain itu, fungsi
+manajemen keuangan adalah untuk memastikan bahwa semuanya
+
+2 | Manajemen Keuangan Perusahaan
+                      DAFTAR PUSTAKA
+
+Abarca, R. M. (2021). manajemen keangan. Nuevos Sistemas de
+       Comunicación e Información, 2013–2015.
+Izzaty, R. E., Astuti, B., & Cholimah, N. (1967). manajemen keuangan.
+       Angewandte Chemie International Edition, 6(11), 951–952., 5–24.
+Musthafa. (2018). Manajemen Keuangan. ISSN 2502-3632 (Online) ISSN
+       2356-0304 (Paper) Jurnal Online Internasional & Nasional Vol. 7
+       No.1, Januari – Juni 2019 Universitas 17 Agustus 1945 Jakarta, 53(9),
+       1689–1699. www.journal.uta45jakarta.ac.id
+Naidu, D. . (2003). Optimal control System. In Lecture Notes in Control and
+       Information Sciences (Vol. 400). https://doi.org/10.1007/978-1-
+       84996-101-1_6
+rini astuti, mawar ratih k, lina saptaria. (2021). penghitungan hpp. 2(4),
+       1103–1112.
+Sap, R. P. S. D. A. N., & Utara, U. S. (2017). Prodi Diploma Iii Keuangan
+       Fakultas Ekonomi Dan Bisnis Kontrak Perkuliahan , Manajemen
+       Keuangan I.
+Selekta, K., Umum, T., & Keuangan, M. (n.d.). Tinjauan umum manajemen
+       keuangan.
+
+
+
+
+20 | Manajemen Keuangan Perusahaan
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 2: RUANG LINGKUP
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+
+Budi Rustandi Kartawinata, S.E., M.M
+
+Universitas Telkom
+  BAB 2
+RUANG LINGKUP MANAJEMEN
+KEUANGAN PERUSAHAAN
+
+A. PENDAHULUAN
+     Fungsi keuangan adalah merupakan salah satu fungsi yang vitas dalam
+sebuah organisasi individu maupun masyarakat dalam bidang bisnis
+ataupun non bisnis. Sektor keuangan mendorong mobilisasi tabungan
+untuk digunakan secara produktif melalui investasi. Sektor keuangan
+menjadi sebuah sektor yang menjadi penting bagi keberlanjutan organisasi
+terutama organisasi bisnis. Tujuan dari bisnis adalah melakukan sebuah
+usaha demi keuntungan yang bermacam macam. Profit atau laba
+merupakan satu satunya variable dalam sebuah bisnis. Sektor yang
+keuangan yang bagus tentunya bisa menghasilkan profit bagi
+organisasinya. Sebuah perusahaan memiliki tanggung jawab kepada
+sejumlah pihak yang berkepentingan. Pihak-pihak yang berkepentingan
+dalam sebuah perusahaan adalah dapat di lihat dalam gambar di bawah
+ini:
+
+
+
+
+22 | Manajemen Keuangan Perusahaan
+5. Jelaskan mengenai Teori Keagenan dan berikan contohnya dalam
+   sebuah perusahaan!
+
+
+
+                     DAFTAR PUSTAKA
+
+BUKU :
+Brigham, Eugene F. and Houston, Joel F. (2001). Fundamental Of Financial
+      Management. Ohio : South-Western.
+Husnan, Suad dan Enny Pudjiastuti. (1994). Dasar-Dasar Manajemen
+      Keuangan. Yogyakarta. UPP AMP YKPN
+Van Horne, C. James dan Wachowicz, Jr., John M. (2008) Fundamental Of
+      Financial Management. United Kingdom. Pearson Education Limited.
+Titman, Sheridan dan Keown Arthur J. & Martin John D. (2018). Financial
+      Management Principles and Aplications. United Kingdom. Pearson
+      Education Limited
+Sana, Ashish Kumar et.al. (2017). Financial Management. Chennai India.
+      Mc Graw Hill.
+Sartono, Agus. (2010). Manajemen Keuangan Teori dan Aplikasi. Edisi 4.
+      Yogyakarta. BPFE
+Gittman, Lawrence J. (2009). Principle Of Financial Management. Boston.
+      Pearson Prentice Hall.
+Riyanto, Bambang. (2001). Dasar-Dasar Pembelanjaan Perusahaan.
+      Yogyakarta. BPFE
+
+
+
+
+                        Ruang Lingkup Manajemen Keuangan Perusahaan | 37
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 3: PERAN MANAJER
+KEUANGAN
+
+
+
+Enok Nurhayati, S.E., M.Si
+
+FEB Universitas Sultan Ageng Tirtayasa
+  BAB 3
+PERAN MANAJER KEUANGAN
+
+A. PENDAHULUAN
+     Perusahaan adalah sebuah organisasi yang didirikan dengan tujuan
+untuk memperoleh laba (keuntungan), baik itu perusahaan besar atau pun
+perusahaan kecil. Pendiriannya diorientasikan untuk mendapatkan
+keuntungan (profit oriented). Setiap aktivitas usaha (bisnis) dalam suatu
+perusahaan tidak akan pernah terlepas dari manajemen keuangan. Dalam
+hal ini peran seorang manajer keuangan sangat dibutuhkan dalam hal
+menjaga kelancaran dan keberlanjutan perusahaan, misalnya dalam
+menjaga kelancaran proses produksi melalui pengalokasian dana
+(allocation of fund) untuk kegiatan produksi, atau aktivitas bisnis lainnya.
+Disamping bagaimana dana itu diperoleh dari sumber-sumber dana yang
+bisa diakses oleh perusahaan, serta keputusan atau kebijakan dividen.
+     Pesatnya perkembangan teknologi informasi (digitalisasi) sekarang ini
+semakin membuka peluang siapa saja baik individu atau perusahaan untuk
+melakukan transaksi keuangan secara cepat, kapan dan di mana pun
+berada dengan dukungan jaringan informasi yang baik. Persaingan antar
+perusahaan yang semakin ketat, munculnya produk-produk baru yang
+berkualitas dengan mudah dan terjangkau harganya, perubahan teknologi,
+seringnya terjadi krisis energi, timbulnya kesadaran terhadap lingkungan
+dan tanggung jawab sosial membuat tugas seorang manajer, tidak
+terkecuali manajer keuangan semakin berat, dan hal tersebut tentu saja
+akan mempengaruhi keputusan-keputusan investasi yang akan
+dilaksanakan. Berbagai keputusan tentunya diambil atau dilaksanakan
+oleh manajer keuangan sebagai tanggung jawab utamanya, diantaranya
+
+40 | Manajemen Keuangan Perusahaan
+                     DAFTAR PUSTAKA
+
+Astuti, Novi Fuji. 2021,”Mengenal Fungsi Manajer Keuangan dalam
+       Perusahaan,              Penting           dan           Krusial’,
+       https://www.merdeka.com/jabar/mengenal-fungsi-manajer-
+       keuangan-dalam-perusahaan-penting-dan-krusial-kln.html
+Atmaja, Lukas Setia. 2008.“Teori dan Praktik – Manajemen Keuangan”,
+       Penerbit Andi, Yogyakarta.
+Halim, Abdul. 2015,”Manajemen Keuangan Bisnis – Konsep dan
+       Aplikasinya”, Penerbit Mitra Media
+Hanafi, Mamduh. 2015,”Manajemen Keuangan”, Edisi 1, Penerbit BPFE
+       Yogyakarta.
+Harjito, Agus dan Martono, 2012.”Manajemen Keuangan”, Edisi Kedua,
+       Penerbit Ekonisia, Yogyakarta.
+Harmono, 2009,”Manajemen Keuangan – Berbasis Balance Scorecard
+       Pendekatan Teori, Kasus, dan Riset Bisnis”, Penerbit Bumi Aksara,
+       Jakarta.
+Husnan, Suad. 2000,”Manajemen Keuangan – Teori dan Penerapan
+       (Keputusan Jangka Panjang)”, Edisi 4, Buku 1, Penerbit BPFE
+       Yogyakarta.
+Sartono, Agus. 2011,”Manajemen Keuangan Teori dan Aplikasi”. Penerbit
+       BPFE, Yogyakarta.
+Sartono, Agus. 2001,”Manajemen Keuangan Teori dan Aplikasi”. Penerbit
+       BPFE, Yogyakarta.
+Sjahrial, Dermawan. 2007,”Manajemen Keuangan”, Penerbit Mitra
+       Wacana Media, Jakarta.
+Stoner, et.all, 1996,”Manajemen”, Jilid Satu, Edisi Bahasa Indonesia,
+       Penerbit Prenhallindo, Jakarta.
+Syamsudin, Lukman. 2007.“Manajemen Keuangan Perusahaan – Konsep
+       Aplikasi dalam Perencanaan, Pengawasan, dan Perencanaan dan
+       Pengambilan Keputusan”, edisi baru. Penerbit Rajawali Press,
+       Jakarta.
+Widodo, dkk. 2002,”Kamus Ilmiah Populer”, Penerbit Absolut, Yogyakarta.
+
+
+50 | Manajemen Keuangan Perusahaan
+http://manajemen.uma.ac.id/2021/04/peran-manajer-
+       keuangan/#:~:text=Manajer%20keuangan%20adalah%20orang%20y
+       ang,pertumbuhan%20dan%20niat%20baik%20perusahaan.
+https://www.jurnal.id/id/blog/2018-tugas-dan-tanggung-jawab-manajer-
+       keuangan/
+https://infobanknews.com/tantangan-operasional-yang-dihadapi-
+       pimpinan-keuangan-saat-ini/
+https://ekonomi.bisnis.com/read/20210326/9/1372777/6-tantangan-
+       yang-dihadapi-cfo-di-era-pandemi-covid-19. 6 Tantangan yang
+       Dihadapi CFO di Era Pandemi Covid-19 37 persen CFO di Indonesia
+       memiliki bakat dan kepiawaian dalam berkolaborasi. Newswire -
+       Bisnis.com 26 Maret 2021 | 06:05 WIB
+
+
+
+
+                                            Peran Manajer Keuangan | 51
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 4: PERILAKU MANAJEMEN
+KEUANGAN
+
+
+
+Joselina Tuhuteru, S.E., M.M
+
+Universitas Kristen Indonesia Maluku (UKIM)
+  BAB 4
+PERILAKU MANAJEMEN
+KEUANGAN
+
+A. PENDAHULUAN
+     Berbagai penelitian terdahulu kelihatannya tidak konsisten dengan
+efisiensi pasar. Selain penelitian terdahulu, terdapat argument teoritis
+yang melemahkan Efficiency Market Hypotesis. Sebagian besar argumet
+datang dengan judul “limit to arbitrage”. Sebagai hasil dari penelitian
+terdahulu, beberapa peneliti dalam beberapa dekade ini telah mencoba
+untuk kembali berpikir tentang bagaimana pengambilan keputusan
+keuangan dibentuk oleh psikologi manusia (Ackert and Deave, 2010).
+Seperti dalam disiplin ilmu psikologi sendiri, para peneliti mempelajari
+banyak fenomena perilaku yang berbeda. Keuangan perilaku atau perilaku
+manajemen keuangan masih merupakan bidang yang relatif baru dalam
+bidang keuangan dan masih sering dikritik karena tidak memiliki kerangka
+kerja terpadu. Tetapi berbagai kritik sering kali tidak menghalangi manfaat
+mengakui pentingnya psikologi untuk memahami keputusan investor
+secara individu, praktisi keuangan, pasar dan juga bagi para manajer
+perusahaan.
+     John Maynard Keynes, ekonom paling berpengaruh di abad ke-20
+mencatat pengaruh psikologi dalam pengambilan keputusan keuangan.
+Mempertimbangkan bagian dalam bukunya yang berjudul The General
+Theory Of Employment, Interest and Money” yang pertama kalli
+dipublikasikan pada tahun 1936:
+
+
+
+54 | Manajemen Keuangan Perusahaan
+                      DAFTAR PUSTAKA
+
+Abeyrathna, S. P. G. M. (2020). Factor Affecting to Personal Financial
+       Management Behavior of Government Employees in Sri Lanka.
+       International Journal of Scientific and Research Publications. Volume
+       10, Issues 5.
+Ackert F. L, Deaves R. (2010). Behavioral Finance – Psychology, Decision
+       Making and Market. South Western Cengage Learning, Mason USA.
+Dew, J., & Xiao, J. J. (2011). The Financial Management Behavior Scale :
+       Development and Validation. Journal of Financial Counseling and
+       Planning, 22(1), 43–59.
+Furnham, A., 1984. Many sides of a coin: The psychology of money usage,
+       Personality and Individual Differences, (5)5: 95-103
+Hilgert, M. A., Hogarth, J. M., & Beverly, S. G. (2003). Household financial
+       management: The connection between knowledge and behavior.
+       Federal Reserve Bulletin, 89, 309-322.
+Humaira, I., & Sagoro, E. M. (2018). Pengaruh Pengetahuan Keuangan,
+       Sikap Keuangan, Dan Kepribadian Terhadap Perilaku Manajemen
+       Keuangan Pada Pelaku Umkm Sentra Kerajinan Batik Kabupaten
+       Bantul. Nominal, Barometer Riset Akuntansi Dan Manajemen, 7(1).
+       https://doi.org/10.21831/nominal.v7i1.19363
+Ida, & Dwinta, C. Y. (2010). Pengaruh Locus of Control, Financial
+       Knowledge, Income Terhadap Financial Management Behavior.
+       Jurnal Bisnis Dan Akuntansi, 12(3), 131–144.
+Kholilah Naila Al, Iramani Rr . 2013. Studi Financial Management Behavior
+       pada Masyarakat Surabaya,Journal of Business and Banking Volume
+       3, No. 1: 69 – 80. DOI: http://dx.doi.org/10.14414/jbb.v3i1.255
+Mien,Nguyen Thi Ngoc dan Thao,Tran Phuong. (2015). Factors Affecting
+       Personal Financial Management Behaviors: Evidence from Vietnam.
+       Proceedings of the Second Asia-Pacific Conference on Global
+       Business, Economics, Finance and 2020 Volume 01 Nomor 04 Juli 73
+       Social Sciences (AP15 Vietnam Conference) ISBN: 978-1-63415-833-
+       6. 10-12 July, 2015.Danang-Vietnam
+
+
+                                           Perilaku Manajemen Keuangan | 69
+Novianti, S., Tanjung, A. R., & Darlis, E. (2016). PENGARUH LOCUS OF
+       CONTROL, FINANCIAL KNOWLEDGE, INCOME TERADAP FINANCIAL
+       MANAGEMENT BEHAVIOR. JURNAL EKONOMI, 24(3), 141–152
+Perry, V.G., Morris, M.D., 2005. Who is control? The role of self-perception,
+       knowledge, and income in explaining consumer financial behaviour,
+       Journal of Consumer Affairs, 39(2): 299-312.
+Robb, C. A., Woodyard, A., 2011. Financial knowledge and best practice
+       behaviour. Journal of Financial Counselling and Planning, 22(1): 60-
+       70
+Pompian M. Michael. (2012). Behavioral Finance and Investor Types. John
+       Wiley and Sons, Inc., Hoboken, New Jersey.
+Rachmiyantono, R. (2019). Financial Knowledge Dan Locus of Control
+       Dalam Financial Management (Studi Empiris Keluarga Di Kecamatan
+       Demak Kabupaten Demak Provinsi Jawa Barat). Jurnal Ilmiah UNTAG
+       Semarang, 8(1), 107–115.
+
+
+
+
+70 | Manajemen Keuangan Perusahaan
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 5: KONSEP LIKUIDITAS DAN
+PENGELOLAANNYA
+
+
+
+Dr. Hj. Listiana Sri Mulatsih, S.E., M.M
+
+LLDIKTI X, DPK Fakultas Ekonomi dan Bisnis Universitas Bung Hatta
+  BAB 5
+KONSEP LIKUIDITAS DAN
+PENGELOLAANNYA
+
+A. PENDAHULUAN
+    Manajemen Keuangan Perusahaan, merupakan salah satu fungsi
+perusahaan, khususnya perusahaan Bisnis. Tiga fungsi Manajemen
+Keuangan Perusahaan yang harus dikuasai adalah manajemen pendanaan,
+manajemen alokasi dana dan kebijakan dividen. Manajemen Pendanaan
+merupakan keputusan tentang sumber pendanaan. Manajemen alokasi
+dana meliputi kebijakan manajemen dana operasional perusahaan dan
+manajemen investasi.     Manajemen dana operasional perusahaan
+bertujuan mengelola kebutuhan dana untuk kelancaran operasional
+perusahaan. Biasanya pemakaian dana tidak lebih dari satu tahun.
+Kebijakan dana operasional perusahaan meliputi manajemen Kas dan
+Surat Berharga, Manajemen Piutang dan Manajemen Persediaan.
+Manajemen likuiditas berkenaan dengan manajemen alokasi dana untuk
+jangka waktu satu tahun, dan menetapkan arus kas yang mampu
+membuat keputusan keuangan yang lebih baik. Untuk mengelola likuiditas
+perusahaan, dibutuhkan pemahaman mengenai Laporan Keuangan,
+Menganalisis Laporan Keuangan sebagai dasar pengambilan keputusan
+dalam pengelolaan dan pendanaan jangka pendek terkait likuiditas.
+
+
+
+
+72 | Manajemen Keuangan Perusahaan
+                    DAFTAR PUSTAKA
+
+Rodoni, Ahmad dan Ali, Herni. (2010). Manajemen Keuangan, Mitra
+      Wacana Media, Jakarta
+Ross, A.Stephen, Westerfield, W. Randolph, and Faffe, Jaffrey. (2005).
+      Corporate Finance. McGraw Hill/rwin, a business unit of The
+      McGraw Hill Companies Inc, America
+Sartono, Agus R. (1996). Manajemen Keuangan: Edisi 3. BPFE, Yogyakarta
+Sudana, I Made.(2015). Manajemen Keuangan Perusahaan: Teori & Praktik.
+      Erlangga, Jakarta
+
+
+
+
+                                 Konsep Likuiditas dan Pengelolaannya | 87
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 6: EFISIENSI MODAL KERJA
+
+
+
+
+Agustina Muliyani, S.E., M.M
+
+Sekolah Tinggi Ilmu Ekonomi (STIE) Dahani Dahanai Buntok – Kalimantan Tengah
+  BAB 6
+EFISIENSI MODAL KERJA
+
+A. PENDAHULUAN
+    Manajemen adalah suatu proses perencanaan, pengorganisasian,
+pengarahan dan pengawasan sumber daya untuk mencapai tujuan yang
+telah ditetapkan oleh suatu perusahaan. Untuk mencapai tujuannya,
+perusahaan harus dapat memantau dan mengendalikan kegiatan
+operasional perusahaan dengan menggunakan pihak-pihak di dalam
+perusahaan yang memiliki wewenang, tugas dan tanggung jawab dalam
+melaksanakan tujuan tersebut.
+    Keuangan adalah kegiatan yang berkaitan dengan memperoleh dan
+mengelola dana secara efektif dan efisien sesuai dengan tujuan yang telah
+ditetapkan oleh suatu perusahaan.
+    Pengelolaan keuangan adalah suatu kegiatan yang dilakukan dengan
+tujuan memperoleh dana dengan biaya yang diatur secara longgar dan
+mengelola dana tersebut secara efektif untuk mencapai tujuan
+perusahaan.
+    Modal kerja merupakan masalah penting yang sering dihadapi oleh
+setiap perusahaan, baik itu perusahaan besar maupun perusahaan kecil.
+Karena hal ini, hampir semua perhatian dipusatkan pada pengelolaan
+modal kerja dan aktiva lancar. Modal kerja sangat dibutuhkan oleh setiap
+perusahaan yang ingin memulai usaha untuk mendanai kegiatan
+operasionalnya sehari-hari, seperti untuk memberikan tambahan
+pembelian bahan baku, mendanai gaji karyawan, mendanai sewa gedung
+dan operasional yang lainnya, di mana uang atau dana yang dikeluarkan
+harus dapat mengalir kembali ke usaha tersebut dalam waktu yang singkat,
+
+90 | Manajemen Keuangan Perusahaan
+                      DAFTAR PUSTAKA
+
+Brigham, Eugene F and Joel F.Houston, 2006. Dasar-Dasar Manajemen
+       Keuangan. Alih bahasa Ali Akbar Yulianto. Edisi sepuluh. Jakarta : PT.
+       Salemba Empat.
+Djarwanto. 2001. Pokok-pokok Analisa Laporan Keuangan. Edisi Kedua,
+       Cetakan Pertama. Yogyakarta : BPPE.
+Husnan, S. 2007. Manajemen Keuangan Teori dan Penerapan (Keputusan
+       Jangka Panjang). Yogyakarta: BPFE.
+Jumingan. 2005. Analisis Laporan Keuangan. Jakarta : Bumi Aksara
+Kasmir. 2010. Pengantar Manajemen Keuangan. Jakarta : Kencana
+       Prenada Media Group.
+Kasmir. 2012. Analisis Laporan Keuangan. Jakarta : PT. Raja Grafindo
+       Persada
+Munawir. 2010. Analisis Laporan Keuangan. Cetakan Kelima Belas.
+       Yogyakarta : Liberty Yogyakarta.
+Riyanto, B. 2008. Dasar-dasar Pembelanjaan Perusahaan. Yogyakarta :
+       BPFE.
+Sidauruk, Lasriani dan Dr. Kornel Munthe. 2014. Pengaruh Efisiensi Modal
+       Kerja, Likuiditas dan Leverage Terhadap Profitabilitas Pada
+       Perusahaan Industri Barang Konsumsi yang Terdaftar Di BEI. Jurnal
+       Manajemen dan Bisnis. Vol. 14. No. 1.
+Syamsuddin, Lukman. 2007. Manajemen Keuangan Perusahaan : Konsep
+       Aplikasi dalam Perencanaan, Pengawasan, dan Pengambilan
+       Keputusan. Jakarta : PT Raja Grafindo Persada.
+Weston, J. Fred dan Thomas E. Copeland. 1991. Manajemen Keuangan.
+       Alih Bahasa : Yohanes Lamarto dan Mariana Adinata. Edisi
+       Kedelapan. Jakarta: Erlangga
+Wibowo Agus, Wartini Sri. Efisiensi Modal Kerja, Likuiditas Dan Leverage
+       Terhadap Profitabilitas Pada Perusahaan Manufaktur Di BEI.
+       Fakultas Ekonomi, Universitas Negeri Semarang : Jurnal Dinamika
+       Manajemen. JDM Vol. 3, No. 1, 2012, pp : 49-58
+Wild, J. J. 2005. Financial Statement Analisis. Jakarta : Salemba Empat
+
+
+                                                    Efisiensi Modal Kerja | 103
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 7: MANAJEMEN KEBUTUHAN
+KAS
+
+
+
+Adilla Juita Siska, S.E., M.M
+
+ITB Haji Agus Salim Bukittinggi
+  BAB 7
+MANAJEMEN KEBUTUHAN KAS
+
+A. PENDAHULUAN
+    Globalisasi merupakan suatu era dimana kalangan dunia usaha
+dituntut lebih efektif dalam menjalankan usahanya, hal ini dikarenakan
+tidak ada lagi batasan batasan yang timbul antar negara, termasuk dalam
+bisnis dan persaingan usaha. Setiap perusahaan dituntut harus bisa
+mengelola perusahaannya dengan baik agar dapat bersaing dengan
+perusahaan perusahaan lain baik bagi perusahaan domestik maupun
+perusahaan asing.
+    Pada suatu perusahaan tentunya memiliki tujuan tertentu yang mana
+tujuan ini harus dapat menjamin kelangsungan hidup dari perusahaan
+tersebut. Tentunya suatu tujuan dari setiap perusahaan itu berbeda beda,
+tergantung dari perusahaan tersebut berjenis dan berbentuk seperti apa.
+Untuk mencapai suatu tujuan yang telah ditentukan oleh suatu
+perusahaan tersebut, perusahaan harus dapat memanfaatkan sumber
+yang ada. Sumber yang dimaksud, salah satunya yaitu dengan bagaimana
+cara perusahaan dapat mengelola kas perusahaan dengan efisien, yang
+mana diharapkan dapat membantu perusahaan dalam mencapai tujuan
+perusahaan tersebut.
+    Dalam suatu bisnis, kas memiliki peranan penting untuk menjaga
+operasional perusahaan berjalan dengan baik. Penggunaan kas
+diantaranya untuk membayar gaji karyawan, membayar pajak, dan
+membayar deviden kepada pemegang saham. Selain itu kas juga membuat
+perusahaan mampu membayar kreditur dan pemasok pada waktu yang
+telah disepakati sehingga dapat menjaga hubungan baik, kas juga
+
+106 | Manajemen Keuangan Perusahaan
+                     DAFTAR PUSTAKA
+
+Brigham, Eugebne. (2015). Dasar-Dasar Manajemen Keuangan. Jakarta:
+       Salemba Empat.
+Hanafi, Mamduh. (2014). Manajemen Keuangan. Yogyakarta: UPP STIM
+       YKPN.
+Hardiyanto. (2015). Pengaruh Perputaran Kas, Perputaran Persediaan dan
+       Perputaran Piutang Terhadap Profitabilitas. Universitas Telkom.
+Pretty, A. (2021). Model Manajemen Kas. Modal Rakyat.
+Sartono, A. (2001). Manajemen Keuangan Teori dan aplikasi. Yogyakarta:
+       BEF.
+Sujarweni, V. W. (2015). Manajemen Keuangan (Teori Aplikasi dan Hasil
+       Penelitian). Jakarta: Pustaka Baru Pres.
+Surya, S. e. (2017). Pengaruh Perputaran Kas dan Perputaran Persediaan
+       Terhadap Profitabilitas. Sekolah Tinggi Ilmu Ekonomi STAN
+       Indonesia Mandiri: Jurnal Ilmu Akuntansi Vol.10 No.2.
+Yustisia, N. (2017). Manajemen Kas. Perbanas Institute: DosenPerbanas.id.
+
+
+
+
+118 | Manajemen Keuangan Perusahaan
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 8: MANAJEMEN PERSEDIAAN
+
+
+
+
+Rozzana Erziaty, S.P., M.P
+
+Universitas Islam Kalimantan MAB
+  BAB 8
+MANAJEMEN PERSEDIAAN
+
+A. PENDAHULUAN
+     Manajemen persediaan merupakan sistem-sistem untuk mengelola
+persediaan. Bagaimana barang-barang persediaan dapat diklasifikasikan
+dan seberapa akurat catatan persediaan dapat dijaga. Kemudian, kita akan
+mengamati kontrol persediaan dalam sektor pelayanan. Manajer operasi
+diseluruh dunia telah menyadari bahwa manajemen persediaan yang baik
+sangatlah penting. Di satu sisi, sebuah perusahaan dapat mengurangi
+biaya dengan mengurangi persediaan. Di sisi lain, produksi dapat berhenti
+dan pelanggan menjadi tidak puas ketika sebuah barang tidak tersedia.
+Tujuan manajemen persediaan adalah menentukan keseimbangan antara
+investasi persediaan dengan pelayanan pelanggan. Anda tidak akan
+pernah mencapai sebuah strategi berbiaya rendah tanpa manajemen
+persediaan yang baik (Heizer & Render, 2014:512).
+     Keakuratan Catatan Persediaan adalah prasyarat bagi manajemen
+persediaan, penjadwalan, produksi dan pada akhirnya penjualan.
+Keakuratan bisa dipertahankan dengan sistem periodik atau perpetual.
+Sistem periodik memerlukan persediaan secara teratur (periodik) untuk
+menentukan kuantitas persediaan di tangan. Beberapa peritel kecil dan
+dimana fasilitas persediaan yang dikelola oleh penjual barang (penjual
+barang memeriksa kuantitas persediaan di tangan dan 8 menyediakannya
+kembali seperlunya) menggunakan sistem periodik. Meskipun demikian
+kelemahan sistem periodik adalah kurangnya pengendalian antara
+tinjauan dan perlunya membawa persediaan tambahan untuk
+melindunginya dari kekurangan persediaan. Variasi dari sistem periodik
+
+120 | Manajemen Keuangan Perusahaan
+                     DAFTAR PUSTAKA
+
+Heizer dan Render. (2014). Manajemen Operasi. Jakarta: Salemba Empat
+Heizer, Jay dan Render, Barry. (2015). Manajemen Operasi: Manajemen
+      Keberlangsungan dan Rantai Pasokan. Terjemahan oleh Hirson
+      Kurnia, Ratna Saraswati, dan David Wijaya. Edisi 11. Jakarta:
+      Salemba Empat.
+Heizer, Jay dan Render, Barry. (2011). Operations Management. United
+      States of America: Pearson Education.
+Heizer, Jay dan Render, Barry. (2006). Operations Management.
+      Terjemahan oleh Dwianoegrawati Setyoningsih dan Indra Almahdy.
+      Edisi 7. Buku 2. Jakarta: Salemba Empat.
+Jacobs, F. Robert dan Chase, Richard B. (2011). Operations and Supply
+      Management 14th Global Edition. New York: McGraw-Hill Education.
+Russel, Roberta S.dan Taylor III, Bernard W. (2014). Operations and Supply
+      Chain Management. Singapore: John Wiley & Sons.
+Handoko, Hani T (2000). Dasar-dasar Manajemen Produksi dan Operasi.
+      BPFE. Yogyakarta
+Hansen, Don R dan Mowen, Maryane M. 2009. Akuntansi Manajerial
+      Diterjemahkan oleh Denny Amos Wari. Edisi 8. Salemba 4. Jakarta
+Harahap, Syaparudin. 2008. Manajemen Operasi. Edisi Ketiga. PT.
+      Grasindo. Jakarta
+Hasnan, Suad. 1993. Pembelanjaan Perusahaan (Dasar-dasar Manajemen
+      Keuangan), Edisi Keempat, Liberty, Yogyakarta
+Herjanto, Eddy. 1999. Manajemen Produksi dan Operasi, Edisi Kedua, PT
+      Gramedia Widiasarana Indonesia, Jakarta
+Martono dan Agus Hardjito. 2008. Manajemen Keuangan Edisi Pertama ,
+      Cetakan Ketujuh. Penerbit Ekonesia. Yogyakarta
+
+
+
+
+146 | Manajemen Keuangan Perusahaan
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 9: PENGAWASAN ASET
+TETAP
+
+Galih Wicaksono, S.E., M.Si., Akt., CA., BKP., ACPA., CRA., CRP., AWP., CPIA.,
+QWP., CHRM., CADE.
+
+Universitas Jember
+  BAB 9
+PENGAWASAN ASET TETAP
+
+A. PENDAHULUAN
+     Dewasa ini dalam menghadapi era globalisasi, perusahaan dituntut
+untuk dapat beroperasi secara efektif dan efisien, namun tetap dalam
+kerangka meraih tujuan utama yang ditetapkan oleh perusahaan yaitu
+memperoleh laba dan dalam rangka memakmurkan pemegang saham
+atau pemilik perusahaan. Manajemen sebagai pengelola perusahaan
+dirasa perlu memahami dengan baik hal tersebut, serta menggunakan
+keilmuan manajerial dalam mencapai tujuan perusahaaan. Salah satu
+cabang keilmuan manajemen yang dipakai adalah manajemen keuangan
+perusahaan, yang berfokus dalam bagaimana memperoleh sumber dana
+dan penggunaan sumber dana yang berasal dari berbagai sumber untuk
+ditanamkan dalam pemerolehan aset, salah satunya adalah aset tetap.
+Selain itu menurut Wicaksono dan Puspita (2020), manajemen juga perlu
+memahami pengelolaan modal kerja karena menentukan bagaimana
+besaran modal kerja dan pembiayaannya.
+     Aset tetap merupakan salah satu jenis aset yang dimiliki oleh
+perusahaan, selain aset lancar dan aset tidak lancar. Setiap perusahaan
+tentu saja memiliki aset tetap yang digunakan dalam mendukung
+operasional perusahaan sehari-hari. Hal ini dikarenakan sebagaimana
+definisi aset tetap yaitu aset yang dimiliki oleh perusahaan, tidak
+dimaksudkan untuk dijual, karena dipergunakan untuk mendukung
+operasional perusahaan, serta mempunyai manfaat jangka panjang yang
+biasanya lebih dari satu tahun. Contoh aset tetap antara lain tanah,
+bangunan, kendaraan, mesin, dan peralatan pendukung kantor seperti AC,
+meja, kursi, dan lemari. Keberadaan aset tetap ini akan tercermin pada
+
+148 | Manajemen Keuangan Perusahaan
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 10: DASAR-DASAR
+PENGANGGARAN MODAL DAN
+INVESTASI PENGGANTIAN
+
+
+Drs. Nurmatias, M.M., CFMP
+UPN Veteran Jakarta
+  BAB 10
+DASAR-DASAR PENGANGGARAN
+MODAL DAN INVESTASI
+PENGGANTIAN
+
+A. PENDAHULUAN
+    Perusahaan mengadakan suatu investasi dalam aktiva tetap dengan
+harapan memperoleh kembali dana yang diinvestasikan tersebut seperti
+halnya pada aktiva tetap. Perbedaannya adalah pada jangka waktu,
+pengembalian dana yang diinvestasikan dalam aktiva tersebut. Dalam
+proses perencanaan dan pengambilan keputusan mengenai dana di mana
+jangka waktu kembalinya melebihi waktu satu tahun disebut
+penganggaran modal atau Capital Budgeting.
+    Capital budgeting menjelaskan tentang perencanaan untuk
+membiayai proyek besar jangka panjang. Keputusan penganggaran modal
+memiliki efek yang sangat besar terhadap kondisi keuangan perusahaan
+untuk jangka panjang. Sebuah proyek yang didasarkan pada keputusan
+penganggaran modal yang baik, akan mendorong mengalirnya pemasukan
+(cash flow) perusahaan untuk jangka panjang. Sebaliknya, keputusan
+penganggaran modal yang tidak baik akibatnya dapat saja sebuah proyek
+atau sebuah perusahaan mengalami kebangkrutan. Keputusan
+penganggaran modal dapat pula digunakan sebagai dasar untuk
+pengambilan keputusan, barang atau jasa apa yang akan dibuat,
+bagaimana barang atau jasa itu dijual pada pelanggan? dan bagaimana
+cara menjualnya?
+
+
+164 | Manajemen Keuangan Perusahaan
+                     DAFTAR PUSTAKA
+
+Keown, A et al. (2000). Dasar-Dasar Manajemen Keuangan. Edisi Pertama.
+       Jakarta: Gramedia Pustaka Utama.
+Brigham, F,& Louis, G. (1993). Intermediate Financial Management.
+       Fourth Edition. New York: The Dryden Press.
+Brigham, F & Houston, F. (2011). Dasar-Dasar Manajemen Keuangan. Edisi
+       10. (Ali Akbar Yulianto, Penerjemah). Jakarta: Salemba Empat.
+Brigham, F & Houston, F. (2001). Manajemen Keuangan. Edisi Pertama.
+       Jakarta: Gelora Aksara Pratama.
+Weston, J & Brigham, F. (1998), Dasar-Dasar Manajemen Keuangan, Edisi
+       Sembilan, Aksara Pratama, Jakarta.
+Wachowicz, M & Van House, C. (1997). Prinsip-prinsip Manajemen
+       Keuangan. Edisi Kesembilan, Jakarta: Salemba Empat.
+Handoyo, M. (2009). Intisari Manajemen Keuangan. Jakarta: Grasindo.
+Dermawan, S. (2007). Manajemen Keuangan Lanjutan. Edisi Pertama.
+       Jakarta: Mitra Wacana Media.
+Atmaja, S. (2008). (Teori dan Praktik) Manajemen Keuangan. Yogyakarta:
+       Andi
+Sutrisno. (2003). Manajemen Keuangan. Yogyakarta: Ekonesia.
+
+
+
+
+               Dasar-Dasar Penganggaran Modal & Investasi Penggantian | 187
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 11: BREAK-EVEN POINT
+
+
+
+
+Dr. Hari Nugroho, S.E., M.M., M.S.E.
+
+Universitas Pertamina
+  BAB 11
+BREAK-EVEN POINT
+
+A. PENDAHULUAN
+    Tujuan dasar perusahaan adalah untuk memaksimalkan keuntungan.
+Keuntungan ekonomi dari produksi barang atau jasa adalah perbedaan
+antara biaya produksi dan pendapatan yang diperoleh oleh penjualannya.
+Dalam ilmu ekonomi, laba yang diperoleh perusahaan dibagi menjadi dua
+bagian berikut:
+1. Laba ekonomi
+    Laba ekonomi atau economic profit atau super normal profit adalah
+jumlah di mana total pendapatan yang diperoleh oleh penjualan sejumlah
+output tertentu melebihi biaya totalnya atau dalam rumus dapat ditulis
+sebagai:
+    𝜋 = 𝑇𝑅 − 𝑇𝐶          ……………………………………………………. (13.1)
+
+2. Laba normal
+     Laba normal atau zero economic profit adalah jumlah minimum yang
+pengusaha harus dapatkan untuk mempertahankan usaha atau bisnisnya.
+Ini adalah biaya implisit dari fungsi seorang wirausaha. Situasi ini muncul
+ketika total pendapatan yang diperoleh dari penjualan suatu komoditas
+sama dengan total biayanya. Di lain kata, laba ekonomi nol atau laba
+normal = Total Pendapatan = Total biaya.
+     Analisis breakeven point adalah alat (tools) yang berguna untuk
+mendukung bisnis dalam menentukan keputusan bisnis dalam jangka
+pendek dan jangka panjang dalam berbagai rentang. Tujuan dari analisis
+breakeven point adalah untuk menentukan tingkat (level) aktivitas bisnis
+
+190 | Manajemen Keuangan Perusahaan
+                      DAFTAR PUSTAKA
+
+Anderson, R., L., & Dunkelberg, J. S. (1993). Managing Small Businesses.
+      West Group.
+Potkany, M., & Krajcirova, L. (2015). Quantification of the Volume of
+      Products to Achieve the Break-Even Point and Desired Profit in Non-
+      Homogeneous Production. Procedia Economics and Finance, Vol. 26,
+      pages: 194-201.
+Usry, M., F., Carter, W., K., & Hammer, L., H. (1994). Cost Accounting, 11th
+      Edition. Cincinnati: South-Western Publishing Co.
+Zimmerer, T., Scarborough, N., M., & Wilson, D. (2005). Essentials of
+      Entrepreneurship and Small Business Management, 4th Edition. New
+      Jersey: Prentice Hall.
+
+
+
+
+208 | Manajemen Keuangan Perusahaan
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 12: MANAJEMEN RISIKO
+KEUANGAN
+
+
+
+Drajat Sugiarto, S.P., M.M
+
+PT. BNI (Persero) TBK
+  BAB 12
+MANAJEMEN RISIKO KEUANGAN
+
+A. PENDAHULUAN
+    Manajemen keuangan merupakan salah satu fungsi dalam sebuah
+perusahaan yang memiliki peran penting dalam menjaga kesinambungan
+perusahaan (sustainability), melalui pengelolaan keuangan perusahaan
+dalam pencapaian laba (profitability) dan upaya menjamin
+berkembangnya nilai perusahaan di masa yang akan datang (Growth).
+Disamping fungsi-fungsi lainnya seperti manajemen pemasaran,
+manajemen operasional dan manajemen sumber daya manusia, fungsi
+manajemen keuangan dalam sebuah perusahaan memegang peranan
+yang cukup penting tetapi juga bersifat sangat riskan, jika tidak dikelola
+dengan baik akan dapat mengganggu bahkan menghentikan jalannya
+sebuah perusahaan. Risiko yang dapat timbul dalam pengelolaan
+keuangan perusahaan dapat disebabkan faktor nilai tukar, pasar keuangan,
+suku bunga, likuiditas, dan permodalan. Risiko risiko yang timbul tersebut
+perlu dikelola dengan baik sehingga bisa diminimalisir dan dimitigasi
+potensi kejadiannya dan jika sampai risiko tersebut terjadi dapat
+diminimalisir dampak negatifnya.
+    Dalam bab ini akan diuraikan mengenai apa yang dimaksud dengan
+manajemen risiko keuangan, risiko apa saja yang dapat timbul dari
+aktifitas pengelolaan keuangan perusahaan, dan bagaimana langkah atau
+strategi perusahaan dalam mengelola risiko yang timbul, mungkin tidak
+secara komprehensif namun diharapkan dapat menjadi pertimbangan
+dalam pengambilan keputusan manajemen untuk memperhatikan potensi
+
+
+210 | Manajemen Keuangan Perusahaan
+                     DAFTAR PUSTAKA
+
+Ikatan Bankir Indonesia (2015) Manajemen Risiko I Mengidentifikasi Risiko
+      Pasar, Operasional, dan Kredit Bank. PT.Gramedia Pustaka Utama
+Agus.Sartono, R. (2000), Ringkasan Teori Manajemen Keuangan; Soal dan
+      Penyelesaiannya. Yogyakarta BPFE.
+Bramantyo.Djohanputro, MBA, Ph.D (2006), Manajemen Risiko Korporate
+      Terintegrasi.      Jakarta, PPM.
+Mardiyanto, H. (2009), Intisari Manajemen Keuangan; Teori, Soal, dan
+      Jawaban. Jakarta, Grasindo
+Dety.Mulyanti, Dr. M.Pd (2017) Manajemen Keuangan Perusahaan. Akurat
+      Jurnal Ilmiah Akuntansi Vol.8 No.2, Bandung
+Heny.Maryoto (2011), Cara Penilaian Risiko Menurut BI
+      https://henimaryoto.blogspot.com/2011/10/cara-penilaian-risiko-
+      menurut-BI/
+David.Kurmawa.Subagio, Sahala.Manalu (2017), Analisis Risiko Bisnis dan
+      Risiko Keuangan Perusahaan Keluarga Sektor Industri Barang
+      Konsumsi. Arthavidya Jurnal Ilmiah Ekonomi Vol.19 No.2, FEB
+      Universitas Wisnu Wardana Malang.
+Binus University (2019), Mengenal dan Mengelola Risiko Keuangan
+      https://maksi.binus.ac.id/2019/09/17/mengenal-dan-mengelola-
+      risiko-keuangan/
+
+
+
+
+224 | Manajemen Keuangan Perusahaan
+MANAJEMEN KEUANGAN
+PERUSAHAAN
+BAB 13: FINANCIAL DISTRESS
+
+
+
+
+Jennisa Dwina Indriani, S.E., M.Si., Ak., CA
+
+Institut Teknologi dan Bisnis HajiAgus Salim Bukittinggi
+  BAB 13
+FINANCIAL DISTRESS
+
+A. PENDAHULUAN
+    Aspek ekonomi Indonesia dihadapkan pada kondisi memprihatinkan
+akibat pandemi covid-19, berbagai sektor industri mengalami kendala
+dalam proses operasi usaha. Perusahaan-perusahaan mulai mengalami
+kesulitan keuangan bahkan bisa berdampak menimbulkan kerugian.
+Kesulitan keuangan yang disebut juga dengan istilah financial distress
+dialami perusahaan sebagai sinyal antisipasi sebelum akhirnya benar-
+benar mengalami kerugian. Kerugian yang dialami perusahaan bisa
+ditimbulkan dari faktor internal maupun eksternal perusahaan. Kurang
+bagusnya pengelolaan keuangan perusahaan merupakan salah satu faktor
+internal yang menyebabkan financial distress. Disamping itu, financial
+distress juga disebabkan oleh faktor eksternal perusahaan. Penurunan
+kondisi perekonomian akibat krisis ekonomi secara global maupun
+dampak dari kondisi perekonomian dunia yang rentan terhadap resiko
+seperti wabah pandemic Covid-19, juga berimbas terhadap penurunan
+permintaan dan produksi serta terkendalanya operasi usaha suatu
+perusahaan. Hal ini perlu mendapat perhatian lebih bagi pihak manajemen
+agar kebangkrutan yang mungkin menghampiri dapat dihindari.
+    Resesi ekonomi pada tahun 2020 akibat pandemi global menyebabkan
+kesulitan keuangan tidak hanya bagi perusahaan tetapi juga banyak
+individu atau perorangan. Seperti hal nya bagi perusahaan, perorangan
+pun harus memahami dan menyadari kondisi keuangan mereka. Financial
+distress adalah suatu kondisi dimana perusahaan atau individu tidak dapat
+menghasilkan pendapatan atau keuntungan atau pun laba yang cukup,
+
+226 | Manajemen Keuangan Perusahaan
+                      DAFTAR PUSTAKA
+
+Almilia, L. S. 2006. "Prediksi Kondisi Financial Distress Perusahaan Go
+       Public dengan Menggunakan Analisis Multinomial Logit". Jurnal
+       Ekonomi dan Bisnis. Volume XII, No. 1. (Maret): hal. 1-26
+Anggini, Eri Tri. 2021. Mengenal Financial Distress, Faktor Penyebab, Cara
+       Mencegah dan Mengatasinya : https://blog.amartha.com/financial-
+       distress/
+Arini, Lusia Asri. 2021. Analisis Laporan Keuangan.
+Brigham dan Daves. 2012. Imadiate Financial Management. Tenth Edition.
+       Chenge Learning: Shouth Western.
+Darsono dan Ashari. 2005. Pedoman Praktis Memahami Laporan
+       Keuangan. Yogyakarta : CV. Andi Offset
+Fahmi, Irham. 2013. Analisis Laporan Keuangan, Cetakan Ke-3. Bandung :
+       Alfabeta.
+Gamayuni, R. R. (2011). Analisis Ketepatan Model Altman Sebagai Alat
+       Untuk Memprediksi Kebangkrutan. Jurnal Akuntansi dan Keuangan,
+       vol. 16 No.2, 176-190
+Hanafi, Mamduh M. dan Abdul Halim. 2009. Analisis Laporan Keuangan,
+       Edisi 4. Yogyakarta : UPP STIM YKPN
+Ramadhani, Niko. 2021. Financial Distress : Pengertian dan Contohnya
+       https://www.akseleran.co.id/blog/financial-distress-adalah/
+Redaksi Pintek. 2021. https://pintek.id/blog/cara-mencegah-financial-
+       distress/
+Redaksi                   OCBC                  NISP.               2021.
+       https://www.ocbcnisp.com/en/article/2021/07/21/financial-
+       distress
+Schuppe, W. P. (2003). Leading a turnaround. Secured Lender, 59(4), 8-8.
+Smith, M., & Graves, C. (2005). Corporate turnaround and financial
+       distress. Managerial Auditing Journal, 20(3), 304-320.
+       https://doi.org/10.1108/02686900510585627
+Subramanyam. K. R dan John J. Wild. 2014. Analisis Laporan Keuangan.
+       Penerjemah Dewi Y. Jakarta: Salemba Empat.
+
+
+                                                     Financial Distress | 245
+PROFIL PENULIS
+Rini Astuti, S.E., M.M.
+                  Penulis lulus S1 di Program Studi manajemen, STIE
+                  Malang Kucecwara Tahun 2008. Lulus S2 di Program
+                  Studi manajemen Pascasarjana Universitas Brawijaya
+                  Malang pada tahun 2003. Saat ini adalah dosen tetap Di
+                  Universitas Islam Kadiri Kediri Jawa Timur mengampu
+                  mata kuliah Kewirausahaan, Manajemen keuangan,
+                  manajemen resiko, penganggaran perusahaan, sistem
+perbankan, perencanaan keuangan perusahaan. Pernah memperoleh
+hibah penelitian DIKTI dalam PDP (Penelitian Dosen Pemula) dengan topik
+riset bidang Ilmu Sosial, Politik, Humaniora dan memperoleh HIBAH
+Program Kemitraan Masyarakat.
+
+Budi Rustandi Kartawinata, S.E., M.M.
+                  Penulis dilahirkan di Rangkasbtung pada tanggal 3 Juni
+                  1980. Masa kecilnya dihabiskan di 3 Kota berbeda yaitu
+                  Cirebon, Serang, dan Bandung dengan mengikuti
+                  tempat tugas ayahanda sebagai pegawai negeri sipil.
+                  Penulis menempuh masa Sekolah Dasar di SD Negeri 2
+                  Kota Serang, kemudian menjalani sekolah menengah
+                  pertama di SMPN 16 Kota Bandung, lalu menempuh
+sekolah menengah atas di SMAN 20 Bandung. Pendidikan Tinggi S1
+penulis di tempun di Universitas Komputer Indonesia di Kota Bandung
+pada Fakultas Ekonomi. Pendidikan S2 dilanjutkan di Program Pasca
+Sarjana Universitas Padjadjaran Bandung Program Magister Manajemen
+dengan konsentrasi Manajemen Keuangan. Dan sekarang penulis sedang
+menempuh pendidikan S3 di Program Doktor Ilmu Manajemen Pasca
+Sarjana Universitas Pasundan Bandung. Sekarang menulis mengabdi
+sebagai dosen tetap di Program Studi Administrasi Bisnis Fakultas
+Komunikasi dan Bisnis Universitas Telkom.
+
+
+
+
+                                                       Profil Penulis | 253
+Enok Nurhayati, S.E., M.Si.
+                   Penulis Lahir pada tahun 1972 di Kecamatan Menes
+                   Kabupaten Pandeglang Banten. Pada tahun 1996,
+                   penulis menyelesaikan pendidikan sarjana di Jurusan
+                   Manajemen Fakultas Ekonomi Universitas Sultan
+                   Ageng Tirtayasa. Pendidikan S2 diselesaikan tahun
+                   2007 pada Program Magister Sains Manajemen
+                   Universitas    Jenderal    Soedirman,    Purwokerto.
+Pengalaman mengajar di berbagai perguruan tinggi di Banten, khususnya
+di Serang, Cilegon dan Lebak. Saat ini penulis aktif mengajar pada S1
+Jurusan Manajemen, Program Studi D3 Perpajakan, Program Studi D3
+Perbankan dan Keuangan, dan Program Studi D3 Manajemen Pemasaran
+Fakultas Ekonomi dan Bisnis Universitas Sultan Ageng Tirtayasa, juga aktif
+sebagai tutor pada Fakultas Ekonomi dan Bisnis Universitas Terbuka
+(khususnya UPBJJ-UT Serang). Berbagai pelatihan juga telah diikuti
+diantaranya Manajemen Risiko, Digital Marketing, Audit Mutu dan Sistem
+Penjaminan Mutu, serta Manajemen Risiko Perguruan Tinggi. Menjadi
+anggota tim kajian pariwisata FEB Untirta, Gugus Penjaminan Mutu FEB
+Untirta, dan pernah menjabat Ketua Prodi D3 Pemasaran FEB Untirta
+(2009 – 2016). Penulisan BookChapter: Manajemen Risiko, Studi Kelayakan
+Bisnis, Kewirausahaan Dasar, dan Manajemen Keuangan Perusahaan.
+
+Joselina Tuhuteru, S.E., M.M.
+                   Penulis lahir di Hatusua, Maluku pada tanggal 6 Mei
+                   1989. Penulis menamatkan S1 Jurusan Manajemen
+                   pada tahun 2012 dan S2 Jurusan Magister Manajemen
+                   pada tahun 2014 di Fakultas Ekonomika dan Bisnis
+                   Universitas    Kristen   Satya    Wacana       Salatiga.
+                   Menyelesaikan Certified Business Valuer Certification di
+                   Academy of Finance and Management Australia pada
+Agustus 2021 dan Sertifikasi General Banking Level 1 pada Lembaga
+Sertifikasi Profesi Perbankan (LSPP) Jakarta, Oktober 2021 dengan
+pendanaan LPDP. Penulis mulai bekerja sebagai dosen pada tahun 2015 di
+Universitas Kristen Papua, Sorong. Sejak tahun 2018 sampai saat ini
+penulis bekerja sebagai dosen tetap pada Universitas Kristen Indonesia
+
+254 | Manajemen Keuangan Perusahaan
+Maluku. Mata Kuliah yang diampuh antara lain Manajemen Keuangan,
+Manajemen Pemasaran, Matematika Bisnis dan Ekonomi, Bank dan
+Lembaga Keuangan Bukan Bank, Akuntanai Dasar, Akuntansi Manajemen.
+
+Dr. Hj. Listiana Sri Mulatsih, SE.,MM
+                  Penulis dilahirkan di Solo, Jawa Tengah, 28 Juli 1969.
+                  Menyelesaikan Pendidikan pada             SDN No.29
+                  Purwoprajan I, Jebres, Solo ,1982; SMP Negeri IV Solo,
+                  1985, SMA Negeri IV Solo (1988), Program Studi
+                  Manajemen Fakultas Ekonomi Universitas Sebelas
+                  Maret Solo (1992), Magister Manajemen, Program
+                  Pascasarjana, Universitas Brawijaya, Malang, 2001, dan
+Program Doktor Ilmu Manajemen, Universitas Padjadjaran, Bandung
+(2014). Jenjang Karier sebagai Dosen dimulai sejak tahun 1994, sebagai
+Dosen PNS DPK di LLDIKTI X. Riwayat Jabatan Struktural yang pernah
+diamanahkan adalah Ketua Program Studi Manajemen (2005-2007), Ketua
+Program Studi Magister Sains Manajemen (2014-2017)dan (2019-2020),
+Dekan Fakultas Ekonomi dan Bisnis Universitas Bung Hatta (2017-2021).
+Jabatan Fungsional saat ini Lektor Kepala (619 kum) dan
+Pangkat/Golongan IV-B. Pembina dan Pengampu Mata Kuliah Perilaku
+Organisasi, Manajemen Sistim Informasi, Manajemen Keuangan,
+Metodologi Penelitian Bisnis, Metode Riset Bisnis (S2) Pengantar
+Manajemen, dan Filsafat Ilmu Manajemen. Pengalaman sebagai
+narasumber bimbingan teknis, Dewan Riset Daerah, Staf Ahli Kelitbangan
+Propinsi Sumatera Barat, Institut Pemeriksa Keuangan Negara Wilayah
+Sumatera Barat, Penulis dan Reviewer Jurnal.
+
+Agustina Muliyani, S.E., M.M.
+                 Penulis adalah salah satu dosen dan peneliti di bidang
+                 Manajemen, pada Sekolah Tinggi Ilmu Ekonomi (STIE)
+                 Dahani Dahanai Buntok. Tahun 2007 dipercaya untuk
+                 menjadi asisten dosen di kampusnya. Kecintaan pada
+                 dunia pendidikan diturunkan dari ayahnda penulis yang
+                 berprofesi seorang guru Matematika. Penulis juga telah
+                 menikah dan pasangan penulis juga merupakan seorang
+
+                                                       Profil Penulis | 255
+guru Bahasa Inggris. Dikelilingi orang-orang hebat di dunia pendidikan,
+membuat penulis semakin termotivasi dalam dunia pendidikan dan dalam
+bidang penelitian serta kepenulisan. Tina begitu dia disapa, mendapatkan
+Gelar Sarjana Ekonomi diperoleh dari Sekolah Tinggi Ilmu Ekonomi (STIE)
+Dahani Dahanai Buntok angkatan ke-III Tahun 2010. Kemudian pada tahun
+2019 berhasil memperoleh gelar Magister Manajemen, pada Universitas
+Islam Kalimantan Muhammad Arsyad Al-Banjari (UNISKA) Banjarmasin.
+Saat ini penulis mengajar pada mata kuliah Pengantar Akuntansi 1,
+Pengantar Akuntansi 2, Akuntansi Biaya, Manajemen Investasi,
+Komunikasi Bisnis dan Perpajakan Manajemen.
+Buku yang telah dihasilkan penulis adalah buku puisi dengan judul
+“Mencari Jati Diri”, buku Antologi Cerpen (karya bersama) dengan Judul
+“Mengukir Kisah Berjuta Makna”, menulis book chapter (karya bersama)
+dengan judul “Manajemen Bisnis di Era Pandemi Covid-19”, menulis book
+chapter (karya bersama) dengan judul “Manajemen Sumber Daya
+Manusia”, menulis book chapter (karya bersama) dengan judul
+“Komunikasi Bisnis”.
+
+Adilla Juita Siska, S.E., M.M.
+                   Penulis adalah anak pertama dari dua bersaudara.
+                   Penulis adalah dosen tetap di Institut Teknologi dan
+                   Bisnis Haji Agus Salim Bukittinggi sejak Tahun 2012
+                   sampai sekarang. Penulis mendapatkan Gelar Sarjana
+                   Ekonomi bidang Manajemen (Konsentrasi Manajemen
+                   Keuangan) dari Universitas Bung Hatta Padang pada
+                   tahun 2009 dan Magister Manajemen (Konsentrasi
+Manajemen Sumber Daya Manusia) Universitas Andalas pada tahun 2012.
+Dalam Perjalanan karirnya penulis pernah menjabat sebagai Sekretaris
+Prodi Manajemen di STIE Haji Agus Salim Bukittinggi tahun 2012 sd 2013
+yang sekarang sudah berubah bentuk menjadi Institute Teknologi dan
+Bisnis Haji Agus Salim. Saat ini penulis fokus menjadi dosen di ITB HAS
+Bukittinggi mengampu mata kuliah Manajemen Keuangan 1, Manajemen
+Keuangan II dan Manajemen Portofolio Investasi. Penulis mempunyai tiga
+orang anak yaitu: Muhammad Zafranda, Hanindya Azzahra Dan
+Muhammad Hanan Bilfaqih. Email Penulis : adillajuitasiska@gmail.com
+
+256 | Manajemen Keuangan Perusahaan
+Rozzana Erziaty, S.P., M.P.
+                 Penulis Lahir di Banjarmasin, 17 Mei 1973. Saat ini
+                 dosen aktif pada Program Studi Ekonomi Syariah
+                 Fakultas Studi Islam Universitas Islam Kalimantan
+                 Muhammad Arsyad AlBanjari Banjarmasin. Saat ini
+                 sedang menyelesaikan Studi Doktoral Ekonomi Islam di
+                 UIN Antasari Banjarmasin. Mata kuliah yang diampu
+adalah Perekonomian Indonesia. Penulis juga aktif dalam penelitian dan
+pengabdian masyarakat yang konsentrasi pada Pemberdayaan ekonomi
+masyarakat dan pengembangan UKM wanita.
+
+Galih Wicaksono, S.E., M.Si., Akt., CA., BKP., ACPA., CRA., CRP.,
+AWP., CPIA., QWP., CHRM., CADE.
+                   Penulis adalah Dosen di Program Studi Perpajakan,
+                   Jurusan Ilmu Administrasi, Fakultas Ilmu Sosial dan Ilmu
+                   Politik, Universitas Jember. Lulusan Magister Akuntansi
+                   Universitas Diponegoro (2013), Pendidikan Profesi
+                   Akuntansi Universitas Diponegoro (2010), Sarjana
+                   Ekonomi Akuntansi Universitas Islam Sultan Agung
+                   (2009), serta Sarjana Ekonomi Manajemen Universitas
+Diponegoro (2009). Bidang ilmu beliau adalah Perpajakan dan Akuntansi.
+Selain sebagai dosen, penulis juga seorang auditor internal dan aktif
+menjadi peneliti/narasumber/trainer pada pelatihan dan riset di bidang
+perpajakan, akuntansi, dan keuangan. Berkaitan dengan aktifitas
+akademik, penulis telah memenangkan hibah penelitian kompetitif
+nasional dan hibah pengabdian kepada masyarakat kompetitif nasional
+DRPM Kemenristekdikti, hibah penelitian dari Islamic Development Bank
+(IsDB), serta hibah penelitian dan pengabdian kepada masyarakat untuk
+tingkat Universitas Jember. Penulis juga merupakan reviewer pada
+berbagai jurnal nasional terakreditasi dan jurnal nasional. Sejauh ini,
+penulis telah menghasilkan karya ilmiah sejumlah 16 buah buku di bidang
+akuntansi, perpajakan, manajemen, keuangan, ekonomi dan bisnis. Sehari-
+hari penulis dapat dihubungi pada nomor Hp/Wa 081217435665 dan
+email galih.fisip@unej.ac.id
+
+
+                                                          Profil Penulis | 257
+Drs. Nurmatias, M.M., CFMP
+                   Penulis adalah Lektor dalam ilmu Manajemen di
+                   Fakultas Ekonomi dan Bisnis Universitas Pembangunan
+                   Veteran Jakarta (FEB UPNVJ). Memperoleh gelar
+                   Sarjana Ekonomi (Drs) dibidang Manajemen Fakultas
+                   Ekonomi Universiras Andalas Padang tahun 1987.
+                   Megister Manajemen (MM) darin IPWI Jakarta dengan
+                   Konsentrasi Manajemen Keuangan tahun 1995. Mulai
+Mengajar sebagai Dosen Tetap di Akademi Akuntansi Veteran (AKAVET)
+Jakarta tahun 1987 – 1992 dan juga Dosen Tetap di FEB UPNVJ dari tahun
+1992 sampai sekarang, saat ini aktif mengajar dan membimbing
+mahasiswa program sarjana. Pernah juga mengajar sebagai Dosen Tidak
+Tetap sejak tahun 1998 – 2015 di Fakultas Ekonomi dan Bisnis Universitas
+Mercu Buana (UMB) Jakarta. Telah menulis beberapa buku dan artikel
+bidang keuangan dan mempunyai minat penelitian dalam bidang
+corporate finance, Pasar Modal dan UMKM. Selain semua kegiatan
+tersebut diatas penulis pernah sebagai Editor Buku Manajemen Keuangan
+Perusahaan dengan pengarang Dr. JP Sitanggang yang diterbitkan oleh
+Mitra Wacana Media dan penah juga menjabat sebagaI Ketua program
+(Kaprog) S1 Manajemen dua periode (2008 – 2016) dan Sekretaris Jurusan
+(Sesjur ) Program sarjana (2016 – 2020) di FEB UPNVJ.
+
+Dr. Hari Nugroho, S.E., M.M., M.S.E.
+                  Penulis menamatkan studi S1 di Universitas Pelita
+                  Harapan, Karawaci, Tangerang dalam jurusan Akuntansi
+                  (S.E.) tahun 2006. Penulis lalu melanjutkan studi
+                  pascasarjana S2 ke Universitas Bina Nusantara dan lulus
+                  pada tahun 2008 dengan konsentrasi dalam
+                  manajemen keuangan (M.M.). Penulis kemudian
+                  melanjutkan studi S2 di Fakultas Ekonomi dan Bisnis
+Universitas Indonesia (FEB UI) dan lulus pada tahun 2011 dengan
+konsentrasi ekonomi internasional (M.S.E.). Pendidikan terakhir penulis
+adalah lulus dari Program Pascasarjana Ilmu Ekonomi S3 dari FEB UI
+dengan spesialisasi ekonomi makro pada tahun 2018 (Dr.). Penulis
+
+258 | Manajemen Keuangan Perusahaan
+memiliki ketertarikan dalam bidang ekonomi energi dan ekonomi makro.
+Beberapa penelitian yang telah dilakukan diterbitkan di beberapa jurnal
+nasional terakreditasi. Selain sebagai peneliti, penulis juga aktif menulis
+buku dalam topik matematika ekonomi, ekonomi energi dan ekonometri
+dengan harapan dapat memberikan kontribusi positif bagi bangsa dan
+negara yang sangat tercinta ini. Penulis saat ini aktif sebagai dosen pada
+jurusan Ekonomi di Universitas Pertamina. Penulis menyenangi olahraga
+alam bebas, traveling dan membaca buku.
+Email Penulis: hari.nugroho@yahoo.com
+
+Drajat Sugiarto, S.P., M.M.
+                  Penulis di Jakarta, 25 Agustus 1974, menyelesaikan
+                  Pendidikan program S1 di Institut Pertanian Bogor
+                  jurusan Manajemen Agribisnis dan menyelesaikan
+                  Program Magister Manajemen di Universitas Jenderal
+                  Soedirman Purwokerto. Saat ini penulis masih aktif
+                  sebagai praktisi di salah satu Bank BUMN, juga
+                  menyempatkan untuk mengajar di beberapa perguruan
+Tinggi Swasta khususnya bidang Perbankan dan Manajemen Risiko.
+
+Jennisa Dwina Indriani, S.E., M.Si., Ak., CA
+                   Penulis berasal dari Sumatera Barat yang lahir di Kota
+                   Payakumbuh pada tanggal 5 Juni 1988. Setelah
+                   menamatkan pendidikan sekolah menengah atas,
+                   penulis awalnya melanjutkan pendidikan ke Universitas
+                   Andalas pada jenjang Program Diploma III (D-3),
+                   Jurusan Keuangan Negara dan Daerah. Selanjutnya
+                   penulis melanjutkan pendidikan Strata Satu (S-1) ke
+UPI-YPTK Padang, Jurusan Akuntansi dengan Konsentrasi Perpajakan.
+Setelah itu, penulis melanjutkan Pendidikan Profesi Akuntansi (PPAk) di
+Universitas Andalas, dan kemudian juga melanjutkan pendidikan Strata
+Dua (S-2) Magister Akuntansi dengan Konsentrasi Akuntansi Keuangan di
+Universitas Andalas. Saat ini, penulis merupakan dosen Tetap Prodi S1
+Akuntansi di Institut Teknologi dan Bisnis Haji Agus Salim Bukittinggi
+sebagai dosen pengampu mata kuliah bidang perpajakan dan auditing.
+
+                                                          Profil Penulis | 259
+

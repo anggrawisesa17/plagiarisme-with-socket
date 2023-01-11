@@ -1,0 +1,1594 @@
+Edukatif : Jurnal Ilmu Pendidikan Volume 1 Nomor 3 Tahun 2019 Halaman 294-302
+
+EDUKATIF: JURNAL ILMU PENDIDIKAN
+Research & Learning in Education
+https://edukatif.org/index.php/edukatif/index
+
+PERSEPSI DOSEN TERHADAP LAYANAN APLIKASI E-LKD UIN AR-RANIRY
+DENGAN MENGGUNAKAN TECHNOLOGY ACCEPTENCE MODEL (TAM)
+Andika Prajana1, Yuni Astuti2
+UIN Ar-Raniry,Banda Aceh,Indonesia
+Universitas Negeri Padang, Sumatera Barat, Indonesia2
+Email : andikaprajana@ar-raniry.ac.id1, 2yuniastuti@fik.unp.ac.id2
+ABSTRAK
+Teknologi informasi dan telekomunikasi memberikan pengaruh pada aktifitas pendidikan dari tingkat sekolah dasar maupun
+tingkat perguruan tinggi. Perguruan Tinggi merupakan lembaga formal yang diharapkan dapat melahirkan tenaga kerja
+kompeten yang siap menghadapi revolusi industri 4.0 seiring dengan kemajuan teknologi. Keahlian kerja, kemampuan
+beradaptasi dan pola pikir yang dinamis menjadi tantangan bagi sumber daya manusia, salah satunya sebagai dosen pada
+Perguruan Tinggi. Dalam upaya pengawasan mutu dosen di UIN Ar-Raniry Banda Aceh, Indonesia terhadap Tri Dharma
+Perguruan Tinggi mereka menggunakan aplikasi berbasis online E-LKD (Electronic “Laporan Kinerja Dosen”). Aplikasi ini
+dimanfaatkan sebagai sarana dalam pelaporan kegiatan per-semester dosen dan juga sebagai penilaian asesor lingkungan
+perguruan tinggi dalam memutuskan kelayakan tunjangan sertifikasi dan tunjangan remunerasi bagi dosen-dosen UIN ArRaniry. Tujuan meneliti ini adalah membuktikan secara empiris pengaruh antara variabel perceived usefulnes, technology
+support dan perceived ease of use terhadap attitude toward dan terhadap behavior intention dalam menggunakan fitur dan
+layanan dalam aplikasi E-LKD. Penelitian menggunakan metode studi kasus, dengan melihat karakteristik masalah yang
+berkaitan dengan latar belakang dan kondisi saat ini dari subjek yang diteliti, serta interaksinya dengan lingkungan. Penelitian
+ini menggunakan data kuisioner terhadap 100 orang dosen UIN-Raniry. Hasil dari penelitian ini menunjukkan bahwa variabel
+presepsi kemudahan, kualitas dukungan teknologi dan presepsi kegunaan secara parsial berpengaruh signifikan terhadap sikap
+dan perilaku dosen.
+Kata Kunci: Manfaat yang dirasakan, TAM (Technology Acceptence Model)
+ABSTRACT
+Information technology and telecommunications have an influence on educational activities from the elementary school
+level as well as the tertiary level. Higher Education is a formal institution that is expected to produce competent
+workforce that is ready to face the industrial revolution 4.0 along with technological advancements. Work skills,
+adaptability and a dynamic mindset become challenges for human resources, one of which is as a lecturer at tertiary
+institutions. In an effort to supervise the quality of lecturers at UIN Ar-Raniry Banda Aceh, Indonesia against the Tri
+Dharma of Higher Education they use an online application based on E-LKD (Electronic "Lecturer Performance
+Report"). This application is used as a tool in reporting semester activities of lecturers and also as an assessment of
+tertiary environmental assessors in deciding the eligibility of certification allowances and remuneration allowances for
+UIN Ar-Raniry lecturers. The purpose of this research is to empirically prove the influence between perceived usefulnes,
+technology support and perceived ease of use variables on attitude toward and behavior intention in using features and
+services in E-LKD applications. The research uses the case study method, by looking at the characteristics of the
+problems related to the background and current conditions of the subjects studied, as well as their interactions with the
+environment. This study uses questionnaire data on 100 UIN-Raniry lecturers. The results of this study indicate that the
+variable perceived ease, quality of technological support and usefulness perception partially have a significant effect on
+lecturers' attitudes and behavior.
+Keywords: TAM (Technology Acceptence Model), perceived usefulnes
+@Edukasi: Jurnal Ilmu Pendidikan FIP UPTT 2019
+
+ Corresponding author :
+Address :
+Email :
+Phone :
+
+ISSN 2656-8063 (Media Cetak)
+ISSN 2656-8071 (Media Online)
+
+Edukasi : Jurnal Ilmu Pendidikan Vol 1 No 3 Desember 2019 p-ISSN 2656-8071 e-ISSN 2656-8063
+
+295 Persepsi dosen terhadap layanan aplikasi E-LKD UIN AR-Raniry dengan menggunakan Technology Acceptence
+Model (TAM) – Andika Prajana, Yuni Astuti
+
+PENDAHULUAN
+Memanfaatkan teknologi sebagai saluran
+
+Industri 4.0 inilah menjadi tantangan dan peluang
+
+berkembangnya
+
+juga
+
+diharapkan melahirkan tenaga kerja kompeten,
+
+menciptakan manfaat praktis dan efisiensi terhadap
+
+profesional, mampu berkompetisi siap menghadapi
+
+perencanaan, proses dan evaluasi pendidikan.
+
+industri kerja yang kian berkembang seiring
+
+Perkembangan teknologi juga mempengaruhi gaya
+
+dengan kemajuan teknologi. Keahlian kerja,
+
+hidup masyarakat atau yang lebih kita kenal
+
+kemampuan beradaptasi dan pola pikir yang
+
+dengan istilah warganet sehingga bermunculan
+
+dinamis menjadi tantangan bagi sumber daya
+
+banyak inovasi di dunia teknologi sebagai
+
+manusia, salah satunya tenaga pendidik pada
+
+contohnya adalah pemanfaatan gawai (gadget),
+
+pendidikan formal di Perguruan Tinggi. Untuk
+
+surat elektronik (email), dan aplikasi pesan singkat
+
+menciptakan sumber daya manusia yang inovatif
+
+(chatting) serta teknologi sosial media. Pada
+
+dan adaptif terhadap teknologi, sangat dibutuhkan
+
+dasarnya teknologi dan sumber daya menjadi
+
+penyesuaian sarana dan prasarana pembelajaran
+
+senjata paling efektif dalam memenuhi kebutuhan
+
+dalam hal yang berkaitan dengan teknologi
+
+manusia yang tak terbatas, inovasi produk dan
+
+informasi,
+
+layanan baru menciptakan tantangan dan peluang
+
+komputerisasi.
+
+yang sangat luas.(Lamb & Hair, n.d.) Jaringan
+
+memfasilitasi infrastruktur pembelajaran yang
+
+internet dalam teknisnya merupakan inovasi
+
+diharapkan mampu menghasilkan tenaga pendidik
+
+teknologi yang memecahkan masalah komunikasi
+
+yang terampil dalam aspek literasi teknologi,
+
+ruang dan waktu antara satu sama lain. Menurut
+
+literasi manusia dan literasi data.
+
+ilmu
+
+pengetahuan
+
+dan
+
+perguruan tinggi sebagai lembaga formal yang
+
+Lani Sidharta, pengertian internet adalah suatu
+bentuk
+
+interkoneksi
+
+dari
+
+sebuah
+
+internet,
+
+UIN
+
+analisa
+
+big
+
+Perguruan
+
+Ar-Raniry
+
+data
+
+tinggi
+
+dan
+
+dituntut
+
+merupakan
+
+lembaga
+
+jaringan
+
+formal Pendidikan Tinggi yang berada di Banda
+
+komputer, dimana dapat memberikan bentuk
+
+Aceh Propinsi Aceh. Dalam perjalanannya UIN
+
+layanan informasi secara lengkap. Lebih lanjut
+
+Ar-Raniry
+
+Lani mengatakan bahwa internet juga merupakan
+
+perkembangan dan kemajuan dalam berbagai
+
+rekan maya atau virtual yang ampuh, yang biasa
+
+bidang. Visi dan Misinya, Sumber Daya Manusia,
+
+digunakan dalam media bisnis, politik, dan bahkan
+
+Sarana
+
+untuk hiburan semata. (Sidharta, 1996)
+
+perkembangan sesuai dengan tuntutan zaman. UIN
+
+Pada tahun 2018 ketika Peringatan Hari
+Pendidikan
+
+Nasional
+
+muncul
+
+telah
+
+dan
+
+mengalami
+
+Prasarana
+
+telah
+
+berbagai
+
+mengalami
+
+Ar-Raniry sendiri terdiri dari 9 Fakultas dan 43
+
+pembahasan
+
+Program Studi, sedangkan dosen nya berjumlah
+
+Revolusi Industri 4.0 di berbagai kalangan.
+
+541 orang. Dalam upaya pengawasan mutu dosen
+
+Revolusi industri 4.0 dalam pandangan Teknologi
+
+terhadap Tri Dharma Perguruan Tinggi, UIN Ar-
+
+Informasi mengisyaratkan pada perubahan cara
+
+Raniry sendiri menggunakan aplikasi berbasis
+
+kerja dengan menitikberatkan pada pengelolaan
+
+online E-LKD. Aplikasi ini dimanfaatkan sebagai
+
+data, sistem kerja industri melalui kemajuan
+
+sarana dalam pelaporan kegiatan per-semester
+
+teknologi terkini, komunikasi dan peningkatan
+
+dosen
+
+efisiensi kerja terkait dengan interaksi manusia.
+
+lingkungan perguruan tinggi dalam memutuskan
+
+Pengelolaan dan analisa data menjadi kebutuhan
+
+kelayakan tunjangan sertifikasi dan tunjangan
+
+utama organisasi dalam proses pengambilan
+
+remunerasi bagi dosen-dosen UIN Ar-Raniry.
+
+dan
+
+juga
+
+sebagai
+
+penilaian
+
+asesor
+
+keputusan korporat yang terintegrasi oleh daya
+
+Aplikasi ini sudah mengalami berbagai
+
+komputasi dan sistem penyimpanan data. Revolusi
+
+perubahan dari aplikasi Microsoft Access ke
+
+Edukasi : Jurnal Ilmu Pendidikan Vol 1 No 3 Desember 2019 p-ISSN 2656-8071 e-ISSN 2656-8063
+
+296 Persepsi dosen terhadap layanan aplikasi E-LKD UIN AR-Raniry dengan menggunakan Technology Acceptence
+Model (TAM) – Andika Prajana, Yuni Astuti
+
+aplikasi Web Base dimana dulunya dikerjakan
+
+dalam penelitian ini adalah untuk membuktikan
+
+secara manual dan sekarang sudah berbasis
+
+secara empiris:
+
+website atau online. Aplikasi ini menawarkan
+
+1. Untuk mengetahui dan menguji pengaruh
+
+kemudahan dimana pemeriksaan berkas Laporan
+
+persepsi manfaat, persepsi kemudahan, dan
+
+Kinerja Dosen oleh asesor tidak dibatasi oleh
+
+persepsi kualitas teknologi terhadap sikap
+
+ruang dan waktu. Artinya, dosen tidak perlu
+
+Dosen.
+
+bertemu asesor dalam verifikasi berkas karena
+
+2. Untuk pengaruh persepsi manfaat, persepsi
+
+dosen sudah meng-unggah semua berkas laporan
+
+kemudahan, persepsi kualitas teknologi dan
+
+kinerja mereka. Bertumbuh kembangnya layanan
+
+sikap Dosen terhadap Perilaku Dosen.
+
+digital di dunia akademik berbasis aplikasi online
+merubah
+
+akan
+
+merubah
+
+tenaga
+
+persepsi manfaat, persepsi kemudahan, persepsi
+
+pendidik/dosen, dimana dosen ini cepat memahami
+
+kualitas teknologi berpengaruh terhadap Perilaku
+
+sebuah perubahan namun begitu juga cepat
+
+Dosen melalui sikap Dosen dalam menggunakan
+
+berkeluh kesah terhadap sesuatu yang dianggap
+
+fitur dan layanan yang ditawarkan dalam aplikasi
+
+tidak sesuai dengan kebutuhan yang dimiliki.
+
+E-LKD. (Sugihartono, Harahap, Setiawati, &
+
+Reaksi ini akan menimbulkan aksi yang merespon
+
+Nurhayati, 2007) menjelaskan persepsi adalah
+
+perilaku dosen menggunakan sebuah teknologi.
+
+dimana
+
+(Martin Fishbein, 1981) mengemukakan bahwa
+
+menterjemah stimulus yang diinput kedalam indera
+
+persepsi dan reaksi seseorang terhadap sesuatu hal,
+
+manusia.
+
+akan menentukan sikap dan perilaku orang
+
+perbedaan sudut pandang dalam penginderaan.
+
+tersebut. Dari teori ini menghasilkan model
+
+Bisa diartikan bahwa ada yang mempersepsikan
+
+perilaku sebagai suatu fungsi dari tujuan perilaku
+
+sesuatu itu baik dan ada juga yang buruk yang
+
+seseorang dan tujuan perilaku ditentukan oleh
+
+akan mempengaruhi tindakan nyata manusia.
+
+aspek sikap atas perilaku tersebut. (M Fishbein &
+
+(Walgito & Walgito, 2004) mengungkapkan
+
+Ajzen, 1975) mengemukakan sebuah teori yaitu
+
+bahwa
+
+Theory of Reasoned Action (TRA) dimana aksi
+
+pengorganisasian
+
+yang
+
+dilihat
+
+menginterpretasikan stimulus yang diterima oleh
+
+menggunakan variabel tertentu untuk mengukur
+
+individu sehingga menjadi sesuatu yang berarti.
+
+perilaku yang terjadi. (Schierz, Schilke, & Wirtz,
+
+Stimulus yang direspon dari individu tergantung
+
+2010) berpendapat bahwa kerangka model TAM
+
+oleh perhatian individu tersebut. Berdasarkan hal
+
+(Technology
+
+merupakan
+
+tersebut, kemampuan berfikir, perasaan, dan
+
+konstruk yang cukup akurat dalam mengukur dan
+
+pengalaman-pengalaman yang dimiliki individu
+
+mengadopsi sebuah teknologi. TAM merupakan
+
+tidaklah sama. (Waidi, 2006) mengungkapkan
+
+teori
+
+dari
+
+bahwa setiap orang mempunyai kecenderungan
+
+menggunakan
+
+dalam melihat satu benda dalam waktu yang sama
+
+dilakukan
+
+permasalahan
+konstruk
+
+seseorang
+
+Acceptence
+
+turunan
+
+dari
+di
+
+TAM
+
+perilaku
+
+Untuk menguji dan mengetahui apakah
+
+Model)
+
+teori
+
+atas
+untuk
+
+dapat
+
+TRA.
+
+peneliti
+
+Maka
+
+mengukur
+
+otak
+
+memiliki
+
+kemampuan
+
+untuk
+
+Dari persepsi manusia ini terjadi
+
+persepsi
+
+lebih
+dan
+
+kepada
+
+proses
+bagaimana
+
+bagaimana
+
+dengan cara yang berbeda-beda. Perbedaan itu
+
+Persepsi Reaksi dan Aksi Dosen UIN Ar-Raniry
+
+dipengaruhi oleh pengetahuan, pengalaman dan
+
+dalam menerima teknologi yang digunakan pada
+
+sudut pandangnya. Persepsi juga berhubungan
+
+layanan E-LKD. Berdasarkan perumusan masalah
+
+dengan cara pandang seseorang yang kemudian
+
+di atas, maka tujuan yang diharapkan tercapai
+
+mereka akan berusaha untuk menafsirkannya.
+
+Edukasi : Jurnal Ilmu Pendidikan Vol 1 No 3 Desember 2019 p-ISSN 2656-8071 e-ISSN 2656-8063
+
+297 Persepsi dosen terhadap layanan aplikasi E-LKD UIN AR-Raniry dengan menggunakan Technology Acceptence
+Model (TAM) – Andika Prajana, Yuni Astuti
+
+(Rakhmat,
+
+2007)
+
+menyatakan
+
+persepsi
+
+adalah objek yang diamati dimana objek diperoleh
+
+individu yang ditujukan pada sekumpulan
+objek.
+
+dengan cara menyimpulkan informasi kemudian
+
+Dari uraian diatas terdapat faktor-faktor
+
+menafsirkan pesan. Sedangkan, Suharman (2005)
+
+dimana
+
+menyatakan bahwa persepsi itu
+
+cara
+
+individu berbeda meskipun objek yang dilihat itu
+
+menginterpretasikan informasi melalui sistem alat
+
+persis sama. Persepsi personal maupun kelompok
+
+indera manusia.
+
+bisa jadi sangat berbeda meskipun situasinya sama.
+
+Menurut (Sunaryo, 2004) syarat-syarat terjadinya
+
+Hal ini timbul karena adanya perbedaan masing-
+
+persepsi adalah sebagai berikut:
+
+masing
+
+1. Memiliki objek yang akan dipersepsikan
+
+kepribadian, sikap dan juga motivasi yang
+
+2. Fokus terhadap perhatian
+
+dimiliki. Terbentuknya persepsi ini sudah jelas
+
+3. Device/Alat Indra penerima stimulus
+
+berproses dan terjadi dalam diri seseorang, namun
+
+4. Saraf sensoris untuk melanjutkan stimulus ke
+
+persepsi juga terpengaruh dengan pengalaman,
+
+suatu
+
+otak
+
+proses
+
+mewujudkan
+
+personal
+
+masing-masing
+
+atau
+
+pembelajaran
+
+kelompok
+
+dan
+
+persepsi
+
+dalam
+
+pengetahuannya.
+
+Dari penjelasan diatas terlihat bahwa objek
+
+Pengolahan data dengan menjalankan fungsi-
+
+yang dipersepsi harus fokus terhadap perhatian
+
+fungsi nya dengan perangkat komputer dikenal
+
+sehingga alat indra mampu menerima stimulus
+
+dengan istilah Pengolahan Data Elektronik (PDE).
+
+melalui
+
+untuk
+
+Pengolahan data (Data Processing) adalah proses
+
+selanjutnya bisa diputuskan oleh otak dalam
+
+merubah angka, huruf dan simbol sehingga
+
+menarik kesimpulan. Menurut Bimo Walgito
+
+menjadi data kemudian disajikan dalam bentuk
+
+(2004) faktor-faktor yang berperan dalam persepsi
+
+informasi yang berguna dan lebih berarti. Definisi
+
+dapat dikemukakan beberapa faktor, yaitu:
+
+Pengolahan Data Elektronik (PDE) menurut
+
+1. Objek yang dipersepsi
+
+(Bodnar & Hopwood, 2004) yaitu sebagai berikut :
+
+saraf
+
+sensoris
+
+menuju
+
+otak
+
+Objek menimbulkan stimulus yang menyentuh
+
+“Elektronic Data Processing (EDP) is the use of
+
+reseptor. Stimulus dapat datang dari individu
+
+computer technology to perform an organization
+
+lain yang mempersepsi, tetapi juga dapat datang
+
+transaction-oriented data processing. EDP is a
+
+dari dalam diri sendiri yang bersangkutan
+
+fundamental
+
+langsung mengenai syaraf penerima.
+
+application in every organization. As computer
+
+2. Alat indera, syaraf dan susunan syaraf
+
+accounting
+
+information
+
+system
+
+technology has become common place, the term
+
+Alat indera atau reseptor merupakan sebuah
+
+data processing (DP) has come to have the some
+
+alat penerima stimulus, kemudian ada saraf
+
+meaning as EDP“.
+
+sensoris untuk meneruskan stimulus menuju
+
+Dari definisi diatas kita bisa mengartikan
+
+pusat susunan saraf, yaitu otak sebagai pusat
+
+bahwa Pengolahan Data Elektronik (PDE) adalah
+
+kesadaran
+
+memanfaatkan
+
+sehingga
+
+membentuk
+
+persepsi
+
+seseorang.
+
+teknologi
+
+komputer
+
+dalam
+
+mengorganisasikan transaksi-transaksi pemrosesan
+
+3. Perhatian
+
+data. Elektronic Data Processing adalah aplikasi
+
+Perhatian adalah langkah mewujudkan persepsi
+
+sistem informasi akuntansi fundamental dalam
+
+dan juga merupakan langkah utama sebagai
+
+setiap organisasi. Karena teknologi sudah mejadi
+
+suatu
+
+adalah
+
+hal yang biasa maka istilah pemprosesan data
+
+kegiatan/aktifitas
+
+mulai dikenal dan mempunyai arti yang sama
+
+persiapan.
+
+konsentrasi
+
+dari
+
+Perhatian
+seluruh
+
+ini
+
+dengan Pengelolaan data elektronik. Dengan
+Edukasi : Jurnal Ilmu Pendidikan Vol 1 No 3 Desember 2019 p-ISSN 2656-8071 e-ISSN 2656-8063
+
+298 Persepsi dosen terhadap layanan aplikasi E-LKD UIN AR-Raniry dengan menggunakan Technology Acceptence
+Model (TAM) – Andika Prajana, Yuni Astuti
+
+menggunakan
+
+alat
+
+3. Tugas unsur penunjang Tri Dharma yang dapat
+
+elektronik komputer, kita dapat menghasilkan data
+
+diperhitungkan bobot sks-nya sesuai dengan
+
+yang lebih informatif dan sangat berarti. Di dalam
+
+aturan yang ada.
+
+sebuah
+
+pengolahan
+
+lembaga
+
+data
+
+perguruan
+
+dengan
+
+tinggi,
+
+dosen
+
+4. Tugas pengabdian kepada masyarakat dan tugas
+
+merupakan unsur terpenting dalam berjalannya
+
+penunjang ini paling sedikit setara dengan 3
+
+kegiatan akademik dimana dosen merupakan
+
+(tiga) sks.
+
+tenaga pendidik yang secara profesional dan
+
+5. Tugas
+
+khusus
+
+kewajiban
+
+bagi
+
+profesor
+
+merupakan seorang ilmuwan yang memiliki tugas
+
+sekurang-kurangnya setara dengan 3 sks setiap
+
+utama
+
+tahun (2 semester).
+
+melaksanakan
+
+mengembangkannya
+
+transformasi,
+
+itu
+
+Dosen yang mendapat penugasan sebagai
+
+menyebarluaskan ilmu pengetahuan, teknologi,
+
+pimpinan Perguruan Tinggi sampai dengan tingkat
+
+dan seni melalui pendidikan dan pengajaran,
+
+jurusan
+
+penelitian dan pengabdian kepada masyarakat.
+
+pendidikan paling sedikit sepadan dengan 3 (tiga)
+
+Sedangkan untuk jabatan akademik tertinggi pada
+
+SKS. Pada tahun 1989 Fred D. Davis untuk
+
+perguruan tinggi disebut dengan Profesor atau
+
+pertama kalinya memperkenalkan Technology
+
+Guru Besar yang mempunyai kewajiban khusus
+
+Acceptance Model (TAM). TAM ini dirancang
+
+seperti menulis buku dan karya ilmiah serta
+
+khusus untuk pengguna sistem informasi sebagai
+
+memberikan gagasannya dan berkotribusi untuk
+
+pemodelan adopsi. Tujuan utama TAM untuk
+
+mencerahkan masyarakat. Tugas utama dosen
+
+menelusuri
+
+adalah melaksanakan Tri Dharma Perguruan
+
+eksternal terhadap kepercayaan, sikap, dan tujuan
+
+Tinggi dengan beban kerja paling sedikit sepadan
+
+pengguna
+
+dengan 12 (dua belas) sks (sistem kredit semester)
+
+dikembangkan dari model yang dimiliki oleh
+
+dan paling banyak 16 (enam belas) sks pada setiap
+
+(Martin Fishbein & Ajzen, 1980) yaitu model The
+
+semester sesuai dengan kualifikasi akademiknya
+
+Theory of Reasoned Action (TRA), dimana TRA
+
+dengan ketentuan sebagai berikut (Pedoman BKD
+
+ini merupakan teori tindakan yang beralasan
+
+Dikti, 2010):
+
+dengan reaksi dan persepsi seseorang akan sesuatu
+
+1. Tugas melaksanakan unsur pendidikan dan
+
+hal, sehingga dapat menentukan sikap dan perilaku
+
+penelitian paling sedikit 9 (sembilan) sks atau 6
+
+seseorang tersebut. Technology Acceptance Model
+
+sks untuk pendidikan dan 3 sks untuk penelitian
+
+(TAM) dikembangkan saat ini lebih menjelaskan
+
+yang dilaksanakan pada
+
+Perguruan Tinggi
+
+kepada perilaku seseorang terhadap penggunaan
+
+dimana dia diberikan homebase/tempat NIDN
+
+teknologi dalam kehidupannya. Seirama dengan
+
+(nomor induk dosen nasional) terdaftar.
+
+Theory of Reasoned Action (TRA), TAM juga
+
+2. Tugas
+
+dan
+
+kemudian
+
+melaksanakan
+
+setelah
+
+pengabdian
+
+diwajibkan
+
+melaksanakan
+
+beberapa
+
+pengaruh
+
+komputer.
+
+Model
+
+Dharma
+
+dari
+
+faktor
+
+TAM
+
+ini
+
+kepada
+
+merupakan teori perilaku yang mendasar dan
+
+masyarakat yang diselenggarakan baik oleh
+
+berpengaruh terhadap tindakan yang dilakukan
+
+Perguruan Tinggi tempat bekerja atau lembaga-
+
+karena adanya minat atau rasa untuk ingin
+
+lembaga
+
+melakukan dan mengerjakannya.
+
+kemasyarakatan,
+
+LSM
+
+(Lembaga
+
+Swadaya Masyarakat), Komite-komite, atau
+
+(Jogiyanto, 2007) mengemukan bahwa ada tiga
+
+organisasi kepemudaan sesuai dengan peraturan
+
+komponen dalam model TAM ini:
+
+undang-undang yang berlaku.
+
+1. Minat berperilaku (behavioral intention)
+Mengukur kekuatan tujuan untuk melakukan
+tindakan.
+
+Harus
+
+diketahui
+
+bahwa
+
+“minat
+
+Edukasi : Jurnal Ilmu Pendidikan Vol 1 No 3 Desember 2019 p-ISSN 2656-8071 e-ISSN 2656-8063
+
+299 Persepsi dosen terhadap layanan aplikasi E-LKD UIN AR-Raniry dengan menggunakan Technology Acceptence
+Model (TAM) – Andika Prajana, Yuni Astuti
+
+perilaku” dan “perilaku” adalah dua hal yang
+
+bahwa : “Quality is the totality of feature and
+
+berbeda. Jogiyanto (2007) juga menjelaskan
+
+characteristics of a product or service that bear on
+
+bahwa Minat (intention) adalah keinginan
+
+its ability to satisfy stated or implied needs”
+
+untuk melakukan perilaku dan minat belum
+
+Artinya, kualitas adalah totalitas nya sebuah fitur
+
+merupakan perilaku yang telah diwujudkan.
+
+dan karakteristik yang memberikan kemampuan
+
+Sedangkan perilaku (behavior) adalah tindakan
+
+sebuah produk untuk memuaskan kebutuhan yang
+
+nyata yang dilakukan.
+
+dinyatakan maupun tidak. Dari kesimpulan diatas
+
+2. Sikap (attitude)
+
+timbul sebuah pertanyaan apakah aplikasi pada E-
+
+(Martin Fishbein, 1981) mendefinisikan sikap
+
+LKD Dosen ini sudah memenuhi kebutuhan dosen
+
+(attitude) adalah perasaan individu untuk
+
+dan perguruan tinggi itu, jawabannya tergantung
+
+menerima
+
+atau
+
+pada penilaian subjektif dosen dimana masing-
+
+beberapa obyek atau perilaku dan diukur
+
+masing mereka memiliki nilai tersendiri terhadap
+
+dengan sebuah prosedur yang memposisikan
+
+kualitas,
+
+individu tersebut pada skala evaluasi dua
+
+kualitas itu secara akurat
+
+ataupun
+
+menolak
+
+sebuah
+
+meskipun
+
+sulit
+
+untuk
+
+menjelaskan
+
+pilihan “ya” ataupun “tidak”. Jadi dapat
+disimpulkan sikap seseorang terhadap sistem
+
+METODE PENELITIAN
+
+informasi ataupun aplikasi, memperlihatkan
+seberapa jauh seseorang merasakan bahwa
+
+Penelitian ini adalah studi kasus di UIN Ar-
+
+aplikasi itu baik atau tidak baik sama sekali.
+
+Raniry
+
+Jogiyanto (2007) menjelaskan sikap adalah
+
+kuantitatif dengan karakteristik yang berhubungan
+
+sebagai evaluasi kepercayaan dari seseorang
+
+dengan latar belakang dan kondisi aktual dari
+
+ketika menentukan perilaku yang akan dia
+
+subjek yang diteliti yaitu dosen, serta interaksi
+
+lakukan.
+
+lingkungan perguruan tinggi. Dalam penelitian ini
+
+3. Norma subjektif (subjective norm) yang
+
+Banda
+
+Aceh,
+
+menggunakan
+
+metode
+
+populasinya adalah dosen UIN Ar-Raniry. Dalam
+
+mempengaruhi perilaku (behavior). Persepsi
+
+pengumpulan
+
+data,
+
+peneliti
+
+melakukan
+
+cara
+
+atau pandangan individu terhadap kepercayaan
+
+pengumpulan data dengan survei ke lapangan
+
+orang-orang lain yang nantinya mempengaruhi
+
+(field reasearch) dengan instrumen penelitian
+
+minat untuk melakukan atau tidak melakukan
+
+berupa Angket. Metode analisis pada penelitian ini
+
+suatu perilaku.
+
+menggunakan teknik analisis kuantitatif. Alat
+
+Konsep persepsi kualitas (perceived quality),
+
+analisis yang digunakan adalah path analysis
+
+adalah
+
+dengan bantuan progam IBM Statistical Package
+
+salah
+
+satu
+
+penentu
+
+apakah
+
+dosen
+
+memanfaatkan secara maksimal atau keberatan
+
+for Social Science (SPSS) Versi 23
+
+dengan penggunaan aplikasi layanan ini. Dalam
+merancang aplikasi berkualitas ini sudah jelas
+
+HASIL DAN PEMBAHASAN PENELITIAN
+
+menjadi faktor pertimbangan seorang dosen
+mengerjakan laporan kinerjanya, oleh karena itu
+
+Berdasarkan hasil pengolahan data maka
+
+banyak perguruan tinggi negeri ataupun swasta
+
+ditemukan hasil dalam penelitian ini yaitu:
+
+mengembangkan aplikasi-aplikasi berbasis online
+
+1. Analisis pengaruh X1 terhadap Y
+
+dengan kualitas untuk mewujudkan persepsi
+
+Dari analisis diatas diperoleh nilai signifikansi
+
+kualitas dosen yang baik juga terhadap aplikasi
+
+X1 sebesar 0,005 < 0,05 sehingga dapat
+
+yang digunakannya. Kotler (2000) mengatakan
+
+disimpulkan
+
+secara
+
+langsung
+
+bahwa
+
+X1
+
+Edukasi : Jurnal Ilmu Pendidikan Vol 1 No 3 Desember 2019 p-ISSN 2656-8071 e-ISSN 2656-8063
+
+300 Persepsi dosen terhadap layanan aplikasi E-LKD UIN AR-Raniry dengan menggunakan Technology Acceptence
+Model (TAM) – Andika Prajana, Yuni Astuti
+
+berpengaruh signifikan terhadap Y. Dalam
+
+7. Analisis pengaruh Y terhadap Z
+
+artian Persepsi Manfaat memiliki pengaruh
+
+Dari analisis diatas diperoleh nilai signifikansi
+
+terhadap Sikap Dosen.
+
+Y sebesar 0,000 < 0,05 sehingga dapat
+
+2. Analisis pengaruh X2 terhadap Y
+
+disimpulkan
+
+secara
+
+langsung
+
+bahwa
+
+Y
+
+Dari analisis diatas diperoleh nilai signifikansi
+
+berpengaruh signifikan terhadap Z. Dalam
+
+X2 sebesar 0,007 < 0,05 sehingga dapat
+
+artian Sikap Dosen memiliki pengaruh terhadap
+
+disimpulkan
+
+Minat/Prilaku Dosen.
+
+secara
+
+langsung
+
+bahwa
+
+X2
+
+berpengaruh signifikan terhadap Y. Dalam
+
+8. Analisis pengaruh X1 melalui Y terhadap Z
+
+artian Persepsi Kemudahan memiliki pengaruh
+
+Pada analisis ini diperoleh pengaruh langsung
+
+terhadap Sikap Dosen.
+
+yang diberikan oleh X1 terhadap Z sebesar
+
+3. Analisis pengaruh X3 terhadap Y
+
+0,133. Sedangkan pengaruh tidak langsung X1
+
+Dari analisis diatas diperoleh nilai signifikansi
+
+melalui Y terhadap Z adalah perkalian nilai
+
+X3 sebesar 0,189 > 0,05 sehingga dapat
+
+beta X1 terhadap Y dengan nilai beta Y
+
+disimpulkan secara langsung bahwa X3 tidak
+
+terhadap Z yaitu 0,291 x 0,451 = 0,131. Maka
+
+berpengaruh signifikan terhadap Y. Dalam
+
+total yang diberikan X1 yang diberikan
+
+artian
+
+terhadap Z adalah pangaruh langsung ditambah
+
+Persepsi
+
+Kualitas
+
+Teknologi
+
+tidak
+
+memiliki pengaruh terhadap Sikap Dosen.
+
+dengan pengaruh tidak langsung yaitu: 0,133 +
+
+4. Analisis pengaruh X1 terhadap Z
+
+0,131 = 0,264. Berdasarkan hasil perhitugan
+
+Dari analisis diatas diperoleh nilai signifikansi
+
+diatas diketahui nilai pengaruh langsung 0,133
+
+X1 sebesar 0,184 > 0,05 sehingga dapat
+
+lebih besar dari pengaruh tidak langsung 0,131
+
+disimpulkan secara langsung bahwa X1 tidak
+
+yang berarti secara langsung Persepsi Manfaat
+
+berpengaruh signifikan terhadap Z. Dalam
+
+melalui Sikap memiliki pengaruh terhadap
+
+artian
+
+Minat/Prilaku Dosen.
+
+Persepsi
+
+Manfaat
+
+tidak
+
+memiliki
+
+pengaruh terhadap Minat/Prilaku Dosen.
+
+9. Analisis pengaruh X2 melalui Y terhadap Z
+
+5. Analisis pengaruh X2 terhadap Z
+
+Pada analisis ini diperoleh pengaruh langsung
+
+Dari analisis diatas diperoleh nilai signifikansi
+
+yang diberikan oleh X2 terhadap Z sebesar
+
+X2 sebesar 0,354 > 0,05 sehingga dapat
+
+0,095. Sedangkan pengaruh tidak langsung X2
+
+disimpulkan secara langsung bahwa X2 tidak
+
+melalui Y terhadap Z adalah perkalian nilai
+
+berpengaruh signifikan terhadap Z. Dalam
+
+beta X2 terhadap Y dengan nilai beta Y
+
+artian Persepsi Kemudahan tidak memiliki
+
+terhadap Z yaitu 0,291 x 0,451 = 0,131. Maka
+
+pengaruh terhadap Minat/Prilaku Dosen.
+
+total yang diberikan X2 yang diberikan
+
+6. Analisis pengaruh X3 terhadap Z
+
+terhadap Z adalah pangaruh langsung ditambah
+
+Dari analisis diatas diperoleh nilai signifikansi
+
+dengan pengaruh tidak langsung yaitu: 0,95 +
+
+X3 sebesar 0,175 > 0,05 sehingga dapat
+
+0,131 = 0,226. Berdasarkan hasil perhitugan
+
+disimpulkan secara langsung bahwa X3 tidak
+
+diatas diketahui nilai pengaruh langsung 0,095
+
+berpengaruh signifikan terhadap Z. Dalam
+
+lebih kecil dari pengaruh tidak langsung 0,131
+
+artian
+
+tidak
+
+yang berarti secara tidak langsung Persepsi
+
+memiliki pengaruh terhadap Minat/Prilaku
+
+Kemudahan melalui Sikap memiliki pengaruh
+
+Dosen.
+
+terhadap Minat/Prilaku Dosen.
+
+Persepsi
+
+Kualitas
+
+Teknologi
+
+Edukasi : Jurnal Ilmu Pendidikan Vol 1 No 3 Desember 2019 p-ISSN 2656-8071 e-ISSN 2656-8063
+
+301 Persepsi dosen terhadap layanan aplikasi E-LKD UIN AR-Raniry dengan menggunakan Technology Acceptence
+Model (TAM) – Andika Prajana, Yuni Astuti
+
+10.Analisis pengaruh X3 melalui Y terhadap Z
+
+Pengujian
+manfaat,
+
+selanjutnya
+kemudahan
+
+adalah
+
+melihat
+
+dan
+
+kualitas
+
+Pada analisis ini diperoleh pengaruh langsung
+
+persepsi
+
+yang diberikan oleh X3 terhadap Z sebesar
+
+teknologi terhadap prilaku dosen melalui sikap
+
+0,133. Sedangkan pengaruh tidak langsung X3
+
+dosen. Dalam hal ini seluruh aspek berpengaruh
+
+melalui Y terhadap Z adalah perkalian nilai
+
+signifikan terhadap prilaku dan ini menjelaskan
+
+beta X3 terhadap Y dengan nilai beta Y
+
+bahwa sikap secara langsung memperlihatkan
+
+terhadap Z yaitu 0,138 x 0,451 = 0,062. Maka
+
+prilaku dosen terhadap minat dan kepercayaannya
+
+total yang diberikan X3 yang diberikan
+
+pada layanan aplikasi E-LKD.
+
+terhadap Z adalah pangaruh langsung ditambah
+dengan pengaruh tidak langsung yaitu: 0,133 +
+
+DAFTAR PUSTAKA
+
+0,062 = 0,195. Berdasarkan hasil perhitugan
+diatas diketahui nilai pengaruh langsung 0,133
+lebih besar dari pengaruh tidak langsung 0,062
+yang berarti secara langsung Persepsi Kualitas
+Teknologi melalui Sikap memiliki pengaruh
+terhadap Minat/Prilaku Dosen
+
+Berdasarkan hasil yang telah diperoleh maka
+penulis menyimpulkan:
+1. Pada aspek manfaat dan kemudahan terdapat
+terhadap
+
+Sikap
+
+dosen
+
+ini
+
+menandakan aplikasi yang memiliki manfaat
+dan mudah digunakan memberikan sikap
+yang positif kepada Dosen sedangkan Pada
+aspek
+
+Bodnar, G. H., & Hopwood, W. S. (2004).
+Acconting Informations Systems, Ninth
+Editions. Pearson Education International.
+Fishbein, M, & Ajzen, I. (1975). Belief, attitude,
+intention and behavior: an introduction to
+theory and research.
+
+KESIMPULAN
+
+pengaruh
+
+Arikunto. (2006). Prosedur Penelitian Suatu
+Pendekatan Praktik. Jakarta: Rineka Cipta.
+Jakarta: Rineka Cipta.
+
+kualitas
+
+teknologi
+
+tidak
+
+begitu
+
+berpengaruh terhadap sikap dosen, bisa jadi
+dengan perkembangan zaman kualitas yang
+
+Fishbein, Martin. (1981). leek Ajzen (1975),
+Belief, Attitude, Intention, and Behavior: An
+Introduction to Theory and Research. Reading, MA: Addison-Wesley.
+Fishbein, Martin, & Ajzen, I. (1980). Predicting
+and understanding consumer behavior:
+Attitude-behavior
+correspondence.
+Understanding attitudes and predicting
+social behavior, 148–172.
+Jogiyanto. (2007). Sistem Informasi Keprilakuan.
+Yogyakarta: CV. Andi Offset.
+
+dimiliki oleh antar aplikasi tidak begitu terasa
+
+Lamb, H., & Hair, J. F. (n.d.). McDaniel. 2001.
+Pemasaran. buku, 1.
+
+perbedaannya.
+
+Pedoman Penilaian Kinerja Dosen UPI, 2009
+
+2. Pengujian
+manfaat,
+
+terhadap
+persepsi
+
+pengaruh
+
+persepsi
+
+kemudahan,
+
+persepsi
+
+kualitas teknologi dan sikap Dosen terhadap
+
+Pedoman BKD Dikti, 2010
+Rakhmat, J. (2007). Persepsi Dalam Proses Belajar
+Mengajar. Jakarta: rajawali pers.
+
+Perilaku Dosen terlihat tidak adanya pengaruh
+sama sekali, hal ini kemungkinan terjadi dari
+tiga variabel manfaat, kemudahan dan kualitas
+secara langsung tidak merubah prilaku dosen
+
+Schierz, P. G., Schilke, O., & Wirtz, B. W. (2010).
+Understanding consumer acceptance of
+mobile payment services: An empirical
+analysis. Electronic commerce research and
+applications, 9(3), 209–216.
+
+karena aplikasi nya wajib digunakan sebagai
+sarana menilai kinerja dosen dalam Tri
+
+Sidharta, L. (1996). Internet: informasi bebas
+hambatan. Elex Media Komputindo.
+
+Dharma Perguruan Tinggi.
+Edukasi : Jurnal Ilmu Pendidikan Vol 1 No 3 Desember 2019 p-ISSN 2656-8071 e-ISSN 2656-8063
+
+302 Persepsi dosen terhadap layanan aplikasi E-LKD UIN AR-Raniry dengan menggunakan Technology Acceptence
+Model (TAM) – Andika Prajana, Yuni Astuti
+
+Sugihartono, F. K. N., Harahap, F., Setiawati, F.
+A., & Nurhayati, S. R. (2007). Psikologi
+Pendidikan. Yogyakarta. UNY Press.
+Sugiyono. (2010). Metode Penelitian Pendidikan.
+Bandung: Alfabeta.
+Sunaryo. (2004). Psikologi Untuk Pendidikan.
+Jakarta: EGC.
+Susanto, A. (2013). Sistem Informasi Akuntansi.
+Bandung: Lingga Jaya.
+Toha, M. (2003). Perilaku Pendidikan dengan
+Pendekatan Baru. Bandung: PT Grafindo
+Persada.
+Waidi. (2006). The Art of Re-engineering Your
+Mind for Success. Jakarta: Gramedia.
+Walgito, B., & Walgito, B. (2004). Pengantar
+psikologi umum. Andi.
+
+Edukasi : Jurnal Ilmu Pendidikan Vol 1 No 3 Desember 2019 p-ISSN 2656-8071 e-ISSN 2656-8063
+
+

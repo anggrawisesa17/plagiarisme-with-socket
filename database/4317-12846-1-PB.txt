@@ -1,0 +1,906 @@
+Rekayasa Hijau: Jurnal Teknologi Ramah Lingkungan
+ISSN [e]: 2579-4264 | DOI: https://doi.org/10.26760/jrh.v5i2.125-135
+
+Volume 5 | Nomor 2
+Juli, 2021
+
+Kesehatan Mental dan Perubahan Aktivitas-Perjalanan
+Saat Pandemi COVID-19 di Indonesia
+Muhamad Rizki1, Dwi Prasetyanto2, Andrean Maulana3
+Institut Teknologi Nasional, Bandung, Indonesia
+Email: muhamadrizki1404@itenas.ac.id1, dwipras@itenas.ac.id2,
+andreanmaulana@itenas.ac.id3
+Received 30 November 201x | Revised 30 Desember 201x | Accepted 30 Januari 201x
+ABSTRAK
+Pandemi COVID-19 telah secara signifikan mempengaruhi bagaimana kita menjalani kehidupan seharihari kita. Studi ini bertujuan untuk menginvestigasi dampak perubahan kesehatan mental kepada
+perubahan aktivitas dan perjalanan saat pandemi di Indonesia. Convenient sampling digunakan untuk
+menentukan jumlah sampel dan pengumpulan data dilakukan secara online pada masa pandemi dengan
+kuesioner. Adapun metode regresi linear berganda digunakan untuk menganalisis data. Hasil analisis
+menujukkan bahwa telah terjadinya perubahan aktivitas dan perjalanan akibat dari pandemi COVID-19.
+Tipe kesehatan mental seperti depresi dan bosan sangat berkaitan dengan penurunan pola perjalanan,
+sedangkan kelelahan berkaitan dengan berkurangnya kegiatan berbasis online. Studi ini juga menemukan
+bahwa masyarakat berpendapatan tinggi cenderung memiliki akses lebih baik terhadap platform online
+dan melakukan kegiatan online lebih banyak. Kelompok tersebut juga cenderung mengurangi perjalanan
+keluar tempat tinggal. Studi ini merekomendasikan pembenahan kualitas internet dan pembangunan
+fasilitas aktif (taman) dekat tempat tinggal untuk mengendalikan pandemi bersamaan dengan menjaga
+penurunan kesehatan mental.
+Kata kunci: COVID-19, Aktivitas, Perjalanan, Regresi linear berganda
+
+ABSTRACT
+The COVID-19 pandemic has significantly affected how we do our daily lives. This study aims to investigate
+the effect of emotional well-being to the changes in activity and travel during COVID-19 pandemic in
+Indonesia. Convenient sampling is used for dermine sampling size and online data collection was carried
+out during a pandemic using a questionnaire. Moreover, the multiple linear regression model is used for
+data analysis. It is found that there has been a change in activity and travel as a result of the COVID-19
+pandemic. The results of the analysis show that several issues related to mental health, such as depression
+and boredom, are strongly associated with the decrease of out-of-home activities, while fatigue is
+associated with a lower ICT activities. This study also found that high-income people, which have higher
+accessibility to ICT, tend to do more online activities and also reduce their out-of-home activities during
+pandemic. This study propose improving the quality of the internet and building active facilities (parks)
+near residential location to manage the pandemic while maintaining a decline in mental health.
+Keywords: COVID-19, Activity, Travel, Multiple linear regression
+
+Rekayasa Hijau – 125
+
+Muhamad Rizki dkk.
+
+1. PENDAHULUAN
+Sejak pengumuman kasus pertama di Wuhan, Tiongkok, kasus pandemi Coronavirus Disease 2019
+(COVID-19) di Indonesia pada Januari 2021 telah mencapai lebih dari 1 juta kasus1. Dikarenakan
+penyebaran kasus COVID-19 dapat terjadi akibat dari manusia ke manusia dan belum adanya
+pengobatan efektif untuk penyakit tersebut, berbagai negara di dunia melakukan penerapan pembatasan
+pergerakan [1]. Hal ini dilakukan untuk menjaga resiko penyebaran penyakit tidak melewati kapasitas
+infrastruktur kesehatan yang ada [2]. Penerapanan kebijakan ini sangat mempengaruhi bagaimana
+mobilitas masyarakat untuk memenuhi kebutuhan hidupnya sehari-hari.
+Pembatasan ini telah berdampak secara signifikan kepada penggunaan angkutan umum dan lalulintas
+kendaraan bermotor di berbagai kota di dunia. Berdasarkan data dari Moovit [3] tentang dampak
+COVID-19 pada penggunaan angkutan umum, penggunaan angkutan umum di kota-kota di dunia seperti
+London, New York City, Berlin, Paris dan Sydney mengalami penurunan yang signifikan di tempat
+umum penggunaan transportasi. Di Paris, misalnya, penurunannya mencapai sekitar 80% dibandingkan
+tingkat sebelum pandemi. Senada, UITP [4] juga melaporkan bahwa pandemi tersebut telah
+menyebabkan 19% operator bus India kehilangan 90% penumpangnya dan sisanya 91% tanpa
+penumpang sama sekali. Indonesia juga mengalami kondisi ini, seiring dengan penurunan kapasitas
+(headway) dan pembatasan (load factor), sebagian besar penumpang angkutan massal (yaitu MRT,
+BRT, dan Commuter Rail) di Jabodetabek mengalami penurunan lebih dari 80% dari kondisi biasanya
+[5].
+Pandemi ini juga mengubah perilaku belanja masyarakat, karena masyarakat memaksimumkan aktivitas
+di rumah. Adaptasi teknologi informasi dan komunikasi (TIK) meningkat secara signifikan, termasuk
+belanja online. Menurut Clement [6], jumlah trafik website e-commerce dunia melonjak dari semula
+sekitar 12,81 miliar pada Januari 2020 menjadi 14,34 miliar pada Maret 2020. Sebuah survei yang
+dilakukan Kunst [7] di tiga negara maju yaitu Jerman, Inggris, dan Amerika Serikat mengungkapkan
+bahwa ada sekitar 4% hingga 27% responden yang mulai membeli berbagai produk secara online karena
+pandemi COVID-19. Tren ini juga serupa dengan yang terjadi di Indonesia. Merujuk pada Pusparisa
+[8], sektor e-commerce Indonesia mengalami peningkatan yang cukup tinggi saat terjadi pandemi, yang
+ditunjukkan dengan peningkatan penjualan bulanan sebesar 26% dibandingkan dengan tahun
+sebelumnya. Selain itu, jumlah transaksi harian juga meningkat dari 3,1 juta pada triwulan II 2019
+menjadi 4,8 juta pada April 2020.
+Pembatasan aktivitas di luar rumah juga ditemukan mempengaruhi kesejahteraan subjektif individu dan
+akibatnya kesehatan mental, karena beberapa aktivitas terlibat untuk menjaga atau meningkatkan
+kesejahteraan [9]. Studi dari Brooks et al. [10] pada karantina di pandemi sebelumnya menunjukkan
+berbagai masalah kesehatan muncul pada saat karantina. Dilaporkan bahwa masalah kesehatan mental
+meningkat seiring dengan jumlah hari selama lockdown, terutama bagi orang dengan kondisi khusus
+seperti OCD, depresi, dan ketergantungan zat [11]. Faktanya, bahkan bagi orang-orang yang tidak
+memiliki ketergantungan zat, rutinitas baru dengan tempat berulang yang terus menerus selama periode
+waktu yang cukup lama juga akan mempengaruhi kesehatan mental pribadi [12]. Belajar dari pandemi
+dan karantina sebelumnya, Brooks et al. [10], yang meninjau 24 makalah dari pandemi SARS dan
+berbagai karantina di seluruh kota, telah menemukan bahwa selama karantina masyarakat sangat
+mungkin mengembangkan berbagai gejala stres dan gangguan psikologis. Studi tersebut juga mencatat
+bahwa gejala stres pasca trauma terjadi.
+Dampak pandemi kepada kehidupan sehari-hari sangat signifikan, namun mayoritas penelitian yang ada
+saat ini umumnya berfokus pada karakteristik penyakit COVID-19 [13] serta kebutuhan vaksin. Studi
+1
+
+Perkembangan kasus COVID-19 di Indonesia dapat dilihat pada covid19.go.id
+Rekayasa Hijau – 126
+
+Kesehatan Mental dan Perubahan Aktivitas-Perjalanan Saat Pandemi COVID-19 di Indonesia
+
+tentang analisis perubahan aktivitas dan perjalanan dan hubungannya dengan kesehatan mental belum
+banyak dilakukan di negara berkembang seperti Indonesia. Studi untuk memahami perubahan aktivitas
+dan perjalanan sangat penting untuk melakukan manajemen perjalanan saat pandemi ini dan antisipasi
+pada pandemi mendatang. Selain itu, studi yang mengintegrasikan aspek kesehatan mental sangat
+bermanfaat untuk merumuskan kebijakan untuk mencegah adanya penurunan kesehatan mental yang
+signifikan diakibatkan dari karantina untuk pandemi.
+Selain itu, penyelidikan perubahan aktivitas perjalanan pasca COVID-19 di negara berkembang menjadi
+penting karena adanya perbedaan masyarakat, ekonomi, infrastruktur, dan budaya dan akibatnya
+berpengaruh terhadap dampak COVID-19, antara negara maju dan negara berkembang. Dalam kasus
+Indonesia, urbanisasi, bentuk perkotaan yang tidak efisien, dan kualitas internet yang rendah telah
+menjadi ciri daerah perkotaannya [14]. Dari segi pandemi, Indonesia melaporkan kasus pertama pada
+awal Maret 2020. Meski tidak seketat yang diterapkan di Wuhan, pemerintah Indonesia juga telah
+menerapkan berbagai kebijakan pembatasan aktivitas di luar rumah mulai minggu kedua Maret [15] dan
+setelah mengevaluasi pertumbuhan kasus di setiap provinsi, pada Juni 2020 beberapa kebijakan akan
+dilonggarkan. Oleh karena itu, studi ini akan memberikan wawasan baru untuk memahami perubahan
+perilaku aktivitas perjalanan dan implikasi pandemi di Indonesia sebagai representasi negara
+berkembang.
+Berdasarkan latar belakang tersebut, secara spesifik tujuan dari dari penelitian ini antara lain: i.)
+mengetahui perubahan aktivitas dan perjalanan saat pandemi; dan ii.) menginvestigasi hubungan dari
+kesehatan mental dan aspek sosio demografi kepada tingkat perubahan aktivitas dan perjalanan. Dengan
+menyebarkan kuesioner secara online, data dikumpulkan dan dianalisis menggunakan metode analisis
+faktor dan regresi linear berganda. Makalah ini akan terbagi menjadi lima bagian. Setelah pendahuluan,
+pada bagian kedua akan disajikan metodologi perumusan kuesioner dan pengumpulan data. Selanjutnya
+analisis data dan pembahasan disampaikan pada bagian ketiga yang dilanjutkan dengan diskusi.
+Makalah ini akan diakhiri dengan penarikan kesimpulan.
+
+2. METODOLOGI
+2.1. Pengumpulan Data
+Pengumpulan data dilakukan untuk menangkap perubahan aktivitas dan perilaku perjalanan selama
+pandemi yang melihat sebelum pandemi sebagai acuan. Untuk menyelidiki faktor-faktor yang
+mempengaruhi perubahan aktivitas perjalanan saat pandemi, studi ini menggabungkan pengaruh
+karakteristik sosio-demografis dan perjalanan individu, penggunaan dan pengalaman TIK, sikap
+terhadap COVID-19, dan perilaku untuk mencegah infeksi penyakit juga sebagai kesejahteraan
+subjektif. Setelah serangkaian tinjauan pustaka terkait perilaku perjalanan [16] dan determinannya
+seperti sikap [17], kesehatan mental/well-being [18], dan TIK [19], kuesioner yang terdiri dari delapan
+bagian pun dibentuk. Pada makalah ini, hanya pertanyaan-pertanyaan yang digunakan yang dijelaskan,
+yaitu hanya tiga bagian.
+Pada bagian pertama responden ditanyai tentang frekuensi perjalanan mingguan selama pandemi dan
+sebelum pandemi dalam enam jenis aktivitas di luar rumah, yaitu bekerja atau belajar, belanja bahan
+makanan, belanja elektronik/pakaian, makan di luar, bersantai, dan kegiatan sosial seperti mengunjungi
+kerabat atau keluarga. Selanjutnya, diberikan pertanyaan tentang kesehatan mental individu selama
+pandemi. Pertanyaan kesehatan mental terdiri dari delapan perasaan kognitif (frustrasi, bosan, kesal,
+lelah, khawatir, tertekan, tidak produktif, dan ketidaksabaran untuk mengakhirinya) dan satu evaluasi
+keseluruhan ("pengalaman terburuk dalam hidup saya"). Tanggapan tersebut ditangkap dalam bentuk
+skala Likert lima poin, mulai dari sangat tidak setuju (1) hingga sangat setuju (5). Kuesioner ditutup
+dengan karakteristik sosio-demografi dan spasial responden, seperti jenis kelamin, usia, pendapatan,
+pendidikan, pekerjaan, dan lokasi tempat tinggal.
+
+Rekayasa Hijau – 127
+
+Muhamad Rizki dkk.
+
+Data dikumpulkan saat pandemi COVID-19 terjadi di Indonesia. Sesuai dengan protocol untuk
+mengurangi resiko penularan melalui kontak fisik, pengumpulan data dilakukan secara online dengan
+menggunakan Google Form. Formulir kuesioner online diubah menjadi web-link dan didistribusikan
+melalui berbagai platform media sosial (Facebook, Instagram, Twitter, Line, dan WhatsApp).
+Rekrutmen responden menggunakan metode convenience sampling, dan dengan penyebaran secara
+online tersebut diatas pada relasi para peneliti dan dibantu dengan para mahasiswa dari universitas para
+peneliti. Convenience sampling digunakan karena keterbatasan survei secara fisik yang terjadi pada
+COVID-19, sehingga survei hanya dapat dilakukan secara online dengan bantuan jejaring sosial peneliti
+mahasiswa. Adapun untuk meningkatkan representasi data, perekrutan surveyor secara acak melalui
+media sosial juga dilakukan untuk melakukan penyebaran kuesioner secara online kepada kelompok
+sosial mereka. Survei dilakukan Mei hingga Juni 2020. Dari periode survei tersebut, 834 responden yang
+tinggal di beberapa provinsi di Indonesia dan menyelesaikan kuesioner
+2.2. Regresi Linear Berganda
+Dengan data pada variabel terikat yang merupakan data skala menerus, regresi linear berganda
+digunakan [20]. Regresi linear berganda merupakan metode statistika untuk memodelkan pengaruh
+variabel bebas dengan variabel terikat yang berbentuk skala menerus. Metode ini sudah sering
+digunakan dalam melakukan investigasi di berbagai subjek ilmu pengetahuan. Persamaan regresi linear
+dapat ditulis dengan [20].
+dengan:
+Y
+= variabel dependen
+a
+= konstanta
+b
+= koefisien regresi
+X
+= variabel independen
+e
+= error
+
+𝑌 = 𝑎 + 𝑏! 𝑋! + 𝑏" 𝑋" + ⋯ + 𝑏# 𝑋# + 𝑒
+
+(3.1)
+
+Dikarenakan tujuan dari regresi linear ini adalah untuk menguji pengaruh antara variabel-variabel
+penelitian yang terdiri dari variabel dependen (terikat) dan independen (bebas), untuk makalah ini
+variabel terikat adalah perubahan aktivitas/perjalanan dan variabel bebas ini adalah perubahan kesehatan
+mental dan sosio demografi. Variabel sosio demografi dimasukan sebagai variabel bebas dikarenakan
+temuan pengaruhnya kepada perilaku perjalanan oleh berbagai studi [21]–[23]. Beberapa analisis
+dilakukan sebagai bagian dari pengujian kesesuaian model dengan data yaitu analisis variansi dan
+perhitungan koefisien determinasi (R2).
+
+3. HASIL DAN PEMBAHASAN
+3.1 Deskripsi Karakteristik Sosiodemografi
+Deskripsi karakteristik responden yang didapatkan dari survei ditujukkan pada Tabel 1. Berdasarkan
+total responden, sebagian besar merupakan masyarakat pada usia produktif bekerja, yaitu 26-60 tahun
+(64,3%). Mayoritas jenis kelamin responden adalah laki-laki (51,9%) dan memiliki pekerjaan sebagai
+karyawan swasta (38,4%). Adapun dari sisi pendapatan, responden dengan pendapatan bulanan dalam
+kisaran Rp 2,5 hingga 5 juta/bulan dan Rp 5 hingga 10 juta/bulan mendominasi total responden, dengan
+21,7 % dan 23,7% masing-masing. Adapun lokasi pemukiman responden sebagian besar tersebar di
+Bandung Raya, yaitu Kota Bandung dan sekitarnya sebesar 38,4% dan Jabodetabek, yaitu Jakarta dan
+sekitarnya sebesar 31,1%.
+
+Rekayasa Hijau – 128
+
+Kesehatan Mental dan Perubahan Aktivitas-Perjalanan Saat Pandemi COVID-19 di Indonesia
+Tabel 1. Karakteristik Demografi Responden (N=834)
+Variabel
+Sosio-demografi
+< 18 tahun
+18–25 tahun
+Usia
+26–40 tahun
+41–60 tahun
+> 55 tahun
+Pria
+Gender
+wanita
+Pelajar/mahasiswa
+PNS/TNI/Polri
+Pegawai Swasta
+Wiraswasta
+Pekerjaan
+Ibu Rumah Tangga
+Tidak Bekerja
+Pensiunan
+Lainnya
+
+(%)
+
+Variabel
+
+(%)
+
+Sosio-demografi
+2,0
+31,4
+40,2
+24,1
+2,3
+51,9
+48,1
+27,9
+7,1
+38,4
+11,2
+6,0
+1,8
+1,3
+6,4
+
+< 1 juta Rupiah
+1–2,5 juta Rupiah
+2,6–5 juta Rupiah
+Pendapatan/uang saku
+5-10 juta Rupiah
+10-15 juta Rupiah
+15-20 juta Rupiah
+>20 juta Rupiah
+Karakteristik Tempat Tinggal
+Bandung Raya
+Jabodetabek
+Lokasi Tempat Tinggal Surabaya, Semarang, dan Yogyakarta
+Kota kecil lainnya di Jawa
+Diluar Jawa
+Kepemilikan Sendiri
+Status Tempat Tinggal Sewa
+Kost
+
+19,1
+12,5
+21,7
+23,7
+10,6
+5,8
+6,7
+38,4
+31,1
+4,0
+15,7
+10,9
+79,3
+12,5
+8,3
+
+3.2 Deskripsi Kesehatan Mental Saat Pandemi COVID-19
+Selain itu, parameter kesehatan mental responden pada saat penerapan pembatasan sosial juga dijelaskan
+pada Tabel 2, yaitu perasaan negatif. Skala tanggapan yang menggunakan skala likert lima poin, mulai
+dari sangat tidak setuju sampai sangat setuju, hal ini menunjukkan bahwa sebagian besar rata-rata jumlah
+perasaan responden lebih tinggi dari nilai tengah 3 yang mewakili netral. Sebagian besar responden
+merasa bosan selama pandemi dan tidak sabar menunggu. Perasaan frustrasi dan depresi adalah
+kesejahteraan subjektif terendah yang dirasakan responden selama pandemi. Namun, evaluasi kesehatan
+mental secara keseluruhan dari pandemi, yang diindikasikan dengan 'pengalaman terburuk',
+menunjukkan nilai yang relatif netral (3,06).
+Tabel 2. Deskripsi Kesehatan Mental Saat Pandemi
+Saat pandemi ini saya merasa…*
+
+Rata-rata
+
+Standar Deviasi
+
+Frustrasi
+2.79
+Depresi
+2.64
+Khawatir
+3.81
+Bosan
+3.94
+Tidak produktif
+2.98
+Kesal
+3.23
+Lelah
+3.25
+Tidak sabar ini untuk berakhir
+4.19
+Pengalaman terburuk
+3.06
+*skala Likert dengan 1 = sangat tidak setuju hingga 5 = sangat setuju
+
+1.060
+1.026
+0.915
+1.059
+1.239
+1.081
+1.072
+0.966
+1.136
+
+3.3 Deskripsi Perubahan Aktivitas dan Perjalanan saat Pandemi COVID-19
+Hasil survei menunjukkan bahwa pandemi COVID-19 memang mengubah perilaku perjalanan
+masyarakat dan cara orang melakukan aktivitasnya. Ada penurunan tajam secara statistik dalam jumlah
+aktivitas di luar rumah dan peningkatan aktivitas online di rumah sebelum dan selama pandemi COVID19. Bagian atas Tabel 3 menunjukkan bahwa pandemi mengurangi frekuensi perjalanan mingguan orang
+untuk berbagai jenis tujuan, termasuk bekerja, sekolah, dll. Misalnya, frekuensi perjalanan rata-rata ke
+tempat kerja atau sekolah menurun dari awalnya pada 6,7 sebelum pandemi menjadi 2,77 selama
+pandemi. Dibandingkan dengan jenis perjalanan liburan/hiburan lainnya, perjalanan ke kantor atau
+sekolah mengalami penurunan paling tinggi sedangkan perjalanan belanja elektronik/ ashion sedikit
+mengalami penurunan. Hal ini dikarenakan perjalanan ke kantor atau sekolah merupakan sesuatu yang
+Rekayasa Hijau – 129
+
+Muhamad Rizki dkk.
+
+wajib dilakukan setiap hari sedangkan perjalanan belanja barang elektronik/pakaian bukan merupakan
+kebutuhan sehari-hari dan biasanya dilakukan sesekali. Itu sebabnya frekuensi perjalanan ke kantor atau
+sekolah sensitif terhadap gangguan.
+Penurunan frekuensi perjalanan kemungkinan besar disebabkan oleh ketakutan masyarakat akan
+penularan serta pembatasan yang diberlakukan oleh pemerintah yang biasanya disebut sebagai
+“lockdown” di banyak negara atau “circuit breaker” dalam kasus Singapura. Selama masa pembatasan,
+sebagian besar pusat kegiatan, kecuali yang vital, tidak boleh dibuka dan ini menjelaskan penurunan
+frekuensi perjalanan.
+Tabel 3 juga menujukkan bahwa selama pandemi COVID-19, frekuensi mingguan dari berbagai jenis
+aktivitas online di rumah (termasuk bekerja dari rumah (WFH) atau sekolah dari rumah (SFH), aktivitas
+hiburan, dll.) meningkat dibandingkan periode sebelumnya. Frekuensi rata-rata WFH dan SFH
+meningkat dari 2,28 menjadi 5,49, sedangkan rata-rata frekuensi aktivitas hiburan online meningkat dari
+4,51 menjadi 6,40. Sebab, meski ada pembatasan perjalanan, masyarakat tetap harus memenuhi
+kebutuhannya, sehingga mereka memilih untuk melakukan aktivitas tersebut secara online terutama
+untuk aktivitas WFH atau SFH dan hiburan. Kegiatan seperti belanja online atau pesan antar online
+makanan / minuman juga meningkat meskipun sedikit karena ini adalah kegiatan yang masih dapat
+dilakukan secara off-line tanpa harus bepergian jauh dari rumah. Selain itu, belanja elektronik/pakaian
+hanya meningkat sedikit karena aktivitas tersebut bukan kebutuhan sehari-hari dan seperti yang telah
+disebutkan sebelumnya, biasanya dilakukan sesekali.
+Tabel 3. Karakteristik Frekuensi Perjalanan Sebelum dan Saat Pandemi Perminggu (kali/minggu)
+Tipe Perjalanan
+Pekerjaan/pedidikan
+Belanja kebutuhan
+sehari-hari
+Belanja
+elektronik/pakaian
+Makan diluar rumah
+Liburan/hiburan
+Sosial
+Type Aktivitas Daring
+di Rumah
+E-meeting/e-learning
+Belanja kebutuhan
+sehari-hari online
+Belanja
+elektronik/pakaian
+online
+Belanja makanan
+online
+Hiburan online
+
+Frekuensi Mingguan
+Sebelum COVID-19
+Mean
+SD
+6,70
+3,309
+
+Frekuensi Mingguan
+Saat COVID-19
+Mean
+SD
+2,77
+2,84
+
+Perubahan Frekuensi Mingguan Saat Sebelum COVID-19
+Mean
+SD
+t-stat
+-3,93
+3,688
+-26,024**
+
+3,78
+
+2,405
+
+2,58
+
+1,686
+
+-1,20
+
+2,121
+
+-11,791**
+
+2,12
+
+1,726
+
+1,41
+
+1,085
+
+-0,71
+
+1,59
+
+-10,074**
+
+3,40
+2,385
+2,76
+1,99
+3,59
+2,458
+Frekuensi Mingguan
+Sebelum COVID-19
+Mean
+SD
+2,28
+2,351
+
+1,45
+1,33
+1,36
+1,17
+1,89
+1,63
+Frekuensi Mingguan
+Saat COVID-19
+Mean
+SD
+5,49
+3,782
+
+-1,95
+2,372
+-20,631**
+-1,40
+1,976
+-17,462**
+-1,70
+2,245
+-16,624**
+Perubahan Frekuensi Mingguan Saat Sebelum COVID-19
+Mean
+SD
+t-stat
+3,21
+3,743
+20,786**
+
+2,16
+
+1,729
+
+2,89
+
+2,166
+
+0,73
+
+1,842
+
+7,583**
+
+1,80
+
+1,433
+
+2,07
+
+1,769
+
+0,27
+
+1,418
+
+3,377**
+
+3,67
+
+2,577
+
+3,80
+
+2,80
+
+0,13
+
+2,652
+
+1,019
+
+4,51
+
+3,554
+
+6,40
+
+3,597
+
+1,89
+
+2,931
+
+10,799**
+
+**signifikan pada 5%
+
+3.4. Analisis Perubahan Aktivitas-Perjalanan dan Kesehatan Mental Saat Pandemi
+Dalam rangka melakukan analisis perubahan aktivitas-perjalanan dengan variabel bebas karakteristik
+kesehatan mental, dilakukan analisis faktor untuk melakukan optimalisasi variabel perubahan aktivitasperjalanan saat pandemi. Parameter kesesuaian pada analisis faktor disajikan pada tabel 4. Hasil nilai
+reliabilitas variabel menujukkan angka Cronbach-alpha >0,8 pada variabel perjalanan dan 0,40 pada
+aktivitas online. Uji Kaiser-Mayer-Olkin (KMO) menunjukkan nilai lebih dari 0,6 menandakan faktor
+analisis sangat tepat dilakukan pada variabel pertanyaan yang ada serta uji Bartlett’s test of sphericity
+Rekayasa Hijau – 130
+
+Kesehatan Mental dan Perubahan Aktivitas-Perjalanan Saat Pandemi COVID-19 di Indonesia
+
+menujukkan nilai signifikan (<5%) [20]. Analisis faktor menghasilkan masing-masing satu faktor pada
+tipe perjalanan dan aktivitas online yang digunakan dalam analisis regresi linear pada analisis perubahan
+aktivitas perjalanan saat pandemi dan efek dari kesehatan mental pada perubahan tersebut.
+Tabel 4. Analisis Faktor Perubahan Aktivitas – Perjalanan saat Pandemi
+Tipe Perjalanan
+Pekerjaan/pedidikan
+Belanja kebutuhan sehari-hari
+Belanja elektronik/pakaian
+Makan diluar rumah
+Liburan/hiburan
+Sosial
+Bartlett's Test of Sphericity
+[χ2; df.; p-value]
+KMO Measure of Sampling Adequacy
+Tipe Aktivitas Online di Rumah
+E-meeting/e-learning
+Belanja kebutuhan sehari-hari online
+Belanja elektronik/pakaian online
+Belanja makanan online
+Hiburan online
+Bartlett's Test of Sphericity
+[χ2; df.; p-value]
+KMO Measure of Sampling Adequacy
+
+Component Factor Analysis
+.663
+.648
+.742
+.819
+.866
+.777
+
+Cronbach alpha
+
+0,818
+
+[2009,393; 15; 0,000]
+0,853
+Component Factor Analysis
+.528
+.811
+.724
+.465
+.392
+
+Cronbach alpha
+0,450
+
+[401,371; 10; 0,000]
+0,609
+
+Analisis regresi linear berganda untuk investigasi perubahan aktivitas-perjalanan disajikan pada tabel 5.
+Model regresi linear akan memahami hubungan antara kesehatan mental kepada perubahan aktivitasperjalanan. Selain itu variabel sosio demografi juga dimasukan menjadi variabel bebas. Data sosiodemografi yang dimasukan dalam bentuk dummy variable [20]. Sebelum melakukan intepretasi model,
+dilakukan evaluasi kelayakan model yang juga dideskripsikan pada tabel 4. Nilai uji ANOVA
+menujukkan nilai signifikansi sehingga model regresi dengan variabel bebas dapat digunakan untuk
+mengekplorasi variabel terikat. Nilai koefisien determinasi atau R2 menunjukkan cukup rendah pada
+kedua model. Beberapa penelitian menujukkan nilai R2 pada penelitian khususnya terkait dengan
+ekplorasi (explonatory research) variabel dapat rendah sehingga nilai R2 bukan suatu indikator utama
+model dapat diinterpretasikan atau tidak, namun menandakan dari effect size [24]. Namun dengan
+beberapa variabel signifikan yang berhubungan dengan variabel terikat, maka secara statistik model ini
+cukup baik untuk dilakukan intepretasi.
+Tabel 5. Estimasi Model Perubahan Aktivitas-Perjalanan dan Kesehatan Mental Saat Pandemi
+Model Perubahan Aktivitas Onlinea
+Model Perubahan Perjalanana
+Unstd.
+Std.
+Unstd.
+Std.
+t-stat
+stat
+B
+B
+B
+B
+(Constant)
+,146
+,717
+-,853
+-4,284**
+Frustrasi
+,078
+,083
+1,319
+-,065
+-,069
+-1,137
+Depresi
+-,055
+-,056
+-,909
+,159
+,163
+2,689**
+Khawatir
+,019
+,017
+,441
+,029
+,026
+,683
+Bosan
+-,029
+-,030
+-,687
+,139
+,147
+3,398**
+Tidak produktif
+,065
+,080
+1,976**
+,001
+,002
+,039
+Jengkel
+-,078
+-,084
+-1,642
+,014
+,015
+,298
+Lelah
+,089
+,096
+2,055**
+-,064
+-,069
+-1,515
+Tidak sabar untuk cepat berakhir
+-,077
+-,074
+-1,622
+,065
+,063
+1,412
+Pengalaman terburuk saya
+,003
+,004
+,084
+-,046
+-,052
+-1,256
+Usia 17-23 tahun [D]
+-,128
+-,060
+-1,468
+,317
+,147
+3,727**
+Pria [D]
+-,157
+-,078
+-2,191**
+-,132
+-,066
+-1,897
+Tinggal sendiri [D]
+-,176
+-,054
+-1,557
+-,029
+-,009
+-,263
+Pendapatan/bulan kurang dari 1 juta rupiah [D]
+,158
+,062
+1,546
+-,140
+-,055
+-1,412
+Pendapatan/bulan lebih dari 15 juta rupiah [D]
+-,266
+-,088
+-2,420**
+,210
+,070
+1,967**
+Bandung Raya [D]
+,119
+,058
+1,499
+-,104
+-,050
+-1,344
+F; p-values
+2,177; 0,006
+5,126; 0,000
+R; R2
+0.196; 0,038
+0.293; 0,086
+[D] dummy variable= 1 jika ya, 0 lainnya; ** signifikan pada 5%; aperubahan frekuensi sebelum pandemi – saat pandemi
+Variabel
+
+Rekayasa Hijau – 131
+
+Muhamad Rizki dkk.
+
+Model perubahan aktivitas online menunjukkan pelaku perjalanan yang mengalami kelelahan saat
+pandemi cenderung berasosiasi dengan berkurangnya aktivitas online saat pandemi. Pelaku perjalanan
+yang merasa tidak produktif juga cenderung merupakan pelaku perjalanan yang mengurangi aktivitas
+online saat pandemi. Adapun pelaku perjalanan dengan pendapatan tinggi cenderung meningkatkan
+penggunaan TIK untuk aktivitas online saat pandemi. Pada model perubahan perjalanan saat pandemi,
+terdapat beberapa variabel yang signifikan mempengaruhi terjadinya perubahan perjalanan. Aspek
+kesehatan mental seperti depresi dan bosan cenderung berasosiasi pada pelaku perjalanan yang
+mengurangi frekuensi perjalanannya saat pandemi. Adapun usia pelajar dan mahasiswa cenderung tidak
+mengalami perubahan frekuensi perjalanan saat pandemi. Selain itu pelaku perjalanan dengan
+pendapatan tinggi cenderung mengurangi frekuensi perjalanannya saat pandemi.
+
+4. DISKUSI
+Pandemi COVID-19 telah secara signifikan mempengaruhi bagaimana kita menjalani kehidupan seharihari kita. Studi ini bertujuan untuk menginvestigasi perubahan aktivitas dan perjalanan saat pandemi di
+Indonesia. Dalam melakukan investigasi ini dilakukan integrasi dari pengaruh kesehatan mental saat
+pandemi dan aspek sosio demografi pelaku perjalanan.
+Hasil analisis menujukkan bahwa telah terjadinya perubahan aktivitas dan perjalanan akibat dari
+pandemi COVID-19. Misalnya, frekuensi perjalanan rata-rata ke tempat kerja atau sekolah menurun
+sebesar 66% selama pandemi. Dibandingkan dengan jenis perjalanan liburan/hiburan lainnya,
+perjalanan ke kantor atau sekolah mengalami penurunan paling tinggi sedangkan perjalanan belanja
+elektronik/ pakaian sedikit mengalami penurunan. Hal ini dikarenakan perjalanan ke kantor atau sekolah
+merupakan sesuatu yang wajib dilakukan setiap hari sedangkan perjalanan belanja barang elektronik /
+pakaian bukan merupakan kebutuhan sehari-hari dan biasanya dilakukan sesekali. Disisi lain aktivitas
+bekerja/belajar dari rumah meningkat hingga 3 kali lipat. Selain itu penggunaan aplikasi belanja online
+juga meningkat dengan pesat disebabkan masyarakat tetap harus memenuhi kebutuhannya, sehingga
+mereka memilih untuk melakukan aktivitas tersebut secara online terutama untuk aktivitas WFH atau
+SFH dan hiburan. Adapun penurunan kesehatan mental ditemukan berdasarkan hasil studi ini. Mayoritas
+pelaku perjalanan merasakan rasa bosan selama pandemi dan tidak sabar menunggu didorong dengan
+penerapan pembatasan sosial berskala besar. Perasaan frustrasi dan depresi adalah kesehatan mental
+yang sangat terdampak yang dirasakan pelaku perjalanan pada masa pandemi. Hal ini diduga
+berhubungan dengan berkurangnya kesempatan untuk pemenuhan kegiatan ekonomi maupun kegiatan
+hiburan dan sosial yang tidak dapat tergantikan oleh fasilitas TIK. Selain itu dengan menurunnya kinerja
+ekonomi yang berdampak kepada peningkatan penggangguran diduga berpengaruh kepada masyarakat
+khususnya yang sangat terdampak. Adapun evaluasi kesehatan mental secara keseluruhan menunjukkan
+nilai yang relatif netral.
+Model perubahan perjalanan saat pandemi mengkonfirmasi dugaan bahwa perubahan kesehatan mental
+pada saat pandemi berkorelasi terhadap perubahan perilaku perjalanan dan aktivitas. Masyarakat yang
+memiliki penurunan kesehatan mental seperti depresi dan bosan sangat berkaitan dengan kurangnya
+aktivitas diluar rumah saat pandemi. Hal ini berkaitan dengan aktivitas dirumah yang berhubungan
+dengan pemenuhan kesehatan mental [18], sehingga dengan terbatasnya kegiatan diluar rumah, pelaku
+perjalanan merasakan kekurangan dan keterbatasan dari kebutuhannya. Pelaku perjalanan yang
+mengalami kelelahan saat pandemi cenderung berasosiasi dengan berkurangnya aktivitas online saat
+pandemi. Hal ini diduga terjadi karena akses kepada kegiatan online masih terbatas dibeberapa lokasi di
+Indonesia sehingga belum meratanya penggunaan hal tersebut. Seragam dengan hal tersebut, studi
+Mokhtarian [19] menggarisbawahi bahwa adaptasi TIK untuk mengganti kebutuhan perjalanan sangat
+berkaitan dengan tersedianya infrastruktur, teknologi, serta kapasitas pengguna. Disisi lain aksesibilitas
+dalam hal kapasitas finansial sangat berkaitan dengan adaptasi TIK yang lebih tinggi. Hal ini sangat
+Rekayasa Hijau – 132
+
+Kesehatan Mental dan Perubahan Aktivitas-Perjalanan Saat Pandemi COVID-19 di Indonesia
+
+berkaitan dengan mudahnya masyarakat berpedapatan tinggi untuk mendapatkan/membeli teknologi
+TIK terkini untuk melakukan kegiatan online daripada masyarakat berpendapatan rendah. Menariknya,
+masyarakat berpendapatan tinggi juga cenderung lebih mengurangi perjalanannya saat pandemi.
+
+5. KESIMPULAN
+Studi ini mengkonfirmasi bahwa terdapat perubahan aktivitas dan perjalanan saat pandemi COVID-19
+dan perubahan ini berhubungan dengan penurunan kesehatan mental. Hasil analisis menunjukkan bahwa
+beberapa tipe kesehatan mental seperti depresi dan bosan sangat berkaitan dengan penurunan pola
+perjalanan, sedangkan kelelahan berkaitan dengan kurangnya aksesiblitas kepada kegiatan TIK. Studi
+ini juga menemukan bahwa masyarakat berpendapatan tinggi, memiliki kesempatan aksesbilitas kepada
+TIK yang tinggi, cenderung melakukan kegiatan online lebih banyak dan juga mengurangi perjalanan
+mereka keluar tempat tinggal.
+Berdasarkan temuan tersebut beberapa rekomendasi dapat disampaikan. Pertama peningkatan kualitas
+infrastrutkur TIK ditemukan berkorelasi terhadap pemenuhan kebutuhan mental, sehingga pembenahan
+kualitas internet atau subsidi internet direkomendasikan untuk menjadi agenda prioritas pemerintah
+maupun swasta. Peningkatan ini dapat juga membantu usaha masyarakat sehingga perekonomian
+masyarakat dapat terbantu. Kedua, pemerintah perlu melakukan antisipasi penurunan kesehatan mental
+seperti bosan atau depresi dikarenakan karantina dengan pembangunan fasilitas aktif diluar rumah
+seperti taman disekitar perumahan untuk mencegah kebosanan atau depresi. Menyeimbangkan kegiatan
+dirumah dan kegiatan aktif tersebut dapat mengurangi tingkat kebosanan atau depresi saat pandemi
+namun tetap sesuai dengan protokol kesehatan. Diharapkan dengan pembenahan ini tidak hanya dapat
+dilakukan manajemen pergerakan pada pandemi, namun juga tetap menjaga kesehatan mental
+masyarakat.
+
+UCAPAN TERIMA KASIH
+Penelitian ini dibiayai oleh hibah dosen muda Institut Teknologi Nasional Bandung. Para penulis
+berterimakasih pada pihak-pihak yang membantu pengumpulan data.
+
+DAFTAR PUSTAKA
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+
+S. Null and H. Smith, “COVID-19 Could Affect Cities for Years. Here Are 4 Ways They’re
+Coping Now,” Mar. 26, 2020. https://wri-indonesia.org/en/blog/how-cities-coping-with-covid-19
+(accessed Jun. 06, 2020).
+C. Musselwhite, E. Avineri, and Y. Susilo, “Editorial JTH 16 –The Coronavirus Disease
+COVID-19 and implications for transport and health,” J. Transp. Health, vol. 16, p. 100853,
+Mar. 2020, doi: 10.1016/j.jth.2020.100853.
+Moovit, “Moovit Public Transit Index,” May 2020.
+https://moovitapp.com/insights/en/Moovit_Insights_Public_Transit_Index-countries (accessed
+Jun. 10, 2020).
+UITP, “Bus operations in India: what has been the impact of COVID-19?,” UITP, May 27, 2020.
+https://www.uitp.org/news/bus-operations-india-what-has-been-impact-covid-19 (accessed Jun.
+10, 2020).
+CNN Indonesia, “Corona Bikin Transjakarta, KRL, MRT, dan LRT Sepi Penumpang,” ekonomi,
+Apr. 20, 2020. https://www.cnnindonesia.com/ekonomi/20200420111334-92-495176/coronabikin-transjakarta-krl-mrt-dan-lrt-sepi-penumpang (accessed Jun. 10, 2020).
+J. Clement, “COVID-19 impact retail e-commerce site traffic 2020,” Statista, Jun. 03, 2020.
+https://www.statista.com/statistics/1112595/covid-19-impact-retail-e-commerce-site-trafficglobal/ (accessed Jun. 10, 2020).
+Rekayasa Hijau – 133
+
+Muhamad Rizki dkk.
+
+[7]
+
+A. Kunst, “Online shopping due to the COVID-19 pandemic 2020,” Statista, Jun. 02, 2020.
+https://www.statista.com/statistics/1107859/shifting-to-online-purchases-because-of-the-covid19-pandemic-by-category/ (accessed Jun. 10, 2020).
+[8] Y. Pusparisa, “E-Commerce Tumbuh di Tengah Pandemi Covid-19,” May 20, 2020.
+https://katadata.co.id/infografik/2020/05/20/e-commerce-tumbuh-di-tengah-pandemi-covid-19
+(accessed Jun. 10, 2020).
+[9] J. De Vos, “The effect of COVID-19 and subsequent social distancing on travel behavior,”
+Transp. Res. Interdiscip. Perspect., vol. 5, p. 100121, May 2020, doi:
+10.1016/j.trip.2020.100121.
+[10] S. K. Brooks et al., “The psychological impact of quarantine and how to reduce it: rapid review
+of the evidence,” The Lancet, vol. 395, no. 10227, pp. 912–920, Mar. 2020, doi: 10.1016/S01406736(20)30460-8.
+[11] J. McKimm, “Life in lockdown: how the COVID-19 pandemic complicates existing mental
+health conditions,” May 08, 2020. https://rcni.com/nursing-standard/features/life-lockdown-howcovid-19-pandemic-complicates-existing-mental-health-conditions-160426 (accessed Jun. 07,
+2020).
+[12] D. Campbell, “UK lockdown causing ‘serious mental illness in first-time patients,’” the
+Guardian, May 15, 2020. http://www.theguardian.com/society/2020/may/16/uk-lockdowncausing-serious-mental-illness-in-first-time-patients (accessed Jun. 07, 2020).
+[13] S. M. Kissler, C. Tedijanto, E. Goldstein, Y. H. Grad, and M. Lipsitch, “Projecting the
+transmission dynamics of SARS-CoV-2 through the postpandemic period,” Science, vol. 368,
+no. 6493, pp. 860–868, May 2020, doi: 10.1126/science.abb5793.
+[14] M. Roberts, F. Gil Sander, and S. Tiwari, “Augment, Connect, Target: Realizing Indonesia’s
+Urban Potential,” World Bank, Text/HTML, 2019. Accessed: Mar. 31, 2020. [Online].
+Available: https://www.worldbank.org/en/country/indonesia/publication/augment-connecttarget-realizing-indonesias-urban-potential.
+[15] R. Djalante et al., “Review and analysis of current responses to COVID-19 in Indonesia: Period
+of January to March 2020,” Prog. Disaster Sci., vol. 6, p. 100091, Apr. 2020, doi:
+10.1016/j.pdisas.2020.100091.
+[16] K. W. Axhausen, “Activity Spaces, Biographies, Social Networks and their Welfare Gains and
+Externalities: Some Hypotheses and Empirical Results,” Mobilities, vol. 2, no. 1, pp. 15–36,
+Mar. 2007, doi: 10.1080/17450100601106203.
+[17] M. Kroesen, S. Handy, and C. Chorus, “Do attitudes cause behavior or vice versa? An
+alternative conceptualization of the attitude-behavior relationship in travel behavior modeling,”
+Transp. Res. Part Policy Pract., vol. 101, pp. 190–202, Jul. 2017, doi:
+10.1016/j.tra.2017.05.013.
+[18] D. Ettema, T. Gärling, L. E. Olsson, and M. Friman, “Out-of-home activities, daily travel, and
+subjective well-being,” Transp. Res. Part Policy Pract., vol. 44, no. 9, pp. 723–732, Nov. 2010,
+doi: 10.1016/j.tra.2010.07.005.
+[19] P. L. Mokhtarian, “If telecommunication is such a good substitute for travel, why does
+congestion continue to get worse?:,” Transp. Lett., vol. Vol 1, no. No 1, pp. 1–17, 2009.
+[20] J. F. Hair, W. C. Black, B. J. Babin, and R. E. Anderson, Multivariate Data Analysis. Harlow,
+Essex: Pearson, 2010.
+[21] M. Z. Irawan, M. Rizki, T. B. Joewono, and P. F. Belgiawan, “Exploring the intention of out-ofhome activities participation during new normal conditions in Indonesian cities,” Transp. Res.
+Interdiscip. Perspect., vol. 8, p. 100237, Nov. 2020, doi: 10.1016/j.trip.2020.100237.
+[22] M. Rizki, T. B. Joewono, P. F. Belgiawan, and M. Z. Irawan, “The travel behaviour of ridesourcing users, and their perception of the usefulness of ride-sourcing based on the users’
+previous modes of transport: A case study in Bandung City, Indonesia,” IATSS Res., Dec. 2020,
+doi: 10.1016/j.iatssr.2020.11.005.
+Rekayasa Hijau – 134
+
+Kesehatan Mental dan Perubahan Aktivitas-Perjalanan Saat Pandemi COVID-19 di Indonesia
+
+[23] M. Rizki, T. B. Joewono, and P. F. Belgiawan, “Travel Experience and Multitasking of Toll
+Road Users in Jakarta Metropolitan Area, Indonesia: An Investigation for Passenger of Private
+Car, Taxi, and Ride-sourcing,” J. East. Asia Soc. Transp. Stud., vol. 13, pp. 523–541, 2019, doi:
+10.11175/easts.13.523.
+[24] M. H. Kutner, Applied Linear Statistical Models. McGraw-Hill Irwin, 2005.
+
+Rekayasa Hijau – 135
+
+

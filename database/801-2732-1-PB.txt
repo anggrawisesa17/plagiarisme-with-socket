@@ -1,0 +1,1153 @@
+Pengaruh Inflasi, Suku Bunga, Kurs, dan Pertumbuhan PDB Terhadap Indeks Harga Saham Gabungan –
+Suramaya Suci Kewal
+
+PENGARUH INFLASI, SUKU BUNGA, KURS, DAN PERTUMBUHAN PDB TERHADAP
+INDEKS HARGA SAHAM GABUNGAN
+Suramaya Suci Kewal
+Sekolah Tinggi Ilmu Ekonomi Musi Palembang, Indonesia
+suramayasuci@yahoo.com
+
+Abstract: The Effect of Inflation, interest rate, exchange rate, and GDP growth
+Toward Indonesia Composite Index. This research aims to investigate empirically the
+effect of selected macroeconomic variables, i.e., inflation rate, Bank Indonesia
+Certificate rate, the exchange rate on IDR, and GDP growth on Indonesia Composite
+Index at The Indonesia Stock Exchanges (IDX). This paper examines the direct effect
+of selected macroeconomic variabel on Indonesia Composite Index. The paper
+employs a regression model analysis. The result indicates that only the exchange rate
+on IDR significantly effects to Indonesia Composite Index. The inflation rate, Bank
+Certificate rate, and GDP growth do not effect to Indonesia Composite Index. This
+research only covers four selected macroeconomic variables. Therefore, further
+research should examine other potential macroeconomic variables.
+Keywords: macroeconomic variables, Indonesia Composite Index
+Abstrak: Pengaruh Inflasi, Suku Bunga, Kurs, dan Pertumbuhan PDB Terhadap
+Indeks Harga Saham Gabungan. Penelitian ini bertujuan untuk meneliti secara
+empiris pengaruh variabel‐variabel makroekonomi, yaitu : tingkat inflasi, suku bunga
+sertifikat Bank Indonesia, kurs, dan tingkat pertumbuhan GDP terhadap IHSG di
+Bursa Efek Indonesia. Teknik analisis yang digunakan adalah regresi berganda. Hasil
+penelitian menemukan bahwa hanya kurs yang berpengaruh secara signifikan
+terhadap IHSG, sedangkan tingkat inflasi, suku bunga SBI dan pertumbuhan PDB
+tidak berpengaruh terhadap IHSG. Penelitian ini hanya menggunakan empat variabel
+makroekonomi, sehingga penelitian selanjutnya perlu menemukan variabel
+makroekonomi lain yang diduga berpengaruh terhadap IHSG.
+Kata kunci : variabel makroekonomi, IHSG.
+
+Pendahuluan
+Lingkungan ekonomi makro merupakan
+lingkungan yang mempengaruhi operasi
+perusahaan
+sehari‐hari.
+Kemampuan
+investor dalam memahami dan meramalkan
+kondisi ekonomi makro di masa datang akan
+sangat
+berguna
+dalam
+pembuatan
+keputusan investasi yang menguntungkan.
+Untuk itu, seorang investor harus
+mempertimbangkan beberapa indikator
+ekonomi makro yang bisa membantu
+investor dalam membuat keputusan
+
+investasinya. Indikator ekonomi makro yang
+seringkali dihubungkan dengan pasar modal
+adalah fluktuasi tingkat bunga, inflasi, kurs
+rupiah, dan pertumbuhan PDB.
+Secara teori, tingkat bunga dan harga
+saham memiliki hubungan yang negatif
+(Tandelilin, 2010). Tingkat bunga yang
+terlalu tinggi akan mempengaruhi nilai
+sekarang (present value) aliran kas
+perusahaan,
+sehingga
+kesempatan‐
+kesempatan investasi yang ada tidak akan
+menarik lagi. Tingkat bunga yang tinggi juga
+53
+
+Jurnal Economia, Volume 8, Nomor 1, April 2012
+
+akan meningkatkan biaya modal yang akan
+ditanggung perusahaan dan juga akan
+menyebabkan return yang diisyaratkan
+investor dari suatu investasi akan
+meningkat.
+Demikian pula halnya dengan inflasi,
+tingkat inflasi yang tinggi biasanya dikaitkan
+dengan kondisi ekonomi yang terlalu panas
+(overheated). Artinya, kondisi ekonomi
+mengalami permintaan atas produk yang
+melebihi kapasitas penawaran produknya,
+sehingga harga‐harga cenderung mengalami
+kenaikan. Inflasi yang terlalu tinggi juga
+akan menyebabkan penurunan daya beli
+uang (purchasing power of money).
+Disamping itu, inflasi yang tinggi juga bisa
+mengurangi tingkat pendapatan riil yang
+diperoleh investor dari investasinya.
+Kurs merupakan variabel makroekonomi
+yang turut mempengaruhi volatilitas harga
+saham. Depresiasi mata uang domestik akan
+meningkatkan
+volume
+ekspor.
+Bila
+permintaan pasar internasional cukup
+elastis hal ini akan meningkatkan cash flow
+perusahaan domestik, yang kemudian
+meningkatkan harga saham, yang tercermin
+pada IHSG. Sebaliknya, jika emiten membeli
+produk dalam negeri, dan memiliki hutang
+dalam bentuk dollar maka harga sahamnya
+akan turun. Depresiasi kurs akan menaikkan
+harga saham yang tercermin pada IHSG
+dalam perekonomian yang mengalami
+inflasi.
+Produk Domestik Bruto (PDB) termasuk
+faktor yang mempengaruhi perubahan
+harga saham. Estimasi PDB akan
+menentukan perkembangan perekonomian.
+PDB berasal dari jumlah barang konsumsi
+yang bukan termasuk barang modal.
+Dengan meningkatnya jumlah barang
+54
+
+konsumsi menyebabkan perekonomian
+bertumbuh, dan meningkatkan skala omset
+penjualan perusahaan, karena masyarakat
+yang
+bersifat
+konsumtif.
+Dengan
+meningkatnya omset penjualan maka
+keuntungan perusahaan juga meningkat.
+Peningkatan keuntungan menyebabkan
+harga saham perusahaan tersebut juga
+meningkat,
+yang
+berdampak
+pada
+pergerakan IHSG.
+Dalam beberapa tahun terakhir, indeks
+pasar saham Bursa Efek Indonesia
+menunjukkan adanya peningkatan yang
+cukup drastis, yaitu dari tingkat 416,32 pada
+akhir tahun 2000 menjadi 2.534,36 pada
+akhir tahun 2009 atau meningkat sebesar
+508,75 persen. Walaupun pertumbuhan
+indeks yang tinggi sempat terhambat pada
+tahun 2008 karena krisis global yang
+mempengaruhi kinerja pasar saham seluruh
+dunia termasuk Bursa Efek Indonesia yaitu
+mengalami penurunan indeks sebesar 50,64
+persen dari tahun sebelumnya, namun
+pertumbuhan kembali pesat terjadi pada
+tahun 2009 yaitu sebesar 86,98 persen dari
+tahun 2008.
+Pertumbuhan PDB Indonesia dari tahun
+2000 sampai tahun 2009 menunjukkan tren
+naik, walaupun pertumbuhan PDB sempat
+mengalami penurunan di tahun 2001.
+Adanya trend naik dari pertumbuhan PDB
+ini sejalan dengan adanya trend naik dari
+IHSG. Secara teori dapat dijelaskan bahwa
+peningkatan PDB dapat meningkatkan daya
+beli konsumen terhadap produk‐produk
+perusahaan
+sehingga
+meningkatkan
+profitabilitas perusahaan. Dengan adanya
+peningkatan profitabilitas perusahaan dapat
+meningkatkan
+kepercayaan
+investor
+sehingga dapat meningkatkan harga saham.
+
+Pengaruh Inflasi, Suku Bunga, Kurs, dan Pertumbuhan PDB Terhadap Indeks Harga Saham Gabungan –
+Suramaya Suci Kewal
+
+Sangkyun (1997) yang meneliti pengaruh
+antara variabel makro berupa harga
+konsumen, GDP, tingkat inflasi dan tingkat
+bunga terhadap return saham menemukan
+hasil bahwa hanya GDP yang berpengaruh
+secara positif dan signifikan terhadap return
+saham, sedangkan variabel lain tidak
+berpengaruh.
+Hooker
+(2004)
+juga
+mendukung hasil penelitian tersebut
+dimana return pasar dipengaruhi secara
+positif signifikan oleh pertumbuhan GDP.
+Penguatan IHSG disertai dengan adanya
+peningkatan inflasi tahunan dari tahun 2000
+sampai tahun 2008, sedangkan pada tahun
+2009 tingkat inflasi menurun sebesar 52,47
+persen dari tahun sebelumnya, yaitu
+sebesar 4,9 persen. Nilai inflasi pada tahun
+2000 sebesar 3,8 persen menjadi 10,31
+persen di tahun 2008 atau mengalami
+kenaikan sebesar 171,32 persen. Inflasi yang
+paling buruk terjadi pada tahun 2006 yaitu
+sebesar 12,50 persen. Kenaikan inflasi pada
+tahun 2006 berasal dari lonjakan harga
+minyak
+dunia
+yang
+mendorong
+dikeluarkannya kebijakan subsidi harga BBM
+dan akibat harga komoditi global yang
+tinggi. Trend inflasi yang berfluktuasi pada
+tahun
+2000
+sampai
+tahun
+2009
+menunjukkan
+adanya
+ketidakstabilan
+tingkat inflasi di Indonesia. Ketidakstabilan
+inflasi disertai dengan peningkatan IHSG
+pada periode pengamatan. Pada beberapa
+periode pengamatan, kenaikan inflasi
+disertai dengan adanya kenaikan IHSG, yaitu
+pada tahun 2004 sampai tahun 2006. Inflasi
+memiliki hubungan negatif dengan harga
+saham. Inflasi meningkatkan pendapatan
+dan biaya perusahaan. Jika peningkatan
+biaya produksi lebih tinggi dari peningkatan
+
+harga yang dapat dinikmati oleh perusahaan
+maka profitabilitas perusahaan akan turun.
+Jika profit yang diperoleh perusahaan kecil,
+hal ini akan mengakibatkan para investor
+enggan
+menanamkan
+dananya
+di
+perusahaan tersebut sehingga harga saham
+menurun.
+Kurs rupiah terhadap US$ mengalami
+trend yang sedikit mengalami kenaikan
+(rupiah sedikit mengalami depresiasi). Kurs
+rupiah mengalami sedikit apresiasi pada
+tahun 2009 yaitu sebesar 1,54 persen
+(menguat dari akhir tahun 2000 sebesar
+Rp9.595,00 dan di akhir tahun 2009 sebesar
+Rp9.447,00). Rupiah sempat mengalami
+depresiasi pada tahun 2001 yaitu sebesar
+8,93 persen dari tahun sebelumnya dan
+pada tahun 2008 yaitu sebesar 16,26 persen
+dari tahun sebelumnya. Depresiasi yang
+terjadi terbesar yaitu pada tahun 2008.
+Sedangkan apresiasi terbesar terjadi pada
+tahun 2003 yaitu sebesar 5,32 persen.
+Berbeda dengan inflasi yang berfluktuasi
+tetapi tidak stabil, perkembangan kurs yang
+terjadi juga berfluktuasi tetapi masih
+fluktuasi yang terjadi masih cukup stabil.
+Hubungan antara saham dan kurs
+mempunyai hasil dan mekanisasi yang
+saling
+berlawanan. Secara
+teoretis
+perbedaan arah hubungan antara kurs
+dan harga saham dapat dijelaskan
+dengan pendekatan tradisional dan model
+portofolio balance (Granger et. al, 1998).
+Pendekatan tradisional mengatakan bahwa
+hubungan antara kurs dan harga saham
+adalah positif, di mana perubahan nilai
+tukar mempengaruhi pendapatan dan biaya
+operasional perusahaan, yang pada akhirnya
+menyebabkan perubahan pada harga
+
+55
+
+Jurnal Economia, Volume 8, Nomor 1, April 2012
+
+saham. Pendekatan “portofolio balance”
+mengasumsikan saham sebagai bagian dari
+kekayaan sehingga dapat mempengaruhi
+perilaku nilai tukar melalui hukum demand
+for money yang sesuai dengan model
+monetaris dari determinasi nilai tukar.
+Pendekatan ini mengasumsikan terdapat
+hubungan yang negatif antara harga saham
+dan nilai tukar, dengan arah kausalitas dari
+pasar saham ke pasar uang, sesuai dengan
+interaksi pasar keuangan yang sangat cepat.
+Penelitian yang dilakukan oleh Gupta
+et.al. (1997) menemukan bahwa nilai tukar
+memiliki hubungan sebab akibat yang
+rendah dengan harga saham. Wangbangpo
+dan Sharma (2002) menemukan bahwa nilai
+tukar memiliki hubungan positif dengan
+harga saham di negara Indonesia, Malaysia
+dan Filipina, sebaliknya berhubungan
+negatif di Singapura dan Thailand. Hasil
+penelitian Wangbangpo dan Sharma (2002)
+didukung pula oleh penelitian yang
+dilakukan oleh Kandir (2008) dimana nilai
+kurs mempengaruhi secara positif terhadap
+return dari semua portofolio yang ada.
+Sebaliknya, Mok (1993) yang meneliti
+hubungan sebab akibat antara tingkat
+bunga, nilai tukar dan harga saham pada
+pasar saham terbuka dan tertutup di Hong
+Kong menunjukkan hasil bahwa tidak ada
+hubungan yang signifikan antara tingkat
+bunga, nilai tukar dengan harga saham.
+Suku bunga SBI mengalami fluktuasi
+pada tahun 2000 sampai dengan tahun
+2009. Terjadi penurunan suku bunga SBI
+dari sebesar 14,31 persen pada tahun 2000
+menjadi 6,59 persen pada tahun 2009. Suku
+bunga SBI sempat mengalami peningkatan
+yang cukup tinggi pada tahun 2001, 2005
+dan 2008 yaitu masing‐masing sebesar
+56
+
+17,63 persen, 12,83 persen, dan 11,08
+persen. Suku bunga SBI mengalami titik
+terendah pada tahun 2004 sebesar 7,29
+persen.
+Adanya trend penurunan suku bunga SBI
+disertai dengan peningkatan IHSG. Kontraksi
+moneter yang mendorong peningkatan suku
+bunga dapat menambah cost of capital bagi
+perusahaan. Selain itu, peningkatan suku
+bunga membuat nilai imbal hasil dari
+deposito dan obligasi menjadi lebih
+menarik, sehingga banyak investor pasar
+modal yang mengalihkan portofolio
+sahamnya. Meningkatnya aksi jual dan
+minimnya permintaan akan menurunkan
+harga saham dan sebaliknya (Prastowo,
+2008:9).
+Hooker (2004) juga menemukan bahwa
+tingkat bunga berpengaruh negatif terhadap
+return pasar. Hasil penelitian tersebut juga
+didukung oleh Chiarella dan Gao (2004).
+Gjerde dan Sættem (1999) dalam
+penelitiannya yang mengkaji hubungan
+sebab akibat antara return saham dengan
+variabel makroekonomi memperoleh hasil
+perubahan suku bunga riil berpengaruh
+secara negatif dengan harga saham, di sisi
+lain perubahan suku bunga riil juga
+mempengaruhi tingkat inflasi. Hasil yang
+diperoleh dari penelitian tersebut konsisten
+dengan dengan hasil yang diperoleh di
+Jepang dan Amerika. Hasil ini juga didukung
+oleh hasil penelitian Kandir (2008) dimana
+tingkat bunga mempengaruhi secara negatif
+return semua portofolio yang diteliti.
+Wongbangpo
+dan
+Sharma
+(2002)
+menemukan bahwa terdapat hubungan
+negatif antara harga saham dan tingkat
+bunga di negara Filipina, Singapura, dan
+Thailand, sedangkan hubungan positif
+
+Pengaruh Inflasi, Suku Bunga, Kurs, dan Pertumbuhan PDB Terhadap Indeks Harga Saham Gabungan –
+Suramaya Suci Kewal
+
+terjadi di negara Indonesia dan Malaysia.
+Hasil yang diperoleh Gupta, Chevalier dan
+Sayekt (1997) bahwa terlihat dari trend,
+dibandingkan dengan nilai tukar, tingkat
+bunga lebih memiliki hubungan sebab
+akibat dengan harga saham.
+Mengingat masih adanya pertentangan
+dalam kajian sebelumnya, maka dirasakan
+perlu untuk melakukan penelitian mengenai
+pengaruh inflasi, suku bunga SBI, kurs
+rupiah, dan pertumbuhan PDB terhadap
+harga saham perusahaan‐perusahaan di
+sektor‐sektor
+ekstraktif
+(sektor
+pertambangan, sektor pertanian), sektor‐
+sektor industri pengolahan (sektor industri
+dasar dan kimia, sektor aneka industri,
+sektor industri barang konsumsi), dan
+sektor‐sektor industri jasa (sektor properti
+dan real estate, sektor transportasi dan
+infrastruktur, sektor keuangan, sektor
+perdagangan, jasa dan investasi) dan indeks
+harga saham gabungan di Bursa Efek
+Indonesia. Alasan pengambilan kedua sektor
+tersebut adalah karena sektor‐sektor
+tersebut dipengaruhi oleh keempat variabel
+yang akan diteliti, yaitu : tingkat inflasi, suku
+bunga SBI, kurs rupiah, dan pertumbuhan
+PDB.
+Inflasi didefinisikan sebagai suatu gejala
+di mana tingkat harga umum mengalami
+kenaikan secara terus menerus (Nanga,
+2001 : 241). Berdasarkan definisi tersebut,
+kenaikan tingkat harga umum (general price
+level) yang terjadi sekali waktu saja, tidaklah
+dapat dikatakan sebagai inflasi. Ada tiga
+komponen yang harus dipenuhi agar dapat
+dikatakan telah terjadi inflasi, komponen
+tersebut yaitu: a) Adanya kecenderungan
+harga‐harga untuk meningkat, yang berarti
+
+bisa saja tingkat harga yang terjadi pada
+waktu
+tertentu
+turun
+atau
+naik
+dibandingkan dengan sebelumnya, tetapi
+tetap
+menunjukkan
+tendensi
+yang
+meningkat. b) Bahwa kenaikan tingkat harga
+tersebut berlangsung secara terus menerus
+(sustained), yang berarti bukan terjadi pada
+suatu waktu saja, akan tetapi bisa beberapa
+waktu lamanya. c) Bahwa tingkat harga yang
+dimaksud disini adalah tingkat harga secara
+umum, yang berarti tingkat harga yang
+mengalami kenaikan itu bukan hanya pada
+satu atau beberapa komoditi saja, akan
+tetapi untuk harga barang secara umum.
+Suatu kenaikan harga dalam inflasi dapat
+diukur dengan menggunakan indeks harga.
+Ada beberapa indeks harga yang dapat
+digunakan untuk mengukur laju inflasi
+antara lain: a) Consumer price index (CPI),
+indeks yang digunakan untuk mengukur
+biaya atau pengeluaran rumah tangga
+dalam membeli sejumlah barang bagi
+keperluan kebutuhan hidup. b) Produsen
+price index (PPI), indeks yang lebih menitik
+beratkan pada perdagangan besar seperti
+harga bahan mentah, bahan baku, atau
+bahan setenga jadi. c) Gross National
+Product (GNP) deflator, merupakan jenis
+indeks yang berbeda dengan dengan indeks
+CPI dan PPI, dimana indeks ini mencakup
+jumlah barang dan jasa yang termasuk
+dalam hitungan GNP.
+Hooker (2004) menemukan bahwa
+tingkat inflasi mempengaruhi secara
+signifikan
+terhadap
+harga
+saham.
+Peningkatan inflasi secara relatif merupakan
+sinyal negatif bagi pemodal di pasar modal.
+Inflasi meningkatkan pendapatan dan biaya
+perusahaan. Jika peningkatan biaya
+
+57
+
+Jurnal Economia, Volume 8, Nomor 1, April 2012
+
+produksi lebih tinggi dari peningkatan harga
+yang dapat dinikmati oleh perusahaan maka
+profitabilitas perusahaan akan turun. Jika
+profit yang diperoleh perusahaan kecil, hal
+ini akan mengakibatkan para investor
+enggan
+menanamkan
+dananya
+di
+perusahaan tersebut sehingga harga saham
+menurun.
+Tingkat suku bunga menyatakan tingkat
+pembayaran atas pinjaman atau investasi
+lain, di atas perjanjian pembayaran kembali,
+yang dinyatakan dalam persentase tahunan
+(Dornbusch, et.al., 2008 : 43). Suku bunga
+mempengaruhi keputusan individu terhadap
+pilihan membelanjakan uang lebih banyak
+atau menyimpan uangnya dalam bentuk
+tabungan. Suku bunga juga merupakan
+sebuah harga yang menghubungkan masa
+kini dengan masa depan, sebagaimana
+harga lainnya maka tingkat suku bunga
+ditentukan oleh interaksi antara permintaan
+dan penawaran.
+Suku bunga mempengaruhi laba
+perusahaan dalam dua cara yaitu: a) Karena
+bunga merupakan biaya, maka makin tinggi
+suku bunga, makin rendah laba perusahaan
+apabila hal lain tetap konstan. b) Suku
+bunga mempengaruhi tingkat aktivitas
+ekonomi sehingga mempengaruhi laba
+perusahaan.
+Suku bunga yang mempengaruhi laba
+perusahaan, dapat mempengaruhi harga
+saham (common stock) dengan tiga cara
+yaitu: a) Perubahan suku bunga dapat
+mempengaruhi kondisi perusahaan, kondisi
+bisnis
+secara
+umum
+dan
+tingkat
+profitabilitas perusahaan yang tentunya
+akan mempengaruhi harga saham di pasar
+modal. b) Perubahan suku bunga juga akan
+mempengaruhi hubungan perolehan dari
+58
+
+obligasi dan perolehan dividen saham, oleh
+karena itu daya tarik yang relatif kuat antara
+saham dan obligasi. c) Perubahan suku
+bunga juga akan mempengaruhi psikologis
+para investor sehungan dengan investasi
+kekayaan, sehingga mempengaruhi harga
+saham.
+Tingkat bunga yang tinggi merupakan
+sinyal negatif terhadap harga saham.
+Tingkat suku bunga yang meningkat akan
+meningkatkan suku bunga yang diisyaratkan
+atas investasi pada suatu saham. Di samping
+itu, tingkat suku bunga yang meningkat bisa
+juga menyebabkan investor menarik
+investasinya
+pada
+saham
+dan
+memindahkannya pada investasi berupa
+tabungan ataupun deposito. Weston dan
+Brigham (1994) mengemukakan bahwa
+tingkat bunga mempunyai pengaruh yang
+besar terhadap harga saham. Suku bunga
+yang
+makin
+tinggi
+memperlesu
+perekonomian, menaikan biaya bunga
+dengan demikian menurunkan laba
+perusahaan, dan menyebabkan para
+investor menjual saham dan mentransfer
+dana ke pasar obligasi.
+Kurs atau nilai tukar adalah harga harga
+dari mata uang luar negeri (Dornbusch,
+et.al., 2008 : 46). Kenaikan nilai tukar (kurs)
+mata uang dalam negeri disebut apresiasi
+atas mata uang (mata uang asing lebih
+murah, hal ini berarti nilai mata uang asing
+dalam negeri meningkat). Penurunan nilai
+tukar (kurs) disebut depresiasi mata uang
+dalam negeri (mata uang asing menjadi
+lebih mahal, yang berarti mata uang dalam
+negeri menjadi merosot).
+Nilai tukar atau disebut juga kurs valuta
+dalam berbagai transaksi ataupun jual beli
+valuta asing, dikenal ada empat jenis, yaitu:
+
+Pengaruh Inflasi, Suku Bunga, Kurs, dan Pertumbuhan PDB Terhadap Indeks Harga Saham Gabungan –
+Suramaya Suci Kewal
+
+1. Selling rate (kurs jual), yaitu kurs yang
+ditentukan oleh suatu bank untuk
+penjualan valuta asing tertentu pada
+saat tertentu.
+2. Middle rate (kurs tengah), yaitu kurs
+tengah antara kurs jual dan kurs beli
+valuta asing terhadap mata uang
+nasional, yang ditetapkan oleh Bank
+Central pada suatu saat tertentu.
+3. Buying rate (kurs beli), yaitu kurs yang
+ditentukan oleh suatu bank untuk
+pembelian valuta asing tertentu pada
+saat tertentu.
+4. Flat rate (kurs flat), yaitu kurs yang
+berlaku dalam transaksi jual beli bank
+notes dan traveler chaque, di mana
+dalam
+kurs
+tersebut
+telah
+diperhitungkan promosi dan biaya lain‐
+lain.
+Hubungan antara saham dan kurs yang
+didasarkan pada pendekatan keseimbangan
+portofolio. Para investor mengalokasikan
+kekayaan mereka diantara aset‐aset
+alternatif
+termasuk
+uang
+domestik,
+sekuritas domestik maupun asing. Peran
+nilai tukar adalah untuk menyeimbangkan
+antara pemenuhan (supply) dan kebutuhan
+(demand) aset yang ada. Oleh karena itu
+setiap
+perubahan
+kebutuhan
+dan
+pemenuhan dari aset akan mengubah
+keseimbangan nilai tukar. Sebagai contoh,
+terjadinya penambahan harga saham
+domestik akan menambah kekayaan dan
+kebutuhan akan uang dan konsekuensinya
+tingkat suku bunga akan meningkat.
+Tingginya tingkat suku bunga pada
+gilirannya, akan menaikkan modal asing,
+dan hasilnya adalah peningkatan kurs
+
+domestik dan suatu peningkatan nilai tukar
+riil.
+Menurut Granger, et. al (1998) secara
+teoretis perbedaan arah hubungan antara
+kurs dan harga saham dapat dijelaskan
+dengan pendekatan tradisional dan model
+portofolio balance. Pendekatan tradisional
+mengatakan bahwa hubungan antara kurs
+dan harga saham adalah positif, di mana
+perubahan nilai tukar mempengaruhi
+kompetitifnya suatu perusahaan. Hal ini
+sebagai efek dari fluktuasi nilai tukar yang
+mempengaruhi pendapatan dan biaya
+operasional perusahaan, yang pada akhirnya
+menyebabkan perubahan pada harga
+sahamnya. Dengan kata lain, pergerakan
+nilai tukar mempengaruhi nilai pembayaran
+(penerimaan) masa depan suatu perusahaan
+yang didenominasi oleh mata uang luar
+negeri. Berlawanan dengan pendekatan
+tradisional, pendekatan “portofolio balance”
+mengasumsikan saham sebagai bagian dari
+kekayaan sehingga dapat mempengaruhi
+perilaku nilai tukar melalui hukum demand
+for money yang sesuai dengan model
+monetaris dari determinasi nilai tukar.
+Pendekatan ini mengasumsikan terdapat
+hubungan yang negatif antara harga saham
+dan nilai tukar, dengan arah kausalitas dari
+pasar saham ke pasar uang, sesuai dengan
+interaksi pasar keuangan yang sangat cepat.
+Hal ini terjadi karena hubungan antara
+kedua pasar terjadi dalam periode waktu
+yang pendek.
+Menurut pendekatan produksi, Produk
+Domestik Bruto (PDB) adalah jumlah nilai
+barang dan jasa akhir yang dihasilkan oleh
+berbagai unit produksi di wilayah suatu
+negara dalam jangka waktu setahun. Produk
+
+59
+
+Jurnal Economia, Volume 8, Nomor 1, April 2012
+
+domestik bruto dapat pula diartikan sebagai
+nilai barang‐barang dan jasa‐jasa yang
+diproduksikan oleh faktor‐faktor produksi
+milik warga negara tersebut dan negara
+asing dalam satu tahun tertentu.
+Produk domestik bruto dinilai menurut
+harga pasar dan dapat didasarkan kepada
+harga yang berlaku dan harga tetap.
+Formula PDB yaitu PNB – PF dari LN. PNB
+merupakan produk nasional suatu negara.
+PF dari LN merupakan pendapatan faktor‐
+faktor produksi yang diterima dari luar
+negeri dikurangi dengan pendapatan faktor‐
+faktor produksi yang dibayarkan keluar
+negeri. Dalam menghitung pendapatan
+nasional
+diperlukan
+adanya
+produk
+domestik bruto.
+Meningkatnya PDB merupakan sinyal
+yang baik (positif) untuk investasi dan
+sebaliknya. Meningkatkan PDB mempunyai
+pengaruh positif terhadap daya beli
+konsumen sehingga dapat meningkatkan
+permintaan terhadap produk perusahaan.
+Adanya peningkatan permintaan terhadap
+produk perusahaan akan meningkatkan
+profit perusahaan dan pada akhirnya dapat
+meningkatkan harga saham perusahaan.
+Sangkyun (1997), Hooker (2004), Chiarella
+dan Gao (2004) menemukan hasil bahwa
+GDP berpengaruh secara signifikan terhadap
+return
+saham.
+Peningkatan
+PDB
+mencerminkan peningkatan daya beli
+konsumen di suatu negara. Adanya
+peningkatan
+daya
+beli
+konsumen
+menyebabkan peningkatan permintaan
+masyarakat terhadap barang dan jasa
+perusahaan
+yang
+nantinya
+akan
+meningkatkan
+profit
+perusahaan.
+Peningkatan profit perusahaan akan
+mendorong peningkatan harga saham.
+60
+
+Berdasarkan pada kajian di atas dapat di
+temukan hipotesis bahwa terdapat pengaruh
+
+negatif tingkat inflasi terhadap Indeks Harga
+Saham Gabungan di BEI; terdapat pengaruh
+negatif suku bunga SBI terhadap Indeks
+Harga Saham Gabungan di BEI; terdapat
+pengaruh negatif kurs rupiah terhadap
+Indeks Harga Saham Gabungan di BEI; terdapat
+pengaruh positif pertumbuhan Produk
+Domestik Bruto terhadap Indeks Harga
+Saham Gabungan di BEI; dan terdapat
+pengaruh tingkat inflasi, suku bunga SBI,
+kurs rupiah, pertumbuhan Produk Domestik
+Bruto terhadap Indeks Harga Saham
+Gabungan di BEI.
+Metode
+
+Jenis data penelitian termasuk ke dalam
+data
+kuantitatif
+dengan
+periode
+pengamatan dari tahun 2000 sampai tahun
+2009. Sumber data yang digunakan dalam
+penelitian ini adalah data sekunder berupa
+data yang mendukung variabel penelitian.
+Data dari variabel independen dalam
+penelitian ini, yaitu : tingkat inflasi, tingkat
+bunga SBI, kurs rupiah, dan pertumbuhan
+PDB. Data dari variabel dependen adalah
+IHSG. Objek penelitian, yaitu Bursa Efek
+Indonesia. Periode penelitian dari tahun
+2000 sampai tahun 2009. Data diperoleh
+dari informasi dan laporan dari Bursa Efek
+Indonesia, Bank Indonesia dan Biro Pusat
+Statistik.
+Penelitian ini melibatkan satu variabel
+dependen yaitu IHSG yang merupakan
+perubahan atau pergerakan harga sham seluruh
+emiten di BEI yang diukur pada setiap akhir
+bulan. Sedangkan variabel independennya
+adalah tingkat inflasi, tingkat suku bunga SBI,
+kurs rupiah terhadap Dollar Amerika dan
+pertumbuhan PDB. Pengukuran laju inflasi
+
+Pengaruh Inflasi, Suku Bunga, Kurs, dan Pertumbuhan PDB Terhadap Indeks Harga Saham Gabungan –
+Suramaya Suci Kewal
+
+berasal dari Laju Inflasi yang tercatat dan
+
+p=0,001. Oleh karena tingkat signifikansi
+
+diterbitkan oleh BPS tiap akhir bulan, tingkat
+
+lebih kecil dari 0,05 (0,001 < 0.05) maka
+dapat disimpulkan bahwa terdapat pengaruh
+tingkat inflasi, suku bunga SBI, kurs rupiah,
+pertumbuhan PDB secara simultan terhadap
+IHSG di BEI. Oleh karena secara simultan
+
+bunga SBI dihitung dari rata‐rata SBI tiga
+bulanan, sementara itu kurs Rupiah terhadap
+Dollar Amerika yang digunakan adalah kurs
+
+tengah rupiah, sedangkan pertumbuhan PDB
+dihitung dari data pertumbuhan PDB yang
+digunakan 3 bulanan.
+Metode analisis data yang digunakan
+dengan adalah analisis regresi berganda.
+Pengujian hipotesis menggunakan uji t,
+sedangkan pengujian model regresi
+menggunakan uji F. Taraf signifikansi yang
+digunakan adalah 5%.
+Hasil dan Pembahasan
+
+Data penelitian sebanyak 120 data
+berhasil dikumpulkan per bulan selama 10
+tahun dari tahun 2000 sampai tahun 2009.
+Tingkat inflasi memiliki nilai minimum
+sebesar ‐0,36%, nilai maksimum sebesar
+7,93%, mean sebesar 0,68% dan deviasi
+standar sebesar 0,87%. Suku bunga memiliki
+nilai minimum sebesar 6,50%, nilai
+maksimum sebesar 17,67%, mean sebesar
+10,63% dan deviasi standar sebesar 3,28%.
+Kurs rupiah memiliki nilai minimum sebesar
+Rp7.425,00, nilai maksimum sebesar
+Rp12.151,00, mean sebesar Rp9.378,62 dan
+deviasi
+standar
+sebesar
+Rp846,58.
+Pertumbuhan PDB memiliki nilai minimum
+sebesar ‐2,79%, nilai maksimum sebesar
+17,54%, mean sebesar 4,22% dan deviasi
+standar sebesar 2,15%. IHSG memiliki nilai
+minimum sebesar 358,23, nilai maksimum
+sebesar 2.745,3, mean sebesar 1.160,00 dan
+deviasi standar sebesar 739,11.
+Untuk melihat pengaruh seluruh variabel
+bebas terhadap variabel terikat secara simultan
+
+diperoleh nilai F sebesar 5,231 dengan
+
+memiliki pengaruh yang signifikan, maka perlu
+diuji pengaruh masing‐masing variabel bebas
+secara parsial. Pengujian dilakukan dengan uji t.
+Hasil pengujian secara parsial pengaruh
+tingkat inflasi terhadap IHSG ditemukan nilai
+koefisien regresi sebesar ‐1,897 dengan t = ‐
+0,305 dan p = 0,761. Oleh karena tingkat
+signifikansi yang ditemukan lebih dari 0,05 maka
+dapat disimpulkan bahwa secara parsial tingkat
+inflasi tidak memiliki pengaruh yang signifikan
+terhadap IHSG.
+
+Hasil yang diperoleh ini serupa dengan
+penelitian yang dilakukan Sangkyun (1997)
+dan Mok (2004) yang menemukan bahwa
+inflasi tidak berpengaruh secara signifikan
+terhadap return saham. Namun, hasil yang
+diperoleh berbeda dengan hasil penelitian
+yang dilakukan oleh Hooker (2004) yang
+menemukan
+bahwa
+tingkat
+inflasi
+mempengaruhi secara positif dan signifikan
+terhadap harga saham. Serkan Yilmaz Kandir
+(2008) juga menemukan bahwa tingkat
+inflasi berpengaruh secara signifikan
+terhadap tiga dari dua belas portofolio yang
+diteliti dan berpengaruh secara positif.
+Berdasarkan data inflasi pada statistik
+deskriptif, rata‐rata tingkat inflasi selama
+periode penelitian sebesar 0,68. Pasar masih
+bisa menerima jika tingkat inflasi di bawah
+10 persen. Namun, bila inflasi menembus
+angka 10 persen, pasar modal akan
+terganggu. Bila inflasi menembus angka 10
+persen maka BI akan meningkatkan BI rate
+yang mengakibatkan investor cenderung
+
+61
+
+Jurnal Economia, Volume 8, Nomor 1, April 2012
+
+mengalihkan modalnya di sektor perbankan.
+Selain itu, suku bunga SBI yang tinggi juga
+akan mengganggu sektor riil.
+Penelitian ini juga menemukan bahwa
+secara parsial suku bunga SBI tidak berpengaruh
+terhadap IHSG. Nilai koefisien regresi yang
+ditemukan adalah sebesar ‐15,779 dengan t = ‐
+0,903 dan p = 0,368. Hasil ini didukung oleh
+
+hasil penelitian Sangkyun (1997) dan Mok
+(2004) yang menemukan bahwa suku bunga
+tidak berpengaruh secara signifikan
+terhadap return saham. Hasil yang diperoleh
+berbeda dengan Hooker (2004) dan Chiarella
+dan Gao (2004) yang menemukan bahwa
+tingkat bunga berpengaruh negatif terhadap
+return pasar, Gjerde dan Sættem (1999)
+yang memperoleh hasil perubahan suku
+bunga riil berpengaruh secara negatif
+dengan harga saham, Kandir (2008) yang
+menemukan tingkat bunga mempengaruhi
+secara negatif return semua portofolio yang
+diteliti, Wongbangpo dan Sharma (2002)
+juga menemukan bahwa terdapat hubungan
+negatif antara harga saham dan tingkat
+bunga di negara Filipina, Singapura, dan
+Thailand, sedangkan hubungan positif
+terjadi di negara Indonesia dan Malaysia,
+dan Gupta, et.al., (1997) memperoleh hasil
+tingkat bunga memiliki hubungan sebab
+akibat dengan harga saham.
+Variabel suku bunga SBI tidak
+berpengaruh
+terhadap
+IHSG
+dapat
+disebabkan karena tipe investor di Indonesia
+merupakan investor yang senang melakukan
+transaksi saham dalam jangka pendek
+(trader/spekulan),
+sehingga
+investor
+cenderung melakukan aksi profit taking
+dengan harapan memperoleh capital gain
+yang cukup tinggi di pasar modal
+dibandingkan
+berinvestasi
+di
+SBI
+
+62
+
+(Manullang, 2008). Selain itu, perusahaan‐
+perusahaan emiten yang memberikan
+dividen yang cukup tinggi bagi pemegang
+sahamnya juga menjadi salah satu stimulus
+bagi investor untuk berinvestasi di saham
+dibandingkan dalam bentuk surat berharga
+di pasar uang. Di sisi lain, suku bunga SBI
+berfluktuatif,
+namun
+kecenderungan
+tendensi menurun dari tahun 2000 sampai
+tahun 2009.
+Penelitian ini menemukan bahwa kurs
+Rupiah terhadap Dollar Amerika memiliki
+pengaruh yang negatif dan signifikan terhadap
+IHSG dengan koefisien regresi sebesar ‐0,081, t
+= ‐4,331, dan p = 0,000. Hasil yang diperoleh
+
+berbeda dengan penelitian sebelumnya.
+Gupta, et.al., (1997) menemukan bahwa
+nilai tukar memiliki hubungan sebab akibat
+yang rendah dengan harga saham.
+Wangbangpo
+dan
+Sharma
+(2002)
+menemukan bahwa nilai tukar memiliki
+hubungan positif dengan harga saham di
+negara Indonesia, Malaysia dan Filipina,
+sebaliknya
+berhubungan
+negatif
+di
+Singapura dan Thailand. Hasil penelitian
+Wangbangpo dan Sharma (2002) didukung
+pula oleh penelitian yang dilakukan oleh
+Kandir
+(2008)
+dimana
+nilai
+kurs
+mempengaruhi secara positif terhadap
+return dari semua portofolio yang ada.
+Pengaruh variabel kurs rupiah terhadap
+IHSG menunjukkan hasil yang negatif dan
+signifikan. Hal ini mengindikasikan bahwa
+hubungan antara kurs rupiah dan harga
+saham berlawanan arah, artinya semakin
+kuat kurs rupiah terhadap US $ (rupiah
+terapresiasi) maka akan meningkatkan
+harga saham, dan sebaliknya. Hasil yang
+diperoleh ini konsisten dengan teori, di
+mana menguatnya kurs rupiah terhadap US
+
+Pengaruh Inflasi, Suku Bunga, Kurs, dan Pertumbuhan PDB Terhadap Indeks Harga Saham Gabungan –
+Suramaya Suci Kewal
+
+$
+merupakan
+sinyal
+positif
+bagi
+perekonomian yang mengalami inflasi
+(Tandelilin, 2001). Menguatnya kurs rupiah
+terhadap US $ akan menurunkan biaya
+produksi terutama biaya impor bahan baku
+dan akan diikuti menurunnya tingkat bunga
+yang berlaku, hal ini akan memberikan
+dampak positif pada laba perusahaan yang
+akhirnya menaikkan pendapatan per lembar
+saham (EPS).
+Temuan lain dari penelitian ini adalah
+pertumbuhan PDB tidak memiliki pengaruh yang
+signifikan terhadap IHSG. Nilai koefisien regresi
+yang ditemukan adalah 2,915 dengan t = 0,698
+dan p = 0,487. Hasil yang diperoleh berbeda
+
+dengan penelitian Sangkyun (1997) yang
+menemukan bahwa GDP yang berpengaruh
+secara positif dan signifikan terhadap return
+saham. Hooker (2004) juga mendukung hasil
+penelitian tersebut di mana return pasar
+dipengaruhi secara positif signifikan oleh
+pertumbuhan GDP.
+Peningkatan PDB dalam suatu negara
+mengindikasikan
+adanya
+peningkatan
+kesejahteraan masyarakat di negara
+tersebut.
+Adanya
+peningkatan
+kesejahteraan masyarakat akan mendorong
+masyarakat untuk melakukan konsumsi
+terhadap barang dan jasa sehingga
+memperluas perkembangan investasi di
+sektor riil. Adanya perkembangan investasi
+di sektor riil tidak diikuti adanya
+peningkatan investasi pada pasar modal.
+Faktor lain yang perlu diperhatikan adalah
+pemerataan kesejahteraan masyarakat.
+Peningkatan
+PDB
+belum
+tentu
+meningkatkan pendapatan per kapita setiap
+individu sehingga pola investasi di pasar
+modal tidak terpengaruh oleh adanya
+peningkatan PDB.
+
+Kesimpulan
+Penelitian ini menemukan bahwa tingkat
+
+inflasi, suku bunga SBI dan pertumbuhan PDB
+tidak memiliki pengaruh yang signifikan
+terhadap IHSG, sedangkan kurs rupiah
+berpengaruh negatif dan signifikan terhadap
+IHSG. Riset ini membuktikan bahwa variabel
+kurs rupiah mempengaruhi secara negatif
+signifikan terhadap IHSG yang artinya
+semakin kuat kurs rupiah terhadap US $
+(rupiah
+terapresiasi)
+maka
+akan
+meningkatkan harga saham, dan sebaliknya.
+Hal ini memberikan implikasi teoretis bahwa
+secara empiris temuan ini semakin
+memperkuat teori menguatnya kurs mata
+uang suatu negara memberikan sinyal
+positif bagi perekonomian negara tersebut.
+Sehingga secara praktis temuan ini
+mengimplikasikan bahwa pemerintah harus
+selalu mengambil langkah‐langkah strategis
+untuk memperkuat tingkat kurs mata
+uangnya.
+Penelitian ini memiliki beberapa
+keterbatasan, antara lain adanya krisis
+global dalam periode pengamatan yang
+dikhawatirkan akan mempengaruhi hasil
+penelitian, dan dari hasil penelitian
+membuktikan bahwa dari keempat variabel
+makroekonomi yang diuji, hanya variabel
+kurs yang signifikan mempengaruhi IHSG.
+Peneliti selanjutnya diharapkan dapat
+melakukan penelitian terhadap setiap sektor
+yang ada di pasar modal sehingga hasil yang
+diperoleh semakin baik.
+Daftar Pustaka
+Chiarella C. and Gao S. (2004) “The Value of
+The S&P 500 – A Macro View of The
+
+63
+
+Jurnal Economia, Volume 8, Nomor 1, April 2012
+
+Stock Market Adjustment Process”.
+Global Finance Journal. 15; 171‐196
+Dornbusch, R., Fischer, S., and Richard Starz
+(2008) Makro Ekonomi. Terjemahan oleh
+: Roy Indra Mirazudin, SE. Jakarta: PT
+Media Global Edukasi
+Gjerde, Oystein & Frode Sættem (1999)
+”Causal Relations Among Stock Returns
+and Macroeconomic Variables in A
+Small, Open Economy”. Journal of
+International
+Financial
+Markets,
+Institutions and Money. 9:61–74
+Granger C. W., Huang B. and Yang C. (1998)
+“A Bivariate Causality Between Stock
+Prices And Exchange Rates: Evidence
+from Recent Asian Flu”. The Quarterly
+Review Of Economics And Finance.
+Volume 40:337‐354
+Gupta, Chevalier dan Sayekt (1997) The
+Causality Between Interest Rate,
+Exchange Rate And Stock Price in
+Emerging Markets : The Case Of The
+Jakarta Stock Exchange.
+Haryanto dan Toto Sugiharto (2003)
+“Pengaruh Rasio Profitabilitas Terhadap
+Harga Saham Pada Perusahaan Industri
+Minuman di Bursa Efek Indonesia”.
+Jurnal Ekonomi dan Bisnis No. 3, Jilid 8.
+Hal 141‐152
+Hondroyiannis G., Papapetrou E. 2001.
+“Macroeconomic Influences On The
+Stock Market”. Journal of Economics and
+Finance, 25(1):33‐49
+Hooker, Mark A. (2004) “Macroeconomic
+Factors and Emerging Market Equity
+Returns: A Bayesian Model Selection
+Approach”. Emerging Markets Review.
+5:379‐387.
+Indonesia Stock Exchange (2010) Buku
+Panduan Indeks Harga Saham Bursa
+Efek Indonesia Tahun 2010. Indonesia
+Stock
+Exchange,
+Jakarta.
+(http://www.idx.co.id
+diakses
+20
+Februari 2011)
+
+64
+
+Kandir,
+Serkan
+Yilmaz
+(2008)
+”Macroeconomic
+Variables,
+Firm
+Characteristics and Stock Returns:
+Evidence from Turkey”. International
+Research Journal of Finance and
+Economics ISSN 1450‐2887 Issue 16
+Mok, Henry MK (1993) ”Causality of Interest
+Rate, Exchange rate, and Stock price at
+Stock Market Open and close in Hong
+Kong”. Asia Pacific Journal of
+Management. Vol.X. Hal 123‐129
+Nanga, Muana (2001) Makroekonomi, Edisi
+1. Jakarta: PT RajaGrafindo Persada
+Prastowo, Nugroho Joko (2008) Dampak BI
+Rate Terhadap Pasar Keuangan:
+Mengukur Signifikansi Respon Instrumen
+Pasar Keuangan Terhadap Kebijakan
+Moneter. Working Paper No. 21, Bank
+Indonesia, (http://www.bi.go.id diakses
+6 Januari 2011)
+Sangkyun, Park (1997) “Rationality of
+negative Stock Price Responses to Strong
+Economics Activity”. Journal Financial
+Analyst, Sept/Oct 1997
+Tandelilin, Eduardus (2010) Portofolio dan
+Investasi : Teori dan Aplikasi. Edisi 1.
+Yogyakarta: Kanisius
+Weston J. Fred and Brigham F. Eugene
+(1994) Essential Of Managerial Finance,
+Tenth Edition. New York: The Dryden
+Press
+Wongbangpo, Praphan dan Subhash C.
+Sharma (2002) ”Stock Market and
+Macroeconomic Fundamental Dynamic
+Interaction : ASEAN‐5 Countries”.
+Journal of Asian Economics 13:27‐51.
+
+

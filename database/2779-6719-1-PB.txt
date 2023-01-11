@@ -1,0 +1,385 @@
+Vol 9 No. 1 , 2021
+©2021 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+APLIKASI PERMAINAN SEBAGAI
+MEDIA PEMBELAJARAN PETA DAN BUDAYA SUMATERA
+UNTUK SISWA SEKOLAH DASAR
+1
+
+Dyah Ayu Megawaty, 2Damayanti, 3Zakaria Sani Assubhi, 4Maulana Aziz Assuja
+1,2,3,4
+Universitas Teknokrat Indonesia, Lampung
+e-mail : 1dyahayumegawaty@teknokrat.ac.id
+
+Abstract — Indonesia secara umum mempunyai banyak keanekaragaman budaya dari berbagai pulau. Pulau Sumatera
+termasuk dalam pulau-pulau terbesar di Indonesia. Seiring dengan perkembangan zaman, kebudayaan yang ada di
+Indonesia pada saat ini secara perlahan mulai terlupakan. Oleh karena itu tujuan dari penelitian ini adalah memberikan
+alternatif lain untuk mengenalkan pulau Sumatera pada pelajar sekolah dasar melalui aplikasi permainan sehingga siswa
+tidak mudah bosan dan tertarik untuk mengetahui sejarah masing-masing provinsi, rumah adat dan pakaian adatnya.
+Penelitian ini dikembangkan dengan menggunakan construct 2 dan metode pengembangan Multimedia Development Life
+Cycle. Hasil penelitian ini berupa aplikasi permainan pengenalan peta dan budaya Sumatera yang dapat dijalankan melalui
+smartphone berbasis android dengan disertakan latihan soal, untuk mengetahui sejauh mana kemampuan siswa
+mendalami materi yang didapat dari game ini. Aplikasi ini telah diuji kepada siswa sekolah dasar dengan rata-rata hasil
+94% atau sangat baik.
+Keywords: Construct 2, Game Edukasi, MDLC, Peta dan Budaya Sumatera, Sekolah Dasar
+
+1. PENDAHULUAN
+Indonesia adalah negara yang memiliki berbagai ragam budaya dan adat istiadat yang melekat dengan ragam
+etnis, ras budaya serta agama yang majemuk. [1]. Indonesia secara umum mempunyai banyak keanekaragaman
+budaya dari berbagai pulau. Pulau Sumatera termasuk dalam pulau-pulau terbesar di Indonesia. Pulau
+Sumatera mempunyai luas 473.481 km², terletak dibagian barat gugusan kepulauan Nusantara. Berdasarkan
+luasnya, Sumatera merupakan pulau terbesar keenam didunia. Pulau ini membujur dari barat laut ke arah
+tenggara dan melintasi khatulistiwa, seolah membagi pulau Sumatera atas dua bagian, Sumatera belahan bumi
+utara dan Sumatera belahan bumi selatan. Pulau Sumatera terletak dibagain barat gugusan kepulauan
+Indonesia. Secara geografis Pulau Sumatera berada di posisi 6ºLU-6ºLS dan antara 95ºBB-109ºBT. Disebelah
+utara berbatasan dengan dengan Teluk Benggala, disebelah selatan berbatasan dengan Selat Malaka, disebelah
+selatan berbatasan dengan Selat Sunda dan disebelah barat berbatasan dengan Samudra Hindia. Sumatera
+dibagi menjadi 10 Provinsi dimulai dari paling barat pulau yaitu Aceh, Sumatera Utara, Riau, Kep. Riau,
+Sumatera Barat, Jambi, Bengkulu, Bangka Belitung, Sumatera Selatan, dan yang paling timur dari Pulau
+Sumatera yaitu Lampung [2]. Seiring dengan perkembangan zaman, kebudayaan yang ada di Indonesia pada
+saat ini secara perlahan mulai terlupakan, Hal ini terjadi karena begitu banyak kebudayaan asing yang masuk
+dan dengan mudah diterima oleh masyarakat, Terutama banyak diantaranya anak-anak dan kaum muda lebih
+menyukai budaya asing dari pada budaya tanah air [3]. Sehingga perlu adanya upaya untuk menarik kembali
+minat belajar kebudayaan Indonesia.
+Perkembangan teknologi informasi dan komunikasi atau yang sering dikenal dengan istilah ICT (Information
+and Communication Technologies) di era sekarang berjalan sangat cepat di Indonesia. Percepatan
+perkembangan tersebut berdampak ke berbagai bidang. Pendidikan adalah salah satu bidang yang tidak
+terlepas dari dampak perkembangan ICT. Pembelajaran dengan memanfaatkan atau mengintegrasikan ICT
+dapat memudahkan guru maupun siswa karena memberikan kesempatan kepada siswa untuk belajar secara
+dinamis dan interaktif. [4]. Perkembangan teknologi turut berperan dalam perkembangan game sendiri
+58
+
+Vol 9 No. 1 , 2021
+©2021 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+sehingga game saat ini dapat dimainkan dari manapun dan kapanpun diinginkan [5]. Teknologi game
+berkembang dari waktu ke waktu sebagai salah satu alternatif media pembelajaran [6].
+Game Edukasi adalah game digital yang dirancang untuk pengayaan pendidikan (mendukung Pengajaran dan
+pembelajaran [7]. Media ini memiliki kelebihan dalam penyampaian materi pembelajaran. Dalam
+penyampaian materi, game edukasi membuat pembelajaran tersebut menjadi sebuah permainan dimana peserta
+didik belajar ketika mereka berhadapan atau menemukan misi, tantangan, dan hambatan didalam game edukasi
+[8]. Pemanfaatan game saat ini masih digunakan atas dasar hiburan semata. Adanya tema game yang semakin
+berkembang masih belum cukup menampung game dengan tema edukasi. Apalagi perhatian terhadap
+keanekaragaman budaya Indonesia semakin berkurang [9]. Adanya game ini diharapkan dapat membantu
+anak-anak usia sekolah dasar agar lebih mengenal dan menambah pengetahuan mereka tentang
+keanekaragaman budaya Indonesia [10].
+Saat ini media pembelajaran game sudah merahbah ke aplikasi berbasis android, diantaranya game untuk
+pembelajaran. Android merupakan salah satu teknologi yang bisa dimanfaatkan sebagai sistem operasi berbasis
+open source yang membebaskan pengguna untuk mengembangkan aplikasi [11]. Android merupakan platform
+yang paling populer bagi ponsel di dunia. Lebih dari 190 negara di seluruh dunia menggunakan Android.
+Banyak pengguna menggunakan Android untuk mencari aplikasi, permainan dan konten digital lainnya.
+Android menjadi sistem operasi mobile yang tumbuh paling cepat. Setiap hari lebih dari 1 juta perangkat
+Android diaktifkan di seluruh dunia [12]
+Dari uraian diatas, maka perlu adanya game pengenalan budaya ini diharapkan dapat membantu anak anak
+usia dini lebih mengenal budaya Indonesia dan bisa juga menanam minat anak usia dini dalam kecintaanya
+dengan budaya Indonesia [13].
+
+2. METODOLOGI PENELITIAN
+Multimedia adalah penggunaan beberapa media untuk menyajikan informasi.Kombinasi ini dapat berisi teks,
+grafik, animasi, gambar, video, dan suara [14]. Metodelogi yang digunakan dalam mengembangkan aplikasi
+permainan ini adalah Multimedia Development Life Cycle (MDLC) [15]. Metode pengambangan multimedia
+terdiri dari 6 tahapan yaitu, Concept, Design, Material Collecting, Assembly, testing, dan Distribution.
+
+Gambar 1. Multimedia Development Life Cycle (MDLC).
+1.
+
+Concept
+Tahap konsep (consept) adalah tahap untuk menentukan tujuan dan siapa pengguna program (identifikasi
+audience). Selain itu menentukan macam aplikasi (presentasi, interaktif, dll) dan tujuan aplikasi (hiburan,
+pelatihan, pembelajaran, dll).
+59
+
+Vol 9 No. 1 , 2021
+©2021 Ilmu Komputer Unila Publishing Network all rights reserved
+2.
+
+3.
+
+4.
+5.
+
+6.
+
+2.1
+
+Jurnal Komputasi
+
+Design
+Perancangan (design) adalah tahap membuat spesifikasi mengenai arsitektur program, gaya, tampilan dan
+kebutuhan material/bahan untuk program.
+Material Collecting
+Tahap dimana pengumpulan bahan yang sesuai dengan kebutuhan dilakukan. Tahap ini dapat dikerjakan
+paralel dengan tahap assembly. Pada beberap kasus, tahap Material Collecting dan tahap Assembly akan
+dikerjakan secara linear tidak paralel.
+Assembly
+Tahap assembly (pembuatan) adalah tahap dimana semua objek atau bahan media dibuat.
+Testing
+Pada tahap ini, aplikasi akan disimpan dalam suatu media penyimpanan. Jika media penyimpanan tidak
+cukup untuk menampung aplikasinya, kompresi terhadap aplikasi tersebut akan dilakukan. Tahap ini juga
+dapat disebut tahap evaluasi untuk pengembangan produk yang sudah jadi supaya menjadi lebih baik.
+Hasil evaluasi ini dapat digunakan sebagai masukan untuk tahap concept pada produk selanjutnya.
+Distribution
+Tahapan dimana aplikasi disimpan dalam suatu media penyimpanan. Pada tahap ini jika media
+penyimpanan tidak cukup untuk menampung aplikasinya, maka dilakukan kompresi terhadap aplikasi
+tersebut.
+Objek Penelitian
+
+Penelitian ini dilakukan pada SDN 2 Panjang Utara Bandar Lampung. Aktifitas yang dilakukan adalah
+menyebarkan kuisioner kepada siswa/i mengenai pembelajaran Peta dan Budaya Sumatera dan pengambilan
+data-data pendukung sebagai bahan analisis seputar pembelajaran kebudayaan Sumatera.
+
+2.2
+
+Tahap Penelitian
+
+Berdasarkan siklus tahapan penelitian multimedia, maka tujuan dan literature dari tahapan multimedia ini
+dirancang dengan sebuah work Breakdown Structure (WBS) agar dapat dijelaskan secara rinci dan bertahap
+yang dapat dilihat pada gambar berikut:
+
+Gambar 2. Tahapan Penelitian
+
+60
+
+Vol 9 No. 1 , 2021
+©2021 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+3. HASIL DAN PEMBAHASAN
+Pada penelitian ini spesifikasi yang akan dibuat berdasarkan metodologi dan tahapan penelitian adalah sebagai
+berikut:
+1. Perancangan Usecase
+Use case diagram menggambarkan fungsionalitas yang diharapkan dari sebuah sistem.
+
+Gambar 3. Usecase Diagram Game Peta dan Budaya Sumatera
+2. Tampilan Aplikasi
+Sesuai dengan rancangan yang sudah dibuat, maka berikut adalah tampilan Game Peta dan Budaya
+Sumatera
+a) Halaman loading screen
+Tampilan pertama kali ketika game dijalankan, halaman loading screen berisikan logo :
+
+Gambar 4. Tampilan Loading Screen
+b) Tampilan Menu Utama Game
+Pada tampilan menu utama game ada berberapa tombol, mulai dari tombol belajar, bermain,
+tentang game dan tombol keluar game.
+
+61
+
+Vol 9 No. 1 , 2021
+©2021 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+Gambar 5. Tampilan Menu Utama
+c) Menu Pilih Belajar
+Halaman menu belajar berisikan pilihan game dari belajar baju adat dan rumah adat.
+
+Gambar 6. Tampilan Menu Belajar
+
+d)
+
+Menu Bermain Susun Peta Sumatera
+Menu ini menampilkan susun peta Sumatera.
+
+Gambar 7. Menu Bermain Susun Peta
+62
+
+Vol 9 No. 1 , 2021
+©2021 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+e) Menu Bermain Kuis
+Menu ini menampilkan kuis yang mana pengguna ditantang untuk menjawab pertanyaan yang
+telah disediakan. Pengguna diharuskan menjawab pertanyaan dengan benar dalam waktu 30 detik.
+Setiap pertanyaan yang berhasil dijawab dengan benar, maka akan mendapat nilai 10.
+
+Gambar 8. Menu Bermain Kuis
+
+Gambar 9. Tampilan Skor Kuis
+f) Menu Bermain Puzzel
+Pada menu ini, pengguna diharuskan menyusun beberapa gambar yang tepisah menjadi satu
+gambar utuh.
+
+Gambar 10. Menu Bermain Puzzle
+Pengujian dilakukan secara objektif, pengujian ini dilakukan secara langsung terhadap siswa/i. Proses yang
+dilakukan dengan menggunakan kusioner terhadap user atau pengguna dari aplikasi yang dibuat, selanjutnya
+dibagikan kepada pengguna dengan mengambil sebagian sampel pegguna 10 orang siswa/i. kusioner ini terdiri
+63
+
+Vol 9 No. 1 , 2021
+©2021 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+dari 11 pertanyaan yang diberikan dengan skala SS (Sangat Setuju) = 5, S (Setuju) = 4, N (Netral) = 3, TS
+(Tidak Setuju) = 2, STS (Sangat Tidak Setuju) = 1. Hasil pengujian dapat dilihat pada Tabel berikut:
+Tabel 1. Hasil Nilai Responden
+Responden
+
+SS
+10
+6
+10
+11
+5
+4
+10
+9
+9
+7
+81
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Total
+
+S
+1
+5
+1
+0
+6
+7
+1
+1
+2
+4
+24
+
+Hasil
+N
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+
+TS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+STS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Selanjutnya dilakukan perhitungan presentase pengujian sebagai berikut:
+SS = 81 x 5 = 405, S = 28 x 4 = 112, N = 1 x 3 = 1, TS = 0, STS = 0;
+Skor hasil pengujian = 520
+Skor tertinggi = 19 (jumlah pertanyaan) x 5 x 10 (responden) = 550
+𝑃𝑟𝑒𝑠𝑒𝑛𝑡𝑎𝑠𝑒
+
+Skor hasil pengujian
+𝑥 100%
+Skor tertinggi
+520
+=
+𝑥 100%
+550
+
+=
+
+= 94%
+Sehingga dapat disimpulkan dalam aspek pengujian game edukasi pengenalan peta dan budaya sumatera
+menggunakan cunstruc2 untuk anak SD memperoleh nilai 94%
+
+4. KESIMPULAN
+Kesimpulan dari penelitian mengenai Media Pembelajaran Peta dan Budaya Sumatera adalah sebagai berikut
+:
+1. Media pembelajaran peta dan budaya sumatera ini dapat membantu para guru untuk menarik minat belajar
+siswa
+2. Berdasakan hasil pengujian yang telah dilakukan aplikasi yang dibangun dapat diterima sesuai dengan
+kebutuhan pengguna baik dari segi isi, materi, visualisasi dan kenyamanan menggunakan aplikasi dengan
+presetase 94%.
+
+UCAPAN TERIMA KASIH
+Penulis mengucapkan terima kasih kepada Universitas Teknokrat Indonesia yang telah memberi dukungan
+pendanaan/financial terhadap penelitian ini melalui skema Penelitian Pembinaan Kapasitas (PPK) tahun
+pelaksanaan 2020 dengan nomor kontrak 003/UTI/LPPM/E.1.1.VII/2020
+64
+
+Vol 9 No. 1 , 2021
+©2021 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+DAFTAR PUSTAKA
+[1] M. Amin, "Pendidikan Multikultural," PILAR, vol. 9.1, pp. 24-34, 2018.
+[2] Tim, Buku Sumatera, Jakarta: Badan Pengembangan Infrastruktur Wilayah (BPIW), 2017.
+[3] B. Pane, X. Najoan and S. Paturisi, "Rancang Bangun Aplikasi Game Edukasi Ragam Budaya
+Indonesia," Jurnal Teknik Informatika, vol. 12.1, 2017.
+[4] O. Irmade, "ANALISIS TINGKAT PENGGUNAAN ICT GURU TK KECAMATAN GROGOL
+KABUPATEN SUKOHARJO," JURNAL AUDI: Jurnal Ilmiah Kajian Ilmu Anak dan Media Informasi
+PAUD, vol. 3.2, pp. 101-107, 2018.
+[5] T. Lijoed, D. Paseru and T. C. Suwanto, "GAME PENGENALAN RAGAM BUDAYA DAN ALAM
+SULAWESI UTARA," Jurnal Ilmiah Realtech, vol. 14.1, pp. 54-63, 2018.
+[6] D. W. Putra, A. P. Nugroho and E. W. Puspitarini, "Game Edukasi Berbasis Android Sebagai Media
+Pembelajaran Untuk Anak Usia Dini," Jurnal Informatika Merdeka Pasuruan., vol. 1.1, pp. 46-58, 2016.
+[7] Q. J. Adrian and A. Apriyanti, "Game Edukasi Pembelajaran Matematika untuk Anak SD Kelas 1 dan 2
+Berbasis Android," Teknoinfo, vol. 13 (1), pp. 51-54, 2019.
+[8] W. C. Setiawan, Sulthoni and S. Ulfa, "Pengembangan Multimedia Game Edukasi Ipa Lapisan Bumi
+Untuk MTS," Jurnal Kajian Teknologi Pendidikan, vol. 2.1, pp. 30-36, 2019.
+[9] R. Parlika, D. N. Anggreini, M. Syafriansyah, R. Alhakim and Y. Faradhilla, "Educational Game for
+Introducing Indonesian Culture on Android Platform," INFORM, vol. 3.2, pp. 100-104, 2018.
+[10] P. L. Ekawati and A. Z. Falani, "Pemanfaatan Teknologi Game Untuk Pembelajaran Mengenal Ragam
+Budaya Indonesia Berbasis Android," Jurnal Link, vol. 22 (2), pp. 30-36, 2015.
+[11] A. Mulyanto, A. Apriyadi and P. Prasetyawan, "RANCANG BANGUN GAME EDUKASI
+“MATCHING AKSARA LAMPUNG” BERBASIS SMARTPHONE ANDROID.," Computer
+Engineering, Science and System Journal, vol. 3 (1), pp. 36-44, 2018.
+[12] U. Ependi and N. Sopiah, "Aplikasi Media Belajar Matematika Berbasis Android," in Seminar Nasional
+Teknologi Informasi, 2015.
+[13] A. J. Kurniawan and C. hermawan, "RANCANG BANGUN APLIKASI GAME EDUKASI
+PENGENALAN BUDAYA INDONESIA BERBASIS ANDROID," Jurnal Penelitian Dosen FIKOM
+(UNDA), vol. 10.2, 2019.
+[14] R. Ariani and Festiyed, "Analisis Landasan Ilmu Pengetahuan dan Teknologi Pendidikan dalam
+Pengembangan Multimedia Interaktif," Jurnal Penelitian Pembelajaran Fisika, vol. 5.2, pp. 155-162,
+2019.
+[15] D. Nurdiana and A. Suryandi, "Perancangan Game Budayaku Indonesiaku Menggunakan Metode
+MDLC," Jurnal Petik, pp. 39-44, 2017.
+
+65
+
+Vol 9 No. 1 , 2021
+©2021 Ilmu Komputer Unila Publishing Network all rights reserved
+
+Jurnal Komputasi
+
+66
+
+

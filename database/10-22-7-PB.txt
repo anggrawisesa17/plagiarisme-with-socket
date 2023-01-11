@@ -1,0 +1,910 @@
+eISSN : 2621-4970
+pISSN : 2621-4962
+
+Volume 1 No 2
+Juli 2018
+
+Sistem Informasi Data Pegawai Berbasis Web Pada Kementerian Kelautan Dan
+Perikanan Kota Ternate
+Muhdar Abdurahman
+Program Studi Manajemen Informatika
+Akademi Ilmu Komputer Ternate (AIKOM) Ternate
+muhdarabdurahman@gmail.com
+
+Abstrak
+Kementerian Kelautan dan Perikanan Nusantara Ternate merupakan salah satu instansi
+pemerintah yang ada pada kota ternate pada bidang Kelautan dan Perikanan, dalam
+mengelola dan media menyimpan informasi yang berhubungan dengan data, profil dan
+kegiatan pegawai masih dilakukan secara manual. Pendataan secara manual dianggap tidak
+efektif serta membutuhkan waktu, di saat melakukan pengecekan dan pencarian data-data
+pegawai tersebut harus membuka satu persatu Arsip Pegawai. Penelitian ini dilakukan pada
+Kementerian Kelautan dan Perikanan Nusantara Ternate, Sistem yang dirancang berbasis
+Web sebagai media untuk informasi kepada masyarakat, Bahasa Pemrograman yang
+digunakan adalah HTML, PHP, CSS dan MySQL sebagai database, diharapkan
+mempermudah Admin dalam mengelola data pegawai secara efesien dan media informasi
+kepada masyrakat pada Kelautan dan Perikanan
+Kata Kunci : Sistem Informasi, Data Pegawai, Web
+Abstract
+The Office of the Ministry marine and fisheries of the archipelago Ternate City is one of
+the Government agencies that are in the city of ternate on the fields of marine and Fisheries.
+in managing and storing media information related to data, profiles and employee activities
+are still carried out manually, Manually logging is considered ineffective and takes, at the
+time of checking and search the employee data should open one by one Employee Archive.
+This research was conducted in Ministry of marine and fisheries of the archipelago Ternate
+City, Web-based system designed as a medium for information to the public, The
+programming language used is HTML, CSS, PHP and MySql as a database, expected to
+facilitate Admin in managing employee data are efficiently and media information to
+communities on marine and Fisheries
+Keywords: Information System, Employee Data, Website
+PENDAHULUAN
+Teknologi dan informasi merupakan
+dua hal yang tidak dapat dipisahkan. Hal
+ini terlihat dari proses untuk mendapatkan
+informasi yang dapat diperoleh secara
+cepat, tepat, dan akurat dengan didukung
+oleh kemajuan teknologi yang semakin
+canggih. Kemajuan teknologi ini membuat
+banyak
+organisasi
+dan
+instansi
+menggunakan teknologi berbasis komputer
+dan
+jaringan
+untuk
+membantu
+
+pekerjaannya karna bersifat efektif dan
+efisien.
+Banyak lembaga atau instansi yang
+telah
+menggunakan
+sistem
+dalam
+mengolah
+datanya.
+Pengembangan
+jaringan komunikasi data antara Komputer
+menjadikan internet muncul dengan
+berbagai aplikasi. Internet dengan aplikasi
+pada dasarnya adalah media yang
+digunakan untuk mengefisiensikan proses
+komunikasi. Kantor Kementerian dan
+Kelautan Perikanan Nusantara Ternate
+
+Jurnal Ilmiah ILKOMINFO-Jurnal Ilmu Komputer dan Informatika
+
+Page 70
+
+merupakan salah satu organisasi atau
+instansi yang memiliki sistem yang
+komplit dalam pengolahan datanya, yang
+menharuskan semua data di olah dengan
+baik, tersimpan dengan rapi dan mudah
+ditelusuri dari tempat penyimpanannya
+apabila diperlukan.
+Kantor Kementerian Kelautan dan
+Perikanan Nusantara Ternate proses
+penyimpanan informasi yang berhubungan
+dengan kegiatan para pegawai masih
+dilakukan secara manual. Pendataan
+sering
+kali
+tidak
+efektif
+serta
+membutuhkan waktu yang cukup lama
+ketika melakukan pengecekan terhadap
+data-data pegawai. Kementerian dan
+Kelautan Perikanan Nusantara Ternate
+belum memiliki Website resmi sebagai
+media informasi yang bisa diketahui
+lansung oleh masyarakat, khususnya
+informasi mengenai data-data pegawai
+yang ada di kementerian dan kelautan
+perikanan nusantara Ternate sehingga
+pengolahan datanya belum efektif.
+Rumusan Masalah
+Bagaimana
+merancang
+Sistem
+Informasi data Pegawai Berbasis Web
+pada Kementerian Kelautan dan Perikanan
+agar
+mempermudah
+admin
+dalam
+mengelola data pegawai secara cepat
+Tujuan Penilitian
+Tujuan dari Penelitian ini adalah
+Merancang Sistem Informasi Data
+Pegawai Berbasis Web pada Kementerian
+Kelautan dan Perikanan
+Manfaat Penilitian
+Manfaat dari penelitian adalah
+Mempermudah admin mengelola data
+pegawai pada sistem secara cepat serta
+media informasi kepada masyarakat
+tentang perikanan dan kelautan
+
+Tinjauan Pustaka
+Menurut Penelitian Nofyat, Adelina,
+Arisandy Ambarita dengan judul Sistem
+Informasi Pengaduan Pelanggan Air
+Berbasis website Pada PDAM Kota
+Ternate mengatakan bahwa Perusahaan
+Daerah Air Minum (PDAM) Kota Ternate
+merupakan Badan Usaha Milik Daerah
+(BUMD) yang pelayanan pengaduan air
+kepada
+pelanggan
+masih
+bersifat
+konvensional dimana pelanggan yang
+ingin mengadukan keluhannya harus
+datang ke kantor unit wilayah PDAM Kota
+Ternate proses penggaduanpun hanya
+dapat dilakukan pada hari kerja yaitu
+Senin - Jumat mulai dari Pukul 07.30 15.00 wit. Diluar waktu tersebut pelanggan
+tidak dapat menyampaikan keluhannya
+sehingga dianggap kurang efektif.
+Penilitian
+tersebut bertujuan untuk
+merancang Sistem Informasi Pengaduan
+Pelanggan Air Berbasis Web. dengan
+adanya
+sistem
+ini
+diharapkan
+mempermudah
+pelanggan
+dalam
+mengadukan keluhan air di manapun dan
+kapanpun tanpa harus datang ke kantor
+PDAM Kota Ternate
+Menurut Vivin Ambar dan Arisandy
+Ambarita pada Judul Sistem Informasi
+Data Kelulusan Siswa Non-Formal
+Berbasis Web Pada Dinas Pendidikan
+Nasional Kota Ternate, mengatakan bahwa
+Dinas Pendidikan Nasional Kota Ternate
+merupakan salah satu instansi pemerintah
+yang
+berperan
+penting
+dalam
+mengimplementasi pelayanan pendidikan
+non-formal dibidang PNFI (Pendidikan
+Non-Formal dan Informal). Dalam
+Pengolahan data hasil kelulusan siswa
+non-formal pada Dinas Pendidikan
+Nasional masih bersifat konvensional,
+dimana proses penginputan, penyimpanan
+dan informasi hasil kelulusan masih
+
+Jurnal Ilmiah ILKOMINFO-Jurnal Ilmu Komputer dan Informatika
+
+Page 71
+
+dilakukan secara manual dan tertulis.
+Proses pencarian data hasil kelulusan
+siswa membutuhkan waktu yang sangat
+lama dikarenakan data hasil kelulusan
+siswa tersimpan pada arsip-arsip dan harus
+dibuka satu per satu, dan informasi hasil
+kelulusan masih diumumkan di papan
+pengumuman pada Dinas Pendidikan
+Nasional, sehingga siswa harus datang
+untuk melihat hasil pengumuman tersebut.
+Penilitian
+tersebut
+memberikan
+kemudahan
+pihak
+instansi
+untuk
+melakukan
+pengolahan
+data
+hasil
+kelulusan
+siswa
+non-formal
+dan
+mempermudah siswa dan orang tua untuk
+dapat melihat informasi hasil kelulusan
+pada website
+LANDASAN TEORI
+Pengertian Sistem
+Sistem umumnya diartikan sebagai
+satu kesatuan yang utuh. Menurut
+Mulyanto (2009), sistem adalah kumpulan
+dari sub-sub system baik abstrak maupun
+fisik yang saling terintegrasi dan salin
+berkolaborasi untuk mencapai suatu tujuan
+tertentu. Al Fatta (2013) mendefenisikan
+sistem sebagai sekelompok elemen-elemen
+yang terintegrasi dengan maksud yang
+sama untuk mencapai suatu tujuan. Secara
+garis besar, sebuah sistem informasi terdiri
+atas tiga komponen utama. Ketiga
+komponen tersebut mencakup software,
+dan brainware. Ketiga komponen ini
+saling berkaitan satu sama lain. Dari
+definisi tersebut dapat disimpulkan bahwa
+sistem adalah kumpulan dari elemenelemen yang saling berinteraksi dan saling
+berhubungan satu sama lainnya untuk
+mencapai suatu tujuan
+Karakteristik Sistem
+
+Sistem
+mempunyai
+beberapa
+karakteristik atau sifat-sifat tertentu, yang
+terdiri dari:
+1. Komponen sistem
+(Component),
+adalah suatu system terdiri dari
+sejumlah komponen yang saling
+berinteraksi, yang saling bekerja sama
+membentuk suatu komponen system
+attau bagian-bagian dari system.
+2. Batasan system (Bondry), adalah
+daerah yang membatasi sesuatu system
+dengan system yang lain atau
+lingkungan kerjanya.
+3. Penghubung system (Interface), media
+penghubung antara suatu subsistem
+dengan subsistem lain. Adanya
+penghubung
+ini
+memungkinkan
+berbagai sumber daya mengalir dari
+satu subsistem ke subsistem lainnya.
+4. Sasaran sistem (Objek), adalah tujuan
+yang ingin dicapai oleh system, akan
+dikatakan berhasil apabila mengenai
+sasaran atau tujuan.
+Pengolahan sistem (proses), adalah
+suatu system dapat mempunyai suatu
+bagian pengolah yang akan mengubah
+masukan menjadi keluaran.
+Pengertian Sistem Informasi
+Sistem informasi merupakan gabungan
+dari pengertian sistem dan informasi
+sebagaimana uraian di atas. Jogiyanto
+(2005) memberikan definisi terhadap
+system informasi sebagai berikut : “Sistem
+informasi adalah suatu system di dalam
+suatu organisasi yang mempertemukan
+kebutuhan pengolahan transaksi harian,
+mendukung operasi, bersifat manejerial
+dan kegiatan strategi dari suatu organisasi
+dan menyediakan pihak luar tertentu
+dengan laporan-laporan yang diperlukan”.
+Sedangkan menurut Sutarbi (2012) sistem
+informasi adalah suatu system di dalam
+organisasi
+yang
+mempertemukan
+
+Jurnal Ilmiah ILKOMINFO-Jurnal Ilmu Komputer dan Informatika
+
+Page 72
+
+kebutuhan pengelolaan transaksi harian
+yang mendukung fungsi organisasi yang
+manejerial dalam kegiatan srtategi dari
+suatu organisasi untuk dapat menyediakan
+pihak luar tertentu dengan laporan-laporan
+yang di perlukan. Sistem informasi yang
+ditulis oleh Taufiq (2013) dapat dijelaskan
+sebagai berikut: “Sistem informasi adalah
+kumpulan dari sub-sub sistem yang saling
+terintegrasi dan berkolaborasi untuk
+menyelesaikan masalah tertentu dengan
+cara mengolah data dengan alat namanya
+komputer sehingga memiliki nilai tambah
+dan bermanfaat bagi pengguna”.
+Pengertian Data
+Data adalah fakta mengenai objek data
+juga dapat didefenisikan sebagai bahan
+keterangan tentang kejadian-kejadian atau
+fakta yang dirumuskan dalam sekelompok
+lembaga tertentu yang tidak di acak yang
+menunjukan jumlah, tindakan, kejadian,
+aktivitas dan transaksi yang tidak
+mempunyai makna atau tidak berpengaruh
+secara lansung kepada pemakai, (Sutabri,
+2012).
+Pengolahan Data
+Pengolahan data merupakan bahan
+mentah untuk di olah yang hasilnya
+kemudian menjadi informasi. Dengan kata
+lain, data yang telah di peroleh harus di
+ukur dan di nilai baik dan buruk, berguna
+atau tidak dalam hubungannya dengan
+tujuan yang akan di capai, (Sutabri, 2012).
+Ada beberapa operasi yang dilakukan
+dalam pengolahan data, antara lain sebagai
+berikut:
+1. Data masukan yaitu kumpulan data
+transaksi ke sebuah pengolahan data
+medium
+ke
+dalam
+kalkulator,
+merupakan data masukan. Contoh lain
+dari data masukan adalah pengkodean
+
+dari data transaksi ke dalam bentuk
+lain.
+2. Data transformasi, beberapa bentuk
+data transformasi diantaranya adalah
+sebagai berikut:
+a. Kalkulasi operasi aritmatik terhadap
+field
+b. Menyimpulkan proses akumulasi
+beberapa
+data,
+misalkan
+menjumlahkan jam kerja per
+minggu.
+3. Informasi keluaran, menampilkan hasil
+merupakan
+kegiatan
+untuk
+menampilkan informasi yang di
+butuhkan pemakai monitor atau
+cetakan,
+sedangkan
+reproducing
+(memproduksi ulang) merupakan
+kegiatan penyimpanan data yang
+digunakan untuk pemakai lain yang
+membutuhkan
+Telecommunicating
+(telekomunikasi)
+adalah
+kegiatan
+penyimpanan data secara elektronik
+melalui saluran komunikasi, (Sutabri,
+2012).
+
+Pengertian Pegawai PNS dan Pegawai
+Kontrak
+Pegawai Negeri adalah mereka yang
+setelah memenuhi syarat-syarat yang di
+tentukan dalam peraturan perundangundangan yang berlaku, diangkat oleh
+pejabat yang berwenang dan diserahi tugas
+dalam sesuatu jabatan Negeri atau diserahi
+tugas Negara Lainnya yang di tetapkan
+berdasarkan sesuatu peraturan perundangundangan dan di gaji menurut peraturan
+perundang-undangan yang berlaku.
+Pegawai kontrak adalah pegawai
+yang di perbantukan untuk menyelesaikan
+pekerjaan-pekerjaan rutin perusahaan, dan
+tidak ada jaminan kelangsungan masa
+kerjanya. Dalam kelangsungan masa kerja
+kontrak di tentukan oleh prestasi kerjanya.
+Semakin bagus prestasi kerjanya, pegawai
+
+Jurnal Ilmiah ILKOMINFO-Jurnal Ilmu Komputer dan Informatika
+
+Page 73
+
+kontrak akan di pertahankan oleh instansi,
+namun jika prestasi kerjanya tidak ada
+peningkatan
+maka
+instansi
+akan
+memberhentikan pegawai tersebut.
+Pengertian MySQL
+Menurut Saputra (2011) secara
+umum, database berfungsi sebagai tempat
+atau
+wadah
+untuk
+menyimpan,
+mengklasifikasikan profesional. MySQL
+bekerja menggunakan SQL Language
+(Struktur Query Language). Itu dapat
+diartikan bahwa MySQL merupakan
+standar penggunaan database di dunia
+untuk mengelolah data
+Pengertian PHP
+Saputra (2011), PHP atau yang
+memiliki kepanjangan PHP Hypertext
+Preprocessor merupakan suatu bahasa
+pemograman yang difungsikan untuk
+membangun suatu website dinamis. PHP
+berjalan pada sisi server sehingga PHP
+disebut juga sebagai bahasa Server Side
+Scripting.
+Artinya
+bahwa
+dalam
+setiap/untuk menjalankan PHP wajib
+adanya seb server
+Konsep Pemodelan Sistem
+1. Flowchart
+Flowchart adalah bagan-bagan yang
+mempunyai arus yang menggambarkan
+langkah-langkah
+penyelesaian
+suatu
+masalah. penggambaran secara grafik dari
+langkah-langkah dan urut-urutan prosedur
+dari suatu program. Flowchart menolong
+analis dan programmer untuk memecahkan
+masalah kedalam segmen-segmen yang
+lebih kecil dan menolong dalam
+menganalisis
+alternatif-alternatif
+lain
+dalam pengoperasian
+
+Data flow diagram sering digunakan
+untuk menggambarkan suatu sistem yang
+telah ada atau sistem baru yang akan
+dikembangakan secara logika tanpa
+mempertimbangkan
+lingkungan
+fisik
+dimana data tersebut mengalir (misalnya
+lewat telepon, surat dan sebagainya) atau
+lingkungan fisik diman data tersebut akan
+tersimpan (misalnya file kartu, microfiche,
+hard disk, tape, disket dan lain
+sebagainya).
+3. Entity Relationship Diagram (ERD)
+Entity
+Relationship
+Diagram
+merupakan gambaran sistematis model
+data yang berisi himpunan entitas dan
+himpunan relasi yang masing-masing
+dilengkapi dengan atribut-atribut yang
+mempresentasikan seluruh fakta.
+METODE PENELITIAN
+Jenis dan Sumber Data
+Penelitian ini menggunakan Data
+Sekunder berupa dokumen-dokumen yang
+diperoleh lansung dari Kementerian
+Kelautan dan Perikanan Nusantara
+Ternate.
+Data Sekunder adalah data yang
+diperoleh melalui instansi terkait yang
+berupa dokumen-dokumen atau referensi
+yang berkaitan dengan masalah yang di
+telitih.
+ANALISIS DAN PERANCANGAN
+Analisa sistem yang berjalan
+Sistem yang berjalan merupakan
+sistem yang masih manual dalam
+mengelola data pegawai, diantaranya
+penginputan data-data pegawai
+
+2. Data Flow Diagram
+
+Jurnal Ilmiah ILKOMINFO-Jurnal Ilmu Komputer dan Informatika
+
+Page 74
+
+Gambar 1. Flowchart Sistem Yang
+Berjalan
+Rancangan system yang di usulkan
+Sistem yang di usulkan merupakan
+sistem yang baru dalam mengelola data
+Pegawai, berikut alur sistem yang di
+usulkan
+
+d. RAM 2 GB DDR3
+e. Hardisk 350 GB
+f. Mouse
+g. Keyboard
+h. Printer Cannon IP2700
+2. Perangkat Lunak (Software)
+a. Sistem operasi windows 7 ultimate
+b. Notepad++
+c. Microsoft Office
+d. Microsoft Visio
+e. Web
+Server
+XAMPP(Apache,
+MySQL)
+f. Bahasa Pemogaraman HTML,
+PHP, SQL dan CSS
+Perancangan Sistem
+Diagram Konteks
+Diagram konteks adalah gambaran
+sistem secara keseluruhan, hanya berisi
+satu proses yang menggambarkan sistem
+tersebut
+terhubung
+dengan
+entitas
+eksternal.
+Diagram
+konteks
+dari
+perancangan sistem dapat dilihat pada
+gambar sebagai berikut:
+
+Gambar 3. Diagram Konteks
+Gambar 2. Flowchart Sistem Yang
+Diusulkan
+
+DFD Level 1
+
+Alat dan Bahan
+1. Perangkat Keras (Hardware)
+a. Processor intel core 2 Duo
+b. LCD LED HD 14.0”
+c. Mainboard intel
+Jurnal Ilmiah ILKOMINFO-Jurnal Ilmu Komputer dan Informatika
+
+Page 75
+
+Nam
+e
+Id
+
+Type
+
+Foto
+
+Varcha
+r
+Varcha
+r
+
+Isi
+
+Integer
+
+d
+Size
+11
+
+n
+
+y Key
+*
+
+50
+
+Penomoran
+(PK)
+Foto
+
+70
+
+Isi
+
+Tabel 3. Pegawai Kontrak
+Field
+Name
+
+Data
+Type
+
+Id
+
+Intege
+r
+Varch
+ar
+Varch
+ar
+Varch
+ar
+Varch
+ar
+Varch
+ar
+Varch
+ar
+Varch
+ar
+Varch
+ar
+Doubl
+e
+
+Nama
+
+Gambar 4. Diagram Konteks
+
+Alamat
+
+ERD (entity relationship diagram)
+
+Tgl_lahir
+Pendidika
+n
+Prog_stud
+i
+Tahun_lul
+us
+Jabatan
+Tgl_sk
+Foto
+
+Fiel
+d
+Size
+11
+
+Keterang
+an
+
+Primar
+y Key
+*
+
+18
+
+Penomora
+n (PK)
+Nama
+
+20
+
+Alamat
+
+20
+
+Tanggal
+lahir
+Pendidika
+n
+Program
+studi
+Tahun
+lulus
+Jabatan
+
+14
+16
+15
+15
+30
+50
+
+Tanggal
+SK
+Foto
+
+Tabel 4. Pegawai PNS
+Field Name
+
+Data
+Type
+
+Id
+
+Intege
+r
+Varch
+ar
+Varch
+ar
+Varch
+ar
+Varch
+ar
+Varch
+ar
+Varch
+ar
+
+Nama
+
+Gambar 5. Notasi
+
+Alamat
+
+Perancangan Tabel
+Tabel 1. Admin
+Field
+Nam
+e
+Id
+
+Data
+Type
+
+User
+
+Varcha
+r
+Varcha
+r
+
+Pass
+
+Integer
+
+Fiel
+d
+Size
+11
+20
+20
+
+Nip
+
+Keterangan
+
+Primar
+y Key
+
+Penomoran(P
+K)
+Username
+Untok Login
+Password
+Untuk Login
+
+*
+
+Pangkat
+Jabatan
+unit_organi
+sasi
+Foto
+
+Varch
+ar
+
+Fiel
+d
+Size
+11
+
+Keterang
+an
+
+Prima
+ry Key
+*
+
+15
+
+Penomora
+n (PK)
+Nama
+
+15
+
+Alamat
+
+13
+
+Nip
+
+14
+
+Pangkat
+
+16
+
+Jabatan
+
+16
+
+Unit
+Organisas
+i
+Foto
+
+20
+
+Tabel 2. Profil
+Field
+
+Data
+
+Fiel
+
+Keteranga
+
+Primar
+
+Relasi Tabel
+
+Jurnal Ilmiah ILKOMINFO-Jurnal Ilmu Komputer dan Informatika
+
+Page 76
+
+Menu Input Pegawai Kontrak
+
+Gambar 9. Input Pegawai Kontrak
+Gambar 6. Relasi Tabel
+
+Menu Input PNS
+
+IMPLEMENTASI DAN PEMBAHASAN
+Halaman Profil
+
+Gambar 10. Menu Input Kategori
+Gambar 7. Halaman Profil
+Form Cetak Laporan Data Pegawai
+Login Admin
+
+Gambar 8. login admin
+
+Gambar 11. Cetak Laporan Data PNS
+
+Jurnal Ilmiah ILKOMINFO-Jurnal Ilmu Komputer dan Informatika
+
+Page 77
+
+Gambar 12. Cetak Laporan Data Pegawai
+Kontrak
+KESIMPULAN
+Hasil Perancangan Sistem Informasi
+data Pegawai Berbasis Web pada
+Kementerian Kelautan dan Perikanan
+Ternate di simpulkan sebagai berikut:
+1. Sistem ini di buat untuk mempermudah
+Membantu Kinerja admin dalam dalam
+mengelola data pegawai secara efesien
+2. Sebagai media informasi kepada
+masyarakat tentang Kelautan dan
+Perikanan
+.
+DAFTAR PUSTAKA
+Jogiyanto 2005. Pengenalan Sistem
+Informasi. AndiOfset, Yogyakarta
+Moekijat. 2005. Pengantar Sistem
+Informasi Manajemen. Mandar Maju,
+Bandung.
+Nugroho, Bunafit. 2008. Latihan Membuat
+Aplikasi Web PHP dan MySQL dengan
+Dreamweaver.
+Gava
+Media,
+Yogyakarta.
+Mulyanto, Agus. 2009. Sistem Informasi
+Konsep dan Aplikasi. PustakaPelajar,
+Yogyakarta.
+Al Fata Hanaf. 2007. Analisis &
+Perancangan
+Sistem
+Informasi.
+AndiOfset, Yogyakarta.
+Tata Sutabri. 2012. Analisis Sistem
+Informasi. Andi. Yogyakarta
+
+Saputra, H dan Kawistara, S. 2014.
+Pemograman
+Web.
+Informatika,
+Bandung.
+Nofyat, Adelina Ibrahim, Arisandy
+Ambarita,
+Sistem
+Informasi
+Pengaduan Pelanggan Air Berbasis
+Website pada PDAM Kota Ternate,
+IJIS-Indonesian
+Journal
+On
+Information System, Volume 3 Nomor
+1 April Tahun 2018, e-ISSN 25486438, p-ISSN 2614-7173
+Vivin Ambar, Arisandy Ambarita, Sistem
+Informasi Pengolahan Data Kelulusan
+Siswa Non-Formal Berbasis Web Pada
+Dinas Pendidikan Nasional Kota
+Ternate. IJIS-Indonesian Journal on
+Information System, Volume 2 Nomor
+1 April Tahun 2017, ISSN 2548-6438
+
+Jurnal Ilmiah ILKOMINFO-Jurnal Ilmu Komputer dan Informatika
+
+Page 78
+
+

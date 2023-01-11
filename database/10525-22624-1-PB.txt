@@ -1,0 +1,554 @@
+Volume 24 No. 2, April - Juni 2018
+p-ISSN: 0852-2715 | e-ISSN: 2502-7220
+http://jurnal.unimed.ac.id/2012/index.php/jpkm/article/view/10525
+
+PENGEMBANGAN MEDIA PEMBELAJARAN BERBASIS ANDROID
+DENGAN MENGGUNAKAN APLIKASI APPYPIE DI SMK BINA
+MANDIRI DEPOK
+Irnin Agustina Dwi Astuti1*, Dasmo1, Ria Asep Sumarni2
+1
+
+Program Studi Pendidikan Fisika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Indraprasta
+PGRI, Jakarta, Indonesia
+2
+Program Studi Informatika, Fakultas Teknik dan Ilmu Komputer, Universitas Indraprasta PGRI, Jakarta,
+Indonesia
+*Penulis Korespodensi: irnin.agustina@gmail.com
+
+Abstrak
+Tujuan kegiatan pengabdian masyarakat ini adalah untuk mengoptimalkan fungsi teknologi dan internet
+sebagai media pembelajaran berbasis android di SMK Bina Mandiri Depok. Media pembelajaran yang
+memanfaatkan teknologi telepon seluler disebut dengan mobile learning. Mobile learning merupakan
+salah satu alternatif pengembangan media pembelajaran. Kehadiran mobile learning ditujukan sebagai
+pelengkap pembelajaran serta memberikan kesempatan pada siswa untuk mempelajari materi yang
+kurang dikuasai di manapun dan kapanpun. Pelaksanaan kegiatan ini dalam tiga tahap yaitu tahap
+perencanaan, pelaksanaan, dan evaluasi. Tahap perencanaan yaitu menyiapkan bahan presentasi media
+pembelajaran android, modul pelatihan, serta sarana dan prasarana dalam menunjang pelatihan. Tahap
+pelaksanaan yaitu kegiatan pelatihan yang dilaksanakan pada tanggal 30-31 Mei 2016. Tahap evaluasi
+yaitu memberikan evaluasi terhadap hasil produk peserta pelatihan dalam bentuk aplikasi android.
+Metode yang digunakan dalam kegiatan pelatihan ini adalah dengan pelatihan dan pendampingan serta
+diskusi. Pelatihan dilakukan dengan cara memberikan informasi dalam membuat media pembelajaran
+berbasis android. Materi yang diberikan saat pelatihan memuat pembuatan, pengelolaan, pemanfaatan,
+dan penyebaran media pembelajaran dalam bentuk mobile learning. Hasil produk pelatihan ini dalam
+bentuk aplikasi media pembelajaran berbasis android yang dapat digunakan guru dalam menunjang
+kegiatan pembelajaran di kelas.
+Kata kunci: Media Pembelajaran, Android, Appypie
+
+Abstract
+The purpose of the program devotion these communities is to optimize function of technology and
+internet as a medium learning based android in smk bina mandiri depok.Media learning used
+technology mobile phone called by mobile learning.Mobile learning is one of alternative development
+media learning.The presence of mobile learning intended as appendages learning and give opportunity
+to students to study material weaker anywhere and anytime).The implementation of this activity in three
+the phase planning, the implementation of the, and evaluation.The planning stages that is prepared the
+presentation material media learning android, module training, and infrastructures in supporting
+training.The implementation stage that is training activities that was held in date 30-31 may 2016.The
+evaluation namely providing evaluation of the results of products the participants in the form of the
+android application. Methods used in training activities are training and assistance and discussion
+.Training done by means of providing information in making media android based learning .The
+material is the load of training , management , the use of , and the spread of learning media in the
+mobile learning .The product this training in the media applications android based learning that can
+be used in the teacher support learning activities in class.
+Keywords: Learning Media, Android, Appypie
+
+1. PENDAHULUAN
+Perkembangan ilmu pengetahuan dan teknologi yang
+sangat pesat saat ini menyebabkan hampir semua
+aktivitas manusia dapat dikendalikan oleh aplikasi Ilmu
+Pengetahuan dan Teknologi (IPTEK). Dengan semakin
+berkembangnya ilmu pengetahuan dan teknologi maka
+
+diperlukan suatu usaha yang dapat mempermudah
+mengetahui ilmu-ilmu tersebut (Wiyono dkk, 2012).
+Tingkat perkembangan perangkat smartphone yang
+semakin tinggi dan relatif semakin murah merupakan
+faktor pendukung pengguna smartphone meningkat.
+Pengguna smartphone Indonesia juga tumbuh pesat.
+
+Diterima pada: 14 Juli 2018; Di-review pada: 13 Agustus 2018; Disetujui pada: 24 Agustus 2018 695
+
+Lembaga riset digital marketing Emarketer
+memperkirakan pada 2018 jumlah pengguna aktif
+smartphone di Indonesia akan mencapai lebih dari 100
+juta orang. Dengan jumlah sebesar itu, Indonesia akan
+menjadi negara dengan pengguna aktif smartphone
+terbesar keempat di dunia setelah Cina, India, dan
+Amerika (Wahyudi, 2015).
+
+Gambar 1. Jumlah pengguna smartphone di
+Indonesia (juta)
+Data tersebut menunjukkan bahwa tiap tahun
+pertumbuhan masyarakat indonesia tidak bisa lepas
+dari smartphone. Penggunanya merata semua kalangan
+masyarakat, baik dari anak-anak sampai orang dewasa
+sudah mempunyai smartphone dan mampu
+menggunakannya dengan baik. Hasil survey yang
+dilakukan Opera pada tahun 2013 di Indonesia
+menujukkan bahwa 10% pengguna android adalah
+umur 13-17 tahun. Hal ini membuktikan bahwa anak
+dengan usia tingkat SMP sampai SMA memiliki
+perhatian yang cukup besar dalam peng-gunaan
+smartphone.
+Dunia pendidikan tidak terlepas dari proses
+pembelajaran yang meliputi guru, siswa, dan
+lingkungan pembelajaran yang saling mempengaruhi
+satu sama lain. Media merupakan salah satu faktor
+penunjang tercapainya tujuan pembelajaran (Astuti &
+Bhakti, 2018). Hal ini berkaitan dengan penggunaan
+media yang tepat dan bervariasi dalam proses
+pembelajaran dapat meningkatkan motivasi belajar dan
+dapat mengurangi sikap pasif siswa.
+Di SMK Bina Mandiri terlihat hampir sebagian siswa
+jarang berkunjung ke perpustakaan dikarenakan
+rendahnya minat siswa untuk membaca karena
+ketersediaan buku yang ada terlalu tebal sehingga
+menyebabkan siswa malas untuk membaca. Siswa pasti
+akan membutuhkan buku untuk menunjang materi
+dalam proses pembelajaran. Buku pelajaran yang ada
+saat ini perlu adanya inovasi supaya dapat mengikuti
+perkembangan zaman dan akan memudahkan siswanya
+untuk belajar, disesuaikan dengan kurikulum yang ada
+di sekolah. Buku paket pelajaran pada umumnya tebal
+dan berat sehingga membuat rendahnya minat siswa
+dalam membaca. Siswa lebih suka yang praktis dan
+instan. Bahan ajar pembelajaran yang sering digunakan
+
+di sekolah adalah power point, video pembelajaran,
+buku teks pelajaran, dan LKS (modul). Bahan ajar
+tersebut tidak bisa sewaktu-waktu digunakan oleh
+siswa dan dirasa kurang praktis.
+Proses pembelajaran di SMK Bina Mandiri Depok
+masih satu arah, pembelajaran masih berpusat pada
+guru (teacher center) sehingga membuat siswa kurang
+termotivasi dalam belajar. Penggunaan media
+pembelajaran berbasis teknologi juga jarang dilakukan
+oleh guru, padahal sarana dan prasarana pendukung
+yang ada di sekolah memadai seperti wifi, LCD
+proyektor, dan laptop/komputer.
+Media pembelajaran harus dikemas semenarik
+mungkin agar siswa bisa mudah memahami suatu
+materi. Salah satu media pembelajaran yang dapat
+dipakai untuk mengatasi masalah rendahnya minat
+siswa dalam membawa buku ke sekolah adalah
+pegembangan media berupa buku saku. Tetapi buku
+saku memiliki kelemahan yaitu kurang praktis jika
+dibawa kemana-mana. Oleh karena itu bahan ajar yang
+tepat yang bisa mendukung pembelajaran siswa sesuai
+perkembangan jaman adalah mobile learning berbasis
+android. Kurang variatifnya media yang dibagikan
+bukan semata-mata kesalahan guru, namun karena guru
+kurang mengoptimalkan perkembangan teknologi.
+Perkembangan teknologi mobile saat ini begitu pesat,
+salah satu perangkat mobile yang saat ini sudah umum
+digunakan adalah telepon seluler. Hampir 90% siswa di
+SMK Bina Mandiri Depok sudah mempunyai telepon
+seluler yang sudah android. Semakin banyaknya siswa
+yang memiliki dan menggunakan perangkat mobile
+maka semakin besar pula peluang penggunaan
+perangkat teknologi dalam dunia pendidikan.
+Smartphone berpotensi untuk dapat digunakan sebagai
+salah satu media pembelajaran (Sulisworo, 2012). Hal
+ini menjadikan prospek penggunaan media
+pembelajaran berbasis smartphone menjadi sangat
+baik. Selain itu, penggunaan media belajar melalui
+smartphone juga dapat mengalihkan efek negatif dari
+penggunaan smartphone, seperti bermain game karena
+siswa dapat belajar melalui smartphone.
+Media pembelajaran yang memanfaatkan teknologi
+telepon seluler disebut dengan mobile learning. Mobile
+learning
+merupakan
+salah
+satu
+alternatif
+pengembangan media pembelajaran. Mobile learning
+dapat dipandang sebagai suatu sistem yang dipandang
+dalam upaya meningkatkan kualitas pembelajaran
+dengan berupaya menembus keterbatasan ruang dan
+waktu (Darmawan, 2016). Kehadiran mobile learning
+ditujukan sebagai pelengkap pembelajaran serta
+memberikan kesempatan pada siswa untuk
+mempelajari materi yang kurang dikuasai di manapun
+dan kapanpun (Fatimah & Mufti, 2014). Sekarang ini
+masih sedikit media pembelajaran yang memanfaatkan
+telepon seluler. Para siswa masih banyak yang
+menggunakan laptop atau bahkan masih ada yang
+menggunakan buku manual untuk menunjang
+
+696
+
+pembelajaran di sekolah. Dengan menggunakan laptop
+sebagai media pembelajaran akan menyulitkan siswa
+membawa perangkat tersebut karena berat dan terkesan
+repot. Guru pun masih menggunakan metode
+konvensional dalam mengajar sehingga siswa merasa
+bosan ketika melakukan kegiatan pembelajaran.
+Melihat
+potensi
+ini,
+pengembangan
+media
+pembelajaran dengan memanfaatkan telepon seluler
+adalah dengan membuat mobile learning yang
+ditujukan untuk semua telepon seluler berplatform
+Android.
+Android adalah sistem operasi berbasis Linux yang
+diperuntukkan untuk mobile device. Android
+merupakan sistem operasi yang paling diminati di
+masyarakat karena memiliki kelebihan seperti sifat
+open source yang memberikan kebebasan para
+pengembang untuk menciptakan aplikasi (Anggraeni &
+Kustijono, 2013). Android secara sederhana bisa
+diartikan sebagai sebuah software yang digunakan pada
+perangkat mobile yang mencakup sistem operasi,
+middleware, dan aplikasi kunci yang dirilis oleh
+Google (Tim EMS, 2015).
+Berdasarkan hasil penelitian yang dilakukan oleh Astra
+dkk (2015) menjelaskan bahwa aplikasi lab simulasi
+dapat digunakan sebagai media pembelajaran bagi
+siswa sekolah menengah atas karena rata-rata nilai
+kelayakan menunjukkan bahwa aplikasi tersebut layak
+dilakukan. Siswa dapat mempelajari konsep dengan
+baik. Selain itu siswa juga dapat mengevaluasi
+pengetahuan mereka dengan mengikuti bagian
+evaluasi.
+Pembuatan media pembelajaran berbasis android yang
+mudah digunakan dan diaplikasikan yaitu dengan
+appypie. Appypie merupakan suatu website yang
+menyediakan template dalam pembuatan aplikasi
+android secara gratis dan berbayar. Appypie ini dapat
+mendukung proses pembuatan aplikasi pembelajaran
+berbasis Android, Mac OS, Windows Phone,
+Blackberry, dan HTML 5. Kelebihan appypie
+dibanding aplikasi yang lain yaitu tidak memerlukan
+koding (bahasa pemrograman) dalam membuat
+aplikasi, menyediakan template dalam pembuatan
+aplikasi android secara gratis dan ukuran file tidak
+terlalu besar sehingga mudah dioperasikan di
+smartphone. Sedangkan kelemahan dari pembuatan
+aplikasi pembelajaran dengan appypie adalah aplikasi
+yang sudah dibuat dengan appypie free ini hanya bisa
+diedit kembali satu kali dalam waktu 24 jam setelah
+selesai membuatnya, hanya bisa dikerjakan dengan
+koneksi
+internet
+(secara
+online)
+sehingga
+membutuhkan kuota internet yang cukup besar, dan
+muncul berbagai layanan iklan dalam aplikasi android
+jika sudah diinstal ke smartphone.
+
+Gambar 2. Platform tampilan appypie
+2. BAHAN DAN METODE
+Kegiatan pengabdian masyarakat ini dilaksanakan di
+SMK Bina Mandiri Depok, yang beralamat di Jl. H.
+Sulaeman No. 10 Rt.01/07, Kelurahan Bedahan,
+Kecamatan Sawangan, Kota Depok, Jawa Barat.
+Kegiatan ini dilaksanakan pada bulan Mei – Juni 2016.
+Metode yang digunakan untuk mencapai tujuan yang
+telah dirumuskan di atas adalah metode pelatihan dan
+pendampingan serta diskusi. Pelatihan dilakukan
+dengan cara memberikan informasi dalam membuat
+media pembelajaran berbasis android. Materi yang
+diberikan saat pelatihan memuat pembuatan,
+pengelolaan, pemanfaatan, dan penyebaran media
+pembelajaran dalam bentuk mobile learning.
+Tahap persiapan
+
+Penyusunan
+instrumen
+
+Survey lokasi
+
+Tahap pelaksanaan
+Kegiatan pelatihan pembuatan
+media pembelajaran mobile
+learning berbaasis android
+
+Tahap evaluasi
+
+Gambar 3. Diagram alur kegiatan pengabdian
+masyarakat
+Pelaksanaan kegiatan ini dilakukan dalam tiga tahap,
+yaitu tahap persiapan, pelaksanaan, dan evaluasi.
+a) Tahap pertama adalah tahap persiapan. Dalam
+tahap ini tim melakukan survei pendahuluan
+untuk mengetahui kondisi target kegiatan dengan
+menganalisis kondisi tempat yang akan
+digunakan, kondisi peserta yang akan diberikan
+pelatihan, dan menyusun rancangan kegiatan
+yang akan dilakukan.
+b) Tahap kedua yaitu tahap pelaksanaan. Tim
+melakukan pelatihan media pembelajaran mobile
+
+697
+
+learning berbasis android yang ditujukan untu
+seluruh perangkat sekolah SMK Bina Mandiri
+Depok. Kegiatan pelatihan ini dilakukan agar
+guru bisa berinovasi dalam membuat media
+pembelajaran sehingga bisa digunakan dalam
+mendukung proses kegiatan belajar mengajar agar
+siswa tidak jenuh dan bosan saat pembelajaran.
+c) Tahap ketiga adalah evaluasi. Evaluasi kegiatan
+ini dilakukan terhadap proses kegiatan. Evaluasi
+berkaitan selama kegiatan berlangsung dari tahap
+persiapan sampai tahap pelaksanaan, yang
+meliputi keadaan sekolah, kehadiran peserta
+pelatihan, antusias peserta saat mengikuti
+kegiatan, dan saran atau kritik terhadap kegiatan.
+3. HASIL DAN PEMBAHASAN
+Pelatihan pembuatan media pembelajaran berbasis
+android dengan aplikasi appypie banyak para guru
+yang belum begitu mengusai penggunaan android.
+Selama ini para guru belum pernah menggunakan
+media pembelajaran berbasis android, bahkan banyak
+beberapa yang baru pertama kali menggunakannya.
+Guru di sekolah ini masih menggunakan pembalajaran
+dengan buku dan papan tulis. Sarana dan prasarana
+yang tersedia di sekolah cukup memadai dan
+mendukung, banyak guru yang sudah menggunaakan
+laptop, Hp android dan ada sarana free wifi. Banyak
+siswa juga sudah menggunakan Hp android. Akan
+tetapi, sarana tersebut belum dimanfaatkan oleh guru
+secara maksimal.
+Program pengabdian kepada masyarakat ini telah
+dilaksanakan pada tanggal 30 – 31 Mei 2016 di SMK
+Bina Mandiri Depok. Program ini bertujuan untuk
+melatih gruru dalam membuat media pembelajaran
+berbasis android dengan aplikasi appypie yang dapat
+digunakan guru dalam proses pembelajaran. Harapan
+dari kegiatan ini adalah guru bisa membuat media
+pembelajaran berbasis android yang dapat digunakan
+untuk memotivasi siswa dalam belajar agar siswa tidak
+jenuh dan bosan dalam Kegiatan Belajar Mengajar
+(KBM). Dalam pelaksanaannya kegiatan ini juga
+melibatkan tiga mahasiswa Program Studi Pendidikan
+Fisika Universitas Indraprasta PGRI.
+Realisasi kegiatan ini dilakukan dalam tiga tahap, yakni
+tahap persiapan, pelaksanaan dan evaluasi. Tahap
+pertama adalah tahap persiapan. Pada tahap ini tim
+melakukan survei pendahuluan pada tanggal 24 Maret
+2016 untuk mengetahui kondisi ditarget kegiatan
+dengan menganalisis kondisi tempat yang akan
+digunakan (laboratorium komputer), kondisi peserta
+yang akan diberikan perlakuan (guru dan karyawan
+sekolah) dan menyusun rancangan kegiatan yang akan
+dilakukan. Tahap persiapan selanjutnya tim
+menyiapkan bahan ajar, modul pelatihan media
+pembelajaran android, sarana dan prasarana untuk
+melengkapi kegiatan pelatihan seperti laptop, hp
+android serta modem untuk akses internet.
+
+Tahap selanjutnya adalah tahap pelaksanaan. Pada
+tahap ini tim melakukan pelatihan guru dalam
+pembuatan bahan ajar dengan media pembelajaran
+berbasis android. Peserta pelatihan adalah semua guru
+dan karyawan di SMK Bina Mandiri sebanyak 18
+orang.
+Pada hari pertama pelatihan, para guru diberi
+pengetahuan dasar mengenai android. Pengetahuan
+dasar dalam pelatihan pembuatan media pembelajaran
+berbasis android adalah penguasaan penggunaan
+internet dan laptop. Pemahaman guru mengenai
+internet kurang, ini terbukti ketika guru membuat
+aplikasi android yang langkah awalnya harus
+pendaftaran terlebih dahulu lewat alamat email. Para
+guru masih banyak mengalami kesulitan dalam
+membuat email maupun menggunakan email, ada
+beberapa guru yang belum memiliki email, bahkan ada
+yang sudah memiliki email tetapi lupa paswordnya.
+Pelatihan ini mengharuskan para guru bisa
+menggunakan email, sehingga kami tim abdimas harus
+memberikan pelatihan dalam pembuatan dan
+penggunaan email terlebih dahulu sebelum melakukan
+pelatihan pembuatan media pembelajaran berbasis
+android.
+
+Gambar 4. Kegiatan sosialisasi.
+Semua guru yang sudah memiliki email selanjutnya
+dibimbing untuk membuat media pembelajaran android
+melalui laptop. Ada guru yang sangat cepat dalam
+membuat media pembelajaran android, tetapi ada juga
+yang lamban dalam membuatnya. Para guru sangat
+semangat dalam pelatihan ini, sampai pada tahap
+terakhir pelatihan. Pada saat pelatihan guru-guru sangat
+antusias dan bersemangat dalam mengikuti rangkaian
+pelatihan yang dilakukan. Para guru juga melakukan
+diskusi dengan tim jika ada hal-hal yang masih bingung
+dalam pembuatan media pembelajaran berbasis
+android.
+Pelaksanaan pelatihan waktu hari pertama hanya
+pelatihan dalam membuat aplikasi android dengan
+appypie yang isinya menambahkan materi atau teks dan
+menyisipkan gambar. Pada hari kedua pelatihan, para
+guru dilatih untuk menambah konten atau isi aplikasi
+android lebih kompleks lagi seperti menambahkan
+video, membuat link, membuat kuis interaktif dan
+
+698
+
+menyimpannya sehingga hasil produk aplikasi android
+dapat di download dan di instal di hp android.
+
+Gambar 5. Kegiatan pelatihan media pembelajaran
+berbasis android
+Tahap terakhir adalah tahap evaluasi. Pada tahap ini,
+peserta pelatihan membuat suatu produk media
+pembelajaran berbasis android kemudian hasil produk
+tersebut dievaluasi oleh tim baik kekurangan dan
+kelebihan hasil produk media pembelajaran berbasis
+android.
+
+Gambar 6. Hasil produk media pembelajaran berbasis
+android guru IPA
+Pada tahap evaluasi tim juga menganalisis kegiatan
+selama pelatihan. Secara keseluruhan tidak ada
+hambatan yang berarti, hanya saja pada saat
+pelaksanaan tidak selesai tepat waktu ini dikarenakan
+koneksi internet kurang stabil karena diakses banyak
+orang. Peserta pelatihan juga ada yang kurang paham
+mengenai penggunaan laptop dan internet sehingga
+trainer harus menjelaskan secara detail dan pelanpelan.Solusi yang diambil dalam mengatasi hambatan
+di atas adalah dengan menambah kuota internet untuk
+mengakses internet agar berjalan dengan baik. Solusi
+untuk mengatasi masalah kedua yaitu dengan
+memberikan tambahan pelatihan satu hari lagi untuk
+lebih memantapkan peserta pelatihan agar lebih paham
+dalam pembuatan media pembelajaran berbasis
+androiod.
+Hasil produk media pembelajaran yang mereka buat
+bisa digunakan sebagai bahan ajar dikelas dalam
+pelaksanaan kegiatan belajar mengajar. Media
+pembelajaran ini diharapkan dapat dijadikan inovasi
+dalam pembelajaran yang dapat menarik minat siswa
+
+untuk lebih giat belajar. Dengan seperti ini kegiatan
+pelatihan ini sangat membantu guru dalam membuat
+suatu inovasi media pembelajaran yang baru dalam
+menunjang pembelajaran di kelas.
+Sejalan dengan penelitian Astuti & Bhakti (2018),
+media pembelajaran menjadi salah satu strategi baru
+dalam pembelajaran di kelas agar mendapatkan siswa
+mendapatkan pembelajaran yang bermakna, tidak
+membosankan, dan bersifat tidak abstrak. Penggunaan
+mobile learning terbukti mendorong motivasi dan
+dukungan siswa dalam kegiatan belajar mereka sendiri
+(Sulisworo dkk, 2016). Perkembangan teknologi
+multimedia menjanjikan potensi besar dalam
+mengubah cara siswa belajar. Multimedia juga
+memberikan
+peluang
+pendidikan
+dalam
+mengembangkan teknik pembelajaran (Taufiq dkk,
+2017). Adanya media pembelajaran yang dibuat guru
+dapat membuat motivasi belajar siswa meningkat dan
+siswa tertarik pada pelajaran yang dibawakan guru.
+Menurut Bhakti & Astuti (2018) tingkat skill atau
+kemampuan psikomotorik siswa akan meningkat jika
+pembelajaran yang diberikan guru diubah (tidak
+monoton) dan menggunakan media pembelajaran yang
+menarik.
+4. KESIMPULAN
+Secara keseluruhan kegiatan pengabdian mayarakat
+yang dilakukan di SMK Bina Mandiri Depok berjalan
+dengan baik. Guru-guru antusias mengikuti acara demi
+acara yang diberikan oleh tim. Dengan kegiatan
+pelatihan seperti ini ternyata guru memiliki minat yang
+tinggi dalam membuat bahan ajar media pembelajaran
+berbasis android, karena program seperti ini merupakan
+hal yang baru pertama dilakukan. Produk yang
+dihasilkan guru dalam bentuk aplikasi media
+pembelajaran berbasis android yang bisa digunakan
+guru dalam menunjang kegiatan pembelajaran di kelas.
+Luaran dari kegiatan pengabdian masyarakat ini dalam
+bentuk modul pembuatan media pembelajaran berbasis
+android yang dapat digunakan oleh pengajar baik guru,
+dosen, maupun masyarakat umum.
+Berdasarkan hasil dan kesimpulan di atas, saran yang
+dapat diajukan antara lain 1) Guru lebih kreatif lagi
+dalam membuat inovasi media pembelajaran untuk
+mendukung kegiatan pembelajaran di kelas; 2) Sarana
+dan prasarana seperti koneksi inter yang ada di SMK
+Bina Mandiri Depok harus ditingkatkanlagi agar
+penggunaan koneksi internet dapat menjangkau dan
+memadai; 3) Media pembelajaran berbasis android
+dengan aplikasi appypie dapat dijadikan sebagai bahan
+ajar guru dalam kegiatan pembelajaran.
+UCAPAN TERIMA KASIH
+Penulis mengucapkan terimakasih kepada 1) Lembaga
+Penelitian dan Pengabdian Kepada Masyarakat
+(LPPM) Universitas Indraprasta PGRI yang telah
+memfasilitasi dan memberikan hibah DIPA untuk
+kegiatan program Abdimas, dan 2) Kepala Sekolah
+
+699
+
+SMK Bina Mandiri Depok yang telah memberikan ijin
+kegiatan abdimas.
+DAFTAR PUSTAKA
+Anggraeni, R. D., & Kustijono, R. (2013).
+Pengembangan media animasi fisika pada
+materi cahaya dengan aplikasi flash berbasis
+android. Jurnal Penelitian Fisika dan
+Aplikasinya (JPFA), 3(1), 11-18.
+Astra, I. M., Nasbey, H., & Nugraha, A. (2015).
+Development of an android application in the
+form of a simulation lab as learning media for
+senior high school students. Eurasia Journal of
+Mathematics, Science & Technology Education,
+11(5), 1081-1088.
+Astuti, I. A. D., & Bhakti, Y. B. (2018). Interactive
+Learning Multimedia Based Microsoft Excel on
+The Temperature and Heat. Unnes Science
+Education Journal, 7(1), 1-6.
+Bhakti, Y. B., & Astuti, I. A. D. (2018). The Influence
+Process of Science Skill and Motivation
+Learning with Creativity Learn. Journal of
+Education and Learning, 12(1), 30-35.
+Dasmo, D., Astuti, I. A. D., & Nurullaeli, N. (2017).
+Pengembangan Pocket Mobile Learning
+Berbasis Android. Jurnal Riset dan Kajian
+Pendidikan Fisika, 4(2), 71-77.
+Darmawan, Deni. (2016). Mobile Learning Sebuah
+Aplikasi Teknologi Pembelajaran. Jakarta:
+Rajawali Pers.
+Fatimah, S., & Mufti, Y. (2014). Pengembangan Media
+Pembelajaran IPA-Fisika Smartphone Berbasis
+Android Sebagai Penguat Karakter Sains Siswa.
+Jurnal Kaunia, 10(1), 59-64.
+Sulisworo, D. (2012). Enabling ICT and knowledge
+management to enhance competitiveness of
+higher education institutions. International
+journal of Education, 4(1), 112-121.
+Sulisworo, D., Ishafit, I., & Firdausy, K. (2016). The
+development of mobile learning application
+using jigsaw technique. International Journal of
+Interactive Mobile Technologies (iJIM), 10(3),
+11-16.
+Taufiq, M., Amalia, A. V., & Parmin, P. (2017). The
+Development Of Science Mobile Learning With
+Conservation Vision Based On Android App
+Inventor 2. Unnes Science Education Journal,
+6(1).
+Tim EMS. (2015). Pemrograman Android dalam
+Sehari. Jakarta: Elex Media Komputindo.
+Wahyudi, Ade. (2015). Indonesia, Raksasa Teknologi
+Digital
+Asia.
+http://katadata.co.id/opini/2015/09/29/indonesi
+a-raksasa-teknologi-digitalasia#sthash.hmXDpXjY.dpbs. Diakses tanggal
+20 Februari 2015.
+Wiyono, K., Setiawan, A., & Paulus, C. T. (2012).
+Model Multimedia Interaktif Berbasis Gaya
+Belajar Untuk Meningkatkan Penguasaan
+Konsep Pendahuluan Fisika Zat Padat. Jurnal
+Pendidikan Fisika Indonesia, 8(1), 74-82.
+
+700
+
+701
+
+

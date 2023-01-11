@@ -1,0 +1,892 @@
+JURNAL KHATULISTIWA INFORMATIKA, VOL. IV, NO. 2 DESEMBER 2016
+
+PEMODELAN UML SISTEM INFORMASI MONITORING PENJUALAN DAN STOK
+BARANG (STUDI KASUS: DISTRO ZHEZHA PONTIANAK)
+Ade Hendini
+Program Studi Manajemen Informatika AMIK “BSI Pontianak”
+Jl. Abdurahman Saleh No.18A, Kota Pontianak, Indonesia
+Email : ade.aee@bsi.ac.id
+
+ABSTRACT
+In the business world, technology can be used as a tool to monitor the activities going on in the business
+including sales transaction and monitoring stock of merchandise available. This is done in an effort to
+determine the progress of a business. In design information systems monitoring sales and inventory used
+UML modeling to analyze what is needed and what will be built. Monitoring information system sales
+and inventory is expected to be a tool that can help businesses to be able to know the progress of his efforts
+in each branch.
+Keyword: UML, Monitoring, Modeling
+1.
+
+PENDAHULUAN
+Perkembangan teknologi yang pesat
+memberikan pengaruh dari cara kerja
+personal maupun organisasi, terlebih
+dalam dunia bisnis, teknologi dapat
+membantu
+perkembangan
+bisnis
+dikarenakan dengan teknologi dapat
+memangkas pengeluaran yang cukup
+signifikan.
+Dalam dunia bisnis, teknologi dapat
+digunakan sebagai alat untuk memonitor
+kegiatan-kegiatan yang terjadi dalam bisnis
+diantaranya transaksi penjualan dan
+monitoring stok barang dagangan yang
+tersedia.
+Distro Zhezha merupakan salah
+satu pelaku bisnis yang sudah memiliki
+banyak cabang di Kalimantan Barat.
+Dengan semakin banyaknya cabang, maka
+pengelolaan dan monitoring tiap cabang
+juga akan semakin kompleks, dari
+pemantauan stok barang di setiap cabang,
+mengetahui transaksi penjualan yang
+terjadi serta penentuan harga jual barang di
+tiap-tiap cabang, dengan bantuan teknologi
+yaitu dibuatnya sebuah model sistem
+informasi monitoring penjualan dan stok
+barang, maka permasalahan-permasalahan
+tersebut akan dapat diminimalisir.
+Pelaku bisnis dapat memonitoring
+penjualan dan stok barang di setiap cabang
+
+serta menentukan harga jual barang di tiaptiap cabangnya.
+Dengan mengetahui proses monitoring
+penjualan dan stok barang pada distro
+Zhezha, maka dapat dirancang sebuah
+model dalam bentuk UML sistem informasi
+monitoring penjualan dan stok barang pada
+distro Zhezha
+2. LANDASAN TEORI
+2.1 Monitoring
+Monitoring
+adalah
+proses
+pengumpulan dan analisis informasi
+berdasarkan indikator yang ditetapkan
+secara sistematis dan kontinu tentang
+kegiatan
+program
+sehingga
+dapat
+dilakukan
+tindakan
+koreksi
+untuk
+penyempurnaan program kegiatan itu
+selanjutnya. Pemantauan yang dapat
+dijelaskan sebagai kesadaran (Awareness)
+tentang apa yang ingin diketahui,
+pemantauan berkadar tingkat tinggi
+dilakukan
+agar
+dapat
+membuat
+pengukuran
+melalui
+waktu
+yang
+menunjukan pergerakan ke arah tujuan
+atau menjauh dari itu.(Mardiani, Gentisya
+Tri:2013).
+2.2 Database
+Menurut Asrianda dalam Urva, Gellysa
+(2008) Database adalah sekumpulan tabel-
+
+107
+
+JURNAL KHATULISTIWA INFORMATIKA, VOL. IV, NO. 2 DESEMBER 2016
+
+tabel yang saling berelasi, relasi tersebut
+bisa ditunjukkan dengan kunci dari tiap
+tabel yang ada. Satu database menunjukkan
+satu lingkup perusahaan atau instansi.
+Database juga merupakan kumpulan
+data yang umumnya menggambarkan
+aktifitas-aktifitas dan pelakunya dalam
+suatu organisasi.Sistem database merupakan
+sistem komputer yang digunakan untuk
+menyimpan dan mengelola data tersebut
+(Nugroho, Yuliandri Priyo, 2012).
+2.3 Website
+Menurut Nugroho dalam Aprisa (2015)
+menjelaskan bahwa Website atau situs
+dapat
+diartikan
+sebagai
+kumpulan
+halaman-halaman yang berasal dari file-file
+berisi bahasa pemrograman yang saling
+berhubungan
+digunakan
+untuk
+menampilkan informasi, gambar bergerak
+dan tidak bergerak, suara dan atau
+gabungan dari semuanya itu baik yang
+bersifat statis maupun dinamis.
+2.4 UML
+Menurut Windu Gata, Grace (2013:4),
+Unified Modeling Language (UML) adalah
+bahasa
+spesifikasi
+standar
+yang
+dipergunakan untuk mendokumentasikan,
+menspesifikasikan
+dan
+membanngun
+perangkat
+lunak.
+UML
+merupakan
+metodologi dalam mengembangkan sistem
+berorientasi objek dan juga merupakan alat
+untuk mendukung pengembangan sistem.
+Alat bantu yang digunakan dalam
+perancangan berorientasi objek berbasiskan
+UML adalah sebagai berikut:
+a. Use Case Diagram
+Use case diagram merupakan pemodelan
+untuk kelakuakn (behavior) sistem
+informasi yang akan dibuat. Use case
+digunakan untuk mengetahui fungsi
+apa saja yang ada di dalam sistem
+informasi dan siapa saja yang berhak
+menggunakan fungsi-fungsi tersebut.
+Simbol-simbol yang digunakan dalam
+Use Case Diagram yaitu:
+
+Tabel 1
+Use Case Diagram
+Gambar
+Keterangan
+Use
+Case
+menggambarka
+n fungsionalitas
+yang
+disediakan
+sistem sebagai
+unit-unit yang
+bertukar pesan
+antar
+unit
+dengan
+aktir,
+yang
+dinyatakan
+dengan
+menggunakan
+kata kerja
+Actor
+atau
+Aktor
+adalah
+Abstraction dari
+orang
+atau
+sistem
+yang
+lain
+yang
+mengaktifkan
+fungsi
+dari
+target
+sistem.
+Untuk
+mengidentifika
+sikan
+aktir,
+harus
+ditentukan
+pembagian
+tenaga
+kerja
+dan tugas-tugas
+yang berkaitan
+dengan peran
+pada konteks
+target
+sistem.
+Orang
+atau
+sistem
+bisa
+muncul dalam
+beberapa peran.
+Perlu
+dicatat
+bahwa
+aktor
+berinteraksi
+dengan
+Use
+Case,
+tetapi
+tidak memiliki
+
+108
+
+JURNAL KHATULISTIWA INFORMATIKA, VOL. IV, NO. 2 DESEMBER 2016
+
+kontrol
+terhadap
+use
+case
+b.
+Asosiasi antara
+aktor dan use
+case,
+digambarkan
+dengan
+garis
+tanpa
+panah
+yang
+mengindikasika
+n siapa atau
+apa
+yang
+meminta
+interaksi secara
+langsung dan
+bukannya
+mengindikasika
+n data.
+Asosiasi antara
+act Use Case Model
+aktor dan use
+case
+yang
+menggunakan
+panah terbuka
+untuk
+mengindikasika
+n bila aktor
+berinteraksi
+secara
+pasif
+dengan sistem
+Include,
+merupakan
+di Case Model
+act Use
+dalam use case
+lain (required)
+atau
+pemanggilan
+use case oleh use
+case
+lain,
+contohnya
+adalah
+pemanggilan
+sebuah fungsi
+program
+Extend,
+merupakan
+perluasan dari
+use case lain jika
+kondisi
+atau
+syarat
+
+terpenuhi
+Diagram Aktivitas (Activity Diagram)
+Activity
+Diagram
+menggambarkan
+workflow (aliran kerja) atau aktivitas
+dari sebuah sistem atau proses bisnis.
+Simbol-simbol yang digunakan dalam
+activity Diagram yaitu:
+Tabel 2
+Activity Diagram
+Gambar
+Keterangan
+Start
+Point,
+diletakkan
+pada
+pojok
+kiri atas dan
+merupakan
+act U...
+awal aktivitas
+End
+Point,
+akhir aktivitas
+act Use Case Model
+End
+Activities,
+menggambar
+kan
+suatu
+proses/kegiat
+an bisnis
+Fork/percaban
+gan,
+digunakan
+untuk
+menunjukkan
+kegiatan yang
+dilakukan
+secara paralel
+atau
+untuk
+menggabung
+kan
+dua
+kegiatan
+paralel
+menjadi satu
+Join
+(penggabung
+an) atau rake,
+digunakan
+untuk
+menunjukkan
+adanya
+dekomposisi
+
+109
+
+JURNAL KHATULISTIWA INFORMATIKA, VOL. IV, NO. 2 DESEMBER 2016
+
+act Use Case Model
+
+act Use Case Model
+
+Decision
+Points,
+menggambar
+kan
+pilihan
+untuk
+pengambilan
+keputusan,
+tru atau false
+Swimlane,
+pembagian
+activity
+diagram untuk
+menunjukkan
+siapa
+melakukan
+apa
+
+sd Use
+Cas...
+sd Use
+Case
+Model
+
+sd Use Case Model
+
+c.
+
+Diagram Urutan (Sequence Diagram)
+Sequence Diagram menggambarkan
+kelakuan objek pada use case dengan
+mendeskripsikan waktu hidup objek
+dan pesan yang dikirimkan dan
+diterima antar objek. Simbol-simbol
+yang digunakan dalam Sequence
+Diagram yaitu:
+Tabel 3
+Sequence Diagram
+Gambar
+Keterangan
+Entity
+Class,
+merupakan
+bagian
+dari
+sistem
+yang
+berisi kumpulan
+sd Use Cas...
+kelas
+berupa
+entitas-entitas
+yang
+membentuk
+gambaran awal
+sistem
+dan
+menjadi
+landasan untuk
+menyusun basis
+sd Use Cas...
+data
+Boundary Class,
+berisi kumpulan
+
+sd Use Case Model
+
+sd Use Cas...
+
+kelas
+yang
+menjadi
+interfaces
+atau
+interaksi antara
+satu atau lebih
+aktor
+dengan
+sistem, seperti
+tampilan form
+entry dan form
+cetak
+Control
+class,
+suatu
+objek
+yang
+berisi
+logika aplikasi
+yang
+tidak
+memiliki
+tanggung jawab
+kepada entitas,
+contohnya
+adalah kalkulasi
+dan
+aturan
+bisnis
+yang
+melibatkan
+berbagai objek
+Message, simbol
+mengirim pesan
+antar class
+Recursive,
+menggambarka
+n
+pengiriman
+pesan
+yang
+dikirim
+untuk
+dirinya sendiri
+Activation,mewa
+kili
+sebuah
+eksekusi operasi
+dari
+objek,
+panjang kotak
+ini berbanding
+lurus
+dengan
+durasi aktivasi
+sebuah operasi
+Lifeline,
+garis
+titik-titik yang
+terhubung
+dengan
+objek,
+sepanjang lifeline
+terdapat
+activation
+
+110
+
+JURNAL KHATULISTIWA INFORMATIKA, VOL. IV, NO. 2 DESEMBER 2016
+
+d. Diagram Kelas (Class Diagram)
+Merupakan hubungan antar kelas dan
+penjelasan detail tiap-tiap kelas di
+dalam model desain dari suatu sistem,
+juga memperlihatkan aturan-aturan
+dan tanggung jawab entitas yang
+menentukan perilaku sistem.
+Class Diagram juga menunjukkan
+atribut-atribut dan operasi-operasi dari
+sebuah kelas dan constraint yang
+berhubungan dengan objek yang
+dikoneksikan.
+Class Diagram secara khas meliputi :
+Kelas (Class), Relasi Assosiations,
+Generalitation dan Aggregation, attribut
+(Attributes), operasi (operation/method)
+dan visibility, tingkat akses objek
+eksternal kepada suatu operasi atau
+attribut.
+Hubungan
+antar
+kelas
+mempunyai keterangan yang disebut
+dengan Multiplicity atau Cardinality.
+Tabel 4
+Multiplicity Class Diagram
+Penjelasan
+Multiplicity
+1
+Satu dan hanya satu
+0..*
+Boleh tidak ada atau 1
+atau lebih
+1..*
+1 atau lebih
+0..1
+Boleh
+tidak
+ada,
+maksimal 1
+n..n
+Batasan antara. Contoh
+2..4 mempunyai arti
+minimal 2 maksimal 4
+e.
+
+Deployment Diagram
+Deployment Diagram digunakan untuk
+menggambarkan detail bagaimana
+komponen disusun di infrastruktur
+sistem.
+Tabel II.5
+Deployment Diagram
+Gambar
+Keterangan
+Pada
+deployment
+diagram,
+komponenkompone
+n
+yang
+ada
+diletakkan didalam
+node
+untuk
+
+memastikan
+keberadaan posisi
+mereka
+Node
+menggambarkan
+bagian-bagian
+hardware
+dalam
+sebuah
+sistem.
+Notasi untuk node
+digambarkan
+sebagai
+sebuah
+kubus 3 dimensi.
+Sebuah association
+digambarkan
+sebagai sebuah garis
+yang
+menghubungkan
+dua
+node
+yang
+mengindikasikan
+jalur
+komunikasi
+antara
+elementelemen hardware.
+3.
+
+METODOLOGI PENELITIAN
+Metode penelitian yang dilakukan
+yaitu dengan melakukan analisis terhadap
+sistem
+yang
+sedang
+berjalan,
+mengidentifikasi kebutuhan. Adapun alat
+bantu yang digunakan adalah UML yang
+digunakan
+4.
+a.
+
+PEMBAHASAN
+Use Case Diagram
+Gambaran fungsional dari suatu
+sistem yang akan dibangun sehingga
+dapat dipelajari oleh pengguna.
+Berikut merupakan Use Case Diagram
+Sistem informasi monitoring stok
+barang dan penjualan pada Distro
+Zhezha
+
+111
+
+JURNAL KHATULISTIWA INFORMATIKA, VOL. IV, NO. 2 DESEMBER 2016
+
+2)
+
+Gambar 1. Use Case Diagram Sistem
+Informasi Monitoring Penjualan dan Stok
+Barang
+b.
+1)
+
+Activity Diagram
+Activity Diagram Login
+
+Activity Diagram Logout
+
+Gambar 4. Activity Diagram Logout
+3)
+
+Activity
+Cabang
+
+Diagram
+
+Mengelola
+
+Data
+
+Gambar 5. Activity Diagram Mengelola
+Data Cabang
+Gambar 2. Activity Diagram Login
+Admin/Karyawan Gudang
+
+4)
+
+Activity Diagram
+Karyawan
+
+Mengelola
+
+Data
+
+Gambar 6. Activity Diagram Mengelola
+Data Karyawan
+Gambar 3. Activity Diagram Login Kasir
+
+112
+
+JURNAL KHATULISTIWA INFORMATIKA, VOL. IV, NO. 2 DESEMBER 2016
+
+5)
+
+Activity Diagram Laporan Penjualan
+
+8)
+
+Activity Diagram
+Barang Cabang
+
+Mengelola
+
+Stok
+
+Gambar 10. Activity Diagram Mengelola
+Stok Barang Cabang
+9)
+
+Activity Diagram Transaksi Penjualan
+
+Gambar 7. Activity Diagram Laporan
+Penjualan
+6)
+
+Activity
+Gudang
+
+Diagram
+
+Mengelola
+
+Stok
+
+Gambar 11. Activity Diagram Transaksi
+Penjualan
+
+c.
+1)
+
+Sequence Diagram
+Sequence Diagram Login
+
+Gambar 8. Activity Diagram Mengelola
+Stok Gudang
+7)
+
+Activity Diagram Mutasi Barang
+
+Gambar 12. Sequence Diagram Login
+Admin
+
+Gambar 9. Activity Diagram Mutasi
+Barang
+
+Gambar 13. Sequence Diagram Login
+Karyawan Gudang
+
+113
+
+JURNAL KHATULISTIWA INFORMATIKA, VOL. IV, NO. 2 DESEMBER 2016
+
+4)
+
+Sequence Diagram
+Karyawan
+
+Mengelola
+
+Data
+
+Gambar 14. Sequence Diagram Login Kasir
+2)
+
+Sequence Diagram Logout
+
+Gambar 15. Sequence Diagram Logout
+Gambar 17. Sequence Diagram Mengelola
+Data Karyawan
+3)
+
+Sequence
+Cabang
+
+Diagram
+
+Mengelola
+
+Data
+5)
+
+Sequence Diagram Laporan Penjualan
+
+Gambar 18. Sequence Diagram Laporan
+Penjualan
+
+Gambar 16. Sequence Diagram Mengelola
+Data Cabang
+
+114
+
+JURNAL KHATULISTIWA INFORMATIKA, VOL. IV, NO. 2 DESEMBER 2016
+
+6)
+
+Sequence
+Gudang
+
+Diagram
+
+Mengelola
+
+Stok
+
+Gambar 19. Sequence Diagram Mengelola
+Stok Gudang
+
+9)
+
+Mengelola
+
+Stok
+
+Gambar 22. Sequence Diagram Mengelola
+Stok Barang Cabang
+d.
+
+7)
+
+Sequence Diagram
+Barang Cabang
+
+Class Diagram
+
+Sequence Diagram Mutasi Barang
+
+Gambar 20. Sequence Diagram Mutasi
+Barang
+8)
+
+Gambar 23. Class Diagram
+
+Sequence Diagram Transaksi Penjualan
+e.
+
+Deployment Diagram
+
+Gambar 21. Sequence Diagram Transaksi
+Penjualan
+Gambar 24. Deployment Diagram
+
+115
+
+JURNAL KHATULISTIWA INFORMATIKA, VOL. IV, NO. 2 DESEMBER 2016
+
+5. PENUTUP
+5.1 Kesimpulan
+Dari hasil Pemodelan ini, penulis
+mengambil kesimpulan :
+1. Dengan adanya sistem informasi
+monitoring penjualan dan stok barang
+ini, mempermudah pelaku usaha
+dalam memantau atau mengetahui
+penjualan dan stok barang ditiap
+cabang.
+2. Melalui sistem informasi monitoring
+penjualan dan stok barang ini dapat
+membantu pelaku usaha dalam
+menentukan
+keputusan
+dari
+informasi-informasi yang didapat dari
+tiap-tiap cabang
+5.2 Saran
+Adapun saran yang dapat dikemukakan
+adalah sebagai berikut:
+1. Sebaiknya sistem ini dikembangkan
+pula dalam hal pendistribusian barang
+dan pengontrollan karyawan dalam
+hal presensi karyawan.
+2. Pengembangan selanjutnya dapat
+diterapkan ke aplikasi berbasis
+smartphone,
+dalam
+rangka
+mempermudah pemilik usaha untuk
+mengakses data dan informasi
+
+DAFTAR PUSTAKA
+Aprisa dan Monalisa, Siti. (2015). Rancang
+Bangun Sistem Informasi Monitoring
+Perkembangan Proyek Berbasis Web
+(Studi Kasus: PT Inti Pratama
+Semesta).
+Jurnal
+Rekayasa
+dan
+Manajemen Sistem Informasi Vol 1 No
+1.
+Gata, Windu dan Gata, Grace. (2013).
+Sukses
+Membangun
+Aplikasi
+Penjualan dengan Java. Jakarta : Elex
+Media Komputindo.
+Pressman, Roger S. .(2010). Software
+Engineering : A Practicioner's Approach,
+7th Edition. New York : McGraw-Hill
+Inc
+Putra, Arie Setya dan Febriani, Ochi
+Mashella. (2013). Sistem Informasi
+Monitoring Inventori Barang Pada
+Balai Riset Standardisasi Industri
+Bandar Lampung. Jurnal Informatika
+Vol 13 No 1.
+Urva, Gellysa dan Siregar, Fauzi Helmi.
+(2015) Pemodelan UML E-Marketing
+Minyak Goreng. Jurnal Teknologi dan
+Sistem Informasi Vol 1 No 2.
+
+116
+
+

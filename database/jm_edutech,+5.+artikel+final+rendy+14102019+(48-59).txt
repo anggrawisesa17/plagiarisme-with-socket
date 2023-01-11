@@ -1,0 +1,1305 @@
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+PENGEMBANGAN E-KOMIK DENGAN MODEL ADDIE UNTUK
+MENINGKATKAN MINAT BELAJAR TENTANG PERJUANGAN
+PERSIAPAN KEMERDEKAAN INDONESIA
+I Putu Gde Caesar Renddy Wicaksana1, Anak Agung Gede Agung2,
+I Nyoman Jampel3
+Jurusan Ilmu Pendidikan Pshikologi dan Bimbingan
+Prodi Teknologi Pendidikan
+Universitas Pendidikan Ganesha
+Singaraja, Indonesia
+e-mail: wicaksana.putu@undiksha.ac.1, agung2056@undiksha.ac.id2 ,
+jampel@undiksha.ac.id3
+Abstrak
+Permasalahan yang terjadi di kelas V SD Negeri 5 Kampung baru adalah kurangnya
+minat belajar siswa pada materi Persiapan Kemerdekaan Indonesia dengan rata-rata
+hasil pretest minat belajar siswa 26,17 dari nilai maksimal yaitu 70. Penelitian ini
+bertujuan untuk (1) Untuk mendeskripsipkan rancang bangun pengembangan media ekomik, (2) Untuk mendeskripsikan hasil validasi pengembangan media e-komik, (3)
+Untuk mengetahui efektifitas media e-komik dengan model ADDIE untuk meningkatkan
+minat belajar siswa tentang perjuangan persiapan kemerdekaan indonesia di kelas V
+SD Negeri 5 Kampung Baru. Analisis data menggunakan analisis deskriptif kualitatif,
+kuantitatif dan statistik inferensial / induktif uji-t dan model pengembangan yang
+digunakan adalah model ADDIE. Validitas media telah diuji coba kepada ahli desain
+pembelajaran, media pembelajaran, uji coba perorangan, kelompok kecil dan uji coba
+lapangan Untuk hasil validitas pengembangan media e-komik untuk ahli desain
+pembelajaran, ahli media pembelajaran, uji coba perorangan, uji coba kelompok kecil
+dan uji coba lapangan secara berurutan yaitu 95,83%, 92,75%, 95%, 93,05%, dan
+91,30%. Hasil uji efektivitas yang dianalisis dengan teknik statistik inferensial (uji-t)
+mendapatkan hasil rata-rata pretest (26,17) < hasil rata-rata posttest (63,96). Setelah
+dilakukan perhitungan secara manual dengan menggunakan uji-t didapatkan hasil yang
+menunjukkan thitung (51,49) > dari ttabel (2,45) sehingga H0 ditolak dan H1 diterima
+artinya Terdapat efektivitas dalam pemanfaatan E-komik Model ADDIE Tentang
+Persiapan Kemerdekaan Indonesia pada materi Persiapan Kemerdekaan Indonesia
+kelas V di SD Negeri 5 Kampung Baru tahun ajaran 2018/2019.
+Kata-kata kunci: pengembangan, e-komik, minat belajar
+Abstract
+The aim of this result is about the problem in V class at SD Negeri 5 Kampung Baru
+is the lack of interest in learning of preparation for Indonesian independence with the
+result in pretest with average 26,17 from the maximal is 70. The aim of this result is
+(1) to describe the development of e-comic design, (2) to describe the validation result
+about the development of media e-comic design, (3) to know about the effectiveness
+of media e-comic with ADDIE model to increase the lack of learning about fighter of
+freedom in Indonesian in V class SD Negeri 5 Kampung baru. The analysis data using
+descriptive quantitative, qualitative and statistic inferensial/ inductive t-test and the
+development design using ADDIE design. The validation media already trying for the
+expert of the learning design, learning design, individual trials, small group and field
+trials for the validity result of the development of the e-comic design for the expert
+learning design, the expert learning design, individual trials, small group trial and field
+trials with the sequence is 95,83%, 92,75%, 95%, 93,05% and 91,30%. The result of
+the effectivity with the analysis in statistic technique inferential (t test) is (26,17)< the
+average posttest result (63,96). After manual counting with t-test the result is (51,49)
+
+48
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+>from ttable (2,45) so that HO rejected and H1 accepted means there is activities in
+utilization E-comic models ADDIE about the preparation indonesian independent V
+class at SD Negeri 5 Kampung baru 2018/2019
+Keywords: development, e-comic, interest to learn
+
+PENDAHULUAN
+Teknologi pendidikan bertujuan untuk
+memecahkan permasalahan yang ada
+dalam pembelajaran dan diharapkan
+memberikan banyak manfaat dalam upaya
+meningkatkan kualitas dan juga efektifitas
+pembelajaran. Association for Educational
+communication and Technology (AECT)
+(dalam Erwinsyah, 2015:14) menyatakan
+Teknologi Pendidikan dalam arti luas adalah
+“proses yang kompleks dan terpadu yang
+melibatkan orang, prosedur, ide, peralatan
+dan organisasi untuk menganalisis masalah,
+mencari problem solving, melaksanakan
+evaluasi dan mengelola pemecahan
+masalah yang menyangkut semua aspek
+belajar manusia”.
+Lebih spesifiknya definisi Teknologi
+Pendidikan dari AECT Tahun 2008 (dalam
+Mukminan, 2012:4) menyatakan bahwa:
+“Educational Technology is the study and
+ethical practice of facilitating learning and
+improving performance by creating, using,
+and managing appropriate technological
+process and resources”. Artinya Teknologi
+Pendidikan adalah studi dan etika praktik
+dalam rangka memfasilitasi belajar dan
+peningkatan kinerja melalui penciptaan,
+penggunaan, dan pengelolaan proses dan
+sumber-sumber
+secara
+memadai.
+Berdasarkan definisi AECT di atas, Definisi
+2008
+sudah
+lebih
+spesifik
+karena
+menekankan pada studi dan praktik. Dalam
+rangka memfasilitasi belajar, seorang
+teknolog pembelajaran haruslah bisa
+memecahkan masalah dalam pembelajaran
+dengan mempraktekkan apa yang telah di
+pelajari selama ini, misalnya saja membuat
+media pembelajaran untuk memecahkan
+masalah dalam pembelajaran ataupun
+membantu mencapai tujuan pembelajaran.
+
+Salah
+satu
+masalah
+dalam
+pembelajaran kurangnya minat belajar siswa
+karena kurang menariknya kegiatan belajar
+mengajar di kelas maupun media
+pembelajaran di gunakan oleh guru di kelas.
+Seperti
+yang
+sudah
+kita
+ketahui,
+menciptakan kegiatan belajar mengajar
+yang menarik di kelas masih menjadi
+masalah bagi hampir sebagian besar guru.
+Tentu saja guru maupun pihak lainnya sudah
+berusaha untuk menjawab permasalahan
+ini. Siswa pada zaman ini cenderung santai
+dan juga tidak peduli, sehingga guru sangat
+susah menarik perhatian siswa untuk terlibat
+dalam pembelajaran
+Minat belajar terdiri dari 2 kata, minat
+dan belajar. minat merupakan rasa
+ketertarikan, perhatian, keinginan lebih yang
+dimiliki seseorang terhadap suatu hal, tanpa
+ada dorongan. Hilgard (dalam Slameto,
+2010: 57) berpendapat bahwa minat adalah
+kecenderungan untuk bertahan untuk
+memperhatikan dan menikmati beberapa
+aktivitas atau konten. Sedangkan menurut
+Slameto (2010: 180) “minat adalah suatu
+rasa lebih suka dan rasa ketertarikan pada
+suatu hal atau aktivitas, tanpa ada yang
+menyuruh”.
+Belajar menurut Slameto (2010:2)
+belajar ialah suatu proses usaha yang
+lakukan seseorang untuk memperoleh suatu
+perubahan tingkah laku yang baru secara
+keseluruhan, sebagai hasil pengalaman
+yang diperoleh sendiri dalam interaksi
+dengan lingkungannya. Menurut Whittaker
+(dalam Djamarah, 2002:12) merumuskan
+bahwa “belajar sebagai proses dimana
+tingkah laku ditimbulkan atau diubah melalui
+latihan atau pengalaman”. Demikian pula
+menurut Djamarah (2002: 13) belajar adalah
+“serangkaian kegiatan jiwa raga untuk
+memperoleh suatu perubahan tingkah laku
+
+49
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+sebagai hasil dari pengalaman individu
+dalam interaksi dengan lingkungannya yang
+menyangkut
+kognitif,
+afektif
+dan
+psikomotor”.
+Berdasarkan definisi-definisi di atas
+dapat dipahami bahwa minat belajar
+merupakan
+suatu
+perasaan
+senang
+melakukan suatu proses perubahan tingkah
+laku yang ditampilkan oleh seorang siswa
+dalam bentuk perhatian yang terus menerus
+dan juga perasaan senang. Dengan kata lain
+minat belajar itu adalah perhatian, rasa suka,
+ketertarikan seseorang (siswa) terhadap
+belajar
+yang
+ditunjukkan
+melalui
+keantusiasan, partisipasi dan keaktifan
+dalam belajar.
+Antara materi, guru, strategi, media
+dan siswa menjadi rangkaian mutual yang
+saling mempengaruhi sesuai kedudukan
+masing-masing
+dalam
+pembelajaran.
+Pembelajaran yang optimal harus didukung
+masing-masing
+komponen
+dalam
+pembelajaran itu sendiri. Agustiningsih
+(2015:180) mengatakan kehadiran media
+dalam pembelajaran juga dikatakan dapat
+membantu peningkatan pemahaman siswa,
+penyajian informasi lebih menarik dan
+terpecaya, memudahkan penafsiran data,
+dan memadatkan informasi. Jadi dalam hal
+ini di katakan bahwa fungsi media teknologi
+adalah sebagai sarana bantu dalam proses
+pentransferan ilmu pengetahuan ataupun
+informasi dalam pembelajaran. Media
+pembelajaran yang cocok dikembangkan
+untuk siswa saat ini E-komik. E-komik yang
+dimaksud adalah media visual yang dikemas
+dalam bentuk audiovisual yang di
+operasikan atau digunakan di. E-komik
+berasal dari kata komik yang merupakan
+suatu bentuk seni yang menggunakan
+gambar-gambar tidak bergerak disusun
+sebagian rupa, hingga membentuk jalannya
+cerita.
+Jadi,
+tujuan
+dari
+penelitian
+pengembangan ini adalah (1) Untuk
+mendiskripsikan
+rancang
+bangun
+pengembangan media e-komik dengan
+
+model ADDIE untuk meningkatkan minat
+belajar siswa tentang perjuangan persiapan
+kemerdekaan indonesia di kelas V SD
+Negeri 5 Kampung Baru. (2) Untuk
+mendiskripsikan
+hasil
+validasi
+pengembangan media e-komik dengan
+model ADDIE untuk meningkatkan minat
+belajar siswa tentang perjuangan persiapan
+kemerdekaan indonesia di kelas V SD
+Negeri 5 Kampung Baru. (3) Untuk
+mengetahui efektifitas Media media e-komik
+dengan model ADDIE untuk meningkatkan
+minat belajar siswa tentang perjuangan
+persiapan kemerdekaan indonesia di kelas V
+SD Negeri 5 Kampung Baru.
+METODE
+Penelitian ini dilaksanakan pada
+kelas V semester Genap di SD N 5 Kampung
+Baru. Subjek dalam penelitian ini adalah
+seluruh siswa kelas V yang berjumlah 23
+orang siswa.
+Model pengembangan yang di
+gunakan dalam pengembangan produk ini
+adalah Model ADDIE. Adapun tahapan dari
+model ini menurut Lynch & Roecker (dalam
+Mahadewi & Sukmana, 2015;83-84) yaitu:
+(1) Analisis (Analysis), (2) Desain (Design),
+(3) Pengembangan (Development), (4)
+Penerapan ( Implementation), (5) Evaluasi
+(Evaluation). Pemilihan model ADDIE
+dikarenakan model ADDIE sudah dipahami
+oleh pengembang, selain itu model ADDIE
+tidak terlalu kompleks.
+Pada tahap analisis (Analysis)
+disimpulkan kurangnya media pembelajaran
+yang di gunakan guru dalam menyampaikan
+materi dan banyaknya materi yang harus
+dipahami
+dan
+diingat
+oleh
+siswa
+menyebabkan kurangnya minat dalam
+mengikuti
+pembelajaran
+di
+kelas.
+Berdasarkan kesimpulan dari analisis diatas,
+maka perlu dikembangkan media e-komik
+pada materi persiapan kemerdekaan
+Indonesia guna meningkatkan minat belajar
+siswa.
+
+50
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+Pada tahap perancangan (Design)
+telah
+dikembangkan
+storyboard
+berdasarkan buku ajar siswa itu pada tahap
+ini juga ditentukan software yang akan
+digunakan saat pengembangan.
+Selanjutnya ada pengembangan
+(Development) yang merupakan proses
+mewujudkan Storyboard menjadi kenyataan
+menggunakan
+software
+yang
+telah
+ditentukan pada tahap desain. Saat melalui
+tiap tahap ada evaluasi dan revisi yang
+dilakukan demi perbaikan produk yang
+dihasilkan.
+Tahap implementasi ini dilakukan
+penerapan di SD Negeri 5 Kampung Baru
+dengan tujuan agar dapat memberikan
+pengaruh yang signifikan atau tidak
+terhadap minat belajar siswa. Sebelum
+melakukan implementasi di kelas, terlebih
+dahulu dilakukan uji ahli guna mengetahui
+respon ahli. Tahap ini bertujuan untuk
+mengetahui respon ahli media pembelajaran
+dan siswa dari segi kemenarikan dan
+kelayakannya. Hasil implementasi berupa
+validasi yang dilakukan oleh ahli media
+pembelajaran untuk uji coba produk meliputi
+(a) uji perorangan yang melibatkan 3 (tiga)
+orang siswa, (b) uji coba kelompok kecil
+mengikutsertakan 12 (dua belas) orang
+siswa , (c) Sedangkan uji coba lapangan
+melibatkan 23 (dua puluh tiga).
+Adapun hasil evaluasi formatif yang
+akan di analisis berupa penilaian dari
+validasi ahli, uji coba perorangan, kelompok
+kecil, dan lapangan, sehingga didapatkan
+perbaikan produk. Sedangkan hasil evaluasi
+sumatif
+dilakukan
+guna
+mengetahui
+efektivitas produk yang dikembangkan
+dalam meningkatkan minat belajar siswa
+dengan melakukan tahap uji efektivitas.
+Data yang dikumpulkan melalui
+pelakasanaan
+evaluasi
+formatif
+dikelompokkan menjadi tiga bagian, yaitu:
+(1) data hasil review ahli desain
+pembelajaran, data hasil review ahli media
+pembelajaran, (2) data dari evaluasi tahap
+kedua berupa data hasil review uji coba
+
+perorangan, data hasil review uji coba
+kelompok kecil, hasil review uji coba
+lapangan dan (3) data dari hasil uji
+efektivitas media e-komik perjuangan
+persiapan kemerdekaan Indonesia.
+Produk media pembelajaran berupa
+media e-komik perjuangan persiapan
+kemerdekaan Indonesia sebagai hasil dari
+penelitian pengembangan ini diuji validitas
+dan
+keefektifannya.
+Validitas
+media
+pembelajaran diketahui melalui analisis
+kegiatan uji coba yang dilaksanakan melalui
+beberapa tahap, yakni: (a) review oleh ahli
+desain pembelajaran, dan ahli media
+pembelajaran, (b) uji coba perorangan, (c) uji
+coba kelompok kecil, dan (d) uji coba
+lapangan. Tingkat keefektifan media
+pembelajaran diketahui melalui penyebaran
+angket siswa pada saat uji lapangan. Hasil
+angket yang diperoleh akan dianalisis
+menggunakan rubrik yang sudah dirancang.
+Metode yang digunakan dalam
+penelitian ini yaitu metode kuesioner.
+Menurut
+Agung
+(2014:99)
+“metode
+kuesioner adalah cara memperoleh atau
+mengumpulkan data dengan mengirimkan
+suatu daftar pertanyaan/ pernyataanpernyataan
+kepada
+responden/subjek
+penelitian”.
+Tapi
+pada
+tahap
+ini
+angket/kuesioner akan digunakan untuk
+mengumpulkan data hasil review dari ahli
+desain
+pembelajaran,
+ahli
+media
+pembelajaran, siswa saat uji coba
+perorangan, siswa saat uji coba kelompok
+kecil dan siswa saat uji lapangan.
+Penelitian
+pengembangan
+ini
+menggunakan tiga teknik analisis data, yaitu
+teknik analisis deskriptif kualitatif, analisis
+deskriptif kuantitatif dan analisis statistik
+inferensial. Menurut Agung (2014:250)
+Teknik analisis deskriptif kuantitatif ialah
+suatu cara pengolahan data yang dilakukan
+dengan jalan menyusun secara sistematis
+dalam bentuk angka-angka dan atau
+persentase, mengenai suatu objek yang
+diteliti. sehingga diperoleh kesimpulan
+umun. Teknik analisis ini digunakan untuk
+
+51
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+mengolah data yang diperoleh melalui
+angket dalam bentuk deskriptif persentase.
+Rumus yang digunakan untuk menghitung
+presentase dari masing-masing subjek
+adalah :
+Persentase=
+
+∑(𝐽𝑎𝑤𝑎𝑏𝑎𝑛 𝑥 𝑏𝑜𝑏𝑜𝑡 𝑡𝑖𝑎𝑝 𝑝𝑖𝑙𝑖ℎ𝑎𝑛)
+𝑛 𝑥 𝑏𝑜𝑏𝑜𝑡 𝑡𝑒𝑟𝑡𝑖𝑛𝑔𝑔𝑖
+
+Selanjutnya,
+untuk
+menghitung
+persentase keseluruhan subjek digunakan
+rumus:
+𝐹
+Persentase = 𝑁
+Keterangan:
+F = jumlah persentase keseluruhan subjek
+N = banyak subjek
+
+𝑥 100%
+
+Keterangan:
+Σ : Jumlah
+n : jumlah seluruh item angket
+
+Untuk dapat memberikan makna dan
+pengambilan
+keputusan
+digunakan
+keterangan sebagai berikut. (tabel 0.1)
+
+Tabel 0.1 Konversi Tingkat Pencapaian dengan Skala 5
+Tingkat pencapaian
+Kualifikasi
+Keterangan
+90 – 100
+Sangat baik
+Tidak perlu direvisi
+75 – 89
+Baik
+Tidak perlu direvisi
+65 – 74
+Cukup
+Direvisi
+55 – 64
+Kurang
+Direvisi
+0 – 54
+Sangat kurang
+Direvisi
+Sumber :Tegeh dan Kirna (dalam Agung, 2014:251)
+Koyan (2012:4) menyatakan analisis
+statistik inferensial adalah statistik yang
+digunakan untuk. menganalisis data sampel
+dan hasilnya akan digeneralisasikan
+diinferensikan kepada populasi dimana
+sampel itu diambil. Sementara menurut
+Agung (2014:68) menyatakan "metode
+analisis statistik inferensial ialah suatu cara
+pengolahan data yang dilakukan dengan
+jalan menerapkan rumus- rumus statistik
+inferensial untuk menguji suatu hipotesis
+penelitian yang diajukan peneliti, dan
+kesimpulan ditarik berdasarkan hasil
+pengujian terhadap hipotesis". Analisis
+statistik inferensial ini digunakan untuk
+mengetahui tingkat efektivitas produk
+terhadap meningkatkan minat belajar pada
+sebelum dan sesudah menggunakan Ekomik.
+Teknik analisis yang digunakan
+untuk pengujian hipotesis adalah teknik
+analisis uji-t berkorelasi atau dependen.
+Dasar penggunaan teknik uji-t berkorelasi
+ini adalah menggunakan dua perlakuan
+yang berbeda terhadap satu sampel. Pada
+penelitian ini akan menguji perbedaan minat
+belajar sebelum dan sesudah menggunakan
+E-komik. Pengujian hipotesis dilakukan
+
+dengan analisis uji-t berkorelasi. Analisis ujit
+berkorelasi
+memerlukan
+beberapa
+persyaratan antara lain melakukan uji
+normalitas sebaran dan uji homogenitas
+varian.
+Uji normalitas dilakukan untuk
+mengetahui apakah sebaran skor pada
+setiap variabel berdistribusi normal atau
+tidak, untuk itu dapat digunakan Uji Liliefors.
+Koyan (2012 : 108) menyatakan, Tentukan
+nilai L0 = |F(z) – S(z)|, hitung selisihnya,
+kemudian bandingkan dengan nilai Lt dari
+tabel Liliefors. Jika L0< Lt maka H0 diterima,
+sehingga dapat disimpulkan bahwa sampel
+berasal dari populasi yang berdistribusi
+normal.
+Uji homogenitas ini dilakukan untuk
+mencari tingkat kehomogenan secara dua
+pihak yang diambil dari kelompok-kelompok
+terpisah dari satu populasi yaitu kelompok
+kontrol dan kelompok eksperimen. Untuk
+menguji homogenitas varians untuk kedua
+kelompok digunakan uji Fisher (F), sebagai
+berikut:
+𝑉𝑎𝑟𝑖𝑎𝑛 𝑡𝑒𝑟𝑏𝑒𝑠𝑎𝑟
+𝐹=
+𝑉𝑎𝑟𝑖𝑎𝑛 𝑡𝑒𝑟𝑘𝑒𝑐𝑖𝑙
+
+52
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+Kriteria pengujian H0 diterima jika Fhitung
+< Ftabel yang berarti sampel homogen. Uji
+dilakukan pada taraf signifikan 5% dengan
+derajat kebebasan untuk pembilang n1 – 1
+dan derajat kebebasan untuk penyebut n2 –
+1.
+Teknik analisis yang digunakan untuk
+pengujian hipotesis adalah teknik analisis
+uji-t berkorelasi atau dependen. Dasar
+penggunaan teknik uji-t berkorelasi ini
+adalah menggunakan dua perlakuan yang
+berbeda terhadap satu sampel. Pada
+penelitian ini akan menguji perbedaan minat
+belajar sebelum dan sesudah menggunakan
+produk multimedia pembelajaran interaktif
+terhadap satu kelompok. Rumus untuk uji-t
+berkorelasi adalah sebagai berikut.
+
+X2
+
+No
+1
+2
+3
+4
+5
+
+rata-rata sampel 1
+menggunakan media)
+
+=rata-rata
+
+sampel 2
+menggunakan media)
+
+= simpangan baku sampel 2 (sesudah
+
+s1
+
+2
+
+s2
+R
+
+= varians sampel 1
+2
+
+= varians sampel 2
+= korelasi antara dua sampel
+
+Hasil uji coba dibandingkan ttabel
+dengan taraf signifikasn 0,05 (5%) untuk
+mengetahui adanya efektivitas pada produk
+media e-komik dengan model ADDIE untuk
+meningkatkan minat belajar siswa tentang
+perjuangan
+persiapan
+kemerdekaan
+Indonesia.
+HASIL DAN PEMBAHASAN
+Hasil dan pembahasan dari penelitian
+pengembangan ini adalah :
+1. Hasil
+Pada validitas pengembangan media,
+dipapakarkan 5 hal pokok yang meliputi
+validitas media E-komik menurut (1) ahli
+desain pembelajaran, (2) ahli media
+pembelajaran, (3) uji coba perorangan, (4)
+uji coba kelompok kecil, (5) uji coba
+lapangan. Ke-lima hal pokok tersebut
+disajikan sesuai dengan data yang diperoleh
+sebagai berikut. (tabel 0.2)
+
+Keterangan:
+
+=
+
+S2
+
+menggunakan media)
+
+𝑠 2 𝑠 2
+𝑠
+𝑠
+√ 𝑛1 + 𝑛2 − 2𝑟 ( 1 ) ( 2 )
+1
+2
+√𝑛1 √𝑛2
+
+X1
+
+= simpangan baku sampel 1 (sebelum
+menggunakan media)
+
+𝑋̄1 − 𝑋̄2
+
+𝑡=
+
+S1
+
+(sebelum
+(sesudah
+
+Tabel 0.2 Hasil Validasi dan Uji Coba
+Subjek Uji Coba
+Hasil Validitas (%)
+Kualifikasi persentase
+Uji Ahli Desain Pembelajaran
+95,8%
+Tidak perlu direvisi
+Uji Ahli Media Pembelajaran
+93,7%
+Tidak perlu direvisi
+Uji Coba Perorangan
+95%
+Tidak perlu direvisi
+Uji Coba Kelompok Kecil
+93,1%
+Tidak perlu direvisi
+Uji Coba Lapangan
+91,3%
+Tidak perlu direvisi
+
+Uji
+normalitas
+data
+dilakukan
+memperoleh data hasil uji normalitas pretest
+tersebut diperoleh L0= 0.1366 < Lt= 0.1798
+maka dapat disimpulkan bahwa sampel
+berasal dari populasi yang berdistribusi
+normal.
+Sedangkan hasil dari uji normalitas
+posttest siswa tersebut diperoleh L0= 0.1403
+< Lt= 0.1798 jadi dapat disimpulkan bahwa
+
+sampel berasal dari populasi yang
+berdistribusi normal.
+Uji homogenitas diperoleh hasil
+pengujian Fhitung yaitu 1,07 sedangkan
+untuk Ftabel yaitu 2,05 dengan taraf
+signifikasi 5%. Jadi dapat disimpulkan
+bahwa Fhitung < Ftabel sehingga kedua data
+tersebut memiliki persebaran data yang
+homogen.
+
+53
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+Pengujian hipotesis dilakukan dengan
+analisis uji-t sampel berkorelasi Dari hasil ujit yang sudah diperoleh thitung yaitu 51,49
+dan ttabel yaitu 2,45 untuk derajat
+kebebasan (db) yaitu 44 dari taraf signifikan
+5%. Hal ini berarti thitung > ttabel sehingga H0
+ditolak dan H1 diterima.
+
+menurunkan minat siswa dalam mengikuti
+pembelajaran.
+Tahap kedua adalah desain. Pada
+tahap ini ditentukan kejadian yang akan dia
+angkat dalam e-komik ini akan ditentukan
+berdasarkan buku ajar yang digunakan oleh
+guru dalam menyampaikan materi tentang
+persiapan
+kemerdekaan
+Indonesia.
+Pemilihan karakter dalam e-komik ini juga
+bersumber pada buku ajar yang di gunakan
+oleh guru di kelas dalam menyampaikan
+materi. Penggambaran karakter dan tempat
+peristiwa terjadi menggunakan buku ajar
+guru sebagai sumber primer. Selain itu
+peneliti juga mencari sumber lain guna
+mendukung gambaran karakter pada buku
+ajar agar materi yang nanti disampaikan
+dalam e-komik sesuai dan tidak melenceng
+dari kejadian sebenarnya. Sumber gambar
+yang digunakan sebagai dalam tahap ini
+diambil dari film “Battle of Surabaya” karya
+rumah produksi MSV Pictures dan STMIK
+Amikom. Selain. Software atau aplikasi yang
+akan di gunakan, selama pengembangan
+adalah Adobe Photoshop sebagai aplikasi
+yang akan digunakan untuk pengolah
+gambar dan Comic Life 3 sebagai aplikasi
+untuk menyusun gambar dalam bentuk
+komik.. Sedangkan untuk mengubah
+kedalam bentuk program siap pakai,
+software yang digunakan adalah PageFlip
+3D Profesional. PageFlip 3D Profesional
+adalah sebuah program yang dapat
+mengubah file berbentuk img dan pdf
+kedalam bentuk flipbook dengan dasar
+HTML 5 yang biasa digunakan untuk
+membuat buku elektronik.
+Tahap ketiga adalah pengembangan.
+Tahapan yang dilalui dalam pengembangan
+produk adalah sebagai berikut : (1) Proses
+pertama adalah mewujudkan cerita yang
+sudah disusun dan dirangkum dari berbagai
+sumber kedalam bentuk gambar. ( 2) Tahap
+selanjutnya adalah mengubah layout komik
+yang telah diubah dalam bentuk pdf kedalam
+bentuk program siap pakai dan juga
+menambahkan sound effect. (3) Pada tahap
+
+2. Pembahasan
+Pengembangan
+E-komik
+Model
+ADDIE Tentang Persiapan Kemerdekaan
+Indonesia
+ini
+dilakukan
+dengan
+menggunakan metode ADDIE yang meliputi
+tahap analisis kebutuhan, tahap desain,
+tahap pengembangan, tahap implementasi
+dan evaluasi.
+Rancang bangun pengembangan
+Media E-komik Persiapan Kemerdekaan
+Indoneisa disesuaikan dengan model yang
+digunakan dalam mengembangkan media
+ini yaitu model ADDIE dengan tahap-tahap
+pengembangan produk terdiri dari 5 tahap .
+Penelitian
+tahap
+pertama
+ini
+merupakan langkah analisis Penelitian
+berangkat dari kegiatan melakukan analisis
+karakteristik peserta didik, dan melakukan
+analisis konten yang akan dibuatkan ekomik. Analisis karakteristik siswa dari
+penelitian ini adalah pada saat proses
+pembelajaran
+berlangsung
+masih
+di
+dominasi oleh kegiatan yang berpusat pada
+guru melalui metode ceramah. Siswa kurang
+aktif
+dalam
+berkomunikasi
+terkait
+pembelajaran dan pembelajaran siswa
+hanya terpacu pada Buku Siswa dan Buku
+Guru.
+Analisis konten ditemukan bahwa
+siswa masih sulit menguasai materi tentang
+persiapan kemerdekaan Indonesia di
+karenakan pada materi tersebut siswa di
+tuntut untuk banyak menghafal mulai dari
+tangga kejadian yang terkait periapan
+kemerdekaan Indonesia, siapa saja tokoh
+yang terlibat, tempat terjadinya peristiwaperistiwa seputar kemerdekaan Indonesia.
+Dikarenakan banyak hal yang harus diingat
+dan di pahami oleh siswa tentu saja
+
+54
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+ini terus dilakukan dilakukan evaluasi
+formatif untuk meninjau perkembangan
+produk agar sesuai dengan tujuan
+pengembangan produk.
+Tahap keempat adalah implementasi.
+Sebelum melakukan implementasi di kelas,
+terlebih dahulu dilakukan uji ahli guna
+mengetahui respon ahli. Tahap ini bertujuan
+untuk mengetahui respon ahli media
+pembelajaran dan siswa dari segi
+kemenarikan dan kelayakannya. Hasil
+implementasi
+berupa
+validasi
+yang
+dilakukan oleh ahli media pembelajaran
+untuk uji coba produk meliputi (a) uji
+perorangan yang melibatkan 3 (tiga) orang
+siswa kelas V, Ketiga siswa ini terdiri dari
+satu orang siswa yang memiliki minat belajar
+tinggi, satu orang siswa yang memiliki minat
+belajar sedang, dan satu orang siswa yang
+memiliki minat belajar rendah. (b) uji coba
+kelompok kecil mengikutsertakan 12 (dua
+belas) orang siswa kelas V, empat orang
+siswa yang memiliki minat belajar sedang,
+dan empat orang siswa yang memiliki minat
+belajar rendah. Sedangkan uji coba
+lapangan melibatkan 23 (dua puluh tiga)
+orang kelas V.
+Tahap evaluasi, pada tahap ini
+dilakukan analisis pada hasil evaluasi
+formatif dan evaluasi sumatif yang terkumpul
+dari implementasi guna mengevaluasi
+pengembangan produk dan efektivitas
+produk dalam meningkatkan minat belajar
+siswa. Adapun hasil evaluasi formatif yang
+akan di analisis berupa penilaian darivalidasi
+ahli, uji coba perorangan, kelompok kecil,
+dan
+lapangan,
+sehingga
+didapatkan
+perbaikan produk. Sedangkan hasil evaluasi
+sumatif
+dilakukan
+guna
+mengetahui
+efektivitas produk yang dikembangkan
+dalam meningkatkan minat belajar siswa
+dengan melakukan tahap uji efektivitas.
+Setelah tahap pengembangan media
+selesai dikerjakan, langkah berikutnya
+melakukan validitas terhadap media yang
+dikembangkan. Validitas dilakukan dengan
+melakukan review dari ahli desain
+
+pembelajaran mendapatkan presentase
+95,8
+%,
+ahli
+media
+pembelajaran
+mendapatkan presentase 93,7 %, uji
+perorangan mendapatkan presentase 95 %,
+uji kelompok kecil 93,1 %, dan uji lapangan
+mendapatkan presentase 91,3 % sehingga
+tidak ada yang perlu dilakukan revisi.
+Hasil validasi yang didapat secara
+keseluruhan berada pada kategori sangat
+baik sehingga tidak perlu direvisi secara
+besar-besaran. Hal ini di dapat dicapai
+dengan selalu memperhatikan prinsipprinsip desain visual dalam pengembangan
+E-komik. Ada 8 prinsip-prinsip desain visual
+menurut Mayer dan Moreno (Sudarma,
+d.k.k., 2015:68) yaitu (1) prinsip multimedia,
+(2) prinsip kedekatan ruang, (3) prinsip
+kedekatan tempo, (4) prinsip koherensi, (5)
+prinsip modalitas, (6) prinsip redudansi, (7)
+prinsip personalisasi, dan (8) prinsip
+iteraktivitas.
+Prinsip multimedia artinya pembelajar
+akan lebih mudah belajar ketika pesan
+pembelajaran disajikan menggunakan katakata dan gambar daripada hanya gambar
+saja.
+Prinsip kedekatan ruang artinya
+pembelajar
+akan
+lebih
+mudah
+menginterpretasikan pesan ketika sajian
+teks berdekatan dengan gambar daripada
+berjauhan dengan gambar.
+Prinsip kedekatan tempo atau waktu.
+Yang dimaksudkan dengan kedekatan
+tempo adalah pembelajar akan lebih mudah
+memproses informasi ketika kata-kata (teks
+atau narasi) dan gambar (gambar diam atau
+animasi) di sajikan dalam waktu yang
+bersamaan daripada disajikan dalam waktu
+yang terpisah atau waktu yang berbeda.
+Prinsip koherensi memberikan landasan
+pengembangan media presentasi bahwa
+pembelajar dapat belajar lebih optimal ketika
+kata-kata dan gambar memiliki keselarasan
+dan pendidik harus berani membuang
+gambar yang tidak relevan.
+Prinsip modalitas artinya pembelajar
+dapat lebih mudah ketika kata dan gambar
+
+55
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+disajikan dalam pengindraan yang berbeda.
+Maksudnya pesan pembelajaran lebih baik
+disajikan dengan animasi dan narasi
+daripada narasi dan teks.
+Prinsip redudansi berasan dari kata
+redudansi yang artinya berlebihan atau
+ganda. Jadi Prinsip redudansi
+yaitu
+menghindari tipe sajian pesan secara
+berlebihan.
+Prinsip personalisasi artinya pembelajar
+dapat belajar lebih optimal ketika pesan
+(kata-kata
+lisan
+maupun
+tulisan)
+disampaikan secara komunikatif dari pada
+gaya formal.
+Prinsip interaktivitas mengasumsikan
+bahwa pembelajar dapat belajar lebih baik
+ketika ia mengendalikan sendiri apa yang
+sedang apa yang sedang dipelajari atau
+dapat diartikan pembelajar diizinkan
+mengendalikan
+multimedia
+sesuai
+kecepatan belajarnya.
+Uji normalitas data dilakukan untuk
+menyajikan bahwa sampel benar-benar
+berasal dari populasi yang berdistribusi
+normal. Uji normalitas data dilakukan
+terhadap 23 siswa kelas 5 SD Negeri 5
+Kampung Baru yang diperoleh dari dua
+tahap yaitu: (1) Pretest, hasil minat belajar
+siswa sebelum menggunakan E-komik
+Model
+ADDIE
+Tentang
+Persiapan
+Kemerdekaan Indonesia dan (2) Posttest,
+hasil minat belajar siswa sedudah
+meggunakan E-komik Model ADDIE
+Tentang
+Persiapan
+Kemerdekaan
+Indonesia.
+Uji normalitas data dilakukan
+perhitungan dengan menggunakan teknik
+Liliefors, diperoleh L0 < Lt dengan taraf
+signifikan 5%. Dengan demikian semua data
+skor hasil minat belajar siswa mata pelajaran
+Tematik berdistribusi normal.
+Uji homogenitas dilakukan di kelas 5
+sebagai sampel uji efektivitas produk. Data
+yang digunakan untuk uji homogenitas yaitu
+hasil minat belajar siswa pretest dan
+posttest. hasil pengujian Fhitung yaitu 1,07
+sedangkan untuk Ftabel yaitu 2,05 dengan
+taraf signifikasi 5%. Jadi dapat disimpulkan
+
+bahwa Fhitung < Ftabel sehingga kedua data
+tersebut memiliki persebaran data yang
+homogen.
+Berdasarkan hasil pengujian normalitas
+dan homogenitas diperoleh bahwa data
+berdistribusi
+normal
+dan
+homogen.
+Berdasarkan
+hal
+tersebut,
+langkah
+selanjutnya yaitu uji hipotesis dengan
+menggunakan uji t-test. Pengujian hipotesis
+dilakukan dengan analisis uji-t sampel
+berkorelasi. Semua pengujian hipotesis
+dilakukan pada taraf signifikansi 5%. Kriteria
+pengujian adalah apabila hasil perhitungan
+diperoleh nilai thitung > ttabel maka H0 ditolak
+dan H1 diterima.
+Dari hasil uji-t yang sudah diperoleh
+thitung yaitu 51,49 dan ttabel yaitu 2,45
+untuk derajat kebebasan (db) yaitu 44 dari
+taraf signifikan 5%. Hal ini berarti thitung >
+ttabel sehingga H0 ditolak dan H1 diterima.
+Berdasarkan kriteria pengujian, H0
+ditolak dan H1 diterima yang artinya
+Terdapat efektivitas dalam pemanfaatan Ekomik Model ADDIE Tentang Persiapan
+Kemerdekaan Indonesia pada materi
+Persiapan Kemerdekaan Indonesia kelas V
+di SD Negeri 5 Kampung Baru tahun ajaran
+2018/2019.
+Selain meningkatkan minat belajar, Ekomik persiapan kemerdekaan indonesia ini
+selain meningkatkan minat belajar, E-komik
+ini juga telah memenuhi 7 peran media
+visual dalam pembelajaran. Smaldino
+(Sudarma, d.k.k., 2015:66) menyatakan
+media visual dalam pembelajaran memiliki 7
+peran yaitu (1) menyediakan acuan yang
+kongkret bagi gagasan, (2) membuat pesan
+abstrak menjadi kongkret, (3) visual mampu
+memotivasi pembelajar, (4) visual mampu
+mengarahkan perhatian, (5) visual mampu
+mengirangi informasi, (6) visual mampu
+mengingatkan
+kembali
+pembelajaran
+sebelumnya, dan (7) visual mampu
+mengurangi usaha belajar.
+
+56
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+SIMPULAN DAN SARAN
+Hasil penelitian ini memiliki beberapa
+implikasi yang dijabarkan sebagai berikut.
+Pertama,secara data nyata terbukti bahwa
+menggunakan E-komik Model ADDIE
+Tentang Persiapan Kemerdekaan Indonesia
+berpengaruh baik terhadap hasil minat
+belajar siswa di dalam kelas.
+Kedua, rata-rata hasil minat belajar
+siswa mempelajari materi persiapan
+kemerdekaan
+indonesia
+setelah
+menggunakan E-komik Model ADDIE
+Tentang Persiapan Kemerdekaan Indonesia
+lebih tinggi dibandingkan rata-rata hasil
+minat belajar siswa sebelum menggunakan
+E-komik Model ADDIE Tentang Persiapan
+Kemerdekaan Indonesia. Berdasarkan hal
+tersebut, maka E-komik Model ADDIE
+Tentang Persiapan Kemerdekaan Indonesia
+dapat diterapkan dalam pembelajaran
+materi persiapan kemerdekaan indonesia di
+sekolah yang lain sebagai upaya untuk
+meningkatkan minat belajar siswa yang
+masih dianggap rendah.
+Ketiga, untuk pengembangan ilmu. Ekomik Model ADDIE Tentang Persiapan
+Kemerdekaan
+Indonesia
+dapat
+dikembangkan untuk materi lainnya seperti,
+bahkan untuk mata pelajaran juga dapat
+menggunakan media ini. Misalkan mata
+pelajaran Bahasa Inggris yang nantinya
+harus disesuaikan dengan materi yang akan
+disampaikan dan mempersiapkan segala
+kelengkapan dalam menggunakan E-Komik
+ini sehingga berjalan lancar sesuai dengan
+yang sebelumnya di muat pada media ini
+yaitu Materi Persiapan Kemerdekaan
+Indonesia.
+
+(implementasi), dan tahap evaluation
+(evaluasi).
+Kedua, validitas dari E-komik Persiapan
+Kemerdekaan Indonesian mendapatkan
+presentase 95,83% dengan kualifikasi
+sangat memuaskan dari Ahli Desain
+Pembelajaran. Untuk validasi Ahli Media
+Pembelajaran mendapatkan presentase
+93,75%
+dengan
+kualifikasi
+sangat
+memuaskan.
+Sedangkan
+uji
+coba
+perorangan memdapatkan presentase 95%
+dengan kualifikasi sangat memuaskan, uji
+coba
+kelompok
+kecil
+mendapatkan
+presentase 93,05% dengan kualifikasi
+sangat memuaskan, dan uji ciba lapangan
+mendapatkan persentase 91,30% dengan
+kualifikasi sangan memuaskan. Jadi EKomik Persiapan Kemerdekaan Indonesia
+telah dimyatakan valid.
+terakhir, efektifitas media didapatkan
+dengan melakukan uji-t dengan hasil yang
+menunjukkan thitung lebih besar dari ttabel
+yaitu 51,49 > 2,45 sehingga H0 ditolak dan
+H1 diterima, Hal tersebut menunjukkan
+bahwa E-komik Persiapan Kemerdekaan
+Indonesia memberikan pengaruh kepada
+siswa terhadap hasil minat belajar dalam
+mempelajari
+persiapan
+kemerdekaan
+indonesia.
+Beberapa
+saran
+yang
+dapat
+disampaikan dalam pengembangan E-komik
+Persiapan Kemerdekaan Indonesia ini
+adalah
+Siswa
+disarankan
+dapat
+memanfaatkan
+E-komik
+Persiapan
+Kemerdekaan Indonesia dengan baik dan
+benar. Selaiin itu siswa juga diharapkan
+untuk mterus meningkatkan rasa cinta
+terhadap tanah kita dan mengambil sifatsifat positif yang dapat ditiru dari para
+pahlawan kita.
+Guru disarankan untuk menggunakan
+E-komik Persiapan Kemerdekaan Indonesia
+dalam pembelajaran dan juga membantu
+membagikan kepada guru lain guna
+mengatasi permasalahan yang sama dalam
+meningkatkan minat belajar siswa.
+
+Simpulan penelitian pengembangan ini
+terdiri dari tiga hal yaitu pertama, rancang
+bangun penelitian pengembangan ini
+menggunakan model ADDIE yang terdiri dari
+5 tahapan pengembangan dimulai dari tahap
+analysis
+(analisis),
+tahap
+design
+(perancangan),
+tahap
+depelovment
+(pengembangan), tahap implementation
+
+57
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+Kepada kepala sekolah SD Negeri 5
+Kampung Baru, disarankan mengadakan
+pelatihan bagi guru-guru, baik guru muda
+maupun yang sudah berumur. pelatihan ini
+selain guru mendapatkan pengetahuan dan
+keterampilan
+yg
+sesuai
+dengan
+perkembangan siswa.
+Saran yang sampaikan kepada peneliti
+lain, agar dapat menggunakan
+hasil
+penelitian pengembangan ini sebagai
+refrensi dalam melakukan penelitian sejenis
+ataupun penelitian yang lebih kompleks
+yang meneliti minat belajar siswa ataupun Ekomik sebagai media pembelajaran.
+Kepada teknolog pembelajaran lain
+disarankan agar lebih kreatif memanfaatkan
+kemampuan dan keterampilan yang didapat
+selama perkuliahan dalam mengembangkan
+media pembelajaran yang sesuai dengan
+perkembangan jaman,. Selain itu media
+pembelajaran adalah pelengkap dari proses
+pembelajaran agar tujuan dari pembelajaran
+dapat tercapai sepenuhnya.
+
+Negeri 01 Wonolopo Tahun Ajaran
+2014/2015.
+Skripsi
+(diterbikan).
+Program Studi Pendidikan Guru
+Sekolah Dasar, Fakultas Keguruan
+dan Ilmu Pendidikan, Universitas
+Muhammadiyah Surakarta.
+Djamarah, S. B. 2002. Psikologi Belajar.
+Jakarta: Rineka Cipta
+Erwinsyah,
+A.
+2015.
+"Pemahaman
+Mengenai Teknologi Pendidikan Dan
+Teknologi
+Pembelajaran". Tadbir
+Jurnal Manajemen Pendidikan Islam,
+Vol. 3, No 1, Issn 2338-6673
+Gumelar, M. S. 2011. Comic Making.
+Jakarta: Indeks.
+Mukminan. 2012. "Teknologi Pendidikan
+Untuk
+Peningkatan
+Kualitas
+Pembelajaran" Makalah Disajikan
+Dalam Seminar Nasional Teknologi
+Pendidikan.
+Prgram
+Studi
+S2
+Teknologi Pendidikan, Universitas
+Tanjungpura ,Pontianak 9 November
+2012.
+
+DAFTAR PUSTAKA
+
+Mahadewi dan Sukmana. 2015. Text-Based
+Programing. Yogyakarta : Graha Ilmu.
+
+Agung, A. A. G. 2014. Metodologi Penelitian
+Pendidikan. Buku Ajar Metodologi
+Pendidikan. Malang: Aditya Media
+
+Sudjana dan Rivai. 2011. Media Pengajaran.
+Bandung: Sinar Baru Algesindo
+
+Agustiningsih.
+2015.
+“Pengembangan
+Desain E-Komik Tematik Berbasis
+Pada Pendidikan Lingkungan Hidup
+Dengan Aplikasi Macromedia-Flash
+Untuk Kelas Permulaan Sekolah
+Dasar”. Pancaran, Vol. 4, No. 4, hal
+177-194.
+
+Rasiman
+&
+Pramasdyahsari,
+2014.
+“Development
+of
+Mathematics
+Learning Media E- Comic Based on
+Flip Book Maker to Increase the
+Critical Thinking Skill and Character of
+Junior
+High
+School
+Students”.
+International Journal of Education and
+Research, Vol. 2 No. 11.
+
+Bintari, M. S. 2014. Pengembangan Komik
+Sebagai Sumber Belajar IPS Dengan
+Materi Konektivitas Antar Ruang Untuk
+Siswa Smp Kelas Vii. Skripsi (Tidak
+Pernah Di Terbitkan). Jurusan
+Pendidikan
+Ilmu
+Pengetahuan
+Sosial,Universitas Negeri Yogyakarta.
+
+Supriyanta, E.Y. 2015.” Pengembangan
+Media Komik Untuk Mata Pelajaran
+Ilmu Pengetahuan Sosial Tentang
+Sejarah Persiapan Kemerdekaan
+Indonesia Pada Kelas V Sd
+Muhammadiyah Mutihan Wates Kulon
+Progo”.Skripsi (tidak Pernah di
+terbitkan).
+Jurusan
+Pendidikan
+Prasekolah Dan Sekolah Dasar,
+Universitas Negeri Yogyakarta.
+
+Darmawan, R. 2015. Pengaruh Minat Belajar
+Dan Perhatian Orang Tua Terhadap
+Prestasi Belajar Siswa Kelas Tinggi Sd
+
+58
+
+Wicaksana, Agung, Jampel (2019)
+Jurnal EDUTECH Universitas Pendidikan Ganesha. Vol. 7 No. (2) pp. 48-59
+
+Slameto. 2010. Belajar dan Faktor-faktor
+yang Mempengaruhi. Jakarta: Rineka
+Cipta.
+Sudarma, d.k.k., 2015. Desain Pesan Kajian
+Analitis Desain Visual Teks dan
+Image. Yogyakarta: Graha Ilmu.
+Tegeh. I. Md. 2010. Media Pembelajaran.
+Singaraja: Universitas Pendidikan
+Genesha.
+Tegeh, I. Md., dkk. Model Penelitian
+Pengeembangan. Yogyakarta: Graha
+Ilmu.
+
+59
+
+

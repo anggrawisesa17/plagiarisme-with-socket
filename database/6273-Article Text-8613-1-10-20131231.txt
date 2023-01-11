@@ -1,0 +1,1405 @@
+Nur Suhartatik dan Rohmawati Kusumaningtias; Determinan Financing to Deposit Ratio ...
+
+DETERMINAN FINANCING TO DEPOSIT RATIO
+PERBANKAN SYARIAH DI INDONESIA (2008-2012)
+NUR SUHARTATIK
+ROHMAWATI KUSUMANINGTIAS
+Jurusan Manajemen, Fakultas Ekonomi, Universitas Negeri Surabaya,
+Kampus Ketintang Surabaya 60231
+Email: noerzsanma@yahoo.com
+Abstract: Financing to Deposit Ratio (FDR) is the ratio between the
+financing provided by bank to the third party.The purpose of this study
+was to analyze the effect of the Capital Adequacy Ratio (CAR), Third
+Party Funds (TPF), Bank Indonesia Sharia Certificate (SBIS), Non
+Performing Financing (NPF) of the Financing to Deposit Ratio (FDR).
+The method used is the purposive sampling method. With data
+analysis techniques multiple linear regression. Hypothesis testing
+using t-statistics and F-statistics.Results showed that the independent
+variables simultaneosly influence the FDR. Partially, NPF influence
+on FDR. While CAR, DPK, SBIS no effect on the FDR. So should the
+level of NPF stabil so as not to exceed the limit set by BI.
+Keywords: Financing to Deposit Ratio (FDR), Capital Adequacy
+Ratio (CAR), Third Party Funds (TPF), Bank Indonesia
+Sharia Certificate (SBIS), Non Performing Financing
+(NPF).
+PENDAHULUAN
+Perbankan memiliki peran
+sangat penting dalam perekonomian
+suatu negara. Semakin baik kondisi
+perbankan suatu negara, maka
+semakin
+baik
+pula
+kondisi
+perekonomian
+negara
+tersebut.
+Dalam kegiatan perekonomian suatu
+negara dipengaruhi oleh kinerja
+perbankan sehingga pemerintah
+mendorong tumbuhnya perbankan
+yang
+sehat.
+Seluruh
+kegiatan
+perekonomian membutuhkan jasa
+perbankan untuk pembiayaan atau
+pendanaan. Banyak peran perbankan
+dalam perekonomian salah satunya
+adalah menjadi lembaga perantara
+keuangan (financial intermediary
+institution).
+Sebagai
+lembaga
+intermediasi antara pihak yang
+kelebihan dana (surplus spending
+unit)
+dengan
+pihak
+yang
+membutuhkan dana (defisit spending
+unit) sehingga hal ini mempunyai
+posisi
+yang
+strategis
+dalam
+perekonomian nasional.
+1176
+
+Kasmir (2008) menyatakan bahwa
+bank
+dilihat
+dari
+segi
+cara
+menentukan harga terbagi menjadi
+dua kelompok bank yaitu bank
+konvensional dan bank syariah.
+Dimana bank konvensional dalam
+menentukan harga dan mencari
+keuntungan dengan menggunakan
+sistem bunga dan biaya yang telah
+ditetapkan, sedangkan pada bank
+syariah menggunakan prinsip syariah
+yaitu dengan aturan perjanjian
+berdasarkan hukum islam antara
+bank dengan pihak lain untuk
+menyimpan dana atau pembiayaan
+usaha atau perbankan lainnya.
+Perkembangan
+bank
+yang
+cukup
+signifikan
+dalam
+mengembangkan produk dan layanan
+perbankan memberikan dampak
+terhadap
+masyarakat
+dalam
+mengelola uang. Sebagian besar
+masyarakat saat ini lebih memilih
+memanfaatkan bank syariah, karena
+bank syariah menjadi perhatian bagi
+kalangan masyarakat. Dimana pada
+tahun 1998 terjadi krisis moneter
+sehingga menimbulkan dampak yang
+
+Jurnal Ilmu Manajemen | Volume 1 Nomor 4 Juli
+
+Nur Suhartatik dan Rohmawati Kusumaningtias; Determinan Financing to Deposit Ratio ...
+
+negatif bagi perekonomian negara
+Indonesia. Tak dapat dihindari sektor
+perbankan juga mengalami imbas
+dari
+krisis
+tersebut.
+Bank
+konvensional mengalami penurunan
+namun bank syariah tidak terkena
+imbasnya karena bank syariah tidak
+menganut sistem bunga sehingga
+dapat
+mempertahankan
+eksistensinya
+dalam
+menjaga
+kestabilan moneter (Satria:2006).
+Sehingga
+masyarakat
+mempertimbangkan
+keberadaan
+bank syariah sampai saat ini. Untuk
+melihat perkembangan perbankan,
+maka parameter yang digunakan
+adalah tingkat LDR (loan to deposit
+ratio) yang sering dipakai dalam
+melihat pertumbuhan perekonomian
+nasional. Sedangkan pada bank
+syariah menggunakan istilah FDR
+(financing to deposit ratio).
+Financing to Deposit
+Ratio
+(FDR)
+merupakan perbandingan
+antara pembiayaan yang diberikan
+oleh bank dengan dana pihak ketiga
+yang berhasil dikerahkan oleh bank
+(Remi,
+1999:177).
+FDR
+akan
+menunjukan tingkat kemampuan
+bank syariah dalam menyalurkan
+DPK yang dihimpun oleh bank
+syariah yang bersangkutan. Tingkat
+intermediasi bank konvensional dan
+bank syariah dapat dilihat dari
+besarnya FDR bagi bank syariah dan
+LDR bagi bank konvensional. FDR
+tertinggi bank syariah berada pada
+tahun 2012 sebesar 120,65 %. Dan
+LDR tertinggi bank konvensional juga
+dialami pada tahun 2012 sebesar
+84,51 %. Hal tersebut menjelaskan
+bahwa bank syariah lebih baik
+daripada bank konvensional dari segi
+intermediasinya.
+Besarnya FDR
+pada bank syariah mengindikasikan
+bahwa terdapat banyak faktor yang
+mempengaruhi tingginya rasio FDR
+(Financing to deposit ratio). Dalam
+penelitian
+sebelumnya
+yang
+dilakukan oleh beberapa peneliti di
+temukan hasil yang berbeda-beda.
+1177
+
+Penelitian Prihatiningsih (2011)
+memberikan hasil bahwa CAR
+berpengaruh negatif terhadap FDR
+bank syariah. Penelitian ini tidak
+sejalan dengan penelitian dari Aziz
+(2011) dan Amriani (2012) yang
+menyatakan
+bahwa
+CAR
+berpengaruh positif terhadap FDR
+bank syariah dan konvensional.
+Dalam
+penelitian
+Prihatiningsih
+(2011) menyatakan bahwa DPK
+mempunyai
+hubungan
+negatif
+terhadap
+FDR.
+Penelitian
+ini
+bertentangan dengan penelitian dari
+Aziz (2011) dan Arma (2010) dimana
+dalam penelitian mereka menyatakan
+bahwa DPK mempunyai pengaruh
+positif terhadap FDR.
+Penelitian Prihatiningsih (2011)
+menyatakan bahwa DPK mempunyai
+hubungan negatif terhadap FDR.
+Penelitian ini bertentangan dengan
+penelitian dari Aziz (2011) dan Arma
+(2010) dimana dalam penelitian
+mereka menyatakan bahwa DPK
+mempunyai pengaruh positif terhadap
+FDR.
+Penelitian Prihatiningsih (2011)
+menyatakan hasil bahwa
+SBIS
+berpengaruh berpengaruh dan tidak
+signifikan terhadap FDR. Penelitian
+Solissa (2009) yang menunjukkan
+jumlah penempatan dana pada SBIS
+berpengaruh
+berpengaruh
+dan
+signifikan
+terhadap
+penyaluran
+pembiayaan
+perbankan
+syariah.
+Namun pada penelitian Aziz (2011)
+menyatakan bahwa SBIS tidak
+berpengaruh terhadap FDR bank
+syariah.
+Penelitian Satria (2006) dan
+Aziz (2011) menemukan hasil bahwa
+NPF berpengaruh positif terhadap
+FDR bank syariah. Namun pada
+penelitian Arma (2011) menemukan
+hasil bahwa NPL berpengaruh negatif
+terhadap LDR bank konvensional.
+Hasil
+beberapa
+penelitian
+terdahulu menunjukkan masih terjadi
+perbedaan hasil penelitian (research
+gap) mengenai faktor-faktor yang
+berpengaruh terhadap FDR maka
+
+Jurnal Ilmu Manajemen | Volume 1 Nomor 4 Juli
+
+Nur Suhartatik dan Rohmawati Kusumaningtias; Determinan Financing to Deposit Ratio ...
+
+penelitian
+ini
+bertujuan
+untuk
+mengetahui pengaruh CAR, DPK,
+SBIS dan NPF terhadap FDR.
+KAJIAN PUSTAKA
+Financing to Deposit Ratio (FDR)
+Menurut Muhammad (2005:17)
+dalam
+Prihatiningsih
+(2011)
+menyatakan
+bahwa
+penyaluran
+pembiayaan adalah pendanaan yang
+dikeluarkan
+untuk
+mendukung
+investasi yang direncanakan. Dan
+menurut Remi (1999:177) FDR
+merupakan perbandingan antara
+pembiayaan
+yang diberikan oleh
+bank dengan dana pihak ketiga
+yang berhasil dikerahkan oleh bank.
+Variabel ini diwakili oleh Financing to
+deposit ratio (FDR) merupakan
+perbandingan antara pembiayaan
+yang diberikan oleh bank dengan
+dana pihak ketiga yang berhasil
+dihimpun perbankan. Maksimal FDR
+yang diperkenankan oleh Bank
+Indonesia adalah sebesar 110%.
+Sehingga dapat diperoleh rumus FDR
+sebagai berikut :
+
+Rasio ini menyatakan seberapa
+jauh kemampuan bank
+dalam
+membayar kembali penarikan dana
+yang dilakukan deposan dengan
+mengandalkan
+kredit/pembiayaan
+yang diberikan sebagai likuiditasnya.
+Capital Adaque Ratio (CAR)
+Capital Adaque Ratio (CAR)
+adalah rasio yang memperlihatkan
+seberapa jauh seluruh aktiva bank
+yang
+mengandung
+risiko
+(kredit,penyertaan,surat
+berharga,tagihan pada bank lain)
+yang ikut dibiayai dari dana modal
+sendiri bank, di samping memperoleh
+dana-dana dari sumber diluar bank,
+seperti dana masyarakat, pinjaman
+(utang) dan lain-lain.
+1178
+
+Capital Adequecy Ratio (CAR) adalah
+kebutuhan modal minimum bank
+dihitung
+berdasarkan
+aktiva
+tertimbang menurut risiko (ATMR).
+Besarnya CAR dalam suatu bank
+telah ditentukan sebesar 8 %. Angka
+8 % merupakan standart dari BIS
+(Bank For International Settlement)
+(Hasibuan 2005 : 58).
+Sedangkan Capital Adaque
+Ratio (CAR) menurut (Dendawijaya,
+2005: 121) merupakan rasio kinerja
+bank untuk mengukur kecukupan
+modal yang dimiliki bank untuk
+menunjang aktiva yang mengandung
+atau menghasilkan risiko, misalnya
+kredit yang diberikan. Rasio ini dapat
+dirumuskan sebagai berikut :
+CAR=
+CAR
+merupakan
+indikator
+terhadap kemampuan bank untuk
+menutupi
+penurunan
+aktivanya
+sebagai akibat dari kerugian kerugian bank yang disebabkan oleh
+aktiva yang berisiko.
+Dana Pihak Ke Tiga (DPK)
+Dana pihak ketiga (DPK)
+adalah keseluruhan dana yang
+dihimpun bank dari masyarakat.
+Menurut Kasmir (2002) DPK (Dana
+Pihak Ketiga) adalah dana yang
+dipercayakan
+oleh
+masyarakat
+kepada bank dalam bentuk giro,
+deposito
+berjangka,
+sertifikat
+deposito, tabungan atau yang dapat
+dipersamakan dengan itu. Dengan
+dana yang berhasil dihimpun oleh
+bank, maka bank tersebut dapat
+menyalurkan kredit lebih banyak.
+Dana-dana yang dihimpun dari
+masyarakat ternyata merupakan
+sumber dana terbesar yang paling
+diandalkan oleh bank (bisa mencapai
+80% - 90% dari seluruh dana yang
+dikelola oleh bank).
+Menurut
+Kasmir
+(2010:67)
+dana-dana
+masyarakat
+yang
+disimpan dalam bank merupakan
+
+Jurnal Ilmu Manajemen | Volume 1 Nomor 4 Juli
+
+Nur Suhartatik dan Rohmawati Kusumaningtias; Determinan Financing to Deposit Ratio ...
+
+sumber dana terbesar yang paling
+diandalkan bank yang terdiri dari 3
+jenis yaitu : bentuk giro, deposito, dan
+tabungan. Dengan rumus dana pihak
+ke tiga sebagai berikut :
+Sertifikat Bank Indonesia Syariah
+(SBIS)
+Sertifikat
+Bank
+Indonesia
+Syariah (SBIS) menurut peraturan
+Bank
+Indonesia
+No.10/11/2008
+tanggal 31 maret 2008, menjelaskan
+bahwa Sertifikat Bank Indonesia
+Syariah (SBIS) adalah surat berharga
+berdasarkan
+prinsip
+syariah
+berjangka waktu pendek dalam mata
+uang rupiah yang diterbitkan oleh
+Bank
+Indonesia.
+SBIS
+yang
+diterbitkan oleh bank Indonesia
+menggunakan akad jualah.
+Sertifikat
+Bank
+Indonesia
+Syariah (SBIS) telah diterbitkan pada
+akhir triwulan I 2008. Menurut Fatwa
+Dewan Syariah Nasional (DSN) No.
+63/DSN-MUI/XII/2007 tentang SBIS,
+SBIS adalah surat berharga dalam
+mata uang rupiah yang diterbitkan
+oleh Bank Indonesia berjangka waktu
+pendek berdasarkan prinsip syariah.
+Sertifikat Bank Indonesia Syariah
+(SBIS) merupakan kebijakan moneter
+yang bertujuan untuk mengatasi
+kesulitan kelebihan likuiditas pada
+bank yang beroperasi dengan prinsip
+syariah. Sertifikat Bank Indonesia
+Syariah
+ini
+tidak
+dapat
+diperjualbelikan
+seperti
+surat
+berharga lainnya. Atas penitipan ini
+BI memberikan bonus dimana bonus
+yang diberikan tersebut tidak boleh
+dipersyaratkan atau dengan kata lain
+bersifat sukarela sehingga tidak ada
+ratenya (Sholichah : 2012). SBIS
+dapat langsung dilihat dari laporan
+keuangan perbankan syariah yang
+telah dipublikasi oleh Bank Indonesia.
+
+1179
+
+Non Performing Financing (NPF)
+Non
+Perfoming
+Financing
+(NPF) merupakan istilah yang sama
+dengan NPL (Non Performing Loan)
+pada bank konvensional. Dimana
+dalam
+penelitian Arma (2010)
+menyatakan bahwa NPL merupakan
+rasio yang dipergunakan untuk
+mengukur kemampuan bank dalam
+meng-cover
+risiko
+kegagalan
+pengembalian kredit oleh debitur
+Non
+Performing
+Financing
+(NPF)
+adalah
+rasio
+antara
+pembiayaan
+yang
+bermasalah
+dengan total pembiayaan yang
+disalurkan
+oleh
+bank
+syariah.
+Berdasarkan kriteria yang sudah
+ditetapkan oleh Bank Indonesia
+kategori yang termasuk dalam NPF
+adalah pembiayaan kurang lancar,
+diragukan dan macet. Rasio ini dapat
+dirumuskan sesuai SE No.6/23/DPNP
+Tanggal 31 Mei 2004 sebagai berikut
+:
+
+Kredit bermasalah didefinisikan
+sebagai risiko yang dikaitkan dengan
+kemungkinan
+kegagalan
+klien
+membayar kewajibannya atau risiko
+dimana debitur tidak dapat melunasi
+hutangnya. Kriteria rasio NPF analog
+dengan NPL dibawah 5% (Granita :
+2011).
+Hubungan CAR, DPK, SBIS, NPF
+dan FDR
+Capital Adaque Ratio (CAR)
+menurut
+(Dendawijaya,2005:121)
+merupakan rasio kinerja bank untuk
+mengukur kecukupan modal yang
+dimiliki bank untuk menunjang aktiva
+yang
+mengandung
+atau
+menghasilkan risiko, misalnya kredit
+yang diberikan. Jumlah modal yang
+memadai
+memegang
+peranan
+penting dalam memberikan rasa
+aman kepada calon atau para penitip
+uang. Sehingga akan mempengaruhi
+besaran
+dana
+yang
+dapat
+
+Jurnal Ilmu Manajemen | Volume 1 Nomor 4 Juli
+
+Nur Suhartatik dan Rohmawati Kusumaningtias; Determinan Financing to Deposit Ratio ...
+
+dikumpulkan
+oleh
+bank
+untuk
+disalurkan.
+Sehingga
+CAR
+mempunyai
+hubungan
+positif
+terhadap FDR.
+Dana pihak ketiga (DPK)
+adalah dana yang dipercayakan oleh
+masyarakat kepada bank dalam
+bentuk giro, deposito berjangka,
+sertifikat deposito, tabungan atau
+yang dapat dipersamakan dengan itu.
+Dengan dana yang berhasil dihimpun
+oleh bank, maka bank tersebut dapat
+menyalurkan kredit lebih banyak.
+Sehingga dapat dijelaskan bahwa
+semakin besar DPK maka semakin
+besar pula pembiayaan (FDR) yang
+disalurkan
+kepada
+masyarakat.
+Sehingga DPK mempunyai hubungan
+positif terhadap FDR.
+Sertifikat
+Bank
+Indonesia
+Syariah (SBIS) merupakan salah satu
+instrumen likuiditas yang dimiliki
+perbankan syariah di Indonesia.
+Namun dengan adanya SBIS akan
+mengurangi citra perbankan syariah
+dalam pembiayaan sektor riil. Dimana
+pada saat tertentu, SBIS menarik
+bagi perbankan syariah untuk
+menanamkan
+dananya
+pada
+instrumen ini dibandingkan dengan
+disalurkan
+melalui
+pembiayaan.
+Sehingga pada saat bonus SBIS naik
+bank akan mengurangi jumlah
+pembiayaannya (Hilmi:2006 dalam
+Sholichah:2012). Sedangkan pada
+saat bonus SBIS turun maka bank
+syariah tidak membeli SBIS tetapi
+tetap menyalurkan dananya ke
+masyarakat karena tingkat hasil yang
+diharapkan lebih besar. Sehingga
+dapat disimpulkan bahwa SBIS
+mempunyai
+hubungan
+negatif
+terhadap FDR bank syariah.
+Non
+Performing
+Financing
+(NPF) merupakan indikator yang
+digunakan
+untuk
+menunjukan
+kerugian akibat risiko pembiayaan.
+Tingkat Non Performing Financing
+(NPF) yang tinggi mengharuskan
+bank
+membentuk
+cadangan
+penghapusan yang lebih besar. Hal
+ini akan membuat bank menurunkan
+1180
+
+jumlah kredit yang disalurkannya.
+Sehingga Non Performing Financing
+(NPF) mempunyai hubungan negatif
+terhadap Financing To Deposit Ratio
+(FDR).
+Dengan
+demikian,
+dapat
+dirumuskan
+hipotesis
+penelitian
+sebagai berikut :
+H1 : CAR, DPK, SBIS, dan NPF
+berpengaruh secara simultan
+terhadap FDR
+perbankan
+syariah di Indonesia.
+H2 : CAR, DPK, SBIS, dan NPF
+berpengaruh
+secara
+parsial
+terhadap
+FDR
+perbankan
+syariah di Indonesia.
+METODE
+Jenis
+penelitian
+dalam
+penelitian ini adalah jenis penelitian
+konsklusif kausal. Sumber data yang
+digunakan dalam penelitian ini adalah
+data sekunder.
+Pada penelitian ini populasi
+yang digunakan adalah keseluruhan
+laporan keuangan triwulan bank
+umum syariah tahun 2008-2012.
+Teknik pengambilan sampel yang
+digunakan dalam penelitian ini adalah
+purpossive sampling artinya teknik
+pengambilan
+sampel
+dengan
+pertimbangan tertentu. Sehingga
+diperoleh 3 bank umum syariah yang
+memenuhi kriteria yaitu Bank Syariah
+Mandiri, Bank Muamalat, Bank Mega
+Syariah.
+Variabel dalam penelitian ini
+dapat dibedakan menjadi dua yaitu
+variabel dependen dan variabel
+independen.
+Variabel
+dependen
+dalam penelitian ini adalah FDR.
+Sedangkan variabel independen
+dalam penelitian ini adalah CAR,
+DPK, SBIS, dan NPF.
+Financing to Deposit Ratio
+(FDR)
+merupakan
+rasio
+yang
+menyatakan
+seberapa
+jauh
+kemampuan bank dalam membayar
+kembali
+penarikan
+dana
+yang
+dilakukan
+deposan
+dengan
+mengandalkan pembiayaan yang
+
+Jurnal Ilmu Manajemen | Volume 1 Nomor 4 Juli
+
+Nur Suhartatik dan Rohmawati Kusumaningtias; Determinan Financing to Deposit Ratio ...
+
+diberikan
+sebagai likuiditasnya.
+Perhitungan
+FDR
+dapat
+menggunakan rumus yang sesuai
+dengan Remi (1999:177) yaitu
+menggunakan perbandingan antara
+pembiayaan
+yang diberikan oleh
+bank dengan dana pihak ketiga
+yang berhasil dikerahkan oleh bank.
+Capital Adeque Ratio (CAR)
+adalah rasio yang memperlihatkan
+seberapa jauh seluruh aktiva bank
+yang
+mengandung
+risiko.
+Perhitungan
+CAR
+dapat
+menggunakan rumus yang sesuai
+dengan rumus Dendawijaya, 2005:
+121 dengan membandingkan jumlah
+modal yang dimiliki oleh bank dengan
+aktiva tertimbang menurut risiko.
+Dimana aktiva tertimbang menurut
+riisiko dapat diketahui dengan
+melakukan
+penjumlahan
+ATMR
+aktiva yang tercantum dalam neraca
+dan aktiva yang bersifat administratif.
+Dana pihak ketiga (DPK)
+adalah keseluruhan dana yang
+dihimpun bank dari masyarakat.
+Dana-dana yang dihimpun dari
+masyarakat ternyata merupakan
+sumber dana terbesar yang paling
+diandalkan oleh bank. Perhitungan
+CAR sesuai dengan rumus yang
+dikemukakan oleh Kasmir, 2010: 67
+dengan menjumlah sumber dana
+bank yang terdiri dari giro, deposito,
+dan tabungan.
+Sertifikat
+Bank
+Indonesia
+Syariah (SBIS) sesuai dengan fatwa
+dewan syariah nasional adalah surat
+berharga dalam mata uang rupiah
+yang diterbitkan oleh Bank Indonesia
+berjangka waktu pendek berdasarkan
+prinsip syariah. Besarnya CAR dapat
+diperoleh dengan melihat seberapa
+besar dana yang dikeluarkan bank
+syariah pada instrumen SBIS yang
+terletak pada
+laporan keuangan
+perbankan
+syariah
+yang
+dipublikasikan oleh bank Indonesia.
+Non
+Performing
+Financing
+(NPF) indikator yang menunjukkan
+kerugian akibat risiko kredit. Menurut
+Arma (2011) NPL merupakan rasio
+1181
+
+yang dipergunakan untuk mengukur
+kemampuan bank dalam meng-cover
+risiko kegagalan pengembalian kredit
+oleh
+debitur.
+Sesuai
+SE
+No.6/23/DPNP Tanggal 31 Mei 2004
+dapat diketahui besarnya NPF
+dengan
+membandingkan
+jumlah
+pembiayaan bermasalah dengan total
+pembiayaan.
+Teknik pengumpulan data yang
+digunakan pada penelitian ini adalah
+dengan metode dokumentasi. Data
+yang dikumpulkan adalah Capital
+Adequacy Ratio (CAR), Dana pihak
+ketiga
+(DPK),
+Sertifikat
+Bank
+Indonesia Syariah (SBIS), Non
+Performing Financing (NPF) dan
+Financing To Deposit Ratio (FDR)
+yang diperoleh dari bank Indonesia
+yaitu laporan keuangan triwulan bank
+umum syariah tahun 2008-2012.
+Teknik analisis data yang
+digunakan dalam penelitian ini adalah
+dengan
+teknik
+analisis
+linier
+berganda.
+Sedangkan
+untuk
+mengolah data digunakan bantuan
+program SPSS 20 (Statistic Product
+And Servis Solution). Namun terlebih
+dahulu melakukan perhitungan pada
+masing-masing variabel. Kemudian
+dilakukan uji asumsi klasik meliputi uji
+normalitas,
+multikolinieritas,
+heteroskedastisitas dan autokorelasi.
+Setelah memenuhi uji asumsi klasik
+dilakukan uji signifikansi simultan, uji
+signifikansi
+parsial,
+persamaan
+regresi dan uji koefisien determinasi
+(R2).
+HASIL
+Penelitian ini menggunakan
+analisis regresi berganda, kemudian
+dilakukan uji asumsi klasik. Uji
+normalitas
+menggunakan
+uji
+Kolmogorov-Smirnov (KS), dimana
+nilai KS dalam penelitian ini sebesar
+0,992 yang nilainya lebih besar dari
+5% sehingga disimpulkan bahwa data
+berdistribusi
+normal.
+Uji
+multikolinieritas
+diperoleh
+nilai
+tolerance lebih dari 0,1 dan nilai VIF
+
+Jurnal Ilmu Manajemen | Volume 1 Nomor 4 Juli
+
+Nur Suhartatik dan Rohmawati Kusumaningtias; Determinan Financing to Deposit Ratio ...
+
+kurang dari 10 sehingga disimpulkan
+bahwa
+tidak
+terjadi
+gejala
+multikolinieritas.Uji heterokedastisitas
+menggunakan uji glejser dimana
+masing-masing
+variabel
+nilai
+signifikansinya
+lebih
+dari
+5%
+sehingga dapat disimpulkan tidak
+terjadi gejala heteroskedastisias. Uji
+autokorelasi menggunakan uji Durbin
+watson dengan nilai durbin watson
+sebesar 2,039 sehingga dapat
+diambil keputusan bahwa tidak
+terdapat gejala autokorelasi.
+Setelah memenuhi uji asumsi
+klasik kemudian dilakukan analisis
+regresi linier berganda dengan hasil
+yang terdapat pada tabel 1 sebagai
+berikut :
+Tabel 1. Hasil Analisis Regresi
+Linier Berganda
+Variabel
+
+Si Sig. F
+
+Regresi
+CAR
+DP DPK
+SB SBIS
+NP NPF
+
+Sig. t
+
+T
+
+0,000
+
+(R2)
+0,474
+
+0.109
+0.121
+0.397
+0.035
+
+- 1.163
+-1,576
+-.854
+2.162
+
+Sumber: diolah penulis (2013)
+Nilai signifikansi F sebesar
+0.000 yang lebih kecil dari 0.05
+sehingga diketahui bahwa CAR,
+DPK, SBIS dan NPF secara
+bersama-sama
+berpengaruh
+terhadap FDR.
+Variabel
+CAR
+diperoleh
+signifikansi t sebesar 0,109 > 0,05 ini
+berarti
+variabel
+CAR
+tidak
+berpengaruh terhadap FDR. Untuk
+variabel DPK diperoleh signifikansi t
+sebesar 0,121 > 0,05 ini berarti
+variabel DPK tidak berpengaruh
+terhadap FDR. Untuk variabel SBIS
+diperoleh signifikansi t sebesar 0,397
+> 0,05 ini berarti variabel SBIS tidak
+berpengaruh terhadap FDR. Untuk
+variabel NPF diperoleh signifikansi t
+sebesar 0,035 < 0,05 ini berarti
+variabel NPF berpengaruh terhadap
+FDR. Persamaan regresi berganda
+yang diperoleh dari hasil penelitian
+tersebut adalah sebagai berikut:
+
+FDR = 0,667 + 1,053 NPF
+Koefisien
+determinasi
+(R2)
+menghasilkan nilai adjusted R square
+1182
+
+sebesar 0,474. Hal ini berarti variabel
+CAR, DPK, SBIS dan NPF hanya
+dapat mempengaruhi variabel FDR
+sebesar 47,4% dan
+52,6%
+dipengaruhi oleh variabel lainnya.
+PEMBAHASAN
+Pengaruh Capital Adequacy Ratio
+(CAR) terhadap FDR Bank Umum
+Syariah.
+Capital Adaquecy Ratio (CAR)
+merupakan rasio kinerja bank untuk
+mengukur kecukupan modal yang
+dimiliki bank untuk menunjang aktiva
+yang
+mengandung
+atau
+menghasilkan risiko, misalnya kredit
+yang diberikan. Jumlah modal yang
+memadai
+memegang
+peranan
+penting dalam memberikan rasa
+aman kepada calon atau para penitip
+uang.
+Hasil penelitian menunjukan
+bahwa CAR tidak berpengaruh
+terhadap FDR bank umum syariah.
+Peningkatan atau penurunan nilai
+CAR selama periode penelitian tidak
+mempengaruhi nilai FDR Bank
+Umum Syariah. Sehingga semakin
+besar CAR maka semakin tinggi
+kemampuan permodalan bank dalam
+menjaga timbulnya risiko kerugian
+kegiatan usahanya namun belum
+tentu secara nyata berpengaruh
+terhadap peningkatan pembiayaan.
+Apabila CAR tinggi maka dapat
+mengurangi kemampuan bank dalam
+melakukan
+ekspansi
+usahanya
+seperti pembiayaan karena semakin
+besar
+cadangan
+modal
+yang
+digunakan untuk menutupi risiko
+kerugian. Dalam penelitian ini risiko
+kerugian yang ditimbulkan dapat
+ditutupi dengan besarnya dana pihak
+ketiga maupun besarnya bonus SBIS
+yang dimiliki oleh bank syariah
+tersebut. Hal tersebut terlihat pada
+dana pihak ketiga yang semakin
+tinggi dan penempatan dana pada
+instrumen keuangan SBIS juga
+mengalami peningkatan pada periode
+
+Jurnal Ilmu Manajemen | Volume 1 Nomor 4 Juli
+
+Nur Suhartatik dan Rohmawati Kusumaningtias; Determinan Financing to Deposit Ratio ...
+
+penelitian.
+Hasil
+penelitian
+ini
+diperkuat oleh penelitian sebelumnya
+yang dilakukan oleh Prayudi (2011).
+Pengaruh Dana Pihak Ketiga (DPK)
+terhadap FDR Bank Umum Syariah
+Dana Pihak Ketiga (DPK)
+adalah dana yang dipercayakan oleh
+masyarakat kepada bank dalam
+bentuk giro, deposito berjangka,
+sertifikat deposito, tabungan atau
+yang dapat dipersamakan dengan itu.
+Dengan dana yang berhasil dihimpun
+oleh bank, maka bank tersebut dapat
+menyalurkan kredit lebih banyak.
+Hasil penelitian menunjukan
+bahwa dana pihak ketiga (DPK) tidak
+berpengaruh terhadap FDR bank
+umum
+syariah.
+Dengan
+meningkatnya dana pihak ketiga
+yang dihimpun bank dari masyarakat
+tidak selalu menaikan proporsi
+pembiayaan yang diberikan kepada
+masyarakat. Hal itu dikarenakan bank
+umum syariah juga tertarik untuk
+menanamkan
+dananya
+pada
+instrumen keuangan seperti giro
+wadiah yang ditempatkan pada BI
+yang menawarkan keuntungan lebih
+tinggi tanpa mendapatkan resiko.
+Hasil penelitian ini didukung oleh
+penelitian
+sebelumnya
+yaitu
+penelitian Prihatiningsih (2012) dan
+Nandadipa (2010).
+Pengaruh
+Sertifikat
+Bank
+Indonesia Syariah (SBIS) terhadap
+FDR Bank Umum Syariah
+Sertifikat
+Bank
+Indonesia
+Syariah (SBIS) adalah surat berharga
+dalam mata uang rupiah yang
+diterbitkan oleh Bank Indonesia
+berjangka waktu pendek berdasarkan
+prinsip syariah. Sertifikat Bank
+Indonesia Syariah (SBIS) merupakan
+salah satu instrumen likuiditas yang
+dimiliki
+perbankan
+syariah
+di
+Indonesia.
+
+1183
+
+Hasil penelitian menunjukan
+bahwa SBIS tidak berpengaruh
+terhadap FDR bank umum syariah.
+Kondisi
+tersebut mengindikasikan
+bahwa besar kecilnya dana yang
+ditempatkan pada instrumen SBIS
+tidak
+mempengaruhi
+besarnya
+pembiayaan yang dilakukan oleh
+bank umum syariah. Karena terdapat
+batas minimal FDR 80% agar bisa
+menempatkan
+dananya
+pada
+instrumen SBIS. Hal ini dibuktikan
+dengan data SBIS pada periode
+penelitian dimana terdapat bank yang
+menempatkan dana pada SBIS dan
+bank
+yang
+tidak
+melakukan
+penempatan dana pada SBIS.
+Namun pada kondisi tersebut bank
+bersangkutan tetap menyalurkan
+pembiayaan. Hasil penelitian ini
+didukung
+oleh
+penelitian
+Prihatiningsih (2012).
+Pengaruh
+Non
+Performing
+Financing (NPF) terhadap FDR
+Bank Umum Syariah
+Non
+Performing
+Financing
+(NPF) merupakan indikator yang
+digunakan
+untuk
+menunjukan
+kerugian akibat risiko pembiayaan.
+Tingkat Non Performing Financing
+(NPF) yang tinggi mengharuskan
+bank
+membentuk
+cadangan
+penghapusan yang lebih besar.
+Hasil menunjukan bahwa NPF
+berpengaruh terhadap FDR bank
+umum syariah. NPF merupakan
+masalah
+pembiayaan
+yang
+diakibatkan karena deposan tidak
+dapat membayar tagihan atau
+pembiayaan. Sehingga besarnya
+NPF menjadi salah satu penyebab
+sulitnya
+perbankan
+dalam
+menyalurkan
+pembiayaan.
+Peningkatan NPF masih berada pada
+batas wajar NPF 5%. Hal tersebut
+mengindikasikan bahwa semakin
+besar pembiayaan yang disalurkan
+maka akan meningkatkan resiko
+pembiayaan bermasalah. Penelitian
+
+Jurnal Ilmu Manajemen | Volume 1 Nomor 4 Juli
+
+Nur Suhartatik dan Rohmawati Kusumaningtias; Determinan Financing to Deposit Ratio ...
+
+ini didukung oleh penelitian dari Irwan
+(2010) dan Siregar (2005).
+KESIMPULAN
+Secara bersama-sama Capital
+Adequacy Ratio (CAR), Dana Pihak
+Ketiga
+(DPK), Sertifikat Bank
+Indonesia Syariah (SBIS), Non
+Performing Ratio (NPF) mempunyai
+pengaruh terhadap FDR Bank Umum
+Syariah. Secara parsial CAR tidak
+berpengaruh terhadap FDR. Dalam
+menutupi risiko kerugian yang
+ditimbulkan dapat diatasi dengan
+memanfaatkan besarnya dana pihak
+ketiga maupun besarnya bonus SBIS
+yang dimiliki oleh bank syariah
+tersebut. Secara parsial DPK tidak
+berpengaruh terhadap FDR. Dana
+yang dihimpun ditempatkan pada
+instrumen keuangan lain yang dapat
+memberikan keuntungan lebih besar
+tanpa menimbulkan risiko.
+Secara parsial SBIS tidak
+berpengaruh terhadap FDR Bank
+Umum Syariah. BI menetapkan batas
+penempatan yang harus dipenuhi
+oleh bank umum syariah. Sehingga
+besar
+kecilnya
+SBIS
+tidak
+berpengaruh
+terhadap
+jumlah
+pembiayaan yang disalurkan. Secara
+parsial NPF berpengaruh terhadap
+FDR. Peningkatan NPF masih berada
+pada batas wajar NPF 5%. Hal
+tersebut
+mengindikasikan bahwa
+semakin besar pembiayaan yang
+disalurkan maka akan meningkatkan
+resiko pembiayaan bermasalah.
+SARAN
+Mempertahankan NPF pada
+tingkat yang rendah sesuai peraturan
+Bank
+Indonesia.
+Karena
+NPF
+dijadikan sebagai pedoman untuk
+mengukur resiko kredit macet untuk
+menentukan
+pembiayaan
+yang
+dilakukan.
+Dan
+memperhatikan
+besarnya rasio FDR sesuai ketentuan
+BI agar tingkat likuiditas bank tetap
+terjaga. Memperhatikan variabel NPF
+1184
+
+dalam membuat keputusan untuk
+melakukan transaksi di Bank Syariah.
+Serta Melakukan penelitian sejenis
+dengan mengganti CAR dengan yang
+lain seperti Debt To Equity Ratio,
+Debt Ratio serta menambah sampel
+penelitian.
+
+DAFTAR PUSTAKA
+Akbar, Masitha dan Mentayani, Ida.
+2010.
+Faktor-Faktor
+Yang
+Mempengauhi
+Intermediasi
+Studi Pada Bank Umum
+Swasta Kalimantan Selatan
+Tahun
+2007-2009.
+Jurnal
+Manajemen dan Akuntansi. 11
+(2): 107-116.
+Arikunto, Suharsimi. 2006. Prosedur
+Penelitian Suatu Pendekatan
+Praktik. Jakarta : PT Rineka
+Cipta.
+Anugraha,
+Rinal Satria.
+2006.
+Analisis Faktor-Faktor Yang
+Mempengaruhi Likuiditas Bank
+Umum Syariah Di Indonesia.
+Skripsi
+diterbitkan
+Bogor.
+Fakultas
+Ekonomi
+dan
+Manajemen IPB.
+Amriani, Fitri Riski. 2012. Analisis
+pengaruh CAR, NPL, BOPO,
+dan NIM terhadap LDR pada
+bank
+BUMN
+persero
+di
+Indonesia periode 2006-2010.
+Skripsi diterbitkan. Makasar.
+FEB Universitas Hasanudin.
+Aziz yahya, Abdul. 2011. Analisis
+Pengaruh Variabel Makro Dan
+Mikro Terhadap Financing To
+Deposit Ratio (FDR) Perbankan
+Syariah. Makalah disajikan
+dalam Seminar Ekonomi Islam.
+Tazkia University College of
+Islamic Economics. Bogor.
+Dendawijaya,
+Lukman.2009.
+Manajemen Perbankan. Bogor :
+Ghalia Indonesia.
+Ghozali, Imam. 2011. Aplikasi
+Analisis Multivariate dengan
+Program
+IBM
+SPSS
+20.
+Semarang: Badan Penerbit
+Universitas Diponegoro.
+
+Jurnal Ilmu Manajemen | Volume 1 Nomor 4 Juli
+
+Nur Suhartatik dan Rohmawati Kusumaningtias; Determinan Financing to Deposit Ratio ...
+
+Haryati, Sri. 2009. Pertumbuhan
+Kredit Perbankan di Indonesia :
+Intermediasi dan Pengaruh
+Variabel Makro Ekonomi. Jurnal
+Keuangan dan Perbankan. Vol
+13, No 2, Hal.299-310.
+Hasibuan, Malayu SP. 2005. DasarDasar Perbankan. Jakarta : PT
+Bumi Aksara.
+Kuncoro, Mudrajad dan Suhardjono.
+2002. Manajemen Perbankan
+Teori Dan Aplikasi. Yogyakarta
+: BPFE.
+Machmud dan Rukmana.2010. Bank
+Syariah Teori, Kebijakan Dan
+Studi Empiris Indonesia Jakarta
+: Erlangga.
+Malhotra, Naresh K. 2009. Riset
+Pemasaran. Jakarta : Indeks.
+N Q Irwan, Lella. 2010. Tinjauan
+Terhadap Fungsi Dan FaktorFaktor Yang Mempengaruhi
+Intermediasi
+Perbankan
+Nasional. Jurnal Trikonomika. 9
+(2): 96-104.
+Nasirudin.2005. Faktor-Faktor yang
+Mempengaruhi
+Loan
+To
+Deposit Ratio (LDR) di BPR
+Wilayah Kerja Kantor Bank
+Indonesia Semarang. Tesis.
+Program Magister Manajemen
+Universitas Diponegoro.
+Nuriyah
+Solissa,
+Dian.
+2009.
+Pengaruh
+SBIS
+Terhadap
+Tingkat
+FDR
+Perbankan
+Syariah
+(Analisis
+Simulasi
+Kebijakan). Tesis diterbitkan.
+Jakarta.
+PSKTTI Pasca
+Sarjana Universitas Indonesia.
+Pratama, Billy Arma. 2010. Analisis
+Faktor Yang Mempengaruhi
+Kebijakan Penyaluran Kredit
+Perbankan. (Studi Pada Bank
+Umum Di Indonesia Periode
+Tahun
+2005-2009).
+Tesis
+diterbitkan. Semarang.
+FE
+Universitas Diponegoro.
+Prihatiningsih.
+2012.
+Dinamika
+Financing To Deposit Ratio
+
+1185
+
+(FDR)
+Perbankan
+Syariah
+Tahun
+2006-2011.
+Jurnal
+Orbith, 8 (3):.183-188.
+Tracey,Mark. 2011.The Impact of
+Non Performing Loan on
+Growth: Journal Of Money,
+Credit And Banking. 26 (3):
+585-628.
+Remi
+Sjahdeini,
+Sutan.
+1999.Perbankan Islam. Jakarta
+: Pustaka Utama Grafiti
+Sholichah, Nikmatus. 2012. Analisis
+Faktor-Faktor
+Yang
+Mempengaruhi
+Pembiayaan
+Bank Umum Syariah Tahun
+2008-2011.
+Skripsi
+tidak
+dipublikasikan. Program Studi
+Manajemen Universitas Negeri
+Surabaya
+Simorangkir.2004.
+Pengantar
+Lembaga Keuangan Bank &
+Non Bank. Bogor: Ghalia
+Indonesia.
+Sugiyono. 2011. Metode Penelitian
+Kuantitatif Kualitatif Dan R&D.
+Bandung : Alfabeta.
+Sulhan dan Ely Siswanto. 2008.
+Manajemen
+Bank:
+Konvensioanal Dan Syariah.
+Malang: UIN Malang Press.
+Sumitro, Warkum. 2002. Asas-Asas
+Perbankan
+Islam
+Dan
+Lembaga-Lembaga
+Terkait.
+Jakarta : PT Raja Grafindo
+Persada.
+Syafi’i Antonio, Muhammad. 2001.
+Bank Syariah : dari Teori ke
+Praktik. Jakarta : Gema Insani.
+Ulum, Fahrur. 2011. Perbankan
+Syariah di Indonesia. Surabaya
+: CV Putra Media Nusantara.
+Undang
+–
+Undang
+Republik
+Indonesia Nomor 7 tahun 1992
+tentang Perbankan.
+Undang- Undang Republik Indonesia
+Nomor 10 Tahun 1998 Tentang
+Perbankan Jakarta.
+
+Jurnal Ilmu Manajemen | Volume 1 Nomor 4 Juli
+
+
